@@ -781,6 +781,7 @@ tag:
 - [`@stella6767` / HTMX TIP](https://velog.io/@stella6767/HTMX-TIP)
 - [`@thd0427` / Route는 왜 직렬화가 가능해야 할까?](https://velog.io/@thd0427/Route%EB%8A%94-%EC%99%9C-%EC%A7%81%EB%A0%AC%ED%99%94%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [`@jeong_hun_hui` / \[설문이용\] 설문 클래스를 어떻게 설계해야할까? (feat. DDD, TDD)](https://velog.io/@jeong_hun_hui/%EC%84%A4%EB%AC%B8%EC%9D%B4%EC%9A%A9-%EC%84%A4%EB%AC%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-feat.-DDD-TDD)
+- [`@dnr6054` / Kotlin Grammar](https://velog.io/@dnr6054/Kotlin-Grammar)
 
 <!-- END: velog.io kotlin -->
 

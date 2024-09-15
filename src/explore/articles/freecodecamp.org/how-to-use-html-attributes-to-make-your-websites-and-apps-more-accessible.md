@@ -84,13 +84,14 @@ If the image is purely decorative, then the alt attribute should be left empty. 
 Here's an example of how you can use the alt attribute:
 
 ```html
-<p>Lions are remarkable for their powerful roars, 
+Lions are remarkable for their powerful roars, 
 which can be heard up to five miles away. 
 These roars are used to communicate with other 
 members of the pride, as well as to ward off rival lions and intruders. 
 Although lions are often associated with the African savannah, 
 a small population of Asiatic lions still exists in India's Gir Forest, 
-making them one of the world's most endangered big cats.</p>
+making them one of the world's most endangered big cats.
+
 
 <img src="lion.jpg" alt="a lion" /> <!-- brief and gives context to the paragraph -->
 
@@ -184,14 +185,18 @@ You can use this attribute when there is already a visible text label or when th
 For example, you can use `aria-labelledby` in a `<section>` element to associate it with a heading or other text that serves as a label for the entire section.
 
 ```html
-<h2 id="about-heading">About Us</h2> 
+<h2 id="about-heading">About Us
+ 
 <section aria-labelledby="about-heading"> <!-- use the id of the h2 -->
-    <p>We are a company dedicated to providing excellent service...</p>
+    We are a company dedicated to providing excellent service...
+
 </section>
 
-<h2 id="services-heading">Our Services</h2>
+<h2 id="services-heading">Our Services
+
 <section aria-labelledby="services-heading">
-    <p>We offer a wide range of services including...</p>
+    We offer a wide range of services including...
+
 </section>
 ```
 
@@ -199,7 +204,8 @@ Sometimes, you might want to combine multiple pieces of text as the label. You c
 
 ```html
 <h1 id="dialog-title">Confirmation Required</h1>
-<p id="dialog-description">Are you sure you want to delete this item?</p>
+<p id="dialog-description">Are you sure you want to delete this item?
+
 <button aria-labelledby="dialog-title dialog-description">Yes</button>
 ```
 
@@ -266,18 +272,21 @@ This example below is just for demonstration purposes – you should use the rig
 
 <div role="navigation">
     <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-    </ul>
+        <li><a href="#home">Home</a>
+        <li><a href="#about">About</a>
+    
 </div>
 
 <div role="main">
-    <h2>Welcome to My Website</h2>
-    <p>Here is some main content...</p>
+    <h2>Welcome to My Website
+
+    Here is some main content...
+
 </div>
 
 <div role="contentinfo">
-    <p>&copy; 2024 My Website</p>
+    &copy; 2024 My Website
+
 </div>
 ```
 
@@ -292,8 +301,10 @@ Roles for Widgets and Interactive Elements:
 <div role="button" tabindex="0" onclick="submitForm()">Submit</div>
 
 <div role="dialog" aria-labelledby="dialog-title" aria-modal="true">
-    <h2 id="dialog-title">Confirmation</h2>
-    <p>Are you sure you want to proceed?</p>
+    <h2 id="dialog-title">Confirmation
+
+    Are you sure you want to proceed?
+
     <button onclick="closeDialog()">Close</button>
 </div>
 ```
@@ -308,18 +319,24 @@ Example of Tabbed panel:
 </div>
 
 <div role="tabpanel" id="panel-1" aria-labelledby="tab-1">
-    <h2>Content for Tab 1</h2>
-    <p>This is the content of the first tab.</p>
+    <h2>Content for Tab 1
+
+    This is the content of the first tab.
+
 </div>
 
 <div role="tabpanel" id="panel-2" aria-labelledby="tab-2" hidden>
-    <h2>Content for Tab 2</h2>
-    <p>This is the content of the second tab.</p>
+    <h2>Content for Tab 2
+
+    This is the content of the second tab.
+
 </div>
 
 <div role="tabpanel" id="panel-3" aria-labelledby="tab-3" hidden>
-    <h2>Content for Tab 3</h2>
-    <p>This is the content of the third tab.</p>
+    <h2>Content for Tab 3
+
+    This is the content of the third tab.
+
 </div>
 ```
 
@@ -364,10 +381,10 @@ Here's an example of the selection state in a list box. `aria-selected="true"` i
 ```html
 <!-- Listbox -->
 <ul role="listbox">
-  <li role="option" aria-selected="true">Option 1</li>
-  <li role="option" aria-selected="false">Option 2</li>
-  <li role="option" aria-selected="false">Option 3</li>
-</ul>
+  <li role="option" aria-selected="true">Option 1
+  <li role="option" aria-selected="false">Option 2
+  <li role="option" aria-selected="false">Option 3
+
 ```
 
 ### Best Practices for Using `aria-selected`
@@ -701,12 +718,15 @@ Like in the example below, when the modal is open the `inert` attribute is added
 
 ```html
 <div id="main-content" inert>
-    <p>This is the main content of the page. It will be inactive when the modal is open.</p>
+    This is the main content of the page. It will be inactive when the modal is open.
+
 </div>
 
 <div id="modal" role="dialog" aria-modal="true">
-    <h2>Modal Title</h2>
-    <p>This is the content inside the modal.</p>
+    <h2>Modal Title
+
+    This is the content inside the modal.
+
     <button onclick="closeModal()">Close Modal</button>
 </div>
 

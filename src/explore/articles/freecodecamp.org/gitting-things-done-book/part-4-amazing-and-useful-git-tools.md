@@ -87,7 +87,8 @@ You can specify multiple revisions for `git log` - if you write `git log branch_
 For example, the following command:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git log branch_1 ^branch_2
-`</pre>
+```
+
 asks `git log` to include every commit that is reachable from `branch_1`, but not those reachable from `branch_2`.
 
 Consider the history when I use `git log feature_branch_1` on this repo:
@@ -100,7 +101,8 @@ The history includes all commits reachable by `feature_branch_1`. Since this bra
 What would happen if I ran this command?
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git log feature_branch_1 ^main
-`</pre>
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/git_log_3.png)Image" width="952" height="325" loading="lazy">
 _`git log feature_branch_1 ^main`_
 
@@ -114,12 +116,14 @@ To follow commits that are reachable from any named reference or (any refs in `r
 
 If you know you are looking for a commit that a specific person has authored, you can filter these commits by using that user's name or email, like so:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--author="Name"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --author="Name"
+```
+
 You can use regular expressions to look for author names that match a specific pattern, for example:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--author="John\|Jane"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --author="John\|Jane"
+```
+
 will filter commits authored by either John or Jane.
 
 <h4 id="heading-by-date">By Date
@@ -128,36 +132,42 @@ When you know that the change you are looking for has been committed within a sp
 
 For example, to get all commits introduced after April 12th, 2023 (inclusive), use:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--after="2023-04-12"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --after="2023-04-12"
+```
+
 <h4 id="heading-by-paths">By Paths
 
 You can ask `git log` to only show commits where *changes* to files in specific paths have been introduced. Notice that this does not mean any commit that points to a tree that includes the files in question, but rather that if we compute the difference between the commit in question and its parent, we would see that at least one of the paths has been modified.
 
 For example, you can use:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--all -- <span class="token number">1.py
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --all -- 1.py
+```
+
 to find all commits that are reachable from any named pointer, or `HEAD`, and introduce a change to `1.py`. You can specify multiple paths:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--all -- <span class="token number">1.py <span class="token number">2.py
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --all -- 1.py 2.py
+```
+
 The previous command will make `git log` include reachable commits that introduced a change to `1.py` or `2.py` (or both).
 
 You can also use a glob pattern, for example:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git log -- *.py
-`</pre>
+```
+
 will include commits reachable from `HEAD` that include a change to any file in the root directory whose name ends with a `.py`. To look for any file whose name ends with `.py`, you can use:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git log -- **/*.py
-`</pre>
+```
+
 <h4 id="heading-by-commit-message">By Commit Message
 
 If you know the commit message (or parts of it) of the commit you are searching, you can use the `--grep` switch for "git log", for example:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--grep="Commit 12"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --grep="Commit 12"
+```
+
 yields back the commit with the message "Commit 12".
 
 <h4 id="heading-by-diff-content">By Diff Content
@@ -168,14 +178,16 @@ This comes in handy, for example, when you know you have created something in th
 
 Say I remember I wrote a line with the text `Git is awesome`, but I can't find it now. I could run:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--all -S"Git is awesome"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --all -S"Git is awesome"
+```
+
 Notice I used `--all` to avoid restraining myself to commits reachable from `HEAD`.
 
 You can also search for a regular expression, using `-G`:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--all -G"Git .* awesome"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --all -G"Git .* awesome"
+```
+
 ### heading-formatting-log">Formatting Log
 
 Consider the default output of `git log` again:
@@ -209,8 +221,9 @@ To explicitly ask for `git log` to show decorations, you can use `git log --deco
 
 Consider the output of the following command on my repository:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--oneline feature_branch_1 feature_branch_2
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --oneline feature_branch_1 feature_branch_2
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/git_log_7.png)The output of " width="532" height="386" loading="lazy">
 _The output of `git log --oneline feature_branch_1 feature_branch_2`_
 
@@ -233,8 +246,9 @@ By using `--pretty=format:`, you can display the information of each commit in v
 
 In the following command, the `%s`, `%an` and `%cd` placeholders are replaced by the commit's subject (message), author name, and the commit's date, respectively.
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--oneline <span class="token parameter variable">--graph feature_branch_1 feature_branch_2 <span class="token parameter variable">--pretty=format:"%s (%an) [%cd]"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --oneline --graph feature_branch_1 feature_branch_2 --pretty=format:"%s (%an) [%cd]"
+```
+
 The output looks like this:
 
 ![](https://freecodecamp.org/news/content/images/2023/12/git_log_9.png)Image" width="905" height="385" loading="lazy">
@@ -242,8 +256,9 @@ _`git log --oneline --graph feature_branch_1 feature_branch_2 --pretty=format:"%
 
 That's useful, but not really great to look at. We can then use other formatting tricks, specifically `%C(color)` that will switch the color to `color`, until reaching a `%Creset` that resets the color. To make the author name's yellow, you can use:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--oneline <span class="token parameter variable">--graph feature_branch_1 feature_branch_2 <span class="token parameter variable">--pretty=format:"%s %C(yellow)(%an)%Creset [%cd]"
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --oneline --graph feature_branch_1 feature_branch_2 --pretty=format:"%s %C(yellow)(%an)%Creset [%cd]"
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/git_log_10.png)Image" width="922" height="427" loading="lazy">
 _`git log --oneline --graph feature_branch_1 feature_branch_2 --pretty=format:"%s %C(yellow)(%an)%Creset [%cd]"`_
 
@@ -263,8 +278,9 @@ You already know `--graph`, which makes the output include an ASCII graph.
 
 The rest is just coloring of various details about the commit:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git lol <span class="token parameter variable">--all
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git lol --all
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/git_log_11.png)Image" width="1051" height="386" loading="lazy">
 *`git lol --all`*
 
@@ -278,14 +294,16 @@ How can you create an alias in Git?
 
 The easiest way is to use `git alias`, like so:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git config <span class="token parameter variable">--global alias.co checkout
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git config --global alias.co checkout
+```
+
 This command sets `co` to be an alias for the command `checkout`, so you can use `git co main` instead of `git checkout main`.
 
 To define `git lol` as an alias, you can use:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git config <span class="token parameter variable">--global alias.lol 'log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit'
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git config --global alias.lol 'log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit'
+```
+
 ---
 
 ## ---
@@ -325,8 +343,9 @@ This branch consists of more than 500 commits.
 
 Find the first commit on this branch by using:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git log <span class="token parameter variable">--oneline | tail <span class="token parameter variable">-n <span class="token number">1
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git log --oneline | tail -n 1
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/bisect_2.png)Image" width="839" height="66" loading="lazy">
 *`git log --oneline | tail -n 1`*
 
@@ -341,7 +360,8 @@ To find it using `git bisect`, `start` the bisect process, and mark this commit 
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git bisect start
 git bisect good
-`</pre>
+```
+
 By default, `git bisect good` would take `HEAD` as the "good" commit. To mark `main` as "bad", you can use `git bisect bad main`:
 
 ![](https://freecodecamp.org/news/content/images/2023/12/bisect_3.png)Image" width="947" height="174" loading="lazy">
@@ -377,7 +397,8 @@ It is possible to automate the process of `git bisect` by creating code that wou
 The syntax is:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git bisect run my_script arguments
-`</pre>
+```
+
 As this book is not about programming and doesn't assume you know a specific programming language, I will not show an example of implementing `my_script`. The `README.md` file in the repository used in this chapter (<a href="https://github.com/Omerr/bisect-exercise.git">https://github.com/Omerr/bisect-exercise.git</a>) includes an example for a script that you can run with `git bisect run` to automatically find the faulty commit for the previous example.
 
 ---
@@ -394,34 +415,38 @@ Introduced in <a class="post-section-overview" href="#heading-chapter-8-understa
 
 In <a class="post-section-overview" href="#heading-chapter-8-understanding-git-rebase">chapter 8</a> we considered the difference introduced by "Commit 5" (using `git diff main <SHA_OF_COMMIT_5>`):
 
-![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5-1.png)Running  to observe the patch introduced by &quot;Commit 5&quot;" width="791" height="362" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5-1.png)Running  to observe the patch introduced by 'Commit 5'" width="791" height="362" loading="lazy">
 *Running `git diff` to observe the patch introduced by "Commit 5"*
 
 You can see that in this commit, John started working on a song called "Lucy in the Sky with Diamonds":
 
-![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5_output-1.png)The output of  - the patch introduced by &quot;Commit 5&quot;" width="1189" height="786" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5_output-1.png)The output of  - the patch introduced by 'Commit 5'" width="1189" height="786" loading="lazy">
 *The output of `git diff` - the patch introduced by "Commit 5"*
 
 As a reminder, you can also use the command `git show` to get the same output:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git show <SHA_OF_COMMIT_<span class="token file-descriptor important">5>
-`</pre>
+```
+
 Now, if you `cherry-pick` this commit, you will introduce *this change* specifically, on the active branch. You can switch to `main` branch:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git checkout main (or git switch main)
-`</pre>
+```
+
 And create another branch:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git checkout <span class="token parameter variable">-b my_branch (or git switch <span class="token parameter variable">-c my_branch)
-`</pre>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git checkout -b my_branch (or git switch -c my_branch)
+```
+
 ![](https://freecodecamp.org/news/content/images/2023/12/create_my_branch-1.png)Creating  that branches from " width="801" height="493" loading="lazy">
 _Creating `my_branch` that branches from `main`_
 
 Next, `cherry-pick` "Commit 5":
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git cherry-pick <SHA_OF_COMMIT_<span class="token file-descriptor important">5>
-`</pre>
-![](https://freecodecamp.org/news/content/images/2023/12/cherry_pick_commit_5-1.png)Using  to apply the changes introduced in &quot;Commit 5&quot; onto " width="801" height="685" loading="lazy">
+```
+
+![](https://freecodecamp.org/news/content/images/2023/12/cherry_pick_commit_5-1.png)Using  to apply the changes introduced in 'Commit 5' onto " width="801" height="685" loading="lazy">
 *Using `cherry-pick` to apply the changes introduced in "Commit 5" onto `main`*
 
 Consider the log (output of `git lol`):

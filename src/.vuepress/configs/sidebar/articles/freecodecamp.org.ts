@@ -17,6 +17,24 @@ const GITTING_THINGS_DONE_BOOK: SidebarInfoSubgroupTemplate = { // 2024-01-08
   ],
 }
 
+const APPLIED_DATA_SCIENCE_WITH_PYTHON_BOOK: SidebarInfoSubgroupTemplate = {
+  text: 'Applied Data Science with Python – Business Intelligence for Developers [Full Book]',
+  collapsible: true,
+  icon: 'fa-brands fa-python',
+  subPath: 'applied-data-science-with-python-book',
+  children: [
+    'README',
+    '1-python-foundations-building-blocks-for-data-mastery',
+    '2-essential-libraries-your-data-wrangling-dream-team',
+    '3-practical-examples-from-theory-to-action',
+    '4-data-analysis-fundamentals-the-art-of-making-sense-of-data',
+    '5-introduction-to-the-project',
+    '6-code-walkthrough',
+    '7-analyzing-the-results',
+    '8-conclusion-and-future-steps',
+  ],
+}
+
 const HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK: SidebarInfoSubgroupTemplate = { // 2024-09-10
   text: 'How AI Agents Can Help Supercharge Language Models – A Handbook for Developers',
   collapsible: true,
@@ -224,7 +242,7 @@ export const template: SidebarInfoTemplate = {
       "empire-state-building-run-up-analysis-with-python", // 2024-05-08
       "how-to-install-python-on-a-mac", // 2024-05-09
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
-      "applied-data-science-with-python-book", // 2024-06-04
+      APPLIED_DATA_SCIENCE_WITH_PYTHON_BOOK, // 2024-06-04
       "python-coding-challenges-for-beginners", // 2024-06-04
       "unit-testing-in-python", // 2024-06-10
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
@@ -512,6 +530,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "career", [
       "skills-you-need-to-become-a-backend-developer-roadmap", // 2024-09-03
+      "how-to-be-a-productive-developer", // 2024-09-13
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -591,7 +610,7 @@ export const template: SidebarInfoTemplate = {
       "comparing-iac-tools-aws-cdk-cloudformation-terraform", // 2024-06-03
       "how-to-build-a-rating-component-with-the-react-compound-component-pattern", // 2024-06-03
       "build-and-deploy-smart-contract-rust-gear-protocol", // 2024-06-04
-      "applied-data-science-with-python-book", // 2024-06-04
+      APPLIED_DATA_SCIENCE_WITH_PYTHON_BOOK, // 2024-06-04
       "learn-to-code-rest-apis-using-nextjs-14", // 2024-06-04
       "build-a-youtube-clone-with-flutter-firebase-and-riverpod", // 2024-06-04
       "python-coding-challenges-for-beginners", // 2024-06-04
@@ -784,7 +803,9 @@ export const template: SidebarInfoTemplate = {
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
       "pass-the-azure-ai-engineer-associate-certification-ai-102", // 2024-09-10
       "how-event-handling-works-in-vue-3-guide-for-devs", // 2024-09-11
+      "how-to-build-an-expense-tracker-with-html-css-and-javascript", // 2024-09-11
       "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
+      "how-to-be-a-productive-developer", // 2024-09-13
     ]],
   ]),
 }

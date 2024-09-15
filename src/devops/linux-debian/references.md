@@ -96,6 +96,7 @@ tag:
 - [`@composite` / Ubuntu 상에서 PyTorch, TensorFlow 에서 CUDA GPU 인식 안될 때](https://velog.io/@composite/Ubuntu-%EC%83%81%EC%97%90%EC%84%9C-PyTorch-TensorFlow-%EC%97%90%EC%84%9C-CUDA-GPU-%EC%9D%B8%EC%8B%9D-%EC%95%88%EB%90%A0-%EB%95%8C)
 - [`@mythos` / \[Linux Kernel\] 리눅스 커널의 버전 관리 (Versioning)](https://velog.io/@mythos/Linux-Kernel-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%9D%98-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-Versioning)
 - [`@mythos` / \[Linux Kernel\] 패치 라이프 사이클 (next, staging tree)](https://velog.io/@mythos/Linux-Kernel-%ED%8C%A8%EC%B9%98-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4)
+- [`@euisuk-chung` / nvidia-smi의 시대는 갔다?](https://velog.io/@euisuk-chung/nvidia-smi%EC%9D%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EA%B0%94%EB%8B%A4)
 
 <!-- END: velog.io -->
 

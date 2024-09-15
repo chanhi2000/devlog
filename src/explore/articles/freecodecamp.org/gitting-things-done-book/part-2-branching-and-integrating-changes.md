@@ -628,9 +628,7 @@ Understanding diffs is a major milestone for understanding many other processes 
 
 By reading this chapter, you are going to really understand `git merge`, one of the most common operations you'll perform in your Git repositories.
 
-<!--
-
-### heading-what-is-a-merge-in-git">What is a Merge in Git?
+### What is a Merge in Git?
 
 Merging is the process of combining the recent changes from several branches into a single new commit. This commit points back to these branches.
 
@@ -642,51 +640,50 @@ Remember that in Git, a branch is just a name pointing to a single commit. When 
 
 That is, if you consider this commit graph:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_graph_1.png" alt="Commit graph with " width="1405" height="554" loading="lazy">
-_Commit graph with `feature_1`_
+![Commit graph with `feature_1`](https://freecodecamp.org/news/content/images/2023/12/commit_graph_1.png)
 
-You see the branch `feature_1`, which points to a commit with the SHA-1 value of `ba0d2`. As in previous chapters, I only write the first 5 digits of the SHA-1 value for brevity.
+You see the branch <FontIcon icon="fas fa-code-branch"/>`feature_1`, which points to a commit with the SHA-1 value of `ba0d2`. As in previous chapters, I only write the first 5 digits of the SHA-1 value for brevity.
 
-Notice that commit `54a9d` is also "on" this branch, as it is the parent commit of `ba0d2`. So if you start from the pointer of `feature_1`, you get to `ba0d2`, which then points to `54a9d`. You can go on the chain of parents, and all these reachable commits are considered to be "on" `feature_1`.
+Notice that commit `54a9d` is also "on" this branch, as it is the parent commit of `ba0d2`. So if you start from the pointer of <FontIcon icon="fas fa-code-branch"/>`feature_1`, you get to `ba0d2`, which then points to `54a9d`. You can go on the chain of parents, and all these reachable commits are considered to be "on" <FontIcon icon="fas fa-code-branch"/>`feature_1`.
 
 When you merge with Git, you merge commits. Almost always, we merge two commits by referring to them with the branch names that point to them. Thus we say we "merge branches" - though under the hood, we actually merge commits.
 
-### heading-time-to-get-hands-on-1">Time to Get Hands-on
+### Time to Get Hands-on
 
 For this chapter, I will use the following repository:
 
-<a href="https://github.com/Omerr/gitting_things_merge.git">https://github.com/Omerr/gitting_things_merge.git</a>
+<SiteInfo
+  name="Omerr/gitting_things_merge"
+  desc="A practice repo accompanying Chapter 7 of Gitting Things Done book"
+  url="https://github.com/Omerr/gitting_things_merge"
+  logo="https://avatars.githubusercontent.com/u/52040016?v=4"
+  preview="https://opengraph.githubassets.com/6a523daa47ce27e47be2d48594e590bab824f093bc10db99de138a0af3508de4/Omerr/gitting_things_merge"/>
 
 As in previous chapters, I encourage you to clone it locally and have the same starting point I am using for this chapter.
 
-OK, so let's say I have this simple repository here, with a branch called `main`, and a few commits with the commit messages of "Commit 1", "Commit 2", and "Commit 3":
+OK, so let's say I have this simple repository here, with a branch called <FontIcon icon="fas fa-code-branch"/>`main`, and a few commits with the commit messages of "Commit 1", "Commit 2", and "Commit 3":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commits_1_3.png" alt="A simple repository with three commits" width="1688" height="560" loading="lazy">
-*A simple repository with three commits*
+![A simple repository with three commits](https://freecodecamp.org/news/content/images/2023/12/commits_1_3.png)
 
 Next, create a feature branch by typing `git branch new_feature`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_branch_new_feature.png" alt="Creating a new branch with " width="1876" height="302" loading="lazy">
-*Creating a new branch with `git branch`*
+![Creating a new branch with `git branch`](https://freecodecamp.org/news/content/images/2023/12/git_branch_new_feature.png)
 
 And switch `HEAD` to point to this new branch, by using `git checkout new_feature` (or `git switch new_feature`). You can look at the outcome by using git log:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_checkout_new_feature.png" alt="The output of  after using " width="1876" height="539" loading="lazy">
-_The output of `git log` after using `git checkout new_feature`_
+![The output of `git log` after using `git checkout new_feature`](https://freecodecamp.org/news/content/images/2023/12/git_checkout_new_feature.png)
 
 As a reminder, you could also write `git checkout -b new_feature`, which would both create a new branch and change `HEAD` to point to this new branch.
 
-If you need a reminder about branches and how they're implemented under the hood, please check out <a class="post-section-overview" href="#heading-chapter-2-branches-in-git">chapter 2</a>. Yes, check out. Pun intended 😇
+If you need a reminder about branches and how they're implemented under the hood, please check out [chapter 2](#chapter-2-branches-in-git). Yes, check out. Pun intended 😇
 
-Now, on the `new_feature` branch, implement a new feature. In this example, I will edit an existing file that looks like this before the edit:
+Now, on the <FontIcon icon="fas fa-code-branch"/>`new_feature` branch, implement a new feature. In this example, I will edit an existing file that looks like this before the edit:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_before_changes.png" alt=" before editing it" width="630" height="231" loading="lazy">
-*`code.py` before editing it*
+![`code.py` before editing it](https://freecodecamp.org/news/content/images/2023/12/code_py_before_changes.png)
 
 And I will now edit it to include a new function:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_new_feature.png" alt="Implementing " width="644" height="308" loading="lazy">
-_Implementing `new_feature`_
+![Implementing <FontIcon icon="fas fa-code-branch"/>`new_feature`](https://freecodecamp.org/news/content/images/2023/12/code_py_new_feature.png)
 
 And luckily, this is not a programming book, so this function is legit 😇
 
@@ -698,24 +695,21 @@ git add code.py
 git commit -m "Commit 4"
 ```
 
-Looking at the history, you have the `branch new_feature`, now pointing to "Commit 4", which points to its parent, "Commit 3". The branch main is also pointing to "Commit 3".
+Looking at the history, you have the branch <FontIcon icon="fas fa-code-branch"/>`new_feature`, now pointing to "Commit 4", which points to its parent, "Commit 3". The branch main is also pointing to "Commit 3".
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commits_1_4.png" alt="The history after committing &quot;Commit 4&quot;" width="1865" height="241" loading="lazy">
-*The history after committing "Commit 4"*
+![The history after committing "Commit 4"](https://freecodecamp.org/news/content/images/2023/12/commits_1_4.png)
 
-Time to merge the new feature! That is, merge these two branches, `main` and `new_feature`. Or, in Git's lingo, merge `new_feature` *into* `main`. This means merging "Commit 4" and "Commit 3". This is pretty trivial, as after all, "Commit 3" is an ancestor of "Commit 4".
+Time to merge the new feature! That is, merge these two branches, <FontIcon icon="fas fa-code-branch"/>`main` and <FontIcon icon="fas fa-code-branch"/>`new_feature`. Or, in Git's lingo, merge <FontIcon icon="fas fa-code-branch"/>`new_feature` *into* <FontIcon icon="fas fa-code-branch"/>`main`. This means merging "Commit 4" and "Commit 3". This is pretty trivial, as after all, "Commit 3" is an ancestor of "Commit 4".
 
 Check out the main branch (with `git checkout main`), and perform the merge by using `git merge new_feature`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_merge_new_feature.png" alt="Merging  into " width="699" height="192" loading="lazy">
-_Merging `new_feature` into `main`_
+![Merging <FontIcon icon="fas fa-code-branch"/>`new_feature` into <FontIcon icon="fas fa-code-branch"/>`main`](https://freecodecamp.org/news/content/images/2023/12/git_merge_new_feature.png)
 
-Since `new_feature` never really diverged from main, Git could just perform a fast-forward merge. So what happened here? Consider the history:
+Since <FontIcon icon="fas fa-code-branch"/>`new_feature` never really diverged from main, Git could just perform a fast-forward merge. So what happened here? Consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_ff_merge.png" alt="The result of a fast-forward merge" width="1874" height="256" loading="lazy">
-*The result of a fast-forward merge*
+![The result of a fast-forward merge](https://freecodecamp.org/news/content/images/2023/12/git_ff_merge.png)
 
-Even though you used `git merge`, there was no actual merging here. Actually, Git did something very simple - it `reset` the main branch to point to the same commit as the branch `new_feature`.
+Even though you used `git merge`, there was no actual merging here. Actually, Git did something very simple - it `reset` the main branch to point to the same commit as the branch <FontIcon icon="fas fa-code-branch"/>`new_feature`.
 
 In case you don't want that to happen, but rather you want Git to really perform a merge, you could either change Git's configuration, or run the merge command with the `--no-ff` flag.
 
@@ -727,7 +721,7 @@ git reset --hard HEAD~1
 
 Reminder: if this way of using reset is not clear to you, don't worry - we will cover it in detail in Part 3. It is not crucial for this introduction of merge, though. For now, it's important to understand that it basically undoes the merge operation.
 
-Just to clarify, now if you checked out `new_feature` again:
+Just to clarify, now if you checked out <FontIcon icon="fas fa-code-branch"/>`new_feature` again:
 
 ```sh
 git checkout new_feature
@@ -735,8 +729,7 @@ git checkout new_feature
 
 The history would look just like before the merge:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_reset_after_merge.png" alt="The history after using " width="876" height="339" loading="lazy">
-*The history after using `git reset --hard HEAD~1`*
+![The history after using `git reset --hard HEAD~1`](https://freecodecamp.org/news/content/images/2023/12/history_after_reset_after_merge.png)
 
 Next, perform the merge with the `--no-fast-forward` flag (`--no-ff` for short):
 
@@ -747,10 +740,9 @@ git merge new_feature --no-ff
 
 Now, if we look at the history using `git lol`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_lol_1.png" alt="History after merging with the  flag" width="803" height="208" loading="lazy">
-*History after merging with the `--no-ff` flag*
+![History after merging with the `--no-ff` flag](https://freecodecamp.org/news/content/images/2023/12/git_lol_1.png)
 
-(Reminder: `git lol` is an alias I added to Git to visibly see the history in a graphical manner. You can find it, along with the other components of my setup, at the <a class="post-section-overview" href="#heading-my-setup">My Setup</a> part of the <a class="post-section-overview" href="#heading-introduction">Introduction</a> chapter.)
+(Reminder: `git lol` is an alias I added to Git to visibly see the history in a graphical manner. You can find it, along with the other components of my setup, at the [My Setup](#my-setup) part of the [Introduction](#introduction) chapter.)
 
 Considering this history, you can see Git created a new commit, a merge commit.
 
@@ -760,18 +752,17 @@ If you consider this commit a bit closer:
 git log -n1
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_log_after_lol_1.png" alt="The merge commit has two parents" width="677" height="159" loading="lazy">
-*The merge commit has two parents*
+![The merge commit has two parents](https://freecodecamp.org/news/content/images/2023/12/git_log_after_lol_1.png)
 
-You will see that this commit actually has two parents - "Commit 4", which was the commit that `new_feature` pointed to when you ran `git merge`, and "Commit 3", which was the commit that `main` pointed to.
+You will see that this commit actually has two parents - "Commit 4", which was the commit that <FontIcon icon="fas fa-code-branch"/>`new_feature` pointed to when you ran `git merge`, and "Commit 3", which was the commit that <FontIcon icon="fas fa-code-branch"/>`main` pointed to.
 
 **A merge commit has two parents: the two commits it merged.**
 
 The merge commit shows us the concept of merge quite well. Git takes two commits, usually referenced by two different branches, and merges them together.
 
-After the merge, as you started the process from `main`, you are still on `main`, and the history from `new_feature` has been *merged* into this branch. Since you started with `main`, then "Commit 3", which `main` pointed to, is the first parent of the merge commit, whereas "Commit 4", which you merged into `main`, is the second parent of the merge commit.
+After the merge, as you started the process from <FontIcon icon="fas fa-code-branch"/>`main`, you are still on <FontIcon icon="fas fa-code-branch"/>`main`, and the history from <FontIcon icon="fas fa-code-branch"/>`new_feature` has been *merged* into this branch. Since you started with <FontIcon icon="fas fa-code-branch"/>`main`, then "Commit 3", which <FontIcon icon="fas fa-code-branch"/>`main` pointed to, is the first parent of the merge commit, whereas "Commit 4", which you merged into <FontIcon icon="fas fa-code-branch"/>`main`, is the second parent of the merge commit.
 
-Notice that you started on `main` when it pointed to "Commit 3", and Git went quite a long way for you. It changed the working tree, the index, and also `HEAD` and created a new commit object. At least when you use `git merge` without the `--no-commit` flag and when it's not a fast-forward merge, Git does all of that.
+Notice that you started on <FontIcon icon="fas fa-code-branch"/>`main` when it pointed to "Commit 3", and Git went quite a long way for you. It changed the working tree, the index, and also `HEAD` and created a new commit object. At least when you use `git merge` without the `--no-commit` flag and when it's not a fast-forward merge, Git does all of that.
 
 This was a super simple case, where the branches you merged didn't diverge at all. We will soon consider more interesting cases.
 
@@ -779,7 +770,7 @@ By the way, you can use `git merge` to merge more than two commits - actually, a
 
 Another way to think of `git merge` is by joining two or more development histories together. That is, when you merge, you incorporate changes from the named commits, since the time their histories diverged *from* the current branch, *into* the current branch. I used the term "branch" here, but I am stressing this again - **we are actually merging commits**.
 
-### heading-time-for-a-more-advanced-case">Time For a More Advanced Case
+### Time For a More Advanced Case
 
 Time to consider a more advanced case, which is probably the most common case where we use `git merge` explicitly - where you need to merge branches that did diverge from one another.
 
@@ -791,10 +782,9 @@ John created a branch:
 git checkout -b john_branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/create_john_branch.png" alt="A new branch, " width="1233" height="411" loading="lazy">
-_A new branch, `john_branch`_
+![A new branch, `john_branch`](https://freecodecamp.org/news/content/images/2023/12/create_john_branch.png)
 
-And John has written a new song in a new file, `lucy_in_the_sky_with_diamonds.md`. Well, I believe John Lennon didn't really write in Markdown format, or use Git for that matter, but let's pretend he did for this explanation.
+And John has written a new song in a new file, <FontIcon icon="fa-brands fa-markdown"/>`lucy_in_the_sky_with_diamonds.md`. Well, I believe John Lennon didn't really write in Markdown format, or use Git for that matter, but let's pretend he did for this explanation.
 
 ```sh
 git add lucy_in_the_sky_with_diamonds.md
@@ -813,19 +803,18 @@ And created his own branch:
 git checkout -b paul_branch
 ```
 
-And Paul wrote his song into a file called `penny_lane.md`. Paul staged and committed this file:
+And Paul wrote his song into a file called <FontIcon icon="fa-brands fa-markdown"/>`penny_lane.md`. Paul staged and committed this file:
 
 ```sh
 git add penny_lane.md
 git commit -m "Commit 6"
 ```
 
-So now our history looks like this - where we have two different branches, branching out from `main`, with different histories:
+So now our history looks like this - where we have two different branches, branching out from <FontIcon icon="fas fa-code-branch"/>`main`, with different histories:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_6.png" alt="The history after John and Paul committed" width="1739" height="510" loading="lazy">
-*The history after John and Paul committed*
+![The history after John and Paul committed](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_6.png)
 
-John is happy with his branch (that is, his song), so he decides to merge it into the `main` branch:
+John is happy with his branch (that is, his song), so he decides to merge it into the <FontIcon icon="fas fa-code-branch"/>`main` branch:
 
 ```sh
 git checkout main
@@ -834,10 +823,9 @@ git merge john_branch
 
 Actually, this is a fast-forward merge, as we have learned before. You can validate that by looking at the history (using `git lol`, for example):
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/merge_after_commit_6.png" alt="Merging  into  results in a fast-forward merge" width="1459" height="499" loading="lazy">
-_Merging `john_branch` into `main` results in a fast-forward merge_
+![Merging <FontIcon icon="fas fa-code-branch"/>`john_branch` into <FontIcon icon="fas fa-code-branch"/>`main` results in a fast-forward merge](https://freecodecamp.org/news/content/images/2023/12/merge_after_commit_6.png)
 
-At this point, Paul also wants to merge his branch into `main`, but now a fast-forward merge is no longer relevant - there are two different histories here: the history of `main`'s and that of `paul_branch`'s. It's not that `paul_branch` only adds commits on top of main branch or vice versa.
+At this point, Paul also wants to merge his branch into <FontIcon icon="fas fa-code-branch"/>`main`, but now a fast-forward merge is no longer relevant - there are two different histories here: the history of <FontIcon icon="fas fa-code-branch"/>`main`'s and that of <FontIcon icon="fas fa-code-branch"/>`paul_branch`'s. It's not that <FontIcon icon="fas fa-code-branch"/>`paul_branch` only adds commits on top of main branch or vice versa.
 
 Now things get interesting. 😎😎
 
@@ -849,8 +837,7 @@ git merge paul_branch
 
 Consider the history now:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/merge_after_commit_6_paul_branch.png" alt="When you merge , you get a new merge commit\label{fig-history-after-git-merge}" width="1331" height="486" loading="lazy">
-_When you merge `paul_branch`, you get a new merge commit_
+![When you merge <FontIcon icon="fas fa-code-branch"/>`paul_branch`, you get a new merge commit](https://freecodecamp.org/news/content/images/2023/12/merge_after_commit_6_paul_branch.png)
 
 What you have is a new commit, with two parents - "Commit 5" and "Commit 6".
 
@@ -864,7 +851,7 @@ Undo this last commit:
 git reset --hard HEAD~
 ```
 
-### heading-how-to-perform-a-three-way-merge-in-git">How to Perform a Three-way Merge in Git
+### How to Perform a Three-way Merge in Git
 
 It's time to understand what's really happening under the hood. 😎
 
@@ -878,7 +865,7 @@ Second, Git calculates two diffs - one diff from the merge base to the first bra
 
 Third, Git applies both patches to the merge base using a 3-way merge algorithm. The result is the state of the new merge commit.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge.png" alt="The three steps of the 3-way merge algorithm: (1) locate the common ancestor; (2) calculate diffs from the merge base to the first branch, and from the merge base to the second branch; (3) apply both patches together" width="828" height="522" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge.png" alt="The three steps of the 3-way merge algorithm: (1) locate the common ancestor; (2) calculate diffs from the merge base to the first branch, and from the merge base to the second branch; (3) apply both patches together" width="828" height="522" loading="lazy">
 *The three steps of the 3-way merge algorithm: (1) locate the common ancestor (2) calculate diffs from the merge base to the first branch, and from the merge base to the second branch (3) apply both patches together*
 
 So, back to our example.
@@ -893,7 +880,7 @@ If you are not sure, you can always ask Git directly:
 git merge-base main paul_branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_base.png" alt="The merge base is the merge commit with &quot;Commit 3&quot; and &quot;Commit 4&quot; as its parents. Note: the previous commit merge is blurred as it is not reachable via the current history following the  command" width="1424" height="515" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_base.png" alt="The merge base is the merge commit with 'Commit 3' and 'Commit 4' as its parents. Note: the previous commit merge is blurred as it is not reachable via the current history following the  command" width="1424" height="515" loading="lazy">
 *The merge base is the merge commit with "Commit 3" and "Commit 4" as its parents. Note: the previous commit merge is blurred as it is not reachable via the current history following the `reset` command*
 
 By the way, this is the most common and simple case, where we have a single obvious choice for the merge base. In more complicated cases, there may be multiple possibilities for a merge base, but this is not within our focus.
@@ -906,7 +893,7 @@ git diff 4f90a62 4683aef
 
 (The SHA-1 values will be different on your machine.)
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diff_4_5.png" alt="The diff between the merge commit and &quot;Commit 5&quot;\label{fig-john-patch}" width="707" height="331" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diff_4_5.png" alt="The diff between the merge commit and 'Commit 5'\label{fig-john-patch}" width="707" height="331" loading="lazy">
 *The diff between the merge commit and "Commit 5"*
 
 If you don't feel comfortable with the output of `git diff`, you can read the previous chapter where I described it in detail.
@@ -923,7 +910,7 @@ Next, Git calculates the diff between the merge commit and "Commit 6":
 git diff 4f90a62 c5e4951
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diff_4_6.png" alt="The diff between the merge commit and &quot;Commit 6&quot;" width="516" height="307" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diff_4_6.png" alt="The diff between the merge commit and 'Commit 6'" width="516" height="307" loading="lazy">
 *The diff between the merge commit and "Commit 6"*
 
 Write this one to a file as well:
@@ -952,8 +939,7 @@ Notice that for now there is no merge commit. `git apply` updates the working di
 
 You can observe the status using `git status`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_status_apply_john.png" alt="Applying John's patch on the merge commit" width="666" height="257" loading="lazy">
-*Applying John's patch on the merge commit*
+![Applying John's patch on the merge commit](https://freecodecamp.org/news/content/images/2023/12/git_status_apply_john.png)
 
 So now John's new song is incorporated into the index. Apply the other patch:
 
@@ -965,7 +951,7 @@ As a result, the index contains changes from both branches.
 
 Now it's time to commit your merge. Since the porcelain command `git commit` always generates a commit with a single parent, you would need the underlying plumbing command - `git commit-tree`.
 
-If you need a reminder about porcelain vs plumbing commands, check out <a class="post-section-overview" href="#heading-chapter-4-how-to-create-a-repo-from-scratch">chapter 4</a> where I explained these terms, and created an entire repo from scratch.
+If you need a reminder about porcelain vs plumbing commands, check out [chapter 4](#chapter-4-how-to-create-a-repo-from-scratch) where I explained these terms, and created an entire repo from scratch.
 
 Remember that every Git commit object points to a single tree. So you need to record the contents of the index in a tree:
 
@@ -979,8 +965,7 @@ Now you get the SHA-1 value of the created tree, and you can create a commit obj
 git commit-tree <TREE_SHA> -p <COMMIT_<span class="token file-descriptor important">5> -p <COMMIT_<span class="token file-descriptor important">6> -m "Merge commit!"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/create_merge_commit.png" alt="Creating a merge commit" width="692" height="133" loading="lazy">
-*Creating a merge commit*
+![Creating a merge commit](https://freecodecamp.org/news/content/images/2023/12/create_merge_commit.png)
 
 Great, so you have created a commit object!
 
@@ -992,10 +977,13 @@ git reset --hard db315a
 
 If you look at the history now:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_reset_to_merge_commit_git_lol.png" alt="The history after creating a merge commit and resetting " width="826" height="343" loading="lazy">
-*The history after creating a merge commit and resetting `HEAD`*
+![The history after creating a merge commit and resetting `HEAD`](https://freecodecamp.org/news/content/images/2023/12/history_after_reset_to_merge_commit_git_lol.png)
 
-(Note: in this state, `HEAD` is "detached" - that is, it directly points to a commit object rather than a named reference. `gg` does not show `HEAD` when it is "detached", so don't be confused if you can't see `HEAD` in the output of `gg`.)
+::: note
+
+in this state, `HEAD` is "detached" - that is, it directly points to a commit object rather than a named reference. `gg` does not show `HEAD` when it is "detached", so don't be confused if you can't see `HEAD` in the output of `gg`.
+
+:::
 
 This is almost what we wanted. Remember that when you ran `git merge`, the result was `HEAD` pointing to `main` which pointed to the newly created commit (as shown in the image with the caption "When you merge `paul_branch`, you get a new merge commit". What should you do then?
 
@@ -1014,7 +1002,7 @@ Overall, you got to merge both the contents of the two commits - that is, the st
 
 In this simple case, you could actually just apply the patches using `git apply`, and everything works quite well.
 
-### heading-quick-recap-of-a-three-way-merge">Quick Recap of a Three-way Merge
+### Quick Recap of a Three-way Merge
 
 So to quickly recap, on a three-way merge, Git:
 
@@ -1026,7 +1014,7 @@ You can also understand why it's called a "3-way merge": Git merges three differ
 
 This is unlike, say, the fast-forward examples we saw before. The fast-forward examples are actually a case of a two-way merge, as Git only compares two states - for example, where `main` pointed to, and where `john_branch` pointed to.
 
-### heading-moving-on">Moving on
+### Moving on
 
 Still, this was a simple case of a 3-way merge. John and Paul created different songs, so each of them touched a different file. It was pretty straightforward to execute the merge.
 
@@ -1040,7 +1028,8 @@ So, John checked out `main` branch and started writing the song:
 git checkout main
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_md.png" alt="John's new song" width="669" height="540" loading="lazy">
+<!-- 
+![](https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_md.png" alt="John's new song" width="669" height="540" loading="lazy">
 *John's new song*
 
 He staged and committed it ("Commit 7"):
@@ -1050,7 +1039,7 @@ git add a_day_in_the_life.md
 git commit -m "Commit 7"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_7.png" alt="John's new song is committed" width="1476" height="518" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_7.png" alt="John's new song is committed" width="1476" height="518" loading="lazy">
 *John's new song is committed*
 
 Now, Paul branches:
@@ -1061,7 +1050,7 @@ git checkout -b paul_branch_2
 
 And edits the song, adding another verse:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_paul_verse.png" alt="Paul added a new verse" width="602" height="553" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_paul_verse.png" alt="Paul added a new verse" width="602" height="553" loading="lazy">
 *Paul added a new verse*
 
 Of course, the original song does not include the title "Paul's Verse", but I added it here for clarity.
@@ -1073,7 +1062,7 @@ git add a_day_in_the_life.md
 git commit -m "Commit 8"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_8.png" alt="The history after introducing &quot;Commit 8&quot;" width="1027" height="397" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_8.png" alt="The history after introducing 'Commit 8'" width="1027" height="397" loading="lazy">
 *The history after introducing "Commit 8"*
 
 John also branches out from main and adds an additional two lines at the end:
@@ -1083,7 +1072,7 @@ git checkout main
 git checkout -b john_branch_2
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_john_addition.png" alt="John added the two last lines" width="665" height="551" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_john_addition.png" alt="John added the two last lines" width="665" height="551" loading="lazy">
 *John added the two last lines*
 
 John stages and commits his changes too ("Commit 9"):
@@ -1095,7 +1084,7 @@ git commit -m "Commit 9"
 
 This is the resulting history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_9.png" alt="The history after John's last commit" width="801" height="461" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_9.png" alt="The history after John's last commit" width="801" height="461" loading="lazy">
 *The history after John's last commit*
 
 So, both Paul and John modified the same file on different branches. Will Git be successful in merging them?
@@ -1118,7 +1107,7 @@ You can verify that by using:
 git merge-base john_branch_2 paul_branch_2
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/merge_base_2.png" alt="&quot;Commit 7&quot; is the merge base" width="783" height="456" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/merge_base_2.png" alt="'Commit 7' is the merge base" width="783" height="456" loading="lazy">
 *"Commit 7" is the merge base*
 
 Checkout the merge base so you can later apply the patches you will create:
@@ -1133,7 +1122,7 @@ Great, now Git should compute the diffs and generate the patches. You can observ
 git diff main paul_branch_2
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diff_main_paul_branch_2.png" alt="The output of " width="621" height="487" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diff_main_paul_branch_2.png" alt="The output of " width="621" height="487" loading="lazy">
 _The output of `git diff main paul_branch_2`_
 
 Will applying this patch succeed? Well, no problem, Git has all the context lines in place.
@@ -1154,14 +1143,14 @@ Now, compute the diff between John's new branch and the merge base. Notice that 
 git diff main john_branch_2
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diff_main_john_branch_2.png" alt="The output of " width="668" height="252" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diff_main_john_branch_2.png" alt="The output of " width="668" height="252" loading="lazy">
 _The output of `git diff main john_branch_2`_
 
 Will applying this diff work?
 
 Well, indeed, yes. Notice that even though the line numbers have changed on the current version of the file, thanks to the context lines Git is able to locate where it needs to add these lines…
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diff_main_john_branch_2_context.png" alt="Git can rely on the context lines" width="723" height="240" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diff_main_john_branch_2_context.png" alt="Git can rely on the context lines" width="723" height="240" loading="lazy">
 *Git can rely on the context lines*
 
 Save this patch and apply it then:
@@ -1173,7 +1162,7 @@ git apply --index john_branch_2.patch
 
 Observe the result file:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_after_merge.png" alt="The result after applying Paul's patch" width="657" height="535" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/a_day_in_the_life_after_merge.png" alt="The result after applying Paul's patch" width="657" height="535" loading="lazy">
 *The result after applying Paul's patch*
 
 Cool, exactly what we wanted.
@@ -1194,10 +1183,10 @@ See how I used the branch names here? After all, they are just pointers to the c
 
 Cool, look at the log from the new commit:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_lol_merging_new_changes.png" alt=" after creating the merge commit" width="799" height="445" loading="lazy">
-_`git lol &lt;SHA_OF_THE_MERGE_COMMIT&gt;` after creating the merge commit_
+![](https://freecodecamp.org/news/content/images/2023/12/git_lol_merging_new_changes.png" alt=" after creating the merge commit" width="799" height="445" loading="lazy">
+_`git lol <SHA_OF_THE_MERGE_COMMIT>` after creating the merge commit_
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_merging_new_changes_commit.png" alt="The history after creating the merge commit" width="1111" height="450" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_merging_new_changes_commit.png" alt="The history after creating the merge commit" width="1111" height="450" loading="lazy">
 *The history after creating the merge commit*
 
 Exactly what we wanted.
@@ -1211,10 +1200,10 @@ git merge paul_branch_2
 
 Observe the resulting history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/merge_branches_2.png" alt=" after letting Git perform the merge" width="810" height="473" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/merge_branches_2.png" alt=" after letting Git perform the merge" width="810" height="473" loading="lazy">
 *`git lol` after letting Git perform the merge*
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_merging_with_git.png" alt="A visualization of the history after letting Git perform the merge" width="1138" height="453" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_merging_with_git.png" alt="A visualization of the history after letting Git perform the merge" width="1138" height="453" loading="lazy">
 *A visualization of the history after letting Git perform the merge*
 
 Just as before, you have a merge commit pointing to "Commit 8" and "Commit 9" as its parents. "Commit 9" is the first parent since you merged into it.
@@ -1246,7 +1235,7 @@ git checkout main
 nano everyone.md
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_1.png" alt="The contents of  prior to the first commit" width="341" height="433" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_1.png" alt="The contents of  prior to the first commit" width="341" height="433" loading="lazy">
 *The contents of `everyone.md` prior to the first commit*
 
 By the way, this text is indeed taken from the version that John Lennon recorded for a demo in 1968. But this isn't a book about the Beatles. If you're curious about the process the Beatles underwent while writing this song, you can follow the links in the end of this chapter.
@@ -1256,7 +1245,7 @@ git add everyone.md
 git commit -m "Commit 10"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_commit_10.png" alt="Introducing &quot;Commit 10&quot;" width="929" height="601" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_commit_10.png" alt="Introducing 'Commit 10'" width="929" height="601" loading="lazy">
 *Introducing "Commit 10"*
 
 Now John and Paul split. Paul creates a new verse in the beginning:
@@ -1266,7 +1255,7 @@ git checkout -b paul_branch_3
 nano everyone.md
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_2.png" alt="Paul added a new verse in the beginning" width="354" height="280" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_2.png" alt="Paul added a new verse in the beginning" width="354" height="280" loading="lazy">
 *Paul added a new verse in the beginning*
 
 Also, while talking to John, they decided to change the word "feet" to "foot", so Paul adds this change as well.
@@ -1278,7 +1267,7 @@ git add everyone.md
 git commit -m "Commit 11"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_11.png" alt="The history after introducing &quot;Commit 11&quot;" width="934" height="621" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_11.png" alt="The history after introducing 'Commit 11'" width="934" height="621" loading="lazy">
 *The history after introducing "Commit 11"*
 
 You can observe Paul's changes, by comparing this branch's state to the state of branch `main`:
@@ -1287,7 +1276,7 @@ You can observe Paul's changes, by comparing this branch's state to the state of
 git diff main
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main.png" alt="The output of  from Paul's branch" width="478" height="482" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main.png" alt="The output of  from Paul's branch" width="478" height="482" loading="lazy">
 *The output of `git diff main` from Paul's branch*
 
 Store this diff in a patch file:
@@ -1316,7 +1305,7 @@ Observe the diff:
 git diff main
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2.png" alt="The output of  from John's branch" width="471" height="406" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2.png" alt="The output of  from John's branch" width="471" height="406" loading="lazy">
 *The output of `git diff main` from John's branch*
 
 Store this output as well:
@@ -1334,7 +1323,7 @@ git commit -m "Commit 12"
 
 This should be your current history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12.png" alt="The history after introducing &quot;Commit 12&quot;" width="942" height="615" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12.png" alt="The history after introducing 'Commit 12'" width="942" height="615" loading="lazy">
 *The history after introducing "Commit 12"*
 
 Note that I deleted `john_branch_2` and `paul_branch_2` for simplicity. Of course, you can erase them from Git by using `git branch -D <branch_name>`. As a result, these branch names will not appear in the output of `git log` or other similar commands.
@@ -1351,7 +1340,7 @@ Consider the patch again:
 git diff main paul_branch_3
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main-1.png" alt="The output of " width="478" height="482" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main-1.png" alt="The output of " width="478" height="482" loading="lazy">
 _The output of `git diff main paul_branch_3`_
 
 As you can see, this diff relies on the line "Everyone had the boot in", but this line no longer exists on John's branch. As a result, you could expect applying the patch to fail. Go on, give it a try:
@@ -1360,7 +1349,7 @@ As you can see, this diff relies on the line "Everyone had the boot in", but thi
 git apply paul_3.patch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_apply_paul_3.png" alt="Applying the patch failed" width="692" height="89" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_apply_paul_3.png" alt="Applying the patch failed" width="692" height="89" loading="lazy">
 *Applying the patch failed*
 
 Indeed, you can see that it failed.
@@ -1371,7 +1360,7 @@ As explained earlier, `git merge` uses a 3-way merge algorithm, and this can com
 
 Well, first, Git would find the merge base - that is, the common ancestor of Paul's branch and John's branch. Consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12-1.png" alt="The history after introducing &quot;Commit 12&quot;" width="942" height="615" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12-1.png" alt="The history after introducing 'Commit 12'" width="942" height="615" loading="lazy">
 *The history after introducing "Commit 12"*
 
 So the common ancestor of "Commit 11" and "Commit 12" is "Commit 10". You can verify this by running the command:
@@ -1390,7 +1379,7 @@ Consider the diff:
 git diff main john_branch_3
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2-1.png" alt="The output of " width="471" height="406" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2-1.png" alt="The output of " width="471" height="406" loading="lazy">
 _The output of `git diff main john_branch_3`_
 
 We can store it in a file:
@@ -1412,14 +1401,14 @@ Let's consider the result:
 nano everyone.md
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_3.png" alt="The contents of  after applying John's patch" width="337" height="425" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_3.png" alt="The contents of  after applying John's patch" width="337" height="425" loading="lazy">
 *The contents of `everyone.md` after applying John's patch*
 
 The line changed as expected. Nice 😎
 
 Now, can Git apply Paul's patch? To remind you, this is the patch:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main-2.png" alt="The contents of Paul's patch" width="478" height="482" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main-2.png" alt="The contents of Paul's patch" width="478" height="482" loading="lazy">
 *The contents of Paul's patch*
 
 Well, Git cannot apply this patch, because this patch assumes that the line "Everyone had the boot in" exists. Trying to apply it is liable to fail:
@@ -1428,7 +1417,7 @@ Well, Git cannot apply this patch, because this patch assumes that the line "Eve
 git apply -v paul_3.branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_apply_v_paul_3.png" alt="Applying Paul's patch failed" width="576" height="246" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_apply_v_paul_3.png" alt="Applying Paul's patch failed" width="576" height="246" loading="lazy">
 *Applying Paul's patch failed*
 
 What you tried to do now, applying Paul's patch on the `main` branch after applying John's patch, is the same as being on `john_branch_3`, and attempting to apply the patch. That is, running:
@@ -1453,12 +1442,12 @@ git checkout paul_branch_3
 
 Can we apply John's patch? As a reminder, this is the status of `everyone.md` on this branch:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_2-1.png" alt="The contents of  on " width="354" height="280" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_2-1.png" alt="The contents of  on " width="354" height="280" loading="lazy">
 _The contents of `everyone.md` on `paul_branch_3`_
 
 And this is John's patch:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2-2.png" alt="The contents of John's patch" width="471" height="406" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_2-2.png" alt="The contents of John's patch" width="471" height="406" loading="lazy">
 *The contents of John's patch*
 
 Would applying John's patch work?
@@ -1471,7 +1460,7 @@ You can try:
 git apply john_3.patch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_apply_3_john_3.png" alt="Git fails to apply John's patch" width="661" height="89" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_apply_3_john_3.png" alt="Git fails to apply John's patch" width="661" height="89" loading="lazy">
 *Git fails to apply John's patch*
 
 Well, no! Again, if you are not sure what happened, you can always ask `git apply` to be a bit more verbose:
@@ -1480,12 +1469,12 @@ Well, no! Again, if you are not sure what happened, you can always ask `git appl
 git apply -v john_3.patch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_apply_v_john_3.png" alt="You can get more information by using the  flag" width="671" height="527" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_apply_v_john_3.png" alt="You can get more information by using the  flag" width="671" height="527" loading="lazy">
 *You can get more information by using the `-v` flag*
 
 Git is looking for "Everyone put the feet down", but Paul has already changed this line so it now consists of the word "foot" instead of "feet". As a result, applying this patch fails.
 
-Notice that changing the number of context lines here (that is, using `git apply` with the `-C` flag, as discussed in the <a class="post-section-overview" href="#heading-chapter-6-diffs-and-patches">previous chapter</a>) is irrelevant - Git is unable to locate the actual line that the patch is trying to erase.
+Notice that changing the number of context lines here (that is, using `git apply` with the `-C` flag, as discussed in the <a href="#chapter-6-diffs-and-patches">previous chapter</a>) is irrelevant - Git is unable to locate the actual line that the patch is trying to erase.
 
 But actually, Git can make this work, if you just add a flag to apply, telling it to perform a 3-way merge under the hood:
 
@@ -1493,12 +1482,12 @@ But actually, Git can make this work, if you just add a flag to apply, telling i
 git apply -3 john_3.patch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_apply_3_john_3-1.png" alt="Applying with  flag succeeds" width="661" height="89" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_apply_3_john_3-1.png" alt="Applying with  flag succeeds" width="661" height="89" loading="lazy">
 *Applying with `-3` flag succeeds*
 
 And consider the result:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_4.png" alt="The contents of  after the merge" width="557" height="526" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_4.png" alt="The contents of  after the merge" width="557" height="526" loading="lazy">
 *The contents of `everyone.md` after the merge*
 
 Exactly what we wanted! You have Paul's verse, and both of John's changes!
@@ -1521,7 +1510,7 @@ To perform the merge, Git looks at the diff between the three different versions
 
 Git makes the merging decision based on the status of each line in each of these versions.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_versions.png" alt="The three versions considered for the 3-way merge" width="1285" height="827" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_versions.png" alt="The three versions considered for the 3-way merge" width="1285" height="827" loading="lazy">
 *The three versions considered for the 3-way merge*
 
 In case not all three versions match, that is a conflict. Git can resolve many of these conflicts automatically, as we will now see.
@@ -1530,44 +1519,44 @@ Let's consider specific lines.
 
 The first lines here exist only on Paul's branch:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_versions_1.png" alt="Lines that appear on Paul's branch only" width="1284" height="827" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_versions_1.png" alt="Lines that appear on Paul's branch only" width="1284" height="827" loading="lazy">
 *Lines that appear on Paul's branch only*
 
 This means that the state of John's branch is equal to the state of the merge base. So the 3-way merge goes with Paul's version.
 
 In general, if the state of the merge base is the same as `A`, the algorithm goes with `B`. The reason is that since the merge base is the ancestor of both `A` and `B`, Git assumes that this line hasn't changed in `A`, and it *has* changed in `B`, which is the most recent version for that line, and should thus be taken into account.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_1.png" alt="If the state of the merge base is the same as , and this state is different from , the algorithm goes with " width="540" height="144" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_1.png" alt="If the state of the merge base is the same as , and this state is different from , the algorithm goes with " width="540" height="144" loading="lazy">
 *If the state of the merge base is the same as `A`, and this state is different from `B`, the algorithm goes with `B`*
 
 Next, you can see lines where all three versions agree - they exist on the merge base, `A` and `B`, with equal data.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_versions_2.png" alt="Lines where all three versions agree" width="1284" height="827" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_versions_2.png" alt="Lines where all three versions agree" width="1284" height="827" loading="lazy">
 *Lines where all three versions agree*
 
 In this case the algorithm has a trivial choice - just take that version.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_2.png" alt="In case all three versions agree, the algorithm goes with that single version" width="532" height="268" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_2.png" alt="In case all three versions agree, the algorithm goes with that single version" width="532" height="268" loading="lazy">
 *In case all three versions agree, the algorithm goes with that single version*
 
 In a previous example, we saw that if the merge base and `A` agree, and `B`'s version is different, the algorithm picks `B`. This works in the other direction too - for example, here you have a line that exists on John's branch, different than that on the merge base and Paul's branch.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_versions_3.png" alt="A line where Paul's version matches the merge base's version, and John has a different version" width="1284" height="827" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_versions_3.png" alt="A line where Paul's version matches the merge base's version, and John has a different version" width="1284" height="827" loading="lazy">
 *A line where Paul's version matches the merge base's version, and John has a different version*
 
 Hence, John's version is chosen.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_3.png" alt="If the state of the merge base is the same as , and this state is different from , the algorithm goes with " width="530" height="270" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_3.png" alt="If the state of the merge base is the same as , and this state is different from , the algorithm goes with " width="530" height="270" loading="lazy">
 *If the state of the merge base is the same as `B`, and this state is different from `A`, the algorithm goes with `A`*
 
 Now consider another case, where both `A` and `B` agree on a line, but the value they agree upon is different from the merge base: both John and Paul agreed to change the line "Everyone put their feet down" to "Everyone put their foot down":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_versions_4.png" alt="A line where Paul's version matches John's version; yet the merge base has a different version" width="1284" height="827" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_versions_4.png" alt="A line where Paul's version matches John's version; yet the merge base has a different version" width="1284" height="827" loading="lazy">
 *A line where Paul's version matches John's version, yet the merge base has a different version*
 
 In this case, the algorithm picks the version on both `A` and `B`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_4.png" alt="In case A and B agree on a version which is different from the merge base's version, the algorithm picks the version on both A and B" width="577" height="337" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_4.png" alt="In case A and B agree on a version which is different from the merge base's version, the algorithm picks the version on both A and B" width="577" height="337" loading="lazy">
 *In case `A` and `B` agree on a version which is different from the merge base's version, the algorithm picks the version on both `A` and `B`*
 
 Notice this is not a democratic vote. In the previous case, the algorithm picked the minority version, as it resembled the newest version of this line. In this case, it happens to pick the majority - but only because `A` and `B` are the revisions that agree on the new version.
@@ -1580,14 +1569,14 @@ git merge john_branch_3
 
 Without specifying any flags, `git merge` will default to using a `3-way merge`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_merge_default.png" alt="By default,  uses a 3-way merge algorithm" width="571" height="100" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_merge_default.png" alt="By default,  uses a 3-way merge algorithm" width="571" height="100" loading="lazy">
 *By default, `git merge` uses a 3-way merge algorithm*
 
 The status of `everyone.md` after running `git merge john_branch` would be the same as the result you achieved by applying the patches with `git apply -3`.
 
 If you consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_merge.png" alt="Git's history after performing the merge" width="1298" height="474" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_merge.png" alt="Git's history after performing the merge" width="1298" height="474" loading="lazy">
 *Git's history after performing the merge*
 
 You will see that the merge commit indeed has two parents: the first is "Commit 11", that is, where `paul_branch_3` pointed to before the merge. The second is "Commit 12", where `john_branch_3` pointed to, and still points to now.
@@ -1606,7 +1595,7 @@ git merge paul_branch_3
 
 Indeed, we get a fast-forward merge - as before running this command, `main` was an ancestor of `paul_branch_3`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/fast_forward_merge.png" alt="A fast-forward merge" width="695" height="483" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/fast_forward_merge.png" alt="A fast-forward merge" width="695" height="483" loading="lazy">
 *A fast-forward merge*
 
 So, this is a 3-way merge. In general, if all versions agree on a line, then this line is used. If `A` and the merge base match, and `B` has another version, `B` is taken. In the opposite case, where the merge base and `B` match, the `A` version is selected. If `A` and `B` match, this version is taken, whether the merge base agrees or not.
@@ -1631,7 +1620,7 @@ git checkout -b paul_branch_4
 
 And he decides to add some "Yeah"s to the song, so he changes this verse as follows:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/paul_branch_4_additions.png" alt="Paul's additions" width="431" height="97" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/paul_branch_4_additions.png" alt="Paul's additions" width="431" height="97" loading="lazy">
 *Paul's additions*
 
 So Paul stages and commits these changes:
@@ -1650,7 +1639,7 @@ git commit -m "Commit 14"
 
 This is the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_14.png" alt="The history after Paul introduced &quot;Commit 14&quot;" width="937" height="511" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_14.png" alt="The history after Paul introduced 'Commit 14'" width="937" height="511" loading="lazy">
 *The history after Paul introduced "Commit 14"*
 
 Going back to `main`:
@@ -1669,7 +1658,7 @@ And John also works on the song "Everyone had a hard year", later to be called "
 
 John decides to change all occurrences of "Everyone" to "Everybody":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_5.png" alt="John changes all occurrences of &quot;Everyone&quot; to &quot;Everybody&quot;" width="499" height="474" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_5.png" alt="John changes all occurrences of 'Everyone' to 'Everybody'" width="499" height="474" loading="lazy">
 *John changes all occurrences of "Everyone" to "Everybody"*
 
 He stages and commits this song to the repo:
@@ -1688,7 +1677,7 @@ git commit -m "Commit 16"
 
 Observe the history again:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_16.png" alt="The history after John introduced &quot;Commit 16&quot;" width="870" height="502" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_16.png" alt="The history after John introduced 'Commit 16'" width="870" height="502" loading="lazy">
 *The history after John introduced "Commit 16"*
 
 You can see that the history diverges from `main`, to two different branches - `paul_branch_4`, and `john_branch_4`.
@@ -1703,7 +1692,7 @@ Remember the changes introduced by Paul:
 git diff main paul_branch_4
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_paul_branch_4.png" alt="The output of " width="427" height="536" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_paul_branch_4.png" alt="The output of " width="427" height="536" loading="lazy">
 _The output of `git diff main paul_branch_4`_
 
 What do you think? Will merge work?
@@ -1714,14 +1703,14 @@ Try it out:
 git merge paul_branch_4
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/merge_conflict.png" alt="A merge conflict" width="619" height="99" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/merge_conflict.png" alt="A merge conflict" width="619" height="99" loading="lazy">
 *A merge conflict*
 
 We have a conflict!
 
 Git cannot merge these branches on its own. You can get an overview of the merge state, using `git status`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_status_after_merge_failed.png" alt="The output of  right after the merge operation" width="619" height="337" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_status_after_merge_failed.png" alt="The output of  right after the merge operation" width="619" height="337" loading="lazy">
 *The output of `git status` right after the merge operation*
 
 The changes that Git had no problem resolving are staged for commit. And there is a separate section for "unmerged paths" - these are files with conflicts that Git could not resolve on its own.
@@ -1758,7 +1747,7 @@ Let's observe that by looking directly at the index with the command `git ls-fil
 git ls-files -s --abbrev
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/ls_files_abbrev.png" alt="The output of  after the merge operation" width="850" height="286" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/ls_files_abbrev.png" alt="The output of  after the merge operation" width="850" height="286" loading="lazy">
 *The output of `git ls-files -s --abbrev` after the merge operation*
 
 You can see that `everyone.md` has three different entries. Git assigns each version a number that represents the "stage" of the file, and this is a distinct property of an index entry, alongside the file's name and the mode bits.
@@ -1777,7 +1766,7 @@ To observe the file's contents in a specific stage, you can use a command I intr
 git cat-file -p <BLOB_SHA_FOR_STAGE_<span class="token file-descriptor important">2>
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/cat_file.png" alt="Using -file to present the content of the file on John's branch, right from its state in the index" width="653" height="551" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/cat_file.png" alt="Using -file to present the content of the file on John's branch, right from its state in the index" width="653" height="551" loading="lazy">
 *Using `git cat-file` to present the content of the file on John's branch, right from its state in the index*
 
 And indeed, this is the content we expected - from John's branch, where the lines start with "Everybody" rather than "Everyone".
@@ -1800,12 +1789,12 @@ In case of a deletion on the incoming branch, for example, and given there were 
 
 What's really cool here is that for matching, Git doesn't need the actual files. Rather, it can rely on the SHA-1 values of the corresponding blobs. This way, Git can easily detect the state a file is in.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/3_way_merge_4-1.png" alt="Git performs the same 3-way merge algorithm on a files level" width="577" height="337" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/3_way_merge_4-1.png" alt="Git performs the same 3-way merge algorithm on a files level" width="577" height="337" loading="lazy">
 *Git performs the same 3-way merge algorithm on a files level*
 
 For `everyone.md` you have this special case - where stage `1`, stage `2` and stage `3` are all different from one another. That is, they have different blob SHAs. It's time to go deeper and understand the merge conflict. 😊
 
-One way to do that would be to simply use `git diff`. In a <a class="post-section-overview" href="#heading-chapter-6-diffs-and-patches">previous chapter</a>, we examined git diff in detail, and saw that it shows the differences between various combinations of the working tree, index or commits.
+One way to do that would be to simply use `git diff`. In a <a href="#chapter-6-diffs-and-patches">previous chapter</a>, we examined git diff in detail, and saw that it shows the differences between various combinations of the working tree, index or commits.
 
 But `git diff` also has a special mode for helping with merge conflicts:
 
@@ -1813,7 +1802,7 @@ But `git diff` also has a special mode for helping with merge conflicts:
 git diff
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_conflict.png" alt="The output of  during a merge conflict" width="623" height="639" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_conflict.png" alt="The output of  during a merge conflict" width="623" height="639" loading="lazy">
 *The output of `git diff` during a merge conflict*
 
 This output may be confusing at first, but once you get used to it, it's pretty clear. Let's start by understanding it, and then see how you can resolve conflicts with other, more visual tools.
@@ -1838,7 +1827,7 @@ In this case, I know what I want, and that is actually a combination of these li
 nano everyone.md
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/everyone_6.png" alt="Editing the file manually to achieve the desired state" width="582" height="494" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/everyone_6.png" alt="Editing the file manually to achieve the desired state" width="582" height="494" loading="lazy">
 *Editing the file manually to achieve the desired state*
 
 To compare the result file to what you had in the branch prior to the merge, you can run:
@@ -1867,14 +1856,14 @@ git add everyone.md
 
 After staging, if you look at `git status`, you will see no conflicts:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_status_after_manual_fix.png" alt="After staging the fixed version , there are no conflicts" width="673" height="187" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_status_after_manual_fix.png" alt="After staging the fixed version , there are no conflicts" width="673" height="187" loading="lazy">
 *After staging the fixed version `everyone.md`, there are no conflicts*
 
 You can now simply use `git commit`, and Git will present you with a commit message containing details about the merge. You can modify it if you like, or leave it as is. Regardless of the commit message, Git will create a "merge commit" - that is, a commit with more than one parent.
 
 To validate that, consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_merge_2.png" alt="The history after completing the merge operation" width="1685" height="526" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_merge_2.png" alt="The history after completing the merge operation" width="1685" height="526" loading="lazy">
 *The history after completing the merge operation*
 
 `john_branch_4` now points to the new merge commit. The incoming branch, "theirs", in this case, `paul_branch_4`, stays where it was.
@@ -1897,26 +1886,26 @@ git merge paul_branch_4
 
 You should be back at the same status:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_status_after_merge_failed-1.png" alt="Back at the conflicting status" width="619" height="337" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_status_after_merge_failed-1.png" alt="Back at the conflicting status" width="619" height="337" loading="lazy">
 *Back at the conflicting status*
 
 Let's see how this appears on VS Code:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/vs_code_1.png" alt="Conflict resolution with VS Code" width="1750" height="973" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/vs_code_1.png" alt="Conflict resolution with VS Code" width="1750" height="973" loading="lazy">
 *Conflict resolution with VS Code*
 
 VS Code marks the different versions with "Current Change" - which is the "ours" version, the current `HEAD`, and "Incoming Change" for the branch we are merging into the active branch. You can accept one of the changes (or both) by clicking on one of the options.
 
 If you clicked on `Resolve in Merge editor`, you'll get a more visual view of the state. VS Code shows the status of each line:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/vs_code_2-1.png" alt="VS Code's Merge Editor" width="1337" height="917" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/vs_code_2-1.png" alt="VS Code's Merge Editor" width="1337" height="917" loading="lazy">
 *VS Code's Merge Editor*
 
 If you look closely, you will see that VS Code shows changes within words - for example, showing that "Every**one**" was changed to "Every**body**", marking the changed parts.
 
 You can accept either version, or you can accept a combination. In this case, if you click on "Accept Combination", you get this result:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/vs_code_3.png" alt="VS Code's Merge Editor after clicking on &quot;Accept Combination&quot;" width="1244" height="895" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/vs_code_3.png" alt="VS Code's Merge Editor after clicking on 'Accept Combination'" width="1244" height="895" loading="lazy">
 *VS Code's Merge Editor after clicking on "Accept Combination"*
 
 VS Code did a really good job! The same three way merge algorithm was implemented here and used on the *word* level rather than the *line* level. So VS Code was able to actually resolve this conflict in a rather impressive way. Of course, you can modify VS Code's suggestion, but it provided a *very* good start.
@@ -1949,12 +1938,12 @@ As a reminder, `git log` shows the history of commits that are reachable from `H
 
 This can help you identify the changes in history that led to the conflicts. So in this example, you'd see:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_log_p_merge.png" alt="The output of " width="551" height="645" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_log_p_merge.png" alt="The output of " width="551" height="645" loading="lazy">
 *The output of `git log -p --merge`*
 
 The first commit we see is "Commit 15", as in this commit John modified everyone.md, a file that still has conflicts. Next, Git shows "Commit 13", where Paul changed `everyone.md`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_log_p_merge_2.png" alt="The output of  - continued" width="524" height="635" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_log_p_merge_2.png" alt="The output of  - continued" width="524" height="635" loading="lazy">
 *The output of `git log -p --merge` - continued*
 
 Notice that `git log --merge` did not mention previous commits that changed `everyone.md` before "Commit 13", as they didn't affect the current conflict.
@@ -1963,7 +1952,7 @@ This way, `git log` tells you all you need to know to understand the process tha
 
 Using the command line, you can also ask Git to take only one side of the changes - either "ours" or "theirs", even for a specific file.
 
-You can also instruct Git to take some parts of the diffs of one file and another from another file. I will provide links that describe how to do that in <a class="post-section-overview" href="#heading-diffs-and-patches">the additional resources of this chapter in the appendix</a>.
+You can also instruct Git to take some parts of the diffs of one file and another from another file. I will provide links that describe how to do that in <a href="#diffs-and-patches">the additional resources of this chapter in the appendix</a>.
 
 For the most part, you can accomplish that pretty easily, either manually or from the UI of your favorite IDE.
 
@@ -2015,7 +2004,7 @@ In the previous chapter, we considered the example where John and Paul (of the B
 
 Then, the two wanted to *integrate* their changes, which is something that happens very frequently when working with Git.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diverging_history_commit_9.png" alt="A diverging history -  and  diverged from " width="907" height="341" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diverging_history_commit_9.png" alt="A diverging history -  and  diverged from " width="907" height="341" loading="lazy">
 _A diverging history - `paul_branch` and `john_branch` diverged from `main`_
 
 There are two main ways to integrate changes introduced in different branches in Git, or in other words, different commits and commit histories. These are merge and rebase.
@@ -2024,7 +2013,7 @@ In the previous chapter, we got to know `git merge` pretty well. We saw that whe
 
 So, say you are on the branch `john_branch` (assuming the history depicted in the drawing above), and you run `git merge paul_branch`. You will get to this state - where on `john_branch`, there is a new commit with two parents. The first one will be the commit on the `john_branch` branch where `HEAD` was pointing to a state before performing the merge - in this case, "Commit 6". The second will be the commit pointed to by `paul_branch`, "Commit 9".
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_merge_paul_branch.png" alt="The result of running : a new Merge Commit with two parents" width="1042" height="326" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_merge_paul_branch.png" alt="The result of running : a new Merge Commit with two parents" width="1042" height="326" loading="lazy">
 _The result of running `git merge paul_branch`: a new Merge Commit with two parents_
 
 Look again at the history graph: you created a **diverged** history. You can actually see where it branched and where it merged again.
@@ -2039,7 +2028,7 @@ Let's start with the big picture: if you are on `paul_branch`, and use `git reba
 
 So here, you use `rebase` to take the changes that were committed on one branch - Paul's branch - and replay them on a different branch, `john_branch`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_rebase_john_branch.png" alt="The result of running : the commits on  were &quot;replayed&quot; on top of " width="1154" height="336" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_rebase_john_branch.png" alt="The result of running : the commits on  were 'replayed' on top of " width="1154" height="336" loading="lazy">
 _The result of running `git rebase john_branch`: the commits on `paul_branch` were "replayed" on top of `john_branch`_
 
 Wait, what does that mean?
@@ -2054,7 +2043,7 @@ Let's do this manually.
 
 If we look at the difference introduced by "Commit 5" by performing `git diff main <SHA_OF_COMMIT_5>`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5.png" alt="Running  to observe the patch introduced by &quot;Commit 5&quot;" width="791" height="362" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5.png" alt="Running  to observe the patch introduced by 'Commit 5'" width="791" height="362" loading="lazy">
 *Running `git diff` to observe the patch introduced by "Commit 5"*
 
 As always, you are encouraged to run the commands yourself while reading this chapter. Unless noted otherwise, I will use the following repository:
@@ -2065,7 +2054,7 @@ I recommend you clone it locally and have the same starting point I am using for
 
 You can see that in this commit, John started working on a song called "Lucy in the Sky with Diamonds":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5_output.png" alt="The output of  - the patch introduced by &quot;Commit 5&quot;" width="1189" height="786" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_diff_main_commit_5_output.png" alt="The output of  - the patch introduced by 'Commit 5'" width="1189" height="786" loading="lazy">
 *The output of `git diff` - the patch introduced by "Commit 5"*
 
 As a reminder, you can also use the command `git show` to get the same output:
@@ -2086,7 +2075,7 @@ And create another branch:
 git checkout -b my_branch (or git switch -c my_branch)
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/create_my_branch.png" alt="Creating  that branches from " width="801" height="493" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/create_my_branch.png" alt="Creating  that branches from " width="801" height="493" loading="lazy">
 _Creating `my_branch` that branches from `main`_
 
 Next, `cherry-pick` "Commit 5":
@@ -2095,19 +2084,19 @@ Next, `cherry-pick` "Commit 5":
 git cherry-pick <SHA_OF_COMMIT_<span class="token file-descriptor important">5>
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/cherry_pick_commit_5.png" alt="Using  to apply the changes introduced in &quot;Commit 5&quot; onto " width="801" height="685" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/cherry_pick_commit_5.png" alt="Using  to apply the changes introduced in 'Commit 5' onto " width="801" height="685" loading="lazy">
 *Using `cherry-pick` to apply the changes introduced in "Commit 5" onto `main`*
 
 Consider the log (output of `git lol`):
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_lol_commit_5.png" alt="The output of " width="1055" height="191" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_lol_commit_5.png" alt="The output of " width="1055" height="191" loading="lazy">
 *The output of `git lol`*
 
 It seems like you *copy-pasted* "Commit 5". Remember that even though it has the same commit message, and introduces the same changes, and even points to the same tree object as the original "Commit 5" in this case - it is still a different commit object, as it was created with a different timestamp.
 
 Looking at the changes, using `git show HEAD`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-1.png" alt="The output of " width="862" height="643" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-1.png" alt="The output of " width="862" height="643" loading="lazy">
 *The output of `git show HEAD`*
 
 They are the same as "Commit 5"'s.
@@ -2160,7 +2149,7 @@ git checkout paul_branch
 
 This is the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/diverging_history_commit_9-1.png" alt="Commit history before performing " width="907" height="341" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/diverging_history_commit_9-1.png" alt="Commit history before performing " width="907" height="341" loading="lazy">
 *Commit history before performing `git rebase`*
 
 And now, to the exciting part:
@@ -2171,12 +2160,12 @@ git rebase john_branch
 
 And observe the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_rebase.png" alt="The history after rebasing" width="477" height="268" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_rebase.png" alt="The history after rebasing" width="477" height="268" loading="lazy">
 *The history after rebasing*
 
 With `git merge` you added to the history, while with `git rebase` you **rewrite history**. You create **new** commit objects. In addition, the result is a linear history graph - rather than a diverging graph.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_rebase_2.png" alt="The history after rebasing" width="1600" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_rebase_2.png" alt="The history after rebasing" width="1600" height="439" loading="lazy">
 *The history after rebasing*
 
 In essence, you "copied" the commits that were on `paul_branch` and that were introduced after "Commit 4", and "pasted" them on top of `john_branch`.
@@ -2201,14 +2190,14 @@ git merge paul_branch
 
 Hm.... What would happen if you ran this last command? Consider the commit history again, after checking out `main`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_checkout_main.png" alt="The history after rebasing and checking out " width="1600" height="558" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_checkout_main.png" alt="The history after rebasing and checking out " width="1600" height="558" loading="lazy">
 *The history after rebasing and checking out `main`*
 
 What would it mean to merge `main` and `paul_branch`?
 
 Indeed, Git can simply perform a fast-forward merge, as the history is completely linear (if you need a reminder about fast-forward merges, check out the previous chapter). As a result, `main` and `paul_branch` now point to the same commit:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/fast_forward_merge_result.png" alt="The result of a fast-forward merge" width="1168" height="619" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/fast_forward_merge_result.png" alt="The result of a fast-forward merge" width="1168" height="619" loading="lazy">
 *The result of a fast-forward merge*
 
 ### heading-advanced-rebasing-in-git">Advanced Rebasing in Git
@@ -2225,7 +2214,7 @@ Undo the last merge by making `main` point to "Commit 4" again:
 git reset --hard <ORIGINAL_COMMIT <span class="token file-descriptor important">4>
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_1.png" alt="&quot;Undoing&quot; the last merge operation" width="590" height="322" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_1.png" alt="'Undoing' the last merge operation" width="590" height="322" loading="lazy">
 *"Undoing" the last merge operation*
 
 And undo the rebasing by using:
@@ -2235,12 +2224,12 @@ git checkout paul_branch
 git reset --hard <ORIGINAL_COMMIT <span class="token file-descriptor important">9>
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_2.png" alt="&quot;Undoing&quot; the rebase operation" width="694" height="367" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_2.png" alt="'Undoing' the rebase operation" width="694" height="367" loading="lazy">
 *"Undoing" the rebase operation*
 
 Notice that you got to exactly the same history you used to have:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_undoing_rebase.png" alt="Visualizing the history after &quot;undoing&quot; the rebase operation" width="1600" height="454" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_undoing_rebase.png" alt="Visualizing the history after 'undoing' the rebase operation" width="1600" height="454" loading="lazy">
 *Visualizing the history after "undoing" the rebase operation*
 
 To be clear, "Commit 9" doesn't just disappear when it's not reachable from the current `HEAD`. Rather, it's still stored in the object database. And as you used `git reset` now to change `HEAD` to point to this commit, you were able to retrieve it, and also its parent commits since they are also stored in the database. Pretty cool, huh? 😎 
@@ -2253,7 +2242,7 @@ View the changes that Paul introduced:
 git show HEAD
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD_2.png" alt=" shows the patch introduced by &quot;Commit 9&quot;" width="814" height="658" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD_2.png" alt=" shows the patch introduced by 'Commit 9'" width="814" height="658" loading="lazy">
 *`git show HEAD` shows the patch introduced by "Commit 9"*
 
 Keep going backwards in the commit graph:
@@ -2262,7 +2251,7 @@ Keep going backwards in the commit graph:
 git show HEAD~
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-.png" alt=" (same as ) shows the patch introduced by &quot;Commit 8&quot;" width="589" height="723" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-.png" alt=" (same as ) shows the patch introduced by 'Commit 8'" width="589" height="723" loading="lazy">
 *`git show HEAD~` (same as `git show HEAD~1`) shows the patch introduced by "Commit 8"*
 
 And one commit further:
@@ -2271,7 +2260,7 @@ And one commit further:
 git show HEAD~2
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-2.png" alt=" shows the patch introduced by &quot;Commit 7&quot;" width="636" height="663" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_show_HEAD-2.png" alt=" shows the patch introduced by 'Commit 7'" width="636" height="663" loading="lazy">
 *`git show HEAD~2` shows the patch introduced by "Commit 7"*
 
 Perhaps Paul doesn't want this kind of history. Rather, he wants it to seem as if he introduced the changes in "Commit 7" and "Commit 8" as a single commit.
@@ -2292,7 +2281,7 @@ By running this command, you tell Git to use a new base, "Commit 4". So you are 
 
 For every commit that is replayed, Git asks us what we'd like to do with it:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_1.png" alt=" prompts you to select what to do with each commit" width="994" height="738" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_1.png" alt=" prompts you to select what to do with each commit" width="994" height="738" loading="lazy">
 *`git rebase -i main` prompts you to select what to do with each commit*
 
 In this context it's useful to think of a commit as a patch. That is, "Commit 7", as in "the patch that "Commit 7" introduced on top of its parent".
@@ -2301,17 +2290,17 @@ One option is to use `pick`. This is the default behavior, which tells Git to re
 
 Another option is `squash`. A *squashed* commit will have its contents "folded" into the contents of the commit preceding it. So in our case, Paul would like to squash "Commit 8" into "Commit 7":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_2.png" alt="Squashing &quot;Commit 8&quot; into &quot;Commit 7&quot;" width="1020" height="641" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_2.png" alt="Squashing 'Commit 8' into 'Commit 7'" width="1020" height="641" loading="lazy">
 *Squashing "Commit 8" into "Commit 7"*
 
 As you can see, `git rebase -i` provides additional options, but we won't go into all of them in this chapter. If you allow the rebase to run, you will get prompted to select a commit message for the newly created commit (that is, the one that introduced the changes of both "Commit 7" and "Commit 8"):
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_3.png" alt="Providing the commit message: Commits 7+8" width="1004" height="680" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_3.png" alt="Providing the commit message: Commits 7+8" width="1004" height="680" loading="lazy">
 *Providing the commit message: Commits 7+8*
 
 And look at the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_interactive_rebase.png" alt="The history after the interactive rebase" width="556" height="268" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_interactive_rebase.png" alt="The history after the interactive rebase" width="556" height="268" loading="lazy">
 *The history after the interactive rebase*
 
 Exactly as we wanted! On `paul_branch`, we have "Commit 9" (of course, it's a different object than the original "Commit 9"). This object points to "Commits 7+8", which is a single commit introducing the changes of both the original "Commit 7" and the original "Commit 8". This commit's parent is "Commit 4", where `main` is pointing to.
@@ -2341,12 +2330,12 @@ Next, branch from `main` to a new branch:
 git checkout -b new_branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/create_new_branch.png" alt="Creating  that diverges from " width="634" height="202" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/create_new_branch.png" alt="Creating  that diverges from " width="634" height="202" loading="lazy">
 _Creating `new_branch` that diverges from `main`_
 
 This is the clean history you should have:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_new_branch.png" alt="A clean history with  that diverges from " width="1601" height="814" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_new_branch.png" alt="A clean history with  that diverges from " width="1601" height="814" loading="lazy">
 _A clean history with `new_branch` that diverges from `main`_
 
 Now, change the file `code.py` (for example, add a new function) and commit your changes:
@@ -2355,7 +2344,7 @@ Now, change the file `code.py` (for example, add a new function) and commit your
 nano code.py
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_1.png" alt="Adding the function  to " width="588" height="328" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_1.png" alt="Adding the function  to " width="588" height="328" loading="lazy">
 _Adding the function `new_branch` to `code.py`_
 
 ```sh
@@ -2371,7 +2360,7 @@ git checkout main
 
 And introduce another change - adding a docstring at the beginning of the file:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_2.png" alt="Added a docstring at the beginning of the file" width="588" height="331" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_2.png" alt="Added a docstring at the beginning of the file" width="588" height="331" loading="lazy">
 *Added a docstring at the beginning of the file*
 
 Time to stage and commit these changes:
@@ -2383,7 +2372,7 @@ git commit -m "Commit 11"
 
 And yet another change, perhaps add `@Author` to the docstring:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_3.png" alt="Added  to the docstring" width="587" height="380" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_3.png" alt="Added  to the docstring" width="587" height="380" loading="lazy">
 *Added `@Author` to the docstring*
 
 Commit this change as well:
@@ -2397,12 +2386,12 @@ Oh wait, now I realize that I wanted you to make the changes introduced in "Comm
 
 Consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12-2.png" alt="The history after introducing &quot;Commit 12&quot;" width="1613" height="798" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_12-2.png" alt="The history after introducing 'Commit 12'" width="1613" height="798" loading="lazy">
 *The history after introducing "Commit 12"*
 
 Instead of having "Commit 11" reside only on the `main` branch, I want it to be on *both* the `main` branch as well as `new_branch`. Visually, I would want to *move* it down the graph here:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/push_commit_10_down.png" alt="Visually, I want you to &quot;push down&quot; &quot;Commit 10&quot;" width="1578" height="559" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/push_commit_10_down.png" alt="Visually, I want you to 'push down' 'Commit 10'" width="1578" height="559" loading="lazy">
 *Visually, I want you to "push down" "Commit 10"*
 
 Can you see where I am going? 😇
@@ -2423,12 +2412,12 @@ In this case, you'd tell Git that you want to take all the history introduced be
 git rebase --onto <SHA_OF_COMMIT_1<span class="token file-descriptor important">1> main new_branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_1.png" alt="The history before and after the rebase, &quot;Commit 10&quot; has been &quot;pushed&quot;" width="812" height="565" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_1.png" alt="The history before and after the rebase, 'Commit 10' has been 'pushed'" width="812" height="565" loading="lazy">
 *The history before and after the rebase, "Commit 10" has been "pushed"*
 
 And look at our beautiful history! 😍
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_2.png" alt="The history before and after the rebase, &quot;Commit 10&quot; has been &quot;pushed&quot;" width="1579" height="552" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_2.png" alt="The history before and after the rebase, 'Commit 10' has been 'pushed'" width="1579" height="552" loading="lazy">
 *The history before and after the rebase, "Commit 10" has been "pushed"*
 
 Let's consider another case.
@@ -2450,13 +2439,13 @@ git branch -D new_branch
 
 Create a simple Python file called `1.py`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/1_py_1.png" alt="A new file, , with " width="581" height="80" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/1_py_1.png" alt="A new file, , with " width="581" height="80" loading="lazy">
 *A new file, `1.py`, with `print('Hello world!')`*
 
 Stage and commit this file:
 
 ```sh
-git add <span class="token number">1.py
+git add 1.py
 git commit -m  "Commit 13"
 ```
 
@@ -2468,31 +2457,31 @@ git checkout -b feature_branch_2
 
 And create another file, `2.py`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/2_py_1.png" alt="Creating " width="561" height="90" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/2_py_1.png" alt="Creating " width="561" height="90" loading="lazy">
 *Creating `2.py`*
 
 Stage and commit this file as well:
 
 ```sh
-git add <span class="token number">2.py
+git add 2.py
 git commit -m  "Commit 14"
 ```
 
 And introduce some more code to `2.py`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/2_py_2.png" alt="Modifying " width="995" height="134" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/2_py_2.png" alt="Modifying " width="995" height="134" loading="lazy">
 *Modifying `2.py`*
 
 Stage and commit these changes too:
 
 ```sh
-git add <span class="token number">2.py
+git add 2.py
 git commit -m  "Commit 15"
 ```
 
 So far you should have this history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_15.png" alt="The history after introducing &quot;Commit 15&quot;" width="1600" height="446" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_15.png" alt="The history after introducing 'Commit 15'" width="1600" height="446" loading="lazy">
 *The history after introducing "Commit 15"*
 
 Get back to `feature_branch_1` and edit `1.py`:
@@ -2501,19 +2490,19 @@ Get back to `feature_branch_1` and edit `1.py`:
 git checkout feature_branch_1
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/1_py_2.png" alt="Modifying " width="563" height="84" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/1_py_2.png" alt="Modifying " width="563" height="84" loading="lazy">
 *Modifying `1.py`*
 
 Now stage and commit:
 
 ```sh
-git add <span class="token number">1.py
+git add 1.py
 git commit -m  "Commit 16"
 ```
 
 Your history should look like this:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_16-1.png" alt="The history after introducing &quot;Commit 16&quot;" width="1600" height="441" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_16-1.png" alt="The history after introducing 'Commit 16'" width="1600" height="441" loading="lazy">
 *The history after introducing "Commit 16"*
 
 Say now you realize that you've made a mistake. You actually wanted `feature_branch_2` to be born from the `main` branch, rather than from `feature_branch_1`.
@@ -2524,7 +2513,7 @@ Try to think about it given the history graph and what you've learned about the 
 
 Well, you want to "replace" the parent of your first commit on `feature_branch_2`, which is "Commit 14", so that it's on top of `main` branch - in this case, "Commit 12" - rather than the beginning of `feature_branch_1` - in this case, "Commit 13". So again, you will be creating a *new base*, this time for the first commit on `feature_branch_2`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/plan_commit14_15.png" alt="You want to move around &quot;Commit 14&quot; and &quot;Commit 15&quot;" width="1600" height="447" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/plan_commit14_15.png" alt="You want to move around 'Commit 14' and 'Commit 15'" width="1600" height="447" loading="lazy">
 *You want to move around "Commit 14" and "Commit 15"*
 
 How would you do that?
@@ -2545,7 +2534,7 @@ This tells Git to take the history with "Commit 13" as a base, and change that b
 
 As a result, you have `feature_branch_2` based on `main` rather than `feature_branch_1`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_3.png" alt="The commit history after performing rebase" width="1600" height="443" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_3.png" alt="The commit history after performing rebase" width="1600" height="443" loading="lazy">
 *The commit history after performing rebase*
 
 The syntax of the command is:
@@ -2562,7 +2551,7 @@ Let's see if you can help me here.
 
 Say I worked from `feature_branch_2`, and specifically edited the file `code.py`. I started by changing all strings to be wrapped by double quotes rather than single quotes:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_4.png" alt="Changing  into  in " width="588" height="382" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_4.png" alt="Changing  into  in " width="588" height="382" loading="lazy">
 *Changing `'` into `"` in `code.py`*
 
 Then, I staged and committed:
@@ -2574,7 +2563,7 @@ git commit -m "Commit 17"
 
 I then decided to add a new function at the beginning of the file:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_5.png" alt="Adding the function " width="590" height="423" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_5.png" alt="Adding the function " width="590" height="423" loading="lazy">
 _Adding the function `another_feature`_
 
 Again, I staged and committed:
@@ -2586,7 +2575,7 @@ git commit -m "Commit 18"
 
 And now I realized that I actually forgot to change the single quotes to double quotes wrapping `__main__` (as you might have noticed), so I did that too:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/code_py_6.png" alt="Changing  into " width="599" height="446" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/code_py_6.png" alt="Changing  into " width="599" height="446" loading="lazy">
 *Changing `'__main__'` into `"__main__"`*
 
 Of course, I staged and committed this change:
@@ -2598,14 +2587,14 @@ git commit -m "Commit 19"
 
 Now, consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_19.png" alt="The commit history after introducing &quot;Commit 19&quot;" width="1600" height="462" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_commit_19.png" alt="The commit history after introducing 'Commit 19'" width="1600" height="462" loading="lazy">
 *The commit history after introducing "Commit 19"*
 
 It isn't really nice, is it? I mean, I have two commits that are related to one another, "Commit 17" and "Commit 19" (turning `'`s into `"`s), but they are split by the unrelated "Commit 18" (where I added a new function). What can we do? Can you help me?
 
 Intuitively, I want to edit the history here:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/plan_edit_commits_17_18.png" alt="These are the commits I want to edit" width="1600" height="436" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/plan_edit_commits_17_18.png" alt="These are the commits I want to edit" width="1600" height="436" loading="lazy">
 *These are the commits I want to edit*
 
 So, what would you do?
@@ -2620,29 +2609,29 @@ git rebase --interactive --onto <SHA_OF_COMMIT_1<span class="token file-descript
 
 Notice I specified "Commit 15" as the beginning of the range of commits, excluding this commit. And I didn't need to explicitly specify `HEAD` as the last parameter.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_4.png" alt="Using  on a single branch" width="1023" height="391" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_4.png" alt="Using  on a single branch" width="1023" height="391" loading="lazy">
 *Using `rebase --onto` on a single branch*
 
 (Note: If you follow the steps above with my repository and get a merge conflict, you may have a different configuration than on my machine with regards to whitespace characters at line endings. In that case, you can add the `--ignore-whitespace` switch to the `rebase` command, resulting in the following command: `git rebase --ignore-whitespace --interactive --onto <SHA_OF_COMMIT_15> <SHA_OF_COMMIT_15>`. If you are curious to find out more about this issue, search for `autocrlf`.)
 
 After following your advice and running the `rebase` command (thanks! 😇) I get the following screen:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_4.png" alt="Interactive rebase" width="904" height="638" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_4.png" alt="Interactive rebase" width="904" height="638" loading="lazy">
 *Interactive rebase*
 
 So what would I do? I want to put "Commit 19" before "Commit 18", so it comes right after "Commit 17". I can go further and `squash` them together, like so:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_5.png" alt="Interactive rebase - changing the order of commit and squashing" width="1010" height="396" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_5.png" alt="Interactive rebase - changing the order of commit and squashing" width="1010" height="396" loading="lazy">
 *Interactive rebase - changing the order of commit and squashing*
 
 Now when I get prompted for a commit message, I can provide the message "Commit 17+19":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_6.png" alt="Providing a commit message" width="799" height="393" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/interactive_rebase_6.png" alt="Providing a commit message" width="799" height="393" loading="lazy">
 *Providing a commit message*
 
 And now, see our beautiful history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_5.png" alt="The resulting history" width="1030" height="493" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_5.png" alt="The resulting history" width="1030" height="493" loading="lazy">
 *The resulting history*
 
 Thanks again!
@@ -2657,7 +2646,7 @@ With the upcoming use cases, I strongly suggest you stop reading after I've intr
 
 Say you have this history on another repo:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/another_history_1.png" alt="Another commit history" width="1600" height="350" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/another_history_1.png" alt="Another commit history" width="1600" height="350" loading="lazy">
 *Another commit history*
 
 Before playing around with it, store a tag to "Commit F" so you can get back to it later:
@@ -2672,7 +2661,7 @@ Now, you actually don't want the changes in "Commit C" and "Commit D" to be incl
 
 You can rebase `HEAD` on top of "Commit B", where the old parent was actually "Commit D", and now it should be "Commit B". Consider the history again:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/another_history_1-1.png" alt="The history again" width="1600" height="350" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/another_history_1-1.png" alt="The history again" width="1600" height="350" loading="lazy">
 *The history again*
 
 Rebasing so that "Commit B" is the base of "Commit E" means "moving" both "Commit E" and "Commit F", and giving them another base - "Commit B". Can you come up with the command yourself?
@@ -2683,12 +2672,12 @@ git rebase --onto <SHA_OF_COMMIT_B> <SHA_OF_COMMIT_D> HEAD
 
 Notice that using the syntax above (exactly as provided) would *not* move *main* to point to the new commit, so the result is a "detached" `HEAD`. If you use `gg` or another tool that displays the history reachable from branches, it might confuse you:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_6.png" alt="Rebasing with  results in a detached " width="859" height="462" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/rebase_onto_6.png" alt="Rebasing with  results in a detached " width="859" height="462" loading="lazy">
 *Rebasing with `--onto` results in a detached `HEAD`*
 
 But if you simply use `git log` (or my alias `git lol`), you will see the desired history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_lol.png" alt="The resulting history" width="740" height="136" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_lol.png" alt="The resulting history" width="740" height="136" loading="lazy">
 *The resulting history*
 
 I don't know about you, but these kinds of things make me really happy. 😊😇
@@ -2715,7 +2704,7 @@ git checkout original_commit_f
 
 And now I want only "Commit E" to be on a branch based on "Commit B". That is, I want to have a new branch, branching from "Commit B", with only "Commit E".
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/another_history_2.png" alt="The current history, considering &quot;Commit E&quot;" width="1600" height="472" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/another_history_2.png" alt="The current history, considering 'Commit E'" width="1600" height="472" loading="lazy">
 *The current history, considering "Commit E"*
 
 So, what does this mean in terms of `rebase`? Consider the image above. What commit (or commits) should I rebase, and which commit would be the new base?
@@ -2734,7 +2723,7 @@ git rebase --onto <COMMIT_B> <COMMIT_D> <COMMIT_E>
 
 Now the history looks like so:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_rebase_3.png" alt="The history after rebase" width="1600" height="457" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/history_after_rebase_3.png" alt="The history after rebase" width="1600" height="457" loading="lazy">
 *The history after rebase*
 
 Notice that `rebase` moved `HEAD`, but not any other reference named (such as a branch or a tag). In other words, you are in a detached `HEAD` state. So here too, using `gg` or another tool that displays the history reachable from branches and tags might confuse you. You can use `git log` (or my alias `git lol`) to display the reachable history from `HEAD`.
@@ -2751,10 +2740,10 @@ For example, consider the previous repository again, and specifically, consider 
 git show main
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/patch_commit_12.png" alt="The patch introduced in &quot;Commit 12&quot;" width="714" height="453" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/patch_commit_12.png" alt="The patch introduced in 'Commit 12'" width="714" height="453" loading="lazy">
 *The patch introduced in "Commit 12"*
 
-I already covered the format of `git diff` in detail in <a class="post-section-overview" href="#heading-chapter-6-diffs-and-patches">chapter 6</a>, but as a quick reminder, this commit instructs Git to add a line after the two lines of context:
+I already covered the format of `git diff` in detail in <a href="#chapter-6-diffs-and-patches">chapter 6</a>, but as a quick reminder, this commit instructs Git to add a line after the two lines of context:
 
 <pre class="language-patch" tabindex="0"><code class="language-patch">
 ```
@@ -2762,15 +2751,15 @@ I already covered the format of `git diff` in detail in <a class="post-section-o
 This is a sample file
 
 <pre>`
-And before these three lines <span class="hljs-keyword">of context:
+And before these three lines of context:
 
-<span class="hljs-string">``<span class="hljs-string">`patch
+```patch
 ```
 def new_feature():
   print('new feature')
   
 <pre>`
-Say you are trying to rebase <span class="hljs-string">"Commit 12" onto another commit. If, <span class="hljs-keyword">for some reason, these context lines don<span class="hljs-string">'t exist as they do in the patch on the commit you are rebasing onto, then you will have a conflict.
+Say you are trying to rebase "Commit 12" onto another commit. If, for some reason, these context lines don't exist as they do in the patch on the commit you are rebasing onto, then you will have a conflict.
 
 ### Zooming Out for the Big Picture
 
@@ -2800,54 +2789,54 @@ _The history after rebase_
 
 Now, assume that I have already pushed this branch to the remote. And after I had pushed the branch, another developer pulled it and branched out from "Commit C". The other developer didn't know that meanwhile, I was locally rebasing my branch, and would later push it again.
 
-This results <span class="hljs-keyword">in an inconsistency: the other developer works <span class="hljs-keyword">from a commit that is no longer available on my copy <span class="hljs-keyword">of the repository.
+This results in an inconsistency: the other developer works from a commit that is no longer available on my copy of the repository.
 
-I will not elaborate on what exactly <span class="hljs-built_in">this causes <span class="hljs-keyword">in <span class="hljs-built_in">this book, <span class="hljs-keyword">as my main message is that you should definitely avoid such cases. If you<span class="hljs-string">'re interested in what would actually happen, I'll leave a link to a useful resource <span class="hljs-keyword">in the [additional references](#heading-additional-references-by-part). For now, <span class="hljs-keyword">let<span class="hljs-string">'s summarize what we have covered.
+I will not elaborate on what exactly this causes in this book, as my main message is that you should definitely avoid such cases. If you're interested in what would actually happen, I'll leave a link to a useful resource in the [additional references](#additional-references-by-part). For now, let's summarize what we have covered.
 
 ### Recap - Understanding Git Rebase
 
 In this chapter, you learned about `git rebase`, a super-powerful tool to rewrite history in Git. You considered a few use cases where git rebase can be helpful, and how to use it with one, two, or three parameters, with and without the `--onto` switch.
 
-I hope I was able to convince you that `git rebase` is powerful - but also that it is quite simple once you get the gist. It is a tool you can use to "copy-paste" commits (or, more accurately, patches). And it's a useful tool to have under your belt. In essence, <span class="hljs-string">`git rebase` takes the patches introduced by commits, and replays them on another commit. As described <span class="hljs-keyword">in <span class="hljs-built_in">this chapter, <span class="hljs-built_in">this is useful <span class="hljs-keyword">in many different scenarios.
+I hope I was able to convince you that `git rebase` is powerful - but also that it is quite simple once you get the gist. It is a tool you can use to "copy-paste" commits (or, more accurately, patches). And it's a useful tool to have under your belt. In essence, `git rebase` takes the patches introduced by commits, and replays them on another commit. As described in this chapter, this is useful in many different scenarios.
 
-## Part <span class="hljs-number">2 - Summary
+## Part 2 - Summary
 
-In <span class="hljs-built_in">this part you learned about branching and integrating changes <span class="hljs-keyword">in Git.
+In this part you learned about branching and integrating changes in Git.
 
-You learned what a **diff** is, and the difference between a diff and a **patch**. You also learned how the output <span class="hljs-keyword">of <span class="hljs-string">`git diff` is constructed.
+You learned what a **diff** is, and the difference between a diff and a **patch**. You also learned how the output of `git diff` is constructed.
 
-Understanding diffs is a major milestone <span class="hljs-keyword">for understanding many other processes within Git such <span class="hljs-keyword">as merging or rebasing.
+Understanding diffs is a major milestone for understanding many other processes within Git such as merging or rebasing.
 
-Then, you got an extensive overview <span class="hljs-keyword">of merging <span class="hljs-keyword">with Git. You learned that **merging** is the process <span class="hljs-keyword">of **combining the recent changes <span class="hljs-keyword">from several branches into a single <span class="hljs-keyword">new commit**. The <span class="hljs-keyword">new commit has multiple parents - those commits which had been the tips <span class="hljs-keyword">of the branches that were merged. In most cases, merging combines the changes <span class="hljs-keyword">from two branches, and the resulting merge commit then has two parents - one <span class="hljs-keyword">from each branch.
+Then, you got an extensive overview of merging with Git. You learned that **merging** is the process of **combining the recent changes from several branches into a single new commit**. The new commit has multiple parents - those commits which had been the tips of the branches that were merged. In most cases, merging combines the changes from two branches, and the resulting merge commit then has two parents - one from each branch.
 
-We considered a simple, fast-forward merge, which is possible when one branch diverged <span class="hljs-keyword">from the base branch, and then just added commits on top <span class="hljs-keyword">of the base branch.
+We considered a simple, fast-forward merge, which is possible when one branch diverged from the base branch, and then just added commits on top of the base branch.
 
 We then considered three-way merges, and explained the three-stage process:
 
-* First, Git locates the merge base. As a reminder, <span class="hljs-built_in">this is the first commit that is reachable <span class="hljs-keyword">from both branches.
-* Second, Git calculates two diffs - one diff <span class="hljs-keyword">from the merge base to the _first_ branch, and another diff <span class="hljs-keyword">from the merge base to the _second_ branch. Git generates patches based on those diffs.
-* Third and last, Git applies both patches to the merge base using a <span class="hljs-number">3-way merge algorithm. The result is the state <span class="hljs-keyword">of the <span class="hljs-keyword">new merge commit.
+* First, Git locates the merge base. As a reminder, this is the first commit that is reachable from both branches.
+* Second, Git calculates two diffs - one diff from the merge base to the _first_ branch, and another diff from the merge base to the _second_ branch. Git generates patches based on those diffs.
+* Third and last, Git applies both patches to the merge base using a 3-way merge algorithm. The result is the state of the new merge commit.
 
-You saw the output <span class="hljs-keyword">of <span class="hljs-string">`git diff` when we are <span class="hljs-keyword">in a conflicting state, and how to resolve conflicts either manually or <span class="hljs-keyword">with VS Code.
+You saw the output of `git diff` when we are in a conflicting state, and how to resolve conflicts either manually or with VS Code.
 
-Ultimately, you got to know Git rebase. You saw that <span class="hljs-string">`git rebase` is powerful - but also that it is quite simple once you understand what it does. It is a tool to <span class="hljs-string">"copy-paste" commits (or, more accurately, patches).
+Ultimately, you got to know Git rebase. You saw that `git rebase` is powerful - but also that it is quite simple once you understand what it does. It is a tool to "copy-paste" commits (or, more accurately, patches).
 
 ![Comparing rebase and merge](https:<span class="hljs-comment">//www.freecodecamp.org/news/content/images/2023/12/compare_rebase_merge-1.png)
 _Comparing rebase and merge_
 
-Both <span class="hljs-string">`git merge` and <span class="hljs-string">`git rebase` are used to integrate changes introduced <span class="hljs-keyword">in different histories.
+Both `git merge` and `git rebase` are used to integrate changes introduced in different histories.
 
-Yet, they differ <span class="hljs-keyword">in how they operate. While merging results <span class="hljs-keyword">in a _diverged_ history, rebasing results <span class="hljs-keyword">in a _linear_ history. <span class="hljs-string">`git rebase` _changes_ the history, whereas <span class="hljs-string">`git merge` adds to the existing history.
+Yet, they differ in how they operate. While merging results in a _diverged_ history, rebasing results in a _linear_ history. `git rebase` _changes_ the history, whereas `git merge` adds to the existing history.
 
-With <span class="hljs-built_in">this deep understanding <span class="hljs-keyword">of diffs, patches, merge and rebase, you should feel confident introducing changes to a git repository.
+With this deep understanding of diffs, patches, merge and rebase, you should feel confident introducing changes to a git repository.
 
-The next part will focus on what happens when things go wrong - how you can change history (<span class="hljs-keyword">with or without <span class="hljs-string">`git rebase`), or find <span class="hljs-string">"lost" commits.
+The next part will focus on what happens when things go wrong - how you can change history (with or without `git rebase`), or find "lost" commits.
 
-# Part <span class="hljs-number">3 - Undoing Changes
+# Part 3 - Undoing Changes
 
-Did you ever get to a point where you said: <span class="hljs-string">"Uh-oh, what did I just do?" I guess you have, just like about anyone who uses Git.
+Did you ever get to a point where you said: "Uh-oh, what did I just do?" I guess you have, just like about anyone who uses Git.
 
-Perhaps you committed to the wrong branch. Perhaps you lost some code that you had written. Perhaps you committed something that you didn<span class="hljs-string">'t mean to.
+Perhaps you committed to the wrong branch. Perhaps you lost some code that you had written. Perhaps you committed something that you didn't mean to.
 
 This part will give you the tools to rewrite history with confidence, thereby "undoing" all kinds of changes in Git. 
 
@@ -2859,7 +2848,7 @@ Our journey starts with a powerful command that can be used to undo many differe
 
 ### A Short Reminder - Recording Changes
 
-In [chapter 3](#heading-chapter-3-how-to-record-changes-in-git), you learned how to record changes in Git. If you remember everything from this part, feel free to jump to the next section.
+In [chapter 3](#chapter-3-how-to-record-changes-in-git), you learned how to record changes in Git. If you remember everything from this part, feel free to jump to the next section.
 
 It is very useful to think about Git as a system for recording snapshots of a filesystem in time. Considering a Git repository, it has three "states" or "trees":
 
@@ -2870,13 +2859,13 @@ It is very useful to think about Git as a system for recording snapshots of a fi
 ![The three "trees" of a Git repo](https://freecodecamp.org/news/content/images/2023/12/3_trees.png)
 _The three "trees" of a Git repo_
 
-Note regarding the drawing conventions I use: I include `.git` within the working directory, to remind you that it is a folder within the project's folder on the filesystem. The <span class="hljs-string">`.git` folder actually contains the objects and references <span class="hljs-keyword">of the repository, <span class="hljs-keyword">as explained <span class="hljs-keyword">in [chapter <span class="hljs-number">4](#heading-chapter<span class="hljs-number">-4-how-to-create-a-repo-<span class="hljs-keyword">from-scratch).
+Note regarding the drawing conventions I use: I include `.git` within the working directory, to remind you that it is a folder within the project's folder on the filesystem. The `.git` folder actually contains the objects and references of the repository, as explained in [chapter 4](#chapter-4-how-to-create-a-repo-from-scratch).
 
 #### Hands-on Demonstration
 
-Use <span class="hljs-string">`git init` to initialize a <span class="hljs-keyword">new repository. Write some text into a file called <span class="hljs-string">`1.txt`:
+Use `git init` to initialize a new repository. Write some text into a file called `1.txt`:
 
-<span class="hljs-string">``<span class="hljs-string">`bash
+```bash
 mkdir my_repo
 cd my_repo
 git init
@@ -2886,19 +2875,19 @@ Out of the three tree states described above, where is `1.txt` now?
 
 In the working tree, as it hasn't yet been introduced to the index.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/1_txt_working_dir.png" alt="The file  is now a part of the working dir only" width="1162" height="346" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/1_txt_working_dir.png" alt="The file  is now a part of the working dir only" width="1162" height="346" loading="lazy">
 *The file `1.txt` is now a part of the working dir only*
 
 In order to *stage* it, to *add* it to the index, use:
 
 ```sh
-git add <span class="token number">1.txt
+git add 1.txt
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/1_txt_index.png" alt="Using  stages the file so it is now in the index as well" width="1164" height="346" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/1_txt_index.png" alt="Using  stages the file so it is now in the index as well" width="1164" height="346" loading="lazy">
 *Using `git add` stages the file so it is now in the index as well*
 
-Notice that once you stage `1.txt`, Git creates a blob object with the content of this file, and adds it to the internal object database (within `.git` folder), as covered in <a class="post-section-overview" href="#heading-chapter-3-how-to-record-changes-in-git">chapter 3</a> and <a class="post-section-overview" href="#heading-chapter-4-how-to-create-a-repo-from-scratch">chapter 4</a>. I do not draw it as part of the "repository" as in this representation, the "repository" refers to a tree of commits and their references, and this blob has not been a part of any commit.
+Notice that once you stage `1.txt`, Git creates a blob object with the content of this file, and adds it to the internal object database (within `.git` folder), as covered in <a href="#chapter-3-how-to-record-changes-in-git">chapter 3</a> and <a href="#chapter-4-how-to-create-a-repo-from-scratch">chapter 4</a>. I do not draw it as part of the "repository" as in this representation, the "repository" refers to a tree of commits and their references, and this blob has not been a part of any commit.
 
 Now, use `git commit` to commit your changes to the repository:
 
@@ -2906,7 +2895,7 @@ Now, use `git commit` to commit your changes to the repository:
 git commit -m "Commit 1"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_1.png" alt="Using  creates a commit object in the repository" width="1151" height="437" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_1.png" alt="Using  creates a commit object in the repository" width="1151" height="437" loading="lazy">
 *Using `git commit` creates a commit object in the repository*
 
 You created a new **commit** object, which includes a pointer to a **tree** describing the entire **working tree**. In this case, this tree consists only of `1.txt` within the root folder. In addition to a pointer to the tree, the commit object includes metadata, such as timestamps and author information.
@@ -2918,11 +2907,11 @@ For more information about the objects in Git (such as commits and trees), refer
 Next, create a new file, and add it to the index, as before:
 
 ```sh
-<span class="token builtin class-name">echo second file > <span class="token number">2.txt
-git add <span class="token number">2.txt
+<span class="token builtin class-name">echo second file > 2.txt
+git add 2.txt
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/2_txt_index.png" alt="The file  is in the working dir and the index after staging it with " width="1151" height="437" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/2_txt_index.png" alt="The file  is in the working dir and the index after staging it with " width="1151" height="437" loading="lazy">
 *The file `2.txt` is in the working dir and the index after staging it with `git add`*
 
 Next, commit:
@@ -2935,12 +2924,12 @@ Importantly, `git commit` does two things:
 
 First, it creates a **commit object**, so there is an object within Git's internal object database with a corresponding SHA-1 value. This new commit object also points to the parent commit. That is the commit that `HEAD` was pointing to when you wrote the `git commit` command.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/new_commit_object.png" alt="A new commit object has been created, at first —  still points to the previous commit" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/new_commit_object.png" alt="A new commit object has been created, at first —  still points to the previous commit" width="1164" height="439" loading="lazy">
 *A new commit object has been created, at first - `main` still points to the previous commit*
 
 Second, `git commit` **moves the pointer of the active branch** — in our case, that would be `main`, to point to the newly created commit object.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_updates_active_branch.png" alt=" also updates the active branch to point to the newly created commit object" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_updates_active_branch.png" alt=" also updates the active branch to point to the newly created commit object" width="1164" height="439" loading="lazy">
 *`git commit` also updates the active branch to point to the newly created commit object*
 
 ### heading-introducing-git-reset">Introducing `git reset`
@@ -2963,19 +2952,19 @@ This command asks Git to change whatever `HEAD` is pointing to. (Note: In the di
 
 However, this command did **not** affect the state of the index or the working tree. So if you use `git status` you will see that `2.txt` is staged, just like before you ran `git commit`:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_status_after_reset_soft.png" alt=" shows that  is in the index, but not in the active commit" width="739" height="330" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_status_after_reset_soft.png" alt=" shows that  is in the index, but not in the active commit" width="739" height="330" loading="lazy">
 *`git status` shows that `2.txt` is in the index, but not in the active commit*
 
 The state is now:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/reset_soft_1.png" alt="Resetting  to &quot;Commit 1&quot;" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/reset_soft_1.png" alt="Resetting  to 'Commit 1'" width="1164" height="439" loading="lazy">
 *Resetting `main` to "Commit 1"*
 
 (Note: I removed `2.txt` from the "repository" in the diagram as it is not part of the active commit - that is, the tree pointed to by "Commit 1" does not reference this file. However, it has not been removed from the file system - as it still exists in the working tree and the index.)
 
 What about `git log`? It will start from `HEAD` , go to `main`, and then to "Commit 1":
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_log_after_reset_soft.png" alt="The output of " width="892" height="190" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_log_after_reset_soft.png" alt="The output of " width="892" height="190" loading="lazy">
 *The output of `git log`*
 
 Notice that this means that "Commit 2" is no longer reachable from our history.
@@ -2994,7 +2983,7 @@ git commit -m "Commit 2.1"
 
 This is the resulting state:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_2_1.png" alt="Creating a new commit" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_2_1.png" alt="Creating a new commit" width="1164" height="439" loading="lazy">
 *Creating a new commit*
 
 I omitted "Commit 2" as it is not reachable from `HEAD`, even though its object exists in Git's internal object database.
@@ -3013,24 +3002,24 @@ git reset --mixed HEAD~1
 
 This command starts the same as `git reset --soft HEAD~1`. That is, the command takes the pointer of whatever `HEAD` is pointing to now, which is the `main` branch, and sets it to `HEAD~1`, in our example - "Commit 1".
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_mixed_1.png" alt="The first step of  is the same as " width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_mixed_1.png" alt="The first step of  is the same as " width="1164" height="439" loading="lazy">
 *The first step of `git reset --mixed` is the same as `git reset --soft`*
 
 Next, Git goes further, effectively undoing the changes we made to the index. That is, changing the index so that it matches with the current `HEAD`, the new `HEAD` after setting it in the first step.
 
 If we ran `git reset --mixed HEAD~1`, then `HEAD` (`main`) would be set to `HEAD~1` ("Commit 1"), and then Git would match the index to the state of "Commit 1" - in this case, it means that `2.txt` would no longer be part of the index.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_mixed_2.png" alt="The second step of  is to match the index with the new " width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_mixed_2.png" alt="The second step of  is to match the index with the new " width="1164" height="439" loading="lazy">
 *The second step of `git reset --mixed` is to match the index with the new `HEAD`*
 
 It's time to create a new commit with the state of the original "Commit 2". This time you need to stage `2.txt` again before creating it:
 
 ```sh
-git add <span class="token number">2.txt
+git add 2.txt
 git commit -m "Commit 2.2"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_2_2.png" alt="Creating &quot;Commit 2.2&quot;" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_2_2.png" alt="Creating 'Commit 2.2'" width="1164" height="439" loading="lazy">
 *Creating "Commit 2.2"*
 
 Similarly to "Commit 2.1", I "name" this commit "Commit 2.2" to differentiate it from the original "Commit 2" or "Commit 2.1" - these commits result in the same state as the original "Commit 2", but they are different commit objects.
@@ -3047,17 +3036,17 @@ git reset --hard HEAD~1
 
 Again, Git starts with the `--soft` stage, setting whatever `HEAD` is pointing to (`main`), to `HEAD~1` ("Commit 1").
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_1-1.png" alt="The first step of  is the same as " width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_1-1.png" alt="The first step of  is the same as " width="1164" height="439" loading="lazy">
 *The first step of `git reset --hard` is the same as `git reset --soft`*
 
 Next, moving on to the `--mixed` stage, matching the index with `HEAD`. That is, Git undoes the staging of `2.txt`.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_2-1.png" alt="The second step of  is the same as " width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_2-1.png" alt="The second step of  is the same as " width="1164" height="439" loading="lazy">
 *The second step of `git reset --hard` is the same as `git reset --mixed`*
 
 Next comes the `--hard` step, where Git goes even further and matches the working dir with the stage of the index. In this case, it means removing `2.txt` also from the working dir.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_3.png" alt="The third step of  matches the state of the working dir with that of the index" width="1164" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_hard_3.png" alt="The third step of  matches the state of the working dir with that of the index" width="1164" height="439" loading="lazy">
 *The third step of `git reset --hard` matches the state of the working dir with that of the index*
 
 So to introduce a change to Git, you have three steps: you change the working dir, the index, or the staging area, and then you commit a new snapshot with those changes. To undo these changes:
@@ -3066,7 +3055,7 @@ So to introduce a change to Git, you have three steps: you change the working di
 - If we use `git reset --mixed`, we also undo the staging step.
 - If we use `git reset --hard`, we undo the changes to the working dir.
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_reset_switches.png" alt="The three main switches of " width="1005" height="290" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/git_reset_switches.png" alt="The three main switches of " width="1005" height="290" loading="lazy">
 *The three main switches of `git reset`*
 
 ### heading-real-life-scenarios">Real-Life Scenarios
@@ -3081,7 +3070,7 @@ git add love.txt
 git commit -m "Commit 2.3"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_2_3.png" alt="Creating &quot;Commit 2.3&quot;" width="1157" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_2_3.png" alt="Creating 'Commit 2.3'" width="1157" height="439" loading="lazy">
 *Creating "Commit 2.3"*
 
 Also, save a tag so that you can get back to this commit later if needed:
@@ -3104,7 +3093,7 @@ Well, one way to overcome this would be to use `git reset --mixed HEAD~1`, effec
 git reset --mixed HEAD~1
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/reset_commit_2_3.png" alt="Undoing the staging and committing steps" width="1166" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/reset_commit_2_3.png" alt="Undoing the staging and committing steps" width="1166" height="439" loading="lazy">
 *Undoing the staging and committing steps*
 
 So `main` points to "Commit 1" again, and `love.txt` is no longer a part of the index. However, the file remains in the working dir. You can now add more content to it:
@@ -3113,7 +3102,7 @@ So `main` points to "Commit 1" again, and `love.txt` is no longer a part of the 
 <span class="token builtin class-name">echo and Gitting Things Done >> love.txt
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/adding_love_lyrics.png" alt="Adding more love lyrics" width="1151" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/adding_love_lyrics.png" alt="Adding more love lyrics" width="1151" height="439" loading="lazy">
 *Adding more love lyrics*
 
 Stage and commit your file:
@@ -3123,7 +3112,7 @@ git add love.txt
 git commit -m "Commit 2.4"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_2_4.png" alt="Introducing &quot;Commit 2.4&quot;" width="1151" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_2_4.png" alt="Introducing 'Commit 2.4'" width="1151" height="439" loading="lazy">
 *Introducing "Commit 2.4"*
 
 Well done!
@@ -3148,7 +3137,7 @@ git add new.txt
 git commit -m "Commit 3"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_3.png" alt="Creating  and &quot;Commit 3&quot;" width="1151" height="439" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_3.png" alt="Creating  and 'Commit 3'" width="1151" height="439" loading="lazy">
 *Creating `new.txt` and "Commit 3"*
 
 (Note: In the drawing I omitted the files from the repository to avoid clutter. Commit 3 includes `1.txt`, `love.txt` and `new.txt` at this stage).
@@ -3159,7 +3148,7 @@ There are two most important tools I want you to take from this chapter. The *se
 
 For this scenario, the current state and the desired state look like so:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/scenario_2.png" alt="Scenario #2: current-vs-desired states" width="747" height="445" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/scenario_2.png" alt="Scenario #2: current-vs-desired states" width="747" height="445" loading="lazy">
 *Scenario #2: current-vs-desired states*
 
 (Note: In following diagrams, I will refer to the current state as the "original" state - before starting the process of rewriting history.)
@@ -3185,7 +3174,7 @@ You can start by using `git reset --soft HEAD~1`. This would set `main` to point
 git reset --soft HEAD~1
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/scenario_2_1.png" alt="Changing ; &quot;Commit 3 is still there, just not reachable from " width="1164" height="449" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/scenario_2_1.png" alt="Changing ; 'Commit 3 is still there, just not reachable from " width="1164" height="449" loading="lazy">
 *Changing `main`: "Commit 3" is still there, just not reachable from `HEAD`*
 
 Peeking at the current-vs-desired diagram again, you can see that you need a new branch, right? You can use `git switch -c feature_branch` for it, or `git checkout -b feature_branch` (which does the same thing):
@@ -3194,7 +3183,7 @@ Peeking at the current-vs-desired diagram again, you can see that you need a new
 git switch -c feature_branch
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/scenario_2_2.png" alt="Creating  branch" width="1167" height="450" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/scenario_2_2.png" alt="Creating  branch" width="1167" height="450" loading="lazy">
 _Creating `feature_branch` branch_
 
 This command also updates `HEAD` to point to the new branch.
@@ -3205,7 +3194,7 @@ Since you used `git reset --soft`, you didn't change the index, so it currently 
 git commit -m "Commit 3.1"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_3_1.png" alt="Committing to  branch" width="1167" height="450" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_3_1.png" alt="Committing to  branch" width="1167" height="450" loading="lazy">
 _Committing to `feature_branch` branch_
 
 And you got to the desired state.
@@ -3224,7 +3213,7 @@ git add cool.txt
 git commit -m "Commit 4"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_4.png" alt="The history, as well as the state of the index and the working dir after creating &quot;Commit 4&quot;" width="1185" height="553" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_4.png" alt="The history, as well as the state of the index and the working dir after creating 'Commit 4'" width="1185" height="553" loading="lazy">
 *The history, as well as the state of the index and the working dir after creating "Commit 4"*
 
 Oh, oops, actually I wanted you to create two *separate* commits, one with each change...
@@ -3239,7 +3228,7 @@ git reset --mixed HEAD~1
 
 Following this command, the index no longer includes those two changes, but they're both still in your file system:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/reset_commit_4.png" alt="Resulting state after using " width="1185" height="553" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/reset_commit_4.png" alt="Resulting state after using " width="1185" height="553" loading="lazy">
 *Resulting state after using `git reset --mixed HEAD~1`*
 
 So now, if you only stage `love.txt`, you can commit it separately:
@@ -3249,7 +3238,7 @@ git add love.txt
 git commit -m "Love"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_love.png" alt="Resulting state after committing the changes to " width="1162" height="529" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_love.png" alt="Resulting state after committing the changes to " width="1162" height="529" loading="lazy">
 *Resulting state after committing the changes to `love.txt`*
 
 Then, do the same for `cool.txt`:
@@ -3259,7 +3248,7 @@ git add cool.txt
 git commit -m "Cool"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_separately.png" alt="Committing separately" width="1162" height="532" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_separately.png" alt="Committing separately" width="1162" height="532" loading="lazy">
 *Committing separately*
 
 Nice!
@@ -3273,7 +3262,7 @@ git checkout main
 git reset --hard <SHA_OF_COMMIT_3_<span class="token file-descriptor important">1>
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/reset_main_commit_3_1.png" alt="Resetting  to &quot;Commit 3.1&quot;" width="1140" height="522" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/reset_main_commit_3_1.png" alt="Resetting  to 'Commit 3.1'" width="1140" height="522" loading="lazy">
 *Resetting `main` to "Commit 3.1"*
 
 Create another file (`another.txt`) with some text, and add some text to `love.txt`. Stage both changes, and commit them:
@@ -3288,7 +3277,7 @@ git commit -m "Commit 4.1"
 
 This should be the result:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/commit_more_changes.png" alt="A new commit" width="1150" height="544" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/commit_more_changes.png" alt="A new commit" width="1150" height="544" loading="lazy">
 *A new commit*
 
 Oops...
@@ -3301,12 +3290,12 @@ I'll give you a hint. The answer is really short and really easy. What do we do 
 
 No, not `reset`. We *draw*. That's the first thing to do, as it would make everything else so much easier. So this is the current state:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/scenario_4.png" alt="The new commit on  appears blue" width="1153" height="532" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/scenario_4.png" alt="The new commit on  appears blue" width="1153" height="532" loading="lazy">
 *The new commit on `main` appears blue*
 
 And the desired state?
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/scenario_4_1-1.png" alt="We want the &quot;blue&quot; commit to be on another, , branch\label{fig-scenario-4-1}" width="1172" height="743" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/scenario_4_1-1.png" alt="We want the 'blue' commit to be on another, , branch\label{fig-scenario-4-1}" width="1172" height="743" loading="lazy">
 *We want the "blue" commit to be on another, `existing`, branch*
 
 How do you get from the current state to the desired state, what would be easiest?
@@ -3336,12 +3325,12 @@ First, move `HEAD` to point to existing branch:
 git switch existing
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/switch_existing.png" alt="Switch to the  branch" width="1760" height="736" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/switch_existing.png" alt="Switch to the  branch" width="1760" height="736" loading="lazy">
 *Switch to the `existing` branch*
 
 Intuitively, what you want to do is take the changes introduced in "Commit 4.1", and apply these changes ("copy-paste") on top of `existing` branch. And Git has a tool just for that.
 
-To ask Git to take the changes introduced between a commit and its parent commit and just apply these changes on the active branch, you can use `git cherry-pick`, a command we introduced in <a class="post-section-overview" href="#heading-chapter-8-understanding-git-rebase">chapter 8</a>. This command takes the changes introduced in the specified revision and applies them to the state of the active commit. Run:
+To ask Git to take the changes introduced between a commit and its parent commit and just apply these changes on the active branch, you can use `git cherry-pick`, a command we introduced in <a href="#chapter-8-understanding-git-rebase">chapter 8</a>. This command takes the changes introduced in the specified revision and applies them to the state of the active commit. Run:
 
 ```sh
 git cherry-pick <SHA_OF_COMMIT_4_<span class="token file-descriptor important">1>
@@ -3351,7 +3340,7 @@ You can specify the SHA-1 identifier of the desired commit, but you can also use
 
 `git cherry-pick` also creates a new commit object, and updates the active branch to point to this new object, so the resulting state would be:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/cherry_pick.png" alt="The result after using " width="1760" height="736" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/cherry_pick.png" alt="The result after using " width="1760" height="736" loading="lazy">
 *The result after using `git cherry-pick`*
 
 I mark the commit as "Commit 4.2" since it has a different timestamp, parent and SHA-1 value than "Commit 4.1", though the changes it introduces are the same.
@@ -3367,7 +3356,7 @@ git reset --hard HEAD~1
 
 And the result:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/reset_cherry_pick.png" alt="The resulting state after resetting " width="1760" height="736" loading="lazy">
+![](https://freecodecamp.org/news/content/images/2023/12/reset_cherry_pick.png" alt="The resulting state after resetting " width="1760" height="736" loading="lazy">
 *The resulting state after resetting `main`*
 
 You did it!

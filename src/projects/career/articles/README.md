@@ -109,6 +109,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Be a Productive Developer",
+  "desc": "If you are having trouble accomplishing as much as you want to accomplish, we have a course for you. We just published a course on the freeCodeCamp.org YouTube channel that is designed to equip software developers with essential soft skills for boost...",
+  "link": "/explore/articles/freecodecamp.org/how-to-be-a-productive-developer.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

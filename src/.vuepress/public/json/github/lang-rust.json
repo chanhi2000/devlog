@@ -2487,5 +2487,12 @@
     "topics": ["rust", "sed", "tui-rs", "unix"],
     "avatar": "https://avatars.githubusercontent.com/u/24734779?v=4",
     "banner": ""
+  }, {
+    "repo": "RyanWelly/lisp-in-rs-macros",
+    "desc": "A Lisp interpreter written fully in rust macros. ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/100173972?v=4",
+    "banner": ""
   }
 ]

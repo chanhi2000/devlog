@@ -21,7 +21,7 @@ head:
       content: Practical Guide to Linear Algebra in Data Science and AI
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/linear-algebra-roadmap.html
-prev: /academcis/math/articles/README.md
+prev: /academics/math/articles/README.md
 date: 2024-06-04
 isOriginal: false
 cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/image--12-.png
@@ -33,7 +33,7 @@ cover: https://freecodecamp.org/news/content/images/size/w2000/2024/06/image--12
 {
   "title": "Mathematics > Article(s)",
   "desc": "Article(s)",
-  "link": "/academcis/math/articles/README.md",
+  "link": "/academics/math/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

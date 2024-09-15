@@ -21,7 +21,7 @@ head:
       content: How Do Numerical Conversions Work in Computer Systems? Explained With Examples
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-do-numerical-conversions-work.html
-prev: /academcis/math/articles/README.md
+prev: /academics/math/articles/README.md
 date: 2024-05-29
 isOriginal: false
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a00-2e63-434e-91e8-c766b171f6f7.png
@@ -33,7 +33,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a0
 {
   "title": "Mathematics > Article(s)",
   "desc": "Article(s)",
-  "link": "/academcis/math/articles/README.md",
+  "link": "/academics/math/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

@@ -531,4 +531,10 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
+## 하이제니스
+
+- [AllwinnerTech A527 안드로이드 빌드 방법](https://m.blog.naver.com/chandong83/223582170933)
+
+---
+
 <TagLinks />

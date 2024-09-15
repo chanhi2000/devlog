@@ -196,6 +196,7 @@ head:
 - [`@opensauced` / The React useRef Hook: Not Just for DOM Elements](https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3)
 - [`@eunbinn` / \[번역\] DRY - 잘못된 추상화의 일반적인 원인](https://velog.io/@eunbinn/dry-the-common-source-of-bad-abstractions)
 - [`@juhee067` / \[React\] 함수형 컴포넌트에서 `ref` 사용에 대한 고민](https://velog.io/@juhee067/React-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C-ref-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC)
+- [`@juhee067` / Ref 잘못 사용한 내 코드 수정하기](https://velog.io/@juhee067/Ref-forwardRef)
 
 <!-- END: velog.io -->
 

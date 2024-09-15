@@ -173,7 +173,7 @@ This allows you to check if an interface value holds a specific type without cau
 When reading from a channel, you can use the Comma OK idiom to check if the channel has been closed.
 
 ```go
-value, ok := &lt;-ch
+value, ok := <-ch
 if !ok {
   fmt.Println("Channel is closed")
 } else {

@@ -20,7 +20,7 @@ head:
       content: How to Use Viewing Patterns in Your Website Designs
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-use-viewing-patterns-in-your-website-design.html
-prev: /academcis/system-design/articles/README.md
+prev: /academics/system-design/articles/README.md
 date: 2024-06-12
 isOriginal: false
 cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/pexels-ramilugot-5011944.jpg
@@ -32,7 +32,7 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/pexels-ra
 {
   "title": "System Design > Article(s)",
   "desc": "Article(s)",
-  "link": "/academcis/system-design/articles/README.md",
+  "link": "/academics/system-design/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

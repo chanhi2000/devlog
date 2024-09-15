@@ -2,7 +2,7 @@
 lang: ko-KR
 title: How to Handle File Uploads in NestJS with Multer
 description: Article(s) > How to Handle File Uploads in NestJS with Multer
-icon: fa-brands fa-js
+icon: iconfont icon-nestjs
 category: 
   - Node.js
   - Nest.js
@@ -24,7 +24,7 @@ head:
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-handle-file-uploads-in-nestjs-with-multer.html
 prev: /programming/js-nest/articles/README.md
-date: 2024-078-28
+date: 2024-07-28
 isOriginal: false
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724695369812/b0511a24-bbb6-4dae-9ccf-b511383b8f6a.png
 ---

@@ -256,6 +256,7 @@ head:
 - [색상의 유사도를 이용해 색상을 합치는 예시](https://m.blog.naver.com/tipsware/223575870588)
 - [최대, 최솟값 구하기 - Step 1](https://m.blog.naver.com/tipsware/223579038423)
 - [최대, 최솟값 구하기 - Step 2](https://m.blog.naver.com/tipsware/223580481462)
+- [창의 일부를 투명화시켜서 캡처하거나 감시하는 예제 만들기 - Step 1](https://m.blog.naver.com/tipsware/223582180812)
 
 <!-- END: tipsware.blog.naver.com -->
 

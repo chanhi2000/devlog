@@ -901,6 +901,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://udlbook.github.io/udlbook/favicon.ico"
   preview="https://udlbook.github.io/udlbook/assets/book_cover-B3FyEkB6.jpg"/>
 
+<SiteInfo
+  name="Vahe Aslanyan - Crafting Code, Shaping Futures"
+  desc="Dive into Vahe Aslanyan's digital world, where each endeavor offers new insights and every hurdle paves the way for growth."
+  url="https://vaheaslanyan.com/courses"
+  logo="https://cdn.prod.website-files.com/64f8c178a66a6e1a607ff9d0/65393072761c3d0a2f61740b_Vahe%20Aslanyan%20(256%20x%20256%20px)%20(1)%20(32%20x%2032%20px).png"
+  preview="https://i.imgur.com/Ntarl3h_d.webp?maxwidth=760&fidelity=grand"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

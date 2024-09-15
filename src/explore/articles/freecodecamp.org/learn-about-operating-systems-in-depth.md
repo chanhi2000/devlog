@@ -25,7 +25,7 @@ head:
       content: Learn About Operating Systems In-Depth
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/learn-about-operating-systems-in-depth.html
-prev: /academcis/coen/articles/README.md
+prev: /academics/coen/articles/README.md
 date: 2024-08-06
 isOriginal: false
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722268970680/81992f91-56da-4c4c-b4c0-3d08bd3f6402.png
@@ -37,7 +37,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722268970680/81992f9
 {
   "title": "Computer Engineering > Article(s)",
   "desc": "Article(s)",
-  "link": "/academcis/coen/articles/README.md",
+  "link": "/academics/coen/articles/README.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

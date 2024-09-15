@@ -308,6 +308,8 @@ tag:
 - [`@5sFx` / 03. 팀원은 팀장을 평가할 수 있어야 한다 - '제 점수는요'](https://brunch.co.kr/@@5sFx/121)
 - [`@2rV` / 곤도 마리에처럼 회고하기 - '설레지 않으면 버려라' - 팀의 의식과 무의식을 의식적으로 전환하는 방법](https://brunch.co.kr/@@2rV/179)
 - [`@2rV` / 기업의 제품 개발 문화에 대한 이해](https://brunch.co.kr/@@2rV/180)
+- [`@2weV` / 일잘러를 넘어 Impact를 내는 인재들의 특징](https://brunch.co.kr/@@2weV/550)
+- [`@2weV` / Resume/CV/Essay 작성법: '말' > '글'](https://brunch.co.kr/@@2weV/551)
 
 <!-- END: brunch.co.kr -->
 
@@ -630,6 +632,9 @@ tag:
 - [`sjquant` /  Seonu'ss](https://sjquant.tistory.com/m/)
   - [\[24년 주저리 #2\] 나만의 태양계 만들기](https://sjquant.tistory.com/m/101)
   <!-- END: sjquant -->
+- [`pronist` / hELLO.](https://pronist.tistory.com/m/)
+  - [당신은 성장하고 계신가요?](https://pronist.tistory.com/m/196)
+  <!-- END: pronist -->
 <!-- END: tistory.com -->
 
 ---
@@ -1428,6 +1433,7 @@ https://m.blog.naver.com/&logId=
 ## Zerohertz
 
 - [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
+- [전문연구요원: 전직](https://zerohertz.github.io/professional-research-agent-career-change/)
 
 ---
 

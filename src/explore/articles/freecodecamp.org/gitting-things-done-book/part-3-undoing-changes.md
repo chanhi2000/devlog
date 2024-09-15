@@ -86,7 +86,7 @@ Add this change to the index:
 
 Now, you can use `git commit` with the `--amend` switch, which tells it to override the commit `HEAD` is pointing to. Actually, it will create another, new commit, pointing to `HEAD~1` ("Commit 1" in our example), and make `HEAD` point to this newly created commit. By providing the `-m` argument you can specify a new commit message as well:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git commit <span class="token parameter variable">--amend <span class="token parameter variable">-m "Commit 2.4"
+<pre class="language-bash" tabindex="0"><code class="language-bash">git commit --amend -m "Commit 2.4"
 ```
 
 After running this command, `HEAD` points to `main`, which points to "Commit 2.4", which in turn points to "Commit 1". The previous "Commit 2.3" is no longer reachable from the history.
@@ -104,10 +104,10 @@ Add the following text to `love.txt`, stage and commit as follows:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">echo This is more tezt >> love.txt
 git add love.txt
-git commit <span class="token parameter variable">-m "Commit 3"
+git commit -m "Commit 3"
 ```
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/git_revert_1-1.png" alt="Committing &quot;More changes&quot;" width="1320" height="468" loading="lazy">
+<img src="https://freecodecamp.org/news/content/images/2023/12/git_revert_1-1.png" alt="Committing 'More changes'" width="1320" height="468" loading="lazy">
 *The state after committing "Commit 3"*
 
 And push it to the remote server:
@@ -138,7 +138,7 @@ You can now fix the typo and commit again:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">echo This is more text >> love.txt
 git add love.txt
-git commit <span class="token parameter variable">-m "Commit 3.1"
+git commit -m "Commit 3.1"
 ```
 
 <img src="https://freecodecamp.org/news/content/images/2023/12/git_revert_3.png" alt="Redoing the changes" width="1340" height="519" loading="lazy">
@@ -165,7 +165,7 @@ For that, you would usually <a class="post-section-overview" href="#heading-how-
 Then, I staged and committed:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git add code.py
-git commit <span class="token parameter variable">-m "Commit 17"
+git commit -m "Commit 17"
 ```
 
 I then decided to add a new function at the beginning of the file:
@@ -176,7 +176,7 @@ _Adding the function `another_feature`_
 Again, I staged and committed:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git add code.py
-git commit <span class="token parameter variable">-m "Commit 18"
+git commit -m "Commit 18"
 ```
 
 And now I realized I actually forgot to change the single quotes to double quotes wrapping the `__main__` (as you might have noticed), so I did that too:
@@ -187,12 +187,12 @@ And now I realized I actually forgot to change the single quotes to double quote
 Of course, I staged and committed this change:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash">git add code.py
-git commit <span class="token parameter variable">-m "Commit 19"
+git commit -m "Commit 19"
 ```
 
 Now, consider the history:
 
-<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_19-1.png" alt="The commit history after introducing &quot;Commit 19&quot;" width="1600" height="462" loading="lazy">
+<img src="https://freecodecamp.org/news/content/images/2023/12/history_after_commit_19-1.png" alt="The commit history after introducing 'Commit 19'" width="1600" height="462" loading="lazy">
 *The commit history after introducing "Commit 19"*
 
 As explained in <a class="post-section-overview" href="#heading-chapter-8-understanding-git-rebase">chapter 8</a>, I got to a state with two commits that are related to one another, "Commit 17" and "Commit 19" (turning `'`s into `"`s), but they are split by the unrelated "Commit 18" (where I added a new function).
@@ -206,7 +206,7 @@ Intuitively, I want to edit the history here:
 
 I can `rebase` the history from "Commit 17" to "Commit 19", on top of "Commit 15". To do that:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git rebase <span class="token parameter variable">--interactive <span class="token parameter variable">--onto <SHA_OF_COMMIT_1<span class="token file-descriptor important">5> <SHA_OF_COMMIT_1<span class="token file-descriptor important">5>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git rebase --interactive --onto <SHA_OF_COMMIT_1<span class="token file-descriptor important">5> <SHA_OF_COMMIT_1<span class="token file-descriptor important">5>
 ```
 
 <img src="https://freecodecamp.org/news/content/images/2023/12/rebase_onto_4-1.png" alt="Using  on a single branch" width="1023" height="391" loading="lazy">
@@ -240,14 +240,14 @@ Time to consider a more startling case.
 
 Go back to "Commit 2.4":
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git reset <span class="token parameter variable">--hard <SHA_OF_COMMIT_2_<span class="token file-descriptor important">4>
+<pre class="language-bash" tabindex="0"><code class="language-bash">git reset --hard <SHA_OF_COMMIT_2_<span class="token file-descriptor important">4>
 ```
 
 Get some work done, write some code, and add it to `love.txt`. Stage this change, and commit it:
 
 <pre class="language-bash" tabindex="0"><code class="language-bash"><span class="token builtin class-name">echo lots of work >> love.txt
 git add love.txt
-git commit <span class="token parameter variable">-m "Commit 3.2"
+git commit -m "Commit 3.2"
 ```
 
 (I'm using "Commit 3.2" to indicate that this is not the same commit as "Commit 3" we used when explaining `git revert`.)
@@ -438,7 +438,7 @@ This exercise actually consists of three branches: `exercise_04`, `exercise_04_a
 
 To see the history of these branches without others, use the following syntax:
 
-<pre class="language-bash" tabindex="0"><code class="language-bash">git lol <span class="token parameter variable">--branches="exercise_04*"
+<pre class="language-bash" tabindex="0"><code class="language-bash">git lol --branches="exercise_04*"
 ```
 
 The result is:
