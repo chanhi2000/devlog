@@ -196,6 +196,7 @@ head:
 - [`daangn` / 회원 시스템 MSA 전환 도전기: MAU 1,900만 당근 유저를 위한 선택](https://medium.com/daangn/%ED%9A%8C%EC%9B%90-%EC%8B%9C%EC%8A%A4%ED%85%9C-msa-%EC%A0%84%ED%99%98-%EB%8F%84%EC%A0%84%EA%B8%B0-mau-1-900%EB%A7%8C-%EB%8B%B9%EA%B7%BC-%EC%9C%A0%EC%A0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%83%9D-43993c582f69)
 - [`jhk0530` / 5년 전 만든 패키지를 다듬어 의학용 커스텀 플로우차트 만들기](https://jhk0530.medium.com/clinical-flowchart-shinycyjs-f9625b0f7ed8?source=rss-cb820693bed5------2)
 - [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
+- [`lyft` / Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
 
 <!-- END: medium.com -->
 
@@ -299,6 +300,8 @@ head:
 - [`@2fEJ` / \[UI/UX 원칙#9\]폼(Forms) 디자인 14가지](https://brunch.co.kr/@@2fEJ/1476)
 - [`@2fEJ` / \[UI/UX 원칙#10\] 랜딩 페이지의 10가지 팁](https://brunch.co.kr/@@2fEJ/1477)
 - [`@2hV3` / 실전에서 통하는 진짜 프로덕트 디자인? - 콜로소: 문제 해결 중심의 UX/UI 실전 가이드](https://brunch.co.kr/@@2hV3/246)
+- [`@2fEJ` / \[UX 원칙#11\]컬러 적용 16가지 사례](https://brunch.co.kr/@@2fEJ/1478)
+- [`@3L0s` / DX 실행: 유통방식의 디지털화 사례 - 디지털 혁신-20](https://brunch.co.kr/@@3L0s/124)
 
 <!-- END: brunch.co.kr -->
 

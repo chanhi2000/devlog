@@ -54,5 +54,12 @@
     "desc": "A self-paced course to learn Rust, one exercise at a time.",
     "officialSite": "",
     "topics": []
+  }, {
+    "repo": "phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "officialSite": "http://os.phil-opp.com",
+    "topics": ["kernel", "operating-system", "rust", "x86-64"],
+    "avatar": "https://avatars.githubusercontent.com/u/1131315?v=4",
+    "banner": ""
   }
 ]

@@ -85,6 +85,9 @@ head:
 - [`@morethanmin` / next.js 로컬 환경에서 https 개발 환경 만들기 (mkcert)](https://until.blog/@morethanmin/next-js-%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-https-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0--mkcert-)
 - [`@love` / Next.js에 mixpanel 연동하기](https://until.blog/@love/next-js%EC%97%90-mixpanel-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 - [`@dody` / \[nextjs error\] useSearchParams() should be wrapped in a suspense boundary at page ...](https://until.blog/@dody/-nextjs-error--usesearchparams---should-be-wrapped-in-a-suspense-boundary-at-page----)
+- [`@morethanmin` / next.js 에서 라우트로 관리되는 모달 구현하기 (route as modal)](https://until.blog/@morethanmin/next-js-%EC%97%90%EC%84%9C-%EB%9D%BC%EC%9A%B0%ED%8A%B8%EB%A1%9C-%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94-%EB%AA%A8%EB%8B%AC-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0--route-as-modal-)
+
+<!-- END: until.blog -->
 
 ---
 

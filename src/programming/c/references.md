@@ -524,4 +524,10 @@ tag:
 
 ---
 
+## Jens Gustedt's Blog
+
+- [Braiding the spaghetti: implementing defer in the preprocessor](https://gustedt.wordpress.com/2024/09/11/braiding-the-spaghetti-implementing-defer-in-the-preprocessor/)
+
+---
+
 <TagLinks />

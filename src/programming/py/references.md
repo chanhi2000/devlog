@@ -803,6 +803,7 @@ head:
   - [데이터 타입, 앱실론, 함수, 람다표현식](https://isn-t.tistory.com/m/61)
   - [배열](https://isn-t.tistory.com/m/62)
   - [스택(stack)](https://isn-t.tistory.com/m/63)
+  - [재귀(recursive)](https://isn-t.tistory.com/m/64)
   <!-- END: isn-t -->
 - [`potwings` / 블로그 이름 뭐하지??](https://potwings.tistory.com/m/)
   - [텍스트 전처리(1) - 토큰화, 정제, 정규화](https://potwings.tistory.com/m/67)
@@ -1038,6 +1039,7 @@ head:
 - [\[백준 28432\] 끝말잇기](https://davincicoding.tistory.com/m/163)
 - [\[백준 5676\] 음주 코딩](https://davincicoding.tistory.com/m/164)
 - [\[백준 20437\] 문자열 게임 2](https://davincicoding.tistory.com/m/165)
+- [\[백준 31962\] 등교](https://davincicoding.tistory.com/m/166)
 
 <!-- END: davincicoding.tistory.com -->
 
@@ -2277,6 +2279,7 @@ head:
 
 - [Py) 크롤링 BS(select)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-select/)
 - [Py) 크롤링 - BS(table-01)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-table-01/)
+- [Py) 크롤링 BS(find) - 01](https://datadoctorblog.com/2024/09/14/Py-Crawling-BS-find-01/)
 
 ---
 
@@ -2325,6 +2328,7 @@ head:
 ## Bytepawn - Marton Trencseni
 
 - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
+- [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
 
 ---
 

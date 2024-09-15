@@ -24,5 +24,12 @@
     "desc": "🧑‍💻 Your next documentation theme...",
     "officialSite": "",
     "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"]
+  }, {
+    "repo": "cssnano/cssnano",
+    "desc": "A modular minifier, built on top of the PostCSS ecosystem.",
+    "officialSite": "https://cssnano.github.io/cssnano/",
+    "topics": ["css", "cssnano", "minification", "optimisation", "postcss"],
+    "avatar": "https://avatars.githubusercontent.com/u/40150215?v=4",
+    "banner": ""
   }
 ]

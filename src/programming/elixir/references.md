@@ -63,6 +63,7 @@ tag:
 ## ohyecloudy's pnotes
 
 - [빈 리스트에 대한 all? 함수의 리턴 값은? - 공허참(vacuous truth)](http://ohyecloudy.com/pnotes/archives/vacuous-truth/)
+- [#TIL #elixirlang 자기 자신을 alias하는 것 같은 alias `__MODULE__` 컨벤션](http://ohyecloudy.com/ddiary/2024/09/14/til-elixir-alias-__module__/)
 
 ---
 

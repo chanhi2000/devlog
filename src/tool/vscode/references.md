@@ -206,4 +206,10 @@ tag:
 
 ---
 
+## Loris Cro
+
+- [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
+
+---
+
 <TagLinks />

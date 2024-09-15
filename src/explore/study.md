@@ -1101,6 +1101,13 @@ https://ui-patterns.com/patterns
 
 <PDF url="https://crimede-coder.com/images/DS_PythonCrimeAnalysis_EarlyRelease.pdf" />
 
+<SiteInfo
+  name="Plain Text Accounting (PTA)"
+  desc="Welcome! Plain text accounting is a way of doing bookkeeping and accounting with plain text files and scriptable, command-line-friendly software, such as Ledger, hledger, or Beancount. "
+  url="https://plaintextaccounting.org/"
+  logo="https://plaintextaccounting.org/images/favicon.png"
+  preview="https://plaintextaccounting.org/images/pta-avatar.jpg"/>
+
 :::
 
 ---

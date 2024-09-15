@@ -769,5 +769,12 @@
     "topics": ["anvil", "kotlin", "kotlin-inject", "kotlin-multiplatform", "ksp"],
     "avatar": "https://avatars.githubusercontent.com/u/1237372?v=4",
     "banner": ""
+  }, {
+    "repo": "qamarelsafadi/KMPAppIconGeneratorPlugin",
+    "desc": "KMPAppIconGeneratorPlugin is a plugin that helps you change your Android and iOS app icon from one line command.",
+    "officialSite": "",
+    "topics": ["android", "ios", "kmp", "kotlin", "plugin"],
+    "avatar": "https://avatars.githubusercontent.com/u/30949634?v=4",
+    "banner": ""
   }
 ]

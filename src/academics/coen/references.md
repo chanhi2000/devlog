@@ -88,10 +88,14 @@ head:
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [서킷 브레이커 (Circuit Breaker)](https://jinn-blog.tistory.com/m/203)
   - [QUIC 프로토콜](https://jinn-blog.tistory.com/m/204)
+  - [스레드 01. 프로세스와 스레드의 차이](https://jinn-blog.tistory.com/m/205)
   <!-- END: jinn-blog -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [아키텍처](https://ravenkim97.tistory.com/m/500)
   <!-- END: ravenkim97 -->
+- [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
+  - [\[Data Structure\] Trie](https://dev-ws.tistory.com/m/127)
+  <!-- END: dev-ws -->
 <!-- END: tistory.com  -->
 
 ---

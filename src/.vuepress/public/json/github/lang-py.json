@@ -340,9 +340,11 @@
     "officialSite": ""
   }, {
     "repo": "home-assistant/core",
-    "desc": "🏡 Open source home automation that puts local control and privacy first.",
-    "topics": ["python", "home-automation", "mqtt", "raspberry-pi", "iot", "internet-of-things", "asyncio", "hacktoberfest"],
-    "officialSite": "https://www.home-assistant.io"
+    "desc": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "officialSite": "https://www.home-assistant.io",
+    "topics": ["asyncio", "hacktoberfest", "home-automation", "internet-of-things", "iot", "mqtt", "python", "raspberry-pi"],
+    "avatar": "https://avatars.githubusercontent.com/u/13844975?v=4",
+    "banner": ""
   }, {
     "repo": "Stability-AI/stablediffusion",
     "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
@@ -1757,7 +1759,7 @@
     "desc": "A feature-rich command-line audio/video downloader",
     "officialSite": "https://discord.gg/H5MNcFW63r",
     "topics": ["python", "sponskrub", "sponsorblock", "video-downloader", "youtube-dl", "youtube-dlc", "youtube-downloader", "yt-dlp"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/79589310?v=4",
     "banner": ""
   }, {
     "repo": "jncraton/languagemodels",
@@ -1950,7 +1952,7 @@
     "desc": "aider is AI pair programming in your terminal",
     "officialSite": "https://aider.chat/",
     "topics": ["chatgpt", "claude-3", "cli", "command-line", "gpt-3", "gpt-35-turbo", "gpt-4", "gpt-4o", "openai", "opus"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/69695708?v=4",
     "banner": ""
   }, {
     "repo": "geekan/MetaGPT",
@@ -2488,7 +2490,7 @@
     "desc": "The first real AI developer",
     "officialSite": "",
     "topics": ["ai", "codegen", "coding-assistant", "developer-tools", "gpt-4", "research-project"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/123263103?v=4",
     "banner": ""
   }, {
     "repo": "spcl/graph-of-thoughts",
@@ -4423,8 +4425,8 @@
     "repo": "Avaiga/taipy",
     "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
     "officialSite": "https://www.taipy.io",
-    "topics": ["automation", "data-engineering", "data-ops", "data-visualization", "datascience", "developer-tools", "hacktoberfest", "hacktoberfest2023", "mlops", "orchestration", "pipeline", "pipelines", "python", "taipy-core", "taipy-gui", "workflow"],
-    "avatar": "",
+    "topics": ["automation", "data-engineering", "data-integration", "data-ops", "data-visualization", "datascience", "developer-tools", "hacktoberfest", "hacktoberfest2023", "job-scheduler", "mlops", "orchestration", "pipeline", "pipelines", "python", "scenario", "scenario-analysis", "taipy-core", "taipy-gui", "workflow"],
+    "avatar": "https://avatars.githubusercontent.com/u/86434771?v=4",
     "banner": ""
   }, {
     "repo": "LiheYoung/Depth-Anything",
@@ -7897,6 +7899,34 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/444071?v=4",
+    "banner": ""
+  }, {
+    "repo": "frdel/agent-zero",
+    "desc": "Agent Zero AI framework",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/38891707?v=4",
+    "banner": ""
+  }, {
+    "repo": "sissbruecker/linkding",
+    "desc": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+    "officialSite": "",
+    "topics": ["bookmark-manager", "bookmark-service", "bookmarks", "self-hosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/357820?v=4",
+    "banner": ""
+  }, {
+    "repo": "bklieger-groq/g1",
+    "desc": "g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/175069511?v=4",
+    "banner": ""
+  }, {
+    "repo": "ToTheBeginning/PuLID",
+    "desc": "Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/11482921?v=4",
     "banner": ""
   }
 ]

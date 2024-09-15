@@ -153,7 +153,12 @@ head:
   - [코딩테스트 준비 - 모의고사](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
   - [코딩테스트 준비 - Range Sum of BST](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-cuoatrjp)
   - [코딩테스트 준비 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-pcrxl4hj)
+  - [코딩테스트 준비 - 다음순열 _ Solve X](https://until.blog/@sin0105/%EB%8B%A4%EC%9D%8C-%EC%88%9C%EC%97%B4-%EB%B0%9C%ED%96%89)
+  - [코딩테스트 준비 - 소수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%86%8C%EC%88%98)
+  - [코딩테스트 준비 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-pcrxl4hj)
+  - [코딩테스트 준비 - Range Sum of BST](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-cuoatrjp)
   <!-- END: sin0105 -->
+
 <!-- END: until.blog -->
 
 ---
@@ -356,6 +361,9 @@ head:
 ## jacking75
 
 - [ASP.NET Core 기본 실습](https://jacking75.github.io/server/)
+- [C# - Unity 게임 엔진을 위한 오픈 소스 hot-reload 솔루션 HybridCLR](https://jacking75.github.io/NET_20240915/)
+
+<!-- END: jacking75.github.io -->
 
 ---
 

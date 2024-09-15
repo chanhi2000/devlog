@@ -262,7 +262,9 @@ head:
   - [벤치마크 데이터셋에 대해](https://soohey.tistory.com/m/86)
   - [실전 LLM chp1](https://soohey.tistory.com/m/87)
   <!-- END: soohey -->
-
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [\[Gen AI\] 생성형 모델들의 원리 비교: VAE, GAN, Flow-based, Diffusion](https://csj000714.tistory.com/m/1199)
+  <!-- END: csj000714 -->
 <!-- END: tistory.com -->
 
 ---
@@ -493,6 +495,12 @@ head:
 ## Chip Huyen
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+
+---
+
+## Codesolvent Blog
+
+- [Declarative Programming With AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
 
 ---
 

@@ -839,5 +839,12 @@
     "topics": ["mac", "secure-enclave", "security", "ssh"],
     "avatar": "https://avatars.githubusercontent.com/u/342665?v=4",
     "banner": ""
-  }
+  }, {
+    "repo": "hummingbird-project/hummingbird",
+    "desc": "Lightweight, flexible HTTP server framework written in Swift",
+    "officialSite": "",
+    "topics": ["http", "http-server", "server", "server-side-swift", "swift", "swift-nio", "web", "web-server"],
+    "avatar": "https://avatars.githubusercontent.com/u/77961464?v=4",
+    "banner": ""
+  }  
 ]

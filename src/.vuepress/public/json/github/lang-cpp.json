@@ -2308,5 +2308,12 @@
     "topics": ["c", "cmake", "galaxies", "gamedev", "linux", "meson", "physics", "raylib"],
     "avatar": "https://avatars.githubusercontent.com/u/6322199?v=4",
     "banner": ""
+  }, {
+    "repo": "openscad/openscad",
+    "desc": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+    "officialSite": "https://www.openscad.org",
+    "topics": ["3d", "3d-graphics", "3d-models", "3d-printing", "c-plus-plus", "c-plus-plus-17", "cad", "dxf-files", "linux", "macos", "opengl", "openscad", "qt5", "qt6", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/466370?v=4",
+    "banner": ""
   }
 ]

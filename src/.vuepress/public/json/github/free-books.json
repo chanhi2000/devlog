@@ -370,5 +370,12 @@
     "topics": ["emacs", "howm"],
     "avatar": "https://avatars.githubusercontent.com/u/58047526?v=4",
     "banner": ""
+  }, {
+    "repo": "0voice/expert_readed_books",
+    "desc": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+    "officialSite": "",
+    "topics": ["books", "nginx", "pdf", "redis", "software-architecture", "software-design"],
+    "avatar": "https://avatars.githubusercontent.com/u/43104160?v=4",
+    "banner": ""
   }
 ]

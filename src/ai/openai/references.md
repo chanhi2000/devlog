@@ -88,6 +88,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@euisuk-chung` / OpenAI GPT-4o 다음 버전 떴나!?](https://velog.io/@euisuk-chung/OpenAI-GPT-4o-%EB%8B%A4%EC%9D%8C-%EB%B2%84%EC%A0%84-%EB%96%B4%EB%82%98)
+
+<!-- END: velog -->
+
+---
+
 ## <FontIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@2170004487z` - 왜 ChatGPT로 영어를 배워야 하는가?](https://blex.me/@2170004487z/%EC%99%9C-chatgpt%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)

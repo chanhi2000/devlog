@@ -69,6 +69,7 @@ tag:
   <!-- END: aspdotnet -->
 - [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
   - [아무도 없어도 규칙을 지키는 사람](https://jojoldu.tistory.com/m/802)
+  - [결심은 단순하게](https://jojoldu.tistory.com/m/805)
   <!-- END: jojoldu -->
 <!-- END: tistory.com -->
 

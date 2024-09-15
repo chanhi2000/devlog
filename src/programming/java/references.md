@@ -159,6 +159,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 37일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-37%EC%9D%BC%EC%B0%A8-DP)
 - [`@dongha1992` / 99클럽 코테 스터디 38일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-38%EC%9D%BC%EC%B0%A8-DP)
 - [`@dongha1992` / 99클럽 코테 스터디 39일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-39%EC%9D%BC%EC%B0%A8-DP)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 3. 리스코프 치환 원칙(Liskov Substitution Principle)](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-3.-%EB%A6%AC%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B9%98%ED%99%98-%EC%9B%90%EC%B9%99Liskov-Substitution-Principle)
 
 <!-- END: velog.io java -->
 
@@ -597,6 +598,7 @@ tag:
 - [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
 - [# 18_Transaction_거래를_시작하지](https://hj0216.tistory.com/m/927)
 - [\[1년 후 마실가실\] Custom Exception](https://hj0216.tistory.com/m/934)
+- [\[해결 방법\] Argument(s) are different!](https://hj0216.tistory.com/m/946)
 
 ### Lifealong
 
@@ -847,6 +849,10 @@ tag:
 ### devkuma
 
 - [Kotest 자원 (Resources)](https://devkuma.com/docs/kotest/framework/resources/)
+- [Kotlin 배열(Array)에서 최소값, 최대값 찾기](https://devkuma.com/docs/kotlin/array-get-min-max/)
+- [Kotlin 배열(Array) 선언, 초기화, 주요 함수](https://devkuma.com/docs/kotlin/array/)
+- [Kotlin 목록(List) 선언, 초기화](https://devkuma.com/docs/kotlin/list/)
+- [Kotlin 목록, 배열 길이 구하기](https://devkuma.com/docs/kotlin/list-array-length/)
 
 ### simple is best
 
@@ -1062,6 +1068,10 @@ tag:
 ### 하고 싶은 것을 즐겁게
 
 - [상속은 아무나 받을 수 없다](https://katfun.blog/posts/%EC%83%81%EC%86%8D%EC%9D%80-%EC%95%84%EB%AC%B4%EB%82%98-%EB%B0%9B%EC%9D%84-%EC%88%98-%EC%97%86%EB%8B%A4/)
+
+### Software Development Company | Bright Inventions
+
+- [Preserving Unobfuscated Class Names in SLF4J Logs](https://brightinventions.pl/blog/preserving-unobfuscated-class-names-in-slf4j-logs/)
 
 ---
 

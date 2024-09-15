@@ -607,5 +607,26 @@
     "topics": ["baselines", "generators", "kotlin", "warning"],
     "avatar": "https://avatars.githubusercontent.com/u/7951665?v=4",
     "banner": ""
+  }, {
+    "repo": "amzn/kotlin-inject-anvil",
+    "desc": "Extensions for the kotlin-inject dependency injection framework",
+    "officialSite": "",
+    "topics": ["dependency-injection", "kotlin", "kotlin-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/8594673?v=4",
+    "banner": ""
+  }, {
+    "repo": "kevincianfarini/cardiologist",
+    "desc": "Build job schedules with kotlinx-datetime and kotlinx-coroutines",
+    "officialSite": "https://kevincianfarini.github.io/cardiologist/docs/0.x/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/13242326?v=4",
+    "banner": ""
+  }, {
+    "repo": "ArjunJadeja/Something",
+    "desc": "what you should avoid in kotlin",
+    "officialSite": "",
+    "topics": ["best-practices", "exception-handling", "exceptions", "kotlin", "mistakes", "null-safety", "type-safety"],
+    "avatar": "https://avatars.githubusercontent.com/u/81246797?v=4",
+    "banner": ""
   }
 ]

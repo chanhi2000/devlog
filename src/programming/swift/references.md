@@ -118,6 +118,7 @@ tag:
 - [`@jwlee010523` / Swift - 자동 클로저(Auto Closure)](https://velog.io/@jwlee010523/Swift-Auto-Closure)
 - [`@kirri1124` / SwiftUI PreferenceKey](https://velog.io/@kirri1124/SwiftUI-PreferenceKey)
 - [`@jwlee010523` / 클로저에서 캡처란 무엇일까?](https://velog.io/@jwlee010523/Closure-Capture)
+- [`@jwlee010523` / Swift에서 시간을 효율적으로 다루는 방법](https://velog.io/@jwlee010523/swift-time-formatting)
 
 <!-- END: velog.io -->
 
@@ -269,6 +270,7 @@ tag:
 
 - [Introducing ObservableConverter](https://lickability.com/blog/introducing-observableconverter)
 - [Plussing your iOS app](https://lickability.com/blog/plussing-your-ios-app)
+- [Morphology in Swift](https://lickability.com/blog/morphology-in-swift/)
 
 ---
 
@@ -569,8 +571,9 @@ tag:
 
 ## Emerge Tools
 
-- [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
-- [Async await in Swift: The Full Toolkit](https://www.emergetools.com/blog/posts/swift-async-await-the-full-toolkit)
+- [Make Your iOS App Smaller with Dynamic Frameworks](https://emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
+- [Async await in Swift: The Full Toolkit](https://emergetools.com/blog/posts/swift-async-await-the-full-toolkit)
+- [The Memory Leak: An Xcode Detective Story](https://emergetools.com/blog/posts/the-memory-leak-an-xcode-detective-story)
 
 ---
 

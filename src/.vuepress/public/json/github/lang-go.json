@@ -2596,5 +2596,12 @@
     "topics": ["ebpf", "go", "golang"],
     "avatar": "https://avatars.githubusercontent.com/u/41987730?v=4",
     "banner": ""
+  }, {
+    "repo": "satmihir/fair",
+    "desc": "A Go library for serving resources fairly",
+    "officialSite": "",
+    "topics": ["distributed-systems", "fairness", "go-library", "throttling"],
+    "avatar": "https://avatars.githubusercontent.com/u/13845072?v=4",
+    "banner": ""
   }
 ]

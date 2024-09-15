@@ -346,6 +346,7 @@ tag:
 - [`gron` 명령어](https://johngrib.github.io/wiki/cmd/gron/)
 - [`jq`](https://johngrib.github.io/wiki/cmd/jq/)
 - [`tail` 명령어](https://johngrib.github.io/wiki/cmd/tail/)
+- [`tr` 명령어](https://johngrib.github.io/wiki/cmd/tr/)
 
 <!-- END: johngrib.github.io -->
 
@@ -464,6 +465,7 @@ tag:
 ## rein's world
 
 - [TIL: qpdf로 pdf 파일에 걸린 암호 해제하기](https://rein.kr/posts/2024-08-18-til-qpdf-decrypt/)
+- [TIL: OpenSSL로 SAN 확인하기](https://rein.kr/posts/2024-09-14-check-san-openssl/)
 
 ---
 

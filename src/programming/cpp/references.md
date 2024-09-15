@@ -257,6 +257,9 @@ head:
 - [최대, 최솟값 구하기 - Step 1](https://m.blog.naver.com/tipsware/223579038423)
 - [최대, 최솟값 구하기 - Step 2](https://m.blog.naver.com/tipsware/223580481462)
 - [창의 일부를 투명화시켜서 캡처하거나 감시하는 예제 만들기 - Step 1](https://m.blog.naver.com/tipsware/223582180812)
+- [R2_XORPEN으로 위치 표시하기 - Step 1](https://m.blog.naver.com/tipsware/223583370099)
+- [\[Q&A\] 색상 값을 일정 크기만큼 줄이는 코드에 대해서](https://m.blog.naver.com/tipsware/223583846518)
+- [\[Q&A\] 문자열 패턴에 사용된 조건문 줄이기](https://m.blog.naver.com/tipsware/223584216503)
 
 <!-- END: tipsware.blog.naver.com -->
 

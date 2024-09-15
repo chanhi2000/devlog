@@ -259,6 +259,7 @@ head:
   - [\[1년 후 마실가실\] 패키지 구조](https://hj0216.tistory.com/m/942)
   - [\[해결 방법\] `NoUniqueBeanDefinitionException`](https://hj0216.tistory.com/m/943)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - SonarQube](https://hj0216.tistory.com/m/944)
+  - [\[1년 후 마실가실\] JWT와 로그아웃(2) `RefreshToken`](https://hj0216.tistory.com/m/945)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -335,6 +336,9 @@ head:
   - [03.01. 프로젝트 세팅 - 1](https://ysedeveloper.tistory.com/m/entry/0301-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-1)
   - [03.02. 프로젝트 세팅 - 2](https://ysedeveloper.tistory.com/m/entry/0302-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-2)
   - [03.03. 프로젝트 세팅 - 3](https://ysedeveloper.tistory.com/m/entry/0303-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-3)
+  - [04.01. 책 입력 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0401-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [04.02. 책 입력 화면 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0402-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
+  - [05.01. 데이터베이스 준비하기 - 1](https://ysedeveloper.tistory.com/m/entry/0501-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -345,6 +349,9 @@ head:
   - [객체지향 쿼리 심화](https://maeng-dev.tistory.com/m/176)
   - [스프링 데이터 JPA](https://maeng-dev.tistory.com/m/177)
   - [웹 애플리케이션과 영속성 관리](https://maeng-dev.tistory.com/m/178)
+  - [컬렉션과 부가 기능](https://maeng-dev.tistory.com/m/179)
+  - [JPA 표준 예외와 트랜잭션 롤백](https://maeng-dev.tistory.com/m/180)
+  - [N+1 문제](https://maeng-dev.tistory.com/m/181)
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
@@ -366,6 +373,7 @@ head:
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter02\] - VO,DTO, DAO, SO](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter02-VODTO-DAO-SO)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter03\] - 덕 타이핑,인터페이스,행동과역할,메서드와함수](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter03-%EB%8D%95-%ED%83%80%EC%9D%B4%ED%95%91%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%96%89%EB%8F%99%EA%B3%BC%EC%97%AD%ED%95%A0%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80%ED%95%A8%EC%88%98)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter04\] : SOLID, 의존성, SOLID & 객체지향, 디자인 패턴](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter04-SOLID-%EC%9D%98%EC%A1%B4%EC%84%B1-SOLID-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter05\] : 순환참조, 순환참조 문제, 순환참조 해결법](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter05-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EB%AC%B8%EC%A0%9C-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%ED%95%B4%EA%B2%B0%EB%B2%95)
   <!-- END: jakpentest -->
 - [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
   - [\[Spring Scheduler\] 서버 이중화 또는 증설 시 `ShedLock`을 사용하여 스케쥴러 중복 실행 방지하기](https://colabear754.tistory.com/m/222)
@@ -720,6 +728,7 @@ head:
 ### Codersee | Kotlin, Ktor, Spring
 
 - [Sending Spring Boot Metrics to Datadog](https://codersee.com/sending-spring-boot-metrics-datadog/)
+- [Spring Boot with AWS S3, S3Client and Kotlin](https://codersee.com/spring-boot-aws-s3-s3client-kotlin/)
 
 ---
 

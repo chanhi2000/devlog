@@ -349,5 +349,12 @@
     "topics": ["attendize-alternative", "event-management", "event-registration", "event-ticketing", "eventbrite-alternative", "events", "laravel", "open-source", "react", "self-hosted", "sell-tickets", "sell-tickets-online", "ticket-selling", "ticketing-system", "tickettailor-alternative", "tito-alternative"],
     "avatar": "https://avatars.githubusercontent.com/u/148843671?v=4",
     "banner": ""
+  }, {
+    "repo": "krayin/laravel-crm",
+    "desc": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+    "officialSite": "https://krayincrm.com",
+    "topics": ["crm", "crm-platform", "laravel", "laravel-application", "laravel-crm", "laravel-framework", "laravel-package", "opensource", "opensource-crm", "opensource-crm-framework", "php", "vue", "vuejs"],
+    "avatar": "https://avatars.githubusercontent.com/u/86250863?v=4",
+    "banner": ""
   }
 ]

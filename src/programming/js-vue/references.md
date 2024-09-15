@@ -105,9 +105,18 @@ head:
 
 ---
 
-## 우니의 블로그
+## tistory
 
-- [[vue.js] LIST 와 페이징 PAGING 이전, 다음 버튼](https://aspdotnet.tistory.com/3137)
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [[vue.js] LIST 와 페이징 PAGING 이전, 다음 버튼](https://aspdotnet.tistory.com/m/3137)
+  <!-- END: aspdotnet -->
+- [`rutgo-letsgo` / Enthusiastically, Steady, Slowly](https://rutgo-letsgo.tistory.com/m/)
+  - [Make Your Components Easier to Think About (컴포넌트에 대해 더 쉽게 생각하기)](https://rutgo-letsgo.tistory.com/m/entry/Make-Your-Components-Easier-to-Think-About-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0)
+  <!-- END: rutgo-letsgo -->
+- [`devtimothy` / 공부하는 블로그](https://devtimothy.tistory.com/m/)
+  - [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](https://devtimothy.tistory.com/m/91)
+  <!-- END: devtimothy -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -138,12 +147,6 @@ head:
 ## CTRL+Z - a blog about Django
 
 - [Add Vue to your Django templates with Vite](https://ctrlzblog.com/add-vue-to-your-django-templates-with-vite)
-
----
-
-## 공부하는 블로그
-
-- [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](https://devtimothy.tistory.com/m/91)
 
 ---
 

@@ -148,12 +148,6 @@ tag:
 
 ---
 
-## just_HS
-
-- [GitHub Autolink 를 알아보자](https://jusths.tistory.com/396)
-
----
-
 ## Outsider's Dev Story
 
 - [GitHub 저장소의 메타데이터를 관리할 수 있는 Custom Properties](https://blog.outsider.ne.kr/1718)
@@ -179,13 +173,6 @@ tag:
 
 ---
 
-## yan
-
-- [\[Infra\] NestJS & Github Action 빌드 개선하기 (1 : CI build - `ci.yml` 개선)](https://iio-nff.tistory.com/4)
-- [\[Infra\] NestJS & Github Action 빌드 개선하기 (2 : CD build - cd.yml 파일 개선)](https://iio-nff.tistory.com/5)
-
----
-
 ## dhruv-ahuja
 
 - [Tag-Based Python CI/CD Pipeline.](https://dhruv-ahuja.github.io/posts/tag-based-ci-cd-pipeline/)
@@ -198,9 +185,39 @@ tag:
 
 ---
 
-## iOYES
+## tistory
 
-- [GitHub - Auto Assign 사용하기](https://green1229.tistory.com/477)
+- [`iio-nff` / yan](https://iio-nff.tistory.com/m/)
+  - [\[Infra\] NestJS & Github Action 빌드 개선하기 (1 : CI build - `ci.yml` 개선)](https://iio-nff.tistory.com/m/4)
+  - [\[Infra\] NestJS & Github Action 빌드 개선하기 (2 : CD build - cd.yml 파일 개선)](https://iio-nff.tistory.com/m/5)
+  <!-- END: iio-nff -->
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [GitHub Autolink 를 알아보자](https://jusths.tistory.com/m/396)
+  <!-- END: jusths -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [간단한 JSON Filter 서비스 배포하기 (3) - Github Release](https://bbogle2.tistory.com/m/entry/%EA%B0%84%EB%8B%A8%ED%95%9C-JSON-Filter-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-3-Github-Release)
+  <!-- END: bbogle2 -->
+- [`green1229` / iOYES](https://green1229.tistory.com/m/)
+  - [GitHub - Auto Assign 사용하기](https://green1229.tistory.com/m/477)
+  <!-- END: green1229 -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을..검색하기 ](https://jakpentest.tistory.com/m/)
+  - [Obsidian + Github + Github action을 활용한 티스토리 업로드 자동화](https://jakpentest.tistory.com/m/entry/Obsidian-Github-Github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9E%90%EB%8F%99%ED%99%94)
+  - [Private Repository의 Permanent URL에 접근할 경우](https://jakpentest.tistory.com/m/entry/Private-Repository%EC%9D%98-Permanent-URL%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%A0-%EA%B2%BD%EC%9A%B0)
+  <!-- END: jakpentest -->
+- [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)
+  <!-- END: lazymatlab -->
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [\[내일배움캠프 44일차 TIL\] 아웃소싱 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-44%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
+  - [\[내일배움캠프 45일차 TIL\] 아웃소싱 프로젝트 환경설정 및 Github 피드백](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-45%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%EB%B0%8F-Github-%ED%94%BC%EB%93%9C%EB%B0%B1)
+  <!-- END: moonnight0 -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [깃랩에서 깃허브로](https://ravenkim97.tistory.com/m/462)
+  <!-- END: ravenkim97 -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -219,31 +236,6 @@ tag:
 ## Aliencube
 
 - [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
-
----
-
-## 게으른맽랩 lazy matlab
-
-- [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)
-
----
-
-## 컴공생의 발자취
-
-- [\[내일배움캠프 44일차 TIL\] 아웃소싱 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-44%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
-- [\[내일배움캠프 45일차 TIL\] 아웃소싱 프로젝트 환경설정 및 Github 피드백](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-45%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%EB%B0%8F-Github-%ED%94%BC%EB%93%9C%EB%B0%B1)
-
----
-
-## Life Log
-
-- [깃랩에서 깃허브로](https://ravenkim97.tistory.com/m/462)
-
----
-
-## 재우니의 블로그
-
-- [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
 
 ---
 
@@ -268,12 +260,6 @@ tag:
 ## Stefanie Molin
 
 - [Tips for Navigating an Issue Tracker on GitHub](https://stefaniemolin.com/articles/open-source/navigating-an-issue-tracker/)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [간단한 JSON Filter 서비스 배포하기 (3) - Github Release](https://bbogle2.tistory.com/m/entry/%EA%B0%84%EB%8B%A8%ED%95%9C-JSON-Filter-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-3-Github-Release)
 
 ---
 

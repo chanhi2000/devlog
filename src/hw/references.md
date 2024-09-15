@@ -81,6 +81,7 @@ head:
 - [`@dynomight` / The midwit home](https://dynomight.substack.com/p/midwit-home)
 - [`@thechipletter` / SPUR - RISC IV: The LISP Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 - [`abortretry` / Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
+- [`atomic14` / This really sucks.. in a good way](https://atomic14.substack.com/p/this-really-sucks-in-a-good-way)
 
 <!-- END: substack.com -->
 
@@ -137,6 +138,10 @@ head:
 - [STM32G4-LIN 프로젝트 링크](https://m.blog.naver.com/chandong83/223576120871)
 - [STM32H7S7 - XSPI 2개 동시 사용 시 CS(ChipSelect) 동작 안 하는 문제](https://m.blog.naver.com/chandong83/223578323322)
 - [nRF52840 Dongle에 JLink를 통해 UF2 최신 펌웨어 올리기](https://m.blog.naver.com/chandong83/223581667848)
+- [STM32G4-AUTO V1.1 보드 도착!](https://m.blog.naver.com/chandong83/223583018151)
+- [Lin 통신에서도 Master/Slave 대신 Commander/Responder 로 사용해 보기](https://m.blog.naver.com/chandong83/223584432192)
+- [오늘 제작 들어간 보드들!](https://m.blog.naver.com/chandong83/223584443190)
+- [소형 로봇에 적용할 보드들](https://m.blog.naver.com/chandong83/223584451791)
 
 <!-- END: chandong83 -->
 
@@ -524,6 +529,14 @@ head:
 ## 자바실험실
 
 - [Javalab MBL 프레임](https://javalab.org/javalab_mbl_frame/)
+
+---
+
+## 슭의 개발 블로그
+
+- [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
+
+<!-- END: seulgi.kim  -->
 
 ---
 

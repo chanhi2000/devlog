@@ -50,21 +50,24 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/06/Applied-D
 <!-- TODO: 작성 -->
 
 <!-- 
-### -7-analyzing-the-resultsheading-analyzing-the-results"><a class="post-section-overview" href="#heading-analyzing-the-results">7. Analyzing The Results</a>
 
-- <a class="post-section-overview" href="#heading-customer-segmentation-1">**7.1** Customer Segmentation</a>
-<li><a class="post-section-overview" href="#heading-customer-loyalty">**7.2** Customer Loyalty, Shipping, and Geographic Advantage</a>
-<li><a class="post-section-overview" href="#heading-identifying-and-nurturing-top-spenders">**7.3** Identifying Key Contributors</a>
-<li><a class="post-section-overview" href="#heading-geographical-analysis">**7.4** Shipping Analysis</a>
-<li><a class="post-section-overview" href="#heading-product-category-analysis">**7.5** Product Category Analysis</a>
-<li><a class="post-section-overview" href="#heading-sales-analysis">**7.6** Sales Analysis</a>
-<li><a class="post-section-overview" href="#heading-total-sales-by-us-state">**7.7** Geographical Mapping</a>
+---
 
-### -8-conclusion-and-future-stepsheading-conclusion"><a class="post-section-overview" href="#heading-conclusion">8. Conclusion and Future Steps</a>
+## 7. Analyzing The Results
 
-- <a class="post-section-overview" href="#heading-empowering-data-driven-decision-making">**8.1** **Summary** of key insights and their implications for business strategy.</a>
-<li><a class="post-section-overview" href="#heading-optimizing-sales-and-marketing-strategies">**8.2** **Discussion** on the next steps for implementing the findings from the data analysis.</a>
-<li><a class="post-section-overview" href="#heading-product-analysis-for-strategic-growth">**8.3** **Closing remarks** and an invitation for feedback and further interaction.</a>
+- <ahref="#heading-customer-segmentation-1">**7.1** Customer Segmentation</a>
+<li><ahref="#heading-customer-loyalty">**7.2** Customer Loyalty, Shipping, and Geographic Advantage</a>
+<li><ahref="#heading-identifying-and-nurturing-top-spenders">**7.3** Identifying Key Contributors</a>
+<li><ahref="#heading-geographical-analysis">**7.4** Shipping Analysis</a>
+<li><ahref="#heading-product-category-analysis">**7.5** Product Category Analysis</a>
+<li><ahref="#heading-sales-analysis">**7.6** Sales Analysis</a>
+<li><ahref="#heading-total-sales-by-us-state">**7.7** Geographical Mapping</a>
+
+### -8-conclusion-and-future-stepsheading-conclusion"><ahref="#heading-conclusion">8. Conclusion and Future Steps</a>
+
+- <ahref="#heading-empowering-data-driven-decision-making">**8.1** **Summary** of key insights and their implications for business strategy.</a>
+<li><ahref="#heading-optimizing-sales-and-marketing-strategies">**8.2** **Discussion** on the next steps for implementing the findings from the data analysis.</a>
+<li><ahref="#heading-product-analysis-for-strategic-growth">**8.3** **Closing remarks** and an invitation for feedback and further interaction.</a>
 
 ---
 

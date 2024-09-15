@@ -66,6 +66,7 @@ head:
   <!-- END: ravenkim97 -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] JWT 공부](https://hj0216.tistory.com/m/935)
+  - [\[1년 후 마실가실\] JWT와 로그아웃(2) `RefreshToken`](https://hj0216.tistory.com/m/945)
   <!-- END: hj0216 -->
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [JWT 완벽 가이드](https://jinn-blog.tistory.com/m/187)

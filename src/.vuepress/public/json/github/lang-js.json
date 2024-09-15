@@ -3546,5 +3546,12 @@
     "topics": ["express", "javascript", "nodejs", "server"],
     "avatar": "https://avatars.githubusercontent.com/u/5658226?v=4",
     "banner": ""
+  }, {
+    "repo": "4ian/GDevelop",
+    "desc": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+    "officialSite": "https://gdevelop.io",
+    "topics": ["2d-game", "2d-game-engine", "3d", "3d-game", "3d-game-engine", "c-plus-plus", "game", "game-2d", "game-3d", "game-development", "game-engine", "gamedev", "gamemaker", "gdevelop", "hacktoberfest", "html5", "html5-game-engine", "javascript", "multiplayer", "open-source"],
+    "avatar": "https://avatars.githubusercontent.com/u/1280130?v=4",
+    "banner": ""
   }
 ]

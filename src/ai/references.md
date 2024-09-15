@@ -115,15 +115,20 @@ head:
 
 ---
 
-## Be an Overachiever
+## tistory 
 
-- [ROC Curve](https://devs0n.tistory.com/m/170)
-- [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/m/176)
-- [CNN Filter Visualization](https://devs0n.tistory.com/m/181)
-- [\[논문 구현\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/191)
-- [\[논문 리뷰\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/190)
-- [Various Normalizations on CNN](https://devs0n.tistory.com/m/193)
-
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [ROC Curve](https://devs0n.tistory.com/m/170)
+  - [CNN에서 layer가 깊어질 수록 channel size를 키우는 이유](https://devs0n.tistory.com/m/176)
+  - [CNN Filter Visualization](https://devs0n.tistory.com/m/181)
+  - [\[논문 구현\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/191)
+  - [\[논문 리뷰\] Auto-Encoding Variational Bayes (Varitional Auto Encoder)](https://devs0n.tistory.com/m/190)
+  - [Various Normalizations on CNN](https://devs0n.tistory.com/m/193)
+  <!-- END: devs0n -->
+- [`revf` / RevFactory 프로젝트 - 세상을 더 이롭게 바꾸는 작업](https://revf.tistory.com/m/)
+  - [차원이 다른 AI 번역: 더 똑똑해진 한글 자막 생성기를 소개합니다](https://revf.tistory.com/m/305)
+  <!-- END: revf -->
+  
 ---
 
 ## Assembled | Modern Workforce Management
@@ -344,6 +349,7 @@ head:
 ## 최윤섭의 디지털 헬스케어
 
 - [미국의 의료 인공지능은 보험 급여를 얼마나 받고 있나](https://yoonsupchoi.com/2024/08/16/us-ai-cpt/)
+- [왜 훌륭한 의료 인공지능 ‘연구’가 임상적/사업적으로 성공하지 못하는가](https://yoonsupchoi.com/2024/09/15/all-models-are-wrong/)
 
 ---
 

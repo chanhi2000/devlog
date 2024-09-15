@@ -310,6 +310,12 @@ tag:
 - [`@2rV` / 기업의 제품 개발 문화에 대한 이해](https://brunch.co.kr/@@2rV/180)
 - [`@2weV` / 일잘러를 넘어 Impact를 내는 인재들의 특징](https://brunch.co.kr/@@2weV/550)
 - [`@2weV` / Resume/CV/Essay 작성법: '말' > '글'](https://brunch.co.kr/@@2weV/551)
+- [`@2weV` / 결국 합격을 이뤄내는 사람들의 특징](https://brunch.co.kr/@@2weV/552)
+- [`@24SO` / 미뤄두었던 것들의 학습](https://brunch.co.kr/@@24SO/47)
+- [`@ZVA` / 커뮤니티와 수익의 갈림길...심판대 선 레딧의 미래](https://brunch.co.kr/@@ZVA/726)
+- [`@3L0s` / 전방위(360도) 기업혁신, 저서 재발간](https://brunch.co.kr/@@3L0s/123)
+- [`@2weV` / Why 실리콘밸리 챌린지?!](https://brunch.co.kr/@@2weV/553)
+- [`@2weV` / 커리어에서 영어는 Multiple을 결정한다](https://brunch.co.kr/@@2weV/554)
 
 <!-- END: brunch.co.kr -->
 
