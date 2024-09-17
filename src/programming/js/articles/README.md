@@ -349,6 +349,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection",
+  "desc": "When you interact with web pages, a common task you’ll perform often is selecting text. Whether it's highlighting a section of a paragraph to copy, marking important parts of a document, or working with interactive features like note-taking or text e...",
+  "link": "/explore/articles/freecodecamp.org/use-the-javascript-selection-api-to-build-a-rich-text-editor.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "JavaScript Timer – How to Set a Timer Function in JS",
+  "desc": "In Javascript, the timer function prevents your code from running everything at once when an event triggers or the page loads. This gives you more control over the timing of your program's actions and can enhance the user experience by creating smoot...",
+  "link": "/explore/articles/freecodecamp.org/javascript-timer-how-to-set-a-timer-function-in-js.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

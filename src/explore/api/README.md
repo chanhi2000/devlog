@@ -147,6 +147,13 @@ logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e3
   logo="https://swiftpackageindex.com/images/logo-tiny.png"
   preview="https://swiftpackageindex.com/images/logo.png"/>
 
+<SiteInfo
+  name="OpenTofu Registry"
+  desc="A fast and easy-to-use UI for quickly browsing and viewing OpenTofu modules and providers."
+  url="https://search.opentofu.org/"
+  logo="https://search.opentofu.org/favicon.ico"
+  preview="https://search.opentofu.org/open-graph.png"/>
+
 <!-- END:  Package Manager -->
 
 @tab Programming Tools - General

@@ -267,6 +267,10 @@ tag:
 
 - [\[CI/CD\](EN) Usage and example of github actions matrix](https://twpower.github.io/354-usage-and-example-of-github-actions-matrix-en)
 - [\[CI/CD\] Github Actions Matrix 사용법과 예제](https://twpower.github.io/355-usage-and-example-of-github-actions-matrix)
+- [\[CI/CD\](EN) Setting default value when not using workflow_dispatch and workflow_call](https://twpower.github.io/356-setting-default-value-when-not-using-workflow-dispatch-and-workflow-call-en)
+- [\[CI/CD\] workflow_dispatch와 workflow_call을 사용하지 않을 때 기본값 설정하기](https://twpower.github.io/357-setting-default-value-when-not-using-workflow-dispatch-and-workflow-call)
+
+<!-- END: twpower.github.io -->
 
 ---
 

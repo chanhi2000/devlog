@@ -1313,6 +1313,7 @@ tag:
 ## Platformatic Blog
 
 - [A guide to reading and writing Node.js streams](https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams)
+- [An SSR Performance Showdown](https://blog.platformatic.dev/ssr-performance-showdown)
 
 ---
 

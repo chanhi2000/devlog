@@ -264,7 +264,29 @@ head:
   <!-- END: soohey -->
 - [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
   - [\[Gen AI\] 생성형 모델들의 원리 비교: VAE, GAN, Flow-based, Diffusion](https://csj000714.tistory.com/m/1199)
+  - [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
+  - [\[논문리뷰\] LiDAR2Map: LiDAR-based distillation scheme - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023)](https://csj000714.tistory.com/m/1156)
   <!-- END: csj000714 -->
+- [`americanopeople` / 복세편살](https://americanopeople.tistory.com/m/)
+  - [NotebookLM: AI 시대에 원서 개발 서적 읽기](https://americanopeople.tistory.com/m/462)
+  <!-- END: americanopeople -->
+- [`lsjsj92` / 꿈 많은 사람의 이야기](https://lsjsj92.tistory.com/m/)
+  - [vLLM 사용법 - LLM을 쉽고 빠르게 추론(inference) 및 API 서빙(serving)하기](https://lsjsj92.tistory.com/m/668)
+  - [개인화를 고려한 LLM 모델 기반 추천 시스템 - PALR 추천 시스템 논문 리뷰](https://lsjsj92.tistory.com/m/669)
+  - [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/m/670)
+  <!-- END: lsjsj92 -->
+- [`bahnsville` / nthought](http://bahnsville.tistory.com/m/)
+  - [모델 성능이 안 나올 때](http://bahnsville.tistory.com/m/1264)
+  <!-- END: bahnsville -->
+- [`mobicon` / AI Convergence](http://mobicon.tistory.com/m/)
+  - [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
+  - [\[LCC-1\] LangChain Concept - Components & RAG](http://mobicon.tistory.com/m/607)
+  - [\[LCC-5\] LangChain VectorStore 이해](https://mobicon.tistory.com/m/614)
+  <!-- END: mobicon -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎](https://pearlluck.tistory.com/m/)
+  - [Triton Inference Server 모델서빙1 - NVIDA Triton(트리톤)이란?](https://pearlluck.tistory.com/m/821)
+  - [Embedding을 저장하는 VectorDB 그리고 벡터 유사도 검색 Indexing](https://pearlluck.tistory.com/m/824)
+  <!-- END: pearlluck -->
 <!-- END: tistory.com -->
 
 ---
@@ -281,14 +303,6 @@ head:
 ## 정우일 블로그
 
 - [GGUF 파일로 로컬에서 LLM 실행하기](https://wooiljeong.github.io/ml/gguf-llm/)
-
----
-
-## 꿈 많은 사람의 이야기
-
-- [vLLM 사용법 - LLM을 쉽고 빠르게 추론(inference) 및 API 서빙(serving)하기](https://lsjsj92.tistory.com/668)
-- [개인화를 고려한 LLM 모델 기반 추천 시스템 - PALR 추천 시스템 논문 리뷰](https://lsjsj92.tistory.com/669)
-- [LLM과 추천 시스템을 결합해 설명가능성(Explainability) 제공하기(Feat. LangChain, GPT-4o)](https://lsjsj92.tistory.com/670)
 
 ---
 
@@ -370,12 +384,6 @@ head:
 
 ---
 
-## nthought
-
-- [모델 성능이 안 나올 때](http://bahnsville.tistory.com/m/1264)
-
----
-
 ## Eugene Yan
 
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
@@ -409,28 +417,6 @@ head:
 - [간밤에 메타에서 드디어 라마3를 공개했습니다. 역시나 기대했던 대로 압도적인 스케일과 성능을 자랑하네요. 2만 4천 장의 GPU, 15T 학습 데이터, 1천만 건의 인스트럭션](https://likejazz.com/post/756657294178140160)
 - [곧 출시되는 ollama의 신규 버전에는 드디어 CJK 문제가 해결되면서 CLI에서 문제 없이 한글 처리가 될 것으로 보이네요. 이외에도 `llama.cpp`에 flash](http://likejazz.com/post/757019683183607808)
 - [`llm.c` 프로젝트로 요즘 pure C/CUDA training 코드를 만들고 있는 카파시가 이번에 GPT-2 124M 모델 학습을 1장의 GPU로 90분만에 재현했네요.](http://likejazz.com/post/757200879566946304)
-
----
-
-## 드프 DrawingProcess
-
-- [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
-- [\[논문리뷰\] LiDAR2Map: LiDAR-based distillation scheme - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023)](https://csj000714.tistory.com/m/1156)
-
----
-
-## AI Convergence
-
-- [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
-- [\[LCC-1\] LangChain Concept - Components & RAG](http://mobicon.tistory.com/m/607)
-- [\[LCC-5\] LangChain VectorStore 이해](https://mobicon.tistory.com/m/614)
-
----
-
-## 데엔잘하고싶은데엔🔥💎
-
-- [Triton Inference Server 모델서빙1 - NVIDA Triton(트리톤)이란?](https://pearlluck.tistory.com/m/821)
-- [Embedding을 저장하는 VectorDB 그리고 벡터 유사도 검색 Indexing](https://pearlluck.tistory.com/m/824)
 
 ---
 

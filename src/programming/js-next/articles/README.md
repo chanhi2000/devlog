@@ -150,6 +150,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Set Up ESLint, Prettier, StyleLint, and lint-staged in Next.js",
+  "desc": "A linter is a tool that scans code for potential issues. This is invaluable with a programming language like JavaScript which is so loosely typed. Even for TypeScript, which is a strongly typed language whose compiler does a great job of detecting er...",
+  "link": "/explore/articles/freecodecamp.org/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

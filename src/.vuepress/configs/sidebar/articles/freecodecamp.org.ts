@@ -112,6 +112,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-create-interactive-html-prototypes", // 2024-08-27
       "how-to-build-an-expense-tracker-with-html-css-and-javascript", // 2024-09-11
       "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
+      "use-the-javascript-selection-api-to-build-a-rich-text-editor", // 2024-09-16
+      "javascript-timer-how-to-set-a-timer-function-in-js", // 2024-09-16
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -140,6 +142,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-read-and-write-files-with-nodejs", // 2024-08-19
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
       "implement-api-rate-limiting-in-strapi", // 2024-09-10
+      "how-to-handle-side-effects-in-jest", // 2024-09-16
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -200,6 +203,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-index-nextjs-pages-with-indexnow", // 2024-08-06
       "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
       "what-is-speedy-web-compiler", // 2024-09-05
+      "how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs", // 2024-09-16
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -806,6 +810,10 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-expense-tracker-with-html-css-and-javascript", // 2024-09-11
       "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
       "how-to-be-a-productive-developer", // 2024-09-13
+      "use-the-javascript-selection-api-to-build-a-rich-text-editor", // 2024-09-16
+      "javascript-timer-how-to-set-a-timer-function-in-js", // 2024-09-16
+      "how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs", // 2024-09-16
+      "how-to-handle-side-effects-in-jest", // 2024-09-16
     ]],
   ]),
 }

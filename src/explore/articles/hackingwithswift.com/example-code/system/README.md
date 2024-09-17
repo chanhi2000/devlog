@@ -340,7 +340,7 @@ head:
 ```component VPCard
 {
   "title": "How to make tappable links in NSAttributedString",
-  "desc": "You can make interactive hyperlinks in any attributed string, which in turn means you can add interactive hyperlinks to any UIKit control. If you're working with <code>UITextView</code> (which is likely, let's face it), you get basic hyperlinks just by enabling the 'Links' data detector in Interface Builder, but that doesn't work for arbitrary strings – for example, maybe you want the words “tap here" to be interactive....",
+  "desc": "You can make interactive hyperlinks in any attributed string, which in turn means you can add interactive hyperlinks to any UIKit control. If you're working with <code>UITextView</code> (which is likely, let's face it), you get basic hyperlinks just by enabling the 'Links' data detector in Interface Builder, but that doesn't work for arbitrary strings – for example, maybe you want the words 'tap here' to be interactive....",
   "link": "/explore/articles/hackingwithswift.com/example-code/system/how-to-make-tappable-links-in-nsattributedstring.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

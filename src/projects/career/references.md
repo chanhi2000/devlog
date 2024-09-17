@@ -316,6 +316,7 @@ tag:
 - [`@3L0s` / 전방위(360도) 기업혁신, 저서 재발간](https://brunch.co.kr/@@3L0s/123)
 - [`@2weV` / Why 실리콘밸리 챌린지?!](https://brunch.co.kr/@@2weV/553)
 - [`@2weV` / 커리어에서 영어는 Multiple을 결정한다](https://brunch.co.kr/@@2weV/554)
+- [`@2weV` / 커리어와 삶의 변곡점은 '관점의 변화'에서 시작된다.](https://brunch.co.kr/@@2weV/555)
 
 <!-- END: brunch.co.kr -->
 

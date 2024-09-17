@@ -565,6 +565,7 @@ head:
 - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability)
 - [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
+- [It’s time to stop using Python 3.8](https://pythonspeed.com/articles/stop-using-python-3.8/)
 
 ---
 

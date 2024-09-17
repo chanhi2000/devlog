@@ -2501,5 +2501,26 @@
     "topics": ["ci", "devops-tools", "secret-management", "security", "security-tools"],
     "avatar": "https://avatars.githubusercontent.com/u/5041481?v=4",
     "banner": ""
+  }, {
+    "repo": "thomastschurtschenthaler/electrico",
+    "desc": "A Lightweight Electron App Container",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/110664518?v=4",
+    "banner": ""
+  }, {
+    "repo": "achristmascarl/rainfrog",
+    "desc": "🐸 a database management tui for postgres",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/44021312?v=4",
+    "banner": ""
+  }, {
+    "repo": "nyxpsi/nyxpsi",
+    "desc": "Next-gen network protocol for reliable data transfer in lossy environments. Outperforms TCP/UDP in high packet loss scenarios.",
+    "officialSite": "",
+    "topics": ["error-correction", "lossy-networks", "networking", "performance", "protocol", "raptorq", "reliability", "rust", "tcp", "udp"],
+    "avatar": "https://avatars.githubusercontent.com/u/181770737?v=4",
+    "banner": ""
   }
 ]

@@ -51,9 +51,6 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_005.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://www.milanjovanovic.tech/blog-covers/mnw_005.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 In this newsletter, we'll be covering three ways to create middleware in **ASP.NET Core** applications.
 
 **Middleware** allows us to introduce additional logic before or after executing an HTTP request.
@@ -62,22 +59,19 @@ You are already using many of the built-in middleware available in the framework
 
 I'm going to show you three approaches to how you can define custom middleware:
 
-- <a href="#adding-middleware-with-request-delegates">With Request Delegates</a>
-<li><a href="#adding-middleware-by-convention">By Convention</a>
-<li><a href="#adding-factory-based-middleware">Factory-Based</a>
+- With Request Delegates
+- By Convention
+- Factory-Based
 
 Let's go over each of them and see how we can implement them in code.
 
 ---
 
-## adding-middleware-with-request-delegates"><a href="#adding-middleware-with-request-delegates">Adding Middleware With Request Delegates
+## Adding Middleware With Request Delegates
 
 The first approach to defining a middleware is by writing a **Request Delegate**.
 
-You can do that by calling the `Use` method on the `WebApplication` instance
-and providing a lambda method with two arguments.
-The first argument is the `HttpContext` and the second argument is
-the actual next request delegate in the pipeline `RequestDelegate`.
+You can do that by calling the `Use` method on the `WebApplication` instance and providing a lambda method with two arguments. The first argument is the `HttpContext` and the second argument is the actual next request delegate in the pipeline `RequestDelegate`.
 
 Here's what this would look like:
 
@@ -93,20 +87,17 @@ app.Use(async (context, next) =>
 
     // Add code after request.
 });
-
 ```
 
-By awaiting the `next` delegate, you are continuing the request pipeline execution.
-You can *short-circuit* the pipeline by not invoking the `next` delegate.
+By awaiting the `next` delegate, you are continuing the request pipeline execution. You can *short-circuit* the pipeline by not invoking the `next` delegate.
 
 This overload of the `Use` method is the one suggested by **Microsoft**.
 
 ---
 
-## adding-middleware-by-convention"><a href="#adding-middleware-by-convention">Adding Middleware By Convention
+## Adding Middleware By Convention
 
-The second approach requires us to create a class that will represent our middleware.
-We have to follow the convention when creating this class so that we can use it as middleware in our application.
+The second approach requires us to create a class that will represent our middleware. We have to follow the convention when creating this class so that we can use it as middleware in our application.
 
 I'm first going to show you what this class looks like, and then explain what is the convention we are following here.
 
@@ -132,8 +123,8 @@ public class ConventionMiddleware(
 The convention we are following has a few rules:
 
 - We need to inject a `RequestDelegate` in the constructor
-<li>We need to define an `InvokeAsync` method with an `HttpContext` argument
-<li>We need to invoke the `RequestDelegate` and pass it the `HttpContext` instance
+- We need to define an `InvokeAsync` method with an `HttpContext` argument
+- We need to invoke the `RequestDelegate` and pass it the `HttpContext` instance
 
 There's one more thing that's required, and that is to tell our application to use this middleware.
 
@@ -148,12 +139,11 @@ And with this, we have a functioning middleware.
 
 ---
 
-## adding-factory-based-middleware"><a href="#adding-factory-based-middleware">Adding Factory-Based Middleware
+## Adding Factory-Based Middleware
 
 The third and last approach requires us to also create a class that will represent our middleware.
 
-However, this time we're going to implement the `IMiddleware` interface.
-This interface has only one method - `InvokeAsync`.
+However, this time we're going to implement the `IMiddleware` interface. This interface has only one method - `InvokeAsync`.
 
 Here's what this class would like:
 
@@ -169,7 +159,6 @@ public class FactoryMiddleware(ILogger<FactoryMiddleware> logger) : IMiddleware
         logger.LogInformation("After request");
     }
 }
-
 ```
 
 The `FactoryMiddleware` class will be resolved at runtime from dependency injection.
@@ -178,35 +167,25 @@ Because of this, we need to register it as a service:
 
 ```cs
 builder.Services.AddTransient<FactoryMiddleware>();
-
 ```
 
 And like the previous example, we need to tell our application to use our factory-based middleware:
 
 ```cs
 app.UseMiddleware<FactoryMiddleware>();
-
 ```
 
 With this, we have a functioning middleware.
 
 ---
 
-## a-word-on-strong-typing"><a href="#a-word-on-strong-typing">A Word On Strong Typing
+## A Word On Strong Typing
 
-I'm a big fan of **strong typing** whenever possible.
-Out of the three approaches I just showed you, the one using the
-`IMiddleware` interface satisfies this constraint the most.
-This is also my **preferred** way to implement **middleware**.
+I'm a big fan of **strong typing** whenever possible. Out of the three approaches I just showed you, the one using the `IMiddleware` interface satisfies this constraint the most. This is also my **preferred** way to implement **middleware**.
 
-Since we're implementing an interface, it's very easy to create
-a generic solution to never forget to register your middleware.
+Since we're implementing an interface, it's very easy to create a generic solution to never forget to register your middleware.
 
-You can use reflection to scan for classes implementing
-the `IMiddleware` interface and add them to dependency injection,
-and also add them to the application by calling `UseMiddleware`.
-
--->
+You can use reflection to scan for classes implementing the `IMiddleware` interface and add them to dependency injection, and also add them to the application by calling `UseMiddleware`.
 
 ---
 

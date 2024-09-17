@@ -578,6 +578,7 @@ tag:
 ## Ryan Mulligan
 
 - [Detect JavaScript Support in CSS](https://ryanmulligan.dev/blog/detect-js-support-in-css/)
+- [CSS `@property` and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
 
 ---
 
@@ -677,6 +678,7 @@ tag:
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
+- [The Undeniable Utility Of CSS `:has`](https://www.joshwcomeau.com/css/has/)
 
 ---
 

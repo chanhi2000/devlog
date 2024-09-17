@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_033.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_033.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 **EF Core** is getting many new and exciting features in the upcoming version.
 
 **EF7** introduced support for returning **scalar types** using **SQL** queries.
@@ -62,20 +59,11 @@ And now we're getting support for **querying unmapped types** with **raw SQL que
 
 This is exactly what **Dapper** offers out of the box, and it's good to see **EF Core** catching up.
 
-In this week's newsletter, I'm going to cover how to use **EF Core** for:
-
-- <a href="#ef-core-and-sql-queries">Raw SQL queries</a>
-<li><a href="#composing-sql-queries-with-linq">Composing SQL queries with LINQ</a>
-<li><a href="#sql-queries-for-data-modifications">Executing data modifications with SQL</a>
-
-Let's dive in!
-
 ---
 
-## ef-core-and-sql-queries"><a href="#ef-core-and-sql-queries">EF Core And SQL Queries
+## EF Core And SQL Queries
 
-**EF7** added support for **raw SQL queries** returning scalar types.
-**EF8** is taking this a step further with raw SQL queries that can return any mappable type, without having to include it in the **EF model**.
+**EF7** added support for **raw SQL queries** returning scalar types. **EF8** is taking this a step further with raw SQL queries that can return any mappable type, without having to include it in the **EF model**.
 
 You can query unmapped types with the `SqlQuery` and `SqlQueryRaw` methods.
 
@@ -91,28 +79,25 @@ var ordersIn2023 = await dbContext
     .SqlQuery<OrderSummary>(
         $"SELECT * FROM OrderSummaries AS o WHERE o.CreatedOn >= {startDate}")
     .ToListAsync();
-
 ```
 
 This will be the **SQL** sent to the database:
 
 ```sql
 SELECT * FROM OrderSummaries AS o WHERE o.CreatedOn >= @p0
-
 ```
 
-The type used for the query result can have a parameterized constructor.
-The property names don't need to match the column names in the database, but they do have to match the names of the values in the result set.
+The type used for the query result can have a parameterized constructor. The property names don't need to match the column names in the database, but they do have to match the names of the values in the result set.
 
 You can also execute raw SQL queries and return results with:
 
 - Views
-<li>Functions
-<li>Stored procedures
+- Functions
+- Stored procedures
 
 ---
 
-## composing-sql-queries-with-linq"><a href="#composing-sql-queries-with-linq">Composing SQL Queries With LINQ
+## Composing SQL Queries With LINQ
 
 An interesting thing about `SqlQuery` is that it returns `IQueryable`, which can be further composed with **LINQ.**
 
@@ -126,7 +111,6 @@ var ordersIn2023 = await dbContext
     .SqlQuery<OrderSummary>("SELECT * FROM OrderSummaries AS o")
     .Where(o => o.CreatedOn >= startDate)
     .ToListAsync();
-
 ```
 
 However, the generated **SQL** isn't optimal:
@@ -137,7 +121,6 @@ FROM (
     SELECT * FROM OrderSummaries AS o
 ) AS s
 WHERE s.CreatedOn >= @p0
-
 ```
 
 Another possibility is to combine an `OrderBy` statement with `Skip` and `Take`:
@@ -165,7 +148,6 @@ FROM (
 ) AS s
 ORDER BY s.Id
 OFFSET @p1 ROWS FETCH NEXT @p2 ROWS ONLY
-
 ```
 
 In case you're wondering, the performance is similar to **LINQ** queries using `Select` projections.
@@ -176,7 +158,7 @@ This feature will be very useful if you're more comfortable with writing **SQL**
 
 ---
 
-## sql-queries-for-data-modifications"><a href="#sql-queries-for-data-modifications">SQL Queries For Data Modifications
+## SQL Queries For Data Modifications
 
 If you want to modify data in the database with **SQL**, you will typically write a query that doesn't return a result.
 
@@ -189,17 +171,15 @@ var startDate = new DateOnly(2023, 1, 1);
 
 dbContext.Database.ExecuteSql(
     $"UPDATE Orders SET Status = 5 WHERE CreatedOn >= {startDate}");
-
 ```
 
 `ExecuteSql` also protects from SQL injection by parameterizing arguments, just like `SqlQuery`.
 
-With **EF7** you can write the above query with **LINQ** and the `ExecuteUpdate` method.
-There's also the `ExecuteDelete` method for deleting records.
+With **EF7** you can write the above query with **LINQ** and the `ExecuteUpdate` method. There's also the `ExecuteDelete` method for deleting records.
 
 ---
 
-## in-summary"><a href="#in-summary">In Summary
+## In Summary
 
 **EF7** introduced support for raw SQL queries returning **scalar** values.
 
@@ -207,14 +187,11 @@ There's also the `ExecuteDelete` method for deleting records.
 
 I like the direction that **EF** is going, introducing more flexibility for querying the database.
 
-The performance isn't as good as **Dapper**, unfortunately.
-But it's close enough that network costs will play the bigger factor.
+The performance isn't as good as **Dapper**, unfortunately. But it's close enough that network costs will play the bigger factor.
 
 I will probably be using only **EF** moving forward since it covers more use cases.
 
 Thank you for reading, and have an awesome Saturday.
-
--->
 
 ---
 

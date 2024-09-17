@@ -30,6 +30,7 @@ head:
 ## Pdf(s)
 
 <PDF url="http://www.initiondata.kr/SeniorUX/Senior%20UX_Spread.pdf" />
+<PDF url="https://vldb.org/pvldb/vol17/p3731-schulze.pdf" />
 
 ---
 
@@ -833,6 +834,12 @@ head:
 ## The ultimate MySQL database platform — PlanetScale
 
 - [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes)
+
+---
+
+## Cloud Monitoring as a Service | Datadog
+
+- [Burn rate is a better error rate](https://www.datadoghq.com/blog/burn-rate-is-better-error-rate/)
 
 ---
 

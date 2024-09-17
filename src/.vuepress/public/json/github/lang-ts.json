@@ -4793,5 +4793,19 @@
     "topics": ["electron-app", "hacktoberfest", "hacktoberfest2022", "jira", "linux", "macos", "productivity", "task-manager", "time-tracker", "timetracking", "to-do-list", "todo"],
     "avatar": "https://avatars.githubusercontent.com/u/1456265?v=4",
     "banner": ""
+  }, {
+    "repo": "yaakapp/app",
+    "desc": "The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.",
+    "officialSite": "https://yaak.app",
+    "topics": ["desktop", "http-client", "linux", "macos", "tauri", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/150165049?v=4",
+    "banner": ""
+  }, {
+    "repo": "AlexSergey/rockpack",
+    "desc": "Rockpack is a simple solution for creating React Application with Server Side Rendering, bundling, linting, testing within 5 minutes",
+    "officialSite": "https://alexsergey.github.io/rockpack/",
+    "topics": ["boilerplate", "codestyle", "eslint", "jest", "reactjs", "ssr", "typescript", "webpack"],
+    "avatar": "https://avatars.githubusercontent.com/u/6189375?v=4",
+    "banner": ""
   }
 ]

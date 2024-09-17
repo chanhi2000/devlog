@@ -260,6 +260,8 @@ head:
   - [\[해결 방법\] `NoUniqueBeanDefinitionException`](https://hj0216.tistory.com/m/943)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - SonarQube](https://hj0216.tistory.com/m/944)
   - [\[1년 후 마실가실\] JWT와 로그아웃(2) `RefreshToken`](https://hj0216.tistory.com/m/945)
+  - [\[1년 후 마실가실\] JWT와 로그아웃(3) 로그아웃](https://hj0216.tistory.com/m/947)
+  - [\[1년 후 마실가실\] Custom Error 처리](https://hj0216.tistory.com/m/948)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -339,6 +341,7 @@ head:
   - [04.01. 책 입력 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0401-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [04.02. 책 입력 화면 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0402-%EC%B1%85-%EC%9E%85%EB%A0%A5-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [05.01. 데이터베이스 준비하기 - 1](https://ysedeveloper.tistory.com/m/entry/0501-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-1)
+  - [05.02. 데이터베이스 준비하기 - 2](https://ysedeveloper.tistory.com/m/entry/0502-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -682,6 +685,7 @@ head:
 ### 현구막 기술 블로그
 
 - [spring retry 이해 및 예제 정리](https://hyeon9mak.github.io/spring-retry/)
+- [Spring Boot 3 마이그레이션 팁 모음](https://hyeon9mak.github.io/spring-boot-3-migration/)
 
 ### Yun Blog
 

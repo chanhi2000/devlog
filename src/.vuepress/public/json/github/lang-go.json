@@ -2603,5 +2603,12 @@
     "topics": ["distributed-systems", "fairness", "go-library", "throttling"],
     "avatar": "https://avatars.githubusercontent.com/u/13845072?v=4",
     "banner": ""
+  }, {
+    "repo": "falco-talon/falco-talon",
+    "desc": "Falco Talon is a Response Engine for managing threats in your Kubernetes",
+    "officialSite": "https://docs.falco-talon.org",
+    "topics": ["falco", "kubernetes", "response-engine", "security"],
+    "avatar": "https://avatars.githubusercontent.com/u/158502191?v=4",
+    "banner": ""
   }
 ]

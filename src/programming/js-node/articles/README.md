@@ -410,6 +410,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Handle Side Effects in Jest – A Guide to Effective Mocking",
+  "desc": "Unit testing is a major topic for every developer. It is a fundamental practice in building software applications. Unit testing helps you to identify bugs early and makes code maintenance easier. By isolating and testing single units or components of...",
+  "link": "/explore/articles/freecodecamp.org/how-to-handle-side-effects-in-jest.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
