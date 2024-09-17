@@ -166,9 +166,16 @@ export default defineUserConfig({
       search: {
         isSearchable: (page) => page.path !== '/',
       },
+      /* 
       searchPro: {
         indexContent: true,
+        locales: {
+          "/": {
+            placeholder: "Start Searching",
+          }
+        }
       },
+      */
       prismjs: {
         light: "material-light",
         dark: "dracula"

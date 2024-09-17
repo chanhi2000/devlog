@@ -228,6 +228,7 @@ export const template: SidebarInfoTemplate = {
       "efcore-migrations-a-detailed-guide", // 2024-05-18
       "shift-left-with-architecture-testing-in-dotnet", // 2024-05-25
       "vertical-slice-architecture-structuring-vertical-slices", // 2024-06-01
+      "caching-in-aspnetcore-improving-application-performance", // 2024-06-08
       "from-transaction-scripts-to-domain-models-a-refactoring-journey", // 2024-06-15
       "what-you-need-to-know-about-ef-core-bulk-updates", // 2024-06-22
       "flexible-pdf-reporting-in-net-using-razor-views", // 2024-06-29

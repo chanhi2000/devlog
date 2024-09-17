@@ -31,5 +31,6 @@ head:
 <MyYouTubeItems jsonName="yu-AlgoJS" /><!-- AlgoJS -->
 <MyYouTubeItems jsonName="yu-theavocoder" /><!-- Lydia Hallie -->
 <MyYouTubeItems jsonName="yu-Steve8708" /><!-- Steve (Builder.io) -->
+<MyYouTubeItems jsonName="yu-tahazsh" /><!-- Taha Shashtari -->
 
 <TagLinks />

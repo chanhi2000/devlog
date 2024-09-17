@@ -846,5 +846,12 @@
     "topics": ["http", "http-server", "server", "server-side-swift", "swift", "swift-nio", "web", "web-server"],
     "avatar": "https://avatars.githubusercontent.com/u/77961464?v=4",
     "banner": ""
-  }  
+  }, {
+    "repo": "pencilresearch/OpenScanner",
+    "desc": "Fast, reliable, and free document scanner app for iPhone",
+    "officialSite": "https://openscanner.app",
+    "topics": ["ios-app", "swift", "swiftui"],
+    "avatar": "https://avatars.githubusercontent.com/u/26827351?v=4",
+    "banner": ""
+  }
 ]

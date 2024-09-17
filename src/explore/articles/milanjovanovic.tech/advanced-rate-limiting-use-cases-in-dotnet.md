@@ -51,43 +51,37 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_051.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_051.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-**Rate limiting** is about restricting the number of requests to your application.
-It's usually applied within a specific time window or based on other criteria.
+**Rate limiting** is about restricting the number of requests to your application. It's usually applied within a specific time window or based on other criteria.
 
 It's helpful for a few reasons:
 
 - Improves security
-<li>Guards against DDoS attacks
-<li>Prevents overloading of application servers
-<li>Reduces costs by preventing unnecessary resource consumption
+- Guards against DDoS attacks
+- Prevents overloading of application servers
+- Reduces costs by preventing unnecessary resource consumption
 
-**.NET 7** shipped with a **built-in rate limiter**, but you need to know how to implement it correctly.
-Or you could grind your system to a halt - and we don't want that.
+**.NET 7** shipped with a **built-in rate limiter**, but you need to know how to implement it correctly. Or you could grind your system to a halt - and we don't want that.
 
 In this week's newsletter, I'll teach you:
 
 - How to rate limit users by **IP address**
-<li>How to rate limit users by their **identity**
-<li>How to apply **rate limiting** on the **reverse proxy**
+- How to rate limit users by their **identity**
+- How to apply **rate limiting** on the **reverse proxy**
 
 So let's dive in!
 
 ---
 
-## built-in-rate-limiting-in-net-7"><a href="#built-in-rate-limiting-in-net-7">Built-In Rate Limiting In .NET 7
+## Built-In Rate Limiting In .NET 7
 
-Starting with .NET 7, we have access to built-in **rate limiting middleware** in the `Microsoft.AspNetCore.RateLimiting` namespace.
-The API is straightforward, and you can create a rate limit policy with a few lines of code.
+Starting with .NET 7, we have access to built-in **rate limiting middleware** in the `Microsoft.AspNetCore.RateLimiting` namespace. The API is straightforward, and you can create a rate limit policy with a few lines of code.
 
 We can use one of the four **rate limiting algorithms**:
 
 - Fixed window
-<li>Sliding window
-<li>Token bucket
-<li>Concurrency
+- Sliding window
+- Token bucket
+- Concurrency
 
 Here's how to define a **rate limit policy** by calling the `AddTokenBucketLimiter` method:
 
@@ -104,7 +98,6 @@ builder.Services.AddRateLimiter(rateLimiterOptions =>
         options.AutoReplenishment = true;
     });
 });
-
 ```
 
 Now you can reference the `token` rate limit policy on your endpoint or controller.
@@ -116,113 +109,97 @@ app.UseRateLimiter();
 
 ```
 
-You can learn more about <a href="how-to-use-rate-limiting-in-aspnet-core">**rate limiting in .NET 7 here,**</a> so I won't go deeper into the fundamentals.
+You can learn more about [**rate limiting in .NET 7 here,**](/explore/articles/milanjovanovic.tech/how-to-use-rate-limiting-in-aspnet-core.md) so I won't go deeper into the fundamentals.
 
 ---
 
-## rate-limiting-users-by-ip-address"><a href="#rate-limiting-users-by-ip-address">Rate Limiting Users By IP Address
+## Rate Limiting Users By IP Address
 
 The approach I just showed you has a **problem** - the **rate limit policy** is global and **applies to all users**.
 
-Most of the time, you don't want to do this.
-Rate limiting should be granular and apply to **individual users**.
+Most of the time, you don't want to do this. Rate limiting should be granular and apply to **individual users**.
 
 Luckily, you can achieve this by creating a `RateLimitPartition`.
 
 The `RateLimitPartition` has two components:
 
 - Partition key
-<li>Rate limiter policy
+- Rate limiter policy
 
 Here's how to define a rate limiter with a fixed window policy, and the **partition key** is the user's **IP address**.
 
-```cs
+```cs{5}
 builder.Services.AddRateLimiter(options =>
 {
     options.AddPolicy("fixed-by-ip", httpContext =>
         RateLimitPartition.GetFixedWindowLimiter(
-<span class="code-line highlight-line">            partitionKey: httpContext.Connection.RemoteIpAddress?.ToString(),
+            partitionKey: httpContext.Connection.RemoteIpAddress?.ToString(),
             factory: _ => new FixedWindowRateLimiterOptions
             {
                 PermitLimit = 10,
                 Window = TimeSpan.FromMinutes(1)
             }));
 });
-
 ```
 
-Rate limiting by **IP address** can be a good layer of security for **unauthenticated users**.
-You don't know who is accessing your system and can't apply more granular rate limiting.
-This can help protect your system from malicious users trying to perform a DDoS attack.
+Rate limiting by **IP address** can be a good layer of security for **unauthenticated users**. You don't know who is accessing your system and can't apply more granular rate limiting. This can help protect your system from malicious users trying to perform a DDoS attack.
 
-You can also <a href="https://learn.microsoft.com/en-us/aspnet/core/performance/rate-limit?view=aspnetcore-7.0#create-chained-limiters">**create chained limiters**</a> using the `CreateChained` API.
-It allows you to pass in multiple `PartitionedRateLimiter`, which are combined into one `PartitionedRateLimiter`.
-The chained limiter runs all the input limiters in sequence (one by one).
+You can also [<FontIcon icon="fa-brands fa-microsoft"/>**create chained limiters**](https://learn.microsoft.com/en-us/aspnet/core/performance/rate-limit?view=aspnetcore-7.0#create-chained-limiters) using the `CreateChained` API. It allows you to pass in multiple `PartitionedRateLimiter`, which are combined into one `PartitionedRateLimiter`. The chained limiter runs all the input limiters in sequence (one by one).
 
-If your application is running behind a **reverse proxy**, you need to make sure not to rate limit the proxy IP address.
-Reverse proxies usually **forward** the original IP address with the `X-Forwarded-For` header.
-So you can use it as the **partition key**:
+If your application is running behind a **reverse proxy**, you need to make sure not to rate limit the proxy IP address. Reverse proxies usually **forward** the original IP address with the `X-Forwarded-For` header. So you can use it as the **partition key**:
 
-```cs
+```cs{5}
 builder.Services.AddRateLimiter(options =>
 {
     options.AddPolicy("fixed-by-ip", httpContext =>
         RateLimitPartition.GetFixedWindowLimiter(
-<span class="code-line highlight-line">            httpContext.Request.Headers["X-Forwarded-For"].ToString(),
+            httpContext.Request.Headers["X-Forwarded-For"].ToString(),
             factory: _ => new FixedWindowRateLimiterOptions
             {
                 PermitLimit = 10,
                 Window = TimeSpan.FromMinutes(1)
             }));
 });
-
 ```
 
 ---
 
-## rate-limiting-users-by-identity"><a href="#rate-limiting-users-by-identity">Rate Limiting Users By Identity
+## Rate Limiting Users By Identity
 
-If you require users to **authenticate** with your API, you can determine who the current is.
-Then you can use the user's **identity** as the **partition key** for a `RateLimitPartition`.
+If you require users to **authenticate** with your API, you can determine who the current is. Then you can use the user's **identity** as the **partition key** for a `RateLimitPartition`.
 
 Here's how you would create such a rate limit policy:
 
-```cs
+```cs{5}
 builder.Services.AddRateLimiter(options =>
 {
     options.AddPolicy("fixed-by-user", httpContext =>
         RateLimitPartition.GetFixedWindowLimiter(
-<span class="code-line highlight-line">            partitionKey: httpContext.User.Identity?.Name?.ToString(),
+            partitionKey: httpContext.User.Identity?.Name?.ToString(),
             factory: _ => new FixedWindowRateLimiterOptions
             {
                 PermitLimit = 10,
                 Window = TimeSpan.FromMinutes(1)
             }));
 });
-
 ```
 
-I'm using the `User.Identity` value on the `HttpContext` to get the current user's `Name` claim.
-This usually corresponds to the `sub` claim inside a JWT - which is the user identifier.
+I'm using the `User.Identity` value on the `HttpContext` to get the current user's `Name` claim. This usually corresponds to the `sub` claim inside a JWT - which is the user identifier.
 
 ---
 
-## applying-rate-limting-on-the-reverse-proxy"><a href="#applying-rate-limting-on-the-reverse-proxy">Applying Rate Limting On The Reverse Proxy
+## Applying Rate Limting On The Reverse Proxy
 
-In a robust implementation, you want to **rate limit** on the **reverse proxy** level before the request hits your API.
-And if you have a distributed system, this is a requirement.
-Otherwise, your system wouldn't function correctly.
+In a robust implementation, you want to **rate limit** on the **reverse proxy** level before the request hits your API. And if you have a distributed system, this is a requirement. Otherwise, your system wouldn't function correctly.
 
 There are many reverse proxy implementations to choose from.
 
-**YARP** is a reverse proxy with excellent .NET integration.
-Not surprising since it was written in C#.
-You can learn more about <a href="implementing-an-api-gateway-for-microservices-with-yarp">**building an API Gateway with YARP here.**</a>
+**YARP** is a reverse proxy with excellent .NET integration. Not surprising since it was written in C#. You can learn more about [**building an API Gateway with YARP here.**](/explore/articles/milanjovanovic.tech/implementing-an-api-gateway-for-microservices-with-yarp.md)
 
 To implement rate limiting on the reverse proxy with **YARP** you need to:
 
 - Define a rate limit policy (covered in previous examples)
-<li>Configure the `RateLimiterPolicy` for the route in YARP settings
+- Configure the `RateLimiterPolicy` for the route in YARP settings
 
 ```json
 "products-route": {
@@ -235,38 +212,28 @@ To implement rate limiting on the reverse proxy with **YARP** you need to:
     { "PathPattern": "{**catch-all}" }
   ]
 }
-
 ```
 
-The built-in rate limiter middleware uses an **in-memory** store to track the number of requests.
-If you want to run your reverse proxy in a high-availability setup, you will need to use a **distributed cache**.
-A nice option to look into is using a <a href="https://github.com/cristipufu/aspnetcore-redis-rate-limiting">**Redis backplane for rate limiting.**</a>
+The built-in rate limiter middleware uses an **in-memory** store to track the number of requests. If you want to run your reverse proxy in a high-availability setup, you will need to use a **distributed cache**. A nice option to look into is using a [**Redis backplane for rate limiting.** (<FontIcon icon="iconfont icon-github"/>`cristipufu/aspnetcore-redis-rate-limiting`)](https://github.com/cristipufu/aspnetcore-redis-rate-limiting)
 
 ---
 
-## closing-thoughts"><a href="#closing-thoughts">Closing Thoughts
+## Closing Thoughts
 
 With the `PartitionedRateLimiter` you can easily create granular rate limit policies.
 
 The two common approaches are:
 
 - Rate limiting by **IP address**
-<li>Rate limiting by the **user identifier**
+- Rate limiting by the **user identifier**
 
-I was really excited to see the .NET team ship rate limiting.
-But, the current implementation has its shortcomings.
-The main issue is that it only works **in memory**.
-For a **distributed** solution, you need to implement something yourself or use an external library.
+I was really excited to see the .NET team ship rate limiting. But, the current implementation has its shortcomings. The main issue is that it only works **in memory**. For a **distributed** solution, you need to implement something yourself or use an external library.
 
-You can use the **YARP** reverse proxy to build robust and scalable distributed systems.
-And it only takes a few lines of code to add **rate limiting** on the reverse proxy level.
-I'm using it extensively in my systems.
+You can use the **YARP** reverse proxy to build robust and scalable distributed systems. And it only takes a few lines of code to add **rate limiting** on the reverse proxy level. I'm using it extensively in my systems.
 
 Thanks for reading.
 
 And stay awesome!
-
--->
 
 ---
 

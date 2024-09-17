@@ -147,4 +147,10 @@ head:
 
 ---
 
+## IETF  | Internet Engineering Task Force
+
+- [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
+
+---
+
 <TagLinks />

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "EpsilonDeltaMain",
+    "name": "EpsilonDelta",
+    "profile": "https://yt3.googleusercontent.com/cIpAFSt97V5DSeFqgklLvbYzqji1YJ0FxUSgj1UaSU-hyEE52CIReF7s46RFc0c0TS5NKgH5cw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9cHDii-jHvs", "title": "Volume of Spheres in Any Dimension (*does it work for fractional dimensions?)" },
+    { "id": "QFHSHhpbo00", "title": "They Use ∂ Differently in Math and Physics. Which is Better?" },
+    { "id": "mICbKwwHziI", "title": "Ambiguity With Partial ∂ Notation, and How to Resolve It" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -31,6 +31,7 @@ tag:
 - [New GitHub Organization for the Swift Project](https://swift.org/blog/swiftlang-github/)
 - [Plotting a Path to a Package Ecosystem without Data Race Errors](https://www.swift.org/blog/ready-for-swift-6/)
 - [Announcing Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
+- [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 
 ### Forums
 

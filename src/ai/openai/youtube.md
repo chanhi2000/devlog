@@ -176,5 +176,7 @@ head:
 <MyYouTubeItems jsonName="yu-murtazasworkshop" /><!-- Murtaza's Workshop - Robotics and AI -->
 <MyYouTubeItems jsonName="yu-mr.5pm" /><!-- Mr.5pm -->
 <MyYouTubeItems jsonName="yu-XCA" /><!-- Xcoding with Alfian -->
+<MyYouTubeItems jsonName="yu-tonykipkemboi" /><!-- The How-To Guy -->
+<MyYouTubeItems jsonName="yu-AICodeKing" /><!-- AICodeKing -->
 
 <TagLinks />

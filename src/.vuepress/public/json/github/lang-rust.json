@@ -2522,5 +2522,33 @@
     "topics": ["error-correction", "lossy-networks", "networking", "performance", "protocol", "raptorq", "reliability", "rust", "tcp", "udp"],
     "avatar": "https://avatars.githubusercontent.com/u/181770737?v=4",
     "banner": ""
+  }, {
+    "repo": "N8BWert/ncomm",
+    "desc": "Node-Based Robotics Framework Written in Rust",
+    "officialSite": "",
+    "topics": ["robotics", "rust"],
+    "avatar": "https://avatars.githubusercontent.com/u/39998614?v=4",
+    "banner": ""
+  }, {
+    "repo": "Morganamilo/paru",
+    "desc": "Feature packed AUR helper",
+    "officialSite": "",
+    "topics": ["arch", "archlinux", "aur-helper", "hacktoberfest", "pacman", "paru", "pkgbuild", "yaourt", "yay"],
+    "avatar": "https://avatars.githubusercontent.com/u/16593899?v=4",
+    "banner": ""
+  }, {
+    "repo": "phiresky/ripgrep-all",
+    "desc": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2303841?v=4",
+    "banner": ""
+  }, {
+    "repo": "ekzhang/rustpad",
+    "desc": "Efficient and minimal collaborative code editor, self-hosted, no database required",
+    "officialSite": "https://rustpad.io",
+    "topics": ["async", "code-editor", "collaborative-editing", "distributed-systems", "operational-transformation", "react", "rust", "self-hosted", "tokio", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/7550632?v=4",
+    "banner": ""
   }
 ]

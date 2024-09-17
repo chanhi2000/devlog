@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "SuRML3Aj4m0", "title": "flow based model 시각화로 설명" },
+    { "id": "NoHo1O4RWGc", "title": "어... 노이즈를..." },
+    { "id": "yba4Kh57SLA", "title": "+ 고수같은 프랙탈 영상 만드는 법" },
+    { "id": "PAmNk4b-fhc", "title": "diffusion 코드 볼 때 혈압오르는 것들" },
+    { "id": "bXXQJAg9Wi4", "title": "「 torch.where 」 60초 안에 설명" },
+    { "id": "kn6UI_DXLug", "title": "flow model 쉽게 설명하기가.. 쉽지않네" },
+    { "id": "wx6S1AbG76g", "title": "어디가서 flow based model 아는 척 가능" },
+    { "id": "a8E55dyVDso", "title": "이런 함수 설계하는 법" },
+    { "id": "RGlwzCWJubs", "title": "diffusion 쉽게 설명하기... 쉽지않네" },
     { "id": "WLCDkfFXbj0", "title": "\" 인코더의 본질 \"" },
     { "id": "Byo7yew9-OQ", "title": "\" 생성 모델 공부의 핵심 \"" },
     { "id": "q-n2HNan9jo", "title": "AE한테 시련을 줘야돼요 → VAE" },

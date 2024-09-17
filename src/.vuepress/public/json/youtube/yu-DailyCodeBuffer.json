@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/wKFAW7k_mBvQR6s7eRK_flYOtRdbxxv7rmApYKUQfW_gEfpw5l49BHf_7xop5dG9UJrOpvZ_NQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yOlUKEN7oxA", "title": "🔥🔥 BIG ANNOUNCEMENT 🔥🔥 - Spring Boot 3 and Spring Framework 6 Course" },
+    { "id": "X5j2fweLzb4", "title": "Learn RAG From Scratch – Spring AI Tutorial" },
+    { "id": "LdXvJrLyI5o", "title": "Java RAG Tutorial (with Local LLMs): AI for your PDFs" },
+    { "id": "jf4kgBqTCw8", "title": "What is Retrieval-Augmented Generation (RAG)?" },
+    { "id": "ZWp0aQAnDiM", "title": "Top 12 Most Popular Types of API Testing" },
+    { "id": "5qG9Yi3bHd8", "title": "From Prompts to Reality: Exploring Multimodal AI with Spring AI & DALL-E" },
+    { "id": "DNA6BftfsoM", "title": "Introduction to Spring AI | Spring Ai Framework" },
+    { "id": "UVznC3yI4w4", "title": "Building AI Application with Spring boot | Spring AI and Prompts" },
+    { "id": "yLEEyErPQ2g", "title": "Handle 1,000,000 Threads with Java and Spring Boot !!!" },
+    { "id": "9K4dOMYQ02I", "title": "Testing Graphql Layer with Spring Boot | Graphql Integration Testing" },
     { "id": "eD-1KTK7fGc", "title": "Master Graphql with Spring Boot 🔥🔥" },
     { "id": "tU_37niRh4U", "title": "Apache KAFKA Tutorial | KAFKA Crash Course | Spring Boot" },
     { "id": "Fx0evOOzPBQ", "title": "10 DevOps Tools to Master in 2024!" }, 
@@ -37,4 +47,3 @@
     { "id": "HFl2dzhVuUo", "title": "Microservices using SpringBoot 3.0 | Full Example [NEW]" } 
   ]
 }
-

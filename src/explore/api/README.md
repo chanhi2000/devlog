@@ -19,7 +19,7 @@ tag:
 <VPBanner
   title="Simple Icons"
   content="A 12 Lesson course teaching everything you need to know to start building Generative AI applications"
-logo="https://camo.githubusercontent.com/51d3c9be20312bba33a3679ebd158fb478328e391bf8a91ca06e38a8792fd01b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f73696d706c6569636f6e732f3030302f666666"
+logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941732b21937c6bf720bc7009c93/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f73696d706c6569636f6e732f3030302f666666"
   :actions='[
     {
       text: "Visit Now",

@@ -138,5 +138,6 @@ head:
 <MyYouTubeItems jsonName="yu-NJT_BOOK" /><!-- 너진똑 NJT BOOK -->
 <MyYouTubeItems jsonName="yu-DreamSchool_KR" /><!-- DreamSchool 이윤규 -->
 <MyYouTubeItems jsonName="yu-review_songmini" /><!-- END: 리뷰한다 송미니 -->
+<MyYouTubeItems jsonName="yu-DiyBuy" /><!-- 다이바이TV -->
 
 <TagLinks />

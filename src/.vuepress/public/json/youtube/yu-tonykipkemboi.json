@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "tonykipkemboi",
+    "name": "The How-To Guy",
+    "profile": "https://yt3.googleusercontent.com/3EARVOW3e_iDrf3-bOCh6RbhDp9FGlZXdgZTL5gQ2cY2bksFRbjYqu5JS4X3HfyeoYLTuGNf7g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GBLaFQVZ0AxqL0Tvy33EoebXxNTxg_MQY_zO7JKknqlbMQ8D-6ga_GnN22vGzG0DTMPFfx5TDzE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "04xdlWIWoso", "title": "Chat with CSV files using LangChain Agent [GPT-4o]" },
+    { "id": "qxu7AxUnLPs", "title": "GPT-4o-mini on Google Colab Notebook" },
+    { "id": "8cFzwz_oGhQ", "title": "How to Install and Run LLAMA 3.1 8B model on your LAPTOP with OLLAMA" },
+    { "id": "lig9c7OkxTI", "title": "How to build a Streamlit UI for Local PDF RAG [Ollama models]" },
+    { "id": "SFXlvPo-CEs", "title": "How to build a ROBUST AI Agent stack [CrewAI + YouTube API + Ollama + Groq + AgentOps]" }
+  ],
+  "playlists": [
+
+  ]
+}

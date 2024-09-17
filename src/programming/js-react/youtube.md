@@ -78,7 +78,6 @@ head:
 <MyYouTubeItems jsonName="yu-VetrivelRavi" /><!-- Vetrivel Ravi -->
 <MyYouTubeItems jsonName="yu-programmingwithmosh" /><!-- Programming with Mosh -->
 <MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
-<MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
 <MyYouTubeItems jsonName="yu-RedwoodJS" /><!-- RedwoodJS -->
 <MyYouTubeItems jsonName="yu-reactproject" /><!-- React & Next js Projects with Sahand -->
 <MyYouTubeItems jsonName="yu-gionatha" /><!-- Code With Gionatha -->

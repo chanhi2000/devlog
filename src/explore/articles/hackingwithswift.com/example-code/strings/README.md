@@ -330,7 +330,7 @@ head:
 ```component VPCard
 {
   "title": "NSRegularExpression: How to match regular expressions in strings",
-  "desc": "The <code>NSRegularExpression</code> class lets you find and replace substrings using regular expressions, which are concise and flexible descriptions of text. For example, if we wanted to pull 'Taylor Swift' out of the string "My name is Taylor Swift", we could write a regular expression that matches the text "My name is " followed by any text, then pass that to the <code>NSRegularExpression</code> class.... ",
+  "desc": "The <code>NSRegularExpression</code> class lets you find and replace substrings using regular expressions, which are concise and flexible descriptions of text. For example, if we wanted to pull 'Taylor Swift' out of the string 'My name is Taylor Swift', we could write a regular expression that matches the text 'My name is' followed by any text, then pass that to the <code>NSRegularExpression</code> class.... ",
   "link": "/explore/articles/hackingwithswift.com/example-code/strings/nsregularexpression-how-to-match-regular-expressions-in-strings.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

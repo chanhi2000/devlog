@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "toptechskills",
+    "name": "Percy Grunwald from TopTechSkills",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_krkArcR_-ncMIPmPyjwZrKndV1P1O54YCzO2tUMo_gyw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jc1J97uwADdu6rnNfPqKt7gxxqwKLsUoTdKE4jd3PYYqVC332oyIphHxoH6fKcSIJr8y8xRcrw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "X4KxpG9F-rg", "title": "Ansible vs Terraform - Provision and configure an EC2 instance (full IaC tutorial with code)" },
+    { "id": "rl8S5QoGvlM", "title": "Ansible Handlers Full Tutorial - Beginner to Pro (examples and full guide)" },
+    { "id": "fXmPZNacitE", "title": "Ansible: Read remote files into variables with the Slurp module (+ alternatives)" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -2610,5 +2610,12 @@
     "topics": ["falco", "kubernetes", "response-engine", "security"],
     "avatar": "https://avatars.githubusercontent.com/u/158502191?v=4",
     "banner": ""
+  }, {
+    "repo": "noperator/sol",
+    "desc": "A de-minifier (formatter, exploder, beautifier) for shell one-liners",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6006772?v=4",
+    "banner": ""
   }
 ]

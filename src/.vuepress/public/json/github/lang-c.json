@@ -1163,10 +1163,10 @@
     "banner": ""
   }, {
     "repo": "valkey-io/valkey",
-    "desc": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+    "desc": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
     "officialSite": "https://valkey.io",
-    "topics": ["cache", "database", "key-value", "key-value-store", "nosql", "redis"],
-    "avatar": "",
+    "topics": ["cache", "database", "key-value", "key-value-store", "nosql", "redis", "valkey", "valkey-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/164458127?v=4",
     "banner": ""
   }, {
     "repo": "buserror/libmui",

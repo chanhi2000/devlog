@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "aarondfrancis",
+    "name": "Aaron Francis",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m_Vj12YF5whRMo9xWkBbfrQp1ewgbKU2wi3sbv9V0U4ndf=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZkdVHmPTt-aImT-r2eqgFPE4Rfr8_E3CbEbIWEDOC19zL7-Zdzji-F6zyNw271ysYrbptApelA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xGxJyDgU8NQ", "title": "Code tip: Don't undo what you haven't done" },
+    { "id": "mFjgQMuF0JY", "title": "Ruby on Rails + SQLite with Stephen Margheim" },
+    { "id": "sjBS1Hk3iRE", "title": "Laravel tip: Higher order collection proxies (and Zevia)" },
+    { "id": "b_H8Z4wtqAs", "title": "Building a Life OS" },
+    { "id": "mcwKko8-N2s", "title": "Building a Life OS" },
+    { "id": "n4ulosX4fW0", "title": "Automating my life (or at least the boring parts)" },
+    { "id": "qf0GqRz-c74", "title": "SQLite's WAL mode is fast fast" },
+    { "id": "pT7e31DMTYY", "title": "Struggling with Laravel + Vite" },
+    { "id": "2M23skx2TK8", "title": "Laravel Dusk: painless browser automation" },
+    { "id": "sf_V8NC58gg", "title": "SQL for fun and profit" },
+    { "id": "0rlATWBNvMw", "title": "DHH discusses SQLite (and Stoicism)" },
+    { "id": "yxAxvFhf8ro", "title": "Laravel adds a new email provider" },
+    { "id": "EjLAaeHSPWY", "title": "Laravel Pennant: first-party feature flags" },
+    { "id": "DTEAN5ADfhs", "title": "Real-time monitoring for Laravel applications" },
+    { "id": "R-Laxph9tQ4", "title": "Offline-first, multiplayer SQLite" },
+    { "id": "sgVpOaJLoG0", "title": "SQLite is not weakly typed!" },
+    { "id": "oSbdNY2n8Qk", "title": "Production SQLite with Turso and libSQL" },
+    { "id": "KYDlqTdJmac", "title": "Migrating from Postgres to SQLite with Kent C. Dodds" },
+    { "id": "pCe4T3urmv8", "title": "Launching High Performance SQLite" },
+    { "id": "G78sN4_KEdU", "title": "Laravel's secret weapon: macros (watch me code)" },
+    { "id": "r3c_qBvAHXA", "title": "What is Laravel Horizon?" },
+    { "id": "oAUbpUcgGx0", "title": "Laravel + Livewire todo app (and so much more)" },
+    { "id": "gRtv-BVkwA4", "title": "Laravel vs React" }
+  ],
+  "playlists": [
+
+  ]
+}

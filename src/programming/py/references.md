@@ -2281,6 +2281,7 @@ head:
 - [Py) 크롤링 BS(select)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-select/)
 - [Py) 크롤링 - BS(table-01)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-table-01/)
 - [Py) 크롤링 BS(find) - 01](https://datadoctorblog.com/2024/09/14/Py-Crawling-BS-find-01/)
+- [Py) 크롤링 BS(find) - 02](https://datadoctorblog.com/2024/09/17/Py-Crawling-BS-find-02/)
 
 ---
 

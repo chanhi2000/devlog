@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "tahazsh",
+    "name": "Taha Shashtari",
+    "profile": "https://yt3.googleusercontent.com/o_mDsdhBtAoqGNnLt8OMdMn1UJ5UnVFZKNsa5Q8zxeu5HlrADhWNkKHng0pWP8B_FboiOsfMxg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Ygu1loU-Aow", "title": "Image Zoom Animation (Like on Medium)" },
+    { "id": "g6NfA8n6aoU", "title": "Image Zoom Animation (React Component)" },
+    { "id": "D9QPeZEpDn4", "title": "Sticky Sidebar that Highlights Sections on Scroll" },
+    { "id": "xqEy1p2sFoM", "title": "Smoothly Animate Elements Based on Cursor Position" },
+    { "id": "_b2XtD3NWmY", "title": "How to Implement Card Shuffling Interaction in JavaScript" },
+    { "id": "5xV6okyfPok", "title": "How to Animate a Tabs Component Using Veloxi" },
+    { "id": "nFeAaNQCi20", "title": "How to Use Veloxi in React Components" },
+    { "id": "n_32IiBm9wY", "title": "Create Any Smooth Interaction You Imagine in JavaScript with Veloxi" },
+    { "id": "XxyU94VtUJY", "title": "Smooth Parallax Scrolling Cards in JS and CSS" },
+    { "id": "sgYo9pMwUlY", "title": "One Line of Code to Make Your UI Alive in Veloxi" }
+  ],
+  "playlists": [
+
+  ]
+}

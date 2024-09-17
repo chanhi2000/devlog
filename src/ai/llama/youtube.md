@@ -34,5 +34,8 @@ head:
 <MyYouTubeItems jsonName="yu-mr.5pm" /><!-- Mr.5pm -->
 <MyYouTubeItems jsonName="yu-aiadvantage" /><!-- The AI Advantage -->
 <MyYouTubeItems jsonName="yu-AIJasonZ" /><!-- AI Jason -->
+<MyYouTubeItems jsonName="yu-tonykipkemboi" /><!-- The How-To Guy -->
+<MyYouTubeItems jsonName="yu-AICodeKing" /><!-- AICodeKing -->
+<MyYouTubeItems jsonName="yu-technovangelist" /><!-- Matt Williams -->
 
 <TagLinks />

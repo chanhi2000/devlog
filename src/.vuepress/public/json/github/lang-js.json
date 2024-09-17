@@ -3553,5 +3553,19 @@
     "topics": ["2d-game", "2d-game-engine", "3d", "3d-game", "3d-game-engine", "c-plus-plus", "game", "game-2d", "game-3d", "game-development", "game-engine", "gamedev", "gamemaker", "gdevelop", "hacktoberfest", "html5", "html5-game-engine", "javascript", "multiplayer", "open-source"],
     "avatar": "https://avatars.githubusercontent.com/u/1280130?v=4",
     "banner": ""
+  }, {
+    "repo": "zlwaterfield/scramble",
+    "desc": "Open-Source Grammarly Alternative",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6392501?v=4",
+    "banner": ""
+  }, {
+    "repo": "e18e/e18e",
+    "desc": "",
+    "officialSite": "https://e18e.dev",
+    "topics": ["ecosystem", "performance"],
+    "avatar": "https://avatars.githubusercontent.com/u/166689785?v=4",
+    "banner": ""
   }
 ]

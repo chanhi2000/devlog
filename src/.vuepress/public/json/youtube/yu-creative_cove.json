@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "creative_cove",
+    "name": "Creative Cove",
+    "profile": "https://yt3.googleusercontent.com/5M9y9L_tspqgT3ALrB0jHGWlLOsiBYagy6fzueC14AmlJZ-oyKZ8cyMrUnmEaYxAN4aGFaxJ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YlWRzQDVWYORqWEGf3MJGzUjjiHdCbKwdKXwsXRHmMcwawO-fhuJrhw0LiKT1EdMvWtm4vYtKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xfDxwkykrXg", "title": "Organize Your Closet with Notion - Build a Wardrobe Planner" },
+    { "id": "r0MQochYnSM", "title": "Notion Charts Tutorial & Walkthrough: Getting Started" },
+    { "id": "lzphuDzX-rs", "title": "Build an Advanced Habit Tracker with Charts & Statistics in Notion 📊" },
+    { "id": "NnmwajyUdpc", "title": "Notion's NEW Suggested Edits Feature - Full Guide & Walkthrough" },
+    { "id": "d82sOZMgO8s", "title": "How To Build A Weekly Planner In Notion (Easy Tutorial)" },
+    { "id": "wNb9PsJScJk", "title": "Learn Notion In 60 Seconds" },
+    { "id": "sNgaIdIamWc", "title": "NEW Notion AI Update: Everything You Need To Know!" },
+    { "id": "cyAmPdL6O8A", "title": "The BEST Finance Tracker in Notion (budget, expenses, debt tracker) - Notion Template Tour" },
+    { "id": "5RUeo7s85e0", "title": "How To Merge Notion Databases (Easy & Fast Method)" },
+    { "id": "xZq-IcxfkxM", "title": "How to Add a Streak Counter to Notion - Easy Notion Tutorial" },
+    { "id": "Cd1Qn0boDn4", "title": "How to Round Numbers in Notion Formulas (Easy Method)" },
+    { "id": "TKPvgSGe-Ko", "title": "14 Notion Features You Probably Didn’t Know" },
+    { "id": "n4FuvdqbGxs", "title": "6 Essential Tips For Digital Organization In Notion" },
+    { "id": "cX-IKaiL46U", "title": "Build A Zettelkasten For Note-Taking In Notion From Scratch" },
+    { "id": "6XAWUmr9Ic0", "title": "The BEST Time Blocking Setups In Notion (2 Methods)" },
+    { "id": "_1ZOVpiisws", "title": "Eat The Frog Productivity Method In Notion (Achieve More!) 🐸" },
+    { "id": "aEtUX-ez01k", "title": "Build a Notion To-do List with Progress Bar & Stats (+ Template)" },
+    { "id": "T_Jk8C7PT_g", "title": "Add Time Tracking To Your Notion To-Do List (+ Template)" }    
+  ],
+  "playlists": [
+
+  ]
+}

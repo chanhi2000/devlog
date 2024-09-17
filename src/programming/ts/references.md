@@ -630,4 +630,10 @@ head:
 
 ---
 
+## hustle-dev blog
+
+- [TypeScript 5.6 번역](https://hustle-dev.github.io/posts/translate-ts-5-6)
+
+---
+
 <TagLinks />

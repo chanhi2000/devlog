@@ -216,5 +216,6 @@ head:
 <MyYouTubeItems jsonName="yu-TimCarambat" /><!-- Tim Carambat -->
 <MyYouTubeItems jsonName="yu-effect-ts" /><!-- Effect | TypeScript at Scale -->
 <MyYouTubeItems jsonName="yu-NizzyABI" /><!-- Nizzy -->
+<MyYouTubeItems jsonName="yu-mduniv" /><!-- 마플개발대학 -->
 
 <TagLinks />

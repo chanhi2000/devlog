@@ -66,5 +66,8 @@ head:
 <MyYouTubeItems jsonName="yu-vesslai" /><!-- VESSL AI -->
 <MyYouTubeItems jsonName="yu-V7labs" /><!-- V7 -->
 <MyYouTubeItems jsonName="yu-Confluent" /><!-- Confluent -->
+<MyYouTubeItems jsonName="yu-ImcommIT" /><!-- 임커밋 -->
+<MyYouTubeItems jsonName="yu-MicrosoftResearch" /><!-- Microsoft Research -->
+<MyYouTubeItems jsonName="yu-technovangelist" /><!-- Matt Williams -->
 
 <TagLinks/>

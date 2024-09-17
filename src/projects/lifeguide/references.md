@@ -54,6 +54,7 @@ tag:
 - [`@5jl5` / 광복절 기념식 및 윤정권의 미래에 대한 GPT4o 대답](https://brunch.co.kr/@@5jl5/126)
 - [`@gpO` / 우리는 그릇된 가치를 강요 받아 왔다.](https://brunch.co.kr/@@gpO/110)
 - [`@2weV` / 한 끝 차이인, 원망하는 마음과 감사하는 마음.](https://brunch.co.kr/@@2weV/548)
+- [`@2weV` / 가족과 내가 중심이 되는 삶](https://brunch.co.kr/@@2weV/557)
 
 <!-- END: brunch.co.kr -->
 

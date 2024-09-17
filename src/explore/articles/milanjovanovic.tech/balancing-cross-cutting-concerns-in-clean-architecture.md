@@ -51,61 +51,41 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_073.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_073.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-Cross-cutting concerns are software aspects that affect the entire application.
-These are your common application-level functionalities that span several layers and tiers.
-Cross-cutting concerns should be centralized in one location.
-This prevents code duplication and tight coupling between components.
+Cross-cutting concerns are software aspects that affect the entire application. These are your common application-level functionalities that span several layers and tiers. Cross-cutting concerns should be centralized in one location. This prevents code duplication and tight coupling between components.
 
 A few examples of cross-cutting concerns are:
 
 - Authentication & Authorization
-<li>Logging and tracing
-<li>Exception handling
-<li>Validation
-<li>Caching
+- Logging and tracing
+- Exception handling
+- Validation
+- Caching
 
 In today's newsletter, I'll show you how to integrate cross-cutting concerns in Clean Architecture.
 
 ---
 
-## cross-cutting-concerns-in-clean-architecture"><a href="#cross-cutting-concerns-in-clean-architecture">Cross-Cutting Concerns in Clean Architecture
+## Cross-Cutting Concerns in Clean Architecture
 
-In Clean Architecture, <a href="https://en.wikipedia.org/wiki/Cross-cutting_concern">cross-cutting concerns</a>
-play an essential role in ensuring the maintainability and scalability of your system.
-Ideally, these concerns should be handled separately from the core business logic.
-This aligns with Clean Architecture's principles, emphasizing the decoupling of concerns and modularity.
-Your core business rules remain uncluttered, and the architecture stays clean and adaptable.
+In Clean Architecture, [<FontIcon icon="fa-brands fa-wikipedia-w"/>cross-cutting concerns](https://en.wikipedia.org/wiki/Cross-cutting_concern) play an essential role in ensuring the maintainability and scalability of your system. Ideally, these concerns should be handled separately from the core business logic. This aligns with Clean Architecture's principles, emphasizing the decoupling of concerns and modularity. Your core business rules remain uncluttered, and the architecture stays clean and adaptable.
 
-Ideally, you want to implement cross-cutting concerns in the Infrastructure layer.
-You can use ASP.NET Core middleware, <a href="decorator-pattern-in-asp-net-core">decorators</a>, or MediatR pipeline behaviors.
-Whichever approach you decide to use, the guiding idea remains the same.
+Ideally, you want to implement cross-cutting concerns in the Infrastructure layer. You can use ASP.NET Core middleware, [decorators](/explore/articles/milanjovanovic.tech/decorator-pattern-in-asp-net-core.md), or MediatR pipeline behaviors. Whichever approach you decide to use, the guiding idea remains the same.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272673%27%20height=%271947%27/%3e"><img alt="Cross-cutting concerns in Clean Architecture" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Cross-cutting concerns in Clean Architecture" srcSet="/blogs/mnw_073/clean_architecture_cross_cutting_concerns.png?imwidth=3840 1x" src="/blogs/mnw_073/clean_architecture_cross_cutting_concerns.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Cross-cutting concerns in Clean Architecture](https://milanjovanovic.tech/blogs/mnw_073/clean_architecture_cross_cutting_concerns.png?imwidth=3840)
+
 Let's see how to implement logging, validation, and caching as cross-cutting concerns.
 
 ---
 
-## cross-cutting-concern-1---logging"><a href="#cross-cutting-concern-1---logging">Cross-Cutting Concern #1 - Logging
+## Cross-Cutting Concern #1 - Logging
 
-Logging is a fundamental aspect of software development, allowing you to look into an application's behavior.
-It's vital for debugging, monitoring application health, and tracking user activities and system anomalies.
-In the context of Clean Architecture, logging must be implemented in a way that maintains the separation of concerns.
+Logging is a fundamental aspect of software development, allowing you to look into an application's behavior. It's vital for debugging, monitoring application health, and tracking user activities and system anomalies. In the context of Clean Architecture, logging must be implemented in a way that maintains the separation of concerns.
 
-An elegant way to achieve this is with <a href="cqrs-pattern-with-mediatr">MediatR's</a> `IPipelineBehavior`.
-By encapsulating the logging logic inside a pipeline behavior, we ensure that logging is treated as a distinct concern, separate from business logic.
-This approach enables us to capture detailed information about requests flowing through the application.
+An elegant way to achieve this is with [MediatR's](/explore/articles/milanjovanovic.tech/cqrs-pattern-with-mediatr.md) `IPipelineBehavior`. By encapsulating the logging logic inside a pipeline behavior, we ensure that logging is treated as a distinct concern, separate from business logic. This approach enables us to capture detailed information about requests flowing through the application.
 
-Effective logging should be consistent, context-rich, and non-intrusive.
-Using <a href="5-serilog-best-practices-for-better-structured-logging">Serilog's</a> structured logging
-capabilities, we can create logs that are not only informative but also easily queryable.
-This is essential for understanding the state of the application at any given moment.
+Effective logging should be consistent, context-rich, and non-intrusive. Using [Serilog's](/explore/articles/milanjovanovic.tech/5-serilog-best-practices-for-better-structured-logging.md) structured logging capabilities, we can create logs that are not only informative but also easily queryable. This is essential for understanding the state of the application at any given moment.
 
-When done correctly, <a href="structured-logging-in-asp-net-core-with-serilog">structured logging</a>
-provides invaluable insights into your application without cluttering the core logic.
-It's a balance of granularity and clarity, ensuring that your logs are a helpful tool rather than a source of noise.
+When done correctly, [structured logging](/explore/articles/milanjovanovic.tech/structured-logging-in-asp-net-core-with-serilog.md) provides invaluable insights into your application without cluttering the core logic. It's a balance of granularity and clarity, ensuring that your logs are a helpful tool rather than a source of noise.
 
 ```cs
 using Serilog.Context;
@@ -148,32 +128,26 @@ internal sealed class RequestLoggingPipelineBehavior<TRequest, TResponse>(
         return result;
     }
 }
-
 ```
 
 ---
 
-## cross-cutting-concern-2---validation"><a href="#cross-cutting-concern-2---validation">Cross-Cutting Concern #2 - Validation
+## Cross-Cutting Concern #2 - Validation
 
-Validation is a critical cross-cutting concern in software engineering.
-It serves as the first line of defense against incorrect data entering your system.
-Validation guards the application against inconsistent data states and potential security vulnerabilities.
+Validation is a critical cross-cutting concern in software engineering. It serves as the first line of defense against incorrect data entering your system. Validation guards the application against inconsistent data states and potential security vulnerabilities.
 
-In the example below, I'm creating a <a href="cqrs-validation-with-mediatr-pipeline-and-fluentvalidation">validation pipeline behavior</a>.
-This setup allows for a clean separation of validation logic from business logic.
-The pipeline behavior ensures that each request is validated before it reaches the core processing logic.
+In the example below, I'm creating a [validation pipeline behavior](/explore/articles/milanjovanovic.tech/cqrs-validation-with-mediatr-pipeline-and-fluentvalidation.md). This setup allows for a clean separation of validation logic from business logic. The pipeline behavior ensures that each request is validated before it reaches the core processing logic.
 
 In approaching validation, it's crucial to distinguish between two types:
 
 - Input validation
-<li>Business rule validation
+- Business rule validation
 
 Input validation checks for the correctness and format of the data (like string length, number ranges, and date formats), ensuring it meets the basic criteria before processing.
 
 On the other hand, business rule validation is more about ensuring that the data adheres to your domain's specific rules and logic.
 
-Effective validation practices significantly contribute to the resilience and reliability of an application.
-By enforcing validation rules, you can maintain a high data quality standard and ensure a better user experience.
+Effective validation practices significantly contribute to the resilience and reliability of an application. By enforcing validation rules, you can maintain a high data quality standard and ensure a better user experience.
 
 ```cs
 internal sealed class ValidationPipelineBehavior<TRequest, TResponse>(
@@ -216,28 +190,23 @@ internal sealed class ValidationPipelineBehavior<TRequest, TResponse>(
         return validationFailures;
     }
 }
-
 ```
 
 ---
 
-## cross-cutting-concern-3-caching"><a href="#cross-cutting-concern-3-caching">Cross-Cutting Concern #3: Caching
+## Cross-Cutting Concern #3: Caching
 
-Caching is an essential cross-cutting concern in software development.
-It's primarily aimed at enhancing performance and scalability.
-Caching involves temporarily storing data in a fast-access layer.
-This reduces the need to fetch or calculate the same information repeatedly.
+Caching is an essential cross-cutting concern in software development. It's primarily aimed at enhancing performance and scalability. Caching involves temporarily storing data in a fast-access layer. This reduces the need to fetch or calculate the same information repeatedly.
 
-The caching pipeline behavior, which you see below, implements the <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside">Cache Aside pattern.</a>
-This pattern involves checking the cache before processing the request and updating the cache with new data as needed.
-It's a popular caching strategy due to its simplicity and effectiveness.
-Here's a <a href="https://youtu.be/LOEYZRE72wE">video tutorial</a> if you want to see how I implemented this.
+The caching pipeline behavior, which you see below, implements the [<FontIcon icon="fa-brands fa-microsoft"/>Cache Aside pattern.](https://learn.microsoft.com/en-us/azure/architecture/patterns/cache-aside) This pattern involves checking the cache before processing the request and updating the cache with new data as needed. It's a popular caching strategy due to its simplicity and effectiveness. Here's a [<FontIcon icon="fa-brands fa-youtube"/>video tutorial](https://youtu.be/LOEYZRE72wE) if you want to see how I implemented this.
+
+<VidStack src="youtube/LOEYZRE72wE" />
 
 When implementing caching, it's crucial to consider:
 
 - **What to Cache:** Identify data that is expensive to compute or retrieve and stable enough to be cached.
-<li>**Cache Invalidations:** Determine when and how cached data should be invalidated.
-<li>**Cache Configuration:** Configure cache settings like expiration and size appropriately.
+- **Cache Invalidations:** Determine when and how cached data should be invalidated.
+- **Cache Configuration:** Configure cache settings like expiration and size appropriately.
 
 Effective caching improves response times and reduces the load on your system, making it a critical strategy for building scalable .NET applications.
 
@@ -282,29 +251,21 @@ internal sealed class QueryCachingPipelineBehavior<TRequest, TResponse>(
         return result;
     }
 }
-
 ```
 
 ---
 
-## what-to-do-next"><a href="#what-to-do-next">What To Do Next
+## What To Do Next
 
-Managing cross-cutting concerns such as logging, caching, validation, and exception handling is not just about technical implementation.
-It's about aligning these aspects with the core principles of <a href="clean-architecture-and-the-benefits-of-structured-software-design">Clean Architecture.</a>
-By adopting the decoupling techniques we discussed, you can ensure that your .NET projects are robust and maintainable.
+Managing cross-cutting concerns such as logging, caching, validation, and exception handling is not just about technical implementation. It's about aligning these aspects with the core principles of [Clean Architecture.](/explore/articles/milanjovanovic.tech/clean-architecture-and-the-benefits-of-structured-software-design.md) By adopting the decoupling techniques we discussed, you can ensure that your .NET projects are robust and maintainable.
 
-Each step you take towards refining your handling of cross-cutting concerns is a step towards a better software architecture.
-I encourage you to experiment with these strategies in your own .NET projects.
-If you want a structured guide covering these aspects in-depth, take a look at <a href="/pragmatic-clean-architecture">Pragmatic Clean Architecture.</a>
+Each step you take towards refining your handling of cross-cutting concerns is a step towards a better software architecture. I encourage you to experiment with these strategies in your own .NET projects. If you want a structured guide covering these aspects in-depth, take a look at [Pragmatic Clean Architecture.](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture.md)
 
 Remember, the beauty of software development lies in the continuous evolution and relentless pursuit of improvement.
 
 Hope this was helpful.
 
 See you next week.
-
-<hr></article>
--->
 
 ---
 

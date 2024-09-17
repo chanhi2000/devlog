@@ -347,6 +347,8 @@ tag:
 - [`jq`](https://johngrib.github.io/wiki/cmd/jq/)
 - [`tail` 명령어](https://johngrib.github.io/wiki/cmd/tail/)
 - [`tr` 명령어](https://johngrib.github.io/wiki/cmd/tr/)
+- [`bc`](https://johngrib.github.io/wiki/cmd/bc/)
+- [Bash Parameters](https://johngrib.github.io/wiki/cmd/bash/parameters/)
 
 <!-- END: johngrib.github.io -->
 

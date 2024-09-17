@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "technovangelist",
+    "name": "Matt Williams",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mXVAnytfFhGKFrCuySGeQMMXlclfEdex9Yxx3PVKV9rMI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nL4YeIUPDZribINORH0ppORy14dwI5K9LhoIQ8OFe_YPaR-LXRG2QRyJPOw66BqiHq7SXWL6EA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "e3j1a2PKw1k", "title": "Installing Ollama - #2 of the Free Ollama Course" },
+    { "id": "hb5iwDpsPwc", "title": "Another Function Calling video? Yup..." },
+    { "id": "_fQTOMdqjfY", "title": "Ollama Course - 3 - How to use the Ollama.com site to Find Models" },
+    { "id": "itZ_x_nDBxU", "title": "Docker Networking Made Simple: Connecting Containers Like a Pro" },
+    { "id": "luH9j_eOEi4", "title": "The Ollama Course - Using the CLI" },
+    { "id": "jOmfpu41H5w", "title": "Can the Ollama API be slower than the CLI" },
+    { "id": "8r9Kit3lKXE", "title": "Comparing Quantizations of the Same Model - Ollama Course" },
+    { "id": "QfFRNF5AhME", "title": "How to tweak your model in Ollama or LMStudio or anywhere else" },
+    { "id": "tLcy7cREHyw", "title": "AI News for Tuesday August 27" },
+    { "id": "CDmY-BsAhPs", "title": "Help me test my connection speed" },
+    { "id": "1XCEZW_Twr0", "title": "An Introduction to RAG - Part of the Free Ollama Course" },
+    { "id": "sjohv4cf1fs", "title": "Just a quick test of streaming quality." },
+    { "id": "3UQ7GY9hNwk", "title": "Fine Tune a model with MLX for Ollama" },
+    { "id": "m4sfPCI0FWQ", "title": "LobeChat for Ollama.... any good?" },
+    { "id": "IdPdwQdM9lA", "title": "How does function calling with tools really work?" },
+    { "id": "9KEUFe4KQAI", "title": "Introduction to the Ollama Course" },
+    { "id": "3wKroLvM_z4", "title": "SuperWhisper is my Scriptwriting Super Power" },
+    { "id": "2Pm93agyxx4", "title": "The Ollama Course: Intro to Ollama" },
+    { "id": "fMPqyJP-GK4", "title": "Ryan and Matt have a chat" },
+    { "id": "jLVl5V8roMU", "title": "Have You Picked the Wrong AI Agent Framework?" },
+    { "id": "ctcRcTp-3tM", "title": "I just put out a video last night. Lets talk about that or anything else" },
+    { "id": "1DRS5KaLe3k", "title": "how to reliably get json out of ollama. Just a rough demo for a discord user" },
+    { "id": "5xb6uWLtCsI", "title": "What else is on the AI mind" },
+    { "id": "7l4M_JCboFs", "title": "Well that was Interesting" },
+    { "id": "OCXuYm6LKgE", "title": "My favorite way to run Ollama: Gollama" },
+    { "id": "4DgVgDsgQxI", "title": "Looking at the newer features of MSTY" },
+    { "id": "1TwilLRvriM", "title": "Two small fixes that strengthen Ollama's lead in Desktop AI" },
+    { "id": "0qlyCPvmH2Y", "title": "Unlock AI with Fabric Patterns" },
+    { "id": "RvBbbNhOmrE", "title": "Does parallel embedding work in Ollama yet?" },
+    { "id": "IvLTlDy9G8c", "title": "This Chrome Extension Surprised Me" },
+    { "id": "I2NA50AFKrs", "title": "Popularity doesn't always mean Great, But Pretty Good is Possible" },
+    { "id": "TkxmOC4HBSg", "title": "Better Searches With Local AI" },
+    { "id": "AfkFuDmdbBE", "title": "Any questions? If not I really need to get up and running on agents" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -317,6 +317,7 @@ tag:
 - [`@2weV` / Why 실리콘밸리 챌린지?!](https://brunch.co.kr/@@2weV/553)
 - [`@2weV` / 커리어에서 영어는 Multiple을 결정한다](https://brunch.co.kr/@@2weV/554)
 - [`@2weV` / 커리어와 삶의 변곡점은 '관점의 변화'에서 시작된다.](https://brunch.co.kr/@@2weV/555)
+- [`@2weV` / 질문 잘하는 법이 중요한 시대에서의 우리나라 교육](https://brunch.co.kr/@@2weV/556)
 
 <!-- END: brunch.co.kr -->
 

@@ -31,5 +31,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-ClearCode" /><!-- Clear Code -->
+<MyYouTubeItems jsonName="yu-gamefromscratch" /><!-- Gamefromscratch -->
 
 <TagLinks/>

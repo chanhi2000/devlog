@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "jonowilliams26",
+    "name": "Jono Williams",
+    "profile": "https://yt3.googleusercontent.com/2y5HiJKD-pUGhmifKRVmVnwQtilMhVCs4dR_WCApJefaGV6077CRfzWfaJ0fW2jDHaxzP974WQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "rCX4teVBg5k", "title": "Avoid nesting by not using the \"else\" keyword in your code" },
+    { "id": "E9-4uaoncVY", "title": "Strategy Pattern, The Best Software Design Pattern" },
+    { "id": "aBOrVRKK3fA", "title": "Strategy and Factory Pattern, The Best Software Design Pattern Combo" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -124,5 +124,7 @@ head:
 <MyYouTubeItems jsonName="yu-theurbanpenguin" /><!-- theurbanpenguin -->
 <MyYouTubeItems jsonName="yu-DanielPersson" /><!-- Daniel Persson -->
 <MyYouTubeItems jsonName="yu-i12bretro" /><!-- i12bretro -->
+<MyYouTubeItems jsonName="yu-x.kernel" /><!-- xKernel -->
+<MyYouTubeItems jsonName="yu-mCoding" /><!-- mCoding -->
 
 <TagLinks />
