@@ -34,5 +34,12 @@
     "topics": ["kubernetes", "mesdokubernetes", "oke", "terraform"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "tungbq/devops-basics",
+    "desc": "🚀 Practical and document place for DevOps toolchain",
+    "officialSite": "https://tungbq.github.io/devops-basics/",
+    "topics": ["ansible", "aws", "cd", "ci", "ci-cd", "cloud", "devops", "devops-basic", "devops-project", "devops-tool", "devops-tools", "docker", "elk", "helm", "iac", "jenkins", "k8s", "monitoring", "python", "terraform"],
+    "avatar": "https://avatars.githubusercontent.com/u/85242618?v=4",
+    "banner": ""
   }
 ]

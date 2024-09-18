@@ -3567,5 +3567,12 @@
     "topics": ["ecosystem", "performance"],
     "avatar": "https://avatars.githubusercontent.com/u/166689785?v=4",
     "banner": ""
+  }, {
+    "repo": "rabbitmq/rabbitmq-server",
+    "desc": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+    "officialSite": "https://www.rabbitmq.com/",
+    "topics": ["amqp", "amqp-0-9-1", "amqp1-0", "message-broker", "messaging", "mqtt", "rabbitmq", "stomp", "streaming", "streams"],
+    "avatar": "https://avatars.githubusercontent.com/u/96669?v=4",
+    "banner": ""
   }
 ]

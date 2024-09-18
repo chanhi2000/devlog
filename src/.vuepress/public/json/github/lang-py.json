@@ -7935,5 +7935,26 @@
     "topics": ["etl-pipeline", "llm-platform", "unstructured-data"],
     "avatar": "https://avatars.githubusercontent.com/u/89070934?v=4",
     "banner": ""
+  }, {
+    "repo": "rspeer/wordfreq",
+    "desc": "Access a database of word frequencies, in various natural languages.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/234227?v=4",
+    "banner": ""
+  }, {
+    "repo": "ictnlp/LLaMA-Omni",
+    "desc": "LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.",
+    "officialSite": "https://arxiv.org/abs/2409.06666",
+    "topics": ["large-language-models", "multimodal-large-language-models", "speech-interaction", "speech-language-model", "speech-to-speech", "speech-to-text"],
+    "avatar": "https://avatars.githubusercontent.com/u/45630465?v=4",
+    "banner": ""
+  }, {
+    "repo": "nteract/papermill",
+    "desc": "📚 Parameterize, execute, and analyze notebooks",
+    "officialSite": "http://papermill.readthedocs.io/en/latest/",
+    "topics": ["julia", "jupyter", "notebook", "notebook-generator", "notebooks", "nteract", "pipeline", "publishing", "python", "r", "scala"],
+    "avatar": "https://avatars.githubusercontent.com/u/12401040?v=4",
+    "banner": ""
   }
 ]
