@@ -2393,7 +2393,7 @@
     "desc": "We write your reusable computer vision tools. 💜",
     "officialSite": "https://supervision.roboflow.com",
     "topics": ["classification", "coco", "computer-vision", "deep-learning", "image-processing", "instance-segmentation", "low-code", "machine-learning", "metrics", "object-detection", "oriented-bounding-box", "pascal-voc", "python", "pytorch", "tensorflow", "tracking", "video-processing", "yolo"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
     "banner": ""
   }, {
     "repo": "normal-computing/outlines",
@@ -2900,7 +2900,7 @@
     "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
     "officialSite": "https://localstack.cloud",
     "topics": ["aws", "cloud", "continuous-integration", "developer-tools", "localstack", "python", "testing"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/28732122?v=4",
     "banner": ""
   }, {
     "repo": "facebookresearch/detectron2",
@@ -7955,6 +7955,20 @@
     "officialSite": "http://papermill.readthedocs.io/en/latest/",
     "topics": ["julia", "jupyter", "notebook", "notebook-generator", "notebooks", "nteract", "pipeline", "publishing", "python", "r", "scala"],
     "avatar": "https://avatars.githubusercontent.com/u/12401040?v=4",
+    "banner": ""
+  }, {
+    "repo": "pytorch/torchtitan",
+    "desc": "A native PyTorch Library for large model training",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/21003710?v=4",
+    "banner": ""
+  }, {
+    "repo": "aws/aws-cli",
+    "desc": "Universal Command Line Interface for Amazon Web Services",
+    "officialSite": "",
+    "topics": ["aws", "aws-cli", "cloud", "cloud-management"],
+    "avatar": "https://avatars.githubusercontent.com/u/2232217?v=4",
     "banner": ""
   }
 ]

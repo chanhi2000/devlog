@@ -563,6 +563,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Use the FARM Stack to Develop Full Stack Apps",
+  "desc": "The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...",
+  "link": "/explore/articles/freecodecamp.org/use-the-farm-stack-to-develop-full-stack-apps.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -161,6 +161,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn How To Secure API Servers", 
+  "desc": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
+  "link": "/explore/articles/freecodecamp.org/learn-how-to-secure-api-servers.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

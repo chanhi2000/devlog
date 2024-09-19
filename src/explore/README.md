@@ -37,6 +37,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "Flipper Lab",
+  "desc": "Web platform for your Flipper",
+  "link": "https://lab.flipper.net/apps",
+  "logo": "https://lab.flipper.net/icons/icon.svg",
+  "background": "rgba(255,130,0,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Can I Use?",
   "desc": "Can I use… Support tables for HTML5, CSS3, etc",
   "link": "https://caniuse.com/",

@@ -222,6 +222,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use CSS to Improve Web Accessibility",
+  "desc": "Did you know that CSS can play a significant role in web accessibility? While CSS primarily handles the visual presentation of a webpage, when you use it properly it can enhance the user’s experience and improve accessibility. In this article, I'll s...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-css-to-improve-web-accessibility.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

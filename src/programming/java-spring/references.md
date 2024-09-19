@@ -159,6 +159,7 @@ head:
 - [`@qkrtkdwns3410` / Lombok 과 Spring Data 에서 생기는 'org.springframework.data.mapping.MappingException' exception 문제 해결](https://velog.io/@qkrtkdwns3410/Lombok-%EA%B3%BC-Spring-Data-%EC%97%90%EC%84%9C-%EC%83%9D%EA%B8%B0%EB%8A%94-org.springframework.data.mapping.MappingException-exception-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
 - [`@joshuara7235` / 2024년 인프콘 후기 - #4 클린 스프링](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-4-%ED%81%B4%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81)
 - [`@qkrtkdwns3410` / Spring boot 에서 테스트코드 `@DataJpaTest` 와 `@DataRedisTest` java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class](https://velog.io/@qkrtkdwns3410/Spring-boot-%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-DataJpaTest-%EC%99%80-DataRedisTest-java.lang.IllegalStateException-Configuration-error-found-multiple-declarations-of-BootstrapWith-for-test-class)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 4. 인터페이스 분리 원칙 ( Interface Segregration Principle )](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-4.-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99-Interface-Segregration-Principle)
 
 <!-- END: velog.io -->
 
@@ -262,6 +263,7 @@ head:
   - [\[1년 후 마실가실\] JWT와 로그아웃(2) `RefreshToken`](https://hj0216.tistory.com/m/945)
   - [\[1년 후 마실가실\] JWT와 로그아웃(3) 로그아웃](https://hj0216.tistory.com/m/947)
   - [\[1년 후 마실가실\] Custom Error 처리](https://hj0216.tistory.com/m/948)
+  - [\[1년 후 마실가실\] PostMan과 Controller Test Code](https://hj0216.tistory.com/m/950)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -343,6 +345,7 @@ head:
   - [05.01. 데이터베이스 준비하기 - 1](https://ysedeveloper.tistory.com/m/entry/0501-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-1)
   - [05.02. 데이터베이스 준비하기 - 2](https://ysedeveloper.tistory.com/m/entry/0502-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-2)
   - [06.01. 책 입력 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0601-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [06.02. 책 입력 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0602-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -379,6 +382,7 @@ head:
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter04\] : SOLID, 의존성, SOLID & 객체지향, 디자인 패턴](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter04-SOLID-%EC%9D%98%EC%A1%B4%EC%84%B1-SOLID-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter05\] : 순환참조, 순환참조 문제, 순환참조 해결법](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter05-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EB%AC%B8%EC%A0%9C-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%ED%95%B4%EA%B2%B0%EB%B2%95)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter06\] : 스마트 UI, 트랜잭션 스크립트, 레이어드 아키텍처, 서비스 컴포넌트는 비즈니스 로직이 아니다, 애플리케이션의 본질](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter06-%EC%8A%A4%EB%A7%88%ED%8A%B8-UI-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%8A%94-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EB%B3%B8%EC%A7%88)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter07\] : 서비스란 무엇인가?, 애플리케이션/도메인 서비스는 어떻게 다른가?, 서비스의 본질은 ?](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter07-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%B8%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%B3%B8%EC%A7%88%EC%9D%80)
   <!-- END: jakpentest -->
 - [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
   - [\[Spring Scheduler\] 서버 이중화 또는 증설 시 `ShedLock`을 사용하여 스케쥴러 중복 실행 방지하기](https://colabear754.tistory.com/m/222)
@@ -629,6 +633,9 @@ head:
 ### 블로그 이름 뭐하지??
 
 - [\[Spring MVC\] Filter에서 파라미터 처리하는 방법](https://potwings.tistory.com/m/66)
+- [Spring Boot main 2배 버그 팝니다@@@@@](https://potwings.tistory.com/m/68)
+
+<!-- END: potwings -->
 
 ### e-una
 

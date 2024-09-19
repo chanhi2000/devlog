@@ -377,6 +377,12 @@ head:
 
 ---
 
+## 숲속얘기의 조용한 카페 & XRCLOUD
+
+- [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
+
+---
+
 ## pdf(s)
 
 <PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />

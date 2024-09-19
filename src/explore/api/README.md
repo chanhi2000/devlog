@@ -434,6 +434,16 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://nodejstoolbox.com/apple-touch-icon.png"
   preview="https://nodejstoolbox.com/social-image.png"/>
 
+```component VPCard
+{
+  "title": "Numscript Playground - Formance",
+  "desc": "Numscript Playground",
+  "link": "https://playground.numscript.org/",
+  "logo": "https://playground.numscript.org/assets/favicon-xcf1rcG6.ico",
+  "background": "rgba(1,40,45,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

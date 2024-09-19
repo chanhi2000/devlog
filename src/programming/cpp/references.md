@@ -261,6 +261,7 @@ head:
 - [\[Q&A\] 색상 값을 일정 크기만큼 줄이는 코드에 대해서](https://m.blog.naver.com/tipsware/223583846518)
 - [\[Q&A\] 문자열 패턴에 사용된 조건문 줄이기](https://m.blog.naver.com/tipsware/223584216503)
 - [\[Q&A\] 리스트 박스에 추가된 문자열을 아스키 파일로 저장할 때](https://m.blog.naver.com/tipsware/223584234599)
+- [클립보드에 저장된 이미지 파일로 저장하기 - Step 5](https://m.blog.naver.com/tipsware/223586044470)
 
 <!-- END: tipsware.blog.naver.com -->
 

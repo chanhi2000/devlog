@@ -529,6 +529,12 @@ tag:
 
 ---
 
+## Neil Madden
+
+- [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
+
+---
+
 ## Project(s)
 
 ```component VPCard

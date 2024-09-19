@@ -303,6 +303,7 @@ head:
 - [`@2hV3` / 실전에서 통하는 진짜 프로덕트 디자인? - 콜로소: 문제 해결 중심의 UX/UI 실전 가이드](https://brunch.co.kr/@@2hV3/246)
 - [`@2fEJ` / \[UX 원칙#11\]컬러 적용 16가지 사례](https://brunch.co.kr/@@2fEJ/1478)
 - [`@3L0s` / DX 실행: 유통방식의 디지털화 사례 - 디지털 혁신-20](https://brunch.co.kr/@@3L0s/124)
+- [`@2fEJ` / \[UX 원칙#12\] 드롭다운 메뉴 사용 UX 원칙](https://brunch.co.kr/@@2fEJ/1479)
 
 <!-- END: brunch.co.kr -->
 

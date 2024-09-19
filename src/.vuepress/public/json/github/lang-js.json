@@ -3574,5 +3574,12 @@
     "topics": ["amqp", "amqp-0-9-1", "amqp1-0", "message-broker", "messaging", "mqtt", "rabbitmq", "stomp", "streaming", "streams"],
     "avatar": "https://avatars.githubusercontent.com/u/96669?v=4",
     "banner": ""
+  }, {
+    "repo": "Harvie/cnc-simulator",
+    "desc": "In-browser g-code simulator",
+    "officialSite": "https://harvie.github.io/cnc-simulator/",
+    "topics": ["3-axis", "bcnc", "blendercam", "cam", "camotics", "cnc", "cncwebtools", "freecad", "g-code", "gcode", "grbl", "mill", "simulator", "toolpath"],
+    "avatar": "https://avatars.githubusercontent.com/u/276504?v=4",
+    "banner": ""
   }
 ]

@@ -2550,5 +2550,12 @@
     "topics": ["async", "code-editor", "collaborative-editing", "distributed-systems", "operational-transformation", "react", "rust", "self-hosted", "tokio", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/7550632?v=4",
     "banner": ""
+  }, {
+    "repo": "vaktibabat/ecurvechat",
+    "desc": "An Elliptic-Curve Based Secure Chat, written using Rust and Protobuf!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/65859125?v=4",
+    "banner": ""
   }
 ]

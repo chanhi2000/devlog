@@ -318,6 +318,8 @@ tag:
 - [`@2weV` / 커리어에서 영어는 Multiple을 결정한다](https://brunch.co.kr/@@2weV/554)
 - [`@2weV` / 커리어와 삶의 변곡점은 '관점의 변화'에서 시작된다.](https://brunch.co.kr/@@2weV/555)
 - [`@2weV` / 질문 잘하는 법이 중요한 시대에서의 우리나라 교육](https://brunch.co.kr/@@2weV/556)
+- [`@2xm` / 14.5 지속적 학습과 성장 - 산책 중 떠오른 생각들](https://brunch.co.kr/@@2xm/85)
+- [`@ZVA` / AWS가 인텔 파운드리에 구원투수가 될 것인가](https://brunch.co.kr/@@ZVA/728)
 
 <!-- END: brunch.co.kr -->
 
@@ -642,7 +644,7 @@ tag:
   <!-- END: sjquant -->
 - [`pronist` / hELLO.](https://pronist.tistory.com/m/)
   - [당신은 성장하고 계신가요?](https://pronist.tistory.com/m/196)
-  <!-- END: pronist -->
+  - [이런 사람은 성장할 수 없습니다](https://pronist.tistory.com/m/197)
 <!-- END: tistory.com -->
 
 ---
@@ -728,6 +730,7 @@ tag:
 - [자신감에 대해서 – part 2](https://thestartupbible.com/2024/09/on-confidence-part-2.html)
 - [노가다에 대해서](https://thestartupbible.com/2024/09/not-scalable-until-scalable.html)
 - [분위기](https://thestartupbible.com/2024/09/the-vibe.html)
+- [배고픔의 축복](https://thestartupbible.com/2024/09/the-blessings-of-a-lack-of-capital.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -1015,6 +1018,7 @@ tag:
 - [리더십의 안전감 – 실패와 책임](https://chidoo.me/index.php/2024/08/26/failure-and-responsibility-in-leadership/)
 - [리더십의 안전감 – 위임을 통한 성장](https://chidoo.me/index.php/2024/09/02/empowerment-in-leadership/)
 - [리더십의 안전감 – 안전의 요소: Empathy, Vulnerability, Radical Candor](https://chidoo.me/index.php/2024/09/09/why-radical-candor-in-leaderships/)
+- [리더십의 안전감 – 끼리끼리의 폐해](https://chidoo.me/index.php/2024/09/18/hey-bro-in-leadership/)
 
 <!-- END: chidoo.me -->
 

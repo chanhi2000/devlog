@@ -30,6 +30,14 @@ head:
 
 ---
 
+## Substack
+
+- [`thebignewsletter` / Up to a Quarter of Rental Inflation Is Due to Price-Fixing](https://www.thebignewsletter.com/p/up-to-a-quarter-of-rental-inflation)
+
+<!-- END: substack.com -->
+
+---
+
 ## Brunch
 
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)

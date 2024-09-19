@@ -2617,5 +2617,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6006772?v=4",
     "banner": ""
+  }, {
+    "repo": "MightyMoud/sidekick",
+    "desc": "Bare metal to production ready in mins; your own fly server on your VPS.",
+    "officialSite": "",
+    "topics": ["deployment", "heroku", "self-host", "self-hostable", "self-hosted", "self-hosting", "selfhosting", "vps-admin", "vps-server", "vps-setup", "vps-ubuntu"],
+    "avatar": "https://avatars.githubusercontent.com/u/54428626?v=4",
+    "banner": ""
+  }, {
+    "repo": "vapourlang/vapour",
+    "desc": "Typed superset of R",
+    "officialSite": "http://vapour.run",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/172621115?v=4",
+    "banner": ""
+  }, {
+    "repo": "formancehq/numscript",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/84325077?v=4",
+    "banner": ""
   }
 ]

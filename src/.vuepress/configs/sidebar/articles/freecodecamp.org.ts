@@ -188,6 +188,7 @@ export const template: SidebarInfoTemplate = {
       "react-compiler-complete-guide-react-19", // 2024-08-27
       "learn-the-mern-stack-by-building-a-store", // 2024-09-04
       "essential-javascript-concepts-before-react", // 2024-09-10
+      "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -227,6 +228,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-css-subgrid", // 2024-08-21
       "how-to-build-an-accessible-modal-with-example-code", // 2024-08-27
       "how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible", // 2024-09-06
+      "how-to-use-css-to-improve-web-accessibility", // 2024-09-18
     ]],[
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -284,6 +286,9 @@ export const template: SidebarInfoTemplate = {
     "py-numpy", [
       "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
     ]],[
+    "py-fastapi", [
+      "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
+    ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024-04-26
       "how-to-make-your-flutter-package-privacy-manifest-compatible", // 2024-05-20
@@ -325,6 +330,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-linq", // 2024-07-15
       "using-entity-framework-core-with-mongodb", // 2024-07-29
       "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
+      "master-object-oriented-programming-and-design-patterns-in-c", // 2024-09-19
     ]],[
     "cs-blazor", [
       "use-local-storage-in-blazor-apps", // 2024-07-29
@@ -429,6 +435,7 @@ export const template: SidebarInfoTemplate = {
       "what-is-rate-limiting-web-apis", // 2024-09-04
       "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
+      "learn-how-to-secure-api-servers", // 2024-09-19
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -454,6 +461,7 @@ export const template: SidebarInfoTemplate = {
       "get-mongodb-url-to-connect-to-a-nodejs-application", // 2024-08-12
       "integration-tests-using-testcontainers", // 2024-08-14
       "learn-the-mern-stack-by-building-a-store", // 2024-09-04
+      "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
@@ -814,6 +822,10 @@ export const template: SidebarInfoTemplate = {
       "javascript-timer-how-to-set-a-timer-function-in-js", // 2024-09-16
       "how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs", // 2024-09-16
       "how-to-handle-side-effects-in-jest", // 2024-09-16
+      "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
+      "how-to-use-css-to-improve-web-accessibility", // 2024-09-18
+      "learn-how-to-secure-api-servers", // 2024-09-19
+      "master-object-oriented-programming-and-design-patterns-in-c", // 2024-09-19
     ]],
   ]),
 }

@@ -81,4 +81,12 @@ tag:
 
 ---
 
+## 그대안의작은호수
+
+- [Raspberry Pi OS 그리고 USB 부팅](https://smallake.kr/?p=31808)
+
+<!-- END: smallake.kr -->
+
+---
+
 <TagLinks />

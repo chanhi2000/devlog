@@ -1756,5 +1756,12 @@
     "topics": ["125khz", "clone", "contactless", "darkside", "hitag2", "iceman", "iclass", "iso14443a", "iso14443b", "iso15693", "mifare", "nfc", "pm3", "proxmark", "proxmark3", "rdv40", "rfid", "rrg", "simulate", "sniffer"],
     "avatar": "https://avatars.githubusercontent.com/u/40314039?v=4",
     "banner": ""
+  }, {
+    "repo": "ofabel/mp-flipper",
+    "desc": "Python support for Flipper Zero",
+    "officialSite": "https://ofabel.github.io/mp-flipper/",
+    "topics": ["adc", "f0", "flipper-app", "flipper-plugin", "flipper-zero", "flipperzero", "gpio", "infrared", "micropython", "pwm", "python"],
+    "avatar": "https://avatars.githubusercontent.com/u/28701799?v=4",
+    "banner": ""
   }
 ]

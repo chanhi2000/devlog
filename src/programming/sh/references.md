@@ -349,6 +349,10 @@ tag:
 - [`tr` 명령어](https://johngrib.github.io/wiki/cmd/tr/)
 - [`bc`](https://johngrib.github.io/wiki/cmd/bc/)
 - [Bash Parameters](https://johngrib.github.io/wiki/cmd/bash/parameters/)
+- [`echo` 명령어](https://johngrib.github.io/wiki/cmd/echo/)
+- [`getopts` 명령어](https://johngrib.github.io/wiki/cmd/getopts/)
+- [`man` 명령어](https://johngrib.github.io/wiki/cmd/man/)
+- [`trap` 명령어](https://johngrib.github.io/wiki/cmd/trap/)
 
 <!-- END: johngrib.github.io -->
 
@@ -505,6 +509,12 @@ tag:
 ## John Graham-Cumming's blog
 
 - [Cracking an old ZIP file to help open source the ANC's "Operation Vula" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
+
+---
+
+## 숲속얘기의 조용한 카페 & XRCLOUD
+
+- [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
 
 ---
 

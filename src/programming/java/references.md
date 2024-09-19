@@ -812,6 +812,9 @@ tag:
   - [kotlin - coroutine (부록3) Stream VS Flow](https://jinn-blog.tistory.com/m/200)
   - [kotlin - coroutine (부록4) Flow](https://jinn-blog.tistory.com/m/201)
   <!-- END: jinn-blog -->
+- [`yeon-kr` / 당근케잌](https://yeon-kr.tistory.com/m/)
+  - [OutOfMemoryError: unable to create new native thread 추적하기](https://yeon-kr.tistory.com/m/236)
+  <!-- END: yeon-kr -->
 <!-- END: tistory.com kotiln -->
 
 ### Leo3418
@@ -853,6 +856,10 @@ tag:
 - [Kotlin 배열(Array) 선언, 초기화, 주요 함수](https://devkuma.com/docs/kotlin/array/)
 - [Kotlin 목록(List) 선언, 초기화](https://devkuma.com/docs/kotlin/list/)
 - [Kotlin 목록, 배열 길이 구하기](https://devkuma.com/docs/kotlin/list-array-length/)
+- [Kotlin 문자열](https://devkuma.com/docs/kotlin/chapter/string/)
+- [Kotlin 문자열 템플릿(string template)](https://devkuma.com/docs/kotlin/string-template/)
+
+<!-- END: devkuma.com -->
 
 ### simple is best
 
