@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "zzangsaem",
+    "name": "짱샘",
+    "profile": "https://yt3.googleusercontent.com/6H05fZAJ4FomB6eDUviVqcQS6qqgjEtVAM9SoJgmA3nrQG2M-M1VIsTrds-b0JzSZv8u5Set3Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QGAgI7A5fuKjQ1JCAekiT7qtN6sx7J2yOtvPtYJJx4kftYDS5Z6M0cYOQHOjoIHJl03THMK3GM4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "om6klL8eiPo", "title": "컴활1급 실기 - Excel 상시 내용 38(사용자 지정 표시 형식 1540 - 15.40 으로 표시, 1,234,567 - 1,235,000 으로 표시)" },
+    { "id": "qK5rWdNSz4U", "title": "컴활1급 실기 - Excel 상시 내용 37(3행을 기준으로 정렬한 후, 각 지역별로 농경지와 비농경지의 합계를 통합 기능을 이용하여 표시)" },
+    { "id": "k6Gwf3GRH1I", "title": "컴활1급 실기 - Access 상시 내용 27(폼에서 두 개의 조건부 서식)" },
+    { "id": "1PwmT86EczI", "title": "컴활1급 실기 - Excel - 2024년 상시2" },
+    { "id": "MKFtRUuFdck", "title": "컴활2급 실기 - 2024년 상시2" },
+    { "id": "u18gV7wnUS8", "title": "컴활1급 실기 - Access - 2024년 상시2" },
+    { "id": "vOVDPzfZkdQ", "title": "컴활1급 실기 - Excel 상시 내용 36(TEXT, SUM, IF 함수와 & 연산자를 사용한 배열 수식)" },
+    { "id": "0H0QJoUoPPA", "title": "컴활1급 실기 - Excel 상시 내용 35(IF, TIME, MID, VALUE 함수)" },
+    { "id": "AVVqo6QEiyw", "title": "컴활1급 실기 - Excel 상시 내용 34(원형 대 원형 차트)" },
+    { "id": "Oaxc5SnTBDQ", "title": "컴활1급 실기 - Access 상시 내용 26(최대지상층수와 최대지하층수의 합이 15이상인 경우에 비고 필드를 “필수”로 업데이트하는 쿼리를 작성)" }
+  ],
+  "playlists": [
+
+  ]
+}

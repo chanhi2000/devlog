@@ -1506,9 +1506,11 @@
     "officialSite": ""
   }, {
     "repo": "commaai/openpilot",
-    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
-    "topics": [],
-    "officialSite": "https://comma.ai"
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.",
+    "officialSite": "https://comma.ai/openpilot",
+    "topics": ["driver-assistance-systems", "robotics"],
+    "avatar": "https://avatars.githubusercontent.com/u/16128714?v=4",
+    "banner": ""
   }, {
     "repo": "MineDojo/Voyager",
     "desc": "An Open-Ended Embodied Agent with Large Language Models",
@@ -5830,10 +5832,10 @@
     "banner": ""
   }, {
     "repo": "1Panel-dev/MaxKB",
-    "desc": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
-    "officialSite": "",
+    "desc": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+    "officialSite": "https://maxkb.cn/",
     "topics": ["1panel", "gpt", "knowledgebase", "llm", "maxkb", "ollama", "openai"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/109613420?v=4",
     "banner": ""
   }, {
     "repo": "aixcoder-plugin/aiXcoder-7B",
@@ -7969,6 +7971,34 @@
     "officialSite": "",
     "topics": ["aws", "aws-cli", "cloud", "cloud-management"],
     "avatar": "https://avatars.githubusercontent.com/u/2232217?v=4",
+    "banner": ""
+  }, {
+    "repo": "cupy/cupy",
+    "desc": "NumPy & SciPy for GPU",
+    "officialSite": "https://cupy.dev",
+    "topics": ["cublas", "cuda", "cudnn", "cupy", "curand", "cusolver", "cusparse", "cusparselt", "cutensor", "gpu", "nccl", "numpy", "nvrtc", "nvtx", "python", "rocm", "scipy", "tensor"],
+    "avatar": "https://avatars.githubusercontent.com/u/23187665?v=4",
+    "banner": ""
+  }, {
+    "repo": "lds133/weather_landscape",
+    "desc": "Visualizing Weather Forecasts Through Landscape Imagery",
+    "officialSite": "",
+    "topics": ["eink", "esp32", "micropython", "openweathermap-api", "python3", "weather-forecast"],
+    "avatar": "https://avatars.githubusercontent.com/u/13776411?v=4",
+    "banner": ""
+  }, {
+    "repo": "qhjqhj00/MemoRAG",
+    "desc": "Empowering RAG with a memory-based data interface for all-purpose applications!",
+    "officialSite": "",
+    "topics": ["long-llm", "memory", "rag"],
+    "avatar": "https://avatars.githubusercontent.com/u/29684092?v=4",
+    "banner": ""
+  }, {
+    "repo": "taylorai/aiq",
+    "desc": "ai for jq",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/136553510?v=4",
     "banner": ""
   }
 ]

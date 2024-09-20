@@ -16,7 +16,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/explore/marketing/articles/
+      content: https://chanhi2000.github.io/explore/mrkt/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

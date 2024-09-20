@@ -242,7 +242,7 @@ Resilience isn't just a buzzword; it's a core principle for building reliable so
 Good [**monitoring and observability**](/explore/articles/milanjovanovic.tech/introduction-to-distributed-tracing-with-opentelemetry-in-dotnet.md) are essential to understand how your resilience mechanisms work in production. Remember, the goal isn't to eliminate failures but to gracefully handle them and keep your application functioning.
 
 Ready to dive deeper into resilient architecture?
-My advanced course on [**building modular monoliths**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture.md) will equip you with the skills to design and implement robust, scalable systems. Check out [**Modular Monolith Architecture**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture.md).
+My advanced course on [**building modular monoliths**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md) will equip you with the skills to design and implement robust, scalable systems. Check out [**Modular Monolith Architecture**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md).
 
 ::: info Challenge
 

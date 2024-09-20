@@ -99,8 +99,9 @@ tag:
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[CS\] Redis 사용이유, 자료구조 살펴보기](https://findsilverlining.tistory.com/m/121)
   <!-- END: findsilverlining -->
-- [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
+- [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [Redis Stream의 구조적 특징(Message Queue)](https://splendidlolli.tistory.com/m/762)
+  - [\[Redis\] StreamListener(onMessage)와 Consumer 객체간 관계](https://splendidlolli.tistory.com/m/775)
   <!-- END: splendidlolli -->
 <!-- END: tistory.com -->
 

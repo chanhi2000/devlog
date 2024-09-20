@@ -32,5 +32,6 @@ head:
 <MyYouTubeItems jsonName="yu-TheArtOfTheTerminal" /><!-- The Art Of The Terminal -->
 <MyYouTubeItems jsonName="yu-ProgrammingKnowledge" /><!-- ProgrammingKnowledge -->
 <MyYouTubeItems jsonName="yu-rockthejvm" /><!-- Rock the JVM -->
+<MyYouTubeItems jsonName="yu-teej_daily" /><!-- teej_daily -->
 
 <TagLinks />

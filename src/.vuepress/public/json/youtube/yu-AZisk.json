@@ -6,6 +6,29 @@
     "banner": "https://yt3.googleusercontent.com/-5pI_7zLun8oyaMPkIe4XFUnO6_IEwfD0ioirlz2rLTVvUCHz-UjR9NmJZgxw_0GmWaFWLgR7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yz6YXZwbGyA", "title": "First NAS in years and I fixed the Biggest Annoyance!" },
+    { "id": "Zw0HA5ARPTw", "title": "AI Audio Nightmare | MEMBERS" },
+    { "id": "xyKEQjUzfAk", "title": "Cheap mini runs a 70B LLM 🤯" },
+    { "id": "J1LIsko8_ZM", "title": "7400 browser tabs, I don't think so" },
+    { "id": "Pfe1WSImx48", "title": "Android dev on X Elite | Hardware and software setup" },
+    { "id": "xBHf5TJJe_o", "title": "...not too smart" },
+    { "id": "w91lJPVT0ZE", "title": "my first and last HP laptop" },
+    { "id": "VGwWpcxEHWA", "title": "GitHub uses AWS?!" },
+    { "id": "WCiAAunK1K4", "title": "So THAT'S why we don't have these Dev Kits yet" },
+    { "id": "51w2SdOlpRo", "title": "I Tried Using This 14-Year-Old Lenovo ThinkPad in 2024—It Still Kicks S" },
+    { "id": "I-E0CmCWsjo", "title": "World's 1st Coding Monitor" },
+    { "id": "6WaYtvK2uqE", "title": "69 Million Pixels and 2.5Gbps with FusionDock | Giveaway" },
+    { "id": "8aC7ShzbjAw", "title": "Snapdragon X e-\"LEAP\"" },
+    { "id": "zEzWWUddn34", "title": "Llama 405b BEAST already exploited | Here’s how" },
+    { "id": "af3D5WS0SGc", "title": "LLMs with 8GB / 16GB" },
+    { "id": "o1otcMebezQ", "title": "I Wish Someone Told Me This About Vertical Monitors (GAME CHANGER)" },
+    { "id": "Z5g9BW0bQ9M", "title": "Inception | Linux on Windows on MacOS" },
+    { "id": "3mCZ3WUcM8s", "title": "Set up a new Surface Laptop 7 for Software Development" },
+    { "id": "_A3ZL6PI1lk", "title": "the END of Stack Overflow is near" },
+    { "id": "bp2eev21Qfo", "title": "FREE Local LLMs on Apple Silicon | FAST!" },
+    { "id": "RJtOvB6h3rQ", "title": "iPad VS Portable Display" },
+    { "id": "8bhsUO2D938", "title": "my AI model box" },
+    { "id": "Ic5BRW_nLok", "title": "FREE Local Image Gen on Apple Silicon | FAST!" },
     { "id": "jReRIcUNT3Q", "title": "What HTML element is this?" },
     { "id": "p78ZkerVROs", "title": "MacBook Accessories | JUST 1 is GOOD" },
     { "id": "J-bBspBklDU", "title": "Amazon MacBook Refund Scam EXPOSED" },
@@ -29,5 +52,8 @@
     { "id": "LHjQcJX_7ww", "title": "King of performance?" }, 
     { "id": "imGpNsfJ8rM", "title": "Windows on Mac: you DON’T need a MacBook Pro" }, 
     { "id": "KiKUN4i1SeU", "title": "Setting up new M2 Mac Mini for software development" }
+  ],
+  "playlists": [
+
   ]
 }

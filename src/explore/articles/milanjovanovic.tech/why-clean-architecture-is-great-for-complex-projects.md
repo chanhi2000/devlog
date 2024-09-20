@@ -49,9 +49,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_048.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_048.png?imwidth=1920"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 I've been using **Clean Architecture** for 6+ years on large-scale applications serving thousands of customers and millions of requests. Today I want to talk about why it's a great approach for structuring your applications.
 
 I'm aware that Clean Architecture isn't a silver bullet, so I will discuss what types of systems can benefit from this architecture.
@@ -77,21 +74,18 @@ Let's dive in!
 
 ## What Is Clean Architecture?
 
-Clean Architecture was created by <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">**Robert C. Martin**</a>, aka Uncle Bob.
+Clean Architecture was created by [<FontIcon icon="fa-brands fa-wikipedia-w"/>**Robert C. Martin**](https://en.wikipedia.org/wiki/Robert_C._Martin), aka Uncle Bob.
 
-Clean Architecture is an approach to organizing a software system to **separate the concerns** of the various components.
-Making the system easier to understand and maintain.
+Clean Architecture is an approach to organizing a software system to **separate the concerns** of the various components. Making the system easier to understand and maintain.
 
 You can think about Clean Architecture as a domain-centric approach to organizing dependencies.
 
-There are similar architectures that follow the same domain-centric idea.
-You may know them as the Hexagonal and Onion architectures.
-They are more or less interchangeable with each other.
-And they all place the core domain at the center of the architecture.
+There are similar architectures that follow the same domain-centric idea. You may know them as the Hexagonal and Onion architectures. They are more or less interchangeable with each other. And they all place the core domain at the center of the architecture.
 
 This is my high-level interpretation of **Clean Architecture**:
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%273268%27%20height=%272006%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_048/clean_architecture.png?imwidth=3840 1x" src="/blogs/mnw_048/clean_architecture.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_048/clean_architecture.png?imwidth=3840)
+
 There are four layers inside:
 
 - Domain
@@ -139,14 +133,17 @@ Here's a breakdown of what should live inside each **layer** of the **Clean Arch
 
 :::
 
-<a href="clean-architecture-folder-structure">**Here's an example**</a> of how to structure the Clean Architecture on a solution level.
+[**Here's an example**](/explore/articles/milanjovanovic.tech/clean-architecture-folder-structure.md) of how to structure the Clean Architecture on a solution level.
 You can also group related components together by feature.
 It leads to better cohesion and is an excellent option if your project is more complex.
 
 I also made a few videos covering the Clean Architecture project setup:
 
-- <a href="https://youtu.be/tLk4pZZtiDY">**Clean Architecture walkthrough**</a> (100k+ views)
-- <a href="https://youtu.be/fe4iuaoxGbA">**Clean Architecture project setup from scratch**</a> (40k+ views)
+- [<FontIcon icon="fa-brands fa-youtube"/>**Clean Architecture walkthrough**](https://youtu.be/tLk4pZZtiDY) (100k+ views)
+- [<FontIcon icon="fa-brands fa-youtube"/>**Clean Architecture project setup from scratch**](https://youtu.be/fe4iuaoxGbA) (40k+ views)
+
+<VidStack src="youtube/tLk4pZZtiDY" />
+<VidStack src="youtube/fe4iuaoxGbA" />
 
 ---
 
@@ -165,7 +162,7 @@ I use the **Clean Architecture** when I want to:
 
 If the above is true for your project, then Clean Architecture is an excellent option.
 
-You should also consider the <a href="clean-architecture-and-the-benefits-of-structured-software-design">**benefits of Clean Architecture.**</a>
+You should also consider the [**benefits of Clean Architecture.**](/explore/articles/milanjovanovic.tech/clean-architecture-and-the-benefits-of-structured-software-design.md)
 
 ---
 
@@ -187,7 +184,7 @@ But, on the query (read) side, I want to return the response as fast as possible
 
 A better approach is to use the EF or Dapper in the handler and query the database. It's simple, fast, and you can use all the features offered by the ORM. You don't need a lot of complexity or abstractions on the query side.
 
-I should call this approach <a href="/pragmatic-clean-architecture">**Pragmatic Clean Architecture**.</a>
+I should call this approach [**Pragmatic Clean Architecture**](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture/README.md).
 
 ---
 
@@ -210,8 +207,6 @@ Sometimes that means straying from the paradigm.
 Hope this was helpful.
 
 I'll see you next week!
-
--->
 
 ---
 

@@ -88,5 +88,8 @@ head:
 <MyYouTubeItems jsonName="yu-oharaandrew314" /><!-- Andrew O'Hara -->
 <MyYouTubeItems jsonName="yu-aosp_android_tollcafe" /><!-- AOSP »» Android »» AI »» Tech News to Go -->
 <MyYouTubeItems jsonName="yu-toptechskills" /><!-- Percy Grunwald from TopTechSkills -->
+<MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
+<MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
+<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
 
 <TagLinks />

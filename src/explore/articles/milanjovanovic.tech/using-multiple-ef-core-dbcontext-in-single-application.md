@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_028.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_028.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 **Entity Framework Core (EF Core)** is a popular ORM in .NET that allows you to work with SQL databases. EF Core uses a `DbContext`, which represents a session with the database and is responsible for tracking changes, performing database operations, and managing database connections.
 
 It's common to have only one `DbContext` for the entire application.
@@ -101,7 +98,7 @@ You can configure a separate `DbContext` instance to access the read replica of 
 Here's how you can easily configure multiple `DbContexts`. Let's say we have a `CatalogDbContext` and an `OrderDbContext` in our application. We want to configure them using the following constrainsts:
 
 - Both DbContexts use the **same database**
-<li>Each DbContext has a **separate database schema**
+- Each DbContext has a **separate database schema**
 
 ```cs
 public class CatalogDbContext : DbContext
@@ -163,10 +160,8 @@ public class OrderDbContext : DbContext
 
 Limitations with multiple `DbContexts`:
 
-1. It's not possible to do a join between different `DbContext` instances, because **EF Core** doesn't know if they
-are using the same database
-2. Transactions will only work if the `DbContexts` are using the same database. You have to create a new transaction
-and share it between the `DbContexts` by <a href="/blog/working-with-transactions-in-ef-core#using-existing-transactions-with-ef-core">calling the `UseTransaction` method</a>
+1. It's not possible to do a join between different `DbContext` instances, because **EF Core** doesn't know if they are using the same database
+2. Transactions will only work if the `DbContexts` are using the same database. You have to create a new transaction and share it between the `DbContexts` by [calling the `UseTransaction` method](/explore/articles/milanjovanovic.tech/working-with-transactions-in-ef-core#using-existing-transactions-with-ef-core.md)
 
 **Migrations History Table**
 
@@ -223,8 +218,6 @@ Also, using multiple DbContexts is practical if you're building a **Modular mono
 That's all for today.
 
 See you next week.
-
--->
 
 ---
 

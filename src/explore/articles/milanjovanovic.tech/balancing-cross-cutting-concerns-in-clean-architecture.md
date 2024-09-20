@@ -259,7 +259,7 @@ internal sealed class QueryCachingPipelineBehavior<TRequest, TResponse>(
 
 Managing cross-cutting concerns such as logging, caching, validation, and exception handling is not just about technical implementation. It's about aligning these aspects with the core principles of [Clean Architecture.](/explore/articles/milanjovanovic.tech/clean-architecture-and-the-benefits-of-structured-software-design.md) By adopting the decoupling techniques we discussed, you can ensure that your .NET projects are robust and maintainable.
 
-Each step you take towards refining your handling of cross-cutting concerns is a step towards a better software architecture. I encourage you to experiment with these strategies in your own .NET projects. If you want a structured guide covering these aspects in-depth, take a look at [Pragmatic Clean Architecture.](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture.md)
+Each step you take towards refining your handling of cross-cutting concerns is a step towards a better software architecture. I encourage you to experiment with these strategies in your own .NET projects. If you want a structured guide covering these aspects in-depth, take a look at [Pragmatic Clean Architecture.](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture/README.md)
 
 Remember, the beauty of software development lies in the continuous evolution and relentless pursuit of improvement.
 

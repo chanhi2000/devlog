@@ -60,7 +60,7 @@ You can work through them in any order you want – enjoy!
 
 ::: info UPDATE
 
-I put together a [huge and free collection of Swift example code](/expore/articles/hackingwithswift.com/example-code/README.md), so if you're upgrading your code you should definitely check it out.
+I put together a [huge and free collection of Swift example code](/explore/articles/hackingwithswift.com/example-code/README.md), so if you're upgrading your code you should definitely check it out.
 <!-- TODO: add VPCard -->
 
 :::

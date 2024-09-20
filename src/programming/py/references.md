@@ -2282,6 +2282,7 @@ head:
 - [Py) 크롤링 - BS(table-01)](https://datadoctorblog.com/2024/08/17/Py-Crawling-BS-table-01/)
 - [Py) 크롤링 BS(find) - 01](https://datadoctorblog.com/2024/09/14/Py-Crawling-BS-find-01/)
 - [Py) 크롤링 BS(find) - 02](https://datadoctorblog.com/2024/09/17/Py-Crawling-BS-find-02/)
+- [Py) 전처리 - 결측치 처리-03](https://datadoctorblog.com/2024/09/19/Py-Preprocessing-Missing-03/)
 
 ---
 
@@ -2331,6 +2332,12 @@ head:
 
 - [Breaking Bell's Inequality with Monte Carlo Simulations in Python](https://bytepawn.com/quantum-entanglement-bell-inequality-python.html)
 - [Randomness extractors: making fair coins out of biased coins](https://bytepawn.com/randomness-extractors-making-fair-coins-out-of-biased-coins.html)
+
+---
+
+## Qwen
+
+- [Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/)
 
 ---
 

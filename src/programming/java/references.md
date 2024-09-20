@@ -257,7 +257,7 @@ tag:
   - [Real-World Software Development :  Chapter02 : KISS, Code Maintainability, SRP, Cohension, Coupling](https://jakpentest.tistory.com/m/entry/Real-World-Software-Development-Chapter02-KISS-Code-Maintainability-SRP-Cohension-Coupling)
   <!-- END: jakpentest -->
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter01\] - 절차지향과객체지향 / 객체지향의 본질 / TDA 원칙](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter01-%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EB%B3%B8%EC%A7%88-TDA-%EC%9B%90%EC%B9%99)
-- [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
+- [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
   - [\[Java\] `ObjectMapper`에 `TypeReference`를 사용할 때](https://splendidlolli.tistory.com/m/759)
   <!-- END: splendidlolli -->

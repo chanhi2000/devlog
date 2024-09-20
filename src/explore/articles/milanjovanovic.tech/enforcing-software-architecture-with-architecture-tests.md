@@ -51,11 +51,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_036.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_036.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-**Software architecture** is a blueprint for how you should structure your system.
-You can follow this blueprint strictly, or you can give yourself varying levels of freedom.
+**Software architecture** is a blueprint for how you should structure your system. You can follow this blueprint strictly, or you can give yourself varying levels of freedom.
 
 But when deadlines are tight, and you start cutting corners, that beautiful software architecture you built crumbles like a house of cards.
 
@@ -70,17 +66,16 @@ You can use them to enforce your software architecture and the direction of depe
 In this week's issue I'll explain how to:
 
 - Write architecture tests
-<li>Enforce architecture
-<li>Enforce design rules
+- Enforce architecture
+- Enforce design rules
 
 Let's dive in!
 
 ---
 
-## writing-architecture-tests"><a href="#writing-architecture-tests">Writing Architecture Tests
+## Writing Architecture Tests
 
-You write **architecture tests** the same as any unit test in your application.
-There's an excellent library for writing architecture tests that already implements the boilerplate code we need to start writing tests.
+You write **architecture tests** the same as any unit test in your application. There's an excellent library for writing architecture tests that already implements the boilerplate code we need to start writing tests.
 
 We're going to use the `NetArchTest.Rules` library for writing architecture tests.
 
@@ -88,7 +83,6 @@ First, you have to install the NuGet package:
 
 ```pwsh
 Install-Package NetArchTest.Rules
-
 ```
 
 And now you can use it to write rules in your test project.
@@ -100,13 +94,12 @@ Once you have loaded your types you can further filter them to find a more speci
 Some of the available filtering methods:
 
 - `ResideInNamespace`
-<li>`AreClasses`
-<li>`AreInterfaces`
-<li>`HaveNameStartingWith`
-<li>`HaveNameEndingWith`
+- `AreClasses`
+- `AreInterfaces`
+- `HaveNameStartingWith`
+- `HaveNameEndingWith`
 
-Finally, when you are satisfied with your selection, you can write the rule you want to enforce by calling `Should` or `ShouldNot`
-and applying the condition you want to check.
+Finally, when you are satisfied with your selection, you can write the rule you want to enforce by calling `Should` or `ShouldNot` and applying the condition you want to check.
 
 Here's an example checking that all classes in the domain assembly are sealed:
 
@@ -120,24 +113,25 @@ var result = Types
   .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
 
 ---
 
-## enforcing-architecture-rules"><a href="#enforcing-architecture-rules">Enforcing Architecture Rules
+## Enforcing Architecture Rules
 
 **Architecture tests** are particularly useful to **enforce software architecture rules** in a layered architecture or **Modular Monolith**.
 
 Let's take the example of the Clean architecture:
 
 - Domain should not have any dependencies
-<li>Application should not depend on Infrastructure
-<li>Infrastructure should depend on Application and Domain
+- Application should not depend on Infrastructure
+- Infrastructure should depend on Application and Domain
 
 Here's how you can write tests for enforcing architecture rules.
 
-**Domain should not have any dependencies**
+::: tabs
+
+@tab:active Domain should not have any dependencies
 
 ```cs
 var result = Types
@@ -147,10 +141,9 @@ var result = Types
   .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
 
-**Application should not depend on Infrastructure**
+@tab Application should not depend on Infrastructure
 
 ```cs
 var result = Types
@@ -160,10 +153,9 @@ var result = Types
   .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
 
-**Infrastructure should depend on Application and Domain**
+@tab Infrastructure should depend on Application and Domain
 
 How the `NetArchTest.Rules` library works is by scanning the imported namespaces of your types.
 
@@ -182,12 +174,13 @@ var result = Types
   .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
+
+:::
 
 ---
 
-## enforcing-design-rules"><a href="#enforcing-design-rules">Enforcing Design Rules
+## Enforcing Design Rules
 
 Another valuable **use case** for **architecture tests** is **enforcing design rules** in your application.
 
@@ -196,15 +189,17 @@ Design rules are more specific than project references, and focus on the impleme
 Here are some **design rules** that you can enforce:
 
 - Services must be internal
-<li>Entities and Value objects must be sealed
-<li>Controllers can't depend on repositories directly
-<li>Command (or query) handlers must follow a naming convention
+- Entities and Value objects must be sealed
+- Controllers can't depend on repositories directly
+- Command (or query) handlers must follow a naming convention
 
 The possibilities are endless, and it's up to you how many design rules you want to enforce.
 
 Here's how you can write tests for enforcing design rules.
 
-**Command handlers must end with `CommandHandler`**
+::: tabs
+
+@tab:active Command handlers must end with <code>CommandHandler</code>
 
 ```cs
 var result = Types
@@ -216,10 +211,9 @@ var result = Types
     .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
 
-**Controllers can't directly reference repositories**
+@tab Controllers can't directly reference repositories
 
 ```cs
 var result = Types
@@ -231,32 +225,29 @@ var result = Types
     .GetResult();
 
 Assert.True(result.IsSuccessful);
-
 ```
+
+:::
 
 ---
 
-## takeaway"><a href="#takeaway">Takeaway
+## Takeaway
 
 **Architecture tests** are an easy way to **enforce software architecture** and design rules with automated tests.
 
-One of the best investments you can make as a software engineer is writing automated tests.
-You write the tests once, and use them to verify your system forever.
-Granted, you also have to maintain the tests over time as your system grows.
+One of the best investments you can make as a software engineer is writing automated tests. You write the tests once, and use them to verify your system forever. Granted, you also have to maintain the tests over time as your system grows.
 
 Manually enforcing software architecture with pair programming and constant PR reviews is:
 
 - Error prone
-<li>Time consuming
-<li>Not cost effective
+- Time consuming
+- Not cost effective
 
 **Architecture tests** really shine here, since you can write them quickly and reduce the cost of enforcing your software architecture rules to zero.
 
 Thanks for reading.
 
 Hope that was helpful!
-
--->
 
 ---
 

@@ -74,5 +74,6 @@ tag:
 <MyYouTubeItems jsonName="yu-WhiteBee-lc1ty" /><!-- WhiteBee -->
 <MyYouTubeItems jsonName="yu-LaurieWired" /><!-- LaurieWired -->
 <MyYouTubeItems jsonName="yu-KeaSigmaDelta" /><!-- Kea Sigma Delta -->
+<MyYouTubeItems jsonName="yu-teej_dv" /><!-- TJ DeVries -->
 
 <TagLinks />

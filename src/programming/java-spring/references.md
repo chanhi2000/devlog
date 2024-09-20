@@ -346,6 +346,7 @@ head:
   - [05.02. 데이터베이스 준비하기 - 2](https://ysedeveloper.tistory.com/m/entry/0502-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-2)
   - [06.01. 책 입력 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0601-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [06.02. 책 입력 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0602-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
+  - [06.03. 책 입력 기능 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0603-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)

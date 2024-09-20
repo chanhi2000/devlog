@@ -6,9 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ZLSnB2CVHQU", "title": "Melbourne CocoaHeads No. 175 — May 2024" },
     { "id": "EybbwsetGP4", "title": "Melbourne CocoaHeads No. 173 — March 2024" },
     { "id": "MjxDBRArFkA", "title": "Melbourne CocoaHeads No. 174 — April 2024" },
     { "id": "Djm_6JC61sc", "title": "Pete Goldsmith - Melting a CI Snowflake" },
     { "id": "VLKeJJH6TI8", "title": "Matt Coles - Building Native iOS Apps with AWS Amplify" }
+  ],
+  "playlists": [
+    
   ]
 }

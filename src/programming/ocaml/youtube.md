@@ -27,5 +27,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-backendbanterfm" /><!-- Backend Banter -->
+<MyYouTubeItems jsonName="yu-janestreet" /><!-- Jane Street -->
 
 <TagLinks />

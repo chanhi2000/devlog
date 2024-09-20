@@ -97,7 +97,7 @@ head:
   - [\[Intelli-j\] Spotlight.service broken?](https://jakpentest.tistory.com/m/entry/Try-Reinstalling-Spotlightservice)
   - [\[Intelli-j\] IntelliJ에서 Java 라이브러리 직접 설치하기](https://jakpentest.tistory.com/m/entry/Intelli-j-IntelliJ%EC%97%90%EC%84%9C-Java-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%A7%81%EC%A0%91-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
   <!-- END: jakpentest -->
-- [`splendidlolli` / yyeennyy](https://splendidlolli.tistory.com/m/)
+- [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [\[IntelliJ\] 사내망 개발환경 세팅](https://splendidlolli.tistory.com/m/756)
   <!-- END: yyeennyy -->
 - [`su-mmer` / Summary Of Summer](https://su-mmer.tistory.com/m/)

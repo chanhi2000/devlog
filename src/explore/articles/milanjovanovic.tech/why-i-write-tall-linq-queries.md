@@ -51,11 +51,6 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_001.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://www.milanjovanovic.tech/blog-covers/mnw_001.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
----
-
 ## Wishing You a Warm Welcome
 
 First, I want to welcome you to the first edition of **Milan's .NET Weekly** newsletter.
@@ -76,7 +71,6 @@ I call this a wide LINQ expression because it stretches horizontally across the 
 dbContext.Animals.Where(animal => animal.HasBigEars)
     .OrderBy(animal => animal.IsDangerous).Select(
         animal => (animal.Id, animal.Name)).ToList();
-
 ```
 
 - It is difficult to read.
@@ -104,16 +98,13 @@ dbContext
     .OrderBy(animal => animal.IsDangerous)
     .Select(animal => (animal.Id, animal.Name))
     .ToList();
-
 ```
 
 Is the new version easier to read? **Yes**, very much so.
 
 It is easier to understand what each expression does, and how it feeds into the next one in the chain.
 
-If you are working in a team, try to propose this as a coding standard (if it isn't one already).<br>You will see that over time this will make a noticeable difference.
-
--->
+If you are working in a team, try to propose this as a coding standard (if it isn't one already). You will see that over time this will make a noticeable difference.
 
 ---
 

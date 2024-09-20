@@ -320,8 +320,17 @@ tag:
 - [`@2weV` / 질문 잘하는 법이 중요한 시대에서의 우리나라 교육](https://brunch.co.kr/@@2weV/556)
 - [`@2xm` / 14.5 지속적 학습과 성장 - 산책 중 떠오른 생각들](https://brunch.co.kr/@@2xm/85)
 - [`@ZVA` / AWS가 인텔 파운드리에 구원투수가 될 것인가](https://brunch.co.kr/@@ZVA/728)
+- [`@2rV` / 창업자(founder) vs. 좌초자(flounder)](https://brunch.co.kr/@@2rV/181)
 
 <!-- END: brunch.co.kr -->
+
+---
+
+## Notion
+
+- [`secretive-snowstorm-1b6` / 어떻게 스타트업이 기존 기업들을 이길 수 있는가How startups beat incumbents](https://secretive-snowstorm-1b6.notion.site/How-startups-beat-incumbents-a4cf3c5ad7034f6992398bb814d27da0)
+
+<!-- END: notion.com -->
 
 ---
 
@@ -1316,6 +1325,7 @@ https://m.blog.naver.com/&logId=
 ## 보름의 달빛 ✨
 
 - [센디 자체 주소 검색 시스템 릴리즈 🎉](https://shkisme.vercel.app/Sendy-Juso-Retrospect)
+- [당근 인턴 서류 합격 및 면접 후기](https://shkisme.vercel.app/daangn-intern-interview)
 
 ---
 
@@ -1472,5 +1482,11 @@ https://m.blog.naver.com/&logId=
 - [리팩토링 그게 돈이 됩니까?](https://kyungyeon.dev/posts/116)
 
 ---
+
+## Veluxer's Blog
+
+- [개발자가 ‘일’ 잘하는 방법](https://veluxer62.github.io/explanation/how-developers-can-work-effectively/)
+
+<!-- END: veluxer62.github.io -->
 
 <TagLinks />

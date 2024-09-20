@@ -304,6 +304,8 @@ head:
 - [`@2fEJ` / \[UX 원칙#11\]컬러 적용 16가지 사례](https://brunch.co.kr/@@2fEJ/1478)
 - [`@3L0s` / DX 실행: 유통방식의 디지털화 사례 - 디지털 혁신-20](https://brunch.co.kr/@@3L0s/124)
 - [`@2fEJ` / \[UX 원칙#12\] 드롭다운 메뉴 사용 UX 원칙](https://brunch.co.kr/@@2fEJ/1479)
+- [`@2fEJ` / \[UX 원칙#12\] 드롭다운 메뉴 사용 UX 원칙](https://brunch.co.kr/@@2fEJ/1479)
+- [`@2fEJ` / \[UX원칙#13\]탭(Tabs) UX 설계 14가지 원칙](https://brunch.co.kr/@@2fEJ/1480)
 
 <!-- END: brunch.co.kr -->
 

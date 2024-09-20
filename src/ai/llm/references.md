@@ -67,6 +67,7 @@ head:
 - [`@euisuk-chung` / \[NLP\] 1. Introduction to Text Analytics](https://velog.io/@euisuk-chung/NLP-Text-Analytics-Intro)
 - [`@euisuk-chung` / \[NLP\] 2. Steps of Text Analytics](https://velog.io/@euisuk-chung/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B6%84%EC%84%9D-%EB%8B%A8%EA%B3%84)
 - [`@euisuk-chung` / \[꿀팁\] 프롬프트 엔지니어링 (강의 요약)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B0%95%EC%9D%98-%EC%9A%94%EC%95%BD)
+- [`@euisuk-chung` / \[IT\] LLMOps와 RAG](https://velog.io/@euisuk-chung/IT-LLMOps%EC%99%80-RAG)
 
 <!-- END: velog.io -->
 

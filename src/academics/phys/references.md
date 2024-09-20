@@ -59,6 +59,7 @@ head:
 - [생태계 시뮬레이션 v2](https://javalab.org/ecosystem2/)
 - [자유 낙하 실험 2](https://javalab.org/free_falling_2/)
 - [감압 용기](https://javalab.org/vacuum_jar/)
+- [망막에 상이 맺히는 안구 모형](https://javalab.org/eye_model/)
 
 <!-- END: javalab.org -->
 

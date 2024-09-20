@@ -45,5 +45,6 @@ head:
 <MyYouTubeItems jsonName="yu-mlopslearners" /><!-- MLOps Learners -->
 <MyYouTubeItems jsonName="yu-indydevdan" /><!-- IndyDevDan -->
 <MyYouTubeItems jsonName="yu-Unplug-IT" /><!-- UnplugIT -->
+<MyYouTubeItems jsonName="yu-vrsen" /><!-- VRSEN -->
 
 <TagLinks />

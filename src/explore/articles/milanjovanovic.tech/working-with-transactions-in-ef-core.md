@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_023.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_023.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Every software engineer working with **SQL databases** needs to know about **transactions**. And since most of the time the **SQL database** will be abstracted by an ORM like **EF Core**, it's important to understand how you can work with **transactions** using the available abstractions.
 
 So today, I'll show you how to work with **transactions** in **EF Core**.
@@ -199,8 +196,6 @@ Most of the time, you want to rely on the default behavior and not have to think
 As soon as you need to perform multiple `SaveChanges` calls, you should manually create a transaction, and manage the transaction yourself.
 
 See you next week, and have an excellent Saturday.
-
--->
 
 ---
 

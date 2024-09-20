@@ -53,5 +53,11 @@ tag:
 <MyYouTubeItems jsonName="yu-bonieky" /><!-- Bonieky Lacerda -->
 <MyYouTubeItems jsonName="yu-Penpot" /><!-- Penpot -->
 <MyYouTubeItems jsonName="yu-tahazsh" /><!-- Taha Shashtari -->
+<MyYouTubeItems jsonName="yu-CSSWeekly" /><!-- CSS Weekly -->
+<MyYouTubeItems jsonName="yu-DevMadeEasy" /><!-- Web Dev Made Easy -->
+<MyYouTubeItems jsonName="yu-ecemgokdogan" /><!-- Ecem Gokdogan -->
+<MyYouTubeItems jsonName="yu-Bedimcode" /><!-- Bedimcode -->
+<MyYouTubeItems jsonName="yu-jimmykimu" /><!-- DEvS -->
+<MyYouTubeItems jsonName="yu-frontendzonedotcom" /><!-- frontendzone -->
 
 <TagLinks />

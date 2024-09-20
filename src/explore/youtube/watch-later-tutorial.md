@@ -26,7 +26,6 @@ tag:
 <MyYouTubeItems jsonName="yu-jocoding" /><!-- 조코딩 JoCoding -->
 <MyYouTubeItems jsonName="yu-SimplilearnOfficial" /><!-- Simplilearn -->
 <MyYouTubeItems jsonName="yu-derekbanas" /><!-- Derek Banas -->
-<MyYouTubeItems jsonName="yu-jimmykimu" /><!-- DEvS -->
 <MyYouTubeItems jsonName="yu-KERBEROSJOO" /><!-- KERBEROS -->
 <MyYouTubeItems jsonName="yu-inflearn_official" /><!-- 인프런 inflearn -->
 <MyYouTubeItems jsonName="yu-coohde" /><!-- 생활코딩 -->

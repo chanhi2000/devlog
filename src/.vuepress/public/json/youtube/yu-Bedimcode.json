@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "Bedimcode",
+    "name": "Bedimcode",
+    "profile": "https://yt3.googleusercontent.com/7YnsGVsIcH5xo7jVwupuR_k3rtrjeAjVMUFoezU8zl_PW_PWt_-_uaXYXpYIvxGzBF8No-JeRpc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wO42Da6yyTAn_QOpAZQwK_hvX-ajYvy7Xu4HJexr9QD3sq3VgFU2_biutiZqpGSGgYEFAjpE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OxftwnqyNVI", "title": "Responsive Sidebar Menu Using HTML CSS And JavaScript | Dark & Light Mode" },
+    { "id": "eTyFZKLVKs4", "title": "Responsive Animated Website Using HTML CSS And JavaScript" },
+    { "id": "xSVZm6TRogE", "title": "Bottom Navigation Bar With Expandable Menu Using HTML CSS And JavaScript" },
+    { "id": "bDUhw9mgvaU", "title": "Responsive Temple Website Design Using HTML CSS And JavaScript" },
+    { "id": "IOyZO_l94ME", "title": "Responsive Construction Website Design Using HTML CSS And JavaScript" },
+    { "id": "TX1iisPh-T0", "title": "Responsive Car Website Design Using HTML CSS And JavaScript" },
+    { "id": "B8aTNKgbwE0", "title": "Responsive Space Website Design Using HTML CSS And JavaScript" },
+    { "id": "zWV_lOHEeWk", "title": "Responsive 404 Page Design Using HTML CSS And JavaScript" },
+    { "id": "PA-V-GxYa9w", "title": "Responsive Burger Website Design Using HTML CSS And JavaScript" },
+    { "id": "pMxZc8SarIw", "title": "Responsive Product Card With Popup Using HTML CSS And JavaScript" },
+    { "id": "vcb-cEkE-UI", "title": "Responsive Chips Website Design Using HTML CSS And JavaScript" },
+    { "id": "sF0vW0GgL3U", "title": "Responsive Portfolio Website Using HTML CSS And JavaScript" },
+    { "id": "k3TaSKUNuXs", "title": "CSS Card Hover Effects | HTML & CSS" }
+  ],
+  "playlists": [
+
+  ]
+}

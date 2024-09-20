@@ -103,5 +103,10 @@ head:
 <MyYouTubeItems jsonName="yu-crossplatformkorea" /><!-- 크로스플랫폼 코리아 -->
 <MyYouTubeItems jsonName="yu-QiroLab" /><!-- QiroLab -->
 <MyYouTubeItems jsonName="yu-bholmesdev" /><!-- Ben Holmes -->
+<MyYouTubeItems jsonName="yu-ecemgokdogan" /><!-- Ecem Gokdogan -->
+<MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
+<MyYouTubeItems jsonName="yu-codeandcreate" /><!-- Code And Create -->
+<MyYouTubeItems jsonName="yu-codejong" /><!-- 코드종 -->
+<MyYouTubeItems jsonName="yu-coderyan" /><!-- Code Ryan -->
 
 <TagLinks />

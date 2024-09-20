@@ -353,6 +353,7 @@ tag:
 - [`getopts` 명령어](https://johngrib.github.io/wiki/cmd/getopts/)
 - [`man` 명령어](https://johngrib.github.io/wiki/cmd/man/)
 - [`trap` 명령어](https://johngrib.github.io/wiki/cmd/trap/)
+- [`date` 명령어](https://johngrib.github.io/wiki/cmd/date/)
 
 <!-- END: johngrib.github.io -->
 

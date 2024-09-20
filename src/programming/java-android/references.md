@@ -293,6 +293,7 @@ tag:
 - [Blog: \[요약\] Designing scalable Compose APIs (Google I/O '24)](http://pluu.github.io/blog/android/io24/2024/06/23/io24-Designing-scalable-Compose-APIs/)
 - [Blog: \[발표자료\] I/O Extended Android in Korea 2024 ~ Whats new in Android development tools](http://pluu.github.io/blog/android/2024/07/21/android-studio/)
 - [Blog: \[Lint\]](http://pluu.github.io/blog/android/2024/08/03/Compose-Lint/)
+- [Blog: \[메모\] AndroidX Compose BOM stable/beta/alpha 버전](http://pluu.github.io/blog/android/2024/09/19/compose-bom/)
 
 <!-- END: pluu.github.io -->
 

@@ -51,12 +51,9 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_095.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_095.png"/>
 
-<!-- TODO: 작성 -->
+When you're dealing with thousands or even millions of records, efficiency is king. That's where [**EF Core bulk update**](/explore/articles/milanjovanovic.tech/how-to-use-the-new-bulk-update-feature-in-ef-core-7.md) capabilities come into play.
 
-<!-- 
-When you're dealing with thousands or even millions of records, efficiency is king. That's where <a href="how-to-use-the-new-bulk-update-feature-in-ef-core-7">**EF Core bulk update**</a> capabilities come into play.
-
-EF Core 7 introduced two powerful new methods, `ExecuteUpdate` and `ExecuteDelete`. They're designed to simplify bulk updates in your database. Both methods have their respective async overloads - `ExecuteUpdateAsync` and `ExecuteDeleteAsync`. <a href="https://learn.microsoft.com/en-us/ef/core/saving/execute-insert-update-delete">EF bulk updates</a> offer significant performance advantages over traditional approaches.
+EF Core 7 introduced two powerful new methods, `ExecuteUpdate` and `ExecuteDelete`. They're designed to simplify bulk updates in your database. Both methods have their respective async overloads - `ExecuteUpdateAsync` and `ExecuteDeleteAsync`. [<FontIcon icon="fa-brands fa-microsoft"/>EF bulk updates](https://learn.microsoft.com/en-us/ef/core/saving/execute-insert-update-delete) offer significant performance advantages over traditional approaches.
 
 However, there's an **important caveat**: these bulk operations bypass the EF Core **Change Tracker**. This disconnect can lead to unexpected behavior if you're not aware of it.
 
@@ -97,7 +94,7 @@ If you're already familiar with how EF Core works, this serves mostly as a remin
 
 ## Bulk Updates and the ChangeTracker Disconnect
 
-Now, let's focus on how <a href="how-to-use-the-new-bulk-update-feature-in-ef-core-7">**bulk updates in EF Core**</a> interact with the `ChangeTracker` - or rather, how they don't interact with it. This design decision might seem counterintuitive, but there's a solid reason behind it: **performance**.
+Now, let's focus on how [**bulk updates in EF Core**](/explore/articles/milanjovanovic.tech/how-to-use-the-new-bulk-update-feature-in-ef-core-7.md) interact with the `ChangeTracker` - or rather, how they don't interact with it. This design decision might seem counterintuitive, but there's a solid reason behind it: **performance**.
 
 By directly executing SQL statements against the database, EF Core eliminates the overhead of tracking individual entity modifications.
 
@@ -128,7 +125,7 @@ However, if you inspect the `Product` instances that EF Core has already loaded 
 
 Everything we discussed up to this point also applies to the `ExecuteDelete` method.
 
-<a href="how-to-use-ef-core-interceptors">**EF Core interceptors**</a> do not trigger for `ExecuteUpdate` and `ExecuteDelete` operations. If you need to track or modify bulk update operations, you can create database triggers that fire whenever a relevant table is updated or deleted. This allows you to log details and perform additional actions.
+[**EF Core interceptors**](/explore/articles/milanjovanovic.tech/how-to-use-ef-core-interceptors.md) do not trigger for `ExecuteUpdate` and `ExecuteDelete` operations. If you need to track or modify bulk update operations, you can create database triggers that fire whenever a relevant table is updated or deleted. This allows you to log details and perform additional actions.
 
 ---
 
@@ -140,9 +137,9 @@ If `SaveChanges` subsequently fails due to an error (e.g., validation error, dat
 
 The most reliable way to ensure consistency is to wrap both `ExecuteUpdate` and the operations that lead to `SaveChanges` in a transaction:
 
-```cs
+```cs{2}
 using (var context = new AppDbContext())
-<span class="code-line highlight-line">using (var transaction = context.Database.BeginTransaction())
+using (var transaction = context.Database.BeginTransaction())
 {
     try
     {
@@ -169,29 +166,32 @@ using (var context = new AppDbContext())
 
 ```
 
-If `SaveChanges` fails, the transaction will be rolled back, reverting the changes made by both `ExecuteUpdate` and any other operations within the transaction.
-This keeps your database in a consistent state.
+If `SaveChanges` fails, the transaction will be rolled back, reverting the changes made by both `ExecuteUpdate` and any other operations within the transaction. This keeps your database in a consistent state.
 
 ---
 
 ## Summary
 
-EF Core bulk update features, `ExecuteUpdate` and `ExecuteDelete`, are invaluable tools for optimizing performance.
-By bypassing the `ChangeTracker` and executing raw SQL directly, they deliver significant speed improvements compared to traditional methods.
+EF Core bulk update features, `ExecuteUpdate` and `ExecuteDelete`, are invaluable tools for optimizing performance. By bypassing the `ChangeTracker` and executing raw SQL directly, they deliver significant speed improvements compared to traditional methods.
 
 However, it's crucial to be mindful of the potential pitfalls associated with this approach. The disconnect between in-memory entities and the database state can lead to unexpected results if not handled correctly.
 
-My rule of thumb is to create an explicit <a href="working-with-transactions-in-ef-core">**database transaction**</a> when I want to make additional entity changes. We can be confident that all the changes will persist in the database or none of them will.
+My rule of thumb is to create an explicit [**database transaction**](/explore/articles/milanjovanovic.tech/working-with-transactions-in-ef-core.md) when I want to make additional entity changes. We can be confident that all the changes will persist in the database or none of them will.
 
 I hope this was helpful, and I'll see you next week.
 
 ::: note P.S.
 
-Get the <a href="https://github.com/m-jovanovic/ef-bulk-updates">source code</a> and try out the examples from this issue.
+Get the [source code (<FontIcon icon="iconfont icon-github"/>`m-jovanovic/ef-bulk-updates`)](https://github.com/m-jovanovic/ef-bulk-updates) and try out the examples from this issue.
+
+<SiteInfo
+  name="m-jovanovic/ef-bulk-updates"
+  desc="A sample project demonstrating how to work with EF bulk updates in a transactional way"
+  url="https://github.com/m-jovanovic/ef-bulk-updates"
+  logo="https://avatars.githubusercontent.com/u/34191235?s=48&v=4"
+  preview="https://opengraph.githubassets.com/87b407630b85269c4b35e9af8e6561455cc6fabc9c9db7e963731fd926832456/m-jovanovic/ef-bulk-updates"/>
 
 :::
-
--->
 
 ---
 

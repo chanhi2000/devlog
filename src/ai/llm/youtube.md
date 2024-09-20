@@ -69,5 +69,6 @@ head:
 <MyYouTubeItems jsonName="yu-ImcommIT" /><!-- 임커밋 -->
 <MyYouTubeItems jsonName="yu-MicrosoftResearch" /><!-- Microsoft Research -->
 <MyYouTubeItems jsonName="yu-technovangelist" /><!-- Matt Williams -->
+<MyYouTubeItems jsonName="yu-fastandsimpledevelopment" /><!-- Fast and Simple Development -->
 
 <TagLinks/>

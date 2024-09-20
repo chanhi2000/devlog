@@ -23,5 +23,6 @@ tag:
 <MyYouTubeItems jsonName="yu-codeops-show" /><!-- CodeOps Show -->
 <MyYouTubeItems jsonName="yu-won2know" /><!-- 원노의 원투노 -->
 <MyYouTubeItems jsonName="yu-webcrunch" /><!-- Webcrunch -->
+<MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
 
 <TagLinks />

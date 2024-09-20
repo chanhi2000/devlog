@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "CSSWeekly",
+    "name": "CSS Weekly",
+    "profile": "https://yt3.googleusercontent.com/yS7R65EjQ8Xp29ROmjFcwk-lRyTvwNUTFJwGSAr9ZwkucxLQoR7a-84R3kP61slULxXuO6vgow=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kN5qZ9KueBoThVt-wgDpR_qpf55MhSlQSbL2nfASc9rLxwjcFFGOY6vJA8Jegr67008iKwjj-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l4xPcnP_CF4", "title": "Frontend News #5: ChatGPT CSS, Custom Range Sliders" },
+    { "id": "9St61kJ4Xaw", "title": "Frontend News #6: One Million Checkboxes, Can I Use CLI" },
+    { "id": "lXZE1vrXM1A", "title": "Enable *NEW* CSS Transitions Behavior" },
+    { "id": "FZwzWTo2aIY", "title": "Frontend News #4: State of CSS 2024, Syntax Highlighting" },
+    { "id": "1VsMKz4Zweg", "title": "Transition to \"height: auto;\" & \"display: none;\" Using Pure CSS" },
+    { "id": "idoaw75xjhU", "title": "Animate HTML Details & Summary Elements Using Pure CSS" },
+    { "id": "8AmccR91d80", "title": "Stunning Staggered CSS Animation/Transition on Page Load" },
+    { "id": "w0rQwOSVmZs", "title": "Email Obfuscation Using CSS" }
+  ],
+  "playlists": [
+
+  ]
+}

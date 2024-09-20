@@ -196,7 +196,7 @@ Now when you want to throw an error of type `EncryptionError.obvious` you must p
 guard password != "12345" else { throw EncryptionError.obvious("I've got the same passcode on my luggage!") }
 ```
 
-Obviously you don't want to provide hundreds (or thousands!) of `guard` statements to filter out obvious passwords, but hopefully you remember [how to use UITextChecker](/explore/articles/hackingwithswift.com/read/5/05-checking-for-valid-answers.md) to do spell checking – that would be a smart thing here!
+Obviously you don't want to provide hundreds (or thousands!) of `guard` statements to filter out obvious passwords, but hopefully you remember [how to use UITextChecker](/explore/articles/hackingwithswift.com/read/05/05-checking-for-valid-answers.md) to do spell checking – that would be a smart thing here!
 
 ```component VPCard
 {

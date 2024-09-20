@@ -59,5 +59,6 @@ head:
 <MyYouTubeItems jsonName="yu-ZeroChoTV" /><!-- ZeroCho TV -->
 <MyYouTubeItems jsonName="yu-kantancoding" /><!-- Kantan Coding -->
 <MyYouTubeItems jsonName="yu-theurbanpenguin" /><!-- theurbanpenguin -->
+<MyYouTubeItems jsonName="yu-codejong" /><!-- 코드종 -->
 
 <TagLinks />

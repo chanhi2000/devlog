@@ -25,7 +25,6 @@ tags:
   - "@WizcenterSeoul"
   - "@yalco-coding"
   - "@ContenJoo"
-  - "@AZisk"
   - "@goldenmanual"
   - "@TV-bk8fv"
   - "@3protv"
@@ -62,7 +61,6 @@ tags:
 <MyYouTubeItems jsonName="yu-WizcenterSeoul" /><!-- SEOUL G-캠프 -->
 <MyYouTubeItems jsonName="yu-yalco-coding" /><!-- 얄팍한 코딩사전 -->
 <MyYouTubeItems jsonName="yu-ContenJoo" /><!-- 콘텐주 -->
-<MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
 <MyYouTubeItems jsonName="yu-TV-bk8fv" /><!-- 김노무사 -->
 <MyYouTubeItems jsonName="yu-NaNyunJae" /><!-- 남중구의 IT강의 -->
 <MyYouTubeItems jsonName="yu-techmong" /><!-- 테크몽 Techmong -->

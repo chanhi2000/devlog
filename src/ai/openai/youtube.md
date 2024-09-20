@@ -178,5 +178,6 @@ head:
 <MyYouTubeItems jsonName="yu-XCA" /><!-- Xcoding with Alfian -->
 <MyYouTubeItems jsonName="yu-tonykipkemboi" /><!-- The How-To Guy -->
 <MyYouTubeItems jsonName="yu-AICodeKing" /><!-- AICodeKing -->
+<MyYouTubeItems jsonName="yu-AI-GPTWorkshop" /><!-- AI Workshop -->
 
 <TagLinks />

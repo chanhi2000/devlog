@@ -49,9 +49,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_037.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_037.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 **Software architecture** diagrams are a great way to communicate how you are planning to build a software system or how an existing software system works.
 
 However, the majority of software architecture **diagrams** I've seen are a total mess.
@@ -81,10 +78,10 @@ Before we dive into the **C4 diagrams**, we first need to understand the ubiquit
 
 The **C4 model** defines a set of **abstractions** that you can use to describe your software systems:
 
-- Person - the end user using your system
-- Software system - highest level of abstraction that delivers value to end users
-- Container - applications and data stores that make up a system
-- Component - building blocks/modules that make up the container
+- Person: the end user using your system
+- Software system: highest level of abstraction that delivers value to end users
+- Container: applications and data stores that make up a system
+- Component: building blocks/modules that make up the container
 
 With these high-level concepts in place, let's take a look at how to use them in our **C4 diagrams**.
 
@@ -98,7 +95,7 @@ It shows your software system as the central part, and any external systems and 
 
 It should be **technology agnostic**, and the focus on the people and software systems instead of low-level details.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272116%27%20height=%271172%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_037/system_context_diagram.jpg?imwidth=3840 1x" src="/blogs/mnw_037/system_context_diagram.jpg?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_037/system_context_diagram.jpg?imwidth=3840)
 
 The intended audience for the **System Context Diagram** is *everybody*.
 
@@ -125,7 +122,7 @@ You can look at a **container** as a **deployment unit** that executes code or s
 
 The **Container diagram** shows the high-level view of the software architecture and the **major technology choices**.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271972%27%20height=%271732%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_037/container_diagram.jpg?imwidth=2048 1x, /blogs/mnw_037/container_diagram.jpg?imwidth=3840 2x" src="/blogs/mnw_037/container_diagram.jpg?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_037/container_diagram.jpg?imwidth=3840)
 
 The **Container diagram** is intended for technical people inside and outside of the software development team:
 
@@ -144,7 +141,7 @@ The **Component diagram** show the individual **components** that make up a **co
 - What each of the components are
 - The technology and implementation details
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272100%27%20height=%271524%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_037/component_diagram.jpg?imwidth=3840 1x" src="/blogs/mnw_037/component_diagram.jpg?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_037/component_diagram.jpg?imwidth=3840)
 
 The **Component diagram** is intended for software architects and developers.
 
@@ -188,11 +185,9 @@ I used it with a lot of success.
 
 But I think you should at least give it a try.
 
-You can learn more about the **C4 model** <a href="https://c4model.com/">here.</a>
+You can learn more about the **C4 model** [<FontIcon icon="fas fa-globe"/>here](https://c4model.com/).
 
 Thank you for reading, and have an awesome Saturday.
-
--->
 
 ---
 

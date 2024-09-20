@@ -40,8 +40,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_011.png
 }
 ```
 
-[[toc]]
-
 ---
 
 <SiteInfo
@@ -51,9 +49,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_011.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_011.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 In this week's newsletter I want to highlight a few interesting things that are now available with the release of **C# 11** and **.NET 7**.
 
 In case you missed it, **.NET 7** was released November 8th.
@@ -62,11 +57,7 @@ There are many new features, and you can be sure I had a hard time choosing whic
 
 Here's what we are going to cover:
 
-- <a href="#required-members">Required members</a>
-- <a href="#generic-attributes">Generic attributes</a>
-- <a href="#static-abstract-members-in-interfaces">Static abstract members in interfaces</a>
-- <a href="#file-keyword">`file` keyword</a>
-- <a href="#linq-order-and-orderdescending">LINQ Order and OrderDescending</a>
+[[toc]]
 
 Let's see what the new features look like!
 
@@ -175,7 +166,7 @@ T AddAll<T>(params T[] elements) where T : IMonoid<T>
 }
 ```
 
-If you want to learn more, check out the docs on <a href="https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members#static-abstract-interface-methods">static abstract interface methods</a> and <a href="https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members#generic-math">generic math</a>.
+If you want to learn more, check out the docs on [<FontIcon icon="fa-brands fa-microsoft"/>static abstract interface methods](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members#static-abstract-interface-methods) and [<FontIcon icon="fa-brands fa-microsoft"/>generic math](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/static-virtual-interface-members#generic-math).
 
 ---
 
@@ -227,7 +218,6 @@ Here are a few reasons why you should consider upgrading:
 I will be moving some of my new projects from **.NET 6** to **.NET 7**.
 
 And I will also upgrade all of my YouTube content to **.NET 7**.
--->
 
 ---
 

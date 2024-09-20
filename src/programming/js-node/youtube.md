@@ -113,7 +113,6 @@ head:
 <MyYouTubeItems jsonName="yu-user-sq7il2ir1e" /><!-- 5분개발지식 -->
 <MyYouTubeItems jsonName="yu-codewiththilaks" /><!-- CodeWithThilakS | CWTS -->
 <MyYouTubeItems jsonName="yu-ui5cn" /><!-- UI5 Community Network -->
-<MyYouTubeItems jsonName="yu-codejong" /><!-- 코드종 -->
 <MyYouTubeItems jsonName="yu-Skillthrive" /><!-- Skillthrive -->
 <MyYouTubeItems jsonName="yu-WillKwan" /><!-- Will Kwan -->
 <MyYouTubeItems jsonName="yu-Sweetdev" /><!-- Sweetdev -->
@@ -217,5 +216,7 @@ head:
 <MyYouTubeItems jsonName="yu-effect-ts" /><!-- Effect | TypeScript at Scale -->
 <MyYouTubeItems jsonName="yu-NizzyABI" /><!-- Nizzy -->
 <MyYouTubeItems jsonName="yu-mduniv" /><!-- 마플개발대학 -->
+<MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
+<MyYouTubeItems jsonName="yu-InputOutputCampus" /><!-- Input Output Campus -->
 
 <TagLinks />

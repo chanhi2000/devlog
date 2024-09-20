@@ -262,6 +262,8 @@ head:
 - [\[Q&A\] 문자열 패턴에 사용된 조건문 줄이기](https://m.blog.naver.com/tipsware/223584216503)
 - [\[Q&A\] 리스트 박스에 추가된 문자열을 아스키 파일로 저장할 때](https://m.blog.naver.com/tipsware/223584234599)
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 5](https://m.blog.naver.com/tipsware/223586044470)
+- [\[Q&A\] 아스키 문자열에서 원하는 문자열 찾아서 유니코드로 가져오기](https://m.blog.naver.com/tipsware/223588579854)
+- [블로그 조회수 그래프로 확인하기 - Step 1](https://m.blog.naver.com/tipsware/223588658538)
 
 <!-- END: tipsware.blog.naver.com -->
 

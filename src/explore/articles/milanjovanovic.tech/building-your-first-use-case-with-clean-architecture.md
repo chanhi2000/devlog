@@ -204,7 +204,7 @@ I hope this was helpful in understanding how to apply Clean Architecture princip
 
 But Clean Architecture won't save you from bad engineering. If you don't understand what you are abstracting away, it will become a problem in the long term.
 
-If you want to go deeper, my flagship course, [**Pragmatic Clean Architecture**](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture.md), takes the guesswork out of structuring your project the right way. I share my entire framework for building robust applications from the ground up - from building a rich domain model to creating use cases to getting your application ready for production.
+If you want to go deeper, my flagship course, [**Pragmatic Clean Architecture**](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture/README.md), takes the guesswork out of structuring your project the right way. I share my entire framework for building robust applications from the ground up - from building a rich domain model to creating use cases to getting your application ready for production.
 
 And that's all for this week.
 

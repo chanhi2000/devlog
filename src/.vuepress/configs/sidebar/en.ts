@@ -3735,15 +3735,15 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-rectangle-ad',
       children: [
-        '/academics/marketing/README.md',
-        '/academics/marketing/references.md',
-        '/academics/marketing/youtube.md',
+        '/academics/mrkt/README.md',
+        '/academics/mrkt/references.md',
+        '/academics/mrkt/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/academics/marketing/articles/README.md',
+            '/academics/mrkt/articles/README.md',
           ]
         }
       ]

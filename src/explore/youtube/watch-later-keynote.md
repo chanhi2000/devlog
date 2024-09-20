@@ -111,5 +111,6 @@ tag:
 <MyYouTubeItems jsonName="yu-toss_securities" /><!-- 토스증권 -->
 <MyYouTubeItems jsonName="yu-theBankofKoreakr" /><!-- 한국은행 -->
 <MyYouTubeItems jsonName="yu-sktechsummit" /><!-- SK TECH SUMMIT -->
+<MyYouTubeItems jsonName="yu-Gdconf" /><!-- GDC -->
 
 <TagLinks />

@@ -153,7 +153,7 @@ override func viewDidLoad() {
 For handling the content of the table view, it's all code you've seen in previous projects, but I want to point out three things:
 
 1. When referencing the `genres` array we need to use `SelectGenreViewController.genres` because the array belongs to the class, not to our instance of the class.
-2. When reading the text of the cell that was tapped, we're going to use the nil coalescing operator. [The nil coalescing operator was covered in project 12](/explore/articles/hackingwithswift.com/read/12/02-reading-and-writing-basics.md), and in this situation it guarantees we have a genre.
+2. When reading the text of the cell that was tapped, we're going to use the nil coalescing operator. [The nil coalescing operator was covered in project 12](/explore/articles/hackingwithswift.com/read/12/02-reading-and-writing-basics-userdefaults.md), and in this situation it guarantees we have a genre.
 3. When the user has selected a genre, we're going to create an instance of the class `AddCommentsViewController`, store that genre there, then push it onto our navigation stack.
 
 That's it – here are the methods for handling the table view data source and delegate:

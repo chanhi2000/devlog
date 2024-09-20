@@ -200,7 +200,7 @@
     "desc": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
     "officialSite": "https://paimon.apache.org/",
     "topics": ["big-data", "data-ingestion", "flink", "paimon", "real-time-analytics", "spark", "streaming-datalake", "table-store"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
     "banner": ""
   }, {
     "repo": "HamburgChimps/apple-notes-liberator",
@@ -1095,6 +1095,13 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/150319927?v=4",
+    "banner": ""
+  }, {
+    "repo": "apache/dubbo",
+    "desc": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+    "officialSite": "https://dubbo.apache.org/",
+    "topics": ["distributed-systems", "dubbo", "framework", "grpc", "http", "java", "microservices", "restful", "rpc", "service-mesh", "web"],
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
     "banner": ""
   }
 ]

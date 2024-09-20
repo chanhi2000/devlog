@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "janestreet",
+    "name": "Jane Street",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m40D3p9i23VVGMgkExVuEyTZNaSUAHe9PW0fZa8kI6zA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/63U3tx4wU8bBfNPX9Ux4PLpuu6uFFbi9XSWwGSo99QIqMjtupNV9JzZaduqpuU6HbOmoU9ne=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SWURUDr_i3w", "title": "OCaml's New Proposed \"include functor\" Syntax | OCaml Unboxed" },
+    { "id": "aWKcxTwhUTA", "title": "From the Lab to the Trading Floor: Designing for Expert Users with Erin Murphy" },
+    { "id": "144cM-iMSjc", "title": "Exploring the Hidden Secrets within OCaml’s Local Function Types | OCaml Unboxed" },
+    { "id": "tFGlT0mHBs0", "title": "Regions with OCaml's Local Types | OCaml Unboxed" },
+    { "id": "RBulw_Ik8QY", "title": "Programming with OCaml's Local Mode | OCaml Unboxed" },
+    { "id": "jz66PE4PkV8", "title": "Pitfalls with Tail Calls and Locals in OCaml | OCaml Unboxed" }
+  ],
+  "playlists": [
+
+  ]
+}

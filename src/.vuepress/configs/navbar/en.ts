@@ -51,7 +51,7 @@ export const navbarEn = navbar([
         text: 'Marketing',
         icon: 'fas fa-rectangle-ad',
         children: [
-          '/academics/marketing/README.md',
+          '/academics/mrkt/README.md',
         ]
       }, {
         text: 'Finance',

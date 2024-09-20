@@ -51,12 +51,9 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_092.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_092.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Are you tired of organizing your project across layers?
 
-Vertical Slice Architecture is a compelling alternative to traditional layered architectures. <a href="vertical-slice-architecture">VSA</a> flips the script on how we structure code.
+Vertical Slice Architecture is a compelling alternative to traditional layered architectures. [VSA](/explore/articles/milanjovanovic.tech/vertical-slice-architecture.md) flips the script on how we structure code.
 
 Instead of horizontal layers (Presentation, Application, Domain), VSA organizes code by feature. Each feature encompasses everything it needs, from API endpoints to data access.
 
@@ -79,15 +76,15 @@ This shift in perspective brings several advantages:
 - **Focus on business logic**: The structure naturally emphasizes the business use case over technical implementation details.
 - **Easier maintenance**: Changes to a feature are localized within its slice, reducing the risk of unintended side effects.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272159%27%20height=%271276%27/%3e"><img alt="Vertical slices." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Vertical slices." srcSet="/blogs/mnw_092/vertical_slices.png?imwidth=3840 1x" src="/blogs/mnw_092/vertical_slices.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Vertical slices.](https://milanjovanovic.tech/blogs/mnw_092/vertical_slices.png?imwidth=3840)
 
 ---
 
 ## Implementing Vertical Slice Architecture
 
-Here's an example vertical slice representing the `CreateProduct` feature. We use a static class to represent the feature and group the related types. Each feature can have a respective `Request` and `Response` class. The use case with the business logic can be in a <a href="automatically-register-minimal-apis-in-aspnetcore">Minimal API endpoint</a>.
+Here's an example vertical slice representing the `CreateProduct` feature. We use a static class to represent the feature and group the related types. Each feature can have a respective `Request` and `Response` class. The use case with the business logic can be in a [Minimal API endpoint](/explore/articles/milanjovanovic.tech/automatically-register-minimal-apis-in-aspnetcore.md).
 
-A vertical slice is likely either a command or a query. This approach gives us <a href="cqrs-pattern-with-mediatr">CQRS</a> out of the box.
+A vertical slice is likely either a command or a query. This approach gives us [CQRS](/explore/articles/milanjovanovic.tech/cqrs-pattern-with-mediatr.md) out of the box.
 
 ```cs
 public static class CreateProduct
@@ -131,7 +128,7 @@ Directly using `AppDbContext` within the endpoint might tightly couple the slice
 
 ## Introducing Validation in Vertical Slices
 
-Vertical slices usually need to solve some <a href="balancing-cross-cutting-concerns-in-clean-architecture">cross-cutting concerns</a>, one of which is validation. Validation is the gatekeeper, preventing invalid or malicious data from entering your system. We can easily implement <a href="cqrs-validation-with-mediatr-pipeline-and-fluentvalidation">validation with the FluentValidation library</a>.
+Vertical slices usually need to solve some [cross-cutting concerns](/explore/articles/milanjovanovic.tech/balancing-cross-cutting-concerns-in-clean-architecture.md), one of which is validation. Validation is the gatekeeper, preventing invalid or malicious data from entering your system. We can easily implement [validation with the FluentValidation library](/explore/articles/milanjovanovic.tech/cqrs-validation-with-mediatr-pipeline-and-fluentvalidation.md).
 
 Within your slice, you'd define a `Validator` class that encapsulates the rules specific to your feature's request model. It also supports dependency injection, so we can run complex validations here.
 
@@ -149,13 +146,13 @@ public class Validator : AbstractValidator<Request>
 
 This validator can then be injected into your endpoint using dependency injection, allowing you to perform validation before processing the request.
 
-```cs
+```cs{6,20-24}
 public static class CreateProduct
 {
     public record Request(string Name, decimal Price);
     public record Response(int Id, string Name, decimal Price);
 
-<span class="code-line highlight-line">    public class Validator : AbstractValidator<Request> // { ... }
+    public class Validator : AbstractValidator<Request> // { ... }
 
     public class Endpoint : IEndpoint
     {
@@ -169,11 +166,11 @@ public static class CreateProduct
             IValidator<Request> validator,
             AppDbContext context)
         {
-<span class="code-line highlight-line">            var validationResult = await validator.Validate(request);
-<span class="code-line highlight-line">            if (!validationResult.IsValid)
-<span class="code-line highlight-line">            {
-<span class="code-line highlight-line">                return Results.BadRequest(validationResult.Errors);
-<span class="code-line highlight-line">            }
+            var validationResult = await validator.Validate(request);
+            if (!validationResult.IsValid)
+            {
+                return Results.BadRequest(validationResult.Errors);
+            }
 
             // ... (Create product and return response)
         }
@@ -194,7 +191,7 @@ Here are a few strategies you can consider to address this:
 - **Decomposition**: Break down complex features into smaller, more manageable vertical slices. Each slice should represent a cohesive piece of the overall feature.
 - **Refactoring**: When a vertical slice becomes difficult to maintain, you can apply some refactoring techniques. The most common ones I use are `Extract method ` and `Extract class`.
 - **Extract shared logic**: Identify common logic that's used across multiple features. Create a separate class (or extension method) to reference it from your vertical slices as needed.
-- **Push logic down**: Write vertical slices using procedural code, like a <a href="https://martinfowler.com/eaaCatalog/transactionScript.html">Transaction Script</a>. Then, you can identify parts of the business logic that naturally belong to the domain entities.
+- **Push logic down**: Write vertical slices using procedural code, like a [<FontIcon icon="fas fa-globe"/>Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html). Then, you can identify parts of the business logic that naturally belong to the domain entities.
 
 You and your team will need to understand code smells and refactorings to make the most of VSA.
 
@@ -206,11 +203,9 @@ Vertical Slice Architecture is more than just a way to structure your code. By f
 
 VSA brings benefits in terms of code organization and development speed, making it a valuable tool in your toolbox. Code is grouped by feature, making it easier to locate and understand. The structure aligns with the way business users think about features. Changes are localized, reducing the risk of regressions and enabling faster iterations.
 
-Consider embracing <a href="vertical-slice-architecture">Vertical Slice Architecture</a> in your next project. It's a big mindset shift from <a href="/pragmatic-clean-architecture">Clean Architecture</a>. However, they both have their place and even share similar ideas.
+Consider embracing [Vertical Slice Architecture](/explore/articles/milanjovanovic.tech/vertical-slice-architecture.md) in your next project. It's a big mindset shift from [Clean Architecture](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture/README.md). However, they both have their place and even share similar ideas.
 
 That's all for this week. Stay awesome!
-
--->
 
 ---
 

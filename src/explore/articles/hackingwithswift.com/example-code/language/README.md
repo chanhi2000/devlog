@@ -60,7 +60,7 @@ head:
 ```component VPCard
 {
   "title": "Fixing ”Ambiguous reference to member when using ceil or round”",
-  "desc": "If you've ever come across the error message "No 'ceil' candidates produce the expected contextual result type 'Int'" – which can happen with calls to <code>ceil()</code>, <code>floor()</code>, and <code>round()</code> – it's usually down to Swift being unable to satisfy type requirements you have asked for....",
+  "desc": "If you've ever come across the error message ”No 'ceil' candidates produce the expected contextual result type 'Int'” – which can happen with calls to <code>ceil()</code>, <code>floor()</code>, and <code>round()</code> – it's usually down to Swift being unable to satisfy type requirements you have asked for....",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -160,7 +160,7 @@ head:
 ```component VPCard
 {
   "title": "How to check for valid method input using the guard keyword",
-  "desc": "The <code>guard</code> keyword was introduced in Swift to signal early returns, which is a coding technique that effectively means "make sure all these things are set up before I start doing the real work in my function, others bail out."...",
+  "desc": "The <code>guard</code> keyword was introduced in Swift to signal early returns, which is a coding technique that effectively means ”make sure all these things are set up before I start doing the real work in my function, others bail out.”...",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/how-to-check-for-valid-method-input-using-the-guard-keyword.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1450,7 +1450,7 @@ head:
 ```component VPCard
 {
   "title": "What are property observers?",
-  "desc": "Property observers are Swift's way of letting you attach functionality to changes in property values. For example, you might want to say, "whenever the player's score changes, update this label to show their new score." Here's a basic example that prints message to the debug console when a variable changes:...",
+  "desc": "Property observers are Swift's way of letting you attach functionality to changes in property values. For example, you might want to say, ”whenever the player's score changes, update this label to show their new score.” Here's a basic example that prints message to the debug console when a variable changes:...",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-are-property-observers.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1530,7 +1530,7 @@ head:
 ```component VPCard
 {
   "title": "What does an exclamation mark mean?",
-  "desc": "Swift uses exclamation marks to signal both force unwrapping of optionals and explicitly unwrapped optionals. The former means "I know this optional variable definitely has a value, so let me use it directly." The latter means "this variable is going to be nil initially then will definitely have a value afterwards, so don't make me keep unwrapping it."...",
+  "desc": "Swift uses exclamation marks to signal both force unwrapping of optionals and explicitly unwrapped optionals. The former means ”I know this optional variable definitely has a value, so let me use it directly.” The latter means ”this variable is going to be nil initially then will definitely have a value afterwards, so don't make me keep unwrapping it.”...",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-does-an-exclamation-mark-mean.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1620,7 +1620,7 @@ head:
 ```component VPCard
 {
   "title": "What is a delegate in iOS?",
-  "desc": "Delegates are extremely common in iOS development, but fortunately they are easy to understand: a delegate is any object that should be notified when something interesting has happened. What that "something interesting" means depends on the context: for example, a table view's delegate gets notified when the user taps on a row, whereas a navigation controller's delegate gets notified when the user moves between view controllers....",
+  "desc": "Delegates are extremely common in iOS development, but fortunately they are easy to understand: a delegate is any object that should be notified when something interesting has happened. What that ”something interesting” means depends on the context: for example, a table view's delegate gets notified when the user taps on a row, whereas a navigation controller's delegate gets notified when the user moves between view controllers....",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-is-a-delegate-in-ios.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1630,7 +1630,7 @@ head:
 ```component VPCard
 {
   "title": "What is a dictionary?",
-  "desc": "A dictionary is a collection of values stored at named positions. Whereas you would access values in an array using <code>myArray[5]</code>, with a dictionary you use named positions such as <code>myDict["Paul"]</code> or <code>myDict["Scotland"]</code>. You don't even need to use strings for the positions – you can use another object if you choose, such as dates....",
+  "desc": "A dictionary is a collection of values stored at named positions. Whereas you would access values in an array using <code>myArray[5]</code>, with a dictionary you use named positions such as <code>myDict[”Paul”]</code> or <code>myDict[”Scotland”]</code>. You don't even need to use strings for the positions – you can use another object if you choose, such as dates....",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-is-a-dictionary.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1700,7 +1700,7 @@ head:
 ```component VPCard
 {
   "title": "What is a nib?",
-  "desc": "NIBs and XIBs are files that describe user interfaces, and are built using Interface Builder. In fact, the acronym "NIB" comes from "NeXTSTEP Interface Builder", and "XIB" from "Xcode Interface Builder". NIBs and XIBs are effectively the same thing: XIBs are newer and are used while you're developing, whereas NIBs are what get produced when you create a build....",
+  "desc": "NIBs and XIBs are files that describe user interfaces, and are built using Interface Builder. In fact, the acronym ”NIB” comes from ”NeXTSTEP Interface Builder”, and ”XIB” from ”Xcode Interface Builder”. NIBs and XIBs are effectively the same thing: XIBs are newer and are used while you're developing, whereas NIBs are what get produced when you create a build....",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-is-a-nib.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1810,7 +1810,7 @@ head:
 ```component VPCard
 {
   "title": "What is AnyObject?",
-  "desc": "This is one of those things that sounds obvious in retrospect: <code>AnyObject</code> is Swift's way of saying, "I don't mind what type of object you pass in here, it could be a string, it could be a string, it could be a number, it could be an array, or it could be a custom type you defined yourself....",
+  "desc": "This is one of those things that sounds obvious in retrospect: <code>AnyObject</code> is Swift's way of saying, ”I don't mind what type of object you pass in here, it could be a string, it could be a string, it could be a number, it could be an array, or it could be a custom type you defined yourself....",
   "link": "/explore/articles/hackingwithswift.com/example-code/language/what-is-anyobject.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"

@@ -37,8 +37,6 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/08/pexels-pi
 }
 ```
 
-[[toc]]
-
 ---
 
 <SiteInfo
@@ -48,9 +46,6 @@ cover: https://freecodecamp.org/news/content/images/size/w1000/2024/08/pexels-pi
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
   preview="https://freecodecamp.org/news/content/images/size/w1000/2024/08/pexels-pixabay-2159.jpg"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Building any control systems, including a rocket control system, involves combining control theory with programming.
 
 Control theory is the study of how to make systems behave in a desired way using inputs.
@@ -65,22 +60,21 @@ This is a simple guide to how the architecture of complex systems is created. In
 
 In this article, you will learn about:
 
-- <a class="post-section-overview" href="#heading-rocket-systems-and-cake-baking-a-fun-comparison">Rocket Systems and Cake Baking: A Fun Comparison</a>
-<li><a class="post-section-overview" href="#heading-rocket-control-made-simple-understanding-pid-controllers">Rocket Control Made Simple: Understanding PID Controllers</a>
-<li><a class="post-section-overview" href="#heading-code-example-designing-a-simple-pid-controller">Code example: Designing a simple PID controller</a>
-<li><a class="post-section-overview" href="#heading-conclusion-non-linear-control-systems">Conclusion: Non-linear control systems</a>
+[[toc]]
 
-**Note:** We'll assume the rocket is time-invariant, meaning its behavior doesn't change over time. Addressing time-varying dynamics would complicate this tutorial more than I'd like. 
+::: note
+
+We'll assume the rocket is time-invariant, meaning its behavior doesn't change over time. Addressing time-varying dynamics would complicate this tutorial more than I'd like.
+
+:::
 
 ---
 
 ## Rocket Systems and Cake Baking: A Fun Comparison
 
+![Photo by [<FontIcon icon="fas fa-globe"/>Brent Keane on Pexels](https://pexels.com/photo/white-icing-cover-cake-1702373)](https://freecodecamp.org/news/content/images/2024/08/cake.jpg)
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/cake.jpg" alt="Image" width="2000" height="1461" loading="lazy">
-*Photo by <a href="https://www.pexels.com/photo/white-icing-cover-cake-1702373/">Brent Keane on Pexels</a>*
-
-### -what-is-a-rocket-control-system">What is a Rocket Control System?
+### What is a Rocket Control System?
 
 Imagine you are backing a cake. Your recipe provides the steps and ingredients needed to bake the cake.
 
@@ -92,7 +86,7 @@ In this analogy:
 
 Just as you change the oven temperature or mixing time to get the best cake, a control system changes rocket's parameters to ensure it stays on its course and remains stable.
 
-### -why-are-control-systems-important-in-programming">Why are control systems important in programming?
+### Why are control systems important in programming?
 
 By understanding control systems, you'll become better at algorithmic design and systems thinking.
 
@@ -104,7 +98,7 @@ You'll mainly use control theory and control systems when creating software for:
 - **Signal Processing and Communication**: They optimize data transmission, error correction, and filtering for reliable communication.
 - **Embedded Systems and IoT**: Control systems manage device interactions with environments, processing sensor inputs and adjusting outputs efficiently.
 
-### -how-to-create-a-rocket-control-system">How to Create a Rocket Control System
+### How to Create a Rocket Control System
 
 In terms of our cake baking analogy:
 
@@ -119,10 +113,9 @@ In terms of our cake baking analogy:
 
 ## Rocket Control Made Simple: Understanding PID Controllers
 
-### -a-simple-control-system-the-pid-controller">A simple control system: The PID controller
+### A simple control system: The PID controller
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/07/M6_ControlSystemsdiagram.png)
-*Example of control system diagram (<a href="https://edtech.engineering.utoronto.ca/object/control-systems-diagrams">source</a>)*
+![Example of control system diagram ([<FontIcon icon="fas fa-globe"/>source](https://edtech.engineering.utoronto.ca/object/control-systems-diagrams))](https://freecodecamp.org/news/content/images/2024/07/M6_ControlSystemsdiagram.png)
 
 Every control system has a controller that runs it. One of the most used controllers is the PID controller.
 
@@ -146,8 +139,7 @@ With the PID controller, we can control how the inputs like thrust and altitude 
 
 ### Analyzing Stability
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/stability.jpg)
-*Photo by <a href="https://www.pexels.com/photo/closeup-photography-of-stacked-stones-1051449/">Shiva Smyth on Pexels</a>*
+![Photo by [<FontIcon icon="fas fa-globe"/>Shiva Smyth on Pexels](https://pexels.com/photo/closeup-photography-of-stacked-stones-1051449)](https://freecodecamp.org/news/content/images/2024/08/stability.jpg)
 
 To design a PID controller means to design a stable control system.
 
@@ -169,7 +161,7 @@ This tells us how to change the Kp, Ki, and Kd so that the PID controller can co
 
 ### The Need for Transfer Functions: Controlling the Rocket and Determining Component Values
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/07/Transfer-function-v2.png)
+![](https://freecodecamp.org/news/content/images/2024/07/Transfer-function-v2.png)
 
 To implement any control system, we need two transfer functions: one theoretical and one physical.
 
@@ -204,8 +196,7 @@ Now let's see how to find, for any control system, its physical transfer functio
 
 ## Code example: Designing a simple PID controller
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/rocket.jpg)
-*Photo by <a href="https://www.pexels.com/photo/space-rocket-launching-73871/">Pixabay</a>*
+![Photo by [<FontIcon icon="fas fa-globe"/>Pixabay](https://pexels.com/photo/space-rocket-launching-73871/)](https://freecodecamp.org/news/content/images/2024/08/rocket.jpg)
 
 Now with this code example, we will create a simple control system for a rocket.
 
@@ -229,93 +220,81 @@ import control as ctrl
 # Step 2: Define a new rocket transfer <span class="hljs-function">function with poles closer to the imaginary axis
 num = [10] 
 den = [2, 2, 1] 
-G = ctrl.TransferFunction(<span class="hljs-params">num, den)
+G = ctrl.TransferFunction(num, den)
 
 # Step 3: Design a PID controller with new parameters
 Kp = 5
 Ki = 2
 Kd = 1
-C = ctrl.TransferFunction(<span class="hljs-params">[Kd, Kp, Ki], [1, 0])
+C = ctrl.TransferFunction([Kd, Kp, Ki], [1, 0])
 
 # Step 4: Applying the PID controller to the rocket transfer function
-CL = ctrl.feedback(<span class="hljs-params">C * G, 1)
+CL = ctrl.feedback(C * G, 1)
 
 # Step 5: Plot Root Locus for Closed-Loop System
-plt.figure(<span class="hljs-params">figsize=(10, 6))
-ctrl.root_locus(<span class="hljs-params">C * G, grid=True)
-plt.title(<span class="hljs-params"><span class="hljs-string">"Root Locus Plot (Closed-Loop)")
+plt.figure(figsize=(10, 6))
+ctrl.root_locus(C * G, grid=True)
+plt.title("Root Locus Plot (Closed-Loop)")
 
 # Step 6: Plot Bode Plot for Closed-Loop System
-plt.figure(<span class="hljs-params">figsize=(10, 6))
-ctrl.bode_plot(<span class="hljs-params">CL, dB=True, Hz=False, deg=True)
-plt.suptitle(<span class="hljs-params"><span class="hljs-string">"Bode Plot (Closed-Loop)", fontsize=16)
+plt.figure(figsize=(10, 6))
+ctrl.bode_plot(CL, dB=True, Hz=False, deg=True)
+plt.suptitle("Bode Plot (Closed-Loop)", fontsize=16)
 
 # Step 7: Plot Nyquist Plot for Closed-Loop System
-plt.figure(<span class="hljs-params">figsize=(10, 6))
-ctrl.nyquist_plot(<span class="hljs-params">CL)
-plt.title(<span class="hljs-params"><span class="hljs-string">"Nyquist Plot (Closed-Loop)")
+plt.figure(figsize=(10, 6))
+ctrl.nyquist_plot(CL)
+plt.title("Nyquist Plot (Closed-Loop)")
 
-plt.show(<span class="hljs-params">)
+plt.show()
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/1.png)
-*Full Code*
+<!-- ![Full Code](https://freecodecamp.org/news/content/images/2024/08/1.png) -->
 
-### -step-1-import-libraries">Step 1: Import libraries
+### Step 1: Import libraries
 
 ```js
 import matplotlib.pyplot as plt
 import control as ctrl
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/2.png)
-*Importing libraries*
+<!-- ![Importing libraries](https://freecodecamp.org/news/content/images/2024/08/2.png) -->
 
 Here we import two libraries:
 
-- <a href="https://matplotlib.org/">matplotlib</a>: A plotting library for creating various types of visualizations
-- <a href="https://python-control.readthedocs.io/en/0.10.0/">Control</a>: A library for analyzing and designing control systems
+- [<FontIcon icon="fa-brands fa-python"/>matplotlib](https://matplotlib.org/): A plotting library for creating various types of visualizations
+- [<FontIcon icon="fa-brands fa-python"/>Control](https://python-control.readthedocs.io/en/0.10.0/): A library for analyzing and designing control systems
 
 ### Step 2: Define the Transfer Function of the Rocket System
 
 ```js
+/* Define the Transfer Function of the Rocket System */
 num = [10] 
 den = [2, 2, 1] 
 G = ctrl.TransferFunction(num, den)
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/3.png)
-*Define the Transfer Function of the Rocket System*
+<!-- ![Define the Transfer Function of the Rocket System](https://freecodecamp.org/news/content/images/2024/08/3.png) -->
 
 In this code we define the transfer function of the physical system
 
-- **`num=[10]`**: Sets the system gain to 10.
-- **`den=[2,2,1]`**: Defines the denominator.
-- **`G = ctrl.transferFunction(num, cen)`**: Constructs the transfer function.
+- `num=[10]`: Sets the system gain to 10.
+- `den=[2,2,1]`: Defines the denominator.
+- `G = ctrl.transferFunction(num, cen)`: Constructs the transfer function.
 
 This is the transfer function we are going to control with PID:
 
-<!DOCTYPE html>
+$$
+\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}
+$$
 
-    
-    
-    Black-Scholes Equation
+Black-Scholes Equation
 
-
-    <div class="card">
-        <div class="card-body">
-            
-                $$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}$$
-            
-            
-            <h5>Rocket transfer function
-          </h5>
-        </div>
-    </div>
+#### Rocket transfer function
 
 In this code example, the transfer function rocket equation is very simple. But in real life, rocket transfer functions are not time-invariant linear systems. Usually, they are very complex non-linear systems.
 
-### -step-3-design-a-pid-controller-with-new-parameters">Step 3: Design a PID controller with new parameters
+### Step 3: Design a PID controller with new parameters
 
 ```js
 Kp = 5
@@ -324,15 +303,14 @@ Kd = 1
 C = ctrl.TransferFunction([Kd, Kp, Ki], [1, 0])
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/4.png)
-*Design a PID controller with new parameters*
+<!-- ![Design a PID controller with new parameters](https://freecodecamp.org/news/content/images/2024/08/4.png) -->
 
 This code sets up a PID controller with specific gains and creates a transfer function:
 
-- **`Kp = 5`**: Sets the proportional gain to 5.
-- **`Ki = 2`**: Sets the integral gain to 2.
-- **`Kd = 1`**: Sets the derivative gain to 1.
-- **`C = ctrl.TransferFunction([Kd, Kp, Ki], [1, 0])`**: Creates a transfer function of the PID controller
+- `Kp = 5`: Sets the proportional gain to 5.
+- `Ki = 2`: Sets the integral gain to 2.
+- `Kd = 1`: Sets the derivative gain to 1.
+- `C = ctrl.TransferFunction([Kd, Kp, Ki], [1, 0])`: Creates a transfer function of the PID controller
 
 ### Step 4: Applying the PID controller to the rocket transfer function
 
@@ -340,12 +318,11 @@ This code sets up a PID controller with specific gains and creates a transfer fu
 CL = ctrl.feedback(C * G, 1)
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/5.png)
-*Applying the PID controller to the rocket transfer function*
+<!-- ![Applying the PID controller to the rocket transfer function](https://freecodecamp.org/news/content/images/2024/08/5.png) -->
 
-- **`C * G`**: Multiplies the PID controller `C` with the system `G` (the rocket) to form the open-loop transfer function, which models the system's behavior without feedback and relies on predefined settings.
-- **`ctrl.feedback(C * G, 1)`**: Computes the closed-loop transfer function by applying feedback and representing the system's behavior with feedback. This allows it to adjust inputs and automatically correct errors.
-- **`CL`**: Stores the resulting closed-loop system, integrating the controller with the rocket to maintain desired performance through feedback, and is used for further analysis or simulation.
+- `C * G`: Multiplies the PID controller `C` with the system `G` (the rocket) to form the open-loop transfer function, which models the system's behavior without feedback and relies on predefined settings.
+- `ctrl.feedback(C * G, 1)`: Computes the closed-loop transfer function by applying feedback and representing the system's behavior with feedback. This allows it to adjust inputs and automatically correct errors.
+- `CL`: Stores the resulting closed-loop system, integrating the controller with the rocket to maintain desired performance through feedback, and is used for further analysis or simulation.
 
 ### Step 5: Root Locus for gain analysis
 
@@ -354,16 +331,14 @@ In this code:
 ```js
 plt.figure(figsize=(10, 6))
 ctrl.root_locus(C * G, grid=True)
-plt.title(<span class="hljs-string">"Root Locus Plot (Closed-Loop)")
+plt.title("Root Locus Plot (Closed-Loop)")
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/6.png)
-*Create the Root Locus Graph*
+<!-- ![Create the Root Locus Graph](https://freecodecamp.org/news/content/images/2024/08/6.png) -->
 
 We generate this plot:
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/root-locus.png" alt="Image" width="1000" height="600" loading="lazy">
-*Simple Root Locus Graph*
+![Simple Root Locus Graph](https://freecodecamp.org/news/content/images/2024/08/root-locus.png)
 
 This is a root locus graph. It was invented to help engineers study the stability of control systems.
 
@@ -388,16 +363,14 @@ In this code:
 ```js
 plt.figure(figsize=(10, 6))
 ctrl.bode_plot(CL, dB=True, Hz=False, deg=True)
-plt.suptitle(<span class="hljs-string">"Bode Plot (Closed-Loop)", fontsize=16)
+plt.suptitle("Bode Plot (Closed-Loop)", fontsize=16)
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/7.png)
-*Create the Bode Plot Graph*
+<!-- ![Create the Bode Plot Graph](https://freecodecamp.org/news/content/images/2024/08/7.png) -->
 
 We generate this plot:
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/bode.png)
-*Simple Bode Plot*
+![Simple Bode Plot](https://freecodecamp.org/news/content/images/2024/08/bode.png)
 
 The Bode plot was invented to help engineers understand how a system responds to changes and how stable it will be under different conditions.
 
@@ -405,8 +378,7 @@ The Bode plot also shows the system's stability and safety margins.
 
 Let's understand how it works:
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/detail-bode.png)
-*Bode Plot in detail*
+![Bode Plot in detail](https://freecodecamp.org/news/content/images/2024/08/detail-bode.png)
 
 The graph on top is called the Magnitude Plot and the one below it is called the Phase Plot.
 
@@ -429,16 +401,14 @@ In this code:
 ```js
 plt.figure(figsize=(10, 6))
 ctrl.nyquist_plot(CL)
-plt.title(<span class="hljs-string">"Nyquist Plot (Closed-Loop)")
+plt.title("Nyquist Plot (Closed-Loop)")
 ```
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/8.png)
-*Create the Nyquist Plot Graph*
+<!-- ![Create the Nyquist Plot Graph](https://freecodecamp.org/news/content/images/2024/08/8.png) -->
 
 We generate this plot:
 
-<img src="https://www.freecodecamp.org/news/content/images/2024/08/nyquist.png)
-*Nyquist Plot Graph*
+![Nyquist Plot Graph](https://freecodecamp.org/news/content/images/2024/08/nyquist.png)
 
 The Nyquist Plot is a tool to help engineers quickly check if a control system is stable or not.
 
@@ -449,9 +419,9 @@ It is very simple:
 
 Since there aren't circles around the red cross, this control system is stable.
 
-### -last-step-after-designing-the-rocket-control-system">Last step after designing the rocket control system
+### Last step after designing the rocket control system
 
-After completing the design of this PID control system, we can use tools like <a href="https://www.mathworks.com/products/simulink.html">Simulink</a> to find the necessary values for many components.
+After completing the design of this PID control system, we can use tools like [<FontIcon icon="fas fa-globe"/>Simulink](https://mathworks.com/products/simulink.html) to find the necessary values for many components.
 
 In other words, after getting the best PID controller variables, it's time to find the physical component values of the rocket.
 
@@ -474,7 +444,7 @@ With a stable control system, based on a PID controller to control the physical 
 
 ## Conclusion: Non-linear control systems
 
-![Photo by Peter de Vink: https://www.pexels.com/photo/photo-of-full-moon-975012/](https://www.freecodecamp.org/news/content/images/2024/08/moon.jpg)
+![Photo by [<FontIcon icon="fas fa-globe"/>Peter de Vink](https://pexels.com/photo/photo-of-full-moon-975012/)](https://freecodecamp.org/news/content/images/2024/08/moon.jpg)
 
 There are many methods available to us to optimize a Linear Time-Invariant (LTI) control system:
 
@@ -496,12 +466,12 @@ Another one is Lyapunov's method. In this case, it is used for stability analysi
 
 Still, the process of making these control systems is always the same. This article explained how this process works and how it is applied in a time-invariant system.
 
-tiagomonteiro0715/freecodecamp-my-articles-source-code
-This repository holds the code I use in my freecodecamo news articles.
-https://github.com/tiagomonteiro0715/freecodecamp-my-articles-source-code
-https://avatars.githubusercontent.com/u/68009234?v=4
-https://opengraph.githubassets.com/0179b45466df41e0640473cbca1c2e4130c0ca8d9cb1b073d16681bb492d45f5/tiagomonteiro0715/freecodecamp-my-articles-source-code
--->
+<SiteInfo
+  name="tiagomonteiro0715/freecodecamp-my-articles-source-code"
+  desc="This repository holds the code I use in my freecodecamo news articles."
+  url="https://github.com/tiagomonteiro0715/freecodecamp-my-articles-source-code"
+  logo="https://avatars.githubusercontent.com/u/68009234?v=4"
+  preview="https://opengraph.githubassets.com/0179b45466df41e0640473cbca1c2e4130c0ca8d9cb1b073d16681bb492d45f5/tiagomonteiro0715/freecodecamp-my-articles-source-code"/>
 
 ---
 

@@ -1204,6 +1204,13 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
 }
 ```
 
+<SiteInfo
+  name="Ankur Tyagi - Blogging as a Service for Startups"
+  desc="Welcome to my digital playground."
+  url="https://theankurtyagi.com/blog/"
+  logo="https://theankurtyagi.com/wp-content/uploads/2023/07/cropped-cropped-ankur-icon-32x32.jpg"
+  preview="https://theankurtyagi.com/wp-content/uploads/2023/07/theankurtyagi-1.jpg"/>
+
 <!-- END: Tech Blog -->
 
 @tab <FontIcon icon="fas fa-blog"/>Tech Blog (Korea)
