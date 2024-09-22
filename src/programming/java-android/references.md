@@ -119,8 +119,9 @@ tag:
   - [Exploring the Viability of Cross-Platform UI Development with Compose Multiplatform](https://proandroiddev.com/exploring-the-viability-of-cross-platform-ui-development-with-compose-multiplatform-c5be0608b69d)
   - [Command Your User Inputs with Jetpack Compose— Text Field Features Hidden in Plain Sight](https://proandroiddev.com/command-your-user-inputs-with-jetpack-compose-text-field-features-hidden-in-plain-sight-47aaacc56aaf)
   - [The best way to load data in ViewModels](https://proandroiddev.com/the-best-way-to-load-data-in-viewmodels-a112ced54e07)
+  - [Exploring Lifecycle-Aware Service and `FirebaseMessagingService` on Android](https://proandroiddev.com/exploring-lifecycle-aware-service-and-firebasemessagingservice-on-android-fcc89a2e9528)
 - [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
-  - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82da5092fc43)
+  - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82d)
   - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
   - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
   - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
@@ -294,6 +295,7 @@ tag:
 - [Blog: \[발표자료\] I/O Extended Android in Korea 2024 ~ Whats new in Android development tools](http://pluu.github.io/blog/android/2024/07/21/android-studio/)
 - [Blog: \[Lint\]](http://pluu.github.io/blog/android/2024/08/03/Compose-Lint/)
 - [Blog: \[메모\] AndroidX Compose BOM stable/beta/alpha 버전](http://pluu.github.io/blog/android/2024/09/19/compose-bom/)
+- [Blog: Coil 요청 가로채기](http://pluu.github.io/blog/android/2024/09/22/coil-intercept/)
 
 <!-- END: pluu.github.io -->
 
@@ -656,6 +658,30 @@ tag:
 ## Pamela Hill
 
 - [How to Add a Splash Screen to a Compose Multiplatform App](https://pamelaahill.com/post/how-to-add-a-splash-screen-to-a-compose-multiplatform-app)
+
+---
+
+## PoisonedYouth TechBlog
+
+- [How to start with DynamoDB in your Ktor application (Part 1)](https://poisonedyouth.github.io/DynamoDB)
+
+<!-- END: poisonedyouth.github.io -->
+
+---
+
+## Software Development Company | Bright Inventions
+
+- [Choosing the Right Logging Library for Android App](https://brightinventions.pl/blog/choosing-the-right-logging-library-for-android-app/)
+
+<!-- END: brightinventions.pl -->
+
+---
+
+## Find components for your Jetpack Compose apps – Composables
+
+- [Bottom Sheets that... just work](https://composables.com/jetpack-compose-tutorials/bottom-sheets-that-just-work)
+
+<!-- END: composables.com -->
 
 ---
 

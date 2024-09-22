@@ -437,4 +437,12 @@ head:
 
 ---
 
+## rein's world
+
+- [TIL: delta를 `git pager`로 쓰기](https://rein.kr/posts/2024-09-21-til-delta%EB%A5%BC-git-pager%EB%A1%9C-%EC%93%B0%EA%B8%B0/)
+
+<!-- END: rein.kr -->
+
+---
+
 <TagLinks />

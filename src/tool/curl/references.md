@@ -60,4 +60,12 @@ head:
 
 ---
 
+## Terence Eden’s Blog
+
+- [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+
+<!-- END: shkspr.mobi -->
+
+---
+
 <TagLinks />

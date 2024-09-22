@@ -205,6 +205,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-secure-a-nextjs-ai-application-deployed-on-vercel", // 2024-08-19
       "what-is-speedy-web-compiler", // 2024-09-05
       "how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs", // 2024-09-16
+      "how-to-create-a-nextjs-pwa", // 2024-09-20,
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -826,6 +827,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-css-to-improve-web-accessibility", // 2024-09-18
       "learn-how-to-secure-api-servers", // 2024-09-19
       "master-object-oriented-programming-and-design-patterns-in-c", // 2024-09-19
+      "how-to-create-a-nextjs-pwa", // 2024-09-20,
     ]],
   ]),
 }

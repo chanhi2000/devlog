@@ -8000,5 +8000,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/136553510?v=4",
     "banner": ""
+  }, {
+    "repo": "Kanaries/pygwalker",
+    "desc": "PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis",
+    "officialSite": "https://kanaries.net/pygwalker",
+    "topics": ["data-analysis", "data-exploration", "dataframe", "matplotlib", "pandas", "plotly", "tableau", "tableau-alternative", "visualization"],
+    "avatar": "https://avatars.githubusercontent.com/u/57262471?v=4",
+    "banner": ""
+  }, {
+    "repo": "hylang/hy",
+    "desc": "A dialect of Lisp that's embedded in Python",
+    "officialSite": "http://hylang.org",
+    "topics": ["compiler", "hy", "lisps", "macros", "metaprogramming", "python"],
+    "avatar": "https://avatars.githubusercontent.com/u/4141508?v=4",
+    "banner": ""
   }
 ]

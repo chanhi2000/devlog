@@ -291,6 +291,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`cori` / 코딩하는 오리](http://cori.tistory.com/m/)
   - [나의 개발 일지 (1) 서버 세팅](http://cori.tistory.com/m/345)
   - [나의 개발 일지 (2) Docker 설정](http://cori.tistory.com/m/346)
+  - [FastAPI를 이용한 추론 모델 배포 (feat.docker)](https://cori.tistory.com/m/357)
   <!-- END: cori -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[DevOps\] Docker와 Jenkins를 이용한 CI/CD 구축 (1)](https://findsilverlining.tistory.com/m/116)

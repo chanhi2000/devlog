@@ -241,4 +241,10 @@ head:
 
 ---
 
+## IOT 개발 가이드
+
+- [AWS cognito 를 next.js에서 활용하기](https://m.blog.naver.com/nanotoly/223590635000)
+
+---
+
 <TagLinks />

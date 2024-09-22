@@ -36,6 +36,7 @@ tag:
 ### Forums
 
 - [〜StreamUI: Make videos with SwiftUI](https://forums.swift.org/t/streamui-make-videos-with-swiftui)
+- [Example of a Cross-Platform macOS/Windows Application Developed Using Swift 6](https://forums.swift.org/t/example-of-a-cross-platform-macos-windows-application-developed-using-swift-6/74591)
 
 ---
 
@@ -562,6 +563,9 @@ tag:
 - [Customising the DocC documentation theme](https://swiftpackageindex.com/blog/customising-the-docc-documentation-theme)
 - [Ready for Swift 6](https://swiftpackageindex.com/ready-for-swift-6)
 - [`SwiftOpenAIProxy`](https://swiftpackageindex.com/PicoMLX/PicoAIProxy)
+- [`swift-export`](https://swiftpackageindex.com/franklefebvre/swift-export?)
+
+<!-- END: swiftpackageindex.com -->
 
 ---
 
@@ -990,6 +994,22 @@ tag:
 - [Swift Package Manager Dependency Owners](https://alejandromp.com/development/blog/swift-package-manager-dependency-owners/)
 
 <!-- END: alejandromp.com -->
+
+---
+
+## Neil Macy
+
+- [Previews in Xcode Playgrounds](https://neilmacy.co.uk/blog/xcode-playgrounds-previews)
+
+<!-- END: neilmacy.co.uk -->
+
+---
+
+## Whacky Labs
+
+- [MoveMe - SwiftUI Edition](https://whackylabs.com/swift/swiftui/ios/animation/2024/09/12/moveme-swiftui-edition/)
+
+<!-- END:  -->
 
 ---
 

@@ -427,6 +427,7 @@ tag:
   - [HTML에서 DOCTYPE을 꼭 사용해야 하는 이유](https://kesakiyo.tistory.com/m/entry/HTML%EC%97%90%EC%84%9C-DOCTYPE%EC%9D%84-%EA%BC%AD-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   - [한 번쯤 들어봤을 Reset CSS와 Normalize CSS, 무슨 차이가 있을까?](https://kesakiyo.tistory.com/m/entry/%ED%95%9C-%EB%B2%88%EC%AF%A4-%EB%93%A4%EC%96%B4%EB%B4%A4%EC%9D%84-Reset-CSS%EC%99%80-Normalize-CSS-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C)
   - [HSL 색상 모델이란? - RGB보다 직관적인 색상 모델](https://kesakiyo.tistory.com/m/entry/HSL-%EC%83%89%EC%83%81-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%9E%80-RGB%EB%B3%B4%EB%8B%A4-%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8-%EC%83%89%EC%83%81-%EB%AA%A8%EB%8D%B8)
+  - [HTML에서 form을 원격으로 제출하는 방법](https://kesakiyo.tistory.com/m/entry/HTML%EC%97%90%EC%84%9C-form%EC%9D%84-%EC%9B%90%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   <!-- END: kesakiyo -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)
@@ -739,6 +740,14 @@ tag:
 ## Build Your Own X From Scratch Books
 
 - [CSS finally adds vertical centering in 2024](https://build-your-own.org/blog/20240813_css_vertical_center/)
+
+---
+
+## Jim Nielsen’s Blog
+
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
+
+<!-- END: blog.jim-nielsen.com -->
 
 ---
 

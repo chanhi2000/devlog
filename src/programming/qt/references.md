@@ -59,6 +59,7 @@ head:
   - [테이블(QTableWidget)에 콤보박스(QComboBox) 추가하기](https://webnautes.tistory.com/m/2387)
   - [PyQt5 라벨 사용 예제 - QLabel, QFont, StyleSheet](http://webnautes.tistory.com/m/2388)
   - [PyQt5 QDateEdit 사용 예제](https://webnautes.tistory.com/m/2390)
+  - [pyQt5에서 레이아웃을 사용하는 이유](https://webnautes.tistory.com/m/2394)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

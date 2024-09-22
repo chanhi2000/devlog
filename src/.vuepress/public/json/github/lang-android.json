@@ -755,5 +755,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/123428296?v=4",
     "banner": ""
+  }, {
+    "repo": "a-sit-plus/signum",
+    "desc": "Kotlin Multiplatform Crypto/PKI Library and ASN1 Parser + Encoder",
+    "officialSite": "https://a-sit-plus.github.io/signum/",
+    "topics": ["asn1", "attestation", "crypto", "cryptography", "ecdsa", "kmp", "kotlin", "kotlin-multiplatform", "pki", "rsa", "signature"],
+    "avatar": "https://avatars.githubusercontent.com/u/14927738?v=4",
+    "banner": ""
+  }, {
+    "repo": "Kashif-E/CameraK",
+    "desc": "A camera library for Compose Multiplatform",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/61690178?v=4",
+    "banner": ""
+  }, {
+    "repo": "burnoo/kspoon",
+    "desc": "Annotation based HTML to Kotlin class parser with KMP support, kotlinx (de)serializtion format, jspoon successor",
+    "officialSite": "",
+    "topics": ["html", "html-parser", "kotlin-multiplatform", "kotlinx-serialization", "ktor", "retrofit2"],
+    "avatar": "https://avatars.githubusercontent.com/u/17478192?v=4",
+    "banner": ""
   }
 ]

@@ -246,6 +246,7 @@ head:
 - [GNU core utilities](https://johngrib.github.io/wiki/cmd/gnu-coreutils/)
 - [macOS 초보를 위한 터미널 사용 가이드 - Week 07](https://johngrib.github.io/wiki/mac/terminal-guide/07/)
 - [iTerm](https://johngrib.github.io/wiki/mac/iterm/)
+- [맥북 설정하기](https://johngrib.github.io/wiki/mac/setting/)
 
 <!-- END: johngrib.github.io -->
 

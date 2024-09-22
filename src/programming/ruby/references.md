@@ -61,9 +61,15 @@ tag:
 
 ---
 
-## 몽상현실개발주의
+## tistory
 
-- [Rails의 지연 로딩(Lazy Loading) 과 데이터베이스 연결 전환](https://leeiopd.tistory.com/m/entry/Rails%EC%9D%98-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0-%EC%A0%84%ED%99%98)
+- [`leeiopd` / 몽상현실개발주의](https://leeiopd.tistory.com/m/)
+  - [Rails의 지연 로딩(Lazy Loading) 과 데이터베이스 연결 전환](https://leeiopd.tistory.com/m/entry/Rails%EC%9D%98-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0-%EC%A0%84%ED%99%98)
+  <!-- END: leeiopd -->
+- [`rutgo-letsgo` / Enthusiastically, Steady, Slowly ](https://rutgo-letsgo.tistory.com/m/)
+  - [\[번역\] Ruby Modules(루비 모듈)](https://rutgo-letsgo.tistory.com/m/entry/%EB%B2%88%EC%97%AD-Ruby-Modules%EB%A3%A8%EB%B9%84-%EB%AA%A8%EB%93%88)
+  <!-- END: rutgo-letsgo -->
+<!-- END: tistory -->
 
 ---
 

@@ -377,5 +377,19 @@
     "topics": ["books", "nginx", "pdf", "redis", "software-architecture", "software-design"],
     "avatar": "https://avatars.githubusercontent.com/u/43104160?v=4",
     "banner": ""
+  }, {
+    "repo": "rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "officialSite": "https://www.labri.fr/perso/nrougier/",
+    "topics": ["book", "dataviz", "matplotlib", "numpy", "open-access", "plotting", "python", "scientific-publications"],
+    "avatar": "https://avatars.githubusercontent.com/u/327203?v=4",
+    "banner": ""
+  }, {
+    "repo": "keleshev/compiling-to-assembly-from-scratch",
+    "desc": "Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas",
+    "officialSite": "https://keleshev.com/cas",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/619158?v=4",
+    "banner": ""
   }
 ]

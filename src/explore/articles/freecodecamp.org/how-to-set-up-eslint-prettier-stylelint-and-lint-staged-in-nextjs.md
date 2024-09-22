@@ -13,6 +13,9 @@ tag:
   - node
   - nodejs
   - node-js
+  - next
+  - nextjs
+  - next-js
 head:
   - - meta:
     - property: og:title
@@ -21,7 +24,7 @@ head:
       content: "How to Set Up ESLint, Prettier, StyleLint, and lint-staged in Next.js"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/freecodecamp.org/how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs.html
-prev: /programming/js-node/articles/README.md
+prev: /programming/js-next/articles/README.md
 date: 2024-09-16
 isOriginal: false
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726515328917/f3ecbc80-6d06-45ee-b307-89ed1a7bc854.jpeg

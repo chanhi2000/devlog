@@ -72,6 +72,9 @@ tag:
   - [아무도 없어도 규칙을 지키는 사람](https://jojoldu.tistory.com/m/802)
   - [결심은 단순하게](https://jojoldu.tistory.com/m/805)
   <!-- END: jojoldu -->
+- [`sunyzero` / Linux Programmer](http://sunyzero.tistory.com/m/)
+  - [수영 영법 부상 : 충돌 증후군과 회전근개파열, 늑연골염](http://sunyzero.tistory.com/m/302)
+  <!-- END: sunyzero -->
 <!-- END: tistory.com -->
 
 ---

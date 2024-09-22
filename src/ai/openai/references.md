@@ -83,6 +83,7 @@ head:
 - [Connecting Custom GPTs to Slack in 5 minutes (no coding required)](https://snowwhale.medium.com/connecting-custom-gpts-to-slack-in-5-minutes-no-coding-required-17ca39644f5f)
 - [`misc-finance-economics-and-ai-ml` / GPT-4o, 대화를 통한 상호작용으로의 회귀](https://medium.com/misc-finance-economics-and-ai-ml/gpt-4o-%EB%8C%80%ED%99%94%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80-c1631b24972d)
 - [`towardsdatascience` / Simple Implementation of OpenAI CLIP model: A Tutorial](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
+- [`@taesulee93` / Gmail에서 Inline 파트가 noname으로 표기되는 현상 — Gmail noname Attachment](https://medium.com/@taesulee93/gmail%EC%97%90%EC%84%9C-inline-%ED%8C%8C%ED%8A%B8%EA%B0%80-noname%EC%9C%BC%EB%A1%9C-%ED%91%9C%EA%B8%B0%EB%90%98%EB%8A%94-%ED%98%84%EC%83%81-gmail-noname-attachment-9527ba54ab03?source=rss-524631d9bcfb------2)
 
 <!-- END: medium.com -->
 

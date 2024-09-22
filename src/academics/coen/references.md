@@ -34,6 +34,7 @@ head:
 
 - [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
 - [`@broccolism` / 🗳️ 합의 알고리즘 Raft 논문 읽기 - 1. 누가누가 리더가 되나](https://velog.io/@broccolism/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Raft-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-1.-%EB%88%84%EA%B0%80%EB%88%84%EA%B0%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EB%82%98)
+- [`@euisuk-chung` / \[개념\] 시스템, 미분방정식, 그리고 상태 공간 모델](https://velog.io/@euisuk-chung/%EA%B0%9C-%EC%83%81%ED%83%9C-%EA%B3%B5%EA%B0%84-%EB%AA%A8%EB%8D%B8State-Space-Model)
 
 <!-- END: velog.io -->
 
@@ -151,6 +152,12 @@ head:
 ## IETF  | Internet Engineering Task Force
 
 - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
+
+---
+
+## 보름의 달빛 ✨
+
+- [시간 복잡도와 공간 복잡도](https://shkisme.vercel.app/Time-Space-Complexity)
 
 ---
 

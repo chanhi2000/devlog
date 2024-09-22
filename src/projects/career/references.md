@@ -150,6 +150,12 @@ tag:
 - [`@prayme` / 이직 고민기](https://velog.io/@prayme/%EC%9D%B4%EC%A7%81-%EA%B3%A0%EB%AF%BC%EA%B8%B0)
 - [`@jaehyun_ground` / 첫 면접을 다녀오고](https://velog.io/@jaehyun_ground/%EC%B2%AB-%EB%A9%B4%EC%A0%91%EC%9D%84-%EB%8B%A4%EB%85%80%EC%98%A4%EA%B3%A0)
 - [`@kwonhl0211` / 컴공, 디자인 취준생 분들에게 하고 싶은 말](https://velog.io/@kwonhl0211/%EC%BB%B4%EA%B3%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B7%A8%EC%A4%80%EC%83%9D-%EB%B6%84%EB%93%A4%EC%97%90%EA%B2%8C-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EB%A7%90)
+- [`@dradnats1012` / 삶의 지도](https://velog.io/@dradnats1012/%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84)
+- [`@joshuara7235` / 나에겐 먼 이야기인 줄 알았던 그것, 번아웃](https://velog.io/@joshuara7235/%EB%82%98%EC%97%90%EA%B2%90-%EB%A8%BC-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%B8-%EC%A4%84-%EC%95%8C%EC%95%98%EB%8D%98-%EA%B7%B8%EA%B2%83-%EB%B2%88%EC%95%84%EC%9B%83)
+- [`@broccolism` / 우리의 끝은 정말 치킨집일까](https://velog.io/@broccolism/%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%81%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%B9%98%ED%82%A8%EC%A7%91%EC%9D%BC%EA%B9%8C)
+- [`@bestswlkh0310` / 직군](https://velog.io/@bestswlkh0310/%EC%A7%81%EA%B5%B0%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%83%9D%EA%B8%B0%EB%8A%94-%EC%95%94%EB%AC%B5%EC%A0%81-%EA%B6%8C%EB%A0%A5)
+- [`@bestswlkh0310` / 수상 경력이 중요한가요?](https://velog.io/@bestswlkh0310/%EC%88%98%EC%83%81-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80%EC%9A%94)
+- [`@bestswlkh0310` / 일 할 때 말의 scope](https://velog.io/@bestswlkh0310/%EC%9D%BC-%ED%95%A0-%EB%95%8C-%EB%A7%90%EC%9D%98-scope)
 
 <!-- END: velog.io -->
 
@@ -321,6 +327,9 @@ tag:
 - [`@2xm` / 14.5 지속적 학습과 성장 - 산책 중 떠오른 생각들](https://brunch.co.kr/@@2xm/85)
 - [`@ZVA` / AWS가 인텔 파운드리에 구원투수가 될 것인가](https://brunch.co.kr/@@ZVA/728)
 - [`@2rV` / 창업자(founder) vs. 좌초자(flounder)](https://brunch.co.kr/@@2rV/181)
+- [`@1W2S` / 노마드코더 7년 회고 - Start Small, Stay Small](https://brunch.co.kr/@@1W2S/259)
+- [`@2rV` / 위대한 기업 문화를 어떻게 만들 것인가? - 구글, 애플, 우버 리더십의 대화](https://brunch.co.kr/@@2rV/183)
+- [`@ZVA` / 페북 리브라의 후예들, 수이 vs 앱토스 뭐가 다르지?](https://brunch.co.kr/@@ZVA/730)
 
 <!-- END: brunch.co.kr -->
 
@@ -654,6 +663,10 @@ tag:
 - [`pronist` / hELLO.](https://pronist.tistory.com/m/)
   - [당신은 성장하고 계신가요?](https://pronist.tistory.com/m/196)
   - [이런 사람은 성장할 수 없습니다](https://pronist.tistory.com/m/197)
+  <!-- END: pronist -->
+- [`xtring-dev` / xtring.dev](https://xtring-dev.tistory.com/m/)
+  - [\[삶의 지도\] 5년차 FE 과거부터 현재까지](https://xtring-dev.tistory.com/m/entry/%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84-5%EB%85%84%EC%B0%A8-FE-%EA%B3%BC%EA%B1%B0%EB%B6%80%ED%84%B0-%ED%98%84%EC%9E%AC%EA%B9%8C%EC%A7%80)
+  <!-- END: xtring-dev -->
 <!-- END: tistory.com -->
 
 ---

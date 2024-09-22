@@ -16,12 +16,6 @@ tag:
 
 ---
 
-## 💾 Knowledge Repository
-
-- [[Redis] ‘RDB’ 포맷의 파일의 내용을 확인할 수 있는 방법](https://atoz-develop.tistory.com/m/entry/Redis-%E2%80%98RDB%E2%80%99-%ED%8F%AC%EB%A7%B7%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95)
-
----
-
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/224.md) -->
@@ -83,6 +77,9 @@ tag:
 
 ## tistory
 
+- [`atoz-develop` / 💾 Knowledge Repository](https://atoz-develop.tistory.com/m/)
+  - [[Redis] ‘RDB’ 포맷의 파일의 내용을 확인할 수 있는 방법](https://atoz-develop.tistory.com/m/entry/Redis-%E2%80%98RDB%E2%80%99-%ED%8F%AC%EB%A7%B7%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%98-%EB%82%B4%EC%9A%A9%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  <!-- END: atoz-develop -->
 - [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
   - [Redis를 활용한 다양한 시스템 설계](https://devs0n.tistory.com/m/92)
   <!-- END: devs0n -->
@@ -103,6 +100,9 @@ tag:
   - [Redis Stream의 구조적 특징(Message Queue)](https://splendidlolli.tistory.com/m/762)
   - [\[Redis\] StreamListener(onMessage)와 Consumer 객체간 관계](https://splendidlolli.tistory.com/m/775)
   <!-- END: splendidlolli -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
+  <!-- END: shout-to-my-mae -->
 <!-- END: tistory.com -->
 
 ---

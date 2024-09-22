@@ -2315,5 +2315,12 @@
     "topics": ["3d", "3d-graphics", "3d-models", "3d-printing", "c-plus-plus", "c-plus-plus-17", "cad", "dxf-files", "linux", "macos", "opengl", "openscad", "qt5", "qt6", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/466370?v=4",
     "banner": ""
+  }, {
+    "repo": "sz3/libcimbar",
+    "desc": "Optimized implementation for color-icon-matrix barcodes",
+    "officialSite": "https://cimbar.org",
+    "topics": ["barcode", "cpp17", "fountain-codes", "image-hash", "opencv", "proof-of-concept"],
+    "avatar": "https://avatars.githubusercontent.com/u/5728104?v=4",
+    "banner": ""
   }
 ]

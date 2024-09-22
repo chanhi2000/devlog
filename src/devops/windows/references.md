@@ -45,6 +45,8 @@ tag:
 
 - [Why does part of the Windows 98 Setup program look older than the rest?](https://retrocomputing.stackexchange.com/questions/14903/why-does-part-of-the-windows-98-setup-program-look-older-than-the-rest)
 
+---
+
 ## tistory
 
 - [이벤트 뷰어, 윈도우 시스템 사용 기록 각종 로그 정보 보기](https://prolite.tistory.com/959)
@@ -285,8 +287,15 @@ tag:
 ## 그대안의작은호수
 
 - [DMA전략 관리를 위한 모니터링 서버 만들기](https://smallake.kr/?p=32275)
+- [DMA전략 관리를 위한 모니터링 서버 만들기 둘째](https://smallake.kr/?p=30337)
 
 <!-- END: smallake.kr -->
+
+---
+
+## jacking75
+
+- [Windows 에서 <kbd>Ctrl</kbd>-<kbd>L</kbd>을 사용하여 클립보드 백업 유무에 관계없이 줄 삭제하기](https://jacking75.github.io/OS_windows_20240922/)
 
 ---
 

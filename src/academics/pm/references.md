@@ -88,6 +88,7 @@ tag:
 - [`@2fEJ` / 고객 중심의 제품 관리](https://brunch.co.kr/@@2fEJ/1466)
 - [`@2rV` / PM으로 입사하고 회의 진행자 역할만 하는 것 같아요](https://brunch.co.kr/@@2rV/177)
 - [`@2rV` / 저보다 경력이 많은 시니어 PM 채용을 부탁해야할까요?](https://brunch.co.kr/@@2rV/178)
+- [`@2rV` / 프로덕트 매니저(PM) 직무 전환 함께하기](https://brunch.co.kr/@@2rV/182)
 
 <!-- END: brunch.co.kr -->
 

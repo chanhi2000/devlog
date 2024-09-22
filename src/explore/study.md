@@ -908,6 +908,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://cdn.prod.website-files.com/64f8c178a66a6e1a607ff9d0/65393072761c3d0a2f61740b_Vahe%20Aslanyan%20(256%20x%20256%20px)%20(1)%20(32%20x%2032%20px).png"
   preview="https://i.imgur.com/Ntarl3h_d.webp?maxwidth=760&fidelity=grand"/>
 
+<SiteInfo
+  name="Compiling to Assembly from Scratch"
+  desc="This book will teach you enough compiler theory and assembly programming to get going. It uses a subset of TypeScript that reads like pseudocode and targets ARM 32-bit instruction set."
+  url="https://keleshev.com/compiling-to-assembly-from-scratch/#table-of-contents"
+  logo="https://keleshev.com/favicon.ico?v=1"
+  preview="https://keleshev.com/compiling-to-assembly-from-scratch-photo.jpg"/>
+
 <!-- END: Crashcourse -->
 
 @tab Cheatsheet

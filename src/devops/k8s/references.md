@@ -408,6 +408,9 @@ head:
 
 - [커널 강화 도구 사용하기](https://ddii.dev/kubernetes/kernelhardening/)
 - [파드 Readiness & Probe](https://ddii.dev/kubernetes/readinessandprobe/)
+- [Multus on Kind cluster](https://ddii.dev/kubernetes/multus-on-kind/)
+
+<!-- END: ddii.dev -->
 
 ---
 
@@ -416,6 +419,14 @@ head:
 - [Kubernetes로 GitHub Actions 커스텀 러너 구축하기](https://marshallku.com/dev/setup-github-actions-custom-runner-with-kubernetes)
 
 <!-- END: marshallku.com -->
+
+---
+
+## Log on Me
+
+- [\[KANS\] 3기 3주 – Calico CNI & Network Mode](https://logonme.net/activities/study/kans_3_3/)
+
+<!-- END: logonme.net -->
 
 ---
 

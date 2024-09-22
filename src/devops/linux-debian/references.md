@@ -269,10 +269,14 @@ tag:
   <!-- END: bbogle2 -->
 - [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
   - [임베디드 리눅스 디버깅 & 프로파일링](https://1000sj.tistory.com/m/348)
+  - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
   <!-- END: 1000sj -->
 - [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
   - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
   <!-- END: myinfrabox -->
+- [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
+  - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)
+  <!-- END: yongho1037 -->
 <!-- END: tistory.com -->
 
 ---

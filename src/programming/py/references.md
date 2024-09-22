@@ -2283,6 +2283,12 @@ head:
 - [Py) 크롤링 BS(find) - 01](https://datadoctorblog.com/2024/09/14/Py-Crawling-BS-find-01/)
 - [Py) 크롤링 BS(find) - 02](https://datadoctorblog.com/2024/09/17/Py-Crawling-BS-find-02/)
 - [Py) 전처리 - 결측치 처리-03](https://datadoctorblog.com/2024/09/19/Py-Preprocessing-Missing-03/)
+- [Py) TM - 정규표현식-01(개요)](https://datadoctorblog.com/2024/09/20/Py-TM-regex-01-Introduction/)
+- [Py) TM - 정규표현식-02(패턴조합)](https://datadoctorblog.com/2024/09/20/Py-TM-regex-02-Complex-Cases/)
+- [Py) TM - 정규표현식-03(패턴반복)](https://datadoctorblog.com/2024/09/20/Py-TM-regex-03-Repetition/)
+- [Py) TM - 정규표현식-04(대괄호)](https://datadoctorblog.com/2024/09/21/Py-TM-regex-04-Square-Brackets/)
+
+<!-- END: datadoctorblog.com -->
 
 ---
 

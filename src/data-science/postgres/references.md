@@ -426,4 +426,10 @@ head:
 
 ---
 
+## Kendrick B Jung's Blog
+
+- [PostgreSQL의 Dead Tuple과 Vacuum](https://sonim1.com/ko/blog/postgresql-deadtuple-and-autovacuum/)
+
+---
+
 <TagLinks />

@@ -354,6 +354,10 @@ tag:
 - [`man` 명령어](https://johngrib.github.io/wiki/cmd/man/)
 - [`trap` 명령어](https://johngrib.github.io/wiki/cmd/trap/)
 - [`date` 명령어](https://johngrib.github.io/wiki/cmd/date/)
+- [`chronic` 명령어](https://johngrib.github.io/wiki/cmd/chronic/)
+- [`crontab`](https://johngrib.github.io/wiki/cmd/crontab/)
+- [`awk`](https://johngrib.github.io/wiki/language/awk/)
+- [`sudo` 명령어](https://johngrib.github.io/wiki/cmd/sudo/)
 
 <!-- END: johngrib.github.io -->
 

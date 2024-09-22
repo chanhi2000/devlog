@@ -264,6 +264,9 @@ head:
 - [클립보드에 저장된 이미지 파일로 저장하기 - Step 5](https://m.blog.naver.com/tipsware/223586044470)
 - [\[Q&A\] 아스키 문자열에서 원하는 문자열 찾아서 유니코드로 가져오기](https://m.blog.naver.com/tipsware/223588579854)
 - [블로그 조회수 그래프로 확인하기 - Step 1](https://m.blog.naver.com/tipsware/223588658538)
+- [LabX에 선 그래프 예제가 추가되었습니다.](https://m.blog.naver.com/tipsware/223590553960)
+- [LxMFC를 사용해서 컴퓨터에 연결된 CAM 장치의 영상 출력하기](https://m.blog.naver.com/tipsware/223591118302)
+- [CAM 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223591697391)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -355,6 +358,7 @@ head:
 - [\[백준 3632번\] Drying](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-3632%EB%B2%88-Drying)
 - [\[백준 22742번\] Make Friendships](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-22742%EB%B2%88-Make-Friendships)
 - [\[백준 17216번\] 가장 큰 감소 부분 수열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17216%EB%B2%88-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EA%B0%90%EC%86%8C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
+- [\[백준 20040번\] 사이클 게임](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-20040%EB%B2%88-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B2%8C%EC%9E%84)
 
 <!-- END: kesakiyo.tistory.com -->
 

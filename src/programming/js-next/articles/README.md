@@ -160,6 +160,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How To Create a Progressive Web App (PWA) Using Next.js", 
+  "desc": "Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be...",
+  "link": "/explore/articles/freecodecamp.org/how-to-create-a-nextjs-pwa.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

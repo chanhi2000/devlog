@@ -264,6 +264,7 @@ head:
   - [\[1년 후 마실가실\] JWT와 로그아웃(3) 로그아웃](https://hj0216.tistory.com/m/947)
   - [\[1년 후 마실가실\] Custom Error 처리](https://hj0216.tistory.com/m/948)
   - [\[1년 후 마실가실\] PostMan과 Controller Test Code](https://hj0216.tistory.com/m/950)
+  - [\[1년 후 마실가실\] `@WebMvcTest` Security 403](https://hj0216.tistory.com/m/951)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -347,6 +348,8 @@ head:
   - [06.01. 책 입력 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0601-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [06.02. 책 입력 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0602-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [06.03. 책 입력 기능 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0603-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
+  - [06.04. 책 입력 기능 만들기 - 4](https://ysedeveloper.tistory.com/m/entry/0604-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-4)
+  - [07.01. 책 상세 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0701-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -360,6 +363,7 @@ head:
   - [컬렉션과 부가 기능](https://maeng-dev.tistory.com/m/179)
   - [JPA 표준 예외와 트랜잭션 롤백](https://maeng-dev.tistory.com/m/180)
   - [N+1 문제](https://maeng-dev.tistory.com/m/181)
+  - [2차 캐시](https://maeng-dev.tistory.com/m/182)
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
@@ -384,10 +388,14 @@ head:
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter05\] : 순환참조, 순환참조 문제, 순환참조 해결법](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter05-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%EB%AC%B8%EC%A0%9C-%EC%88%9C%ED%99%98%EC%B0%B8%EC%A1%B0-%ED%95%B4%EA%B2%B0%EB%B2%95)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter06\] : 스마트 UI, 트랜잭션 스크립트, 레이어드 아키텍처, 서비스 컴포넌트는 비즈니스 로직이 아니다, 애플리케이션의 본질](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter06-%EC%8A%A4%EB%A7%88%ED%8A%B8-UI-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%8A%94-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A1%9C%EC%A7%81%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EB%B3%B8%EC%A7%88)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter07\] : 서비스란 무엇인가?, 애플리케이션/도메인 서비스는 어떻게 다른가?, 서비스의 본질은 ?](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter07-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%A4%EB%A5%B8%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%B3%B8%EC%A7%88%EC%9D%80)
+  - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter08\] : 레이어드 아키텍처를 사용할 때 유념해야하는 것](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter08-%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%9C%A0%EB%85%90%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EA%B2%83)
   <!-- END: jakpentest -->
 - [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
   - [\[Spring Scheduler\] 서버 이중화 또는 증설 시 `ShedLock`을 사용하여 스케쥴러 중복 실행 방지하기](https://colabear754.tistory.com/m/222)
   <!-- END: colabear754 -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
+  <!-- END: shout-to-my-mae -->
 <!-- END: tistory.com java -->
 
 ### 비탐인
@@ -588,10 +596,6 @@ head:
 
 - [Distributed Cache로 Hibernate Second Level Cache를 적용하여 성능 튜닝하기 - Second Level Cache 적용편](https://pkgonan.github.io/2020/05/distributed-hibernate-second-level-cache-3)
 
-### Minty Box
-
-- [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
-
 ### 얇고 넓은 개발 블로그
 
 - [Transactional의 Self Injection이 올바른가](https://sundries-in-myidea.tistory.com/m/167)
@@ -713,6 +717,9 @@ head:
   - [\[Spring Boot / Error\] Required request body is missing](https://backend-jaamong.tistory.com/m/173)
   - [\[Gradle\] gradle build와 gradle bootJar의 차이](https://backend-jaamong.tistory.com/m/176)
   <!-- END: backend-jaamong -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
+  <!-- END: shout-to-my-mae -->
 <!-- END: tistory.com -->
 
 ### suhwan.dev

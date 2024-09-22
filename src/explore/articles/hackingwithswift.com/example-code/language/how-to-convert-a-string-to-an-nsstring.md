@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-7.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,25 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 7.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>When Swift originally launched, NSString (older iOS strings) and native Swift strings were completely interchangeable, as were NSArray and Swift arrays, plus NSDictionary and Swift dictionaries. This got changed in Swift 1.2 so that you need to explicitly cast between these data types, and this remains the same in Swift today.</p>
+<p>So, to cast between Swift strings and NSString, you need to do a simple typecast like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Hello"</span></span>
+<span class="token keyword">let</span> otherStr <span class="token operator">=</span> str <span class="token keyword">as</span> <span class="token class-name">NSString</span></code></pre>
+<p>Note that you don't need to force the typecast because the two data types are still interoperable.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/example-code/language/how-to-convert-data-to-a-string">How to convert Data to a String</a></li><li><a href="/example-code/uikit/how-to-convert-a-cgpoint-in-one-uiview-to-another-view-using-convert">How to convert a CGPoint in one UIView to another view using convert()</a></li><li><a href="/example-code/language/how-to-convert-a-string-to-an-int">How to convert a String to an Int</a></li><li><a href="/example-code/language/how-to-convert-a-string-to-a-float">How to convert a string to a float</a></li></ul>
 -->
+
+:::
 
 ---
 

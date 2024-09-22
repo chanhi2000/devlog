@@ -278,9 +278,10 @@ head:
 
 ---
 
-## nanotoly
+## IOT 개발 가이드
 
 - [AWS API gateway를 통해서 AWS IOT 에 메세지 PUBLISH 하기](https://m.blog.naver.com/nanotoly/223408850676)
+- [AWS cognito 를 next.js에서 활용하기](https://m.blog.naver.com/nanotoly/223590635000)
 
 ---
 
@@ -564,6 +565,14 @@ head:
 ## Bug Bounty & Agile Pentesting Platform | Intigriti
 
 - [Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide)
+
+---
+
+## PoisonedYouth TechBlog
+
+- [How to start with DynamoDB in your Ktor application (Part 1)](https://poisonedyouth.github.io/DynamoDB)
+
+<!-- END: poisonedyouth.github.io -->
 
 ---
 

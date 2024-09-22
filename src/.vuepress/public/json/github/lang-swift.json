@@ -853,5 +853,12 @@
     "topics": ["ios-app", "swift", "swiftui"],
     "avatar": "https://avatars.githubusercontent.com/u/26827351?v=4",
     "banner": ""
+  }, {
+    "repo": "franklefebvre/swift-export",
+    "desc": "A command-line tool to make it easier to sign and notarize executable packages on macOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/870658?v=4",
+    "banner": ""
   }
 ]

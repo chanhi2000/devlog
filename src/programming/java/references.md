@@ -422,6 +422,8 @@ tag:
 - [[숫자야구게임 Step1] 실제 애플리케이션이 동작할 코드를 작성하자 & 마무리](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step1-%EC%8B%A4%EC%A0%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8F%99%EC%9E%91%ED%95%A0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%A7%88%EB%AC%B4%EB%A6%AC)
 - [[DDD 세레나데 6기] 1주차 - 0단계 Junit5 학습](https://rutgo-letsgo.tistory.com/m/entry/DDD-%EC%84%B8%EB%A0%88%EB%82%98%EB%8D%B0-6%EA%B8%B0-1%EC%A3%BC%EC%B0%A8-0%EB%8B%A8%EA%B3%84-Junit5-%ED%95%99%EC%8A%B5)
 - [프로젝트에 Kotlin의 컨벤션을 지키기 위해 Ktlint를 사용해보기.](https://rutgo-letsgo.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Kotlin%EC%9D%98-%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9D%84-%EC%A7%80%ED%82%A4%EA%B8%B0-%EC%9C%84%ED%95%B4-Ktlint%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+- [\[숫자야구게임 Step3\] 정책을 정의내리고 테크스펙을 작성해보자.](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step3-%EC%A0%95%EC%B1%85%EC%9D%84-%EC%A0%95%EC%9D%98%EB%82%B4%EB%A6%AC%EA%B3%A0-%ED%85%8C%ED%81%AC%EC%8A%A4%ED%8E%99%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [\[숫자야구게임 Step3\] Repository 구현](https://rutgo-letsgo.tistory.com/m/entry/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC%EA%B2%8C%EC%9E%84-Step3-Repository-%EA%B5%AC%ED%98%84)
 
 ### CK.D. Lee
 
@@ -687,6 +689,16 @@ tag:
 ### 당근케잌
 
 - [집나간 zip 파일 찾아요](https://yeon-kr.tistory.com/m/235)
+
+### 보름의 달빛 ✨
+
+- [배열](https://shkisme.vercel.app/array)
+
+### Jason Pearson
+
+- [Metaspace in JVM Builds](https://jasonpearson.dev/metaspace-in-jvm-builds/)
+
+<!-- END: jasonpearson.dev -->
 
 ---
 

@@ -28,10 +28,16 @@ head:
 
 ---
 
-## 사바라다는 차곡차곡
+## tistory
 
-- [\[Security\] OAuth 2 Extension, Proof Key of Code Exchange(PKCE)에 대해서 알아보자](https://sabarada.tistory.com/m/263)
-- [\[security\] OAuth 2.0의 인가 스펙과 OIDC(OpenID Connect)의 인증 스펙에 대해서 알아봅시다](https://sabarada.tistory.com/m/264)
+- [`sabarada` / 사바라다는 차곡차곡](https://sabarada.tistory.com/m/)
+  - [\[Security\] OAuth 2 Extension, Proof Key of Code Exchange(PKCE)에 대해서 알아보자](https://sabarada.tistory.com/m/263)
+  - [\[security\] OAuth 2.0의 인가 스펙과 OIDC(OpenID Connect)의 인증 스펙에 대해서 알아봅시다](https://sabarada.tistory.com/m/264)
+  <!-- END: sabarada -->
+  - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
+  <!-- END: shout-to-my-mae -->
+<!-- END: tistory.com -->
 
 ---
 

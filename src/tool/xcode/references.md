@@ -144,4 +144,12 @@ head:
 
 ---
 
+## TrozWare
+
+- [Xcode Folders & Groups](https://troz.net/post/2024/xcode_folders_groups/)
+
+<!-- END: troz.net -->
+
+---
+
 <TagLinks />

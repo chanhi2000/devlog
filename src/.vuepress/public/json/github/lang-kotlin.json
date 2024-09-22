@@ -628,5 +628,12 @@
     "topics": ["best-practices", "exception-handling", "exceptions", "kotlin", "mistakes", "null-safety", "type-safety"],
     "avatar": "https://avatars.githubusercontent.com/u/81246797?v=4",
     "banner": ""
+  }, {
+    "repo": "EdwarDDay/kotlin-server-scripts",
+    "desc": "Run kotlin scripts as web request response",
+    "officialSite": "",
+    "topics": ["fcgi", "kotlin", "script", "server"],
+    "avatar": "https://avatars.githubusercontent.com/u/4127904?v=4",
+    "banner": ""
   }
 ]

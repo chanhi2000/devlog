@@ -306,6 +306,9 @@ head:
 - [`@2fEJ` / \[UX 원칙#12\] 드롭다운 메뉴 사용 UX 원칙](https://brunch.co.kr/@@2fEJ/1479)
 - [`@2fEJ` / \[UX 원칙#12\] 드롭다운 메뉴 사용 UX 원칙](https://brunch.co.kr/@@2fEJ/1479)
 - [`@2fEJ` / \[UX원칙#13\]탭(Tabs) UX 설계 14가지 원칙](https://brunch.co.kr/@@2fEJ/1480)
+- [`@2fEJ` / \[UX원칙#13\]탭(Tabs) UX 설계 14가지 원칙](https://brunch.co.kr/@@2fEJ/1480)
+- [`@2fEJ` / \[UX원칙#12\] 체크박스와 토글 UX 설계 7 원칙](https://brunch.co.kr/@@2fEJ/1481)
+- [`@2fEJ` / \[UX원칙#13\]고스트 버튼을 디자인할 때 고려사항](https://brunch.co.kr/@@2fEJ/1482)
 
 <!-- END: brunch.co.kr -->
 
@@ -378,6 +381,7 @@ head:
   <!-- END: lob-dev -->
 - [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
   - [데이터 스누핑 편향이란?](https://sonseungha.tistory.com/m/724)
+  - [S/W Architecture - 시스템 구조 설명 View](https://sonseungha.tistory.com/m/728)
   <!-- END: sonseungha -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [소프트웨어 생산성을 높이기 위한 방법](https://aspdotnet.tistory.com/m/3220)

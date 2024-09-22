@@ -56,7 +56,12 @@ tag:
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [리눅스 계정 색상 변경](https://bbogle2.tistory.com/m/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B3%84%EC%A0%95-%EC%83%89%EC%83%81-%EB%B3%80%EA%B2%BD)
   <!-- END: bbogle2 -->
-<!-- END: tistory.com -->
+- [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
+  - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
+  <!-- END: 1000sj -->
+- [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
+  - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)
+  <!-- END: yongho1037 --><!-- END: tistory.com -->
 
 ---
 
