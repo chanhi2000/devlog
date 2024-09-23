@@ -2322,5 +2322,19 @@
     "topics": ["barcode", "cpp17", "fountain-codes", "image-hash", "opencv", "proof-of-concept"],
     "avatar": "https://avatars.githubusercontent.com/u/5728104?v=4",
     "banner": ""
+  }, {
+    "repo": "YimMenu/YimMenu",
+    "desc": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",
+    "officialSite": "https://yim.gta.menu",
+    "topics": ["cpp", "gta5", "gtav", "menu", "mod", "mod-menu"],
+    "avatar": "https://avatars.githubusercontent.com/u/106739674?v=4",
+    "banner": ""
+  }, {
+    "repo": "aristocratos/btop",
+    "desc": "A monitor of resources",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/59659483?v=4",
+    "banner": ""
   }
 ]

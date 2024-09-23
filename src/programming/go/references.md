@@ -433,4 +433,12 @@ tag:
 
 ---
 
+## Roger Sen - exploring area
+
+- [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
+
+<!-- END: rogersm.net -->
+
+---
+
 <TagLinks />

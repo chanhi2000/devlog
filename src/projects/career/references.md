@@ -667,6 +667,9 @@ tag:
 - [`xtring-dev` / xtring.dev](https://xtring-dev.tistory.com/m/)
   - [\[삶의 지도\] 5년차 FE 과거부터 현재까지](https://xtring-dev.tistory.com/m/entry/%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84-5%EB%85%84%EC%B0%A8-FE-%EA%B3%BC%EA%B1%B0%EB%B6%80%ED%84%B0-%ED%98%84%EC%9E%AC%EA%B9%8C%EC%A7%80)
   <!-- END: xtring-dev -->
+- [`flymogi` / flymogi](https://flymogi.tistory.com/m/)
+  - [삶의 지도](https://flymogi.tistory.com/m/88)
+  <!-- END: flymogi -->
 <!-- END: tistory.com -->
 
 ---
@@ -753,6 +756,7 @@ tag:
 - [노가다에 대해서](https://thestartupbible.com/2024/09/not-scalable-until-scalable.html)
 - [분위기](https://thestartupbible.com/2024/09/the-vibe.html)
 - [배고픔의 축복](https://thestartupbible.com/2024/09/the-blessings-of-a-lack-of-capital.html)
+- [제2의 한류](https://thestartupbible.com/2024/09/the-second-korean-wave.html)
 
 <!-- END: thestartupbible.com -->
 

@@ -42,6 +42,10 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726728761614/ba739b8
 }
 ```
 
+[[toc]]
+
+---
+
 <SiteInfo
   name="How To Create a Progressive Web App (PWA) Using Next.js"
   desc="Have you ever wanted to create a web app that works smoothly on any device—whether it's on the web, mobile, or desktop? Imagine if your app could load quickly, work without an internet connection, and feel like a native app, all without needing to be..."

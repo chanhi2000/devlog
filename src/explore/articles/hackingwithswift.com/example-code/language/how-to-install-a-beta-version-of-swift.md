@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-7.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,32 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 7.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>Xcode ships with a fixed version of Swift, but that doesn't mean you need to <em>use</em> that version. In fact, it's possible to install multiple versions of the Swift toolchain, and switch between them as often as you need. At the time of writing, that means you can use Swift 5.0 with Xcode 10, and try out Swift development releases alongside.</p>
+<p>All set? Start by going to <a href="https://swift.org/download/#snapshots">https://swift.org/download/#snapshots</a> and looking for the latest Swift snapshot. If you're on macOS you'll see a link for "Xcode", but there are also Linux downloads available. Don't click "Debugging Symbols" or "Signature" – either click Xcode or an Ubuntu version.</p>
+<p><img class="hws" src="/img/hws/example-code-288-1.png" alt=""></p>
+<p>This downloads a file named something like swift-DEVELOPMENT-SNAPSHOT-2016-05-09-a-osx.pkg, which contains the most recently snapshot of Swift created from the mainline development branch. Double-click to launch the installer, then follow the on-screen instructions. Expect a full install to take up about 900MB.</p>
+<p><img class="hws" src="/img/hws/example-code-288-2.png" alt=""></p>
+<p>Once the installer has finished, launch Xcode as normal. When it loads, go to the Xcode menu in the top-left corner, and choose Toolchains &gt; Swift Development Snapshot YOUR-DATE-HERE (a).</p>
+<p><img class="hws" src="/img/hws/example-code-288-3.png" alt=""></p>
+<p>You'll be prompted to restart Xcode, but when it relaunches it should say “Xcode 10.0 (10A255)” then beneath that "Swift Development Snapshot YOUR-DATE-HERE (a) Toolchain", signaling that you have installed and activated the snapshot.</p>
+<p><img class="hws" src="/img/hws/example-code-288-4.png" alt=""></p>
+<p>That's it, now brace yourself: open any of your Swift projects, and press Cmd+B to build. You <em>might</em> get one or two (or fifty) compile errors. </p>
+<p>When you're done admiring the latest and greatest Swift snapshot, you can switch back to your previous Swift version returning to the Toolchains menu item. When you revert back to the default Swift version, you can delete any snapshot you don't want by going to Xcode &gt; Settings &gt; Components, then hovering over it and clicking the small settings icon.</p>
+<p><img class="hws" src="/img/hws/example-code-288-5.png" alt=""></p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/language/how-to-check-the-swift-version-at-compile-time">How to check the Swift version at compile time</a></li><li><a href="/example-code/system/how-to-read-your-apps-version-from-your-infoplist-file">How to read your app’s version from your Info.plist file</a></li><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li><li><a href="/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup</a></li><li><a href="/example-code/xcode/how-to-create-a-project-using-swift-package-manager">How to create a project using Swift Package Manager</a></li></ul>
 -->
+
+:::
 
 ---
 

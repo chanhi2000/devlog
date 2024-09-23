@@ -573,6 +573,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an AI Chatbot with Spring AI, React, and Docker",
+  "desc": "Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...",
+  "link": "/explore/articles/freecodecamp.org/ai-chatbot-with-spring-react-docker.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time",
+  "desc": "We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...",
+  "link": "/explore/articles/freecodecamp.org/boost-web-performance-with-prefetching.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

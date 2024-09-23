@@ -203,6 +203,7 @@ tag:
 - [`jakpentest` / 뭐라도 해야 한다면 기록을..검색하기 ](https://jakpentest.tistory.com/m/)
   - [Obsidian + Github + Github action을 활용한 티스토리 업로드 자동화](https://jakpentest.tistory.com/m/entry/Obsidian-Github-Github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9E%90%EB%8F%99%ED%99%94)
   - [Private Repository의 Permanent URL에 접근할 경우](https://jakpentest.tistory.com/m/entry/Private-Repository%EC%9D%98-Permanent-URL%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%A0-%EA%B2%BD%EC%9A%B0)
+  - [Github Action에서 Selenium 실행시키기](https://jakpentest.tistory.com/m/entry/Github-Action%EC%97%90%EC%84%9C-Selenium-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0)
   <!-- END: jakpentest -->
 - [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
   - [깃헙의 매트랩 파일을 MATLAB Online에서 여는 버튼 만들기](https://lazymatlab.tistory.com/m/244)

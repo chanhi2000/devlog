@@ -97,6 +97,7 @@ tag:
 - [`@mythos` / \[Linux Kernel\] 리눅스 커널의 버전 관리 (Versioning)](https://velog.io/@mythos/Linux-Kernel-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%9D%98-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-Versioning)
 - [`@mythos` / \[Linux Kernel\] 패치 라이프 사이클 (next, staging tree)](https://velog.io/@mythos/Linux-Kernel-%ED%8C%A8%EC%B9%98-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4)
 - [`@euisuk-chung` / nvidia-smi의 시대는 갔다?](https://velog.io/@euisuk-chung/nvidia-smi%EC%9D%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EA%B0%94%EB%8B%A4)
+- [`@mythos` / \[Linux Kernel\] Sparse 정적 분석 도구](https://velog.io/@mythos/Linux-Kernel-Sparse-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC)
 
 <!-- END: velog.io -->
 

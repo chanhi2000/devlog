@@ -14,7 +14,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Article(s) > How the Comma Ok Idiom and Package System Work in Go
+      content: Article(s) > How Statically and Dynamically Linked Go Binaries Work
     - property: og:description
       content: How Statically and Dynamically Linked Go Binaries Work
     - property: og:url
@@ -42,7 +42,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725977444176/20f3beb
 ---
 
 <SiteInfo
-  name="How the Comma Ok Idiom and Package System Work in Go"
+  name="How Statically and Dynamically Linked Go Binaries Work"
   desc="One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil..."
   url="https://freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/"
   logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"

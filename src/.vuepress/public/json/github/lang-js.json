@@ -3581,5 +3581,12 @@
     "topics": ["3-axis", "bcnc", "blendercam", "cam", "camotics", "cnc", "cncwebtools", "freecad", "g-code", "gcode", "grbl", "mill", "simulator", "toolpath"],
     "avatar": "https://avatars.githubusercontent.com/u/276504?v=4",
     "banner": ""
+  }, {
+    "repo": "theMK2k/Media-Hoarder",
+    "desc": "Media Hoarder - THE media frontend for data hoarders and movie lovers",
+    "officialSite": "https://media.hoarder.software",
+    "topics": ["chatgpt", "electron", "frontend", "linux", "macos", "media", "nodejs", "vue", "vuejs", "vuejs2", "vuetify", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/16878526?v=4",
+    "banner": ""
   }
 ]

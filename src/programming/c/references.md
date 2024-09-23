@@ -66,6 +66,9 @@ tag:
 
 - [`@mythos` / \[C\] JSON 라이브러리 개발](https://velog.io/@mythos/C-JSON-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
 - [`@mythos` / \[C\] 로깅 라이브러리 개발](https://velog.io/@mythos/C-%EB%A1%9C%EA%B9%85-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
+- [`@mythos` / \[Linux Kernel\] Sparse 정적 분석 도구](https://velog.io/@mythos/Linux-Kernel-Sparse-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC)
+
+<!-- END: velog.io -->
 
 ---
 

@@ -26,4 +26,13 @@ head:
 
 ---
 
+## tistory
+
+- [`jakpentest` / jakpentest](https://jakpentest.tistory.com/m/)
+  - [Github Action에서 Selenium 실행시키기](https://jakpentest.tistory.com/m/entry/Github-Action%EC%97%90%EC%84%9C-Selenium-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0)
+  <!-- END: jakpentest -->
+<!-- END: tistory.com -->
+
+---
+
 <TagLinks />

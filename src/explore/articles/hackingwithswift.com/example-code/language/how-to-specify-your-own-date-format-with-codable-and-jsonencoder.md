@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,27 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>When using <code>JSONEncoder</code> to encode dates, there are a handful of built-in date formats you can choose from. If none of them fit your needs, why not make your own? You can configure a <code>DateFormatter</code> using whatever date and time format you want, then pass that to the <code>JSONEncoder</code> as its <code>dateEncodingStrategy</code> property, like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> encoder <span class="token operator">=</span> <span class="token class-name">JSONEncoder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">let</span> formatter <span class="token operator">=</span> <span class="token class-name">DateFormatter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+formatter<span class="token punctuation">.</span>dateStyle <span class="token operator">=</span> <span class="token punctuation">.</span>full
+formatter<span class="token punctuation">.</span>timeStyle <span class="token operator">=</span> <span class="token punctuation">.</span>full
+encoder<span class="token punctuation">.</span>dateEncodingStrategy <span class="token operator">=</span> <span class="token punctuation">.</span><span class="token function">formatted</span><span class="token punctuation">(</span>formatter<span class="token punctuation">)</span></code></pre>
+<p>That converts any <code>Date</code> properties to be the fullest possible string for your locale, e.g. "Monday, February 5, 2018 at 9:28:10 PM Greenwich Mean Time”.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li></ul>
 -->
+
+:::
 
 ---
 

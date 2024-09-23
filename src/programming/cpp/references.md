@@ -359,6 +359,7 @@ head:
 - [\[백준 22742번\] Make Friendships](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-22742%EB%B2%88-Make-Friendships)
 - [\[백준 17216번\] 가장 큰 감소 부분 수열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17216%EB%B2%88-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EA%B0%90%EC%86%8C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
 - [\[백준 20040번\] 사이클 게임](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-20040%EB%B2%88-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B2%8C%EC%9E%84)
+- [\[백준 21925번\] 짝수 팰린드롬](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-21925%EB%B2%88-%EC%A7%9D%EC%88%98-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 
 <!-- END: kesakiyo.tistory.com -->
 

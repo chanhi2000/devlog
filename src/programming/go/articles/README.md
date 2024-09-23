@@ -244,6 +244,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Write Benchmark Tests for Your Golang Functions",
+  "desc": "Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...",
+  "link": "/explore/articles/freecodecamp.org/how-to-write-benchmark-tests-for-your-golang-functions.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

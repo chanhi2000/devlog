@@ -265,6 +265,7 @@ head:
   - [\[1년 후 마실가실\] Custom Error 처리](https://hj0216.tistory.com/m/948)
   - [\[1년 후 마실가실\] PostMan과 Controller Test Code](https://hj0216.tistory.com/m/950)
   - [\[1년 후 마실가실\] `@WebMvcTest` Security 403](https://hj0216.tistory.com/m/951)
+  - [\[해결 방법\] `TooManyActualInvocations`](https://hj0216.tistory.com/m/952)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -350,6 +351,7 @@ head:
   - [06.03. 책 입력 기능 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0603-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
   - [06.04. 책 입력 기능 만들기 - 4](https://ysedeveloper.tistory.com/m/entry/0604-%EC%B1%85-%EC%9E%85%EB%A0%A5-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-4)
   - [07.01. 책 상세 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0701-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [07.02. 책 상세 화면 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0702-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -639,6 +641,7 @@ head:
 
 - [\[Spring MVC\] Filter에서 파라미터 처리하는 방법](https://potwings.tistory.com/m/66)
 - [Spring Boot main 2배 버그 팝니다@@@@@](https://potwings.tistory.com/m/68)
+- [어노테이션은 사실 깡통이다.](https://potwings.tistory.com/m/69)
 
 <!-- END: potwings -->
 

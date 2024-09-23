@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,25 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
+<p>To find the minimum of two numbers, either both integer or both floating point (not mixed!), use the <code>min()</code> function. For example:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> first <span class="token operator">=</span> <span class="token number">10</span>
+<span class="token keyword">let</span> second <span class="token operator">=</span> <span class="token number">15</span>
 
+<span class="token keyword">let</span> smallest <span class="token operator">=</span> <span class="token function">min</span><span class="token punctuation">(</span>first<span class="token punctuation">,</span> second<span class="token punctuation">)</span></code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/language/how-to-find-the-minimum-of-three-numbers">How to find the minimum of three numbers</a></li><li><a href="/example-code/language/how-to-find-the-maximum-of-two-numbers">How to find the maximum of two numbers</a></li><li><a href="/example-code/language/how-to-find-the-maximum-of-three-numbers">How to find the maximum of three numbers</a></li><li><a href="/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays</a></li><li><a href="/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a></li></ul>
 -->
+
+:::
 
 ---
 

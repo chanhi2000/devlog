@@ -821,6 +821,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
 }
 ```
 
+<SiteInfo
+  name="VGA Playground (TinyTapeout/vga-playground)"
+  desc="Playground for VGA projects on Tiny Tapeout"
+  url="https://tinytapeout.github.io/vga-playground/"
+  logo="https://avatars.githubusercontent.com/u/113102577?s=200&v=4"
+  preview="https://repository-images.githubusercontent.com/803476867/4959c7ac-81c3-4e43-abd5-76108b3bcabf"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,26 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>If you need to create an array of a specific size holding some default values, Swift has a built-in initializer called <code>repeating:count:</code>. You tell it what to repeat, and how often, and Swift will generate an array of that size.</p>
+<p>For example, this creates an array of 100 items, all containing 0:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers1 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token class-name">Int</span><span class="token punctuation">]</span><span class="token punctuation">(</span>repeating<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> count<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">)</span></code></pre>
+<p>You can even use this initializer to create multi-dimensional arrays, for example an array of arrays of numbers:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers2 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">[</span><span class="token class-name">Int</span><span class="token punctuation">]</span><span class="token punctuation">]</span><span class="token punctuation">(</span>repeating<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">Int</span><span class="token punctuation">]</span><span class="token punctuation">(</span>repeating<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> count<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">)</span><span class="token punctuation">,</span> count<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">)</span></code></pre>
+<p>You can use this when creating a game board: mark all rows and columns as being 0 for a 100x100 board, then fill in squares as the game proceeds.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/language/how-to-remove-the-first-or-last-item-from-an-array">How to remove the first or last item from an array</a></li><li><a href="/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof">How to find an item in an array using firstIndex(of:)</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li><li><a href="/example-code/language/how-to-append-one-array-to-another-array">How to append one array to another array</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
 -->
+
+:::
 
 ---
 

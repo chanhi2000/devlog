@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,25 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>When you use <code>JSONEncoder</code> and <code>Codable</code> to create JSON from your Swift data, it comes out in a compressed format by default –&nbsp;it has all its excess whitespace removed. This makes it efficient for transferring over the network, but hard to debug because it’s just a big jumble of words.</p>
+<p>For debugging purposes, it’s a good idea to enable pretty printing for your encoded JSON, which will tell <code>JSONEncoder</code> to separate everything using line breaks and spaces so you can read it more easily.</p>
+<p>To make this happen, set the <code>outputFormatting</code> property of your JSON encoder to be <code>.prettyPrinted</code>, like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> encoder <span class="token operator">=</span> <span class="token class-name">JSONEncoder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+encoder<span class="token punctuation">.</span>outputFormatting <span class="token operator">=</span> <span class="token punctuation">.</span>prettyPrinted</code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li></ul>
 -->
+
+:::
 
 ---
 

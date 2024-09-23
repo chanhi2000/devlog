@@ -5,7 +5,7 @@ description: Arduino > Youtube
 icon: fa-brands fa-youtube
 category:
   - Hardware
-  - ARduino
+  - Arduino
   - Youtube 
 tag: 
   - hardware

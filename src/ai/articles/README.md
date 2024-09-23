@@ -172,6 +172,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Build an AI Chatbot with Spring AI, React, and Docker",
+  "desc": "Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...",
+  "link": "/explore/articles/freecodecamp.org/ai-chatbot-with-spring-react-docker.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

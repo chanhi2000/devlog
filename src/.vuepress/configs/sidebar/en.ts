@@ -3456,6 +3456,14 @@ export const sidebarEn = sidebar({
         '/hw/README.md',
         '/hw/references.md',
         '/hw/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/hw/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Raspberry Pi (H/W)',

@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,29 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>You can – and should –&nbsp;read the thermal state of your device before doing any intensive work, because if the system is already under pressure you might find your app becomes unresponsive, even with basic things like animations.</p>
+<p>You can read the current thermal state using <code>ProcessInfo.processInfo.thermalState</code>, which has four values:</p>
+<ul>
+<li>When it’s <code>.nominal</code> you can proceed as normal and do all the work you want.</li>
+<li>When it’s <code>.fair</code> you should consider delaying any work that isn’t visible to users.</li>
+<li>When it’s <code>.serious</code> the system is working at high capacity and you should scale back the CPU, GPU, and I/O work you do.</li>
+<li>When it’s <code>.critical</code> the system is unable to keep up with all the work that is being done, so your user interface is likely to stutter –&nbsp;now is a bad time to do any sort of animation.</li>
+</ul>
+<p>The latter two of those are important to monitor, because users <em>will</em> notice –&nbsp;at <code>.critical</code> level you can expect their device to be hot to the touch, so hopefully your app isn’t the cause of that!</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li></ul>
 -->
+
+:::
 
 ---
 

@@ -37,6 +37,9 @@ head:
   - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
   <!-- END: shout-to-my-mae -->
+- [`yejipro` / Yeji's Tech Notes](https://yejipro.tistory.com/m/)
+  - [OAuth 원리와 이해 (feat. 카카오 로그인)](https://yejipro.tistory.com/m/entry/OAuth-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9D%B4%ED%95%B4-feat-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
+  <!-- END: yejipro -->
 <!-- END: tistory.com -->
 
 ---

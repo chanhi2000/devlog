@@ -659,4 +659,10 @@ head:
 
 ---
 
+## 신현석(Hyeonseok Shin)
+
+- [`Promise.race`로 실행 시간 제한 걸기](https://hyeonseok.com/blog/920)
+
+---
+
 <TagLinks />

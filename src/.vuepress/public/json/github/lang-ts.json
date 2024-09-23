@@ -4807,5 +4807,12 @@
     "topics": ["boilerplate", "codestyle", "eslint", "jest", "reactjs", "ssr", "typescript", "webpack"],
     "avatar": "https://avatars.githubusercontent.com/u/6189375?v=4",
     "banner": ""
+  }, {
+    "repo": "panoratech/Panora",
+    "desc": "A single API to add dozens of integrations into your product",
+    "officialSite": "https://docs.panora.dev",
+    "topics": ["api", "crm", "docker", "docker-compose", "growth-hacking", "javascript", "monorepo", "nestjs", "oauth", "open-core", "open-source", "postgresql", "prisma", "react", "self-hosted", "typescript", "typescript-sdk", "unified-api", "vitejs"],
+    "avatar": "https://avatars.githubusercontent.com/u/144964506?v=4",
+    "banner": ""
   }
 ]

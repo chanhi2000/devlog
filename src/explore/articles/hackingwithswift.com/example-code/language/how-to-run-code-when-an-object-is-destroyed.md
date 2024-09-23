@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,37 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
+<p>All structs and classes can have initializers, which are special methods that run when those types are created. However, classes can also have <em>deinitializers</em> – code that gets run when an instance of the class is destroyed. This isn’t possible with structs because they only ever have one owner.</p>
+<p>Deinitializers never take any parameters, so they are written just as <code>deinit</code>. For example, we could create a simple <code>Person</code> class with an initializer and a deinitializer:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
+    <span class="token keyword">init</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"I'm alive!"</span></span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
 
+    <span class="token keyword">deinit</span> <span class="token punctuation">{</span>
+        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"I'm dying!"</span></span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span></code></pre>
+<p>If you want to try that in a playground, run this code:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">do</span> <span class="token punctuation">{</span>
+    <span class="token keyword">let</span> person <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span></code></pre>
+<p>Putting the <code>Person</code> instance inside a <code>do</code> block ensures it will be destroyed before the playground finishes, so you should see “I’m alive!” and “I’m dying!”</p>
+<p>Deinitializers are extremely important when handling memory that isn’t managed by Swift. For example, if you’re using an external C library and it has allocated RAM, you should free that RAM inside your deinitializer.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/how-to-access-a-core-data-managed-object-context-from-a-swiftui-view">How to access a Core Data managed object context from a SwiftUI view</a></li><li><a href="/example-code/arrays/how-to-tell-if-an-array-contains-an-object">How to tell if an array contains an object</a></li><li><a href="/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array</a></li></ul>
 -->
+
+:::
 
 ---
 

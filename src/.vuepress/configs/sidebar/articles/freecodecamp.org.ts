@@ -75,6 +75,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
       "build-a-crud-app-spring-boot-neon-postgres", // 2024-07-26
       "build-a-shopping-cart-backend-with-spring-boot-and-spring-security", // 2024-08-28
+      "ai-chatbot-with-spring-react-docker", // 2024-09-23
     ]],[
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
@@ -189,6 +190,8 @@ export const template: SidebarInfoTemplate = {
       "learn-the-mern-stack-by-building-a-store", // 2024-09-04
       "essential-javascript-concepts-before-react", // 2024-09-10
       "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
+      "ai-chatbot-with-spring-react-docker", // 2024-09-23
+      "boost-web-performance-with-prefetching", // 2024-09-23
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -321,6 +324,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-implement-server-sent-events-in-go", // 2024-08-28
       "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
       "golang-statically-and-dynamically-linked-go-binaries", // 2024-09-10
+      "how-to-write-benchmark-tests-for-your-golang-functions", // 2024-09-23
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -391,6 +395,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "docker", [
       "how-to-create-database-migrations-in-go", // 2024-06-26
+      "ai-chatbot-with-spring-react-docker", // 2024-09-23
     ]],[
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -409,6 +414,7 @@ export const template: SidebarInfoTemplate = {
       "ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown", // 2024-08-12
       "simplify-aws-multi-account-management", // 2024-08-13
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
+      "ecs-monitoring-explained-with-examples", // 2024-09-23
     ]],[
     "azure", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
@@ -507,6 +513,7 @@ export const template: SidebarInfoTemplate = {
       "prompt-engineering-basics", // 2024-07-29
       "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
       "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
+      "ai-chatbot-with-spring-react-docker", // 2024-09-23
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -544,6 +551,9 @@ export const template: SidebarInfoTemplate = {
     "career", [
       "skills-you-need-to-become-a-backend-developer-roadmap", // 2024-09-03
       "how-to-be-a-productive-developer", // 2024-09-13
+    ]],[
+    "hw", [
+      "how-to-get-a-memory-map-of-your-system-using-bios-interrupts", // 2024-09-23
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
@@ -828,6 +838,11 @@ export const template: SidebarInfoTemplate = {
       "learn-how-to-secure-api-servers", // 2024-09-19
       "master-object-oriented-programming-and-design-patterns-in-c", // 2024-09-19
       "how-to-create-a-nextjs-pwa", // 2024-09-20,
+      "ecs-monitoring-explained-with-examples", // 2024-09-23
+      "how-to-get-a-memory-map-of-your-system-using-bios-interrupts", // 2024-09-23
+      "ai-chatbot-with-spring-react-docker", // 2024-09-23
+      "how-to-write-benchmark-tests-for-your-golang-functions", // 2024-09-23
+      "boost-web-performance-with-prefetching", // 2024-09-23
     ]],
   ]),
 }

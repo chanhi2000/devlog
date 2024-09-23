@@ -45,6 +45,9 @@ head:
 
 - [`adminjs` / Building a blog with Next.js, AdminJS, and React: a simple step-by-step guide](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)
 - [`kmong` / Next.js App Router.. 이제는 앱라적 사고가 필요하다. Deep dive 시작부터 파헤치기 Part.1](https://blog.kmong.com/next-js-app-router-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EC%95%B1%EB%9D%BC%EC%A0%81-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-deep-dive-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-part-1-6399cea5f11d?source=rss-62ff0a08953f------2)
+- [`junghan92` / (번역) 구글이 색인 과정에서 자바스크립트를 처리하는 방법](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80%EC%9D%B4-%EC%83%89%EC%9D%B8-%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-43f570983779?source=rss-4f4a02f8f2cf------2)
+
+<!-- END: medium.com -->
 
 ---
 

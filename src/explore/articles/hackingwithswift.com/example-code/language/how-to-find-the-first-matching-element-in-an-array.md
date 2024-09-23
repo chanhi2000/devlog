@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,25 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
-
+<p>The <code>first()</code> method exists on all sequences, and returns the first item in a sequence that passes a test you specify.</p>
+<p>For example, given the following array:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> scores <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">80</span><span class="token punctuation">,</span> <span class="token number">100</span><span class="token punctuation">,</span> <span class="token number">80</span><span class="token punctuation">,</span> <span class="token number">85</span><span class="token punctuation">]</span></code></pre>
+<p>We could write code to find the first score that was over 85:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> firstHigh <span class="token operator">=</span> scores<span class="token punctuation">.</span>first <span class="token punctuation">{</span> <span class="token short-argument">$0</span> <span class="token operator">&gt;</span> <span class="token number">85</span> <span class="token punctuation">}</span></code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element</a></li><li><a href="/example-code/language/how-to-count-element-frequencies-in-an-array">How to count element frequencies in an array</a></li><li><a href="/example-code/language/how-to-get-a-random-element-from-an-array-using-randomelement">How to get a random element from an array using randomElement()</a></li><li><a href="/example-code/language/how-to-count-matching-items-in-an-array">How to count matching items in an array</a></li><li><a href="/example-code/language/how-to-remove-the-first-or-last-item-from-an-array">How to remove the first or last item from an array</a></li></ul>
 -->
+
+:::
 
 ---
 

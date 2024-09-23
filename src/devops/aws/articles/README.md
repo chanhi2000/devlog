@@ -197,6 +197,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "What is ECS Monitoring? Explained With Examples",
+  "desc": "Amazon Elastic Container Service (ECS) is a container orchestration service provided by Amazon Web Services (AWS). It is a solution developed by AWS to take care of the problem of managing large clusters of containers. Why Use ECS? There are other co...",
+  "link": "/explore/articles/freecodecamp.org/ecs-monitoring-explained-with-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

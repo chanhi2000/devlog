@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-13.0
+  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,19 +54,39 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 13.0
+> Available from iOS 8.0
 
 <!-- TODO: 작성 -->
 
 <!-- 
+<p>Variadic functions are functions that accept any number of parameters. The most common one in Swift is <code>print()</code> –&nbsp;most people use it to print a single value, but you can actually pass as many as you want, like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">)</span></code></pre>
+<p>To make a variadic function of your own, just add <code>...</code> after any parameter. For example, we could write a <code>sum()</code> function that accepts any number of integers and adds them together, like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">sum1</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> numbers<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token operator">...</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Int</span> <span class="token punctuation">{</span>
+    <span class="token keyword">var</span> total <span class="token operator">=</span> <span class="token number">0</span>
 
+    <span class="token keyword">for</span> number <span class="token keyword">in</span> numbers <span class="token punctuation">{</span>
+        total <span class="token operator">+=</span> number
+    <span class="token punctuation">}</span>
+
+    <span class="token keyword">return</span> total
+<span class="token punctuation">}</span></code></pre>
+<p>Or if you wanted to write that functionally, you would use <code>reduce()</code>:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">sum2</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> numbers<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token operator">...</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Int</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> numbers<span class="token punctuation">.</span><span class="token function">reduce</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token operator">+</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span></code></pre>
+<p>Notice how we specify <code>Int...</code> rather than <code>Int</code> –&nbsp;that means this function can be called using no integers, one integer, or even a hundred integers, and Swift will automatically convert them to be an array of integers inside the function.</p>
+<p>So, it would be called like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> total <span class="token operator">=</span> <span class="token function">sum2</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">)</span></code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/concurrency/how-to-make-function-parameters-isolated">How to make function parameters isolated</a></li><li><a href="/quick-start/concurrency/what-is-an-asynchronous-function">What is an asynchronous function?</a></li><li><a href="/quick-start/concurrency/what-is-a-synchronous-function">What is a synchronous function?</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li><li><a href="/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays</a></li></ul>
 -->
+
+:::
 
 ---
 
