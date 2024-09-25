@@ -1784,5 +1784,19 @@
     "topics": ["armv7", "esp32", "micropython", "nrf52", "raspberry-pi", "rp2040", "rp2350", "wasm", "webassembly", "webassembly-runtime"],
     "avatar": "https://avatars.githubusercontent.com/u/1506708?v=4",
     "banner": ""
+  }, {
+    "repo": "capstone-engine/capstone",
+    "desc": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+    "officialSite": "http://www.capstone-engine.org",
+    "topics": ["arm", "arm64", "bpf", "disassembler", "ethereum", "framework", "m0s65xx", "m680x", "m68k", "mips", "powerpc", "reverse-engineering", "riscv", "security", "sparc", "systemz", "tms320c64x", "webassembly", "x86", "x86-64"],
+    "avatar": "https://avatars.githubusercontent.com/u/13388937?v=4",
+    "banner": ""
+  }, {
+    "repo": "kollokollo/X11Basic",
+    "desc": "X11-Basic BASIC programming language.",
+    "officialSite": "",
+    "topics": ["basic", "compiler", "interpreter", "linux", "virtual-machine"],
+    "avatar": "https://avatars.githubusercontent.com/u/15250834?v=4",
+    "banner": ""
   }
 ]

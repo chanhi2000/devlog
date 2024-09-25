@@ -311,6 +311,8 @@ head:
 - [`@2fEJ` / \[UX원칙#13\]고스트 버튼을 디자인할 때 고려사항](https://brunch.co.kr/@@2fEJ/1482)
 - [`@2fEJ` / \[UX원칙#13\]고스트 버튼을 디자인할 때 고려사항](https://brunch.co.kr/@@2fEJ/1482)
 - [`@2fEJ` / \[UX원칙#18\]아이콘 디자인 10가지 UX 원칙](https://brunch.co.kr/@@2fEJ/1485)
+- [`@2fEJ` / \[UX원칙#19\]링크 호버 효과 4가지 원칙](https://brunch.co.kr/@@2fEJ/1483)
+- [`@2fEJ` / \[UX원칙#20\] 선택 버튼 상태 보여주기](https://brunch.co.kr/@@2fEJ/1484)
 
 <!-- END: brunch.co.kr -->
 

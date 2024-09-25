@@ -507,6 +507,8 @@ tag:
   <!-- END: aodtns -->
 - [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
   - [\[네이버 부스트캠프\] node.js를 한번 파보자](https://jacky0831.tistory.com/m/95)
+  - [\[네이버 부스트캠프\] 단일 레포지토리에서 스크립트 관리 하기](https://jacky0831.tistory.com/m/99)
+  - [\[네이버 부스트캠프\] 프론트엔드 프레임워크 비교하기(feat. typescript)](https://jacky0831.tistory.com/m/100)
   <!-- END: jacky0831 -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [2개의 map vs 1개의 reduce 속도 비교](https://ravenkim97.tistory.com/m/398)

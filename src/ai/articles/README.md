@@ -182,6 +182,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How AI Tools Can Help You Reuse Code",
+  "desc": "Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...",
+  "link": "/explore/articles/freecodecamp.org/tools-for-code-reuse.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

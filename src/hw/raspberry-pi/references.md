@@ -45,6 +45,14 @@ head:
 
 ---
 
+## IOT 개발 가이드
+
+- [매터 테스트 하네스(Matter Test Harness) 설치 방법](https://m.blog.naver.com/nanotoly/223594452322)
+
+<!-- END: nanotoly -->
+
+---
+
 ## tistory
 
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)

@@ -533,4 +533,12 @@ tag:
 
 ---
 
+## Durian Software
+
+- [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
+
+<!-- END: duriansoftware.com -->
+
+---
+
 <TagLinks />

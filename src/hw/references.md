@@ -540,6 +540,13 @@ head:
 
 ---
 
+## Crypto Museum
+
+- [Audio Masking](https://cryptomuseum.com/covert/bugs/masking/)
+
+<!-- END: cryptomuseum.com -->
+---
+
 <SiteInfo
   name="SYZYGY - Next generation FPGA connectivity"
   desc="Next generation FPGA connectivity"

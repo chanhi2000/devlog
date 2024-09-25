@@ -51,10 +51,9 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_026.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_026.png"/>
 
-<!-- TODO: 작성 -->
+Working with **Microservices**, or any distributed system for that matter, is difficult. In a distributed system many things can go wrong, and there are even research papers about this. If you want to explore this topic further, I suggest that you read about the [<FontIcon icon="fas fa-file-pdf"/>fallacies of distributed computing](https://se.rit.edu/~se442/doc/fallacies.pdf).
 
-<!--
-Working with **Microservices**, or any distributed system for that matter, is difficult. In a distributed system many things can go wrong, and there are even research papers about this. If you want to explore this topic further, I suggest that you read about the <a href="https://www.se.rit.edu/~se442/doc/fallacies.pdf">fallacies of distributed computing</a>.
+<PDF url="https://se.rit.edu/~se442/doc/fallacies.pdf" />
 
 Reducing the surface area for things to go wrong should be one of your goals, as an engineer. In this week's newsletter, we'll try to achieve exactly that using the **Outbox pattern**.
 
@@ -158,7 +157,7 @@ public class SendWelcomeEmailHandler : IHandle<UserRegisteredEvent>
 
 Here's a high level overview of the system architecture with the **Outbox** introduced to the system. You can see the `Outbox` table in the database. What changes now is that you store messages to the `Outbox` table in the same transaction along with your entities.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271801%27%20height=%27989%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_026/outbox.png?imwidth=1920 1x, /blogs/mnw_026/outbox.png?imwidth=3840 2x" src="/blogs/mnw_026/outbox.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_026/outbox.png?imwidth=3840)
 
 ---
 
@@ -168,13 +167,15 @@ After reading this newsletter you should have a pretty good understanding of wha
 
 What's missing is more details about how to implement the **Outbox pattern**, so here are a few videos you can watch:
 
-- <a href="https://youtu.be/BimfDeDV4yU">How to use the Domain Events pattern</a>
-- <a href="https://youtu.be/XALvnX7MPeo">How to implement the Outbox pattern</a>
-- <a href="https://youtu.be/xajVttkZntU">How to add retries to the Outbox with Polly</a>
+- [<FontIcon icon="fa-brands fa-youtube"/>How to use the Domain Events pattern](https://youtu.be/BimfDeDV4yU)
+- [<FontIcon icon="fa-brands fa-youtube"/>How to implement the Outbox pattern](https://youtu.be/XALvnX7MPeo)
+- [<FontIcon icon="fa-brands fa-youtube"/>How to add retries to the Outbox with Polly](https://youtu.be/xajVttkZntU)
+
+<VidStack src="youtube/BimfDeDV4yU" />
+<VidStack src="youtube/XALvnX7MPeo" />
+<VidStack src="youtube/xajVttkZntU" />
 
 Thanks for reading, and have an amazing Saturday.
-
--->
 
 ---
 

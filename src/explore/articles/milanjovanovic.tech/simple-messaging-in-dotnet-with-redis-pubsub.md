@@ -206,7 +206,7 @@ public class Consumer(ILogger<Consumer> logger) : BackgroundService
 
 Finally, here's what we get when we run both the `Producer` and `Consumer` services:
 
-![Redis channels publish/subscribe demo](/blogs/mnw_100/redis_pub_sub.gif?imwidth=3840)
+![Redis channels publish/subscribe demo](https://milanjovanovic.tech/blogs/mnw_100/redis_pub_sub.gif?imwidth=3840)
 
 ---
 

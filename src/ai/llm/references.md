@@ -36,6 +36,7 @@ head:
 <PDF url="https://arxiv.org/pdf/2407.12994" />
 <PDF url="https://arxiv.org/pdf/2407.21059" />
 <PDF url="https://arxiv.org/pdf/2408.11039" />
+<PDF url="https://arxiv.org/pdf/2409.12089" />
 
 ---
 

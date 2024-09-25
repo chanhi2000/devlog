@@ -510,6 +510,7 @@ head:
 ## 재우니의 블로그
 
 - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+- [ChatGpt 의 유료결제 영수증 및 청구서 다운로드](https://aspdotnet.tistory.com/m/3275)
 
 ---
 

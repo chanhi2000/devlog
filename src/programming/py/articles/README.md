@@ -154,7 +154,7 @@ head:
 {
   "title": "Applied Data Science with Python – Business Intelligence for Developers [Full Book]",
   "desc": "In the high-stakes game of modern business, data isn't just an asset – it's the power you need to outpace your competition. But as a developer, you know that turning raw data into actionable insights can be a frustrating battle. Imagine having the power to effortlessly transform raw data into...",
-  "link": "/explore/articles/freecodecamp.org/applied-data-science-with-python-book.md",
+  "link": "/explore/articles/freecodecamp.org/applied-data-science-with-python-book/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_038.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_038.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Most software applications today are built around the concept of **multi-tenancy**.
 
 One application serves multiple customers, while keeping their data **isolated**.
@@ -61,10 +58,9 @@ One application serves multiple customers, while keeping their data **isolated**
 You can approach **multi-tenancy** in two ways:
 
 - **Single database** and **logical isolation** of tenants
-<li>**Multiple databases** and **physical isolation** of tenants
+- **Multiple databases** and **physical isolation** of tenants
 
-Which option you decide to use will depend mostly on your requirements.
-Some industries like healthcare require a high degree of **data isolation**, and using a **database per tenant** is a must.
+Which option you decide to use will depend mostly on your requirements. Some industries like healthcare require a high degree of **data isolation**, and using a **database per tenant** is a must.
 
 So how are we going to **implement multi-tenancy** support with **EF Core**?
 
@@ -76,17 +72,16 @@ Let's see what are some of the problems we need to solve.
 
 ---
 
-## how-to-use-ef-core-query-filters"><a href="#how-to-use-ef-core-query-filters">How To Use EF Core Query Filters
+## How To Use EF Core Query Filters
 
-If you want an in-depth dive into **Query filters**, take a look at the newsletter issue where I talked about
-<a href="how-to-use-global-query-filters-in-ef-core">**using query filters with EF Core.**</a>
+If you want an in-depth dive into **Query filters**, take a look at the newsletter issue where I talked about [**using query filters with EF Core.**](/explore/articles/milanjovanovic.tech/how-to-use-global-query-filters-in-ef-core.md)
 
 Here's a quick refresher on **Query filters**:
 
 - Configure the **query filter** by calling `HasQueryFilter` for your entity
-<li>**EF** will apply it to all queries for that entity
-<li>You can turn it off with `IgnoreQueryFilters`
-<li>Only **one** query filter **per entity** is allowed
+- **EF** will apply it to all queries for that entity
+- You can turn it off with `IgnoreQueryFilters`
+- Only **one** query filter **per entity** is allowed
 
 And here's a simple example:
 
@@ -94,19 +89,18 @@ And here's a simple example:
 modelBuilder
    .Entity<Order>()
    .HasQueryFilter(order => !order.IsDeleted);
-
 ```
 
 All queries to the `Order` table will include an `IsDeleted = FALSE` condition.
 
 ---
 
-## single-database-multi-tenancy-with-ef-core"><a href="#single-database-multi-tenancy-with-ef-core">Single Database Multi-Tenancy With EF Core
+## Single Database Multi-Tenancy With EF Core
 
 You will need two things to **implement multi-tenancy** on a **single database**:
 
 - A way to know **who** the **current tenant** is
-<li>A way to **filter** the **data** for that **tenant** only
+- A way to **filter** the **data** for that **tenant** only
 
 The typical approach for **multi-tenancy** on a **single database** is having a `TenantId` column in your tables.
 And then filtering on that column when querying the database.
@@ -135,7 +129,6 @@ public class OrdersDbContext : DbContext
             .HasQueryFilter(o => o.TenantId == _tenantId);
     }
 }
-
 ```
 
 We're using the `TenantProvider` class to get the **current tenant** value.
@@ -159,7 +152,6 @@ public sealed class TenantProvider
         .Request
         .Headers[TenantIdHeaderName];
 }
-
 ```
 
 The `TenantId` is coming from the HTTP request header in this example.
@@ -167,21 +159,21 @@ The `TenantId` is coming from the HTTP request header in this example.
 A few other options to get the `TenantId` are:
 
 - Query string - `api/orders?tenantId=example-tenant-id`
-<li>JWT Claim
-<li>API Key
+- JWT Claim
+- API Key
 
 If you want a more **secure implementation** you should go with **JWT Claims** or **API Keys** to provide the `TenantId` value.
 
 ---
 
-## separate-databases-multi-tenancy-with-ef-core"><a href="#separate-databases-multi-tenancy-with-ef-core">Separate Databases Multi-Tenancy With EF Core
+## Separate Databases Multi-Tenancy With EF Core
 
 What if we want to **isolate** each tenant to a **separate database**?
 
 Here are the changes we need to make:
 
 - Applying different **connection string per tenant**
-<li>Resolving the connection string for each tenant *somehow*
+- Resolving the connection string for each tenant *somehow*
 
 You can't use **Query filters** here, since we are working with different databases.
 
@@ -191,10 +183,9 @@ A simple example would be store them in the **application settings**:
 
 ```json
 "Tenants": {
-    { "Id": "tenant-1", "ConnectionString": "Host=tenant1.db;Database=tenant1" },
-    { "Id": "tenant-2", "ConnectionString": "Host=tenant2.db;Database=tenant2" }
+  { "Id": "tenant-1", "ConnectionString": "Host=tenant1.db;Database=tenant1" },
+  { "Id": "tenant-2", "ConnectionString": "Host=tenant2.db;Database=tenant2" }
 }
-
 ```
 
 You can then register an `IOptions` instance with a list of `Tenant` objects.
@@ -227,7 +218,6 @@ public sealed class TenantProvider
         return _tenantSettings.Tenants.Single(t => t.Id == TenantId);
     }
 }
-
 ```
 
 And the last part is registering your `DbContext` to **dynamically resolve** the **connection string** for the current **tenant**.
@@ -241,7 +231,6 @@ builder.Services.AddDbContext<OrdersDbContext>((sp, o) =>
 
     o.UseSqlServer(connectionString);
 });
-
 ```
 
 On every request, we create a new `OrdersDbContext` and connect to the appropriate database for that tenant.
@@ -250,7 +239,7 @@ You should definitely consider storing the tenant **connection strings** in a **
 
 ---
 
-## closing-thoughts"><a href="#closing-thoughts">Closing Thoughts
+## Closing Thoughts
 
 I hope you now have a better understanding of how to build a **multi-tenant system** with **EF Core**.
 
@@ -261,8 +250,6 @@ Building **multi-tenant systems** isn't easy, but when you understand the basic 
 That's all for this week.
 
 See you next Saturday.
-
--->
 
 ---
 

@@ -51,9 +51,6 @@ cover: https://www.milanjovanovic.tech/blog-covers/mnw_002.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://www.milanjovanovic.tech/blog-covers/mnw_002.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Today, I'm going to share some fascinating things you can do with records and anonymous types. I will introduce you to the concept of non-destructive mutation. And I will talk about when and why we might want to use this C# language feature.
 
 ---
@@ -133,8 +130,6 @@ And again the same rules apply:
 I found this feature useful in LINQ method chains.
 
 For example, loading an anonymous type from the database where some properties have a default value. You can then use this feature to calculate the values for these properties in memory.
-
--->
 
 ---
 

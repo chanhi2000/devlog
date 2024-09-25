@@ -594,10 +594,10 @@
     "banner": ""
   }, {
     "repo": "kestra-io/kestra",
-    "desc": "Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+    "desc": "Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code and from the UI.",
     "officialSite": "https://kestra.io",
     "topics": ["data", "data-engineering", "data-integration", "data-orchestration", "data-orchestrator", "data-pipeline", "data-quality", "elt", "etl", "low-code", "orchestration", "pipeline", "reverse-etl", "scheduler", "workflow", "workflow-engine"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/59033362?v=4",
     "banner": ""
   }, {
     "repo": "YunaiV/ruoyi-vue-pro",

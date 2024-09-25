@@ -1,5 +1,34 @@
 import { SidebarInfoTemplate, SidebarInfoSubgroupTemplate } from ".";
 
+const DEVOPS_WITH_GITLAB_CI_COURSE: SidebarInfoSubgroupTemplate = { // 2022-03-02
+  text: 'DevOps with GitLab CI Course',
+  collapsible: true,
+  icon: 'iconfont icon-quarkus',
+  subPath: 'devops-with-gitlab-ci-course',
+  children: [
+    'README',
+    'unit-1-introduction-to-gitLab',
+    'unit-2-continuous-integration-with-gitlab-ci',
+    'unit-3-continuous-deployment-with-gitlab-aws',
+    'unit-4-deploying-a-dockerized-application-to-aws',
+    'unit-5-conclusion',
+  ]
+}
+
+const GET_STARTED_WITH_QUARKUS_AND_JPASTREAMER_2: SidebarInfoSubgroupTemplate = { // 2023-11-03
+  text: 'Get started with Quarkus and JPAStreamer',
+  collapsible: true,
+  icon: 'iconfont icon-quarkus',
+  subPath: 'get-started-with-quarkus-and-jpastreamer-2',
+  children: [
+    'README',
+    'project-setup',
+    'getting-started',
+    'jpa-jpastreamer',
+    'testing',
+    'others',
+  ]
+}
 
 const GITTING_THINGS_DONE_BOOK: SidebarInfoSubgroupTemplate = { // 2024-01-08
   text: 'Gitting Things Done – A Visual and Practical Guide to Git [Full Book]',
@@ -81,6 +110,9 @@ export const template: SidebarInfoTemplate = {
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
       "migrate-from-play-core-library", // 2024-06-26
     ]],[
+    "java-quarkus", [
+        GET_STARTED_WITH_QUARKUS_AND_JPASTREAMER_2, // 2023-11-03
+    ]],[
     "gradle", [
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
       "migrate-from-play-core-library", // 2024-06-26
@@ -144,6 +176,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
       "implement-api-rate-limiting-in-strapi", // 2024-09-10
       "how-to-handle-side-effects-in-jest", // 2024-09-16
+      "tools-for-code-reuse", // 2024-09-25
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -192,7 +225,8 @@ export const template: SidebarInfoTemplate = {
       "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
       "boost-web-performance-with-prefetching", // 2024-09-23
-      "create-react-reusable-modal-component," // 2024-09-24
+      "create-react-reusable-modal-component", // 2024-09-24
+      "learn-react-hooks-with-example-code", // 2024-09-25
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -282,7 +316,7 @@ export const template: SidebarInfoTemplate = {
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
     ]],[
     "py-django", [
-      "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+      "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
       "how-to-secure-your-django-app", // 2024-05-22
     ]],[
     "py-flask", [
@@ -302,6 +336,7 @@ export const template: SidebarInfoTemplate = {
       "migrate-from-play-core-library", // 2024-06-26
       "migrate-a-flutter-application-from-getit-to-bloc", // 2024-07-19
       "how-to-use-enhanced-enums-in-dart", // 2024-07-22
+      "flutter-streams-and-services", // 2024-09-25
     ]],[
     "rust", [
       "procedural-macros-in-rust", // 2024-04-24
@@ -385,6 +420,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
       "how-to-manage-your-open-source-project-with-github", // 2024-09-05
     ]],[
+    "gitlab", [
+      DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
+    ]],[
     "macos", [
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
       "how-to-install-python-on-a-mac", // 2024-05-09
@@ -397,6 +435,7 @@ export const template: SidebarInfoTemplate = {
       "free-linux-crash-course-with-labs", // 2024-06-13
     ]],[
     "docker", [
+      DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
       "how-to-create-database-migrations-in-go", // 2024-06-26
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
     ]],[
@@ -405,6 +444,7 @@ export const template: SidebarInfoTemplate = {
       "graceful-shutdowns-k8s-go", // 2024-08-13
     ]],[
     "aws", [
+      DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
       "what-is-amazon-ec2-auto-scaling", // 2024-05-06
       "pass-the-aws-certified-solutions-architect-associate-certification", // 2024-05-23
       "build-an-eks-cluster-using-aws-local-zones-with-aws-cdk", // 2024-05-28
@@ -520,6 +560,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-an-ai-model-for-predicting-data-with-python", // 2024-08-08
       "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
+      "tools-for-code-reuse", // 2024-09-25
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -562,13 +603,15 @@ export const template: SidebarInfoTemplate = {
       "how-to-get-a-memory-map-of-your-system-using-bios-interrupts", // 2024-09-23
     ]],[
     "all", [
-      "how-to-create-an-analytics-dashboard-in-django-app", // 2020.02.12
+      "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
+      DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
       "perfect-html-input", // 2023-01-05
       GITTING_THINGS_DONE_BOOK,  // 2023-01-08
       "how-to-parse-a-string-in-python", // 2023-05-04
       "postgresql-indexing-strategies", // 2023-05-12
       "check-python-version-how-to-check-py-in-mac-windows-and-linux", // 2023-07-07
       "loop-through-arrays-javascript", // 2023-10-31
+      GET_STARTED_WITH_QUARKUS_AND_JPASTREAMER_2, // 2023-11-03
       "avoid-prop-drilling-in-react", // 2023-11-07
       "use-typescript-with-react", // 2023-11-15
       "how-to-use-react-server-components", // 2024-01-08
@@ -852,6 +895,9 @@ export const template: SidebarInfoTemplate = {
       "create-react-reusable-modal-component", // 2024-09-24
       "learn-cuda-programming", // 2024-09-24
       "how-to-work-with-sql-databases-in-go", // 2024-09-24
+      "flutter-streams-and-services", // 2024-09-25
+      "learn-react-hooks-with-example-code", // 2024-09-25
+      "tools-for-code-reuse", // 2024-09-25
     ]],
   ]),
 }

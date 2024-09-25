@@ -306,6 +306,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/java-quarkus/articles/README.md',
+            asb.freecodecamp("java-quarkus"),
           ]
         }
       ]
@@ -2170,6 +2171,15 @@ export const sidebarEn = sidebar({
         '/devops/gitlab/troubleshooting.md',
         '/devops/gitlab/references.md',
         '/devops/gitlab/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/gitlab/articles/README.md',
+            asb.freecodecamp("gitlab"),            
+          ]
+        }
       ]
     }, {
       text: 'Jira',

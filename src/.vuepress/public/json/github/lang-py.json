@@ -3214,10 +3214,10 @@
     "banner": ""
   }, {
     "repo": "cpacker/MemGPT",
-    "desc": "Create LLM agents with long-term memory and custom tools 📚🦙",
-    "officialSite": "https://memgpt.readme.io",
+    "desc": "Letta (fka MemGPT) is a framework for creating stateful LLM services.",
+    "officialSite": "https://letta.com",
     "topics": ["chat", "chatbot", "gpt", "gpt-4", "llm", "llm-agent"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/5475622?v=4",
     "banner": ""
   }, {
     "repo": "NomaDamas/RAGchain",
@@ -8013,6 +8013,27 @@
     "officialSite": "http://hylang.org",
     "topics": ["compiler", "hy", "lisps", "macros", "metaprogramming", "python"],
     "avatar": "https://avatars.githubusercontent.com/u/4141508?v=4",
+    "banner": ""
+  }, {
+    "repo": "stanfordnlp/dspy",
+    "desc": "DSPy: The framework for programming—not prompting—foundation models",
+    "officialSite": "https://dspy-docs.vercel.app/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/3046006?v=4",
+    "banner": ""
+  }, {
+    "repo": "cle-b/httpdbg",
+    "desc": "A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.",
+    "officialSite": "https://httpdbg.readthedocs.io/",
+    "topics": ["aiohttp", "debug", "http", "httpdbg", "httpx", "pyhttpdbg", "pytest", "python", "python-requests", "requests", "rest", "rest-api", "tools", "urllib3"],
+    "avatar": "https://avatars.githubusercontent.com/u/26198764?v=4",
+    "banner": ""
+  }, {
+    "repo": "hyperknot/openfreemap",
+    "desc": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
+    "officialSite": "https://openfreemap.org/",
+    "topics": ["geospatial", "gis", "maplibre", "maplibre-gl-js", "mapping", "maps", "openstreetmap", "osm", "vector-tiles"],
+    "avatar": "https://avatars.githubusercontent.com/u/494223?v=4",
     "banner": ""
   }
 ]

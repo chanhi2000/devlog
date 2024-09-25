@@ -1470,7 +1470,7 @@ head:
 ```component VPCard
 {
   "title": "How to stop your view going under the navigation bar using edgesForExtendedLayout",
-  "desc": "As of iOS 7.0, all views automatically go behind navigation bars, toolbars and tab bars to provide what Apple calls "context" – having some idea of what's underneath the UI (albeit blurred out with a frosted glass effect) gives users an idea of what else is just off screen....",
+  "desc": "As of iOS 7.0, all views automatically go behind navigation bars, toolbars and tab bars to provide what Apple calls 'context' – having some idea of what's underneath the UI (albeit blurred out with a frosted glass effect) gives users an idea of what else is just off screen....",
   "link": "/explore/articles/hackingwithswift.com/example-code/uikit/how-to-stop-your-view-going-under-the-navigation-bar-using-edgesforextendedlayout.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2)"
@@ -1781,7 +1781,7 @@ head:
 {
   "title": "What’s the difference between leading, trailing, left, and right anchors?",
   "desc": "If you wanted to pin a button to the left edge of its parent, you might write code like this:...",
-  "link": "/explore/articles/hackingwithswift.com/example-code/uikit/whats-the-difference-between-leading-t",
+  "link": "/explore/articles/hackingwithswift.com/example-code/uikit/whats-the-difference-between-leading-trailing-left-and-right-anchors.md",
   "logo": "https://hackingwithswift.com/favicon.svg",
   "background": "rgba(174,10,10,0.2railing-left-and-right-anchors.md)"
 }

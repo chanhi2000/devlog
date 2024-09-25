@@ -51,11 +51,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_050.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_050.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-**Dapper** is a lightweight **object-relational mapper** in .NET.
-It's popular because it's easy to use and fast at the same time.
+**Dapper** is a lightweight **object-relational mapper** in .NET. It's popular because it's easy to use and fast at the same time.
 
 Dapper extends the `IDbConnection` interface with methods for sending SQL queries to the database.
 
@@ -64,23 +60,23 @@ But, because of the nature of SQL, mapping the result into an object model can b
 So in this week's newsletter, I'll teach you how to map:
 
 - Simple queries
-<li>One-to-one relationships
-<li>One-to-many relationships
-<li>Many-to-many relationships
+- One-to-one relationships
+- One-to-many relationships
+- Many-to-many relationships
 
 Let's dive in!
 
 ---
 
-## simple-mapping"><a href="#simple-mapping">Simple Mapping
+## Simple Mapping
 
 Let's first see how to do a **simple mapping** using Dapper.
 
 Writing a query with Dapper has three parts:
 
 - Creating an `IDbConnection` instance
-<li>Writing the SQL query
-<li>Calling a method that Dapper exposes
+- Writing the SQL query
+- Calling a method that Dapper exposes
 
 We will write a SQL query to load a set of `LineItem` objects for a specific `Order`.
 
@@ -97,7 +93,6 @@ public class LineItem
 
     public decimal Quantity { get; init; }
 }
-
 ```
 
 Here's the SQL query returning the result we need:
@@ -106,18 +101,13 @@ Here's the SQL query returning the result we need:
 SELECT Id AS LineItemId, OrderId, Price, Currency, Quantity
 FROM LineItems
 WHERE OrderId = @OrderId
-
 ```
 
-I'm parameterizing the `Order` identifier using the `@OrderId` syntax.
-This is a Dapper convention.
-It's important that you use **parameterized queries** to **avoid SQL injection attacks**.
+I'm parameterizing the `Order` identifier using the `@OrderId` syntax. This is a Dapper convention. It's important that you use **parameterized queries** to **avoid SQL injection attacks**.
 
 The mapping is straightforward in this case because we are only returning one type from the database.
 
-We call the `QueryAsync` method and specify `LineItem` as the return type.
-Make sure to pass in the arguments for this method, the SQL query, and the `OrderId` parameter.
-I prefer creating anonymous objects for Dapper parameters.
+We call the `QueryAsync` method and specify `LineItem` as the return type. Make sure to pass in the arguments for this method, the SQL query, and the `OrderId` parameter. I prefer creating anonymous objects for Dapper parameters.
 
 ```cs
 using var connection = new SqlConnection();
@@ -125,14 +115,13 @@ using var connection = new SqlConnection();
 var lineItems = await connection.QueryAsync<LineItem>(
     sql,
     new { OrderId = orderId });
-
 ```
 
 That's everything you need for a simple mapping.
 
 ---
 
-## dapper-one-to-one-relationship-mapping"><a href="#dapper-one-to-one-relationship-mapping">Dapper One To One Relationship Mapping
+## Dapper One To One Relationship Mapping
 
 What if the object we want to return from the SQL query contains a **nested object**?
 
@@ -160,7 +149,6 @@ public class Product
 
     public string Name { get; init; }
 }
-
 ```
 
 Now you need to return two types in the same query.
@@ -173,7 +161,6 @@ SELECT li.Id AS LineItemId, li.OrderId, li.Price, li.Currency, li.Quantity,
 FROM LineItems li
 JOIN Products p ON p.Id = li.ProductId
 WHERE li.OrderId = @OrderId
-
 ```
 
 This query is more complicated because we need to use Dapper's **multi-mapping** feature.
@@ -197,14 +184,13 @@ var lineItems = await connection.QueryAsync<LineItem, Product, LineItem>(
     },
     new { OrderId = orderId },
     splitOn: "ProductId");
-
 ```
 
 We write more code to make this work, but it should be easy to wrap your head around it.
 
 ---
 
-## dapper-one-to-many-relationship-mapping"><a href="#dapper-one-to-many-relationship-mapping">Dapper One To Many Relationship Mapping
+## Dapper One To Many Relationship Mapping
 
 Another frequent situation is mapping a **one-to-many relationship** from SQL into an object model.
 
@@ -232,7 +218,6 @@ public class LineItem
 
     public decimal Quantity { get; init; }
 }
-
 ```
 
 Here's the SQL query returning the data we need from the database:
@@ -243,18 +228,16 @@ SELECT o.Id AS OrderId,
 FROM Orders o
 JOIN LineItems li ON li.OrderId = o.Id
 WHERE o.Id = @OrderId
-
 ```
 
-We're going to get back duplicate `Order` data because of the `JOIN`.
-But we only want to return one `Order` with all the line items.
+We're going to get back duplicate `Order` data because of the `JOIN`. But we only want to return one `Order` with all the line items.
 
 The Dapper mapping function only gives us the `Order` and `LineItem` for the current row in the result set.
 
 One way to solve this is to use a `Dictionary` to store the `Order` and reuse it inside the mapping.
 
 - Store the `Order` in the dictionary if it's not there
-<li>If it is there, add the `LineItem` to the existing `Order` instance
+- If it is there, add the `LineItem` to the existing `Order` instance
 
 ```cs
 using var connection = new SqlConnection();
@@ -282,14 +265,13 @@ await connection.QueryAsync<Order, LineItem, Order>(
     splitOn: "LineItemId");
 
 var mappedOrder = ordersDictionary[orderId];
-
 ```
 
 A **many-to-many relationship** would use the same idea, except you'll need two dictionaries for each side of the relationship.
 
 ---
 
-## in-summary"><a href="#in-summary">In Summary
+## In Summary
 
 **Dapper** is a fantastic library for writing fast database queries using SQL.
 
@@ -298,17 +280,15 @@ Because of how SQL works, mapping into an object model is sometimes complicated.
 There are four common scenarios:
 
 - Simple mapping - a flat structure mapped directly from SQL to an object
-<li>One-to-one mapping - provide a mapping function to connect two objects
-<li>One-to-many mapping - manage a dictionary for the "one" side of the relationship
-<li>Many-to-many mapping - same as above, except you need a dictionary for both sides of the relationship
+- One-to-one mapping - provide a mapping function to connect two objects
+- One-to-many mapping - manage a dictionary for the "one" side of the relationship
+- Many-to-many mapping - same as above, except you need a dictionary for both sides of the relationship
 
 Now you have a cheat sheet for mapping relationships with Dapper.
 
 Hope this was helpful.
 
 I'll see you next week!
-
--->
 
 ---
 

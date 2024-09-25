@@ -51,14 +51,10 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_084.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_084.png"/>
 
-<!-- TODO: 작성 -->
+[<FontIcon icon="fa-brands fa-microsoft"/>Claims-based authorization](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/claims) mechanisms are central to modern authorization in ASP.NET Core. However, the access tokens issued by your Identity Provider (IDP) might not always perfectly align with your application's internal authorization needs.
 
-<!-- 
-<a href="https://learn.microsoft.com/en-us/aspnet/core/security/authorization/claims">Claims-based authorization</a> mechanisms are central to modern authorization in ASP.NET Core.
-However, the access tokens issued by your Identity Provider (IDP) might not always perfectly align with your application's internal authorization needs.
-
-External IDPs like <a href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id">Microsoft Entra ID</a> (previously Azure AD) or
-<a href="https://auth0.com">Auth0</a> might have their own schema for claims or might not directly issue all the claims your application needs for its authorization logic.
+External IDPs like [<FontIcon icon="fa-brands fa-microsoft"/>Microsoft Entra ID](https://microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) (previously Azure AD) or
+[<FontIcon icon="fas fa-globe"/>Auth0](https://auth0.com) might have their own schema for claims or might not directly issue all the claims your application needs for its authorization logic.
 
 The solution? Claims transformation.
 
@@ -67,35 +63,33 @@ Claims transformation allows you to modify the claims before the application use
 In today's issue, we will:
 
 - Explore the concept of claims transformation in ASP.NET Core
-<li>Explore the `IClaimsTransformation` interface with practical examples
-<li>Address considerations for security and RBAC (Role-Based Access Control)
+- Explore the `IClaimsTransformation` interface with practical examples
+- Address considerations for security and RBAC (Role-Based Access Control)
 
 ---
 
-## how-does-claims-transformation-work"><a href="#how-does-claims-transformation-work">How Does Claims Transformation Work?
+## How Does Claims Transformation Work?
 
-They say a picture is worth a thousand words.
-In software engineering, we have something called <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language">UML</a> diagrams that we can use to paint a picture.
+They say a picture is worth a thousand words. In software engineering, we have something called [<FontIcon icon="fa-brands fa-wikipedia-w"/>UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) diagrams that we can use to paint a picture.
 
-Here's a <a href="https://en.wikipedia.org/wiki/Sequence_diagram">sequence diagram</a> showing the claims transformation flow:
+Here's a [<FontIcon icon="fa-brands fa-wikipedia-w"/>sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram) showing the claims transformation flow:
 
 1. The user authenticates with the Identity Provider
-<li>The user calls the backend API and provides an access token
-<li>The backend API performs claims transformation and authorization
-<li>If the user is correctly authorized, the backend API returns a response
+2. The user calls the backend API and provides an access token
+3. The backend API performs claims transformation and authorization
+4. If the user is correctly authorized, the backend API returns a response
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271614%27%20height=%271357%27/%3e"><img alt="Claims transformation sequence diagram." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Claims transformation sequence diagram." srcSet="/blogs/mnw_084/claims_transformation_sequence_diagram.png?imwidth=1920 1x, /blogs/mnw_084/claims_transformation_sequence_diagram.png?imwidth=3840 2x" src="/blogs/mnw_084/claims_transformation_sequence_diagram.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Claims transformation sequence diagram.](https://milanjovanovic.tech/blogs/mnw_084/claims_transformation_sequence_diagram.png?imwidth=3840)
+
 Let's see how to implement this in ASP.NET Core.
 
 ---
 
-## simple-claims-transformation"><a href="#simple-claims-transformation">Simple Claims Transformation
+## Simple Claims Transformation
 
-Claims can be created from any user or identity data issued by a trusted identity provider.
-A claim is a name-value pair that represents the subject's identity, not what the subject can do.
+Claims can be created from any user or identity data issued by a trusted identity provider. A claim is a name-value pair that represents the subject's identity, not what the subject can do.
 
-The core of <a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication/claims#extend-or-add-custom-claims-using-iclaimstransformation">claims transformation</a>
-in ASP.NET Core is the <a href="https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.authentication.iclaimstransformation">`IClaimsTransformation`</a> interface.
+The core of [<FontIcon icon="fa-brands fa-microsoft"/>claims transformation](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/claims#extend-or-add-custom-claims-using-iclaimstransformation) in ASP.NET Core is the [<FontIcon icon="fa-brands fa-microsoft"/>`IClaimsTransformation`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.authentication.iclaimstransformation) interface.
 
 It exposes a single method to transform claims:
 
@@ -104,7 +98,6 @@ public interface IClaimsTransformation
 {
     Task<ClaimsPrincipal> TransformAsync(ClaimsPrincipal principal);
 }
-
 ```
 
 Here's a simple example of using `IClaimsTransformation` to add a custom claim:
@@ -133,7 +126,6 @@ internal sealed class CustomClaimsTransformation : IClaimsTransformation
         return Task.FromResult(principal);
     }
 }
-
 ```
 
 The `CustomClaimsTransformation` class should be registered as a service:
@@ -141,7 +133,6 @@ The `CustomClaimsTransformation` class should be registered as a service:
 ```cs
 builder.Services
     .AddTransient<IClaimsTransformation, CustomClaimsTransformation>();
-
 ```
 
 Finally, you can define a custom authorization policy that uses this claim:
@@ -155,33 +146,25 @@ builder.Services.AddAuthorization(options =>
             .RequireAuthenticatedUser()
             .RequireClaim(CustomClaims.CardType, "platinum"));
 });
-
 ```
 
 There are a few caveats with using `IClaimsTransformation` you should be aware of:
 
 - **Might execute multiple times**: The `TransformAsync` method might get called multiple times.
 Claims transformation should be idempotent to avoid adding the same claim multiple times to the `ClaimsPrincipal`.
-<li>**Potential performance impact**: Since it's executed on authentication requests, be mindful of your transformation logic's performance,
+- **Potential performance impact**: Since it's executed on authentication requests, be mindful of your transformation logic's performance,
 especially if it involves external calls (database, APIs). Consider caching where appropriate.
 
 ---
 
-## implementing-rbac-with-claims-transformation"><a href="#implementing-rbac-with-claims-transformation">Implementing RBAC With Claims Transformation
+## Implementing RBAC With Claims Transformation
 
-<a href="https://auth0.com/docs/manage-users/access-control/rbac">Role-Based Access Control (RBAC)</a> is an authorization model where permissions are assigned to roles,
-and users are granted roles.
-Claims transformation helps implement RBAC smoothly.
-By adding role claims and potentially permission claims, authorization logic throughout your application can be simplified.
-Another benefit is that you can keep the access token smaller and free of any role or permission claims.
+[<FontIcon icon="fas fa-globe"/>Role-Based Access Control (RBAC)](https://auth0.com/docs/manage-users/access-control/rbac) is an authorization model where permissions are assigned to roles,
+and users are granted roles. Claims transformation helps implement RBAC smoothly. By adding role claims and potentially permission claims, authorization logic throughout your application can be implified. Another benefit is that you can keep the access token smaller and free of any role or permission claims.
 
-Let's consider a scenario where your application manages resources at a granular level,
-but your identity provider only provides coarse-grained roles like `Registered` or `Member`.
-You could use claims transformation to map the `Member` role to specific fine-grained permissions like `SubmitOrder` and `PurchaseTicket`.
+Let's consider a scenario where your application manages resources at a granular level, but your identity provider only provides coarse-grained roles like `Registered` or `Member`. You could use claims transformation to map the `Member` role to specific fine-grained permissions like `SubmitOrder` and `PurchaseTicket`.
 
-Here's a more complex `CustomClaimsTransformation` implementation.
-We send a database query using `GetUserPermissionsQuery` and get the `PermissionsResponse` back.
-The `PermissionsResponse` contains the user's permissions, which are added as custom claims.
+Here's a more complex `CustomClaimsTransformation` implementation. We send a database query using `GetUserPermissionsQuery` and get the `PermissionsResponse` back. The `PermissionsResponse` contains the user's permissions, which are added as custom claims.
 
 ```cs
 internal sealed class CustomClaimsTransformation(
@@ -231,8 +214,7 @@ internal sealed class CustomClaimsTransformation(
 
 ```
 
-Now that the `ClaimsPrincipal` contains the permissions as custom claims, you can do some interesting things.
-For example, you can implement a permission-based `AuthorizationHandler`:
+Now that the `ClaimsPrincipal` contains the permissions as custom claims, you can do some interesting things. For example, you can implement a permission-based `AuthorizationHandler`:
 
 ```cs
 internal sealed class PermissionAuthorizationHandler
@@ -257,26 +239,21 @@ internal sealed class PermissionAuthorizationHandler
 
 ---
 
-## takeaway"><a href="#takeaway">Takeaway
+## Takeaway
 
-Claims transformation is an elegant way to bridge the gap between claims provided by identity providers and the needs of your ASP.NET Core application.
-The `IClaimsTransformation` interface enables you to customize the claims of the current `ClaimsPrincipal`.
-Whether you need to add roles, map external groups to internal permissions, or extract additional information from a user profile,
-claims transformation offers the flexibility to do so.
+Claims transformation is an elegant way to bridge the gap between claims provided by identity providers and the needs of your ASP.NET Core application. The `IClaimsTransformation` interface enables you to customize the claims of the current `ClaimsPrincipal`. Whether you need to add roles, map external groups to internal permissions, or extract additional information from a user profile, claims transformation offers the flexibility to do so.
 
 However, it's important to use claims transformation with a few key considerations in mind:
 
 - Claims transformations are executed on each request.
-<li>The `IClaimsTransformation` should be idempotent. It should not add existing claims to the `ClaimsPrincipal` if executed multiple times.
-<li>Design your transformations efficiently, and consider caching the results if you're fetching external data to enrich your claims.
+- The `IClaimsTransformation` should be idempotent. It should not add existing claims to the `ClaimsPrincipal` if executed multiple times.
+- Design your transformations efficiently, and consider caching the results if you're fetching external data to enrich your claims.
 
-If you want to see a complete implementation of RBAC in ASP.NET Core, check out this <a href="https://www.youtube.com/playlist?list=PLYpjLpq5ZDGtJOHUbv7KHuxtYLk1nJPw5">Authentication & Authorization playlist</a>.
+If you want to see a complete implementation of RBAC in ASP.NET Core, check out this [<FontIcon icon="fa-brands fa-youtube"/>Authentication & Authorization playlist](https://youtube.com/playlist?list=PLYpjLpq5ZDGtJOHUbv7KHuxtYLk1nJPw5).
 
 Hope this was helpful.
 
 See you next week.
-
--->
 
 ---
 

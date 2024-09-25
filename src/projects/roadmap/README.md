@@ -65,7 +65,7 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 - C. 노트정리
   - <FontIcon icon="fa-brands fa-linux"/>`/crashcourse/devops/linux-journey`
   - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli-mastering-curl-interactive-text-guide`
-  - <FontIcon icon="fa-brands fa-gitlab"/>`/crashcourse/devops/freecodecamp-gitlab-ci`
+  - <FontIcon icon="fa-brands fa-gitlab"/>`/explore/articles/freecodecamp.org/devops-with-gitlab-ci-course`
   - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/text-processing-w-gnu-awk`
   - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swift`
   - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swiftui`

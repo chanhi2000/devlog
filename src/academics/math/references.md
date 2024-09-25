@@ -73,6 +73,7 @@ head:
 - [`@euisuk-chung` / 신호처리 및 푸리에 변환](https://velog.io/@euisuk-chung/%EC%8B%A0%ED%98%B8%EC%B2%98%EB%A6%AC-%EB%B0%8F-%ED%91%B8%EB%A6%AC%EC%97%90-%EB%B3%80%ED%99%98)
 - [`@euisuk-chung` / \[개념정리\] 시계열 분석의 인과관계 분석](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC-%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84-%EB%B6%84%EC%84%9D)
 - [`@skynet` / 직사각형의 넓이는 왜 가로×세로일까?](https://velog.io/@skynet/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%9D%98-%EB%84%93%EC%9D%B4%EB%8A%94-%EC%99%9C-%EA%B0%80%EB%A1%9C%EC%84%B8%EB%A1%9C%EC%9D%BC%EA%B9%8C)
+- [`@euisuk-chung` / \[개념\] 인공지능을 위한 선형대수 : 행렬편](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98-%ED%96%89%EB%A0%AC%ED%8E%B8)
 
 <!-- END: velog.io -->
 

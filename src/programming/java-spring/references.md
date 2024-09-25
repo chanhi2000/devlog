@@ -160,6 +160,7 @@ head:
 - [`@joshuara7235` / 2024년 인프콘 후기 - #4 클린 스프링](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-4-%ED%81%B4%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81)
 - [`@qkrtkdwns3410` / Spring boot 에서 테스트코드 `@DataJpaTest` 와 `@DataRedisTest` java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class](https://velog.io/@qkrtkdwns3410/Spring-boot-%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-DataJpaTest-%EC%99%80-DataRedisTest-java.lang.IllegalStateException-Configuration-error-found-multiple-declarations-of-BootstrapWith-for-test-class)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 4. 인터페이스 분리 원칙 ( Interface Segregration Principle )](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-4.-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99-Interface-Segregration-Principle)
+- [`@qkrtkdwns3410` / 스프링 프레임워크 6.1.13 공식문서 - Using Depends On](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-6.1.13-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-Using-Depends-On)
 
 <!-- END: velog.io -->
 
@@ -353,6 +354,7 @@ head:
   - [07.01. 책 상세 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0701-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [07.02. 책 상세 화면 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0702-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [07.03. 책 상세 화면 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0703-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
+  - [08. 책 수정 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/08-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)

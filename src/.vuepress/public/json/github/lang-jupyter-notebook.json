@@ -993,5 +993,12 @@
     "topics": ["cuda", "machine-learning", "puzzles"],
     "avatar": "https://avatars.githubusercontent.com/u/35882?v=4",
     "banner": ""
+  }, {
+    "repo": "C-Naoki/image-stitcher",
+    "desc": "This is a python implementation for stitching images.",
+    "officialSite": "https://zenn.dev/naoki0103/articles/image-stitcher-application",
+    "topics": ["image-analysis", "images", "python"],
+    "avatar": "https://avatars.githubusercontent.com/u/74347818?v=4",
+    "banner": ""
   }
 ]

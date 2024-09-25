@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_042.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_042.png"/>
 
-<!-- TODO: 작성 -->
-
-<!--
 Is the **anemic domain model** an **antipattern**?
 
 It's a domain model without any behavior and only data properties.
@@ -149,17 +146,17 @@ The goal is to move as much of the business logic as possible into the domain.
 
 Let's start with the `Invitation` entity and defining a constructor for it. I can simplify the design by setting the `Status` and `CreatedOnUtc` properties inside the constructor. I'm also going to make it `internal` so that an `Invitation` instance can only be created within the domain.
 
-```cs
+```cs{3-10}
 public sealed class Invitation
 {
-<span class="code-line highlight-line">    internal Invitation(Guid id, Gathering gathering, Member member)
-<span class="code-line highlight-line">    {
-<span class="code-line highlight-line">        Id = id;
-<span class="code-line highlight-line">        Member = member;
-<span class="code-line highlight-line">        Gathering = gathering;
-<span class="code-line highlight-line">        Status = InvitationStatus.Pending;
-<span class="code-line highlight-line">        CreatedOnUtc = DateTime.Now;
-<span class="code-line highlight-line">    }
+    internal Invitation(Guid id, Gathering gathering, Member member)
+    {
+        Id = id;
+        Member = member;
+        Gathering = gathering;
+        Status = InvitationStatus.Pending;
+        CreatedOnUtc = DateTime.Now;
+    }
 
     // Data properties omitted for brevity.
 }
@@ -173,19 +170,19 @@ We don't want to allow this, so what we can do is encapsulate this collection be
 
 Here's how the `Gathering` class looks like now:
 
-```cs
+```cs{3,7-12}
 public sealed class Gathering
 {
-<span class="code-line highlight-line">    private readonly List<Invitation> _invitations;
+    private readonly List<Invitation> _invitations;
 
     // Other members omitted for brevity.
 
-<span class="code-line highlight-line">    public void SendInvitation(Member member)
-<span class="code-line highlight-line">    {
-<span class="code-line highlight-line">        var invitation = new Invitation(Guid.NewGuid(), gathering, member);
-<span class="code-line highlight-line">
-<span class="code-line highlight-line">        _invitations.Add(invitation);
-<span class="code-line highlight-line">    }
+    public void SendInvitation(Member member)
+    {
+        var invitation = new Invitation(Guid.NewGuid(), gathering, member);
+
+        _invitations.Add(invitation);
+    }
 }
 ```
 
@@ -199,22 +196,22 @@ Unfortunately, this is still a bad practice because of throwing "expected" excep
 
 But it would be even better to use a **result object** to express validation errors.
 
-```cs
+```cs{7-10,12-15}
 public sealed class Gathering
 {
     // Other members omitted for brevity.
 
     public void SendInvitation(Member member)
     {
-<span class="code-line highlight-line">        if (gathering.Creator.Id == member.Id)
-<span class="code-line highlight-line">        {
-<span class="code-line highlight-line">            throw new Exception("Can't send invitation to the creator.");
-<span class="code-line highlight-line">        }
+        if (gathering.Creator.Id == member.Id)
+        {
+            throw new Exception("Can't send invitation to the creator.");
+        }
 
-<span class="code-line highlight-line">        if (gathering.ScheduledAtUtc < DateTime.UtcNow)
-<span class="code-line highlight-line">        {
-<span class="code-line highlight-line">            throw new Exception("Can't send invitation for the past.");
-<span class="code-line highlight-line">        }
+        if (gathering.ScheduledAtUtc < DateTime.UtcNow)
+        {
+            throw new Exception("Can't send invitation for the past.");
+        }
 
         var invitation = new Invitation(Guid.NewGuid(), gathering, member);
 
@@ -225,28 +222,28 @@ public sealed class Gathering
 
 Here's how using **result objects** would look like:
 
-```cs
+```cs{5,9,14,21}
 public sealed class Gathering
 {
     // Other members omitted for brevity.
 
-<span class="code-line highlight-line">    public Result SendInvitation(Member member)
+    public Result SendInvitation(Member member)
     {
         if (gathering.Creator.Id == member.Id)
         {
-<span class="code-line highlight-line">            return Result.Failure(DomainErrors.Gathering.InvitingCreator);
+            return Result.Failure(DomainErrors.Gathering.InvitingCreator);
         }
 
         if (gathering.ScheduledAtUtc < DateTime.UtcNow)
         {
-<span class="code-line highlight-line">            return Result.Failure(DomainErrors.Gathering.AlreadyPassed);
+            return Result.Failure(DomainErrors.Gathering.AlreadyPassed);
         }
 
         var invitation = new Invitation(Guid.NewGuid(), gathering, member);
 
         _invitations.Add(invitation);
 
-<span class="code-line highlight-line">        return Result.Success();
+        return Result.Success();
     }
 }
 ```
@@ -255,7 +252,7 @@ The benefit of this approach is we can introduce constants for possible domain e
 
 Finally, here's how the `Handle` method looks like with all the changes so far:
 
-```cs
+```cs{12-17}
 public async Task<Result> Handle(SendInvitationCommand command)
 {
     var member = await _memberRepository.GetByIdAsync(command.MemberId);
@@ -267,12 +264,12 @@ public async Task<Result> Handle(SendInvitationCommand command)
         return Result.Failure(Error.NullValue);
     }
 
-<span class="code-line highlight-line">    var result = gathering.SendInvitation(member);
-<span class="code-line highlight-line">
-<span class="code-line highlight-line">    if (result.IsFailure)
-<span class="code-line highlight-line">    {
-<span class="code-line highlight-line">        return Result.Failure(result.Errors);
-<span class="code-line highlight-line">    }
+    var result = gathering.SendInvitation(member);
+
+    if (result.IsFailure)
+    {
+        return Result.Failure(result.Errors);
+    }
 
     await _unitOfWork.SaveChangesAsync();
 
@@ -311,7 +308,7 @@ public record InvitationSentDomainEvent(Invitation Invitation) : IDomainEvent;
 
 We're going to raise this **domain event** inside the `SendInvitation` method:
 
-```cs
+```cs{23}
 public sealed class Gathering
 {
     private readonly List<Invitation> _invitations;
@@ -334,7 +331,7 @@ public sealed class Gathering
 
         _invitations.Add(invitation);
 
-<span class="code-line highlight-line">        Raise(new InvitationSentDomainEvent(invitation));
+        Raise(new InvitationSentDomainEvent(invitation));
 
         return Result.Success();
     }
@@ -421,8 +418,6 @@ You should be pragmatic and decide when the complexity is worth it.
 That's all for this week.
 
 See you next Saturday.
-
--->
 
 ---
 

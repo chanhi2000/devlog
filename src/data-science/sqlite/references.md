@@ -83,4 +83,12 @@ tag:
 
 ---
 
+## Wafris - Open Source Web Framework Firewalls
+
+- [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
+
+<!-- END: wafris.org -->
+
+---
+
 <TagLinks />

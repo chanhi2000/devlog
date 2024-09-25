@@ -108,6 +108,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Streams and Services for Flutter State",
+  "desc": "Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...",
+  "link": "/explore/articles/freecodecamp.org/flutter-streams-and-services.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

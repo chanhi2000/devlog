@@ -110,6 +110,9 @@ head:
   - [Gradle `compileOnly`와 AnnotationProcessor (feat. IntelliJ Lombok)](https://bbogle2.tistory.com/m/entry/Gradle-compileOnly%EC%99%80-AnnotationProcessor-feat-IntelliJ-Lombok)
   - [IntelliJ Google Code Style 적용 방법](https://bbogle2.tistory.com/m/entry/IntelliJ-Google-Code-Style-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95)
   <!-- END: bbogle2 -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[1년 후 마실가실\] 쉬어가는 마실가실 - Code Style](https://hj0216.tistory.com/m/954)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---

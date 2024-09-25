@@ -49,10 +49,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_052.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_052.png?imwidth=1920"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-More than 63%+ of organizations said in a <a href="https://dzone.com/articles/new-research-shows-63-percent-of-enterprises-are-a">Dzone survey</a> that they are adopting **Microservices** for some or all of their applications.
+More than 63%+ of organizations said in a [<FontIcon icon="fas fa-globe"/>Dzone survey](https://dzone.com/articles/new-research-shows-63-percent-of-enterprises-are-a) that they are adopting **Microservices** for some or all of their applications.
 
 As more businesses adopt the use of Microservice architectures, we as developers have to become more skilled with Microservices communication.
 
@@ -78,7 +75,7 @@ Let's dive in!
 
 You probably already know this, so this is a quick refresher.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27900%27%20height=%27468%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_052/microservices_hell.png?imwidth=1080 1x, /blogs/mnw_052/microservices_hell.png?imwidth=1920 2x" src="/blogs/mnw_052/microservices_hell.png?imwidth=1920" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_052/microservices_hell.png?imwidth=1920)
 
 Here are the key tenets of Microservices:
 
@@ -100,9 +97,9 @@ Inside a Monolith system, communication happens through direct method calls. Thi
 
 Orchestration uses **command-driven** communication. The command communicates the intent of the action. The sender wants something to happen, and the recipient doesn't need to know who sent the command.
 
-An example of orchestration can be a <a href="implementing-the-saga-pattern-with-rebus-and-rabbitmq">**Saga implemented with RabbitMQ.**</a>
+An example of orchestration can be a [**Saga implemented with RabbitMQ.**](/explore/articles/milanjovanovic.tech/implementing-the-saga-pattern-with-rebus-and-rabbitmq.md)
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271021%27%20height=%27600%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_052/orchestration.png?imwidth=1080 1x, /blogs/mnw_052/orchestration.png?imwidth=2048 2x" src="/blogs/mnw_052/orchestration.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_052/orchestration.png?imwidth=2048)
 
 It has some nice **benefits**:
 
@@ -127,9 +124,9 @@ The **drawbacks** of orchestration are:
 
 An **event** is something that has happened in the past and is a fact. The sender does not know who will handle the event or what will happen after processing it.
 
-I talked about events in-depth in the newsletter about <a href="how-to-use-domain-events-to-build-loosely-coupled-systems">**publishing domain events.**</a>
+I talked about events in-depth in the newsletter about [**publishing domain events.**](/explore/articles/milanjovanovic.tech/how-to-use-domain-events-to-build-loosely-coupled-systems.md)
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271021%27%20height=%27600%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_052/choreography.png?imwidth=1080 1x, /blogs/mnw_052/choreography.png?imwidth=2048 2x" src="/blogs/mnw_052/choreography.png?imwidth=2048" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_052/choreography.png?imwidth=2048)
 
 The most important **benefits** of choreography are:
 
@@ -181,7 +178,7 @@ Both approaches bring their advantages but also downsides.
 
 ---
 
-## takeaway"><a href="#takeaway">Takeaway
+## Takeaway
 
 **Orchestration** defines a sequence of steps that each microservice must follow. This is great for identifying and addressing complex service interdependencies. Another benefit is that business logic can be managed and monitored in one place.
 
@@ -198,8 +195,6 @@ In a **hybrid approach**, you decide which communication technique to use for a 
 Hope this was helpful.
 
 I'll see you next week!
-
--->
 
 ---
 

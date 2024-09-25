@@ -160,6 +160,7 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 38일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-38%EC%9D%BC%EC%B0%A8-DP)
 - [`@dongha1992` / 99클럽 코테 스터디 39일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-39%EC%9D%BC%EC%B0%A8-DP)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 3. 리스코프 치환 원칙(Liskov Substitution Principle)](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-3.-%EB%A6%AC%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B9%98%ED%99%98-%EC%9B%90%EC%B9%99Liskov-Substitution-Principle)
+- [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 디자인패턴 - 전략 패턴](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4)
 
 <!-- END: velog.io java -->
 

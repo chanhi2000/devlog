@@ -947,7 +947,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/swiftdata/defining-a-data-model-with-swiftdata.md',
               '/explore/articles/hackingwithswift.com/swiftdata/querying-swiftdata-objects-in-swiftui.md',
               '/explore/articles/hackingwithswift.com/swiftdata/creating-editing-and-deleting-model-objects.md',
-            '/explore/articles/hackingwithswift.com/swiftdata/sorting-query-results.md',
+              '/explore/articles/hackingwithswift.com/swiftdata/sorting-query-results.md',
               '/explore/articles/hackingwithswift.com/swiftdata/filtering-the-results-from-a-swiftdata-query.md',
               '/explore/articles/hackingwithswift.com/swiftdata/working-with-relationships.md',
               '/explore/articles/hackingwithswift.com/swiftdata/wrap-up-our-swiftdata-project-is-complete.md',
@@ -2333,7 +2333,7 @@ export const template: SidebarGroupItem = {
               '/explore/articles/hackingwithswift.com/example-code/uikit/what-is-the-safe-area-layout-guide.md',
               '/explore/articles/hackingwithswift.com/example-code/uikit/what-is-the-uiappearance-proxy.md',
               '/explore/articles/hackingwithswift.com/example-code/uikit/whats-the-difference-between-frame-and-bounds.md',
-              '/explore/articles/hackingwithswift.com/example-code/uikit/whats-the-difference-between-leading-t',
+              '/explore/articles/hackingwithswift.com/example-code/uikit/whats-the-difference-between-leading-trailing-left-and-right-anchors.md',
               '/explore/articles/hackingwithswift.com/example-code/uikit/why-can-i-not-register-for-push-notifications.md',
             ]
           }, {

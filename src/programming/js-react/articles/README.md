@@ -603,6 +603,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn React Hooks – Common Hooks Explained with Code Examples",
+  "desc": "Web development is a popular field in the tech industry. It involves building web software using HTML, CSS, and JavaScript – sometimes with the help of various frameworks and libraries. Using libraries and frameworks allows developers to focus more o...",
+  "link": "/explore/articles/freecodecamp.org/learn-react-hooks-with-example-code.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

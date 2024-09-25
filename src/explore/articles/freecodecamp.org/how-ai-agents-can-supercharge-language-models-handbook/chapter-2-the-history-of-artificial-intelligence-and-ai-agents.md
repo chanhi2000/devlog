@@ -31,7 +31,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725987639185/f8bf177
 {
   "title": "How AI Agents Can Help Supercharge Language Models – A Handbook for Developers",
   "desc": "The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...",
-  "link": "/explore/articles/freecodecamp.org/how-ai-agents-can-supercharge-language-models-handbook/READE.md",
+  "link": "/explore/articles/freecodecamp.org/how-ai-agents-can-supercharge-language-models-handbook/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

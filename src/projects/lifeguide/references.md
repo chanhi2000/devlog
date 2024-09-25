@@ -55,6 +55,8 @@ tag:
 - [`@gpO` / 우리는 그릇된 가치를 강요 받아 왔다.](https://brunch.co.kr/@@gpO/110)
 - [`@2weV` / 한 끝 차이인, 원망하는 마음과 감사하는 마음.](https://brunch.co.kr/@@2weV/548)
 - [`@2weV` / 가족과 내가 중심이 되는 삶](https://brunch.co.kr/@@2weV/557)
+- [`@2weV` / 육아, 그리고 참 인재.](https://brunch.co.kr/@@2weV/558)
+- [`@R17` / 푸틴의 사망과 종전 관계 분석 - ChatGPT-4o version.](https://brunch.co.kr/@@R17/651)
 
 <!-- END: brunch.co.kr -->
 

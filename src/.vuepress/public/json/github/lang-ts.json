@@ -4821,5 +4821,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/5056390?v=4",
     "banner": ""
+  }, {
+    "repo": "bloomberg/ts-blank-space",
+    "desc": "A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.",
+    "officialSite": "https://bloomberg.github.io/ts-blank-space",
+    "topics": ["javascript", "type-stripping", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/1416818?v=4",
+    "banner": ""
   }
 ]

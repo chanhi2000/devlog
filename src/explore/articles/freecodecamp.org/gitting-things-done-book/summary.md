@@ -28,7 +28,7 @@ cover: https://freecodecamp.org/news/content/images/size/w2000/2023/12/Gitting-T
 {
   "title": "Gitting Things Done – A Visual and Practical Guide to Git [Full Book]",
   "desc": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you us...",
-  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book/READE.md",
+  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
