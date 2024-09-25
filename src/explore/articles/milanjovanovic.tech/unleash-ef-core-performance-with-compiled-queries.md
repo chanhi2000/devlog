@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_020.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_020.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 In this week's newsletter I want to introduce you to an interesting feature in **EF Core** called **Compiled Queries**.
 
 If you have queries that you execute frequently in your application with a different set of parameters, it can be helpful to explicitly compile the query and reuse it throughout the lifetime of your application.
@@ -180,8 +177,6 @@ You might be tempted to go and convert all of your **EF** queries into **Compile
 Instead, I think we should use **Compiled Queries** sparingly, only in situations where we really need to do these kinds of micro-optimizations.
 
 Although **Compiled Queries** seem great, we can't deny they increase the complexity of our code considerably. If you think the slight performance improvement gained from using **Compiled Queries** justifies the increase in complexity, then by all means, you should use them. Otherwise, I would look for other ways to improve performance.
-
--->
 
 ---
 

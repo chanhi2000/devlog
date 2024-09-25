@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_014.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_014.png"/>
 
-<!-- TODO: 작성 -->
-
-<!--
 In this week's newsletter we will talk about running **background tasks** in **ASP.NET Core**. After reading this newsletter, you will be able to set up a **background task** and have it up and running within minutes.
 
 **Background tasks** are used to offload some work in your application to the background, outside of the normal application flow. A typical example can be asynchronously processing messages from a queue.
@@ -83,9 +80,7 @@ public interface IHostedService
 
 All you have to do is implement the `StartAsync` and `StopAsync` methods.
 
-Inside of `StartAsync` you would usually perform the background processing.
-And inside of `StopAsync` you would perform any cleanup that is necessary,
-such as disposing of resources.
+Inside of `StartAsync` you would usually perform the background processing. And inside of `StopAsync` you would perform any cleanup that is necessary, such as disposing of resources.
 
 To configure the **background task** you have to call the `AddHostedService` method:
 
@@ -93,14 +88,11 @@ To configure the **background task** you have to call the `AddHostedService` met
 builder.Services.AddHostedService<MyBackgroundTask>();
 ```
 
-Calling `AddHostedService` will configure the **background task**
-as a **singleton** service.
+Calling `AddHostedService` will configure the **background task** as a **singleton** service.
 
-So does dependency injection still work in `IHostedService` implementations?<br>
-Yes, but you can only inject **transient** or **singleton** services.
+So does dependency injection still work in `IHostedService` implementations?<br/>Yes, but you can only inject **transient** or **singleton** services.
 
-However, I don't like to implement the `IHostedService` interface myself.
-I prefer using the `BackgroundService` class instead.
+However, I don't like to implement the `IHostedService` interface myself. I prefer using the `BackgroundService` class instead.
 
 ---
 
@@ -168,7 +160,7 @@ public class PeriodicBackgroundTask : BackgroundService
 }
 ```
 
-We're using a <a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.periodictimer?view=net-6.0">PeriodicTimer</a> to asynchronously wait for a given period, before executing our **background task**.
+We're using a [<FontIcon icon="fa-brands fa-microsoft"/>PeriodicTimer](https://learn.microsoft.com/en-us/dotnet/api/system.threading.periodictimer?view=net-6.0) to asynchronously wait for a given period, before executing our **background task**.
 
 ---
 
@@ -182,12 +174,23 @@ You can probably build something like this yourself, but there are existing solu
 
 Here are two popular solutions for running **background tasks** that I worked with before:
 
-- <a href="https://www.quartz-scheduler.net/">Quartz</a>
-- <a href="https://www.hangfire.io/">Hangfire</a>
+<SiteInfo
+  name="Quartz.NET"
+  desc="Open-source scheduling framework for .NET."
+  url="https://quartz-scheduler.net/"
+  logo="https://quartz-scheduler.net/android-icon-192x192.png"
+  preview="https://www.quartz-scheduler.net/quartz-logo-large.png"/>
 
-I also have an example of <a href="https://youtu.be/XALvnX7MPeo">using Quartz for processing Outbox messages</a> on my YouTube channel that you can take a look at.
+<SiteInfo
+  name="Hangfire – Background jobs and workers for .NET and .NET Core"
+  desc="An easy way to perform background processing in .NET and .NET Core applications. No Windows Service or separate process required."
+  url="https://hangfire.io/"
+  logo="https://www.hangfire.io/apple-touch-icon.png"
+  preview="https://www.hangfire.io/img/twitter-crd.png"/>
 
--->
+I also have an example of [<FontIcon icon="fa-brands fa-youtube"/>using Quartz for processing Outbox messages](https://youtu.be/XALvnX7MPeo) on my YouTube channel that you can take a look at.
+
+<VidStack src="youtube/XALvnX7MPeo" />
 
 ---
 

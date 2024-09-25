@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_097.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_097.png"/>
 
-<!-- TODO: 작성 -->
-
-<!--
 Microservices have revolutionized how we build and scale applications. By breaking down larger systems into smaller, independent services, we gain flexibility, agility, and the ability to adapt to changing requirements quickly. However, microservices systems are also very dynamic. Services can come and go, scale up or down, and even move around within your infrastructure.
 
 This dynamic nature presents a significant challenge. How do your services find and communicate with each other reliably?
@@ -76,15 +73,22 @@ Here's what the service discovery flow looks like:
 2. The client must query the service registry to get the physical address
 3. The client sends the request to the service using the resolved physical address
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271377%27%20height=%27983%27/%3e"><img alt="Service discovery flow." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Service discovery flow." srcSet="/blogs/mnw_097/service_discovery_flow.png?imwidth=1920 1x, /blogs/mnw_097/service_discovery_flow.png?imwidth=3840 2x" src="/blogs/mnw_097/service_discovery_flow.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Service discovery flow.](https://milanjovanovic.tech/blogs/mnw_097/service_discovery_flow.png?imwidth=3840)
 
 The same concept applies when we have multiple services we want to call. Each service would register itself with the service registry. The client uses a logical name to reference a service and resolves the physical address from the service registry.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272074%27%20height=%27883%27/%3e"><img alt="Service discovery with multiple microservices." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Service discovery with multiple microservices." srcSet="/blogs/mnw_097/service_discovery_microservices.png?imwidth=3840 1x" src="/blogs/mnw_097/service_discovery_microservices.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Service discovery with multiple microservices.](https://milanjovanovic.tech/blogs/mnw_097/service_discovery_microservices.png?imwidth=3840)
 
-The most popular solutions for service discovery are Netflix <a href="https://github.com/Netflix/eureka">Eureka</a> and HashiCorp <a href="https://www.consul.io/">Consul</a>.
+The most popular solutions for service discovery are [<FontIcon icon="iconfont icon-github"/>Netflix/Eureka](https://github.com/Netflix/eureka) and HashiCorp [<FontIcon icon="fas fa-globe"/>Consul](https://consul.io/).
 
-There is also a lightweight solution from Microsoft in the `Microsoft.Extensions.ServiceDiscovery` library. It uses application settings to resolve the physical addresses for services, so some manual work is still required. However, you can store service locations in <a href="https://azure.microsoft.com/en-us/products/app-configuration">Azure App Configuration</a> for a centralized service registry.
+<SiteInfo
+  name="Netflix/eureka"
+  desc="desc"
+  url="https://github.com/Netflix/eureka"
+  logo="logo"
+  preview="preview"/>
+
+There is also a lightweight solution from Microsoft in the `Microsoft.Extensions.ServiceDiscovery` library. It uses application settings to resolve the physical addresses for services, so some manual work is still required. However, you can store service locations in [<FontIcon icon="iconfont icon-microsoftazure"/>Azure App Configuration](https://azure.microsoft.com/en-us/products/app-configuration) for a centralized service registry.
 
 I will explore this service discovery library in some future articles.
 
@@ -96,7 +100,7 @@ But now I want to show you how to integrate Consul with .NET applications.
 
 The simplest way to run the Consul server locally is using a Docker container. You can create a container instance of the `hashicorp/consul` image.
 
-Here's an example of configuring the Consul service as part of the `docker-compose` file:
+Here's an example of configuring the Consul service as part of the <FontIcon icon="iconfont icon-yaml"/>`docker-compose.yml` file:
 
 ```yaml
 consul:
@@ -109,7 +113,7 @@ consul:
 
 If you navigate to `localhost:8500`, you will be greeted by the Consul Dashboard.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271902%27%20height=%27907%27/%3e"><img alt="Consul dashboard." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Consul dashboard." srcSet="/blogs/mnw_097/consul_dashboard.png?imwidth=1920 1x, /blogs/mnw_097/consul_dashboard.png?imwidth=3840 2x" src="/blogs/mnw_097/consul_dashboard.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Consul dashboard](https://milanjovanovic.tech/blogs/mnw_097/consul_dashboard.png?imwidth=3840)
 
 Now, let's see how to register our services with Consul.
 
@@ -117,7 +121,7 @@ Now, let's see how to register our services with Consul.
 
 ## Service Registration in .NET With Consul
 
-We'll use the <a href="https://docs.steeltoe.io/api/v3/discovery/">Steeltoe Discovery</a> library to implement service discovery with Consul. The Consul client implementation lets your applications register services with a Consul server and discover services registered by other applications.
+We'll use the [<FontIcon icon="fas fa-globe"/>Steeltoe Discovery](https://docs.steeltoe.io/api/v3/discovery/) library to implement service discovery with Consul. The Consul client implementation lets your applications register services with a Consul server and discover services registered by other applications.
 
 Let's install the `Steeltoe.Discovery.Consul` library:
 
@@ -127,13 +131,13 @@ Install-Package Steeltoe.Discovery.Consul
 
 We have to configure some services by calling `AddServiceDiscovery` and explicitly configuring the Consul service discovery client. The alternative is calling `AddDiscoveryClient` which uses reflection at runtime to determine which service registry is available.
 
-```cs
+```cs{6}
 using Steeltoe.Discovery.Client;
 using Steeltoe.Discovery.Consul;
 
 var builder = WebApplication.CreateBuilder(args);
 
-<span class="code-line highlight-line">builder.Services.AddServiceDiscovery(o => o.UseConsul());
+builder.Services.AddServiceDiscovery(o => o.UseConsul());
 
 var app = builder.Build();
 
@@ -159,7 +163,7 @@ Finally, our service can register with Consul by configuring the logical service
 
 When we start the application and open the Consul dashboard, we should be able to see the `reporting-service` and its respective physical address.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271902%27%20height=%27907%27/%3e"><img alt="Consul dashboard with registered service." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Consul dashboard with registered service." srcSet="/blogs/mnw_097/consul_dashboard_with_service.png?imwidth=1920 1x, /blogs/mnw_097/consul_dashboard_with_service.png?imwidth=3840 2x" src="/blogs/mnw_097/consul_dashboard_with_service.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Consul dashboard with registered service.](https://milanjovanovic.tech/blogs/mnw_097/consul_dashboard_with_service.png?imwidth=3840)
 
 ---
 
@@ -204,11 +208,16 @@ Services can discover each other's locations on demand, ensuring that communicat
 
 Mastering service discovery gives you a powerful tool to build modern distributed applications.
 
-You can grab the <a href="https://github.com/m-jovanovic/service-discovery-consul">source code for this example here</a>.
+You can grab the [source code for this example here (<FontIcon icon="iconfont icon-github"/>`m-jovanovic/service-discovery-consul`)](https://github.com/m-jovanovic/service-discovery-consul).
+
+<SiteInfo
+  name="m-jovanovic/service-discovery-consul"
+  desc="Service discovery demo in .NET using Consul as a service registry."
+  url="https://github.com/m-jovanovic/service-discovery-consul"
+  logo="https://avatars.githubusercontent.com/u/34191235?s=96&v=4"
+  preview="https://opengraph.githubassets.com/f9cc712abce3930270887c2badf2c24aea46c72b2ec6c5867f88379b73f84ffd/m-jovanovic/service-discovery-consul"/>
 
 Thanks for reading, and I'll see you next week!
-
--->
 
 ---
 

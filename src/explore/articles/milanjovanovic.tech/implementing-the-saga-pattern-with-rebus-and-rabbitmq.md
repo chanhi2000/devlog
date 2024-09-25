@@ -219,10 +219,10 @@ There are two types of messages you send in a **Saga**:
 - Commands
 <li>Events
 
-Commands instruct the receiving component what to do.<br>
+Commands instruct the receiving component what to do.<br/>
 Think: **verb, imperative.**
 
-Events notify the Saga which process was just completed.<br>
+Events notify the Saga which process was just completed.<br/>
 Think: **what happened, past tense.**
 
 ---

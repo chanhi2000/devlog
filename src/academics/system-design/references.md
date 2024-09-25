@@ -310,6 +310,7 @@ head:
 - [`@2fEJ` / \[UX원칙#12\] 체크박스와 토글 UX 설계 7 원칙](https://brunch.co.kr/@@2fEJ/1481)
 - [`@2fEJ` / \[UX원칙#13\]고스트 버튼을 디자인할 때 고려사항](https://brunch.co.kr/@@2fEJ/1482)
 - [`@2fEJ` / \[UX원칙#13\]고스트 버튼을 디자인할 때 고려사항](https://brunch.co.kr/@@2fEJ/1482)
+- [`@2fEJ` / \[UX원칙#18\]아이콘 디자인 10가지 UX 원칙](https://brunch.co.kr/@@2fEJ/1485)
 
 <!-- END: brunch.co.kr -->
 

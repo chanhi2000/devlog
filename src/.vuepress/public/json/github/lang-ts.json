@@ -4814,5 +4814,12 @@
     "topics": ["api", "crm", "docker", "docker-compose", "growth-hacking", "javascript", "monorepo", "nestjs", "oauth", "open-core", "open-source", "postgresql", "prisma", "react", "self-hosted", "typescript", "typescript-sdk", "unified-api", "vitejs"],
     "avatar": "https://avatars.githubusercontent.com/u/144964506?v=4",
     "banner": ""
+  }, {
+    "repo": "loggerhead/json4u",
+    "desc": "",
+    "officialSite": "https://json4u.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5056390?v=4",
+    "banner": ""
   }
 ]

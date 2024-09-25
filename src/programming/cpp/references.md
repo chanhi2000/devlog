@@ -267,6 +267,7 @@ head:
 - [LabX에 선 그래프 예제가 추가되었습니다.](https://m.blog.naver.com/tipsware/223590553960)
 - [LxMFC를 사용해서 컴퓨터에 연결된 CAM 장치의 영상 출력하기](https://m.blog.naver.com/tipsware/223591118302)
 - [CAM 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223591697391)
+- [LxMFC에 슬라이더 컨트롤이 추가되었습니다.](https://m.blog.naver.com/tipsware/223593892057)
 
 <!-- END: tipsware.blog.naver.com -->
 

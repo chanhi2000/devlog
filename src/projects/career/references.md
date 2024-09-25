@@ -330,6 +330,7 @@ tag:
 - [`@1W2S` / 노마드코더 7년 회고 - Start Small, Stay Small](https://brunch.co.kr/@@1W2S/259)
 - [`@2rV` / 위대한 기업 문화를 어떻게 만들 것인가? - 구글, 애플, 우버 리더십의 대화](https://brunch.co.kr/@@2rV/183)
 - [`@ZVA` / 페북 리브라의 후예들, 수이 vs 앱토스 뭐가 다르지?](https://brunch.co.kr/@@ZVA/730)
+- [`@6xdo` / 독일에서 첫번째 이직하기 - 6년을 다니던 독일 회사를 그만 두게 되었습니다](https://brunch.co.kr/@@6xdo/131)
 
 <!-- END: brunch.co.kr -->
 
@@ -535,6 +536,7 @@ tag:
   - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/m/287)
   - [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/m/291)
   - [국비지원교육(IT)을 신청하기 전에 생각해보아야 할 것들](https://aws-hyoh.tistory.com/m/295)
+  - [매 순간 최선을 다한다는 것은](https://aws-hyoh.tistory.com/m/298)
 - [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
   <!-- END: aws-hyoh -->
   - [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/m/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)

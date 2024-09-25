@@ -51,12 +51,9 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_025.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_025.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 **Structured logging** is a practice where you apply the same message format to all of your application logs. The end result is that all your logs will have a similar structure, allowing them to be easily searched and analyzed.
 
-<a href="https://serilog.net/">Serilog</a> is a popular logging library in .NET, packed with many features. It provides logging to files, logging to the console, and elsewhere.
+[<FontIcon icon="fas fa-globe"/>Serilog](https://serilog.net/) is a popular logging library in .NET, packed with many features. It provides logging to files, logging to the console, and elsewhere.
 
 However, **Serilog** is unique because it comes with support for **structured logging** out of the box.
 
@@ -95,9 +92,9 @@ The next question is how do you provide the actual configuration values to **Ser
 
 ---
 
-## Configuring Serilog With `appsettings.json`
+## Configuring Serilog With <FontIcon icon="iconfont icon-json"/>`appsettings.json`
 
-You need to add a `Serilog` section in your `appsettings.json` file.
+You need to add a `Serilog` section in your <FontIcon icon="iconfont icon-json"/>`appsettings.json` file.
 
 Here you can configure, among other things:
 
@@ -134,7 +131,14 @@ In this example, we're adding the `Console` and `File` sinks to **Serilog**. And
 
 ```
 
-You can get a more detailed overview of what's supported with the `Serilog.Configuration` library in the <a href="https://github.com/serilog/serilog-settings-configuration">documentation</a>.
+You can get a more detailed overview of what's supported with the `Serilog.Configuration` library in the [documentation (<FontIcon icon="iconfont icon-github"/>`serilog/serilog-settings-configuration`)](https://github.com/serilog/serilog-settings-configuration).
+
+<SiteInfo
+  name="serilog/serilog-settings-configuration"
+  desc="A Serilog configuration provider that reads from Microsoft.Extensions.Configuration"
+  url="https://github.com/serilog/serilog-settings-configuration"
+  logo="https://avatars.githubusercontent.com/u/5691010?s=88&v=4"
+  preview="https://opengraph.githubassets.com/373bfe5a0337d2ec44960c172d4d9e523fbd6bbece03a5f09f61bada75ee10d0/serilog/serilog-settings-configuration"/>
 
 ---
 
@@ -196,8 +200,6 @@ When an error occurs, structured logs can provide more context and details about
 It's very easy to start doing structured logging with **Serilog**, and I hope you'll give it a try.
 
 See you next week, and have an excellent Saturday.
-
--->
 
 ---
 

@@ -3096,6 +3096,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/sqlite/articles/README.md',
+            asb.freecodecamp("sqlite"),
             asb.digitalocean("sqlite"),
             asb.kodeco("sqlite"),
           ]

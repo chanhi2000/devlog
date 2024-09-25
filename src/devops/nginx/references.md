@@ -29,6 +29,9 @@ tag:
 - [`@mowinckel` / 🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - [`@broccolism` / \[nginx\] 기본값만 믿고 있다가 삽질하기 딱 좋은 설정 - 헤더의 언더스코어](https://velog.io/@broccolism/nginx-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-%EB%94%B1-%EC%A2%8B%EC%9D%80-%EC%84%A4%EC%A0%95)
 - [`@dradnats1012` / 인프라 스터디 2주차](https://velog.io/@dradnats1012/%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+- [`@devgyurak` / 내 서버에 적절한 worker 할당하기 (Feat. Nginx, Gunicorn, Uvicorn)](https://velog.io/@devgyurak/%EB%82%B4-%EC%84%9C%EB%B2%84%EC%97%90-%EC%A0%81%EC%A0%88%ED%95%9C-worker-%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0-Feat.-Nginx-Gunicorn-Uvicorn)
+
+<!-- END: velog.io -->
 
 ---
 
@@ -37,12 +40,17 @@ tag:
 - [`@baealex` - NginX를 활용한 Docker 무중단 배포](https://blex.me/@baealex/nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-docker-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC)
 - [`@baealex` - 우분투 NginX + Let's Encrypt](https://blex.me/@baealex/ubuntu-nginx-letsencrypt)
 
+<!-- END: blex.me -->
+
 ---
 
 ## üntil
 
 - [`@thingk0` / WAS가 있음에도 불구하고, 웹서버인 Nginx 를 사용하는 이유 - 개발자 면접 리마인드](https://until.blog/@thingk0/was%EA%B0%80-%EC%9E%88%EC%9D%8C%EC%97%90%EB%8F%84-%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0--%EC%9B%B9%EC%84%9C%EB%B2%84%EC%9D%B8-nginx-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0---%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C)
 
+<!-- END: until.blog -->
+
+---
 
 ## Blog - LINE ENGINEERING
 

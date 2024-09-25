@@ -312,6 +312,9 @@ head:
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [잔디를 옮겨 심어보자](https://ravenkim97.tistory.com/m/475)
   <!-- END: ravenkim97 -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[1년 후 마실가실\] `.gitignore` 재적용](https://hj0216.tistory.com/m/953)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---

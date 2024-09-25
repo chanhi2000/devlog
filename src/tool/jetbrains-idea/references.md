@@ -106,6 +106,10 @@ head:
 - [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
   - [CodeGPT로 IntelliJ에서 Ollama LLM 사용하기](https://devs0n.tistory.com/m/196)
   <!-- END: devs0n -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Gradle `compileOnly`와 AnnotationProcessor (feat. IntelliJ Lombok)](https://bbogle2.tistory.com/m/entry/Gradle-compileOnly%EC%99%80-AnnotationProcessor-feat-IntelliJ-Lombok)
+  - [IntelliJ Google Code Style 적용 방법](https://bbogle2.tistory.com/m/entry/IntelliJ-Google-Code-Style-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+  <!-- END: bbogle2 -->
 <!-- END: tistory.com -->
 
 ---

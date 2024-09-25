@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_054.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_054.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 How often do you think about concurrency conflicts when writing code?
 
 You write the code for a new feature, confirm that it works, and call it a day.
@@ -76,7 +73,7 @@ There's a race condition hiding somewhere in this code snippet.
 
 Can you see it?
 
-```cs
+```cs{9,18}
 public Result<Guid> Handle(
     ReserveBooking command,
     AppDbContext dbContext)
@@ -85,7 +82,7 @@ public Result<Guid> Handle(
     var apartment = dbContext.Apartments.GetById(command.ApartmentId);
     var (startDate, endDate) = command;
 
-<span class="code-line highlight-line">    if (dbContext.Bookings.IsOverlapping(apartment, startDate, endDate))
+    if (dbContext.Bookings.IsOverlapping(apartment, startDate, endDate))
     {
         return Result.Failure<Guid>(BookingErrors.Overlap);
     }
@@ -94,7 +91,7 @@ public Result<Guid> Handle(
 
     dbContext.Add(booking);
 
-<span class="code-line highlight-line">    dbContext.SaveChanges();
+    dbContext.SaveChanges();
 
     return booking.Id;
 }
@@ -126,16 +123,16 @@ You can also solve this problem using optimistic concurrency with EF Core. It do
 
 To implement optimistic concurrency in EF Core, you need to configure a property as a *concurrency token*. It's loaded and tracked with the entity. When you call `SaveChanges`, EF Core will compare the value of the concurrency token to the value in the database.
 
-Let's assume we're using SQL Server, which has a native <a href="https://learn.microsoft.com/en-us/sql/t-sql/data-types/rowversion-transact-sql?view=sql-server-ver16">`rowversion`</a> column. The `rowversion` automatically changes when the row is updated, so it's a great option for a concurrency token.
+Let's assume we're using SQL Server, which has a native [<FontIcon icon="fa-brands fa-microsoft"/>`rowversion`](https://learn.microsoft.com/en-us/sql/t-sql/data-types/rowversion-transact-sql?view=sql-server-ver16) column. The `rowversion` automatically changes when the row is updated, so it's a great option for a concurrency token.
 
 To configure a `byte[]` property as a concurrency token you can decorate it with the `Timestamp` attribute. It will be mapped to a `rowversion` column in SQL Server.
 
-```cs
+```cs{5}
 public class Apartment
 {
     public Guid Id { get; set; }
 
-<span class="code-line highlight-line">    [Timestamp]
+    [Timestamp]
     public byte[] Version { get; set; }
 }
 ```
@@ -144,12 +141,12 @@ I prefer a different approach because attributes pollute the entity.
 
 You can do the same with the Fluent API. I will even use a shadow property to hide the concurrency token from the entity class.
 
-```cs
+```cs{4-5}
 protected override void OnModelCreating(ModelBuilder modelBuilder)
 {
     modelBuilder.Entity<Apartment>()
-<span class="code-line highlight-line">        .Property<byte[]>("Version")
-<span class="code-line highlight-line">        .IsRowVersion();
+        .Property<byte[]>("Version")
+        .IsRowVersion();
 }
 ```
 
@@ -190,9 +187,9 @@ Now that you know how to use optimistic concurrency with EF Core, you can fix th
 
 If two concurrent requests pass the `IsOverlapping` check, only one can complete the `SaveChanges` call. The other concurrent request will run into a `Version` mismatch in the database and throw a `DbUpdateConcurrencyException`.
 
-In case of a concurrency conflict, we need to add a `try-catch` statement to catch the `DbUpdateConcurrencyException`. How you handle the actual exception depends on your business requirements. And sometimes, <a href="https://go.particular.net/milanjovanovic/raceconditions">race conditions</a> might not even exist.
+In case of a concurrency conflict, we need to add a `try-catch` statement to catch the `DbUpdateConcurrencyException`. How you handle the actual exception depends on your business requirements. And sometimes, [<FontIcon icon="fas fa-globe"/>race conditions](https://go.particular.net/milanjovanovic/raceconditions) might not even exist.
 
-```cs
+```cs{24}
 public Result<Guid> Handle(
     ReserveBooking command,
     AppDbContext dbContext)
@@ -216,7 +213,7 @@ public Result<Guid> Handle(
 
         return booking.Id;
     }
-<span class="code-line highlight-line">    catch (DbUpdateConcurrencyException)
+    catch (DbUpdateConcurrencyException)
     {
         return Result.Failure<Guid>(BookingErrors.Overlap);
     }
@@ -238,8 +235,6 @@ Another reason to use optimistic concurrency is when you can't hold an open conn
 Hope this was helpful.
 
 I'll see you next week!
-
--->
 
 ---
 

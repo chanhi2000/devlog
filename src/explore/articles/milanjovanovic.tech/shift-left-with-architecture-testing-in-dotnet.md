@@ -51,16 +51,13 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_091.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_091.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-Picture this: You're part of a team building a shiny new .NET application. You've carefully chosen your software architecture. It could be microservices, a <a href="/modular-monolith-architecture">**modular monolith**</a>, or something else entirely. You've decided which database you will use and all the other tools you need. Everyone's excited, the code is flowing, and features are getting shipped.
+Picture this: You're part of a team building a shiny new .NET application. You've carefully chosen your software architecture. It could be microservices, a [**modular monolith**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md), or something else entirely. You've decided which database you will use and all the other tools you need. Everyone's excited, the code is flowing, and features are getting shipped.
 
 Fast forward a few months (or years), and things might look different.
 
 The codebase has grown, and new features have been added. Maybe your team has even changed, with new developers coming on board. Adding new features becomes a pain, and bugs are popping up left and right.
 
-And slowly but surely, the neat architecture you started with has turned into a <a href="https://deviq.com/antipatterns/big-ball-of-mud">big ball of mud</a>. What went wrong? And more importantly, what can we do about it?
+And slowly but surely, the neat architecture you started with has turned into a [<FontIcon icon="fas fa-globe"/>big ball of mud](https://deviq.com/antipatterns/big-ball-of-mud). What went wrong? And more importantly, what can we do about it?
 
 Today, I want to show you how architecture testing can prevent this problem.
 
@@ -82,15 +79,22 @@ Plus, not everyone has a deep understanding of software architecture, or they mi
 
 ## Architecture Testing
 
-Luckily, there's a way to enforce software architecture on your project before things get out of hand. It's called <a href="enforcing-software-architecture-with-architecture-tests">**architecture testing**</a>. These are automated tests that check whether your code follows the architectural rules you've set up.
+Luckily, there's a way to enforce software architecture on your project before things get out of hand. It's called [**architecture testing**](/explore/articles/milanjovanovic.tech/enforcing-software-architecture-with-architecture-tests.md). These are automated tests that check whether your code follows the architectural rules you've set up.
 
-With architecture testing, you can <a href="https://en.wikipedia.org/wiki/Shift-left_testing">"shift left"</a>. This enables you to find and fix problems early in the development process when they're much easier and cheaper to deal with.
+With architecture testing, you can [<FontIcon icon="fa-brands fa-wikipedia-w"/>"shift left"](https://en.wikipedia.org/wiki/Shift-left_testing. This enables you to find and fix problems early in the development process when they're much easier and cheaper to deal with.
 
-Think of it like a safety net for your software architecture and design rules. If someone accidentally breaks a rule, the test will catch it and alert you. Bonus points if you integrate architecture testing into your <a href="how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet">**CI pipeline**</a>.
+Think of it like a safety net for your software architecture and design rules. If someone accidentally breaks a rule, the test will catch it and alert you. Bonus points if you integrate architecture testing into your [**CI pipeline**](/explore/articles/milanjovanovic.tech/how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet.md).
 
-There are a few libraries you can use for architecture testing. I prefer working with the <a href="https://github.com/BenMorris/NetArchTest">NetArchTest</a> library, which I'll use for the examples.
+There are a few libraries you can use for architecture testing. I prefer working with the [<FontIcon icon="iconfont icon-github"/>`BenMorris/NetArchTest`](https://github.com/BenMorris/NetArchTest) library, which I'll use for the examples.
 
-You can check out this article to learn the <a href="enforcing-software-architecture-with-architecture-tests">**fundamentals of architecture testing**</a>.
+<SiteInfo
+  name="BenMorris/NetArchTest"
+  desc="A fluent API for .Net that can enforce architectural rules in unit tests."
+  url="https://github.com/BenMorris/NetArchTest"
+  logo="https://avatars.githubusercontent.com/u/1744805?s=96&v=4"
+  preview="https://opengraph.githubassets.com/4c8300674a4b7439d39f13b79063a42dfa61d3592cb63f349a3c93ee9d9066c2/BenMorris/NetArchTest"/>
+
+You can check out this article to learn the [**fundamentals of architecture testing**](/explore/articles/milanjovanovic.tech/enforcing-software-architecture-with-architecture-tests.md).
 
 Let's see how to write some architecture tests.
 
@@ -98,7 +102,7 @@ Let's see how to write some architecture tests.
 
 ## Architecture Testing: Modular Monolith
 
-You built an application using the <a href="what-is-a-modular-monolith">**modular monolith architecture**</a>. But how can you maintain the constraints between the modules?
+You built an application using the [**modular monolith architecture**](/explore/articles/milanjovanovic.tech/what-is-a-modular-monolith.md). But how can you maintain the constraints between the modules?
 
 - Modules aren't allowed to reference each other
 - Modules can only call the public API of other modules
@@ -137,13 +141,13 @@ public void TicketingModule_ShouldNotHaveDependencyOn_AnyOtherModule()
 }
 ```
 
-If you want to learn how to build robust and scalable systems using this architectural approach, check out <a href="/modular-monolith-architecture">**Modular Monolith Architecture**</a>.
+If you want to learn how to build robust and scalable systems using this architectural approach, check out [**Modular Monolith Architecture**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md).
 
 ---
 
 ## Architecture Testing: Clean Architecture
 
-We can also write architecture tests for <a href="why-clean-architecture-is-great-for-complex-projects">**Clean Architecture**</a>. The inner layers aren't allowed to reference the outer layers. Instead, the inner layers define abstractions and the outer layers implement these abstractions.
+We can also write architecture tests for [**Clean Architecture**](/explore/articles/milanjovanovic.tech/why-clean-architecture-is-great-for-complex-projects.md). The inner layers aren't allowed to reference the outer layers. Instead, the inner layers define abstractions and the outer layers implement these abstractions.
 
 For example, the `Domain` layer isn't allowed to reference the `Application` layer. Here's an architecture test enforcing this rule:
 
@@ -175,7 +179,7 @@ public void ApplicationLayer_ShouldNotHaveDependencyOn_InfrastructureLayer()
 
 We can introduce more architecture tests for the `Infrastructure` and `Presentation` layers, if needed.
 
-Ready to learn more about building production-ready applications using this architectural approach? You should check out <a href="/pragmatic-clean-architecture">**Pragmatic Clean Architecture**</a>.
+Ready to learn more about building production-ready applications using this architectural approach? You should check out [**Pragmatic Clean Architecture**](/explore/articles/milanjovanovic.tech/pragmatic-clean-architecture/README.md).
 
 ---
 
@@ -254,7 +258,7 @@ public void CommandHandler_ShouldHave_NameEndingWith_CommandHandler()
 
 Even the most well-planned software projects decay because of technical debt. Most developers have good intentions. However, time pressure, misunderstandings, and resistance to rules all contribute to this problem.
 
-<a href="enforcing-software-architecture-with-architecture-tests">**Architecture testing**</a> acts as a safeguard. It prevents your codebase from turning into a big ball of mud. By catching architectural violations early on, you can shift left. Short feedback loops avoid costly rework and improve developer productivity. It also ensures the long-term health of your project.
+[**Architecture testing**](/explore/articles/milanjovanovic.tech/enforcing-software-architecture-with-architecture-tests.md) acts as a safeguard. It prevents your codebase from turning into a big ball of mud. By catching architectural violations early on, you can shift left. Short feedback loops avoid costly rework and improve developer productivity. It also ensures the long-term health of your project.
 
 A few key takeaways:
 
@@ -263,13 +267,22 @@ A few key takeaways:
 - **Start small and iterate**: You don't have to test everything at once. Focus on the most critical rules first.
 - **Make it part of your workflow**: Integrate architecture tests into your CI/CD pipeline so they run automatically.
 
-**Action point**: Start by exploring popular .NET architecture testing libraries like <a href="https://github.com/BenMorris/NetArchTest">ArchUnitNET</a> or <a href="https://github.com/TNG/ArchUnitNET">NetArchTest</a>. Experiment with writing tests for common architectural rules and gradually integrate them into your development workflow.
+::: info Action point
+
+Start by exploring popular .NET architecture testing libraries like [<FontIcon icon="iconfont icon-github"/>`BenMorris/ArchUnitNET`](https://github.com/BenMorris/ArchUnitNET). Experiment with writing tests for common architectural rules and gradually integrate them into your development workflow.
+
+<SiteInfo
+  name="TNG/ArchUnitNET"
+  desc="A C# architecture test library to specify and assert architecture rules in C# for automated testing."
+  url="https://github.com/TNG/ArchUnitNET"
+  logo="https://avatars.githubusercontent.com/u/432256?s=88&v=4"
+  preview="https://opengraph.githubassets.com/686a0d4957388dbf014b2807249af0019cd0ae23730f21d3709bf0562887b8cf/TNG/ArchUnitNET"/>
+
+:::
 
 That's all for today.
 
 See you next week.
-
--->
 
 ---
 

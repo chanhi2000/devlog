@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_099.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_099.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Modular monoliths strike a balance between the simplicity of monolithic architecture and the flexibility of microservices. By breaking down applications into cohesive modules, modular monoliths enable easier development and maintenance. However, they still have a single codebase and deployment unit.
 
 A critical aspect of the success of a modular monolith is the interaction between its modules.
@@ -86,7 +83,7 @@ The key benefits of system integration testing are:
 
 ## Modular Monolith System Example
 
-A modular monolith consists of multiple modules, each with a distinct responsibility. Modules represent high-level components with well-defined boundaries. The modules essentially group together related functionalities (use cases). If you want to learn more about this software architecture, check out this <a href="what-is-a-modular-monolith">**introduction to modular monoliths**</a>.
+A modular monolith consists of multiple modules, each with a distinct responsibility. Modules represent high-level components with well-defined boundaries. The modules essentially group together related functionalities (use cases). If you want to learn more about this software architecture, check out this [**introduction to modular monoliths**](/explore/articles/milanjovanovic.tech/what-is-a-modular-monolith.md).
 
 Let's consider a hypothetical ticketing system that consists of several modules:
 
@@ -95,7 +92,7 @@ Let's consider a hypothetical ticketing system that consists of several modules:
 - **Ticketing Module**: Allows users to purchase tickets for various events.
 - **Attendance Module**: Allows users to check into events using their tickets.
 
-<figure><span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272506%27%20height=%271282%27/%3e"><img alt="Modular monolith UML diagram." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Modular monolith UML diagram." srcSet="/blogs/mnw_099/modular_monolith.png?imwidth=3840 1x" src="/blogs/mnw_099/modular_monolith.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript><figcaption>Source: <a href="/modular-monolith-architecture">Modular Monolith Architecture</a>
+![[Modular monolith UML diagram.](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md)](https://milanjovanovic.tech/blogs/mnw_099/modular_monolith.png?imwidth=3840)
 
 During system integration testing, we want to ensure that all these modules interact correctly and fulfill the business requirements of the ticketing system.
 
@@ -103,7 +100,7 @@ During system integration testing, we want to ensure that all these modules inte
 
 ## Testing Modular Monoliths: User Registration
 
-The modules in our ticketing system represent different <a href="monolith-to-microservices-how-a-modular-monolith-helps">**bounded contexts**</a>. The **Users Module** uses the term `User` as its core entity. However, the **Ticketing Module** uses the term `Customer` because it's more aligned with its core responsibility of selling tickets. Conceptually, both entities represent the same person within our system.
+The modules in our ticketing system represent different [**bounded contexts**](/explore/articles/milanjovanovic.tech/monolith-to-microservices-how-a-modular-monolith-helps.md). The **Users Module** uses the term `User` as its core entity. However, the **Ticketing Module** uses the term `Customer` because it's more aligned with its core responsibility of selling tickets. Conceptually, both entities represent the same person within our system.
 
 Here's the scenario we want to test:
 
@@ -111,9 +108,9 @@ Here's the scenario we want to test:
 - The **Users Module** publishes an integration event to notify other modules
 - The **Ticketing Module** handles the integration event and creates a customer record
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272866%27%20height=%27877%27/%3e"><img alt="User registration flow diagram." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="User registration flow diagram." srcSet="/blogs/mnw_099/user_registration.png?imwidth=3840 1x" src="/blogs/mnw_099/user_registration.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/>
+![User registration flow diagram.](https://milanjovanovic.tech/blogs/mnw_099/user_registration.png?imwidth=3840)
 
-If you haven't figured it out by now, our <a href="modular-monolith-communication-patterns">**modules communicate asynchronously**</a> using messaging.
+If you haven't figured it out by now, our [**modules communicate asynchronously**](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md) using messaging.
 
 Why is this important for our tests?
 
@@ -165,18 +162,16 @@ public class RegisterUserTests : BaseIntegrationTest
 A lot is going on here, so let's unpack the steps:
 
 - We're using the `WebApplicationFactory` to run an in-memory application instance
-- Any external dependencies run in a Docker container using <a href="testcontainers-integration-testing-using-docker-in-dotnet">**Testcontainers**</a>
+- Any external dependencies run in a Docker container using [**Testcontainers**](/explore/articles/milanjovanovic.tech/testcontainers-integration-testing-using-docker-in-dotnet.md)
 - We send the `RegisterUserCommand` to register a user in the **Users Module**
 - Then, we have to poll the **Ticketing Module** by sending a `GetCustomerQuery`
 - The `Poller` allows us to wait until the system eventually becomes consistent
 
-You can learn more about <a href="testcontainers-integration-testing-using-docker-in-dotnet">**integration testing with Testcontainers in this article**</a>.
+You can learn more about [**integration testing with Testcontainers in this article**](/explore/articles/milanjovanovic.tech/testcontainers-integration-testing-using-docker-in-dotnet.md).
 
-System integration tests take longer to execute than integration tests for one module.
-This is a side effect of testing a bigger slice of the overall system in each test case.
+System integration tests take longer to execute than integration tests for one module. This is a side effect of testing a bigger slice of the overall system in each test case.
 
-The `Poller` class allows you to execute a delegate until you receive a successful result or a timeout occurs.
-You can customize the timeout duration based on the scenario you are testing.
+The `Poller` class allows you to execute a delegate until you receive a successful result or a timeout occurs. You can customize the timeout duration based on the scenario you are testing.
 
 ```cs
 internal static class Poller
@@ -272,7 +267,7 @@ public sealed class AddItemToCartTests : BaseIntegrationTest
 
 ```
 
-What I like about system integration testing is that the test cases aren't complicated to write. The tests execute the use cases of our system and verify the side effects. Building your system around <a href="building-your-first-use-case-with-clean-architecture">**use cases**</a> has a few advantages, the main one being that you can focus on the core business logic. But it also makes (integration) testing easier. The use case runs by sending a command or a query. We can execute the use cases in some logical order and check that we get the expected result.
+What I like about system integration testing is that the test cases aren't complicated to write. The tests execute the use cases of our system and verify the side effects. Building your system around [**use cases**](/explore/articles/milanjovanovic.tech/building-your-first-use-case-with-clean-architecture.md) has a few advantages, the main one being that you can focus on the core business logic. But it also makes (integration) testing easier. The use case runs by sending a command or a query. We can execute the use cases in some logical order and check that we get the expected result.
 
 ---
 
@@ -280,13 +275,11 @@ What I like about system integration testing is that the test cases aren't compl
 
 System integration testing is a crucial step in creating a successful modular monolith. By testing how different modules work together, you can find and fix problems before they become bigger issues. This makes your software more reliable and saves you time and resources in the long run.
 
-If you want to dive deeper into building modular systems, check out <a href="/modular-monolith-architecture">**Modular Monolith Architecture**</a>. There's an entire chapter dedicated to testing, including advanced techniques like system integration testing, using Testcontainers for external services, and automated testing with CI/CD pipelines.
+If you want to dive deeper into building modular systems, check out [**Modular Monolith Architecture**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md). There's an entire chapter dedicated to testing, including advanced techniques like system integration testing, using Testcontainers for external services, and automated testing with CI/CD pipelines.
 
 That's all for today.
 
 See you next week.
-
--->
 
 ---
 

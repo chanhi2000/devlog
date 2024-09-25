@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - kodeco.com
   - digitalocean.com
   - sql
@@ -26,6 +27,13 @@ head:
 # {{ $frontmatter.title }} 관련
 
 <SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
+
+<SiteInfo
   name="Library | Kodeco > iOS & Swift"
   desc="Search the best collection of iOS and Android tutorials on the web"
   url="https://kodeco.com/library?domain_ids%5B%5D=1&subscription_types%5B%5D=free&content_types%5B%5D=article&category_ids%5B%5D=156&category_ids%5B%5D=181&category_ids%5B%5D=159&category_ids%5B%5D=151&category_ids%5B%5D=1222&category_ids%5B%5D=1224&category_ids%5B%5D=161&category_ids%5B%5D=177&category_ids%5B%5D=143&category_ids%5B%5D=147&category_ids%5B%5D=155&category_ids%5B%5D=144&category_ids%5B%5D=158&category_ids%5B%5D=148&category_ids%5B%5D=150&category_ids%5B%5D=152&category_ids%5B%5D=149&category_ids%5B%5D=1223&category_ids%5B%5D=154&category_ids%5B%5D=146&q="
@@ -40,6 +48,24 @@ head:
   preview="https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg"/>
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
+  "desc": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
+  "link": "/explore/articles/freecodecamp.org/how-to-work-with-sql-databases-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

@@ -51,10 +51,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_071.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_071.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-<a href="https://masstransit.io/">MassTransit</a> is an open-source distributed application framework for .NET. It provides a messaging abstraction on top of the supported message transports. MassTransit lets you focus on adding business value instead of worrying about messaging complexity.
+[<FontIcon icon="fas fa-globe"/>MassTransit](https://masstransit.io/) is an open-source distributed application framework for .NET. It provides a messaging abstraction on top of the supported message transports. MassTransit lets you focus on adding business value instead of worrying about messaging complexity.
 
 MassTransit supports many message transport technologies. Here are a few that are popular:
 
@@ -73,13 +70,13 @@ MassTransit solves many challenges of building distributed applications. You (al
 
 Here are a few things MassTransit does for you:
 
-- **Message routing** - Type-based publish/subscribe, automatic broker topology configuration
-- **Exception handling** - Messages can be retried or moved to an error queue
-- **Dependency injection** - Service collection configuration and scope service provider
-- **Request-Response** - Handle requests with automatic response routing
-- **Observability** - Native <a href="https://opentelemetry.io/">Open Telemetry (OTEL)</a> support
-- **Scheduling** - Schedule message delivery using transport delay, Quartz.NET, or Hangfire
-- **Sagas** - Reliable, durable, event-driven workflow orchestration
+- **Message routing**: Type-based publish/subscribe, automatic broker topology configuration
+- **Exception handling**: Messages can be retried or moved to an error queue
+- **Dependency injection**: Service collection configuration and scope service provider
+- **Request-Response**: Handle requests with automatic response routing
+- **Observability**: Native [<FontIcon icon="fas fa-globe"/>Open Telemetry (OTEL)](https://opentelemetry.io/) support
+- **Scheduling**: Schedule message delivery using transport delay, Quartz.NET, or Hangfire
+- **Sagas**: Reliable, durable, event-driven workflow orchestration
 
 Let's see how to start using MassTransit.
 
@@ -87,7 +84,7 @@ Let's see how to start using MassTransit.
 
 ## Installing and Configuring MassTransit with RabbitMQ
 
-You need to install the `MassTransit` library. If you already have a message transport, you can install the respective transport library. Let's add the `MassTransit.RabbitMQ` library to configure <a href="https://www.rabbitmq.com/">RabbitMQ</a> as the transport mechanism.
+You need to install the `MassTransit` library. If you already have a message transport, you can install the respective transport library. Let's add the `MassTransit.RabbitMQ` library to configure [<FontIcon icon="iconfont icon-rabbitmq"/>RabbitMQ](https://rabbitmq.com/) as the transport mechanism.
 
 ```pwsh
 Install-Package MassTransit
@@ -119,7 +116,7 @@ MassTransit takes care of setting up the required broker topology. RabbitMQ supp
 
 You can start RabbitMQ locally inside a Docker container:
 
-```cs
+```sh
 docker run -d --name rabbitmq -p 5672:5672
 ```
 
@@ -127,7 +124,7 @@ docker run -d --name rabbitmq -p 5672:5672
 
 ## Configuring MassTransit with Azure Service Bus
 
-<a href="https://azure.microsoft.com/en-us/products/service-bus">Azure Service Bus</a> is a cloud-based message broker with support for queues and topics. MassTransit fully supports Azure Service Bus, including many advanced features and capabilities. However, you must be on the Standard or Premium tier of the Microsoft Azure Service Bus service.
+[<FontIcon icon="iconfont icon-microsoftazure"/>Azure Service Bus](https://azure.microsoft.com/en-us/products/service-bus) is a cloud-based message broker with support for queues and topics. MassTransit fully supports Azure Service Bus, including many advanced features and capabilities. However, you must be on the Standard or Premium tier of the Microsoft Azure Service Bus service.
 
 To configure MassTransit to work with Azure Service Bus, you need to install the required transport library:
 
@@ -179,7 +176,7 @@ builder.Services.AddMassTransit(busConfigurator =>
 
 ## Message Types
 
-MassTransit requires message types to be <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types">reference types.</a> So, you can use a `class`, `record` or `interface` to define a message.
+MassTransit requires message types to be [<FontIcon icon="fa-brands fa-microsoft"/>reference types.](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types) So, you can use a `class`, `record` or `interface` to define a message.
 
 You'll often create two types of messages: commands and events.
 
@@ -207,12 +204,12 @@ Using `public set` or `public init` properties is recommended to avoid serializa
 
 You can use the `IPublishEndpoint` service to publish messages with MassTransit. The framework routes the message to the appropriate queue or topic based on the message type.
 
-```cs
+```cs{2,4}
 app.MapPost("article", async (
     CreateArticleRequest request,
-<span class="code-line highlight-line">    IPublishEndpoint publishEndpoint) =>
+    IPublishEndpoint publishEndpoint) =>
 {
-<span class="code-line highlight-line">    await publishEndpoint.Publish(new ArticleCreated
+    await publishEndpoint.Publish(new ArticleCreated
     {
         Id = Guid.NewGuid(),
         Title = request.Title,
@@ -251,12 +248,12 @@ public class ArticleCreatedConsumer(ApplicationDbContext dbContext)
 
 MassTransit doesn't automatically know that the `ArticleCreatedConsumer` exists. You have to configure the consumer when calling `AddMassTransit`. The `AddConsumer` method registers the consumer type with the bus.
 
-```cs
+```cs{5}
 builder.Services.AddMassTransit(busConfigurator =>
 {
     busConfigurator.SetKebabCaseEndpointNameFormatter();
 
-<span class="code-line highlight-line">    busConfigurator.AddConsumer<ArticleCreatedConsumer>();
+    busConfigurator.AddConsumer<ArticleCreatedConsumer>();
 
     // ...
 });
@@ -272,18 +269,43 @@ If you aren't already using it, I highly recommend adding MassTransit to your to
 
 Here are some more practical **MassTransit learning resources**:
 
-- <a href="https://youtu.be/NjsoykEOkrk">Request-Response pattern with MassTransit</a>
-- <a href="https://youtu.be/CTKWFMZVIWA">RabbitMQ and MassTransit tutorial</a>
-- <a href="https://youtu.be/MzC0PgYocmk">Microservices with RabbitMQ</a>
-- <a href="implementing-the-saga-pattern-with-rebus-and-rabbitmq">Saga pattern with RabbitMQ</a>
-- <a href="orchestration-vs-choreography">Orchestration vs Choreography</a>
-- <a href="messaging-made-easy-with-azure-service-bus">Messaging with Azure Service Bus</a>
+<VidStack src="youtube/NjsoykEOkrk" />
+<VidStack src="youtube/CTKWFMZVIWA" />
+<VidStack src="youtube/MzC0PgYocmk" />
+
+```component VPCard
+{
+  "title": "Implementing The Saga Pattern With Rebus And RabbitMQ",
+  "desc": "Designing long-lived processes in a distributed environment is an interesting engineering challenge. And a well known pattern for solving this problem is a Saga. A Saga is a sequence of local transactions, where each local transaction updates the Saga state and publishes a message triggering the next step in the Saga. Sagas come in two forms: Orchestrated Choreographed With an orchestrated Saga, there's a central component responsible for orchestrating the individual steps. In a choreographed Saga, processes work independently but coordinate with each other using events.",
+  "link": "/explore/articles/milanjovanovic.tech/implementing-the-saga-pattern-with-rebus-and-rabbitmq.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Orchestration vs Choreography",
+  "desc": "More than 63%+ of organizations said in a Dzone survey that they are adopting Microservices for some or all of their applications. As more businesses adopt the use of Microservice architectures, we as developers have to become more skilled with Microservices communication. Working with distributed systems is both fun and challenging at the same time. One of those challenges is designing effective communication between services. More centralization or less centralization? More coupling or less coupling? More control or less control? These are only a few questions you need to answer.",
+  "link": "/explore/articles/milanjovanovic.tech/orchestration-vs-choreography.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Messaging Made Easy With Azure Service Bus",
+  "desc": "If you're working in a distributed system, you need to be able to communicate between multiple services. There are a few ways that you can implement this. Depending on your chosen approach, you can either introduce tight coupling between your services or stay loosely coupled. Loose coupling is an important quality in a distributed system. It will allow you to evolve your services independently. So how do you implement loosely coupled communication between services?",
+  "link": "/explore/articles/milanjovanovic.tech/messaging-made-easy-with-azure-service-bus.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
 
 That's all for today.
 
 See you next week.
-
--->
 
 ---
 

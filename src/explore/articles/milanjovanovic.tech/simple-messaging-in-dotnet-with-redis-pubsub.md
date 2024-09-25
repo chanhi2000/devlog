@@ -76,10 +76,7 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_100.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_100.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-Redis is a popular choice for <a href="caching-in-aspnetcore-improving-application-performance">**caching data**</a>, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications. However, as you'll soon see, channels also have some drawbacks.
+Redis is a popular choice for [**caching data**](/explore/articles/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md), but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications. However, as you'll soon see, channels also have some drawbacks.
 
 In this week's newsletter, we'll explore:
 
@@ -94,12 +91,11 @@ Let's dive in.
 
 ## Redis Channels
 
-Redis channels are named communication channels that implement the <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">Publish/Subscribe messaging paradigm</a>. Each channel is identified by a unique name (e.g., `notifications`, `updates`). Channels facilitate message delivery from publishers to subscribers.
+Redis channels are named communication channels that implement the [<FontIcon icon="fa-brands fa-wikipedia-w"/>Publish/Subscribe messaging paradigm](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). Each channel is identified by a unique name (e.g., `notifications`, `updates`). Channels facilitate message delivery from publishers to subscribers.
 
-Publishers use the `PUBLISH` command to send messages to a specific channel.
-Subscribers use the `SUBSCRIBE` command to register interest in receiving messages from a channel.
+Publishers use the `PUBLISH` command to send messages to a specific channel. Subscribers use the `SUBSCRIBE` command to register interest in receiving messages from a channel.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272094%27%20height=%271294%27/%3e"><img alt="Redis channel with publisher and three subscribers." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Redis channel with publisher and three subscribers." srcSet="/blogs/mnw_100/redis_channel.png?imwidth=3840 1x" src="/blogs/mnw_100/redis_channel.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Redis channel with publisher and three subscribers](https://milanjovanovic.tech/blogs/mnw_100/redis_channel.png?imwidth=3840)
 
 Redis channels follow a topic-based publish-subscribe model. Multiple publishers can send messages to a channel, and multiple subscribers can receive messages from that channel.
 
@@ -137,7 +133,7 @@ Let's start by installing it:
 Install-Package StackExchange.Redis
 ```
 
-You can run <a href="https://redis.io/">Redis</a> locally in a Docker container. The default port is `6379`.
+You can run [<FontIcon icon="iconfont icon-redis"/>Redis](https://redis.io/) locally in a Docker container. The default port is `6379`.
 
 ```sh
 docker run -it -p 6379:6379 redis
@@ -147,7 +143,7 @@ Here's a simple background service that'll act as our message `Producer`.
 
 We're creating a `ConnectionMultiplexer` by connecting to our Redis instance. This allows us to obtain an `ISubscriber` that we can use for pub/sub messaging. The `ISubscriber` will enable us to publish a message to a channel by specifying the channel name.
 
-```cs
+```cs{11,19}
 public class Producer(ILogger<Producer> logger) : BackgroundService
 {
     private static readonly string ConnectionString = "localhost:6379";
@@ -158,7 +154,7 @@ public class Producer(ILogger<Producer> logger) : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
-<span class="code-line highlight-line">        var subscriber = Connection.GetSubscriber();
+        var subscriber = Connection.GetSubscriber();
 
         while (!stoppingToken.IsCancellationRequested)
         {
@@ -166,7 +162,7 @@ public class Producer(ILogger<Producer> logger) : BackgroundService
 
             var json = JsonSerializer.Serialize(message);
 
-<span class="code-line highlight-line">            await subscriber.PublishAsync(Channel, json);
+            await subscriber.PublishAsync(Channel, json);
 
             logger.LogInformation(
                 "Sending message: {Channel} - {@Message}",
@@ -210,7 +206,7 @@ public class Consumer(ILogger<Consumer> logger) : BackgroundService
 
 Finally, here's what we get when we run both the `Producer` and `Consumer` services:
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271920%27%20height=%27500%27/%3e"><img alt="Redis channels publish/subscribe demo." src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img alt="Redis channels publish/subscribe demo." srcSet="/blogs/mnw_100/redis_pub_sub.gif?imwidth=1920 1x, /blogs/mnw_100/redis_pub_sub.gif?imwidth=3840 2x" src="/blogs/mnw_100/redis_pub_sub.gif?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![Redis channels publish/subscribe demo](/blogs/mnw_100/redis_pub_sub.gif?imwidth=3840)
 
 ---
 
@@ -255,8 +251,12 @@ Redis channels have at-most-once delivery semantics, so they're best suited for 
 
 I used it to solve the challenge of synchronizing caches across multiple servers. This allowed our system to serve up-to-date data without sacrificing performance.
 
-**P.S.** When you're ready to dive deeper into creating message-driven systems, check out <a href="/modular-monolith-architecture">**Modular Monolith Architecture**</a>.
+::: note P.S.
+
+When you're ready to dive deeper into creating message-driven systems, check out [**Modular Monolith Architecture**](/explore/articles/milanjovanovic.tech/modular-monolith-architecture/README.md).
 I have an entire module dedicated to building reliable distributed messaging and event-driven architecture.
+
+:::
 
 Good luck out there, and see you next week.
 

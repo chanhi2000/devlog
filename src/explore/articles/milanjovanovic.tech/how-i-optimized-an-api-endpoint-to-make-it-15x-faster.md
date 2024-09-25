@@ -78,7 +78,7 @@ The first thing I do when I'm solving a performance problem
 is determine where the slowest piece of the code is.
 Fixing this part of the code will usually give the most significant improvement.
 
-Solving one bottleneck can also reveal where the next bottleneck is.<br>
+Solving one bottleneck can also reveal where the next bottleneck is.<br/>
 This is a continual process.
 
 In my situation, there were a few bottlenecks:

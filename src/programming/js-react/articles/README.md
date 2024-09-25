@@ -593,6 +593,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create a Reusable Modal Component in React",
+  "desc": "When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...",
+  "link": "/explore/articles/freecodecamp.org/create-react-reusable-modal-component.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

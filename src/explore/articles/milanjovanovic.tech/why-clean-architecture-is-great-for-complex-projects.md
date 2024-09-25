@@ -194,11 +194,11 @@ I should call this approach [**Pragmatic Clean Architecture**](/explore/articles
 
 You don't have to reinvent the wheel every time at the start of the project.
 
-But, the layered structure and architectural constraints can increase the **complexity** of smaller projects.<br>So make sure your project is complex enough to apply Clean Architecture.
+But, the layered structure and architectural constraints can increase the **complexity** of smaller projects.<br/>So make sure your project is complex enough to apply Clean Architecture.
 
 Another **caveat** of Clean Architecture is the danger of **over-engineering**.
 
-Don't follow the principles religiously without considering the specific project requirements.<br>The overhead of maintaining so many layers and abstractions may not be justified.
+Don't follow the principles religiously without considering the specific project requirements.<br/>The overhead of maintaining so many layers and abstractions may not be justified.
 
 Be **pragmatic** and try to make the best decision possible.
 

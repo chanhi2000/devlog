@@ -97,6 +97,7 @@ head:
   <!-- END: ravenkim97 -->
 - [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
   - [\[Data Structure\] Trie](https://dev-ws.tistory.com/m/127)
+  - [\[Operating System\] Process](https://dev-ws.tistory.com/m/128)
   <!-- END: dev-ws -->
 <!-- END: tistory.com  -->
 

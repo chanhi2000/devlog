@@ -81,6 +81,10 @@ head:
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - SonarQube](https://hj0216.tistory.com/m/944)
   <!-- END: hj0216 -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Gradle `compileOnly`와 AnnotationProcessor (feat. IntelliJ Lombok)](https://bbogle2.tistory.com/m/entry/Gradle-compileOnly%EC%99%80-AnnotationProcessor-feat-IntelliJ-Lombok)
+  - [Java Project Logging 설정](https://bbogle2.tistory.com/m/entry/Java-Project-Logging-%EC%84%A4%EC%A0%95)
+  <!-- END: bbogle2 -->
 <!-- END: tistory.com -->
 
 ---

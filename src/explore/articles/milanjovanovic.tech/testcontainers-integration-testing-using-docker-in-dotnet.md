@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_053.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_053.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Modern software applications rarely work in isolation. On the contrary, a typical application will talk to several external systems like databases, messaging systems, cache providers, and many 3rd party services. And it's up to you to ensure everything functions correctly.
 
 Hopefully, I don't have to convince you about the value of writing tests.
@@ -72,7 +69,7 @@ Here's what we will use to write **integration tests**:
 
 - **Testcontainers**
 - Docker
-- <a href="creating-data-driven-tests-with-xunit">**xUnit**</a>
+- [**xUnit**](/explore/articles/milanjovanovic.tech/creating-data-driven-tests-with-xunit.md)
 
 Let's dive in!
 
@@ -80,7 +77,7 @@ Let's dive in!
 
 ## What is Testcontainers?
 
-<a href="https://dotnet.testcontainers.org/">Testcontainers</a> is a library for writing tests with throwaway Docker containers.
+[<FontIcon icon="iconfont icon-csharp"/>Testcontainers](https://dotnet.testcontainers.org/) is a library for writing tests with throwaway Docker containers.
 
 Why should you use it?
 
@@ -219,9 +216,9 @@ Here's a `ProductTests` class with an integration test inside.
 
 I use the *Arrange-Act-Assert* pattern to structure tests:
 
-- *Arrange* - create the `CreateProduct.Command` instance
-- *Act* - send the command using `ISender` and store the result
-- *Assert* - use the result from the *Act* step to verify the database state
+- *Arrange*: create the `CreateProduct.Command` instance
+- *Act*: send the command using `ISender` and store the result
+- *Assert*: use the result from the *Act* step to verify the database state
 
 The value of writing integration tests like this is that you can use the complete **MediatR** request pipeline. If you have any `IPipelineBehavior` wrapping the request, it will also be executed.
 
@@ -269,7 +266,7 @@ You can also run integration tests with **Testcontainers** inside **CI/CD pipeli
 
 **GitHub Actions** does support Docker. If you are hosting your project there, integration tests will work out of the box.
 
-You can learn more about <a href="how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet">**building a CI/CD pipeline with GitHub Actions here.**</a>
+You can learn more about [**building a CI/CD pipeline with GitHub Actions here.**](/explore/articles/milanjovanovic.tech/how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet.md)
 
 And if you want a plug-in solution, here's a GitHub Actions workflow you can use:
 
@@ -314,15 +311,22 @@ If you have a CI/CD pipeline that supports Docker, Testcontainers will work out 
 
 Only a few integration tests will drastically improve your confidence in the system.
 
-You can grab the <a href="https://github.com/m-jovanovic/testcontainers-sample">**source code for this newsletter**</a> on my GitHub.<br>It's completely free, so what are you waiting for?
+You can grab the [**source code for this newsletter** (<FontIcon icon="iconfont icon-github"/>`m-jovanovic/testcontainers-sample`)](https://github.com/m-jovanovic/testcontainers-sample) on my GitHub.<br/>It's completely free, so what are you waiting for?
 
-And if you prefer video, here's a quick tutorial on <a href="https://youtu.be/tj5ZCtvgXKY">**integration testing with Testcontainers.**</a>
+<SiteInfo
+  name="m-jovanovic/testcontainers-sample"
+  desc="Sample project showing how to write integration tests with Testcontainers."
+  url="https://github.com/m-jovanovic/testcontainers-sample"
+  logo="https://avatars.githubusercontent.com/u/34191235?s=96&v=4"
+  preview="https://opengraph.githubassets.com/f1f6b9942d2eeb4fdb07fe27c2cd8a3f92c0eacf5e60fbad2c11cc0168823a85/m-jovanovic/testcontainers-sample"/>
+
+And if you prefer video, here's a quick tutorial on [<FontIcon icon="fa-brands fa-youtube"/>**integration testing with Testcontainers.**](https://youtu.be/tj5ZCtvgXKY)
+
+<VidStack src="youtube/tj5ZCtvgXKY" />
 
 Hope this was valuable.
 
 Stay awesome!
-
--->
 
 ---
 

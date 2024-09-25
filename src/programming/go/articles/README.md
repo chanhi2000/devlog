@@ -254,6 +254,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
+  "desc": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
+  "link": "/explore/articles/freecodecamp.org/how-to-work-with-sql-databases-in-go.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

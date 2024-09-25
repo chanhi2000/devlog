@@ -80,6 +80,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Learn CUDA Programming",
+  "desc": "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...",
+  "link": "/explore/articles/freecodecamp.org/learn-cuda-programming.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

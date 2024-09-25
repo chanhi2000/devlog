@@ -192,6 +192,7 @@ export const template: SidebarInfoTemplate = {
       "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
       "boost-web-performance-with-prefetching", // 2024-09-23
+      "create-react-reusable-modal-component," // 2024-09-24
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -325,6 +326,7 @@ export const template: SidebarInfoTemplate = {
       "how-the-comma-ok-idiom-and-package-system-work-in-go", // 2024-09-09
       "golang-statically-and-dynamically-linked-go-binaries", // 2024-09-10
       "how-to-write-benchmark-tests-for-your-golang-functions", // 2024-09-23
+      "how-to-work-with-sql-databases-in-go", // 2024-09-24
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -344,7 +346,8 @@ export const template: SidebarInfoTemplate = {
       "complete-c-programming-course-from-dr-chuck", // 2024-05-30
     ]],[
     "cpp", [
-      "run-sql-like-queries-on-cplusplus-files", // 2024-05-0
+      "run-sql-like-queries-on-cplusplus-files", // 2024-05-02
+      "learn-cuda-programming", // 2024-09-24
     ]],[
     "php", [
       "php-jwt-authentication-implementation", // 2024-04-24
@@ -470,7 +473,10 @@ export const template: SidebarInfoTemplate = {
       "learn-the-mern-stack-by-building-a-store", // 2024-09-04
       "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
     ]],[
-    "spark", [
+    "sqlite", [
+      "how-to-work-with-sql-databases-in-go", // 2024-09-24
+    ]],[
+      "spark", [
       "pyspark-for-beginners", // 2024-06-26
     ]],[
     "vscode", [
@@ -843,6 +849,9 @@ export const template: SidebarInfoTemplate = {
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
       "how-to-write-benchmark-tests-for-your-golang-functions", // 2024-09-23
       "boost-web-performance-with-prefetching", // 2024-09-23
+      "create-react-reusable-modal-component", // 2024-09-24
+      "learn-cuda-programming", // 2024-09-24
+      "how-to-work-with-sql-databases-in-go", // 2024-09-24
     ]],
   ]),
 }

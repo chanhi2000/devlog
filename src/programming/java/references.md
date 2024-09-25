@@ -264,6 +264,13 @@ tag:
 - [`zzang9ha` / 🐔](https://zzang9ha.tistory.com/m/)
   - [Modern Java: An In-Depth Guide from Java 8 to Java 21](https://zzang9ha.tistory.com/m/462)
   <!-- END: zzang9ha -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Java Annotation](https://bbogle2.tistory.com/m/entry/Java-Annotation)
+  - [Java Reflection](https://bbogle2.tistory.com/m/entry/Java-Reflection)
+  <!-- END: bbogle2 -->
+- [`jaime-note` / Jaime's 기술 블로그](https://jaime-note.tistory.com/m/)
+  - [삼쩜삼에서 부동소수점을 다루는 방법](https://jaime-note.tistory.com/m/505)
+  <!-- END: jaime-note -->
 <!-- END: tistory.com -->
 
 ### EastGlow
