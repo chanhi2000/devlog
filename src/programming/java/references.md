@@ -272,7 +272,14 @@ tag:
 - [`jaime-note` / Jaime's 기술 블로그](https://jaime-note.tistory.com/m/)
   - [삼쩜삼에서 부동소수점을 다루는 방법](https://jaime-note.tistory.com/m/505)
   <!-- END: jaime-note -->
-<!-- END: tistory.com -->
+- [`americanopeople` / 복세편살](https://americanopeople.tistory.com/m/)
+  - [Optimizing Java (자바최적화): JVM, 운영체제, 하드웨어](https://americanopeople.tistory.com/m/463)
+  - [VirtualThread 아는 체하기](https://americanopeople.tistory.com/m/464)
+  <!-- END: americanopeople -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
+  <!-- END: jeongchul -->
+<!-- END: tistory.com java -->
 
 ### EastGlow
 

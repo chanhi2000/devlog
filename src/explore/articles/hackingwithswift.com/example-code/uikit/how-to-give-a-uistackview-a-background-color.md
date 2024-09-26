@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-9.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,18 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 9.0
 
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>You can't do this&nbsp;– <code>UIStackView</code> is a non-drawing view, meaning that <code>drawRect()</code> is never called and its background color is ignored. If you desperately want a background color, consider placing the stack view inside another <code>UIView</code> and giving that view a background color.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage()</a></li><li><a href="/example-code/uikit/how-to-give-uitableviewcells-a-selected-color-other-than-gray">How to give UITableViewCells a selected color other than gray</a></li><li><a href="/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame</a></li><li><a href="/example-code/uicolor/how-to-use-an-image-for-your-background-color-with-uicolorpatternimage">How to use an image for your background color with UIColor(patternImage:)</a></li><li><a href="/quick-start/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more">How to change the background color of List, TextEditor, and more</a></li></ul>
 -->
 
 :::

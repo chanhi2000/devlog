@@ -45,6 +45,15 @@ head:
 
 ---
 
+## üntil
+
+- [`dawn-py`: dawn.py](https://until.blog/@dawn-py)
+  - [\[GCP\] Logging Sink 생성 시 오류 원인 파악](https://until.blog/@dawn-py/-gcp--logging-sink-%EC%83%9D%EC%84%B1-%EC%8B%9C-%EC%98%A4%EB%A5%98-%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85)
+  <!-- END: dawn-py -->
+<!-- END: until.blog -->
+
+---
+
 ## tistory
 
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)

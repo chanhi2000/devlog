@@ -320,6 +320,10 @@ tag:
   - [TCP/IP Stack 개발 #1 Ethernet & ARP](https://1000sj.tistory.com/m/349)
   - [\[pwnable\] pwnable.kr fd](https://1000sj.tistory.com/m/370)
   <!-- END: 1000sj -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
+  - [Memory 단편화 Fragmentation 과 병합 Coalescing](https://jeongchul.tistory.com/m/731)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---

@@ -268,6 +268,7 @@ head:
 - [LxMFC를 사용해서 컴퓨터에 연결된 CAM 장치의 영상 출력하기](https://m.blog.naver.com/tipsware/223591118302)
 - [CAM 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223591697391)
 - [LxMFC에 슬라이더 컨트롤이 추가되었습니다.](https://m.blog.naver.com/tipsware/223593892057)
+- [CAM으로 촬영되고 있는 원 크기 체크하기 - Step 1](https://m.blog.naver.com/tipsware/223596075092)
 
 <!-- END: tipsware.blog.naver.com -->
 
@@ -300,9 +301,15 @@ head:
 
 ---
 
-## 운동하는 개발자
+## tistory
 
-- [Beakjoon\] 줄 세우(백준 2252코테) - 그래프 (C++)](https://singo112ok.tistory.com/270)
+- [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
+  - [Beakjoon\] 줄 세우(백준 2252코테) - 그래프 (C++)](https://singo112ok.tistory.com/m/270)
+  <!-- END: singo112ok -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
+  <!-- END: jeongchul -->
+<!-- END: tistory.com -->
 
 ---
 

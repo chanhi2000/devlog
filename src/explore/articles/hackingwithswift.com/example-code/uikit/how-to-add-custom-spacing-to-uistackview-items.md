@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-11.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,25 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 11.0
 
 <!-- TODO: 작성 -->
 
 <!--
+<p>Each <code>UIStackView</code> has an overall <code>spacing</code> property that affects spacing between all of its arranged subviews, but in addition you can add custom spacing after specific views – for example, “put 20 points of space under this button.”</p>
+<p>To make that happen, use the <code>setCustomSpacing()</code> method of your stack view, providing it the number of points of spacing you want and the view that should precede the spacing.</p>
+<p>For example, this code creates a stack view and a button, adds the button to the stack view, then requests 20 points of spacing after it:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> stackView <span class="token operator">=</span> <span class="token class-name">UIStackView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">let</span> btn <span class="token operator">=</span> <span class="token class-name">UIButton</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
 
+stackView<span class="token punctuation">.</span><span class="token function">addArrangedSubview</span><span class="token punctuation">(</span>btn<span class="token punctuation">)</span>
+stackView<span class="token punctuation">.</span><span class="token function">setCustomSpacing</span><span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">,</span> after<span class="token punctuation">:</span> btn<span class="token punctuation">)</span></code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/swiftui/how-to-add-spacing-between-letters-in-text">How to add spacing between letters in text</a></li><li><a href="/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more">How to style text views with fonts, colors, line spacing, and more</a></li><li><a href="/quick-start/swiftui/how-to-customize-stack-layouts-with-alignment-and-spacing">How to customize stack layouts with alignment and spacing</a></li><li><a href="/quick-start/swiftui/how-to-control-spacing-around-individual-views-using-padding">How to control spacing around individual views using padding</a></li><li><a href="/example-code/uikit/what-are-the-different-uistackview-distribution-types">What are the different UIStackView distribution types?</a></li></ul>
 -->
 
 :::

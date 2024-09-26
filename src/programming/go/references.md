@@ -361,6 +361,9 @@ tag:
 - [`134130` / 134130](https://134130.tistory.com/m/)
   - [오픈소스 기여하기 : tus/tusd #1148](https://134130.tistory.com/m/21)
   <!-- END: 134130 -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---

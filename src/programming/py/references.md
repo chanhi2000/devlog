@@ -344,8 +344,16 @@ head:
 
 ## üntil
 
-- [`@accpython` / 파이썬과 Fraudit을 활용한 회계데이터분석: 새로운 시대의 회계 감사(1)](https://until.blog/@accpython/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-fraudit%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%8C%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D--%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9A%8C%EA%B3%84-%EA%B0%90%EC%82%AC)
-
+- [`accpython`: ifrsstudy](https://until.blog/@accpython/)
+  - [`@accpython` / 파이썬과 Fraudit을 활용한 회계데이터분석: 새로운 시대의 회계 감사(1)](https://until.blog/@accpython/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-fraudit%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%8C%EA%B3%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D--%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%9A%8C%EA%B3%84-%EA%B0%90%EC%82%AC)
+  <!-- END: accpython -->
+- [`jisoo`: Jisoo](https://until.blog/@jisoo)
+  - [\[프로그래머스 - lv2\] 우박수열 정적분(Python)](https://until.blog/@jisoo/-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4---lv2--%EC%9A%B0%EB%B0%95%EC%88%98%EC%97%B4-%EC%A0%95%EC%A0%81%EB%B6%84-python-)
+  - [\[프로그래머스 - lv2\] \[PCCP 기출문제\] 2번 / 퍼즐 게임 챌린지 (Python)](https://until.blog/@jisoo/-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4---lv2---pccp-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C--2%EB%B2%88---%ED%8D%BC%EC%A6%90-%EA%B2%8C%EC%9E%84-%EC%B1%8C%EB%A6%B0%EC%A7%80--python-)
+  <!-- END: jisoo  -->
+- [`xeros`: xeros](https://until.blog/@xeros)
+  - [macOS에서 pip install시 `error: externally-managed-environment` 에러가 발생하는 문제](https://until.blog/@xeros/macos%EC%97%90%EC%84%9C-pip-install%EC%8B%9C-error--externally-managed-environment-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
+  <!-- END: xeros -->
 <!-- END: until.blog -->
 
 ---
@@ -1041,6 +1049,7 @@ head:
 - [\[백준 5676\] 음주 코딩](https://davincicoding.tistory.com/m/164)
 - [\[백준 20437\] 문자열 게임 2](https://davincicoding.tistory.com/m/165)
 - [\[백준 31962\] 등교](https://davincicoding.tistory.com/m/166)
+- [\[백준 31963\] 두 배](https://davincicoding.tistory.com/m/167)
 
 <!-- END: davincicoding.tistory.com -->
 

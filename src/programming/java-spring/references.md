@@ -186,6 +186,14 @@ head:
   - [Spring 없는 Java조차 서버리스에서 못 써먹는걸까?](https://until.blog/@octoping/spring-%EC%97%86%EB%8A%94-java%EB%8F%84-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%97%90%EC%84%9C-%EB%AA%BB-%EC%8D%A8%EB%A8%B9%EB%8A%94-%EC%A0%95%EB%8F%84%EC%9D%B8%EA%B1%B8%EA%B9%8C-)
   - [스프링 표현식 언어 (SpEL) 알아보기](https://until.blog/@octoping/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%96%B8%EC%96%B4--spel--%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
   - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
+  <!-- END: octoping -->
+- [`itbuddy`: skvudrms54](https://until.blog/@itbuddy)
+  - [TestContainers 적용기](https://until.blog/@itbuddy/testcontainers-%EC%A0%81%EC%9A%A9%EA%B8%B0)
+  <!-- END: itbuddy -->
+- [`hodumaru`: hodumaru](https://until.blog/@hodumaru/)
+  - [Swagger 응답 커스텀을 통한 코드 간결화 + 프론트엔드 요구사항 해결](https://until.blog/@hodumaru/swagger-%EC%9D%91%EB%8B%B5-%EC%BB%A4%EC%8A%A4%ED%85%80%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%BD%94%EB%93%9C-%EA%B0%84%EA%B2%B0%ED%99%94---%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%95%B4%EA%B2%B0)
+  <!-- END: hodumaru -->
+<!-- END: until.blog -->
 
 ### Heee's Development Blog
 
@@ -246,6 +254,7 @@ head:
   - [\[Spring Boot\] JPA 영속성 전이, 고아 객체](https://findsilverlining.tistory.com/m/129)
   - [\[Spring Boot\] JPA 값 타입](https://findsilverlining.tistory.com/m/130)
   - [\[Spring Boot\] Jacoco - 코드 커버리지](https://findsilverlining.tistory.com/m/132)
+  - [\[Spring Boot\] 예외 처리 방법](https://findsilverlining.tistory.com/m/134)
 <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -355,6 +364,7 @@ head:
   - [07.02. 책 상세 화면 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/0702-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [07.03. 책 상세 화면 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0703-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
   - [08. 책 수정 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/08-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [09.01. 책 수정 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0901-%EC%B1%85-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -463,6 +473,8 @@ head:
 - [\[내일배움캠프 57일차 TIL\] security 유효성 검사에서 403 error](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-57%EC%9D%BC%EC%B0%A8-TIL-security-%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC%EC%97%90%EC%84%9C-403-error)
 - [\[내일배움캠프 58일차 TIL\] QueryDSL](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-58%EC%9D%BC%EC%B0%A8-TIL-QueryDSL)
 - [\[TIL\] 나는 왜 Java Spring Boot를 사용했을까?](https://moonnight0.tistory.com/m/entry/TIL-%EB%82%98%EB%8A%94-%EC%99%9C-Java-Spring-Boot%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%EA%B9%8C)
+- [[내일배움캠프 24일차 TIL] ResponseEntity 및 ExceptionHandler](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-ResponseEntity-%EB%B0%8F-ExceptionHandler)
+- [\[JPA\] QueryDSL 조회 속도 개선 비교 (전체 성능 51.39% 향상)](https://moonnight0.tistory.com/m/entry/JPA-QueryDSL-%EC%A1%B0%ED%9A%8C-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0-%EB%B9%84%EA%B5%90-%EC%A0%84%EC%B2%B4-%EC%84%B1%EB%8A%A5-5139-%ED%96%A5%EC%83%81)
 
 ### Hide
 
@@ -489,7 +501,6 @@ head:
 
 ### 뽀글뽀글 개발 일지
 
-- [[내일배움캠프 24일차 TIL] ResponseEntity 및 ExceptionHandler](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-24%EC%9D%BC%EC%B0%A8-TIL-ResponseEntity-%EB%B0%8F-ExceptionHandler)
 - [Spring 파일 이미지 조회하기](https://bbogle2.tistory.com/m/entry/Spring-%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
 - [Spring DTO + 파일 전송](https://bbogle2.tistory.com/m/entry/Spring-DTO-%ED%8C%8C%EC%9D%BC-%EC%A0%84%EC%86%A1)
 - [Spring Security 중복 로그인 방지](https://bbogle2.tistory.com/m/entry/Spring-Security-%EC%A4%91%EB%B3%B5-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%A9%EC%A7%80)

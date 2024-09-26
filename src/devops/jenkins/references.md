@@ -83,6 +83,7 @@ tag:
 
 - [\[내일배움캠프 68일차 TIL\] 최종 프로젝트 - 젠킨스](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-68%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%A0%ED%82%A8%EC%8A%A4)
 - [\[내일배움캠프 69일차 TIL\] 최종 프로젝트 - 젠킨스 쉘 스크립트](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-69%EC%9D%BC%EC%B0%A8-TIL-%EC%B5%9C%EC%A2%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%A0%ED%82%A8%EC%8A%A4-%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+- [Jenkins DooD 권한 문제 해결하기 (feat. troubleshooting)](https://moonnight0.tistory.com/m/entry/Jenkins-DooD-%EA%B6%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-feat-troubleshooting)
 
 ---
 

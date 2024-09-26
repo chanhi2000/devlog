@@ -157,8 +157,10 @@ head:
   - [코딩테스트 준비 - 소수](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%86%8C%EC%88%98)
   - [코딩테스트 준비 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-pcrxl4hj)
   - [코딩테스트 준비 - Range Sum of BST](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%B9%B4%ED%8E%AB-cuoatrjp)
+  - [코딩테스트 준비 - 스택](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%8A%A4%ED%83%9D---solve-x)
+  - [코딩테스트 준비 - 게임맵 최단거리](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%8A%A4%ED%83%9D)
+  - [코딩테스트 준비 - 나이트의 이동](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-3d9xiqg0)
   <!-- END: sin0105 -->
-
 <!-- END: until.blog -->
 
 ---

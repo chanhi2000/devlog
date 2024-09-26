@@ -51,39 +51,29 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_008.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_008.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 In this week's newsletter, we'll see how we can work with **locking** in **.NET 6**.
 
-We won't talk about how the lock is actually implemented at the operating system level.
-Instead, I will focus on application-level **locking** mechanisms.
+We won't talk about how the lock is actually implemented at the operating system level. Instead, I will focus on application-level **locking** mechanisms.
 
-**Locking** allows us to control how many **threads** can access some piece of code.
-Why would you want to do this?
+**Locking** allows us to control how many **threads** can access some piece of code. Why would you want to do this?
 
-Usually because you want to protect access to **expensive resources**,
-and you need the **concurrency control** that locking enables.
+Usually because you want to protect access to **expensive resources**, and you need the **concurrency control** that locking enables.
 
-We will use a simple `BankAccount` class with a `Deposit` method
-to illustrate how to implement locking.
+We will use a simple `BankAccount` class with a `Deposit` method to illustrate how to implement locking.
 
 ---
 
-## the-c-lock-statement"><a href="#the-c-lock-statement">The C# Lock Statement
+## The C# Lock Statement
 
-The C# language supports locking with the <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/lock">`lock` statement</a>.
-You can use the `lock` statement to define a code block that only one thread can access.
+The C# language supports locking with the [<FontIcon icon="fa-brands fa-microsoft"/>`lock` statement](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/lock). You can use the `lock` statement to define a code block that only one thread can access.
 
-The `lock` statement acquires a mutual-exclusion lock (mutex) for a given object,
-executes the statement block, and releases the lock.
+The `lock` statement acquires a mutual-exclusion lock (mutex) for a given object, executes the statement block, and releases the lock.
 
 ```cs
 lock(_lock)
 {
    // Your code...
 }
-
 ```
 
 Here `_lock` is a reference type, usually an `object` instance.
@@ -104,23 +94,17 @@ public class BankAccount
       }
    }
 }
-
 ```
 
-The first thread to reach and execute the `lock` statement will be allowed to update
-the `_balance`. Any other threads will block until the lock is released.
+The first thread to reach and execute the `lock` statement will be allowed to update the `_balance`. Any other threads will block until the lock is released.
 
 ---
 
-## locking-with-semaphore"><a href="#locking-with-semaphore">Locking With Semaphore
+## Locking With Semaphore
 
-The <a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.semaphore?view=net-6.0">`Semaphore`</a>
-class is another option we can use to achieve the same effect.
+The [<FontIcon icon="fa-brands fa-microsoft"/>`Semaphore`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.semaphore?view=net-6.0) class is another option we can use to achieve the same effect.
 
-We'll use the `Semaphore` constructor to set the `initialCount` to 0,
-which means that the `Semaphore` is open at the start.
-And we will also set the `maximumCount` to 1,
-which means that only one thread is allowed to enter the `Semaphore`.
+We'll use the `Semaphore` constructor to set the `initialCount` to 0, which means that the `Semaphore` is open at the start. And we will also set the `maximumCount` to 1, which means that only one thread is allowed to enter the `Semaphore`.
 
 Let's see how we can implement the `BankAccount` class using the `Semaphore`:
 
@@ -142,30 +126,25 @@ public class BankAccount
       _semaphore.Release();
    }
 }
-
 ```
 
 To enter the `Semaphore`, we have to call the `WaitOne` method.
 
-If no thread was previously inside, our thread is allowed
-to enter the `Semaphore` and update the balance.
+If no thread was previously inside, our thread is allowed to enter the `Semaphore` and update the balance.
 
-After updating the balance, we call the `Release` method to
-release the `Semaphore` for other threads that might be waiting.
+After updating the balance, we call the `Release` method to release the `Semaphore` for other threads that might be waiting.
 
 ---
 
-## asynchronous-locking-with-semaphoreslim"><a href="#asynchronous-locking-with-semaphoreslim">Asynchronous Locking With SemaphoreSlim
+## Asynchronous Locking With SemaphoreSlim
 
 What if we wanted to call an asynchronous method in a locked context?
 
-We can't use the `lock` statement as it doesn't support asynchronous calls.
-Awaiting an asynchronous call inside a `lock` statement will cause a compilation error.
+We can't use the `lock` statement as it doesn't support asynchronous calls. Awaiting an asynchronous call inside a `lock` statement will cause a compilation error.
 
 The `Semaphore` class can solve this problem.
 
-But I want to show you another option that we have, <a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.semaphoreslim?view=net-6.0">`SemaphoreSlim`</a>.
-It's a lightweight alternative to the `Semaphore` class and has `async` methods.
+But I want to show you another option that we have, [<FontIcon icon="fa-brands fa-microsoft"/>`SemaphoreSlim`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.semaphoreslim?view=net-6.0). It's a lightweight alternative to the `Semaphore` class and has `async` methods.
 
 Let's see how we can implement the `BankAccount` class using `SemaphoreSlim`:
 
@@ -187,37 +166,28 @@ public class BankAccount
       _semaphore.Release();
    }
 }
-
 ```
 
 Notice that I updated the `Deposit` method to return a `Task`.
 
-This time, we're calling `WaitAsync` to block the current
-thread until it can enter the semaphore.
+This time, we're calling `WaitAsync` to block the current thread until it can enter the semaphore.
 
-After updating the balance, we call the `Release` method
-to release the `SemaphoreSlim` like in the previous example.
+After updating the balance, we call the `Release` method to release the `SemaphoreSlim` like in the previous example.
 
 ---
 
-## are-there-other-options-for-locking-in-net"><a href="#are-there-other-options-for-locking-in-net">Are There Other Options For Locking in .NET?
+## Are There Other Options For Locking in .NET?
 
 So far I mentioned three options to implement locking:
 
-- <a href="#the-c-lock-statement">`lock` statement</a>
-<li><a href="#locking-with-semaphore">`Semaphore`</a>
-<li><a href="#asynchronous-locking-with-semaphoreslim">`SemaphoreSlim`</a>
+- [`lock` statement](#the-c-lock-statement)
+- [`Semaphore`](#locking-with-semaphore)
+- [`SemaphoreSlim`](#asynchronous-locking-with-semaphoreslim)
 
 However, **.NET** has other classes for **concurrency control** that you can
-explore like
-<a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.monitor?view=net-6.0">`Monitor`</a>,
-<a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.mutex?view=net-6.0">`Mutex`</a>,
-<a href="https://learn.microsoft.com/en-us/dotnet/api/system.threading.readerwriterlock?view=net-6.0">`ReaderWriterLock`</a>
-and many more.
+explore like [<FontIcon icon="fa-brands fa-microsoft"/>`Monitor`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.monitor?view=net-6.0), [<FontIcon icon="fa-brands fa-microsoft"/>`Mutex`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.mutex?view=net-6.0), [<FontIcon icon="fa-brands fa-microsoft"/>`ReaderWriterLock`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.readerwriterlock?view=net-6.0) and many more.
 
 I hope you enjoyed this brief introduction to a very complex topic.
-
--->
 
 ---
 

@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-5.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,21 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 5.0
 
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>You can call <code>setBackgroundImage()</code> on any navigation bar, providing an image to use and the bar metrics you want it to affect, and you're done. Bar metrics left you specify what sizes of bars you want to change: should this by all bars, just phone-sized bars, or just phone-sized bars on landscape?</p>
+<p>Here's an example that changes the navigation bar background image to a file called "navbar-background.png" (you'll want to change that!) across all device sizes:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> img <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"navbar-background"</span></span><span class="token punctuation">)</span>
+navigationController<span class="token operator">?</span><span class="token punctuation">.</span>navigationBar<span class="token punctuation">.</span><span class="token function">setBackgroundImage</span><span class="token punctuation">(</span>img<span class="token punctuation">,</span> <span class="token keyword">for</span><span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">)</span></code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/uikit/how-to-give-a-uistackview-a-background-color">How to give a UIStackView a background color</a></li><li><a href="/example-code/uikit/how-to-style-the-font-in-a-uinavigationbars-title">How to style the font in a UINavigationBar's title</a></li><li><a href="/example-code/uikit/how-to-set-a-custom-title-view-in-a-uinavigationbar">How to set a custom title view in a UINavigationBar</a></li><li><a href="/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame</a></li><li><a href="/example-code/uikit/how-to-give-uitableviewcells-a-selected-color-other-than-gray">How to give UITableViewCells a selected color other than gray</a></li></ul>
 -->
 
 :::

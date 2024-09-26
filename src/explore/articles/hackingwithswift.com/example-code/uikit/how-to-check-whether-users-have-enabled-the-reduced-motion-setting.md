@@ -24,7 +24,7 @@ head:
       content: "How to check whether users have enabled the reduced motion setting"
     - property: og:url
       content: https://chanhi2000.github.io/explore/articles/hackingwithswift.com/example-code/uikit/how-to-check-whether-users-have-enabled-the-reduced-motion-setting.html
-date: 2019-03-28
+date: 2021-03-11
 isOriginal: false
 ---
 
@@ -59,13 +59,14 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>There’s a lot of animation in UIKit, and many users find it either distracting or hard to follow. As a result, iOS has a Reduce Motion accessibility setting that disables many animation and parallax effects, and simplifies most others –&nbsp;at least in their own apps.</p>
+<p>If you want to follow suit –&nbsp;and you should –&nbsp;all you need to do is read the property <code>UIAccessibility.isReduceMotionEnabled</code>. This returns a boolean telling you whether the setting is active or not, so if it’s true you should take steps to animate differently or perhaps not at all.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a></li><li><a href="/quick-start/swiftui/how-to-detect-the-reduce-motion-accessibility-setting">How to detect the Reduce Motion accessibility setting</a></li><li><a href="/example-code/system/how-to-detect-low-power-mode-is-enabled">How to detect low power mode is enabled</a></li><li><a href="/example-code/system/how-to-use-core-motion-to-read-accelerometer-data">How to use Core Motion to read accelerometer data</a></li><li><a href="/example-code/system/how-to-check-whether-your-other-apps-are-installed">How to check whether your other apps are installed</a></li></ul>
 -->
 
 :::

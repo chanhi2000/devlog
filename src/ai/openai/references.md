@@ -369,6 +369,7 @@ head:
 - [논문봇 v2 - 출력물 일관성 확보](https://jehyunlee.github.io/2024/08/19/General-59-paperbot2/)
 - [인공지능소사이어티 - 연구활용 실전 LLMs](https://jehyunlee.github.io/2024/08/29/General-60-researchLLMs/)
 - [플랏봇 v0.15 - 시각화 커스터마이징](https://jehyunlee.github.io/2024/09/08/General-61-plotbot2/)
+- [효율적 업무효율화](https://jehyunlee.github.io/2024/09/25/General-62_worksmart/)
 
 <!-- END: jehyunlee.github.io -->
 
@@ -535,6 +536,14 @@ head:
 ## Tales from Kagi
 
 - [Announcing The Assistant](https://blog.kagi.com/announcing-assistant)
+
+---
+
+## Passion is like genius; a miracle.
+
+- [화면 캡쳐후 chatgpt에 질문 자동 실행 루틴](http://mkseo.pe.kr/blog/?p=5062)
+
+<!-- END: mkseo.pe.kr -->
 
 ---
 

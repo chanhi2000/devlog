@@ -62,6 +62,10 @@ head:
 - [`@morethanmin` / mac dock에 vscode가 중복 생성되는 이슈](https://until.blog/@morethanmin/mac-dock%EC%97%90-vscode%EA%B0%80-%EC%A4%91%EB%B3%B5%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%EB%90%98%EB%8A%94-%EC%9D%B4%EC%8A%88)
 - [`@dody` / iterm2 설정 할 때 zsh-syntax-highlighting 경로잘 입력하기](https://until.blog/@dody/iterm2-%EC%84%A4%EC%A0%95-%ED%95%A0-%EB%95%8C-zsh-syntax-highlighting-%EA%B2%BD%EB%A1%9C%EC%9E%98-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0)
 - [`@morethanmin` / nvm 으로 node 버전 관리하기 (+ 자동화)](https://until.blog/@morethanmin/nvm-%EC%9C%BC%EB%A1%9C-node-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0----%EC%9E%90%EB%8F%99%ED%99%94-)
+- [`xeros`: xeros](https://until.blog/@xeros)
+  - [macOS에서 pip install시 `error: externally-managed-environment` 에러가 발생하는 문제](https://until.blog/@xeros/macos%EC%97%90%EC%84%9C-pip-install%EC%8B%9C-error--externally-managed-environment-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
+  <!-- END: xeros -->
+<!-- END: until.blog -->
 
 ---
 

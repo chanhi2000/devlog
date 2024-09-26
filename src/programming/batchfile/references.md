@@ -55,6 +55,7 @@ tag:
 ## 상구리의 기술 블로그
 
 - [MS Windows – `robocopy`](https://skyer9.pe.kr/wordpress/?p=9012)
+- [MS Windows – `SCHTASKS` 스케줄 관리 툴](https://skyer9.pe.kr/wordpress/?p=9434)
 
 ---
 

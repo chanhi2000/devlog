@@ -464,15 +464,12 @@ https://www.joinc.co.kr/w/Site
 }
 ```
 
-```component VPCard
-{
-  "title": "Take your first steps with Rust - Training | Microsoft Learn",
-  "desc": "Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust.",
-  "link": "https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps",
-  "logo": "/images/content/learn.microsoft.com/favicon.ico",
-  "background": "rgba(23,23,23,0.2)"
-}
-```
+<SiteInfo
+  name="Take your first steps with Rust - Training | Microsoft Learn"
+  desc="Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust."
+  url="https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps"
+  logo="/images/content/learn.microsoft.com/favicon.ico"
+  preview="https://learn.microsoft.com/en-us/media/open-graph-image.png"/>
 
 <SiteInfo
   name="The Front End Developer/Engineer Handbook 2024"

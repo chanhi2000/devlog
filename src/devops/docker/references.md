@@ -299,6 +299,9 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[KANS\] 1주차 - 컨테이너 격리 & 네트워크 및 보안](http://yongho1037.tistory.com/m/841)
   <!-- END: yongho1037 -->
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [Jenkins DooD 권한 문제 해결하기 (feat. troubleshooting)](https://moonnight0.tistory.com/m/entry/Jenkins-DooD-%EA%B6%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-feat-troubleshooting)
+  <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 
 ---

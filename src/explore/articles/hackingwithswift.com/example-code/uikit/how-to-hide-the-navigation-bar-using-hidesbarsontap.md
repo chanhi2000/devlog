@@ -59,13 +59,16 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>As of iOS 8.0 it's easy to make a navigation bar automatically hide when the user taps the screen, but only when it's part of a <code>UINavigationController</code>. When set to <code>true</code>, the <code>hidesBarsOnTap</code> property of a navigation controller automatically adds a tap gesture recognizer to your view to handle hiding (and showing) the navigation bar as needed.</p>
+<p>Code:</p>
+<pre class=" language-swift"><code class=" language-swift">navigationController<span class="token operator">?</span><span class="token punctuation">.</span>hidesBarsOnTap <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
+<p>Remember to set this back to <code>false</code> when you want to stop the behavior from happening.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a></li><li><a href="/example-code/uikit/how-to-hide-the-navigation-bar-using-hidesbarsonswipe">How to hide the navigation bar using hidesBarsOnSwipe</a></li><li><a href="/example-code/uikit/how-to-hide-your-navigation-bar-when-the-keyboard-shows-hidesbarswhenkeyboardappears">How to hide your navigation bar when the keyboard shows: hidesBarsWhenKeyboardAppears</a></li><li><a href="/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a></li><li><a href="/example-code/uikit/how-to-hide-the-tab-bar-when-a-view-controller-is-shown">How to hide the tab bar when a view controller is shown</a></li></ul>
 -->
 
 :::

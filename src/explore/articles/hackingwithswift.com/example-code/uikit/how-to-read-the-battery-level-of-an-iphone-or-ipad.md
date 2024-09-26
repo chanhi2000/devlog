@@ -13,7 +13,6 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
   - xcode
   - appstore
 head:
@@ -54,18 +53,21 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
-
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>iOS lets you track the battery level and status of the device you’re running on, which is helpful if you’re overlaying some sort of battery indicator over your user interface. You could even write a trivial app to detect power outages just by plugging in a spare phone then waiting for the charge state to change.</p>
+<p>To get started, first enable the <code>isBatteryMonitoringEnabled</code> property of the current device, like this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIDevice</span><span class="token punctuation">.</span>current<span class="token punctuation">.</span>isBatteryMonitoringEnabled <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
+<p>You can now read the current battery level as a value between 0.0 (flat) and 1.0 (fully charged) using this:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> level <span class="token operator">=</span> <span class="token class-name">UIDevice</span><span class="token punctuation">.</span>current<span class="token punctuation">.</span>batteryLevel</code></pre>
+<p>If you want to be notified every time the battery level changes you can register for the <code>UIDeviceBatteryLevelDidChange</code> notification (sent up to once a minute), and you can also register for <code>UIDeviceBatteryStateDidChange</code> notification to see when the charge state changes. Both of those require <code>isBatteryMonitoringEnabled</code> to be enabled.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/example-code/uikit/how-to-check-whether-an-iphone-or-ipad-is-upside-down-or-face-up">How to check whether an iPhone or iPad is upside down or face up</a></li><li><a href="/example-code/uikit/how-to-hide-the-home-indicator-on-iphone-x">How to hide the home indicator on iPhone X</a></li><li><a href="/example-code/location/how-to-make-an-iphone-transmit-an-ibeacon">How to make an iPhone transmit an iBeacon</a></li><li><a href="/quick-start/swiftui/how-to-read-the-size-and-position-of-a-scrollview">How to read the size and position of a scrollview</a></li><li><a href="/example-code/uikit/how-to-read-a-title-from-a-uipickerview-using-titleforrow">How to read a title from a UIPickerView using titleForRow</a></li></ul>
 -->
 
 :::

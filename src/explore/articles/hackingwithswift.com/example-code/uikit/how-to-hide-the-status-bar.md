@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-7.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,23 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 7.0
 
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>You can hide the status bar in any or all of your view controllers just by adding this code:</p>
+<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">var</span> prefersStatusBarHidden<span class="token punctuation">:</span> <span class="token class-name">Bool</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token boolean">true</span>
+<span class="token punctuation">}</span></code></pre>
+<p>Any view controller containing that code will hide the status bar by default.</p>
+<p>If you want to animate the status bar in or out, just call <code>setNeedsStatusBarAppearanceUpdate()</code> on your view controller – that will force <code>prefersStatusBarHidden</code> to be read again, at which point you can return a different value. If you want, your call to <code>setNeedsStatusBarAppearanceUpdate()</code> can actually be inside an animation block, which causes the status bar to hide or show in a smooth way.</p>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/swiftui/how-to-hide-and-show-the-status-bar">How to hide and show the status bar</a></li><li><a href="/example-code/uikit/how-to-use-light-text-color-in-the-status-bar">How to use light text color in the status bar</a></li><li><a href="/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a></li><li><a href="/example-code/uikit/how-to-hide-the-tab-bar-when-a-view-controller-is-shown">How to hide the tab bar when a view controller is shown</a></li><li><a href="/example-code/uikit/how-to-hide-the-navigation-bar-using-hidesbarsontap">How to hide the navigation bar using hidesBarsOnTap</a></li></ul>
 -->
 
 :::

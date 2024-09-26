@@ -279,5 +279,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/41789633?v=4",
     "banner": ""
+  }, {
+    "repo": "Hacker0x01/react-datepicker",
+    "desc": "A simple and reusable datepicker component for React",
+    "officialSite": "https://reactdatepicker.com/",
+    "topics": ["date-fns", "datepicker-component", "hacktoberfest", "javascript", "moment", "picker", "react"],
+    "avatar": "https://avatars.githubusercontent.com/u/3014877?v=4",
+    "banner": ""
   }
 ]

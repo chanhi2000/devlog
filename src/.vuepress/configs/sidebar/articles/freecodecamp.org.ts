@@ -314,6 +314,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-good-coding-habits", // 2024-08-20
       "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
+      "end-to-end-machine-learning-course-project", // 2024-09-26
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
@@ -516,7 +517,7 @@ export const template: SidebarInfoTemplate = {
     "sqlite", [
       "how-to-work-with-sql-databases-in-go", // 2024-09-24
     ]],[
-      "spark", [
+    "spark", [
       "pyspark-for-beginners", // 2024-06-26
     ]],[
     "vscode", [
@@ -526,7 +527,10 @@ export const template: SidebarInfoTemplate = {
       "excel-vs-google-sheets-tables", // 2024-07-02
       "excel-for-data-visualization", // 2024-08-27
     ]],[
-    "google-drive", [
+    "ms365", [
+      "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
+    ]],[
+      "google-drive", [
       "excel-vs-google-sheets-tables", // 2024-07-02
     ]],[
     "davinci", [
@@ -561,6 +565,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-future-proof-your-software-engineering-career-for-the-age-of-agi", // 2024-08-23
       "ai-chatbot-with-spring-react-docker", // 2024-09-23
       "tools-for-code-reuse", // 2024-09-25
+      "end-to-end-machine-learning-course-project", // 2024-09-26
     ]],[
     "llm", [
       "automated-unit-testing-with-testgen-llm-and-cover-agent", // 2024-06-02
@@ -898,6 +903,8 @@ export const template: SidebarInfoTemplate = {
       "flutter-streams-and-services", // 2024-09-25
       "learn-react-hooks-with-example-code", // 2024-09-25
       "tools-for-code-reuse", // 2024-09-25
+      "end-to-end-machine-learning-course-project", // 2024-09-26
+      "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
     ]],
   ]),
 }

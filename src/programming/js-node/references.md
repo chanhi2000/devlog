@@ -376,6 +376,10 @@ tag:
   - [서버가 뭔지 이해하기 쉽게 알려줌](https://until.blog/@yeonwoo/%EC%84%9C%EB%B2%84%EA%B0%80-%EB%AD%94%EC%A7%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EC%95%8C%EB%A0%A4%EC%A4%8C)
 - [`@love` / env 파일 우선순위](https://until.blog/@love/env-%ED%8C%8C%EC%9D%BC-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)
 - [`@ganymedian` / # 4-1 useAxiosFetch 보완](https://until.blog/@ganymedian/--4-1-useaxiosfetch-%EB%B3%B4%EC%99%84)
+- [`bakcy`: p1105_00](https://until.blog/@bakcy)
+  - [Discord.js #2](https://until.blog/@bakcy/discord-js--2)
+  <!-- END: bakcy  -->
+<!-- END: until.blog -->
 
 ---
 

@@ -3003,10 +3003,10 @@
     "banner": ""
   }, {
     "repo": "backstage/backstage",
-    "desc": "Backstage is an open platform for building developer portals",
-    "officialSite": "https://backstage.io",
-    "topics": ["backstage", "cncf", "developer-experience", "developer-portal", "dx", "hacktoberfest", "infrastructure", "microservices", "service-catalog"],
-    "avatar": "",
+    "desc": "Backstage is an open framework for building developer portals",
+    "officialSite": "https://backstage.io/",
+    "topics": ["backstage", "cncf", "developer-experience", "developer-portal", "dx", "infrastructure", "microservices", "self-service-portal"],
+    "avatar": "https://avatars.githubusercontent.com/u/72526453?v=4",
     "banner": ""
   }, {
     "repo": "devidw/tabgod",
@@ -4827,6 +4827,13 @@
     "officialSite": "https://bloomberg.github.io/ts-blank-space",
     "topics": ["javascript", "type-stripping", "typescript"],
     "avatar": "https://avatars.githubusercontent.com/u/1416818?v=4",
+    "banner": ""
+  }, {
+    "repo": "caorushizi/mediago",
+    "desc": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+    "officialSite": "https://downloader.caorushizi.cn/guides.html?form=github",
+    "topics": ["downloader", "electron", "esbuild", "hls", "m3u8", "m3u8-downloader", "m3u8download", "react", "video", "vite"],
+    "avatar": "https://avatars.githubusercontent.com/u/19359849?v=4",
     "banner": ""
   }
 ]

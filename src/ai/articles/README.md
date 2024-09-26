@@ -192,6 +192,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "End-to-End Machine Learning Course Project",
+  "desc": "If you want to improve your skills in machine learning and MLOps, we have a great course for you. We just posted a comprehensive End-to-End Machine Learning course on the freeCodeCamp.org YouTube channel. It is designed to equip you with both foundat...",
+  "link": "/explore/articles/freecodecamp.org/end-to-end-machine-learning-course-project.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

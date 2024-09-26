@@ -332,6 +332,8 @@ tag:
 - [`@ZVA` / 페북 리브라의 후예들, 수이 vs 앱토스 뭐가 다르지?](https://brunch.co.kr/@@ZVA/730)
 - [`@6xdo` / 독일에서 첫번째 이직하기 - 6년을 다니던 독일 회사를 그만 두게 되었습니다](https://brunch.co.kr/@@6xdo/131)
 - [`@2hV3` / 서류 통과율을 높이는 7가지 디자인 포트폴리오의 비밀  - 채용 담당자의 시간을 아끼는 전략](https://brunch.co.kr/@@2hV3/249)
+- [`@2weV` / 기억에 남는 인터뷰(면접)의 특징](https://brunch.co.kr/@@2weV/559)
+- [`@2weV` / 기대하게 만드는 Resume](https://brunch.co.kr/@@2weV/560)
 
 <!-- END: brunch.co.kr -->
 
@@ -760,6 +762,7 @@ tag:
 - [분위기](https://thestartupbible.com/2024/09/the-vibe.html)
 - [배고픔의 축복](https://thestartupbible.com/2024/09/the-blessings-of-a-lack-of-capital.html)
 - [제2의 한류](https://thestartupbible.com/2024/09/the-second-korean-wave.html)
+- [당신이 뭐 하는지 알고 싶다. 다른 사람 말고.](https://thestartupbible.com/2024/09/focus-on-yourself-not-on-others.html)
 
 <!-- END: thestartupbible.com -->
 

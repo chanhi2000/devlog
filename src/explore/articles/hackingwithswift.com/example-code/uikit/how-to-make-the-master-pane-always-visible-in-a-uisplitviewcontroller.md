@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-3.2
   - xcode
   - appstore
 head:
@@ -54,18 +54,20 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 3.2
 
 <!-- TODO: 작성 -->
 
 <!--
-
+<p>Split view controllers on iPad have an automatic display mode, which means in landscape both the left and right view controllers are visible, but in portrait the left view controller slides over and away as needed.</p>
+<p>If this isn't preferable – if, for example, you want to mimic the way the Settings app works in portrait – you can force both view controllers to be visible at all times like this:</p>
+<pre class=" language-swift"><code class=" language-swift">yourSplitViewController<span class="token punctuation">.</span>preferredDisplayMode <span class="token operator">=</span> <span class="token punctuation">.</span>allVisible</code></pre>
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+<ul><li><a href="/quick-start/swiftui/how-to-clip-a-view-so-only-part-is-visible">How to clip a view so only part is visible</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-make-two-views-the-same-width-or-height">How to make two views the same width or height</a></li><li><a href="/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset">How to make empty UITableViews look more attractive using DZNEmptyDataSet</a></li></ul>
 -->
 
 :::

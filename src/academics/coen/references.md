@@ -40,6 +40,15 @@ head:
 
 ---
 
+## üntil
+
+- [`white`: 비루한 대학생](https://until.blog/@white)
+  - [#1. 그래프](https://until.blog/@white/-1--%EA%B7%B8%EB%9E%98%ED%94%84)
+  <!-- END: white -->
+<!-- END: until.blog -->
+
+---
+
 ## Brunch
 
 - [`@2xm` / 14. 소프트웨어 공학의 특성 - 소프트웨어 개발의 3가지 메타포 중 하나인 공학에 대해서](https://brunch.co.kr/@@2xm/83)

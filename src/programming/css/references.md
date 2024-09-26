@@ -79,6 +79,7 @@ tag:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@superlipbalm` / (번역) Shadow DOM을 스타일링 하는 8가지 방법](https://velog.io/@superlipbalm/8-ways-to-style-the-shadow-dom)
+- [`@ksh4704` / HTML 정리(1)](https://velog.io/@ksh4704/HTML-%EC%A0%95%EB%A6%AC1)
 
 <!-- END: velog.io -->
 

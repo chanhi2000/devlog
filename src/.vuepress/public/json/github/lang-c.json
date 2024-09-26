@@ -1798,5 +1798,12 @@
     "topics": ["basic", "compiler", "interpreter", "linux", "virtual-machine"],
     "avatar": "https://avatars.githubusercontent.com/u/15250834?v=4",
     "banner": ""
+  }, {
+    "repo": "dethrace-labs/dethrace",
+    "desc": "Reverse engineering the 1997 game \"Carmageddon\"",
+    "officialSite": "https://twitter.com/dethrace_labs",
+    "topics": ["assembly", "c", "carmageddon", "dos", "gamedev", "reverse-engineering"],
+    "avatar": "https://avatars.githubusercontent.com/u/78985374?v=4",
+    "banner": ""
   }
 ]

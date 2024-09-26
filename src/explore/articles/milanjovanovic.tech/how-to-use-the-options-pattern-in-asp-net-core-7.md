@@ -51,32 +51,23 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_012.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_012.png"/>
 
-<!-- TODO: 작성 -->
+In this week's newsletter I want to show you how you can use the powerful **options pattern** in **ASP.NET Core 7**.
 
-<!-- 
-In this week's newsletter I want to show you how you can use
-the powerful **options pattern** in **ASP.NET Core 7**.
+The **options pattern** uses classes to provide **strongly typed settings** in your application at runtime.
 
-The **options pattern** uses classes to provide **strongly typed settings**
-in your application at runtime.
+The values for the **options** instance can come from multiple sources. The typical use case is to provide the settings from application configuration.
 
-The values for the **options** instance can come from multiple sources.
-The typical use case is to provide the settings from application configuration.
-
-You can configure the **options pattern** in a few different ways in **ASP.NET Core**.
-I want to discuss some of the approaches and their potential benefits.
+You can configure the **options pattern** in a few different ways in **ASP.NET Core**. I want to discuss some of the approaches and their potential benefits.
 
 Let's dive in.
 
 ---
 
-## creating-the-options-class"><a href="#creating-the-options-class">Creating The Options Class
+## Creating The Options Class
 
-I want to set the stage first, by creating the **options** class and
-explaining what settings we want to bind to it.
+I want to set the stage first, by creating the **options** class and explaining what settings we want to bind to it.
 
-We want to configure JWT Authentication for our application,
-so we decided to create the `JwtOptions` class to hold that configuration:
+We want to configure JWT Authentication for our application, so we decided to create the `JwtOptions` class to hold that configuration:
 
 ```cs
 public class JwtOptions
@@ -85,7 +76,6 @@ public class JwtOptions
     public string Audience { get; init; }
     public string SecretKey { get; init; }
 }
-
 ```
 
 And let's imagine that inside of our `appsettings.json` file
@@ -97,48 +87,39 @@ we have the following configuration values:
     "Audience": "Gatherly",
     "SecretKey": "dont-tell-anyone!"
 }
-
 ```
 
-Alright, that's looking good. Now I want to show you a few ways to bind
-the values from JSON to our `JwtOptions` class.
+Alright, that's looking good. Now I want to show you a few ways to bind the values from JSON to our `JwtOptions` class.
 
 ---
 
-## setting-up-options-pattern-using-iconfiguration"><a href="#setting-up-options-pattern-using-iconfiguration">Setting Up Options Pattern Using IConfiguration
+## Setting Up Options Pattern Using IConfiguration
 
-The most straightforward approach is to use the `IConfiguration` instance
-that we can access while registering services.
+The most straightforward approach is to use the `IConfiguration` instance that we can access while registering services.
 
-We need to call the `IServiceCollection.Configure<TOptions>` method,
-and specify the `JwtOptions` as the generic argument:
+We need to call the `IServiceCollection.Configure<TOptions>` method, and specify the `JwtOptions` as the generic argument:
 
 ```cs
 builder.Services.Configure<JwtOptions>(
     builder.Configuration.GetSection("Jwt"));
-
 ```
 
 It doesn't get simpler than this, does it?
 
-The only downside is that we are limited to the configuration
-values provided through application configuration.
+The only downside is that we are limited to the configuration values provided through application configuration.
 
 This can be extended to include environment variables and user secrets also.
 
 ---
 
-## setting-up-options-pattern-using-iconfigureoptions"><a href="#setting-up-options-pattern-using-iconfigureoptions">Setting Up Options Pattern Using IConfigureOptions
+## Setting Up Options Pattern Using IConfigureOptions
 
-If you want a more robust approach, I have you covered.
-We're going to use the `IConfigureOptions` interface to define a class
-to configure our **strongly typed options**.
+If you want a more robust approach, I have you covered. We're going to use the `IConfigureOptions` interface to define a class to configure our **strongly typed options**.
 
 There are two steps that we need to follow in this case:
 
 - Create the `IConfigureOptions` implementation
-<li>Call `IServiceCollection.ConfigureOptions<TOptions>` with our `IConfigureOptions`
-implementation as the generic argument
+- Call `IServiceCollection.ConfigureOptions<TOptions>` with our `IConfigureOptions` implementation as the generic argument
 
 To start off, we will create the `JwtOptionsSetup` class:
 
@@ -160,27 +141,23 @@ public class JwtOptionsSetup : IConfigureOptions<JwtOptions>
             .Bind(options);
     }
 }
-
 ```
 
 We wrote more code, to achieve the same thing. Was it worth it?
 
-Perhaps, if you consider that we now have access to **dependency injection** in the `JwtOptionsSetup` class.
-This means that we can resolve other services that we can use to get the configuration values.
+Perhaps, if you consider that we now have access to **dependency injection** in the `JwtOptionsSetup` class. This means that we can resolve other services that we can use to get the configuration values.
 
 We also need to tell the application to use the `JwtOptionsSetup` class:
 
 ```cs
 builder.Services.ConfigureOptions<JwtOptionsSetup>();
-
 ```
 
-When we try to inject our `JwtOptions` somewhere, the `JwtOptionsSetup.Configure`
-method will be called first the calculate the correct values.
+When we try to inject our `JwtOptions` somewhere, the `JwtOptionsSetup.Configure` method will be called first the calculate the correct values.
 
 ---
 
-## injecting-options-with-ioptions"><a href="#injecting-options-with-ioptions">Injecting Options With IOptions
+## Injecting Options With IOptions
 
 We've seen a few examples for how to configure the **options pattern** with the `JwtOptions` class.
 
@@ -195,51 +172,41 @@ public JwtProvider(IOptions<JwtOptions> options)
 {
     _options = options.Value;
 }
-
 ```
 
 The actual `JwtOptions` instance is available on the `IOptions<JwtOptions>.Value` property.
 
-The `IOptions` instance that we injected here is configured
-as a **Singleton** in dependency injection. This is very important to be aware of.
+The `IOptions` instance that we injected here is configured as a **Singleton** in dependency injection. This is very important to be aware of.
 
 ---
 
-## what-about-ioptionssnapshot-and-ioptionsmonitor"><a href="#what-about-ioptionssnapshot-and-ioptionsmonitor">What About IOptionsSnapshot and IOptionsMonitor?
+## What About IOptionsSnapshot and IOptionsMonitor?
 
-If you want to use the latest configuration values every time
-you inject an **options** class, then injecting `IOptions` won't work.
+If you want to use the latest configuration values every time you inject an **options** class, then injecting `IOptions` won't work.
 
 However, you can use the `IOptionsSnapshot` interface instead:
 
 - It provides the latest configuration snapshot (cached per request)
-<li>It is registered as a **Scoped** service
-<li>It detects configuration changes after application start
+- It is registered as a **Scoped** service
+- It detects configuration changes after application start
 
-You can also use the `IOptionsMonitor` which retrieves the current
-option values at any time, and it's a **Singleton** service.
+You can also use the `IOptionsMonitor` which retrieves the current option values at any time, and it's a **Singleton** service.
 
 ---
 
-## wrapping-up"><a href="#wrapping-up">Wrapping up
+## Wrapping up
 
 The **options pattern** gives us a way to use strongly typed configuration classes in our application.
 
-We can configure the options class in a simple way with <a href="#setting-up-options-pattern-using-iconfiguration">`IConfiguration`</a>,
-or we can create an <a href="#setting-up-options-pattern-using-iconfigureoptions">`IConfigureOptions`</a>
-implementation if we need something more powerful.
+We can configure the options class in a simple way with [`IConfiguration`](#setting-up-options-pattern-using-iconfiguration), or we can create an [`IConfigureOptions`](#setting-up-options-pattern-using-iconfigureoptions) implementation if we need something more powerful.
 
 When it comes to using the **options pattern**, we have three approaches:
 
-- <a href="https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptions-1?view=dotnet-plat-ext-7.0">`IOptions`</a>
-<li><a href="https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionssnapshot-1?view=dotnet-plat-ext-7.0">`IOptionsSnapshot`</a>
-<li><a href="https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionsmonitor-1?view=dotnet-plat-ext-7.0">`IOptionsMonitor`</a>
+- [<FontIcon icon="fa-brands fa-microsoft"/>`IOptions`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptions-1?view=dotnet-plat-ext-7.0)
+- [<FontIcon icon="fa-brands fa-microsoft"/>`IOptionsSnapshot`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionssnapshot-1?view=dotnet-plat-ext-7.0)
+- [<FontIcon icon="fa-brands fa-microsoft"/>`IOptionsMonitor`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.options.ioptionsmonitor-1?view=dotnet-plat-ext-7.0)
 
-Deciding which of them to use in your application depends on what kind of behavior you want.
-If you don't need to support refreshing configuration values
-after application start, <a href="#injecting-options-with-ioptions">`IOptions`</a> is a perfect solution.
-
--->
+Deciding which of them to use in your application depends on what kind of behavior you want. If you don't need to support refreshing configuration values after application start, [`IOptions`](#injecting-options-with-ioptions) is a perfect solution.
 
 ---
 

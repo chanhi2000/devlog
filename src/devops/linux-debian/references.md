@@ -278,6 +278,9 @@ tag:
 - [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
   - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)
   <!-- END: yongho1037 -->
+- [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
+  - [알아두면 쓸데있는 Ubuntu 명령어 모음](https://cori.tistory.com/m/358)
+  <!-- END: cori -->
 <!-- END: tistory.com -->
 
 ---
