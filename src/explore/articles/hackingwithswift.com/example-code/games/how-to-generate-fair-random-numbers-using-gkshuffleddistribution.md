@@ -59,18 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A so-called “fair” random number generator is one that generates each of its possible values in equal amounts and with an even distribution. For example, if you were generating numbers between 1 and 4, you might get 4, 2, 1, 3, but you would never get 4 4 1 4.</p>
-<p>GameplayKit has support for fair random number generation using <code>GKShuffledDistribution</code>. First, add an import for the GameplayKit framework:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">GameplayKit</span></code></pre>
-<p>Second, create an instance of <code>GKShuffledDistribution</code>, telling it the lowest and highest values it can generate:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> distribution <span class="token operator">=</span> <span class="token class-name">GKShuffledDistribution</span><span class="token punctuation">(</span>lowestValue<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> highestValue<span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">)</span></code></pre>
-<p>Finally, call <code>nextInt()</code> on it as needed to generate numbers. You should get all numbers between 1 and 8 at least once before you see any repeated.</p>
+A so-called “fair” random number generator is one that generates each of its possible values in equal amounts and with an even distribution. For example, if you were generating numbers between 1 and 4, you might get 4, 2, 1, 3, but you would never get 4 4 1 4.
+
+GameplayKit has support for fair random number generation using `GKShuffledDistribution`. First, add an import for the GameplayKit framework:
+
+```swift
+import GameplayKit
+```
+
+Second, create an instance of `GKShuffledDistribution`, telling it the lowest and highest values it can generate:
+
+```swift
+let distribution = GKShuffledDistribution(lowestValue: 1, highestValue: 8)
+```
+
+Finally, call `nextInt()` on it as needed to generate numbers. You should get all numbers between 1 and 8 at least once before you see any repeated.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution</a></li><li><a href="/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID</a></li><li><a href="/example-code/language/how-to-generate-a-random-number">How to generate a random number</a></li><li><a href="/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource</a></li><li><a href="/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a></li></ul>
+/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution 
+/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID 
+/example-code/language/how-to-generate-a-random-number">How to generate a random number 
+/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource 
+/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a>
 -->
 
 ---

@@ -56,19 +56,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All view controllers must be accessible somehow, and any that aren’t will cause Xcode to throw up a warning: “View Controller is unreachable because it has no entry points, and no identifier for runtime access.” There are three ways you can fix this:</p>
-<ol>
-<li>Make the view controller your initial view controller so that it’s loaded immediately. To do that, select it, go to the attributes inspector, then check the box marked Is Initial View Controller.</li>
-<li>Give it a storyboard identifier so that it can be loaded in code. To do that, select it, go to the identity inspector, then enter a name next to Storyboard ID.</li>
-<li>Create a segue from an existing view controller. This might be a button click or a table cell selection for example. To do that, select the component that should trigger the segue, then Ctrl-drag from there to the disconnected view controller.</li>
-</ol>
-<p>Once all view controllers have a way of accessing them the warning should disappear.</p>
+All view controllers must be accessible somehow, and any that aren’t will cause Xcode to throw up a warning: “View Controller is unreachable because it has no entry points, and no identifier for runtime access.” There are three ways you can fix this:
+
+1. Make the view controller your initial view controller so that it’s loaded immediately. To do that, select it, go to the attributes inspector, then check the box marked Is Initial View Controller.
+<li>Give it a storyboard identifier so that it can be loaded in code. To do that, select it, go to the identity inspector, then enter a name next to Storyboard ID.
+<li>Create a segue from an existing view controller. This might be a button click or a table cell selection for example. To do that, select the component that should trigger the segue, then Ctrl-drag from there to the disconnected view controller.
+
+Once all view controllers have a way of accessing them the warning should disappear.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li></ul>
+/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements” 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements” 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a>
 -->
 
 :::

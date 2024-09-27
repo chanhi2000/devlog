@@ -59,23 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit makes it easy for a node to follow a path we specify, and you can use it to make rockets take off, enemies to zig zag around a maze, and more.</p>
-<p>First, create a <code>UIBezierPath</code> specifying the shape of your path: </p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> path <span class="token operator">=</span> <span class="token class-name">UIBezierPath</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-path<span class="token punctuation">.</span><span class="token function">move</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-path<span class="token punctuation">.</span><span class="token function">addLine</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">1000</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>That will move directly up.</p>
-<p>Next, turn that into an <code>SKAction</code> using <code>SKAction.follow()</code>. You can specify whether this path is an <em>offset</em> or contains absolute coordinates –&nbsp;we used X:0 Y:0 above, so if we request offset movement that will be equivalent to the node’s starting position.</p>
-<p>The <code>follow()</code> method also accepts parameters for speed (how fast the movement should happen), and whether the node should orient itself to the path. The orientation option is particularly neat: your node will turn itself so that it’s always facing towards the path.</p>
-<p>Try this code to make a node follow a path with path orientation enabled:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> move <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">follow</span><span class="token punctuation">(</span>path<span class="token punctuation">.</span>cgPath<span class="token punctuation">,</span> asOffset<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> orientToPath<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span> speed<span class="token punctuation">:</span> <span class="token number">200</span><span class="token punctuation">)</span>
-node<span class="token punctuation">.</span><span class="token function">run</span><span class="token punctuation">(</span>move<span class="token punctuation">)</span></code></pre>
+SpriteKit makes it easy for a node to follow a path we specify, and you can use it to make rockets take off, enemies to zig zag around a maze, and more.
+
+First, create a `UIBezierPath` specifying the shape of your path: 
+
+```swift
+let path = UIBezierPath()
+path.move(to: CGPoint(x: 0, y: 0))
+path.addLine(to: CGPoint(x: 0, y: 1000))
+```
+
+That will move directly up.
+
+Next, turn that into an `SKAction` using `SKAction.follow()`. You can specify whether this path is an *offset* or contains absolute coordinates – we used X:0 Y:0 above, so if we request offset movement that will be equivalent to the node’s starting position.
+
+The `follow()` method also accepts parameters for speed (how fast the movement should happen), and whether the node should orient itself to the path. The orientation option is particularly neat: your node will turn itself so that it’s always facing towards the path.
+
+Try this code to make a node follow a path with path orientation enabled:
+
+```swift
+let move = SKAction.follow(path.cgPath, asOffset: true, orientToPath: true, speed: 200)
+node.run(move)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-warp-a-sprite-using-skwarpgeometrygrid">How to warp a sprite using SKWarpGeometryGrid</a></li><li><a href="/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition</a></li><li><a href="/example-code/games/how-to-change-a-sprites-texture-using-sktexture">How to change a sprite’s texture using SKTexture</a></li><li><a href="/example-code/games/how-to-crop-a-sprite-using-skcropnode">How to crop a sprite using SKCropNode</a></li><li><a href="/quick-start/swiftui/how-to-draw-a-custom-path">How to draw a custom path</a></li></ul>
+/example-code/games/how-to-warp-a-sprite-using-skwarpgeometrygrid">How to warp a sprite using SKWarpGeometryGrid 
+/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition 
+/example-code/games/how-to-change-a-sprites-texture-using-sktexture">How to change a sprite’s texture using SKTexture 
+/example-code/games/how-to-crop-a-sprite-using-skcropnode">How to crop a sprite using SKCropNode 
+/quick-start/swiftui/how-to-draw-a-custom-path">How to draw a custom path</a>
 -->
 
 ---

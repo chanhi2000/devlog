@@ -34,5 +34,12 @@
     "topics": ["c", "compiler", "vim", "vim-plugin"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "simnalamburt/.dotfiles",
+    "desc": ":memo: My UNIX-like system configuration files",
+    "officialSite": "",
+    "topics": ["dotfiles", "vimrc"],
+    "avatar": "https://avatars.githubusercontent.com/u/4435445?v=4",
+    "banner": ""
   }
 ]

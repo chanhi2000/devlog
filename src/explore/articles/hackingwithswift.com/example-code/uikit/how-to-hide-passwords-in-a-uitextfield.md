@@ -59,14 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>User text in a <code>UITextField</code> is visible by default, but you can enable the iOS text-hiding password functionality just by setting your text field's <code>isSecureTextEntry</code> property to be true, like this:</p>
-<pre class=" language-swift"><code class=" language-swift">textField<span class="token punctuation">.</span>isSecureTextEntry <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
+User text in a `UITextField` is visible by default, but you can enable the iOS text-hiding password functionality just by setting your text field's `isSecureTextEntry` property to be true, like this:
+
+```swift
+textField.isSecureTextEntry = true
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview">How to limit the number of characters in a UITextField or UITextView</a></li><li><a href="/example-code/uikit/how-to-move-to-the-next-uitextfield-when-the-user-presses-return">How to move to the next UITextField when the user presses return</a></li><li><a href="/example-code/uikit/how-to-add-a-uitextfield-to-a-uialertcontroller">How to add a UITextField to a UIAlertController</a></li><li><a href="/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a></li><li><a href="/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden">How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()</a></li></ul>
+/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview">How to limit the number of characters in a UITextField or UITextView 
+/example-code/uikit/how-to-move-to-the-next-uitextfield-when-the-user-presses-return">How to move to the next UITextField when the user presses return 
+/example-code/uikit/how-to-add-a-uitextfield-to-a-uialertcontroller">How to add a UITextField to a UIAlertController 
+/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars 
+/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden">How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()</a>
 -->
 
 :::

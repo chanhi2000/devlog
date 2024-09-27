@@ -59,30 +59,41 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>When you call <code>reloadData()</code> on a <code>UITableView</code> it will refresh all cells from your data source, but it will also lose any selections the user has made.</p>
-<p>If you want to reload your table view while also saving and restoring any selections, you should take a copy of the <code>indexPathsForSelectedRows</code> property before the reload, then re-apply those selections after calling <code>reloadData()</code>.</p>
-<p>This can be put into a simple <code>UITableView</code> extension for easier use:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">UITableView</span> <span class="token punctuation">{</span>
-    <span class="token comment">/// Reloads a table view without losing track of what was selected.</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">reloadDataSavingSelections</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> selectedRows <span class="token operator">=</span> indexPathsForSelectedRows
+When you call `reloadData()` on a `UITableView` it will refresh all cells from your data source, but it will also lose any selections the user has made.
 
-        <span class="token function">reloadData</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+If you want to reload your table view while also saving and restoring any selections, you should take a copy of the `indexPathsForSelectedRows` property before the reload, then re-apply those selections after calling `reloadData()`.
 
-        <span class="token keyword">if</span> <span class="token keyword">let</span> selectedRow <span class="token operator">=</span> selectedRows <span class="token punctuation">{</span>
-            <span class="token keyword">for</span> indexPath <span class="token keyword">in</span> selectedRow <span class="token punctuation">{</span>
-                <span class="token function">selectRow</span><span class="token punctuation">(</span>at<span class="token punctuation">:</span> indexPath<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span> scrollPosition<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">none</span><span class="token punctuation">)</span>
-            <span class="token punctuation">}</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>With that in place, you can now call <code>yourTableView.reloadDataSavingSelections()</code> to try it out.</p>
+This can be put into a simple `UITableView` extension for easier use:
+
+```swift
+extension UITableView {
+    /// Reloads a table view without losing track of what was selected.
+    func reloadDataSavingSelections() {
+        let selectedRows = indexPathsForSelectedRows
+
+        reloadData()
+
+        if let selectedRow = selectedRows {
+            for indexPath in selectedRow {
+                selectRow(at: indexPath, animated: false, scrollPosition: .none)
+            }
+        }
+    }
+}
+```
+
+With that in place, you can now call `yourTableView.reloadDataSavingSelections()` to try it out.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-add-peek-and-pop-to-a-uitableview">How to add peek and pop to a UITableView</a></li><li><a href="/example-code/uikit/how-to-customize-swipe-edit-buttons-in-a-uitableview">How to customize swipe edit buttons in a UITableView</a></li><li><a href="/example-code/uikit/how-to-stop-empty-row-separators-appearing-in-uitableview">How to stop empty row separators appearing in UITableView</a></li><li><a href="/example-code/uikit/how-to-remove-cells-from-a-uitableview">How to remove cells from a UITableView</a></li><li><a href="/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a></li></ul>
+/example-code/uikit/how-to-add-peek-and-pop-to-a-uitableview">How to add peek and pop to a UITableView 
+/example-code/uikit/how-to-customize-swipe-edit-buttons-in-a-uitableview">How to customize swipe edit buttons in a UITableView 
+/example-code/uikit/how-to-stop-empty-row-separators-appearing-in-uitableview">How to stop empty row separators appearing in UITableView 
+/example-code/uikit/how-to-remove-cells-from-a-uitableview">How to remove cells from a UITableView 
+/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a>
 -->
 
 :::

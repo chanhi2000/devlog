@@ -330,11 +330,15 @@ head:
   <!-- END: kesakiyo -->
 - [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
   - [en_US인가 en-US인가 그것이 문제로다(feat. i18n)](https://all-dev-kang.tistory.com/m/entry/enUS%EC%9D%B8%EA%B0%80-en-US%EC%9D%B8%EA%B0%80-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EB%A1%9C%EB%8B%A4feat-i18n)
+  - [\[리액트\] 마크다운 문서에서 HTML 랜더링하기(`rehype-raw`, `next-intl`)](https://all-dev-kang.tistory.com/m/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EC%84%9C%EC%97%90%EC%84%9C-HTML-%EB%9E%9C%EB%8D%94%EB%A7%81%ED%95%98%EA%B8%B0rehype-raw-next-intl)
   <!-- END: all-dev-kang -->
 - [`dlsdn73` / IT grow.](https://dlsdn73.tistory.com/m/)
   - [\[ react \] documentation `hooks` ( 18.2.0 )](https://dlsdn73.tistory.com/m/entry/react-react-documentation-hooks)
   - [\[ react \] documentation `useState` ( 18.2.0 )](https://dlsdn73.tistory.com/m/entry/react-react-documentation-useState-1820)
   <!-- END: dlsdn73 -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [5. 프로젝트 세팅 (FE + BE 연결)](https://takeu.tistory.com/m/398)
+  <!-- END: takeu -->
 <!-- END: tistory.com -->
 
 ---
@@ -448,6 +452,8 @@ head:
 - [`@love` / React의 게으른 초기화 (lazy initialization)](https://until.blog/@love/react%EC%9D%98-%EA%B2%8C%EC%9C%BC%EB%A5%B8-%EC%B4%88%EA%B8%B0%ED%99%94--lazy-initialization-)
 - [`@love` / 서버 컴포넌트와 TanStack Query 사용기](https://until.blog/@love/%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-tanstack-query-%EC%82%AC%EC%9A%A9%EA%B8%B0)
 - [`@morethanmin` / firebase로 react 배포하고 *.web.app 도메인 무료로 사용하기](https://until.blog/@morethanmin/firebase%EB%A1%9C-react-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0---web-app-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@mushroombud` / GetX 쓰다가 Redux 새로 배우기](https://until.blog/@mushroombud/-getx-%EC%93%B0%EB%8B%A4%EA%B0%80-redux-%EC%83%88%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
+- [`@mushroombud` / 간편 로그인(OAuth 2.0) 3분만에 정복하기](https://until.blog/@mushroombud/%EA%B0%84%ED%8E%B8-%EB%A1%9C%EA%B7%B8%EC%9D%B8-oauth-2-0--3%EB%B6%84%EB%A7%8C%EC%97%90-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
 
 <!-- END: until.blog -->
 

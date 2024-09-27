@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A dictionary is a collection of values stored at named positions. Whereas you would access values in an array using <code>myArray[5]</code>, with a dictionary you use named positions such as <code>myDict["Paul"]</code> or <code>myDict["Scotland"]</code>. You don't even need to use strings for the positions – you can use another object if you choose, such as dates.</p>
-<p>These named positions are called "keys", so dictionaries represent what's known as a key-value pair: each key has exactly one value, and each can appear only once in a dictionary.</p>
+A dictionary is a collection of values stored at named positions. Whereas you would access values in an array using `myArray[5]`, with a dictionary you use named positions such as `myDict["Paul"]` or `myDict["Scotland"]`. You don't even need to use strings for the positions – you can use another object if you choose, such as dates.
+
+These named positions are called "keys", so dictionaries represent what's known as a key-value pair: each key has exactly one value, and each can appear only once in a dictionary.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-specify-default-values-for-dictionary-keys">How to specify default values for dictionary keys</a></li><li><a href="/example-code/language/how-to-transform-a-dictionary-using-mapvalues">How to transform a dictionary using mapValues()</a></li><li><a href="/example-code/uikit/showing-dictionary-definitions-using-uireferencelibraryviewcontroller">Showing dictionary definitions using UIReferenceLibraryViewController</a></li><li><a href="/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName()</a></li><li><a href="/example-code/uikit/how-to-add-a-uiapplicationshortcutitem-quick-action-for-3d-touch">How to add a UIApplicationShortcutItem quick action for 3D Touch</a></li></ul>
+/example-code/language/how-to-specify-default-values-for-dictionary-keys">How to specify default values for dictionary keys 
+/example-code/language/how-to-transform-a-dictionary-using-mapvalues">How to transform a dictionary using mapValues() 
+/example-code/uikit/showing-dictionary-definitions-using-uireferencelibraryviewcontroller">Showing dictionary definitions using UIReferenceLibraryViewController 
+/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName() 
+/example-code/uikit/how-to-add-a-uiapplicationshortcutitem-quick-action-for-3d-touch">How to add a UIApplicationShortcutItem quick action for 3D Touch</a>
 -->
 
 :::

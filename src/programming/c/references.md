@@ -323,6 +323,7 @@ tag:
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
   - [Memory 단편화 Fragmentation 과 병합 Coalescing](https://jeongchul.tistory.com/m/731)
+  - [Multiprocess간 IPC 중 메모리 매핑 파일](https://jeongchul.tistory.com/m/745)
   <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 

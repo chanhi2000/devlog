@@ -59,22 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You could compare two <code>CGRect</code> values by evaluating their X, Y, width and height values, but there's a much faster way: <code>equalTo()</code>. This takes two rects as its only two parameters and returns true if they are the same, or false otherwise.</p>
-<p>Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> rect1 <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> rect2 <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span>
+You could compare two `CGRect` values by evaluating their X, Y, width and height values, but there's a much faster way: `equalTo()`. This takes two rects as its only two parameters and returns true if they are the same, or false otherwise.
 
-<span class="token keyword">if</span> rect1<span class="token punctuation">.</span><span class="token function">equalTo</span><span class="token punctuation">(</span>rect2<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token comment">// rects equal!</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token comment">// rects not equal</span>
-<span class="token punctuation">}</span></code></pre>
+Here's an example:
+
+```swift
+let rect1 = CGRect(x: 64, y: 64, width: 128, height: 128)
+let rect2 = CGRect(x: 256, y: 256, width: 128, height: 128)
+
+if rect1.equalTo(rect2) {
+    // rects equal!
+} else {
+    // rects not equal
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-compare-two-tuples-for-equality">How to compare two tuples for equality</a></li><li><a href="/example-code/language/how-to-compare-dates">How to compare dates</a></li><li><a href="/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a></li><li><a href="/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays</a></li><li><a href="/example-code/core-graphics/how-to-calculate-the-distance-between-two-cgpoints">How to calculate the distance between two CGPoints</a></li></ul>
+/example-code/language/how-to-compare-two-tuples-for-equality">How to compare two tuples for equality 
+/example-code/language/how-to-compare-dates">How to compare dates 
+/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI 
+/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays 
+/example-code/core-graphics/how-to-calculate-the-distance-between-two-cgpoints">How to calculate the distance between two CGPoints</a>
 -->
 
 :::

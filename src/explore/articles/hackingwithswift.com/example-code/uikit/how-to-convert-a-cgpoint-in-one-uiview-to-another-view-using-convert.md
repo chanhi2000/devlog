@@ -59,20 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Each view has its own co-ordinate system, meaning that if I tap a button and ask iOS where I tapped, it will tell me where I tapped <em>relative to the top-left of the button</em>. This is usually what you want, but if you want to translate a position in one view into a position it's easy enough to do.</p>
-<p>As an example, this code creates two views, creates a virtual "tap", then converts it from the first view's co-ordinate space to the second's:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> view1 <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> view2 <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">200</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">200</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+Each view has its own co-ordinate system, meaning that if I tap a button and ask iOS where I tapped, it will tell me where I tapped *relative to the top-left of the button*. This is usually what you want, but if you want to translate a position in one view into a position it's easy enough to do.
 
-<span class="token keyword">let</span> tap <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> convertedTap <span class="token operator">=</span> view1<span class="token punctuation">.</span><span class="token function">convert</span><span class="token punctuation">(</span>tap<span class="token punctuation">,</span> to<span class="token punctuation">:</span> view2<span class="token punctuation">)</span></code></pre>
-<p>That will set <code>convertedTap</code> to X -140.0, Y -140.0.</p>
+As an example, this code creates two views, creates a virtual "tap", then converts it from the first view's co-ordinate space to the second's:
+
+```swift
+let view1 = UIView(frame: CGRect(x: 50, y: 50, width: 128, height: 128))
+let view2 = UIView(frame: CGRect(x: 200, y: 200, width: 128, height: 128))
+
+let tap = CGPoint(x: 10, y: 10)
+let convertedTap = view1.convert(tap, to: view2)
+```
+
+That will set `convertedTap` to X -140.0, Y -140.0.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect">How to synchronize animations from one view to another with matchedGeometryEffect()</a></li><li><a href="/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture()</a></li><li><a href="/quick-start/swiftui/how-to-mask-one-view-with-another">How to mask one view with another</a></li></ul>
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect">How to synchronize animations from one view to another with matchedGeometryEffect() 
+/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture() 
+/quick-start/swiftui/how-to-mask-one-view-with-another">How to mask one view with another</a>
 -->
 
 :::

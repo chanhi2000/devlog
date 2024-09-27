@@ -59,16 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>UIKit draws views back to front, which means that views higher up the stack are drawn on top of those lower down. If you want to bring a subview to the front, there's a method just for you: <code>bringSubviewToFront()</code>. Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift">parentView<span class="token punctuation">.</span><span class="token function">bringSubviewToFront</span><span class="token punctuation">(</span>childView<span class="token punctuation">)</span></code></pre>
-<p>This method can also be used to bring any subview to the front, even if you're not sure where it is:</p>
-<pre class=" language-swift"><code class=" language-swift">childView<span class="token punctuation">.</span>superview<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">bringSubviewToFront</span><span class="token punctuation">(</span>childView<span class="token punctuation">)</span></code></pre>
+UIKit draws views back to front, which means that views higher up the stack are drawn on top of those lower down. If you want to bring a subview to the front, there's a method just for you: `bringSubviewToFront()`. Here's an example:
+
+```swift
+parentView.bringSubviewToFront(childView)
+```
+
+This method can also be used to bring any subview to the front, even if you're not sure where it is:
+
+```swift
+childView.superview?.bringSubviewToFront(childView)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag()</a></li><li><a href="/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li><li><a href="/example-code/uikit/how-to-flip-a-uiview-with-a-3d-effect-transitionwith">How to flip a UIView with a 3D effect: transition(with:)</a></li><li><a href="/quick-start/swiftui/how-to-wrap-a-custom-uiview-for-swiftui">How to wrap a custom UIView for SwiftUI</a></li></ul>
+/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag() 
+/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView 
+/example-code/uikit/how-to-flip-a-uiview-with-a-3d-effect-transitionwith">How to flip a UIView with a 3D effect: transition(with:) 
+/quick-start/swiftui/how-to-wrap-a-custom-uiview-for-swiftui">How to wrap a custom UIView for SwiftUI</a>
 -->
 
 :::

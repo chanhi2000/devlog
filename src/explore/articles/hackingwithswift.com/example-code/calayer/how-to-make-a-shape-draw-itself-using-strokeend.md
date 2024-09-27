@@ -59,30 +59,44 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>iOS makes it easy to draw shapes using <code>CAShapeLayer</code>, but you also get the ability to adjust <em>how</em> shapes are drawn. By manipulating the <code>strokeStart</code> and <code>strokeEnd</code> properties you can make shapes draw themselves on the screen: you can present a half-drawn star, or a three-quarters drawn circle, for example.</p>
-<p>However, as clever as that is what’s <em>really</em> neat is being able to animate the drawing process. To try it out, first create a <code>CAShapeLayer</code> with a stroke that’s visible, like this one:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> layer <span class="token operator">=</span> <span class="token class-name">CAShapeLayer</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> bounds <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">250</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">250</span><span class="token punctuation">)</span>
-layer<span class="token punctuation">.</span>path <span class="token operator">=</span> <span class="token class-name">UIBezierPath</span><span class="token punctuation">(</span>roundedRect<span class="token punctuation">:</span> bounds<span class="token punctuation">,</span> byRoundingCorners<span class="token punctuation">:</span> <span class="token punctuation">.</span>allCorners<span class="token punctuation">,</span> cornerRadii<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">20</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">20</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span>cgPath
-layer<span class="token punctuation">.</span>strokeColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>black<span class="token punctuation">.</span>cgColor
-layer<span class="token punctuation">.</span>fillColor <span class="token operator">=</span> <span class="token nil constant">nil</span>
-layer<span class="token punctuation">.</span>lineDashPattern <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">8</span><span class="token punctuation">,</span> <span class="token number">6</span><span class="token punctuation">]</span>
-view<span class="token punctuation">.</span>layer<span class="token punctuation">.</span><span class="token function">addSublayer</span><span class="token punctuation">(</span>layer<span class="token punctuation">)</span></code></pre>
-<p>Now create and add a <code>CABasicAnimation</code> to adjust the <code>strokeEnd</code> property:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> animation <span class="token operator">=</span> <span class="token class-name">CABasicAnimation</span><span class="token punctuation">(</span>keyPath<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"strokeEnd"</span></span><span class="token punctuation">)</span>
-animation<span class="token punctuation">.</span>fromValue <span class="token operator">=</span> <span class="token number">0</span>
-animation<span class="token punctuation">.</span>toValue <span class="token operator">=</span> <span class="token number">1</span>
-animation<span class="token punctuation">.</span>duration <span class="token operator">=</span> <span class="token number">2</span>
-animation<span class="token punctuation">.</span>autoreverses <span class="token operator">=</span> <span class="token boolean">true</span>
-animation<span class="token punctuation">.</span>repeatCount <span class="token operator">=</span> <span class="token punctuation">.</span>infinity
-layer<span class="token punctuation">.</span><span class="token function">add</span><span class="token punctuation">(</span>animation<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"line"</span></span><span class="token punctuation">)</span></code></pre>
-<p>I made that animate from 0 (not drawn) to 1 (fully drawn) over two seconds, but also made it reverse at the end and repeat infinite times.</p>
+iOS makes it easy to draw shapes using `CAShapeLayer`, but you also get the ability to adjust *how* shapes are drawn. By manipulating the `strokeStart` and `strokeEnd` properties you can make shapes draw themselves on the screen: you can present a half-drawn star, or a three-quarters drawn circle, for example.
+
+However, as clever as that is what’s *really* neat is being able to animate the drawing process. To try it out, first create a `CAShapeLayer` with a stroke that’s visible, like this one:
+
+```swift
+let layer = CAShapeLayer()
+let bounds = CGRect(x: 50, y: 50, width: 250, height: 250)
+layer.path = UIBezierPath(roundedRect: bounds, byRoundingCorners: .allCorners, cornerRadii: CGSize(width: 20, height: 20)).cgPath
+layer.strokeColor = UIColor.black.cgColor
+layer.fillColor = nil
+layer.lineDashPattern = [8, 6]
+view.layer.addSublayer(layer)
+```
+
+Now create and add a `CABasicAnimation` to adjust the `strokeEnd` property:
+
+```swift
+let animation = CABasicAnimation(keyPath: "strokeEnd")
+animation.fromValue = 0
+animation.toValue = 1
+animation.duration = 2
+animation.autoreverses = true
+animation.repeatCount = .infinity
+layer.add(animation, forKey: "line")
+```
+
+I made that animate from 0 (not drawn) to 1 (fully drawn) over two seconds, but also made it reverse at the end and repeat infinite times.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim">How to draw part of a solid shape using trim()</a></li><li><a href="/quick-start/swiftui/how-to-make-a-view-dismiss-itself">How to make a view dismiss itself</a></li><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li><li><a href="/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition</a></li><li><a href="/quick-start/swiftui/how-to-draw-images-using-image-views">How to draw images using Image views</a></li></ul>
+/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim">How to draw part of a solid shape using trim() 
+/quick-start/swiftui/how-to-make-a-view-dismiss-itself">How to make a view dismiss itself 
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently 
+/example-code/games/how-to-make-one-sprite-draw-in-front-of-another-using-zposition">How to make one sprite draw in front of another using zPosition 
+/quick-start/swiftui/how-to-draw-images-using-image-views">How to draw images using Image views</a>
 -->
 
 :::

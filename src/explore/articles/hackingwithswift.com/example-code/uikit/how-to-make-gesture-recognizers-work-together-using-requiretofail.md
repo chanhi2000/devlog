@@ -59,22 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>It’s common to have multiple gesture recognizers attached to a single view, all doing different things depending on the user’s taps on your screen. By default, iOS lets them fight for control, but usually you want to execute them in some sort of particular order: one gesture should only be matched if another failed. </p>
-<p>For example, here are two gesture recognizers that exist on the same view:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> swipe <span class="token operator">=</span> <span class="token class-name">UISwipeGestureRecognizer</span><span class="token punctuation">(</span>target<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">,</span> action<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>executeSwipe<span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> tap <span class="token operator">=</span> <span class="token class-name">UITapGestureRecognizer</span><span class="token punctuation">(</span>target<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">,</span> action<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>executeTap<span class="token punctuation">)</span><span class="token punctuation">)</span>
+It’s common to have multiple gesture recognizers attached to a single view, all doing different things depending on the user’s taps on your screen. By default, iOS lets them fight for control, but usually you want to execute them in some sort of particular order: one gesture should only be matched if another failed. 
 
-view<span class="token punctuation">.</span><span class="token function">addGestureRecognizer</span><span class="token punctuation">(</span>swipe<span class="token punctuation">)</span>
-view<span class="token punctuation">.</span><span class="token function">addGestureRecognizer</span><span class="token punctuation">(</span>tap<span class="token punctuation">)</span></code></pre>
-<p>A swipe gesture is a tap followed by a linear movement, whereas a tap is just a tap –&nbsp;we need to make sure the swipe gesture has definitely not been recognizer before the tap gesture is checked.</p>
-<p>iOS often does a fairly good job of this, but there’s no need to leave it up to chance: if you call <code>require(toFail:)</code> on the tap gesture recognizer, passing in the swipe recognizer, iOS will definitely make sure they don’t compete:</p>
-<pre class=" language-swift"><code class=" language-swift">tap<span class="token punctuation">.</span><span class="token function">require</span><span class="token punctuation">(</span>toFail<span class="token punctuation">:</span> swipe<span class="token punctuation">)</span></code></pre>
+For example, here are two gesture recognizers that exist on the same view:
+
+```swift
+let swipe = UISwipeGestureRecognizer(target: self, action: #selector(executeSwipe))
+let tap = UITapGestureRecognizer(target: self, action: #selector(executeTap))
+
+view.addGestureRecognizer(swipe)
+view.addGestureRecognizer(tap)
+```
+
+A swipe gesture is a tap followed by a linear movement, whereas a tap is just a tap – we need to make sure the swipe gesture has definitely not been recognizer before the tap gesture is checked.
+
+iOS often does a fairly good job of this, but there’s no need to leave it up to chance: if you call `require(toFail:)` on the tap gesture recognizer, passing in the swipe recognizer, iOS will definitely make sure they don’t compete:
+
+```swift
+tap.require(toFail: swipe)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view">How to add a gesture recognizer to a view</a></li><li><a href="/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture()</a></li><li><a href="/quick-start/swiftui/how-to-create-gesture-chains-using-sequencedbefore">How to create gesture chains using sequenced(before:)</a></li><li><a href="/quick-start/swiftui/how-to-combine-text-views-together">How to combine text views together</a></li><li><a href="/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a></li></ul>
+/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view">How to add a gesture recognizer to a view 
+/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture() 
+/quick-start/swiftui/how-to-create-gesture-chains-using-sequencedbefore">How to create gesture chains using sequenced(before:) 
+/quick-start/swiftui/how-to-combine-text-views-together">How to combine text views together 
+/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a>
 -->
 
 :::

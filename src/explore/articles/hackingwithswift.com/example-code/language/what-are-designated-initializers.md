@@ -59,22 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Designated initializers are the default way of creating new instances of a type. There are others, known as convenience initializers, that are there to help you accomplish common tasks more easily, but those are in addition to your designated initializers rather than a replacement.</p>
-<p>For example, you might create a <code>Polygon</code> class that stores sets of points to be drawn later on, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Polygon</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> points<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">CGPoint</span><span class="token punctuation">]</span>
+Designated initializers are the default way of creating new instances of a type. There are others, known as convenience initializers, that are there to help you accomplish common tasks more easily, but those are in addition to your designated initializers rather than a replacement.
 
-    <span class="token keyword">init</span><span class="token punctuation">(</span>points<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">CGPoint</span><span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span><span class="token punctuation">.</span>points <span class="token operator">=</span> points
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That initializer is your designated initializer: one that will set up all properties fully in a default way. You could add convenience initializers on top to perform certain tasks –&nbsp;creating squares or triangles would make sense in this scenario –&nbsp;but those must always end by calling a designated initializer.</p>
+For example, you might create a `Polygon` class that stores sets of points to be drawn later on, like this:
+
+```swift
+class Polygon {
+    var points: [CGPoint]
+
+    init(points: [CGPoint]) {
+        self.points = points
+    }
+}
+```
+
+That initializer is your designated initializer: one that will set up all properties fully in a default way. You could add convenience initializers on top to perform certain tasks – creating squares or triangles would make sense in this scenario – but those must always end by calling a designated initializer.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-convenience-initializers">What are convenience initializers?</a></li><li><a href="/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers"</a></li><li><a href="/example-code/uikit/how-to-fix-the-error-failed-to-instantiate-the-default-view-controller-for-uimainstoryboardfile">How to fix the error “Failed to instantiate the default view controller for UIMainStoryboardFile”</a></li><li><a href="/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs?</a></li><li><a href="/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them?</a></li></ul>
+/example-code/language/what-are-convenience-initializers">What are convenience initializers? 
+/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers" 
+/example-code/uikit/how-to-fix-the-error-failed-to-instantiate-the-default-view-controller-for-uimainstoryboardfile">How to fix the error “Failed to instantiate the default view controller for UIMainStoryboardFile” 
+/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs? 
+/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them?</a>
 -->
 
 :::

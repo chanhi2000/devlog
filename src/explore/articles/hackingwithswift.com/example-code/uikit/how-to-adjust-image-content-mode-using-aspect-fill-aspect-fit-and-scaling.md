@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>All views (including those that don't hold images) have a content mode that affects the way they draw their content. The default is <code>Scale To Fill</code> because it's fastest: the contents of the view just get stretched up (or down) to fit the space available. But there are two others that you'll be using a lot: Aspect Fit and Aspect Fill.</p>
-<p>"Aspect Fit" means "stretch this image up as large as it can go, but make sure that all the image is visible while keeping its original aspect ratio." This is useful when you want an image to be as large as possible without stretching its proportions, and it's probably the most commonly used content mode.</p>
-<p>"Aspect Fill” means "stretch this image up as large as it can go, cropping off any parts that don't fit while keeping its original aspect ratio." This is useful when you want an image to fill its image view, even when that means losing either the horizontal or vertical edges. If you want to force an image to fill a specific space, but you want to keep its aspect ratio, this is the one you should use.</p>
+All views (including those that don't hold images) have a content mode that affects the way they draw their content. The default is `Scale To Fill` because it's fastest: the contents of the view just get stretched up (or down) to fit the space available. But there are two others that you'll be using a lot: Aspect Fit and Aspect Fill.
+
+"Aspect Fit" means "stretch this image up as large as it can go, but make sure that all the image is visible while keeping its original aspect ratio." This is useful when you want an image to be as large as possible without stretching its proportions, and it's probably the most commonly used content mode.
+
+"Aspect Fill” means "stretch this image up as large as it can go, cropping off any parts that don't fit while keeping its original aspect ratio." This is useful when you want an image to fill its image view, even when that means losing either the horizontal or vertical edges. If you want to force an image to fill a specific space, but you want to keep its aspect ratio, this is the one you should use.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-find-an-aspect-fit-images-size-inside-an-image-view">How to find an aspect fit image’s size inside an image view</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
+/example-code/uikit/how-to-find-an-aspect-fit-images-size-inside-an-image-view">How to find an aspect fit image’s size inside an image view 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

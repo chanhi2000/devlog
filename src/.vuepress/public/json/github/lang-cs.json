@@ -643,5 +643,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/30480171?v=4",
     "banner": ""
+  }, {
+    "repo": "Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. ",
+    "officialSite": "",
+    "topics": ["azure", "azure-sdk", "c-sharp", "dotnet", "hacktoberfest", "microsoft"],
+    "avatar": "https://avatars.githubusercontent.com/u/6844498?v=4",
+    "banner": ""
+  }, {
+    "repo": "2Retr0/GodotOceanWaves",
+    "desc": "FFT-based ocean-wave rendering, implemented in Godot",
+    "officialSite": "",
+    "topics": ["godot", "godot-engine"],
+    "avatar": "https://avatars.githubusercontent.com/u/18603664?v=4",
+    "banner": ""
   }
 ]

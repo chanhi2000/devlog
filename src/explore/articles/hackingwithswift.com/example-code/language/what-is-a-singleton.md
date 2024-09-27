@@ -59,21 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Singletons are objects that should only ever be created once, then shared everywhere they need to be used. They are common on Apple’s platforms: <code>FileManager</code>, <code>UserDefaults</code>, <code>UIApplication</code>, and <code>UIAccelerometer</code> are all mostly used through their singleton implementations.</p>
-<p>The basic implementation of a Swift singleton looks like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Settings</span> <span class="token punctuation">{</span>
-    <span class="token keyword">static</span> <span class="token keyword">let</span> shared <span class="token operator">=</span> <span class="token class-name">Settings</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token keyword">var</span> username<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token operator">?</span>
+Singletons are objects that should only ever be created once, then shared everywhere they need to be used. They are common on Apple’s platforms: `FileManager`, `UserDefaults`, `UIApplication`, and `UIAccelerometer` are all mostly used through their singleton implementations.
 
-    <span class="token keyword">private</span> <span class="token keyword">init</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Adding a <code>private</code> initializer is important, because it stops other parts of our code from trying to create a <code>Settings</code> class instance. However, the class creates its own instance of itself as a static variable, which means the only instance of the <code>Settings</code> class is the one it created: <code>Settings.shared</code>.</p>
+The basic implementation of a Swift singleton looks like this:
+
+```swift
+class Settings {
+    static let shared = Settings()
+    var username: String?
+
+    private init() { }
+}
+```
+
+Adding a `private` initializer is important, because it stops other parts of our code from trying to create a `Settings` class instance. However, the class creates its own instance of itself as a static variable, which means the only instance of the `Settings` class is the one it created: `Settings.shared`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-compactmap-to-transform-an-array">How to use compactMap() to transform an array</a></li><li><a href="/example-code/language/how-to-specify-your-own-date-format-with-codable-and-jsonencoder">How to specify your own date format with Codable and JSONEncoder</a></li><li><a href="/example-code/language/what-is-a-protocol">What is a protocol?</a></li><li><a href="/example-code/language/what-is-the-objcmembers-attribute">What is the @objcMembers attribute?</a></li><li><a href="/example-code/language/what-is-class-inheritance">What is class inheritance?</a></li></ul>
+/example-code/language/how-to-use-compactmap-to-transform-an-array">How to use compactMap() to transform an array 
+/example-code/language/how-to-specify-your-own-date-format-with-codable-and-jsonencoder">How to specify your own date format with Codable and JSONEncoder 
+/example-code/language/what-is-a-protocol">What is a protocol? 
+/example-code/language/what-is-the-objcmembers-attribute">What is the @objcMembers attribute? 
+/example-code/language/what-is-class-inheritance">What is class inheritance?</a>
 -->
 
 :::

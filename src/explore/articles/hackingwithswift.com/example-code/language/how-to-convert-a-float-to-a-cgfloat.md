@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>Float</code> and <code>CGFloat</code> data types sound so similar you might think they were identical, but they aren't: <code>CGFloat</code> is flexible in that its precision adapts to the type of device it's running on, whereas <code>Float</code> is always a fixed precision. Thus, you never lose precision converting from <code>Float</code> to <code>CGFloat</code>, whereas you might going the other way.</p>
-<p>To convert, just use the <code>CGFloat</code> constructor, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> myCGFloat <span class="token operator">=</span> <span class="token class-name">CGFloat</span><span class="token punctuation">(</span>myFloat<span class="token punctuation">)</span></code></pre>
+The `Float` and `CGFloat` data types sound so similar you might think they were identical, but they aren't: `CGFloat` is flexible in that its precision adapts to the type of device it's running on, whereas `Float` is always a fixed precision. Thus, you never lose precision converting from `Float` to `CGFloat`, whereas you might going the other way.
+
+To convert, just use the `CGFloat` constructor, like this:
+
+```swift
+let myCGFloat = CGFloat(myFloat)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-a-cgfloat">What is a CGFloat?</a></li><li><a href="/example-code/language/how-to-convert-an-int-to-a-float">How to convert an int to a float</a></li><li><a href="/example-code/language/how-to-convert-a-float-to-an-int">How to convert a float to an int</a></li><li><a href="/example-code/language/how-to-convert-a-string-to-a-float">How to convert a string to a float</a></li><li><a href="/example-code/language/what-is-a-float">What is a float?</a></li></ul>
+/example-code/language/what-is-a-cgfloat">What is a CGFloat? 
+/example-code/language/how-to-convert-an-int-to-a-float">How to convert an int to a float 
+/example-code/language/how-to-convert-a-float-to-an-int">How to convert a float to an int 
+/example-code/language/how-to-convert-a-string-to-a-float">How to convert a string to a float 
+/example-code/language/what-is-a-float">What is a float?</a>
 -->
 
 :::

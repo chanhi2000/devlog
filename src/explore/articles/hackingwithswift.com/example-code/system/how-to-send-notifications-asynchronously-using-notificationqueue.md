@@ -59,19 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Any notifications posted using NotificationCenter are delivered <em>synchronously</em>, which means all observers get notified simultaneously and execute all their code before control gets passed back to the the poster of the notification.</p>
-<p>While that’s often what you want, sometimes it can be problematic because processing repeated notifications during busy periods can slow your app down. Fortunately, Apple gives us an alternative in the shape of <code>NotificationQueue</code>: an asynchronous system that queues up notifications at different urgencies, and can even coalesce similar messages to avoid repetition.</p>
-<p>You can try it out using this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> notification <span class="token operator">=</span> <span class="token class-name">Notification</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token class-name">Notification</span><span class="token punctuation">.</span><span class="token class-name">Name</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"MyValueChanged"</span></span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token class-name">NotificationQueue</span><span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">.</span><span class="token function">enqueue</span><span class="token punctuation">(</span>notification<span class="token punctuation">,</span> postingStyle<span class="token punctuation">:</span> <span class="token punctuation">.</span>whenIdle<span class="token punctuation">,</span> coalesceMask<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">none</span><span class="token punctuation">,</span> forModes<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span></code></pre>
-<p>That will enqueue the “MyValueChanged” notification to be delivered when your app is idle, and without coalescing. You can also use <code>.asap</code> for your posting style to deliver in the next run loop, and <code>.now</code>, which will cause the notification to be delivered synchronously.</p>
-<p>The reason the <code>.now</code> posting style is important is because of the ability of <code>NotificationQueue</code> to <em>coalesce</em> notifications –&nbsp;i.e., join them together. If you specify <code>.onName</code> for the <code>coalesceMask</code> property it will automatically merge any notifications of the same name, which stops observers being overloaded by repeated notifications.</p>
+Any notifications posted using NotificationCenter are delivered *synchronously*, which means all observers get notified simultaneously and execute all their code before control gets passed back to the the poster of the notification.
+
+While that’s often what you want, sometimes it can be problematic because processing repeated notifications during busy periods can slow your app down. Fortunately, Apple gives us an alternative in the shape of `NotificationQueue`: an asynchronous system that queues up notifications at different urgencies, and can even coalesce similar messages to avoid repetition.
+
+You can try it out using this code:
+
+```swift
+let notification = Notification(name: Notification.Name("MyValueChanged"))
+NotificationQueue.default.enqueue(notification, postingStyle: .whenIdle, coalesceMask: .none, forModes: nil)
+```
+
+That will enqueue the “MyValueChanged” notification to be delivered when your app is idle, and without coalescing. You can also use `.asap` for your posting style to deliver in the next run loop, and `.now`, which will cause the notification to be delivered synchronously.
+
+The reason the `.now` posting style is important is because of the ability of `NotificationQueue` to *coalesce* notifications – i.e., join them together. If you specify `.onName` for the `coalesceMask` property it will automatically merge any notifications of the same name, which stops observers being overloaded by repeated notifications.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-asynchronously-using-gcd-async">How to run code asynchronously using GCD async()</a></li><li><a href="/quick-start/swiftui/how-to-send-state-updates-manually-using-objectwillchange">How to send state updates manually using objectWillChange</a></li><li><a href="/example-code/uikit/how-to-send-an-email">How to send an email</a></li><li><a href="/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications?</a></li><li><a href="/example-code/system/how-to-group-user-notifications-using-threadidentifier-and-summaryargument">How to group user notifications using threadIdentifier and summaryArgument</a></li></ul>
+/example-code/system/how-to-run-code-asynchronously-using-gcd-async">How to run code asynchronously using GCD async() 
+/quick-start/swiftui/how-to-send-state-updates-manually-using-objectwillchange">How to send state updates manually using objectWillChange 
+/example-code/uikit/how-to-send-an-email">How to send an email 
+/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications? 
+/example-code/system/how-to-group-user-notifications-using-threadidentifier-and-summaryargument">How to group user notifications using threadIdentifier and summaryArgument</a>
 -->
 
 :::

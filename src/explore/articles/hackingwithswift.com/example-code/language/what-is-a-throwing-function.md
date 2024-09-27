@@ -59,27 +59,43 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Throwing functions are those that will flag up errors if problems happen, and Swift requires you to handle those errors in your code.</p>
-<p>To make a throwing function, just write <code>throws</code> before your function’s return value. You should define the error types you can throw, so users of this function know what to expect.</p>
-<p>As an example, try adding this custom error enum to a playground:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">enum</span> <span class="token class-name">LoginErrors</span><span class="token punctuation">:</span> <span class="token class-name">Error</span> <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> badUsername
-    <span class="token keyword">case</span> badPassword
-<span class="token punctuation">}</span></code></pre>
-<p>We can now use that to create a throwing function called <code>login()</code>. If the username is empty we’ll throw <code>badUsername</code>, if the password is empty we’ll throw <code>badPassword</code>, and if both are non-empty we’ll return true:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">login</span><span class="token punctuation">(</span>username<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> password<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token keyword">throws</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span> <span class="token punctuation">{</span>
-    <span class="token keyword">if</span> username<span class="token punctuation">.</span>isEmpty <span class="token punctuation">{</span> <span class="token keyword">throw</span> <span class="token class-name">LoginErrors</span><span class="token punctuation">.</span>badUsername <span class="token punctuation">}</span>
-    <span class="token keyword">if</span> password<span class="token punctuation">.</span>isEmpty <span class="token punctuation">{</span> <span class="token keyword">throw</span> <span class="token class-name">LoginErrors</span><span class="token punctuation">.</span>badPassword <span class="token punctuation">}</span>
-    <span class="token keyword">return</span> <span class="token boolean">true</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Because that function throws errors, it must be called using either <code>try</code>, <code>try?</code>, or <code>try!</code>.</p>
-<p>There’s a subtle difference between throwing functions and functions that return optionals, but it’s usually a better idea to use throwing functions if there might be several different reasons why the function failed.</p>
+Throwing functions are those that will flag up errors if problems happen, and Swift requires you to handle those errors in your code.
+
+To make a throwing function, just write `throws` before your function’s return value. You should define the error types you can throw, so users of this function know what to expect.
+
+As an example, try adding this custom error enum to a playground:
+
+```swift
+enum LoginErrors: Error {
+    case badUsername
+    case badPassword
+}
+```
+
+We can now use that to create a throwing function called `login()`. If the username is empty we’ll throw `badUsername`, if the password is empty we’ll throw `badPassword`, and if both are non-empty we’ll return true:
+
+```swift
+func login(username: String, password: String) throws -> Bool {
+    if username.isEmpty { throw LoginErrors.badUsername }
+    if password.isEmpty { throw LoginErrors.badPassword }
+    return true
+}
+```
+
+Because that function throws errors, it must be called using either `try`, `try?`, or `try!`.
+
+There’s a subtle difference between throwing functions and functions that return optionals, but it’s usually a better idea to use throwing functions if there might be several different reasons why the function failed.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/how-to-call-async-throwing-functions">How to call async throwing functions</a></li><li><a href="/example-code/testing/how-to-test-throwing-functions">How to test throwing functions</a></li><li><a href="/quick-start/concurrency/what-is-an-asynchronous-function">What is an asynchronous function?</a></li><li><a href="/quick-start/concurrency/what-is-a-synchronous-function">What is a synchronous function?</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li></ul>
+/quick-start/concurrency/how-to-call-async-throwing-functions">How to call async throwing functions 
+/example-code/testing/how-to-test-throwing-functions">How to test throwing functions 
+/quick-start/concurrency/what-is-an-asynchronous-function">What is an asynchronous function? 
+/quick-start/concurrency/what-is-a-synchronous-function">What is a synchronous function? 
+/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a>
 -->
 
 :::

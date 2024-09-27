@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>When a user taps a table view row, it automatically gets highlighted by iOS, and frequently we use that action to show another view controller with more detailed information. When the user goes back, though, you probably want their selection to go away so that it doesn't remain selected, and if you're using a <code>UITableViewController</code> that's easy to do with <code>clearsSelectionOnViewWillAppear</code></p>
-<p>If you set this property to be <code>true</code> the user's selected cell will automatically be deselected when they return to the table view. It does this intelligently, though: the row starts selected, and animates to be deselected, meaning that the user gets a brief reminder of the row they tapped before it gets deselected.</p>
+When a user taps a table view row, it automatically gets highlighted by iOS, and frequently we use that action to show another view controller with more detailed information. When the user goes back, though, you probably want their selection to go away so that it doesn't remain selected, and if you're using a `UITableViewController` that's easy to do with `clearsSelectionOnViewWillAppear`
+
+If you set this property to be `true` the user's selected cell will automatically be deselected when they return to the table view. It does this intelligently, though: the row starts selected, and animates to be deselected, meaning that the user gets a brief reminder of the row they tapped before it gets deselected.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse</a></li><li><a href="/example-code/uikit/how-to-make-uitableviewcell-separators-go-edge-to-edge">How to make UITableViewCell separators go edge to edge</a></li><li><a href="/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a></li><li><a href="/example-code/uikit/how-to-add-a-button-to-a-uitableviewcell">How to add a button to a UITableViewCell</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li></ul>
+/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse 
+/example-code/uikit/how-to-make-uitableviewcell-separators-go-edge-to-edge">How to make UITableViewCell separators go edge to edge 
+/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled 
+/example-code/uikit/how-to-add-a-button-to-a-uitableviewcell">How to add a button to a UITableViewCell 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a>
 -->
 
 :::

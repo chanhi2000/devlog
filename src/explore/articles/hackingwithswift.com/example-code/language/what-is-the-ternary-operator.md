@@ -59,18 +59,29 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The ternary operator allows you to run a check and return one of two values depending on the result of that check –&nbsp;it has the name “ternary” because it works with three values rather than two or one like other operators. You’ll often see it written as <code>?:</code> but in practice the <code>?</code> and <code>:</code> are used separately.</p>
-<p>Like I said, the ternary operator is used with three values: the check to run, what to return if the check is true, and what to return if the check is false. For example, if we had a <code>score</code> constant that contained an integer, we could make a <code>result</code> constant equal either to “Pass” or “Fail” depending on the value of <code>score</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> score <span class="token operator">=</span> <span class="token number">88</span>
-<span class="token keyword">let</span> result <span class="token operator">=</span> score <span class="token operator">&gt;</span> <span class="token number">85</span> <span class="token operator">?</span> <span class="token string-literal"><span class="token string">"Pass"</span></span> <span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Fail"</span></span></code></pre>
-<p>You can read that ternary as “if score is greater than 85 return Pass otherwise return Fail.” Because <code>score</code> was set to 88, <code>result</code> will be set to Pass.</p>
-<p>The ternary operator usually makes your code harder to read and understand, so it doesn’t get much use.</p>
+The ternary operator allows you to run a check and return one of two values depending on the result of that check – it has the name “ternary” because it works with three values rather than two or one like other operators. You’ll often see it written as `?:` but in practice the `?` and `:` are used separately.
+
+Like I said, the ternary operator is used with three values: the check to run, what to return if the check is true, and what to return if the check is false. For example, if we had a `score` constant that contained an integer, we could make a `result` constant equal either to “Pass” or “Fail” depending on the value of `score`:
+
+```swift
+let score = 88
+let result = score > 85 ? "Pass" : "Fail"
+```
+
+You can read that ternary as “if score is greater than 85 return Pass otherwise return Fail.” Because `score` was set to 88, `result` will be set to Pass.
+
+The ternary operator usually makes your code harder to read and understand, so it doesn’t get much use.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-operator-overloading">How to use operator overloading</a></li><li><a href="/example-code/language/what-is-the-nil-coalescing-operator">What is the nil coalescing operator?</a></li><li><a href="/example-code/uikit/how-to-add-drag-and-drop-to-your-app">How to add drag and drop to your app</a></li><li><a href="/example-code/language/whats-the-difference-between-equalsequals-and-equalsequalsequals">What’s the difference between == and ===?</a></li><li><a href="/example-code/language/how-to-calculate-division-remainder-using-modulo">How to calculate division remainder using modulo</a></li></ul>
+/example-code/language/how-to-use-operator-overloading">How to use operator overloading 
+/example-code/language/what-is-the-nil-coalescing-operator">What is the nil coalescing operator? 
+/example-code/uikit/how-to-add-drag-and-drop-to-your-app">How to add drag and drop to your app 
+/example-code/language/whats-the-difference-between-equalsequals-and-equalsequalsequals">What’s the difference between == and ===? 
+/example-code/language/how-to-calculate-division-remainder-using-modulo">How to calculate division remainder using modulo</a>
 -->
 
 :::

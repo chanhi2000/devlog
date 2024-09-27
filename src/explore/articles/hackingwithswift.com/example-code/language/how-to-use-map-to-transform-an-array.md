@@ -56,20 +56,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>map()</code> method allows us to transform arrays (and indeed any kind of collection) using a transformation closure we specify. The return value will be an array of the same size, containing your transformed elements.</p>
-<p>For example, given the following array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">]</span></code></pre>
-<p>We could use <code>map()</code> to transform those numbers so they are doubled, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> doubled <span class="token operator">=</span> numbers<span class="token punctuation">.</span>map <span class="token punctuation">{</span> <span class="token short-argument">$0</span> <span class="token operator">*</span> <span class="token number">2</span> <span class="token punctuation">}</span></code></pre>
-<p>You can map whatever you want. For example, you could convert an array of strings to be uppercase:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> strings <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"John"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Paul"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"George"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Ringo"</span></span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> uppercased <span class="token operator">=</span> strings<span class="token punctuation">.</span>map <span class="token punctuation">{</span> <span class="token short-argument">$0</span><span class="token punctuation">.</span><span class="token function">uppercased</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">}</span></code></pre>
+The `map()` method allows us to transform arrays (and indeed any kind of collection) using a transformation closure we specify. The return value will be an array of the same size, containing your transformed elements.
+
+For example, given the following array:
+
+```swift
+let numbers = [1, 2, 3, 4]
+```
+
+We could use `map()` to transform those numbers so they are doubled, like this:
+
+```swift
+let doubled = numbers.map { $0 * 2 }
+```
+
+You can map whatever you want. For example, you could convert an array of strings to be uppercase:
+
+```swift
+let strings = ["John", "Paul", "George", "Ringo"]
+let uppercased = strings.map { $0.uppercased() }
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-compactmap-to-transform-an-array">How to use compactMap() to transform an array</a></li><li><a href="/example-code/language/how-to-transform-a-dictionary-using-mapvalues">How to transform a dictionary using mapValues()</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more</a></li><li><a href="/quick-start/swiftui/how-to-show-a-map-view">How to show a Map view</a></li></ul>
+/example-code/language/how-to-use-compactmap-to-transform-an-array">How to use compactMap() to transform an array 
+/example-code/language/how-to-transform-a-dictionary-using-mapvalues">How to transform a dictionary using mapValues() 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more 
+/quick-start/swiftui/how-to-show-a-map-view">How to show a Map view</a>
 -->
 
 :::

@@ -59,52 +59,64 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can draw lines in Core Graphics using <code>move(to:)</code> and <code>addLine(to:)</code>. The first function moves the Core Graphics path to a <code>CGPoint</code> of your choosing, and the second function moves the path to a new point while also adding a line. Once you add in the required code to set up a context and choose a color, you can draw a triangle with this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> renderer1 <span class="token operator">=</span> <span class="token class-name">UIGraphicsImageRenderer</span><span class="token punctuation">(</span>size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">500</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">500</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> img1 <span class="token operator">=</span> renderer1<span class="token punctuation">.</span>image <span class="token punctuation">{</span> ctx <span class="token keyword">in</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setStrokeColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>white<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setLineWidth</span><span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">)</span>
+You can draw lines in Core Graphics using `move(to:)` and `addLine(to:)`. The first function moves the Core Graphics path to a `CGPoint` of your choosing, and the second function moves the path to a new point while also adding a line. Once you add in the required code to set up a context and choose a color, you can draw a triangle with this code:
 
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">move</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">450</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addLine</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">250</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addLine</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">450</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">450</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addLine</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">450</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+```swift
+let renderer1 = UIGraphicsImageRenderer(size: CGSize(width: 500, height: 500))
+let img1 = renderer1.image { ctx in
+    ctx.cgContext.setStrokeColor(UIColor.white.cgColor)
+    ctx.cgContext.setLineWidth(3)
 
-    <span class="token keyword">let</span> rectangle <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addRect</span><span class="token punctuation">(</span>rectangle<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">drawPath</span><span class="token punctuation">(</span>using<span class="token punctuation">:</span> <span class="token punctuation">.</span>fillStroke<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Once you've mastered drawing basic lines, you can create neat effects by rotating the context as you draw, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> renderer2 <span class="token operator">=</span> <span class="token class-name">UIGraphicsImageRenderer</span><span class="token punctuation">(</span>size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> img2 <span class="token operator">=</span> renderer2<span class="token punctuation">.</span>image <span class="token punctuation">{</span> ctx <span class="token keyword">in</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setStrokeColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>black<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
+    ctx.cgContext.move(to: CGPoint(x: 50, y: 450))
+    ctx.cgContext.addLine(to: CGPoint(x: 250, y: 50))
+    ctx.cgContext.addLine(to: CGPoint(x: 450, y: 450))
+    ctx.cgContext.addLine(to: CGPoint(x: 50, y: 450))
 
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">translateBy</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">)</span>
+    let rectangle = CGRect(x: 0, y: 0, width: 512, height: 512)
+    ctx.cgContext.addRect(rectangle)
+    ctx.cgContext.drawPath(using: .fillStroke)
+}
+```
 
-    <span class="token keyword">var</span> first <span class="token operator">=</span> <span class="token boolean">true</span>
-    <span class="token keyword">var</span> length<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">256</span>
+Once you've mastered drawing basic lines, you can create neat effects by rotating the context as you draw, like this:
 
-    <span class="token keyword">for</span> <span class="token omit keyword">_</span> <span class="token keyword">in</span> <span class="token number">0</span> <span class="token operator">..&lt;</span> <span class="token number">256</span> <span class="token punctuation">{</span>
-        ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">rotate</span><span class="token punctuation">(</span>by<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">.</span>pi <span class="token operator">/</span> <span class="token number">2</span><span class="token punctuation">)</span>
+```swift
+let renderer2 = UIGraphicsImageRenderer(size: CGSize(width: 512, height: 512))
+let img2 = renderer2.image { ctx in
+    ctx.cgContext.setStrokeColor(UIColor.black.cgColor)
 
-        <span class="token keyword">if</span> first <span class="token punctuation">{</span>
-            ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">move</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> length<span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-            first <span class="token operator">=</span> <span class="token boolean">false</span>
-        <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-            ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addLine</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> length<span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
+    ctx.cgContext.translateBy(x: 256, y: 256)
 
-        length <span class="token operator">*=</span> <span class="token number">0.99</span>
-    <span class="token punctuation">}</span>
+    var first = true
+    var length: CGFloat = 256
 
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">strokePath</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+    for _ in 0 ..< 256 {
+        ctx.cgContext.rotate(by: CGFloat.pi / 2)
+
+        if first {
+            ctx.cgContext.move(to: CGPoint(x: length, y: 50))
+            first = false
+        } else {
+            ctx.cgContext.addLine(to: CGPoint(x: length, y: 50))
+        }
+
+        length *= 0.99
+    }
+
+    ctx.cgContext.strokePath()
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect</a></li><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect 
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a>
 -->
 
 :::

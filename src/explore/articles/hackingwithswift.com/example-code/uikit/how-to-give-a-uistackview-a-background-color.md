@@ -59,13 +59,18 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>You can't do this&nbsp;– <code>UIStackView</code> is a non-drawing view, meaning that <code>drawRect()</code> is never called and its background color is ignored. If you desperately want a background color, consider placing the stack view inside another <code>UIView</code> and giving that view a background color.</p>
+You can't do this – `UIStackView` is a non-drawing view, meaning that `drawRect()` is never called and its background color is ignored. If you desperately want a background color, consider placing the stack view inside another `UIView` and giving that view a background color.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage()</a></li><li><a href="/example-code/uikit/how-to-give-uitableviewcells-a-selected-color-other-than-gray">How to give UITableViewCells a selected color other than gray</a></li><li><a href="/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame</a></li><li><a href="/example-code/uicolor/how-to-use-an-image-for-your-background-color-with-uicolorpatternimage">How to use an image for your background color with UIColor(patternImage:)</a></li><li><a href="/quick-start/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more">How to change the background color of List, TextEditor, and more</a></li></ul>
+/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage() 
+/example-code/uikit/how-to-give-uitableviewcells-a-selected-color-other-than-gray">How to give UITableViewCells a selected color other than gray 
+/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame 
+/example-code/uicolor/how-to-use-an-image-for-your-background-color-with-uicolorpatternimage">How to use an image for your background color with UIColor(patternImage:) 
+/quick-start/swiftui/how-to-change-the-background-color-of-list-texteditor-and-more">How to change the background color of List, TextEditor, and more</a>
 -->
 
 :::

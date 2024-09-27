@@ -59,23 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>You can make one view fill all available space inside another by pinning all four of its anchors to the same anchors in its parent container. If you use this when the parent container is the view for your view controller, your child view will fill the screen.</p>
-<p>Although it takes only four lines of code, this is the sort of thing I’d put into an extension:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">UIView</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">pinEdges</span><span class="token punctuation">(</span>to other<span class="token punctuation">:</span> <span class="token class-name">UIView</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        leadingAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> other<span class="token punctuation">.</span>leadingAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-        trailingAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> other<span class="token punctuation">.</span>trailingAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-        topAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> other<span class="token punctuation">.</span>topAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-        bottomAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> other<span class="token punctuation">.</span>bottomAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>You can now call <code>pinEdges(to: someOtherView)</code> directly on the view you want to adjust.</p>
+You can make one view fill all available space inside another by pinning all four of its anchors to the same anchors in its parent container. If you use this when the parent container is the view for your view controller, your child view will fill the screen.
+
+Although it takes only four lines of code, this is the sort of thing I’d put into an extension:
+
+```swift
+extension UIView {
+    func pinEdges(to other: UIView) {
+        leadingAnchor.constraint(equalTo: other.leadingAnchor).isActive = true
+        trailingAnchor.constraint(equalTo: other.trailingAnchor).isActive = true
+        topAnchor.constraint(equalTo: other.topAnchor).isActive = true
+        bottomAnchor.constraint(equalTo: other.bottomAnchor).isActive = true
+    }
+}
+```
+
+You can now call `pinEdges(to: someOtherView)` directly on the view you want to adjust.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-position-a-view-using-auto-layout-anchors">How to position a view using Auto Layout anchors</a></li><li><a href="/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time</a></li><li><a href="/example-code/uikit/how-to-adjust-image-content-mode-using-aspect-fill-aspect-fit-and-scaling">How to adjust image content mode using aspect fill, aspect fit and scaling</a></li><li><a href="/example-code/uikit/whats-the-difference-between-leading-trailing-left-and-right-anchors">What’s the difference between leading, trailing, left, and right anchors?</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li></ul>
+/example-code/uikit/how-to-position-a-view-using-auto-layout-anchors">How to position a view using Auto Layout anchors 
+/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time 
+/example-code/uikit/how-to-adjust-image-content-mode-using-aspect-fill-aspect-fit-and-scaling">How to adjust image content mode using aspect fill, aspect fit and scaling 
+/example-code/uikit/whats-the-difference-between-leading-trailing-left-and-right-anchors">What’s the difference between leading, trailing, left, and right anchors? 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a>
 -->
 
 :::

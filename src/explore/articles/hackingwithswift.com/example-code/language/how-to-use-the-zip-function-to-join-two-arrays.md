@@ -59,30 +59,59 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>zip()</code> function is designed to merge two sequences into a single sequence of tuples. For example, here is an array of wizards:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> wizards1 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Harry"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Ron"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Hermione"</span></span><span class="token punctuation">]</span></code></pre>
-<p>And here’s a matching array of the animals owned by those wizards:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> animals1 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Hedwig"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Scabbers"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Crookshanks"</span></span><span class="token punctuation">]</span></code></pre>
-<p>Using <code>zip()</code> we can combine them together:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> combined1 <span class="token operator">=</span> <span class="token function">zip</span><span class="token punctuation">(</span>wizards1<span class="token punctuation">,</span> animals1<span class="token punctuation">)</span></code></pre>
-<p>That will produce a single sequence combining the earlier two. To avoid doing extra work, Swift actually creates a special type called <code>Zip2Sequence</code> that stores both sequences internally –&nbsp;this is more efficient than doing the actual joining, but it does make the output harder to read if you’re using a playground. So, if you <em>are</em> using a playground you should wrap the output from <code>zip()</code> into a new array to make its output easier to read:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> combined2 <span class="token operator">=</span> <span class="token class-name">Array</span><span class="token punctuation">(</span><span class="token function">zip</span><span class="token punctuation">(</span>wizards1<span class="token punctuation">,</span> animals1<span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>If you print <code>combined</code> you’ll see it contains this array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token punctuation">[</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Harry"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Hedwig"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Ron"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Scabbers"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Hermione"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Crookshanks"</span></span><span class="token punctuation">)</span><span class="token punctuation">]</span></code></pre>
-<p>One of the helpful features of <code>zip()</code> is that if your two arrays differ in size it will automatically choose the shorter of the two. This avoids trying to read two arrays at the same time and accidentally going out of bounds when one is shorter.</p>
-<p>For example, this code will print out the animals belonging to the first three wizards, but nothing for Draco because he doesn’t have a matching animal:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> wizards2 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Harry"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Ron"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Hermione"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Draco"</span></span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> animals2 <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Hedwig"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Scabbers"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Crookshanks"</span></span><span class="token punctuation">]</span>
+The `zip()` function is designed to merge two sequences into a single sequence of tuples. For example, here is an array of wizards:
 
-<span class="token keyword">for</span> <span class="token punctuation">(</span>wizard<span class="token punctuation">,</span> animal<span class="token punctuation">)</span> <span class="token keyword">in</span> <span class="token function">zip</span><span class="token punctuation">(</span>wizards2<span class="token punctuation">,</span> animals2<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"</span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">wizard</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> has </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">animal</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+```swift
+let wizards1 = ["Harry", "Ron", "Hermione"]
+```
+
+And here’s a matching array of the animals owned by those wizards:
+
+```swift
+let animals1 = ["Hedwig", "Scabbers", "Crookshanks"]
+```
+
+Using `zip()` we can combine them together:
+
+```swift
+let combined1 = zip(wizards1, animals1)
+```
+
+That will produce a single sequence combining the earlier two. To avoid doing extra work, Swift actually creates a special type called `Zip2Sequence` that stores both sequences internally – this is more efficient than doing the actual joining, but it does make the output harder to read if you’re using a playground. So, if you *are* using a playground you should wrap the output from `zip()` into a new array to make its output easier to read:
+
+```swift
+let combined2 = Array(zip(wizards1, animals1))
+```
+
+If you print `combined` you’ll see it contains this array:
+
+```swift
+[("Harry", "Hedwig"), ("Ron", "Scabbers"), ("Hermione", "Crookshanks")]
+```
+
+One of the helpful features of `zip()` is that if your two arrays differ in size it will automatically choose the shorter of the two. This avoids trying to read two arrays at the same time and accidentally going out of bounds when one is shorter.
+
+For example, this code will print out the animals belonging to the first three wizards, but nothing for Draco because he doesn’t have a matching animal:
+
+```swift
+let wizards2 = ["Harry", "Ron", "Hermione", "Draco"]
+let animals2 = ["Hedwig", "Scabbers", "Crookshanks"]
+
+for (wizard, animal) in zip(wizards2, animals2) {
+    print("\(wizard) has \(animal)")
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-join-an-array-of-strings-in-a-natural-way">How to join an array of strings in a natural way</a></li><li><a href="/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string</a></li><li><a href="/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays</a></li><li><a href="/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li></ul>
+/example-code/system/how-to-join-an-array-of-strings-in-a-natural-way">How to join an array of strings in a natural way 
+/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string 
+/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays 
+/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI 
+/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a>
 -->
 
 :::

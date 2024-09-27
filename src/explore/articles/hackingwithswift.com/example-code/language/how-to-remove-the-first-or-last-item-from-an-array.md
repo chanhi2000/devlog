@@ -59,22 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Arrays have built-in methods for removing the first or last items, but there’s a subtle difference between them.</p>
-<p>First, there are two ways of removing the last item: <code>popLast()</code> and <code>removeLast()</code>. Both remove the last item from the array, but <code>popLast()</code> returns an optional –&nbsp;if the array was empty, you get back nil. If you call <code>removeLast()</code> on an empty array, your app crashes.</p>
-<p>So, in this example <code>last1</code> will contain 5 and <code>last2</code> will contain 4:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> numbers <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> last1 <span class="token operator">=</span> numbers<span class="token punctuation">.</span><span class="token function">popLast</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> last2 <span class="token operator">=</span> numbers<span class="token punctuation">.</span><span class="token function">removeLast</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>As for removing items from the start of the array, there’s only <em>one</em> method: <code>removeFirst()</code>. This, like <code>removeLast()</code>, will crash your app if called when the array is empty.</p>
-<p>So, continuing the above example, this will put 1 into <code>first1</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> first1 <span class="token operator">=</span> numbers<span class="token punctuation">.</span><span class="token function">removeFirst</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>There is no <code>popFirst()</code> because it’s an expensive operation and the developers want you to think twice –&nbsp;each time you remove an item from the front the rest of the items have to move down, so trying to use <code>popFirst()</code> in a loop would be inefficient.</p>
+Arrays have built-in methods for removing the first or last items, but there’s a subtle difference between them.
+
+First, there are two ways of removing the last item: `popLast()` and `removeLast()`. Both remove the last item from the array, but `popLast()` returns an optional – if the array was empty, you get back nil. If you call `removeLast()` on an empty array, your app crashes.
+
+So, in this example `last1` will contain 5 and `last2` will contain 4:
+
+```swift
+var numbers = [1, 2, 3, 4, 5]
+let last1 = numbers.popLast()
+let last2 = numbers.removeLast()
+```
+
+As for removing items from the start of the array, there’s only *one* method: `removeFirst()`. This, like `removeLast()`, will crash your app if called when the array is empty.
+
+So, continuing the above example, this will put 1 into `first1`:
+
+```swift
+let first1 = numbers.removeFirst()
+```
+
+There is no `popFirst()` because it’s an expensive operation and the developers want you to think twice – each time you remove an item from the front the rest of the items have to move down, so trying to use `popFirst()` in a loop would be inefficient.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-create-an-array-by-repeating-an-item">How to create an array by repeating an item</a></li><li><a href="/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof">How to find an item in an array using firstIndex(of:)</a></li><li><a href="/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array</a></li><li><a href="/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array</a></li><li><a href="/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a></li></ul>
+/example-code/language/how-to-create-an-array-by-repeating-an-item">How to create an array by repeating an item 
+/example-code/arrays/how-to-find-an-item-in-an-array-using-firstindexof">How to find an item in an array using firstIndex(of:) 
+/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array 
+/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array 
+/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a>
 -->
 
 :::

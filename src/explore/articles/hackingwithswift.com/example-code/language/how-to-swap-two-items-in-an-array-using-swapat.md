@@ -59,18 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you need to have two items in an array change places, the <code>swapAt()</code> method is exactly what you want: provide it two indexes inside your array, and the items at those positions will be swapped.</p>
-<p>For example, consider this array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> names <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Paul"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"John"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"George"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Ringo"</span></span><span class="token punctuation">]</span></code></pre>
-<p>If I wanted John and Paul to swap places, I’d swap positions 0 and 1, like this:</p>
-<pre class=" language-swift"><code class=" language-swift">names<span class="token punctuation">.</span><span class="token function">swapAt</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
-<p>Note: <code>swapAt()</code> will trigger a fatal error if you try to swap beyond the length of the array.</p>
+If you need to have two items in an array change places, the `swapAt()` method is exactly what you want: provide it two indexes inside your array, and the items at those positions will be swapped.
+
+For example, consider this array:
+
+```swift
+var names = ["Paul", "John", "George", "Ringo"]
+```
+
+If I wanted John and Paul to swap places, I’d swap positions 0 and 1, like this:
+
+```swift
+names.swapAt(0, 1)
+```
+
+Note: `swapAt()` will trigger a fatal error if you try to swap beyond the length of the array.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array</a></li><li><a href="/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a></li><li><a href="/example-code/arrays/how-to-enumerate-items-in-an-array">How to enumerate items in an array</a></li><li><a href="/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays</a></li><li><a href="/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a></li></ul>
+/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array 
+/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter() 
+/example-code/arrays/how-to-enumerate-items-in-an-array">How to enumerate items in an array 
+/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays 
+/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a>
 -->
 
 :::

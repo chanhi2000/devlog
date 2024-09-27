@@ -59,18 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>One powerful and under-used feature of SpriteKit is its ability to recolor <code>SKSpriteNodes</code> dynamically. This has almost zero performance impact, which makes it perfect for having multiple-colored enemies or players. It can also be animated, meaning that you could for example make your player flash white briefly when they've been hit by an enemy.</p>
-<p>To tint a sprite cyan, use this code:</p>
-<pre class=" language-swift"><code class=" language-swift">firework<span class="token punctuation">.</span>color <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>cyan
-firework<span class="token punctuation">.</span>colorBlendFactor <span class="token operator">=</span> <span class="token number">1</span></code></pre>
-<p>If you want to animate the sprite coloring, you'd use this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> action <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">colorize</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">,</span> colorBlendFactor<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
+One powerful and under-used feature of SpriteKit is its ability to recolor `SKSpriteNodes` dynamically. This has almost zero performance impact, which makes it perfect for having multiple-colored enemies or players. It can also be animated, meaning that you could for example make your player flash white briefly when they've been hit by an enemy.
+
+To tint a sprite cyan, use this code:
+
+```swift
+firework.color = UIColor.cyan
+firework.colorBlendFactor = 1
+```
+
+If you want to animate the sprite coloring, you'd use this:
+
+```swift
+let action = SKAction.colorize(with: UIColor.red, colorBlendFactor: 1, duration: 1)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode</a></li><li><a href="/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader</a></li><li><a href="/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color">How to read the red, green, and blue values from a Color</a></li></ul>
+/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode 
+/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode 
+/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode 
+/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader 
+/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color">How to read the red, green, and blue values from a Color</a>
 -->
 
 ---

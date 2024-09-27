@@ -59,31 +59,48 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Animation in iOS is done by starting an animation block, then telling iOS what changes you want to make. Because the animation block is active, those changes won't happen straight away – instead, iOS will execute them smoothly over the time you specified, so you don't have to worry when it will finish or what all the intermediate states are.</p>
-<p>Here's a basic example to make a view fade out:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> viewToAnimate <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+Animation in iOS is done by starting an animation block, then telling iOS what changes you want to make. Because the animation block is active, those changes won't happen straight away – instead, iOS will execute them smoothly over the time you specified, so you don't have to worry when it will finish or what all the intermediate states are.
 
-<span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    viewToAnimate<span class="token punctuation">.</span>alpha <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If you want to remove the view from its superview once the fade has finished, you can use a more advanced version of the same method that gives you a completion block –&nbsp;a closure that will be run once the animation finishes. Here's how that looks:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> animations<span class="token punctuation">:</span> <span class="token punctuation">{</span>
-    viewToAnimate<span class="token punctuation">.</span>alpha <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token omit keyword">_</span> <span class="token keyword">in</span>
-    viewToAnimate<span class="token punctuation">.</span><span class="token function">removeFromSuperview</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>You can also specify a delay before the animation starts, and even control the acceleration and deceleration curves of the animation, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> delay<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>curveEaseIn<span class="token punctuation">,</span> animations<span class="token punctuation">:</span> <span class="token punctuation">{</span>
-    viewToAnimate<span class="token punctuation">.</span>alpha <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token omit keyword">_</span> <span class="token keyword">in</span>
-    viewToAnimate<span class="token punctuation">.</span><span class="token function">removeFromSuperview</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+Here's a basic example to make a view fade out:
+
+```swift
+let viewToAnimate = UIView()
+
+UIView.animate(withDuration: 1) {
+    viewToAnimate.alpha = 0
+}
+```
+
+If you want to remove the view from its superview once the fade has finished, you can use a more advanced version of the same method that gives you a completion block – a closure that will be run once the animation finishes. Here's how that looks:
+
+```swift
+UIView.animate(withDuration: 1, animations: {
+    viewToAnimate.alpha = 0
+}) { _ in
+    viewToAnimate.removeFromSuperview()
+}
+```
+
+You can also specify a delay before the animation starts, and even control the acceleration and deceleration curves of the animation, like this:
+
+```swift
+UIView.animate(withDuration: 1, delay: 1, options: .curveEaseIn, animations: {
+    viewToAnimate.alpha = 0
+}) { _ in
+    viewToAnimate.removeFromSuperview()
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-animate-views-with-spring-damping-using-animatewithduration">How to animate views with spring damping using animate(withDuration:)</a></li><li><a href="/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator</a></li><li><a href="/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a></li><li><a href="/example-code/uikit/how-to-animate-a-blur-effect-using-uivisualeffectview">How to animate a blur effect using UIVisualEffectView</a></li><li><a href="/quick-start/swiftui/how-to-animate-the-size-of-text">How to animate the size of text</a></li></ul>
+/example-code/uikit/how-to-animate-views-with-spring-damping-using-animatewithduration">How to animate views with spring damping using animate(withDuration:) 
+/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator 
+/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:) 
+/example-code/uikit/how-to-animate-a-blur-effect-using-uivisualeffectview">How to animate a blur effect using UIVisualEffectView 
+/quick-start/swiftui/how-to-animate-the-size-of-text">How to animate the size of text</a>
 -->
 
 :::

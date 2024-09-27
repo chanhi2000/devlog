@@ -392,4 +392,20 @@ tag:
 
 ---
 
+## Unix Foo Essays - unix.foo
+
+- [The Insecurity of Debian.](https://unix.foo/posts/insecurity-of-debian/)
+
+<!-- END: unix.foo -->
+
+---
+
+## 폴시랩
+
+- [Ubuntu를 사용하는 NGINX 웹 서버에 HTTP/3 설정하기](https://falsy.me/ubuntu%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-nginx-%ec%9b%b9-%ec%84%9c%eb%b2%84%ec%97%90-http-3-%ec%84%a4%ec%a0%95%ed%95%98%ea%b8%b0/)
+
+<!-- END: falsy.me -->
+
+---
+
 <TagLinks />

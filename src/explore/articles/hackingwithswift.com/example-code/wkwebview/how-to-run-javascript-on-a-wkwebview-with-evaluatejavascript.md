@@ -59,19 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Using <code>evaluateJavaScript()</code> you can run any JavaScript in a <code>WKWebView</code> and read the result in Swift. This can be any JavaScript you want, which effectively means you can dig right into a page and pull out any kind of information you want.</p>
-<p>Here's an example to get you started:</p>
-<pre class=" language-swift"><code class=" language-swift">webView<span class="token punctuation">.</span><span class="token function">evaluateJavaScript</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"document.getElementById('someElement').innerText"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">(</span>result<span class="token punctuation">,</span> error<span class="token punctuation">)</span> <span class="token keyword">in</span>
-    <span class="token keyword">if</span> error <span class="token operator">==</span> <span class="token nil constant">nil</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>result<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+Using `evaluateJavaScript()` you can run any JavaScript in a `WKWebView` and read the result in Swift. This can be any JavaScript you want, which effectively means you can dig right into a page and pull out any kind of information you want.
+
+Here's an example to get you started:
+
+```swift
+webView.evaluateJavaScript("document.getElementById('someElement').innerText") { (result, error) in
+    if error == nil {
+        print(result)
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-run-javascript-on-a-uiwebview-with-stringbyevaluatingjavascriptfrom">How to run JavaScript on a UIWebView with stringByEvaluatingJavaScript(from:)</a></li><li><a href="/example-code/wkwebview/how-to-control-the-user-interface-of-a-wkwebview-using-wkuidelegate">How to control the user interface of a WKWebView using WKUIDelegate</a></li><li><a href="/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView?</a></li><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li><li><a href="/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing">How to monitor WKWebView page load progress using key-value observing</a></li></ul>
+/example-code/uikit/how-to-run-javascript-on-a-uiwebview-with-stringbyevaluatingjavascriptfrom">How to run JavaScript on a UIWebView with stringByEvaluatingJavaScript(from:) 
+/example-code/wkwebview/how-to-control-the-user-interface-of-a-wkwebview-using-wkuidelegate">How to control the user interface of a WKWebView using WKUIDelegate 
+/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView? 
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing">How to monitor WKWebView page load progress using key-value observing</a>
 -->
 
 :::

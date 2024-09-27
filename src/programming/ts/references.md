@@ -638,11 +638,19 @@ head:
 
 ---
 
-##
+## Open Source at Bloomberg
 
 - [What is `ts-blank-space`?](https://bloomberg.github.io/ts-blank-space/)
 
 <!-- END: bloomberg.github.io -->
+
+---
+
+## 항동킴 Blog
+
+- [\[javascript\] TypeError: Cannot read properties of undefined 오류를 해결하자!](https://jinseong0928.blogspot.com/2024/09/javascript-typeerror-cannot-read.html)
+
+<!-- END: jinseong0928.blogspot.com -->
 
 ---
 

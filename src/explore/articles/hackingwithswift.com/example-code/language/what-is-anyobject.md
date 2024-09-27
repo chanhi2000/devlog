@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>This is one of those things that sounds obvious in retrospect: <code>AnyObject</code> is Swift's way of saying, "I don't mind what type of object you pass in here, it could be a string, it could be a string, it could be a number, it could be an array, or it could be a custom type you defined yourself.</p>
-<p>If you were wondering: the reason numbers work even though they clearly aren't objects is because Swift silently <em>makes</em> them objects when they need to conform to <code>AnyObject</code>. Magic!</p>
+This is one of those things that sounds obvious in retrospect: `AnyObject` is Swift's way of saying, "I don't mind what type of object you pass in here, it could be a string, it could be a string, it could be a number, it could be an array, or it could be a custom type you defined yourself.
+
+If you were wondering: the reason numbers work even though they clearly aren't objects is because Swift silently *makes* them objects when they need to conform to `AnyObject`. Magic!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/whats-the-difference-between-any-and-anyobject">What’s the difference between Any and AnyObject?</a></li><li><a href="/example-code/language/how-to-restrict-a-protocol-to-classes">How to restrict a protocol to classes</a></li><li><a href="/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs?</a></li><li><a href="/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller">How to create a page curl effect using UIPageViewController</a></li><li><a href="/example-code/media/how-to-highlight-text-to-speech-words-being-read-using-avspeechsynthesizer">How to highlight text to speech words being read using AVSpeechSynthesizer</a></li></ul>
+/example-code/language/whats-the-difference-between-any-and-anyobject">What’s the difference between Any and AnyObject? 
+/example-code/language/how-to-restrict-a-protocol-to-classes">How to restrict a protocol to classes 
+/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs? 
+/example-code/uikit/how-to-create-a-page-curl-effect-using-uipageviewcontroller">How to create a page curl effect using UIPageViewController 
+/example-code/media/how-to-highlight-text-to-speech-words-being-read-using-avspeechsynthesizer">How to highlight text to speech words being read using AVSpeechSynthesizer</a>
 -->
 
 :::

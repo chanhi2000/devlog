@@ -12,6 +12,7 @@ tag:
   - blog
   - freecodecamp.org
   - learnk8s.io
+  - milanjovanovic.tech
   - yozm.wishket.com
   - fe-developers.kakaoent.com
   - tech.inflab.com
@@ -46,6 +47,13 @@ head:
   url="https://learnk8s.io/archive"
   logo="https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg"
   preview="https://static.learnk8s.io/6dbec52a8d352b7cd5625cf903bf4de4.png"/>
+
+<SiteInfo
+  name="Milan Jovanović | Helping You Become a Better .NET Engineer"
+  desc="The .NET Weekly is a newsletter that delivers 1 practical tip on .NET & sofwtare architecture that you can easily implement."
+  url="https://milanjovanovic.tech/blog"
+  logo="https://milanjovanovic.tech/profile_favicon.png"
+  preview="https://milanjovanovic.tech/og_image.png"/>
 
 ```component VPCard
 {
@@ -248,6 +256,24 @@ head:
 > learnk8s.io
 
 <!-- END: learnk8s.io -->
+
+---
+
+## Milan Jovanović | Helping You Become a Better .NET Engineer
+
+> milanjovanovic.tech
+
+```component VPCard
+{
+  "title": "Complete Guide to Amazon SQS and Amazon SNS With MassTransit",
+  "desc": "In this article, we'll explore how to use Amazon SQS and SNS for asynchronous messaging in .NET applications. We'll also see how MassTransit simplifies the process, enabling you to build robust message-driven systems.",
+  "link": "/explore/articles/milanjovanovic.tech/complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+<!-- END: milanjovanovic.tech -->
 
 ---
 

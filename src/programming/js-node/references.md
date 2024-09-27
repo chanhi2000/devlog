@@ -534,6 +534,7 @@ tag:
   <!-- END: teveloper -->
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [사이드 프로젝트에서 Node JS를 선택한 이유](https://bbogle2.tistory.com/m/entry/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-Node-JS%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+  - [국가법령정보 API 사용 방법](https://bbogle2.tistory.com/m/entry/%EA%B5%AD%EA%B0%80%EB%B2%95%EB%A0%B9%EC%A0%95%EB%B3%B4-API-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
   <!-- END: bbogle2 -->
 - [`sjquant` / Seonu's](https://sjquant.tistory.com/m/)
   - [HTML을 이미지로 저장하기 - 트러블 슈팅 경험 공유](https://sjquant.tistory.com/m/103)

@@ -80,6 +80,8 @@ head:
 }
 ```
 
+[[toc]]
+
 ---
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
@@ -171,6 +173,16 @@ head:
   "title": "How to Manage your Open Source Project with GitHub",
   "desc": "Managing your repository is one of the most important tasks for every open-source, individual, or proprietary software project. Small open-source project repositories are easily maintained without using additional functionality because few developers...",
   "link": "/explore/articles/freecodecamp.org/how-to-manage-your-open-source-project-with-github.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use SSH to Safely Connect to GitHub: A Simple Guide for Windows OS",
+  "desc": "In this article, we will explore the Secure Shell (SSH) protocol, a vital tool for securing network communications. SSH is widely used for accessing remote servers and managing code repositories securely, particularly in environments like GitHub. You...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-ssh-to-connect-to-github-guide-for-windows.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

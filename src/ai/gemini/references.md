@@ -37,6 +37,12 @@ head:
 
 - [Gemini로 오류 및 경고 이해하기](https://developer.chrome.com/docs/devtools/console/understand-messages)
 
+### Colab
+
+- [`gemini-1.5-pro-api-detection.ipynb`](https://colab.research.google.com/drive/1gSDMO0WrnHkRnZY5FlYUeKUZjESPPIjs)
+
+<!-- END: colab.research.google.com -->
+
 ---
 
 ## Brunch

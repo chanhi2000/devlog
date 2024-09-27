@@ -59,36 +59,50 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Indirect enums are enums that need to reference themselves somehow, and are called “indirect” because they modify the way Swift stores them so they can grow to any size. Without the indirection, any enum that referenced itself could potentially become infinitely sized: it could contain itself again and again, which wouldn’t be possible.</p>
-<p>As an example, here’s an indirect enum that defines a node in a linked list:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">indirect</span> <span class="token keyword">enum</span> <span class="token class-name">LinkedListItem</span><span class="token operator">&lt;</span><span class="token class-name">T</span><span class="token operator">&gt;</span> <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> <span class="token function">endPoint</span><span class="token punctuation">(</span>value<span class="token punctuation">:</span> <span class="token class-name">T</span><span class="token punctuation">)</span>
-    <span class="token keyword">case</span> <span class="token function">linkNode</span><span class="token punctuation">(</span>value<span class="token punctuation">:</span> <span class="token class-name">T</span><span class="token punctuation">,</span> next<span class="token punctuation">:</span> <span class="token class-name">LinkedListItem</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Because that references itself –&nbsp;because one of the associated values is itself a linked list item – we need to mark the enum as being indirect.</p>
-<p>Apart from the special way they store their values internally, indirect enums work identically to regular enums. So, we could make a linked list using that enum and loop over it, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> third <span class="token operator">=</span> <span class="token class-name">LinkedListItem</span><span class="token punctuation">.</span><span class="token function">endPoint</span><span class="token punctuation">(</span>value<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Third"</span></span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> second <span class="token operator">=</span> <span class="token class-name">LinkedListItem</span><span class="token punctuation">.</span><span class="token function">linkNode</span><span class="token punctuation">(</span>value<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Second"</span></span><span class="token punctuation">,</span> next<span class="token punctuation">:</span> third<span class="token punctuation">)</span>
-<span class="token keyword">let</span> first <span class="token operator">=</span> <span class="token class-name">LinkedListItem</span><span class="token punctuation">.</span><span class="token function">linkNode</span><span class="token punctuation">(</span>value<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"First"</span></span><span class="token punctuation">,</span> next<span class="token punctuation">:</span> second<span class="token punctuation">)</span>
+Indirect enums are enums that need to reference themselves somehow, and are called “indirect” because they modify the way Swift stores them so they can grow to any size. Without the indirection, any enum that referenced itself could potentially become infinitely sized: it could contain itself again and again, which wouldn’t be possible.
 
-<span class="token keyword">var</span> currentNode <span class="token operator">=</span> first
+As an example, here’s an indirect enum that defines a node in a linked list:
 
-<span class="token label important">listLoop</span><span class="token punctuation">:</span> <span class="token keyword">while</span> <span class="token boolean">true</span> <span class="token punctuation">{</span>
-    <span class="token keyword">switch</span> currentNode <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> <span class="token punctuation">.</span><span class="token function">endPoint</span><span class="token punctuation">(</span><span class="token keyword">let</span> value<span class="token punctuation">)</span><span class="token punctuation">:</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span>
-        <span class="token keyword">break</span><span class="token label important"> listLoop</span>
-    <span class="token keyword">case</span> <span class="token punctuation">.</span><span class="token function">linkNode</span><span class="token punctuation">(</span><span class="token keyword">let</span> value<span class="token punctuation">,</span> <span class="token keyword">let</span> next<span class="token punctuation">)</span><span class="token punctuation">:</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>value<span class="token punctuation">)</span>
-        currentNode <span class="token operator">=</span> next
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+```swift
+indirect enum LinkedListItem<T> {
+    case endPoint(value: T)
+    case linkNode(value: T, next: LinkedListItem)
+}
+```
+
+Because that references itself – because one of the associated values is itself a linked list item – we need to mark the enum as being indirect.
+
+Apart from the special way they store their values internally, indirect enums work identically to regular enums. So, we could make a linked list using that enum and loop over it, like this:
+
+```swift
+let third = LinkedListItem.endPoint(value: "Third")
+let second = LinkedListItem.linkNode(value: "Second", next: third)
+let first = LinkedListItem.linkNode(value: "First", next: second)
+
+var currentNode = first
+
+listLoop: while true {
+    switch currentNode {
+    case .endPoint(let value):
+        print(value)
+        break listLoop
+    case .linkNode(let value, let next):
+        print(value)
+        currentNode = next
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-add-associated-values-to-enums">How to add associated values to enums</a></li><li><a href="/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums</a></li><li><a href="/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable">How to list all cases in an enum using CaseIterable</a></li><li><a href="/example-code/language/whats-the-difference-between-any-and-anyobject">What’s the difference between Any and AnyObject?</a></li><li><a href="/example-code/language/how-to-create-a-custom-optionset">How to create a custom OptionSet</a></li></ul>
+/example-code/language/how-to-add-associated-values-to-enums">How to add associated values to enums 
+/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums 
+/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable">How to list all cases in an enum using CaseIterable 
+/example-code/language/whats-the-difference-between-any-and-anyobject">What’s the difference between Any and AnyObject? 
+/example-code/language/how-to-create-a-custom-optionset">How to create a custom OptionSet</a>
 -->
 
 :::

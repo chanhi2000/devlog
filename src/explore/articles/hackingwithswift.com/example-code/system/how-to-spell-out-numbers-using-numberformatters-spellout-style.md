@@ -59,20 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>iOS makes it easy to convert numbers like 10 or 100 into their written equivalents: "ten" and "one hundred", and it even handles other languages. For example, to convert the number 556 into "five hundred fifty-six", you would use this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> formatter <span class="token operator">=</span> <span class="token class-name">NumberFormatter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-formatter<span class="token punctuation">.</span>numberStyle <span class="token operator">=</span> <span class="token punctuation">.</span>spellOut
-<span class="token keyword">let</span> english <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">556</span><span class="token punctuation">)</span></code></pre>
-<p>If you wanted to get that in Spanish, you would set a locale like this:</p>
-<pre class=" language-swift"><code class=" language-swift">formatter<span class="token punctuation">.</span>locale <span class="token operator">=</span> <span class="token class-name">Locale</span><span class="token punctuation">(</span>identifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"es_ES"</span></span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> spanish <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">556</span><span class="token punctuation">)</span></code></pre>
-<p>Running that code would make the <code>english</code> constant equal to <code>five hundred fifty-six</code> and the <code>spanish</code> constant equal to <code>quinientos cincuenta y seis</code>.</p>
+iOS makes it easy to convert numbers like 10 or 100 into their written equivalents: "ten" and "one hundred", and it even handles other languages. For example, to convert the number 556 into "five hundred fifty-six", you would use this code:
+
+```swift
+let formatter = NumberFormatter()
+formatter.numberStyle = .spellOut
+let english = formatter.string(from: 556)
+```
+
+If you wanted to get that in Spanish, you would set a locale like this:
+
+```swift
+formatter.locale = Locale(identifier: "es_ES")
+let spanish = formatter.string(from: 556)
+```
+
+Running that code would make the `english` constant equal to `five hundred fifty-six` and the `spanish` constant equal to `quinientos cincuenta y seis`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-format-dates-with-an-ordinal-suffix-using-numberformatters-ordinalstyle">How to format dates with an ordinal suffix using NumberFormatter's ordinalStyle</a></li><li><a href="/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more">How to style text views with fonts, colors, line spacing, and more</a></li><li><a href="/quick-start/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view">How to position and style subviews that come from a different view</a></li><li><a href="/example-code/uikit/how-to-style-the-font-in-a-uinavigationbars-title">How to style the font in a UINavigationBar's title</a></li><li><a href="/example-code/calayer/how-to-make-a-uiview-fade-out">How to make a UIView fade out</a></li></ul>
+/example-code/system/how-to-format-dates-with-an-ordinal-suffix-using-numberformatters-ordinalstyle">How to format dates with an ordinal suffix using NumberFormatter's ordinalStyle 
+/quick-start/swiftui/how-to-style-text-views-with-fonts-colors-line-spacing-and-more">How to style text views with fonts, colors, line spacing, and more 
+/quick-start/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view">How to position and style subviews that come from a different view 
+/example-code/uikit/how-to-style-the-font-in-a-uinavigationbars-title">How to style the font in a UINavigationBar's title 
+/example-code/calayer/how-to-make-a-uiview-fade-out">How to make a UIView fade out</a>
 -->
 
 :::

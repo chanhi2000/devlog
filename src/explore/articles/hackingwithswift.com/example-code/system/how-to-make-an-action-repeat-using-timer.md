@@ -61,29 +61,51 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Timers are a great way to run code on a repeating basis, and iOS has the <code>Timer</code> class to handle it for you. First, create a property of the type <code>Timer?</code>. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> gameTimer<span class="token punctuation">:</span> <span class="token class-name">Timer</span><span class="token operator">?</span></code></pre>
-<p>You can then create that timer in somewhere like <code>viewDidLoad()</code> and tell it to execute every five seconds, like this:</p>
-<pre class=" language-swift"><code class=" language-swift">gameTimer <span class="token operator">=</span> <span class="token class-name">Timer</span><span class="token punctuation">.</span><span class="token function">scheduledTimer</span><span class="token punctuation">(</span>timeInterval<span class="token punctuation">:</span> <span class="token number">5</span><span class="token punctuation">,</span> target<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">,</span> selector<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>runTimedCode<span class="token punctuation">)</span><span class="token punctuation">,</span> userInfo<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">,</span> repeats<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span></code></pre>
-<p>The <code>runTimedCode</code> selector means that the timer will call a method named <code>runTimedCode()</code> every five seconds until the timer is terminated, so you'll need to replace that method name with whatever you want to call –&nbsp;and don’t forget to mark it using <code>@objc</code>.</p>
-<p>Important note: because your object has a property to store the timer, and the timer calls a method on the object, you have a strong reference cycle that means neither object can be freed. To fix this, make sure you invalidate the timer when you're done with it, such as when your view is about to disappear:</p>
-<pre class=" language-swift"><code class=" language-swift">gameTimer<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">invalidate</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>Alternatively, you can create timers that execute a closure rather than calling a method. For example, this creates a timer that executes a closure every second, and inside the closure a random number between 1 and 20 is selected:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">Timer</span><span class="token punctuation">.</span><span class="token function">scheduledTimer</span><span class="token punctuation">(</span>withTimeInterval<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> repeats<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> timer <span class="token keyword">in</span>
-    <span class="token keyword">let</span> randomNumber <span class="token operator">=</span> <span class="token class-name">Int</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token operator">...</span><span class="token number">20</span><span class="token punctuation">)</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Number: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">randomNumber</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
+Timers are a great way to run code on a repeating basis, and iOS has the `Timer` class to handle it for you. First, create a property of the type `Timer?`. For example:
 
-    <span class="token keyword">if</span> randomNumber <span class="token operator">==</span> <span class="token number">10</span> <span class="token punctuation">{</span>
-        timer<span class="token punctuation">.</span><span class="token function">invalidate</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>As you can see, the closure is given a reference to the active timer, and can invalidate it at will –&nbsp;in our case, that’s when the random number is 10.</p>
+```swift
+var gameTimer: Timer?
+```
+
+You can then create that timer in somewhere like `viewDidLoad()` and tell it to execute every five seconds, like this:
+
+```swift
+gameTimer = Timer.scheduledTimer(timeInterval: 5, target: self, selector: #selector(runTimedCode), userInfo: nil, repeats: true)
+```
+
+The `runTimedCode` selector means that the timer will call a method named `runTimedCode()` every five seconds until the timer is terminated, so you'll need to replace that method name with whatever you want to call – and don’t forget to mark it using `@objc`.
+
+Important note: because your object has a property to store the timer, and the timer calls a method on the object, you have a strong reference cycle that means neither object can be freed. To fix this, make sure you invalidate the timer when you're done with it, such as when your view is about to disappear:
+
+```swift
+gameTimer?.invalidate()
+```
+
+Alternatively, you can create timers that execute a closure rather than calling a method. For example, this creates a timer that executes a closure every second, and inside the closure a random number between 1 and 20 is selected:
+
+```swift
+Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { timer in
+    let randomNumber = Int.random(in: 1...20)
+    print("Number: \(randomNumber)")
+
+    if randomNumber == 10 {
+        timer.invalidate()
+    }
+}
+```
+
+As you can see, the closure is given a reference to the active timer, and can invalidate it at will – in our case, that’s when the random number is 10.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed">How to make buttons that repeat their action when pressed</a></li><li><a href="/quick-start/swiftui/how-to-use-a-timer-with-swiftui">How to use a timer with SwiftUI</a></li><li><a href="/example-code/xcode/how-to-repeat-code-when-debugging-using-the-instruction-pointer">How to repeat code when debugging using the instruction pointer</a></li><li><a href="/example-code/strings/how-to-repeat-a-string">How to repeat a string</a></li><li><a href="/quick-start/swiftui/how-to-show-an-action-sheet">How to show an action sheet</a></li></ul>
+/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed">How to make buttons that repeat their action when pressed 
+/quick-start/swiftui/how-to-use-a-timer-with-swiftui">How to use a timer with SwiftUI 
+/example-code/xcode/how-to-repeat-code-when-debugging-using-the-instruction-pointer">How to repeat code when debugging using the instruction pointer 
+/example-code/strings/how-to-repeat-a-string">How to repeat a string 
+/quick-start/swiftui/how-to-show-an-action-sheet">How to show an action sheet</a>
 -->
 
 :::

@@ -59,21 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Raw strings place hash signs – <code>#</code> –&nbsp;before and after their quote mark, and modify the way Swift handles strings in two ways.</p>
-<p>First, a string that starts with <code>#"</code> must <em>end</em> with a <code>"#</code>, which means any quote marks inside the string are ignored:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> string1 <span class="token operator">=</span> <span class="token string-literal"><span class="token string">#"The rain in "Spain" falls mainly on the Spaniards"#</span></span></code></pre>
-<p>Second, any escape sequences –&nbsp;things that start with <code>\</code> –&nbsp;now have their regular meaning. So, this will print one line of text:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> string2 <span class="token operator">=</span> <span class="token string-literal"><span class="token string">#"The rain\nin Spain\nfalls mainly\non the Spaniards"#</span></span></code></pre>
-<p>With a regular Swift string the instances of <code>\n</code> would have been interpreted as line breaks.</p>
-<p>If you want to use escape characters, for example if you want to use string interpolation, you must use <code>\#(yourValue)</code>, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Duane Dibbley"</span></span>
-<span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">#"Hello! My name is </span><span class="token interpolation-punctuation punctuation">\#(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."#</span></span><span class="token punctuation">)</span></code></pre>
+Raw strings place hash signs – `#` – before and after their quote mark, and modify the way Swift handles strings in two ways.
+
+First, a string that starts with `#"` must *end* with a `"#`, which means any quote marks inside the string are ignored:
+
+```swift
+let string1 = #"The rain in "Spain" falls mainly on the Spaniards"#
+```
+
+Second, any escape sequences – things that start with `\` – now have their regular meaning. So, this will print one line of text:
+
+```swift
+let string2 = #"The rain\nin Spain\nfalls mainly\non the Spaniards"#
+```
+
+With a regular Swift string the instances of `\n` would have been interpreted as line breaks.
+
+If you want to use escape characters, for example if you want to use string interpolation, you must use `\#(yourValue)`, like this:
+
+```swift
+let name = "Duane Dibbley"
+print(#"Hello! My name is \#(name)."#)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

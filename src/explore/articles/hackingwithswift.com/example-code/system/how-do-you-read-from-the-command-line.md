@@ -59,26 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you're working on a command-line app for macOS or Linux, you'll probably want to read and manipulate commands typed by the user. This is easy to do using the <code>readLine()</code> function, which reads one line of user input (everything until they hit return) and sends it back to you.</p>
-<p>Note: it's possible for users to enter no input, which is different from an empty string. This means <code>readLine()</code> returns an optional string when you call it, where nil is used to represent "no input".</p>
-<p>Here's some example code to get you started:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Please enter your name:"</span></span><span class="token punctuation">)</span>
+If you're working on a command-line app for macOS or Linux, you'll probably want to read and manipulate commands typed by the user. This is easy to do using the `readLine()` function, which reads one line of user input (everything until they hit return) and sends it back to you.
 
-<span class="token keyword">if</span> <span class="token keyword">let</span> name <span class="token operator">=</span> <span class="token function">readLine</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Hello, </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">!"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Why are you being so coy?"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+Note: it's possible for users to enter no input, which is different from an empty string. This means `readLine()` returns an optional string when you call it, where nil is used to represent "no input".
 
-<span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"TTFN!"</span></span><span class="token punctuation">)</span></code></pre>
-<p>When that example is run, you'll see the first <code>print()</code> message, then the program will pause until the user has entered some text and pressed return. If they entered any text at all, including an empty string, they'll see the "Hello" output. If they entered no text – try it yourself by pressing Ctrl+D to trigger an "end of file" signal – they'll get the other message. Regardless of what they press, they'll see the final "TTFN!" message before the program finishes.</p>
-<p>It should go without saying that command-line input is not available on iOS. Maybe in iOS 15…</p>
+Here's some example code to get you started:
+
+```swift
+print("Please enter your name:")
+
+if let name = readLine() {
+    print("Hello, \(name)!")
+} else {
+    print("Why are you being so coy?")
+}
+
+print("TTFN!")
+```
+
+When that example is run, you'll see the first `print()` message, then the program will pause until the user has entered some text and pressed return. If they entered any text at all, including an empty string, they'll see the "Hello" output. If they entered no text – try it yourself by pressing Ctrl+D to trigger an "end of file" signal – they'll get the other message. Regardless of what they press, they'll see the final "TTFN!" message before the program finishes.
+
+It should go without saying that command-line input is not available on iOS. Maybe in iOS 15…
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/concurrency/how-to-make-async-command-line-tools-and-scripts">How to make async command-line tools and scripts</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/concurrency/how-to-make-async-command-line-tools-and-scripts">How to make async command-line tools and scripts 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

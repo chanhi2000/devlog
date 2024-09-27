@@ -59,28 +59,41 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>It's not hard to save an image straight to the user's photo library, but I have to admit the syntax isn't immediately obvious! iOS has a function called <code>UIImageWriteToSavedPhotosAlbum()</code> that takes four parameters: parameter one is the image to save, parameters two and three set a delegate and selector to send when the image has been written successfully, and parameter four is any additional context information you wan to send.</p>
-<p>For example, you might use it like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIImageWriteToSavedPhotosAlbum</span><span class="token punctuation">(</span>yourImage<span class="token punctuation">,</span> <span class="token keyword">self</span><span class="token punctuation">,</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span><span class="token function">image</span><span class="token punctuation">(</span><span class="token omit keyword">_</span><span class="token punctuation">:</span>didFinishSavingWithError<span class="token punctuation">:</span>contextInfo<span class="token punctuation">:</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span></code></pre>
-<p>That will write the image to the photo library, then call a method when it completes. That method needs to be named very precisely, which is where it's easy to go wrong. Using the call above, you need to write your callback method like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token attribute atrule">@objc</span> <span class="token keyword">func</span> <span class="token function-definition function">image</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> image<span class="token punctuation">:</span> <span class="token class-name">UIImage</span><span class="token punctuation">,</span> didFinishSavingWithError error<span class="token punctuation">:</span> <span class="token class-name">NSError</span><span class="token operator">?</span><span class="token punctuation">,</span> contextInfo<span class="token punctuation">:</span> <span class="token class-name">UnsafeRawPointer</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">if</span> <span class="token keyword">let</span> error <span class="token operator">=</span> error <span class="token punctuation">{</span>
-        <span class="token comment">// we got back an error!</span>
-        <span class="token keyword">let</span> ac <span class="token operator">=</span> <span class="token class-name">UIAlertController</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Save error"</span></span><span class="token punctuation">,</span> message<span class="token punctuation">:</span> error<span class="token punctuation">.</span>localizedDescription<span class="token punctuation">,</span> preferredStyle<span class="token punctuation">:</span> <span class="token punctuation">.</span>alert<span class="token punctuation">)</span>
-        ac<span class="token punctuation">.</span><span class="token function">addAction</span><span class="token punctuation">(</span><span class="token class-name">UIAlertAction</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"OK"</span></span><span class="token punctuation">,</span> style<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token function">present</span><span class="token punctuation">(</span>ac<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> ac <span class="token operator">=</span> <span class="token class-name">UIAlertController</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Saved!"</span></span><span class="token punctuation">,</span> message<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Your altered image has been saved to your photos."</span></span><span class="token punctuation">,</span> preferredStyle<span class="token punctuation">:</span> <span class="token punctuation">.</span>alert<span class="token punctuation">)</span>
-        ac<span class="token punctuation">.</span><span class="token function">addAction</span><span class="token punctuation">(</span><span class="token class-name">UIAlertAction</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"OK"</span></span><span class="token punctuation">,</span> style<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token function">present</span><span class="token punctuation">(</span>ac<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+It's not hard to save an image straight to the user's photo library, but I have to admit the syntax isn't immediately obvious! iOS has a function called `UIImageWriteToSavedPhotosAlbum()` that takes four parameters: parameter one is the image to save, parameters two and three set a delegate and selector to send when the image has been written successfully, and parameter four is any additional context information you wan to send.
+
+For example, you might use it like this:
+
+```swift
+UIImageWriteToSavedPhotosAlbum(yourImage, self, #selector(image(_:didFinishSavingWithError:contextInfo:)), nil)
+```
+
+That will write the image to the photo library, then call a method when it completes. That method needs to be named very precisely, which is where it's easy to go wrong. Using the call above, you need to write your callback method like this:
+
+```swift
+@objc func image(_ image: UIImage, didFinishSavingWithError error: NSError?, contextInfo: UnsafeRawPointer) {
+    if let error = error {
+        // we got back an error!
+        let ac = UIAlertController(title: "Save error", message: error.localizedDescription, preferredStyle: .alert)
+        ac.addAction(UIAlertAction(title: "OK", style: .default))
+        present(ac, animated: true)
+    } else {
+        let ac = UIAlertController(title: "Saved!", message: "Your altered image has been saved to your photos.", preferredStyle: .alert)
+        ac.addAction(UIAlertAction(title: "OK", style: .default))
+        present(ac, animated: true)
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController</a></li><li><a href="/example-code/uikit/how-to-take-a-photo-using-the-camera-and-uiimagepickercontroller">How to take a photo using the camera and UIImagePickerController</a></li><li><a href="/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a></li><li><a href="/example-code/language/what-is-copy-on-write">What is copy on write?</a></li><li><a href="/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a></li></ul>
+/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController 
+/example-code/uikit/how-to-take-a-photo-using-the-camera-and-uiimagepickercontroller">How to take a photo using the camera and UIImagePickerController 
+/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:) 
+/example-code/language/what-is-copy-on-write">What is copy on write? 
+/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a>
 -->
 
 :::

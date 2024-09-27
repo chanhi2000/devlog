@@ -59,65 +59,97 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Broadly speaking, <code>NSCoding</code> is the Objective-C way of archiving data and <code>Codable</code> is the Swift way. However, that doesn’t mean the two can’t work together –&nbsp;with a little work you can save any <code>NSCoding</code> data right inside <code>Codable</code>, which is helpful because many Apple types such as <code>UIColor</code> and <code>UIImage</code> conform to <code>NSCoding</code> but not <code>Codable</code>.</p>
-<p>Here’s a simple struct as an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> name<span class="token punctuation">:</span> <span class="token class-name">String</span>
-    <span class="token keyword">var</span> favoriteColor<span class="token punctuation">:</span> <span class="token class-name">UIColor</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That stores one <code>Codable</code> type (the string) and one <code>NSCoding</code> type (the color), and we’re going to make them all work through <code>Codable</code> using <code>JSONEncoder</code>.</p>
-<p>This takes four steps:</p>
-<ol>
-<li>Creating an extension on <code>Person</code> where we’ll put our <code>Codable</code> functionality.</li>
-<li>Creating custom coding keys to describe what data is saved.</li>
-<li>Creating an <code>init(from:)</code> method that converts raw data back into a <code>UIColor</code>.</li>
-<li>Creating an <code>encode(to:)</code> method that converts a <code>UIColor</code> into raw data, which <code>Codable</code> can then base-64 encode.</li>
-</ol>
-<p>Start by adding the extension to <code>Person</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">Person</span><span class="token punctuation">:</span> <span class="token class-name">Codable</span> <span class="token punctuation">{</span>
+Broadly speaking, `NSCoding` is the Objective-C way of archiving data and `Codable` is the Swift way. However, that doesn’t mean the two can’t work together – with a little work you can save any `NSCoding` data right inside `Codable`, which is helpful because many Apple types such as `UIColor` and `UIImage` conform to `NSCoding` but not `Codable`.
 
-<span class="token punctuation">}</span></code></pre>
-<p>That will stop your code from compiling because Swift knows <code>UIColor</code> isn’t compatible with <code>Codable</code>. So, let’s move on to step two: adding custom coding keys. Put this inside the extension:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">enum</span> <span class="token class-name">CodingKeys</span><span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> <span class="token class-name">CodingKey</span> <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> name
-    <span class="token keyword">case</span> favoriteColor
-<span class="token punctuation">}</span></code></pre>
-<p>Those are just the same coding keys we’d get by default, but because we’re going to be encoding and decoding things by hand we need to declare them explicitly.</p>
-<p>Step three is to create an <code>init(from:)</code> method that can read raw data and convert it to a <code>UIColor</code>. This will used <code>NSKeyedUnarchiver</code> just like regular <code>NSCoding</code> code. Add this to the extension:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">init</span><span class="token punctuation">(</span>from decoder<span class="token punctuation">:</span> <span class="token class-name">Decoder</span><span class="token punctuation">)</span> <span class="token keyword">throws</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> container <span class="token operator">=</span> <span class="token keyword">try</span> decoder<span class="token punctuation">.</span><span class="token function">container</span><span class="token punctuation">(</span>keyedBy<span class="token punctuation">:</span> <span class="token class-name">CodingKeys</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">)</span>
+Here’s a simple struct as an example:
 
-    name <span class="token operator">=</span> <span class="token keyword">try</span> container<span class="token punctuation">.</span><span class="token function">decode</span><span class="token punctuation">(</span><span class="token class-name">String</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token punctuation">.</span>name<span class="token punctuation">)</span>
+```swift
+struct Person {
+    var name: String
+    var favoriteColor: UIColor
+}
+```
 
-    <span class="token keyword">let</span> colorData <span class="token operator">=</span> <span class="token keyword">try</span> container<span class="token punctuation">.</span><span class="token function">decode</span><span class="token punctuation">(</span><span class="token class-name">Data</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token punctuation">.</span>favoriteColor<span class="token punctuation">)</span>
-    favoriteColor <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">NSKeyedUnarchiver</span><span class="token punctuation">.</span><span class="token function">unarchiveTopLevelObjectWithData</span><span class="token punctuation">(</span>colorData<span class="token punctuation">)</span> <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">UIColor</span> <span class="token operator">??</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>black
-<span class="token punctuation">}</span></code></pre>
-<p>The last step is to create an <code>encode(to:)</code> method that does the opposite –&nbsp;it takes a <code>UIColor</code> and converts it to data using <code>NSKeyedArchiver</code>. Put this inside the extension:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">encode</span><span class="token punctuation">(</span>to encoder<span class="token punctuation">:</span> <span class="token class-name">Encoder</span><span class="token punctuation">)</span> <span class="token keyword">throws</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> container <span class="token operator">=</span> encoder<span class="token punctuation">.</span><span class="token function">container</span><span class="token punctuation">(</span>keyedBy<span class="token punctuation">:</span> <span class="token class-name">CodingKeys</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">)</span>
-    <span class="token keyword">try</span> container<span class="token punctuation">.</span><span class="token function">encode</span><span class="token punctuation">(</span>name<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token punctuation">.</span>name<span class="token punctuation">)</span>
+That stores one `Codable` type (the string) and one `NSCoding` type (the color), and we’re going to make them all work through `Codable` using `JSONEncoder`.
 
-    <span class="token keyword">let</span> colorData <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">NSKeyedArchiver</span><span class="token punctuation">.</span><span class="token function">archivedData</span><span class="token punctuation">(</span>withRootObject<span class="token punctuation">:</span> favoriteColor<span class="token punctuation">,</span> requiringSecureCoding<span class="token punctuation">:</span> <span class="token boolean">false</span><span class="token punctuation">)</span>
-    <span class="token keyword">try</span> container<span class="token punctuation">.</span><span class="token function">encode</span><span class="token punctuation">(</span>colorData<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token punctuation">.</span>favoriteColor<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That’s all the work done – by converting our <code>UIColor</code> into a <code>Data</code>, <code>Codable</code> can take care of the rest.</p>
-<p>If you want to try it out, here’s some sample code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> taylor <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span><span class="token punctuation">,</span> favoriteColor<span class="token punctuation">:</span> <span class="token punctuation">.</span>blue<span class="token punctuation">)</span>
-<span class="token keyword">let</span> encoder <span class="token operator">=</span> <span class="token class-name">JSONEncoder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+This takes four steps:
 
-<span class="token keyword">do</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> encoded <span class="token operator">=</span> <span class="token keyword">try</span> encoder<span class="token punctuation">.</span><span class="token function">encode</span><span class="token punctuation">(</span>taylor<span class="token punctuation">)</span>
-    <span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token class-name">String</span><span class="token punctuation">(</span>decoding<span class="token punctuation">:</span> encoded<span class="token punctuation">,</span> <span class="token keyword">as</span><span class="token punctuation">:</span> UTF8<span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">)</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>str<span class="token punctuation">)</span>
-<span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>error<span class="token punctuation">.</span>localizedDescription<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+1. Creating an extension on `Person` where we’ll put our `Codable` functionality.
+<li>Creating custom coding keys to describe what data is saved.
+<li>Creating an `init(from:)` method that converts raw data back into a `UIColor`.
+<li>Creating an `encode(to:)` method that converts a `UIColor` into raw data, which `Codable` can then base-64 encode.
+
+Start by adding the extension to `Person`:
+
+```swift
+extension Person: Codable {
+
+}
+```
+
+That will stop your code from compiling because Swift knows `UIColor` isn’t compatible with `Codable`. So, let’s move on to step two: adding custom coding keys. Put this inside the extension:
+
+```swift
+enum CodingKeys: String, CodingKey {
+    case name
+    case favoriteColor
+}
+```
+
+Those are just the same coding keys we’d get by default, but because we’re going to be encoding and decoding things by hand we need to declare them explicitly.
+
+Step three is to create an `init(from:)` method that can read raw data and convert it to a `UIColor`. This will used `NSKeyedUnarchiver` just like regular `NSCoding` code. Add this to the extension:
+
+```swift
+init(from decoder: Decoder) throws {
+    let container = try decoder.container(keyedBy: CodingKeys.self)
+
+    name = try container.decode(String.self, forKey: .name)
+
+    let colorData = try container.decode(Data.self, forKey: .favoriteColor)
+    favoriteColor = try NSKeyedUnarchiver.unarchiveTopLevelObjectWithData(colorData) as? UIColor ?? UIColor.black
+}
+```
+
+The last step is to create an `encode(to:)` method that does the opposite – it takes a `UIColor` and converts it to data using `NSKeyedArchiver`. Put this inside the extension:
+
+```swift
+func encode(to encoder: Encoder) throws {
+    var container = encoder.container(keyedBy: CodingKeys.self)
+    try container.encode(name, forKey: .name)
+
+    let colorData = try NSKeyedArchiver.archivedData(withRootObject: favoriteColor, requiringSecureCoding: false)
+    try container.encode(colorData, forKey: .favoriteColor)
+}
+```
+
+That’s all the work done – by converting our `UIColor` into a `Data`, `Codable` can take care of the rest.
+
+If you want to try it out, here’s some sample code:
+
+```swift
+let taylor = Person(name: "Taylor Swift", favoriteColor: .blue)
+let encoder = JSONEncoder()
+
+do {
+    let encoded = try encoder.encode(taylor)
+    let str = String(decoding: encoded, as: UTF8.self)
+    print(str)
+} catch {
+    print(error.localizedDescription)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/concurrency/how-to-store-continuations-to-be-resumed-later">How to store continuations to be resumed later</a></li><li><a href="/example-code/system/how-to-store-userdefaults-options-in-icloud">How to store UserDefaults options in iCloud</a></li><li><a href="/quick-start/swiftui/how-to-store-views-as-properties">How to store views as properties</a></li><li><a href="/example-code/language/how-to-use-codable-to-load-and-save-custom-data-types">How to use Codable to load and save custom data types</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/concurrency/how-to-store-continuations-to-be-resumed-later">How to store continuations to be resumed later 
+/example-code/system/how-to-store-userdefaults-options-in-icloud">How to store UserDefaults options in iCloud 
+/quick-start/swiftui/how-to-store-views-as-properties">How to store views as properties 
+/example-code/language/how-to-use-codable-to-load-and-save-custom-data-types">How to use Codable to load and save custom data types</a>
 -->
 
 :::

@@ -59,19 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>String interpolation is Swift's way of letting you insert variables and constants into strings. But at the same time, you can also perform simple operations as part of your interpolation, such as changing letter case and basic mathematics. Swift is also smart enough to understand <em>how</em> to bring values into strings, meaning that you can use other strings, integers and floating-point numbers just fine.</p>
-<p>Here's an example to get you started:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Paul"</span></span>
-<span class="token keyword">let</span> age <span class="token operator">=</span> <span class="token number">35</span>
-<span class="token keyword">let</span> longestPi <span class="token operator">=</span> <span class="token number">3.141592654</span>
+String interpolation is Swift's way of letting you insert variables and constants into strings. But at the same time, you can also perform simple operations as part of your interpolation, such as changing letter case and basic mathematics. Swift is also smart enough to understand *how* to bring values into strings, meaning that you can use other strings, integers and floating-point numbers just fine.
 
-<span class="token keyword">let</span> combined <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"This person's name is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name<span class="token punctuation">.</span><span class="token function">uppercased</span><span class="token punctuation">(</span><span class="token punctuation">)</span></span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, their age is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> so in </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> years time they'll be </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">age <span class="token operator">+</span> age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, and they know π up to </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">longestPi</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span></code></pre>
+Here's an example to get you started:
+
+```swift
+let name = "Paul"
+let age = 35
+let longestPi = 3.141592654
+
+let combined = "This person's name is \(name.uppercased()), their age is \(age) so in \(age) years time they'll be \(age + age), and they know π up to \(longestPi)"
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a>
 -->
 
 :::

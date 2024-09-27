@@ -641,10 +641,12 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "lvwerra/trl",
+    "repo": "huggingface/trl",
     "desc": "Train transformer language models with reinforcement learning.",
+    "officialSite": "http://hf.co/docs/trl",
     "topics": [],
-    "officialSite": "http://hf.co/docs/trl"
+    "avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
+    "banner": ""
   }, {
     "repo": "abetlen/llama-cpp-python",
     "desc": "Python bindings for llama.cpp",
@@ -8048,6 +8050,48 @@
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
+    "banner": ""
+  }, {
+    "repo": "meta-llama/llama-models",
+    "desc": "Utilities intended for use with Llama models.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
+    "banner": ""
+  }, {
+    "repo": "feizc/FluxMusic",
+    "desc": "Text-to-Music Generation with Rectified Flow Transformers",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/37614046?v=4",
+    "banner": ""
+  }, {
+    "repo": "gpt-omni/mini-omni",
+    "desc": "open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities. ",
+    "officialSite": "https://arxiv.org/abs/2408.16725",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/179588833?v=4",
+    "banner": ""
+  }, {
+    "repo": "tsterbak/promptmage",
+    "desc": "simplifies the process of creating and managing LLM workflows.",
+    "officialSite": "https://promptmage.io",
+    "topics": ["ai", "llm", "nlp-library", "nlp-machine-learning", "prompt-engineering", "prompt-toolkit"],
+    "avatar": "https://avatars.githubusercontent.com/u/13310865?v=4",
+    "banner": ""
+  }, {
+    "repo": "cle-b/httpdbg",
+    "desc": "A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.",
+    "officialSite": "https://httpdbg.readthedocs.io/",
+    "topics": ["aiohttp", "debug", "http", "httpdbg", "httpx", "pyhttpdbg", "pytest", "python", "python-requests", "requests", "rest", "rest-api", "tools", "urllib3"],
+    "avatar": "https://avatars.githubusercontent.com/u/26198764?v=4",
+    "banner": ""
+  }, {
+    "repo": "microsoft/RD-Agent",
+    "desc": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.",
+    "officialSite": "https://rdagent.azurewebsites.net/",
+    "topics": ["agent", "ai", "automation", "data-mining", "data-science", "development", "llm", "research"],
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "banner": ""
   }
 ]

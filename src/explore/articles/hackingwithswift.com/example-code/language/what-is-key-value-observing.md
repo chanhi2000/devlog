@@ -59,30 +59,52 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Key-value observing is the ability for Swift to attach code to variables, so that whenever the variable is changed the code runs. It’s similar to property observers (<code>willSet</code> and <code>didSet</code> ), except KVO is for adding observers <em>outside</em> of the type definition.</p>
-<p>KVO isn’t terribly nice in pure Swift code, because it relies on the Objective-C runtime – you need to use <code>@objc</code> classes that inherit from <code>NSObject</code>, then mark each of your properties with <code>@objc dynamic</code>.</p>
-<p>For example, we could create a <code>Person</code> class like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token attribute atrule">@objc</span> <span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">:</span> <span class="token class-name">NSObject</span> <span class="token punctuation">{</span>
-    <span class="token attribute atrule">@objc</span> <span class="token keyword">dynamic</span> <span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span>
-<span class="token punctuation">}</span>
+Key-value observing is the ability for Swift to attach code to variables, so that whenever the variable is changed the code runs. It’s similar to property observers (`willSet` and `didSet` ), except KVO is for adding observers *outside* of the type definition.
 
-<span class="token keyword">let</span> taylor <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>You could then observe that user’s name changing like this:</p>
-<pre class=" language-swift"><code class=" language-swift">taylor<span class="token punctuation">.</span><span class="token function">observe</span><span class="token punctuation">(</span><span class="token punctuation">\</span><span class="token class-name">Person</span><span class="token punctuation">.</span>name<span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>new<span class="token punctuation">)</span> <span class="token punctuation">{</span> person<span class="token punctuation">,</span> change <span class="token keyword">in</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"I'm now called </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">person<span class="token punctuation">.</span>name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That asks Swift to watch for new values coming in, then prints the person’s name as soon as the new value is set.</p>
-<p>To try it out, just change the person’s name to something else:</p>
-<pre class=" language-swift"><code class=" language-swift">taylor<span class="token punctuation">.</span>name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Justin Bieber"</span></span></code></pre>
-<p>That will print “I’m now called Justin Bieber.”</p>
-<p>Although KVO is unpleasant in pure Swift code, it’s better when working with Apple’s own APIs – they are all automatically both <code>@objc</code> and <code>dynamic</code> because they are written in Objective-C. </p>
-<p>However, one warning: even though large parts of UIKit might work with KVO, this is a coincidence rather than a promise – Apple make no guarantees about UIKit remaining KVO-compatible in the future.</p>
+KVO isn’t terribly nice in pure Swift code, because it relies on the Objective-C runtime – you need to use `@objc` classes that inherit from `NSObject`, then mark each of your properties with `@objc dynamic`.
+
+For example, we could create a `Person` class like this:
+
+```swift
+@objc class Person: NSObject {
+    @objc dynamic var name = "Taylor Swift"
+}
+
+let taylor = Person()
+```
+
+You could then observe that user’s name changing like this:
+
+```swift
+taylor.observe(\Person.name, options: .new) { person, change in
+    print("I'm now called \(person.name)")
+}
+```
+
+That asks Swift to watch for new values coming in, then prints the person’s name as soon as the new value is set.
+
+To try it out, just change the person’s name to something else:
+
+```swift
+taylor.name = "Justin Bieber"
+```
+
+That will print “I’m now called Justin Bieber.”
+
+Although KVO is unpleasant in pure Swift code, it’s better when working with Apple’s own APIs – they are all automatically both `@objc` and `dynamic` because they are written in Objective-C. 
+
+However, one warning: even though large parts of UIKit might work with KVO, this is a coincidence rather than a promise – Apple make no guarantees about UIKit remaining KVO-compatible in the future.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-detect-and-respond-to-key-press-events">How to detect and respond to key press events</a></li><li><a href="/quick-start/swiftui/how-to-activate-different-button-behaviors-when-a-modifier-key-is-pressed">How to activate different button behaviors when a modifier key is pressed</a></li><li><a href="/example-code/uikit/how-to-detect-keyboard-input-using-pressesbegan-and-pressesended">How to detect keyboard input using pressesBegan() and pressesEnded()</a></li><li><a href="/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a></li><li><a href="/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts">How to use UIKeyCommand to add keyboard shortcuts</a></li></ul>
+/quick-start/swiftui/how-to-detect-and-respond-to-key-press-events">How to detect and respond to key press events 
+/quick-start/swiftui/how-to-activate-different-button-behaviors-when-a-modifier-key-is-pressed">How to activate different button behaviors when a modifier key is pressed 
+/example-code/uikit/how-to-detect-keyboard-input-using-pressesbegan-and-pressesended">How to detect keyboard input using pressesBegan() and pressesEnded() 
+/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string 
+/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts">How to use UIKeyCommand to add keyboard shortcuts</a>
 -->
 
 :::

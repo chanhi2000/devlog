@@ -59,46 +59,60 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>There are two main complex data types in Swift – objects and structs –&nbsp;and they do so many things similarly that you'd be forgiven for not being sure exactly where they differ. Well, one of the key areas is down to copying: two variables can point at the same object so that changing one changes them both, whereas if you tried that with structs you'd find that Swift creates a full copy so that changing the copy does not affect the original.</p>
-<p>Having lots of objects point at the same data can be useful, but frequently you'll want to modify <em>copies</em> so that modifying one object doesn't have an effect on anything else. To make this work you need to do three things:</p>
-<ul>
-<li>Make your class conform to <code>NSCopying</code>. This isn't strictly required, but it makes your intent clear.</li>
-<li>Implement the method <code>copy(with:)</code>, where the actual copying happens.</li>
-<li>Call <code>copy()</code> on your object.</li>
-</ul>
-<p>Here's an example of a <code>Person</code> class that conforms fully to the <code>NSCopying</code> protocol:</p>
-<pre class=" language-swift"><code class=" language-swift">    <span class="token keyword">class</span> <span class="token class-name">Person</span><span class="token punctuation">:</span> <span class="token class-name">NSObject</span><span class="token punctuation">,</span> <span class="token class-name">NSCopying</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> firstName<span class="token punctuation">:</span> <span class="token class-name">String</span>
-    <span class="token keyword">var</span> lastName<span class="token punctuation">:</span> <span class="token class-name">String</span>
-    <span class="token keyword">var</span> age<span class="token punctuation">:</span> <span class="token class-name">Int</span>
+There are two main complex data types in Swift – objects and structs – and they do so many things similarly that you'd be forgiven for not being sure exactly where they differ. Well, one of the key areas is down to copying: two variables can point at the same object so that changing one changes them both, whereas if you tried that with structs you'd find that Swift creates a full copy so that changing the copy does not affect the original.
 
-    <span class="token keyword">init</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> lastName<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> age<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span><span class="token punctuation">.</span>firstName <span class="token operator">=</span> firstName
-        <span class="token keyword">self</span><span class="token punctuation">.</span>lastName <span class="token operator">=</span> lastName
-        <span class="token keyword">self</span><span class="token punctuation">.</span>age <span class="token operator">=</span> age
-    <span class="token punctuation">}</span>
+Having lots of objects point at the same data can be useful, but frequently you'll want to modify *copies* so that modifying one object doesn't have an effect on anything else. To make this work you need to do three things:
 
-    <span class="token keyword">func</span> <span class="token function-definition function">copy</span><span class="token punctuation">(</span>with zone<span class="token punctuation">:</span> <span class="token class-name">NSZone</span><span class="token operator">?</span> <span class="token operator">=</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token keyword">Any</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> copy <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> firstName<span class="token punctuation">,</span> lastName<span class="token punctuation">:</span> lastName<span class="token punctuation">,</span> age<span class="token punctuation">:</span> age<span class="token punctuation">)</span>
-        <span class="token keyword">return</span> copy
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Note that <code>copy(with:)</code> is implemented by creating a new <code>Person</code> object using the current person's information.</p>
-<p>With that done, you can test out your copying like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> paul <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Paul"</span></span><span class="token punctuation">,</span> lastName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Hudson"</span></span><span class="token punctuation">,</span> age<span class="token punctuation">:</span> <span class="token number">36</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> sophie <span class="token operator">=</span> paul<span class="token punctuation">.</span><span class="token function">copy</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">Person</span>
+- Make your class conform to `NSCopying`. This isn't strictly required, but it makes your intent clear.
+<li>Implement the method `copy(with:)`, where the actual copying happens.
+<li>Call `copy()` on your object.
 
-sophie<span class="token punctuation">.</span>firstName <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Sophie"</span></span>
-sophie<span class="token punctuation">.</span>age <span class="token operator">=</span> <span class="token number">6</span>
+Here's an example of a `Person` class that conforms fully to the `NSCopying` protocol:
 
-<span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"</span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">paul<span class="token punctuation">.</span>firstName</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">paul<span class="token punctuation">.</span>lastName</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">paul<span class="token punctuation">.</span>age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"</span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">sophie<span class="token punctuation">.</span>firstName</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">sophie<span class="token punctuation">.</span>lastName</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">sophie<span class="token punctuation">.</span>age</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span></code></pre>
+```swift
+    class Person: NSObject, NSCopying {
+    var firstName: String
+    var lastName: String
+    var age: Int
+
+    init(firstName: String, lastName: String, age: Int) {
+        self.firstName = firstName
+        self.lastName = lastName
+        self.age = age
+    }
+
+    func copy(with zone: NSZone? = nil) -> Any {
+        let copy = Person(firstName: firstName, lastName: lastName, age: age)
+        return copy
+    }
+}
+```
+
+Note that `copy(with:)` is implemented by creating a new `Person` object using the current person's information.
+
+With that done, you can test out your copying like this:
+
+```swift
+let paul = Person(firstName: "Paul", lastName: "Hudson", age: 36)
+let sophie = paul.copy() as! Person
+
+sophie.firstName = "Sophie"
+sophie.age = 6
+
+print("\(paul.firstName) \(paul.lastName) is \(paul.age)")
+print("\(sophie.firstName) \(sophie.lastName) is \(sophie.age)")
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/observable-objects-environment-objects-and-published">Observable objects, environment objects, and @Published</a></li><li><a href="/example-code/language/what-is-copy-on-write">What is copy on write?</a></li><li><a href="/example-code/system/how-to-copy-text-to-the-clipboard-using-uipasteboard">How to copy text to the clipboard using UIPasteboard</a></li><li><a href="/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration</a></li><li><a href="/example-code/language/how-to-convert-json-into-swift-objects-using-codable">How to convert JSON into Swift objects using Codable</a></li></ul>
+/quick-start/swiftui/observable-objects-environment-objects-and-published">Observable objects, environment objects, and @Published 
+/example-code/language/what-is-copy-on-write">What is copy on write? 
+/example-code/system/how-to-copy-text-to-the-clipboard-using-uipasteboard">How to copy text to the clipboard using UIPasteboard 
+/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration 
+/example-code/language/how-to-convert-json-into-swift-objects-using-codable">How to convert JSON into Swift objects using Codable</a>
 -->
 
 :::

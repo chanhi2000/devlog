@@ -59,19 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can write to and read from the iOS clipboard by using the <code>UIPasteboard</code> class, which has a <code>general</code> property that returns the shared system space for copying and pasting data between apps. Using this you can write text to the clipboard just like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> pasteboard <span class="token operator">=</span> <span class="token class-name">UIPasteboard</span><span class="token punctuation">.</span>general
-pasteboard<span class="token punctuation">.</span>string <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Hello, world!"</span></span></code></pre>
-<p>To read text back from the clipboard, you should unwrap its optional value like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> string <span class="token operator">=</span> pasteboard<span class="token punctuation">.</span>string <span class="token punctuation">{</span>
-    <span class="token comment">// text was found and placed in the "string" constant</span>
-<span class="token punctuation">}</span></code></pre>
+You can write to and read from the iOS clipboard by using the `UIPasteboard` class, which has a `general` property that returns the shared system space for copying and pasting data between apps. Using this you can write text to the clipboard just like this:
+
+```swift
+let pasteboard = UIPasteboard.general
+pasteboard.string = "Hello, world!"
+```
+
+To read text back from the clipboard, you should unwrap its optional value like this:
+
+```swift
+if let string = pasteboard.string {
+    // text was found and placed in the "string" constant
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-copy-objects-in-swift-using-copy">How to copy objects in Swift using copy()</a></li><li><a href="/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration</a></li><li><a href="/example-code/language/what-is-copy-on-write">What is copy on write?</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li></ul>
+/example-code/system/how-to-copy-objects-in-swift-using-copy">How to copy objects in Swift using copy() 
+/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration 
+/example-code/language/what-is-copy-on-write">What is copy on write? 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a>
 -->
 
 :::

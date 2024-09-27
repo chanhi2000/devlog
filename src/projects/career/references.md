@@ -334,6 +334,7 @@ tag:
 - [`@2hV3` / 서류 통과율을 높이는 7가지 디자인 포트폴리오의 비밀  - 채용 담당자의 시간을 아끼는 전략](https://brunch.co.kr/@@2hV3/249)
 - [`@2weV` / 기억에 남는 인터뷰(면접)의 특징](https://brunch.co.kr/@@2weV/559)
 - [`@2weV` / 기대하게 만드는 Resume](https://brunch.co.kr/@@2weV/560)
+- [`@ZVA` / 웨이모는 돈 버는 사업이 될 수 없을 것이다...왜?](https://brunch.co.kr/@@ZVA/732)
 
 <!-- END: brunch.co.kr -->
 

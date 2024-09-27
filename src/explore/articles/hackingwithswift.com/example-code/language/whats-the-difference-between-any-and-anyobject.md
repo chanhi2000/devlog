@@ -59,17 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift has two anonymous types: <code>Any</code> and <code>AnyObject</code>. They are subtly different, and you will need to use both sooner or later.</p>
-<p><code>AnyObject</code> refers to any instance of a class, and is equivalent to <code>id</code> in Objective-C. It’s useful when you specifically want to work with a reference type, because it won’t allow any of Swift’s structs or enums to be used. <code>AnyObject</code> is also used when you want to restrict a protocol so that it can be used only with classes.</p>
-<p><code>Any</code> refers to any instance of a class, struct, or enum –&nbsp;literally anything at all. You’ll see this in Swift wherever types are unknown or are mixed in ways that can be meaningfully categorized:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> values<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token keyword">Any</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Fish"</span></span><span class="token punctuation">]</span></code></pre>
-<p>Ideally you should avoid both <code>Any</code> and <code>AnyObject</code> in your code –&nbsp;it’s better to be more specific if you can be.</p>
+Swift has two anonymous types: `Any` and `AnyObject`. They are subtly different, and you will need to use both sooner or later.
+
+`AnyObject` refers to any instance of a class, and is equivalent to `id` in Objective-C. It’s useful when you specifically want to work with a reference type, because it won’t allow any of Swift’s structs or enums to be used. `AnyObject` is also used when you want to restrict a protocol so that it can be used only with classes.
+
+`Any` refers to any instance of a class, struct, or enum – literally anything at all. You’ll see this in Swift wherever types are unknown or are mixed in ways that can be meaningfully categorized:
+
+```swift
+let values: [Any] = [1, 2, "Fish"]
+```
+
+Ideally you should avoid both `Any` and `AnyObject` in your code – it’s better to be more specific if you can be.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/language/what-is-anyobject">What is AnyObject?</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/language/what-is-anyobject">What is AnyObject? 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a>
 -->
 
 :::

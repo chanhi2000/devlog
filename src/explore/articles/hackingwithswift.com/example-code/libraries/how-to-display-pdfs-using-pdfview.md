@@ -59,32 +59,50 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Apple’s PDFKit framework provides a huge range of code to help us work with PDFs, and one of the most useful is <code>PDFView</code> – it renders PDFs to the screen and lets users interact with them.</p>
-<p>To try it out, start by importing the PDFKit framework:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">PDFKit</span></code></pre>
-<p>Next, add this code to your <code>viewDidLoad()</code> method to create a <code>PDFView</code> and make it fill all available space:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> pdfView <span class="token operator">=</span> <span class="token class-name">PDFView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+Apple’s PDFKit framework provides a huge range of code to help us work with PDFs, and one of the most useful is `PDFView` – it renders PDFs to the screen and lets users interact with them.
 
-pdfView<span class="token punctuation">.</span>translatesAutoresizingMaskIntoConstraints <span class="token operator">=</span> <span class="token boolean">false</span>
-view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>pdfView<span class="token punctuation">)</span>
+To try it out, start by importing the PDFKit framework:
 
-pdfView<span class="token punctuation">.</span>leadingAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>leadingAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-pdfView<span class="token punctuation">.</span>trailingAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>trailingAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-pdfView<span class="token punctuation">.</span>topAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>topAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-pdfView<span class="token punctuation">.</span>bottomAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>bottomAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
-<p>Finally, create a <code>URL</code> pointing to a PDF you have in your bundle somewhere (or one in your documents directory), then create a <code>PDFDocument</code> object from that and pass it to the PDF view:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">guard</span> <span class="token keyword">let</span> path <span class="token operator">=</span> <span class="token class-name">Bundle</span><span class="token punctuation">.</span>main<span class="token punctuation">.</span><span class="token function">url</span><span class="token punctuation">(</span>forResource<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"example"</span></span><span class="token punctuation">,</span> withExtension<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"pdf"</span></span><span class="token punctuation">)</span> <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+```swift
+import PDFKit
+```
 
-<span class="token keyword">if</span> <span class="token keyword">let</span> document <span class="token operator">=</span> <span class="token class-name">PDFDocument</span><span class="token punctuation">(</span>url<span class="token punctuation">:</span> path<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    pdfView<span class="token punctuation">.</span>document <span class="token operator">=</span> document
-<span class="token punctuation">}</span></code></pre>
-<p>Done!</p>
+Next, add this code to your `viewDidLoad()` method to create a `PDFView` and make it fill all available space:
+
+```swift
+let pdfView = PDFView()
+
+pdfView.translatesAutoresizingMaskIntoConstraints = false
+view.addSubview(pdfView)
+
+pdfView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor).isActive = true
+pdfView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor).isActive = true
+pdfView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor).isActive = true
+pdfView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor).isActive = true
+```
+
+Finally, create a `URL` pointing to a PDF you have in your bundle somewhere (or one in your documents directory), then create a `PDFDocument` object from that and pass it to the PDF view:
+
+```swift
+guard let path = Bundle.main.url(forResource: "example", withExtension: "pdf") else { return }
+
+if let document = PDFDocument(url: path) {
+    pdfView.document = document
+}
+```
+
+Done!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/libraries/how-to-watermark-pdfs-inside-a-pdfview">How to watermark PDFs inside a PDFView</a></li><li><a href="/example-code/uikit/how-to-render-pdfs-using-uigraphicspdfrenderer">How to render PDFs using UIGraphicsPDFRenderer</a></li><li><a href="/example-code/libraries/how-to-show-pdf-thumbnails-using-pdfthumbnailview">How to show PDF thumbnails using PDFThumbnailView</a></li><li><a href="/quick-start/swiftui/how-to-customize-the-display-mode-of-navigationsplitview">How to customize the display mode of NavigationSplitView</a></li><li><a href="/example-code/strings/how-to-display-different-strings-based-on-available-space-using-variantfittingpresentationwidth">How to display different strings based on available space using variantFittingPresentationWidth()</a></li></ul>
+/example-code/libraries/how-to-watermark-pdfs-inside-a-pdfview">How to watermark PDFs inside a PDFView 
+/example-code/uikit/how-to-render-pdfs-using-uigraphicspdfrenderer">How to render PDFs using UIGraphicsPDFRenderer 
+/example-code/libraries/how-to-show-pdf-thumbnails-using-pdfthumbnailview">How to show PDF thumbnails using PDFThumbnailView 
+/quick-start/swiftui/how-to-customize-the-display-mode-of-navigationsplitview">How to customize the display mode of NavigationSplitView 
+/example-code/strings/how-to-display-different-strings-based-on-available-space-using-variantfittingpresentationwidth">How to display different strings based on available space using variantFittingPresentationWidth()</a>
 -->
 
 :::

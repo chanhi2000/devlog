@@ -59,24 +59,45 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Core Motion makes it ridiculously easy to read the accelerometer from iPhones and iPads, and it even takes care of managing how the accelerometer and gyroscope work together to report orientation. To get started import the Core Motion framework like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">CoreMotion</span></code></pre>
-<p>Now create a property that can store a <code>CMMotionManager</code>, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> motionManager<span class="token punctuation">:</span> <span class="token class-name">CMMotionManager</span><span class="token operator">!</span></code></pre>
-<p>When you're ready to start reading accelerometer data (this will be inside <code>viewDidLoad()</code> for most people), go ahead and create your motion manager then call its <code>startAccelerometerUpdates()</code> method:</p>
-<pre class=" language-swift"><code class=" language-swift">motionManager <span class="token operator">=</span> <span class="token class-name">CMMotionManager</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-motionManager<span class="token punctuation">.</span><span class="token function">startAccelerometerUpdates</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>Finally, read the accelerometer data as often as you want. It's optional, though, so make sure you unwrap it carefully.</p>
-<p>For example, if you want to change the gravity of a SpriteKit physics world so that tipping your device makes things roll around, you'd look for something like this in your <code>update()</code> method:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> accelerometerData <span class="token operator">=</span> motionManager<span class="token punctuation">.</span>accelerometerData <span class="token punctuation">{</span>
-    physicsWorld<span class="token punctuation">.</span>gravity <span class="token operator">=</span> <span class="token class-name">CGVector</span><span class="token punctuation">(</span>dx<span class="token punctuation">:</span> accelerometerData<span class="token punctuation">.</span>acceleration<span class="token punctuation">.</span>y <span class="token operator">*</span> <span class="token operator">-</span><span class="token number">50</span><span class="token punctuation">,</span> dy<span class="token punctuation">:</span> accelerometerData<span class="token punctuation">.</span>acceleration<span class="token punctuation">.</span>x <span class="token operator">*</span> <span class="token number">50</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+Core Motion makes it ridiculously easy to read the accelerometer from iPhones and iPads, and it even takes care of managing how the accelerometer and gyroscope work together to report orientation. To get started import the Core Motion framework like this:
+
+```swift
+import CoreMotion
+```
+
+Now create a property that can store a `CMMotionManager`, like this:
+
+```swift
+var motionManager: CMMotionManager!
+```
+
+When you're ready to start reading accelerometer data (this will be inside `viewDidLoad()` for most people), go ahead and create your motion manager then call its `startAccelerometerUpdates()` method:
+
+```swift
+motionManager = CMMotionManager()
+motionManager.startAccelerometerUpdates()
+```
+
+Finally, read the accelerometer data as often as you want. It's optional, though, so make sure you unwrap it carefully.
+
+For example, if you want to change the gravity of a SpriteKit physics world so that tipping your device makes things roll around, you'd look for something like this in your `update()` method:
+
+```swift
+if let accelerometerData = motionManager.accelerometerData {
+    physicsWorld.gravity = CGVector(dx: accelerometerData.acceleration.y * -50, dy: accelerometerData.acceleration.x * 50)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-detect-the-reduce-motion-accessibility-setting">How to detect the Reduce Motion accessibility setting</a></li><li><a href="/example-code/uikit/how-to-check-whether-users-have-enabled-the-reduced-motion-setting">How to check whether users have enabled the reduced motion setting</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li><li><a href="/quick-start/swiftui/how-to-configure-core-data-to-work-with-swiftui">How to configure Core Data to work with SwiftUI</a></li></ul>
+/quick-start/swiftui/how-to-detect-the-reduce-motion-accessibility-setting">How to detect the Reduce Motion accessibility setting 
+/example-code/uikit/how-to-check-whether-users-have-enabled-the-reduced-motion-setting">How to check whether users have enabled the reduced motion setting 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject? 
+/quick-start/swiftui/how-to-configure-core-data-to-work-with-swiftui">How to configure Core Data to work with SwiftUI</a>
 -->
 
 :::

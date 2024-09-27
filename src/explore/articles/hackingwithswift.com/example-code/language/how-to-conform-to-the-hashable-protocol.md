@@ -59,26 +59,43 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>In Swift, conforming to the <code>Hashable</code> protocol is often just as easy as adding <code>Hashable</code> to your conformance list. However, if you have custom requirements, or use properties that don’t all conform to <code>Hashable</code>, it takes a little more work.</p>
-<p>Here’s an example struct we can work with:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> iPad<span class="token punctuation">:</span> <span class="token class-name">Hashable</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> serialNumber<span class="token punctuation">:</span> <span class="token class-name">String</span>
-    <span class="token keyword">var</span> capacity<span class="token punctuation">:</span> <span class="token class-name">Int</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Because that conforms to the <code>Hashable</code> protocol and both its properties also conform to the <code>Hashable</code> protocol, Swift will generate a <code>hash(into:)</code> method automatically.</p>
-<p>However, in this case we can see that <code>serialNumber</code> is enough to identify each iPad uniquely so hashing <code>capacity</code> isn’t needed. So, we can write our own implementation of <code>hash(into:)</code> that hashes just that one property:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">hash</span><span class="token punctuation">(</span>into hasher<span class="token punctuation">:</span> <span class="token keyword">inout</span> <span class="token class-name">Hasher</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    hasher<span class="token punctuation">.</span><span class="token function">combine</span><span class="token punctuation">(</span>serialNumber<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>You can add more properties to your hash by calling <code>combine()</code> repeatedly, and the order in which you add properties affects the finished hash value.</p>
-<p>Swift uses a random seed every time it hashes an object, which means the hash value for any object is effectively guaranteed to be different between runs of your app.</p>
-<p>This in turn means that elements you add to a set or a dictionary are highly likely to have a different order each time you run your app.</p>
+In Swift, conforming to the `Hashable` protocol is often just as easy as adding `Hashable` to your conformance list. However, if you have custom requirements, or use properties that don’t all conform to `Hashable`, it takes a little more work.
+
+Here’s an example struct we can work with:
+
+```swift
+struct iPad: Hashable {
+    var serialNumber: String
+    var capacity: Int
+}
+```
+
+Because that conforms to the `Hashable` protocol and both its properties also conform to the `Hashable` protocol, Swift will generate a `hash(into:)` method automatically.
+
+However, in this case we can see that `serialNumber` is enough to identify each iPad uniquely so hashing `capacity` isn’t needed. So, we can write our own implementation of `hash(into:)` that hashes just that one property:
+
+```swift
+func hash(into hasher: inout Hasher) {
+    hasher.combine(serialNumber)
+}
+```
+
+You can add more properties to your hash by calling `combine()` repeatedly, and the order in which you add properties affects the finished hash value.
+
+Swift uses a random seed every time it hashes an object, which means the hash value for any object is effectively guaranteed to be different between runs of your app.
+
+This in turn means that elements you add to a set or a dictionary are highly likely to have a different order each time you run your app.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-conform-to-the-comparable-protocol">How to conform to the Comparable protocol</a></li><li><a href="/example-code/language/how-to-conform-to-the-equatable-protocol">How to conform to the Equatable protocol</a></li><li><a href="/quick-start/swiftui/how-to-fix-referencing-initializer-initwrappedvalue-on-observedobject-requires-that-sometype-conform-to-observableobject">How to fix “Referencing initializer 'init(wrappedValue:)' on 'ObservedObject' requires that ‘SomeType’ conform to 'ObservableObject'"</a></li><li><a href="/quick-start/swiftui/how-to-fix-initializer-init-rowcontent-requires-that-sometype-conform-to-identifiable">How to fix “Initializer 'init(_:rowContent:)' requires that ‘SomeType’ conform to 'Identifiable’”</a></li><li><a href="/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type</a></li></ul>
+/example-code/language/how-to-conform-to-the-comparable-protocol">How to conform to the Comparable protocol 
+/example-code/language/how-to-conform-to-the-equatable-protocol">How to conform to the Equatable protocol 
+/quick-start/swiftui/how-to-fix-referencing-initializer-initwrappedvalue-on-observedobject-requires-that-sometype-conform-to-observableobject">How to fix “Referencing initializer 'init(wrappedValue:)' on 'ObservedObject' requires that ‘SomeType’ conform to 'ObservableObject'" 
+/quick-start/swiftui/how-to-fix-initializer-init-rowcontent-requires-that-sometype-conform-to-identifiable">How to fix “Initializer 'init(_:rowContent:)' requires that ‘SomeType’ conform to 'Identifiable’” 
+/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type</a>
 -->
 
 :::

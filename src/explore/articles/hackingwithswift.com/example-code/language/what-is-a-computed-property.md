@@ -59,25 +59,35 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-w<p>Swift offers us two kinds of property: a <em>stored</em> property is one that saves a value for use later, and a <em>computed</em> property is one that runs some code in order to calculate the value.</p>
-<p>As comparison, here’s a <code>Person</code> struct with four stored properties and one computed one. The computed property returns a string based on joining the four stored properties into a sentence.</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor"</span></span>
-    <span class="token keyword">var</span> favoriteColor <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"red"</span></span>
-    <span class="token keyword">var</span> favoriteCity <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Tokyo"</span></span>
-    <span class="token keyword">var</span> favoriteFood <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"tea"</span></span>
+wSwift offers us two kinds of property: a *stored* property is one that saves a value for use later, and a *computed* property is one that runs some code in order to calculate the value.
 
-    <span class="token keyword">var</span> greeting<span class="token punctuation">:</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token string-literal"><span class="token string">"Hello, my name is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, and I like </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">favoriteFood</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">favoriteCity</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">, and the color </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">favoriteColor</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Note: Unlike stored properties, Swift requires you to use an explicit type with your computed properties.</p>
+As comparison, here’s a `Person` struct with four stored properties and one computed one. The computed property returns a string based on joining the four stored properties into a sentence.
+
+```swift
+struct Person {
+    var name = "Taylor"
+    var favoriteColor = "red"
+    var favoriteCity = "Tokyo"
+    var favoriteFood = "tea"
+
+    var greeting: String {
+        return "Hello, my name is \(name), and I like \(favoriteFood), \(favoriteCity), and the color \(favoriteColor)."
+    }
+}
+```
+
+Note: Unlike stored properties, Swift requires you to use an explicit type with your computed properties.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/understanding-property-wrappers-in-swift-and-swiftui">Understanding property wrappers in Swift and SwiftUI</a></li><li><a href="/quick-start/swiftui/what-is-the-gesturestate-property-wrapper">What is the @GestureState property wrapper?</a></li><li><a href="/quick-start/swiftui/what-is-the-published-property-wrapper">What is the @Published property wrapper?</a></li><li><a href="/quick-start/swiftui/what-is-the-binding-property-wrapper">What is the @Binding property wrapper?</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/understanding-property-wrappers-in-swift-and-swiftui">Understanding property wrappers in Swift and SwiftUI 
+/quick-start/swiftui/what-is-the-gesturestate-property-wrapper">What is the @GestureState property wrapper? 
+/quick-start/swiftui/what-is-the-published-property-wrapper">What is the @Published property wrapper? 
+/quick-start/swiftui/what-is-the-binding-property-wrapper">What is the @Binding property wrapper?</a>
 -->
 
 :::

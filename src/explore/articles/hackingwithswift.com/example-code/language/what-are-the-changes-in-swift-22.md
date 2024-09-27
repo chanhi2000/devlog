@@ -59,25 +59,29 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift 2.2 introduced a lot of major language changes. You can read my full article explaining the changes with code examples <a href="/swift2-2">by clicking here</a>, but here are the highlights:</p>
-<ul>
-<li>You can now compare tuples up to arity 6</li>
-<li>Compile-time Swift version checking</li>
-<li>More keywords can be used as argument labels</li>
-<li>Renamed debug identifiers: #line, #function, #file</li>
-<li>The ++ and -- operators are deprecated</li>
-<li>Traditional C-style for loops are deprecated</li>
-<li>Tuple splat syntax is deprecated</li>
-<li>var parameters have been deprecated</li>
-<li>Stringified selectors are deprecated</li>
-<li>New documentation keywords: recommended, recommendedover, and keyword</li>
-</ul>
+Swift 2.2 introduced a lot of major language changes. You can read my full article explaining the changes with code examples <a href="/swift2-2">by clicking here</a>, but here are the highlights:
+
+- You can now compare tuples up to arity 6
+<li>Compile-time Swift version checking
+<li>More keywords can be used as argument labels
+<li>Renamed debug identifiers: #line, #function, #file
+<li>The ++ and -- operators are deprecated
+<li>Traditional C-style for loops are deprecated
+<li>Tuple splat syntax is deprecated
+<li>var parameters have been deprecated
+<li>Stringified selectors are deprecated
+<li>New documentation keywords: recommended, recommendedover, and keyword
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-the-changes-in-swift-12">What are the changes in Swift 1.2?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-20">What are the changes in Swift 2.0?</a></li><li><a href="/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a></li><li><a href="/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a></li></ul>
+/example-code/language/what-are-the-changes-in-swift-12">What are the changes in Swift 1.2? 
+/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3? 
+/example-code/language/what-are-the-changes-in-swift-20">What are the changes in Swift 2.0? 
+/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:) 
+/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a>
 -->
 
 :::

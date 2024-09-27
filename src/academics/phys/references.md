@@ -60,6 +60,7 @@ head:
 - [자유 낙하 실험 2](https://javalab.org/free_falling_2/)
 - [감압 용기](https://javalab.org/vacuum_jar/)
 - [망막에 상이 맺히는 안구 모형](https://javalab.org/eye_model/)
+- [물의 상태 2](https://javalab.org/status_of_water_2/)
 
 <!-- END: javalab.org -->
 
@@ -89,6 +90,7 @@ head:
 - [배터리 용어 - SoC 개념](https://m.blog.naver.com/seo0511/223532594028)
 - [배터리 용어 - DoD 개념](https://m.blog.naver.com/seo0511/223533133862)
 - [(전기차) 사용후](https://m.blog.naver.com/seo0511/223535816457)
+- [배터리 용어 - Ah](https://m.blog.naver.com/seo0511/223599462274)
 
 ---
 

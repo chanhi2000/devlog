@@ -59,22 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You should already be familiar with the concept of property observers in Swift – those <code>willSet</code> and <code>didSet</code> blocks you can attach to property on classes and structs. Well, those same blocks can be attached to local and global variables as well, allowing you to respond to changes easily.</p>
-<p>The syntax is identical: create your variable, give it an initial value, then provide <code>willSet</code> and/or <code>didSet</code> closures inside braces, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span> <span class="token punctuation">{</span>
-    <span class="token keyword">didSet</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Name changed to </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">!"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span>
+You should already be familiar with the concept of property observers in Swift – those `willSet` and `didSet` blocks you can attach to property on classes and structs. Well, those same blocks can be attached to local and global variables as well, allowing you to respond to changes easily.
 
-name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Justin Bieber"</span></span></code></pre>
-<p>That will print “Name changed to Justin Bieber!” when run.</p>
+The syntax is identical: create your variable, give it an initial value, then provide `willSet` and/or `didSet` closures inside braces, like this:
+
+```swift
+var name = "Taylor Swift" {
+    didSet {
+        print("Name changed to \(name)!")
+    }
+}
+
+name = "Justin Bieber"
+```
+
+That will print “Name changed to Justin Bieber!” when run.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable?</a></li><li><a href="/quick-start/concurrency/how-to-create-and-use-task-local-values">How to create and use task local values</a></li><li><a href="/example-code/language/what-are-property-observers">What are property observers?</a></li><li><a href="/example-code/system/how-to-set-local-alerts-using-unnotificationcenter">How to set local alerts using UNNotificationCenter</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li></ul>
+/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable? 
+/quick-start/concurrency/how-to-create-and-use-task-local-values">How to create and use task local values 
+/example-code/language/what-are-property-observers">What are property observers? 
+/example-code/system/how-to-set-local-alerts-using-unnotificationcenter">How to set local alerts using UNNotificationCenter 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a>
 -->
 
 :::

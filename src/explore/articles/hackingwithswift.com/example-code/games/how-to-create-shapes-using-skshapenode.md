@@ -59,21 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit's <code>SKShapeNode</code> class is a fast and convenient way to draw arbitrary shapes in your games, including circles, lines, rounded rectangles and more. You can assign a fill color, a stroke color and width, plus other drawing options such as whether it should glow –&nbsp;yes, really.</p>
-<p>The example code below draws a rounded rectangle smack in the middle of the game scene, giving it a red fill color and a 10-point blue border:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> shape <span class="token operator">=</span> <span class="token class-name">SKShapeNode</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-shape<span class="token punctuation">.</span>path <span class="token operator">=</span> <span class="token class-name">UIBezierPath</span><span class="token punctuation">(</span>roundedRect<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token operator">-</span><span class="token number">128</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token operator">-</span><span class="token number">128</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">)</span><span class="token punctuation">,</span> cornerRadius<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">)</span><span class="token punctuation">.</span>cgPath
-shape<span class="token punctuation">.</span>position <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> frame<span class="token punctuation">.</span>midX<span class="token punctuation">,</span> y<span class="token punctuation">:</span> frame<span class="token punctuation">.</span>midY<span class="token punctuation">)</span>
-shape<span class="token punctuation">.</span>fillColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red
-shape<span class="token punctuation">.</span>strokeColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>blue
-shape<span class="token punctuation">.</span>lineWidth <span class="token operator">=</span> <span class="token number">10</span>
-<span class="token function">addChild</span><span class="token punctuation">(</span>shape<span class="token punctuation">)</span></code></pre>
+SpriteKit's `SKShapeNode` class is a fast and convenient way to draw arbitrary shapes in your games, including circles, lines, rounded rectangles and more. You can assign a fill color, a stroke color and width, plus other drawing options such as whether it should glow – yes, really.
+
+The example code below draws a rounded rectangle smack in the middle of the game scene, giving it a red fill color and a 10-point blue border:
+
+```swift
+let shape = SKShapeNode()
+shape.path = UIBezierPath(roundedRect: CGRect(x: -128, y: -128, width: 256, height: 256), cornerRadius: 64).cgPath
+shape.position = CGPoint(x: frame.midX, y: frame.midY)
+shape.fillColor = UIColor.red
+shape.strokeColor = UIColor.blue
+shape.lineWidth = 10
+addChild(shape)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes">How to combine shapes to create new shapes</a></li><li><a href="/example-code/uikit/how-to-draw-shapes-using-uibezierpath">How to draw shapes using UIBezierPath</a></li><li><a href="/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time</a></li><li><a href="/example-code/calayer/how-to-draw-shapes-using-cashapelayer">How to draw shapes using CAShapeLayer</a></li><li><a href="/quick-start/swiftui/swiftuis-built-in-shapes">SwiftUI’s built-in shapes</a></li></ul>
+/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes">How to combine shapes to create new shapes 
+/example-code/uikit/how-to-draw-shapes-using-uibezierpath">How to draw shapes using UIBezierPath 
+/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time 
+/example-code/calayer/how-to-draw-shapes-using-cashapelayer">How to draw shapes using CAShapeLayer 
+/quick-start/swiftui/swiftuis-built-in-shapes">SwiftUI’s built-in shapes</a>
 -->
 
 ---

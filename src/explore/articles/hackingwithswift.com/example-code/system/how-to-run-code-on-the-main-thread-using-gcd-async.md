@@ -59,19 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift offers you two ways to run code on the main thread: GCD and <code>performSelector(onMainThread:)</code>. The first option looks like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">DispatchQueue</span><span class="token punctuation">.</span>main<span class="token punctuation">.</span><span class="token keyword">async</span> <span class="token punctuation">{</span> <span class="token punctuation">[</span><span class="token keyword">unowned</span> <span class="token keyword">self</span><span class="token punctuation">]</span> <span class="token keyword">in</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">yourCodeHere</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>The second option looks like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">performSelector</span><span class="token punctuation">(</span>onMainThread<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>yourCodeHere<span class="token punctuation">)</span><span class="token punctuation">,</span> with<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">,</span> waitUntilDone<span class="token punctuation">:</span> <span class="token boolean">false</span><span class="token punctuation">)</span></code></pre>
-<p>The GCD option (the first one) has the advantage that you can write your code inline, whereas the second one requires a dedicated method you can call.</p>
+Swift offers you two ways to run code on the main thread: GCD and `performSelector(onMainThread:)`. The first option looks like this:
+
+```swift
+DispatchQueue.main.async { [unowned self] in
+    self.yourCodeHere()
+}
+```
+
+The second option looks like this:
+
+```swift
+performSelector(onMainThread: #selector(yourCodeHere), with: nil, waitUntilDone: false)
+```
+
+The GCD option (the first one) has the advantage that you can write your code inline, whereas the second one requires a dedicated method you can call.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/main-thread-and-main-queue-whats-the-difference">Main thread and main queue: what’s the difference?</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/example-code/system/how-to-run-code-asynchronously-using-gcd-async">How to run code asynchronously using GCD async()</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li></ul>
+/quick-start/concurrency/main-thread-and-main-queue-whats-the-difference">Main thread and main queue: what’s the difference? 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue 
+/example-code/system/how-to-run-code-asynchronously-using-gcd-async">How to run code asynchronously using GCD async() 
+/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a>
 -->
 
 :::

@@ -59,20 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Template images are the iOS 7.0 way of tinting any kind of image when it's inside a <code>UIImageView</code>. This is usually used to mimic the tinting of button images (as seen in toolbars and tab bars) but it works anywhere you want to dynamically recolor an image.</p>
-<p>To get started, load an image then call <code>withRenderingMode()</code> on it, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> myImage <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"myImage"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> tintableImage <span class="token operator">=</span> myImage<span class="token punctuation">.</span><span class="token function">withRenderingMode</span><span class="token punctuation">(</span><span class="token punctuation">.</span>alwaysTemplate<span class="token punctuation">)</span>
-    imageView<span class="token punctuation">.</span>image <span class="token operator">=</span> tintableImage
-<span class="token punctuation">}</span></code></pre>
-<p>The tint color of a <code>UIImageView</code> is the standard iOS 7 blue by default, but you can change it easily enough:</p>
-<pre class=" language-swift"><code class=" language-swift">imageView<span class="token punctuation">.</span>tintColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red</code></pre>
+Template images are the iOS 7.0 way of tinting any kind of image when it's inside a `UIImageView`. This is usually used to mimic the tinting of button images (as seen in toolbars and tab bars) but it works anywhere you want to dynamically recolor an image.
+
+To get started, load an image then call `withRenderingMode()` on it, like this:
+
+```swift
+if let myImage = UIImage(named: "myImage") {
+    let tintableImage = myImage.withRenderingMode(.alwaysTemplate)
+    imageView.image = tintableImage
+}
+```
+
+The tint color of a `UIImageView` is the standard iOS 7 blue by default, but you can change it easily enough:
+
+```swift
+imageView.tintColor = UIColor.red
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/whats-in-the-basic-template">What’s in the basic template?</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/whats-in-the-basic-template">What’s in the basic template? 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a>
 -->
 
 :::

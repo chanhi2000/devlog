@@ -59,13 +59,18 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift strings can be treated as an array of individual characters. So, to return the length of a string you can use <code>yourString.count</code> to count the number of items in the <code>characters</code> array.</p>
+Swift strings can be treated as an array of individual characters. So, to return the length of a string you can use `yourString.count` to count the number of items in the `characters` array.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage</a></li><li><a href="/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task</a></li><li><a href="/example-code/strings/how-to-get-the-lines-in-a-string-as-an-array">How to get the lines in a string as an array</a></li><li><a href="/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols">How to get custom colors and transparency with SF Symbols</a></li><li><a href="/example-code/language/how-to-get-a-random-element-from-an-array-using-randomelement">How to get a random element from an array using randomElement()</a></li></ul>
+/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage 
+/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task 
+/example-code/strings/how-to-get-the-lines-in-a-string-as-an-array">How to get the lines in a string as an array 
+/quick-start/swiftui/how-to-get-custom-colors-and-transparency-with-sf-symbols">How to get custom colors and transparency with SF Symbols 
+/example-code/language/how-to-get-a-random-element-from-an-array-using-randomelement">How to get a random element from an array using randomElement()</a>
 -->
 
 :::

@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>CloudKit is Apple’s dedicated back-end service for your apps, allowing you to store user data and assets remotely entirely using Swift. It works similar to Core Data, although it’s much simpler in practice – you can save any kind of Swift data you like, and CloudKit takes care of the rest.</p>
-<p>Even better, CloudKit is free as long as you stay within a generous quota –&nbsp;you get 10GB of asset storage, 100MB of database storage, 2GB of data transfer, and 40 requests per second –&nbsp;and those are just the starting figures. As you add more users your free quota also increases so your app can continue expanding up to 10 million users without paying a penny.</p>
-<p>CloudKit is entirely powered through your iOS code, which means you can get started today without having to learn anything special or having to pay anything. For more advanced uses, you can even have CloudKit monitor your database and notify users with a push message when something important happens –&nbsp;you have complete control over what should be watched.</p>
-<p>If you’re keen to try it yourself, Hacking with Swift has a complete project using CloudKit: <a href="/read/33/overview">What’s that Whistle?</a></p>
+CloudKit is Apple’s dedicated back-end service for your apps, allowing you to store user data and assets remotely entirely using Swift. It works similar to Core Data, although it’s much simpler in practice – you can save any kind of Swift data you like, and CloudKit takes care of the rest.
+
+Even better, CloudKit is free as long as you stay within a generous quota – you get 10GB of asset storage, 100MB of database storage, 2GB of data transfer, and 40 requests per second – and those are just the starting figures. As you add more users your free quota also increases so your app can continue expanding up to 10 million users without paying a penny.
+
+CloudKit is entirely powered through your iOS code, which means you can get started today without having to learn anything special or having to pay anything. For more advanced uses, you can even have CloudKit monitor your database and notify users with a push message when something important happens – you have complete control over what should be watched.
+
+If you’re keen to try it yourself, Hacking with Swift has a complete project using CloudKit: <a href="/read/33/overview">What’s that Whistle?</a>
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/libraries/how-to-search-your-apps-spotlight-index">How to search your app’s Spotlight index</a></li><li><a href="/example-code/libraries/how-to-get-a-cover-flow-effect-on-ios">How to get a Cover Flow effect on iOS</a></li><li><a href="/example-code/libraries/how-to-preview-files-using-quick-look-and-qlpreviewcontroller">How to preview files using Quick Look and QLPreviewController</a></li><li><a href="/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset">How to make empty UITableViews look more attractive using DZNEmptyDataSet</a></li><li><a href="/example-code/libraries/how-to-display-pdfs-using-pdfview">How to display PDFs using PDFView</a></li></ul>
+/example-code/libraries/how-to-search-your-apps-spotlight-index">How to search your app’s Spotlight index 
+/example-code/libraries/how-to-get-a-cover-flow-effect-on-ios">How to get a Cover Flow effect on iOS 
+/example-code/libraries/how-to-preview-files-using-quick-look-and-qlpreviewcontroller">How to preview files using Quick Look and QLPreviewController 
+/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset">How to make empty UITableViews look more attractive using DZNEmptyDataSet 
+/example-code/libraries/how-to-display-pdfs-using-pdfview">How to display PDFs using PDFView</a>
 -->
 
 :::

@@ -269,8 +269,9 @@ head:
 - [CAM 사용하기 - Step 3](https://m.blog.naver.com/tipsware/223591697391)
 - [LxMFC에 슬라이더 컨트롤이 추가되었습니다.](https://m.blog.naver.com/tipsware/223593892057)
 - [CAM으로 촬영되고 있는 원 크기 체크하기 - Step 1](https://m.blog.naver.com/tipsware/223596075092)
+- [이미지 파일을 섬네일 형식으로 보여주기 - Step 1](https://m.blog.naver.com/tipsware/223599043078)
 
-<!-- END: tipsware.blog.naver.com -->
+<!-- END: tipsware (m.blog.naver.com) -->
 
 ---
 
@@ -368,6 +369,7 @@ head:
 - [\[백준 17216번\] 가장 큰 감소 부분 수열](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-17216%EB%B2%88-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EA%B0%90%EC%86%8C-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
 - [\[백준 20040번\] 사이클 게임](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-20040%EB%B2%88-%EC%82%AC%EC%9D%B4%ED%81%B4-%EA%B2%8C%EC%9E%84)
 - [\[백준 21925번\] 짝수 팰린드롬](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-21925%EB%B2%88-%EC%A7%9D%EC%88%98-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
+- [\[백준 1564번\] 팩토리얼5: 정식 풀이](https://kesakiyo.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-1564%EB%B2%88-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC5-%EC%A0%95%EC%8B%9D-%ED%92%80%EC%9D%B4)
 
 <!-- END: kesakiyo.tistory.com -->
 

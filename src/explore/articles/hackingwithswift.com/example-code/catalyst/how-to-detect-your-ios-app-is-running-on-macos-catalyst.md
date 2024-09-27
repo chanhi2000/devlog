@@ -59,28 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Although Catalyst does a good job of making UIKit work on macOS, you will quickly realize that some things that worked great on iOS just aren’t great fits for macOS.</p>
-<p>So, if you want to detect when your iOS app is running on macOS using Catalyst, you can add an <code>#if targetEnvironment</code> check to provide alternative functionality, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token directive property"><span class="token directive-name">#if</span> targetEnvironment<span class="token punctuation">(</span>macCatalyst<span class="token punctuation">)</span></span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"UIKit running on macOS"</span></span><span class="token punctuation">)</span>
-<span class="token directive property"><span class="token directive-name">#else</span></span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Your regular code"</span></span><span class="token punctuation">)</span>
-<span class="token directive property"><span class="token directive-name">#endif</span></span></code></pre>
-<p>If that file also happens to support other platforms such as watchOS and tvOS, you can add further checks as needed like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token directive property"><span class="token directive-name">#if</span> targetEnvironment<span class="token punctuation">(</span>macCatalyst<span class="token punctuation">)</span></span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"UIKit running on macOS"</span></span><span class="token punctuation">)</span>
-<span class="token directive property"><span class="token directive-name">#elseif</span> os<span class="token punctuation">(</span>watchOS<span class="token punctuation">)</span></span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Running on watchOS"</span></span><span class="token punctuation">)</span>
-<span class="token directive property"><span class="token directive-name">#else</span></span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Your regular code"</span></span><span class="token punctuation">)</span>
-<span class="token directive property"><span class="token directive-name">#endif</span></span></code></pre>
-<p>Detecting Catalyst is particularly useful when removing behavior that, while appropriate on iOS itself, doesn’t look great on macOS. For example, having screens full of information slide onto a <code>UINavigationController</code> looks great on iPhone, OK on iPad, but downright ugly on macOS, so you might want to push view controllers without animation when running on Catalyst.</p>
+Although Catalyst does a good job of making UIKit work on macOS, you will quickly realize that some things that worked great on iOS just aren’t great fits for macOS.
+
+So, if you want to detect when your iOS app is running on macOS using Catalyst, you can add an `#if targetEnvironment` check to provide alternative functionality, like this:
+
+```swift
+#if targetEnvironment(macCatalyst)
+    print("UIKit running on macOS")
+#else
+    print("Your regular code")
+#endif
+```
+
+If that file also happens to support other platforms such as watchOS and tvOS, you can add further checks as needed like this:
+
+```swift
+#if targetEnvironment(macCatalyst)
+    print("UIKit running on macOS")
+#elseif os(watchOS)
+    print("Running on watchOS")
+#else
+    print("Your regular code")
+#endif
+```
+
+Detecting Catalyst is particularly useful when removing behavior that, while appropriate on iOS itself, doesn’t look great on macOS. For example, having screens full of information slide onto a `UINavigationController` looks great on iPhone, OK on iPad, but downright ugly on macOS, so you might want to push view controllers without animation when running on Catalyst.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName()</a></li><li><a href="/quick-start/swiftui/how-to-get-translucent-lists-on-macos">How to get translucent lists on macOS</a></li><li><a href="/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration">How to detect images using ARImageTrackingConfiguration</a></li></ul>
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName() 
+/quick-start/swiftui/how-to-get-translucent-lists-on-macos">How to get translucent lists on macOS 
+/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration">How to detect images using ARImageTrackingConfiguration</a>
 -->
 
 :::

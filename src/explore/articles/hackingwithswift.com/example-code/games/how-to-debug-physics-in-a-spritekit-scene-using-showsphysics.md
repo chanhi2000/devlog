@@ -59,17 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit’s <code>SKView</code> class has a few built-in debugging options, of which two are enabled by default: <code>showsFPS</code> to show the current frames per second, and <code>showsNodeCount</code> to show how many nodes are currently in your scene.</p>
-<p>If you’re having trouble understanding the way your physics objects are behaving, you should enable the <code>showsPhysics</code> option on your view, like this:</p>
-<pre class=" language-swift"><code class=" language-swift">skView<span class="token punctuation">.</span>showsPhysics <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
-<p>You can put that into GameViewController.swift if you’re using Xcode’s default SpriteKit template, alongside <code>showsFPS</code> and <code>showsNodeCount</code>.</p>
-<p>When set to true, <code>showsPhysics</code> will automatically draw blue lines around all your physics shapes, allowing you to see them in exactly the same way as the physics engine does. Hopefully you’ll be able to see where you’ve made a mistake and can correct it quickly!</p>
+SpriteKit’s `SKView` class has a few built-in debugging options, of which two are enabled by default: `showsFPS` to show the current frames per second, and `showsNodeCount` to show how many nodes are currently in your scene.
+
+If you’re having trouble understanding the way your physics objects are behaving, you should enable the `showsPhysics` option on your view, like this:
+
+```swift
+skView.showsPhysics = true
+```
+
+You can put that into <FontIcon icon="fa-brands fa-swift"/>`GameViewController.swift` if you’re using Xcode’s default SpriteKit template, alongside `showsFPS` and `showsNodeCount`.
+
+When set to true, `showsPhysics` will automatically draw blue lines around all your physics shapes, allowing you to see them in exactly the same way as the physics engine does. Hopefully you’ll be able to see where you’ve made a mistake and can correct it quickly!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-simulate-gravity-in-a-spritekit-scene">How to simulate gravity in a SpriteKit scene</a></li><li><a href="/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property</a></li><li><a href="/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode</a></li><li><a href="/example-code/language/how-to-print-debug-text-in-swift">How to print debug text in Swift</a></li></ul>
+/example-code/games/how-to-simulate-gravity-in-a-spritekit-scene">How to simulate gravity in a SpriteKit scene 
+/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property 
+/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode 
+/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode 
+/example-code/language/how-to-print-debug-text-in-swift">How to print debug text in Swift</a>
 -->
 
 ---

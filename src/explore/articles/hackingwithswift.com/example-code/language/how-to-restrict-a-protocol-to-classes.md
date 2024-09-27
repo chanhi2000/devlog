@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>There are some occasions when your protocol relies on reference semantics to work, which in practice means it can be adopted only by classes. For example, you might want to use the identity operator (<code>===</code>) to compare two instances of a conforming type, or you might want to change properties inside the type without relying on mutating methods.</p>
-<p>To restrict your protocol in this way, make it inherit from <code>AnyObject</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">protocol</span> <span class="token class-name">Authenticatable</span><span class="token punctuation">:</span> <span class="token class-name">AnyObject</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">authenticate</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Note: Some older Swift code uses <code>class</code> for this restriction, but <code>AnyObject</code> is correct for modern Swift.</p>
+There are some occasions when your protocol relies on reference semantics to work, which in practice means it can be adopted only by classes. For example, you might want to use the identity operator (`===`) to compare two instances of a conforming type, or you might want to change properties inside the type without relying on mutating methods.
+
+To restrict your protocol in this way, make it inherit from `AnyObject` like this:
+
+```swift
+protocol Authenticatable: AnyObject {
+    func authenticate() -> Bool
+}
+```
+
+Note: Some older Swift code uses `class` for this restriction, but `AnyObject` is correct for modern Swift.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs?</a></li><li><a href="/example-code/uikit/what-are-size-classes">What are size classes?</a></li><li><a href="/quick-start/swiftui/how-to-create-different-layouts-using-size-classes">How to create different layouts using size classes</a></li><li><a href="/example-code/language/what-is-protocol-oriented-programming">What is protocol-oriented programming?</a></li><li><a href="/example-code/language/what-is-a-protocol-associated-type">What is a protocol associated type?</a></li></ul>
+/quick-start/concurrency/whats-the-difference-between-actors-classes-and-structs">What’s the difference between actors, classes, and structs? 
+/example-code/uikit/what-are-size-classes">What are size classes? 
+/quick-start/swiftui/how-to-create-different-layouts-using-size-classes">How to create different layouts using size classes 
+/example-code/language/what-is-protocol-oriented-programming">What is protocol-oriented programming? 
+/example-code/language/what-is-a-protocol-associated-type">What is a protocol associated type?</a>
 -->
 
 :::

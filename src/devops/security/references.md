@@ -22,8 +22,9 @@ tag:
 
 ## Pdf(s)
 
-<PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/8df75ee22e740fdcf8c957f1cd71b195161f52c6/OCD_WorldWatch_Ransomware-ecosystem-map.pdf"/>
-<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/d74b875e27c12fbd9f7a8a8abec506560127c8f6/Resources/PracticalWindowsForensics-cheat-sheet.pdf"/>
+<PDF url="https://raw.githubusercontent.com/cert-orangecyberdefense/ransomware_map/8df75ee22e740fdcf8c957f1cd71b195161f52c6/OCD_WorldWatch_Ransomware-ecosystem-map.pdf" />
+<PDF url="https://raw.githubusercontent.com/bluecapesecurity/PWF/d74b875e27c12fbd9f7a8a8abec506560127c8f6/Resources/PracticalWindowsForensics-cheat-sheet.pdf" />
+<PDF url="https://jykim74.github.io/doc/PKI_SEC_SYSTEM.pdf" />
 
 ---
 
@@ -532,6 +533,14 @@ tag:
 ## Neil Madden
 
 - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
+
+---
+
+## 상구리의 기술 블로그
+
+- [암호화 – SEED / ARIA / AES](https://skyer9.pe.kr/wordpress/?p=9440)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

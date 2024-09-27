@@ -59,20 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You should already know that you can check whether a string contains a single word like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> string <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"The rain in Spain"</span></span>
-<span class="token keyword">let</span> stringResult <span class="token operator">=</span> string<span class="token punctuation">.</span><span class="token function">contains</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">)</span></code></pre>
-<p>You should also know that you can check an array of strings to see whether a particular string is in there, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> words <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"clouds"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"wind"</span></span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> arrayResult <span class="token operator">=</span> words<span class="token punctuation">.</span><span class="token function">contains</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">)</span></code></pre>
-<p>Well, both those <code>contains()</code> methods can be combined together to form a new meaning: “do any of the words in this array exist in this string?” like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> combinedResult <span class="token operator">=</span> words<span class="token punctuation">.</span><span class="token function">contains</span><span class="token punctuation">(</span><span class="token keyword">where</span><span class="token punctuation">:</span> string<span class="token punctuation">.</span>contains<span class="token punctuation">)</span></code></pre>
+You should already know that you can check whether a string contains a single word like this:
+
+```swift
+let string = "The rain in Spain"
+let stringResult = string.contains("rain")
+```
+
+You should also know that you can check an array of strings to see whether a particular string is in there, like this:
+
+```swift
+let words = ["clouds", "rain", "wind"]
+let arrayResult = words.contains("rain")
+```
+
+Well, both those `contains()` methods can be combined together to form a new meaning: “do any of the words in this array exist in this string?” like this:
+
+```swift
+let combinedResult = words.contains(where: string.contains)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-tell-if-an-array-contains-an-object">How to tell if an array contains an object</a></li><li><a href="/example-code/language/check-whether-all-items-in-an-array-match-a-condition">Check whether all items in an array match a condition</a></li><li><a href="/example-code/system/how-to-check-whether-your-other-apps-are-installed">How to check whether your other apps are installed</a></li><li><a href="/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range</a></li><li><a href="/example-code/system/how-to-check-whether-one-date-is-similar-to-another">How to check whether one date is similar to another</a></li></ul>
+/example-code/arrays/how-to-tell-if-an-array-contains-an-object">How to tell if an array contains an object 
+/example-code/language/check-whether-all-items-in-an-array-match-a-condition">Check whether all items in an array match a condition 
+/example-code/system/how-to-check-whether-your-other-apps-are-installed">How to check whether your other apps are installed 
+/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range 
+/example-code/system/how-to-check-whether-one-date-is-similar-to-another">How to check whether one date is similar to another</a>
 -->
 
 :::

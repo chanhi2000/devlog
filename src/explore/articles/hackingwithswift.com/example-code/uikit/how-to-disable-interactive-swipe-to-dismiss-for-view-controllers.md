@@ -59,19 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>From iOS 13.0 onwards, whenever you present a <code>UIViewController</code> you get a card-like user interface where the new view controller can be dismissed by swiping downwards. While this works great for optional information, it works less well if you require the user to make a choice –&nbsp;if you want to stop the view controller from being dismissed until they have taken some sort of action inside the detail view controller.</p>
-<p>Fortunately, UIKit has a dedicated property that deactivates the swipe to dismiss behavior: <code>isModalInPresentation</code>. This is false by default, but if you set it to true then <code>UIKit</code> will stop the interactive dismiss gesture and also ignore any events that occur outside of the detail view controller's bounds.</p>
-<p>To try this with your own code, simply set <code>isModalInPresentation</code> to true for your view controller, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> vc <span class="token operator">=</span> <span class="token class-name">DetailViewController</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-vc<span class="token punctuation">.</span>isModalInPresentation <span class="token operator">=</span> <span class="token boolean">true</span>
-<span class="token function">present</span><span class="token punctuation">(</span>vc<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span></code></pre>
-<p>This property can be set at any time, including long after the view controller has been shown.</p>
+From iOS 13.0 onwards, whenever you present a `UIViewController` you get a card-like user interface where the new view controller can be dismissed by swiping downwards. While this works great for optional information, it works less well if you require the user to make a choice – if you want to stop the view controller from being dismissed until they have taken some sort of action inside the detail view controller.
+
+Fortunately, UIKit has a dedicated property that deactivates the swipe to dismiss behavior: `isModalInPresentation`. This is false by default, but if you set it to true then `UIKit` will stop the interactive dismiss gesture and also ignore any events that occur outside of the detail view controller's bounds.
+
+To try this with your own code, simply set `isModalInPresentation` to true for your view controller, like this:
+
+```swift
+let vc = DetailViewController()
+vc.isModalInPresentation = true
+present(vc, animated: true)
+```
+
+This property can be set at any time, including long after the view controller has been shown.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-make-a-view-dismiss-itself">How to make a view dismiss itself</a></li><li><a href="/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield">How to dismiss the keyboard for a TextField</a></li><li><a href="/quick-start/swiftui/how-to-dismiss-the-keyboard-when-the-user-scrolls">How to dismiss the keyboard when the user scrolls</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/system/how-to-pass-data-between-two-view-controllers">How to pass data between two view controllers</a></li></ul>
+/quick-start/swiftui/how-to-make-a-view-dismiss-itself">How to make a view dismiss itself 
+/quick-start/swiftui/how-to-dismiss-the-keyboard-for-a-textfield">How to dismiss the keyboard for a TextField 
+/quick-start/swiftui/how-to-dismiss-the-keyboard-when-the-user-scrolls">How to dismiss the keyboard when the user scrolls 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/system/how-to-pass-data-between-two-view-controllers">How to pass data between two view controllers</a>
 -->
 
 :::

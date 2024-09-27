@@ -59,19 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Classes and structures (structs) are so similar in Swift that it's easy to get them confused at first, but actually there are some important underlying differences:</p>
-<ul>
-<li>A struct cannot inherit from another kind of struct, whereas classes can build on other classes.</li>
-<li>You can change the type of an object at runtime using typecasting. Structs cannot have inheritance, so have only one type.</li>
-<li>If you point two variables at the same struct, they have their own independent copy of the data. With objects, they both point at the same variable.</li>
-</ul>
-<p>That last point is particularly important: with a struct you know your data is fixed in place, like an integer or other value. This means if you pass your struct into a function, you know it's not going to get modified.</p>
+Classes and structures (structs) are so similar in Swift that it's easy to get them confused at first, but actually there are some important underlying differences:
+
+- A struct cannot inherit from another kind of struct, whereas classes can build on other classes.
+<li>You can change the type of an object at runtime using typecasting. Structs cannot have inheritance, so have only one type.
+<li>If you point two variables at the same struct, they have their own independent copy of the data. With objects, they both point at the same variable.
+
+That last point is particularly important: with a struct you know your data is fixed in place, like an integer or other value. This means if you pass your struct into a function, you know it's not going to get modified.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/example-code/language/what-is-a-nested-class-or-nested-struct">What is a nested class or nested struct?</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/example-code/language/what-is-a-nested-class-or-nested-struct">What is a nested class or nested struct?</a>
 -->
 
 :::

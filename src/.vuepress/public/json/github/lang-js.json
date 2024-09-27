@@ -3588,5 +3588,12 @@
     "topics": ["chatgpt", "electron", "frontend", "linux", "macos", "media", "nodejs", "vue", "vuejs", "vuejs2", "vuetify", "windows"],
     "avatar": "https://avatars.githubusercontent.com/u/16878526?v=4",
     "banner": ""
+  }, {
+    "repo": "evanwashere/mitata",
+    "desc": "benchmark tooling that loves you ❤️",
+    "officialSite": "",
+    "topics": ["benchmark", "bun", "cpp", "deno", "graaljs", "javascript", "jsc", "library", "microbenchmark", "node", "nodejs", "performance", "single-header", "spidermonkey", "v8"],
+    "avatar": "https://avatars.githubusercontent.com/u/70155278?v=4",
+    "banner": ""
   }
 ]

@@ -59,28 +59,40 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>If you’re in a situation where your iOS app has multiple <code>UITextField</code> instances lined up, users expect to be able to move between them by pressing Next/Return on their on-screen keyboard. There is no built-in way of making this happen, so we need to write code ourselves using one of several approaches.</p>
-<p>The easiest approach is using view tags: give your text fields incrementing tag numbers, then make them all point to a common delegate – it might be your view controller, but it doesn’t need to be. </p>
-<p>Once that’s done you can use the <code>becomeFirstResponder()</code> and <code>resignFirstResponder()</code> methods to manipulate which view is in control like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">textFieldShouldReturn</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> textField<span class="token punctuation">:</span> <span class="token class-name">UITextField</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> nextTag <span class="token operator">=</span> textField<span class="token punctuation">.</span>tag <span class="token operator">+</span> <span class="token number">1</span>
+If you’re in a situation where your iOS app has multiple `UITextField` instances lined up, users expect to be able to move between them by pressing Next/Return on their on-screen keyboard. There is no built-in way of making this happen, so we need to write code ourselves using one of several approaches.
 
-    <span class="token keyword">if</span> <span class="token keyword">let</span> nextResponder <span class="token operator">=</span> textField<span class="token punctuation">.</span>superview<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">viewWithTag</span><span class="token punctuation">(</span>nextTag<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        nextResponder<span class="token punctuation">.</span><span class="token function">becomeFirstResponder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-        textField<span class="token punctuation">.</span><span class="token function">resignFirstResponder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
+The easiest approach is using view tags: give your text fields incrementing tag numbers, then make them all point to a common delegate – it might be your view controller, but it doesn’t need to be. 
 
-    <span class="token keyword">return</span> <span class="token boolean">true</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If you’re desperately opposed to using tags, the other solution is to place your labels in an array, find the position of the text field that triggered the event, then move one down in the array.</p>
-<p><strong>Note:</strong> If you ever need to force the first responder to resign itself and aren’t sure which text field is in control, it’s easier to use <code>view.endEditing(true)</code>.</p>
+Once that’s done you can use the `becomeFirstResponder()` and `resignFirstResponder()` methods to manipulate which view is in control like this:
+
+```swift
+func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+    let nextTag = textField.tag + 1
+
+    if let nextResponder = textField.superview?.viewWithTag(nextTag) {
+        nextResponder.becomeFirstResponder()
+    } else {
+        textField.resignFirstResponder()
+    }
+
+    return true
+}
+```
+
+If you’re desperately opposed to using tags, the other solution is to place your labels in an array, find the position of the text field that triggered the event, then move one down in the array.
+
+**Note:** If you ever need to force the first responder to resign itself and aren’t sure which text field is in control, it’s easier to use `view.endEditing(true)`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-detect-long-presses-using-uilongpressgesturerecognizer">How to detect long presses using UILongPressGestureRecognizer</a></li><li><a href="/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview">How to limit the number of characters in a UITextField or UITextView</a></li><li><a href="/example-code/uikit/how-to-hide-passwords-in-a-uitextfield">How to hide passwords in a UITextField</a></li><li><a href="/example-code/uikit/how-to-add-a-uitextfield-to-a-uialertcontroller">How to add a UITextField to a UIAlertController</a></li><li><a href="/example-code/uikit/how-to-detect-keyboard-input-using-pressesbegan-and-pressesended">How to detect keyboard input using pressesBegan() and pressesEnded()</a></li></ul>
+/example-code/uikit/how-to-detect-long-presses-using-uilongpressgesturerecognizer">How to detect long presses using UILongPressGestureRecognizer 
+/example-code/uikit/how-to-limit-the-number-of-characters-in-a-uitextfield-or-uitextview">How to limit the number of characters in a UITextField or UITextView 
+/example-code/uikit/how-to-hide-passwords-in-a-uitextfield">How to hide passwords in a UITextField 
+/example-code/uikit/how-to-add-a-uitextfield-to-a-uialertcontroller">How to add a UITextField to a UIAlertController 
+/example-code/uikit/how-to-detect-keyboard-input-using-pressesbegan-and-pressesended">How to detect keyboard input using pressesBegan() and pressesEnded()</a>
 -->
 
 :::

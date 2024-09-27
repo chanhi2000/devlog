@@ -59,24 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Property observers are Swift's way of letting you attach functionality to changes in property values. For example, you might want to say, "whenever the player's score changes, update this label to show their new score." Here's a basic example that prints message to the debug console when a variable changes:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> score <span class="token operator">=</span> <span class="token number">0</span> <span class="token punctuation">{</span>
-    <span class="token keyword">willSet</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Score is about to change to </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">newValue</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
+Property observers are Swift's way of letting you attach functionality to changes in property values. For example, you might want to say, "whenever the player's score changes, update this label to show their new score." Here's a basic example that prints message to the debug console when a variable changes:
 
-    <span class="token keyword">didSet</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Score just changed from </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">oldValue</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string"> to </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">score</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span>
+```swift
+var score = 0 {
+    willSet {
+        print("Score is about to change to \(newValue)")
+    }
 
-score <span class="token operator">=</span> <span class="token number">10</span></code></pre>
+    didSet {
+        print("Score just changed from \(oldValue) to \(score)")
+    }
+}
+
+score = 10
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-local-variable-observers">How to use local variable observers</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/understanding-property-wrappers-in-swift-and-swiftui">Understanding property wrappers in Swift and SwiftUI</a></li><li><a href="/quick-start/swiftui/what-is-the-published-property-wrapper">What is the @Published property wrapper?</a></li><li><a href="/quick-start/swiftui/what-is-the-gesturestate-property-wrapper">What is the @GestureState property wrapper?</a></li></ul>
+/example-code/language/how-to-use-local-variable-observers">How to use local variable observers 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/understanding-property-wrappers-in-swift-and-swiftui">Understanding property wrappers in Swift and SwiftUI 
+/quick-start/swiftui/what-is-the-published-property-wrapper">What is the @Published property wrapper? 
+/quick-start/swiftui/what-is-the-gesturestate-property-wrapper">What is the @GestureState property wrapper?</a>
 -->
 
 :::

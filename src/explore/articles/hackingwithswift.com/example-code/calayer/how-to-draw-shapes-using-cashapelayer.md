@@ -59,18 +59,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>There are lots of <code>CALayer</code> subclasses out there, but <code>CAShapeLayer</code> is one of my favorites: it provides hardware-accelerated drawing of all sorts of 2D shapes, and includes extra functionality such as fill and stroke colors, line caps, patterns and more.</p>
-<p>To get you started, this uses <code>UIBezierPath</code> to create a rounded rectangle, which is then colored red using <code>CAShaperLayer</code>. Remember, <code>CALayer</code> sits underneath UIKit, so you need to use <code>CGColor</code> rather than <code>UIColor</code>.</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> layer <span class="token operator">=</span> <span class="token class-name">CAShapeLayer</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-layer<span class="token punctuation">.</span>path <span class="token operator">=</span> <span class="token class-name">UIBezierPath</span><span class="token punctuation">(</span>roundedRect<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">160</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">160</span><span class="token punctuation">)</span><span class="token punctuation">,</span> cornerRadius<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">.</span>cgPath
-layer<span class="token punctuation">.</span>fillColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">.</span>cgColor
-view<span class="token punctuation">.</span>layer<span class="token punctuation">.</span><span class="token function">addSublayer</span><span class="token punctuation">(</span>layer<span class="token punctuation">)</span></code></pre>
+There are lots of `CALayer` subclasses out there, but `CAShapeLayer` is one of my favorites: it provides hardware-accelerated drawing of all sorts of 2D shapes, and includes extra functionality such as fill and stroke colors, line caps, patterns and more.
+
+To get you started, this uses `UIBezierPath` to create a rounded rectangle, which is then colored red using `CAShaperLayer`. Remember, `CALayer` sits underneath UIKit, so you need to use `CGColor` rather than `UIColor`.
+
+```swift
+let layer = CAShapeLayer()
+layer.path = UIBezierPath(roundedRect: CGRect(x: 64, y: 64, width: 160, height: 160), cornerRadius: 50).cgPath
+layer.fillColor = UIColor.red.cgColor
+view.layer.addSublayer(layer)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes">How to combine shapes to create new shapes</a></li><li><a href="/example-code/uikit/how-to-draw-shapes-using-uibezierpath">How to draw shapes using UIBezierPath</a></li><li><a href="/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time</a></li><li><a href="/example-code/calayer/how-to-make-a-shape-draw-itself-using-strokeend">How to make a shape draw itself using strokeEnd</a></li><li><a href="/quick-start/swiftui/swiftuis-built-in-shapes">SwiftUI’s built-in shapes</a></li></ul>
+/quick-start/swiftui/how-to-combine-shapes-to-create-new-shapes">How to combine shapes to create new shapes 
+/example-code/uikit/how-to-draw-shapes-using-uibezierpath">How to draw shapes using UIBezierPath 
+/quick-start/swiftui/how-to-fill-and-stroke-shapes-at-the-same-time">How to fill and stroke shapes at the same time 
+/example-code/calayer/how-to-make-a-shape-draw-itself-using-strokeend">How to make a shape draw itself using strokeEnd 
+/quick-start/swiftui/swiftuis-built-in-shapes">SwiftUI’s built-in shapes</a>
 -->
 
 :::

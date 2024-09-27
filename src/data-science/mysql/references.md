@@ -289,4 +289,12 @@ head:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [MySQL – 데이타 복사](https://skyer9.pe.kr/wordpress/?p=9447)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
 <TagLinks />

@@ -61,21 +61,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>There are two ways to run code after a delay using Swift: GCD and <code>perform(_:with:afterDelay:)</code>, but GCD has the advantage that it can run arbitrary blocks of code, whereas the <code>perform()</code> method runs methods.</p>
-<p>So, using GCD we can write something that runs code after a half-second delay:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">DispatchQueue</span><span class="token punctuation">.</span>main<span class="token punctuation">.</span><span class="token function">asyncAfter</span><span class="token punctuation">(</span>deadline<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token function">now</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token number">0.5</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token comment">// your code here</span>
-<span class="token punctuation">}</span></code></pre>
-<p>An alternative option is to use <code>perform(_:with:afterDelay:)</code>, which lets you specify a method to call after a certain time has elapsed.</p>
-<p>To call the <code>authenticate()</code> method after 1 second, you would use this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">perform</span><span class="token punctuation">(</span><span class="token other-directive property">#selector</span><span class="token punctuation">(</span>authenticate<span class="token punctuation">)</span><span class="token punctuation">,</span> with<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">,</span> afterDelay<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
-<p>Note: any method called using <code>perform(_:with:afterDelay:)</code> must be marked with the <code>@objc</code> attribute.</p>
+There are two ways to run code after a delay using Swift: GCD and `perform(_:with:afterDelay:)`, but GCD has the advantage that it can run arbitrary blocks of code, whereas the `perform()` method runs methods.
+
+So, using GCD we can write something that runs code after a half-second delay:
+
+```swift
+DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+    // your code here
+}
+```
+
+An alternative option is to use `perform(_:with:afterDelay:)`, which lets you specify a method to call after a certain time has elapsed.
+
+To call the `authenticate()` method after 1 second, you would use this code:
+
+```swift
+perform(#selector(authenticate), with: nil, afterDelay: 1)
+```
+
+Note: any method called using `perform(_:with:afterDelay:)` must be marked with the `@objc` attribute.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

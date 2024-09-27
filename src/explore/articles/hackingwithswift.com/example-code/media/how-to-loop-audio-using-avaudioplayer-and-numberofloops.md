@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>By default <code>AVAudioPlayer</code> plays its audio from start to finish then stops, but you can control how many times to make it loop by setting its <code>numberOfLoops</code> property. For example, to make your audio play five times in total, you’d write this:</p>
-<pre class=" language-swift"><code class=" language-swift">audioPlayer<span class="token punctuation">.</span>numberOfLoops <span class="token operator">=</span> <span class="token number">5</span></code></pre>
-<p>You can also set this property to -1, which automatically causes <code>AVAudioPlayer</code> to loop the sound forever.</p>
+By default `AVAudioPlayer` plays its audio from start to finish then stops, but you can control how many times to make it loop by setting its `numberOfLoops` property. For example, to make your audio play five times in total, you’d write this:
+
+```swift
+audioPlayer.numberOfLoops = 5
+```
+
+You can also set this property to -1, which automatically causes `AVAudioPlayer` to loop the sound forever.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/media/how-to-control-the-pitch-and-speed-of-audio-using-avaudioengine">How to control the pitch and speed of audio using AVAudioEngine</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
+/example-code/media/how-to-control-the-pitch-and-speed-of-audio-using-avaudioengine">How to control the pitch and speed of audio using AVAudioEngine 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

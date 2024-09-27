@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you want to check how your app works when running on devices with other languages, you have two options: you can either instruct the simulator to use a specific language where you have a localization in place, or you can have it use a special "Double length pseudolanguage" that basically acts as a stress test.</p>
-<p>Both of these options live under the the scheme settings for your app, which you can get to by holding down Alt then going to the Product menu and clicking "Run…" – holding down Alt makes it say "Run…" rather than "Run", which is what triggers the scheme settings window.</p>
-<p>In the scheme settings window, click the dropdown next to Application Language. You can either choose a language that you have localized to, or choose Double Length Pseudolanguage. This option effectively makes all your strings take up twice as much space on the screen, which shows you at a glance if your interface will cope with languages that have longer words than your own.</p>
+If you want to check how your app works when running on devices with other languages, you have two options: you can either instruct the simulator to use a specific language where you have a localization in place, or you can have it use a special "Double length pseudolanguage" that basically acts as a stress test.
+
+Both of these options live under the the scheme settings for your app, which you can get to by holding down Alt then going to the Product menu and clicking "Run…" – holding down Alt makes it say "Run…" rather than "Run", which is what triggers the scheme settings window.
+
+In the scheme settings window, click the dropdown next to Application Language. You can either choose a language that you have localized to, or choose Double Length Pseudolanguage. This option effectively makes all your strings take up twice as much space on the screen, which shows you at a glance if your interface will cope with languages that have longer words than your own.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/strings/how-to-get-the-length-of-a-string">How to get the length of a string</a></li></ul>
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/strings/how-to-get-the-length-of-a-string">How to get the length of a string</a>
 -->
 
 :::

@@ -59,22 +59,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift provides the <code>ListFormatter</code> class as a built-in way of joining lists of strings into a single string so that the last item has “and” before it, like a natural English string. So, rather than just getting “A, B, C” you actually get “A, B and C” –&nbsp;it’s much more suitable for user interfaces.</p>
-<p>Here’s some example code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> names <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Ash"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Brock"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Misty"</span></span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> joined1 <span class="token operator">=</span> <span class="token class-name">ListFormatter</span><span class="token punctuation">.</span><span class="token function">localizedString</span><span class="token punctuation">(</span>byJoining<span class="token punctuation">:</span> names<span class="token punctuation">)</span>
-<span class="token function">print</span><span class="token punctuation">(</span>joined1<span class="token punctuation">)</span></code></pre>
-<p>That will print “Ash, Brock and Misty”. (No, there’s no way of asking it for the Oxford comma, so “Ash, Brock, and Misty” isn’t possible.)</p>
-<p>If you want to join the strings without using the “and” at the end, you should just use the <code>joined(separator:)</code> method, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> joined2 <span class="token operator">=</span> names<span class="token punctuation">.</span><span class="token function">joined</span><span class="token punctuation">(</span>separator<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">", "</span></span><span class="token punctuation">)</span>
-<span class="token function">print</span><span class="token punctuation">(</span>joined2<span class="token punctuation">)</span></code></pre>
-<p>That will print “Ash, Brock, Misty”.</p>
+Swift provides the `ListFormatter` class as a built-in way of joining lists of strings into a single string so that the last item has “and” before it, like a natural English string. So, rather than just getting “A, B, C” you actually get “A, B and C” – it’s much more suitable for user interfaces.
+
+Here’s some example code:
+
+```swift
+let names = ["Ash", "Brock", "Misty"]
+let joined1 = ListFormatter.localizedString(byJoining: names)
+print(joined1)
+```
+
+That will print “Ash, Brock and Misty”. (No, there’s no way of asking it for the Oxford comma, so “Ash, Brock, and Misty” isn’t possible.)
+
+If you want to join the strings without using the “and” at the end, you should just use the `joined(separator:)` method, like this:
+
+```swift
+let joined2 = names.joined(separator: ", ")
+print(joined2)
+```
+
+That will print “Ash, Brock, Misty”.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string</a></li><li><a href="/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays</a></li><li><a href="/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI</a></li><li><a href="/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space">How to adjust the way an image is fitted to its space</a></li><li><a href="/quick-start/swiftui/how-to-customize-the-way-links-are-opened">How to customize the way links are opened</a></li></ul>
+/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string 
+/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays 
+/quick-start/swiftui/two-way-bindings-in-swiftui">Two-way bindings in SwiftUI 
+/quick-start/swiftui/how-to-adjust-the-way-an-image-is-fitted-to-its-space">How to adjust the way an image is fitted to its space 
+/quick-start/swiftui/how-to-customize-the-way-links-are-opened">How to customize the way links are opened</a>
 -->
 
 :::

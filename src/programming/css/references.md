@@ -80,6 +80,7 @@ tag:
 
 - [`@superlipbalm` / (번역) Shadow DOM을 스타일링 하는 8가지 방법](https://velog.io/@superlipbalm/8-ways-to-style-the-shadow-dom)
 - [`@ksh4704` / HTML 정리(1)](https://velog.io/@ksh4704/HTML-%EC%A0%95%EB%A6%AC1)
+- [`@ksh4704` / 스타벅스 클론 코딩(1)](https://velog.io/@ksh4704/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A91)
 
 <!-- END: velog.io -->
 

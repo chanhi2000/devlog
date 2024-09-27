@@ -511,6 +511,8 @@ tag:
 
 - [Better Dotfiles](https://iamdan.me/better-dotfiles)
 
+<!-- END: iamdan.me -->
+
 ---
 
 ## John Graham-Cumming's blog
@@ -522,6 +524,22 @@ tag:
 ## 숲속얘기의 조용한 카페 & XRCLOUD
 
 - [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
+
+---
+
+## llimllib notes
+
+- [modern unix tool list](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html)
+
+<!-- END: notes.billmill.org -->
+
+---
+
+## blog.chay.dev
+
+- [Create an internal CLI](https://blog.chay.dev/create-an-internal-cli/)
+
+<!-- END: blog.chay.dev -->
 
 ---
 

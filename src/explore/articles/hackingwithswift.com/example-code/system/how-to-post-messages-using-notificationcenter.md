@@ -59,20 +59,35 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>iOS notifications are a simple and powerful way to send data in a loosely coupled way. That is, the sender of a notification doesn't have to care about who (if anyone) receives the notification, it just posts it out there to the rest of the app and it could be picked up by lots of things or nothing depending on your app's state.</p>
-<p>As a basic example, you might want various parts of your app to do some work when the user logs in – you might want some views to refresh, you might want a database to update itself, and so on. To do this, just post a notification name like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> nc <span class="token operator">=</span> <span class="token class-name">NotificationCenter</span><span class="token punctuation">.</span><span class="token keyword">default</span>
-nc<span class="token punctuation">.</span><span class="token function">post</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token class-name">Notification</span><span class="token punctuation">.</span><span class="token class-name">Name</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"UserLoggedIn"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span> object<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span></code></pre>
-<p>Note: it is preferable, for type safety, to define your notification names as static strings that belong to a class or struct or other global form so that you don't make a typo and introduce bugs.</p>
-<p>To register to catch a notification being posted, use this:</p>
-<pre class=" language-swift"><code class=" language-swift">nc<span class="token punctuation">.</span><span class="token function">addObserver</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">,</span> selector<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>userLoggedIn<span class="token punctuation">)</span><span class="token punctuation">,</span> name<span class="token punctuation">:</span> <span class="token class-name">Notification</span><span class="token punctuation">.</span><span class="token class-name">Name</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"UserLoggedIn"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span> object<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span></code></pre>
-<p>That will call a <code>userLoggedIn()</code> method when your notification is posted.</p>
+iOS notifications are a simple and powerful way to send data in a loosely coupled way. That is, the sender of a notification doesn't have to care about who (if anyone) receives the notification, it just posts it out there to the rest of the app and it could be picked up by lots of things or nothing depending on your app's state.
+
+As a basic example, you might want various parts of your app to do some work when the user logs in – you might want some views to refresh, you might want a database to update itself, and so on. To do this, just post a notification name like this:
+
+```swift
+let nc = NotificationCenter.default
+nc.post(name: Notification.Name("UserLoggedIn"), object: nil)
+```
+
+Note: it is preferable, for type safety, to define your notification names as static strings that belong to a class or struct or other global form so that you don't make a typo and introduce bugs.
+
+To register to catch a notification being posted, use this:
+
+```swift
+nc.addObserver(self, selector: #selector(userLoggedIn), name: Notification.Name("UserLoggedIn"), object: nil)
+```
+
+That will call a `userLoggedIn()` method when your notification is posted.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li><li><a href="/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString 
+/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

@@ -241,7 +241,7 @@ You can learn more about filtered indexes from the documentation:
   desc="A filtered index is an optimized disk-based rowstore nonclustered index especially suited to cover queries that select from a well-defined subset of data."
   url="https://learn.microsoft.com/en-us/sql/relational-databases/indexes/create-filtered-indexes?view=sql-server-ver16"
   logo="/images/content/learn.microsoft.com/favicon.ico"
-  preview="https://learn.microsoft.com/en-us/media/open-graph-image.png"/>
+  preview="/imagea/content/learn.microsoft.com/open-graph-image.png"/>
 
 <SiteInfo
   name="PostgreSQL: Documentation: 16: 11.8. Partial Indexes"

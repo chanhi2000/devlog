@@ -59,23 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>If you're working entirely in code, you can register a <code>UICollectionViewCell</code> subclass for use with your collection view, so that new cells are dequeued and re-use automatically by the system.</p>
-<p>Here's the most basic form of this technique:</p>
-<pre class=" language-swift"><code class=" language-swift">collectionView<span class="token punctuation">.</span><span class="token function">register</span><span class="token punctuation">(</span><span class="token class-name">UICollectionViewCell</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">,</span> forCellWithReuseIdentifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Cell"</span></span><span class="token punctuation">)</span></code></pre>
-<p>That registers a basic collection view cell, which you can then customize in code if you want to. You can then dequeue a cell with this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">collectionView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> collectionView<span class="token punctuation">:</span> <span class="token class-name">UICollectionView</span><span class="token punctuation">,</span> cellForItemAt indexPath<span class="token punctuation">:</span> <span class="token class-name">IndexPath</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">UICollectionViewCell</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> cell <span class="token operator">=</span> collectionView<span class="token punctuation">.</span><span class="token function">dequeueReusableCell</span><span class="token punctuation">(</span>withReuseIdentifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Cell"</span></span><span class="token punctuation">,</span> <span class="token keyword">for</span><span class="token punctuation">:</span> indexPath<span class="token punctuation">)</span>
-    <span class="token keyword">return</span> cell
-<span class="token punctuation">}</span></code></pre>
-<p>If a cell doesn't already exist that can be re-used, a new one will be created automatically.</p>
-<p>As you might imagine, you will most of the time want to create your own custom <code>UICollectionViewCell</code> subclass and use that instead, but the code is the same&nbsp;–&nbsp;just use your class name instead.</p>
-<p>If you're working with Interface Builder, all this work is done for you by creating prototype cells.</p>
+If you're working entirely in code, you can register a `UICollectionViewCell` subclass for use with your collection view, so that new cells are dequeued and re-use automatically by the system.
+
+Here's the most basic form of this technique:
+
+```swift
+collectionView.register(UICollectionViewCell.self, forCellWithReuseIdentifier: "Cell")
+```
+
+That registers a basic collection view cell, which you can then customize in code if you want to. You can then dequeue a cell with this:
+
+```swift
+func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+    let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "Cell", for: indexPath)
+    return cell
+}
+```
+
+If a cell doesn't already exist that can be re-used, a new one will be created automatically.
+
+As you might imagine, you will most of the time want to create your own custom `UICollectionViewCell` subclass and use that instead, but the code is the same – just use your class name instead.
+
+If you're working with Interface Builder, all this work is done for you by creating prototype cells.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse</a></li><li><a href="/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications?</a></li><li><a href="/example-code/uikit/fixing-unable-to-dequeue-a-cell-with-identifier">Fixing "Unable to dequeue a cell with identifier"</a></li><li><a href="/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource"</a></li><li><a href="/example-code/uikit/how-to-make-uicollectionview-headers-stay-fixed-using-sectionheaderspintovisiblebounds">How to make UICollectionView headers stay fixed using sectionHeadersPinToVisibleBounds</a></li></ul>
+/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse 
+/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications? 
+/example-code/uikit/fixing-unable-to-dequeue-a-cell-with-identifier">Fixing "Unable to dequeue a cell with identifier" 
+/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource" 
+/example-code/uikit/how-to-make-uicollectionview-headers-stay-fixed-using-sectionheaderspintovisiblebounds">How to make UICollectionView headers stay fixed using sectionHeadersPinToVisibleBounds</a>
 -->
 
 :::

@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_035.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_035.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 We all want to build **robust** and **reliable** applications that can scale indefinitely and handle any number of requests.
 
 But with **distributed systems** and **microservices architectures** growing in complexity, it's becoming increasingly harder to **monitor** the **health** of our applications.
@@ -65,22 +62,15 @@ That's where **health checks** come in.
 **Health checks** provide a way to monitor and verify the health of various components of an application including:
 
 - Databases
-<li>APIs
-<li>Caches
-<li>External services
-
-Here's what I'll show you in this week's newsletter:
-
-- <a href="#what-are-health-checks">What are health checks</a>
-<li><a href="#adding-custom-health-checks">Adding a custom health check</a>
-<li><a href="#using-existing-health-check-libraries">Using existing health check libraries</a>
-<li><a href="#formatting-health-checks-response">Customizing the health checks response format</a>
+- APIs
+- Caches
+- External services
 
 Let's see how to implement **health checks** in **ASP.NET Core**.
 
 ---
 
-## what-are-health-checks"><a href="#what-are-health-checks">What Are Health Checks?
+## What Are Health Checks?
 
 **Health checks** are a proactive mechanism for monitoring and verifying the **health** and **availability** of an application in **ASP.NET Core.**
 
@@ -88,17 +78,16 @@ ASP.NET Core has **built-in support** for implementing **health checks.**
 
 Here's the basic configuration, which registers the health check services and adds the `HealthCheckMiddleware` to respond at the specified URL.
 
-```cs
+```cs{3,7}
 var builder = WebApplication.CreateBuilder(args);
 
-<span class="code-line highlight-line">builder.Services.AddHealthChecks();
+builder.Services.AddHealthChecks();
 
 var app = builder.Build();
 
-<span class="code-line highlight-line">app.MapHealthChecks("/health");
+app.MapHealthChecks("/health");
 
 app.Run();
-
 ```
 
 The health check returns a `HealthStatus` value indicating the health of the service.
@@ -106,8 +95,8 @@ The health check returns a `HealthStatus` value indicating the health of the ser
 There are three distinct `HealthStatus` values:
 
 - `HealthStatus.Healthy`
-<li>`HealthStatus.Degraded`
-<li>`HealthStatus.Unhealthy`
+- `HealthStatus.Degraded`
+- `HealthStatus.Unhealthy`
 
 You can use the `HealthStatus` to indicate the different states of your application.
 
@@ -115,7 +104,7 @@ For example, if the application is functioning slower than expected you can retu
 
 ---
 
-## adding-custom-health-checks"><a href="#adding-custom-health-checks">Adding Custom Health Checks
+## Adding Custom Health Checks
 
 You can create **custom health checks** by implementing the `IHealthCheck` interface.
 
@@ -160,17 +149,15 @@ public class SqlHealthCheck : IHealthCheck
         }
     }
 }
-
 ```
 
 After you implement the **custom health check**, you need to register it.
 
 The previous call to `AddHealthChecks` now becomes:
 
-```cs
+```cs{2}
 builder.Services.AddHealthChecks()
-<span class="code-line highlight-line">    .AddCheck<SqlHealthCheck>("custom-sql", HealthStatus.Unhealthy);
-
+    .AddCheck<SqlHealthCheck>("custom-sql", HealthStatus.Unhealthy);
 ```
 
 We're giving it a custom name and setting which status to use as the failure result in `HealthCheckContext.Registration.FailureStatus`.
@@ -183,35 +170,33 @@ Of course not! There's a better solution.
 
 ---
 
-## using-existing-health-check-libraries"><a href="#using-existing-health-check-libraries">Using Existing Health Check Libraries
+## Using Existing Health Check Libraries
 
 Before you start implementing a custom **health check** for everything, you should first see if there's already an **existing library.**
 
-In the <a href="https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks">`AspNetCore.Diagnostics.HealthChecks`</a> repository you can find
-a wide collection **health check** packages for frequently used services and libraries.
+In the [<FontIcon icon="iconfont icon-github"/>`Xabaril/AspNetCore.Diagnostics.HealthChecks`](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) repository you can find a wide collection **health check** packages for frequently used services and libraries.
 
 Here are just a few examples:
 
-- SQL Server - `AspNetCore.HealthChecks.SqlServer`
-<li>Postgres - `AspNetCore.HealthChecks.Npgsql`
-<li>Redis - `AspNetCore.HealthChecks.Redis`
-<li>RabbitMQ - `AspNetCore.HealthChecks.RabbitMQ`
-<li>AWS S3 - `AspNetCore.HealthChecks.Aws.S3`
-<li>SignalR - `AspNetCore.HealthChecks.SignalR`
+- <FontIcon icon="iconfont icon-sqlserver"/>SQL Server: `AspNetCore.HealthChecks.SqlServer`
+- <FontIcon icon="iconfont icon-postgresql"/>Postgres: `AspNetCore.HealthChecks.Npgsql`
+- <FontIcon icon="iconfont icon-redis"/>Redis: `AspNetCore.HealthChecks.Redis`
+- <FontIcon icon="iconfont icon-rabbitmq"/>RabbitMQ: `AspNetCore.HealthChecks.RabbitMQ`
+- <FontIcon icon="fa-brands fa-aws"/>AWS S3: `AspNetCore.HealthChecks.Aws.S3`
+- SignalR: `AspNetCore.HealthChecks.SignalR`
 
 Here's how to add health checks for **PostgreSQL** and **RabbitMQ**:
 
-```cs
+```cs{3-4}
 builder.Services.AddHealthChecks()
     .AddCheck<SqlHealthCheck>("custom-sql", HealthStatus.Unhealthy);
-<span class="code-line highlight-line">    .AddNpgSql(pgConnectionString)
-<span class="code-line highlight-line">    .AddRabbitMQ(rabbitConnectionString)
-
+    .AddNpgSql(pgConnectionString)
+    .AddRabbitMQ(rabbitConnectionString)
 ```
 
 ---
 
-## formatting-health-checks-response"><a href="#formatting-health-checks-response">Formatting Health Checks Response
+## Formatting Health Checks Response
 
 By default, the endpoint returning you **health check** status will return a string value representing a `HealthStatus`.
 
@@ -225,19 +210,17 @@ Let's install the **NuGet** package:
 
 ```pwsh
 Install-Package AspNetCore.HealthChecks.UI.Client
-
 ```
 
 And you need to slightly update the call to `MapHealthChecks` to use the `ResponseWriter` coming from this library:
 
-```cs
+```cs{3-6}
 app.MapHealthChecks(
     "/health",
-<span class="code-line highlight-line">    new HealthCheckOptions
-<span class="code-line highlight-line">    {
-<span class="code-line highlight-line">        ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
-<span class="code-line highlight-line">    });
-
+    new HealthCheckOptions
+    {
+        ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+    });
 ```
 
 After making these changes, here's what the response from the health check endpoint looks like:
@@ -269,25 +252,21 @@ After making these changes, here's what the response from the health check endpo
     }
   }
 }
-
 ```
 
 ---
 
-## takeaway"><a href="#takeaway">Takeaway
+## Takeaway
 
 Application monitoring is important to track availability, resource usage, and changes to performance in your application.
 
-I've used **health checks** before to implement **failover scenarios** in a **cloud deployment**.
-When one application instance stops responding with a healthy result, a new one is created to continue serving requests.
+I've used **health checks** before to implement **failover scenarios** in a **cloud deployment**. When one application instance stops responding with a healthy result, a new one is created to continue serving requests.
 
 It's easy to monitor the health of your ASP.NET Core applications by **exposing health checks** for your services.
 
 You can decide to implement **custom health checks**, but first consider if there are **existing solutions**.
 
 Thank you for reading, and have an awesome Saturday.
-
--->
 
 ---
 

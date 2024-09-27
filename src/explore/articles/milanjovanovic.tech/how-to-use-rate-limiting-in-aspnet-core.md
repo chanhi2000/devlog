@@ -51,41 +51,31 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_032.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_032.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Rate limiting is a technique to limit the number of requests to a server or an API.
 
 A limit is introduced within a given time period to prevent server overload and protect against abuse.
 
 In ASP.NET Core 7, we have a built-in rate limiter middleware that's easy to integrate into your API.
 
-We're going to cover four rate limiter algorithms:
-
-- <a href="#fixed-window-limiter">Fixed window</a>
-<li><a href="#sliding-window-limiter">Sliding window</a>
-<li><a href="#token-bucket-limiter">Token bucket</a>
-<li><a href="#concurrency-limiter">Concurrency</a>
-
 Let's see how we can work with rate limiting.
 
 ---
 
-## what-is-rate-limiting"><a href="#what-is-rate-limiting">What Is Rate Limiting?
+## What Is Rate Limiting?
 
 Rate limiting is about restricting the number of requests to an API, usually within a specific time window or based on other criteria.
 
 This is practical for a few reasons:
 
 - Prevents overloading of servers or applications
-<li>Improves security and guards against DDoS attacks
-<li>Reduces costs by preventing unnecessary resource usage
+- Improves security and guards against DDoS attacks
+- Reduces costs by preventing unnecessary resource usage
 
 In a multi-tenant application, each unique user can have a limitation on the number of API requests.
 
 ---
 
-## configuring-rate-limiting"><a href="#configuring-rate-limiting">Configuring Rate Limiting
+## Configuring Rate Limiting
 
 ASP.NET Core 7 introduced built-in rate limiting middleware in the `Microsoft.AspNetCore.RateLimiting` namespace.
 
@@ -98,17 +88,14 @@ builder.Services.AddRateLimiter(options =>
 
     // We'll talk about adding specific rate limiting policies later.
 });
-
 ```
 
-I suggest updating the `RejectionStatusCode` to `429 (Too Many Requests)` because it's more correct.
-The default value is `503 (Service Unavailable)`.
+I suggest updating the `RejectionStatusCode` to `429 (Too Many Requests)` because it's more correct. The default value is `503 (Service Unavailable)`.
 
 And you also have to apply the `RateLimitingMiddleware`:
 
 ```cs
 app.UseRateLimiter();
-
 ```
 
 That's everything you'll need.
@@ -117,7 +104,7 @@ Let's see the rate limiting algorithms we can use.
 
 ---
 
-## fixed-window-limiter"><a href="#fixed-window-limiter">Fixed Window Limiter
+## Fixed Window Limiter
 
 The `AddFixedWindowLimiter` method configures a fixed window limiter.
 
@@ -136,21 +123,20 @@ builder.Services.AddRateLimiter(rateLimiterOptions =>
         options.QueueLimit = 5;
     });
 });
-
 ```
 
 ---
 
-## sliding-window-limiter"><a href="#sliding-window-limiter">Sliding Window Limiter
+## Sliding Window Limiter
 
 The sliding window algorithm is similar to the fixed window, but it introduces segments in a window.
 
 Here's how it works:
 
 - Each time window is divided into multiple segments
-<li>The window slides one segment each segment interval
-<li>The segment interval is (window_time)/(segments_per_window)
-<li>When a segment expires, the requests taken in that segment are added to the current segment
+- The window slides one segment each segment interval
+- The segment interval is (window_time)/(segments_per_window)
+- When a segment expires, the requests taken in that segment are added to the current segment
 
 The `AddSlidingWindowLimiter` method configures a sliding window limiter.
 
@@ -166,15 +152,13 @@ builder.Services.AddRateLimiter(rateLimiterOptions =>
         options.QueueLimit = 5;
     });
 });
-
 ```
 
 ---
 
-## token-bucket-limiter"><a href="#token-bucket-limiter">Token Bucket Limiter
+## Token Bucket Limiter
 
-The token bucket algorithm is similar to the sliding window, but instead of adding back the requests from the expired segment,
-a fixed number of tokens are added after each replenishment period.
+The token bucket algorithm is similar to the sliding window, but instead of adding back the requests from the expired segment, a fixed number of tokens are added after each replenishment period.
 
 The total number of tokens can never exceed the token limit.
 
@@ -193,14 +177,13 @@ builder.Services.AddRateLimiter(rateLimiterOptions =>
         options.AutoReplenishment = true;
     });
 });
-
 ```
 
 When `AutoReplenishment` is `true`, an internal timer will execute every `ReplenishmentPeriod` and replenish the tokens.
 
 ---
 
-## concurrency-limiter"><a href="#concurrency-limiter">Concurrency Limiter
+## Concurrency Limiter
 
 The concurrency limiter is the most straightforward algorithm, and it just limits the number of concurrent requests.
 
@@ -216,20 +199,19 @@ builder.Services.AddRateLimiter(rateLimiterOptions =>
         options.QueueLimit = 5;
     });
 });
-
 ```
 
 There's no time component involved in this case. The only parameter is the number of concurrent requests.
 
 ---
 
-## using-rate-limiting-in-your-api"><a href="#using-rate-limiting-in-your-api">Using Rate Limiting In Your API
+## Using Rate Limiting In Your API
 
 Now that we have configured our rate limiting policies, let's see how we can use them in our API.
 
 There are slight differences between controllers and minimal API endpoints, so I'll cover them in separate examples.
 
-**Controllers**
+### Controllers
 
 To add rate limiting on a controller we use the `EnableRateLimiting` and `DisableRateLimiting` attributes.
 
@@ -258,16 +240,15 @@ public class TransactionsController
         return Ok(await _sender.Send(new GetTransactionByIdQuery(id)));
     }
 }
-
 ```
 
 In the previous example:
 
 - All endpoints in the `TransactionsController` will use a **fixed window** policy
-<li>The `GetTransactions` endpoint will use a **sliding window** policy
-<li>The `GetTransactionById` endpoint won't have any rate limiting applied
+- The `GetTransactions` endpoint will use a **sliding window** policy
+- The `GetTransactionById` endpoint won't have any rate limiting applied
 
-**Minimal APIs**
+### Minimal APIs
 
 In a Minimal API endpoint you can configure the rate limit policy by calling `RequireRateLimiting` and specifying the policy name.
 
@@ -279,34 +260,42 @@ app.MapGet("/transactions", async (ISender sender) =>
     return Results.Ok(await sender.Send(new GetTransactionsQuery()));
 })
 .RequireRateLimiting("token");
-
 ```
 
 ---
 
-## closing-thoughts"><a href="#closing-thoughts">Closing Thoughts
+## Closing Thoughts
 
 It's great that we can quickly introduce **rate limiting** in ASP.NET Core.
 
 You can choose from one of the existing rate limiter algorithms:
 
 - Fixed window
-<li>Sliding window
-<li>Token bucket
-<li>Concurrency
+- Sliding window
+- Token bucket
+- Concurrency
 
 Here are some resources if you want to learn more about rate limiting:
 
-- <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/rate-limiting-pattern">Rate Limiting pattern</a>
-<li><a href="https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/">Announcing Rate Limiting for .NET</a>
+<SiteInfo
+  name="Rate Limiting pattern"
+  desc="You can use a rate limiting pattern to help you avoid or minimize throttling errors."
+  url="https://learn.microsoft.com/en-us/azure/architecture/patterns/rate-limiting-pattern"
+  logo="/imagea/content/learn.microsoft.com/favicon.ico"
+  preview="/imagea/content/learn.microsoft.com/open-graph-image.png"/>
+
+<SiteInfo
+  name="Announcing Rate Limiting for .NET"
+  desc="Announcing built-in Rate Limiting support in .NET 7. Rate limiting provides a way to protect a resource to avoid overwhelming your app."
+  url="https://devblogs.microsoft.com/dotnet/announcing-rate-limiting-for-dotnet/"
+  logo="/images/content/devblogs.microsoft.com/favicon.jpg"
+  preview="/images/content/devblogs.microsoft.com/open-graph-image.png"/>
 
 I'm excited to try out rate limiting in my projects.
 
 That's all for today.
 
 Have an awesome Saturday!
-
--->
 
 ---
 

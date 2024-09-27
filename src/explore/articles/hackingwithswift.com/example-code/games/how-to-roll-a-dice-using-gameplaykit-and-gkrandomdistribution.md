@@ -59,23 +59,43 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>GameplayKit's random number generator includes help constructors that produces numbers in a specific range, simulating a six-sided die and a 20-sided die. To get started you should import the GameplayKit framework like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">GameplayKit</span></code></pre>
-<p>You can then create a virtual six-sided die and "roll" it like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> d6 <span class="token operator">=</span> <span class="token class-name">GKRandomDistribution</span><span class="token punctuation">.</span><span class="token function">d6</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-d6<span class="token punctuation">.</span><span class="token function">nextInt</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>For a 20-sided die, do this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> d20 <span class="token operator">=</span> <span class="token class-name">GKRandomDistribution</span><span class="token punctuation">.</span><span class="token function">d20</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-d20<span class="token punctuation">.</span><span class="token function">nextInt</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>If you want to set your own range for the virtual die, there's a special constructor just for you:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> massiveDie <span class="token operator">=</span> <span class="token class-name">GKRandomDistribution</span><span class="token punctuation">(</span>lowestValue<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> highestValue<span class="token punctuation">:</span> <span class="token number">556</span><span class="token punctuation">)</span>
-massiveDie<span class="token punctuation">.</span><span class="token function">nextInt</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
+GameplayKit's random number generator includes help constructors that produces numbers in a specific range, simulating a six-sided die and a 20-sided die. To get started you should import the GameplayKit framework like this:
+
+```swift
+import GameplayKit
+```
+
+You can then create a virtual six-sided die and "roll" it like this:
+
+```swift
+let d6 = GKRandomDistribution.d6()
+d6.nextInt()
+```
+
+For a 20-sided die, do this:
+
+```swift
+let d20 = GKRandomDistribution.d20()
+d20.nextInt()
+```
+
+If you want to set your own range for the virtual die, there's a special constructor just for you:
+
+```swift
+let massiveDie = GKRandomDistribution(lowestValue: 1, highestValue: 556)
+massiveDie.nextInt()
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a>
 -->
 
 ---

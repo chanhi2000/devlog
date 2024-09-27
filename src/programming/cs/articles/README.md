@@ -716,6 +716,96 @@ head:
 
 ```component VPCard
 {
+  "title": "5 Awesome C# Refactoring Tips",
+  "desc": "Refactoring is a technique for restructuring existing code without changing its behavior. You can think of refactoring as a series of small code transformations. One change (refactoring) does little. But a sequence of refactors produces a significant transformation. There's no better way to learn refactoring than practicing. So I prepared a refactoring exercise for you.",
+  "link": "/explore/articles/milanjovanovic.tech/5-awesome-csharp-refactoring-tips.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Global Error Handling in ASP.NET Core 8",
+  "desc": "Exceptions are for exceptional situations. But they will inevitably happen in your applications, and you need to handle them. You can implement a global exception handling mechanism or handle only specific exceptions. ASP.NET Core gives you a few options on how to implement this. So which one should you choose? Today, I want to show you an old and new way to handle exceptions in ASP.NET Core 8.",
+  "link": "/explore/articles/milanjovanovic.tech/global-error-handling-in-aspnetcore-8.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Modular Monolith Data Isolation",
+  "desc": "Modular monoliths are an architectural approach that's becoming very popular. They combine the benefits of modularity and monolithic design. Data isolation ensures that modules are independent and loosely coupled. Today, I will show you four data isolation approaches for modular monoliths",
+  "link": "/explore/articles/milanjovanovic.tech/modular-monolith-data-isolation.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "5 Serilog Best Practices For Better Structured Logging",
+  "desc": "Serilog is a structured logging library for .NET. It's also my preferred logging library in the projects I'm developing. I want to share 5 practical tips for better structured logging with Serilog.",
+  "link": "/explore/articles/milanjovanovic.tech/5-serilog-best-practices-for-better-structured-logging.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Value Objects in .NET (DDD Fundamentals)",
+  "desc": "Value Objects are one of the building blocks of Domain-Driven Design. Today, I'll show you some best practices for implementing Value Objects.  ",
+  "link": "/explore/articles/milanjovanovic.tech/value-objects-in-dotnet-ddd-fundamentals.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "API Versioning in ASP.NET Core",
+  "desc": "API versioning allows your API to evolve independently from the clients using it. I'll show you how to implement API versioning in ASP.NET Core.",
+  "link": "/explore/articles/milanjovanovic.tech/api-versioning-in-aspnetcore.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Using MassTransit with RabbitMQ and Azure Service Bus",
+  "desc": "MassTransit is an open-source distributed application framework for .NET. It provides a messaging abstraction on top of the supported message transports. In this week's issue, I'll show you how to use MassTransit.",
+  "link": "/explore/articles/milanjovanovic.tech/using-masstransit-with-rabbitmq-and-azure-service-bus.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Extending HttpClient With Delegating Handlers in ASP.NET Core",
+  "desc": "Delegating handlers are like ASP.NET Core middleware. Except they work with the HttpClient. I'll show you how to work with delegating handlers",
+  "link": "/explore/articles/milanjovanovic.tech/extending-httpclient-with-delegating-handlers-in-aspnetcore.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Balancing Cross-Cutting Concerns in Clean Architecture",
+  "desc": "Cross-cutting concerns are software aspects that affect the entire application. These are your common application-level functionalities that span several layers and tiers. Cross-cutting concerns should be centralized in one location. This prevents code duplication and tight coupling between components. In today's newsletter, I'll show you how to integrate cross-cutting concerns in Clean Architecture.",
+  "link": "/explore/articles/milanjovanovic.tech/balancing-cross-cutting-concerns-in-clean-architecture.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
+```component VPCard
+{
   "title": "How to Build a URL Shortener With .NET",
   "desc": "A URL shortener is a simple yet powerful tool that converts long URLs into more manageable, shorter versions. Today, I'll guide you through the design, implementation, and considerations for creating your URL shortener in .NET",
   "link": "/explore/articles/milanjovanovic.tech/how-to-build-a-url-shortener-with-dotnet.md",
@@ -986,9 +1076,9 @@ head:
 
 ```component VPCard
 {
-  "title": "5 Awesome C# Refactoring Tips",
-  "desc": "Refactoring is a technique for restructuring existing code without changing its behavior. You can think of refactoring as a series of small code transformations. One change (refactoring) does little. But a sequence of refactors produces a significant transformation. There's no better way to learn refactoring than practicing. So I prepared a refactoring exercise for you.",
-  "link": "/explore/articles/milanjovanovic.tech/5-awesome-csharp-refactoring-tips.md",
+  "title": "Complete Guide to Amazon SQS and Amazon SNS With MassTransit",
+  "desc": "In this article, we'll explore how to use Amazon SQS and SNS for asynchronous messaging in .NET applications. We'll also see how MassTransit simplifies the process, enabling you to build robust message-driven systems.",
+  "link": "/explore/articles/milanjovanovic.tech/complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit.md",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -996,9 +1086,9 @@ head:
 
 ```component VPCard
 {
-  "title": "Global Error Handling in ASP.NET Core 8",
-  "desc": "Exceptions are for exceptional situations. But they will inevitably happen in your applications, and you need to handle them. You can implement a global exception handling mechanism or handle only specific exceptions. ASP.NET Core gives you a few options on how to implement this. So which one should you choose? Today, I want to show you an old and new way to handle exceptions in ASP.NET Core 8.",
-  "link": "/explore/articles/milanjovanovic.tech/global-error-handling-in-aspnetcore-8.md",
+  "title": "Introduction to Event Sourcing for .NET Developers",
+  "desc": "Discover event sourcing in .NET through a beginner's eyes. Explore core concepts, benefits, and real-world challenges.",
+  "link": "/explore/articles/milanjovanovic.tech/introduction-to-event-sourcing-for-net-developers.md",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -1006,73 +1096,14 @@ head:
 
 ```component VPCard
 {
-  "title": "Modular Monolith Data Isolation",
-  "desc": "Modular monoliths are an architectural approach that's becoming very popular. They combine the benefits of modularity and monolithic design. Data isolation ensures that modules are independent and loosely coupled. Today, I will show you four data isolation approaches for modular monoliths",
-  "link": "/explore/articles/milanjovanovic.tech/modular-monolith-data-isolation.md",
+  "title": "Refit in .NET: Building Robust API Clients in C#",
+  "desc": "Discover how Refit simplifies API consumption in .NET applications, turning your HTTP API into a seamless, strongly-typed interface. This comprehensive guide covers everything from basic setup to advanced features, helping you build robust, maintainable API clients in C# with minimal boilerplate code.",
+  "link": "/explore/articles/milanjovanovic.tech/refit-in-dotnet-building-robust-api-clients-in-csharp.md",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
 ```
 
-```component VPCard
-{
-  "title": "5 Serilog Best Practices For Better Structured Logging",
-  "desc": "Serilog is a structured logging library for .NET. It's also my preferred logging library in the projects I'm developing. I want to share 5 practical tips for better structured logging with Serilog.",
-  "link": "/explore/articles/milanjovanovic.tech/5-serilog-best-practices-for-better-structured-logging.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Value Objects in .NET (DDD Fundamentals)",
-  "desc": "Value Objects are one of the building blocks of Domain-Driven Design. Today, I'll show you some best practices for implementing Value Objects.  ",
-  "link": "/explore/articles/milanjovanovic.tech/value-objects-in-dotnet-ddd-fundamentals.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
-
-```component VPCard
-{
-  "title": "API Versioning in ASP.NET Core",
-  "desc": "API versioning allows your API to evolve independently from the clients using it. I'll show you how to implement API versioning in ASP.NET Core.",
-  "link": "/explore/articles/milanjovanovic.tech/api-versioning-in-aspnetcore.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Using MassTransit with RabbitMQ and Azure Service Bus",
-  "desc": "MassTransit is an open-source distributed application framework for .NET. It provides a messaging abstraction on top of the supported message transports. In this week's issue, I'll show you how to use MassTransit.",
-  "link": "/explore/articles/milanjovanovic.tech/using-masstransit-with-rabbitmq-and-azure-service-bus.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Extending HttpClient With Delegating Handlers in ASP.NET Core",
-  "desc": "Delegating handlers are like ASP.NET Core middleware. Except they work with the HttpClient. I'll show you how to work with delegating handlers",
-  "link": "/explore/articles/milanjovanovic.tech/extending-httpclient-with-delegating-handlers-in-aspnetcore.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Balancing Cross-Cutting Concerns in Clean Architecture",
-  "desc": "Cross-cutting concerns are software aspects that affect the entire application. These are your common application-level functionalities that span several layers and tiers. Cross-cutting concerns should be centralized in one location. This prevents code duplication and tight coupling between components. In today's newsletter, I'll show you how to integrate cross-cutting concerns in Clean Architecture.",
-  "link": "/explore/articles/milanjovanovic.tech/balancing-cross-cutting-concerns-in-clean-architecture.md",
-  "logo": "https://milanjovanovic.tech/profile_favicon.png",
-  "background": "rgba(79,70,229,0,2)"
-}
-```
 
 <!-- END: milanjovanovic.tech -->
 

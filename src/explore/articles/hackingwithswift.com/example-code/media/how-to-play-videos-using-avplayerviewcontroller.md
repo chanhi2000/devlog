@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p><code>AVPlayerViewController</code> is designed to make it easy to play media just like Apple’s own apps. You can play movies and audio, local and remote, and you benefit from the same user interface layout used elsewhere in the system.</p>
-<p>Using the class only takes a few steps, starting with importing the AVKit framework and creating a <code>URL</code> that points to the movie you want to play. Once that’s done, you create an <code>AVPlayer</code> instance pointing at your URL, send that in to an <code>AVPlayerViewController</code>, then call <code>play()</code> on it when you’re ready.</p>
-<p>Here’s some example code to get you started:</p>
+`AVPlayerViewController` is designed to make it easy to play media just like Apple’s own apps. You can play movies and audio, local and remote, and you benefit from the same user interface layout used elsewhere in the system.
+
+Using the class only takes a few steps, starting with importing the AVKit framework and creating a `URL` that points to the movie you want to play. Once that’s done, you create an `AVPlayer` instance pointing at your URL, send that in to an `AVPlayerViewController`, then call `play()` on it when you’re ready.
+
+Here’s some example code to get you started:
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-let-users-import-videos-using-photospicker">How to let users import videos using PhotosPicker</a></li><li><a href="/example-code/media/how-to-record-user-videos-using-replaykit">How to record user videos using ReplayKit</a></li><li><a href="/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer</a></li><li><a href="/example-code/core-haptics/how-to-play-custom-vibrations-using-core-haptics">How to play custom vibrations using Core Haptics</a></li><li><a href="/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging</a></li></ul>
+/quick-start/swiftui/how-to-let-users-import-videos-using-photospicker">How to let users import videos using PhotosPicker 
+/example-code/media/how-to-record-user-videos-using-replaykit">How to record user videos using ReplayKit 
+/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer 
+/example-code/core-haptics/how-to-play-custom-vibrations-using-core-haptics">How to play custom vibrations using Core Haptics 
+/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging</a>
 -->
 
 :::

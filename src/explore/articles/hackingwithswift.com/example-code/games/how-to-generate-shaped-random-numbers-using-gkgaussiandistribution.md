@@ -59,18 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A shaped random number generator is one that generates each of its possible values but does so in a way that numbers near the middle are more frequent. For example, you might use it generate heights of characters, because most people are around average height while some outliers are much shorter or much taller. For example, if you were generating numbers between 1 and 10, 5 and 6 would be generated significantly more than 1 or 10.</p>
-<p>GameplayKit has support for shaped random number generation using <code>GKGaussianDistribution</code>. First, add an import for the GameplayKit framework:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">GameplayKit</span></code></pre>
-<p>Second, create an instance of <code>GKGaussianDistribution</code>, telling it the lowest and highest values it can generate:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> distribution <span class="token operator">=</span> <span class="token class-name">GKGaussianDistribution</span><span class="token punctuation">(</span>lowestValue<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> highestValue<span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">)</span></code></pre>
-<p>Finally, call <code>nextInt()</code> on it as needed to generate numbers. You should get find the numbers returned are most commonly 4s and 5s, with quite a few 3s and 6s, not many 2s or 7s, and hardly any 1s or 8s.</p>
+A shaped random number generator is one that generates each of its possible values but does so in a way that numbers near the middle are more frequent. For example, you might use it generate heights of characters, because most people are around average height while some outliers are much shorter or much taller. For example, if you were generating numbers between 1 and 10, 5 and 6 would be generated significantly more than 1 or 10.
+
+GameplayKit has support for shaped random number generation using `GKGaussianDistribution`. First, add an import for the GameplayKit framework:
+
+```swift
+import GameplayKit
+```
+
+Second, create an instance of `GKGaussianDistribution`, telling it the lowest and highest values it can generate:
+
+```swift
+let distribution = GKGaussianDistribution(lowestValue: 1, highestValue: 8)
+```
+
+Finally, call `nextInt()` on it as needed to generate numbers. You should get find the numbers returned are most commonly 4s and 5s, with quite a few 3s and 6s, not many 2s or 7s, and hardly any 1s or 8s.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution</a></li><li><a href="/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID</a></li><li><a href="/example-code/language/how-to-generate-a-random-number">How to generate a random number</a></li><li><a href="/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource</a></li><li><a href="/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a></li></ul>
+/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution 
+/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID 
+/example-code/language/how-to-generate-a-random-number">How to generate a random number 
+/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource 
+/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a>
 -->
 
 ---

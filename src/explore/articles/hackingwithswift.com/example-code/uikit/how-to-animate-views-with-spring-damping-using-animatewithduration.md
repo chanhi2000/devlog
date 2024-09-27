@@ -59,20 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Spring animations work by changing from a start state to an end state, with a slight overshoot and bounce at the end. For example, if you want to animate a view moving from X:0 to X:100, it might move to X:120 before bouncing back to X:80, then X:110 and finally X:100, as if the animation were attached to a spring.</p>
-<p>Spring animations are built into iOS as of iOS 7.0 and require two values: how "springy" the spring should be, and how fast it should start. The first value is specified with <code>usingSpringWithDamping</code>, where higher values make the bouncing finish faster. The second value is specified with <code>initialSpringVelocity</code>, where higher values give the spring more initial momentum.</p>
-<p>Here's the code to make a view fade out, then fade it the tiniest bit, then fade out again –&nbsp;all done using a spring animation:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> delay<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> usingSpringWithDamping<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">,</span> initialSpringVelocity<span class="token punctuation">:</span> <span class="token number">5</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>curveEaseInOut<span class="token punctuation">,</span> animations<span class="token punctuation">:</span> <span class="token punctuation">{</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span>viewToAnimate<span class="token punctuation">.</span>alpha <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token omit keyword">_</span> <span class="token keyword">in</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span>viewToAnimate<span class="token punctuation">.</span><span class="token function">removeFromSuperview</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+Spring animations work by changing from a start state to an end state, with a slight overshoot and bounce at the end. For example, if you want to animate a view moving from X:0 to X:100, it might move to X:120 before bouncing back to X:80, then X:110 and finally X:100, as if the animation were attached to a spring.
+
+Spring animations are built into iOS as of iOS 7.0 and require two values: how "springy" the spring should be, and how fast it should start. The first value is specified with `usingSpringWithDamping`, where higher values make the bouncing finish faster. The second value is specified with `initialSpringVelocity`, where higher values give the spring more initial momentum.
+
+Here's the code to make a view fade out, then fade it the tiniest bit, then fade out again – all done using a spring animation:
+
+```swift
+UIView.animate(withDuration: 1, delay: 1, usingSpringWithDamping: 0.5, initialSpringVelocity: 5, options: .curveEaseInOut, animations: {
+    self.viewToAnimate.alpha = 0
+}) { _ in
+    self.viewToAnimate.removeFromSuperview()
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-animate-views-using-animatewithduration">How to animate views using animate(withDuration:)</a></li><li><a href="/quick-start/swiftui/how-to-create-a-spring-animation">How to create a spring animation</a></li><li><a href="/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator</a></li><li><a href="/quick-start/swiftui/how-to-animate-the-size-of-text">How to animate the size of text</a></li><li><a href="/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a></li></ul>
+/example-code/uikit/how-to-animate-views-using-animatewithduration">How to animate views using animate(withDuration:) 
+/quick-start/swiftui/how-to-create-a-spring-animation">How to create a spring animation 
+/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator 
+/quick-start/swiftui/how-to-animate-the-size-of-text">How to animate the size of text 
+/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a>
 -->
 
 :::

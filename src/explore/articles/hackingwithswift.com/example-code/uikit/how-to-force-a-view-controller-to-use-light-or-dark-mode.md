@@ -59,21 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>By default all instances of <code>UIViewController</code> are set to automatically adapt their color appearance to match the user’s system preferences, but if you want you can force some or all of your app to use light or dark mode by setting the <code>overrideUserInterfaceStyle</code> property of your view controller to <code>.light</code> or <code>.dark</code>.</p>
-<p>For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">ViewController</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">super</span><span class="token punctuation">.</span><span class="token function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-        overrideUserInterfaceStyle <span class="token operator">=</span> <span class="token punctuation">.</span>dark    
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>This setting exists on other containers, such as <code>UIWindow</code> and <code>UIView</code>, and the value of this property cascades to everything inside the thing you change. So, if you set your main <code>UIWindow</code> to always have dark mode, then all view controllers and views inside it will always have dark mode.</p>
+By default all instances of `UIViewController` are set to automatically adapt their color appearance to match the user’s system preferences, but if you want you can force some or all of your app to use light or dark mode by setting the `overrideUserInterfaceStyle` property of your view controller to `.light` or `.dark`.
+
+For example:
+
+```swift
+class ViewController: UIViewController {
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        overrideUserInterfaceStyle = .dark    
+    }
+}
+```
+
+This setting exists on other containers, such as `UIWindow` and `UIView`, and the value of this property cascades to everything inside the thing you change. So, if you set your main `UIWindow` to always have dark mode, then all view controllers and views inside it will always have dark mode.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode">How to show different images and other views in light or dark mode</a></li><li><a href="/quick-start/swiftui/how-to-preview-your-layout-in-light-and-dark-mode">How to preview your layout in light and dark mode</a></li><li><a href="/example-code/uicolor/how-to-use-semantic-colors-to-help-your-ios-app-adapt-to-dark-mode">How to use semantic colors to help your iOS app adapt to dark mode</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-detect-dark-mode">How to detect dark mode</a></li></ul>
+/quick-start/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode">How to show different images and other views in light or dark mode 
+/quick-start/swiftui/how-to-preview-your-layout-in-light-and-dark-mode">How to preview your layout in light and dark mode 
+/example-code/uicolor/how-to-use-semantic-colors-to-help-your-ios-app-adapt-to-dark-mode">How to use semantic colors to help your iOS app adapt to dark mode 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-detect-dark-mode">How to detect dark mode</a>
 -->
 
 :::

@@ -59,26 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you use <code>URLSession</code> to make a data task while the user has no internet connection, your request will fail immediately and report an error. However, if you create your session with the <code>waitsForConnectivity</code> configuration option set to true, then the system will automatically wait some time to see if connectivity becomes available before trying the request.</p>
-<p>For example, this creates a data task that fetches a URL only when internet connectivity is available:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> config <span class="token operator">=</span> <span class="token class-name">URLSessionConfiguration</span><span class="token punctuation">.</span><span class="token keyword">default</span>
-config<span class="token punctuation">.</span>waitsForConnectivity <span class="token operator">=</span> <span class="token boolean">true</span>
+If you use `URLSession` to make a data task while the user has no internet connection, your request will fail immediately and report an error. However, if you create your session with the `waitsForConnectivity` configuration option set to true, then the system will automatically wait some time to see if connectivity becomes available before trying the request.
 
-<span class="token class-name">URLSession</span><span class="token punctuation">(</span>configuration<span class="token punctuation">:</span> config<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">dataTask</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> yourURL<span class="token punctuation">)</span> <span class="token punctuation">{</span> data<span class="token punctuation">,</span> response<span class="token punctuation">,</span> error <span class="token keyword">in</span>
-    <span class="token keyword">if</span> <span class="token keyword">let</span> error <span class="token operator">=</span> error <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>error<span class="token punctuation">.</span>localizedDescription<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> ei
+For example, this creates a data task that fetches a URL only when internet connectivity is available:
 
-    <span class="token comment">// use your data here</span>
-<span class="token punctuation">}</span><span class="token punctuation">.</span><span class="token function">resume</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>By default, the system will wait seven days to see if internet connectivity becomes available, but you can control that with the <code>timeoutIntervalForResource</code> property on your configuration. For example, this will ask the system to wait 60 seconds:</p>
-<pre class=" language-swift"><code class=" language-swift">config<span class="token punctuation">.</span>timeoutIntervalForResource <span class="token operator">=</span> <span class="token number">60</span></code></pre>
+```swift
+let config = URLSessionConfiguration.default
+config.waitsForConnectivity = true
+
+URLSession(configuration: config).dataTask(with: yourURL) { data, response, error in
+    if let error = error {
+        print(error.localizedDescription)
+    } ei
+
+    // use your data here
+}.resume()
+```
+
+By default, the system will wait seven days to see if internet connectivity becomes available, but you can control that with the `timeoutIntervalForResource` property on your configuration. For example, this will ask the system to wait 60 seconds:
+
+```swift
+config.timeoutIntervalForResource = 60
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-make-one-operation-wait-for-another-to-complete-using-adddependency">How to make one operation wait for another to complete using addDependency()</a></li><li><a href="/example-code/networking/how-to-create-a-peer-to-peer-network-using-the-multipeer-connectivity-framework">How to create a peer-to-peer network using the multipeer connectivity framework</a></li><li><a href="/example-code/networking/how-to-check-for-internet-connectivity-using-nwpathmonitor">How to check for internet connectivity using NWPathMonitor</a></li><li><a href="/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type</a></li><li><a href="/quick-start/swiftui/how-to-create-a-core-data-fetch-request-using-fetchrequest">How to create a Core Data fetch request using @FetchRequest</a></li></ul>
+/example-code/system/how-to-make-one-operation-wait-for-another-to-complete-using-adddependency">How to make one operation wait for another to complete using addDependency() 
+/example-code/networking/how-to-create-a-peer-to-peer-network-using-the-multipeer-connectivity-framework">How to create a peer-to-peer network using the multipeer connectivity framework 
+/example-code/networking/how-to-check-for-internet-connectivity-using-nwpathmonitor">How to check for internet connectivity using NWPathMonitor 
+/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type 
+/quick-start/swiftui/how-to-create-a-core-data-fetch-request-using-fetchrequest">How to create a Core Data fetch request using @FetchRequest</a>
 -->
 
 :::

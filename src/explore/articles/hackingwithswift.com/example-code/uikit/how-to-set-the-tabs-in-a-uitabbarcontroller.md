@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,34 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!--
+If you're creating your tab bar controller from scratch, or if you just want to change the set up of your tabs at runtime, you can do so just by setting the `viewControllers` property of your tab bar controller. This expects to be given an array of view controllers in the order you want them displayed, and you should already have configured each view controller to have its own `UITabBarItem` with a title and icon.
+
+If your tab bar controller is the root view controller of your window, you should be able to write something like this:
+
+```swift
+if let tabBarController = window?.rootViewController as? UITabBarController {
+    let first = FirstViewController()
+    let second = SecondViewController()
+
+    tabBarController.viewControllers = [first, second]
+}
+```
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/example-code/uikit/changing-which-uitabbarcontroller-tabs-can-be-edited">Changing which UITabBarController tabs can be edited 
+/example-code/uikit/how-do-you-show-a-modal-view-controller-when-a-uitabbarcontroller-tab-is-tapped">How do you show a modal view controller when a UITabBarController tab is tapped? 
+/example-code/arrays/how-to-count-objects-in-a-set-using-nscountedset">How to count objects in a set using NSCountedSet 
+/example-code/language/when-to-use-a-set-rather-than-an-array">When to use a set rather than an array 
+/example-code/testing/how-to-set-baselines-for-your-performance-tests">How to set baselines for your performance tests</a>
 -->
 
 :::

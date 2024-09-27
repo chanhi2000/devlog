@@ -61,19 +61,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift's string interpolation makes it easy to put floating-point numbers into a string, but it lacks the ability to specify precision. For example, if a number is 45.6789, you might only want to show two digits after the decimal place.</p>
-<p>Here's an example using basic string interpolation:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> angle <span class="token operator">=</span> <span class="token number">45.6789</span>
-<span class="token keyword">let</span> raw <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Angle: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">angle</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span></code></pre>
-<p>That will make the <code>raw</code> value equal to "Angle: 45.6789". But if you wanted to round the angle to two decimal places, you would use this code instead:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> formatted <span class="token operator">=</span> <span class="token class-name">String</span><span class="token punctuation">(</span>format<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Angle: %.2f"</span></span><span class="token punctuation">,</span> angle<span class="token punctuation">)</span></code></pre>
-<p>The "%f" format string means "a floating point number," but "%.2f" means "a floating-point number with two digits after the decimal point. When you use this initializer, Swift will automatically round the final digit as needed based on the following number.</p>
+Swift's string interpolation makes it easy to put floating-point numbers into a string, but it lacks the ability to specify precision. For example, if a number is 45.6789, you might only want to show two digits after the decimal place.
+
+Here's an example using basic string interpolation:
+
+```swift
+let angle = 45.6789
+let raw = "Angle: \(angle)"
+```
+
+That will make the `raw` value equal to "Angle: 45.6789". But if you wanted to round the angle to two decimal places, you would use this code instead:
+
+```swift
+let formatted = String(format: "Angle: %.2f", angle)
+```
+
+The "%f" format string means "a floating point number," but "%.2f" means "a floating-point number with two digits after the decimal point. When you use this initializer, Swift will automatically round the final digit as needed based on the following number.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-specify-your-own-date-format-with-codable-and-jsonencoder">How to specify your own date format with Codable and JSONEncoder</a></li><li><a href="/quick-start/swiftui/how-to-specify-the-dynamic-type-sizes-a-view-supports">How to specify the Dynamic Type sizes a view supports</a></li><li><a href="/example-code/language/how-to-specify-default-values-for-dictionary-keys">How to specify default values for dictionary keys</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a></li></ul>
+/example-code/language/how-to-specify-your-own-date-format-with-codable-and-jsonencoder">How to specify your own date format with Codable and JSONEncoder 
+/quick-start/swiftui/how-to-specify-the-dynamic-type-sizes-a-view-supports">How to specify the Dynamic Type sizes a view supports 
+/example-code/language/how-to-specify-default-values-for-dictionary-keys">How to specify default values for dictionary keys 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a>
 -->
 
 :::

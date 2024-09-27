@@ -51,9 +51,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_009.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_009.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 In this week's newsletter, I'll show you how you can remove repetitive conditions in **EF Core** database queries.
 
 Which kinds of queries fit this description?
@@ -64,17 +61,15 @@ Also, it's practical if you're working in a multi-tenant system and need to spec
 
 **EF Core** has a powerful feature that can help you remove repetitive conditions from your code.
 
-I'm talking about <a href="https://learn.microsoft.com/en-us/ef/core/querying/filters">Query Filters</a>.
+I'm talking about [<FontIcon icon="fa-brands fa-microsoft"/>Query Filters](https://learn.microsoft.com/en-us/ef/core/querying/filters).
 
 Let's see how we can implement it.
 
 ---
 
-## how-to-apply-query-filters"><a href="#how-to-apply-query-filters">How To Apply Query Filters
+## How To Apply Query Filters
 
-Before introducing **Query Filters**, we will see how the standard approach looks.
-We have an `Orders` table that supports **soft-deleting**.
-And we never want to return **soft-deleted** orders.
+Before introducing **Query Filters**, we will see how the standard approach looks. We have an `Orders` table that supports **soft-deleting**. And we never want to return **soft-deleted** orders.
 
 We'll start with an `Order` entity that has an `IsDeleted` property.
 
@@ -84,7 +79,6 @@ public class Order
    public int Id { get; set; }
    public bool IsDeleted { get; set; }
 }
-
 ```
 
 And we have a business requirement that we can only query orders that are not deleted.
@@ -97,24 +91,20 @@ dbContext
    .Where(order => !order.IsDeleted)
    .Where(order => order.Id == orderId)
    .FirstOrDefault();
-
 ```
 
 This works perfectly for what we need to do.
 
 However, we need to remember to apply this condition every time we want to query the `Order` entity.
 
-Now, let's see how we can define a **Query Filter** on the `Order` entity to
-apply this check when querying the database.
+Now, let's see how we can define a **Query Filter** on the `Order` entity to apply this check when querying the database.
 
-Inside of the `OnModelCreating` method on the database context, we need to
-call the `HasQueryFilter` method and specify the expression we want:
+Inside of the `OnModelCreating` method on the database context, we need to call the `HasQueryFilter` method and specify the expression we want:
 
 ```cs
 modelBuilder
    .Entity<Order>()
    .HasQueryFilter(order => !order.IsDeleted);
-
 ```
 
 Now we can omit the **soft-delete** check from the previous **LINQ** expression:
@@ -124,7 +114,6 @@ dbContext
    .Orders
    .Where(order => order.Id == orderId)
    .FirstOrDefault();
-
 ```
 
 And this is the **SQL** that **EF** will generate with the **Query Filter**:
@@ -133,18 +122,15 @@ And this is the **SQL** that **EF** will generate with the **Query Filter**:
 SELECT o.*
 FROM Orders o
 WHERE o.IsDeleted = FALSE AND o.Id = @orderId
-
 ```
 
 ---
 
-## disabling-query-filters"><a href="#disabling-query-filters">Disabling Query Filters
+## Disabling Query Filters
 
-You may run into a situation where you need to disable **Query Filters** for a specific query.
-Luckily, there is an easy way to do this.
+You may run into a situation where you need to disable **Query Filters** for a specific query. Luckily, there is an easy way to do this.
 
-In your **LINQ** expression, you need to call the `IgnoreQueryFilters` method,
-and all the **Query Filters** configured for this entity will be disabled:
+In your **LINQ** expression, you need to call the `IgnoreQueryFilters` method, and all the **Query Filters** configured for this entity will be disabled:
 
 ```cs
 dbContext
@@ -152,32 +138,27 @@ dbContext
    .IgnoreQueryFilters()
    .Where(order => order.Id == orderId)
    .FirstOrDefault();
-
 ```
 
 Be careful when doing this, as you can easily introduce unwanted behavior in your application.
 
 ---
 
-## good-things-to-know-before-using-query-filters"><a href="#good-things-to-know-before-using-query-filters">Good Things To Know Before Using Query Filters
+## Good Things To Know Before Using Query Filters
 
-Here are a few more details that you should know about **Query Filters** before using them.
-Hopefully, this will save you some trouble if you decide to use them in your application.
+Here are a few more details that you should know about **Query Filters** before using them. Hopefully, this will save you some trouble if you decide to use them in your application.
 
-**Configuring multiple Query Filters**
+### Configuring multiple Query Filters
 
-Configuring multiple **Query Filters** on the same entity will only apply the last one.
-If you need more than one condition, you can do that with the logical `AND` operator (&&).
+Configuring multiple **Query Filters** on the same entity will only apply the last one. If you need more than one condition, you can do that with the logical `AND` operator (&&).
 
-**Ignoring specific Query Filters**
+### Ignoring specific Query Filters
 
 If you need to ignore a specific expression in a **Query Filter** and leave the rest in place,
 unfortunately, you can't do that. Only one **Query Filter** is allowed per entity type.
 
 One solution is calling `IgnoreQueryFilters`, which will remove the configured **Query Filter**
 for that entity type. And then manually apply the condition that you need for that specific query.
-
--->
 
 ---
 

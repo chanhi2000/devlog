@@ -59,18 +59,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Most <code>UIBarButtonItems</code> contain either an icon or some text, but they can do so much more –&nbsp;in fact, you can embed any kind of <code>UIView</code> subclass inside a bar button item, then put that button into a navigation bar or toolbar as you normally would.</p>
-<p>For example, you can create a <code>UIProgressView</code> and place it into a bar button like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> progressView <span class="token operator">=</span> <span class="token class-name">UIProgressView</span><span class="token punctuation">(</span>progressViewStyle<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">)</span>
-progressView<span class="token punctuation">.</span><span class="token function">sizeToFit</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+Most `UIBarButtonItems` contain either an icon or some text, but they can do so much more – in fact, you can embed any kind of `UIView` subclass inside a bar button item, then put that button into a navigation bar or toolbar as you normally would.
 
-<span class="token keyword">let</span> progressButton <span class="token operator">=</span> <span class="token class-name">UIBarButtonItem</span><span class="token punctuation">(</span>customView<span class="token punctuation">:</span> progressView<span class="token punctuation">)</span></code></pre>
+For example, you can create a `UIProgressView` and place it into a bar button like this:
+
+```swift
+var progressView = UIProgressView(progressViewStyle: .default)
+progressView.sizeToFit()
+
+let progressButton = UIBarButtonItem(customView: progressView)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-add-multiple-uibarbuttonitem-to-a-navigation-bar-using-rightbarbuttonitems">How to add multiple UIBarButtonItem to a navigation bar using rightBarButtonItems</a></li><li><a href="/example-code/uikit/how-to-add-a-flexible-space-to-a-uibarbuttonitem">How to add a flexible space to a UIBarButtonItem</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/how-to-convert-a-swiftui-view-to-an-image">How to convert a SwiftUI view to an image</a></li></ul>
+/example-code/uikit/how-to-add-multiple-uibarbuttonitem-to-a-navigation-bar-using-rightbarbuttonitems">How to add multiple UIBarButtonItem to a navigation bar using rightBarButtonItems 
+/example-code/uikit/how-to-add-a-flexible-space-to-a-uibarbuttonitem">How to add a flexible space to a UIBarButtonItem 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-convert-a-swiftui-view-to-an-image">How to convert a SwiftUI view to an image</a>
 -->
 
 :::

@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s closures are reference types, which means if you point two variables at the same closure they share that closure –&nbsp;Swift just remembers that there are two things relying on it by incrementing its reference count.</p>
-<p>When a closure gets passed into a function to be used, Swift needs to know whether that function will get used immediately or whether it will be saved for use later on. If it’s used immediately, the compiler can skip adding one to its reference count because the closure will be run straight away then forgotten about. But if it’s used later –&nbsp;or even <em>might</em> be used later –&nbsp;Swift needs to add one to its reference count so that it won’t accidentally be destroyed.</p>
-<p>For performance reasons, Swift assumes all closures are nonescaping closures, which means they will be used immediately inside the function and not stored, which in turn means Swift doesn’t touch the reference count. If this isn’t the case –&nbsp;if you take any measure to store the closure – then Swift will force you to mark it as <code>@escaping</code> so that the reference count must be changed.</p>
+Swift’s closures are reference types, which means if you point two variables at the same closure they share that closure – Swift just remembers that there are two things relying on it by incrementing its reference count.
+
+When a closure gets passed into a function to be used, Swift needs to know whether that function will get used immediately or whether it will be saved for use later on. If it’s used immediately, the compiler can skip adding one to its reference count because the closure will be run straight away then forgotten about. But if it’s used later – or even *might* be used later – Swift needs to add one to its reference count so that it won’t accidentally be destroyed.
+
+For performance reasons, Swift assumes all closures are nonescaping closures, which means they will be used immediately inside the function and not stored, which in turn means Swift doesn’t touch the reference count. If this isn’t the case – if you take any measure to store the closure – then Swift will force you to mark it as `@escaping` so that the reference count must be changed.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-trailing-closure-syntax">What is trailing closure syntax?</a></li><li><a href="/example-code/language/what-is-a-closure">What is a closure?</a></li><li><a href="/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a></li><li><a href="/example-code/language/whats-the-difference-between-a-function-and-a-closure">What’s the difference between a function and a closure?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3?</a></li></ul>
+/example-code/language/what-is-trailing-closure-syntax">What is trailing closure syntax? 
+/example-code/language/what-is-a-closure">What is a closure? 
+/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value 
+/example-code/language/whats-the-difference-between-a-function-and-a-closure">What’s the difference between a function and a closure? 
+/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3?</a>
 -->
 
 :::

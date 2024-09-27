@@ -59,17 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift lets you create both variables and constants as ways to reference your data, but there's a strong push (even Xcode warnings!) if you create things as variables then never change them. To make a constant, use <code>let</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> x <span class="token operator">=</span> <span class="token number">10</span></code></pre>
-<p>To make a variable, use <code>var</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> y <span class="token operator">=</span> <span class="token number">20</span></code></pre>
-<p>The reason Swift strongly encourages you to use constants wherever possible is because it's safer: if you say "this value will never change," then Swift will refuse to let you change it even by accident. It also opens the possibility of compiler optimizations if the system knows certain data will not change.</p>
+Swift lets you create both variables and constants as ways to reference your data, but there's a strong push (even Xcode warnings!) if you create things as variables then never change them. To make a constant, use `let` like this:
+
+```swift
+let x = 10
+```
+
+To make a variable, use `var` like this:
+
+```swift
+var y = 20
+```
+
+The reason Swift strongly encourages you to use constants wherever possible is because it's safer: if you say "this value will never change," then Swift will refuse to let you change it even by accident. It also opens the possibility of compiler optimizations if the system knows certain data will not change.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups">What’s the difference between async let, tasks, and task groups?</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/concurrency/whats-the-difference-between-async-let-tasks-and-task-groups">What’s the difference between async let, tasks, and task groups?</a>
 -->
 
 :::

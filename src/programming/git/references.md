@@ -443,8 +443,17 @@ head:
 ## rein's world
 
 - [TIL: delta를 `git pager`로 쓰기](https://rein.kr/posts/2024-09-21-til-delta%EB%A5%BC-git-pager%EB%A1%9C-%EC%93%B0%EA%B8%B0/)
+- [TIL: `git-gone`](https://rein.kr/posts/2024-09-27-til-git-gone/)
 
 <!-- END: rein.kr -->
+
+---
+
+## 개발하는 기획자. 기획하는 개발자.
+
+- [\[트러블슈팅\] remote: Repository not found](https://m.blog.naver.com/gi_balja/223599205038)
+
+<!-- END: gi_balja (blog.naver.com) -->
 
 ---
 

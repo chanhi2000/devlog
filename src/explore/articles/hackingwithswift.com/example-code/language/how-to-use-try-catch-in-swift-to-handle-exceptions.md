@@ -59,27 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The try/catch syntax was added in Swift 2.0 to make exception handling clearer and safer. It's made up of three parts: <code>do</code> starts a block of code that might fail, <code>catch</code> is where execution gets transferred if any errors occur, and any function calls that might fail need to be called using <code>try</code>.</p>
-<p>Here's a working example that loads an input.txt file from the app bundle into a string:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> filename <span class="token operator">=</span> <span class="token class-name">Bundle</span><span class="token punctuation">.</span>main<span class="token punctuation">.</span><span class="token function">path</span><span class="token punctuation">(</span>forResource<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"input"</span></span><span class="token punctuation">,</span> ofType<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"txt"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">String</span><span class="token punctuation">(</span>contentsOfFile<span class="token punctuation">:</span> filename<span class="token punctuation">)</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>str<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"The file could not be loaded"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>There are two other ways of using <code>try</code>, but neither are really recommended. The first is like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> filename <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"somefile.txt"</span></span>
-<span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token keyword">try</span><span class="token operator">!</span> <span class="token class-name">String</span><span class="token punctuation">(</span>contentsOfFile<span class="token punctuation">:</span> filename<span class="token punctuation">)</span></code></pre>
-<p>Note the exclamation mark: <code>try!</code>. This means "I realize this call might throw an exception, but trust me: it never, ever will." This is useful only if you're 100% sure the call is safe. In our example we're loading a file from the app bundle, and if that file isn't there it means our app is corrupted, so it's OK to use here. You don't need do/catch when you use <code>try!</code>.</p>
-<p>The second option is <code>try?</code> which means "if this call throws an exception, just return nil instead." This is closer to the Objective-C way of handling errors, which was a bit scruffy. If this is your preferred way of handling errors, then go for it! You don't need do/catch when use <code>try?</code>, but you should check and unwrap the result carefully.</p>
+The try/catch syntax was added in Swift 2.0 to make exception handling clearer and safer. It's made up of three parts: `do` starts a block of code that might fail, `catch` is where execution gets transferred if any errors occur, and any function calls that might fail need to be called using `try`.
+
+Here's a working example that loads an input.txt file from the app bundle into a string:
+
+```swift
+if let filename = Bundle.main.path(forResource: "input", ofType: "txt") {
+    do {
+        let str = try String(contentsOfFile: filename)
+        print(str)
+    } catch {
+        print("The file could not be loaded")
+    }
+}
+```
+
+There are two other ways of using `try`, but neither are really recommended. The first is like this:
+
+```swift
+let filename = "somefile.txt"
+let str = try! String(contentsOfFile: filename)
+```
+
+Note the exclamation mark: `try!`. This means "I realize this call might throw an exception, but trust me: it never, ever will." This is useful only if you're 100% sure the call is safe. In our example we're loading a file from the app bundle, and if that file isn't there it means our app is corrupted, so it's OK to use here. You don't need do/catch when you use `try!`.
+
+The second option is `try?` which means "if this call throws an exception, just return nil instead." This is closer to the Objective-C way of handling errors, which was a bit scruffy. If this is your preferred way of handling errors, then go for it! You don't need do/catch when use `try?`, but you should check and unwrap the result carefully.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-handle-the-https-requirements-in-ios-with-app-transport-security">How to handle the HTTPS requirements in iOS with App Transport Security</a></li><li><a href="/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup</a></li><li><a href="/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group</a></li><li><a href="/quick-start/swiftui/how-to-handle-pinch-to-zoom-for-views">How to handle pinch to zoom for views</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li></ul>
+/example-code/system/how-to-handle-the-https-requirements-in-ios-with-app-transport-security">How to handle the HTTPS requirements in iOS with App Transport Security 
+/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup 
+/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group 
+/quick-start/swiftui/how-to-handle-pinch-to-zoom-for-views">How to handle pinch to zoom for views 
+/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a>
 -->
 
 :::

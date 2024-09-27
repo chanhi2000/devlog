@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,29 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!--
+Table views show separators between empty rows by default, which looks quite strange when you have only a handful of visible rows. Fortunately, one simple line of code is all it takes to force iOS not to draw these separators, and it's this:
+
+```swift
+tableView.tableFooterView = UIView()
+```
+
+What's actually happening is that you're creating an empty `UIView` and making it act as the footer of the table – this is the bottom most thing visible in the table. When iOS reaches the bottom of the cells you provide, it draws this view at the end rather than drawing empty rows and their separators, so it totally clears up the problem.
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/example-code/uikit/how-to-make-uitableviewcell-separators-go-edge-to-edge">How to make UITableViewCell separators go edge to edge 
+/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset">How to make empty UITableViews look more attractive using DZNEmptyDataSet 
+/example-code/uikit/how-to-reload-a-uitableview-while-preserving-selections">How to reload a UITableView while preserving selections 
+/example-code/uikit/how-to-add-peek-and-pop-to-a-uitableview">How to add peek and pop to a UITableView 
+/example-code/uikit/how-to-customize-swipe-edit-buttons-in-a-uitableview">How to customize swipe edit buttons in a UITableView</a>
 -->
 
 :::

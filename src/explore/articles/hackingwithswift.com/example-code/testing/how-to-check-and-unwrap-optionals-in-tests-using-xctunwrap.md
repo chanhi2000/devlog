@@ -59,35 +59,54 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>When writing tests, it’s common to want to unwrap an optional before checking it for a particular value. <code>XCTUnwrap()</code> does exactly that for us: it attempts to unwrap the optional, but will throw an error (and thus fail the test) if the optional is nil.</p>
-<p>For example, if you have a <code>User</code> struct with a <code>getAuthenticationToken()</code> method that returns an optional string, you can use <code>XCTUnwrap()</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">testTokenGenerationSucceeds</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">throws</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> user <span class="token operator">=</span> <span class="token class-name">User</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> token <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">XCTUnwrap</span><span class="token punctuation">(</span>user<span class="token punctuation">.</span><span class="token function">getAuthenticationToken</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    <span class="token class-name">XCTAssertEqual</span><span class="token punctuation">(</span>token<span class="token punctuation">.</span>count<span class="token punctuation">,</span> <span class="token number">40</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That test is marked with <code>throws</code>, which allows us to call <code>XCTUnwrap()</code> and propagate any errors if it finds our optional is empty.</p>
-<p>This approach is cleaner than what we might have written previously:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">testTokenGenerationSucceeds2</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> user <span class="token operator">=</span> <span class="token class-name">User</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token keyword">if</span> <span class="token keyword">let</span> token <span class="token operator">=</span> user<span class="token punctuation">.</span><span class="token function">getAuthenticationToken</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token class-name">XCTAssertEqual</span><span class="token punctuation">(</span>token<span class="token punctuation">.</span>count<span class="token punctuation">,</span> <span class="token number">40</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-        <span class="token class-name">XCTFail</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to generate valid token."</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>It’s worth adding that in trivial cases such as this one, it’s possible to compare optionals with non-optionals in less code, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">testTokenGenerationSucceeds3</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token keyword">throws</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> user <span class="token operator">=</span> <span class="token class-name">User</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token class-name">XCTAssertEqual</span><span class="token punctuation">(</span>user<span class="token punctuation">.</span><span class="token function">getAuthenticationToken</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">?</span><span class="token punctuation">.</span>count<span class="token punctuation">,</span> <span class="token number">40</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>However, things aren’t so straightforward when you need to work with optional chaining in a longer test –&nbsp;that’s really where <code>XCTUnwrap()</code> will come into its own.</p>
+When writing tests, it’s common to want to unwrap an optional before checking it for a particular value. `XCTUnwrap()` does exactly that for us: it attempts to unwrap the optional, but will throw an error (and thus fail the test) if the optional is nil.
+
+For example, if you have a `User` struct with a `getAuthenticationToken()` method that returns an optional string, you can use `XCTUnwrap()` like this:
+
+```swift
+func testTokenGenerationSucceeds() throws {
+    let user = User()
+    let token = try XCTUnwrap(user.getAuthenticationToken())
+    XCTAssertEqual(token.count, 40)
+}
+```
+
+That test is marked with `throws`, which allows us to call `XCTUnwrap()` and propagate any errors if it finds our optional is empty.
+
+This approach is cleaner than what we might have written previously:
+
+```swift
+func testTokenGenerationSucceeds2() {
+    let user = User()
+    if let token = user.getAuthenticationToken() {
+        XCTAssertEqual(token.count, 40)
+    } else {
+        XCTFail("Failed to generate valid token.")
+    }
+}
+```
+
+It’s worth adding that in trivial cases such as this one, it’s possible to compare optionals with non-optionals in less code, like this:
+
+```swift
+func testTokenGenerationSucceeds3() throws {
+    let user = User()
+    XCTAssertEqual(user.getAuthenticationToken()?.count, 40)
+}
+```
+
+However, things aren’t so straightforward when you need to work with optional chaining in a longer test – that’s really where `XCTUnwrap()` will come into its own.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/example-code/language/when-is-it-safe-to-force-unwrap-optionals">When is it safe to force unwrap optionals?</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/example-code/language/when-is-it-safe-to-force-unwrap-optionals">When is it safe to force unwrap optionals?</a>
 -->
 
 :::

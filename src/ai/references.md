@@ -33,13 +33,19 @@ head:
 
 ---
 
-## arxiv
+## pdf
+
+### arxiv
 
 <PDF url="https://arxiv.org/pdf/2405.13565" />
 <PDF url="https://arxiv.org/pdf/2405.15071" />
 <PDF url="https://arxiv.org/pdf/2405.14975" />
 <PDF url="https://arxiv.org/pdf/2405.20233" />
 <PDF url="https://arxiv.org/pdf/2406.11717" />
+
+### other
+
+<PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />
 
 ---
 
@@ -383,9 +389,11 @@ head:
 
 ---
 
-## pdf(s)
+## Customer Experience, Digital Experience & Customer Service News, Webinars, Best Practices & Research
 
-<PDF url="https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf" />
+- [Why 93% Ignore AI in Marketing](https://cmswire.com/digital-marketing/why-93-ignore-ai-in-marketing/)
+
+<!-- END: cmswire.com -->
 
 ---
 

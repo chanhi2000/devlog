@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A <code>CGFloat</code> is a specialized form of <code>Float</code> that holds either 32-bits of data or 64-bits of data depending on the platform. The CG tells you it's part of Core Graphics, and it's found throughout UIKit, Core Graphics, Sprite Kit and many other iOS libraries.</p>
-<p>If you have a <code>Float</code> or <code>Double</code> and need a <code>CGFloat</code>, you can convert it like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> myCGFloat <span class="token operator">=</span> <span class="token class-name">CGFloat</span><span class="token punctuation">(</span>myDouble<span class="token punctuation">)</span></code></pre>
+A `CGFloat` is a specialized form of `Float` that holds either 32-bits of data or 64-bits of data depending on the platform. The CG tells you it's part of Core Graphics, and it's found throughout UIKit, Core Graphics, Sprite Kit and many other iOS libraries.
+
+If you have a `Float` or `Double` and need a `CGFloat`, you can convert it like this:
+
+```swift
+let myCGFloat = CGFloat(myDouble)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-convert-a-float-to-a-cgfloat">How to convert a float to a CGFloat</a></li><li><a href="/example-code/uicolor/how-to-read-the-red-green-blue-and-alpha-color-components-from-a-uicolor">How to read the red, green, blue, and alpha color components from a UIColor</a></li><li><a href="/example-code/uicolor/how-to-convert-a-hex-color-to-a-uicolor">How to convert a hex color to a UIColor</a></li><li><a href="/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor</a></li><li><a href="/example-code/media/how-to-read-the-average-color-of-a-uiimage-using-ciareaaverage">How to read the average color of a UIImage using CIAreaAverage</a></li></ul>
+/example-code/language/how-to-convert-a-float-to-a-cgfloat">How to convert a float to a CGFloat 
+/example-code/uicolor/how-to-read-the-red-green-blue-and-alpha-color-components-from-a-uicolor">How to read the red, green, blue, and alpha color components from a UIColor 
+/example-code/uicolor/how-to-convert-a-hex-color-to-a-uicolor">How to convert a hex color to a UIColor 
+/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor 
+/example-code/media/how-to-read-the-average-color-of-a-uiimage-using-ciareaaverage">How to read the average color of a UIImage using CIAreaAverage</a>
 -->
 
 :::

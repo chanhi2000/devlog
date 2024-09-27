@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Exception breakpoints are a powerful debugging tool that remarkably few people know about, so please read the following carefully and put it into practice!</p>
-<p>A regular breakpoint is on a line you specify, and causes the debugger to pause execution at that point so you can evaluate your program's state. An <em>exception</em> breakpoint tells the debugger to pause whenever a problem is encountered anywhere in your program, so you can evaluate your program's state before it crashes.</p>
-<p>Exception breakpoints are trivial to set up: go to the Breakpoint Navigation (Cmd+7), then click the + button in the bottom left and choose Add Exception Breakpoint. You can leave it there if you want to, but it's preferable to make one further change to reduce unnecessary messages: right-click on your new breakpoint, choose Edit Breakpoint, then change the Exception value from "All" to "Objective-C".</p>
+Exception breakpoints are a powerful debugging tool that remarkably few people know about, so please read the following carefully and put it into practice!
+
+A regular breakpoint is on a line you specify, and causes the debugger to pause execution at that point so you can evaluate your program's state. An *exception* breakpoint tells the debugger to pause whenever a problem is encountered anywhere in your program, so you can evaluate your program's state before it crashes.
+
+Exception breakpoints are trivial to set up: go to the Breakpoint Navigation (<kbd>Cmd</kbd>+7), then click the + button in the bottom left and choose Add Exception Breakpoint. You can leave it there if you want to, but it's preferable to make one further change to reduce unnecessary messages: right-click on your new breakpoint, choose Edit Breakpoint, then change the Exception value from "All" to "Objective-C".
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/xcode/what-are-swift-error-breakpoints">What are Swift error breakpoints?</a></li><li><a href="/example-code/xcode/what-are-breakpoints">What are breakpoints?</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging</a></li><li><a href="/example-code/games/how-to-create-a-spritekit-texture-atlas-in-xcode">How to create a SpriteKit texture atlas in Xcode</a></li></ul>
+/example-code/xcode/what-are-swift-error-breakpoints">What are Swift error breakpoints? 
+/example-code/xcode/what-are-breakpoints">What are breakpoints? 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging 
+/example-code/games/how-to-create-a-spritekit-texture-atlas-in-xcode">How to create a SpriteKit texture atlas in Xcode</a>
 -->
 
 :::

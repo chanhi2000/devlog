@@ -59,49 +59,59 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Believe it or not, iOS has a built-in particle system that works great in all UIKit apps and is immensely customizable. To get started you need to create a <code>CAEmitterLayer</code> object and tell it how to create particles: where it should create them, how big the emitter should be, and what types of particles should exist.</p>
-<p>The "type of particles" part is handled by <code>CAEmitterCell</code>, which covers details like how fast to create, how long they should live, whether they should spin and/or fade out, what texture to use, and more. You can add as many <code>CAEmitterCells</code> to a <code>CAEmitterLayer</code> as you need.</p>
-<p>Here's some example code to get you started. This creates particles of three different colors, all falling and spinning down from the top of the screen. The image "particle_confetti" is just a small white triangle that I drew by hand – you should replace that with something more interesting.</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">createParticles</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> particleEmitter <span class="token operator">=</span> <span class="token class-name">CAEmitterLayer</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+Believe it or not, iOS has a built-in particle system that works great in all UIKit apps and is immensely customizable. To get started you need to create a `CAEmitterLayer` object and tell it how to create particles: where it should create them, how big the emitter should be, and what types of particles should exist.
 
-    particleEmitter<span class="token punctuation">.</span>emitterPosition <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> view<span class="token punctuation">.</span>center<span class="token punctuation">.</span>x<span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token operator">-</span><span class="token number">96</span><span class="token punctuation">)</span>
-    particleEmitter<span class="token punctuation">.</span>emitterShape <span class="token operator">=</span> <span class="token punctuation">.</span>line
-    particleEmitter<span class="token punctuation">.</span>emitterSize <span class="token operator">=</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> view<span class="token punctuation">.</span>frame<span class="token punctuation">.</span>size<span class="token punctuation">.</span>width<span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
+The "type of particles" part is handled by `CAEmitterCell`, which covers details like how fast to create, how long they should live, whether they should spin and/or fade out, what texture to use, and more. You can add as many `CAEmitterCells` to a `CAEmitterLayer` as you need.
 
-    <span class="token keyword">let</span> red <span class="token operator">=</span> <span class="token function">makeEmitterCell</span><span class="token punctuation">(</span>color<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">)</span>
-    <span class="token keyword">let</span> green <span class="token operator">=</span> <span class="token function">makeEmitterCell</span><span class="token punctuation">(</span>color<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>green<span class="token punctuation">)</span>
-    <span class="token keyword">let</span> blue <span class="token operator">=</span> <span class="token function">makeEmitterCell</span><span class="token punctuation">(</span>color<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>blue<span class="token punctuation">)</span>
+Here's some example code to get you started. This creates particles of three different colors, all falling and spinning down from the top of the screen. The image "particle_confetti" is just a small white triangle that I drew by hand – you should replace that with something more interesting.
 
-    particleEmitter<span class="token punctuation">.</span>emitterCells <span class="token operator">=</span> <span class="token punctuation">[</span>red<span class="token punctuation">,</span> green<span class="token punctuation">,</span> blue<span class="token punctuation">]</span>
+```swift
+func createParticles() {
+    let particleEmitter = CAEmitterLayer()
 
-    view<span class="token punctuation">.</span>layer<span class="token punctuation">.</span><span class="token function">addSublayer</span><span class="token punctuation">(</span>particleEmitter<span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+    particleEmitter.emitterPosition = CGPoint(x: view.center.x, y: -96)
+    particleEmitter.emitterShape = .line
+    particleEmitter.emitterSize = CGSize(width: view.frame.size.width, height: 1)
 
-<span class="token keyword">func</span> <span class="token function-definition function">makeEmitterCell</span><span class="token punctuation">(</span>color<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">CAEmitterCell</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> cell <span class="token operator">=</span> <span class="token class-name">CAEmitterCell</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    cell<span class="token punctuation">.</span>birthRate <span class="token operator">=</span> <span class="token number">3</span>
-    cell<span class="token punctuation">.</span>lifetime <span class="token operator">=</span> <span class="token number">7.0</span>
-    cell<span class="token punctuation">.</span>lifetimeRange <span class="token operator">=</span> <span class="token number">0</span>
-    cell<span class="token punctuation">.</span>color <span class="token operator">=</span> color<span class="token punctuation">.</span>cgColor
-    cell<span class="token punctuation">.</span>velocity <span class="token operator">=</span> <span class="token number">200</span>
-    cell<span class="token punctuation">.</span>velocityRange <span class="token operator">=</span> <span class="token number">50</span>
-    cell<span class="token punctuation">.</span>emissionLongitude <span class="token operator">=</span> <span class="token class-name">CGFloat</span><span class="token punctuation">.</span>pi
-    cell<span class="token punctuation">.</span>emissionRange <span class="token operator">=</span> <span class="token class-name">CGFloat</span><span class="token punctuation">.</span>pi <span class="token operator">/</span> <span class="token number">4</span>
-    cell<span class="token punctuation">.</span>spin <span class="token operator">=</span> <span class="token number">2</span>
-    cell<span class="token punctuation">.</span>spinRange <span class="token operator">=</span> <span class="token number">3</span>
-    cell<span class="token punctuation">.</span>scaleRange <span class="token operator">=</span> <span class="token number">0.5</span>
-    cell<span class="token punctuation">.</span>scaleSpeed <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">0.05</span>
+    let red = makeEmitterCell(color: UIColor.red)
+    let green = makeEmitterCell(color: UIColor.green)
+    let blue = makeEmitterCell(color: UIColor.blue)
 
-    cell<span class="token punctuation">.</span>contents <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"particle_confetti"</span></span><span class="token punctuation">)</span><span class="token operator">?</span><span class="token punctuation">.</span>cgImage
-    <span class="token keyword">return</span> cell
-<span class="token punctuation">}</span></code></pre>
+    particleEmitter.emitterCells = [red, green, blue]
+
+    view.layer.addSublayer(particleEmitter)
+}
+
+func makeEmitterCell(color: UIColor) -> CAEmitterCell {
+    let cell = CAEmitterCell()
+    cell.birthRate = 3
+    cell.lifetime = 7.0
+    cell.lifetimeRange = 0
+    cell.color = color.cgColor
+    cell.velocity = 200
+    cell.velocityRange = 50
+    cell.emissionLongitude = CGFloat.pi
+    cell.emissionRange = CGFloat.pi / 4
+    cell.spin = 2
+    cell.spinRange = 3
+    cell.scaleRange = 0.5
+    cell.scaleSpeed = -0.05
+
+    cell.contents = UIImage(named: "particle_confetti")?.cgImage
+    return cell
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-emit-particles-using-skemitternode">How to emit particles using SKEmitterNode</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/example-code/games/how-to-advance-time-in-an-skemitternode-using-advancesimulationtime">How to advance time in an SKEmitterNode using advanceSimulationTime()</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li></ul>
+/example-code/games/how-to-emit-particles-using-skemitternode">How to emit particles using SKEmitterNode 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue 
+/example-code/games/how-to-advance-time-in-an-skemitternode-using-advancesimulationtime">How to advance time in an SKEmitterNode using advanceSimulationTime() 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a>
 -->
 
 :::

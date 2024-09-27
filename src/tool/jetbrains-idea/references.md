@@ -113,6 +113,9 @@ head:
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - Code Style](https://hj0216.tistory.com/m/954)
   <!-- END: hj0216 -->
+- [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
+  - [인텔리제이 개꿀 플러그인 (변수 하이라이트 및 토글 - Grep Console)](https://thalals.tistory.com/m/487)
+  <!-- END: thalals  -->
 <!-- END: tistory.com -->
 
 ---

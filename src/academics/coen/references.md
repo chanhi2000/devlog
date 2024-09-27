@@ -108,6 +108,12 @@ head:
   - [\[Data Structure\] Trie](https://dev-ws.tistory.com/m/127)
   - [\[Operating System\] Process](https://dev-ws.tistory.com/m/128)
   <!-- END: dev-ws -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [OS 페이징과 캐시](https://jeongchul.tistory.com/m/746)
+  - [OS Delayed Write 지연 쓰기](https://jeongchul.tistory.com/m/747)
+  - [OS Disk Swap 디스크 스왑](https://jeongchul.tistory.com/m/748)
+  - [OS Critical Section 임계 구역](https://jeongchul.tistory.com/m/749)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com  -->
 
 ---

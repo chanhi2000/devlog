@@ -28,6 +28,22 @@ head:
 
 ---
 
+## PyTorch
+
+- [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
+
+<!-- END: pytorch.org -->
+
+---
+
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Colab
+
+- [`gemini-1.5-pro-api-detection.ipynb`](https://colab.research.google.com/drive/1gSDMO0WrnHkRnZY5FlYUeKUZjESPPIjs)
+
+---
+
 ## Pytorch.kr
 
 - [속도와 파이썬, 두 마리 토끼 잡기: 딥러닝 시 빠른 파이썬 코드 실행을 위한 CUDA 그래프 사용법 (Speed, Python: Pick Two. How CUDA Graphs Enable Fast Python Code for Deep Learning)](https://discuss.pytorch.kr/t/cuda-speed-python-pick-two-how-cuda-graphs-enable-fast-python-code-for-deep-learning/2441)
@@ -41,6 +57,8 @@ head:
 - [[2024/04/22 ~ 04/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
 - [\[2024/06/03 ~ 06/09\] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-06-03-06-09-ml-top-ml-papers-of-the-week/4600)
 - [VLMs are blind: 시각-언어 모델이 실패하는 (인간에게는 쉬운) 시각적 작업들에 대한 연구 (feat. BlindTest)](https://discuss.pytorch.kr/t/vlms-are-blind-feat-blindtest/4813/1)
+
+<!-- END: discuss.pytorch.kr -->
 
 ---
 

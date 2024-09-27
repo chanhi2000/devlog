@@ -59,20 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p style="margin: 0; margin-bottom: 20px;"><a href="/about">Paul Hudson</a> &nbsp;&nbsp; <i class="fab fa-twitter" aria-hidden="true" style="color: #4099ff"></i> <a href="https://twitter.com/twostraws" target="_blank">@twostraws</a> &nbsp;&nbsp; <time itemprop="dateModified" datetime="2019-05-28T20:41:20+00:00">May 28th 2019</time><meta itemprop="datePublished" content="2019-05-28T20:41:20+00:00"></p>
-<p>You can set the <code>cornerRadius</code> property of any <code>UIView</code> to have its edges rounded, but by default that rounds all corners at the same time. If you want only <em>some</em> corners to be rounded, you should set the layer’s <code>maskedCorners</code> property to be an array of the corners you want –&nbsp;it’s an option set, so you can set one or many depending on your needs.</p>
-<p>For example, this code rounds the top-left and bottom-right corners of a view, leaving the other two square:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> redBox <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-redBox<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token punctuation">.</span>red
-redBox<span class="token punctuation">.</span>layer<span class="token punctuation">.</span>cornerRadius <span class="token operator">=</span> <span class="token number">25</span>
-redBox<span class="token punctuation">.</span>layer<span class="token punctuation">.</span>maskedCorners <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">.</span>layerMinXMinYCorner<span class="token punctuation">,</span> <span class="token punctuation">.</span>layerMaxXMaxYCorner<span class="token punctuation">]</span>
-view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>redBox<span class="token punctuation">)</span></code></pre>
+<p style="margin: 0; margin-bottom: 20px;"><a href="/about">Paul Hudson</a>    <i class="fab fa-twitter" aria-hidden="true" style="color: #4099ff"></i> <a href="https://twitter.com/twostraws" target="_blank">@twostraws</a>    <time itemprop="dateModified" datetime="2019-05-28T20:41:20+00:00">May 28th 2019</time><meta itemprop="datePublished" content="2019-05-28T20:41:20+00:00">
+
+You can set the `cornerRadius` property of any `UIView` to have its edges rounded, but by default that rounds all corners at the same time. If you want only *some* corners to be rounded, you should set the layer’s `maskedCorners` property to be an array of the corners you want – it’s an option set, so you can set one or many depending on your needs.
+
+For example, this code rounds the top-left and bottom-right corners of a view, leaving the other two square:
+
+```swift
+let redBox = UIView(frame: CGRect(x: 100, y: 100, width: 128, height: 128))
+redBox.backgroundColor = .red
+redBox.layer.cornerRadius = 25
+redBox.layer.maskedCorners = [.layerMinXMinYCorner, .layerMaxXMaxYCorner]
+view.addSubview(redBox)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-round-the-corners-of-a-view">How to round the corners of a view</a></li><li><a href="/example-code/calayer/how-to-round-the-corners-of-a-uiview">How to round the corners of a UIView</a></li><li><a href="/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a></li><li><a href="/example-code/system/how-to-run-code-at-a-specific-time">How to run code at a specific time</a></li><li><a href="/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext">How to help VoiceOver read specific kinds of text using accessibilityTextualContext</a></li></ul>
+/quick-start/swiftui/how-to-round-the-corners-of-a-view">How to round the corners of a view 
+/example-code/calayer/how-to-round-the-corners-of-a-uiview">How to round the corners of a UIView 
+/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round" 
+/example-code/system/how-to-run-code-at-a-specific-time">How to run code at a specific time 
+/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext">How to help VoiceOver read specific kinds of text using accessibilityTextualContext</a>
 -->
 
 :::

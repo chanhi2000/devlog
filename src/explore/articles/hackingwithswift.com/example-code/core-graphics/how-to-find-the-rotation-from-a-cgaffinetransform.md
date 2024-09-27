@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A <code>CGAffineTransform</code> value combines scale, translation and rotation all at once, but if you just want to know its rotation value is then use this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">rotation</span><span class="token punctuation">(</span>from transform<span class="token punctuation">:</span> <span class="token class-name">CGAffineTransform</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Double</span> <span class="token punctuation">{</span>
-    <span class="token keyword">return</span> <span class="token function">atan2</span><span class="token punctuation">(</span><span class="token class-name">Double</span><span class="token punctuation">(</span>transform<span class="token punctuation">.</span>b<span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token class-name">Double</span><span class="token punctuation">(</span>transform<span class="token punctuation">.</span>a<span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+A `CGAffineTransform` value combines scale, translation and rotation all at once, but if you just want to know its rotation value is then use this code:
+
+```swift
+func rotation(from transform: CGAffineTransform) -> Double {
+    return atan2(Double(transform.b), Double(transform.a))
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation</a></li><li><a href="/example-code/core-graphics/how-to-find-the-translation-from-a-cgaffinetransform">How to find the translation from a CGAffineTransform</a></li><li><a href="/example-code/core-graphics/how-to-find-the-scale-from-a-cgaffinetransform">How to find the scale from a CGAffineTransform</a></li><li><a href="/example-code/uikit/how-to-scale-stretch-move-and-rotate-uiviews-using-cgaffinetransform">How to scale, stretch, move, and rotate UIViews using CGAffineTransform</a></li><li><a href="/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag()</a></li></ul>
+/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation 
+/example-code/core-graphics/how-to-find-the-translation-from-a-cgaffinetransform">How to find the translation from a CGAffineTransform 
+/example-code/core-graphics/how-to-find-the-scale-from-a-cgaffinetransform">How to find the scale from a CGAffineTransform 
+/example-code/uikit/how-to-scale-stretch-move-and-rotate-uiviews-using-cgaffinetransform">How to scale, stretch, move, and rotate UIViews using CGAffineTransform 
+/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag()</a>
 -->
 
 :::

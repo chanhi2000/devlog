@@ -59,17 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>When you’re just learning Swift, the difference between an optional (<code>String?</code>), an implicitly unwrapped optional (<code>String!</code>), and a regular type (<code>String</code>) can seem awfully confusing. Here’s a quick summary that should explain the difference:</p>
-<p>When you use <code>String</code> you’re saying this will always have a string inside, and can never have nothing inside. It might be an empty string (<code>""</code>), but even an empty string is still a string.</p>
-<p>When you use <code>String?</code> you’re saying this might have a string inside, but it might have nothing at all inside –&nbsp;not even an empty string. Swift won’t let you use these without unwrapping them, which is usually done using <code>if let</code>.</p>
-<p>When you use <code>String!</code> you’re saying this might have a string inside, but it might have nothing at all inside –&nbsp;not even an empty string. However, Swift lets you use these as if they were a <code>String</code>, as if they always <em>do</em> have a value, but if you try to use a nil value by accident your code will crash. This effectively lets you say “I know this <em>might</em> be nil, but I’m so sure it has a value that I’m willing for my program to crash if I’m wrong.”</p>
-<p>So: <code>String</code> is definitely a string, <code>String?</code> might be nil or might be a string, and <code>String!</code> might be nil but when you use it you’re absolutely sure it has a string.</p>
+When you’re just learning Swift, the difference between an optional (`String?`), an implicitly unwrapped optional (`String!`), and a regular type (`String`) can seem awfully confusing. Here’s a quick summary that should explain the difference:
+
+When you use `String` you’re saying this will always have a string inside, and can never have nothing inside. It might be an empty string (`""`), but even an empty string is still a string.
+
+When you use `String?` you’re saying this might have a string inside, but it might have nothing at all inside – not even an empty string. Swift won’t let you use these without unwrapping them, which is usually done using `if let`.
+
+When you use `String!` you’re saying this might have a string inside, but it might have nothing at all inside – not even an empty string. However, Swift lets you use these as if they were a `String`, as if they always *do* have a value, but if you try to use a nil value by accident your code will crash. This effectively lets you say “I know this *might* be nil, but I’m so sure it has a value that I’m willing for my program to crash if I’m wrong.”
+
+So: `String` is definitely a string, `String?` might be nil or might be a string, and `String!` might be nil but when you use it you’re absolutely sure it has a string.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-implicitly-unwrapped-optionals">What are implicitly unwrapped optionals?</a></li><li><a href="/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift</a></li><li><a href="/example-code/language/what-is-optional-chaining">What is optional chaining?</a></li><li><a href="/example-code/language/whats-the-difference-between-init-and-init">What’s the difference between init?() and init()?</a></li><li><a href="/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays</a></li></ul>
+/example-code/language/what-are-implicitly-unwrapped-optionals">What are implicitly unwrapped optionals? 
+/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift 
+/example-code/language/what-is-optional-chaining">What is optional chaining? 
+/example-code/language/whats-the-difference-between-init-and-init">What’s the difference between init?() and init()? 
+/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays</a>
 -->
 
 :::

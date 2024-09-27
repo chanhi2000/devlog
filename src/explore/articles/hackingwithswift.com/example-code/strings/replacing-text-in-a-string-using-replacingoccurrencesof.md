@@ -61,17 +61,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>It's easy to replace text inside a string thanks to the method <code>replacingOccurrences(of:)</code>. This is a string method, and you tell it what to look for and what to replace it with, and you're done.</p>
-<p>For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Swift 4.0 is the best version of Swift to learn, so if you're starting fresh you should definitely learn Swift 4.0."</span></span>
-<span class="token keyword">let</span> replaced <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">replacingOccurrences</span><span class="token punctuation">(</span>of<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"4.0"</span></span><span class="token punctuation">,</span> with<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"5.0"</span></span><span class="token punctuation">)</span></code></pre>
-<p>That will make <code>replaced</code> equal to "Swift 5.0 is the best version of Swift to learn, so if you're starting fresh you should definitely learn Swift 5.0.”</p>
+It's easy to replace text inside a string thanks to the method `replacingOccurrences(of:)`. This is a string method, and you tell it what to look for and what to replace it with, and you're done.
+
+For example:
+
+```swift
+let str = "Swift 4.0 is the best version of Swift to learn, so if you're starting fresh you should definitely learn Swift 4.0."
+let replaced = str.replacingOccurrences(of: "4.0", with: "5.0")
+```
+
+That will make `replaced` equal to "Swift 5.0 is the best version of Swift to learn, so if you're starting fresh you should definitely learn Swift 5.0.”
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/quick-start/swiftui/how-to-create-custom-text-effects-and-animations">How to create custom text effects and animations</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/quick-start/swiftui/how-to-create-custom-text-effects-and-animations">How to create custom text effects and animations 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a>
 -->
 
 :::

@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>By default the iOS Simulator shows whatever the time is on your Mac, but you can use Xcode’s <code>simctl</code> command to override that with a custom time.</p>
-<p>For example, Apple always uses 9:41am in their screenshots, because that was the time the original iPhone was announced. If you want to get the same thing in your simulator screenshots, use this command: </p>
-<p><strong>xcrun simctl status_bar "iPhone 12 Pro Max" override --time "9:41"</strong></p>
-<p>You should replace the simulator name with whatever device you want to change.</p>
-<p><strong>Tip:</strong> The time shown is just a string, and can be whatever you want. You could use <strong>--time “twostraws”</strong> for example, and that would work just fine.</p>
-<p>For much more control over how your simulator looks and works, check out my free <a href="https://github.com/twostraws/ControlRoom">Control Room</a> app on GitHub.</p>
+By default the iOS Simulator shows whatever the time is on your Mac, but you can use Xcode’s `simctl` command to override that with a custom time.
+
+For example, Apple always uses 9:41am in their screenshots, because that was the time the original iPhone was announced. If you want to get the same thing in your simulator screenshots, use this command: 
+
+**xcrun simctl status_bar "iPhone 12 Pro Max" override --time "9:41"**
+
+You should replace the simulator name with whatever device you want to change.
+
+**Tip:** The time shown is just a string, and can be whatever you want. You could use **--time “twostraws”** for example, and that would work just fine.
+
+For much more control over how your simulator looks and works, check out my free <a href="https://github.com/twostraws/ControlRoom">Control Room</a> app on GitHub.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-compiler-directives-to-detect-the-ios-simulator">How to use compiler directives to detect the iOS Simulator</a></li><li><a href="/example-code/uikit/what-does-the-message-simulator-user-has-requested-new-graphics-quality-100-mean">What does the message "Simulator user has requested new graphics quality: 100" mean?</a></li><li><a href="/example-code/arrays/how-to-count-objects-in-a-set-using-nscountedset">How to count objects in a set using NSCountedSet</a></li><li><a href="/example-code/language/when-to-use-a-set-rather-than-an-array">When to use a set rather than an array</a></li><li><a href="/example-code/testing/how-to-set-baselines-for-your-performance-tests">How to set baselines for your performance tests</a></li></ul>
+/example-code/language/how-to-use-compiler-directives-to-detect-the-ios-simulator">How to use compiler directives to detect the iOS Simulator 
+/example-code/uikit/what-does-the-message-simulator-user-has-requested-new-graphics-quality-100-mean">What does the message "Simulator user has requested new graphics quality: 100" mean? 
+/example-code/arrays/how-to-count-objects-in-a-set-using-nscountedset">How to count objects in a set using NSCountedSet 
+/example-code/language/when-to-use-a-set-rather-than-an-array">When to use a set rather than an array 
+/example-code/testing/how-to-set-baselines-for-your-performance-tests">How to set baselines for your performance tests</a>
 -->
 
 :::

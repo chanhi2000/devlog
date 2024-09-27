@@ -59,21 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can generate random numbers by calling the <code>random()</code> method on whatever numeric type you’re using, providing the range you want to work with. For example, this generates a random number in the range 1 through 5, inclusive on both sides:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> randomInt <span class="token operator">=</span> <span class="token class-name">Int</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token operator">...</span><span class="token number">5</span><span class="token punctuation">)</span></code></pre>
-<p>Similar methods exist for <code>Double</code>, <code>Float</code>, and <code>CGFloat</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> randomDouble <span class="token operator">=</span> <span class="token class-name">Double</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token operator">...</span><span class="token number">100</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> randomFloat <span class="token operator">=</span> <span class="token class-name">Float</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token operator">..&lt;</span><span class="token number">10</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> randomCGFloat <span class="token operator">=</span> <span class="token class-name">CGFloat</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token operator">...</span><span class="token number">1000</span><span class="token punctuation">)</span></code></pre>
-<p>There’s also one for booleans, generating true or false randomly:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> randomBool <span class="token operator">=</span> <span class="token class-name">Bool</span><span class="token punctuation">.</span><span class="token function">random</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>Checking a random boolean is effectively the same as checking <code>Int.random(in: 0...1) == 1</code>, but it helps clarify your intent.</p>
+You can generate random numbers by calling the `random()` method on whatever numeric type you’re using, providing the range you want to work with. For example, this generates a random number in the range 1 through 5, inclusive on both sides:
+
+```swift
+let randomInt = Int.random(in: 1...5)
+```
+
+Similar methods exist for `Double`, `Float`, and `CGFloat`:
+
+```swift
+let randomDouble = Double.random(in: 1...100)
+let randomFloat = Float.random(in: 1..<10)
+let randomCGFloat = CGFloat.random(in: 1...1000)
+```
+
+There’s also one for booleans, generating true or false randomly:
+
+```swift
+let randomBool = Bool.random()
+```
+
+Checking a random boolean is effectively the same as checking `Int.random(in: 0...1) == 1`, but it helps clarify your intent.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource</a></li><li><a href="/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution</a></li><li><a href="/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution</a></li><li><a href="/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID</a></li><li><a href="/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a></li></ul>
+/example-code/games/how-to-generate-a-random-number-with-gkrandomsource">How to generate a random number with GKRandomSource 
+/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution 
+/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution 
+/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID 
+/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a>
 -->
 
 :::

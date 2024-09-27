@@ -59,23 +59,45 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>iOS 13 introduced a new framework called CryptoKit, which adds important cryptographic functionality such as encryption and hashing.</p>
-<p>If you want to calculate the hash value of a string you need to convert it to an instance of <code>Data</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> inputString <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Hello, world!"</span></span>
-<span class="token keyword">let</span> inputData <span class="token operator">=</span> <span class="token class-name">Data</span><span class="token punctuation">(</span>inputString<span class="token punctuation">.</span>utf8<span class="token punctuation">)</span></code></pre>
-<p>You then call the <code>hash(data:)</code> method of whichever kind of hash you want: SHA-256, SHA-384, or SHA-512. For example, if you wanted to calculate the SHA-256 hash of your data you’d use this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> hashed <span class="token operator">=</span> SHA256<span class="token punctuation">.</span><span class="token function">hash</span><span class="token punctuation">(</span>data<span class="token punctuation">:</span> inputData<span class="token punctuation">)</span></code></pre>
-<p>Finally, you can print out the textual representation of the hash –&nbsp;what we’d considered the user-facing hash string itself – like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span>hashed<span class="token punctuation">.</span>description<span class="token punctuation">)</span></code></pre>
-<p>Obviously if you have an instance of <code>Data</code> you want to hash, you can put that directly into <code>SHA256.hash(data:)</code>.</p>
-<p>If you want to get the <em>string</em> of your hash, you should convert using the <code>String(format:)</code> initializer, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> hashString <span class="token operator">=</span> hashed<span class="token punctuation">.</span>compactMap <span class="token punctuation">{</span> <span class="token class-name">String</span><span class="token punctuation">(</span>format<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"%02x"</span></span><span class="token punctuation">,</span> <span class="token short-argument">$0</span><span class="token punctuation">)</span> <span class="token punctuation">}</span><span class="token punctuation">.</span><span class="token function">joined</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
+iOS 13 introduced a new framework called CryptoKit, which adds important cryptographic functionality such as encryption and hashing.
+
+If you want to calculate the hash value of a string you need to convert it to an instance of `Data` like this:
+
+```swift
+let inputString = "Hello, world!"
+let inputData = Data(inputString.utf8)
+```
+
+You then call the `hash(data:)` method of whichever kind of hash you want: SHA-256, SHA-384, or SHA-512. For example, if you wanted to calculate the SHA-256 hash of your data you’d use this:
+
+```swift
+let hashed = SHA256.hash(data: inputData)
+```
+
+Finally, you can print out the textual representation of the hash – what we’d considered the user-facing hash string itself – like this:
+
+```swift
+print(hashed.description)
+```
+
+Obviously if you have an instance of `Data` you want to hash, you can put that directly into `SHA256.hash(data:)`.
+
+If you want to get the *string* of your hash, you should convert using the `String(format:)` initializer, like this:
+
+```swift
+let hashString = hashed.compactMap { String(format: "%02x", $0) }.joined()
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-create-hash-values-from-objects-using-hasher">How to create hash values from objects using Hasher</a></li><li><a href="/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a></li><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li><li><a href="/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect</a></li><li><a href="/example-code/core-graphics/how-to-calculate-the-distance-between-two-cgpoints">How to calculate the distance between two CGPoints</a></li></ul>
+/example-code/language/how-to-create-hash-values-from-objects-using-hasher">How to create hash values from objects using Hasher 
+/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string 
+/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C” 
+/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect 
+/example-code/core-graphics/how-to-calculate-the-distance-between-two-cgpoints">How to calculate the distance between two CGPoints</a>
 -->
 
 :::

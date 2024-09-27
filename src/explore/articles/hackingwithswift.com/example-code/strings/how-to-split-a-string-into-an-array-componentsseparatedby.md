@@ -59,16 +59,25 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can convert a string to an array by breaking it up by a substring using the <code>components(separatedBy:)</code> method. For example, you can split a string up by a comma and space like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Andrew, Ben, John, Paul, Peter, Laura"</span></span>
-<span class="token keyword">let</span> array <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">components</span><span class="token punctuation">(</span>separatedBy<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">", "</span></span><span class="token punctuation">)</span></code></pre>
-<p>That will return an array of six items, one for each name.</p>
+You can convert a string to an array by breaking it up by a substring using the `components(separatedBy:)` method. For example, you can split a string up by a comma and space like this:
+
+```swift
+let str = "Andrew, Ben, John, Paul, Peter, Laura"
+let array = str.components(separatedBy: ", ")
+```
+
+That will return an array of six items, one for each name.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-split-an-array-into-chunks">How to split an array into chunks</a></li><li><a href="/example-code/language/how-to-split-an-integer-into-an-array-of-its-digits">How to split an integer into an array of its digits</a></li><li><a href="/example-code/uicolor/how-to-read-the-red-green-blue-and-alpha-color-components-from-a-uicolor">How to read the red, green, blue, and alpha color components from a UIColor</a></li><li><a href="/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string</a></li><li><a href="/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions</a></li></ul>
+/example-code/language/how-to-split-an-array-into-chunks">How to split an array into chunks 
+/example-code/language/how-to-split-an-integer-into-an-array-of-its-digits">How to split an integer into an array of its digits 
+/example-code/uicolor/how-to-read-the-red-green-blue-and-alpha-color-components-from-a-uicolor">How to read the red, green, blue, and alpha color components from a UIColor 
+/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string 
+/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions</a>
 -->
 
 :::

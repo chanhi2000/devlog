@@ -59,36 +59,50 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Both the <code>static</code> and <code>class</code> keywords allow us to attach variables to a class rather than to instances of a class. For example, you might create a <code>Student</code> class with properties such as <code>name</code> and <code>age</code>, then create a static <code>numberOfStudents</code> property that is owned by the <code>Student</code> class itself rather than individual instances.</p>
-<p>Where <code>static</code> and <code>class</code> differ is how they support inheritance: When you make a <code>static</code> property it becomes owned by the class and cannot be changed by subclasses, whereas when you use <code>class</code> it may be overridden if needed.</p>
-<p>For example, here’s a <code>Person</code> class with one static property and one class property:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">static</span> <span class="token keyword">var</span> count<span class="token punctuation">:</span> <span class="token class-name">Int</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token number">250</span>
-    <span class="token punctuation">}</span>
+Both the `static` and `class` keywords allow us to attach variables to a class rather than to instances of a class. For example, you might create a `Student` class with properties such as `name` and `age`, then create a static `numberOfStudents` property that is owned by the `Student` class itself rather than individual instances.
 
-    <span class="token keyword">class</span> <span class="token keyword">var</span> averageAge<span class="token punctuation">:</span> <span class="token class-name">Double</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token number">30</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If we created a <code>Student</code> class by inheriting from <code>Person</code>, trying to override <code>count</code> (the static property) would fail to compile if uncommented, whereas trying to override <code>averageAge</code> (the class property) is OK:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Student</span><span class="token punctuation">:</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token comment">// THIS ISN'T ALLOWED</span>
-    <span class="token comment">// override static var count: Int {</span>
-    <span class="token comment">//    return 150</span>
-    <span class="token comment">// }</span>
+Where `static` and `class` differ is how they support inheritance: When you make a `static` property it becomes owned by the class and cannot be changed by subclasses, whereas when you use `class` it may be overridden if needed.
 
-    <span class="token comment">// THIS IS ALLOWED</span>
-    <span class="token keyword">override</span> <span class="token keyword">class</span> <span class="token keyword">var</span> averageAge<span class="token punctuation">:</span> <span class="token class-name">Double</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token number">19.5</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+For example, here’s a `Person` class with one static property and one class property:
+
+```swift
+class Person {
+    static var count: Int {
+        return 250
+    }
+
+    class var averageAge: Double {
+        return 30
+    }
+}
+```
+
+If we created a `Student` class by inheriting from `Person`, trying to override `count` (the static property) would fail to compile if uncommented, whereas trying to override `averageAge` (the class property) is OK:
+
+```swift
+class Student: Person {
+    // THIS ISN'T ALLOWED
+    // override static var count: Int {
+    //    return 150
+    // }
+
+    // THIS IS ALLOWED
+    override class var averageAge: Double {
+        return 19.5
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

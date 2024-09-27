@@ -59,20 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Encoding and decoding dates using the <code>Codable</code> protocol isn’t hard to do, but it does produce some unexpected data by default: <code>Date</code> stores its information as a floating-point number counting the number of seconds since January 1st 2001, rather than something standard involved days, months, and years.</p>
-<p>ISO-8601 is the web’s standard way of referring to dates and times, and looks like this: 2018-12-25T17:30:00Z –&nbsp;in English that’s December 25th 2018, at 5:30pm UTC. Both <code>JSONEncoder</code> and <code>JSONDecoder</code> are able to use this date format rather than the floating-point default –&nbsp;all you have to do is set their <code>dateEncodingStrategy</code> and <code>dateDecodingStrategy</code> properties.</p>
-<p>If you’re decoding dates, use this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> decoder <span class="token operator">=</span> <span class="token class-name">JSONDecoder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-decoder<span class="token punctuation">.</span>dateDecodingStrategy <span class="token operator">=</span> <span class="token punctuation">.</span>iso8601</code></pre>
-<p>And if you’re <em>encoding</em> dates you should use this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> encoder <span class="token operator">=</span> <span class="token class-name">JSONEncoder</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-encoder<span class="token punctuation">.</span>dateEncodingStrategy <span class="token operator">=</span> <span class="token punctuation">.</span>iso8601</code></pre>
+Encoding and decoding dates using the `Codable` protocol isn’t hard to do, but it does produce some unexpected data by default: `Date` stores its information as a floating-point number counting the number of seconds since January 1st 2001, rather than something standard involved days, months, and years.
+
+ISO-8601 is the web’s standard way of referring to dates and times, and looks like this: 2018-12-25T17:30:00Z – in English that’s December 25th 2018, at 5:30pm UTC. Both `JSONEncoder` and `JSONDecoder` are able to use this date format rather than the floating-point default – all you have to do is set their `dateEncodingStrategy` and `dateDecodingStrategy` properties.
+
+If you’re decoding dates, use this:
+
+```swift
+let decoder = JSONDecoder()
+decoder.dateDecodingStrategy = .iso8601
+```
+
+And if you’re *encoding* dates you should use this:
+
+```swift
+let encoder = JSONEncoder()
+encoder.dateEncodingStrategy = .iso8601
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

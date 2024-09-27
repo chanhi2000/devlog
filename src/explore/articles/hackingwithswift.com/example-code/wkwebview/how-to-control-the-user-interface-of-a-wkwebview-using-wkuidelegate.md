@@ -59,24 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>By default <code>WKWebView</code> works sort of like Safari, albeit in a single view rather than having tabs. If you want something more advanced –&nbsp;being able to monitor opening and closing windows, override behavior for JavaScript user interface, and so on – then the <code>WKUIDelegate</code> protocol is for you.</p>
-<p>First, make your view controller conform to it by adding <code>WKUIDelegate</code> to its list of protocols. Second, assign your view controller to the <code>uiDelegate</code> property of your web view:</p>
-<pre class=" language-swift"><code class=" language-swift">yourWebView<span class="token punctuation">.</span>uiDelegate <span class="token operator">=</span> <span class="token keyword">self</span></code></pre>
-<p>Finally, implement whichever of the optional methods of <code>WKUIDelegate</code> takes your interest. For example, you can make <code>WKWebView</code> show a custom alert controller when any web page uses the <code>alert()</code> JavaScript function:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">webView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> webView<span class="token punctuation">:</span> <span class="token class-name">WKWebView</span><span class="token punctuation">,</span> runJavaScriptAlertPanelWithMessage message<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> initiatedByFrame frame<span class="token punctuation">:</span> <span class="token class-name">WKFrameInfo</span><span class="token punctuation">,</span> completionHandler<span class="token punctuation">:</span> <span class="token attribute atrule">@escaping</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Void</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> ac <span class="token operator">=</span> <span class="token class-name">UIAlertController</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Hey, listen!"</span></span><span class="token punctuation">,</span> message<span class="token punctuation">:</span> message<span class="token punctuation">,</span> preferredStyle<span class="token punctuation">:</span> <span class="token punctuation">.</span>alert<span class="token punctuation">)</span>
-    ac<span class="token punctuation">.</span><span class="token function">addAction</span><span class="token punctuation">(</span><span class="token class-name">UIAlertAction</span><span class="token punctuation">(</span>title<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"OK"</span></span><span class="token punctuation">,</span> style<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">,</span> handler<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    <span class="token function">present</span><span class="token punctuation">(</span>ac<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span>
-    <span class="token function">completionHandler</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>There’s also <code>runJavaScriptConfirmPanelWithMessage</code> for showing confirm and deny UI, <code>runJavaScriptTextInputPanelWithPrompt</code> for requesting user text input, and so on. </p>
-<p><strong>Note:</strong> You <em>must</em> call the completion handler. JavaScript’s alerts are blocking, which means JavaScript execution will not continue until the alert finishes. As a result, WebKit will complain if you don’t let it know when you’re done.</p>
+By default `WKWebView` works sort of like Safari, albeit in a single view rather than having tabs. If you want something more advanced – being able to monitor opening and closing windows, override behavior for JavaScript user interface, and so on – then the `WKUIDelegate` protocol is for you.
+
+First, make your view controller conform to it by adding `WKUIDelegate` to its list of protocols. Second, assign your view controller to the `uiDelegate` property of your web view:
+
+```swift
+yourWebView.uiDelegate = self
+```
+
+Finally, implement whichever of the optional methods of `WKUIDelegate` takes your interest. For example, you can make `WKWebView` show a custom alert controller when any web page uses the `alert()` JavaScript function:
+
+```swift
+func webView(_ webView: WKWebView, runJavaScriptAlertPanelWithMessage message: String, initiatedByFrame frame: WKFrameInfo, completionHandler: @escaping () -> Void) {
+    let ac = UIAlertController(title: "Hey, listen!", message: message, preferredStyle: .alert)
+    ac.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+    present(ac, animated: true)
+    completionHandler()
+}
+```
+
+There’s also `runJavaScriptConfirmPanelWithMessage` for showing confirm and deny UI, `runJavaScriptTextInputPanelWithPrompt` for requesting user text input, and so on. 
+
+**Note:** You *must* call the completion handler. JavaScript’s alerts are blocking, which means JavaScript execution will not continue until the alert finishes. As a result, WebKit will complain if you don’t let it know when you’re done.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/wkwebview/how-to-control-the-sites-a-wkwebview-can-visit-using-wknavigationdelegate">How to control the sites a WKWebView can visit using WKNavigationDelegate</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView?</a></li><li><a href="/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing">How to monitor WKWebView page load progress using key-value observing</a></li><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li></ul>
+/example-code/wkwebview/how-to-control-the-sites-a-wkwebview-can-visit-using-wknavigationdelegate">How to control the sites a WKWebView can visit using WKNavigationDelegate 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView? 
+/example-code/wkwebview/how-to-monitor-wkwebview-page-load-progress-using-key-value-observing">How to monitor WKWebView page load progress using key-value observing 
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a>
 -->
 
 :::

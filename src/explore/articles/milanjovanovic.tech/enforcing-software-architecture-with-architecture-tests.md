@@ -199,7 +199,7 @@ Here's how you can write tests for enforcing design rules.
 
 ::: tabs
 
-@tab:active Command handlers must end with <code>CommandHandler</code>
+@tab:active Command handlers must end with `CommandHandler`
 
 ```cs
 var result = Types

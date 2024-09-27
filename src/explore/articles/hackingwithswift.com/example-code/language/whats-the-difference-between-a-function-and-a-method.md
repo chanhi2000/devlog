@@ -59,23 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Some folks use “function” and “method” interchangeably, but there’s a small difference: both of them are reusable chunks of code, but methods belong to classes, structs, and enums, whereas functions do not.</p>
-<p>So:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">thisIsAFunction</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-<span class="token punctuation">}</span>
+Some folks use “function” and “method” interchangeably, but there’s a small difference: both of them are reusable chunks of code, but methods belong to classes, structs, and enums, whereas functions do not.
 
-<span class="token keyword">struct</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">thisIsAMethod</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Because methods always belong to a data type, they have a concept of <code>self</code> that functions do not. This is a special value passed in by Swift, and it refers to whatever instance the method was called on.</p>
-<p>Swift uses the same keyword, <code>func</code>, for both functions and methods.</p>
+So:
+
+```swift
+func thisIsAFunction() {
+}
+
+struct Person {
+    func thisIsAMethod() {
+    }
+}
+```
+
+Because methods always belong to a data type, they have a concept of `self` that functions do not. This is a special value passed in by Swift, and it refers to whatever instance the method was called on.
+
+Swift uses the same keyword, `func`, for both functions and methods.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

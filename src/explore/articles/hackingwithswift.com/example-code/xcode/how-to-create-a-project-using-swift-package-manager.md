@@ -57,16 +57,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift Package Manager is a tool that generates Swift projects then manages dependencies for them, and it’s commonly used if want to build your projects without Xcode. If you have Xcode installed then you already have the Swift Package Manager, but if you’re using Linux it will come with the Swift for Linux package from <a href="https://swift.org/">https://swift.org/</a>.</p>
-<p>You can create a new project using just one command, although make sure you run it in an empty directory because it creates files:</p>
-<pre class=" language-swift"><code class=" language-swift">swift package <span class="token keyword">init</span> <span class="token operator">--</span>type<span class="token operator">=</span>executable</code></pre>
-<p>That will generate Sources/YourProject/main.swift for your code, plus Package.swift for dependencies, and more. Run <code>swift build</code> to build your source code, then <code>swift run</code> to execute it.</p>
+Swift Package Manager is a tool that generates Swift projects then manages dependencies for them, and it’s commonly used if want to build your projects without Xcode. If you have Xcode installed then you already have the Swift Package Manager, but if you’re using Linux it will come with the Swift for Linux package from <a href="https://swift.org/">https://swift.org/</a>.
+
+You can create a new project using just one command, although make sure you run it in an empty directory because it creates files:
+
+```swift
+swift package init --type=executable
+```
+
+That will generate <FontIcon icon="fas fa-folder-open"/>`Sources/YourProject/`<FontIcon icon="fa-brands fa-swift"/>`main.swift` for your code, plus <FontIcon icon="fa-brands fa-swift"/>`Package.swift` for dependencies, and more. Run `swift build` to build your source code, then `swift run` to execute it.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tutorial-building-a-complete-project">SwiftUI tutorial: Building a complete project</a></li><li><a href="/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project</a></li><li><a href="/quick-start/swiftui/wrap-up-our-swiftui-project-is-complete">Wrap up: our SwiftUI project is complete</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li></ul>
+/quick-start/swiftui/swiftui-tutorial-building-a-complete-project">SwiftUI tutorial: Building a complete project 
+/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project 
+/quick-start/swiftui/wrap-up-our-swiftui-project-is-complete">Wrap up: our SwiftUI project is complete 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a>
 -->
 
 :::

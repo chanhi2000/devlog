@@ -56,15 +56,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Xcode has a few special breakpoint types, accessed by going to the breakpoint navigator (Cmd+8) then clicking + in the bottom-left corner. One of the options in that menu is Swift Error Breakpoint, and it allows Xcode to pause when Swift errors are thrown.</p>
-<p>Swift error breakpoints are different from catching errors normally –&nbsp;in fact, the two complement each other nicely. If you’re calling someone else’s code (e.g. Apple’s) and that code throws an error, a Swift error breakpoint won’t halt on that. Instead, it will halt on errors thrown by your own code, i.e. wherever you use a <code>throw</code> statement. </p>
-<p>Swift error breakpoints are helpful because of the way Swift errors propagate –&nbsp;sometimes an error might be throw five methods deep in your code, then bubble upwards and upwards until they get handled. Once you enable the error breakpoint, Swift will pause where the error is thrown, so you don’t need to dig through your code.</p>
+Xcode has a few special breakpoint types, accessed by going to the breakpoint navigator (<kbd>Cmd</kbd>+8) then clicking + in the bottom-left corner. One of the options in that menu is Swift Error Breakpoint, and it allows Xcode to pause when Swift errors are thrown.
+
+Swift error breakpoints are different from catching errors normally – in fact, the two complement each other nicely. If you’re calling someone else’s code (e.g. Apple’s) and that code throws an error, a Swift error breakpoint won’t halt on that. Instead, it will halt on errors thrown by your own code, i.e. wherever you use a `throw` statement. 
+
+Swift error breakpoints are helpful because of the way Swift errors propagate – sometimes an error might be throw five methods deep in your code, then bubble upwards and upwards until they get handled. Once you enable the error breakpoint, Swift will pause where the error is thrown, so you don’t need to dig through your code.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/xcode/how-to-create-exception-breakpoints-in-xcode">How to create exception breakpoints in Xcode</a></li><li><a href="/example-code/xcode/what-are-breakpoints">What are breakpoints?</a></li><li><a href="/example-code/language/how-to-fix-the-error-expression-was-too-complex-to-be-solved-in-reasonable-time">How to fix the error “Expression was too complex to be solved in reasonable time”</a></li><li><a href="/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/example-code/language/how-to-add-warnings-and-errors-to-your-code-using-warning-and-error">How to add warnings and errors to your code using #warning and #error</a></li></ul>
+/example-code/xcode/how-to-create-exception-breakpoints-in-xcode">How to create exception breakpoints in Xcode 
+/example-code/xcode/what-are-breakpoints">What are breakpoints? 
+/example-code/language/how-to-fix-the-error-expression-was-too-complex-to-be-solved-in-reasonable-time">How to fix the error “Expression was too complex to be solved in reasonable time” 
+/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements” 
+/example-code/language/how-to-add-warnings-and-errors-to-your-code-using-warning-and-error">How to add warnings and errors to your code using #warning and #error</a>
 -->
 
 :::

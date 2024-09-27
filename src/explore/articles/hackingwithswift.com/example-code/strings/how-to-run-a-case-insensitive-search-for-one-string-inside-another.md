@@ -59,24 +59,41 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can search for one string inside another using the <code>range(of:)</code> method, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> string <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"The rain in Spain"</span></span>
-<span class="token keyword">let</span> range1 <span class="token operator">=</span> string<span class="token punctuation">.</span><span class="token function">range</span><span class="token punctuation">(</span>of<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">)</span></code></pre>
-<p>That returns an optional string index: if the word was found it will say where it was found, otherwise it will be nil.</p>
-<p>However, <code>range(of:)</code> does a <em>case-sensitive</em> search by default, which means it will match “rain” but not “Rain” or “RAIN”. If you want a case-insensitive search you need to provide an extra parameter called <code>options</code>, passing it <code>.caseInsensitive</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> range2 <span class="token operator">=</span> string<span class="token punctuation">.</span><span class="token function">range</span><span class="token punctuation">(</span>of<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>caseInsensitive<span class="token punctuation">)</span></code></pre>
-<p>That returns the same optional value depending on what was found, so you can wrap the whole thing in an <code>if let</code> to see whether a match was found:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> range3 <span class="token operator">=</span> string<span class="token punctuation">.</span><span class="token function">range</span><span class="token punctuation">(</span>of<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"rain"</span></span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>caseInsensitive<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token comment">// match</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token comment">// no match</span>
-<span class="token punctuation">}</span></code></pre>
+You can search for one string inside another using the `range(of:)` method, like this:
+
+```swift
+let string = "The rain in Spain"
+let range1 = string.range(of: "rain")
+```
+
+That returns an optional string index: if the word was found it will say where it was found, otherwise it will be nil.
+
+However, `range(of:)` does a *case-sensitive* search by default, which means it will match “rain” but not “Rain” or “RAIN”. If you want a case-insensitive search you need to provide an extra parameter called `options`, passing it `.caseInsensitive`:
+
+```swift
+let range2 = string.range(of: "rain", options: .caseInsensitive)
+```
+
+That returns the same optional value depending on what was found, so you can wrap the whole thing in an `if let` to see whether a match was found:
+
+```swift
+if let range3 = string.range(of: "rain", options: .caseInsensitive) {
+    // match
+} else {
+    // no match
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-add-search-tokens-to-a-search-field">How to add search tokens to a search field</a></li><li><a href="/example-code/system/how-to-convert-between-camel-case-and-snake-case-with-codable-and-keyencodingstrategy">How to convert between camel case and snake case with Codable and keyEncodingStrategy</a></li><li><a href="/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data">How to add a search bar to filter your data</a></li><li><a href="/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture()</a></li><li><a href="/example-code/system/how-to-make-one-operation-wait-for-another-to-complete-using-adddependency">How to make one operation wait for another to complete using addDependency()</a></li></ul>
+/quick-start/swiftui/how-to-add-search-tokens-to-a-search-field">How to add search tokens to a search field 
+/example-code/system/how-to-convert-between-camel-case-and-snake-case-with-codable-and-keyencodingstrategy">How to convert between camel case and snake case with Codable and keyEncodingStrategy 
+/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data">How to add a search bar to filter your data 
+/quick-start/swiftui/how-to-force-one-gesture-to-recognize-before-another-using-highprioritygesture">How to force one gesture to recognize before another using highPriorityGesture() 
+/example-code/system/how-to-make-one-operation-wait-for-another-to-complete-using-adddependency">How to make one operation wait for another to complete using addDependency()</a>
 -->
 
 :::

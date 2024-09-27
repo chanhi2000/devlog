@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>When specifying colors for objects in your views, it’s often easier to use the built-in semantic colors of <code>UIColor</code> rather than specifying our own custom colors that might not look good in both light and dark mode.</p>
-<p>For example, when you are coloring a label, use <code>UIColor.label</code>, <code>.secondaryLabel</code>, or similar so that UIKit will automatically make sure it stands out.</p>
-<p>For backgrounds you should use <code>UIColor.systemBackground</code>, <code>.secondarySystemBackground</code>, or similar so that when you layer one view over another they don’t appear to become merged.</p>
-<p>And when you’re using fixed colors like <code>.red</code> or <code>.blue</code> you should instead use <code>.systemRed</code> or <code>.systemBlue</code> to get a color that will adapt to the user’s trait environment – it will be a lighter red when in dark mode, and a darker red in light mode, rather than the fixed pure red of <code>.red</code>.</p>
+When specifying colors for objects in your views, it’s often easier to use the built-in semantic colors of `UIColor` rather than specifying our own custom colors that might not look good in both light and dark mode.
+
+For example, when you are coloring a label, use `UIColor.label`, `.secondaryLabel`, or similar so that UIKit will automatically make sure it stands out.
+
+For backgrounds you should use `UIColor.systemBackground`, `.secondarySystemBackground`, or similar so that when you layer one view over another they don’t appear to become merged.
+
+And when you’re using fixed colors like `.red` or `.blue` you should instead use `.systemRed` or `.systemBlue` to get a color that will adapt to the user’s trait environment – it will be a lighter red when in dark mode, and a darker red in light mode, rather than the fixed pure red of `.red`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/example-code/uikit/how-to-detect-dark-mode-in-ios">How to detect dark mode in iOS</a></li><li><a href="/quick-start/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode">How to show different images and other views in light or dark mode</a></li><li><a href="/example-code/uikit/how-to-force-a-view-controller-to-use-light-or-dark-mode">How to force a view controller to use light or dark mode</a></li><li><a href="/quick-start/swiftui/how-to-preview-your-layout-in-light-and-dark-mode">How to preview your layout in light and dark mode</a></li></ul>
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/uikit/how-to-detect-dark-mode-in-ios">How to detect dark mode in iOS 
+/quick-start/swiftui/how-to-show-different-images-and-other-views-in-light-or-dark-mode">How to show different images and other views in light or dark mode 
+/example-code/uikit/how-to-force-a-view-controller-to-use-light-or-dark-mode">How to force a view controller to use light or dark mode 
+/quick-start/swiftui/how-to-preview-your-layout-in-light-and-dark-mode">How to preview your layout in light and dark mode</a>
 -->
 
 :::

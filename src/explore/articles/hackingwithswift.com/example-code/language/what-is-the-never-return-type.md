@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>Never</code> return type is a special one in Swift, and tells the compiler that execution will never return when this function is called. It’s used by Swift’s <code>fatalError()</code> and <code>preconditionFailure()</code> functions, both of which cause your app to crash if they are called.</p>
-<p>The <code>Never</code> return type is useful because it lets Swift waive other requirements. For example, if you’re in a function that must return a value, calling a <code>Never</code> function means you don’t need to return anything –&nbsp;Swift knows you can’t return a value any more.</p>
+The `Never` return type is a special one in Swift, and tells the compiler that execution will never return when this function is called. It’s used by Swift’s `fatalError()` and `preconditionFailure()` functions, both of which cause your app to crash if they are called.
+
+The `Never` return type is useful because it lets Swift waive other requirements. For example, if you’re in a function that must return a value, calling a `Never` function means you don’t need to return anything – Swift knows you can’t return a value any more.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-ty">How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type”</a></li><li><a href="/quick-start/swiftui/how-to-fix-property-declares-an-opaque-return-type-but-has-no-initializer-expression-from-which-to-infer-an-underlying-type">How to fix “Property declares an opaque return type, but has no initializer expression from which to infer an underlying type”</a></li><li><a href="/quick-start/swiftui/how-to-return-different-view-types">How to return different view types</a></li><li><a href="/example-code/language/how-to-ignore-return-values-using-discardableresult">How to ignore return values using @discardableResult</a></li><li><a href="/example-code/uikit/how-to-move-to-the-next-uitextfield-when-the-user-presses-return">How to move to the next UITextField when the user presses return</a></li></ul>
+/quick-start/swiftui/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-ty">How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type” 
+/quick-start/swiftui/how-to-fix-property-declares-an-opaque-return-type-but-has-no-initializer-expression-from-which-to-infer-an-underlying-type">How to fix “Property declares an opaque return type, but has no initializer expression from which to infer an underlying type” 
+/quick-start/swiftui/how-to-return-different-view-types">How to return different view types 
+/example-code/language/how-to-ignore-return-values-using-discardableresult">How to ignore return values using @discardableResult 
+/example-code/uikit/how-to-move-to-the-next-uitextfield-when-the-user-presses-return">How to move to the next UITextField when the user presses return</a>
 -->
 
 :::

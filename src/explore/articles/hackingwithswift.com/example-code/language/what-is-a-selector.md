@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Selectors are effectively the names of methods on an object or struct, and they are used to execute some code at runtime. They were common in Objective-C, but the earliest versions of Swift didn't include some core selector functionality so their use declined for a while. That functionality (things like <code>performSelector(inBackground:)</code>) has since been restored.</p>
-<p>In Swift, selectors are most commonly found when working with the target/action paradigm that you find in classes such as <code>Timer</code> and <code>UIBarButtonItem</code>. For example, when you create a timer you need to tell it who to notify when the timer fires (the target) and what selector should be called (the action). The same goes for bar button items: when the button is tapped, what selector should be called, and on what object?</p>
+Selectors are effectively the names of methods on an object or struct, and they are used to execute some code at runtime. They were common in Objective-C, but the earliest versions of Swift didn't include some core selector functionality so their use declined for a while. That functionality (things like `performSelector(inBackground:)`) has since been restored.
+
+In Swift, selectors are most commonly found when working with the target/action paradigm that you find in classes such as `Timer` and `UIBarButtonItem`. For example, when you create a timer you need to tell it who to notify when the timer fires (the target) and what selector should be called (the action). The same goes for bar button items: when the button is tapped, what selector should be called, and on what object?
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li><li><a href="/example-code/system/how-to-cancel-a-delayed-perform-call">How to cancel a delayed perform() call</a></li><li><a href="/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts">How to use UIKeyCommand to add keyboard shortcuts</a></li><li><a href="/example-code/uikit/how-to-adjust-a-uiscrollview-to-fit-the-keyboard">How to adjust a UIScrollView to fit the keyboard</a></li><li><a href="/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a></li></ul>
+/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C” 
+/example-code/system/how-to-cancel-a-delayed-perform-call">How to cancel a delayed perform() call 
+/example-code/uikit/how-to-use-uikeycommand-to-add-keyboard-shortcuts">How to use UIKeyCommand to add keyboard shortcuts 
+/example-code/uikit/how-to-adjust-a-uiscrollview-to-fit-the-keyboard">How to adjust a UIScrollView to fit the keyboard 
+/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a>
 -->
 
 :::

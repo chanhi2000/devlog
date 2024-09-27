@@ -59,20 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>One-sided ranges allow us to skip either the start or end of a range to have Swift infer the starting point for us. As an example, consider this array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> characters <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Dr Horrible"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Captain Hammer"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Penny"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Bad Horse"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Moist"</span></span><span class="token punctuation">]</span></code></pre>
-<p>If we wanted to read only the first three items from that array, we could use <code>characters[..&lt;3]</code> –&nbsp;we skipped the start point, so Swift will automatically infer the start of the array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> bigParts <span class="token operator">=</span> characters<span class="token punctuation">[</span><span class="token operator">..&lt;</span><span class="token number">3</span><span class="token punctuation">]</span></code></pre>
-<p>That will create an array containing <code>["Dr Horrible", "Captain Hammer", "Penny"]</code>.</p>
-<p>Similarly, we could skip the end of the range to have Swift infer the end of the array, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> smallParts <span class="token operator">=</span> characters<span class="token punctuation">[</span><span class="token number">3</span><span class="token operator">...</span><span class="token punctuation">]</span></code></pre>
-<p>That will create an array containing <code>["Bad Horse", "Moist"]</code>.</p>
+One-sided ranges allow us to skip either the start or end of a range to have Swift infer the starting point for us. As an example, consider this array:
+
+```swift
+let characters = ["Dr Horrible", "Captain Hammer", "Penny", "Bad Horse", "Moist"]
+```
+
+If we wanted to read only the first three items from that array, we could use `characters[..<3]` – we skipped the start point, so Swift will automatically infer the start of the array:
+
+```swift
+let bigParts = characters[..<3]
+```
+
+That will create an array containing `["Dr Horrible", "Captain Hammer", "Penny"]`.
+
+Similarly, we could skip the end of the range to have Swift infer the end of the array, like this:
+
+```swift
+let smallParts = characters[3...]
+```
+
+That will create an array containing `["Bad Horse", "Moist"]`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect">How to synchronize animations from one view to another with matchedGeometryEffect()</a></li><li><a href="/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer">How to force views to one side inside a stack using Spacer</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li><li><a href="/quick-start/swiftui/building-a-menu-using-list">Building a menu using List</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-synchronize-animations-from-one-view-to-another-with-matchedgeometryeffect">How to synchronize animations from one view to another with matchedGeometryEffect() 
+/quick-start/swiftui/how-to-force-views-to-one-side-inside-a-stack-using-spacer">How to force views to one side inside a stack using Spacer 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject? 
+/quick-start/swiftui/building-a-menu-using-list">Building a menu using List</a>
 -->
 
 :::

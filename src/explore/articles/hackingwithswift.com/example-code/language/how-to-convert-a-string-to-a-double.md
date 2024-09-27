@@ -59,15 +59,23 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift strings don't have a built-in way to convert to a <code>Double</code>, but their <code>NSString</code> counterparts do. To convert between strings and doubles, just do this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> myString <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"556"</span></span>
-<span class="token keyword">let</span> myFloat <span class="token operator">=</span> <span class="token punctuation">(</span>myString <span class="token keyword">as</span> <span class="token class-name">NSString</span><span class="token punctuation">)</span><span class="token punctuation">.</span>doubleValue</code></pre>
+Swift strings don't have a built-in way to convert to a `Double`, but their `NSString` counterparts do. To convert between strings and doubles, just do this:
+
+```swift
+let myString = "556"
+let myFloat = (myString as NSString).doubleValue
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-multiply-an-int-and-a-double">How to multiply an int and a double</a></li><li><a href="/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures</a></li><li><a href="/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage</a></li><li><a href="/example-code/language/what-is-a-double">What is a double?</a></li><li><a href="/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a></li></ul>
+/example-code/language/how-to-multiply-an-int-and-a-double">How to multiply an int and a double 
+/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures 
+/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage 
+/example-code/language/what-is-a-double">What is a double? 
+/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a>
 -->
 
 :::

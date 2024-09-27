@@ -61,16 +61,25 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All <code>UIView</code> subclasses have a built-in way to draw a border around them using their underlying <code>CALayer</code>. For example, to draw a 10-point red border around a view, you'd use this:</p>
-<pre class=" language-swift"><code class=" language-swift">yourView<span class="token punctuation">.</span>layer<span class="token punctuation">.</span>borderWidth <span class="token operator">=</span> <span class="token number">10</span>
-yourView<span class="token punctuation">.</span>layer<span class="token punctuation">.</span>borderColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">.</span>cgColor</code></pre>
-<p>Note that you need to use the <code>cgColor</code> property of your <code>UIColor</code> in order for this to work. Adding a border to a view even works if you also round the corners of your view –&nbsp;it's very flexible!</p>
+All `UIView` subclasses have a built-in way to draw a border around them using their underlying `CALayer`. For example, to draw a 10-point red border around a view, you'd use this:
+
+```swift
+yourView.layer.borderWidth = 10
+yourView.layer.borderColor = UIColor.red.cgColor
+```
+
+Note that you need to use the `cgColor` property of your `UIColor` in order for this to work. Adding a border to a view even works if you also round the corners of your view – it's very flexible!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-draw-a-border-around-a-view">How to draw a border around a view</a></li><li><a href="/quick-start/swiftui/how-to-draw-a-border-inside-a-view">How to draw a border inside a view</a></li><li><a href="/quick-start/swiftui/how-to-add-a-border-to-a-textfield">How to add a border to a TextField</a></li><li><a href="/quick-start/swiftui/how-to-create-a-marching-ants-border-effect">How to create a marching ants border effect</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li></ul>
+/quick-start/swiftui/how-to-draw-a-border-around-a-view">How to draw a border around a view 
+/quick-start/swiftui/how-to-draw-a-border-inside-a-view">How to draw a border inside a view 
+/quick-start/swiftui/how-to-add-a-border-to-a-textfield">How to add a border to a TextField 
+/quick-start/swiftui/how-to-create-a-marching-ants-border-effect">How to create a marching ants border effect 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a>
 -->
 
 :::

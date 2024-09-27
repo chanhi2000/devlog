@@ -365,6 +365,7 @@ head:
   - [07.03. 책 상세 화면 만들기 - 3](https://ysedeveloper.tistory.com/m/entry/0703-%EC%B1%85-%EC%83%81%EC%84%B8-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-3)
   - [08. 책 수정 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/08-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [09.01. 책 수정 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0901-%EC%B1%85-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [10.01. 책 삭제 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/1001-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)

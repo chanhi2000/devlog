@@ -59,22 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Optional values are a central concept in Swift, although admittedly they can be a little hard to understand at first. Put simply, an optional value is one that may or may not exist, which means Swift won't let you use it by accident – you need to either check whether it has a value and unwrap it, or force unwrap. Of the two options the first is definitely preferable, because it's significantly safer.</p>
-<p>To check whether an optional has a value then unwrap it all in one, you should use <code>if let</code> syntax, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token comment">// fetch an example optional string</span>
-<span class="token keyword">let</span> optionalString <span class="token operator">=</span> <span class="token function">fetchOptionalString</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+Optional values are a central concept in Swift, although admittedly they can be a little hard to understand at first. Put simply, an optional value is one that may or may not exist, which means Swift won't let you use it by accident – you need to either check whether it has a value and unwrap it, or force unwrap. Of the two options the first is definitely preferable, because it's significantly safer.
 
-<span class="token comment">// now unwrap it</span>
-<span class="token keyword">if</span> <span class="token keyword">let</span> unwrapped <span class="token operator">=</span> optionalString <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>unwrapped<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>In that example, the <code>print(unwrapped)</code> line will only be executed if <code>optionalString</code> has a value. If that line is reached, you can know for sure that <code>unwrapped</code> has a value that you can use, which makes that code safe.</p>
+To check whether an optional has a value then unwrap it all in one, you should use `if let` syntax, like this:
+
+```swift
+// fetch an example optional string
+let optionalString = fetchOptionalString()
+
+// now unwrap it
+if let unwrapped = optionalString {
+    print(unwrapped)
+}
+```
+
+In that example, the `print(unwrapped)` line will only be executed if `optionalString` has a value. If that line is reached, you can know for sure that `unwrapped` has a value that you can use, which makes that code safe.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/language/when-is-it-safe-to-force-unwrap-optionals">When is it safe to force unwrap optionals?</a></li><li><a href="/example-code/testing/how-to-check-and-unwrap-optionals-in-tests-using-xctunwrap">How to check and unwrap optionals in tests using XCTUnwrap()</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li><li><a href="/example-code/language/what-is-optional-chaining">What is optional chaining?</a></li></ul>
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/language/when-is-it-safe-to-force-unwrap-optionals">When is it safe to force unwrap optionals? 
+/example-code/testing/how-to-check-and-unwrap-optionals-in-tests-using-xctunwrap">How to check and unwrap optionals in tests using XCTUnwrap() 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift? 
+/example-code/language/what-is-optional-chaining">What is optional chaining?</a>
 -->
 
 :::

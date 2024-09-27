@@ -59,19 +59,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>As of iOS 9.0, Apple introduced a simple way to make ordinal style numbers, which is a fancy way of saying 1st, 2nd, 3rd or 100th – the kind of numbers you normally write for dates, for example. This uses the <code>NumberFormatterStyle.ordinal</code> style of writing numbers with <code>NumberFormatter</code>, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> formatter <span class="token operator">=</span> <span class="token class-name">NumberFormatter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-formatter<span class="token punctuation">.</span>numberStyle <span class="token operator">=</span> <span class="token punctuation">.</span>ordinal
-<span class="token keyword">let</span> first <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> second <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">2</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> tenth <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> oneThousandAndFirst <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">1001</span><span class="token punctuation">)</span></code></pre>
+As of iOS 9.0, Apple introduced a simple way to make ordinal style numbers, which is a fancy way of saying 1st, 2nd, 3rd or 100th – the kind of numbers you normally write for dates, for example. This uses the `NumberFormatterStyle.ordinal` style of writing numbers with `NumberFormatter`, like this:
+
+```swift
+let formatter = NumberFormatter()
+formatter.numberStyle = .ordinal
+let first = formatter.string(from: 1)
+let second = formatter.string(from: 2)
+let tenth = formatter.string(from: 10)
+let oneThousandAndFirst = formatter.string(from: 1001)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-spell-out-numbers-using-numberformatters-spellout-style">How to spell out numbers using NumberFormatter's spellOut style</a></li><li><a href="/quick-start/swiftui/how-to-format-dates-inside-text-views">How to format dates inside text views</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/quick-start/swiftui/how-to-format-a-textfield-for-numbers">How to format a TextField for numbers</a></li><li><a href="/quick-start/swiftui/how-to-let-the-user-select-multiple-dates">How to let the user select multiple dates</a></li></ul>
+/example-code/system/how-to-spell-out-numbers-using-numberformatters-spellout-style">How to spell out numbers using NumberFormatter's spellOut style 
+/quick-start/swiftui/how-to-format-dates-inside-text-views">How to format dates inside text views 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/quick-start/swiftui/how-to-format-a-textfield-for-numbers">How to format a TextField for numbers 
+/quick-start/swiftui/how-to-let-the-user-select-multiple-dates">How to let the user select multiple dates</a>
 -->
 
 :::

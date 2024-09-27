@@ -59,45 +59,58 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>iOS has a built-in way to transition between views, and you can use this to produce 3D flips in just a few lines of code. Here's a basic example that flips between two views:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token attribute atrule">@objc</span> <span class="token keyword">func</span> <span class="token function-definition function">flip</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> transitionOptions<span class="token punctuation">:</span> <span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token class-name">AnimationOptions</span> <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">.</span>transitionFlipFromRight<span class="token punctuation">,</span> <span class="token punctuation">.</span>showHideTransitionViews<span class="token punctuation">]</span>
+iOS has a built-in way to transition between views, and you can use this to produce 3D flips in just a few lines of code. Here's a basic example that flips between two views:
 
-    <span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">transition</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> firstView<span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">1.0</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> transitionOptions<span class="token punctuation">,</span> animations<span class="token punctuation">:</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span><span class="token punctuation">.</span>firstView<span class="token punctuation">.</span>isHidden <span class="token operator">=</span> <span class="token boolean">true</span>
-    <span class="token punctuation">}</span><span class="token punctuation">)</span>
+```swift
+@objc func flip() {
+    let transitionOptions: UIView.AnimationOptions = [.transitionFlipFromRight, .showHideTransitionViews]
 
-    <span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">transition</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> secondView<span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">1.0</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> transitionOptions<span class="token punctuation">,</span> animations<span class="token punctuation">:</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span><span class="token punctuation">.</span>secondView<span class="token punctuation">.</span>isHidden <span class="token operator">=</span> <span class="token boolean">false</span>
-    <span class="token punctuation">}</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Here's a basic test harness you can use to see that method in action:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> firstView<span class="token punctuation">:</span> <span class="token class-name">UIView</span><span class="token operator">!</span>
-<span class="token keyword">var</span> secondView<span class="token punctuation">:</span> <span class="token class-name">UIView</span><span class="token operator">!</span>
+    UIView.transition(with: firstView, duration: 1.0, options: transitionOptions, animations: {
+        self.firstView.isHidden = true
+    })
 
-<span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">super</span><span class="token punctuation">.</span><span class="token function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    UIView.transition(with: secondView, duration: 1.0, options: transitionOptions, animations: {
+        self.secondView.isHidden = false
+    })
+}
+```
 
-    firstView <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-    secondView <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+Here's a basic test harness you can use to see that method in action:
 
-    firstView<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red
-    secondView<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>blue
+```swift
+var firstView: UIView!
+var secondView: UIView!
 
-    secondView<span class="token punctuation">.</span>isHidden <span class="token operator">=</span> <span class="token boolean">true</span>
+override func viewDidLoad() {
+    super.viewDidLoad()
 
-    view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>firstView<span class="token punctuation">)</span>
-    view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>secondView<span class="token punctuation">)</span>
+    firstView = UIView(frame: CGRect(x: 32, y: 32, width: 128, height: 128))
+    secondView = UIView(frame: CGRect(x: 32, y: 32, width: 128, height: 128))
 
-    <span class="token function">perform</span><span class="token punctuation">(</span><span class="token other-directive property">#selector</span><span class="token punctuation">(</span>flip<span class="token punctuation">)</span><span class="token punctuation">,</span> with<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">,</span> afterDelay<span class="token punctuation">:</span> <span class="token number">2</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Try experimenting with the different values of <code>UIView.AnimationOptions</code> to see what other animations are available.</p>
+    firstView.backgroundColor = UIColor.red
+    secondView.backgroundColor = UIColor.blue
+
+    secondView.isHidden = true
+
+    view.addSubview(firstView)
+    view.addSubview(secondView)
+
+    perform(#selector(flip), with: nil, afterDelay: 2)
+}
+```
+
+Try experimenting with the different values of `UIView.AnimationOptions` to see what other animations are available.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-create-a-custom-transition">How to create a custom transition</a></li><li><a href="/example-code/games/how-to-change-skscene-with-a-transition-presentscene">How to change SKScene with a transition: presentScene()</a></li><li><a href="/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition</a></li><li><a href="/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition">How to make views scroll with a custom transition</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li></ul>
+/quick-start/swiftui/how-to-create-a-custom-transition">How to create a custom transition 
+/example-code/games/how-to-change-skscene-with-a-transition-presentscene">How to change SKScene with a transition: presentScene() 
+/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition 
+/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition">How to make views scroll with a custom transition 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a>
 -->
 
 :::

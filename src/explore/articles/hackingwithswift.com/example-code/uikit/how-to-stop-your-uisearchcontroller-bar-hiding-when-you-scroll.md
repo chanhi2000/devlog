@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-3.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,35 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 3.0
 
 <!-- TODO: 작성 -->
 
 <!--
+You can embed a search controller right into any view controller that’s inside a `UINavigationController` using code like this:
+
+```swift
+navigationItem.searchController = yourSearchController
+```
+
+However, when your view controller happens to be a scrolling one – most commonly a table view or a collection view – the search bar will automatically hide itself along with your content. 
+
+If this isn’t what you want - if you want the search bar to be visible regardless of the user’s scroll position - then you need to set your navigation item’s `hidesSearchBarWhenScrolling` property to false, like this:
+
+```swift
+navigationItem.hidesSearchBarWhenScrolling = false
+```
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

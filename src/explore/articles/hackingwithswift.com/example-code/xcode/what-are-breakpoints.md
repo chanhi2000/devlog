@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Breakpoints are locations in your code where Xcode will pause so that you can inspect the state of your program. They don’t have any impact on the final performance of your code – in fact, they don’t even exist in your code at all – so there’s no harm using them liberally.</p>
-<p>To place a breakpoint, click to the left of a line of code you want to pause on –&nbsp;in the gutter, where the line numbers are visible if you use them. If you prefer keyboard shorts, press Cmd+. When you run your program now, Xcode will pause as soon as that line is reached.</p>
-<p>To remove a breakpoint, either press Cmd+\ on it again, or drag it off the gutter.</p>
+Breakpoints are locations in your code where Xcode will pause so that you can inspect the state of your program. They don’t have any impact on the final performance of your code – in fact, they don’t even exist in your code at all – so there’s no harm using them liberally.
+
+To place a breakpoint, click to the left of a line of code you want to pause on – in the gutter, where the line numbers are visible if you use them. If you prefer keyboard shorts, press <kbd>Cmd</kbd>+. When you run your program now, Xcode will pause as soon as that line is reached.
+
+To remove a breakpoint, either press <kbd>Cmd</kbd>+\ on it again, or drag it off the gutter.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/xcode/what-are-swift-error-breakpoints">What are Swift error breakpoints?</a></li><li><a href="/example-code/xcode/how-to-create-exception-breakpoints-in-xcode">How to create exception breakpoints in Xcode</a></li><li><a href="/example-code/xcode/how-to-add-conditions-to-a-breakpoint">How to add conditions to a breakpoint</a></li><li><a href="/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging</a></li><li><a href="/example-code/xcode/what-are-watchpoints">What are watchpoints?</a></li></ul>
+/example-code/xcode/what-are-swift-error-breakpoints">What are Swift error breakpoints? 
+/example-code/xcode/how-to-create-exception-breakpoints-in-xcode">How to create exception breakpoints in Xcode 
+/example-code/xcode/how-to-add-conditions-to-a-breakpoint">How to add conditions to a breakpoint 
+/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging 
+/example-code/xcode/what-are-watchpoints">What are watchpoints?</a>
 -->
 
 :::

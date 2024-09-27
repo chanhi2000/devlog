@@ -51,17 +51,13 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_030.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_030.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 **MediatR** is a popular library with a simple **mediator pattern** implementation in .NET.
 
 Here's a definiton taken from MediatR's GitHub: **"In-process messaging with no dependencies."**
 
 With the rise in popularity of the **CQRS pattern**, MediatR became the go-to library to implement commands and queries.
 
-However, MediatR also has support for the **publish-subscribe** pattern using notifications.
-You can publish an `INotification` instance and have multiple subscribers handle the published message.
+However, MediatR also has support for the **publish-subscribe** pattern using notifications. You can publish an `INotification` instance and have multiple subscribers handle the published message.
 
 Until recently, the handlers subscribing to an `INotification` message could only execute serially, one by one.
 
@@ -71,7 +67,7 @@ Let's dive in.
 
 ---
 
-## how-publish-subscribe-works-with-mediatr"><a href="#how-publish-subscribe-works-with-mediatr">How Publish-Subscribe Works With MediatR
+## How Publish-Subscribe Works With MediatR
 
 Before I talk about notification publishing strategies, let's see how **publish-subscribe** works with **MediatR**.
 
@@ -79,7 +75,6 @@ You need a class implementing the `INotification` interface:
 
 ```cs
 public record OrderCreated(Guid OrderId) : INotification;
-
 ```
 
 Then you need a respective `INotificationHandler` implementation:
@@ -103,22 +98,19 @@ public class OrderCreatedHandler : INotificationHandler<OrderCreated>
             cancellationToken);
     }
 }
-
 ```
 
-And then you simply publish a message using either `IMediator` or `IPublisher`.
-I prefer using the `IPublisher` because it's more expressive:
+And then you simply publish a message using either `IMediator` or `IPublisher`. I prefer using the `IPublisher` because it's more expressive:
 
 ```cs
 await publisher.Publish(new OrderCreated(order.Id), cancellationToken);
-
 ```
 
 MediatR will invoke all the respective handlers.
 
 ---
 
-## introducing-notification-publisher-strategies"><a href="#introducing-notification-publisher-strategies">Introducing Notification Publisher Strategies
+## Introducing Notification Publisher Strategies
 
 Before MediatR v12, the publishing strategy would invoke each handler individually.
 
@@ -142,7 +134,6 @@ public class ForeachAwaitPublisher : INotificationPublisher
         }
     }
 }
-
 ```
 
 But now you can also use the `TaskWhenAllPublisher`:
@@ -164,7 +155,6 @@ public class TaskWhenAllPublisher : INotificationPublisher
         return Task.WhenAll(tasks);
     }
 }
-
 ```
 
 Here's a comparison between these two strategies.
@@ -172,19 +162,19 @@ Here's a comparison between these two strategies.
 `ForeachAwaitPublisher`:
 
 - Invokes each handler one by one
-<li>Fails when an exception occurs in one of the handlers
+- Fails when an exception occurs in one of the handlers
 
 `TaskWhenAllPublisher`:
 
 - Invokes all the handlers at the same time
-<li>Executes all the handlers regardless of one of them throwing an exception
+- Executes all the handlers regardless of one of them throwing an exception
 
 If you store the task returned by `TaskWhenAllPublisher` you can access the `Task.Exception` property, which will contain an `AggregateException` instance.
 You can then implement more robust exception handling.
 
 ---
 
-## configuring-mediatr-notification-publishing-strategy"><a href="#configuring-mediatr-notification-publishing-strategy">Configuring MediatR Notification Publishing Strategy
+## Configuring MediatR Notification Publishing Strategy
 
 How do we configure which `INotificationPublisher` strategy MediatR will use?
 
@@ -195,7 +185,7 @@ You supply an `Action<MediatRServiceConfiguration>` delegate and configure the `
 If you want to use the `TaskWhenAllPublisher` strategy, you can either:
 
 - Provide a value for the `NotificationPublisher` property
-<li>Specify the strategy type on the `NotificationPublisherType` property
+- Specify the strategy type on the `NotificationPublisherType` property
 
 ```cs
 services.AddMediatR(config => {
@@ -211,14 +201,13 @@ services.AddMediatR(config => {
 
     config.ServiceLifetime = ServiceLifetime.Transient;
 });
-
 ```
 
 You can also implement a custom `INotificationPublisher` instance and use your own implementation instead.
 
 ---
 
-## how-is-this-useful"><a href="#how-is-this-useful">How Is This Useful?
+## How Is This Useful?
 
 Being able to **run notification handlers in parallel** provides a significant **performance improvement** over the default behavior.
 
@@ -233,8 +222,6 @@ In any case, I think this is a great addition to the already amazing **MediatR**
 That's all for today.
 
 See you next week.
-
--->
 
 ---
 

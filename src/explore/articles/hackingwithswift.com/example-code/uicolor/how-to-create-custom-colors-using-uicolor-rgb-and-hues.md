@@ -59,22 +59,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Although there are quite a few built-in UIColors, you'll want to create your own very frequently. This can be done in a number of ways, but the most common is specifying individual values for red, green, blue and alpha, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> col1 <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>red<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
-<p>Each of those numbers need to be between 0 and 1.</p>
-<p>An alternative way is to specify color values as hue, saturation and brightness, or HSB. Hue is a value between 0 and 1 on a color wheel, where 0 and 1 are both red. Saturation is how deep the color should be (so 0 is just gray) and brightness is how light the shade should be.</p>
-<p>Here's how it's done:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> col2 <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>hue<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> saturation<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> brightness<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> col3 <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>hue<span class="token punctuation">:</span> <span class="token number">0.25</span><span class="token punctuation">,</span> saturation<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> brightness<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> col4 <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>hue<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">,</span> saturation<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> brightness<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> col5 <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>hue<span class="token punctuation">:</span> <span class="token number">0.75</span><span class="token punctuation">,</span> saturation<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> brightness<span class="token punctuation">:</span> <span class="token number">0.66</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
-<p>The advantage to using HSB rather than RGB is that you can generate very similar colors by keeping the saturation and brightness constant and changing only the hue – the code above generates some nice pastel shades of red, green, cyan and magenta, for example.</p>
+Although there are quite a few built-in UIColors, you'll want to create your own very frequently. This can be done in a number of ways, but the most common is specifying individual values for red, green, blue and alpha, like this:
+
+```swift
+let col1 = UIColor(red: 1, green: 0, blue: 0, alpha: 1)
+```
+
+Each of those numbers need to be between 0 and 1.
+
+An alternative way is to specify color values as hue, saturation and brightness, or HSB. Hue is a value between 0 and 1 on a color wheel, where 0 and 1 are both red. Saturation is how deep the color should be (so 0 is just gray) and brightness is how light the shade should be.
+
+Here's how it's done:
+
+```swift
+let col2 = UIColor(hue: 0, saturation: 0.66, brightness: 0.66, alpha: 1)
+let col3 = UIColor(hue: 0.25, saturation: 0.66, brightness: 0.66, alpha: 1)
+let col4 = UIColor(hue: 0.5, saturation: 0.66, brightness: 0.66, alpha: 1)
+let col5 = UIColor(hue: 0.75, saturation: 0.66, brightness: 0.66, alpha: 1)
+```
+
+The advantage to using HSB rather than RGB is that you can generate very similar colors by keeping the saturation and brightness constant and changing only the hue – the code above generates some nice pastel shades of red, green, cyan and magenta, for example.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors">How to create new colors by blending two other SwiftUI colors</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/how-to-create-new-colors-by-blending-two-other-swiftui-colors">How to create new colors by blending two other SwiftUI colors 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a>
 -->
 
 :::

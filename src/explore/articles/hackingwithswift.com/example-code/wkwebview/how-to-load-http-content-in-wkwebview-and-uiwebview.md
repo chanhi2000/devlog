@@ -59,24 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>App Transport Security (ATS) normally doesn’t allow our apps to connect to HTTP servers, but there’s a special exception you can add to allow <code>UIWebView</code> and <code>WKWebView</code> to load insecure content.</p>
-<p>Like all all ATS settings, this is configured inside your application's Info.plist file, and this is one of the very few times when editing your plist as source code is faster than trying to use the GUI editor in Xcode. So, right-click on your Info.plist and choose Open As &gt; Source Code.</p>
-<p>Your plist should end like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token operator">&lt;/</span>dict<span class="token operator">&gt;</span>
-<span class="token operator">&lt;/</span>plist<span class="token operator">&gt;</span></code></pre>
-<p>Just before that, I'd like you to paste this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token operator">&lt;</span>key<span class="token operator">&gt;</span><span class="token class-name">NSAppTransportSecurity</span><span class="token operator">&lt;/</span>key<span class="token operator">&gt;</span>
-<span class="token operator">&lt;</span>dict<span class="token operator">&gt;</span>
-    <span class="token operator">&lt;</span>key<span class="token operator">&gt;</span><span class="token class-name">NSAllowsArbitraryLoadsInWebContent</span><span class="token operator">&lt;/</span>key<span class="token operator">&gt;</span>
-    <span class="token operator">&lt;</span><span class="token boolean">true</span><span class="token operator">/&gt;</span>
-<span class="token operator">&lt;/</span>dict<span class="token operator">&gt;</span></code></pre>
-<p>That tells ATS to allow Apple’s web views to access any content, secure or otherwise.</p>
+App Transport Security (ATS) normally doesn’t allow our apps to connect to HTTP servers, but there’s a special exception you can add to allow `UIWebView` and `WKWebView` to load insecure content.
+
+Like all all ATS settings, this is configured inside your application's Info.plist file, and this is one of the very few times when editing your plist as source code is faster than trying to use the GUI editor in Xcode. So, right-click on your Info.plist and choose Open As > Source Code.
+
+Your plist should end like this:
+
+```swift
+</dict>
+</plist>
+```
+
+Just before that, I'd like you to paste this:
+
+```swift
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoadsInWebContent</key>
+    <true/>
+</dict>
+```
+
+That tells ATS to allow Apple’s web views to access any content, secure or otherwise.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li><li><a href="/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView?</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a></li></ul>
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView? 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a>
 -->
 
 :::

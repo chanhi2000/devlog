@@ -59,21 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Once your app has the user’s permission to do so, you can show numbers over your icon to indicate outstanding tasks, unread messages, game invites, or whatever makes sense for your app.</p>
-<p>You <em>do</em> need to get their permission, though, so you should start by adding an import for the UserNotifications framework, then request permission with code like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UNUserNotificationCenter</span><span class="token punctuation">.</span><span class="token function">current</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">requestAuthorization</span><span class="token punctuation">(</span>options<span class="token punctuation">:</span> <span class="token punctuation">.</span>badge<span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">(</span>granted<span class="token punctuation">,</span> error<span class="token punctuation">)</span> <span class="token keyword">in</span>
-    <span class="token keyword">if</span> error <span class="token operator">!=</span> <span class="token nil constant">nil</span> <span class="token punctuation">{</span>
-        <span class="token comment">// success!</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Once you have that permission –&nbsp;anywhere inside the <code>// success!</code> comment or at some point afterwards –&nbsp;you can place an integer badge of your app icon with one line of code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIApplication</span><span class="token punctuation">.</span>shared<span class="token punctuation">.</span>applicationIconBadgeNumber <span class="token operator">=</span> <span class="token number">1</span></code></pre>
+Once your app has the user’s permission to do so, you can show numbers over your icon to indicate outstanding tasks, unread messages, game invites, or whatever makes sense for your app.
+
+You *do* need to get their permission, though, so you should start by adding an import for the UserNotifications framework, then request permission with code like this:
+
+```swift
+UNUserNotificationCenter.current().requestAuthorization(options: .badge) { (granted, error) in
+    if error != nil {
+        // success!
+    }
+}
+```
+
+Once you have that permission – anywhere inside the `// success!` comment or at some point afterwards – you can place an integer badge of your app icon with one line of code:
+
+```swift
+UIApplication.shared.applicationIconBadgeNumber = 1
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName()</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label">How to show text and an icon side by side using Label</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName() 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/quick-start/swiftui/how-to-show-text-and-an-icon-side-by-side-using-label">How to show text and an icon side by side using Label 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

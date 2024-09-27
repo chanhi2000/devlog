@@ -61,17 +61,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you want the user to exit your app and show a website in Safari, it's just one line of code in Swift. I'll make it three here because I'll create the URL in the code too, then safely unwrap it:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> url <span class="token operator">=</span> <span class="token function">URL</span><span class="token punctuation">(</span>string<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"https://www.hackingwithswift.com"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token class-name">UIApplication</span><span class="token punctuation">.</span>shared<span class="token punctuation">.</span><span class="token keyword">open</span><span class="token punctuation">(</span>url<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>It's worth adding that you have the option of using <code>SFSafariViewController</code> inside your app, which recreates the entire Safari experience right inside your app. See <a href="/read/32/overview">Hacking with Swift project 32</a> for a tutorial on how to do this.</p>
+If you want the user to exit your app and show a website in Safari, it's just one line of code in Swift. I'll make it three here because I'll create the URL in the code too, then safely unwrap it:
+
+```swift
+if let url = URL(string: "https://www.hackingwithswift.com") {
+    UIApplication.shared.open(url)
+}
+```
+
+It's worth adding that you have the option of using `SFSafariViewController` inside your app, which recreates the entire Safari experience right inside your app. See <a href="/read/32/overview">Hacking with Swift project 32</a> for a tutorial on how to do this.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-open-web-links-in-safari">How to open web links in Safari</a></li><li><a href="/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme</a></li><li><a href="/quick-start/swiftui/how-to-load-a-remote-image-from-a-url">How to load a remote image from a URL</a></li><li><a href="/example-code/strings/how-to-load-a-string-from-a-website-url">How to load a string from a website URL</a></li><li><a href="/example-code/uikit/how-to-load-a-remote-image-url-into-uiimageview">How to load a remote image URL into UIImageView</a></li></ul>
+/quick-start/swiftui/how-to-open-web-links-in-safari">How to open web links in Safari 
+/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme 
+/quick-start/swiftui/how-to-load-a-remote-image-from-a-url">How to load a remote image from a URL 
+/example-code/strings/how-to-load-a-string-from-a-website-url">How to load a string from a website URL 
+/example-code/uikit/how-to-load-a-remote-image-url-into-uiimageview">How to load a remote image URL into UIImageView</a>
 -->
 
 :::

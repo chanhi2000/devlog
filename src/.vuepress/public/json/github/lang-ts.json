@@ -4835,5 +4835,19 @@
     "topics": ["downloader", "electron", "esbuild", "hls", "m3u8", "m3u8-downloader", "m3u8download", "react", "video", "vite"],
     "avatar": "https://avatars.githubusercontent.com/u/19359849?v=4",
     "banner": ""
+  }, {
+    "repo": "Yonom/assistant-ui",
+    "desc": "React Components for AI Chat 💬 🚀",
+    "officialSite": "https://www.assistant-ui.com",
+    "topics": ["ai-chatbot", "chatbot", "conversational-ai", "copilot", "radix-ui", "react-chatbot", "shadcn", "ui-components", "vercel-ai-sdk"],
+    "avatar": "https://avatars.githubusercontent.com/u/1394504?v=4",
+    "banner": ""
+  }, {
+    "repo": "ViewComfy/ViewComfy",
+    "desc": "ViewComfy is a open source tool to help you create beautiful web apps from ComfyUI",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/182530059?v=4",
+    "banner": ""
   }
 ]

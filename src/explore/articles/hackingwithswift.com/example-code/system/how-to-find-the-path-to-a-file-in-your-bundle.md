@@ -59,18 +59,29 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Being able to provide users with location-specific information immediately makes your app more useful, but asking for a precise location brings up a permission alert and might make them suspicious. Fortunately there's a coarse-grained way you can figure out a user's locate without asking for location permission: <code>Locale</code>.</p>
-<p>A <em>locale</em> is a user's region setting on their device, and you can read it without asking for permission. For example, if the locale is en-US it means they speak English and are in the US; if it's fr-CA it means they speak French are in Canada. This is all wrapped up inside <code>Locale</code> and you can query various information from it, but for our simple purpose we're just going to ask what country the user is in:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> locale <span class="token operator">=</span> <span class="token class-name">Locale</span><span class="token punctuation">.</span>current
-<span class="token function">print</span><span class="token punctuation">(</span>locale<span class="token punctuation">.</span>regionCode<span class="token punctuation">)</span></code></pre>
-<p>Now, there is a catch, but this is actually a bonus feature in my eyes: if a user travels abroad, their device will still be configured for their home country, so an American visiting France will still say "US".</p>
-<p>Yes, that means you can't use it for location information, but actually it works out better for a lot of apps – for example, why would an American want to see distances in meters rather than miles just because they are traveling?</p>
+Being able to provide users with location-specific information immediately makes your app more useful, but asking for a precise location brings up a permission alert and might make them suspicious. Fortunately there's a coarse-grained way you can figure out a user's locate without asking for location permission: `Locale`.
+
+A *locale* is a user's region setting on their device, and you can read it without asking for permission. For example, if the locale is en-US it means they speak English and are in the US; if it's fr-CA it means they speak French are in Canada. This is all wrapped up inside `Locale` and you can query various information from it, but for our simple purpose we're just going to ask what country the user is in:
+
+```swift
+let locale = Locale.current
+print(locale.regionCode)
+```
+
+Now, there is a catch, but this is actually a bonus feature in my eyes: if a user travels abroad, their device will still be configured for their home country, so an American visiting France will still say "US".
+
+Yes, that means you can't use it for location information, but actually it works out better for a lot of apps – for example, why would an American want to see distances in meters rather than miles just because they are traveling?
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/changing-which-uitabbarcontroller-tabs-can-be-edited">Changing which UITabBarController tabs can be edited</a></li><li><a href="/quick-start/swiftui/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts">How to control which NavigationSplitView column is shown in compact layouts</a></li><li><a href="/quick-start/swiftui/how-to-control-which-view-is-shown-when-your-app-launches">How to control which view is shown when your app launches</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/uikit/how-to-control-which-screen-edges-trigger-system-gestures-using-preferredscreenedgesdeferringsystemgestures">How to control which screen edges trigger system gestures using preferredScreenEdgesDeferringSystemGestures</a></li></ul>
+/example-code/uikit/changing-which-uitabbarcontroller-tabs-can-be-edited">Changing which UITabBarController tabs can be edited 
+/quick-start/swiftui/how-to-control-which-navigationsplitview-column-is-shown-in-compact-layouts">How to control which NavigationSplitView column is shown in compact layouts 
+/quick-start/swiftui/how-to-control-which-view-is-shown-when-your-app-launches">How to control which view is shown when your app launches 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/uikit/how-to-control-which-screen-edges-trigger-system-gestures-using-preferredscreenedgesdeferringsystemgestures">How to control which screen edges trigger system gestures using preferredScreenEdgesDeferringSystemGestures</a>
 -->
 
 :::

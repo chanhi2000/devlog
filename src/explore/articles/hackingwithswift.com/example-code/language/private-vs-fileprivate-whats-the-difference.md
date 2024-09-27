@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>These two forms of access control are similar, but there are two differences.</p>
-<p>If you mark something <code>fileprivate</code> it can be read anywhere in the same file it was declared – even outside the type. On the other hand, a <code>private</code> property can only be read inside the type that declared it, or inside extensions to that type that were created in the same file.</p>
-<p>In practice you’re likely to see <code>private</code> used significantly more than <code>fileprivate</code>.</p>
+These two forms of access control are similar, but there are two differences.
+
+If you mark something `fileprivate` it can be read anywhere in the same file it was declared – even outside the type. On the other hand, a `private` property can only be read inside the type that declared it, or inside extensions to that type that were created in the same file.
+
+In practice you’re likely to see `private` used significantly more than `fileprivate`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive">How to mark content as private using privacySensitive()</a></li><li><a href="/quick-start/concurrency/whats-the-difference-between-a-task-and-a-detached-task">What’s the difference between a task and a detached task?</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li><li><a href="/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays</a></li><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li></ul>
+/quick-start/swiftui/how-to-mark-content-as-private-using-privacysensitive">How to mark content as private using privacySensitive() 
+/quick-start/concurrency/whats-the-difference-between-a-task-and-a-detached-task">What’s the difference between a task and a detached task? 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject? 
+/example-code/language/how-to-find-the-difference-between-two-arrays">How to find the difference between two arrays 
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a>
 -->
 
 :::

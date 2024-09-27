@@ -59,20 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s strings are stored in a specific way that stops you from indexing into then easily. In fact, reading one letter from part-way through the string means starting at the beginning of the string and counting through letters until you find the one you want, so if you try reading <em>all</em> the characters in the string this way you could accidentally create extremely slow code.</p>
-<p>However, if you only need to read one or two letters, here’s a simple extension on <code>String</code> that will help:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-    <span class="token keyword">subscript</span><span class="token punctuation">(</span>i<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token class-name">String</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">[</span><span class="token function">index</span><span class="token punctuation">(</span>startIndex<span class="token punctuation">,</span> offsetBy<span class="token punctuation">:</span> i<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>With that place in place, you can write <code>myString[15]</code> to read the 16th letter.</p>
+Swift’s strings are stored in a specific way that stops you from indexing into then easily. In fact, reading one letter from part-way through the string means starting at the beginning of the string and counting through letters until you find the one you want, so if you try reading *all* the characters in the string this way you could accidentally create extremely slow code.
+
+However, if you only need to read one or two letters, here’s a simple extension on `String` that will help:
+
+```swift
+extension String {
+    subscript(i: Int) -> String {
+        return String(self[index(startIndex, offsetBy: i)])
+    }
+}
+```
+
+With that place in place, you can write `myString[15]` to read the 16th letter.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/vision/how-to-use-vnrecognizetextrequests-optical-character-recognition-to-detect-text-in-an-image">How to use VNRecognizeTextRequest’s optical character recognition to detect text in an image</a></li><li><a href="/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string</a></li><li><a href="/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li><li><a href="/quick-start/swiftui/how-to-show-multiple-alerts-in-a-single-view">How to show multiple alerts in a single view</a></li></ul>
+/example-code/vision/how-to-use-vnrecognizetextrequests-optical-character-recognition-to-detect-text-in-an-image">How to use VNRecognizeTextRequest’s optical character recognition to detect text in an image 
+/example-code/arrays/how-to-join-an-array-of-strings-into-a-single-string">How to join an array of strings into a single string 
+/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value 
+/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array 
+/quick-start/swiftui/how-to-show-multiple-alerts-in-a-single-view">How to show multiple alerts in a single view</a>
 -->
 
 :::

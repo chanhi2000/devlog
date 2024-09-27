@@ -59,24 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you have an important text file built into your app bundle that want to load it at runtime fact, <code>String</code> has an initializer just for this purpose. It’s called <code>contentsOfFile</code>, and here it is in action:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> filepath <span class="token operator">=</span> <span class="token class-name">Bundle</span><span class="token punctuation">.</span>main<span class="token punctuation">.</span><span class="token function">path</span><span class="token punctuation">(</span>forResource<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"example"</span></span><span class="token punctuation">,</span> ofType<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"txt"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> contents <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">String</span><span class="token punctuation">(</span>contentsOfFile<span class="token punctuation">:</span> filepath<span class="token punctuation">)</span>
-        <span class="token function">print</span><span class="token punctuation">(</span>contents<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token comment">// contents could not be loaded</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token comment">// example.txt not found!</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That code loads a file called <strong>example.txt</strong> into a string called <code>contents</code>.</p>
+If you have an important text file built into your app bundle that want to load it at runtime fact, `String` has an initializer just for this purpose. It’s called `contentsOfFile`, and here it is in action:
+
+```swift
+if let filepath = Bundle.main.path(forResource: "example", ofType: "txt") {
+    do {
+        let contents = try String(contentsOfFile: filepath)
+        print(contents)
+    } catch {
+        // contents could not be loaded
+    }
+} else {
+    // example.txt not found!
+}
+```
+
+That code loads a file called **example.txt** into a string called `contents`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-find-the-path-to-a-file-in-your-bundle">How to find the path to a file in your bundle</a></li><li><a href="/example-code/system/how-to-decode-json-from-your-app-bundle-the-easy-way">How to decode JSON from your app bundle the easy way</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a></li></ul>
+/example-code/system/how-to-find-the-path-to-a-file-in-your-bundle">How to find the path to a file in your bundle 
+/example-code/system/how-to-decode-json-from-your-app-bundle-the-easy-way">How to decode JSON from your app bundle the easy way 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a>
 -->
 
 :::

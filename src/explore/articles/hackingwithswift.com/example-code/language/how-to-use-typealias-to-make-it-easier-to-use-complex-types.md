@@ -59,17 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Although it’s generally a good idea to use structs or classes for defining your types, sometimes you’ll find yourself using tuples. If this happens to you, it’s quite tedious having to type the full definition of your tuple whenever you want to use it, so the <code>typealias</code> lets you create a specific name for it:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">typealias</span> <span class="token class-name">Name</span> <span class="token operator">=</span> <span class="token punctuation">(</span>first<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">,</span> last<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span></code></pre>
-<p>Type aliases are also useful when you might want to change the underlying type used for data. For example, you might store a value as a <code>Float</code> today, but you want to leave open the option to switch to a <code>Double</code> later on. In this situation, you’d use <code>typealias</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">typealias</span> <span class="token class-name">MyValue</span> <span class="token operator">=</span> <span class="token class-name">Float</span></code></pre>
-<p>You can then go ahead and use <code>MyValue</code> everywhere in your code, and if you ever choose to change to <code>Double</code> you can just change the type alias and all your code will update.</p>
+Although it’s generally a good idea to use structs or classes for defining your types, sometimes you’ll find yourself using tuples. If this happens to you, it’s quite tedious having to type the full definition of your tuple whenever you want to use it, so the `typealias` lets you create a specific name for it:
+
+```swift
+typealias Name = (first: String, last: String)
+```
+
+Type aliases are also useful when you might want to change the underlying type used for data. For example, you might store a value as a `Float` today, but you want to leave open the option to switch to a `Double` later on. In this situation, you’d use `typealias` like this:
+
+```swift
+typealias MyValue = Float
+```
+
+You can then go ahead and use `MyValue` everywhere in your code, and if you ever choose to change to `Double` you can just change the type alias and all your code will update.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/language/how-to-fix-the-error-expression-was-too-complex-to-be-solved-in-reasonable-time">How to fix the error “Expression was too complex to be solved in reasonable time”</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li><li><a href="/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced()</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/language/how-to-fix-the-error-expression-was-too-complex-to-be-solved-in-reasonable-time">How to fix the error “Expression was too complex to be solved in reasonable time” 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject? 
+/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced() 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a>
 -->
 
 :::

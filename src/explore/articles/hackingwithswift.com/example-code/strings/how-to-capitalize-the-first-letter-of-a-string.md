@@ -59,25 +59,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you want to capitalize the first letter of a string without touching the rest of the letters, add this simple extension of <code>String</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">capitalizingFirstLetter</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token keyword">prefix</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">.</span>capitalized <span class="token operator">+</span> <span class="token function">dropFirst</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
+If you want to capitalize the first letter of a string without touching the rest of the letters, add this simple extension of `String`:
 
-    <span class="token keyword">mutating</span> <span class="token keyword">func</span> <span class="token function-definition function">capitalizeFirstLetter</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span> <span class="token operator">=</span> <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">capitalizingFirstLetter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Here’s an example to try it out:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> test <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"the rain in Spain"</span></span>
-<span class="token function">print</span><span class="token punctuation">(</span>test<span class="token punctuation">.</span><span class="token function">capitalizingFirstLetter</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
+```swift
+extension String {
+    func capitalizingFirstLetter() -> String {
+        return prefix(1).capitalized + dropFirst()
+    }
+
+    mutating func capitalizeFirstLetter() {
+        self = self.capitalizingFirstLetter()
+    }
+}
+```
+
+Here’s an example to try it out:
+
+```swift
+let test = "the rain in Spain"
+print(test.capitalizingFirstLetter())
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-capitalize-words-in-a-string-using-capitalized">How to capitalize words in a string using capitalized</a></li><li><a href="/quick-start/concurrency/what-calls-the-first-async-function">What calls the first async function?</a></li><li><a href="/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element</a></li><li><a href="/example-code/language/how-to-find-the-first-matching-element-in-an-array">How to find the first matching element in an array</a></li><li><a href="/example-code/system/what-is-the-first-responder">What is the first responder?</a></li></ul>
+/example-code/strings/how-to-capitalize-words-in-a-string-using-capitalized">How to capitalize words in a string using capitalized 
+/quick-start/concurrency/what-calls-the-first-async-function">What calls the first async function? 
+/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element 
+/example-code/language/how-to-find-the-first-matching-element-in-an-array">How to find the first matching element in an array 
+/example-code/system/what-is-the-first-responder">What is the first responder?</a>
 -->
 
 :::

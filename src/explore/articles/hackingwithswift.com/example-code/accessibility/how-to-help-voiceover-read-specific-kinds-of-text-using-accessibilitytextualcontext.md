@@ -59,16 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Although VoiceOver does a great job of reading our interfaces by default, sometimes it can benefit from a little extra guidance in order to read content appropriately. <code>accessibilityTextualContext</code> is a property available on all UIKit controls that lets us mark content as being a specific type –&nbsp;output from the command line, some spreadsheet data, or even narrative speech.</p>
-<p>For example, we could mark a label as containing source code like this:</p>
-<pre class=" language-swift"><code class=" language-swift">yourLabel<span class="token punctuation">.</span>accessibilityTextualContext <span class="token operator">=</span> <span class="token punctuation">.</span>sourceCode</code></pre>
-<p>Now that VoiceOver knows the label contains source code, it could choose to read out every character of punctuation rather than assume that “,” and “.” are just part of a sentence.</p>
+Although VoiceOver does a great job of reading our interfaces by default, sometimes it can benefit from a little extra guidance in order to read content appropriately. `accessibilityTextualContext` is a property available on all UIKit controls that lets us mark content as being a specific type – output from the command line, some spreadsheet data, or even narrative speech.
+
+For example, we could mark a label as containing source code like this:
+
+```swift
+yourLabel.accessibilityTextualContext = .sourceCode
+```
+
+Now that VoiceOver knows the label contains source code, it could choose to read out every character of punctuation rather than assume that “,” and “.” are just part of a sentence.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-make-voiceover-read-characters-individually">How to make VoiceOver read characters individually</a></li><li><a href="/example-code/accessibility/how-to-fix-incorrect-voiceover-pronunciations">How to fix incorrect VoiceOver pronunciations</a></li><li><a href="/example-code/uicolor/how-to-use-semantic-colors-to-help-your-ios-app-adapt-to-dark-mode">How to use semantic colors to help your iOS app adapt to dark mode</a></li><li><a href="/example-code/system/how-to-run-code-at-a-specific-time">How to run code at a specific time</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/quick-start/swiftui/how-to-make-voiceover-read-characters-individually">How to make VoiceOver read characters individually 
+/example-code/accessibility/how-to-fix-incorrect-voiceover-pronunciations">How to fix incorrect VoiceOver pronunciations 
+/example-code/uicolor/how-to-use-semantic-colors-to-help-your-ios-app-adapt-to-dark-mode">How to use semantic colors to help your iOS app adapt to dark mode 
+/example-code/system/how-to-run-code-at-a-specific-time">How to run code at a specific time 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

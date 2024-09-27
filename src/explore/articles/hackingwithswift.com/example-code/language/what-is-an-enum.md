@@ -59,27 +59,45 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>“Enum” is short for “enumeration”, and it’s a way of letting you use fixed names for special values rather than relying on strings or integers.</p>
-<p>For example, if we wanted to track how happy a user was, you could use a number scale where -1 meant unhappy, +1 meant happy, and 0 meant they were in between, but then the onus is on you to remember what those numbers mean. A better idea is to use an enum like this one:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">enum</span> <span class="token class-name">Satisfaction</span> <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> unhappy
-    <span class="token keyword">case</span> meh
-    <span class="token keyword">case</span> happy
-<span class="token punctuation">}</span></code></pre>
-<p>Those cases can now be referenced as <code>Satisfaction.happy</code>, so it’s clear what you mean – and internally it’s treated no different from an integer, so it has no performance impact.</p>
-<p>We can create a <code>Person</code> struct using that new enum, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> name<span class="token punctuation">:</span> <span class="token class-name">String</span>
-    <span class="token keyword">var</span> satisfaction<span class="token punctuation">:</span> <span class="token class-name">Satisfaction</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Because Swift knows the <code>satisfaction</code> property must be a value from the <code>Satisfaction</code> enum we can just specify the case we want to use when creating a value:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> person <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Taylor"</span></span><span class="token punctuation">,</span> satisfaction<span class="token punctuation">:</span> <span class="token punctuation">.</span>happy<span class="token punctuation">)</span></code></pre>
+“Enum” is short for “enumeration”, and it’s a way of letting you use fixed names for special values rather than relying on strings or integers.
+
+For example, if we wanted to track how happy a user was, you could use a number scale where -1 meant unhappy, +1 meant happy, and 0 meant they were in between, but then the onus is on you to remember what those numbers mean. A better idea is to use an enum like this one:
+
+```swift
+enum Satisfaction {
+    case unhappy
+    case meh
+    case happy
+}
+```
+
+Those cases can now be referenced as `Satisfaction.happy`, so it’s clear what you mean – and internally it’s treated no different from an integer, so it has no performance impact.
+
+We can create a `Person` struct using that new enum, like this:
+
+```swift
+struct Person {
+    var name: String
+    var satisfaction: Satisfaction
+}
+```
+
+Because Swift knows the `satisfaction` property must be a value from the `Satisfaction` enum we can just specify the case we want to use when creating a value:
+
+```swift
+let person = Person(name: "Taylor", satisfaction: .happy)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable">How to list all cases in an enum using CaseIterable</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-step-animations-using-phase-animators">How to create multi-step animations using phase animators</a></li><li><a href="/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums</a></li><li><a href="/quick-start/concurrency/how-to-create-and-use-task-local-values">How to create and use task local values</a></li><li><a href="/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group</a></li></ul>
+/example-code/language/how-to-list-all-cases-in-an-enum-using-caseiterable">How to list all cases in an enum using CaseIterable 
+/quick-start/swiftui/how-to-create-multi-step-animations-using-phase-animators">How to create multi-step animations using phase animators 
+/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums 
+/quick-start/concurrency/how-to-create-and-use-task-local-values">How to create and use task local values 
+/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group</a>
 -->
 
 :::

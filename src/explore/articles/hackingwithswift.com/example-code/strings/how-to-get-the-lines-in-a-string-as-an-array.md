@@ -59,20 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s strings have their lines separated by the <code>\n</code> character, which is a line break on Unix operating systems. Using that plus the <code>components(separatedBy:)</code> method, you can get an array of all the lines in a string like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> lines <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">components</span><span class="token punctuation">(</span>separatedBy<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"\n"</span></span><span class="token punctuation">)</span></code></pre>
-<p>If you intend to use that regularly, consider making an extension on <code>String</code> like this one:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> lines<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">components</span><span class="token punctuation">(</span>separatedBy<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"\n"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+Swift’s strings have their lines separated by the `\n` character, which is a line break on Unix operating systems. Using that plus the `components(separatedBy:)` method, you can get an array of all the lines in a string like this:
+
+```swift
+let lines = str.components(separatedBy: "\n")
+```
+
+If you intend to use that regularly, consider making an extension on `String` like this one:
+
+```swift
+extension String {
+    var lines: [String] {
+        return self.components(separatedBy: "\n")
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect</a></li><li><a href="/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:)</a></li><li><a href="/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task</a></li><li><a href="/example-code/language/how-to-get-a-random-element-from-an-array-using-randomelement">How to get a random element from an array using randomElement()</a></li><li><a href="/example-code/strings/how-to-get-the-length-of-a-string">How to get the length of a string</a></li></ul>
+/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect 
+/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:) 
+/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task 
+/example-code/language/how-to-get-a-random-element-from-an-array-using-randomelement">How to get a random element from an array using randomElement() 
+/example-code/strings/how-to-get-the-length-of-a-string">How to get the length of a string</a>
 -->
 
 :::

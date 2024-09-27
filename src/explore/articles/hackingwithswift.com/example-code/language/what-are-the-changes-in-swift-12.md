@@ -59,23 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift 1.2 was an interim release that fixed some early confusions and annoyances in the language. Its changes weren't big, but they did help clean up and clarify Swift, and helped tide us all over until the release of Swift 2.</p>
-<p>The important changes are:</p>
-<ul>
-<li>You can now check and unwrap multiple optionals using <code>if/let</code> rather than create a so-called "pyramid of doom" with nested statements.</li>
-<li>Many Objective-C types that were being passed around now had correct nullability values set. This was done by modifying Objective-C then having many people scour through existing Apple code to add new annotations.</li>
-<li>Downcasting (a typecast from a higher type in your class hierarchy to a lower type) is now done using <code>as!</code> and <code>as?</code> to mark forced downcasting and optional downcasting respectively.</li>
-<li>Swift strings, arrays and dictionaries now no longer automatically typecast to <code>NSString</code>, <code>NSArray</code> and <code>NSDictionary</code>.</li>
-<li>A new <code>Set</code> data type was introduced to handle arrays where each value can appear only once.</li>
-<li>Constants can now be declared without a value, as long as they are provided with a value before they are used.</li>
-<li>Incremental build support was added, which makes it more efficient to build larger Swift projects.</li>
-</ul>
+Swift 1.2 was an interim release that fixed some early confusions and annoyances in the language. Its changes weren't big, but they did help clean up and clarify Swift, and helped tide us all over until the release of Swift 2.
+
+The important changes are:
+
+- You can now check and unwrap multiple optionals using `if/let` rather than create a so-called "pyramid of doom" with nested statements.
+<li>Many Objective-C types that were being passed around now had correct nullability values set. This was done by modifying Objective-C then having many people scour through existing Apple code to add new annotations.
+<li>Downcasting (a typecast from a higher type in your class hierarchy to a lower type) is now done using `as!` and `as?` to mark forced downcasting and optional downcasting respectively.
+<li>Swift strings, arrays and dictionaries now no longer automatically typecast to `NSString`, `NSArray` and `NSDictionary`.
+<li>A new `Set` data type was introduced to handle arrays where each value can appear only once.
+<li>Constants can now be declared without a value, as long as they are provided with a value before they are used.
+<li>Incremental build support was added, which makes it more efficient to build larger Swift projects.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-20">What are the changes in Swift 2.0?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-22">What are the changes in Swift 2.2?</a></li><li><a href="/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a></li><li><a href="/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a></li></ul>
+/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3? 
+/example-code/language/what-are-the-changes-in-swift-20">What are the changes in Swift 2.0? 
+/example-code/language/what-are-the-changes-in-swift-22">What are the changes in Swift 2.2? 
+/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:) 
+/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a>
 -->
 
 :::

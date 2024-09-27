@@ -59,16 +59,25 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>If you want to let users clear their entry on a <code>UITextField</code>, the standard approach is to add a clear button to the right edge of the text field. This can be done in two ways, depending on what effect you want:</p>
-<pre class=" language-swift"><code class=" language-swift">textField<span class="token punctuation">.</span>clearButtonMode <span class="token operator">=</span> <span class="token punctuation">.</span>always
-textField<span class="token punctuation">.</span>clearButtonMode <span class="token operator">=</span> <span class="token punctuation">.</span>whileEditing</code></pre>
-<p>The first will always show the clear button, and the second will only show it while the user is editing the text.</p>
+If you want to let users clear their entry on a `UITextField`, the standard approach is to add a clear button to the right edge of the text field. This can be done in two ways, depending on what effect you want:
+
+```swift
+textField.clearButtonMode = .always
+textField.clearButtonMode = .whileEditing
+```
+
+The first will always show the clear button, and the second will only show it while the user is editing the text.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-customize-the-submit-button-for-textfield-securefield-and-texteditor">How to customize the submit button for TextField, SecureField, and TextEditor</a></li><li><a href="/quick-start/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types">How to make a TextField expand vertically as the user types</a></li><li><a href="/quick-start/swiftui/how-to-make-a-textfield-or-texteditor-have-default-focus">How to make a TextField or TextEditor have default focus</a></li><li><a href="/quick-start/swiftui/how-to-make-textfield-uppercase-or-lowercase-using-textcase">How to make TextField uppercase or lowercase using textCase()</a></li><li><a href="/quick-start/swiftui/how-to-create-a-tappable-button">How to create a tappable button</a></li></ul>
+/quick-start/swiftui/how-to-customize-the-submit-button-for-textfield-securefield-and-texteditor">How to customize the submit button for TextField, SecureField, and TextEditor 
+/quick-start/swiftui/how-to-make-a-textfield-expand-vertically-as-the-user-types">How to make a TextField expand vertically as the user types 
+/quick-start/swiftui/how-to-make-a-textfield-or-texteditor-have-default-focus">How to make a TextField or TextEditor have default focus 
+/quick-start/swiftui/how-to-make-textfield-uppercase-or-lowercase-using-textcase">How to make TextField uppercase or lowercase using textCase() 
+/quick-start/swiftui/how-to-create-a-tappable-button">How to create a tappable button</a>
 -->
 
 :::

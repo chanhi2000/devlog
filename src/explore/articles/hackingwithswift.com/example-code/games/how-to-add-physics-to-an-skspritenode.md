@@ -59,19 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit comes with a modified version of the Box2D physics framework, and it's wrapped up a lot of complicated physics mathematics into just one or two lines of code. For example, we can create a square, red sprite and give it rectangular physics like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> box <span class="token operator">=</span> <span class="token class-name">SKSpriteNode</span><span class="token punctuation">(</span>color<span class="token punctuation">:</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">,</span> size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-box<span class="token punctuation">.</span>physicsBody <span class="token operator">=</span> <span class="token class-name">SKPhysicsBody</span><span class="token punctuation">(</span>rectangleOf<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">64</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>That rectangle will wrap perfectly around the box's color, so it will bounce and rotate as it collides with other objects in your scene.</p>
-<p>If you want to create circular physics to simulate balls, this is done using the <code>circleOfRadius</code> constructor:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> ball <span class="token operator">=</span> <span class="token class-name">SKSpriteNode</span><span class="token punctuation">(</span>imageNamed<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"ballRed"</span></span><span class="token punctuation">)</span>
-ball<span class="token punctuation">.</span>physicsBody <span class="token operator">=</span> <span class="token class-name">SKPhysicsBody</span><span class="token punctuation">(</span>circleOfRadius<span class="token punctuation">:</span> ball<span class="token punctuation">.</span>size<span class="token punctuation">.</span>width <span class="token operator">/</span> <span class="token number">2.0</span><span class="token punctuation">)</span></code></pre>
+SpriteKit comes with a modified version of the Box2D physics framework, and it's wrapped up a lot of complicated physics mathematics into just one or two lines of code. For example, we can create a square, red sprite and give it rectangular physics like this:
+
+```swift
+let box = SKSpriteNode(color: UIColor.red, size: CGSize(width: 64, height: 64))
+box.physicsBody = SKPhysicsBody(rectangleOf: CGSize(width: 64, height: 64))
+```
+
+That rectangle will wrap perfectly around the box's color, so it will bounce and rotate as it collides with other objects in your scene.
+
+If you want to create circular physics to simulate balls, this is done using the `circleOfRadius` constructor:
+
+```swift
+let ball = SKSpriteNode(imageNamed: "ballRed")
+ball.physicsBody = SKPhysicsBody(circleOfRadius: ball.size.width / 2.0)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property</a></li><li><a href="/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader</a></li><li><a href="/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics</a></li><li><a href="/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode</a></li></ul>
+/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode 
+/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property 
+/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader 
+/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics 
+/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode</a>
 -->
 
 ---

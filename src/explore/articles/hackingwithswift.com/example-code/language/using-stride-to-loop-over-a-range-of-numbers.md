@@ -59,25 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift has a helpful <code>stride()</code>, which lets you move from one value to another using any increment – and even lets you specify whether the upper bound is exclusive or inclusive.</p>
-<p>First, some examples. This first example counts from 0 to 10 in 2s:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">stride</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> to<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">,</span> by<span class="token punctuation">:</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>This second example counts from 0 up to to 0.5, exclusive:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">stride</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> to<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">,</span> by<span class="token punctuation">:</span> <span class="token number">0.1</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Both those examples use <code>stride(from:to:by:)</code>, which counts from the start point up to by excluding the <code>to</code> parameter. If you want to count up and <em>including</em> the <code>to</code> parameter, you should use <code>stride(from:through:by:)</code>, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">stride</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> through<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">,</span> by<span class="token punctuation">:</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+Swift has a helpful `stride()`, which lets you move from one value to another using any increment – and even lets you specify whether the upper bound is exclusive or inclusive.
+
+First, some examples. This first example counts from 0 to 10 in 2s:
+
+```swift
+for i in stride(from: 0, to: 10, by: 2) {
+    print(i)
+}
+```
+
+This second example counts from 0 up to to 0.5, exclusive:
+
+```swift
+for i in stride(from: 0, to: 0.5, by: 0.1) {
+    print(i)
+}
+```
+
+Both those examples use `stride(from:to:by:)`, which counts from the start point up to by excluding the `to` parameter. If you want to count up and *including* the `to` parameter, you should use `stride(from:through:by:)`, like this:
+
+```swift
+for i in stride(from: 0, through: 10, by: 2) {
+    print(i)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/how-to-loop-over-an-asyncsequence-using-for-await">How to loop over an AsyncSequence using for await</a></li><li><a href="/example-code/language/how-to-loop-over-non-nil-items-in-an-array">How to loop over non-nil items in an array</a></li><li><a href="/example-code/language/how-to-use-the-foreach-method-to-loop-over-an-array">How to use the forEach method to loop over an array</a></li><li><a href="/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range">How to check whether a date is inside a date range</a></li><li><a href="/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range</a></li></ul>
+/quick-start/concurrency/how-to-loop-over-an-asyncsequence-using-for-await">How to loop over an AsyncSequence using for await 
+/example-code/language/how-to-loop-over-non-nil-items-in-an-array">How to loop over non-nil items in an array 
+/example-code/language/how-to-use-the-foreach-method-to-loop-over-an-array">How to use the forEach method to loop over an array 
+/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range">How to check whether a date is inside a date range 
+/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range</a>
 -->
 
 :::

@@ -61,16 +61,25 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>It's not hard to trim whitespace from a string in Swift, but the syntax is a little wordy –&nbsp;or "self-descriptive" if you're feeling optimistic. You need to use the <code>trimmingCharacters(in:)</code> method and provide a list of the characters you want to trim. If you're just using whitespace (tabs, spaces and new lines) you can use the predefined <code>whitespacesAndNewlines</code> list of characters, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"  Taylor Swift  "</span></span>
-<span class="token keyword">let</span> trimmed <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">trimmingCharacters</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> <span class="token punctuation">.</span>whitespacesAndNewlines<span class="token punctuation">)</span></code></pre>
-<p>That will set <code>trimmed</code> to be "Taylor Swift”.</p>
+It's not hard to trim whitespace from a string in Swift, but the syntax is a little wordy – or "self-descriptive" if you're feeling optimistic. You need to use the `trimmingCharacters(in:)` method and provide a list of the characters you want to trim. If you're just using whitespace (tabs, spaces and new lines) you can use the predefined `whitespacesAndNewlines` list of characters, like this:
+
+```swift
+let str = "  Taylor Swift  "
+let trimmed = str.trimmingCharacters(in: .whitespacesAndNewlines)
+```
+
+That will set `trimmed` to be "Taylor Swift”.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim">How to draw part of a solid shape using trim()</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a></li><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/uikit/how-to-add-drag-and-drop-to-your-app">How to add drag and drop to your app</a></li></ul>
+/quick-start/swiftui/how-to-draw-part-of-a-solid-shape-using-trim">How to draw part of a solid shape using trim() 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string 
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/uikit/how-to-add-drag-and-drop-to-your-app">How to add drag and drop to your app</a>
 -->
 
 :::

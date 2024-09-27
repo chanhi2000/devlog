@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,32 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!--
+Using a web view to show rich media easily is a common thing to do, but by default users can select the text and that makes it look a little less like native code. To fix this, add the following CSS to the HTML you load, and users won't be able to select anything again:
+
+```swift
+<style type="text/css">
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+}
+</style>
+```
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView? 
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview">How to load HTTP content in WKWebView and UIWebView 
+/example-code/uikit/how-to-run-javascript-on-a-uiwebview-with-stringbyevaluatingjavascriptfrom">How to run JavaScript on a UIWebView with stringByEvaluatingJavaScript(from:) 
+/quick-start/swiftui/how-to-let-users-select-text">How to let users select text</a>
 -->
 
 :::

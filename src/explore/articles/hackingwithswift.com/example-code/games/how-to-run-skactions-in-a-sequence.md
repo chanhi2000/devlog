@@ -59,21 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>One of the great features of SpriteKit's actions is that they can be chained together using action sequences. SpriteKit automatically ensures each action finishes before the next one begins – all you need to do is create the actions then put them into an array.</p>
-<p>The example below makes a spaceship shrink down to 10% of its original size before fading out:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> sprite <span class="token operator">=</span> <span class="token class-name">SKSpriteNode</span><span class="token punctuation">(</span>imageNamed<span class="token punctuation">:</span><span class="token string-literal"><span class="token string">"Spaceship"</span></span><span class="token punctuation">)</span>
+One of the great features of SpriteKit's actions is that they can be chained together using action sequences. SpriteKit automatically ensures each action finishes before the next one begins – all you need to do is create the actions then put them into an array.
 
-<span class="token keyword">let</span> scale <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">scale</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token number">0.1</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> fade <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">fadeOut</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> sequence <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">sequence</span><span class="token punctuation">(</span><span class="token punctuation">[</span>scale<span class="token punctuation">,</span> fade<span class="token punctuation">]</span><span class="token punctuation">)</span>
+The example below makes a spaceship shrink down to 10% of its original size before fading out:
 
-sprite<span class="token punctuation">.</span><span class="token function">run</span><span class="token punctuation">(</span>sequence<span class="token punctuation">)</span></code></pre>
+```swift
+let sprite = SKSpriteNode(imageNamed:"Spaceship")
+
+let scale = SKAction.scale(to: 0.1, duration: 0.5)
+let fade = SKAction.fadeOut(withDuration: 0.5)
+let sequence = SKAction.sequence([scale, fade])
+
+sprite.run(sequence)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-run-skactions-in-a-group">How to run SKActions in a group</a></li><li><a href="/quick-start/concurrency/whats-the-difference-between-sequence-asyncsequence-and-asyncstream">What’s the difference between Sequence, AsyncSequence, and AsyncStream?</a></li><li><a href="/example-code/language/how-to-make-a-custom-sequence">How to make a custom sequence</a></li><li><a href="/quick-start/concurrency/how-to-convert-an-asyncsequence-into-a-sequence">How to convert an AsyncSequence into a Sequence</a></li><li><a href="/example-code/language/how-to-find-the-longest-initial-sequence-in-an-array">How to find the longest initial sequence in an array</a></li></ul>
+/example-code/games/how-to-run-skactions-in-a-group">How to run SKActions in a group 
+/quick-start/concurrency/whats-the-difference-between-sequence-asyncsequence-and-asyncstream">What’s the difference between Sequence, AsyncSequence, and AsyncStream? 
+/example-code/language/how-to-make-a-custom-sequence">How to make a custom sequence 
+/quick-start/concurrency/how-to-convert-an-asyncsequence-into-a-sequence">How to convert an AsyncSequence into a Sequence 
+/example-code/language/how-to-find-the-longest-initial-sequence-in-an-array">How to find the longest initial sequence in an array</a>
 -->
 
 ---

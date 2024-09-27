@@ -59,18 +59,29 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you have an array of strings and want to merge all the elements together into a single string, it's just one line of code in Swift thanks to the <code>joined()</code> method.</p>
-<p>For example, this joins array elements with a comma:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> array <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Andrew"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Ben"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"John"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Paul"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Peter"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Laura"</span></span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> joined <span class="token operator">=</span> array<span class="token punctuation">.</span><span class="token function">joined</span><span class="token punctuation">(</span>separator<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">", "</span></span><span class="token punctuation">)</span></code></pre>
-<p>The result is that <code>joined</code> is set to "Andrew, Ben, John, Paul, Peter, Laura".</p>
-<p>If you called <code>joined()</code> without any parameters it will just stitch the strings together with no separators.</p>
+If you have an array of strings and want to merge all the elements together into a single string, it's just one line of code in Swift thanks to the `joined()` method.
+
+For example, this joins array elements with a comma:
+
+```swift
+let array = ["Andrew", "Ben", "John", "Paul", "Peter", "Laura"]
+let joined = array.joined(separator: ", ")
+```
+
+The result is that `joined` is set to "Andrew, Ben, John, Paul, Peter, Laura".
+
+If you called `joined()` without any parameters it will just stitch the strings together with no separators.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-join-an-array-of-strings-in-a-natural-way">How to join an array of strings in a natural way</a></li><li><a href="/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li><li><a href="/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays</a></li><li><a href="/example-code/strings/how-to-read-a-single-character-from-a-string">How to read a single character from a string</a></li></ul>
+/example-code/system/how-to-join-an-array-of-strings-in-a-natural-way">How to join an array of strings in a natural way 
+/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value 
+/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array 
+/example-code/language/how-to-use-the-zip-function-to-join-two-arrays">How to use the zip() function to join two arrays 
+/example-code/strings/how-to-read-a-single-character-from-a-string">How to read a single character from a string</a>
 -->
 
 :::

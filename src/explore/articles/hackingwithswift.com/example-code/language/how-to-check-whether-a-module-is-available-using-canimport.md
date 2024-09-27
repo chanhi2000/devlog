@@ -59,28 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Writing multi-platform code has its own challenges, but if you use the <code>canImport()</code> compiler test then one big challenge is solved for you: you can write one chunk code to run if a specific module is available, and another chunk otherwise.</p>
-<p>For example, this code will check for UIKit, AppKit, and all other possibilities so that you can pick whichever color type is best for the current platform:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token directive property"><span class="token directive-name">#if</span> canImport<span class="token punctuation">(</span>UIKit<span class="token punctuation">)</span></span>
-<span class="token comment">// iOS, tvOS, and watchOS – use UIColor</span>
-<span class="token directive property"><span class="token directive-name">#elseif</span> canImport<span class="token punctuation">(</span>AppKit<span class="token punctuation">)</span></span>
-<span class="token comment">// macOS – use NSColor</span>
-<span class="token directive property"><span class="token directive-name">#else</span></span>
-<span class="token comment">// all other platforms – use a custom color object</span>
-<span class="token directive property"><span class="token directive-name">#endif</span></span></code></pre>
-<p>Before <code>canImport()</code> was available we need to use <code>#if os(macOS)</code> instead, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token directive property"><span class="token directive-name">#if</span> os<span class="token punctuation">(</span>iOS<span class="token punctuation">)</span> <span class="token operator">||</span> os<span class="token punctuation">(</span>tvOS<span class="token punctuation">)</span> <span class="token operator">||</span> os<span class="token punctuation">(</span>watchOS<span class="token punctuation">)</span></span>
-<span class="token comment">// use UIColor</span>
-<span class="token directive property"><span class="token directive-name">#else</span></span>
-<span class="token comment">// use NSColor</span>
-<span class="token directive property"><span class="token directive-name">#endif</span></span></code></pre>
-<p>Using <code>canImport()</code> is an improvement because it lets you focus on what <em>functionality</em> you want rather than what operating system. So, if UIKit became available on macOS tomorrow you wouldn’t need to change your code to use it.</p>
+Writing multi-platform code has its own challenges, but if you use the `canImport()` compiler test then one big challenge is solved for you: you can write one chunk code to run if a specific module is available, and another chunk otherwise.
+
+For example, this code will check for UIKit, AppKit, and all other possibilities so that you can pick whichever color type is best for the current platform:
+
+```swift
+#if canImport(UIKit)
+// iOS, tvOS, and watchOS – use UIColor
+#elseif canImport(AppKit)
+// macOS – use NSColor
+#else
+// all other platforms – use a custom color object
+#endif
+```
+
+Before `canImport()` was available we need to use `#if os(macOS)` instead, like this:
+
+```swift
+#if os(iOS) || os(tvOS) || os(watchOS)
+// use UIColor
+#else
+// use NSColor
+#endif
+```
+
+Using `canImport()` is an improvement because it lets you focus on what *functionality* you want rather than what operating system. So, if UIKit became available on macOS tomorrow you wouldn’t need to change your code to use it.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-whole-module-optimization">What is whole module optimization?</a></li><li><a href="/example-code/language/how-to-use-available-to-check-for-api-availability">How to use #available to check for API availability</a></li><li><a href="/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range</a></li><li><a href="/example-code/system/how-to-check-whether-your-other-apps-are-installed">How to check whether your other apps are installed</a></li><li><a href="/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range">How to check whether a date is inside a date range</a></li></ul>
+/example-code/language/what-is-whole-module-optimization">What is whole module optimization? 
+/example-code/language/how-to-use-available-to-check-for-api-availability">How to use #available to check for API availability 
+/example-code/language/how-to-check-whether-an-integer-lies-inside-a-range">How to check whether an integer lies inside a range 
+/example-code/system/how-to-check-whether-your-other-apps-are-installed">How to check whether your other apps are installed 
+/example-code/language/how-to-check-whether-a-date-is-inside-a-date-range">How to check whether a date is inside a date range</a>
 -->
 
 :::

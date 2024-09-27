@@ -59,24 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can draw a square (or indeed any size of rectangle) using the <code>addRect()</code> Core Graphics function. There's a little bit of set up work required, such as creating a context big enough to hold the square and setting up colors, but the code below does everything you need:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> renderer <span class="token operator">=</span> <span class="token class-name">UIGraphicsImageRenderer</span><span class="token punctuation">(</span>size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> img <span class="token operator">=</span> renderer<span class="token punctuation">.</span>image <span class="token punctuation">{</span> ctx <span class="token keyword">in</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setFillColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setStrokeColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>green<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setLineWidth</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span>
+You can draw a square (or indeed any size of rectangle) using the `addRect()` Core Graphics function. There's a little bit of set up work required, such as creating a context big enough to hold the square and setting up colors, but the code below does everything you need:
 
-    <span class="token keyword">let</span> rectangle <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addRect</span><span class="token punctuation">(</span>rectangle<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">drawPath</span><span class="token punctuation">(</span>using<span class="token punctuation">:</span> <span class="token punctuation">.</span>fillStroke<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p><strong>Important note:</strong> when setting a line width using <code>setLineWidth()</code>, the center of the border is the edge of your path. This means our board will be 5 points inside the rectangle and 5 points outside, because we have a total border width of 10 points. Because the square's path is the same size as the context, this means the outside part of the border will be clipped.</p>
+```swift
+let renderer = UIGraphicsImageRenderer(size: CGSize(width: 512, height: 512))
+let img = renderer.image { ctx in
+    ctx.cgContext.setFillColor(UIColor.red.cgColor)
+    ctx.cgContext.setStrokeColor(UIColor.green.cgColor)
+    ctx.cgContext.setLineWidth(10)
+
+    let rectangle = CGRect(x: 0, y: 0, width: 512, height: 512)
+    ctx.cgContext.addRect(rectangle)
+    ctx.cgContext.drawPath(using: .fillStroke)
+}
+```
+
+**Important note:** when setting a line width using `setLineWidth()`, the center of the border is the edge of your path. This means our board will be 5 points inside the rectangle and 5 points outside, because we have a total border width of 10 points. Because the square's path is the same size as the context, this means the outside part of the border will be clipped.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li><li><a href="/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:)</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-circle-using-core-graphics-addellipsein">How to draw a circle using Core Graphics: addEllipse(in:)</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-text-string-using-core-graphics">How to draw a text string using Core Graphics</a></li><li><a href="/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project</a></li></ul>
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently 
+/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:) 
+/example-code/core-graphics/how-to-draw-a-circle-using-core-graphics-addellipsein">How to draw a circle using Core Graphics: addEllipse(in:) 
+/example-code/core-graphics/how-to-draw-a-text-string-using-core-graphics">How to draw a text string using Core Graphics 
+/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project</a>
 -->
 
 :::

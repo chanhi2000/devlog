@@ -59,35 +59,53 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Creating a <code>UIColor</code> from red, green, blue, and alpha (RGBA) is easy enough:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> color <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>red<span class="token punctuation">:</span> <span class="token number">0.8</span><span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token number">0.1</span><span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span></code></pre>
-<p>But when you want to read those values back, you need to do a little more work. <code>UIColor</code> has a built-in method called <code>getRed()</code>, which unpacks the RGBA values into variable floats –&nbsp;you need to create four variables first, then pass them in by reference:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> red<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token keyword">var</span> green<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token keyword">var</span> blue<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-<span class="token keyword">var</span> alpha<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
+Creating a `UIColor` from red, green, blue, and alpha (RGBA) is easy enough:
 
-color<span class="token punctuation">.</span><span class="token function">getRed</span><span class="token punctuation">(</span><span class="token operator">&amp;</span>red<span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token operator">&amp;</span>green<span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token operator">&amp;</span>blue<span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token operator">&amp;</span>alpha<span class="token punctuation">)</span></code></pre>
-<p>When that runs, <code>red</code> will have 0.8, <code>green</code> will have 0.1, and so on.</p>
-<p>Because this is a pain to use you might find it best to wrap it up in an extension:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">UIColor</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> rgba<span class="token punctuation">:</span> <span class="token punctuation">(</span>red<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">var</span> red<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-        <span class="token keyword">var</span> green<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-        <span class="token keyword">var</span> blue<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-        <span class="token keyword">var</span> alpha<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span> <span class="token operator">=</span> <span class="token number">0</span>
-        <span class="token function">getRed</span><span class="token punctuation">(</span><span class="token operator">&amp;</span>red<span class="token punctuation">,</span> green<span class="token punctuation">:</span> <span class="token operator">&amp;</span>green<span class="token punctuation">,</span> blue<span class="token punctuation">:</span> <span class="token operator">&amp;</span>blue<span class="token punctuation">,</span> alpha<span class="token punctuation">:</span> <span class="token operator">&amp;</span>alpha<span class="token punctuation">)</span>
+```swift
+let color = UIColor(red: 0.8, green: 0.1, blue: 0.5, alpha: 1)
+```
 
-        <span class="token keyword">return</span> <span class="token punctuation">(</span>red<span class="token punctuation">,</span> green<span class="token punctuation">,</span> blue<span class="token punctuation">,</span> alpha<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Now you can use <code>color.rgba</code> to get back a tuple of all four color values.</p>
+But when you want to read those values back, you need to do a little more work. `UIColor` has a built-in method called `getRed()`, which unpacks the RGBA values into variable floats – you need to create four variables first, then pass them in by reference:
+
+```swift
+var red: CGFloat = 0
+var green: CGFloat = 0
+var blue: CGFloat = 0
+var alpha: CGFloat = 0
+
+color.getRed(&red, green: &green, blue: &blue, alpha: &alpha)
+```
+
+When that runs, `red` will have 0.8, `green` will have 0.1, and so on.
+
+Because this is a pain to use you might find it best to wrap it up in an extension:
+
+```swift
+extension UIColor {
+    var rgba: (red: CGFloat, green: CGFloat, blue: CGFloat, alpha: CGFloat) {
+        var red: CGFloat = 0
+        var green: CGFloat = 0
+        var blue: CGFloat = 0
+        var alpha: CGFloat = 0
+        getRed(&red, green: &green, blue: &blue, alpha: &alpha)
+
+        return (red, green, blue, alpha)
+    }
+}
+```
+
+Now you can use `color.rgba` to get back a tuple of all four color values.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color">How to read the red, green, and blue values from a Color</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/strings/how-to-split-a-string-into-an-array-componentsseparatedby">How to split a string into an array: components(separatedBy:)</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
+/quick-start/swiftui/how-to-read-the-red-green-and-blue-values-from-a-color">How to read the red, green, and blue values from a Color 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/strings/how-to-split-a-string-into-an-array-componentsseparatedby">How to split a string into an array: components(separatedBy:) 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - learnk8s.io
   - tecmint.com
   - yozm.wishket.com
@@ -24,6 +25,13 @@ head:
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 <SiteInfo
   name="Learnk8s — the Kubernetes training company"
@@ -50,6 +58,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "How to Use SSH to Safely Connect to GitHub: A Simple Guide for Windows OS",
+  "desc": "In this article, we will explore the Secure Shell (SSH) protocol, a vital tool for securing network communications. SSH is widely used for accessing remote servers and managing code repositories securely, particularly in environments like GitHub. You...",
+  "link": "/explore/articles/freecodecamp.org/how-to-use-ssh-to-connect-to-github-guide-for-windows.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

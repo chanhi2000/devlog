@@ -59,18 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Since Xcode 9.0 we’ve been able to create named colors directly inside asset catalogs, which means it’s possible to select a precise color once then use it uniformly across all code and storyboards.</p>
-<p>To try this out, open your asset catalog, click the + button, then choose New Color Set from the menu that appears. Select the new color that got created –&nbsp;it will be a large white square – then press Alt+Cmd+4 to activate the attributes inspector so that you can customize it.</p>
-<p>Named colors are comprised of two rather obvious parts: a name (e.g. “PayPal blue”) and a color, which you can specify as ranges from 0-1, ranges from 0-255, or hexadecimal.</p>
-<p>Once a named color is in place you can use it code like this:</p>
-<pre class=" language-swift"><code class=" language-swift">myView<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Chartreuse"</span></span><span class="token punctuation">)</span></code></pre>
-<p>You can also use it inside storyboards by selecting it from the color dropdown menu – all your named colors will automatically be shown in their own section of the menu.</p>
+Since Xcode 9.0 we’ve been able to create named colors directly inside asset catalogs, which means it’s possible to select a precise color once then use it uniformly across all code and storyboards.
+
+To try this out, open your asset catalog, click the + button, then choose New Color Set from the menu that appears. Select the new color that got created – it will be a large white square – then press Alt+<kbd>Cmd</kbd>+4 to activate the attributes inspector so that you can customize it.
+
+Named colors are comprised of two rather obvious parts: a name (e.g. “PayPal blue”) and a color, which you can specify as ranges from 0-1, ranges from 0-255, or hexadecimal.
+
+Once a named color is in place you can use it code like this:
+
+```swift
+myView.backgroundColor = UIColor(named: "Chartreuse")
+```
+
+You can also use it inside storyboards by selecting it from the color dropdown menu – all your named colors will automatically be shown in their own section of the menu.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards">SwiftUI vs Interface Builder and storyboards</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/swiftui-vs-interface-builder-and-storyboards">SwiftUI vs Interface Builder and storyboards 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

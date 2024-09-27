@@ -59,20 +59,29 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s string have a built-in <code>hasPrefix()</code> method that returns true if the string starts with specific letters, but they don’t have a way to remove those letters if they exist.</p>
-<p>Fortunately, we can fill that gap with an extension on <code>String</code> that combines <code>hasPrefix()</code> with <code>dropFirst()</code>, which will check whether the prefix exists and remove it in one go:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">deletingPrefix</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> <span class="token keyword">prefix</span><span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-        <span class="token keyword">guard</span> <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">hasPrefix</span><span class="token punctuation">(</span><span class="token keyword">prefix</span><span class="token punctuation">)</span> <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token keyword">self</span> <span class="token punctuation">}</span>
-        <span class="token keyword">return</span> <span class="token class-name">String</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">dropFirst</span><span class="token punctuation">(</span><span class="token keyword">prefix</span><span class="token punctuation">.</span>count<span class="token punctuation">)</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+Swift’s string have a built-in `hasPrefix()` method that returns true if the string starts with specific letters, but they don’t have a way to remove those letters if they exist.
+
+Fortunately, we can fill that gap with an extension on `String` that combines `hasPrefix()` with `dropFirst()`, which will check whether the prefix exists and remove it in one go:
+
+```swift
+extension String {
+    func deletingPrefix(_ prefix: String) -> String {
+        guard self.hasPrefix(prefix) else { return self }
+        return String(self.dropFirst(prefix.count))
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-remove-cells-from-a-uitableview">How to remove cells from a UITableView</a></li><li><a href="/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array</a></li><li><a href="/example-code/language/how-to-remove-the-first-or-last-item-from-an-array">How to remove the first or last item from an array</a></li><li><a href="/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition</a></li><li><a href="/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array</a></li></ul>
+/example-code/uikit/how-to-remove-cells-from-a-uitableview">How to remove cells from a UITableView 
+/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array 
+/example-code/language/how-to-remove-the-first-or-last-item-from-an-array">How to remove the first or last item from an array 
+/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition 
+/example-code/language/how-to-remove-duplicate-items-from-an-array">How to remove duplicate items from an array</a>
 -->
 
 :::

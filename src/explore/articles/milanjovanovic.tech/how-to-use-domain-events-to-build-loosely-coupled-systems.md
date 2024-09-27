@@ -51,31 +51,17 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_047.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_047.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
-In software engineering, "coupling" means how much different parts of a software system depend on each other.
-If they are **tightly coupled**, changes to one part can affect many others.
-But if they are **loosely coupled**, changes to one part won't cause big problems in the rest of the system.
+In software engineering, "coupling" means how much different parts of a software system depend on each other. If they are **tightly coupled**, changes to one part can affect many others. But if they are **loosely coupled**, changes to one part won't cause big problems in the rest of the system.
 
 **Domain events** are a **Domain-Driven Design (DDD)** tactical pattern that we can use to build **loosely coupled** systems.
 
-You can raise a **domain event** from the domain, which represents a fact that has occurred.
-And other components in the system can subscribe to this event and handle it accordingly.
-
-Here's what you will learn in this week's newsletter:
-
-- What are <a href="#what-are-domain-events">domain events</a>
-<li>How they're <a href="#domain-events-versus-integration-events">different from integration events</a>
-<li>How to <a href="#implementing-domain-events">implement</a> & <a href="#raising-domain-events">raise domain events</a>
-<li>How to <a href="#how-to-publish-domain-events-with-ef-core">publish domain events</a> with EF Core
-<li>How to <a href="#how-to-handle-domain-events">handle domain events</a> with MediatR
+You can raise a **domain event** from the domain, which represents a fact that has occurred. And other components in the system can subscribe to this event and handle it accordingly.
 
 We have a lot to cover, so let's dive in!
 
 ---
 
-## what-are-domain-events"><a href="#what-are-domain-events">What Are Domain Events?
+## What Are Domain Events?
 
 An **event** is something that has happened in the past.
 
@@ -85,16 +71,15 @@ Unchangeable.
 
 A **domain event** is something that happened in the domain, and other parts of the domain should be aware of it.
 
-**Domain events** allow you to express side effects explicitly, and provide a better separation of concerns in the domain.
-They're an ideal way to trigger side effects across multiple aggregates inside the domain.
+**Domain events** allow you to express side effects explicitly, and provide a better separation of concerns in the domain. They're an ideal way to trigger side effects across multiple aggregates inside the domain.
 
-It's your responsibility to ensure that publishing a **domain event** is transactional.
-You'll see why this is easier said than done.
+It's your responsibility to ensure that publishing a **domain event** is transactional. You'll see why this is easier said than done.
 
-<span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%"><span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%"><img style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0" alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%272704%27%20height=%271515%27/%3e"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"><noscript><img srcSet="/blogs/mnw_047/domain_events.png?imwidth=3840 1x" src="/blogs/mnw_047/domain_events.png?imwidth=3840" decoding="async" data-nimg="intrinsic" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" loading="lazy"/></noscript>
+![](https://milanjovanovic.tech/blogs/mnw_047/domain_events.png?imwidth=3840)
+
 ---
 
-## domain-events-versus-integration-events"><a href="#domain-events-versus-integration-events">Domain Events Versus Integration Events
+## Domain Events Versus Integration Events
 
 You may have heard of **integration events**, and you're now wondering what's the difference between them and **domain events**.
 
@@ -105,14 +90,14 @@ However, their **intent is different** and this is important to understand.
 Domain events:
 
 - Published and consumed within a single domain
-<li>Sent using an in-memory message bus
-<li>Can be processed synchronously or asynchronously
+- Sent using an in-memory message bus
+- Can be processed synchronously or asynchronously
 
 Integration events:
 
 - Consumed by other subsystems (microservices, Bounded Contexts)
-<li>Sent with a message broker over a queue
-<li>Processed completely asynchronously
+- Sent with a message broker over a queue
+- Processed completely asynchronously
 
 So if you're wondering what type of event you should publish, think about the intent and who should be handling the event.
 
@@ -120,7 +105,7 @@ So if you're wondering what type of event you should publish, think about the in
 
 ---
 
-## implementing-domain-events"><a href="#implementing-domain-events">Implementing Domain Events
+## Implementing Domain Events
 
 My preferred approach to implement **domain events** is creating an `IDomainEvent` abstraction and implementing MediatR `INotification`.
 
@@ -132,7 +117,6 @@ using MediatR;
 public interface IDomainEvent : INotification
 {
 }
-
 ```
 
 Now you can implement a concrete domain event.
@@ -140,28 +124,25 @@ Now you can implement a concrete domain event.
 Here are a few **constraints** to consider when **designing domain events**:
 
 - Immutability - domain events are facts, and should be immutable
-<li>Fat vs Thin domain events - how much information do you need?
-<li>Use past tense for event naming
+- Fat vs Thin domain events - how much information do you need?
+- Use past tense for event naming
 
 ```cs
 public class CourseCompletedDomainEvent : IDomainEvent
 {
     public Guid CourseId { get; init; }
 }
-
 ```
 
 ---
 
-## raising-domain-events"><a href="#raising-domain-events">Raising Domain Events
+## Raising Domain Events
 
 After you create your domain events, you want to raise them from the domain.
 
-My approach is creating an `Entity` base class, because only entities are allowed to raise domain events.
-You can further encapsulate raising domain events by making the `RaiseDomainEvent` method `protected`.
+My approach is creating an `Entity` base class, because only entities are allowed to raise domain events. You can further encapsulate raising domain events by making the `RaiseDomainEvent` method `protected`.
 
-We're storing domain events in an internal collection, to prevent anyone else from accessing it.
-The `GetDomainEvents` method is there to get a snapshot of the collection, and the `ClearDomainEvents` method to clear the internal collection.
+We're storing domain events in an internal collection, to prevent anyone else from accessing it. The `GetDomainEvents` method is there to get a snapshot of the collection, and the `ClearDomainEvents` method to clear the internal collection.
 
 ```cs
 public abstract class Entity : IEntity
@@ -183,7 +164,6 @@ public abstract class Entity : IEntity
         _domainEvents.Add(domainEvent);
     }
 }
-
 ```
 
 Now you're entities can inherit from the `Entity` base class and raise domain events:
@@ -205,14 +185,13 @@ public class Course : Entity
         RaiseDomainEvent(new CourseCompletedDomainEvent { CourseId = this.Id });
     }
 }
-
 ```
 
 And all that's left to do is **publish** the **domain events**.
 
 ---
 
-## how-to-publish-domain-events-with-ef-core"><a href="#how-to-publish-domain-events-with-ef-core">How To Publish Domain Events With EF Core
+## How To Publish Domain Events With EF Core
 
 An elegant solution for publishing domain events is using **EF Core**.
 
@@ -244,26 +223,22 @@ public class ApplicationDbContext : DbContext
         return result;
     }
 }
-
 ```
 
 The most **important decision** you will have to make here is **when to publish the domain events**.
 
-I think it makes the most sense to publish after calling `SaveChangesAsync`.
-In other words, after saving changes to the database.
+I think it makes the most sense to publish after calling `SaveChangesAsync`. In other words, after saving changes to the database.
 
 This comes with a few tradeoffs:
 
 - Eventual consistency - because messages are processed after the original transactions
-<li>Database inconsistency risk - because handling domain events can fail
+- Database inconsistency risk - because handling domain events can fail
 
 Eventual consistency is something I can live with, so I choose to make this tradeoff.
 
 However, introducing a risk of database inconsistency is a big concern.
 
-You can solve this with the <a href="outbox-pattern-for-reliable-microservices-messaging">**Outbox pattern,**</a>
-where you persist your changes to the database and the domain events (as outbox messages) in a single transaction.
-Now you have a guaranteed atomic transaction, and the domain events are processed asynchronously using a background job.
+You can solve this with the [**Outbox pattern,**](/explore/articles/milanjovanovic.tech/outbox-pattern-for-reliable-microservices-messaging.md) where you persist your changes to the database and the domain events (as outbox messages) in a single transaction. Now you have a guaranteed atomic transaction, and the domain events are processed asynchronously using a background job.
 
 If you're wondering what's inside the `PublishDomainEventsAsync` method:
 
@@ -288,15 +263,13 @@ private async Task PublishDomainEventsAsync()
         await _publisher.Publish(domainEvent);
     }
 }
-
 ```
 
 ---
 
-## how-to-handle-domain-events"><a href="#how-to-handle-domain-events">How To Handle Domain Events
+## How To Handle Domain Events
 
-With all of the plumbing we created so far, we're ready to implement a handler for the domain events.
-Luckily, this is the simplest step in the process.
+With all of the plumbing we created so far, we're ready to implement a handler for the domain events. Luckily, this is the simplest step in the process.
 
 All you have to do is define a class implementing `INotificationHandler<T>` and specify your domain event type as the generic argument.
 
@@ -322,33 +295,31 @@ public class CourseCompletedDomainEventHandler
             cancellationToken);
     }
 }
-
 ```
 
 ---
 
-## in-summary"><a href="#in-summary">In Summary
+## In Summary
 
-**Domain events** can help you build a loosely coupled system.
-You can use them to separate the core domain logic from the side effects, which can be handled asynchronously.
+**Domain events** can help you build a loosely coupled system. You can use them to separate the core domain logic from the side effects, which can be handled asynchronously.
 
 There's no need to reinvent the wheel for implementing domain events, and you can use the **EF Core** and **MediatR** libraries to build this.
 
-You will have to make the decision when you want to publish domain events.
-Publishing before or after saving changes to the database both have their set of **tradeoffs**.
+You will have to make the decision when you want to publish domain events. Publishing before or after saving changes to the database both have their set of **tradeoffs**.
 
-I prefer **publishing** domain events **after saving changes** to the database, and I use the <a href="outbox-pattern-for-reliable-microservices-messaging">**Outbox pattern**</a>
-to add transactional guarantees.
-This approach introduces eventual consistency, but it's also more reliable.
+I prefer **publishing** domain events **after saving changes** to the database, and I use the [**Outbox pattern**](/explore/articles/milanjovanovic.tech/outbox-pattern-for-reliable-microservices-messaging.md) to add transactional guarantees. This approach introduces eventual consistency, but it's also more reliable.
 
 Hope this was helpful.
 
 See you next week!
 
-**Today's action step:**
-Take a look at <a href="https://youtu.be/AHzWJ_SMqLo">**this video,**</a> where I explain how to implement domain events to build a decoupled system that scales.
+::: important Today's action step
 
--->
+Take a look at [<FontIcon icon="fa-brands fa-youtube"/>**this video**](https://youtu.be/AHzWJ_SMqLo), where I explain how to implement domain events to build a decoupled system that scales.
+
+<VidStack src="youtube/AHzWJ_SMqLo" />
+
+:::
 
 ---
 

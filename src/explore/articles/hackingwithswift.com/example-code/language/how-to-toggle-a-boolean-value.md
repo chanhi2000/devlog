@@ -59,16 +59,25 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s booleans have a <code>toggle()</code> method that flip them between true and false. That might sound simple, but the end result makes for much more natural Swift code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> loggedIn <span class="token operator">=</span> <span class="token boolean">false</span>
-loggedIn<span class="token punctuation">.</span><span class="token function">toggle</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>This is particularly useful in more complex data structures: <code>myVar.prop1.prop2.enabled.toggle()</code> avoids the potential typing errors that could be caused using manual negation.</p>
+Swift’s booleans have a `toggle()` method that flip them between true and false. That might sound simple, but the end result makes for much more natural Swift code:
+
+```swift
+var loggedIn = false
+loggedIn.toggle()
+```
+
+This is particularly useful in more complex data structures: `myVar.prop1.prop2.enabled.toggle()` avoids the potential typing errors that could be caused using manual negation.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-create-a-toggle-switch">How to create a toggle switch</a></li><li><a href="/quick-start/swiftui/customizing-toggle-with-togglestyle">Customizing Toggle with ToggleStyle</a></li><li><a href="/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden">How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden()</a></li><li><a href="/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced()</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li></ul>
+/quick-start/swiftui/how-to-create-a-toggle-switch">How to create a toggle switch 
+/quick-start/swiftui/customizing-toggle-with-togglestyle">Customizing Toggle with ToggleStyle 
+/quick-start/swiftui/how-to-hide-the-label-of-a-picker-stepper-toggle-and-more-using-labelshidden">How to hide the label of a Picker, Stepper, Toggle, and more using labelsHidden() 
+/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced() 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a>
 -->
 
 :::

@@ -59,21 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>If you need a quick way to get hold of a view inside a complicated view hierarchy, you're looking for <code>viewWithTag()</code> – give it the tag to find and a view to search from, and this method will search all subviews, and all sub-subviews, and so on, until it finds a view with the matching tag number. The method returns an optional <code>UIView</code> because it might not find a view with that tag, so unwrap it carefully.</p>
-<p>Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> foundView <span class="token operator">=</span> view<span class="token punctuation">.</span><span class="token function">viewWithTag</span><span class="token punctuation">(</span><span class="token number">0xDEADBEEF</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    foundView<span class="token punctuation">.</span><span class="token function">removeFromSuperview</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Easy to remember tags such as <code>0xDEADBEEF</code> are quite common amongst coders.</p>
-<p>NB: Extensive use of <code>viewWithTag()</code> is a sign of poor code structure. It's good for the occasional shortcut, but really shouldn't be relied on for serious development.</p>
-<p>You see, if you use <code>viewWithTag()</code> to find some specific nested view then you’re effectively saying “there's a view that I have given a magic number to, and it's definitely a <code>UIImageView</code> (for example), so please find it and use it.” This means you're bypassing all the safety of the Swift compiler: that number might change or be removed, or the view in question might change type or be removed – and neither of those would cause problems or get caught.</p>
-<p>If you use <code>viewWithTag()</code> rarely then it's fine, but if you find yourself doing it a lot then really you should be thinking about an alternative – making a custom subclass for your table view cell, for example.</p>
+If you need a quick way to get hold of a view inside a complicated view hierarchy, you're looking for `viewWithTag()` – give it the tag to find and a view to search from, and this method will search all subviews, and all sub-subviews, and so on, until it finds a view with the matching tag number. The method returns an optional `UIView` because it might not find a view with that tag, so unwrap it carefully.
+
+Here's an example:
+
+```swift
+if let foundView = view.viewWithTag(0xDEADBEEF) {
+    foundView.removeFromSuperview()
+}
+```
+
+Easy to remember tags such as `0xDEADBEEF` are quite common amongst coders.
+
+NB: Extensive use of `viewWithTag()` is a sign of poor code structure. It's good for the occasional shortcut, but really shouldn't be relied on for serious development.
+
+You see, if you use `viewWithTag()` to find some specific nested view then you’re effectively saying “there's a view that I have given a magic number to, and it's definitely a `UIImageView` (for example), so please find it and use it.” This means you're bypassing all the safety of the Swift compiler: that number might change or be removed, or the view in question might change type or be removed – and neither of those would cause problems or get caught.
+
+If you use `viewWithTag()` rarely then it's fine, but if you find yourself doing it a lot then really you should be thinking about an alternative – making a custom subclass for your table view cell, for example.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-bring-a-subview-to-the-front-of-a-uiview">How to bring a subview to the front of a UIView</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li><li><a href="/example-code/uikit/how-to-force-a-uiview-to-redraw-setneedsdisplay">How to force a UIView to redraw: setNeedsDisplay()</a></li><li><a href="/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView</a></li><li><a href="/example-code/media/how-to-render-a-uiview-to-a-uiimage">How to render a UIView to a UIImage</a></li></ul>
+/example-code/uikit/how-to-bring-a-subview-to-the-front-of-a-uiview">How to bring a subview to the front of a UIView 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView 
+/example-code/uikit/how-to-force-a-uiview-to-redraw-setneedsdisplay">How to force a UIView to redraw: setNeedsDisplay() 
+/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView 
+/example-code/media/how-to-render-a-uiview-to-a-uiimage">How to render a UIView to a UIImage</a>
 -->
 
 :::

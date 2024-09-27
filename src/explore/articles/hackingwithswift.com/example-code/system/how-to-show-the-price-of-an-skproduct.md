@@ -59,22 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>StoreKit products come with <code>price</code> and <code>priceLocale</code> properties but it takes a little effort to combine those two together in order to show a user-friendly price in your interface.</p>
-<p>Fortunately, one small extension to <code>SKProduct</code> will provide you with a <code>localizedPrice</code> property you can use to do that work for you:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">SKProduct</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> localizedPrice<span class="token punctuation">:</span> <span class="token class-name">String</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> formatter <span class="token operator">=</span> <span class="token class-name">NumberFormatter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-        formatter<span class="token punctuation">.</span>numberStyle <span class="token operator">=</span> <span class="token punctuation">.</span>currency
-        formatter<span class="token punctuation">.</span>locale <span class="token operator">=</span> priceLocale
-        <span class="token keyword">return</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> price<span class="token punctuation">)</span><span class="token operator">!</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+StoreKit products come with `price` and `priceLocale` properties but it takes a little effort to combine those two together in order to show a user-friendly price in your interface.
+
+Fortunately, one small extension to `SKProduct` will provide you with a `localizedPrice` property you can use to do that work for you:
+
+```swift
+extension SKProduct {
+    var localizedPrice: String {
+        let formatter = NumberFormatter()
+        formatter.numberStyle = .currency
+        formatter.locale = priceLocale
+        return formatter.string(from: price)!
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-show-an-alert">How to show an alert</a></li><li><a href="/quick-start/swiftui/how-to-show-a-map-view">How to show a Map view</a></li><li><a href="/quick-start/swiftui/how-to-show-multiple-alerts-in-a-single-view">How to show multiple alerts in a single view</a></li><li><a href="/example-code/uikit/how-do-you-show-a-modal-view-controller-when-a-uitabbarcontroller-tab-is-tapped">How do you show a modal view controller when a UITabBarController tab is tapped?</a></li><li><a href="/quick-start/swiftui/how-to-show-an-action-sheet">How to show an action sheet</a></li></ul>
+/quick-start/swiftui/how-to-show-an-alert">How to show an alert 
+/quick-start/swiftui/how-to-show-a-map-view">How to show a Map view 
+/quick-start/swiftui/how-to-show-multiple-alerts-in-a-single-view">How to show multiple alerts in a single view 
+/example-code/uikit/how-do-you-show-a-modal-view-controller-when-a-uitabbarcontroller-tab-is-tapped">How do you show a modal view controller when a UITabBarController tab is tapped? 
+/quick-start/swiftui/how-to-show-an-action-sheet">How to show an action sheet</a>
 -->
 
 :::

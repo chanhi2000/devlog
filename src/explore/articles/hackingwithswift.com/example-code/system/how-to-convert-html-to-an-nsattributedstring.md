@@ -59,27 +59,44 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can create an <code>NSAttributedString</code> directly from HTML, including support for a wide range of formatting, using a special initializer and passing in <code>NSAttributedString.DocumentType.html</code> for your document type.</p>
-<p>For example, given the following HTML:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> html <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"""
-&lt;html&gt;
-&lt;body&gt;
-&lt;h1&gt;Hello, world!&lt;/h1&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-"""</span></span></code></pre>
-<p>You first need to convert that string into a <code>Data</code> instance, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> data <span class="token operator">=</span> <span class="token class-name">Data</span><span class="token punctuation">(</span>html<span class="token punctuation">.</span>utf8<span class="token punctuation">)</span></code></pre>
-<p>You can now create an <code>NSAttributedString</code> from that. This is a <em>throwing</em> call because you might try to convert something that isn’t valid, so we’re going to use <code>try?</code> and wrap it in <code>if let</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> attributedString <span class="token operator">=</span> <span class="token keyword">try</span><span class="token operator">?</span> <span class="token class-name">NSAttributedString</span><span class="token punctuation">(</span>data<span class="token punctuation">:</span> data<span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">.</span>documentType<span class="token punctuation">:</span> <span class="token class-name">NSAttributedString</span><span class="token punctuation">.</span><span class="token class-name">DocumentType</span><span class="token punctuation">.</span>html<span class="token punctuation">]</span><span class="token punctuation">,</span> documentAttributes<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    yourLabel<span class="token punctuation">.</span>attributedText <span class="token operator">=</span> attributedString
-<span class="token punctuation">}</span></code></pre>
+You can create an `NSAttributedString` directly from HTML, including support for a wide range of formatting, using a special initializer and passing in `NSAttributedString.DocumentType.html` for your document type.
+
+For example, given the following HTML:
+
+```swift
+let html = """
+<html>
+<body>
+<h1>Hello, world!</h1>
+</body>
+</html>
+"""
+```
+
+You first need to convert that string into a `Data` instance, like this:
+
+```swift
+let data = Data(html.utf8)
+```
+
+You can now create an `NSAttributedString` from that. This is a *throwing* call because you might try to convert something that isn’t valid, so we’re going to use `try?` and wrap it in `if let`:
+
+```swift
+if let attributedString = try? NSAttributedString(data: data, options: [.documentType: NSAttributedString.DocumentType.html], documentAttributes: nil) {
+    yourLabel.attributedText = attributedString
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor</a></li><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li><li><a href="/example-code/system/how-to-create-rich-formatted-text-strings-using-nsattributedstring">How to create rich formatted text strings using NSAttributedString</a></li><li><a href="/example-code/uikit/how-to-render-an-nsattributedstring-to-a-pdf">How to render an NSAttributedString to a PDF</a></li><li><a href="/example-code/system/how-to-make-tappable-links-in-nsattributedstring">How to make tappable links in NSAttributedString</a></li></ul>
+/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor 
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/example-code/system/how-to-create-rich-formatted-text-strings-using-nsattributedstring">How to create rich formatted text strings using NSAttributedString 
+/example-code/uikit/how-to-render-an-nsattributedstring-to-a-pdf">How to render an NSAttributedString to a PDF 
+/example-code/system/how-to-make-tappable-links-in-nsattributedstring">How to make tappable links in NSAttributedString</a>
 -->
 
 :::

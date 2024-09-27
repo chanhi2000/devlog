@@ -59,29 +59,39 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you want to parse JSON by hand rather than using <code>Codable</code>, iOS has a built-in alternative called <code>JSONSerialization</code> and it can convert a JSON string into a collection of dictionaries, arrays, strings and numbers in just a few lines of code.</p>
-<p>In the example below, I create a dummy piece of JSON that contains three names in an array cunningly called “names”. This then gets sent to <code>JSONSerialization</code> (by converting it into a <code>Data</code> object, which is how <code>JSONSerialization</code> likes to receive its content), and I conditionally pull out and print the <code>names</code> array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"{\"names\": [\"Bob\", \"Tim\", \"Tina\"]}"</span></span>
-<span class="token keyword">let</span> data <span class="token operator">=</span> <span class="token class-name">Data</span><span class="token punctuation">(</span>str<span class="token punctuation">.</span>utf8<span class="token punctuation">)</span>
+If you want to parse JSON by hand rather than using `Codable`, iOS has a built-in alternative called `JSONSerialization` and it can convert a JSON string into a collection of dictionaries, arrays, strings and numbers in just a few lines of code.
 
-<span class="token keyword">do</span> <span class="token punctuation">{</span>
-    <span class="token comment">// make sure this JSON is in the format we expect</span>
-    <span class="token keyword">if</span> <span class="token keyword">let</span> json <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">JSONSerialization</span><span class="token punctuation">.</span><span class="token function">jsonObject</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> data<span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token keyword">as</span><span class="token operator">?</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">:</span> <span class="token keyword">Any</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>
-        <span class="token comment">// try to read out a string array</span>
-        <span class="token keyword">if</span> <span class="token keyword">let</span> names <span class="token operator">=</span> json<span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"names"</span></span><span class="token punctuation">]</span> <span class="token keyword">as</span><span class="token operator">?</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span> <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span>names<span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token keyword">let</span> error <span class="token keyword">as</span> <span class="token class-name">NSError</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to load: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>There are a couple of things that might confuse you there. First, because parsing JSON will fail if the JSON isn't valid, you need to use try/catch and have some sort of error handling. Second, you need to typecast my example JSON to be a dictionary of type <code>[String: Any]</code> so that you can start working with your JSON values. Third, you don't know for sure that any values exist inside the JSON, so you need to conditionally check for and unwrap the <code>names</code> value.</p>
+In the example below, I create a dummy piece of JSON that contains three names in an array cunningly called “names”. This then gets sent to `JSONSerialization` (by converting it into a `Data` object, which is how `JSONSerialization` likes to receive its content), and I conditionally pull out and print the `names` array:
+
+```swift
+let str = "{\"names\": [\"Bob\", \"Tim\", \"Tina\"]}"
+let data = Data(str.utf8)
+
+do {
+    // make sure this JSON is in the format we expect
+    if let json = try JSONSerialization.jsonObject(with: data, options: []) as? [String: Any] {
+        // try to read out a string array
+        if let names = json["names"] as? [String] {
+            print(names)
+        }
+    }
+} catch let error as NSError {
+    print("Failed to load: \(error.localizedDescription)")
+}
+```
+
+There are a couple of things that might confuse you there. First, because parsing JSON will fail if the JSON isn't valid, you need to use try/catch and have some sort of error handling. Second, you need to typecast my example JSON to be a dictionary of type `[String: Any]` so that you can start working with your JSON values. Third, you don't know for sure that any values exist inside the JSON, so you need to conditionally check for and unwrap the `names` value.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/libraries/how-to-parse-json-using-swiftyjson">How to parse JSON using SwiftyJSON</a></li><li><a href="/example-code/strings/how-to-parse-a-sentence-using-nslinguistictagger">How to parse a sentence using NSLinguisticTagger</a></li><li><a href="/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type</a></li><li><a href="/example-code/language/how-to-format-json-using-codable-and-pretty-printing">How to format JSON using Codable and pretty printing</a></li><li><a href="/example-code/language/how-to-convert-json-into-swift-objects-using-codable">How to convert JSON into Swift objects using Codable</a></li></ul>
+/example-code/libraries/how-to-parse-json-using-swiftyjson">How to parse JSON using SwiftyJSON 
+/example-code/strings/how-to-parse-a-sentence-using-nslinguistictagger">How to parse a sentence using NSLinguisticTagger 
+/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type 
+/example-code/language/how-to-format-json-using-codable-and-pretty-printing">How to format JSON using Codable and pretty printing 
+/example-code/language/how-to-convert-json-into-swift-objects-using-codable">How to convert JSON into Swift objects using Codable</a>
 -->
 
 :::

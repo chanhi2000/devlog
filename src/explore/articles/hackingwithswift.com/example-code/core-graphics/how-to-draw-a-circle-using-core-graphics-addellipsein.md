@@ -59,24 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Core Graphics is able to draw circles and ellipses with just a few lines of code, although there is some set up to do first. The example code below creates a 512x512 circle with a red fill and a black border:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> renderer <span class="token operator">=</span> <span class="token class-name">UIGraphicsImageRenderer</span><span class="token punctuation">(</span>size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> img <span class="token operator">=</span> renderer<span class="token punctuation">.</span>image <span class="token punctuation">{</span> ctx <span class="token keyword">in</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setFillColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>red<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setStrokeColor</span><span class="token punctuation">(</span><span class="token class-name">UIColor</span><span class="token punctuation">.</span>green<span class="token punctuation">.</span>cgColor<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">setLineWidth</span><span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span>
+Core Graphics is able to draw circles and ellipses with just a few lines of code, although there is some set up to do first. The example code below creates a 512x512 circle with a red fill and a black border:
 
-    <span class="token keyword">let</span> rectangle <span class="token operator">=</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">addEllipse</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> rectangle<span class="token punctuation">)</span>
-    ctx<span class="token punctuation">.</span>cgContext<span class="token punctuation">.</span><span class="token function">drawPath</span><span class="token punctuation">(</span>using<span class="token punctuation">:</span> <span class="token punctuation">.</span>fillStroke<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Please note: although a 10-point border is specified, Core Graphics draws borders half-way inside and half-way outside the path you create, so if you want to see the whole border (rather than have it cropped) you either need to draw a smaller shape or create a bigger context.</p>
+```swift
+let renderer = UIGraphicsImageRenderer(size: CGSize(width: 512, height: 512))
+let img = renderer.image { ctx in
+    ctx.cgContext.setFillColor(UIColor.red.cgColor)
+    ctx.cgContext.setStrokeColor(UIColor.green.cgColor)
+    ctx.cgContext.setLineWidth(10)
+
+    let rectangle = CGRect(x: 0, y: 0, width: 512, height: 512)
+    ctx.cgContext.addEllipse(in: rectangle)
+    ctx.cgContext.drawPath(using: .fillStroke)
+}
+```
+
+Please note: although a 10-point border is specified, Core Graphics draws borders half-way inside and half-way outside the path you create, so if you want to see the whole border (rather than have it cropped) you either need to draw a smaller shape or create a bigger context.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-square-using-core-graphics-addrect">How to draw a square using Core Graphics: addRect()</a></li><li><a href="/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:)</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-text-string-using-core-graphics">How to draw a text string using Core Graphics</a></li><li><a href="/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project</a></li></ul>
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently 
+/example-code/core-graphics/how-to-draw-a-square-using-core-graphics-addrect">How to draw a square using Core Graphics: addRect() 
+/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:) 
+/example-code/core-graphics/how-to-draw-a-text-string-using-core-graphics">How to draw a text string using Core Graphics 
+/example-code/uikit/how-to-add-retina-and-retina-hd-graphics-to-your-project">How to add Retina and Retina HD graphics to your project</a>
 -->
 
 :::

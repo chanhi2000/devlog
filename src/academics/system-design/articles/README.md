@@ -359,6 +359,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Screaming Architecture",
+  "desc": "If you were to glance at the folder structure of your system, could you tell what the system is about? Your architecture should communicate what problems it solves. This approach is called sreaming architecture.",
+  "link": "/explore/articles/milanjovanovic.tech/-architecture.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0,2)"
+}
+```
+
 <!-- END: milanjovanovic.tech -->
 
 ---

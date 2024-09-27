@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>UIWebView</code> class has been around since iOS 2.0 as a way to show HTML content inside your app, but iOS 8.0 introduced <code>WKWebView</code> as an alternative - what's the difference?</p>
-<p>Well, there are several differences, but two are particularly important. First, <code>UIWebView</code> is part of UIKit, and thus is available to your apps as standard. You don't need to import anything –&nbsp;it's just there. This also means it's available inside Interface Builder, so you can drag and drop web view into your designs.</p>
-<p>Second, <code>WKWebView</code> is run in a separate process to your app so that it can draw on native Safari JavaScript optimizations. This means <code>WKWebView</code> loads web pages faster and more efficiently than <code>UIWebView</code>, and also doesn't have as much memory overhead for you.</p>
-<p>In iOS 8.0 <code>WKWebView</code> was unable to load local files, but this got fixed in iOS 9.0. The main reason to use <code>UIWebView</code> nowadays is for access to older features such as "Scale pages to fit"&nbsp;- this is not available in <code>WKWebView</code>.</p>
+The `UIWebView` class has been around since iOS 2.0 as a way to show HTML content inside your app, but iOS 8.0 introduced `WKWebView` as an alternative - what's the difference?
+
+Well, there are several differences, but two are particularly important. First, `UIWebView` is part of UIKit, and thus is available to your apps as standard. You don't need to import anything – it's just there. This also means it's available inside Interface Builder, so you can drag and drop web view into your designs.
+
+Second, `WKWebView` is run in a separate process to your app so that it can draw on native Safari JavaScript optimizations. This means `WKWebView` loads web pages faster and more efficiently than `UIWebView`, and also doesn't have as much memory overhead for you.
+
+In iOS 8.0 `WKWebView` was unable to load local files, but this got fixed in iOS 9.0. The main reason to use `UIWebView` nowadays is for access to older features such as "Scale pages to fit" - this is not available in `WKWebView`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview">How to load HTTP content in WKWebView and UIWebView</a></li><li><a href="/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a></li></ul>
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview">How to load HTTP content in WKWebView and UIWebView 
+/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a>
 -->
 
 :::

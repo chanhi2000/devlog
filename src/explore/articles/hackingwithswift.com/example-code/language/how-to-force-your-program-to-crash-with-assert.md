@@ -59,23 +59,41 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>This might seem like a strange topic – after all, why would anyone want their program to crash? Well, the answer is two-fold.</p>
-<p>First, if something has gone wrong that leaves your program in an unsafe state, continuing might mean corrupting user data.</p>
-<p>Second, if you're debugging your app (i.e., it's still in development), having your app refuse to continue if a serious problem is found is a huge advantage and a very common way to spot problems.</p>
-<p>Swift lets you force an app crash using the <code>assert()</code> function. This takes two parameters: a condition to check, and a message to print if the assertion fails. Helpfully, any calls to <code>assert()</code> are ignored when your app is compiled in release mode (i.e., for the App Store), which means these checks have no impact on your code's final performance.</p>
-<p>Here are two examples of <code>assert()</code> being used:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">assert</span><span class="token punctuation">(</span><span class="token number">1</span> <span class="token operator">==</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Maths failure!"</span></span><span class="token punctuation">)</span>
-<span class="token function">assert</span><span class="token punctuation">(</span><span class="token number">1</span> <span class="token operator">==</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Maths failure!"</span></span><span class="token punctuation">)</span></code></pre>
-<p>The first one asserts that 1 is equal to 1, which is clearly true, so nothing will happen. The second one asserts that 1 is equal to 2, which is clearly false, so that assertion will fail: your app will halt, and the message "Maths failure!" will be printed out to help you identify the problem.</p>
-<p>Because assertions are ignored in release builds, you don't need to worry about running expensive checks in your assertions. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">assert</span><span class="token punctuation">(</span><span class="token function">myReallySlowMethod</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">==</span> <span class="token boolean">true</span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"The slow method returned false, which is a bad thing!"</span></span><span class="token punctuation">)</span></code></pre>
-<p>In release builds, that code will never be run, so you won't see any performance impact.</p>
+This might seem like a strange topic – after all, why would anyone want their program to crash? Well, the answer is two-fold.
+
+First, if something has gone wrong that leaves your program in an unsafe state, continuing might mean corrupting user data.
+
+Second, if you're debugging your app (i.e., it's still in development), having your app refuse to continue if a serious problem is found is a huge advantage and a very common way to spot problems.
+
+Swift lets you force an app crash using the `assert()` function. This takes two parameters: a condition to check, and a message to print if the assertion fails. Helpfully, any calls to `assert()` are ignored when your app is compiled in release mode (i.e., for the App Store), which means these checks have no impact on your code's final performance.
+
+Here are two examples of `assert()` being used:
+
+```swift
+assert(1 == 1, "Maths failure!")
+assert(1 == 2, "Maths failure!")
+```
+
+The first one asserts that 1 is equal to 1, which is clearly true, so nothing will happen. The second one asserts that 1 is equal to 2, which is clearly false, so that assertion will fail: your app will halt, and the message "Maths failure!" will be printed out to help you identify the problem.
+
+Because assertions are ignored in release builds, you don't need to worry about running expensive checks in your assertions. For example:
+
+```swift
+assert(myReallySlowMethod() == true, "The slow method returned false, which is a bad thing!")
+```
+
+In release builds, that code will never be run, so you won't see any performance impact.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-force-a-crash-using-fatalerror">How to force a crash using fatalError()</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/example-code/language/how-to-check-your-program-state-using-precondition">How to check your program state using precondition()</a></li><li><a href="/example-code/system/how-to-run-an-external-program-using-process">How to run an external program using Process</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li></ul>
+/example-code/language/how-to-force-a-crash-using-fatalerror">How to force a crash using fatalError() 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/language/how-to-check-your-program-state-using-precondition">How to check your program state using precondition() 
+/example-code/system/how-to-run-an-external-program-using-process">How to run an external program using Process 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a>
 -->
 
 :::

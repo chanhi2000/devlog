@@ -59,22 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All iPhones have a built-in motor to create vibration effects, and if you just want a quick vibration it takes just one line of code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">AudioServicesPlaySystemSound</span><span class="token punctuation">(</span><span class="token constant">kSystemSoundID_Vibrate</span><span class="token punctuation">)</span></code></pre>
-<p>You’ll need to import the AVFoundation framework if you don’t have it already.</p>
-<p>That’s not a particularly easy line of code to remember, so why not make it an extension on <code>UIDevice</code>?</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">UIDevice</span> <span class="token punctuation">{</span>
-    <span class="token keyword">static</span> <span class="token keyword">func</span> <span class="token function-definition function">vibrate</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token class-name">AudioServicesPlaySystemSound</span><span class="token punctuation">(</span><span class="token constant">kSystemSoundID_Vibrate</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Now you can just call <code>UIDevice.vibrate()</code> as needed.</p>
+All iPhones have a built-in motor to create vibration effects, and if you just want a quick vibration it takes just one line of code:
+
+```swift
+AudioServicesPlaySystemSound(kSystemSoundID_Vibrate)
+```
+
+You’ll need to import the AVFoundation framework if you don’t have it already.
+
+That’s not a particularly easy line of code to remember, so why not make it an extension on `UIDevice`?
+
+```swift
+extension UIDevice {
+    static func vibrate() {
+        AudioServicesPlaySystemSound(kSystemSoundID_Vibrate)
+    }
+}
+```
+
+Now you can just call `UIDevice.vibrate()` as needed.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation</a></li><li><a href="/example-code/uikit/how-to-respond-to-the-device-being-shaken">How to respond to the device being shaken</a></li><li><a href="/example-code/system/how-to-identify-an-ios-device-uniquely-with-identifierforvendor">How to identify an iOS device uniquely with identifierForVendor</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li></ul>
+/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation 
+/example-code/uikit/how-to-respond-to-the-device-being-shaken">How to respond to the device being shaken 
+/example-code/system/how-to-identify-an-ios-device-uniquely-with-identifierforvendor">How to identify an iOS device uniquely with identifierForVendor 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

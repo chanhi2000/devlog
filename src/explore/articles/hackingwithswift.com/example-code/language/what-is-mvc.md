@@ -59,20 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>MVC –&nbsp;short for Model-View-Controller –&nbsp;is Apple’s preferred way of architecting apps for its platforms, and so it’s the default approach used by most developers on Apple platforms.</p>
-<p>In MVC each piece of your code is one of three things:</p>
-<ul>
-<li>Models store your data, such as the names of products in a store.</li>
-<li>Views render data for users, for example a table showing the list of products available.</li>
-<li>Controllers combine the two, by querying the model and converting its data to something views can show.</li>
-</ul>
-<p>On iOS, macOS, and tvOS, view controllers span the “view” and “controller” buckets rather uncomfortably. They are more commonly used as controllers, but if you value clean code you should probably make them more like views.</p>
+MVC – short for Model-View-Controller – is Apple’s preferred way of architecting apps for its platforms, and so it’s the default approach used by most developers on Apple platforms.
+
+In MVC each piece of your code is one of three things:
+
+- Models store your data, such as the names of products in a store.
+<li>Views render data for users, for example a table showing the list of products available.
+<li>Controllers combine the two, by querying the model and converting its data to something views can show.
+
+On iOS, macOS, and tvOS, view controllers span the “view” and “controller” buckets rather uncomfortably. They are more commonly used as controllers, but if you value clean code you should probably make them more like views.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-mvvm">What is MVVM?</a></li><li><a href="/example-code/uikit/how-to-make-your-user-interface-in-code">How to make your user interface in code</a></li><li><a href="/example-code/uikit/what-is-a-uiviewcontroller">What is a UIViewController</a></li></ul>
+/example-code/language/what-is-mvvm">What is MVVM? 
+/example-code/uikit/how-to-make-your-user-interface-in-code">How to make your user interface in code 
+/example-code/uikit/what-is-a-uiviewcontroller">What is a UIViewController</a>
 -->
 
 :::

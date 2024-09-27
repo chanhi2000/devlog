@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can pull out the translation from a <code>CGAffineTransform</code> by using the function below. Feed it a transform and it will return you a <code>CGPoint</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">translation</span><span class="token punctuation">(</span>from transform<span class="token punctuation">:</span> <span class="token class-name">CGAffineTransform</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">CGPoint</span> <span class="token punctuation">{</span>
-    <span class="token keyword">return</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> transform<span class="token punctuation">.</span>tx<span class="token punctuation">,</span> y<span class="token punctuation">:</span> transform<span class="token punctuation">.</span>ty<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+You can pull out the translation from a `CGAffineTransform` by using the function below. Feed it a transform and it will return you a `CGPoint`:
+
+```swift
+func translation(from transform: CGAffineTransform) -> CGPoint {
+    return CGPoint(x: transform.tx, y: transform.ty)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-find-the-rotation-from-a-cgaffinetransform">How to find the rotation from a CGAffineTransform</a></li><li><a href="/example-code/core-graphics/how-to-find-the-scale-from-a-cgaffinetransform">How to find the scale from a CGAffineTransform</a></li><li><a href="/example-code/uikit/how-to-scale-stretch-move-and-rotate-uiviews-using-cgaffinetransform">How to scale, stretch, move, and rotate UIViews using CGAffineTransform</a></li><li><a href="/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag()</a></li><li><a href="/quick-start/swiftui/how-to-let-users-find-and-replace-text">How to let users find and replace text</a></li></ul>
+/example-code/core-graphics/how-to-find-the-rotation-from-a-cgaffinetransform">How to find the rotation from a CGAffineTransform 
+/example-code/core-graphics/how-to-find-the-scale-from-a-cgaffinetransform">How to find the scale from a CGAffineTransform 
+/example-code/uikit/how-to-scale-stretch-move-and-rotate-uiviews-using-cgaffinetransform">How to scale, stretch, move, and rotate UIViews using CGAffineTransform 
+/example-code/uikit/how-to-find-a-uiview-subview-using-viewwithtag">How to find a UIView subview using viewWithTag() 
+/quick-start/swiftui/how-to-let-users-find-and-replace-text">How to let users find and replace text</a>
 -->
 
 :::

@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-3.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,39 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 3.0
 
 <!-- TODO: 작성 -->
 
 <!--
+All navigation controllers have a toolbar built right in, but it's not showing by default. And even if it were showing, it doesn't have any items by default – that's down to you fill in.
+
+To get started, give a view controller some toolbar items by setting its `toolbarItems` property like this:
+
+```swift
+let add = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(addTapped))
+let spacer = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: self, action: nil)
+toolbarItems = [add, spacer]
+```
+
+You can now tell the navigation controller to show its toolbar like this:
+
+```swift
+navigationController?.setToolbarHidden(false, animated: false)
+```
+
+If you animate between two view controllers with different toolbar items, iOS automatically animates their change.
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

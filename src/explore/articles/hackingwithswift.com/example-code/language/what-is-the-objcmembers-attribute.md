@@ -59,20 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>By default Swift generates code that is only available to other Swift code, but if you need to interact with the Objective-C runtime –&nbsp;all of UIKit, for example – you need to tell Swift what to do.</p>
-<p>If you just want to expose a single method or property, you can mark that method using the <code>@objc</code> attribute. However, if you want <em>all</em> methods in a class to be exposed to Objective-C you can use a shortcut: the <code>@objcMembers</code> keyword:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token attribute atrule">@objcMembers</span> <span class="token keyword">class</span> <span class="token class-name">MyController</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">login</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+By default Swift generates code that is only available to other Swift code, but if you need to interact with the Objective-C runtime – all of UIKit, for example – you need to tell Swift what to do.
 
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>In that code, the <code>login()</code> method will automatically be exposed to Objective-C in the same way as if it had been marked with <code>@objc</code>, because the whole class it’s inside is marked with <code>@objcMembers</code>.</p>
+If you just want to expose a single method or property, you can mark that method using the `@objc` attribute. However, if you want *all* methods in a class to be exposed to Objective-C you can use a shortcut: the `@objcMembers` keyword:
+
+```swift
+@objcMembers class MyController: UIViewController {
+    func login() {
+
+    }
+}
+```
+
+In that code, the `login()` method will automatically be exposed to Objective-C in the same way as if it had been marked with `@objc`, because the whole class it’s inside is marked with `@objcMembers`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-the-autoclosure-attribute">What is the autoclosure attribute?</a></li><li><a href="/example-code/language/what-is-the-objc-attribute">What is the @objc attribute?</a></li><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li><li><a href="/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup</a></li><li><a href="/example-code/uikit/how-to-subclass-uiapplication-using-uiapplicationmain">How to subclass UIApplication using UIApplicationMain</a></li></ul>
+/example-code/language/what-is-the-autoclosure-attribute">What is the autoclosure attribute? 
+/example-code/language/what-is-the-objc-attribute">What is the @objc attribute? 
+/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C” 
+/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup 
+/example-code/uikit/how-to-subclass-uiapplication-using-uiapplicationmain">How to subclass UIApplication using UIApplicationMain</a>
 -->
 
 :::

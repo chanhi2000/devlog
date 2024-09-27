@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All <code>UIView</code> subclasses have a <code>layer</code> property, which is responsible for drawing their contents efficiently. These layers are powered by Core Animation, which handles all the drawing and animation that UIKit requests. The layer is separate from the view because drawing is separate from placement – you can move a <code>UIView</code> around freely, change its <code>alpha</code>, add or remove it all you want, and so on, but that doesn’t affect the underlying way it’s <em>drawn</em>.</p>
-<p>Although most views use a plain <code>CALayer</code> behind them, there are specialized subclasses that do more advanced things. <code>CATiledLayer</code> is responsible for tiling images in the way you see in the Maps app, <code>CAEmitterLayer</code> handles creating particles, <code>CAGradientLayer</code> draws color gradients, and more – there’s a selection depending on your need.</p>
-<p>Broadly speaking, iOS developers mostly work with <code>CALayer</code> through the <code>layer</code> property of their views – things like rounding corners, adding borders, and drawing shadows can all be done there.</p>
+All `UIView` subclasses have a `layer` property, which is responsible for drawing their contents efficiently. These layers are powered by Core Animation, which handles all the drawing and animation that UIKit requests. The layer is separate from the view because drawing is separate from placement – you can move a `UIView` around freely, change its `alpha`, add or remove it all you want, and so on, but that doesn’t affect the underlying way it’s *drawn*.
+
+Although most views use a plain `CALayer` behind them, there are specialized subclasses that do more advanced things. `CATiledLayer` is responsible for tiling images in the way you see in the Maps app, `CAEmitterLayer` handles creating particles, `CAGradientLayer` draws color gradients, and more – there’s a selection depending on your need.
+
+Broadly speaking, iOS developers mostly work with `CALayer` through the `layer` property of their views – things like rounding corners, adding borders, and drawing shadows can all be done there.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/calayer/how-to-draw-shapes-using-cashapelayer">How to draw shapes using CAShapeLayer</a></li><li><a href="/example-code/language/what-is-class-inheritance">What is class inheritance?</a></li><li><a href="/example-code/calayer/how-to-make-a-uiview-glow-using-shadowcolor">How to make a UIView glow using shadowColor</a></li><li><a href="/example-code/calayer/how-to-round-the-corners-of-a-uiview">How to round the corners of a UIView</a></li><li><a href="/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView</a></li></ul>
+/example-code/calayer/how-to-draw-shapes-using-cashapelayer">How to draw shapes using CAShapeLayer 
+/example-code/language/what-is-class-inheritance">What is class inheritance? 
+/example-code/calayer/how-to-make-a-uiview-glow-using-shadowcolor">How to make a UIView glow using shadowColor 
+/example-code/calayer/how-to-round-the-corners-of-a-uiview">How to round the corners of a UIView 
+/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView</a>
 -->
 
 :::

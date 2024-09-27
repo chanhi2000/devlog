@@ -56,41 +56,58 @@ isOriginal: false
 
 > Available from iOS 7.0
 
-<!-- TODO: 작성 -->
-
 <VidStack src="youtube/o_zYsGu2Z8U" />
 
+<!-- TODO: 작성 -->
+
 <!-- 
-<p>All arrays have built-in <code>sort()</code> and <code>sorted()</code> methods that can be used to sort the array, but they are subtly different.</p>
-<p>If the array is simple you can just call <code>sort()</code> directly, like this, to sort an array in place:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> names <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Jemima"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Peter"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"David"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Kelly"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Isabella"</span></span><span class="token punctuation">]</span>
-names<span class="token punctuation">.</span><span class="token function">sort</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>If you have a custom struct or class and want to sort them arbitrarily, you should call <code>sort()</code> using a trailing closure that sorts on a field you specify. Here's an example using an array of custom structs that sorts on a particular property:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">User</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> firstName<span class="token punctuation">:</span> <span class="token class-name">String</span>
-<span class="token punctuation">}</span>
+All arrays have built-in `sort()` and `sorted()` methods that can be used to sort the array, but they are subtly different.
 
-<span class="token keyword">var</span> users <span class="token operator">=</span> <span class="token punctuation">[</span>
-    <span class="token class-name">User</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Jemima"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-    <span class="token class-name">User</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Peter"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-    <span class="token class-name">User</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"David"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-    <span class="token class-name">User</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Kelly"</span></span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-    <span class="token class-name">User</span><span class="token punctuation">(</span>firstName<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Isabella"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">]</span>
+If the array is simple you can just call `sort()` directly, like this, to sort an array in place:
 
-users<span class="token punctuation">.</span>sort <span class="token punctuation">{</span>
-    <span class="token short-argument">$0</span><span class="token punctuation">.</span>firstName <span class="token operator">&lt;</span> <span class="token short-argument">$1</span><span class="token punctuation">.</span>firstName
-<span class="token punctuation">}</span></code></pre>
-<p>If you want to return a sorted array rather than sort it in place, use <code>sorted()</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> sortedUsers <span class="token operator">=</span> users<span class="token punctuation">.</span>sorted <span class="token punctuation">{</span>
-    <span class="token short-argument">$0</span><span class="token punctuation">.</span>firstName <span class="token operator">&lt;</span> <span class="token short-argument">$1</span><span class="token punctuation">.</span>firstName
-<span class="token punctuation">}</span></code></pre>
+```swift
+var names = ["Jemima", "Peter", "David", "Kelly", "Isabella"]
+names.sort()
+```
+
+If you have a custom struct or class and want to sort them arbitrarily, you should call `sort()` using a trailing closure that sorts on a field you specify. Here's an example using an array of custom structs that sorts on a particular property:
+
+```swift
+struct User {
+    var firstName: String
+}
+
+var users = [
+    User(firstName: "Jemima"),
+    User(firstName: "Peter"),
+    User(firstName: "David"),
+    User(firstName: "Kelly"),
+    User(firstName: "Isabella")
+]
+
+users.sort {
+    $0.firstName < $1.firstName
+}
+```
+
+If you want to return a sorted array rather than sort it in place, use `sorted()` like this:
+
+```swift
+let sortedUsers = users.sorted {
+    $0.firstName < $1.firstName
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-reverse-sort-an-array">How to reverse sort an array</a></li><li><a href="/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/language/how-to-append-one-array-to-another-array">How to append one array to another array</a></li></ul>
+/example-code/language/how-to-reverse-sort-an-array">How to reverse sort an array 
+/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable 
+/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/language/how-to-append-one-array-to-another-array">How to append one array to another array</a>
 -->
 
 :::

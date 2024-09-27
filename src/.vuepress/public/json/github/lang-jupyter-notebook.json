@@ -1000,5 +1000,33 @@
     "topics": ["image-analysis", "images", "python"],
     "avatar": "https://avatars.githubusercontent.com/u/74347818?v=4",
     "banner": ""
+  }, {
+    "repo": "camenduru/FluxMusic-jupyter",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/54370274?v=4",
+    "banner": ""
+  }, {
+    "repo": "NirDiamant/RAG_Techniques",
+    "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+    "officialSite": "",
+    "topics": ["genai", "hacktoberfest", "rag", "tutorials"],
+    "avatar": "https://avatars.githubusercontent.com/u/28316913?v=4",
+    "banner": ""
+  }, {
+    "repo": "SakanaAI/AI-Scientist",
+    "desc": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/140988036?v=4",
+    "banner": ""
+  }, {
+    "repo": "meta-llama/llama-recipes",
+    "desc": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+    "officialSite": "",
+    "topics": ["ai", "finetuning", "langchain", "llama", "llama2", "llm", "machine-learning", "python", "pytorch", "vllm"],
+    "avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
+    "banner": ""
   }
 ]

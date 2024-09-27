@@ -59,15 +59,23 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift offers several ways of adjusting the letter case of a string, but if you're looking for title case –&nbsp;that is, Text Where The First Letter Of Each String Is Capitalized - then you need to use the <code>capitalized</code> property, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"sunday, monday, happy days"</span></span>
-<span class="token function">print</span><span class="token punctuation">(</span>str<span class="token punctuation">.</span>capitalized<span class="token punctuation">)</span></code></pre>
+Swift offers several ways of adjusting the letter case of a string, but if you're looking for title case – that is, Text Where The First Letter Of Each String Is Capitalized - then you need to use the `capitalized` property, like this:
+
+```swift
+let str = "sunday, monday, happy days"
+print(str.capitalized)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-capitalize-the-first-letter-of-a-string">How to capitalize the first letter of a string</a></li><li><a href="/example-code/strings/how-to-check-whether-a-string-contains-any-words-from-an-array">How to check whether a string contains any words from an array</a></li><li><a href="/example-code/media/how-to-highlight-text-to-speech-words-being-read-using-avspeechsynthesizer">How to highlight text to speech words being read using AVSpeechSynthesizer</a></li><li><a href="/example-code/naturallanguage/how-to-find-similar-words-for-a-search-term">How to find similar words for a search term</a></li><li><a href="/example-code/uikit/how-to-use-uisearchcontroller-to-let-users-enter-search-words">How to use UISearchController to let users enter search words</a></li></ul>
+/example-code/strings/how-to-capitalize-the-first-letter-of-a-string">How to capitalize the first letter of a string 
+/example-code/strings/how-to-check-whether-a-string-contains-any-words-from-an-array">How to check whether a string contains any words from an array 
+/example-code/media/how-to-highlight-text-to-speech-words-being-read-using-avspeechsynthesizer">How to highlight text to speech words being read using AVSpeechSynthesizer 
+/example-code/naturallanguage/how-to-find-similar-words-for-a-search-term">How to find similar words for a search term 
+/example-code/uikit/how-to-use-uisearchcontroller-to-let-users-enter-search-words">How to use UISearchController to let users enter search words</a>
 -->
 
 :::

@@ -59,18 +59,23 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A functor is any data type that can be mapped over using <code>map()</code>, as long it abides by two laws:</p>
-<ol>
-<li>If your map function is the identity function (i.e. it just returns each element without transformation) then your input and output must be the same.</li>
-<li>If you compose function A and function B to make function C then use the result with <code>map()</code>, the result should be the same as mapping first A then B individually.</li>
-</ol>
-<p>Both of those laws sound obvious, but that doesn’t mean they aren’t important. Arrays are functors, sets are functors, optionals are functors, and more.</p>
+A functor is any data type that can be mapped over using `map()`, as long it abides by two laws:
+
+1. If your map function is the identity function (i.e. it just returns each element without transformation) then your input and output must be the same.
+<li>If you compose function A and function B to make function C then use the result with `map()`, the result should be the same as mapping first A then B individually.
+
+Both of those laws sound obvious, but that doesn’t mean they aren’t important. Arrays are functors, sets are functors, optionals are functors, and more.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-convenience-initializers">What are convenience initializers?</a></li><li><a href="/example-code/language/how-to-count-element-frequencies-in-an-array">How to count element frequencies in an array</a></li><li><a href="/example-code/language/how-to-convert-data-to-a-string">How to convert Data to a String</a></li><li><a href="/example-code/language/how-to-group-arrays-using-dictionaries">How to group arrays using dictionaries</a></li><li><a href="/example-code/language/how-to-toggle-a-boolean-value">How to toggle a boolean value</a></li></ul>
+/example-code/language/what-are-convenience-initializers">What are convenience initializers? 
+/example-code/language/how-to-count-element-frequencies-in-an-array">How to count element frequencies in an array 
+/example-code/language/how-to-convert-data-to-a-string">How to convert Data to a String 
+/example-code/language/how-to-group-arrays-using-dictionaries">How to group arrays using dictionaries 
+/example-code/language/how-to-toggle-a-boolean-value">How to toggle a boolean value</a>
 -->
 
 :::

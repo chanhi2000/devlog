@@ -356,5 +356,12 @@
     "topics": ["crm", "crm-platform", "laravel", "laravel-application", "laravel-crm", "laravel-framework", "laravel-package", "opensource", "opensource-crm", "opensource-crm-framework", "php", "vue", "vuejs"],
     "avatar": "https://avatars.githubusercontent.com/u/86250863?v=4",
     "banner": ""
+  }, {
+    "repo": "statamic/cms",
+    "desc": "The core Laravel CMS Composer package",
+    "officialSite": "https://statamic.com",
+    "topics": ["api-rest", "cms", "composer-package", "content-management-system", "flat-file-cms", "flatfile", "flatfilecms", "graphql", "headless", "jamstack", "laravel", "laravel-cms", "laravel-package", "php", "php8", "ssg", "statamic", "vuejs"],
+    "avatar": "https://avatars.githubusercontent.com/u/1669353?v=4",
+    "banner": ""
   }
 ]

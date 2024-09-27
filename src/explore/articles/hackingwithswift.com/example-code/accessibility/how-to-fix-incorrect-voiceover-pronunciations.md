@@ -59,37 +59,61 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>As clever as VoiceOver is, sometimes it will get the pronunciation wrong for certain words –&nbsp;particularly when it’s missing some context that would have made clear what the correct pronunciation was.</p>
-<p>For example, if you have a <code>UILabel</code> containing the string “Live” should that be pronounced as “liv” or as “lyve”? Or how about “Read” –&nbsp;is that pronounced as “reed” or “red”? There’s no way for VoiceOver to know unless you tell it.</p>
-<p>The official way to do this is by using the <code>UIAccessibilitySpeechAttributeIPANotation</code> key in an attributed string, but in practice using that just makes your sounds come out poorly.</p>
-<p>An easier way that also produces better results is just to use your own phonetic lettering. For example:</p>
-<pre class=" language-swift"><code class=" language-swift">label<span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"read"</span></span>
-label<span class="token punctuation">.</span>accessibilityLabel <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"red"</span></span></code></pre>
-<p>Using this approach, the screen will show “read” but VoiceOver users will hear “red” –&nbsp;it works for everyone.</p>
-<p>There are two places where this approach either won’t be enough or will prove extremely complicated.</p>
-<p>First, if you use foreign languages inside your app they will be read out as if they were the user’s primary language.&nbsp;So, French words might be pronounced as if they were English, for example.</p>
-<p>Second, if your app uses punctuation that the user needs to hear audibly, the result won’t be what you hoped for. For example, if you write some Swift code like <code>user.name</code> that will be interpreted by VoiceOver as “user (pause) name” rather than “user period name”.</p>
-<p>Both of these problems can be fixed by using special attributes of <code>NSAttributedString</code>. For example, we can specify the language for an attributed string like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> attributedString1 <span class="token operator">=</span> <span class="token class-name">NSAttributedString</span><span class="token punctuation">(</span>
-    string<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Bonjour"</span></span><span class="token punctuation">,</span> attributes<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">.</span>accessibilitySpeechLanguage<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"fr-FR"</span></span><span class="token punctuation">]</span>
-<span class="token punctuation">)</span>
+As clever as VoiceOver is, sometimes it will get the pronunciation wrong for certain words – particularly when it’s missing some context that would have made clear what the correct pronunciation was.
 
-label<span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Bonjour"</span></span>
-label<span class="token punctuation">.</span>accessibilityAttributedLabel <span class="token operator">=</span> attributedString1</code></pre>
-<p>And we can tell VoiceOver to read all punctuation like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> attributedString2 <span class="token operator">=</span> <span class="token class-name">NSAttributedString</span><span class="token punctuation">(</span>
-    string<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"user.name"</span></span><span class="token punctuation">,</span> attributes<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">.</span>accessibilitySpeechPunctuation<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">]</span>
-<span class="token punctuation">)</span>
+For example, if you have a `UILabel` containing the string “Live” should that be pronounced as “liv” or as “lyve”? Or how about “Read” – is that pronounced as “reed” or “red”? There’s no way for VoiceOver to know unless you tell it.
 
-label<span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"user.name"</span></span>
-label<span class="token punctuation">.</span>accessibilityAttributedLabel <span class="token operator">=</span> attributedString2</code></pre>
-<p>Much better!</p>
+The official way to do this is by using the `UIAccessibilitySpeechAttributeIPANotation` key in an attributed string, but in practice using that just makes your sounds come out poorly.
+
+An easier way that also produces better results is just to use your own phonetic lettering. For example:
+
+```swift
+label.text = "read"
+label.accessibilityLabel = "red"
+```
+
+Using this approach, the screen will show “read” but VoiceOver users will hear “red” – it works for everyone.
+
+There are two places where this approach either won’t be enough or will prove extremely complicated.
+
+First, if you use foreign languages inside your app they will be read out as if they were the user’s primary language. So, French words might be pronounced as if they were English, for example.
+
+Second, if your app uses punctuation that the user needs to hear audibly, the result won’t be what you hoped for. For example, if you write some Swift code like `user.name` that will be interpreted by VoiceOver as “user (pause) name” rather than “user period name”.
+
+Both of these problems can be fixed by using special attributes of `NSAttributedString`. For example, we can specify the language for an attributed string like this:
+
+```swift
+let attributedString1 = NSAttributedString(
+    string: "Bonjour", attributes: [.accessibilitySpeechLanguage: "fr-FR"]
+)
+
+label.text = "Bonjour"
+label.accessibilityAttributedLabel = attributedString1
+```
+
+And we can tell VoiceOver to read all punctuation like this:
+
+```swift
+let attributedString2 = NSAttributedString(
+    string: "user.name", attributes: [.accessibilitySpeechPunctuation: true]
+)
+
+label.text = "user.name"
+label.accessibilityAttributedLabel = attributedString2
+```
+
+Much better!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-make-voiceover-read-characters-individually">How to make VoiceOver read characters individually</a></li><li><a href="/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext">How to help VoiceOver read specific kinds of text using accessibilityTextualContext</a></li><li><a href="/example-code/uikit/how-to-fix-the-error-failed-to-instantiate-the-default-view-controller-for-uimainstoryboardfile">How to fix the error “Failed to instantiate the default view controller for UIMainStoryboardFile”</a></li><li><a href="/quick-start/swiftui/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable">How to fix a Form Picker or a NavigationLink that isn’t tappable</a></li><li><a href="/quick-start/swiftui/how-to-fix-ambiguous-reference-to-member-buildblock">How to fix “Ambiguous reference to member 'buildBlock()’”</a></li></ul>
+/quick-start/swiftui/how-to-make-voiceover-read-characters-individually">How to make VoiceOver read characters individually 
+/example-code/accessibility/how-to-help-voiceover-read-specific-kinds-of-text-using-accessibilitytextualcontext">How to help VoiceOver read specific kinds of text using accessibilityTextualContext 
+/example-code/uikit/how-to-fix-the-error-failed-to-instantiate-the-default-view-controller-for-uimainstoryboardfile">How to fix the error “Failed to instantiate the default view controller for UIMainStoryboardFile” 
+/quick-start/swiftui/how-to-fix-a-form-picker-or-a-navigationlink-that-isnt-tappable">How to fix a Form Picker or a NavigationLink that isn’t tappable 
+/quick-start/swiftui/how-to-fix-ambiguous-reference-to-member-buildblock">How to fix “Ambiguous reference to member 'buildBlock()’”</a>
 -->
 
 :::

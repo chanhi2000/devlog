@@ -59,46 +59,61 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Every <code>UIView</code> has an anchor point, which is the point around which animations take place. Usually this is the center of the view –&nbsp;X:0.5 Y:0.5 –&nbsp;which means if you rotate a view it will spin around its center.</p>
-<p>If you wanted the view to rotate around its top corner, as if someone had driven a nail into that point and you were spinning the view around that corner rather than the center, you can change the anchor point using the <code>layer.anchorPoint</code> property.</p>
-<p>However, there’s a problem: changing the anchor point also changes the point where the view’s position is calculated, which means changing the anchor point also moves the view’s position.</p>
-<p>So, if you want to change a view’s anchor point <em>without</em> moving it, here’s a little extension to do just that:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">UIView</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">setAnchorPoint</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> point<span class="token punctuation">:</span> <span class="token class-name">CGPoint</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">var</span> newPoint <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> bounds<span class="token punctuation">.</span>size<span class="token punctuation">.</span>width <span class="token operator">*</span> point<span class="token punctuation">.</span>x<span class="token punctuation">,</span> y<span class="token punctuation">:</span> bounds<span class="token punctuation">.</span>size<span class="token punctuation">.</span>height <span class="token operator">*</span> point<span class="token punctuation">.</span>y<span class="token punctuation">)</span>
-        <span class="token keyword">var</span> oldPoint <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> bounds<span class="token punctuation">.</span>size<span class="token punctuation">.</span>width <span class="token operator">*</span> layer<span class="token punctuation">.</span>anchorPoint<span class="token punctuation">.</span>x<span class="token punctuation">,</span> y<span class="token punctuation">:</span> bounds<span class="token punctuation">.</span>size<span class="token punctuation">.</span>height <span class="token operator">*</span> layer<span class="token punctuation">.</span>anchorPoint<span class="token punctuation">.</span>y<span class="token punctuation">)</span><span class="token punctuation">;</span>
+Every `UIView` has an anchor point, which is the point around which animations take place. Usually this is the center of the view – X:0.5 Y:0.5 – which means if you rotate a view it will spin around its center.
 
-        newPoint <span class="token operator">=</span> newPoint<span class="token punctuation">.</span><span class="token function">applying</span><span class="token punctuation">(</span>transform<span class="token punctuation">)</span>
-        oldPoint <span class="token operator">=</span> oldPoint<span class="token punctuation">.</span><span class="token function">applying</span><span class="token punctuation">(</span>transform<span class="token punctuation">)</span>
+If you wanted the view to rotate around its top corner, as if someone had driven a nail into that point and you were spinning the view around that corner rather than the center, you can change the anchor point using the `layer.anchorPoint` property.
 
-        <span class="token keyword">var</span> position <span class="token operator">=</span> layer<span class="token punctuation">.</span>position
+However, there’s a problem: changing the anchor point also changes the point where the view’s position is calculated, which means changing the anchor point also moves the view’s position.
 
-        position<span class="token punctuation">.</span>x <span class="token operator">-=</span> oldPoint<span class="token punctuation">.</span>x
-        position<span class="token punctuation">.</span>x <span class="token operator">+=</span> newPoint<span class="token punctuation">.</span>x
+So, if you want to change a view’s anchor point *without* moving it, here’s a little extension to do just that:
 
-        position<span class="token punctuation">.</span>y <span class="token operator">-=</span> oldPoint<span class="token punctuation">.</span>y
-        position<span class="token punctuation">.</span>y <span class="token operator">+=</span> newPoint<span class="token punctuation">.</span>y
+```swift
+extension UIView {
+    func setAnchorPoint(_ point: CGPoint) {
+        var newPoint = CGPoint(x: bounds.size.width * point.x, y: bounds.size.height * point.y)
+        var oldPoint = CGPoint(x: bounds.size.width * layer.anchorPoint.x, y: bounds.size.height * layer.anchorPoint.y);
 
-        layer<span class="token punctuation">.</span>position <span class="token operator">=</span> position
-        layer<span class="token punctuation">.</span>anchorPoint <span class="token operator">=</span> point
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If you want to see that in action, here’s some code to create a blue <code>UIView</code> then animate it rotating around its top-left corner:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> box <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span>frame<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">50</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">256</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-box<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token punctuation">.</span>blue
-view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>box<span class="token punctuation">)</span>
+        newPoint = newPoint.applying(transform)
+        oldPoint = oldPoint.applying(transform)
 
-box<span class="token punctuation">.</span><span class="token function">setAnchorPoint</span><span class="token punctuation">(</span><span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+        var position = layer.position
 
-<span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">3</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    box<span class="token punctuation">.</span>transform <span class="token operator">=</span> <span class="token class-name">CGAffineTransform</span><span class="token punctuation">(</span>rotationAngle<span class="token punctuation">:</span> <span class="token punctuation">.</span>pi<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+        position.x -= oldPoint.x
+        position.x += newPoint.x
+
+        position.y -= oldPoint.y
+        position.y += newPoint.y
+
+        layer.position = position
+        layer.anchorPoint = point
+    }
+}
+```
+
+If you want to see that in action, here’s some code to create a blue `UIView` then animate it rotating around its top-left corner:
+
+```swift
+let box = UIView(frame: CGRect(x: 50, y: 50, width: 256, height: 256))
+box.backgroundColor = .blue
+view.addSubview(box)
+
+box.setAnchorPoint(CGPoint(x: 0, y: 0))
+
+UIView.animate(withDuration: 3) {
+    box.transform = CGAffineTransform(rotationAngle: .pi)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle">How to detect whether a scrollview is currently moving or is idle</a></li><li><a href="/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer">How to add a custom initializer to a struct without losing its memberwise initializer</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/strings/how-to-specify-floating-point-precision-in-a-string">How to specify floating-point precision in a string</a></li><li><a href="/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect</a></li></ul>
+/quick-start/swiftui/how-to-detect-whether-a-scrollview-is-currently-moving-or-is-idle">How to detect whether a scrollview is currently moving or is idle 
+/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer">How to add a custom initializer to a struct without losing its memberwise initializer 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/strings/how-to-specify-floating-point-precision-in-a-string">How to specify floating-point precision in a string 
+/example-code/core-graphics/how-to-calculate-the-point-where-two-lines-intersect">How to calculate the point where two lines intersect</a>
 -->
 
 :::

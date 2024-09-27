@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift strings have a built-in initializer that lets you create strings by repeating a string a certain number of times. To use it, just provide the string to repeat and a count as its two parameters, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token class-name">String</span><span class="token punctuation">(</span>repeating<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"a"</span></span><span class="token punctuation">,</span> count<span class="token punctuation">:</span> <span class="token number">5</span><span class="token punctuation">)</span></code></pre>
-<p>That will set <code>str</code> to “aaaaa”.</p>
+Swift strings have a built-in initializer that lets you create strings by repeating a string a certain number of times. To use it, just provide the string to repeat and a count as its two parameters, like this:
+
+```swift
+let str = String(repeating: "a", count: 5)
+```
+
+That will set `str` to “aaaaa”.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed">How to make buttons that repeat their action when pressed</a></li><li><a href="/example-code/xcode/how-to-repeat-code-when-debugging-using-the-instruction-pointer">How to repeat code when debugging using the instruction pointer</a></li><li><a href="/example-code/system/how-to-make-an-action-repeat-using-timer">How to make an action repeat using Timer</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a></li></ul>
+/quick-start/swiftui/how-to-make-buttons-that-repeat-their-action-when-pressed">How to make buttons that repeat their action when pressed 
+/example-code/xcode/how-to-repeat-code-when-debugging-using-the-instruction-pointer">How to repeat code when debugging using the instruction pointer 
+/example-code/system/how-to-make-an-action-repeat-using-timer">How to make an action repeat using Timer 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/example-code/strings/how-to-calculate-the-rot13-of-a-string">How to calculate the ROT13 of a string</a>
 -->
 
 :::

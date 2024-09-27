@@ -59,34 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>iOS has a simple way to request a user's location just once, and it's called <code>requestLocation()</code>. Calling this method returns immediately (meaning that your code carries on executing) but when iOS has managed (or failed) to get a fix on the user's location you will be told. Below is a complete example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">CoreLocation</span>
-<span class="token keyword">import</span> <span class="token class-name">UIKit</span>
+iOS has a simple way to request a user's location just once, and it's called `requestLocation()`. Calling this method returns immediately (meaning that your code carries on executing) but when iOS has managed (or failed) to get a fix on the user's location you will be told. Below is a complete example:
 
-<span class="token keyword">class</span> <span class="token class-name">ViewController</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span><span class="token punctuation">,</span> <span class="token class-name">CLLocationManagerDelegate</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> manager <span class="token operator">=</span> <span class="token class-name">CLLocationManager</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+```swift
+import CoreLocation
+import UIKit
 
-    <span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        manager<span class="token punctuation">.</span>delegate <span class="token operator">=</span> <span class="token keyword">self</span>
-        manager<span class="token punctuation">.</span><span class="token function">requestLocation</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
+class ViewController: UIViewController, CLLocationManagerDelegate {
+    let manager = CLLocationManager()
 
-    <span class="token keyword">func</span> <span class="token function-definition function">locationManager</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> manager<span class="token punctuation">:</span> <span class="token class-name">CLLocationManager</span><span class="token punctuation">,</span> didUpdateLocations locations<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">CLLocation</span><span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">if</span> <span class="token keyword">let</span> location <span class="token operator">=</span> locations<span class="token punctuation">.</span>first <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Found user's location: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">location</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
+    override func viewDidLoad() {
+        manager.delegate = self
+        manager.requestLocation()
+    }
 
-    <span class="token keyword">func</span> <span class="token function-definition function">locationManager</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> manager<span class="token punctuation">:</span> <span class="token class-name">CLLocationManager</span><span class="token punctuation">,</span> didFailWithError error<span class="token punctuation">:</span> <span class="token class-name">Error</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to find user's location: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+        if let location = locations.first {
+            print("Found user's location: \(location)")
+        }
+    }
+
+    func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
+        print("Failed to find user's location: \(error.localizedDescription)")
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/learn-once-apply-anywhere">Learn once, apply anywhere</a></li><li><a href="/example-code/location/how-to-look-up-a-location-with-mklocalsearchrequest">How to look up a location with MKLocalSearch.Request</a></li><li><a href="/example-code/games/how-to-find-a-touchs-location-in-a-node-using-locationin">How to find a touch's location in a node using location(in:)</a></li><li><a href="/quick-start/swiftui/how-to-read-the-users-location-using-locationbutton">How to read the user’s location using LocationButton</a></li><li><a href="/example-code/uikit/how-to-find-a-touchs-location-in-a-view-with-locationin">How to find a touch's location in a view with location(in:)</a></li></ul>
+/quick-start/swiftui/learn-once-apply-anywhere">Learn once, apply anywhere 
+/example-code/location/how-to-look-up-a-location-with-mklocalsearchrequest">How to look up a location with MKLocalSearch.Request 
+/example-code/games/how-to-find-a-touchs-location-in-a-node-using-locationin">How to find a touch's location in a node using location(in:) 
+/quick-start/swiftui/how-to-read-the-users-location-using-locationbutton">How to read the user’s location using LocationButton 
+/example-code/uikit/how-to-find-a-touchs-location-in-a-view-with-locationin">How to find a touch's location in a view with location(in:)</a>
 -->
 
 :::

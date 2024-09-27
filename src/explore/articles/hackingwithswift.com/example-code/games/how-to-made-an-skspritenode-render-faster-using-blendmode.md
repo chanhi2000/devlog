@@ -59,16 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All SpriteKit nodes have a <code>blendMode</code> property that describes how they should be drawn to the screen. The default value is <code>.alpha</code>, which means the sprite should be drawn so that its alpha transparency is respected –&nbsp;any parts that are translucent get blended with the existing background color at that point, and any fully transparent parts are not drawn at all.</p>
-<p>Alpha drawing is obviously a sensible default, because it allows us to render sprites with irregular shapes and holes. However, if you know for a fact that your sprite is completely rectangular and has no holes then using <code>.alpha</code> is wasteful – SpriteKit is forced to do alpha blending even though it isn’t required. This is particularly common with background images: if they are designed to fill the full screen, there’s no need to make them drawing using <code>.alpha</code>. </p>
-<p>To fix this –&nbsp;and make such drawing significantly faster – change the blend mode of opaque sprites to be <code>.replace</code>, which ignores any alpha in the texture:</p>
-<pre class=" language-swift"><code class=" language-swift">background<span class="token punctuation">.</span>blendMode <span class="token operator">=</span> <span class="token punctuation">.</span>replace</code></pre>
+All SpriteKit nodes have a `blendMode` property that describes how they should be drawn to the screen. The default value is `.alpha`, which means the sprite should be drawn so that its alpha transparency is respected – any parts that are translucent get blended with the existing background color at that point, and any fully transparent parts are not drawn at all.
+
+Alpha drawing is obviously a sensible default, because it allows us to render sprites with irregular shapes and holes. However, if you know for a fact that your sprite is completely rectangular and has no holes then using `.alpha` is wasteful – SpriteKit is forced to do alpha blending even though it isn’t required. This is particularly common with background images: if they are designed to fill the full screen, there’s no need to make them drawing using `.alpha`. 
+
+To fix this – and make such drawing significantly faster – change the blend mode of opaque sprites to be `.replace`, which ignores any alpha in the texture:
+
+```swift
+background.blendMode = .replace
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader</a></li><li><a href="/example-code/games/how-to-color-an-skspritenode-using-colorblendfactor">How to color an SKSpriteNode using colorBlendFactor</a></li><li><a href="/example-code/uikit/how-to-render-shadows-using-nsshadow-and-setshadow">How to render shadows using NSShadow and setShadow()</a></li></ul>
+/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode 
+/example-code/games/how-to-add-pixel-perfect-physics-to-an-skspritenode">How to add pixel-perfect physics to an SKSpriteNode 
+/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader 
+/example-code/games/how-to-color-an-skspritenode-using-colorblendfactor">How to color an SKSpriteNode using colorBlendFactor 
+/example-code/uikit/how-to-render-shadows-using-nsshadow-and-setshadow">How to render shadows using NSShadow and setShadow()</a>
 -->
 
 ---

@@ -59,18 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>iOS 11 introduced a new design for navigation bar titles, allowing developers to enable large titles for view controllers that needed to be particularly prominent.</p>
-<p>By default these large titles are disabled, but you can enable them with one line of code in your navigation controller’s top view controller:</p>
-<pre class=" language-swift"><code class=" language-swift">navigationController<span class="token operator">?</span><span class="token punctuation">.</span>navigationBar<span class="token punctuation">.</span>prefersLargeTitles <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
-<p>That will enable large titles for all view controllers that subsequently get pushed, but you can be more selective by adjusting the <code>navigationItem.largeTitleDisplayMode</code> property of your view controllers.</p>
-<p>For example, if you wanted subsequent view controllers to never use large titles, you would put this into their <code>viewDidLoad()</code> method:</p>
-<pre class=" language-swift"><code class=" language-swift">navigationItem<span class="token punctuation">.</span>largeTitleDisplayMode <span class="token operator">=</span> <span class="token punctuation">.</span>never</code></pre>
+iOS 11 introduced a new design for navigation bar titles, allowing developers to enable large titles for view controllers that needed to be particularly prominent.
+
+By default these large titles are disabled, but you can enable them with one line of code in your navigation controller’s top view controller:
+
+```swift
+navigationController?.navigationBar.prefersLargeTitles = true
+```
+
+That will enable large titles for all view controllers that subsequently get pushed, but you can be more selective by adjusting the `navigationItem.largeTitleDisplayMode` property of your view controllers.
+
+For example, if you wanted subsequent view controllers to never use large titles, you would put this into their `viewDidLoad()` method:
+
+```swift
+navigationItem.largeTitleDisplayMode = .never
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/quick-start/swiftui/how-to-enable-pull-to-refresh">How to enable pull to refresh</a></li><li><a href="/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a></li><li><a href="/quick-start/swiftui/how-to-enable-editing-on-a-list-using-editbutton">How to enable editing on a list using EditButton</a></li><li><a href="/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a></li></ul>
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/quick-start/swiftui/how-to-enable-pull-to-refresh">How to enable pull to refresh 
+/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar 
+/quick-start/swiftui/how-to-enable-editing-on-a-list-using-editbutton">How to enable editing on a list using EditButton 
+/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a>
 -->
 
 :::

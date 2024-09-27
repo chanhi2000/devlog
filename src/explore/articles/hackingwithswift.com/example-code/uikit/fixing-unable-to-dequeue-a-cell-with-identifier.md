@@ -59,30 +59,53 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>This error usually means there's a problem with your cell prototypes. There are two main reasons why table views fail to return cells, but they give different error messages. If you get an error like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">Terminating</span> app due to uncaught exception '<span class="token class-name">NSInternalInconsistencyException</span>'<span class="token punctuation">,</span> reason<span class="token punctuation">:</span> 'unable to dequeue a cell with identifier <span class="token class-name">Cell</span> <span class="token operator">-</span> must register a nib or a <span class="token keyword">class</span> <span class="token keyword">for</span> the identifier or connect a prototype cell <span class="token keyword">in</span> a storyboard'</code></pre>
-<p>…it means that your call to <code>dequeueReusableCell(withIdentifier:)</code> is failing, which is usually caused by having no prototype cells with the identifier you requested.</p>
-<p>First: check that you have a prototype cell registered. By default you should have one in the storyboard, but if you created your own table view then you might have moved things around. You might also have registered one in code.</p>
-<p>Second: check that your spelling of the identified is correct. It's "Cell" by default, in the code and in the storyboard, and these two things need to match in order for everything to work.</p>
-<p>You can verify the error by placing a breakpoint in your <code>cellForRowAtIndexPath</code> method. For example, if you have code like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">tableView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> tableView<span class="token punctuation">:</span> <span class="token class-name">UITableView</span><span class="token punctuation">,</span> cellForRowAt indexPath<span class="token punctuation">:</span> <span class="token class-name">IndexPath</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">UITableViewCell</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> cell <span class="token operator">=</span> tableView<span class="token punctuation">.</span><span class="token function">dequeueReusableCell</span><span class="token punctuation">(</span>withIdentifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Cell"</span></span><span class="token punctuation">)</span><span class="token operator">!</span>
-    <span class="token keyword">let</span> object <span class="token operator">=</span> objects<span class="token punctuation">[</span>indexPath<span class="token punctuation">.</span>row<span class="token punctuation">]</span>
-    cell<span class="token punctuation">.</span>textLabel<span class="token operator">?</span><span class="token punctuation">.</span>text <span class="token operator">=</span> object
-    <span class="token keyword">return</span> cell
-<span class="token punctuation">}</span></code></pre>
-<p>…then you should set the breakpoint on the <code>let object =</code> line. If the problem is that <code>tableView.dequeueReusableCell(withIdentifier:)</code> is failing, your breakpoint won't be hit.</p>
-<p>If you're using modern Xcode templates where you get a prototype cell made for you, you should probably be using this instead:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> cell <span class="token operator">=</span> tableView<span class="token punctuation">.</span><span class="token function">dequeueReusableCell</span><span class="token punctuation">(</span>withIdentifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Cell"</span></span><span class="token punctuation">,</span> <span class="token keyword">for</span><span class="token punctuation">:</span> indexPath<span class="token punctuation">)</span></code></pre>
-<p>You should then ensure a prototype cell exists in your tableview with that identifier – double check the name, and make sure you've typed it into the "Identifier" box and not "Class" or something else.</p>
-<p>If you aren't using an Xcode template, use that line of code anyway then register your own re-use identifier like this:</p>
-<pre class=" language-swift"><code class=" language-swift">tableView<span class="token punctuation">.</span><span class="token function">register</span><span class="token punctuation">(</span><span class="token class-name">UITableViewCell</span><span class="token punctuation">.</span><span class="token keyword">self</span><span class="token punctuation">,</span> forCellReuseIdentifier<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Cell"</span></span><span class="token punctuation">)</span></code></pre>
+This error usually means there's a problem with your cell prototypes. There are two main reasons why table views fail to return cells, but they give different error messages. If you get an error like this:
+
+```swift
+Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'unable to dequeue a cell with identifier Cell - must register a nib or a class for the identifier or connect a prototype cell in a storyboard'
+```
+
+…it means that your call to `dequeueReusableCell(withIdentifier:)` is failing, which is usually caused by having no prototype cells with the identifier you requested.
+
+First: check that you have a prototype cell registered. By default you should have one in the storyboard, but if you created your own table view then you might have moved things around. You might also have registered one in code.
+
+Second: check that your spelling of the identified is correct. It's "Cell" by default, in the code and in the storyboard, and these two things need to match in order for everything to work.
+
+You can verify the error by placing a breakpoint in your `cellForRowAtIndexPath` method. For example, if you have code like this:
+
+```swift
+override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+    let cell = tableView.dequeueReusableCell(withIdentifier: "Cell")!
+    let object = objects[indexPath.row]
+    cell.textLabel?.text = object
+    return cell
+}
+```
+
+…then you should set the breakpoint on the `let object =` line. If the problem is that `tableView.dequeueReusableCell(withIdentifier:)` is failing, your breakpoint won't be hit.
+
+If you're using modern Xcode templates where you get a prototype cell made for you, you should probably be using this instead:
+
+```swift
+let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
+```
+
+You should then ensure a prototype cell exists in your tableview with that identifier – double check the name, and make sure you've typed it into the "Identifier" box and not "Class" or something else.
+
+If you aren't using an Xcode template, use that line of code anyway then register your own re-use identifier like this:
+
+```swift
+tableView.register(UITableViewCell.self, forCellReuseIdentifier: "Cell")
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource"</a></li><li><a href="/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers"</a></li><li><a href="/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a></li></ul>
+/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource" 
+/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers" 
+/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a>
 -->
 
 :::

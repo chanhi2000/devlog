@@ -59,17 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p><code>UIViewPropertyAnimator</code> is an incredibly easy way to build custom animations on iOS, making it trivial to support scrubbable, reversible animations. However, by default scrubbing behaves differently from your regular animation: scrubbing always happens linearly, even if your animation was performed using a curve such as ease-in-ease-out.</p>
-<p>This is actually a feature rather than a bug, and it’s incredibly intelligent –&nbsp;iOS automatically maps your curve onto a linear animation at the same point, and does the same in reverse, because it can be confusing for users if they try to scrub an animation and it doesn’t follow their finger.</p>
-<p>On the flip side, of you’re scrubbing an animation programmatically this behavior isn’t always desirable. Fortunately, iOS 11 introduced a <code>scrubsLinearly</code> property for <code>UIViewPropertyAnimator</code>: set this to false to make scrubbing retain your custom animation curve.</p>
-<p>The default setting is true, which makes <code>UIViewPropertyAnimator</code> continue working like it did on iOS 10. To change it, just add this code:</p>
-<pre class=" language-swift"><code class=" language-swift">animator<span class="token punctuation">.</span>scrubsLinearly <span class="token operator">=</span> <span class="token boolean">false</span></code></pre>
+`UIViewPropertyAnimator` is an incredibly easy way to build custom animations on iOS, making it trivial to support scrubbable, reversible animations. However, by default scrubbing behaves differently from your regular animation: scrubbing always happens linearly, even if your animation was performed using a curve such as ease-in-ease-out.
+
+This is actually a feature rather than a bug, and it’s incredibly intelligent – iOS automatically maps your curve onto a linear animation at the same point, and does the same in reverse, because it can be confusing for users if they try to scrub an animation and it doesn’t follow their finger.
+
+On the flip side, of you’re scrubbing an animation programmatically this behavior isn’t always desirable. Fortunately, iOS 11 introduced a `scrubsLinearly` property for `UIViewPropertyAnimator`: set this to false to make scrubbing retain your custom animation curve.
+
+The default setting is true, which makes `UIViewPropertyAnimator` continue working like it did on iOS 10. To change it, just add this code:
+
+```swift
+animator.scrubsLinearly = false
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme</a></li><li><a href="/example-code/language/how-to-make-custom-types-from-strings-using-expressiblebystringliteral">How to make custom types from strings using ExpressibleByStringLiteral</a></li></ul>
+/example-code/uikit/how-to-animate-views-using-uiviewpropertyanimator">How to animate views using UIViewPropertyAnimator 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme 
+/example-code/language/how-to-make-custom-types-from-strings-using-expressiblebystringliteral">How to make custom types from strings using ExpressibleByStringLiteral</a>
 -->
 
 :::

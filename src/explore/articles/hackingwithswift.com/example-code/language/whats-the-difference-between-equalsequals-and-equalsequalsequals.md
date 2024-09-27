@@ -59,17 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift gives us two equality operators, <code>==</code> and <code>===</code>, that do slightly different things. You will almost certainly need to use both of them so it’s worth taking the time to learn them.</p>
-<p>First, <code>==</code> is the equality operator, which tests that two things are equal for whatever definition of “equal” those things use. For example, <code>5 == 5</code> is true because there <code>==</code> means an integer comparison, and the same is true for other built-in value types such as strings, booleans, and doubles.</p>
-<p>Things get more complicated when <code>==</code> is used with a struct you built, because by default they cannot be compared –&nbsp;you need to make them conform to the <code>Equatable</code> protocol.</p>
-<p>In comparison, <code>===</code> is the <em>identity operator</em>, which checks whether two instances of a class point to the same memory. This is different from equality, because two objects that were created independently using the same values will be considered equal using <code>==</code> but not <code>===</code> because they are different objects.</p>
-<p>The <code>===</code> operator is available only when using classes because structs are designed so they are always uniquely referenced.</p>
+Swift gives us two equality operators, `==` and `===`, that do slightly different things. You will almost certainly need to use both of them so it’s worth taking the time to learn them.
+
+First, `==` is the equality operator, which tests that two things are equal for whatever definition of “equal” those things use. For example, `5 == 5` is true because there `==` means an integer comparison, and the same is true for other built-in value types such as strings, booleans, and doubles.
+
+Things get more complicated when `==` is used with a struct you built, because by default they cannot be compared – you need to make them conform to the `Equatable` protocol.
+
+In comparison, `===` is the *identity operator*, which checks whether two instances of a class point to the same memory. This is different from equality, because two objects that were created independently using the same values will be considered equal using `==` but not `===` because they are different objects.
+
+The `===` operator is available only when using classes because structs are designed so they are always uniquely referenced.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a>
 -->
 
 :::

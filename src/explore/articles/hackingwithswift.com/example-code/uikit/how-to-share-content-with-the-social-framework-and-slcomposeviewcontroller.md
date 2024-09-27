@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-6.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,42 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 6.0
 
 <!-- TODO: 작성 -->
 
 <!--
+The `UIActivityViewController` class is the iOS way of sharing almost anything to almost anywhere, but what if you don't want to let users choose? Well, iOS has a tool for that too, although it’s part of the Social framework that get deprecated in iOS 11. That doesn’t mean you can’t use it, but it does mean at some point in the distant future Apple may withdraw it.
+
+Start by importing the Social framework now now:
+
+```swift
+import Social
+```
+
+You can now create and present a `SLComposeViewController` that allows the user to share to Facebook like this:
+
+```swift
+if let vc = SLComposeViewController(forServiceType: SLServiceTypeFacebook) {
+    vc.setInitialText("Look at this great picture!")
+    vc.add(UIImage(named: "myImage.jpg")!)
+    vc.add(URL(string: "https://www.hackingwithswift.com"))
+    present(vc, animated: true)
+}
+```
+
+That attaches initial text, an image and a URL all to that share sheet, although the user can customize the text before posting. If you want to use Twitter instead, try using `SLServiceTypeTwitter` instead.
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/quick-start/swiftui/how-to-let-users-share-content-using-the-system-share-sheet">How to let users share content using the system share sheet 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/networking/how-to-create-a-peer-to-peer-network-using-the-multipeer-connectivity-framework">How to create a peer-to-peer network using the multipeer connectivity framework 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a>
 -->
 
 :::

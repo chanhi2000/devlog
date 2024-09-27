@@ -59,28 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>By default, all methods listed in a Swift protocol must be implementing in a conforming type. However, there are two ways you can work around this restriction depending on your need.</p>
-<p>The first option is to mark your protocol using the <code>@objc</code> attribute. While this means it can be adopted only by classes, it <em>does</em> mean you mark individual methods as being <code>optional</code> like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token attribute atrule">@objc</span> <span class="token keyword">protocol</span> <span class="token class-name">ObjcPrintable</span> <span class="token punctuation">{</span>
-    <span class="token attribute atrule">@objc</span> <span class="token keyword">optional</span> <span class="token keyword">func</span> <span class="token function-definition function">canPrint</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If possible, the second option is usually better: write default implementations of the optional methods that do nothing, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">protocol</span> <span class="token class-name">Printable</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">canPrint</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span>
-<span class="token punctuation">}</span>
+By default, all methods listed in a Swift protocol must be implementing in a conforming type. However, there are two ways you can work around this restriction depending on your need.
 
-<span class="token keyword">extension</span> <span class="token class-name">Printable</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">canPrint</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">Bool</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token boolean">true</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Remember, optional methods exist because you can provide sensible default behavior without them. In the above example it seems fair to make <code>Printable</code> things return true from <code>canPrint()</code> by default, because if someone wants to write an authentication layer for specific things they can implement their own version.</p>
+The first option is to mark your protocol using the `@objc` attribute. While this means it can be adopted only by classes, it *does* mean you mark individual methods as being `optional` like this:
+
+```swift
+@objc protocol ObjcPrintable {
+    @objc optional func canPrint() -> Bool
+}
+```
+
+If possible, the second option is usually better: write default implementations of the optional methods that do nothing, like this:
+
+```swift
+protocol Printable {
+    func canPrint() -> Bool
+}
+
+extension Printable {
+    func canPrint() -> Bool {
+        return true
+    }
+}
+```
+
+Remember, optional methods exist because you can provide sensible default behavior without them. In the above example it seems fair to make `Printable` things return true from `canPrint()` by default, because if someone wants to write an authentication layer for specific things they can implement their own version.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/language/what-is-optional-chaining">What is optional chaining?</a></li><li><a href="/example-code/language/how-to-use-flatmap-with-an-optional-value">How to use flatMap() with an optional value</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li><li><a href="/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift</a></li></ul>
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/language/what-is-optional-chaining">What is optional chaining? 
+/example-code/language/how-to-use-flatmap-with-an-optional-value">How to use flatMap() with an optional value 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift? 
+/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift</a>
 -->
 
 :::

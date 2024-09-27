@@ -59,37 +59,45 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Core Image has a number of feature detectors built right in, including the ability to detect faces, eyes, mouths, smiles and even blinking in pictures. When you ask it to look for faces in a picture, it will return you an array of all the faces it found, with each one containing face feature details such as eye position. Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> inputImage <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"taylor-swift"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> ciImage <span class="token operator">=</span> <span class="token class-name">CIImage</span><span class="token punctuation">(</span>cgImage<span class="token punctuation">:</span> inputImage<span class="token punctuation">.</span>cgImage<span class="token operator">!</span><span class="token punctuation">)</span>
+Core Image has a number of feature detectors built right in, including the ability to detect faces, eyes, mouths, smiles and even blinking in pictures. When you ask it to look for faces in a picture, it will return you an array of all the faces it found, with each one containing face feature details such as eye position. Here's an example:
 
-    <span class="token keyword">let</span> options <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token class-name">CIDetectorAccuracy</span><span class="token punctuation">:</span> <span class="token class-name">CIDetectorAccuracyHigh</span><span class="token punctuation">]</span>
-    <span class="token keyword">let</span> faceDetector <span class="token operator">=</span> <span class="token class-name">CIDetector</span><span class="token punctuation">(</span>ofType<span class="token punctuation">:</span> <span class="token class-name">CIDetectorTypeFace</span><span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> options<span class="token punctuation">)</span><span class="token operator">!</span>
+```swift
+if let inputImage = UIImage(named: "taylor-swift") {
+    let ciImage = CIImage(cgImage: inputImage.cgImage!)
 
-    <span class="token keyword">let</span> faces <span class="token operator">=</span> faceDetector<span class="token punctuation">.</span><span class="token function">features</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> ciImage<span class="token punctuation">)</span>
+    let options = [CIDetectorAccuracy: CIDetectorAccuracyHigh]
+    let faceDetector = CIDetector(ofType: CIDetectorTypeFace, context: nil, options: options)!
 
-    <span class="token keyword">if</span> <span class="token keyword">let</span> face <span class="token operator">=</span> faces<span class="token punctuation">.</span>first <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">CIFaceFeature</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Found face at </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">face<span class="token punctuation">.</span>bounds</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
+    let faces = faceDetector.features(in: ciImage)
 
-        <span class="token keyword">if</span> face<span class="token punctuation">.</span>hasLeftEyePosition <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Found left eye at </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">face<span class="token punctuation">.</span>leftEyePosition</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
+    if let face = faces.first as? CIFaceFeature {
+        print("Found face at \(face.bounds)")
 
-        <span class="token keyword">if</span> face<span class="token punctuation">.</span>hasRightEyePosition <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Found right eye at </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">face<span class="token punctuation">.</span>rightEyePosition</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
+        if face.hasLeftEyePosition {
+            print("Found left eye at \(face.leftEyePosition)")
+        }
 
-        <span class="token keyword">if</span> face<span class="token punctuation">.</span>hasMouthPosition <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Found mouth at </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">face<span class="token punctuation">.</span>mouthPosition</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+        if face.hasRightEyePosition {
+            print("Found right eye at \(face.rightEyePosition)")
+        }
+
+        if face.hasMouthPosition {
+            print("Found mouth at \(face.mouthPosition)")
+        }
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li><li><a href="/example-code/media/how-to-save-a-uiimage-to-a-file-using-jpegdata-and-pngdata">How to save a UIImage to a file using jpegData() and pngData()</a></li><li><a href="/example-code/media/how-to-read-the-average-color-of-a-uiimage-using-ciareaaverage">How to read the average color of a UIImage using CIAreaAverage</a></li><li><a href="/example-code/media/how-to-pixellate-a-uiimage">How to pixellate a UIImage</a></li><li><a href="/example-code/media/how-to-render-a-uiview-to-a-uiimage">How to render a UIView to a UIImage</a></li></ul>
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently 
+/example-code/media/how-to-save-a-uiimage-to-a-file-using-jpegdata-and-pngdata">How to save a UIImage to a file using jpegData() and pngData() 
+/example-code/media/how-to-read-the-average-color-of-a-uiimage-using-ciareaaverage">How to read the average color of a UIImage using CIAreaAverage 
+/example-code/media/how-to-pixellate-a-uiimage">How to pixellate a UIImage 
+/example-code/media/how-to-render-a-uiview-to-a-uiimage">How to render a UIView to a UIImage</a>
 -->
 
 :::

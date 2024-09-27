@@ -26,6 +26,17 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Colab
+
+- [Knowledge Distillation](https://colab.research.google.com/drive/1iw3TPRBSXOd5EgXLJbTiN6uFO1mCoq6C)
+- [`Selecting_an_embedding_model_for_custom_data.ipynb`](https://colab.research.google.com/drive/132oXSGSOyzZ7GO9pJhRKlvwY4F-i9Pm6)
+
+<!-- END: colab.research.google.com -->
+
+---
+
 ## pdf(s)
 
 - [OLMo : Accelerating the Science of Language Models](https://allenai.org/olmo/olmo-paper.pdf)
@@ -37,6 +48,8 @@ head:
 <PDF url="https://arxiv.org/pdf/2407.21059" />
 <PDF url="https://arxiv.org/pdf/2408.11039" />
 <PDF url="https://arxiv.org/pdf/2409.12089" />
+<PDF url="https://arxiv.org/pdf/1503.02531" />
+<PDF url="https://arxiv.org/pdf/2407.16833" />
 
 ---
 
@@ -54,6 +67,7 @@ head:
 - [`aksh-garg` / Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
 - [`jhk0530` / LG의 오픈소스 AI, 엑사원 3.0 사용후기](https://jhk0530.medium.com/lg-exaone-3-0-0e7221db6356?source=rss-cb820693bed5------2)
+- [`datastrato` / Building A Universal Data Agent in 15 Minutes with LlamaIndex and Apache Gravitino (incubating)](https://medium.com/datastrato/building-a-universal-data-agent-in-15-minutes-with-llamaindex-and-apache-gravitino-incubating-401ea24a3b39)
 
 <!-- END: medium.com -->
 
@@ -289,6 +303,9 @@ head:
   - [Triton Inference Server 모델서빙1 - NVIDA Triton(트리톤)이란?](https://pearlluck.tistory.com/m/821)
   - [Embedding을 저장하는 VectorDB 그리고 벡터 유사도 검색 Indexing](https://pearlluck.tistory.com/m/824)
   <!-- END: pearlluck -->
+- [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
+  - [미드저니에서 원하는 요소 제거하기: `--no` 옵션과 멀티 프롬프트](https://kesakiyo.tistory.com/m/entry/%EB%AF%B8%EB%93%9C%EC%A0%80%EB%8B%88%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-no-%EC%98%B5%EC%85%98%EA%B3%BC-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
+  <!-- END: kesakiyo -->
 <!-- END: tistory.com -->
 
 ---

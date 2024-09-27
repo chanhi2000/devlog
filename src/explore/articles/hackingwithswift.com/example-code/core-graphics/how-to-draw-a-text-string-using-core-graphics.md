@@ -59,23 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>To draw text in Core Graphics is trivial because every Swift string has a built-in <code>draw(with:)</code> method that takes an array of attributes and a position and size. There is, like always, some Core Graphics set up work to do, but this next code snippet is a complete example you can re-use easily:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> renderer <span class="token operator">=</span> <span class="token class-name">UIGraphicsImageRenderer</span><span class="token punctuation">(</span>size<span class="token punctuation">:</span> <span class="token class-name">CGSize</span><span class="token punctuation">(</span>width<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">512</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> img <span class="token operator">=</span> renderer<span class="token punctuation">.</span>image <span class="token punctuation">{</span> ctx <span class="token keyword">in</span>
-    <span class="token keyword">let</span> paragraphStyle <span class="token operator">=</span> <span class="token class-name">NSMutableParagraphStyle</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    paragraphStyle<span class="token punctuation">.</span>alignment <span class="token operator">=</span> <span class="token punctuation">.</span>center
+To draw text in Core Graphics is trivial because every Swift string has a built-in `draw(with:)` method that takes an array of attributes and a position and size. There is, like always, some Core Graphics set up work to do, but this next code snippet is a complete example you can re-use easily:
 
-    <span class="token keyword">let</span> attrs <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token class-name">NSAttributedString</span><span class="token punctuation">.</span><span class="token class-name">Key</span><span class="token punctuation">.</span>font<span class="token punctuation">:</span> <span class="token class-name">UIFont</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"HelveticaNeue-Thin"</span></span><span class="token punctuation">,</span> size<span class="token punctuation">:</span> <span class="token number">36</span><span class="token punctuation">)</span><span class="token operator">!</span><span class="token punctuation">,</span> <span class="token class-name">NSAttributedString</span><span class="token punctuation">.</span><span class="token class-name">Key</span><span class="token punctuation">.</span>paragraphStyle<span class="token punctuation">:</span> paragraphStyle<span class="token punctuation">]</span>
+```swift
+let renderer = UIGraphicsImageRenderer(size: CGSize(width: 512, height: 512))
+let img = renderer.image { ctx in
+    let paragraphStyle = NSMutableParagraphStyle()
+    paragraphStyle.alignment = .center
 
-    <span class="token keyword">let</span> string <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"How much wood would a woodchuck\nchuck if a woodchuck would chuck wood?"</span></span>
-    string<span class="token punctuation">.</span><span class="token function">draw</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> <span class="token class-name">CGRect</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">32</span><span class="token punctuation">,</span> width<span class="token punctuation">:</span> <span class="token number">448</span><span class="token punctuation">,</span> height<span class="token punctuation">:</span> <span class="token number">448</span><span class="token punctuation">)</span><span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">.</span>usesLineFragmentOrigin<span class="token punctuation">,</span> attributes<span class="token punctuation">:</span> attrs<span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+    let attrs = [NSAttributedString.Key.font: UIFont(name: "HelveticaNeue-Thin", size: 36)!, NSAttributedString.Key.paragraphStyle: paragraphStyle]
+
+    let string = "How much wood would a woodchuck\nchuck if a woodchuck would chuck wood?"
+    string.draw(with: CGRect(x: 32, y: 32, width: 448, height: 448), options: .usesLineFragmentOrigin, attributes: attrs, context: nil)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-square-using-core-graphics-addrect">How to draw a square using Core Graphics: addRect()</a></li><li><a href="/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:)</a></li><li><a href="/example-code/core-graphics/how-to-draw-a-circle-using-core-graphics-addellipsein">How to draw a circle using Core Graphics: addEllipse(in:)</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/example-code/core-graphics/how-to-use-core-graphics-blend-modes-to-draw-a-uiimage-differently">How to use Core Graphics blend modes to draw a UIImage differently 
+/example-code/core-graphics/how-to-draw-a-square-using-core-graphics-addrect">How to draw a square using Core Graphics: addRect() 
+/example-code/core-graphics/how-to-draw-lines-in-core-graphics-moveto-and-addlineto">How to draw lines in Core Graphics: move(to:) and addLine(to:) 
+/example-code/core-graphics/how-to-draw-a-circle-using-core-graphics-addellipsein">How to draw a circle using Core Graphics: addEllipse(in:) 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

@@ -59,19 +59,33 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Regular sorting on comparable data is as easy as calling the <code>sort()</code> method, but if you want a <em>reverse</em> sort –&nbsp;e.g. highest to lowest numbers, or Z-A alphabetically –&nbsp;there are two options.</p>
-<p>The first is to run a regular sort, reverse that sort, then convert the result to an array. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">,</span> <span class="token number">53</span><span class="token punctuation">,</span> <span class="token number">98</span><span class="token punctuation">,</span> <span class="token number">29</span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> reversed1 <span class="token operator">=</span> <span class="token class-name">Array</span><span class="token punctuation">(</span>numbers<span class="token punctuation">.</span><span class="token function">sorted</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">reversed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>The second option is to provide a custom closure to the <code>sorted()</code> method that sorts the opposite way to the default, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> reversed2 <span class="token operator">=</span> numbers<span class="token punctuation">.</span>sorted <span class="token punctuation">{</span> <span class="token short-argument">$0</span> <span class="token operator">&gt;</span> <span class="token short-argument">$1</span> <span class="token punctuation">}</span></code></pre>
-<p>Both of those will result in the array 100, 98, 53, 29, 5.</p>
+Regular sorting on comparable data is as easy as calling the `sort()` method, but if you want a *reverse* sort – e.g. highest to lowest numbers, or Z-A alphabetically – there are two options.
+
+The first is to run a regular sort, reverse that sort, then convert the result to an array. For example:
+
+```swift
+let numbers = [100, 5, 53, 98, 29]
+let reversed1 = Array(numbers.sorted().reversed())
+```
+
+The second option is to provide a custom closure to the `sorted()` method that sorts the opposite way to the default, like this:
+
+```swift
+let reversed2 = numbers.sorted { $0 > $1 }
+```
+
+Both of those will result in the array 100, 98, 53, 29, 5.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-sort-an-array-using-sort">How to sort an array using sort()</a></li><li><a href="/example-code/arrays/how-to-loop-through-an-array-in-reverse">How to loop through an array in reverse</a></li><li><a href="/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable</a></li><li><a href="/example-code/strings/how-to-reverse-a-string-using-reversed">How to reverse a string using reversed()</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li></ul>
+/example-code/arrays/how-to-sort-an-array-using-sort">How to sort an array using sort() 
+/example-code/arrays/how-to-loop-through-an-array-in-reverse">How to loop through an array in reverse 
+/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable 
+/example-code/strings/how-to-reverse-a-string-using-reversed">How to reverse a string using reversed() 
+/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a>
 -->
 
 :::

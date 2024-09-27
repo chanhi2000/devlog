@@ -59,29 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Core Image is the one of the most powerful frameworks available to iOS developers: it makes hardware-accelerated image manipulation ridiculously easy, which means you get to add powerful graphical effects to your apps and games with very little work.</p>
-<p>Most of the work is done by choosing the right <code>CIFilter</code>. Apple's official documentation goes into great detail about the various filters you can use, and you can also read <a href="/read/13/overview">Hacking with Swift project 13</a> for a hands-on tutorial showing off various effects. The code below applies a 50% sepia tone effect to an image:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> inputImage <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"taylor-swift"</span></span><span class="token punctuation">)</span><span class="token operator">!</span>
-<span class="token keyword">let</span> context <span class="token operator">=</span> <span class="token class-name">CIContext</span><span class="token punctuation">(</span>options<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span>
+Core Image is the one of the most powerful frameworks available to iOS developers: it makes hardware-accelerated image manipulation ridiculously easy, which means you get to add powerful graphical effects to your apps and games with very little work.
 
-<span class="token keyword">if</span> <span class="token keyword">let</span> currentFilter <span class="token operator">=</span> <span class="token class-name">CIFilter</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"CISepiaTone"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> beginImage <span class="token operator">=</span> <span class="token class-name">CIImage</span><span class="token punctuation">(</span>image<span class="token punctuation">:</span> inputImage<span class="token punctuation">)</span>
-    currentFilter<span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span>beginImage<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token constant">kCIInputImageKey</span><span class="token punctuation">)</span>
-    currentFilter<span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span><span class="token number">0.5</span><span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token constant">kCIInputIntensityKey</span><span class="token punctuation">)</span>
+Most of the work is done by choosing the right `CIFilter`. Apple's official documentation goes into great detail about the various filters you can use, and you can also read <a href="/read/13/overview">Hacking with Swift project 13</a> for a hands-on tutorial showing off various effects. The code below applies a 50% sepia tone effect to an image:
 
-    <span class="token keyword">if</span> <span class="token keyword">let</span> output <span class="token operator">=</span> currentFilter<span class="token punctuation">.</span>outputImage <span class="token punctuation">{</span>
-        <span class="token keyword">if</span> <span class="token keyword">let</span> cgimg <span class="token operator">=</span> context<span class="token punctuation">.</span><span class="token function">createCGImage</span><span class="token punctuation">(</span>output<span class="token punctuation">,</span> from<span class="token punctuation">:</span> output<span class="token punctuation">.</span>extent<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-            <span class="token keyword">let</span> processedImage <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>cgImage<span class="token punctuation">:</span> cgimg<span class="token punctuation">)</span>
-            <span class="token comment">// do something interesting with the processed image</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+```swift
+let inputImage = UIImage(named: "taylor-swift")!
+let context = CIContext(options: nil)
+
+if let currentFilter = CIFilter(name: "CISepiaTone") {
+    let beginImage = CIImage(image: inputImage)
+    currentFilter.setValue(beginImage, forKey: kCIInputImageKey)
+    currentFilter.setValue(0.5, forKey: kCIInputIntensityKey)
+
+    if let output = currentFilter.outputImage {
+        if let cgimg = context.createCGImage(output, from: output.extent) {
+            let processedImage = UIImage(cgImage: cgimg)
+            // do something interesting with the processed image
+        }
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more</a>
 -->
 
 :::

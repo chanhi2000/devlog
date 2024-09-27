@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>iOS gives <code>UINavigationController</code> a simple property that masks some complex behavior. If you set <code>hidesBarsOnSwipe</code> to be true for any <code>UINavigationController</code>, then iOS automatically adds a tap gesture recognizer to your view to handle hiding (and showing) the navigation bar as needed. This means you can mimic Safari's navigation bar behavior in just one line of code, like this:</p>
-<pre class=" language-swift"><code class=" language-swift">navigationController<span class="token operator">?</span><span class="token punctuation">.</span>hidesBarsOnSwipe <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
-<p>Remember to set this back to <code>false</code> when you want to stop the behavior from happening.</p>
+iOS gives `UINavigationController` a simple property that masks some complex behavior. If you set `hidesBarsOnSwipe` to be true for any `UINavigationController`, then iOS automatically adds a tap gesture recognizer to your view to handle hiding (and showing) the navigation bar as needed. This means you can mimic Safari's navigation bar behavior in just one line of code, like this:
+
+```swift
+navigationController?.hidesBarsOnSwipe = true
+```
+
+Remember to set this back to `false` when you want to stop the behavior from happening.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars</a></li><li><a href="/example-code/uikit/how-to-hide-the-navigation-bar-using-hidesbarsontap">How to hide the navigation bar using hidesBarsOnTap</a></li><li><a href="/example-code/uikit/how-to-hide-your-navigation-bar-when-the-keyboard-shows-hidesbarswhenkeyboardappears">How to hide your navigation bar when the keyboard shows: hidesBarsWhenKeyboardAppears</a></li><li><a href="/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a></li><li><a href="/example-code/uikit/how-to-hide-the-tab-bar-when-a-view-controller-is-shown">How to hide the tab bar when a view controller is shown</a></li></ul>
+/quick-start/swiftui/how-to-hide-the-tab-bar-navigation-bar-or-other-toolbars">How to hide the tab bar, navigation bar, or other toolbars 
+/example-code/uikit/how-to-hide-the-navigation-bar-using-hidesbarsontap">How to hide the navigation bar using hidesBarsOnTap 
+/example-code/uikit/how-to-hide-your-navigation-bar-when-the-keyboard-shows-hidesbarswhenkeyboardappears">How to hide your navigation bar when the keyboard shows: hidesBarsWhenKeyboardAppears 
+/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar 
+/example-code/uikit/how-to-hide-the-tab-bar-when-a-view-controller-is-shown">How to hide the tab bar when a view controller is shown</a>
 -->
 
 :::

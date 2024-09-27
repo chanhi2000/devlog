@@ -59,26 +59,41 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Enums with associated values let you associate extra data with an enum case. This helps make them significantly more useful, because we can create gradations of cases rather than have them be absolute.</p>
-<p>For example, we could create a <code>Weather</code> enum that can store various weather types: sunny, cloudy, windy, and rainy. However, that doesn’t really describe those conditions very well –&nbsp;how cloudy is it? Is it gale force winds or just a breeze? Is the rain definitely going to happen, or is it a fairly remote chance?</p>
-<p>With enum associated values we can describe these situations more accurately. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">enum</span> <span class="token class-name">Weather</span> <span class="token punctuation">{</span>
-    <span class="token keyword">case</span> sunny
-    <span class="token keyword">case</span> <span class="token function">cloudy</span><span class="token punctuation">(</span>coverage<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span>
-    <span class="token keyword">case</span> <span class="token function">windy</span><span class="token punctuation">(</span>speed<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span>
-    <span class="token keyword">case</span> <span class="token function">rainy</span><span class="token punctuation">(</span>chance<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That leaves “sunny” as a simple value, but the other three all have associated values –&nbsp;how cloudy it is, what the speed of the wind is, and how likely the rain is.</p>
-<p>Using those values we can now create instances of those enums:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> london <span class="token operator">=</span> <span class="token class-name">Weather</span><span class="token punctuation">.</span><span class="token function">cloudy</span><span class="token punctuation">(</span>coverage<span class="token punctuation">:</span> <span class="token number">90</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> gusty <span class="token operator">=</span> <span class="token class-name">Weather</span><span class="token punctuation">.</span><span class="token function">windy</span><span class="token punctuation">(</span>speed<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> guaranteedRain <span class="token operator">=</span> <span class="token class-name">Weather</span><span class="token punctuation">.</span><span class="token function">rainy</span><span class="token punctuation">(</span>chance<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">)</span></code></pre>
+Enums with associated values let you associate extra data with an enum case. This helps make them significantly more useful, because we can create gradations of cases rather than have them be absolute.
+
+For example, we could create a `Weather` enum that can store various weather types: sunny, cloudy, windy, and rainy. However, that doesn’t really describe those conditions very well – how cloudy is it? Is it gale force winds or just a breeze? Is the rain definitely going to happen, or is it a fairly remote chance?
+
+With enum associated values we can describe these situations more accurately. For example:
+
+```swift
+enum Weather {
+    case sunny
+    case cloudy(coverage: Int)
+    case windy(speed: Int)
+    case rainy(chance: Int)
+}
+```
+
+That leaves “sunny” as a simple value, but the other three all have associated values – how cloudy it is, what the speed of the wind is, and how likely the rain is.
+
+Using those values we can now create instances of those enums:
+
+```swift
+let london = Weather.cloudy(coverage: 90)
+let gusty = Weather.windy(speed: 10)
+let guaranteedRain = Weather.rainy(chance: 100)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums</a></li><li><a href="/example-code/language/what-is-a-protocol-associated-type">What is a protocol associated type?</a></li><li><a href="/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type</a></li><li><a href="/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”</a></li></ul>
+/example-code/language/how-to-add-raw-values-to-enums">How to add raw values to enums 
+/example-code/language/what-is-a-protocol-associated-type">What is a protocol associated type? 
+/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type 
+/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements” 
+/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”</a>
 -->
 
 :::

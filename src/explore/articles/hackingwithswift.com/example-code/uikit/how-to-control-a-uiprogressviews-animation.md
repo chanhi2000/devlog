@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>The <code>UIProgressView</code> class has a built-in <code>setProgress()</code> method that adjusts its progress with animation, but by default you don’t have control over the timing of that animation.</p>
-<p>Fortunately, if you want to time the animation to match other aspects of your user interface you can wrap it inside an animation block of your own.</p>
-<p>For example, given a <code>UIProgressView</code> stored in a <code>progressView</code> property, this will animate the progress view to completion over four seconds:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIView</span><span class="token punctuation">.</span><span class="token function">animate</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">4.0</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span>progressView<span class="token punctuation">.</span><span class="token function">setProgress</span><span class="token punctuation">(</span><span class="token number">1.0</span><span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+The `UIProgressView` class has a built-in `setProgress()` method that adjusts its progress with animation, but by default you don’t have control over the timing of that animation.
+
+Fortunately, if you want to time the animation to match other aspects of your user interface you can wrap it inside an animation block of your own.
+
+For example, given a `UIProgressView` stored in a `progressView` property, this will animate the progress view to completion over four seconds:
+
+```swift
+UIView.animate(withDuration: 4.0) {
+    self.progressView.setProgress(1.0, animated: true)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-start-an-animation-immediately-after-a-view-appears">How to start an animation immediately after a view appears</a></li><li><a href="/quick-start/swiftui/how-to-create-an-explicit-animation">How to create an explicit animation</a></li><li><a href="/quick-start/swiftui/how-to-create-a-spring-animation">How to create a spring animation</a></li><li><a href="/quick-start/swiftui/how-to-delay-an-animation">How to delay an animation</a></li><li><a href="/quick-start/swiftui/how-to-run-a-completion-callback-when-an-animation-finishes">How to run a completion callback when an animation finishes</a></li></ul>
+/quick-start/swiftui/how-to-start-an-animation-immediately-after-a-view-appears">How to start an animation immediately after a view appears 
+/quick-start/swiftui/how-to-create-an-explicit-animation">How to create an explicit animation 
+/quick-start/swiftui/how-to-create-a-spring-animation">How to create a spring animation 
+/quick-start/swiftui/how-to-delay-an-animation">How to delay an animation 
+/quick-start/swiftui/how-to-run-a-completion-callback-when-an-animation-finishes">How to run a completion callback when an animation finishes</a>
 -->
 
 :::

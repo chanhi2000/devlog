@@ -59,19 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s arrays, sets, and dictionaries have a <code>randomElement()</code> method that returns one random item from the collection. Because your collection might be empty, the return type will be <em>optional</em> and you’ll get back <code>nil</code> if the collection had nothing in it.</p>
-<p>For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">,</span> <span class="token number">80</span><span class="token punctuation">,</span> <span class="token number">85</span><span class="token punctuation">]</span>
+Swift’s arrays, sets, and dictionaries have a `randomElement()` method that returns one random item from the collection. Because your collection might be empty, the return type will be *optional* and you’ll get back `nil` if the collection had nothing in it.
 
-<span class="token keyword">if</span> <span class="token keyword">let</span> winner <span class="token operator">=</span> numbers<span class="token punctuation">.</span><span class="token function">randomElement</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"The winning number is </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">winner</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+For example:
+
+```swift
+let numbers = [100, 80, 85]
+
+if let winner = numbers.randomElement() {
+    print("The winning number is \(winner).")
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element</a></li><li><a href="/example-code/language/how-to-count-element-frequencies-in-an-array">How to count element frequencies in an array</a></li><li><a href="/example-code/language/how-to-find-the-first-matching-element-in-an-array">How to find the first matching element in an array</a></li><li><a href="/example-code/strings/how-to-get-the-lines-in-a-string-as-an-array">How to get the lines in a string as an array</a></li><li><a href="/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task</a></li></ul>
+/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element 
+/example-code/language/how-to-count-element-frequencies-in-an-array">How to count element frequencies in an array 
+/example-code/language/how-to-find-the-first-matching-element-in-an-array">How to find the first matching element in an array 
+/example-code/strings/how-to-get-the-lines-in-a-string-as-an-array">How to get the lines in a string as an array 
+/quick-start/concurrency/how-to-get-a-result-from-a-task">How to get a Result from a task</a>
 -->
 
 :::

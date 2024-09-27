@@ -49,9 +49,6 @@ cover: https://milanjovanovic.tech/blog-covers/mnw_039.png
   logo="https://milanjovanovic.tech/profile_favicon.png"
   preview="https://milanjovanovic.tech/blog-covers/mnw_039.png"/>
 
-<!-- TODO: 작성 -->
-
-<!-- 
 Do you want to streamline your software development process and accelerate your release cycles?
 
 Imagine being able to automatically build, test, and deploy your .NET applications with every code change.
@@ -65,36 +62,32 @@ And it's never been easier to get started with **CI/CD**.
 So here's what we'll cover:
 
 - Introduction to **CI/CD** & **GitHub Actions**
-<li>Creating a **build & test pipeline** for **.NET**
-<li>Creating a **deployment pipeline** for **Azure App Service**
+- Creating a **build & test pipeline** for **.NET**
+- Creating a **deployment pipeline** for **Azure App Service**
 
 Let's dive in.
 
 ---
 
-## what-is-continuous-integration-and-delivery"><a href="#what-is-continuous-integration-and-delivery">What Is Continuous Integration And Delivery?
+## What Is Continuous Integration And Delivery?
 
 I'll try to briefly explain what **CI/CD** is, before we take a look at **GitHub Actions**.
 
 **CI/CD** is a method to increase the frequency of delivering new features by adding automation to your software development workflow.
 
-**Continuous Integration ("CI")** refers to the automation process of syncing new code to a repository.
-Any new changes to the application code are immediately built, tested and merged.
+**Continuous Integration ("CI")** refers to the automation process of syncing new code to a repository. Any new changes to the application code are immediately built, tested and merged.
 
-**Continuous Delivery, or Deployment, ("CD")** refers to the process of automating the deployment part of the workflow.
-When you make a change which gets merged to the repository, this step takes care of deploying those changes to the production environment (or any other environment).
+**Continuous Delivery, or Deployment, ("CD")** refers to the process of automating the deployment part of the workflow. When you make a change which gets merged to the repository, this step takes care of deploying those changes to the production environment (or any other environment).
 
 ---
 
-## continuous-integration-with-github-actions"><a href="#continuous-integration-with-github-actions">Continuous Integration With GitHub Actions
+## Continuous Integration With GitHub Actions
 
 If you're using **GitHub**, getting started with **Continuous Integration** has never been easier.
 
-You can use <a href="https://github.com/features/actions">**GitHub Actions**</a> to automate your build, test, and deployment **pipeline**.
-You can create workflows that build and test every commit to your repository, or deploy to production when a new tag is created.
+You can use [<FontIcon icon="iconfont icon-github"/>**GitHub Actions**](https://github.com/features/actions) to automate your build, test, and deployment **pipeline**. You can create workflows that build and test every commit to your repository, or deploy to production when a new tag is created.
 
-To create a **GitHub Action**, you write a *workflow* to be triggered when some *event* occurs in your repository.
-An example event is a commit to the main branch, creation of a tag, or you can manually run the workflow.
+To create a **GitHub Action**, you write a *workflow* to be triggered when some *event* occurs in your repository. An example event is a commit to the main branch, creation of a tag, or you can manually run the workflow.
 
 Here's a **GitHub Actions** workflow to build and test a .NET project:
 
@@ -129,14 +122,13 @@ jobs:
 
       - name: Test 🧪
         run: dotnet test WebApi --configuration Release --no-build
-
 ```
 
 Let's unwrap what is happening here:
 
 - Defining an event to trigger the workflow
-<li>Setting up the **.NET SDK** with the version from `env.DOTNET_VERSION`
-<li>Restoring, building and testing the project using the `dotnet` CLI tool
+- Setting up the **.NET SDK** with the version from `env.DOTNET_VERSION`
+- Restoring, building and testing the project using the `dotnet` CLI tool
 
 You can add this to your **GitHub** repository today, and start getting instant feedback when you commit code to the repository.
 
@@ -144,15 +136,15 @@ When a workflow run fails due to a build error or a failed test, you'll get an e
 
 ---
 
-## continuous-delivery-to-azure-with-github-actions"><a href="#continuous-delivery-to-azure-with-github-actions">Continuous Delivery To Azure With GitHub Actions
+## Continuous Delivery To Azure With GitHub Actions
 
 **Continuous Integration** is a great way to start out with **CI/CD**, but the real value lies in **automating** your **deployment** process.
 
 Imagine this:
 
 - You make a change to your codebase
-<li>The commit triggers the **deployment pipeline**
-<li>A few minutes later your changes are live in production
+- The commit triggers the **deployment pipeline**
+- A few minutes later your changes are live in production
 
 Usually it's a little more nuanced, because we need to think about configuration, database migrations, etc.
 But try to see the big picture here.
@@ -199,38 +191,31 @@ jobs:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE }}
           package: '${{ env.AZURE_WEBAPP_PACKAGE_PATH }}'
-
 ```
 
 This workflow is pretty similar to the previous one, with the differences being:
 
-- Adding a publish step and configuring the output path
-<li>Using the `azure/webapps-deploy@v2` action to deploy to **Azure**
+- Adding a publish step and configuring the output path - Using the `azure/webapps-deploy@v2` action to deploy to **Azure**
 
-If you need to safely and securely expose secret values in your workflows, you can use **GitHub secrets**.
-You can define the secrets on GitHub, and use them in actions without having to add them to source control.
+If you need to safely and securely expose secret values in your workflows, you can use **GitHub secrets**. You can define the secrets on GitHub, and use them in actions without having to add them to source control.
 
 In the deployment workflow I'm using `secrets.AZURE_PUBLISH_PROFILE` to access my publish profile for the App Service instance.
 
 ---
 
-## in-summary"><a href="#in-summary">In Summary
+## In Summary
 
 **Continuous Integration and Delivery** can transform your development process by increasing the speed at which you release changes.
 
-Try adding up how much time you spend on deployments.
-I'm pretty sure you'll be surprised by the time savings potential of automating them.
+Try adding up how much time you spend on deployments. I'm pretty sure you'll be surprised by the time savings potential of automating them.
 
 And the good part is you will typically set up your **build and deployment pipelines** once, and then continue benefiting from them for the lifetime of your project.
 
-If you want a step by step guide, I made a video showing <a href="https://youtu.be/QP0pi7xe24s">**how to implement a CI/CD pipeline from scratch.**</a>
-And the **source code** is also public, so you can add the **GitHub Actions** workflow file to your project.
+If you want a step by step guide, I made a video showing [<FontIcon icon="fa-brands fa-youtube"/>**how to implement a CI/CD pipeline from scratch.**](https://youtu.be/QP0pi7xe24s) And the **source code** is also public, so you can add the **GitHub Actions** workflow file to your project.
 
 Thanks for reading.
 
 Hope that was helpful!
-
--->
 
 ---
 

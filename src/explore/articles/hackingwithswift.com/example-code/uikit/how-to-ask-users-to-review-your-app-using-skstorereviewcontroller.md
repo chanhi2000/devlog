@@ -59,30 +59,47 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Many apps ask users to review their apps, but it’s increasingly common to see dark patterns such as apps pre-screening users so they get sent to the App Store only if they said they like the app.</p>
-<p>To avoid this problem in the future, and also to provide a standardized interface that users can trust, iOS 10.3 brought a built-in way to ask users to review the app, and it couldn’t be much easier to use. In iOS 14 this was upgraded to rely on scenes, so it’s important your code makes the review request on an active scene.</p>
-<p>But first, some important information:</p>
-<ol>
-<li>You <em>request</em> that the system show a review dialog, which means the request might be ignored based on internal logic known only to Apple.</li>
-<li>Because the request might be ignored, you should <em>not</em> trigger the request from a user-facing button saying something like “Leave a review” –&nbsp;it might appear to do nothing at all.</li>
-<li>When you are in development, requesting a review will always show the review user interface, but you can’t submit an actual review.</li>
-<li>When you are using TestFlight to test your app, requesting a review will do nothing at all.</li>
-</ol>
-<p>Once you understand those rules, the process really couldn’t be easier. First, add this <code>import</code> to your code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">StoreKit</span></code></pre>
-<p>Then at some point in your app run this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> scene <span class="token operator">=</span> <span class="token class-name">UIApplication</span><span class="token punctuation">.</span>shared<span class="token punctuation">.</span>connectedScenes<span class="token punctuation">.</span><span class="token function">first</span><span class="token punctuation">(</span><span class="token keyword">where</span><span class="token punctuation">:</span> <span class="token punctuation">{</span> <span class="token short-argument">$0</span><span class="token punctuation">.</span>activationState <span class="token operator">==</span> <span class="token punctuation">.</span>foregroundActive <span class="token punctuation">}</span><span class="token punctuation">)</span> <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">UIWindowScene</span> <span class="token punctuation">{</span>
-    <span class="token class-name">SKStoreReviewController</span><span class="token punctuation">.</span><span class="token function">requestReview</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> scene<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That’s it!</p>
-<p>Again, you should <em>not</em> call that in response to user input, although if you have any sense you won’t just put it inside <code>viewDidAppear()</code> in your app.</p>
-<p>Instead, consider storing a simple run count for your app using <code>UserDefaults</code>, then calling the method after your app has been run 10 times. By that point it’s pretty clear the user keeps coming back to your app, so hopefully you have more chance of getting a positive review!</p>
+Many apps ask users to review their apps, but it’s increasingly common to see dark patterns such as apps pre-screening users so they get sent to the App Store only if they said they like the app.
+
+To avoid this problem in the future, and also to provide a standardized interface that users can trust, iOS 10.3 brought a built-in way to ask users to review the app, and it couldn’t be much easier to use. In iOS 14 this was upgraded to rely on scenes, so it’s important your code makes the review request on an active scene.
+
+But first, some important information:
+
+1. You *request* that the system show a review dialog, which means the request might be ignored based on internal logic known only to Apple.
+<li>Because the request might be ignored, you should *not* trigger the request from a user-facing button saying something like “Leave a review” – it might appear to do nothing at all.
+<li>When you are in development, requesting a review will always show the review user interface, but you can’t submit an actual review.
+<li>When you are using TestFlight to test your app, requesting a review will do nothing at all.
+
+Once you understand those rules, the process really couldn’t be easier. First, add this `import` to your code:
+
+```swift
+import StoreKit
+```
+
+Then at some point in your app run this code:
+
+```swift
+if let scene = UIApplication.shared.connectedScenes.first(where: { $0.activationState == .foregroundActive }) as? UIWindowScene {
+    SKStoreReviewController.requestReview(in: scene)
+}
+```
+
+That’s it!
+
+Again, you should *not* call that in response to user input, although if you have any sense you won’t just put it inside `viewDidAppear()` in your app.
+
+Instead, consider storing a simple run count for your app using `UserDefaults`, then calling the method after your app has been run 10 times. By that point it’s pretty clear the user keeps coming back to your app, so hopefully you have more chance of getting a positive review!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-ask-the-user-to-review-your-app">How to ask the user to review your app</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li><li><a href="/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app</a></li><li><a href="/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName()</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/quick-start/swiftui/how-to-ask-the-user-to-review-your-app">How to ask the user to review your app 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated 
+/example-code/uikit/how-to-localize-your-ios-app">How to localize your iOS app 
+/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname">How to change your app icon dynamically with setAlternateIconName() 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

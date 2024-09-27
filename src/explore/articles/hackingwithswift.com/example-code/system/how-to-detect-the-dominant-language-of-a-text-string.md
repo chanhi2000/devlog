@@ -59,27 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>NSLinguisticTagger</code> class has dedicated code to help you identify the dominant language of a text string. Before I show you the code, there are three important provisos:</p>
-<ol>
-<li>It detects the <em>dominant</em> language, which means if you provide it with text that contains more than one language it will return whichever one appears most often.</li>
-<li>If you give it text where no identification can be made, e.g. some numbers or an empty string, it will return nil.</li>
-<li>It is extraordinarily fast – you can feed it thousands of article-length strings a second and it will fly through them.</li>
-</ol>
-<p>Here’s an example to help you get started:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Ceci n'est pas une pipe"</span></span>
+The `NSLinguisticTagger` class has dedicated code to help you identify the dominant language of a text string. Before I show you the code, there are three important provisos:
 
-<span class="token keyword">if</span> <span class="token keyword">let</span> language <span class="token operator">=</span> <span class="token class-name">NSLinguisticTagger</span><span class="token punctuation">.</span><span class="token function">dominantLanguage</span><span class="token punctuation">(</span><span class="token keyword">for</span><span class="token punctuation">:</span> text<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>language<span class="token punctuation">)</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Unknown language"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>When that code runs it will print “fr”, because the dominant language in the text is French.</p>
+1. It detects the *dominant* language, which means if you provide it with text that contains more than one language it will return whichever one appears most often.
+<li>If you give it text where no identification can be made, e.g. some numbers or an empty string, it will return nil.
+<li>It is extraordinarily fast – you can feed it thousands of article-length strings a second and it will fly through them.
+
+Here’s an example to help you get started:
+
+```swift
+let text = "Ceci n'est pas une pipe"
+
+if let language = NSLinguisticTagger.dominantLanguage(for: text) {
+    print(language)
+} else {
+    print("Unknown language")
+}
+```
+
+When that code runs it will print “fr”, because the dominant language in the text is French.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li><li><a href="/example-code/vision/how-to-use-vnrecognizetextrequests-optical-character-recognition-to-detect-text-in-an-image">How to use VNRecognizeTextRequest’s optical character recognition to detect text in an image</a></li><li><a href="/quick-start/swiftui/how-to-create-static-labels-with-a-text-view">How to create static labels with a Text view</a></li><li><a href="/quick-start/swiftui/how-to-create-custom-text-effects-and-animations">How to create custom text effects and animations</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString 
+/example-code/vision/how-to-use-vnrecognizetextrequests-optical-character-recognition-to-detect-text-in-an-image">How to use VNRecognizeTextRequest’s optical character recognition to detect text in an image 
+/quick-start/swiftui/how-to-create-static-labels-with-a-text-view">How to create static labels with a Text view 
+/quick-start/swiftui/how-to-create-custom-text-effects-and-animations">How to create custom text effects and animations</a>
 -->
 
 :::

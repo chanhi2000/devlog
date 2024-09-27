@@ -59,13 +59,18 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>Double</code> data type is the standard Swift way of storing decimal numbers such as 3.1, 3.14159 and 16777216.333921. Whenever you create a variable or constant that holds a number like this, Swift automatically assumes it's a <code>Double</code> rather than a <code>Float</code>, because it has a higher precision and therefore less likely to lose valuable accuracy.</p>
+The `Double` data type is the standard Swift way of storing decimal numbers such as 3.1, 3.14159 and 16777216.333921. Whenever you create a variable or constant that holds a number like this, Swift automatically assumes it's a `Double` rather than a `Float`, because it has a higher precision and therefore less likely to lose valuable accuracy.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-multiply-an-int-and-a-double">How to multiply an int and a double</a></li><li><a href="/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures</a></li><li><a href="/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage</a></li><li><a href="/example-code/language/how-to-convert-a-string-to-a-double">How to convert a string to a double</a></li><li><a href="/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a></li></ul>
+/example-code/language/how-to-multiply-an-int-and-a-double">How to multiply an int and a double 
+/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures 
+/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage 
+/example-code/language/how-to-convert-a-string-to-a-double">How to convert a string to a double 
+/example-code/uikit/how-to-detect-a-double-tap-gesture">How to detect a double tap gesture</a>
 -->
 
 :::

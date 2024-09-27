@@ -60,14 +60,22 @@ isOriginal: false
 
 <!-- 
 
-<p>Many APIs, such as <code>Codable</code>, rely on their text input being provided as a <code>Data</code> rather than a <code>String</code>, but fortunately it only takes one line of code to make that conversion:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> data <span class="token operator">=</span> <span class="token class-name">Data</span><span class="token punctuation">(</span>someString<span class="token punctuation">.</span>utf8<span class="token punctuation">)</span></code></pre>
+Many APIs, such as `Codable`, rely on their text input being provided as a `Data` rather than a `String`, but fortunately it only takes one line of code to make that conversion:
+
+```swift
+let data = Data(someString.utf8)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/language/how-to-convert-data-to-a-string">How to convert Data to a String</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions</a></li><li><a href="/example-code/uikit/how-to-convert-a-cgpoint-in-one-uiview-to-another-view-using-convert">How to convert a CGPoint in one UIView to another view using convert()</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/language/how-to-convert-data-to-a-string">How to convert Data to a String 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/quick-start/concurrency/how-to-use-continuations-to-convert-completion-handlers-into-async-functions">How to use continuations to convert completion handlers into async functions 
+/example-code/uikit/how-to-convert-a-cgpoint-in-one-uiview-to-another-view-using-convert">How to convert a CGPoint in one UIView to another view using convert()</a>
 -->
 
 :::

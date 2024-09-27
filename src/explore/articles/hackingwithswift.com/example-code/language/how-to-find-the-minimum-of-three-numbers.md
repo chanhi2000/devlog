@@ -59,18 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can find the minimum of three numbers by using the <code>min()</code> function twice. This function takes either two integers or two floating-point numbers, but can't accept mixed types. Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> first <span class="token operator">=</span> <span class="token number">10</span>
-<span class="token keyword">let</span> second <span class="token operator">=</span> <span class="token number">15</span>
-<span class="token keyword">let</span> third <span class="token operator">=</span> <span class="token number">18</span>
+You can find the minimum of three numbers by using the `min()` function twice. This function takes either two integers or two floating-point numbers, but can't accept mixed types. Here's an example:
 
-<span class="token keyword">let</span> smallest <span class="token operator">=</span> <span class="token function">min</span><span class="token punctuation">(</span><span class="token function">min</span><span class="token punctuation">(</span>first<span class="token punctuation">,</span> second<span class="token punctuation">)</span><span class="token punctuation">,</span> third<span class="token punctuation">)</span></code></pre>
+```swift
+let first = 10
+let second = 15
+let third = 18
+
+let smallest = min(min(first, second), third)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-find-the-minimum-of-two-numbers">How to find the minimum of two numbers</a></li><li><a href="/example-code/language/how-to-find-the-maximum-of-three-numbers">How to find the maximum of three numbers</a></li><li><a href="/quick-start/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview">How to create a two-column or three-column layout with NavigationSplitView</a></li><li><a href="/example-code/language/how-to-find-the-maximum-of-two-numbers">How to find the maximum of two numbers</a></li><li><a href="/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution</a></li></ul>
+/example-code/language/how-to-find-the-minimum-of-two-numbers">How to find the minimum of two numbers 
+/example-code/language/how-to-find-the-maximum-of-three-numbers">How to find the maximum of three numbers 
+/quick-start/swiftui/how-to-create-a-two-column-or-three-column-layout-with-navigationsplitview">How to create a two-column or three-column layout with NavigationSplitView 
+/example-code/language/how-to-find-the-maximum-of-two-numbers">How to find the maximum of two numbers 
+/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution</a>
 -->
 
 :::

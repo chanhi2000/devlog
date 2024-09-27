@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Early iOS releases gave every device a unique identifier, but this was soon abused by developers to identify individual users uniquely –&nbsp;something that Apple really dislikes. So, Apple removed the truly unique identifier and instead introduced an identifier for each vendor: a UUID that's the same for all apps for a given developer for each user, but varies between developers and between devices.</p>
-<p>That is, if a user has five of your apps installed and five of mine, your five will all share the same vendor identifier, and my five will all share the same vendor identifier, but our two identifiers will be different.</p>
-<p>Here's how to use it:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> uuid <span class="token operator">=</span> <span class="token class-name">UIDevice</span><span class="token punctuation">.</span>current<span class="token punctuation">.</span>identifierForVendor<span class="token operator">?</span><span class="token punctuation">.</span>uuidString <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>uuid<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+Early iOS releases gave every device a unique identifier, but this was soon abused by developers to identify individual users uniquely – something that Apple really dislikes. So, Apple removed the truly unique identifier and instead introduced an identifier for each vendor: a UUID that's the same for all apps for a given developer for each user, but varies between developers and between devices.
+
+That is, if a user has five of your apps installed and five of mine, your five will all share the same vendor identifier, and my five will all share the same vendor identifier, but our two identifiers will be different.
+
+Here's how to use it:
+
+```swift
+if let uuid = UIDevice.current.identifierForVendor?.uuidString {
+    print(uuid)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-identify-your-auto-layout-constraints">How to identify your Auto Layout constraints</a></li><li><a href="/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts</a></li><li><a href="/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation</a></li><li><a href="/example-code/uikit/how-to-respond-to-the-device-being-shaken">How to respond to the device being shaken</a></li><li><a href="/example-code/system/how-to-make-the-device-vibrate">How to make the device vibrate</a></li></ul>
+/example-code/uikit/how-to-identify-your-auto-layout-constraints">How to identify your Auto Layout constraints 
+/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts">How to use Instruments to profile your SwiftUI code and identify slow layouts 
+/quick-start/swiftui/how-to-detect-device-rotation">How to detect device rotation 
+/example-code/uikit/how-to-respond-to-the-device-being-shaken">How to respond to the device being shaken 
+/example-code/system/how-to-make-the-device-vibrate">How to make the device vibrate</a>
 -->
 
 :::

@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift developers rely heavily on constants rather than variables, to the point where Xcode even warns you if you create a variable then never change it. There are three main reasons why immutability is important in Swift, and I want to walk through them briefly.</p>
-<p>First, immutability makes your code easier to reason about. If you use constants everywhere, you know for sure that your data can’t be changed by surprise by some other part of your program –&nbsp;in fact, it can’t be changed at <em>all</em>. This also makes multi-threaded code significantly easier to think about.</p>
-<p>Second, it stops you making silly mistakes. When you use a constant rather than a variable, Swift won’t let you change that constant no matter how hard you try –&nbsp;it’s like you’ve made a contract with yourself.</p>
-<p>Third, Swift can optimize it more efficiently. If Swift knows a value can’t be changed, it can in theory store your data in a more efficient way.</p>
+Swift developers rely heavily on constants rather than variables, to the point where Xcode even warns you if you create a variable then never change it. There are three main reasons why immutability is important in Swift, and I want to walk through them briefly.
+
+First, immutability makes your code easier to reason about. If you use constants everywhere, you know for sure that your data can’t be changed by surprise by some other part of your program – in fact, it can’t be changed at *all*. This also makes multi-threaded code significantly easier to think about.
+
+Second, it stops you making silly mistakes. When you use a constant rather than a variable, Swift won’t let you change that constant no matter how hard you try – it’s like you’ve made a contract with yourself.
+
+Third, Swift can optimize it more efficiently. If Swift knows a value can’t be changed, it can in theory store your data in a more efficient way.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/important-do-not-use-an-actor-for-your-swiftui-data-models">Important: Do not use an actor for your SwiftUI data models</a></li><li><a href="/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them?</a></li><li><a href="/quick-start/swiftui/whats-in-the-basic-template">What’s in the basic template?</a></li><li><a href="/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications?</a></li><li><a href="/quick-start/concurrency/why-cant-we-call-async-functions-using-async-var">Why can’t we call async functions using async var?</a></li></ul>
+/quick-start/concurrency/important-do-not-use-an-actor-for-your-swiftui-data-models">Important: Do not use an actor for your SwiftUI data models 
+/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them? 
+/quick-start/swiftui/whats-in-the-basic-template">What’s in the basic template? 
+/example-code/uikit/why-can-i-not-register-for-push-notifications">Why can I not register for push notifications? 
+/quick-start/concurrency/why-cant-we-call-async-functions-using-async-var">Why can’t we call async functions using async var?</a>
 -->
 
 :::

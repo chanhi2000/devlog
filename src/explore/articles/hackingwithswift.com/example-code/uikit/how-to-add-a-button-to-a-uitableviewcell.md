@@ -59,19 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>There are two steps to add a working button to a table view cell. The first step is to add a button like this:</p>
-<pre class=" language-swift"><code class=" language-swift">cell<span class="token punctuation">.</span>accessoryType <span class="token operator">=</span> <span class="token punctuation">.</span>detailDisclosureButton</code></pre>
-<p>The second step is to take action when the button is tapped by creating the <code>accessoryButtonTappedForRowWith</code> method:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">tableView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> tableView<span class="token punctuation">:</span> <span class="token class-name">UITableView</span><span class="token punctuation">,</span> accessoryButtonTappedForRowWith indexPath<span class="token punctuation">:</span> <span class="token class-name">IndexPath</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">doSomethingWithItem</span><span class="token punctuation">(</span>indexPath<span class="token punctuation">.</span>row<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That's it!</p>
+There are two steps to add a working button to a table view cell. The first step is to add a button like this:
+
+```swift
+cell.accessoryType = .detailDisclosureButton
+```
+
+The second step is to take action when the button is tapped by creating the `accessoryButtonTappedForRowWith` method:
+
+```swift
+override func tableView(_ tableView: UITableView, accessoryButtonTappedForRowWith indexPath: IndexPath) {
+    doSomethingWithItem(indexPath.row)
+}
+```
+
+That's it!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse</a></li><li><a href="/example-code/uikit/how-to-make-uitableviewcell-separators-go-edge-to-edge">How to make UITableViewCell separators go edge to edge</a></li><li><a href="/example-code/uikit/how-to-deselect-a-uitableviewcell-using-clearsselectiononviewwillappear">How to deselect a UITableViewCell using clearsSelectionOnViewWillAppear</a></li><li><a href="/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a></li><li><a href="/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a></li></ul>
+/example-code/uikit/how-to-register-a-cell-for-uitableviewcell-reuse">How to register a cell for UITableViewCell reuse 
+/example-code/uikit/how-to-make-uitableviewcell-separators-go-edge-to-edge">How to make UITableViewCell separators go edge to edge 
+/example-code/uikit/how-to-deselect-a-uitableviewcell-using-clearsselectiononviewwillappear">How to deselect a UITableViewCell using clearsSelectionOnViewWillAppear 
+/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled 
+/example-code/uikit/how-to-add-a-bar-button-to-a-navigation-bar">How to add a bar button to a navigation bar</a>
 -->
 
 :::

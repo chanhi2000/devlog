@@ -59,20 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit has built-in support for particle systems, which are a realistic and fast way to create effects such as smoke, fire and snow. Even better, Xcode has a built-in visual particle editor so that you can tweak your designs until they look exactly right.</p>
-<p>To get started, right-click on your project in Xcode and choose New File. Select iOS &gt; Resource &gt; SpriteKit Particle File, then choose the Smoke template and click Next to name your effect. Once that's done, your particle will be opened immediately in the visual editor so you can adjust its design.</p>
-<p>When it comes to using your effect, just create a new <code>SKEmitterNode</code> object using the name of your particle effect, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> particles <span class="token operator">=</span> <span class="token class-name">SKEmitterNode</span><span class="token punctuation">(</span>fileNamed<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"yourParticleFile.sks"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    particles<span class="token punctuation">.</span>position <span class="token operator">=</span> player<span class="token punctuation">.</span>position
-    <span class="token function">addChild</span><span class="token punctuation">(</span>particles<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Obviously you will want to set your own position rather than using an example <code>player</code> node.</p>
+SpriteKit has built-in support for particle systems, which are a realistic and fast way to create effects such as smoke, fire and snow. Even better, Xcode has a built-in visual particle editor so that you can tweak your designs until they look exactly right.
+
+To get started, right-click on your project in Xcode and choose New File. Select iOS > Resource > SpriteKit Particle File, then choose the Smoke template and click Next to name your effect. Once that's done, your particle will be opened immediately in the visual editor so you can adjust its design.
+
+When it comes to using your effect, just create a new `SKEmitterNode` object using the name of your particle effect, like this:
+
+```swift
+if let particles = SKEmitterNode(fileNamed: "yourParticleFile.sks") {
+    particles.position = player.position
+    addChild(particles)
+}
+```
+
+Obviously you will want to set your own position rather than using an example `player` node.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/calayer/how-to-emit-particles-using-caemitterlayer">How to emit particles using CAEmitterLayer</a></li><li><a href="/example-code/games/how-to-advance-time-in-an-skemitternode-using-advancesimulationtime">How to advance time in an SKEmitterNode using advanceSimulationTime()</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li></ul>
+/example-code/calayer/how-to-emit-particles-using-caemitterlayer">How to emit particles using CAEmitterLayer 
+/example-code/games/how-to-advance-time-in-an-skemitternode-using-advancesimulationtime">How to advance time in an SKEmitterNode using advanceSimulationTime() 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a>
 -->
 
 ---

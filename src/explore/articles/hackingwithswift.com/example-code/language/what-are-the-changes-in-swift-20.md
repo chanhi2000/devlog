@@ -59,23 +59,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift 2.0 introduced a lot of major language changes. You can read my full article explaining the changes with code examples <a href="/swift2">by clicking here</a>, but here are the highlights:</p>
-<ul>
-<li>Checked exceptions using <code>try/catch</code></li>
-<li>Automatically synthesized headers</li>
-<li>The <code>guard</code> keyword to check input while unwrapping optionals</li>
-<li>Measuring strings is now done using <code>characters.count</code> (Note: this was later un-done in Swift 4.)</li>
-<li>Delayed code execution using the <code>defer</code> keyword</li>
-<li>You now get mutability warnings if you declare variables that never get changed</li>
-<li>API availability checking is now built right in</li>
-<li>The <code>performSelector()</code> family of functions is now available</li>
-</ul>
+Swift 2.0 introduced a lot of major language changes. You can read my full article explaining the changes with code examples <a href="/swift2">by clicking here</a>, but here are the highlights:
+
+- Checked exceptions using `try/catch`
+<li>Automatically synthesized headers
+<li>The `guard` keyword to check input while unwrapping optionals
+<li>Measuring strings is now done using `characters.count` (Note: this was later un-done in Swift 4.)
+<li>Delayed code execution using the `defer` keyword
+<li>You now get mutability warnings if you declare variables that never get changed
+<li>API availability checking is now built right in
+<li>The `performSelector()` family of functions is now available
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-the-changes-in-swift-12">What are the changes in Swift 1.2?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3?</a></li><li><a href="/example-code/language/what-are-the-changes-in-swift-22">What are the changes in Swift 2.2?</a></li><li><a href="/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:)</a></li><li><a href="/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a></li></ul>
+/example-code/language/what-are-the-changes-in-swift-12">What are the changes in Swift 1.2? 
+/example-code/language/what-are-the-changes-in-swift-3">What are the changes in Swift 3? 
+/example-code/language/what-are-the-changes-in-swift-22">What are the changes in Swift 2.2? 
+/example-code/uikit/how-to-animate-when-your-size-class-changes-willtransitionto">How to animate when your size class changes: willTransition(to:) 
+/quick-start/swiftui/how-to-run-some-code-when-state-changes-using-onchange">How to run some code when state changes using onChange()</a>
 -->
 
 :::

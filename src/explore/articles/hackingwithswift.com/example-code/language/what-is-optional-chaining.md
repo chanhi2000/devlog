@@ -59,22 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Optional chaining is a Swift feature that allows execution of a statement to stop and return nil at any point. For example, all views have an optional <code>superview</code> property that stores whichever <code>UIView</code> contains it, all <code>UIView</code> has an optional <code>gestureRecognizer</code> array that stores the gesture recognizers it has, and all arrays have an optional <code>first</code> property that returns the first item.</p>
-<p>Optional chaining allows us to put those three optionals together like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> firstParentRecognizer <span class="token operator">=</span> view<span class="token punctuation">.</span>superview<span class="token operator">?</span><span class="token punctuation">.</span>gestureRecognizers<span class="token operator">?</span><span class="token punctuation">.</span>first</code></pre>
-<p>So, <code>superview</code> is optional, <code>gestureRecognizers</code> is optional, and <code>first</code> is optional, but the end result –&nbsp;<code>firstParentRecognizer</code> will be a simple <code>UIGestureRecognizer?</code> rather than a triple optional. The optional chaining –&nbsp;the two question marks –&nbsp;mean that if <code>superview</code> is nil then <code>firstParentRecognizer</code> gets set to nil and the rest of the statement is ignored, and the same is true of <code>gestureRecognizers</code>.</p>
-<p>Without optional chaining we’d need to use a pyramid of <code>if let</code> statements, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> superview <span class="token operator">=</span> view<span class="token punctuation">.</span>superview <span class="token punctuation">{</span>
-    <span class="token keyword">if</span> <span class="token keyword">let</span> recognizers <span class="token operator">=</span> superview<span class="token punctuation">.</span>gestureRecognizers <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> firstParentRecognizer <span class="token operator">=</span> recognizers<span class="token punctuation">.</span>first
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+Optional chaining is a Swift feature that allows execution of a statement to stop and return nil at any point. For example, all views have an optional `superview` property that stores whichever `UIView` contains it, all `UIView` has an optional `gestureRecognizer` array that stores the gesture recognizers it has, and all arrays have an optional `first` property that returns the first item.
+
+Optional chaining allows us to put those three optionals together like this:
+
+```swift
+let firstParentRecognizer = view.superview?.gestureRecognizers?.first
+```
+
+So, `superview` is optional, `gestureRecognizers` is optional, and `first` is optional, but the end result – `firstParentRecognizer` will be a simple `UIGestureRecognizer?` rather than a triple optional. The optional chaining – the two question marks – mean that if `superview` is nil then `firstParentRecognizer` gets set to nil and the rest of the statement is ignored, and the same is true of `gestureRecognizers`.
+
+Without optional chaining we’d need to use a pyramid of `if let` statements, like this:
+
+```swift
+if let superview = view.superview {
+    if let recognizers = superview.gestureRecognizers {
+        let firstParentRecognizer = recognizers.first
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/language/how-to-use-flatmap-with-an-optional-value">How to use flatMap() with an optional value</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li><li><a href="/example-code/language/how-to-make-optional-protocol-methods">How to make optional protocol methods</a></li><li><a href="/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift</a></li></ul>
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/language/how-to-use-flatmap-with-an-optional-value">How to use flatMap() with an optional value 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift? 
+/example-code/language/how-to-make-optional-protocol-methods">How to make optional protocol methods 
+/example-code/language/how-to-unwrap-an-optional-in-swift">How to unwrap an optional in Swift</a>
 -->
 
 :::

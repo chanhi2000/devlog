@@ -61,16 +61,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All <code>UIView</code> subclasses have the ability to round their corners thanks to their underlying <code>CALayer</code> –&nbsp;that's the bit that handles the actual drawing of your views. To round the corners of a view, use this code:</p>
-<pre class=" language-swift"><code class=" language-swift">yourView<span class="token punctuation">.</span>layer<span class="token punctuation">.</span>cornerRadius <span class="token operator">=</span> <span class="token number">10</span></code></pre>
-<p>The number you specify is how far the rounding should go, measured in points. So if you have a view that's 100x100 points and give it a <code>cornerRadius</code> property of 50, it will look like a circle.</p>
-<p>Note that some types of view don't have <code>clipsToBounds</code> enabled by default, which means their corners will not round until you enable this property.</p>
+All `UIView` subclasses have the ability to round their corners thanks to their underlying `CALayer` – that's the bit that handles the actual drawing of your views. To round the corners of a view, use this code:
+
+```swift
+yourView.layer.cornerRadius = 10
+```
+
+The number you specify is how far the rounding should go, measured in points. So if you have a view that's 100x100 points and give it a `cornerRadius` property of 50, it will look like a circle.
+
+Note that some types of view don't have `clipsToBounds` enabled by default, which means their corners will not round until you enable this property.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-round-the-corners-of-a-view">How to round the corners of a view</a></li><li><a href="/example-code/calayer/how-to-round-only-specific-corners-using-maskedcorners">How to round only specific corners using maskedCorners</a></li><li><a href="/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a></li><li><a href="/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView</a></li><li><a href="/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView</a></li></ul>
+/quick-start/swiftui/how-to-round-the-corners-of-a-view">How to round the corners of a view 
+/example-code/calayer/how-to-round-only-specific-corners-using-maskedcorners">How to round only specific corners using maskedCorners 
+/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round" 
+/example-code/uikit/how-to-mask-one-uiview-using-another-uiview">How to mask one UIView using another UIView 
+/example-code/calayer/how-to-add-a-border-outline-color-to-a-uiview">How to add a border outline color to a UIView</a>
 -->
 
 :::

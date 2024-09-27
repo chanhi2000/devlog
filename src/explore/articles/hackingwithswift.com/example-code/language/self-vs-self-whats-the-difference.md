@@ -59,21 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>When you’re writing protocols and protocol extensions, there’s a difference between <code>Self</code> (capital S) and <code>self</code> (lowercase S). When used with a capital S, <code>Self</code> refers to the type that conform to the protocol, e.g. <code>String</code> or <code>Int</code>. When used with a lowercase S, <code>self</code> refers to the value inside that type, e.g. “hello” or 556.</p>
-<p>As an example, consider this extension on <code>BinaryInteger</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">BinaryInteger</span> <span class="token punctuation">{</span>
-    <span class="token keyword">func</span> <span class="token function-definition function">squared</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token keyword">Self</span> <span class="token punctuation">{</span>
-        <span class="token keyword">return</span> <span class="token keyword">self</span> <span class="token operator">*</span> <span class="token keyword">self</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Remember, <code>Self</code> with a capital S refers to whatever type is conforming to the protocol. In the example above, <code>Int</code> conforms to <code>BinaryInteger</code>, so when called on <code>Int</code> the method returns an <code>Int</code>.</p>
-<p>On the other hand, <code>self</code> with a <em>lowercase</em> S refers to whatever value the type holds. If the example above were called on an <code>Int</code> storing the value 5 it would effectively be <code>5 * 5</code>.</p>
+When you’re writing protocols and protocol extensions, there’s a difference between `Self` (capital S) and `self` (lowercase S). When used with a capital S, `Self` refers to the type that conform to the protocol, e.g. `String` or `Int`. When used with a lowercase S, `self` refers to the value inside that type, e.g. “hello” or 556.
+
+As an example, consider this extension on `BinaryInteger`:
+
+```swift
+extension BinaryInteger {
+    func squared() -> Self {
+        return self * self
+    }
+}
+```
+
+Remember, `Self` with a capital S refers to whatever type is conforming to the protocol. In the example above, `Int` conforms to `BinaryInteger`, so when called on `Int` the method returns an `Int`.
+
+On the other hand, `self` with a *lowercase* S refers to whatever value the type holds. If the example above were called on an `Int` storing the value 5 it would effectively be `5 * 5`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/quick-start/swiftui/how-to-fix-cannot-assign-to-property-self-is-immutable">How to fix “Cannot assign to property: 'self' is immutable”</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/language/whats-the-difference-between-init-and-init">What’s the difference between init?() and init()?</a></li></ul>
+/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements” 
+/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements” 
+/quick-start/swiftui/how-to-fix-cannot-assign-to-property-self-is-immutable">How to fix “Cannot assign to property: 'self' is immutable” 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/language/whats-the-difference-between-init-and-init">What’s the difference between init?() and init()?</a>
 -->
 
 :::

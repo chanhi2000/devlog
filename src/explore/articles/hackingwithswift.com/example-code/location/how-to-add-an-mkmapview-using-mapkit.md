@@ -23,7 +23,7 @@ head:
     - property: og:description
       content: "How to add an MKMapView using MapKit"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/hac<ul><li><a href="/example-code/location/how-to-add-annotations-to-mkmapview-using-mkpointannotation-and-mkpinannotationview">How to add annotations to MKMapView using MKPointAnnotation and MKPinAnnotationView</a></li><li><a href="/example-code/location/how-to-find-directions-using-mkmapview-and-mkdirectionsrequest">How to find directions using MKMapView and MKDirections.Request</a></li><li><a href="/example-code/location/how-to-add-a-button-to-an-mkmapview-annotation">How to add a button to an MKMapView annotation</a></li><li><a href="/example-code/location/adding-places-to-mkmapview-using-mkplacemark">Adding places to MKMapView using MKPlacemark</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li></ul>kingwithswift.com/example-code/location/how-to-add-a-button-to-an-mkmapview-annotation.html
+      content: https://chanhi2000.github.io/explore/articles/hac/example-code/location/how-to-add-an-mkmapview-using-mapkit.html
 date: 2019-03-28
 isOriginal: false
 ---
@@ -59,15 +59,21 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Map views are pretty easy in iOS, largely because they are baked right into Interface Builder. That's right: open your storyboard, drag a map view into your view, and you're already most of the way there!</p>
-<p>But there is one further thing to do, which is where people get confused: by default, the map framework won't actually be loaded when your app is run, which will make your app crash when it tries to show the map view.</p>
-<p>The solution is simple: go to your project navigation, choose the Capabilities tab, then look for the "Maps" item and set it to be On. That's it!</p>
+Map views are pretty easy in iOS, largely because they are baked right into Interface Builder. That's right: open your storyboard, drag a map view into your view, and you're already most of the way there!
+
+But there is one further thing to do, which is where people get confused: by default, the map framework won't actually be loaded when your app is run, which will make your app crash when it tries to show the map view.
+
+The solution is simple: go to your project navigation, choose the Capabilities tab, then look for the "Maps" item and set it to be On. That's it!
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/location/how-to-add-annotations-to-mkmapview-using-mkpointannotation-and-mkpinannotationview">How to add annotations to MKMapView using MKPointAnnotation and MKPinAnnotationView</a></li><li><a href="/example-code/location/how-to-find-directions-using-mkmapview-and-mkdirectionsrequest">How to find directions using MKMapView and MKDirections.Request</a></li><li><a href="/example-code/location/how-to-add-a-button-to-an-mkmapview-annotation">How to add a button to an MKMapView annotation</a></li><li><a href="/example-code/location/adding-places-to-mkmapview-using-mkplacemark">Adding places to MKMapView using MKPlacemark</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li></ul>
+/example-code/location/how-to-add-annotations-to-mkmapview-using-mkpointannotation-and-mkpinannotationview">How to add annotations to MKMapView using MKPointAnnotation and MKPinAnnotationView</a>
+/example-code/location/how-to-find-directions-using-mkmapview-and-mkdirectionsrequest">How to find directions using MKMapView and MKDirections.Request</a>
+/example-code/location/how-to-add-a-button-to-an-mkmapview-annotation">How to add a button to an MKMapView annotation</a>
+/example-code/location/adding-places-to-mkmapview-using-mkplacemark">Adding places to MKMapView using MKPlacemark</a>
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></ul>
 -->
 
 :::

@@ -59,16 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can write text to the Xcode debug console using the <code>print()</code> function in Swift, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Hello, world!"</span></span><span class="token punctuation">)</span></code></pre>
-<p>The <code>print()</code> function is actually variadic, so you can pass it more than one parameter and it will print them all, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">)</span></code></pre>
+You can write text to the Xcode debug console using the `print()` function in Swift, like this:
+
+```swift
+print("Hello, world!")
+```
+
+The `print()` function is actually variadic, so you can pass it more than one parameter and it will print them all, like this:
+
+```swift
+print(1, 2, 3, 4, 5)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-print-using-uiactivityviewcontroller">How to print using UIActivityViewController</a></li><li><a href="/example-code/language/how-to-create-a-custom-debug-description">How to create a custom debug description</a></li><li><a href="/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics</a></li><li><a href="/example-code/xcode/how-to-debug-view-layouts-in-xcode">How to debug view layouts in Xcode</a></li><li><a href="/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage</a></li></ul>
+/example-code/uikit/how-to-print-using-uiactivityviewcontroller">How to print using UIActivityViewController 
+/example-code/language/how-to-create-a-custom-debug-description">How to create a custom debug description 
+/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics 
+/example-code/xcode/how-to-debug-view-layouts-in-xcode">How to debug view layouts in Xcode 
+/example-code/strings/how-to-test-localization-by-setting-a-debug-locale-and-double-length-pseudolanguage">How to test localization by setting a debug locale and double length pseudolanguage</a>
 -->
 
 :::

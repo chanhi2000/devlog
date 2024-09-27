@@ -59,33 +59,47 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Designated initializers are the default way of creating new instances of a type. There are others, known as convenience initializers, that are there to help you accomplish common tasks more easily, but those are in addition to your designated initializers rather than a replacement.</p>
-<p>For example, you might have a <code>Polygon</code> class that stores sets of points to be drawn later on, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">Polygon</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> points<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">CGPoint</span><span class="token punctuation">]</span>
+Designated initializers are the default way of creating new instances of a type. There are others, known as convenience initializers, that are there to help you accomplish common tasks more easily, but those are in addition to your designated initializers rather than a replacement.
 
-    <span class="token keyword">init</span><span class="token punctuation">(</span>points<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">CGPoint</span><span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span><span class="token punctuation">.</span>points <span class="token operator">=</span> points
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Now, if that were just a struct you could go ahead and add other initializers. But as it’s a <em>class</em> – where the rules for initialization are quite complex –&nbsp;you could add a convenience initializer that sets up squares of a specific length, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">convenience</span> <span class="token keyword">init</span><span class="token punctuation">(</span>squareWithLength length<span class="token punctuation">:</span> <span class="token class-name">CGFloat</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> points <span class="token operator">=</span> <span class="token punctuation">[</span>
-        <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-        <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> length<span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
-        <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> length<span class="token punctuation">,</span> y<span class="token punctuation">:</span> length<span class="token punctuation">)</span><span class="token punctuation">,</span>
-        <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> length<span class="token punctuation">)</span><span class="token punctuation">,</span>
-    <span class="token punctuation">]</span>
+For example, you might have a `Polygon` class that stores sets of points to be drawn later on, like this:
 
-    <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token keyword">init</span><span class="token punctuation">(</span>points<span class="token punctuation">:</span> points<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Note how the convenience initializer ends by calling the designated initializer – this is a requirement, and means that your convenience initializers are only responsible for setting up the parts that are unique to them rather than doing everything.</p>
+```swift
+class Polygon {
+    var points: [CGPoint]
+
+    init(points: [CGPoint]) {
+        self.points = points
+    }
+}
+```
+
+Now, if that were just a struct you could go ahead and add other initializers. But as it’s a *class* – where the rules for initialization are quite complex – you could add a convenience initializer that sets up squares of a specific length, like this:
+
+```swift
+convenience init(squareWithLength length: CGFloat) {
+    let points = [
+        CGPoint(x: 0, y: 0),
+        CGPoint(x: length, y: 0),
+        CGPoint(x: length, y: length),
+        CGPoint(x: 0, y: length),
+    ]
+
+    self.init(points: points)
+}
+```
+
+Note how the convenience initializer ends by calling the designated initializer – this is a requirement, and means that your convenience initializers are only responsible for setting up the parts that are unique to them rather than doing everything.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-designated-initializers">What are designated initializers?</a></li><li><a href="/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers"</a></li><li><a href="/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor</a></li><li><a href="/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them?</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li></ul>
+/example-code/language/what-are-designated-initializers">What are designated initializers? 
+/example-code/language/fixing-class-viewcontroller-has-no-initializers">Fixing "Class ViewController has no initializers" 
+/example-code/uicolor/how-to-convert-a-html-name-string-into-a-uicolor">How to convert a HTML name string into a UIColor 
+/quick-start/concurrency/what-is-an-actor-and-why-does-swift-have-them">What is an actor and why does Swift have them? 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a>
 -->
 
 :::

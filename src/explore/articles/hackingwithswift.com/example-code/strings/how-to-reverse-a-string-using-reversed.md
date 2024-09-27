@@ -59,17 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Reversing a string in Swift is done by using the <code>reversed()</code> method on its characters, then creating a new string out of the result. Here's the code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> str <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Hello, world!"</span></span>
-<span class="token keyword">let</span> reversed <span class="token operator">=</span> <span class="token class-name">String</span><span class="token punctuation">(</span>str<span class="token punctuation">.</span><span class="token function">reversed</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token function">print</span><span class="token punctuation">(</span>reversed<span class="token punctuation">)</span></code></pre>
-<p>That will print "!dlrow ,olleH" to the Xcode console.</p>
+Reversing a string in Swift is done by using the `reversed()` method on its characters, then creating a new string out of the result. Here's the code:
+
+```swift
+let str = "Hello, world!"
+let reversed = String(str.reversed())
+print(reversed)
+```
+
+That will print "!dlrow ,olleH" to the Xcode console.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-loop-through-an-array-in-reverse">How to loop through an array in reverse</a></li><li><a href="/example-code/language/how-to-reverse-sort-an-array">How to reverse sort an array</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter</a></li><li><a href="/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a></li></ul>
+/example-code/arrays/how-to-loop-through-an-array-in-reverse">How to loop through an array in reverse 
+/example-code/language/how-to-reverse-sort-an-array">How to reverse sort an array 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/system/how-to-convert-dates-and-times-to-a-string-using-dateformatter">How to convert dates and times to a string using DateFormatter 
+/quick-start/swiftui/how-to-add-advanced-text-styling-using-attributedstring">How to add advanced text styling using AttributedString</a>
 -->
 
 :::

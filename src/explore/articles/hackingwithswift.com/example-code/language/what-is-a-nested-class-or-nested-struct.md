@@ -59,21 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Nested types –&nbsp;i.e. nested structs and nested classes –&nbsp;are a useful way of organizing your code, and perhaps even restricting what others can do with it. In essence, a nested type is just one data type defined inside another, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">Deck</span> <span class="token punctuation">{</span>
-    <span class="token keyword">struct</span> <span class="token class-name">Card</span> <span class="token punctuation">{</span>
+Nested types – i.e. nested structs and nested classes – are a useful way of organizing your code, and perhaps even restricting what others can do with it. In essence, a nested type is just one data type defined inside another, like this:
 
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Now rather than creating a new <code>Card</code> struct you would instead create a new <code>Deck.Card</code> because one is inside the other.</p>
-<p>This approach is useful for organizing larger applications, because you might need custom types that are applicable only in certain places –&nbsp;exposing them elsewhere might cause problems.</p>
-<p>If you want to re-enforce this, Swift lets you mark the inner type (<code>Card</code> above) as being private, which means it can only be used inside the <code>Deck</code> class –&nbsp;code from outside <code>Deck</code> can’t even see it.</p>
+```swift
+struct Deck {
+    struct Card {
+
+    }
+}
+```
+
+Now rather than creating a new `Card` struct you would instead create a new `Deck.Card` because one is inside the other.
+
+This approach is useful for organizing larger applications, because you might need custom types that are applicable only in certain places – exposing them elsewhere might cause problems.
+
+If you want to re-enforce this, Swift lets you mark the inner type (`Card` above) as being private, which means it can only be used inside the `Deck` class – code from outside `Deck` can’t even see it.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/whats-the-difference-between-a-class-and-a-struct">What’s the difference between a class and a struct?</a></li><li><a href="/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer">How to add a custom initializer to a struct without losing its memberwise initializer</a></li><li><a href="/quick-start/swiftui/how-to-create-modifiers-for-a-uiviewrepresentable-struct">How to create modifiers for a UIViewRepresentable struct</a></li><li><a href="/example-code/system/how-to-load-and-save-a-struct-in-userdefaults-using-codable">How to load and save a struct in UserDefaults using Codable</a></li><li><a href="/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable?</a></li></ul>
+/example-code/language/whats-the-difference-between-a-class-and-a-struct">What’s the difference between a class and a struct? 
+/example-code/language/how-to-add-a-custom-initializer-to-a-struct-without-losing-its-memberwise-initializer">How to add a custom initializer to a struct without losing its memberwise initializer 
+/quick-start/swiftui/how-to-create-modifiers-for-a-uiviewrepresentable-struct">How to create modifiers for a UIViewRepresentable struct 
+/example-code/system/how-to-load-and-save-a-struct-in-userdefaults-using-codable">How to load and save a struct in UserDefaults using Codable 
+/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable?</a>
 -->
 
 :::

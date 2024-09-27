@@ -59,14 +59,20 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>NIBs and XIBs are files that describe user interfaces, and are built using Interface Builder. In fact, the acronym "NIB" comes from "NeXTSTEP Interface Builder", and "XIB" from "Xcode Interface Builder". NIBs and XIBs are effectively the same thing: XIBs are newer and are used while you're developing, whereas NIBs are what get produced when you create a build.</p>
-<p>In modern versions of iOS and macOS, NIBs and XIBs have effectively been replaced by storyboards, although you may still meet them if you work on older projects.</p>
+NIBs and XIBs are files that describe user interfaces, and are built using Interface Builder. In fact, the acronym "NIB" comes from "NeXTSTEP Interface Builder", and "XIB" from "Xcode Interface Builder". NIBs and XIBs are effectively the same thing: XIBs are newer and are used while you're developing, whereas NIBs are what get produced when you create a build.
+
+In modern versions of iOS and macOS, NIBs and XIBs have effectively been replaced by storyboards, although you may still meet them if you work on older projects.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-is-a-singleton">What is a singleton?</a></li><li><a href="/example-code/language/what-does-an-exclamation-mark-mean">What does an exclamation mark mean?</a></li><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/language/how-to-split-an-array-into-chunks">How to split an array into chunks</a></li><li><a href="/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a></li></ul>
+/example-code/language/what-is-a-singleton">What is a singleton? 
+/example-code/language/what-does-an-exclamation-mark-mean">What does an exclamation mark mean? 
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/language/how-to-split-an-array-into-chunks">How to split an array into chunks 
+/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a>
 -->
 
 :::

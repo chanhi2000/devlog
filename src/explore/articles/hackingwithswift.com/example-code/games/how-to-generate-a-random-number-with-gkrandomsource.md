@@ -59,19 +59,36 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>GameplayKit is a powerful new framework introduced in iOS 9.0, and one of the (many!) things it does is provide a number of ways to generate random numbers easily. To get started, import the framework into your code like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">import</span> <span class="token class-name">GameplayKit</span></code></pre>
-<p>You can immediately start generating random numbers just by using this code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token class-name">GKRandomSource</span><span class="token punctuation">.</span><span class="token function">sharedRandom</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">nextInt</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>That code produces a number between -2,147,483,648 and 2,147,483,647, so if you're happy with negative numbers then you're basically done. Alternatively, if you want a random number between and an upper bound (inclusive!), you should use this code instead:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">print</span><span class="token punctuation">(</span><span class="token class-name">GKRandomSource</span><span class="token punctuation">.</span><span class="token function">sharedRandom</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">nextInt</span><span class="token punctuation">(</span>upperBound<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">)</span><span class="token punctuation">)</span></code></pre>
-<p>That will return a number between 0 and 10, including 0 and 10 themselves.</p>
+GameplayKit is a powerful new framework introduced in iOS 9.0, and one of the (many!) things it does is provide a number of ways to generate random numbers easily. To get started, import the framework into your code like this:
+
+```swift
+import GameplayKit
+```
+
+You can immediately start generating random numbers just by using this code:
+
+```swift
+print(GKRandomSource.sharedRandom().nextInt())
+```
+
+That code produces a number between -2,147,483,648 and 2,147,483,647, so if you're happy with negative numbers then you're basically done. Alternatively, if you want a random number between and an upper bound (inclusive!), you should use this code instead:
+
+```swift
+print(GKRandomSource.sharedRandom().nextInt(upperBound: 10))
+```
+
+That will return a number between 0 and 10, including 0 and 10 themselves.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-generate-a-random-number">How to generate a random number</a></li><li><a href="/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution</a></li><li><a href="/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution</a></li><li><a href="/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID</a></li><li><a href="/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a></li></ul>
+/example-code/language/how-to-generate-a-random-number">How to generate a random number 
+/example-code/games/how-to-generate-shaped-random-numbers-using-gkgaussiandistribution">How to generate shaped random numbers using GKGaussianDistribution 
+/example-code/games/how-to-generate-fair-random-numbers-using-gkshuffleddistribution">How to generate fair random numbers using GKShuffledDistribution 
+/example-code/system/how-to-generate-a-random-identifier-using-uuid">How to generate a random identifier using UUID 
+/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator">How to generate haptic feedback with UIFeedbackGenerator</a>
 -->
 
 ---

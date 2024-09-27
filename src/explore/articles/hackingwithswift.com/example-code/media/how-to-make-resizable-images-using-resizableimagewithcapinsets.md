@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you use a small image in a large image view, you can make the image stretch to fit if you want to but it probably won't look great. iOS provides an alternative known as <em>resizable images</em>, which is where you define part of an image as being fixed in size and let iOS stretch the remainder.</p>
-<p>This technique is common with button graphics: you make the corners fixed in size, then stretch the center part as big as it needs to be. The center part ought to be just one pixel by one pixel in size so that it stretches perfectly, but you can also ask iOS to repeat the center area as a tile if that's what you want.</p>
-<p>This example code below creates a resizable image by defining the corners as 8 points each and stretching the rest:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> img <span class="token operator">=</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>named<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"button"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> resizable <span class="token operator">=</span> img<span class="token punctuation">.</span><span class="token function">resizableImage</span><span class="token punctuation">(</span>withCapInsets<span class="token punctuation">:</span> <span class="token class-name">UIEdgeInsets</span><span class="token punctuation">(</span>top<span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">,</span> <span class="token keyword">left</span><span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">,</span> bottom<span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">,</span> <span class="token keyword">right</span><span class="token punctuation">:</span> <span class="token number">8</span><span class="token punctuation">)</span><span class="token punctuation">,</span> resizingMode<span class="token punctuation">:</span> <span class="token punctuation">.</span>stretch<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+If you use a small image in a large image view, you can make the image stretch to fit if you want to but it probably won't look great. iOS provides an alternative known as *resizable images*, which is where you define part of an image as being fixed in size and let iOS stretch the remainder.
+
+This technique is common with button graphics: you make the corners fixed in size, then stretch the center part as big as it needs to be. The center part ought to be just one pixel by one pixel in size so that it stretches perfectly, but you can also ask iOS to repeat the center area as a tile if that's what you want.
+
+This example code below creates a resizable image by defining the corners as 8 points each and stretching the rest:
+
+```swift
+if let img = UIImage(named: "button") {
+    let resizable = img.resizableImage(withCapInsets: UIEdgeInsets(top: 8, left: 8, bottom: 8, right: 8), resizingMode: .stretch)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration">How to detect images using ARImageTrackingConfiguration</a></li><li><a href="/quick-start/swiftui/how-to-use-decorative-images-to-reduce-screen-reader-clutter">How to use decorative images to reduce screen reader clutter</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-draw-images-using-image-views">How to draw images using Image views</a></li><li><a href="/quick-start/swiftui/how-to-insert-images-into-text">How to insert images into text</a></li></ul>
+/example-code/arkit/how-to-detect-images-using-arimagetrackingconfiguration">How to detect images using ARImageTrackingConfiguration 
+/quick-start/swiftui/how-to-use-decorative-images-to-reduce-screen-reader-clutter">How to use decorative images to reduce screen reader clutter 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-draw-images-using-image-views">How to draw images using Image views 
+/quick-start/swiftui/how-to-insert-images-into-text">How to insert images into text</a>
 -->
 
 :::

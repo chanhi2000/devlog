@@ -56,37 +56,61 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Associated types are a powerful way of making protocols generic, but they can be a bit confusing at first. In essence, they mark holes in protocols that must be filled by whatever types conform to those protocols.</p>
-<p>Let’s start with a simple example: an <code>ItemStoring</code> protocol that can store items in an array. What <em>type</em> those items are depends on whatever conforms to the protocol, but we can still use them inside the protocol and any extensions.</p>
-<p>Here’s the basic protocol:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">protocol</span> <span class="token class-name">ItemStoring</span> <span class="token punctuation">{</span>
-    <span class="token keyword">associatedtype</span> <span class="token class-name">DataType</span>
+Associated types are a powerful way of making protocols generic, but they can be a bit confusing at first. In essence, they mark holes in protocols that must be filled by whatever types conform to those protocols.
 
-    <span class="token keyword">var</span> items<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">DataType</span><span class="token punctuation">]</span> <span class="token punctuation">{</span> <span class="token keyword">get</span> <span class="token keyword">set</span><span class="token punctuation">}</span>
-    <span class="token keyword">mutating</span> <span class="token keyword">func</span> <span class="token function-definition function">add</span><span class="token punctuation">(</span>item<span class="token punctuation">:</span> <span class="token class-name">DataType</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>As you can see, it requires that conforming types provide an <code>items</code> array that holds an array of whatever is used to fill the <code>DataType</code> hole, and also a mutating method to add items of that type.</p>
-<p>That mutating method is probably going to be the same for all conforming types, so we can write a protocol extension that provides a default implementation:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">ItemStoring</span> <span class="token punctuation">{</span>
-    <span class="token keyword">mutating</span> <span class="token keyword">func</span> <span class="token function-definition function">add</span><span class="token punctuation">(</span>item<span class="token punctuation">:</span> <span class="token class-name">DataType</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        items<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>item<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Finally we can create a <code>NameDatabase</code> struct that conforms to the <code>ItemStoring</code> protocol like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">NameDatabase</span><span class="token punctuation">:</span> <span class="token class-name">ItemStoring</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> items <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Swift is smart enough to realize that <code>String</code> is being used to fill the hole in the associated type, because the <code>items</code> array must be whatever <code>DataType</code> is.</p>
-<p>That’s all the code written, so you can go ahead and use <code>NameDatabase</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> names <span class="token operator">=</span> <span class="token class-name">NameDatabase</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-names<span class="token punctuation">.</span><span class="token function">add</span><span class="token punctuation">(</span>item<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"James"</span></span><span class="token punctuation">)</span>
-names<span class="token punctuation">.</span><span class="token function">add</span><span class="token punctuation">(</span>item<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Jess"</span></span><span class="token punctuation">)</span></code></pre>
+Let’s start with a simple example: an `ItemStoring` protocol that can store items in an array. What *type* those items are depends on whatever conforms to the protocol, but we can still use them inside the protocol and any extensions.
+
+Here’s the basic protocol:
+
+```swift
+protocol ItemStoring {
+    associatedtype DataType
+
+    var items: [DataType] { get set}
+    mutating func add(item: DataType)
+}
+```
+
+As you can see, it requires that conforming types provide an `items` array that holds an array of whatever is used to fill the `DataType` hole, and also a mutating method to add items of that type.
+
+That mutating method is probably going to be the same for all conforming types, so we can write a protocol extension that provides a default implementation:
+
+```swift
+extension ItemStoring {
+    mutating func add(item: DataType) {
+        items.append(item)
+    }
+}
+```
+
+Finally we can create a `NameDatabase` struct that conforms to the `ItemStoring` protocol like this:
+
+```swift
+struct NameDatabase: ItemStoring {
+    var items = [String]()
+}
+```
+
+Swift is smart enough to realize that `String` is being used to fill the hole in the associated type, because the `items` array must be whatever `DataType` is.
+
+That’s all the code written, so you can go ahead and use `NameDatabase`:
+
+```swift
+var names = NameDatabase()
+names.add(item: "James")
+names.add(item: "Jess")
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type</a></li><li><a href="/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements”</a></li><li><a href="/example-code/language/how-to-add-associated-values-to-enums">How to add associated values to enums</a></li><li><a href="/quick-start/swiftui/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-ty">How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type”</a></li></ul>
+/example-code/language/how-to-fix-the-error-protocol-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix the error “protocol can only be used as a generic constraint because it has Self or associated type requirements” 
+/example-code/language/how-to-constrain-a-protocol-associated-type">How to constrain a protocol associated type 
+/quick-start/swiftui/how-to-fix-protocol-view-can-only-be-used-as-a-generic-constraint-because-it-has-self-or-associated-type-requirements">How to fix “Protocol 'View' can only be used as a generic constraint because it has Self or associated type requirements” 
+/example-code/language/how-to-add-associated-values-to-enums">How to add associated values to enums 
+/quick-start/swiftui/how-to-fix-function-declares-an-opaque-return-type-but-has-no-return-statements-in-its-body-from-which-to-infer-an-underlying-ty">How to fix “Function declares an opaque return type, but has no return statements in its body from which to infer an underlying type”</a>
 -->
 
 :::

@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you create your app using one of Xcode’s built-in templates, you’ll automatically get an <code>AppDelegate</code> class in AppDelegate.swift, which comes with a handful of empty methods. </p>
-<p>This class is <em>supposed</em> to be there to handle application lifecycle events -&nbsp;i.e., responding to the app being launched, backgrounded, foregrounded, receiving data, and so on. However, in practice <code>AppDelegate</code> is often abused as an easy dumping group for shared data –&nbsp;any thing that is used in several view controllers often gets thrown into the app delegate, but that’s nearly always the wrong place for it.</p>
-<p>You may also sometimes see folks creating their initial user interface inside <code>AppDelegate</code>. This is broadly a bad idea unless you’re just starting out –&nbsp;if you’ve done this, consider splitting off that layout code either into a coordinator or into a view containment subclass.</p>
+If you create your app using one of Xcode’s built-in templates, you’ll automatically get an `AppDelegate` class in <FontIcon icon="fa-brands fa-swift"/>`AppDelegate.swift`, which comes with a handful of empty methods. 
+
+This class is *supposed* to be there to handle application lifecycle events - i.e., responding to the app being launched, backgrounded, foregrounded, receiving data, and so on. However, in practice `AppDelegate` is often abused as an easy dumping group for shared data – any thing that is used in several view controllers often gets thrown into the app delegate, but that’s nearly always the wrong place for it.
+
+You may also sometimes see folks creating their initial user interface inside `AppDelegate`. This is broadly a bad idea unless you’re just starting out – if you’ve done this, consider splitting off that layout code either into a coordinator or into a view containment subclass.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-add-an-appdelegate-to-a-swiftui-app">How to add an AppDelegate to a SwiftUI app</a></li><li><a href="/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable?</a></li><li><a href="/example-code/language/what-are-class-and-subtype-existentials">What are class and subtype existentials?</a></li><li><a href="/example-code/language/what-is-class-inheritance">What is class inheritance?</a></li><li><a href="/example-code/uikit/how-to-detect-when-your-size-class-changes">How to detect when your size class changes</a></li></ul>
+/quick-start/swiftui/how-to-add-an-appdelegate-to-a-swiftui-app">How to add an AppDelegate to a SwiftUI app 
+/example-code/language/whats-the-difference-between-a-static-variable-and-a-class-variable">What’s the difference between a static variable and a class variable? 
+/example-code/language/what-are-class-and-subtype-existentials">What are class and subtype existentials? 
+/example-code/language/what-is-class-inheritance">What is class inheritance? 
+/example-code/uikit/how-to-detect-when-your-size-class-changes">How to detect when your size class changes</a>
 -->
 
 :::

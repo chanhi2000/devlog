@@ -59,17 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can change between SpriteKit scenes by calling the <code>presentScene()</code> method on your <code>SKView</code>. This can be called either just with a new scene, or with a new scene and a transition animation to use, depending on the effect you want. Here's an example with a transition:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> scene <span class="token operator">=</span> <span class="token class-name">NewGameScene</span><span class="token punctuation">(</span>fileNamed<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"NewGameScene"</span></span><span class="token punctuation">)</span><span class="token operator">!</span>
-<span class="token keyword">let</span> transition <span class="token operator">=</span> <span class="token class-name">SKTransition</span><span class="token punctuation">.</span><span class="token function">moveIn</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> <span class="token punctuation">.</span><span class="token keyword">right</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-<span class="token keyword">self</span><span class="token punctuation">.</span>view<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">presentScene</span><span class="token punctuation">(</span>scene<span class="token punctuation">,</span> transition<span class="token punctuation">:</span> transition<span class="token punctuation">)</span></code></pre>
-<p>There are several beautiful transition types you can try, with the <code>SKTransition.doorway(withDuration: 1)</code> transition looking particularly neat.</p>
+You can change between SpriteKit scenes by calling the `presentScene()` method on your `SKView`. This can be called either just with a new scene, or with a new scene and a transition animation to use, depending on the effect you want. Here's an example with a transition:
+
+```swift
+let scene = NewGameScene(fileNamed: "NewGameScene")!
+let transition = SKTransition.moveIn(with: .right, duration: 1)
+self.view?.presentScene(scene, transition: transition)
+```
+
+There are several beautiful transition types you can try, with the `SKTransition.doorway(withDuration: 1)` transition looking particularly neat.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-create-a-custom-transition">How to create a custom transition</a></li><li><a href="/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition</a></li><li><a href="/example-code/uikit/how-to-flip-a-uiview-with-a-3d-effect-transitionwith">How to flip a UIView with a 3D effect: transition(with:)</a></li><li><a href="/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition">How to make views scroll with a custom transition</a></li><li><a href="/quick-start/swiftui/how-to-find-which-data-change-is-causing-a-swiftui-view-to-update">How to find which data change is causing a SwiftUI view to update</a></li></ul>
+/quick-start/swiftui/how-to-create-a-custom-transition">How to create a custom transition 
+/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition">How to add and remove views with a transition 
+/example-code/uikit/how-to-flip-a-uiview-with-a-3d-effect-transitionwith">How to flip a UIView with a 3D effect: transition(with:) 
+/quick-start/swiftui/how-to-make-views-scroll-with-a-custom-transition">How to make views scroll with a custom transition 
+/quick-start/swiftui/how-to-find-which-data-change-is-causing-a-swiftui-view-to-update">How to find which data change is causing a SwiftUI view to update</a>
 -->
 
 ---

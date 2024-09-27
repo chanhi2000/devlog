@@ -99,6 +99,9 @@ export const template: SidebarInfoTemplate = {
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
       "improving-code-quality-in-csharp-with-static-code-analysis", // 2024-08-03
       "5-ef-core-features-you-need-to-know", // 2024-08-10
+      "complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit", // 2024-08-17
+      "introduction-to-event-sourcing-for-net-developers", // 2024-08-31
+      "refit-in-dotnet-building-robust-api-clients-in-csharp", // 2024-09-07
     ]],[
     "cs-razor", [
       "flexible-pdf-reporting-in-net-using-razor-views", // 2024-06-29
@@ -117,6 +120,9 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet", // 2023-05-27
       "testcontainers-integration-testing-using-docker-in-dotnet", // 2023-09-02
     ]],[
+    "aws", [
+      "complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit", // 2024-08-17
+    ]],[
     "azure", [
       "messaging-made-easy-with-azure-service-bus", // 2023-02-11
     ]],[
@@ -131,6 +137,7 @@ export const template: SidebarInfoTemplate = {
       "modular-monolith-communication-patterns", // 2023-08-05
       "orchestration-vs-choreography", // 2023-08-26
       "what-is-a-modular-monolith", // 2024-03-09
+      "screaming-architecture", // 2024-08-24
     ]],[
     "career", [
       "how-to-be-a-better-software-engineer-in-2023", // 2022-12-31
@@ -238,6 +245,10 @@ export const template: SidebarInfoTemplate = {
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
       "improving-code-quality-in-csharp-with-static-code-analysis", // 2024-08-03
       "5-ef-core-features-you-need-to-know", // 2024-08-10
+      "complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit", // 2024-08-17
+      "screaming-architecture", // 2024-08-24
+      "introduction-to-event-sourcing-for-net-developers", // 2024-08-31
+      "refit-in-dotnet-building-robust-api-clients-in-csharp", // 2024-09-07
     ]]
   ])
 };

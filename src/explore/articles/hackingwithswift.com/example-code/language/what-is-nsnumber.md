@@ -59,22 +59,35 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p><code>NSNumber</code> is an Objective-C class designed to store a variety of types of numbers. It was important in Objective-C because its primitive number types – integers, doubles, etc –&nbsp;could not be used in most of Apple’s APIs without wrapping them in an object such as <code>NSNumber</code>, but mostly Swift does a good job of automatically converting its numbers to <code>NSNumber</code> when you need it.</p>
-<p>That being said, there are a few times when Swift won’t help you out, and you need to convert to <code>NSNumber</code> by hand. For example, this code is designed to convert numerical numbers like 50 into textual numbers like “fifty”, but it won’t compile:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> number <span class="token operator">=</span> <span class="token number">50</span>
-<span class="token keyword">let</span> formatter <span class="token operator">=</span> <span class="token class-name">NumberFormatter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-formatter<span class="token punctuation">.</span>numberStyle <span class="token operator">=</span> <span class="token punctuation">.</span>spellOut
+`NSNumber` is an Objective-C class designed to store a variety of types of numbers. It was important in Objective-C because its primitive number types – integers, doubles, etc – could not be used in most of Apple’s APIs without wrapping them in an object such as `NSNumber`, but mostly Swift does a good job of automatically converting its numbers to `NSNumber` when you need it.
 
-<span class="token comment">// this line won't work</span>
-<span class="token comment">// let string1 = formatter.string(from: number) ?? ""</span></code></pre>
-<p>The problem is that the <code>string(from:)</code> method expects an <code>NSNumber</code> and Swift isn’t able to automatically bridge the integer we created in <code>number</code>. The fix here is nice and easy –&nbsp;just add <code>as NSNumber</code> to help Swift bridge the two worlds:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> string2 <span class="token operator">=</span> formatter<span class="token punctuation">.</span><span class="token function">string</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> number <span class="token keyword">as</span> <span class="token class-name">NSNumber</span><span class="token punctuation">)</span> <span class="token operator">??</span> <span class="token string-literal"><span class="token string">""</span></span></code></pre>
+That being said, there are a few times when Swift won’t help you out, and you need to convert to `NSNumber` by hand. For example, this code is designed to convert numerical numbers like 50 into textual numbers like “fifty”, but it won’t compile:
+
+```swift
+let number = 50
+let formatter = NumberFormatter()
+formatter.numberStyle = .spellOut
+
+// this line won't work
+// let string1 = formatter.string(from: number) ?? ""
+```
+
+The problem is that the `string(from:)` method expects an `NSNumber` and Swift isn’t able to automatically bridge the integer we created in `number`. The fix here is nice and easy – just add `as NSNumber` to help Swift bridge the two worlds:
+
+```swift
+let string2 = formatter.string(from: number as NSNumber) ?? ""
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/what-are-static-methods-and-variables">What are static methods and variables?</a></li><li><a href="/example-code/language/how-to-create-a-custom-optionset">How to create a custom OptionSet</a></li><li><a href="/example-code/language/what-is-a-lazy-sequence">What is a lazy sequence?</a></li><li><a href="/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable</a></li><li><a href="/example-code/language/whats-the-difference-between-a-class-and-a-struct">What’s the difference between a class and a struct?</a></li></ul>
+/example-code/language/what-are-static-methods-and-variables">What are static methods and variables? 
+/example-code/language/how-to-create-a-custom-optionset">How to create a custom OptionSet 
+/example-code/language/what-is-a-lazy-sequence">What is a lazy sequence? 
+/example-code/language/how-to-sort-the-keys-of-your-json-using-codable">How to sort the keys of your JSON using Codable 
+/example-code/language/whats-the-difference-between-a-class-and-a-struct">What’s the difference between a class and a struct?</a>
 -->
 
 :::

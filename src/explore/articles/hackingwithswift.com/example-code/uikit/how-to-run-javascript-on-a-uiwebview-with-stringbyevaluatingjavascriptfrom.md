@@ -59,16 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>If you’re still using the deprecated <code>UIWebView</code>, you can run custom JavaScript on it using the method <code>stringByEvaluatingJavaScript(from:)</code>. The method returns an optional string, which means if the code returns a value you'll get it back otherwise you'll get back <code>nil</code>.</p>
-<p>Here's an example that pulls out the current page's title:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> pageTitle <span class="token operator">=</span> yourUIWebView<span class="token punctuation">.</span><span class="token function">stringByEvaluatingJavaScript</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"document.title"</span></span><span class="token punctuation">)</span></code></pre>
-<p>Note: if you're using a <code>WKWebView</code> you can use its <code>title</code> property directly to get the same thing.</p>
+If you’re still using the deprecated `UIWebView`, you can run custom JavaScript on it using the method `stringByEvaluatingJavaScript(from:)`. The method returns an optional string, which means if the code returns a value you'll get it back otherwise you'll get back `nil`.
+
+Here's an example that pulls out the current page's title:
+
+```swift
+let pageTitle = yourUIWebView.stringByEvaluatingJavaScript(from: "document.title")
+```
+
+Note: if you're using a `WKWebView` you can use its `title` property directly to get the same thing.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/wkwebview/how-to-run-javascript-on-a-wkwebview-with-evaluatejavascript">How to run JavaScript on a WKWebView with evaluateJavaScript()</a></li><li><a href="/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView?</a></li><li><a href="/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString()</a></li><li><a href="/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview">How to load HTTP content in WKWebView and UIWebView</a></li><li><a href="/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a></li></ul>
+/example-code/wkwebview/how-to-run-javascript-on-a-wkwebview-with-evaluatejavascript">How to run JavaScript on a WKWebView with evaluateJavaScript() 
+/example-code/wkwebview/whats-the-difference-between-uiwebview-and-wkwebview">What's the difference between UIWebView and WKWebView? 
+/example-code/uikit/how-to-load-a-html-string-into-a-wkwebview-or-uiwebview-loadhtmlstring">How to load a HTML string into a WKWebView or UIWebView: loadHTMLString() 
+/example-code/wkwebview/how-to-load-http-content-in-wkwebview-and-uiwebview">How to load HTTP content in WKWebView and UIWebView 
+/example-code/uikit/how-to-stop-users-selecting-text-in-a-uiwebview-or-wkwebview">How to stop users selecting text in a UIWebView or WKWebView</a>
 -->
 
 :::

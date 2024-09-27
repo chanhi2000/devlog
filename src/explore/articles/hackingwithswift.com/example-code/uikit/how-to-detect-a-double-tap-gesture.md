@@ -59,25 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>The iOS <code>UITapGestureRecognizer</code> class has a built-in way to detect a double tap on any view. All you need to do is create the recognizer, set its <code>numberOfTapsRequired</code> property to 2, then add it to the view you want to monitor.</p>
-<p>Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">super</span><span class="token punctuation">.</span><span class="token function">viewDidLoad</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+The iOS `UITapGestureRecognizer` class has a built-in way to detect a double tap on any view. All you need to do is create the recognizer, set its `numberOfTapsRequired` property to 2, then add it to the view you want to monitor.
 
-    <span class="token keyword">let</span> tap <span class="token operator">=</span> <span class="token class-name">UITapGestureRecognizer</span><span class="token punctuation">(</span>target<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">,</span> action<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>doubleTapped<span class="token punctuation">)</span><span class="token punctuation">)</span>
-    tap<span class="token punctuation">.</span>numberOfTapsRequired <span class="token operator">=</span> <span class="token number">2</span>
-    view<span class="token punctuation">.</span><span class="token function">addGestureRecognizer</span><span class="token punctuation">(</span>tap<span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+Here's an example:
 
-<span class="token attribute atrule">@objc</span> <span class="token keyword">func</span> <span class="token function-definition function">doubleTapped</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token comment">// do something here</span>
-<span class="token punctuation">}</span></code></pre>
+```swift
+override func viewDidLoad() {
+    super.viewDidLoad()
+
+    let tap = UITapGestureRecognizer(target: self, action: #selector(doubleTapped))
+    tap.numberOfTapsRequired = 2
+    view.addGestureRecognizer(tap)
+}
+
+@objc func doubleTapped() {
+    // do something here
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures</a></li><li><a href="/quick-start/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view">How to detect the location of a tap inside a view</a></li><li><a href="/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view">How to add a gesture recognizer to a view</a></li><li><a href="/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled</a></li><li><a href="/example-code/uikit/how-to-make-gesture-recognizers-work-together-using-requiretofail">How to make gesture recognizers work together using require(toFail:)</a></li></ul>
+/quick-start/swiftui/how-to-read-tap-and-double-tap-gestures">How to read tap and double-tap gestures 
+/quick-start/swiftui/how-to-detect-the-location-of-a-tap-inside-a-view">How to detect the location of a tap inside a view 
+/quick-start/swiftui/how-to-add-a-gesture-recognizer-to-a-view">How to add a gesture recognizer to a view 
+/example-code/uikit/how-to-let-users-tap-on-a-uitableviewcell-while-editing-is-enabled">How to let users tap on a UITableViewCell while editing is enabled 
+/example-code/uikit/how-to-make-gesture-recognizers-work-together-using-requiretofail">How to make gesture recognizers work together using require(toFail:)</a>
 -->
 
 :::

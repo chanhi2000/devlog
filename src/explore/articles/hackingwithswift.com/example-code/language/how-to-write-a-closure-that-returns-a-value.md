@@ -59,19 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Like regular functions, closures can accept values and return values of your choosing: just write them out at the start of your closure, followed by the word <code>in</code>.</p>
-<p>For example, we could write a <code>greeting</code> closure that accepts the name of a person to greet and returns a string using that name:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> greeting <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">String</span> <span class="token keyword">in</span>
-    <span class="token keyword">return</span> <span class="token string-literal"><span class="token string">"Hello, </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">name</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">!"</span></span>
-<span class="token punctuation">}</span></code></pre>
-<p>You can now call that just like any other function, passing in someone’s name as its only parameter:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> message <span class="token operator">=</span> <span class="token function">greeting</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Taylor"</span></span><span class="token punctuation">)</span></code></pre>
+Like regular functions, closures can accept values and return values of your choosing: just write them out at the start of your closure, followed by the word `in`.
+
+For example, we could write a `greeting` closure that accepts the name of a person to greet and returns a string using that name:
+
+```swift
+let greeting = { (name: String) -> String in
+    return "Hello, \(name)!"
+}
+```
+
+You can now call that just like any other function, passing in someone’s name as its only parameter:
+
+```swift
+let message = greeting("Taylor")
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a></li><li><a href="/example-code/language/what-is-copy-on-write">What is copy on write?</a></li><li><a href="/example-code/media/uiimagewritetosavedphotosalbum-how-to-write-to-the-ios-photo-album">UIImageWriteToSavedPhotosAlbum(): how to write to the iOS photo album</a></li><li><a href="/example-code/games/how-to-write-text-using-sklabelnode">How to write text using SKLabelNode</a></li><li><a href="/example-code/testing/how-to-write-performance-tests-using-measure">How to write performance tests using measure()</a></li></ul>
+/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:) 
+/example-code/language/what-is-copy-on-write">What is copy on write? 
+/example-code/media/uiimagewritetosavedphotosalbum-how-to-write-to-the-ios-photo-album">UIImageWriteToSavedPhotosAlbum(): how to write to the iOS photo album 
+/example-code/games/how-to-write-text-using-sklabelnode">How to write text using SKLabelNode 
+/example-code/testing/how-to-write-performance-tests-using-measure">How to write performance tests using measure()</a>
 -->
 
 :::

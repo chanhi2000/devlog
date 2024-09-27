@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-7.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,31 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 7.0
 
 <!-- TODO: 작성 -->
 
 <!--
+As of iOS 7.0, all views automatically go behind navigation bars, toolbars and tab bars to provide what Apple calls "context" – having some idea of what's underneath the UI (albeit blurred out with a frosted glass effect) gives users an idea of what else is just off screen.
+
+If this is getting in your way (and honestly it does get in the way surprisingly often) you can easily disable it for a given view controller by modifying its `edgesForExtendedLayout` property.
+
+For example, if you don't want a view controller to go behind any bars, use this:
+
+```swift
+edgesForExtendedLayout = []
+```
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/system/how-to-stop-the-screen-from-going-to-sleep">How to stop the screen from going to sleep 
+/example-code/uikit/how-to-make-a-background-image-run-under-the-safe-area">How to make a background image run under the safe area 
+/example-code/language/how-to-detect-when-the-system-is-under-pressure-and-you-should-reduce-your-work">How to detect when the system is under pressure and you should reduce your work 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a>
 -->
 
 :::

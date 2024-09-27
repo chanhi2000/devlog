@@ -153,5 +153,12 @@
     "topics": ["content-management", "content-services", "editor", "flutter", "flutter-app", "hacktoberfest", "low-code", "no-code", "notion", "notion-alternative", "project-management", "rust", "rust-lang", "rust-language", "team-collaboration", "wiki"],
     "avatar": "https://avatars.githubusercontent.com/u/86002201?v=4",
     "banner": ""
+  }, {
+    "repo": "fzyzcjy/dart_interactive",
+    "desc": "REPL (interactive shell) for Dart, supporting 3rd party packages, hot reload, and full grammar",
+    "officialSite": "https://github.com/fzyzcjy/dart_interactive",
+    "topics": ["dart", "flutter", "interactive", "repl", "shell"],
+    "avatar": "https://avatars.githubusercontent.com/u/5236035?v=4",
+    "banner": ""
   }
 ]

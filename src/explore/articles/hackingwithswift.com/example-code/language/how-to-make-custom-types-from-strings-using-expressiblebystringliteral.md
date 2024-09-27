@@ -59,23 +59,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift’s <code>ExpressibleByStringLiteral</code> protocol lets us create any type directly from a string –&nbsp;as long as Swift understands what type you mean, you can create whatever you want.</p>
-<p>For example, if you regularly hard-code URLs and are tired of force unwrapping them when you know they are definitely correct, you can make <code>URL</code> conform to <code>ExpressibleByStringLiteral</code> so that URLs can be created directly from strings:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token constant">URL</span><span class="token punctuation">:</span> <span class="token class-name">ExpressibleByStringLiteral</span> <span class="token punctuation">{</span>
-    <span class="token keyword">public</span> <span class="token keyword">init</span><span class="token punctuation">(</span>stringLiteral value<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">self</span> <span class="token operator">=</span> <span class="token function">URL</span><span class="token punctuation">(</span>string<span class="token punctuation">:</span> value<span class="token punctuation">)</span><span class="token operator">!</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>With that extension in place you can now write code like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> url<span class="token punctuation">:</span> <span class="token constant">URL</span> <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"https://www.hackingwithswift.com"</span></span>
-<span class="token function">print</span><span class="token punctuation">(</span>url<span class="token punctuation">.</span>absoluteString<span class="token punctuation">)</span></code></pre>
-<p>Notice that I’ve clearly marked <code>url</code> as being of type <code>URL</code> so that Swift doesn’t think it’s a regular string.</p>
+Swift’s `ExpressibleByStringLiteral` protocol lets us create any type directly from a string – as long as Swift understands what type you mean, you can create whatever you want.
+
+For example, if you regularly hard-code URLs and are tired of force unwrapping them when you know they are definitely correct, you can make `URL` conform to `ExpressibleByStringLiteral` so that URLs can be created directly from strings:
+
+```swift
+extension URL: ExpressibleByStringLiteral {
+    public init(stringLiteral value: String) {
+        self = URL(string: value)!
+    }
+}
+```
+
+With that extension in place you can now write code like this:
+
+```swift
+let url: URL = "https://www.hackingwithswift.com"
+print(url.absoluteString)
+```
+
+Notice that I’ve clearly marked `url` as being of type `URL` so that Swift doesn’t think it’s a regular string.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced()</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/strings/how-to-concatenate-strings-to-make-one-joined-string">How to concatenate strings to make one joined string</a></li><li><a href="/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li></ul>
+/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced() 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/strings/how-to-concatenate-strings-to-make-one-joined-string">How to concatenate strings to make one joined string 
+/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a>
 -->
 
 :::

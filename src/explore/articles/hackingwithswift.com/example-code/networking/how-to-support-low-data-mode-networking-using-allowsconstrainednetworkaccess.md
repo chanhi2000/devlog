@@ -59,21 +59,35 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>iOS lets users enable Low Data Mode for any cellular or WiFi connection, which signals to apps that they should be careful how much data they use. This might mean downloading lower-resolution images, it might mean disabling prefetching, or some other way of cutting down on bandwidth use.</p>
-<p>By default your app does not honor the user’s low data mode setting, but you can change that by setting the <code>allowsConstrainedNetworkAccess</code> property to false for a given <code>URLRequest</code>. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> request <span class="token operator">=</span> <span class="token class-name">URLRequest</span><span class="token punctuation">(</span>url<span class="token punctuation">:</span> someURL<span class="token punctuation">)</span>
-request<span class="token punctuation">.</span>allowsConstrainedNetworkAccess <span class="token operator">=</span> <span class="token boolean">false</span></code></pre>
-<p>When that request executes iOS will immediately return an error if low data mode is enabled, which might be your cue to do another request for less data or lower-resolution images, for example. You can detect this error by typecasting it to a <code>URLError</code>, then checking if the <code>networkUnavailableReason</code> property is set to <code>.constrained</code>:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">if</span> <span class="token keyword">let</span> error <span class="token operator">=</span> error <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">URLError</span><span class="token punctuation">,</span> error<span class="token punctuation">.</span>networkUnavailableReason <span class="token operator">==</span> <span class="token punctuation">.</span>constrained <span class="token punctuation">{</span>
-    <span class="token comment">// user has activated low data mode so this request could not be satisfied</span>
-<span class="token punctuation">}</span></code></pre>
-<p><strong>Tip:</strong> There is a similarly named <code>URLSession</code> property called <code>allowsExpensiveNetworkAccess</code>, which determines whether network requests can be made over a personal hotspot. It’s considered expensive because often users on cellular networks have lower data caps, but broadly speaking you should prefer working with low data mode because it gives users control.</p>
+iOS lets users enable Low Data Mode for any cellular or WiFi connection, which signals to apps that they should be careful how much data they use. This might mean downloading lower-resolution images, it might mean disabling prefetching, or some other way of cutting down on bandwidth use.
+
+By default your app does not honor the user’s low data mode setting, but you can change that by setting the `allowsConstrainedNetworkAccess` property to false for a given `URLRequest`. For example:
+
+```swift
+var request = URLRequest(url: someURL)
+request.allowsConstrainedNetworkAccess = false
+```
+
+When that request executes iOS will immediately return an error if low data mode is enabled, which might be your cue to do another request for less data or lower-resolution images, for example. You can detect this error by typecasting it to a `URLError`, then checking if the `networkUnavailableReason` property is set to `.constrained`:
+
+```swift
+if let error = error as? URLError, error.networkUnavailableReason == .constrained {
+    // user has activated low data mode so this request could not be satisfied
+}
+```
+
+**Tip:** There is a similarly named `URLSession` property called `allowsExpensiveNetworkAccess`, which determines whether network requests can be made over a personal hotspot. It’s considered expensive because often users on cellular networks have lower data caps, but broadly speaking you should prefer working with low data mode because it gives users control.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-detect-low-power-mode-is-enabled">How to detect low power mode is enabled</a></li><li><a href="/quick-start/swiftui/how-to-support-drag-and-drop-in-swiftui">How to support drag and drop in SwiftUI</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/how-to-detect-dark-mode">How to detect dark mode</a></li><li><a href="/example-code/uikit/how-to-support-right-to-left-languages">How to support right-to-left languages</a></li></ul>
+/example-code/system/how-to-detect-low-power-mode-is-enabled">How to detect low power mode is enabled 
+/quick-start/swiftui/how-to-support-drag-and-drop-in-swiftui">How to support drag and drop in SwiftUI 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/how-to-detect-dark-mode">How to detect dark mode 
+/example-code/uikit/how-to-support-right-to-left-languages">How to support right-to-left languages</a>
 -->
 
 :::

@@ -59,26 +59,43 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift has a built-in <code>Mirror</code> struct that lets us query any kind of data in our code. It’s most commonly used to read through the list of properties that are available, but it’s also used in playgrounds to print out user-readable values inside types.</p>
-<p>To get started, first create a custom type then an instance of that type:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">struct</span> <span class="token class-name">Person</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> name <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span>
-    <span class="token keyword">var</span> age <span class="token operator">=</span> <span class="token number">26</span>
-<span class="token punctuation">}</span>
+Swift has a built-in `Mirror` struct that lets us query any kind of data in our code. It’s most commonly used to read through the list of properties that are available, but it’s also used in playgrounds to print out user-readable values inside types.
 
-<span class="token keyword">var</span> taylor <span class="token operator">=</span> <span class="token class-name">Person</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>You can now instantiate a <code>Mirror</code> object from <code>taylor</code>, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> mirror <span class="token operator">=</span> <span class="token class-name">Mirror</span><span class="token punctuation">(</span>reflecting<span class="token punctuation">:</span> taylor<span class="token punctuation">)</span></code></pre>
-<p>That mirror isn’t a copy of <code>taylor</code>, a <em>reflection</em> of it –&nbsp;something you can inspect. For example, you can loop over all the properties inside <code>taylor</code> and print out their names and values like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">for</span> <span class="token keyword">case</span> <span class="token keyword">let</span> <span class="token punctuation">(</span>label<span class="token operator">?</span><span class="token punctuation">,</span> value<span class="token punctuation">)</span> <span class="token keyword">in</span> mirror<span class="token punctuation">.</span>children <span class="token punctuation">{</span>
-    <span class="token function">print</span> <span class="token punctuation">(</span>label<span class="token punctuation">,</span> value<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+To get started, first create a custom type then an instance of that type:
+
+```swift
+struct Person {
+    var name = "Taylor Swift"
+    var age = 26
+}
+
+var taylor = Person()
+```
+
+You can now instantiate a `Mirror` object from `taylor`, like this:
+
+```swift
+var mirror = Mirror(reflecting: taylor)
+```
+
+That mirror isn’t a copy of `taylor`, a *reflection* of it – something you can inspect. For example, you can loop over all the properties inside `taylor` and print out their names and values like this:
+
+```swift
+for case let (label?, value) in mirror.children {
+    print (label, value)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li><li><a href="/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-use-dynamic-type-with-a-custom-font">How to use Dynamic Type with a custom font</a></li></ul>
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject? 
+/quick-start/concurrency/how-to-download-json-from-the-internet-and-decode-it-into-any-codable-type">How to download JSON from the internet and decode it into any Codable type 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-use-dynamic-type-with-a-custom-font">How to use Dynamic Type with a custom font</a>
 -->
 
 :::

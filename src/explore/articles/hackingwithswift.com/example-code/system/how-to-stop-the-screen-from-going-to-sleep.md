@@ -59,15 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>You can stop the iOS screen sleeping by using the <code>isIdleTimerDisabled</code> property of your application. When set to true, this means the screen will never dim or go to sleep while your app is running, so be careful – you don't want to waste your user's battery life!</p>
-<p>Here's an example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">UIApplication</span><span class="token punctuation">.</span>shared<span class="token punctuation">.</span>isIdleTimerDisabled <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
+You can stop the iOS screen sleeping by using the `isIdleTimerDisabled` property of your application. When set to true, this means the screen will never dim or go to sleep while your app is running, so be careful – you don't want to waste your user's battery life!
+
+Here's an example:
+
+```swift
+UIApplication.shared.isIdleTimerDisabled = true
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-stop-your-view-going-under-the-navigation-bar-using-edgesforextendedlayout">How to stop your view going under the navigation bar using edgesForExtendedLayout</a></li><li><a href="/quick-start/concurrency/how-to-make-a-task-sleep">How to make a task sleep</a></li><li><a href="/quick-start/swiftui/displaying-a-detail-screen-with-navigationlink">Displaying a detail screen with NavigationLink</a></li><li><a href="/quick-start/swiftui/how-to-use-decorative-images-to-reduce-screen-reader-clutter">How to use decorative images to reduce screen reader clutter</a></li><li><a href="/example-code/uikit/how-to-control-which-screen-edges-trigger-system-gestures-using-preferredscreenedgesdeferringsystemgestures">How to control which screen edges trigger system gestures using preferredScreenEdgesDeferringSystemGestures</a></li></ul>
+/example-code/uikit/how-to-stop-your-view-going-under-the-navigation-bar-using-edgesforextendedlayout">How to stop your view going under the navigation bar using edgesForExtendedLayout 
+/quick-start/concurrency/how-to-make-a-task-sleep">How to make a task sleep 
+/quick-start/swiftui/displaying-a-detail-screen-with-navigationlink">Displaying a detail screen with NavigationLink 
+/quick-start/swiftui/how-to-use-decorative-images-to-reduce-screen-reader-clutter">How to use decorative images to reduce screen reader clutter 
+/example-code/uikit/how-to-control-which-screen-edges-trigger-system-gestures-using-preferredscreenedgesdeferringsystemgestures">How to control which screen edges trigger system gestures using preferredScreenEdgesDeferringSystemGestures</a>
 -->
 
 :::

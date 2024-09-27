@@ -59,22 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>NSDataDetector</code> class makes it easy to detect URLs inside a string using just a few lines of code. This example loops through all URLs in a string, printing each one out:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> input <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"This is a test with the URL https://www.hackingwithswift.com to be detected."</span></span>
-<span class="token keyword">let</span> detector <span class="token operator">=</span> <span class="token keyword">try</span><span class="token operator">!</span> <span class="token class-name">NSDataDetector</span><span class="token punctuation">(</span>types<span class="token punctuation">:</span> <span class="token class-name">NSTextCheckingResult</span><span class="token punctuation">.</span><span class="token class-name">CheckingType</span><span class="token punctuation">.</span>link<span class="token punctuation">.</span>rawValue<span class="token punctuation">)</span>
-<span class="token keyword">let</span> matches <span class="token operator">=</span> detector<span class="token punctuation">.</span><span class="token function">matches</span><span class="token punctuation">(</span><span class="token keyword">in</span><span class="token punctuation">:</span> input<span class="token punctuation">,</span> options<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> range<span class="token punctuation">:</span> <span class="token class-name">NSRange</span><span class="token punctuation">(</span>location<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> length<span class="token punctuation">:</span> input<span class="token punctuation">.</span>utf16<span class="token punctuation">.</span>count<span class="token punctuation">)</span><span class="token punctuation">)</span>
+The `NSDataDetector` class makes it easy to detect URLs inside a string using just a few lines of code. This example loops through all URLs in a string, printing each one out:
 
-<span class="token keyword">for</span> match <span class="token keyword">in</span> matches <span class="token punctuation">{</span>
-    <span class="token keyword">guard</span> <span class="token keyword">let</span> range <span class="token operator">=</span> <span class="token class-name">Range</span><span class="token punctuation">(</span>match<span class="token punctuation">.</span>range<span class="token punctuation">,</span> <span class="token keyword">in</span><span class="token punctuation">:</span> input<span class="token punctuation">)</span> <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">continue</span> <span class="token punctuation">}</span>
-    <span class="token keyword">let</span> url <span class="token operator">=</span> input<span class="token punctuation">[</span>range<span class="token punctuation">]</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>url<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
+```swift
+let input = "This is a test with the URL https://www.hackingwithswift.com to be detected."
+let detector = try! NSDataDetector(types: NSTextCheckingResult.CheckingType.link.rawValue)
+let matches = detector.matches(in: input, options: [], range: NSRange(location: 0, length: input.utf16.count))
+
+for match in matches {
+    guard let range = Range(match.range, in: input) else { continue }
+    let url = input[range]
+    print(url)
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-convert-a-string-to-a-safe-format-for-url-slugs-and-filenames">How to convert a string to a safe format for URL slugs and filenames</a></li><li><a href="/example-code/strings/how-to-load-a-string-from-a-website-url">How to load a string from a website URL</a></li><li><a href="/quick-start/swiftui/how-to-load-a-remote-image-from-a-url">How to load a remote image from a URL</a></li><li><a href="/example-code/uikit/how-to-load-a-remote-image-url-into-uiimageview">How to load a remote image URL into UIImageView</a></li><li><a href="/example-code/system/how-to-open-a-url-in-safari">How to open a URL in Safari</a></li></ul>
+/example-code/strings/how-to-convert-a-string-to-a-safe-format-for-url-slugs-and-filenames">How to convert a string to a safe format for URL slugs and filenames 
+/example-code/strings/how-to-load-a-string-from-a-website-url">How to load a string from a website URL 
+/quick-start/swiftui/how-to-load-a-remote-image-from-a-url">How to load a remote image from a URL 
+/example-code/uikit/how-to-load-a-remote-image-url-into-uiimageview">How to load a remote image URL into UIImageView 
+/example-code/system/how-to-open-a-url-in-safari">How to open a URL in Safari</a>
 -->
 
 :::

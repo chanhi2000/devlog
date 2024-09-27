@@ -59,29 +59,37 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>PDF417 barcodes - most frequently seen on boarding passes at airports, but also seen in digital postage stamps and other places –&nbsp;are built right into iOS. This function below accepts a string as its only parameter and returns a <code>UIImage</code> containing the PDF417 barcode representing that string:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">generatePDF417Barcode</span><span class="token punctuation">(</span>from string<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token operator">-&gt;</span> <span class="token class-name">UIImage</span><span class="token operator">?</span> <span class="token punctuation">{</span>
-    <span class="token keyword">let</span> data <span class="token operator">=</span> string<span class="token punctuation">.</span><span class="token function">data</span><span class="token punctuation">(</span>using<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">.</span><span class="token class-name">Encoding</span><span class="token punctuation">.</span>ascii<span class="token punctuation">)</span>
+PDF417 barcodes - most frequently seen on boarding passes at airports, but also seen in digital postage stamps and other places – are built right into iOS. This function below accepts a string as its only parameter and returns a `UIImage` containing the PDF417 barcode representing that string:
 
-    <span class="token keyword">if</span> <span class="token keyword">let</span> filter <span class="token operator">=</span> <span class="token class-name">CIFilter</span><span class="token punctuation">(</span>name<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"CIPDF417BarcodeGenerator"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        filter<span class="token punctuation">.</span><span class="token function">setValue</span><span class="token punctuation">(</span>data<span class="token punctuation">,</span> forKey<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"inputMessage"</span></span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> transform <span class="token operator">=</span> <span class="token class-name">CGAffineTransform</span><span class="token punctuation">(</span>scaleX<span class="token punctuation">:</span> <span class="token number">3</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">3</span><span class="token punctuation">)</span>
+```swift
+func generatePDF417Barcode(from string: String) -> UIImage? {
+    let data = string.data(using: String.Encoding.ascii)
 
-        <span class="token keyword">if</span> <span class="token keyword">let</span> output <span class="token operator">=</span> filter<span class="token punctuation">.</span>outputImage<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">transformed</span><span class="token punctuation">(</span>by<span class="token punctuation">:</span> transform<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-            <span class="token keyword">return</span> <span class="token class-name">UIImage</span><span class="token punctuation">(</span>ciImage<span class="token punctuation">:</span> output<span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
+    if let filter = CIFilter(name: "CIPDF417BarcodeGenerator") {
+        filter.setValue(data, forKey: "inputMessage")
+        let transform = CGAffineTransform(scaleX: 3, y: 3)
 
-    <span class="token keyword">return</span> <span class="token nil constant">nil</span>
-<span class="token punctuation">}</span>
+        if let output = filter.outputImage?.transformed(by: transform) {
+            return UIImage(ciImage: output)
+        }
+    }
 
-<span class="token keyword">let</span> image <span class="token operator">=</span> <span class="token function">generatePDF417Barcode</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Hacking with Swift"</span></span><span class="token punctuation">)</span></code></pre>
+    return nil
+}
+
+let image = generatePDF417Barcode(from: "Hacking with Swift")
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/media/how-to-create-a-barcode">How to create a barcode</a></li><li><a href="/example-code/media/how-to-scan-a-barcode">How to scan a barcode</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li></ul>
+/example-code/media/how-to-create-a-barcode">How to create a barcode 
+/example-code/media/how-to-scan-a-barcode">How to scan a barcode 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/games/how-to-create-a-random-terrain-tile-map-using-sktilemapnode-and-gkperlinnoisesource">How to create a random terrain tile map using SKTileMapNode and GKPerlinNoiseSource 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a>
 -->
 
 :::

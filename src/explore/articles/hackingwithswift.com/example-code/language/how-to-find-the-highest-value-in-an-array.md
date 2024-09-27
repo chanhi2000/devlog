@@ -59,17 +59,27 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>All arrays have a built-in method called <code>max()</code>, which returns the highest item in the array. This comes with a default implementation if the elements of the array conform to <code>Comparable</code>: it will simply compare all items until it finds the one that compares highest.</p>
-<p>For example, this code puts 5 into the <code>max</code> constant:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> numbers <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">3</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">5</span><span class="token punctuation">]</span>
-<span class="token keyword">let</span> max <span class="token operator">=</span> numbers<span class="token punctuation">.</span><span class="token function">max</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
-<p>Note: because <code>max()</code> can be called on an empty array, it returns an <em>optional</em> –&nbsp;you need to check and unwrap it yourself.</p>
+All arrays have a built-in method called `max()`, which returns the highest item in the array. This comes with a default implementation if the elements of the array conform to `Comparable`: it will simply compare all items until it finds the one that compares highest.
+
+For example, this code puts 5 into the `max` constant:
+
+```swift
+let numbers = [1, 2, 3, 4, 5]
+let max = numbers.max()
+```
+
+Note: because `max()` can be called on an empty array, it returns an *optional* – you need to check and unwrap it yourself.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li><li><a href="/example-code/language/how-to-find-the-longest-initial-sequence-in-an-array">How to find the longest initial sequence in an array</a></li><li><a href="/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced()</a></li><li><a href="/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element</a></li></ul>
+/example-code/language/how-to-use-reduce-to-condense-an-array-into-a-single-value">How to use reduce() to condense an array into a single value 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift? 
+/example-code/language/how-to-find-the-longest-initial-sequence-in-an-array">How to find the longest initial sequence in an array 
+/example-code/language/how-to-safely-use-reference-types-inside-value-types-with-isknownuniquelyreferenced">How to safely use reference types inside value types with isKnownUniquelyReferenced() 
+/example-code/language/how-to-find-the-index-of-the-first-matching-array-element">How to find the index of the first matching array element</a>
 -->
 
 :::

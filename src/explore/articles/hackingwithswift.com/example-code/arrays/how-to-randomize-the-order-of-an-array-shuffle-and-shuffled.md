@@ -59,21 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Swift has built-in methods for shuffling arrays: <code>shuffle()</code> and <code>shuffled()</code>, depending on whether you want the shuffling to happen in place or not.</p>
-<p>For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> albums <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Red"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"1989"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Reputation"</span></span><span class="token punctuation">]</span>
+Swift has built-in methods for shuffling arrays: `shuffle()` and `shuffled()`, depending on whether you want the shuffling to happen in place or not.
 
-<span class="token comment">// shuffle in place</span>
-albums<span class="token punctuation">.</span><span class="token function">shuffle</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+For example:
 
-<span class="token comment">// get a shuffled array back</span>
-<span class="token keyword">let</span> shuffled <span class="token operator">=</span> albums<span class="token punctuation">.</span><span class="token function">shuffled</span><span class="token punctuation">(</span><span class="token punctuation">)</span></code></pre>
+```swift
+var albums = ["Red", "1989", "Reputation"]
+
+// shuffle in place
+albums.shuffle()
+
+// get a shuffled array back
+let shuffled = albums.shuffled()
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-shuffle-an-array-using-arc4random-uniform">How to shuffle an array using arc4random_uniform()</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/quick-start/swiftui/adding-items-to-an-order-with-environmentobject">Adding items to an order with @EnvironmentObject</a></li></ul>
+/example-code/arrays/how-to-shuffle-an-array-using-arc4random-uniform">How to shuffle an array using arc4random_uniform() 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/quick-start/swiftui/adding-items-to-an-order-with-environmentobject">Adding items to an order with @EnvironmentObject</a>
 -->
 
 :::

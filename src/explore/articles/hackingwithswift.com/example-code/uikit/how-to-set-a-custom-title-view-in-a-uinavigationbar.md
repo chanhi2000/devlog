@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,29 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!--
+Each view controller has a `navigationItem` property that dictates how it customizes the navigation bar if it is viewed inside a navigation controller. This is where you add left and right bar button items, for example, but also where you can set a title view: any `UIView` subclass that is used in place of the title text in the navigation bar.
+
+For example, if you wanted to show an image of your logo rather than just some text you would use this:
+
+```swift
+navigationItem.titleView = UIImageView(image: UIImage(named: "logo"))
+```
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/example-code/uikit/how-to-style-the-font-in-a-uinavigationbars-title">How to style the font in a UINavigationBar's title 
+/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage() 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-let-users-edit-your-navigation-title">How to let users edit your navigation title 
+/example-code/uikit/how-to-read-a-title-from-a-uipickerview-using-titleforrow">How to read a title from a UIPickerView using titleForRow</a>
 -->
 
 :::

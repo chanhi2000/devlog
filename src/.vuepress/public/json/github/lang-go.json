@@ -2346,10 +2346,10 @@
     "banner": ""
   }, {
     "repo": "DiceDB/dice",
-    "desc": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
-    "officialSite": "",
+    "desc": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+    "officialSite": "https://dicedb.io/",
     "topics": ["database", "golang", "hacktoberfest"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/112580013?v=4",
     "banner": ""
   }, {
     "repo": "quackduck/devzat",
@@ -2644,6 +2644,20 @@
     "officialSite": "",
     "topics": ["android-application", "dart", "e-hentai", "flutter", "hitomi-la", "ios-app", "jmcomic", "nhentai", "picacg", "windows-app"],
     "avatar": "https://avatars.githubusercontent.com/u/67669799?v=4",
+    "banner": ""
+  }, {
+    "repo": "DiceDB/dice",
+    "desc": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
+    "officialSite": "https://dicedb.io/",
+    "topics": ["database", "golang", "hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/112580013?v=4",
+    "banner": ""
+  }, {
+    "repo": "src-d/hercules",
+    "desc": "Gaining advanced insights from Git repository history.",
+    "officialSite": "",
+    "topics": ["burndown", "git", "git-analysis", "machine-learning", "mining-software-repositories", "mloncode", "tensorboard-visualizations", "tensorflow"],
+    "avatar": "https://avatars.githubusercontent.com/u/15128793?v=4",
     "banner": ""
   }
 ]

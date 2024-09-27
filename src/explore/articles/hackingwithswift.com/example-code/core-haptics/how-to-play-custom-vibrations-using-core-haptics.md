@@ -57,103 +57,138 @@ isOriginal: false
 > Available from iOS 13.0
 
 <!-- 
-<p>Core Haptics lets us define a variety of vibrations and sound effects that trigger with precise timing and behaviors, all powered by the iPhone’s Taptic Engine. These behaviors are somewhat hard to define with words, and are best <em>felt</em> rather than <em>described</em>, but the words Apple uses are things like “intensity” (the relative strength of the vibration) and “sharpness” (whether it’s a dull tap or a more precise one).</p>
-<p>To try it out for yourself, first import Core Haptics, then create a property to store an instance of the main Core Haptics engine:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> engine<span class="token punctuation">:</span> <span class="token class-name">CHHapticEngine</span><span class="token operator">?</span></code></pre>
-<p>Before you try to create an instance of that engine, you should make sure haptics are supported on the current device using code like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">guard</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">.</span><span class="token function">capabilitiesForHardware</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>supportsHaptics <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span></code></pre>
-<p>But if that passes you’re safe to create and start your haptic engine. This might be inside <code>viewDidLoad()</code>, for example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">guard</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">.</span><span class="token function">capabilitiesForHardware</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>supportsHaptics <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+Core Haptics lets us define a variety of vibrations and sound effects that trigger with precise timing and behaviors, all powered by the iPhone’s Taptic Engine. These behaviors are somewhat hard to define with words, and are best *felt* rather than *described*, but the words Apple uses are things like “intensity” (the relative strength of the vibration) and “sharpness” (whether it’s a dull tap or a more precise one).
 
-<span class="token keyword">do</span> <span class="token punctuation">{</span>
-    engine <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token keyword">try</span> engine<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"There was an error creating the engine: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>It’s not <em>required</em>, but at the same time you might also want to assign closures to the <code>stoppedHandler</code> and <code>resetHandler</code> properties of your engine, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token comment">// The engine stopped; print out why</span>
-engine<span class="token operator">?</span><span class="token punctuation">.</span>stoppedHandler <span class="token operator">=</span> <span class="token punctuation">{</span> reason <span class="token keyword">in</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"The engine stopped: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">reason</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span>
+To try it out for yourself, first import Core Haptics, then create a property to store an instance of the main Core Haptics engine:
 
-<span class="token comment">// If something goes wrong, attempt to restart the engine immediately</span>
-engine<span class="token operator">?</span><span class="token punctuation">.</span>resetHandler <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token punctuation">[</span><span class="token keyword">weak</span> <span class="token keyword">self</span><span class="token punctuation">]</span> <span class="token keyword">in</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"The engine reset"</span></span><span class="token punctuation">)</span>
+```swift
+var engine: CHHapticEngine?
+```
 
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">try</span> <span class="token keyword">self</span><span class="token operator">?</span><span class="token punctuation">.</span>engine<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to restart the engine: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Finally you’re all set to start making haptic effects. For example, this creates one strong, sharp tap whenever you touch the screen:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">touchesBegan</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> touches<span class="token punctuation">:</span> <span class="token class-name">Set</span><span class="token operator">&lt;</span><span class="token class-name">UITouch</span><span class="token operator">&gt;</span><span class="token punctuation">,</span> with event<span class="token punctuation">:</span> <span class="token class-name">UIEvent</span><span class="token operator">?</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">guard</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">.</span><span class="token function">capabilitiesForHardware</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>supportsHaptics <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+Before you try to create an instance of that engine, you should make sure haptics are supported on the current device using code like this:
 
-    <span class="token keyword">let</span> intensity <span class="token operator">=</span> <span class="token class-name">CHHapticEventParameter</span><span class="token punctuation">(</span>parameterID<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticIntensity<span class="token punctuation">,</span> value<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> sharpness <span class="token operator">=</span> <span class="token class-name">CHHapticEventParameter</span><span class="token punctuation">(</span>parameterID<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticSharpness<span class="token punctuation">,</span> value<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> event <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span>intensity<span class="token punctuation">,</span> sharpness<span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span>
+```swift
+guard CHHapticEngine.capabilitiesForHardware().supportsHaptics else { return }
+```
 
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> pattern <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">CHHapticPattern</span><span class="token punctuation">(</span>events<span class="token punctuation">:</span> <span class="token punctuation">[</span>event<span class="token punctuation">]</span><span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> player <span class="token operator">=</span> <span class="token keyword">try</span> engine<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">makePlayer</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> pattern<span class="token punctuation">)</span>
-        <span class="token keyword">try</span> player<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span>atTime<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to play pattern: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>For something more exciting you can create a series of events and pass in various values for their <code>relativeTime</code> so they either overlap or play in a sequence.</p>
-<p>For example, this creates a series of taps, starting strong and sharp and fading away to weak and dull over a second:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">touchesBegan</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> touches<span class="token punctuation">:</span> <span class="token class-name">Set</span><span class="token operator">&lt;</span><span class="token class-name">UITouch</span><span class="token operator">&gt;</span><span class="token punctuation">,</span> with event<span class="token punctuation">:</span> <span class="token class-name">UIEvent</span><span class="token operator">?</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">guard</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">.</span><span class="token function">capabilitiesForHardware</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>supportsHaptics <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+But if that passes you’re safe to create and start your haptic engine. This might be inside `viewDidLoad()`, for example:
 
-    <span class="token keyword">var</span> events <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token class-name">CHHapticEvent</span><span class="token punctuation">]</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+```swift
+guard CHHapticEngine.capabilitiesForHardware().supportsHaptics else { return }
 
-    <span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token function">stride</span><span class="token punctuation">(</span>from<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">,</span> to<span class="token punctuation">:</span> <span class="token number">1</span><span class="token punctuation">,</span> by<span class="token punctuation">:</span> <span class="token number">0.1</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> intensity <span class="token operator">=</span> <span class="token class-name">CHHapticEventParameter</span><span class="token punctuation">(</span>parameterID<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticIntensity<span class="token punctuation">,</span> value<span class="token punctuation">:</span> <span class="token class-name">Float</span><span class="token punctuation">(</span><span class="token number">1</span> <span class="token operator">-</span> i<span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> sharpness <span class="token operator">=</span> <span class="token class-name">CHHapticEventParameter</span><span class="token punctuation">(</span>parameterID<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticSharpness<span class="token punctuation">,</span> value<span class="token punctuation">:</span> <span class="token class-name">Float</span><span class="token punctuation">(</span><span class="token number">1</span> <span class="token operator">-</span> i<span class="token punctuation">)</span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> event <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span>intensity<span class="token punctuation">,</span> sharpness<span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> i<span class="token punctuation">)</span>
-        events<span class="token punctuation">.</span><span class="token function">append</span><span class="token punctuation">(</span>event<span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
+do {
+    engine = try CHHapticEngine()
+    try engine?.start()
+} catch {
+    print("There was an error creating the engine: \(error.localizedDescription)")
+}
+```
 
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> pattern <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">CHHapticPattern</span><span class="token punctuation">(</span>events<span class="token punctuation">:</span> events<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> player <span class="token operator">=</span> <span class="token keyword">try</span> engine<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">makePlayer</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> pattern<span class="token punctuation">)</span>
-        <span class="token keyword">try</span> player<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span>atTime<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to play pattern: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>And this taps out the Morse code for SOS (...---...) on the Taptic engine by mixing transient events (brief taps) with continuous events (long buzzes over a period of time):</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">touchesBegan</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> touches<span class="token punctuation">:</span> <span class="token class-name">Set</span><span class="token operator">&lt;</span><span class="token class-name">UITouch</span><span class="token operator">&gt;</span><span class="token punctuation">,</span> with event<span class="token punctuation">:</span> <span class="token class-name">UIEvent</span><span class="token operator">?</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">guard</span> <span class="token class-name">CHHapticEngine</span><span class="token punctuation">.</span><span class="token function">capabilitiesForHardware</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>supportsHaptics <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+It’s not *required*, but at the same time you might also want to assign closures to the `stoppedHandler` and `resetHandler` properties of your engine, like this:
 
-    <span class="token keyword">let</span> short1 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> short2 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">0.2</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> short3 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">0.4</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> long1 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticContinuous<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">0.6</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> long2 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticContinuous<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">1.2</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> long3 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticContinuous<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">1.8</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> short4 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">2.4</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> short5 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">2.6</span><span class="token punctuation">)</span>
-    <span class="token keyword">let</span> short6 <span class="token operator">=</span> <span class="token class-name">CHHapticEvent</span><span class="token punctuation">(</span>eventType<span class="token punctuation">:</span> <span class="token punctuation">.</span>hapticTransient<span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span> relativeTime<span class="token punctuation">:</span> <span class="token number">2.8</span><span class="token punctuation">)</span>
+```swift
+// The engine stopped; print out why
+engine?.stoppedHandler = { reason in
+    print("The engine stopped: \(reason)")
+}
 
-    <span class="token keyword">do</span> <span class="token punctuation">{</span>
-        <span class="token keyword">let</span> pattern <span class="token operator">=</span> <span class="token keyword">try</span> <span class="token class-name">CHHapticPattern</span><span class="token punctuation">(</span>events<span class="token punctuation">:</span> <span class="token punctuation">[</span>short1<span class="token punctuation">,</span> short2<span class="token punctuation">,</span> short3<span class="token punctuation">,</span> long1<span class="token punctuation">,</span> long2<span class="token punctuation">,</span> long3<span class="token punctuation">,</span> short4<span class="token punctuation">,</span> short5<span class="token punctuation">,</span> short6<span class="token punctuation">]</span><span class="token punctuation">,</span> parameters<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
-        <span class="token keyword">let</span> player <span class="token operator">=</span> <span class="token keyword">try</span> engine<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">makePlayer</span><span class="token punctuation">(</span>with<span class="token punctuation">:</span> pattern<span class="token punctuation">)</span>
-        <span class="token keyword">try</span> player<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">start</span><span class="token punctuation">(</span>atTime<span class="token punctuation">:</span> <span class="token number">0</span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Failed to play pattern: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">error<span class="token punctuation">.</span>localizedDescription</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">."</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Notice how I’ve specified all the <code>relativeTime</code> parameters so they are spaced roughly correctly for the sequence I want.</p>
+// If something goes wrong, attempt to restart the engine immediately
+engine?.resetHandler = { [weak self] in
+    print("The engine reset")
+
+    do {
+        try self?.engine?.start()
+    } catch {
+        print("Failed to restart the engine: \(error)")
+    }
+}
+```
+
+Finally you’re all set to start making haptic effects. For example, this creates one strong, sharp tap whenever you touch the screen:
+
+```swift
+override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+    guard CHHapticEngine.capabilitiesForHardware().supportsHaptics else { return }
+
+    let intensity = CHHapticEventParameter(parameterID: .hapticIntensity, value: 1)
+    let sharpness = CHHapticEventParameter(parameterID: .hapticSharpness, value: 1)
+    let event = CHHapticEvent(eventType: .hapticTransient, parameters: [intensity, sharpness], relativeTime: 0)
+
+    do {
+        let pattern = try CHHapticPattern(events: [event], parameters: [])
+        let player = try engine?.makePlayer(with: pattern)
+        try player?.start(atTime: 0)
+    } catch {
+        print("Failed to play pattern: \(error.localizedDescription).")
+    }
+}
+```
+
+For something more exciting you can create a series of events and pass in various values for their `relativeTime` so they either overlap or play in a sequence.
+
+For example, this creates a series of taps, starting strong and sharp and fading away to weak and dull over a second:
+
+```swift
+override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+    guard CHHapticEngine.capabilitiesForHardware().supportsHaptics else { return }
+
+    var events = [CHHapticEvent]()
+
+    for i in stride(from: 0, to: 1, by: 0.1) {
+        let intensity = CHHapticEventParameter(parameterID: .hapticIntensity, value: Float(1 - i))
+        let sharpness = CHHapticEventParameter(parameterID: .hapticSharpness, value: Float(1 - i))
+        let event = CHHapticEvent(eventType: .hapticTransient, parameters: [intensity, sharpness], relativeTime: i)
+        events.append(event)
+    }
+
+    do {
+        let pattern = try CHHapticPattern(events: events, parameters: [])
+        let player = try engine?.makePlayer(with: pattern)
+        try player?.start(atTime: 0)
+    } catch {
+        print("Failed to play pattern: \(error.localizedDescription).")
+    }
+}
+```
+
+And this taps out the Morse code for SOS (...---...) on the Taptic engine by mixing transient events (brief taps) with continuous events (long buzzes over a period of time):
+
+```swift
+override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+    guard CHHapticEngine.capabilitiesForHardware().supportsHaptics else { return }
+
+    let short1 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 0)
+    let short2 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 0.2)
+    let short3 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 0.4)
+    let long1 = CHHapticEvent(eventType: .hapticContinuous, parameters: [], relativeTime: 0.6, duration: 0.5)
+    let long2 = CHHapticEvent(eventType: .hapticContinuous, parameters: [], relativeTime: 1.2, duration: 0.5)
+    let long3 = CHHapticEvent(eventType: .hapticContinuous, parameters: [], relativeTime: 1.8, duration: 0.5)
+    let short4 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 2.4)
+    let short5 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 2.6)
+    let short6 = CHHapticEvent(eventType: .hapticTransient, parameters: [], relativeTime: 2.8)
+
+    do {
+        let pattern = try CHHapticPattern(events: [short1, short2, short3, long1, long2, long3, short4, short5, short6], parameters: [])
+        let player = try engine?.makePlayer(with: pattern)
+        try player?.start(atTime: 0)
+    } catch {
+        print("Failed to play pattern: \(error.localizedDescription).")
+    }
+}
+```
+
+Notice how I’ve specified all the `relativeTime` parameters so they are spaced roughly correctly for the sequence I want.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer</a></li><li><a href="/example-code/media/how-to-play-videos-using-avplayerviewcontroller">How to play videos using AVPlayerViewController</a></li><li><a href="/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging</a></li><li><a href="/quick-start/swiftui/how-to-play-movies-with-videoplayer">How to play movies with VideoPlayer</a></li><li><a href="/example-code/core-haptics/how-to-modify-haptic-events-over-time-using-chhapticparametercurve">How to modify haptic events over time using CHHapticParameterCurve</a></li></ul>
+/example-code/media/how-to-play-sounds-using-avaudioplayer">How to play sounds using AVAudioPlayer 
+/example-code/media/how-to-play-videos-using-avplayerviewcontroller">How to play videos using AVPlayerViewController 
+/example-code/xcode/how-to-make-xcode-play-sounds-while-debugging">How to make Xcode play sounds while debugging 
+/quick-start/swiftui/how-to-play-movies-with-videoplayer">How to play movies with VideoPlayer 
+/example-code/core-haptics/how-to-modify-haptic-events-over-time-using-chhapticparametercurve">How to modify haptic events over time using CHHapticParameterCurve</a>
 -->
 
 :::

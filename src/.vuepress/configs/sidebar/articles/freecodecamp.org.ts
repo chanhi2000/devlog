@@ -420,6 +420,7 @@ export const template: SidebarInfoTemplate = {
       "host-your-first-project-on-github", // 2024-08-08
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
       "how-to-manage-your-open-source-project-with-github", // 2024-09-05
+      "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
     ]],[
     "gitlab", [
       DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
@@ -428,6 +429,9 @@ export const template: SidebarInfoTemplate = {
       "mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos", //2024-04-25
       "how-to-install-python-on-a-mac", // 2024-05-09
       "how-to-fix-python-installation-errors-on-mac", // 2024-06-10
+    ]],[
+    "windows", [
+      "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
     ]],[
     "linux-debian", [
       "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
@@ -905,6 +909,7 @@ export const template: SidebarInfoTemplate = {
       "tools-for-code-reuse", // 2024-09-25
       "end-to-end-machine-learning-course-project", // 2024-09-26
       "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
+      "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
     ]],
   ]),
 }

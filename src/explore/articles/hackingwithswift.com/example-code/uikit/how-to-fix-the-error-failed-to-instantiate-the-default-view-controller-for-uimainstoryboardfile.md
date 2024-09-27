@@ -59,15 +59,22 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>This error happens due to a simple mistake in your storyboard, and it’s easy to fix. When your app starts, iOS needs to know precisely which view controller needs to be shown first –&nbsp;known as your default view controller.</p>
-<p>If you accidentally deleted that view controller, or otherwise made it not the default, then you’ll see the error “Failed to instantiate the default view controller for UIMainStoryboardFile 'Main' - perhaps the designated entry point is not set?” when your app launches, along with a plain black screen.</p>
-<p>To fix the problem, open your Main.storyboard file and find whichever view controller you want to be shown when your app first runs. When it’s selected, go to the attributes inspector and check the box marked “Is Initial View Controller”. You should see a right-facing arrow appear to the left of that view controller, showing that it’s your storyboard’s entry point.</p>
+This error happens due to a simple mistake in your storyboard, and it’s easy to fix. When your app starts, iOS needs to know precisely which view controller needs to be shown first – known as your default view controller.
+
+If you accidentally deleted that view controller, or otherwise made it not the default, then you’ll see the error “Failed to instantiate the default view controller for UIMainStoryboardFile 'Main' - perhaps the designated entry point is not set?” when your app launches, along with a plain black screen.
+
+To fix the problem, open your Main.storyboard file and find whichever view controller you want to be shown when your app first runs. When it’s selected, go to the attributes inspector and check the box marked “Is Initial View Controller”. You should see a right-facing arrow appear to the left of that view controller, showing that it’s your storyboard’s entry point.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/xcode/how-to-fix-the-error-view-controller-is-unreachable-because-it-has-no-entry-points-and-no-identifier-for-runtime-access">How to fix the error “View controller is unreachable because it has no entry points and no identifier for runtime access”</a></li><li><a href="/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource"</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-use-view-controller-containment">How to use view controller containment</a></li><li><a href="/quick-start/swiftui/how-to-fix-fatal-error-no-observableobject-of-type-sometype-found">How to fix “Fatal error: No ObservableObject of type SomeType found”</a></li></ul>
+/example-code/xcode/how-to-fix-the-error-view-controller-is-unreachable-because-it-has-no-entry-points-and-no-identifier-for-runtime-access">How to fix the error “View controller is unreachable because it has no entry points and no identifier for runtime access” 
+/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource" 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-use-view-controller-containment">How to use view controller containment 
+/quick-start/swiftui/how-to-fix-fatal-error-no-observableobject-of-type-sometype-found">How to fix “Fatal error: No ObservableObject of type SomeType found”</a>
 -->
 
 :::

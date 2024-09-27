@@ -57,21 +57,37 @@ isOriginal: false
 
 <!-- 
 
-<p>The <code>flatMap()</code> method of optionals allows you to transform the optional if it has a value, or do nothing if it is empty. This makes for shorter and more expressive code than doing a regular unwrap, and doesn’t require you to change your data type.</p>
-<p>Using <code>flatMap()</code> with optionals is similar to using <code>map()</code>, with one important difference: if your transformation closure returns an optional, <code>flatMap()</code> will combine that optional with the existing optional, whereas <code>map()</code> will keep them both.</p>
-<p>Here’s a practical example so you can see the difference:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> stringNumber<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token operator">?</span> <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"5"</span></span>
-<span class="token keyword">let</span> intNumber <span class="token operator">=</span> stringNumber<span class="token punctuation">.</span>map <span class="token punctuation">{</span> <span class="token class-name">Int</span><span class="token punctuation">(</span><span class="token short-argument">$0</span><span class="token punctuation">)</span> <span class="token punctuation">}</span></code></pre>
-<p>When that code runs, <code>intNumber</code> will be an <code>Int??</code> –&nbsp;an optional optional integer. This is because we already have optionality from <code>stringNumber</code>, and the <code>Int</code> initializer from a string also returns an optional, so <code>map()</code> just puts them together.</p>
-<p>In comparison, <code>flatMap()</code> acts differently:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> flatMapNumber <span class="token operator">=</span> stringNumber<span class="token punctuation">.</span>flatMap <span class="token punctuation">{</span> <span class="token class-name">Int</span><span class="token punctuation">(</span><span class="token short-argument">$0</span><span class="token punctuation">)</span> <span class="token punctuation">}</span></code></pre>
-<p>That will return a regular <code>Int?</code>, meaning that either the whole thing exists or nothing exists –&nbsp;it’s easier to work with.</p>
+The `flatMap()` method of optionals allows you to transform the optional if it has a value, or do nothing if it is empty. This makes for shorter and more expressive code than doing a regular unwrap, and doesn’t require you to change your data type.
+
+Using `flatMap()` with optionals is similar to using `map()`, with one important difference: if your transformation closure returns an optional, `flatMap()` will combine that optional with the existing optional, whereas `map()` will keep them both.
+
+Here’s a practical example so you can see the difference:
+
+```swift
+let stringNumber: String? = "5"
+let intNumber = stringNumber.map { Int($0) }
+```
+
+When that code runs, `intNumber` will be an `Int??` – an optional optional integer. This is because we already have optionality from `stringNumber`, and the `Int` initializer from a string also returns an optional, so `map()` just puts them together.
+
+In comparison, `flatMap()` acts differently:
+
+```swift
+let flatMapNumber = stringNumber.flatMap { Int($0) }
+```
+
+That will return a regular `Int?`, meaning that either the whole thing exists or nothing exists – it’s easier to work with.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference?</a></li><li><a href="/example-code/language/how-to-use-map-with-an-optional-value">How to use map() with an optional value</a></li><li><a href="/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift?</a></li><li><a href="/example-code/language/what-is-a-monad">What is a monad?</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li></ul>
+/example-code/language/optional-vs-implicitly-unwrapped-optional-whats-the-difference">Optional vs implicitly unwrapped optional: what’s the difference? 
+/example-code/language/how-to-use-map-with-an-optional-value">How to use map() with an optional value 
+/example-code/language/what-is-an-optional-value-in-swift">What is an optional value in Swift? 
+/example-code/language/what-is-a-monad">What is a monad? 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a>
 -->
 
 :::

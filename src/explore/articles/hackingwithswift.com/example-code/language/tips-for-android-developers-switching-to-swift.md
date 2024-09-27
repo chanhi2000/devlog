@@ -59,26 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Here are my top ten tips to help you switch from coding Java on Android to coding Swift on iOS:</p>
-<ol>
-<li>Find a good tutorial and follow it. Obviously I suggest my own <a href="https://gum.co/hws-book-pack">Hacking with Swift</a> and <a href="https://gum.co/proswift">Pro Swift</a> books!</li>
-<li>Don't bother with iOS 8 and earlier; 80% of people are already on iOS 9, and by the time you're shipping apps that will be higher.</li>
-<li>You're used to debugging on devices because the Android Emulator is poor. The iOS Simulator is excellent, and you should use it. Be warned, though: the iOS Simulator runs at the full speed of your Mac, so you should always do performance testing on devices.</li>
-<li>If you're looking for <code>LinearLayout</code>, use <code>UIStackView</code>. If you're looking for Fragments, use <code>UIViewController</code>. If you're looking for Volley, use Alamofire. If you're looking for Java, you should head back to Android.</li>
-<li>Don't skimp on learning Auto Layout. It is hard, and it is a bit like black magic at first, but once you understand it your life becomes much easier.</li>
-<li>Forget about DPs, SPs, etc. iOS works in virtual points, and the system handles the rest.</li>
-<li>If you want to support the widest range of devices, you should learn about Size Classes. They let one app look and work great on everything from iPhone 4s through to iPad Pro, including going between Slide Over, Split View and full screen.</li>
-<li>You have a <em>lot</em> more memory to play with, and your code will execute substantially faster. Garbage collection does not happen, so you'll find far fewer cases where your code stutters before optimization.</li>
-<li>The Instruments tool that is built into Xcode is a dream come true if you're coming from Android Studio. Same applies to <code>XCTest</code> for unit testing and UI testing. Downside: iOS has nothing like the Application Exerciser Monkey.</li>
-<li>Most important of all, use an iPhone or iPad for a while so you start to get a feel for the platform's design principles. Google has a terrible habit of making their iOS apps look like Android apps, which is just confusing for users. iOS design is simple and clear, but it's extremely consistent. Except for Google. <em>Sigh…</em>.</li>
-</ol>
-<p>iOS is a really fun platform to code for, and Apple's devices have a huge amount of power available to you. Have fun!</p>
+Here are my top ten tips to help you switch from coding Java on Android to coding Swift on iOS:
+
+1. Find a good tutorial and follow it. Obviously I suggest my own <a href="https://gum.co/hws-book-pack">Hacking with Swift</a> and <a href="https://gum.co/proswift">Pro Swift</a> books!
+<li>Don't bother with iOS 8 and earlier; 80% of people are already on iOS 9, and by the time you're shipping apps that will be higher.
+<li>You're used to debugging on devices because the Android Emulator is poor. The iOS Simulator is excellent, and you should use it. Be warned, though: the iOS Simulator runs at the full speed of your Mac, so you should always do performance testing on devices.
+<li>If you're looking for `LinearLayout`, use `UIStackView`. If you're looking for Fragments, use `UIViewController`. If you're looking for Volley, use Alamofire. If you're looking for Java, you should head back to Android.
+<li>Don't skimp on learning Auto Layout. It is hard, and it is a bit like black magic at first, but once you understand it your life becomes much easier.
+<li>Forget about DPs, SPs, etc. iOS works in virtual points, and the system handles the rest.
+<li>If you want to support the widest range of devices, you should learn about Size Classes. They let one app look and work great on everything from iPhone 4s through to iPad Pro, including going between Slide Over, Split View and full screen.
+<li>You have a *lot* more memory to play with, and your code will execute substantially faster. Garbage collection does not happen, so you'll find far fewer cases where your code stutters before optimization.
+<li>The Instruments tool that is built into Xcode is a dream come true if you're coming from Android Studio. Same applies to `XCTest` for unit testing and UI testing. Downside: iOS has nothing like the Application Exerciser Monkey.
+<li>Most important of all, use an iPhone or iPad for a while so you start to get a feel for the platform's design principles. Google has a terrible habit of making their iOS apps look like Android apps, which is just confusing for users. iOS design is simple and clear, but it's extremely consistent. Except for Google. *Sigh…*.
+
+iOS is a really fun platform to code for, and Apple's devices have a huge amount of power available to you. Have fun!
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C”</a></li><li><a href="/example-code/language/how-to-install-a-beta-version-of-swift">How to install a beta version of Swift</a></li><li><a href="/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup</a></li><li><a href="/example-code/xcode/how-to-create-a-project-using-swift-package-manager">How to create a project using Swift Package Manager</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/language/how-to-fix-argument-of-selector-refers-to-instance-method-that-is-not-exposed-to-objective-c">How to fix “argument of #selector refers to instance method that is not exposed to Objective-C” 
+/example-code/language/how-to-install-a-beta-version-of-swift">How to install a beta version of Swift 
+/example-code/language/how-to-handle-unknown-properties-and-methods-using-dynamicmemberlookup">How to handle unknown properties and methods using @dynamicMemberLookup 
+/example-code/xcode/how-to-create-a-project-using-swift-package-manager">How to create a project using Swift Package Manager</a>
 -->
 
 :::

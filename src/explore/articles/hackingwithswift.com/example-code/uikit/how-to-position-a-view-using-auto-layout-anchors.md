@@ -59,24 +59,38 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Auto Layout anchors make it easy to position your views relative to others. There are lots of anchors to choose from: leading and trailing edges, top and bottom edges, center X and center Y, and more. </p>
-<p>To try it out, first create a view something like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> child <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-child<span class="token punctuation">.</span>translatesAutoresizingMaskIntoConstraints <span class="token operator">=</span> <span class="token boolean">false</span>
-child<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token punctuation">.</span>red
-view<span class="token punctuation">.</span><span class="token function">addSubview</span><span class="token punctuation">(</span>child<span class="token punctuation">)</span></code></pre>
-<p>Now we can position that view by activating various anchors. For example, we could pin it to the top and bottom edges of the screen, make it precisely 128 points wide, then center it horizontally:</p>
-<pre class=" language-swift"><code class=" language-swift">child<span class="token punctuation">.</span>topAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>topAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-child<span class="token punctuation">.</span>bottomAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>bottomAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-child<span class="token punctuation">.</span>widthAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalToConstant<span class="token punctuation">:</span> <span class="token number">128</span><span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span>
-child<span class="token punctuation">.</span>centerXAnchor<span class="token punctuation">.</span><span class="token function">constraint</span><span class="token punctuation">(</span>equalTo<span class="token punctuation">:</span> view<span class="token punctuation">.</span>safeAreaLayoutGuide<span class="token punctuation">.</span>centerXAnchor<span class="token punctuation">)</span><span class="token punctuation">.</span>isActive <span class="token operator">=</span> <span class="token boolean">true</span></code></pre>
-<p>To explore anchors further, try typing <code>child.anchor</code> and exploring the code completion options.</p>
+Auto Layout anchors make it easy to position your views relative to others. There are lots of anchors to choose from: leading and trailing edges, top and bottom edges, center X and center Y, and more. 
+
+To try it out, first create a view something like this:
+
+```swift
+let child = UIView()
+child.translatesAutoresizingMaskIntoConstraints = false
+child.backgroundColor = .red
+view.addSubview(child)
+```
+
+Now we can position that view by activating various anchors. For example, we could pin it to the top and bottom edges of the screen, make it precisely 128 points wide, then center it horizontally:
+
+```swift
+child.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor).isActive = true
+child.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor).isActive = true
+child.widthAnchor.constraint(equalToConstant: 128).isActive = true
+child.centerXAnchor.constraint(equalTo: view.safeAreaLayoutGuide.centerXAnchor).isActive = true
+```
+
+To explore anchors further, try typing `child.anchor` and exploring the code completion options.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-make-a-uiview-fill-the-screen-using-auto-layout-anchors">How to make a UIView fill the screen using Auto Layout anchors</a></li><li><a href="/quick-start/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view">How to position and style subviews that come from a different view</a></li><li><a href="/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid">How to position views in a grid using LazyVGrid and LazyHGrid</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/quick-start/swiftui/how-to-detect-when-the-size-or-position-of-a-view-changes">How to detect when the size or position of a view changes</a></li></ul>
+/example-code/uikit/how-to-make-a-uiview-fill-the-screen-using-auto-layout-anchors">How to make a UIView fill the screen using Auto Layout anchors 
+/quick-start/swiftui/how-to-position-and-style-subviews-that-come-from-a-different-view">How to position and style subviews that come from a different view 
+/quick-start/swiftui/how-to-position-views-in-a-grid-using-lazyvgrid-and-lazyhgrid">How to position views in a grid using LazyVGrid and LazyHGrid 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/quick-start/swiftui/how-to-detect-when-the-size-or-position-of-a-view-changes">How to detect when the size or position of a view changes</a>
 -->
 
 :::

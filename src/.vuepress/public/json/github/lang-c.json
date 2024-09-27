@@ -1805,5 +1805,12 @@
     "topics": ["assembly", "c", "carmageddon", "dos", "gamedev", "reverse-engineering"],
     "avatar": "https://avatars.githubusercontent.com/u/78985374?v=4",
     "banner": ""
+  }, {
+    "repo": "Autossh/autossh",
+    "desc": "Automatically restart SSH sessions and tunnels",
+    "officialSite": "https://www.harding.motd.ca/autossh/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/81816772?v=4",
+    "banner": ""
   }
 ]

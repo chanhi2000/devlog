@@ -177,6 +177,7 @@ head:
 - [`jhk0530` / Quarto 블로그에서 여러 언어로 포스팅하기](https://jhk0530.medium.com/quarto-blog-multilanguage-e04dd562ba5c)
 - [`techtofreedom` / 8 Levels of Using Type Hints in Python](https://medium.com/techtofreedom/8-levels-of-using-type-hints-in-python-a6717e28f8fd)
 - [`chrisjune-13837` / \[개발로그\] CUDA_ERROR_SYSTEM_DRIVER_MISMATCH 이슈 해결](https://chrisjune-13837.medium.com/%EA%B0%9C%EB%B0%9C%EB%A1%9C%EA%B7%B8-cuda-error-system-driver-mismatch-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0-de8e47488b58?source=rss-e74406582b08------2)
+- [`towardsdatascience` / Causal Machine Learning for Customer Retention: a Practical Guide with Python](https://towardsdatascience.com/causal-machine-learning-for-customer-retention-a-practical-guide-with-python-6bd959b25741)
 
 <!-- END: medium.com -->
 
@@ -1168,6 +1169,7 @@ head:
 - [Asynchronous Iterators and Iterables in Python](https://realpython.com/python-async-iterators/)
 - [How to Write an Installable Django App](https://realpython.com/installable-django-app/)
 - [Working With JSON Data in Python](https://realpython.com/python-json/)
+- [Setting up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/)
 
 <!-- END: realpython.com -->
 
@@ -2296,6 +2298,7 @@ head:
 - [Py) TM - 정규표현식-02(패턴조합)](https://datadoctorblog.com/2024/09/20/Py-TM-regex-02-Complex-Cases/)
 - [Py) TM - 정규표현식-03(패턴반복)](https://datadoctorblog.com/2024/09/20/Py-TM-regex-03-Repetition/)
 - [Py) TM - 정규표현식-04(대괄호)](https://datadoctorblog.com/2024/09/21/Py-TM-regex-04-Square-Brackets/)
+- [Py) TM - 정규표현식-06(괄호)](https://datadoctorblog.com/2024/09/27/Py-TM-regex-06-Brakets/)
 
 <!-- END: datadoctorblog.com -->
 

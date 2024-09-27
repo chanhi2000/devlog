@@ -13,7 +13,7 @@ tag:
   - swift
   - swift-5.10
   - ios
-  - ios-8.0
+  - ios-2.0
   - xcode
   - appstore
 head:
@@ -54,18 +54,37 @@ isOriginal: false
 }
 ```
 
-> Available from iOS 8.0
+> Available from iOS 2.0
 
 <!-- TODO: 작성 -->
 
 <!--
+Making a scroll view zoom when you pinch is a multi-step approach, and you need to do all the steps in order for things to work correctly.
+
+First, make sure your scroll view has a maximum zoom scale larger than the default of 1.0. You can change this in Interface Builder if you want, or use the `maximumZoomScale` property in code.
+
+Second, make your view controller the delegate of your scroll view. Again, you can do this in Interface Builder by Ctrl-dragging from the scroll view to your view controller.
+
+Third, make your view controller conform to the `UIScrollViewDelegate` protocol, then add the `viewForZooming(in:)` method, like this:
+
+```swift
+func viewForZooming(in scrollView: UIScrollView) -> UIView? {
+    return someView
+}
+```
+
+That's it for code, but make sure you create your layouts consistently – whether you use Auto Layout or not, you need to be careful to [<FontIcon icon="fa-brands fa-apple"/>follow Apple's instructions](https://developer.apple.com/library/ios/technotes/tn2154/_index.html).
 
 -->
 
 ::: details Similar solutions…
 
 <!--
-
+/quick-start/swiftui/how-to-handle-pinch-to-zoom-for-views">How to handle pinch to zoom for views 
+/quick-start/swiftui/how-to-create-zoom-animations-between-views">How to create zoom animations between views 
+/example-code/uikit/how-to-adjust-a-uiscrollview-to-fit-the-keyboard">How to adjust a UIScrollView to fit the keyboard 
+/example-code/uikit/how-to-change-the-scroll-indicator-inset-for-a-uiscrollview">How to change the scroll indicator inset for a UIScrollView 
+/example-code/libraries/how-to-make-empty-uitableviews-look-more-attractive-using-dznemptydataset">How to make empty UITableViews look more attractive using DZNEmptyDataSet</a>
 -->
 
 :::

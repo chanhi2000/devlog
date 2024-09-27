@@ -62,21 +62,30 @@ isOriginal: false
 
 
 <!-- 
-<p>It's easy to find out whether an array contains a specific value, because Swift has a <code>contains()</code> method that returns true or false depending on whether that item is found. For example:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> array <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Apples"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Peaches"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Plums"</span></span><span class="token punctuation">]</span>
+It's easy to find out whether an array contains a specific value, because Swift has a `contains()` method that returns true or false depending on whether that item is found. For example:
 
-<span class="token keyword">if</span> array<span class="token punctuation">.</span><span class="token function">contains</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Apples"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"We've got apples!"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"No apples here – sorry!"</span></span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That example array does indeed contain "Apples" so that code will print "We've got apples!" to the Xcode console.</p>
+```swift
+let array = ["Apples", "Peaches", "Plums"]
+
+if array.contains("Apples") {
+    print("We've got apples!")
+} else {
+    print("No apples here – sorry!")
+}
+```
+
+That example array does indeed contain "Apples" so that code will print "We've got apples!" to the Xcode console.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/strings/how-to-check-whether-a-string-contains-any-words-from-an-array">How to check whether a string contains any words from an array</a></li><li><a href="/quick-start/swiftui/how-to-tell-the-user-that-no-content-is-available">How to tell the user that no content is available</a></li><li><a href="/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array</a></li><li><a href="/quick-start/swiftui/how-to-access-a-core-data-managed-object-context-from-a-swiftui-view">How to access a Core Data managed object context from a SwiftUI view</a></li><li><a href="/example-code/language/how-to-run-code-when-an-object-is-destroyed">How to run code when an object is destroyed</a></li></ul>
+/example-code/strings/how-to-check-whether-a-string-contains-any-words-from-an-array">How to check whether a string contains any words from an array 
+/quick-start/swiftui/how-to-tell-the-user-that-no-content-is-available">How to tell the user that no content is available 
+/example-code/language/remove-all-instances-of-an-object-from-an-array">Remove all instances of an object from an array 
+/quick-start/swiftui/how-to-access-a-core-data-managed-object-context-from-a-swiftui-view">How to access a Core Data managed object context from a SwiftUI view 
+/example-code/language/how-to-run-code-when-an-object-is-destroyed">How to run code when an object is destroyed</a>
 -->
 
 :::

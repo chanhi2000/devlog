@@ -59,20 +59,34 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>A regular <code>for-in</code> loop goes over all the items in an array, allowing you to manipulate them as you need. However, sometimes you don’t need <em>all</em> items and instead only want a subset, and in those circumstances the <code>where</code> keyword is useful.</p>
-<p>For example, consider this array:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> names <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string-literal"><span class="token string">"Michael Jackson"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Michael Caine"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Adele Adkins"</span></span><span class="token punctuation">,</span> <span class="token string-literal"><span class="token string">"Michael Jordan"</span></span><span class="token punctuation">]</span></code></pre>
-<p>A regular <code>for-in</code> loop could print out all those names, but by adding a <code>where</code> clause we could restrict the loop so it operates only on people named Michael:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">for</span> name <span class="token keyword">in</span> names <span class="token keyword">where</span> name<span class="token punctuation">.</span><span class="token function">hasPrefix</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Michael"</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token function">print</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If you need multiple conditions in your <code>where</code> clause, join them using <code>&amp;&amp;</code>.</p>
+A regular `for-in` loop goes over all the items in an array, allowing you to manipulate them as you need. However, sometimes you don’t need *all* items and instead only want a subset, and in those circumstances the `where` keyword is useful.
+
+For example, consider this array:
+
+```swift
+let names = ["Michael Jackson", "Taylor Swift", "Michael Caine", "Adele Adkins", "Michael Jordan"]
+```
+
+A regular `for-in` loop could print out all those names, but by adding a `where` clause we could restrict the loop so it operates only on people named Michael:
+
+```swift
+for name in names where name.hasPrefix("Michael") {
+    print(name)
+}
+```
+
+If you need multiple conditions in your `where` clause, join them using `&&`.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more</a></li><li><a href="/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter()</a></li><li><a href="/quick-start/swiftui/how-to-filter-core-data-fetch-requests-using-a-predicate">How to filter Core Data fetch requests using a predicate</a></li><li><a href="/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data">How to add a search bar to filter your data</a></li><li><a href="/example-code/media/how-to-filter-images-using-core-image-and-cifilter">How to filter images using Core Image and CIFilter</a></li></ul>
+/quick-start/concurrency/how-to-manipulate-an-asyncsequence-using-map-filter-and-more">How to manipulate an AsyncSequence using map(), filter(), and more 
+/example-code/language/how-to-remove-items-from-an-array-using-filter">How to remove items from an array using filter() 
+/quick-start/swiftui/how-to-filter-core-data-fetch-requests-using-a-predicate">How to filter Core Data fetch requests using a predicate 
+/quick-start/swiftui/how-to-add-a-search-bar-to-filter-your-data">How to add a search bar to filter your data 
+/example-code/media/how-to-filter-images-using-core-image-and-cifilter">How to filter images using Core Image and CIFilter</a>
 -->
 
 :::

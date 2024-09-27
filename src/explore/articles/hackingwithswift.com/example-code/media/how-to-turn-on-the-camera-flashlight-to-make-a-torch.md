@@ -59,37 +59,50 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>There is one simple property required to enable or disable a device's torch, but you do need to put in some wrapper code to make it work safely. Specifically, you need to use the <code>lockForConfiguration()</code> and <code>unlockForConfiguration()</code> methods of the <code>AVCaptureDevice</code> class in order to make sure only one app can control the torch at a time.</p>
-<p>You will need to import the AVFoundation framework, because that's where the <code>AVCaptureDevice</code> class comes from. Once that's done, add this function to your code and you're good to code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">toggleTorch</span><span class="token punctuation">(</span>on<span class="token punctuation">:</span> <span class="token class-name">Bool</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">guard</span> <span class="token keyword">let</span> device <span class="token operator">=</span> <span class="token class-name">AVCaptureDevice</span><span class="token punctuation">.</span><span class="token keyword">default</span><span class="token punctuation">(</span><span class="token keyword">for</span><span class="token punctuation">:</span> <span class="token punctuation">.</span>video<span class="token punctuation">)</span> <span class="token keyword">else</span> <span class="token punctuation">{</span> <span class="token keyword">return</span> <span class="token punctuation">}</span>
+There is one simple property required to enable or disable a device's torch, but you do need to put in some wrapper code to make it work safely. Specifically, you need to use the `lockForConfiguration()` and `unlockForConfiguration()` methods of the `AVCaptureDevice` class in order to make sure only one app can control the torch at a time.
 
-    <span class="token keyword">if</span> device<span class="token punctuation">.</span>hasTorch <span class="token punctuation">{</span>
-        <span class="token keyword">do</span> <span class="token punctuation">{</span>
-            <span class="token keyword">try</span> device<span class="token punctuation">.</span><span class="token function">lockForConfiguration</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+You will need to import the AVFoundation framework, because that's where the `AVCaptureDevice` class comes from. Once that's done, add this function to your code and you're good to code:
 
-            <span class="token keyword">if</span> on <span class="token operator">==</span> <span class="token boolean">true</span> <span class="token punctuation">{</span>
-                device<span class="token punctuation">.</span>torchMode <span class="token operator">=</span> <span class="token punctuation">.</span>on
-            <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-                device<span class="token punctuation">.</span>torchMode <span class="token operator">=</span> <span class="token punctuation">.</span>off
-            <span class="token punctuation">}</span>
+```swift
+func toggleTorch(on: Bool) {
+    guard let device = AVCaptureDevice.default(for: .video) else { return }
 
-            device<span class="token punctuation">.</span><span class="token function">unlockForConfiguration</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span> <span class="token keyword">catch</span> <span class="token punctuation">{</span>
-            <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Torch could not be used"</span></span><span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span> <span class="token keyword">else</span> <span class="token punctuation">{</span>
-        <span class="token function">print</span><span class="token punctuation">(</span><span class="token string-literal"><span class="token string">"Torch is not available"</span></span><span class="token punctuation">)</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>With that, you can now turn the torch on like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">toggleTorch</span><span class="token punctuation">(</span>on<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span></code></pre>
+    if device.hasTorch {
+        do {
+            try device.lockForConfiguration()
+
+            if on == true {
+                device.torchMode = .on
+            } else {
+                device.torchMode = .off
+            }
+
+            device.unlockForConfiguration()
+        } catch {
+            print("Torch could not be used")
+        }
+    } else {
+        print("Torch is not available")
+    }
+}
+```
+
+With that, you can now turn the torch on like this:
+
+```swift
+toggleTorch(on: true)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-take-a-photo-using-the-camera-and-uiimagepickercontroller">How to take a photo using the camera and UIImagePickerController</a></li><li><a href="/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode</a></li><li><a href="/example-code/uikit/how-to-make-your-user-interface-in-code">How to make your user interface in code</a></li></ul>
+/example-code/uikit/how-to-take-a-photo-using-the-camera-and-uiimagepickercontroller">How to take a photo using the camera and UIImagePickerController 
+/example-code/media/how-to-choose-a-photo-from-the-camera-roll-using-uiimagepickercontroller">How to choose a photo from the camera roll using UIImagePickerController 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-create-live-playgrounds-in-xcode">How to create live playgrounds in Xcode 
+/example-code/uikit/how-to-make-your-user-interface-in-code">How to make your user interface in code</a>
 -->
 
 :::

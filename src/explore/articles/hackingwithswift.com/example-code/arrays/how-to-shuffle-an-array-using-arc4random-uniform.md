@@ -59,22 +59,31 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Modern Swift code will use Swift’s own <code>shuffle()</code> and <code>shuffled()</code> methods, but sometimes you might find code that does it by hand using <code>arc4random_uniform()</code> or similar.</p>
-<p>Nate Cook wrote a simple <code>shuffle()</code> extension to arrays that implements the Fisher-Yates shuffle algorithm in Swift. Here's the code:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">extension</span> <span class="token class-name">Array</span> <span class="token punctuation">{</span>
-    <span class="token keyword">mutating</span> <span class="token keyword">func</span> <span class="token function-definition function">customShuffle</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-        <span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token number">0</span> <span class="token operator">..&lt;</span> <span class="token punctuation">(</span>count <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-            <span class="token keyword">let</span> j <span class="token operator">=</span> <span class="token class-name">Int</span><span class="token punctuation">(</span><span class="token function">arc4random_uniform</span><span class="token punctuation">(</span><span class="token class-name">UInt32</span><span class="token punctuation">(</span>count <span class="token operator">-</span> i<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token operator">+</span> i
-            <span class="token function">swapAt</span><span class="token punctuation">(</span>i<span class="token punctuation">,</span> j<span class="token punctuation">)</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+Modern Swift code will use Swift’s own `shuffle()` and `shuffled()` methods, but sometimes you might find code that does it by hand using `arc4random_uniform()` or similar.
+
+Nate Cook wrote a simple `shuffle()` extension to arrays that implements the Fisher-Yates shuffle algorithm in Swift. Here's the code:
+
+```swift
+extension Array {
+    mutating func customShuffle() {
+        for i in 0 ..< (count - 1) {
+            let j = Int(arc4random_uniform(UInt32(count - i))) + i
+            swapAt(i, j)
+        }
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/arrays/how-to-randomize-the-order-of-an-array-shuffle-and-shuffled">How to randomize the order of an array: shuffle() and shuffled()</a></li><li><a href="/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array</a></li><li><a href="/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table</a></li><li><a href="/example-code/language/how-to-append-one-array-to-another-array">How to append one array to another array</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li></ul>
+/example-code/arrays/how-to-randomize-the-order-of-an-array-shuffle-and-shuffled">How to randomize the order of an array: shuffle() and shuffled() 
+/example-code/language/how-to-convert-a-multidimensional-array-to-a-single-dimensional-array">How to convert a multidimensional array to a single-dimensional array 
+/quick-start/swiftui/how-to-create-multi-column-lists-using-table">How to create multi-column lists using Table 
+/example-code/language/how-to-append-one-array-to-another-array">How to append one array to another array 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a>
 -->
 
 :::

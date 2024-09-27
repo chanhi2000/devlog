@@ -59,16 +59,24 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Copy on write is a common computing technique that helps boost performance when copying structures. To give you an example, imagine an array with 1000 things inside it: if you copied that array into another variable, Swift would have to copy all 1000 elements even if the two arrays ended up being the same.</p>
-<p>This problem is solved using copy on write: when you point two variables at the same array they both point to the same underlying data. Swift promises that structs like arrays and dictionaries are copied as values, like numbers, so having two variables point to the same data might seem to contradict that. The solution is simple but clever: if you modify the second variable, Swift takes a full copy at that point so that only the second variable is modified - the first isn't changed.</p>
-<p>So, by delaying the copy operation until it's actually needed, Swift can ensure that no wasted work is done.</p>
-<p>Warning: copy on write is a feature specifically added to Swift arrays and dictionaries; you don't get it for free in your own data types.</p>
+Copy on write is a common computing technique that helps boost performance when copying structures. To give you an example, imagine an array with 1000 things inside it: if you copied that array into another variable, Swift would have to copy all 1000 elements even if the two arrays ended up being the same.
+
+This problem is solved using copy on write: when you point two variables at the same array they both point to the same underlying data. Swift promises that structs like arrays and dictionaries are copied as values, like numbers, so having two variables point to the same data might seem to contradict that. The solution is simple but clever: if you modify the second variable, Swift takes a full copy at that point so that only the second variable is modified - the first isn't changed.
+
+So, by delaying the copy operation until it's actually needed, Swift can ensure that no wasted work is done.
+
+Warning: copy on write is a feature specifically added to Swift arrays and dictionaries; you don't get it for free in your own data types.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-copy-objects-in-swift-using-copy">How to copy objects in Swift using copy()</a></li><li><a href="/example-code/system/how-to-copy-text-to-the-clipboard-using-uipasteboard">How to copy text to the clipboard using UIPasteboard</a></li><li><a href="/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration</a></li><li><a href="/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a></li><li><a href="/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a></li></ul>
+/example-code/system/how-to-copy-objects-in-swift-using-copy">How to copy objects in Swift using copy() 
+/example-code/system/how-to-copy-text-to-the-clipboard-using-uipasteboard">How to copy text to the clipboard using UIPasteboard 
+/example-code/uikit/how-to-disable-undo-redo-copy-and-paste-gestures-using-editinginteractionconfiguration">How to disable undo, redo, copy, and paste gestures using editingInteractionConfiguration 
+/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:) 
+/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a>
 -->
 
 :::

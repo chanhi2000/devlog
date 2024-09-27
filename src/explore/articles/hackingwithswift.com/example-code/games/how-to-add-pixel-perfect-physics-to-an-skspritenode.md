@@ -59,18 +59,28 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>Pixel-perfect physics is just one line of code in SpriteKit. Don't believe me? Here you go:</p>
-<pre class=" language-swift"><code class=" language-swift">player <span class="token operator">=</span> <span class="token class-name">SKSpriteNode</span><span class="token punctuation">(</span>imageNamed<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"player"</span></span><span class="token punctuation">)</span>
-player<span class="token punctuation">.</span>position <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">100</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">384</span><span class="token punctuation">)</span>
-player<span class="token punctuation">.</span>physicsBody <span class="token operator">=</span> <span class="token class-name">SKPhysicsBody</span><span class="token punctuation">(</span>texture<span class="token punctuation">:</span> player<span class="token punctuation">.</span>texture<span class="token operator">!</span><span class="token punctuation">,</span> size<span class="token punctuation">:</span> player<span class="token punctuation">.</span>size<span class="token punctuation">)</span></code></pre>
-<p>That last line is the one that does the magic: SpriteKit will use the alpha values of your sprite (i.e., the transparent pixels) to figure out which parts should be part of a collision.</p>
-<p>As you might imagine, pixel-perfect collision detection is significantly slower than using rectangles or circles, so you should use it carefully.</p>
+Pixel-perfect physics is just one line of code in SpriteKit. Don't believe me? Here you go:
+
+```swift
+player = SKSpriteNode(imageNamed: "player")
+player.position = CGPoint(x: 100, y: 384)
+player.physicsBody = SKPhysicsBody(texture: player.texture!, size: player.size)
+```
+
+That last line is the one that does the magic: SpriteKit will use the alpha values of your sprite (i.e., the transparent pixels) to figure out which parts should be part of a collision.
+
+As you might imagine, pixel-perfect collision detection is significantly slower than using rectangles or circles, so you should use it carefully.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode</a></li><li><a href="/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property</a></li><li><a href="/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader</a></li><li><a href="/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics</a></li><li><a href="/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode</a></li></ul>
+/example-code/games/how-to-add-physics-to-an-skspritenode">How to add physics to an SKSpriteNode 
+/example-code/games/how-to-stop-an-skphysicsbody-responding-to-physics-using-its-dynamic-property">How to stop an SKPhysicsBody responding to physics using its dynamic property 
+/example-code/games/how-to-add-a-fragment-shader-to-an-skspritenode-using-skshader">How to add a fragment shader to an SKSpriteNode using SKShader 
+/example-code/games/how-to-debug-physics-in-a-spritekit-scene-using-showsphysics">How to debug physics in a SpriteKit scene using showsPhysics 
+/example-code/games/how-to-made-an-skspritenode-render-faster-using-blendmode">How to made an SKSpriteNode render faster using blendMode</a>
 -->
 
 ---

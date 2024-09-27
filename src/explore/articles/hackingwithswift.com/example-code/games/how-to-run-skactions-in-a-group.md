@@ -59,21 +59,30 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>SpriteKit action groups let you run multiple SpriteKit actions simultaneously. The grouped actions become a new action that can go into a sequence, and SpriteKit automatically ensures all actions in a group finish before the sequence continues.</p>
-<p>The code below makes a spaceship shrink down to 10% of its original size while fading out, with both actions happening at the same time:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> sprite <span class="token operator">=</span> <span class="token class-name">SKSpriteNode</span><span class="token punctuation">(</span>imageNamed<span class="token punctuation">:</span><span class="token string-literal"><span class="token string">"Spaceship"</span></span><span class="token punctuation">)</span>
+SpriteKit action groups let you run multiple SpriteKit actions simultaneously. The grouped actions become a new action that can go into a sequence, and SpriteKit automatically ensures all actions in a group finish before the sequence continues.
 
-<span class="token keyword">let</span> scale <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">scale</span><span class="token punctuation">(</span>to<span class="token punctuation">:</span> <span class="token number">0.1</span><span class="token punctuation">,</span> duration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> fade <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">fadeOut</span><span class="token punctuation">(</span>withDuration<span class="token punctuation">:</span> <span class="token number">0.5</span><span class="token punctuation">)</span>
-<span class="token keyword">let</span> group <span class="token operator">=</span> <span class="token class-name">SKAction</span><span class="token punctuation">.</span><span class="token function">group</span><span class="token punctuation">(</span><span class="token punctuation">[</span>scale<span class="token punctuation">,</span> fade<span class="token punctuation">]</span><span class="token punctuation">)</span>
+The code below makes a spaceship shrink down to 10% of its original size while fading out, with both actions happening at the same time:
 
-sprite<span class="token punctuation">.</span><span class="token function">run</span><span class="token punctuation">(</span>group<span class="token punctuation">)</span></code></pre>
+```swift
+let sprite = SKSpriteNode(imageNamed:"Spaceship")
+
+let scale = SKAction.scale(to: 0.1, duration: 0.5)
+let fade = SKAction.fadeOut(withDuration: 0.5)
+let group = SKAction.group([scale, fade])
+
+sprite.run(group)
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/games/how-to-run-skactions-in-a-sequence">How to run SKActions in a sequence</a></li><li><a href="/quick-start/concurrency/how-to-cancel-a-task-group">How to cancel a task group</a></li><li><a href="/quick-start/concurrency/how-to-create-a-task-group-and-add-tasks-to-it">How to create a task group and add tasks to it</a></li><li><a href="/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group</a></li><li><a href="/quick-start/swiftui/how-to-group-views-together-with-controlgroup">How to group views together with ControlGroup</a></li></ul>
+/example-code/games/how-to-run-skactions-in-a-sequence">How to run SKActions in a sequence 
+/quick-start/concurrency/how-to-cancel-a-task-group">How to cancel a task group 
+/quick-start/concurrency/how-to-create-a-task-group-and-add-tasks-to-it">How to create a task group and add tasks to it 
+/quick-start/concurrency/how-to-handle-different-result-types-in-a-task-group">How to handle different result types in a task group 
+/quick-start/swiftui/how-to-group-views-together-with-controlgroup">How to group views together with ControlGroup</a>
 -->
 
 ---

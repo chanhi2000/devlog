@@ -59,26 +59,42 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>The <code>SKLabelNode</code> class is a fast and efficient way to draw text in SpriteKit games. To use it, first create a property in your game scene:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> scoreLabel<span class="token punctuation">:</span> <span class="token class-name">SKLabelNode</span><span class="token operator">!</span></code></pre>
-<p>Now create the label node by telling it want font use, its alignment, and also an initial text value if you want one. This code creates a label node using the Chalkduster font, places it in the top-right corner of the screen, and gives it the initial text "Score: 0":</p>
-<pre class=" language-swift"><code class=" language-swift">scoreLabel <span class="token operator">=</span> <span class="token class-name">SKLabelNode</span><span class="token punctuation">(</span>fontNamed<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">"Chalkduster"</span></span><span class="token punctuation">)</span>
-scoreLabel<span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Score: 0"</span></span>
-scoreLabel<span class="token punctuation">.</span>horizontalAlignmentMode <span class="token operator">=</span> <span class="token punctuation">.</span><span class="token keyword">right</span>
-scoreLabel<span class="token punctuation">.</span>position <span class="token operator">=</span> <span class="token class-name">CGPoint</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token number">980</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token number">700</span><span class="token punctuation">)</span>
-<span class="token function">addChild</span><span class="token punctuation">(</span>scoreLabel<span class="token punctuation">)</span></code></pre>
-<p>With that score label in place, you can now create a <code>score</code> integer property to store the actual number of a player's score, then use a property observer to modify the label whenever the score changes:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">var</span> score<span class="token punctuation">:</span> <span class="token class-name">Int</span> <span class="token operator">=</span> <span class="token number">0</span> <span class="token punctuation">{</span>
-    <span class="token keyword">didSet</span> <span class="token punctuation">{</span>
-        scoreLabel<span class="token punctuation">.</span>text <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Score: </span><span class="token interpolation-punctuation punctuation">\(</span><span class="token interpolation">score</span><span class="token interpolation-punctuation punctuation">)</span><span class="token string">"</span></span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
+The `SKLabelNode` class is a fast and efficient way to draw text in SpriteKit games. To use it, first create a property in your game scene:
+
+```swift
+var scoreLabel: SKLabelNode!
+```
+
+Now create the label node by telling it want font use, its alignment, and also an initial text value if you want one. This code creates a label node using the Chalkduster font, places it in the top-right corner of the screen, and gives it the initial text "Score: 0":
+
+```swift
+scoreLabel = SKLabelNode(fontNamed: "Chalkduster")
+scoreLabel.text = "Score: 0"
+scoreLabel.horizontalAlignmentMode = .right
+scoreLabel.position = CGPoint(x: 980, y: 700)
+addChild(scoreLabel)
+```
+
+With that score label in place, you can now create a `score` integer property to store the actual number of a player's score, then use a property observer to modify the label whenever the score changes:
+
+```swift
+var score: Int = 0 {
+    didSet {
+        scoreLabel.text = "Score: \(score)"
+    }
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:)</a></li><li><a href="/example-code/testing/how-to-write-performance-tests-using-measure">How to write performance tests using measure()</a></li><li><a href="/example-code/language/what-is-copy-on-write">What is copy on write?</a></li><li><a href="/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a></li></ul>
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/strings/how-to-save-a-string-to-a-file-on-disk-with-writeto">How to save a string to a file on disk with write(to:) 
+/example-code/testing/how-to-write-performance-tests-using-measure">How to write performance tests using measure() 
+/example-code/language/what-is-copy-on-write">What is copy on write? 
+/example-code/language/how-to-write-a-closure-that-returns-a-value">How to write a closure that returns a value</a>
 -->
 
 ---

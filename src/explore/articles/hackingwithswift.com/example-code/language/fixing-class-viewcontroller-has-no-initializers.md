@@ -61,29 +61,47 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>This is a common error, and one you can fix in just a few seconds. Swift has very strict rules about property initialization: if you give a class any properties without a default value, you <em>must</em> create an initializer that sets those default values.</p>
-<p>There are two ways to solve this problem: either provide a default value for your property when you define the property, or create a custom <code>init()</code> method to set the value.</p>
-<p>First, identify the problem property. Look for things like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">ViewController</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> username<span class="token punctuation">:</span> <span class="token class-name">String</span>
-<span class="token punctuation">}</span></code></pre>
-<p>That defines a new property but doesn't give it an initial value, so Swift will refuse to build the app.</p>
-<p>The simple solution is just to give your property a sensible initial value when it's defined, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">ViewController</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> username<span class="token punctuation">:</span> <span class="token class-name">String</span> <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Anonymous"</span></span>
-<span class="token punctuation">}</span></code></pre>
-<p>The slightly more complicated solution is to create a custom initializer that gives properties default values in one place, then calls <code>super.init()</code>. When working with <code>UIViewController</code> and storyboards, the initializer you will want to override should look like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">required</span> <span class="token keyword">init</span><span class="token operator">?</span><span class="token punctuation">(</span>coder aDecoder<span class="token punctuation">:</span> <span class="token class-name">NSCoder</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span>username <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Anonymous"</span></span>
-    <span class="token keyword">super</span><span class="token punctuation">.</span><span class="token keyword">init</span><span class="token punctuation">(</span>coder<span class="token punctuation">:</span> aDecoder<span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>Remember: you must initialize all your own properties before calling <code>super.init()</code> or any other methods.</p>
+This is a common error, and one you can fix in just a few seconds. Swift has very strict rules about property initialization: if you give a class any properties without a default value, you *must* create an initializer that sets those default values.
+
+There are two ways to solve this problem: either provide a default value for your property when you define the property, or create a custom `init()` method to set the value.
+
+First, identify the problem property. Look for things like this:
+
+```swift
+class ViewController: UIViewController {
+    var username: String
+}
+```
+
+That defines a new property but doesn't give it an initial value, so Swift will refuse to build the app.
+
+The simple solution is just to give your property a sensible initial value when it's defined, like this:
+
+```swift
+class ViewController: UIViewController {
+    var username: String = "Anonymous"
+}
+```
+
+The slightly more complicated solution is to create a custom initializer that gives properties default values in one place, then calls `super.init()`. When working with `UIViewController` and storyboards, the initializer you will want to override should look like this:
+
+```swift
+required init?(coder aDecoder: NSCoder) {
+    self.username = "Anonymous"
+    super.init(coder: aDecoder)
+}
+```
+
+Remember: you must initialize all your own properties before calling `super.init()` or any other methods.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource"</a></li><li><a href="/example-code/uikit/fixing-unable-to-dequeue-a-cell-with-identifier">Fixing "Unable to dequeue a cell with identifier"</a></li><li><a href="/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a></li></ul>
+/example-code/uikit/fixing-failed-to-obtain-a-cell-from-its-datasource">Fixing "Failed to obtain a cell from its DataSource" 
+/example-code/uikit/fixing-unable-to-dequeue-a-cell-with-identifier">Fixing "Unable to dequeue a cell with identifier" 
+/example-code/language/fixing-ambiguous-reference-to-member-when-using-ceil-or-round">Fixing "Ambiguous reference to member when using ceil or round"</a>
 -->
 
 :::

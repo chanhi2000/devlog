@@ -2564,5 +2564,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/4136413?v=4",
     "banner": ""
+  }, {
+    "repo": "systeminit/si",
+    "desc": "The System Initiative software",
+    "officialSite": "https://systeminit.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/51493071?v=4",
+    "banner": ""
+  }, {
+    "repo": "tummychow/git-absorb",
+    "desc": "git commit --fixup, but automatic",
+    "officialSite": "https://crates.io/crates/git-absorb",
+    "topics": ["git", "rebase"],
+    "avatar": "https://avatars.githubusercontent.com/u/4285049?v=4",
+    "banner": ""
+  }, {
+    "repo": "mediar-ai/screenpipe",
+    "desc": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+    "officialSite": "https://screenpi.pe",
+    "topics": ["ai", "computer-vision", "llm", "machine-learning", "ml", "multimodal", "vision"],
+    "avatar": "https://avatars.githubusercontent.com/u/179202840?v=4",
+    "banner": ""
   }
 ]

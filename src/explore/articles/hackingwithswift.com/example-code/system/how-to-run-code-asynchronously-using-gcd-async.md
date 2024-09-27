@@ -59,19 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<pre class=" language-swift"><code class=" language-swift"><span class="token class-name">DispatchQueue</span><span class="token punctuation">.</span><span class="token function">global</span><span class="token punctuation">(</span>qos<span class="token punctuation">:</span> <span class="token punctuation">.</span>userInitiated<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token keyword">async</span> <span class="token punctuation">{</span> <span class="token punctuation">[</span><span class="token keyword">unowned</span> <span class="token keyword">self</span><span class="token punctuation">]</span> <span class="token keyword">in</span>
-    <span class="token keyword">self</span><span class="token punctuation">.</span><span class="token function">yourCodeHere</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-<p>The <code>.userInitiated</code> quality of service setting is the highest priority after <code>userInteractive</code>. You can also use <code>utility</code> (lower priority) or <code>.background</code> (lowest priority.)</p>
-<p>The second option looks like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token function">performSelector</span><span class="token punctuation">(</span>inBackground<span class="token punctuation">:</span> <span class="token other-directive property">#selector</span><span class="token punctuation">(</span>yourCodeHere<span class="token punctuation">)</span><span class="token punctuation">,</span> with<span class="token punctuation">:</span> <span class="token nil constant">nil</span><span class="token punctuation">)</span></code></pre>
-<p>You'll need to replace <code>yourCodeHere</code> with the name of an actual method. If you want to pass a parameter, make sure and use “yourCodeHere:" and provide a value for the <code>with</code> parameter.</p>
+```swift
+DispatchQueue.global(qos: .userInitiated).async { [unowned self] in
+    self.yourCodeHere()
+}
+```
+
+The `.userInitiated` quality of service setting is the highest priority after `userInteractive`. You can also use `utility` (lower priority) or `.background` (lowest priority.)
+
+The second option looks like this:
+
+```swift
+performSelector(inBackground: #selector(yourCodeHere), with: nil)
+```
+
+You'll need to replace `yourCodeHere` with the name of an actual method. If you want to pass a parameter, make sure and use “yourCodeHere:" and provide a value for the `with` parameter.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/system/how-to-run-code-on-the-main-thread-using-gcd-async">How to run code on the main thread using GCD async()</a></li><li><a href="/example-code/system/how-to-send-notifications-asynchronously-using-notificationqueue">How to send notifications asynchronously using NotificationQueue</a></li><li><a href="/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue</a></li><li><a href="/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let</a></li><li><a href="/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a></li></ul>
+/example-code/system/how-to-run-code-on-the-main-thread-using-gcd-async">How to run code on the main thread using GCD async() 
+/example-code/system/how-to-send-notifications-asynchronously-using-notificationqueue">How to send notifications asynchronously using NotificationQueue 
+/quick-start/concurrency/how-to-use-mainactor-to-run-code-on-the-main-queue">How to use @MainActor to run code on the main queue 
+/quick-start/concurrency/how-to-call-an-async-function-using-async-let">How to call an async function using async let 
+/example-code/system/how-to-run-code-when-your-app-is-terminated">How to run code when your app is terminated</a>
 -->
 
 :::

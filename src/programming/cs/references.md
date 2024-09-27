@@ -115,7 +115,7 @@ head:
 
 ## üntil
 
-- [`@sin0105`: Brocolling](https://until.blog/@sin0105)
+- [`@sin0105`: Brocolling's Blog](https://until.blog/@sin0105)
   - [\[코딩테스트 일지\] 해커랭크, Plus Minus](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80--%ED%95%B4%EC%BB%A4%EB%9E%AD%ED%81%AC--plus-minus)
   - [\[코딩테스트 일지\] 해커랭크, Mini-Max Sum](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80--%ED%95%B4%EC%BB%A4%EB%9E%AD%ED%81%AC--mini-max-sum)
   - [\[코딩테스트 일지 - 99클럽\] 1일차 - 가장 큰 수](https://until.blog/@sin0105/-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9D%BC%EC%A7%80---99%ED%81%B4%EB%9F%BD--1%EC%9D%BC%EC%B0%A8---%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98)
@@ -160,6 +160,8 @@ head:
   - [코딩테스트 준비 - 스택](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%8A%A4%ED%83%9D---solve-x)
   - [코딩테스트 준비 - 게임맵 최단거리](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%8A%A4%ED%83%9D)
   - [코딩테스트 준비 - 나이트의 이동](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-3d9xiqg0)
+  - [코딩테스트 준비 - 영역 구하기](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84--)
+  - [코딩테스트 준비 - 헌내기는 친구가 필요해](https://until.blog/@sin0105/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A4%80%EB%B9%84---%ED%97%8C%EB%82%B4%EA%B8%B0%EB%8A%94-%EC%B9%9C%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4)
   <!-- END: sin0105 -->
 <!-- END: until.blog -->
 
@@ -316,47 +318,51 @@ head:
 
 ---
 
-## 이모저모 개발 블로그
+## tistory
 
-- [\[WPF\] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/901)
-- [\[WPF\] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/900)
-- [\[WPF\] MVVM Scroll 동작 구현](https://hj0216.tistory.com/908)
-- [\[WPF\] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/911)
-- [\[WPF\] `WebView2`와 동영상](https://hj0216.tistory.com/910)
-- [\[WPF\] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/912)
-- [\[WPF\] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/913)
-- [\[WPF\] 생성자 Override](https://hj0216.tistory.com/914)
-- [\[WPF\] 생성자 Overloading (2)](https://hj0216.tistory.com/916)
-- [\[WPF\] View, ViewModel Singleton](https://hj0216.tistory.com/917)
-- [\[WPF\] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/919)
-- [\[WPF\] 생성자 단위 초기화와 필드 단위 초기화](https://hj0216.tistory.com/920)
-- [\[WPF\] Dependency Property](https://hj0216.tistory.com/m/925)
-- [\[C#\] 간단한 TCPServer 및 TCPClient 구현](https://hj0216.tistory.com/m/926)
-
----
-
-## 재우니의 블로그
-
-- [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/3189)
-- [C# : LINQ 를 활용한 차집합과 교집합 구하기 (Except, Intersect)](https://aspdotnet.tistory.com/3202)
-- [ASP.NET CORE 8 : FLY.IO 설치 및 배포하기](https://aspdotnet.tistory.com/3203)
-- [ASP.NET MVC : IIS 환경, 특정 HTTP 메서드(verbs)만을 허용 (WEB.CONFIG)](https://aspdotnet.tistory.com/3214)
-- [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
-- [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
-- [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
-- [ASP.NET CORE : Entity Framework Scaffold-DbContext Login failed for user (db 비밀번호 $ 문자 문제)](https://aspdotnet.tistory.com/m/3229)
-- [ASP.NET CORE : `signInManager.PasswordSignInAsync` 의 Not Allowed 가 true 이면?](https://aspdotnet.tistory.com/m/3230)
-- [EF : Entity Framework Core - Database first 사용해 보기](https://aspdotnet.tistory.com/m/3231)
-- [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256(Advanced Encryption Standard) 구현하기 (Aes Class)](https://aspdotnet.tistory.com/m/3242)
-- [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256 시나리오 2가지로 구현하기](https://aspdotnet.tistory.com/m/3243)
-- [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
-- [한글 자모 교정기 (Hangul Grapheme Corrector) 프로그램 exe](https://aspdotnet.tistory.com/m/3254)
-
----
-
-## 행뽁🐥
-
- [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/153)
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[WPF\] `ListView`와 `SelectedItem`](https://hj0216.tistory.com/m/901)
+  - [\[WPF\] `ListView`와 `ItemsSource`](https://hj0216.tistory.com/m/900)
+  - [\[WPF\] MVVM Scroll 동작 구현](https://hj0216.tistory.com/m/908)
+  - [\[WPF\] `MaterialDesignTheme` 적용](https://hj0216.tistory.com/m/911)
+  - [\[WPF\] `WebView2`와 동영상](https://hj0216.tistory.com/m/910)
+  - [\[WPF\] Static Resource와 Dynamic Resource](https://hj0216.tistory.com/m/912)
+  - [\[WPF\] 한글 Encoding ANSI / UTF8](https://hj0216.tistory.com/m/913)
+  - [\[WPF\] 생성자 Override](https://hj0216.tistory.com/m/914)
+  - [\[WPF\] 생성자 Overloading (2)](https://hj0216.tistory.com/m/916)
+  - [\[WPF\] View, ViewModel Singleton](https://hj0216.tistory.com/m/917)
+  - [\[WPF\] MVVM 패턴에서의 전체 선택](https://hj0216.tistory.com/m/919)
+  - [\[WPF\] 생성자 단위 초기화와 필드 단위 초기화](https://hj0216.tistory.com/m/920)
+  - [\[WPF\] Dependency Property](https://hj0216.tistory.com/m/925)
+  - [\[C#\] 간단한 TCPServer 및 TCPClient 구현](https://hj0216.tistory.com/m/926)
+  <!-- END: hj0216 -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [Dapper (ORM) 과 EF 비교하여 WHERE 조건 검색 비교하기](https://aspdotnet.tistory.com/m/3189)
+  - [C# : LINQ 를 활용한 차집합과 교집합 구하기 (Except, Intersect)](https://aspdotnet.tistory.com/m/3202)
+  - [ASP.NET CORE 8 : FLY.IO 설치 및 배포하기](https://aspdotnet.tistory.com/m/3203)
+  - [ASP.NET MVC : IIS 환경, 특정 HTTP 메서드(verbs)만을 허용 (WEB.CONFIG)](https://aspdotnet.tistory.com/m/3214)
+  - [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
+  - [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
+  - [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
+  - [ASP.NET CORE : Entity Framework Scaffold-DbContext Login failed for user (db 비밀번호 $ 문자 문제)](https://aspdotnet.tistory.com/m/3229)
+  - [ASP.NET CORE : `signInManager.PasswordSignInAsync` 의 Not Allowed 가 true 이면?](https://aspdotnet.tistory.com/m/3230)
+  - [EF : Entity Framework Core - Database first 사용해 보기](https://aspdotnet.tistory.com/m/3231)
+  - [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256(Advanced Encryption Standard) 구현하기 (Aes Class)](https://aspdotnet.tistory.com/m/3242)
+  - [ASP.NET CORE : 대칭 암호화 알고리즘 AES-256 시나리오 2가지로 구현하기](https://aspdotnet.tistory.com/m/3243)
+  - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+  - [한글 자모 교정기 (Hangul Grapheme Corrector) 프로그램 exe](https://aspdotnet.tistory.com/m/3254)
+  - [검색 및 유효성 검사 기능을 갖춘 React, .NET, SQLite 및 Ant 디자인으로 풀 스택 CRUD 앱을 구축](https://aspdotnet.tistory.com/m/3276)
+  <!-- END: aspdotnet -->
+- [`hyunjungchoi` / 행뽁🐥](https://hyunjungchoi.tistory.com/m/)
+  - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/m/153)
+  <!-- END: hyunjungchoi -->
+- [`topnanis` / 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔](https://topnanis.tistory.com/m/)
+  - [[C#, Download] 프로젝트 기본 폼 (시작할때)](https://topnanis.tistory.com/m/251)
+  <!-- END: topnanis -->
+- [`doublsb` / 더블즈비의 기묘한 공방](https://doublsb.tistory.com/m/)
+  - [\[C#\] 구조체의 get/set을 조심하자](https://doublsb.tistory.com/m/171)
+  <!-- END: doublsb -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -372,12 +378,6 @@ head:
 ## elmah.io Blog - .NET Technical tutorials/guides and new features
 
 - [How to send push notifications to a browser in ASP.NET Core](https://blog.elmah.io/how-to-send-push-notifications-to-a-browser-in-asp-net-core)
-
----
-
-## 준환이형님쩜넷 - 따뜻하게 즐기는 코딩 한 스푼, 반도체 한 잔
-
-- [[C#, Download] 프로젝트 기본 폼 (시작할때)](https://topnanis.tistory.com/251)
 
 ---
 
@@ -489,12 +489,6 @@ head:
 ## Improve your .NET code quality with NDepend
 
 - [.NET 8 Top 10 New Features](https://blog.ndepend.com/net-8-top-10-new-features/)
-
----
-
-## 더블즈비의 기묘한 공방
-
-- [\[C#\] 구조체의 get/set을 조심하자](https://doublsb.tistory.com/m/171)
 
 ---
 

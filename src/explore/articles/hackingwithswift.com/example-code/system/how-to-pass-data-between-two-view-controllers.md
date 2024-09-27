@@ -59,44 +59,73 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>If you have a value in one view controller and want to pass it to another, there are two approaches: for passing data forward you should communicate using properties, and for passing data backwards you can either use a delegate or a block.</p>
-<p>Passing data forward is used when you want to show some information in a detail view controller. For example, view controller A might contain a list of names that the user can select, and view controller B might show some detailed information on a single name that the user selected. In this case, you would create a property on B like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">ViewControllerB</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> selectedName<span class="token punctuation">:</span> <span class="token class-name">String</span> <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Anonymous"</span></span>
-<span class="token punctuation">}</span></code></pre>
-<p>How you set that property depends on how are you showing the detail view controller. For example, if you're using a <code>UINavigationController</code> and want to push the new view controller onto the stack, you would write this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> viewControllerB <span class="token operator">=</span> <span class="token class-name">ViewControllerB</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-viewControllerB<span class="token punctuation">.</span>selectedName <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span>
-navigationController<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">pushViewController</span><span class="token punctuation">(</span>viewControllerB<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span></code></pre>
-<p>If you're using segues, you'll want to use code like this instead:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">override</span> <span class="token keyword">func</span> <span class="token function-definition function">prepare</span><span class="token punctuation">(</span><span class="token keyword">for</span> segue<span class="token punctuation">:</span> <span class="token class-name">UIStoryboardSegue</span><span class="token punctuation">,</span> sender<span class="token punctuation">:</span> <span class="token keyword">Any</span><span class="token operator">?</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token keyword">if</span> segue<span class="token punctuation">.</span>identifier <span class="token operator">==</span> <span class="token string-literal"><span class="token string">"showDetail"</span></span> <span class="token punctuation">{</span>
-        <span class="token keyword">if</span> <span class="token keyword">let</span> indexPath <span class="token operator">=</span> <span class="token keyword">self</span><span class="token punctuation">.</span>tableView<span class="token punctuation">.</span>indexPathForSelectedRow <span class="token punctuation">{</span>
-            <span class="token keyword">let</span> controller <span class="token operator">=</span> segue<span class="token punctuation">.</span>destination <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">ViewControllerB</span>
-            controller<span class="token punctuation">.</span>selectedName <span class="token operator">=</span> objects<span class="token punctuation">[</span>indexPath<span class="token punctuation">.</span>row<span class="token punctuation">]</span>
-        <span class="token punctuation">}</span>
-    <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>To pass data back, the most common approach is to create a delegate property in your detail view controller, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">class</span> <span class="token class-name">ViewControllerB</span><span class="token punctuation">:</span> <span class="token class-name">UIViewController</span> <span class="token punctuation">{</span>
-    <span class="token keyword">var</span> selectedName<span class="token punctuation">:</span> <span class="token class-name">String</span> <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Anonymous"</span></span>
-    <span class="token keyword">weak</span> <span class="token keyword">var</span> delegate<span class="token punctuation">:</span> <span class="token class-name">ViewControllerA</span><span class="token operator">!</span>
-<span class="token punctuation">}</span></code></pre>
-<p>When creating your detail view controller, make sure you set up its <code>delegate</code> property, like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> viewControllerB <span class="token operator">=</span> <span class="token class-name">ViewControllerB</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-viewControllerB<span class="token punctuation">.</span>selectedName <span class="token operator">=</span> <span class="token string-literal"><span class="token string">"Taylor Swift"</span></span>
-viewControllerB<span class="token punctuation">.</span>delegate <span class="token operator">=</span> <span class="token keyword">self</span>
-navigationController<span class="token operator">?</span><span class="token punctuation">.</span><span class="token function">pushViewController</span><span class="token punctuation">(</span>viewControllerB<span class="token punctuation">,</span> animated<span class="token punctuation">:</span> <span class="token boolean">true</span><span class="token punctuation">)</span></code></pre>
-<p>With this set up complete, you can now create a method in your master view controller that should be called by the detail view controller. For example, you might have something like this:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">func</span> <span class="token function-definition function">updatedSelectedName</span><span class="token punctuation">(</span>newName<span class="token punctuation">:</span> <span class="token class-name">String</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    <span class="token comment">// do something with newName</span>
-<span class="token punctuation">}</span></code></pre>
+If you have a value in one view controller and want to pass it to another, there are two approaches: for passing data forward you should communicate using properties, and for passing data backwards you can either use a delegate or a block.
+
+Passing data forward is used when you want to show some information in a detail view controller. For example, view controller A might contain a list of names that the user can select, and view controller B might show some detailed information on a single name that the user selected. In this case, you would create a property on B like this:
+
+```swift
+class ViewControllerB: UIViewController {
+    var selectedName: String = "Anonymous"
+}
+```
+
+How you set that property depends on how are you showing the detail view controller. For example, if you're using a `UINavigationController` and want to push the new view controller onto the stack, you would write this:
+
+```swift
+let viewControllerB = ViewControllerB()
+viewControllerB.selectedName = "Taylor Swift"
+navigationController?.pushViewController(viewControllerB, animated: true)
+```
+
+If you're using segues, you'll want to use code like this instead:
+
+```swift
+override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    if segue.identifier == "showDetail" {
+        if let indexPath = self.tableView.indexPathForSelectedRow {
+            let controller = segue.destination as! ViewControllerB
+            controller.selectedName = objects[indexPath.row]
+        }
+    }
+}
+```
+
+To pass data back, the most common approach is to create a delegate property in your detail view controller, like this:
+
+```swift
+class ViewControllerB: UIViewController {
+    var selectedName: String = "Anonymous"
+    weak var delegate: ViewControllerA!
+}
+```
+
+When creating your detail view controller, make sure you set up its `delegate` property, like this:
+
+```swift
+let viewControllerB = ViewControllerB()
+viewControllerB.selectedName = "Taylor Swift"
+viewControllerB.delegate = self
+navigationController?.pushViewController(viewControllerB, animated: true)
+```
+
+With this set up complete, you can now create a method in your master view controller that should be called by the detail view controller. For example, you might have something like this:
+
+```swift
+func updatedSelectedName(newName: String) {
+    // do something with newName
+}
+```
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-pass-the-fizz-buzz-test">How to pass the Fizz Buzz test</a></li><li><a href="/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks</a></li><li><a href="/example-code/uikit/how-to-disable-interactive-swipe-to-dismiss-for-view-controllers">How to disable interactive swipe to dismiss for view controllers</a></li><li><a href="/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared</a></li><li><a href="/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a></li></ul>
+/example-code/language/how-to-pass-the-fizz-buzz-test">How to pass the Fizz Buzz test 
+/quick-start/swiftui/swiftui-tips-and-tricks">SwiftUI tips and tricks 
+/example-code/uikit/how-to-disable-interactive-swipe-to-dismiss-for-view-controllers">How to disable interactive swipe to dismiss for view controllers 
+/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared">All SwiftUI property wrappers explained and compared 
+/quick-start/swiftui/whats-the-difference-between-observedobject-state-and-environmentobject">What’s the difference between @ObservedObject, @State, and @EnvironmentObject?</a>
 -->
 
 :::

@@ -59,17 +59,26 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!--
-<p>Ever since iOS 7.0, table view cells have been gray when tapped, even when you specifically told Interface Builder you wanted them to be blue. Don't worry, though: it's an easy thing to change, as long as you don't mind writing three lines of code. Specifically, you need to add something like this to your <code>cellForRowAt</code> method:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">let</span> backgroundView <span class="token operator">=</span> <span class="token class-name">UIView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
-backgroundView<span class="token punctuation">.</span>backgroundColor <span class="token operator">=</span> <span class="token class-name">UIColor</span><span class="token punctuation">.</span>red
-cell<span class="token punctuation">.</span>selectedBackgroundView <span class="token operator">=</span> backgroundView</code></pre>
-<p>You can customize the view as much as you want to, but remember to keep the overall amount of work low to avoid hurting scroll performance.</p>
+Ever since iOS 7.0, table view cells have been gray when tapped, even when you specifically told Interface Builder you wanted them to be blue. Don't worry, though: it's an easy thing to change, as long as you don't mind writing three lines of code. Specifically, you need to add something like this to your `cellForRowAt` method:
+
+```swift
+let backgroundView = UIView()
+backgroundView.backgroundColor = UIColor.red
+cell.selectedBackgroundView = backgroundView
+```
+
+You can customize the view as much as you want to, but remember to keep the overall amount of work low to avoid hurting scroll performance.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/uikit/how-to-give-a-uistackview-a-background-color">How to give a UIStackView a background color</a></li><li><a href="/example-code/uikit/how-to-make-uitableviewcells-auto-resize-to-their-content">How to make UITableViewCells auto resize to their content</a></li><li><a href="/example-code/uikit/how-to-swipe-to-delete-uitableviewcells">How to swipe to delete UITableViewCells</a></li><li><a href="/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame</a></li><li><a href="/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage()</a></li></ul>
+/example-code/uikit/how-to-give-a-uistackview-a-background-color">How to give a UIStackView a background color 
+/example-code/uikit/how-to-make-uitableviewcells-auto-resize-to-their-content">How to make UITableViewCells auto resize to their content 
+/example-code/uikit/how-to-swipe-to-delete-uitableviewcells">How to swipe to delete UITableViewCells 
+/quick-start/swiftui/how-to-give-a-view-a-custom-frame">How to give a view a custom frame 
+/example-code/uikit/how-to-give-a-uinavigationbar-a-background-image-setbackgroundimage">How to give a UINavigationBar a background image: setBackgroundImage()</a>
 -->
 
 :::

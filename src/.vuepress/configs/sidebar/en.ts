@@ -2274,6 +2274,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/windows/articles/README.md',
+            asb.freecodecamp("windows"),
             asb.learnk8s("windows"),
             asb.tecmint("windows"),
             asb.yozm("windows"),
@@ -2583,6 +2584,7 @@ export const sidebarEn = sidebar({
             '/devops/aws/articles/README.md',
             asb.freecodecamp("aws"),
             asb.learnk8s("aws"), 
+            asb.milanJovanovic("aws"), 
             asb.yozm("aws"),
             asb.kakaoEnt("aws"),
             asb.inflab("aws"),

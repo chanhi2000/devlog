@@ -59,21 +59,32 @@ isOriginal: false
 <!-- TODO: 작성 -->
 
 <!-- 
-<p>When working with code from another module –&nbsp;e.g., UIKit or a module you wrote separate from your main app –&nbsp;Swift differentiates between public accessibility and public overridability. That is, someone can be public for folks to use, but not public for them to extend.</p>
-<p>Here’s an example to demonstrate the difference:</p>
-<pre class=" language-swift"><code class=" language-swift"><span class="token keyword">open</span> <span class="token keyword">class</span> <span class="token class-name">User</span> <span class="token punctuation">{</span>
-    <span class="token keyword">open</span> <span class="token keyword">func</span> <span class="token function-definition function">login</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
-    <span class="token keyword">public</span> <span class="token keyword">func</span> <span class="token function-definition function">playGame</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
-    <span class="token keyword">public</span> <span class="token keyword">init</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
-<span class="token punctuation">}</span></code></pre>
-<p>If that were defined in its own module, any other code accessing it would be able to inherit from the <code>User</code> class because it’s marked <code>open</code>. Inside the child class, they could override <code>login()</code> because it’s also marked <code>open</code>, but they could <em>not</em> override <code>playGame()</code> because it’s marked only as <code>public</code> –&nbsp;it can be <em>called</em>, but not <em>changed</em>. If you remove <code>open</code> from the whole <code>User</code> class it can be <em>used</em> but not <em>subclassed</em>.</p>
-<p>The <code>open</code> keyword is an effective way of stopping other developers from accidentally overriding functionality that’s critical to the way your app works. If you use it selectively, subclassers can add their own functionality or perhaps replace a few non-critical components, without altering the fundamental behavior of your class.</p>
+When working with code from another module – e.g., UIKit or a module you wrote separate from your main app – Swift differentiates between public accessibility and public overridability. That is, someone can be public for folks to use, but not public for them to extend.
+
+Here’s an example to demonstrate the difference:
+
+```swift
+open class User {
+    open func login() { }
+    public func playGame() { }
+    public init() { }
+}
+```
+
+If that were defined in its own module, any other code accessing it would be able to inherit from the `User` class because it’s marked `open`. Inside the child class, they could override `login()` because it’s also marked `open`, but they could *not* override `playGame()` because it’s marked only as `public` – it can be *called*, but not *changed*. If you remove `open` from the whole `User` class it can be *used* but not *subclassed*.
+
+The `open` keyword is an effective way of stopping other developers from accidentally overriding functionality that’s critical to the way your app works. If you use it selectively, subclassers can add their own functionality or perhaps replace a few non-critical components, without altering the fundamental behavior of your class.
+
 -->
 
 ::: details Similar solutions…
 
 <!--
-<ul><li><a href="/example-code/language/how-to-use-the-rethrows-keyword">How to use the rethrows keyword</a></li><li><a href="/example-code/language/how-to-check-for-valid-method-input-using-the-guard-keyword">How to check for valid method input using the guard keyword</a></li><li><a href="/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme</a></li><li><a href="/example-code/language/how-to-delay-execution-of-code-using-the-defer-keyword">How to delay execution of code using the defer keyword</a></li><li><a href="/quick-start/swiftui/how-to-open-a-new-window">How to open a new window</a></li></ul>
+/example-code/language/how-to-use-the-rethrows-keyword">How to use the rethrows keyword 
+/example-code/language/how-to-check-for-valid-method-input-using-the-guard-keyword">How to check for valid method input using the guard keyword 
+/example-code/system/how-to-make-your-app-open-with-a-custom-url-scheme">How to make your app open with a custom URL scheme 
+/example-code/language/how-to-delay-execution-of-code-using-the-defer-keyword">How to delay execution of code using the defer keyword 
+/quick-start/swiftui/how-to-open-a-new-window">How to open a new window</a>
 -->
 
 :::
