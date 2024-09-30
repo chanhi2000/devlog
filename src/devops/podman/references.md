@@ -64,8 +64,8 @@ head:
 {
   "title": "Top Docker and Docker Desktop alternatives",
   "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
-  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```

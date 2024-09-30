@@ -18,7 +18,7 @@ tag:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/224.md) -->
+- [개발자를 위한 레디스 튜토리얼 01](https://meetup.nhncloud.com/posts/224) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/224.md) -->
 
 ---
 
@@ -58,19 +58,19 @@ tag:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/406.md) -->
+- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/406.md) -->
 
 ---
 
 ## Blog - LINE ENGINEERING
 
-- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
+- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
 ---
 
 ## Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
 
-- [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/fix-increasing-memory-usage.md) -->
+- [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/hyperconnect.github.io/fix-increasing-memory-usage.md) -->
 
 ---
 

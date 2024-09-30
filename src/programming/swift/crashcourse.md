@@ -66,7 +66,7 @@ tag:
 {
   "title": "Swift > Kodeco - Swift",
   "desc": "Kodeco - Swift",
-  "link": "https://chanhi2000.github.io/explore/articles/kodeco.com/",
+  "link": "https://chanhi2000.github.iohttps://chanhi2000.github.io/bookshelf/kodeco.com/",
   "logo": "https://files.koenig.kodeco.com/uploads/2023/03/swiftlint_in_depth_featured_banner@1.5x.png",
   "background": "rgba(135,99,210,0.2)"
 }

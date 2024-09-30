@@ -56,7 +56,7 @@ head:
 {
   "title": "Learn About Operating Systems In-Depth",
   "desc": "'For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...",
-  "link": "/explore/articles/freecodecamp.org/learn-about-operating-systems-in-depth.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-about-operating-systems-in-depth.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -74,7 +74,7 @@ head:
 {
   "title": "개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기 | 요즘IT",
   "desc": "개발자의 논리적 사고와 문제 해결 ‘Set 구현 과정’ 따라가기",
-  "link": "/explore/articles/yozm.wishket.com/2723.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2723.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

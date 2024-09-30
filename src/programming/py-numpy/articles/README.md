@@ -44,7 +44,7 @@ head:
 {
   "title": "How to Build a Quantum AI Model for Predicting Iris Flower Data with Python",
   "desc": "Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep learning.  In this blog post, we'll...",
-  "link": "/explore/articles/freecodecamp.org/how-to-build-an-ai-model-for-predicting-data-with-python.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-build-an-ai-model-for-predicting-data-with-python.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

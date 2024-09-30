@@ -78,7 +78,7 @@ tag:
 
 ## Elixir and Phoenix Software House | Curiosum
 
-- [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir) <!-- TODO: 작성 (/explore/articles/curiosum.com/borrowing-libs-from-python-in-elixir.md) -->
+- [Borrowing libs from Python in Elixir](https://curiosum.com/blog/borrowing-libs-from-python-in-elixir) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/curiosum.com/borrowing-libs-from-python-in-elixir.md) -->
 
 ---
 

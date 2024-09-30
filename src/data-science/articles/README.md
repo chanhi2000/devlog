@@ -39,8 +39,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico"
+  preview="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -54,7 +54,7 @@ head:
 {
   "title": "신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트 | 요즘IT",
   "desc": "신뢰할 수 있는 데이터를 확보하기 위한 3가지 체크리스트",
-  "link": "/explore/articles/yozm.wishket.com/2171.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2171.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -72,8 +72,8 @@ head:
 {
   "title": "분산 고속 저장소 nStore | NAVER D2",
   "desc": "분산 고속 저장소 nStore",
-  "link": "/explore/articles/d2.naver.com/1042.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1042.md",
+  "logo": "https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

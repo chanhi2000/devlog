@@ -25,8 +25,8 @@ tag:
   name="Internet Explorer 11 - Microsoft Lifecycle | Microsoft Learn"
   desc="Internet Explorer 11은 구성 요소 수명 주기 정책을 따릅니다."
   url="https://learn.microsoft.com/ko-kr/lifecycle/products/internet-explorer-11"
-  logo="/images/content/learn.microsoft.com/favicon.ico"
-  preview="/images/content/learn.microsoft.com/open-graph-image.png"/>
+  logo="learn.microsoft.com/favicon.ico"
+  preview="learn.microsoft.com/open-graph-image.png"/>
 
 ## ie를 강제로 실행
 

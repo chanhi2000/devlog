@@ -4,11 +4,11 @@ import { defineClientConfig } from "vuepress/client"
 export default defineClientConfig({
   async enhance({ app, router, siteData }) {
     router.beforeEach((to) => {
-      console.log("before navigation");
+      // console.log("before navigation");
     });
 
     router.afterEach((to) => {
-      console.log("after navigation");
+      // console.log("after navigation");
     });
   },
   setup() {

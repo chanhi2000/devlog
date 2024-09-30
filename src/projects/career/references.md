@@ -56,7 +56,7 @@ tag:
 {
   "title": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 | 카카오테크",
   "desc": "Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기",
-  "link": "/explore/articles/tech.kakao.com/447.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tech.kakao.com/447.md",
   "logo": "https://www.kakaocorp.com/page/favicon.ico",
   "background": "rgba(53,79,245,0.2)"
 }
@@ -66,7 +66,7 @@ tag:
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170) <!-- TODO: 작성 (/explore/articles/d2.naver.com/3435170.md) -->
+- [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/3435170.md) -->
 
 ---
 
@@ -85,7 +85,7 @@ tag:
 
 ## Blog - LINE ENGINEERING
 
-- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/effective-codereview.md) -->
+- [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/effective-codereview.md) -->
 
 ---
 
@@ -793,7 +793,7 @@ tag:
 {
   "title": "The End Of My Gatsby Journey — Smashing Magazine",
   "desc": "“Gatsby headaches” are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
-  "link": "/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/end-of-gatsby-journey.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -1104,7 +1104,7 @@ tag:
 
 ## DevTech - 데브시스터즈 기술블로그
 
-- [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops) <!-- TODO: 작성 (/explore/articles/tech.devsisters.com/the-human-scalability-of-devops.md) -->
+- [“DevOps”의 인적 확장 (The human scalability of “DevOps”)](https://tech.devsisters.com/posts/the-human-scalability-of-devops) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.devsisters.com/the-human-scalability-of-devops.md) -->
 
 ---
 
@@ -1316,7 +1316,7 @@ https://m.blog.naver.com/&logId=
 
 ## Spoqa 기술 블로그
 
-- [사기 높은 팀을 만드는 해피아워](https://spoqa.github.io/2018/10/16/happyhour.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/happyhour.md) -->
+- [사기 높은 팀을 만드는 해피아워](https://spoqa.github.io/2018/10/16/happyhour.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/spoqa.github.io/happyhour.md) -->
 
 ---
 

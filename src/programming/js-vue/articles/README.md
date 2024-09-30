@@ -68,7 +68,7 @@ head:
 {
   "title": "How to Build a Vue E-commerce App Using MSW",
   "desc": "Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting...",
-  "link": "/explore/articles/freecodecamp.org/build-a-vue-ecommerce-app-using-msw.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-a-vue-ecommerce-app-using-msw.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -78,7 +78,7 @@ head:
 {
   "title": "How Event Handling Works in Vue 3: A Guide for Developers",
   "desc": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
-  "link": "/explore/articles/freecodecamp.org/how-event-handling-works-in-vue-3-guide-for-devs.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-event-handling-works-in-vue-3-guide-for-devs.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -96,7 +96,7 @@ head:
 {
   "title": "Vue+express에서 Next.js로, '숨고'의 마이그레이션 | 요즘IT",
   "desc": "Vue+express에서 Next.js로, '숨고'의 마이그레이션",
-  "link": "/explore/articles/yozm.wishket.com/2511.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2511.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -114,7 +114,7 @@ head:
 {
   "title": "크롬 확장프로그램 개발⛏️ 회고",
   "desc": "Vue.js를 이용하여 줌 확장프로그램을 개발하는 과정에 대한 회고입니다.",
-  "link": "/explore/articles/zuminternet.github.io/zum-chrome-extension.md",
+  "link": "https://chanhi2000.github.io/bookshelf/zuminternet.github.io/zum-chrome-extension.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }

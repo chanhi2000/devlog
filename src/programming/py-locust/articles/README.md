@@ -44,7 +44,7 @@ head:
 {
   "title": "Scaling Celery workers with RabbitMQ on Kubernetes",
   "desc": "Learn how to use Kubernetes and KEDA to scale Celery workers based on the number of messages in a RabbitMQ queue",
-  "link": "/explore/articles/learnk8s.io/scaling-celery-rabbitmq-kubernetes.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/scaling-celery-rabbitmq-kubernetes.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }

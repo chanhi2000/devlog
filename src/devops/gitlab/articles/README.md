@@ -44,7 +44,7 @@ head:
 {
   "title": "DevOps with GitLab CI Course",
   "desc": "GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Valentin is an ...",
-  "link": "/explore/articles/freecodecamp.org/devops-with-gitlab-ci-course/README.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/devops-with-gitlab-ci-course/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -49,7 +49,7 @@ head:
 {
   "title": "How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Tutorial",
   "desc": "In this guide, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, which is a superior and more secure authentication scheme.  By implementing this advanced approach, you'll have a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table...",
-  "link": "/explore/articles/freecodecamp.org/php-jwt-authentication-implementation.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/php-jwt-authentication-implementation.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -59,7 +59,7 @@ head:
 {
   "title": "PHP Array Handbook – How to Create, Work with, and Loop Through Arrays",
   "desc": "In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you...",
-  "link": "/explore/articles/freecodecamp.org/php-array-handbook.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/php-array-handbook.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -69,7 +69,7 @@ head:
 {
   "title": "PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB",
   "desc": "This is the second part of my PHP array handbook. You can find the first part here, where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how...",
-  "link": "/explore/articles/freecodecamp.org/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -87,7 +87,7 @@ head:
 {
   "title": "Kubernetes: deploy Laravel the easy way",
   "desc": "In this article, I'll explain how to deal with the simple requirement of running a Laravel application as a local Kubernetes set up.",
-  "link": "/explore/articles/learnk8s.io/kubernetes-deploy-laravel-the-easy-way.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/kubernetes-deploy-laravel-the-easy-way.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }

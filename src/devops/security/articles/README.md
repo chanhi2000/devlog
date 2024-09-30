@@ -43,8 +43,8 @@ head:
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -70,8 +70,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -85,7 +85,7 @@ head:
 {
   "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
   "desc": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Suz Hinton. She's a software engineer, security researcher, and one of the first ever people to live-stream her coding on Twitch. We talk about: How Suz started her...",
-  "link": "/explore/articles/freecodecamp.org/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -95,7 +95,7 @@ head:
 {
   "title": "How to Improve Your Digital Security and Privacy – Best Practices for Developers",
   "desc": "These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.  But it can be hard to understand exactly how to do this. So I built this...",
-  "link": "/explore/articles/freecodecamp.org/how-to-improve-your-digital-security-and-privacy.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-improve-your-digital-security-and-privacy.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -105,7 +105,7 @@ head:
 {
   "title": "More Secure Authentication: From Passwords to Passkeys",
   "desc": "In the ever-evolving world of cybersecurity, authentication remains a cornerstone. Traditional methods, like passwords and social logins, are increasingly vulnerable to attacks. Enter passkeys—a revolutionary approach promising enhanced security and user convenience.  This guide will explore the current state of authentication, delve into what passkeys are, how they work...",
-  "link": "/explore/articles/freecodecamp.org/more-secure-authentication-from-passwords-to-passkeys.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/more-secure-authentication-from-passwords-to-passkeys.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -115,7 +115,7 @@ head:
 {
   "title": "How to Get Started With Cybersecurity",
   "desc": "From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity comes in, one of the most fascinating fields of...",
-  "link": "/explore/articles/freecodecamp.org/getting-started-in-cybersecurity.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/getting-started-in-cybersecurity.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -125,7 +125,7 @@ head:
 {
   "title": "VM Data Protection Best Practices: How to Mitigate Risk in a Virtual Environment",
   "desc": "Vast amounts of data flow through virtualized environments these days. And that data needs to be protected. So making sure that your virtual machines are secured, along with their associated data, is key for maintaining operational continuity and saf...",
-  "link": "/explore/articles/freecodecamp.org/vm-data-protection-best-practices.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/vm-data-protection-best-practices.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -135,7 +135,7 @@ head:
 {
   "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
   "desc": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
-  "link": "/explore/articles/freecodecamp.org/what-is-rate-limiting-web-apis.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-rate-limiting-web-apis.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -145,7 +145,7 @@ head:
 {
   "title": "What is Cache Poisoning? How Hackers Manipulate Web Caches and How to Avoid It",
   "desc": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
-  "link": "/explore/articles/freecodecamp.org/what-is-cache-poisoning-and-how-to-avoid-it.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-cache-poisoning-and-how-to-avoid-it.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -155,7 +155,7 @@ head:
 {
   "title": "Shodan – What to Know About the Internet’s Most Dangerous Search Engine",
   "desc": "Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo...",
-  "link": "/explore/articles/freecodecamp.org/shodan-what-to-know-about-the-internets-most-dangerous-search-engine.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/shodan-what-to-know-about-the-internets-most-dangerous-search-engine.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -165,7 +165,7 @@ head:
 {
   "title": "Learn How To Secure API Servers", 
   "desc": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
-  "link": "/explore/articles/freecodecamp.org/learn-how-to-secure-api-servers.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-how-to-secure-api-servers.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -183,8 +183,8 @@ head:
 {
   "title": "OWASP Top 10 – Injection",
   "desc": "In this article, we are going to look at the injection attack, which is the most critical web application security threat as per OWASP Top 10 list.",
-  "link": "/explore/articles/code-maze.com/owasp-top-10-injection.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/owasp-top-10-injection.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -193,8 +193,8 @@ head:
 {
   "title": "OWASP Top 10 – Broken Authentication",
   "desc": "Broken Authentication, the second most critical vulnerability as per OWASP Top10 list allows attackers to gain control over user accounts in a system.",
-  "link": "/explore/articles/code-maze.com/owasp-broken-authentication.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/owasp-broken-authentication.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -211,7 +211,7 @@ head:
 {
   "title": "‘팬시 베어, 김수키, 딥 판다…’ 해킹 그룹명의 비밀 | 요즘IT",
   "desc": "‘팬시 베어, 김수키, 딥 판다…’ 해킹 그룹명의 비밀",
-  "link": "/explore/articles/yozm.wishket.com/2065.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2065.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -221,7 +221,7 @@ head:
 {
   "title": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자 | 요즘IT",
   "desc": "신원확인, 통합인증관리 오픈소스 '키클락'을 알아보자",
-  "link": "/explore/articles/yozm.wishket.com/2425.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2425.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -231,7 +231,7 @@ head:
 {
   "title": "앱 개발자를 위협하는 10가지 보안 위험과 대응 방법 | 요즘IT",
   "desc": "앱 개발자를 위협하는 10가지 보안 위험과 대응 방법",
-  "link": "/explore/articles/yozm.wishket.com/2503.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2503.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -241,7 +241,7 @@ head:
 {
   "title": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안 | 요즘IT",
   "desc": "‘XZ Utils 백도어 사태’로 살펴보는 공급망 보안",
-  "link": "/explore/articles/yozm.wishket.com/2597.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2597.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -251,7 +251,7 @@ head:
 {
   "title": "LLM을 위협으로부터 지키는 6가지 방법 | 요즘IT",
   "desc": "LLM을 위협으로부터 지키는 6가지 방법",
-  "link": "/explore/articles/yozm.wishket.com/2610.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2610.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -261,7 +261,7 @@ head:
 {
   "title": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’ | 요즘IT",
   "desc": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’",
-  "link": "/explore/articles/yozm.wishket.com/2692.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2692.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -279,7 +279,7 @@ head:
 {
   "title": "보이스피싱 애플리케이션 분석 1부 | NHN Cloud Meetup",
   "desc": "보이스피싱 애플리케이션 분석 1부",
-  "link": "/explore/articles/meetup.nhncloud.com/381.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/381.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -297,8 +297,8 @@ head:
 {
   "title": "AMIGO - 행위 기반 악성코드 탐지 | NAVER D2",
   "desc": "AMIGO - 행위 기반 악성코드 탐지",
-  "link": "/explore/articles/d2.naver.com/994.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/994.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

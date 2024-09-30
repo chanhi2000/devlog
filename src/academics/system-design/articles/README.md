@@ -85,8 +85,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico"
+  preview="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -127,7 +127,7 @@ head:
 {
   "title": "How to Build an MVP for Your Project – and Why You Should Do It",
   "desc": "Proof of concept, prototypes, wireframes, mockups… what actually constitutes a Minimum Viable Product (MVP)? Well, it's a product with just enough features to gather comprehensive qualitative feedback. In practice, it's as easy to understand the concept of an MVP as it is to ride a bicycle. Let's do it then...",
-  "link": "/explore/articles/freecodecamp.org/minimum-viable-product-between-an-idea-and-the-product.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/minimum-viable-product-between-an-idea-and-the-product.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -137,7 +137,7 @@ head:
 {
   "title": "How to Use Viewing Patterns in Your Website Designs",
   "desc": "While going through a website or an application, people tend to take in the information displayed differently. You may notice that sometimes a person may miss information that others wouldn't miss. This may have happened to you before, as well. This is because everyone has a particular way they process...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-viewing-patterns-in-your-website-design.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-viewing-patterns-in-your-website-design.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -147,7 +147,7 @@ head:
 {
   "title": "How Auto Scaling and Load Balancing Work in Software Architecture",
   "desc": "While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load...",
-  "link": "/explore/articles/freecodecamp.org/auto-scaling-and-load-balancing.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/auto-scaling-and-load-balancing.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -157,7 +157,7 @@ head:
 {
   "title": "What is Accessibility in Web Development? Best Practices for Web Accessibility",
   "desc": "Everyone should be able to use technology, regardless of their abilities or disabilities. An accessible website or platform attracts a broader audience and has a high chance of achieving user retention. This article will discuss the importance of accessibility, best practices for accessibility in frontend web development, and their implementations...",
-  "link": "/explore/articles/freecodecamp.org/best-practices-for-accessibility-in-web-development.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/best-practices-for-accessibility-in-web-development.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -167,7 +167,7 @@ head:
 {
   "title": "How to Use Breakpoints for Responsive Web Design",
   "desc": "Breakpoints are fundamental to the concept of responsive web design. They enable websites to adapt seamlessly across different devices and screen sizes.  Breakpoints mark the points at which a website's layout and content should change to ensure optimal user experience on devices ranging from smartphones and tablets to desktop...",
-  "link": "/explore/articles/freecodecamp.org/breakpoints-for-responsive-web-design.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/breakpoints-for-responsive-web-design.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -177,7 +177,7 @@ head:
 {
   "title": "Learn System Design Principles and Prepare for an Job Interview",
   "desc": "Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...",
-  "link": "/explore/articles/freecodecamp.org/learn-system-design-principles.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-system-design-principles.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -187,7 +187,7 @@ head:
 {
   "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
   "desc": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
-  "link": "/explore/articles/freecodecamp.org/what-is-a-component-library-when-to-build-your-own.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-a-component-library-when-to-build-your-own.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -197,7 +197,7 @@ head:
 {
   "title": "How to Effectively Manage Unique Identifiers at Scale: From GUIDs to Snowflake IDs and Other Modern Solutions",
   "desc": "What Are Unique Identifiers? 🪪 Unique identifiers (UIDs) are crucial components in software engineering and data management. They serve as distinct references for entities within a system and ensure that each item – whether a database record, a user...",
-  "link": "/explore/articles/freecodecamp.org/how-to-effectively-manage-unique-identifiers-at-scale.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-effectively-manage-unique-identifiers-at-scale.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -207,7 +207,7 @@ head:
 {
   "title": "How to Create Software Architecture Diagrams Using the C4 Model",
   "desc": "As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...",
-  "link": "/explore/articles/freecodecamp.org/how-to-create-software-architecture-diagrams-using-the-c4-mode.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-software-architecture-diagrams-using-the-c4-mode.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -217,7 +217,7 @@ head:
 {
   "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
   "desc": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
-  "link": "/explore/articles/freecodecamp.org/design-first-vs-logic-first-approach.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/design-first-vs-logic-first-approach.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -235,7 +235,7 @@ head:
 {
   "title": "How To Run UX Research Without Access To Users",
   "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
-  "link": "/explore/articles/smashingmagazine.com/how-run-ux-research-without-access-users.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/how-run-ux-research-without-access-users.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -245,7 +245,7 @@ head:
 {
   "title": "Why Designers Aren’t Understood",
   "desc": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
-  "link": "/explore/articles/smashingmagazine.com/designers-business-ux-language.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/designers-business-ux-language.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -255,7 +255,7 @@ head:
 {
   "title": "Building A User Segmentation Matrix To Foster Cross-Org Alignment",
   "desc": "Many organizations prioritize internal structures and services over customer-centricity, hindering effective decision-making. Through a case study, Talke Hoppmann-Walton advocates for a shift towards an outside-in perspective and proposes the use of a user segmentation matrix to foster alignment across departments and prioritize customer needs.",
-  "link": "/explore/articles/smashingmagazine.com/building-user-segmentation-matrix-foster-cross-org-alignment.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/building-user-segmentation-matrix-foster-cross-org-alignment.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -265,7 +265,7 @@ head:
 {
   "title": "Hidden vs. Disabled In UX",
   "desc": "Should you hide or disable a feature? You’ve probably been there before. Here are some considerations for hiding versus disabling, along with possible alternatives to improve UX. An upcoming part of Smart Interface Design Patterns.",
-  "link": "/explore/articles/smashingmagazine.com/hidden-vs-disabled-ux.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/hidden-vs-disabled-ux.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -275,7 +275,7 @@ head:
 {
   "title": "Best Practices For Naming Design Tokens, Components And Variables",
   "desc": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
-  "link": "/explore/articles/smashingmagazine.com/naming-best-practices.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/naming-best-practices.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -285,7 +285,7 @@ head:
 {
   "title": "Scaling Success: Key Insights And Practical Takeaways",
   "desc": "The web is still a young platform, and we’re only now beginning to recognize what 'success' looks like for large projects. In his recent Smashing book, Success at Scale, Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.",
-  "link": "/explore/articles/smashingmagazine.com/scaling-success-key-insights-pratical-takeaways.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/scaling-success-key-insights-pratical-takeaways.html",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -303,7 +303,7 @@ head:
 {
   "title": "How To Approach Clean Architecture Folder Structure",
   "desc": "Clean Architecture is a popular approach to structuring your .NET application. It's a layered architecture and splits into four layers: Domain, Application, Infrastructure, and Presentation. Each of the layers is typically one project in your solution. How do we create this in our .NET solutions?",
-  "link": "/explore/articles/milanjovanovic.tech/clean-architecture-folder-structure.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/clean-architecture-folder-structure.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -313,7 +313,7 @@ head:
 {
   "title": "Visualize Your Software Architecture With The C4 Model",
   "desc": "Software architecture diagrams are a great way to communicate how you are planning to build a software system or how an existing software system works. However, the majority of software architecture diagrams I've seen are a total mess. If only there was a standard way to visualize your software architecture... Enter the C4 model, which stands for context, containers, components, and code. The C4 model is a lightweight approach to describing your software architecture.",
-  "link": "/explore/articles/milanjovanovic.tech/visualize-your-software-architecture-with-the-c4-model.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/visualize-your-software-architecture-with-the-c4-model.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -323,7 +323,7 @@ head:
 {
   "title": "Why Clean Architecture Is Great For Complex Projects",
   "desc": "I've been using Clean Architecture for 6+ years on large scale applications serving thousands of customers and millions of requests. Today I want to talk about why it's a great approach for structuring your applications. I'm aware that Clean Architecture isn't a silver bullet, so I will discuss what types of systems can benefit from this architecture. Clean architecture isn't revolutionary. But it's prescriptive about how you should structure the code. It's an evolution of the layered architecture, focusing on the core domain and the direction of dependencies. All dependencies should point inwards, applying dependency inversion.",
-  "link": "/explore/articles/milanjovanovic.tech/why-clean-architecture-is-great-for-complex-projects.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/why-clean-architecture-is-great-for-complex-projects.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -333,7 +333,7 @@ head:
 {
   "title": "Modular Monolith Communication Patterns",
   "desc": "Modular monoliths are becoming more popular in the software engineering community. The allure of Microservices is becoming less compelling. We also have seasoned veterans of our industry saying you should reconsider: > You shouldn't start a new project with microservices, even if you're sure your application will be big enough to make it worthwhile. — Martin Fowler Modular monoliths give you the logical architecture of Microservices without the operational complexity. You can safely determine the boundaries between modules. And refactoring is straightforward and less risky. They can also be easily migrated into Microservices if you decide to do so. I've built and maintained several Modular monolith systems in the past years.",
-  "link": "/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/modular-monolith-communication-patterns.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -343,7 +343,7 @@ head:
 {
   "title": "Orchestration vs Choreography",
   "desc": "More than 63%+ of organizations said in a Dzone survey that they are adopting Microservices for some or all of their applications. As more businesses adopt the use of Microservice architectures, we as developers have to become more skilled with Microservices communication. Working with distributed systems is both fun and challenging at the same time. One of those challenges is designing effective communication between services. More centralization or less centralization? More coupling or less coupling? More control or less control? These are only a few questions you need to answer.",
-  "link": "/explore/articles/milanjovanovic.tech/orchestration-vs-choreography.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/orchestration-vs-choreography.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -353,7 +353,7 @@ head:
 {
   "title": "What Is a Modular Monolith?",
   "desc": "Modular monoliths blend the simplicity and robustness of traditional monolithic applications with the flexibility and scalability of microservices. Today, I'll introduce you to the modular monolith architecture and why you should know about it.",
-  "link": "/explore/articles/milanjovanovic.tech/what-is-a-modular-monolith.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/what-is-a-modular-monolith.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -363,7 +363,7 @@ head:
 {
   "title": "Screaming Architecture",
   "desc": "If you were to glance at the folder structure of your system, could you tell what the system is about? Your architecture should communicate what problems it solves. This approach is called sreaming architecture.",
-  "link": "/explore/articles/milanjovanovic.tech/-architecture.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/-architecture.html",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -381,7 +381,7 @@ head:
 {
   "title": "Software Architecture Diagrams with C4 Model",
   "desc": "Diagrams should be effortless to create and update, ensuring everyone has access to the latest information.",
-  "link": "/explore/articles/packagemain.tech/identifying-container-image-vulnerabilities.md",
+  "link": "https://chanhi2000.github.io/bookshelf/packagemain.tech/identifying-container-image-vulnerabilities.html",
   "logo": "https://substack-post-media.s3.amazonaws.com/public/images/2ea54e25-eaa6-4630-bfc0-10b8cfdce894/apple-touch-icon-1024x1024.png",
   "background": "rgba(202,177,187,0,2)"
 }
@@ -399,7 +399,7 @@ head:
 {
   "title": "개발자가 테스트를 보는 세 가지 관점 | 요즘IT",
   "desc": "개발자가 테스트를 보는 세 가지 관점",
-  "link": "/explore/articles/yozm.wishket.com/2068.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2068.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -409,7 +409,7 @@ head:
 {
   "title": "IP 주소의 역사와 서브넷 마스크의 탄생 | 요즘IT",
   "desc": "IP 주소의 역사와 서브넷 마스크의 탄생",
-  "link": "/explore/articles/yozm.wishket.com/2108.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2108.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -419,7 +419,7 @@ head:
 {
   "title": "개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은? | 요즘IT",
   "desc": "개발자에게 편리함을 주는 ‘GraphQL’ 도입 시 주의할 점은?",
-  "link": "/explore/articles/yozm.wishket.com/2113.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2113.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -429,7 +429,7 @@ head:
 {
   "title": "개발자가 알아야 할 데이터 지향 설계란? | 요즘IT",
   "desc": "개발자가 알아야 할 데이터 지향 설계란?",
-  "link": "/explore/articles/yozm.wishket.com/2157.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2157.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -439,7 +439,7 @@ head:
 {
   "title": "좋은 객체 ID(Object ID) 만들기 | 요즘IT",
   "desc": "좋은 객체 ID(Object ID) 만들기",
-  "link": "/explore/articles/yozm.wishket.com/2161.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2161.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -449,7 +449,7 @@ head:
 {
   "title": "진짜 서버리스 vs 가짜 서버리스 | 요즘IT",
   "desc": "진짜 서버리스 vs 가짜 서버리스",
-  "link": "/explore/articles/yozm.wishket.com/2168.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2168.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -459,7 +459,7 @@ head:
 {
   "title": "쿠버네티스(Kubernetes) 네트워크 정리 | 요즘IT",
   "desc": "쿠버네티스(Kubernetes) 네트워크 정리",
-  "link": "/explore/articles/yozm.wishket.com/2251.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2251.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -469,7 +469,7 @@ head:
 {
   "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
   "desc": "스프링 부트 서버 모니터링하는 법",
-  "link": "/explore/articles/yozm.wishket.com/2280.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2280.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -479,7 +479,7 @@ head:
 {
   "title": "마이크로서비스를 위한 쿠팡의 QA 테스트 | 요즘IT",
   "desc": "마이크로서비스를 위한 쿠팡의 QA 테스트",
-  "link": "/explore/articles/yozm.wishket.com/2282.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2282.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -489,7 +489,7 @@ head:
 {
   "title": "소프트웨어 ‘설계’의 정의는 변해야 한다 | 요즘IT",
   "desc": "소프트웨어 ‘설계’의 정의는 변해야 한다",
-  "link": "/explore/articles/yozm.wishket.com/2307.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2307.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -499,7 +499,7 @@ head:
 {
   "title": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까? | 요즘IT",
   "desc": "쿠팡이츠는 왜 인하우스 지도 서비스를 만들었을까?",
-  "link": "/explore/articles/yozm.wishket.com/2320.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2320.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -509,7 +509,7 @@ head:
 {
   "title": "프론트엔드 개발자가 API를 설계하는 이유 | 요즘IT",
   "desc": "프론트엔드 개발자가 API를 설계하는 이유",
-  "link": "/explore/articles/yozm.wishket.com/2325.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2325.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -519,7 +519,7 @@ head:
 {
   "title": "SSR 시작하기 전 알아야 할 것들 (feat. CSR) | 요즘IT",
   "desc": "SSR 시작하기 전 알아야 할 것들 (feat. CSR)",
-  "link": "/explore/articles/yozm.wishket.com/2330.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2330.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -529,7 +529,7 @@ head:
 {
   "title": "프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리 | 요즘IT",
   "desc": "프론트엔드 개발자가 알아야 할 ‘캐싱’ 개념 정리",
-  "link": "/explore/articles/yozm.wishket.com/2341.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2341.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -539,7 +539,7 @@ head:
 {
   "title": "개발자! 코드 경직성을 깨버려라 | 요즘IT",
   "desc": "개발자! 코드 경직성을 깨버려라",
-  "link": "/explore/articles/yozm.wishket.com/2343.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2343.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -549,7 +549,7 @@ head:
 {
   "title": "경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’ | 요즘IT",
   "desc": "경쟁력 있는 개발자를 위한 ‘클라우드 디자인 패턴’",
-  "link": "/explore/articles/yozm.wishket.com/2713.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2713.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -559,7 +559,7 @@ head:
 {
   "title": "쇼핑몰도 ‘맞춤 개발’ 하는 이유 | 요즘IT",
   "desc": "쇼핑몰도 ‘맞춤 개발’ 하는 이유",
-  "link": "/explore/articles/yozm.wishket.com/2734.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2734.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -569,7 +569,7 @@ head:
 {
   "title": "개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법 | 요즘IT",
   "desc": "개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법",
-  "link": "/explore/articles/yozm.wishket.com/2743.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2743.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -605,8 +605,8 @@ head:
 {
   "title": "uMon의 이해 | NAVER D2",
   "desc": "uMon의 이해",
-  "link": "/explore/articles/d2.naver.com/1062.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1062.html",
+  "logo": "https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.html",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -615,8 +615,8 @@ head:
 {
   "title": "UX 원칙에 따른 NELO 4.0 개발기 | NAVER D2",
   "desc": "UX 원칙에 따른 NELO 4.0 개발기",
-  "link": "/explore/articles/d2.naver.com/2461452.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/2461452.html",
+  "logo": "https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.html",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -633,7 +633,7 @@ head:
 {
   "title": "올리브영 POS 서버 Modernization | 올리브영 테크블로그",
   "desc": "올리브영 POS 서버 Modernization",
-  "link": "/explore/articles/oliveyoung.tech/pos-modernization.md",
+  "link": "https://chanhi2000.github.io/bookshelf/oliveyoung.tech/pos-modernization.html",
   "logo": "https://oliveyoung.tech/favicon-32x32.png?v=a4b11f19c0d38aff2ebd465d8801cd2d",
   "background": "rgba(173,209,81,0.2)"
 }
@@ -651,7 +651,7 @@ head:
 {
   "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그",
   "desc": "보완재 추천 모델을 적용하고 성과를 거둔 사례 소개",
-  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development.md",
+  "link": "https://chanhi2000.github.io/bookshelf/helloworld.kurly.com/cart-recommend-model-development.html",
   "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
   "background": "rgba(104,14,135,0.2)"
 }
@@ -661,7 +661,7 @@ head:
 {
   "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 2부 - 컬리 기술 블로그",
   "desc": "보완재 추천 모델을 서빙하기 위한 아키텍처 소개",
-  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development-second.md",
+  "link": "https://chanhi2000.github.io/bookshelf/helloworld.kurly.com/cart-recommend-model-development-second.html",
   "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
   "background": "rgba(104,14,135,0.2)"
 }
@@ -679,7 +679,7 @@ head:
 {
   "title": "동일한 비용으로 리포트 요청 10배 처리하기",
   "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
-  "link": "/explore/articles/engineering.ab180.co/improve-performance-airbridge-report-worker.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.ab180.co/improve-performance-airbridge-report-worker.html",
   "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
   "background": "rgba(11,110,153,0.2)"
 }

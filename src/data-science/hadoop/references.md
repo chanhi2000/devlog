@@ -18,7 +18,7 @@ tag:
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [실시간 광고 사용자 ID 매핑](https://d2.naver.com/helloworld/7989422) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7989422.md) -->
+- [실시간 광고 사용자 ID 매핑](https://d2.naver.com/helloworld/7989422) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/7989422.md) -->
 
 <!-- END: d2.naver.com -->
 

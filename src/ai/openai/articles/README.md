@@ -72,7 +72,7 @@ head:
 {
   "title": "Learn to Use the Gemini AI MultiModal Model",
   "desc": "Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-gpt-to-analyze-large-datasets.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-gpt-to-analyze-large-datasets.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -82,7 +82,7 @@ head:
 {
   "title": "Master Multimodal Data Analysis with LLMs and Python",
   "desc": "Large Language Models (LLMs) can be super helpful for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will teach ...",
-  "link": "/explore/articles/freecodecamp.org/master-multimodal-data-analysis-with-llms-and-python.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/master-multimodal-data-analysis-with-llms-and-python.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -100,7 +100,7 @@ head:
 {
   "title": "Developing Multi-Modal Bots with Django, GPT-4, Whisper, and DALL-E | DigitalOcean",
   "desc": "Technical tutorials, Q&A, events — This is an inclusive place where developers can find or lend support and discover new ways to contribute to the community…",
-  "link": "/explore/articles/digitalocean.com/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e.md",
+  "link": "https://chanhi2000.github.io/bookshelf/digitalocean.com/developing-multi-modal-bots-with-django-gpt-4-whisper-and-dall-e.md",
   "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
   "background": "rgba(29,55,209,0.2)"
 }
@@ -116,7 +116,7 @@ head:
 {
   "title": "‘GPT-5’를 기다리며: GPT 발전 역사 돌아보기 | 요즘IT",
   "desc": "‘GPT-5’를 기다리며: GPT 발전 역사 돌아보기",
-  "link": "/explore/articles/yozm.wishket.com/2619.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2619.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -126,7 +126,7 @@ head:
 {
   "title": "눈과 귀가 달린 LLM, 멀티모달 AI | 요즘IT",
   "desc": "눈과 귀가 달린 LLM, 멀티모달 AI",
-  "link": "/explore/articles/yozm.wishket.com/2641.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2641.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

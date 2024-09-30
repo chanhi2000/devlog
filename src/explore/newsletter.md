@@ -870,8 +870,8 @@ https://paperlined.org/
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 <SiteInfo
   name="Milan Jovanović | Helping You Become a Better .NET Engineer"
@@ -884,7 +884,7 @@ https://paperlined.org/
   name="Event-Driven by Oskar Dudycz"
   desc="Event-Driven by Oskar Dudycz"
   url="https://event-driven.io/en/"
-  logo="/images/content/event-driven.io/favicon.jfif"
+  logo="event-driven.io/favicon.jfif"
   preview="https://event-driven.io/preview.jpg"/>
 
 <SiteInfo
@@ -905,8 +905,8 @@ https://paperlined.org/
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
   desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
   url="https://blog.logrocket.com/dev"
-  logo="/images/content/blog.logrocket.com/favicon.png"
-  preview="/images/content/blog.logrocket.com/banner.png"/>
+  logo="blog.logrocket.com/favicon.png"
+  preview="blog.logrocket.com/banner.png"/>
 
 ```component VPCard
 {
@@ -1263,8 +1263,8 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 <SiteInfo
   name="강남언니 공식 블로그"
@@ -1325,8 +1325,8 @@ https://devblogs.microsoft.com/engineering-at-microsoft/
   name="TOAST UI :: Make Your Web Delicious!"
   desc="TOAST UI is an open-source JavaScript UI library maintained by NHN Cloud."
   url="https://ui.toast.com/"
-  logo="/images/content/ui.toast.com/favicon.ico"
-  preview="/images/content/ui.toast.com/banner.png"/>
+  logo="ui.toast.com/favicon.ico"
+  preview="ui.toast.com/banner.png"/>
 
 <SiteInfo
   name="타다 TECH BLOG"

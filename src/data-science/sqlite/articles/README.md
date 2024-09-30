@@ -59,7 +59,7 @@ head:
 {
   "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
   "desc": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
-  "link": "/explore/articles/freecodecamp.org/how-to-work-with-sql-databases-in-go.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-work-with-sql-databases-in-go.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -77,7 +77,7 @@ head:
 {
   "title": "SQLite With Swift Tutorial: Getting Started",
   "desc": "In this SQLite with Swift tutorial, you’ll learn to use a SQLite database with Swift projects by creating tables and inserting, updating and deleting rows.",
-  "link": "/explore/articles/kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started.md", 
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/6620276-sqlite-with-swift-tutorial-getting-started.md", 
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -93,7 +93,7 @@ head:
 {
   "title": "How To Use SQLite with Node.js on Ubuntu 22.04 | DigitalOcean",
   "desc": "In this tutorial, readers will use node-sqlite3 to create a connection with an SQLite database. Next, they’ll create a Node.js app that creates a table and i… ",
-  "link": "/explore/articles/digitalocean.com/how-to-use-sqlite-with-node-js-on-ubuntu-22-04.md",
+  "link": "https://chanhi2000.github.io/bookshelf/digitalocean.com/how-to-use-sqlite-with-node-js-on-ubuntu-22-04.md",
   "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
   "background": "rgba(29,55,209,0.2)"
 }

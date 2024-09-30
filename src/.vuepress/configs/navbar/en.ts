@@ -735,10 +735,6 @@ export const navbarEn = navbar([
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',
         link: '/explore/youtube/README.md',
-      }, {
-        text: 'Article(s)',
-        icon: 'fas fa-square-share-nodes',
-        link: '/explore/articles/README.md',
       }
     ]
   }, { /* https://chanhi2000.github.io/crashcourse */

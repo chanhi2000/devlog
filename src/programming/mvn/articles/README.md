@@ -47,7 +47,7 @@ head:
 {
   "title": "쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만나면? | 요즘IT",
   "desc": "쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만나면?",
-  "link": "/explore/articles/yozm.wishket.com/2350.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2350.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

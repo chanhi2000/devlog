@@ -56,7 +56,7 @@ head:
 {
   "title": "Mastering VIM: Your Guide to Efficient Text Editing",
   "desc": "VIM is a highly configurable text editor that enables efficient text editing, and it's favored by many developers and system administrators for its powerful capabilities and extensive customization options. We just posted a course on the freeCodeCamp...",
-  "link": "/explore/articles/freecodecamp.org/mastering-vim-your-guide-to-efficient-text-editing.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/mastering-vim-your-guide-to-efficient-text-editing.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -74,7 +74,7 @@ head:
 {
   "title": "Vimtutor를 이용해 Vim 명령어를 배워보자 | 요즘IT",
   "desc": "Vimtutor를 이용해 Vim 명령어를 배워보자",
-  "link": "/explore/articles/yozm.wishket.com/2238.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2238.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

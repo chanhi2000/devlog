@@ -33,8 +33,8 @@ head:
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 [[toc]]
 
@@ -48,8 +48,8 @@ head:
 {
   "title": "Basic Tips and Tricks to Boost Productivity in Visual Studio",
   "desc": "In this article we are going to learn about Visual Studio productivity features which can speed up our development a lot.",
-  "link": "/explore/articles/code-maze.com/visual-studio-productivity.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/visual-studio-productivity.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -58,8 +58,8 @@ head:
 {
   "title": "Publishing an ASP.NET Core App to Azure App Service Using Visual Studio",
   "desc": "In this article, we'll see how to publish an ASP.NET web application to an Azure App Service using Visual Studio.",
-  "link": "/explore/articles/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/publishing-an-asp-net-core-app-to-azure-app-service-using-visual-studio.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```

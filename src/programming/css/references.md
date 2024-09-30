@@ -129,19 +129,19 @@ tag:
 
 ## TOAST UI :: Make Your Web Delicious!
 
-- [CSS 변수 합성의 강력함](https://ui.toast.com/weekly-pick/ko_20210402) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210402.md) -->
+- [CSS 변수 합성의 강력함](https://ui.toast.com/weekly-pick/ko_20210402) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20210402.md) -->
 
 ---
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) <!-- TODO: 작성 (/explore/articles/d2.naver.com/4969726.md) -->
+- [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/4969726.md) -->
 
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [`flexbox`로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8540176.md) -->
+- [`flexbox`로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/8540176.md) -->
 
 ---
 
@@ -175,8 +175,8 @@ tag:
 - [InfiInfinite-Scrolling Logos In Flat HTML And Pure CSS](https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/)
 - [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://smashingmagazine.com/2023/07/writing-css-2023)
 - [Sliding 3D Image Frames In CSS](https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/)
-- [The Modern Guide For Making CSS Shapes](https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/modern-guide-making-css-shapes.md) -->
-- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/times-need-custom-property-instead-css-variable.md) -->
+- [The Modern Guide For Making CSS Shapes](https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/smashingmagazine.com/modern-guide-making-css-shapes.md) -->
+- [The Times You Need A Custom `@property` Instead Of A CSS Variable](https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/smashingmagazine.com/times-need-custom-property-instead-css-variable.md) -->
 
 ---
 
@@ -258,8 +258,8 @@ tag:
 {
   "title": "Understanding the CSS revert-layer keyword",
   "desc": "A typewriter CSS animation is easier to achieve than you may think. Let's explore how and why to create a typewriter animation with only CSS.",
-  "link": "/explore/articles/blog.logrocket.com/creating-typewriter-animation-css.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/creating-typewriter-animation-css.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```
@@ -268,8 +268,8 @@ tag:
 {
   "title": "Understanding the CSS revert-layer keyword",
   "desc": "In this article, we’ll explore CSS cascade layers — and, specifically, the revert-layer keyword — to help you refine your styling strategy.",
-  "link": "/explore/articles/blog.logrocket.com/understanding-css-revert.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/understanding-css-revert.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```

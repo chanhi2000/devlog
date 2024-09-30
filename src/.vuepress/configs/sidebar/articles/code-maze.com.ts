@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: "code-maze.com",
-  faviconPath: "/images/content/code-maze.com/favicon.png",
+  faviconPath: "https://chanhi2000.github.io/bookshelf/assets/image/code-maze.com/favicon.png",
   linksMap: new Map([
     [
     "java-elasticsearch", [

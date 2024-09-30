@@ -74,7 +74,7 @@ head:
 
 ## Toss Tech
 
-- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024) <!-- TODO: 작성 (/explore/articles/toss.tech/react-native-2024.md) -->
+- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/toss.tech/react-native-2024.md) -->
 
 ---
 
@@ -116,7 +116,7 @@ head:
 {
   "title": "The Forensics Of React Server Components (RSCs)",
   "desc": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
-  "link": "/explore/articles/smashingmagazine.com/forensics-react-server-components.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/forensics-react-server-components.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }
@@ -126,7 +126,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2838729.md) -->
+- [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/2838729.md) -->
 
 ---
 
@@ -267,7 +267,7 @@ head:
 
 ## DigitalOcean
 
-- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
 ---
 
@@ -302,7 +302,7 @@ head:
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
 - [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들](https://tech.kakao.com/posts/413)
-<!-- TODO: 작성 (/explore/articles/tech.kakao.com/413.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/413.md) -->
 
 ---
 
@@ -486,9 +486,9 @@ head:
 
 ## Sitepoint
 
-- [React Performance Optimization](https://sitepoint.com/react-performance-optimization/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/react-performance-optimization.md) -->
-- [Building Interactive Data Visualizations with D3.js and React](https://sitepoint.com/d3-js-react-interactive-data-visualizations/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/d3-js-react-interactive-data-visualizations.md) -->
-- [Creating a Navbar in React](https://sitepoint.com/creating-a-navbar-in-react) <!-- TODO: 작성 (/explore/articles/sitepoint.com/creating-a-navbar-in-react.md) -->
+- [React Performance Optimization](https://sitepoint.com/react-performance-optimization/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/react-performance-optimization.md) -->
+- [Building Interactive Data Visualizations with D3.js and React](https://sitepoint.com/d3-js-react-interactive-data-visualizations/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/d3-js-react-interactive-data-visualizations.md) -->
+- [Creating a Navbar in React](https://sitepoint.com/creating-a-navbar-in-react) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/creating-a-navbar-in-react.md) -->
 
 ---
 

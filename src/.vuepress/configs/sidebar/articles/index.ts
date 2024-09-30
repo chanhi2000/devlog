@@ -49,9 +49,9 @@ import { template as TEMPLATE_ZUMINTERNET } from './zuminternet.github.io';
 import { template as TEMPLATE_IMQA } from './blog.imqa.io';
 import { template as TEMPLATE_AB180 } from './engineering.ab180.co';
 
-const EXT_MD = "md";
+const EXT_MD = "html";
 const DEFAULT_KEY_ALL = "all";
-const PATH_BASE_ARTICLES = "/explore/articles"
+const PATH_BASE_ARTICLES = "https://chanhi2000.github.io/bookshelf"
 
 export type SidebarInfoTemplate = {
   name: string,

@@ -180,7 +180,7 @@ Placeholders with the same ids are connected.
   "MdTdDoArticles": {
     "prefix": "mtda",
     "body": [
-      "<!-- TODO: 작성 (/explore/articles/${1:domain}/${2:link}.md) -->${0}"
+      "<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/${1:domain}/${2:link}.md) -->${0}"
     ],
     "description": "Create TODO Tag for writing articles"
   },

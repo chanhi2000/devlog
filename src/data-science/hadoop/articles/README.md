@@ -26,8 +26,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -41,8 +41,8 @@ head:
 {
   "title": "Hadoop과 MongoDB를 이용한 로그분석시스템 | NAVER D2",
   "desc": "Hadoop과 MongoDB를 이용한 로그분석시스템",
-  "link": "/explore/articles/d2.naver.com/1016.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1016.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -51,8 +51,8 @@ head:
 {
   "title": "HDFS 쓰기 파이프라인을 활용한 HBase의 WAL 쓰기 최적화 | NAVER D2",
   "desc": "HDFS 쓰기 파이프라인을 활용한 HBase의 WAL 쓰기 최적화",
-  "link": "/explore/articles/d2.naver.com/6445508.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/6445508.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

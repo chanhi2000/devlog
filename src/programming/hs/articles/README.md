@@ -42,7 +42,7 @@ head:
 {
   "title": "How to Use Pandoc – An Open Source Tool for Technical Writers",
   "desc": "Technical writers frequently navigate the complexities of various document formats and revisions. Pandoc, a free and open-source tool, offers a powerful solution to streamline these processes. In this tutorial, I'll explain the Pandoc's functionalities, specifically focusing on two key areas that can significantly enhance the workflow for technical writers...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-pandoc.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-pandoc.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

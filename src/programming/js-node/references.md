@@ -112,8 +112,8 @@ tag:
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368) <!-- TODO: 작성 (/explore/articles/d2.naver.com/5644368.md) -->
-- [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859) <!-- TODO: 작성 (/explore/articles/d2.naver.com/2351859.md) -->
+- [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/5644368.md) -->
+- [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/2351859.md) -->
 
 ---
 
@@ -125,19 +125,19 @@ tag:
 
 ## Toast UI
 
-- [ECMAScript 2020의 새로운 점](https://ui.toast.com/posts/ko_20200409) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20200409.md) -->
+- [ECMAScript 2020의 새로운 점](https://ui.toast.com/posts/ko_20200409) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20200409.md) -->
 - [ECMAScript 명세 이해, 1부](https://ui.toast.com/posts/ko_20221116_1)
 - [ECMAScript 명세 이해, 2부](https://ui.toast.com/posts/ko_20221116_2)
 - [ECMAScript 명세 이해, 3부](https://ui.toast.com/posts/ko_20221116_3)
 - [ECMAScript 명세 이해, 4부](https://ui.toast.com/posts/ko_20221116_4)
-- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/posts/ko_20200804) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20200804.md) -->
-- [Async Cookie Store API 살펴보기](https://ui.toast.com/posts/ko_20201027) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20201027.md) -->
+- [Vue 3로 마이그레이션하기 위해 준비해야 할 것](https://ui.toast.com/posts/ko_20200804) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20200804.md) -->
+- [Async Cookie Store API 살펴보기](https://ui.toast.com/posts/ko_20201027) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20201027.md) -->
 
 ---
 
 ## 토스 기술 블로그, 토스 테크
 
-- [여러 프레임워크에서 사용할 수 있는 라이브러리 만들기](https://toss.tech/article/framework-agnostic-library) <!-- TODO: 작성 (/explore/articles/toss.tech/framework-agnostic-library.md) -->
+- [여러 프레임워크에서 사용할 수 있는 라이브러리 만들기](https://toss.tech/article/framework-agnostic-library) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/toss.tech/framework-agnostic-library.md) -->
 
 ---
 
@@ -149,19 +149,19 @@ tag:
 
 ### 카카오엔터테인먼트 FE 기술블로그
 
-- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230420-beyond-solving-problem-part-1.md) -->
-- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230421-beyond-solving-problem-part-2.md) -->
-- [나만의 Jest Matchers 만들기](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230216-custom-jest-matchers.md) -->
-- [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test)](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230223-backstopjs-vrt.md) -->
-- [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230330-frontend-solid.md) -->
-- [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/230403-view-transitions-api.md) -->
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 1](https://fe-developers.kakaoent.com/2023/230420-beyond-solving-problem-part-1) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230420-beyond-solving-problem-part-1.md) -->
+- [문제 해결을 넘어 - 문제의 근본적인 원인 찾아가기 Part 2](https://fe-developers.kakaoent.com/2023/230421-beyond-solving-problem-part-2) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230421-beyond-solving-problem-part-2.md) -->
+- [나만의 Jest Matchers 만들기](https://fe-developers.kakaoent.com/2023/230216-custom-jest-matchers) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230216-custom-jest-matchers.md) -->
+- [시각적 회귀 테스트 BackstopJS 적용하기 (Visual Regression Test)](https://fe-developers.kakaoent.com/2023/230223-backstopjs-vrt) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230223-backstopjs-vrt.md) -->
+- [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230330-frontend-solid.md) -->
+- [View Transitions API](https://fe-developers.kakaoent.com/2023/230403-view-transitions-api) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/230403-view-transitions-api.md) -->
 
 ---
 
 ## 우아한형제들 기술블로그
 
-- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편](https://techblog.woowahan.com/17404/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17404.md) -->
-- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 2. 실전 편](https://techblog.woowahan.com/17721/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/17221.md) -->
+- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 1. 이론 편](https://techblog.woowahan.com/17404/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/17404.md) -->
+- [코드와 함께 살펴보는 프론트엔드 단위 테스트 – Part 2. 실전 편](https://techblog.woowahan.com/17721/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/17221.md) -->
 
 ---
 
@@ -171,7 +171,7 @@ tag:
 {
   "title": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법 | 요즘IT",
   "desc": "프론트엔드 개발자가 알아야 할 '유닛 테스트' 작성법",
-  "link": "/explore/articles/yozm.wishket.com/2483.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2483.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -188,20 +188,20 @@ tag:
 
 ## Banksalad
 
-- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/build-a-website-with-gatsby.md) -->
-- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/typescript-local-storage.md) -->
+- [React밖에 모르는 당신에게. GatsbyJS한 잔, '채용~'](https://blog.banksalad.com/tech/build-a-website-with-gatsby) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/blog.banksalad.com/build-a-website-with-gatsby.md) -->
+- [Typescript로 Local Storage 안전하게 사용하기](https://blog.banksalad.com/tech/typescript-local-storage) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/blog.banksalad.com/typescript-local-storage.md) -->
 
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [국제화(i18n) 자동화 가이드](https://meetup.nhncloud.com/posts/295) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/295.md) -->
+- [국제화(i18n) 자동화 가이드](https://meetup.nhncloud.com/posts/295) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/295.md) -->
 
 ---
 
 ## SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 
-- [Unit Test Your JavaScript Using Mocha and Chai](https://sitepoint.com/unit-test-javascript-mocha-chai/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/unit-test-javascript-mocha-chai.md) -->
+- [Unit Test Your JavaScript Using Mocha and Chai](https://sitepoint.com/unit-test-javascript-mocha-chai/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/unit-test-javascript-mocha-chai.md) -->
 
 ---
 
@@ -442,7 +442,7 @@ tag:
 
 ## DigitalOcean
 
-- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (/explore/articles/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
+- [Using Bitwise operators in JavaScript](https://digitalocean.com/community/tutorials/using-bitwise-operators-in-javascript) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/digitalocean.com/using-bitwise-operators-in-javascript.md) -->
 
 ---
 
@@ -461,17 +461,17 @@ tag:
 - [How to Use GraphQL](https://freecodecamp.org/news/graphql-database-tutorial)
 - [Cross-Browser Compatibility Testing – Best Practices for Web Developers](https://freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers)
 
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/what-is-hoisting-in-javascript-3.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/upload-files-with-javascript.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/get-started-with-nodejs.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/how-to-write-more-efficient-javascript-conditions.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/chatgpt-react-course.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/build-consume-and-document-a-rest-api.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/react-server-components-for-beginners.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/typescript-tutorial-for-react-developers.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/improve-reactjs-code.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/graphql-database-tutorial.md) -->
-<!-- TODO: 작성 (/explore/articles/freecodecamp.org/cross-browser-compatibility-testing-best-practices-for-web-developers.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-hoisting-in-javascript-3.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/upload-files-with-javascript.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/get-started-with-nodejs.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-write-more-efficient-javascript-conditions.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/chatgpt-react-course.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-consume-and-document-a-rest-api.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/react-server-components-for-beginners.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/typescript-tutorial-for-react-developers.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/improve-reactjs-code.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/graphql-database-tutorial.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/freecodecamp.org/cross-browser-compatibility-testing-best-practices-for-web-developers.md) -->
 
 ---
 
@@ -1081,7 +1081,7 @@ tag:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md)-->
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md)-->
 
 ---
 
@@ -1142,7 +1142,7 @@ tag:
 
 ## Learn. Build. Grow. Together.
 
-- [How to set up a Node server with TypeScript in 2024](https://learnwithjason.dev/blog/modern-node-server-typescript-2024) <!-- TODO: 작성 (/explore/articles/learnwithjason.dev/modern-node-server-typescript-2024.md) -->
+- [How to set up a Node server with TypeScript in 2024](https://learnwithjason.dev/blog/modern-node-server-typescript-2024) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/learnwithjason.dev/modern-node-server-typescript-2024.md) -->
 
 ---
 
@@ -1174,7 +1174,7 @@ tag:
 
 ## 브랜디 랩스(Brandi Labs)
 
-- [IndexedDB 를 활용한 풀필먼트 시스템 고도화](https://labs.brandi.co.kr/2021/04/19/leejm3.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/leejm3.md) -->
+- [IndexedDB 를 활용한 풀필먼트 시스템 고도화](https://labs.brandi.co.kr/2021/04/19/leejm3.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/labs.brandi.co.kr/leejm3.md) -->
 
 ---
 

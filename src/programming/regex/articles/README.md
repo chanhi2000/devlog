@@ -35,7 +35,7 @@ head:
   name="Event-Driven by Oskar Dudycz"
   desc="Event-Driven by Oskar Dudycz"
   url="https://event-driven.io/en/"
-  logo="/images/content/event-driven.io/favicon.jfif"
+  logo="event-driven.io/favicon.jfif"
   preview="https://event-driven.io/preview.jpg"/>
 
 [[toc]]
@@ -50,7 +50,7 @@ head:
 {
   "title": "How to Match Parentheses in JavaScript without Using Regex",
   "desc": "While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...",
-  "link": "/explore/articles/freecodecamp.org/how-to-match-parentheses-in-javascript-without-using-regex.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-match-parentheses-in-javascript-without-using-regex.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -68,8 +68,8 @@ head:
 {
   "title": "Filtering EventStoreDB subscriptions by event types - Event-Driven.io",
   "desc": "Filtering EventStoreDB subscriptions by event types",
-  "link": "/explore/articles/event-driven.io/filtering-eventstoredb-subscriptions-by-event-types.md",
-  "logo": "/images/content/event-driven.io/favicon.jfif",
+  "link": "https://chanhi2000.github.io/bookshelf/event-driven.io/filtering-eventstoredb-subscriptions-by-event-types.md",
+  "logo": "event-driven.io/favicon.jfif",
   "background": "rgba(112,148,37,0.2)"
 }
 ```

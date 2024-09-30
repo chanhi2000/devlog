@@ -29,16 +29,16 @@ tag:
 
 ### G마켓 기술블로그
 
-- [설계란 고민의 연속이다 1편](/explore/articles/dev.gmarket.com/104.md) <!-- TODO: 작성 (/explore/articles/dev.gmarket.com/104.md) -->
+- [설계란 고민의 연속이다 1편](https://chanhi2000.github.io/bookshelf/dev.gmarket.com/104.md) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/dev.gmarket.com/104.md) -->
 
 ### 우아한 기술블로그
 
-- [Java Enum 활용기](https://techblog.woowahan.com/2527)<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2527.md) -->
-- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)<!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
+- [Java Enum 활용기](https://techblog.woowahan.com/2527)<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2527.md) -->
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698)<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2698.md) -->
 
 ### 요즘IT
 
-- [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2018.md) -->
+- [자바 개발자를 위한 컨테이너 이미지 빌드](https://yozm.wishket.com/magazine/detail/2018) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2018.md) -->
 
 ### Baeldung
 
@@ -409,7 +409,7 @@ tag:
 ### InfoQ
 
 - [Java 22 Delivers Foreign Memory & Memory API, Unnamed Variables & Patterns, and Return of JavaOne](https://www.infoq.com/news/2024/03/java22-released/)
-- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java) <!-- TODO: 작성 (/explore/articles/infoq.com/netflix-java.md) -->
+- [How Netflix Really Uses Java](https://www.infoq.com/presentations/netflix-java) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/infoq.com/netflix-java.md) -->
 
 ### 얇고 넓은 개발자
 
@@ -512,7 +512,7 @@ tag:
 
 - [JVM + Container 환경에서 수상한 Memory 사용량 증가 현상 분석하기](https://hyperconnect.github.io/2022/07/19/suspicious-jvm-memory-in-container.html)
 
-<!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/suspicious-jvm-memory-in-container.md) -->
+<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/hyperconnect.github.io/suspicious-jvm-memory-in-container.md) -->
 
 ### Pentest, Reverse, Développement
 
@@ -601,7 +601,7 @@ tag:
 
 ### Popit | 전문 지식 공유를 위한 팀블로그
 
-- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0/) <!-- TODO: 작성 (/explore/articles/popit.kr/reduce-response-time-using-concurrency-in-msa.md) -->
+- [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/reduce-response-time-using-concurrency-in-msa.md) -->
 
 ### Igor's Techno Club
 
@@ -752,7 +752,7 @@ tag:
 
 ### 우아한 기술블로그
 
-- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/7349.md) -->
+- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/7349.md) -->
 
 ### <FontIcon icon="iconfont icon-kakao"/>Kakao
 
@@ -762,7 +762,7 @@ tag:
 
 ### Spoqa 기술 블로그
 
-- [Querydsl에서 Kotlin JDSL 으로](https://spoqa.github.io/2024/05/03/transfer-jdsl.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/transfer-jdsl.md) -->
+- [Querydsl에서 Kotlin JDSL 으로](https://spoqa.github.io/2024/05/03/transfer-jdsl.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/spoqa.github.io/transfer-jdsl.md) -->
 
 ### Thdev
 
@@ -970,10 +970,10 @@ tag:
 
 ### Kt.academy
 
-- [Static Code Analysers](/explore/articles/kt.academy/ak-static-analysis.md)
-- [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions) <!-- TODO: 작성 (/explore/articles/kt.academy/e-shop-functions.md) -->
-- [Item 28: Consider wrapping external APIs](/explore/articles/kt.academy/ek-wrapping-api.md)
-- [Mutable objects or properties?](https://kt.academy/article/var_readonly_vs_val_mutable) <!-- TODO: 작성 (/explore/articles/kt.academy/var-readonly-vs-val-mutable.md) -->
+- [Static Code Analysers](https://chanhi2000.github.io/bookshelf/kt.academy/ak-static-analysis.md)
+- [Exercise: Implement shop functions](https://kt.academy/article/e_shop_functions) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/kt.academy/e-shop-functions.md) -->
+- [Item 28: Consider wrapping external APIs](https://chanhi2000.github.io/bookshelf/kt.academy/ek-wrapping-api.md)
+- [Mutable objects or properties?](https://kt.academy/article/var_readonly_vs_val_mutable) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/kt.academy/var-readonly-vs-val-mutable.md) -->
 
 ### zsmb.co
 

@@ -69,7 +69,7 @@ head:
 {
   "title": "How to Use SSH to Safely Connect to GitHub: A Simple Guide for Windows OS",
   "desc": "In this article, we will explore the Secure Shell (SSH) protocol, a vital tool for securing network communications. SSH is widely used for accessing remote servers and managing code repositories securely, particularly in environments like GitHub. You...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-ssh-to-connect-to-github-guide-for-windows.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-ssh-to-connect-to-github-guide-for-windows.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -87,7 +87,7 @@ head:
 {
   "title": "Getting started with Docker and Kubernetes on Windows 10",
   "desc": "In this article you'll learn how to make the right choices when it comes to setting up your development environment on Windows.",
-  "link": "/explore/articles/learnk8s.io/installing-docker-kubernetes-windows.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/installing-docker-kubernetes-windows.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }
@@ -105,7 +105,7 @@ head:
 {
   "title": "How to Install Windows Subsystem for Linux",
   "desc": "The Windows Subsystem for Linux (WSL) runs a GNU/Linux Environment which includes most of the command-line utilities and applications on top of Windows OS.",
-  "link": "/explore/articles/tecmint.com/install-windows-subsystem-for-linux.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/install-windows-subsystem-for-linux.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
@@ -123,7 +123,7 @@ head:
 {
   "title": "CPU 이용률의 두 얼굴: CPU 코어 사용량과 활용률 | 요즘IT",
   "desc": "CPU 이용률의 두 얼굴: CPU 코어 사용량과 활용률",
-  "link": "/explore/articles/yozm.wishket.com/2418.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2418.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

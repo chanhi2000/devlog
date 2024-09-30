@@ -43,7 +43,7 @@ head:
 {
   "title": "What is Trunk Based Development? A Different Approach to the Software Development Lifecycle",
   "desc": "The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys...",
-  "link": "/explore/articles/frontendmasters.com/what-is-trunk-based-development.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/what-is-trunk-based-development.html",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }

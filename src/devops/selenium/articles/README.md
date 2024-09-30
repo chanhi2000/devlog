@@ -43,7 +43,7 @@ head:
 {
   "title": "Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance",
   "desc": "A tower running race is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition. > The Empire State Building Run-Up (ESBRU)—the world’s first and most",
-  "link": "/explore/articles/freecodecamp.org/empire-state-building-run-up-analysis-with-python.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/empire-state-building-run-up-analysis-with-python.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -53,7 +53,7 @@ head:
 {
   "title": "Learn Java Testing with Selenium",
   "desc": "Are you looking to enhance your skills in automated web testing? We just published a comprehensive video course on the freeCodeCamp.org YouTube channel, designed to teach you how to use Selenium with Java using the Page Object Model. Created by Rex J...",
-  "link": "/explore/articles/freecodecamp.org/learn-java-testing-with-selenium.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-java-testing-with-selenium.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -247,7 +247,7 @@ head:
 
 ## Tecoble
 
-- [데드락 해결 모험기](https://tecoble.techcourse.co.kr/post/2022-11-01-mysql-dead-lock/) <!-- TODO: 작성 (/explore/articles/tecoble.techcourse.co.kr/2022-11-01-mysql-dead-lock.md) -->
+- [데드락 해결 모험기](https://tecoble.techcourse.co.kr/post/2022-11-01-mysql-dead-lock/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tecoble.techcourse.co.kr/2022-11-01-mysql-dead-lock.md) -->
 
 ---
 

@@ -53,14 +53,14 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [kubernetes를 이용한 서비스 무중단 배포](https://tech.kakao.com/posts/360) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/360.md) -->
-- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/406.md) -->
-- [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/449.md) -->
-- [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/491.md -->
+- [kubernetes를 이용한 서비스 무중단 배포](https://tech.kakao.com/posts/360) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/360.md) -->
+- [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성](https://tech.kakao.com/posts/406) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/406.md) -->
+- [실용주의 데브옵스 for MSA](https://tech.kakao.com/posts/449) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/449.md) -->
+- [쿠버네티스에 레디스 캐시 클러스터 구축기](https://tech.kakao.com/posts/491) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/491.md -->
 
 ### Kakao Pay
 
-- [환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!)](https://tech.kakaopay.com/post/eco-ami/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/eco-ami.md) -->
+- [환경미화 프로젝트(부제: 카카오페이 k8s에서 낭비되는 자원을 절약해 보자!)](https://tech.kakaopay.com/post/eco-ami/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaopay.com/eco-ami.md) -->
 
 ---
 
@@ -85,7 +85,7 @@ head:
 ## tistory
 
 - [`gsretail` / GS리테일 DX블로그](https://gsretail.tistory.com/m/)
-  - [실시간 추천을 위한 kubeflow 환경 구축](https://gsretail.tistory.com/m/12) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/12.md) -->
+  - [실시간 추천을 위한 kubeflow 환경 구축](https://gsretail.tistory.com/m/12) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/gsretail.tistory.com/12.md) -->
   <!-- END: gsretail -->
 - [`arisu1000` / 아리수](https://arisu1000.tistory.com/m/)
   - [쿠버네티스 서비스(kubernetes services) (2)](https://arisu1000.tistory.com/m/27839)
@@ -143,7 +143,7 @@ head:
 
 ## Blog - LINE ENGINEERING
 
-- [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나!](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/prometheus-container-kubernetes-cluster.md) -->
+- [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나!](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/prometheus-container-kubernetes-cluster.md) -->
 
 ---
 
@@ -381,7 +381,7 @@ head:
 {
   "title": "Load balancing and scaling long-lived connections in Kubernetes",
   "desc": "Kubernetes doesn't load balance long-lived connections and some Pods might receive more requests than others. Learn how to fix that.",
-  "link": "/explore/articles/learnk8s.io/kubernetes-long-lived-connections.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/kubernetes-long-lived-connections.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }

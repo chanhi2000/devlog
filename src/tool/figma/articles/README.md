@@ -40,8 +40,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  lokafka="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  lokafka="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -65,7 +65,7 @@ head:
 {
   "title": "Figma Typography Variables",
   "desc": "Figma has support for variables, and they work with the various typography features you may want to set. For instance, you could create a variable called ",
-  "link": "/explore/articles/frontendmasters.com/figma-typography-variables.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/figma-typography-variables.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -83,8 +83,8 @@ head:
 {
   "title": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose | NAVER D2",
   "desc": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose",
-  "link": "/explore/articles/d2.naver.com/0623656.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/0623656.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
 }
 ```
@@ -93,8 +93,8 @@ head:
 {
   "title": "디자인시스템을 개발에서 적용 하는법 | NAVER D2",
   "desc": "디자인시스템을 개발에서 적용 하는법",
-  "link": "/explore/articles/d2.naver.com/7030870.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/7030870.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
 }
 ```
@@ -111,7 +111,7 @@ head:
 {
   "title": "OROR Forge: Figma to Code 도구 제작기",
   "desc": "안녕하세요, OROR 프론트엔드 팀의 테오입니다! 이번 글에서는 프론트엔...",
-  "link": "/explore/articles/tech.kakao.com/611.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tech.kakao.com/611.md",
   "logo": "https://www.kakaocorp.com/page/favicon.ico",
   "background": "rgba(53,79,245,0.2)"
 }

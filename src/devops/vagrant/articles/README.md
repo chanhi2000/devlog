@@ -48,7 +48,7 @@ head:
 {
   "title": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) | 요즘IT",
   "desc": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64)",
-  "link": "/explore/articles/yozm.wishket.com/2658.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2658.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

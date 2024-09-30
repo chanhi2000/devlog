@@ -98,7 +98,7 @@ head:
 {
   "title": "How to Parse a String in Python – Parsing Strings Explained",
   "desc": "Parsing a string can mean different things in Python. You can parse a string by splitting or extracting the substrings.  You can also parse a string by converting it to an integer or float variable. Although this should be categorized as a type conversion operation, you'll come across resources...",
-  "link": "/explore/articles/freecodecamp.org/how-to-parse-a-string-in-python.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-parse-a-string-in-python.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -108,7 +108,7 @@ head:
 {
   "title": "How to Use DefaultDict in Python",
   "desc": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-defaultdict-python.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-defaultdict-python.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -545,7 +545,7 @@ head:
 {
   "title": "모니터링은 마틴 파울러처럼: Domain-Oriented Observability 도입기",
   "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
-  "link": "/explore/articles/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.ab180.co/monitoring-like-martin-fowler-domain-oriented-observability.md",
   "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
   "background": "rgba(11,110,153,0.2)"
 }
@@ -1979,7 +1979,7 @@ head:
 
 ## Shopify Engineering
 
-- [Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics](https://shopify.engineering/monte-carlo-simulations-sampled-success-metrics) <!-- TODO: 작성 (/explore/articles/shopify.engineering/monte-carlo-simulations-sampled-success-metrics.md) -->
+- [Monte Carlo Simulations: Separating Signal from Noise in Sampled Success Metrics](https://shopify.engineering/monte-carlo-simulations-sampled-success-metrics) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/shopify.engineering/monte-carlo-simulations-sampled-success-metrics.md) -->
 
 ---
 
@@ -2198,7 +2198,7 @@ head:
 
 ## 데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티
 
-- [CrewAI로 나만의 AI Agent 만들기](https://devocean.sk.com/blog/techBoardDetail.do?ID=166150) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/166150.md) -->
+- [CrewAI로 나만의 AI Agent 만들기](https://devocean.sk.com/blog/techBoardDetail.do?ID=166150) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/devocean.sk.com/166150.md) -->
 
 <!-- END: devocean.sk.com -->
 

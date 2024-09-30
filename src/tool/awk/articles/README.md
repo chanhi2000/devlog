@@ -48,7 +48,7 @@ head:
 {
   "title": "How to Use ‘next’ Command with Awk in Linux – Part 6",
   "desc": "In this article, we’ll explore how the `next` command in `awk` skips remaining patterns and moves to the next input line.",
-  "link": "/explore/articles/tecmint.com/use-next-command-with-awk-in-linux.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/use-next-command-with-awk-in-linux.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
@@ -58,7 +58,7 @@ head:
 {
   "title": "How to Read and Filter Awk Input from STDIN in Linux – Part 7",
   "desc": "In this Part 7 of Awk series, we shall look at few examples where you can filter the output of other commands instead of reading input from a file.",
-  "link": "/explore/articles/tecmint.com/read-awk-input-from-stdin-in-linux.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/read-awk-input-from-stdin-in-linux.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
@@ -68,7 +68,7 @@ head:
 {
   "title": "How to Work with Awk Variables, Expressions, and Operators – Part 8",
   "desc": "We'll explore advanced Awk features for complex text filtering, including variables, numeric expressions, and assignment operators.",
-  "link": "/explore/articles/tecmint.com/work-with-awk-variables-expressions-and-operators.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/work-with-awk-variables-expressions-and-operators.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
@@ -78,7 +78,7 @@ head:
 {
   "title": "How to Use Awk Special Patterns ‘BEGIN and END’ – Part 9",
   "desc": "In this article, we shall cover Awk special patterns: BEGIN and END and these special features will help to expand and explore more complex Awk operations.",
-  "link": "/explore/articles/tecmint.com/learn-use-awk-special-patterns-begin-and-end.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/learn-use-awk-special-patterns-begin-and-end.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }

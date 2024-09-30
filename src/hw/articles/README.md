@@ -40,7 +40,7 @@ head:
 {
   "title": "How to Get a Memory Map of Your System using BIOS Interrupts",
   "desc": "When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...",
-  "link": "/explore/articles/freecodecamp.org/how-to-get-a-memory-map-of-your-system-using-bios-interrupts.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-get-a-memory-map-of-your-system-using-bios-interrupts.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

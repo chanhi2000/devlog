@@ -94,8 +94,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  lokafka="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  lokafka="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 <SiteInfo
   name="강남언니 공식 블로그"
@@ -126,7 +126,7 @@ head:
 {
   "title": "How to Work on a Multi-Library Project in Android – Locally and Remotely",
   "desc": "In this article, we're going to talk about multi-library projects in Android. It's not something ordinary, but not something out of the ordinary either.  You may have come across multi-library projects in your line of work, or you may be looking into converting your library into sub-modules for better...",
-  "link": "/explore/articles/freecodecamp.org/working-on-a-multiple-library-project-in-android.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/working-on-a-multiple-library-project-in-android.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -136,7 +136,7 @@ head:
 {
   "title": "How to Migrate from Play Core Library",
   "desc": "You may have recently received an email from Google Play Store stating the following: > Update your Play Core Maven dependency to an Android 14 compatible version! Your current Play Core library is incompatible with targetSdkVersion 34 (Android 14), which introduces a backwards-incompatible change to broadcast receivers to improve user...",
-  "link": "/explore/articles/freecodecamp.org/migrate-from-play-core-library.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/migrate-from-play-core-library.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -156,7 +156,7 @@ head:
 {
   "title": "Augmented Reality in Android with Google’s Face API",
   "desc": "You’ll build a Snapchat Lens-like app called FaceSpotter which draws cartoony features over faces in a camera feed using augmented reality.",
-  "link": "/explore/articles/kodeco.com/523-augmented-reality-in-android-with-google-s-face-api.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/523-augmented-reality-in-android-with-google-s-face-api.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -166,7 +166,7 @@ head:
 {
   "title": "Couchbase Tutorial for Android - Getting Started",
   "desc": "In this couchbase tutorial, you will learn how to use prebuilt Couchbase Lite databases, model, query, upload and sync data including attachments.",
-  "link": "/explore/articles/kodeco.com/853-couchbase-tutorial-for-android-getting-started.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/853-couchbase-tutorial-for-android-getting-started.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -176,7 +176,7 @@ head:
 {
   "title": "Android Accessibility Tutorial: Getting Started",
   "desc": "In this Android accessibility tutorial, learn how to make apps that everyone can use, including people with vision, motor, or hearing disabilities.",
-  "link": "/explore/articles/kodeco.com/240-android-accessibility-tutorial-getting-started.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/240-android-accessibility-tutorial-getting-started.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -188,7 +188,7 @@ head:
 {
   "title": "ViewPager Tutorial - Getting Started in Kotlin",
   "desc": "In this ViewPager tutorial for Android, you’ll learn how to use a ViewPager to navigate between content pages in Kotlin.",
-  "link": "/explore/articles/kodeco.com/324-viewpager-tutorial-getting-started-in-kotlin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/324-viewpager-tutorial-getting-started-in-kotlin.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -198,7 +198,7 @@ head:
 {
   "title": "Intermediate RecyclerView Tutorial with Kotlin",
   "desc": "In this RecyclerView tutorial you will learn how to build out intermediate techniques like swiping, animation and filtering in Kotlin.",
-  "link": "/explore/articles/kodeco.com/272-intermediate-recyclerview-tutorial-with-kotlin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/272-intermediate-recyclerview-tutorial-with-kotlin.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -208,7 +208,7 @@ head:
 {
   "title": "Dependency Injection in Android with Dagger 2 and Kotlin",
   "desc": "In this Android with Kotlin tutorial, you’ll learn about dependency injection and how to make use of the Dagger 2 Java/Android framework for this purpose.",
-  "link": "/explore/articles/kodeco.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/262-dependency-injection-in-android-with-dagger-2-and-kotlin.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -218,7 +218,7 @@ head:
 {
   "title": "Getting Started with Android Wear with Kotlin",
   "desc": "In this Android Wear tutorial, you’ll learn how to build an Android app for the Android Wear platform using the Kotlin language.",
-  "link": "/explore/articles/kodeco.com/254-getting-started-with-android-wear-with-kotlin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/254-getting-started-with-android-wear-with-kotlin.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -228,7 +228,7 @@ head:
 {
   "title": "Introduction to Google Maps API for Android with Kotlin",
   "desc": "In this Google Maps API Tutorial for Android you will learn how to retrieve the user’s current location, get location updates and search for places.",
-  "link": "/explore/articles/kodeco.com/230-introduction-to-google-maps-api-for-android-with-kotlin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/230-introduction-to-google-maps-api-for-android-with-kotlin.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -238,7 +238,7 @@ head:
 {
   "title": "Documenting Kotlin Code for Android Using KDoc and Dokkas",
   "desc": "Learn how to use KDoc to document your Kotlin code and generate beautiful-looking documentation pages using Dokka.s",
-  "link": "/explore/articles/kodeco.com/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/30067669-documenting-kotlin-code-for-android-using-kdoc-and-dokka.md",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -254,7 +254,7 @@ head:
 {
   "title": "Writing Swift-friendly Kotlin Multiplatform APIs — Part IX: Flow - droidcon",
   "desc": "I know you have been waiting long for the Great Season Finale of this series: Flow! Let us see if we can apply what we learned so far.",
-  "link": "/explore/articles/droidcon.com/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow.md",
+  "link": "https://chanhi2000.github.io/bookshelf/droidcon.com/writing-swift-friendly-kotlin-multiplatform-apis-part-ix-flow.md",
   "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }
@@ -264,7 +264,7 @@ head:
 {
   "title": "Introducing Iris Mock: An easier way to mock network calls on Android - droidcon",
   "desc": "This article is a mix of presenting a new tool I have developed to make network mocks easier on Retrofit, Volley and any OkHttp based tool and my learnings during the process. Let's start by introducing Iris Mock and what is possible to do with it.",
-  "link": "/explore/articles/droidcon.com/introducing-iris-mock-an-easier-way-to-mock-network-calls-on-android.md",
+  "link": "https://chanhi2000.github.io/bookshelf/droidcon.com/introducing-iris-mock-an-easier-way-to-mock-network-calls-on-android.md",
   "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }
@@ -274,7 +274,7 @@ head:
 {
   "title": "Publishing Kotlin Multiplatform Libraries With Sonatype Central - droidcon",
   "desc": "With JCenter sunsetted, distributing public Kotlin Multiplatform libraries now often relies on Maven Central via Sonatype. However, the transition from issues.sonatype.org to central.sonatype.com in March 2024 has left many developers grappling with outdated resources and scarce guidance.",
-  "link": "/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
+  "link": "https://chanhi2000.github.io/bookshelf/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
   "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }
@@ -284,7 +284,7 @@ head:
 {
   "title": "How Suspend Functions Work in Kotlin: Under the hood - droidcon",
   "desc": "The suspension capability is the most essential feature upon which all other Kotlin Coroutines concepts are built. Your main goal in this article will be to gain a solid understanding of how it works internally.",
-  "link": "/explore/articles/droidcon.com/how-suspend-functions-work-in-kotlin-under-the-hood.md",
+  "link": "https://chanhi2000.github.io/bookshelf/droidcon.com/how-suspend-functions-work-in-kotlin-under-the-hood.md",
   "logo": "https://droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }
@@ -302,7 +302,7 @@ head:
 {
   "title": "Item 28: Consider wrapping external APIs",
   "desc": "Why we should wrap external APIs and how to do it.",
-  "link": "/explore/articles/kt.academy/ek-wrapping-api.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kt.academy/ek-wrapping-api.md",
   "logo": "https://kt.academy/logo.png",
   "background": "rgba(243,139,49,0.2)"
 }
@@ -320,7 +320,7 @@ head:
 {
   "title": "How To Migrate from Hilt to Koin - A Detailed Guide",
   "desc": "Migrate from Hilt to Koin for Android devs. A step-by-step guide to cover setup, annotation replacements, module migration, testing, & Compose previews.",
-  "link": "/explore/articles/blog.kotzilla.io/migrate-from-hilt-to-koin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.kotzilla.io/migrate-from-hilt-to-koin.md",
   "logo": "https://blog.kotzilla.io/hubfs/favicon.png",
   "background": "rgba(249,178,51,0.2)"
 }
@@ -330,7 +330,7 @@ head:
 {
   "title": "Leveraging Lazy Modules and Background Loading in Kotlin with Koin",
   "desc": "Boost Kotlin apps with Koin's lazy modules and background loading to enhance performance and scalability, using asynchronous techniques for efficiency.",
-  "link": "/explore/articles/blog.kotzilla.io/lazy-modules-in-kotlin-with-koin.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.kotzilla.io/lazy-modules-in-kotlin-with-koin.md",
   "logo": "https://blog.kotzilla.io/hubfs/favicon.png",
   "background": "rgba(249,178,51,0.2)"
 }
@@ -348,7 +348,7 @@ head:
 {
   "title": "Android, iOS 웹뷰에서 딥링크 열기 | 요즘IT",
   "desc": "Android, iOS 웹뷰에서 딥링크 열기",
-  "link": "/explore/articles/yozm.wishket.com/2126.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2126.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -358,7 +358,7 @@ head:
 {
   "title": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기 | 요즘IT",
   "desc": "CJ온스타일의 안드로이드 앱 '클린 아키텍처' 도입기",
-  "link": "/explore/articles/yozm.wishket.com/2457.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2457.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -376,7 +376,7 @@ head:
 {
   "title": "PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup",
   "desc": "PLT Hook 체크를 위한 Android so 파일 파싱",
-  "link": "/explore/articles/meetup.nhncloud.com/371.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/371.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -394,8 +394,8 @@ head:
 {
   "title": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose | NAVER D2",
   "desc": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose",
-  "link": "/explore/articles/d2.naver.com/0623656.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/0623656.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
 }
 ```
@@ -404,8 +404,8 @@ head:
 {
   "title": "보낼 로그가 1000개가 되는동안 겪었던 고민들 | NAVER D2",
   "desc": "보낼 로그가 1000개가 되는동안 겪었던 고민들",
-  "link": "/explore/articles/d2.naver.com/7282210.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/7282210.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
 }
 ```
@@ -422,7 +422,7 @@ head:
 {
   "title": "Privacy Changes in Android Q#1",
   "desc": "백그라운드 앱에 대한 새로운 제한사항",
-  "link": "/explore/articles/blog.gangnamunni.com/privacy-changes-in-android-q-1.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.gangnamunni.com/privacy-changes-in-android-q-1.md",
   "logo": "https://blog.gangnamunni.com/favicon.ico",
   "background": "rgba(255,84,15,0.2)"
 }
@@ -432,7 +432,7 @@ head:
 {
   "title": "Privacy Changes in Android Q#2",
   "desc": "안드로이드 기기 고유 식별자 제한",
-  "link": "/explore/articles/blog.gangnamunni.com/privacy-changes-in-android-q-2.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.gangnamunni.com/privacy-changes-in-android-q-2.md",
   "logo": "https://blog.gangnamunni.com/favicon.ico",
   "background": "rgba(255,84,15,0.2)"
 }
@@ -442,7 +442,7 @@ head:
 {
   "title": "안드로이드 MotionLayout",
   "desc": "Android MotionLayout 사용해보기",
-  "link": "/explore/articles/blog.gangnamunni.com/motionlayout.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.gangnamunni.com/motionlayout.md",
   "logo": "https://blog.gangnamunni.com/favicon.ico",
   "background": "rgba(255,84,15,0.2)"
 }
@@ -460,7 +460,7 @@ head:
 {
   "title": "뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기 | SwiftUI by Example",
   "desc": "뱅크샐러드 안드로이드 앱에서 Koin 걷어내고 Hilt로 마이그레이션하기",
-  "link": "/explore/articles/blog.banksalad.com/migrate-from-koin-to-hilt.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.banksalad.com/migrate-from-koin-to-hilt.md",
   "logo": "https://blog.banksalad.com/favicon-32x32.png?v=a0f8dfab85709bd32e8bfd56c885f0fe",
   "background": "rgba(0,198,142,0.2)"
 }

@@ -48,7 +48,7 @@ head:
 {
   "title": "Armeria로 서버 간 인증 마이크로서비스 개발하기",
   "desc": "LINE DEV Meetup #11 'LINE 서버 개발자들이 말한다! Armeria 아직도 안 써요?'에서 김도한 님이 발표하신 'Building an Authentication Microservice at LINE'&nbsp;세션 내용을 옮긴 글입니다...",
-  "link": "/explore/articles/engineering.linecorp.com/building-an-authentication-microservice-with-armeria.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/building-an-authentication-microservice-with-armeria.md",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
 }
@@ -58,7 +58,7 @@ head:
 {
   "title": "LINE 개발자들이 Spring 대신 Armeria를 사용하는 이유",
   "desc": "LINE DEV Meetup #11 'LINE 서버 개발자들이 말한다! Armeria 아직도 안 써요?'에서 김기환, 임경수 님이 발표하신 'Hello Armeria, Bye Spring' 세션 내용을 옮긴 글입니다...",
-  "link": "/explore/articles/engineering.linecorp.com/hello-armeria-bye-spring.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/hello-armeria-bye-spring.md",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
 }

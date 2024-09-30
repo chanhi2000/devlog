@@ -45,7 +45,7 @@ head:
 {
   "title": "Objective-C Generics | NHN Cloud Meetup",
   "desc": "Objective-C Generics",
-  "link": "/explore/articles/meetup.nhncloud.com/43.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/43.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }

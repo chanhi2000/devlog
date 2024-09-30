@@ -49,8 +49,8 @@ head:
 
 ## 우아한 기술블로그
 
-- [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](/explore/articles/techblog.woowahan.com/16044.md)
-- [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2530.md) -->
+- [셸 스크립트를 몰라도 자동화는 하고 싶어, ChatGPT를 활용한 git flow 관리 스크립트 자동화 진행기](https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/16044.md)
+- [훅으로 Git에 훅 들어가기](https://techblog.woowahan.com/2530) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2530.md) -->
 
 ---
 

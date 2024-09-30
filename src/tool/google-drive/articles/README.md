@@ -47,7 +47,7 @@ head:
 {
   "title": "How to Work with Tables in Excel vs Google Sheets",
   "desc": "Google Sheets recently released an all new feature: tables. Well, new is a bit of an overstatement. Excel has had proper tables for many, many years, and it's been a point of contention in the spreadsheet community. In this article, I'll break down what exactly tables are, why they're important,...",
-  "link": "/explore/articles/freecodecamp.org/excel-vs-google-sheets-tables.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/excel-vs-google-sheets-tables.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: "blog.logrocket.com",
-  faviconPath: "/images/content/blog.logrocket.com/favicon.png",
+  faviconPath: "https://chanhi2000.github.io/bookshelf/assets/image/blog.logrocket.com/favicon.png",
   linksMap: new Map([
     [
     "js-react", [

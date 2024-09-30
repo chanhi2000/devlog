@@ -47,7 +47,7 @@ head:
 {
   "title": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 | NHN Cloud Meetup",
   "desc": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기",
-  "link": "/explore/articles/meetup.nhncloud.com/283.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/283.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }

@@ -54,15 +54,15 @@ head:
 
 ### ZUM 기술 블로그
 
-- [SPRING CLOUD STREAM, MQ 도입 사례 - 1](https://zuminternet.github.io/spring_cloud_stream_rabbitmq_01/) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/spring-cloud-stream-rabbitmq-01.md) -->
-- [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/redirect-refactoring.md) -->
+- [SPRING CLOUD STREAM, MQ 도입 사례 - 1](https://zuminternet.github.io/spring_cloud_stream_rabbitmq_01/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/zuminternet.github.io/spring-cloud-stream-rabbitmq-01.md) -->
+- [Redirect 서버 리팩토링 - 파일럿 프로젝트](https://zuminternet.github.io/redirect-refactoring/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/zuminternet.github.io/redirect-refactoring.md) -->
 
 ### Blog - LINE ENGINEERING
 
-- [비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/do-not-block-the-event-loop-part3.md) -->
-- [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app) <!-- TODO: 작성 (/explore/articles/engineernig.liencorp.com/static-analysis-of-java-app.md) -->
-- [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
-- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
+- [비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 3부 - Reactor 패턴과 이벤트 루프](https://engineering.linecorp.com/ko/blog/do-not-block-the-event-loop-part3) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/do-not-block-the-event-loop-part3.md) -->
+- [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineernig.liencorp.com/static-analysis-of-java-app.md) -->
+- [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/fido-at-line-fido2-server-opensource.md) -->
+- [Req-Saver로 캐시의 골칫거리 'Thundering Herd 문제' 쉽게 풀기!](https://techblog.lycorp.co.jp/ko/req-saver-for-thundering-herd-problem-in-cache) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/req-saver-for-thundering-herd-problem-in-cache.md) -->
 
 ### 강남언니 공식 블로그
 
@@ -70,7 +70,7 @@ head:
 {
   "title": "외부 툴 변경에 휘둘리지 않는 서버 코드 작성기",
   "desc": "사례로 보는, DIP를 이용한 외부 툴에 의존하지 않는 도메인 모델 설계",
-  "link": "/explore/articles/blog.gangnamunni.com/dependency-inversion-principle.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.gangnamunni.com/dependency-inversion-principle.md",
   "logo": "https://blog.gangnamunni.com/favicon.ico",
   "background": "rgba(255,84,15,0.2)"
 }
@@ -82,23 +82,23 @@ head:
 
 #### 카카오페이 기술 블로그
 
-- [실전에서 TDD하기](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/implementing-tdd-in-practical-applications.md) -->
+- [실전에서 TDD하기](https://tech.kakaopay.com/post/implementing-tdd-in-practical-applications/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaopay.com/implementing-tdd-in-practical-applications.md) -->
 
 ---
 
 ### <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (/explore/articles/d2.naver.com/6080222.md) -->
-- [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (/explore/articles/d2.naver.com/9423440.md) -->
+- [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/6080222.md) -->
+- [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/9423440.md) -->
 
 ### NHN Cloud Meetup - NHN 기술 블로그
 
-- [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
+- [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/239.md) -->
 
 ### Hyperconnect Tech Blog | 하이퍼커넥트의 기술블로그입니다
 
-- [Spring Session + Custom Session Repository 기반 세션 저장소의 메모리 누수 해결](https://hyperconnect.github.io/2023/01/09/redis-session.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/redis-session.md) -->
-- [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html) <!-- TODO: 작성 (/explore/articles/hyperconnect.github.io/fix-increasing-memory-usage.md) -->
+- [Spring Session + Custom Session Repository 기반 세션 저장소의 메모리 누수 해결](https://hyperconnect.github.io/2023/01/09/redis-session.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/hyperconnect.github.io/redis-session.md) -->
+- [Spring Data Redis Repository 미숙하게 사용해 발생한 장애 극복기](https://hyperconnect.github.io/2022/12/12/fix-increasing-memory-usage.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/hyperconnect.github.io/fix-increasing-memory-usage.md) -->
 
 ### DZone
 
@@ -449,7 +449,7 @@ head:
 
 ### DEVOCEAN
 
-- [Spring Boot 나만의 의존성 설정하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165727) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/165727.md) -->
+- [Spring Boot 나만의 의존성 설정하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=165727) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/devocean.sk.com/165727.md) -->
 
 ### Hong's Store House
 
@@ -699,15 +699,15 @@ head:
 
 ### 우아한형제들 기술블로그
 
-- [개발자 머피의 법칙](https://techblog.woowahan.com/2645/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2645.md) -->
-- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698/) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2698.md) -->
-- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- /explore/articles/techblog.woowahan.com/7349.md -->
+- [개발자 머피의 법칙](https://techblog.woowahan.com/2645/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2645.md) -->
+- [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2698.md) -->
+- [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/7349.md -->
 
 ### <FontIcon icon="iconfont icon-kakao"/>Kakao
 
 #### 카카오페이 기술 블로그
 
-- [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기](https://tech.kakaopay.com/post/bff_webflux_coroutine/) <!-- TODO: 작성 (/explore/articles/tech.kakaopay.com/bff-webflux-coroutine.md) -->
+- [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기](https://tech.kakaopay.com/post/bff_webflux_coroutine/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaopay.com/bff-webflux-coroutine.md) -->
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 

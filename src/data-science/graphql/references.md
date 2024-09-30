@@ -32,7 +32,7 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [GraphQL 개념잡기](https://tech.kakao.com/posts/364) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/364.md) -->
+- [GraphQL 개념잡기](https://tech.kakao.com/posts/364) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/364.md) -->
 
 ---
 

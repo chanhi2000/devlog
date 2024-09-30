@@ -46,7 +46,7 @@ head:
 {
   "title": "How to Generate Financial Press Reviews Using AI",
   "desc": "In today’s fast-paced business environment, staying informed about the latest developments in your industry is crucial for making strategic decisions. Companies must know market trends, competitor activities, and potential risks to remain competitive...",
-  "link": "/explore/articles/freecodecamp.org/how-to-generate-financial-press-reviews-using-ai.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-generate-financial-press-reviews-using-ai.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

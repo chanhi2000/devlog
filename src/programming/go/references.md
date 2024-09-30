@@ -55,7 +55,7 @@ tag:
 {
   "title": "Golang GC 튜닝 가이드",
   "desc": "Golang으로 프로그램을 개발하다 보면, 어느 순간 GC(Garbage Coll...",
-  "link": "/explore/articles/tech.kakao.com/618.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tech.kakao.com/618.md",
   "logo": "https://www.kakaocorp.com/page/favicon.ico",
   "background": "rgba(53,79,245,0.2)"
 }
@@ -108,8 +108,8 @@ tag:
 
 ## 뱅크셀러드
 
-- [프로덕션 환경에서 사용하는 golang과 gRPC](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/production-ready-grpc-in-golang.md) -->
-- [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
+- [프로덕션 환경에서 사용하는 golang과 gRPC](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/blog.banksalad.com/production-ready-grpc-in-golang.md) -->
+- [뱅크샐러드 Go 코딩 컨벤션](https://blog.banksalad.com/tech/go-best-practice-in-banksalad) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/blog.banksalad.com/go-best-practice-in-banksalad.md) -->
 
 ---
 
@@ -137,8 +137,8 @@ tag:
 {
   "title": "Building a full-stack app with Bud and Go",
   "desc": "Build a full-stack app using Bud, the new Go framework, with its built-in functionality for frontend development using Svelte.",
-  "link": "/explore/articles/blog.logrocket.com/full-stack-bud-go.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/full-stack-bud-go.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```
@@ -177,7 +177,7 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/scenario-test.md) -->
+- [Scenario Test: 인수 테스트 자동화로 자신감, 생산성 높이기 (GopherCon 2023 발표)](https://engineering.ab180.co/stories/scenario-test) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.ab180.co/scenario-test.md) -->
 
 ---
 

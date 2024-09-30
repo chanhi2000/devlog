@@ -44,7 +44,7 @@ head:
 {
   "title": "'핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법 | 요즘IT",
   "desc": "'핀다' 개발팀이 스크럼, 코드리뷰 개선한 방법",
-  "link": "/explore/articles/yozm.wishket.com/2295.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2295.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -56,7 +56,7 @@ head:
 {
   "title": "How To Implement Instant Search with Flask and HTMX",
   "desc": "Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions...",
-  "link": "/explore/articles/freecodecamp.org/how-to-implement-instant-search-with-flask-and-htmx.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-implement-instant-search-with-flask-and-htmx.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -74,7 +74,7 @@ head:
 {
   "title": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’ | 요즘IT",
   "desc": "데브섹옵스 자동화를 위한 ‘동적 보안 테스팅(DAST)’",
-  "link": "/explore/articles/yozm.wishket.com/2692.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2692.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: 'ui.toast.com',
-  faviconPath: '/images/content/ui.toast.com/favicon.ico',
+  faviconPath: 'assets/image/ui.toast.com/favicon.ico',
   linksMap: new Map([
     [
     "js-storybook", [

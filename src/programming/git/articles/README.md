@@ -73,8 +73,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -98,7 +98,7 @@ head:
 {
   "title": "Gitting Things Done – A Visual and Practical Guide to Git [Full Book]",
   "desc": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you us...",
-  "link": "/explore/articles/freecodecamp.org/gitting-things-done-book/README.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/gitting-things-done-book/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -108,7 +108,7 @@ head:
 {
   "title": "Git Checkout Remote Branch – How to Fetch and List Remote Branches",
   "desc": "You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep...",
-  "link": "/explore/articles/freecodecamp.org/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -118,7 +118,7 @@ head:
 {
   "title": "How to Use Git Submodules – Explained With Examples",
   "desc": "Git is undeniably a very important tool for developers. It helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. But as projects grow in complexity and scope, so do their dependencies. So we need a mechanism to properly manage these dependencies as they grow. This...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-git-submodules.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-git-submodules.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -128,7 +128,7 @@ head:
 {
   "title": "What is Trunk Based Development? A Different Approach to the Software Development Lifecycle",
   "desc": "The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys...",
-  "link": "/explore/articles/freecodecamp.org/what-is-trunk-based-development.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-trunk-based-development.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -138,7 +138,7 @@ head:
 {
   "title": "How to Host Your Project on GitHub – Explained With Examples",
   "desc": "Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching...",
-  "link": "/explore/articles/freecodecamp.org/host-your-first-project-on-github.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/host-your-first-project-on-github.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -148,7 +148,7 @@ head:
 {
   "title": "Git Cheat Sheet – Helpful Git Commands with Examples",
   "desc": "This Git Cheat Sheet will provide you with a handy list of common (and not so common) commands that will make your life easier when working with Git. You can also download the Git Cheat Sheet in PDF format (along with some other resources) for free b...",
-  "link": "/explore/articles/freecodecamp.org/git-cheat-sheet-helpful-git-commands-with-examples.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/git-cheat-sheet-helpful-git-commands-with-examples.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -166,7 +166,7 @@ head:
 {
   "title": "How to keep your Kubernetes secrets secure in Git",
   "desc": "Kubernetes secrets that you load into the cluster must exist somewhere. Is Kubernetes to be the only source of truth or do you keep a copy? Learn how to secure secrets.",
-  "link": "/explore/articles/learnk8s.io/kubernetes-secrets-in-git.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/kubernetes-secrets-in-git.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }
@@ -184,7 +184,7 @@ head:
 {
   "title": "CI/CD 개념과 깃허브 리포지터리 생성하기 | 요즘IT",
   "desc": "CI/CD 개념과 깃허브 리포지터리 생성하기",
-  "link": "/explore/articles/yozm.wishket.com/2184.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2184.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -194,7 +194,7 @@ head:
 {
   "title": "Git Internal API를 활용한 .git 탐험 | 요즘IT",
   "desc": "Git Internal API를 활용한 .git 탐험",
-  "link": "/explore/articles/yozm.wishket.com/2293.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2293.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -204,7 +204,7 @@ head:
 {
   "title": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지 | 요즘IT",
   "desc": "팀장님에게 칭찬받기 좋은 Git 꿀팁 2가지",
-  "link": "/explore/articles/yozm.wishket.com/2545.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2545.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -220,7 +220,7 @@ head:
 {
   "title": "git squash - 여러개의 커밋로그를 하나로 묶기| NHN Cloud Meetup",
   "desc": "git squash - 여러개의 커밋로그를 하나로 묶기",
-  "link": "/explore/articles/meetup.nhncloud.com/39.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/39.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -230,7 +230,7 @@ head:
 {
   "title": "git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 | NHN Cloud Meetup",
   "desc": "git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때",
-  "link": "/explore/articles/meetup.nhncloud.com/45.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/45.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -240,7 +240,7 @@ head:
 {
   "title": "메시징플랫폼개발팀의 브랜칭 전략은? Release Flow! | NHN Cloud Meetup",
   "desc": "메시징플랫폼개발팀의 브랜칭 전략은? Release Flow!",
-  "link": "/explore/articles/meetup.nhncloud.com/377.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/377.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -276,8 +276,8 @@ head:
 {
   "title": "Git vs. Mercurial | NAVER D2",
   "desc": "Git vs. Mercurial",
-  "link": "/explore/articles/d2.naver.com/1011.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1011.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -294,7 +294,7 @@ head:
 {
   "title": "Turborepo로 모노레포 개발 경험 향상하기",
   "desc": "안녕하세요. 저는 LINE+ UIT 조직에서 프런트엔드 개발을 하고 있는 이상철입니다. 저는 UVP(Universal Video Player)라는 사내 동영상 컴포넌트 라이브러리를 모노레포 환경에서 개발하고 있는데요. 어떻게 하면 모노레포를 조금 더 잘 활용할 수 있...",
-  "link": "/explore/articles/engineering.linecorp.com/monorepo-with-turborepo.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/monorepo-with-turborepo.md",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
 }

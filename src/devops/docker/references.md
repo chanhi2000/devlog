@@ -127,22 +127,22 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ## Blog - LINE ENGINEERING
 
-- [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/remote-qa-devicefarm-stf.md) -->
+- [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/remote-qa-devicefarm-stf.md) -->
 
 ---
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677) <!-- TODO: 작성 (/explore/articles/d2.naver.com/3661677.md) -->
+- [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/3661677.md) -->
 
 ---
 
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-1.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-2.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-3.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-4.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-1.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-2.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-3.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-4.md) -->
 
 ---
 
@@ -177,8 +177,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 {
   "title": "Top Docker and Docker Desktop alternatives",
   "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
-  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```
@@ -452,8 +452,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ## iximiuz Labs - Learning-by-Doing Platform to master Cloud Native craft
 
-- [How to Learn the Main Docker Commands Without Brute-Force Memorization](https://labs.iximiuz.com/tutorials/docker-container-management-command) <!-- TODO: 작성 (/explore/articles/labs.iximiuz.com/docker-container-management-command.md) -->
-- [How Container Networking Works: a Docker Bridge Network From Scratch](https://labs.iximiuz.com/tutorials/container-networking-from-scratch) <!-- TODO: 작성 (/explore/articles/labs.iximiuz.com/container-networking-from-scratch.md) -->
+- [How to Learn the Main Docker Commands Without Brute-Force Memorization](https://labs.iximiuz.com/tutorials/docker-container-management-command) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/labs.iximiuz.com/docker-container-management-command.md) -->
+- [How Container Networking Works: a Docker Bridge Network From Scratch](https://labs.iximiuz.com/tutorials/container-networking-from-scratch) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/labs.iximiuz.com/container-networking-from-scratch.md) -->
 
 ---
 

@@ -45,7 +45,7 @@ head:
 {
   "title": "Get started with Quarkus and JPAStreamer",
   "desc": "In the world of software development, innovation often arrives in the form of powerful tools that transform the way we build applications - enter Quarkus, a development platform that's reshaping the Java landscape.  If you are new...",
-  "link": "/explore/articles/freecodecamp.org/get-started-with-quarkus-and-jpastreamer-2/README.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/get-started-with-quarkus-and-jpastreamer-2/README.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -58,13 +58,13 @@ head:
 
 ## YOZM
 
-- [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (/explore/articles/yozm.wishket.com/2300.md) -->
+- [사용자를 '중독'시키는 UX 전략](https://yozm.wishket.com/magazine/detail/2300/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2300.md) -->
 
 ---
 
 ## tech.inflab.com
 
-- [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/) <!-- TODO: 작성 (/explore/articles/tech.inflab.com/20240224-design-system.md) -->
+- [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.inflab.com/20240224-design-system.md) -->
 
 ---
 
@@ -79,43 +79,43 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [실시간 댓글 개발기(part.1) - DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/posts/390) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/390.md) -->
-- [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457) <!-- TODO: 작성 (/explore/articles/tech.kakao.com/457.md) -->
+- [실시간 댓글 개발기(part.1) - DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/posts/390) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/390.md) -->
+- [이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/posts/457) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/457.md) -->
 
 ### 카카오엔터프라이즈 기술블로그 Tech&(테크앤)
 
-- [\[TW\] 기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/65.md) -->
-- [\[TW\] 기술문서 쉽게 쓰기 지침](https://tech.kakaoenterprise.com/105) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/105.md) -->
-- [\[TW\] Release Note 톺아보기](https://tech.kakaoenterprise.com/113) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/113.md) -->
-- [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (/explore/articles/tech.kakaoenterprise.com/129.md) -->
+- [\[TW\] 기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaoenterprise.com/65.md) -->
+- [\[TW\] 기술문서 쉽게 쓰기 지침](https://tech.kakaoenterprise.com/105) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaoenterprise.com/105.md) -->
+- [\[TW\] Release Note 톺아보기](https://tech.kakaoenterprise.com/113) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaoenterprise.com/113.md) -->
+- [\[TW\] Troubleshooting 가이드 톺아보기](https://tech.kakaoenterprise.com/129) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaoenterprise.com/129.md) -->
 
 ---
 
 ## Blog - LINE ENGINEERING
 
-- [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/think-differently-to-solve-problems.md) -->
-- [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/6-practices-of-reducing-line-infra-costs.md) -->
-- [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/data-analytics-platform-lua-analytics.md) -->
-- [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
+- [문제를 해결할 때 사고가 중요한 이유](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/think-differently-to-solve-problems.md) -->
+- [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/6-practices-of-reducing-line-infra-costs.md) -->
+- [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/data-analytics-platform-lua-analytics.md) -->
+- [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까?](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/why-are-engineers-so-bad-at-writing.md) -->
 
 ---
 
 ## 뱅크셀러드
 
-- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker) <!-- TODO: 작성 (/explore/articles/blog.banksalad.com/url-status-checker.md) -->
+- [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기](https://blog.banksalad.com/tech/url-status-checker) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/blog.banksalad.com/url-status-checker.md) -->
 
 ---
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)<!-- TODO: 작성 (/explore/articles/d2.naver.com/6070967.md) -->
-- [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943) <!-- TODO: 작성 (/explore/articles/d2.naver.com/7847943.md) -->
+- [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/6070967.md) -->
+- [글로벌 네트워크 에뮬레이터 prism_pacman 소개](https://d2.naver.com/helloworld/7847943) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/7847943.md) -->
 
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [서머타임과 배치작업](https://meetup.nhncloud.com/posts/232) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/232.md) -->
+- [서머타임과 배치작업](https://meetup.nhncloud.com/posts/232) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/232.md) -->
 
 ---
 
@@ -150,7 +150,7 @@ head:
 {
   "title": "동일한 비용으로 리포트 요청 10배 처리하기",
   "desc": "늘어난 Report 요청으로 인해 증가했던 비용을 줄이기 위해 개선했던 내용을 공유합니다.",
-  "link": "/explore/articles/engineering.ab180.co/improve-performance-airbridge-report-worker.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.ab180.co/improve-performance-airbridge-report-worker.md",
   "logo": "https://oopy.lazyrockets.com/api/rest/cdn/image/7bbc75b5-1cdf-4b59-aec4-af3e335b3aad.png?d=16",
   "background": "rgba(11,110,153,0.2)"
 }
@@ -166,7 +166,7 @@ head:
 
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
-- [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3) <!-- TODO: 작성 (/explore/articles/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
+- [`towardsdatascience` / Ace the System Design Interview — Uber/Lyft](https://towardsdatascience.com/ace-the-system-design-interview-uber-lyft-7e4c212734b3) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/towardsdatascience.com/ace-the-system-design-interview-uber-lyft.md) -->
 - [`coupang-engineering` / 캐시를 활용한 대용량 트래픽 처리 성능 향상](https://medium.com/coupang-engineering/%EC%BA%90%EC%8B%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81-a274f4731d07#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)- [`coupang-engineering` / 대용량 트래픽 처리를 위한 쿠팡의 백엔드 전략](https://medium.com/coupang-engineering/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BF%A0%ED%8C%A1%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%A0%84%EB%9E%B5-184f7fdb1367#%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 - [`monday9pm` / Data Lake 구조 설계 with Serverless](https://monday9pm.com/data-lake-%EA%B5%AC%EC%A1%B0-%EC%84%A4%EA%B3%84with-serverless-1c733f6c258)
 - [`@mananshah3654` / A Brief History of Airbnb’s Architecture](https://medium.com/@mananshah3654/a-brief-history-of-airbnbs-architecture-bce6d0405f9c)
@@ -454,7 +454,7 @@ head:
 
 ## Spoqa 기술 블로그
 
-- [서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html) <!-- TODO: 작성 (/explore/articles/spoqa.github.io/all-new-server.md) -->
+- [서버 언어 전환 이야기](https://spoqa.github.io/2022/04/15/all-new-server.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/spoqa.github.io/all-new-server.md) -->
 
 ---
 

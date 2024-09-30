@@ -37,8 +37,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -52,7 +52,7 @@ head:
 {
   "title": "Apache Cassandra 톺아보기 - 1편 | NHN Cloud Meetup",
   "desc": "Apache Cassandra 톺아보기 - 1편",
-  "link": "/explore/articles/meetup.nhncloud.com/58.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/58.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -62,7 +62,7 @@ head:
 {
   "title": "Apache Cassandra 톺아보기 - 2편 | NHN Cloud Meetup",
   "desc": "Apache Cassandra 톺아보기 - 2편",
-  "link": "/explore/articles/meetup.nhncloud.com/60.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/60.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -72,7 +72,7 @@ head:
 {
   "title": "Apache Cassandra 톺아보기 - 3편 | NHN Cloud Meetup",
   "desc": "Apache Cassandra 톺아보기 - 3편",
-  "link": "/explore/articles/meetup.nhncloud.com/65.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/65.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -90,8 +90,8 @@ head:
 {
   "title": "NoSQL 가용성과 운영 안정성 | NAVER D2",
   "desc": "NoSQL 가용성과 운영 안정성",
-  "link": "/explore/articles/d2.naver.com/1039.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1039.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

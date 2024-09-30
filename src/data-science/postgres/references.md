@@ -32,7 +32,7 @@ head:
 {
   "title": "Advanced Indexing Strategies in PostgreSQL",
   "desc": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a...",
-  "link": "/explore/articles/freecodecamp.org/postgresql-indexing-strategies.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/postgresql-indexing-strategies.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

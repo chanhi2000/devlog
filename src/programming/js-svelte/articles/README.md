@@ -42,8 +42,8 @@ head:
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
   desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
   url="https://blog.logrocket.com/dev"
-  logo="/images/content/blog.logrocket.com/favicon.png"
-  preview="/images/content/blog.logrocket.com/banner.png"/>
+  logo="blog.logrocket.com/favicon.png"
+  preview="blog.logrocket.com/banner.png"/>
 
 [[toc]]
 
@@ -57,7 +57,7 @@ head:
 {
   "title": "Using Auth.js with SvelteKit",
   "desc": "We'll look at how to use @auth/core, add a Google Provider, and get our sessions persisting in DynamoDB. There is a GitHub repo for reference on everything.",
-  "link": "/explore/articles/frontendmasters.com/using-nextauth-now-auth-js-with-sveltekit.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/using-nextauth-now-auth-js-with-sveltekit.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -75,8 +75,8 @@ head:
 {
   "title": "Building a full-stack app with Bud and Go",
   "desc": "Build a full-stack app using Bud, the new Go framework, with its built-in functionality for frontend development using Svelte.",
-  "link": "/explore/articles/blog.logrocket.com/full-stack-bud-go.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/full-stack-bud-go.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```

@@ -43,7 +43,7 @@ head:
 
 ## Toast UI
 
-- [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/posts/ko_20190531) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20190531.md) -->
+- [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/posts/ko_20190531) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20190531.md) -->
 
 ---
 
@@ -63,7 +63,7 @@ head:
 
 ## Blog - LINE ENGINEERING
 
-- [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/improve-line-search-ui.md) -->
+- [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/improve-line-search-ui.md) -->
 
 ---
 

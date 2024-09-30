@@ -65,8 +65,8 @@ head:
 {
   "title": "How to Deploy Your Node.js App on Azure",
   "desc": "The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more...",
-  "link": "/explore/articles/code-maze.com/how-to-deploy-node-js-app-on-azure.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/how-to-deploy-node-js-app-on-azure.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -83,7 +83,7 @@ head:
 {
   "title": "개발자에게 '코드 스타일' 왜 중요할까? | 요즘IT",
   "desc": "개발자에게 '코드 스타일' 왜 중요할까?",
-  "link": "/explore/articles/yozm.wishket.com/2499.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2499.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -99,7 +99,7 @@ head:
 {
   "title": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 | NHN Cloud Meetup",
   "desc": "VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기",
-  "link": "/explore/articles/meetup.nhncloud.com/283.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/283.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }

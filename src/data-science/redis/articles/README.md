@@ -63,7 +63,7 @@ head:
 {
   "title": "Caching in ASP.NET Core: Improving Application Performance",
   "desc": "Caching is one of the simplest techniques to significantly improve your application's performance. In this newsletter, we will explore how to implement caching in ASP.NET Core applications.",
-  "link": "/explore/articles/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/caching-in-aspnetcore-improving-application-performance.md",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -73,7 +73,7 @@ head:
 {
   "title": "Simple Messaging in .NET With Redis Pub/Sub",
   "desc": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications.",
-  "link": "/explore/articles/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",
+  "link": "https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/simple-messaging-in-dotnet-with-redis-pubsub.md",
   "logo": "https://milanjovanovic.tech/profile_favicon.png",
   "background": "rgba(79,70,229,0,2)"
 }
@@ -91,7 +91,7 @@ head:
 {
   "title": "Spring Boot와 Redis로 캐싱 구현하기 | 요즘IT",
   "desc": "Spring Boot와 Redis로 캐싱 구현하기",
-  "link": "/explore/articles/yozm.wishket.com/2296.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2296.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

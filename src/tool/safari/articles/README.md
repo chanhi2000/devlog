@@ -59,7 +59,7 @@ head:
 {
   "title": "Debug your Safari Web Apps on macOS",
   "desc": "Devtools Tips > Debug your Safari Web Apps on macOS",
-  "link": "/explore/articles/devtoolstips.org/debug-safari-mac-webapps/",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/debug-safari-mac-webapps/",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }

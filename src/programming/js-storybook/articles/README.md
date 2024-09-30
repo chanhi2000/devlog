@@ -32,8 +32,8 @@ head:
   name="TOAST UI :: Make Your Web Delicious!"
   desc="TOAST UI is an open-source JavaScript UI library maintained by NHN Cloud."
   url="https://ui.toast.com/"
-  logo="/images/content/ui.toast.com/favicon.ico"
-  preview="/images/content/ui.toast.com/banner.png"/>
+  logo="ui.toast.com/favicon.ico"
+  preview="ui.toast.com/banner.png"/>
 
 [[toc]]
 
@@ -47,8 +47,8 @@ head:
 {
   "title": "스토리북으로 인터랙션 테스트하기 | TOAST UI",
   "desc": "스토리북으로 자동화 테스트를 작성하는 방법, Interactive Stories 기능 등을 활용하여 컴포넌트의 인터랙션을 자동으로 재생하는 방법, 그리고 E2E 도구를 결합하여 테스트하는 방법 소개",
-  "link": "/explore/articles/ui.toast.com/20220111.md",
-  "logo": "/images/content/ui.toast.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/ui.toast.com/20220111.md",
+  "logo": "ui.toast.com/favicon.ico",
   "background": "rgba(109,116,227,0.2)"
 }
 ```

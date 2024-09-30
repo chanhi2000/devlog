@@ -86,7 +86,7 @@ head:
     - property: og:description
       content: "${meta.title}"
     - property: og:url
-      content: https://chanhi2000.github.io/explore/articles/${meta.articleBasePath}/${meta.articlePath}.html
+      content: https://chanhi2000.github.iohttps://chanhi2000.github.io/bookshelf/${meta.articleBasePath}/${meta.articlePath}.html
 prev: ${_relatedPath}/articles/README.md
 date: ${meta.datePublished}
 isOriginal: false
@@ -132,7 +132,7 @@ export const createEndMatter = (meta) => {
 {
   "title": "${meta.title}",
   "desc": "${meta.description}",
-  "link": "/explore/articles/${meta.articleBasePath}/${meta.articlePath}.md",
+  "link": "https://chanhi2000.github.io/bookshelf/${meta.articleBasePath}/${meta.articlePath}.html",
   "logo": "${meta.logo}",
   "background": "rgba(${meta.bgRGBA},0.2)"
 }

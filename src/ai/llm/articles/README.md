@@ -55,8 +55,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  lokafka="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico"
+  preview="https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -70,7 +70,7 @@ head:
 {
   "title": "How to Use AI to Automate Unit Testing with TestGen-LLM and Cover-Agent",
   "desc": "PytIt's important to write clear and efficient unit tests that actually work during the software development process. Unit tests separate out individual code elements and confirm that they work as intended.  Effective unit tests not only catch errors but also help you be confident that your code can be...",
-  "link": "/explore/articles/freecodecamp.org/automated-unit-testing-with-testgen-llm-and-cover-agent.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/automated-unit-testing-with-testgen-llm-and-cover-agent.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -80,7 +80,7 @@ head:
 {
   "title": "Next-Gen Large Language Models: The Retrieval-Augmented Generation (RAG) Handbook",
   "desc": "Retrieval Augmented Generation (RAG) signifies a transformative advancement in large language models (LLMs). It combines the generative prowess of transformer architectures with dynamic information retrieval.  This integration allows LLMs to access and incorporate relevant external knowledge during text generation, resulting in outputs that are more accurate, contextual, and factually...",
-  "link": "/explore/articles/freecodecamp.org/retrieval-augmented-generation-rag-handbook.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/retrieval-augmented-generation-rag-handbook.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -90,7 +90,7 @@ head:
 {
   "title": "Building Intelligent Apps with Mistral AI",
   "desc": "Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...",
-  "link": "/explore/articles/freecodecamp.org/building-intelligent-apps-with-mistral-ai.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/building-intelligent-apps-with-mistral-ai.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -100,7 +100,7 @@ head:
 {
   "title": "Learn RAG Fundamentals and Advanced Techniques",
   "desc": "Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...",
-  "link": "/explore/articles/freecodecamp.org/learn-rag-fundamentals-and-advanced-techniques.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-rag-fundamentals-and-advanced-techniques.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -110,7 +110,7 @@ head:
 {
   "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
   "desc": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",
-  "link": "/explore/articles/freecodecamp.org/a-beginners-guide-to-large-language-models.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/a-beginners-guide-to-large-language-models.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -119,7 +119,7 @@ head:
 {
   "title": "How to Start Building Projects with LLMs",
   "desc": "If you’re an aspiring AI professional, becoming an LLM engineer offers an exciting and promising career path. But where should you start? What should your trajectory look like? How should you learn? In one of my previous posts, I laid out the complet...",
-  "link": "/explore/articles/freecodecamp.org/how-to-start-building-projects-with-llms.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-start-building-projects-with-llms.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -137,7 +137,7 @@ head:
 {
   "title": "눈과 귀가 달린 LLM, 멀티모달 AI | 요즘IT",
   "desc": "눈과 귀가 달린 LLM, 멀티모달 AI",
-  "link": "/explore/articles/yozm.wishket.com/2641.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2641.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -147,7 +147,7 @@ head:
 {
   "title": "AI는 왜 잘못된 답변을 할까? AI 할루시네이션과 해결책 | 요즘IT",
   "desc": "AI는 왜 잘못된 답변을 할까? AI 할루시네이션과 해결책",
-  "link": "/explore/articles/yozm.wishket.com/2733.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2733.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -157,7 +157,7 @@ head:
 {
   "title": "AI 스마트폰의 핵심, LLM 경량화 테크닉| 요즘IT",
   "desc": "AI 스마트폰의 핵심, LLM 경량화 테크닉",
-  "link": "/explore/articles/yozm.wishket.com/2747.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2747.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -175,7 +175,7 @@ head:
 {
   "title": "함께 구매하면 좋은 상품이에요! - 장바구니 추천 개발기 1부 - 컬리 기술 블로그",
   "desc": "보완재 추천 모델을 적용하고 성과를 거둔 사례 소개",
-  "link": "/explore/articles/helloworld.kurly.com/cart-recommend-model-development.md",
+  "link": "https://chanhi2000.github.io/bookshelf/helloworld.kurly.com/cart-recommend-model-development.md",
   "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
   "background": "rgba(104,14,135,0.2)"
 }
@@ -193,8 +193,8 @@ head:
 {
   "title": "Writing Path: MBTI J처럼 체계적으로 글쓰는 AI | NAVER D2",
   "desc": "Writing Path: MBTI J처럼 체계적으로 글쓰는 AI",
-  "link": "/explore/articles/d2.naver.com/8011540.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/8011540.md",
+  "logo": "https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico",
   "background": "rgba(17,168,89,0.2)"
 }
 ```

@@ -37,7 +37,7 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/239.md) -->
+- [JWT를 소개합니다.](https://meetup.nhncloud.com/posts/239) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/239.md) -->
 
 ---
 

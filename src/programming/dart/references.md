@@ -33,13 +33,13 @@ tag:
 
 ## GS리테일 DX블로그
 
-- [Flutter 기반의 모바일 앱 재개발 회고](https://gsretail.tistory.com/7) <!-- TODO: 작성 (/explore/articles/gsretail.tistory.com/7.md) -->
+- [Flutter 기반의 모바일 앱 재개발 회고](https://gsretail.tistory.com/7) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/gsretail.tistory.com/7.md) -->
 
 ---
 
 ## Blog - LINE ENGINEERING
 
-- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/flutter-pros-and-cons.md) -->
+- [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/flutter-pros-and-cons.md) -->
 
 ---
 

@@ -57,7 +57,7 @@ head:
 {
   "title": "How to Perform Load Testing in Spring Boot with Gatling",
   "desc": "To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala  called Gatling. This article will teach you how to integrate it into a Spring Boot  application",
-  "link": "/explore/articles/freecodecamp.org/how-to-integrate-spring-boot-with-gatling.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-integrate-spring-boot-with-gatling.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

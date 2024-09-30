@@ -57,10 +57,10 @@ tag:
 
 ## 우아한형제들
 
-- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2579.md) -->
-- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2625.md) -->
-- ['Gradle Kotlin DSL' 이야기](https://techblog.woowahan.com/2625) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/2658.md) -->
-- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658) <!-- TODO: 작성 (/explore/articles/techblog.woowahan.com/9440.md) -->
+- [라이더스 개발팀 모바일에서 CI/CD 도입](https://techblog.woowahan.com/2579) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2579.md) -->
+- [Kotlin 테스트 코드 자동화 Intellij 플러그인 개발기](https://techblog.woowahan.com/9440) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2625.md) -->
+- ['Gradle Kotlin DSL' 이야기](https://techblog.woowahan.com/2625) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2658.md) -->
+- [Cucumber + Appium을 통해 Android 앱 테스트](https://techblog.woowahan.com/2658) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/9440.md) -->
 
 ---
 
@@ -80,13 +80,13 @@ tag:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-[[Kotlin] 메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다.](https://meetup.nhncloud.com/posts/186) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/186.md) -->
+[[Kotlin] 메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다.](https://meetup.nhncloud.com/posts/186) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/186.md) -->
 
 ---
 
 ## Blog - LINE ENGINEERING
 
-- [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/line-device-attestation-1.md) -->
+- [기기와 앱의 무결성 보장부터 서비스 요청 보호까지: LINE의 기기 증명 서비스 - 1편](https://techblog.lycorp.co.jp/ko/line-device-attestation-1) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/line-device-attestation-1.md) -->
 
 ---
 
@@ -516,7 +516,7 @@ tag:
 
 ## Antonio Leiva - Android & Kotlin GDE | JetBrains Training Partner
 
-- [Kotlin recipes for Android (I): `OnGlobalLayoutListener`](/explore/articles/antonioleiva.com/kotlin-ongloballayoutlistener.md)
+- [Kotlin recipes for Android (I): `OnGlobalLayoutListener`](https://chanhi2000.github.io/bookshelf/antonioleiva.com/kotlin-ongloballayoutlistener.md)
 
 ---
 

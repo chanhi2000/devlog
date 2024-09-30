@@ -43,7 +43,7 @@ head:
 {
   "title": "How to Handle Concurrency with Goroutines and Channels in Go",
   "desc": "Concurrency is the ability of a program to perform multiple tasks simultaneously. It is a crucial aspect of building scalable and responsive systems.  Go's concurrency model is based on the concept of goroutines, lightweight threads that can run multiple functions concurrently, and channels, a built-in communication mechanism for safe...",
-  "link": "/explore/articles/freecodecamp.org/how-to-handle-concurrency-in-go.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-handle-concurrency-in-go.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

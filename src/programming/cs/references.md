@@ -175,7 +175,7 @@ head:
 
 ## Milan Jovanović | Helping You Become a Better .NET Engineer
 
-- [How to Build a URL Shortener With .NET](https://milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet) <!-- TODO: 작성 (/explore/articles/milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet.md) -->
+- [How to Build a URL Shortener With .NET](https://milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet.md) -->
 
 ---
 
@@ -437,8 +437,8 @@ head:
 
 ## Sitepoint
 
-- [.NET Blazor Overview and Upcoming .NET 8 Changes](https://sitepoint.com/net-blazor-overview/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/net-blazor-overview.md) -->
-- [.NET 8: Blazor Render Modes Explained](https://sitepoint.com/net-8-blazor-render-modes-explained) <!-- TODO: 작성 (/explore/articles/sitepoint.com/net-8-blazor-render-modes-explained.md) -->
+- [.NET Blazor Overview and Upcoming .NET 8 Changes](https://sitepoint.com/net-blazor-overview/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/net-blazor-overview.md) -->
+- [.NET 8: Blazor Render Modes Explained](https://sitepoint.com/net-8-blazor-render-modes-explained) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/net-8-blazor-render-modes-explained.md) -->
 
 ---
 

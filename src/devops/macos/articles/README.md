@@ -53,7 +53,7 @@ head:
 {
   "title": "Mac Control Keyboard Shortcuts – Hotkeys that Work Everywhere in MacOS",
   "desc": "MacOS has several keyboard shortcuts that work everywhere – in your browser, in your terminal, in any place where you can input text. I call these the Control Hotkeys since they all involve holding the Control key. These shortcuts seem to originate…",
-  "link": "/explore/articles/freecodecamp.org/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/mac-control-keyboard-shortcuts-hotkeys-that-work-everywhere-in-macos.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -63,7 +63,7 @@ head:
 {
   "title": "How to Install Python on a Mac",
   "desc": "Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set",
-  "link": "/explore/articles/freecodecamp.org/how-to-install-python-on-a-mac.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-install-python-on-a-mac.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -73,7 +73,7 @@ head:
 {
   "title": "How to Fix Common Python Installation Errors on macOS",
   "desc": "thon's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled 'How to Install Python on a Mac', which provides a clear guide to installing Python...",
-  "link": "/explore/articles/freecodecamp.org/how-to-fix-python-installation-errors-on-mac.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-fix-python-installation-errors-on-mac.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -91,7 +91,7 @@ head:
 {
   "title": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64) | 요즘IT",
   "desc": "새로 산 맥북으로 쿠버네티스 클러스터 구축하기 (feat. arm64)",
-  "link": "/explore/articles/yozm.wishket.com/2658.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2658.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

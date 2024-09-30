@@ -299,7 +299,7 @@ head:
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
+- [Automating Screen Reader Testing On macOS Using Auto VO](https://www.smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/smashingmagazine.com/automating-screen-reader-testing-macos-autovo.md) -->
 
 ---
 

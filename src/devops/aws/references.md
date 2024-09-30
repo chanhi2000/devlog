@@ -55,7 +55,7 @@ head:
 {
   "title": "AWS Personalize 활용한 개인화 추천 서비스 론칭기 | 요즘IT",
   "desc": "AWS Personalize 활용한 개인화 추천 서비스 론칭기",
-  "link": "/explore/articles/yozm.wishket.com/2443.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2443.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -71,7 +71,7 @@ head:
 
 ## AB180 엔지니어링 베이스 | 기술블로그
 
-- [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/aws-alert-iac.md) -->
+- [AWS Chatbot을 이용한 Slack alert, 근데 이제 PagerDuty와 Terraform을 곁들인](https://engineering.ab180.co/stories/aws-alert-iac) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.ab180.co/aws-alert-iac.md) -->
 
 ---
 
@@ -83,10 +83,10 @@ head:
 
 ## Popit | 전문 지식 공유를 위한 팀블로그
 
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-1.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-2.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-3.md) -->
-- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/) <!-- TODO: 작성 (/explore/articles/popit.kr/how-to-build-server-quickly-4.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-1.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-2%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-2.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-3.md) -->
+- [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/popit.kr/how-to-build-server-quickly-4.md) -->
 
 ---
 
@@ -312,8 +312,8 @@ head:
 
 ## 브랜디 랩스(Brandi Labs)
 
-- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/leejp.md) -->
-- [Serverless 환경에서 수행시간이 긴 작업 처리하기](https://labs.brandi.co.kr/2021/05/31/kimms4.html) <!-- TODO: 작성 (/explore/articles/labs.brandi.co.kr/kimms4.md) -->
+- [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](https://labs.brandi.co.kr/2020/06/09/leejp.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/labs.brandi.co.kr/leejp.md) -->
+- [Serverless 환경에서 수행시간이 긴 작업 처리하기](https://labs.brandi.co.kr/2021/05/31/kimms4.html) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/labs.brandi.co.kr/kimms4.md) -->
 
 ---
 

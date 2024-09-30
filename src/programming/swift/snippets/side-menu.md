@@ -20,7 +20,7 @@ tag:
 
 ## Preview
 
-![](/images/content/instagram/CEBRs2fABux/preview.gif)
+<!-- ![](instagram/CEBRs2fABux/preview.gif) -->
 
 ::: tabs
 

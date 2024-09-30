@@ -30,7 +30,7 @@ head:
 
 ## ZUM 기술 블로그
 
-- [검색 데이터 서빙 플랫폼 구축](https://zuminternet.github.io/SearchPilotProject) <!-- TODO: 작성 (/explore/articles/zuminternet.github.io/search-pilot-project.md) -->
+- [검색 데이터 서빙 플랫폼 구축](https://zuminternet.github.io/SearchPilotProject) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/zuminternet.github.io/search-pilot-project.md) -->
 
 ---
 

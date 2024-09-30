@@ -37,15 +37,15 @@ head:
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [라이트하우스 6.0에서 바뀐 성능 지표변화](https://meetup.nhncloud.com/posts/242) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/242.md) -->
+- [라이트하우스 6.0에서 바뀐 성능 지표변화](https://meetup.nhncloud.com/posts/242) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/242.md) -->
 
 ---
 
 ## LY Corporation Tech Blog
 
-- [HeadVer - 기민한 프로덕트 팀을 위한 새로운 버저닝 시스템](https://techblog.lycorp.co.jp/ko/headver-new-versioning-system-for-product-teams) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/headver-new-versioning-system-for-product-teams.md) -->
+- [HeadVer - 기민한 프로덕트 팀을 위한 새로운 버저닝 시스템](https://techblog.lycorp.co.jp/ko/headver-new-versioning-system-for-product-teams) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/headver-new-versioning-system-for-product-teams.md) -->
 - [오픈소스 ABC User Feedback에 적용한 모노리포 구조 소개](https://techblog.lycorp.co.jp/ko/monorepo-structure-for-abc-user-feedback)
-<!-- (TODO: 작성 (/explore/articles/engineering.linecorp.com/monorepo-structure-for-abc-user-feedback.md) -->
+<!-- (TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/monorepo-structure-for-abc-user-feedback.md) -->
 
 ---
 
@@ -57,7 +57,7 @@ head:
 {
   "title": "패키지 매니저의 과거, 토스의 선택, 그리고 미래",
   "desc": "토스는 왜 패키지 매니저로 Yarn을 선택했을까요? 이번 라이트닝 토크에서는 JavaScript의 패키지 매니저, 동작 방식, 그리고 토스의 선택과 앞으로의 방향성에 대해 이야기해 보려고 해요.",
-  "link": "/explore/articles/toss.tech/lightning-talks-package-manager.md",
+  "link": "https://chanhi2000.github.io/bookshelf/toss.tech/lightning-talks-package-manager.md",
   "logo": "https://static.toss.im/tds/favicon/favicon.ico",
   "background": "rgba(88,176,209,0.2)"
 }

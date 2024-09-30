@@ -96,13 +96,13 @@ tag:
 
 ## AB180 엔지니어링 베이스
 
-- [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo) <!-- TODO: 작성 (/explore/articles/engineering.ab180.co/airbridge-api-monorepo.md) -->
+- [Airbridge API 개발팀의 Monorepo 도입기](https://engineering.ab180.co/stories/airbridge-api-monorepo) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.ab180.co/airbridge-api-monorepo.md) -->
 
 ---
 
 ## Blog - LINE ENGINEERING
 
-- [LINE 광고 서버 개발 팀의 DevOps 문화](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture) <!-- TODO: 작성 (/explore/articles/engineering.linecorp.com/line-ads-devops-culture.md) -->
+- [LINE 광고 서버 개발 팀의 DevOps 문화](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/line-ads-devops-culture.md) -->
 
 ---
 

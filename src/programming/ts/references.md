@@ -63,7 +63,7 @@ head:
 
 ## 토스 기술 블로그, 토스 테크
 
-- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility) <!-- TODO: 작성 (/explore/articles/toss.tech/typescript-type-compatibility.md) -->
+- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/toss.tech/typescript-type-compatibility.md) -->
 
 ---
 
@@ -71,26 +71,26 @@ head:
 
 ### <FontIcon icon="iconfont icon-kakao"/>카카오엔터테인먼트 FE
 
-- [타입스크립트 꿀팁](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/) <!-- TODO: 작성 (/explore/articles/fe-developers.kakaoent.com/211012-typescript-tip.md) -->
+- [타입스크립트 꿀팁](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/211012-typescript-tip.md) -->
 
 ---
 
 ## TOAST UI :: Make Your Web Delicious!
 
-- [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅](https://ui.toast.com/weekly-pick/ko_20210526) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210526.md) -->
-- [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819) <!-- TODO: 작성 (/explore/articles/ui.toast.com/20210819.md) -->
+- [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅](https://ui.toast.com/weekly-pick/ko_20210526) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20210526.md) -->
+- [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/ui.toast.com/20210819.md) -->
 
 ---
 
 ## Smashing Magazine — For Web Designers And Developers
 
-- [How Marketing Changed OOP In JavaScript](https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/) <!-- TODO: 작성 (/explore/articles/smashingmagazine.com/marketing-changed-oop-javascript.md) -->
+- [How Marketing Changed OOP In JavaScript](https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/smashingmagazine.com/marketing-changed-oop-javascript.md) -->
 
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
 
-- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.nhncloud.com/posts/160) <!-- TODO: 작성 (/explore/articles/meetup.nhncloud.com/160.md) -->
+- [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.nhncloud.com/posts/160) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/160.md) -->
 
 ---
 
@@ -404,13 +404,13 @@ head:
 
 ## Scientyfic World • Content That Helps People
 
-- [How to optimize the React DOM size?](https://scientyficworld.org/how-to-optimize-the-dom-size-in-react-js) <!-- TODO: 작성 (/explore/articles/scientyficworld.org/how-to-optimize-the-dom-size-in-react-js.md) -->
+- [How to optimize the React DOM size?](https://scientyficworld.org/how-to-optimize-the-dom-size-in-react-js) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/scientyficworld.org/how-to-optimize-the-dom-size-in-react-js.md) -->
 
 ---
 
 ## Better Code & Better Software | Ultimate Security and Quality | Sonar
 
-- [Union, intersection, difference, and more are coming to JavaScript Sets](https://sonarsource.com/blog/union-intersection-difference-javascript-sets) <!-- TODO: 작성 (/explore/articles/sonarsource.com/union-intersection-difference-javascript-sets.md) -->
+- [Union, intersection, difference, and more are coming to JavaScript Sets](https://sonarsource.com/blog/union-intersection-difference-javascript-sets) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sonarsource.com/union-intersection-difference-javascript-sets.md) -->
 
 ---
 
@@ -574,7 +574,7 @@ head:
 
 ## SitePoint – Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 
-- [5 Ways to Make Your JavaScript More Functional](https://sitepoint.com/make-javascript-functional/) <!-- TODO: 작성 (/explore/articles/sitepoint.com/make-javascript-functional.md) -->
+- [5 Ways to Make Your JavaScript More Functional](https://sitepoint.com/make-javascript-functional/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/sitepoint.com/make-javascript-functional.md) -->
 
 ---
 

@@ -490,7 +490,7 @@ head:
 
 ## 데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티
 
-- [GPT-4와 함께하는 수능 국어 만점 도전: 프롬프트 학습 비법 공개](https://devocean.sk.com/blog/techBoardDetail.do?ID=166272) <!-- TODO: 작성 (/explore/articles/devocean.sk.com/166272.md) -->
+- [GPT-4와 함께하는 수능 국어 만점 도전: 프롬프트 학습 비법 공개](https://devocean.sk.com/blog/techBoardDetail.do?ID=166272) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/devocean.sk.com/166272.md) -->
 
 ---
 

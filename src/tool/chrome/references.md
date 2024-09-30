@@ -42,7 +42,7 @@ tag:
 {
   "title": "크롬 확장프로그램 개발⛏️ 회고",
   "desc": "Vue.js를 이용하여 줌 확장프로그램을 개발하는 과정에 대한 회고입니다.",
-  "link": "/explore/articles/zuminternet.github.io/zum-chrome-extension.md",
+  "link": "https://chanhi2000.github.io/bookshelf/zuminternet.github.io/zum-chrome-extension.md",
   "logo": "https://zuminternet.github.io/favicon.ico",
   "background": "rgba(30,45,56,0.2)"
 }
@@ -71,7 +71,7 @@ tag:
 {
   "title": "Chromium이 발표한 RenderingNG가 무엇인가? | NHN Cloud Meetup",
   "desc": "Chromium이 발표한 RenderingNG가 무엇인가?",
-  "link": "/explore/articles/meetup.nhncloud.com/293.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/293.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }

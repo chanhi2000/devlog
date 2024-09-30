@@ -48,7 +48,7 @@ head:
 {
   "title": "The End Of My Gatsby Journey — Smashing Magazine",
   "desc": "“Gatsby headaches” are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
-  "link": "/explore/articles/smashingmagazine.com/end-of-gatsby-journey.md",
+  "link": "https://chanhi2000.github.io/bookshelf/smashingmagazine.com/end-of-gatsby-journey.md",
   "logo": "https://smashingmagazine.com/images/favicon/favicon.svg",
   "background": "rgba(211,58,44,0.2)"
 }

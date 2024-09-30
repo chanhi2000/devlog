@@ -61,8 +61,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  lokafka="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  lokafka="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 ---
 
@@ -74,7 +74,7 @@ head:
 {
   "title": "How to Run SQL-Like Queries on C/C++ Files",
   "desc": "Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give",
-  "link": "/explore/articles/freecodecamp.org/run-sql-like-queries-on-cplusplus-files.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/run-sql-like-queries-on-cplusplus-files.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -84,7 +84,7 @@ head:
 {
   "title": "Learn CUDA Programming",
   "desc": "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...",
-  "link": "/explore/articles/freecodecamp.org/learn-cuda-programming.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-cuda-programming.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -102,7 +102,7 @@ head:
 {
   "title": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰 | 요즘IT",
   "desc": "'개발자가 수학에 투자하는 시간은 절대 낭비가 아닙니다' C++ 창시자 인터뷰",
-  "link": "/explore/articles/yozm.wishket.com/2093.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2093.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -112,7 +112,7 @@ head:
 {
   "title": "Rust는 C++을 대체할 수 있을까? | 요즘IT",
   "desc": "Rust는 C++을 대체할 수 있을까?",
-  "link": "/explore/articles/yozm.wishket.com/2635.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2635.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -127,7 +127,7 @@ head:
 <SiteInfo
   name="디스어셈블 프레임워크 Capstone-engine 활용하기 | NHN Cloud Meetup"
   desc="디스어셈블 프레임워크 Capstone-engine 활용하기"
-  url="/explore/articles/meetup.nhncloud.com/378.md"
+  url="https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/378.md"
   logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
   preview="https://image.toast.com/aaaadh/real/2024/techblog/NHN%20Cloudmeetup%20bannercapstone202403.png"/>
 
@@ -140,7 +140,7 @@ head:
   "title": "Virtual Thread의 기본 개념 이해하기 | NAVER D2",
   "desc": "Virtual Thread의 기본 개념 이해하기",
   "link": "https://d2.naver.com/helloworld/1203723",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

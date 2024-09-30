@@ -2,7 +2,7 @@ import { SidebarInfoTemplate } from ".";
 
 export const template: SidebarInfoTemplate = {
   name: 'd2.naver.com',
-  faviconPath: '/images/content/d2.naver.com/favicon.ico',
+  faviconPath: 'https://chanhi2000.github.io/bookshelf/assets/image/d2.naver.com/favicon.ico',
   linksMap: new Map([
     [
     "sh", [

@@ -46,7 +46,7 @@ head:
 {
   "title": "Master Video Editing with DaVinci Resolve",
   "desc": "DaVinci Resolve is a popular video editing software that is often used to edit feature films. There is also a super powerful free version. DaVinci Resolve is a great software to use for video editing. We just published a course on the freeCodeCamp.or...",
-  "link": "/explore/articles/freecodecamp.org/master-video-editing-with-davinci-resolve.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/master-video-editing-with-davinci-resolve.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

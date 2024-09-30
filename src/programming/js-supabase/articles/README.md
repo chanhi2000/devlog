@@ -58,7 +58,7 @@ head:
 {
   "title": "How to Quickly Add Auth to your Flutter Apps with Supabase Auth UI",
   "desc": "In this article, you will learn how to use Supabase's auth package [https://pub.dev/packages/supabase_auth_ui] to quickly and efficiently add authentication functionality to your Flutter apps. We will go through the entire process, from setting up a Flutter project to configuring Email/Password, OAuth, and Magic link flows. In the end, you'll have...",
-  "link": "/explore/articles/freecodecamp.org/add-auth-to-flutter-apps-with-supabase-auth-ui.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/add-auth-to-flutter-apps-with-supabase-auth-ui.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -68,7 +68,7 @@ head:
 {
   "title": "Build a YouTube Clone with Flutter, Firebase, and Riverpod",
   "desc": "We just released a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a full stack application. This beginner-friendly course will guide you through the process of creating a fully functional YouTube clone app, utiliz...",
-  "link": "/explore/articles/freecodecamp.org/build-a-youtube-clone-with-flutter-firebase-and-riverpod.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-a-youtube-clone-with-flutter-firebase-and-riverpod.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

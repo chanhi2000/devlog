@@ -67,7 +67,7 @@ head:
 {
   "title": "Learn to Use the Gemini AI MultiModal Model",
   "desc": "Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...",
-  "link": "/explore/articles/freecodecamp.org/learn-to-use-the-gemini-ai-multimodal-model.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-to-use-the-gemini-ai-multimodal-model.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -85,7 +85,7 @@ head:
 {
   "title": "‘대체 불가 개발자’를 만드는 4가지 제미나이 활용법 | 요즘IT",
   "desc": "‘대체 불가 개발자’를 만드는 4가지 제미나이 활용법",
-  "link": "/explore/articles/yozm.wishket.com/2655.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2655.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -103,7 +103,7 @@ head:
 {
   "title": "BigQuery와 Gemini로 리뷰 분석 업무 자동화하기 - 컬리 기술 블로그",
   "desc": "BigQuery에서 LLM 모델 Gemini Pro 활용법 소개",
-  "link": "/explore/articles/helloworld.kurly.com/bigquery-gemini-review.md",
+  "link": "https://chanhi2000.github.io/bookshelf/helloworld.kurly.com/bigquery-gemini-review.html",
   "logo": "https://helloworld.kurly.com/assets/logo/ico_192.png",
   "background": "rgba(104,14,135,0.2)"
 }

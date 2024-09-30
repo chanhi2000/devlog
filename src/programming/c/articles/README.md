@@ -79,7 +79,7 @@ head:
 {
   "title": "Complete C Programming Course from Dr. Chuck",
   "desc": "We just released a comprehensive C course on the freeCodeCamp.org YouTube channel. This course, developed by Dr. Charles Severance (aka Dr. Chuck), is designed to help you understand computer architecture and low-level programming using the classic C...",
-  "link": "/explore/articles/freecodecamp.org/complete-c-programming-course-from-dr-chuck.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/complete-c-programming-course-from-dr-chuck.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -91,12 +91,11 @@ head:
 
 > kodeco.com
 
-
 ```component VPCard
 {
   "title": "Unsafe Swift: Using Pointers and Interacting With C",
   "desc": "In this tutorial, you’ll learn how to use unsafe Swift to directly access memory through a variety of pointer types.",
-  "link": "/explore/articles/kodeco.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c.md",
+  "link": "https://chanhi2000.github.io/bookshelf/kodeco.com/7181017-unsafe-swift-using-pointers-and-interacting-with-c.html",
   "logo": "https://kodeco.com/apple-touch-icon.png",
   "background": "rgba(252,78,2,0.2)"
 }
@@ -111,7 +110,7 @@ head:
 <SiteInfo
   name="Firmware Command Injection을 알아보자! | NHN Cloud Meetup"
   desc="Firmware Command Injection을 알아보자!"
-  url="/explore/articles/meetup.nhncloud.com/376.md"
+  url="https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/376.md"
   logo="https://meetup.nhncloud.com/resources/img/favicon.ico"
   preview="https://image.toast.com/aaaadh/real/2023/techblog/NHNuD074uB77CuC6B0uB4DC%20MeetupFirmware%20Command%20InjectionuC744%20uC54CuC544uBCF4uC790uC12CuB124uC77C231128.jpg"/>
 
@@ -125,7 +124,7 @@ head:
 {
   "title": "[SaaS] 시간여행이 가능한 시스템 아키텍처",
   "desc": "복잡한 의료 도메인에 Event Sourcing 적용 by 강남언니 블로그",
-  "link": "/explore/articles/blog.gangnamunni.com/saas-event-sourcing.md",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.gangnamunni.com/saas-event-sourcing.html",
   "logo": "https://blog.gangnamunni.com/favicon.ico",
   "background": "rgba(255,84,15,0.2)"
 }
@@ -141,7 +140,7 @@ head:
 {
   "title": "비동기 서버에서 이벤트 루프를 블록하면 안 되는 이유 1부 - 멀티플렉싱 기반의 다중 접속 서버로 가기까지",
   "desc": "안녕하세요. MSE2(Messaging Server Engineering 2)에서 인증 도메인을 개발하고 있는 김종민입니다. LINE에서는 서버 개발에 비동기 서버사이드 프레임워크인 Armeria를 적극 사용하고 있습니다. Armeria와 같은 비동기 서버를 ...",
-  "link": "/explore/articles/engineering.linecorp.com/do-not-block-the-event-loop-part1.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/do-not-block-the-event-loop-part1.html",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
 }

@@ -58,8 +58,8 @@ head:
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 ```component VPCard
 {
@@ -83,7 +83,7 @@ head:
 {
   "title": "How to Loop Through Arrays in JavaScript",
   "desc": "Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array",
-  "link": "/explore/articles/freecodecamp.org/loop-through-arrays-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/loop-through-arrays-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -93,7 +93,7 @@ head:
 {
   "title": "How to Create an Interactive Terminal-Based Portfolio Website",
   "desc": "In this article, you will learn how to create an interactive terminal-based portfolio and résumé in JavaScript. We'll use the jQuery Terminal library (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal",
-  "link": "/explore/articles/freecodecamp.org/how-to-create-interactive-terminal-based-portfolio.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-interactive-terminal-based-portfolio.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -103,7 +103,7 @@ head:
 {
   "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
   "desc": "JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and",
-  "link": "/explore/articles/freecodecamp.org/higher-order-functions-explained.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/higher-order-functions-explained.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -113,7 +113,7 @@ head:
 {
   "title": "How Do Closures Work in JavaScript? Explained with Code Examples",
   "desc": "Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted...",
-  "link": "/explore/articles/freecodecamp.org/understand-javascript-closures.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/understand-javascript-closures.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -123,7 +123,7 @@ head:
 {
   "title": "JavaScript Concatenate Strings – How JS String Concatenation Works",
   "desc": "When coding in JavaScript, you may need to combine multiple strings to create a new, longer string. This operation is known as concatenation. In this article, you will learn five ways to concatenate strings in JavaScript. How to Concatenate Strings i...",
-  "link": "/explore/articles/freecodecamp.org/how-js-string-concatenation-works.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-js-string-concatenation-works.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -133,7 +133,7 @@ head:
 {
   "title": "JS Remove Char from String – How to Trim a Character from a String in JavaScript",
   "desc": "Manipulating strings is a fundamental skill in programming. A common task you might encounter when coding in JavaScript is trimming characters from a string. Trimming involves removing specific characters from the beginning and/or end of a string. Th...",
-  "link": "/explore/articles/freecodecamp.org/javascript-remove-char-from-string.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-remove-char-from-string.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -143,7 +143,7 @@ head:
 {
   "title": "How to Create Objects in JavaScript",
   "desc": "In programming, objects are fundamental building blocks used to represent real-world entities or concepts. JavaScript, a versatile and popular language, offers various ways to create these objects.  This article dives deep into these methods, equipping you with the knowledge to craft objects tailored to your programming needs. We'll begin...",
-  "link": "/explore/articles/freecodecamp.org/how-to-create-objects-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-objects-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -153,7 +153,7 @@ head:
 {
   "title": "The JavaScript Class Handbook – Complete Guide to Class Fields and the Super Keyword",
   "desc": "Classes let you privatize your data while providing users indirect access to it. It is an excellent way to prevent direct access to your constructor’s data. This handbook aims to show you exactly how classes work in JavaScript. We will also discuss class fields and the super keyword. Table of...",
-  "link": "/explore/articles/freecodecamp.org/javascript-class-handbook.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-class-handbook.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -163,7 +163,7 @@ head:
 {
   "title": "The JavaScript Interview Prep Handbook – Essential Topics to Know + Code Examples",
   "desc": "JavaScript is a widely used language in web development and powers interactive features of virtually every website out there. JavaScript makes it possible to create dynamic web pages and is very versatile. JavaScript remains one of the most in-demand programming languages in 2024. Many companies are looking for proficiency in...",
-  "link": "/explore/articles/freecodecamp.org/js-interview-prep-handbook.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/js-interview-prep-handbook.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -173,7 +173,7 @@ head:
 {
   "title": "How to Manipulate Strings in JavaScript – With Code Examples",
   "desc": "String manipulation is a common task for programmers, whether it is extracting information from the string, converting letter cases, joining strings, or trimming extra white spaces. This tutorial covers various methods and techniques for manipulating strings using JavaScript, offering you a comprehensive guide on how to work with strings in...",
-  "link": "/explore/articles/freecodecamp.org/how-to-manipulate-strings-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-manipulate-strings-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -183,7 +183,7 @@ head:
 {
   "title": "What is Prototypal Inheritance in JavaScript? Explained with Code Examples",
   "desc": "Prototypal inheritance can feel like a complex concept shrouded in technical jargon. But fear not! This guide will break it down using clear, relatable examples that go beyond the typical textbook explanations.  We'll ditch the confusing terms and focus on real-world scenarios that you can easily understand. By the...",
-  "link": "/explore/articles/freecodecamp.org/javascript-prototypal-inheritance.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-prototypal-inheritance.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -193,7 +193,7 @@ head:
 {
   "title": "The JavaScript this Keyword Explained with Examples",
   "desc": "All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn...",
-  "link": "/explore/articles/freecodecamp.org/the-javascript-this-keyword-explained-with-examples.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/the-javascript-this-keyword-explained-with-examples.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -203,7 +203,7 @@ head:
 {
   "title": "How to Use WeakMap and WeakSet in JavaScript",
   "desc": "JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and...",
-  "link": "/explore/articles/freecodecamp.org/weakmap-and-weakset-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/weakmap-and-weakset-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -213,7 +213,7 @@ head:
 {
   "title": "Scope, Closures, and Hoisting in JavaScript – Explained with Code Examples",
   "desc": "In the dynamic world of JavaScript, understanding the intricacies of scope, closures, and hoisting is fundamental for mastering the language and building robust applications. These concepts, though often misunderstood, play a crucial role in determining how variables and functions behave within the code. Scope dictates the accessibility of variables, closures...",
-  "link": "/explore/articles/freecodecamp.org/scope-closures-and-hoisting-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/scope-closures-and-hoisting-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -223,7 +223,7 @@ head:
 {
   "title": "How to Change Background Color with JavaScript – BG Color in JS and HTML",
   "desc": "You can style elements with JavaScript using the element's style property. In this article, you'll learn how to change background color using JavaScript. Here's what the mini project you'll build looks like: In the image above, each button changes t...",
-  "link": "/explore/articles/freecodecamp.org/how-to-change-background-color-with-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-change-background-color-with-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -233,7 +233,7 @@ head:
 {
   "title": "JavaScript GameDev with Kaboom.js",
   "desc": "Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics tha...",
-  "link": "/explore/articles/freecodecamp.org/javascript-gamedev-with-kaboomjs.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-gamedev-with-kaboomjs.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -243,7 +243,7 @@ head:
 {
   "title": "How to Use Callback Functions in JavaScript",
   "desc": "When you're building dynamic applications with JavaScript that display real-time data – like a weather app or live sports dashboard – you'll need a way to automatically fetch new data from an external source without disrupting the user experience.  You can do this using JavaScript's callback functions, which showcase...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-callback-functions-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-callback-functions-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -253,7 +253,7 @@ head:
 {
   "title": "How to Use Callback Functions in JavaScript",
   "desc": "Nowadays, the interaction between web applications relies on HTTP. For instance, let's say you have an online shop application and you want to create a new product. You have to fill in all the necessary information and probably click on a button that says 'Create'. This action will send...",
-  "link": "/explore/articles/freecodecamp.org/how-to-send-http-requests-using-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-send-http-requests-using-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -263,7 +263,7 @@ head:
 {
   "title": "Learn Asynchronous JavaScript",
   "desc": "Asynchronous programming is a critical skill in modern JavaScript development, enabling developers to create more efficient and responsive applications. Whether you're a seasoned developer looking to brush up on your skills or a beginner eager to lea...",
-  "link": "/explore/articles/freecodecamp.org/learn-asynchronous-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-asynchronous-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -273,7 +273,7 @@ head:
 {
   "title": "How to Build a Simple Bitcoin-to-USD Calculator",
   "desc": "Welcome to this fun and hands-on project where we'll build a calculator that converts Bitcoin to USD. You'll learn about API fetching, DOM manipulation, and localStorage, and you'll use some basic math along the way.  By the end of this tutorial, you'll have a functioning Bitcoin price calculator that...",
-  "link": "/explore/articles/freecodecamp.org/build-a-bitcoin-to-usd-calculator.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-a-bitcoin-to-usd-calculator.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -283,7 +283,7 @@ head:
 {
   "title": "How to Match Parentheses in JavaScript without Using Regex",
   "desc": "While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...",
-  "link": "/explore/articles/freecodecamp.org/how-to-match-parentheses-in-javascript-without-using-regex.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-match-parentheses-in-javascript-without-using-regex.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -293,7 +293,7 @@ head:
 {
   "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
   "desc": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
-  "link": "/explore/articles/freecodecamp.org/what-is-a-component-library-when-to-build-your-own.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-is-a-component-library-when-to-build-your-own.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -303,7 +303,7 @@ head:
 {
   "title": "How to Create A Color Picker Tool Using HTML, CSS, and JavaScript",
   "desc": "Have you ever wanted to create your own interactive tools using just HTML, CSS, and JavaScript? In this article, we'll create a fun and straightforward project: a color picker tool. This handy little tool will let users select any color they like and...",
-  "link": "/explore/articles/freecodecamp.org/create-color-picker-using-html-css-and-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/create-color-picker-using-html-css-and-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -313,7 +313,7 @@ head:
 {
   "title": "How to Use Variables and Data Types in JavaScript – Explained With Code Examples",
   "desc": "A variable is like a box where you can store data or a reference to data. In this article, you will learn how to create and use variables. You'll also learn about the different data types in JavaScript and how to use them. Let's get started! Table of...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-variables-and-data-types-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-variables-and-data-types-in-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -323,7 +323,7 @@ head:
 {
   "title": "How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?",
   "desc": "Interactivity is what makes a website come alive. Whether it's a button that reveals more content or a form that responds to your input, these little touches keep users engaged. Traditionally, we've relied heavily on JavaScript to make websites inter...",
-  "link": "/explore/articles/freecodecamp.org/how-to-create-interactive-html-prototypes.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-interactive-html-prototypes.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -333,7 +333,7 @@ head:
 {
   "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
   "desc": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
-  "link": "/explore/articles/freecodecamp.org/how-to-build-an-expense-tracker-with-html-css-and-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-build-an-expense-tracker-with-html-css-and-javascript.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -343,7 +343,7 @@ head:
 {
   "title": "How to Use Chart js for Interactive Data Visualization",
   "desc": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
-  "link": "/explore/articles/freecodecamp.org/how-to-use-chart-js-for-interactive-data-visualization.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-chart-js-for-interactive-data-visualization.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -353,7 +353,7 @@ head:
 {
   "title": "How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection",
   "desc": "When you interact with web pages, a common task you’ll perform often is selecting text. Whether it's highlighting a section of a paragraph to copy, marking important parts of a document, or working with interactive features like note-taking or text e...",
-  "link": "/explore/articles/freecodecamp.org/use-the-javascript-selection-api-to-build-a-rich-text-editor.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/use-the-javascript-selection-api-to-build-a-rich-text-editor.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -363,7 +363,7 @@ head:
 {
   "title": "JavaScript Timer – How to Set a Timer Function in JS",
   "desc": "In Javascript, the timer function prevents your code from running everything at once when an event triggers or the page loads. This gives you more control over the timing of your program's actions and can enhance the user experience by creating smoot...",
-  "link": "/explore/articles/freecodecamp.org/javascript-timer-how-to-set-a-timer-function-in-js.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-timer-how-to-set-a-timer-function-in-js.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -373,7 +373,7 @@ head:
 {
   "title": "How AI Tools Can Help You Reuse Code",
   "desc": "Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...",
-  "link": "/explore/articles/freecodecamp.org/tools-for-code-reuse.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/tools-for-code-reuse.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -391,7 +391,7 @@ head:
 {
   "title": "Five Basic Things About JavaScript That Will Help Non JavaScript-Focused Web Designers",
   "desc": "Let's say you don't know JavaScript. You're a web designer and you're focused largely on UI and UX. Let's look at some things you could learn in a day that will give you that bang for the buck.",
-  "link": "/explore/articles/frontendmasters.com/5-things-designers-can-do-with-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/5-things-designers-can-do-with-javascript.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -401,7 +401,7 @@ head:
 {
   "title": "Control JavaScript Promises from Anywhere Using Promise.withResolvers()",
   "desc": "This method enhances flexibility by allowing promises to be resolved or rejected remotely, simplifying and streamlining asynchronous code.",
-  "link": "/explore/articles/frontendmasters.com/control-javascript-promises-from-anywhere-using-promise-withresolvers.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/control-javascript-promises-from-anywhere-using-promise-withresolvers.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -411,7 +411,7 @@ head:
 {
   "title": "Playing with the Speculation Rules API in the Console",
   "desc": "This new API enables client-side prerendering, improving performance for users who are likely to visit a new page. ",
-  "link": "/explore/articles/frontendmasters.com/playing-with-the-speculation-rules-api-in-the-console.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/playing-with-the-speculation-rules-api-in-the-console.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -421,7 +421,7 @@ head:
 {
   "title": "Popovers Work Pretty Nicely as Slide-Out Drawers",
   "desc": "Especially on mobile, the slide-out drawer UI/UX seems like a perfect fit for a popover, and works fine on desktop too.",
-  "link": "/explore/articles/frontendmasters.com/popovers-work-pretty-nicely-as-slide-out-drawers.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/popovers-work-pretty-nicely-as-slide-out-drawers.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -431,7 +431,7 @@ head:
 {
   "title": "Browser Support Tests in JavaScript for Modern Web Features",
   "desc": "Sometimes it's good to know when a browser feature is supported or not so you can do something. Perhaps load a polyfill or just choose a slightly different approach. This post looks at newish features in browsers and shows the test",
-  "link": "/explore/articles/frontendmasters.com/browser-support-tests-in-javascript-for-modern-web-features.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/browser-support-tests-in-javascript-for-modern-web-features.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -441,7 +441,7 @@ head:
 {
   "title": "Script Integrity",
   "desc": "Polyfill.io recently served malicious code, redirecting users to inappropriate sites. Subresource Integrity (SRI) can help prevent such issues by verifying script integrity.",
-  "link": "/explore/articles/frontendmasters.com/script-integrity.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/script-integrity.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -451,7 +451,7 @@ head:
 {
   "title": "Clip Pathing Color Changes",
   "desc": "Let's look at a cool animated nav effect (from a recent post by Emil Kowalski) that uses CSS `clip-path` to move the highlighted nav item around. It's an interesting look at this CSS feature and adds a lot of polish to a simple idea.",
-  "link": "/explore/articles/frontendmasters.com/clip-pathing-color-changes.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/clip-pathing-color-changes.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -461,7 +461,7 @@ head:
 {
   "title": "Patterns for Memory Efficient DOM Manipulation with Modern Vanilla JavaScript",
   "desc": "JavaScript Frameworks generally do a lot of DOM handling for you, but doing it yourself can be the most performant option, and there are quite a few best practices.",
-  "link": "/explore/articles/frontendmasters.com/patterns-for-memory-efficient-dom-manipulation.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/patterns-for-memory-efficient-dom-manipulation.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -471,7 +471,7 @@ head:
 {
   "title": "Reading from the Clipboard in JavaScript",
   "desc": "While it's a bit more common to *write* to the clipboard, JavaScript can also read from it. Plain text is pretty simple, while multimedia content is a bit more complex.",
-  "link": "/explore/articles/frontendmasters.com/reading-from-the-clipboard-in-javascript.md",
+  "link": "https://chanhi2000.github.io/bookshelf/frontendmasters.com/reading-from-the-clipboard-in-javascript.md",
   "logo": "https://frontendmasters.com/favicon.ico",
   "background": "rgba(188,75,52,0.2)"
 }
@@ -489,7 +489,7 @@ head:
 {
   "title": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기 | 요즘IT",
   "desc": "프로그래밍 용어 ‘멱등성(Idempotent)’ 알아보기",
-  "link": "/explore/articles/yozm.wishket.com/2106.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2106.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -499,7 +499,7 @@ head:
 {
   "title": "시작하는 개발자를 위한 JS 매개 변수 활용법 2가지 | 요즘IT",
   "desc": "시작하는 개발자를 위한 JS 매개 변수 활용법 2가지",
-  "link": "/explore/articles/yozm.wishket.com/2732.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2732.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -509,7 +509,7 @@ head:
 {
   "title": "시작하는 개발자를 위한 JS 전개 구문 활용법 3가지 | 요즘IT",
   "desc": "시작하는 개발자를 위한 JS 전개 구문 활용법 3가지",
-  "link": "/explore/articles/yozm.wishket.com/2742.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2742.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -519,7 +519,7 @@ head:
 {
   "title": "시작하는 개발자를 위한 JS 구조 분해 활용법 3가지 | 요즘IT",
   "desc": "시작하는 개발자를 위한 JS 구조 분해 활용법 3가지",
-  "link": "/explore/articles/yozm.wishket.com/2754.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2754.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -537,7 +537,7 @@ head:
 {
   "title": "CodeSnippet과 함께하는 JavaScript 프로그래밍 | NHN Cloud Meetup",
   "desc": "CodeSnippet과 함께하는 JavaScript 프로그래밍",
-  "link": "/explore/articles/meetup.nhncloud.com/80.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/80.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -557,7 +557,7 @@ head:
 {
   "title": "PLT Hook 체크를 위한 Android so 파일 파싱 | NHN Cloud Meetup",
   "desc": "PLT Hook 체크를 위한 Android so 파일 파싱",
-  "link": "/explore/articles/meetup.nhncloud.com/371.md",
+  "link": "https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/371.md",
   "logo": "https://meetup.nhncloud.com/resources/img/favicon.ico",
   "background": "rgba(76,156,227,0.2)"
 }
@@ -573,8 +573,8 @@ head:
 {
   "title": "RTCS 실시간 웹 서비스를 위한 도전 | NAVER D2",
   "desc": "RTCS 실시간 웹 서비스를 위한 도전",
-  "link": "/explore/articles/d2.naver.com/1052.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1052.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -591,7 +591,7 @@ head:
 {
   "title": "See the accessibility tree",
   "desc": "Devtools Tips > See the accessibility tree",
-  "link": "/explore/articles/devtoolstips.org/see-accessibility-tree.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/see-accessibility-tree.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -601,7 +601,7 @@ head:
 {
   "title": "Name evaluated files with the sourceURL pragma",
   "desc": "Devtools Tips > Name evaluated files with the sourceURL pragma",
-  "link": "/explore/articles/devtoolstips.org/name-evaluated-files.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/name-evaluated-files.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -611,7 +611,7 @@ head:
 {
   "title": "Simulate the Window Controls Overlay feature for PWA",
   "desc": "Devtools Tips > Simulate the Window Controls Overlay feature for PWA",
-  "link": "/explore/articles/devtoolstips.org/simulate-pwa-wco.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/simulate-pwa-wco.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -621,7 +621,7 @@ head:
 {
   "title": "Inspect the user-agent DOM",
   "desc": "Devtools Tips > Inspect the user-agent DOM",
-  "link": "/explore/articles/devtoolstips.org/inspect-user-agent-dom.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/inspect-user-agent-dom.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -631,7 +631,7 @@ head:
 {
   "title": "Explain console errors by using artificial intelligence",
   "desc": "Devtools Tips > Explain console errors by using artificial intelligence",
-  "link": "/explore/articles/devtoolstips.org/explain-errors-with-ai.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/explain-errors-with-ai.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -641,7 +641,7 @@ head:
 {
   "title": "Enable DevTools in Safari",
   "desc": "Devtools Tips > Enable DevTools in Safari",
-  "link": "/explore/articles/devtoolstips.org/enable-safari-devtools.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/enable-safari-devtools.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -651,7 +651,7 @@ head:
 {
   "title": "Block DevTools",
   "desc": "Devtools Tips > Block DevTools",
-  "link": "/explore/articles/devtoolstips.org/block-devtools.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/block-devtools.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -661,7 +661,7 @@ head:
 {
   "title": "List all event listeners on the entire page",
   "desc": "Devtools Tips > List all event listeners on the entire page",
-  "link": "/explore/articles/devtoolstips.org/list-all-event-listeners.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/list-all-event-listeners.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -671,7 +671,7 @@ head:
 {
   "title": "Debug popups that appear on hover",
   "desc": "Devtools Tips > Debug popups that appear on hover",
-  "link": "/explore/articles/devtoolstips.org/debug-popups-on-hover.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/debug-popups-on-hover.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -681,7 +681,7 @@ head:
 {
   "title": "Force execution, skipping breakpoints, when paused",
   "desc": "Devtools Tips > Force execution, skipping breakpoints, when paused",
-  "link": "/explore/articles/devtoolstips.org/force-execution-at-breakpoint.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/force-execution-at-breakpoint.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }
@@ -691,7 +691,7 @@ head:
 {
   "title": "See the viewport size",
   "desc": "Devtools Tips > See the viewport size",
-  "link": "/explore/articles/devtoolstips.org/see-viewport-size.md",
+  "link": "https://chanhi2000.github.io/bookshelf/devtoolstips.org/see-viewport-size.md",
   "logo": "https://devtoolstips.org/assets/logo-small.png",
   "background": "rgba(31,44,43,0.2)"
 }

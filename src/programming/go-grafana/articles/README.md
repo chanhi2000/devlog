@@ -55,7 +55,7 @@ head:
 {
   "title": "How to Set Up Grafana on EC2",
   "desc": "In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their...",
-  "link": "/explore/articles/freecodecamp.org/how-to-set-up-grafana-on-ec2.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-set-up-grafana-on-ec2.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -73,7 +73,7 @@ head:
 {
   "title": "스프링 부트 서버 모니터링하는 법 | 요즘IT",
   "desc": "스프링 부트 서버 모니터링하는 법",
-  "link": "/explore/articles/yozm.wishket.com/2280.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2280.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

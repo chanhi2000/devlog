@@ -30,8 +30,8 @@ head:
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 ```component VPCard
 {
@@ -65,8 +65,8 @@ head:
 {
   "title": "ASP.NET Core Web API – Linux Deployment",
   "desc": "This post is focused on .NET Core Linux Deployment. We will create a mysql database, install .net core, deploy the application and install nginx.",
-  "link": "/explore/articles/code-maze.com/net-core-web-development-part17.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/net-core-web-development-part17.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -75,8 +75,8 @@ head:
 {
   "title": "Adding MySQL to ASP.NET Core App With Docker Compose",
   "desc": "In this post, we are going to add a MySQL database as another container and connect it with our application utilizing Docker Compose.",
-  "link": "/explore/articles/code-maze.com/mysql-aspnetcore-docker-compose.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/mysql-aspnetcore-docker-compose.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -93,7 +93,7 @@ head:
 {
   "title": "MySQL 타임스탬프와 Y2K38 문제 | 요즘IT",
   "desc": "MySQL 타임스탬프와 Y2K38 문제",
-  "link": "/explore/articles/yozm.wishket.com/2209.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2209.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -103,7 +103,7 @@ head:
 {
   "title": "MySQL 쿼리 튜닝의 첫걸음 | 요즘IT",
   "desc": "MySQL 쿼리 튜닝의 첫걸음",
-  "link": "/explore/articles/yozm.wishket.com/2260.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2260.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -113,7 +113,7 @@ head:
 {
   "title": "<code>CHAR</code> vs. <code>VARCHAR</code>, 언제 어떻게 써야 할까? | 요즘IT",
   "desc": "<code>CHAR</code> vs. <code>VARCHAR</code>, 언제 어떻게 써야 할까?",
-  "link": "/explore/articles/yozm.wishket.com/2717.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2717.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -123,7 +123,7 @@ head:
 {
   "title": "<code>VARCHAR</code> vs. <code>TEXT</code>, 뭐가 다를까? | 요즘IT",
   "desc": "<code>VARCHAR</code> vs. <code>TEXT</code>, 뭐가 다를까?",
-  "link": "/explore/articles/yozm.wishket.com/2726.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2726.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -133,7 +133,7 @@ head:
 {
   "title": "MySQL 콜레이션은 어떻게 동작할까? | 요즘IT",
   "desc": "MySQL 콜레이션은 어떻게 동작할까?",
-  "link": "/explore/articles/yozm.wishket.com/2736.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2736.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -143,7 +143,7 @@ head:
 {
   "title": "MySQL 콜레이션 사용 시 주의할 점은? | 요즘IT",
   "desc": "MySQL 콜레이션 사용 시 주의할 점은?",
-  "link": "/explore/articles/yozm.wishket.com/2746.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2746.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -153,7 +153,7 @@ head:
 {
   "title": "MySQL에서 SQL 문장 가독성 향상시키는 법 | 요즘IT",
   "desc": "MySQL에서 SQL 문장 가독성 향상시키는 법",
-  "link": "/explore/articles/yozm.wishket.com/2758.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2758.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }
@@ -172,7 +172,7 @@ head:
 {
   "title": "가상 머신의 성능을 높이는 것도 지구 온난화에 도움이 될까요?",
   "desc": "안녕하세요. VOOM Server Unit에서 LINE VOOM 서비스를 개발하고 있는 서용준입니다. LINE VOOM 서비스는 메인 콘텐츠인 포스트를 저장하기 위해 My...",
-  "link": "/explore/articles/engineering.linecorp.com/migrate-mysql-with-read-only-mode.md",
+  "link": "https://chanhi2000.github.io/bookshelf/engineering.linecorp.com/migrate-mysql-with-read-only-mode.md",
   "logo": "https://engineering.linecorp.com/favicon-32x32.png?v=6d6085f233d02c34273fa8a8849b502a",
   "background": "rgba(31,31,31,0.2)"
 }

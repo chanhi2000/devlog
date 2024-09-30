@@ -44,7 +44,7 @@ head:
 {
   "title": "Provisioning Kubernetes clusters on Linode with Terraform",
   "desc": "Learn how you can leverage Terraform and Linode LKE to provision identical clusters for development, staging and production environments with a single click.",
-  "link": "/explore/articles/learnk8s.io/terraform-lke.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/terraform-lke.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }

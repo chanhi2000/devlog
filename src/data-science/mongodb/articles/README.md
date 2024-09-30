@@ -43,15 +43,15 @@ head:
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 <SiteInfo
   name="NAVER D2"
   desc=""
   url="https://d2.naver.com"
-  logo="/images/content/d2.naver.com/favicon.ico"
-  preview="/images/content/d2.naver.com/sitebanner.png"/>
+  logo="d2.naver.com/favicon.ico"
+  preview="d2.naver.com/sitebanner.png"/>
 
 [[toc]]
 
@@ -65,7 +65,7 @@ head:
 {
   "title": "PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB",
   "desc": "This is the second part of my PHP array handbook. You can find the first part here, where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how...",
-  "link": "/explore/articles/freecodecamp.org/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -75,7 +75,7 @@ head:
 {
   "title": "Using Entity Framework Core with MongoDB",
   "desc": "Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho...",
-  "link": "/explore/articles/freecodecamp.org/using-entity-framework-core-with-mongodb.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/using-entity-framework-core-with-mongodb.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -85,7 +85,7 @@ head:
 {
   "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
   "desc": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
-  "link": "/explore/articles/codecamp.org/get-mongodb-url-to-connect-to-a-nodejs-application.md",
+  "link": "https://chanhi2000.github.io/bookshelf/codecamp.org/get-mongodb-url-to-connect-to-a-nodejs-application.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -95,7 +95,7 @@ head:
 {
   "title": "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
   "desc": "What is Integration Testing? The purpose of integration tests is to validate that different software components, subsystems, or applications work well together combined as a group. It’s an important step in the testing pyramid that can help you ident...",
-  "link": "/explore/articles/freecodecamp.org/integration-tests-using-testcontainers.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/integration-tests-using-testcontainers.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -105,7 +105,7 @@ head:
 {
   "title": "Learn the MERN Stack by Building a Store",
   "desc": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T....",
-  "link": "/explore/articles/freecodecamp.org/learn-the-mern-stack-by-building-a-store.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-the-mern-stack-by-building-a-store.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -115,7 +115,7 @@ head:
 {
   "title": "Use the FARM Stack to Develop Full Stack Apps",
   "desc": "The FARM stack is a modern web development stack that combines three powerful technologies: FastAPI, React, and MongoDB. This full-stack solution provides developers with a robust set of tools to build scalable, efficient, and high-performance web ap...",
-  "link": "/explore/articles/freecodecamp.org/use-the-farm-stack-to-develop-full-stack-apps.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/use-the-farm-stack-to-develop-full-stack-apps.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -133,7 +133,7 @@ head:
 {
   "title": "Developing and packaging Node.js app with Docker",
   "desc": "Learn how to develop and package Node.js apps that can be deployed into Kubernetes and scale to millions of requests.",
-  "link": "/explore/articles/learnk8s.io/developing-and-packaging-nodejs-docker.md",
+  "link": "https://chanhi2000.github.io/bookshelf/learnk8s.io/developing-and-packaging-nodejs-docker.md",
   "logo": "https://static.learnk8s.io/f7e5160d4744cf05c46161170b5c11c9.svg",
   "background": "rgba(86,154,209,0.2)"
 }
@@ -151,8 +151,8 @@ head:
 {
   "title": "Getting Started with ASP.NET Core and MongoDB",
   "desc": "In this article, we’re going to cover how to set up and configure an ASP.NET Core Web API with MongoDB as our database.",
-  "link": "/explore/articles/code-maze.com/getting-started-aspnetcore-mongodb.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/getting-started-aspnetcore-mongodb.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -161,8 +161,8 @@ head:
 {
   "title": "Introduction to gRPC in ASP.NET Core With MongoDB",
   "desc": "In this article, we’re going to cover how to set up an ASP.NET Core gRPC service with MongoDB as our database.",
-  "link": "/explore/articles/code-maze.com/grpc-introduction-aspnetcore.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/grpc-introduction-aspnetcore.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```
@@ -179,8 +179,8 @@ head:
 {
   "title": "Hadoop과 MongoDB를 이용한 로그분석시스템 | NAVER D2",
   "desc": "Hadoop과 MongoDB를 이용한 로그분석시스템",
-  "link": "/explore/articles/d2.naver.com/1016.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1016.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```
@@ -189,8 +189,8 @@ head:
 {
   "title": "NoSQL 가용성과 운영 안정성 | NAVER D2",
   "desc": "NoSQL 가용성과 운영 안정성",
-  "link": "/explore/articles/d2.naver.com/1039.md",
-  "logo": "/images/content/d2.naver.com/favicon.ico",
+  "link": "https://chanhi2000.github.io/bookshelf/d2.naver.com/1039.md",
+  "logo": "d2.naver.com/favicon.ico",
   "background": "rgba(54,235,127,0.2)"
 }
 ```

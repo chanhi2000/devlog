@@ -37,8 +37,8 @@ head:
   name="Code Maze - C#, .NET and Web Development Tutorials"
   desc="Welcome to Code Maze. Here, you can find C#, .NET and Web Development tutorials. Join millions of readers from all over the world."
   url="https://code-maze.com/latest-posts-on-code-maze/"
-  logo="/images/content/code-maze.com/favicon.png"
-  preview="/images/content/code-maze.com/banner.png"/>
+  logo="code-maze.com/favicon.png"
+  preview="code-maze.com/banner.png"/>
 
 [[toc]]
 
@@ -52,7 +52,7 @@ head:
 {
   "title": "How to Set Up Nginx Server Blocks (Virtual Hosts) on CentOS 8",
   "desc": "In this article, you will learn how to set up Nginx server blocks (virtual hosts) on CentOS 8 and RHEL 8 Linux to host multiple websites.",
-  "link": "/explore/articles/tecmint.com/create-nginx-server-blocks-in-centos.md",
+  "link": "https://chanhi2000.github.io/bookshelf/tecmint.com/create-nginx-server-blocks-in-centos.md",
   "logo": "https://tecmint.com/wp-content/uploads/2020/07/favicon.ico",
   "background": "rgba(9,102,183,0.2)"
 }
@@ -70,8 +70,8 @@ head:
 {
   "title": "ASP.NET Core Web API – Linux Deployment",
   "desc": "This post is focused on .NET Core Linux Deployment. We will create a mysql database, install .net core, deploy the application and install nginx.",
-  "link": "/explore/articles/code-maze.com/net-core-web-development-part17.md",
-  "logo": "/images/content/code-maze.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/code-maze.com/net-core-web-development-part17.md",
+  "logo": "code-maze.com/favicon.png",
   "background": "rgba(22,22,22,0.2)"
 }
 ```

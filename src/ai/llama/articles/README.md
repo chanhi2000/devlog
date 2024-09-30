@@ -57,7 +57,7 @@ head:
 {
   "title": "How to Build a RAG Pipeline with LlamaIndex",
   "desc": "Large Language Models are everywhere these days – think ChatGPT – but they have their fair share of challenges. One of the biggest challenges faced by LLMs is hallucination. This occurs when the model generates text that is factually incorrect or mis...",
-  "link": "/explore/articles/freecodecamp.org/how-to-build-a-rag-pipeline-with-llamaindex.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-build-a-rag-pipeline-with-llamaindex.md",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -75,7 +75,7 @@ head:
 {
   "title": "Ollama에 없는 모델 내가 만들어 사용하기 | 요즘IT",
   "desc": "Ollama에 없는 모델 내가 만들어 사용하기",
-  "link": "/explore/articles/yozm.wishket.com/2751.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2751.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

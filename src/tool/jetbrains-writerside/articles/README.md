@@ -49,7 +49,7 @@ head:
 {
   "title": "젯브레인스 문서화 도구 ‘라이터사이드’ 뜯어보기 | 요즘IT",
   "desc": "젯브레인스 문서화 도구 ‘라이터사이드’ 뜯어보기",
-  "link": "/explore/articles/yozm.wishket.com/2314.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2314.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

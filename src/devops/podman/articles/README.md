@@ -31,8 +31,8 @@ head:
   name="LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences"
   desc="Resources to Help Product Teams Ship Amazing Digital Experiences"
   url="https://blog.logrocket.com/dev"
-  logo="/images/content/blog.logrocket.com/favicon.png"
-  preview="/images/content/blog.logrocket.com/banner.png"/>
+  logo="blog.logrocket.com/favicon.png"
+  preview="blog.logrocket.com/banner.png"/>
 
 ```component VPCard
 {
@@ -56,8 +56,8 @@ head:
 {
   "title": "Top Docker and Docker Desktop alternatives",
   "desc": "Explore the top alternatives to Docker and Docker Desktop for building, running, and distributing container images, like Podman and Lima.",
-  "link": "/explore/articles/blog.logrocket.com/docker-desktop-alternatives.md",
-  "logo": "/images/content/blog.logrocket.com/favicon.png",
+  "link": "https://chanhi2000.github.io/bookshelf/blog.logrocket.com/docker-desktop-alternatives.md",
+  "logo": "blog.logrocket.com/favicon.png",
   "background": "rgba(118,74,188,0.2)"
 }
 ```
@@ -74,7 +74,7 @@ head:
 {
   "title": "You Don't Have to Use Docker Anymore",
   "desc": "Docker is not the only containerization tool out there and there might just be better alternatives…",
-  "link": "/explore/articles/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md",
+  "link": "https://chanhi2000.github.io/bookshelf/towardsdatascience.com/you-dont-have-to-use-docker-anymore.md",
   "logo": "https://cdn-images-1.medium.com/fit/c/128/128/1*VzTUkfeGymHP4Bvav-T-lA.png",
   "background": "rgba(53,88,118,0.2)"
 }

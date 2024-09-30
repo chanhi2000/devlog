@@ -49,7 +49,7 @@ head:
 {
   "title": "Lessons Learned From Running Apache Airflow at Scale",
   "desc": "Shopify shares some of the lessons we learned and solutions we built in order to run Airflow at scale.",
-  "link": "/explore/articles/shopify.engineering/lessons-learned-apache-airflow-scale.md",
+  "link": "https://chanhi2000.github.io/bookshelf/shopify.engineering/lessons-learned-apache-airflow-scale.md",
   "logo": "https://cdn.shopify.com/static/shopify-favicon.png",
   "background": "rgba(15,45,37,0.2)"
 }

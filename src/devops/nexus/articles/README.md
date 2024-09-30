@@ -40,7 +40,7 @@ head:
 {
   "title": "Publishing Kotlin Multiplatform Libraries With Sonatype Central - droidcon",
   "desc": "With JCenter sunsetted, distributing public Kotlin Multiplatform libraries now often relies on Maven Central via Sonatype. However, the transition from issues.sonatype.org to central.sonatype.com in March 2024 has left many developers grappling with outdated resources and scarce guidance.",
-  "link": "/explore/articles/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
+  "link": "https://chanhi2000.github.io/bookshelf/droidcon.com/publishing-kotlin-multiplatform-libraries-with-sonatype-central.md",
   "logo": "https://www.droidcon.com/wp-content/uploads/2021/07/favicon-300x300.png",
   "background": "rgba(4,20,221,0.2)"
 }

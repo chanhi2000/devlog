@@ -33,7 +33,7 @@ head:
 
 ## <FontIcon icon="iconfont icon-naver"/>NAVER D2
 
-- [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520) <!-- TODO: 작성 (/explore/articles/d2.naver.com/8446520.md) -->
+- [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/8446520.md) -->
 
 ---
 

@@ -45,7 +45,7 @@ head:
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
-- [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/posts/373)<!-- TODO: 작성 (/explore/articles/tech.kakao.com/373.md) -->
+- [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/posts/373)<!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakao.com/373.md) -->
 
 ---
 

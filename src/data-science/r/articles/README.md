@@ -44,7 +44,7 @@ head:
 {
   "title": "R 개발자가 ‘R-universe’로 패키지 생태계 운영하는 법 | 요즘IT",
   "desc": "R 개발자가 ‘R-universe’로 패키지 생태계 운영하는 법",
-  "link": "/explore/articles/yozm.wishket.com/2745.md",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2745.md",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
   "background": "rgba(84,7,224,0.2)"
 }

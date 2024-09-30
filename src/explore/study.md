@@ -459,7 +459,7 @@ https://www.joinc.co.kr/w/Site
   "title": " 엑셀 교육 과정 목록 &  포스팅 기준 [2024.05.24]",
   "desc": "키샤의 IT 핵심요약",
   "link": "https://m.blog.naver.com/kishawing/223440076129",
-  "logo": "/explore/articles/blog.naver.com/favicon.ico",
+  "logo": "https://chanhi2000.github.io/bookshelf/blog.naver.com/favicon.ico",
   "background": "rgba(237,126,2,0.2)"
 }
 ```
@@ -468,8 +468,8 @@ https://www.joinc.co.kr/w/Site
   name="Take your first steps with Rust - Training | Microsoft Learn"
   desc="Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust."
   url="https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps"
-  logo="/images/content/learn.microsoft.com/favicon.ico"
-  preview="/images/content/learn.microsoft.com/open-graph-image.png"/>
+  logo="learn.microsoft.com/favicon.ico"
+  preview="learn.microsoft.com/open-graph-image.png"/>
 
 <SiteInfo
   name="The Front End Developer/Engineer Handbook 2024"
