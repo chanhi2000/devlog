@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Coupang > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - API 
   - Coupang

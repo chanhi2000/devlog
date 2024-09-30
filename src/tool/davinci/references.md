@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: DaVinci Resolve > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - DaVinci Resolve
   - Video Editing

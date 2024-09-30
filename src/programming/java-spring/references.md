@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Spring > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Java
   - Kotlin
@@ -276,6 +276,7 @@ head:
   - [\[1년 후 마실가실\] PostMan과 Controller Test Code](https://hj0216.tistory.com/m/950)
   - [\[1년 후 마실가실\] `@WebMvcTest` Security 403](https://hj0216.tistory.com/m/951)
   - [\[해결 방법\] `TooManyActualInvocations`](https://hj0216.tistory.com/m/952)
+  - [\[해결 방법\] Failed to determine a suitable driver class](https://hj0216.tistory.com/m/955)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -366,6 +367,7 @@ head:
   - [08. 책 수정 화면 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/08-%EC%B1%85-%EC%88%98%EC%A0%95-%ED%99%94%EB%A9%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [09.01. 책 수정 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/0901-%EC%B1%85-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [10.01. 책 삭제 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/1001-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [10.02. 책 삭제 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1002-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)

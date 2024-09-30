@@ -89,7 +89,8 @@
 
 <script>
 import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
-import DevoApi from '../js/api/DevoApi'
+import DevoApi from './js/api/DevoApi'
+
 export default {
   name: "DevGithubItems",
   components: { DevLoadingvSpinner },
@@ -175,7 +176,7 @@ export default {
       }).concat(_fetchedItemsGithub);
       this.hasData = this.items.length != 0;
     },
-    async doCopyGithubJson(fullName = '') {
+    async doCopyGithubJson(api, fullName = '') {
       const repoInfo = await DevoApi.fetchGithubDetail(fullName);
       const coreData = await this.renderJson(repoInfo)
       const jsonData = JSON.stringify(coreData, null, 2)
@@ -196,12 +197,13 @@ export default {
       }
     },
     async copyToClipboard(text = '') {
+      if (typeof navigator == "undefined") return;
       try {
         await navigator.clipboard.writeText(text);
       } catch (e) {
         console.warn('Error:', e)
         return
-      } 
+      }
     },
     async doRefresh() {
       if (__IS_DEBUG__) console.log('doRefresh DevGithubItems!');

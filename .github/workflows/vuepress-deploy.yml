@@ -22,7 +22,7 @@ jobs:
           TARGET_REPO: chanhi2000/chanhi2000.github.io
           TARGET_BRANCH: master
           BUILD_SCRIPT: |
-            rm -rf node_modules && npm i && npm run build
+            npm i && npm run build
           BUILD_DIR: src/.vuepress/dist
           CNAME: https://chanhi2000.github.io
 

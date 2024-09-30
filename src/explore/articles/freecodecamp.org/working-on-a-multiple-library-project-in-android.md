@@ -75,6 +75,8 @@ This is not supported in Android, and while some solutions popped up during the 
 
 Imagine your project hierarchy looks like this:
 
+::: info The structure of our project
+
 ```
 -- App
 |
@@ -83,7 +85,7 @@ Imagine your project hierarchy looks like this:
     --- InnerLib
 ```
 
-<figcaption>The structure of our project</figcaption>
+:::
 
 So, since InnerLib can’t be part of your original project, where can it reside? And also how would you be able to work locally while developing features inside InnerLib?
 
@@ -104,7 +106,7 @@ If you are not aware of submodules in Git, [<FontIcon icon="iconfont icon-git"/>
 
 > It often happens that while working on one project, you need to use another project from within it. 👉 Perhaps it’s a library that a third party developed or that you’re developing separately and using in multiple parent projects. 👈 A common issue arises in these scenarios: you want to be able to treat the two projects as separate yet still be able to use one from within the other.
 
-This paragraph shows us that this is exactly our use case. Using a submodule has its benefits. All your code is in one place, is easy to manage, and is easy to develop locally. 
+This paragraph shows us that this is exactly our use case. Using a submodule has its benefits. All your code is in one place, is easy to manage, and is easy to develop locally.
 
 But submodules have some weaknesses. One is the fact that you must always be aware of which branch your submodule is pointing to. Imagine a scenario where you are on a release branch in your main repository and your sub-module is on a feature branch. If you don’t notice, you release a version of your code with something that is not ready for production. Whoops.
 
@@ -157,7 +159,7 @@ include ':outerLib', ':innerLib', ':app'
 project('innerLib').projectDir = new File('PATH_TO_INNER_LIB')
 ```
 
-Using this approach, our `InnerLib` files will be linked to our working directory, so every change we make will be reflected immediately. 
+Using this approach, our `InnerLib` files will be linked to our working directory, so every change we make will be reflected immediately.
 
 But, we would like flexibility when working locally on OuterLib with a remote version of `InnerLib`. What we wrote above inside the settings.gradle file will only allow us to work locally and surely we don’t want to commit that as it is.
 
@@ -175,7 +177,7 @@ Below are the paths for `mavenLocal` depending on the operating system of your m
 
 <FontIcon icon="fas fa-folder-open"/>`/Users/YOUR_USERNAME/.m2`
 
-@tab <FontIcon icon="fa-brands fa-linux"/>Linux 
+@tab <FontIcon icon="fa-brands fa-linux"/>Linux
 
 <FontIcon icon="fas fa-folder-open"/>`/home/YOUR_USERNAME/.m2`
 
@@ -185,10 +187,9 @@ Below are the paths for `mavenLocal` depending on the operating system of your m
 
 :::
 
-In essence you can publish your library locally and then link to it in your project. Doing it this way, we can link our project to `InnerLib`. 
+In essence you can publish your library locally and then link to it in your project. Doing it this way, we can link our project to `InnerLib`.
 
 In order to allow this configuration in our project, we need to do the following things:
-
 
 ::: tabs
 
@@ -212,11 +213,11 @@ allprojects {
 }
 ```
 
-@tab 2. 
+@tab 2.
 
 Change our implementation line inside our dependencies clause to reference our InnerLib as if it we are referencing it remotely
 
-@tab 3. 
+@tab 3.
 
 To publish `InnerLib` locally, we will create a file called <FontIcon icon="iconfont icon-gradle"/>`publishingLocally.gradle` that will contain the following:
 
@@ -246,7 +247,7 @@ project.afterEvaluate {
 }
 ```
 
-@tab 4. 
+@tab 4.
 
 Inside your application level <FontIcon icon="iconfont icon-gradle"/>`build.gradle` file, add the line:
 
@@ -262,13 +263,13 @@ If this option seems a bit too good to be true, **it is**. While on one hand, we
 
 ## A Solution for Working Locally and Remotely
 
-We want to avoid the constant need to re-publish our InnerLib package whenever we make a change locally. We need to figure out a way to make our project be aware of those changes. 
+We want to avoid the constant need to re-publish our InnerLib package whenever we make a change locally. We need to figure out a way to make our project be aware of those changes.
 
 In the Working Locally section, we found out how to do that, but we had an issue with committing the settings.gradle file. To solve this problem so we can work both locally and remotely with our InnerLib, we will use a parameter we will define in our <FontIcon icon="fas fa-file-lines"/>`gradle.properties` file.
 
 The gradle.properties file is a place where you can store project level settings that configure your development environment. This helps make sure that all the developers on a team have a consistent development environment. 
 
-Some settings you might be familiar with that are found inside this file are AndroidX support (`android.useAndroidX=true`) or the JVM arguments (`org.gradle.jvmargs=-Xmx1536m`). 
+Some settings you might be familiar with that are found inside this file are AndroidX support (`android.useAndroidX=true`) or the JVM arguments (`org.gradle.jvmargs=-Xmx1536m`).
 
 To help us solve our situation, we can add a parameter here to indicate whether we want to work locally or not. Something along the lines of:
 

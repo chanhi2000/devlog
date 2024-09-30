@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Career > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Explore
   - Career
@@ -535,6 +535,7 @@ tag:
   - [창피한 일](http://jojoldu.tistory.com/m/797)
   - [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
   - [좋은 회사와 커뮤니티](https://jojoldu.tistory.com/m/799)
+  - [미움 받을 용기](https://jojoldu.tistory.com/m/806)
   <!-- END: jojoldu -->
 - [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
   - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/m/287)

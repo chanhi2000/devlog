@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: FastAPI > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Python
   - FastAPI
@@ -35,6 +35,9 @@ head:
 - [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
   - [FastAPI를 이용한 추론 모델 배포 (feat.docker)](https://cori.tistory.com/m/357)
   <!-- END: cori -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [Python FastAPI 개념 정리 (1) _ 프로젝트 세팅 & 패키지 구조](https://bbogle2.tistory.com/m/entry/Python-FastAPI-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0)
+  <!-- END: bbogle2 -->
 <!-- END: tistory.com -->
 ---
 

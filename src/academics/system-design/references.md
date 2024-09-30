@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: System Design > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Design
   - System
@@ -314,6 +314,7 @@ head:
 - [`@2fEJ` / \[UX원칙#19\]링크 호버 효과 4가지 원칙](https://brunch.co.kr/@@2fEJ/1483)
 - [`@2fEJ` / \[UX원칙#20\] 선택 버튼 상태 보여주기](https://brunch.co.kr/@@2fEJ/1484)
 - [`@2fEJ` / \[UX원칙#21\] 버튼 색상 적용 UX 가이드](https://brunch.co.kr/@@2fEJ/1486)
+- [`@ZVA` / 베이스드 롤업, 왜 레이어2 탈중앙화 대안으로 주목하나](https://brunch.co.kr/@@ZVA/733)
 
 <!-- END: brunch.co.kr -->
 

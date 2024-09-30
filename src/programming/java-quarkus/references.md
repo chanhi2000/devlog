@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Quarkus > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Java
   - Kotlin

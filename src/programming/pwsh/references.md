@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Powershell > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Powershell
   - References

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Kubernetes > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - DevOps
   - Kubernetes
@@ -131,6 +131,7 @@ head:
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[Kubernetes\] Overlay 파일시스템으로 이미지 중복 제거](http://yongho1037.tistory.com/m/840)
   - [\[KANS\] 2주차 - K8S Flannel CNI & Pause 정리](https://yongho1037.tistory.com/m/842)
+  - [\[KANS\] 4주차 - Service (ClusterIP, NodePort)](https://yongho1037.tistory.com/m/844)
   <!-- END: yongho1037 -->
 - [`sungwookoo` / Koo's Devlog](https://sungwookoo.tistory.com/m/)
   - [\[K8s\] Self-Managed 쿠버네티스 CI/CD 구축기 (Spring Cloud, MetalLB)](https://sungwookoo.tistory.com/m/133)
@@ -287,6 +288,7 @@ head:
 
 - [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://www.logonme.net/activities/etc/udemy-devops-k8s-master/)
 - [\[KANS\] 3기 2주 – K8S Flannel CNI & Pause 컨테이너](https://logonme.net/activities/kans_3_2/)
+- [\[KANS\] 3기 4주 – Service : ClusterIP, NodePort](https://logonme.net/activities/study/kans_3_4/)
 
 ---
 
@@ -409,6 +411,7 @@ head:
 - [커널 강화 도구 사용하기](https://ddii.dev/kubernetes/kernelhardening/)
 - [파드 Readiness & Probe](https://ddii.dev/kubernetes/readinessandprobe/)
 - [Multus on Kind cluster](https://ddii.dev/kubernetes/multus-on-kind/)
+- [ExternalDNS](https://ddii.dev/kubernetes/externaldns/)
 
 <!-- END: ddii.dev -->
 

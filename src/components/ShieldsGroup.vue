@@ -8,6 +8,7 @@
   
 <script>
 import Shield from "./Shield.vue";
+
 export default {
   name: "ShieldsGroup",
   components: { Shield },

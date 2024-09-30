@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Nest.js > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Node.js
   - Nest.js

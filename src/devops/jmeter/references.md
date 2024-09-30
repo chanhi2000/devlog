@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: JMeter > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - DevOps
   - Load Test

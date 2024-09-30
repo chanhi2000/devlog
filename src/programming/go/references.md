@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Go > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Go
   - References
@@ -441,6 +441,14 @@ tag:
 - [Developing a go bot embedding ichiban Prolog](https://rogersm.net/posts/developing-a-go-bot-embedding-ichiban-prolog/)
 
 <!-- END: rogersm.net -->
+
+---
+
+## 01010011
+
+- [On-Premise Cloud의 IaC를 위한 Terraform Provider 만들기](https://01010011.blog/2024/09/29/on-premise-cloud%ec%9d%98-iac%eb%a5%bc-%ec%9c%84%ed%95%9c-terraform-provider-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
+
+<!-- END: 01010011.blog -->
 
 ---
 

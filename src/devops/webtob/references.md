@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: WebtoB > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Web Server
   - WebtoB

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: CentOS > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Linux
   - Fedora

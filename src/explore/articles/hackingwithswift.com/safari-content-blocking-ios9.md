@@ -129,7 +129,7 @@ When you create any kind of extension in Xcode, you'll be asked whether you want
 On the left of the Xcode window you should need see a yellow folder called "ContentBlocker", and if you expand that you'll see three files:
 
 - .<FontIcon icon="iconfont icon-json"/>`blockerList.json` contains the list of things to block, written in JavaScript Object Notation (JSON)
-- .<FontIcon icon="fa-brands fa-swift"/>`ActionRequestHandler.swift` contains a tiny amount of Swift required to bootstrap your extension. If you know Swift you can add features here, but you'll need to use Swift 2. If you missed it, you can read my [introduction to Swift 2 tutorial](/explore/artilces/hackingwithswift.com/swift2.md) first.
+- .<FontIcon icon="fa-brands fa-swift"/>`ActionRequestHandler.swift` contains a tiny amount of Swift required to bootstrap your extension. If you know Swift you can add features here, but you'll need to use Swift 2. If you missed it, you can read my [introduction to Swift 2 tutorial](/explore/articles/hackingwithswift.com/swift2.md) first.
 - **Info.plist** contains the settings for the app extension.
 
 Of those three, we'll only use the first one. Select it now and you'll see the following:

@@ -159,6 +159,13 @@ https://skcareers.com/Recruit/
 }
 ```
 
+<SiteInfo
+  name="블라인드 하이어 | 1,000만이 사용하는 직장인 앱 blind가 만든 채용 서비스"
+  desc="3분만 투자해 프로필 등록하고, TOP 기업을 비롯하여 평소 관심 있었던 기업에서 먼저 보내는 채용 제안을 받아보세요!"
+  url="https://blindhire.co.kr"
+  logo="https://static.blindhire.co.kr/img/favicon.ico"
+  preview="https://static.blindhire.co.kr/img/opengraph.png"/>
+
 ---
 
 <TagLinks />

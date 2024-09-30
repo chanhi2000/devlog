@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Security > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Security
   - References
@@ -277,10 +277,22 @@ tag:
 
 ---
 
-## 코딩으로 자아실현
+## tistory
 
-- [web security 메모 (port swagger 일부)](https://kminito.tistory.com/112)
-- [노트필기) OWASP Top 10 - 2021](https://kminito.tistory.com/114)
+- [`kminito` / 코딩으로 자아실현](https://kminito.tistory.com/m/)
+  - [web security 메모 (port swagger 일부)](https://kminito.tistory.com/m/112)
+  - [노트필기) OWASP Top 10 - 2021](https://kminito.tistory.com/m/114)
+  <!-- END: kminito -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [TLS handshake 과정](https://jeongchul.tistory.com/m/752)
+  - [대칭키와 비대칭키 비교](https://jeongchul.tistory.com/m/753)
+  - [RSA 알고리즘](https://jeongchul.tistory.com/m/754)
+  - [AES 알고리즘](https://jeongchul.tistory.com/m/755)
+  <!-- END: jeongchul -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [O.MG 케이블](https://ravenkim97.tistory.com/m/438)
+  <!-- END: ravenkim97 -->
+<!-- END: tistorty.com -->
 
 ---
 
@@ -303,13 +315,8 @@ tag:
 ---
 
 ## Vin01’s Blog
+
 - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
-
----
-
-## Life Log
-
-- [O.MG 케이블](https://ravenkim97.tistory.com/438)
 
 ---
 

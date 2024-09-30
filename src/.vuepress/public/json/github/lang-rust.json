@@ -2585,5 +2585,19 @@
     "topics": ["ai", "computer-vision", "llm", "machine-learning", "ml", "multimodal", "vision"],
     "avatar": "https://avatars.githubusercontent.com/u/179202840?v=4",
     "banner": ""
+  }, {
+    "repo": "orhun/theattyr",
+    "desc": "A terminal theater for playing VT100 art and animations",
+    "officialSite": "http://artscene.textfiles.com/vt100/",
+    "topics": ["artscene", "ratatui", "rust", "terminal", "tui", "vt100"],
+    "avatar": "https://avatars.githubusercontent.com/u/24392180?v=4",
+    "banner": ""
+  }, {
+    "repo": "feldera/feldera",
+    "desc": "The Feldera Incremental Computation Engine",
+    "officialSite": "https://feldera.com",
+    "topics": ["analytics", "continuous", "data-analysis", "data-pipeline", "database", "incremental-computation", "kafka", "materialized-view", "realtime", "rust", "sql", "streaming"],
+    "avatar": "https://avatars.githubusercontent.com/u/133194489?v=4",
+    "banner": ""
   }
 ]

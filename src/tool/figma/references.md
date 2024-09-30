@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Figma > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Design
   - Figma

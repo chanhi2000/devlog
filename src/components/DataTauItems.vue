@@ -54,7 +54,7 @@
   
   <script>
   import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
-  import DataTauApi from '../js/api/DataTauApi'
+  import DataTauApi from './js/api/DataTauApi'
 
   export default {
     name: "DataTauItems",

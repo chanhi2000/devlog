@@ -165,10 +165,10 @@ In addition to theory, you'll gain hands-on experience:
 }
 ```
 
-- [**6.1** Setup and Data Loading](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthroug.md#61-data-loading-and-preparation)
-- [**6.2** Data Cleaning and Preprocessing](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthroug.md#62-handling-missing-data)
-- [**6.3** Exploratory Data Analysis (EDA)](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthroug.md#63-exploratory-data-analysis-eda)
-- [**6.4** Insight Extraction and Implementation](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthroug.md#64-customer-segmentation)
+- [**6.1** Setup and Data Loading](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthrough.md#61-data-loading-and-preparation)
+- [**6.2** Data Cleaning and Preprocessing](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthrough.md#62-handling-missing-data)
+- [**6.3** Exploratory Data Analysis (EDA)](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthrough.md#63-exploratory-data-analysis-eda)
+- [**6.4** Insight Extraction and Implementation](/explore/articles/freecodecamp.org/applied-data-science-with-python-book/6-code-walkthrough.md#64-customer-segmentation)
 
 ```component VPCard
 {

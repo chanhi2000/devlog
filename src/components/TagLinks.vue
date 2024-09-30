@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import Profile from "./Profile.vue";
+import Profile from "./Profile.vue"
 export default {
   name: "TagLinks",
   components: { Profile }

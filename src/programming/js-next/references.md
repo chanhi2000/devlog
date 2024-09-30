@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Next.js > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Node.js
   - Next.js

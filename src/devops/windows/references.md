@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Windows > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Microsoft
   - Windows
@@ -296,6 +296,14 @@ tag:
 ## jacking75
 
 - [Windows 에서 <kbd>Ctrl</kbd>-<kbd>L</kbd>을 사용하여 클립보드 백업 유무에 관계없이 줄 삭제하기](https://jacking75.github.io/OS_windows_20240922/)
+
+---
+
+## 하이제니스
+
+- [윈도우11에서 화면 캡처(캡처도구)를 이용한 이미지에서 텍스트 가져오기](https://m.blog.naver.com/chandong83/223599944635)
+
+<!-- END: chandong83 (blog.naver.com) -->
 
 ---
 

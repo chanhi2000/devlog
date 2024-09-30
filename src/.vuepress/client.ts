@@ -1,27 +1,25 @@
-/**
- * Client app enhancement file.
- *
- * https://v1.vuepress.vuejs.org/guide/basic-config.html#app-level-enhancements
- */
-import { defineClientConfig } from "vuepress/client"
 import { onMounted } from 'vue'
-
+import { defineClientConfig } from "vuepress/client"
 
 export default defineClientConfig({
   async enhance({ app, router, siteData }) {
-    // if (!__VUEPRESS_SSR__) {
-    // 
-    // }
+    router.beforeEach((to) => {
+      console.log("before navigation");
+    });
+
+    router.afterEach((to) => {
+      console.log("after navigation");
+    });
   },
   setup() {
     onMounted(() => {
-      
+      // use DOM API after mounted
+      document.querySelector("#app");
     })
   },
   layouts: {
 
   },
   rootComponents: [
-
   ]
 })

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Playwright > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Playwright
   - References

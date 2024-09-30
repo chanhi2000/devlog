@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Raspberry Pi (H/W) > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Hardware
   - Raspberry Pi

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Godot Engine > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Godot Engine
   - References

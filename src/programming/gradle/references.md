@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Gradle > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Gradle 
   - References

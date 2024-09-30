@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Linux - Fedora > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Linux
   - Fedora
@@ -34,6 +34,7 @@ tag:
 - [`@mythos` / \[Linux Kernel\] 리눅스 커널의 버전 관리 (Versioning)](https://velog.io/@mythos/Linux-Kernel-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%9D%98-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-Versioning)
 - [`@mythos` / \[Linux Kernel\] 패치 라이프 사이클 (next, staging tree)](https://velog.io/@mythos/Linux-Kernel-%ED%8C%A8%EC%B9%98-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4)
 - [`@mythos` / \[Linux Kernel\] Sparse 정적 분석 도구](https://velog.io/@mythos/Linux-Kernel-Sparse-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC)
+- [`@mythos` / \[Linux\] 특정 버전의 커널 제거하기 (소스 설치 포함)](https://velog.io/@mythos/Fedora-%ED%8A%B9%EC%A0%95-%EB%B2%84%EC%A0%84%EC%9D%98-%EC%BB%A4%EB%84%90-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-%EC%86%8C%EC%8A%A4-%EC%84%A4%EC%B9%98-%ED%8F%AC%ED%95%A8)
 
 <!-- END: velog.io -->
 

@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Cockroach > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - CockroachDB
   - References

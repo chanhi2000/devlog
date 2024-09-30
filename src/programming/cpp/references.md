@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: C++ > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - C++ 
   - References
@@ -270,6 +270,7 @@ head:
 - [LxMFC에 슬라이더 컨트롤이 추가되었습니다.](https://m.blog.naver.com/tipsware/223593892057)
 - [CAM으로 촬영되고 있는 원 크기 체크하기 - Step 1](https://m.blog.naver.com/tipsware/223596075092)
 - [이미지 파일을 섬네일 형식으로 보여주기 - Step 1](https://m.blog.naver.com/tipsware/223599043078)
+- [이미지 파일을 섬네일 형식으로 보여주기 - Step 2](https://m.blog.naver.com/tipsware/223599789170)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 

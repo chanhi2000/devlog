@@ -175,8 +175,7 @@ class MySettingsActivity: AppCompatActivity() {
 
 ## Crossfade Animation
 
-<VideoPlayer
-  src="/videos/lang-android/crossfade-animation.mp4" />
+<VidStack src="/videos/lang-android/crossfade-animation.mp4" />
 
 ::: details Crossfade Animation
 

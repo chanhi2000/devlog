@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Gatling > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - DevOps
   - Load Test

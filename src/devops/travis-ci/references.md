@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Travis CI > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - CI
   - Travis CI 

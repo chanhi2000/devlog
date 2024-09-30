@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Physics > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Physics
   - Science
@@ -91,6 +91,9 @@ head:
 - [배터리 용어 - DoD 개념](https://m.blog.naver.com/seo0511/223533133862)
 - [(전기차) 사용후](https://m.blog.naver.com/seo0511/223535816457)
 - [배터리 용어 - Ah](https://m.blog.naver.com/seo0511/223599462274)
+- [배터리 용어 : C - rate](https://m.blog.naver.com/seo0511/223600342660)
+
+<!-- END: seo0511 (blog.naver.com) -->
 
 ---
 

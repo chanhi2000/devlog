@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Computer Engineering > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Engineering
   - Computer
@@ -113,6 +113,11 @@ head:
   - [OS Delayed Write 지연 쓰기](https://jeongchul.tistory.com/m/747)
   - [OS Disk Swap 디스크 스왑](https://jeongchul.tistory.com/m/748)
   - [OS Critical Section 임계 구역](https://jeongchul.tistory.com/m/749)
+  - [TLS handshake 과정](https://jeongchul.tistory.com/m/752)
+  - [대칭키와 비대칭키 비교](https://jeongchul.tistory.com/m/753)
+  - [RSA 알고리즘](https://jeongchul.tistory.com/m/754)
+  - [AES 알고리즘](https://jeongchul.tistory.com/m/755)
+  - [HTTP/1.1 과 HTTP/2 비교](https://jeongchul.tistory.com/m/756)
   <!-- END: jeongchul -->
 <!-- END: tistory.com  -->
 

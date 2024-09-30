@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Lifeguide > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Lifeguide
   - References

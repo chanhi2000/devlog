@@ -319,7 +319,7 @@ struct SheetView: View {
 
 ### Audio Bluetooth Connection
 
-<VideoPlayer
+<VidStack
   title="Tip #496: Audio Bluetooth Connection. This code includes setting up your audio session in your app delegate to allow audio to be flipped between speaker and audio Bluetooth device. Trying this with AirPods: if you put your AirPods in your ear, the session will flip the audio from the speaker to the AirPods and update the image to a Bluetooth image and when removed the audio session flips back to the speaker with a speaker image."
   src="/videos/swift/audio-bluetooth-connection.mp4" />
 
@@ -405,7 +405,7 @@ extension ViewController: CBCentralManagerDelegate, CBPeripheralDelegate {
 
 ### Note Analyzer AudioKit
 
-<VideoPlayer
+<VidStack
   src="/videos/swift/note-analyzer-audiokit.mp4"/>
 
 ::: details Note Analyzer AudioKit
@@ -610,9 +610,7 @@ class Pitch {
 
 ### Stretchy Header
 
-<VideoPlayer
-  title=""
-  src="/videos/swift/stretchy-header.mp4" />
+<VidStack src="/videos/swift/stretchy-header.mp4" />
 
 ::: details Stretchy Header
 

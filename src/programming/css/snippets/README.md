@@ -270,8 +270,7 @@ const uploadImage = e => {
 
 ## Add Swipe to Close on a Sidebar
 
-<VideoPlayer
-  src="/videos/css/add-swipe-to-close-on-a-sidebar.mp4"/>
+<VidStack src="/videos/css/add-swipe-to-close-on-a-sidebar.mp4"/>
 
 ::: normal-demo Add Swipe to Close on a Sidebar
 

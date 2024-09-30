@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Angular.js > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Node.js
   - Angular.js

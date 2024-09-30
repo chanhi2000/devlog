@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Cubrid > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Relational Database
   - DB

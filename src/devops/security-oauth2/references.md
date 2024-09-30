@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: OAuth2 > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Security
   - OAuth2

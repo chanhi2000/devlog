@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Qt > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Qt
   - References
@@ -60,6 +60,7 @@ head:
   - [PyQt5 라벨 사용 예제 - QLabel, QFont, StyleSheet](http://webnautes.tistory.com/m/2388)
   - [PyQt5 QDateEdit 사용 예제](https://webnautes.tistory.com/m/2390)
   - [pyQt5에서 레이아웃을 사용하는 이유](https://webnautes.tistory.com/m/2394)
+  - [PyQt5로 구현한 버튼으로 스크롤 가능한 리스트뷰(QListWidget) 예제](https://webnautes.tistory.com/m/2396)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

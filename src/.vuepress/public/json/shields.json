@@ -112,7 +112,6 @@
   { "logo": "meta", "name": "Meta", "colorHex": "0467DF" },
   { "logo": "microsoft", "name": "Microsoft", "colorHex": "5E5E5E" },
   { "logo": "microsoftazure", "name": "Microsoft%20Azure", "colorHex": "0078D4" },
-  { "logo": "microsoftexcel", "name": "Microsoft%20Excel", "colorHex": "217346" },
   { "logo": "microsoftsqlserver", "name": "Microsoft%20SQL%20Server", "colorHex": "CC2927" },
   { "logo": "mongodb", "name": "MongoDB", "colorHex": "47A248" },
   { "logo": "mysql", "name": "MySQL", "colorHex": "4479A1" },

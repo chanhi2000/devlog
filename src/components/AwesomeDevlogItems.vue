@@ -8,10 +8,13 @@
 </template>
 <script>
 import DevLoadingvSpinner from './DevLoadingvSpinner.vue'
-import AwesomeDevlogApi from '../js/api/AwesomeDevlogApi'
+import AwesomeDevlogApi from './js/api/AwesomeDevlogApi'
+
 export default {
   name: 'AwesomeDevlogItems',
-  components: {},
+  components: {
+    DevLoadingvSpinner
+  },
   data() {
     return {
       isLoading: false,
@@ -29,15 +32,16 @@ export default {
       this.result = fetchedItems
     },
     async copyToClipboard(text = '') {
+      if (typeof navigator == "undefined") return;
       try {
         await navigator.clipboard.writeText(text);
       } catch (e) {
         console.warn('Error:', e)
         return
-      } 
+      }
     },
   },
-  mounted() {
+  async mounted() {
     this.onFetchData()
   },
 }

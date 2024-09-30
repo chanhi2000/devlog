@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Haskell > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - Haskell
   - References

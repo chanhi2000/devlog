@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Laravel > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category: 
   - PHP
   - Laravel

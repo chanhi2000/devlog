@@ -86,7 +86,7 @@ head:
 }
 ```
 
-```component VPCar
+```component VPCard
 {
   "title": "Building Intelligent Apps with Mistral AI",
   "desc": "Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...",
@@ -96,7 +96,7 @@ head:
 }
 ```
 
-```component VPCar
+```component VPCard
 {
   "title": "Learn RAG Fundamentals and Advanced Techniques",
   "desc": "Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...",
@@ -106,7 +106,7 @@ head:
 }
 ```
 
-```component VPCar
+```component VPCard
 {
   "title": "A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?",
   "desc": "ChatGPT was released in November 2022. Since then, we’ve witnessed rapid advancements in the field of AI and technology. But did you know that the journey of AI chatbots began way back in 1966 with ELIZA? ELIZA was not as sophisticated as today’s mod...",

@@ -3,6 +3,8 @@
 # abort on errors
 set -e
 
+export NODE_ENV=production
+
 # build
 npm run build
 

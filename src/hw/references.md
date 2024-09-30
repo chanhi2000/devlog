@@ -2,7 +2,7 @@
 lang: ko-KR
 title: References
 description: Hardware > References
-icon: iconfont icon-share
+icon: fas fa-book-atlas
 category:
   - Hardware
   - References
@@ -93,7 +93,9 @@ head:
 
 <!-- END: brunch.co.kr -->
 
-## HiGenis
+---
+
+## 하이제니스
 
 - [STM32 External Loader](https://higenis.notion.site/STM32-External-Loader-e7196eefefff435ab1ff26778f7f1360)
 - [NPU 2Tops가 내장된 Allwinner T527 개발 보드 - MYIRTech MYD-LT527](https://m.blog.naver.com/chandong83/223394412555)
@@ -142,6 +144,7 @@ head:
 - [Lin 통신에서도 Master/Slave 대신 Commander/Responder 로 사용해 보기](https://m.blog.naver.com/chandong83/223584432192)
 - [오늘 제작 들어간 보드들!](https://m.blog.naver.com/chandong83/223584443190)
 - [소형 로봇에 적용할 보드들](https://m.blog.naver.com/chandong83/223584451791)
+- [STM32G4-AUTO 출시](https://m.blog.naver.com/chandong83/223599960881)
 
 <!-- END: chandong83 -->
 
@@ -267,6 +270,9 @@ head:
 ## rein's world
 
 - [재택 작업 환경 개선하기](https://rein.kr/posts/2024-05-19-wfh-setups/)
+- [마우스, 마우스, 더 많은 마우스](https://rein.kr/posts/2024-09-28-mouse-mouse-mouse/)
+
+<!-- END: rein.kr -->
 
 ---
 
@@ -545,6 +551,7 @@ head:
 - [Audio Masking](https://cryptomuseum.com/covert/bugs/masking/)
 
 <!-- END: cryptomuseum.com -->
+
 ---
 
 <SiteInfo
