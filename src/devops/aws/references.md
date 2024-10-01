@@ -273,6 +273,9 @@ head:
 - [`kdhyo98` / 일단은 내 이야기](https://kdhyo98.tistory.com/m/)
   - [비공개 Github Repository SSH로 clone](https://kdhyo98.tistory.com/m/144)
   <!-- END: kdhyo98 -->
+- [`tre2man` / 발자취](https://tre2man.tistory.com/m/)
+  - [도메인 호스팅 이전하기](https://tre2man.tistory.com/m/370)
+  <!-- END: tre2man -->
 <!-- END: tistory.com -->
 ---
 

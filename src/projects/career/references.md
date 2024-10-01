@@ -336,6 +336,8 @@ tag:
 - [`@2weV` / 기대하게 만드는 Resume](https://brunch.co.kr/@@2weV/560)
 - [`@ZVA` / 웨이모는 돈 버는 사업이 될 수 없을 것이다...왜?](https://brunch.co.kr/@@ZVA/732)
 - [`@3L0s` / 플랫폼 규제/진흥 정책에 대한 유감과 제안 - 플랫폼 생태계-16](https://brunch.co.kr/@@3L0s/131)
+- [`@1dLN` / 문제를 정확하게 파악하기](https://brunch.co.kr/@@1dLN/63)
+- [`@2weV` / 나는 내 성장을 위해 나를 어디까지 내몰 수 있는가?!](https://brunch.co.kr/@@2weV/561)
 
 <!-- END: brunch.co.kr -->
 

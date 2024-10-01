@@ -64,6 +64,16 @@ head:
 
 - [`@legu` / 비정규화와 JOIN 최소화](https://until.blog/@legu/%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80-join-%EC%B5%9C%EC%86%8C%ED%99%94)
 
+<!-- END: until.blog -->
+
+---
+
+## Brunch
+
+- [`@sJg` / 데이터에만 집중하는 분석 플랫폼 Fabric - Microsoft Fabric으로 하는 데이터 분석](https://brunch.co.kr/@@sJg/173)
+
+<!-- END: brunch.co.kr -->
+
 ---
 
 ## great_tables

@@ -237,6 +237,9 @@ tag:
   - [MeiliSearch 검색 엔진 기능 분석](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84-%EA%B8%B0%EB%8A%A5-%EB%B6%84%EC%84%9D)
   - [MeiliSearch 설치 및 실행 방법](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
   <!-- END: bbogle2 -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [간단하게 정리해본 Rust 강좌 1 : 변수, 상수, 함수, 튜플, 배열, 데이터타입, `println`](https://webnautes.tistory.com/m/2194)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---

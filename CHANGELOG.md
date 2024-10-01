@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [v0.12.40 2024-10-02][v0.12.40]
+
+- 내용채워넣기
+- 컨텐츠 이동 (freecodecamp.org, milanjovanovic.tech, hackingwithswift.com, yozm.wishket.com)
+
+---
+
 ## [v0.12.39 2024-10-01][v0.12.39]
 
 - 내용채워넣기
@@ -2632,4 +2639,5 @@ Tips 트리구조 구성
 [v0.12.37]: https://github.com/chanhi2000/devlog/compare/v0.12.36...v0.12.37
 [v0.12.38]: https://github.com/chanhi2000/devlog/compare/v0.12.37...v0.12.38
 [v0.12.39]: https://github.com/chanhi2000/devlog/compare/v0.12.38...v0.12.39
-[v0.13.0]: https://github.com/chanhi2000/devlog/compare/v0.12.39...v0.13.0
+[v0.12.40]: https://github.com/chanhi2000/devlog/compare/v0.12.39...v0.12.40
+[v0.13.0]: https://github.com/chanhi2000/devlog/compare/v0.12.40...v0.13.0

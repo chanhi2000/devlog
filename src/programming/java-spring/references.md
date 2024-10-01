@@ -370,6 +370,7 @@ head:
   - [10.01. 책 삭제 기능 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/1001-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [10.02. 책 삭제 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1002-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [11.01. 책 목록 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/1101-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+  - [11.02. 책 목록 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1102-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -733,6 +734,7 @@ head:
 
 - [`yeonyeon` / 연로그](https://yeonyeon.tistory.com/m/)
   - [\[Reactor\] 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/m/330)
+  - [Spring MVC + Coroutines 에 대한 고민](https://yeonyeon.tistory.com/m/340)
   <!-- END: yeonyeon -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[Spring Security\] 예외 처리하기](https://backend-jaamong.tistory.com/m/169)
