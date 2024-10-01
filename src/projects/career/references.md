@@ -335,6 +335,7 @@ tag:
 - [`@2weV` / 기억에 남는 인터뷰(면접)의 특징](https://brunch.co.kr/@@2weV/559)
 - [`@2weV` / 기대하게 만드는 Resume](https://brunch.co.kr/@@2weV/560)
 - [`@ZVA` / 웨이모는 돈 버는 사업이 될 수 없을 것이다...왜?](https://brunch.co.kr/@@ZVA/732)
+- [`@3L0s` / 플랫폼 규제/진흥 정책에 대한 유감과 제안 - 플랫폼 생태계-16](https://brunch.co.kr/@@3L0s/131)
 
 <!-- END: brunch.co.kr -->
 
@@ -765,6 +766,7 @@ tag:
 - [배고픔의 축복](https://thestartupbible.com/2024/09/the-blessings-of-a-lack-of-capital.html)
 - [제2의 한류](https://thestartupbible.com/2024/09/the-second-korean-wave.html)
 - [당신이 뭐 하는지 알고 싶다. 다른 사람 말고.](https://thestartupbible.com/2024/09/focus-on-yourself-not-on-others.html)
+- [내 잠을 설치게 하는 것들](https://thestartupbible.com/2024/09/things-that-keep-me-up-at-night.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -1513,5 +1515,15 @@ https://m.blog.naver.com/&logId=
 - [개발자가 ‘일’ 잘하는 방법](https://veluxer62.github.io/explanation/how-developers-can-work-effectively/)
 
 <!-- END: veluxer62.github.io -->
+
+---
+
+## Ateals
+
+- [왕초보 개발자가 생각하는 코드 리뷰의 중요성](https://blog.ateals.me/posts/importance-of-code-reviews)
+
+<!-- END: blog.ateals.me -->
+
+---
 
 <TagLinks />

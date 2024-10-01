@@ -23,6 +23,7 @@ head:
 prev: /devops/github/articles/README.md
 date: 2023-05-27
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_039.png
 ---
 

@@ -359,6 +359,7 @@ tag:
 - [`awk`](https://johngrib.github.io/wiki/language/awk/)
 - [`sudo` 명령어](https://johngrib.github.io/wiki/cmd/sudo/)
 - [Bash Arrays](https://johngrib.github.io/wiki/cmd/bash/arrays/)
+- [Bash 구문 확장](https://johngrib.github.io/wiki/cmd/bash/expansion/)
 
 <!-- END: johngrib.github.io -->
 

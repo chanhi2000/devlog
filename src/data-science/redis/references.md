@@ -34,6 +34,8 @@ tag:
 - [`garimoo` / 클라이언트 사이드 캐싱](https://medium.com/garimoo/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%B1-71a3ca7727ff)
 - [`garimoo` / 레디스 ACL](https://medium.com/garimoo/%EB%A0%88%EB%94%94%EC%8A%A4-acl-7dc10b1b7acb)
 
+<!-- END: medium.com -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
@@ -46,6 +48,9 @@ tag:
 - [`@qkrtkdwns3410` / \[개발자를 위한 레디스\] 캐시 스탬피드 현상](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%BA%90%EC%8B%9C-%EC%8A%A4%ED%83%AC%ED%94%BC%EB%93%9C-%ED%98%84%EC%83%81)
 - [`qkrtkdwns3410` / \[개발자를 위한 레디스\] 스트림?](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 - [`qkrtkdwns3410` / \[개발자를 위한 레디스\] 메시지 브로커로 사용](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A0%88%EB%94%94%EC%8A%A4-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B8%8C%EB%A1%9C%EC%BB%A4%EB%A1%9C-%EC%82%AC%EC%9A%A9)
+- [`@sweet_sumin` / \[실전 레디스\] 1장](https://velog.io/@sweet_sumin/%EC%8B%A4%EC%A0%84-%EB%A0%88%EB%94%94%EC%8A%A4-1%EC%9E%A5)
+
+<!-- END: velog -->
 
 ---
 

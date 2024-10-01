@@ -25,6 +25,7 @@ head:
 prev: /programming/cs/articles/README.md
 date: 2023-09-23
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_056.png
 ---
 
@@ -94,7 +95,7 @@ You can solve these problems from the start by building a modular monolith. But 
 
 ## How a Modular Monolith Solves Coupling
 
-A [modular monolith](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns#what-is-a-modular-monolith.md) is a catchy name for a monolith system built from a few bounded contexts (modules) and following a set of principles to control coupling. Each module contains a cohesive set of functionalities and is isolated from other modules in the system. The isolation refers to database dependencies and inter-module communication.
+A [modular monolith](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md#what-is-a-modular-monolith) is a catchy name for a monolith system built from a few bounded contexts (modules) and following a set of principles to control coupling. Each module contains a cohesive set of functionalities and is isolated from other modules in the system. The isolation refers to database dependencies and inter-module communication.
 
 ![Modular monolith.](https://milanjovanovic.tech/blogs/mnw_056/modular_monolith.png?imwidth=2048)
 
@@ -113,7 +114,7 @@ Sharing database tables leads to a high degree of coupling, and this is exactly 
 
 A module should expose a public API that other modules can call. This public API is the entry point into the module. And this is the only way for modules to communicate.
 
-Communication between modules can be [synchronous](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns#synchronous-communication-with-method-calls.md) using method calls, or [asynchronous](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns#asynchronous-communication-with-messaging.md) using a message bus.
+Communication between modules can be [synchronous](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md#synchronous-communication-with-method-calls) using method calls, or [asynchronous](/explore/articles/milanjovanovic.tech/modular-monolith-communication-patterns.md#asynchronous-communication-with-messaging) using a message bus.
 
 My preferred approach is asynchronous communication using messaging. It's loosely coupled and makes the transition to microservices easier.
 

@@ -33,6 +33,9 @@ head:
 - [스플렁크 위주로 해주세요](https://kangmyounghun.blogspot.com/2024/08/blog-post.html)
 - [Splunk의 dedup](https://kangmyounghun.blogspot.com/2024/08/splunk-dedup.html)
 - [비율 계산](https://kangmyounghun.blogspot.com/2024/08/blog-post_22.html)
+- [Splunk의 데이터 전처리 자동화 - 2nd](https://kangmyounghun.blogspot.com/2024/09/splunk-2nd.html)
+
+<!-- END: kangmyounghun.blogspot.com -->
 
 ---
 

@@ -9,7 +9,6 @@ category:
 tag: 
   - ai
   - llm
-  - llama
 ---
 
 # {{ $frontmatter.description }} 관련

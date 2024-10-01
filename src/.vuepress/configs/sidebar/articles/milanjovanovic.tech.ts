@@ -102,12 +102,15 @@ export const template: SidebarInfoTemplate = {
       "complete-guide-to-amazon-sqs-and-amazon-sns-with-masstransit", // 2024-08-17
       "introduction-to-event-sourcing-for-net-developers", // 2024-08-31
       "refit-in-dotnet-building-robust-api-clients-in-csharp", // 2024-09-07
+      "dotnet-aspire-a-game-changer-for-cloud-native-development", // 2024-09-14
+      "breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices", // 2024-09-28
     ]],[
     "cs-razor", [
       "flexible-pdf-reporting-in-net-using-razor-views", // 2024-06-29
     ]],[
     "js-node", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
+      "how-i-implemented-full-text-search-on-my-website", // 2024-09-21
     ]],[
     "erl-rabbitmq", [
       "implementing-the-saga-pattern-with-rebus-and-rabbitmq", // 202404-01
@@ -115,6 +118,7 @@ export const template: SidebarInfoTemplate = {
     "docker", [
       "horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing", // 2024-03-30
       "simple-messaging-in-dotnet-with-redis-pubsub", // 2024-07-27
+      "dotnet-aspire-a-game-changer-for-cloud-native-development", // 2024-09-14
     ]],[
     "github", [
       "how-to-build-ci-cd-pipeline-with-github-actions-and-dotnet", // 2023-05-27
@@ -249,6 +253,9 @@ export const template: SidebarInfoTemplate = {
       "screaming-architecture", // 2024-08-24
       "introduction-to-event-sourcing-for-net-developers", // 2024-08-31
       "refit-in-dotnet-building-robust-api-clients-in-csharp", // 2024-09-07
+      "dotnet-aspire-a-game-changer-for-cloud-native-development", // 2024-09-14
+      "how-i-implemented-full-text-search-on-my-website", // 2024-09-21
+      "breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices", // 2024-09-28
     ]]
   ])
 };

@@ -116,23 +116,33 @@ head:
 
 ---
 
-## Teveloper 개발 & 테니스 이야기
+## tistory
 
-- [\[Next.js\] Turborepo에서 build시 cache가 적용되지 않는 이슈](https://teveloper.tistory.com/77)
-- [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인)](https://teveloper.tistory.com/m/86)
+- [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
+  - [\[Next.js\] Turborepo에서 build시 cache가 적용되지 않는 이슈](https://teveloper.tistory.com/m/77)
+  - [Next.js + Supabase로 빠르게 블로그 방명록 만들기 (with AI 디자인)](https://teveloper.tistory.com/m/m/86)
+  <!-- END: teveloper -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Server Side Rendering(SSR) with Next.js](https://jeongchul.tistory.com/m/757)
+  <!-- END: jeongchul -->
+- [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
+  - [[Next] 안정감있는 서비스를 위하여 #2 (Sentry with app router)](https://all-dev-kang.tistory.com/m/entry/Next-%EC%95%88%EC%A0%95%EA%B0%90%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%98%EC%97%AC-2-Sentry-with-app-router)
+  - [\[Next\] Next 14 app router에서 PWA가 될까?](https://all-dev-kang.tistory.com/m/entry/Next-Next-14-app-router%EC%97%90%EC%84%9C-PWA%EA%B0%80-%EB%90%A0%EA%B9%8C)
+  <!-- END: all-dev-kang -->
+- [`babysunmoon` / 주로로 통신](https://babysunmoon.tistory.com/m/)
+  - [\[React, Next.js\] Next.js? 꼭 써야하나? 어떤것을 써야 할까?](https://babysunmoon.tistory.com/m/entry/React-Nextjs-Nextjs-%EA%BC%AD-%EC%8D%A8%EC%95%BC%ED%95%98%EB%82%98-%EC%96%B4%EB%96%A4%EA%B2%83%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
+  - [\[Next.js\] 초기 개발 환경 for mac](http://babysunmoon.tistory.com/m/entry/Nextjs-%EC%B4%88%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-for-mac)
+  <!-- END: babysunmoon -->
+- [`haranglog` / haranglog](https://haranglog.tistory.com/m/)
+  - [누적 지원자 5000명 IT 비영리단체 DND... 이제는 바꿔야할 때 feat. 마이그레이션](https://haranglog.tistory.com/m/41)
+  <!-- END: haranglog -->
+<!-- END: tistory.com -->
 
 ---
 
 ## Miryang | Frontend Engineer
 
 - [내가 프론트엔드를 학습한 방법](https://miryang.dev/blog/how-studied-frontend)
-
----
-
-## 편리함을 추구하는 핸디의 지식 블로그
-
-- [[Next] 안정감있는 서비스를 위하여 #2 (Sentry with app router)](https://all-dev-kang.tistory.com/m/entry/Next-%EC%95%88%EC%A0%95%EA%B0%90%EC%9E%88%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%98%EC%97%AC-2-Sentry-with-app-router)
-- [\[Next\] Next 14 app router에서 PWA가 될까?](https://all-dev-kang.tistory.com/m/entry/Next-Next-14-app-router%EC%97%90%EC%84%9C-PWA%EA%B0%80-%EB%90%A0%EA%B9%8C)
 
 ---
 
@@ -214,22 +224,9 @@ head:
 
 ---
 
-## 주로로 통신
-
-- [\[React, Next.js\] Next.js? 꼭 써야하나? 어떤것을 써야 할까?](https://babysunmoon.tistory.com/m/entry/React-Nextjs-Nextjs-%EA%BC%AD-%EC%8D%A8%EC%95%BC%ED%95%98%EB%82%98-%EC%96%B4%EB%96%A4%EA%B2%83%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
-- [\[Next.js\] 초기 개발 환경 for mac](http://babysunmoon.tistory.com/m/entry/Nextjs-%EC%B4%88%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-for-mac)
-
----
-
 ## 개발하는 기획자. 기획하는 개발자.
 
 - [Vitest RTK & RTK Query 테스트 환경 세팅](https://m.blog.naver.com/gi_balja/223531133844)
-
----
-
-## haranglog
-
-- [누적 지원자 5000명 IT 비영리단체 DND... 이제는 바꿔야할 때 feat. 마이그레이션](https://haranglog.tistory.com/m/41)
 
 ---
 

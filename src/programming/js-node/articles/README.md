@@ -570,6 +570,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How I Implemented Full-Text Search On My Website",
+  "desc": "This article walks you through how I used Lunr.js to add powerful search capabilities to a Next.js static site, dealing with challenges like client-side processing and optimizing for performance along the way.",
+  "link": "/explore/articles/milanjovanovic.tech/how-i-implemented-full-text-search-on-my-website.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0.2)"
+}
+```
+
 <!-- END: milanjovanovic.tech -->
 
 ---

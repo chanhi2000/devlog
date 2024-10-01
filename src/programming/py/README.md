@@ -5,6 +5,9 @@ description: Python
 icon: fa-brands fa-python
 category:
   - Python
+tag:
+  - python
+  - py
 ---
 
 # {{ $frontmatter.description }} 관련

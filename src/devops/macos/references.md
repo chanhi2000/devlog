@@ -253,6 +253,7 @@ head:
 - [맥북 설정하기](https://johngrib.github.io/wiki/mac/setting/)
 - [macOS 전용 명령어들](https://johngrib.github.io/wiki/cmd/macos/)
 - [`screencapture` 명령어](https://johngrib.github.io/wiki/cmd/macos/screencapture/)
+- [macOS man hier](https://johngrib.github.io/wiki/cmd/macos/man-hier/)
 
 <!-- END: johngrib.github.io -->
 

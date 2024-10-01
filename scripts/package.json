@@ -4,7 +4,8 @@
   "description": "Web Scraping",
   "scripts": {
     "start-proxy": "node src/proxyServer.mjs",
-    "fetch": "node src/fetchContents.mjs"
+    "fetch": "node src/fetchContents.mjs",
+    "fetchMd": "node src/toMarkdownPg.mjs"
   },
   "workspaces": [
   ],

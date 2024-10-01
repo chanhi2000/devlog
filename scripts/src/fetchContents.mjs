@@ -1,42 +1,8 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
+import { currentYYYYMMDD, doFetch, __FILENAME__, __IS_DEBUG__ } from './util.mjs';
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
-
-// Create equivalents for __filename and __dirname
-const __filename = fileURLToPath(import.meta.url);
-const __IS_DEBUG__ = process.env.IS_DEBUG ?? false;
-// const __dirname = path.dirname(__filename);
 
 const URL_AWESOME_DEVLOG = 'http://localhost:3000/awesome-devlog/korean/people/feeds';  // Note the proxy URL
-
-var currentYYYYMMDD = () => {
-  const currentDate = new Date();
-  const year = currentDate.getFullYear();
-  const month = String(currentDate.getMonth() + 1).padStart(2, '0');
-  const day = String(currentDate.getDate()).padStart(2, '0');
-  return `${year}-${month}-${day}`;
-}
-
-async function doFetch(url, outputFName, parsingHtmlContent) {
-  console.log(`START doFetch ... url: ${url}`)
-  try {
-    const response = await axios.get(url);
-    const html = response.data;
-    
-    const $ = cheerio.load(html);
-    const content = await parsingHtmlContent($);
-
-    const filePath = path.join(path.resolve(), 'src', outputFName);
-    fs.writeFileSync(filePath, content, 'utf8');
-
-    console.log(`Markdown content saved to src/${outputFName}`);
-  } catch (error) {
-    console.error(`Error fetching the URL: ${error}`);
-  }
-}
-
 
 //region: AwesomeBlog
 export async function fetchAwesomeDevlog() {
@@ -90,7 +56,6 @@ ${mdContent}
 
 //region: GeekNews
 const URL_GEEK = "http://localhost:3000/geek"
-
 export async function fetchGeek() {
   console.log('START fetchAwesomeDevlog')
   doFetch(URL_GEEK, `geek-${currentYYYYMMDD()}.md`, ($) => {
@@ -290,12 +255,11 @@ export async function fetchJhrogue() {
     }
   })
 }
-
 //endregion: 컴퓨터 vs 책
 
 
 // Conditional check for script execution
-if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__filename)) {
+if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__FILENAME__)) {
   console.log('Script is being run directly.');  // Debugging log
   fetchAwesomeDevlog();
   fetchGeek();

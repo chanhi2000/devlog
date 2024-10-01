@@ -26,6 +26,7 @@ head:
 prev: /programming/cs-blazor/articles/README.md
 date: 2024-06-29
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_096.png
 ---
 

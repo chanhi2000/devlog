@@ -99,6 +99,7 @@ tag:
 - [`@euisuk-chung` / nvidia-smi의 시대는 갔다?](https://velog.io/@euisuk-chung/nvidia-smi%EC%9D%98-%EC%8B%9C%EB%8C%80%EB%8A%94-%EA%B0%94%EB%8B%A4)
 - [`@mythos` / \[Linux Kernel\] Sparse 정적 분석 도구](https://velog.io/@mythos/Linux-Kernel-Sparse-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC)
 - [`@mythos` / \[Linux\] 특정 버전의 커널 제거하기 (소스 설치 포함)](https://velog.io/@mythos/Fedora-%ED%8A%B9%EC%A0%95-%EB%B2%84%EC%A0%84%EC%9D%98-%EC%BB%A4%EB%84%90-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-%EC%86%8C%EC%8A%A4-%EC%84%A4%EC%B9%98-%ED%8F%AC%ED%95%A8)
+- [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack 5# NIC 구매 및 설치](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-5-NIC-%EA%B5%AC%EB%A7%A4-%EB%B0%8F-%EC%84%A4%EC%B9%98)
 
 <!-- END: velog.io -->
 

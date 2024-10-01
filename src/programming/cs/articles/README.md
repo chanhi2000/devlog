@@ -1104,6 +1104,15 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Breaking It Down: How to Migrate Your Modular Monolith to Microservices",
+  "desc": "Transitioning from a modular monolith to microservices can significantly enhance your system's scalability and your team's productivity, but it's a journey that requires careful planning and execution. In this practical guide, I'll walk you through the key steps of this migration process, from preparing your monolith and selecting the right module to extract, to implementing effective inter-service communication and data migration strategies, all based on real-world experience with .NET applications.",
+  "link": "/explore/articles/milanjovanovic.tech/breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices.md",
+  "logo": "https://milanjovanovic.tech/profile_favicon.png",
+  "background": "rgba(79,70,229,0.2)"
+}
+```
 
 <!-- END: milanjovanovic.tech -->
 

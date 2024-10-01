@@ -339,6 +339,9 @@ head:
 - [`takeu` / takeU](https://takeu.tistory.com/m/)
   - [5. 프로젝트 세팅 (FE + BE 연결)](https://takeu.tistory.com/m/398)
   <!-- END: takeu -->
+- [`mygumi` / 마이구미의 HelloWorld](https://mygumi.tistory.com/m/)
+  - [\[React\] `react-query` 에러 핸들링](https://mygumi.tistory.com/m/449)
+  <!-- END: mygumi -->
 <!-- END: tistory.com -->
 
 ---

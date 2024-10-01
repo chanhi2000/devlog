@@ -6,6 +6,7 @@ icon: fa-brands fa-react
 category: 
   - Node.js
   - React.js
+  - Youtube
   - Article(s)
 tag: 
   - blog
@@ -16,6 +17,8 @@ tag:
   - react
   - reactjs
   - react-js
+  - youtube
+  - crashcourse
 head:
   - - meta:
     - property: og:title

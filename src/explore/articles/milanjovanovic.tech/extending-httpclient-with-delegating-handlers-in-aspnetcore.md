@@ -25,6 +25,7 @@ head:
 prev: /programming/cs/articles/README.md
 date: 2024-01-13
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_072.png
 ---
 
@@ -97,7 +98,7 @@ app.MapGet("api/users/{username}", async (
 app.Run();
 ```
 
-The `GitHubService` class is a [typed client](/explore/articles/milanjovanovic.tech/the-right-way-to-use-httpclient-in-dotnet#replacing-named-clients-with-typed-clients.md) implementation. Typed clients allow you to expose a strongly typed API and hide the `HttpClient`. The runtime takes care of providing a configured `HttpClient` instance through dependency injection. You also don't have to think about disposing of the `HttpClient`. It's resolved from an underlying `IHttpClientFactory` that manages the `HttpClient` lifetime.
+The `GitHubService` class is a [typed client](/explore/articles/milanjovanovic.tech/the-right-way-to-use-httpclient-in-dotnet.md#replacing-named-clients-with-typed-clients) implementation. Typed clients allow you to expose a strongly typed API and hide the `HttpClient`. The runtime takes care of providing a configured `HttpClient` instance through dependency injection. You also don't have to think about disposing of the `HttpClient`. It's resolved from an underlying `IHttpClientFactory` that manages the `HttpClient` lifetime.
 
 ```cs
 public class GitHubService(HttpClient client)

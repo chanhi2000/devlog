@@ -613,6 +613,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "New React 19 Features You Should Know –  Explained with Code Examples",
+  "desc": "React.js is 11 years old, and it has become one of the most popular JavaScript libraries out there. And now, React is transitioning from version 18 to version 19. So hold onto your hats, React enthusiasts 🎩. React 19 has recently landed, and it’s a ...",
+  "link": "/explore/articles/freecodecamp.org/new-react-19-features-you-should-know-with-code-examples.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

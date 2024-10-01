@@ -61,6 +61,7 @@ head:
   - [PyQt5 QDateEdit 사용 예제](https://webnautes.tistory.com/m/2390)
   - [pyQt5에서 레이아웃을 사용하는 이유](https://webnautes.tistory.com/m/2394)
   - [PyQt5로 구현한 버튼으로 스크롤 가능한 리스트뷰(QListWidget) 예제](https://webnautes.tistory.com/m/2396)
+  - [QLabel에서 정수 출력시 자리수 유지하는 PyQt5 예제 코드](https://webnautes.tistory.com/m/2397)
   <!-- END: webnautes -->
 <!-- END: tistory.com -->
 

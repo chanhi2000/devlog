@@ -281,6 +281,9 @@ tag:
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
   <!-- END: jeongchul -->
+- [`hydev` / Note things to remember](https://hydev.tistory.com/m/)
+  - [`ThreadPoolTaskExecutor`와 `CompletableFutre`를 사용하여 비동기처리하기](https://hydev.tistory.com/m/41)
+  <!-- END: hydev -->
 <!-- END: tistory.com java -->
 
 ### EastGlow
@@ -716,6 +719,12 @@ tag:
 - [Metaspace in JVM Builds](https://jasonpearson.dev/metaspace-in-jvm-builds/)
 
 <!-- END: jasonpearson.dev -->
+
+### 항동킴 Blog
+
+- [`FileInputStream` 사용시 `java.io.FileNotFoundException`(Is a directory) 에러 수정](https://jinseong0928.blogspot.com/2024/09/fileinputstream-javaiofilenotfoundexcep.html)
+
+<!-- END: jinseong0928.blogspot.com -->
 
 ---
 

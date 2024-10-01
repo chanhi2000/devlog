@@ -4,13 +4,16 @@ title: React.js
 description: React.js
 icon: fa-brands fa-react
 category:
+  - Node.js
   - React.js
 tag: 
   - js
   - node
   - nodejs
+  - node-js
   - react
   - reactjs
+  - react-js
   - reactnative
   - facebook
   - meta

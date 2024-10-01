@@ -227,6 +227,7 @@ export const template: SidebarInfoTemplate = {
       "boost-web-performance-with-prefetching", // 2024-09-23
       "create-react-reusable-modal-component", // 2024-09-24
       "learn-react-hooks-with-example-code", // 2024-09-25
+      "new-react-19-features-you-should-know-with-code-examples" // 2024-09-30
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -315,6 +316,8 @@ export const template: SidebarInfoTemplate = {
       "master-multimodal-data-analysis-with-llms-and-python", // 2024-09-04
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
       "end-to-end-machine-learning-course-project", // 2024-09-26
+      "how-to-start-building-projects-with-llms", // 2024-09-30
+      "improve-your-data-science-skills-by-solving-kaggle-challenges", // 2024-09-30
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
@@ -578,6 +581,7 @@ export const template: SidebarInfoTemplate = {
       "learn-rag-fundamentals-and-advanced-techniques", // 2024-08-01
       "a-beginners-guide-to-large-language-models", // 2024-08-15
       HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK, // 2024-09-10
+      "how-to-start-building-projects-with-llms", // 2024-09-30
     ]],[
     "openai", [
       "how-to-use-gpt-to-analyze-large-datasets", // 2024-08-28
@@ -910,6 +914,9 @@ export const template: SidebarInfoTemplate = {
       "end-to-end-machine-learning-course-project", // 2024-09-26
       "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
       "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
+      "how-to-start-building-projects-with-llms", // 2024-09-30
+      "improve-your-data-science-skills-by-solving-kaggle-challenges", // 2024-09-30
+      "new-react-19-features-you-should-know-with-code-examples" // 2024-09-30
     ]],
   ]),
 }

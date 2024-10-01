@@ -127,6 +127,7 @@ head:
   <!-- END: jeongchul -->
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
+  - [Vault 컨셉과 기능 소개](https://jybaek.tistory.com/m/504723)
   <!-- END: jybaek -->
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[Kubernetes\] Overlay 파일시스템으로 이미지 중복 제거](http://yongho1037.tistory.com/m/840)

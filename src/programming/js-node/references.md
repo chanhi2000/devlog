@@ -1328,6 +1328,9 @@ tag:
 ## 개발하는 기획자. 기획하는 개발자.
 
 - [단위 테스트 (Unit Test)](https://m.blog.naver.com/gi_balja/223526833780)
+- [\[트러블슈팅\] Parsing error: ESLint was configured to run on ...... parserOptions.project](https://m.blog.naver.com/gi_balja/223600474135)
+
+<!-- END: gi_balja (blog.naver.com) -->
 
 ---
 

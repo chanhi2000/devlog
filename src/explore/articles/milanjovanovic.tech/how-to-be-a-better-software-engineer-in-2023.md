@@ -23,6 +23,7 @@ head:
 prev: /projects/career/articles/README.md
 date: 2022-12-31
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_018.png
 ---
 

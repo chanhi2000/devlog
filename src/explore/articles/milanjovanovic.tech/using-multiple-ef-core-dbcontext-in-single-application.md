@@ -25,6 +25,7 @@ head:
 prev: /programming/cs/articles/README.md
 date: 2023-03-11
 isOriginal: false
+author: Milan Jovanović
 cover: https://milanjovanovic.tech/blog-covers/mnw_028.png
 ---
 
@@ -161,7 +162,7 @@ public class OrderDbContext : DbContext
 Limitations with multiple `DbContexts`:
 
 1. It's not possible to do a join between different `DbContext` instances, because **EF Core** doesn't know if they are using the same database
-2. Transactions will only work if the `DbContexts` are using the same database. You have to create a new transaction and share it between the `DbContexts` by [calling the `UseTransaction` method](/explore/articles/milanjovanovic.tech/working-with-transactions-in-ef-core#using-existing-transactions-with-ef-core.md)
+2. Transactions will only work if the `DbContexts` are using the same database. You have to create a new transaction and share it between the `DbContexts` by [calling the `UseTransaction` method](/explore/articles/milanjovanovic.tech/working-with-transactions-in-ef-core.md#using-existing-transactions-with-ef-core)
 
 **Migrations History Table**
 

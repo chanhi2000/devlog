@@ -25,6 +25,7 @@ head:
 prev: /academcis/system-designarticles/README.md
 date: 2022-09-24
 isOriginal: false
+author: Milan Jovanović
 cover: https://www.milanjovanovic.tech/blog-covers/mnw_004.png
 ---
 

@@ -115,6 +115,15 @@ head:
   "background": "rgba(10,10,35,0.2)"
 }
 ```
+```component VPCard
+{
+  "title": "How to Start Building Projects with LLMs",
+  "desc": "If you’re an aspiring AI professional, becoming an LLM engineer offers an exciting and promising career path. But where should you start? What should your trajectory look like? How should you learn? In one of my previous posts, I laid out the complet...",
+  "link": "/explore/articles/freecodecamp.org/how-to-start-building-projects-with-llms.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
 
 <!-- END: freecodecamp.org -->
 

@@ -25,6 +25,7 @@ head:
 prev: /programming/cs/articles/README.md
 date: 2022-10-01
 isOriginal: false
+author: Milan Jovanović
 cover: https://www.milanjovanovic.tech/blog-covers/mnw_005.png
 ---
 
