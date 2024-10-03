@@ -3,7 +3,7 @@ import { SidebarInfoTemplate, SidebarInfoSubgroupTemplate } from ".";
 const DEVOPS_WITH_GITLAB_CI_COURSE: SidebarInfoSubgroupTemplate = { // 2022-03-02
   text: 'DevOps with GitLab CI Course',
   collapsible: true,
-  icon: 'iconfont icon-quarkus',
+  icon: 'fa-brands fa-gitlab',
   subPath: 'devops-with-gitlab-ci-course',
   children: [
     'README',
@@ -84,6 +84,46 @@ const HOW_AI_AGENTS_CAN_SUPERCHARGE_LANGUAGE_MODELS_HANDBOOK: SidebarInfoSubgrou
   ]
 }
 
+const WORK_WITH_SQLITE_IN_PYTHON_HANDBOOK: SidebarInfoSubgroupTemplate = { // 2024-10-02
+  text: 'How to Work with SQLite in Python – A Handbook for Beginners',
+  collapsible: true,
+  icon: 'fa-brands fa-python',
+  subPath: 'work-with-sqlite-in-python-handbook',
+  children: [
+    'README',
+    'how-to-set-up-your-python-environment',
+    'how-to-create-an-sqlite-database',
+    'how-to-create-database-tables',
+    'how-to-insert-data-into-a-table',
+    'how-to-query-data',
+    'how-to-update-and-delete-data',
+    'how-to-use-transactions',
+    'how-to-optimize-sqlite-query-performance-with-indexing',
+    'how-to-handle-errors-and-exceptions',
+    'how-to-export-and-import-data-bonus-section',
+  ]
+}
+
+const LEARN_HTTP_METHODS_LIKE_GET_POST_AND_DELETE_A_HANDBOOK_WITH_CODE_EXAMPLES: SidebarInfoSubgroupTemplate = { // 2024-10-02
+  text: 'Learn HTTP Methods like GET, POST, and DELETE – a Handbook with Code Examples',
+  collapsible: true,
+  icon: 'fa-brands fa-js',
+  subPath: 'learn-http-methods-like-get-post-and-delete-a-handbook-with-code-examples', 
+  children: [
+    'README',
+    'get-method',
+    'post-method',
+    'put-method',
+    'patch-method',
+    'delete-method',
+    'head-method',
+    'options-method',
+    'trace-method',
+    'connect-method',
+    'conclusion',
+  ]
+}
+
 export const template: SidebarInfoTemplate = {
   name: 'freecodecamp.org',
   faviconPath: 'https://cdn.freecodecamp.org/universal/favicons/favicon.ico',
@@ -109,6 +149,7 @@ export const template: SidebarInfoTemplate = {
     "java-android",[
       "working-on-a-multiple-library-project-in-android", // 2024-04-27
       "migrate-from-play-core-library", // 2024-06-26
+      "how-to-use-tooltips-in-jetpack-compose", // 2024-10-02
     ]],[
     "java-quarkus", [
         GET_STARTED_WITH_QUARKUS_AND_JPASTREAMER_2, // 2023-11-03
@@ -147,6 +188,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-chart-js-for-interactive-data-visualization", // 2024-09-12
       "use-the-javascript-selection-api-to-build-a-rich-text-editor", // 2024-09-16
       "javascript-timer-how-to-set-a-timer-function-in-js", // 2024-09-16
+      "new-javascript-array-methods-to-help-you-write-better-cleaner-code", // 2024-10-02
+      LEARN_HTTP_METHODS_LIKE_GET_POST_AND_DELETE_A_HANDBOOK_WITH_CODE_EXAMPLES, // 2024-10-02     
     ]],[
     "ts", [
       "learn-typescript-with-interactive-lessons", // 2024-07-09
@@ -177,6 +220,8 @@ export const template: SidebarInfoTemplate = {
       "implement-api-rate-limiting-in-strapi", // 2024-09-10
       "how-to-handle-side-effects-in-jest", // 2024-09-16
       "tools-for-code-reuse", // 2024-09-25
+      "improve-front-end-development-workflow-with-zenui-library", // 2024-10-03
+      "understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch", // 2024-10-03
     ]],[
     "js-react", [
       "avoid-prop-drilling-in-react", // 2023-11-07
@@ -227,7 +272,9 @@ export const template: SidebarInfoTemplate = {
       "boost-web-performance-with-prefetching", // 2024-09-23
       "create-react-reusable-modal-component", // 2024-09-24
       "learn-react-hooks-with-example-code", // 2024-09-25
-      "new-react-19-features-you-should-know-with-code-examples" // 2024-09-30
+      "new-react-19-features-you-should-know-with-code-examples", // 2024-09-30
+      "authenticate-react-app-using-firebase", // 2024-10-02
+      "react-best-practices-ever-developer-should-know", // 2024-10-03
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -245,6 +292,9 @@ export const template: SidebarInfoTemplate = {
       "what-is-speedy-web-compiler", // 2024-09-05
       "how-to-set-up-eslint-prettier-stylelint-and-lint-staged-in-nextjs", // 2024-09-16
       "how-to-create-a-nextjs-pwa", // 2024-09-20,
+      "integrate-wordpress-with-nextjs", // 2024-10-02
+      "how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs", // 2024-10-03
+      "create-a-front-end-portfolio-project-with-nextjs-and-threejs", // 2024-10-03
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -256,6 +306,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "js-supabase", [
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
+      "authenticate-react-app-using-firebase", // 2024-10-02
     ]],[
     "css", [
       "perfect-html-input", // 2023-01-05
@@ -273,6 +324,7 @@ export const template: SidebarInfoTemplate = {
     "css-tailwind", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
       "build-a-counter-button-with-react", // 2024-07-10
+      "create-a-front-end-portfolio-project-with-nextjs-and-threejs", // 2024-10-03
     ]],[
     "npm", [
       "how-to-build-a-login-page-with-material-tailwind-framework", // 2024-04-29
@@ -300,8 +352,7 @@ export const template: SidebarInfoTemplate = {
       "first-class-functions-and-closures-in-python", // 2024-06-17
       "decorators-in-python-tutorial", // 2024-06-18
       "for-else-loop-in-python", // 2024-06-19
-      "pyspark-for-beginners", // 2024-06-26
-      "what-is-a-markov-chain", // 2024-07-08
+      "pyspark-for-beginners", // 2024-06-26"what-is-a-markov-chain", // 2024-07-08
       "use-python-sdk-to-build-a-web-scraper", // 2024-07-10
       "how-to-use-python-generators", // 2024-07-10
       "what-are-monte-carlo-methods", // 2024-07-16
@@ -318,6 +369,7 @@ export const template: SidebarInfoTemplate = {
       "end-to-end-machine-learning-course-project", // 2024-09-26
       "how-to-start-building-projects-with-llms", // 2024-09-30
       "improve-your-data-science-skills-by-solving-kaggle-challenges", // 2024-09-30
+      WORK_WITH_SQLITE_IN_PYTHON_HANDBOOK, // 2024-10-02
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
@@ -331,6 +383,9 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "py-fastapi", [
       "use-the-farm-stack-to-develop-full-stack-apps", // 2024-09-18
+    ]],[
+    "py-jupyter", [
+      "how-to-run-r-programs-directly-in-jupyter-notebook-locally", // 2024-10-03
     ]],[
     "dart", [
       "how-to-develop-a-flutter-app-from-scratch", // 2024-04-26
@@ -366,6 +421,7 @@ export const template: SidebarInfoTemplate = {
       "golang-statically-and-dynamically-linked-go-binaries", // 2024-09-10
       "how-to-write-benchmark-tests-for-your-golang-functions", // 2024-09-23
       "how-to-work-with-sql-databases-in-go", // 2024-09-24
+      "how-to-run-database-migrations-in-kubernetes", // 2024-10-02
     ]],[
     "go-grafana", [
       "how-to-set-up-grafana-on-ec2", // 2024-08-02
@@ -377,24 +433,28 @@ export const template: SidebarInfoTemplate = {
       "using-entity-framework-core-with-mongodb", // 2024-07-29
       "learn-c-sharp-for-unity-in-spanish", // 2024-07-31
       "master-object-oriented-programming-and-design-patterns-in-c", // 2024-09-19
+      "learn-aspnet-core-mvc-with-net-9", // 2024-10-02
     ]],[
     "cs-blazor", [
       "use-local-storage-in-blazor-apps", // 2024-07-29
     ]],[
     "c", [
       "complete-c-programming-course-from-dr-chuck", // 2024-05-30
+      "how-to-create-linux-device-drivers", // 2024-10-03
     ]],[
     "cpp", [
       "run-sql-like-queries-on-cplusplus-files", // 2024-05-02
       "learn-cuda-programming", // 2024-09-24
+      "understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch", // 2024-10-03
     ]],[
     "php", [
       "php-jwt-authentication-implementation", // 2024-04-24
-      "php-array-handbook", // 2024-05-08    
+      "php-array-handbook", // 2024-05-08
       "php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb", // 2024-06-18
     ]],[
     "sh", [
       "linux-terminal-piping-and-redirection-guide", //2024-04-26
+      "how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial", // 2024-10-02
     ]],[
     "git", [
       GITTING_THINGS_DONE_BOOK, // 2024-01-08
@@ -413,6 +473,9 @@ export const template: SidebarInfoTemplate = {
     "regex", [
       "how-to-match-parentheses-in-javascript-without-using-regex", // 2024-08-12
     ]],[
+    "md", [
+      "how-to-start-your-open-source-journey-beginners-guide", // 2024-10-03
+    ]],[
     "github", [
       "create-personalized-github-profile-page", // 2024-05-01
       "how-to-become-an-open-source-maintainer", // 2024-05-20
@@ -424,6 +487,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-build-a-serverless-crud-rest-api", // 2024-08-21
       "how-to-manage-your-open-source-project-with-github", // 2024-09-05
       "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
+      "how-to-start-your-open-source-journey-beginners-guide", // 2024-10-03
     ]],[
     "gitlab", [
       DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
@@ -438,6 +502,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "linux-debian", [
       "learn-linux-for-beginners-book-basic-to-advanced", // 2024-07-12
+      "how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial", // 2024-10-02
     ]],[
     "linux-fedora", [
       "free-linux-crash-course-with-labs", // 2024-06-13
@@ -450,6 +515,7 @@ export const template: SidebarInfoTemplate = {
     "k8s", [
       "how-to-run-postgres-in-kubernetes",  // 2024-05-08
       "graceful-shutdowns-k8s-go", // 2024-08-13
+      "how-to-run-database-migrations-in-kubernetes", // 2024-10-02
     ]],[
     "aws", [
       DEVOPS_WITH_GITLAB_CI_COURSE, // 2022-03-02
@@ -494,6 +560,9 @@ export const template: SidebarInfoTemplate = {
       "what-is-cache-poisoning-and-how-to-avoid-it", // 2024-09-05
       "shodan-what-to-know-about-the-internets-most-dangerous-search-engine", // 2024-09-10
       "learn-how-to-secure-api-servers", // 2024-09-19
+      "how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial", // 2024-10-02
+      "the-power-of-wordlists-why-every-ethical-hacker-needs-one", // 2024-10-03
+      "hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts", // 2024-10-03
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -504,6 +573,9 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "vim", [
       "mastering-vim-your-guide-to-efficient-text-editing", // 2024-06-24
+    ]],[
+    "nmap", [
+      "hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts", // 2024-10-03
     ]],[
     "postgres", [
       "postgresql-indexing-strategies", // 2023-05-12
@@ -523,9 +595,16 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "sqlite", [
       "how-to-work-with-sql-databases-in-go", // 2024-09-24
+      WORK_WITH_SQLITE_IN_PYTHON_HANDBOOK, // 2024-10-02
+    ]],[
+    "graphql", [
+      "integrate-wordpress-with-nextjs", // 2024-10-02
     ]],[
     "spark", [
       "pyspark-for-beginners", // 2024-06-26
+    ]],[
+    "r", [
+      "how-to-run-r-programs-directly-in-jupyter-notebook-locally", // 2024-10-03
     ]],[
     "vscode", [
       "how-to-deploy-node-js-app-on-azure", // 2024-07-17
@@ -537,7 +616,7 @@ export const template: SidebarInfoTemplate = {
     "ms365", [
       "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
     ]],[
-      "google-drive", [
+    "google-drive", [
       "excel-vs-google-sheets-tables", // 2024-07-02
     ]],[
     "davinci", [
@@ -915,8 +994,27 @@ export const template: SidebarInfoTemplate = {
       "pass-the-microsoft-365-certified-fundamentals-ms-900-exam", // 2024-09-26
       "how-to-use-ssh-to-connect-to-github-guide-for-windows", // 2024-09-27
       "how-to-start-building-projects-with-llms", // 2024-09-30
+      "new-react-19-features-you-should-know-with-code-examples", // 2024-09-30
       "improve-your-data-science-skills-by-solving-kaggle-challenges", // 2024-09-30
-      "new-react-19-features-you-should-know-with-code-examples" // 2024-09-30
+      "learn-aspnet-core-mvc-with-net-9", // 2024-10-02
+      "new-javascript-array-methods-to-help-you-write-better-cleaner-code", // 2024-10-02
+      "authenticate-react-app-using-firebase", // 2024-10-02
+      "integrate-wordpress-with-nextjs", // 2024-10-02
+      WORK_WITH_SQLITE_IN_PYTHON_HANDBOOK, // 2024-10-02
+      "how-to-use-tooltips-in-jetpack-compose", // 2024-10-02
+      LEARN_HTTP_METHODS_LIKE_GET_POST_AND_DELETE_A_HANDBOOK_WITH_CODE_EXAMPLES, // 2024-10-02     
+      "how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial", // 2024-10-02
+      "how-to-run-database-migrations-in-kubernetes", // 2024-10-02
+      "how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs", // 2024-10-03
+      "the-power-of-wordlists-why-every-ethical-hacker-needs-one", // 2024-10-03
+      "improve-front-end-development-workflow-with-zenui-library", // 2024-10-03
+      "how-to-create-linux-device-drivers", // 2024-10-03
+      "how-to-start-your-open-source-journey-beginners-guide", // 2024-10-03
+      "understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch", // 2024-10-03
+      "react-best-practices-ever-developer-should-know", // 2024-10-03
+      "create-a-front-end-portfolio-project-with-nextjs-and-threejs", // 2024-10-03
+      "how-to-run-r-programs-directly-in-jupyter-notebook-locally", // 2024-10-03
+      "hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts", // 2024-10-03
     ]],
   ]),
 }

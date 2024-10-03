@@ -18,8 +18,6 @@ tag:
 
 # {{ $frontmatter.description }} 관련
 
-
-
 <ShieldsGroup logos="openjdk,android,intellijidea,androidstudio"/>
 
 ---

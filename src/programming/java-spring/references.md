@@ -371,6 +371,8 @@ head:
   - [10.02. 책 삭제 기능 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1002-%EC%B1%85-%EC%82%AD%EC%A0%9C-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [11.01. 책 목록 만들기 - 1](https://ysedeveloper.tistory.com/m/entry/1101-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
   - [11.02. 책 목록 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1102-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
+  - [12.01. 책 검색 기능 추가하기 - 1](https://ysedeveloper.tistory.com/m/entry/1201-%EC%B1%85-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-1)
+  - [12.02. 책 검색 기능 추가하기 - 2](https://ysedeveloper.tistory.com/m/entry/1202-%EC%B1%85-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-2)
   <!-- END: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
@@ -388,6 +390,7 @@ head:
   <!-- END: maeng-dev -->
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
+  - [Java/Spring 테스트 - 1](https://backend-jaamong.tistory.com/m/177)
   <!-- END: backend-jaamong -->
 - [`cla9` / 북극 펭귄](https://cla9.tistory.com/m/)
   - [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/m/118)

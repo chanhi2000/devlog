@@ -4849,5 +4849,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/182530059?v=4",
     "banner": ""
+  }, {
+    "repo": "gitify-app/gitify",
+    "desc": "GitHub notifications on your menu bar. Available on macOS, Windows & Linux.",
+    "officialSite": "https://gitify.io",
+    "topics": ["electron", "github", "github-api", "gitify", "node", "notifications", "react", "tailwindcss"],
+    "avatar": "https://avatars.githubusercontent.com/u/133795385?v=4",
+    "banner": ""
+  }, {
+    "repo": "zhengkyl/qrframe",
+    "desc": "code-based qr code generator",
+    "officialSite": "https://qrframe.kylezhe.ng",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/45705859?v=4",
+    "banner": ""
   }
 ]

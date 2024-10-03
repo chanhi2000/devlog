@@ -3595,5 +3595,19 @@
     "topics": ["benchmark", "bun", "cpp", "deno", "graaljs", "javascript", "jsc", "library", "microbenchmark", "node", "nodejs", "performance", "single-header", "spidermonkey", "v8"],
     "avatar": "https://avatars.githubusercontent.com/u/70155278?v=4",
     "banner": ""
+  }, {
+    "repo": "gnh1201/welsonjs",
+    "desc": "WelsonJS - Build a Windows app on the Windows built-in JavaScript engine",
+    "officialSite": "https://catswords.social/@catswords_oss",
+    "topics": ["automation", "chatgpt", "chrome", "coffeescript", "desktop", "html5", "javascript", "jscript", "lolbas", "lolbins", "microsoft", "mshta", "mshtml", "msoffice", "rescript", "rpa", "typescript", "uri", "windows", "wsh"],
+    "avatar": "https://avatars.githubusercontent.com/u/4439601?v=4",
+    "banner": ""
+  }, {
+    "repo": "lumirlumir/npm-clang-format-node",
+    "desc": "Node repackaging of the clang-format native binary inspired by angular/clang-format.🐉",
+    "officialSite": "https://www.npmjs.com/package/clang-format-node",
+    "topics": ["c", "checker", "clang", "clang-format", "cli", "cpp", "cpplint", "eslint", "format", "formatter", "lint", "linter", "prettier"],
+    "avatar": "https://avatars.githubusercontent.com/u/119669540?v=4",
+    "banner": ""
   }
 ]

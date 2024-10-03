@@ -325,6 +325,9 @@ tag:
 - [SwiftUI Environment Tips](https://chris.eidhof.nl/post/swiftui-environment-tips/)
 - [Running Code When Your View Appears](https://chris.eidhof.nl/post/swiftui-on-appear-vs-task)
 - [Working With `UIViewRepresentable`](https://chris.eidhof.nl/post/view-representable)
+- [SwiftUI Animations](https://chris.eidhof.nl/presentations/swiftui-animations)
+
+<!-- END: chris.eidhof.nl -->
 
 ---
 
@@ -421,11 +424,13 @@ tag:
 
 ---
 
-## Falsy Lab
+## 폴시랩
 
 - [SwiftData를 사용해보자! 1탄](https://falsy.me/swiftdata%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b4%ec%9e%90-1%ed%83%84/)
 - [`NSViewRepresentable`을 사용하여 SwiftUI 기반 앱에서 AppKit 사용하기](https://falsy.me/nsviewrepresentable%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-swiftui-%ea%b8%b0%eb%b0%98-%ec%95%b1%ec%97%90%ec%84%9c-appkit-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/)
 - [`WKWebView`의 웹 페이지에서 콘텍스트 메뉴의 이미지 다운로드 기능 구현하기(MacOS)](https://falsy.me/image-download-in-context-menu-on-wkwebview-macos/)
+
+<!-- END: falsy.me -->
 
 ---
 
@@ -574,6 +579,9 @@ tag:
 ## Christian Selig
 
 - [Recreating Apple's beautiful visionOS search bar](https://christianselig.com/2024/03/recreating-visionos-search-bar/)
+- [Server side Live Activities guide](https://christianselig.com/2024/09/server-side-live-activities/)
+
+<!-- END: christianselig.com -->
 
 ---
 
@@ -700,9 +708,12 @@ tag:
 
 ---
 
-## Swift on Server
+## Articles about server-side Swift development - Swift on server
 
 - [Developing with Swift in Visual Studio Code](https://swiftonserver.com/developing-with-swift-in-visual-studio-code/)
+- [Getting Started with Hummingbird](https://swiftonserver.com/getting-started-with-hummingbird/)
+
+<!-- END: swiftonserver.com -->
 
 ---
 
@@ -1012,6 +1023,14 @@ tag:
 - [MoveMe - SwiftUI Edition](https://whackylabs.com/swift/swiftui/ios/animation/2024/09/12/moveme-swiftui-edition/)
 
 <!-- END:  -->
+
+---
+
+## Orestis Papadopoulos
+
+- [`AVAudioEffectNode`: painless low level audio effects written in Swift](https://orjpap.github.io/swift/low-level/audio/avfoundation/2024/09/19/avAudioEffectNode.html)
+
+<!-- END: orjpap.github.io -->
 
 ---
 

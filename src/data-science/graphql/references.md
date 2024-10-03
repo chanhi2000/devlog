@@ -7,9 +7,6 @@ category:
   - GraphQL
   - References
 tag: 
-  - js
-  - javascript
-  - nodejs
   - graphql
   - blex.me
 head:

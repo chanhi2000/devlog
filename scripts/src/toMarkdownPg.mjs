@@ -1,5 +1,6 @@
-import { convertDateFormat, doFetch, parseOgData, createFrontMatter, createEndMatter, __FILENAME__, __IS_DEBUG__ } from './util.mjs';
+import { convertDateFormat, doFetch, parseOgData, createFrontMatter, createEndMatter, getFileAbsPath, __IS_DEBUG__ } from './util.mjs';
 import TurndownService from 'turndown';
+import path from 'path';
 
 //region: freecodecamp.org
 const URL_FREE_CODE_CAMP = 'https://freecodecamp.org/news';
@@ -35,7 +36,7 @@ async function fetchFreeCodeCampNewsArticle(articlePath) {
       const endMatter = createEndMatter(meta)
       mdContent = `${frontmatter}${mdContent.replace(/https:\/\/www.youtube.com\/watch\?v=/g, 'https://youtu.be/')
         .replace(/\[freeCodeCamp.org\]/g, '[<FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp.org]')
-        .replace(/\(https:\/\/www\./g, 'https://')
+        .replace(/\(https:\/\/www\./g, '(https://')
         .replace(/\*   /g, '- ')}${endMatter}`
       return mdContent
     } catch (err) {
@@ -95,7 +96,7 @@ console.log(`args[0]: ${args[0]}`)
 // console.log(`args[1]: ${args[1]}`)
 
 
-if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__FILENAME__)) {
+if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(getFileAbsPath(import.meta.url))) {
   console.log('Script is being run directly.');
   let articlePath = ''
   const isFreeCodeCamp = /freecodecamp\.org/.test(argArticleUrl)
@@ -104,6 +105,7 @@ if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.
     console.log('IT IS FREECODECAMP article!');
     articlePath = argArticleUrl.replace(/\https:\/\/www\./g, 'https://')
       .replace(/https:\/\/freecodecamp\.org\/news\//g, '')
+      .replace(/\//g, '')
     console.log(`articlePath: ${articlePath}`);
     fetchFreeCodeCampNewsArticle(articlePath)
     console.log(`END fetchFreeCodeCampNewsArticle ... articlePath: ${articlePath}`);
@@ -114,6 +116,7 @@ if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.
     console.log('IT IS MilanJovanovic article!');
     articlePath = argArticleUrl.replace(/\https:\/\/www\./g, 'https://')
       .replace(/https:\/\/milanjovanovic\.tech\/blog\//g, '')
+      .replace(/\//g, '')
     fetchMilanJovanovicArticle(articlePath)
     console.log(`END fetchMilanJovanovicArticle ... articlePath: ${articlePath}`);
   }

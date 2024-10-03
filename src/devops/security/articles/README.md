@@ -165,7 +165,27 @@ head:
 {
   "title": "Learn How To Secure API Servers", 
   "desc": "APIs (Application Programming Interfaces) play an important role in enabling communication between different software systems. However, with great power comes great responsibility, and securing these APIs is necessary to protect sensitive data and ma...",
-  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-how-to-secure-api-servers.md",
+"link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/learn-how-to-secure-api-servers.md",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks – Security Tutorial",
+  "desc": "As a pentester (a fancy term for an ethical hacker), you will often attack systems the same way a malicious hacker does. But your goal will be to find weaknesses – so teams can work to address them. One such system is password-based authentication. B...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "The Power of Wordlists: Why Every Ethical Hacker Needs One",
+  "desc": "Wordlists are a core component of brute-force attacks. Let's learn what they are and how to use them. Imagine that you’re a security professional who’s performing a penetration test on a client’s website. Your job is to find potential weak points in ...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/the-power-of-wordlists-why-every-ethical-hacker-needs-one.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

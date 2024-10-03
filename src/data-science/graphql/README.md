@@ -4,14 +4,8 @@ title: GraphQL
 description: GraphQL
 icon: iconfont icon-graphql
 category:
-  - Node.js
   - GraphQL
 tag: 
-  - js
-  - javascript
-  - node
-  - nodejs
-  - node-js
   - graphql
   - apollo
 ---

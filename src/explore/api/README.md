@@ -444,6 +444,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
 }
 ```
 
+<SiteInfo
+  name="LocalFile.io"
+  desc="파일관리 자동화 도구"
+  url="https://localfile.io/ko/run/rename/"
+  logo="https://localfile.io/favicon.svg"
+  preview="https://localfile.io/ogp.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1290,6 +1297,20 @@ http://texturer.com/
   "background": "rgba(119,18,119,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Screenshots Pro - App Store Mockup Generator [iOS & Android]"
+  desc="Create panoramic screenshots for iOS & Android apps using our App Store screenshot generator. Browse templates to get started. It's online and free."
+  url="https://screenshots.pro/"
+  logo="https://screenshots.pro/icon.svg?78dfa9cdfab53203"
+  preview="https://screenshots-qwtt1b53d-romarybintsevs-projects.vercel.app/opengraph-image.png?ec3350c15c4bc760"/>
+
+<SiteInfo
+  name="Synfig – Free and open-source animation software"
+  desc="Synfig Studio Open-source 2D Animation Software for Windows, Linux and MacOS Download Previous Next Synfig Studio is a free and open-source 2D animation software, designed as powerful industrial-strength solution for creating film-quality animation using a vector and bitmap artwork. It…"
+  url="https://synfig.org/"
+  logo="https://synfig.org/favicon.ico"
+  preview="https://synfig.org/wp-content/uploads/2018/02/logo.png"/>
 
 <!-- END: Design & Image -->
 

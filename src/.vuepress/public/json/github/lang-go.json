@@ -2659,5 +2659,12 @@
     "topics": ["burndown", "git", "git-analysis", "machine-learning", "mining-software-repositories", "mloncode", "tensorboard-visualizations", "tensorflow"],
     "avatar": "https://avatars.githubusercontent.com/u/15128793?v=4",
     "banner": ""
+  }, {
+    "repo": "maddalax/htmgo",
+    "desc": "htmgo - build simple and scalable systems with go + htmx",
+    "officialSite": "https://htmgo.dev",
+    "topics": ["go", "golang", "htmx", "htmx-go", "hypermedia", "hypermedia-driven-application", "javascript", "server-side-rendering"],
+    "avatar": "https://avatars.githubusercontent.com/u/11528924?v=4",
+    "banner": ""
   }
 ]

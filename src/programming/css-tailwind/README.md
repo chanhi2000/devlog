@@ -11,8 +11,10 @@ category:
 tag: 
   - node
   - nodejs
+  - node-js
   - css
   - tailwind
+  - tailwindcss
   - tailwind-css
 ---
 

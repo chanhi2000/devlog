@@ -30,6 +30,12 @@ head:
 
 ---
 
+## pdf(s)
+
+<PDF url="https://explore.tidelift.com/2024-survey" />
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
@@ -180,6 +186,32 @@ head:
 ## 보름의 달빛 ✨
 
 - [시간 복잡도와 공간 복잡도](https://shkisme.vercel.app/Time-Space-Complexity)
+
+<!-- END: shkisme.vercel.app -->
+
+---
+
+## Warmblood TechBlog
+
+- [`warmblood-kr.github.io` / 기술부채의 원래 의미는?](https://warmblood-kr.github.io/dev-practice/2024/09/23/technical-debt.html)
+
+<!-- END: warmblood-kr.github.io -->
+
+---
+
+## Cloudflare
+
+- [New standards for a faster and more private Internet](https://blog.cloudflare.com/new-standards/)
+
+<!-- END: blog.cloudflare.com -->
+
+---
+
+## jacking75
+
+- [IT 엔지니어라면 당연히 알아야 할 보안 지식 퀴즈. 무료 Wi-Fi 편](https://jacking75.github.io/network_20241003/)
+
+<!-- END: jacking75.github.io -->
 
 ---
 

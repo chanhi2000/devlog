@@ -186,6 +186,7 @@ tag:
 - [`israeli-tech-radar` / In the Cross-Platform world, is Kotlin Multiplatform the right choice for your next application?](https://medium.com/israeli-tech-radar/in-the-cross-platform-world-is-kotlin-multiplatform-the-right-choice-for-your-next-application-96073b17a91c)
 - [`cohen.n.raphael` / Advanced Kotlin Magic: Unlocking the Power of `combine` for Android Development! 🧠💪](https://medium.com/@cohen.n.raphael/advanced-kotlin-magic-unlocking-the-power-of-combine-for-android-development-4352dc486b7f)
 - [`_thomaskioko` / Enhancing iOS UI Previews: Swift UI Packages & Kotlin Multiplatform Mobile.](https://medium.com/@_thomaskioko/enhancing-ios-development-with-swift-ui-packages-kmm-fa31901fa146)
+- [`hongbeomi-dev` / Compose에서 State Holder를 통해 효율적으로 State 관리하기](https://medium.com/hongbeomi-dev/compose%EC%97%90%EC%84%9C-state-holder%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-state-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-6abd1eca4e25?source=rss-c941a8b6c471------2)
 
 <!-- END: medium.com -->
 
@@ -579,7 +580,8 @@ tag:
 - [`code-with-me` / 기존 Google 로그인 대신 Credential Manager API를 활용한 Sign in with Google 로그인 구현하기](https://inblog.ai/code-with-me/기존-google-로그인-대신-credential-manager-api를-활용한-sign-in-with-google-로그인-구현하기-21777)
 - [`code-with-me` / \[Android\] Explain build error: Circular dependency between the following tasks:](https://inblog.ai/code-with-me/android-explain-build-error-circular-dependency-between-the-following-tasks-25632)
 - [`code-with-me` / \[Android\] `HiltViewModel`과 `ViewModel`의 차이](https://inblog.ai/code-with-me/android-hiltviewmodel과-viewmodel의-차이-25407)
-- [\[Android\] ViewModel에서 사용자가 입력한 값들이 제대로 반영되지 않아 필요한 정보가 누락되는 문제](https://inblog.ai/code-with-me/android-viewmodel에서-사용자가-입력한-값들이-제대로-반영되지-않아-필요한-정보가-누락되는-문제-30277)
+- [`code-with-me` / \[Android\] ViewModel에서 사용자가 입력한 값들이 제대로 반영되지 않아 필요한 정보가 누락되는 문제](https://inblog.ai/code-with-me/android-viewmodel에서-사용자가-입력한-값들이-제대로-반영되지-않아-필요한-정보가-누락되는-문제-30277)
+- [`code-with-me` / \[Android\] `collectAsStateWithLifecycle`과 `collectAsState`의 차이](https://inblog.ai/code-with-me/android-collectasstatewithlifecycle과-collectasstate의-차이-30637)
 
 <!-- END: inblog.ai -->
 

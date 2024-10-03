@@ -91,4 +91,12 @@ tag:
 
 ---
 
+## Cloudflare
+
+- [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
+
+<!-- END: blog.cloudflare.com -->
+
+---
+
 <TagLinks />

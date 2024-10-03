@@ -623,6 +623,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Authenticate Your React App Using Firebase",
+  "desc": "Authentication is a fundamental aspect of modern web and mobile applications. It ensures that users can securely access an app while protecting their data. Firebase, a platform developed by Google, offers a simple and efficient way to add authenticat...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/authenticate-react-app-using-firebase.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "React Best Practices Ever Developer Should Know",
+  "desc": "The more I study React.js, the more I fall in love with it. No doubt that it’s one of the most useful and loved front-end JavaScript libraries out there. And the improvements that the React team have made lately don’t just affect developers, but also...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/react-best-practices-ever-developer-should-know.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

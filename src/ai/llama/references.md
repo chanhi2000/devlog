@@ -35,6 +35,9 @@ head:
 
 - [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/)
 - [Introducing SAM 2: The next generation of Meta Segment Anything Model for videos and images](https://ai.meta.com/blog/segment-anything-2/)
+- [Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
+
+<!-- END: ai.meta.com -->
 
 ### Research
 
@@ -59,6 +62,9 @@ head:
 - [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
   - [CodeGPT로 IntelliJ에서 Ollama LLM 사용하기](https://devs0n.tistory.com/m/196)
   <!-- END: devs0n -->
+- [`webnautes` / 멈춤보단 천천히라도  ](https://webnautes.tistory.com/m/)
+  - [Llama 3.2 3B finetuning 해보기](https://webnautes.tistory.com/m/2398)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ## LMSYS Org

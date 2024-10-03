@@ -578,10 +578,13 @@ tag:
 ## Cloudflare
 
 - [Encrypted Client Hello - the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello)
+- [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
+
+<!-- END: blog.cloudflare.com -->
 
 ---
 
-## Cloudfour 
+## Cloudfour
 
 - [Stop Lazy Loading Product and Hero Images](https://cloudfour.com/thinks/stop-lazy-loading-product-and-hero-images)
 
@@ -1202,6 +1205,8 @@ tag:
 - [타입스크립트로 알아보는 자료구조](https://falsy.me/%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%a1%9c-%ec%95%8c%ec%95%84%eb%b3%b4%eb%8a%94-%ec%9e%90%eb%a3%8c%ea%b5%ac%ec%a1%b0/)
 - [Node.js의 WebSocket, TCP, UDP 서버를 만들어서 TCP와 UDP의 특징을 확인해보자](https://falsy.me/node-js%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%9c-websocket-tcp-udp-%ec%84%9c%eb%b2%84%eb%a5%bc-%eb%a7%8c%eb%93%a4%ec%96%b4%ec%84%9c-tcp%ec%99%80-udp%ec%9d%98-%ec%b0%a8%ec%9d%b4%eb%a5%bc-%ed%99%95/)
 
+<!-- END: falsy.me -->
+
 ---
 
 ## DailyEngineering
@@ -1385,6 +1390,14 @@ tag:
 - [Going Buildless](https://mxb.dev/blog/buildless/)
 
 <!-- END: mxb.dev -->
+
+---
+
+## Platformatic HQ
+
+- [The Nine Node Pillars](https://platformatichq.com/node-principles)
+
+<!-- END: platformatichq.com -->
 
 ---
 

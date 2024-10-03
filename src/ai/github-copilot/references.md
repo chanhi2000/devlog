@@ -34,6 +34,7 @@ head:
 - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
 - [GitHub Copilot Chat in GitHub Mobile is now generally available](https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/)
 - [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/)
+- [GitHub Copilot now available in github.com for Copilot Individual and Copilot Business plans](https://github.blog/news-insights/product-news/github-copilot-now-available-in-github-com-for-copilot-individual-and-copilot-business-plans/)
 
 ---
 

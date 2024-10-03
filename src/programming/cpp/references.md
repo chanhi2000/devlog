@@ -272,6 +272,7 @@ head:
 - [이미지 파일을 섬네일 형식으로 보여주기 - Step 1](https://m.blog.naver.com/tipsware/223599043078)
 - [이미지 파일을 섬네일 형식으로 보여주기 - Step 2](https://m.blog.naver.com/tipsware/223599789170)
 - [값을 빠르게 갱신해도 깜빡임 없는 ListBox - Step 1](https://m.blog.naver.com/tipsware/223600854372)
+- [ListBox에 실시간 막대그래프 그리기 - Step 1](https://m.blog.naver.com/tipsware/223603504576)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 

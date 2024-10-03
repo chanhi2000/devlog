@@ -5,6 +5,9 @@ description: Go
 icon: fa-brands fa-golang
 category:
   - Go
+tag:
+  - go
+  - golang
 ---
 
 # {{ $frontmatter.description }} 관련

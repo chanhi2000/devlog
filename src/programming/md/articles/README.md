@@ -8,6 +8,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - digitalocean.com
   - markdown
   - md
@@ -51,7 +52,17 @@ head:
 {
   "title": "How to Create Notice Blocks in Markdown",
   "desc": "Markdown is a very popular lightweight markup language. It is used for writing documentation and even for creating a complete website. Therefore, almost all of us frequently use this markup language every once in a while. However, there are some limitations to this language. In some cases, we can not...",
-  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-notice-blocks-in-markdown.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-notice-blocks-in-markdown.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Start Your Open Source Journey: A Beginner's Guide to Contributing",
+  "desc": "Open source software has become the backbone of modern technology, powering everything from small startups to giant corporations. Contributing to open source projects is not just a way to give back to the community – it's also an excellent opportunit...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-start-your-open-source-journey-beginners-guide.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -69,7 +80,7 @@ head:
 {
   "title": "How To Add Images in Markdown | DigitalOcean",
   "desc": "The syntax for inserting images in Markdown.",
-  "link": "https://chanhi2000.github.io/bookshelf/digitalocean.com/markdown-markdown-images.md",
+  "link": "https://chanhi2000.github.io/bookshelf/digitalocean.com/markdown-markdown-images.html",
   "logo": "https://digitalocean.com/_next/static/media/favicon.594d6067.ico",
   "background": "rgba(29,55,209,0.2)"
 }

@@ -188,6 +188,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Start Your Open Source Journey: A Beginner's Guide to Contributing",
+  "desc": "Open source software has become the backbone of modern technology, powering everything from small startups to giant corporations. Contributing to open source projects is not just a way to give back to the community – it's also an excellent opportunit...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-start-your-open-source-journey-beginners-guide.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

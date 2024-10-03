@@ -276,6 +276,9 @@ head:
 - [`tre2man` / 발자취](https://tre2man.tistory.com/m/)
   - [도메인 호스팅 이전하기](https://tre2man.tistory.com/m/370)
   <!-- END: tre2man -->
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
+  <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 ---
 

@@ -452,4 +452,20 @@ tag:
 
 ---
 
+## @bwplotka
+
+- [Leveraging benchstat Projections in Go Benchmark Analysis!](https://bwplotka.dev/2024/go-microbenchmarks-benchstat/)
+
+<!-- END: bwplotka.dev -->
+
+---
+
+## Julia Evans
+
+- [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
+
+<!-- END: jvns.ca -->
+
+---
+
 <TagLinks />

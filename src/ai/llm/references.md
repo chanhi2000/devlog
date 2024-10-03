@@ -83,6 +83,7 @@ head:
 - [`@euisuk-chung` / \[NLP\] 2. Steps of Text Analytics](https://velog.io/@euisuk-chung/%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B6%84%EC%84%9D-%EB%8B%A8%EA%B3%84)
 - [`@euisuk-chung` / \[꿀팁\] 프롬프트 엔지니어링 (강의 요약)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B0%95%EC%9D%98-%EC%9A%94%EC%95%BD)
 - [`@euisuk-chung` / \[IT\] LLMOps와 RAG](https://velog.io/@euisuk-chung/IT-LLMOps%EC%99%80-RAG)
+- [`@euisuk-chung` / 2025년 AI 트렌드: LMM, LAM, 온디바이스 AI, AI 에이전트, 임베디드 AI, 그리고 FMOps](https://velog.io/@euisuk-chung/2025%EB%85%84-AI-%ED%8A%B8%EB%A0%8C%EB%93%9C-LMM-LAM-%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-AI-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-AI-%EA%B7%B8%EB%A6%AC%EA%B3%A0-FMOps)
 
 <!-- END: velog.io -->
 
@@ -282,6 +283,7 @@ head:
   - [\[Gen AI\] 생성형 모델들의 원리 비교: VAE, GAN, Flow-based, Diffusion](https://csj000714.tistory.com/m/1199)
   - [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
   - [\[논문리뷰\] LiDAR2Map: LiDAR-based distillation scheme - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023)](https://csj000714.tistory.com/m/1156)
+  - [\[Gen AI\] Generative Adversarial Network(GAN) 설명: 기초](https://csj000714.tistory.com/m/1201)
   <!-- END: csj000714 -->
 - [`americanopeople` / 복세편살](https://americanopeople.tistory.com/m/)
   - [NotebookLM: AI 시대에 원서 개발 서적 읽기](https://americanopeople.tistory.com/m/462)
@@ -293,6 +295,7 @@ head:
   <!-- END: lsjsj92 -->
 - [`bahnsville` / nthought](http://bahnsville.tistory.com/m/)
   - [모델 성능이 안 나올 때](http://bahnsville.tistory.com/m/1264)
+  - [LLM 왕국에서의 2년 Two Years in LLM](https://bahnsville.tistory.com/m/1265)
   <!-- END: bahnsville -->
 - [`mobicon` / AI Convergence](http://mobicon.tistory.com/m/)
   - [\[Embedding\] 중간값과 백터](http://mobicon.tistory.com/m/605)
@@ -506,6 +509,14 @@ head:
 ## Codesolvent Blog
 
 - [Declarative Programming With AI/LLMs](https://blog.codesolvent.com/2024/09/declarative-programming-with-aillms.html)
+
+---
+
+## 최윤섭의 디지털 헬스케어
+
+- [생성형 의료 인공지능을 ‘새로운 지적 존재’로서 규제하자](https://yoonsupchoi.com/2024/10/03/how-to-regulate-generative-ai-in-healthcare/)
+
+<!-- END: yoonsupchoi.com -->
 
 ---
 

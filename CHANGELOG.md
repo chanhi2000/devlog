@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+---
+
+## [v0.13.1 2024-10-04][v0.13.1]
+
+- 내용채워넣기
+
+---
+
 ## [v0.13.0 2024-10-03][v0.13.0]
 
 - Vuepress 및 플러그인 버전 Update
@@ -2645,3 +2653,4 @@ Tips 트리구조 구성
 [v0.12.39]: https://github.com/chanhi2000/devlog/compare/v0.12.38...v0.12.39
 [v0.12.40]: https://github.com/chanhi2000/devlog/compare/v0.12.39...v0.12.40
 [v0.13.0]: https://github.com/chanhi2000/devlog/compare/v0.12.40...v0.13.0
+[v0.13.1]: https://github.com/chanhi2000/devlog/compare/v0.13.0...v0.13.1

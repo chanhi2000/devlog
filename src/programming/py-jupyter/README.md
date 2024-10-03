@@ -6,6 +6,10 @@ icon: iconfont icon-jupyter
 category:
   - Python
   - Jupyter
+tag:
+  - python
+  - py
+  - jupyter
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -92,6 +92,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks – Security Tutorial",
+  "desc": "As a pentester (a fancy term for an ethical hacker), you will often attack systems the same way a malicious hacker does. But your goal will be to find weaknesses – so teams can work to address them. One such system is password-based authentication. B...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

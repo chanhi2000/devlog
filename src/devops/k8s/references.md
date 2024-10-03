@@ -163,10 +163,10 @@ head:
 
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
-- [Autoscaling Ingress Controllers In Kubernetes](https://itnext.io/autoscaling-ingress-controllers-in-kubernetes-c64b47088485)
-- [Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
-- [Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
-- [Securing Kubernetes Applications with CrowdSec Intrusion Detection System](https://itnext.io/securing-kubernetes-applications-with-crowdsec-intrusion-detection-system-8eb2f93d3c9f)
+- [`itnext` / Autoscaling Ingress Controllers In Kubernetes](https://itnext.io/autoscaling-ingress-controllers-in-kubernetes-c64b47088485)
+- [`itnext` / Isolating and Managing Dependencies in 12-factor Microservice Applications — with Kubernetes](https://itnext.io/isolating-and-managing-dependencies-in-12-factor-microservice-applications-with-kubernetes-988638f8bc6d)
+- [`alexandreolive` / Video Streaming at Scale with Kubernetes and RabbitMQ](https://alexandreolive.medium.com/video-streaming-at-scale-with-kubernetes-and-rabbitmq-6e23fd0e75fb)
+- [`itnext` / Securing Kubernetes Applications with CrowdSec Intrusion Detection System](https://itnext.io/securing-kubernetes-applications-with-crowdsec-intrusion-detection-system-8eb2f93d3c9f)
 - [`prodigy-engineering` / Running GPU-Accelerated LLM Workloads on EKS](https://medium.com/prodigy-engineering/running-gpu-accelerated-llm-workloads-on-eks-9928c07d30ea)
 - [`chrisjune-13837` / [cheat sheet] Kubernetes, Kubeflow 자주 쓰는 명령어 모음](https://chrisjune-13837.medium.com/cheat-sheet-kubernetes-kubeflow-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C-b65197dfcae7)
 - [`watcha` / 멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://medium.com/watcha/%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-8c5f671df559#gaerae.com)
@@ -175,6 +175,7 @@ head:
 - [`adidoescode` / Reducing Cloud Costs of Kubernetes Clusters](https://medium.com/adidoescode/reducing-cloud-costs-of-kubernetes-clusters-c8c1e3bdb669)
 - [`fengruohang` / Database in Kubernetes: Is that a good idea?](https://medium.com/@fengruohang/database-in-kubernetes-is-that-a-good-idea-daf5775b5c1f)
 - [`mathieuces` / How to calculate CPU for containers in k8s dynamically ?](https://medium.com/@mathieuces/how-to-calculate-cpu-for-containers-in-k8s-dynamically-47a89e3886eb)
+- [`itnext` / 5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
 
 <!-- END: medium.com -->
 
@@ -290,6 +291,7 @@ head:
 - [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://www.logonme.net/activities/etc/udemy-devops-k8s-master/)
 - [\[KANS\] 3기 2주 – K8S Flannel CNI & Pause 컨테이너](https://logonme.net/activities/kans_3_2/)
 - [\[KANS\] 3기 4주 – Service : ClusterIP, NodePort](https://logonme.net/activities/study/kans_3_4/)
+- [글또 10기 여는 글](https://logonme.net/activities/etc/geulddo9/)
 
 ---
 

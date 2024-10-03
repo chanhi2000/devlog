@@ -198,6 +198,7 @@ head:
 - [`jhk0530` / 5년 전 만든 패키지를 다듬어 의학용 커스텀 플로우차트 만들기](https://jhk0530.medium.com/clinical-flowchart-shinycyjs-f9625b0f7ed8?source=rss-cb820693bed5------2)
 - [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
 - [`lyft` / Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
+- [`@kristina.kondrashevich` / Why we skipped SRE and switched to Platform Engineering](https://medium.com/@kristina.kondrashevich/why-we-skipped-sre-and-switched-to-platform-engineering-b1f05979c6c6)
 
 <!-- END: medium.com -->
 
@@ -316,6 +317,8 @@ head:
 - [`@2fEJ` / \[UX원칙#21\] 버튼 색상 적용 UX 가이드](https://brunch.co.kr/@@2fEJ/1486)
 - [`@ZVA` / 베이스드 롤업, 왜 레이어2 탈중앙화 대안으로 주목하나](https://brunch.co.kr/@@ZVA/733)
 - [`@2fEJ` / \[UX원칙#22\] 버튼 내비게이션 디자인 UX 원칙](https://brunch.co.kr/@@2fEJ/1489)
+- [`@2fEJ` / \[UX#23\] 아이콘 VS 버튼 레이블의 배치 여부](https://brunch.co.kr/@@2fEJ/1488)
+- [`@2fEJ` / \[UX#24\]드롭다운 메뉴와 세그먼티드 버튼 UX 원칙](https://brunch.co.kr/@@2fEJ/1487)
 
 <!-- END: brunch.co.kr -->
 
@@ -854,6 +857,25 @@ head:
 ## Cloud Monitoring as a Service | Datadog
 
 - [Burn rate is a better error rate](https://www.datadoghq.com/blog/burn-rate-is-better-error-rate/)
+
+---
+
+## Cloudflare
+
+- [We made Workers KV up to 3x faster — here’s the data](https://blog.cloudflare.com/faster-workers-kv/)
+- [Instant Purge: invalidating cached content in under 150ms](https://blog.cloudflare.com/instant-purge/)
+- [Introducing Ephemeral IDs: a new tool for fraud detection](https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection/)
+- [Introducing Speed Brain: helping web pages load 45% faster](https://blog.cloudflare.com/introducing-speed-brain/)
+
+<!-- END: blog.cloudflare.com -->
+
+---
+
+## Learn to design simple and accessible digital products without the BS – Adam Silver – designer, London, UK
+
+- [Don’t use the maxlength attribute to stop users from exceeding the limit](https://adamsilver.io/blog/dont-use-the-maxlength-attribute-to-stop-users-from-exceeding-the-limit/)
+
+<!-- END: adamsilver.io -->
 
 ---
 

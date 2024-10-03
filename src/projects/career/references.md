@@ -338,6 +338,8 @@ tag:
 - [`@3L0s` / 플랫폼 규제/진흥 정책에 대한 유감과 제안 - 플랫폼 생태계-16](https://brunch.co.kr/@@3L0s/131)
 - [`@1dLN` / 문제를 정확하게 파악하기](https://brunch.co.kr/@@1dLN/63)
 - [`@2weV` / 나는 내 성장을 위해 나를 어디까지 내몰 수 있는가?!](https://brunch.co.kr/@@2weV/561)
+- [`@2xm` / 미래의 인센티브가 사람을 움직인다 - 과거에 베푼 은혜에 연연하지 말아야 한다](https://brunch.co.kr/@@2xm/86)
+- [`@2rV` / 더 많이 일했지만 성과는 덜 냈다](https://brunch.co.kr/@@2rV/185)
 
 <!-- END: brunch.co.kr -->
 
@@ -704,6 +706,7 @@ tag:
 - [`engineerscodex` / Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [`highgrowthengineer` / The Ultimate Guide to Becoming a Rockstar Product Engineer](https://read.highgrowthengineer.com/p/ultimate-guide-to-product-engineer)
 - [`7ctos` / The CTO’s Consulting Rate Calculator](https://7ctos.substack.com/p/the-ctos-consulting-rate-calculator)
+- [`frontierbydoyeob` / \[Frontier\] 실리콘밸리의 여름.](https://frontierbydoyeob.substack.com/p/frontier)
 
 ---
 

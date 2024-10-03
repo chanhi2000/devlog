@@ -1051,6 +1051,7 @@ head:
 - [\[백준 20437\] 문자열 게임 2](https://davincicoding.tistory.com/m/165)
 - [\[백준 31962\] 등교](https://davincicoding.tistory.com/m/166)
 - [\[백준 31963\] 두 배](https://davincicoding.tistory.com/m/167)
+- [\[백준 4779\] 칸토어 집합](https://davincicoding.tistory.com/m/168)
 
 <!-- END: davincicoding.tistory.com -->
 

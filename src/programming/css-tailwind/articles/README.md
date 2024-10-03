@@ -13,10 +13,11 @@ tag:
   - freecodecamp.org
   - node
   - nodejs
+  - node-js
   - css
   - tailwind
-  - tailwind-css
   - tailwindcss
+  - tailwind-css
 head:
   - - meta:
     - property: og:title
@@ -48,7 +49,7 @@ head:
 {
   "title": "How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide",
   "desc": "Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material...",
-  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-build-a-login-page-with-material-tailwind-framework.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-build-a-login-page-with-material-tailwind-framework.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }
@@ -58,7 +59,17 @@ head:
 {
   "title": "How to Build a Counter Button with React, TailwindCSS, and TypeScript",
   "desc": "How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way...",
-  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-a-counter-button-with-react.md",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/build-a-counter-button-with-react.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Create a front end portfolio project with Next.js and Three.js",
+  "desc": "Building a standout personal portfolio can help you showcase your skills as a developer. One way to elevate your portfolio is by incorporating 3D elements, smooth animations, and responsive design to make it both engaging and professional. We just pu...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/create-a-front-end-portfolio-project-with-nextjs-and-threejs.html",
   "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
   "background": "rgba(10,10,35,0.2)"
 }

@@ -7,9 +7,6 @@ category:
   - GraphQL
   - Youtube
 tag: 
-  - js
-  - node
-  - nodejs
   - graphql
   - youtube
 head:

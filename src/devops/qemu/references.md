@@ -37,6 +37,15 @@ tag:
 
 ---
 
+## tistory.com
+
+- [`1000sj` / SJ CODE](https://1000sj.tistory.com/m/)
+  - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
+  <!-- END: 1000sj -->
+<!-- END: tistory.com -->
+
+---
+
 ## Martijn de Vos
 
 - [Emulating an iPod Touch 1G and iPhoneOS 1.0 using QEMU (Part II)](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2)

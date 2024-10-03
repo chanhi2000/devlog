@@ -420,6 +420,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How AI Tools Can Help You Reuse Code",
+  "desc": "Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/tools-for-code-reuse.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How to Improve Your Front-End Development Workflow with the ZenUI Library",
+  "desc": "Hello everyone! In this guide, you’ll learn about the powerful ZenUI Library. It’s a comprehensive, free collection of UI components and templates designed to enhance your development workflow and elevate your projects. Whether you’re a developer loo...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/improve-front-end-development-workflow-with-zenui-library.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Understand How Express.js Works by Building Your Own Server Multiplexer from Scratch",
+  "desc": "Kata Machines have become the go-to method for mastering tough concepts, and it's hard to find a better tool for deliberate practice. If you haven’t come across a kata yet, trust me—you will soon enough. There’s a reason why developers love katas, wh...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

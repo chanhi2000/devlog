@@ -273,6 +273,7 @@ tag:
 - [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
   - [임베디드 리눅스 디버깅 & 프로파일링](https://1000sj.tistory.com/m/348)
   - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
+  - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
   <!-- END: 1000sj -->
 - [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
   - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
@@ -407,6 +408,14 @@ tag:
 - [Ubuntu를 사용하는 NGINX 웹 서버에 HTTP/3 설정하기](https://falsy.me/ubuntu%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-nginx-%ec%9b%b9-%ec%84%9c%eb%b2%84%ec%97%90-http-3-%ec%84%a4%ec%a0%95%ed%95%98%ea%b8%b0/)
 
 <!-- END: falsy.me -->
+
+---
+
+## 항동킴 Blog
+
+- [Linux Ubuntu Let's Encrypt를 이용한 무료 SSL 적용](https://jinseong0928.blogspot.com/2024/10/linux-ubuntu-lets-encrypt-ssl.html)
+
+<!-- END: jinseong0928.blogspot.com -->
 
 ---
 

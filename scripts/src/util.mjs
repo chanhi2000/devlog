@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-export const __FILENAME__ = fileURLToPath(import.meta.url);
+export const getFileAbsPath = (url) => fileURLToPath(url);
 export const __IS_DEBUG__ = process.env.IS_DEBUG ?? false;
 
 export const convertDateFormat = (dateString) => {
@@ -73,8 +73,8 @@ title: "${meta.title}"
 description: "Article(s) > ${meta.title}"
 icon: ${_icon}
 category:
-  - Article(s)
   - ${_category}
+  - Article(s)
 tag:
   - blog
   - freecodecamp.org

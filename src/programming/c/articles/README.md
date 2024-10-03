@@ -85,6 +85,18 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Create Linux Device Drivers",
+  "desc": "Linux device drivers are critical pieces of software that allow your operating system to communicate with hardware like keyboards, printers, and other peripherals. Developing these drivers is a highly specialized skill that provides deep insights int...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-create-linux-device-drivers.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
+
 ---
 
 ## Kodeco

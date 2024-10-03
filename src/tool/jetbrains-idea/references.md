@@ -116,6 +116,9 @@ head:
 - [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
   - [인텔리제이 개꿀 플러그인 (변수 하이라이트 및 토글 - Grep Console)](https://thalals.tistory.com/m/487)
   <!-- END: thalals  -->
+- [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
+  - [\[IntelliJ\] Remote JVM Debug를 사용해서 서버를 원격으로 디버깅 하기](https://colabear754.tistory.com/m/223)
+  <!-- END: colabear754 -->
 <!-- END: tistory.com -->
 
 ---

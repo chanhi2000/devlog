@@ -1,4 +1,4 @@
-import { currentYYYYMMDD, doFetch, __FILENAME__, __IS_DEBUG__ } from './util.mjs';
+import { currentYYYYMMDD, doFetch, __IS_DEBUG__, getFileAbsPath } from './util.mjs';
 import fs from 'fs';
 import path from 'path';
 
@@ -258,8 +258,12 @@ export async function fetchJhrogue() {
 //endregion: 컴퓨터 vs 책
 
 
+console.log('hello world.');
+console.log(`process.argv[1]: ${process.argv[1]}`)
+console.log(`import.meta.url: ${import.meta.url}`)
+console.log(`path.resolve(__FILENAME__): ${path.resolve(getFileAbsPath(import.meta.url))}`)
 // Conditional check for script execution
-if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(__FILENAME__)) {
+if (import.meta.url === `file://${process.argv[1]}` || process.argv[1] === path.resolve(getFileAbsPath(import.meta.url))) {
   console.log('Script is being run directly.');  // Debugging log
   fetchAwesomeDevlog();
   fetchGeek();

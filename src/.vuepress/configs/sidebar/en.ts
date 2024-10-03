@@ -945,6 +945,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-jupyter/articles/README.md',
+            asb.freecodecamp("py-jupyter"),
             asb.nhn("py-jupyter"),
           ]
         }
@@ -2075,6 +2076,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/tool/nmap/articles/README.md',
+            asb.freecodecamp('nmap'),
           ]
         }
       ]
@@ -3148,6 +3150,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/data-science/graphql/articles/README.md',
+            asb.freecodecamp("graphql"),
             asb.codemaze("graphql"),
             asb.yozm("graphql"),
           ]
@@ -3209,6 +3212,7 @@ export const sidebarEn = sidebar({
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
+            asb.freecodecamp("r"),
             '/data-science/r/articles/README.md',
           ]
         }

@@ -61,6 +61,7 @@ tag:
   <!-- END: bbogle2 -->
 - [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
   - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
+  - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
   <!-- END: 1000sj -->
 - [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
   - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)

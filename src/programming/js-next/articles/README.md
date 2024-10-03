@@ -170,6 +170,36 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Integrate WordPress as a Headless CMS with Next.js – With Code Examples",
+  "desc": "When building a dynamic blog website, it's common to fetch data from a content source, such as a CMS (Content Management System) like WordPress. Recently, I faced the challenge of integrating WordPress into my existing Next.js project. I had a blog h...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/integrate-wordpress-with-nextjs.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "How I Built a Custom Video Conferencing App with Stream and Next.js",
+  "desc": "Building full-stack apps can be tough. You have to think about frontend, APIs, databases, auth – plus you have to know how all of these things work together. And building a project like a video conferencing app from scratch can feel even more overwhe...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Create a front end portfolio project with Next.js and Three.js",
+  "desc": "Building a standout personal portfolio can help you showcase your skills as a developer. One way to elevate your portfolio is by incorporating 3D elements, smooth animations, and responsive design to make it both engaging and professional. We just pu...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/create-a-front-end-portfolio-project-with-nextjs-and-threejs.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

@@ -1253,4 +1253,12 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## 폴시랩
+
+- [React의 지난 16, 17, 18 버전의 업데이트를 간단하게 알아보자](https://falsy.me/%ec%a7%80%eb%82%9c-react%ec%9d%98-%eb%a6%b4%eb%a6%ac%ec%8a%a4-%eb%82%b4%ec%97%ad%ea%b3%bc-%ed%95%a8%ea%bb%98-react%ec%97%90-%eb%8c%80%ed%95%b4-%ec%a1%b0%ea%b8%88-%eb%8d%94-%ec%9e%90%ec%84%b8%ed%9e%88/)
+
+<!-- END: falsy.me -->
+
+---
+
 <TagLinks />

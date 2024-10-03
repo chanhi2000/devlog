@@ -142,6 +142,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Tooltips in Jetpack Compose",
+  "desc": "When I wrote my last article about Jetpack Compose, I stated there that Jetpack Compose is missing some (in my opinion) basic components, and one of them is the tooltip. At the time, there was no built-in composable to display tooltips and there were...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-tooltips-in-jetpack-compose.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

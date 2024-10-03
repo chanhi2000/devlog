@@ -90,6 +90,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Understand How Express.js Works by Building Your Own Server Multiplexer from Scratch",
+  "desc": "Kata Machines have become the go-to method for mastering tough concepts, and it's hard to find a better tool for deliberate practice. If you haven’t come across a kata yet, trust me—you will soon enough. There’s a reason why developers love katas, wh...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

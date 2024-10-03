@@ -264,6 +264,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Run Database Migrations in Kubernetes – Different Approaches with Examples",
+  "desc": "In the era of Microservices and Kubernetes, managing database migrations has become more complex than ever. Traditional methods of running migrations during application startup are no longer sufficient. This article explores various approaches to han...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-run-database-migrations-in-kubernetes.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

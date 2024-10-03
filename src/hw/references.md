@@ -176,6 +176,7 @@ head:
 
 - [Raspberry Pi – Ubuntu network setup without monitor](https://skyer9.pe.kr/wordpress/?p=8858)
 - [블루투스 장치 주소 (Bluetooth Device Address, BD_ADDR)](https://skyer9.pe.kr/wordpress/?p=9155)
+- [SDR# 으로 라디오 듣기](https://skyer9.pe.kr/wordpress/?p=9450)
 
 ---
 

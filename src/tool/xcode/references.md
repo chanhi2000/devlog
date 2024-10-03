@@ -96,15 +96,18 @@ head:
 
 ---
 
-## 뚝딱뚝딱 모바일
+## tistory
 
-- [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/36)
-
----
-
-## iOYES
-
-- [런타임 시 IDEPreferLogStreaming 에러 해결하기 (with. Tuist)](https://green1229.tistory.com/476)
+- [`nkstar-ios` / 뚝딱뚝딱 모바일](https://nkstar-ios.tistory.com/m/)
+  - [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/m/36)
+  <!-- END: nkstar-ios -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
+  <!-- END: webnautes -->
+- [`green1229` / iOYES](https://green1229.tistory.com/m/)
+  - [런타임 시 IDEPreferLogStreaming 에러 해결하기 (with. Tuist)](https://green1229.tistory.com/m/476)
+  <!-- END: green1229 -->
+<!-- END: tistory.com -->
 
 ---
 

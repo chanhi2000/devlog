@@ -641,5 +641,14 @@ head:
 
 - [GPU Debug Scopes](https://wunkolo.github.io/post/2024/09/gpu-debug-scopes/)
 
+---
+
+## leafbird/devnote
+
+- [C# in 키워드 정리](http://leafbird.github.io/devnote/2024/10/01/C-in-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC/)
+
+<!-- END: leafbird.github.io -->
+
+---
 
 <TagLinks />

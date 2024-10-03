@@ -301,6 +301,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   <!-- END: yongho1037 -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [Jenkins DooD 권한 문제 해결하기 (feat. troubleshooting)](https://moonnight0.tistory.com/m/entry/Jenkins-DooD-%EA%B6%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-feat-troubleshooting)
+  - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 
@@ -539,6 +540,16 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 ## 하이제니스
 
 - [AllwinnerTech A527 안드로이드 빌드 방법](https://m.blog.naver.com/chandong83/223582170933)
+
+<!-- END: chandong83 (blog.naver.com) -->
+
+---
+
+## 잘 밤에 쓸데없는 생각하기
+
+- [\[GitHub Actions\] 왜 컨테이너에 복사를 못하니?](https://ujuc.github.io/2024/10/03/github-actions-%EC%99%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90-%EB%B3%B5%EC%82%AC%EB%A5%BC-%EB%AA%BB%ED%95%98%EB%8B%88/)
+
+<!-- END: ujuc.github.io -->
 
 ---
 

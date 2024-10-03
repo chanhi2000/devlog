@@ -314,6 +314,7 @@ head:
   <!-- END: ravenkim97 -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] `.gitignore` 재적용](https://hj0216.tistory.com/m/953)
+  - [\[1년 후 마실가실\] 커밋 규칙](https://hj0216.tistory.com/m/957)
   <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 

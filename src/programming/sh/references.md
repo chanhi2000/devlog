@@ -85,6 +85,7 @@ tag:
 
 - [`@kameals` / `ls`보다는 `exa`를 사용하자! 모던 리눅스 명령어 소개[번역]](https://velog.io/@kameals/modern-linux-command)
 - [`@root-devvoo` / 쉘 스크립트에서 ’ ’, ” ”, ` ` 및 괄호 기능과 차이점](https://velog.io/@root-devvoo/%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%94%B0%EC%98%B4%ED%91%9C-%EC%8C%8D%EB%94%B0%EC%98%B4%ED%91%9C-%EB%B0%B1%ED%8B%B1-%EB%B0%8F-%EA%B4%84%ED%98%B8-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [`@jeong3320` / Let's encrypt ssl](https://velog.io/@jeong3320/Lets-encrypt-ssl)
 
 <!-- END: velog -->
 
@@ -360,6 +361,8 @@ tag:
 - [`sudo` 명령어](https://johngrib.github.io/wiki/cmd/sudo/)
 - [Bash Arrays](https://johngrib.github.io/wiki/cmd/bash/arrays/)
 - [Bash 구문 확장](https://johngrib.github.io/wiki/cmd/bash/expansion/)
+- [`touch`](https://johngrib.github.io/wiki/cmd/touch/)
+- [Bash 셸 스크립트 흐름 제어](https://johngrib.github.io/wiki/cmd/bash/flow-control/)
 
 <!-- END: johngrib.github.io -->
 
