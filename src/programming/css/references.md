@@ -211,6 +211,7 @@ tag:
 - [`jaredcodes` / Finally Understand Responsive Design!](https://dev.to/jaredcodes/finally-understand-responsive-design-3con)
 - [`madhusaini22` / How to remove background of an image with CSS](https://dev.to/madhusaini22/how-to-remove-background-of-image-with-css-1e6e)
 - [`black7375` / Rethinking CSS in JS](https://dev.to/black7375/rethinking-css-in-js-5dip)
+- [`bogdanfromkyiv` / 7 Old-School Practices in HTML Should Be Avoided](https://dev.to/bogdanfromkyiv/7-old-school-practices-in-html-should-be-avoided-3o75)
 
 <!-- END: dev.to -->
 
@@ -750,6 +751,14 @@ tag:
 - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 
 <!-- END: blog.jim-nielsen.com -->
+
+---
+
+## Cirrus's Realm: James Nash's personal website
+
+[Double your specificity with this one weird trick](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
+
+<!-- END: https://cirrus.twiddles.com -->
 
 ---
 

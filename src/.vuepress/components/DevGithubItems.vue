@@ -176,7 +176,7 @@ export default {
       }).concat(_fetchedItemsGithub);
       this.hasData = this.items.length != 0;
     },
-    async doCopyGithubJson(api, fullName = '') {
+    async doCopyGithubJson(fullName = '') {
       const repoInfo = await DevoApi.fetchGithubDetail(fullName);
       const coreData = await this.renderJson(repoInfo)
       const jsonData = JSON.stringify(coreData, null, 2)
@@ -187,6 +187,7 @@ export default {
       await this.copyToClipboard(jsonData)
     },
     async renderJson(data = {}) { 
+      console.log(data)
       return {
         repo: data?.full_name ?? _fullName,
         desc: data?.description ?? '',

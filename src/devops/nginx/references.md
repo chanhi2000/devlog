@@ -97,6 +97,9 @@ tag:
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
   <!-- END: coor -->
+- [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
+  - [AWS EC2에 HTTPS 적용하기 (feat. Nginx, Certbot)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-HTTPS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-Nginx-Certbot)
+  <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 
 ---
@@ -122,6 +125,7 @@ tag:
 ## 폴시랩
 
 - [Ubuntu를 사용하는 NGINX 웹 서버에 HTTP/3 설정하기](https://falsy.me/ubuntu%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-nginx-%ec%9b%b9-%ec%84%9c%eb%b2%84%ec%97%90-http-3-%ec%84%a4%ec%a0%95%ed%95%98%ea%b8%b0/)
+- [\[소소한 개발 일지\] EC2의 CPU 점유율이 100%로 멈출 때 (Ubuntu, NGINX)](https://falsy.me/%ec%86%8c%ec%86%8c%ed%95%9c-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%a7%80-ec2%ec%9d%98-cpu-%ec%a0%90%ec%9c%a0%ec%9c%a8%ec%9d%b4-100%eb%a1%9c-%eb%a9%88%ec%b6%9c-%eb%95%8c-ubuntu-nginx/)
 
 <!-- END: falsy.me -->
 

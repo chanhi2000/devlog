@@ -218,4 +218,12 @@ tag:
 
 ---
 
+## Seokchan Yoon's Blog
+
+- [Django 사용자들이 무조건 Python 버전 업데이트를 해야하는 이유](https://new-blog.ch4n3.kr/cve-2024-7592-kr/)
+
+<!-- END: new-blog.ch4n3.kr -->
+
+---
+
 <TagLinks />

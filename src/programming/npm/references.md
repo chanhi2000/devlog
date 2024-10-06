@@ -33,6 +33,16 @@ head:
 
 - [How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
 
+<!-- END: dino.com -->
+
+---
+
+## Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter
+
+- [ESLint now officially supports linting of JSON and Markdown](https://eslint.org/blog/2024/10/eslint-json-markdown-support/)
+
+<!-- END: eslint.org -->
+
 ---
 
 ## NHN Cloud Meetup - NHN 기술 블로그
@@ -143,6 +153,14 @@ head:
 ## YoungSeon.Ahn
 
 - [Running Scripts in Changed Packages Based on Git Branch with Yarn Workspaces](https://lovemewithoutall.github.io/it/yarn-workspaces-since/)
+
+---
+
+## 개발하는 기획자. 기획하는 개발자.
+
+- [yarn upgrade와 `package.json`, `yarn.lock` 동기화 방법](https://m.blog.naver.com/gi_balja/223607361296)
+
+<!-- END: gi_balja -->
 
 ---
 

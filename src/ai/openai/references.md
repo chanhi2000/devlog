@@ -36,6 +36,7 @@ head:
 - [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [Introducing canvas](https://openai.com/index/introducing-canvas/)
 
 ### Documentation
 
@@ -110,6 +111,7 @@ head:
 - [`@8w7` / Perplexity 에게 물어봤어요. 그는 누구니!! - 그는 이 업계에서 어떤 변화와 혁신을 만들어왔니. 알려줘](https://brunch.co.kr/@@8w7/239)
 - [`@24SO` / GPT, Brain, and Running](https://brunch.co.kr/@@24SO/46)
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)
+- [`@ZVA` / 생각하는 역량과 오픈AI Strawberry의 역설](https://brunch.co.kr/@@ZVA/734)
 
 <!-- END: brunch.co.kr -->
 

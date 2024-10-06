@@ -109,6 +109,17 @@ tag:
 
 - [노트북에 리눅스 셋팅하기](https://brunch.co.kr/@aaa/41)
 
+<!-- END: brunch.co.kr -->
+
+---
+
+## üntil
+
+- [`steady` / Steady](https://until.blog/@steady)
+  - [\[Linux\] 파일 압축에 대해](https://until.blog/@steady/-linux--%ED%8C%8C%EC%9D%BC-%EC%95%95%EC%B6%95%EC%97%90-%EB%8C%80%ED%95%B4)
+  <!-- END: steady -->
+<!-- END: until.blog -->
+
 ---
 
 ## xnacly
@@ -406,6 +417,7 @@ tag:
 ## 폴시랩
 
 - [Ubuntu를 사용하는 NGINX 웹 서버에 HTTP/3 설정하기](https://falsy.me/ubuntu%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-nginx-%ec%9b%b9-%ec%84%9c%eb%b2%84%ec%97%90-http-3-%ec%84%a4%ec%a0%95%ed%95%98%ea%b8%b0/)
+- [\[소소한 개발 일지\] EC2의 CPU 점유율이 100%로 멈출 때 (Ubuntu, NGINX)](https://falsy.me/%ec%86%8c%ec%86%8c%ed%95%9c-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%a7%80-ec2%ec%9d%98-cpu-%ec%a0%90%ec%9c%a0%ec%9c%a8%ec%9d%b4-100%eb%a1%9c-%eb%a9%88%ec%b6%9c-%eb%95%8c-ubuntu-nginx/)
 
 <!-- END: falsy.me -->
 

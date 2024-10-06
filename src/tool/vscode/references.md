@@ -65,7 +65,10 @@ tag:
 - [`@morethanmin` / VSCode 멀티 커서로 생산성 높이기](https://until.blog/@morethanmin/vscode-%EB%A9%80%ED%8B%B0-%EC%BB%A4%EC%84%9C%EB%A1%9C-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%86%92%EC%9D%B4%EA%B8%B0)
 - [`@brightdawn` / 프론트엔드 개발 시 유용한 크롬 익스텐션, 응용프로그램, vs code 익스텐션, 단축키, 사이트](https://until.blog/@brightdawn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%8B%9C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%AC-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98--%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8--vs-code-%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98--%EB%8B%A8%EC%B6%95%ED%82%A4--%EC%82%AC%EC%9D%B4%ED%8A%B8)
 - [`@morethanmin` / mac dock에 vscode가 중복 생성되는 이슈](https://until.blog/@morethanmin/mac-dock%EC%97%90-vscode%EA%B0%80-%EC%A4%91%EB%B3%B5%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%EB%90%98%EB%8A%94-%EC%9D%B4%EC%8A%88)
-- [`@dody` / \[vscode\] snippet 만들어서 사용하기](https://until.blog/@dody/-vscode--snippet-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`dody` / \[vscode\] snippet 만들어서 사용하기](https://until.blog/@dody/-vscode--snippet-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`keea` / VSCode Setup for ExtendScript ✨](https://until.blog/@keea/vscode-setup-for-ae-extension--)
+
+<!-- END: until.blog -->
 
 ---
 

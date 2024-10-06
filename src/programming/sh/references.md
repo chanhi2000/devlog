@@ -363,6 +363,11 @@ tag:
 - [Bash 구문 확장](https://johngrib.github.io/wiki/cmd/bash/expansion/)
 - [`touch`](https://johngrib.github.io/wiki/cmd/touch/)
 - [Bash 셸 스크립트 흐름 제어](https://johngrib.github.io/wiki/cmd/bash/flow-control/)
+- [`ps` 명령어](https://johngrib.github.io/wiki/cmd/ps/)
+- [`pstree`](https://johngrib.github.io/wiki/cmd/pstree/)
+- [`seq`](https://johngrib.github.io/wiki/cmd/seq/)
+- [Shell builtin 명령어](https://johngrib.github.io/wiki/cmd/bash/builtin/)
+- [`rev` 명령어](https://johngrib.github.io/wiki/cmd/rev/)
 
 <!-- END: johngrib.github.io -->
 

@@ -132,6 +132,7 @@ head:
   - [파이토치 3. 파이토치라이트닝](http://bcho.tistory.com/m/1435)
   - [파이토치 분산 학습 도구 비교](https://bcho.tistory.com/m/1437)
   - [5. 파이토치 - 분산 학습의 개념과 하드웨어](http://bcho.tistory.com/m/1439)
+  - [6. Pytorch - 대규모 분산학습에서 고려할 사항](http://bcho.tistory.com/m/1441)
   <!-- END: bcho -->
 <!-- END: tistory.com -->
 

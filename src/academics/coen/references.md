@@ -51,6 +51,9 @@ head:
 - [`white`: 비루한 대학생](https://until.blog/@white)
   - [#1. 그래프](https://until.blog/@white/-1--%EA%B7%B8%EB%9E%98%ED%94%84)
   <!-- END: white -->
+- [`steady` / Steady](https://until.blog/@steady)
+  [\[Algorithm\] 알고리즘에 대해](https://until.blog/@steady/-algorithm--%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%B4)
+  <!-- END: steady -->
 <!-- END: until.blog -->
 
 ---

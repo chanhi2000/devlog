@@ -1312,6 +1312,13 @@ http://texturer.com/
   logo="https://synfig.org/favicon.ico"
   preview="https://synfig.org/wp-content/uploads/2018/02/logo.png"/>
 
+<SiteInfo
+  name="Lottie Creator"
+  desc="Create high quality, lightweight, powerful and interactive animations with Lottie Creator. Bring motion to your designs quickly and easily."
+  url="https://creator.lottiefiles.com/"
+  logo="https://creator.lottiefiles.com/assets/favicon.7d0aaaa4.ico"
+  preview="https://creator.lottiefiles.com/creator.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

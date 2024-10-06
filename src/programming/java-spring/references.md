@@ -129,6 +129,7 @@ head:
 - [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240?source=rss-524631d9bcfb------2)
 - [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35?source=rss-524631d9bcfb------2)
 - [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7?source=rss-d4008c147c0e------2)
+- [`taesulee93` / SAML 기반 SSO 인증 흐름과  OpenSAML을 활용한 IDP(Identity Provider) 구현](https://medium.com/@taesulee93/saml-%EA%B8%B0%EB%B0%98-sso-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84%EA%B3%BC-opensaml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-idp-identity-provider-%EA%B5%AC%ED%98%84-d0809bfc4048?source=rss-524631d9bcfb------2)
 
 <!-- END: medium.com java -->
 
@@ -161,6 +162,9 @@ head:
 - [`@qkrtkdwns3410` / Spring boot 에서 테스트코드 `@DataJpaTest` 와 `@DataRedisTest` java.lang.IllegalStateException: Configuration error: found multiple declarations of @BootstrapWith for test class](https://velog.io/@qkrtkdwns3410/Spring-boot-%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-DataJpaTest-%EC%99%80-DataRedisTest-java.lang.IllegalStateException-Configuration-error-found-multiple-declarations-of-BootstrapWith-for-test-class)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 4. 인터페이스 분리 원칙 ( Interface Segregration Principle )](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-4.-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC-%EC%9B%90%EC%B9%99-Interface-Segregration-Principle)
 - [`@qkrtkdwns3410` / 스프링 프레임워크 6.1.13 공식문서 - Using Depends On](https://velog.io/@qkrtkdwns3410/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-6.1.13-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-Using-Depends-On)
+- [`@lemontech119` / Typeorm Custom `ManyToMany`](https://velog.io/@lemontech119/Typeorm-Custom-ManyToMany)
+- [`@qkrtkdwns3410` / Spring Data Jpa 배치처리시 주의점](https://velog.io/@qkrtkdwns3410/Spring-Data-Jpa-%EB%B0%B0%EC%B9%98%EC%B2%98%EB%A6%AC%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90)
+- [`@qkrtkdwns3410` / JPA `@DynamicUpdate`](https://velog.io/@qkrtkdwns3410/JPA-DynamicUpdate)
 
 <!-- END: velog.io -->
 
@@ -193,6 +197,9 @@ head:
 - [`hodumaru`: hodumaru](https://until.blog/@hodumaru/)
   - [Swagger 응답 커스텀을 통한 코드 간결화 + 프론트엔드 요구사항 해결](https://until.blog/@hodumaru/swagger-%EC%9D%91%EB%8B%B5-%EC%BB%A4%EC%8A%A4%ED%85%80%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%BD%94%EB%93%9C-%EA%B0%84%EA%B2%B0%ED%99%94---%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%95%B4%EA%B2%B0)
   <!-- END: hodumaru -->
+- [`thingk0` / 띵로그](https://until.blog/@thingk0)
+  - [왜 '`@Transactional`'은 AOP인가?](https://until.blog/@thingk0/%EC%99%9C---transactional-%EC%9D%80-aop%EC%9D%B8%EA%B0%80-)
+  <!-- END: thingk0 -->
 <!-- END: until.blog -->
 
 ### Heee's Development Blog
@@ -234,6 +241,7 @@ head:
   - [단방향 `@OneToMany`의 문제점](http://dkswnkk.tistory.com/m/756)
   - [\[JPA\] `deleteAll()`, `deleteAllInBatch()`, `deleteInBatch()` 정리](https://dkswnkk.tistory.com/m/757)
   - [Spring Boot에서 여러 Kafka 클러스터 사용하기](https://dkswnkk.tistory.com/m/758)
+  - [Spring 트랜잭션은 언제 어떻게 롤백 될까? -1편](https://dkswnkk.tistory.com/m/760)
   <!-- END: dkswnkk -->
 - [`devel-repository` / 알아두면 쓸만한 개발 잡학사전](https://devel-repository.tistory.com/m/)
   - [spring scheduler task에 shedlock + redis 적용방법](https://devel-repository.tistory.com/m/66)
@@ -278,6 +286,7 @@ head:
   - [\[해결 방법\] `TooManyActualInvocations`](https://hj0216.tistory.com/m/952)
   - [\[해결 방법\] Failed to determine a suitable driver class](https://hj0216.tistory.com/m/955)
   - [\[1년 후 마실가실\] `@Valid`와 `@RestControllerAdvice`](https://hj0216.tistory.com/m/956)
+  - [\[1년 후 마실가실\] 로그 설정](https://hj0216.tistory.com/m/958)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -373,7 +382,8 @@ head:
   - [11.02. 책 목록 만들기 - 2](https://ysedeveloper.tistory.com/m/entry/1102-%EC%B1%85-%EB%AA%A9%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0-2)
   - [12.01. 책 검색 기능 추가하기 - 1](https://ysedeveloper.tistory.com/m/entry/1201-%EC%B1%85-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-1)
   - [12.02. 책 검색 기능 추가하기 - 2](https://ysedeveloper.tistory.com/m/entry/1202-%EC%B1%85-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-2)
-  <!-- END: ysedeveloper -->
+  - [13. 마치면서](https://ysedeveloper.tistory.com/m/entry/13-%EB%A7%88%EC%B9%98%EB%A9%B4%EC%84%9C)
+  <!-- ENDs: ysedeveloper -->
 - [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
   - [영속성 관리](https://maeng-dev.tistory.com/m/162)
   - [연관관계 매핑 기초](https://maeng-dev.tistory.com/m/165)
@@ -778,7 +788,16 @@ head:
 - [Sending Spring Boot Metrics to Datadog](https://codersee.com/sending-spring-boot-metrics-datadog/)
 - [Spring Boot with AWS S3, S3Client and Kotlin](https://codersee.com/spring-boot-aws-s3-s3client-kotlin/)
 
+<!-- END: codersee.com -->
+
 ---
 
+## 현구막 기술 블로그
+
+- [왜 조회 쿼리에서 데드락이 발생했을까?](https://hyeon9mak.github.io/why-occurs-deadlock-from-select-query/)
+
+<!-- END: hyeon9mak.github.io -->
+
+---
 
 <TagLinks />

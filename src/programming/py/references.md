@@ -146,6 +146,7 @@ head:
 - [`@eunbibi` / Transfer learning with ResNet](https://velog.io/@eunbibi/ResNet50-finetuning)
 - [`eunbibi` / Sympy](https://velog.io/@eunbibi/Sympy)
 - [`@euisuk-chung` / \[파이썬\] 정규표현식 활용  방법](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+- [`@qlgks1` / python request 그만쓰세요? even 하게 익은 `curl_cffi`](https://velog.io/@qlgks1/python-request-%EA%B7%B8%EB%A7%8C%EC%93%B0%EC%84%B8%EC%9A%94-even-%ED%95%98%EA%B2%8C-%EC%9D%B5%EC%9D%80-curlcffi)
 
 <!-- END: velog.io -->
 
@@ -355,6 +356,10 @@ head:
 - [`xeros`: xeros](https://until.blog/@xeros)
   - [macOS에서 pip install시 `error: externally-managed-environment` 에러가 발생하는 문제](https://until.blog/@xeros/macos%EC%97%90%EC%84%9C-pip-install%EC%8B%9C-error--externally-managed-environment-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C)
   <!-- END: xeros -->
+- [`white` / 비루한 대학생](https://until.blog/@white/)
+  - [#1. OpenCV-Python](https://until.blog/@white/-1--opencv-python)
+  - [#2. OpenCV 인터페이스 기초](https://until.blog/@white/-2--opencv-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EC%B4%88)
+  <!-- END: white -->
 <!-- END: until.blog -->
 
 ---
@@ -754,6 +759,7 @@ head:
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
   - [Python List sorted 와 sort 메소드 차이 및 사용 방법](https://webnautes.tistory.com/m/2377)
   - [누구나 다하는 파이썬 원페이지 강좌](https://webnautes.tistory.com/m/2391)
+  - [마이크를 사용하여 녹음하는 Python 예제](https://webnautes.tistory.com/m/2399)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -1052,6 +1058,7 @@ head:
 - [\[백준 31962\] 등교](https://davincicoding.tistory.com/m/166)
 - [\[백준 31963\] 두 배](https://davincicoding.tistory.com/m/167)
 - [\[백준 4779\] 칸토어 집합](https://davincicoding.tistory.com/m/168)
+- [\[백준 32069\] 가로등](https://davincicoding.tistory.com/m/169)
 
 <!-- END: davincicoding.tistory.com -->
 

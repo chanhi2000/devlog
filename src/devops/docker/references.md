@@ -302,6 +302,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [Jenkins DooD 권한 문제 해결하기 (feat. troubleshooting)](https://moonnight0.tistory.com/m/entry/Jenkins-DooD-%EA%B6%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-feat-troubleshooting)
   - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
+  - [AWS EC2에 `.env` 파일로 Docker 환경변수 관리하기 (feat. docker-compose)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-feat-docker-compose)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 

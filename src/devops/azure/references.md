@@ -47,10 +47,16 @@ head:
 
 ---
 
-## 재우니의 블로그
+## tistory
 
-- [AZURE : Prompty로 .NET 앱에 AI를 쉽게 추가하세요](https://aspdotnet.tistory.com/m/3245)
-- [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [AZURE : Prompty로 .NET 앱에 AI를 쉽게 추가하세요](https://aspdotnet.tistory.com/m/3245)
+  - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+  <!-- END: aspdotnet -->
+- [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
+  - [\[Azure\]Azure Firewall](https://aws-hyoh.tistory.com/m/300)
+  <!-- END: aws-hyoh -->
+<!-- END: tistory.com -->
 
 ---
 

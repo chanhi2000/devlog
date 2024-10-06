@@ -3609,5 +3609,19 @@
     "topics": ["c", "checker", "clang", "clang-format", "cli", "cpp", "cpplint", "eslint", "format", "formatter", "lint", "linter", "prettier"],
     "avatar": "https://avatars.githubusercontent.com/u/119669540?v=4",
     "banner": ""
+  }, {
+    "repo": "gnh1201/welsonjs",
+    "desc": "WelsonJS - Build a Windows app on the Windows built-in JavaScript engine",
+    "officialSite": "https://catswords.social/@catswords_oss",
+    "topics": ["javascript", "microsoft", "coffeescript", "windows", "chrome", "automation", "typescript", "html5", "uri", "desktop", "jscript", "wsh", "msoffice", "mshtml", "rpa", "lolbins", "lolbas", "rescript", "mshta", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/6352393438c323782b0e3af41bcaaee182c06d0c138be9a6f5f4d1a3e25ef746/gnh1201/welsonjs"
+  }, {
+    "repo": "dimdenGD/ultimate-express",
+    "desc": "The Ultimate Express. Fastest http server with full Express compatibility, based on µWebSockets.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/26a91e3bce44cf8d1555dc3642edcd44226930a6666ab8f56f6d9342fbaa0652/dimdenGD/ultimate-express"
   }
 ]

@@ -266,6 +266,7 @@ head:
   <!-- END: jeongchul -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [EC2에서 디스크 용량 부족 문제로 발생한 API 오류 해결하기](https://coor.tistory.com/m/65)
+  - [Pinpoint 활용한 실시간 성능 모니터링 구축기](https://coor.tistory.com/m/66)
   <!-- END: coor -->
 - [`sungwookoo` / Koo's Devlog](https://sungwookoo.tistory.com/m/)
   - [\[K8s\] Self-Managed 쿠버네티스 CI/CD 구축기 (Spring Cloud, MetalLB)](https://sungwookoo.tistory.com/m/133)
@@ -278,6 +279,8 @@ head:
   <!-- END: tre2man -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
+  - [AWS EC2에 `.env` 파일로 Docker 환경변수 관리하기 (feat. docker-compose)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-feat-docker-compose)
+  - [AWS EC2에 HTTPS 적용하기 (feat. Nginx, Certbot)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-HTTPS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-Nginx-Certbot)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 ---
@@ -584,6 +587,14 @@ head:
 - [How to start with DynamoDB in your Ktor application (Part 1)](https://poisonedyouth.github.io/DynamoDB)
 
 <!-- END: poisonedyouth.github.io -->
+
+---
+
+## 폴시랩
+
+- [\[소소한 개발 일지\] EC2의 CPU 점유율이 100%로 멈출 때 (Ubuntu, NGINX)](https://falsy.me/%ec%86%8c%ec%86%8c%ed%95%9c-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%a7%80-ec2%ec%9d%98-cpu-%ec%a0%90%ec%9c%a0%ec%9c%a8%ec%9d%b4-100%eb%a1%9c-%eb%a9%88%ec%b6%9c-%eb%95%8c-ubuntu-nginx/)
+
+<!-- END: falsy.me -->
 
 ---
 

@@ -184,6 +184,7 @@ tag:
 - [`mjspring` / 설득에 대한 태도 바로잡기](https://mjspring.medium.com/%EC%84%A4%EB%93%9D%EC%97%90-%EB%8C%80%ED%95%9C-%ED%83%9C%EB%8F%84-%EB%B0%94%EB%A1%9C%EC%9E%A1%EA%B8%B0-cce3117b1c49?source=rss-a5b93d2efa4c------2)
 - [`giljae` / 린스타트업](https://giljae.medium.com/%EB%A6%B0%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ffb9e7134731?source=rss-bb87e9e8047d------2)
 - [`giljae` / 비기술 관리자의 함정](https://giljae.medium.com/%EB%B9%84%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%9D%98-%ED%95%A8%EC%A0%95-6ae75543cafe?source=rss-bb87e9e8047d------2)
+- [`giljae` / 풀스택 개발자, 현실적으로 가능한가?](https://giljae.medium.com/%ED%92%80%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-4e62c8a3fc2c?source=rss-bb87e9e8047d------2)
 
 <!-- END: medium.com -->
 
@@ -340,6 +341,8 @@ tag:
 - [`@2weV` / 나는 내 성장을 위해 나를 어디까지 내몰 수 있는가?!](https://brunch.co.kr/@@2weV/561)
 - [`@2xm` / 미래의 인센티브가 사람을 움직인다 - 과거에 베푼 은혜에 연연하지 말아야 한다](https://brunch.co.kr/@@2xm/86)
 - [`@2rV` / 더 많이 일했지만 성과는 덜 냈다](https://brunch.co.kr/@@2rV/185)
+- [`@2weV` / 빠른 승진으로 가는 길.](https://brunch.co.kr/@@2weV/563)
+- [`@2weV` / 능동적 신뢰, 성장할 수 있는 환경, 그리고 가족.](https://brunch.co.kr/@@2weV/564)
 
 <!-- END: brunch.co.kr -->
 

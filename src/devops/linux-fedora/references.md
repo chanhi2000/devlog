@@ -69,6 +69,15 @@ tag:
 
 ---
 
+## üntil
+
+- [`steady` / Steady](https://until.blog/@steady)
+  - [\[Linux\] 파일 압축에 대해](https://until.blog/@steady/-linux--%ED%8C%8C%EC%9D%BC-%EC%95%95%EC%B6%95%EC%97%90-%EB%8C%80%ED%95%B4)
+  <!-- END: steady -->
+<!-- END: until.blog -->
+
+---
+
 ## Marc's Blog
 
 - [Make Your Program Slower With Threads](https://brooker.co.za/blog/2014/12/06/random.html)
