@@ -275,6 +275,7 @@ head:
 - [ListBox에 실시간 막대그래프 그리기 - Step 1](https://m.blog.naver.com/tipsware/223603504576)
 - [\[Q&A\] CRect 객체를 RECT * 매개 변수로 전달할 때](https://m.blog.naver.com/tipsware/223605974074)
 - [그림 문자 확인하기 - Step 2](https://m.blog.naver.com/tipsware/223607382210)
+- [체크 박스의 심벌 변경하기](https://m.blog.naver.com/tipsware/223608325031)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 

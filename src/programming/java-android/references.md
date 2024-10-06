@@ -187,6 +187,7 @@ tag:
 - [`cohen.n.raphael` / Advanced Kotlin Magic: Unlocking the Power of `combine` for Android Development! 🧠💪](https://medium.com/@cohen.n.raphael/advanced-kotlin-magic-unlocking-the-power-of-combine-for-android-development-4352dc486b7f)
 - [`_thomaskioko` / Enhancing iOS UI Previews: Swift UI Packages & Kotlin Multiplatform Mobile.](https://medium.com/@_thomaskioko/enhancing-ios-development-with-swift-ui-packages-kmm-fa31901fa146)
 - [`hongbeomi-dev` / Compose에서 State Holder를 통해 효율적으로 State 관리하기](https://medium.com/hongbeomi-dev/compose%EC%97%90%EC%84%9C-state-holder%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-state-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-6abd1eca4e25?source=rss-c941a8b6c471------2)
+- [`proandroiddev` / Optimized Image Loading for Compose and Kotlin Multiplatform](https://proandroiddev.com/optimized-image-loading-for-compose-and-kotlin-multiplatform-a45eb2e710c0)
 
 <!-- END: medium.com -->
 
@@ -632,6 +633,7 @@ tag:
 ## Philo blog - © 2024 Philo
 
 - [Kotlin Multiplatform at Philo](https://blog.philo.com/kotlin-multiplatform-at-philo/)
+- [Kotlin Multiplatform at Philo: Bumps in the Road](https://blog.philo.com/kotlin-multiplatform-at-philo-bumps-in-the-road/)
 
 ---
 
@@ -676,6 +678,7 @@ tag:
 ## Software Development Company | Bright Inventions
 
 - [Choosing the Right Logging Library for Android App](https://brightinventions.pl/blog/choosing-the-right-logging-library-for-android-app/)
+- [Setting Up Logback Programmatically in Android](https://brightinventions.pl/blog/setting-up-logback-programmatically-in-android/)
 
 <!-- END: brightinventions.pl -->
 
@@ -686,6 +689,14 @@ tag:
 - [Bottom Sheets that... just work](https://composables.com/jetpack-compose-tutorials/bottom-sheets-that-just-work)
 
 <!-- END: composables.com -->
+
+---
+
+## Akram · Mohammed Akram Hussain
+
+- [Understanding Jetpack Compose](https://mohammedakram.com/understanding-jetpack-compose)
+
+<!-- END: mohammedakram.com -->
 
 ---
 

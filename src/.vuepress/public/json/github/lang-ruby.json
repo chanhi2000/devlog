@@ -209,5 +209,12 @@
     "topics": ["google-maps", "homelab", "maps", "owntracks", "self-hosted"],
     "avatar": "https://avatars.githubusercontent.com/u/3738638?v=4",
     "banner": ""
+  }, {
+    "repo": "rails/thor",
+    "desc": "Thor is a toolkit for building powerful command-line interfaces.",
+    "officialSite": "http://whatisthor.com/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/141485728?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/4e822b6e288136f3cb2559c6ae3f7ff84a1e63e053f40d945e2b223ad7f23223/rails/thor"
   }
 ]

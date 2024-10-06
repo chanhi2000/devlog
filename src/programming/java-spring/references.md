@@ -787,6 +787,7 @@ head:
 
 - [Sending Spring Boot Metrics to Datadog](https://codersee.com/sending-spring-boot-metrics-datadog/)
 - [Spring Boot with AWS S3, S3Client and Kotlin](https://codersee.com/spring-boot-aws-s3-s3client-kotlin/)
+- [Spring Boot with Kotlin, AWS S3, and S3Template](https://codersee.com/spring-boot-with-kotlin-aws-s3-and-s3template/)
 
 <!-- END: codersee.com -->
 

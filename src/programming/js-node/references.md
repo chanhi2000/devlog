@@ -1291,6 +1291,8 @@ tag:
 
 - [(번역) 좋은 코드, 테스트 용이한 코드](https://ykss.netlify.app/translation/good_code_testable_code/)
 
+<!-- END: ykss.netlify.app -->
+
 ---
 
 ## alex reichert

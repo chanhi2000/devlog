@@ -391,5 +391,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/619158?v=4",
     "banner": ""
+  }, {
+    "repo": "dexteryy/spellbook-of-modern-webdev",
+    "desc": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
+    "officialSite": "",
+    "topics": ["nodejs", "javascript", "learning", "awesome", "html5", "libraries", "css3", "webapp", "webplatform", "universal-javascript", "isomorphic-javascript"],
+    "avatar": "https://avatars.githubusercontent.com/u/43011?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/2ba8700daebb146c5b676103bb14f08e5930d44e0b9e605d0c0483ca540d6acd/dexteryy/spellbook-of-modern-webdev"
   }
 ]

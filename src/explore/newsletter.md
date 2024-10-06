@@ -251,12 +251,20 @@ head:
 ```component VPCard
 {
   "title": "Kotlin Weekly",
-  "desc": "Kotlin Weekly Email Forms",
-  "link": "https://us12.campaign-archive.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6",
-  "logo": "https://gallery.mailchimp.com/f39692e245b94f7fb693b6d82/images/b61142be-473c-436a-84ad-8338e13e31da.png",
-  "background": "rgba(139,117,232,0.2)"
+  "desc": "Your weekly dose of Kotlin",
+  "link": "https://kotlinweekly.net/",
+  "logo": "https://kotlinweekly.net/img/favicon.png",
+  "background": "rgba(94,67,139,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Android Weekly - Free weekly Android & Kotlin development newsletter"
+  desc="Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development"
+  url="https://androidweekly.net/"
+  logo="https://androidweekly.net/assets/favicon.ico"
+  preview="https://androidweekly.net/assets/newsletter.jpg"/>
+
 
 ```component VPCard
 {

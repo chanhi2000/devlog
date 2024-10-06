@@ -559,6 +559,14 @@ tag:
 
 ---
 
+## 하이제니스
+
+- [마이크로소프트 아이디 해킹 당하다.](https://m.blog.naver.com/chandong83/223607813085)
+
+<!-- END: chandong83 (blog.naver.com) -->
+
+---
+
 ## Project(s)
 
 ```component VPCard

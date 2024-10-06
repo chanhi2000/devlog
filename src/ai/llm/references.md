@@ -367,6 +367,7 @@ head:
 
 - [Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 - [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+- [NotebookLM’s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 
 ---
 

@@ -223,5 +223,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/7828884?v=4",
     "banner": ""
+  }, {
+    "repo": "antonio-morales/Fuzzing101",
+    "desc": "An step by step fuzzing tutorial. A GitHub Security Lab initiative  - GitHub: An step by step fuzzing tutorial. A GitHub Security Lab initiative",
+    "officialSite": "https://securitylab.github.com/",
+    "topics": ["testing", "education", "security", "hacking", "fuzzing", "fuzz-testing", "afl", "afl-fuzz", "vulnerabilities", "bugbounty", "fuzzer", "bug-hunting", "fuzzilli"],
+    "avatar": "https://avatars.githubusercontent.com/u/55253029?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/f245c67ec68ec247abf43b0278e9555a428c8afb9ca207ad4e6f285bcfd0fbfe/antonio-morales/Fuzzing101"
+  }, {
+    "repo": "kmario23/deep-learning-drizzle",
+    "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+    "officialSite": "https://deep-learning-drizzle.github.io",
+    "topics": ["machine-learning", "natural-language-processing", "deep-neural-networks", "reinforcement-learning", "computer-vision", "deep-learning", "optimization", "probability", "deep-reinforcement-learning", "medical-imaging", "speech-recognition", "artificial-neural-networks", "pattern-recognition", "probabilistic-graphical-models", "bayesian-statistics", "artificial-intelligence-algorithms", "visual-recognition", "geometric-deep-learning", "explainable-ai", "graph-neural-networks"],
+    "avatar": "https://avatars.githubusercontent.com/u/5196297?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/c69c5e3cd32920614e5fbb30d7f837538b0d4145a34253317c414198cb0d8df4/kmario23/deep-learning-drizzle"
   }
 ]

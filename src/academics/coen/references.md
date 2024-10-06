@@ -218,4 +218,12 @@ head:
 
 ---
 
+## Ykss
+
+- [(번역) 웹 페이지가 로드되기 전에 더 빠르게 만드는 방법](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
+
+<!-- END: ykss.netlify.app -->
+
+---
+
 <TagLinks />

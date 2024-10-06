@@ -684,6 +684,10 @@ tag:
 - [`java.util.HashSet`](https://johngrib.github.io/wiki/java/hashset/)
 - [`java.util.HashMap`](https://johngrib.github.io/wiki/java/hashmap/)
 - [Java 버전별 변경점](https://johngrib.github.io/wiki/java/enhancements/)
+- [`Thread.State`](https://johngrib.github.io/wiki/java/thread/state/)
+- [Java Thread](https://johngrib.github.io/wiki/java/thread/)
+
+<!-- END: johngrib.github.io -->
 
 ### Dev.java: The Destination for Java Developers
 
@@ -717,6 +721,7 @@ tag:
 ### Jason Pearson
 
 - [Metaspace in JVM Builds](https://jasonpearson.dev/metaspace-in-jvm-builds/)
+- [Kotlin JVM args: Inheritance & Defaults](https://jasonpearson.dev/kotlin-jvm-args-inheritance-and-defaults/)
 
 <!-- END: jasonpearson.dev -->
 
@@ -810,9 +815,11 @@ tag:
 - [`betterprogramming` / Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 - [`proandroiddev` / Variance (in & out) in Kotlin Explained](https://proandroiddev.com/variance-in-out-in-kotlin-explained-5adcd9308954)
 - [`proandroiddev` / Coroutine Cancellation and Timeouts](https://proandroiddev.com/coroutine-cancellation-and-timeouts-5ad1f6c43805)
-- `@zakharenko` / [How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
+- [`@zakharenko` / How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
+- [`googledeveloperseurope` / Structured Concurrency: coroutineScope](https://medium.com/googledeveloperseurope/structrured-concurrency-coroutinescope-adc470d47e4b)
+- [`hinchman-amanda` / Kotlin Coroutine mechanisms part 3: swapping CoroutineContext](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-part-3-swapping-coroutinecontext-983e950ac29a)
 
-<!-- END: medium.com -->
+<!-- END: medium.com kotiln -->
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -832,6 +839,9 @@ tag:
 - [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)
 - [`@daredev` / Code Sketching with Kotlin Notebooks: Developer Guide](https://dev.to/daredev/code-sketching-with-kotlin-notebooks-developer-guide-530n)
 - [`jakub_zalas` / Functional domain model](https://dev.to/jakub_zalas/functional-domain-model-o3j)
+- [`autonomousapps` / ACAB: Fire the (code style) cop in your head](https://dev.to/autonomousapps/acab-fire-the-code-style-cop-in-your-head-m8b)
+
+<!-- END: dev.to kotlin -->
 
 ## tistory (kotlin)
 
@@ -1118,6 +1128,14 @@ tag:
 ### Software Development Company | Bright Inventions
 
 - [Preserving Unobfuscated Class Names in SLF4J Logs](https://brightinventions.pl/blog/preserving-unobfuscated-class-names-in-slf4j-logs/)
+
+<!-- END: brightinventions.pl -->
+
+### PoisonedYouth TechBlog - PoisonedYouth TechBlog
+
+- [Delegated Properties in Kotlin](https://poisonedyouth.github.io/Kotlin-Delegated-Properties)
+
+<!-- END: poisonedyouth.github.io -->
 
 ---
 

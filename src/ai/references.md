@@ -75,6 +75,9 @@ head:
 ## Substack
 
 - [`aisnakeoil` / Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
+- [`benn` / Do AI companies work?](https://benn.substack.com/p/do-ai-companies-work)
+
+<!-- END: substack.com -->
 
 ---
 

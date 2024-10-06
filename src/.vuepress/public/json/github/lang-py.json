@@ -8093,5 +8093,82 @@
     "topics": ["agent", "ai", "automation", "data-mining", "data-science", "development", "llm", "research"],
     "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "banner": ""
+  }, {
+    "repo": "livekit/agents",
+    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 . Contribute to livekit/agents development by creating an account on GitHub.",
+    "officialSite": "https://docs.livekit.io/agents",
+    "topics": ["real-time", "video", "ai", "voice", "agents", "voice-assistant", "multimodal"],
+    "avatar": "https://avatars.githubusercontent.com/u/131022932?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/b0d2e830cfbf4bcc71f1650919a6005d111fb8f16bc6458705fde5b3b5cfb81c/livekit/agents"
+  }, {
+    "repo": "zauberzeug/nicegui",
+    "desc": "Create web-based user interfaces with Python. The nice way.",
+    "officialSite": "https://nicegui.io",
+    "topics": ["python", "website", "gui", "frontend", "interface", "robotics", "toolkit", "scripting", "webapp", "interaction", "interfaces"],
+    "avatar": "https://avatars.githubusercontent.com/u/2843826?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/754dee0dbdadf1d1dab8b169e71d4370dc43d676eef45005f672f7e6dbc9b927/zauberzeug/nicegui"
+  }, {
+    "repo": "ErikBjare/gptme",
+    "desc": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+    "officialSite": "https://gptme.org/docs/",
+    "topics": ["cli", "chatbot", "openai", "code-generation", "ai-agents", "rag", "ai-assistant", "llm", "chatgpt", "llamacpp", "autogpt", "llm-agent", "gpt-engineer", "llm-apps"],
+    "avatar": "https://avatars.githubusercontent.com/u/1405370?s=80&v=4",
+    "banner": "https://opengraph.githubassets.com/66489f7e01f53d1f04d41b58d193aba3107cb33fd23237710722604433de4226/ErikBjare/gptme"
+  }, {
+    "repo": "illuin-tech/colpali",
+    "desc": "The code used to train and run inference with the ColPali architecture.",
+    "officialSite": "https://huggingface.co/vidore",
+    "topics": ["information-retrieval", "vision-language-model", "retrieval-augmented-generation", "colpali"],
+    "avatar": "https://avatars.githubusercontent.com/u/43467008?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/1e5166d90b3353ab6da3e8c947410496845706d7bad9795e3fb83985880a485e/illuin-tech/colpali"
+  }, {
+    "repo": "ivcylc/qa-mdt",
+    "desc": "SOTA Text-to-music (TTM) Generation (OpenMusic). Contribute to ivcylc/qa-mdt development by creating an account on GitHub.",
+    "officialSite": "https://qa-mdt.github.io",
+    "topics": ["ai", "music-generation", "mdt", "dit", "ai-music", "diffusion-models", "text-to-audio", "music-ai", "ai-music-generator", "music-ai-architectures", "hifi-gan", "text-to-music", "vall-e", "text-to-audio-ai", "audioldm", "diffusion-transformer", "ai-music-generation", "text-to-music-transformer"],
+    "avatar": "https://avatars.githubusercontent.com/u/118931037?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/e791e71857fac0a035a8ca6a49ef0f8499c94083abb19788b6984af1c3584f45/ivcylc/qa-mdt"
+  }, {
+    "repo": "ModelTC/lightllm",
+    "desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+    "officialSite": "",
+    "topics": ["nlp", "deep-learning", "llama", "gpt", "model-serving", "llm", "openai-triton"],
+    "avatar": "https://avatars.githubusercontent.com/u/30762946?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/5a279b7c03b57539839cb20567f3f391eea14088d6b27158fd9d403f9e4126b5/ModelTC/lightllm"
+  }, {
+    "repo": "nath1295/MLX-Textgen",
+    "desc": "A python package for serving LLM on OpenAI-compatible API endpoints with prompt caching using MLX.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/40786995?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/75b4f421edefe1eda3eda79099d5c48792f0a3e6762b3169c3c516ca8008c4c2/nath1295/MLX-Textgen"
+  }, {
+    "repo": "DataformerAI/dataformer",
+    "desc": "Solving data for LLMs - Create quality synthetic datasets!",
+    "officialSite": "https://dataformer.ai",
+    "topics": ["nlp", "data", "labeling", "synthetic-data", "synthetic-dataset-generation", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/39311993?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/f1122f05e2f40d385e20b7ef9300f87bb8126e3ed34ed17d9925309d6cbe972b/DataformerAI/dataformer"
+  }, {
+    "repo": "fastapi/typer",
+    "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "officialSite": "https://typer.tiangolo.com/",
+    "topics": ["python", "shell", "cli", "terminal", "python3", "click", "typer", "typehints"],
+    "avatar": "https://avatars.githubusercontent.com/u/1326112?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/229937405/2d55958a-7451-40f6-a2a5-bfce9034af39"
+  }, {
+    "repo": "facebookincubator/ft_utils",
+    "desc": "A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/920846?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/91099e3905bcefaddd0025644bfe64f5245bfdca44b2638c90ab582dd6e9dd98/facebookincubator/ft_utils"
+  }, {
+    "repo": "speechbrain/speechbrain",
+    "desc": "A PyTorch-based Speech Toolkit. Contribute to speechbrain/speechbrain development by creating an account on GitHub.",
+    "officialSite": "http://speechbrain.github.io",
+    "topics": ["audio", "deep-learning", "transformers", "pytorch", "voice-recognition", "speech-recognition", "speech-to-text", "language-model", "speaker-recognition", "speaker-verification", "speech-processing", "audio-processing", "asr", "speaker-diarization", "speechrecognition", "speech-separation", "speech-enhancement", "spoken-language-understanding", "huggingface", "speech-toolkit"],
+    "avatar": "https://avatars.githubusercontent.com/u/11627174?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/0fd695b376273c096d491952774c73a0e566a29a4d03e7a964cd2d66f74500cd/speechbrain/speechbrain"
   }
 ]

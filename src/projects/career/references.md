@@ -343,6 +343,8 @@ tag:
 - [`@2rV` / 더 많이 일했지만 성과는 덜 냈다](https://brunch.co.kr/@@2rV/185)
 - [`@2weV` / 빠른 승진으로 가는 길.](https://brunch.co.kr/@@2weV/563)
 - [`@2weV` / 능동적 신뢰, 성장할 수 있는 환경, 그리고 가족.](https://brunch.co.kr/@@2weV/564)
+- [`@ZVA` / 고대 로마에도 자본시장이 있었다고?](https://brunch.co.kr/@@ZVA/735)
+- [`@2weV` / 커리어/영어 모두 성장을 만들어 낸 분들의 특징](https://brunch.co.kr/@@2weV/565)
 
 <!-- END: brunch.co.kr -->
 
@@ -833,6 +835,9 @@ tag:
 - [[오세용의 에세이 #38] 불안](https://ohseyong.com/%ec%98%a4%ec%84%b8%ec%9a%a9%ec%9d%98-%ec%97%90%ec%84%b8%ec%9d%b4-38-%eb%b6%88%ec%95%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ec%2584%25b8%25ec%259a%25a9%25ec%259d%2598-%25ec%2597%2590%25ec%2584%25b8%25ec%259d%25b4-38-%25eb%25b6%2588%25ec%2595%2588)
 - [[라프디 창업기 #39] 유자랩스 사명 변경](https://ohseyong.com/%EB%9D%BC%ED%94%84%EB%94%94-%EC%B0%BD%EC%97%85%EA%B8%B0-39-%EC%9C%A0%EC%9E%90%EB%9E%A9%EC%8A%A4-%EC%82%AC%EB%AA%85-%EB%B3%80%EA%B2%BD)
 - [\[라프디 창업기 #41\] 생각보다 괜찮을지도](https://ohseyong.com/%eb%9d%bc%ed%94%84%eb%94%94-%ec%b0%bd%ec%97%85%ea%b8%b0-41-%ec%83%9d%ea%b0%81%eb%b3%b4%eb%8b%a4-%ea%b4%9c%ec%b0%ae%ec%9d%84%ec%a7%80%eb%8f%84/)
+- [가짜 노동 ★☆☆☆☆](https://ohseyong.com/%ea%b0%80%ec%a7%9c-%eb%85%b8%eb%8f%99-%e2%98%85%e2%98%86%e2%98%86%e2%98%86%e2%98%86)
+
+<!-- END: ohseyong.com -->
 
 ---
 
@@ -912,6 +917,8 @@ tag:
 ## Ykss
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/)
+
+<!-- END: ykss.netlify.app -->
 
 ---
 

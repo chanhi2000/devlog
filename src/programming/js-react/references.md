@@ -746,6 +746,8 @@ head:
 - [(번역) 리액트의 use 훅과 사용 예제](https://ykss.netlify.app/translation/use_hook_in_react_and_its_use_cases/)
 - [(번역) SOLID 원칙으로 리액트 훅 작성하기](https://ykss.netlify.app/translation/write_solid_react_hooks/)
 
+<!-- END: ykss.netlify.app -->
+
 ---
 
 ## Never test

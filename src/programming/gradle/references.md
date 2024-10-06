@@ -47,6 +47,9 @@ head:
 
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://dev.to/marlonlom/adapt-kotlin-20-in-android-applications-3cmk)
 - [`autonomousapps` / Announcing Dependency Analysis Gradle Plugin 2.0.0!](https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c)
+- [`cdsap` / Telltale: Automating Experimentation in Gradle Builds](https://dev.to/cdsap/telltale-automating-experimentation-in-gradle-builds-1h9m)
+
+<!-- END: dev.to -->
 
 ---
 

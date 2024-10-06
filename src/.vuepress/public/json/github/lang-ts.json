@@ -4863,5 +4863,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/45705859?v=4",
     "banner": ""
+  }, {
+    "repo": "onejs/one",
+    "desc": "❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.",
+    "officialSite": "https://onestack.dev",
+    "topics": ["react", "react-native", "vite", "local-first"],
+    "avatar": "https://avatars.githubusercontent.com/u/12100?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/6c3077dc356504977b4a9ede2febab59170c8b77a01171c0818c7ee2bf4cb51b/onejs/one"
+  }, {
+    "repo": "xenova/whisper-web",
+    "desc": "ML-powered speech recognition directly in your browser",
+    "officialSite": "https://hf.co/spaces/Xenova/whisper-web",
+    "topics": ["javascript", "transformers", "whisper"],
+    "avatar": "https://avatars.githubusercontent.com/u/26504141?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/1c4e1fa2b678b28fbd1ae5775e073a67b84d9deb7a1dc34591baed8ba5c4e001/xenova/whisper-web"
   }
 ]

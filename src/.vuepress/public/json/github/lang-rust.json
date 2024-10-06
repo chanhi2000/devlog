@@ -2599,5 +2599,12 @@
     "topics": ["analytics", "continuous", "data-analysis", "data-pipeline", "database", "incremental-computation", "kafka", "materialized-view", "realtime", "rust", "sql", "streaming"],
     "avatar": "https://avatars.githubusercontent.com/u/133194489?v=4",
     "banner": ""
+  }, {
+    "repo": "timescale/pgvectorscale",
+    "desc": "A complement to pgvector for high performance, cost efficient vector search on large workloads.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/112245?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/c0e8b896e9e977458cd8a4d053524da8c0b0a409ff089de7fa6110afb02c5030/timescale/pgvectorscale"
   }
 ]

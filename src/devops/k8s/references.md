@@ -288,10 +288,13 @@ head:
 
 ## Log On Me.net
 
-- [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://www.logonme.net/activities/etc/udemy-devops-k8s-master/)
+- [[Udemy 강의후기] DevOps (데브옵스) : Kubernetes 완전 정복](https://logonme.net/activities/etc/udemy-devops-k8s-master/)
 - [\[KANS\] 3기 2주 – K8S Flannel CNI & Pause 컨테이너](https://logonme.net/activities/kans_3_2/)
 - [\[KANS\] 3기 4주 – Service : ClusterIP, NodePort](https://logonme.net/activities/study/kans_3_4/)
 - [글또 10기 여는 글](https://logonme.net/activities/etc/geulddo9/)
+- [\[KANS\] 3기 5주 – LoadBalancer(MetalLB), IPVS](https://logonme.net/activities/study/kans_3_5/)
+
+<!-- END: logonme.net -->
 
 ---
 
@@ -415,6 +418,7 @@ head:
 - [파드 Readiness & Probe](https://ddii.dev/kubernetes/readinessandprobe/)
 - [Multus on Kind cluster](https://ddii.dev/kubernetes/multus-on-kind/)
 - [ExternalDNS](https://ddii.dev/kubernetes/externaldns/)
+- [Kubernetes Headless Service](https://ddii.dev/kubernetes/headless-service/)
 
 <!-- END: ddii.dev -->
 

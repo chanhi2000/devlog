@@ -458,4 +458,12 @@ head:
 
 ---
 
+## 01010011
+
+- [Conventional Commit과 Semantic Versioning. 근데 이제 Release Please Actions를 곁들인…](https://01010011.blog/2024/10/05/conventional-commit%ea%b3%bc-semantic-versioning-%ea%b7%bc%eb%8d%b0-%ec%9d%b4%ec%a0%9c-release-please-actions%eb%a5%bc-%ea%b3%81%eb%93%a4%ec%9d%b8/)
+
+<!-- END: 01010011.blog -->
+
+---
+
 <TagLinks />

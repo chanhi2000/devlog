@@ -776,5 +776,33 @@
     "topics": ["html", "html-parser", "kotlin-multiplatform", "kotlinx-serialization", "ktor", "retrofit2"],
     "avatar": "https://avatars.githubusercontent.com/u/17478192?v=4",
     "banner": ""
+  }, {
+    "repo": "mr3y-the-programmer/PodcastIndex-SDK",
+    "desc": "Unofficial Type-safe Kotlin Multiplatform SDK for PodcastIndex  - GitHub: Unofficial Type-safe Kotlin Multiplatform SDK for PodcastIndex",
+    "officialSite": "https://podcastindex.org/",
+    "topics": ["android", "kotlin", "podcast", "podcast-player", "kotlin-multiplatform", "ktor-client", "openpodcast", "podcastindex"],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/4380f6a0a92758fbec8babe8381eab597cca3f1ff8e0fde5249befb93a26c5a0/mr3y-the-programmer/PodcastIndex-SDK"
+  }, {
+    "repo": "ShreyashKore/inspektor",
+    "desc": "A multiplatform HTTP inspection library for Ktor inspired by Chucker",
+    "officialSite": "",
+    "topics": ["http-inspection", "ktor", "kotlin-multiplatform", "ktor-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/46917404?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/793195317/6411f1a5-e362-49fc-bdbe-ea1b23dbbef3"
+  }, {
+    "repo": "eygraber/vice",
+    "desc": "KMP MVI framework built using Compose for Compose. Contribute to eygraber/vice development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/in/2740?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/0fd519f8e93fabb25d9be8f9071bbffa58753786fda4e3ee281b2f2a4ff65072/eygraber/vice"
+  }, {
+    "repo": "fleeksoft/ksoup",
+    "desc": "Ksoup is a Kotlin Multiplatform library for working with HTML and XML. It's a port of the renowned Java library Jsoup.",
+    "officialSite": "https://fleeksoft.github.io/ksoup/",
+    "topics": ["kotlin", "jsoup", "java-html-parser", "kmp", "kotlin-multiplatform", "ksoup", "kotlin-html-parser"],
+    "avatar": "https://avatars.githubusercontent.com/u/11086988?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/aeebb43f22a4bc5b0219e948cae631757181b7a8423f486a88f455c63e83e68b/fleeksoft/ksoup"
   }
 ]

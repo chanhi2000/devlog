@@ -1028,5 +1028,19 @@
     "topics": ["ai", "finetuning", "langchain", "llama", "llama2", "llm", "machine-learning", "python", "pytorch", "vllm"],
     "avatar": "https://avatars.githubusercontent.com/u/153379578?v=4",
     "banner": ""
+  }, {
+    "repo": "NirDiamant/GenAI_Agents",
+    "desc": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive A...",
+    "officialSite": "",
+    "topics": ["tutorials", "agents", "hacktoberfest", "genai"],
+    "avatar": "https://avatars.githubusercontent.com/u/28316913?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/670a2d8341e850bb2d27c0d7faf820c84f10dacf0778110acf01efcafa95130b/NirDiamant/GenAI_Agents"
+  }, {
+    "repo": "GokuMohandas/Made-With-ML",
+    "desc": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+    "officialSite": "https://madewithml.com",
+    "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "deep-learning", "pytorch", "data-engineering", "ray", "data-quality", "distributed-training", "mlops", "distributed-ml", "llms"],
+    "avatar": "",
+    "banner": "https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"
   }
 ]
