@@ -107,6 +107,8 @@ tag:
 
 - [Google Chrome `--headless` mode](https://til.simonwillison.net/chrome/headless)
 
+<!-- END: simonwillison.net -->
+
 ---
 
 ## sunyzero

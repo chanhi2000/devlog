@@ -50,6 +50,28 @@ head:
 <PDF url="https://arxiv.org/pdf/2409.12089" />
 <PDF url="https://arxiv.org/pdf/1503.02531" />
 <PDF url="https://arxiv.org/pdf/2407.16833" />
+<PDF url="https://arxiv.org/pdf/2410.02525" />
+<PDF url="https://arxiv.org/pdf/2409.14924" />
+<PDF url="https://arxiv.org/pdf/2402.14207" />
+<PDF url="https://arxiv.org/pdf/2409.16694" />
+<PDF url="https://arxiv.org/pdf/2409.16416" />
+<PDF url="https://arxiv.org/pdf/2409.15173" />
+<PDF url="https://arxiv.org/pdf/2409.14924" />
+<PDF url="https://arxiv.org/pdf/2402.10200" />
+
+---
+
+## <FontIcon icon="fa-brands fa-x-twitter"/>X
+
+- [`ariG23498` / A simple hack to calculating how much VRAM you would need to run a model.](https://x.com/ariG23498/status/1840967205699367116)
+- [`mervenoyann` / NVIDIA just dropped a gigantic multimodal model called NVLM 72B 🦖](https://x.com/mervenoyann/status/1841098941900767323)
+- [`danielhanchen` / Llama 3.2 Multimodal benchmarks](https://x.com/danielhanchen/status/1838991771948425652)
+- [`ArtificialAnlys` / OpenAI’s o1-preview is the first model to substantially push the frontier of language model intelligence since the original GPT-4 over 18 months ago](https://x.com/ArtificialAnlys/status/1838955372855390618)
+- [`helloiamleonie` / Chunking techniques for RAG:](https://x.com/helloiamleonie/status/1838760385224089769)
+- [`akshay_pachaar` / Multimodal Retrieval Augmented Generation (RAG), clearly explained:](https://x.com/akshay_pachaar/status/1838556536051999135)
+- [`weaviate_io` / 6 types of vector embeddings for your AI applications](https://x.com/weaviate_io/status/1842203043724431775)
+
+<!-- END: x.com -->
 
 ---
 
@@ -68,6 +90,7 @@ head:
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
 - [`jhk0530` / LG의 오픈소스 AI, 엑사원 3.0 사용후기](https://jhk0530.medium.com/lg-exaone-3-0-0e7221db6356?source=rss-cb820693bed5------2)
 - [`datastrato` / Building A Universal Data Agent in 15 Minutes with LlamaIndex and Apache Gravitino (incubating)](https://medium.com/datastrato/building-a-universal-data-agent-in-15-minutes-with-llamaindex-and-apache-gravitino-incubating-401ea24a3b39)
+- [`sarmadafzalj` / Visualize Vector Embeddings in a RAG System](https://medium.com/@sarmadafzalj/visualize-vector-embeddings-in-a-rag-system-89d0c44a3be4)
 
 <!-- END: medium.com -->
 
@@ -309,6 +332,9 @@ head:
 - [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
   - [미드저니에서 원하는 요소 제거하기: `--no` 옵션과 멀티 프롬프트](https://kesakiyo.tistory.com/m/entry/%EB%AF%B8%EB%93%9C%EC%A0%80%EB%8B%88%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-no-%EC%98%B5%EC%85%98%EA%B3%BC-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
   <!-- END: kesakiyo -->
+- [`daeson` / 대소니](https://daeson.tistory.com/m/)
+  - [Retrieval Augmented Generation (RAG) and Beyond](https://daeson.tistory.com/m/396)
+  <!-- END: daeson -->
 <!-- END: tistory.com -->
 
 ---
@@ -363,11 +389,14 @@ head:
 
 ---
 
-## Simon Willison's Weblog
+## Simon Willison's TILs
 
 - [Language models on the command-line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 - [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 - [NotebookLM’s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
+- [Whisper large-v3-turbo model.](https://simonwillison.net/2024/Oct/1/whisper-large-v3-turbo-model/)
+
+<!-- END: simonwillison.net -->
 
 ---
 
@@ -461,6 +490,10 @@ head:
 - [엔비디아, 새로운 네모 리트리버 마이크로서비스 발표··· "LLM 정확도 및 처리량 향상 지원"](https://ciokorea.com/news/345545)
 - [상용 RAG의 현주소와 도전 과제](https://ciokorea.com/news/345559)
 - [“로컬 기기에서 AI 성능 극대화”··· 허깅페이스, 소형 언어 모델 ‘스몰LM’ 공개](https://ciokorea.com/news/344684)
+- [카카오, AI 언어모델 성능 평가 데이터셋 구축 및 오픈소스 공개](https://ciokorea.com/news/351362)
+- [이참에 알아둘까··· 주요 생성형 AI 용어 23가지](https://ciokorea.com/news/351306)
+
+<!-- END: ciokorea.com -->
 
 ---
 
@@ -472,6 +505,8 @@ head:
 - [AI 환상을 현실로 옮기는 가장 효과적인 방법](https://itworld.co.kr/news/346616)
 - ["프로젝트 3개 중 1개는 폐기" 생성형 AI 가치 입증이 어려운 이유](https://itworld.co.kr/news/346070)
 - [커뮤니티에 공개된 애플 인텔리전스 '비밀 지침'으로 보는 생성형 AI의 과제](https://itworld.co.kr/news/346882)
+- [LLM 프로젝트를 프로덕션에 도입하기 위한 5가지 과제와 해결책](https://itworld.co.kr/news/351586)
+- [LLM이 아니라 애플리케이션이 필요한 이유](https://itworld.co.kr/news/350963)
 
 <!-- END: itworld.co.kr -->
 
@@ -518,6 +553,14 @@ head:
 - [생성형 의료 인공지능을 ‘새로운 지적 존재’로서 규제하자](https://yoonsupchoi.com/2024/10/03/how-to-regulate-generative-ai-in-healthcare/)
 
 <!-- END: yoonsupchoi.com -->
+
+---
+
+## Timescale Blog
+
+- [RAG Is More Than Just Vector Search](https://timescale.com/blog/rag-is-more-than-just-vector-search/)
+
+<!-- END: timescale.com -->
 
 ---
 

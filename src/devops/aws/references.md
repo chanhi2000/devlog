@@ -531,6 +531,7 @@ head:
 - [AWS Redshift: WLM, Queue, and Slot](http://jybaek.tistory.com/m/504716)
 - [AWS Resilience Hub - Fault Injection Service](https://jybaek.tistory.com/m/504717)
 - [AWS Node Termination Handler](https://jybaek.tistory.com/m/504718)
+- [AWS Secrets engine 소개와 사용방법](https://jybaek.tistory.com/m/504724)
 
 ---
 

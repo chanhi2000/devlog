@@ -118,6 +118,9 @@ head:
 ## YA-Hwang 기술 블로그
 
 - [`aws-sdk-pandas` Lambda로 활용하기](https://yahwang.github.io/posts/112)
+- [pandas보다 빠르게 데이터 저장하기](https://yahwang.github.io/posts/115)
+
+<!-- END: yahwang.github.io -->
 
 ---
 

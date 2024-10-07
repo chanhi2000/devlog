@@ -830,6 +830,12 @@ head:
 - [`aspdotnet` / 재우니의 블로그](http://aspdotnet.tistory.com/m/)
   - [Python : Playwright 라이브러리, 웹사이트 내용  PDF로 변환](http://aspdotnet.tistory.com/m/3262)
   <!-- END: aspdotnet -->
+- [`he-kate1130` / KATE.log](https://he-kate1130.tistory.com/m/)
+  - [\[CS study\] 0. 개요](https://he-kate1130.tistory.com/m/113)
+  - [\[CS study\] 1. 재귀와 반복](https://he-kate1130.tistory.com/m/114)
+  - [\[CS study\] 2. 알고리즘의 성능](https://he-kate1130.tistory.com/m/115)
+  - [\[CS study\] 3. 스택과 큐](https://he-kate1130.tistory.com/m/116)
+  <!-- END: he-kate1130 -->
 <!-- END: tistory.com -->
 
 ---
@@ -1036,6 +1042,9 @@ head:
 - [twelvedata python api](http://mkseo.pe.kr/blog/?p=5018)
 - [Predicting next state and observation in hmmlearn](http://mkseo.pe.kr/blog/?p=5029)
 - [plotly and drawing multiple lines in a single figure](http://mkseo.pe.kr/blog/?p=5043)
+- [Finding all subclasses dynamically in python](http://mkseo.pe.kr/blog/?p=5068)
+
+<!-- END: http://mkseo.pe.kr -->
 
 ---
 
@@ -2364,6 +2373,16 @@ head:
 ## Qwen
 
 - [Qwen2.5: A Party of Foundation Models!](https://qwenlm.github.io/blog/qwen2.5/)
+
+<!-- END: qwenlm.github.io -->
+
+---
+
+## PropelAuth - Authentication for B2B products
+
+- [Building internal AI tools with Streamlit](https://propelauth.com/post/internal-ai-tools-with-streamlit)
+
+<!-- END: propelauth.com -->
 
 ---
 

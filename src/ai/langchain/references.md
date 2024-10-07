@@ -73,4 +73,13 @@ head:
 - [LangSmith, 사용 후기](https://sudormrf.run/2024/08/17/langsmith_review/)
 
 ---
+
+## Daddy Makers
+
+- [LangGraph 기반 데이터 분석 멀티 에이전트 만들기](https://daddynkidsmakers.blogspot.com/2024/10/langgraph.html)
+
+<!-- END: daddynkidsmakers.blogspot.com -->
+
+---
+
 <TagLinks />

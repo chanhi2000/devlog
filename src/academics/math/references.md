@@ -51,7 +51,18 @@ head:
 
 ---
 
-## Google Research
+## <FontIcon icon="fa-brands fa-x-twitter"/>X
+
+- [`abakcus` / The coolest visual representation of a Fourier transform. 😲 [https://bit.ly/3uCu4a9]](https://x.com/abakcus/status/1841663858248700263)
+- [`akshay_pachaar` / Eigenvalues & Eigenvectors clearly explained:](https://x.com/akshay_pachaar/status/1840730819637477736)
+
+<!-- END: x.com -->
+
+---
+
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### Google Research
 
 - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 

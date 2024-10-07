@@ -668,6 +668,7 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-gatsby/articles/README.md',
+            asb.freecodecamp("js-gatsby"),
             asb.smashingmagazion("js-gatsby"),
           ]
         }

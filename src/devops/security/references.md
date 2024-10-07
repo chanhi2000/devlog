@@ -567,6 +567,14 @@ tag:
 
 ---
 
+## Junhyunny's Devlogs
+
+- [Register client in Keycloak for OAuth2](https://junhyunny.github.io/security/tool/register-client-in-keycloak-for-oauth2/)
+
+<!-- END: junhyunny.github.io -->
+
+---
+
 ## Project(s)
 
 ```component VPCard

@@ -319,6 +319,8 @@ head:
 - [`@2fEJ` / \[UX원칙#22\] 버튼 내비게이션 디자인 UX 원칙](https://brunch.co.kr/@@2fEJ/1489)
 - [`@2fEJ` / \[UX#23\] 아이콘 VS 버튼 레이블의 배치 여부](https://brunch.co.kr/@@2fEJ/1488)
 - [`@2fEJ` / \[UX#24\]드롭다운 메뉴와 세그먼티드 버튼 UX 원칙](https://brunch.co.kr/@@2fEJ/1487)
+- [`@2fEJ` / \[UX#25\] 아이콘 설계 UX 가이드라인 9가지](https://brunch.co.kr/@@2fEJ/1490)
+- [`@2fEJ` / \[UX#26\] 플레이스홀더 텍스트의 UX 원칙 3가지](https://brunch.co.kr/@@2fEJ/1491)
 
 <!-- END: brunch.co.kr -->
 

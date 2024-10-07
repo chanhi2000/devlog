@@ -363,5 +363,12 @@
     "topics": ["api-rest", "cms", "composer-package", "content-management-system", "flat-file-cms", "flatfile", "flatfilecms", "graphql", "headless", "jamstack", "laravel", "laravel-cms", "laravel-package", "php", "php8", "ssg", "statamic", "vuejs"],
     "avatar": "https://avatars.githubusercontent.com/u/1669353?v=4",
     "banner": ""
+  }, {
+    "repo": "CodeWithKyrian/transformers-php",
+    "desc": "Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  - GitHub: Transformers PHP is a toolkit for PHP developer...",
+    "officialSite": "https://codewithkyrian.github.io/transformers-php/",
+    "topics": ["php", "ml", "transformers", "huggingface"],
+    "avatar": "https://avatars.githubusercontent.com/u/48791154?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/36e374d5b5f64ede3f9ae99bed54b79bb5214c126a722d3befe922622ffe20c6/CodeWithKyrian/transformers-php"
   }
 ]

@@ -664,6 +664,16 @@ head:
 
 - [`Promise.race`로 실행 시간 제한 걸기](https://hyeonseok.com/blog/920)
 
+<!-- END:  -->
+
+---
+
+## Daddy Makers
+
+- [threejs 이용한 web3d 프로그램 개발하기](https://daddynkidsmakers.blogspot.com/2024/10/threejs-web3d.html)
+
+<!-- END: daddynkidsmakers.blogspot.com -->
+
 ---
 
 <TagLinks />

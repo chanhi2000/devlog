@@ -165,8 +165,9 @@ head:
 - [`@lemontech119` / Typeorm Custom `ManyToMany`](https://velog.io/@lemontech119/Typeorm-Custom-ManyToMany)
 - [`@qkrtkdwns3410` / Spring Data Jpa 배치처리시 주의점](https://velog.io/@qkrtkdwns3410/Spring-Data-Jpa-%EB%B0%B0%EC%B9%98%EC%B2%98%EB%A6%AC%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90)
 - [`@qkrtkdwns3410` / JPA `@DynamicUpdate`](https://velog.io/@qkrtkdwns3410/JPA-DynamicUpdate)
+- [`@qkrtkdwns3410` / JPA 공부 메모](https://velog.io/@qkrtkdwns3410/JPA-%EA%B3%B5%EB%B6%80-%EB%A9%94%EB%AA%A8)
 
-<!-- END: velog.io -->
+<!-- END: velog.io java -->
 
 ### üntil
 
@@ -430,6 +431,12 @@ head:
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
   <!-- END: shout-to-my-mae -->
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [스프링에서 DI(Dependency Injection)를 활용한 서비스 계층 설계 및 `@Autowired`와 생성자 주입의 차이점](https://dreamcoding.tistory.com/m/115)
+  <!-- END: dreamcoding -->
+- [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
+  - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
+  <!-- END: yejipro -->
 <!-- END: tistory.com java -->
 
 ### 비탐인

@@ -299,6 +299,7 @@ tag:
 - [Blog: \[Lint\]](http://pluu.github.io/blog/android/2024/08/03/Compose-Lint/)
 - [Blog: \[메모\] AndroidX Compose BOM stable/beta/alpha 버전](http://pluu.github.io/blog/android/2024/09/19/compose-bom/)
 - [Blog: Coil 요청 가로채기](http://pluu.github.io/blog/android/2024/09/22/coil-intercept/)
+- [Blog: \[메모\] Google Play의 사진 및 동영상 권한 정책](http://pluu.github.io/blog/android/2024/10/06/permission/)
 
 <!-- END: pluu.github.io -->
 

@@ -460,6 +460,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Get Started with Matplotlib – With Code Examples and Visualizations",
+  "desc": "One of the key steps in data analysis is data visualization, as it helps you notice certain features, tendencies, and relevant patterns that may not be obvious in raw data. Matplotlib is one of the most effective libraries for Python, and it allows t...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/getting-started-with-matplotlib.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

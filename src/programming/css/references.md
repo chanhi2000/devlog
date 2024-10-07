@@ -81,6 +81,7 @@ tag:
 - [`@superlipbalm` / (번역) Shadow DOM을 스타일링 하는 8가지 방법](https://velog.io/@superlipbalm/8-ways-to-style-the-shadow-dom)
 - [`@ksh4704` / HTML 정리(1)](https://velog.io/@ksh4704/HTML-%EC%A0%95%EB%A6%AC1)
 - [`@ksh4704` / 스타벅스 클론 코딩(1)](https://velog.io/@ksh4704/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A91)
+- [`@ksh4704` / 스타벅스 클론코딩(2)](https://velog.io/@ksh4704/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A92)
 
 <!-- END: velog.io -->
 
@@ -431,6 +432,7 @@ tag:
   - [한 번쯤 들어봤을 Reset CSS와 Normalize CSS, 무슨 차이가 있을까?](https://kesakiyo.tistory.com/m/entry/%ED%95%9C-%EB%B2%88%EC%AF%A4-%EB%93%A4%EC%96%B4%EB%B4%A4%EC%9D%84-Reset-CSS%EC%99%80-Normalize-CSS-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C)
   - [HSL 색상 모델이란? - RGB보다 직관적인 색상 모델](https://kesakiyo.tistory.com/m/entry/HSL-%EC%83%89%EC%83%81-%EB%AA%A8%EB%8D%B8%EC%9D%B4%EB%9E%80-RGB%EB%B3%B4%EB%8B%A4-%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8-%EC%83%89%EC%83%81-%EB%AA%A8%EB%8D%B8)
   - [HTML에서 form을 원격으로 제출하는 방법](https://kesakiyo.tistory.com/m/entry/HTML%EC%97%90%EC%84%9C-form%EC%9D%84-%EC%9B%90%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+  - [CSS의 선택자로 자식 선택하기: 첫 번째, 마지막, N번째](https://kesakiyo.tistory.com/m/entry/CSS%EC%9D%98-%EC%84%A0%ED%83%9D%EC%9E%90%EB%A1%9C-%EC%9E%90%EC%8B%9D-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EB%A7%88%EC%A7%80%EB%A7%89-N%EB%B2%88%EC%A7%B8)
   <!-- END: kesakiyo -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [image, xml, javascript, css, font 파일을 base64 로 치환하여 html 적용해 보기](https://aspdotnet.tistory.com/m/2848)

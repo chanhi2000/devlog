@@ -43,6 +43,16 @@ tag:
 
 - [How to create custom snippets in Visual Studio 2022](https://www.code4it.dev/blog/custom-snippets-visualstudio2022)
 
+<!-- END: code4it.dev -->
+
+---
+
+## 프로그래머 김성엽
+
+- [Visual Studio 버전에 대한 이야기 (VS2015 ~ VS2022 호환성)](https://m.blog.naver.com/tipsware/223609020156)
+
+<!-- END: tipsware (blog.naver.com) -->
+
 ---
 
 <TagLinks />

@@ -643,6 +643,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "Create Desktop Apps with Electron, React, and TypeScript",
+  "desc": "Desktop applications remain important for many types of software projects, providing rich, native user experiences. If you're interested in building desktop applications but want to leverage your web development skills, Electron is an excellent solut...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/create-desktop-apps-with-electron-react-and-typescript.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "JavaScript Refresher for React Beginners – Key JS Concepts to Know",
+  "desc": "The Back Story A few years ago, I was introduced to React and immediately fell in love with its component-based, state-driven approach to building web applications. But as I delved deeper into its ecosystem, I encountered not just React, but a range ...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/javascript-refresher-for-react-beginners.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

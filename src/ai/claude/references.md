@@ -68,9 +68,11 @@ head:
 
 ---
 
-## Simon Willison’s Weblog
+## Simon Willison's TILs
 
 - [Claude’s API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
+
+<!-- END: simonwillison.net -->
 
 ---
 

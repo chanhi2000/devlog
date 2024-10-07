@@ -272,10 +272,12 @@ head:
 
 ## Timescale Blog
 
-- [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://www.timescale.com/blog/how-we-scaled-postgresql-to-350-tb-with-10b-new-records-day/)
-- [13 Tips to Improve PostgreSQL Insert Performance](https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance/)
-- [PostgreSQL and Pgvector: Now Faster Than Pinecone, 75% Cheaper, and 100% Open Source](https://www.timescale.com/blog/pgvector-is-now-as-fast-as-pinecone-at-75-less-cost/)
-- [Pgvector vs. Pinecone: Vector Database Performance and Cost Comparison](https://www.timescale.com/blog/pgvector-vs-pinecone/)
+- [How We Scaled PostgreSQL to 350 TB+ (With 10B New Records/Day)](https://timescale.com/blog/how-we-scaled-postgresql-to-350-tb-with-10b-new-records-day/)
+- [13 Tips to Improve PostgreSQL Insert Performance](https://timescale.com/blog/13-tips-to-improve-postgresql-insert-performance/)
+- [PostgreSQL and Pgvector: Now Faster Than Pinecone, 75% Cheaper, and 100% Open Source](https://timescale.com/blog/pgvector-is-now-as-fast-as-pinecone-at-75-less-cost/)
+- [Pgvector vs. Pinecone: Vector Database Performance and Cost Comparison](https://timescale.com/blog/pgvector-vs-pinecone/)
+
+<!-- EMD: timescale.com -->
 
 ---
 

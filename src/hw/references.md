@@ -146,8 +146,10 @@ head:
 - [소형 로봇에 적용할 보드들](https://m.blog.naver.com/chandong83/223584451791)
 - [STM32G4-AUTO 출시](https://m.blog.naver.com/chandong83/223599960881)
 - [STM32G4-IMU-CAN 검증 완료](https://m.blog.naver.com/chandong83/223608133767)
+- [STM32G4-WT-CAN 검증 완료 - 무게 측정 CAN 보드](https://m.blog.naver.com/chandong83/223608928378)
+- [STM32G4-LC 검증 완료 - 네오픽셀, 서보 모터 제어 보드](https://m.blog.naver.com/chandong83/223609035280)
 
-<!-- END: chandong83 -->
+<!-- END: chandong83 (blog.naver.com) -->
 
 ---
 

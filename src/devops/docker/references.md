@@ -304,6 +304,12 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
   - [AWS EC2에 `.env` 파일로 Docker 환경변수 관리하기 (feat. docker-compose)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-feat-docker-compose)
   <!-- END: moonnight0 -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [6. 프로젝트 세팅 (husky 커밋 훅, docker)](https://takeu.tistory.com/m/400)
+  <!-- END: takeu -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [Redis 도입하기 : CI/CD 파이프라인 수정기 (Blue/Green 무중단 배포)](https://shout-to-my-mae.tistory.com/m/445)
+  <!-- END: shout-to-my-mae -->
 <!-- END: tistory.com -->
 
 ---

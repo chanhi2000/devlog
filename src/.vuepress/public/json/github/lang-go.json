@@ -2666,5 +2666,12 @@
     "topics": ["go", "golang", "htmx", "htmx-go", "hypermedia", "hypermedia-driven-application", "javascript", "server-side-rendering"],
     "avatar": "https://avatars.githubusercontent.com/u/11528924?v=4",
     "banner": ""
+  }, {
+    "repo": "mappu/miqt",
+    "desc": "MIT-licensed Qt bindings for Go. Contribute to mappu/miqt development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["go", "golang", "qt", "qt5", "bindings", "cgo", "qtwidgets"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d16deadf953af0a3f17d5d5560a97de5a0019ac286cb63ad1723ae25ebca3ea4/mappu/miqt"
   }
 ]

@@ -85,11 +85,11 @@
     "banner": ""
   }, {
     "repo": "microsoft/generative-ai-for-beginners",
-    "desc": "18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "desc": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
     "officialSite": "https://microsoft.github.io/generative-ai-for-beginners/",
-    "topics": ["ai", "azure", "chatgpt", "dall-e", "generative-ai", "generativeai", "gpt", "language-model", "llms", "openai", "prompt-engineering", "semantic-search", "transformers"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["ai", "azure", "transformers", "openai", "gpt", "language-model", "semantic-search", "dall-e", "prompt-engineering", "llms", "generative-ai", "generativeai", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/655806940/88f66022-a0f3-4ad7-b3c8-a0628db51c69"
   }, {
     "repo": "girafe-ai/ml-course",
     "desc": "Open Machine Learning course",

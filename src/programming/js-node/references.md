@@ -954,6 +954,8 @@ tag:
 - [Running OCR against PDFs and images directly in your browser](https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/)
 - [Logging OpenAI API requests and responses using HTTPX](https://til.simonwillison.net/httpx/openai-log-requests-responses)
 
+<!-- END: simonwillison.net -->
+
 ---
 
 ## rebehayan

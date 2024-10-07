@@ -276,6 +276,8 @@ head:
 - [\[Q&A\] CRect 객체를 RECT * 매개 변수로 전달할 때](https://m.blog.naver.com/tipsware/223605974074)
 - [그림 문자 확인하기 - Step 2](https://m.blog.naver.com/tipsware/223607382210)
 - [체크 박스의 심벌 변경하기](https://m.blog.naver.com/tipsware/223608325031)
+- [바이너리 뷰어 만들기](https://m.blog.naver.com/tipsware/223610313402)
+- [시리얼 통신으로 채팅하는 예제 만들기](https://m.blog.naver.com/tipsware/223611524909)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 
@@ -529,6 +531,14 @@ head:
 ## Marius Bancila's Blog
 
 - [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
+
+---
+
+## 큰돌의 터전
+
+- [2024 Meta Hacker Cup Round1 Problem B: Prime Subtractorization](https://m.blog.naver.com/jhc9639/223610162392)
+
+<!-- END jhc9639 (blog.naver.com) -->
 
 ---
 

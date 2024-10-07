@@ -100,6 +100,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Use Switch Case in Arduino – Control LEDs With the Switch Statement",
+  "desc": "You can use a switch case statement to execute different blocks of code based on the value of a variable. It offers a more direct and cleaner approach to handling multiple conditions. In this article, you'll learn how to control LEDs using a switch c...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-use-switch-case-in-arduino-control-leds.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

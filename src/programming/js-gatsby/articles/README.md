@@ -9,6 +9,7 @@ category:
   - Article(s)
 tag: 
   - blog
+  - freecodecamp.org
   - smashingmagazine.com
   - node
   - nodejs
@@ -21,10 +22,17 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-storybook/articles/
+      content: https://chanhi2000.github.io/programming/js-gatsby/articles/
 ---
 
 # {{ $frontmatter.title }} 관련
+
+<SiteInfo
+  name="freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More"
+  desc="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice."
+  url="https://freecodecamp.org/news/"
+  logo="https://cdn.freecodecamp.org/universal/favicons/favicon.ico"
+  preview="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"/>
 
 ```component VPCard
 {
@@ -37,6 +45,24 @@ head:
 ```
 
 [[toc]]
+
+---
+
+## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+
+> freecodecamp.org
+
+```component VPCard
+{
+  "title": "What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs",
+  "desc": "Have you ever wondered how Frameworks like Next.js, Gatsby.js, and Remix work? These frameworks use the concepts of Pre-rendering and Hydration, which represent significant advancements in the history of web development. These frameworks leverage the...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/what-are-pre-rendering-and-hydration-in-web-dev.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+<!-- END: freecodecamp.org -->
 
 ---
 

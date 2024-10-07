@@ -341,7 +341,11 @@ head:
   <!-- END: takeu -->
 - [`mygumi` / 마이구미의 HelloWorld](https://mygumi.tistory.com/m/)
   - [\[React\] `react-query` 에러 핸들링](https://mygumi.tistory.com/m/449)
+  - [\[React\] IOS 페이지 트랜지션 구현해보기 :: 마이구미](https://mygumi.tistory.com/m/451)
   <!-- END: mygumi -->
+- [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
+  - [\[FE\] React Context API와 LocalStorage로 간단 상태관리 모듈 만들기](https://jacky0831.tistory.com/m/103)
+  <!-- END: jacky0831 -->
 <!-- END: tistory.com -->
 
 ---

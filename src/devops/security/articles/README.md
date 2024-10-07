@@ -191,6 +191,26 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Improve Your Hacking Skills by Playing OverTheWire Wargames",
+  "desc": "Hacking is a skill that fascinates many people. You’ve seen hackers in movies. They type at keyboards, breaking into high-security systems in seconds. But real hacking isn’t quite like that. It takes patience, creativity, and most importantly, a lot ...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/improve-hacking-skills-by-playing-wargames.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Key Security Concepts to Learn for a Career in Cybersecurity",
+  "desc": "This tutorial is designed to be your stepping stone into the fascinating world of cybersecurity. I’ll introduce you to key concepts and terminology you’ll need to know, giving you a solid foundation to build upon as you continue your learning journey...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/key-cybersecurity-concepts-for-career.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---

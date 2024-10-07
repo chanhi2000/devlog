@@ -123,6 +123,8 @@ tag:
 - [`@jwlee010523` / Swift에서 시간을 효율적으로 다루는 방법](https://velog.io/@jwlee010523/swift-time-formatting)
 - [`@jwlee010523` / Swift에서 시간을 효율적으로 다루는 방법](https://velog.io/@jwlee010523/swift-time-formatting)
 - [`@eddy_song` / Default Argument로 안전하고 편리하게 인터페이스 설계하기](https://velog.io/@eddy_song/default-argument)
+- [`@jwlee010523` / UIKit -  `@objc`와 `#selector`란?](https://velog.io/@jwlee010523/UIkit-objc-selector)
+- [`@jwlee010523` / 아키텍처 - MVC와 MVVM의 차이](https://velog.io/@jwlee010523/archi-mvc-mvvm)
 
 <!-- END: velog.io -->
 
@@ -1031,6 +1033,14 @@ tag:
 - [`AVAudioEffectNode`: painless low level audio effects written in Swift](https://orjpap.github.io/swift/low-level/audio/avfoundation/2024/09/19/avAudioEffectNode.html)
 
 <!-- END: orjpap.github.io -->
+
+---
+
+## 폴시랩
+
+- [Menu is not added to app via applicationDockMenu on macOS](https://falsy.me/menu-is-not-added-to-app-via-applicationdockmenu-on-macos/)
+
+<!-- END: falsy.me -->
 
 ---
 

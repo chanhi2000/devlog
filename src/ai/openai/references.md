@@ -149,11 +149,14 @@ head:
 
 ---
 
-## Simon William
+## Simon Willison's TILs
 
 - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers)
 - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus)
 - [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
+- [OpenAI DevDay 2024 live blog](https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/)
+
+<!-- END: simonwillison.net -->
 
 ---
 
@@ -493,6 +496,9 @@ head:
 ## 데보션 (DEVOCEAN) 기술 블로그 & 커뮤니티
 
 - [GPT-4와 함께하는 수능 국어 만점 도전: 프롬프트 학습 비법 공개](https://devocean.sk.com/blog/techBoardDetail.do?ID=166272) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/devocean.sk.com/166272.md) -->
+- [아직도 포탈에서 검색?(LLM 검색 서비스를 알려드립니다. feat. 에이닷)](https://devocean.sk.com/blog/techBoardDetail.do?ID=166869)
+
+<!-- END: devocean.sk.com -->
 
 ---
 

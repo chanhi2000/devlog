@@ -115,6 +115,9 @@ head:
 
 - [생성 AI 연구 활용 한계와 제언](https://jehyunlee.github.io/2024/05/24/General-53-genaipapersurvey/)
 - [소재 논문 데이터 추출 및 정리](https://jehyunlee.github.io/2024/06/03/General-54-materialdataextractor/)
+- [활용 업무 기준 AI 분류](https://jehyunlee.github.io/2024/10/09/General-63_aiforwork/)
+
+<!-- END: jehyunlee.github.io -->
 
 ---
 

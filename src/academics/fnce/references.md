@@ -41,6 +41,7 @@ head:
 ## Brunch
 
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)
+- [`@ZVA` / 이더리움 메인넷, 레이어2 성장세 맞춰줄 수 있나?](https://brunch.co.kr/@@ZVA/736)x
 
 <!-- END: brunch.co.kr -->
 

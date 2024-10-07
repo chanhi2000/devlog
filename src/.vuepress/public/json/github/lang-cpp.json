@@ -2343,5 +2343,19 @@
     "topics": ["llama", "media", "player", "winamp"],
     "avatar": "https://avatars.githubusercontent.com/u/182410147?v=4",
     "banner": ""
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "officialSite": "https://hyprland.org",
+    "topics": ["wayland-compositor", "compositor", "wayland", "cpp26"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "officialSite": "https://hyprland.org",
+    "topics": ["wayland-compositor", "compositor", "wayland", "cpp26"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
   }
 ]

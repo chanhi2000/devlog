@@ -7290,11 +7290,11 @@
     "banner": ""
   }, {
     "repo": "livekit/agents",
-    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 ",
+    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 . Contribute to livekit/agents development by creating an account on GitHub.",
     "officialSite": "https://docs.livekit.io/agents",
-    "topics": ["agents", "ai", "multimodal", "real-time", "video", "voice", "voice-assistant"],
-    "avatar": "https://avatars.githubusercontent.com/u/69438833?v=4",
-    "banner": ""
+    "topics": ["real-time", "video", "ai", "voice", "agents", "voice-assistant", "multimodal"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/79bc31b70a894e2afccce001bcfcebeceeca3ecd69f9b49daf06b4fa4b878d4d/livekit/agents"
   }, {
     "repo": "opslane/opslane",
     "desc": "Reducing alert fatigue for on-call engineers",
@@ -8170,5 +8170,26 @@
     "topics": ["audio", "deep-learning", "transformers", "pytorch", "voice-recognition", "speech-recognition", "speech-to-text", "language-model", "speaker-recognition", "speaker-verification", "speech-processing", "audio-processing", "asr", "speaker-diarization", "speechrecognition", "speech-separation", "speech-enhancement", "spoken-language-understanding", "huggingface", "speech-toolkit"],
     "avatar": "https://avatars.githubusercontent.com/u/11627174?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/0fd695b376273c096d491952774c73a0e566a29a4d03e7a964cd2d66f74500cd/speechbrain/speechbrain"
+  }, {
+    "repo": "THUDM/LongWriter",
+    "desc": "LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs",
+    "officialSite": "",
+    "topics": ["fine-tuning", "llm", "long-context", "long-text"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a005f711daae089135f3903bf09a7453ec29fd0117497667ac26e8970e274dc6/THUDM/LongWriter"
+  }, {
+    "repo": "hpyproject/hpy",
+    "desc": "HPy: a better API for Python. Contribute to hpyproject/hpy development by creating an account on GitHub.",
+    "officialSite": "https://hpyproject.org",
+    "topics": ["hpy"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f7560c131f899f368b48b4b5fc713de9f1385f6c7174e5d6c6fdc34a949c3f1a/hpyproject/hpy"
+  }, {
+    "repo": "google/mozc-devices",
+    "desc": "Circuit diagrams and firmware source code for Gboard DIY keyboards",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/151c5c1533940d6f63d6b5b88e7975a522fcbe9a944f26b07159693f32853c52/google/mozc-devices"
   }
 ]

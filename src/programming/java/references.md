@@ -280,10 +280,21 @@ tag:
   <!-- END: americanopeople -->
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
+  - [Java Garbage Collector](https://jeongchul.tistory.com/m/760)
+  - [JVM](https://jeongchul.tistory.com/m/761)
   <!-- END: jeongchul -->
 - [`hydev` / Note things to remember](https://hydev.tistory.com/m/)
   - [`ThreadPoolTaskExecutor`와 `CompletableFutre`를 사용하여 비동기처리하기](https://hydev.tistory.com/m/41)
   <!-- END: hydev -->
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [이펙티브자바 Item16. public클래스에는 public필드가 아닌 접근자 메서드를 사용하라](https://dreamcoding.tistory.com/m/109)
+  - [이펙티브자바 Item17. 변경 가능성을 최소화 하라](https://dreamcoding.tistory.com/m/110)
+  - [이펙티브자바 Item18. 상속보다는 컴포지션을 사용하라](https://dreamcoding.tistory.com/m/111)
+  - [이펙티브자바 Item19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://dreamcoding.tistory.com/m/112)
+  - [이펙티브자바 Item20. 추상 클래스보다는 인터페이스를 우선하라](https://dreamcoding.tistory.com/m/113)
+  - [이펙티브자바 Item32. 제네릭과 가변인수를 함께 쓸 때는 신중하라.](https://dreamcoding.tistory.com/m/114)
+  - [\[FE\] 아토믹 디자인 패턴에서 탈출: 컴포넌트 디자인 패턴, 방법론 찾아보기](https://jacky0831.tistory.com/m/102)
+  <!-- END: dreamcoding -->
 <!-- END: tistory.com java -->
 
 ### EastGlow
@@ -818,6 +829,7 @@ tag:
 - [`@zakharenko` / How does it feel to test a compiler?](https://medium.com/@zakharenko/how-does-it-feel-to-test-a-compiler-fa1ff5d86065)
 - [`googledeveloperseurope` / Structured Concurrency: coroutineScope](https://medium.com/googledeveloperseurope/structrured-concurrency-coroutinescope-adc470d47e4b)
 - [`hinchman-amanda` / Kotlin Coroutine mechanisms part 3: swapping CoroutineContext](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-part-3-swapping-coroutinecontext-983e950ac29a)
+- [`taesulee93` / 꼬리 호출 최적화(Tail Call Optimization, TCO)와 Kotlin `tailrec`](https://medium.com/@taesulee93/%EA%BC%AC%EB%A6%AC-%ED%98%B8%EC%B6%9C-%EC%B5%9C%EC%A0%81%ED%99%94-tail-call-optimization-tco-%EC%99%80-kotlin-tailrec-b5435fb453bc?source=rss-524631d9bcfb------2)
 
 <!-- END: medium.com kotiln -->
 

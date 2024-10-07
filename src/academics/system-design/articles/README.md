@@ -223,6 +223,16 @@ head:
 }
 ```
 
+```component VPCard
+{
+  "title": "How to Design and Develop Web APIs: Essential Guidelines for Developers",
+  "desc": "Software applications have made our lives easier and better in many ways. We use them almost daily, and some people find themselves using applications more frequently than they interact with other people. But how do applications interact with each ot...",
+  "link": "https://chanhi2000.github.io/bookshelf/freecodecamp.org/how-to-design-and-develop-web-apis-essential-guidelines.html",
+  "logo": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+  "background": "rgba(10,10,35,0.2)"
+}
+```
+
 <!-- END: freecodecamp.org -->
 
 ---
@@ -571,6 +581,16 @@ head:
   "desc": "개발자를 위한 ‘소프트웨어 아키텍처’ 개념과 활용법",
   "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2743.html",
   "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg", 
+  "background": "rgba(84,7,224,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "B2B 시장에서는 어떤 AI 서비스가 통할까?",
+  "desc": "생성형 AI 기술의 발전과 함께 사용자들의 이목을 사로잡는 서비스가 연일 등장하고 있습니다. 이런 생성형 AI 서비스의 지향점을 바꾸는 결정적인 차이가 어디서 생기는지 아시나요? 그 중 하나는 바로 최종 고객이 일반 사용자(B2C)인지, 혹은 기관(B2B)인지 차이입니다. 엔터프라이즈용 생성형 AI 서비스를 설계하고 개발할 때에는 일반적인 B2C 생성형 AI 서비스와는 다른 관점으로 접근할 필요가 있습니다. 주로 B2B 서비스와 관련된 일을 하는 엔지니어인 제 경험을 살려 B2B 생성형 AI 서비스의 기술적인 특징을 알아보겠습니다.",
+  "link": "https://chanhi2000.github.io/bookshelf/yozm.wishket.com/2787.html",
+  "logo": "https://yozm.wishket.com/static/renewal/img/global/gnb_yozmit.svg",
   "background": "rgba(84,7,224,0.2)"
 }
 ```

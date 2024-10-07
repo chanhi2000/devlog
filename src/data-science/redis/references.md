@@ -107,6 +107,7 @@ tag:
   <!-- END: splendidlolli -->
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
+  - [Redis 도입하기 : CI/CD 파이프라인 수정기 (Blue/Green 무중단 배포)](https://shout-to-my-mae.tistory.com/m/445)
   <!-- END: shout-to-my-mae -->
 <!-- END: tistory.com -->
 

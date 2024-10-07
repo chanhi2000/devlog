@@ -123,6 +123,10 @@ head:
 - [`dev-wnstjd` / 💻 준성 개발 일지](https://dev-wnstjd.tistory.com/m/)
   - [\[자격증\] \[SQLD\] 2024년 제 54회 SQLD 개발자 시험 후기](https://dev-wnstjd.tistory.com/m/527)
   <!-- END: dev-wnstjd -->
+- [`zzang9ha` / 🐔](https://zzang9ha.tistory.com/m/)
+  - [업무에 바로 쓰는 SQL 튜닝 1 - SQL 튜닝 이론](https://zzang9ha.tistory.com/m/463)
+  - [업무에 바로 쓰는 SQL 튜닝 2 - SQL 튜닝 실습 (1)](https://zzang9ha.tistory.com/m/464)
+  <!-- END: zzang9ha -->
 <!-- END: tistory.com -->
 
 ---

@@ -536,6 +536,9 @@ tag:
 ## 숲속얘기의 조용한 카페 & XRCLOUD
 
 - [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
+- [\[개발팁\] XRCloud에서 1000명 접속 테스트를 위한 VM 서버 구성과 자동화 방법](https://m.blog.naver.com/fstory97/223609946481)
+
+<!-- END: fstory97 (blog.naver.com) -->
 
 ---
 

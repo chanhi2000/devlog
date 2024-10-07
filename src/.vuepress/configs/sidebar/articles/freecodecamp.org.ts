@@ -275,6 +275,8 @@ export const template: SidebarInfoTemplate = {
       "new-react-19-features-you-should-know-with-code-examples", // 2024-09-30
       "authenticate-react-app-using-firebase", // 2024-10-02
       "react-best-practices-ever-developer-should-know", // 2024-10-03
+      "create-desktop-apps-with-electron-react-and-typescript", // 2024-10-08
+      "javascript-refresher-for-react-beginners", // 2024-10-09
     ]],[
     "js-vue", [
       "build-a-vue-ecommerce-app-using-msw", // 2024-07-08
@@ -295,6 +297,7 @@ export const template: SidebarInfoTemplate = {
       "integrate-wordpress-with-nextjs", // 2024-10-02
       "how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs", // 2024-10-03
       "create-a-front-end-portfolio-project-with-nextjs-and-threejs", // 2024-10-03
+      "what-are-pre-rendering-and-hydration-in-web-dev", // 2024-10-07
     ]],[
     "js-nest", [
       "how-to-setup-typeorm-datasource-nestjs-app", // 2024-04-25
@@ -307,6 +310,9 @@ export const template: SidebarInfoTemplate = {
     "js-supabase", [
       "add-auth-to-flutter-apps-with-supabase-auth-ui", // 2024-06-03
       "authenticate-react-app-using-firebase", // 2024-10-02
+    ]],[
+    "js-gatsby", [
+      "what-are-pre-rendering-and-hydration-in-web-dev", // 2024-10-07
     ]],[
     "css", [
       "perfect-html-input", // 2023-01-05
@@ -370,6 +376,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-start-building-projects-with-llms", // 2024-09-30
       "improve-your-data-science-skills-by-solving-kaggle-challenges", // 2024-09-30
       WORK_WITH_SQLITE_IN_PYTHON_HANDBOOK, // 2024-10-02
+      "getting-started-with-matplotlib", // 2024-10-08
     ]],[
     "py-django", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
@@ -446,6 +453,7 @@ export const template: SidebarInfoTemplate = {
       "run-sql-like-queries-on-cplusplus-files", // 2024-05-02
       "learn-cuda-programming", // 2024-09-24
       "understand-how-expressjs-works-by-building-your-own-server-multiplexer-from-scratch", // 2024-10-03
+      "how-to-use-switch-case-in-arduino-control-leds", // 2024-10-08
     ]],[
     "php", [
       "php-jwt-authentication-implementation", // 2024-04-24
@@ -563,6 +571,8 @@ export const template: SidebarInfoTemplate = {
       "how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial", // 2024-10-02
       "the-power-of-wordlists-why-every-ethical-hacker-needs-one", // 2024-10-03
       "hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts", // 2024-10-03
+      "improve-hacking-skills-by-playing-wargames", // 2024-10-08
+      "key-cybersecurity-concepts-for-career", // 2024-10-09
     ]],[
     "gatling", [
       "how-to-integrate-spring-boot-with-gatling", // 2024-07-08
@@ -633,6 +643,7 @@ export const template: SidebarInfoTemplate = {
       "how-to-effectively-manage-unique-identifiers-at-scale", // 2024-08-20
       "how-to-create-software-architecture-diagrams-using-the-c4-mode", // 2024-08-21
       "design-first-vs-logic-first-approach", // 2024-08-29
+      "how-to-design-and-develop-web-apis-essential-guidelines.md", // 2024-10-07
     ]],[
     "pm", [
       "what-is-trunk-based-development", // 2024-06-18
@@ -693,6 +704,7 @@ export const template: SidebarInfoTemplate = {
     ]],[
     "hw", [
       "how-to-get-a-memory-map-of-your-system-using-bios-interrupts", // 2024-09-23
+      "how-to-use-switch-case-in-arduino-control-leds", // 2024-10-08
     ]],[
     "all", [
       "how-to-create-an-analytics-dashboard-in-django-app", // 2020-02-12
@@ -1015,6 +1027,14 @@ export const template: SidebarInfoTemplate = {
       "create-a-front-end-portfolio-project-with-nextjs-and-threejs", // 2024-10-03
       "how-to-run-r-programs-directly-in-jupyter-notebook-locally", // 2024-10-03
       "hack-your-first-machine-a-guide-for-aspiring-security-enthusiasts", // 2024-10-03
+      "how-to-design-and-develop-web-apis-essential-guidelines", // 2024-10-07
+      "what-are-pre-rendering-and-hydration-in-web-dev", // 2024-10-07
+      "create-desktop-apps-with-electron-react-and-typescript", // 2024-10-08
+      "getting-started-with-matplotlib", // 2024-10-08
+      "improve-hacking-skills-by-playing-wargames", // 2024-10-08
+      "how-to-use-switch-case-in-arduino-control-leds", // 2024-10-08
+      "javascript-refresher-for-react-beginners", // 2024-10-09
+      "key-cybersecurity-concepts-for-career", // 2024-10-09
     ]],
   ]),
 }

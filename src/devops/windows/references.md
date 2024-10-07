@@ -82,6 +82,9 @@ tag:
   - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
   - [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/m/2392)
   <!-- END: webnautes -->
+- [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
+  - [장치관리자 느낌표 : 알 수 없는 장치, SM 버스 컨트롤러, PCI 장치](https://sunyzero.tistory.com/m/303)
+  <!-- END: sunyzero -->
 <!-- END: tistory.com -->
 
 ---

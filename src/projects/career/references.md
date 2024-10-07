@@ -345,6 +345,8 @@ tag:
 - [`@2weV` / 능동적 신뢰, 성장할 수 있는 환경, 그리고 가족.](https://brunch.co.kr/@@2weV/564)
 - [`@ZVA` / 고대 로마에도 자본시장이 있었다고?](https://brunch.co.kr/@@ZVA/735)
 - [`@2weV` / 커리어/영어 모두 성장을 만들어 낸 분들의 특징](https://brunch.co.kr/@@2weV/565)
+- [`@2weV` / Comfort Zone 을 넘어서는 도전을 멈추지 말자](https://brunch.co.kr/@@2weV/566)
+- [`@2weV` / 기술은 사람의 본질을 변화시키지는 못한다.](https://brunch.co.kr/@@2weV/567)
 
 <!-- END: brunch.co.kr -->
 
@@ -515,6 +517,7 @@ tag:
   <!-- END: th -->
 - [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
   - [[개발회고] 24년 1분기 회고](https://all-dev-kang.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%ED%9A%8C%EA%B3%A0-24%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+  - [챗형에게 기술사 응시자격을 묻다.](https://all-dev-kang.tistory.com/m/entry/%EC%B1%97%ED%98%95%EC%97%90%EA%B2%8C-%EA%B8%B0%EC%88%A0%EC%82%AC-%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9%EC%9D%84-%EB%AC%BB%EB%8B%A4)
   <!-- END: all-dev-kang -->
 - [`bcho` / 조대협의 블로그](http://bcho.tistory.com/m/)
   - [GTM 전략의 이해](http://bcho.tistory.com/m/1438)

@@ -77,6 +77,9 @@ tag:
 - [`sunyzero` / Linux Programmer](http://sunyzero.tistory.com/m/)
   - [수영 영법 부상 : 충돌 증후군과 회전근개파열, 늑연골염](http://sunyzero.tistory.com/m/302)
   <!-- END: sunyzero -->
+- [`naleejang` / Nalee와 함께 떠나는 IT이야기](https://naleejang.tistory.com/m/)
+  - [인생을 살면서 중요한건 뭘까?](https://naleejang.tistory.com/m/277)
+  <!-- END: naleejang -->
 <!-- END: tistory.com -->
 
 ---

@@ -4877,5 +4877,12 @@
     "topics": ["javascript", "transformers", "whisper"],
     "avatar": "https://avatars.githubusercontent.com/u/26504141?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/1c4e1fa2b678b28fbd1ae5775e073a67b84d9deb7a1dc34591baed8ba5c4e001/xenova/whisper-web"
+  }, {
+    "repo": "keldaanCommunity/pokemonAutoChess",
+    "desc": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+    "officialSite": "https://pokemon-auto-chess.com/",
+    "topics": ["pokemon", "autochess", "pokemon-auto-chess"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/bbea4799cc9409e79c8bed1f30e3892d30d6c299629c734d2899eec5d56b58e5/keldaanCommunity/pokemonAutoChess"
   }
 ]

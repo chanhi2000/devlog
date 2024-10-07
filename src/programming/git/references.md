@@ -316,6 +316,9 @@ head:
   - [\[1년 후 마실가실\] `.gitignore` 재적용](https://hj0216.tistory.com/m/953)
   - [\[1년 후 마실가실\] 커밋 규칙](https://hj0216.tistory.com/m/957)
   <!-- END: hj0216 -->
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [Git 기본 명령어 사용법: 프로젝트 관리를 위한 완벽 가이드](https://dreamcoding.tistory.com/m/116)
+  <!-- END: dreamcoding -->
 <!-- END: tistory.com -->
 
 ---
