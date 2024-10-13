@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "FASTCAMPUStv",
+    "name": "패스트캠퍼스",
+    "profile": "https://yt3.googleusercontent.com/ezJzoiAyl_RMwTqobXewaLKGq7_N2A0i1D5Q3d2D6lQlTjMJQfz4ZWWGqAA9TNa3IzJyanAIug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AK8K7ZLYoxPuaLI6kagJkRe88IsDtsb9xKDD8qrwLppP2YCNTcgF_LGGimclPVAIwZb3Pn-vTew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FsofdKCQNMI", "title": "[캠프콘] IT 대기업 출신 멘토에게 배우는, 성장하는 PM이 되기 위한 실전 가이드" },
+    { "id": "Kfv-sypYsWw", "title": "PPT, 10배 높은 퀄리티로 10배 빠르게 제작하는 법?! (feat. 생성형 AI)" },
+    { "id": "AI3zZLmeuhs", "title": "[ChatGPT] 업무 효율 200% 상승? 직장인에게 꼭 필요한 ChatGPT 필수 활용법" },
+    { "id": "NKINUzLVVnQ", "title": "지금까지 ChatGPT '제대로' 쓰고 있었는지 확인하는 방법 (feat. 실리콘밸리 상위 1%의 ChatGPT 노하우)" },
+    { "id": "mfO7mY1v1rQ", "title": "[프론트엔드] 30년차 실무 노하우를 담은 실시간 강의로 프론트엔드 개발자 완성 | 김민태의 데브캠프" },
+    { "id": "qtHfv75xZ_A", "title": "[캠프콘] 성장하는 프론트엔드 개발자가 되기 위한 실전 가이드" },
+    { "id": "jnHglgoA3Zw", "title": "[Kernel360]백엔드 개발 Final Project 최종 발표회 다시보기" },
+    { "id": "_gBD3gIE0gI", "title": "[Kernel360] 좋은 개발자에 한 발짝 다가간 우리 | EP3. 성장할 수 있는 환경" },
+    { "id": "OBdTxo6bwVo", "title": "패스트캠퍼스 서울형 청년인턴 직무캠프 홍보 영상" },
+    { "id": "ix2c_TuJmzY", "title": "[AI 세미나] 서지연 편: 개발자를 위한 AI 도구 활용법" },
+    { "id": "46BVxDUO780", "title": "[Kernel360]백엔드 개발 오픈세미나 다시보기" },
+    { "id": "3w94-pqi-A4", "title": "[PM] 비수도권에서는 취업 준비가 어렵다고?  경제적·지리적 제약 뛰어넘는 PM 부트캠프" },
+    { "id": "hZRXgrQHAJI", "title": "[UXUI]  디자인 학원을 전전하던 음대생이 UXUI 디자인 부트캠프하면서 느낀 찐후기" },
+    { "id": "JO0UjrGMnjI", "title": "[프론트엔드] GitHub와 Discord Webhook 연동하기" },
+    { "id": "6A3WyxUt8E0", "title": "[캠프콘] IT 대기업 현직자가 알려주는 백엔드 개발 성장 로드맵, 성장의 여정에 초대합니다" },
+    { "id": "MromsP7b-ss", "title": "엑셀 IF 함수 2분 정리 | 데이터 분석 MASTER CLASS" },
+    { "id": "rWqpcbt3V_4", "title": "이제 더 이상 혼자 개발하지 마세요🙅‍♀️| 네이버 클로바 테크리드가 알려주는 개발자를 위한 AI 도구 활용법" },
+    { "id": "bcogZHj_sHs", "title": "[코딩스텝원] 코딩을 5주만에 배울 수 있다고? 현직 개발자가 추천하는 코딩 강의" },
+    { "id": "vhpKNoITY_Q", "title": "[부트캠프] 프론트엔드와 백엔드는 어떻게 협업하나요?" },
+    { "id": "_t_IGnjW5e4", "title": "[부트캠프] 기업 문제를 내가 해결? 실제 기업의 직원이 된 것 같았어요" },
+    { "id": "uG7NLX9M82M", "title": "쿠버네티스 (Kubernetes) 객체 Workload [실습] 맛보기" },
+    { "id": "kfNUFnEnNIM", "title": "쿠버네티스 (Kubernetes) 객체 Workload [이론] 맛보기" },
+    { "id": "WQH0E0SvmQU", "title": "백엔드 개발자를 위한 Kubernetes (쿠버네티스) ㅣ 강의 오리엔테이션 미리보기" },
+    { "id": "TwiE-qHVJrk", "title": "[컴퓨터 공학] MySQL을 활용한 데이터베이스 거시적으로 보기 (feat. NoSQL까지)" },
+    { "id": "fKyX2aKhqTk", "title": "모놀리식 아키텍처 vs 마이크로 프론트엔드 아키텍처, 어떤 점이 다를까?" },
+    { "id": "vHWHk03K56Y", "title": "성능 최적화를 위한 명목코드 제거 - 느려지는 원인 '파악부터 개선까지!'" },
+    { "id": "7fPHXKQJLdY", "title": "[LIVE] 누구나 한시간이면 가능한 AI로 만드는 마케팅전략101 : 가상의 브랜드도 OK" },
+    { "id": "dRLh0RX3kS8", "title": "N사 ios 음성 메모 앱 실제 기능까지 100% 구현해보기" },
+    { "id": "__-s_vI6fnk", "title": "SwiftUI Animation 활용해보는 법" },
+    { "id": "-Nu8gZh01ik", "title": "`getStaticProps`, `getServersideProps`로 데이터 가져오기 공공데이터 실습" },
+    { "id": "qMwPgHfZNIg", "title": "media query 알아보기" },
+    { "id": "XOfAlH4TkkE", "title": "[미리보기] Upstage AI Lab 강의 미리보기_자연어처리 개괄" }
+  ]
+}

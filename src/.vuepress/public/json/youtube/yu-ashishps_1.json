@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ashishps_1",
+    "name": "Ashish Pratap Singh",
+    "profile": "https://yt3.googleusercontent.com/OIQVa7Q-Ib9IZXiw2BbEPhEFPBYsXYA_r-TJnL5uaC9nPuxfSn-ODDIPQn0w9zq4ppAFUJ5G3A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lBFM_wIX5C6tKK3Bhmix8iY3L7zmlv4QYdpaQUOTZRnzkz-N1QkovGCY5qNyD3Kz9j2oTJsG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l3X1t3kpmwY", "title": "How to Master System Design Interviews (as a beginner)" },
+    { "id": "F-ao3Q6I2Fc", "title": "How I Mastered Data Structures and Algorithms" },
+    { "id": "rcBEyVCIuqo", "title": "12 Coding Project Ideas in 12 Minutes (Beginner to Advanced)" }
+  ]
+}

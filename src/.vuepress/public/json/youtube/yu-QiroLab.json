@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "QiroLab",
+    "name": "QiroLab",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRu1lRrlwF7b0-_bOEn8eEqUttXEQpusmjlJAyd=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gLQzGdMHrF7BjaVjrxPL2dfNPobKmOXkX6JtD5EvO0_ZycAQ8EHvmz8taxNaUoZ5TBwV1MnHug=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dxQQ1sUOQQI", "title": "ES6 Spread Operator: Simplify Array and Object Manipulation in JavaScript" },
+    { "id": "bA9vUWEsqyk", "title": "Must-Have React.js VS Code Extensions in 2024 (Boost Your Dev Workflow)" },
+    { "id": "M1GS1SaxAiY", "title": "Create React.js App with Vite: Getting Started (Tutorial #1)" },
+    { "id": "pIpzObwzJqo", "title": "Learn JSX in React.js: The Essential Guide (Tutorial #2)" },
+    { "id": "88CTOA7jL4s", "title": "🔥 Spec Coder: Supercharge Your Coding with AI! (Features & AI Setup)" },
+    { "id": "ZsIrs03cMos", "title": "React Components Explained: Function vs Class Components (Tutorial #3)" },
+    { "id": "3NWTsa6uxtY", "title": "React States: useState Hook vs. Class setState() & this.state (Tutorial #4)" },
+    { "id": "8ykxcM0-3Yg", "title": "Effortless Real-Time Chat Apps with Laravel Reverb and Vue.js 3" },
+    { "id": "DWvLEspi49U", "title": "Deep Dive into Two-Way Data Binding in React.js (Tutorial #5)" },
+    { "id": "BecCi28n21c", "title": "How to Configure Gemini Pro with Spec Coder VSCode Extension - Step-by-Step Guide" },
+    { "id": "C-D1rUDKvYA", "title": "Props in React Function & Class Components (with props.children) (Tutorial #6)" },
+    { "id": "G63XHQanHDg", "title": "OpenAI, ChatGPT Integration Setup With Spec Coder VSCode Extension" },
+    { "id": "w_sVqhXBU64", "title": "🔥 React Props Validation: Ensuring Data Integrity in Your Applications (Tutorial #7)" },
+    { "id": "slcfB2PlSaM", "title": "HuggingFace Integration Setup with Spec Coder: AI Powered VSCode Extension" },
+    { "id": "lUniiaA37IM", "title": "Custom Props Validation in React for Complex Scenarios: Extending Control Over Your Data" },
+    { "id": "l3VAkHY1mow", "title": "Ollama + Spec Coder: VSCode Extension Integration | Power Up Your Code with AI" },
+    { "id": "bTIqxOPhNC0", "title": "React Event Handling: A Comprehensive Guide for Beginners (Tutorial #9)" },
+    { "id": "U4Iq-Up6iW0", "title": "React Conditional Rendering: A Comprehensive Guide (Tutorial #10)" },
+    { "id": "SxbCOcN26MI", "title": "✨ Top 22 Must-Have VSCode Extensions for Frontend Developers | Boost Your Coding Efficiency!" },
+    { "id": "laDy58tOMV4", "title": "Code Like a Pro: 12 Essential VS Code Extensions for PHP & Laravel Development" },
+    { "id": "uBDk_wgVh4E", "title": "Arrow Functions in JavaScript ES6 -  The Clean Way to Code" },
+    { "id": "zBJQSjBOP4o", "title": "JavaScript Array Destructuring: The Clean Way to Extract Values" },
+    { "id": "zbte-HpDpkU", "title": "Spec Coder (VS Code Extension): Code faster & smarter with AI" },
+    { "id": "8RQfhZgmDu4", "title": "Stylelint + VSCode = Your Code's Best Friend | CSS Linting | Streamlining Your CSS & SCSS Workflow" },
+    { "id": "0co_9kVcS38", "title": "PHP-CS-Fixer + VSCode = ✨ Automate Code Formatting, Elevate PHP Standards (In-depth Tutorial)" },
+    { "id": "0co_9kVcS38", "title": "PHP-CS-Fixer + VSCode = ✨ Automate Code Formatting, Elevate PHP Standards (In-depth Tutorial)" },
+    { "id": "fNMEGyKN5-Q", "title": "Laravel Pint + VSCode: Start Automating Code Style to Keep Your Laravel Code Clean & Consistent" },
+    { "id": "RDP8rlqtiP0", "title": "VS Code Editor Customization Guide: Tips & Tricks for Personalizing Your Visual Studio Code IDE" },
+    { "id": "320vwRDqi9w", "title": "Laravel Spatie/BrowserShot: The Ultimate Guide to Dynamic PDF Exports (with Examples!)" },
+    { "id": "7PVRVGqzplc", "title": "Laravel Clockwork: Debugging and Profiling Like a Pro | Optimizing Laravel Performance" },
+    { "id": "F0IrHtPo-Ec", "title": "ESLint, Prettier, and VSCode Setup for JavaScript Code Linting & Formatting | Tips for Clean Code" },
+    { "id": "pRRRX_G8eP0", "title": "How to use Vuex with Vue 3 Composition API | Vue.js state management" }, 
+    { "id": "cwaShbUMV9w", "title": "Vue 3 Teleport with example | Vue.js 3 Tutorial" }
+  ]
+}

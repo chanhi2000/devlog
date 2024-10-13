@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "HongLab",
+    "name": "홍정모",
+    "profile": "https://yt3.googleusercontent.com/TjQfiXZR52QKmB2y2aONle6ofLJNaJfM3LxWiXuxoR9PJPDlZcXO2fmNfDObmjB1ksC1Q2VR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NGdVSEeV-lcvXs5Nyl5vqbv3hQMMeiaxGnCLThJVCBgpWeXrttwxFBjsxVc-PJhMvMGOrlUM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ug3eXYOehy4", "title": "[라이브] 1. 프로그래밍 제대로 공부 하는 방법  2. 알고리듬 압축코스 + 세일 안내" },
+    { "id": "OrxSYlWR8JI", "title": "[선데이 라이브] 알고리듬 공부 왜 해요? 얼리버드 오픈 안내" },
+    { "id": "a_q-nzdTZko", "title": "2024 취업 전망 및 공부 전략 🎊Happy New Year🎊" },
+    { "id": "nTFW6EP4Zoo", "title": "[라이브 인터뷰] 한국인들이 만든 실리콘밸리 유니콘 | MOLOCO 몰로코 CTO 전동환" },
+    { "id": "EdGOWiTn5RI", "title": "🆕 2024 프로그래밍 공부 순서 | 프로그래밍 공부 | 공부 방법 | HongLab 로드맵" },
+    { "id": "nfeKVQ4LqGk", "title": "[편집본] 대형 언어 모델(LLM) 특집 | 블랙 프라이데이 세일중(~11/30)" },
+    { "id": "G6HV9kXwQQE", "title": "지금 뜨고 있는 C++ 응용 분야 | SLAM 전문가 신동원 박사" },
+    { "id": "uDq7woPOZ_A", "title": "[무료] 코테용 C++ 핵심 정리 - 1. 환경 설정 (윈도우, 맥OS, VSCode, Visual Studio Code, XCode, g++, gcc, clang)" },
+    { "id": "rsuaWXDT6QA", "title": "[라이브] 1.웹개발자 인공지능으로 몸값 올릴 기회 2.취준생들 코테 자꾸 떨어지는 이유" },
+    { "id": "7tUNhY3D3I0", "title": "🔴 애플 비전 프로 | 앱 개발자, 엄청난 기회가 온다!" },
+    { "id": "4MfTwR3VFt4", "title": "[라이브] 컴퓨터 그래픽스 게임 프로그래밍 입문 총정리! | 그래픽스 새싹코스 파트4 보기 전 훑어보기" },
+    { "id": "q48XiWGNctE", "title": "C++ 뼈 때리는 러스트, 파이썬 추월코스 안 보면 손해!" },
+    { "id": "15EQ5C2yBFE", "title": "러버덕과 디버깅🐤(Rubber Duck Debugging)" }
+  ]
+}

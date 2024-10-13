@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "hyena-sunny",
+    "name": "중써니",
+    "profile": "https://yt3.googleusercontent.com/Sw9wkwfOqflZJf_Grvm8Jjs1FYxysb_GcvMwe_y7PakseaU2-UEH_dJpaaNQRtsHJfZN9zRGzA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "kgnv6ZOa81w", "title": "면접 나락가는 프론트엔드 지식" },
+    { "id": "VBdpGrSVDuI", "title": "이것만 알면 스타일드컴포넌트 마스터?" },
+    { "id": "0_37mMKjHig", "title": "프론트엔드 개발자 대부분 몰라서 안쓰는 미친 기능" },
+    { "id": "D87ELvuLDdU", "title": "채찍피티지능 3.0 VS 4.0" },
+    { "id": "n7MFoTaqM3I", "title": "개발자 99%가 모르는 CSS" }
+  ],
+  "playlists": [
+
+  ]
+}

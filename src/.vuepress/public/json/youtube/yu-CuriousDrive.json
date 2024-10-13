@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "CuriousDrive",
+    "name": "CuriousDrive:Solve Coding Challenges. Win Prizes.",
+    "profile": "https://yt3.googleusercontent.com/csKKlvoNDCxEqX6mazSD6cs3pMaeTL1NF9ftfYq9VHff0TLaJ4Zgv823E6Cuxda3mUgppt42=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9Q7jhcsjQd7A6jNa3JaYPPvm8n4kAKHoGIr3D0lxnJ1CQB79AZJvBiRl5JNekanjwwHLwsuc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tvchZk8cXyg", "title": "Coding Challenge - IPL - Fastest Bowler Award" },
+    { "id": "Xh2QfR_eXIE", "title": "YouTube Introduces Exclusive Shorts - Coding Challenge" },
+    { "id": "O2oxX6yneQ8", "title": "Solar Eclipse Research Balloon - Coding Challenge #eclipse #solareclipse #programming #coding" },
+    { "id": "bu6F4oeYdzA", "title": "Blazor WebAssembly : JWT Authorization - EP32" }
+  ]
+}

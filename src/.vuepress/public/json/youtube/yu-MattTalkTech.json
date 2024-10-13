@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MattTalkTech",
+    "name": "Matt Talks Tech",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZEE0nIhOF7Dysydf8n_DXisKdIQhS2G7OtFkKdIKc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0INEqpvX4KtVSqaH-aiTs_GwkMGQeTQVlfI1dytdto_gYwQzmC02XmEAhNcxYoLYaQp4EZpK0pk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cmexywRZHG8", "title": "FRAMEWORK 13\" The Most UPGRADE Friendly Laptop EVER!" },
+    { "id": "2br6vTSwnFE", "title": "BUDGET MacBook Release Date and Price - $699 MacBook LAUNCHING in 2024!" },
+    { "id": "SN1X5GnaYsQ", "title": "iPad ULTRA Release Date and Price - 2024 LAUNCH TIME!" },
+    { "id": "YVcqKlWUhr0", "title": "$80 Apple Watch VS $800 Apple Watch - What’s different?" },
+    { "id": "ierG8FV8sOM", "title": "EASY GUIDE; How to Install MacOS Sonoma 14 on an UNSUPPORTED MacBook, iMac, Mac Mini, Mac in 2023!" }
+  ]
+}

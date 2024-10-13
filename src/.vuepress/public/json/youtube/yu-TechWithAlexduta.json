@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "TechWithAlexduta",
+    "name": "Tech with Alex",
+    "profile": "https://yt3.googleusercontent.com/n7KsKLo1fyu_fVpbLXkVwABp3g9aGRxdVyr1K0AJx2ivOlvZVbVqUIWQachWulKHjsyOQvt3=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nAV9n3vky_jXkKYOMZmumQjp7U89qIyrhRUq74XjUlUyuz3Qnxbj0WM6fH8M5is3RUdWpTpvYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Hp8FhJAV2M0", "title": "Selenium Python test fixture" },
+    { "id": "DRoo1fTehfM", "title": "Selenium Python Locators" },
+    { "id": "auM76V_zgcI", "title": "Selenium Python Cross Browser Testing" },
+    { "id": "LHwL-xauNOw", "title": "Selenium Python Page Object Model - POM Python" },
+    { "id": "XqwUMGG1rtg", "title": "Visual Studio Code: Selenium C# tutorial" },
+    { "id": "TGCJKh-x1EU", "title": "Dependency Injection Selenium: Autofac Dependency Injection" },
+    { "id": "VjGt3EfgwAY", "title": "Visual Studio Code: Selenium Python tutorial" },
+    { "id": "OpzBWSomYIE", "title": "Install Python dependencies from requirements.txt" },
+    { "id": "PwTMLSy5LtY", "title": "Pytest working with custom markers | pytest pyproject.toml markers" },
+    { "id": "4KYNCt7ep70", "title": "Export Selenium IDE tests to Python and Pytest. Run Selenium tests from terminal" },
+    { "id": "5A2F75HcKT0", "title": "Selenium IDE update locators" },
+    { "id": "MypxNib9yCQ", "title": "Generate unit test html report using dotnet test" },
+    { "id": "89YBs9mK9V8", "title": "Run Selenium tests in parallel & Extent Reports parallel execution" }
+  ], 
+  "playlists": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "Penpot",
+    "name": "Penpot",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lLZMymjEjX6dst2AIn54ZVyO-BrYbTXmrnmPWtQN_UlQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M_-IlckYSz9qrMKc5nGe4_be0y5fxxS2BOi8rTavn134cFf425reQmAAVUvVGmDoVNWcazxn=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Dz1RL3tPAyI", "title": "Penpot Prototyping - Hands-On Live Demo & First Impressions" },
+    { "id": "BVJaiwaN5aA", "title": "Penpot Hands-on - Wireframing" },
+    { "id": "Dz1RL3tPAyI", "title": "Penpot hands-on: Prototyping" },
+    { "id": "aW0LNHLEI_Y", "title": "Penpot 2.0 ins and outs and what's coming next" },
+    { "id": "xKyrhizpjCA", "title": "Tutorial CSS Grid Layout | Dashboards" },
+    { "id": "m1BBbuwGacM", "title": "Tutorial CSS Grid Layout | Componentes agnósticos" },
+    { "id": "VU_JKYa7Xo0", "title": "Happy with your design tool?" },
+    { "id": "d0JPnxRj4pA", "title": "Tutorial CSS Grid Layout | Tablas y formularios" },
+    { "id": "LwNSRNJIZTM", "title": "Tutorial CSS Grid Layout | Magazines" },
+    { "id": "38zCT9GtDB8", "title": "Preconceived Ideas when Designing for Open Source" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "channel": {
+    "id": "blogcreator6109",
+    "name": "블로그 크리에이터 Blog Creator",
+    "profile": "https://yt3.googleusercontent.com/-4walyF8NAoJB7cIkgGNo1ZUFaJ0kV7e2an54IJrQ-1ocbd6JVcpdvuiAPfvSETcortsLNkhAQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v8YwLWaOeQZtQ58e8LdolfRRrDH3I3K3aCU5uYKAORxqFwTSA5wmUfrOXtNjp3sdavvEs25YLA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x68JlM0flRc", "title": "HTML 강의 4] HTML Text 태그들 (s, i, u, s, strong, em, ins, del, h1, h2, h3, h4, h5, h6)" },
+    { "id": "fWetjET88-g", "title": "HTML 강의 5] 이미지, 절대 경로와 상대 경로" },
+    { "id": "6f-kg2gR__0", "title": "💻 Code with me / 코드윗미  / 2 Hours / 장작 ASMR / 블로그 만드는 중 | HTML, CSS, Javascript (Vue) | 미라클모닝" },
+    { "id": "VjM7SKEas4Q", "title": "💻 Code with me / 코드윗미  / 2 Hours / 장작 ASMR / 블로그 만드는 중 | HTML, CSS, Javascript (Vue)" },
+    { "id": "JHRWM638oiw", "title": "💻 Code with me / 코드윗미  / 2 Hours / 장작 ASMR / 일하는 중" },
+    { "id": "V83Xy_BPysc", "title": "💻 Code with me / 코드윗미  / 말 안함 / 2 Hours / 장작 ASMR / 블로그 만드는 중 | HTML, CSS, Javascript (Vue)" },
+    { "id": "dvJmAvthfOg", "title": "아침 HTML / CSS / JS 알려주는 라이브 (HTML 표 만들기)" },
+    { "id": "_jzz293TEr0", "title": "HTML 강의 7]  표" },
+    { "id": "NvelZ7Xyj24", "title": "빠르게 배우는 HTML 1] HTML이란?" },
+    { "id": "p0yz98iE_ZU", "title": "빠르게 배우는 HTML 2] VSCode와 크롬(Chrome)" },
+    { "id": "UZ50CCp5uu4", "title": "빠르게 배우는 HTML 3] HTML 기본 구조" },
+    { "id": "pJ_A8Hl4WIo", "title": "티스토리 블로그 스킨 제작 가이드 19] 글 댓글" },
+    { "id": "u3gihWwIKBY", "title": "티스토리 블로그 스킨 제작 가이드 20]  공지사항과 페이지" },
+    { "id": "ScVfiDH1hFk", "title": "티스토리 블로그 스킨 제작 가이드 21] 보호글" },
+    { "id": "4AY2WrSSWRk", "title": "티스토리 블로그 스킨 제작 가이드 22]  리스트 페이징" },
+    { "id": "cxzh846THDk", "title": "티스토리 블로그 스킨 제작 가이드 24] 스킨 정보 파일" },
+    { "id": "M1WGicp2_7M", "title": "티스토리 블로그 스킨 제작 가이드 23] 리스트" },
+    { "id": "MmVTCFTlFZ0", "title": "티스토리 블로그 스킨 제작 가이드 25]  홈 커버" },
+    { "id": "beGgdBBUZgQ", "title": "티스토리 블로그 스킨 제작 가이드 26 (끝!)] 스킨 옵션" },
+    { "id": "QXwJ1WaTFHQ", "title": "티스토리 블로그 스킨 제작 가이드 13]  태그 클라우드" },
+    { "id": "CxEKBqgb7Rg", "title": "티스토리 강의 듣는 분이라면 꼭 확인!! 스킨 편집 페이지가 안 열려요" },
+    { "id": "YaXy7dtnRE8", "title": "티스토리 블로그 스킨 제작 가이드 14]  방명록" },
+    { "id": "MiFx193gazE", "title": "티스토리 블로그 스킨 제작 가이드 15]  글 내용" },
+    { "id": "d_KoBh-fUxo", "title": "티스토리 블로그 스킨 제작 가이드 16]  퍼머링크와 인덱스" },
+    { "id": "EHFY4E4yvNg", "title": "티스토리 블로그 스킨 제작 가이드 17]  관련글과 태그" },
+    { "id": "HPtlPgRcGw8", "title": "티스토리 블로그 스킨 제작 가이드 3] 치환자" },
+    { "id": "1LDEn7SP8mo", "title": "티스토리 블로그 스킨 제작 가이드 4] 헤더 만들기" },
+    { "id": "2ySwWveJ9eA", "title": "티스토리 블로그 스킨 제작 가이드 5] 헤더 만들기 2" },
+    { "id": "o4Iy8WeQpnM", "title": "블로그 스킨 제작 가이드 6]  파일 불러오기" },
+    { "id": "setBNSv_Lww", "title": "블로그 스킨 제작 가이드 7] 사이드바와 방문자수" },
+    { "id": "QOPa2UT7jlE", "title": "블로그 스킨 제작 가이드 8] 랜덤태그" },
+    { "id": "NF5rrp5y4y4", "title": "티스토리 블로그 스킨 제작 가이드 9] 최근댓글" },
+    { "id": "_Ltxt5B0W5Q", "title": "티스토리 블로그 스킨 제작 가이드 10] 최근글과 인기글" },
+    { "id": "jhM9prSEA-4", "title": "티스토리 블로그 스킨 제작 가이드 11] 최근 공지사항" },
+    { "id": "Uam0UOhWYws", "title": "티스토리 블로그 스킨 제작 가이드 12] 카테고리" },
+    { "id": "ly8N8ZDeC2k", "title": "Vue.js 강의 - Template refs" }
+  ],
+  "playlists": [
+    {
+      "title": "쉽고 빠르게 배우는 vue.js 강의",
+      "videos": [
+        { "id": "6QYXkV5MWYY", "title": "쉽고 빠르게 배우는 vue.js 강의 1-1] 개발환경 구성하기" },
+        { "id": "l588vR-N1WU", "title": "쉽고 빠르게 배우는 vue.js 강의 1-2] VSCode 사용방법" },
+        { "id": "04DhVAJ-h-U", "title": "쉽고 빠르게 배우는 vue.js 강의 1-3] VSCode 확장프로그램 설치하기" },
+        { "id": "n2wScEyMBKE", "title": "쉽고 빠르게 배우는 vue.js 강의 1-4] 소스코드 다운로드" },
+        { "id": "xPokYVoNJEE", "title": "쉽고 빠르게 배우는 vue.js 강의 2-1] Vue js 시작하기" },
+        { "id": "sZfRvcdMvSc", "title": "쉽고 빠르게 배우는 vue.js 강의 2-2] 컴포넌트 (Component)" },
+        { "id": "ijcNKDEfz58", "title": "쉽고 빠르게 배우는 vue.js 강의 2-3] 데이터 바인딩 (Data Binding)" },
+        { "id": "OsPiT8w_aG4", "title": "쉽고 빠르게 배우는 vue.js 강의 2-4] 반응성 (Reactivity)" },
+        { "id": "1K4FP6veNu4", "title": "쉽고 빠르게 배우는 vue.js 강의 3-1] v-bind" },
+        { "id": "p2pp5Z34_po", "title": "쉽고 빠르게 배우는 vue.js 강의 3-2] v-for" }
+      ]
+    }
+  ]
+}

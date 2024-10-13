@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "HarveysVE",
+    "name": "Harvey’s Virtual Environment",
+    "profile": "https://yt3.googleusercontent.com/H1Shs_lC06KotqyzEUKkfTK_pZDx8XflIhqyfaUAbA32pRx4jJR8o79js8j4dP1FLGVgCzqT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pgmE4DwLjeVpu8UNukTPMubwk_Mmb4TilFr8aSSPg8lZIpthR7-ZtZXuoNm5_uWFMU2WmISEbA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z6dO2RDOIRQ", "title": "Synology DSM Template On Proxmox" },
+    { "id": "tV6eP2t9TMk", "title": "Back up your PC This Way! | Active Backup For Business" },
+    { "id": "AFOCYOHVNCg", "title": "Hackintosh Is Dead? - Install Hackintosh This Way!" },
+    { "id": "0WGA5p5KZ34", "title": "Hackintosh The New Way Using Proxmox 2024" },
+    { "id": "xkEGjuIa69Y", "title": "How To Remotely Access Your Homelab Ft. Twingate" },
+    { "id": "61X9Y3fpJe4", "title": "Gaming In Proxmox" },
+    { "id": "uQxYpokYkZs", "title": "How to Passthrough PCI-E/GPU Devices In Proxmox" },
+    { "id": "i41EnpeXF1w", "title": "Windows Server 2022 One Click Install Proxmox Template" }
+  ]
+}

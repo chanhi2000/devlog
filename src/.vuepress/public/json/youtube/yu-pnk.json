@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "pnk",
+    "name": "Paris Nakita Kejser",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMnsPOerFzSYQwfdadO4qimjX84LQpGMJvQbUJfSw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/K7N7vWir7OC1BGubTTCgFYSwFVS4UZXK9kl2wlOmARfozk00Dta-YKp2qoCJ7vJV7vtbtlTvEQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "D4fArtT4YIw", "title": "Docker Tutorial - setup php-fpm environment from scratch in a docker container" },
+    { "id": "pRaAXgvvuC0", "title": "Vuetify shopping cart - Shopping cart search product -  vuetify with vuejs" }
+  ]
+}
+
+

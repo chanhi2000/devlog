@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "learnpratap",
+    "name": "Learn with Pratap",
+    "profile": "https://yt3.googleusercontent.com/d68pNYcup2uIJdwbDHgTkJaqAizxmch_0y2TpOP7qz04pkDox0QTzEX8h_DWiOyKwUTB5bXt=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eOCOT9fdS1UAyqvrMMMdze-mcCviV6kcs3t9EQV6N9bkBj50uNt_fAzeUtEvwvkCLXBjWQB6saM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5xs-nu2A73g", "title": "Python for Beginners 2024 (Full Course) | Programming Tutorial | Pratap Sharma" },
+    { "id": "aryNFvYfCK4", "title": "#1 - Variables in Python | Python for Beginners | Learn with Pratap" },
+    { "id": "3CjX_rl2sQ8", "title": "Let's build a Bun REST API with Prisma and Elysia | Learn with Pratap" },
+    { "id": "1XlCuk1D9lc", "title": "#2 - String formatting in Python | Python for Beginners | Learn with Pratap" },
+    { "id": "dClCEu3Btnw", "title": "#3 - Getting user input in Python | Python for Beginners | Learn with Pratap" },
+    { "id": "MaB_vNuhi40", "title": "#4 - Writing our first Python app | Python for Beginners | Learn with Pratap" },
+    { "id": "twDhJMoXeGg", "title": "#6 How to resolve merge conflicts? | Git Crash Course | Learn with Pratap" },
+    { "id": "4tulauf_gd4", "title": "Beginner's Guide to Tic-Tac-Toe in Flutter: Create Your Own App from the Ground Up | Pratap Sharma" },
+    { "id": "M3qklixb7ok", "title": "ToDo App in Flutter - Tutorial for Beginners | Pratap Sharma | Part 1" }, 
+    { "id": "5j1NYNnbxp0", "title": "Flutter Todo App using Hive Database - Tutorial for Beginners | Pratap Sharma" }, 
+    { "id": "-LupcI8FOtg", "title": "Course Outline for Building REST APIs with Flask and Python in 2023 : Learn with Pratap" },
+    { "id": "wwAl62P2Gz8", "title": "Let’s build a TODO App with Bun, HTMX and Pico 2023 | Learn with Pratap" },
+    { "id": "KUqeFP1v0go", "title": "JWT Authentication in Bun: A Comprehensive Guide | Learn with Pratap" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "sirealco",
+    "name": "시리얼 Sireal",
+    "profile": "https://yt3.googleusercontent.com/IKTBe8g1xk4x3HfIl_WLAcwH4qzMVE97ieW-jWl3lUUNdlznHf8SKcUnkOzCNjl_G6dhXFoSRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ARcIhIMf0aMapflTyp3ZGbRgHBHqfl8cNflutrjPw0Hif933cay6Wgitg1ovuqAXMmunlQvTa14=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tI0bryckSjM", "title": "[따라만들기] 노션 포트폴리오를 만들어보자 첫번째, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "BY9CHseoMWM", "title": "PT샵, 필라테스 센터의 업무 시스템" },
+    { "id": "tI0bryckSjM", "title": "[따라만들기] 노션 포트폴리오를 만들어보자 첫번째, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "OVXJsGyK9-0", "title": "[따라만들기] 노션 포트폴리오를 만들어보자 두번째, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "7HUu7hZ-7wI", "title": "[따라만들기] 노션 포트폴리오를 만들어보자 세번째, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "kEY0rxF8Ks4", "title": "[따라만들기] 노션 포트폴리오를 만들어보자 몰아보기, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "B_YI9aVU5xc", "title": "[따라만들기] 홈페이지형 포트폴리오를 만들어보자, 새학기 맞이 노션 강의 영상 | 시리얼 노션 사용법" },
+    { "id": "oaje_D00dWg", "title": "노션 + oopy로 만든 홈페이지 검색 순위 올리기, 검색엔진최적화(SEO)" },
+    { "id": "NQ1At809nv4", "title": "자동화로 무장한 만다라트 템플릿 따라 만들기 노션 Formula 2.0 수식 활용 | 시리얼 노션 사용법" },
+    { "id": "IF4LD26xILE", "title": "일정 관리 끝판왕 노션 캘린더 등장! 사용법 총정리 17가지 기능!" },
+    { "id": "CG4a34RENuA", "title": "노션 캘린더를 노션 템플릿과 페이지에 적용하는 법, Notion 캘린더 총정리 2편, 자주 묻는 질문 답변까지" },
+    { "id": "L83l3zE_1PA", "title": "노션으로 할 일, 일정, 프로젝트 관리 5단계 완벽 정리, 내 노션 실력은 과연?" },
+    { "id": "2n28CF0Xax8", "title": "국가권력급 부부들의 가계부, 소비와 지출을 줄일 수 있는 부부부를 소개합니다." },
+    { "id": "yTZgqWCr3mY", "title": "부부들의 가계부 선공개 이벤트!! 설명글🙏 #shorts" },
+    { "id": "AjgybDgyr5I", "title": "2024 최신 노션 다이어리 Notion Formula (노션 수식) 2.0 적용" },
+    { "id": "o4dSfq9-uBg", "title": "일잘러만 아는 필수 업무 도구 40개, 일잘러의 협업 도구 컨설팅 신간 출시했습니다." },
+    { "id": "AKlcurvqFgo", "title": "Why everyone with a MacBook gets yelled at feat. MacBook first-time setup app recommendations" },
+    { "id": "zjvOoQz33d4", "title": "노션 자동화 기능 사용하는 방법, (Notion 새 기능 출시)" }, 
+    { "id": "pHnE4HRsmec", "title": "그래프를 첨가한, 노션으로 나만의 습관 관리 템플릿 만들기 - 데일리리포트, 투두리스트, 시간관리법" }
+  ]
+}

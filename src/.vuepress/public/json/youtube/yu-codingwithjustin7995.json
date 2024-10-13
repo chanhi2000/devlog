@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codingwithjustin7995",
+    "name": "Justin Brooks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR_cFgeBPOWTqFyetT0ZGt-2dsMSuwhM4p_bVbo1A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZL9OkdVu1I8wU3bYhdfKcViiqja9QMdizCti3jrIxMV3lO4-UqczeJBVYaTa_XOclE2mRIMbMA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "foZiwDb-YUE", "title": "Vue 3 Typescript Tutorial - Basic user login flow with Typescript and Vue 3" },
+    { "id": "Ys3iivkSh9g", "title": "Vue 3 and Vuex Testing for Beginners" }
+  ]
+}

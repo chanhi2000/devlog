@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "weirdeveloper",
+    "name": "괴발자",
+    "profile": "https://yt3.googleusercontent.com/lr09BRn-I_dmOvJbvHok0WWKgqykrXVeYS7ZyZ8erw7y-wOzsbZyTvDmznbyd6P3jPIgVR1n8g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/h9LTPszAA083mHWaoacrtAFgQwBsZJWtUaHu6W13i_xYygcyTL3JmoI_MqEzkrRUUnin4nLFvg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T6b4tRUqZ6I", "title": "GPT4 vs Gemini vs Claude3 vs Copilot (코딩)" },
+    { "id": "vq0nhkun_X0", "title": "Github Copilot을 대체할 무료 AI 코드 완성 도구 Codeium 소개" },
+    { "id": "f_zx0uR-6XM", "title": "ChatGPT 활용한 슈팅 게임 '노코딩'으로 개발 3분컷!" },
+     { "id": "pPaL3STp6sk", "title": "GPTs 프로그래밍 서비스 1위를 달리는 Grimoire 소개" },
+    { "id": "TkIZXrB_g9Q", "title": "GPTs Grimoire를 활용한 남의 코드 슬기롭게 세탁하기" },
+    { "id": "TFJ17BUik68", "title": "미리 알아두면 좋을 GPTs Grimoire의 문제점과 올바른 활용법!" },
+    { "id": "Mw33KKGp5EU", "title": "오픈소스 HuggingChat의 AI 어시스턴트 서비스 소개" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "CodeSpitz",
+    "name": "코드스피츠",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mzZWUn7cBHSE4wyetBwsTJXbJiQ7BSBQlA5JSN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f7-g54Tw4GbG6Wmrj2oOuhF1aDpocyIGNGeGXYPJeZuJtLJpcBXXjf9k9nZw2bzIIovdv6lFMQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3gZjfFZU1aU", "title": "April 2, 2024 - Indexed DB Wrapper" },
+    { "id": "YixRXEz7HvY", "title": "April 2, 2024 - Indexed DB Wrapper" },
+    { "id": "dnOJZ5Ci4Lw", "title": "April 6, 2024 - Indexed DB Wrapper" },
+    { "id": "Z4l74GWqXo4", "title": "코틀린 코루틴 #1 (1~5장)" },
+    { "id": "NvsHOYkInds", "title": "코틀린 코루틴 #2 (6~8장)" },
+    { "id": "M71KXPgXUf8", "title": "April 20, 2024 - Indexed DB typescript version" },
+    { "id": "2LAeiMuPrLg", "title": "April 21, 2024 - Indexed DB Wrapper" },
+    { "id": "QCYSrdnafAI", "title": "코틀린 코루틴 #3 (9~11장)" },
+    { "id": "FPDiLq2x9_I", "title": "코틀린 코루틴 #4 (12~15장)" },
+    { "id": "7aoE1OP5kOY", "title": "코틀린 코루틴 #5 (16장)" },
+    { "id": "HSI-p31FfN0", "title": "코틀린 코루틴 #6 (18~21장)" },
+    { "id": "WYb5_MOjAps", "title": "코틀린 코루틴 #7 (22~25장)" },
+    { "id": "pIT_Z9EdHqY", "title": "코틀린 코루틴 #8 (26장~끝)" },
+    { "id": "bS92r4KMHdw", "title": "부록편 오현석의 람다계산법" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "thewebsitearchitect",
+    "name": "The Website Architect",
+    "profile": "https://yt3.googleusercontent.com/_JWDNvknIMf1SiKmORgImyQkdIvSskugrpGWsaUWM3WKqJQjfB7tQpZn2mMd11byMZwRa64o1eg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZFSUena5fjtrfr7JQsZrKCWbXRmScPuOAJ6gv_l2qpPTI_qaJxLS8B_YL3fKF7JSp1wodZ2IdWM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HYQLfOOZlgw", "title": "The Most Underrated But Obvious Way To Improve A Website" },
+    { "id": "BFusIRFpX6c", "title": "A Practical Guide To Website Page Layouts (1/3)" },
+    { "id": "WiblbNSeQcA", "title": "A Practical Guide To Website Page Layouts (2/3)" },
+    { "id": "vLOhb8cifI8", "title": "A Practical Guide To Website Page Layouts (3/3)" },
+    { "id": "3C_22eBWpjg", "title": "How to Properly Layout A Website (For Beginners)" }
+  ]
+}

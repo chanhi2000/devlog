@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "loianegroner",
+    "name": "Loiane Groner",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lOi7TaoTbv0tWJOX0epBx1_tjLsBF99clR2wO8pJVAPlcC=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YRM3Naah0uqLpNdQhxckF20ZCjW7_a2iMIjqmnjKAHcdgjWBN8tL-KznbN0HU-XgerPI25Fsiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1vqJ1_AAcUg", "title": "Github Actions for Angular Projects: Pipeline for Testing, Building and ng update" },
+    { "id": "tE3uKdPd6tQ", "title": "CRUD Angular + Spring | 62: Migração para Standalone Components" },
+    { "id": "4onmPIRH1KM", "title": "CRUD Angular + Spring | 63: Novo Control Flow do Angular" },
+    { "id": "9MSa6KEEoN4", "title": "CRUD Angular + Spring | 64: Dicas de Estudos e Conclusão" },
+    { "id": "XrGifTawp8Y", "title": "Estrutura de Dados com Java | Lista Encadeada | 09: Remover Elemento do Final da Lista" },
+    { "id": "qwVfi1GUIXY", "title": "Estrutura de Dados com Java | Lista Encadeada | 10: Remover Elemento de qualquer posição" },
+    { "id": "9rF_3CnSDoM", "title": "Estrutura de Dados com Java | Lista Encadeada | 07: Adicionar Elemento em qualquer posição da lista" },
+    { "id": "UeIb1xTlYJM", "title": "CRUD Angular + Spring | 59: MySQL + Spring Docker Compose" },
+    { "id": "KKdZSIIHTX4", "title": "CRUD Angular + Spring | 60: Angular Material Paginator" },
+    { "id": "UeIb1xTlYJM", "title": "CRUD Angular + Spring | 59: MySQL + Spring Docker Compose" },
+    { "id": "APKaYEKtJoQ", "title": "CRUD Angular + Spring | 58: Paginação no Spring" },
+    { "id": "Lr3d6QhZGlU", "title": "CRUD Angular + Spring | 56: Erros de Validação da API" },
+    { "id": "X4dvEdhHFXY", "title": "CRUD Angular + Spring | 55: API para Criar e Editar Aulas" },
+    { "id": "RmmWVf7ZMzk", "title": "Sencha Open Tooling: Criando Applicações ExtJS com NPM" }
+  ]
+}

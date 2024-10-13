@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DylanFalconer",
+    "name": "Dylan Falconer",
+    "profile": "https://yt3.googleusercontent.com/VK2eElPkjhUIgzUMIuHRUxlcCvR7Dw3fmMUSI2CUJy2H5wBjL0ZB7JKYlvjEUonLtQCBaHl4Ig=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1EAjTfG7hvMqkpkOTLdFkUb5eJTHWwVx58jHT6iQTwFfju8GYcCubJxujFzmlkAJnBWdfjLO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_KSKH8C9Gf0", "title": "Dynamic Arrays in C" }
+  ]
+}

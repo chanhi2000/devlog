@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "cdruc",
+    "name": "cdruc",
+    "profile": "https://yt3.googleusercontent.com/ou9KU3lJvb5j6Cuge_0bE8yeNiiDXsU4QBf_zygeFCrR66FlHORgo9HvIsxenDspugr21DNwPXI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cQzwPVNyLxS4iY5UDNzUGbSHZE7peNWla9d6qzEzaTx_2dhvNl5XMYG6TAlFlpkXumYk6valBA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8fSV8gbSUMA", "title": "Toggle Terminal in ZED" },
+    { "id": "M7gFCmyYcOU", "title": "Debugging Laravel Sanctum CORS errors" },
+    { "id": "pZdzzKf0h3E", "title": "419 CSRF Token Mismatch - Laravel Sanctum" },
+    { "id": "O6ibPLFfAh0", "title": "Laravel Sanctum 401 Unauthenticated" },
+    { "id": "A_QWuhcqtJc", "title": "Effortless Vue.js Forms" },
+    { "id": "HYO8OuLuTFw", "title": "Storing Auth Tokens in LocalStorage" },
+    { "id": "lWqJgqzN7cM", "title": "Laravel Sanctum Google Authentication" },
+    { "id": "rBcgNKt2FZs", "title": "Laravel React Native Authentication using Breeze & Sanctum" }
+  ]
+}

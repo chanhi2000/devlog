@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "aiexplained-official",
+    "name": "AI Explained",
+    "profile": "https://yt3.googleusercontent.com/viJvzqCE34ll1UtT5ksK0Q9AERc-2F1lRN5Xxl3WVuaCmL2NvizEXJKC1c7pLCjG5Oi_nZ7OBA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FqGwPWMnME9_k7XNMwZbiGpfvPSilzJR7eFZ2hyX0kwO-_n4WY7K5YOhh9EWSQvHQzatgAvyxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QASOCG5QLUM", "title": "Udio, the Mysterious GPT Update, and Infinite Attention" },
+    { "id": "pal-dMJFU6Q", "title": "‘Her' AI, Almost Here? Llama 3, Vasa-1, and Altman ‘Plugging Into Everything You Want To Do'" },
+    { "id": "ZJbu3NEPJN0", "title": "GPT-4o - Full Breakdown + Bonus Details" },
+    { "id": "PeSNEXKxarU", "title": "AI Won't Be AGI, Until It Can At Least Do This (plus 6 key ways LLMs are being upgraded)" },
+    { "id": "ZyMzHG9eUFo", "title": "How Far Can We Scale AI? Gen 3, Claude 3.5 Sonnet and AI Hype" },
+    { "id": "ReO2CWBpUYk", "title": "The New, Smartest AI: Claude 3 – Tested vs Gemini 1.5 + GPT-4" },
+    { "id": "dOplrIJEYBo", "title": "Alpha Everywhere: AlphaGeometry, AlphaCodium and the Future of LLMs" },
+    { "id": "Zc03IYnnuIA", "title": "GPT-5: Everything You Need to Know So Far" },
+    { "id": "nYTRFKGR9wQ", "title": "Sora - Full Analysis (with new details)" },
+    { "id": "Dt_UNg7Mchg", "title": "Orca: The Model Few Saw Coming" },
+    { "id": "O8GUH0_htRM", "title": "GPT 4 Got Upgraded - Code Interpreter (ft. Image Editing, MP4s, 3D Plots, Data Analytics and more!)" },
+    { "id": "GZdytTKeGYM", "title": "RT-X and the Dawn of Large Multimodal Models: Google Breakthrough and 160-page Report Highlights" }
+  ]
+}

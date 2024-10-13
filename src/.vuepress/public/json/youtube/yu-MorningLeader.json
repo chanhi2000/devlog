@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "MorningLeader",
+    "name": "새벽리더",
+    "profile": "https://yt3.googleusercontent.com/BgpBeyd5caq5fC1ZgpS3M0e2FcnXVwycLxdJycV5taL_tS9rXMmvMtTfRSVuOrRg-QgXv0Ms=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zo_kmOt7qRRjDZlJqFJ5k34MEOw_m0XG7ALFpOOTMy6ZNsES8d-v2-tGZuW6SKQrZ7KRiiqCWQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jTki0kF-MZw", "title": "포스팅을 꾸준히 해도 방문자가 그대로라면 이렇게 하세요." },
+    { "id": "GMbg0P_78SA", "title": "키워드 마인드맵을 그려야 블로그로 돈 벌수 있습니다." },
+    { "id": "ZDaPkUh0Xms", "title": "블로거들을 위한 Ai 프로그램 가제트 Ai를 할용한 정보성 글쓰기 노하우" },
+    { "id": "BSgGkYhBErM", "title": "네이버 상위노출을 위한 최적화블로그 5가지 전략" }
+  ]
+}

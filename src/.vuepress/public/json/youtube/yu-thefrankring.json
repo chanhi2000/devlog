@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "thefrankring",
+    "name": "Frank Ring",
+    "profile": "https://yt3.googleusercontent.com/xo_2BnUgLIfy9QGMRuXePhkOpZ7gme2G4z6UeXhfFtOkFBxllYHYdc0ZNwMYOL-pQFK1MrnZqg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fkBNANc4pmJMaTtw6QBrkUTMHe1VPA0I2Z2y-5d-W1I7WOXayE64IKV3TmPGczSQAVCNeEyoXg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "106ZhtVAAIo", "title": "The Future of Windows & Why I'm Switching to Linux" },
+    { "id": "YqBDjHskKXM", "title": "Shotcut Tutorial & Why I'm Coming Back" },
+    { "id": "voyyr6KGi1s", "title": "How to Install F-Droid & Aurora Store on Your Phone" },
+    { "id": "4ffTeesQZDw", "title": "I'm Deleting X, IG & Threads for Mastodon & Pixelfed" },
+    { "id": "fzYfo5C0QEk", "title": "How to Transfer Instagram Data to Pixelfed" },
+    { "id": "rLCKZBNbFww", "title": "My Review of Divi WordPress Theme & Why I'm Leaving it" },
+    { "id": "qA-aYVmB2Xg", "title": "Microsoft Wants to Record EVERYTHING You Do" },
+    { "id": "tH2pR0MA_ng", "title": "How to Get Verified on Mastodon with WordPress" },
+    { "id": "2yW1GXNlfF0", "title": "iBrave.io Review for Web Hosting" },
+    { "id": "KJHAIvxS5_o", "title": "7+ Free & Open Source Social Media & Apps" },
+    { "id": "OWedr_0DG8k", "title": "I Signed Up with Librecloud.host for NextCloud" },
+    { "id": "cFhMLf5pVL8", "title": "iBrave.io is Closing & I'm Moving to Spaceship" },
+    { "id": "Hf7luR1KX2o", "title": "My Current Nextcloud Setup with Spaceship & Softaculous" },
+    { "id": "EPvwqV6AKIw", "title": "How to Create a Custom Business Email with Spaceship" }
+  ],
+  "playlists": [
+
+  ]
+}

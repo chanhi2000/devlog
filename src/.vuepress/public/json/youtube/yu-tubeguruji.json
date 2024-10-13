@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "tubeguruji",
+    "name": "TubeGuruji",
+    "profile": "https://yt3.googleusercontent.com/36zPj3LivPiJRnMdn-WMQmLy--w0JZcvURjlgdL9OEufKx8_aDJTkRaHDscu2MJR0b93ZcR_eg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LtM9aKdQGsx4SyoAvnBSOxxoTXlqgUUr9iQJveGRmrzMIdjONEToRJ6mT6ysmKog9AaKast3IGY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zrdbOx0eGtM", "title": "Build & Deploy Full Stack Next.Js Meeting Scheduler App : React, Firebase, Tailwindcss, Kinde" },
+    { "id": "V2AE0YS8WYs", "title": "Build & Deploy Full Stack NextJs Online Food Ordering App : React.Js, Tailwind Css, Clerk" },
+    { "id": "L2tz0WAfQIU", "title": "React Native TikTok Clone | React Native Full Course | Expo, AWS S3, Supabase" },
+    { "id": "pQoHvx0SoiA", "title": "Build & Deploy Full Stack Next.js Expense Tracker app using React, Tailwind Css, Drizzle ORM, Clerk" },
+    { "id": "53oJb_1lQKI", "title": "React Full Stack App | React Beginner Tutorial | React, Vite, TailwindCss, Dirzzle ORM" },
+    { "id": "XdsZA8wSNDg", "title": "Build React Logo Making App | React Js Full Course Project Tutorial | React, Tailwindcss" },
+    { "id": "eRwIQO_VG0o", "title": "Full stack NextJs Portfolio builder app | React, Tailwind Css, Daisy UI, Drizzle ORM, Clerk" },
+    { "id": "pyVwMi48-6U", "title": "I build these top Web Application projects in last 3 Months" },
+    { "id": "s28yOCBVgGw", "title": "Build & Deploy NextJs AI Form Builder SaaS Application using React, TailwindCSS, Gemini API, Clerk" },
+    { "id": "Qq7fBgRFQJo", "title": "Build & Deploy Next.js Full Stack App | React.Js, Strapi, Tailwind | Doctor Appointment Booking App" },
+    { "id": "sxn2GPQjJgc", "title": "Build & Deploy NextJs Eraser.io App Clone | Full Stack React App | Convex, Typescript, Tailwind Css" },
+    { "id": "YefD_gj3svM", "title": "Build & Deploy Full Stack Next.js Home Service App using React.js, Hygraph , Tailwind css" },
+    { "id": "bpP7PKuEjgI", "title": "React Native Budget Planner App | Full Stack React Native App | Expo, Supabase, Kinde" },
+    { "id": "7NN56jsaj6w", "title": "Build & Deploy Full Stack Next.Js Online Grocery React App Store | React, Strapi, Tailwindcss" },
+    { "id": "Zs-W12TpAeM", "title": "React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph" },
+    { "id": "_GyIjVgIwtk", "title": "NextJs 14 Full Stack Project | React.Js, TailwindCss, GraphQl | Full Tutorial | Video Course" },
+    { "id": "1MqozxAvmsc", "title": "React Native Full Stack Tutorial | React Native Project |Video Course Learning | Expo , HyGraph" },
+    { "id": "VOFJ1wBJcUo", "title": "Build a Full-Stack Marketplace App with React Native: Expo, Firebase, Tailwind CSS & Formik" }
+  ]
+}

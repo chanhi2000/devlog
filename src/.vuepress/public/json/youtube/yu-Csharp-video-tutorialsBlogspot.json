@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "Csharp-video-tutorialsBlogspot",
+    "name": "kudvenkat",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQ5VJx0S6heN6QSbKU9P3zJ0AMYpAwEWR9ROj_x=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cLeRiq17ue28QJpfoNL9fIh2fdfI_85Va-fPHCpiGp_g5HumZSMj_nFy8PIj3K7QLhHNl-cVIOM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lbQzwoh2Mgk", "title": "Set up Express JS development environment" },
+    { "id": "-0PRZeP3oiU", "title": "Mern Stack - How to create route in Express JS" },
+    { "id": "VBhcBetWpLw", "title": "Mern Stack - How to create API in Express JS" },
+    { "id": "OgB_r3ctyYk", "title": "MERN : Express JS - Separating Routes" },
+    { "id": "UuhnalzKwE0", "title": "Mern : How to create a controller in Express JS" },
+    { "id": "mGC9EabW1Ew", "title": "Mern : Express JS Models" },
+    { "id": "bsI0-5sHIpg", "title": "What is MERN Stack" },
+    { "id": "_81y6cCJ9vY", "title": "How to create a collection in MongoDB" },
+    { "id": "V4qCRN9Yhw8", "title": "How to filter collection in MongoDB" },
+    { "id": "07aC_H6e9FA", "title": "Sorting, indexing and validation in MongoDB" },
+    { "id": "E_J1exVK_1Q", "title": "ExpressJS Introduction" },
+    { "id": "WNQ9Y3PlJec", "title": "MAUI - Syncfusion : Data Visualization: Maps - 1" },
+    { "id": "vgF0xvNvEoU", "title": "MAUI - Syncfusion : Data Visualization: Maps - 2" },
+    { "id": "qafV-vvXEpA", "title": "MAUI - Syncfusion : Data Visualization: Maps - 3" },
+    { "id": "b2trzC-8w-0", "title": "How to create QR Codes and Barcodes in .NET MAUI" },
+    { "id": "d6SsvhlHZZQ", "title": ".NET MAUI TreeMap Component" },
+    { "id": "h9isIpC4Dls", "title": "MAUI - Syncfusion : Data Visualization : Radial and Funnel Chart" },
+    { "id": "aWRAq2TggYw", "title": "MAUI - Syncfusion : Data Visualization : Pyramid and Radial Guage Charts" },
+    { "id": "SWNQ9ZpTeeg", "title": "MAUI - Syncfusion : Data Visualization : Radial Gauge Charts 2 - Pointers and Annotations" },
+    { "id": "HTFjhYKHnSk", "title": "MAUI - Syncfusion : Data Visualization : Radial Gauge 3 : Working clock sample" },
+    { "id": "F4yS6lFGVz0", "title": "MAUI - Syncfusion : Data Visualization : Linear Gauge Control" },
+    { "id": "UMPwtOvUjd0", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 3" },
+    { "id": "Zg-jBr4SHNc", "title": "MAUI - Syncfusion : Data Visualization : Circular Charts" },
+    { "id": "3wEcn9Uh4BY", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 1" },
+    { "id": "eCK7l3AfkZI", "title": "MAUI - Syncfusion : Data Visualization : Cartesian Charts 2" },
+    { "id": "YBPvBAdY7b4", "title": "MAUI - Syncfusion : Slider, Range Slider and Range Selector Controls" },
+    { "id": "E_-g-GcQZRE", "title": "MAUI - Syncfusion : PDFViewer Control" },
+    { "id": "LflpQkaMJH8", "title": "MAUI - Syncfusion : Shimmer, Avatar and Effects View Controls" },
+    { "id": "fBR9RiO_eHU", "title": "MAUI - Syncfusion : Scheduler Part 1" },
+    { "id": "hzkhAwAwSf8", "title": "MAUI - Syncfusion : Scheduler Part 2" },
+    { "id": "53s418eYxhg", "title": "MAUI - Syncfusion : DataGrid - Part 3" },
+    { "id": "_wkXf6aHX9U", "title": "MAUI - Syncfusion : DataGrid - Part 2" },
+    { "id": "DrQ1qkmOfJo", "title": "MAUI - Syncfusion : DataForm Editor - Part 3" }, 
+    { "id": "1RCf8m--IjA", "title": "MAUI - Syncfusion : List View - Part 2" }
+  ]
+}
+

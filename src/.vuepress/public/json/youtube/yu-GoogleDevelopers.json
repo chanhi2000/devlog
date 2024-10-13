@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "GoogleDevelopers",
+    "name": "Google for Developers",
+    "profile": "https://yt3.googleusercontent.com/fca_HuJ99xUxflWdex0XViC3NfctBFreIl8y4i9z411asnGTWY-Ql3MeH_ybA4kNaOjY7kyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Oxa3gK3h8fgC8wNLkMJVcj2VJ_rRzZL02eAEEVOiKpts-ed5LApGEKZTJ2YrmrsRq6lrJRmZ9g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OHYqgtvb16o", "title": "Write PHP code that can reformat the American decimal system. Go!" },
+    { "id": "-TI5UBiJOoo", "title": "How to implement Autofill for secure & speedy payments" },
+    { "id": "SAUeGtyLsrk", "title": "Machine Learning Crash Course: Intro & What's New" },
+    { "id": "QoK1nNAURw4", "title": "Machine Learning Crash Course: Gradient Descent" },
+    { "id": "72AHKztZN44", "title": "Machine Learning Crash Course: Logistic Regression" },
+    { "id": "FqZpuC3RHOA", "title": "NEW Client Libraries for Google Wallet? Yes, we have them." },
+    { "id": "8-lz_h9uuOU", "title": "Tune Gemini in Google AI Studio and Gemini API" },
+    { "id": "-Veo9L5j0qg", "title": "Angular v18 now available, Announcing Trillium, and more dev news!" },
+    { "id": "qJsRlV740sc", "title": "How GDGs are building with Google AI" },
+    { "id": "-3S36NPWuQY", "title": "Tips & tricks for using IDX: Building with Gemini in IDX" },
+    { "id": "11JuMc2sITA", "title": "What's in your Google Wallet?" },
+    { "id": "w6D1DKrumKA", "title": "Introducing the Google Developer Program, Building with AI on Android updates, and more dev news!" },
+    { "id": "gKj1FEnN7pk", "title": "Getting started with GenType" },
+    { "id": "nRLDHpUINDc", "title": "Day in the life of a Google Wallet Product Manager" },
+    { "id": "Cj5blaxvNqU", "title": "Can you complete this AI crossword puzzle? Find out!" },
+    { "id": "brV8mrBkswA", "title": "2024 Solution Challenge Demo Day" },
+    { "id": "oRjt_mIm6IY", "title": "The Gemini Cookbook, Popover API lands in Baseline, and more dev news!" },
+    { "id": "UGq8_Sivt4k", "title": "How to moderate text with Google AI" },
+    { "id": "lSq3h-_PTVY", "title": "The Gemini API: From prototype to production" },
+    { "id": "DgkLKybBVcs", "title": "Visualize Models with Model Explorer" },
+    { "id": "57W6vJNyb6A", "title": "Developer Keynote (Google I/O '24) - Audio Described" },
+    { "id": "6RPQCbMsO28", "title": "Reimagine the Future of Gaming with Google AI" },
+    { "id": "wGd0wO5Ld0c", "title": "Can a backend engineer learn Flutter with AI?" },
+    { "id": "-wlZY4tfGMY", "title": "Project IDX: Full-stack application development with generative AI" }
+  ]
+}

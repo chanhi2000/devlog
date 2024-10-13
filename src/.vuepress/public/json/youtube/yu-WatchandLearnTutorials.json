@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WatchandLearnTutorials",
+    "name": "Watch and Learn",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRU2vMqKXB6Z3Pm9JEoBO-whjzTBgKaWYFyHU3mRA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mUVkoayhg7pGaLHxxLmkXquMvU8T8BpJy088fQX77cEw4u0N0_WrSs5mqk8yDN9oKu1fkXHJcA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CD9gDfDenwk", "title": "Static Sites With Nuxt - 01 - Overview and Install" }
+  ]
+}

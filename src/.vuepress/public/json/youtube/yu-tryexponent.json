@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "tryexponent",
+    "name": "Exponent",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lQqsnGOLbg6gy2NLAzG_Yujzra13fOWAPyEG30hw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YycJ2Ql3RY344u2t7YNwYCrSv-cCb3VjkfvIhK9erutQuUdB3o6rynK1AQCfV-a_trg6ClWEJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9efUE3_-O80", "title": "Deprecate a Google Product - BizOps Mock Interview (with Business Lead @ SoFi)" },
+    { "id": "T25I2FQ9Mok", "title": "Top 10 Behavioral Software Engineering Interview Questions" },
+    { "id": "ss3HRy1eiLY", "title": "Data Science Mock Interview - Advantages and Limitations of Linear Regression" },
+    { "id": "Hzz6vHSzwF0", "title": "T-Test Assumptions and Alternatives - Data Science Mock Interview (with FAANG Data Scientist)" },
+    { "id": "9efUE3_-O80", "title": "Deprecate a Google Product - BizOps Mock Interview (with Business Lead @ SoFi)" },
+    { "id": "T25I2FQ9Mok", "title": "Top 10 Behavioral Software Engineering Interview Questions" },
+    { "id": "ss3HRy1eiLY", "title": "Data Science Mock Interview - Advantages and Limitations of Linear Regression" },
+    { "id": "Hzz6vHSzwF0", "title": "T-Test Assumptions and Alternatives - Data Science Mock Interview (with FAANG Data Scientist)" },
+    { "id": "56QSCo2gBfA", "title": "Coding Mock Interview - Move All Zeros To End Of Array (with Google SWE)" },
+    { "id": "oztcNBqbTDE", "title": "How Do You Become a Solutions Architect? (with Head of SA @ AWS)" },
+    { "id": "G7bW8U9h03M", "title": "Coding Mock Interview - Product of Array Except for Self (with Ex-Google SWE)" },
+    { "id": "-daFO-i-SFY", "title": "Data Science Questions - Probability, P-Value and Confidence Intervals (Full mock interview)" },
+    { "id": "ZjNoipQAqRM", "title": "Machine Learning Interview - Build an ML System That Classifies Which Tweets Are Toxic" },
+    { "id": "gl96uVKroDM", "title": "ML/AI Coding Question - Implement K-Means (Full mock interview with Snapchat MLE)" },
+    { "id": "UrBXm2GR020", "title": "Machine Learning Interview - Implement a 2D Convolutional Filter (with Senior Meta ML Engineer)" },
+    { "id": "i0PbTgunMk8", "title": "ML Data Science Coding Question - Calculate the Probability of a Fair Coin and Simulate It" },
+    { "id": "rkpcgKWavVg", "title": "Instagram Data Science Question - How Many Ads? (Full Mock Interview)" },
+    { "id": "LLfLl5XwJzc", "title": "Data Science Interview - A/B Testing Alternatives (Full Mock with Tinder Sr. Data Science Mgr)" },
+    { "id": "_Y7E2YKfuFM", "title": "ML Training Data vs. Testing Data (Key Differences)" },
+    { "id": "ZcituUOnfQI", "title": "Gradient Descent Explained: Batch, Mini-Batch, and Stochastic (Simple)" },
+    { "id": "4d58jmAoSdk", "title": "Importance of Feature Scaling and Normalization" },
+    { "id": "xNK1yT1vy6M", "title": "Classification vs. Regression in Machine Learning" },
+    { "id": "w9ipP9kPpFc", "title": "When to Refresh an ML Model" },
+    { "id": "Y5DVYLmmdrw", "title": "Handling Exploding Gradients in Machine Learning" },
+    { "id": "lRf2AXCzMkQ", "title": "“What are your salary expectations?” | Salary Negotiation Interview" },
+    { "id": "SdP4ygpTmNw", "title": "How Do I Know My Offer Is Good? | Salary Negotiation Interview" },
+    { "id": "7tLMslk1Zm8", "title": "Essential ML Engineer Interview Questions (with Snapchat MLE)" },
+    { "id": "VtsQXHXRmGM", "title": "Software Engineer Behavioral Interview - What's Your Proudest Project? (with Formation CEO)" },
+    { "id": "2uqhyOD2euo", "title": "Machine Learning Interview - Design an ML Model To Predict App Deletion" },
+    { "id": "krDQ54H-JJo", "title": "Machine Learning Interview - Implement the KNN Algorithm (with Snapchat MLE)" }   
+  ]
+}

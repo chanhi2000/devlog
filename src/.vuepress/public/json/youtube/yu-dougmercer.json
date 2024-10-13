@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "dougmercer",
+    "name": "Doug Mercer",
+    "profile": "https://yt3.googleusercontent.com/hsJQUXHLEAp_o4lBlOZFtacM_rZA-tgNOHo_JM5D0QS3O6KKodZfJbU3MJM_f4G5KbBw_jOB=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dcqaYcQcTzx8Md1eO1p1KQc8SRDWovDHyKzaeWoWxZ382Npy5lurNTw9uE6KvOBs2LLV0ItrLg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "utTaPW32gKY", "title": "How Fast can Python Parse 1 Billion Rows of Data?" },
+    { "id": "Cdb_XK5lkhk", "title": "I made my own animation library" }
+  ],
+  "playlists": [
+
+  ]
+}

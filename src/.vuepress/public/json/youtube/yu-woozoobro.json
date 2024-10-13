@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "woozoobro",
+    "name": "woozoobro",
+    "profile": "https://yt3.googleusercontent.com/v2g9lIq6-JVgLvrD4DF6zkZu2uCBUiCgX9Y2nW_cyEtamrLGViWoQcaf3N8vNR3Wc4imBoVT2Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MdRcoHMNZ93IGMb5o3CGQm29h6A_-f6jEE_HsW8MVnDMTAYYC1oust5eiBqlr1tZw8iGtHzCa0Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wgTGTgiWTuE", "title": "`ObservableObject` 기초, `StateObject`와 `ObservedObject`" },
+    { "id": "JYQgBpu0-8w", "title": "`@Binding` 프로퍼티 래퍼 기초" },
+    { "id": "4F84CPBNMrk", "title": "뷰에 구멍뚫기" },
+    { "id": "YH4n3aolIQQ", "title": "`@State` 프로퍼티 래퍼 기초" },
+    { "id": "gs5Iw9TwTeU", "title": "Hang과 Hitches, TCA 얘기 조금" },
+    { "id": "VXt9fR01ut8", "title": "[SwiftUI] 프로퍼티 래퍼 전부 써보기" },
+    { "id": "yqNRphYcEIA", "title": "Throws Do Try Catch 에러" }
+  ]
+}

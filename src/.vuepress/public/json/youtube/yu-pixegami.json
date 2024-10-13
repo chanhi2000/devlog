@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "pixegami",
+    "name": "pixegami",
+    "profile": "https://yt3.googleusercontent.com/xZiBn7GzXCw2iUFfVP9AbCJh518GD8zFB5tUYg4KE-hDNY6pbybvkFePZnsldZ27b661s1KX=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7yFzWdOH5bJOh8eN4X9RU06i8iX9bH221STvFU1IMe5Q_S8-rCJ5heOtVR5AyhDoyqXeKZDd4GM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xSDBGfFRCiU", "title": "Using Python and AI to Automate My Video Editing Process" },
+    { "id": "SZNRkGqaYTI", "title": "Ollama: Run LLMs Locally On Your Computer (Fast and Easy)" },
+    { "id": "2TJxpyO3ei4", "title": "Python RAG Tutorial (with Local LLMs): AI For Your PDFs" },
+    { "id": "HxOheqb6QmQ", "title": "Python Langchain Tutorial: Use 3 Different LLMs in 10 Mins" },
+    { "id": "LQ5xtsp7gYo", "title": "Create a Custom AI Assistant + API in 10 Mins" },
+    { "id": "9B9CdKANjnM", "title": "Python Dataclasses: Here's 7 Ways It Will Improve Your Code" },
+    { "id": "D0D4Pa22iG0", "title": "Streamlit: The Fastest Way To Build Python Apps?" },
+    { "id": "tcqEUSNCn8I", "title": "RAG + Langchain Python Project: Easy AI/Chat For Your Docs" }
+  ]
+}

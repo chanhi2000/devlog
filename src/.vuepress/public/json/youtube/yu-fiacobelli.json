@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "fiacobelli",
+    "name": "Francisco Iacobelli",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbcLIff-Hq099hrDCwA1M4f8hwD7OB8hSoTG4RN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "IAnrPxvUEf4", "title": "Simple explanation of functions in python" }
+  ]
+}

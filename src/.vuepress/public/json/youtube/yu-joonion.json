@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "joonion",
+    "name": "JoonionTV",
+    "profile": "https://yt3.googleusercontent.com/UmRbYoIEHbBhhXGPE5totNYVUSGYMlyQkNC7a1H8Jm9-_6gYKa8HCXvdthfars60H59sUUAbXA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E_zf7zhMAzFc4MvAxFhLdugCLqfgsvyuMNImicjzSPXem8oSvEexc7nWMenZD8XY0DxDPtSx=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1oKQPpvcPy8", "title": "누워서 보는 알고리즘: 13. 회의실 배정 문제와 탐욕법" },
+    { "id": "yMrdjwZ-02o", "title": "데이터 과학 기초: 2.4 Orange로 해보는 데이터 과학" },
+    { "id": "6oHxTTQuUuE", "title": "아무거나 물어보살: 윈도우에서 WSL 디렉토리에 접근할 수 있나요? 당근이죠!" },
+    { "id": "fqMYI04QHBM", "title": "[TMItalk] 하루만 삽질하면 충분한 온라인 코딩테스트 서버 구축" }
+  ]
+}

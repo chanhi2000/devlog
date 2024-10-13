@@ -1,0 +1,23 @@
+
+{
+  "channel": {
+    "id": "interviewpen",
+    "name": "Interview Pen",
+    "profile": "https://yt3.googleusercontent.com/QVlvrPM_lVtr8IS1PjGG7vf7FXzR27lI_ezgN_23G5YQXAWvfjfRuvLhDZf3b9IwGplgQwKxDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U8zij5TNWorDHhlNs2rTAKV4u431lDN4m3_NqKBfCX7cPpF5xgbqZyunQHN7yifp7Xb1ZVPRlg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FoSCaue3lcg", "title": "Design an ML Recommendation Engine | System Design" },
+    { "id": "NZ_-2RB-NU0", "title": "Design a Data Warehouse | System Design" },
+    { "id": "TOyD-5QgpuE", "title": "Design a Code Execution System | System Design" },
+    { "id": "0Xc2YB2n1nw", "title": "Design an Email Automation Platform (Klaviyo, Mailchimp) | System Design" },
+    { "id": "FnsIJAaGRk4", "title": "How do Databases Work? | System Design" },
+    { "id": "lWnQtOIWiUY", "title": "Design a Scalable BLOB Store | System Design" },
+    { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" },
+    { "id": "v6qvrIY5Tgs", "title": "Design a Video Streaming Protocol (HLS, DASH) | System Design" },
+    { "id": "wiBSjzDyA48", "title": "Design a Fault Tolerant E-commerce System | System Design" },
+    { "id": "yKPVZgA6Oe0", "title": "What makes Kafka special? | System Design" },
+    { "id": "0LTXCcVRQi0", "title": "Design a Basic Search Engine (Google or Bing) | System Design Interview Prep" }, 
+    { "id": "R_agd5qZ26Y", "title": "Basic System Design for Uber or Lyft | System Design Interview Prep" }
+  ]
+}

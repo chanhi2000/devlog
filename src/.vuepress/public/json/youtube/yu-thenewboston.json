@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "thenewboston",
+    "name": "thenewboston",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaD980mjhug5lAdmvJtuk4Mmrt3vtE2LMn7O9qBA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_7zmngXU3vE", "title": "Prompt Engineering for Beginners - Tutorial 17 - Anthropic Claude 3" },
+    { "id": "QGORdKKzEkY", "title": "LLM Application Development - Tutorial 3 - RAG" },
+    { "id": "goW1ssfTQzU", "title": "LLM Application Development - Tutorial 2 - Evaluations" },
+    { "id": "u4LMdo-2EP4", "title": "LLM Application Development - Tutorial 1 - Introduction" },
+    { "id": "Hb3v7zcu6UY", "title": "LLM Application Development - Tutorial 5 - Memory" },
+    { "id": "1xmaUjeCjjc", "title": "LLM Application Development - Tutorial 4 - Routing" },
+    { "id": "jSVVsD3H7zs", "title": "Prompt Engineering for Beginners - Tutorial 14 - Creating Prompt Templates" },
+    { "id": "8hW-OjwpwMk", "title": "Prompt Engineering for Beginners - Tutorial 15 - Evaluation Pipeline" },
+    { "id": "t8QuD3s9GsI", "title": "Prompt Engineering for Beginners - Tutorial 16 - Anthropic" },
+    { "id": "g14Rkur1SCw", "title": "Prompt Engineering for Beginners - Tutorial 13 - Embeddings" },
+    { "id": "2BPDwDoiw3E", "title": "Prompt Engineering for Beginners - Tutorial 11 - Image Variation" },
+    { "id": "He4V-qn188k", "title": "Prompt Engineering for Beginners - Tutorial 9 - Scoring" },
+    { "id": "jnXoWCJIlUQ", "title": "Prompt Engineering for Beginners - Tutorial 8 - Prompt Templates" },
+    { "id": "mzliUdPTKxc", "title": "Prompt Engineering for Beginners - Tutorial 4 - Creating a Code Review Assistant" },
+    { "id": "GrX4WfT5FI4", "title": "Prompt Engineering for Beginners - Tutorial 1 - Introduction to OpenAI API" },
+    { "id": "6jkmjiuJHfI", "title": "Creating a Social Network with ChatGPT" },
+    { "id": "YLC1hnqSluM", "title": "Pro Django - Tutorial 8 - GitHub Actions and Workflows" }, 
+    { "id": "zCz6xEFqOXE", "title": "Pro Django - Tutorial 9 - CI/CD" }, 
+    { "id": "hqYUAVobDJA", "title": "Pro Django - Tutorial 7 - pytest" }, 
+    { "id": "2KAP10kJ-wo", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 14 - Gradle for Building Docker Images and Boot JARs" }, 
+    { "id": "Ykq9LAzNxTE", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 13 - REST APIs with RestTemplate & Dependency Injection" }, 
+    { "id": "jiv37i503v4", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 8 - GET Single Bank" }, 
+    { "id": "2e72RHO8ORk", "title": "Spring Boot with Kotlin & JUnit 5 - Tutorial 7 - Web Layer" }, 
+    { "id": "MBBWVgE0ewk", "title": "Windows Command Line Tutorial - 1 - Introduction to the Command Prompt" } 
+  ]
+}

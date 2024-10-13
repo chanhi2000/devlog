@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "hswolff",
+    "name": "Harry Wolff",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRx-4TRTOzQv8FAoLQlnFXjqYTjSd-es6WzARP-kg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CImNcVyz7WdzL6yQ8R_PLWrFyuKis5IGy42IAtOqbQAGywXgYeGCRTHw_vK7EpsnzJ0xQuFpUA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UbkaFpVmNX4", "title": "Introducing Votey-uppy, full stack web app built with Next.js, Tailwind, and MongoDB" },
+    { "id": "YKmiLcXiMMo", "title": "React Hooks: Advanced Hooks" }
+  ]
+}

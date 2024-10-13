@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "100GL",
+    "name": "백글ㅣ100초로 익히는 100점 글씨",
+    "profile": "https://yt3.googleusercontent.com/kIMkmwoM13gF_hxXfUGdniuFx5ozdF0Jz92dwVHazMYv6KFwMOFSVlVTbbnnQ2pj6Mz14e_SKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wBdQ9a0VdPZUKFzSI5j36SqT6auVMxhbKJY0YZw4Il8RZkh0fndslriEayavP5Y3kUCgr1_N=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1YzSySp3Zf4", "title": "복잡하고 어려운 글자들 한 방에 해결!" },
+    { "id": "0Y670EQtjBA", "title": "또또또 받침이 말썽이지?ㅣ받침 쓰는 디테일" },
+    { "id": "05SNhFDgNX0", "title": "답안은 이렇게 쓰세요. 미리 축하합니다" }
+  ]
+}

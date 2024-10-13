@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "yalco-coding",
+    "name": "얄팍한 코딩사전",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mfA6OVWyw6v7dpbO5NvjkAzsH4q8G0nCcF2eaf9lOmvLGO=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TUoJffjK5MU78QMIOfAJJqfT-L4n9WPOo_Ydsde5vbK4ctvL1as-MpgMTARhQbNVVAmbQ55x=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6DTjiS1zVOM", "title": "[자막 ON 필수] 30분만 귀가 썩으면 리눅스 주요 명령어가 외워지는 노래" },
+    { "id": "Da_-qnyPhhc", "title": "제대로 파는 파이썬 - Python 끝장내기  (대학생 전체강의 반값할인)" },
+    { "id": "RI1LcuNgNj4", "title": "API가 뭔가요? 가장 쉽게 이해시켜드림" },
+    { "id": "fB3MB8TXNXM", "title": "REST API - 이거 하나로 끝남" },
+    { "id": "5o1IiHuUxPk", "title": "SOAP (REST API가 대세가 된 이유)" },
+    { "id": "lYuWfoWD67Q", "title": "GraphQL - 한 방에 이해하기" },
+    { "id": "uwrR5e5_FH8", "title": "gRPC - 알고 나면 쉬움" },
+    { "id": "2oMPf-ueQic", "title": "웹소켓을 알아봅시다." },
+    { "id": "i4-MNzNML_c", "title": "SSE (Server Sent Events) - 서버가 그대에게 보낸다" },
+    { "id": "bWcNEk0H4Y0", "title": "WebRTC - 클라이언트끼리 소통하기" },
+    { "id": "0lyrd5FlETQ", "title": "Message Broker - 카프카와 RabbitMQ를 알아보자" },
+    { "id": "hqmf0Pvbk7g", "title": "코딩이 처음인 분들을 위한 자바스크립트 - 무료입문강좌" },
+    { "id": "8kmtCVgqM34", "title": "제대로 파는 자바스크립트(JavaScript) - 업데이트판 (가독성UP/추가내용)" },
+    { "id": "d7FmIkKEQGI", "title": "03-12. 소스트리로 브랜치 다루기 / 투머치 친절한 깃 & 깃허브" },
+    { "id": "5xH6esWrB7I", "title": "03-11. 브랜치 충돌 해결 / 투머치 친절한 깃 & 깃허브" },
+    { "id": "H4O0ubQSt-0", "title": "03-10-B. merge & rebase 실습 / 투머치 친절한 깃 & 깃허브" },
+    { "id": "FLNxRwjre2w", "title": "03-10-A. merge vs rebase 개념  / 투머치 친절한 깃 & 깃허브" },
+    { "id": "w7vgSDaUY6A", "title": "02-07-A. reset vs revert  / 투머치 친절한 깃 & 깃허브" },
+    { "id": "5Xp4PhesILA", "title": "01-05. gitignore  / 투머치 친절한 깃 & 깃허브" },
+    { "id": "5ILR9Vd_Vos", "title": "SSR, SSG, JAM Stack이 뭔가요? (+ CSR, SEO, Next.js, Nuxt.js, Gatsby)" }, 
+    { "id": "TrC2x4N0XqY", "title": "제대로 파는 HTML & CSS - 웹 퍼블리싱 끝.장.내.기" }, 
+    { "id": "9BIXcXHsj0A", "title": "얄팍한 GraphQL & Apollo 강좌" }, 
+    { "id": "tPWBF13JIVk", "title": "가장 쉬운 리눅스 강좌" }
+  ]
+}

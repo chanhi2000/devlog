@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "JetsonHacks",
+    "name": "JetsonHacks",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa_m2t2o1YsJetDT68THo8vwRjZTNh0OmDtusit=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ufoWdvQc_Tf9slaU991HGfqvxtijjGje4I1LaAbaBh9fkFixxr5vb5Eq8fsg5UEM2CCqVfou=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C_WrbBmiTf4", "title": "CUDA Programming in Python" },
+    { "id": "qCAoPcMiR4k", "title": "The Ultimate Jetson Orin Nano Unboxing and Walkthrough - Perfect for Developers and Makers Alike" },
+    { "id": "LSdXakt8nZ8", "title": "Python Upgrade on Jetson Nano - Tutorial" },
+    { "id": "HlH3QkS1F5Y", "title": "Use These! Jetson Docker Containers Tutorial" }
+  ]
+}

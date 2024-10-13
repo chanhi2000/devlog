@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "BroCodez",
+    "name": "Bro Code",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DglmKG9Z46doQVWYd6t1YsL902KK_yEddormB2y7KqU4rnG59KrmUKXfJUS7bQWFBTUJ5EXK=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CgkZ7MvWUAA", "title": "React Full Course for free ⚛️ (2024)" },
+    { "id": "lfmg-EJ8gm4", "title": "JavaScript Full Course for free 🌐 (2024)" },
+    { "id": "zZ6vybT1HQs", "title": "PHP Full Course for non-haters 🐘 (2023)" },
+    { "id": "HGTJBPNC-Gw", "title": "HTML & CSS Full Course for free 🌎 (2023)" }, 
+    { "id": "c2M-rlkkT5o", "title": "Learn MongoDB in 1 Hour 🍃 (2023)" }, 
+    { "id": "zZ6vybT1HQs", "title": "PHP Full Course for non-haters 🐘 (2023)" }, 
+    { "id": "5OdVJbNCSso", "title": "MySQL Full Course for free 🐬 (2023)" }, 
+    { "id": "oe5YYh9mhzw", "title": "You MUST Instrument Your Code With OpenTelemetry!" }, 
+    { "id": "rFssfx37UJw", "title": "MySQL: FOREIGN KEYS are easy (kind of)" }, 
+    { "id": "Kmgo00avvEw", "title": "Java GUI: Full Course ☕ (FREE)" } 
+  ],
+  "playlists": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "GenuineCoder",
+    "name": "Genuine Coder",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMpfHnIhwwd1UbFl6lUXmiMQbeMkTdsYoP52D9AAA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gw8HnWntxIdi4H-QL7AVvpJD-z7BL4EJiqEEdcwPanIAqm5U3T6fvy1txA1v4AD2vpBvZ9aqA_k=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MrSECdSIaOg", "title": "Microservices using Spring Boot 3 | Video streaming app project" },
+    { "id": "HYBRBkYtpeo", "title": "JWT Authentication & Authorization with Spring Security | Step-by-step tutorial" },
+    { "id": "y3ySZkSgWik", "title": "Java Reactive Programming Full Course | Project Reactor | Spring Boot WebFlux | MongoDB" },
+    { "id": "9J-b6OlPy24", "title": "Spring Boot 3 Security Tutorial | Authentication and Authorization | [2024]" },
+    { "id": "fm4RtXFiP7Y", "title": "Spring Boot Tutorial for Beginners | Full Course - 2024" },
+    { "id": "pdRX6CLP0tM", "title": "JavaFX Background Tasks | How to make your GUI smoother, faster and snappier" }, 
+    { "id": "aS4a6Gv2B-s", "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 4/5 | Finishing the Application Development" }, 
+    { "id": "SsV29noHQRU", "title": "JavaFX Library Software From Scratch #1 : Developing UI For Adding Books" }, 
+    { "id": "qjiIx9OEoz4", "title": "Covid-19 Status Desktop Widget | JavaFX Tutorial 1/5 | Introduction" }, 
+    { "id": "Z1W4E2d4Yxo", "title": "JavaFX Scene Builder Tutorial for Beginners" }
+  ],
+  "playlists": [
+
+  ]
+}
+

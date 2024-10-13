@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "juxtopposed",
+    "name": "Juxtopposed",
+    "profile": "https://yt3.googleusercontent.com/6SUvLvQ6tJ8l6PAS3Y9OdsN7l-VVXVCsBhYqBcfvpfogaScX-3PoHVqq4mgbutsX-l-miiYgVA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u9N9nvCBt_x3pMvwzI4q-RtW2GdERHfp37TcN2P_EPJedSTLeGPkQ24It1L2KHje-WotgM4Ohw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XK0HQcGQGLg", "title": "I Redesigned the ENTIRE IMDb" },
+    { "id": "l2nlqaTncIM", "title": "I made the Same Website in 3 No-Code platforms" },
+    { "id": "hs-yH-WnjBQ", "title": "100 Years of Fictional UI - Were They ALL Wrong?" },
+    { "id": "DUM4ZiPM8cU", "title": "Stop “Learning” Design." },
+    { "id": "_8Zs_cVJAx4", "title": "When Animators Become Web Designers" },
+    { "id": "wIuVvCuiJhU", "title": "world's shortest UI/UX design course" }
+  ]
+}

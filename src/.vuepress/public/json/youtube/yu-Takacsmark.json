@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "takacsmark",
+    "name": "takacsmark",
+    "profile": "https://yt3.googleusercontent.com/lGiiczklZjC7wsZ0YTfZtLiKWohGtQx6jIxOq-xZQ2mdMM9k-dGW1m0o8QLBXEFR18IWzJHnQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iXVrIq1uHADa0fM_oUys5D-32Au28kKmB6mYWG9N6sA4VLr1UK0Q7N3mdP6EWheApbPbSUXw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6Er8MAvTWlI", "title": "Dockerfile Tutorial by Example - ( Part I - Basics )" },
+    { "id": "Vyp5_F42NGs", "title": "Getting started with docker, the step by step tutorial [ with examples ]" }
+  ]
+}

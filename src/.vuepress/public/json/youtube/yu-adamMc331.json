@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "adamMc331",
+    "name": "Adam McNeilly",
+    "profile": "https://yt3.googleusercontent.com/tF7xeMIOcJ5ShD1F9BwbmiKgwdw6hWnw3Sdbpi1Vdlw5vJrLbsXoJVoXGsAe6m74XHGYsNdo4zc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3_m_AZhWmC0", "title": "TOA: Main Activity UI Tests" },
+    { "id": "vaf7uIqJZs0", "title": "Building An Esports Widget With Jetpack Glance (Part TWO)" }, 
+    { "id": "d5SH9NegeUk", "title": "TOA: Core Data & Task API Modules" }, 
+    { "id": "dvOZep2hCqU", "title": "TOA 9: Adding Hilt To Jetpack Compose Applications" }, 
+    { "id": "J6Pq_WiWa1c", "title": "Fixing Bugs With TDD In Jetpack Compose" }, 
+    { "id": "BTmTqEl_TKI", "title": "Android Dev Challenge: MySoothe" }, 
+    { "id": "w9W7kGj2pC4", "title": "Supporting Multiple Screen Sizes In Jetpack Compose" }, 
+    { "id": "0xJdjX5NWKU", "title": "Creating A Staggered Grid With Jetpack Compose" }, 
+    { "id": "eVoU49w2V8M", "title": "Android Dev Challenge: Bloom" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MultsElMesco",
+    "name": "Mults",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m94EmV1sjXPvQUhvG1VcgZ1-GxBDF-6wD-kzGmtjM4QO8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0OMFMbz1ZZl5qNYaN6Xfpzd31iVVlSsE8NM8KvB-cba9a4GnxKlwgv_4IECAGxmXQYaR322l39Y=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qclZUQYZTzg", "title": "Explaining Pointers Until I Go Insane" },
+    { "id": "jLplqoB04hE", "title": "Coding my own HTTP Server in C" }
+  ],
+  "playlists": [
+
+  ]
+}

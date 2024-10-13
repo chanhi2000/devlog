@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "leerob",
+    "name": "leerob",
+    "profile": "https://yt3.googleusercontent.com/WfEqekfCKp7ZOAuFAOY6mJ6mM9vyfZsSJOVgNTkON4iCZ7k5GdfEmnzvO4OBlaO8m4_oJbsu-Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WGdqBq0Vm7pxPziyyCTQx3HohL89SMVmWBDVrIVNtSs_8CW6iee6MJ1kPRAThGEMN7l6R2z3=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "meycWptW9eo", "title": "Building with React 19 (actions + useOptimistic)" },
+    { "id": "P5aXJmAD_vU", "title": "Keep your React components in the same file" },
+    { "id": "BWWCPdhg0ks", "title": "Next.js Pages / Layouts (FAQ)" },
+    { "id": "DJvM2lSPn6w", "title": "Next.js App Router Authentication (Sessions, Cookies, JWTs)" },
+    { "id": "8DyzsSWNcDE", "title": "React Server Components: the Good, the Bad, and the Ugly" },
+    { "id": "erVWz4DmPAc", "title": "How I'm Writing CSS in 2024" },
+    { "id": "h2BcitZPMn4", "title": "Introduction to Next.js and React" },
+    { "id": "mpcE5rxgLxM", "title": "Building an email client with the Next.js App Router & Postgres" },
+    { "id": "6jM_0wDOw4g", "title": "Are React client components bad?" },
+    { "id": "Pd2tVxhFnO4", "title": "Using Docker with Next.js (and Deploying with Google Cloud Run)" }, 
+    { "id": "R59e1Vl5lO8", "title": "10 Next.js Tips You Might Not Know!" }, 
+    { "id": "eFzNekhVhmM", "title": "Building a Linktree Clone! (Next.js, React, Tailwind CSS)" }
+  ],
+  "playlists": [
+
+  ]
+}

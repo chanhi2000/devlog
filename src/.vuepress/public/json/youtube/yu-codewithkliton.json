@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codewithkliton",
+    "name": "Code with Kliton",
+    "profile": "https://yt3.googleusercontent.com/q3pvqq3CuWO_H08-ZQIIEGP41sphXYdyScy82khsrg79uwm64R-61uowWOmSES1D7_n7X0bk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xBd8n2wQ7eoLBzoAhhOjJCF18ec2x6TrC7cPUv3WxLj9A2XjC-QSB20WMZ1GH3sTetNTEVQSsQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nANLXwxZxks", "title": "Full stack Budget Tracker: NextJs , React,Typescript ,React-Query, Prisma - SQL,  Recharts, Tailwind" },
+    { "id": "QGXUUXy0AMw", "title": "NextJs course: Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "yisrisri_math",
+    "name": "너도 아는 수학",
+    "profile": "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8XA8AAksBZG7LpHYAAAAASUVORK5CYII=",
+    "banner": "https://yt3.googleusercontent.com/mRRmDvQHZBVOTldHsGrLpaTDku8JsvM8uKEwTyghWCIJcGPGBNbG6fpXaInft5pk7F-CLqAgjg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mywvFV8Vm40", "title": "[수학1] 삼각함수의 그래프 비율관계" },
+    { "id": "-iWUbKSAqtg", "title": "[수학하/공통수학] 코시슈바르츠 부등식 3개짜리 기하적 증명" },
+    { "id": "xlkw2riz12c", "title": "[미적분] 삼각치환 적분법 (trigonometric substitution)" },
+    { "id": "fU_ctouez4U", "title": "[수학상] 페르마 포인트 (Fermat point)" },
+    { "id": "Z7VsTAmn5SM", "title": "[미적분] 기본 넓이 (삼각함수,지수로그함수)" },
+    { "id": "BifJuA1N170", "title": "[미적분] 삼각함수 탄젠트 덧셈정리 증명" },
+    { "id": "BZWeIbppYIE", "title": "[중등/기하] 데자르그 정리 (Desargues' theorem)" },
+    { "id": "8ePFJrpLrOk", "title": "[중등/기하] 심슨의 정리 (Simson' theorem)" },
+    { "id": "f6fyBpIyHt4", "title": "[수2/미적분] 원뿔의 부피 (구분구적법)" },
+    { "id": "Q6eY-AokEQY", "title": "삼각형의 넓이 공식 8가지~!" },
+    { "id": "0-YVD5wlenI", "title": "[미적분] 이상적분/특이적분 (improper integral)" },
+    { "id": "laOcbTgFBiU", "title": "[수학1] 밑에 따른 지수,로그함수의 그래프" }
+  ],
+  "playlists": [
+
+  ]
+}

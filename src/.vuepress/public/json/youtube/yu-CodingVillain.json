@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "CodingVillain",
+    "name": "코딩빌런",
+    "profile": "https://yt3.googleusercontent.com/HZU_TXXfXKBM2DXFH2VrMLvMzvP5-f-OW5YmvkGBasSl9rAfCr5Fzf7UNL714I8JcecCL7JwX5o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "PU_EBlEi5U8", "title": "\" 저절로 되는 거 아닌가요...? \"" },
+    { "id": "s6kMoZvqnHE", "title": "4. 파일 입출력 【내일은 파이썬】" },
+    { "id": "3W8B7ma7oFo", "title": "어텐션 쉽게 설명하기가.. 쉽지 않네" },
+    { "id": "dEsOGTCptbQ", "title": "【1:1파이썬 고수만】 애매한 문법, 10분만에" },
+    { "id": "NSLK1yDFesY", "title": "\" docker 대충... 쓸 줄은 알아요 \"" },
+    { "id": "oqUWug3hm_A", "title": "요령피는 파이썬 복사 기강잡기" }
+  ]
+}

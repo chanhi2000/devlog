@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "KhattakDev",
+    "name": "KhattakDev",
+    "profile": "https://yt3.googleusercontent.com/qLfhH8dDz2qdNme_GIPFDOP4sUWgSfXupmGg-s-tZ7wHa-Eb94pyfN9N3dxuRJbsptKyqbDo5w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-4KM_r4xgCqVJEC-IZyo9ct07QGj9uyspXFfqCrxjiuGfKz-0AEEK3RPrObovVrp9xBcsjACkQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0j9l3g0YZDI", "title": "Git MERGE vs SQUASH: All you need to know" },
+    { "id": "pQ7OLi0fdWo", "title": "The `@scope` rule - write better CSS" },
+    { "id": "7JyjujU5ds8", "title": "You can do more with JavaScript Console" }
+  ]
+}

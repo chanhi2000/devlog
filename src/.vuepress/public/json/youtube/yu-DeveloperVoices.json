@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "DeveloperVoices",
+    "name": "Developer Voices",
+    "profile": "https://yt3.googleusercontent.com/zaOXgUbVrS-dppHiZ2drFzEFLAu7-KwzjflXfuG618AuqufK1IFehnfYzOPGmds3zyliG2UxuTQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kOU7SXN7IIUUwK2GIjosSbzCUBbV4mT3vKDdVlwWG5eEerc98KAl90DxV5RbmnnLjxc0IVRj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UavYVf0UEoc", "title": "Advanced Memory Management in Vale (with Evan Ovadia)" },
+    { "id": "TBcWABm8Cro", "title": "Batch Data & Streaming Data in one Atom (with Jove Zhong)" },
+    { "id": "ZRWun2MjTEg", "title": "ByteWax: Rust's Research Meets Python's Practicalities (with Dan Herrera)" },
+    { "id": "CBUWcUuG6Ss", "title": "Designing Actor-Based Software (with Hugh McKee)" },
+    { "id": "NbOAEJrsbaM", "title": "Extending Postgres for High Performance Analytics (with Philippe Noël)" },
+    { "id": "xgzmxe6cj6A", "title": "Reimplementing Apache Kafka with Golang and S3" },
+    { "id": "IH2i1PgO7sM", "title": "The Inko Programming Language, and Life as a Language Designer (with Yorick Peterse)" },
+    { "id": "5NXvU17a-iU", "title": "Inter-System Messaging with NATS & Jetstream (with Jeremy Saenz)" },
+    { "id": "UmL_CA-v3O8", "title": "PyO3: From Python to Rust and Back Again (with David Hewitt)" },
+    { "id": "IGmwiyines0", "title": "Creating and Evolving Elixir (with José Valim)" },
+    { "id": "i9nFvSpcCzo", "title": "Zig as a Multi-OS Build System (with Loris Cro)" },
+    { "id": "4bpc8NpNHRc", "title": "The Magic of Property Testing" },
+    { "id": "A9he0682AK4", "title": "Neovim: Creating, Curating and Customising Your Ideal Editor (with TJ DeVries)" },
+    { "id": "BQG5dcIgDCk", "title": "The beauty of building things in Lua. #podcast #softwaredevelopment #neovim" },
+    { "id": "Ziy5Uo-6YsY", "title": "Fast iteration is a winning formula #podcast #softwaredevelopment #neovim" },
+    { "id": "EkndmJztyzU", "title": "How Apache Pinot Achieves 200,000 Queries per Second (with Tim Berglund)" },
+    { "id": "IxQ586TS8Gw", "title": "Taking Erlang to OCaml 5 (with Leandro Ostera)" },
+    { "id": "HXABdG3xJW4", "title": "Developing a Neovim Docker Plugin from Scratch" },
+    { "id": "P91XSggJemk", "title": "Bringing Pure Python to Apache Kafka (with Tomáš Neubauer)" },
+    { "id": "UBgam9XUHs0", "title": "Exploring Verse, Haskell, Language Design and Teaching (with Simon Peyton Jones)" },
+    { "id": "pZV9FvdKmLc", "title": "Implementing Hardware-Friendly Databases (with DuckDB co-creator, Hannes Mühleisen)" },
+    { "id": "GWt7VXm5tKM", "title": "How do refactoring tools work? (with Jonathan Schneider)" },
+    { "id": "7JpJg72mbqA", "title": "Bridging the Gap Between Languages (with Martin Johansen)" },
+    { "id": "wHJZ0icwSkc", "title": "Automate Your Way to Better Code: Advanced Property Testing (with Oskar Wickström)" },
+    { "id": "Q9t8oxD5Bs8", "title": "Creating Hackathons that Work (with Jon Gottfried)" },
+    { "id": "V7vhSHqMxus", "title": "Can Event-Driven Architecture make Software Design Easier? (with Bobby Calderwood)" },
+    { "id": "aKYdj0f1iQI", "title": "Is Odin \"Programming done right\"? (with Bill Hall)" },
+    { "id": "Nhb6qA1FF38", "title": "If Kafka has a UX problem, does UNIX have the answer?  (with Luca Pette)" }
+  ],
+  "playlists": [
+
+  ]
+}

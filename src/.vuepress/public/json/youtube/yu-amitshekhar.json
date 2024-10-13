@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "amitshekhar",
+    "name": "Amit Shekhar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lFHxOcyoZrFMloEQTAzcvLHICyYQHaMotHHVu9AIUuSvOu=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nIqZkU75ZFI-cj26vyRIq6maZWoQGihuubWPo86VuTLLj3Y3mNBBG7uAstWXXnA21JOBom9wVLI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bfpNDWNE6I0", "title": "open keyword in Kotlin" },
+    { "id": "kD2T84FnTck", "title": "reified keyword in Kotlin" },
+    { "id": "wOHpuf74-cI", "title": "internal visibility modifier in Kotlin" },
+    { "id": "IU2ZktdM-fo", "title": "lateinit vs lazy in Kotlin" },
+    { "id": "B4AfTPpCU5o", "title": "Launch vs Async in Kotlin Coroutines" },
+    { "id": "V2lL_aJp17I", "title": "Suspending vs Blocking in Kotlin Coroutines" }
+  ],
+  "playlists": [
+
+  ]
+}

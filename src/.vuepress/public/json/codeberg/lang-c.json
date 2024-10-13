@@ -1,0 +1,13 @@
+[
+  {
+    "repo": "dnkl/foot",
+    "desc": "A fast, lightweight and minimalistic Wayland terminal emulator",
+    "topics": ["lightweight", "minimalistic", "terminal", "wayland"],
+    "officialSite": ""
+  }, {
+    "repo": "201984/dut",
+    "desc": "A disk usage calculator for Linux",
+    "topics": ["c", "linux"],
+    "officialSite": ""
+  }
+]

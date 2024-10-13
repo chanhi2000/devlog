@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "myunggyunkim",
+    "name": "김명균",
+    "profile": "https://yt3.googleusercontent.com/T9tA70r5s362NXhdCzSyXh7VkLWytmuqXyAptUhcmF02pec33-LwlKG78fN5qSNlLj_AKGhbAA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jA-NN6cmV087rtnih9zEZLNUeobVVqpoR1xZjiW5n11obuVD1ELTHQfQsRtfrkfoG6u-b8YbpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ddlHDgvOb4s", "title": "GIS 정보 이용 계획" },
+    { "id": "mwQ5O-wQbtc", "title": "UnrealEngine GIS 정보 이용해보기" },
+    { "id": "BrZuEBygIQo", "title": "CodingTest Visualizing Burger" },
+    { "id": "HcKo7FbFCz4", "title": "Cuteguys 개발일지 16일차 인벤토리, 핫바 시스템 최적화-1" },
+    { "id": "xyzoBPoeD-M", "title": "Cuteguys 개발일지 19일차 (백엔드) 멀티플레이..문제로 인한.. RODUS이야기" },
+    { "id": "-sBQIyalMXc", "title": "Cuteguys 개발일지10일차 하울의 움직이는성 문, 3D아트 콘텐츠" }
+  ]
+}

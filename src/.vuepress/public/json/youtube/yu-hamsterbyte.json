@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "hamsterbyte",
+    "name": "hamsterbyte",
+    "profile": "https://yt3.googleusercontent.com/RhfYroZMPYNAsjanB74jrv8OGZwawsYZLsqi35sEUOlcvGrCBhsM8kbF7cvvQQYBxshdPXDgOlM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yoE5nWSI4CTrKpeORAMF4a_JVDnUyZBkU-3IbH4reuMUQMG7gBVQazZxNWB_fY15Bwe9Dr2yiA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HIMsfsbPoUc", "title": "Godot 4 C# - Ultimate Developer Console (Free Addon and Lesson)" }, 
+    { "id": "OiJmO2BRcVE", "title": "Wave Function Collapse Is A Thing - Godot 4.1 C# (Full Lesson)" }
+  ]
+}

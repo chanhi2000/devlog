@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "gorandev",
+    "name": "Goran Vasić",
+    "profile": "https://yt3.googleusercontent.com/N2vxHrOc8O2R9vc1rGOl8ghf0it1dNfG4zDka0sRzo6E8HTzLRwNqDlCZuBq3QfitQ1FH3T0Xw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "nbgPCMQ9xOE", "title": "Goran Vasic - Advanced Version Control with Git | Endava DevOps Academy, October 2020" },
+    { "id": "9UL0mmkK2qM", "title": "Goran Vasic - Continuous Integration with Jenkins | Endava DevOps Academy, October 2020" }
+  ]
+}
+

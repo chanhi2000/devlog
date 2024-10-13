@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "in28minutes",
+    "name": "in28minutes - Cloud Made Easy",
+    "profile": "https://yt3.googleusercontent.com/33H4JE7AgaOmwKz5yisVt1mHN-n43vfb7CY3BqZvhb6vBXkk3_DCopAWMty6-fBKBKZR9y5FSA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gNSPMZqFuw-m7IjWjAs8OD6vk7nOj-71nEKK-7JdTjsfY3XHRJhrSH3PW9eU8YcoMfz0jEU1Yg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Bp5O-Z7rUFU", "title": "Fastest Java Microservices Roadmap - with Spring Boot, Spring Cloud, Docker and Kubernetes" },
+    { "id": "Ba8t0iBQvRQ", "title": "Fastest Java Full Stack Roadmap (2024) with Spring Boot, React and AWS" },
+    { "id": "ceIDBBlh38U", "title": "Exploring Inheritance in Python" }, 
+    { "id": "Y3a5P846F3Y", "title": "Introduction to List Data Structure in Python" },
+    { "id": "07lY93HmrHw", "title": "Python Tutorial For Beginners - 200 Labs & Exercises" },
+    { "id": "EbB9UKJJH6Y", "title": "Object Oriented Programming - Python" },
+    { "id": "_Jk8Lm25fXQ", "title": "Introduction to Functions in Python" },
+    { "id": "nlnDbre1wto", "title": "Serverless Tutorial with AWS Lambda" }, 
+    { "id": "ueKwBqobijE", "title": "Deploying Spring Boot Apps to AWS using Elastic Beanstalk - First 10 Steps" }, 
+    { "id": "SWXuXhZkNQc", "title": "Java Full Stack Application With React And Spring Boot -  First 10 Steps" }, 
+    { "id": "PSP1-2cN7vM", "title": "SPRING BOOT Tutorial For Beginners" }, 
+    { "id": "tXgNqObj2WY", "title": "Master Spring Boot 3 & Spring Framework 6 with Java - New Course" } 
+  ]
+}
+

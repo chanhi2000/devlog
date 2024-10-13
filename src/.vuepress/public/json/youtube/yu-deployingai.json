@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "deployingai",
+    "name": "Deploying AI",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mrjO9OGCV3s4KL5FAO-JkZCuMMdHk-I8doHCLmp6C9osfz_JqGDDAT1lwVBwdRzZ35_w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Ec3e0dvPXE4", "title": "Build an Agent Workflow that Uses Reflection and Planning to Outperform a Complex Prompt" },
+    { "id": "YIdvcKHovjo", "title": "Stream an Agent to a Copilot UI with Groq’s Fast Inference (Llama 3, Groq, LangGraph)" }
+  ],
+  "playlists": [
+    {
+      "title": "Open LLMs",
+      "videos": [
+        { "id": "qvkXPt8lcEE", "title": "Run Code Llama 70B in the cloud" },
+        { "id": "37nf3VgjFCk", "title": "Use the OpenAI API to call Mistral, Llama, and other LLMs (works with local AND serverless models)" },
+        { "id": "cVkmLuYM-lY", "title": "Developing with local LLMs – comparing Mistral and Llama to OpenAI and Anthropic" }
+      ]
+    }
+  ]
+}

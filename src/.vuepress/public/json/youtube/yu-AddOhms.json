@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "AddOhms",
+    "name": "AddOhms",
+    "profile": "https://yt3.googleusercontent.com/yaFT7RP9s36cYrc6Ic6lT7zMSbrNyOUtoFqm75pOj9OGZDeiaDjRVdY7KQnCJQzftYuGIcS4SA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_9euDwbq2SdzLP4U6PMn9W_eec4Riu8eQtGyXneA08w52u_EWKyIPI4W3zg_Ez1HCKVNADehjw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fXpoaqKqsH8", "title": "Re-drawing Macintosh SE (Analog Board!) Schematic in KiCad 8!" },
+    { "id": "Ig94JM3rbs4", "title": "Okay NOW we can Finish redrawing TRS-80 MC-10 Schematic in KiCad 8.0.1!" },
+    { "id": "rAWEkzcq-tw", "title": "Solder logic analyzer adapter for the CERBERUS 2100 from @thebyteattic" },
+    { "id": "7C-bkFThrR4", "title": "Op-Amp Oops: Mistakes were made, let's talk about them." }
+  ]
+}

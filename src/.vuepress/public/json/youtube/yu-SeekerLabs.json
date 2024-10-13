@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SeekerLabs",
+    "name": "Seeker Labs",
+    "profile": "https://yt3.googleusercontent.com/-duVqyAZEPl1eUqZwmKazBj-BZw3aqQuYiHnVhl0UMr3px7-cqGgpfS7mYqxCwowvaD1U98Rduk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vyF6xpqhKIPS8QFN_a3haQW3tvX3CzxKZOPvaxzIps225401eUwKm5Dt3p5A4nqAui1MVBAN=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ThpnqYpvnIM", "title": "Setup a Docker development environment with PHP Apache & MySQL" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MrDevOps",
+    "name": "Mr. DevOps",
+    "profile": "https://yt3.googleusercontent.com/BVRNDifYINspJOSOH3UdNWQGuHdRLthPdwPF9VoG80oRIGpQzFE5Dxstbdh46bKSyOzHT4a3=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8LYFR-O51RPEjJeAUztslKkXHBTP08DKY8MjTmDQMnDFLHCJ569X5H77X4l6uf5ERehFPeMy_w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Yk7k3yEguQA", "title": "Mega Real-time End to End DevOps CI/CD Project | Git | Jenkins | Nexus | SonarQube | HandsOn Lab - I" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "yunjadong",
+    "name": "윤자동",
+    "profile": "https://yt3.googleusercontent.com/z-BUslX6sF5COeWAZ7wqzAxgsvnCJeuo2_fLvZlPtxdLwyv-YtqQIA0wObHcJr9e7hrnNZbD=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/83bQnkdfKm-4LeQ2R0eiDN1EFoF3OMZ8m_-CytjDK-o7rGqcgLQF2c3a8Kn2hXxZb06CN7BxXg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8xBa8bSUUxc", "title": "스마트폰 & 파이썬을 활용한 업무자동화" },
+    { "id": "KCUq25Quh-A", "title": "파이썬, VBA로 웹 자동화하기" },
+    { "id": "cBkqEqbkzLk", "title": "클릭만 하면 끝나는 업무자동화 배우기" },
+    { "id": "qEIO_GKq4Lo", "title": "엑셀에 인공지능 심어버리기(Google Gemini)" },
+    { "id": "_OEUvJMJPPk", "title": "직장인이 깃허브 코파일럿으로 생산성 2배 올리는 방법(GitHub Copliot)" },
+    { "id": "t1_beqHj4Xc", "title": "클로드 3(Claude 3) 유료버전 사용 후기(GPT4, Gemini 를 압도하는 성능)" },
+    { "id": "5f0_S_c41Mc", "title": "파이썬으로 AI를 내 실생활에 적용하기(통화녹음 자동 요약)" },
+    { "id": "YVQ9DscAQcs", "title": "코딩 몰라도 프로그램 만들 수 있다는걸 보여드림" },
+    { "id": "p9PjIAoRgLo", "title": "AI 기술로 유튜브 3줄요약 프로그램 만들기(OpenAI Whisper, Google Gemini)" },
+    { "id": "FkMC743suho", "title": "엑셀 VBA로 셀레니움을 활용해서 엔카 중고차 매물 크롤링하기 EP.09" },
+    { "id": "jTJ6LSqrtlo", "title": "재고관리 프로그램 사지 말고 직접 만들어 쓰세요. EP.11" },
+    { "id": "pvcKY3EB_D0", "title": "[엑셀] 클릭만 하면 하면 내용이 휙휙 바뀌는 엑셀 대시보드 만들기(초딩도 가능) EP.14" }
+  ]
+}

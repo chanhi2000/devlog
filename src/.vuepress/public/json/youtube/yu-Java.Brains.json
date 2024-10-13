@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "Java.Brains",
+    "name": "Java Brains",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMfMTo1BHE7IbKF06rZn0r9rgCI6tcsoCYHuIpcKw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8zzluWWLqLlR_3egW_7TgyPSP0ghc9b-kegsQJ6vt9waen64MOY8A9roEBJ9b8k61h7X0AURgg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W-tz6e-bBGs", "title": "4 Spring Boot Mistakes to AVOID in 2024" },
+    { "id": "YhwacibXrZA", "title": "npm prank gone wrong." },
+    { "id": "pp5jCWnGq_M", "title": "The thing about serverless..." },
+    { "id": "uezqS-2OwGM", "title": "Do these 5 things first" },
+    { "id": "NnFJCUPeDao", "title": "Hands on exercises" },
+    { "id": "6sgjRygYVJk", "title": "Top 7 Spring Boot Starters You Should Know in 2024 - Java Brains" },
+    { "id": "KxlUtvyQFt4", "title": "Java fail fast iterators explained! - Java Collections" },
+    { "id": "dpgwqStAj3k", "title": "Top 8 Spring Properties You Should Know in 2024" },
+    { "id": "-_3UeZcXd-I", "title": "Top 5 JUnit Tips You Should Know - Java Brains" },
+    { "id": "zgxf0eYqRSg", "title": "🔔 Top 5 mistakes with Java Sets!" },
+    { "id": "wf70Hs-aCcI", "title": "Top 10 Spring Annotations to know in 2024" },
+    { "id": "EBKhxwSqFUs", "title": "Stay backend-only or go full stack?" },
+    { "id": "9dhZ7MEtsrs", "title": "Using Environment object -  Microservice configuration with Spring Boot [09]" }, 
+    { "id": "-wDUChgvYgU", "title": "Spring Boot + Spring Security + LDAP from scratch - Java Brains" }, 
+    { "id": "TNt3GHuayXs", "title": "Spring Boot + Spring Security with JPA authentication and MySQL from scratch - Java Brains" }, 
+    { "id": "LKvrFltAgCQ", "title": "How to setup JDBC authentication with Spring Security from scratch - Java Brains" }, 
+    { "id": "8s9I1G4tXhA", "title": "How to configure Swagger in Spring Boot - Brain Bytes" } 
+  ]
+}

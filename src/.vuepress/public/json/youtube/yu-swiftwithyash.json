@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "swiftwithyash",
+    "name": "Swift with Yash",
+    "profile": "https://yt3.googleusercontent.com/IjA1Yg1wCQ3ZCAY5uoXJeb66bsepyKvnVTjN-9vRI_BZavdzF5ayP9VP6UVLP-zz9LOzsWHkSg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "WLwQE3f2ZYg", "title": "Easiest UIScrollView EVER 2022 (Xcode 13.3 & Swift 5.6)" }
+  ]
+}
+

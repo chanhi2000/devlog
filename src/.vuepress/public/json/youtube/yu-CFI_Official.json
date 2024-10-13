@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "CFI_Official",
+    "name": "Corporate Finance Institute",
+    "profile": "https://yt3.googleusercontent.com/25-6JtijxSQBRnV67LeOeYMU9bFPeGq9OONm-r0SaOZ3w3n7-cR33KESygsl_bUWVA1JwEd4Bw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YR4ke3P0DhBoAO1q3cyw84kka2jicQZLKQMq3EeXl4Nr9RfhgQj_uRXkD2TO1tYsd9Ekx4Pi=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XUWPtfMW7AE", "title": "COUNTIFS Function in Excel | Corporate Finance Institute" },
+    { "id": "LmM0PGnBvqw", "title": "SEARCH Function in Excel | Corporate Finance Institute" },
+    { "id": "jtU5MPtlPsw", "title": "OR Function in Excel | Corporate Finance Institute" },
+    { "id": "45zIJlV3jIM", "title": "SUBTOTAL Function in Excel | Corporate Finance Institute" },
+    { "id": "NrznQ7SaVSc", "title": "COUNTIFS Function in Excel | Corporate Finance Institute" },
+    { "id": "UPOtO5rlZN0", "title": "Essential Financial Ratios You Need to Know! | Webinar Recording" },
+    { "id": "rQsNwAfXQ-M", "title": "Today's Date Function in Excel | Corporate Finance Institute" },
+    { "id": "Ei5_U8iTCMg", "title": "COVARIANCE.P Function in Excel | Corporate Finance Institute" },
+    { "id": "FTHCWyI_XBc", "title": "NORMDIST Function in Excel | Corporate Finance Institute" },
+    { "id": "mOOeEn-w-ys", "title": "Max Function in Excel | Corporate Finance Institute" },
+    { "id": "F8997HDPxgE", "title": "Roundup Function in Excel | Corporate Finance Institute" },
+    { "id": "XBEzAhyLdHM", "title": "How to Insert Data from Picture In Excel | Corporate Finance Institute" },
+    { "id": "yVPJheH9qy0", "title": "NPV Function in Excel | Corporate Finance Institute" },
+    { "id": "iXI_Ms0Yg9s", "title": "AUTOSUM Function in Excel | Corporate Finance Institute" },
+    { "id": "n14cFA2Wkgs", "title": "Mastering Financial Statement Aggregation and Analysis with CFI" },
+    { "id": "UzsvTbqoVZg", "title": "Mastering FP&A: Transforming Data into Dynamic Insights" },
+    { "id": "j1q09W1O5fw", "title": "Demystifying Financial Distress: Career Insights from the Insolvency and Restructuring World" },
+    { "id": "RZpkSclbzvc", "title": "OFFSET Function in Excel: How to Use Offset Function in Excel" },
+    { "id": "fC3_xeuTebw", "title": "GPTs for Automation - Personalized Power Unleashed! | AI in Finance - Ep.10" },
+    { "id": "JCU1EnGZT-E", "title": "Enterprise Risk Management: Why you Should Consider a Career in ERM, with MCAN’s Aaron Corr" },
+    { "id": "RG-D08th4_E", "title": "Pros and Cons of Issuing Debt and Equity | Interview Prep Series - Ep.5" },
+    { "id": "9ikezO7G10Y", "title": "CFO Perspectives: Charting a Bold Path to Finance Leadership, with Bolanle Williams-Olley" },
+    { "id": "Mc_7stbtGaM", "title": "Emerging Specializations in Finance and How to Prepare Your Team" },
+    { "id": "b0RDnafUX_Y", "title": "Generation Why: Modern Management Challenges in Banking and beyond, with Karl Moore" },
+    { "id": "NmmKGKSkUiA", "title": "5 “Must-Knows” for a Successful Career in Equity Research, with Duncan McKeen" },
+    { "id": "U-pnEGDkuqk", "title": "Venture Insights: Professional Wisdom from Health Tech VC & Jiu Jitsu Legend Marcus Whitney" },
+    { "id": "GzkLRU-QR_Y", "title": "Forecast Sheet in Excel | AI in Finance - Episode 7" },
+    { "id": "5rk7X9vHWy0", "title": "Navigating ESG: an Insider’s Perspective on ESG Careers with Noah Miller | CFI Net Learnings" },
+    { "id": "kjoldYi7eH0", "title": "Excel Crash Course for Finance Professionals" }
+  ]
+}

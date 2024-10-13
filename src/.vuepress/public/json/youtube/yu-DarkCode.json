@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DarkCodeOnline",
+    "name": "DarkCode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSsXY9BojQQsD1g-Pr9R_dPTIJZdo-xLP2sOyyyOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3rqYVzrPtlJepKbfTeSNp6lX4q_eI3Uh1sp5LGyQS9PlZMVdMXDjvbPYTnvnJW3taLpcdBBcQQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9Irz0c-6UGw", "title": "Slideshow With Navigation Buttons Using Only HTML & CSS" }, 
+    { "id": "ooc6f1w6Mzg", "title": "Amazing Transparent Login Form Just By Using HTML & CSS" }, 
+    { "id": "QLiZ5VrhA98", "title": "Amazing Loading Animation Using Only HTML & CSS" }, 
+    { "id": "gnyYpX2nc1g", "title": "Awesome accordion menu using only HTML & CSS" } 
+  ]
+}

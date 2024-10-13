@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "nginx_official",
+    "name": "NGINX",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kR_TcH3hQSICW8OsyD5WWHNQ-NcMBPcw9FkklXng=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8rCr8lFPJIInkiDVnQ73LWNu56kKjncyRpirqfMHEHHnWXzerbQvzjgvUP63vQP-gLg8U0Or=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-G1NNn1K7V0", "title": "NGINX Community Talks OpenTelemetry - AppWorld 2024" },
+    { "id": "X7kXZx7jjZk", "title": "Empower App Developers With Self-Service Workflows Using Nginx Instance Manager Templates" },
+    { "id": "vOM-C_if_LY", "title": "NGINX Usage Reporting using HTTP Health Check" },
+    { "id": "5LozoXfwnlc", "title": "NGINX App Protect Release 5.x" },
+    { "id": "ot0lq8ljRkU", "title": "NGINX Usage Reporting using NGINX Agent" },
+    { "id": "x2LSSwSB9eo", "title": "Configure Native NGINX Usage Reporting" },
+    { "id": "XSu7e2B0CtY", "title": "NGINX One: Simplified Management for all Your NGINX Deployments" },
+    { "id": "S5UAXb8lGHM", "title": "Introducing NGINX One" },
+    { "id": "4Ikk-KJo3y4", "title": "WebAssembly Breakthroughs with Timo Stark" },
+    { "id": "ctvi9POSeOg", "title": "Get the Real Story: The Application Development Journey" },
+    { "id": "ZmyGJnAEDqI", "title": "Migrate Workloads with F5 NGINXaaS for Azure" }, 
+    { "id": "C5kMgshNc6g", "title": "Learn Proper NGINX Configuration Context Logic" }, 
+    { "id": "Q2iGx3iW-Mg", "title": "Install Kubernetes Ingress Controller with NGINX Plus" }, 
+    { "id": "Vbd0GCpktZU", "title": "API Autopsies Episode 4: Security | ShowCode Series" }, 
+    { "id": "tvSOwMJVwCc", "title": "Improve App Resiliency with F5 DNS Cloud Services" }, 
+    { "id": "hzBwITaPMuM", "title": "Introduction to Language Modules in NGINX Unit" }, 
+    { "id": "eEwjaiixSeQ", "title": "Explore the Config API and Unit Components" }, 
+    { "id": "voEn_eprn_U", "title": "A Guide to Adopting Kubernetes" }, 
+    { "id": "xTDcZNPPzXk", "title": "Fun ways to Script NGINX using NJS (NGINX Javascript Module)" }, 
+    { "id": "w8WqE0LgQBU", "title": "A Deeper Dive into WebAssembly, the New Executable Format for the Web" }, 
+    { "id": "ZQ4vKjlanaw", "title": "Securing Your Apps and APIs in the Cloud | NGINX Virtual Event" }, 
+    { "id": "AXZr2OC8Unc", "title": "Using NGINX as a Kubernetes Ingress Controller" }, 
+    { "id": "L7uvDF1EruI", "title": "NGINX Unit: From Zero to Lift Off" } 
+  ]
+}

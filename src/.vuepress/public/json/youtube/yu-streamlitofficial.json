@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "streamlitofficial",
+    "name": "Streamlit",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQmLHaJzUj80l56MBTt5xi3vgRIaTPni6qV-4VERA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yywUQ_ZU1Bna8IN8qnh_lHDMek4qjrEBHE3NI8SWwsvNO6H2JDw-nNnKTh9isz-PoZ8OmmSLWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qOeyKJXmAzI", "title": "Retrieval-augmented generation techniques" },
+    { "id": "WT4p8-5sOZE", "title": "Supercharge your Streamlit apps with real-time data" },
+    { "id": "hn2WqRX75DI", "title": "Build Interactive Geospatial Web Apps with Leafmap and Streamlit" },
+    { "id": "Y-QzrN1V8yU", "title": "How Microsoft is supporting AI innovation in the federal government" },
+    { "id": "UI4f4iiVT6c", "title": "Streamlit 101 - A faster way to build and share data apps" },
+    { "id": "-_mM_ctmOs4", "title": "Best of AI interviews" },
+    { "id": "XmD8kQH8rDE", "title": "Learning to Code with the help of Streamlit" },
+    { "id": "3lP8_Xw00mw", "title": "Multi AI agent systems with CrewAI" },
+    { "id": "MgLlEMteQqg", "title": "Building the Streamlit App Builder" },
+    { "id": "kOALKZvhMgQ", "title": "Optimize RAG with hybrid search and reranking" },
+    { "id": "88WOi43kZvk", "title": "Best of Data Science Interviews" },
+    { "id": "-yct0Qivpik", "title": "Building an Interactive EDA app with a Movies Dataset" },
+    { "id": "Dt1qXl3pupg", "title": "High-performance GenAI apps with NVIDIA" },
+    { "id": "fIUQch4RpAE", "title": "Develop enterprise-ready chatbots with Cohere Command" },
+    { "id": "dZevAJfguQw", "title": "Bring data to life with animated Vizzu charts" },
+    { "id": "dM_EOBQnh0k", "title": "Build Interactive Data Apps Faster with GitHub Codespaces + Community Cloud" },
+    { "id": "oRKjVfJfy3w", "title": "Building a career in open source with Hugging Face's Yuichiro Tachibana" },
+    { "id": "xqSwCLbzzxQ", "title": "Level up pandas dataframes with PyGWalker's advanced visualizations ✨" },
+    { "id": "T_ZmJecsqCs", "title": "Optimize Streamlit App Workflows with GitLab" },
+    { "id": "ZwOnB_uRdX0", "title": "Generating SQL Queries Using AI Agents" },
+    { "id": "58LClFx3WOY", "title": "Vectors and databases and retrieval, oh my!" },
+    { "id": "PLKkudXYCNI", "title": "Demystifying RAG apps with LlamaIndex!" },
+    { "id": "asFqpMDSPdM", "title": "Crafting a Dashboard App in Python using Streamlit" },
+    { "id": "YeKybAP_LYc", "title": "Introducing the State of LLM Apps 2023 Report" },
+    { "id": "WHTWO0IMh4w", "title": "Accelerating to Product-Market Fit with Streamlit" },
+    { "id": "4rXfdzEVSsY", "title": "Evaluating Prompts, LLMs, and Vector Databases" },
+    { "id": "mAbpqL53pPI", "title": "Incorporating Feedback into LLM Apps" },
+    { "id": "TlVM8fO02_c", "title": "Streamlit LLM Hackathon" },
+    { "id": "vzlQkAzWCeI", "title": "Build Streamlit apps in your browser with GitHub Codespaces" },
+    { "id": "J8TgKxomS2g", "title": "How to build a Llama 2 chatbot" }
+  ],
+  "playlists": [
+
+  ]
+}

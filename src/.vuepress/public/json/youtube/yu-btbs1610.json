@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "btbs1610",
+    "name": "BTBS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRoKcFySzP3E8HcQHkHCk_B75iV4i2UPgTXsNaN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/q1StflDffdm5zpaUMMRFHdxZkogBIHTFjw10Pd5ZHA7fKyT5xOZRuDGzB5a3ibD5bvGyj9hejw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TFy9uTheu0s", "title": "Ansible 다이내믹 인벤토리 개발하기" }
+  ]
+}

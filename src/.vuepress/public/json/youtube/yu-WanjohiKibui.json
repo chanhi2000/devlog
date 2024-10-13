@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "WanjohiKibui",
+    "name": "Wanjohi Kibui",
+    "profile": "https://yt3.googleusercontent.com/JOlfV08d9ZMhPW9XCcByQAXYdt8g-B0-2w6TwCIJl7GPf3uJLEzkExNxbyIvU2lksm-zKgBrcw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cQIL-CjDWlbMMLFmnxG8Bu1W4yqjTC7aO-c1sytKLD4cT3yj-6vQqWdl_-Z7C6x0n7Ohz3y2t_4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ccYhY_Uu2uU", "title": "Using QGIS Layer Styles in GeoServer" },
+    { "id": "Z2bMUsbuwvc", "title": "Beautiful Maps in GeoDjango (Location Fields & Widgets)" },
+    { "id": "n2wfjDxFp5g", "title": "GeoDjango Tutorial Series 2: Intro" }
+  ]
+}

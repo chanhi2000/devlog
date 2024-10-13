@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "arahansame9320",
+    "name": "arahansa me",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNnWgh5R5Z3G-XcWw91IJP-p-Ie1AyOkcUrgDu80uw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "C0BQplG7Epo", "title": "스프링 시큐리티 따라해보기" }, 
+    { "id": "0kEcPVUnaHA", "title": "초보 프론트엔드 시작해보기 -  Angular.js 댓글달기" }
+  ]
+}

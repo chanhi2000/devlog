@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "DelaroyStudios",
+    "name": "Delaroy Studios",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMzKlxHOy98ts1rXTr4Jw-6HjS1Tk5fROUgU8Q1JA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KoY4bTIwjVHMlWRUMHUofB-m4QHyqy-x58bOXtT2s25_k9xkXgVv1kSvJoxKAHxQIAeE30AlgA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FHUdofuSe2E", "title": "Jetpack Compose Animate State" },
+    { "id": "Vztk_frwhBQ", "title": "Creating Android BottomBar in Compose" },
+    { "id": "WKCFh-WPiLU", "title": "Android Jetpack Compose AnimatedVisibility" },
+    { "id": "WB2iEQuyWNI", "title": "ANDROID NOTIFICATION (Kotlin, channel ID and notification sound)" }, 
+    { "id": "ImaDVlnO4RA", "title": "USER AUTHENTICATION IN ANDROID USING RETROFIT AND SLIM FRAMEWORK PT2" }, 
+    { "id": "ARJuvp1doF4", "title": "ANDROID NOTIFICATION SCHEDULER" }, 
+    { "id": "YWRLxgZej6s", "title": "Generating a Signed APK Using Android Studio" }, 
+    { "id": "7yssjkFZU4o", "title": "ANDROID JOB SCHEDULER (SYNC SQLITE DATA TO MySQL DATABASE)" }, 
+    { "id": "sVq3E4dtdzM", "title": "ANDROID BOTTOMBAR" }, 
+    { "id": "cc7fexiXMQw", "title": "ANDROID TASK MAKER APP 5 (JobScheduler, CleanupJob)" }, 
+    { "id": "EFpm2wGbbTc", "title": "AUTHENTICATING USERS WITH ANDROID DEVICE CREDENTIALS" }, 
+    { "id": "imC5hg1P7wQ", "title": "ANDROID VERTICAL BAR CHART" }, 
+    { "id": "ad3aC4ddpEk", "title": "ANDROID MODEL, VIEW, PRESENTER PT1" }, 
+    { "id": "2nw2wfIfZhM", "title": "ANDROID GEOFENCE WITH REMINDER" }, 
+    { "id": "HjXlFkBWJCY", "title": "SHARED PREFERENCES TO KEEP USER LOGGED IN" }, 
+    { "id": "Lr62GxuChaM", "title": "ANDROID ROOM PERSISTENCE LIBRARY (CRUD)" }
+  ]
+}
+

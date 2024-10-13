@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "nossi-dev",
+    "name": "개발남노씨",
+    "profile": "https://yt3.googleusercontent.com/r4xi9tVBhgcy0fBpKwPObM4FHShnK31rBquxwdAtJTx3JtvZMe9HDwvsfhDJyj21l58kUZVQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5W-NYCXjSwGxoJW1hjpbxcJHWavSxEN6ty862FEz8NvVPCt_AxzwBYYlD53UEjxmI-okR0VznXw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mcydZ8aXcXM", "title": "2024 카카오 인턴십 코딩테스트 대비 TIP" }
+  ]
+}

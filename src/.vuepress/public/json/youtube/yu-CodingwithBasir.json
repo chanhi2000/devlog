@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodingwithBasir",
+    "name": "Coding with Basir",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMbpbURc-cUHV7biPAsHi7GkgRkQeYPbvW1xH9XXQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lW1RXwu4EM-UZ9_YjwtDflRcoeo07YyTXTEABgvVEd_QvYDJ5qti7bjKWR2I_wciaXYcXc9StA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Fy9SdZLBTOo", "title": "React & Node Tutorial For Absolute Beginners - Build & Deploy ECommerce Website in 5 Hours" }
+  ]
+}

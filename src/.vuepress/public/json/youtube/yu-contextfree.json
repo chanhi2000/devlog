@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "contextfree",
+    "name": "Context Free",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMJaEzNh0UbDbiSNuPlaQ9Rbju_KFX19F8I3kiZ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eCjAsCs6LHJLq_1pEJ9OeXcSjyn13PJtC95bAdqCT0vcgcs8HhcpuDSlmEF9r2eSt8nO5b4p=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "c2TOIGcmQ7A", "title": "6 Programming Languages in 1 Godot Game! Trying out GDExtension!" },
+    { "id": "RRgFBrhml-c", "title": "Structs and GC vs RC ripple effects" },
+    { "id": "5N-h-rJ_XAY", "title": "Making a language: Structs as Named Args (and also some recursion)" },
+    { "id": "L_cquGM9BYw", "title": "Past the \"Top 10\"! - 2023 in Programming Languages" },
+    { "id": "7jv73TjViAo", "title": "Godot's GDScript for Programmers: Static Types & Memory Safety" },
+    { "id": "LOiJK5U1WD0", "title": "Making a language: Pretty if/else branching" },
+    { "id": "vHTduiWr3_E", "title": "Running WebAssembly from my hobby compiler!" },
+    { "id": "VhCgep06-I8", "title": "Browserless app runtime in Rust - Demo app in Zig - Wasm/WebGPU" },
+    { "id": "I-tN3dS2zwA", "title": "4x shorter WebGPU access from Wasm, featuring Nelua, Zig, & Rust" },
+    { "id": "2bvltIjqrRg", "title": "Starting my own hobby language (again)" },
+    { "id": "8-kazxQBolM", "title": "Using COBOL to make a video game!" }, 
+    { "id": "dizO_5g3K5Q", "title": "Int overflow (or not) in C++, Ruby, Zig, Rust, & Pony" }, 
+    { "id": "O4V-s9YntNk", "title": "Test driving Go 2 Go Generics" }, 
+    { "id": "olM7o_oYML0", "title": "C++20 & Rust on Static vs Dynamic Generics" } 
+  ]
+}

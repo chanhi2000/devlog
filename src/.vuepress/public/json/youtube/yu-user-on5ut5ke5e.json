@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "user-on5ut5ke5e",
+    "name": "출판사그래",
+    "profile": "https://yt3.googleusercontent.com/TsbULB6ixCRuW4RFuOeBIwcO58owrO1ma6Npr9H-15Qhp_s4CZcG12IPUCp5oEfbw6B-4xHbBA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TpFKk8B1zaSTL4wxTqP4DyZWmcpfWPW0cDD1Yq8jLvPvXBcLThw79-UCO41wruBk0oMAyvEiPA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "y6MYN1eLzK4", "title": "보카바이블 4.0 입문강의 press" },
+    { "id": "yO16uXqwgwQ", "title": "[혼공일지]OPIc 영어 4문장 외우기 Challenge P121 2023.12.04(월)_2" },
+    { "id": "GEhwvuo0C4w", "title": "[혼공일지]OPIc 영어 4문장 외우기 Challenge P124 2023.12.08(금)_2" },
+    { "id": "a-03Ay9MXV4", "title": "[혼공일지]OPIc 영어 4문장 외우기 Challenge P124 2023.12.08(금)_1" },
+    { "id": "wEj-F3YGrjc", "title": "보카바이블 4.0 입문강의 -struct, -stru" },
+    { "id": "cs2r9pY7vUo", "title": "[혼공일지]OPIc 영어 4문장 외우기 Challenge P125 2023.12.10(일)_2" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "TutorialEdge",
+    "name": "TutorialEdge",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOQdCcPsFasIlg37yPSE-C0PqoPevHyp8E3IBbpsg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TnLN7f0YMUEdeyaFNkZt1Rj5X4K1XQRddlh3y2jl6br_-p7s_VR7qJHOL8rLTZ564v5g1nar=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1C3Ym_JjkMw", "title": "Beginner's Guide to Redis with Go!" },
+    { "id": "tgLvIghsJFo", "title": "Building REST APIs in Go 1.22 - New Features" },
+    { "id": "UVfXsyHaDGc", "title": "Beginner's Guide to Unit Test Logging in Go" },
+    { "id": "MAdwtwHzGP4", "title": "Improve Your Go Tests with TestMain" },
+    { "id": "M6y48iC8Clc", "title": "Joining Error Values in Go with `errors.Join`" },
+    { "id": "DMha2HRI5lE", "title": "Supercharge Your Clients - The Functional Options Parameter Pattern in Go!" },
+    { "id": "5tvv4_lu6HI", "title": "Getting Started Developing and Deploying Microservices in Go with Encore.dev#" }
+  ]
+}

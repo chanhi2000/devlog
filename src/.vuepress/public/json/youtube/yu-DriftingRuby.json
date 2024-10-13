@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "DriftingRuby",
+    "name": "Drifting Ruby",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR5EqHKSbl2iNsNHc6U9cMikp6A7yxPcIBnP4EuAw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9TRTsP4huIr2Rr7pagsEqf0Dl1ba38-4uEjfwGqDfKVrzFCBIBgWvco9y4g8lvllNzQHHtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RC6z97whpM8", "title": "Episode #467 - Kanban from Scratch | Preview" },
+    { "id": "10tc0Sa59No", "title": "Episode #468 - Processing Large Jobs" },
+    { "id": "awJ4Ia8-GQk", "title": "Episode #469 - Kanban from Scratch Part 2 | Preview" },
+    { "id": "wm6aNQolLgg", "title": "Episode #470 - Have I Been Pwned | Preview" },
+    { "id": "Ki_yjC2DMAs", "title": "Episode #463 - Using LLMs to Generate Tags | Preview" },
+    { "id": "Z1Id6Jv-qGc", "title": "Episode #464 - Ttracking Writebook Changes" },
+    { "id": "M1w5Dov-qsc", "title": "Episode #466 - Soft Limits | Preview" },
+    { "id": "8EvDNRBkSO0", "title": "Episode #458 - Feature Flags from Scratch | Preview" },
+    { "id": "lkLnVFoO2JY", "title": "Episode #459 - Hotwire Combobox" },
+    { "id": "selh7g9-55k", "title": "Episode #460 - Stripe Billing Portal | Preview" },
+    { "id": "0X7-9NTsk3I", "title": "Episode #462 - From Heroku to Kamal | Preview" },
+    { "id": "HenARRvcgGk", "title": "Episode #454 - Dev Containers | Preview" },
+    { "id": "dRkm0b048h4", "title": "Episode #456 - Custom Fonts | Preview" },
+    { "id": "W7NZg6cGnEI", "title": "Episode #457 - Class Data" },
+    { "id": "eDs3hnUdxLI", "title": "Episode #453 - Exporting ICS Files | Preview" },
+    { "id": "rPgA9QXp_MY", "title": "Episode #446 - LLM Context | Preview" },
+    { "id": "sFEZI__qblA", "title": "Episode #447 - Bulk Updates | Preview" },
+    { "id": "vjVTUcHiHQE", "title": "Episode #448 - Authentication Timeout" },
+    { "id": "AZY1TeQELz8", "title": "Episode #449 - Previous/Next Record | Preview" },
+    { "id": "AGEydk5d7Uk", "title": "Episode #450 - Fart" },
+    { "id": "ls_70c_Z6Lg", "title": "Episode #451 - Windows and WSL" },
+    { "id": "8VQFqZDSkJg", "title": "Episode #439 - Exploring Campfire" },
+    { "id": "C4NEYSQ3XzM", "title": "Episode #440 - Campfire Deploy with Kamal | Preview" },
+    { "id": "iAS4o6hG4K8", "title": "Episode #441 - Campfire Patterns" },
+    { "id": "dxj0nEDOTrU", "title": "Episode #443 | Reloadable Fixtures | Preview" },
+    { "id": "RX6xGTLJWL4", "title": "Episode #444 - Campfire Bots | Preview" },
+    { "id": "SCzzonmyPqM", "title": "Episode #433 - Custom Dashboard - Part 2 | Preview" },
+    { "id": "d7lEIHBjGzg", "title": "Episode #434 - Digital Ocean App Platform | Preview" },
+    { "id": "dSTyFMFJUoc", "title": "Episode #431 - Hotkeys" },
+    { "id": "5AkIe_qP8v4", "title": "Episode #422 - Embedding Stripe Checkout" },
+    { "id": "g7z2ZPzT3Bc", "title": "Episode #417 - System Tests" },
+    { "id": "Rz0mqghtweU", "title": "Episode #413 - PDF Reader" }
+  ],
+  "playlists": [
+
+  ]
+}

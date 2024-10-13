@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "amol_",
+    "name": "Amol kumar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mP5egjvsJ5z1r704lW3zzSjGmuMDKon76hGA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xs-51-adCgcbVLv0o4XczZ40vY353m2Fc8MDf0loQCtbSXLxo-z4CvpbTFfI5chQ7yUeYEXg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H1SmCoirFCo", "title": "OAuth 2.0 Refresh & Access Token Setup with PKCE Flow | Spring Boot Security Tutorial" },
+    { "id": "GsIO3R_mF0M", "title": "OAuth 2.0 Role Based Authorization Using Spring Boot | Spring boot Security Tutorial | Part - 3" },
+    { "id": "OYvm0ZalLrM", "title": "Learn How to Setup React Context API With useReducer | State Management | Best Practice | Hindi" }
+  ],
+  "playlists": [
+
+  ]
+}

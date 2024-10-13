@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "trustinlee",
+    "name": "Trustin Lee",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM9gwr_NpNs369zbHRyt3zdOqynj_-x_g-va1XYWg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GeJQsfYruMQScd0llHWfPQIVk0WhA2BNau_fLzzwRgHQou-3FMRdJFaP7f-YMFqD2rr8oFEV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PHL9EjkGBwM", "title": "51: GitHub Actions Self-hosted Runner를 위한 auto-scaler를 디자인하자" },
+    { "id": "1s_NdNEygGY", "title": "52: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 1" },
+    { "id": "4g9EPJxxGtA", "title": "53: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 2" },
+    { "id": "FT4_DSetr5c", "title": "54: GitHub Actions Self-hosted Runner를 위한 auto-scaler 개발 3" },
+    { "id": "EbOBropPOOQ", "title": "49: Project Reactor에 PR을 보내 보자" },
+    { "id": "w3grWtoSAuo", "title": "50: Project Reactor에 보낸 PR follow-up하고 NullAway 적용해 보자" },
+    { "id": "5Wl6yyuC1O8", "title": "47: Virtual thread 로 만든 ExecutorService 안전히 종료하기" },
+    { "id": "FtSHkUyzPwQ", "title": "켠 김에 PR까지 42: Thread pool 을 만들자 14부" },
+    { "id": "h0InAgN2MdY", "title": "켠 김에 PR까지 43: Thread pool 을 만들자 15부" },
+    { "id": "2Zto_nMOROM", "title": "켠 김에 PR까지 44: Virtual thread 지원하는 Thread pool 을 만들자 16부" },
+    { "id": "0dJDCHwzKh4", "title": "켠 김에 PR까지 45: Virtual thread 지원하는 Thread pool 을 만들자 17부" },
+    { "id": "TQ2YpQelueI", "title": "켠 김에 PR까지 46: Virtual thread와 Platform thread를 모두 지원하는 Thread pool을 만들자 18부" },
+    { "id": "bFAKytCnVpU", "title": "켠 김에 PR까지 39: Thread pool 을 만들자 11부" },
+    { "id": "9SW3yAywtdM", "title": "켠 김에 PR까지 40: Thread pool 을 만들자 12부" },
+    { "id": "D_4n_JwyroU", "title": "켠 김에 PR까지 41: Thread pool 을 만들자 13부" },
+    { "id": "4LS2YoJ5n-w", "title": "켠 김에 PR까지 38: Thread pool 을 만들자 10부" },
+    { "id": "yk9iDvql5tE", "title": "켠 김에 PR까지 37: Thread pool 을 만들자 9부" },
+    { "id": "pefdbe3WmoM", "title": "켠 김에 PR까지 35: Thread pool 을 만들자 7부" },
+    { "id": "I5aG3yH_TJs", "title": "켠 김에 PR까지 36: Thread pool 을 만들자 8부" },
+    { "id": "lo5nUgATFe4", "title": "켠 김에 PR까지 34: Thread pool 을 만들자 6부" },
+    { "id": "oQ8aDH2O-1E", "title": "켠 김에 PR까지 33: Thread pool 을 만들자 5부" },
+    { "id": "gE3Wx1SEcSM", "title": "켠 김에 PR까지 32: Thread pool 을 만들자 4부" }, 
+    { "id": "--1ECqZEB_Y", "title": "켠 김에 PR까지 30: Thread pool 을 만들자 2부" },
+    { "id": "YVrFretPo8M", "title": "켠 김에 PR까지 29: Thread pool 을 만들어 보자~" },
+    { "id": "qr2sPJEqmgc", "title": "켠 김에 PR까지 28: Semantic Versioning 2부 - revapi 로 breaking change 를 감지하자!" },
+    { "id": "4Re2eUsrgvQ", "title": "켠 김에 PR까지 20: Testcontainers 로 통합 테스트 맛보기" },
+    { "id": "5UltOhDOjr0", "title": "켠 김에 PR까지 18: JMH 와 async-profiler 로 병목 지점을 찾아 보자!" }, 
+    { "id": "9R8Oo0mVAMU", "title": "켠 김에 PR까지 4화: Token Bucket 구현" }, 
+    { "id": "qqZnB8gm1W8", "title": "켠 김에 PR까지 6화: Postlight Parser로 웹 문서 본문 추출하기" } 
+  ]
+}
+

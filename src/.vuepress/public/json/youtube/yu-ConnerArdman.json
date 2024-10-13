@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ConnerArdman",
+    "name": "Conner Ardman",
+    "profile": "https://yt3.googleusercontent.com/OG7FMfG_isZdrfTKY10oxi-jh64kmdV2mLeyLvf2whGaqAxqPVYCqcB2cpRL4NQ8i8USGYqH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hoAtGvpQ477GKd8tpRmRVC6OWRiRA_2sx4PLhHORarT329xD_qekweIX7xXspsOsssMCV4qY36g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zjKpJu_UDV8", "title": "ex-FAANG Developer vs \"Impossible\" JavaScript Quiz" },
+    { "id": "Y5M2tEt1Xc8", "title": "Ex-FAANG Software Engineer - Ask Me Anything! 🔴" },
+    { "id": "vcRD4pyXCz0", "title": "The Devin \"AI Software Engineer\" Scam" },
+    { "id": "81MsKF4H818", "title": "Can You Solve This Hard JavaScript Question?" },
+    { "id": "2Z4ERR1UUmQ", "title": "Stop Writing Ambiguous Code!" },
+    { "id": "F7veNmmUZy8", "title": "My Favorite Code \"Anti-Patterns\" (Break These)" },
+    { "id": "6aHlgT8-jLU", "title": "Meta's \"Tailwind Killer\" Is Almost Perfect..." },
+    { "id": "TXtnFw9eDmM", "title": "I Tried Every AI Coding Assistant" }
+  ]
+}

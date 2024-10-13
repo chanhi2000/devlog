@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "alexandrugutan7587",
+    "name": "Alexandru Gutan",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObi7nAoKgiCbeC73v-r05wNS67YVWNq3NIghd87Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9yaa2OS-0Mk", "title": "Istio install with Minikube and first look at traces" }, 
+    { "id": "1XXRXqQdu_A", "title": "Clean Architecture with NodeJS/Express" } 
+  ]
+}

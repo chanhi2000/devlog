@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "be9952",
+    "name": "KBS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMviGdZgk1NrvRA8075o9E6EU9KCwcojEkwGNI3SA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "UF2Giz9PE-E", "title": "AWS CodeDeploy와 Github Actions를 이용한 CI/CD 구축" }
+  ]
+}
+
+

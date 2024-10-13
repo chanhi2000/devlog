@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "glich.stream",
+    "name": "glich.stream",
+    "profile": "https://yt3.googleusercontent.com/MTTZTXsKybUi6zLJuwX59MUzXmby32-Uzyf3cMgK50TNNy8vEdipi-h6AhY233ugIxGw5F0D0A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IdFqRdTlHu5M1GPRNagUpq9wTLAGwSFa7topzW3H83GmaM-ciIqPFUBOaEu8etEBhTM6RrGsVw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pXNWAeM9Z4o", "title": "Debugging and troubleshooting complex software failures!" },
+    { "id": "fsp0ZTiMjYY", "title": "The programmer's identity crisis" },
+    { "id": "Czkk5qcDJ_0", "title": "10 patterns to level up your Bash scripts" },
+    { "id": "LKoZuIcWdvA", "title": "I h@te slide decks ❌" },
+    { "id": "LBSu4dfTZjI", "title": "10 things I would look for in a new tech job" },
+    { "id": "ViLTKCn23Qo", "title": "Level up your terminal setup game || For beginners" },
+    { "id": "Nn9Bv7_UCn8", "title": "Working on open source tools" },
+    { "id": "VJB-TYo9_DY", "title": "Learn git by BUILDING IT From Scratch! (Part 1) Understanding the git internals [Advanced]" }, 
+    { "id": "kpSJHtPOSLY", "title": "Building a GitHub CLI extension in Go (Part 5)" }, 
+    { "id": "5wA0wwZ8FuU", "title": "Building a GitHub CLI extension in Go (Part 2)" }, 
+    { "id": "s7AGkcSMiaI", "title": "GitHub Copilot X tested with REAL scenarios" }
+  ],
+  "playlists": [
+
+  ]
+}

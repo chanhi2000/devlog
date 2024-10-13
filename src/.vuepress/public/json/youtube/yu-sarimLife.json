@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "sarimLife",
+    "name": "Sarim Khan",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPkEfoO1PMO90I8yuqlfr2LE8qJVaDNGLOCdc6hmQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SSdom6sjXFLivucE0o_4yZ4_lLufZTlx4oBTShVdn-uo9uTcsJHqAMHI55DzSuwo9uj44f_l=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cRbY7hG4owM", "title": "Mastering SwiftUI Gesture Recognizers - Tap, Swipe, and Beyond!" },
+    { "id": "2UnNLqKAtyU", "title": "SwiftUI Views: Mastering Text, Image, and Fundamental Components | SwiftUI Tutorial" },
+    { "id": "D_v9E8ah_Yc", "title": "Mastering SwiftUI Layouts: A Deep Dive into HStack, VStack, and ZStack | SwiftUI Tutorial" },
+    { "id": "w8shW0jqjQY", "title": "Mastering SwiftUI Modifiers: Elevate Your UI with Custom Styles | SwiftUI Tutorial" },
+    { "id": "GN-UnLZdP-k", "title": "SwiftUI Lists and Navigation: Mastering Dynamic UIs | SwiftUI Tutorial" },
+    { "id": "NhWhm6p6fUQ", "title": "SwiftUI Forms and Controls: Building Interactive UIs | SwiftUI Tutorial" },
+    { "id": "yBcAIJsgRIs", "title": "Swift part -2 Data types and operators #shortvideo #shorts #programming" },
+    { "id": "Cc03h0CQKqs", "title": "Swift dictionary operations #shortvideo #coding #appdevelopment #ios #swift  #dictionary  #array" },
+    { "id": "oYKWiH0kOrA", "title": "Swift Dictionary #shortvideo #coding #programming  #code #android #appdevelopment #dictionary" },
+    { "id": "qiWGisQGjuo", "title": "Swift array operation  #shortvideo #coding #programming #code #android #appdevelopment" },
+    { "id": "tfKKb0XPt9o", "title": "Swift ARRAY #shortvideo #ios  #coding #shortvideo #code #programming #android #appdevelopment #array" },
+    { "id": "dzDMACue28E", "title": "📱 SwiftUI + 🕵️‍♂️ Vision Framework = 🖼️ Image Classification Fun! 🚀" }, 
+    { "id": "azKGflQsstU", "title": "SwiftUI Stock App Development - Part 1: Creating a Powerful Ticker Search" }, 
+    { "id": "K5KUZdqUVQ8", "title": "SwiftUI Stock App Tutorial - Part 4: Displaying Gainers, Losers, and Most Active Stocks" }, 
+    { "id": "XMmgzQG_DLw", "title": "Swift Stock App Tutorial: Part 6 - Forex Exchange 📈" }, 
+    { "id": "gOxb5sqrSQA", "title": "📈 Swift Stock App Tutorial: Part 7 - Mastering Forex Exchange 💹🚀" }, 
+    { "id": "XmvkNIRdqBQ", "title": "Android Testing(Espresso) Part 1" }, 
+    { "id": "toEiAPyuTvI", "title": "Android CryptoCurrency App part 4 (Dagger,Kotlin,RxAndroid,MVVM)" }
+  ]
+}

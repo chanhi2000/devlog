@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "VoidRealms",
+    "name": "VoidRealms",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTsWBIPIeTGtsduYSyPz39FAyhmB9ipkY2K2Oj-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SloWSm_vO-49rWAQXGifgcbMZZ0m_-uqIAtIVjjUolnBCAlAqds6EUAZuiVB2i8xQklQu5tz-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JztwBtE8uWE", "title": "Filtering and paging data using Qt models" },
+    { "id": "aIIL-wG5DkM", "title": "Qt vs Flutter - 2020" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "lansunstudio",
+    "name": "IAN STUDIO {랜선 스튜디오}",
+    "profile": "https://yt3.googleusercontent.com/Kp8W8rwib7UUwd7ZpC3rMxQRjcsVyqTc6l81UvmZxkJW7UZwguc1f3HhPzgFr_WEKtaCTAv3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hyIoPMXri-s", "title": "쿠버네티스를 Azure & Ansible로 설치, 13분만에 살펴보기" }
+  ]
+}

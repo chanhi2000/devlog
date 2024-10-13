@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "JessiesFlying",
+    "name": "Jessie's Flying",
+    "profile": "https://yt3.googleusercontent.com/JXMR_1VweG73Xr2Q6EGcKCqE01WzHRoxqC1nmdQnTsKXeed8oOrJNB3WEZ49zAPhEvsToZMzPGY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EzlJHpkwJHDxJ7rtwtRs8GhHQvmas-yNV6ro-DyFdUjzd7U4fMP0n8_vU9UYW_wniNS_ZvaVlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KwMCiZ3iQH8", "title": "macOS 14.4 tested on ALL UNSUPPORTED MACs with OpenCore Legacy Patcher 1.4.1!" },
+    { "id": "Z4LyRhIZamU", "title": "macOS 14.3 with UNSUPPORTED MACs - KDK needed?" },
+    { "id": "QC7yJdhf33k", "title": "How to repair a Fusion Drive (or split it up)..." },
+    { "id": "VcBVrAy3yRQ", "title": "macOS 14.3.1 tested with ALL UNSUPPORTED MAC generations - and what about BETA?" },
+    { "id": "RbPfYSnWlE4", "title": "ChromeOS on older MacBooks?" },
+    { "id": "cLAX7zGAUig", "title": "macOS 14.2.1 tested with ALL UNSUPPORTED MAC GENERATIONS!" },
+    { "id": "VdbqINJDHLM", "title": "Error updating to macOS 14.2? Is it worth for iMac 2017?" },
+    { "id": "fhQ7SWhRakU", "title": "Update to macOS 14.1 is stuck? Here is a solution!" },
+    { "id": "mNcjmvzS0Vo", "title": "UNSUPPORTED MAC stuck after Root Patch? Here is a solution!" },
+    { "id": "hCTDnlgNF38", "title": "macOS 14 Sonoma with UNSUPPORTED MACs? | Boot Loops on MacPro | OpenCore Legacy Patcher 0.6.7 Update" },
+    { "id": "LGwYhmKMAfc", "title": "Is the classic MacPro finally usable with Ventura? 2 Weeks of results wrapped up!" }, 
+    { "id": "QULqLi2FTJk", "title": "Why 0.6.6 is the BEST OpenCore Legacy Patcher!" }, 
+    { "id": "fjCz5aqNxPo", "title": "MacPro 2012 FASTER than LATEST Intel MAC!!!" }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TheRoyalInstitution",
+    "name": "The Royal Institution",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mWDIa5RH_IBvAIsPiFNm3nrdu5ntlffMUgK9rqXA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iW3IQWWHd9HNglOSeVrDFzqsluXSzdc7PXGAJ16IUyDzn5OIQOHVLQwLdv3idAfqzuPDC8KkmQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JfJWOgJF_KA", "title": "The future of measurement with quantum sensors - with The National Physical Laboratory" },
+    { "id": "AZ2795tqxkY", "title": "3D printing artificial organs - Dr Antonia Pontiki at Ada Lovelace Day" },
+    { "id": "5yoGKhzAoHE", "title": "Making Bayesian statistics fun - With Sophie Carr at Ada Lovelace Day" }
+  ]
+}

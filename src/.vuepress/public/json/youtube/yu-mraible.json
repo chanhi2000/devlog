@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "mraible",
+    "name": "Matt Raible",
+    "profile": "https://yt3.googleusercontent.com/rDTwiEtDxMTgey9ba0sofIzIWzfuntNDwY5K-32x0hw47Ekl8wxaw8RuWgr_FXrrKG_voqfr=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j8o1Q4zLTnQZSv7Jp_PyukugTwtMkmYK9FJlii2nRbtI6r-GNGurOqrE_KwYm6YTtW8NjuQz3ok=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IfyjKCt6YHE", "title": "Get Started with JHipster 8" },
+    { "id": "XRREt1KB4Y8", "title": "Get Started with JHipster 4" }
+  ],
+  "playlists": [
+    
+  ]
+}

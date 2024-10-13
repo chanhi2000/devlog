@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "Steve8708",
+    "name": "Steve (Builder.io)",
+    "profile": "https://yt3.googleusercontent.com/upt4Rh5Qu62G21t-VjdHY8-xqG6j6U1lrmoMCgqOw10BQ7pUwu23Z0QTXWnJ5b6hUc-JQsIG=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-zKnSjYoylZNCnoY26ROf9HRY1Z-p6-igAm_z6lC0-YSF9r5MZ1ZFJi7M1dyF4XOZENGZUrb=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V3uiKM2TXNY", "title": "How To Build AI Products That Don't Flop" },
+    { "id": "xyQSRy0XsPM", "title": "A Better Way to fetch() in JS" },
+    { "id": "-TFKheSjdJo", "title": "Easily give fetch() timeouts, type-safety, and better error handling" },
+    { "id": "tEmEyW8jZL0", "title": "Mitosis finally has a website!" },
+    { "id": "n6uhqo8mSJ8", "title": "Introducing Micro Agent: An (Actually Reliable) AI Coding Agent" },
+    { "id": "owqH_L5e84g", "title": "Is AI coming for developers jobs?" },
+    { "id": "rM_rDBWQTBk", "title": "Let's build a feature, live!" },
+    { "id": "IVhwW1JkULo", "title": "Let's build a polling mechanism" },
+    { "id": "IVhwW1JkULo", "title": "Let's build a polling mechanism" },
+    { "id": "_Zy43YofawY", "title": "Let's build a serverless data storage API and React UI client in a real production codebase" },
+    { "id": "XttCF9pfxDk", "title": "Let’s bring our full stack React + Node API feature from prototype to production" },
+    { "id": "LIKxkSzHqeo", "title": "Announcing the official Qwik + Astro Integration" }, 
+    { "id": "G3TZpA0Mi_A", "title": "Create a custom GPT from a URL in 2 minutes" },
+    { "id": "gWw-DsSZVrQ", "title": "Make an Animated Menu like Stripe with React, Tailwind, and AI" },
+    { "id": "dwoqFo-6T8I", "title": "Top tier debugging as a senior developer" },
+    { "id": "BnniZ3crmcs", "title": "the ai is learning how to REALLY program..." }, 
+    { "id": "sGdW4Amolq4", "title": "A cure for React useState hell" }, 
+    { "id": "MtNAdeEV1Gk", "title": "TypeScript utility types you need to know" }, 
+    { "id": "bGhUyJE2bCk", "title": "Be careful with the `as` keyword in TypeScript" }, 
+    { "id": "XK0V0E3bA-M", "title": "Deep cloning objects in JavaScript with structuredClone" }, 
+    { "id": "Wxlhtubs2FU", "title": "AI + VS Code = 🤯" }, 
+    { "id": "nTqDhv447GA", "title": "Introducing AI Shell: convert natural language to shell commands" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "marearts.",
+    "name": "MareArts",
+    "profile": "https://yt3.googleusercontent.com/erEfwTFw5p8fYoM6u33a9IazQ8mk_0kBCzmMSi4YCv0E1FvGsX35OAhDX0LyBh2WY9fc3eXXqo8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/I-RKTuMLadlj_CRPTQlLcOGyjGj2aXNnwmMlEfgeAq1QGY4Q-4_yw1AA6m8uupDnPP6hfpfCVA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M6vw3pL47Jk", "title": "python widget implementation for unreal engine" }
+  ]
+}

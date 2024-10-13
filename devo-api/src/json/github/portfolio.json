@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "leegeunhyeok/resume",
+    "desc": "🍀 Resume template",
+    "officialSite": "https://this.geundung.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sesang06/RESUME",
+    "desc": "이력서 (RESUME)",
+    "officialSite": "",
+    "topics": ["android", "java", "swift", "client", "ios", "developer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "priyankarpal/Portfolio",
+    "desc": "This is my portfolio website made using ReactJs. You can use the template to create your portfolio like mine.",
+    "officialSite": "https://www.priyank.live",
+    "topics": ["portfolio", "reactjs", "vite", "taiwlindcss"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leerob/leerob.io",
+    "desc": "✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.",
+    "officialSite": "https://leerob.io",
+    "topics": ["blog", "mdx", "nextjs", "planetscale", "portfolio", "react", "tailwindcss", "vercel"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anonystick/anonystick",
+    "desc": "FullStack",
+    "officialSite": "https://anonystick.com",
+    "topics": ["aws", "elasticsearch", "mongodb", "mysql", "nodejs", "rabbitmq", "redis"],
+    "avatar": "",
+    "banner": ""
+  }
+]

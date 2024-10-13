@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "ComputersAndTechAndAndrew",
+    "name": "Cat and Andrew",
+    "profile": "https://yt3.googleusercontent.com/KRphPPVmHjQ-NslM4Irmbk-H-e6DfNM2cOu9q__WBSnNK330XjRTw-VvB_QhJ7IhzzoG67Bxgw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ft4cs8_eVViRE7lSefDcKVo5t_qheOtGRrx9g1AXqb4ezck8QMtfoFXhIAz2F3hDymFjMttw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_vtvb2jCZXg", "title": "Building a Budget Gaming PC ( started from an office Lenovo PC )" },
+    { "id": "Cp1IcIEdmgs", "title": "This Abandoned PC is Finally Finished" },
+    { "id": "nGgm3xf0ny0", "title": "This Dell laptop was Dropped Badly" },
+    { "id": "tvmac0hcYZY", "title": "Can you wash a PC motherboard? - And How To" }
+  ],
+  "playlists": []
+}

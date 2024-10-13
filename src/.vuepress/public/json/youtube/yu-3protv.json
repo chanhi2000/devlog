@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "3protv",
+    "name": "삼프로TV 3PROTV",
+    "profile": "https://yt3.googleusercontent.com/d-8NjlMUvcXD-755be4k5SfEzuWGzbq2NxK6PbtJ17FoRE73NvE3VaZwUBO07ET8xMcDfw5M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lKxpqnCskX9xE1N0SbNx9rDchyKn9NtUqYU49HQUeL0uGDver48FGJaWO0FuYaP8QSdj8deY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iXtPHDSB8dg", "title": "비전 프로 2월 2일 출시! 메타버스에 다시 한번 관심이? f. IBK투자증권 박근형 부장 [데일리힌트]" },
+    { "id": "Pnd6q6B1kwc", "title": "[삼프로 멤버십] 염승환 마스터가 알려주는 PBR 밴드 활용법" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "DevToolsMadeSimple",
+    "name": "Dev Tools Made Simple",
+    "profile": "https://yt3.googleusercontent.com/XtJcBFAdj_FssR48i8H_9UZV_ChYSGI5GLygd_PJXB_lUmALNpbyxnjmbK7fcocp4VbNs0cM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "bBHcqIgIOr8", "title": "Is software architecture obsolete? - Robert C. Martin (Uncle bob)" },
+    { "id": "7-koe4Iz-SU", "title": "How to be a productive developer - Robert C. Martin (Uncle Bob)" },
+    { "id": "MmqiDdBxkss", "title": "The problem with god classes  - Adam Tornhill" },
+    { "id": "8XJzdjhVrpw", "title": "The problem with boolean functions - Robert C. Martin (Uncle Bob)" },
+    { "id": "CDYmWfG3Ur0", "title": "How to do performance optimization - Martin Fowler" },
+    { "id": "naYIFpHDp_s", "title": "How to refactor code the right way - Martin Fowler" },
+    { "id": "gLrCb9May78", "title": "How to do performance optimization- Martin Fowler #performanceoptimization #softwaredevelopmenttips" },
+    { "id": "BVMngYKJ4hk", "title": "What is software architecture - Martin Fowler" },
+    { "id": "lXHb6raYXkg", "title": "The importance of pair programming - Robert C. Martin (Uncle Bob)" },
+    { "id": "O4iEr7bElUA", "title": "Good Software Architecture - Robert C. Martin (Uncle Bob)" },
+    { "id": "vsQya8Ai1jw", "title": "The symptoms of bad code - Robert C. Martin (Uncle Bob)" },
+    { "id": "JfkD9XlKTKQ", "title": "Stable productivity in software development" },
+    { "id": "WUPlTo7nVa4", "title": "The fragile test problem - Robert C. Martin (Uncle Bob)" },
+    { "id": "rXjf8eiGsSI", "title": "How small should a function be? - Robert C. Martin (Uncle Bob)" },
+    { "id": "tx77E9Ko2-U", "title": "What is the purpose of a comment?  - Robert C. Martin (Uncle Bob)" },
+    { "id": "2Q9GRPxqCAk", "title": "Why boolean arguments should be avoided - Robert C. Martin (Uncle Bob)" },
+    { "id": "kovKozWl7rM", "title": "What is harmful about go to statements? Robert C. Martin (Uncle Bob)" },
+    { "id": "8b923WCr6Kg", "title": "Feature work vs Technical work - Kevlin Henney" }
+  ]
+}

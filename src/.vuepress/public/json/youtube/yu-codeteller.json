@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "codeteller",
+    "name": "코드깎는노인",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN48qFF8aE-5TeTthfOVj82b3UrQ_q08SY5oEqq=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "XzAuOvY1aXs", "title": "ChatGPT로 워드프레스 자동 글쓰기 툴 만들기" },
+    { "id": "EfkC0oGk2kM", "title": "ChatGPT-4 vs Claude 3" },
+    { "id": "fGUwN5nzLdw", "title": "라마3, 이렇게 사용해보세요" },
+    { "id": "dvx-gFx6nUw", "title": "방구석 컴퓨터에 두뇌를 장착해보세요 | ChatGPT, Claude, LLaMA, Gemini" },
+    { "id": "uyhTdnmCq_c", "title": "새로운 인공지능 GPT-4o" },
+    { "id": "C_hs9obj_gg", "title": "Windows에서 인공지능 에이전트 AIEXE 사용하는 방법" },
+    { "id": "vXlglMK-vQY", "title": "GPT-4o를 이렇게도 사용할 수 있어요" },
+    { "id": "qwVHay2Hd9k", "title": "GPT-4o와 함께 할 차세대 앱 사용 경험 미리 만나보세요" },
+    { "id": "ug0CQKhP6zY", "title": "AI가 바꿀 세상, AWS를 통해 만나보세요" },
+    { "id": "OVBpddAEHuY", "title": "ChatGPT 치트키로 코딩 쉽게하세요" },
+    { "id": "p0vIqhQ3NKc", "title": "ChatGPT에게 보석상 문제를 풀어보게 해보자" },
+    { "id": "DTCpSR-W-kk", "title": "코딩 GPTs 끝판왕 | ChatGPT" },
+    { "id": "SCOhGy-IftM", "title": "개발자, 돈을 벌기 위해 필요한 코딩 실력" },
+    { "id": "ZSfQn6y6iqs", "title": "챗GPT, 제미나이 코딩 대결" },
+    { "id": "UyClx1UWK-I", "title": "챗GPT로 코딩 신기술 쉽게 배우기" },
+    { "id": "mawQN4OL-Ko", "title": "맥북 없이 코딩을 한다고?" },
+    { "id": "kRNcTrQ_RNI", "title": "ChatGPT로 초보자도 쉽게 나만의 QR코드 만들기" },
+    { "id": "pHYwlk-ZwH0", "title": "ChatGPT 코딩 실수 없애는 방법" },
+    { "id": "QA7nkbjxlsk", "title": "코딩, AI가 다 해준다 #chatgpt #인공지능 #코딩 #자동화 #shorts" },
+    { "id": "9xB7ncO1u-E", "title": "ChatGPT 코드인터프리터 56배 빠르게 만들기 | 초전도적 성능" },
+    { "id": "SQPLPPb_LuE", "title": "ChatGPT를 VSCode안으로 데리고 오자 | 인공지능 코딩" }
+  ]
+}
+

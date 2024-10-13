@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "geohotarchive",
+    "name": "george hotz archive",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZZAHTMYnXqoZ3oX9qevWf6g6PxsAAw7P_lTXOTWA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6fFUfyT-EyA", "title": "George Hotz | Exploring | finding exploits in AMD's GPU firmware | Giving up on AMD for the tinybox" },
+    { "id": "rUsx1b7rQ8Q", "title": "George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA" },
+    { "id": "Y-0yZ1AHb0s", "title": "George Hotz | Researching | documenting the AMD 7900XTX so we can understand why it crashes | RDNA 3" },
+    { "id": "QXRXyVNltXY", "title": "George Hotz | Researching | rewriting the linearizer (tinygrad) | Part 1" },
+    { "id": "R-Xr1JRF6bY", "title": "George Hotz | Programming | rewriting linearizer (tinygrad) | Day In The Life Of A Software Engineer" },
+    { "id": "8U8kK3SpLTU", "title": "George Hotz | Programming | Decision Transformer Reinforcement Learning (RL) | LunarLander | Part 1" },
+    { "id": "-tZkb0vgaDk", "title": "George Hotz | Programming | RL is dumb and doesn't work | Reinforcement Learning LunarLander Part 2" },
+    { "id": "Ul5-NKOP8RQ", "title": "George Hotz | Researching | RL is dumb and doesn't work (theory) | Reinforcement Learning | Part 3" },
+    { "id": "X4J_GUhp9jI", "title": "George Hotz | Researching | multiGPU with HIP (or maybe without HIP) | HSA | HIP Graph | Part 1" },
+    { "id": "ogOmQ86y0es", "title": "George Hotz | Programming | OpenCL on a Galaxy Z Fold 5 | Android | IOCTL | GPU | arm64 | part 1" },
+    { "id": "S2n5BFGcCv0", "title": "comma ai | Human-Machine Cooperation in openpilot | Driver Monitoring | Weixing Zhang COMMA_CON talk" },
+    { "id": "H40QRJFzThQ", "title": "George Hotz | Programming | Mistral mixtral on a tinybox | AMD P2P multi-GPU mixtral-8x7b-32kseqlen" },
+    { "id": "V03jwsBwmV0", "title": "comma ai | Navigate on openpilot | Mitchell Goff | COMMA_CON talks | ML Engineer | HQ version" },
+    { "id": "AV5JXG8y4fA", "title": "George Hotz | Programming | hand optimizing a resnet 50 in tinygrad | tinygrad.org" }
+  ]
+}

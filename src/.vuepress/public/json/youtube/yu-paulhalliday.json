@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "paulhalliday",
+    "name": "Paul Halliday",
+    "profile": "https://yt3.googleusercontent.com/iK419aekRdVIuPIhR9pfIb_UrGxA8mFxiKfXu0mdyyDwy_jReXMPKO4E6cpuMWcX_frB1ThlBg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Dl4GwP8_cw-qCR6zmP9h4XQ5_coeT2AZnKTCx72IiENNJsJuDkhl8JCHbRjfdOPc2Qv7ubl5WEg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yoIoV2fnC6M", "title": "Ionic 4 with Vue.js" }
+  ]
+}

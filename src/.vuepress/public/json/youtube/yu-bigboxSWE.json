@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "bigboxSWE",
+    "name": "bigboxSWE",
+    "profile": "https://yt3.googleusercontent.com/towOWTBoExeb63XYp_Ol5v7qXZ5lEYhUyqhu-dFX2k-bznCGQ2uB37XxLqZgs0stCicWFMNjzw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mNDhkft6TwjlkQfVvZV-jPeZI7BpoD6VjnsCxZXnUmXvgoeoqT3ARskukIR4hvoHeDewT93IMA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-_o4YFFD6is", "title": "Biggest Scams In Software Engineering" },
+    { "id": "cuuXvVfORfk", "title": "How To Stay Focused When Programming" },
+    { "id": "MTL2MBWv6w0", "title": "Worst Programming Communities" }
+  ],
+  "playlists": [
+
+  ]
+}

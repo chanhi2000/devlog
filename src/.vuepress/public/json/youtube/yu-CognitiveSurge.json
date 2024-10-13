@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "CognitiveSurge",
+    "name": "Karl Hadwen",
+    "profile": "https://yt3.googleusercontent.com/1rB2QpQkPq7GvjR9FCknzYWqdDAEAFLgp5NTu4nPcm3iFAzFoEUDOBWti46-wtOLW5rXTuF9aDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gmeADp7VfnmFcoxAgnnTFWdS8TRv9G33l3x-Buc5yaeTQ-mVjmmaK3qHu7WGZG2-VAYFYkZ2Xg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KpdbjCuZ5zQ", "title": "Say Goodbye to Desktop Chaos - A Terminal Command to Clear the Clutter!" },
+    { "id": "W-cBfX6yOw0", "title": "Why You MUST Install NVM: Master Node.js Version Management Now!" },
+    { "id": "ThxS4wmps84", "title": "AWS for Developers — A Whistle-Stop Tour of AWS Services — AWS Developer Tools" }, 
+    { "id": "MSPu-lYF-A8", "title": "Learn Zsh in 80 Minutes macOS - Oh My Zsh - Command Line Power User | @karlhadwen" }, 
+    { "id": "RL_E56NPSN0", "title": "Node.js WebSocket Tutorial - Real-Time Chat Room using Multiple Clients" }, 
+    { "id": "54qxWGpxieE", "title": "The Best Git Log You've Ever Seen - Pretty Git Log - Git Log Tutorial" }, 
+    { "id": "Y-7WS2ykQMI", "title": "Instagram Clone - React & Cypress End to End Testing Framework - Testing using Cypress.io!" }, 
+    { "id": "HgfA4W_VjmI", "title": "Building Todoist From Scratch - React Tutorial - Learn React in 2021" }, 
+    { "id": "x_EEwGe-a9o", "title": "Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)" } 
+  ]
+}
+

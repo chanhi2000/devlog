@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "AFSwiftTutorials",
+    "name": "AF Swift Tutorials",
+    "profile": "https://yt3.googleusercontent.com/8aGSRbKfmMnRKQRaqK6EA64Tkc3tIlvbwvlF8RjXI8XLC_wNU6LIxlpVD7jhdlZvB2WU_lSWZQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LdFB3XVYpn35h5lSYp4B-zRqL4Fpoz00Bp_Q-1g-HN3exl7ce9km_OYSHV0N-Tj-27Ban_5WQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H_SqMa8ldU4", "title": "Contains Element - Coding Challenges in Swift" },
+    { "id": "FKnrf94bOns", "title": "How to use Property List?" },
+    { "id": "I3krf85eK0M", "title": "Custom Size dynamic type in SwiftUI" },
+    { "id": "mAP9DV4PzU0", "title": "Most Common Element - Coding Challenges in Swift" },
+    { "id": "VuivQchuvCo", "title": "What's New in Swift 5.9" },
+    { "id": "Fa4oPVU4pw8", "title": "Top 10 Features of Xcode 15" },
+    { "id": "WF6C5rJQfmw", "title": "Voice Over - UIKit Tutorial" }
+  ]
+}

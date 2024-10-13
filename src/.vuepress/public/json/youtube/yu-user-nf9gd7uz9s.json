@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "user-nf9gd7uz9s",
+    "name": "코드스쿼드",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOY0D-3EgX4TuG0P8ZJ0I81lHZY3lneu6UR3iqTyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iDkAM6bIwko0515hitwibJbcEbxtfHJ5gi5xsgtM1dCiud2TUWWRxphdovE24xN_HTGtroavlA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FE1rggwUFWw", "title": "iOS - 동시성 프로그래밍 2/3" }, 
+    { "id": "ihtXSxm7FSE", "title": "iOS - 동시성 프로그래밍 1/3" }, 
+    { "id": "QEatbenQC7E", "title": "402H (워크숍) 그래서 테스트코드는 어떻게 작성하고 있나요? - 윤중현" }, 
+    { "id": "K_elCcD27IA", "title": "402F 당근마켓 iOS 개발문화 (티타임)" }, 
+    { "id": "kfuOcu0q0Ls", "title": "401F Modular Architecture with Tuist - 김우성" }, 
+    { "id": "XDaaN9MLPvQ", "title": "402D 우당탕탕! `SafariExtension에서` `XcodeExtension`까지 - 이다혜" }, 
+    { "id": "2DO420E9lvs", "title": "402C (워크숍) SwiftUI와 TCA로 `GithubSearch` 앱 만들기 - 허규영, 김대영" }, 
+    { "id": "PU8FkRTMc2M", "title": "401E `PencilKit`과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기 - 이해석" }, 
+    { "id": "Pm8mgJXRHCY", "title": "레츠스위프트 2020 테크토크 Day#4" }, 
+    { "id": "MMyfZ3pX2TA", "title": "레츠스위프트 2020 테크토크 Day#1" }
+  ]
+}

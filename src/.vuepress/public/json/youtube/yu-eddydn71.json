@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "eddydn71",
+    "name": "EDMT Dev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPgAr9d9ZqyEQNA646T5lvdFalYlT_v5wYvnWvQVg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nf8LF5WytA1-bgqBmqXgvc4a-L4XdbSdDWcmv3H78c8MC5ExXwSmsKyKsn_3U030OC0lzxNIlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7kzBBhRsFls", "title": "Monolithic vs Microservices Architectures #softwarearchitecturepattern #edmtdev" },
+    { "id": "6vPp5SuYtfA", "title": "A More Efficient Way to Update Multiple Records in Your Database with EFCore #edmtdev" },
+    { "id": "aVV-nN6jUng", "title": "Six common ways to build APIs #api  #edmtdev" },
+    { "id": "5g-EtprViTE", "title": "Dive Into REST API: Beginner to Expert in Simple Steps" },
+    { "id": "JV-x_yTTTXs", "title": "Quiz App Development with Flutter: A Comprehensive Tutorial" },
+    { "id": "xcBN2OGghNA", "title": "HTML Tutorial: How to Design a Before-After Image Comparison Slider  #edmtdev #html #javascript #js" },
+    { "id": "UKU9WizT7Bw", "title": "Kotlin with Jetpack Compose: Day 2 -  QR Scanner App" },
+    { "id": "f7YLwr4oUFE", "title": "Kotlin with Jetpack Compose: Day 3 - Implementing Location Services" },
+    { "id": "p3HKX3Mv5D8", "title": "Kotlin with Jetpack Compose: Day 4 - How to Implement a Carousel Slider in Kotlin Jetpack Compose" },
+    { "id": "rMntUcrP3Cs", "title": "Kotlin with Jetpack Compose: Day 5 - How to Implement a Infinite Scroll" },
+    { "id": "tNYJvXoDLpc", "title": "Flutter for Fashion: Building a Clothes Sale Landing Page from Scratch" },
+    { "id": "XiLy3Ci4uuM", "title": "Building a Cryptocurrency News App using RSS Feeds" },
+    { "id": "rqumqtr-Y1M", "title": "Hero Animation in Android like Flutter  #code #edmtdev #flutter #flutteredmtdev #android #shorts" },
+    { "id": "7nMVuMnWHJg", "title": "Developing a Coin News Reader using RSS Feeds in Android #android  #edmtdev #rss  #code" },
+    { "id": "KZs9OkFuP1I", "title": "Meet AI Assistant for Android Development : Studio Bot #studiobot #android #androidstudio #edmtdev" },
+    { "id": "4zOszPkrwRE", "title": "Create QR Scanner code in Android #edmtdev #asmr #asmrprogramming" },
+    { "id": "KkY4XvwWeyQ", "title": "Building a Network API Fetching App with RxJava and MVVM in Android" },
+    { "id": "jLiI481jaJU", "title": "Build Your Own Local Cache for REST API in Android Programming" },
+    { "id": "bb8Ig80gJMk", "title": "Attacking Android applications exploiting Firebase Database Realtime" },
+    { "id": "UNa_gIuFyOM", "title": "Android Kotlin Tutorial - RSS Reader by Kotlin" }, 
+    { "id": "9KJyebg17qw", "title": "Android Development Tutorial - New Uber Clone #42 Update Trip Plan" }, 
+    { "id": "u7t8MxGR9EY", "title": "Kotlin Android Tutorial - New Eat It part 48 Shippers Managements" }, 
+    { "id": "0shyep6yzeU", "title": "Android Development Tutorial - My Restaurant part 38 a Upgrade NodeJS API for MSSQL" }, 
+    { "id": "nZ2gHpbAXHc", "title": "EDMT Dev - Food App Android Studio #21 Getting user location" }, 
+    { "id": "A85pX4ZAAis", "title": "EDMT Dev - Food App Android Studio #13 Build Cart System with Room Persistence" }, 
+    { "id": "oQOybOl0vyc", "title": "Kotlin Android Tutorial -  Realtime QR Code Realtime Scanner with Rectangle" }, 
+    { "id": "jtbVo8XwI88", "title": "Android Development Tutorial - Drink Shop App part 36 Integrate Firebase Cloud Messaging" }, 
+    { "id": "JQa-NAgMfY4", "title": "Kotlin Android Tutorial - Recycler View Filters" }, 
+    { "id": "MALa2ahelCA", "title": "Android Development Tutorial - Recycler View Filters" }, 
+    { "id": "d1UuUTAKoi8", "title": "Android Development Tutorial - MVVM Design Patterns Login Validation" }, 
+    { "id": "qwfESo8nSPs", "title": "Flutter Full Course - In App WebView" }
+  ]
+}
+

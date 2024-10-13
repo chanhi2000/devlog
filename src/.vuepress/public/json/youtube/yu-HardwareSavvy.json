@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "HardwareSavvy",
+    "name": "Hardware Savvy",
+    "profile": "https://yt3.googleusercontent.com/jr_c6Ed3PJd_f3N_pZb0JUxBKbqb5UNLH-UFDmpqnNt-iqxracy3V7Dxw8Yylc0YE6wtnifQIkM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7X74R1hBtB8QKhLFVbICz-353hbOCaqLMQw8Wzsp0enzDtAeuHN50eN3jT_YX7rphJluSW0D=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "83aA6UVwwg4", "title": "Clueless Tech Guy: Rode WIreless Pro - The Sam Sulek Mic" },
+    { "id": "VbwgOnztzSQ", "title": "I Tried The Vegas Loop…" },
+    { "id": "TzcAIAc-DOc", "title": "This is genius" },
+    { "id": "zbMZkLa8VII", "title": "When you realize you were using the Task Manager wrong" }
+  ]
+}

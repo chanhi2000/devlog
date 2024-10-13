@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodeFrog",
+    "name": "CodeFrog",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZSQv-qejM8Xz-pJa_aQFuiSRpUIAbS7BFrl8DLoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lVQr6UOdP1mcEGMqd3DnI9sUMArZS06B4FjB1EYcGipaEM_HwKwVs18dub0GT1UrWzWSHsN6Mw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VOGKnsA8Afo", "title": "Mobile App UI Design Tutorial - Medicine Reminder App | HTML CSS BOOTSTRAP Speed Coding" }
+  ]
+}

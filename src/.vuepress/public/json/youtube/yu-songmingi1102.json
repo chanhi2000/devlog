@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "songmingi1102",
+    "name": "송민기",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYjp29Leg3mD0wS9IAoI-gf2wzwaSl3BAMkg7OhHA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GbELxPNJsC1F5GUls5trLdMtBpw5lzjwLEgUO53ARZoA5cnyCfb4NB4J_J8D3hFiEXJUEJAe0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n2-N3o6Zlj4", "title": "알고리즘과 자료구조를 공부해야 하는 이유" },
+    { "id": "YmVK5ZFmcew", "title": "Song Job Portfolio" },
+    { "id": "QawhwdyLMto", "title": "SongJob 포트폴리오(1)" },
+    { "id": "5QerTMPXTDI", "title": "SongJob Portfolio(2)" },
+    { "id": "nicp1hWxRDI", "title": "C언어로 GC 만들기(1)" }
+  ]
+}

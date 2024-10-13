@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "11TechTalk",
+    "name": "11번가 TechTalk",
+    "profile": "https://yt3.googleusercontent.com/2m_YjUMmZC8KQ-mmsYLeUQrJfugol87svYvbTYs6kfNWR8udwKsKxpo7t5j0DC9DI8M6f1VI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sSXZ4JxeBNe658UtJ1TRi9LXGL4DF-lLIv7enLMJxB6bcUD_btozm8IVGohBgAJQjbLI2qCVXw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pEqjCNAAugU", "title": "빠르게 진화하는  E-커머스와 RPA 그리고 테스트 자동화 | 최윤석" }
+  ]
+}

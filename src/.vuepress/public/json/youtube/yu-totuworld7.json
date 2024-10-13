@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "totuworld7",
+    "name": "Yochang Song",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaS2Hz_zJrrJu1CYSIVf7pnUveYF305abNfPxk1H4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "kWqBWEObsbw", "title": "프수타 008 - 성공하는 토이프로젝트 가이드" },
+    { "id": "JhfuLy5TGqs", "title": "프수타 009 - 어느날 시니어가 사라졌다 발표 함께 보기" },
+    { "id": "RC0DSJs8KY4", "title": "[업무자동화] 각각 다른 파일을 첨부해서 대량 email 보내기" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "theigorsedov",
+    "name": "Igor Sedov",
+    "profile": "https://yt3.googleusercontent.com/Zv_-281PV2BEAy65DL26VHtlL964IiX8WGxc5m2pMAAFdwdgGLri355rlDzoOHhHXed6bRkl=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iqJJcUnnLMxeS_S9FBZpC-8M7eO99AqiMhHhI2Yibb7E-J2nZcSzPRYHJSi3-3F1nEVcGrjR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0jdyzCHzPxo", "title": "Understand Angular Signals in 20 Minutes" },
+    { "id": "-fdKyT_CZso", "title": "Angular 18 New Feature for ng-content: Default Content" },
+    { "id": "YZMB8vm0z1w", "title": "Angular 18 New Feature: Route Redirects with Functions" },
+    { "id": "v7r-7PHaEtY", "title": "New in Angular 18: Unified Control State Change Events for Forms" }
+  ],
+  "playlists": [
+
+  ]
+}

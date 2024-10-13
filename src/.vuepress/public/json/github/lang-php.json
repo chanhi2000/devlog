@@ -1,0 +1,374 @@
+[
+  {
+    "repo": "backdrop/backdrop",
+    "desc": "Backdrop core code repository.",
+    "officialSite": "https://backdropcms.org",
+    "topics": ["php", "cms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "monicahq/monica",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "officialSite": "https://www.monicahq.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "laravel/laravel",
+    "desc": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+    "officialSite": "https://laravel.com",
+    "topics": ["framework", "laravel", "php"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openai-php/laravel",
+    "desc": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ockeghem/badtodo",
+    "desc":" ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "D4RK-R4BB1T/Dark-Web-Archives",
+    "desc": "Archives of the criminal side of the internet",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "officialSite": "https://snipeitapp.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "officialSite": "https://nextcloud.com",
+    "topics": ["javascript", "open-source", "php", "enterprise", "design", "opensource", "cloud", "ux", "nextcloud", "owncloud", "decentralized", "sharing", "file-sharing", "collaboration", "distributed", "free-software", "usability", "self-hosting", "federation", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kanboard/kanboard",
+    "desc": "Kanban project management software",
+    "officialSite": "https://kanboard.org",
+    "topics": ["agile", "self-hosted", "project-management", "kanban", "kanboard"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gptlink/gptlink",
+    "desc": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "BookStackApp/BookStack",
+    "desc": "A platform to create documentation/wiki content built with PHP & Laravel",
+    "officialSite": "https://www.bookstackapp.com",
+    "topics": ["php", "documentation", "laravel", "wiki", "selfhosted", "bookstack"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Not-Quite-RARBG/main",
+    "desc": "Not Quite RARBG's main website.",
+    "officialSite": "http://nq-rarbg.to",
+    "topics": ["torrent", "torrents", "rarbg"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sebastianbergmann/phpunit",
+    "desc": "The PHP Unit Testing framework.",
+    "officialSite": "https://phpunit.de",
+    "topics": ["php", "phpunit", "testing-tools"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SemanticMediaWiki/SemanticMediaWiki",
+    "desc": "🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities",
+    "officialSite": "https://www.semantic-mediawiki.org",
+    "topics": ["emantic", "query", "database", "wiki", "linked-data", "sparql", "rdf", "mediawiki", "collaboration", "semantic-web", "semantic-data", "mediawiki-extension", "semantic-mediawiki", "smw", "knowledge-graph", "lod", "knowledge-management", "result-format", "wiki-database"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "matomo-org/matomo",
+    "desc": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!",
+    "officialSite": "https://matomo.org",
+    "topics": ["mysql", "php", "security", "website", "marketing", "privacy", "mobile", "log", "analytics", "web-analytics", "piwik", "intranet", "growth", "hacktoberfest", "matomo"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "getgrav/grav",
+    "desc": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
+    "officialSite": "https://getgrav.org",
+    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "livewire/livewire",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NativePHP/laravel",
+    "desc": "Laravel wrapper for the NativePHP framework",
+    "officialSite": "https://nativephp.com",
+    "topics": ["php", "laravel", "nativephp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "getgrav/grav",
+    "desc": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
+    "officialSite": "https://getgrav.org",
+    "topics": ["markdown", "php", "yaml", "cms", "content", "website", "twig", "symfony", "php7", "doctrine", "flat-file", "website-builder", "grav", "content-management", "website-generation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "brendt/stitcher.io",
+    "desc": "Source code of stitcher.io",
+    "officialSite": "https://stitcher.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "benjamincrozat/benjamincrozat.com",
+    "desc": "Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 30K monthly visitors.",
+    "officialSite": "https://benjamincrozat.com",
+    "topics": ["laravel", "livewire", "tailwind-css", "alpine-js"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "digininja/DVWA",
+    "desc": "Damn Vulnerable Web Application (DVWA)",
+    "officialSite": "",
+    "topics": ["training", "php", "security", "hacking", "sql-injection", "infosec", "dvwa"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openchatai/OpenCopilot",
+    "desc": "🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.",
+    "officialSite": "https://opencopilot.so",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "laravel/framework",
+    "desc": "The Laravel Framework.",
+    "officialSite": "https://laravel.com",
+    "topics": ["php", "laravel", "framework"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "magento/magento2",
+    "desc": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+    "officialSite": "http://www.magento.com",
+    "topics": ["php", "ecommerce", "magento", "magento2", "ecommerce-platform", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "akaunting/akaunting",
+    "desc": "Online Accounting Software",
+    "officialSite": "https://akaunting.com",
+    "topics": ["accounting", "akaunting", "balance", "billing", "bookkeeping", "budget", "crm", "erp", "expenses", "finance", "fintech", "invoices", "invoicing", "laravel", "laravel-application", "money", "payments", "payroll", "php"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "filamentphp/filament",
+    "desc": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+    "officialSite": "https://filamentphp.com",
+    "topics": ["admin", "alpine-js", "builder", "cms", "forms", "laravel", "livewire", "tables", "tailwind-css", "tall-stack"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PHP-CS-Fixer/PHP-CS-Fixer",
+    "desc": "A tool to automatically fix PHP Coding Standards issues",
+    "officialSite": "https://cs.symfony.com",
+    "topics": ["code-standards", "code-style", "hacktoberfest", "php", "static-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral",
+    "desc": "Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Leantime/leantime",
+    "desc": "Leantime is a strategic project management system for non-project managers.",
+    "officialSite": "https://leantime.io",
+    "topics": ["agile", "asana", "calendar", "clickup", "gantt", "hacktoberfest", "jira", "kanban", "lean", "leantime", "notion", "php", "project-management", "projects", "retrospective", "scrum", "sql", "strategy", "timesheets", "trello"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "googleapis/google-api-php-client",
+    "desc": "A PHP client library for accessing Google APIs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "laravel/pulse",
+    "desc": "Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.",
+    "officialSite": "https://pulse.laravel.com/",
+    "topics": ["insights", "laravel", "monitoring", "performance"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pandora-next/deploy",
+    "desc": "Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!",
+    "officialSite": "https://chat.oaifree.com",
+    "topics": ["chatgpt", "openai", "pandora"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "firefly-iii/firefly-iii",
+    "desc": "Firefly III: a personal finances manager",
+    "officialSite": "https://firefly-iii.org/",
+    "topics": ["accounting", "budget", "budgeting", "budgets", "cash-flow", "cashflow", "credit-card", "docker", "expenses", "finance", "finances", "financial", "linux", "money", "paycheck", "personal-finance", "php", "php7"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "simjanos-dev/LinguaCafe",
+    "desc": "LinguaCafe is a self-hosted software that helps language learners read foreign languages.",
+    "officialSite": "https://simjanos-dev.github.io/LinguaCafeHome/",
+    "topics": ["language-learning", "self-hosted"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wallabag/wallabag",
+    "desc": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+    "officialSite": "https://wallabag.org",
+    "topics": ["hacktoberfest", "php", "read-it-later", "self-hosted", "symfony", "symfony-application", "wallabag"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nextcloud/all-in-one",
+    "desc": "The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+    "officialSite": "https://hub.docker.com/r/nextcloud/all-in-one",
+    "topics": ["backup", "docker", "nextcloud", "restore"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "officialSite": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nikic/PHP-Parser",
+    "desc": "A PHP parser written in PHP",
+    "officialSite": "",
+    "topics": ["ast", "parser", "php", "static-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xenocrat/chyrp-lite",
+    "desc": "An ultra-lightweight blogging engine, written in PHP.",
+    "officialSite": "https://chyrplite.net/",
+    "topics": ["accessible", "apache", "blog", "blog-engine", "caddy2", "html5", "jquery", "lightweight", "localised", "mysql", "nginx", "php", "postgresql", "sqlite", "twig"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pulsejet/memories",
+    "desc": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+    "officialSite": "https://memories.gallery",
+    "topics": ["backup-tool", "gallery", "nextcloud", "photo-gallery", "photos", "self-hosted", "videos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "coollabsio/coolify",
+    "desc": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+    "officialSite": "https://coolify.io",
+    "topics": ["analytics", "couchdb", "databases", "docker", "minio", "mongodb", "mysql", "mysql-database", "nextjs", "nodejs", "php", "postgresql", "reactjs", "redis", "self-hosting", "static", "svelte", "vscode", "vuejs"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "phenaproxima/starshot-prototype",
+    "desc": "Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.",
+    "officialSite": "https://drupal.org/starshot",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apioo/fusio",
+    "desc": "Open source API management platform",
+    "officialSite": "https://www.fusio-project.org",
+    "topics": ["api", "api-gateway", "api-management", "api-manager", "backend", "javascript", "microservice", "openapi", "php", "rest", "rpc", "serverless"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "corcel/corcel",
+    "desc": "Use WordPress backend with Laravel or any PHP application",
+    "officialSite": "",
+    "topics": ["corcel", "eloquent", "hacktoberfest", "laravel", "mvc", "php", "shortcode", "taxonomies", "wordpress"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hustoj/hustoj-neo",
+    "desc": "HUST Online Judge System neo Version",
+    "officialSite": "http://www.hustoj.org",
+    "topics": ["hust", "online-judge"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kargnas/laravel-ai-translator",
+    "desc": "Automatic translate your language files into many languages using AI like Claude, GPT and etc.",
+    "officialSite": "",
+    "topics": ["ai", "anthropic", "claude", "claude-ai", "gpt", "gpt-4", "gpt4", "laravel", "laravel-package", "localization", "localizationservice", "openai", "openai-api", "translate", "translation", "translator"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tuqqu/go-php",
+    "desc": "Toy Golang interpreter written in PHP",
+    "officialSite": "",
+    "topics": ["embedded-language", "go", "golang", "golang-php", "interpreter"],
+    "avatar": "https://avatars.githubusercontent.com/u/47274443?v=4",
+    "banner": ""
+  }, {
+    "repo": "roots/acorn",
+    "desc": "Laravel components for WordPress plugins and themes",
+    "officialSite": "https://roots.io/acorn/",
+    "topics": ["acorn", "blade", "laravel", "wordpress-laravel", "wordpress-plugin", "wordpress-plugin-library"],
+    "avatar": "https://avatars.githubusercontent.com/u/4986074?v=4",
+    "banner": ""
+  }, {
+    "repo": "HiEventsDev/Hi.Events",
+    "desc": "Open-source event management and ticket selling platform 🎟️",
+    "officialSite": "https://hi.events",
+    "topics": ["attendize-alternative", "event-management", "event-registration", "event-ticketing", "eventbrite-alternative", "events", "laravel", "open-source", "react", "self-hosted", "sell-tickets", "sell-tickets-online", "ticket-selling", "ticketing-system", "tickettailor-alternative", "tito-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/148843671?v=4",
+    "banner": ""
+  }, {
+    "repo": "krayin/laravel-crm",
+    "desc": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+    "officialSite": "https://krayincrm.com",
+    "topics": ["crm", "crm-platform", "laravel", "laravel-application", "laravel-crm", "laravel-framework", "laravel-package", "opensource", "opensource-crm", "opensource-crm-framework", "php", "vue", "vuejs"],
+    "avatar": "https://avatars.githubusercontent.com/u/86250863?v=4",
+    "banner": ""
+  }, {
+    "repo": "statamic/cms",
+    "desc": "The core Laravel CMS Composer package",
+    "officialSite": "https://statamic.com",
+    "topics": ["api-rest", "cms", "composer-package", "content-management-system", "flat-file-cms", "flatfile", "flatfilecms", "graphql", "headless", "jamstack", "laravel", "laravel-cms", "laravel-package", "php", "php8", "ssg", "statamic", "vuejs"],
+    "avatar": "https://avatars.githubusercontent.com/u/1669353?v=4",
+    "banner": ""
+  }, {
+    "repo": "CodeWithKyrian/transformers-php",
+    "desc": "Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.  - GitHub: Transformers PHP is a toolkit for PHP developer...",
+    "officialSite": "https://codewithkyrian.github.io/transformers-php/",
+    "topics": ["php", "ml", "transformers", "huggingface"],
+    "avatar": "https://avatars.githubusercontent.com/u/48791154?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/36e374d5b5f64ede3f9ae99bed54b79bb5214c126a722d3befe922622ffe20c6/CodeWithKyrian/transformers-php"
+  }
+]

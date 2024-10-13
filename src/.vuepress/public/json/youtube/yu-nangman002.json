@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "nangman002",
+    "name": "낭만공돌이 - IT와 비즈니스 이야기",
+    "profile": "https://yt3.googleusercontent.com/YC_l_9esLa-N-tS2Mtjxbzg_mPZhUd-jUlmKskJ_2o5GWD8AL9aHvGFYmuGBFfD7fqtYy2dSaw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/i3HKpMOpcMf79-udj4If0QGIXotMLB8946YTIza-Sp7XqTgV62stRn1ywfJfjliBzcjf9WEiig=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "drCSt3z9SqU", "title": "파이썬 코딩 생기초 입문 - 개념 똑바로 세우기" },
+    { "id": "mdoMPWSSsqs", "title": "의외로 AI가 잘하는 것을 잘해야 하는 이유" }
+  ]
+}

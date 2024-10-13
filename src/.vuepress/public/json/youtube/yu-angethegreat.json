@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "angethegreat",
+    "name": "AngeTheGreat",
+    "profile": "https://yt3.googleusercontent.com/uuetmG2Ek46R3ePbiheorQ6KjvtsFnKpvv2Fs1NWv1Wqfkl7PCuh9QwzN4WVrKfNkMScI66E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lo34zw5QggCUDNL9pGG2VdV85siQPqGhpK4X66ykbM4Wq0PhH-gEqP2ZrQlD-ZCXjGZibUB7=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qj5F_s3veiU", "title": "Adding Mechanical Sound Simulation to My Audio Engine" },
+    { "id": "J11c8mMN1PA", "title": "Multicylinder Engine Simulation - Engine Simulator Devlog 6" },
+    { "id": "ndUyNJEk4ng", "title": "Major Improvements to Steam Engine Simulator" },
+    { "id": "w8a9B2BgYSA", "title": "Making a DLC for My Dumb Steam Game" },
+    { "id": "rGNUHigqUBM", "title": "Real-time Trumpet Simulation [C++/Vulkan] [WARNING: Flashing Lights]" }
+  ]
+}

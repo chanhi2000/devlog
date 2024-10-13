@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "bobbyiliev/introduction-to-bash-scripting",
+    "desc": "Free Introduction to Bash Scripting eBook",
+    "officialSite": "https://ebook.bobby.sh",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "learnbyexample/learn_gnuawk",
+    "desc": "Example based guide to mastering GNU awk",
+    "officialSite": "https://learnbyexample.github.io/learn_gnuawk",
+    "topics": ["linux", "command-line", "regex", "awk", "gnu", "exercises", "ebooks", "learn-by-doing", "one-liners"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dunwu/linux-tutorial",
+    "desc": ":penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本",
+    "officialSite": "https://dunwu.github.io/linux-tutorial/",
+    "topics": ["docker", "git", "linux", "python", "shell", "vim"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "micahkepe/vimtutor-sequel",
+    "desc": "Vimtutor Sequel - Advanced Vim Tutor Lessons",
+    "officialSite": "",
+    "topics": ["vim", "vimrc", "vimtutor"],
+    "avatar": "https://avatars.githubusercontent.com/u/112597765?v=4",
+    "banner": ""
+  }
+]

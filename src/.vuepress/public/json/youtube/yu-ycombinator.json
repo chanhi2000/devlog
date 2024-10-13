@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ycombinator",
+    "name": "Y Combinator",
+    "profile": "https://yt3.googleusercontent.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cVsaSWEGbBdrwtXnoixvau-WlIh-WhVh-_MAx52WeXRmfivkOS3x8pr0pWvsvZiR5a76V3wP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fmI_OciHV_8", "title": "Building AI Models Faster And Cheaper Than You Think" },
+    { "id": "0TNTlMZFTWw", "title": "Why This Is The Perfect Time To Start A Startup" },
+    { "id": "KxjPgGLVJSg", "title": "How New Technology Creates New Businesses" },
+    { "id": "TwDJhUJL-5o", "title": "The Truth About Building AI Startups Today" },
+    { "id": "a_n4yOqlWbA", "title": "Apple Vision Pro: Startup Platform Of The Future?" },
+    { "id": "al-15mMAS18", "title": "Building Confidence In Yourself and Your Ideas" },
+    { "id": "CYdsh1FhpI4", "title": "Critiquing Software Startup Websites with CEO of Glide" },
+    { "id": "4N55fVuxxOg", "title": "Critiquing Startup Mobile Apps with Glide CEO" }
+  ]
+}

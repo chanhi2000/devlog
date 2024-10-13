@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodeJava",
+    "name": "Code Java",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMr-P0tziCP-KWWEGvcHsbrPts1Dz29Y9q7yR72=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "QloyS2dt9T4", "title": "Spring Boot CRUD Tutorial with Spring MVC, Spring Data JPA, ThymeLeaf, Hibernate, MySQL" }
+  ]
+}

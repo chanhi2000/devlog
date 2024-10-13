@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "SpaceinvaderOne",
+    "name": "Spaceinvader One",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTaRbRNBZ7mo9Wiqvpt37MSgMDoeGfTAmMCeQN4Xg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bq58SePe8ZZUWsSweTlnBVih4WtUwMUT5DxybwcfRaaPXxmIZaUTrh39Lgh9b9Z9yEGwPgcK4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tCsl9OXQ3q8", "title": "Master Tailscale on Unraid Pt 1: Easy Setup, Subnet Routing & Secure Sharing" },
+    { "id": "WDn9Rz-wB2I", "title": "Supercharge The Unraid GUI. Run Commands & Scripts from the GUI with Custom Tabs Super" },
+    { "id": "YvJKJa24CuU", "title": "Unraid 7 is Here !" },
+    { "id": "Ss5kulPlI1k", "title": "Effortless Unraid in 10 Minutes - Dedicated Server Datacenter Setup" },
+    { "id": "1LG3_hnq9eA", "title": "Eco Power Build - Building a Powerful, Energy Saving 4 Bay Unraid Server" },
+    { "id": "h5fAcE70xbQ", "title": "Simple Cloudflare Tunnel Setup on Unraid for Beginners!" },
+    { "id": "krAZcUIP3YE", "title": "Immich  pt1 - A Closer Look - See How It Compares with Google Photos Before You Switch" },
+    { "id": "bXTeftSu0J0", "title": "Mastering ZFS: Snapshot to Rsync Replication to Non-ZFS Destinations - PART B" },
+    { "id": "_r6OMmqsYTk", "title": "2 Minute Tips  -  Easily Exchange SSH keys in 30 seconds or less" },
+    { "id": "qnEuHKdf7N0", "title" :"How to Migrate from Letsencrypt to the New Swag Container" }, 
+    { "id": "yD6FJEYRpsY", "title" :"How to Setup Jitsi in Docker with a Reverse Proxy on Unraid" }, 
+    { "id": "g_jk9D2e5q0", "title" :"How to Easily Install macOS Catalina Mojave or HighSierra as a VM on Unraid" }
+  ]
+}

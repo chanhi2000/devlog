@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "AdamWathan",
+    "name": "Adam Wathan",
+    "profile": "https://yt3.googleusercontent.com/LUV91I2BU6RZkjkdw4zj0SXuxmWyUSQ5rUkGabNkQSXB8Z_y2wXhKVR_PrBZk2mSXRXHRvzp7Sc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JIwiWULN2m2MduT10ZJiekU7Lj8ZWsOuQCXinBf5FmyRJRIFNzjkm6x3jnRma4D9PkWtqclo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oLK_cJ114QY", "title": "Rebuilding Allbirds.com with Tailwind CSS (Part 2)" }, 
+    { "id": "eSDRc6kyqBA", "title": "Building a Slide-Over Panel with Tailwind CSS" }, 
+    { "id": "7lf6dwipRYg", "title": "Working on Tailwind UI" }, 
+    { "id": "Y8fufuQOIgY", "title": "Building the Tuple Pricing Page with Tailwind CSS" }, 
+    { "id": "Ybybd3GCNn4", "title": "Designing with Tailwind CSS: The Utility-First Workflow" }
+  ],
+  "playlists": [
+
+  ]
+}
+
+

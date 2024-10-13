@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "DarshilParmar",
+    "name": "Darshil Parmar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l0-z0XGCN_AKGnpeutLxsWgwSh9rE2CRii9UVB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ef2XaeL0150ZPelQNUfS1Hnx-EsQBYsR_S1G_F0nAYZq0XcJuz38tCDCUiFKGPk9LPsj0rSJQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XnPF-MDMUzc", "title": "You're not stupid: How to learn difficult things | Complete Guide" },
+    { "id": "JUws0cMnL78", "title": "What Does a Data Engineer Do? Explained Simply" },
+    { "id": "Ydts27Qa8H0", "title": "Learn Kafka in 10 Minutes | Most Import Skill for Data Engineering" },
+    { "id": "IaA9YNlg5hM", "title": "Olympic Data Analytics | Azure End-To-End Data Engineering Project" },
+    { "id": "VIJH7TZXkaA", "title": "Learn Snowflake in 10 Minutes| High Paying Skills | Step by Step Hands-On Guide" },
+    { "id": "X8Fin2zMKK4", "title": "AWS Data Engineering Complete Roadmap 2024 (Top 10 Services To Focus)" },
+    { "id": "AUb1il2F73c", "title": "Data Engineering Certifications To Get Ahead Of 99% People" },
+    { "id": "Ihm53yWftI8", "title": "How To Read Tech Books? (Things I learned after reading 21 books)" },
+    { "id": "KV4hZR5-D-4", "title": "How I Got 60LPA Remote Job as Data Engineer" }
+  ],
+  "playlists": [
+
+  ]
+}

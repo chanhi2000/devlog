@@ -1,0 +1,64 @@
+{
+  "channel": {
+    "id": "cpponsea2834",
+    "name": "cpponsea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQCWEYMx7dMxjBE3VmQOWEWtGJcyYHjdiV4DX7c=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/li4jNhPL-S7ItWDI3rcwVotY0SySEPTcH9fIw3UUR7Oi527VBU4jQ6IBccFq0ollmvxJFNjyvQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oxPSU_grhWg", "title": "Lightning Talk: Six Ideas for Your Next Programming Job Hunt - Sandor Dargo - C++ on Sea 2023" },
+    { "id": "SFv8Wm2HdNM", "title": "The Forgotten Art of Structured Programming - Kevlin Henney [C++ on Sea 2019]]" }
+  ],
+  "playlists": [
+    {
+      "title": "C++ on Sea 2023",
+      "videos": [
+        { "id": "iFTfVWWxg5g", "title": "Announcing C++ on Sea 2023" },
+        { "id": "BaUv9sgLCPc", "title": "Keynote: Safety in C++: All the Safeties! - Sean Parent - C++ on Sea 2023" },
+        { "id": "9V195P3Tv_8", "title": "The C++ rvalue Lifetime Disaster - Arno Schoedl - C++ on Sea 2023" },
+        { "id": "76glMGPAs0o", "title": "Comparing Libraries to Parse JSON Data in C++ - Maja Marevic - C++ on Sea 2023" },
+        { "id": "19Sr8XhN0BM", "title": "Endnote: AI-Assisted Software Engineering - Bryce Adelstein Lelbach - C++ on Sea 2023" },
+        { "id": "sxKetQVPivI", "title": "Polymorphism, Cohesion, and Coupling in C++ - Jody Hagins - C++ on Sea 2023" },
+        { "id": "4dADc4RRC48", "title": "A Safer Iteration Model for C++ - Tristan Brindle - C++ on Sea 2023" },
+        { "id": "lIK7NrBrw6Y", "title": "How to Build Cpp Interfaces That Are Hard to Use Incorrectly - Andreas Weis - C++ on Sea 2023" },
+        { "id": "6TrJc06IekE", "title": "Shared Libraries in Windows and Linux - Ofek Shilon - C++ on Sea 2023" },
+        { "id": "zGWj7Qo_POY", "title": "C++ Features You Might Not Know - Jonathan Müller - C++ on Sea 2023" },
+        { "id": "ajRTADPXEko", "title": "Special Member Functions in C++ - Kris van Rens - C++ on Sea 2023" },
+        { "id": "DJTEUFRslbI", "title": "So, You Want to Use C++ Modules … Cross-Platform? - Daniela Engert - C++ on Sea 2023" },
+        { "id": "Rc2hFf1HVow", "title": "A Guide to Debugging C++ Code: Practical and Interactive Examples - Sebastian Theophil - C++ on Sea" },
+        { "id": "h4s891KVN80", "title": "What Happens After The Compiler in C++ (How Linking Works) - Anders Schau Knatten - C++ on Sea 2023" },
+        { "id": "gV7jhTMYkKc", "title": "Typical C++, but Why? - Björn Fahller - C++ on Sea 2023" },
+        { "id": "ILr75Hxig-4", "title": "OLD VERSION: What's New in Compiler Explorer? - Matt Godbolt (New Link In Description)" },
+        { "id": "CZMuMINaS5Q", "title": "Employing Modern C++ for High Performance Delta-Coding Compression - Eduardo Madrid - C++ on Sea" },
+        { "id": "dFIqNZ8VbRY", "title": "*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023" },
+        { "id": "J9KijLyP-yg", "title": "Implementing Fast Calendar Algorithms: Speeding Date - Cassio Neri - C++ on Sea 2023" },
+        { "id": "uqPTzUdNLZk", "title": "Building RESTful Interfaces in C++ With nlohmann and cpp-httplib - Kevin Carpenter - C++ on Sea 2023" },
+        { "id": "TEeBcjKZhfg", "title": "An Engineering Approach to Optimising C++ - Dave Rowland - C++ on Sea 2023" },
+        { "id": "uYFRnsMD9ks", "title": "New Algorithms in C++23 - Conor Hoekstra - C++ on Sea 2023" },
+        { "id": "O5sEug_iaf4", "title": "What's New in Compiler Explorer? - Matt Godbolt - C++ on Sea 2023" },
+        { "id": "z8e5cyZJtUw", "title": "Templates Made Easy With C++20 - Roth Michaels - C++ on Sea 2023" },
+        { "id": "012YD1u0GXs", "title": "Designing for Concurrency Using Message Passing in C++ - Anthony Williams - C++ on Sea 2023" },
+        { "id": "nFvKpnA5Aj0", "title": "A Smooth Introduction to SYCL for C++20 Afficionados - Joel Falcou - C++ on Sea 2023" },
+        { "id": "YD3rI0Z1hYo", "title": "Lightning Talk:  Undefined Behaviour in C++ - Cassio Neri - C++ on Sea 2023" },
+        { "id": "opkyq_K-uZw", "title": "Tips and Tricks for Becoming a CMake Master - Hans Vredeveld - C++ on Sea 2023" },
+        { "id": "2jzuuOeUDQI", "title": "Coroutine Intuition in C++ - Roi Barkan - C++ on Sea 2023" },
+        { "id": "l8D6CAN2rCk", "title": "Throwing Tools at C++ Ranges - Tina Ulbrich - C++ on Sea 2023" },
+        { "id": "kLNCphYSggY", "title": "Standard C++ Toolset - Anastasia Kazakova - C++ on Sea 2023" },
+        { "id": "zJ1eHxT_nCM", "title": "Why Clean Code Is Not the Norm? - Sandor Dargo - C++ on Sea 2023" },
+        { "id": "37gh-itbyyQ", "title": "Lightning Talk: C++ String Literals Have the Wrong Type - Jonathan Müller - C++ on Sea 2023" },
+        { "id": "yO-RgTT3wAQ", "title": "A Tour of Polymorphism Techniques in C++ - Andrew Marshall - C++ on Sea 2023" },
+        { "id": "DaCb8iB0a5I", "title": "Midnote: Why Cpp Loops End - Lisa Lippincott - C++ on Sea 2023" },
+        { "id": "QQrTE4YLkSE", "title": "How to Simulate a Low Latency Exchange in C++ - Benjamin Catterall - C++ on Sea 2023" },
+        { "id": "amiWkbp5DDY", "title": "The Small Pearls of C++20 - Rainer Grimm - C++ on Sea 2023 - OLD VERSION" },
+        { "id": "8FlP0FiARAI", "title": "C++ MythBusters Strike 2 - Victor Ciura - C++ on Sea 2023" },
+        { "id": "ptMFLSAkRj0", "title": "Most Malleable Memory Management Method in C++ - Björn Fahller - C++ on Sea 2023" },
+        { "id": "2u-VuOBOCTI", "title": "Automatic Caching for C++ Builds: Merging Git and the Compiler - Damien Buhl - C++ on Sea 2023" },
+        { "id": "eUdz0WvOMm0", "title": "The Power of C++ Templates With mp-units: Lessons Learned & a New Library Design - Mateusz Pusz 2023" },
+        { "id": "6rObkwyREwY", "title": "A Tour of Polymorphism Techniques in C++ - Andrew Marshall - C++ on Sea 2023" },
+        { "id": "SJlyMV_oTpY", "title": "Efficient and Reliable Wrapping of C APIs Using Modern C++ - Vladimir Vishnevskii - C++ on Sea 2023" },
+        { "id": "BhMUdb5fRcE", "title": "The Small Pearls of C++20 - Rainer Grimm - C++ on Sea 2023" },
+        { "id": "Lf-ZRvOLXfQ", "title": "Hidden Hazards: Unique Burnout Risks in Tech - Dr. Allessandria Polizzi - C++ on Sea 2023" }
+      ]
+    }
+  ]
+}

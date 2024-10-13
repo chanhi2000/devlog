@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "Huntabyte",
+    "name": "Huntabyte",
+    "profile": "https://yt3.googleusercontent.com/jC3B-FwL-4GqQKiLzbKt60mcZxm12Kudxx6WF9I8nG7xHeQ87m8BfoHsD2NHmTZ0-ooojbC3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GGuGTXa5XYU", "title": "Code & Chill / Maybe Build Something" },
+    { "id": "vz8y2Nnz7T4", "title": "Exploring Lucia v3 and Drizzle" },
+    { "id": "DmY2k8HSIDg", "title": "Exploring Lucia v3 and Drizzle" },
+    { "id": "mIcGgPAp7gM", "title": "Fun with Drizzle, Lucia, & Svelte 5" },
+    { "id": "jwRqiCv6Z9k", "title": "Svelte UI Libraries Have Leveled Up" },
+    { "id": "KUahgYMwJCk", "title": "Code and Chill" },
+    { "id": "LOOWFSRs5Bs", "title": "Let's Refactor svelte-sonner" },
+    { "id": "UhfWNINXn9g", "title": "Let's Refactor svelte-sonner" },
+    { "id": "2Cc_LC4rRqw", "title": "Porting Vaul to Svelte" },
+    { "id": "HQ9cjV7rVnM", "title": "Porting Vaul to Svelte" },
+    { "id": "LrzTcTboglc", "title": "Porting Vaul to Svelte" },
+    { "id": "EyDV5XLfagg", "title": "An easy mistake to make with SvelteKit" },
+    { "id": "B19DEGEclfk", "title": "I already love SvelteKit v2" },
+    { "id": "vpTtsXBYqeo", "title": "🎄 Advent of Svelte 5 (Days 11+)" },
+    { "id": "xlrstbUpyZI", "title": "🎄 Advent of Svelte 5 (Days 8-10)" },
+    { "id": "r9Dkw1yqG68", "title": "🎄 Advent of Svelte 5 (Day 7)" },
+    { "id": "BmVKp_KKzTI", "title": "🎄 Advent of Svelte 5 (Days 3-6)" },
+    { "id": "DgNWssn2vpc", "title": "Don't Sleep on Svelte 5" },
+    { "id": "san5ValGE5g", "title": "Working on the Date Picker for Melt UI" },
+    { "id": "ugaajUi9xAQ", "title": "Prevent App Abuse with Upstash Redis" },
+    { "id": "bfbam0Zf4p0", "title": "The Anti Component Library" }, 
+    { "id": "hB6OkaYWS5I", "title": "Flash Messages in SvelteKit" }, 
+    { "id": "P_A0qQ7AuK8", "title": "Best UI Library for Svelte" }, 
+    { "id": "ioELbSf8z2k", "title": "Live Code & Chill - Adding Directus as CMS (SvelteKit, Supabase, Stripe)" }, 
+    { "id": "13v50nLh67Q", "title": "10X Your SvelteKit Developer Experience in VSCode" }
+  ]
+}

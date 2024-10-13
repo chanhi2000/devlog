@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "itseorab",
+    "name": "IT서랍",
+    "profile": "https://yt3.googleusercontent.com/KoIDmeb5As3Hq2xwg_2Gx4ISxB_WfH68zLPdUlA5KrGo_-WxNO4XhDkEqQfiA57RNsucsP9FXBM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GDYHFQKKmvw", "title": "#031 엑셀로 랜덤데이터셋 생성" },
+    { "id": "Oi2qG_dAxzc", "title": "#030 데이터가공. 이 함수 하나면 끝납니다. 진짜라니까요" },
+    { "id": "kV09vScJy6U", "title": "#023 엑셀함수한번으로 표요약 종결!! 이래도 안쓰실거에요?" },
+    { "id": "YayImg_KDos", "title": "#024 엑셀체크박스로 데이터를 \"쉽게\" 합칠 수 있습니다." },
+    { "id": "Z31luiMYKU8", "title": "#025 엑셀수식에 \"비밀번호\"를 넣어야만 볼 수 있는 데이터 만들기" },
+    { "id": "tztPONVZgyk", "title": "#026 일단 보세요. 깜짝 놀라실겁니다. 엑셀수식이 기간별 계산을 자동으로 해줍니다" },
+    { "id": "NgqiVDKNObE", "title": "#027 엑셀개념잡기 | 조건부서식 정복하기" },
+    { "id": "VfXAtigXgtg", "title": "#028 엑셀 잘하느냐 못하느냐는 여기에 달려있습니다" },
+    { "id": "noUR7UGTxI8", "title": "#029 보기 좋게 알아서 가공해주는 함수. \"무료로\" 제공해드립니다" },
+    { "id": "R_HqtUROfxI", "title": "안보면 손해인 엑셀에서 \"만능함수\" 만드는 법" },
+    { "id": "SVO32ur-69I", "title": "진짜??? 365수식만으로 간트챠트를 구현한다고??" },
+    { "id": "XSgWfIzN1iA", "title": "VBA 없이, 엑셀365 함수만으로 \"섯다게임\" 만들기 (1부)" },
+    { "id": "JXul5S62Ldg", "title": "#017B VBA 없이, 엑셀365 함수만으로 \"섯다게임\" 만들기 (2부)" },
+    { "id": "DdYqshMP_J8", "title": "#018 \"다중 조건 검색\"이 가능한 데이터 필터링 함수 만들기" },
+    { "id": "g070BU204yQ", "title": "#019 엑셀함수로 해찾기 로직을 구현해봅시다! 참 쉽죠?!" },
+    { "id": "e2E87OeceBM", "title": "#020 엑셀에서 날짜와 시간은 \"이렇게\" 쓰는겁니다." },
+    { "id": "iaGl4UO2ICY", "title": "#021 1초만에 데이터가공을 자동으로 완성시켜줍니다" }
+  ]
+}

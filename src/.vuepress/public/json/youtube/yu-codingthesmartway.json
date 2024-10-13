@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "codingthesmartway",
+    "name": "CodingTheSmartWay.com",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM8DOZxPWml8w-taIUQ6z-FCkMu6uye2JxgUxr7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6k2hAuA_pbhvF0SDbLqpg0iVYEsuV2GJJOAwJESZPg1ATo_Geyokzdqa4CSAXsv3T_tJ7upU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ifY6GfFhzbk", "title": "Full Stack Ethereum Development - #3 - Installing And Setting Up MetaMask" },
+    { "id": "sRaBKY_dDGg", "title": "Building A Blog With Eleventy And Netlify CMS - Part 3: Managing Blog Content With Netlify CMS" },
+    { "id": "Cxbvi4mL8nE", "title": "Meteor & Svelte - Building Full-Stack Reactive Web Applications - 06: User Accounts" },
+    { "id": "j_5-LISy9Qg", "title": "Tailwind CSS For Absolute Beginners" },
+    { "id": "4RkMAt8-u8g", "title": "NestJS For Absolute Beginners" },
+    { "id": "G24n-WERqsM", "title": "Apollo Server 2 Introduction" },
+    { "id": "hS-czwYyTpo", "title": "Docker - Beginner's Guide - Getting Started With Containerization - Part 2: Services" },
+    { "id": "MnDT1aB39hQ", "title": "Docker - Beginner's Guide - Getting Started With Containerization - Part 1: Images & Containers" },
+    { "id": "i-Jk0Qfh-gk", "title": "Vue.js 2 State Management With Vuex - Introduction" }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "Eduonix",
+    "name": "Eduonix Learning Solutions",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l0Kl6bZFNe-AtoZEOgNVVEDAdEiwgFuBIMr-ozsIq8TP4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5I_4fKoP4fW-cO27Zpdnnqbl4fXQx-Y8a2QwRe1JjZYplgBukQTZ2iSw0YReGw96C26UKHIf=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n6w3dOubIaM", "title": "Job Search Tips & Tricks | How to find the Right Career ? | Job Market Research | Eduonix" },
+    { "id": "99aPCENDUIA", "title": "AI tools for Programmers | How to Use Chat GPT for Coding? | Coding for beginners | Eduonix" },
+    { "id": "SkAAEDSvfgw", "title": "Coding with ChatGPT | Can AI write code for you? | Coding without knowing how to code? | Eduonix" },
+    { "id": "kk_1xhpetNU", "title": "Chat GPT 101: Getting started with ChatGPT | What is OpenAI Playground ? | Eduonix" },
+    { "id": "S2qwf-XdPUg", "title": "Attention Hackers & Defenders! ️ Stop Cybercrime with Eduonix's Masterclass (Kickstarter Exclusive!)" },
+    { "id": "A9bnsRWPuSg", "title": "Mastering the Art of Blogging: Harnessing the Power of AI in Blogging" },
+    { "id": "P4bcoDvNtIA", "title": "3-Minute Guide to Supercharge Your Life with ChatGPT in 2024! | 10 ChatGPT Life Hacks | Eduonix" },
+    { "id": "WpQ_Wcb6dZk", "title": "Mastering the Art of Blogging: Mastering Headlines, Introductions, and Tools for Content Creation" },
+    { "id": "Paw_myi79ic", "title": "Mastering the Art of Blogging: Crafting Compelling Conclusions with AI" },
+    { "id": "yiOQpDUcb9s", "title": "Mastering the Art of Blogging: Optimization Tips and Image Generation" },
+    { "id": "ZH3dxdCDSqQ", "title": "Unlock Your Creative Potential with Write Sonic - 2023 Edition" },
+    { "id": "XhgUClE5uC0", "title": "NGINX tutorial | Learn NGINX Fundamentals | Eduonix" }, 
+    { "id": "TtQqhp-wjY4", "title": "Learn Ansible from Scratch | How to use Ansible with Vagrant | Eduonix" }, 
+    { "id": "p9_4YHOUr4k", "title": "[JavaScript] | Optimize JS with Webpack (2019) | Eduonix" }, 
+    { "id": "Q4Wc9kRdlik", "title": "How to Create Web animation from CSS!  2019 | Eduonix" }, 
+    { "id": "Je_J78qx2eY", "title": "Learn To Build Weather App With React | Add Component & API Keys (Part 2/3) | Eduonix" }, 
+    { "id": "MEsoLU5u_FA", "title": "Promises in JavaScript | NodeJS File Transferring in Promises (Part 6/6) | Eduonix" }, 
+    { "id": "dhaaHKU7Nzk", "title": "ES6: Introduction to Spread Operator | Eduonix" }
+  ], 
+  "playlists": [
+
+  ]
+}

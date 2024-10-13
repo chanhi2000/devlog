@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Dev2Devs",
+    "name": "Dev2Devs",
+    "profile": "https://yt3.googleusercontent.com/2DiaJL5QtC7IqhHP71oaeoDfbKVeyqbCjXCYQU8rHfwM8V8lUip_wKBbPmqGjXAYJ4Ow7JOPUns=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DacH4SAb7No42OysH89UhSBZNoxW7_AyCNMhxQgiHCGWjjhyaIKVXpAxIJo7YSDoHpH2_XBr5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6-u0UBTJ5is", "title": "Запрашиваем Permissions в Jetpack Compose в Android Studio" },
+    { "id": "Zwr8Qedm8_c", "title": "Подключение к удаленному Android устройству с Firebase в Android Studio JellyFish" },
+    { "id": "vvG9Avp5NBg", "title": "Content Provider - Основной Компонент Android Приложения | Android Studio Основы | Kotlin | БАЗА" },
+    { "id": "CuBWlk1Ah5Y", "title": "Android ПРИЛОЖЕНИЕ с Gemini. ИИ готовит Борщ по фотографии" },
+    { "id": "BMJ4yxg-0KA", "title": "Каталог версий зависимостей в Android Studio на языке TOML + Kotlin" }
+  ]
+}

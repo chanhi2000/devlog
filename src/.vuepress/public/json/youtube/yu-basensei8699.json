@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "basensei8699",
+    "name": "BA Sensei",
+    "profile": "https://yt3.googleusercontent.com/b7tBdcPv5zQkEfQR_UnyEP3nEr45j5Jag-vaxE-hCG-mVy61F2BDvm5FSzbzFxBMJuegIuh1Mew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KoZi7PprCZK_aa0SS2emknKldVhLnxFFMuqWFrOP9yVJ7--5dPDoR0WEA38NDGl3qyCZV-WH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HLE_1GuW-BA", "title": "Power Query - Unstack Rows with List.Alternate" },
+    { "id": "rN-LJcjXaow", "title": "Power Query - Dynamically Sort Table Columns by user input" },
+    { "id": "pkEDTWW3_YU", "title": "Power Query - Add Report Context fields as Columns🩺📖" },
+    { "id": "YSzekjZPkHE", "title": "Power Query - Iteratively Add Calculated Columns 🦩🦖" },
+    { "id": "avuuPlWIWxY", "title": "Power Query - Extracting Patterns - Dates & Hash Tags 🦖🦩" },
+    { "id": "e3c142fGJnQ", "title": "Power Query - Advanced Transformation of Nested Tables" },
+    { "id": "ILk-38VDr3A", "title": "Power Query - Refer to Sheet by Number" },
+    { "id": "vIcmD7EqTT0", "title": "Power Query - The Let-in syntax alternatives" },
+    { "id": "vEnjSZC-RRk", "title": "Power Query - Shortcut to Remove Columns" },
+    { "id": "JUQMnuF8qqc", "title": "Power Query - Adding spaces to CamelCase & number fields with List Accumulate" },
+    { "id": "B5tkkOcteVs", "title": "Power Query - Dynamically transform column names" },
+    { "id": "bCSeOHrSy58", "title": "Power Query - List.Buffer to do a Million row Lookup" },
+    { "id": "QBhG8m-zio0", "title": "Power Query - Dynamically Promote Double Headers 🚀📊" },
+    { "id": "1mJaN1t9mwk", "title": "Power Query - Previous Row Hack" },
+    { "id": "WnzQU-T3ZB0", "title": "Power Query - Unstack Rows to Columns" },
+    { "id": "JTKW7f62eb0", "title": "Power Query - Unstack Uneven Rows to Columns🍔" },
+    { "id": "bg5Fo9D8rL8", "title": "Power Query - Connecting and returning data from ChatGPT 🤖📞" },
+    { "id": "DDa8S2lc61w", "title": "Python - Making ChatGPT API Call 📞🤖" },
+    { "id": "0sWOK5EAN5Y", "title": "PowerBI & DAX - Lost Customers (Absolute) 🕵️‍♂️👥❌" },
+    { "id": "kXBGWqE3TeQ", "title": "Power Query - Dynamically Remove Junk Rows 🗑️🚫" }
+  ]
+}

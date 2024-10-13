@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "codemunchies",
+    "name": "Code Munchies",
+    "profile": "https://yt3.googleusercontent.com/XOtHAFXNvg4808MdtBYMWEwUpnuPib2DB8E2RCnpWvV329N9j24d7TGCehLctXPspTlEOR6YMro=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-BGok116f0VCifK3PhaW7lg09I1l60HExNSfDo2NlF09-WBOVAusixbjYJwHFpU0OSyins7Arw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KDuRRWeV4Ag", "title": "This one line of code can BREAK your app" },
+    { "id": "gTlW5L2Fu9c", "title": "How Instagram saved their platform" },
+    { "id": "RnjTYBhAcfA", "title": "The code behind the Apollo moon landing ... was perfect" },
+    { "id": "Z1K-cbYjhN0", "title": "This function is tricking you" },
+    { "id": "5v4ajvu5nOs", "title": "How Spotify's big data fuels 602 million users" },
+    { "id": "ExJow3fjLS4", "title": "2000 vs 2024: Why modern UI is AMAZING" },
+    { "id": "zf20v80pLG8", "title": "One line of code cost $440 million..." },
+    { "id": "xFTf0xLbKXw", "title": "OpenAI is a trojan horse ..." },
+    { "id": "o48tgSxEMTU", "title": "Python has a dirty little secret" },
+    { "id": "a9fMUun1jZo", "title": "How Airbnb gave the SECRET to perfect JavaScript code" },
+    { "id": "W5KzAr2pg6o", "title": "Who has the BEST UI?" }
+  ],
+  "playlists": [
+    
+  ]
+}

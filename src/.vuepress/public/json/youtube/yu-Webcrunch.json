@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "webcrunch",
+    "name": "Webcrunch",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTp7EE08TPRG9N-VQq4D5P_wRm6Q20PxbBdqv4_sQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D8fhq001Aiaw3GF7roX6tesMz2f9YegrpzuVxDUirXHrczb3HWt1I7THi5z2TJJs5mZ4g578jJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dZrtm0Z7NR8", "title": "Building Turbo Loading Buttons in Rails: A Step-by-Step Guide" },
+    { "id": "_qp8r9uBtqk", "title": "Turbo Frames versus Turbo Streams: What’s the difference?" },
+    { "id": "A2-mc_sfw_o", "title": "ES6 JavaScript Countdown Tutorial" },
+    { "id": "WSzliaAeRVU", "title": "Hotwire Comments with Ruby on Rails" },
+    { "id": "Vlyrob0uXHs", "title": "Tailwind CSS Border Gradient Tutorial" },
+    { "id": "mPICVXo36MU", "title": "Rails UI Update - Website and Retriever template launch" },
+    { "id": "AyfPL6FSoRI", "title": "Rails Hotwire Voting and Flash Messages" },
+    { "id": "GU2VnZSoeX0", "title": "Simplifying Data with Rails Single Table Inheritance" },
+    { "id": "BBZt9akoLwo", "title": "Rails Concerns vs. Modules and when to use each" },
+    { "id": "250-v2xDeiY", "title": "10x your chances of landing a Ruby on Rails Job" },
+    { "id": "VAmBVtTb2z4", "title": "Rails UI Update - Refreshed Developer UX + new Retriever theme" },
+    { "id": "w7UzwO673Gg", "title": "Should you use Ruby on Rails in 2024?" },
+    { "id": "dxu7OeEnp6A", "title": "Easy String Normalization with Rails" },
+    { "id": "x4wZXxAL2Ig", "title": "Avoid these 9 mistakes when learning Ruby on Rails" },
+    { "id": "Jaa1reWjsqA", "title": "Rails UI Update - Shepherd theme launch" },
+    { "id": "Pf3Kpbb4ZHg", "title": "How to Add Live Reload to Your Rails Application" },
+    { "id": "h_xmLBxS5SA", "title": "Create a Responsive Tailwind Navbar with Dropdowns" },
+    { "id": "gdePV0Beihg", "title": "Digging into View Transitions with Turbo 8 and Rails" },
+    { "id": "GkqZoIK1HhY", "title": "Add Geolocation to Search with Rails and Stimulus.js" },
+    { "id": "F63GgJSYE9I", "title": "Infinite Scroll with Rails and Turbo  - No JavaScript" },
+    { "id": "2Cp9ECsQZ_Y", "title": "Tailwind CSS Mouse-Tracking Glow Effect with JavaScript" },
+    { "id": "XzXKZduCvII", "title": "How to use Bun with Ruby on Rails" },
+    { "id": "imU_9_C4UcQ", "title": "Digging into Solid Queue and Rails" },    
+    { "id": "7phZqghhho0", "title": "Re-create Airbnb's Home Page with Tailwind CSS" },
+    { "id": "wURcezOECD0", "title": "Digging into Turbo 8's Morphing Feature in Ruby on Rails" }
+  ]
+}

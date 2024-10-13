@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "JavaInUse",
+    "name": "JavaInUse",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR5PTScpeMRRDONtV0WLOPYXWLiFma8FkhUKlZjfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bKUFnda9kng-F01Ym2VYmbYCsEVqArp56ECDmCgPR17LxSd_f2tvjjY_l5NqWQF71qbQ_h2C0Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mv3uS8R-me4", "title": "Spring Boot + WebSocket Hello World Example" }
+  ]
+}
+

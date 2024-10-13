@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "withmarko",
+    "name": "Marko",
+    "profile": "https://yt3.googleusercontent.com/5wQnSF-6B07vV3el26JwWt7vwvL2MVvb80gwKZNDwsceSehVRJr8_46bdQsuws6iFlYAYd52rQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Wt_sQ44dxF0", "title": "My App Made $100 - Lessons Learned" },
+    { "id": "SiRt-TQhL2o", "title": "How I Crowdstriked My Own App..." },
+    { "id": "PpmIdVbEerQ", "title": "Should Developers Be Held Liable for System Failures??" },
+    { "id": "FMRWIwnMdXA", "title": "Why I Stopped Multitasking as a Software Engineer" },
+    { "id": "ZL8DgYaaA-8", "title": "OneMenu Dev Stream" },
+    { "id": "X9XUc7RSfxM", "title": "OneMenu Dev Stream" },
+    { "id": "wj4FLcW95UA", "title": "OneMenu Dev Stream" },
+    { "id": "SZyqRxXs_1k", "title": "OneMenu Dev Stream" },
+    { "id": "ufCvXzGSQ_M", "title": "How to Choose a Database (SQL vs. NoSQL)" },
+    { "id": "HjMJPyPgWXQ", "title": "Why You Need a Side Hustle As a Software Engineer" },
+    { "id": "KqrOePY3Oow", "title": "This Framework Changed How I Write Code" },
+    { "id": "kGEOl3BWfgk", "title": "How Coding Changed My Life" },
+    { "id": "amdUS2rfjWI", "title": "Code With Me - Early Morning in Oslo, Norway ☀️" },
+    { "id": "OMwACKWpOks", "title": "The Architecture of My App - Day in the Life of a Software Engineer (ep. 41)" },
+    { "id": "7fTagbYHkbM", "title": "How to Get What You Want: Communication Tips for Software Engineers" },
+    { "id": "xR_uI4YHVpI", "title": "My Daily Driver Notion Setup in 2024 as a Software Engineer" },
+    { "id": "U7Pkzk6O2Nw", "title": "Coding Vlog - Day in The Life of a Software Engineer (ep. 44)" },
+    { "id": "lkPOdxb79jM", "title": "Simple Coding Vlog to Stay Productive" },
+    { "id": "7z0HYLZX8Xg", "title": "My Notion Setup as a Software Engineer" },
+    { "id": "cCnlk8ZqgcY", "title": "Making & Dealing With Money as a Software Engineer" },
+    { "id": "EcAi9vTPAZE", "title": "How Should I Implement This Backend?" },
+    { "id": "nLmct8bkGaI", "title": "My New Side Hustle - Fixing All of Email 😃 - Day in the Life of a Software Engineer (ep. 33)" }, 
+    { "id": "En6KVC_1FAQ", "title": "How I Use Chat GPT at Work - Day in The Life of a Software Engineer (ep. 30) 😃" }, 
+    { "id": "6gibI4Fo1R8", "title": "My ChatGPT 4 Workflow & Tips as a Software Engineer" }, 
+    { "id": "GqgWz-n4hdE", "title": "Pushing My Mac to The Limit ⚡️" } 
+  ],
+  "playlists": [
+
+  ]
+}

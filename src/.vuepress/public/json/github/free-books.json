@@ -1,0 +1,402 @@
+[
+  {
+    "repo": "papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "officialSite": "http://paperswelove.org",
+    "topics": ["computer-science", "meetup", "awesome", "programming", "theory", "papers", "read-papers"],
+    "avatar": "https://avatars.githubusercontent.com/u/6187757?v=4",
+    "banner": "https://opengraph.githubassets.com/986796aa35a6db80a60c0154bc16a4ebf04bdfc547172f75f8d085c0452152fd/papers-we-love/papers-we-love"
+  }, {
+    "repo": "ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "officialSite": "",
+    "topics": ["awesome", "frontend", "weekly"],
+    "avatar": "https://avatars.githubusercontent.com/u/7970947?v=4",
+    "banner": "https://opengraph.githubassets.com/9b6a6a729b06c58161cc6a4f59fc9ef65c6361d41d5b00bef068fb2b5b4d50ae/ascoders/weekly"
+  }, {
+    "repo": "automateyournetwork/automate_your_network",
+    "desc": "The book in PDF format for all to enjoy!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/44117002?v=4",
+    "banner": "https://opengraph.githubassets.com/083ae11e517513a5d821c2a7981753f12d17d4870390e7037b8b4f8bd771e5bc/automateyournetwork/automate_your_network"
+  }, {
+    "repo": "Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
+    "officialSite": "",
+    "topics": ["machine-learning", "matrix", "linear-algebra", "mathematics", "matrix-factorization", "linear"],
+    "avatar": "https://avatars.githubusercontent.com/u/105787223?v=4",
+    "banner": "https://opengraph.githubassets.com/37a99a8268857bea269b9ff94a13fc8c53e76238f82c0b782abe9e75649c4f5e/Visualize-ML/Book4_Power-of-Matrix"
+  }, {
+    "repo": "google-research/tuning_playbook",
+    "desc": "A playbook for systematically maximizing the performance of deep learning models",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mark-watson/free-older-books-and-software",
+    "desc": "I used to have PDFs for my books on my web site - I moved them to this public repo.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Ignitetechnologies/Mindmap",
+    "desc": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "officialSite": "",
+    "topics": ["pdf", "download", "ebooks", "new-yorker", "economist", "economist-ebooks"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games",
+    "officialSite": "",
+    "topics": ["basic", "classic-game", "basic-computer-games"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "onhexgroup/Conferences",
+    "desc": "Conference slides",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ibaiw/2023Hvv",
+    "desc": "2023 HVV情报速递~",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet",
+    "officialSite": "https://interviewready.io",
+    "topics": ["cache", "fault-tolerance", "scalability", "system-design"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenIntroStat/ims",
+    "desc": "📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.",
+    "officialSite": "https://openintro-ims2.netlify.app",
+    "topics": ["bootstrap-confidence-intervals", "inference", "modern-statistics", "openintro", "rstats", "simulation", "statistics"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ByteByteGoHq/system-design-101",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+    "officialSite": "https://blog.bytebytego.com",
+    "topics": ["aws", "cloud-computing", "coding-interviews", "computer-science", "interview-questions", "software-architecture", "software-development", "software-engineering", "system-design", "system-design-interview"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "danieldonda/Cybersecurity101",
+    "desc": "Um guia abrangente para iniciantes na área de cibersegurança.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor",
+    "desc": "Smart contract audit skills roadmap for beginners, auditors, engineers, etc.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZachGoldberg/Startup-CTO-Handbook",
+    "desc": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
+    "officialSite": "https://ctohb.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ProfSynapse/Synapse_CoR",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DataEngineer-io/data-engineer-handbook",
+    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+    "officialSite": "",
+    "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordan-cutler/path-to-senior-engineer-handbook",
+    "desc": "All the resources you need to get to Senior Engineer and beyond",
+    "officialSite": "",
+    "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "federico-busato/Modern-CPP-Programming",
+    "desc": "Modern C++ Programming Course (C++11/14/17/20/23)",
+    "officialSite": "",
+    "topics": ["arithmetic", "arithmetic-types", "c-plus-plus", "code-quality", "compilers", "course", "cpp", "cpp-course", "cpp11", "cpp14", "cpp17", "cpp20", "cpp23", "debugging", "object-oriented-programming", "optimization", "programming", "template"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "standard-webhooks/standard-webhooks",
+    "desc": "The Standard Webhooks specification",
+    "officialSite": "https://www.standardwebhooks.com/",
+    "topics": ["api", "asyncapi", "callbacks", "http", "json", "openapi", "specification", "standard", "standard-webhooks", "webhook", "webhooks"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Enraged-Rabbit-Community/ERCF_v2",
+    "desc": "Community designed ERCF v2",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ossu/bioinformatics",
+    "desc": ":microscope: Path to a free self-taught education in Bioinformatics!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xiaolai/everyone-can-use-english",
+    "desc": "人人都能用英语",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "awslabs/amazon-kinesis-video-streams-webrtc-sdk-c",
+    "desc": "Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.",
+    "officialSite": "https://awslabs.github.io/amazon-kinesis-video-streams-webrtc-sdk-c/group__PublicMemberFunctions.html",
+    "topics": ["kinesis-video-streams", "webrtc", "webrtc-sdk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lanceliao/china-holiday-calender",
+    "desc": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AIGCDesignGroup/ReplaceAnything",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bleedline/aimoneyhunter",
+    "desc": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "justjavac/free-programming-books-zh_CN",
+    "desc": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+    "officialSite": "http://weibo.com/justjavac",
+    "topics": ["android", "angular", "books", "free", "ios", "javascript", "kotlin", "pdf", "programming", "python", "react", "react-native", "swift", "vue"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English which might benefit you a lot 🎉. 离谱的英语学习指南/英语学习教程。",
+    "officialSite": "https://byoungd.github.io/English-level-up-tips/",
+    "topics": ["chinese", "english-learning", "tutorial"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Dicklesworthstone/introduction_to_temporal_logic",
+    "desc": "An introduction to temporal logic and how it can be used to analyze concurrency",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "iam-veeramalla/Azure-zero-to-hero",
+    "desc": "Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Dicklesworthstone/hoeffdings_d_explainer",
+    "desc": "A Detailed Introduction to My Favorite Statistical Measure, Hoeffding's D",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lining808/CS-Ebook",
+    "desc": "一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。",
+    "officialSite": "",
+    "topics": ["ai", "computer-science", "data-science", "deep-learning", "ebooks", "programming-language"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AkmmusAI/LLM-Prompt-Engineering-Simplified-Book",
+    "desc": "LLM Prompting Engineering Simplified Book",
+    "officialSite": "https://llmnanban.akmmusai.pro/Book/LLM-Prompt-Engineering-Simplified-Book/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kludex/fastapi-tips",
+    "desc": "FastAPI Tips by The FastAPI Expert!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordan-cutler/path-to-senior-engineer-handbook",
+    "desc": "All the resources you need to get to Senior Engineer and beyond",
+    "officialSite": "",
+    "topics": ["awesome", "career", "career-growth", "path-to-senior", "senior-engineer", "software-developer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "officialSite": "",
+    "topics": ["awesome", "awesome-list", "bsd", "cheatsheets", "devops", "guidelines", "hacking", "hacks", "howtos", "linux", "lists", "manuals", "one-liners", "pentesters", "resources", "search-engines", "security", "security-researchers", "sysops"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "officialSite": "https://developer.mozilla.org",
+    "topics": ["css", "documentation", "html", "http", "javascript", "learning", "mdn", "reference", "web-development", "web-standards"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kelseyhightower/kubernetes-the-hard-way",
+    "desc": "Bootstrap Kubernetes the hard way. No scripts.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KAYOKG/BibliotecaDev",
+    "desc": "📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`)",
+    "officialSite": "https://github.com/KAYOKG/SendScriptWhatsapp-Global",
+    "topics": ["biblioteca-do-desenvolvedor", "english", "leitura", "livro", "livros-desenvolvedor", "pdf", "portuguese"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LLMBook-zh/LLMBook-zh.github.io",
+    "desc": "《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣",
+    "officialSite": "https://llmbook-zh.github.io/",
+    "topics": ["artificial-intelligence", "deep-learning", "deep-neural-networks", "deep-reinforcement-learning", "fine-tuning", "language-model", "large-language-models", "natural-language-processing", "nlp", "pretrained-models"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "it-ebooks-0/geektime-books",
+    "desc": ":books: 极客时间电子书",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "shieldfy/API-Security-Checklist",
+    "desc": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+    "officialSite": "",
+    "topics": ["api", "jwt", "oauth2", "security"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nicanorflavier/spf-dkim-dmarc-simplified",
+    "desc": "Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "karpathy/LLM101n",
+    "desc": "LLM101n: Let's build a Storyteller",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gurugio/book_assembly_8086_ko",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/453184?v=4",
+    "banner": ""
+  }, {
+    "repo": "free-educa/books",
+    "desc": "o armazém de livros",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/73291301?v=4",
+    "banner": ""
+  }, {
+    "repo": "Emacs101/howm-manual",
+    "desc": "Note-taking in Emacs with howm package",
+    "officialSite": "",
+    "topics": ["emacs", "howm"],
+    "avatar": "https://avatars.githubusercontent.com/u/58047526?v=4",
+    "banner": ""
+  }, {
+    "repo": "0voice/expert_readed_books",
+    "desc": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+    "officialSite": "",
+    "topics": ["books", "nginx", "pdf", "redis", "software-architecture", "software-design"],
+    "avatar": "https://avatars.githubusercontent.com/u/43104160?v=4",
+    "banner": ""
+  }, {
+    "repo": "rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "officialSite": "https://www.labri.fr/perso/nrougier/",
+    "topics": ["book", "dataviz", "matplotlib", "numpy", "open-access", "plotting", "python", "scientific-publications"],
+    "avatar": "https://avatars.githubusercontent.com/u/327203?v=4",
+    "banner": ""
+  }, {
+    "repo": "keleshev/compiling-to-assembly-from-scratch",
+    "desc": "Source code for the book Compiling to Assembly from Scratch https://keleshev.com/cas",
+    "officialSite": "https://keleshev.com/cas",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/619158?v=4",
+    "banner": ""
+  }, {
+    "repo": "dexteryy/spellbook-of-modern-webdev",
+    "desc": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
+    "officialSite": "",
+    "topics": ["nodejs", "javascript", "learning", "awesome", "html5", "libraries", "css3", "webapp", "webplatform", "universal-javascript", "isomorphic-javascript"],
+    "avatar": "https://avatars.githubusercontent.com/u/43011?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/2ba8700daebb146c5b676103bb14f08e5930d44e0b9e605d0c0483ca540d6acd/dexteryy/spellbook-of-modern-webdev"
+  }
+]

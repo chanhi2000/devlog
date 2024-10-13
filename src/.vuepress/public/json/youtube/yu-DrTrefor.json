@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DrTrefor",
+    "name": "Dr. Trefor Bazett",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZZQsgxp-wElV1CuqgtMyxVYB6be5oJFzk_RPK4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1xZXyCCQvG963UxmBvXuUZ02bCbMu-HcE3PVrC4L4yn14nUgaaGak1zMc9O8f2mLHRjJh_e5IQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AkPZcS8eqmA", "title": "Could 1-1+1-1+1-1+1-1+... actually converge?" },
+    { "id": "UJlo-NirJDE", "title": "Why don't whales get more cancer? - Peto's Paradox" },
+    { "id": "cI0gGcYOkiI", "title": "How to write your homework using LaTeX" },
+    { "id": "5jmIHOWpEg0", "title": "How I make beautiful GRAPHS and PLOTS using LaTeX" }
+  ]
+}

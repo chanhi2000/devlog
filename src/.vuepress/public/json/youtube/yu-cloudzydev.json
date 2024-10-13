@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "cloudzydev",
+    "name": "cloudzy",
+    "profile": "https://yt3.googleusercontent.com/2-wMKMlLRCrAZtnuFk_yv_QbPIBHfAuaTMqumI93IinVInbj0tvyi0JJDL2rFajVC4LIsree=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0FNs_8jwSVCZZW8Frt0JnmdZLRtFrf0xx7HmX5fEerbmDKBXRM0-lc-8OgML4m4iueOBqSAzCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dIDYZe8YG5g", "title": "You Need Better Resume Projects" },
+    { "id": "59bJxSd4IoY", "title": "Pass Your Coding Interviews - Every Time" }
+  ],
+  "playlists": [
+
+  ]
+}

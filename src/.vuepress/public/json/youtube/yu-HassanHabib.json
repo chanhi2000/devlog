@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "HassanHabib",
+    "name": "Hassan Habib",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOsalK0zBkYibrLUmQ2PXcmJxMm0xDY23ODM_6Wbg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ABl3qpyfEsbtfaRXiiqAk7rkMpo-UgoB1vrjQ-z2pblACl9gYkNyVg_ZXzakn3BNtDowbIbQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kNMPlbonbQA", "title": "Introduction to Azure AI Studio" },
+    { "id": "Y76B0rAoZpo", "title": "Build Discord Bot in C# .NET" },
+    { "id": "Krju03DqW4I", "title": "Rethinking RESTFulsense" },
+    { "id": "utFpDJgXvD4", "title": "REST001: Abstractions & Exposers" },
+    { "id": "gCDo24dJ5Fg", "title": "REST002: Standardized Provider Abstraction Spikes" },
+    { "id": "41X3JJlUsKw", "title": "EI034: Data Processing Service (Part 6)" },
+    { "id": "vMMm137e8dU", "title": "EI032: Data Processing Service (Part 4)" },
+    { "id": "OC4e8rWx6E0", "title": "EI027: AI Processing Service (Part 13)" },
+    { "id": "zZjLK0fI4ZQ", "title": "EI028: Reviewing SQL Services" },
+    { "id": "Qr-LbEasal0", "title": "EI024: SQL Processing Service (Part 4)" },
+    { "id": "S6pw8VXccHU", "title": "Introduction to NuVerify" },
+    { "id": "rhW3LxRmLuI", "title": "EI022: SQL Processing Service (Part 3)" },
+    { "id": "eBrHCGe1KQA", "title": "OPENAI031: Fine-Tuning Models Services (Part 1)" }, 
+    { "id": "2Joa5iA1AKE", "title": "Modularizing SDK Service Providers" }, 
+    { "id": "yOgreCMzaUA", "title": "Generating ASP.NET Pipelines in C#" }, 
+    { "id": "juyZCgF9g2E", "title": "Upgrading ASP.NET Core API to .NET 6" }, 
+    { "id": "jWIPkpl6Yr0", "title": "EFS003: Initialize ASP.NET Core Unit Tests" }, 
+    { "id": "qI1vIuGb9lo", "title": "BLZ007: Base Components" }, 
+    { "id": "YlqTLtqh--4", "title": "BLZ006: View Services in Blazor (Validations & Exceptions)" }, 
+    { "id": "YYqheVfaNIU", "title": "BLZ003: Services in Blazor (Validations)" }, 
+    { "id": "ufjtuAel538", "title": "Upgrading to .NET 5.0 RC w/ C# 9.0" }, 
+    { "id": "5Htj8JFglb4", "title": "BLZ001: Introduction to Blazor" }, 
+    { "id": "JQnTpGV-7YA", "title": "OPENAI000: Getting Started" }, 
+    { "id": "JEb0BA8CgFk", "title": "Standardized Provider Abstraction Libraries" } 
+  ]
+}

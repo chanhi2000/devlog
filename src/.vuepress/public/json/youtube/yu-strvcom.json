@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "strvcom",
+    "name": "STRV",
+    "profile": "https://yt3.googleusercontent.com/-ynaTiAR-F5PPkCg3gy1KWX9wkiS6g6CmUBtU6Q2s9Z4yRKeS79TPFnkuY2VJuS3RCNcNotXgKE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/m_pnQ5KIMmU4rdXKAHRs-ycljbWHjanSQWopk0zbT-jBrZeWVQk2w95PQM5NURRQEMKTgbVtcw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w4dVp0Yi7is", "title": "Forms - React Nights 2019 - Week 4" }
+  ]
+}

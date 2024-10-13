@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "TechNolli",
+    "name": "TechNolli",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQ67_yl4SmSRI6nWOQjRGXw9tjHCWe0dZClTkXgpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t-701yNNDt5fDRNgAzl5idq-A7PiDSCjhUnjpNFDqTJ1oWzuJFsr4WWJuZdFc0E5DjngFAVQ-6A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hvpStozAfmE", "title": "USB Port Mapping for HACKINTOSH in 2024" },
+    { "id": "Kr_YYt0vJfg", "title": "LOST DATA FILES? EaseUS Data Recovery Wizard gets them BACK" },
+    { "id": "dUVo_kWVc_E", "title": "Add Thunderbolt to your HACKINTOSH PC" },
+    { "id": "-BbM55SBSxY", "title": "AMD Ryzen Hackintosh? Does it work? Thunderbolt work too?" },
+    { "id": "cFPbT4HnV3I", "title": "SUPER EASY Hackintosh Complete Guide | How to Install macOS on a Windows Computer!" },
+    { "id": "xthQKGEEthk", "title": "How to Install MACOS and Any PC Using a Windows Computer | COMPLETE GUIDE, Step by Step!" },
+    { "id": "aAQdN4F4BMw", "title": "Can we run Sonoma on a Gigabyte X299 Designare EX? w/Benchmarks!" },
+    { "id": "HPHWBOrWDAs", "title": "13th Gen Intel Z790 Hackintosh / Opencore Install Guide" },
+    { "id": "7uSjxZhJtNo", "title": "$150 Dell Optiplex 7020 Hackintosh Computer using Opencore - with FREE EFI!" },
+    { "id": "gu3nGg_PqDI", "title": "HACKINTOSH an ASRock Z490 Phantom Gaming iTX w/THUNDERBOLT 3 OPENCORE 0.6.6 Guide using BIG SUR!" },
+    { "id": "vaob-HFNLXM", "title": "Opencore Intel Kaby Lake Chipset USB Bootloader | 2020" },
+    { "id": "7uSjxZhJtNo", "title": "$150 Dell Optiplex 7020 Hackintosh Computer using Opencore - with FREE EFI!" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "UnsureProgrammer",
+    "name": "Unsure Programmer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ23oMAwxCkA2_nryFBX4JMcK-RcY5bBIwwvFWn=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rpx1j2rovslSYf3wBOa4cO6jVEKJEKyfvL_geTgDLKLoK55hkknNOG2uQqrbYFfi_bbhrWxW40A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JiSsS1Xj5uQ", "title": "Flutter Uber 6/6 - Draggable Scrollable Bottom Sheet" }
+  ]
+}

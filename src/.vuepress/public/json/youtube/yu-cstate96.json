@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "cstate96",
+    "name": "C-STATE",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQsyA-mzhCBt0gf9iQvYy9Kg9zUK6PsNCO8ETFd8g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "aGVHIMnkj-4", "title": "GPU rendering and a Bevy-style ECS for my game engine (Weaver Devlog #3)" },
+    { "id": "hhf2IIGj1q8", "title": "How I created the renderer for my Rust game engine! (Weaver devlog #4)" },
+    { "id": "q0xWnGR-BzI", "title": "I'm creating a game engine from scratch in Rust. (Weaver Devlog #1)" },
+    { "id": "Dyk4vr6cavE", "title": "Rendering a spinning cube from scratch in Rust! (NO OpenGL) (Weaver Devlog #2)" },
+    { "id": "yq-msJOQ4nU", "title": "I wrote an operating system kernel from scratch in Rust. (k4dos devlog #1)" },
+    { "id": "ZKJsf3MGnxA", "title": "I'm creating a audio signal processing engine in Rust. (papr devlog #1)" }
+  ]
+}

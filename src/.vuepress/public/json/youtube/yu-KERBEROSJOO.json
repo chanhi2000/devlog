@@ -1,0 +1,20 @@
+
+{
+  "channel": {
+    "id": "KERBEROSJOO",
+    "name": "KERBEROS",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZDUY_4OFFf0EUGsfVibQHgPDZmE-20MqaAvc7RWQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IDvmHMEaUuUtQRQiXFBdFnaoJhB6Xm084FL_BMiNL0m-WUZUFDnAXRSAvJqNtiM_y5IjjB4_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7_MYowocn4s", "title": "[해킹]xerosploit 으로 도스 공격해보기(dos)" }, 
+    { "id": "1sFJ_qq5I_o", "title": "[해킹]중간자공격!! 피해자가 다운로드 하는파일을 악성코드로 바꿔치기" }, 
+    { "id": "k-2Nm_TDCSA", "title": "[해킹]라우터 로그인 아이디패스워드 해킹하기(ettercap)" }, 
+    { "id": "QiMzFgTL0Go", "title": "[해킹]중간자공격 으로 E메일 계정 해킹 하기" }, 
+    { "id": "gFK6N59-kOs", "title": "[인스톨]자동으로 취약점을 찾아내는 nessus 1편(설치 방법)" }, 
+    { "id": "QqtQ9NVETkk", "title": "[해킹]자동으로 취약점을 찾아내는 nessus 2편(사용 방법)" }, 
+    { "id": "rr3520OXo7g", "title": "[해킹]망가진 베일(Veil-Evasion)을 고쳐봅시다...(Pyinstaller fix)" }, 
+    { "id": "mugWbbPql7w", "title": "[해킹]MyJsRat으로 자바스크립트 백도어 만들기" }, 
+    { "id": "XyHD94w7HMY", "title": "[인스톨]mitmf 설치 방법 그리고 망가진 mitmf 고치는 방법 :)" }
+  ]
+}

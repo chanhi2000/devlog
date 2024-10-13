@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ray_math",
+    "name": "Ray 수학",
+    "profile": "https://yt3.googleusercontent.com/2k_AzHZpL83g0LnbfO__uFBjSc5yXomFmHInLpQ8-ZxDV1Mmh1vJ_MSUivS2cERkAOu8vVjrfQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wGCiqRw6op85EhmP4_gtq4v9QAe0OlfBmorvy2gUydOhghkhOUCTaYDlgICt0UqQ_rFtO93Z7sU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TDciF3wWfic", "title": "‘거리’란 무엇인가?" },
+    { "id": "X3vNawaaJMw", "title": "알아두면 정말 좋은 삼각형" },
+    { "id": "82lG4phkOZo", "title": "7의 배수인지 판단하는 방법" },
+    { "id": "_8QTCOaONeQ", "title": "폴리아 추측, 하지만 빨랐죠?" }
+  ]
+}

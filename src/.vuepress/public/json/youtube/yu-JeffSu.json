@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "JeffSu",
+    "name": "Jeff Su",
+    "profile": "https://yt3.googleusercontent.com/FGRGJWhnadrqjQMrNbgjff3re4aVyHcOxCfc1_tYZvfd2SCWFrS11mkUR-LyD28P1bqZICTq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QePOKFTiLLudlTxqdSHVQhtl045_TJAPG3H2LseZd_hLR2PYm83jsbn6Rx2u-m22A4MSGMpB3Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2uN8PTXMY5c", "title": "ChatGPT for Job Seekers: Best (and Worst) Use Cases!" },
+    { "id": "_9pKAG_XabM", "title": "A GENIUS Way to use ChatGPT for Presentations!" },
+    { "id": "v0NjRqblySI", "title": "3 Workspace Templates that TRIPLED My Productivity" },
+    { "id": "qcis85AStL4", "title": "Google Insider: 10 Tactics for Amazing Business Presentations!" },
+    { "id": "Y35EHDRNUeo", "title": "You’re using ChatGPT wrong" },
+    { "id": "cYbcgtK0v_Q", "title": "How to Get Started with Notion (without losing your mind)" },
+    { "id": "YFHqEM4g_Hc", "title": "Top 10 BEST Macbook Tips for Productivity!" },
+    { "id": "HT0jiQLT98Y", "title": "This Simple Notes Management System Changed My Life!" },
+    { "id": "Yq0QkCxoTHM", "title": "Google’s AI Course for Beginners (in 10 minutes)!" },
+    { "id": "F448meqCWqc", "title": "Write the Perfect #prompt in #chatgpt and #googlebard" },
+    { "id": "MM-MPS57qKA", "title": "This Simple File Management System Changed My Life!" }, 
+    { "id": "ZXmbb5fPfgk", "title": "I wish every Job Seeker would watch this" }, 
+    { "id": "CPYwVRtlxms", "title": "15 UNCONVENTIONAL Notion tips for Productivity (in 2023)!" }, 
+    { "id": "dVxMrVJ58as", "title": "First 18 Things to Do for Productivity // New Macbook Pro!" }, 
+    { "id": "-xXc7qeiC8I", "title": "10 BEST Mac Apps for Productivity!" }, 
+    { "id": "FXV-zwkRMxo", "title": "My Entire Alfred Workflow: Supercharge Your Mac (for free)!" }  
+  ]
+}

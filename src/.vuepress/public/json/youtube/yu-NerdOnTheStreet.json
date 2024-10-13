@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NerdOnTheStreet",
+    "name": "Nerd on the Street",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbSeiFFSBD6shV1D7WlaIpgLCCcE15krxVddk6WaA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t6DhXZGjpctuBUHbb4bv3tVVxIxClRLIC6_1-rQMFTTFpcijJO1bWJ76SQOEuQBcgP_cmciNE6M=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8r6_QPkh-34", "title": "Owncast - Self-Hosted Streaming & Chat" },
+    { "id": "oT6NGuJEuEQ", "title": "NOTS Web Server OS Upgrade" }
+  ]
+}

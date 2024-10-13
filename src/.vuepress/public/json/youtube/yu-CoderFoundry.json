@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "CoderFoundry",
+    "name": "Coder Foundry",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSvH5vTt9FaKfa-gOqB23M03uB6xKsP2Yhi2tnc8Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/smgy1ICdztSKAcF059RnlVYpjddOgStGgvBqnr15f2H0G9CwSKrFemj0j60BSZSYiHenY1BOGA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FDSd2sQ5P3Q", "title": "Live coding with AI (Copilot)" },
+    { "id": "6z3MRuL5jJs", "title": "Why Coding Bootcamps Still Work In 2024" },
+    { "id": "9o5alYDEraI", "title": "Changing A Site CSS With No JavaScript (CSS :checked)" },
+    { "id": "HcVfL9o4LUw", "title": "Blazor JavaScript Interop (Easy How To)" },
+    { "id": "e9IFl7BP4HI", "title": "The Brutal Truth About The Web Development Job Market in 2024" },
+    { "id": "bvhZ653aUSM", "title": "Live coding The 100k Subs Giveaway With Blazor" },
+    { "id": "6SaYkzxAULo", "title": ".NET 8 & Blazor: Server Side Magic!" },
+    { "id": "eQkusddfDlE", "title": "Blazor: Easy Client-Side Form Validation" },
+    { "id": "shNw2a-Ma5U", "title": "Coding Challenge: Clock Hands (Complete Blazor Web App Solution)" },
+    { "id": "lCB9hdfJbSg", "title": ".NET 8 Release Showcase + CF Announcements" },
+    { "id": "5NDIqqw7HrE", "title": ".NET 8 LIVE Coding - Building Blazor Movie" },
+    { "id": "3vAWLYf76a4", "title": "Why A Portfolio Is The Most Essential Tool In Getting A Web Developer Job" },
+    { "id": "MfhqoGXYvGY", "title": ".NET 8 Blazor Component - LIVE CODING" },
+    { "id": "by0R12OQyV8", "title": "Mastering .NET 8 Blazor: Web Assembly Render Mode" },
+    { "id": "T6KqwUX3oEc", "title": "Mastering .NET 8 Blazor: SignalR Render Mode" }
+  ],
+  "playlists": [
+
+  ]
+}

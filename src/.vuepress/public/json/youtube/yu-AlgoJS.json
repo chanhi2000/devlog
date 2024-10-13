@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "AlgoJS",
+    "name": "AlgoJS",
+    "profile": "https://yt3.googleusercontent.com/zWlc-ln82AeLCVfkzfoHOq9UA9LfdDmv7RQwkWjoHlzjDUoeIk1pLqSN8B_DE2Z08zhyo-Zd=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JNqnTJrH3Vu26CgYkh7z0yck_eZL_LJw1pTlLlBc0iFZ5f1UCPrYaAvOP2-ERTaQq6T2PyFCcA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fIJxuKRvorw", "title": "Tricky Coding Interview Question - JavaScript" },
+    { "id": "8cqpkCreiwM", "title": "Goldman Sachs Coding Interview Question - Trapping Rain Water - LeetCode 42" },
+    { "id": "WhY6Gc4oU20", "title": "Can YOU code??" },
+    { "id": "0YNzXi_bnl4", "title": "Uber Coding Interview Question - Open The Lock - LeetCode 752" },
+    { "id": "40L6LFHeaIs", "title": "Meta Coding Interview Question - LeetCode 17 - Letter Combinations of a Phone Number" },
+    { "id": "1DPJTIJrf3E", "title": "ONE OF THE BEST Coding Interview Questions! JavaScript" },
+    { "id": "cg773b-m_jg", "title": "Tricky FAANG Coding Interview Question" },
+    { "id": "4Z6i8C8SL68", "title": "Why Do Programmers Hate Dynamic Programming?" },
+    { "id": "pnA_aZ9yK_M", "title": "Easy Google Coding Interview Question | Symmetric Tree" },
+    { "id": "wY3kUe1qhWM", "title": "Spotify Asked This Coding Interview Question" },
+    { "id": "RG-__ufdlBk", "title": "Do YOU Know Kadane's Algorithm?" },
+    { "id": "kP7yfjnjg-U", "title": "Find the Longest Common Prefix - JavaScript" },
+    { "id": "CnERLlKaunY", "title": "CAP Theorem - System Design For Beginners" },
+    { "id": "srQUdJqtb7s", "title": "Solve it!!" },
+    { "id": "aNR2BIMysxA", "title": "YOU should SOLVE this EASY Coding Interview Question!!" },
+    { "id": "uv8tFS2VFuA", "title": "Can You Solve THIS??" },
+    { "id": "dr6G-0_1vt0", "title": "Let's Solve IT!! 🔥🔥" },
+    { "id": "97SYKuSiPyk", "title": "Do YOU know ALL 3??" },
+    { "id": "5GUafMNTQ4o", "title": "Can You Create a Dynamic Function??" },
+    { "id": "JVAnp_hqksk", "title": "Coding Interview Trick Using ASCII - JavaScript" },
+    { "id": "cmudHYxvff4", "title": "Step By Step Guide To Working Out Time Complexities" }, 
+    { "id": "gX7FZFT592A", "title": "LEVEL UP Your JavaScript game!!" },
+    { "id": "m1Au_FuWSps", "title": "Easy Spotify Coding Interview Question - Power of 4 - JavaScript" },
+    { "id": "uv8tFS2VFuA", "title": "Can You Solve THIS??" },
+    { "id": "ilyWzhrV4o0", "title": "Don't Make This Mistake in JavaScript - Async Operations" },
+    { "id": "bIZ9CD5fy4k", "title": "Wish I KNEW this SOONER in JavaScript" },
+    { "id": "-Tq0InmOQ8Y", "title": "Challenging Bloomberg Coding Interview Question - JavaScript" },
+    { "id": "Y0cVqEnNbjo", "title": "Tricky Uber Coding Interview Question - JavaScript" },
+    { "id": "y4hQsaalCT8", "title": "The Most Asked Coding Interview Question By Big Tech!!" },
+    { "id": "SYc-jmhW8Xs", "title": "How To Solve This Apple Coding Interview Question With Recursion" },
+    { "id": "K3j0cVF8hHU", "title": "Tricky Ebay Coding Interview Question - JavaScript" },
+    { "id": "ME_d50kQHds", "title": "Tip to LEVEL UP your JavaScript game! #vscode #programming #javascript" },
+    { "id": "q_nUHURoR24", "title": "AVOID doing THIS in JavaScript!! #javascript #programming #coding" },
+    { "id": "t5reyDz4eVQ", "title": "THIS is USEFUL For Coding Interviews!! JavaScript" },
+    { "id": "a-ExHGsk_c8", "title": "VERY USEFUL JavaScript Trick!! #javascript #programming #coding" },
+    { "id": "mXWq0TrRZhs", "title": "99% of you DON'T KNOW one of these!! - JavaScript" },
+    { "id": "Votsx3M1i24", "title": "What is a MONOTONIC array??" }
+  ],
+  "playlists": [
+
+  ]
+}

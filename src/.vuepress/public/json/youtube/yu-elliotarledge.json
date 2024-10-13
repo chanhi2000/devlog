@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "elliotarledge",
+    "name": "Elliotcodes",
+    "profile": "https://yt3.googleusercontent.com/O2Fi4CiEfd6urZuvXDx8EpTXDHioq_hxjmpXO80onyeBENGOKk-Zgsz-xTBcdvuhUfp1w_VsjTc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/11hauvX_mzJ_kVgtf3MbGGWlfhHV6hcRbcWnU580b880UZN7eIYsgmxX9UO_4L2UbIl-I8Lso2E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HqyM0qxmOvk", "title": "So you wanna get into Minecraft AI? (MineRL)" },
+    { "id": "_tCnT52TCtg", "title": "Everything you need to know about Llama 3…" },
+    { "id": "raM-SKDonrI", "title": "Minecraft Meets AI: Quick Setup Tutorial" },
+    { "id": "yH1LCjjcnls", "title": "Int8 in hardware #coding  #ai #programming #chatgpt #gpt4 #python" },
+    { "id": "QWpICycYfMg", "title": "Embeddings 101 #coding  #ai #programming #chatgpt #gpt4 #python" },
+    { "id": "0dbihoMRuyg", "title": "explaining backpropagation until i go bananas" },
+    { "id": "Ms79JZIoI1E", "title": "Reinforcement Learning from Scratch in 20 minutes" },
+    { "id": "tvpH8p3Crno", "title": "How to Build a Raspberry Pi Security System (Python Edition)" }
+  ],
+  "playlists": [
+
+  ]
+}

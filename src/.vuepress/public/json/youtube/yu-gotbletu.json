@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "gotbletu",
+    "name": "gotbletu",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR-UWCdjMJi3ZqIwSt9n2rPlQeP33EyXkHWmO5S=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gkG83nvk3sZ9yltMVrGvIfw2H-9j8OmZ5ORvJ5tjFGOYwRBI8LMHtMYqOqMm6viUhtF93tKx6Nc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cik2zaDaIdo", "title": "dotool - Simulate Keyboard and Mouse Input Anywhere (X11, Wayland, TTYs) - Linux CLI" },
+    { "id": "eANLqIhOgWw", "title": "reverbeats - Play Relaxing Ambient Sounds - Linux TUI" },
+    { "id": "YGsq4ogwmBk", "title": "zinger - level up your Meme via FZF - Linux TUI" },
+    { "id": "fkHG0a8LceU", "title": "Flat View is Amazing on Ranger File Manager - Linux TUI" },
+    { "id": "9-4boJ9krsY", "title": "clipmenu - FZF Simple Clipboard Manager - Linux TUI" },
+    { "id": "v_j4ax2Q1Dc", "title": "gadacz - TUI Audiobook Player - Linux TUI" },
+    { "id": "cKf7uT5dBlY", "title": "gio trash - Command Line Trash Program - Linux CLI" },
+    { "id": "eoiDFkIakOE", "title": "gogh - Download Tons of Terminal Themes" },
+    { "id": "N19q30RlAkM", "title": "termscp - TUI Terminal File Transfer and Explorer SSH SFTP SCP FTP FTPS Amazon S3" }, 
+    { "id": "oedJ-taJ4fg", "title": "Reduce Filesize by Converting GIF PNG JPG Images to WebP  - Linux CLI" }, 
+    { "id": "Q10dcPjmRTI", "title": "shellnium - Automate The Web Using Shell Scripts - Linux SHELL SCRIPT" }, 
+    { "id": "8SqakfCSzQk", "title": "fzf-nova -- FZF as Rofi Dmenu Replacement Launcher - Linux CLI GUI" }, 
+    { "id": "2-us9oTs7Jw", "title": "mkelvis - Easy Create Surfraw Elvi Smart Searches - Linux CLI" }, 
+    { "id": "PjiWlqKZQv8", "title": "`up` - Unix Pipes Interactively, The Ultimate Plumber - Linux TUI" }, 
+    { "id": "bc5thl-Dngs", "title": "`aria2p` - Download Manger Frontend for Aria2c Daemon - Linux CLI TUI" }, 
+    { "id": "dOIwg9nMF10", "title": "cbftp - Ncurses FTP and FXP Client - Linux TUI" }  
+  ]
+}

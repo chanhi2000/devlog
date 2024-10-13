@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "2MinutesPy",
+    "name": "2MinutesPy",
+    "profile": "https://yt3.googleusercontent.com/2K1NGavVO6VtJE9QRfoty0wXn2qf00rk3aDEmZMfwK4QLv_DR7a08wZ8K-T9NjC6rgmMhDfr=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3m1mMiUDTwlPjiwQFURzuG0CK0dYeyC680bUVNRWSmu-8h1B2wouE-bZXFtPJc0g1SIa9Rca=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xZJNa71Rvt4", "title": "Python \"yield\" Keyword?? 2MinutesPy" },
+    { "id": "WjCBzJT6-Uc", "title": "What are these (/ and *) parameters in function? 2MinutesPy" },
+    { "id": "7vH7Ho4eMVQ", "title": "Race Condition and How to Solve it - threading.Lock() | 2MinutesPy" },
+    { "id": "ruOzNI9Q-Ho", "title": "__new__ VS __init__ in Python" },
+    { "id": "eCIKq3AIWbU", "title": "How to use `map()` function in Python | 2MinutesPy" },
+    { "id": "a3eE5kslhek", "title": "List comprehension in Python - How to use | 2MinutesPy" },
+    { "id": "tKCURAMFdd4", "title": "What are Decorators in Python? 2MinutesPy" },
+    { "id": "GCW5CQJnMAk", "title": "How To Create Classes in Python? 2MinutesPy" }
+  ]
+}

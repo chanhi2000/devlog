@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "dream-coding",
+    "name": "드림코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOdLzfsCbIOLQk3lEcXnGHW7G7dUW__Lc43HH9MEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Vhitr1Drxw_na_GrftE8OkJdYJzMTyyBA1rqlGCbY2kwiIGVGBIBLiX5pphUvMUD6G32x6Ni=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j8rTeUZiiXc", "title": "Remix가 웹프레임워크 시장을 선두할것인가? (마지막영상)" }, 
+    { "id": "iLqGzEkusIw", "title": "제발 깃허브 액션🔥 모르는 개발자 없게해 주세요 🙏" }, 
+    { "id": "FEBkne7Nyu4", "title": "PWA (Progressive Web App) 개념과 따라만들기 📲" }, 
+    { "id": "KJUdqPDAtTI", "title": "개발자 취업을 위한 포트폴리오 만들기 | 취업에 성공하는 포트폴리오 관리법, 프론트엔드 공부 방법 ⭐️" }
+  ]
+}

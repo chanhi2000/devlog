@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "AwsRh",
+    "name": "Aws Rh",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPWS_cn6XvQk7I_41rYCVCFEfQt2lm99daJH9-m=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P1i-uzHeDPsFeX5GYMprkudTT77QQxiQkA9ar5rXNBqapVngE4R56y95ezXwRyzpF6VI4JX2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pNu8SUHJ9LM", "title": "Android CV & Portfolio Minimal App Part6: Side Menu Setup | Android Studio Tutorial" }, 
+    { "id": "fYQedKwcdgE", "title": "Android CV & Portfolio Minimal App Part5: Portfolio Grid List | Android Studio Tutorial" }, 
+    { "id": "CKro63_Tk_Q", "title": "Book App UI Template part3: Recyclerview Custom Item Animator | Android Studio Tutorial" }, 
+    { "id": "UEUinO30E9w", "title": "RecyclerView Item Animation Part 4 : Night / Dark Mode Implementation | Android Studio Tutorial" }, 
+    { "id": "rJ-7KgMAJUo", "title": "RecyclerView Item Animation Part 3 : Create & Apply Animations | Android Studio Tutorial" }
+  ]
+}
+

@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "kotlang",
+    "name": "Mohammad Arif",
+    "profile": "https://yt3.googleusercontent.com/phuOEibGNRN85TcwB6oZqodCTWq63pPS365sSEMNJaGh5BvQkmcFTpbpUDtN-Kvfo-4D-av7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/13O07KG2UFJC3a5yol27ELNSNz8ddY88-_zeIid6ng2OR8emyDI9tfENIeDWoq_Pnur5W-BmIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Q01OYMvdiGE", "title": "AnimatedVisibility || Exploring Animations in Jetpack Compose || Android || Kotlin" },
+    { "id": "VYJzCehzpYs", "title": "Crossfade || Exploring Animations in Jetpack Compose || Android || Kotlin" },
+    { "id": "D73-3nDtVBs", "title": "Exploring Animations in Jetpack Compose || Android || Kotlin" },
+    { "id": "YJZ-XqLbvwE", "title": "animate*AsState || Exploring Animations in Jetpack Compose || Android || Kotlin" },
+    { "id": "K3PbisJtj-s", "title": "Snake Game Android App || Jetpack Compose || Canvas || #kotlin" },
+    { "id": "0H4oW_PECGw", "title": "ROOM || #database || #android || #jetpackcompose || #kotlin || #sqlite" },
+    { "id": "WSClX2zIu1A", "title": "#android #kotlin #coding #jetpackcompose" },
+    { "id": "qDpaWH2oTY0", "title": "#android #kotlin #coding #jetpackcompose" },
+    { "id": "uj1kAVmU4eg", "title": "StudySmart Android App || #1 Project Setup || Jetpack Compose || Room || Kotlin" }, 
+    { "id": "uHn4wF5W84o", "title": "StudySmart Android App || #2 Dashboard Screen Design P1 || Jetpack Compose || Room || Kotlin" }, 
+    { "id": "9poUjxm8xdk", "title": "StudySmart Android App || #3 Dashboard Screen Design P2 || Jetpack Compose || Room || Kotlin" }, 
+    { "id": "m6ojXjM08AQ", "title": "StudySmart Android App || #0 Intro || Jetpack Compose || Room || Kotlin" },
+    { "id": "L1J2NhGU1ak", "title": "LazyColumn | LazyRow | Jetpack Compose Layouts | Android Development | Kotlin" },
+    { "id": "NAlYVFj6SNI", "title": "LazyVerticalGrid | LazyHorizontalGrid | Jetpack Compose Layouts | Android Development | Kotlin" },
+    { "id": "43tK1RNSSSw", "title": "LazyStaggeredGrid | Jetpack Compose Layouts | Android Development | Kotlin" }
+  ],
+  "playlists": [
+    {
+      "title": "StudySmart Android App using Jetpack Compose and Room",
+      "videos": [
+        { "id": "m6ojXjM08AQ", "title": "StudySmart Android App || #0 Intro || Jetpack Compose || Room || Kotlin" },
+        { "id": "uj1kAVmU4eg", "title": "StudySmart Android App || #1 Project Setup || Jetpack Compose || Room || Kotlin" },
+        { "id": "uHn4wF5W84o", "title": "StudySmart Android App || #2 Dashboard Screen Design P1 || Jetpack Compose || Room || Kotlin" },
+        { "id": "9poUjxm8xdk", "title": "StudySmart Android App || #3 Dashboard Screen Design P2 || Jetpack Compose || Room || Kotlin" },
+        { "id": "x0y_OIh91IQ", "title": "StudySmart Android App || #4 Dialog || Jetpack Compose || Room || Kotlin" },
+        { "id": "Za5Tyzei1No", "title": "StudySmart Android App || #5 Subject Screen Design || Jetpack Compose || Room || Kotlin" },
+        { "id": "rgaNxCyzBtc", "title": "StudySmart Android App || #6 Task Screen Design || Jetpack Compose || Room || Kotlin" },
+        { "id": "iPILwFIqb8I", "title": "StudySmart Android App || #7 Date Picker & Bottom Sheet || Jetpack Compose || Room || Kotlin" },
+        { "id": "5lEjLeNWQZY", "title": "StudySmart Android App || #8 Session Screen Design || Jetpack Compose || Room || Kotlin" },
+        { "id": "sMMWKIGvAy4", "title": "StudySmart Android App || #9 Navigation || Jetpack Compose || Room || Kotlin" },
+        { "id": "Lh77RXQZrGs", "title": "StudySmart Android App || #10 Room || Jetpack Compose || Room || Kotlin" },
+        { "id": "TcG_YBx_WRQ", "title": "StudySmart Android App || #11 Dependency Injection || Jetpack Compose || Room || Kotlin" },
+        { "id": "Pd8avZ0vids", "title": "StudySmart Android App || #12 Dashboard ViewModel || Jetpack Compose || Room || Kotlin" },
+        { "id": "KBnZdyztZtk", "title": "StudySmart Android App || #13 Subject ViewModel || Jetpack Compose || Room || Kotlin" },
+        { "id": "5Eef-c-OJPw", "title": "StudySmart Android App || #14 Task ViewModel || Jetpack Compose || Room || Kotlin" },
+        { "id": "5Jo00jjGq28", "title": "StudySmart Android App || #15 Timer Service || Jetpack Compose || Room || Kotlin" },
+        { "id": "qXelN0UYj8I", "title": "StudySmart Android App || #16 Session ViewModel || Jetpack Compose || Room || Kotlin" }
+      ]
+    }    
+  ]
+}

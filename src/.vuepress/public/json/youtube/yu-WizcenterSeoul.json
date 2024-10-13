@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "WizcenterSeoul",
+    "name": "SEOUL G-캠프",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPcQll2H1x9Tt801kp_6DdySTGE-U_ZJmEAlMPYjA=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "NiiF7F5gSnQ", "title": "Jetson Nano 맛보기 과정 (7일/7일)" }, 
+    { "id": "xuygR0rucms", "title": "신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정 제 02강 스프링 프로젝트 만들기" }
+  ]
+}

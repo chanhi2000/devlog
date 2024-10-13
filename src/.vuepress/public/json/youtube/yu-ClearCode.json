@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "ClearCode",
+    "name": "Clear Code",
+    "profile": "https://yt3.googleusercontent.com/Wj9_npdrzYf5kxqLqfSLukT8iED0lR5r-lQ7giM3vXahULQYdm7cUtHstltUDLadmf9EyEANMA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ybf27cssTk__O_yqTJakYFWo3okODwTGPwMqjVUfCgLdtClgJ_XFQYX_MQRZ5Kfb-iSY9Behmw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fo4e3njyGy0", "title": "Creating a Pokémon style game in Python" },
+    { "id": "8OMghdHP-zs", "title": "Master Python by making 5 games" },
+    { "id": "rwAXeJ9kjZ0", "title": "Creating a Metroid inspired platformer in Godot [or Hollow Knight / Castelvania]" },
+    { "id": "WViyCAa6yLI", "title": "Creating a Super Mario World style platformer in Python & Pygame" },
+    { "id": "mDKM-JtUhhc", "title": "The complete guide to Python" },
+    { "id": "QU1pPzEGrqw", "title": "Creating a Zelda style game in Python [with some Dark Souls elements]" },
+    { "id": "nAh_Kx5Zh5Q", "title": "The ultimate introduction to Godot 4" },
+    { "id": "mop6g-c5HEY", "title": "The ultimate introduction to modern GUIs in Python [ with tkinter ]" },
+    { "id": "QU1pPzEGrqw", "title": "Creating a Zelda style game in Python [with some Dark Souls elements]" }
+  ]
+}

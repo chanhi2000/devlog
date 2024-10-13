@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "comg-dev",
+    "name": "코맹탈출 - 실리콘밸리 개발이야기",
+    "profile": "https://yt3.googleusercontent.com/u8C_FY-1RtycQzHlAt6tBHq7tpfCZtKWDgDGgPlPcQMPQYEOMu5xnHWP2sVzhajzIcTht65J=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GoDLr71gWcfU7ljW1N2d1MNgdtlMLRKCd6MIy2q3AhsDzSAheEqexxkWwxgZOA1NCstha-DEL2Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Lb-cpkCeguM", "title": "트위터 시스템 디자인 실험" },
+    { "id": "7FUtVjUY8PQ", "title": "코드리뷰 문화 만들기" },
+    { "id": "_ACi7PWP6nc", "title": "AI 잘쓰는 법" },
+    { "id": "lBjTv-rGTf4", "title": "우선순위 큐 (Priority Queue) 완전정복 | 인터뷰 / 코딩테스트 필수 자료구조" },
+    { "id": "FRO_W3hHaoQ", "title": "좋은코드 짜기 - 콜라보레이터" },
+    { "id": "ii9RAhj5BZ0", "title": "인터뷰 필수 자료구조 Hash Table 완벽 정리" },
+    { "id": "T5CNd0Yj3Fs", "title": "스택 자료구조 뿌시기" }
+  ]
+}

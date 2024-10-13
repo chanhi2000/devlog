@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "tharo382",
+    "name": "Tharo",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSkG6572Db80r1LvyVLhtQtr_YrxSepiRYyIHgs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f2vPt7ruT2Uz9w5uSWVDuIGyCvIAk7OSNxzUMM_RKU1aLZ4oZYRxU7Z768C3t026MxkmnOsK=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KqlJKQfWNJY", "title": "Make Splash screen with React Native for iOS | React Native Tutorial for beginner" },
+    { "id": "OKenn1-dqgU", "title": "#5 Animated Login Screen UI Design | React Native tutorial for beginner" }
+  ]
+}

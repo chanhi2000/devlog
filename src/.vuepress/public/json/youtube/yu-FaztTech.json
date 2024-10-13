@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "FaztTech",
+    "name": "Fazt",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNhD0TZjRB6ZPa4bWOQ8EAcc-wa73jIJA_LGlD5lw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/epdtt8M89a57ZyJ-DrmuYW1LurdVtcMHxjXANhAvfFqY2zRd_n-3PeBmFDRsuEdTt1-bSGMJdA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jgVR6d1m5uE", "title": "Mis Servicios Favoritos de Hosting para Alojar y Desplegar Aplicaciones" },
+    { "id": "6Mncbrp80To", "title": "¿Qué es ERP? - Conoce porque un ERP vital para empresas" },
+    { "id": "eymgiK3y2mU", "title": "¿Cuál es el mejor lenguaje de programación de Backend para ti?" },
+    { "id": "ff9YrbRti20", "title": "No Code vs Low Code vs Code - El verdadero rival de los programadores" },
+    { "id": "1dJ-x6Zxrmc", "title": "Ruta de Aprendizaje para aprender Inteligencia artificial" },
+    { "id": "yaGE5nh0V3E", "title": "Como usar ChatGPT para ser más productivo" },
+    { "id": "9YxUt3sGovA", "title": "5 Habilidades que te darán ventajas sobre otros Programadores" },
+    { "id": "hDRkwLEoVx8", "title": "Formas de Ganar dinero como programador o desarrollador de aplicaciones" },
+    { "id": "2UvR4eff8go", "title": "Editores de Código basados en IA y Cloud" },
+    { "id": "i3OdKwuBjeM", "title": "Nodejs Curso Práctico desde Cero (Javascript en el Backend)" }, 
+    { "id": "hXDMWeD0ERM", "title": "React Native, Curso para Principiantes (usando Expo)" }, 
+    { "id": "_RZ-T6TxP7w", "title": "MERN STACK & Typescript (Mongodb, Express, React, Node con Typescript) - #1 Backend" }, 
+    { "id": "aTDphAsHDDE", "title": "Strapi & Ionic (Angular) | CRUD" }, 
+    { "id": "wOLo-B7mrZM", "title": "MERN STACK & Typescript (Mongodb, Express, React, Node con Typescript) - #2 Frontend" } 
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "IntentArchitect",
+    "name": "Intent Architect",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTfVRaSGqEnoxChYC4DULO5efR8evULfcLPuBDf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "LX3h1Zj7aMA", "title": "\"Intent Architect has changed the paradigm of code generation, completely!\" | Aryzac Success Story" },
+    { "id": "drJ2DJUuxpw", "title": "\"Intent Architect has changed the paradigm of code generation, completely!\" | Aryzac Success Story" },
+    { "id": "S2nKNKf_JhU", "title": "\"Intent Architect has changed the paradigm of code generation, completely!\" | Aryzac Success Story" },
+    { "id": "KUwp3LrLeic", "title": "\"Senwes scheduled a 200-hour project and completed it in only 24 hours!\" | Case Study" },
+    { "id": "AFcOyF_TWAg", "title": "Clean Architecture in .NET 7 | Intent Architect Webinar" },
+    { "id": "yRfTXxsIKME", "title": "Domain Modeling in depth with .NET | Intent Architect Webinar" }
+  ]
+}

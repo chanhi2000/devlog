@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "datatutorials1",
+    "name": "Data Tutorials",
+    "profile": "https://yt3.googleusercontent.com/wgLpjiX9h2DlCTqKWeIz2FCJLnoGQdaUZ1tIdvdpoSQq2Rgx6vcEeqQjuqK5y-SflYtCso5a0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aB0qLhpSCDAT9HjBvNg8J4QciBriUZmQI9iSbHqYG3CEPShmjv-txy20sbZfSTDDt2LPIIti6g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V-s8c6jMRN0", "title": "Power BI & SQL Project | Data Analyst Portfolio | End to End | Beginner to Expert | #powerbi  #sql" },
+    { "id": "XeWfLNe3moM", "title": "Full Project in Excel with Interactive Dashboard | Excel Project | Excel Project from Start to End" }
+  ]
+}

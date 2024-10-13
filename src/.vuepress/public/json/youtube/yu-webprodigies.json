@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "webprodigies",
+    "name": "Web Prodigies",
+    "profile": "https://yt3.googleusercontent.com/OHHbAdLYxh-6QBbaaI0OWzSEeGu02Kw8Scx1EI9LYHb_yyehTlPxzGYl2ADiItynMvB7j6ZY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hG7w_INAP2BoGEC8NkqTwBV_djOCBDvUmdHWRyjLGphfCef9Juiat7gOydPwUUDCWCsCT4lYZA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XkOXNlHJP6M", "title": "SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun" },
+    { "id": "6omuUOZcWL0", "title": "SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL" },
+    { "id": "A3l6YYkXzzg", "title": "SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets" }
+  ],
+  "playlists": [
+    
+  ]
+}

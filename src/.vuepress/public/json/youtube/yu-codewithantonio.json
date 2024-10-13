@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "codewithantonio",
+    "name": "Code With Antonio",
+    "profile": "https://yt3.googleusercontent.com/v5yebiyShCTNr18fnhq_oWHjQ24rAcrkexosBb8rFA8HI3elXOOSzUKfqrO8IlE_HaC7mgU0sw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-dPNqla6h46kSjkP27Z0PNAaGK45dntaALVzjBDDBm12gLIMO2JQ6Oam1E4qgcZAOpqmzp_BZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dP75Khfy4s4", "title": "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)" },
+    { "id": "1MTyCvS05V4", "title": "Next Auth V5 - Advanced Guide (2024)" },
+    { "id": "a02JAryRPVU", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 1/2" },
+    { "id": "nav55-4ISg4", "title": "Build a Twitch Clone using Next.js 14, React, Prisma, Tailwind, MySQL | Full Course 2023 | Part 2/2" },
+    { "id": "pRybm9lXW2c", "title": "Fullstack Trello Clone: Next.js 14,  Server Actions, React, Prisma, Stripe, Tailwind, MySQL" },
+    { "id": "Big_aFLmekI", "title": "Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023" },
+    { "id": "ffJ38dBzrlY", "title": "Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023" },
+    { "id": "PjYWpd7xkaM", "title": "Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind | Tutorial 2023" },
+    { "id": "ZbX4Ok9YX94", "title": "Fullstack Discord Clone: Next.js 13,  React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023" },
+    { "id": "PjYWpd7xkaM", "title": "Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind | Tutorial 2023" },
+    { "id": "5miHyP6lExg", "title": "Full Stack E-Commerce + Dashboard CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023" },
+    { "id": "PGPGcKBpAk8", "title": "Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)" }, 
+    { "id": "ytkG7RT6SvU", "title": "Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)"  }, 
+    { "id": "c_-b_isI4vg", "title": "Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023"  }
+  ]
+}

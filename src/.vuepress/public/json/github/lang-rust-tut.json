@@ -1,0 +1,65 @@
+[
+  {
+    "repo": "sunface/rust-by-practice",
+    "desc": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+    "officialSite": "https://practice.rs",
+    "topics": ["rust", "learning", "practice", "study", "examples", "example", "exercise", "exercises"]
+  }, {
+    "repo": "google/comprehensive-rust",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "officialSite": "https://google.github.io/comprehensive-rust",
+    "topics": ["android", "classroom", "course", "google", "guide", "rust", "training", "training-materials"]
+  }, {
+    "repo": "skyzh/mini-lsm",
+    "desc": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
+    "officialSite": "https://skyzh.github.io/mini-lsm",
+    "topics": []
+  }, {
+    "repo": "rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rust-lang/book",
+    "desc": "The Rust Programming Language",
+    "officialSite": "https://doc.rust-lang.org/book",
+    "topics": []
+  }, {
+    "repo": "rust-lang/rust-by-example",
+    "desc": "Learn Rust with examples (Live code editor included)",
+    "officialSite": "https://doc.rust-lang.org/stable/rust-by-example",
+    "topics": []
+  }, {
+    "repo": "utilForever/2023-MatKor-Rust-Interpreter",
+    "desc": "2023년 고려대학교 MatKor 스터디 - Rust 기초 프로그래밍 + 인터프리터 만들기",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "sunface/rust-course",
+    "desc": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book",
+    "officialSite": "https://course.rs",
+    "topics": ["book", "chinese", "course", "deno", "javascript", "learn", "learning", "programming-courses", "rust", "rust-book", "rust-course", "rust-lang", "rust-learn", "rust-learning", "rust-study", "study", "wasm"]
+  }, {
+    "repo": "alexpusch/rust-magic-patterns",
+    "desc": "Magical Rust patterns laid out and simplified",
+    "officialSite": "",
+    "topics": ["blog", "rust"]
+  }, {
+    "repo": "LukeMathWalker/zero-to-production",
+    "desc": "Code for \"Zero To Production In Rust\", a book on API development using Rust.",
+    "officialSite": "https://www.zero2prod.com",
+    "topics": ["book", "rust"]
+  }, {
+    "repo": "mainmatter/100-exercises-to-learn-rust",
+    "desc": "A self-paced course to learn Rust, one exercise at a time.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "officialSite": "http://os.phil-opp.com",
+    "topics": ["kernel", "operating-system", "rust", "x86-64"],
+    "avatar": "https://avatars.githubusercontent.com/u/1131315?v=4",
+    "banner": ""
+  }
+]

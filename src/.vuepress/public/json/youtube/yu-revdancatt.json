@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "revdancatt",
+    "name": "Dan Catt",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZSsXuqKxd7lgxmy8adfL4XawutL3JCSZjNSozVI7Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XjTUxG6vm8M1w6d7K82maVfuhly0j4QlaTbZPW6q__K8JlQNdJtIek3L2G2dqh-ve6lvZI69dwQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FaVeIQJGn3M", "title": "Nothing but scripts | Weeknotes Q2 Week Three" },
+    { "id": "DYYMIb1HQaU", "title": "Cricut Maker as Drawing Machine | Weeknotes Q2 Week Five" },
+    { "id": "cw8wX0N1Lxs", "title": "Books & More Handwriting | Weeknotes Q2 Week Eight" },
+    { "id": "yPHY0K0rUnI", "title": "Robot Handwriting & Shaky Cam | Weeknotes Q2 Week Ten" },
+    { "id": "7gKlDuQC7aU", "title": "Trance Atlantic Glide (part two) + anatomy of post drop NFT value | Behind The Art" },
+    { "id": "is675ca2Hz0", "title": "Create and upload an fxhash project the easy way | Unofficial fxhash Episode 01" },
+    { "id": "z9pHpXIrGWM", "title": "Journaling with AI | Kitty the AI PA, how, why and code (and tweeting)" }
+  ],
+  "playlists": [
+
+  ]
+}

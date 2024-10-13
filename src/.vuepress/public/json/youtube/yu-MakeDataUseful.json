@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "MakeDataUseful",
+    "name": "Make Data Useful",
+    "profile": "https://yt3.googleusercontent.com/mEbymvSLiZaL_QYFY5-OEGZ0n6xXf19RMXtPuLk9y3kJFk1roizIzQ9s9JAEB_QWkBt30YPp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9xYDQn58La23vJl4x_svJZCzmc7u_3Q8swghUo7Bf7Pl2HJ12kG41GR2cYrQ_SCzS3BPMjKpWQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NKjA8LiJ2_g", "title": "How to install llama 3 on Windows Mac and Linux" },
+    { "id": "FCPCo1058j8", "title": "llama 3 how to use | Easy to follow" },
+    { "id": "eSO8hJbglb8", "title": "How to install Microsoft Phi-3 on Windows Mac and Linux Local" },
+    { "id": "lPGBLYn2OiE", "title": "Testing llama 3 with Python 100 times so you don't have to" },
+    { "id": "sm--u2yiYaw", "title": "THIS online Python tool makes testing scripts in 2024 too easy! Thanks Zancb" },
+    { "id": "9wpIsqoJspk", "title": "NameError: name is not defined" },
+    { "id": "W3I1xzTCfr8", "title": "How to fix a ValueError in Python" },
+    { "id": "eNkaM1mMtdU", "title": "TypeError: unsupported operand type(s) for +: 'int' and 'str'" },
+    { "id": "ej7xZ9uO2Xw", "title": "Web scraping in python using browser developer tools to uncover hidden private API #python" },
+    { "id": "S-xWJrP24ac", "title": "Data Analytics Project End to End: Complete Walkthrough Python Code Refactor ChatGPT API Episode 3" },
+    { "id": "7-oLHpEEK-c", "title": "Data Analytics Project End to End: Planning, Python API calling, data prep for ChatGPT API Episode 1" },
+    { "id": "YA5PBfPGOBA", "title": "Data Analytics Project End to End: Integrating ChatGPT API in Python | Episode 2" },
+    { "id": "mMgd9kQTJos", "title": "Python lists `.append` vs. `.extend` 🐍 Python ⏰ In 1 minute or less" }
+  ],
+  "playlists": [
+    
+  ]
+}

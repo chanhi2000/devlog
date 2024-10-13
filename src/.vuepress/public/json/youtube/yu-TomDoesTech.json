@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "TomDoesTech",
+    "name": "TomDoesTech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmnQPGtsnGkL-4_i3CdleGuBkz0K5JloJ7Yx6Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_XnkMnDtsGs", "title": "Add a Rate Limiter to your Next.js Application in 5 Lines of Code" },
+    { "id": "NHvCbd_FUHA", "title": "Pub/Sub with Redis" },
+    { "id": "k00jVJeZxrs", "title": "Introducing The GoTTH Stack - Go, Tailwind CSS, Templ & HTMX" },
+    { "id": "PR4BwsZaJY0", "title": "A Practical Guide to Pointers in Go" },
+    { "id": "bThYax8lZ2Y", "title": "Be carful of nil *pointers in Go" },
+    { "id": "Bbw94osQSHY", "title": "Type safe environment variables in Node.js" },
+    { "id": "mhkoMzjV1kk", "title": "Easily redact secrets with Pino in Node.js" },
+    { "id": "aPp4Yo3guRA", "title": "Format Logs with jq" },
+    { "id": "MCRjjbUm8us", "title": "How I Structure my Go Applications for Scale" },
+    { "id": "mofZIitXMvU", "title": "Learn Just Enough Redis to Be Productive in 40 Minutes - Upstash Redis" },
+    { "id": "_XnkMnDtsGs", "title": "Add a Rate Limiter to your Next.js Application in 5 Lines of Code" },
+    { "id": "ptuQ7xncV7A", "title": "Go For TypeScript Developers - Use Your TypeScript Skills to Learn Go" },
+    { "id": "A0OF0tKaRcw", "title": "How To Get Ahead of 99% Of Developers" },
+    { "id": "xC_8bT4hG2Y", "title": "Stop Returning Top-Level Arrays" },
+    { "id": "O6HVbb628FY", "title": "Does Go have a 'this' keyword?" },
+    { "id": "6trIWf8GwVE", "title": "Node.JS Watch Mode" },
+    { "id": "cfEqS1A5diM", "title": "Build & Deploy a Realtime App that Scales with Upstash Redis, Next.js & Fastify" },
+    { "id": "O9qmf_CvUzs", "title": "Building Large Scale Microservice Applications" },
+    { "id": "78lW9Fp5qY8", "title": "Concurrency is SO Simple in Go" },
+    { "id": "b6VhN_HHDiQ", "title": "Build a Multi-Tenanted, Role-Based Access Control System" }, 
+    { "id": "_LF-IvJsr5Y", "title": "Build & Deploy a Full Stack App to the Edge with Next.js, Neon & Vercel" }, 
+    { "id": "6-1N8wIZ1ic", "title": "Event-driven Microservices with Node.js, Kafka & Conduktor" }, 
+    { "id": "w84-FPJa4_g", "title": "Solving ThePrimeagen's Favorite Interview Question" }, 
+    { "id": "wx3ultvbzUY", "title": "Learn Just Enough Git to be Productive" } 
+  ]
+}

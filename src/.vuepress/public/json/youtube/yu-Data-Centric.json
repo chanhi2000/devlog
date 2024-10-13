@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "Data-Centric",
+    "name": "Data Centric",
+    "profile": "https://yt3.googleusercontent.com/N2B5W3IJ9tvlSmfj8chaTXOeHZj6Jx-X_ibneibIFsPIggVEazSJJXW7ersY_r9nGgNHUE8N=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Kza1K7GSLwkOGuNcnyTUP2pHP_fjUqKky98oeHt2BZ0-FGjBAunAlNIUMphb0Du3N8gmvmWTdQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5g2CH7i8kTg", "title": "Mistral AI vs Open AI: Who REALLY Has The Best AI?" },
+    { "id": "7YeSslwXMIM", "title": "Agency Swarm: Why It’s Better Than CrewAI & AutoGen" },
+    { "id": "chLULtXDnQ4", "title": "Build Open Source \"Perplexity\" agent with Llama3 70b & Runpod - Works with Any Hugging Face LLM!" },
+    { "id": "ZE6t9trCRnw", "title": "Build your own Local \"Perplexity\" with Ollama – Deep Dive" },
+    { "id": "wJBpLl_lsUQ", "title": "Can My Ollama Local WebSearch Agent (With Llama 3 8B) Beat Perplexity AI?" },
+    { "id": "DnG0KtP7K7c", "title": "Llama 3 70B Custom AI Agent: Better Than Perplexity AI?" },
+    { "id": "9OF_1PBrt8s", "title": "LLAMA 3 or Phi 3 AI Agent: Can they Beat Perplexity in Web Search?" },
+    { "id": "thDL5u9SzXk", "title": "Can Open Source AI Agents Beat Perplexity AI? Testing Codestral, GPT4o, and Mixtral" },
+    { "id": "R-o_a6dvzQM", "title": "LangGraph Simplified: Master Custom AI Agent Creation" },
+    { "id": "tVcOU054iWA", "title": "How I Build Local AI Agents with LangGraph & Ollama" },
+    { "id": "t1cFhQ6G6UY", "title": "LangGraph AI Agent Upgrade: Groq, Gemini, and Chainlit Front End" },
+    { "id": "QKNVPHm3G70", "title": "Building AI Agents from Scratch; Simplified" },
+    { "id": "j-6sKPeczT0", "title": "AI Agents: Why They're Not as Intelligent as You Think" },
+    { "id": "CEXmSX5ijh4", "title": "A Prompt Engineering Trick for Building \"High-level\" AI Agents" },
+    { "id": "YHfN9a8LyYc", "title": "Is AutoGen just HYPE? Why I would not use AUTOGEN in a REAL use case, Yet" }
+  ],
+  "playlists": [
+    
+  ]
+}

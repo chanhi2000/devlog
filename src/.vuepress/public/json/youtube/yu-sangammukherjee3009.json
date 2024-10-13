@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "sangammukherjee3009",
+    "name": "Sangam Mukherjee",
+    "profile": "https://yt3.googleusercontent.com/TXmfrcupVfI_Ppetv8LW9-Smu084Xt682aR6-WsuzI64Lqaysusli3lwt07-du-UlK6HusNueg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EqwsAW2REBFeByw1JJLPWGtRzh484tnu4U85fBs8DtLh0L_SPhqF-XlFvrKSde_4GRnna4R7HA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mQnWCmVErnw", "title": "Next.js Full Course 2024 | Learn Next.js 14 In One Video | 14 Hours" },
+    { "id": "2YsQgB0IUPY", "title": "All React Hooks Explained in 1 Hour | React JS Hooks Interview Questions | React Hooks Crash Course" },
+    { "id": "Pfo23HUzVuU", "title": "React JS Roadmap 2024" },
+    { "id": "YLXQMtb3Lns", "title": "Top 10 React JS Interview Questions | React Interview Questions and Answers" },
+    { "id": "PvYYjSRVa44", "title": "JavaScript Concepts You Need to Know To Learn React JS | JavaScript Crash Course For React" },
+    { "id": "C26e5BhboPg", "title": "UseEffect Hook Explained in 1 Minute #shorts #reactjs  #javascript" },
+    { "id": "QZXBylaAk7s", "title": "🚀🔥 Build 25 React JS Projects in 9 Hours | React Interview Coding Questions | Part 2" },
+    { "id": "KduiAcAn8z8", "title": "🚀🔥 Build a Responsive Personal Portfolio Website using HTML, CSS and JavaScript [2024]" },
+    { "id": "YoVdhJgw8Wc", "title": "🚀🔥 Build 25 JavaScript Projects in 9 Hours | JS Full Course | JavaScript Interview Questions 2024" },
+    { "id": "l3A9OcUd_Us", "title": "🚀🔥 Build 25 React JS Projects in 10 Hours | React JS Full Course | React Interview Questions 2023" },
+    { "id": "PIhmTGiKKkg", "title": "🚀🔥 Master HTML and CSS in 6 Hours | HTML and CSS full Course 2024 | Html and CSS full Tutorial 2024" }
+  ]
+}

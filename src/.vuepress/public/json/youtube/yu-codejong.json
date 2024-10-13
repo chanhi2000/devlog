@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "codejong",
+    "name": "코드종",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM_KAMszcW_4Ta60nIFvr0U_v2twTk5m7eCkL4X=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kE2DHd-7qLA47p4RdP0V7j-uOdiPxxtjfjRy052UL9imxygTBZNNwkAqfABIWUFR5-KpmqlZDcw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j3t6WoygfMk", "title": "원시타입? - 자바스크립트식 사고로 다시보는 프로그래밍 기본 개념" },
+    { "id": "He3P9aJISSE", "title": "React 퀴즈: 컴포넌트와 엘리먼트를 알아야만 풀 수 있는 문제" },
+    { "id": "kUix9NdhS0U", "title": "⚠️ Git Hash 읽을 땐 발음 주의 🤫" },
+    { "id": "j0Viy3v97gY", "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행" }
+  ]
+}

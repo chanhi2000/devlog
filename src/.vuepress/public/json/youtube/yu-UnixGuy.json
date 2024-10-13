@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "UnixGuy",
+    "name": "UnixGuy | Cyber Security Career ",
+    "profile": "https://yt3.googleusercontent.com/6AcY9HoPRB95zW-Ma80HrSE_ZiAg8jrYrq9NulRBmTBB895U91yy0DUlMEVs2QJICOAsFEABhg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nRl98Oi0L-0Erghccz4KdKLrFE5p0ASg1q-ZOkU6FymQPLSf8qrMVB9byidQAlYY6-lvefXEZw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jKmcYq3vVuI", "title": "These 3 Simple Fixes Will 2x Your Results in LinkedIn" },
+    { "id": "wLgkX6F3ZDA", "title": "Underrated Cyber Security Certs that WILL get you HIRED" },
+    { "id": "BFauI30hOOc", "title": "Beginner Machine Learning tutorial  (TryHackMe Advent of Cyber Day 14)" },
+    { "id": "cqJ2nAHKpog", "title": "Which one is better? (Cyber Analyst vs. Ethical Hacker)" }
+  ]
+}

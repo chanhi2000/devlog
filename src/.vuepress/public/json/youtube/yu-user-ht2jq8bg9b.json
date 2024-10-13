@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "user-ht2jq8bg9b",
+    "name": "이숭무 샘",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb1scBgqU398tRcOCTdkX9xe2OLPFtVYdR9V2JOOTPtIA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "FXdlGYQhJM0", "title": "jsp에서 MVC패턴을 이용한  게시판 CRUD" },
+    { "id": "oQRIPJTfOhA", "title": "spring_boot와 mongdb를 이용한 게시판 CRUD" },
+    { "id": "BOt0NVm0V3Y", "title": "[JSP 모델2] 18강. 쇼핑몰 만들기  -  구매 목록에서 결제하기 , 결제 취소, 상품상세보기에서 바로구매" },
+    { "id": "7j1abOJGflQ", "title": "[JSP 모델2] 21강. 쇼핑몰 만들기 - 제품 상세 설명를 클릭하면 제품정보가, 리뷰를 클릭하면 리뷰정보가, 상품문의..." },
+    { "id": "h8DBfvKXxR4", "title": "[JSP 모델2] 20강. 쇼핑몰 만들기 - 사용자가 구매확정하고 후기 작성 수정하기" },
+    { "id": "2KUauaK59Rg", "title": "[JSP 모델2] 19강. 쇼핑몰 만들기 - 관리자 페이지에서 회원이 구매한 목록 확인하고 배송정보 입력" },
+    { "id": "BB7b9wCNRYI", "title": "[JSP 모델2] 22강(마지막). 쇼핑몰 만들기 - 상품문의 답변달기 그리고 쿠키 사용방법과 오류페이지제어" },
+    { "id": "dPiIMndpWZU", "title": "[스프링 부트+mybatis] Spring Boot_mybatis - 23일차. 쇼핑몰 만들기 - 관리자 페이지에서 회원이 구매한 목록 확인하고 배송정보 입력" },
+    { "id": "DiFujONSHRY", "title": "[스프링 부트+mybatis] Spring Boot_mybatis - 26 일차(마지막). 쇼핑몰 만들기 - 쿠키 사용방법과 Interceptor사용 방법" },
+    { "id": "udJhq-7C1KM", "title": "[JSP 모델2] 14강. 쇼핑몰 만들기  - 관리자 페이지에서 상품입고 및 수정 그리고 삭제" },
+    { "id": "_520uCOzT0A", "title": "[JSP 모델2] 15강. 쇼핑몰 만들기  - 메인페이지에 상품정보, 관심상품 찜하기, 관심상품목록보기" },
+    { "id": "57tOTQ3CIWo", "title": "[JSP 모델2] 17강. 쇼핑몰 만들기  - 상품 상세 페이지에서 장바구니에서 구매하기 페이지로 넘어간 후 결제하기" },
+    { "id": "i_9CMxWIS5Q", "title": "[JSP 모델2] 16강. 쇼핑몰 만들기  - 상품 상세 페이지에서 장바구니담기, 장바구니 리스트에서 상품 확인" }
+  ]
+}

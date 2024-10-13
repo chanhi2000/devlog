@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "LetCreateAnApp",
+    "name": "Let Create An App",
+    "profile": "https://yt3.googleusercontent.com/ylvErC8IMx57aieepiaYMVkSh8VJBQ0YRbpR2h1n33aTez8oJ8Tw8wFkCkVmZZv9AUamxA7sIw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bj6C8v5-ZolNMCXKCyMzJheIBzhcJMEERcMKvPITIS_WeHCek4MUQd7pHpzY1wSKf0Z6KR73WA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0gQKlkV39M8", "title": "Adding Support of Dark Mode in iOS App in Swift" }, 
+    { "id": "8zlaj9mFbuQ", "title": "SwiftUI: Create Tabbed View in SwiftUI." }, 
+    { "id": "cC6t2C4rlIE", "title": "Swift 4.0: How to use UITapGestureRecognizer (Xcode 9.0)" }
+  ]
+}
+

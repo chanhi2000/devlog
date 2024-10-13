@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "codecourse",
+    "name": "Codecourse",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRQ6jhKAIO8BgOfYNZXEyQafrWuLt9gHpcJCtmQVw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0vZ5rE_6N2Q", "title": "Logging Unique Views in Laravel with Redis: Reusability with a trait (4/4)" },
+    { "id": "5Zx8I8TBDbI", "title": "Logging Unique Views in Laravel with Redis: Logging unique views for models (2/4)" },
+    { "id": "FGLDa3e4ZGM", "title": "Logging Unique Views in Laravel with Redis: Playing with Redis sets and HyperLogLog (1/4)" },
+    { "id": "mkc-bQI8Yjs", "title": "Logging Unique Views in Laravel with Redis: Syncing view counts to the database (3/4)" },
+    { "id": "ZkhgRtbkM8U", "title": "Infinite Scroll with Vue" },
+    { "id": "It2by1dL50I", "title": "Laravel Sanctum (Airlock) SPA Authentication" }
+  ]
+}

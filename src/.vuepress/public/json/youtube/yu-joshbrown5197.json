@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "joshbrown5197",
+    "name": "Josh Brown",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM6hNpeRY88L75C3vRRbtFtRUGh1PROVWo4EKWxEQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "npZALmBV66Q", "title": "Beginning Swift: Networking, Table Views, and MVVM" }
+  ]
+}
+

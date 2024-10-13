@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "lpil",
+    "name": "Louis Pilfold",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lNwn1TzkJ4OCsTW17Ry22AzKPy-mW7spqU49CeFD_EUyk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "clsTrQUt-4M", "title": "Gleam: Past, Present, Future! • Louis Pilfold @ FOSDEM 2024" },
+    { "id": "ab9fKYWNvik", "title": "Visualising Gleam package index growth" },
+    { "id": "RBO3mAeH6Ic", "title": "Making a Liberapay SDK with Gleam" },
+    { "id": "5eVBWbcnkBY", "title": "Making a Gleam web app starter kit!" },
+    { "id": "wv9iueiczvI", "title": "Adding database migrations to my Gleam web app" },
+    { "id": "MUoR4zK0Dzw", "title": "Making a HTML parser in Gleam" },
+    { "id": "pE8YryJz50o", "title": "Preparing Gleam v1.1.0!" },
+    { "id": "lW1SoGR1PMk", "title": "Gleam hacking for Lustre!" },
+    { "id": "iYfBswN2DKI", "title": "More Gleam hacking for Lustre!" },
+    { "id": "FP_gFGzzWjA", "title": "Reviewing your Gleam contributions!" },
+    { "id": "_lDjzVmWsWg", "title": "Building a Redis clone from scratch in Gleam" },
+    { "id": "fnDguyxFrHg", "title": "Making a Redis clone in Gleam" },
+    { "id": "3sCfcWqleVw", "title": "Parsing djot/markdown in Gleam" }
+  ],
+  "playlists": []
+}

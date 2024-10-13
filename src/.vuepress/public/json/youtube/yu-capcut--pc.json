@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "capcut--pc",
+    "name": "캡컷PC 청지사유튜버",
+    "profile": "https://yt3.googleusercontent.com/BowsHCWE3bvAERvr4qzCf8t15kfZL7o8fyKiXI8bpzE_1GvkycMK9cmZJ9W5ZgR_ZdO_gCuw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o2ctSum58LA20kk9zL9tVUzYphfqLaS8Qn4ymfa50VKf_aV_OtlfA6GMpHBxmyUG_0nzUcZwOA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0_sjcG-Xt90", "title": "[캡컷pc]제79강 자동 오려낸 사람 테두리 설정하기" },
+    { "id": "VzUe-1C7bLU", "title": "OBS와 TeamViewer를 활용해서 필기하는 강의 촬영하기" },
+    { "id": "54PLxD1paXg", "title": "캡컷pc제81강 키프레임 활용 트랜디한(재미난) 자막 만들기" },
+    { "id": "GxVE1swCjkk", "title": "[캡컷pc]제82강 사람따라 나타나는 글자 만들기" },
+    { "id": "LRyXv8BktxE", "title": "[캡컷pc]제83강 미디어, 라이브러리,전환효과로 멋진영상 만들기(검은배경 크로마키효과)" },
+    { "id": "_pSDz_XRwIM", "title": "[캡컷pc]제84강 미디어, 라이브러리, 그린스크린" },
+    { "id": "58Am6thiZqA", "title": "[캡컷pc]제85강 무료자막 템플릿 사용해 보기" },
+    { "id": "1v8ND-ntAgA", "title": "[캡컷pc]제88강 애니메이션 적용 로고 회전시키기" },
+    { "id": "UWA1iB20E8E", "title": "[캡컷pc]제87강 캡컷pc AI 자동그림 생성기능" },
+    { "id": "a8r_i8hyMOI", "title": "[캡컷pc]제71강 온라인 누끼따기 최고봉(50장을 5분만에)" },
+    { "id": "YslNXu7BR90", "title": "캡컷pc제72강 클로즈업 사진 올려 놓고 인스타용 스틸사진, 릴스, 유튜브 쇼츠 만들기" },
+    { "id": "5sFh-zhD4Ww", "title": "[캡컷pc]제73강 자유레이어 반드시 설정하세요" },
+    { "id": "tFOqwqLre6A", "title": "[캡컷pc]제75강 한국말을 영어로 더빙하는 방법(영어공부 강추) 캡컷+VREW" },
+    { "id": "eZft1DbyWb8", "title": "[캡컷pc]제76강 단축기 설정하기" },
+    { "id": "n3TETukLXPo", "title": "[캡컷pc]제77강 명함을 인스타에 올릴수 있도록 편집하기" },
+    { "id": "DvRBXwQbMBg", "title": "[캡컷pc]제78강 키프레임 쉽게 찍는 법, 애니메이션" },
+    { "id": "wsiefiqwMns", "title": "캡컷pc 사용자 c드라이브 사용가능 용량 36G에서 176G로 늘리는 방법" },
+    { "id": "JxJyn4FRIN8", "title": "[캡컷pc]제69강 영상편집후 인트로 집어넣고 썸네일 만들기" },
+    { "id": "-16GkDEksx8", "title": "[캡컷pc]제67강 캡컷pc로 유튜브 채널아트 쉽게 만들기" }
+  ]
+}

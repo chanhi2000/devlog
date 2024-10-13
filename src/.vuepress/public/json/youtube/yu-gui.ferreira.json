@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "gui.ferreira",
+    "name": "Gui Ferreira",
+    "profile": "https://yt3.googleusercontent.com/jZuahA9z499IG2xhjKZ5VsuGwHoGJhouYi5CMI7Pi0yiW97-RYjnWYo3_q1ACDEcag55oBu9=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/L768wRh4C9YEDL4q7JPD-0bQfT6gUChrGAivVfP_tVuq-y3Hf1K_sTI1PM11XH7lnMuqNh86dg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H-70otf3Ugo", "title": "Coupling and Cohesion to Write BETTER C# CODE" },
+    { "id": "W339-pT_kXs", "title": "8 Reasons Your Talks are Not Accepted at Conferences" },
+    { "id": "jfqPUZjx75M", "title": "Think About this Before Creating a New Mock" },
+    { "id": "StHkbIh4yFo", "title": "The Missing TDD Skill according to Kent Beck" },
+    { "id": "Ye_d99mHAXM", "title": "Getting Started with Test-Driven Development" },
+    { "id": "jf3CJ-KZlXs", "title": "Let's stop calling them 3 Pillars of Observability" },
+    { "id": "0LvYYqhYukU", "title": "How to Write Readable Tests (7 SIMPLE TIPS!)" },
+    { "id": "ySEiu2kKoo0", "title": "18 VS Code Tips to Code FASTER" },
+    { "id": "2gjaBAXuFbo", "title": "The Testing Feature YOU DIDN'T KNOW YOU NEEDED" },
+    { "id": "kjxf3T4tRh4", "title": "Building Complex Objects in a Simple Way with C#" },
+    { "id": "tKvys8-dzbc", "title": "How do I Stay Organized as a Developer" },
+    { "id": "DMs3ZuakHGA", "title": "How to Test RabbitMQ with Testcontainers in .NET" },
+    { "id": "paYrVKO1Pi4", "title": "The NETFLIX Way to Keep Your .NET APIs Reliable" },
+    { "id": "ydI-lztt2zY", "title": "How to Survive a Layoff (as a developer)" },
+    { "id": "-y_-ID3Sp74", "title": "10 Tools EVERY Software Engineer Should Know" },
+    { "id": "XtUftqJK8mE", "title": "3 Tips to Clean Exception Handling" },
+    { "id": "N0IHV6Q7lms", "title": "Stop returning null collections" },
+    { "id": "nk9BUPKgN_k", "title": "Kiota - The NEW OpenAPI SDK Generator" },
+    { "id": "fU9b7frZX_c", "title": "Do NOT Use Int IDs In Your API" },
+    { "id": "RvSjkPovozU", "title": "How to Gracefully Cancel .NET Application Work in 2 minutes" },
+    { "id": "k_GkYMd8Ouc", "title": "Hexagonal Architecture (All You Need to Know)" },
+    { "id": "tzQmA5cbiMk", "title": "How to Learn Software Testing in 2024 (.NET)" },
+    { "id": "zFdMjI2x0Ds", "title": "How to use CancellationToken in ASP.NET C# API" },
+    { "id": "18VMi6MgCSQ", "title": "How to Dynamically Subscribe to Kafka Topics in .NET" },
+    { "id": "Jq_JU4NnTH0", "title": "I Handled All Exceptions in 5 min! 💙 .NET 8" },
+    { "id": "n1QYEzuRhkI", "title": "Why We ALL Use xUnit over NUnit or MSTest?" },
+    { "id": "916q2rTqehk", "title": "Before SOLID, Learn These SIMPLE Rules" },
+    { "id": "uN1V0Sw34NQ", "title": "The NEW Way to Test Background Jobs | .NET 8" },
+    { "id": "_lgDdzRvYO0", "title": "How I Would Test-Drive a .NET CRUD API (TDD)" },
+    { "id": "wQG_LntcAQQ", "title": "My IDE as .NET Developer Using a MacBook (2023)" },
+    { "id": "dp1WRyR0TiE", "title": "Start Your TDD Journey with C# in 15 MINUTES" }
+  ],
+  "playlists": [
+
+  ]
+}

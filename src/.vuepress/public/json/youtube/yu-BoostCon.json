@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "BoostCon",
+    "name": "CppNow",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYmr0VPJ4G-wQaVO_tIcj6SgTug5uoa_gnIe2Ft=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GhT5KuB6YM8RhstyhjdW3RXMUYAcpcFb9YZGDudGq1blUFyP28dLJvhxeTb9vpNtrbJeYXaH9g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k-A12dpMYHo", "title": "C++ Coroutines at Scale - Implementation Choices at Google - Aaron Jacobs - C++Now 2024" },
+    { "id": "wHmvszK8WCE", "title": "Keynote: Employing Senders & Receivers to Tame Concurrency in C++ Embedded Systems - Michael Caisse" },
+    { "id": "W29fY7Ml4-w", "title": "An Adventure in Modern C++ Library Design - Robert Leahy - C++Now 2024" },
+    { "id": "w0WrRdW7eqg", "title": "Fast Conversion From Cpp Floating Point Numbers - Cassio Neri - C++Now 2024" },
+    { "id": "GQ5HKL0WRGQ", "title": "Reflection Is Good for C++ Code Health - Saksham Sharma - C++Now 2024" },
+    { "id": "p-qaf6OS_f4", "title": "C++ Type Erasure Demystified - Fedor G Pikus - C++Now 2024" },
+    { "id": "eI5b-q4K9vo", "title": "Embedded Asynchronous Abstraction C++ - Implementing Senders & Receivers Without an OS - Ben Deane" },
+    { "id": "ZF3xwx_LCxo", "title": "C++Now 2024 Session Preview - Interview With Zach Laine by @cppevents" },
+    { "id": "nSEDbkceFX8", "title": "Get A Sneak Peek Of C++Now 2024! Exclusive Interview With Michael Caisse By @cppevents!" },
+    { "id": "qZZWSy1JAVg", "title": "Exclusive Interview With C++Now 2024 Program Chair Inbal Levi with @cppevents!" },
+    { "id": "w39kECBKULw", "title": "Keynote Session Preview - C++ Painkillers by Anastasia Kazakova with @cppevents" },
+    { "id": "HwRkW788WxA", "title": "Keynote Session Preview - C++ Painkillers by Anastasia Kazakova with @cppevents" },
+    { "id": "GkfcRSadDSA", "title": "CppNow 2024 Session Preview with Bret Brown and @cppevents" },
+    { "id": "e-Gl_x1XDiY", "title": "Lightning Talk: Your Favorite Undefined Behavior in C++ - JF Bastien - CppNow 2023" },
+    { "id": "f6AtGR9RCJ0", "title": "Lightning Talk: Searching with C++ - A Fulltext Index Search Algorithm - Hana Dusíková - CppNow 2023" }
+  ]
+}

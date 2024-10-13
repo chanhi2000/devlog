@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "dev_jeongdaeri",
+    "name": "개발하는 정대리",
+    "profile": "https://yt3.googleusercontent.com/oLi5jJ2AKs_aYpR9UpUpu052M84WIE2j9cpnNb1VnpBHZMHVrTRPwrUIncJGu6--PVR-x-22=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f1ZaRkjeGhyA-nM4IgpJ8NqAucsAQs6i7DnIlhQwiQh3xuqJovUTOwT_zh6EaRYac2EGR7uq=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KvoFvmu5eRo", "title": "Next.js 나만의 포트폴리오 사이트 만들기 (개발하는 김에 배포까지) / LottieFiles, Notion Api, TailwindCSS" },
+    { "id": "-b0VNKw_niY", "title": "취준생을 위한 안드로이드 앱만들기 라이브데이터 뷰모델 - Android kotlin jetpack Tutorial (2020) - livedata " }
+  ]
+}
+

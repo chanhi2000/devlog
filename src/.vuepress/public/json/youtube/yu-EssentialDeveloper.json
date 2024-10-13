@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "EssentialDeveloper",
+    "name": "Essential Developer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO-PS7rw_AeoyA5r87XmVokKrDeQIB2DFcGY6Gv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CK9MV0mIjkorzS3vIZSSdAN2E2XzwNnWQ5q07Kb7Pp0lbSxMD884vM8tFU_RDoHaIKP_pRi4cek=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nIcpIYWnX9Y", "title": "How to avoid burnout & get a Senior iOS Dev job in a great team | iOS Lead Essentials Podcast #062" },
+    { "id": "n9ObNkPP5GY", "title": "Fixing iOS 17+ breaking changes: UIRefreshControl, viewIsAppearing & testability | iOS Dev Mentoring" },
+    { "id": "Eo3WkbUV-fU", "title": "How to create a Generic Networking Layer in iOS apps (Refresh Tokens, Combine, Async/Await, SwiftUI)" },
+    { "id": "KSuM2BpMxxU", "title": "Learn how to refine your requirements like senior iOS devs | ED Clips" }, 
+    { "id": "5DqBqSc3mes", "title": "iOS DEV: How to test the API Service?" }, 
+    { "id": "HIsECG5s4DU", "title": "How senior iOS devs profile and solve performance issues with Instruments.app | Live Dev Mentoring" }, 
+    { "id": "huC8ppNPZyM", "title": "iOS DEV: How to enable testability with Dependency Injection? | ED Clips" }, 
+    { "id": "kXokwXxTd-o", "title": "Developing Modular and Independently Deployable iOS app features | iOS Dev Live Mentoring" }, 
+    { "id": "TtdtbMd5-TQ", "title": "Scaling iOS projects & Learning advanced practices alone (TDD/CI/CD) | iOS Dev Live Mentoring" }, 
+    { "id": "UpduAlWLliU", "title": "XCTest + Swift: setUp/tearDown vs Factory Methods" }, 
+    { "id": "8mWeUnJ3X7U", "title": "S02E19: Migrating the Router and iOS AppDelegate | Professional iOS Engineering Series" }, 
+    { "id": "8GPWh774HUM", "title": "TDD: Ultimate productivity, high salary, and a remarkable career | iOS Lead Essentials Podcast #009" }, 
+    { "id": "E0_3uTdCVew", "title": "Decomposing Swift code into modules – Intro to modular design" } 
+  ]
+}

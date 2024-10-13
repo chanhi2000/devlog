@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "khronos",
+    "name": "The Khronos Group",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYPQ3ZuUTovhuh9NMP7iQwtwRt6Ha-WXPndE2K_vA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OH9YtjhdNGN-JO1vGE7BBlPqf5clKfC1mAOFzdJZha0nqTYf_1aJA4Wrz7eX_vzYN1OqWTHaBw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bxsQMlymLEw", "title": "WebGL + WebGPU Meetup - March 2024" },
+    { "id": "6JsbJ9SZjrQ", "title": "An Introduction to Khronos 3D Commerce" },
+    { "id": "E8Dc8wp5Cnw", "title": "WebGL + WebGPU Meetup - November 2023" }
+  ]
+}

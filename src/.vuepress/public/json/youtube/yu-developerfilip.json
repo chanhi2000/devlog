@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "developerfilip",
+    "name": "Developer Filip",
+    "profile": "https://yt3.googleusercontent.com/kM5l_GTW-Gd-Tr6XpNBgQWfCZMAPfLqbPe6Q55C4xRV6KlA2u5I7Q9-mFCcGhZek_21JnQJBDg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bAy1qbjZhB9E7HvTdgg9zKPaYYTa4Gk1VhgeWddag56BnDF3zssboX9k4AZmofa4COcOxPcHGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n7ZXgzQ1DMg", "title": "I used AI to recommend my YouTube videos to people ft. Google Gemini" },
+    { "id": "lWG5qCDG3pQ", "title": "Testing ChatGPT art coding skills..." }, 
+    { "id": "BZqzhmlTkAc", "title": "Web Developer Reacts to Incredible Personal Websites // Personal Portfolios" }
+  ]
+}

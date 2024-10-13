@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "sstectutorials",
+    "name": "SSTec Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP7YsVHi0LEvzRNLNfVjmg8mR7-TcYjGAt2T2MfiQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dy3cphCeA7ZmAx2Rv5QQ3l3F9G-Czt6bRTCDWMuGUVwpE2YuHutXyUtZNwLXizGnQv2e88AE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t1RJUIIF4Vk", "title": "How To Change MAC Address on Windows 11 Computers" },
+    { "id": "O9hZenZNo5o", "title": "How To Change GPS Location on Virtual Android Phone" },
+    { "id": "P0W5vLV3kRY", "title": "How To Get Virtual Android Phone In Windows PC" },
+    { "id": "wjKosltl4yc", "title": "How To Access Raspberry Pi Worldwide Without Public IP (Raspberry Pi Connect)" },
+    { "id": "cclM3xy5q_g", "title": "How To Create macOS Bootable USB Installer in Windows 11" },
+    { "id": "5JwPFeYM6Z4", "title": "How To Install MacOS on Any PC or Laptop" },
+    { "id": "t1aioeTJ65M", "title": "How To Create MacOS Ventura Bootable USB Installation Media in MacOS" },
+    { "id": "y7esIzzkzSE", "title": "How To Setup SAMBA Share In Ubuntu Server" },
+    { "id": "c0_AgxIN4Pk", "title": "How To Setup Pi-Hole DNS In Ubuntu Server" },
+    { "id": "VNHgqOvYsMA", "title": "How To Optimize Windows 11 Using WinUtil  For Faster & Smoother Performance!" },
+    { "id": "LrjrFWa64Mw", "title": "How To Have Free Windows VPS with RDP For Lifetime In 2024" },
+    { "id": "zzdqYafM9uM", "title": "How To install Davinci Resolve 18 on MacOS" },
+    { "id": "HDzLn2i_U_E", "title": "How To Install Homebrew on MacOS" },
+    { "id": "H-OSriRiHY8", "title": "How To Install VirtualBox In MacOS" },
+    { "id": "nteyk8M2Q2M", "title": "How To Setup Ubuntu Server In PROXMOX VE" },
+    { "id": "nFFmdr8gmCk", "title": "How To Install OPNSense on Desktop PC To Make Router + Firewall" },
+    { "id": "-hT231RiHMY", "title": "How To Install PROXMOX Server On Raspberry Pi 4" },
+    { "id": "agKM-9LSyjs", "title": "How To SSH Into Kali NetHunter Android Phone" },
+    { "id": "BM7BglCkrdQ", "title": "How To Install Kali Linux on Windows 11 Hyper-V" }, 
+    { "id": "m2PGKJyBwCY", "title": "How To Install Kali Linux on Windows 11 WSL2 (GUI) in 5 Minutes" }, 
+    { "id": "5maHGFejvH0", "title": "How To Make Windows 11 Look Like MacOS Monterey | MacOS Theme For Windows 11" }, 
+    { "id": "VXsWdZ4Byww", "title": "How To Install Docker on Raspberry Pi 4 - Run Docker Container on Raspberry Pi" }, 
+    { "id": "dK-8kFge_5U", "title": "How To Setup Internet In Mikrotik Router Manually." }, 
+    { "id": "2UiqQTIRJlk", "title": "How To Debloat Latest Windows 11 With 1 Click!" }, 
+    { "id": "NMJlf_KV5_M", "title": "How To Install Tiny11 (Windows 11 Lite) In a VirtualBox!" }
+  ]
+}

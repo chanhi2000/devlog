@@ -1,0 +1,63 @@
+{
+  "channel": {
+    "id": "danteDeveloper",
+    "name": "단테",
+    "profile": "https://yt3.googleusercontent.com/wQqEXS310Tewmc6OeD7A7ELRIMpr40iKqUHNSrqweY3X8U9BXgasCIuY07iSnF8av5SMWQqL7OI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/niWp9bo485G9J1j5R7UPGkdYoaCqRomRdj-Q4oIzvbBjVxZZXCAky8bAMTQXakFksfnqkMtTMeI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8yAdCSZrxBI", "title": "프론트엔드 아키텍쳐 FSD로 구성해보기" },
+    { "id": "qTAt7uGj0pg", "title": "vue3.4 슬램덩크!! 변경점 알아보기" },
+    { "id": "yUPRXVCb5Zo", "title": "JSON, yaml 대체자 pkl, 5분만에 알아보기" },
+    { "id": "RFjaDcVb9a8", "title": "EcmaScript 2023 5분만에 알아보기" },
+    { "id": "rfTpWhoqWzM", "title": "pinia migration" },
+    { "id": "k396k_vP2L4", "title": "Vue3 Vuex (변환 마무리)" },
+    { "id": "9Qj0IVgeW7c", "title": "Vue3 ref computed setup 함수 작성법" },
+    { "id": "1ZQdU-NvDOQ", "title": "Props, Vue3에서 사라진 life-cycle 함수들, script setup 태그" },
+    { "id": "kk6VY45hgas", "title": "useSyncExternalStore을 친절하게 알려주는 유튜버가 있다고?" }, 
+    { "id": "LN-L875TJkg", "title": "Vuex namespace 사용하여 모듈간 충돌 최소화하기 (Vue2 마지막)" }, 
+    { "id": "qmFQ14qmR68", "title": "Vuex 사용하여 전역상태 관리하기" }, 
+    { "id": "CB12ziHytSM", "title": "webpack에서 Vite로" }, 
+    { "id": "305cmNUs_Rs", "title": "VUE CI/CD" },
+    { "id": "-npO-iEIVMI", "title": "keep-alive" },
+    { "id": "kk6VY45hgas", "title": "`useSyncExternalStore`을 친절하게 알려주는 유튜버가 있다고?" },
+    { "id": "41tFNtwWE3o", "title": "10분만에 리엑트 쿼리 왜쓰는지 이해하기" },
+    { "id": "LN-L875TJkg", "title": "Vuex namespace 사용하여 모듈간 충돌 최소화하기 (Vue2 마지막)" },
+    { "id": "qmFQ14qmR68", "title": "Vuex 사용하여 전역상태 관리하기" },
+    { "id": "rwZfRKs84lM", "title": "Vue2를 사용하며 마주하는 사소한 문제들" },
+    { "id": "3v5Y9AtzCrs", "title": "Single File Component, project setup" },
+    { "id": "UBzELzqcgAk", "title": "debounce 사용할 때 주의해야 하는 점 (Vue2)" },
+    { "id": "hSd9vJWf8bQ", "title": "[명언 뽑기] 홈 테이블 컴포넌트 만들기" },
+    { "id": "FdZteFrI1EU", "title": "v-if/v-show, 랜덤 명언 뽑기,  vue-router key props 알아보기" },
+    { "id": "iXw0cvtfupA", "title": "progressive enhancement" },
+    { "id": "wzLwASVTgvM", "title": "vue todolist - 양방향 바인딩, `add`, `delete`" },
+    { "id": "-yFQnX_pfqY", "title": "vue todolist - `instance`, `v-for`, `templates`, `data`" },
+    { "id": "o8BFNyVAor0", "title": "v model custom event" },
+    { "id": "X6GnVqC6mI0", "title": "커스텀 컴포넌트 생성, 커스텀 이벤트 등록" },
+    { "id": "qmFl24wrfnc", "title": "`exactOptionalPropertyTypes` 이거 한번 써보세요" },
+    { "id": "adeWgSd6xrY", "title": "HTML말고 HTMX" },
+    { "id": "4ey1bjAiQ1U", "title": "타입스크립트 5.2 RC" },
+    { "id": "wy09j5g1LbM", "title": "정적 파일 서빙 서버 만들기" },
+    { "id": "iXw0cvtfupA", "title": "progressive enhancement" }
+  ],
+  "playlists": [
+    {
+      "title": "단테의 Beyond JS",
+      "videos": [
+        { "id": "A1_8j1qU_yc", "title": "Beyond JS: 러스트 - 변수와 타입" },
+        { "id": "5LC9wAro4hY", "title": "러스트 함수와 control flow" },
+        { "id": "pJ09p8jCeLA", "title": "러스트 스트뤄억트" },
+        { "id": "7PiX81srQGc", "title": "소유...하실래요?" },
+        { "id": "iV0EbD8zj20", "title": "러스트 enum에 대해 알아보자" },
+        { "id": "v9ro0_AjocQ", "title": "러스트 reference borrowing" },
+        { "id": "m4cwg_qLwjA", "title": "러스트 모듈 시스템" },
+        { "id": "JA0k_XHZVEM", "title": "러스트 collection (상)" },
+        { "id": "ihVodyvuou8", "title": "러스트 generic 1" },
+        { "id": "Y4jZLzKKBLQ", "title": "러스트 generic2" },
+        { "id": "vqER_MnWtjo", "title": "러스트 lifetime" },
+        { "id": "ER-rh-FclVw", "title": "러스트 테스트 코드 작성법 1" },
+        { "id": "eaL1Fd2ZnbU", "title": "러스트 테스트 코드 작성법 2" }
+      ]
+    }
+  ]
+}

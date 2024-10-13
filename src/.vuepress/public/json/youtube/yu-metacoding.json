@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "metacoding",
+    "name": "메타코딩",
+    "profile": "https://yt3.googleusercontent.com/UfJcQSZNKJSNjwa1emGyw2oif9XFZJgsgnQ2kpfOwEb3yPIlENDixrzw5LPed-9C1eovlbu2Pns=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pl6J-GF5yUHDGpE_hT8wPMuySiioISn7ss6NeZJQIw8OPj3Xwm59-Nmp9Kr09PRVy_khJo4Dpqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u_-5Q8HjKFo", "title": "도커 입문 33강   도커컴포즈 React와 SpringDB포함을 Nginx로 연결하기마지막강" },
+    { "id": "1LdHzvlrFW8", "title": "도커 입문 31강 - 도커컴포즈 React와 SpringDB포함 직접연결하기" },
+    { "id": "1pBgurJmlbE", "title": "도커 입문 32강 - 도커컴포즈 React와 SpringDB포함을 Nginx로 연결하는 개념잡기" },
+    { "id": "JjAIa30QnLo", "title": "도커 입문 26강   도커컴포즈 Spring 앱 실행시켜보기" },
+    { "id": "RbJvb8kwrcM", "title": "도커 입문 27강   도커컴포즈 Spring 앱 만들어보기" },
+    { "id": "r8OQMtbosYM", "title": "도커 입문 24강 - 도커컴포즈 React & Spring & MySQL" },
+    { "id": "kbzC5n3ul1M", "title": "도커 입문 19강 - docker file step7 - nginx 게이트웨이  사용하기" }, 
+    { "id": "ZmqSOMlgZPU", "title": "도커 입문 18강 - docker file step6 - nginx를 로비 서버로 활용하기" }, 
+    { "id": "R6UP6G2Pr-o", "title": "도커 입문 17강 - docker file step5 - nginx설정 복사하기" }, 
+    { "id": "UgKFaUHaIsg", "title": "AWS 49강 - 배포v3  - (필독) 엘라스틱빈스톡 샘플코드 사용해보기" }, 
+    { "id": "Y_yw4c7qsxg", "title": "도커 입문 12강 - docker commit 이미지 굽기와 docker hub 업로드" }, 
+    { "id": "PMm3_PTyVas", "title": "Git 협업전략1강  - 전략이해" }, 
+    { "id": "YHAHxwD2ljk", "title": "Git 협업전략3강 - 실습 - 팀원역할" }, 
+    { "id": "6gO5SxoRK_M", "title": "도커 입문 11강 - docker volumn옵션으로 폴더 연결하기" }, 
+    { "id": "xSyIJKOGE8U", "title": "Junit 15강 - 서비스레이어 책 한건보기" }, 
+    { "id": "YZVn76Rg-wI", "title": "Junit 13강 - 서비스레이어 책등록 완료" }, 
+    { "id": "Q-UebfEJjE0", "title": "Junit 10강 - delete 테스트 버그 수정 - @Sql 이용하기" }, 
+    { "id": "Sn7AjvKhkbk", "title": "Junit 8강 - select 테스트" }, 
+    { "id": "8Qg9lIJ3pCw", "title": "Junit 6강 - 책등록테스트완료" }, 
+    { "id": "cvn54pTNFOI", "title": "Junit 2강 - `yml` 설정" }, 
+    { "id": "kYqGAM2culU", "title": "Junit 1강 - 환경설정" }, 
+    { "id": "Oo_eHCr_HsQ", "title": "스프링부트5.0 채팅서버 만들기 - 1강 환경설정" }, 
+    { "id": "zGpTD6FZ2HU", "title": "스프링부트5.0 채팅서버 만들기 - 2강 몽고DB 장점" }, 
+    { "id": "AIyBYbaIBV0", "title": "스프링부트5.0 채팅서버 만들기 - 3강 비동기 Netty 서버" }, 
+    { "id": "QKajHMVnnyY", "title": "플러터 GetX로 블로그 앱 만들기 - 33강 게시글 목록 보기 완료" }, 
+    { "id": "HA-hR-64RXA", "title": "react 오프라인 11강 - props(변수,함수 passing하기)" }, 
+    { "id": "CuTWSWqqa5k", "title": "Springboot-WebFlux 2강 - Reactive Programing 배경" }, 
+    { "id": "fYfNd6hqxu8", "title": "Springboot-WebFlux 3강 - WebFlux 탄생" }, 
+    { "id": "pFO-nt6H-GQ", "title": "스프링부트 오프라인수업 AOP 2강 - AOP 개념잡기" }, 
+    { "id": "HBkPJHqzmks", "title": "스프링부트 오프라인수업 AOP 4강 - Sentry및Log적용(끝)" }, 
+    { "id": "lMD5AL2iwRE", "title": "스프링부트 오프라인수업 AOP 3강 - Validtaion체크" }, 
+    { "id": "j2LR-7Xfc3Y", "title": "JSP 오프라인수업 28강 - 공통Dto만들기" }, 
+    { "id": "vHmK0EFfqzg", "title": "도커 입문 9강 - `docker dit`옵셥과 `attach`" }
+  ]
+}

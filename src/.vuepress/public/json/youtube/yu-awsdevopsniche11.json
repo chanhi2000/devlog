@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "awsdevopsniche11",
+    "name": "awsdevopsniche11",
+    "profile": "https://yt3.googleusercontent.com/9o0lXPnh7bt4aU1q8UI4r5Wf5cjUte4T8FmQOeSaVVV1NJt2NUatiuXZv8YSAKYAfSGYqz1LdQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "VdmyueDr6Gw", "title": "Introduction to Cloud Migration #aws #cloudmigration #virtualmachine #ec2" },
+    { "id": "tdck3TReQcM", "title": "How to migrate a VM from Onprem to AWS  - Lab demo #aws #cloudmigration #virtualmachine #ec2" },
+    { "id": "O3KtaGcq98A", "title": "How to setup Prometheus on AWS EC2 instance #prometheus #grafana #monitoring #aws #ec2" },
+    { "id": "r21h-PQx5IQ", "title": "How to host a website in AWS ECS using Fargate Launch type" },
+    { "id": "7Tha26xqxOA", "title": "How to create a Pipeline job in Jenkins  #aws #ec2 #jenkins #cicd  #devops" },
+    { "id": "oORS4vf_8pw", "title": "How to build a maven project using Jenkins pipeline #aws #ec2 #jenkins #cicd  #devops" },
+    { "id": "wEJH1lis50Q", "title": "How to create a compliance rule in AWS Config #aws #ec2 #config" },
+    { "id": "xZPd29pJ0j0", "title": "Trainings offered from awsdevopsniche11 #aws #devops" },
+    { "id": "q4Rgh5sdnYs", "title": "How to Setup SonarQube with PostGRE SQL Database #aws #ec2 #sonarqube #postgresql #postgres" },
+    { "id": "0_zauwxvdtU", "title": "How to launch multiple EC2 in AWS using Terraform #AWS #EC2 #terraform #automation #hashicorp" },
+    { "id": "3yIDT5w2nCg", "title": "Install Prometheus and Grafana using HELM #kubernetes #prometheus #grafana" },
+    { "id": "gg-v6-nfXSU", "title": "AWS VPC Lab Demo - Part 2 #aws #vpc #ec2" },
+    { "id": "-6BR9fhVZu0", "title": "AWS VPC Lab Demo - Part 1 #aws #vpc #ec2" },
+    { "id": "N9kRcXs-Rjc", "title": "AWS Route 53 Explained - Part 2 #aws  #route53  #ec2" },
+    { "id": "lK2HhEyxwXw", "title": "AWS Route 53 Explained - Part 1 #aws #route53 #ec2" },
+    { "id": "uijPHvsP5yk", "title": "How to setup VPC Peering in AWS  #aws #vpc #subnet" },
+    { "id": "Kzo_-w4f6Rk", "title": "AWS Cloudfront explained with a Lab demo" }    
+  ]
+}

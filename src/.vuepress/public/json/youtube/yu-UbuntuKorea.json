@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "UbuntuKorea",
+    "name": "Ubuntu Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNOK92EEx2JptE3EBykPNreE_PeBWtrIu99ZONB8Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oBKitBOpMQemzMxyKrLAu_DWU1PYDtlQVN_vKYXCOwnzm2mGOy2dBbz9gfFUQqTEM4dCpTyXfg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8PwVs4v8fDk", "title": "Bird를 활용하여 나만의 ISP 및 CDN 구축하기 | UbuCon Korea 2023" },
+    { "id": "xLTwWqb_lTw", "title": "웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023" },
+    { "id": "3S9oxBZeEpM", "title": "WSL을 이용해 개발용 NAS 구축하기 | UbuCon Korea 2023" },
+    { "id": "H0_B59Ze03M", "title": "기조연설(Keynote) - Welcome to UbuCon Korea, welcome to open source! | UbuCon Korea 2023" },
+    { "id": "qhwb5vrnImY", "title": "닷넷과 함께 하는 경량 컨테이너  얼마까지 알아보셨어요? | UbuCon Korea 2023" },
+    { "id": "wS-F50pxtAM", "title": "오픈소스 기반의 OpenMSA 서비스 Ubuntu 22 04 | UbuCon Korea 2023" },
+    { "id": "Tehdg4Mc05g", "title": "우분투 OS 기반으로 운영하는 컨테이너 관리 스케줄링 프로그램 | UbuCon Korea 2023" },
+    { "id": "UO5EV4FaatE", "title": "회사보안 아래에서 우분투 WSL 사용하기 | UbuCon Korea 2023" },
+    { "id": "dCMr30PVxfs", "title": "전국구 규모의 해커톤 운영 플랫폼을 자동화 해 본 썰.mp4 | UbuCon Korea 2023" },
+    { "id": "qHqlDFuHA4E", "title": "UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar" },
+    { "id": "J2bFkLff-fA", "title": "The Windows Subsystem for Linux - Run Linux workflows on Windows! - Craig Loewen | UbuCon Korea 2023" },
+    { "id": "N1quwAHXO3Q", "title": "시*로지 부럽지 않은 윈도우 PC로 NAS 만들기 - 강동호 | 2023년도 정기총회" }
+  ]
+}

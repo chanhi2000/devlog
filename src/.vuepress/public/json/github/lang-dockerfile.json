@@ -1,0 +1,66 @@
+[
+  {
+    "repo": "linuxserver/docker-bookstack",
+    "desc": "A Docker container for the BookStack documentation wiki",
+    "officialSite": "",
+    "topics": ["docker", "documentation", "hacktoberfest", "bookstack-container"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linuxserver/docker-mariadb",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linuxserver/docker-kasm",
+    "desc": "Kasm Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "iv-org/documentation",
+    "desc": "The official Invidious documentation",
+    "officialSite": "https://docs.invidious.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "justinclift/docker-pgautoupgrade",
+    "desc": "PostgreSQL docker container which automatically upgrades to latest PostgreSQL version",
+    "officialSite": "https://hub.docker.com/r/pgautoupgrade/pgautoupgrade",
+    "topics": ["docker", "postgres", "postgresql", "postgresql-database", "upgrade"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "officialSite": "https://vulhub.org",
+    "topics": ["docker", "docker-compose", "dockerfile", "vulhub", "vulnerability-environment"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "officialSite": "https://jaywcjlove.github.io/reference",
+    "topics": ["cheatsheet", "docker", "javascript", "npm", "npm-package", "reactjs", "references", "semver", "toml", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "officialSite": "https://cook.aiursoft.cn",
+    "topics": ["chinese", "cookbook", "cooking", "dishes", "recipes"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "autowarefoundation/autoware",
+    "desc": "Autoware - the world's leading open-source software project for autonomous driving",
+    "officialSite": "https://www.autoware.org/",
+    "topics": ["autonomous-driving", "autonomous-vehicles", "autoware", "ros", "ros2"],
+    "avatar": "https://avatars.githubusercontent.com/u/48420599?v=4",
+    "banner": ""
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "CraftComputing",
+    "name": "Craft Computing",
+    "profile": "https://yt3.googleusercontent.com/0SQ2R06KTSdeNBuuMg9NJ_VYVEUZq8b10wYRZhLl8UWmQ14HhNk90HH9_-LM_PK9zQ4Aeq9U0WQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RZka3yXNBfKb1dmfZp0sCMdfwiMTGoVnWRVm82F3uKI1y1jF4TXyCvVR5twHvgL7g_aziwR0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "s-XbNCYFaJY", "title": "NVIDIA and Nintendo both take on Emulation; Oregon's Right-To-Repair Bill - Talking Heads Ep.324" },
+    { "id": "XTUhKepmSJQ", "title": "Everything I see reminds me of the NES - Ayaneo Retro Mini 2 Review" },
+    { "id": "2gM5u5fwbA8", "title": "$500 Quanta Dual Node Epyc Server - IT'S WORKING!" },
+    { "id": "KcP8JUzkmUc", "title": "NVIDIA builds an ITX Grace Hopper; Microsoft's CoPilot gets real - Talking Heads Ep.325" },
+    { "id": "BRiVjtwkivE", "title": "Twelve Node Cloud Gaming Server - AsRock Rack 4U12G BC-250" },
+    { "id": "7iX5bifHoQ8", "title": "The most DISAPPOINTING Mini PC I've Ever Reviewed - Khadas Mind" },
+    { "id": "bC1A2qrJmRE", "title": "Is the Minisforum MS-01 Worth It for Homelabs?" },
+    { "id": "HG7g3Qrupcw", "title": "Goodbye IPMI - Blicube BliKVM V4 Review" },
+    { "id": "ymny6yaRFag", "title": "Intel Xeon E-2400 Series First Look" },
+    { "id": "66yJ3f1w85E", "title": "THIS is the NAS I've been waiting for! - IceWhale ZimaCube N100 Review" },
+    { "id": "MRb7sHAQJb4", "title": "16TB SSD NAS For Under $1200!" },
+    { "id": "ARDjb2UV3Nw", "title": "Install Windows like a PRO! Windows Deployment Services Tutorial" }
+  ]
+}

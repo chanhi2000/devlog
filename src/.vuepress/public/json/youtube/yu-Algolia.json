@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Algolia",
+    "name": "Algolia",
+    "profile": "https://yt3.googleusercontent.com/9mrRPDMBpMc40jICSKsTTaXfSnsW4S8LverOb4wNAfyTlT2DU5KJVyYHpJ3vZoN6-dMGTtRSUw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v5opzAwUqTEJMCDngolCWeTciDpz-j3y2sdLxgXpN--jNDAahymD5f2kIu6YYB9PchSltQ_VUeE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sEayVVi_ME4", "title": "Algolia AI Search Deep Dive Demo" },
+    { "id": "knNhYgtKtgg", "title": "Paris Design Meetup #2 | How We Designed the ParisDesignMeetup Branding in 5 Minutes @StudioNvzt" },
+    { "id": "HKCo1SO0b6E", "title": "Paris Design Meetup #2 | A Brief History of Taste | Pierre Jeannelle, Bruno" },
+    { "id": "WixTCvSZH7I", "title": "Live Coding - Build eye-popping search banners with pure CSS" },
+    { "id": "hbujfKceTnc", "title": "Live Coding - Capture events for smarter search with Algolia + Segment" },
+    { "id": "J-rruNKcY0Y", "title": "Beyond Animations with Core Animation - John Sundell, Swift by Sundell" }
+  ]
+}

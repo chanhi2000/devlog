@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "Aleksey_Konovalov",
+    "name": "Aleksey Konovalov",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNUTSrx3xQsxRHEm3wdiliL20lXKSSlxF86IWA99Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YfJVJvxqpObqqpe6df05Ukmoh2ngguFrJPo_a2yLBq62bsF_rl0WHXX__4XmlH4ZuI7y5lVIYQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "e-XV28WZkDE", "title": "Новости: Windows 11, Проблемное обновление, Copilot когда вернут? и т.д." },
+    { "id": "X4ngZPzVR2s", "title": "Ubuntu для школьников. Установка операционной системы на старый компьютер." },
+    { "id": "PP1lQreB1dM", "title": "15 заповедей Хакинтоша. Для стабильной работы macOS." },
+    { "id": "p4wJmPG0d4U", "title": "Ventoy – программа для создания загрузочных USB-флэшек. Multi-boot USB Drive Tool" },
+    { "id": "pAAp7snugcg", "title": "Своя сборка Windows 11, Windows 10 еще более популярна, Paint VS Copilot - кто лучше нарисует?" },
+    { "id": "pBniH0SY9P8", "title": "Перешел на macOS Monterey" },
+    { "id": "k7dakAQ2pOQ", "title": "Windows 11 IoT Enterprise LTSC 2024 (БЕЗ TPM, Secure Boot, DirectX. Работает с 2GB)" },
+    { "id": "Afu2T2mn0hs", "title": "Windows 11 24H2 не будет поддерживать некоторые старые процессоры:  POPCNT и SSE4.2" },
+    { "id": "wse1A970IcM", "title": "Влияет ли разрешение экрана на производительность ПК?" },
+    { "id": "bAJ0ousalEE", "title": "Live HD Хакинтош из старого жесткого диска. Ковчег для Чебурнета." },
+    { "id": "z_g296U6JW8", "title": "Ноутбук Lenovo с прозрачным дисплеем, Windows 11 и «горячие обновления», Фотографии и ИИ" },
+    { "id": "nSUbLJ02QX0", "title": "Windows 11 - Как заработать на искусственном интеллекте?" },
+    { "id": "2UlRr0HtY0k", "title": "Apple выпустила macOS Sonoma 14.4 - Мнение Хакинтошника" },
+    { "id": "tSTU5UU2QMM", "title": "Почему установка macOS Sonoma / Ventura через OpenCore Legacy Patcher популярна в сети." },
+    { "id": "qQHEOUTsmeM", "title": "Новости: Windows 11, Microsoft Store, Срок действия лицензии Windows и т.д." },
+    { "id": "nVhHzepVrrs", "title": "OS X El Capitan в 2024 году. БОЛЬШОЙ и полный обзор." },
+    { "id": "iJL-DHxdgd0", "title": "Медленный Интернет? Секретные команды настройки сети. Разговор с Хакинтошником." },
+    { "id": "t-g7c3G2wUs", "title": "macOS Sonoma 14.3.1 - Подробный обзор основных настроек." },
+    { "id": "S5B6pxaZ9c8", "title": "НУЖЕН ЛИ АНТИВИРУС В 2024 ГОДУ для Windows 11 или macOS? НЕТ!" },
+    { "id": "fhvfRlNp9TM", "title": "YouTube по правилам: Хакинтош, macOS, Windows 11, Linux и т.д." },
+    { "id": "vxBn3XFo9is", "title": "В Windows 10 и 11 теперь можно создавать мини-окна приложений. Microsoft PowerToys" },
+    { "id": "SeZAO1NT_qE", "title": "macOS Sonoma - Системные требования для Mac и  Хакинтош." },
+    { "id": "EvAoQFlkGP8", "title": "«Ножницы» недорезают: уязвимость в Windows 11" }, 
+    { "id": "Gc5IyCS4pkY", "title": "Главные новости: Windows 11 Android Hackintosh OpenCore Украина Россия." }, 
+    { "id": "Xim1NNwbZB8", "title": "Создание флешки и установка OS X Mavericks - Hackintosh OpenCore - как работает система в 2021 г" }, 
+    { "id": "pCcGsIWIdrc", "title": "Почему мощная видеокарта в Хакинтош проигрывает чипу Apple M1 в Final Cut Pro" }, 
+    { "id": "1PMSeyKe-cg", "title": "PearOS -Linux с интерфейсом macOS 11 Big Sur - pearOS Cupertino 2021" }, 
+    { "id": "kX5hv-Ouv04", "title": "Как создать загрузчик OpenCore за один клик. Обзор программы Opencore Gen-X" }, 
+    { "id": "MnHN5V7_T3Y", "title": "Флешка для начинающих Хакинтошников с macOS 11 Big Sur (Clover или OpenCore) - основные проблемы" }, 
+    { "id": "n7mxf9tcQlg", "title": "Создание загрузочной флешки с Clover и старт macOS 11 Big Sur - Hackintosh" }, 
+    { "id": "bJMo1qWX_KY", "title": "Как завести звук методом AppleALC - OpenCore 0.6.0 Hackintosh - boot-arg alcid - часть 1" }, 
+    { "id": "us2BHitnmuc", "title": "Microsoft запускает новый канал Canary для инсайдеров Windows" }
+  ]
+}

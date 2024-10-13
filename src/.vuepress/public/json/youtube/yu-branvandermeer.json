@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "branvandermeer",
+    "name": "Bran van der Meer",
+    "profile": "https://yt3.googleusercontent.com/YUxhWM-h67PIwbwTyUh5xNpTZ6OFMSclCKqbAyGkP0TkvfC3wdyw4fmCzVqLHkGYY54psiM4cw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ANL7Pptv53I", "title": "My Terminal - Automation Mindset Explained" }
+  ]
+}

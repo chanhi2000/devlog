@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "techmong",
+    "name": "테크몽 Techmong",
+    "profile": "https://yt3.googleusercontent.com/1LeFmJYB5EvrClvuElyi_Ink7Qyg_K8HZRk_DSJmfRikzLldF5W9AXLMjTNtdTG5cxWuzt_urw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9SLvu-AsV2fhjwZoTRTSYyzdI1hY18H-3rd519Mh5RyQiLDN4h_HKsAs_WMBG8zWQm2zENCGXQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HaoG58-V1Ac", "title": "그대로 따라하세요! 무료로 고화질 북스캔해서 아이패드, 갤럭시탭에 넣기 (vFlat, 알PDF 등)" },
+    { "id": "NUfQGNMfwis", "title": "와... 이게 가능해? 최강의 북스캔앱 vFlat을 추천드리는 이유 (+저작권 정보까지)" }
+  ]
+}

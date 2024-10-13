@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "Mr.Macintosh",
+    "name": "Mr. Macintosh",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZZETOB8H5jRj4Idmh2eUynzh1p-JRTsRcKNUYT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n7ZVSVitdxrp3_T3U8sG7uZTlHCxUE_9a5Zg4nnjkYkjLwkUrjBmNVyR4YbfcYdZWPqR98jF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cqxS-uQT6ow", "title": "OpenCore Legacy Patcher 1.4.2 HOTFIX EXPLAINED! + Fixing Legacy WiFi Issues" },
+    { "id": "5KsbUZJ2bjQ", "title": "macOS Sonoma 14.4.1 Update BIG FIXES! + OCLP Non-Metal Fix on the Way?" },
+    { "id": "GhSmaq1JoXc", "title": "OpenCore Legacy Patcher 1.4.3 Update! NON-METAL IS BACK!!!" },
+    { "id": "Z9pK75VPJC0", "title": "[FIXED] An error occurred while preparing the installation! macOS Sierra Recovery Error!" },
+    { "id": "yvaPKrGv9oA", "title": "macOS Sonoma 14.3 Update - What's New? + OCLP 1.3.0 Compatibility!" },
+    { "id": "Yw7ELt2ezTM", "title": "Sonoma 14.3.1 Update! What's New? + OCLP 1.3.0 Issues [DEEP DIVE]" },
+    { "id": "ouNQS36dIBw", "title": "How to fix The Recovery Server Could Not Be Contacted Error! High Sierra Internet Recovery Error" },
+    { "id": "GAoWCn4qJqU", "title": "macOS Sonoma 14.2 Update! BIG CHANGES + OCLP 1.3.0 IMPORTANT NOTE!" },
+    { "id": "zkO1KMT2NTc", "title": "OpenCore Legacy Patcher 1.3.0 Update - Warning for 2012-2014 Macs! + macOS Recovery Issues" },
+    { "id": "bnTRK9TIZhQ", "title": "OpenCore Legacy Patcher on External HD or 2nd Partition + Dual Boot!!!" },
+    { "id": "0x8pVFdmsp8", "title": "OpenCore Legacy Patcher 1.2.1 Update [HOT FIX] + Recovery Black Screen Issue!!!" },
+    { "id": "2Y-YHVJE1dE", "title": "macOS Sonoma 14.1 Update! What's new? + Apple Event & OCLP 1.1.0" },
+    { "id": "UelwjRZG8gI", "title": "OpenCore Legacy Patcher 1.0.0 & 1.0.1 UPDATE!!!! [Full Sonoma Support] What's New?" },
+    { "id": "EmAxYGLkM1w", "title": "How to Delete Sonoma's New Live Aerial Wallpapers! [THEY ARE HUGE]" },
+    { "id": "eGR2qGw9lG8", "title": "Install macOS Sonoma on Unsupported Macs [2008-2017] with OCLP!" },
+    { "id": "99Y8L4Tf_ZU", "title": "Sonoma TURN OFF Click Wallpaper to Reveal Desktop Setting!!!" },
+    { "id": "3243zJWeXc4", "title": "macOS Ventura 13.4 Update! What's New? So Long, Old Friend!" }, 
+    { "id": "_6xzkTvSyo8", "title": "How to Download macOS Sonoma Beta Full Installer 3 Easy Ways!" }, 
+    { "id": "SCXqD2yYntg", "title": "macOS Sonoma 14 Compatibility! 3 MACS ARE DEAD! + OCLP Notes!" }
+  ]
+}

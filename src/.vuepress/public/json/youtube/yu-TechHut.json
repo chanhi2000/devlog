@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "TechHut",
+    "name": "TechHut",
+    "profile": "https://yt3.googleusercontent.com/TUoF-6QCUIKy6XgFtMG5FWi5FLVhtaUPtTOLvE7Ca3eJif1_RKBci07fKK-QvKxhC0HALEBH7Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/37buAYGa3ePIXU774DIjK_Ebm8PUkynnTB0PZmmk3sXhuspsKbCENKhPGCY1x_Zuses80fdheA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_tz2wUFT8VQ", "title": "You NEED to setup Gluetun! (Route Your Docker Containers Through a VPN)" },
+    { "id": "0b9N-rK3wXs", "title": "FINALLY, Linux on a Tablet that doesn't SUCK" },
+    { "id": "aorVb1SNR7Y", "title": "the FUTURE of Desktop Linux - COSMIC" },
+    { "id": "dL6af1iazO4", "title": "my favorite Linux app is dead" },
+    { "id": "NEnifr8QIas", "title": "Docker is for EVERYONE (learn it RIGHT NOW)" },
+    { "id": "JDJpwOQAoos", "title": "Synology EXPO 2024 - What they Announced! (and what they didn't)" },
+    { "id": "GymWdyizBRA", "title": "FINALLY trying out NixOS - Best Server Linux Distro??" },
+    { "id": "agNakV7ym6c", "title": "KDE Plasma Framework is EVERYWHERE - Qt" },
+    { "id": "YqaDnnREqI8", "title": "DITCHED Pi-Hole for AdGuard - Block ALL the Ads!" },
+    { "id": "5pZu35hTipo", "title": "How to setup Windows 11 as a Home Server/NAS (FULL GUIDE)" },
+    { "id": "pWSR0I3lnd0", "title": "NEW Ubuntu LTS about to drop" },
+    { "id": "Y8xY4keybnw", "title": "What's in my Smart Home?? ULTIMATE Tour!" },
+    { "id": "aUXexJ2np_w", "title": "i'm switching back..." },
+    { "id": "-3H6sGNsVbk", "title": "... i should have waited" },
+    { "id": "EqHBvmGOQn0", "title": "budget Intel CPUs are FINALLY awesome." },
+    { "id": "OC67FoXVRPE", "title": "self-host the INTERNET! (before it's too late)" },
+    { "id": "vQ-Eam9IZJY", "title": "5 reasons EVERYONE needs a home server" },
+    { "id": "wfY_vwv3UQU", "title": "my new FAVORITE home lab software" },
+    { "id": "q8MRqdqeh8U", "title": "EVERYONE needs to learn Docker!" },
+    { "id": "5YgWaeq07As", "title": "What's on my Home Server?? MUST HAVE Services 2023!" },
+    { "id": "h6G_PoNfgdI", "title": "this is NOT windows" },
+    { "id": "dwohw8WSKoQ", "title": "GNOME Circle is SOOOO good - Errands To-Do App Overview" },
+    { "id": "yaw2A3DG664", "title": "DITCH your VPN! - How I Access my Home Server from ANYWHERE" },
+    { "id": "k3WV_dHGI4E", "title": "The macOS of Linux Distros - Zorin OS 17" },
+    { "id": "tQgGTI8wfqw", "title": "SELF-HOSTED Podcast Grabber in Docker! - Podgrab" },
+    { "id": "b391bhVBZZg", "title": "EndeavourOS - FAVORITE Arch Linux Distro (New Release!)" },
+    { "id": "_qNWpdFqLIU", "title": "Setting up a CHEAP and EASY Homelab Linux Server" },
+    { "id": "ZNNqkeeOdrk", "title": "7 AWESOME Linux Terminal Applications and Utilities" },
+    { "id": "rUQAWvXrtPY", "title": "Ditch GOOGLE and Set-up Nextcloud! - Custom Domain, Secure HTTPS" }
+  ],
+  "playlists": [
+
+  ]
+}

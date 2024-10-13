@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "devdetour",
+    "name": "Dev Detour",
+    "profile": "https://yt3.googleusercontent.com/12kdwwsu_StBELIEPC4aELxVolPF_j4zN4gbdKW_UpzHYRmupd2a1FR1ue53V18QCAruc3W5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NlMGhbWhplnizJ02_eWgQXEeEYmm2OwImT8LlfWx4Kr9oVsfXt7lNdRtF6K2QTwjIDP5whAV=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QiGKrBDqmKg", "title": "Stealing Storage from Telegram" },
+    { "id": "y4393bPetoU", "title": "Why You Can't Visit 💀🎺.com" }
+  ]
+}

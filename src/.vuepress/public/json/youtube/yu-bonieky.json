@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "bonieky",
+    "name": "Bonieky Lacerda",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYRAw-kgF7Xjg8yxWeBTTcyYf16ou3Ir8rW5TVRxg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/I_ynA06JkiK1y25LGRZq_wOvAEX18qmmvhzI1Vo9scSta-7R19J4l6xt5KAXJN1qKt45XNuM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b2kFCWvZOC8", "title": "Como fazer Deploy em Servidor do zero (NextJS + Github + PM2 + Nginx + SSL + DigitalOcean)" },
+    { "id": "qc8mb39htX0", "title": "Devo começar pelo Frontend ou Backend?" },
+    { "id": "srjOf2QloKs", "title": "6 Dicas TESTADAS de Produtividade pra Programador" },
+    { "id": "YqSfq1LiGvw", "title": "Aprenda Javascript em 1 video (+ projeto prático)" },
+    { "id": "4OERMMcYs38", "title": "Amigo Secreto: Painel Administrativo Completo em Next 14" },
+    { "id": "w4z1IKT7rfM", "title": "TRANSITION e ANIMATION no CSS (como e quando usar)" },
+    { "id": "mKa1MuB1HMk", "title": "Amigo Secreto: API Completa em Node, Typescript, PrismaORM e Zod" }
+  ],
+  "playlists": [
+    
+  ]
+}

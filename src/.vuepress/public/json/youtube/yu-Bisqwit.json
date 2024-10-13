@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Bisqwit",
+    "name": "Bisqwit",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP2YxpAPNtkkihYxxBZs_wkhYZHIWKJGhWLNoKAKw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fpo_2iHHQHOfFkGRFfO2e_4Mwf2j2tYme1CfSndpy_u_IlvJe9roChnKzzXxDy6gPKpAaBIt=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eF9qWbuQLuw", "title": "Parser and Lexer — How to Create a Compiler part 1/5 — Converting text into an Abstract Syntax Tree" }
+  ]
+}
+
+

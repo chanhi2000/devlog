@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "FrontendMasters",
+    "name": "Frontend Masters",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMAQX894jCDefc1z1gx1KoxU-xtKbSwSOc594fGTw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_2yJlN6rNRa30qfFamUS-EujV2D73JZHQwgPeCMCPSxmlpiDvcizvOjuG_irlFOVxDh_5ohk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YvaEjfzjjRQ", "title": "Recursive types in TypeScript" },
+    { "id": "kAKxPnHipfg", "title": "From Robotics and ML to Twitch/YouTube: Melkey's Tech Journey | Frontend Masters Podcast Ep. 14" },
+    { "id": "hE0EaQc9clk", "title": "Build Go Apps That Scale on AWS with Melkey | Preview" },
+    { "id": "0Hk2XjGSzbA", "title": "Everything You'll Need to Know About Git with ThePrimeagen | Preview" },
+    { "id": "71rKdTEzqrs", "title": "Ultimate CSS Grid & Layout Techniques, v3 with Jen Kramer | Preview" },
+    { "id": "TF77onyaY6M", "title": "The Product Design Process with Paul Boag | Preview" },
+    { "id": "ityk1p1nobw", "title": "UX Research & User Testing with Paul Boag | Preview" },
+    { "id": "FicI7Hr93VA", "title": "Guide for Launching Your Next Big Idea with Paul Boag | Preview" },
+    { "id": "YeHff1zP-KQ", "title": "Design Systems with Storybook, v2 with Steve Kinney | Preview" },
+    { "id": "pyxINY5bUj4", "title": "Figma for Developers, v2 with Steve Kinney | Preview" },
+    { "id": "O4hd2mnTVbw", "title": "Machine Learning in JavaScript with TensorFlow.js with Charlie Gerard" },
+    { "id": "jF78NP6pNIY", "title": "Advanced JavaScript Experiments & Machine Learning | Charlie Gerard – Frontend Masters Podcast Ep.16" },
+    { "id": "4yb8tquP_Wk", "title": "Client-Side GraphQL with React, v2 with Scott Moss | Preview" },
+    { "id": "IpZEpoEMfIk", "title": "Server-Side GraphQL in Next.js with Scott Moss | Preview" },
+    { "id": "b1nUvu24HQE", "title": "Headless CMSs with Next.js with Scott Moss | Preview" },
+    { "id": "MDz2_Zdzhos", "title": "Lydia Hallie - From Self Taught Coder to Vercel Through Open Source | Frontend Masters Podcast Ep.12" },
+    { "id": "IHQcma93fpE", "title": "Test Your JavaScript Knowledge with Lydia Hallie | Preview" },
+    { "id": "deybMk7hiuM", "title": "Marcy Sutton Todd - A Deep Dive into Web Accessibility Insights | Frontend Masters Podcast Ep.13" },
+    { "id": "D5qQNEAC2AE", "title": "Web App Accessibility (feat. React) with Marcy Sutton Todd | Preview" },
+    { "id": "LOP0ICzkg2c", "title": "Enterprise Accessibility with Marcy Sutton Todd | Preview" },
+    { "id": "_GcQYrZKM5Q", "title": "Jem Young - Senior Developer to Engineering Manager at Netflix | The Frontend Masters Podcast Ep.8" },
+    { "id": "d_45NhWGht0", "title": "Engineering Management Fundamentals with Jem Young | Preview" },
+    { "id": "dWxcw2R0gZs", "title": "Blazingly Fast JavaScript with ThePrimeagen | Preview" },
+    { "id": "DsP9bH7HHh4", "title": "The Last Algorithms Course You'll Want (Part 2) with ThePrimeagen | Preview" },
+    { "id": "JgektttRj8Q", "title": "Mark Techson - From Chicago to the Angular Team @ Google | The Frontend Masters Podcast Ep.10" },
+    { "id": "nZTTGQD7FN0", "title": "Angular 17+ Fundamentals with Mark Techson | Preview" },
+    { "id": "83ogcfT6oqk", "title": "Anjana Vakil - Philosophy, Humanity and Computer Science | The Frontend Masters Podcast Ep.11" },
+    { "id": "ddmpHDvqELM", "title": "Vanilla JavaScript Projects with Anjana Vakil | Preview" },
+    { "id": "YD7hhT9-Cro", "title": "TailwindCSS with Steve Kinney | Preview" },
+    { "id": "cN7qzhx3aFY", "title": "Vite with Steve Kinney | Preview" },
+    { "id": "97uPBhwEjLw", "title": "Intermediate TypeScript, v2 with Mike North | Preview" },
+    { "id": "5z21XsopiuI", "title": "Mike North - From TI-83 to Tech Lead at Stripe | The Frontend Masters Podcast Ep.7" },
+    { "id": "HWwC_V2rtIg", "title": "2023 Recap, TypeScript Path Revamp, & Plans for 2024! | Frontend Masters Year-End Hangout" },
+    { "id": "P1HaQUuhmpc", "title": "TypeScript 5+ Fundamentals, v4 with Mike North | Preview" },
+    { "id": "s0yMLhScHF8", "title": "Erik Reinert - From Tech Support to Backend Dev and Beyond | The Frontend Masters Podcast Ep.5" }, 
+    { "id": "CcLgQaJIyn0", "title": "Miško Hevery: Creator of AngularJS & now Qwik | The Frontend Masters Podcast Ep.4" },
+    { "id": "MfVB-CAFzKo", "title": "Practical CSS Layouts by Jen Kramer | Preview" }, 
+    { "id": "hcK3N_Y3hzM", "title": "Rust for TypeScript Developers by ThePrimeagen | Preview" }, 
+    { "id": "Us2JP01aNFE", "title": "Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview" }, 
+    { "id": "Lwr3-doAgaI", "title": "The Last Algorithms Course You'll Need by ThePrimeagen | Preview" }
+  ],
+  "playlists": [
+    
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "BeyondOnesAndZeros",
+    "name": "BeyondOnesAndZeros",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRnE5OXUBSswaMcN9gXw1H6mrNpusoem8pRIVZS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gKcVqUaj8mAm6gE5laIUsezwldh1xY_WmD-Y4pReafRsp0ROtkazhe6K1oISeRuG-i2dnm5QbA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rF-TtX0jLg8", "title": "SwiftUI 2.0: How to Use UIKit Components in SwiftUI - Learn by building a Photo Picker App" },
+    { "id": "F5B6fbTAl04", "title": "SwiftUI 2.0: CloudKit & Core Data - Getting Started" },
+    { "id": "091Mdv_Rjb4", "title": "SwiftUI 2.0: Core Data - How To Use Core Data From Scratch (2020)" },
+    { "id": "bRpFHqv0tRQ", "title": "SwiftUI 2.0 + Combine - Getting Started (2020)" }
+  ]
+}

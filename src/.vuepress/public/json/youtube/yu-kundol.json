@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "kundol",
+    "name": "큰돌의터전",
+    "profile": "https://yt3.googleusercontent.com/K8lEhsNr0qJudZAZ4fyAAtN7ZUk7EcS4LK8PdwyvUGMu5-JRHLUYWHwpBKitOF1vvVtTDn9XfvU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iMHGMGwmtK06qKBIx5fgsdq7Sn7XOPuj6_jcD_TxVag4eCva3bXiK-KrnuJD_-p9HHGQbq4xd98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EnCuA3kN1-Y", "title": "개발자가 꼭 배워야 할 언어?" },
+    { "id": "0XnO_IO9SVg", "title": "독학으로 백엔드 공부 괜찮을까요? | 개발자의 고민" },
+    { "id": "-4Edb3AMZbo", "title": "웹개발자의 미래는 좋나요? | 개발자의 고민" },
+    { "id": "_f7xmSgiaOM", "title": "개발자라면 꼭 참여해야하는 해커톤 정리 및 추천" },
+    { "id": "SO46byKt0Cc", "title": "중소기업 현장실습이냐 부트캠프냐 | 개발자의 고민" },
+    { "id": "XWvJbItx7Qc", "title": "사피를 하고 연봉 5000의 개발자가 되다. | SSAFY 후기 및 지원팁" },
+    { "id": "FAi15-vBu2I", "title": "1인개발 및 창업할까요? 아니면 백엔드로 취업할까요? | 개발자 고민" },
+    { "id": "COvxU51t7MY", "title": "2024 프로그래머스 백엔드 부트캠프 솔직리뷰" },
+    { "id": "Y76LrJw03bs", "title": "개발자 신입이 채용공고 볼 때 알면 좋은 것" },
+    { "id": "bvY8QP5ZIsI", "title": "리액트 타입스크립트로 별점평가 컴포넌트 만들기" },
+    { "id": "Y3tLz6yTE6Q", "title": "상위 1% 개발자의 습관 #2. 지속적인 학습" },
+    { "id": "bKmbYy8Bad4", "title": "스타트업 프론트엔드 개발자 큰돌픽 추천채용 | 부지런" },
+    { "id": "0Xbnz-ch3PE", "title": "ㅠㅠ당근마켓 인턴 채용공고 | 큰돌픽 추천채용" },
+    { "id": "jclKE58m2-o", "title": "라인 채용전환형 인턴 뜸 ㄷㄷ" },
+    { "id": "Ep5HktQzyPI", "title": "네이버쇼핑 클론코딩하며 프론트엔드 역량 길러보기" },
+    { "id": "HbxHATeiPKk", "title": "카카오 인턴십 채용 두둥등장" }, 
+    { "id": "N614irvCACo", "title": "MongoDB의 2D sphere index 의 원리" }, 
+    { "id": "MlvZ2IufTFI", "title": "자바스크립트로 코딩테스트 보기전 봐야할 핵심로직 12가지" }, 
+    { "id": "bluQwqMgTsw", "title": "MySQL and MongoDB comparision" },
+    { "id": "LV-gxtDkiiw", "title": "카카오면접을 합격으로 이끌었던 몇가지의 코드" },
+    { "id": "n5TLPPprGMA", "title": "카카오뱅크 IOS 개발자 채용 | 코테X" },
+    { "id": "v3myU3II4AA", "title": "견고한 데이터 엔지니어링이란?" },
+    { "id": "nYFVOG2lzSk", "title": "개발자는 책 어떻게 쓰나요?" }, 
+    { "id": "YahjHM9UNCA", "title": "www.naver.com을 주소창에 치면 무슨 일이 일어날까요?" }, 
+    { "id": "FnatPPpBzoQ", "title": "이 라이브러리가 있는데 이거 왜 쓰셨나요? | 개발자면접 단골질문" },
+    { "id": "Qi2LJ_NfzC0", "title": "제대로 이해하는 JSON | 개발자필수지식" }, 
+    { "id": "DBXEWJx2mIw", "title": "구현 문제 잘 푸는 팁 | 2023 네이버 코딩테스트 분석" }
+  ]
+}

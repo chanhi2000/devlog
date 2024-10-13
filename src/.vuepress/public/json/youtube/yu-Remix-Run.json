@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Remix-Run",
+    "name": "Remix",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOGa5goa65suDGugtH8mHsJwu5ahJbRaWr-UVubGQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4448O8WGPPe-qzh2C7O1GJqMGZkRmz8WHSmO5eBkVOvIm-bdt-zAOVZqnaC9skoW-DRkiICk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zMf_xeGPn6s", "title": "\"React from Another Dimension\" by Dan Abramov at #RemixConf 2023 💿" }
+  ]
+}
+

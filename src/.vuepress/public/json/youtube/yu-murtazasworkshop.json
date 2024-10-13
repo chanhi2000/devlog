@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "murtazasworkshop",
+    "name": "Murtaza's Workshop - Robotics and AI",
+    "profile": "https://yt3.googleusercontent.com/Txvafy7r_rKj8nQNCf6vy7KPUG_o21oCNwqNQn9Gt3XLLC2ep9B8GLUspO6gxJRbNcejpHag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ixn07-kVmCxnBPkLYapURFw_vIaN9SXtNTCwu1418xHjBo4BhrOHdY7oBi_5_zJ4jDRjcTOe=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i-zk8ATQ-Vs", "title": "Chat GPT + Drone | AI Drone Assistant Part 1" },
+    { "id": "Ri9a7iEuSzo", "title": "Free Gemini API - Chat GPT + Drone | AI Drone Assistant Part 2" },
+    { "id": "0CTtK6Bosd0", "title": "Live: Ai 4 Every 1 Launch Event" },
+    { "id": "jSgdL1zX4h8", "title": "AI 4 Every 1 - Learn the Modern Artificial Intelligence from Scratch" },
+    { "id": "EymNfc6qT2Y", "title": "APP Demo - Comments Sorter - This Week live Session" },
+    { "id": "dDP9PJxLk_Q", "title": "Live: Building an AI app that sorts Negative and Positive comments" },
+    { "id": "sFbfOX1mGyI", "title": "End of Software Engineering? Devin is \"NOT\" Nothing !" },
+    { "id": "ziYZiW4DU7o", "title": "Live: Building a Free AI Caption Generator APP - No GPU Required" },
+    { "id": "fKq0wUMt6JI", "title": "Drone Obstacle Course - What the drone sees | AI Drone Programming" },
+    { "id": "5-EyoutYk30", "title": "AI Drone Programming | Live Launch Event" },
+    { "id": "yLJR1dygqQc", "title": "AI Picks 5 Lucky Tello Drone Winners | AI Drone Programming" },
+    { "id": "64hZ7vf7abQ", "title": "How I created a Viral Deep Fake using Face Fusion | CPU and GPU" },
+    { "id": "R95coF8wF1o", "title": "Automated  Dino Game using Computer Vision | OpenCV  CVZone" },
+    { "id": "Rlt8uLAksgo", "title": "Learn to generate FREE AI Images using your local PC" },
+    { "id": "fHn-6kZkruc", "title": "Learn Computer Vison Web Development in 2 Hours" }, 
+    { "id": "9iEPzbG-xLE", "title": "Gesture Volume Control | OpenCV Python | Computer Vision" }, 
+    { "id": "YAhid-ux3aY", "title": "Learn to build Computer Vision Mobile Apps in 3 DAYS |  iOS and Android" }, 
+    { "id": "WQeoO7MI0Bs", "title": "LEARN OPENCV in 3 HOURS with Python | Including 3xProjects | Computer Vision" }, 
+    { "id": "WgPbbWmnXJ8", "title": "Object Detection 101 Course - Including 4xProjects | Computer Vision" }
+  ],
+  "playlists": [
+
+  ]
+}

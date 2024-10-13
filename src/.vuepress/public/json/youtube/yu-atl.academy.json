@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "atl.academy",
+    "name": "ATL Academy (by Lucas Moy)",
+    "profile": "https://yt3.googleusercontent.com/BkGB4nY_8Zb_sXzn6SKJlSLn9M9HP-3W1ga4chPkUtOHl60fRarOGqqKMkFA1xFvopbdM8GByw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y-E5fm-eKjD1nGZbnVip5_F4CjagNujP3ujukQ8OG1NasGJrs5Ij5I2NrPuPOhQTn4M4Akpm5w=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7vHzVN0EiQc", "title": "Curso de Java Fullstack Completo (springboot, hibernate, JWT, API Rest)" }
+  ]
+}

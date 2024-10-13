@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "Techdox",
+    "name": "Techdox",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKanWGl1tP31yoLuhVaPoe9HvRW9l2JhALCXXvdL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yp437yr6uai4v7EemDR0GecgU8h9rzcCBl8Y4RObcz4Z6c700fHTlE-CZrXVofcX-yKnLMDMtw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PzbdEZ4DQTg", "title": "Expose Your Docker Containers With Traefik" },
+    { "id": "vjztuwnA8z4", "title": "How My Synology NAS Powers My Home Lab" },
+    { "id": "E8tUgVJ4EjU", "title": "Why Pingvin is My Last File Share Server" },
+    { "id": "SogiBS2gRI8", "title": "Easiest Way to Install WireGuard VPN!" },
+    { "id": "wZIHvfSUht8", "title": "Convert Running Containers to Docker Compose" },
+    { "id": "DDzKd9aNFX0", "title": "How to Self-Host Mealie - A Recipe Manager with Docker Compose" },
+    { "id": "5DL_TxeJi4s", "title": "Tailscale VPN: The Easiest Way to Access Your Servers and Network" },
+    { "id": "bRD-i6Cj4z4", "title": "How to Self-Host Headscale with Docker Compose" },
+    { "id": "KQ_fYtkQZSM", "title": "A Realistic Home Lab Setup: Self-Hosting Hardware and Software" },
+    { "id": "S0PzBFPjFj4", "title": "Deploy Your Own Joplin Server with Docker Compose: A Step-by-Step Guide" },
+    { "id": "08nUWTiuVNE", "title": "Effortless Docker Management: Setting Up Cosmos Cloud Server" },
+    { "id": "aeps4cicDoI", "title": "Ditching Discord for Data Privacy: A Synapse Matrix Server Setup Guide" },
+    { "id": "OW90dUKr-v8", "title": "Duplicati Saved My Home Server: Rebuilding My Home Server After a Proxmox Meltdown" },
+    { "id": "IP7zPeMEuL8", "title": "Secure Your Self-Hosted Network with Wazuh" },
+    { "id": "AcFjopnczVY", "title": "Docker Monitoring Made Easy: Quick Start with ctop" },
+    { "id": "K2RDsWgwDTU", "title": "Self-Hosting MKDocs Material Theme Using Docker" },
+    { "id": "XDG385jOHRM", "title": "How to SelfHost PrivateBin with Docker - SelfHosted Pastebin" },
+    { "id": "1M3USq14jHk", "title": "Self-Host Your Own Secure File Server with Docker | Easy Setup Guide" },
+    { "id": "3fRMVXNfT9A", "title": "Self-Hosted SSO: How to Set Up Authentik with Docker Compose for Unified Login" },
+    { "id": "qlL4a2ZlEHs", "title": "Integrate Authentik as an OAuth Provider in Portainer: A Step-by-Step Tutorial" },
+    { "id": "PJCr2LYGA2Y", "title": "Self-Host Your Own MFA Solution with 2FAuth and Docker Compose!" },
+    { "id": "bHNNSFoMuAI", "title": "Linkstack Setup with Docker Compose: A Step-by-Step Tutorial" },
+    { "id": "rchFalToyRA", "title": "Effortless Data Backup with Duplicati and Docker: A Complete Installation Guide" },
+    { "id": "VP-uzo9tB14", "title": "Control Your Photos: Easy Immich Setup via Docker Compose" },
+    { "id": "uT9Q5WdBGos", "title": "Transform Your Document Chaos with Paperless: A Self-Hosting Guide with Docker" },
+    { "id": "yrscZ-kGc_Y", "title": "Effortless Server Monitoring: Install Grafana, Prometheus & Node Exporter with Docker!" },
+    { "id": "ephiayS50jM", "title": "Simplify Docker Compose Management with Dockge!" }
+  ]
+}

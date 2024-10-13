@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "rustlabconference3671",
+    "name": "RustLab Conference",
+    "profile": "https://yt3.googleusercontent.com/JSOcZ2dDcap3SM0omGtKMiWcMugf9bShEYWKJ9CrQ1Y5ddQx58VyfNk3ljW_31urRoHUzhE_=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/T0pBCCxZOkDJVm1MJpjdtO8gbJuXLn9ThVeEFvfJR4ac9LqvFS7aJP9bb73F5xYAEhEjumBo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wvccOkvpbY0", "title": "Bring Gameboy alive in the Web with Rust and WebAssembly - Raphael Amorim" },
+    { "id": "r5O85GirMgQ", "title": "Lychee: writing a link checker in a weekend (plus two short years) - Matthias Endler" },
+    { "id": "RWh8qbiLRts", "title": "Turning Git commits into changelog with Git-Cliff - Orhun Parmaksız" },
+    { "id": "KGb2u78ltg0", "title": "Enhancing Rust with BTF debug format support - Michal Rostecki" },
+    { "id": "Jupp-QPMM6I", "title": "Rust and Climate Change in Tunisia - Laabidi Raissi" },
+    { "id": "qwOlWfYlq0A", "title": "Lightning Talks (21/11/2023) part 2" },
+    { "id": "iQ0IFNpqNsw", "title": "Lightning Talks (20/11/2023)" },
+    { "id": "mmW_RbTyj8c", "title": "Vello: high performance 2D graphics - Raph Levien" },
+    { "id": "YcujtU0LA9Y", "title": "Building the next cloud compute primitive, in Rust - Luca Casonato" },
+    { "id": "-qwRwsuHZpk", "title": "Teaching an old dog new tricks: extending Postgres capabilities with Rust - Francesco Degrassi" },
+    { "id": "BlZlBdnizbw", "title": "Observing Tokio - Hayden Stainsby" },
+    { "id": "rk4JwhIpqrg", "title": "Composable and safe architecture for network packet monitoring -  Jukka Taimisto" },
+    { "id": "ms8zKpS_dZE", "title": "Property-testing async code in Rust to build reliable distributed systems - Antonio Scandurra" },
+    { "id": "pgNIcQ8rTXk", "title": "Developing WebAssembly Rust plugins for Zellij - Aram Drevekenin" },
+    { "id": "cOrfhKseoPA", "title": "Live coding a quick & easy semantic search with Qdrant from scratch - Andre Bogus" },
+    { "id": "kXPBVGDkQSs", "title": "Release-plz: releasing crates like it's 2023 - Marco Ieni" },
+    { "id": "r1nRC32MHpc", "title": "Pavex: re-imaging what API development looks like in Rust - Luca Palmieri" },
+    { "id": "g6mUtBVESb0", "title": "Rust's trait system is a proof engine, let's make it prove us an ABI! - Pierre Avital" },
+    { "id": "tLX_nvWD738", "title": "Small data optimization -  Nikolai Vazquez" },
+    { "id": "CEznkXjYFb4", "title": "Keynote | Rust in the Linux kernel - Alice Ryhl" }
+  ]
+}

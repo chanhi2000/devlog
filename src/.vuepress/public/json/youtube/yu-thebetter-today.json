@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "thebetter-today",
+    "name": "더 배러 (The Better)",
+    "profile": "https://yt3.googleusercontent.com/3CsjBCImTo1n8tejB4X24rPSR9sBbxqm2QHaGESdTrHpy2y2hx0n-K8ZeckaPswcXun7xR2glw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XIKYCuC4jHOe9FsE4q1PoaIhnVX72QFWsHodRio0P1vmlipgenlncZdhnP7DOKLKTqC0vjY569Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ILqsZI0PnyE", "title": "두유노 올라마? Do you know Ollama? 내 컴퓨터에서 대규모 언어모델을 돌리자!| 더배러 톡톡 Talk Talk" },
+    { "id": "nffOG2NHWSY", "title": "Flowise로 나만의 LLM 플로우 만들기" },
+    { "id": "h1uIZf_NLJI", "title": "쉽고 강력한 개인 지식 관리 도구 Capacities 소개 (옵시디언 어려운 분들 오세요)" },
+    { "id": "0Fu2bZN6E6U", "title": "[22회]  Show Me Your Desk - 우리들의 데스크테리어 | 일잘러들의 데스크 셋업 취향 엿보기" }
+  ],
+  "playlists": [
+    
+  ]
+}

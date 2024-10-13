@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "user-bv8if5qg9l",
+    "name": "빅데이터 혁신융합대학",
+    "profile": "https://yt3.googleusercontent.com/GTGK4h_oH5zSg1xsXFwh74j_96axMz0rrCuwXcqlhtDF-QGzTq6TD9EjJsdzlfqwQ0-qjg4Kbg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OjSHE01hN8vgRsgCzfsxJ39IG9_-tDgttz3suckEBivGTtWLTWwojFURZW6_4oPQC1SokGjg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xi76jgsfFeQ", "title": "빅데이터 혁신융합대학 홍보 영상 - 서울대편" },
+    { "id": "4JjKoiPrX94", "title": "빅데이터 터치, 미래를 보다(4부)" },
+    { "id": "368EDZY6T2o", "title": "기업에서의 LLM 활용을 위한 Palantir AIP 솔루션-팔란티어 서지숙" }
+  ]
+}

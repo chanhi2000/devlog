@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "moddell",
+    "name": "ODDELL",
+    "profile": "https://yt3.googleusercontent.com/s7cgZFBvCFDKAm59-6xrRzGq0nV2BO97Pz80TIwv3d40_iVNqxtNqLbev0AtE1Vr_JOn0utu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "66KcpIrmsaQ", "title": "My Simple Coding Routine for Unbreakable Consistency" },
+    { "id": "UisWBHwt4nA", "title": "Software engineers HAVE to work hard AND smart" },
+    { "id": "9_LTIa-5Ow4", "title": "This rare technique for coders will 2.3x your salary" },
+    { "id": "U69VdLwQnTw", "title": "Get out of a rut in 2 hours (for software engineers)" },
+    { "id": "8tnohEAoHYE", "title": "A network that will actually uplevel you as a programmer" },
+    { "id": "rjIxPPa1FoI", "title": "How to become a 10x developer" },
+    { "id": "1arca4nbjjo", "title": "The procrastination killing app for programmers (that actually works)" },
+    { "id": "o2g13xFJ21Q", "title": "Setting these two alarms instantly skyrockets your coding productivity" },
+    { "id": "GGBYFh4gpBE", "title": "This rare technique helps you solve difficult code problems" },
+    { "id": "tcARX9rLyvw", "title": "Learn more than 99% of software engineers with just two tools" },
+    { "id": "a4e3WSBjNX0", "title": "10x your coding speed with this universal plugin (IDE Mastery)" },
+    { "id": "T0tsduoqhaA", "title": "The productivity tool for programmers nobody is talking about (does it grow corn)" },
+    { "id": "CLinuXvfYs4", "title": "Devin will replace programmers, and its a good thing" },
+    { "id": "FxgGV0R1mSo", "title": "Become a coding wizard" },
+    { "id": "I6oHzSFS-Es", "title": "What I learned from 5840 hours of coding (so far)" },
+    { "id": "7cu2eO5oOZ8", "title": "How to learn code as fast as humanly possible" }
+  ],
+  "playlists": [
+
+  ]
+}

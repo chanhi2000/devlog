@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "homebrewhenry",
+    "name": "Homebrew Henry",
+    "profile": "https://yt3.googleusercontent.com/LYStXkRNc9U5V5tSmwBgOxvPGCXsoqIL11AElBDkefVhVr90H97r0yLZQ942JCKm382EguWjAg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Q33ceVW2AWk", "title": "Are AWS Certifications ACTUALLY Worth It In 2024?" },
+    { "id": "m0x9tTPEbLA", "title": "Entry Level DevOps Jobs Don't Exist" },
+    { "id": "g8p4C4Dk1DQ", "title": "The Harsh Reality of Being a DevOps Engineer" },
+    { "id": "VbrK_OMFk2Q", "title": "What I Wish I Knew Before Working in Cloud" },
+    { "id": "Rqml6BNaho4", "title": "The Simple Study System I Use to PASS AWS Exams" }
+  ]
+}

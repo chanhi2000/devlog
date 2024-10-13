@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "warm_hearted_t",
+    "name": "따뜻한 보건티",
+    "profile": "https://yt3.googleusercontent.com/4i_PAeZYD3PUKZGK-UxxDB25IFRv4Bb8p17MGvDgik8S_St1RkKlXsWxEkrG-TXS66So6cioj7k=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "5eCFgu_Gcmg", "title": "[자료 공유 및 팁 공유] 임용 2차 면접 잘 보세요!" },
+    { "id": "ggLA0uZec_Q", "title": "노션 모바일 캘린더 데려왔어요 👋🏼 휴대폰에서도 노션 캘린더로 업무관리를" },
+    { "id": "2G-PzeKUPRA", "title": "노션으로 책 골고루 읽기 ㅣ 노션 독서노트" },
+    { "id": "Y28aOw3xtX8", "title": "노션캘린더로 업무관리 ✨ 처음부터 같이 만들어봐요!" }
+  ]
+}

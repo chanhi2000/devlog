@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SKTelecomTdevelopers",
+    "name": "SK open API",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO_PK6y_VlEQjR7ILgRU80Y9z0stXeQmUzZCoIB4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aFxWAT2_Z3yugUyMG9jyXafWccijU_VUfYnuvP2iv1lJScA7Ck-akRMM_MN7RsPvXo33DvY0Pik=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4Im7a-Zcct8", "title": "[제 49회 TDF] 02 최정대 라인 클라우드 아키텍트 - Kubernetes 기반 Cloud Native App Platform" }
+  ]
+}

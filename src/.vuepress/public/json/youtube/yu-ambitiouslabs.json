@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ambitiouslabs",
+    "name": "Ambitious Alim",
+    "profile": "https://yt3.googleusercontent.com/2yXaHRUpzHsSw2jdau4BtNvd_VjseyvALZCkJT1DqhmoGzLhq1Yqm8XtaGKGoj3Te2yigTSwzDU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2bIhp-r_xafxBHMAHaU_DsoJYXaD_ovMBOYTZl5OHMXvdWIFAfPsJghi4ecpqRvYjnyw6F1cWA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vg8lunxjWIo", "title": "FlutterFlow + Buildship -  Build An AI Assistant App With Harini, CEO of Buildship" },
+    { "id": "Urj2aWjbPIU", "title": "Dreams Into Apps Accelerator | Kasper Private Chef, Vorra, & Platipus" },
+    { "id": "ti7n7YCfe84", "title": "Building Apps using Dreams Into Apps" },
+    { "id": "RLQH6MpDqjU", "title": "How To Acquire 1M Users After Launching Your App" },
+    { "id": "jYht1tE_NfU", "title": "v3 writing words that make people buy" },
+    { "id": "4m1rUvsIT5o", "title": "How Diego Built a Church Finding App Inside The Dreams Into Apps Accelerator" },
+    { "id": "Mt0DOb-LKRw", "title": "Buildship + FlutterFlow  - THE ONLY 2 NO-CODE TOOLS YOU NEED TO BUILD AN APP" },
+    { "id": "Ez45HId0Dao", "title": "10 Money Making Mobile Games You Can Build Without Coding!" },
+    { "id": "5viu2_C-aGw", "title": "Watch Me Build iOS Apps in the Vision Pro" },
+    { "id": "gfIbq4qTvR4", "title": "How To Connect Keyboard To Apple Vision Pro" }
+  ]
+}

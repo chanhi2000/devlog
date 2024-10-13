@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "devmentordave",
+    "name": "Dev Mentor Dave",
+    "profile": "https://yt3.googleusercontent.com/KtMB_OPZGzUPj01-djLP7L0xD6Kkc9OVO77c3MpeJyylgZbzMrdkebycip6-br6tvzZY6BEFyA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KUJprWL-G80hg3FmwJs7kCdZF3luNZxQy83k3HnxeUVLUs-KaHWEOIYaNe_vP9h2LQ7AzmGYkA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vv1J8kQkkac", "title": "DeepPockets: MVP Feature Selection!" },
+    { "id": "V7tN6aePnkM", "title": "LiveClip: How To Go From Jr. To Sr. Dev" },
+    { "id": "WwvzjkjVCNI", "title": "The Dev Skill Great Devs Have That No One Is Talking About..." },
+    { "id": "KFPOv_EDo6w", "title": "These Project Keys Grow Your Dev Skills The Fastest!" },
+    { "id": "1Qd-Hgg4jzQ", "title": "DeepPockets: Requirements & Design" },
+    { "id": "ScGehbAy-Ko", "title": "DeepPockets: \"Final\" Database" },
+    { "id": "z5ynawkrCos", "title": "Jr. Devs: Companies Are Afraid To Hire You!" },
+    { "id": "FMzOjTKVjnQ", "title": "DeepPockets: Lots of Backend CRUD" },
+    { "id": "lFtJyEXJexU", "title": "LiveClip: Shortened Version of 16 Years A Junior Livestream" },
+    { "id": "DUqva9AwJlM", "title": "The Easiest Way To Guarantee Perfect Code" },
+    { "id": "9VGkzNuDniQ", "title": "DeepPockets: Web Routes & React" },
+    { "id": "N2DU18Szu3c", "title": "Simple Workaround For Employer Experience Requirements For Jr. Devs" },
+    { "id": "WVqZikzsSYc", "title": "DeepPockets: Let's Get Real About Development Projects" }
+  ],
+  "playlists": [
+
+  ]
+}

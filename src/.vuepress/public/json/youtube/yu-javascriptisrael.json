@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "javascriptisrael",
+    "name": "JavaScript Israel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSA8wlyB4Ja7WyuvnhfzMipgk3bN3n_GPv65y4h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iicYL9lT1dkJqTC898NEHngzp032l3NhFdfVppqP7GdLLiC6uo3UhkfmJUzseDOMQBj6DRGK6uk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SK5oercbA5g", "title": "New & Upcoming JS Features - Naveh Sadeh" }, 
+    { "id": "ns-tCxY1gDE", "title": "Stop Using Express. Fastify to The Rescue! - Amit Gazal" }, 
+    { "id": "CA_5d50P318", "title": "Remult: a CRUD Framework for Full-Stack TypeScript - Noam Honig" }, 
+    { "id": "DwlIn9zOcfc", "title": "Zero to Deploy: Launching a Node.js App on Kubernetes - Sandeep Dinesh (English)" }
+  ]
+}
+

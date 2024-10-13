@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DevonCrawford",
+    "name": "Devon Crawford",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaXD0cL4GR6ZUZ4bk7HHsWZgBjtusrufA6LeMcr-w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mhUbEwEeHr2j43VBuSFFNKSZMju1gU72g-mjfoJNOS-7I5rAanNW9TW7QoXsljAeEhGhzpKS3A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SC7lLm6QAb8", "title": "Platform for Scalable Web Apps | How I built my website with Kubernetes" }
+  ]
+}

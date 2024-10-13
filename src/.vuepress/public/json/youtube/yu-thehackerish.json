@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "thehackerish",
+    "name": "thehackerish",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ-21e9RvNl4j5CBnlVFk5i4WNBgsMcbRkeCmq7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qRRk42gU9pn44tqBPwndaznSVDYU8TnuQbd01PE6aEVlML3Qd3rBlc0coActL2Sb1v0_1Cdg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "grpqGxc5rHg", "title": "Can I Hack This? InfluxDB Hacking and Docker Escape" },
+    { "id": "DwI76dOtgjk", "title": "I Hacked & Exposed This Evil Website for Educational Purposes - CTF" },
+    { "id": "FvpZkEHpF8g", "title": "I legally defaced this website." }
+  ]
+}

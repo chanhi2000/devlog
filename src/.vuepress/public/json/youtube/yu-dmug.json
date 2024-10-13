@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "dmug",
+    "name": "Definitive Mac Upgrade Guide",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYAmEgBCtMJpA1SYNGUrYPxBEfI8J4xvMj7X2vt=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zDI844Bp5LwWe3IRiJba60i29dzAJgy2fZzkAs0yutoIQIZalpxNs0Gg4FGybUi3bXqQzU72h5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qVk4pqEj7jY", "title": "Is it worth upgrading a Mac Pro 2010?" },
+    { "id": "xwUc2LRoUyQ", "title": "$1500 of SSDs in a Mac Pro.... with a Sonnet 4x4 M.2 Silent" },
+    { "id": "ln_7UXG7Gac", "title": "How to play PlayStation Games on your Mac (PSX / PS1 emulation on macOS)" },
+    { "id": "uQpPJP9CUtQ", "title": "What a \"PC\" Mac Mini looks like - Geekom XT 12 Pro" },
+    { "id": "Gza7ebuT7DA", "title": "Mac Mini M1vs Mac Pro 2013 Benchmark Battle!" },
+    { "id": "4XA0KL_iWUc", "title": "What the hell is a Neural Engine?" },
+    { "id": "xTzvh0EFg_s", "title": "Does anyone want this? Exploring Blu Ray on a Mac" },
+    { "id": "mS9xTkL9RxA", "title": "A hater uses Mac Pro 2013 for the first time" },
+    { "id": "Qb4v6YaEQa0", "title": "How can Apple ship with 8 GB of RAM? macOS RAM management explained" },
+    { "id": "8KeES5llh9I", "title": "Play your Windows Steam Library on your Apple Silicon Mac (for free)" },
+    { "id": "cyFEvGJ0Khg", "title": "Become an AI Art legend with your iPhone, iPad or Mac" },
+    { "id": "sLplT_EMB_0", "title": "Making the ultimate Mac OS 9 & OS X PowerMac" },
+    { "id": "4sE70yh0AV4", "title": "Before there was Space Black, there was the Black MacBook" },
+    { "id": "Qg6pPDys-s0", "title": "Playing with fire hazards! - USBc to MagSafe 1 & 2 charging cables" },
+    { "id": "exCcSce2uNo", "title": "macOS 14 Sonoma on a 15 year old Mac (classic Mac Pro 2008)" }
+  ]
+}

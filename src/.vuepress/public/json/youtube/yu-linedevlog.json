@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "linedevlog",
+    "name": "라인개발실록",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZs190h9GUWGxeTKBzB9LLbyxmPJyqKSqXeaQ_Y=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OGMmgjQtWPxL9nuJA18Hr7gnG6EjN5w_azKZpiJ3Uf4hDH2bcFdZYOV6wTRALFZrC6icSh5_jvc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zz-IehTBgjY", "title": "글로벌한 라인의 속도와 안정성의 비결은? CDN! Content Delivery Network | 라인개발실록" },
+    { "id": "54PLQS4OS5E", "title": "CDN으로 무엇을 할 수 있나요? Content Delivery Network, CDN QnA  | 라인개발실록" },
+    { "id": "Ii_EG-JKUw4", "title": "AI가 요즘 어떤지, 앞으로가 더 궁금하다면?  | 라인개발실록" },
+    { "id": "8cBrxELl_xc", "title": "서비스에 AI 기술을 적용하기 위한 모델 개발 프로세스란?  | 라인개발실록" },
+    { "id": "4pkh-EBukD8", "title": "LINE의 TPM이 프로젝트를 운영하는 방법 - part.2 | 라인개발실록" },
+    { "id": "V-Eth7q_cKU", "title": "새롭게 태어난 Kotlin JDSL 3.0 기능 소개부터 찐 에피소드 공유까지  | 라인개발실록" },
+    { "id": "9O9YjopIiEQ", "title": "Kotlin JDSL 3.0으로 더욱 쉽고 편리하게! 궁금한 점 QnA, 앞으로의 방향성은?!   | 라인개발실록" },
+    { "id": "aMwB6qPnQJM", "title": "기술 프로젝트를 성공적으로 이끄는 LINE의 TPM - part.1 | 라인개발실록" },
+    { "id": "YDotOWOpgNE", "title": "잘 키운 오픈소스, 열 고양이 안 부럽다고요? 공개SW 페스티벌 2023 방문기" },
+    { "id": "bZKbrioqTCw", "title": "Flutter 개발에 Android, iOS 지식이 필요한가요? | 라인개발실록" },
+    { "id": "tlwNJ9yHyx4", "title": "일본 1위 배달앱, Flutter로 만듭니다 | 라인개발실록" },
+    { "id": "bcNSWcCaijc", "title": "알람이 울면 빠르게 일어나 대응해요⚡️ DBA 온콜 | LINE DEV Vlog" },
+    { "id": "3sVS3HSrFFo", "title": "QA 엔지니어가 들려주는 QA 트렌드 | 라인개발실록" },
+    { "id": "H19s7wOv7nM", "title": "라인이 iOS 업데이트에 대응하는 방법 | 라인개발실록" }
+  ]
+}

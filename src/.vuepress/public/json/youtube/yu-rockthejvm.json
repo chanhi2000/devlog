@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "rockthejvm",
+    "name": "Rock the JVM",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mef8uIqxpajZMRaH2v_A5qG8cALnnKyW0adtzPyb-RQA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/flpa3Lv-_CG2znwIizdwNsbMdMq5ARsAgyWfESR1ZJ_7H_UfxdOtcMPonGmdf_eiOZkz07_c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gLJOagwtQDw", "title": "Automatic Dependency Injection in Scala - Just the Type System!" },
+    { "id": "1uP6FTUn8_E", "title": "A Remote Code Execution System with Apache Pekko & Scala" },
+    { "id": "d0BYBs4JSsE", "title": "Kotlin Scope Functions for Expressiveness: let, run, with, apply" },
+    { "id": "hHMEMRGHmAI", "title": "The Power of Recursion - How To Think Code Clearly" },
+    { "id": "xNCCHFljwBg", "title": "Scala PostgreSQL Integration With Skunk" },
+    { "id": "xJnuXAc4siY", "title": "htmx, ScalaTags and ZIO HTTP - Single-Page Web Applications in Scala" }
+  ],
+  "playlists": [
+
+  ]
+}

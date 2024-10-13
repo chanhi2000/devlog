@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "ToposInstitute",
+    "name": "Topos Institute",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lyKT9-d_lNv2sZTJrKRC1qsrtFI5Mg0SG2BMK9I_4tww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tfkHerPXDYeHbdHMKPlQaHeikYP9aOi6YvuMMSJ8IPOpmFU3of5oHgJOipxmgclxyqZFiei1hw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rhZAkHDo-r4", "title": "Amélia Liao: \"Cubical types for the working formalizer\"" },
+    { "id": "Jmh8nXwmm2U", "title": "Spencer Breiner: \"Polynomial Interfaces\"" },
+    { "id": "Di8rz9Vp3Rw", "title": "Christine Tasson: \"Semantics for Reactive Probabilistic Programming\"" },
+    { "id": "RwDMP0qeyHo", "title": "Chris Fields: \"What is the Identity operator?\"" },
+    { "id": "RwDMP0qeyHo", "title": "Chris Fields: \"What is the Identity operator?\"" },
+    { "id": "yl2cjgpI6RA", "title": "Seth Frey: \"Online communities as model systems for commons governance\"" },
+    { "id": "99oiRVayRhg", "title": "[Berkeley Seminar] Priyaa Srinivasan: Communicating Relational Thinking" },
+    { "id": "URZ3grG7xKI", "title": "Arthur J Parzygnat: \"A generalization of inversion using Bayes' rule with applications to quantum\"" },
+    { "id": "RmiTOa4b0bA", "title": "[Berkeley Seminar] CB Aberle: All Concepts are Essentially Algebraic" },
+    { "id": "ZOT5jQ8W2Nc", "title": "Will Crichton: \"How to Make Mathematicians Into Programmers (And Vice Versa)\"" },
+    { "id": "ounWrXSY6Fw", "title": "Cyrus Omar: \"Totally Live Programming and Proving in Hazel\"" },
+    { "id": "L6LPEFteLts", "title": "Steve Vickers: \"The Fundamental Theorem of Calculus: point-free\"" },
+    { "id": "Y1RkPhwJ0Mo", "title": "Alex Simpson: \"Three toposes for probability and randomness\"" },
+    { "id": "Ri_oC2gf-aY", "title": "Bartosz Milewski: \"Parametric Profunctor Preoptics\"" },
+    { "id": "pJ20NWD4qXk", "title": "Mason Porter: \"Topological Data Analysis of Spatial Systems\"" },
+    { "id": "Jl7FTOaFZgA", "title": "Eugenio Moggi: \"Categories of Classes for Collection Monads\"" },
+    { "id": "Wiwm872T1Yk", "title": "Valeria de Paiva: Network Mathematics for All" },
+    { "id": "rHY7nboIyBg", "title": "Shaowei Lin: AI-assisted Coding. Correct by Construction, Not by Generation" },
+    { "id": "5ZmUbYvTSPU", "title": "Evan Patterson: Domain specific Logics for Scientific Modeling  Theory and Practice" },
+    { "id": "w0KPxg7sIe4", "title": "M  Andrew Moshier: Relations for Order Regular Categories" },
+    { "id": "pogURywpPXk", "title": "Daniele Struppa: An Introduction to Superoscillations and Supershift" },
+    { "id": "RFsVml1HcKc", "title": "Alexander Kurz: Canonical Extensions of Quantale Enriched Categories" },
+    { "id": "loSM2O54WOk", "title": "Berkeley Seminar: Sophie Libkind, Probabilistic and Namespace Conditioning in Poly (4/29/2024)" },
+    { "id": "tKVTmBdXSdk", "title": "Polynomial functors: Lecture 2/9" },
+    { "id": "nJX3HIVY6mA", "title": "Polynomial functors: Lecture 6/9" },
+    { "id": "hl_FjskL9WA", "title": "Polynomial functors: Lecture 9/9" },
+    { "id": "JUbAqGpkKwM", "title": "Polynomial functors: Lecture 4/9" },
+    { "id": "Fy48zjj9Gm8", "title": "Polynomial functors: Lecture 5/9" },
+    { "id": "EiMBWZmFUjM", "title": "Polynomial functors: Lecture 3/9" },
+    { "id": "JHNaNZpWOL0", "title": "Polynomial functors: Lecture 8/9" },
+    { "id": "4BSWJYMumMU", "title": "Polynomial functors: Lecture 1/9" },
+    { "id": "7WORtTQPfTY", "title": "Polynomial functors: Lecture 7/9" },
+    { "id": "o3t6zTvpZbs", "title": "Elena Di Lavore: \"Effectful trace semantics via effectful streams\"" }
+  ],
+  "playlists": [
+
+  ]
+}

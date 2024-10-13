@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "WebKitCoding",
+    "name": "WebKitCoding",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZWnL8CS2DFabenYUAxLVbksK5fIejBVXX_S7nP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wcxSHA01k4atHxJe4UrxzjnSMmHbgIOBLNVP1KR_fNFxH4sQBmG3oi0srFWjLh0lwIPK404AJQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RhyNjKboohA", "title": "Navbar with Hover Indicator Using HTML & CSS | Navigation Menu Bar" },
+    { "id": "k4B_5r_hpso", "title": "2 Types of Loading Animation in HTML And CSS! | CSS - Animated Screen Loaders" },
+    { "id": "wpJGcbYrwkE", "title": "Floor Type - Background Animation using Html CSS And JS | JavaScript Animated Background" },
+    { "id": "s9t25NJF2NA", "title": "CSS only 3D Bouncing Ball Animation on CUBE! | CSS 3D Animation & Effects" },
+    { "id": "zebIde5D3Hk", "title": "Quick JS! - Changing IMAGE throw Thumbnail Click | Vanilla JavaScript SRC method" },
+    { "id": "hgynZJ5mPF8", "title": "RESPONSIVE - Scrollable Shopping Cards List | Product Cards UI Design using HTML & CSS" },
+    { "id": "cFW-P-94uC0", "title": "Part 2 - RESPONSIVE Scrollable Shopping Cards List | Product Cards UI Design using HTML & CSS" },
+    { "id": "6B0aIpvLBFQ", "title": "Build a Calculator with Modern UI using HTML CSS & JavaScript" },
+    { "id": "oOcXGTg9WaQ", "title": "Animated Counter with Hover Effect In Html CSS JQUERY | Jquery Count Up Number Animation" },
+    { "id": "O2n1Vz-jAuU", "title": "JavaScript - Show NAVBAR when Scroll up & Hide again when Scroll down Cursor" },
+    { "id": "73quxYnKW8U", "title": "CSS Smooth Transitions on Hover CARDS | CSS Card HOVER Effects" },
+    { "id": "HtBlCXZk-Dk", "title": "Just 3 LINES of CSS Animate Div Elements on Scroll | webkitcoding" },
+    { "id": "akGBLjpRaps", "title": "Quick CSS - Wavy Background with Blending image | CURVED Background In CSS & SVG" },
+    { "id": "N-vSxnP7MaU", "title": "How To Create & Add This 3 Boxes CRAZY Preloader In Website by CSS And JS | CSS Animated Preloader" },
+    { "id": "ZNZlkInvFg8", "title": "Neumorphism - Social Buttons with Popup Label & Indicators | Neumorphism UI Design Html & CSS" },
+    { "id": "1Qi01uEGkCE", "title": "Parallax Scrolling Effect Website | How to Make Parallax Website HTML CSS And JS" },
+    { "id": "rCTz_QJ97zU", "title": "Navigation Menu Bar with Login Form using Html CSS And JS | Form Button Inside Navbar" },
+    { "id": "eAwO16Sg_WM", "title": "Cursor Directoinal-Aware Effect with HTML CSS And JS | JavaScript Directoinal Hover Effect" },
+    { "id": "Af_5ROdDKdw", "title": "Create a 3D Animated Web Page in HTML CSS And JS | Perspective based 3D Website" },
+    { "id": "a9ardBW9GwU", "title": "CSS Animated Ring Portal like Marvel's DS | Doctor Strange's Portal Effect using CSS variable(--x)" },
+    { "id": "ObQM1XPu7wY", "title": "Vertical Navbar with Paper Fold Effects In HTML CSS & JS | CSS Fold Effect Navigation Bar" },
+    { "id": "WZSfckOgJXE", "title": "CSS GEARS! Type Loader Animation | How to Create Loader spinner in HTML & CSS" },
+    { "id": "1u-ol271d7Q", "title": "2 Types of Border Animations on HOVER! | Quick CSS - Animated Border Cards" },
+    { "id": "onHw1cTvpfc", "title": "Create Responsive Footer Section using HTML  And CSS" }
+  ],
+  "playlists": [
+    
+  ]
+}

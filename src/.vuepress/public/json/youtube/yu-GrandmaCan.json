@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "GrandmaCan",
+    "name": "GrandmaCan -我阿嬤都會",
+    "profile": "https://yt3.googleusercontent.com/kUaRemmO8oVA1ygqlHodGLwCVztWHpLCd9Cic3KU3lKwjtu3xenO1bucdEPv3nZ1O4LAdMLxfig=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7NY7Q1on5z4lR-a8zXQCKXRaJil74zryIFiVU8RGb7ohvYp_v4mM7s13h81KpENlgqQB4vQGAQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nQ1Z3NxpfIw", "title": "【Java】3 hours of Java teaching for beginners #Java #Java Teaching #Java Introduction" },
+    { "id": "gvRXjsrpCHw", "title": "【Database】SQL 3 hours teaching for beginners #SQL #MySQL #database" },
+    { "id": "z0FLlmz-0XA", "title": "【JavaScript】Web Development 6-hour Beginner Tutorial #JavaScript #JavaScriptTeaching #JS" },
+    { "id": "N1f6_OhiSFI", "title": "【HTML CSS】網頁開發 1小時初學者教學 #HTML教學 #CSS教學 #網頁教學" }
+  ]
+}

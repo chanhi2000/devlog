@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MakeSchoolCS",
+    "name": "Make School",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbIahb4LUB6GXL5EHyRCbF7kpK9-NL-IEQQhmKt1A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wIVkN1yLkVnsPVkGaEyEl3x5fqtCEq-kQbt8l7sh6SKOYBvvdS95Uxn3StKQsJuFhKhh6jgV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OiHefYRfWWw", "title": "Debugging Swift Memory Issues with Xcode and Profiler" }
+  ]
+}
+

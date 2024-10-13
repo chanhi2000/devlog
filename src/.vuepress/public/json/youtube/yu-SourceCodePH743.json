@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "SourceCodePH743",
+    "name": "Source Code PH",
+    "profile": "https://yt3.googleusercontent.com/tZEHZGMiq_wgNVDugVpnvPq9fRBsWkB2E9ZZuEr--KFg7idAkz3mUMbsFX-TBshpWc5PuysPiw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8aCZNxG5lQCjOB2VXqC15TZmzF848ZlyuoJsGcslg8KFVn5r49SOfliBt7DnnlQ9_h4EuSRPoA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nvGFAdzRGXk", "title": "Web-based Student Attendance System for Elementary, Senior and Junior High School with SMS Alert" },
+    { "id": "w9S6e9D2Cco", "title": "Calculator in PHP" },
+    { "id": "zDwHZcEHSqk", "title": "COMPLETE CLASS SCHEDULE AND ATTENDANCE MONITORING  SOFTWARE" },
+    { "id": "Iu1yXCv9bhI", "title": "SCHOOL PAYMENT WITH SMS SOFTWARE USING VB.NET AND MYSQL" },
+    { "id": "FSmetfBD91I", "title": "COMPUTERIZED ITEM BORROWING SYSTEM  USING PHP MYSQLI" },
+    { "id": "Oi0L4q7-_HU", "title": "How to Passing data-id value from button to modal form HTML jQuery | PHP MySql" },
+    { "id": "sFq-IVLZ7ow", "title": "My Demo Video for IT instructor | Creating CRUD operation in PHP Mysql" },
+    { "id": "1bO2qz7eMZQ", "title": "Library Attendance System Project in PHP with QR code, RFID and Barcode" },
+    { "id": "HRS22gurzoE", "title": "Tutorial   HTML How to Toggle Password Visibility   JS Validation For Empty Fields" },
+    { "id": "8N7B_kFqysg", "title": "Tutorial -HTML how to create CSS Isometric Menu Hover Effects CSS 3D Menu" },
+    { "id": "C_AhnpX0Cb0", "title": "How to Auto Generate Number and display in textbox using Visual Basic Net   Source Code Ph" },
+    { "id": "IEV9GJj7XKU", "title": "Tutorial - HTML How To Create a Responsive Navbar with Dropdown" },
+    { "id": "3UN6yE7dO28", "title": "Tutorial - HTML How to  Filter Search Table without database" },
+    { "id": "3JI0SSklJlk", "title": "How to upload host a DynamicPHP MySqli website for FREE   Award Space2022" },
+    { "id": "79rpTVkZgQc", "title": "How to Send Web WhatsApp Text Message from Desktop in VB.NET with source code" },
+    { "id": "_InwjFfStzc", "title": "Send SMS using GSM modem in VB NET | How to Send a SMS Message in VB NET | Visual Studio 2022" },
+    { "id": "I4QeGMkm8QA", "title": "How to Create Setup  exe in Visual Studio 2022 Step By Step" },
+    { "id": "XrpmNo6CA0s", "title": "VB NET  How to Display the Results in the Form2 based on the Selected Row in Form1  Tagalog Tutorial" },
+    { "id": "D_OhKgylN6U", "title": "PART 2  PHP CRUD Operation using PDO Extension   Create a database   database connection file" },
+    { "id": "BsP5SiWj5mQ", "title": "Part 1 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code | From Beginners to Expert" },
+    { "id": "ldcoNzFAvYU", "title": "Part 8 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code | From Beginners to Expert" },
+    { "id": "jXZtj21LB_k", "title": "Part 10 | PHP CRUD Create, Read, Update, Delete, Search | with Source Code |From Beginners to Expert" },
+    { "id": "o9FgUteK5o", "title": "Part 9-JAVA MySQL | CRUD Application | How to add Validation in jtextfield | Java" },
+    { "id": "g4rHCTZ1EMU", "title": "Send SMS using GSM modem in C# and VB Net | How to Send a SMS Message in C# | Visual Studio 2019" },
+    { "id": "xdwkerdL3-Y", "title": "PART #2  | Multi User using One Login Form with User and Admin Dashboard in VB NET with MS Access" },
+    { "id": "mpLXQmjBjVM", "title": "VB.Net | How To Create Login Form in Visual Basic.Net with MS Access 2010 Database |with source code" }
+  ]
+}

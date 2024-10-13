@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "with-neighbors",
+    "name": "이웃팔촌",
+    "profile": "https://yt3.googleusercontent.com/M-gxGx7O9_zv0yABMBcfjKZUg-d2PRG9Q5m2bn-SL6mfsu5LvzcPy3ovNWgB15FEF_nihemROQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "grRrfRN8Y6s", "title": "[HTML] 한시간에 끝내는 HTML" },
+    { "id": "9QWe6T9Lh08", "title": "[JAVA] 1.프로그램 설치 및 기본 출력" },
+    { "id": "iir5BmtqvQA", "title": "[JAVA] 4.연산자" },
+    { "id": "0kSWMsxIh20", "title": "[JAVA] 6.switch" },
+    { "id": "YMm_IjDnIM8", "title": "[JAVA] 7.for 및 디버깅" },
+    { "id": "qtgHz1wBrxE", "title": "[JAVA] 8.while" },
+    { "id": "B0ivhOCurAI", "title": "[JAVA] 9.배열" },
+    { "id": "WjDD2-IQBcA", "title": "[node.js 6-3(2)] 페이징 준비 단계 ( 추가,  상세 내용,  조회수 증가 )" },
+    { "id": "rkQwMC9QVLk", "title": "[node.js 6-3(1)] 페이징 준비 단계 ( 모든 목록 확인 )" },
+    { "id": "mavyfI3PTt8", "title": "[node.js 6-2(3)] 파일 삭제, 수정 및 static 설정" },
+    { "id": "7912WoQD8s4", "title": "[node.js 6-4(3)] 답변 출력" },
+    { "id": "NMNAijInrvA", "title": "[node.js 6-4(1)] 답변 테이블 생성 및 답변 틀 만들기" },
+    { "id": "S5J7QD278PU", "title": "[node.js 6-1(5)] Rest 응용" },
+    { "id": "5xCg9fQ0Wjs", "title": "[node.js 6-2(1)] 파일 업로드" },
+    { "id": "4lLLNuwQWHI", "title": "[node.js 6-1(3)] fetch 사용방법" }
+  ]
+}

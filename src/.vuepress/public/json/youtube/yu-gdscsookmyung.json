@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "gdscsookmyung",
+    "name": "Google Developer Student Club Sookmyung",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZJ-9fieiIrPiJh8jDDtaUzpH0EDjnibOSIVl_E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "BHCV8Wbf1Ow", "title": "Kotlin vs Java" },
+    { "id": "t8NZccjpe-o", "title": "디자인 패턴과 활용" },
+    { "id": "XYlIDEfx5Lc", "title": "쿠키, 세션, 토큰의 차이점 알아보기" },
+    { "id": "S1J3vTVxsZI", "title": "MissingYou - GDSC Solution Challenge 2024 - Top100" },
+    { "id": "fFUBAH8qPjU", "title": "Carea - GDSC Solution Challenge 2024" },
+    { "id": "npQ3-MIFLxg", "title": "ChatGPT의 구조 살펴보기" },
+    { "id": "z4TTzBrM9Go", "title": "Amazon DynamoDB 키 디자인 패턴" },
+    { "id": "cDkX8lLsJ38", "title": "Flutter 앱에 AI모델 적용해보기" },
+    { "id": "yVvvBVr7WGw", "title": "SpringBoot로 slack 연동하기" },
+    { "id": "LSfzKiFhcP4", "title": "CI/CD with only Google technology (feat.docker)" },
+    { "id": "-H4YVM5QkTw", "title": "나의 PS대회 일대기" },
+    { "id": "r5wCOYuVlFg", "title": "Linkor - GDSC Solution Challenge 2024" },
+    { "id": "fvAad5St4oI", "title": "S.H.I.E.L.D. - GDSC Solution Challenge 2024" },
+    { "id": "dvmoFaMlMG4", "title": "TRUETREE - GDSC Solution Challenge 2024" },
+    { "id": "zuoaXLIXAb0", "title": "PlogUs -  GDSC Solution Challenge 2024" },
+    { "id": "x6irLBh55W4", "title": "멀티클라우드와 하이브리드 클라우드" },
+    { "id": "3TIwPc0yu64", "title": "NoSQL 데이터베이스 활용하기" },
+    { "id": "c4uZEIbbU6k", "title": "HTML로 이메일 템플릿 만들기" },
+    { "id": "UTyTxk3XYVI", "title": "Django로 실시간 채팅 구현하기" },
+    { "id": "hdt5SC6d7Ww", "title": "프로젝트 A to Z" },
+    { "id": "1zBaKtw8xKY", "title": "CI/CD with GitHubActions" },
+    { "id": "cD4_REpXO9o", "title": "노션과 아이디어, 그리고 활용의 방법 - 1" },
+    { "id": "tHDhJ4OAtdA", "title": "ChatGPT + Prompt Engineering" },
+    { "id": "Q6J-w3gnDug", "title": "Serverless로 서버 빠르게 배포하기" },
+    { "id": "uzch3bilTvo", "title": "객체지향과 스프링에 대한 이해" }
+  ]
+}

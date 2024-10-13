@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "realreport",
+    "name": "RealGrid",
+    "profile": "https://yt3.googleusercontent.com/pRAv_hnsQ2-E3BbAk-AMeJytqx3GZ_GyZfuNRdgoMpZKMSLREqlS-i86pgO2ooJppGYABxa7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/REDH36PoBexaig5c4xQqrjXmG3EPvOd0PB7oCR1YdjUkJMmJd-WuIjN-6mSIMamAq57FxUsBEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m1Ytqf72pAs", "title": "소프트웨어 설계 어떻게 하나요?" },
+    { "id": "8b2NjiOMao8", "title": "10. Polar Chart (시각화 예제)" },
+    { "id": "Cv20YfHV4mM", "title": "11. Candlestick Chart" },
+    { "id": "xk4xIFjm9o0", "title": "가장 쉽게 설명한 개방폐쇄의 원칙" },
+    { "id": "0ifJP7y-Id8", "title": "단일책임 원칙 제대로 이해하기" },
+    { "id": "4JZotP_r3ig", "title": "12. Combination Chart" },
+    { "id": "CwzOiLQgkbs", "title": "의존성 역전의 원칙 제대로 이해하기" },
+    { "id": "24bTJCO02O0", "title": "13. Heatmap Chart" },
+    { "id": "q5oWMlBS-Kg", "title": "관리사이트 쉽고 빠르게 구축하기" },
+    { "id": "grDn9-wGwyM", "title": "14. Treemap Chart" },
+    { "id": "aRLtinVl78o", "title": "15. Funnel Chart" },
+    { "id": "lQ58Hz86oJc", "title": "ChatGPT가 모르는 것을 ChatGPT에게 물어보기 #1" },
+    { "id": "-ip-y4tGfp4", "title": "RAG를 구축하는 가장 간단한 방법" },
+    { "id": "SPsqfVkSD7A", "title": "3. 축(Axis)에 대해서 알아보기" },
+    { "id": "G5bYPQfpIe4", "title": "4. 데이터 그룹" },
+    { "id": "R78iaSduzHI", "title": "5. 어노테이션" },
+    { "id": "afizK8tLQk8", "title": "6. Style 및 꾸미기" },
+    { "id": "6FmNaQLLlqw", "title": "ChatGPT 파인튜닝하기" },
+    { "id": "EW0yuWKajoM", "title": "7. Callback에 대해서 알아보기" },
+    { "id": "MxrImxSL3ZQ", "title": "ChatGPT 활용꿀팁" },
+    { "id": "MgqCYM7m5-c", "title": "RealChart 기본 교육 1차" },
+    { "id": "ZuCa5I50cLg", "title": "재귀호출 쉽고 확실하게 이해하기" },
+    { "id": "c5Bm8mI5Mys", "title": "RealChart 심화교육 1차" },
+    { "id": "n8YighNZfXU", "title": "포인터 쉽고 확실하게 이해하기" },
+    { "id": "TArQUvG8-wM", "title": "1. RealChart 시작하기" },
+    { "id": "JQnUoF1cgcE", "title": "2. Pie 차트 그리기" },
+    { "id": "dymihe2djfA", "title": "동적설계 3 - 상태도" },
+    { "id": "s44xYsNuvKs", "title": "동적설계 2 - 시퀀스 다이어그램" },
+    { "id": "R-TIrzVXuPY", "title": "초보 개발자를 위한 디버깅 비법" }, 
+    { "id": "NQxXtsH5eyg", "title": "MVVM 쉽고 확실하게 이해하기" },
+    { "id": "QQmaQ7dwza8", "title": "05. 쇼핑몰 주문관리 구축하기 #2" }
+  ]
+}

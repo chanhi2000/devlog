@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MUQ_UNKNOWN",
+    "name": "MUQ_UNKNOWN",
+    "profile": "https://yt3.googleusercontent.com/gg64NQS1lVgbnUYHiBzlIS-TkGIzMHhc_YYsCdSiQcTN_h7TTwTBxnErytWfPrOdeCSkNnZd=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W2xRaq1j49v6a-BsnFpqhQiH6OHMkh897AiNYZDRcvpAXGnLtzAA6Pdm1AlotQcWVKNtkAQBXQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H4E4lmVrETQ", "title": "Snake Game Part 1 In python" },
+    { "id": "2C3GK7dG-Xo", "title": "Snake Game Part 2 In python" },
+    { "id": "dwSduYIha4M", "title": "Snake Game Part 3 In python" },
+    { "id": "rsN7McRETUU", "title": "Snake Game Last Part In python" }
+  ],
+  "playlists": []
+}

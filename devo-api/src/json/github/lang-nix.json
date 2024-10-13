@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "adisbladis/kakapo",
+    "desc": "A Nix web bundler because why not",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tvlfyi/tvix",
+    "desc": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "koiuo/xdg-override",
+    "desc": "Override xdg-open behavior. Because the way it already works is not confusing enough",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/787439?v=4",
+    "banner": ""
+  }
+]

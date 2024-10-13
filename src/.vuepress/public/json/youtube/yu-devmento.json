@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "devmento",
+    "name": "데브멘토(Devmento : Real IT Portal)",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_llLSPRmQo47GTLmkzbAxcT90DMTaHKnf2PRuEz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BPle4zZPBFtzyrsSpjfarrKi5KSc00nwhfb6E2u_Qo7ojeuczpVfgvYUzKzu6cKqA74Tsj7hytQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HcUCPLVnfi4", "title": "위제이, 태양광 PPA 솔루션 ‘줄이고 (zurigo)’ 출시 (박영훈 위제이 대표 인터뷰)" },
+    { "id": "IUgA8NWUfhw", "title": "스모어톡, 레퍼런스 기반의 AI 이미지 생성 툴 ‘플라멜’ 개발(황현지 스모어톡 대표 인터뷰)" },
+    { "id": "iUqoGjVMP2w", "title": "실무에 꼭 필요한 쿠버네티스 200% 활용방안(2)- 이정훈 데브옵스 엔지니어" },
+    { "id": "NBYlc-jgYZY", "title": "실무에 꼭 필요한 쿠버네티스 200% 활용방안(3) (이정훈 데브옵스 엔지니어 발표)" }
+  ]
+}

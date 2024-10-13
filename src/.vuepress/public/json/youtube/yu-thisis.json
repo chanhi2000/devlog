@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "thisis",
+    "name": "This Is",
+    "profile": "https://yt3.googleusercontent.com/J8l_gQ65SsTItvuAz-sUW4lgkk2gRZMcHhNqD_2A9HhpVnTsL67PsBIIsTpLKO6cA67uluwKISE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rkwtxFXxTMejOWKC2dxFNjALFyGrGoKOoIKYOMNQyGJMjNVuB_lKQBMefMM3uJarDT8wWArzOrY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "myfGuAN0Wyw", "title": "Chrome just got WORSE" },
+    { "id": "J1dEDhVaiVk", "title": "Is Apple Vision ALREADY dead?" },
+    { "id": "nxXj6kNih3o", "title": "MacBooks are OBSOLETE" },
+    { "id": "vSHsuZn6oRQ", "title": "NEW TO MAC? Mac Tutorial for Beginners | Part 4 2024" },
+    { "id": "sdPOihTBn7M", "title": "THE ULTIMATE iPhone Home Screen - Setup & Guide 2024" },
+    { "id": "rQ0llzk-lxQ", "title": "My FAVORITE iPad Pro Accessories 2024" },
+    { "id": "s3WxQ0EnWec", "title": "My PRODUCTIVITY & ORGANIZATION Apps & Tools 2024" },
+    { "id": "2H2jgixT-lg", "title": "Get THE MOST Out of Mac GUIDE 2024" },
+    { "id": "1xUacZrg4mw", "title": "WEIRDEST Costco finds" },
+    { "id": "hUw4ykgJDB4", "title": "THE ULTIMATE iPhone Home Screen TUTORIAL - Action Button, Shortcuts & Setup 2023" },
+    { "id": "rr-dMYketFQ", "title": "Using an iPad in a Desk Setup - iPadOS 17 GUIDE 2023" }
+  ],
+  "playlists": [
+
+  ]
+}

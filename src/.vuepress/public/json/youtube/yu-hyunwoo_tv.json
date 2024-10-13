@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "hyunwoo_tv",
+    "name": "현우tv",
+    "profile": "https://yt3.googleusercontent.com/O5whY5an5PfZFd24UQVQt7kBTVm2Sfhnyp-SLu8jJWKb6ksZoRpopHrUXgFpku7eTlm8q-SnQQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZCwlzQbw_NrWlhuqVt-htokKJ6EWQGtK0N-HdCExSWoNwDe9nWJrsuDhuTrF8xQ7GTH5y_t2bg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MmPSZkrP-F8", "title": "C# Selenium 설치 및 네이버 접속해 보기" }
+  ]
+}

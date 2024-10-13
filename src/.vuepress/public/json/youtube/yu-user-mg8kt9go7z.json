@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "user-mg8kt9go7z",
+    "name": "모던애자일팀",
+    "profile": "https://yt3.googleusercontent.com/w1QVri2TVKXALiW5F2KGWdXvDOgscME5CnPof89qzT6dYnR5gW_Tm5mAbBoUR7TYQMbzlL6VRQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "6rZ1IV32SHs", "title": "[모던 애자일팀] 6기 최종회고" },
+    { "id": "dggOmEEGMQ0", "title": "[모던 애자일팀] 쿠키와 세션 - 안진우(7기)" },
+    { "id": "RCAlGiLJrCc", "title": "[모던 애자일팀] JWT(JSON Web Token) - 안진우(7기)" },
+    { "id": "1qFsA942Fhc", "title": "[모던 애자일팀]Docker-김준우(7기)" },
+    { "id": "soYThSzhYWc", "title": "[모던 애자일팀] Prisma - 조영은(7기)" },
+    { "id": "N_ULt-IbPo4", "title": "[모던 애자일팀] 암호화 Hash, Salt - 박준혁(6기)" },
+    { "id": "IZpLXmVx9Rg", "title": "[모던 애자일팀] Stack VS Queue VS Heap - 박준혁(6기)" },
+    { "id": "_tsqK0wo-bc", "title": "[모던 애자일팀] 예외 처리 try/catch - 박준혁(6기)" },
+    { "id": "zd1Tj1hCHNQ", "title": "[모던 애자일팀] SQL(관계형) vs NoSQL(비관계형) - 박준혁(6기)" },
+    { "id": "kihaxOUkmDU", "title": "[모던 애자일팀] 데이터베이스 정규화 - 박준혁(6기)" },
+    { "id": "KkphWKI1rCw", "title": "[모던 애자일팀] MVC 패턴 - 김 진 (7기)" },
+    { "id": "rlaaMv60EH4", "title": "[모던 애자일팀] JWT (JSON Web Token) - 박준혁(6기)" },
+    { "id": "KNusQBEgtGc", "title": "[모던 애자일팀] Typescript & Generic - 이재진(6기)" },
+    { "id": "N4r7PqaamL4", "title": "[모던 애자일팀] 네트워크 보안 - 김준우(7기)" },
+    { "id": "Jgwrdk60Cj4", "title": "[모던 애자일팀] MySQL - 조영은(7기)" }
+  ]
+}

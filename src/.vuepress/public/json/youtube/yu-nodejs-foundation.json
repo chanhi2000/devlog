@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "nodejs-foundation",
+    "name": "node.js",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRrvgVbjNagUFTr0wEnpkbdWrSSjpEo6pzC06shkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GqU5CPeaWqRzvLX2leGli4Ll7TClqQPnECNok_dfHpAYxklAnB49epsAu7zbd6_xmCETkQcmqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4Jowpdw5zWs", "title": "2024-03-26 Node.js Web Server Frameworks" },
+    { "id": "Pfro4xlHe8o", "title": "Node.js Technical Steering Committee meeting" },
+    { "id": "JaEpjuFTFZg", "title": "2024-03-28 Ecosystem Security WG meeting" },
+    { "id": "-nDoTeNZO1Y", "title": "2024-04-17-Next 10 years of Node.js" },
+    { "id": "mhUpD1BEKCc", "title": "Node.js Build WG meeting 2024-04-23" },
+    { "id": "VlIX2-t5CBk", "title": "2024-05-07 Node.js Web Server Frameworks" },
+    { "id": "QAEk953ZuQs", "title": "2024-05-08-Node.js Technical Steering Committee meeting" },
+    { "id": "ZJUKqOPRLIQ", "title": "2024-05-17-Node.js Node-API Team meeting" },
+    { "id": "Y5o_s_b0ap4", "title": "2024-02-16-Node.js Node-API Team meeting" },
+    { "id": "aqUPXM77aXA", "title": "Node.js Node-API Team meeting Feb 23" },
+    { "id": "nM-iRA3uDvY", "title": "Node.js Web Server Frameworks 2024-02-27" },
+    { "id": "4N7YZnLrrqY", "title": "2024-04-06-Node.js Technical Steering Committee meeting" },
+    { "id": "feUw8efCyNg", "title": "2024-03-08-Node.js Node-API Team meeting" },
+    { "id": "4uc3SiHid68", "title": "2024-03-12-Node.js Build WG meeting" },
+    { "id": "4uc3SiHid68", "title": "2024-03-12-Node.js Build WG meeting" },
+    { "id": "jRgftC7e81k", "title": "2024-03-15-Node.js Node-API Team meeting" },
+    { "id": "wPrDWotnsdA", "title": "2024-03-20-Node.js Technical Steering Committee meeting" },
+    { "id": "00oahsrkFTU", "title": "2024-01-17-Node.js Technical Steering Committee meeting" },
+    { "id": "cVOX7h3foy4", "title": "Node.js Build WG meeting 30-01-2024" },
+    { "id": "pWgr6_5CuLU", "title": "Node.js Web Server Frameworks 30-01-2024" },
+    { "id": "kxD9yZNsckg", "title": "Node.js Web Server Frameworks 2024-02-13" },
+    { "id": "3spOIIOR5dU", "title": "2024-02-14-Node.js uvwasi team meeting" },
+    { "id": "0g6fJw11KrI", "title": "2024-01-04 - Security Team meeting" },
+    { "id": "Y9gp8Yr_L4Q", "title": "2024-001-12-Node.js Node-API Team meeting" },
+    { "id": "WTwi31mH8ec", "title": "2023-12-21 - Security Team meeting" }
+  ]
+}

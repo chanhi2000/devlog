@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "it-stant",
+    "name": "itstant",
+    "profile": "https://yt3.googleusercontent.com/cXwhsWd4-gp2PWFNgWyY20z5DAD_tMFMpIXsC0ulEAIle2PWBn8T4t4A_5J1fCCbqn0lqV6H=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "UX5s10vkMA8", "title": "우분투 22.04 | 2. 파일 시스템 계층 표준 ( 폴더 구조 )" },
+    { "id": "wiB60gnQFwQ", "title": "쿠버네티스 | 11_OpenLens 설치 및 기본 설정" },
+    { "id": "HD8YOJPcVYo", "title": "쿠버네티스 | 12_Core-dns와 Pod Container 통신" },
+    { "id": "FrEqDNZGsGA", "title": "쿠버네티스 | 13_NFS를 이용한 StorageClass 생성 및 Prometheus 배포" },
+    { "id": "LWYE6FX53ok", "title": "쿠버네티스 | 14_다양한 오픈소스가 배포된 Kubernetes 환경 모아보기" },
+    { "id": "64TG9TjczSk", "title": "정보처리기사 | 스키마란?" },
+    { "id": "IC9lFyR-UQQ", "title": "python 실습 | 3. python 가상화 설정 및 django 시작하기" },
+    { "id": "j6jU3RuOYF4", "title": "우분투 리눅스 입문 | 0. 오리엔테이션 및 가상머신 생성 VirtualBox 7.0" },
+    { "id": "E8tjqAknkLY", "title": "우분투 리눅스 입문 | 1. MobaXterm, vi 에디터, apache2 설치" },
+    { "id": "5WMxTRRceac", "title": "워드프레스 환경 구축 하기(도메인, 인증서 포함), docker를 이용한 직접 구축 방식." },
+    { "id": "QZhlxnr0F9s", "title": "소규모 웹서비스 환경 구축 해보기_7 | 도메인 및 인증서 구매" },
+    { "id": "ZlYit660fVk", "title": "시놀로지를 이용한 rsync 설정(with nfs), 서버 데이터 백업" },
+    { "id": "JgGJvpRuyAg", "title": "python 실습 | 1. code-server를 이용한 개발환경 구축" },
+    { "id": "QhFlj9No0mk", "title": "mariaDB | 2_mariaDB TLS/SSL구성" },
+    { "id": "xph5wAIXStE", "title": "python 실습 | 2. github설정 및 code-server 자동설치" },
+    { "id": "UjHCF0yDpjE", "title": "소규모 웹서비스 환경 구축 해보기_4 | MariaDB 설치 및 외부 접속 설정" },
+    { "id": "FN9nVcDE6ko", "title": "소규모 웹서비스 환경 구축 해보기_5 | 워드프레스 연동" },
+    { "id": "pOEl7YanVek", "title": "소규모 웹서비스 환경 구축 해보기_6 | 외부 공개를 위한 네트워크 설정 설명" }
+  ]
+}

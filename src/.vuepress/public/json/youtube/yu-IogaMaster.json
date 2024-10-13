@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "IogaMaster",
+    "name": "IogaMaster",
+    "profile": "https://yt3.googleusercontent.com/bpLsEkPoZ0TPRv21Ppvfh0qoGtTMIushwcVjxP4_-xecb_Nb_UL2sZP2ma1WguQVdubTshXH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AEJ4z1Sf8mkYU8ngDd12FyBoR5R7oAsyjHCAmuviF56Ki9t5BuPWR8S2fiJXE5ItnH4iYz7xnw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3hMIqxbQBRM", "title": "The ULTIMATE guide to Nixpkgs" },
+    { "id": "zGkshZE__VE", "title": "Visualize Your Infrastructure AUTOMATICALLY with nix-topology" },
+    { "id": "Q-QPtHrvLB0", "title": "Installing NixOS servers made EASY" },
+    { "id": "sBPEzG-y64o", "title": "Git Hooks!" },
+    { "id": "lz2qbtWZu90", "title": "Direnv in 2 minutes" },
+    { "id": "Ir3WD7a4MwI", "title": "How I improved my programming workflow with Lazygit" },
+    { "id": "MqP945eVa_A", "title": "lazygit.nvim" },
+    { "id": "1ED9b7ERTzI", "title": "HOW to REALLY learn NixOS" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "HealthyDev",
+    "name": "Thriving Technologist",
+    "profile": "https://yt3.googleusercontent.com/E8s2amCpXpbet63H5eRNGyXYKqNag30Fd25AwYzpEAewtAn6FK_rVuU3sNcA22C_QSFmfNDmDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pokGjjr__0rq7IczlRteuRWAV8F2SLmH4oOWCblmrVyPigkSO-Gd4D0-78A2koykYuA7vFjD2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Eg1dlwOsTuk", "title": "Why are Programmers Terrified of Self-Employment?" },
+    { "id": "0Fp6-Feu1c4", "title": "When You Talk Like a Technology Consultant, People Listen!" },
+    { "id": "5baWML_4hRw", "title": "How I Hacked My Sleep as a Programmer" },
+    { "id": "qb02HEfPFks", "title": "How Solopreneur Programmers Turn Content Into Cash" },
+    { "id": "W7sv1m-U2tk", "title": "This Is Why Managers Don't Trust Programmers..." },
+    { "id": "fxgc_nkb-Bc", "title": "7 Signs Your Tech Job is Toxic: Should You Quit?" },
+    { "id": "Ht0anZiDrBs", "title": "Why Most Programmers DON'T Last" },
+    { "id": "FxCr_oWSM8k", "title": "Do Programmers Think Intelligence Makes Them Wise?" },
+    { "id": "mtchx9_I7rY", "title": "Do Coders Fight Dirty to Climb The Tech Ladder?" },
+    { "id": "4JoBM7GkYyM", "title": "Can a \"DIY Mindset\" Keep Programmers From Growing?" }
+  ]
+}

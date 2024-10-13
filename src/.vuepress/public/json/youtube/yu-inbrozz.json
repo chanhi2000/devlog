@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "inbrozz",
+    "name": "인브로즈",
+    "profile": "https://yt3.googleusercontent.com/p6W81TfjcivGTjmkdUVDAXSZW8tkP_Be4Q6k5ieUluv4_nP9AfGSgkr1ZMaG3Zg4W3DHF31bu3U=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+  ],
+  "playlists": [
+    {
+      "title": "간단 예제로 배워보는 React",
+      "videos": [
+        { "id": "civQ6gEs4Xk", "title": "[강좌 소개] 간단 예제로 배워보는 리액트" },
+        { "id": "h7qPWY2avBA", "title": "1강. 리액트 시작은 이것부터? - CRA" },
+        { "id": "FSLNd3sB31k", "title": "2강. 이거 알면 절반은 간다 - Components" },
+        { "id": "q1ux7_6CIqo", "title": "3강. HTML 만들 땐 JSX 쓰세요" },
+        { "id": "JdzA6lbJ-3A", "title": "4강. 최소한 Props는 알고 쓰자" },
+        { "id": "qN6Svts61qs", "title": "React 기본개념(Component, JSX, Props) 활용 예제 - 영화 앱 만들기" },
+        { "id": "pcuWR4ZXbvE", "title": "5강. 말 그대로 State" },
+        { "id": "2wPFdl3ZMSM", "title": "6강. 렌더링 진짜 쉽게 설명해줌" },
+        { "id": "u-qubClfczU", "title": "7강. 가장 기초적인 상태값 다루기" },
+        { "id": "OF_m80GAl3I", "title": "8강. State 배열과 객체는 이렇게 다루세요" },
+        { "id": "LqU0LxoQGaE", "title": "9강. 콘솔로그 찍다가 다들 한 번씩 당황했잖아 - State Batch Update" },
+        { "id": "Kzhj6HmY0D4", "title": "과제입니다. TODO 리스트 만들어오세요." },
+        { "id": "IhUN42R3OsM", "title": "React Hooks(useState, useEffect) 활용 예제 - 로그인 화면 만들기" },
+        { "id": "eZli53U4Ndc", "title": "React Routing(react-router-dom) 활용 예제 - 영화 앱 만들기2" },
+        { "id": "W9m_bOC80qE", "title": "Styled-Components 활용 예제 - 라디오 그룹 화면 만들기" },
+        { "id": "VfB81IcUbmI", "title": "React JS 날씨 앱 만들기 - OpenWeatherMap API" }
+      ]
+    }
+  ]
+}

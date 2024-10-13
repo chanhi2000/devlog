@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "hyangmama",
+    "name": "향마마 허리업 (dev.)",
+    "profile": "https://yt3.googleusercontent.com/wgL7EOgHNfi2x-fo1gW985XlYYUypROUSaNkuVFHavO4GmwTWJBuyftwUlqTCu65WGMG9zqMubI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FbkR8EDFHNA4sAzL53w5B067co7d9hU34CH1AY-HnQsHYU-ibpiQIaZybc1N-lq-od6NI_kXQg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DLVSYWy699I", "title": "10년 경력자가 말해주는 장단점" },
+    { "id": "-YhBaOTHX8A", "title": "플러터 강의 1강 | 텍스트 추가, 정렬" },
+    { "id": "Nll0MEbAr4I", "title": "개발자 진로걱정 | 인생 30% 어떻게 보낼까?" },
+    { "id": "UbXMLL0Y8Cw", "title": "플러터 앱스토어 출시 과정, 앱스토어만 거절한 이유? ㅣ 앱디자인 제작 과정 공개" },
+    { "id": "Vaq4qpmJzRw", "title": "200명 유저앱 | 스토어 업데이트 영상 | 플러터" },
+    { "id": "kDcN-y9zrdM", "title": "플러터 폰트 추가 간단합니다 | 칠칠이노트 ep.6 | 플러터" },
+    { "id": "5LP8YBF6MvY", "title": "소셜 로그인 어떻게 만들까? | 칠칠이노트 ep.3 | 플러터" },
+    { "id": "PD_dB1WNlLk", "title": "카페24 VS AWS 서버 장단점 비교   l 9년차 개발자" },
+    { "id": "auw7qtTK4JQ", "title": "앱사용법 복잡하면 이렇게 만들어보세요 | 칠칠이노트 ep.5 | 플러터" },
+    { "id": "syPjNvCSfR4", "title": "개발자 평생직업 괜찮을까? | 10년차 개발후기" }
+  ]
+}

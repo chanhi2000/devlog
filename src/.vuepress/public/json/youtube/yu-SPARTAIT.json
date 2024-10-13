@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "SPARTAIT",
+    "name": "스파르타 IT연구소",
+    "profile": "https://yt3.googleusercontent.com/6iFQvdYoXzKMLT7iDmVQ48GQeIkSI8zeDNgMPjEwyBErQ7L3pFoKMHhDx0cRYZ_PQFga7jCyTA=s120-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "dKKRwe8DPw8", "title": "평생 써먹는 코딩 공부 순서, 코딩 고수는 보지 마세요!" },
+    { "id": "sDLwgb46vx4", "title": "신입 개발자 98%는 한 번씩 만들어봤다는 포트폴리오" },
+    { "id": "d4U8vScEkUs", "title": "기본 개발 용어 초간단 정리! 잘 모르는 거 있으면 큰일나요.." },
+    { "id": "krpYcyVjaRs", "title": "2024년 개발 언어 트렌드 완벽 정리, 요즘 '이 언어'가 뜹니다" },
+    { "id": "XvgoAPvFWig", "title": "시니어 개발자만 몰래 쓰는 개발자 도구 TOP 5" },
+    { "id": "jFeQ4JXWKM8", "title": "로드맵 모르고 시작하면 3개월 공부를 \"6개월\" 해야 돼요.." },
+    { "id": "zfqMmZKfQDc", "title": "나만 빼고 재밌게 코딩 공부하고 있었음;" },
+    { "id": "PVb-GJ1Gp5k", "title": "백엔드, 프론트엔드 재끼고 마지막까지 살아남을 IT 직군은 바로 이겁니다." },
+    { "id": "ZsIHTruQ79Q", "title": "역사 선생님이 개발자가 되어보니 주변 사람에게 추천하지 않는 이유" },
+    { "id": "1jlqB_-AoXA", "title": "이력서와 포트폴리오에서 무조건 거르는 신입개발자 특징" }
+  ]
+}

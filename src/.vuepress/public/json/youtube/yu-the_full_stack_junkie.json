@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "the_full_stack_junkie",
+    "name": "The Full Stack Junkie",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ1MCBWrhe5FYgx7rSCuJ44gS4adZlE4wSaI7lK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nBGz-xIuYKafFAHy-UtpK_yx7boM1DpyWBqjHmx1DJ9EGkqCM7wvrQFe6Ab3Fgey9Tfjmqrs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0divhP3pEsg", "title": "Full Stack eCommerce Cart build (React, Redux, Node, Express, MongoDB)...From Scratch💥" }
+  ]
+}

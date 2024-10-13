@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "Notion",
+    "name": "Notion",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ7uMU4tcJF1DTiK3TbJNnoMKVNOrmykC941LIxtw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DcmbYux9_eMi2F2exr01HO9u6AJiMkjNNzYLxDeULLq7AafSozqN2sTluo3exhbpimIS5kG2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1ZvLeJFZSGY", "title": "OKRs for Product & Engineering" },
+    { "id": "powfWYn6570", "title": "Creating a page" },
+    { "id": "EWoz404YIeU", "title": "Advanced database filters" },
+    { "id": "2DNoq4dmmh8", "title": "Admins, members & guests" },
+    { "id": "VPm1XoeJAtE", "title": "Notion Home 🏠  #tutorial #notion #home" },
+    { "id": "sRL-3ky58g8", "title": "The New Notion Home - Walkthrough by James, Engineer @ Notion" },
+    { "id": "X-hz2ResO1Q", "title": "Home & My tasks" },
+    { "id": "G0Zkw6VFDH8", "title": "First Block: Interview with Adeyemi Ajao, Co-Founder and Managing Partner of Base10 Partners" },
+    { "id": "no2Ck9oTm5U", "title": "Notion 2.38: Video Release Note" },
+    { "id": "YzYD5cJQLpE", "title": "First Block: Interview with Vlad Magdalin, Co-Founder & CEO of Webflow" },
+    { "id": "mHUIQfpNPhg", "title": "First Block: Interview with Vlad Magdalin, Co-Founder and CEO of Webflow" },
+    { "id": "OuQ93oDu6ic", "title": "Notion's favorite Notion features from 2023" },
+    { "id": "tfrgpkksRfs", "title": "Notion Calendar" },
+    { "id": "C4Q2ezioTUM", "title": "Meet Notion Calendar" },
+    { "id": "mllG2Pt71Cc", "title": "GitHub property" }
+  ]
+}

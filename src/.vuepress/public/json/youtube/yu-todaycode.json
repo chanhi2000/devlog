@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "todaycode",
+    "name": "오늘코드todaycode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNg41_2XAtVK9G-RBwQep6mu6Vf_INL_4l_GhMh=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JTz3Kqfhj15uM_WdIvYb0oQWJxXCWun8f54nUJ3y5Yx9SueQKyNgWL1uveWzMzMkSNXBz3G6=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xbQ0DIJA0Bc", "title": "HuggingFace 처음이라면? 🤗 허깅페이스로 할 수 있는 일?분류, 번역, 요약, 개체명인식, 마스크채우기.. 그리고 또 뭐가 있더라? 트랜스포머 모델 활용법" },
+    { "id": "bCCWwmaSJ0E", "title": "✈️ [1/2] 코로나 전후 🛩 항공사별 항공수요 회복했을까?! 📈 저가 항공사 여객, 편, 화물 수요 ChatGPT 와 함께 국가통계포털 KOSIS 데이터 분석하기 💺" },
+    { "id": "c62S-WZtVJ4", "title": "국가통계포털 KOSIS 💰 경기종합지수 📈  ChatGPT와 함께 파이썬으로 분석하기" },
+    { "id": "VEtav1uGZLo", "title": "비즈니스 데이터 분석 [1/7] 파이썬 비즈니스 데이터 분석 📊Online Retail 🛍️ 온라인 커머스 🌐 다이소와 유사한 잡화 거래 데이터는 어떤 구성일까? 🤔👜📝📊 🔍" },
+    { "id": "JK10nr9SfPA", "title": "업무, 연구, 프로젝트에 대한 데이터가 필요할 때?! 어디에서 찾으시나요?! 통합데이터지도" }, 
+    { "id": "JwPyUKe5UcE", "title": "[통계청X오늘코드] 파이썬 활용 강좌 ④ 마이크로데이터 통합서비스(MDIS) 데이터 로드하기" }, 
+    { "id": "58AuPBcJtCQ", "title": "[4/7] read html로데이터를읽어올수없는이유와기존의수집방법" }, 
+    { "id": "TVG68-ZIKzo", "title": "[3/7] 소스코드에서 보였던 데이터 어디에 있을까?! 브라우저의 네트워크탭과 JSON형식 이해하기" }, 
+    { "id": "FfBRC7_j2k8", "title": "[1/7] 데이터 수집 VS 크롤링 - 서울시 코로나19 발생현황 사이트 수집준비" }, 
+    { "id": "XRBXMohjQos", "title": "[Colab] 무료 GPU로 파이썬 노트북을 사용할 수 있는 google Drive Colaboratory 소개" }, 
+    { "id": "isk0loa6rlM", "title": "[인프런 리뉴얼][6/9] folium 으로 Marker, CircleMarker 로 그려보기" }, 
+    { "id": "AZhKK8WYAXI", "title": "코드 한 줄로 이 모든 기술 통계를 한 번에 볼 수 있다? - pandas profiling" }, 
+    { "id": "d0aQkEq95sA", "title": "다원변량 분산분석(MANOVA) three-way ANOVA,  catplot 으로 서브플롯 그리기 FacetGrid와의 차이점" }
+  ]
+}

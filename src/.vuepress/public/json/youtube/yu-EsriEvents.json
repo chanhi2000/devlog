@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "EsriEvents",
+    "name": "Esri Events",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNXVHxkDMLATI44RCn-TTmEErNfAG0C4rKJCs51=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0YJ5kEFkIKE", "title": "ArcGIS Runtime SDK for Qt: Building Apps" }, 
+    { "id": "bLUwuK5ZpHM", "title": "ArcGIS Runtime SDK for Java: Building Apps" }, 
+    { "id": "TgkICf171jw", "title": "ArcGIS Runtime SDK for Android: Building Apps" }, 
+    { "id": "9XWvvfRqPOU", "title": "ArcGIS Runtime SDK for iOS: Building Apps" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "cmiscm",
+    "name": "Interactive Developer",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYtsRK1B-p4Hg-YYZuO0lwsuQqlPoPuUm_wyW9q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dVYJBoFNy19fauJJoDgqA3ILGqGqfQSSP4JoD3HfxqEjxhQ2Z_3bfo2Alv6hILijyDUH5p9Z=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rWGnw-mtvp8", "title": "인터랙티브 개발 공부방법과 진로 가이드 #유데미" },
+    { "id": "TzNQs85fL1w", "title": "SUB) Portfolio Website to Get a Job in New York" },
+    { "id": "LLfhY4eVwDY", "title": "Creative Coding Tutorial : Moving wave with JavaScript" },
+    { "id": "jo8VGpJzQEE", "title": "SUB) A project inspired by traditional Mexican food" }
+  ]
+}

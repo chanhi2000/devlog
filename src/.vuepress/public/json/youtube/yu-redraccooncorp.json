@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "redraccooncorp",
+    "name": "레드라쿤",
+    "profile": "https://yt3.googleusercontent.com/SBscfvDQozrkSxYAoNJeNp-HwdoktF3P6xCpO6Z-phe-pXEJMxSY4tg7UgeLmGKP86cNyh8thQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oLPKU9voOeZ4eiDF0fNnKB33MIWqIjMy5WnzVeZya3g6ddyZ9_UUXU2jFIox2SAEMyfwnHJVgpQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BprBIK6mr8A", "title": "RPTC 모의해킹 대회 라잇업 - 피버팅" },
+    { "id": "A7wtbOyi79M", "title": "RPTC 모의해킹 대회 라잇업 - 권한상승" },
+    { "id": "VF20oNFGcsY", "title": "RPTC 모의해킹 대회 라잇업 - 초기침투" },
+    { "id": "vgu-MSig6Lo", "title": "RPTC 모의해킹 대회 라잇업 - 정보수집" },
+    { "id": "cnx7L18XVgc", "title": "임포스터 신드롬이란 (해피아워 #4)" },
+    { "id": "P2YT2KEMcUE", "title": "저희 회사 해킹해주세요 (레드라쿤 모의해킹 대회)" },
+    { "id": "wdhpXgGDq3E", "title": "레드라쿤 게스트 팟캐스트 Kryillos Awad Cyber SOC Watch Officer at NASA (ENG/한글 자막 없음 주의)" },
+    { "id": "8hYZvP0jiUs", "title": "해피아워 2 - DLL 사이드로딩" },
+    { "id": "8n5PZBYVQj8", "title": "호스트 장악에 성공한 외부 공격자는 사내 애플리케이션 해킹을 할 것인가? (feat. 민 님)" },
+    { "id": "S3wwIaC14Rg", "title": "오펜시브 시큐리티 OSCP 자격증 소개 & 준비법 (해피아워 #4)" },
+    { "id": "1WfY9wcqpT8", "title": "AD 홈 랩 3 - ADCS 서버 (네트워크 해킹 준비)" },
+    { "id": "6HKbwEumCJI", "title": "해커들을 추적하는 사이버 보안 위협 인텔리전스팀에 대해 알아보자!" },
+    { "id": "Zyo2clOUrIM", "title": "풀영상 - 3시간만 투자해서 모의해킹 시작하기 (TryHackMe 모의해킹 기초방 풀영상)" },
+    { "id": "EvQBI1vFf8w", "title": "풀영상 - 1시간만 투자해서 오신트 기술 배워보기 (TryHackMe 오신트 기초방 풀영상)" },
+    { "id": "IPm-maI2bio", "title": "2시간만 투자해서 해킹 피싱 인프라 C2 구축하기 (TryHackMe 레드팀 인프라방 풀영상)" },
+    { "id": "3EeiChkIoEg", "title": "액티브 디렉토리 홈 랩 - 네트워크 해킹 준비 - 1" },
+    { "id": "pdc2XUoSyb4", "title": "AD 홈 랩 2 - 도메인 컨트롤러 (네트워크 해킹 준비)" },
+    { "id": "0krvg52zowg", "title": "해외 해커들의 이력서 EP #6 예고" },
+    { "id": "W6ah0irQztw", "title": "해커가 되는 법? 그루트 6월 24일 라이브중" },
+    { "id": "0fMC7BC_zb8", "title": "레드라쿤 BHPT 호스트 기반 모의해킹 강의 소개 및 Q&A 라이브" },
+    { "id": "S8xEGv6PJ7A", "title": "사이버 보안은 블루오션?" },
+    { "id": "yK_-4IJwdq8", "title": "해커들이 트위터를 못 버리는 이유" },
+    { "id": "qVFqq8DQRNI", "title": "레드팀의 입장에서 본 파워쉘의 탄생과 몰락" }
+  ],
+  "playlists": [
+
+  ]
+}

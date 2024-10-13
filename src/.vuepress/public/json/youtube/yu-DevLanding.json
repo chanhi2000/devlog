@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "DevLanding",
+    "name": "Dev Landing",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP2_6l7dJkMzAiJl2bwCoUUO4khEWgfjxUwz9fs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hzwSuCGSwQDWGk5hHJCgnhWboQk9mY2QxQ0GV6mxXCfOX6e2Si77i9L7talDmuVAJDvW0TEbVA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xjhLt73iGCc", "title": "Awesome Kotlin - Android Kotlin Libraries" }, 
+    { "id": "t_yCZFt_Er8", "title": "Easily Convert XML to Anko DSL with Kotlin" }
+  ]
+}
+

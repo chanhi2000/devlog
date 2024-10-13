@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "warpdotdev",
+    "name": "warpdotdev",
+    "profile": "https://yt3.googleusercontent.com/ejZ6-YCXwe7lJy0omZR0gjV2e7VryuQkIXwTB7lRLVi_uZw8ifr1iA6toGX_6d45TjVcb3LeSA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NKjo5IZYKQDMmWEpBRaPD9lNlFkrEROaz2ialtWVK26-3flAb2Sy8U1cZpmJuca-7L9g0MUb=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UTckmdwDTkQ", "title": "How We Built an App to Determine the Best CLI Tool" },
+    { "id": "kI0n-KQXpu4", "title": "The 5 Types of Terminal Users 👩‍💻 #programming #software #coder #technology #softwareengineer" },
+    { "id": "1EOrgej4nW0", "title": "Should you use SQL or an ORM for Databases!? 👩‍💻 #python #coder #technology #coding #software" },
+    { "id": "g017GMadTLA", "title": "3 Things I Did to Learn Rust as a JavaScript Developer" },
+    { "id": "lVoGSXUikSc", "title": "Warp on Linux Launch Party" },
+    { "id": "dzqF4QfjuVA", "title": "Warp on Linux Launch Party" },
+    { "id": "aU9B6OyCV60", "title": "Warp on Linux Launch Party" },
+    { "id": "34INSNevPOk", "title": "Warp, The Modern Terminal: Intro & Feature Summary (2024)" },
+    { "id": "PhmrbTHQxPk", "title": "The WORST part about JavaScript 🤦‍♂️ #coder #javascript #webdev #software #technology #coding" },
+    { "id": "PhmrbTHQxPk", "title": "The WORST part about JavaScript 🤦‍♂️ #coder #javascript #webdev #software #technology #coding" },
+    { "id": "lpSlbeJyr6M", "title": "Why JavaScript Devs are Switching to Rust in 2024" },
+    { "id": "GS1vXLfoyJ4", "title": "Why you Should SELF HOST your apps 👩‍💻 #developer #commandline #programmer #coding #technology" },
+    { "id": "d4bTkiftBOk", "title": "The Ultimate Mac Terminal Setup - Beginner Tutorial" },
+    { "id": "7p7kJvckrFE", "title": "The ChatGPT API Beginners Guide" },
+    { "id": "bC5pxmnYVXk", "title": "Docker EXPLAINED in 60 seconds 👩‍💻🐳 #coding #developer #softwaredeveloper #programmer #tech" },
+    { "id": "d4bTkiftBOk", "title": "The Ultimate Mac Terminal Setup - Beginner Tutorial" },
+    { "id": "6ivti-DfZng", "title": "5 Command Line Tools That Boost Developer Productivity (2023)" },
+    { "id": "tD8qzBmi-t0", "title": "15 Terminal Commands that will BOOST your Productivity" },
+    { "id": "2jqmPjk7cFQ", "title": "Make your terminal look INCREDIBLE with this👩‍💻 #developer #softwaredeveloper #terminal #code" },
+    { "id": "KBAwqGmC5r0", "title": "These Commands will save you HOURS of time 👩‍💻 #tech #developer #technology #programmer #coding" },
+    { "id": "95PTXSaz164", "title": "Something that should be in ALL Applications 👩‍💻 #developer #softwaredeveloper #programmer #code" },
+    { "id": "Tbejoe-N0Ss", "title": "REAL programmers do THIS 👩‍💻 #programmer #developer #programmerhumor #software #technology" },
+    { "id": "ViPucy6NwX8", "title": "Programming Package Managers EXPLAINED 👩‍💻 #programmer #tech #softwaredeveloper #python #rust" },
+    { "id": "hj02cj5iEVA", "title": "This project creates a CLI RESUME 👩‍💻 #coding #developer #softwaredeveloper #technology #tech" },
+    { "id": "-58l5ys0F3s", "title": "Git can do this!? 👩‍💻 #developer #programmer #computerscience #code #coding #software #technology" },
+    { "id": "nAbkJfteUDI", "title": "4 Mac Commands that will IMPROVE your productivity 👩‍💻 #developer #softwaredeveloper #tech" },
+    { "id": "gi0C-L7eqa8", "title": "MS Paint in the command line!? 👩‍💻 #developer #softwaredeveloper #tech #programmer #code" },
+    { "id": "IxnJ8SYZi9o", "title": "Master Git with THESE subcommands 👩‍💻 #developer #softwaredeveloper #commandline #programmer #tech" },
+    { "id": "TffXW9pyMZI", "title": "These FREE games will make you a CLI Expert 👩‍💻 #coding #developer #technology #softwaredeveloper" }
+  ],
+  "playlists": [
+    
+  ]
+}

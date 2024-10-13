@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "AndrejKarpathy",
+    "name": "Andrej Karpathy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaS05RViS-2UjL6W4wSe96JuQn8SZGkvZeLkjYzAwe4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8j6FVW026j4C85lbTAeMxlSsWGbHlfJHqnuVCHcROeFVVAX2gMne0LPOr_IqREs1OsOdh06VwA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zduSFxRajkE", "title": "Let's build the GPT Tokenizer" },
+    { "id": "kCc8FmEb1nY", "title": "Let's build GPT: from scratch, in code, spelled out." }
+  ]
+}

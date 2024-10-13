@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "iamrithmic",
+    "name": "rithmic",
+    "profile": "https://yt3.googleusercontent.com/GA2uMLyNn5wbmqrk2D1wKl4jVoX1dGE8W7WrxKjqGtRhsEtJipRfS-4wL0VDL_OS3siJXSF4Jg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1C7JsH9x4DmmcHxfVGJMhRIeSLmRH41Xnm2oKITHfuACk64NNt_iNA3Myy9sD3Z9VomitfFKcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oilSbMPCsow", "title": "Complex Animations Shouldn't be SO Hard | Framer Motion + useAnimate" },
+    { "id": "ClhCYyqRnpM", "title": "A Cool Grid Effect for your Hero Section (Framer Motion)" },
+    { "id": "jcpLprT5F0I", "title": "Create the PERFECT Button (TailwindCSS / Framer Motion)" },
+    { "id": "-vUHJ6invPM", "title": "Wait....you can create 3D animations in CSS?" },
+    { "id": "Pu6A9a2jRvY", "title": "Understanding map, filter and reduce in JavaScript #javascript #programming #coding #webdev" },
+    { "id": "ZK-w-yFWfxM", "title": "Add Clerk Authentication & Stripe Payments to your NextJS tRPC Application" },
+    { "id": "M6Euwo5XgZ4", "title": "Create a list of prime numbers in JavaScript #javascript #webdev #coding #javascriptdev" },
+    { "id": "VnRC8PyzBT8", "title": "NextJS Page Animation Transitions with GSAP" },
+    { "id": "2Eei1ZgGkMk", "title": "Create a fun Text Input Animation using Framer Motion" },
+    { "id": "KKQQn_lDuVQ", "title": "You Need This Hover Effect on Your SVGs ASAP (ReactJS / TailwindCSS)" },
+    { "id": "ahX4mVgM8AE", "title": "Create a Blog with NextJS - In 10 Minutes" },
+    { "id": "kuO3XzK6xQc", "title": "Build a Side Navigation with TailwindCSS and Framer Motion" },
+    { "id": "JPkRGIzh39w", "title": "Add Google Fonts to you ReactJS TailwinCSS App" },
+    { "id": "31y7-k3ZG0g", "title": "Framer Motion (React) - The Basics" },
+    { "id": "UjuLDdnp_VM", "title": "Create a Website Intro with ReactJS + GSAP in 10 Minutes" }
+  ],
+  "playlists": [
+    {
+      "title": "Intermediate Python",
+      "videos": [
+        { "id": "fPBeM9KeMEE", "title": "Intermediate Python - Object Oriented Programming" },
+        { "id": "WjzgP9gDs08", "title": "Intermediate Python - Unpacking, args + kwargs" },
+        { "id": "PW1QxJm0ne8", "title": "Intermediate Python - Decorators" },
+        { "id": "BWQe-gaiHY8", "title": "Intermediate Python - Generators" },
+        { "id": "KSMiO3CutFU", "title": "Intermediate Python - Lambda Functions & Map, Filter, Reduce" },
+        { "id": "OowebjUN2Vk", "title": "Intermediate Python - Dataclasses" },
+        { "id": "Cb6TvN-_7HA", "title": "Intermediate Python - Class and Static Methods" }
+      ]
+    }
+  ]
+}

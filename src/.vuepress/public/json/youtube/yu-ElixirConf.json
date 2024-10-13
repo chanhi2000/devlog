@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "ElixirConf",
+    "name": "ElixirConf",
+    "profile": "https://yt3.googleusercontent.com/YnAdn3hTn6D4bxGNb-j4wp7VaOJoGksqR9gVZydJAtA1_NwTmhFqBVLJggyerlg3Vkj3PU0Odg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "45w0tV80GqU", "title": "ElixirConf 2023 - Petrus Janse van Rensburg - ex_cldr - Personalized Apps for a Global Audience" },
+    { "id": "Qz0ZnOMaePo", "title": "ElixirConf 2023 - Tim Gremore - Replacing React: How Liveview solved our performance problems" },
+    { "id": "lyXIp7akK8A", "title": "ElixirConf 2023 - Lightning Talks" },
+    { "id": "ijPph39FY4Q", "title": "ElixirConf 2023 - Razvan Draghici - Managing a massive amount of distributed Elixir nodes" },
+    { "id": "2DlSaszKa_s", "title": "ElixirConf 2023 - Kimberly Erni - Scaling Up Travel with Elixir" },
+    { "id": "gtCJ56GxKf0", "title": "ElixirConf 2023 - Jeffery Utter - Scaling Teams with Kafka on the BEAM" }, 
+    { "id": "P44hFAhKPao", "title": "ElixirConf 2023 - Tyler Young - Rebuilding the Plane While It’s Still Flying" },
+    { "id": "owz2QacFuoQ", "title": "ElixirConf 2023 - Wojtek Mach - Req - a batteries-included HTTP client for Elixir" },
+    { "id": "XSwxNgza7hE", "title": "ElixirConf 2023 - AJ Foster - Filling the Gaps in the Ecosystem" },
+    { "id": "R1qsFBgCmGQ", "title": "ElixirConf 2023 - Zack Kayzer and Stephanie Lane - Unleashing the Power of DAGs with Pacer Workflow" },
+    { "id": "giYbq4HmfGA", "title": "ElixirConf 2023 - José Valim - The foundations of the Elixir type system" },
+    { "id": "xBi2Hj22qUU", "title": "ElixirConf 2023 - Brian Cardarella - LiveView Native" },
+    { "id": "Ckgl9KO4E4M", "title": "ElixirConf 2023 - Chris McCord - Phoenix Field Notes" },
+    { "id": "zztzvQ1sNuU", "title": "ElixirConf 2023 - Katelynn Burns - Motion Commotion: Motion Tracking with Bumblebee and LiveView" },
+    { "id": "c4iou77kOFc", "title": "ElixirConf 2023 - Zach Daniel - Ash 3 0  Better Together" },
+    { "id": "TfZI5-oQSqI", "title": "ElixirConf 2023 - Charlie Holtz - Building AI Apps with Elixir" },
+    { "id": "rr20V1IPoRU", "title": "ElixirConf 2023 - Eric Iacutone - Learn Stochastic Gradient Descent in 30 Minutes" },
+    { "id": "6aVnwj8WQq4", "title": "ElixirConf 2023 - Sean Moriarity - MLOps in Elixir: Simplifying traditional MLOps with Elixir" },
+    { "id": "rbmviKT6HkU", "title": "ElixirConf 2023 - Andrés Alejos - Nx Powered Decision Trees" },
+    { "id": "YWDCXbjircQ", "title": "ElixirConf 2023 - Alfonso Gonzalez - Embedded System w/ Elixir for millions AI-based point of sales" },
+    { "id": "rH1sVC-NoS4", "title": "ElixirConf 2023 - Brooklin Myers - Exploring LiveViewNative" },
+    { "id": "MIhM7FK4_oU", "title": "ElixirConf 2023 - David Bluestein II - Our LiveView Native Development Journey" },
+    { "id": "cQp_Gxh_Jv0", "title": "ElixirConf 2023 - Jason Stiebs - A LiveView is a Process" },
+    { "id": "YDYF8oAC2nE", "title": "ElixirConf 2023 - Meks McClure & Mark Keele - SVG Island: Building your own charts in LiveView" },
+    { "id": "5jk0fIJOFuc", "title": "ElixirConf 2023 - Leandro Pereira - Beacon: The next generation of CMS in Phoenix LiveView" },
+    { "id": "7wrP2ZE5lA4", "title": "ElixirConf 2023 - Andrew Selder - Speeding up dynamic templates Using Meta-programming" },
+    { "id": "ZBG9VXTycpI", "title": "ElixirConf 2023 - Nicholas Scheurich - Conversational Web APIs with Phoenix Channels" },
+    { "id": "-iZIZHgHa5M", "title": "ElixirConf 2023 - Toran Billups - Fine-tuning language models with Axon" },
+    { "id": "JNWPsaO4PNM", "title": "ElixirConf 2023 - German Velasco - Using DDD concepts to create better Phoenix Contexts" },
+    { "id": "gx8GoDkKU6k", "title": "ElixirConf 2023 - Miki Rezentes - Beyond Technical Prowess: Competency is Not Enough" }
+  ]
+}

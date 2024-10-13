@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "plaintextpackets",
+    "name": "Plaintext Packets",
+    "profile": "https://yt3.googleusercontent.com/BHP0bWXSQlk0uM-3TGF5SvY4NOSEH_sNGTTg3JzuJpSXvVGj9lnSJ01A7541XgLfM1x_MD5M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jL31k-u3pIHCfpLYc955Vbp3XgFUI9lnTeCLcrWeNGMLDw9WLSpJQz1v0PgCYR1ynp5P76blCm4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2Lf4I9F5TUg", "title": "How to Filter Conversations in Wireshark" },
+    { "id": "L0VvYywmo_g", "title": "Learn How the Address Resolution Protocol (ARP) Works in 10 Minutes" },
+    { "id": "IU9C8H0My0w", "title": "Troubleshoot Docker Network Issues Using Wireshark" },
+    { "id": "hgJp0f9WWpU", "title": "Hacking WiFi: Sniffing Traffic from Open Networks" },
+    { "id": "Maec4f2gt2c", "title": "How NMAP Works and How to Detect Port Scans in Wireshark" },
+    { "id": "TRXOJAeidms", "title": "Learn TCP with Shell Shockers and Wireshark!" },
+    { "id": "3GV89k7c99g", "title": "What Can Your ISP See? - What Your ISP Knows About Your Internet Activities" },
+    { "id": "OIEUIt1SxgI", "title": "How Governments Watch the Web - Why Absolutely Privacy Online Doesn't Exist" },
+    { "id": "M2oi3ncK0GE", "title": "10 Ways Companies Track You Online" },
+    { "id": "JT23aNTP1nY", "title": "Surf the Web Invisibly - How Tor Works" },
+    { "id": "sZEIhRF7xak", "title": "3 Ways to Secure Your Surfing Online - VPNs, DNS Security and Ad Blockers" },
+    { "id": "1fslOw5Cb-4", "title": "How Companies Track You Inside Their Stores" },
+    { "id": "Zc-wjEcBF4U", "title": "How VPNs Protect You Online" },
+    { "id": "AAI4AmBUFtQ", "title": "Extract TLS Certificates using Wireshark" },
+    { "id": "irgZtxE8NgY", "title": "Wireshark for Cable Technicians - How to Prove that Internet Access is Healthy" },
+    { "id": "LCsX5dZc1kc", "title": "How to Smuggle Data out of the Network with Ping" },
+    { "id": "TCbQyv-BjdU", "title": "How to Measure YouTube Bandwidth Using Wireshark" },
+    { "id": "tCC_tT0le2s", "title": "Learn How Speedtest.net Works Using Wireshark" },
+    { "id": "I9LGrhLjDjA", "title": "Wireshark Freestyle #2 - Finding Secrets in Open Wifi Networks" },
+    { "id": "OzgE7mS5ZWU", "title": "How to Listen to Phone Calls in Wireshark" },
+    { "id": "4xu4UYSyUnY", "title": "How to DoS Your Network with this One Command" },
+    { "id": "EbsbtTOtk-M", "title": "How to Take Down a Wifi Network from Within" },
+    { "id": "wI2qfO61iFw", "title": "How to Capture Traffic in Wireshark" },
+    { "id": "ML9QEoZsU4c", "title": "Why Should You Learn Wireshark?" },
+    { "id": "zUxgQ-x7mJ8", "title": "Wireshark for Helpdesk Analysts - Troubleshooting a User's Website Issue" }
+  ],
+  "playlists": [
+    
+  ]
+}

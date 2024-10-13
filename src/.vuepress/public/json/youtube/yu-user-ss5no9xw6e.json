@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "user-ss5no9xw6e",
+    "name": "이수안컴퓨터연구소",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbviCfeY3khLIu5milm140hMo17fEZpoPF0Pbpa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KrXOwznWJPljgHTD00XnH0midQlbxbiVrtCDj2sCeoA9OG0w8ELFxnlN48wXCQXxYt15kd2ijg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BQzxg9xf5Kg", "title": "19 표본 추출 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "kcgqQtsxaLI", "title": "21 추정과 검정 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "R_18RZoSjmA", "title": "20 확률 분포 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "mQ_5IRWLmnY", "title": "22 분석 모형 설계 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "VF1VHDj3_Z8", "title": "24 정형 데이터 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "R2WZzONWE0M", "title": "25 비정형 데이터 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "I3WpdUVCcqg", "title": "26 딥러닝 분석 기법 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "KCDXnThBwCk", "title": "27 분석 모형 평가 및 개선 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "CAqMtQEJTqs", "title": "28 분석 결과 해석 및 활용 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "UozQROwZPlw", "title": "01 데이터의 역사 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "nuFInPEdLe8", "title": "02 데이터 산업 동향 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "epN6vh-XFfE", "title": "03 데이터 개념과 종류 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "s-AJA-OWuz8", "title": "05 데이터 분석 계획 및 활용 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "oJNHSUldbjE", "title": "04 빅데이터 개념 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "rjKVWi_GA_8", "title": "06 데이터 수집 프로세스 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "X7SS4JiXR9E", "title": "07 수집 데이터 유형 및 기술 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "1UieZgL7LOA", "title": "08 데이터 변환 기술 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "rGqDclBznLY", "title": "10 데이터 적재 기술 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "Ro7HFEaVQk4", "title": "12 탐색적 데이터 분석 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "h3GogP-F2Uc", "title": "13 데이터 전처리 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "Ky0F4U-XvZY", "title": "14 데이터 정제 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "Qp7TUlyRqh8", "title": "15 데이터 통합 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "av2FFEYKPhY", "title": "16 데이터 축소 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "bftPoXrKhck", "title": "17 데이터 변환 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "mI9MnrpVts4", "title": "18 빅데이터 처리 기술 - 빅데이터 분석 제대로 끝내기" },
+    { "id": "JBtdc5J3PEA", "title": "20 인덱스(Index) - MySQL 제대로 끝내기" },
+    { "id": "XnoovHMlbok", "title": "19 뷰(View) - MySQL 제대로 끝내기" },
+    { "id": "S9ILVHc57gU", "title": "18 테이블 생성, 수정, 삭제 - MySQL 제대로 끝내기" },
+    { "id": "rOb6D_06s4o", "title": "16 서브 쿼리 - MySQL 제대로 끝내기" }, 
+    { "id": "HHWNI0quyvg", "title": "17 데이터 삽입, 수정, 삭제 - MySQL 제대로 끝내기" }, 
+    { "id": "RshTLbu9EOA", "title": "13 날짜와 집계 함수 - MySQL 제대로 끝내기" },
+    { "id": "e4AwQHMy4ws", "title": "14 그룹화와 집합 연산 - MySQL 제대로 끝내기" },
+    { "id": "eOjrxInV6SI", "title": "15 조인 연산 - MySQL 제대로 끝내기" },
+    { "id": "NuLEyNfUWvE", "title": "09 WHERE 조건 검색 - MySQL 제대로 끝내기" },
+    { "id": "2q9lMYhZOCA", "title": "10 SQL 연산자와 정렬 - MySQL 제대로 끝내기" },
+    { "id": "ksC_MNfxRhY", "title": "12 숫자와 문자열 함수 - MySQL 제대로 끝내기" },
+    { "id": "vgIc4ctNFbc", "title": "MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database" },
+    { "id": "tjgvXn8hmzk", "title": "03 데이터베이스 발전과 종류 - MySQL 제대로 끝내기" },
+    { "id": "pNrxmHpzcYU", "title": "04 데이터 모델링 - MySQL 제대로 끝내기" },
+    { "id": "56xBWyLwaDY", "title": "06 집합 연산자 - MySQL 제대로 끝내기" }
+  ],
+  "playlists": [
+
+  ]
+}

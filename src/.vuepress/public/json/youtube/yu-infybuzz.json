@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "infybuzz",
+    "name": "Infybuzz",
+    "profile": "https://yt3.googleusercontent.com/q8aKDbxfTjnlsxA87SiZbKxxFcDmQw9Z35HBPTXXCFTEDwCVPuCkH1iWsti2JA8KWojQnsxOuw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ettAyMbwlAgTXtBsf9mInZs1cPZfCz92jgJQcxWxX6fwISG6YjAeHQg3iqvMeo3yhe84Qh7FL0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "usk9mjRzJ-Y", "title": "Create Spring Boot Custom Banner | Custom Banner In Spring Boot" },
+    { "id": "QyOVIfgtPPc", "title": "Spring Boot Graceful Shutdown" },
+    { "id": "_-p69BckrVg", "title": "Batch Processing with Spring Batch & Spring Boot - Udemy Course Overview" }, 
+    { "id": "OROTCvW1lZE", "title": "PathVariable Vs RequestParam. Difference between PathVariable and RequestParam In Spring Boot" }, 
+    { "id": "cXa5rxOE6tk", "title": "Read application.properties File In Spring Boot Using @Value Annotation" }, 
+    { "id": "qSTZVlo2lr0", "title": "Password Hashing In Java" }, 
+    { "id": "5rOAfRG4vDw", "title": "Generate OTP (One Time Password) Using Java 8" }, 
+    { "id": "lCC6wveiYf0", "title": "Stream API in Java 8" }, 
+    { "id": "NaLbk6czntg", "title": "Send SMS On Mobile Using Java" }, 
+    { "id": "dGe5_M8TyjM", "title": "Take Screenshot Using Java" }, 
+    { "id": "LlsizG8Pju8", "title": "Validate IP Address Using Java and Reguler Expression" } 
+  ]
+}

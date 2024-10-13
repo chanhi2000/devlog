@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Chyrosran22",
+    "name": "Chyrosran22",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY1I-vQKK0Q9RwfDZluexMVWDs4z7tqazIw4I8c=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CR5wJy6xNeUeBe0sg3qqUaDZb6plg6jqeCALso9-MZ4lHMbEEqOwEYSCi57aFIALrB3pPanh2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LnjNbXiwYx4", "title": "Typing Demo XL - ZealPC Clickiez (8BitDo keyboard)" },
+    { "id": "rLswzbjy928", "title": "Unboxing a Whitefox Eclipse keyboard!" },
+    { "id": "LM0IJK1u5BA", "title": "8BitDo keyboard review (Kailh Box White v2)" },
+    { "id": "xUGnUSDjWyM", "title": "Corsair K70 Max review (Corsair MGX Hall effect)" },
+    { "id": "jTLS5LuA66s", "title": "Razer Huntsman v2 analog keyboard review (Light Strike Libra Analog" },
+    { "id": "LNVKRTX5gCQ", "title": "Keychron K8 review (Gateron KS-22 optical)" }
+  ]
+}

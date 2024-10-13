@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "lucid_software",
+    "name": "Lucid Software",
+    "profile": "https://yt3.googleusercontent.com/Bdyw_1S-pXtIXN9ZuawKgJrIZb8c6TX5FLOrwweCuRBfUoewsroGjh4vsGdXC64e97d_j3WWfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v4LGpL0em9zmZdjLb9-m7SAnk0eqWygGA_OUR9bmhWCGCXCaYR9JeFoxwvH6uTYUTSkSXnswtA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4emxjxonNRI", "title": "UML use case diagrams" },
+    { "id": "VyOsFa0Ed1g", "title": "Create mind maps in Lucidspark" },
+    { "id": "UI6lqHOVHic", "title": "UML Class Diagram Tutorial" }
+  ]
+}

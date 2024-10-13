@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "CodeAndroid",
+    "name": "CodeAndroid",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNzGVB9FhH1L8zBiNCPlL07YAgQANCAe6Y7Qhsm=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SZpZ3fgn4UDtpH7Z2p5aDewIkDXFHnAKgpDy1bBbNQmxx9ffGS8bMrK_xkN-9SYisxlqOLyoJQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ATXFC85v_yA", "title": "How to solve dependency issues in Flutter" },
+    { "id": "1VlSvph5bBE", "title": "Must Have Android Studio Plugins" },
+    { "id": "WSMvgtQJ2yw", "title": "Android Studio Settings which helps to improve your productivity - CodeAndroid" },
+    { "id": "HgrSF6VW0xg", "title": "#5.4.2 Dart - Asynchronous Programming" }
+  ]
+}
+

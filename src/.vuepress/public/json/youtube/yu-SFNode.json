@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "SFNode",
+    "name": "SFNode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaStWZphZ3lZnVJjQXNQDuRCsoG6wLaGbYIPpIsl=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HG_ar6pF8hlmYM9spWy0TgdmGwFtXedK6HnJdyvILOE-q4R6Nnp08JSP1NUcZ6uRisEfft8Kmw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0Gv5r9Tambo", "title": "SFNode Meetup: Yet another JavaScript Runtime with Christian Bromann (Software Engineer @ StencilJS)" },
+    { "id": "8TO7ZT_s-bs", "title": "SFNode Meetup: The OpenJS Foundation with Robin Ginn (Executive Director at OpenJS Foundation)" },
+    { "id": "rO8WegGrags", "title": "SFNode Meetup: JavaScript Features - From Idea to Implementation with Jordan Harband (TC39 delegate)" },
+    { "id": "BzFtTAlN_PM", "title": "SFNode Meetup: Bun Q&A with Jarred Sumner, Creator of Bun" },
+    { "id": "4SALBZ5RicM", "title": "SFNode Meetup: Angular Renaissance with Minko Gechev" },
+    { "id": "BLWDvDuXsE0", "title": "SFNode Meetup: Building serverless applications with Daniel Grant" },
+    { "id": "ruWWZ3i-YZ0", "title": "SFNode Meetup: Build a Typescript GraphQL Server with just TS functions with Praveen Durairaju" },
+    { "id": "xRM5jjd2fCc", "title": "SFNode Meetup: Unit Testing Javascript with reflection and GPT-4 with Arvind Naidu" },
+    { "id": "mAqxh3L_sP4", "title": "SFNode Meetup: Automated Testing of Electron Apps using WebdriverIO with Christian Bromann" },
+    { "id": "Oz9Tjd-GZyQ", "title": "SFNode Meetup: Tinylibs with Mohammad Bagher" },
+    { "id": "hmecIgC4Ffk", "title": "SFNode Meetup: Ramping Up With Modulo.js on JAMStack with Michael Bethencourt" },
+    { "id": "EdTZkmTRcRY", "title": "SFNode Meetup: How I use node.js to automate workspaces with Lorenze Jay" },
+    { "id": "eF48Ar-JjT8", "title": "SFNode Meetup: Bun with Jarred Sumner" },
+    { "id": "hmecIgC4Ffk", "title": "SFNode Meetup: Ramping Up With Modulo.js on JAMStack with Michael Bethencourt" },
+    { "id": "EdTZkmTRcRY", "title": "SFNode Meetup: How I use node.js to automate workspaces with Lorenze Jay" }
+  ],
+  "playlists": [
+
+  ]
+}

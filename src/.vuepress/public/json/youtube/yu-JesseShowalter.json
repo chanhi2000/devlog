@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "JesseShowalter",
+    "name": "Jesse Showalter",
+    "profile": "https://yt3.googleusercontent.com/YhKL_HNwoDofviNS13Sp_QjQGQy0mOwp4G9CWED26v55GsoYLaA6adCbhb00Sx0621sLkkIA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GDSwmoE4OOVelY3yx_N7kPiOkdiEyrQMA46dkYNjh1HxzMUi2zEd-r0hT744KnpWuxKObNAM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cf95Z7Ngg8k", "title": "Master Spacing in UI Design 💪" },
+    { "id": "k5AZoQC-OZk", "title": "Design with CSS Grid Layout" },
+    { "id": "Sfy5wG5ZB3A", "title": "Mastering Framer Components | Variants & Variables" },
+    { "id": "Un9Vehrej8A", "title": "Master Web Design Layout in 10 Minutes" },
+    { "id": "oCVG6DFCTz4", "title": "How to Master Figma and Design 10X FASTER!" },
+    { "id": "y4Rv-vf01LY", "title": "The top 5 Framer features that you should know" },
+    { "id": "XZf5A0wcruE", "title": "Amateur vs Pro UI Design | with examples" },
+    { "id": "1nEK-FLIQL4", "title": "Multiple Revenue Streams for Creatives w/John D. Saunders" },
+    { "id": "1xAfVDiX1ps", "title": "Framer Crash Course" },
+    { "id": "PuQz1w80ddw", "title": "Learn Bubble.io in 30 Minutes" },
+    { "id": "BkYtPmxghqI", "title": "Building a Design System w/Dan Mall" },
+    { "id": "3IqtilutjuU", "title": "AI tools for UI Designers 🛠" },
+    { "id": "Zoowk9oJ-PU", "title": "This is The Future of Design | Dan Mall" },
+    { "id": "w7tcI9ghk1A", "title": "From Full-time to Freelance w/John D. Saunders" },
+    { "id": "a7vr6z0MVYw", "title": "Figma Dev Mode 🤯" },
+    { "id": "kGafert9h2M", "title": "Adobe & Figma Drama + 2024 prep" },
+    { "id": "6jqvG3SZyv0", "title": "Web & UI Design Trends for 2024" },
+    { "id": "tCNqW1JmGq8", "title": "Sitemaps for Websites with Octopus.do" },
+    { "id": "Enm2XtqIeHU", "title": "Designing Dark UI's | UI Design Live Stream" },
+    { "id": "-MgQ1hcidm8", "title": "How to Not Suck at UI Design" },
+    { "id": "PNPjA5tUsJw", "title": "How To Pitch A Website To A Client!" },
+    { "id": "h0-oAS_Yn_U", "title": "No-Code Tools Every Designer Needs" } 
+  ]
+}

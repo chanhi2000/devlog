@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "toluvictor",
+    "name": "Tolu Victor",
+    "profile": "https://yt3.googleusercontent.com/za-LMoAws3M1GTwN6fplZuxlYsLQ04rp-mLdnYv2C3c3umIvCUJBEYVe4KMyBKjY6gnVqwoWM3A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NkNXlEmnjokTbrvSQouW7G4r52WJhjM_fsZIgiMjINYc8JuKr2RoUSisluG4At_vi6-4MDIobw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HSwX2C70ZwI", "title": "How to Design a Multi-view Gallery in Power Apps | Beginner to Advanced" },
+    { "id": "cuh9mp4is2c", "title": "How to Design a Modern Filter UI in Power Apps" },
+    { "id": "DEAAvmBX468", "title": "How to use Copilot AI to design UNIQUE Power Apps UIs" },
+    { "id": "A-s0V5OpHDY", "title": "Modern PowerApps UI Design Tutorial: Card Gallery Design Ideas" }
+  ]
+}

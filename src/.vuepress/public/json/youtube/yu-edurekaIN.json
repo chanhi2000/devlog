@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "edurekaIN",
+    "name": "edureka!",
+    "profile": "https://yt3.googleusercontent.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N2VEe7qNCUNRnH0mdRdrIJJw79pZm_bwLGl0sNXPU_9-Bvy4npf7IGEGPABPUNUL1U22VBt8Zw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5gnoVjpfWxU", "title": "AWS Full Course - Solutions Architect [12 Hours] | AWS Certified Solutions Architect [2023] |Edureka" },
+    { "id": "k1RI5locZE4", "title": "AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka" }, 
+    { "id": "F8pyaR4uQ2g", "title": "Apache Spark Full Course - Learn Apache Spark in 8 Hours | Apache Spark Tutorial | Edureka" }, 
+    { "id": "5FUdrBq-WFo", "title": "Selenium Tutorial For Beginners | What Is Selenium? | Selenium Automation Testing Tutorial | Edureka" }, 
+    { "id": "MBl-3Yb30FA", "title": "Robotic Process Automation Full Course - 10 Hours | RPA Tutorial For Beginners | Edureka" }, 
+    { "id": "RSIstPUiEjY", "title": "Docker Full Course - Learn Docker in 5 Hours | Docker Tutorial For Beginners | Edureka" }, 
+    { "id": "VvGjZgqojMc", "title": "Spring Full Course - Learn Spring Framework in 4 Hours | Spring Framework Tutorial | Edureka" }, 
+    { "id": "e2RkeISsDVE", "title": "Jenkins Master and Slave Configuration | Jenkins Distributed Architecture Tutorial | Edureka" }, 
+    { "id": "JnvKXcSI7yk", "title": "Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka" }, 
+    { "id": "0uvWRwLs5Zo", "title": "Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial | Kali Linux Tutorial | Edureka" } 
+  ]
+}
+

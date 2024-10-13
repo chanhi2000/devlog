@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "abdulazizahwan",
+    "name": "Abdul Aziz Ahwan",
+    "profile": "https://yt3.googleusercontent.com/V1fBK_hOJ1R5IIyDu4BAcU2kboASw5V-zOpAQcCtpsApbq3iMkVYPoXJjChcoE6e3SSPdKT4hQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eCsSeAk8N9LhsbNz_kCxRiUyc18mIcX-rdyhiBzxNXn4109j40nUBPII1Db3L1hU2_i1k4hG8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_zX6-DqbNTs", "title": "[ LIVE ] Flutter UI Tutorial - Flip App UI Design - Financial App for Digital Transfers | PART 3" },
+    { "id": "YpTU1kp_FJc", "title": "How to Create 3D Avatar Using Peeps UI8 3D Avatar Builder | It's Free" },
+    { "id": "_H94XM1Y3nM", "title": "Discover Handpicked Resources, Products, and Tools for Designer Developer | Resource FYI" },
+    { "id": "FKnEqWifnHU", "title": "[ LIVE ] Flutter UI Tutorial - Flip App UI Design - Financial App for Digital Transfers | PART 1" },
+    { "id": "KG1_8UyxA9k", "title": "[ LIVE ] Flutter UI Tutorial - Flip App UI Design - Financial App for Digital Transfers | PART 2" },
+    { "id": "u-PvnZPt3sk", "title": "Free Illustrations Resources for Designer and Developer | FreeIllustrations.XYZ" },
+    { "id": "mJpBomuhIeo", "title": "How to Create Stunning Websites in Minutes using Solo AI Website Builder | The Result is Impressive!" },
+    { "id": "5byhpw-iPqA", "title": "How to Create Eye Catching Screen Recording Auto Pan & Zoom Effects | FocuSee Review Windows & MacOS" },
+    { "id": "wN67aeuDSVc", "title": "[ LIVE ] Flutter UI Tutorial - Scooter Rent App UI Design (Figma to Flutter) | PART 1" },
+    { "id": "STwqNtM6B8M", "title": "How to Display Keystroke on macOS Screen for Free? | KeyCastr - Open Source Keystroke Visualizer" },
+    { "id": "stNjERZEvkE", "title": "Mastering Flutter: How to Install Flutter SDK on MacBook Pro M2 Pro Apple Silicon" },
+    { "id": "LVIu7qj-0pk", "title": "MacBook Pro M2 Pro 14 inch Setting Up the Apps for Content Creation & Daily Use" },
+    { "id": "BJZhS3DA5QA", "title": "Framer Tutorial - Build SaaS Landing Page Website from Figma to Framer" },
+    { "id": "NeUegHLTrD8", "title": "How to Deploy Node.js Next.js Application on a VPS Ubuntu Server using UltaHost | Secure & Cheap" }, 
+    { "id": "N9WLxEFloVY", "title": "Flutter UI Tutorial - Real Estate Home Rent App UI Design with Drawer Animation (Figma to Flutter)" }, 
+    { "id": "CYlyvOFeJFY", "title": "Designing Modern Courier Delivery App UI Design Using Lottie Animation Library - Android Studio" }, 
+    { "id": "dRxGeGvqsJg", "title": "Designing a Modern Flat Desktop Application of a University Student Dashboard in C# VB NET" }
+  ]
+}

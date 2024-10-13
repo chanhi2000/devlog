@@ -1,0 +1,58 @@
+[
+  {
+    "repo": "twitter/the-algorithm",
+    "desc": "Source code for Twitter's Recommendation Algorithm",
+    "officialSite": "https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm",
+    "topics": []
+  }, {
+    "repo": "twitter/finagle",
+    "desc": "A fault tolerant, protocol-agnostic RPC system",
+    "officialSite": "https://twitter.github.io/finagle",
+    "topics": ["mysql", "java", "redis", "http", "memcached", "distributed-systems", "scala", "http2", "thrift", "rpc", "finagle", "zipkin"]
+  }, {
+    "repo": "OpenXiangShan/XiangShan",
+    "desc": "Open-source high-performance RISC-V processor",
+    "officialSite": "",
+    "topics": ["chisel3", "risc-v", "microarchitecture"]
+  }, {
+    "repo": "microsoft/SynapseML",
+    "desc": "Simple and Distributed Machine Learning",
+    "officialSite": "http://aka.ms/spark",
+    "topics": ["microsoft", "http", "opencv", "data-science", "machine-learning", "scala", "big-data", "ai", "spark", "apache-spark", "deep-learning", "azure", "ml", "pyspark", "lightgbm", "cognitive-services", "databricks", "synapse", "model-deployment", "onnx"]
+  }, {
+    "repo": "lichess-org/lila",
+    "desc": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "officialSite": "https://lichess.org",
+    "topics": ["chess", "free-software", "functional-programming", "game", "lichess", "non-profit", "play-framework", "scala", "type-safe", "typescript"]
+  }, {
+    "repo": "comsec-group/cascade-artifacts",
+    "desc": "Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "chipsalliance/chisel",
+    "desc": "Chisel: A Modern Hardware Design Language",
+    "officialSite": "https://www.chisel-lang.org/",
+    "topics": ["chip-generator", "chisel", "chisel3", "firrtl", "rtl", "scala", "verilog"]
+  }, {
+    "repo": "zanfranceschi/rinha-de-backend-2024-q1",
+    "desc": "Repositório da 2ª edição da Rinha de Backend",
+    "officialSite": "https://twitter.com/rinhadebackend",
+    "topics": []
+  }, {
+    "repo": "Vyxal/Vyxal",
+    "desc": "A code-golfing language experience that has aspects of traditional programming languages - terse, elegant, readable.",
+    "officialSite": "https://vyxal.github.io/",
+    "topics": ["array-language", "arrays", "code-golf", "conciseness", "esolang", "esoteric-language", "esoteric-programming-language", "experience", "fractional-bytes", "golfing", "golfing-language", "powered-by-copilot", "programming-language", "python", "readability", "stack-based", "stack-based-language", "vyxal"]
+  }, {
+    "repo": "airbnb/chronon",
+    "desc": "Chronon is a data platform for serving for AI/ML applications.",
+    "officialSite": "",
+    "topics": ["ai", "ml"]
+  }, {
+    "repo": "awslabs/deequ",
+    "desc": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+    "officialSite": "",
+    "topics": ["dataquality", "scala", "spark", "unit-testing"]
+  }
+]

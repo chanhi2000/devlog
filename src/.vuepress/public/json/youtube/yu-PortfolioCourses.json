@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "PortfolioCourses",
+    "name": "Portfolio Courses",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l21JcrW-W4-DM3b35gqp3ldFqmtPSYj4pqe_IbZ-Clrbo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/w1XPd3mNr6dyrSzkCSnxySFtTOYbkYWAN3x67c27QanlY7LKNhOKj89WVdRUzpM_p-Yf3x3wqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MjDAQ_yeNmk", "title": "Shuffle A String | C Programming Example" },
+    { "id": "N0Q9IwTGDTI", "title": "Convert Inches To Feet And Inches | Python Example" },
+    { "id": "YNysEWzeseg", "title": "Monty Hall Problem Simulation | Python Example" },
+    { "id": "0H9kxHXZrgs", "title": "Print A String Using Recursion | C Programming Example" },
+    { "id": "FmL0iAJRHDs", "title": "Shuffle A String | Python Example" },
+    { "id": "qkvtPbM3A1o", "title": "Check If Strings Are Equal Using Recursion | C Programming Example" },
+    { "id": "ljJejG-Q21M", "title": "Convert Seconds To Days, Hours, Minutes & Seconds | Python Example" },
+    { "id": "WcagDRFHeMo", "title": "Check If A Character Is In A String Algorithm | C Programming Example" },
+    { "id": "80AuxBTYSeA", "title": "Remove First Occurrence Of A Character From A String | C Programming Example" },
+    { "id": "DveYpz8hU1U", "title": "Append Text To A File | Python Example" },
+    { "id": "_3-R2l0mh7w", "title": "Remove Last Occurrence Of A Character From A String | C Programming Example" },
+    { "id": "KSyjpPZ1_uY", "title": "Remove All Punctuation Marks From A String | Python Example" },
+    { "id": "LaVEDKSTYQs", "title": "Remove All Punctuation Marks From A String | C Programming Example" },
+    { "id": "iB_Y295lT9I", "title": "Count The Words In A String | Python Example" },
+    { "id": "bQgRTianPRI", "title": "Convert Seconds To Days, Hours, Minutes and Seconds | C Programming Example" },
+    { "id": "Xofj7X5ZoPc", "title": "Count The Words In A File | Python Example" },
+    { "id": "OLEJy2gmvug", "title": "Print A String In Reverse | C Programming Example" },
+    { "id": "wcZRSbtBzGc", "title": "Reverse The Words In A String | Python Example" },
+    { "id": "pMEWGLlairs", "title": "Remove The Last Character In A String | C Programming Example" },
+    { "id": "H5MlTh5cBOg", "title": "int *p vs int* p Pointer Declarations | C Programming Tutorial" },
+    { "id": "RaHlFhPymQE", "title": "Sum The Digits In A String | C Programming Example" },
+    { "id": "AoHjSi-0-BA", "title": "Sum The Digits In A String | Python Example" },
+    { "id": "f9_RYPjvhr0", "title": "Convert Feet To Inches And Feet | C Programming Example" },
+    { "id": "rjty0sSrFZc", "title": "Shuffle The Lines Of A File | Python Example" }
+  ]
+}

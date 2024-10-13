@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "user-hu1nx2lw7z",
+    "name": "게임캔버스-게임기획개발아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbB44kxzHKdmg0h1ElWqKl00x2hmT5dCwQ2zaDVRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cD06Jw_xKRD-hmi10gPtb5kxjh_uCREfzET5B7xl-fd3bu7FR-QCN1WYpO7WjMl6WgZO84BxECA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xENlioqVYgU", "title": "게임기획자는 파이썬을 어떻게 사용할 수 있을까?" },
+    { "id": "uMqTe6CPoGk", "title": "프로그래머 업무에 파이썬 활용하기!" },
+    { "id": "y8l4isSrxXE", "title": "신입기획자 취업메타가 변했다고요!?" },
+    { "id": "kSv6nDFtm-U", "title": "게임 기획자의 언어로 말하는법" },
+    { "id": "dSelptjeTvs", "title": "기획자가 프로그래밍을 하면 좋은점 (밸런스 기획자 편)" },
+    { "id": "2gMih-PxndQ", "title": "게임회사를 고르는 기준 (프로젝트VS회사 밸류)" },
+    { "id": "kKUuPoHw_QU", "title": "바람직한 게임 회사 신입의 마인드" },
+    { "id": "8Nif6ZPHhNI", "title": "인생은 짧으니 파이썬을 사용하세요: )" },
+    { "id": "1S18vcWYq3E", "title": "코딩테스트 꿀 팁 (프로그래머 취업 필수관문)" },
+    { "id": "QLunWvqtMzs", "title": "서류/면접 탈락후 어떻게 해야할까? (Part.1)" }
+  ]
+}

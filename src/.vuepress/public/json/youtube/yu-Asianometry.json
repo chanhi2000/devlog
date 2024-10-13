@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Asianometry",
+    "name": "Asianometry",
+    "profile": "https://yt3.googleusercontent.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BkPLt627VJDtspEOcksWX_PHJ0VhVVFUETEhSYKOriuxSVIqKXw1PeSbdPoRYldwO8kOcT3bRA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "14r2oMsAaE8", "title": "Why IBM's Superconductor Computer Failed" },
+    { "id": "ig0FCK0C76U", "title": "What’s Next For ASML?" },
+    { "id": "zSn8il5Mo5s", "title": "The Rise of Oracle, SQL and the Relational Database" }
+  ],
+  "playlists": [
+    
+  ]
+}

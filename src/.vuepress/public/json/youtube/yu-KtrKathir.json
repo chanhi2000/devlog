@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "KtrKathir",
+    "name": "KtrKathir",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOyLWQxdfSiugU9VlWq4gUZqyAzBAqGCGDhmxqV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ab_zYJfUi5sPs7_ufEAk5ntAG_U1E-cIBCcbWdtj4ZUvNVRXSPb_Rov3wY_dFdyMd0iiRYuBN7o=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y3wtMk5PrQs", "title": "How to implement SearchBar in List #swiftui #ios  #Xcode @KtrKathir" }, 
+    { "id": "57bg7STC4Kg", "title": "How to find UDID, serial number, IMEI number of iPhone or iPad without Mac or iTunes | KtrKathir" }, 
+    { "id": "ERyBAGw_tcE", "title": "Download Image from URL using SDWebImage | Xcode 11 | Swift 5.2.4 | KtrKathir" }, 
+    { "id": "9MAOWzWEjHo", "title": "What is @escaping closures? How and Where to use? | Xcode 11 | Swift 5.2.4 | KtrKathir" }, 
+    { "id": "vxu1U9j2gWI", "title": "Local Notification with attachments | Xcode 11 | Swift 5.2.4 | KtrKathir" }
+  ]
+}
+

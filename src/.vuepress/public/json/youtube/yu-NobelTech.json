@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "NobelTech",
+    "name": "Nobel Tech",
+    "profile": "https://yt3.googleusercontent.com/zNF87-spTO0Q8Umiq8t-zUSgJeuy8UKc1S5PHRpubiR6FlY9NBKtElDplmWF8xptnHJgXD9rBw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4GGioJM3dHpXna12vZKJTt1pbjck0ByUzC7AIX3pmUDGa2rhmOQS08J73PVriIOm4Am0aKuruiY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CNqI7y9gFAM", "title": "Old MacBook running Android 1.6?" },
+    { "id": "-3_3ip6OW4E", "title": "Windows 7: Other Completing Install UIs!" },
+    { "id": "TgQlvGAs1mY", "title": "Install LineageOS on the first Pixel XL?" },
+    { "id": "W2vTB57QDZc", "title": "Samsung Galaxy S21 Kernel Panic!" },
+    { "id": "q0-pC3KR9_k", "title": "Can Windows Phone 8 + 8.1 run on a Mac?" },
+    { "id": "uICMhdtR0U8", "title": "Windows NT 3.1 Apps on Windows 11?" },
+    { "id": "SvokI7z2uPU", "title": "I put Windows Phone on a MacBook!" },
+    { "id": "n3TQx_eOuy4", "title": "Windows Phone Startup Options!" },
+    { "id": "AA3ugrN8Ivs", "title": "Emulating iOS 1 on a Mac!" },
+    { "id": "B9uJxvdVFBE", "title": "How to install Asahi Linux on M1 Mac!" }, 
+    { "id": "FoFvMCy9xNI", "title": "Windows 365 Virtualized! (Hyper-V)" }, 
+    { "id": "HqLywj9Jbxo", "title": "Windows 10 but it's only a 'DOS' environment" }, 
+    { "id": "51b4w5HoF3k", "title": "iPhone 3G Verbose Startup" }, 
+    { "id": "VRhKjnufuj8", "title": "Mac OS X Server 1.0 Demo (PPC Emulation)" }, 
+    { "id": "lLcbtmO2zOw", "title": "How to Restore a Broken iPod (2023)" }
+  ]
+}

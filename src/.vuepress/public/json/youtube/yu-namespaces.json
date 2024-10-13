@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "namespaces",
+    "name": "일본 프리랜서 개발자",
+    "profile": "https://yt3.googleusercontent.com/Nc9yucHUG-mEJVeJnx-bO3LJ4gFH7Oo-V6RxLWBPb4I21VDGI3AzmFGmlH9yeutl3HSJ7owwmQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pyzOIA2GhtJ4hE-z5K9whw5IKtPCD06quvhlu021c7Iy-WzkvzAp3P4nwMCqWBXnATa1MqQPyQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AfiUP-uKDJM", "title": "앤트로픽의 새로운 AI 모델 '클로드 3', GPT-4와 제미나이 울트라를 넘어서다!" },
+    { "id": "gC6MpwFLX-k", "title": "AI 개발자 Devin의 등장과 개발자의 미래" },
+    { "id": "1XV6voHjFB0", "title": "GPT Pilot을 사용해 웹서비스를 만들어 봤습니다. 비용과 소감에 대한 영상입니다." },
+    { "id": "GFyUHBfMAT8", "title": "[chatGPT]쇼츠 영상 자동 생성 오픈소스 튜토리얼" },
+    { "id": "PCyw_JO5zQ4", "title": "앤스로픽의 게임체인저, 클로드 2.1: 어떻게 GPT-4를 능가하나?" },
+    { "id": "jqunCFTAsWQ", "title": "시맨틱 검색을 코딩 없이 쉽게 txtai로 만듭니다." },
+    { "id": "GLmMKl3OSD8", "title": "gradient(그래디언트)와 Llama 2 모델로 파인튜닝하기: 가격, 장점 및 튜토리얼" }
+  ]
+}

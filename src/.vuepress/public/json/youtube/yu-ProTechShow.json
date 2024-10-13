@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ProTechShow",
+    "name": "Pro Tech Show",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQbT5vkWiMFg_RPulIY6q9AbBlrApfvFcCnmUoB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q8OunEKzTtzZn7Nev15grKTWbvOMxKH01NlnkwtHpp3auQo3jwuTxioOQbaryS9Y1VuPwN8XkA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hp52uZB6I3M", "title": "How Typewriters Broke Email Security" },
+    { "id": "e44znlSwZ2g", "title": "This Protects Me from Ransomware" },
+    { "id": "DFbDlutMjbY", "title": "Exchange Server: Can’t Be Arsed Edition" },
+    { "id": "dlCOglvfQko", "title": "Hyper-V is NOT Dead" },
+    { "id": "rBa8i8GkHnc", "title": "Setting Traps for Hackers" },
+    { "id": "9XMQH4ulTr0", "title": "Build your own app with Power Apps" },
+    { "id": "sEzN2U4Pqcs", "title": "Best FREE Vulnerability Scanner: Nessus Vs OpenVAS (Greenbone)" }
+  ]
+}

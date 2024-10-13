@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "greatscottlab",
+    "name": "GreatScott!",
+    "profile": "https://yt3.googleusercontent.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LMozm7gF6GJBFwKUXKtU5CPRTLs8xgZSB9iUKtySnozsuqybHcwQVUjm_FYEpFMduiLMUOmcDw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MzxBBXpgwrE", "title": "This $0.70 Component SAVES your Circuit?! EB#59" },
+    { "id": "9IFSPqSr6t8", "title": "I tried the Cheapest Arduino Alternative (that Nobody heard of)" },
+    { "id": "8hKpQvw1nNw", "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 5)" }
+  ],
+  "playlists": [
+
+  ]
+}

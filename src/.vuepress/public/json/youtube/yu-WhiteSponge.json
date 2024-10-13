@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "WhiteSponge",
+    "name": "WhiteSponge",
+    "profile": "https://yt3.googleusercontent.com/z25xu3V1XFBup99O59tmJ691CWCYpxZ73vGaY369yGLs7R-98-f1yYz5GE_yQlUceTBThUDHZT4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/91DyRDSN0YLvce6-_ZmfM69CO497JL74Av2LUzCy4JmYG_KO5bI_A3JyvMXcMR8jpMMX4UaHag=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W7PvgKTPu3U", "title": "LEARN THIS 1 TRICK TO SPEED UP! #shorts" },
+    { "id": "lnPjJBgAoJ8", "title": "How to Build and Deploy Your Rust AWS Lambda Function (Full Tutorial)" },
+    { "id": "Rnw-x21kGaA", "title": "How to Build A Rust Backend with Actix Web and SurrealDB (Full Tutorial)" },
+    { "id": "wcKND97-bWI", "title": "Helix TIPS & TRICKS!" },
+    { "id": "Ur3dee6AXzo", "title": "DON'T USE ARROW FUNCTIONS! #shorts #react" }
+  ]
+}

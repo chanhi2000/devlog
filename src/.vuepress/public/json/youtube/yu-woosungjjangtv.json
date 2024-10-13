@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "woosungjjangtv",
+    "name": "우성짱TV",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY7WrJbaTZzprB0zs4d2Bdos2egFFtfi9tyQ-Cu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lP3KAyzoShztdnHVIWlHDu-Tdo7H89uExr0EtKDIeyswEahki4JEXU0IpBgpXQAvT8yHHUESuJo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aDxUbxhp4fA", "title": "Keep Network의 ECDSA & Beacon nodes Vultr에 설치하기" },
+    { "id": "db44T7qFAdE", "title": "Keep Network의 ECDSA & Beacon nodes Digital Ocean에 설치하기" }
+  ]
+}

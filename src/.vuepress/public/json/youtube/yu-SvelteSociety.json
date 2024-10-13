@@ -1,0 +1,73 @@
+{
+  "channel": {
+    "id": "SvelteSociety",
+    "name": "Svelte Society",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZfPOt9490FQMoKilmbLpYCIAiIw4DC08SVXQJ2=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ERYS_WWb_y_rBcIesvxslBQOifCVfZtk95ler7s4J1w27-qWhOyk4F5S9vh0R0e9OP4kCoXvIA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "r_snb9XDX6Q", "title": "This Week in Svelte (19 Apr)" },
+    { "id": "IJh7w6DtOIs", "title": "Svelte London - April 2024" },
+    { "id": "gkJ09joGBZ4", "title": "Svelte Summit Spring 2024" },
+    { "id": "xCeYmdukOKI", "title": "Rich Harris: What You Can Do For Your Framework" },
+    { "id": "8FXwOtj5NpY", "title": "This Week in Svelte (3 May)" },
+    { "id": "3WcU7imp0lQ", "title": "This Week in Svelte (10 May)" },
+    { "id": "O1VoD-xhYqs", "title": "This Week in Svelte (17 May)" },
+    { "id": "Nelx-s33yCU", "title": "GaetanBoisson — Simple and sustainable web development" },
+    { "id": "c4JlSKfj150", "title": "Paolo Ricciuti — Fullstack testing" },
+    { "id": "DOH6I-kHSbk", "title": "Sean Lynch — Intro to LayerChart" },
+    { "id": "s7Os874X_BU", "title": "Grischa Erbe — Spatial Programming with Threlte Studio" },
+    { "id": "Ekt6nAwj49I", "title": "Josh Nussbaum — Building a SaaS modue for SvelteKit" },
+    { "id": "WBr6k9BtWEw", "title": "Jacob Bowdoin — Kitbook: Build, Document, Inspect and Test Svelte Components" },
+    { "id": "EggM2qMzqdU", "title": "Svelte London - May 2024" },
+    { "id": "5JNcz7mOfMI", "title": "This Week in Svelte (7 Jun) - Validation libraries, $effect.active() usage" },
+    { "id": "4idUQlFV02I", "title": "Domenik Reitzner — Svelte 5 Runes explained for Vue devs" },
+    { "id": "T4zwmtUW7Gw", "title": "Ermin Celikovic — Building Web Components using Svelte" },
+    { "id": "4TGwlWFoGvM", "title": "Svelte Dev Vlog (with Rich) — June 2024" },
+    { "id": "G6Z0l2plyIk", "title": "This Week in Svelte, Ep. 68 — Changelog, EATView, Capacitor" },
+    { "id": "sS7adJHcOR0", "title": "Svelte Meets Vite: A Deep Dive with Matias Capeletto (patakdev)" },
+    { "id": "sVp0RukyfYk", "title": "This Week in Svelte, Ep. 69 — Changelog, socket activation, open source support" },
+    { "id": "_vQVkOa5K-s", "title": "This Week in Svelte (8 Mar 2024)" },
+    { "id": "QiAMLIyM894", "title": "This Week in Svelte (22 Mar 2024)" },
+    { "id": "W6GEibSZDKs", "title": "Phoenix LiveView and Svelte with Wout De Puysseleir" },
+    { "id": "MmiBRw8aoXI", "title": "This Week in Svelte (5 Apr)" },
+    { "id": "_DoRbo5lv9o", "title": "Svelte London - February 2024" },
+    { "id": "WQFjaM1-Hm0", "title": "This Week in Svelte (12 Apr)" },
+    { "id": "oH7XFAKh6W8", "title": "Svelte Society San Diego - January 2024" },
+    { "id": "wAttcVDP4Ec", "title": "Lucas Martin - Using SvelteKit to Build An Interactive Portfolio" },
+    { "id": "N8Hs-LVL_f8", "title": "Lukas Stracke - Building an Error and Performance Monitoring SDK for SvelteKit" },
+    { "id": "auqkebVQYXE", "title": "Domenik Reitzner - A brief history of prototyping" },
+    { "id": "YLp4F6615SQ", "title": "This Week in Svelte (16 Feb 2024)" },
+    { "id": "XXoaVj4-1cM", "title": "This Week in Svelte (23 Feb 2024)" },
+    { "id": "sJPHToFOAY0", "title": "This Week in Svelte (1 Mar 2024)" },
+    { "id": "57tawstksmc", "title": "This Week in Svelte (2023 Dec 15) - SvelteKit 2.0!" },
+    { "id": "3B7s5oeLIo0", "title": "Svelte in dynamic e-commerce widgets with Jacob Stordahl" },
+    { "id": "O5ElGJICg0s", "title": "This Week in Svelte (22 Dec 2023) - SvelteKit 2.0.6, handling peerDependencies, action params" },
+    { "id": "kgrIhRQ9sh8", "title": "This Week in Svelte (2023 Dec 8) - validating forms UX, suppress ESLint warnings, bound functions" },
+    { "id": "NK7TMyrzFBQ", "title": "Melting UIs with Thomas G. Lopes" },
+    { "id": "9lK6VvBEtL0", "title": "This Week in Svelte (2023 Nov 17) - SvelteKit 1.27.6, Svelte 4.2.5, new Svelte 5 features!" },
+    { "id": "8HaAagG6V-Q", "title": "Building a SvelteKit Adapter for WinterJS" },
+    { "id": "RVnxF3j3N8U", "title": "Svelte 5: Introducing Runes... with Rich Harris" },
+    { "id": "LnMz7ElNk7Q", "title": "Sirens: Converting Packages to Svelte" }
+  ],
+  "playlists": [
+    {
+      "title": "Svelte Summit Spring 2023",
+      "videos": [
+        { "id": "0bog8-Ay7CU", "title": "Svelte Summit Spring 2023" },
+        { "id": "QZ2am5q4omE", "title": "Dominik G - svelte inspector update" },
+        { "id": "LHe0TqKC6XA", "title": "EmNudge - Get your keyboard out of your way with Svelte" },
+        { "id": "K95TQ-Yh7Cw", "title": "Geoff Rich - Supercharge your app's animation with View Transitions" },
+        { "id": "nN72awrXsHE", "title": "Andreas Söderlund - Superforms!" },
+        { "id": "KxK9iA1ktlU", "title": "Chris Simmons - Skeleton, a powerful UI toolkit for Svelte + Tailwind" },
+        { "id": "Li-N9qfDxtU", "title": "Conner (Semicognitive) - Intelligent Svelte: Unleashing AI with Reactivity" },
+        { "id": "U3rS-nOiN6k", "title": "Jacob Stordahl - Svelte at Scale: Lessons Learned from 1 Billion Monthly Renders" },
+        { "id": "o7lmd5ts_ko", "title": "Eric Bréhault - Svelte, do you hear me?" },
+        { "id": "-QPP-JXICyk", "title": "Grischa Erbe - Threlte 6" },
+        { "id": "HdkJTOTY-Js", "title": "Rich Harris - SvelteSnaps" },
+        { "id": "Y6IbPfMU1xM", "title": "Ivan Hofer - SvelteKit and i18n: let's finally solve this never ending story" },
+        { "id": "UKZDcDNAHXY", "title": "Paolo Ricciuti, Antonio Sarcevic - Hacking SvelteLab" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "SergeyKargopolov",
+    "name": "Sergey Kargopolov",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNAf_CU1iiu8jGCd6GKw95quUpekpqIPuw5MaKVxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/m89HIPGkzZ1VFVjbwj9mH5_F46mcBgJpw7EIWlmv2TfLgumXpkBJz6lS5XD0c1oI5tFGaOksrto=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j6WA9aEwjtk", "title": "Deploy Spring Boot to AWS ECS:  What is AWS ECS Task, Service and Cluster?" },
+    { "id": "4ZNkTH0lRjI", "title": "Docker Hub vs Amazon ECR" },
+    { "id": "uYo0FuUZSho", "title": "Amazon ECS Load Balancing | Deploy Spring Boot Microservices to AWS ECS Fargate" },
+    { "id": "cORDvFYE1og", "title": "Apache Kafka for Microservices: Kafka and Database transactions." },
+    { "id": "TdGd79EyXdE", "title": "CQRS Design Pattern with Event-Driven Microservices" },
+    { "id": "Y1PqfGGIuRQ", "title": "Saga Orchestration Pattern with Event-Driven Microservices" },
+    { "id": "UI42G5wyoow", "title": "Event Sourcing: Introduction" },
+    { "id": "SM20SAb3J0E", "title": "Orchestration SAGA - Compensating Transactions. Introduction." },
+    { "id": "Wfdb3bx4W9U", "title": "Test Driven Development Java, SpringBoot: Mini Course" },
+    { "id": "45CLd56K_xQ", "title": "Rebalancing and Partition Assignment in Apache Kafka" },
+    { "id": "8G3VDAfg8Z4", "title": "Apache Kafka Consumer Groups - Introduction" },
+    { "id": "XNZafkb6q0o", "title": "Apache Kafka for Microservices: Topic and Partitions" },
+    { "id": "Vz2DHAHn7OU", "title": "Apache Kafka for Microservices. Introduction." },
+    { "id": "SHdRwk1SKQ4", "title": "Apache Kafka for Microservices: Messages and Events" },
+    { "id": "inXS5XEYGnc", "title": "Event-Driven Architecture with Apache Kafka. Introduction." },
+    { "id": "crkoQOo239I", "title": "How to Disable a JUnit Test?" }, 
+    { "id": "LeIAs7EdjwM", "title": "JUnit Test Method Structure. Arrange, Act and Assert." }, 
+    { "id": "_Rqrq6VKpsY", "title": "Enable Logging in Spring Boot Web App" }, 
+    { "id": "vDYFBS_ElQE", "title": "Unit Testing UITextField(s). Email Address Text Input Content Type." }, 
+    { "id": "7otlpZmnZKg", "title": "UI Testing Swift. Screenshot Current App Screen." }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "startup_jobs",
+    "name": "스타트업잡스 StartupJobs",
+    "profile": "https://yt3.googleusercontent.com/VDKOeMdrcgwvScOy8jXQv-A8wB-OQpF7YSf9n-5LSY_DwKMIH-eKrNjiZPlc0PDc8DlqwH8b=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n4xtjKY1rkVq-JP0fc9L54En6cdQCdwsr5tnYgwOdTQaqsidAcrG8DpDi2Nb8pZUAFhNlW9W=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lUC6t1R5vZQ", "title": "마이크로소프트 팀즈로 효율적으로 협업하는 법" }
+  ]
+}

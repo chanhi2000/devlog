@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "dabidstudio-ho7fh",
+    "name": "다비드스튜디오 dabidstudio ",
+    "profile": "https://yt3.googleusercontent.com/GfiTX7ayk-5aJDqygZcdG5gM2Fh43CegpUt7QiDtuHWQ46T72VhLQ8Q8xEsMqfUG-d0yer0trGk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1yAILsCyhTU", "title": "[코딩필요없음] Chat GPT로 실시간 비트코인 대시보드 홈페이지 만들기" },
+    { "id": "kpgm02v8zUU", "title": "[코딩필요없음] Chat GPT로 경제뉴스 정리하기 -  수집,가공,중요도분석까지" },
+    { "id": "XdMsYDkXiX0", "title": "Chat GPT 데이터분석 한글깨짐 해결하기" },
+    { "id": "oMr0tPHPh6I", "title": "3초만에 파이썬으로 웹데이터 수집하기" },
+    { "id": "zNOeveAgNu8", "title": "Chat GPT로 번역 잘하기 - 상황별 프롬프트 사례 소개" },
+    { "id": "xsTakaujDxk", "title": "(노션 파워유저가 공유하는) 제대로 노션 쓰는 법 - 나만의 위키 만들기" },
+    { "id": "s6rX8LLgTFQ", "title": "파이썬으로 나만의 AI 챗봇 만들기" },
+    { "id": "BAsCspmGuJE", "title": "내가 만든 Streamlit 앱 무료로 배포하기" },
+    { "id": "VYJ0kEKCsSE", "title": "파운데이션 모델, 파인튜닝,  컨텍스트 길이?" },
+    { "id": "cb2M9GeKNj4", "title": "GPT-4o vs GPT-4 비교하기" }
+  ],
+  "playlists": [
+
+  ]
+}

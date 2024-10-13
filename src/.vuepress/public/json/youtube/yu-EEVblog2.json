@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "EEVblog2",
+    "name": "EEVblog2",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZCBnS2ciezvF9JdrG-AwMXRmYYNyaUk-0XhaDk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pr_scXQQa2BF4mhsVoXN2Qd-Z_tC2DhKj-DG51GLw4XpofnXvtU732MAiu-WBfRbbXlrAf-NXJ0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GOd3cFgSrRY", "title": "EEVblog SpaceX Starship Launch LIVE" },
+    { "id": "taKKSSi0Td8", "title": "Synology NAS FAIL Adventure" },
+    { "id": "5S3ZZ8h4OA4", "title": "LIVE: Intuitive Machines Odysseus Lunar Landing" },
+    { "id": "r7Cw3GVXl44", "title": "Open Source Tesla Roadster Firmware?" }
+  ]
+}

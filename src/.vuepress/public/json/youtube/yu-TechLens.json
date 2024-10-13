@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "TechLens",
+    "name": "TechLens",
+    "profile": "https://yt3.googleusercontent.com/rJ8Uw3kcfF69qOb87ozr5inrRUGdUCmh2vbSGAxRRs7TPzWgeaDOH04-ZHR9itRm9mapBvKz9A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nKZUQD_3L-GhkXenkHgJnUTOBd6Uhe7w6KWTwiENwve1_L63-MSIrX4dyjFBOlIYaRL8VcD69PE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bc-lTgB8Ff8", "title": "Your Next GPU Will Be Free... **And you'll hate It" },
+    { "id": "YFaFAxpxEDo", "title": "People Are Destroying Their Own Systems!" },
+    { "id": "WFb3MwXbvDs", "title": "Switching to AMD Pt 2: The Bugs" }
+  ]
+}

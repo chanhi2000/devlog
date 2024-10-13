@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ScottSmithDev",
+    "name": "Scott Smith",
+    "profile": "https://yt3.googleusercontent.com/UjcMom96yK2D8QbpzA2taIwMFm6CwTJ_eFDkYjZXGLn0oaPOzvCns9x6WzsxlpAMHbv4VTmQ1Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7s3M8P5aTlhEjAJkURQBlIJuR6AtSNlEy6EPCvCcz0jzTFuNM4xJo2nOezgIPeTHhJHd5c2XQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7F6tKPkK4jA", "title": "SwiftUI: Custom Rows without Separators! Beta Bugs Uncut | iOS, Swift" }, 
+    { "id": "hk-bnCVgsww", "title": "SwiftUI: How to resize an Image — in 60 seconds | iOS" }
+  ]
+}

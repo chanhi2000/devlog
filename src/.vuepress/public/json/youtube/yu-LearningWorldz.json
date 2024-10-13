@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "LearningWorldz",
+    "name": "LearningWorldz",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQbWNLFeAQnDiEPn9zpFTrY3aOpLHpBANcORD_s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7rCXJcfIw_E", "title": "Android Kotlin MVVM Retrofit2 on RecyclerView | Picasso | 2024" },
+    { "id": "w9gm6Me7tLM", "title": "Sioyek: A PDF Reader For Researchers??" }
+  ],
+  "playlists": [
+    
+  ]
+}

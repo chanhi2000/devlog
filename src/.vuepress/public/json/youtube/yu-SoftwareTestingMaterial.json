@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SoftwareTestingMaterial",
+    "name": "Software Testing Material",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRWG3GKK324zfhdKjkcvwlvh3E7dZzRVuQfktx5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HM1RcEGM6xOgVxXN7wA5RmXS2Ww5ayUOvIijZQX6LzD7MzpCLH7Qok6y8oM6nYPdEy6JdX2NDg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "g0PrXoWKM2Y", "title": "How To Write TEST CASES In Manual Testing | Software Testing" }
+  ]
+}

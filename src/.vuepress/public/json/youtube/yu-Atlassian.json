@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Atlassian",
+    "name": "Atlassian",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZcB8H-9lVvq-ogtL4VcF5CAcic3tPfx8B7xiit9w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MbjkgIGYQZBZkkMvY_RnSv3bWvkxG5wCsuzwGnSrQ4T_zUEvuPTf9uj-G2OzaasCxqwHra3bvA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gLWSJXBbJuE", "title": "Atlassian Stash - Git workflows in the Enterprise" }
+  ]
+}

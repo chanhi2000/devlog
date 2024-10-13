@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "TylerPotts",
+    "name": "Tyler Potts",
+    "profile": "https://yt3.googleusercontent.com/6u4RI2wDwUBAb_i580UO5JLloZlzJ_aKoHpKBRVbJyZjh_TT-0o-QChGEdzU_H9dph6nCN2Y5m8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bwyTZo8WNZd7P6nMhHP42hw3bbmJlax-ZMScrGXIBetIS-oqk_4DWCjzHHUXR56blW_53ktmdvw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NPI8MD6SyYs", "title": "Simple Fullscreen Toggle with JavaScript" },
+    { "id": "kNwQjs_xy1Q", "title": "How I Plan and Organise Freelance Work with Scrintal!" },
+    { "id": "yv0H4ok01Jw", "title": "Starting a VR Development Business From Scratch!" },
+    { "id": "j-zjFom9Z7M", "title": "Build a Todo App with Vue JS and Vueform" },
+    { "id": "SFvgJf5cFAQ", "title": "Build a Camera App in Vue JS" },
+    { "id": "dx8tyAkLL28", "title": "Build Your Next API in Less Than 7 Minutes with this FREE Tool" }, 
+    { "id": "YnnQymvBrY8", "title": "Build a Landing Page using React JS & Tailwind CSS | Newsletter Sign up page" }, 
+    { "id": "EfIwxy3Qumc", "title": "Build a Recipe app in VUE using Router & Vuex! (Composition & Options API)" }, 
+    { "id": "XAFWag-_FGM", "title": "Build a SCREEN RECORDER WITH AUDIO in JavaScript - JavaScript Beginner Tutorial" }, 
+    { "id": "R81g-2r6ynM", "title": "Build a FULL STACK app with React, Express, Node & Mongo MERN STACK" }, 
+    { "id": "oiX-6Y2oGjI", "title": "Build a CALCULATOR APP in REACT JS | A React JS Beginner Tutorial" }, 
+    { "id": "eue3jbwxQS0", "title": "Build a Twitter UI Clone with Vue JS & TailwindCSS ~ Home Page" }, 
+    { "id": "Vn6FxqvsdMU", "title": "Build a Vue 3 Quote app with a Node JS API ~ With Tailwind CSS, Vuex & Router" }, 
+    { "id": "UHewcsv6uJY", "title": "Build a Movie App With Vue JS - A Vue 3 Beginners tutorial" }, 
+    { "id": "NuZOwsmzcro", "title": "How To Code Your First Mobile App Using React Native" }, 
+    { "id": "-eVgT9pLHhI", "title": "Learn JavaScript & CSS For Beginners by Creating a Dynamic Page Switcher" }, 
+    { "id": "AjV7k7t78Ik", "title": "Build an Income Tracker in Vue JS ~ Composition API" }, 
+    { "id": "AvsuZ3L5z28", "title": "Turning my 10 Minute Game into a MOBILE game ~ 2D Game Dev ~ LIVE" }, 
+    { "id": "yZhbKkxFcN0", "title": "Neomorphic Login Form Design with HTML, CSS and Javascript" }, 
+    { "id": "xTN3pvoYENg", "title": "Responsive Navbar with nested menus with HTML, CSS & Javascript" }, 
+    { "id": "9zA8cB-54SA", "title": "CSS GRID With Flexbox | Beginner to Pro Tutorial" }, 
+    { "id": "9-nvPY1hNcw", "title": "Colour Generator App with Copy To Clipboard using Javascript & CSS" }, 
+    { "id": "XhNMwxXcKQM", "title": "Responsive Gallery using CSS Grid with No Media Queries" }, 
+    { "id": "TbzUQ0BXA8E", "title": "Animated Text Hover Effect in HTML & CSS" }, 
+    { "id": "3rjHkTjCyBA", "title": "Awesome Animated Text Reveal ONLY CSS | CSS Beginner Tutorial" }, 
+    { "id": "JLc-hWsPTUY", "title": "Build a Weather App in VueJS | Vue Beginner Tutorial" }, 
+    { "id": "05LZ6-_FZj8", "title": "How To Code Your First Mobile App Using Vue Native" }, 
+    { "id": "nT4LZEbzohc", "title": "Making a Game in VueJS using Vuex | VueJS Tutorial" }, 
+    { "id": "UG2LXxILAnM", "title": "Build a Todo List App in HTML, CSS & JavaScript and Deploy it in 2023" }
+  ],
+  "playlists": [
+
+  ]
+}

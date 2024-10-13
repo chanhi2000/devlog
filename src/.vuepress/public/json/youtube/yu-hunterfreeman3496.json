@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "hunterfreeman3496",
+    "name": "Hunter Freeman",
+    "profile": "https://yt3.googleusercontent.com/3maxexFfkhiF6ap8HGbEGgxwoFsGO7T4UL0v44coRKXu-D9COLPIoq42G5IZySaPOFCAYndFRA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "6_w-x7r0Dxw", "title": "I Pre-Released an IDE" },
+    { "id": "v-Wx8H3yOyA", "title": "I'm soon releasing an IDE" },
+    { "id": "HnCDTxqXQno", "title": "I'm making an IDE that runs on Linux (no sound)" },
+    { "id": "TwaOkgR3rsg", "title": "IDE from scratch with Blazor progress" },
+    { "id": "nDPTbgOmo2Y", "title": "My IDE from scratch Progress" },
+    { "id": "TPJauvMWsHo", "title": "Coding an IDE - No Talking (see description)" },
+    { "id": "OzUd48Lzr6o", "title": "I'm tutoring, $20 per hour (Computer Science, Math, and Physics)" },
+    { "id": "QsrnjaDaZZw", "title": "I made a Unit Test Explorer with Blazor" },
+    { "id": "XHUKLWllIgo", "title": "I'm making an IDE" },
+    { "id": "hC4E2-LNxB4", "title": "Text Editor NuGet Package | Luthetus.TextEditor v1.4.0" },
+    { "id": "03BdNEFIurQ", "title": "Common NuGet Package | Luthetus.Common v1.4.0" },
+    { "id": "FAPXMy1vjxw", "title": "Render any Blazor Component with Input HTML Elements" },
+    { "id": "8_Z4AThin8Y", "title": "Razor Compiler Service in a Blazor Text Editor" },
+    { "id": "MSrKz8Gkl24", "title": "I added Vim Emulation to my Blazor Text Editor" }
+  ],
+  "playlists": [
+
+  ]
+}

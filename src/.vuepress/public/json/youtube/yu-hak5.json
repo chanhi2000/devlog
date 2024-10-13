@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "hak5",
+    "name": "Hak5",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYfC73yVZ3Q2ae40XM45lPW85Q7Odnao3psQEjKcA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3IWqGQ1e-1qjpEhmY3fZeKzP43KKIY8s1wl1XTnkkElq0HEp_WUS3zU3lCIilC1oMGujz_rr=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xNgCEqKK4IA", "title": "Encryption Market Heating Up - ThreatWire" },
+    { "id": "7HM_XMP5KwM", "title": "CVEs ARE DYING - ThreatWire" },
+    { "id": "OSqlcsAaKB4", "title": "Apple’s Unfixable Vulnerability - ThreatWire" },
+    { "id": "yGLDZTF7ZaA", "title": "PAYLOAD: ICMP Data Exfiltration - USB Rubber Ducky/Exfiltration [PAYLOAD MINUTE]" },
+    { "id": "pF7yf6YuEdc", "title": "Stealth Payload Tips - Obfuscation & Lock key triggers - Hak5" }, 
+    { "id": "Fu4Pk9o_rhg", "title": "Python risks system takeover & Lockbit prompts USB trades - ThreatWire" },
+    { "id": "b3_usDP6E_4", "title": "Cisco, VMware, Citrix Vulnerabilities - ThreatWire" }
+  ]
+}

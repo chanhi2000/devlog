@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "AivarsMeijers",
+    "name": "Aivars Meijers",
+    "profile": "https://yt3.googleusercontent.com/Fhlnuri81toOczk_GaX-LO63UmS1mFN7qegchT8Ht-RXitzV_eqoBHnUnw08oYkFJ4fRrfW6fwg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-NQa0VKMbjD7Q4_SgpXKzZ8ELjMci7RlDRGqzUS28NBmRQhPrADA8OIIq0pBJ4xl7MTpSRxU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [ 
+    { "id": "n4ShFnSIgcY", "title": "First Ride on KTM Duke 390 to get Inspiration for My Next Mobile App" },
+    { "id": "3tPXx_eEQss", "title": "How to become a Developer in 40s and Why I do not use Flutter" },
+    { "id": "okrpUkDnr6o", "title": "Ready to build the first iOS indie App?" },
+    { "id": "IvEBnFZ-GF0", "title": "How to Find Good App Ideas" },
+    { "id": "U9javWiZlG4", "title": "12 Projects in 12 Months - Getting my life together as iOS Dev" },
+    { "id": "iIJ3QbGPz7w", "title": "SwiftUI & Swift - creating project boilerplate" }
+  ],
+  "playlists": 
+[
+  ]
+}

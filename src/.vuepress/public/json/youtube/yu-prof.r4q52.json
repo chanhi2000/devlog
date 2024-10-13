@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "prof.r4q52",
+    "name": "Prof. Roque Gimenez",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQDVpIojpFHycEscCqPFf0yZxza2LaOGaKkq43oInY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X__-yJ8jBkHpQrYfqcwA-T2bbAlg7QZTf0zyI9CLVdNj0Qs4oushHb1-HisbOvXMrUM8zNu4YA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m2BuSLBxP74", "title": "Dashboard con angular , formulario reactivo" },
+    { "id": "8WljWE32IUM", "title": "clase - 2023 09 22 - c# con visual studio... crudo crudo el video" },
+    { "id": "yCzE0Q1BuOE", "title": "instalar c# en #visualcode con un ejempolo basico xd" }
+  ]
+}

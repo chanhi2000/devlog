@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-gn2mw4lm4m",
+    "name": "데브리",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZS59iU2AAJreXh2O7inQTa7ZlMt_JB_JApOmZ2z=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j1q1xnKxbBy53zbSz9awUQvyR28eoGYP_xYGDaJhd2JDSbXjDfVKhUZuP4oKYV0oSLG5VGQoXA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "g1b8bILajcA", "title": "VUE3 composition API 간략하게 알아보기 (ref, reactive, methods, v-model )" }
+  ]
+}

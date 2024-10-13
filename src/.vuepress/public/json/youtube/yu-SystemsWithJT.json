@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SystemsWithJT",
+    "name": "Systems with JT",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsLl3yLuzhubQp1B5RpIJGRmsBKZVHbNdFLBby=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p5SWMZAjhvoR_bgaORBozxcAByktnZPtIJoJYD7EFOeK6Jd4eDUbhYLCVuTpjs2SMt2ZiWeErGY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DAlN9GIk3ag", "title": "Looking at the first web browser written in Rust (Nov 13, 2022)" }
+  ]
+}

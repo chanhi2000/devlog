@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "UltrawideBenchmarks",
+    "name": "Ultrawide Benchmarks",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbK0qTdKN5mzF5nkkX0SqvyMUgn-iDPSVtiMapg9g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dgeMFRuDysHTYrh0vZOK7UF1uqMtMa4R_vpw7uryFu_sNkyJGfayWiekdrdNkcdaNMfsntLQfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xeIMyFXSQ8E", "title": "A Single RTX 2080 Ti on a 560 Radiator!" }
+  ]
+}

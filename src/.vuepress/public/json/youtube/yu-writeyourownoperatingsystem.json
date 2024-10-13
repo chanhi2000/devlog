@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "writeyourownoperatingsystem",
+    "name": "Write your own Operating System",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQ-FiQvdyxyDa3zN1N_O1BN4T9TsLv4drdmioM9sw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YGtLPBAOAYg0qI2AIy3Xrnci4MRD0vHZ_nIc0DObGyqcVkw9JiqMQxnWwhAgXnUZnBV_uzQC=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IWWbem7a0fw", "title": "Apache HTTP / Web-Server with PHP" },
+    { "id": "TaRpI38Zhug", "title": "16B - SQL-Server (w/ Kerberos Authentication)" },
+    { "id": "ZUmDe9IzefM", "title": "16C - SMB/Samba/CIFS Server (w/ Kerberos Authentication)" },
+    { "id": "vZq9lOnxFKU", "title": "16A - Kerberos-authenticaton to SSH-server" },
+    { "id": "Yq2zqdTxt9M", "title": "12 - OPNsense Firewall installation" }
+  ]
+}

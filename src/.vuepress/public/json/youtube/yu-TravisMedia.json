@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "TravisMedia",
+    "name": "Travis Media",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNaLCMR-fUkhK83cpDI6dtYfOLJckzHpLgh1-aS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c3c8tRqMTf640F5eoVLPPOBaOzZP0vpd8FENF4h71bZphDPK58jcmBGkJ-I6GFGoaXWBg4mq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0XFU-cPjYh0", "title": "Developer  Skills You MUST Have For The AI Age (with recommended resources)" },
+    { "id": "GCoANs1jRC0", "title": "Why Rust is NOT a Passing Fad..." },
+    { "id": "-OrodVr2TKQ", "title": "Why Great Developers DON'T Create Content (and a lesson to learn)" },
+    { "id": "xDEP3jqj1U8", "title": "Reading Good Books WILL CHANGE Your Life" },
+    { "id": "1MWxLUOMZmk", "title": "YouTube Tech Influencers Are Not REAL Developers?" },
+    { "id": "2RmISQvpsrU", "title": "Binary Search in 3 Minutes | Algorithms For Self-Taught Developers" },
+    { "id": "ODk38qJ1A3U", "title": "The Rust Standard Library is SO Confusing...Until Now!" },
+    { "id": "68N5XMJWh88", "title": "The App YOU or I Could Have Built... ShipFast" },
+    { "id": "TqS4FMSxbrU", "title": "3 Amazing New Docker Features Explained | Build Cloud, Scout, Init" },
+    { "id": "MUImpPHNpvE", "title": "The Current State of AI and the Future of Developers" },
+    { "id": "r2zuL9MW6wc", "title": "Kubernetes Explained in 15 Minutes | Hands On (2024 Edition)" },
+    { "id": "FryJt0Tbt9Q", "title": "Every Developer NEEDS To Know 12-Factor App Principles" },
+    { "id": "B_HR2R3xsnQ", "title": "5 Signs of an Inexperienced Self-Taught Developer (and how to fix)" },
+    { "id": "Satj3v9twEc", "title": "Microsoft Adopts Rust AGAIN For This Major App?" },
+    { "id": "qYXnTZGbPu8", "title": "State of Kubernetes Jobs 2024 | Surprising Findings!" },
+    { "id": "npsv_-SKZVA", "title": "DITCH Your VPN, and Adopt THIS Zero-Trust Solution" },
+    { "id": "mWWsg2eKxRY", "title": "I’ve Changed My Thinking On Self-Taught Development (...a bit)" },
+    { "id": "7aFgeUG9TK4", "title": "you need to build a RUST desktop app!!" },
+    { "id": "hcQ7avj6Zrg", "title": "A Crucial Habit I NEVER Considered As A Developer" },
+    { "id": "fW78pbtJ718", "title": "How To Win At Life In 2024 (5 Principles)" },
+    { "id": "eG9aLKAKhdc", "title": "Cybersecurity Experts NOW Recommending These Languages" },
+    { "id": "NDFMa5FSQuI", "title": "Setting Up A Python Environment for Data Analysis and Machine Learning" },
+    { "id": "JGwcaxI5Ocg", "title": "The ONE AI Tool I Use For Everything | Voila" },
+    { "id": "uuvjOvAdnOk", "title": "CS Professor Sounds Alarm on AI and Programmers" },
+    { "id": "RPyXCKMhNew", "title": "5 Terminal Aliases Every Developer Should Use" },
+    { "id": "LnKoncbQBsM", "title": "Linux File Permissions in 5 Minutes | MUST Know!" },
+    { "id": "49HtMTgCIUs", "title": "ChatGPT Rebuilds My App Completely | Full-Stack" },
+    { "id": "4y1a4syMJHM", "title": "Let's Build a Talking ChatGPT Interview Bot | Hands On Project" },
+    { "id": "8_0DJ9FOlOM", "title": "GitHub Copilot X Explained | A big step forward..." }, 
+    { "id": "LCvBPsuHe6g", "title": "Using Cloud Firestore For Your REACT Backend 2023 | CRUD App" }, 
+    { "id": "2doSoMN2xvI", "title": "AWS Networking Basics For Programmers | Hands On" }, 
+    { "id": "h66RrCn5rvQ", "title": "Automate AWS EC2 with Python | DevOps Coding Challenge" }, 
+    { "id": "CjKhQoYeR4Q", "title": "Getting Started With AWS Cloud | Step-by-Step Guide" }, 
+    { "id": "i7ABlHngi1Q", "title": "Docker For Beginners: From Docker Desktop to Deployment" }
+  ]
+}
+

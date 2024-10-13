@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "MarcelDempers",
+    "name": "That DevOps Guy",
+    "profile": "https://yt3.googleusercontent.com/E6pu5181_z1O-CnD1UHCof90y7WJtpYiNsxoMpJ6FJXcl6XQ3AoBFclI3yk37CbdC8zSg6Tk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Aho1S7PkjbBrlfw_OwY0TBCFAC3tSRM9iijSeZadKDps0jODeQysNwSLILLfLJAIbALkQu_Yqg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TjNDgGyKy9w", "title": "What are Kubernetes HEALTH probes ?" },
+    { "id": "5EkOIKn9EeM", "title": "What is Kubernetes AFFINITY ?" },
+    { "id": "RcHGqCBofvw", "title": "Create your own Custom GitHub Actions runner!" },
+    { "id": "iYwE3h0p7Zs", "title": "How to run a basic PostGreSQL in Kubernetes!" },
+    { "id": "qqR0c-qcILI", "title": "The COOLEST CLI for Kubernetes! | 2min TECH TIP" },
+    { "id": "A6XkHzdPh3A", "title": "What is Infrastructure as Code ?" },
+    { "id": "aqiOyXPPadk", "title": "Detect Kubernetes misconfigurations before its too late | Introduction to Datree" },
+    { "id": "X5W_706-jSY", "title": "Introduction to Flux CD on Kubernetes | GitOps | CICD" },
+    { "id": "FC2JMBYDcJE", "title": "How to replicate PostgreSQL with Docker for beginners" },
+    { "id": "d1ZMnV4yM1U", "title": "Python to Kubernetes" }, 
+    { "id": "u0qtgUMLua0", "title": "Storing Secrets in GIT | GitOps | Kubernetes" }, 
+    { "id": "1zcXudjSVUs", "title": "Understanding KUBECTL - Learning Kubernetes" }, 
+    { "id": "_NtRkBipepg", "title": "Introduction to Service monitors for beginners | Kubernetes monitoring" }, 
+    { "id": "Qy2A_yJH5-o", "title": "Getting Started with EKS and Terraform" }, 
+    { "id": "Hc-XFPHDDk4", "title": "Introduction to Linkerd for beginners | a Service Mesh" }, 
+    { "id": "hfUIWe1tK8E", "title": "RabbitMQ : Message Queues for beginners" }, 
+    { "id": "PW44JaAlI_8", "title": "Making Kubernetes disappear with Shipa" }, 
+    { "id": "1mNYSn2KMZk", "title": "How to build a Kubernetes Webhook | Admission controllers" }, 
+    { "id": "6kmHvXdAzIM", "title": "Fluentd on Kubernetes: Log collection explained" }, 
+    { "id": "JeAHlTYB1Qk", "title": "How to learn Kubernetes in 2022" }, 
+    { "id": "WyWCa6WVx60", "title": "How to configure PostgreSQL | Learning | DevOps" } 
+  ]
+}
+

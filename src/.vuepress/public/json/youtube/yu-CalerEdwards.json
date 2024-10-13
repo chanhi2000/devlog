@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "CalerEdwards",
+    "name": "Caler Edwards",
+    "profile": "https://yt3.googleusercontent.com/NZ5e_kpvFs5S924bL0dS9nh10wa42jn6iQOEZ07idTA7wbSU_Tul8MVay0mTMb51sxxp0lcZzC8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5CME7ym-7UhHSNjqp0j-4taJQv4Vn6AtYcIXC6oIeSMMarM9nHWWeqf7NFSV79gCL6s9Dz2qCA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TjvrHEpBkRI", "title": "AI Tool for UI/UX Design Professionals" },
+    { "id": "m6cFikPEL_c", "title": "Design Better Responsive Components in Figma - UI Cards" },
+    { "id": "cTT9JWBfNnc", "title": "Building a Website Design has never been Easier... (Framer)" },
+    { "id": "vA72FjoaOp8", "title": "The Future of Design & Development, Codux..." },
+    { "id": "FFspeDgA37Y", "title": "Redesigning a Random Website I found on the Internet" },
+    { "id": "-goAT0t5_3w", "title": "Creating a 3D Interactive Website (Wix Studio + Spline)" },
+    { "id": "AB1ZVKUut_o", "title": "Building a responsive landing page with Wix Studio..." },
+    { "id": "GG32zFKmMcM", "title": "Creating a Style Guide with Webflow - Design. Build. Launch. Episode 4" },
+    { "id": "87HgZnsM2Hc", "title": "New Figma Variables - Crash Course (Variables, Modes & Design Tokens)" }
+  ],
+  "playlists": [
+    
+  ]
+}

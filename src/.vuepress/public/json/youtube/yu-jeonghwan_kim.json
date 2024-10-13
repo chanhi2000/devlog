@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "jeonghwan_kim",
+    "name": "김정환",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR46cpokaSZGkuquTR5-Yz--2-RrZDSTMWsY5ymk6E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "dD2xZwLat4s", "title": "쿠키 보안 Secure, HttpOnly | HTTP 쿠키 #4" },
+    { "id": "XLS4IESpv30", "title": "cookie-parser, js-cookie. 서버와 브라우져에서 사용하는 쿠키 라이브러리 | HTTP 쿠키 #5" },
+    { "id": "s7-p_C50CFo", "title": "[리액트2부] 부록. MyReact 컨택스트 개선하기" },
+    { "id": "EQiFS-mHMd8", "title": "Accept-Encoding, Content-Encoding | HTTP 컨텐츠 협상 #2" },
+    { "id": "O5ZSFfVHnrA", "title": "Accept-Language | HTTP 컨텐츠 협상 #3" },
+    { "id": "GdW11IyfXZE", "title": "User-Agent | HTTP 컨텐츠 협상 #4" },
+    { "id": "pbILHuENbDI", "title": "Next.JS | HelloWorld" },
+    { "id": "F-gOnHjjvxc", "title": "컨텐츠 협상과 캐시, Vary | HTTP 컨텐츠 협상 #5" },
+    { "id": "g_6e-vJjSkc", "title": "아키텍쳐가 갖춰진 서버 프레임웍 Nest.JS | 헬로월드" },
+    { "id": "wNiMk5ljVes", "title": "[HTTP 캐싱] 케시 제어를 위한 헤더. Cache-Control" },
+    { "id": "SYe593NtfNs", "title": "서버가 브라우져에 붙인 스티커, 쿠키" },
+    { "id": "i0OWReJla5M", "title": "쿠키 요청 범위를 설정하는 법. Domain, Path | HTTP 쿠키 #2" },
+    { "id": "3MUkvIPd2_k", "title": "쿠키 생명주기 Expires, Max-Age | HTTP 쿠키 #3" },
+    { "id": "ocuA9Dc5_2U", "title": "HTTP 클라이언트 자바스크립트 라이브러리 비교 (XHR 기반). SuperAgent, Axios" },
+    { "id": "2Mmh6cETKZQ", "title": "Fetch 기반 HTTP 클라이언트 자바스크립트 라이브러리 비교. Ky, Wretch" },
+    { "id": "I4ERQ986_M0", "title": "시간 기반 캐싱을 위한 헤더. Last-Modified, If-Modified-Since" },
+    { "id": "0Oqv7q91Mb0", "title": "내용 기반 캐싱을 위한 헤더. ETag, If-None-Match" },
+    { "id": "HF4twC0xf54", "title": "왜 fetch 함수는 프라미스를 두 번 사용할까?  | 자바스크립트 fetch 사용법" },
+    { "id": "aYNrHsf36Ww", "title": "HTTP 진행율은 어떻게 계산할수 있나요? | 자바스크립트 fetch 사용법" },
+    { "id": "zA_YAuwPrcA", "title": "서버 자원을 보호하기 위한 서버와 브라우져 간의 약속, CORS" }
+  ]
+}

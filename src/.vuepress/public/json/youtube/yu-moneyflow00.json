@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "moneyflow00",
+    "name": "머니플로우 MoneyFlow",
+    "profile": "https://yt3.googleusercontent.com/vEjeoSnrOCACnAftYQSqaYLRFDYsCE9FL3Y_CmeKI-8x0py75KLqEcGCP1NCEoIJ5Ejcma9w-B0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gp0ebxZcNB7nzk-MSQMq2VPD66Psaaf70BPmqZJRVvzJzo_dMFzcgCNd3Mn8YSlVGD5TMrZ_8w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "olRqEoiWy6Q", "title": "프롬프트사용법: 가장 완벽한 GPT 프롬프트 만드는법" }
+  ]
+}

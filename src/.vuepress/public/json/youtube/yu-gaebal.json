@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "gaebal",
+    "name": "개발자로 취직하기",
+    "profile": "https://yt3.googleusercontent.com/tObZM7Rw217-KVlltk8TRbfDarKck0LjY7l3ujGpjZHZK8QM4HwGxVLtcjLAwVz5rVV1L3NkHA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/83AIXY5zTzKFbCnBlimQQXYbPygphZWTQPXJls9GqdqaQtFQlUjtgrFeSaPWgmQ0QfmVP8h5JfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FIja-6VvQNY", "title": "미국 대학원 준비 초단기 3개월 준비 과정 타임라인 | 스탠포드, 카네기 멜론, UIUC(일리노이 주립대), UT Austin(텍사스 오스틴), 석박사(Ph.D.) 풀펀딩 합격" },
+    { "id": "S2JDw9oNNDk", "title": "타겟넘버 DFS 재귀함수- 자바 java 프로그래머스 문제 풀이" }
+  ]
+}

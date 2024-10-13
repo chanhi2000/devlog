@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "tom-delalande",
+    "name": "Tom Delalande",
+    "profile": "https://yt3.googleusercontent.com/nntMLfLzNm9PWSQzbxdE38sa7bObZRSwb1Ff-i9BGvhzKLxDFYnqW-5X8xMNCthjbI9QpCcbUuE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3HxLe9innVw", "title": "My latest weekend project. Mixing the scalability of SQL and with the easy of use of  spreadsheets" },
+    { "id": "Cd9aRtwj9xA", "title": "The cloud is over-engineered and overpriced" },
+    { "id": "NXXiKl8g6Rw", "title": "JWTs are insecure session tokens" },
+    { "id": "-VnB79DuPVw", "title": "Why YouTube has blank boxes when loading" },
+    { "id": "pnNW4_1DqFY", "title": "AI is more than just ChatGPT" },
+    { "id": "0ADhQEGCVUQ", "title": "Assembly is better than Python" },
+    { "id": "Ef-3r7RVZAM", "title": "Swift for Android, Kotlin for iOS" },
+    { "id": "EhXpJo3YbKg", "title": "The better alternative to Markdown" },
+    { "id": "LdvcIhfZJcE", "title": "Kotlin for Typescript developers" },
+    { "id": "ZtsnLuLf5YU", "title": "How leveraging events can simplify your app" },
+    { "id": "-MbTj8DGOP0", "title": "Comparing 10 programming languages. I built the same app in all of them." }
+  ]
+}

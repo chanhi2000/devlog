@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Goodgis",
+    "name": "Goodgis",
+    "profile": "https://yt3.googleusercontent.com/1qMz-rH5iQI4GgCKPevtgYl_VMAfnOYJTDac4_xi8VSF-HPSKfWiiFLMpCAPI17JmWBF0sNDR0I=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xjM85EFjBKJlfyEVHIfVCXMhUGZxeBJtYVtub-pp_q2456iHwiboCC84BKpqXj1BZ06OpHgi_qE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4aoFW0lO0Uw", "title": "Making Yet Another Cozy Game in Scratch" },
+    { "id": "cZkfnLtKcAc", "title": "Making a Game With C++ and SDL2" },
+    { "id": "Nsfuj8hFrVU", "title": "Making a Game in Lua with No Experience" }
+  ],
+  "playlists": [
+    
+  ]
+}

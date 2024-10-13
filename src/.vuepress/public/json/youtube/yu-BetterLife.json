@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "BetterLife",
+    "name": "더나은삶TV",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRJCkZ_DdtGmjQTmrmrHNn2-i48Ipj3j_ez8sZU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lUxSIqYZ9U1eqmneGSwSU6JjQ2mhzmFI-6TVGRCfuLP96I7tPjjWzyUGTl7Ab-x6wZpwwO54=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k2npyu7J_tU", "title": "세상을 우롱한 폰지와 메이도프의 금융 사기  | 돈의 흐름을 읽는, 투자 이야기" },
+    { "id": "d9OMo8HJiXg", "title": "인플레이션 아버지, 존로, 사기꾼인가? 통화이론가인가? | 돈의 흐름을 읽는, 투자 이야기" },
+    { "id": "wOJta4BB2lk", "title": "미국 증권 시장을 개혁한 SEC 초대장관 | 돈의 흐름을 읽는, 투자 이야기" },
+    { "id": "oT5kEj-59_8", "title": "찰스 다우, 주식 시장을 바라보는 방식을 바꾸다! | 돈의 흐름을 읽는, 투자 이야기" },
+    { "id": "vx4p6Ar-gCQ", "title": "워런 버핏이 인덱스펀드를 극찬한 이유는?" }
+  ]
+}

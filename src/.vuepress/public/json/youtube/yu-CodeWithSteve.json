@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "CodeWithSteve",
+    "name": "Code With Steve",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNwuVvKYIe8sobp7baOs_xYIJtWlYaWEXufftLx=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D5hsj2ZKS76kMarquW40ZyFfVtzGi2Bla_xVkb9Yp6LsOq-2q5lcrhBHvKvoCdXgRX_A0_b4Jg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GVNfnO6Pafk", "title": "Coding with C# and .NET: JSON Deserialisation" },
+    { "id": "grbc8mevLRc", "title": "Docker for  NET Developers: Dockerfile Basics" },
+    { "id": "q2q-fCnGhoU", "title": "Upgrading from ASP.NET Core 3.1 to ASP.NET Core 5 (Preview 1)" }
+ ]
+}

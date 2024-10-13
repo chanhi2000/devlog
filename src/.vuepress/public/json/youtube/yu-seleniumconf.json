@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "seleniumconf",
+    "name": "Selenium Conference",
+    "profile": "https://yt3.googleusercontent.com/BkG1S7XncUSEXIaWv661wTOPh8sZNg5VILP0htyVFghDL-PppP54HZcEdZVRNglYUHcpt_2GLg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uhBqjVCq5mgwdtCn13WSQtHZ59zzX5ZT_xXW-5_LVzlM_MbEfu4hvMONb0l1yc1wi2QOzd9APQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CHUuLdkFfm0", "title": "Advanced Automated Visual Testing With Selenium -" },
+    { "id": "aVFZFi_6B9g", "title": "Automated Security Testing" },
+    { "id": "fR8CyLcxBZ0", "title": "Selenide: Concise UI Tests in Java" },
+    { "id": "fnsVPz8QTsI", "title": "Robot Framework: Semicolon-free testing" }
+  ]
+}

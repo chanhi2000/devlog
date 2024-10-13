@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Tech2etc",
+    "name": "Tech2 etc",
+    "profile": "https://yt3.googleusercontent.com/biGpxniyoG6DRZL_UEBNtwGKllsJdv5t42l3X1fbFUMbUBoZ6StWwBWSOC6FoRvvClKel4zO-A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ikN47-A_yaAqYC4yxB5iH-aAz6RCi4YDZ2T3kdMPUUURI3TuGFh_xyfZ_awYUvkQisrF4kFk0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XbcRQwYJ5dw", "title": "HTML CSS JavaScript ecommerce website #reels #coding #programming" },
+    { "id": "D3Zjth2Oazs", "title": "e-commerce website cart page #programming #reels" },
+    { "id": "M0ct9iFiQFI", "title": "learn more cs than your uni 🤔? #reels #programming #coding" },
+    { "id": "bIBjNGazt7M", "title": "Css breakpoints for diff devices 🤔? #reels #programming #coding" },
+    { "id": "qfSJJVjp6BY", "title": "Python Projects ~ Build Mobile App With Python ~ App Development From Scratch" },
+    { "id": "O2bKsm9dNTA", "title": "Python Project || Build A Image to PDF Converter App || Python App Development" },
+    { "id": "P8YuWEkTeuE", "title": "Build and Deploy Ecommerce Website With HTML CSS JavaScript | Full Responsive Ecommerce Course FREE" },
+    { "id": "p4_mGdeNXb4", "title": "Python Project - Create Registration Form Using Python And Store User Data" },
+    { "id": "qfSJJVjp6BY", "title": "Python Projects ~ Build Mobile App With Python ~ App Development From Scratch" }
+  ]
+}

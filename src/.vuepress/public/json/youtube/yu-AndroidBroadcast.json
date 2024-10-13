@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "AndroidBroadcast",
+    "name": "Android Broadcast. Все об Андроид разработке",
+    "profile": "https://yt3.googleusercontent.com/71gdpA9EpmZKWckTt1z4mto0ecFkQmx9QCIi9XYZ1XNKcJblX6nUFAo_n-OAxnBSJk4frzicxkM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_qGI8BLDZQ7zS_SZZ5F16jJ0vzxTY9I4KMgf6XoMN_Y5Ngaluixfqd71Jz6fDQnn54DOi9YjMHc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m7QpqVqc4YY", "title": "Ultron -  фреймворк для тестирования Android UI и Compose. Демо возможностей" },
+    { "id": "IK2LlPq3eTA", "title": "Как работает Android Work Profile" },
+    { "id": "6HJdn-qsqdo", "title": "Разбор кода магазина приложений" },
+    { "id": "pTyWagI8G5g", "title": "Немультиплатформенные привычки Android-разработки" },
+    { "id": "OW3vzC9UtLY", "title": "Разработка новостного приложения. Часть 5. Подготовка к публикации в Google Play" },
+    { "id": "yKE0XZW4KQA", "title": "Разбор кода Android приложения фоторедактора Image Toolbox" },
+    { "id": "sFGwK9D-_fw", "title": "Старт карьеры в Android-разработке до 18 лет" },
+    { "id": "_Vk5cBO7Gmk", "title": "Разбор кода приложения по доставке пиццы" },
+    { "id": "wAgQStuXoBM", "title": "Разработка новостного приложения. Часть 2. Логика загрузки данных из нескольких источников" },
+    { "id": "oN-BnHMhdp4", "title": "Как устроен Gradle Config Cache. Лучшие Практики. Интервью с инженером команды Gradle" },
+    { "id": "wykHeBdoLLY", "title": "Organic Maps - открытые оффлайн карты" },
+    { "id": "dzOh0ACle-0", "title": "Много графиков в `WebView` на Android. `TradingView`" }
+  ]
+}

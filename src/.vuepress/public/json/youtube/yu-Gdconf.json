@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Gdconf",
+    "name": "GDC",
+    "profile": "https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p6eVjnGucpXxMMy2XLZ44-lI5PvZ6VgPZ-MjbO_zVpSTEp4ASmmDcLGXLOkDzWXEeun19d4NJg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Sx_IWZHcqUA", "title": "A Survival Guide for Game Developers in a Post-Pandemic World" },
+    { "id": "bVDwtA40-iY", "title": "Building Cognitive Accessibility Into Your Games" },
+    { "id": "AsFK1tC5plU", "title": "Loud and Clear: Improving Accessibility for Low Vision Players in 'Cosmonious High'" },
+    { "id": "R-ftXx3POZM", "title": "Killer Portfolio or Portfolio Killer: Advice from Industry Artists" },
+    { "id": "HAvS-RwkjdA", "title": "System-Centric Puzzle Design in 'Patrick's Parabox'" },
+    { "id": "yQFTFS9ZO5E", "title": "Bringing a Star Wars Cantina to Life in 'Jedi: Survivor'" },
+    { "id": "pG4UxqRMNX0", "title": "Developing 'Hi-Fi RUSH' Backwards and Finding Our Positive Gameplay Loop" }
+  ],
+  "playlists": [
+
+  ]
+}

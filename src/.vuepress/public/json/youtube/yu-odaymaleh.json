@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "odaymaleh",
+    "name": "Oday Maleh",
+    "profile": "https://yt3.googleusercontent.com/_eMOBVN-VY5AGKXnMco5kXDCSJcdS3I5DGI_6HiW0B3Bf-DdNj-fmdyss4blYRwHIDFciks8eA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QRZZ05iwkJYPQ2U4zptug5DXHYtY1zv-vqYP1fAcEBWjqvIDEuh-SjXgo_o6HWpxb9m0i73YpA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fuB-2nXNee0", "title": "Solving Android Interview Challenge - 10 Years Experience" },
+    { "id": "EYjX6e5HXN0", "title": "How to Get Hired as Android Developer with Zero Work Experience" },
+    { "id": "g_ImaIO0M4Q", "title": "Just chatting - Stealing code from Now In Android" },
+    { "id": "zUdpVc5vTQE", "title": "Practical Guide to Jetpack Compose Navigation -  NavArgs + Top  + Bottom App Bar" },
+    { "id": "ISbLbiPrKr0", "title": "Mobile Developer tries DevOps - Using Terraform Provisioners to Set Up an Apache Web Server on AWS" },
+    { "id": "HoUvMPtUiO8", "title": "Compose Multiplatform iOS  @android Android - Fetch Image Results with ViewModel" },
+    { "id": "abIIAZjSBPA", "title": "How to Apply to Android Jobs: Tips for CV, Cover Letter and Motivation Questions" }, 
+    { "id": "1IzjIL-7gyM", "title": "Android Interview Prep" }, 
+    { "id": "PJ2lAg9GRuE", "title": "The Many Faces of an Android Technical Interview" }, 
+    { "id": "uplv4g5TIq0", "title": "Uber Android Interview Prep - Algorithms - Dijkstra - Also just chat" }, 
+    { "id": "tXm8a7eelt0", "title": "Introduction to Android Convention Plugins" }, 
+    { "id": "HEH57g-UP4Q", "title": "Building a Full Stack Web Application with Kotlin and React - Part 1/2 - Backend + Frontend" }, 
+    { "id": "yKiBFlfGR2Q", "title": "Android MVVM with CommandBus - Full Part 2 - Splash Activity and ViewModel" }, 
+    { "id": "cLjBhAUl4zU", "title": "Android MVVM with CommandBus - Full Part 1 - BaseViewModel and BaseActivity" }, 
+    { "id": "rU-dS0fwqY0", "title": "Data Structures & Algorithms in Kotlin - Linked List push/append" }, 
+    { "id": "6hfREKcMx-E", "title": "The Complete Guide to Android Design Patterns - Part 2" }
+  ]
+}

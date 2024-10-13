@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "JustinJackson",
+    "name": "Justin Jackson",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOBit85OsAnoPGZOwu1yCXMwTaBs5dROw1mnCESmg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SgDJIbhMiOG_Ckrqr_30Gv1gAt8Oc6FVTPkY0o225s_Shjx7ebF5cgNqC4u_NJ51gqFGMgb4kqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_9tUh9d5YrA", "title": "A short review of the Recut app: an automatic video editor" },
+    { "id": "41kqZYK3wRI", "title": "How to build a landing page with Tailwind CSS, Tailwind UI, Vite.js – tutorial video" }, 
+    { "id": "s3yWEtGpp_A", "title": "Tutorial: make a hamburger menu with Vue.js + Tailwind CSS (Adam Wathan teaches a complete noob)" }
+  ]
+}
+

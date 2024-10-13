@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "TheEasyoung",
+    "name": "Minsuk Heo 허민석",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ7h1Nts_m7a5bJv5EMcneNPRm7VhxwPmy5TbvTmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UX0FWFSF9cm7SuzIC3eW3rjLj6P-U_u8P2vr81QfgLNtoOkuVpjg4O8M89-GSVSrT4T8AgyP-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EAHrIGVopSc", "title": "구글 클라우드 넥스트 24 생성 AI 핵심 요약 (제미나이 1.5  프로 포함)" },
+    { "id": "4GHw9d8PXw0", "title": "Google Next 24 Generative AI summary (with gemini 1.5 pro intro)" },
+    { "id": "Z0R6yRJ9SJ8", "title": "llama3 (8b, 70b) summary that you must know" },
+    { "id": "bDUXAh2UhGA", "title": "라마 3 핵심 정리 (8b, 70b)" },
+    { "id": "me1BcKzqld4", "title": "LPU 성능 가격 다잡은 새로운 AI 반도체, GPU와 비교해보자" },
+    { "id": "uvFcHhLz-9U", "title": "What is LPU (language processing unit), compare to GPU" },
+    { "id": "7Rz-raW3OzA", "title": "Claude 3 and Constitutional AI" },
+    { "id": "WM2eo_fMaiQ", "title": "클로드3, 헌법적 AI (constitutional AI)" },
+    { "id": "3exMAKtSGBQ", "title": "[텐서플로2 딥러닝] CNN" },
+    { "id": "ei_e7nHS6SE", "title": "[딥러닝] federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)" }
+  ],
+  "playlists": [
+
+  ]
+}

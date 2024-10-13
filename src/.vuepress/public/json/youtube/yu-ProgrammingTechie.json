@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "ProgrammingTechie",
+    "name": "Programming Techie",
+    "profile": "https://yt3.googleusercontent.com/REoLnD5_ePbMV2zm37m8oBBo2UJrPDEWlCJY7aXiiEH8JPoYER8dSGIi3FtWwiwllEemqwdmEw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5fQ3BvZN3HIuqPu5Seis3NPscQK-zlEdkDUkPKcV5ArNSgixJ40JRZrWkFbLmdGDC17HSTlhjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NpdG3lmKJ5g", "title": "Spring Boot Microservices Tutorial - Part 1 - Building Services" },
+    { "id": "vdAkGFCq-M4", "title": "Spring Boot Microservices Tutorial - Part 2 - Order Service" },
+    { "id": "sNu_9aqSk5Y", "title": "Spring Boot Microservices Tutorial - Part 3 - Inventory Service" },
+    { "id": "GpqnYd8VR3k", "title": "Spring Boot Microservices Tutorial - Part 4 - Spring Cloud OpenFeign & Testing with Wiremock" },
+    { "id": "2AtL7qvTjOg", "title": "Spring Boot Microservices Tutorial - Part 5 - Spring Cloud Gateway MVC" },
+    { "id": "Uf2fwy10c00", "title": "Spring Boot Microservices Tutorial - Part 6 - Security using Keyloak" },
+    { "id": "lYXZwnRk4Jg", "title": "Spring Boot Microservices Tutorial - Part 7 - Document REST API with OpenAPI" },
+    { "id": "ViVB32BqOZg", "title": "Spring Boot Microservices Tutorial - Part 8 - Aggregate REST API in Gateway" },
+    { "id": "Hw2KC7ecY_A", "title": "Spring Boot Microservices Tutorial - Part 9 -  Circuit Breaker with Resilience4J" },
+    { "id": "mPPhcU7oWDU", "title": "Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥" },
+    { "id": "mvvRXu_KJSU", "title": "Build an AI PDF Chat App using LangChain4J, Spring Boot and Astra DB" },
+    { "id": "PT2yZTBnUwQ", "title": "Spring Boot 3 Observability with Grafana Stack" },
+    { "id": "TTUOUHb-QqQ", "title": "Migrate to Spring Boot 3 with OpenRewrite" },
+    { "id": "mPPhcU7oWDU", "title": "Spring Boot Microservice Project Full Course in 6 Hours 🔥🔥🔥" }
+  ]
+}

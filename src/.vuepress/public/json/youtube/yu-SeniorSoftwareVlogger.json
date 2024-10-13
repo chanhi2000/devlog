@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SeniorSoftwareVlogger",
+    "name": "Senior Software Vlogger",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR7JhDMn_mw1mQsaTciDnv9t-Zezix94WE1MmxcZQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hvNCbFwSN5cVzrO2gLyIABuixRDPdwmMDZyMqYCju322vJpNbwSV33_qcbk2BVRPomnBE6wi1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1o2sQBDVFic", "title": "Язык Go, Кубернетис и Микросервисы. Елена Граховац" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "sangmessi727",
+    "name": "Sangmessi",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRE-fox5H-R20c3Qxd_8Wgk_CCU9ItcCXFCnaV2ug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Gm7-6vQoIuI", "title": "spring security basic" }, 
+    { "id": "a4RlCak45NY", "title": "Spring boot oauth2" }, 
+    { "id": "Cceq9EDiOKg", "title": "Spring RESTDOCS  입니다." }
+  ]
+}
+

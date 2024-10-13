@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "rabisankarpodder7839",
+    "name": "Rabi Sankar Podder",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN5oDw1DHz_WskW8SArzNODbugO-qsBvGz2iKKZ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "dOI3jRap6Q4", "title": "Java8 Sort String Employee" },
+    { "id": "uRQEMZjB1fA", "title": "SpringBoot with Github  using Oauth2" },
+    { "id": "oPde37Nc26Q", "title": "JWT SpringBoot Security" }
+  ]
+}
+

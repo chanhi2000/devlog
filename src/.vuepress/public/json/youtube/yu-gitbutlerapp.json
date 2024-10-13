@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "gitbutlerapp",
+    "name": "GitButler",
+    "profile": "https://yt3.googleusercontent.com/Zro5CThuX6lY5E77LxXvhQCJbcEua4x0XJGOBlR6fjznYBIoKjWHAMqrLN5JFlC7w1CJU9UVxQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sqyYdkQXIh29GqOc3_7rpw9aYLQNrNKdDcr1MXXV_Had68m2ObQyM_IdLOW4tt5BT94VDsnIIxw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Md44rcw13k4", "title": "So You Think You Know Git Part 2 - DevWorld 2024" },
+    { "id": "aolI_Rz0ZqY", "title": "So You Think You Know Git - FOSDEM 2024" },
+    { "id": "WGwFa8WEQRA", "title": "Virtual Branches In-Depth" },
+    { "id": "xVZWTmW-d6o", "title": "Virtual Branches Intro" }
+  ]
+}

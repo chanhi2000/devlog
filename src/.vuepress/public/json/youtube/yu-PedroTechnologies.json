@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "PedroTechnologies",
+    "name": "PedroTech",
+    "profile": "https://yt3.googleusercontent.com/tLOaVyDRQq46qga99PFlP9b3PRcni8gBJepNOecsgIdADpxU10p6w0VD-fZ8VvtqeldN6IHYOj0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aNRT3yJ9pLkOcAW8PDgnNdJ5akaT0Gry16KdG07TY-kTxl6sm7S9t-Qh9a2bUvrdC2MtC3o21OM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xldTxXtNiuk", "title": "React Django Crud Tutorial - Learn React Python Django In 1 Hour | For Beginners" },
+    { "id": "JXNZ1pZ1xDg", "title": "3 JavaScript Concepts that Will Make You A Better React Developer" },
+    { "id": "bBuaKlv56P0", "title": "How To Learn React In 2024 - React Roadmap" },
+    { "id": "T3b5khnxYQg", "title": "Improve React's Performance With This One Library - React Virtualized" },
+    { "id": "Objl-IGpM98", "title": "Search Filters in React Tutorial - React-Select Beginners Tutorial" },
+    { "id": "NoLF7Dlu5mc", "title": "Python Django REST API In 30 Minutes - Django Tutorial" },
+    { "id": "3mDny9XAgic", "title": "Learn TypeScript in 50 Minutes - TypeScript Beginner Crash Course" },
+    { "id": "665UnOGx3Pg", "title": "Learn TypeScript For React in 50 Minutes - React TypeScript Beginner Crash Course" },
+    { "id": "3PSUMTmH4BQ", "title": "Reviewing My Subscribers Software Engineering Resumes" },
+    { "id": "IRrK8AKPOtQ", "title": "Build A FullStack Live Audio Room App with ReactJS and NodeJS" },
+    { "id": "4NZx9OF07qY", "title": "MERN Finance Tracker App with User Management - Build A Fullstack React Intermediate Project" },
+    { "id": "CAsTwrYx8pM", "title": "The 3 Best React Interview Questions | Beginner to Advanced" },
+    { "id": "BCl0p5gZ1yw", "title": "NestJS Tutorial For Beginners - Learn NestJS" },
+    { "id": "0GmDPAlwifs", "title": "Localization In React - Make Your Websites International | React Translations Tutorial (React-18n)" },
+    { "id": "-Y8brhQKvtA", "title": "Zustand Beginner Tutorial - Learn React State Management With Zustand" },
+    { "id": "RL31Kv_PHTw", "title": "Deploying A React App To Docker | Become A React Pro" },
+    { "id": "ZpfseYy5Hxg", "title": "Chart JS Tutorial - ReactJS Charts Beginner Crash Course" },
+    { "id": "xmDAYE5o2LI", "title": "What to Really Expect from React Code in Your Next Job: Legacy React" },
+    { "id": "CBdNvOAL3wE", "title": "React Like a Pro: React Best Practices" },
+    { "id": "Gg0CghYbS80", "title": "Your FullStack App is NOT Safe, Here is How To Fix It" },
+    { "id": "QbSXXXEGA70", "title": "The Best React Helper Tool - React Dev Tools Tutorial" },
+    { "id": "w1RR68hNNOE", "title": "REACT 19 IS COMING - Here's Whats Changing!" },
+    { "id": "NOvx4LB6Hfk", "title": "React Query in 40 Minutes - Everything You Need to Know About Tanstack React Query" },
+    { "id": "OgQWJ7_9qy0", "title": "6 React Concepts That Will be Obsolete in 2024" },
+    { "id": "miUsa5SOXGk", "title": "React Movie Rating App - Code and Deploy React Intermediate Project" },
+    { "id": "UolaGb7tR38", "title": "These 5 VsCode Extensions Will Skyrocket Your React Productivity" },
+    { "id": "Yokjzp91A4o", "title": "Redux and NextJS 13 Tutorial | Redux Toolkit Tutorial With Next 13" },
+    { "id": "0gLr-pBIPhI", "title": "React Firebase Realtime Chat App Tutorial | Firebase V9+ Beginner Tutorial" }, 
+    { "id": "-4fyyyQjsz8", "title": "How to Improve Performance in React with Code Splitting" }, 
+    { "id": "JBSUgDxICg8", "title": "Testing In React Tutorial - Jest and React Testing Library" }, 
+    { "id": "x7mwVn2z3Sk", "title": "Code and Deploy A React Portfolio - React Personal Portfolio Website" }, 
+    { "id": "omzQF3Gyu_0", "title": "React Passwordless Authentication Tutorial | React, NodeJS, Stytch API" }
+  ]
+}

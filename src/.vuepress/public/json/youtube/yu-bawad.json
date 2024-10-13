@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "bawad",
+    "name": "Ben Awad",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNopooyvKw-otfweyIOMf-gPWvABriRa-sL3WZV7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0NtgPTTqEsh9HDZAyHqn-1oYjw5AV9YGEH11MA1--lq9ksTwPJPpS2JH5PFwdU9LBxQ3AU_aEg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qGtjwvuK-xs", "title": "My App Has Been Nominated For App of the Year" },
+    { "id": "dCCaYEG5KeA", "title": "Technologies I'm Learning in 2023" }, 
+    { "id": "f687hBjwFcM", "title": "React Hooks Tutorial" }, 
+    { "id": "1PBNAoKd-70", "title": "Coding the Next Facebook - 53 days in" }, 
+    { "id": "j1ZRyw7OtZs", "title": "React Hooks useEffect Tutorial" }, 
+    { "id": "A9bA5HpOk30", "title": "Docker Compose Tutorial with PostgreSQL and Node.js" }, 
+    { "id": "I6ypD7qv3Z8", "title": "Fullstack React GraphQL TypeScript Tutorial" }, 
+    { "id": "C7CPXeEvKN0", "title": "Expert Level SQL Tutorial" }, 
+    { "id": "N4Vex7l8jv4", "title": "Windows Defender Hardening and Test vs Malware" }, 
+    { "id": "1XjIdgUaTiI", "title": "What is a CSS Custom Property / Custom Variable?" }, 
+    { "id": "uFH5S5dUPr8", "title": "My GraphQL Performance Problem" }, 
+    { "id": "Z5iWr6Srsj8", "title": "React Typescript Tutorial" }, 
+    { "id": "Kx_1NYYJS7Q", "title": "Where to Host a Fullstack Project on a Budget" }, 
+    { "id": "CYlUcIH3dPg", "title": "Parallel Processing for Faster Deployments" }, 
+    { "id": "Hln37dE19bs", "title": "React Navigation v5 Tutorial" }, 
+    { "id": "tp_5c6jaNQE", "title": "SQL Tutorial for Beginners" }, 
+    { "id": "gnupOrSEikQ", "title": "How to Configure Vim like VSCode" }, 
+    { "id": "ZNbosPOEEWw", "title": "First Look at React useDeferredValue Hook" }, 
+    { "id": "M6N7gEZ-IUQ", "title": "Why LocalStorage is Vulnerable to XSS (and cookies are too)" }, 
+    { "id": "25GS0MLT8JU", "title": "JWT Authentication Node.js Tutorial with GraphQL and React" }, 
+    { "id": "iD49_NIQ-R4", "title": "How to Store JWT for Authentication" }, 
+    { "id": "IiwGbcd8S7I", "title": "Vim Tutorial" }, 
+    { "id": "oPqrLsvjWgo", "title": "How I Designed my App that Got 100k Downloads" }, 
+    { "id": "hfGtyd5nmwQ", "title": "Technologies I used to Code My Backendless App" }, 
+    { "id": "z1vPBc2h9pE", "title": "My App has More Complicated Animations Than Yours" }
+  ]
+}
+
+

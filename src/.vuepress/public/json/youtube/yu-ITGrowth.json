@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "ITGrowth",
+    "name": "스칼라의 IT직업충전소",
+    "profile": "https://yt3.googleusercontent.com/kRG1zqw7IoOaRbWjDfwAz-aR7H1ZOdoNvLa4Hnkp4f2U-pjBfgcS2YXFV7oy5dM3lVjizFi9CA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/K8B3HfLCEQ73Br1V_YPSA6vdq-srxYWzvxCufDpUFelqtBmwbfpCh4gYke53uxHcYf3H4z4T=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Q8z-uYfWdjs", "title": "경제적 변곡점의 대비를 위한 Y세대 이하들을 위한 재무관리 (ver.2024) Feat \"부동산 유투버들의 의도\" #인생경제 #redmore" },
+    { "id": "7GPlEfNm5KY", "title": "서울 부동산 부촌의 변화 \"입지와 금융, 기업가정신\" #인생경제 #redmore" },
+    { "id": "E7uuPEzrHFo", "title": "미국 핵심경제 지역의 확대와 경영, 노동방식의 변화, 그리고 망할 놈의 DEI" },
+    { "id": "ZeB7oiihy2U", "title": "빌게이츠가 게으른 사람을 좋아하는 이유 \"IT인의 성장기질\"" },
+    { "id": "sDRXBB4r1ek", "title": "[보안기록] 네이버클라우드와 라인의 경영권, 보호무역주의와 디지털주권 #라인 #네이버 #디지털주권 #보호무역주의" },
+    { "id": "_GqCmR1NW-c", "title": "IT쥬니어 재무관리 리스크 보고서 2 돈을 지키는 리스크, 돈을 쓰는 리스크 #redmore #인생경제" },
+    { "id": "YF5QpBvImGg", "title": "[it취업상담일지] 부전공이 컴공인데 경기침체로 길을 잃은 것 같습니다. #it취업상담 #ai스쿨" },
+    { "id": "Z-k_uz3nrVY", "title": "[인생경제] MZ 거리는 착취세대 97, 86" },
+    { "id": "VAIj4EXXqbA", "title": "24.06.01 클라우드와 전력(클라우드 시큐리티 5기 즉흥세미나" },
+    { "id": "kn7Lbpm8ggU", "title": "[IT취업상담일지] 전직 백업엔지니어의 IT취업상담 #it취업 #AI스쿨 #IT스칼라" },
+    { "id": "tUlL2wn0SF4", "title": "24.06.16 빅테크 낙수효과" },
+    { "id": "JrnM7qZGvp4", "title": "한국 경제모형의 흐름도의 해석과 토지귀족이 된 86,X세대(종부세, 상속세)" },
+    { "id": "vh7Qc1vHbuw", "title": "수출주도 경제모델과 문재인정권 말기부터 시작된 쌍둥이적자 #redmore #인생경제" },
+    { "id": "0QQlHXMP3dk", "title": "한국의 장기적 실질금리 변화 #redmore #ai스쿨 #ailab #인생경제" },
+    { "id": "kJ9JvmV0OUs", "title": "저출생 LAST : 구조화(기회, 중립, 위기)" },
+    { "id": "iTHwjaLAM1w", "title": "24.03.13 글로벌경제, 한국경제, IT분야 업황 앞으로 추적관찰할 내용" },
+    { "id": "iTHwjaLAM1w", "title": "24.03.13 글로벌경제, 한국경제, IT분야 업황 앞으로 추적관찰할 내용" },
+    { "id": "kNmn7q3QMhA", "title": "클라우드 시큐리티 4기 모집(24.03.30) #클라우드  #cloud  #AI스쿨" },
+    { "id": "ps5TTD19-CA", "title": "보안관제들&솔루션엔지니어는 클라우드로 산업을 옮겨야합니다.(컨솔리 클라우드 시큐리티 홍보) #정보보안전문가 #보안관제 #정보보호전문가 #클라우드" },
+    { "id": "d3iVAPAYfwA", "title": "24.03.31  2023 투자 회고" },
+    { "id": "RAID2eBpxu0", "title": "24.04.07 즉흥 스트리밍" },
+    { "id": "PfNG7L-yfEc", "title": "2024 정보보안전문가, IT취업지도 1-3 Global  지금은 인류의 경제규칙이 변하는 콘트라티예프 파동기다" },
+    { "id": "t3q02EoDUvo", "title": "2024 정보보안전문가, IT취업지도 1-2 Global 미국의 보호무역주의 패러다임" },
+    { "id": "loLUPeTXkCE", "title": "2024 정보보안전문가, IT취업지도 1-1 Global 자유무역과 신자유주의는 종료되었다." },
+    { "id": "05_KHLewQSc", "title": "2024 정보보안전문가, IT취업지도 5-3 한국: 실행가능성(Viable) : 글로벌리스트 : 삶을 경영당하지 마라. 자신의 삶을 경영해라." },
+    { "id": "7yUzr6RJzQk", "title": "2024 정보보안전문가, IT취업지도 5-2 한국편: 실행가능성(Viable) : 한국에서 남을 때" },
+    { "id": "wmfwg03j0lo", "title": "2024 정보보안전문가, IT취업지도 5-1 실현가능성(Feasible) / Desireble" },
+    { "id": "JJy16HLM5fM", "title": "2024 정보보안전문가, IT취업지도 4-4 한국편 : 제로썸 경제" },
+    { "id": "UJKN4ooM6nk", "title": "2024 정보보안전문가, IT취업지도 4-3 한국편 : 한국의 S&P 500 부동산 그리고 제물 20대" },
+    { "id": "p1tXd2j7MLc", "title": "2024 정보보안전문가, IT취업지도 4-2 한국편 : 지난 20년간 한국의 소비부양 정책과 20대의 부채재난" },
+    { "id": "FLnn_iV7iNo", "title": "2024 정보보안전문가, IT취업지도 4-1 한국편 : 한국의 경제모델 이해하기" },
+    { "id": "M144kD8tAZA", "title": "2024 정보보안전문가, IT취업지도 3-7 글로벌 : 케인즈식 확장적 재정정책과 양적완화의 부작용 : 청년과 노인의 재앙" },
+    { "id": "kvOF_Z-IyZ0", "title": "2024 정보보안전문가, IT취업지도 3-6 글로벌 : 소비부양정책의 부작용 GLOBAL 부동산 버블 : UBS 버블지수" },
+    { "id": "xKqO6zsFyws", "title": "2024 정보보안전문가, IT취업지도 3-5 글로벌 : 각 국의 양적완화 가치평가" },
+    { "id": "ppCT-iuOi8g", "title": "2024 정보보안취업지도 산업편 : 성장주 시대의 종료와 AI" },
+    { "id": "bxeus2HCZWs", "title": "기시다 내각의 일본 경제 체질개선 금융자본주의화 #인생경제 #레드모어" },
+    { "id": "z0U8SDmDWSc", "title": "IT인의 내년 계획 가이드 : \"발가락을 자르더라도 달릴 것인가? 아니면 성장을 포기하고 지킬 것인가?\"" },
+    { "id": "5ByuG53mcFY", "title": "IT 주니어들이 알면 도움되는 회사생활 &quot;평가와 피드백&quot;" },
+    { "id": "g_mnQ8__CPU", "title": "썰로 풀어보는 정보보안전문가 커리어 & 클라우드 시장이 미친 영향" },
+    { "id": "lrO4PwyvC_c", "title": "컨솔리 클라우드 시큐리티 멘토와 대화(AWS 코리아 정하윤 멘토 자격증과 커리어, 보안관제 생활)#클라우드 #aws #자격증 #it취업" }
+  ],
+  "playlists": [
+    
+  ]
+}

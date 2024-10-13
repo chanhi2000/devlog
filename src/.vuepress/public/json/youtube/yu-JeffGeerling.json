@@ -1,0 +1,59 @@
+{
+  "channel": {
+    "id": "JeffGeerling",
+    "name": "Jeff Geerling",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMyX84n9b4LyGTuxCGK9piFZ4yGC4BCtLV68K1Bpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gjQW4_bjwdIxXvIEiTpnmeDE3om-IiC2KvQO1AcOWuN0cAh0MUS0yWI5amGoIrPcQod16duX=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8qDGV6LTOnk", "title": "This RISC-V cyberdeck is not for you" },
+    { "id": "h6zt8KeXFdA", "title": "Meet the new SBC Linux Cluster King!" },
+    { "id": "mgbTNZD1Vcw", "title": "Did Raspberry Pi just Sherlock RealVNC?" },
+    { "id": "GYN3ub8Qb_I", "title": "SBCs: It's time to ditch microSD" },
+    { "id": "GKGtRrElu30", "title": "This is how you destroy Raspberry Pi" },
+    { "id": "jjzvh-bfV-E", "title": "When Did Raspberry Pi become the villain?" },
+    { "id": "YH_GPeq4o3E", "title": "It's Clusterin' Time!" },
+    { "id": "a7MO9A0Oi9Q", "title": "$1 vs $100,000 Server" },
+    { "id": "5NJ6V8i1Xd8", "title": "Build your OWN VPN! Here's how (and why you should)" }, 
+    { "id": "4VkY1vTpCJY", "title": "Better than Netflix: Jellyfin on my NAS" }, 
+    { "id": "xNndbfxMCLo", "title": "Raspberry Pi Cluster Ep 2 - Setting up the Cluster" }
+  ],
+  "playlists": [
+    {
+      "title": "Kubernetes 101",
+      "videos": [
+        { "id": "IcslsH7OoYo", "title": "Kubernetes 101 - Episode 1 - Hello, Kubernetes!" },
+        { "id": "AHDrejEv0SM", "title": "Kubernetes 101 - Episode 2 - Containers" },
+        { "id": "nn9J9sWLj_w", "title": "Kubernetes 101 - Episode 3 - Deploying Apps" },
+        { "id": "mrxA8g3w6ic", "title": "Kubernetes 101 - Episode 4 - Real-world Apps" },
+        { "id": "euZdS5b2siA", "title": "Kubernetes 101 - Episode 5 - Scaling Drupal in K8s" },
+        { "id": "E1_uINjq2As", "title": "Kubernetes 101 - Episode 6 - DNS, TLS, Cron, Logging" },
+        { "id": "Q7G6DBaIJ1c", "title": "Kubernetes 101 - Episode 7 - Hello, Operator!" },
+        { "id": "_r1wN6cD32w", "title": "Kubernetes 101 - Episode 8 - Kube, meet Raspberry Pi" },
+        { "id": "D5QOwhLE3mY", "title": "Kubernetes 101 - Episode 9 - GitOps and Lagoon - Interview with Michael Schmid" },
+        { "id": "zW-E8THfvPY", "title": "Kubernetes 101 - Episode 10 - Monitoring with Lens, Prometheus, and Grafana" }
+      ]
+    }, {
+      "title": "Ansible 101",
+      "videos": [
+        { "id": "goclfp6a2IQ", "title": "Ansible 101 - Episode 1 - Introduction to Ansible" },
+        { "id": "7kVfqmGtDL8", "title": "Ansible 101 - Episode 2 - Ad-hoc tasks and Inventory" },
+        { "id": "WNmKjtWtqIc", "title": "Ansible 101 - Episode 3 - Introduction to Playbooks" },
+        { "id": "SLW4LX7lbvE", "title": "Ansible 101 - Episode 4 - Your first real-world playbook" },
+        { "id": "HU-dkXBCPdU", "title": "Ansible 101 - Episode 5 - Playbook handlers, environment vars, and variables" },
+        { "id": "JFweg2dUvqM", "title": "Ansible 101 - Episode 6 - Ansible Vault and Roles" },
+        { "id": "FaXVZ60o8L8", "title": "Ansible 101 - Episode 7 - Molecule Testing and Linting and Ansible Galaxy" },
+        { "id": "CYghlf-6Opc", "title": "Ansible 101 - Episode 8 - Playbook testing with Molecule and GitHub Actions CI" },
+        { "id": "gV_16dU7XjM", "title": "Ansible 101 - Episode 9 - First 5 min server security with Ansible" },
+        { "id": "iKmY4jEiy_A", "title": "Ansible 101 - Episode 10 - Ansible Tower and AWX" },
+        { "id": "_rDzMYp-fBs", "title": "Ansible 101 - Episode 11 - Dynamic Inventory and Smart Inventories" },
+        { "id": "_QZr4xKhir4", "title": "Ansible 101 - Episode 12 - Real-world Ansible Playbooks" },
+        { "id": "nyXDR4RG4A8", "title": "Ansible 101 - Episode 13 - Ansible Collections and a Test Plugin" },
+        { "id": "N7tgLVCXup4", "title": "Ansible 101 - Episode 14 - Ansible and Windows" },
+        { "id": "sb5XYD3BLMA", "title": "Ansible 101 - Episode 15 - Final LIVE Q&A" },
+        { "id": "0m3GpAVNBDI", "title": "Keeping my promises #shorts" }
+      ]
+    }
+  ]
+}
+

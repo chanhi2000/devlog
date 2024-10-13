@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TechDummiesNarendraL",
+    "name": "Tech Dummies Narendra L",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY5WeFWRpnRhaXU2sqyypy4bjiGpMhTn6kRKR9yPQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OgX7I_ij-yaBBVINjkqnbxnFNz--hAh1PC-EqTxCncXYXiTAWOIaZARSr-YNDl7n1eFHLwk89A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DUbEgNw-F9c", "title": "Redis system design | Distributed cache System design" }
+  ]
+}

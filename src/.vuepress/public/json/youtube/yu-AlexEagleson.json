@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AlexEagleson",
+    "name": "Alex Eagleson",
+    "profile": "https://yt3.googleusercontent.com/nvA0zos_SQ5-TmI6vLHY3blEOI_hWVHX4HBXcbzpBrc40FWxpUiXy-ZR4cPSgyExEkjVilAlHg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nYqV5ODLerRUWVeXaVrDiJC6LPcxWUILXWIUAD_nEwSVDq2AOlfssaqzXsZ9Di9OOCM4a25EmQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Iu5aZDqZt8E", "title": "How to Build Scalable Architecture for your Next.js Project" }
+  ]
+}

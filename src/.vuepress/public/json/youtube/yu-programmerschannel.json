@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "programmerschannel",
+    "name": "programmers",
+    "profile": "https://yt3.googleusercontent.com/kBwdquJ4YdeOtMTmKOuG7av5PbvpSECk-3TJ8RQv0Psj9gzV-mzhAy2goGRBWCs4lK4D6zrG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/twTeDUMULl9flEd4o7odYNQ5ZvS4SOkznvixW3wvoMaJQWCfgAMpxyf7Qot2ZchT4xXgoUFhkf0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YFw7Kacb8TM", "title": "\"개발자 채용은 이렇게 하세요\" 2024 개발자 채용 전략과 평가 방법" },
+    { "id": "QYhtXG6BBEY", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 종지부" },
+    { "id": "KRCCtPkzmHM", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 마이카" },
+    { "id": "WcDLoVibCwk", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 이송" },
+    { "id": "PtIJUK09_gw", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 조수석" },
+    { "id": "IjT5ZPg0Yxc", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 |  전운보초" },
+    { "id": "u0IjJGeU3c0", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 부지종" },
+    { "id": "QJa60GiDyoE", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | I가 타고 있어요" },
+    { "id": "wdhsBv_FHWc", "title": "자율주행 데브코스 Perception 6기 | 차선인식 프로젝트 | 핸들이 없는 사이버트럭" },
+    { "id": "cU4QHW5kbbI", "title": "프로그래머스 데브코스 : 데이터 분석 온라인 라이브 설명회 | 국비 지원 무료 부트캠프" }
+  ]
+}

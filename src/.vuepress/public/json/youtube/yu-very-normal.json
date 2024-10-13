@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "very-normal",
+    "name": "Very Normal",
+    "profile": "https://yt3.googleusercontent.com/-3GzOAGf41SQRM-q6AfasmCc_WJIXg957ZSO86ohHjcNA7s4ELPlIB_rs9juhaeylEeHZizHAw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YoMWDEbDYJyL1ror41xFv4tjDE1MgQ0EWJ6Gab15eUYY2DHsJ8cdwma0nzrRA71A2fIDINjEhw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KPWzdtOMhTY", "title": "Explaining Power" },
+    { "id": "3jP4H0kjtng", "title": "The better way to do statistics" },
+    { "id": "vE8bAXWJQlo", "title": "An easier way to do sample size calculations" },
+    { "id": "StSAJIZuqws", "title": "5 tips for getting better at statistics" },
+    { "id": "IPi-a7Z1ofw", "title": "Explaining nonparametric statistics, part 1" },
+    { "id": "r7cn3WS5x9c", "title": "The most important skill in statistics" },
+    { "id": "eaB6SmKJFrk", "title": "Explaining Confidence Intervals and The Critical Region" },
+    { "id": "SGGLkrJa9_w", "title": "What haunts statisticians at night" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "cheonghub",
+    "name": "청일",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR1LqRg7l3yip6XT-Mbe27IvJvxhDbPrO4qwkdX=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sj5dNhQfbWDvN_oNz29t-HmQD7EAcoDFSSzYNUS3GsEwhiVBv-yxmfaNon3EE07kkMXnv3wN=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "heHW1Ad4-F0", "title": "딥웹에서온 다크웹 초대장... 안타깝게도ㅠㅠ" },
+    { "id": "bcpbvkEnFng", "title": "외계인이 만든 OS? 딥웹에서 찾은 브라우저 OS!?" },
+    { "id": "_HZQzj3DNyQ", "title": "딥웹에서 첫 채팅성공.. 근데 내가 한국사는걸 어떻게알아?" },
+    { "id": "EWh1tDTNE7Y", "title": "중년의 칼춤을 보아라" },
+    { "id": "BOxaJX3cmEo", "title": "비개발자도 개발자 되기!  ChatGPT만으로 앱만들기" },
+    { "id": "ObPpDsffXog", "title": "1. SKIPFISH - 웹취약점검사도구 [칼리리눅스를 이용한 해킹소개]" }
+  ]
+}

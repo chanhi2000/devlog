@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "dev_ression",
+    "name": "Devression",
+    "profile": "https://yt3.googleusercontent.com/F68s9YkLMppzv2eNJtfZTN_D0SxFkukO6AZK5-3qQI-7eFDyr3n7X5379a5VUzjT0F9ezVEcx3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oVRvRYKfaNdPclkWB8lTC3HPwsXETbtaF-S0ltKK4lnA6uVZIXgVEMIupqWWS8wj6EO9TU6P=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vTuL2_4VOBA", "title": "Learning Frontend Development is EASY ACTUALLY - Beginner Roadmap" },
+    { "id": "GoI9rCQyUAI", "title": "15 Programming Tips to INCREASE Productivity 2024" },
+    { "id": "zTf0MDAB8Pw", "title": "Is Software Engineering Still Worth It in 2024?" },
+    { "id": "1UyQaR8pvjk", "title": "12 VS Code Extensions to INCREASE Productivity 2024" },
+    { "id": "cKDZUpBwwNg", "title": "The BEST WAY to Learn Code for Beginners - SELF TAUGHT" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "jj362choi",
+    "name": "옥탑방개발자",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSG0xwyKblgS4eXMXmjJ_MRmEIWl_Gyj6gYYdVb8sc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "vUcd_fpIN7c", "title": "1. React 라이브러리 개발을 위한 - Babel  이해하기" }, 
+    { "id": "KL2SpTY9pl4", "title": "1) 리액트 네이티브 네비게이션 V5 - Tabs and Stacks" }, 
+    { "id": "87208XkWG-s", "title": "13. Episode6 - 스프링 부트 / 구글 페이스북 네이버 카카오 로그인 유닛테스트" }
+  ]
+}

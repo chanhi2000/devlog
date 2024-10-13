@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "cloudvikings",
+    "name": "Cloud Vikings",
+    "profile": "https://yt3.googleusercontent.com/po5j5ZuE5403ivWXeLx7bFjhszpQjtvDenuipSCwQBXYxU6wyQ55mdIndk4EFdfjTJxd9tW4yA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Z47WipbgJc3XNkV8c4wHz8Mki-X0xC0o14no5yt5D2lffJKUtr4xE3pt6E6PIzazuNlfYd2LrQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AyisjMb8st0", "title": "The Hidden Personalities of AWS Services Exposed! - Public vs Private" },
+    { "id": "oqfFgG4zjP8", "title": "FREE AWS EXAM RETAKES! How To Book Your AWS Exam with a FREE RETAKE!" },
+    { "id": "JnoU_6LAfp0", "title": "AWS Global Infrastructure - You Need to Know This!" },
+    { "id": "tT8vc8IqRps", "title": "AWS Shared Responsibility Model - Critical to Know! Find out why!" },
+    { "id": "Uq5w1lnKzlk", "title": "AWS Certified Cloud Practitioner 2023 | Full Training Course | CLF-C01 | Pass the AWS CCP Exam!" }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "repo": "supabase/index_advisor",
+    "desc": "PostgreSQL Index Advisor",
+    "officialSite": "https://supabase.com/docs/guides/database/extensions/index_advisor",
+    "topics": ["extension", "indexing", "postgres", "postgresql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nuno-faria/tetris-sql",
+    "desc": "Using SQL's Turing Completeness to Build Tetris",
+    "officialSite": "",
+    "topics": ["cte", "sql", "tetris"],
+    "avatar": "https://avatars.githubusercontent.com/u/26089290?v=4",
+    "banner": ""
+  }, {
+    "repo": "ed-o-saurus/PLHaskell",
+    "desc": "A Haskell extension for PostgreSQL that allows embedded Haskell code. ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/24485747?v=4",
+    "banner": ""
+  }, {
+    "repo": "ben-n93/SQL-tips-and-tricks",
+    "desc": "SQL tips and tricks",
+    "officialSite": "",
+    "topics": ["sql", "tips-and-tricks"],
+    "avatar": "https://avatars.githubusercontent.com/u/84557025?v=4",
+    "banner": ""
+  }
+]

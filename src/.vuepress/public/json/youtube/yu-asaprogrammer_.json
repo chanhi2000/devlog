@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "asaprogrammer_",
+    "name": "As a Programmer",
+    "profile": "https://yt3.googleusercontent.com/_h_p-OVRpbr9NzhfQNwIygLtbcHcwTUXqyc09L_OO6T0f1H9hH5MFOxLb4otU5C9uqNuhvv3NLk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bRQQVgLmDp7q5TEPS5aHgZjzL8hUhnP9t-87Gr7zpp4y9flEePj2RxViSRd5m8htAJHWIRSYzvs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0Kzd4k1YuCA", "title": "Build an Extremely Fast Chat App with Redis and React | Full Guide 2024" },
+    { "id": "gRroBZczKAU", "title": "MERN Stack Netflix Clone: React, Node.js, Express.js - Full Course 2024" },
+    { "id": "Dukz-3mS3Us", "title": "MERN Stack Tutorial For Beginners in 2024 - Deployment Included" },
+    { "id": "vL24eiwAG_g", "title": "PERN Stack Project: Build a Chat App From Scratch | Postgres, TypeScript, Prisma, React" },
+    { "id": "Z_AWfuJXXCI", "title": "Gift a website to your MOM before it's too late | React & Tailwind" },
+    { "id": "mduqkHlJujA", "title": "Build an OnlyFans with Next.js, Stripe and React | Complete Guide 2024" },
+    { "id": "R9PwoQwVpPQ", "title": "Stripe Subscriptions with Next.js - Full Course 2024" },
+    { "id": "tWHXaSC2T_s", "title": "JavaScript and Python - Build and Deploy a Full Stack Web App" },
+    { "id": "bMOxwSvo7rk", "title": "These shortcuts will change how you write code forever" },
+    { "id": "4GUVz2psWUg", "title": "Resume Project: Build and Deploy a Full Stack Twitter Clone with React, Node and React Query | MERN" },
+    { "id": "G4V4xO9wyD8", "title": "12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality" },
+    { "id": "sQ1zvdS8eU8", "title": "Build and Deploy a Full Stack WhatsApp Clone | Video Calls, Screen Sharing | React.js, TypeScript" },
+    { "id": "HwCqsOis894", "title": "MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io | Super Detailed Tutorial" },
+    { "id": "P6UyvDhNTbg", "title": "MERN Stack Project: Build and Deploy a Github-like App | React.js, MongoDB, Node.js, Passport.js" },
+    { "id": "Vr-QHtbmd38", "title": "GraphQL Crash Course in 2024 | Build a Full Stack MERN App" },
+    { "id": "voYZS2218rw", "title": "Prerequisites for React in 2024? You only need 10 JavaScript concepts" },
+    { "id": "eCRvIPPnYs0", "title": "Publishing your own npm package feels like magic" },
+    { "id": "jr-XVRX163I", "title": "How to make Flappy Bird game in JavaScript - Step by step tutorial" },
+    { "id": "f6SA72WQXpM", "title": "Custom hooks are fun. Just admit it.  #coding #reactjs" },
+    { "id": "bQtAg7AFFrY", "title": "Build and Deploy Your Own Instagram App With React and Firebase | Full Tutorial" }, 
+    { "id": "m1DyH-h7rWU", "title": "This Feature Will Make Your Chat App Shine In Your Resume" },
+    { "id": "VVJynV_gpLM", "title": "Sound Notification Tutorial for Chat Applications | ReactJS" },
+    { "id": "IBNMA3uwg9M", "title": "How to Implement Account Freezing Functionality in a Social Media App Using React" },
+    { "id": "tvKhOAlAjTY", "title": "Learn MERN Stack Once And Don't Forget Ever Again | Create a Full Stack Threads Clone" }
+  ],
+  "playlists": [
+    
+  ]
+}

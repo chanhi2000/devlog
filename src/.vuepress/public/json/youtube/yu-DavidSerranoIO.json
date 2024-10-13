@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "DavidSerranoIO",
+    "name": "David Serrano",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaKvO_ATJY-PKwFBgtW8bGpZHaVVdo58PfsRcpwrA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BZpYVLyQET2zWFzIbgT3exVZI85azEBFtk1uvUNzUs2FuCp_DEjVI59oQZkexfGYUtIwryc1KKs=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d173ldnXLzo", "title": "Is it worth learning Flutter in 2024?" },
+    { "id": "01xI01GXzlo", "title": "Insane new App/Game launch requirements on Android 😰" },
+    { "id": "F_fN5mKteis", "title": "🎮️ Flutter GameDev with Casual Games Toolkit & Flame! 🔥" }
+  ]
+}

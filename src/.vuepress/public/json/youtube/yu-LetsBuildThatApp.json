@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "LetsBuildThatApp",
+    "name": "Lets Build That App",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNufB8WyRW2Dxfkdp2_pwUnZtf-GjupbRxH5z6Zmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KU8foRh0FSKMwkR1AyQV4bs-w4cPsbMwaDp_Xoxt1YuEXezZ795anK45Hqovd3aoE8ri4LLHMw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dzvNdJGq_Ec", "title": "SwiftUI Firebase Chat 09: Navigation Link to Chat Log View" }, 
+    { "id": "pPsKTTd55xI", "title": "SwiftUI Firebase Chat 05 - Creating Template Messages View" }, 
+    { "id": "bxCDL3kY8XA", "title": "iOS 15 Async Await JSON Fetching AsncImage Main Actors" }, 
+    { "id": "9lVLFlyaiq4", "title": "SwiftUI How to create Custom Tab View with Tab Bar" }, 
+    { "id": "euGLqwOEpZE", "title": "SwiftUI Movies Carousel Parallax Zoom Animation" }, 
+    { "id": "K0IO4QvFxnM", "title": "Mastering Generics: Is This The Most Advanced Swift Code You've Seen?" }, 
+    { "id": "n06RE9A_8Ks", "title": "Swift: How to Migrate MVC to MVVM & Intro Unit Testing" }, 
+    { "id": "eu-YaVvsbjQ", "title": "SwiftUI Grids Columns with JSON ObservableObject and Async Image Loading" }, 
+    { "id": "6rJN_ECd1XM", "title": "When to Semaphore vs Dispatch Group! Careful Multithreaded Shared Resource" }, 
+    { "id": "q0-DIJszYRo", "title": "Weak and Unowned Self Closure Memory Leak Fixes" }, 
+    { "id": "ULEFrRSPXFE", "title": "SwiftUI Calculator - Master Stacking (Ep 1)" }, 
+    { "id": "514A7yzznJE", "title": "SwiftUI Fullscreen Modal Hack withAnimation" }, 
+    { "id": "wVeX68Iu43E", "title": "Create a Search bar to Search from TableView Xcode 9.0 (Swift 4.0)" }, 
+    { "id": "1sn-io2OCtw", "title": "UIKit Facebook: Preview Oriented Development with LBTATools (Ep 1)" }, 
+    { "id": "ZxHndSGmWcE", "title": "Xcode 11 Swift Package Manager: Installing Dependencies" }, 
+    { "id": "1IlUBHvgY8Q", "title": "SwiftUI MVVM Programming with ObservableObject `@Published` `@ObservedObject`" }, 
+    { "id": "5lSJzzI2fj8", "title": "SwiftUI: Animated Bar Charts and Picker Segmented Style Binding" }, 
+    { "id": "vVfremnOKXs", "title": "Fullstack MyJournal - Home Posts CRUD in HTML EJS (Ep 3)" }, 
+    { "id": "ihJGxFu2u9Q", "title": "Kotlin Firebase Messenger 01: Brand New Series - Creating Register and Login UI" }, 
+    { "id": "yKWC3ov-ksg", "title": "Swift 4.2 - Auto Layouts & Constraints - Ticket Booking screen (Xcode 10.1)" }, 
+    { "id": "DDuAt14e418", "title": "Speeding Up UIKit Development with SwiftUI UIKit Integration UIViewControllerRepresentable" }, 
+    { "id": "l7vkP6WW6Yk", "title": "SwiftUI Reactive Intro: State Management and Bindings" }, 
+    { "id": "7QgPpvqTfeo", "title": "SwiftUI: Facebook Complex Layouts - Horizontal Scroll View" }, 
+    { "id": "bz6GTYaIQXU", "title": "SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays" }, 
+    { "id": "VSvz62fGyYM", "title": "How to Run SwiftUI on Mojave with Playgrounds and Sample Code" }, 
+    { "id": "q421Ll4qOvc", "title": "SwiftUI Sneak Preview Demo Project" }, 
+    { "id": "B92vSN5K4Rc", "title": "Swift Grouped Messages: Easy Auto Sizing Cells (Ep 1)" }, 
+    { "id": "P5opi9tIuro", "title": "Swift Grouped Messages: UITableView Section Date Headers (Ep 3)" }, 
+    { "id": "SuRiwVF5bzs", "title": "Kotlin Messenger 04: Super Fast Groupie RecyclerView and New Messages" }, 
+    { "id": "86dkYGeXMaU", "title": "Kotlin Messenger 03: Upload to Firebase Storage and Save User to Database + CircleImageView" }, 
+    { "id": "RYyri2W3Tho", "title": "Kotlin Messenger 02: Installing Firebase Auth and Register User + Rounded Corners UI" }
+  ]
+}

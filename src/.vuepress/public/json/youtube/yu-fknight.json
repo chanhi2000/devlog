@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "fknight",
+    "name": "ForrestKnight",
+    "profile": "https://yt3.googleusercontent.com/I3x84cuDVUoh8mj5TAE08R6ieGwTvfCxX5_iT4nQYtQfdCgULbaqIifIDfb8tj9n_ho9w6b00g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AqxtaCQJVqERHpcnvpyeeIMPj_wp-lJzRyGoi-7bYVL50YDJ4_X5aMbGvzgjQrxzqyBQuUlmyEY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zG1cM9VSINg", "title": "A Complete Overview of DevOps" },
+    { "id": "LV_r2ahaKto", "title": "So, you want to be a programmer?" },
+    { "id": "f_ZxgQQ74Lc", "title": "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind" },
+    { "id": "8deKXiV-eLE", "title": "How to Automate Your Developer Workflow" },
+    { "id": "Wg16BOslJGk", "title": "I Remade My First Artificial Intelligence Program 7 Years Later w/ a New Algorithm" },
+    { "id": "VpnZnFUHhIU", "title": "The Data Structure You Use Matters a Lot" },
+    { "id": "vxk6YPRVg_o", "title": "Everything You NEED to Know about Web Scraping (Advanced)" },
+    { "id": "ALPWOiUKIjY", "title": "How Data Structures & Algorithms are Actually Used" },
+    { "id": "S1nJPemTgzk", "title": "How Software Engineers SHOULD Write Code" },
+    { "id": "UmeDkmGL62Y", "title": "The Dev Platform is ALMOST Done!! - Dev Startup Day 11" },
+    { "id": "s2JSKp95Zaw", "title": "Dev Startup Day 12 - Merry Christmas!" },
+    { "id": "c6vjFQBlxvY", "title": "The Making of VIM: The Most Beloved Text Editor of All Time" },
+    { "id": "YuJ6jEb3bOQ", "title": "Building the Dev Platform Ep 10: Code with Me" },
+    { "id": "R-1xJTFknc8", "title": "Building the Dev Platform Ep 9: Done with the Profile Page!" },
+    { "id": "jCem-wZuH34", "title": "I Coded a Mystery Revealing Scavenger Hunt Site" }, 
+    { "id": "sDlCSIDwpDs", "title": "Everything You NEED to Know About WEB APP Architecture" }, 
+    { "id": "b0pkpcD8Ms4", "title": "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite" }, 
+    { "id": "DIny00tOBdU", "title": "Command Line Tools ALL Developers Should Know" }, 
+    { "id": "LktFP0Dpl-c" , "title": "I Coded with WSL2 for a Week" }, 
+    { "id": "gZqdOe6VoFQ", "title": "Arch Linux VM Setup & Coding Talk" }, 
+    { "id": "9PgZCJNzY9M", "title": "An Entire Software Development Life Cycle - Full Guide (Tutorial)" }, 
+    { "id": "bhopW92Qxw8", "title": "My Linux Ubuntu Setup for Software Development" }, 
+    { "id": "jArtVVbYGKk", "title": "These AI TOOLS will help you CODE BETTER" } 
+  ],
+  "playlists": [
+    
+  ]
+}

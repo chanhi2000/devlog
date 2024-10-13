@@ -1,0 +1,1114 @@
+[
+  {
+    "repo": "spring-projects/spring-boot",
+    "desc": "Spring Boot",
+    "officialSite": "https://spring.io/projects/spring-boot",
+    "topics": ["java", "framework", "spring", "spring-boot"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PowerJob/PowerJob",
+    "desc": "Enterprise job scheduling middleware with distributed computing ability.",
+    "officialSite": "http://www.powerjob.tech",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/iotdb",
+    "desc": "Apache IoTDB",
+    "officialSite": "https://iotdb.apache.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "officialSite": "https://seatunnel.apache.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alibaba/arthas",
+    "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "officialSite": "https://arthas.aliyun.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "accforaus/libhwp",
+    "desc": "🇰🇷 한글과 컴퓨터의 한글 문서 파일 구조 5.0 (hwp) 라이브러리",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "checkstyle/checkstyle",
+    "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "officialSite": "https://checkstyle.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jython/jython",
+    "desc": "Python for the Java Platform",
+    "officialSite": "https://www.jython.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "axkr/symja_android_library",
+    "desc": "☕ Symja - computer algebra language & symbolic math library. A collection of popular algorithms implemented in pure Java. Inspired by Wolfram Language built-in functions.",
+    "officialSite": "https://matheclipse.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "shannah/jdeploy",
+    "desc": "Developer friendly desktop deployment tool",
+    "officialSite": "https://www.jdeploy.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaperMC/Debuggery",
+    "desc": "A small plugin designed to expose API values at runtime.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaperMC/DataConverter",
+    "desc": "Rewrite of the dataconverter system for performance.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaperMC/Starlight",
+    "desc": "Rewrites the light engine to fix lighting performance and lighting errors",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sniffy/sniffy",
+  "desc": "Sniffy - interactive profiler, testing and chaos engineering tool for Java",
+    "officialSite": "https://www.sniffy.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.s",
+    "officialSite": "https://conductor.netflix.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "officialSite": "https://grasscutter.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mbechler/marshalsec",
+    "desc": "Java Unmarshaller Security - Turning your data into code execution",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "whwlsfb/Log4j2Scan",
+    "desc": "Log4j2 RCE Passive Scanner plugin for BurpSuite",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "flyway/flyway",
+    "desc": "Flyway by Redgate • Database Migrations Made Easy.",
+    "officialSite": "https://flywaydb.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "open-pdf-sign/open-pdf-sign",
+    "desc": "Digitally sign PDF files from your commandline",
+    "officialSite": "https://openpdfsign.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "theonedev/onedev",
+    "desc": "Self-hosted Git Server with CI/CD and Kanban",
+    "officialSite": "https://code.onedev.io/onedev/server",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "strongbox/strongbox",
+    "desc": "Strongbox is an artifact repository manager.",
+    "officialSite": "https://strongbox.github.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "JabRef/jabref",
+    "desc": "Graphical Java application for managing BibTeX and biblatex (.bib) databases",
+    "officialSite": "https://devdocs.jabref.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "classycodeoss/nfc-sockets",
+    "desc": "Sockets over NFC",
+    "officialSite": "https://blog.classycode.com/sockets-over-nfc-on-android-c294b6c58bbf",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "bazelbuild/bazel",
+    "desc": "a fast, scalable, multi-language and extensible build system",
+    "officialSite": "https://bazel.build",
+    "topics": ["fast", "build", "scalable", "test", "bazel", "build-system", "correct", "multi-language"],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "davinci1012/pinduoduo_backdoor_unpacker",
+    "desc": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/paimon",
+    "desc": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+    "officialSite": "https://paimon.apache.org/",
+    "topics": ["big-data", "data-ingestion", "flink", "paimon", "real-time-analytics", "spark", "streaming-datalake", "table-store"],
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
+    "banner": ""
+  }, {
+    "repo": "HamburgChimps/apple-notes-liberator",
+    "desc": "Free your Apple Notes data from Notes.app",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "liyupi/yu-auto-reply",
+    "desc": "AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "Kamilahsantos/Java-week-LinuxTips",
+    "desc": "Repositório com o conteúdo da Java Week da LinuxTips",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "twitter/GraphJet",
+    "desc": "GraphJet is a real-time graph processing library.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "eGovFramework/egovframe-template-simple-backend",
+    "desc": "표준프레임워크 심플홈페이지 BackEnd",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "aress31/burpgpt",
+    "desc": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "HumbleUI/Skija",
+    "desc": "Java bindings for Skia",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "zeromq/jeromq",
+    "desc": "Pure Java ZeroMQ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "officialSite": "https://www.macrozheng.com/admin",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dataease/dataease",
+    "desc": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+    "officialSite": "https://dataease.io/",
+    "topics": ["apache-doris", "business-intelligence", "data-analysis", "data-visualization", "echarts", "kettle", "superset", "tableau"],
+    "avatar": "https://avatars.githubusercontent.com/u/75054108?v=4",
+    "banner": ""
+  }, {
+    "repo": "jbake-org/jbake",
+    "desc": "Java based open source static site/blog generator for developers & designers.",
+    "officialSite": "http://jbake.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "questdb/questdb",
+    "desc": "An open source time-series database for fast ingest and SQL queries",
+    "officialSite": "https://questdb.io",
+    "topics": ["java", "iot", "postgres", "sql", "database", "big-data", "time-series", "analytics", "cpp", "grafana", "postgresql", "simd", "low-latency", "financial-analysis", "tsdb", "hacktoberfest", "time-series-database", "questdb"],
+    "avatar": "",
+    "banner": ""
+  } ,{
+      "repo": "termux/termux-app",
+      "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "officialSite": "https://f-droid.org/en/packages/com.termux",
+      "topics": ["android", "linux", "terminal", "termux", "hacktoberfest"]  
+  }, {
+    "repo": "cedar-policy/cedar-java",
+    "desc": "Java bindings for the Cedar language",
+    "officialSite": "https://www.cedarpolicy.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "krasa/StringManipulation",
+    "desc": "IntelliJ plugin - https://plugins.jetbrains.com/plugin/2162",
+    "officialSite": "",
+    "topics": ["java", "intellij", "intellij-plugin"],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "OpenRefine/OpenRefine",
+    "desc": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+    "officialSite": "https://openrefine.org",
+    "topics": ["java", "data-science", "reconciliation", "wikidata", "opendata", "journalism", "data-analysis", "data-wrangling", "datamining", "datajournalism", "datacleaning", "datacleansing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "officialSite": "https://doris.apache.org",
+    "topics": ["bigquery", "database", "dbt", "delta-lake", "elt", "etl", "hadoop", "hive", "hudi", "iceberg", "lakehouse", "olap", "query-engine", "real-time", "redshift", "snowflake", "spark", "sql"],
+    "avatar": "",
+    "banner": ""
+  } ,{
+    "repo": "nickm980/smallville",
+    "desc": "Create Generative Agent simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior",
+    "officialSite": "https://nickm980.github.io/smallville",
+    "topics": ["generative-agents"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenAPITools/openapi-generator",
+    "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "officialSite": "https://openapi-generator.tech",
+    "topics": ["api", "sdk", "rest", "generator", "rest-api", "openapi", "api-client", "api-server", "restful-api", "hacktoberfest", "rest-client", "openapi3", "openapi-generator"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "officialSite": "https://www.nsa.gov/ghidra",
+    "topics": ["reverse-engineering", "disassembler", "software-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/lucene",
+    "desc": "Apache Lucene open-source search software",
+    "officialSite": "https://lucene.apache.org",
+    "topics": ["search", "java", "search-engine", "information-retrieval", "backend", "nosql", "lucene"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CodinGame/SpringChallenge2023",
+    "desc": "https://www.codingame.com/contests/spring-challenge-2023",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/incubator-baremaps",
+    "desc": "Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.",
+    "officialSite": "http://baremaps.apache.org",
+    "topics": ["java", "vector-tiles", "openstreetmap", "postgresql", "postgis", "mapbox", "spatial-data", "web-mapping"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "barry-ran/QtScrcpy",
+    "desc": "Android real-time display control software",
+    "officialSite": "https://blog.csdn.net/rankun1/article/details/87970523",
+    "topics": ["android", "qt"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jetlinks/jetlinks-community",
+    "desc": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
+    "officialSite": "https://www.jetlinks.cn",
+    "topics": ["java", "mqtt", "iot", "spring-boot", "tcp", "rule-engine", "netty", "websocket", "reactive-streams", "iot-platform", "reactor", "webflux", "r2dbc", "jetlinks"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zongzibinbin/MallChat",
+    "desc": "mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "officialSite": "https://seatunnel.apache.org",
+    "topics": ["real-time", "offline", "high-performance", "apache", "data-integration", "sql-engine", "data-pipeline", "etl-framework", "seatunnel"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hncboy/chatgpt-web-java",
+    "desc": "Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。",
+    "officialSite": "https://front3.stargpt.top",
+    "topics": ["java", "docker", "chatgpt", "chatgpt-java"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MCRcortex/nekodetector",
+    "desc": "Nekoclient infection detector",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fractureiser-investigation/fractureiser",
+    "desc": "Information about the fractureiser malware",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "datahub-project/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "officialSite": "https://datahubproject.io",
+    "topics": ["metadata", "linkedin", "data-catalog", "data-discovery", "datahub"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linux-china/chatgpt-spring-boot-starter",
+    "desc": "Spring Boot ChatGPT Starter",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chat2db/Chat2DB",
+    "desc": "🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB",
+    "officialSite": "http://chat2db.ai",
+    "topics": ["ai", "bi", "chatgpt", "clickhouse", "database", "datagrip", "db2", "dbeaver", "gpt", "hive", "mysql", "navicat", "oracle", "postgresql", "redis", "redis-client", "sqlserver", "text2sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nayuki/QR-Code-generator",
+    "desc": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",
+    "officialSite": "https://www.nayuki.io/page/qr-code-generator-library",
+    "topics": ["javascript", "python", "c", "java", "rust", "c-plus-plus", "library", "typescript", "qr-code", "qr-generator", "qr"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "milkcoke/java-gRPC-practice",
+    "desc": "This is practicce for gRPC Java + SpringBoot",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rogerkeays/unchecked",
+    "desc": "Say goodbye to checked exceptions forever.",
+    "officialSite": "https://patreon.com/Jamaica440",
+    "topics": ["java", "programming", "programming-languages", "exception-handling", "javac", "checked-exceptions"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "devopshydclub/vprofile-project",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "baidu/bifromq",
+    "desc": "A MQTT broker implementation adopting serverless architecture",
+    "officialSite": "https://bifromq.io",
+    "topics": ["mqtt", "iot", "multi-tenant", "serverless", "distributed", "mqtt-broker", "decentralized-cluster"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Tencent/Hippy",
+    "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "officialSite": "https://hippyjs.org",
+    "topics": ["react", "android", "ios", "mobile", "web", "vue", "frontend", "cross-platform", "hippy"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/hive",
+    "desc": "Apache Hive",
+    "officialSite": "https://hive.apache.org",
+    "topics": ["java", "sql", "database", "big-data", "hive", "hadoop", "apache"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "languagetool-org/languagetool",
+    "desc": "Style and Grammar Checker for 25+ Languages",
+    "officialSite": "https://languagetool.org",
+    "topics": ["natural-language-processing", "spellcheck", "natural-language", "grammar", "style-checker", "proofreading"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dogboy21/serializationisbad",
+    "desc": "A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StarRocks/starrocks",
+    "desc": "StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  InfoWorld’s 2023 BOSSIE Award for best open source software.",
+    "officialSite": "https://starrocks.io",
+    "topics": ["analytics", "big-data", "cloudnative", "database", "datalake", "delta-lake", "distributed-database", "hudi", "iceberg", "join", "lakehouse", "lakehouse-platform", "mpp", "olap", "real-time-analytics", "real-time-updates", "realtime-database", "sql", "star-schema", "vectorized"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nextflow-io/nextflow",
+    "desc": "A DSL for data-driven computational pipelines",
+    "officialSite": "http://nextflow.io",
+    "topics": ["docker", "groovy", "hello", "aws", "cloud", "bioinformatics", "pipeline", "nextflow", "hpc", "reproducible-research", "workflow-engine", "slurm", "pipeline-framework", "sge", "singularity", "reproducible-science", "dataflow", "singularity-containers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "quarkusio/quarkus",
+    "desc": "Quarkus: Supersonic Subatomic Java.",
+    "officialSite": "https://quarkus.io",
+    "topics": ["java", "kubernetes", "reactive", "cloud-native", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openjdk/jdk",
+    "desc": "JDK main-line development https://openjdk.org/projects/jdk",
+    "officialSite": "",
+    "topics": ["java", "jvm", "openjdk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zfdang/Android-Touch-Helper",
+    "desc": "开屏跳过-安卓系统的开屏广告自动跳过助手",
+    "officialSite": "https://touchhelper.zfdang.com",
+    "topics": ["android", "accessibility", "ad", "screen", "click", "startup", "start", "activity", "auto", "splash", "skip"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kousiknath/LowLevelDesign",
+    "desc": "Various Low Level Object Oriented System Design problems are discussed in this space",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Snoopy1866/LiTiaotiao-Custom-Rules",
+    "desc": "李跳跳自定义规则",
+    "officialSite": "https://snoopy1866.github.io/LiTiaotiao-Custom-Rules",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "officialSite": "https://reactnative.dev",
+    "topics": ["react", "android", "ios", "mobile", "react-native", "cross-platform", "app-framework", "mobile-development"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ebandal/H2Orestart",
+    "desc": "한컴파일을 LibreOffice에서 읽을 수 있도록 하는 extension입니다.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/incubator-kie-drools",
+    "desc": "Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.",
+    "officialSite": "http://www.drools.org",
+    "topics": ["dmn", "hacktoberfest", "java", "rule-engine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "permazen/permazen",
+    "desc": "Language-Natural Persistence Layer for Java",
+    "officialSite": "http://permazen.io",
+    "topics": ["database", "java", "key-value", "orm-framework", "persistence", "persistence-layer", "persistence-programming", "raft", "schema-management", "serialization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "byronka/minum",
+    "desc": "A minimal Java web framework built from scratch",
+    "officialSite": "",
+    "topics": ["educational-project", "example-project", "experimental", "micro-framework", "tdd"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vespa-engine/vespa",
+    "desc": "The open big data serving engine. https://vespa.ai",
+    "officialSite": "https://vespa.ai",
+    "topics": ["ai", "big-data", "cpp", "java", "machine-learning", "search-engine", "server", "serving", "serving-recommendation", "tensorflow", "vector-search", "vespa"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jbellis/jvector",
+    "desc": "JVector: the most advanced embedded vector search engine",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kestra-io/kestra",
+    "desc": "Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI",
+    "officialSite": "https://kestra.io",
+    "topics": ["data", "data-engineering", "data-integration", "data-orchestration", "data-orchestrator", "data-pipeline", "data-quality", "elt", "etl", "low-code", "orchestration", "pipeline", "reverse-etl", "scheduler", "workflow", "workflow-engine"],
+    "avatar": "https://avatars.githubusercontent.com/u/59033362?v=4",
+    "banner": ""
+  }, {
+    "repo": "YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "officialSite": "https://doc.iocoder.cn/",
+    "topics": ["flowable", "mybatis-plus", "mysql", "redis", "redisson", "spring-security", "springboot", "vue"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "seata/seata",
+    "desc": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "officialSite": "https://seata.io",
+    "topics": ["at", "branch-transactions", "data-consistency", "distributed-transaction", "dtx", "fescar", "gts", "microservice", "saga", "seata", "tcc", "tcc-transaction", "transaction-manager", "xa"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/seatunnel",
+    "desc": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",
+    "officialSite": "https://seatunnel.apache.org",
+    "topics": ["apache", "batch", "cdc", "change-data-capture", "data-ingestion", "data-integration", "elt", "high-performance", "offline", "real-time", "streaming"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kohlschutter/jdk.compiler.standalone",
+    "desc": "Standalone jdk.compiler / JDK javac Compiler Framework + Compiler Tree API",
+    "officialSite": "",
+    "topics": ["compiler", "java", "javac", "jdk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/bindiff",
+    "desc": "Quickly find differences and similarities in disassembled code",
+    "officialSite": "https://zynamics.com/bindiff.html",
+    "topics": ["bindiff", "binexport", "diffing", "program-analysis", "program-differencing", "reverse-engineering"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alipay/fury",
+    "desc": "A blazing fast multi-language serialization framework powered by jit and zero-copy",
+    "officialSite": "https://furyio.org",
+    "topics": ["compression", "cpp", "cross-language", "encoding", "fast", "golang", "hacktoberfest", "java", "javascript", "jit", "lightning", "marshalling", "multiple-language", "persistence", "python", "rpc", "rust", "serialization", "transfer", "zero-copy"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Azure/azure-sdk-for-java",
+    "desc": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ",
+    "officialSite": "",
+    "topics": ["azure", "azure-resources", "azure-sdk", "azure-services", "hacktoberfest", "java", "media"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mthiim/dilithium-java",
+  "desc": "Experimental Java implementation of post-quantum crypto algorithm Dilithium (including JCE provider)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "protomaps/basemaps",
+    "desc": "Basemap PMTiles generation and cartographic styles for OpenStreetMap data and more",
+    "officialSite": "https://maps.protomaps.com",
+    "topics": ["cartography", "maplibre", "maps", "openlayers", "openstreetmap", "pmtiles"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "officialSite": "https://dbeaver.io",
+    "topics": ["database", "db2", "dbeaver", "erd", "gui", "java", "mysql", "nosql", "oracle", "postgresql", "redshift", "sql", "sqlite", "sqlserver"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "unloggedio/unlogged-sdk",
+    "desc": "Unlogged SDK for recording code execution",
+    "officialSite": "https://unlogged.io",
+    "topics": ["assertions", "automated-testing", "debugging-tool", "java", "junit", "junit5", "mocking", "mockito", "regression-testing", "test-automation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "unloggedio/intellij-java-plugin",
+    "desc": "IntelliJ plugin for java language support",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sirixdb/sirix",
+    "desc": "SirixDB is an embeddable, temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach.",
+    "officialSite": "https://sirix.io",
+    "topics": ["comparison", "coroutines", "diff", "diff-algorithm", "diffing", "hacktoberfest", "hashing", "java", "json", "jsoniq", "keycloak", "kotlin", "snapshot", "ssd", "storage", "temporal-data", "versioning", "vertx", "xml", "xquery"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CatVodTVOfficial/TVBoxOSC",
+    "desc": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Melledy/LunarCore",
+    "desc": "A game server reimplementation for a certain turn-based anime game",
+    "officialSite": "",
+    "topics": ["game-server"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Stirling-Tools/Stirling-PDF",
+    "desc": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+    "officialSite": "",
+    "topics": ["docker", "java", "pdf", "pdf-converter", "pdf-manipulation", "pdf-merger", "pdf-ocr", "pdf-tools", "pdf-web-apps", "pdfmerger"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aklivity/zilla",
+    "desc": "🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.",
+    "officialSite": "https://docs.aklivity.io/zilla",
+    "topics": ["api-gateway", "asyncapi", "event-driven-architecture", "event-stream-proxy", "event-streaming", "grpc", "iot", "kafka", "kafka-proxy", "mqtt", "openapi", "proxy", "rest", "server-sent-events", "streaming-api"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/hudi",
+    "desc": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "officialSite": "https://hudi.apache.org/",
+    "topics": ["apacheflink", "apachehudi", "apachespark", "bigdata", "data-integration", "datalake", "hudi", "incremental-processing", "stream-processing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+  "repo": "Stirling-Tools/Stirling-PDF",
+    "desc": "locally hosted web application that allows you to perform various operations on PDF files",
+    "officialSite": "",
+    "topics": ["docker", "java", "pdf", "pdf-converter", "pdf-manipulation", "pdf-merger", "pdf-ocr", "pdf-tools", "pdf-web-apps", "pdfmerger"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gunnarmorling/1brc",
+    "desc": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LSPosed/LSPosed",
+    "desc": "LSPosed Framework",
+    "officialSite": "https://lsposed.org",
+    "topics": ["android", "xposed"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/flink",
+    "desc": "Apache Flink",
+    "officialSite": "",
+    "topics": ["big-data", "flink", "java", "python", "scala", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "spring-projects/spring-ai",
+    "desc": "An Application Framework for AI Engineering",
+    "officialSite": "https://docs.spring.io/spring-ai/reference/",
+    "topics": ["artificial-intelligence", "java"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NativeVision/viro",
+    "desc": "ViroReact: The AR and VR library for React Native 📳💙💛🤍💚",
+    "officialSite": "",
+    "topics": ["android", "blacklivesmatter", "ios", "nowar", "viro-community", "viroreact"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "polymorphicshade/Tubular",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ReactiveX/RxJava",
+    "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "officialSite": "",
+    "topics": ["flow", "java", "reactive-streams", "rxjava"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/pkl",
+    "desc": "A configuration as code language with rich validation and tooling.",
+    "officialSite": "https://pkl-lang.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bepass-org/oblivion",
+    "desc": "Unofficial warp client for android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "conductor-oss/conductor",
+    "desc": "Conductor is an event driven orchestration platform",
+    "officialSite": "https://conductor-oss.org",
+    "topics": ["distributed-systems", "durable-execution", "grpc", "java", "javascript", "microservice-orchestration", "orchestration-engine", "orchestrator", "reactjs", "spring-boot", "workflow-automation", "workflow-engine", "workflow-management", "workflows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oddfar/campus-imaotai",
+    "desc": "i茅台app自动预约，每日自动预约，支持docker一键部署",
+    "officialSite": "https://oddfar.github.io/campus-doc/campus-imaotai",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "camunda/camunda-bpm-platform",
+    "desc": "Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.",
+    "officialSite": "https://camunda.com/",
+    "topics": ["bpm", "bpmn", "camunda-bpm-platform", "camunda-engine", "cmmn", "dmn", "java", "process-engine", "workflow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "testcontainers/testcontainers-java",
+    "desc": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "officialSite": "https://testcontainers.org",
+    "topics": ["docker", "docker-compose", "hacktoberfest", "java", "junit", "jvm", "test-automation", "testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "langchain4j/langchain4j",
+    "desc": "Java version of LangChain",
+    "officialSite": "https://docs.langchain4j.dev",
+    "topics": ["azure-openai", "chatgpt", "chroma", "embeddings", "gemini", "gpt", "huggingface", "java", "langchain", "langchain-java", "llama", "llama2", "localai", "milvus", "ollama", "onnx", "openai", "pinecone", "vector-database", "weaviate"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "00-Evan/shattered-pixel-dungeon",
+    "desc": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+    "officialSite": "https://shatteredpixel.com/shatteredpd/",
+    "topics": ["android", "game", "game-development", "ios", "java", "libgdx"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "beemdevelopment/Aegis",
+    "desc": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+    "officialSite": "https://getaegis.app",
+    "topics": ["2fa", "android", "authenticator", "encryption", "fingerprint", "hacktoberfest", "hotp", "otp", "secure", "totp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jagrosh/MusicBot",
+    "desc": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "officialSite": "https://jmusicbot.com",
+    "topics": ["discord", "discord-bot", "java", "jda", "music", "music-bot", "musicbot", "playlist", "playlists", "radio", "soundcloud", "youtube"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oracle/graal",
+    "desc": "GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+    "officialSite": "https://www.graalvm.org",
+    "topics": ["aot", "compiler", "graalvm", "java"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AutoMQ/automq",
+    "desc": "A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.",
+    "officialSite": "https://www.automq.com",
+    "topics": ["cloud", "cloud-economics", "cloud-native", "ebs", "kafka", "messaging", "minio", "s3", "serverless", "spot", "storage", "streaming"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "houbb/sensitive-word",
+    "desc": " 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)",
+    "officialSite": "https://houbb.github.io/opensource/sensitive-word",
+    "topics": ["dfa", "dirty-word", "nlp", "sensitive", "sensitive-word", "sensitive-word-filter", "trie-tree"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "galliumdata/adumbra",
+    "desc": "A light-weight Java library that uses steganography to hide data in bitmaps using a secret key",
+    "officialSite": "",
+    "topics": ["steganography"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mukel/llama3.java",
+    "desc": "Practical Llama 3 inference in Java",
+    "officialSite": "",
+    "topics": ["java", "llama", "llama3", "llm", "llm-inference", "llms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LovetheFrogs/OptiGraph",
+    "desc": "Optimum graph creation and distribution for underground networks.",
+    "officialSite": "",
+    "topics": ["algorithms", "graph", "gui", "java"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "line/armeria",
+    "desc": "Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.",
+    "officialSite": "https://armeria.dev",
+    "topics": ["gateway", "grpc", "grpc-client", "grpc-server", "hacktoberfest", "http", "http-client", "http-server", "http2", "micro-framework", "microservices", "netty", "rpc", "rpc-client", "rpc-framework", "rpc-library", "rpc-server", "thrift", "thrift-client", "thrift-server"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bowbahdoe/jdk-httpserver",
+    "desc": "Utilities for working with the JDK's built-in HTTP server.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "trinodb/trino",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+    "officialSite": "https://trino.io",
+    "topics": ["analytics", "big-data", "data-science", "database", "databases", "datalake", "delta-lake", "distributed-database", "distributed-systems", "hadoop", "hive", "iceberg", "java", "jdbc", "presto", "prestodb", "query-engine", "sql", "trino"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openkoda/openkoda",
+    "desc": "Open source business application platform for fast development",
+    "officialSite": "https://openkoda.com/",
+    "topics": ["business-application-platform", "customizable", "development-tools", "java", "multitenancy", "open-source", "openkoda", "spring-boot"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hkupty/penna",
+    "desc": "Opinionated SLF4J backend that logs natively to json",
+    "officialSite": "https://hkupty.github.io/penna/",
+    "topics": ["java", "java-library", "java-logging", "json-logging", "jvm", "jvm-logging", "slf4j", "slf4j-logger", "slf4j-loggers", "structured-logging"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xpipe-io/xpipe",
+    "desc": "Your entire server infrastructure at your fingertips",
+    "officialSite": "https://xpipe.io",
+    "topics": ["bash", "docker", "filemanager", "files", "java", "javafx", "k8s", "kubernetes", "lxd", "networking", "postgres", "sftp", "ssh", "wsl"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openjdk/jmh",
+    "desc": "https://openjdk.org/projects/code-tools/jmh",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mariofusco/quarkus-drools-llm",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "datastrato/gravitino",
+    "desc": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+    "officialSite": "https://datastrato.ai/docs/",
+    "topics": ["ai-catalog", "data-catalog", "datalake", "federated-query", "lakehouse", "metadata", "metalake", "model-catalog", "opendatacatalog", "skycomputing", "stratosphere"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tencentmusic/supersonic",
+    "desc": "SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "uber/NullAway",
+    "desc": "A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead",
+    "officialSite": "",
+    "topics": ["android", "java", "nullability", "nullability-analysis", "static-analysis", "static-code-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nacular/measured",
+    "desc": "Intuitive, type-safe units of measure",
+    "officialSite": "https://nacular.github.io/measured",
+    "topics": ["kotlin", "library", "mpp", "units", "units-of-measure"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bidrohi/bhandar",
+    "desc": "A simple repository implementation that combines network and local source",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "deeplearning4j/deeplearning4j",
+    "desc": "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.",
+    "officialSite": "http://deeplearning4j.konduit.ai",
+    "topics": ["artificial-intelligence", "clojure", "deeplearning", "deeplearning4j", "dl4j", "gpu", "hadoop", "intellij", "java", "linear-algebra", "matrix-library", "neural-nets", "python", "scala", "spark"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jeremylong/DependencyCheck",
+    "desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "officialSite": "https://owasp.org/www-project-dependency-check/",
+    "topics": ["ant-task", "build-tool", "gradle-plugin", "jenkins-plugin", "maven-plugin", "security", "security-audit", "software-composition-analysis", "vulnerability-detection"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Osiris-Team/1JPM",
+    "desc": "1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project.",
+    "officialSite": "",
+    "topics": ["build-tool", "dependecy-manager", "project-management"],
+    "avatar": "https://avatars.githubusercontent.com/u/59899645?v=4",
+    "banner": ""
+  }, {
+    "repo": "dotCMS/core",
+    "desc": "Headless/Hybrid Content Management System for Enterprises",
+    "officialSite": "http://dotcms.com",
+    "topics": ["cloud", "cms", "content", "content-management-system", "dotcms", "dxp", "graphql", "headless-cms", "java", "opensouce"],
+    "avatar": "https://avatars.githubusercontent.com/u/1005263?v=4",
+    "banner": ""
+  }, {
+    "repo": "apache/tika",
+    "desc": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
+    "officialSite": "https://tika.apache.org/",
+    "topics": ["content", "extraction", "java", "metadata", "tika"],
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
+    "banner": ""
+  }, {
+    "repo": "opensearch-project/OpenSearch",
+    "desc": "🔎 Open source distributed and RESTful search engine.",
+    "officialSite": "https://opensearch.org/docs/latest/opensearch/index/",
+    "topics": ["analytics", "apache2", "foss", "java", "search", "search-engine"],
+    "avatar": "https://avatars.githubusercontent.com/u/80134844?v=4",
+    "banner": ""
+  }, {
+    "repo": "thingsboard/thingsboard",
+    "desc": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+    "officialSite": "https://thingsboard.io",
+    "topics": ["cloud", "coap", "dashboard", "iot", "iot-analytics", "iot-platform", "iot-solutions", "java", "kafka", "lwm2m", "microservices", "middleware", "mqtt", "netty", "platform", "snmp", "thingsboard", "visualization", "websockets", "widgets"],
+    "avatar": "https://avatars.githubusercontent.com/u/24291394?v=4",
+    "banner": ""
+  }, {
+    "repo": "Netflix/maestro",
+    "desc": "Maestro: Netflix’s Workflow Orchestrator",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
+    "banner": ""
+  }, {
+    "repo": "wakingrufus/spring-funk",
+    "desc": "A framework for declarative DSL configuration for Spring Boot.",
+    "officialSite": "",
+    "topics": ["functional-programming", "kotlin", "spring-boot"],
+    "avatar": "https://avatars.githubusercontent.com/u/8632982?v=4",
+    "banner": ""
+  }, {
+    "repo": "L-Briand/tuple",
+    "desc": "Tuple class and serializer for kotlinx-serialization",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-library", "kotlin-multiplatform", "kotlin-multiplatform-library", "tuple", "tuples"],
+    "avatar": "https://avatars.githubusercontent.com/u/14044749?v=4",
+    "banner": ""
+  }, {
+    "repo": "mcastillof/FakeTraveler",
+    "desc": "Fake where your phone is located (Mock location for Android).",
+    "officialSite": "",
+    "topics": ["android-application", "fake-locations", "floss", "mock-locations", "opensource"],
+    "avatar": "https://avatars.githubusercontent.com/u/6936113?v=4",
+    "banner": ""
+  }, {
+    "repo": "google/guava",
+    "desc": "Google core libraries for Java",
+    "officialSite": "",
+    "topics": ["guava", "java"],
+    "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "banner": ""
+  }, {
+    "repo": "jeecgboot/JeecgBoot",
+    "desc": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "officialSite": "http://www.jeecg.com",
+    "topics": ["activiti", "ant-design", "ant-design-vue", "antd", "codegenerator", "flowable", "java", "jbpm", "jeecg", "jeecgboot", "low-code", "mybatis", "shiro", "spring", "spring-boot", "spring-cloud", "springboot", "springcloud", "vue", "vue3"],
+    "avatar": "https://avatars.githubusercontent.com/u/86360035?v=4",
+    "banner": ""
+  }, {
+    "repo": "jbunke/stipple-effect",
+    "desc": "Stipple Effect is a pixel art editor that supports animation and scripting (available on Windows, macOS and Linux)",
+    "officialSite": "https://flinkerflitzer.itch.io/stipple-effect",
+    "topics": ["animation", "drawing", "game-dev", "game-development", "game-development-workflow", "image-editor", "indie", "java", "painting", "pixel-art", "pixel-editor", "software", "sprite-animation", "sprite-editor"],
+    "avatar": "https://avatars.githubusercontent.com/u/19690276?v=4",
+    "banner": ""
+  }, {
+    "repo": "boricj/ghidra-delinker-extension",
+    "desc": "Ghidra extension for exporting relocatable object files",
+    "officialSite": "",
+    "topics": ["delinking", "ghidra", "ghidra-extension", "reverse-engineering"],
+    "avatar": "https://avatars.githubusercontent.com/u/9872969?v=4",
+    "banner": ""
+  }, {
+    "repo": "syncliteio/SyncLite",
+    "desc": "SyncLite : Build Anything Sync Anywhere",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/150319927?v=4",
+    "banner": ""
+  }, {
+    "repo": "apache/dubbo",
+    "desc": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+    "officialSite": "https://dubbo.apache.org/",
+    "topics": ["distributed-systems", "dubbo", "framework", "grpc", "http", "java", "microservices", "restful", "rpc", "service-mesh", "web"],
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
+    "banner": ""
+  }, {
+    "repo": "halo-dev/halo",
+    "desc": "强大易用的开源建站工具。. Contribute to halo-dev/halo development by creating an account on GitHub.",
+    "officialSite": "https://www.halo.run",
+    "topics": ["blog", "cms", "blog-engine", "halo", "content-management-system", "halocms"],
+    "avatar": "https://avatars.githubusercontent.com/u/55039406?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/126178683/adbb35f3-5a34-48a3-8183-1c1da0b3a3ac"
+  }
+]

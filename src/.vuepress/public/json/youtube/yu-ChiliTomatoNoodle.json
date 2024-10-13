@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ChiliTomatoNoodle",
+    "name": "ChiliTomatoNoodle",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTM_lPWIdUaqduvDmYZDZDYheaf8mW7NW-bFdGc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J0Kh-SdTnL_wPyqo1Tp13x0QlqOYQ7o0eWRKIKL3CjBAIK2Yn9ZZuF87zcdY6m3EJ2X8hUfg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qqztla-tzhw", "title": "C++ Virtual Memory Redpill + bip::offset_ptr" },
+    { "id": "5FwOPSm8lxI", "title": "Controlling Child Processes with boost.process + Interprocess Unit Testing (Repentance 4)" },
+    { "id": "VAReqa6ZMNI", "title": "C++ Multithreading  [Queuing Task Pool]" }, 
+    { "id": "gn-iMLeQvFs", "title": "C++ Multithreading  [Task Queue]" }, 
+    { "id": "bEJYXVSEyG0", "title": "Nginx and Chill [Vagrant + Nginx] 1" }, 
+    { "id": "Dl5Y9BZ957A", "title": "Nginx and Chill [php-fpm] 2" }, 
+    { "id": "JednKTu-8hk", "title": "C++ STD Gems [Multithreading Execution Policy]" }
+  ]
+}
+

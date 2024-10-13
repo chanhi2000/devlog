@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "elibroftw",
+    "name": "elibro",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKagczkqcWC1q6i9xRlNJWGKv36OhrxHE9BgWVa_FA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hebClh_u8OZpQR9YeqT8jX804CvUJxtRzvvQCI8rUF9grQfRDqOUFDi-5K-1juoiYWlpsL0aNQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BbZmLXBDGnU", "title": "Tauri & ReactJS - Creating Modern Desktop Apps (read desc.)" }
+  ]
+}

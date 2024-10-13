@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "maximilian-schwarzmueller",
+    "name": "Maximilian Schwarzmüller",
+    "profile": "https://yt3.googleusercontent.com/niH-kGw8E_vQClmu7N_eVjG8nGtAMkz_X007eVh5r0djg8pqELMEnyTpX2354JEIIqlILw_XoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G8a0inSGWBgVy5luW4WT8AZbYbtm921EMo0XSziT3gHUTu5bnE2AZeE8DbJjWSfJzcmTisX0xuE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yVuyh95kqXk", "title": "Should you use a VPS instead of Vercel, Netlify & co?" },
+    { "id": "Gh70izU3wHk", "title": "My thoughts on the Next.js \"App Router\" & what I (don't) like about it" },
+    { "id": "pvtd-mxlrwI", "title": "Should you use Bun, Deno etc. instead of Node.js?" },
+    { "id": "GwGw9n7TAas", "title": "What's new? What changed? What will change in the future?" },
+    { "id": "w7oljgTfIzM", "title": "My opinion on Angular 18 & React 19" },
+    { "id": "Ip6LTyIIHgc", "title": "Remix might win the React framework race - thanks to React Router!" },
+    { "id": "G8xF99-uzfg", "title": "Laravel, Django, Next.js ... which framework would I use for building a SaaS?" },
+    { "id": "PUXW6UEAW7k", "title": "Why aren't you using Fastify? Or Koa? Or NestJS?" },
+    { "id": "qaYZVnHfFuA", "title": "Do you REALLY need to know Git?" },
+    { "id": "cNaEyuTd2YA", "title": "Don't waste your time!" },
+    { "id": "7YYuZ_YtxmQ", "title": "Why (almost) every JavaScript developer should learn TypeScript" },
+    { "id": "lxZM7kQuBXY", "title": "Should you REALLY learn JavaScript before React, Angular etc?" },
+    { "id": "osFmiMR2OQQ", "title": "👋 Bye, bye software engineers?" },
+    { "id": "rzJitNMyMHo", "title": "Did we go too far?" },
+    { "id": "rOVhKFiZW9U", "title": "HTMX is amazing!" },
+    { "id": "55pP37NDP4c", "title": "Smart Developers Write Simple Code!" },
+    { "id": "HIknhFhhioY", "title": "React 19 Is Coming!" },
+    { "id": "9jqYhAxzJdQ", "title": "Are Metaframeworks Like NextJS The Future Of React & co?" }
+  ]
+}

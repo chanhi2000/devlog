@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "dotconferences",
+    "name": "dotconferences",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMrgfKkpjhjyfhc-Q5onhgJ0N-j5NkxAuyi6YtU4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mIAPQgDQ664X2T_T1BS2upIMcRxYGkx801wd52BOpZPrmi4OChPL3-WdqUi5o0MlkNPZpx0-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bOdfo5SmQc8", "title": "dotJS 2019 - Evan You - State of Components" }, 
+    { "id": "BiDBclcU_I4", "title": "dotJS 2019 - Sven Sauleau - More WebAssembly in your JavaScript" }
+  ]
+}

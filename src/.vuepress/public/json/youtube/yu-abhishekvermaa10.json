@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "abhishekvermaa10",
+    "name": "Abhishek Verma",
+    "profile": "https://yt3.googleusercontent.com/cRbWBQspOR40r_gvfWTwnFIgRKKPrHB1_LWxygMxalSvb7yagxbWCRn5mgtCC25DScaCdD-e5Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zuqjSTImqL2p9qxBXKZZwcYXgYlsylfntzt1NFU0lFWEBsIXOizKFMIGnr_aeSZGlBlXOEIRiQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "U63OcpAhzrw", "title": "Primary Cache | Hibernate in Java | Hibernate #24 | #java #hibernate" },
+    { "id": "LTKy5VbMvDs", "title": "Difference between synchronized, volatile and atomic in Java? #javaprogramming #java #shorts" },
+    { "id": "PaUzMBj52JI", "title": "Secondary Cache | Hibernate in Java | Hibernate #25 | #java #hibernate" },
+    { "id": "iLjVVa6BOc0", "title": "JPA - Why, What and How? | Hibernate in Java | Hibernate #26 | #java #hibernate" },
+    { "id": "tHC7lrbFBCQ", "title": "CRUD using JPA | Hibernate in Java | Hibernate #27 | #java #hibernate #jpa" },
+    { "id": "hAcCS90IzTY", "title": "Mapped Super Class | Hibernate in Java | Hibernate #18 | #java #hibernate" },
+    { "id": "WBh_eqlv8fk", "title": "Intro to Hibernate Query Language (HQL) | Hibernate in Java | Hibernate #19 | #java #hibernate" },
+    { "id": "6BY1Ri4SWg4", "title": "Solving N+1 Problem | Hibernate in Java | Hibernate #20 | #java #hibernate" },
+    { "id": "15NR9gl-ZwY", "title": "Complex queries with HQL | Hibernate in Java | Hibernate #21 | #java #hibernate" },
+    { "id": "pDO7Li8yb1U", "title": "Hibernate Criteria API | Hibernate in Java | Hibernate #22 | #java #hibernate" },
+    { "id": "gKNf1BFedeM", "title": "Eager Loading vs Lazy Loading | Hibernate in Java | Hibernate #12 | #java #hibernate" },
+    { "id": "Tln7KyQ7-O0", "title": "Switching Careers to IT in 2024? This is NOT What They Told You About Getting Hired" },
+    { "id": "BwdhC63pAgY", "title": "Many-to-Many Mapping | Hibernate in Java | Hibernate #14 | #java #hibernate" },
+    { "id": "enRzzORD6vo", "title": "Single Table Inheritance | Hibernate in Java | Hibernate #15 | #java #hibernate" },
+    { "id": "CnSv9oY12wo", "title": "Joined Inheritance | Hibernate in Java | Hibernate #16 | #java #hibernate" },
+    { "id": "UmNfHcS_yHQ", "title": "Table Per Class Inheritance | Hibernate in Java | Hibernate #17 | #java #hibernate" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DerickBailey",
+    "name": "River Lynn Bailey",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZT57GeMaqsby5ILB02tjmudYgJmKTp1PhBiwsaiBGQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xQXx1QZ3oVzPwRMYp_g5-JQGkW07vI-Il1xVBhBtvu4LXhLwvMewB8WEHBo60crgFBEnh1GMy-A=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hnxI-K10auY", "title": "Creating your first Dockerfile, image and container" }
+  ]
+}

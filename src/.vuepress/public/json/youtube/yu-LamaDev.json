@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "LamaDev",
+    "name": "Lama Dev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNbXSjabMNTuGUb9upVn4fma_RVIGHVT2UNEk8e=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "eJ3YysWaP_A", "title": "React Node.js Real Estate App Full Tutorial | MERN Stack App & Real-time Chat" },
+    { "id": "domt_Sx-wTY", "title": "React Chat App Full Tutorial 2024 | Realtime Chat Application Project with Firebase" },
+    { "id": "I0BOUiFe9WY", "title": "Next.js E-Commerce App Full Tutorial with the Best Headless Solution" },
+    { "id": "DJaZUFK8Kv4", "title": "Next.js Animated Portfolio Website with Framer Motion & Tailwind CSS | Next.js Beginner Project" },
+    { "id": "p_FiVGxyksI", "title": "Next.js Auth | This is the Easiest Way To Build Auth with Cookie Sessions" },
+    { "id": "HFj5FMb0jwY", "title": "React Real Estate App UI Design Tutorial for Beginners" },
+    { "id": "vCOSTG10Y4o", "title": "Next.js 14 Complete Course 2024 | Next.js 14 Full Stack App Tutorial for Beginners" },
+    { "id": "6BRZ-yHjYwo", "title": "Build the Fastest Blog Website with Markdown Content | Hugo Static Site Generation Tutorial" },
+    { "id": "cBg6xA5C60s", "title": "Next.js 14 Admin Dashboard Tutorial | Fullstack Next.js 14 Project with Server Actions" }, 
+    { "id": "2KWdT4PkXgY", "title": "CSS Tips And Tricks I Wish I Knew Before" },
+    { "id": "DpYE5zPDRVQ", "title": "Full-Stack Blog App Tutorial | Next.js MongoDB Blog App Project Full Course" },
+    { "id": "aYzT06aQkGI", "title": "Full Stack Restaurant Food Ordering App Tutorial | Next.js 13 Project (Prisma PostgreSQL Stripe)" },
+    { "id": "WlxcujsvcIY", "title": "TypeScript for React/Next.js Developers | TypeScript Tutorial for Beginners" },
+    { "id": "gXlcwtS40LA", "title": "Restaurant Food Delivery App Design - React Next.js & Tailwind | Responsive Food Ordering Website" },
+    { "id": "FweHcYHkt9A", "title": "React Social Media App Design | Dark/Light Mode & Responsive & HTML CSS" }, 
+    { "id": "QQYeipc_cik", "title": "All useEffect Mistakes Every Junior React Developer Makes" }, 
+    { "id": "CCF-xV3RSSs", "title": "React Node.js Video Sharing App Full Tutorial (Redux, JWT, Cookies) | MERN Stack Youtube Clone" }, 
+    { "id": "aTPkos3LKi8", "title": "React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners" }, 
+    { "id": "k3Vfj-e1Ma4", "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)" }, 
+    { "id": "ZqW8JT1gt4U", "title": "Best VS Code Extensions I Wish I Knew Before" }, 
+    { "id": "qALsVa-V9qo", "title": "React 3D Portfolio Website with Three.js | Build and Deploy Responsive React Portfolio" }
+  ]
+}

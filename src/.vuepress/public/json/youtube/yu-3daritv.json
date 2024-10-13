@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "3daritv",
+    "name": "세다리TV",
+    "profile": "https://yt3.googleusercontent.com/sU1w4UX_5YTTd2l8QXsqy9bkhh96e5LQClS4hIzzi0mnd9wmd9D8d5I6g-K1tqTk-It5Cx16=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fPq1zf2vZ1EHuSJOXy88fldsAw6vJi5Je3rqR2mlOwLEF290B-6c5kIm6KlkR6yhvqLOahsDtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nH-6xOtz38w", "title": "참나..메인보드를 이렇게 만들면.. 살 수밖에 없잖아요!ㅠㅠ(GIGABYTE Z790 AORUS MASTER X 리뷰)" },
+    { "id": "6uoVF_YgKFQ", "title": "산업용 미니PC ASUS PL64 간단 개봉기 및 첫인상 (1부)" }
+  ]
+}

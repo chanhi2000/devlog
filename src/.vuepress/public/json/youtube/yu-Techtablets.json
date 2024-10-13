@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Techtablets",
+    "name": "TechTablets",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTycibeGkhtt0172r4OaT3a3ExTYSW2Tx7lSi6VoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jMdg2vMq4lhBW9DS0Glynb6CokEbry9jNL-RRJa3YQ25Ym8KAa8wq8S8nYXUszuMHGlCqDNTtQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZLLzRMvgGVI", "title": "GMKTec NucBox K9 Mini PC Review - Intel Core Ultra 5 125H + Arc iGPU" },
+    { "id": "vecfbiNrRHQ", "title": "Porsche Design Honor Magic V2 RSR Review - The Best Foldable of 2024!" },
+    { "id": "UsT_iuzGDjY", "title": "HONOR Pad 9 Review - A Remarkable Android Tablet For The Price!" },
+    { "id": "pBQ-RwXhJwc", "title": "ASUS Zenbook Duo 2024 Review - The Dual Screen Productive Powerhouse!" },
+    { "id": "xi4vOmn1G08", "title": "1440p Gaming Mini PC! MinisForum HX100G Review" },
+    { "id": "TsTz_yu_Zxc", "title": "AWESOME AMD Ryzen 5 3550H Mini PC - Minis Forum DeskMini DMAF5 Review" }
+  ],
+  "playlists": [
+    
+  ]
+}

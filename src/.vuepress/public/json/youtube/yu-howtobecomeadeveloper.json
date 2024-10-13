@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "howtobecomeadeveloper",
+    "name": "How to Become a Developer",
+    "profile": "https://yt3.googleusercontent.com/kVYpCZYEfX0_b2_Y7SROJsLahriQfOf6rW4egbSxDGWHDLiqhFcPM8eL56EKYfgjzetQQRx7fA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DYnjv6OvZii93n6nA-cjk9xzhbiDLoEorya9foOsQAe9k1DbGqZv35ZIDYo1HKM12_oUGZw73w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ldwlOzRvYOU", "title": "Responsive Portfolio Website From Scratch" }
+  ]
+}

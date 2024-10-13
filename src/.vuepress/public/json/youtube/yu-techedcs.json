@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "techedcs",
+    "name": "TECH_ED",
+    "profile": "https://yt3.googleusercontent.com/75ebx3H4iXTXlf9K-cEzzxXlfzs9psOqnheFRJcGsRR9AvJSHlmeQ6ZXh_0nMwqZquy35gjWXw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/62HOEi9MFI6_8bwOYIk3zUSA39tgsRgHQvdVBSqK2-UXMyYUJyC7qc6G_Ah2p5O_ZIQY7_p1=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xKeMmhzcfbE", "title": "S02E12 : CodeForces 900 Easy Rating for Beginners | TECH_ED" },
+    { "id": "qwy_A9ojZzE", "title": "S02E15 : CodeForces 900 Easy Rating for Beginners | TECH_ED" },
+    { "id": "eWx-TcyF_GA", "title": "S02E09 : CodeForces 900 Easy Rating for Beginners | TECH_ED" },
+    { "id": "QdDbZEsSOlo", "title": "S02E10 : CodeForces 900 Easy Rating for Beginners | TECH_ED" },
+    { "id": "nRYXQArvdRY", "title": "S02E02: CodeForces 900 Easy Rating for Beginners | TECH_ED" },
+    { "id": "Af0Ngo0V9ZA", "title": "FREE Frontend/Backend Development Course by Meta!" },
+    { "id": "PXQO4MhWuzg", "title": "7 Best Github Repos For Web Developers | Github Shorts Compilation #2021 🔥" },
+    { "id": "aFa_IQGIuVA", "title": "Awwvision Cloud Vision API from a Kubernetes Cluster |  Qwiklabs Game | TECH_ED" },
+    { "id": "QfcARI0HKzE", "title": "Continuous Delivery with Jenkins in Kubernetes Engine | Qwiklabs #JENKINS  | TECH_ED" },
+    { "id": "EHoNyd0Txkg", "title": "Introduction to Amazon Aurora -  A Relational Database Engine" },
+    { "id": "F1Q5llNfi1U", "title": "Learn to Contribute Open Source from this FREE Resource | Git + GitHub for Students !!" }
+  ]
+}

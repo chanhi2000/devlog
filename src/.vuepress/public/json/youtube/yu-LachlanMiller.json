@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "LachlanMiller",
+    "name": "Lachlan Miller",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mJBlt2vxKZtIiG1S8YGZP4sN8OrRexBZ5e1kiu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4Jd0-Xa623ii1-WZQ2PIE5ryIPvfEVab3NhPF_CVfAxYpYeV2aHZgvB4KlDeG44vmVuqFSFK=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dgTGALM2REU", "title": "How Hot Module Replacement REALLY Works | JS Toolchain From Scratch" },
+    { "id": "M_edImKoEt8", "title": "Visual Guide to the Modern Frontend Toolchain (Vite)" }
+  ]
+}

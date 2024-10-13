@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "LinuxTex",
+    "name": "Linux Tex",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb4R5ytzQko9uvl44AyY8RNpZycwoL7qVqc93mJ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q9EjxODZ0bpNbUjz_BZb1PuXUTeu22voql25Xv8a44C-n4tKH1b3f2kG1Vybft9fYXjM8ZlZZg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rjDJZlgkYL4", "title": "Why I Ditched EVERYTHING for Manjaro Linux? 7 Reasons you should too! (2024)" },
+    { "id": "wS_YN1jOOoM", "title": "Top 10 Best Lightweight Linux Distros for MAXIMUM SPEED | The Ultimate Performance Showdown! (NEW)" },
+    { "id": "OBQ-PAi2SbU", "title": "TAILS 6 RELEASED! How This Linux Distro Makes You VANISH from the Internet? (SECRET WEAPON!)" },
+    { "id": "aQbDwKLPU9U", "title": "Ultramarine Linux: The ULTIMATE Fedora Evolution That You Need To Try! (Fedora Twin)" },
+    { "id": "BVDNByTMOp0", "title": "NixOS : The HYPE is Real ! Everything You NEED to Know (NEW!)" }
+  ]
+}

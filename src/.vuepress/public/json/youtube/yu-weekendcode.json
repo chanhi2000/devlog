@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "weekendcode",
+    "name": "WeekendCode 주말코딩",
+    "profile": "https://yt3.googleusercontent.com/RZk2biDt2_VSux4ONC7iEBCyQ-cpWejdipHyFFXK6cuKj6nJsny4i6F2HrTAmL7r44judrXq=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fT8S5AJnntQXd0CX3ahVOpv5JImvWc9fo0ztu2vzrg4fj2hjXiDUkcQm6rQ5Wc5yOL16db0mQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EJ35VRwUo40", "title": "(Java) 2024 정보처리기사 실기 업캐스팅 7문제 (부모 형태 자식 생성자) #정보처리기사 #Java" },
+    { "id": "B7Q2KoM4Zpw", "title": "(Java) 정보처리기사 실기 2023년 2회 문제해설 + 자바 문자열 메서드 정리 #정보처리기사" },
+    { "id": "4Snbb4KTKBU", "title": "(C언어) 정보처리기사 실기 C언어 반복문 for문 예시 8문제로 박살내기 #정보처리기사" },
+    { "id": "z60dUofqD0o", "title": "(python) 정보처리기사 실기 파이썬의 내장 타입(자료형) - 1 #정보처리기사" },
+    { "id": "KCU4JljWfjs", "title": "정보처리기사 실기. 비전공자도 할 수 있습니다. (2024년 1회 총평)" },
+    { "id": "OObXMmXchEk", "title": "2024년 1회 | 정보처리기사 실기 기출문제 해설과 공부방법 #정보처리기사 #정처기" },
+    { "id": "tda4Y7eTMnE", "title": "2024년 1회 | 정보처리기사 실기 기출문제 추가본 해설 #정보처리기사 #정처기" },
+    { "id": "cXcBoIISseI", "title": "정보처리기사 실기 2024년 1회 11번 논란의 문제 살펴보기 (리턴값 없는 C언어 문제) #정보처리기사" },
+    { "id": "iteHMLv1th4", "title": "(Java) 정보처리기사 2024년 1회 기출문제로 보는 싱글턴패턴 #정보처리기사" },
+    { "id": "NYvisMLkxHE", "title": "마이크로소프트 개발자가 말아주는 2024년 프론트엔드 개발자 가이드" },
+    { "id": "31OerbsHrpc", "title": "(개발직군) 정보처리기사 합격했어요. 이제 뭘해야할까요? | 개발자 취업 | 키보드 추천 #개발자 #정보처리기사 #레이니75" },
+    { "id": "FOPEgkADtn8", "title": "(C언어) 정렬 - 선택정렬편 | 정보처리기사 실기 킬러문제 박살내기 #정보처리기사" },
+    { "id": "WKzOkNnd-uI", "title": "(C언어) 정렬 - 버블정렬편 | 정보처리기사 실기 킬러문제 박살내기 #정보처리기사" },
+    { "id": "QvyA27GjgVc", "title": "(C언어) 배열을 포인터로 가리켜서 반복문 출력한다는 것의 의미 | 정보처리기사 실기 대비 #정보처리기사" },
+    { "id": "I4C7NTDPY-g", "title": "2024년 프로그래밍 언어 순위를 알아보자 | tiobe index 티오베 순위" },
+    { "id": "IwrsIbw_738", "title": "2023년 1회 | 정보처리기사 실기 기출 해설 (C언어 문제 전부)" },
+    { "id": "c_kyZPUa37k", "title": "정보처리기사 실기 | C, Java 통합 반복문 조건문 예제 9문제" },
+    { "id": "YCmF7Dh19FY", "title": "전역 후 복학한 컴공생, 어떻게 공부해야하나요? #컴퓨터공학과 #컴공 #복학생" },
+    { "id": "GAiJsixUV6A", "title": "2023년 3회 | 정보처리기사 실기 기출문제 해설과 공부방법 #정보처리기사 #정처기" },
+    { "id": "pkv0PO_a9-Q", "title": "(Java편)정보처리기사 실기 일주일전 프로그래밍 복습 #Java #정보처리기사" },
+    { "id": "JepSpbDFqj8", "title": "(C언어편)정보처리기사 실기 일주일전 프로그래밍 복습 #c언어 #정보처리기사" },
+    { "id": "BD2i085mqws", "title": "(Python편) 정보처리기사 실기 일주일전 프로그래밍 복습 #Python #정보처리기사" },
+    { "id": "ky-cY-5lOO0", "title": "코스피 종목 중 PBR이 1보다 낮은 회사만 전부 가져오기 (python)" },
+    { "id": "b59tKjv7ZWQ", "title": "취업을 위한 코딩테스트 준비 어떻게 해야할까? | 취업 준비생을 위한 팁" },
+    { "id": "B3CEI-XaDKk", "title": "JSON보다 무려 1000배 빠른 데이터 규격의 등장? bebop의 시작! #Shorts" },
+    { "id": "IbfYpawGv4U", "title": "정보처리기사 실기 Java 예상문제 - 클래스가 상속의 상속일 때 #Shorts" },
+    { "id": "fzZkKCdEdvM", "title": "정보처리기사 실기 기출문제 JAVA 문제해설 생성자와 멤버변수 접근 #Shorts" },
+    { "id": "87u4JIvIifU", "title": "정보처리기사 실기 JAVA 부모 형태에 자식 생성자를 부를 때 #Shorts" },
+    { "id": "PvVfDcb89S4", "title": "정보처리기사 실기 C언어 배열 필수 3가지! #Shorts" },
+    { "id": "MEfwwKjShFY", "title": "ChatGPT와 파이썬으로 로또 복권 번호나 찾아볼까 (로또, API, 번호 찾기)" },
+    { "id": "lirNDkMF8h4", "title": "Expo SDK 50 | React Native로 앱을 만들기 위한 최고의 환경" },
+    { "id": "TM-aeh8FN44", "title": "React `useState` 완전 정복! | 9개의 예시로 `useState` 박살내기" },
+    { "id": "2e4h1ALAaJM", "title": "개발에 유용한 사이트 | shell, git, 리눅스 명령어 옵션 확인하기" },
+    { "id": "wagC4vT_ZkQ", "title": "2023년 2회 | 정보처리기사 실기 코드문제 해설" }
+  ],
+  "playlists": [
+    
+  ]
+}

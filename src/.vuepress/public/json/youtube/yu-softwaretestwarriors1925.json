@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "softwaretestwarriors1925",
+    "name": "SoftwarE tesT warriorS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRA4MOLqndCzQK8chDWK_MRHmAFJaQp8Fx85bD8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/T5ULly1sQQ_M8CdZ65_raYny0SqawTdUo9M_8nijIftP2-KsxIVVLOqt6X_3xSCw5TUytvOI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kjJvhgSnw0U", "title": "#Jmeter #devops Integration of Jmeter & Jenkins with performance report inside Jenkins" },
+    { "id": "UFGPEeRRHzE", "title": "(MYSQL) Database performance Testing using Jmeter with database test plan" },
+    { "id": "kjJvhgSnw0U", "title": "#Jmeter #devops Integration of Jmeter & Jenkins with performance report inside Jenkins" }
+  ]
+}

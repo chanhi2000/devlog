@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "codeSTACKr",
+    "name": "codeSTACKr",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMQa3NVzTL72JfKy_OxOctQlUprhwncynkXESvL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QolldGRNSTMnGrevcFekmY19BPQNWmbNtQainE3QMuRwwNC4DJTiIepXxt2_JNVJ85LKfU_Siw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dNskJAl5dBw", "title": "Best FREE VS Code AI Assistant - Spoiler: Not Copilot" },
+    { "id": "lvD8KfL9Txs", "title": "🔴 Welcome to the Reactverse | React Day Berlin 2023 Live | GitNation" },
+    { "id": "zn-nFWDxyiw", "title": "React's Future: Tejas Kumar on Server Components" },
+    { "id": "UmmaFU7qohk", "title": "Remix Setup with shadcn/ui: Easy Guide to Enhance Your Project! #shadcn #ui" },
+    { "id": "GRdAcBOLOA4", "title": "Dark Mode & Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui" },
+    { "id": "TxERoQSEfIk", "title": "Astro Setup with shadcn/ui: Quick Guide to Reusable Components! #shadcn #ui" },
+    { "id": "oH_-6TyxVhI", "title": "Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!" }, 
+    { "id": "vHZPeohPHqo", "title": "VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋" }, 
+    { "id": "FEoEvSmtmPQ", "title": "How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check" }, 
+    { "id": "ECuqb5Tv9qI", "title": "Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions" }, 
+    { "id": "_raOFZAYXD4", "title": "localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design" }, 
+    { "id": "FgSfzJPyxhg", "title": "How To Change CSS Values With A Slider! - CSS Custom Properties (Variables) & JavaScript" }, 
+    { "id": "h_Dj_gVXao4", "title": "How To Make Real Time Face Detection Using JavaScript" }, 
+    { "id": "JRevaOwNKTI", "title": "JavaScript setTimeout & setInterval In 90 Seconds #JavaScriptJanuary" }, 
+    { "id": "smLtxYI-zSs", "title": "Motion UI - User Interface Animation (2020)" }
+  ]
+}

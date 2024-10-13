@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "hddrecoveryservices",
+    "name": "HDD Recovery Services",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQJ1TDye_lz0nCiJXDj4IacdSVT1uXBveJEt_XK5A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9zzK_GjdIbxgcpFu0kB1KgGTtTsxH7IrCGbj0dpYfx5CzpohOzDlDIP6pRHLVRSHG8jSc8bRBPw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZRKLzR9xhos", "title": "problem with my favorite data recovery tool for microsd cards" },
+    { "id": "lFQOEFGNzfA", "title": "how to eliminate solder fumes" },
+    { "id": "afUdR6c8ikY", "title": "full rebuild of WD passport to get data recovered" }
+  ]
+}

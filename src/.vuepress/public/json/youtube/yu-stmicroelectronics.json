@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "stmicroelectronics",
+    "name": "STMicroelectronics",
+    "profile": "https://yt3.googleusercontent.com/TU5x7c6XpVksmV-grAjcunyNAaD83HLHv-wS6OVRjDwQc3xzn8SQZNgw3n9U-HxmDe7RNAi41w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iJRVCnGk6kSQJ4Z8MHTj3qSJ4lAm3r1grFFGSTXz2O2zK1QTJ6yabODmQQJAeDWdETnbBoWdkZc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iRaiMvYZ08o", "title": "STM32CubeIDE - Azure RTOS ThreadX debug" },
+    { "id": "qSV37xowuSU", "title": "Introducing the STM32WBA55! (multiprotocol 32-bit wireless MCUs +10dBm, high security, low-power)" },
+    { "id": "DDVdq47Dd94", "title": "How to create projects using the STM32 VS Code Extension" },
+    { "id": "mxQe5ftCrbo", "title": "STM32CubeMX: Multi-bonding" },
+    { "id": "EpitP13Xw-g", "title": "STM32CubeMX: Window divider change" },
+    { "id": "p2CtUfwLNcM", "title": "STM32CubeMX: Pin assignment and clear functions" },
+    { "id": "6JPys9B497c", "title": "STM32WBA5x workshop - 4 - Start from STM32WBA chipset & enable a basic discoverable peripheral" },
+    { "id": "hqtdcpffTeY", "title": "STM32WBA5x workshop - 6 - HW key features, how to move to certification with your HW design?" },
+    { "id": "uyKKgCD_5D0", "title": "STM32WBA5x workshop - 5- Add a BLE profile (P2PServer) to your peripheral" },
+    { "id": "xRYZCS2wYog", "title": "PAGE EEPROM : Boost accuracy and battery life in asset tracking" },
+    { "id": "yORqHW-xoRw", "title": "Discover the STSAFE-V500 secure solution for digital key system & wireless charging in cars" },
+    { "id": "xF7qpEaDJV8", "title": "How to TouchGFX: Save flash memory on your STM32 GUI application" },
+    { "id": "AJ8HUTi3q4I", "title": "Create impressive UIs on small displays with cost-effective STM32 MCUs" },
+    { "id": "mJ4VX_2B6wE", "title": "How to build an USBPD Dual-Role application using the X-Cube-TCPP software pack" },
+    { "id": "tA5v4JjV-T8", "title": "How to build an USBPD Source application using the X-Cube-TCPP software pack" },
+    { "id": "OMeiG9jS-yk", "title": "How to TouchGFX: Installing TouchGFX Designer for STM32 GUI applications" },
+    { "id": "6uDCbZ8l2fQ", "title": "NFC solutions from STMicroelectronics & IDENTIV" },
+    { "id": "_gvX_eYpzE4", "title": "STM32H5 Secure Manager - 05 Add encryption service of sensitive data" },
+    { "id": "wr9ikrgBc2c", "title": "STM32H5 Secure Manager - 01 Introduction" },
+    { "id": "BLSlME3iq3A", "title": "STM32H5 Secure Manager - 04 Create your application launched by the secure manager" },
+    { "id": "Ve5tEl65KTU", "title": "STM32H5 Secure Manager - 03 Marketing" },
+    { "id": "ZGr979x2sIs", "title": "STM32H5 Secure Manager - 02 Getting started" },
+    { "id": "yido4UliOkE", "title": "Introduction to MEMS Studio" },
+    { "id": "RxgM2obGtnc", "title": "eSIM for Consumer: what's new in GSMA phase 3?" },
+    { "id": "7yKuRb9Nspk", "title": "Deploy digital key systems and secure in-car wireless Qi charging fast with STSAFE-V500" },
+    { "id": "K4T1APj08H8", "title": "STM32 MCU开发者专区：提供STM32 MCU和MPU开发人员所需的一切。" },
+    { "id": "svbT6e0T5_A", "title": "SensorTile.Box : Basic Mode" },
+    { "id": "VfychivKdTs", "title": "TouchGFX 4.12 Release" },
+    { "id": "DiFxu4gCtPI", "title": "ST25 NFC Type 5 augmented user experience" }
+  ]
+}

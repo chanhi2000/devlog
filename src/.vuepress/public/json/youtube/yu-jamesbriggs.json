@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jamesbriggs",
+    "name": "James Briggs",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOMPsNJXUsjkXZgejdPTfPPMj-GFb4wEY_P1JCYSQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ildcaPkuxMr8gqPfRuqRS9_iQO81DSvZfDL1nCPK0oqImHMQ7ZSw16TaXVxrx51_6qcl9vZWTQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hpePPqKxNq8", "title": "ChatGPT Plugins: Build Your Own in Python!" }
+  ]
+}
+

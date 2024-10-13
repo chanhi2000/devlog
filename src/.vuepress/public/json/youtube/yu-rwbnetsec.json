@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "rwbnetsec",
+    "name": "rwbnetsec",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQTl3HIjHLO1dHshPibQwTVceTEds02MuF55Y1s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Dywid1aQLxpRMTSN1hGTNCgr6A06tWiy67fjgEqOym32Ytl2U45X3krO7eJwaSLgfwS-wQEiaw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "em_rJ6T1LQo", "title": "Boot2Root Challenge - SQL Injection to Shell - Manual SQLi" }
+  ]
+}
+

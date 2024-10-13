@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "eddiejaoude",
+    "name": "Eddie Jaoude",
+    "profile": "https://yt3.googleusercontent.com/O3KOrxrlnZnDEzTs2X6QKIMu6qkqBtNekrkhewYT87qC4mO_1_1BpZ7VsyOlM5KW9TiYFRLuPwo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cJk7WK4_iRZKQ4N5gWD06RoYbDg4V47eeEYrrwqWWpvKhsuux1XUuT-II_wk1K6LInYxmJsF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dHfvNx1mg-c", "title": "STOP Deploying! Use Feature Flags with NextJS and Flagsmith" },
+    { "id": "o2Wvdiu4E3U", "title": "Want to be senior in tech?" },
+    { "id": "SVmf8_8QifU", "title": "How to find the best clients" },
+    { "id": "b18fYAj-ZeE", "title": "Reviewing your Open Source Repos + Profiles" },
+    { "id": "o_WDRfN4lgU", "title": "Markdown ALERTS  #github" },
+    { "id": "V0ALx1e98bs", "title": "Getting Started with The Boring JavaScript Stack" },
+    { "id": "vGq95IavGck", "title": "How your GitHub Profile can get you a job" },
+    { "id": "L2Mx8hOhkEE", "title": "Accelerate your development with GitLab and AI" },
+    { "id": "fkaDT4Knx3U", "title": "GitHub Repo Rules" },
+    { "id": "u9TjbtZX4Zg", "title": "Open Source Feature Flags with Flagsmith" },
+    { "id": "nnYyWuPBblE", "title": "Open Source GitHub Repo Reactions (part 2)" },
+    { "id": "L3KN17klxpc", "title": "Custom GitHub Actions and Release Workflows" },
+    { "id": "Xj4cSObuf3w", "title": "Automate Repo Reviews with NextJS and Tailwind" },
+    { "id": "BCzNtbEh5T4", "title": "GitHub VERIFIED #github #git" },
+    { "id": "ZI7tSRR9q8w", "title": "Reviewing your Open Source Repos + Profiles" },
+    { "id": "Nj1O1vbyzIM", "title": "NextJS AppRouter API custom headers" },
+    { "id": "-GuWsVLBM2A", "title": "Mockoon: Open Source SaaS product" },
+    { "id": "pOI0zhjLtp8", "title": "SaaS Ideas to make extra money" },
+    { "id": "gP4BXv-lrIw", "title": "SaaS: Select the right tool for the job" },
+    { "id": "aZxcqn9DEzM", "title": "CLOSED GitHub Pull Requests!!" },
+    { "id": "6YhkVV-7EOA", "title": "Must know Linux Commands for every developer (Vim, Grep)" },
+    { "id": "ICcCjGjsWTk", "title": "Supercharge your NextJS project with MDX" },
+    { "id": "j-wA6TKtT0Q", "title": "NextJS Server and Client Composition Patterns" },
+    { "id": "l18kJbSN2z8", "title": "Maintainer Productivity: Manage your GitHub Notifications like a PRO" },
+    { "id": "pV_OMNd1fkU", "title": "Contributing to Open Source the right way" },
+    { "id": "dZXOlmNsd7o", "title": "NextJS to Mobile and Desktop App (PWA)" },
+    { "id": "sanTIgySz9Y", "title": "Javascript, NextJS, React, HTML, CSS, Tailwind... CODING" },
+    { "id": "njYz-QWmTBY", "title": "Customising your GitHub Feed" },
+    { "id": "kYd_ch2oX38", "title": "Reviewing YOUR Open Source Project and Profile!" }, 
+    { "id": "PdipPuk6LZI", "title": "Get feedback on your Pull Request NOW!" }, 
+    { "id": "c7EqB_S_a7I", "title": "Cost of hosting an Open Source SAAS product? Moving to Vercel" }, 
+    { "id": "yOPyK5WMxCs", "title": "Kubernetes as a Web Dev" }, 
+    { "id": "7Put3ddOpTw", "title": "5 GitHub Profiles that STAND OUT" }, 
+    { "id": "R75j79yNSKg", "title": "Learning about Kubernetes at KubeHuddle in person event UK" }
+  ],
+  "playlists": [
+    
+  ]
+}

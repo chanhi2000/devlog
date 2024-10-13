@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "SAMTIME",
+    "name": "SAMTIME",
+    "profile": "https://yt3.googleusercontent.com/ol44h1hRIDb_YUrOLNnGmjz0-3HiWCkcYkGLH4bZ3aiXRQOIrQVkQ9xaD4TK7-VttBxLu6VvyTM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B503nS_zv8zTkF6uhe_p_F3KhcaL5CILEyxkMFRutItD5U1HRjf6BeF3SzWihisjREpviX8K=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MPB0QX-4W24", "title": "Google Reacts to Being an Illegal Monopoly" },
+    { "id": "uX4d7PElB5M", "title": "Sorry, Windows is Deleting Control Panel" },
+    { "id": "ky_1WdGg9zE", "title": "iPhone Explained by a Linux User" },
+    { "id": "8kNYzPEHwAc", "title": "Why iOS is Simply Better Than Android" },
+    { "id": "ErBfrodUBJk", "title": "So… the Internet Blue Screened Today" },
+    { "id": "OKctO-BavtI", "title": "Why Android is Simply Better Than iOS" },
+    { "id": "uO69wnnBjWE", "title": "The New ChatGPT Can Replace Your Wife" }
+  ],
+  "playlists": [
+
+  ]
+}

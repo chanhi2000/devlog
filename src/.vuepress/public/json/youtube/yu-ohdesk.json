@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ohdesk",
+    "name": "오늘의 데스크",
+    "profile": "https://yt3.googleusercontent.com/pxqsDHF-EmLwU8yIfz2FP2aZJ168WcwJLBDED1vY46xxKd43IjH7_Bw2C_FbIaaP8XeoFtDS5jk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XEyMZipRtllBYxhDVsu_yU1jRlBl-dmfRitN2tFZJLS4p689XNoq1eChxfKYz-iJVhP_yQt6SA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "S8FTxS0olTI", "title": "무중력 아이템 시리즈" },
+    { "id": "YNjHd0k3QFc", "title": "키보드에 피젯스피너가 달려있는 이유 (모름)" },
+    { "id": "pSDM3x5wgtM", "title": "TV를 조명으로 만들어주는 아이템" }
+  ]
+}

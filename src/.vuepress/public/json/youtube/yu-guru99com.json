@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "guru99com",
+    "name": "Guru99",
+    "profile": "https://yt3.googleusercontent.com/gm3zOlU4oFN5gU5TQfZatgDz7AosKeG-ziSV0uZ1ovqB6xZ_2KGIATsCROd7F7sI8h8sFI2z=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mf4NrQq7UU3YWCuxbxLZayXvFMqtjtMulH4FcpIgMamsiZik-1nxm1mZ-FF89px-cy812NgQHw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fE622mqTfRY", "title": "5 BEST Network Monitoring Tools (Free/Paid)" },
+    { "id": "goaZTAzsLMk", "title": "Software Testing Tutorials for Beginners" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "SivaReddyJavaTechie",
+    "name": "Siva Reddy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaReGKozQ05PNvQ_ssk9oL0cZeTqh8NYbxXqydI7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "K0cEGe8R90I", "title": "use strict and == vs ===  in JavaScript" },
+    { "id": "T8EVcjbj-NY", "title": "Angular Interview Q&A: Routing, Navigation, Lazy Loading and Route Guard" },
+    { "id": "Y7d8Ivzmf2Q", "title": "var vs. let vs. const keywords in Javascript" },
+    { "id": "W540yAuSSNI", "title": "Event Bubbling vs. Event Capturing vs. Event Loops in JavaScript" },
+    { "id": "kUaczLtBE3M", "title": "Angular Interview Q&A: Template Driven Forms" },
+    { "id": "ImwTbljACD8", "title": "Angular Interview Q&A: REST API Integration with Angular Application" },
+    { "id": "SFwuJYrpndQ", "title": "Angular Interview Q&A: Reactive Forms in Angular" },
+    { "id": "Fme8v2fSZTk", "title": "Angular Interview Q&A: Angular CLI Commands" },
+    { "id": "GAWqXsZfS0k", "title": "Angular Interview Q&A: Handling Large Volume of records in Angular Application" },
+    { "id": "2pmz5ylEa8k", "title": "Angular Interview Q&A: Angular User interaction components flow" },
+    { "id": "2bGTB5ZZlJo", "title": "Angular Interview Q&A: Angular Decorators" },
+    { "id": "029ugK8Wa5I", "title": "Angular Interview Q&A: Angular Component Life Cycle Methods" },
+    { "id": "_Y-n8ab2y2k", "title": "Angular Interview Q&A: Promise vs Observable in Angular" },
+    { "id": "tZo-iv_wNzA", "title": "Tips To Improve The Eclipse IDE Performance" }, 
+    { "id": "7OGLYH5dRyE", "title": "Monolithic Application vs. Microservices Architecture" }
+  ]
+}

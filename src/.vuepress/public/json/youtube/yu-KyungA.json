@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "KyungA",
+    "name": "경아 KyungA",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nfLymbvEghxhx8s9dCXBTalLos-S9jrCGRv--2gljhHA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y09wbJ5sWoa6Zo8MKfHTYxAegMKFN8HrsvCBBSBdjizrh31SM9jBjJBPMXNVumAr5QGxgimA0wY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-VZn3HrLf24", "title": "엄마한테 충격 고백하고 술 퍼마시는 백수 개발자의 충남 태안 여행 | SNS에서 유명한 펜션" },
+    { "id": "FVPiQqoikwk", "title": "프론트엔드 개발자의 Docker 첫 사용기 | 사이드 프로젝트 | 코딩테스트 Web IDE 서비스 만들어보기" },
+    { "id": "ML84CCwR9Dw", "title": "백수 개발자는 평일에 뭐하나요? | 취준생 브이로그" },
+    { "id": "0fBt5-K-tn0", "title": "3일만에 사이드 프로젝트 배포하기 | 프론트엔드 개발자 풀스택 개발" },
+    { "id": "GrqZnjLjf4U", "title": "비전공자 독학 출신 개발자의 현실적인 코딩테스트 공부법 | 알고리즘, 자료구조 | #유데미" },
+    { "id": "0JJnkMvuIJI", "title": "사이드 프로젝트 배포하다가 개발 포기할 뻔 했다 | 비전공자 프론트엔드 개발자 | 취준생 백수 공부 브이로그" }
+  ],
+  "playlists": [
+
+  ]
+}

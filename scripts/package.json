@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "Web Scraping",
+  "scripts": {
+    "start-proxy": "node src/proxyServer.mjs",
+    "fetch": "node src/fetchContents.mjs",
+    "fetchMd": "node src/toMarkdownPg.mjs"
+  },
+  "workspaces": [
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "devo-api": "file://../devo-api/*"
+  }
+}

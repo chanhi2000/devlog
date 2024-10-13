@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "BrianAdvent",
+    "name": "Brian Advent",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO07HUVv0rrp79fgD6wGQrALE4zGrJHP1yXehkf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v85KdMsj8uySn8SOAc5uyZiAWtSyc14SrjOl_SRhV8-eyr3jmu2FQHcBUuTjLdDxpRJAtjttyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "y4nPSAaX14s", "title": "visionOS Tutorial: Hand Tracking, Scene Reconstruction and Real World Interactions with ARKit" },
+    { "id": "o0Y69NLOXxU", "title": "Bring 3D to your App: Developing Native iOS Apps with Spline" },
+    { "id": "GXW0OpU3TqE", "title": "Your First ML App with Decision Trees - Machine Learning for Beginners Tutorial" },
+    { "id": "-BZdQmHV4MQ", "title": "iOS 13 Swift Tutorial: SwiftUI and Core Data - Build a To-Do List App" }, 
+    { "id": "RysM_XPNMTw", "title": "iOS 13 Swift Tutorial: Combine Framework - A Practical Introduction with UIKit" }, 
+    { "id": "Xetrbmnszjc", "title": "iOS 13 Swift Tutorial: Build a Complex UI with SwiftUI from Start to Finish" }, 
+    { "id": "Pfw7zWxchQc", "title": "iOS 13 Swift Tutorial: Simple SwiftUI Application" }, 
+    { "id": "G_4YfwJHcKI", "title": "Swift Tutorial: Create a Simple Web App with Vapor and Swift" }, 
+    { "id": "B7y_8vMg5Hw", "title": "Swift Vapor Tutorial: Deploy Your Web App to an Ubuntu Server with NGINX and Supervisor" }, 
+    { "id": "qaLiZgUK2T0", "title": "iOS Swift Tutorial: Create a custom control - Blurry Sidebar" }, 
+    { "id": "CXvOS6hYADc", "title": "iOS Swift Tutorial: Blurry Pop Up Animation with UIVisualEffects (iOS Blur Effect)" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "SwiftBook",
+    "name": "SwiftBook",
+    "profile": "https://yt3.googleusercontent.com/DEgAdwexHKdiSJZMUkiLlj671SJ5vBQQBrD6MgL0LC3Q1sj1XNetV9xbEtZkAoquvxhM3BguVA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RwoooBkGTYvpsVV2CISCG937HoalMaFuQEr9tFs7DFNlngp_BwmsBbEKNXH0Rl_liA6NRzfzEw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YDCg4hTReK8", "title": "Как вырасти с Junior до Middle iOS-разработчика" },
+    { "id": "b0m0CPRzfxI", "title": "Как стать востребованным iOS-разработчиком\" от Swiftbook" },
+    { "id": "UVWkGRg-6ms", "title": "Эфир с преподавателями. Алексей Ефимов и Иван Данилин" },
+    { "id": "Oslris32B8g", "title": "Login Screen with SwiftUI (+ Observation)" },
+    { "id": "IaHQnCt9cEU", "title": "Модификатор confirmationDialog в SwiftUI" },
+    { "id": "i2je5Wv-L7A", "title": "Бесплатный вебинар Как вырасти с Junior до Middle iOS-разработчика за 5 месяцев?" },
+    { "id": "r8EiFnlhHTI", "title": "Shaders in SwiftUI" }, 
+    { "id": "mlY3kpHI04M", "title": "Swift Keychain" }, 
+    { "id": "wjHBzRvfE4o", "title": "Фреймворк SwiftData" },
+    { "id": "0WONXkGGbMM", "title": "Знакомимся с PencilKit" }, 
+    { "id": "Zl3x0QJisyc", "title": "Использование UITextChecker совместно со SwiftUI" } 
+  ]
+}

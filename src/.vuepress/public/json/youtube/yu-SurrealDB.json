@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "SurrealDB",
+    "name": "SurrealDB",
+    "profile": "https://yt3.googleusercontent.com/wzH4374qc18ONxKgfoTJK35_4JIMV7T-FTzajvCDPN9uFx_EQBxMRLCxVszhZVcOJ7fYMqcpDQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9n_tcc4qyJU4UWXKhKTW_-1zXx3KfDnyDB3tj6OYWLkqYVdgcg3k5eGu0zeY3O5m7gQF1qOn3g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "q5LFNPpH2X0", "title": "Surrealist for Power Users" },
+    { "id": "AzQBvyg9Awc", "title": "Embed Surrealist in your projects" },
+    { "id": "m1xZiooHXiE", "title": "Accelerating Medical Innovation with Core Coding Principals" },
+    { "id": "0_fj7Efncsw", "title": "Building a Medical Simulation Platform - Lessons learnt" },
+    { "id": "MqddPmgKSCs", "title": "Different ways to perform a Vector Search in SurrealDB" },
+    { "id": "Udcm0Ot_Hyw", "title": "SurrealDB Stream: Maintainer Month 2024" },
+    { "id": "g2pplK7-aK0", "title": "Why We Launched Women in Rust" },
+    { "id": "H5PfRJQIKeE", "title": "Schemaless vs Schemafull Databases" },
+    { "id": "VQnHYKNiPso", "title": "Getting Started with Surrealist" },
+    { "id": "FAgDxP5vWvI", "title": "SurrealDB Stream #25: Why SiteForge switched to SurrealDB" },
+    { "id": "l0_lj-ILVhE", "title": "Introducing Surrealist" },
+    { "id": "AEzx1lt0ojY", "title": "How to do a Full-Text Search Query in SurrealDB using SurrealQL" },
+    { "id": "b-jIHYsy4L4", "title": "SurrealDB Stream #24: 1.5.0 Accelerated Vector Search & Bigger Aggregations" },
+    { "id": "m7TwzxEHC-Q", "title": "Building an App with Graph Relations, Live Queries & Authentication" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "mamapop",
+    "name": "엄마, 내가 알려줄게",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQCe62B9jmKdP7MnkyK0-k22Lz-dFzF59KEQkNtxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HsO4OeDecKLvD5No8Ocswqf8lXyNPc2ZHl1zT0e9TNwUaaDDwUEHBR7RglDJrAo-aZJywljwzQ0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dEORiaBmxJg", "title": "구글 스프레드시트로 회계 장부/ 가계부 작성하기 | 구글시트 왕초보 | 컴퓨터 기초상식 | 엑셀 기초 | 엑셀과 쌍둥이" }
+  ]
+}

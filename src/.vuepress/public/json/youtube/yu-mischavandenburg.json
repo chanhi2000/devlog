@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "mischavandenburg",
+    "name": "Mischa van den Burg",
+    "profile": "https://yt3.googleusercontent.com/DuoOQcZg9KpLufdRC_8zdh4CIuKeWCmCLg7DCjXX6YD0Ut2ipJ-P0w8aHfks6-nr6H0aFDxnlQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/naUQc2Qy8JlhlsrA8jc3sVtp0YK8LQcfWg06fndw9pWMLMr9q6FavawYOrLzImF58um209snQH8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t3R6Luwtkg8", "title": "📚 Kubernetes Study - CKS Certification" },
+    { "id": "Bn-IfV8n_ms", "title": "📚 K8s Studies - CKS Certification - Killercoda & Containers!" },
+    { "id": "I21uQVghvu0", "title": "📚 K8s Studies - CKS - Finishing up all Killercoda" },
+    { "id": "NJYYsxMm4mU", "title": "Kubernetes ☸️  - CKS Killer Shell Marathon - 📚 Study with me!" },
+    { "id": "IJzg-Kx_M6U", "title": "Kubernetes ☸️  - CKS Killer Shell Marathon - 📚 Study with me!" },
+    { "id": "o6WWswDnSos", "title": "Kubernetes ☸️  - CKS Killer Shell Marathon - 📚 Study with me!" },
+    { "id": "OmrQ_hOUE6M", "title": "☸️ Kubernetes - CKS Killer Shell Marathon 2 - 📚 Study with me!" },
+    { "id": "x1NJ5vpEpW4", "title": "☸️ Kubernetes - CKS Killer Shell Marathon - 📚 Study with me!" },
+    { "id": "EQjXoLDJe0k", "title": "☸️ Finishing CKS studies & Chilling 📚" },
+    { "id": "wB2Q5qHdcbc", "title": "Is Tmux DEAD? Zellij is the new multiplexer written in Rust" },
+    { "id": "MMTyeF0vv8U", "title": "Start CODING IN MINUTES with DevContainers" },
+    { "id": "_l232KiJHNA", "title": "CKS Study Guide 2024 - PASS your Certified Kubernetes Security Specialist Exam" },
+    { "id": "vfwjW-ubmDc", "title": "I QUIT my DevOps Job! Going Freelance" },
+    { "id": "7NuNYZRrbaE", "title": "☸️ K8s Homelabbing - Deploying Wallabag! -  📚 Read Later App" },
+    { "id": "wp-S8PDT-3o", "title": "📚 Learning Nix for my Devcontainers - Neovim" },
+    { "id": "O1iy82884sg", "title": "😤 Infrastructure as Code is DEAD? - Azure Verified Modules" },
+    { "id": "iagjeLuxnMs", "title": "My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS" },
+    { "id": "5OtglEvyAs0", "title": "🏠 Kubernetes Homelab - Deploying Home Assistant - Neovim" },
+    { "id": "OyeDTZkSG2Q", "title": "FULL NEOVIM Configuration Walkthrough As A DevOps Engineer On MacOS" },
+    { "id": "jJC7Tr98J4A", "title": "I launched a Skool community and it's growing fast! - Kubernetes - DevOps" },
+    { "id": "Kc5K1kMj4Vk", "title": "Start with Vim #linux #devops #vim #skool" },
+    { "id": "zBRq4Q0Jv4I", "title": "Using this tool is a HORRIBLE idea if you're serious about the CLI & Linux" },
+    { "id": "92UhZbJJivU", "title": "PARA in Obsidian. Start being productive." },
+    { "id": "ICVxK7z6G34", "title": "Kubernetes Fundamentals Course - 1. Introduction - By Mischa van den Burg" },
+    { "id": "wrQ0iJawTn4", "title": "600% GROWTH?! 2024 DevOps & Kubernetes Market Analysis" },
+    { "id": "iagjeLuxnMs", "title": "My Entire Neovim + Tmux Workflow As A DevOps Engineer On MacOS" },
+    { "id": "4HuL812KaaA", "title": "Switching to Starship for my Bash Prompt" },
+    { "id": "1NJTM2ocdtM", "title": "📚 Kubernetes Study - CKS Certification" }
+  ]
+}

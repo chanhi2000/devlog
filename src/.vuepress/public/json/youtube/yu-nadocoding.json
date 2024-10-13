@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "nadocoding",
+    "name": "나도코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNeh0kYfaLwQAwOvtNzUe6zpfjEAanA7Tsi3LjqAQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "DNCBaeCoMug", "title": "자바 무료 강의 2시간 완성 (1분 자바)" },
+    { "id": "rJE6bhVUNhk", "title": "유니티 무료 강의 (Crash Course) - 5시간 만에 게임 만드는 법 배우기" }, 
+    { "id": "31EX6TLao5g", "title": "공공데이터를 활용한 우리 동네 아파트 실거래가 분석" }, 
+    { "id": "XK3eU9egll8", "title": "파이썬 코딩 무료 강의 (활용편6) - OpenCV 이미지 처리, 얼굴 인식을 통한 캐릭터 씌우기를 해보아요" }, 
+    { "id": "dJfq-eCi7KI", "title": "아나콘다 환경 설정 및 주피터 노트북 사용법" }, 
+    { "id": "gyppYsgCFlM", "title": "[Advanced Git] 52 -  References" }, 
+    { "id": "q6fPjQAzll8", "title": "C 언어 무료 강의 (입문부터 게임 개발까지)" }, 
+    { "id": "bKPIcoou9N8", "title": "파이썬 코딩 무료 강의 (활용편2) - GUI 프로그래밍을 배우고 '여러 이미지 합치기' 프로그램을 함께 만들어요. [나도코딩]" }, 
+    { "id": "kWiCuklohdY", "title": "파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 [나도코딩]" }
+  ]
+}

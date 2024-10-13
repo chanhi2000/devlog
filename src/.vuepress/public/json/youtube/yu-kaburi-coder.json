@@ -1,0 +1,56 @@
+{
+  "channel": {
+    "id": "kaburi-coder",
+    "name": "까불이코더",
+    "profile": "https://yt3.googleusercontent.com/RYj932QKk1V1uwjgL_dKG5kmbsLO9r5_qbdfjGpPoCPrKCEMdqpOVMRDXi_mCHO50b0RvZ571Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WrjeqBsRqwXzk1yeAOVU_TF_swd9bNgiFrXiE4ezXs0MstT1iOCOsCLJFmyTWJX4riU75PhvpZ4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eWSP4TOZjj4", "title": "WPF로 PC카카오톡 로그인 화면을 만들어봐요! [패키지 설치]" },
+    { "id": "qBEvG0imEp0", "title": "VisualStudio팁!  필드 변수 언더바 자동 생성" },
+    { "id": "j6803tiAjcw", "title": "C# 가비지 컬렉터란? 어떻게 동작할까요?" },
+    { "id": "A8t5ktSAgdA", "title": "C# WPF 팁 - Xaml 안에서 ViewModel속성을 자동완성 되도록 만들기" },
+    { "id": "RXRcSG4KykM", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 5 편 (주소기반산업지원서비스 API)" },
+    { "id": "HrgQ4jSuDUM", "title": "C# WPF 기초 강의(Chart-Oxy Plot) MVVM 그래프(차트) 만들기" },
+    { "id": "GtkglhZkFhE", "title": "DesignPattern - Sigleton (싱글톤 패턴) [C#]" },
+    { "id": "8mCzmlGRU4Y", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 1" },
+    { "id": "faOn65V2xjA", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 4 편 (주소기반산업지원서비스 API)" },
+    { "id": "GtkglhZkFhE", "title": "DesignPattern - Sigleton (싱글톤 패턴) [C#]" },
+    { "id": "8mCzmlGRU4Y", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 1" },
+    { "id": "faOn65V2xjA", "title": "C# 주소 OPEN API (RESTFUL) 호출 강좌 4 편 (주소기반산업지원서비스 API)" },
+    { "id": "Dq8z-tdb5Ig", "title": "C# 꿀팁!  5가지 대방출" },
+    { "id": "3VZYfYRVOjw", "title": "VisualStudio 꿀팁!  화면 분할" }
+  ],
+  "playlists": [
+    {
+      "title": "WPF 기초 강의",
+      "videos": [
+        { "id": "2pkfi-d9HBk", "title": "C# WPF 기초 강의(트리)" },
+        { "id": "36Da-EmfF8M", "title": "C# WPF 기초 강의(Event - Bubbling, Tunneling)" },
+        { "id": "GXedK5IquNM", "title": "C# WPF 기초 강의(DataTemplate, Selector)" },
+        { "id": "fJZzgQvi-mA", "title": "C# WPF 기초 강의(ControlTemplate)" },
+        { "id": "kn4foQa-bxg", "title": "C# WPF 기초 강의(Property Trigger)" },
+        { "id": "P_V86WQXGAM", "title": "C# WPF 기초 강의(Event Trigger)" },
+        { "id": "L2cvh5L22r8", "title": "C# WPF 기초 강의(DataTrigger)" },
+        { "id": "Uuv1zKOPDC8", "title": "C# WPF 기초 강의(AccessKey)" },
+        { "id": "qTSyXhJYB4Q", "title": "C# WPF 기초 강의(Control-RichTextBox)" },
+        { "id": "HrgQ4jSuDUM", "title": "C# WPF 기초 강의(Chart-Oxy Plot) MVVM 그래프(차트) 만들기" },
+        { "id": "An7kwDYt3OQ", "title": "C# WPF 기초 강의(Attached Property) PasswordBox 바인딩" },
+        { "id": "WWvYYxamemY", "title": "C# WPF 기초 강의(전역 스타일 지정 - Themes/Generic.xaml)" },
+        { "id": "hwNEiPjkptE", "title": "C# WPF 기초 강의(Show View With Dependency Injection & Receive Parameter)" },
+        { "id": "zDNFFJKW-KE", "title": "C# WPF 기초 강의(열려있는 View 활성화(Activate) 하기)" },
+        { "id": "Y2E65xQAZbI", "title": "C# WPF 기초 강의(Custom Dialog를 만들 때 유용한 Button 속성 - IsDefault, IsCancel)" },
+        { "id": "J_DXgABUpB8", "title": "C# WPF 기초 강의(Layout - Grid)" },
+        { "id": "ZsO29yvxpSM", "title": "C# WPF 기초 강의(Dependency Property 1 - 의존성 속성)" },
+        { "id": "KnhdLNxzdRI", "title": "C# WPF 기초 강의(Dependency Property 2 - 의존성 속성)" },
+        { "id": "PWYq4GCo75U", "title": "C# WPF 기초 강의(Control - Slider, RepeatButton)" },
+        { "id": "7_QKVhIno60", "title": "C# WPF 기초 강의(Resources - Style)" },
+        { "id": "8mCzmlGRU4Y", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 1" },
+        { "id": "IId6XmwlqlQ", "title": "WPF TreeView - LazyTreeNode(지연로드 트리뷰) 만들기 - 2(완)" },
+        { "id": "A8t5ktSAgdA", "title": "C# WPF 팁 - Xaml 안에서 ViewModel속성을 자동완성 되도록 만들기" },
+        { "id": "Je5XBtAUNXY", "title": "C# WPF ScrollBar Custom하기" },
+        { "id": "SJIhnpb0rM0", "title": "C# WPF 기초 강의(ViewModel에서 Window Lifecycle 사용하기)" }
+      ]
+    }
+  ]
+}

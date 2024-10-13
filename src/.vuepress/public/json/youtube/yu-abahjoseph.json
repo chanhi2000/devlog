@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "abahjoseph",
+    "name": "Abah Joseph",
+    "profile": "https://yt3.googleusercontent.com/5h1C6YXQfoYsCH7SFiAIkOsxheVFs6YQsmTyo5APVk6kB93pRkabRioyoG_g3nrRktBFpk0kZ_o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "-b0JfqH05x4", "title": "Level Up Golang Tests in 18 Mins - OOP Secrets Revealed" },
+    { "id": "j_Edt3T_8Lk", "title": "Building Golang CLI Applications Step-by-Step (Part 1)" },
+    { "id": "QUo8v3Fh_BI", "title": "Building Golang CLI Applications Step-by-Step (Part 4)" },
+    { "id": "pmztYYD_V98", "title": "Building Golang CLI Applications Step-by-Step (Part 5)" },
+    { "id": "M3a61bF1JKg", "title": "Building Golang CLI Applications Step-by-Step (Part 6)" },
+    { "id": "kHun3wQ6o8Y", "title": "Building Golang CLI Applications Step-by-Step (Part 7)" },
+    { "id": "onwfi9n8lxE", "title": "Golang Tutorial: Slices of Pointers vs Slices of Values Which is better?" },
+    { "id": "5gFcb_kGGHQ", "title": "Master Protocol Buffers in just 30 minutes! (Golang Tutorial)" },
+    { "id": "v2u5dQxdZPA", "title": "Master Testable Code In Golang (3 Pro Strategies)" },
+    { "id": "j1CXoOQXbco", "title": "Golang Tutorial: Build A Beautiful CLI Todo App With Support for Piping" }
+  ],
+  "playlists": [
+    {
+      "title": "Go Projects & Tutorials",
+      "videos": [
+        { "id": "urB2EsjFmbs", "title": "Mastering File Manipulation in Golang: Unlocking the Secrets" },
+        { "id": "XeuD21y9T24", "title": "Step-by-Step Guide: Deploying Your Golang Application" },
+        { "id": "heJ8fgGxK18", "title": "Conquer Go Testing with Ease: Achieve 100% Coverage Now!" },
+        { "id": "g4qfkREl840", "title": "Golang Tutorial for Beginners - Build API with TDD" },
+        { "id": "B4vcmtOwlEc", "title": "Building an FTP File Sync CLI Tool in Go Programming Language" },
+        { "id": "0b_N4y8_9iI", "title": "Swagger for Go REST APIs: Quick & Easy Documentation with Gin | Comprehensive Walkthrough" },
+        { "id": "o1KhA-1m1Sk", "title": "Build Powerful APIs with Go: Learn to Use the httplib Library for Easy HTTP Request" },
+        { "id": "VNfOqpD0GIM", "title": "Full Web Development in Go: From Beginner to Pro | Build a REST API" },
+        { "id": "0ft_ONgl27s", "title": "Effortless Data Management in Go: An Intro to Upper/DB | GoLang Tutorial" },
+        { "id": "P6AUDnQe360", "title": "Golang database/sql Example: Working With SQL Database  In Go (Fetch, Insert & Paginate Records)" },
+        { "id": "YcCZsGPjrc8", "title": "Golang Tutorial: Create A Generic Queue & LinkedList Data Structures (part 2)" },
+        { "id": "B6ecqn6Yw1k", "title": "Golang Tutorial: Create A Generic Queue & LinkedList Data Structures (part 1)" },
+        { "id": "cmSSm0uZMec", "title": "Golang Tutorial: Send Email via SMTP With AWS SES & Mailtrap Examples!" },
+        { "id": "j1CXoOQXbco", "title": "Golang Tutorial: Build A Beautiful CLI Todo App With Support for Piping" },
+        { "id": "Q7iO2o1m0Ew", "title": "Golang Tutorial: How To Run System Commands In Go!" },
+        { "id": "HqgvRfcdx18", "title": "How To Upload File in Go  - Golang Web development Tutorial (10 MIN)" },
+        { "id": "YS4e4q9oBaU", "title": "Learn Go Programming - Golang Tutorial for Beginners" },
+        { "id": "XkTwDPzeF9k", "title": "Everything You Need To Know About JSON Encoding/Decoding In Go" },
+        { "id": "efbIaaIEsNI", "title": "Top Golang web frameworks: Building web applications with Go web frameworks in 2018" }
+      ]
+    }
+  ]
+}

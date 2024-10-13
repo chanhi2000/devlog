@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "CodeBeauty",
+    "name": "CodeBeauty",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mX6jWb6sBvDgwOJhHBK4Y88488XKYkY0gwHA2CwcT93b0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/shcQntycNfk1jkGBZWP6B3vrdJIBZRy2fF3kFTyZqgXecORBVTvaFI5Ze0O5CxGGA2DDcp7sSw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UxjdCAlU_QA", "title": "How to set up VS Code for C# and make your First Program? + How to learn Practical Programming" },
+    { "id": "3wTCv143hNI", "title": "Switch case statement - C# programming tutorial for beginners" },
+    { "id": "pKKXGxEapaU", "title": "Difference between copy constructor and assignment operator in C++ (OOP tutorial for beginners)" },
+    { "id": "n5GJRVMPnew", "title": "C# Loops for beginners in 40 min - While, Do-While, For (C# Programming tutorial)" },
+    { "id": "eVWTeoygvFA", "title": "If else statement - C# programming tutorial for beginners" },
+    { "id": "obo9oe_o0C8", "title": "C# Introduction - Create your first application (Hello World) - For beginners" },
+    { "id": "yquQ9mLtkN8", "title": "C# Variables and Data Types (beginners programming tutorial)" },
+    { "id": "yquQ9mLtkN8", "title": "C# Variables and Data Types (beginners programming tutorial)" },
+    { "id": "KccYKSF4A4g", "title": "Programmer Q&A - Answering your most interesting questions!" },
+    { "id": "zetAS_qsJKM", "title": "C# Operators: Tips, Tricks & Errors (Arithmetic, Assignment, Increment, Decrement, etc.) part 1" },
+    { "id": "vmPiF8Ex1I4", "title": "C# Operators: Tips, Tricks & Errors (Relational and Logical) part 2" },
+    { "id": "4DrFHaXeB48", "title": "Coding tips and tricks CodeBeauty #programming  #coding codi" },
+    { "id": "MDJzHpzR5fw", "title": "What is Input/Output in C# - Programming tutorial for beginners" },
+    { "id": "AYBkwFen5Ns", "title": "How to build GUI apps with Visual Studio? (FREE, FAST & EASY)" },
+    { "id": "_NlRcT5gWpo", "title": "C++ STL Introduction (for beginners) What is STL and STL main components?" },
+    { "id": "-Svq5IYPWbc", "title": "STL Templates in C++ - Generic Functions and Classes (beginner-friendly)" },
+    { "id": "dXI9_9WoTVw", "title": "C++ List (Real examples, Sorting a list, When (not) to use List, Detailed explanation, Step-by-Step)" },
+    { "id": "-Qa1RqmXKG0", "title": "C++ Mutex and Thread safety: Multithreading and concurrency beginner friendly tutorial" },
+    { "id": "jc-9wteVajs", "title": "I used web data to identify market trends (Practical App Programming tutorial)" }, 
+    { "id": "MR8SOQ619z0", "title": "Function pointers, delegates and callbacks | Beginner friendly" }, 
+    { "id": "FxQTXyR4mjs", "title": "Build C++ GUI apps FAST! Your first C++ GUI app!" }
+  ],
+  "playlists": [
+
+  ]
+}

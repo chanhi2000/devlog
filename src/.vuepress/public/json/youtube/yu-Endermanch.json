@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Endermanch",
+    "name": "Enderman",
+    "profile": "https://yt3.googleusercontent.com/QLG84M_dTr4VFN9TgqTF5KwwmhXwPadkI1JrbTLpgP81jpYU7eAOg1cJFd1Kikclc0pbuDX4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/erdVdXPNJOyIVFH1q3AtyYPRHoZeb90ttzNv5ZIFLarRb71HSt6LXrqPBhU_uAcjowKdSOp9lw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tKtmzLpZ3RQ", "title": "The secrets of the Windows installer" },
+    { "id": "asvb0jFI01A", "title": "Hacking Windows 11 SE" },
+    { "id": "L0lWhtqm4OU", "title": "Windows XP on UEFI (no CSM)" },
+    { "id": "4p64UKVdHYQ", "title": "Windows 11 on System Volume Information" },
+    { "id": "KAO3aERbMCs", "title": "How does the Recycle Bin work? #windows #endermanch" },
+    { "id": "SHzVT_dBJog", "title": "RAR & 7z Support for Windows 10 Explorer" },
+    { "id": "52YV657Rd1Q", "title": "Microsoft broke ExplorerPatcher. Let's try to fix it!" },
+    { "id": "qxYZGlLHKHk", "title": "Installing Windows 11 to `defaultuser0`" },
+    { "id": "2bTXbujbsVk", "title": "Activating Windows with ChatGPT" }, 
+    { "id": "t3mQYiF2rNw", "title": "Rectify11: Windows 11 done correctly" }
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "EzeeLinux",
+    "name": "Joe Collins",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSKKs09lvD2rMbL18Bm2uxUDozUiCgYFgp4_2BhPA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LluBYORdO_YLmeGt_NcBRd9jwpfmDK0nMTgFaCFQGkrVLFb8h-CZwDuD43AAaiauYHK7bsQv=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "acgBqG5EI60", "title": "Do You Need A Separate /home Partition for Linux?" }, 
+    { "id": "KG97VzMjfMg", "title": "Let's Write A Script! | How To Create BASH Scripts In Linux" }, 
+    { "id": "25i-Dh6U6Cw", "title": "ChatGPT `.NET` API Client" }, 
+    { "id": "EelcpiUiZR8", "title": "BASH Script Review Bash 2021" }, 
+    { "id": "948AadKDg5E", "title": "Linux Terminal Basics 3 | Paths, Storage and System Monitoring" }, 
+    { "id": "b_RPyMW-78Y", "title": "Linux Distro Hopping Tips and Tricks" }, 
+    { "id": "CaJYuRgRQxg", "title": "Bash Basics Part 2 of 8 | Creating & Editing Text FIles" }, 
+    { "id": "eH8Z9zeywq0", "title": "Bash Basics Part 1 of 8 | Access and Navigation" }, 
+    { "id": "KG97VzMjfMg", "title": "Let's Write A Script! | How To Create BASH Scripts In Linux" }
+  ]
+}

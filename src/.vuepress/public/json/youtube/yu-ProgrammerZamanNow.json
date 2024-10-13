@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "ProgrammerZamanNow",
+    "name": "Programmer Zaman Now",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOEjRhSN80obDegv9WpuiasYYNcAeDyMdyGcxe04g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IgduIAmIDHD9GU-aTw3tX30EuQ7I3SzzQsBXg16bRJhFzLFyK_seScuVB8tQoU9TK5UytpEltg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nFnOv8yLEyo", "title": "Top 5 NodeJS Framework di 2024" },
+    { "id": "crljo33HV4A", "title": "Drop Database di Production" },
+    { "id": "XzxhvNDNBgY", "title": "Tutorial Bun Dasar (Bahasa Indonesia)" },
+    { "id": "VGO5CfOve90", "title": "Tutorial K6 Performance Testing (Bahasa Indonesia)" },
+    { "id": "FkASrE05VY4", "title": "Tutorial Rust Dasar (Bahasa Indonesia)" },
+    { "id": "5ETH7ENJ-Vs", "title": "Mengenal Change Data Capture" },
+    { "id": "1-eEEJF5LCc", "title": "Tutorial TypeScript RESTful API (Bahasa Indonesia)" },
+    { "id": "BXTEwuoDkDQ", "title": "Tutorial NestJS Dasar (Bahasa Indonesia)" },
+    { "id": "BXTEwuoDkDQ", "title": "Tutorial NestJS Dasar (Bahasa Indonesia)" },
+    { "id": "DrqVYkXpods", "title": "Tutorial NestJS RESTful API (Bahasa Indonesia)" },
+    { "id": "nm-r8-JLDvE", "title": "Tutorial CSS Layout (Bahasa Indonesia)" },
+    { "id": "sJvb3ALAmzc", "title": "Tutorial RabbitMQ Dasar (Bahasa Indonesia)" },
+    { "id": "K7bIgpPAdbc", "title": "Tutorial Kafka Dasar (Bahasa Indonesia)" },
+    { "id": "9XIufyvBNSI", "title": "Tutorial Golang Standard Library (Bahasa Indonesia)" }, 
+    { "id": "ICQ6V8u9sSw", "title": "Tutorial MongoDB Dasar (Bahasa Indonesia)" },
+    { "id": "iEeveYoD0SA", "title": "TUTORIAL POSTGRESQL DATABASE (BAHASA INDONESIA)" },
+    { "id": "cSM2Tt3OCm4", "title": "TUTORIAL SPRING CONFIG PROPERTIES (BAHASA INDONESIA)" }, 
+    { "id": "J3YeD3km68g", "title": "TUTORIAL KOTLIN RESTFUL API BAHASA INDONESIA" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "OtherLevels",
+    "name": "Other Level’s",
+    "profile": "https://yt3.googleusercontent.com/7Oo3rNw86NdXN8sw5u_hd5QVxuXZlFBkYT4ISln1MjPoZOdGiDG8zl8ztRS-rmaxesgklxQX0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9JgrHmg-srdVfL8lSfdJUxtfmxun7zXCtkLWhpYeIdggbgPyl86x4NUfxAXbwbrImsyrcGcB2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i8tDv0YRjcI", "title": "Finance Status and Forecasting Dashboard - MS Excel" },
+    { "id": "hjR5ZTmMDEI", "title": "Logistics Transportation Management Excel Dashboard" },
+    { "id": "l5Smdg3Hetc", "title": "SLA Service Level Management Dashboard - Microsoft Excel" },
+    { "id": "SMvsax-TosI", "title": "Dashboard in 10 minutes" },
+    { "id": "TukXnQT-Ieo", "title": "Building a Custom iPod Video!" },
+    { "id": "z26zbiGJnd4", "title": "Is This Microsoft Excel?! Financial Statistics Dashboards System | Tutorial 1" },
+    { "id": "2btS31AU3Iw", "title": "How to build Dynamic & Interactive Dashboard in EXCEL with Pivot Tables&Charts | Tutorial Episode #1" },
+    { "id": "zQLWDUcdA08", "title": "Dynamic Financial Analysis of Projects Dashboard | Microsoft Excel | Tutorial 3" }
+  ]
+}

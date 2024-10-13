@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "DennisIvy",
+    "name": "Dennis Ivy",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYJl_fV3m8tGPC351ukjQhv8qXqg6QnLvHLFjs4OQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cdQ0VJj3ApfoQm0PBa7e1yHkfqS7c7YAlaj4Gw0tnplT4HwL3Gu9Bjhjz5Hq9iNc8PoAhQfIYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jCzL-uoBVkQ", "title": "Submit Your Best Django Project" },
+    { "id": "hbvnsse4xGI", "title": "Refreshing Tokens With Fetch | Custom Interceptor" },
+    { "id": "VnztChBw7Og", "title": "Building a Mobile App with Django & Flutter" },
+    { "id": "E3d0yLialDo", "title": "Django Contacts List App" },
+    { "id": "Spl1ILywg_8", "title": "Contacts List App  | HTML & CSS" }
+  ]
+}

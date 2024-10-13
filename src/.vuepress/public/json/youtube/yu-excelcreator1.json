@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "excelcreator1",
+    "name": "엑셀마왕",
+    "profile": "https://yt3.googleusercontent.com/Re83OlYEIm154yldi5WZQ4XD6AZPyizWLr1TEe7Da7-jj3sG9H4sb2f_bJ_OFxWxBDJTo_2D=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-RPg9_-ypoqccDO4vGBeWoktAfVgLUewCy2RQy8XDawFvTD6m4PUYnWfNHIhDRgIn_MmtOpO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mOcnlcVmqn8", "title": "엑셀 함수로 ID추출하기! #excel #엑셀초보 #엑셀강의 #업무스킬 #빅데이터 #슬기로운직장생활" },
+    { "id": "_88Ey0bk5Cw", "title": "엑셀 파일을 PDF로 바로 저장하기 #excel #업무스킬 #엑셀강의 #엑셀팁 #vlookup #빅데이터 #슬기로운직장생활" },
+    { "id": "HNawu5VU14A", "title": "이미지도 필터링 되게 설정하기!" },
+    { "id": "M01eF97YBW8", "title": "이젠 셀에서 바로 필터링 하세요! #excel #엑셀초보 #업무스킬 #엑셀팁 #엑셀강의" },
+    { "id": "2tS90gg80u4", "title": "엑셀 XLOOKUP 활용하기!!" },
+    { "id": "GFcbe9xeH_I", "title": "표에서 병합된 셀 필터링 하기!" },
+    { "id": "kSkLGse0DPA", "title": "엑셀로 여러 폴더와 하위 폴더 만드는 꿀팁! #excel #업무스킬 #엑셀팁 #엑셀강의 #엑셀함수" },
+    { "id": "ZXwWxtMyl58", "title": "업무 효율을 높여주는 '엑셀 함수 사전 플러스'" },
+    { "id": "sCvj6-v-Ypg", "title": "월별 데이터를 피벗테이블로 분기별로 바꾸기!" },
+    { "id": "xKAMg7AiXwM", "title": "엑셀 생년월일 추출하기 2탄 #업무스킬 #엑셀팁 #excel" },
+    { "id": "2bd6vGDZs98", "title": "엑셀 띄어쓰기 없애기 공백 제거하는 꿀팁!  #excel #업무스킬 #exceltips #엑셀강의 #엑셀팁 #엑셀초보 #엑셀 #trim" },
+    { "id": "ZAFadShVxuA", "title": "엑셀에서 최저가 한번에 색 채우는 꿀팁 #excel #업무스킬 #exceltips #엑셀강의 #엑셀초보" },
+    { "id": "rWvkXuxJtSw", "title": "엑셀 작업 중 유용한 메모 단축키 활용 #excel #업무스킬 #엑셀팁 #엑셀초보" },
+    { "id": "JLTFrV3tKnc", "title": "근무 시간과 초과근무 시간 구하는 엑셀 팁! #excel #업무스킬 #엑셀강의 #엑셀팁" },
+    { "id": "-bWBy50pl00", "title": "내용이 있는 셀만 복사하기!" },
+    { "id": "uC7OMzavhOk", "title": "엑셀로 평일과 주말 함수로 구분하기 #weekday #excel  #exceltips  #직장인#엑셀강의" }
+  ],
+  "playlists": [
+
+  ]
+}

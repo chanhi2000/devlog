@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Cloudacademy",
+    "name": "Cloud Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRRFs3tEmWv7ie_zsmphj1Ons81SIUevD0MGNKZoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sZ08OEULwlaVBlhxEbaV1tlzsmrdZGcUPwy20j2iDbAOgpjB_usAQUvnukMj52xzjrNmPL4i=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_htK5IJF6eQ", "title": "Cloud Academy in 12 Minutes" }, 
+    { "id": "7ScE7lZ1Tow", "title": "Google Cloud Platform Environment - How to Set It Up" }
+  ]
+}

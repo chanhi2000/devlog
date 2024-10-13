@@ -1,0 +1,2361 @@
+[
+  {
+    "repo": "exaloop/codon",
+    "desc": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "officialSite": "https://docs.exaloop.io/codon",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bytedance/sonic-cpp",
+    "desc": "A fast JSON serializing & deserializing library, accelerated by SIMD.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "assimp/assimp",
+    "desc": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "officialSite": "https://www.assimp.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "officialSite": "http://engine-sim.parts",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "officialSite": "https://json.nlohmann.me",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alibaba/havenask",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "musescore/MuseScore",
+    "desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "officialSite": "https://musescore.org",
+    "topics": ["qt", "cpp", "music-notation", "musicxml", "sheetmusic", "sheet-music", "musescore", "sfz"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "icinga/icinga2",
+    "desc": "The core of our monitoring platform with a powerful configuration language and REST API.",
+    "officialSite": "https://icinga.com/docs/icinga2/latest",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "project-chip/connectedhomeip",
+    "desc": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "officialSite": "https://buildwithmatter.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CVCUDA/CV-CUDA",
+    "desc": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "officialSite": "https://cvcuda.github.io",
+    "topics": ["python", "machine-learning", "cloud", "computer-vision", "cpp", "gpu", "cuda", "image-processing", "nvidia", "bytedance", "cv-cuda"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rui314/mold",
+    "desc": "mold: A Modern Linker 🦠",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "officialSite": "https://groups.google.com/forum/?fromgroups#!forum/facebook-folly",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tenderlove/initial-v",
+    "desc": "It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim",
+    "officialSite": "",
+    "topics": ["vim", "esp32", "bluetooth", "initial-v"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ggerganov/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "officialSite": "",
+    "topics": ["ggml", "llama"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "officialSite": "https://pcsx2.net",
+    "topics": ["emulator", "cpp", "emulation", "pcsx2", "ps2"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KTStephano/StratusGFX",
+    "desc": "Realtime 3D rendering engine",
+    "officialSite": "https://ktstephano.github.io/portfolio",
+    "topics": ["windows", "linux", "gamedev", "opengl", "graphics-engine", "graphics", "rendering", "global-illumination", "computer-graphics", "game-development", "graphics-programming", "rendering-engine", "pbr", "rendering-3d-graphics", "graphics-3d", "3d", "graphics-rendering", "3d-graphics", "game-dev", "computer-graphics-opengl"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebookresearch/faiss",
+    "desc": "A library for efficient similarity search and clustering of dense vectors.",
+    "officialSite": "https://faiss.ai",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "finos/perspective",
+    "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+    "officialSite": "https://perspective.finos.org",
+    "topics": ["javascript", "python", "real-time", "bi", "jupyter", "analytics", "webassembly", "data-visualization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "officialSite": "https://imhex.werwolv.net",
+    "topics": ["windows" ,"c-plus-plus" ,"multi-platform" ,"static-analysis" ,"reverse-engineering" ,"disassembler" ,"preprocessor" ,"hacking" ,"forensics" ,"analyzer" ,"hex-editor" ,"cybersecurity" ,"dear-imgui" ,"binary-analysis" ,"ips" ,"hacktoberfest" ,"dark-mode" ,"pattern-language" ,"mathematical-evaluator"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "officialSite": "https://light-city.club/sc",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "officialSite": "https://hyprland.org",
+    "topics": ["wayland-compositor", "compositor", "wayland", "wlroots", "cpp23"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "falcosecurity/falco",
+    "desc": "Cloud Native Runtime Security",
+    "officialSite": "https://falco.org",
+    "topics": ["kubernetes", "security", "containers", "cncf", "cloud-native", "ebpf", "hacktoberfest", "falco"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NixOS/nix",
+    "desc": "Nix, the purely functional package manager",
+    "officialSite": "https://nixos.org",
+    "topics": ["c-plus-plus", "package-manager", "nix", "functional-programming", "declarative-language"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NVIDIAGameWorks/dxvk-remix",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nomic-ai/gpt4all-chat",
+    "desc": "gpt4all-j chat",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "axstin/rbxfpsunlocker",
+    "desc": "FPS Unlocker for Roblox",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "IOActive/Platbox",
+    "desc": "UEFI and SMM Assessment Tool",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/foundationdb",
+    "desc": "FoundationDB - the open source, distributed, transactional key-value store",
+    "officialSite": "https://www.foundationdb.org",
+    "topics": ["transactional", "distributed-database", "acid", "key-value-store", "foundationdb"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "minetest/minetest",
+    "desc": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "officialSite": "https://www.minetest.net",
+    "topics": ["c-plus-plus", "lua", "game-engine", "minetest", "voxel", "cpp11", "voxel-engine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Z4ee/StarRail-S-GC",
+    "desc": "This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "FashionFreedom/Seamly2D",
+    "desc": "Open source patternmaking software to democratize fashion.",
+    "officialSite": "https://seamly.net",
+    "topics": ["windows", "linux", "osx", "qt5"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "electron/electron",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "officialSite": "https://electronjs.org",
+    "topics": ["c-plus-plus", "chrome", "css", "electron", "html", "javascript", "nodejs", "v8", "works-with-codespaces"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pineappleEA/pineapple-src",
+    "desc": "A former citrus fruit-named emulator's Early Access source code",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ada-url/ada",
+    "desc": "WHATWG-compliant and fast URL parser written in modern C++",
+    "officialSite": "https://ada-url.github.io/ada",
+    "topics": ["url", "parser", "performance", "cpp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "officialSite": "https://skyline-emu.one",
+    "topics": ["android", "emulator", "c-plus-plus", "nintendo", "cpp", "emulation", "switch", "skyline"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "azerothcore/azerothcore-wotlk",
+    "desc": "Complete Open Source and Modular solution for MMO",
+    "officialSite": "http://www.azerothcore.org",
+    "topics": ["game", "emulator", "wow", "modular", "gaming", "server", "mmorpg", "game-server", "trinitycore", "azerothcore", "mangos", "sunwellcore", "world-of-warcraft", "scriptdev2", "mmorpg-game", "hacktoberfest", "mmorpg-server"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kraxarn/spotify-qt",
+    "desc": "Lightweight Spotify client using Qt",
+    "officialSite": "",
+    "topics": ["spotify", "qt", "cpp", "spotify-api"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gabime/spdlog",
+    "desc": "Fast C++ logging library.",
+    "officialSite": "",
+    "topics": ["cpp", "logging", "cpp11", "header-only", "spdlog"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DNedic/lockfree",
+    "desc": "A collection of lock-free data structures written in standard C++11",
+    "officialSite": "",
+    "topics": ["library", "cmake", "embedded", "queue", "cpp", "buffer", "cpp11", "embedded-systems", "ring-buffer", "lock-free", "inter-process-communication", "circular-buffer", "fifo", "dma", "circular-queue", "bipartite", "lock-free-queue"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chekanov/CFBook",
+    "desc": "Simple histogram library for C++ or Fortran programs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "typesense/typesense",
+    "desc": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+    "officialSite": "https://typesense.org",
+    "topics": ["search", "search-engine", "elasticsearch", "algolia", "cpp", "raft", "fuzzy-search", "synonyms", "in-memory", "full-text-search", "datastore", "instantsearch", "merchandising", "enterprise-search", "geosearch", "pinecone", "typo-tolerance", "site-search", "faceting", "vector-search"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "juce-framework/JUCE",
+    "desc": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
+    "officialSite": "https://juce.com",
+    "topics": ["audio", "plugin", "c-plus-plus", "framework", "cpp", "vst", "au", "vst3", "juce", "aax", "audiounit", "auv3"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "officialSite": "https://yuzu-emu.org",
+    "topics": ["emulator", "c-plus-plus", "cpp", "emulation", "switch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuzu-emu/yuzu-mainline",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SysSec-KAIST/LTESniffer",
+    "desc": "An Open-source LTE Downlink/Uplink Eavesdropper",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "officialSite": "https://maa.plus",
+    "topics": ["computer-vision", "maa", "arknights"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "officialSite": "",
+    "topics": ["raspberry-pi", "arduino", "robot", "robotics", "gps", "ros", "rtk", "path-finding", "landscaping", "lawn-mower", "robomow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cocos/cocos-engine",
+    "desc": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+    "officialSite": "https://www.cocos.com/en/creator",
+    "topics": ["3d", "cocos", "cocoscreator", "engine", "game-development", "game-engine", "gamedev", "metal", "mit-license", "open-source", "vulkan", "webgl", "webgl2", "webgpu"],
+    "avatar": "https://avatars.githubusercontent.com/u/6937061?v=4",
+    "banner": ""
+  }, {
+    "repo": "dalathegreat/BYD-Battery-Emulator-For-Gen24",
+    "desc": "This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheMCHK/WindowsXPKg",
+    "desc": "Windows XP keygen",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dolphin-emu/dolphin",
+    "desc": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+    "officialSite": "https://dolphin-emu.org",
+    "topics": ["emulator", "cpp", "emulation", "gamecube", "wii"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Neo-Desktop/WindowsXPKg",
+    "desc": "Keygen for Windows XP",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZeroMemoryEx/Blackout",
+    "desc": "kill anti-malware protected processes (BYOVD)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "officialSite": "https://www.qbittorrent.org",
+    "topics": ["c-plus-plus", "torrent", "bittorrent", "bittorrent-client", "torrent-client", "crossplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wwmm/easyeffects",
+    "desc": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+    "officialSite": "",
+    "topics": ["compressor", "pulseaudio", "equalizer", "reverberation", "stereo-equalizer-effects", "auto-volume", "gtk4", "pipewire"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gqrx-sdr/gqrx",
+    "desc": "Software defined radio receiver powered by GNU Radio and Qt.",
+    "officialSite": "http://gqrx.dk",
+    "topics": ["qt", "receiver", "sdr", "rtl-sdr", "fft", "hackrf", "gnuradio", "hacktoberfest", "gqrx", "airspy", "rfspace", "funcube-dongle"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kdab/hotspot",
+    "desc": "The Linux perf GUI for performance analysis.",
+    "officialSite": "",
+    "topics": ["linux", "performance", "qt", "cpp", "profiler", "perf", "performance-analysis", "profiling", "cpu-profiling"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "gpt4all: run open-source LLMs anywhere",
+    "officialSite": "https://gpt4all.io",
+    "topics": ["llm-inference"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "officialSite": "https://flameshot.org",
+    "topics": ["screenshot", "gui", "qt", "cross-platform", "gnu-linux", "image-editing", "free-software", "capture", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "libsdl-org/SDL",
+    "desc": "Simple Directmedia Layer",
+    "officialSite": "https://libsdl.org",
+    "topics": ["sdl", "sdl2", "sdl3"],
+    "avatar": "https://avatars.githubusercontent.com/u/77683370?v=4",
+    "banner": ""
+  }, {
+    "repo": "TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 10.1.0.49801, 3.3.5 = 3.3.5a.12340)",
+    "officialSite": "http://www.trinitycore.org",
+    "topics": ["linux", "multi-platform", "wow", "multiplayer", "mmorpg", "trinitycore", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SwagSoftware/Kisak-Strike",
+    "desc": "100% Open Source CSGO",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SynthstromAudible/DelugeFirmware",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zealdocs/zeal",
+    "desc": "Offline documentation browser inspired by Dash",
+    "officialSite": "https://zealdocs.org",
+    "topics": ["api", "documentation", "docs", "offline", "api-documentation", "documentation-tool", "desktop-application", "dash", "developer-tools", "docset", "zeal"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "isledecomp/isle",
+    "desc": "A work-in-progress decompilation of LEGO Island (1997)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "YimMenu/YimMenu",
+    "desc": "YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.",
+    "officialSite": "https://yim.gta.menu",
+    "topics": ["cpp", "mod", "menu", "gta5", "gtav", "mod-menu"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SerenityOS/serenity",
+    "desc": "The Serenity Operating System 🐞",
+    "officialSite": "https://serenityos.org",
+    "topics": ["c-plus-plus", "unix", "browser", "kernel", "os", "operating-system", "desktop-environment"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/googletest",
+    "desc": "GoogleTest - Google Testing and Mocking Framework",
+    "officialSite": "https://google.github.io/googletest",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mawww/kakoune",
+    "desc": "mawww's experiment for a better code editor",
+    "officialSite": "http://kakoune.org",
+    "topics": ["vim", "c-plus-plus", "kakoune", "text-editor", "console-application", "modal-editing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "milostosic/MTuner",
+    "desc": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms",
+    "officialSite": "",
+    "topics": ["tool", "memory", "optimization", "performance-analysis", "memory-profiler", "profiling", "playstation3", "memory-leak-finder", "playstation4"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TeamHypersomnia/Hypersomnia",
+    "desc": "Multiplayer top-down shooter made from scratch. Comes with an in-game Editor!",
+    "officialSite": "https://hypersomnia.xyz",
+    "topics": ["game", "c-plus-plus", "gamedev", "cpp", "multiplayer", "pixel-art", "game-development", "free-software", "shooter", "multiplayer-game", "2d-game", "shooter-game", "pixelart", "top-down-shooter", "pixelart-game", "top-down-game", "indie-game"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sb-ocr/diy-spacemouse",
+    "desc": "A DIY navigation device for Fusion360",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "qgis/QGIS",
+    "desc": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
+    "officialSite": "https://qgis.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "officialSite": "https://www.dragonflydb.io",
+    "topics": ["redis", "memcached", "multi-threading", "cpp", "fibers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "viktorleis/mmapbench",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StrongPC123/Far-Cry-1-Source-Full",
+    "desc": "Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked.",
+    "officialSite": "https://discord.com/invite/far-cry-1-community-472740869208801292",
+    "topics": ["game", "modding", "discord", "sandbox", "source", "cryengine", "full", "farcry", "modding-games", "farcry1"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "official-stockfish/Stockfish",
+    "desc": "A free and strong UCI chess engine",
+    "officialSite": "https://stockfishchess.org",
+    "topics": ["chess", "chess-engine", "cpp", "stockfish", "uci"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "li-plus/chatglm.cpp",
+    "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B",
+    "officialSite": "",
+    "topics": ["nlp", "large-language-models", "chatglm", "chatglm2"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "RPCSX/rpcsx",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebook/igl",
+    "desc": "Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64",
+    "officialSite": "",
+    "topics": ["emulator", "fast", "opengl", "vulkan", "ps1", "playstation", "psx", "appimage", "jit-compiler", "enhancements", "hardware-renderers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "livegrep/livegrep",
+    "desc": "Interactively grep source code. Source for http://livegrep.com",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pauldreik/rdfind",
+    "desc": "find duplicate files utility",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "citra-emu/citra",
+    "desc": "A Nintendo 3DS Emulator",
+    "officialSite": "https://citra-emu.org",
+    "topics": ["emulator", "c-plus-plus", "arm", "cpp", "emulation", "3ds"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "officialSite": "https://godotengine.org",
+    "topics": ["open-source", "gamedev", "multi-platform", "game-engine", "game-development", "godotengine", "godot", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xenia-project/xenia",
+    "desc": "Xbox 360 Emulator Research Project",
+    "officialSite": "https://xenia.jp",
+    "topics": ["emulator", "c-plus-plus", "cpp", "vulkan", "emulation", "d3d12", "ppc", "xenon", "xbox360"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "emilybache/GildedRose-Refactoring-Kata",
+    "desc": "Starting code for the GildedRose Refactoring Kata in many programming languages.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ValveSoftware/GameNetworkingSockets",
+    "desc": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.",
+    "officialSite": "",
+    "topics": ["networking", "peer-to-peer", "game-development", "realtime-messaging", "reliable-messages"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vitoplantamura/OnnxStream",
+    "desc": "Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)",
+    "officialSite": "",
+    "topics": ["machine-learning", "onnx", "raspberry-pi", "stable-diffusion"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Sunrisepeak/KHistory",
+    "desc": "KHistory is an elegant keystrokes detect tools",
+    "officialSite": "",
+    "topics": ["keyboard", "cross-platform", "imgui", "keylogger", "gamepad", "dstruct", "dsvisual"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hoochanlon/Free-NTFS-For-Mac",
+    "desc": "Nigate，一款支持苹果芯片的Free NTFS for Mac小工具软件。NTFS R/W for macOS. Support Intel/Apple Silicon now.",
+    "officialSite": "https://hoochanlon.github.io/Free-NTFS-for-Mac",
+    "topics": ["macos", "arm", "intel", "ntfs", "osxfuse", "m1", "ntfs-3g", "nigate"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StudioCherno/Walnut",
+    "desc": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/filament",
+    "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "officialSite": "https://google.github.io/filament",
+    "topics": ["android", "webgl", "real-time", "opengl", "metal", "graphics", "vulkan", "wasm", "opengl-es", "pbr", "gltf", "3d-graphics", "gltf-viewer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/onnxruntime",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "officialSite": "https://onnxruntime.ai",
+    "topics": ["machine-learning", "deep-learning", "tensorflow", "scikit-learn", "pytorch", "neural-networks", "hardware-acceleration", "ai-framework", "onnx"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bloomberg/blazingmq",
+    "desc": "A modern high-performance open source message queuing system",
+    "officialSite": "https://bloomberg.github.io/blazingmq",
+    "topics": ["middleware", "distributed-systems", "queue", "messaging", "message-queue", "queues", "blazingmq"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "unum-cloud/usearch",
+    "desc": "Vector Search engine in a single file - supporting C++ 11, C 99, Python 3, JavaScript, Rust, Java, GoLang, Objective-C, Swift, Wolfram, Docker, and WebAssembly 🔍",
+    "officialSite": "https://unum-cloud.github.io/usearch",
+    "topics": ["javascript", "python", "search", "java", "swift", "rust", "golang", "search-engine", "database", "cpp", "webassembly", "wolfram", "cpp11", "simd", "approximate-nearest-neighbor-search", "similarity-search", "kann", "faiss", "vector-search"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenNMT/CTranslate2",
+    "desc": "Fast inference engine for Transformer models",
+    "officialSite": "https://opennmt.net/CTranslate2",
+    "topics": ["deep-neural-networks", "deep-learning", "cpp", "neon", "machine-translation", "openmp", "parallel-computing", "cuda", "inference", "avx", "intrinsics", "avx2", "neural-machine-translation", "opennmt", "quantization", "gemm", "mkl", "thrust", "transformer-models", "onednn"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lcompilers/lpython",
+    "desc": "Python compiler",
+    "officialSite": "https://lpython.org",
+    "topics": ["python", "compiler", "high-performance"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/arrow",
+    "desc": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+    "officialSite": "https://arrow.apache.org",
+    "topics": ["arrow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PixarAnimationStudios/OpenUSD",
+    "desc": "Universal Scene Description",
+    "officialSite": "http://www.openusd.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "manticoresoftware/manticoresearch",
+    "desc": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+    "officialSite": "https://manticoresearch.com",
+    "topics": ["mysql", "search", "api", "search-engine", "json", "sql", "database", "cpp", "full-text-search", "sphinxsearch", "bm25", "search-api", "search-server", "stream-filtering"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "id-Software/quake2-rerelease-dll",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leejet/stable-diffusion.cpp",
+    "desc": "Stable Diffusion in pure C/C++",
+    "officialSite": "",
+    "topics": ["ai", "cplusplus", "image-generation", "diffusion", "text2image", "txt2img", "latent-diffusion", "stable-diffusion", "ggml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "deathkiller/jazz2-native",
+    "desc": "🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2",
+    "officialSite": "http://deat.tk/jazz2",
+    "topics": ["android", "game", "windows", "macos", "linux", "gamedev", "multi-platform", "opengl", "cpp", "uwp", "game-2d", "windows-10", "emscripten", "reimplementation", "jazz-jackrabbit", "2d-game", "2d", "cpp20", "ncine", "steamdeck"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aseprite/aseprite",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "officialSite": "https://www.aseprite.org",
+    "topics": ["c-plus-plus", "sprites", "pixel-art", "animation", "graphics", "spritesheet", "gif", "draw", "aseprite", "animated-sprites", "tilemap-editor", "pixel-editor", "sprite-editor", "tile-editor"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "organicmaps/organicmaps",
+    "desc": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+    "officialSite": "https://organicmaps.app",
+    "topics": ["android", "java", "ios", "app", "privacy", "mobile", "objective-c", "offline", "cpp", "navigation", "maps", "openstreetmap", "routing", "mobile-app", "offline-maps", "tourists", "hacktoberfest", "travelers", "cyclists", "hikers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Distributive-Network/PythonMonkey",
+    "desc": "A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.",
+    "officialSite": "https://pythonmonkey.io",
+    "topics": ["javascript", "python", "cpp", "spidermonkey", "pythonmonke"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "officialSite": "https://bitcoincore.org/en/download",
+    "topics": ["c-plus-plus", "cryptography", "bitcoin", "p2p", "cryptocurrency"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lfortran/lfortran",
+    "desc": "Official main repository for LFortran",
+    "officialSite": "https://lfortran.org",
+    "topics": ["library", "jupyter", "compiler", "fortran", "interactive", "repl", "jupyter-notebook", "jupyter-kernels"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "YavorGIvanov/sam.cpp",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CMU-Perceptual-Computing-Lab/openpose",
+    "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "officialSite": "https://cmu-perceptual-computing-lab.github.io/openpose",
+    "topics": ["opencv", "machine-learning", "real-time", "caffe", "computer-vision", "deep-learning", "cpp", "face", "keypoints", "human-pose-estimation", "pose-estimation", "human-behavior-understanding", "cvpr-2017", "pose", "openpose", "human-pose", "keypoint-detection", "multi-person", "hand-estimation", "foot-estimation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linuxdeepin/deepin-unioncode",
+    "desc": "IDE authored by deepin",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "officialSite": "https://www.youtube.com/watch?v=ip641WmY4pA",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hrydgard/ppsspp",
+    "desc": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+    "officialSite": "https://www.ppsspp.org",
+    "topics": ["psp", "emulators", "ppsspp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PCrnjak/PAROL6-Desktop-robot-arm",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "eduard-permyakov/peredvizhnikov-engine",
+    "desc": "A fully lock-free game engine written in C++20",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "uNetworking/uWebSockets",
+    "desc": "Simple, secure & standards compliant web server for the most demanding of applications",
+    "officialSite": "",
+    "topics": ["http", "router", "cross-platform", "websockets", "pubsub", "commercial", "proxy-protocol"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "paladin-t/bitty",
+    "desc": "Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.",
+    "officialSite": "https://paladin-t.github.io/bitty",
+    "topics": ["gamedev", "lua", "game-engine", "engine", "sdl", "game-development", "indiedev", "pixelart", "fantasy-console", "fantasy-computer", "bitty", "bitty-engine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ianpatt/sfse",
+    "desc": "Starfield Script Extender",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hanickadot/compile-time-regular-expressions",
+    "desc": "Compile Time Regular Expression in C++",
+    "officialSite": "https://twitter.com/hankadusikova",
+    "topics": ["awesome", "constexpr", "regular-expression", "pcre", "header-only", "cpp17", "compile-time", "cpp20", "template-udl"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "grpc/grpc",
+    "desc": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "officialSite": "https://grpc.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "love2d/love",
+    "desc": "LÖVE is an awesome 2D game framework for Lua.",
+    "officialSite": "https://love2d.org",
+    "topics": ["gamedev", "lua", "game-development", "luajit", "love2d"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "FlaxEngine/FlaxEngine",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "officialSite": "https://flaxengine.com",
+    "topics": ["c-sharp", "gamedev", "multi-platform", "game-engine", "cpp", "engine", "game-development", "flax", "flax-engine", "flaxengine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "godotengine/godot-cpp",
+    "desc": "C++ bindings for the Godot script API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheCherno/Hazel",
+    "desc": "Hazel Engine",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MarlinFirmware/Marlin",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "officialSite": "https://marlinfw.org",
+    "topics": ["arduino", "avr", "firmware", "esp32", "atmel", "hacktoberfest", "3d-printing", "reprap", "stmicro"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "goldsborough/clang-expand",
+    "desc": ":dragon: A clang tool for happy refactoring without source-code gymnastics",
+    "officialSite": "",
+    "topics": ["c", "clang", "cpp", "llvm", "objective-c", "refactoring", "tool"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fmtlib/fmt",
+    "desc": "A modern formatting library",
+    "officialSite": "https://fmt.dev",
+    "topics": ["c-plus-plus", "chrono", "cross-platform", "formatting", "multiplatform", "output", "performance", "printf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "InternLM/lmdeploy",
+    "desc": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+    "officialSite": "",
+    "topics": ["codellama", "cuda-kernels", "deepspeed", "fastertransformer", "internlm", "llama", "llama2", "llm", "llm-inference", "turbomind"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tomscii/umon",
+    "desc": "minimal host monitoring",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/oboe",
+    "desc": "Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.",
+    "officialSite": "",
+    "topics": ["android", "audio", "oboe"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "valhalla/valhalla",
+    "desc": "Open Source Routing Engine for OpenStreetMap",
+    "officialSite": "https://valhalla.readthedocs.io",
+    "topics": ["astar", "dijkstra", "directions", "isochrones", "multi-modal", "openstreetmap", "routing", "routing-engine", "tiled", "traveling-salesman"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "officialSite": "",
+    "topics": ["cmd", "command-line", "console", "contributions-welcome", "good-first-issue", "terminal", "windows", "windows-console", "windows-terminal", "wsl"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kautenja/RackNES",
+    "desc": "A Nintendo Entertainment System (NES) emulator module for VCV Rack.",
+    "officialSite": "",
+    "topics": ["nes-emulator", "sampler-engine", "vcv-rack-modules"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LibrePCB/LibrePCB",
+    "desc": "A powerful, innovative and intuitive EDA suite for everyone!",
+    "officialSite": "https://librepcb.org",
+    "topics": ["cad", "eda", "electronics", "hacktoberfest", "linux", "macos", "pcb", "qt", "schematic", "unix", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "R3nzTheCodeGOD/R3nzSkin",
+    "desc": "Skin changer for League of Legends (LOL)",
+    "officialSite": "",
+    "topics": ["cheat", "cheating", "cpp", "cpp17", "cpp20", "dll", "dll-injection", "game-hacking", "imgui", "internal", "json", "league-of-legends", "league-of-legends-cheat", "lol", "r3nzskin", "reverse-engineering", "skinchanger", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chaitin/SafeLine",
+    "desc": "一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。",
+    "officialSite": "https://waf-ce.chaitin.cn",
+    "topics": ["acl", "captcha", "cc", "docker", "firewall", "http-flood", "modsecurity", "nginx", "security", "security-tools", "sql-injection", "waf", "web-application-firewall", "web-security", "xss"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "VASTDynamics/Vaporizer2",
+    "desc": "Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin",
+    "officialSite": "https://www.vast-dynamics.com/?q=products",
+    "topics": ["aax", "audio", "audiounit-plugins", "cpp", "daw", "music", "plugin", "sampler", "synthesizer", "vst", "vst3", "vst3-plugin", "wavetable"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TKazer/CS2_External",
+    "desc": "CS2 external cheat.",
+    "officialSite": "",
+    "topics": ["aimbot", "cheat", "cs2", "esp", "external", "imgui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NVIDIA/MatX",
+    "desc": "An efficient C++17 GPU numerical computing library with Python-like syntax",
+    "officialSite": "https://nvidia.github.io/MatX",
+    "topics": ["cuda", "gpgpu", "gpu", "gpu-computing", "hpc"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/graph-mining",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "WonderInventions/node-webrtc",
+    "desc": "node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M94",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "officialSite": "https://tensorflow.org",
+    "topics": ["deep-learning", "deep-neural-networks", "distributed", "machine-learning", "ml", "neural-network", "python", "tensorflow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pdf2htmlEX/pdf2htmlEX",
+    "desc": "Convert PDF to HTML without losing text or format.",
+    "officialSite": "https://pdf2htmlEX.github.io/pdf2htmlEX",
+    "topics": ["html", "pdf", "pdf-document-processor", "pdf-viewer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ros-planning/moveit2",
+    "desc": "🤖 MoveIt for ROS 2",
+    "officialSite": "https://moveit.ros.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "officialSite": "http://protobuf.dev",
+    "topics": ["marshalling", "protobuf", "protobuf-runtime", "protoc", "protocol-buffers", "protocol-compiler", "rpc", "serialization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/snmalloc",
+    "desc": "Message passing based allocator",
+    "officialSite": "",
+    "topics": ["allocator", "malloc", "memory-allocator"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oceanbase/oceanbase",
+    "desc": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "officialSite": "https://open.oceanbase.com",
+    "topics": ["cloud-database", "cloud-native", "cplusplus", "databases", "distributed-computation", "distributed-databases", "distributed-transactions", "hacktoberfest", "htap", "mysql-compatibility", "mysql-database", "oceanbase", "oltp", "paxos", "scaleable"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "officialSite": "https://matsuridayo.github.io",
+    "topics": ["linux", "proxy", "qt", "shadowsocks", "sing-box", "trojan", "v2ray", "vless", "vmess", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuzu-emu/yuzu",
+    "desc": "Nintendo Switch emulator",
+    "officialSite": "https://yuzu-emu.org",
+    "topics": ["c-plus-plus", "cpp", "emulation", "emulator", "switch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenEarable/open-earable",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LizardByte/Sunshine",
+    "desc": "Self-hosted game stream host for Moonlight.",
+    "officialSite": "https://app.lizardbyte.dev",
+    "topics": ["cpp", "docker", "game-stream", "game-streaming", "game-streaming-server", "geforce-experience", "moonlight", "python", "remote-desktop", "replicator-release-notifications"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CleverRaven/Cataclysm-DDA",
+    "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "officialSite": "http://cataclysmdda.org",
+    "topics": ["c-plus-plus", "cataclysm", "game", "hacktoberfest", "zombies"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yanfengwu-syser/syserdebugger",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oceanbase/miniob",
+    "desc": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+    "officialSite": "https://oceanbase.github.io/miniob",
+    "topics": ["database", "learn-to-database", "mini-database"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Alex313031/thorium",
+    "desc": "Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.",
+    "officialSite": "https://thorium.rocks",
+    "topics": ["aes", "avx", "avx-instructions", "chrome", "chrome-devtools", "chromedriver", "chromium", "chromium-browser", "content-shell", "jpeg-xl", "jpegxl", "jxl", "libjxl", "linux", "thorium", "thorium-browser", "thoriumos", "web-browser", "web-platform", "webbrowser"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NVIDIA/TensorRT-LLM",
+    "desc": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "officialSite": "https://nvidia.github.io/TensorRT-LLM",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nghttp2/nghttp2",
+    "desc": "nghttp2 - HTTP/2 C Library and tools",
+    "officialSite": "https://nghttp2.org",
+    "topics": ["c", "cpp14", "http2", "http3", "quic"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "o3de/o3de",
+    "desc": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "officialSite": "https://o3de.org",
+    "topics": ["3d-graphics", "3d-graphics-engine", "animation", "game-development", "game-engine", "gamedev"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Source2ZE/CS2Fixes",
+    "desc": "S2ZE modding experiments",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "gpt4all: open-source LLM chatbots that you can run anywhere",
+    "officialSite": "https://gpt4all.io",
+    "topics": ["llm-inference"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PurpleI2P/i2pd",
+    "desc": " 🛡 I2P: End-to-End encrypted and anonymous Internet",
+    "officialSite": "https://i2pd.website",
+    "topics": ["anonymity", "c-plus-plus", "communication", "cryptography", "i2p", "i2p-client", "openssl", "p2p", "privacy", "security", "vpn"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "GaijinEntertainment/DagorEngine",
+    "desc": "Dagor Engine and Tools source code from Gaijin Games KFT",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "halpz/re3",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "telegramdesktop/tdesktop",
+    "desc": "Telegram Desktop messaging app",
+    "officialSite": "https://desktop.telegram.org/",
+    "topics": ["messenger", "multi-platform", "telegram", "telegram-desktop", "telegram-solution"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "li-plus/chatglm.cpp",
+    "desc": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs",
+    "officialSite": "",
+    "topics": ["baichuan", "baichuan2", "chatglm", "chatglm2", "chatglm3", "codegeex2-6b", "internlm", "large-language-models", "nlp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rwengine/openrw",
+    "desc": "OpenRW \"Open ReWrite\" is an un-official open source recreation of the classic Grand Theft Auto III game executable",
+    "officialSite": "http://openrw.org",
+    "topics": ["c-plus-plus", "game-engine", "gta", "gta3", "linux-game", "macosx-game", "multi-platform", "reimplementation", "video-game"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "IST-DASLab/QUIK",
+    "desc": "Repository for the QUIK project, enabling the use of 4bit kernels for generative inference",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Brendan-Kirtlan/Video-Encode",
+    "desc": "Encodes a file into a video format to store on a cloud video hosting service",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SoftFever/OrcaSlicer",
+    "desc": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "officialSite": "https://discord.gg/P4VE9UY9gJ",
+    "topics": ["3d-printer", "3d-printing", "makers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Xacone/BestEdrOfTheMarket","desc": "Little AV/EDR bypassing lab for training & learning purposes",
+    "officialSite": "",
+    "topics": ["defense-evasion", "edr", "edr-evasion", "edr-testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KienTTran/ABMGPU",
+    "desc": "Agent Based Model on GPU using CUDA 12.2.1 and OpenGL 4.5 (CUDA OpenGL interop) on Windows/Linux",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Mozilla-Ocho/llamafile",
+    "desc": "Distribute and run LLMs with a single file.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ml-explore/mlx",
+    "desc": "MLX: An array framework for Apple silicon",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "officialSite": "https://discord.gg/4CWS9zD",
+    "topics": ["bdd", "cpp", "cpp14", "framework", "no-dependencies", "tdd", "test-framework", "testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pybind/pybind11",
+    "desc": "Seamless operability between C++11 and Python",
+    "officialSite": "https://pybind11.readthedocs.io/",
+    "topics": ["bindings", "python"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "thorvg/thorvg",
+    "desc": "ThorVG is a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. It provides user-friendly APIs, has no dependencies, and maintains a super compact size.",
+    "officialSite": "https://www.thorvg.org",
+    "topics": ["animation", "drawing-library", "graphics", "image", "jpeg", "lottie", "motion-graphics", "opengl", "path-drawing", "png", "rendering-engine", "shapes", "svg", "tvg", "vector-graphics-engine", "webgpu", "webp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jmpoep/vmprotect-3.5.1",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "asset-group/5ghoul-5g-nr-attacks",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lean-dojo/LeanCopilot",
+    "desc": "LLMs as Copilots for Theorem Proving in Lean",
+    "officialSite": "https://leandojo.org",
+    "topics": ["lean", "lean4", "llm-inference", "machine-learning", "theorem-proving"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "RayTracing/raytracing.github.io",
+    "desc": "Main Web Site (Online Books)",
+    "officialSite": "https://raytracing.github.io/",
+    "topics": ["book", "graphics-rendering", "markdeep", "ray-tracing", "raytracing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tlack/atree",
+    "desc": "Stevan Apter-style trees in C++17",
+    "officialSite": "",
+    "topics": ["apl", "data-structures", "kdb", "tree", "vector"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Nukem9/dlssg-to-fsr3",
+    "desc": "Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Librum-Reader/Librum",
+    "desc": "The Librum client application",
+    "officialSite": "https://librumreader.com",
+    "topics": ["cmake", "cpp", "ebook-reader", "ebooks", "library-management", "linux", "qml", "qt", "qt6", "reader"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Anttwo/SuGaR",
+    "desc": "Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Z3Prover/z3",
+    "desc": "The Z3 Theorem Prover",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PlutoLang/Pluto",
+    "desc": "A superset of Lua 5.4 — with unique features, optimizations, and improvements.",
+    "officialSite": "https://pluto-lang.org",
+    "topics": ["dialect", "language", "lua", "pluto", "plutolang", "programming-language", "superset"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hunar4321/particle-life",
+    "desc": "A simple program to simulate artificial life using attraction/reuplsion forces between many particles",
+    "officialSite": "",
+    "topics": ["cellular-automata", "cpp", "educational", "game-of-life", "generative-art", "javascript", "particle-life", "particles", "simulation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Genivia/ugrep",
+    "desc": "Ugrep 4.4: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search, hexdumps, searches nested archives (zip, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more",
+    "officialSite": "https://ugrep.com",
+    "topics": ["code-search", "file-search", "fuzzy-search", "grep", "grep-search", "grepping", "hexdump", "indexing", "interactive", "recursively-search", "regex", "ripgrep", "search", "shell-utilities", "silver-searcher", "tar", "text-search", "tui", "unicode", "zip"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "abolinsky/Hook",
+    "desc": "a graphical C/C++ runtime editor",
+    "officialSite": "",
+    "topics": ["c", "cpp", "debug-tool"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "thelastoutpostworkshop/gpio_viewer",
+    "desc": "GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards",
+    "officialSite": "",
+    "topics": ["arduino-library", "esp32", "gpio", "gpio-pins", "gpioviewer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dillo-browser/dillo",
+    "desc": "Dillo, a multi-platform graphical web browser",
+    "officialSite": "https://dillo-browser.github.io/",
+    "topics": ["browser", "dillo", "fltk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "praydog/UEVR",
+    "desc": "Universal Unreal Engine VR Mod (4.8 - 5.3)",
+    "officialSite": "http://uevr.io",
+    "topics": ["cmkr", "cpp", "modding", "unreal", "unreal-engine", "virtual-reality"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ktock/container2wasm",
+    "desc": "Container to WASM converter",
+    "officialSite": "https://ktock.github.io/container2wasm-demo/",
+    "topics": ["containers", "docker", "wasm", "webassembly"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "electronicarts/CnC_Remastered_Collection",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "janhq/nitro",
+    "desc": "A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API",
+    "officialSite": "https://nitro.jan.ai/",
+    "topics": ["accelerated", "ai", "cuda", "gguf", "inference-engine", "llama", "llama2", "llamacpp", "llm", "llms", "openai-api", "stable-diffusion", "tensorrt-llm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wpilibsuite/allwpilib",
+    "desc": "Official Repository of WPILibJ and WPILibC",
+    "officialSite": "https://wpilib.org/",
+    "topics": ["cscore", "hal", "ntcore", "roborio", "wpilibc", "wpilibj"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "officialSite": "https://tachiyomi.org/",
+    "topics": ["android", "kotlin", "manga"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebookresearch/habitat-sim",
+    "desc": "A flexible, high-performance 3D simulator for Embodied AI research.",
+    "officialSite": "https://aihabitat.org/",
+    "topics": ["ai", "computer-vision", "cplusplus", "robotics", "sim2real", "simulator"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuzu-emu/yuzu-android",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "linkdd/aitoolkit",
+    "desc": "Give a brain to your game's NPCs",
+    "officialSite": "https://linkdd.github.io/aitoolkit/",
+    "topics": ["ai", "behavior-tree", "cpp", "cpp23", "finite-state-machine", "gamedev", "gamedev-library", "goal-oriented-action-planning", "utility-ai"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gscept/nebula",
+    "desc": "Nebula is an open-source and free-to-use modern C++ game engine.",
+    "officialSite": "http://nebulatrifid.org/",
+    "topics": ["classless-api", "data-oriented-architecture", "game-engine", "game-engine-3d", "linux", "multithreading", "performance", "vulkan", "vulkan-game-engine", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kroma-network/tachyon",
+    "desc": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
+    "officialSite": "",
+    "topics": ["blockchain", "c-plus-plus", "cpp17", "cryptocurrency", "cryptography", "cuda", "kroma", "tachyon", "zero-knowledge", "zk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "helio-fm/helio-sequencer",
+    "desc": "One music sequencer for all major platforms, desktop and mobile",
+    "officialSite": "https://helio.fm",
+    "topics": ["audio-applications", "composition", "cross-platform", "microtonal", "midi", "music-composition", "music-sequencer", "music-tools", "sequencer", "vst"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stenzek/duckstation",
+    "desc": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+    "officialSite": "",
+    "topics": ["appimage", "emulator", "enhancements", "fast", "hardware-renderers", "jit-compiler", "opengl", "playstation", "ps1", "psx", "vulkan"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fwsGonzo/rvscript",
+    "desc": "Fast RISC-V-based scripting backend for game engines",
+    "officialSite": "",
+    "topics": ["cpp17", "gamedev", "riscv", "scripting-engine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Stellarium/stellarium",
+    "desc": "Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",
+    "officialSite": "https://stellarium.org",
+    "topics": ["astronomy", "c", "c-plus-plus", "planetarium", "qt5", "qt6", "science", "sky", "stars", "stellarium", "universe"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/STL",
+    "desc": "MSVC's implementation of the C++ Standard Library.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zydeco/macemu",
+    "desc": "Experiments with BasiliskII on iOS and macOS",
+    "officialSite": "",
+    "topics": ["emulator", "ios", "m68k", "macintosh"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/glog",
+    "desc": "C++ implementation of the Google logging module",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "idaholab/moose",
+    "desc": "Multiphysics Object Oriented Simulation Environment",
+    "officialSite": "https://www.mooseframework.org",
+    "topics": ["amr", "fem", "finite-elements", "finite-volumes", "multiphysics", "object-oriented", "parallel", "simulation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "swordbluesword/PalWorld-NetCrack",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "BayernMuller/vibra",
+    "desc": "🎵 C++ Cross Platform Shazam Client that creates a fingerprint from a music file to retrieve song information",
+    "officialSite": "",
+    "topics": ["cli", "cpp", "cross-platform", "music-fingerprinting", "music-recognition", "open-source", "shazam"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "timeplus-io/proton",
+    "desc": "A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.",
+    "officialSite": "https://timeplus.com",
+    "topics": ["analytics", "clickhouse", "confluent", "cpp", "flink-alternative", "high-performance", "kakfa", "ksqldb-alternative", "redpanda", "simd", "single-binary", "sql", "stream-processing", "streaming-sql", "udf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mamedev/mame",
+    "desc": "MAME",
+    "officialSite": "https://www.mamedev.org/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "willem-pennings/balancing-cube",
+    "desc": "A cube that balances itself in a corner or edge using reaction wheels",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/mediapipe",
+    "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "officialSite": "https://mediapipe.dev",
+    "topics": ["android", "audio-processing", "c-plus-plus", "calculator", "computer-vision", "deep-learning", "framework", "graph-based", "graph-framework", "inference", "machine-learning", "mediapipe", "mobile-development", "perception", "pipeline-framework", "stream-processing", "video-processing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openai/triton",
+    "desc": "Development repository for the Triton language and compiler",
+    "officialSite": "https://triton-lang.org/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ros-perception/image_pipeline",
+    "desc": "An image processing pipeline for ROS.",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "image-processing", "python", "ros"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jankae/LibreVNA",
+    "desc": "100kHz to 6GHz 2 port USB based VNA",
+    "officialSite": "",
+    "topics": ["rf", "vna"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/gemma.cpp",
+    "desc": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/highway",
+    "desc": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "officialSite": "",
+    "topics": ["avx", "avx-512", "avx-instructions", "avx2", "avx512", "intrinsics", "neon", "simd", "simd-instructions", "simd-intrinsics", "simd-library", "simd-parallelism", "simd-programming", "sse42", "wasm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "osquery/osquery",
+    "desc": "SQL powered operating system instrumentation, monitoring, and analytics.",
+    "officialSite": "https://osquery.io",
+    "topics": ["hacktoberfest", "intrusion-detection", "monitoring", "security", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SuperTux/supertux",
+    "desc": "SuperTux source code",
+    "officialSite": "https://supertux.org",
+    "topics": ["c-plus-plus", "game", "games", "hacktoberfest", "opengl", "sdl", "sdl2", "supertux"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuzu-mirror/yuzu",
+    "desc": "Nintendo Switch emulator (unofficial mirror fork)",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "cpp", "emulation", "emulator", "switch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PabloMK7/citra",
+    "desc": "A Nintendo 3DS Emulator",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cemu-project/Cemu",
+    "desc": "Cemu - Wii U emulator",
+    "officialSite": "https://cemu.info",
+    "topics": ["cemu", "cemu-emulator", "cpp", "emulation", "emulator", "nintendo", "wiiu"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Crimson-Hawk/suyu",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ProjectDreamland/area51",
+    "desc": "Source code for Area 51 (2005) ",
+    "officialSite": "",
+    "topics": ["game-development", "game-engine", "gamedev", "ps2", "xbox"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lightvector/KataGo",
+    "desc": "GTP engine and self-play learning in Go",
+    "officialSite": "https://katagotraining.org/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NatronGitHub/Natron",
+    "desc": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+    "officialSite": "http://NatronGitHub.github.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ProfJski/FloatCompMandelbrot",
+    "desc": "What impact does floating point precision have on Mandelbrot set calculations?",
+    "officialSite": "",
+    "topics": ["floating-point", "fractal", "mandelbrot-set", "numerical-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "suyu-emu/suyu",
+    "desc": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android.",
+    "officialSite": "https://suyu.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "flox/flox",
+    "desc": "Developer environments you can take with you",
+    "officialSite": "https://flox.dev",
+    "topics": ["developer-tools", "development-environment", "nix", "package-manager", "virtual-environments"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "EricLengyel/Terathon-Math-Library",
+    "desc": "C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Michaelangel007/nanofont3x4",
+    "desc": "World's smallest readable 3x4 font with lowercase; includes all ASCII symbols",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Snapchat/KeyDB",
+    "desc": "A Multithreaded Fork of Redis",
+    "officialSite": "https://keydb.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "carlosefr/spinner-mouse",
+    "desc": "Arduino-based USB rotary controller for arcade Arkanoid, Tempest, etc.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/kvrocks",
+    "desc": "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.",
+    "officialSite": "https://kvrocks.apache.org/",
+    "topics": ["database", "distributed", "kv", "namespace", "redis", "redis-cluster"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "city-super/Octree-GS",
+    "desc": "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jrouwe/JoltPhysics",
+    "desc": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "cpp", "game-development", "game-engine", "physics", "physics-engine", "physics-simulation", "simulation", "vr"],
+    "avatar": "https://avatars.githubusercontent.com/u/1621693?v=4",
+    "banner": ""
+  }, {
+    "repo": "andreasfertig/cppinsights",
+    "desc": "C++ Insights - See your source code with the eyes of a compiler",
+    "officialSite": "https://cppinsights.io",
+    "topics": ["ast", "clang", "cplusplus", "cplusplus-11", "cplusplus-14", "cplusplus-17", "cplusplus-20", "cplusplus-23", "cpp", "cpp11", "cpp14", "cpp17", "cpp2", "cpp20", "cpp23", "llvm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "officialSite": "https://docs.zlmediakit.com",
+    "topics": ["flv", "gb28181", "hls", "http", "http-flv", "http-fmp4", "http-ts", "live", "media-server", "mp4", "rtmp", "rtp", "rtsp", "srt", "ts", "webrtc", "websocket", "websocket-flv"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kevinbentley/Descent3",
+    "desc": "Descent 3 by Outrage Entertainment",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "esphome/esphome",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "officialSite": "https://esphome.io/",
+    "topics": ["esp32", "esp8266", "hacktoberfest", "home-assistant", "home-automation", "iot", "mqtt", "platformio", "python", "yaml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mudler/LocalAI",
+    "desc": ":robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.",
+    "officialSite": "https://localai.io",
+    "topics": ["ai", "alpaca", "api", "api-rest", "audio-generation", "coqui", "falcon", "gemma", "gpt4all", "image-generation", "kubernetes", "llama", "llm", "mamba", "mistral", "musicgen", "rwkv", "stable-diffusion", "text-generation", "tts"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alexbatalov/fallout1-ce",
+    "desc": "Fallout for modern operating systems",
+    "officialSite": "",
+    "topics": ["c-plus-plus", "fallout", "game", "isometric"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pytorch/executorch",
+    "desc": "On-device AI across mobile, embedded and edge for PyTorch",
+    "officialSite": "https://pytorch.org/executorch/",
+    "topics": ["deep-learning", "embedded", "gpu", "machine-learning", "mobile", "neural-network", "tensor"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Open-Shell/Open-Shell-Menu",
+    "desc": "Classic Shell Reborn.",
+    "officialSite": "",
+    "topics": ["classic-menu", "classic-shell", "classic-start", "microsoft-windows", "open-shell", "open-shell-menu", "start-menu", "startme", "windows", "windows-10", "windows10"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "turingmotors/swan",
+    "desc": "This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "theCheeseboard/thedesk",
+    "desc": "Desktop Environment",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zircothc/DRUM_2004_V1",
+    "desc": "ESP32 DRUM SYNTH MACHINE",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "simdjson/simdjson",
+    "desc": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+    "officialSite": "https://simdjson.org",
+    "topics": ["aarch64", "arm", "arm64", "avx2", "avx512", "c-plus-plus", "clang", "clang-cl", "cpp11", "gcc-compiler", "json", "json-parser", "json-pointer", "loongarch", "neon", "simd", "sse42", "vs2019", "x64"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "metab0t/PyOptInterface",
+    "desc": "Efficient modeling interface for mathematical optimization in Python",
+    "officialSite": "https://metab0t.github.io/PyOptInterface/",
+    "topics": ["conic-programs", "linear-programming", "mathematical-modelling", "mathematical-programming", "mixed-integer-programming", "modeling-language", "optimization", "python", "quadratic-programming"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xfangfang/PPPwn_cpp",
+    "desc": "C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE)",
+    "officialSite": "",
+    "topics": ["pppwn", "ps4", "ps4-jailbreak", "ps4exploit"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jjuran/metamage_1",
+    "desc": "Metamage open source, general repository, iteration 1",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Mr-Wiseguy/N64Recomp",
+    "desc": "Tool to statically recompile N64 games into native executables",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Mr-Wiseguy/Zelda64Recomp",
+    "desc": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rt64/rt64",
+    "desc": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "uysalibov/gezgin",
+    "desc": "Modern Pathfinding Using OpenStreetMap Data with Raylib",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lich0821/WeChatFerry",
+    "desc": "微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.",
+    "officialSite": "",
+    "topics": ["chatglm", "chatgpt", "gemini", "hook", "robot", "wechat"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rashadphz/farfalle",
+    "desc": "🔍 AI search engine - self-host with local or cloud LLMs",
+    "officialSite": "https://www.farfalle.dev/",
+    "topics": ["fastapi", "generative-ui", "gpt-4o", "groq", "llm", "nextjs", "ollama", "openai", "perplexity", "react", "search-engine", "shadcn-ui", "tailwindcss"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xbmc/xbmc",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+    "officialSite": "https://kodi.tv/",
+    "topics": ["android", "c-plus-plus", "entertainment-hub", "hacktoberfest", "home-theater", "ios", "kodi", "linux", "macos", "media-center", "media-player", "multimedia", "python", "windows-desktop", "windows-uwp", "xbmc", "xml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "BlackINT3/OpenArk",
+    "desc": "The Next Generation of Anti-Rookit(ARK) tool for Windows.",
+    "officialSite": "https://openark.blackint3.com",
+    "topics": ["anti-malware", "ark", "windows-hacking"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "abseil/abseil-cpp",
+    "desc": "Abseil Common Libraries (C++)",
+    "officialSite": "https://abseil.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "triton-lang/triton",
+    "desc": "Development repository for the Triton language and compiler",
+    "officialSite": "https://triton-lang.org/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ValveSoftware/halflife",
+    "desc": "Half-Life 1 engine based games",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "es3n1n/no-defender",
+    "desc": "A slightly more fun way to disable windows defender. (through the WSC api)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DiscoGrad/DiscoGrad",
+    "desc": "DiscoGrad - automatically differentiate across conditional branches in C++ programs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pixie-io/pixie",
+    "desc": "Instant Kubernetes-Native Application Observability",
+    "officialSite": "https://px.dev",
+    "topics": ["aks", "apache-arrow", "cloud-native", "cncf", "distributed-systems", "ebpf", "eks", "gke", "golang", "kubernetes", "machine-learning", "metrics", "minikube", "monitoring", "observability", "pandas", "pixie", "px", "px-run", "vega"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cameron314/concurrentqueue",
+    "desc": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sudachi-emu/sudachi",
+    "desc": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "decrazyo/fdxb",
+    "desc": "Arduino FDX-B reader built from discrete components.",
+    "officialSite": "",
+    "topics": ["arduino", "em4100", "fdx-b", "pet", "rfid"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "duckdb/duckdb",
+    "desc": "DuckDB is an analytical in-process SQL database management system",
+    "officialSite": "http://www.duckdb.org",
+    "topics": ["analytics", "database", "embedded-database", "olap", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "intel/neural-speed",
+    "desc": "An innovative library for efficient LLM inference via low-bit quantization",
+    "officialSite": "https://github.com/intel/neural-speed",
+    "topics": ["cpu", "fp4", "fp8", "gaudi2", "gpu", "int1", "int2", "int3", "int4", "int5", "int6", "int7", "int8", "llamacpp", "llm-fine-tuning", "llm-inference", "low-bit", "mxformat", "nf4", "sparsity"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rapidsai/cudf",
+    "desc": "cuDF - GPU DataFrame Library ",
+    "officialSite": "https://docs.rapids.ai/api/cudf/stable/",
+    "topics": ["arrow", "cpp", "cuda", "cudf", "dask", "data-analysis", "data-science", "dataframe", "gpu", "pandas", "pydata", "python", "rapids"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "misprit7/foosbar",
+    "desc": "Code to support my autonomous foosball playing robot",
+    "officialSite": "https://www.youtube.com/watch?v=xrwXZXGiP1w",
+    "topics": ["foosball", "qtm", "qualisys", "robotics", "table-football", "table-soccer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "carlos-menezes/libg203lightsync",
+    "desc": "A library for programmatically interacting with the Logitech G203 Lightsync mouse.",
+    "officialSite": "",
+    "topics": ["g203", "g203-lightsync", "led", "logitech", "logitech-gaming", "mouse-api"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yeshjho/Typoon",
+    "desc": "A text expander that fully supports Korean letters as well. 한글을 제대로 지원하는 텍스트 확장기.",
+    "officialSite": "",
+    "topics": ["hangeul", "hangul", "korean", "text-expander"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "k2-fsa/sherpa-onnx",
+    "desc": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",
+    "officialSite": "https://k2-fsa.github.io/sherpa/onnx/index.html",
+    "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NVIDIA/TensorRT",
+    "desc": "NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+    "officialSite": "https://developer.nvidia.com/tensorrt",
+    "topics": ["deep-learning", "gpu-acceleration", "inference", "nvidia", "tensorrt"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tstack/lnav",
+    "desc": "Log file navigator",
+    "officialSite": "http://lnav.org",
+    "topics": ["command-line-tool", "less", "log-analysis", "log-monitor", "log-viewer", "log-visualization", "logging", "more", "pager", "tail", "terminal", "terminal-pager", "tui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "RTranslator is the world's first open source real-time translation app.",
+    "officialSite": "",
+    "topics": ["ai", "android-app", "bluetooth-le", "coversation", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper-ai"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Samsung/escargot",
+    "desc": "Escargot is a memory optimized JavaScript engine for mid-range devices such as mobile phone, tablet and TV.",
+    "officialSite": "",
+    "topics": ["javascript-engine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Fare9/KUNAI-static-analyzer",
+    "desc": "Tool aimed to provide a binary analysis of different file formats through the use of an Intermmediate Representation.",
+    "officialSite": "https://fare9.github.io/KUNAI-static-analyzer/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "World's first open source real-time translation app for Android.",
+    "officialSite": "",
+    "topics": ["ai", "android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "simultaneous-translation", "transformers", "translation", "translator", "whisper", "whisper-ai"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "niedev/RTranslator",
+    "desc": "An open source real-time translation app for Android that runs locally",
+    "officialSite": "",
+    "topics": ["android-app", "bluetooth-le", "nllb", "nllb200", "onnx", "onnxruntime", "realtime-translator", "sentencepiece", "transformers", "translation", "translator", "whisper", "whisper-ai"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ExpressLRS/ExpressLRS",
+    "desc": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications",
+    "officialSite": "",
+    "topics": ["drone", "esp32", "esp8266", "fpv", "lora", "quadcopter", "rc", "remote-control", "stm32", "sx1276", "sx1280"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/leveldb",
+    "desc": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wolfpld/tracy",
+    "desc": "Frame profiler",
+    "officialSite": "https://tracy.nereid.pl/",
+    "topics": ["gamedev", "gamedev-library", "gamedevelopment", "library", "performance", "performance-analysis", "profiler", "profiling", "profiling-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vslavik/diff-pdf",
+    "desc": "A simple tool for visually comparing two PDF files",
+    "officialSite": "http://vslavik.github.io/diff-pdf",
+    "topics": ["pdf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ydb-platform/ydb",
+    "desc": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+    "officialSite": "https://ydb.tech",
+    "topics": ["cloud-native", "cpp", "database", "dbms", "distributed", "distributed-database", "distributed-sql", "distributed-sql-database", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "albertobsd/keyhunt",
+    "desc": "privkey hunt for crypto currencies that use secp256k1  elliptic curve",
+    "officialSite": "",
+    "topics": ["bitcoin", "bsgs", "crypto-currencies", "cryptocurrency", "privatekeys", "publickeys", "puzzle", "secp256k1"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "swiftlang/swift",
+    "desc": "The Swift Programming Language",
+    "officialSite": "https://swift.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "plv8/plv8",
+    "desc": " V8 Engine Javascript Procedural Language add-on for PostgreSQL",
+    "officialSite": "https://plv8.github.io/",
+    "topics": ["database", "plv8", "postgres", "postgresql", "postgresql-extension", "procedural-language"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openvinotoolkit/openvino",
+    "desc": "OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference",
+    "officialSite": "https://docs.openvino.ai",
+    "topics": ["ai", "computer-vision", "deep-learning", "deploy-ai", "diffusion-models", "generative-ai", "good-first-issue", "inference", "llm-inference", "natural-language-processing", "nlp", "openvino", "optimize-ai", "performance-boost", "recommendation-system", "speech-recognition", "stable-diffusion", "transformers", "yolo"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "memgraph/memgraph",
+    "desc": "Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.",
+    "officialSite": "https://memgraph.com",
+    "topics": ["cypher", "graph", "graph-algorithms", "graph-analysis", "graph-database", "kafka", "kafka-streams", "nosql", "opencypher", "stream-processing", "streaming-data"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "officialSite": "http://www.paddlepaddle.org/",
+    "topics": ["deep-learning", "distributed-training", "efficiency", "machine-learning", "neural-network", "paddlepaddle", "python", "scalability"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sebastianstarke/AI4Animation",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/20269775?v=4",
+    "banner": ""
+  }, {
+    "repo": "rr-debugger/rr",
+    "desc": "Record and Replay Framework",
+    "officialSite": "http://rr-project.org/",
+    "topics": ["debugger", "gdb", "linux", "reverse-execution"],
+    "avatar": "https://avatars.githubusercontent.com/u/69774253?v=4",
+    "banner": ""
+  }, {
+    "repo": "RPCS3/rpcs3",
+    "desc": "PS3 emulator/debugger",
+    "officialSite": "https://rpcs3.net/",
+    "topics": ["assembly-language", "cpp", "emulation", "emulator", "hacktoberfest", "llvm", "ps3", "vulkan"],
+    "avatar": "https://avatars.githubusercontent.com/u/8070735?v=4",
+    "banner": ""
+  }, {
+    "repo": "sqlitebrowser/sqlitebrowser",
+    "desc": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at: ",
+    "officialSite": "https://sqlitebrowser.org",
+    "topics": ["c-plus-plus", "cross-platform", "database", "database-browser", "database-gui", "sqlite", "sqlitebrowser"],
+    "avatar": "https://avatars.githubusercontent.com/u/7454271?v=4",
+    "banner": ""
+  }, {
+    "repo": "managarm/managarm",
+    "desc": "Pragmatic microkernel-based OS with fully asynchronous I/O",
+    "officialSite": "",
+    "topics": ["asynchronous-io", "hacktoberfest", "microkernel", "modern-cpp", "operating-system", "posix-compatible", "x86-64"],
+    "avatar": "https://avatars.githubusercontent.com/u/38985399?v=4",
+    "banner": ""
+  }, {
+    "repo": "nomic-ai/gpt4all",
+    "desc": "GPT4All: Chat with Local LLMs on Any Device",
+    "officialSite": "https://gpt4all.io",
+    "topics": ["llm-inference"],
+    "avatar": "https://avatars.githubusercontent.com/u/102670180?v=4",
+    "banner": ""
+  }, {
+    "repo": "ClickHouse/ClickHouse",
+    "desc": "ClickHouse® is a real-time analytics DBMS",
+    "officialSite": "https://clickhouse.com",
+    "topics": ["ai", "analytics", "big-data", "clickhouse", "cpp", "dbms", "distributed-database", "hacktoberfest", "mpp", "olap", "rust", "sql"],
+    "avatar": "https://avatars.githubusercontent.com/u/54801242?v=4",
+    "banner": ""
+  }, {
+    "repo": "googlevr/blocks",
+    "desc": "An archived repository of the Google Blocks source code: a VR creation app originally released for the HTC Vive and Oculus Rift",
+    "officialSite": "https://blog.google/products/google-ar-vr/blocks-easily-create-3d-objects-vr/",
+    "topics": ["3d", "creation", "vr"],
+    "avatar": "https://avatars.githubusercontent.com/u/19274818?v=4",
+    "banner": ""
+  }, {
+    "repo": "google/benchmark",
+    "desc": "A microbenchmark support library",
+    "officialSite": "",
+    "topics": ["benchmark"],
+    "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "banner": ""
+  }, {
+    "repo": "1yefuwang1/vectorlite",
+    "desc": "A fast and tunable vector search extension for SQLite ",
+    "officialSite": "",
+    "topics": ["cpp17", "hnsw", "python3", "sqlite3", "vector-database"],
+    "avatar": "https://avatars.githubusercontent.com/u/18023393?v=4",
+    "banner": ""
+  }, {
+    "repo": "aws/aws-mysql-odbc",
+    "desc": "The Amazon Web Services (AWS) ODBC Driver for MySQL allows an application to take advantage of the features of clustered MySQL databases. It is based on and can be used as a drop-in compatible for the MySQL Connector/ODBC driver, and is compatible with all MySQL deployments.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/2232217?v=4",
+    "banner": ""
+  }, {
+    "repo": "trailofbits/multiplier",
+    "desc": "Code auditing productivity multiplier.",
+    "officialSite": "",
+    "topics": ["analysis", "audit", "clang", "mlir"],
+    "avatar": "https://avatars.githubusercontent.com/u/2314423?v=4",
+    "banner": ""
+  }, {
+    "repo": "spion/adbfs-rootless",
+    "desc": "Mount Android phones on Linux with adb. No root required.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/502412?v=4",
+    "banner": ""
+  }, {
+    "repo": "hacking-support/DVUEFI",
+    "desc": "Damn Vulnerable UEFI",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/109763747?v=4",
+    "banner": ""
+  }, {
+    "repo": "k2-fsa/sherpa-onnx",
+    "desc": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter",
+    "officialSite": "https://k2-fsa.github.io/sherpa/onnx/index.html",
+    "topics": ["aarch64", "android", "arm32", "asr", "cpp", "csharp", "dotnet", "ios", "linux", "macos", "mfc", "onnx", "openkylin", "raspberry-pi", "risc-v", "speech-to-text", "text-to-speech", "vits", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/71431748?v=4",
+    "banner": ""
+  }, {
+    "repo": "duckdb/pg_duckdb",
+    "desc": "DuckDB-powered Postgres for high performance apps & analytics.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/82039556?v=4",
+    "banner": ""
+  }, {
+    "repo": "google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "officialSite": "https://flatbuffers.dev/",
+    "topics": ["c", "c-plus-plus", "c-sharp", "cross-platform", "flatbuffers", "go", "grpc", "java", "javascript", "json-parser", "marshalling", "mmap", "protobuf", "python", "rpc", "rust", "serialization", "serialization-library", "typescript", "zero-copy"],
+    "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "banner": ""
+  }, {
+    "repo": "zen-browser/desktop",
+    "desc": "🌀 Experience tranquillity while browsing the web without people tracking you!",
+    "officialSite": "https://zen-browser.app",
+    "topics": ["firefox", "firefox-based", "firefox-browser"],
+    "avatar": "https://avatars.githubusercontent.com/u/165225155?v=4",
+    "banner": ""
+  }, {
+    "repo": "amnezia-vpn/amnezia-client",
+    "desc": "Amnezia VPN Client (Desktop+Mobile)",
+    "officialSite": "https://amnezia.org",
+    "topics": ["cloak", "gfw", "ikev2", "openvpn", "shadowsocks", "vpn", "vpn-client", "vpn-server", "wireguard"],
+    "avatar": "https://avatars.githubusercontent.com/u/74861536?v=4",
+    "banner": ""
+  }, {
+    "repo": "klee/klee",
+    "desc": "KLEE Symbolic Execution Engine",
+    "officialSite": "https://klee-se.org/",
+    "topics": ["klee", "symbolic-execution"],
+    "avatar": "https://avatars.githubusercontent.com/u/6224192?v=4",
+    "banner": ""
+  }, {
+    "repo": "GothenburgBitFactory/taskwarrior",
+    "desc": "Taskwarrior - Command line Task Management",
+    "officialSite": "https://taskwarrior.org",
+    "topics": ["cli", "commandline", "gtd", "hackoctoberfest", "task", "taskwarrior", "todo"],
+    "avatar": "https://avatars.githubusercontent.com/u/36100920?v=4",
+    "banner": ""
+  }, {
+    "repo": "remipch/solar_concentrator",
+    "desc": "Homemade automated solar concentrator 🔧 ☀️ 🔎",
+    "officialSite": "",
+    "topics": ["cablebot", "concentrator", "energy", "esp32", "sun"],
+    "avatar": "https://avatars.githubusercontent.com/u/75692116?v=4",
+    "banner": ""
+  }, {
+    "repo": "envoyproxy/envoy",
+    "desc": "Cloud-native high-performance edge/middle/service proxy",
+    "officialSite": "https://www.envoyproxy.io",
+    "topics": ["cars", "cats", "cats-over-dogs", "cncf", "corgis", "more-cats", "nanoservices", "rocket-ships"],
+    "avatar": "https://avatars.githubusercontent.com/u/30125649?v=4",
+    "banner": ""
+  }, {
+    "repo": "odygrd/quill",
+    "desc": "Asynchronous Low Latency C++ Logging Library",
+    "officialSite": "",
+    "topics": ["async", "asynchronous", "cpp", "cpp14", "cpp17", "cpp20", "cross-platform", "fmtlib", "high-performance", "log-library", "logger", "logging", "logging-library", "low-latency"],
+    "avatar": "https://avatars.githubusercontent.com/u/7397786?v=4",
+    "banner": ""
+  }, {
+    "repo": "Alexays/Waybar",
+    "desc": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+    "officialSite": "",
+    "topics": ["bar", "gtk", "i3status", "statusbar", "sway", "wayland", "wlroots"],
+    "avatar": "https://avatars.githubusercontent.com/u/13947260?v=4",
+    "banner": ""
+  }, {
+    "repo": "TrinityCore/TrinityCore",
+    "desc": "TrinityCore Open Source MMO Framework (master = 11.0.2.56461, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",
+    "officialSite": "http://www.trinitycore.org",
+    "topics": ["hacktoberfest", "linux", "mmorpg", "multi-platform", "multiplayer", "trinitycore", "wow"],
+    "avatar": "https://avatars.githubusercontent.com/u/539602?v=4",
+    "banner": ""
+  }, {
+    "repo": "ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "officialSite": "http://ardupilot.org/",
+    "topics": ["arducopter", "ardupilot", "arduplane", "ardurover", "ardusub", "autopilot", "auv", "copter", "drone", "dronekit", "mavlink", "plane", "robotics", "ros", "rov", "rover", "sub", "uas", "uav", "ugv"],
+    "avatar": "https://avatars.githubusercontent.com/u/17919847?v=4",
+    "banner": ""
+  }, {
+    "repo": "Avicted/galaxy_visualization_raylib",
+    "desc": "100k real ( +100k random ) galaxies from a sector. Visualized with Raylib.",
+    "officialSite": "",
+    "topics": ["c", "cmake", "galaxies", "gamedev", "linux", "meson", "physics", "raylib"],
+    "avatar": "https://avatars.githubusercontent.com/u/6322199?v=4",
+    "banner": ""
+  }, {
+    "repo": "openscad/openscad",
+    "desc": "OpenSCAD - The Programmers Solid 3D CAD Modeller  ",
+    "officialSite": "https://www.openscad.org",
+    "topics": ["3d", "3d-graphics", "3d-models", "3d-printing", "c-plus-plus", "c-plus-plus-17", "cad", "dxf-files", "linux", "macos", "opengl", "openscad", "qt5", "qt6", "windows"],
+    "avatar": "https://avatars.githubusercontent.com/u/466370?v=4",
+    "banner": ""
+  }, {
+    "repo": "sz3/libcimbar",
+    "desc": "Optimized implementation for color-icon-matrix barcodes",
+    "officialSite": "https://cimbar.org",
+    "topics": ["barcode", "cpp17", "fountain-codes", "image-hash", "opencv", "proof-of-concept"],
+    "avatar": "https://avatars.githubusercontent.com/u/5728104?v=4",
+    "banner": ""
+  }, {
+    "repo": "YimMenu/YimMenu",
+    "desc": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",
+    "officialSite": "https://yim.gta.menu",
+    "topics": ["cpp", "gta5", "gtav", "menu", "mod", "mod-menu"],
+    "avatar": "https://avatars.githubusercontent.com/u/106739674?v=4",
+    "banner": ""
+  }, {
+    "repo": "aristocratos/btop",
+    "desc": "A monitor of resources",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/59659483?v=4",
+    "banner": ""
+  }, {
+    "repo": "WinampDesktop/winamp",
+    "desc": "Iconic media player",
+    "officialSite": "https://winamp.com",
+    "topics": ["llama", "media", "player", "winamp"],
+    "avatar": "https://avatars.githubusercontent.com/u/182410147?v=4",
+    "banner": ""
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "officialSite": "https://hyprland.org",
+    "topics": ["wayland-compositor", "compositor", "wayland", "cpp26"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
+  }, {
+    "repo": "hyprwm/Hyprland",
+    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "officialSite": "https://hyprland.org",
+    "topics": ["wayland-compositor", "compositor", "wayland", "cpp26"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
+  }
+]

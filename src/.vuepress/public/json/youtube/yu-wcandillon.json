@@ -1,0 +1,17 @@
+
+{
+  "channel": {
+    "id": "wcandillon",
+    "name": "William Candillon",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRLpQ4XvxYJeJjQX-bkN_kstRu3UBAMrX5peh9Tpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Zj62YEusxWMVKdT1k6fjqxH5qdHdwgwlIK9SBJFJ0DrfL6_rsrrE5gW1zydtkiWOpYZ3t5nG6Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eUbj_NxcgKg", "title": "Time to Fly" },
+    { "id": "6jxy5wfNpk0", "title": "Liquid Swipe - \"Can it be done in React Native?\"" },
+    { "id": "G0LeZ00-c58", "title": "React Native SVG 3D Animations" },
+    { "id": "XmF4gtVDkUI", "title": "React Native Charts with Reanimated 2" },
+    { "id": "SNkrlfahSjM", "title": "#9 Forgot Password — React Native Fashion" },
+    { "id": "rJcJ7jzQO0g", "title": "#3 Restyle - React Native Fashion" }
+  ]
+}

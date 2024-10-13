@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "user-ku2hz4sq4e",
+    "name": "제이오",
+    "profile": "https://yt3.googleusercontent.com/74IwKArpsvPvV_cB1hN5L4ofLkdSbJiiKj4BlS_ZWS9SsFbLwXMh1RsSlI17XmN-6Z8RS5CTwg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "kkZ-o9q6MDU", "title": "28살 SSAFY 전공자 프론트엔드 포트폴리오 (Next.js, Typescript)" },
+    { "id": "ncqaOasZ1BM", "title": "백엔드 왜 만들어요? ㅋㅋㅋ 이거 쓰면 되는뎅" },
+    { "id": "R4HmoCKSzS8", "title": "서비스 기획부터 출시까지 5분만에 알아보기" },
+    { "id": "a4sZtz3Ucuc", "title": "[내가 만든 서비스 소개] 2023 관광 데이터 활용 공모전, Among a Month(어몽어먼스) 서비스 소개 #2" },
+    { "id": "hnfzdG7QuaI", "title": "React로 만든 웹사이트, PlayStore로 출시하는 방법" },
+    { "id": "M6NVLZx2m5Y", "title": "ESLint 개발 셋팅, 이거 제대로 된건가..?" },
+    { "id": "v4qP9Akx47I", "title": "[Project Deploy] 프로젝트 배포, Docker를 사용하는 이유" }
+  ]
+}

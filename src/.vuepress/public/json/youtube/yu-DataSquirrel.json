@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DataSquirrel",
+    "name": "데이터다람쥐",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSyI9U2ngkkCQudFVWEktO_uxW4QCKNIr5r17z1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l6gc54bwv_M8haWxGKslPnnftg_GBjdFT66AQ0xNC5_qEZLFFw-7_H5amZBHyZGORCXSxAKAfp0=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2Fk20haq6sw", "title": "그래프로 보는 역대 국회의원 선거 (1948년 제헌 ~ 2024년 제22대)" },
+    { "id": "lMeXC29rNS4", "title": "지도로 보는 수도권 전철(지하철) [파트2]: 2011년~2033년" }
+  ]
+}

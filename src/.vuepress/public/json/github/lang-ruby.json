@@ -1,0 +1,220 @@
+[
+  {
+    "repo": "bullet-train-co/bullet_train",
+    "desc": "The Open Source Ruby on Rails SaaS Template",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SUSE/Portus",
+    "desc": "Authorization service and frontend for Docker registry (v2)",
+    "officialSite": "http://port.us.org",
+    "topics": ["ruby;rails;docker;security;containers;docker-distribution"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chatwoot/chatwoot",
+    "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "officialSite": "https://www.chatwoot.com/help-center",
+    "topics": ["actioncable", "chat-widget", "conversation", "customer-support", "dashboard", "design", "docker", "docker-image", "drift", "heroku", "intercom", "javascript", "livechat", "opensource", "rails", "ruby", "sass", "vuejs", "whatsapp", "zendesk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/homebrew-apple",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "QiuChenlyOpenSource/InjectLib",
+    "desc": "基于Ruby编写的命令行注入版本",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "shayonj/pg_easy_replicate",
+    "desc": "Easily setup logical replication and switchover to new database with minimal downtime",
+    "officialSite": "",
+    "topics": ["ruby", "postgres", "postgresql", "logical-replication"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "officialSite": "https://joinmastodon.org",
+    "topics": ["docker", "social-network", "activity-stream", "microblog", "mastodon", "webfinger", "activitypub"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yammer/circuitbox",
+    "desc": "Circuit breaker built with large Ruby apps in mind.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ubicloud/ubicloud",
+    "desc": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.",
+    "officialSite": "https://ubicloud.com",
+    "topics": ["bare-metal", "cloud", "github-actions", "hosting", "linux", "managed-cloud", "open", "portable", "postgresql", "ruby"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mmistakes/minimal-mistakes",
+    "desc": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
+    "officialSite": "https://mmistakes.github.io/minimal-mistakes",
+    "topics": ["jekyll", "theme", "ruby-gem", "jekyll-theme", "github-pages", "algolia", "lunr", "algolia-search"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "basecamp/kamal",
+    "desc": "Deploy web apps anywhere.",
+    "officialSite": "https://kamal-deploy.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "natalie-lang/natalie",
+    "desc": "a work-in-progress Ruby compiler, written in Ruby and C++",
+    "officialSite": "https://natalie-lang.org",
+    "topics": ["compiler", "cpp", "language", "ruby"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "github/scientist",
+    "desc": ":microscope: A Ruby library for carefully refactoring critical paths.",
+    "officialSite": "",
+    "topics": ["refactoring", "ruby", "rubygem", "scientist"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "officialSite": "https://fastlane.tools",
+    "topics": ["android", "apps", "automation", "deployment", "fastlane", "hacktoberfest", "hacktoberfest2021", "ios", "mobile", "ruby", "screenshots"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ubyonjets/jets",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "basecamp/solid_queue",
+    "desc": "Database-backed Active Job backend",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kilimchoi/engineering-blogs",
+    "desc": "A curated list of engineering blogs",
+    "officialSite": "",
+    "topics": ["engineering-blogs", "lists", "programming-blogs", "software-development", "tech"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rails/rubocop-rails-omakase",
+    "desc": "Omakase Ruby styling for Rails",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rails/rails",
+    "desc": "Ruby on Rails",
+    "officialSite": "https://rubyonrails.org",
+    "topics": ["activejob", "activerecord", "framework", "html", "mvc", "rails", "ruby"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "state-machines/state_machines",
+    "desc": "Adds support for creating state machines for attributes on any Ruby class",
+    "officialSite": "https://github.com/state-machines/state_machines",
+    "topics": ["ruby", "state-machine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "maybe-finance/maybe",
+    "desc": "The OS for your personal finances",
+    "officialSite": "https://maybe.co",
+    "topics": ["finance", "hotwire", "personal-finance", "postgresql", "ruby", "ruby-on-rails", "stimulusjs", "turbo"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "julienbourdeau/debugbar",
+    "desc": "",
+    "officialSite": "https://debugbar.dev",
+    "topics": ["development", "devtools", "rails", "ruby", "ruby-on-rails", "tooling"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ankane/blazer",
+    "desc": "Business intelligence made simple",
+    "officialSite": "",
+    "topics": ["business-intelligence", "charts", "sql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "baweaver/refactor",
+    "desc": "Utilities for refactoring and upgrading Ruby code based on ASTs.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ohbarye/pbt",
+    "desc": "Property-Based Testing tool for Ruby, supporting multiple concurrency methods (Ractor, multiprocesses, multithreads).",
+    "officialSite": "https://rubygems.org/gems/pbt",
+    "topics": ["parallel", "property-based-testing", "ractor", "ruby", "testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ifcwebserver/IFC-to-Neoj4",
+    "desc": "This repository includes the IFCWebServer scripts to convert IFC models into Neo4j graph database.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "revolter/notepadtab.com",
+    "desc": "",
+    "officialSite": "https://notepadtab.com/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "freeCodeCamp/devdocs",
+    "desc": "API Documentation Browser",
+    "officialSite": "https://devdocs.io",
+    "topics": ["api-documentation", "app", "devdocs", "developer-tools", "docs", "documentation", "documentation-tool", "hacktoberfest", "offline", "pwa"],
+    "avatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+    "banner": ""
+  }, {
+    "repo": "mawise/bookshelf",
+    "desc": "3D animated bookshelf for ebooks",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/3422894?v=4",
+    "banner": ""
+  }, {
+    "repo": "Freika/dawarich",
+    "desc": "Self-hosted alternative to Google Location History (Google Maps Timeline)",
+    "officialSite": "https://dawarich.app",
+    "topics": ["google-maps", "homelab", "maps", "owntracks", "self-hosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/3738638?v=4",
+    "banner": ""
+  }, {
+    "repo": "rails/thor",
+    "desc": "Thor is a toolkit for building powerful command-line interfaces.",
+    "officialSite": "http://whatisthor.com/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/141485728?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/4e822b6e288136f3cb2559c6ae3f7ff84a1e63e053f40d945e2b223ad7f23223/rails/thor"
+  }
+]

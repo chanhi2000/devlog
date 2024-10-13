@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Touchlab",
+    "name": "Touchlab",
+    "profile": "https://yt3.googleusercontent.com/9EQX8CMNb4-VWOVpJUajdKvq9oY7xguc5wlJk9Y3Wkpv3uDz7zRFzIEbQoXGSYVeXpzlHxajbQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BX7gFAjJCPBIQx2CJz3xMTclcDPDNhM9Kc21xIBpQuLhtY4t9J98FBB7CZq1WaVwG3Mc28hp=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z7vXNIrHi_o", "title": "KMP Team Workflows and KMMBridge Quick Start" },
+    { "id": "DcO9psUh4LI", "title": "Kotlin Multiplatform Threading & KMP in Production (#TouchlabShare with Careem's Ahmed El-Helw)" }, 
+    { "id": "_oujlTE0LiY", "title": "SQLite/SQLDelight ❤ Kotlin Multiplatform" } 
+  ]
+}

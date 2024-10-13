@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "devbadak",
+    "name": "개발바닥",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mwpmt8fg5L2qqOpr18lA5mJGszYt1hLdHkt0Pk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GEz0QrFZzR0EeOATFtSFPcAEjJlCc6Itg0tnPSckQ9Cp_gyebZS3xAUUMNeb5aSjawj4mUBlex8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5w6Dcp-M-Wk", "title": "파이썬 시니어 개발자와 채용" },
+    { "id": "dEWcpLZTHwE", "title": "라인, 카카오를 뒤로하고 뱅크샐러드로 간 개발자" }
+  ]
+}

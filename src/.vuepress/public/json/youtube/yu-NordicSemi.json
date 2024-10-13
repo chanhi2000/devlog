@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "NordicSemi",
+    "name": "Nordic Semiconductor",
+    "profile": "https://yt3.googleusercontent.com/gY93X9AwHscE6AT55jkHFnEY6nOucwCqGynUg4Ypf0ba8F7QHqBjP3Gbum3TDbzPOBT-y-JYX50=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rhaft_3FLZP44vhjg_29cy5VYaA2HnCq_TCb3HgqTgAR5bVXLtw-etMwDMov24XyOoOhyY4I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fMaDOH5CEZg", "title": "Sneak peek at nRF9151 - the future of low power cellular IoT" },
+    { "id": "DA0s7Dkb_sA", "title": "Connecting the Future: The Power of Cellular IoT in LPWAN Applications" },
+    { "id": "nmTRWR9b1AY", "title": "Adding Device Firmware Update (DFU/FOTA) Support in nRF Connect SDK" },
+    { "id": "7dFWIpo01B8", "title": "Exciting new features in nRF Connect SDK 2.6.0" },
+    { "id": "T4RfflybIGE", "title": "nRF Connect for VS Code, part 2: Creating an application" },
+    { "id": "EAJdOqsL9m8", "title": "nRF Connect for VS Code, part 1: Installation" },
+    { "id": "f9UaXiFj-gM", "title": "Accelerate development and optimize in-field device quality with remote debugging and monitoring" },
+    { "id": "FoCGFmnXHao", "title": "Introduction to Amazon Sidewalk" }
+  ]
+}

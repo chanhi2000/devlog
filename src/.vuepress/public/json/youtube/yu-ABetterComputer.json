@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "ABetterComputer",
+    "name": "A Better Computer",
+    "profile": "https://yt3.googleusercontent.com/2DCkppBOJQ6wM3vcpOb8PvKu54EBwhS1FOl7nm1FHuIxOlEhdMRevzLIk-P3t3leF4Rjw_ZL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9RzJMsDcWhqe1eHmjJ0jNR36BrY-Ddo6B0Wi-WKrJGtTKCUmwcpI0gR2gNjvqfNScvGLcTL6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "p8Ak_OB-oco", "title": "The *keyboard-only* task manager (Godspeed)" },
+    { "id": "CHrMLowLpDY", "title": "10 useful Mac apps you may not have heard of" },
+    { "id": "4CHy9e98UBg", "title": "I've tried them all, I still love Arc (for the Mac)" },
+    { "id": "9CCxHEpPs1g", "title": "5 Mac apps Apple should buy" },
+    { "id": "PXxOGULxKTQ", "title": "Aqua has a trick I haven't seen anyone else do as well" },
+    { "id": "_fbCR9XCzEo", "title": "Everything awesome in Cleanshot's latest update" },
+    { "id": "yfRJ5G-iNHY", "title": "ChatGPT just released a Mac app, here's how it works" },
+    { "id": "kWNAtySGM9k", "title": "Apple Podcasts is adding transcripts and Bezel upgrades my screen shares" },
+    { "id": "LB00Xk5cJ9g", "title": "Why Notion Calendar might be worth another look" },
+    { "id": "-9Pw62MEdfA", "title": "I love Arc, but I’m not sure about Arc Search yet" },
+    { "id": "JMuzAE2HC20", "title": "My blogging workflow is a bit intense, but it works!" },
+    { "id": "xr9Wl9kbP7A", "title": "Day Peek for the Vision Pro is perfect for spatial computing" },
+    { "id": "G1zFWFzKRUI", "title": "I've never seen an app integrate ChatGPT like this (BBEdit 15)" },
+    { "id": "txtHRrq5O_U", "title": "How to fix your local dictionary in macOS Sonoma" },
+    { "id": "jaLRhjHouMI", "title": "How I use SaneBox to organize my email" },
+    { "id": "hX4KUkM0vVI", "title": "How I make my Mac…a better computer" },
+    { "id": "JyfBZwIuOsY", "title": "The best *free* read later app" },
+    { "id": "KRDtI5PFasM", "title": "ChatGPT is trying to get past it's command line interface" },
+    { "id": "hO7-dfIEa6E", "title": "I've never seen a read later app do this before" }
+  ]
+}

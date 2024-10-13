@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "AI-km1yn",
+    "name": "모두의AI",
+    "profile": "https://yt3.googleusercontent.com/cXq2jXUM8GC7T0yc9T-5ycbPJsq8Dgp0w1m_IYJm_pBs0yiQLy-JbYGydKFVlIgwD9EncW1bCQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "J2AsmUODBak", "title": "실전! RAG 고급 기법 - Retriever (1)" },
+    { "id": "ehP4vphl_Us", "title": "실전! RAG 고급 기법 - Retriever (2)" },
+    { "id": "04jCXo5kzZE", "title": "오픈소스 LLM으로 RAG 시스템 만들기" },
+    { "id": "-M_RdMMZSQw", "title": "LLM으로  NLP 분석을 더욱 쉽게, Scikit-LLM" },
+    { "id": "n32PCsd4DNw", "title": "AI로 생산성 올려보자! 논문 AI 툴 -SCISPACE" },
+    { "id": "xYNYNKJVa4E", "title": "Streamlit으로 RAG 시스템 구축하기" }
+  ],
+  "playlists": [
+    {
+      "title": "Langchain 뿌시기",
+      "videos": [
+        { "id": "WWRCLzXxUgs", "title": "Langchain 강의 (1/n) - Langchain이 뭘까?" },
+        { "id": "XwlLeVhWCCc", "title": "Langchain 강의 - LLM 초간단 설명" },
+        { "id": "BLM3KDaOTJM", "title": "LangChain으로 ChatGPT API 활용하기" },
+        { "id": "y6D5Hn_k4lE", "title": "Langchain - PromptTemplate, LLM 프롬프트 입력을 더 편하게" },
+        { "id": "tIU2tw3PMUE", "title": "LLM 챗봇 ,랭체인의 핵심 Retrieval - Document Loaders" },
+        { "id": "127lV0wcDmc", "title": "LLM 챗봇, 랭체인의 핵심 Retrieval-Text Splitters" },
+        { "id": "qH69XGQZHDg", "title": "랭체인의 핵심, Retrieval-Text Embeddings" },
+        { "id": "fE4SH2vEsdk", "title": "랭체인의 핵심, Retrieval - Vectorstores" },
+        { "id": "tQUtBR3K1TI", "title": "LLM 챗봇, 랭체인의 핵심  Retriever" },
+        { "id": "HU9y9bsShBU", "title": "자연어로 데이터 추출하기 - SQL_Agent" }
+      ]
+    }
+  ]
+}

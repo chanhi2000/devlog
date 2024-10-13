@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "learningtube7602",
+    "name": "Learning Tube",
+    "profile": "https://yt3.googleusercontent.com/xjNm-ex-Ci67BB8ljjpwOe0yEQrxud_g1gb_qIlceB8074Sfl3SSZJajC5y43Oyp9-3Wg-aMLg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "N8JmN4rE8-k", "title": "What is Oracle WebLogic Server || Oracle WebLogic Server Training || Oracle WebLogic Server Tutorial" }
+  ]
+}

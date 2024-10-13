@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "dilipsingh_1306",
+    "name": "Dilip Singh",
+    "profile": "https://yt3.ggpht.com/bMNzSU8TkBUjig3-yf9SMtBrrIVrtPZoBNpGF8uWntYvnzzcK2ifcjnb2bYAwVfaL4utg365_w=s48-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N_xpvO6aoGpi88B7wotHHYbk1R855atofCGYSfjnXmtnmG498PuShTird4opSu6oie_7JDVy=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8s-Al4z09cE", "title": "Java, Spring Boot, MicroServices | Technical Interview | 3+ Years Experience Developer |  L2" },
+    { "id": "xqz8X6VgZDw", "title": "Difference Between Path Variables & Query Parameters in Spring, Spring Boot | Rest API | Dilip Singh" },
+    { "id": "UDT5fBewnik", "title": "Java, Spring Boot | 3+ Years Experience Developer | Technical Interview | Level 1" },
+    { "id": "hKQn2ofVEEA", "title": "JAVA 8 | Features | Functional Interfaces & Lambda Expressions | Dilip Singh" },
+    { "id": "vBZCXuJZe9M", "title": "JAVA 8 | Features | Method & Constructor References in JAVA | Dilip Singh" },
+    { "id": "NC4mHPobpGg", "title": "JAVA 8 | Features | Functional Interfaces | Function | Consumer | Predicate | Supplier | Dilip Singh" }
+  ]
+}

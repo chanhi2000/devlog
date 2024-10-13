@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "gdgsongdo1690",
+    "name": "GDGSongDo",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbOPajuNvfhsALga4bDujM7k7asqKp1zHzx94DE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "nkAnYUeN3jc", "title": "HelloWolrd 24 Keynote" },
+    { "id": "6dds3BG-YDY", "title": "BuildWithAI 송도 Keynote" },
+    { "id": "rKLD_CS2qtE", "title": "MLMeetup 23 허훈 : Autonomous Agent in Production" },
+    { "id": "M8j7Z8EMW9c", "title": "MLMeetup 23 이태호 강화학습의 새로운 트랜드 생성모델" },
+    { "id": "4DsbqdSgDMU", "title": "MLMeetup 23 박정환   멀티모달 101" },
+    { "id": "N6p0ZEZwtPQ", "title": "MLMeetup 23 이영빈 - JAX를 더 쉽게 사용 할 수 있는 방법 Keras Core" },
+    { "id": "OdHWwRzokDM", "title": "MLMeetup 23\"  박선우 당신은 좋은 리더인가요? 좋은답을 얻기위한 프롬프트 디자인 기술" },
+    { "id": "htzUzlfwrug", "title": "MLMeetup 23 조상현  Vision AI 학습 데이터 라벨링 비용 20배 절약 방법" }
+  ],
+  "playlists": [
+    {
+      "title": "ML Meetup Songdo 23",
+      "videos": [
+        { "id": "N6p0ZEZwtPQ", "title": "MLMeetup 23 이영빈 - JAX를 더 쉽게 사용 할 수 있는 방법 Keras Core" },
+        { "id": "rKLD_CS2qtE", "title": "MLMeetup 23 허훈 : Autonomous Agent in Production" },
+        { "id": "M8j7Z8EMW9c", "title": "MLMeetup 23 이태호 강화학습의 새로운 트랜드 생성모델" },
+        { "id": "OdHWwRzokDM", "title": "MLMeetup 23&quot;  박선우 당신은 좋은 리더인가요? 좋은답을 얻기위한 프롬프트 디자인 기술" },
+        { "id": "htzUzlfwrug", "title": "MLMeetup 23 조상현  Vision AI 학습 데이터 라벨링 비용 20배 절약 방법" },
+        { "id": "4DsbqdSgDMU", "title": "MLMeetup 23 박정환   멀티모달 101" }
+      ]
+    }, {
+      "title": "Flutter Meetup Songdo 23\"",
+      "videos": [
+        { "id": "zp6nybNYjBQ", "title": "[Flutter Meetup Songdo 23&quot;] CustomPainterCanvas" },
+        { "id": "p_q4ECN33Yc", "title": "[Flutter Meetup Songdo 23&quot;] Flutter with AI TensorFlow Lite" },
+        { "id": "uXS0kiJQMtw", "title": "[Flutter Meetup Songdo 23&quot;] 로컬 디비를 다루는 노하우, in Flutter" },
+        { "id": "xf4kI_emeFo", "title": "[Flutter Meetup Songdo 23&quot;] 플러터에 Apple Pay, Google Pay를 붙여 보자" },
+        { "id": "XsbKfvznouA", "title": "[Flutter Meetup Songdo 23&quot;] 상태관리 올바르게 쓰기" },
+        { "id": "nj2rVsu5n8w", "title": "[Flutter Meetup Songdo 23&quot;] 플러터로 설명하는 WebSite와 WebApp의 차이" },
+        { "id": "A2yOLycDuI4", "title": "[Flutter Meetup Songdo 23&quot;] Dart, 더욱 잘쓰는 8가지 기능들" }
+      ]
+    }
+  ]
+}

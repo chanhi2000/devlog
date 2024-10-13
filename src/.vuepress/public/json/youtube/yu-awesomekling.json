@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "awesomekling",
+    "name": "Andreas Kling",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPjhOOCcvp-qAHz7rgDzd3QfS5pTWLUh2SO1OBGfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/65EvafzfLD9eihr4LXrwnBz2cSK3dlVebPuqZ9RAGJeEGEVZBt3FSBgcJ-jcCVEvWcW4Rf5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ykaue6krDZ8", "title": "Ladybird browser update (March 2024)" },
+    { "id": "zXYNUbyQ0pk", "title": "CS 4560 guest lecture: Ladybird browser development" },
+    { "id": "P2CyB8iMe5w", "title": "SerenityOS update (May 2024)" },
+    { "id": "9FAzaKPvB2k", "title": "Ladybird browser update (January 2024)" },
+    { "id": "dKHopzDtElY", "title": "Ladybird browser update (February 2024)" },
+    { "id": "QoBgpr7hcqY", "title": "Browser hacking: Using external SVG files as images" }, 
+    { "id": "WS7ZDpJ2JGc", "title": "JS Bytecode VM (Part 7): Compact bytecode format & bug fixing" }, 
+    { "id": "gDjNjztQZBw", "title": "JS Bytecode VM (Part 1): Let's build a JavaScript bytecode VM!" }, 
+    { "id": "Jc22wPqpaBQ", "title": "Browser hacking: Let's build a simple ad blocker" }, 
+    { "id": "-7gmGovgSG8", "title": "Browser hacking: Let's refactor the JavaScript heap" }, 
+    { "id": "9tK3meEVNxw", "title": "OS hacking: Improving ComboBox pop-up list behavior" }, 
+    { "id": "IzB6iTeo8kk", "title": "Browser hacking: Let’s build a garbage collector for JavaScript" }, 
+    { "id": "cplm-Igy_AY", "title": "OS hacking: Thumbnails in the file picker" }, 
+    { "id": "1-7VQwWo2Tg", "title": "OS hacking: Let's port git to SerenityOS!" }, 
+    { "id": "5UUzEL9ltVo", "title": "OS hacking: Debugging a floating-point crash in the kernel" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "MyCodeSpace1",
+    "name": "MyCodeSpace",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSOM3ZIcXRToQEELCeyIRTzGdGmxJUkROIgRxjX=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B2mzA0ZtLhSL__N3kRbnkbKUHHi33Ntfxr1MFjUIn5xW43hCxlKBekOEHvzwDVW25TrjX4kqdA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eyceNUzBBEo", "title": "Java Swing Project (Clinic Management System)" },
+    { "id": "2zbQJCaj8bI", "title": "Java Swing Project (Clinic Management System) Part 2" },
+    { "id": "V9LbWnfvE4w", "title": "Java Swing and Mysql Full project(Medical Lab Management System)" },
+    { "id": "NIi0g67oYYE", "title": "Java Swing and Mysql Project (Clinic Management System)" },
+    { "id": "HsHoEBf3IM8", "title": "Java Swing Full project (Guest House Management System) Part 1" },
+    { "id": "e7S2qj0j4N4", "title": "Train Ticket Booking Management System Using C#.Net" },
+    { "id": "AtsjZ-Xn-1U", "title": "Vegetable Shop Management System Using C#.Net Part 1" },
+    { "id": "hHT7-kDoKJk", "title": "Furniture Shop Management System Part 2" },
+    { "id": "GFgjDw-tH64", "title": "Home Furniture Management System Using C#.Net and SQL Server" },
+    { "id": "DtSaklMh0hI", "title": "Data Analysis Portfolio Project" },
+    { "id": "VqwzA7TNKuw", "title": "Parking Lot Management System Using C#.Net and SQL Server" },
+    { "id": "CPFk0Qs_VcA", "title": "Patient Management System Using C#.Net and SQL Server" },
+    { "id": "knw4WFRK9WM", "title": "Inventory Management System Using C#.Net Part1" },
+    { "id": "o-LwFr3eSNM", "title": "C# Full Project| Restaurant Management System Using C#.Net and SQL Server" }
+  ]
+}

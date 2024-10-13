@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TheCoderCoder",
+    "name": "Coder Coder",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZxw4rzYwv19cfPPiPhqvKeuMXxIf2PY-g3z8MM0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/edrJAaCPA5QgVqqB9HIW8raPa-G7ixIL6-Xy1NOZjJBvBhdjnuBspMW9A6Q8s5K6qyHfB9zY=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dLzMz2Jk_qU", "title": "Code faster with these VS Code shortcuts" },
+    { "id": "65GVcdESj3s", "title": "Building a portfolio website with HTML & CSS | Part 1" },
+    { "id": "uRYHX4EwYYA", "title": "How to test a local website on your phone" },
+    { "id": "jfMHA8SqUL4", "title": "Sass, BEM, & Responsive Design (4 hr beginners course)" },
+    { "id": "AR9Em0X-N_8", "title": "Firefox Developer Tools for Beginners" }
+  ]
+}

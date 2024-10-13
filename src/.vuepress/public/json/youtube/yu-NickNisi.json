@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NickNisi",
+    "name": "Nick Nisi",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYuWY5PhSf9hARlS-oGT3s7te60_G-6_nTsmHJUkg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4-msZqqrN1A", "title": "Componentizing Application State - THAT Conference Texas 2024" },
+    { "id": "VMJ1eAj5HgI", "title": "How I use Git Worktrees in my developer workflow" }
+  ]
+}

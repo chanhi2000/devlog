@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "GainJavaKnowledge",
+    "name": "Gain Java Knowledge",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNQhbRFflqh3r3ya3tP66JPUNc9paDvARP2ShCk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fgne5iN8kECw3Gk8-792W-A-HS5klc8hyw19hMlLlbYO_EvG1M0RhZp38_bEVaPjtgqOpiJDd7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TkPXJPl5JP4", "title": "How to use CommandLineRunner in Spring Boot Application" },
+    { "id": "bLJh3WXSh-M", "title": "Stop using @value annotation in spring boot" },
+    { "id": "02p5Lop5gmc", "title": "Pessimistic Lock in Spring Boot" },
+    { "id": "feyVR-reats", "title": "How is TakeWhile, Dropwhile different from Filter method in Java" },
+    { "id": "fsjmPv-Q4_Y", "title": "How to use Async Schedulers in Spring Boot" },
+    { "id": "e6eQOL76Cn8", "title": "Log time taken by API to return response" },
+    { "id": "YmUnJKZNRhM", "title": "Java 8 Stream Tricks" },
+    { "id": "uqXPtU6LuHo", "title": "Spring Boot Logging Best practices" },
+    { "id": "fJTz971fAYs", "title": "Using OpenAI ChatGPT APIs in Spring Boot" },
+    { "id": "5gnw8ECIbas", "title": "Logging Correlation in Spring Boot 3.2.1" },
+    { "id": "PomQ50ryCIo", "title": "Spring Boot API Generic Response" },
+    { "id": "eeG8vVB7w1o", "title": "StringUtils Methods In Java" },
+    { "id": "9Fhf59FJhF8", "title": "Spring Boot Mapstruct || Java bean mappings" },
+    { "id": "gxEeAw8GKgc", "title": "Spring Data Rest Example || Rest API Without controller class in spring boot project" },
+    { "id": "aVf16cmp5yk", "title": "Spring boot and Angular CRUD Example || Employee Management" }, 
+    { "id": "WtiWg4W-tEI", "title": "Angular Setup and Basic Application" },
+    { "id": "u85n515cvIQ", "title": "How to write Java Code using ChatGPT" },
+    { "id": "yZ79S1tE9Bk", "title": "Java 8 Date Time API" },
+    { "id": "qUdi9N4cWDg", "title": "Spring Boot Security" }, 
+    { "id": "cdd5WbNbk6E", "title": "Microservices Architecture Tutorial For Beginners" }, 
+    { "id": "NLoBfTkLCv0", "title": "Spring Security Using Facebook Authorization" }, 
+    { "id": "FHu--gGHaj4", "title": "Deploy Spring Boot Application with Docker into AWS EC2" }, 
+    { "id": "hPOz8Fo-yrk", "title": "Spring Security OAuth2" }
+  ]
+}

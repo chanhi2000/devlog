@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "dsba2979",
+    "name": "고려대학교 산업경영공학부 DSBA 연구실",
+    "profile": "https://yt3.googleusercontent.com/wO-dMAmWCSyLdHf9YXVV1U94qOm8rTcPnm8T8IWf2GcF0PBtOkOmwGGK0Gy-AbQn5brZ8kvKBQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E6YrTpWqCyb11khN_jPbCLKmfgL-wSodstVLccT4wAiJrpLPXMZxqU1xDZc69KxQhH8XesbkVw8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uTJxyK_pU5k", "title": "[Paper Review] OmniAL: A unified CNN framework for unsupervised anomaly localization" },
+    { "id": "n58UZziEieo", "title": "[Paper Review] LLaVA: Large Language and Vision Assistant (Visual Instruction Tuning)" },
+    { "id": "EfJQvg6vt80", "title": "[Paper Review] Back to the Feature: Classical 3D Features are All You Need for 3D Anomaly Detection" },
+    { "id": "cR6MbZGU7Hc", "title": "[Paper Review] Unsupervised Open-domain Keyphrase Generation" },
+    { "id": "SSYHLAJuNwE", "title": "[Paper Review] CYCLIP: Cyclic Contrastive Language-Image Pretraining" },
+    { "id": "kNQgW9N5894", "title": "[Paper Review] Learning to Filter Context for Retrieval-Augmented Generation" },
+    { "id": "X7MOHoQqlHk", "title": "[Paper Review] ProcSim: Proxy-based Confidence for Robust Similarity Learning" },
+    { "id": "Z9QaIiV9GyI", "title": "[Paper Review] Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors" },
+    { "id": "ht3UDihJI78", "title": "[Paper Review] PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Language Models" }
+  ],
+  "playlists": [
+
+  ]
+}

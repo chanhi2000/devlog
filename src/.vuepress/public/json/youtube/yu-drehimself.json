@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "drehimself",
+    "name": "Andre Madarang",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOetQl4_juELPLkTNgD6WXfkM1h0AcqMMGAQMzntA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5OVcAbvFHOv8FdvCeQBkBjui2Km27Bv2FCAfuZtfbotBZLG5jBa78Pgk-aRR2Gac_BDEDZHq7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5joyfmCmu-o", "title": "Laravel Pulse - Insights and Application Performance" },
+    { "id": "vs-vfc9nt0k", "title": "shadcn/ui for Vue.js" },
+    { "id": "w-cebRYZH9E", "title": "Laravel Herd - PHP Development Environment for Mac" },
+    { "id": "TY21MRVNxSo", "title": "NativePHP - Desktop Apps with Laravel" },
+    { "id": "cSLnkJ7wSnE", "title": "Laravel Prompts - Next Level CLI" },
+    { "id": "vLtJjC9NEO4", "title": "Vite - Build Tool" }, 
+    { "id": "vp0jP5rMvR4", "title": "Pest - An Elegant PHP Testing Framework" }, 
+    { "id": "1VLnU4JCF1s", "title": "Blueprint - Laravel Code Generation tool" }, 
+    { "id": "BGNLi9Cojbs", "title": "Laravel Movie App - Search Dropdown w/ Livewire - Part 4" }, 
+    { "id": "9OKbmMqsREc", "title": "Laravel Movie App - Styling w/ Tailwind CSS - Part 1" }, 
+    { "id": "D9oIu6jiYLk", "title": "Laravel Sanctum/Airlock with Vue for SPA Auth" }, 
+    { "id": "d4I35tkZnNg", "title": "Mirage JS with Vue" }, 
+    { "id": "8zm0ruyp3-I", "title": "Masonry Layouts w/ Infinite Scroll](htt" }, 
+    { "id": "JZDmBWRPWlw", "title": "Inertia.js for Laravel & Vue - Server Driven Single Page Apps" }, 
+    { "id": "qYrpSvWdYKQ", "title": "Vue.js Modal w/ Keyboard Accessibility" }
+  ]
+}

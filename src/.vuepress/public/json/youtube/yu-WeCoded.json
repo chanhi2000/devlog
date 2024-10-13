@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "WeCoded",
+    "name": "WeCoded",
+    "profile": "https://yt3.googleusercontent.com/tBlEtiBm4iA3SnuHR07MDOTQJXf_RkohWEYsvkUWYjj63Gomk2obfar9GqcAT-1IYvEvXnZNRg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "pLy2hm7_70o", "title": "Senior Angular Developer Interview (theory)" },
+    { "id": "glUGdUGF7JI", "title": "Pagination + Infinite Scroll = Ultimate Hybrid Pagination" },
+    { "id": "SXdrsLXakNg", "title": "Let's code Realistic 3D card with HTML/CSS/JavaScript" }
+  ]
+}

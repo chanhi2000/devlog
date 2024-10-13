@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dev.channel",
+    "name": "Dev tips by MoHo",
+    "profile": "https://yt3.googleusercontent.com/-pk0lERcU4N3YjqHyVycp2zE4bAsQqNXi_ja10Ude_8fCzaB5s0gEv1BtuhaRv3pw4JDHtMT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rFse_6veL_dfKM3SZmXSjnpS6CEDc11lplyW6r9VJBasRRG5k1OkDYKU5aLAgMngT8Tpx-_dgw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DNf6Bu7z4vw", "title": "Best VSCode extensions in 2023" }
+  ]
+}

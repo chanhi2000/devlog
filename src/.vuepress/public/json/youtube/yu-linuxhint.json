@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "linuxhint",
+    "name": "linuxhint",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMnNO1aldAv-Mh-_YcXvhMWYB8G1Dch-F-UGyvU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DWj7e9EHAE-j4svDz-HgWAmIHVq4HP9mRQfN0g9cP7tpxxPW7H56513ZMybnGOmAv9jPShySAVQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "heDS9EjAc4M", "title": "Learn python programming as a beginner in 5 hours 56 minutes" },
+    { "id": "aqiXxs0-Og0", "title": "Beginners Guide to Kali Linux" }, 
+    { "id": "mxI2gOhVtbw", "title": "Complete Linux Administration Bootcamp" }, 
+    { "id": "q2z-MRoNbgM", "title": "212 Bash Scripting Examples" }, 
+    { "id": "uMyKqdOaYLI", "title": "Bash Xargs" }, 
+    { "id": "LuzSNe9F2Eo", "title": "While loop in bash" }, 
+    { "id": "Z1W4E2d4Yxo", "title": "JavaFX Scene Builder Tutorial for Beginners" }, 
+    { "id": "e7BufAVwDiM", "title": "Bash Scripting Full Course 3 Hours" }
+  ],
+  "playlists": [
+    
+  ]
+}

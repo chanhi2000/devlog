@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "alejandro_ao",
+    "name": "Alejandro AO - Software & Ai",
+    "profile": "https://yt3.googleusercontent.com/Y0Lz6RlZ9ijjfx5kcW6O2cNK9_tgjng2swCO3cGV5YJgl4bdtATLkxCmMpSSxTNBpAIKKSacsg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/77MAEca8Ow9aIJu7koV6akKsU2dWUBhEQSyGVfTqVT4-PCfFXM96gqVC5jEFfabR5uLvY-YO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LHXujQ19Euo", "title": "Python: Automating a Marketing Team with AI Agents | Planning and Implementing CrewAI" },
+    { "id": "vhbfs38XmKk", "title": "Build a Web App (GUI) for your CrewAI Automation (Easy with Python)" },
+    { "id": "27sEXFWAbw0", "title": "Early days of RAG and LlamaIndex - Jerry Liu" },
+    { "id": "imlQ1icxpBU", "title": "Jerry Liu - LlamaIndex, Agents, Advice for AI Engineers & LlamaCloud" },
+    { "id": "7DJzHncUlpI", "title": "LlamaParse: Convert PDF (with tables) to Markdown" },
+    { "id": "gXET04dJ66A", "title": "CrewAI + Exa: Generate a Newsletter with Research Agents (Part 1)" },
+    { "id": "N-IYzyi86yY", "title": "Joe Moura | Multi Agent Systems and CrewAI" },
+    { "id": "9ccl1_Wu24Q", "title": "Chat with MySQL Database | LangChain Tutorial" },
+    { "id": "zKGeRWjJlTU", "title": "Stream LLMs with LangChain + Streamlit | Tutorial" },
+    { "id": "YqqRkuizNN4", "title": "Chat with MySQL Database using GPT-4 and Mistral AI | Python GUI App" },
+    { "id": "FbUhHUeI3ZU", "title": "LangChain Version 0.1.0 Explained | New Features & Changes" },
+    { "id": "LBNpyjcbv0o", "title": "Create a RAG Chain using LangChain 0.1.0 (New version)" },
+    { "id": "bupx08ZgSFg", "title": "Tutorial | Chat with any Website using Python and Langchain (LATEST VERSION)" },
+    { "id": "74c3KaAXPvk", "title": "Deploy Your AI Streamlit App for FREE | Step-by-Step (Heroku Alternative)" },
+    { "id": "dXxQ0LR-3Hg", "title": "Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings)" }
+  ]
+}

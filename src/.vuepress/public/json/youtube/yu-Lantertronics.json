@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "Lantertronics",
+    "name": "Lantertronics - Aaron Lanterman",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKanVV_PUlrJ71lQoQX1V1WLdJhgtIhjGM05e3E9=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZePsd0ctNjbAyIutChwfAfkpuakvLkt6k6JsOARR1ZJnB4Bsll3vCzPDmJMWIddeyzv7MB8eTA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DF6wv6kcsbo", "title": "Buchla 700: Startup Source Code Analysis, Debugger, and RS-232 Terminal Connection" },
+    { "id": "oQ4IPbonOpY", "title": "SHARC Audio Module Unboxing & Install FAILURE on Win 11 for ARM: Help! (Analog Devices ADSP-SC589)" },
+    { "id": "K6Vi6iEnZhA", "title": "FM Synthesis with an Imaginary Index of Modulation (Modified FM)" },
+    { "id": "6Ijs1H-cWLo", "title": "Synergize/Synergia Tutorial: FM Algorithms (Digital Keyboards Synergy)" },
+    { "id": "kP8uW779k44", "title": "Prophet VS: Sequential Hardware vs. Arturia Software -- Can You Tell the Difference?" },
+    { "id": "RSAxrhb-wvA", "title": "Osborne 1 Disk Drive: Boot Errors and BDOS Bad Sector Errors (don't know what to try next -- help!)" },
+    { "id": "bgOGx5qSXMA", "title": "Waveshaping Synthesis with Complex Numbers: An Application of Euler's Formula & De Moivre's Theorem" },
+    { "id": "l5n86iLoNMo", "title": "Extracting Harmonics of Ensoniq SQ-80 Waveforms with FFTs (Fast Fourier Transforms)" },
+    { "id": "IoAc2241gx8", "title": "Sound Synthesis via Discrete Summation Formulas: Unexplored Terrain (sounds kind of like FM)" },
+    { "id": "7NeA6XALTc8", "title": "Moselle Modular Synthesizer: Softsynth with a Thoughtfully Constructed Patching Language" },
+    { "id": "abMKVyomqQs", "title": "Discrete Summation Formula Synthesis Follow-Up (I didn't know Octave did this weird thing)" },
+    { "id": "WDrivPoufOA", "title": "Buchla 700 FM Ring implemented in Moselle Modular Synthesizer Software (Four Oscillator Algorithm)" },
+    { "id": "c7EEOt0QQpg", "title": "Deciphering Audio Connections on the Synertek SYM-1 (for saving & loading programs from tape)" },
+    { "id": "opN0SLHkVjo", "title": "Harmonic Jerkulator Simulated in Falstad (inspired by the Harmonic Percolator)" },
+    { "id": "KiMjPOsaf5Q", "title": "Casio VL-Tone Circuit Mystery (is this an error in the envelope detector schematic?)" },
+    { "id": "LZSIS7YiqwI", "title": "Simulation of the Boss MD-2 Mega Distortion Complementary Common Emitter Stage (Falstad)" },
+    { "id": "h0odRXbh5YU", "title": "Thursday Passive Tone Control Breadboarding (Guitar Amplification and Effects)" },
+    { "id": "C1l9Nv2pik4", "title": "Harmonic Jerkulator Measurements on the Breadboard (Inspired by Harmonic Percolator Guitar Pedal)" },
+    { "id": "1GnpffRgCcE", "title": "Osborne 1 \"Portable\" Teardown and Oscilloscope Tests (and Why You Should Read the Manual First)" },
+    { "id": "UiBNPq-1Nmw", "title": "Bit Crusher Plugin Made using JUCE (Retrofuturistic Hardware Vertically Integrated Project)" },
+    { "id": "EOo-nQFZKQ8", "title": "iOS Ear Training App for Mix Engineers Written in Swift (Retrofuturistic Hardware VIP)" },
+    { "id": "tf2xC-sdaaU", "title": "Plop Boot Manager Helps Install Windows XP on a Devious Dell Dimension 8300 that Won't Boot from CD" },
+    { "id": "KaBgQo3rFx4", "title": "Emitter Followers with Active Loads Analyzed via Ebers-Moll Model (no small-signal analysis needed!)" },
+    { "id": "3fwr9-AnCNI", "title": "Falstad Fun: Common Emitter & Base Amps with Active Loads (Analog Electronics)" },
+    { "id": "BmPxB2Xekf8", "title": "Low-voltage Common Cathode Amplifier in Falstad (12AU7 Vacuum Tube) (Guitar Amplification & Effects)" },
+    { "id": "id_O3XY-8kM", "title": "Godot Networked Game Experiment (Retrofuturistic Hardware Vertically Integrated Project)" },
+    { "id": "D8S4Y10dSjg", "title": "FORTH Implemented in 65816 Assembly by a Georgia Tech Student (RetCom87/Retrofuturistic Hardware)" },
+    { "id": "6s8z_IDX-rc", "title": "New Lectures on Advanced DSP and Adaptive Filtering (from Prof. David Anderson of Georgia Tech)" },
+    { "id": "sIDD_GeF7eo", "title": "BJTs are VOLTAGE-Controlled Current Sources!" },
+    { "id": "_gEhAWrYNZM", "title": "They Mislead You About MOSFETs" }
+  ]
+}

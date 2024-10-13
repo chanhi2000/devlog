@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "deeplinux2248",
+    "name": "Deep Linux",
+    "profile": "https://yt3.googleusercontent.com/HPzv82JvhCCBHPQB0RNU9hzK2GXKR9xWMDaNvVVVkl0dxaAsTPAjuaQnSvwQBfcYpz9F9rtA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gttaLMDlqg9wOCIPGcqlsanRTBJgdP2im33OpnStZk-Y5MgRsb0g6tGj1l9n2OYFu1znL_bUDg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "erLpv8inqko", "title": "Linux Kernel Tracer ftrace: Event Filtering | DEEP LINUX" },
+    { "id": "QpqbDfqbeHk", "title": "Linux in-kernel Tracer: ftrace | DEEP LINUX" },
+    { "id": "AXfyqmRLnCE", "title": "Linux Tracing Concepts | DEEP LINUX" }
+  ]
+}

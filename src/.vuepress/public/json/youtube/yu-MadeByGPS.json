@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MadeByGPS",
+    "name": "Gwyneth Peña-Siguenza",
+    "profile": "https://yt3.googleusercontent.com/4Z08jWvtnFXXe-EwU5SdlDVlK_BTVTlFGsZVqZMKC2lZHNI6Fu1lZ8mLEePHN6mvkcm7eqci=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gRAGTuMg7bT1IbFsRJH4kxAYuDf7724Qv-xN4ZhPpwPaouyar9p6Jewe53I9bPZkjBIV4xIeTQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vWerXJrNw2g", "title": "From Zero to Cloud Engineer in 6 months" }
+  ]
+}

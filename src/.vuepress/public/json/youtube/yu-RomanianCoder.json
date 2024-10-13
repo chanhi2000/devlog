@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "RomanianCoder",
+    "name": "Dan Geabunea (Romanian Coder)",
+    "profile": "https://yt3.googleusercontent.com/X6TRTvSL52amzCE4i7L2RCHBBgEVwcs-F2zLac_H59lN0uCv2uZZB_mFYGYlECvbdNw3prTXXQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Mkmt5yF2fnXj8GSkZsPt9u9O9aDF1JSUIbqZ9kPpc15LD3fKYxXdkk9XHQGrhWhqKSk_jiFH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oVpFJr-Z35A", "title": "[Spring Boot Security] #29 JWT - Implement JWT Authentication" }, 
+    { "id": "HAmqB123sDc", "title": "[Spring Boot Security] #14 Configure Permission Based Authorization" }, 
+    { "id": "G-CK9DgD9Ts", "title": "[Spring Boot Security] #10 Spring Security Default Configuration" }, 
+    { "id": "cle8avHVCQY", "title": "[Spring Boot Security] #07 SSL & HTTPS" } 
+  ]
+}
+
+
+

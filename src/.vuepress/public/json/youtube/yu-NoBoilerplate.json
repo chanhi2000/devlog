@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "NoBoilerplate",
+    "name": "No Boilerplate",
+    "profile": "https://yt3.googleusercontent.com/dS7sENcwjauCX8kHLZIPk1ZXmuHMbeYAhl_AGui_tUhtzpj4ekONHush3Cdgpe62icTj49nbdS8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Scg4nJh1PoRYi3ssv9SdoapYmo54RsxH2R3iFF2asnfy-dRYPrcpp4EdbYBNpnYlKlaS9heRLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CwfKlX3rA6E", "title": "NixOS: Everything Everywhere All At Once" },
+    { "id": "voRBS0r4EyI", "title": "const fn: Pure Functions in Rust" },
+    { "id": "bq9O99TgFv4", "title": "The Unreasonable Effectiveness of Linux Workstations" },
+    { "id": "WgV6M1LyfNY", "title": "The Unreasonable Effectiveness Of Plain Text" },
+    { "id": "v6RxJsk8otY", "title": "What Rust Discovered" },
+    { "id": "dFkGNe4oaKk", "title": "Oxidise Your Life" }, 
+    { "id": "bu_gulee89Q", "title": "How To Speak Rust" }, 
+    { "id": "DbsAQSIKQXk", "title": "Hack your brain with Obsidian.md" }, 
+    { "id": "pocWrUj68tU", "title": "My Recommended Rust Web Stack" }, 
+    { "id": "br3GIIQeefY", "title": "Rust for the impatient" }, 
+    { "id": "JIvKgSyvtxI", "title": "Rust tests are MAGIC" }, 
+    { "id": "CJtvnepMVAU", "title": "Rust Is Easy" }
+  ]
+}

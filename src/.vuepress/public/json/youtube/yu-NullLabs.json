@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "NullLabs",
+    "name": "The Null Channel",
+    "profile": "https://yt3.googleusercontent.com/XEBdd01I1YyDdw69bXr1ePZQ8CMwngb0Yu2OzhW5IGYAzF-cRSwQPIZazuJyYWoY-1ZGjeRS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q0V7XF_fnmR5TiuZJkrdfXo124Iyuck_JYG7tXI_AxhtTJmRszTtMTe-3zIICPTWV2JxBPRgIw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a0FtTSkTKzM", "title": "Honest Kubernetes Ad" }
+  ],
+  "playlists": [
+    {
+      "title": "Learn Rust",
+      "videos": [
+        { "id": "JcEGWNrerVY", "title": "Learn the Rust language TODAY! Episode 00" },
+        { "id": "_yZVMxg0KS0", "title": "Learn Rust - Variables and Functions - P01:E01" },
+        { "id": "ru_9BTviC-Y", "title": "Learn Rust - Bonus - Can you overflow? - P01:E01.5" },
+        { "id": "fK_buxzTt08", "title": "Can you assign everything in rust!?!? part 1, ep 1.6" },
+        { "id": "bw7sstdm_fw", "title": "Testing in rust is not hard. Learn Rust part 2" },
+        { "id": "1VfEAQn0t-E", "title": "Flow control in Rust - Learn rust EP 3!" },
+        { "id": "kB0K5epewC8", "title": "Learn Rust Today! Optionals and Errors in Rust." },
+        { "id": "OqQbRkDtq_8", "title": "Rusty Structs - Learn rust EP05" },
+        { "id": "KPiPKT8Cick", "title": "Rusty Enums - Learn Rust EP.6" },
+        { "id": "u0OeGb_ZIEI", "title": "Rust Generics - Learn Rust EP.7" },
+        { "id": "ZJwjcoVVNfI", "title": "Rust Traits - Learn Rust EP.8" },
+        { "id": "GfOPpV1AiiU", "title": "External Dependencies - Learn Rust EP9" },
+        { "id": "BOLzYO4tUWI", "title": "Async and Await Primer - Learn Rust EP10" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "callme_donggu",
+    "name": "도전남 동구",
+    "profile": "https://yt3.googleusercontent.com/Lavvx7EK1zDkRkftzoo1gMgCvZLZY8UXxYHCh43O9l-pQfX99B3usg1-0RUDDsF2Ne_qobmc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hGk2gpWVGqU", "title": "노코드로 내 포트폴리오 만들어보기 | 1025 수요일 저녁 | 프리랜서 개발자 | No Code with me (코드윗미)  | 45분 | 자기계발" },
+    { "id": "RaI8bkIaFGQ", "title": "프론트 독학 29일차 (29/100) | 0923 토요일 저녁 | 프리랜서 개발자 | Code with me (코드윗미)  | 43분 | 자기계발" }
+  ]
+}

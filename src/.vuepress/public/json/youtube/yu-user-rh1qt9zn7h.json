@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "user-rh1qt9zn7h",
+    "name": "윤인성",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMRQhQ1uoI8kBBjXknyED7pJdSI0Tw4stNIya05=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Y96h-ciyBFM", "title": "알고리즘 수학 0강 - 자동 채점 시스템 참가하기" },
+    { "id": "8pblyBBf7Z0", "title": "쓸모 있어 보이는 파이썬 1강 - 마우스 매크로 만들기(pyautogui 모듈)" }, 
+    { "id": "WfS3itlnRG8", "title": "러닝스쿨 한 권으로 끝내는 HTML + CSS 웹 디자인 입문 0강" }
+  ]
+}
+

@@ -1,0 +1,24 @@
+[
+  {
+    "repo": "rmcelreath/stat_rethinking_2024",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cxli233/FriendsDontLetFriends",
+    "desc": "Friends don't let friends make certain types of data visualization - What are they and why are they bad.",
+    "officialSite": "",
+    "topics": ["data-visualization", "r"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CelVoxes/ceLLama",
+    "desc": "Cell type annotation with local Large Language Models (LLMs) - Ensuring privacy and speed with extensive customized reports",
+    "officialSite": "https://celvox.co",
+    "topics": ["celltype", "large-language-models", "llm", "rna-seq", "scanpy", "seurat", "single-cell"],
+    "avatar": "https://avatars.githubusercontent.com/u/165594185?v=4",
+    "banner": ""
+  }
+]

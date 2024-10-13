@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "juhyun167",
+    "name": "Juhyun Song",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaS_sP6Y00oXqmjzAU56AAAqc8Vk3DW5_4uwsGyKA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GzjyjVoGaBv7WUlMUG8eL__JT8baUo-rl7nEe3nlnknkwDjUEnzemX5qyxGrsilLGFXfvtSk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "irUindJlmfM", "title": "기초해킹실습 8강" }, 
+    { "id": "w0exYFio-BQ", "title": "기초해킹실습 7강" },
+    { "id": "Gp6stMqBP4U", "title": "중급해킹실습 4강" },
+    { "id": "vVZO6_C-heo", "title": "기초해킹실습 6강" }
+  ]
+}

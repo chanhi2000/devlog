@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "ritvikmath",
+    "name": "ritvikmath",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaS9uUGWzL1PIey0-3rDhem4OCTreteh2B8zpQkp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-rCmCQJVASU_pb0AvQszD1DvLCjEOzdH-UtimFKTxaRew6J-Uj3g3SITNjsiNbibvFhy0Oi2_g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "D1iSS_og7dM", "title": "Call Options : The Intuition and Math You Need" },
+    { "id": "-_DTyUXXels", "title": "When Higher Volatility is Better in the Stock Market : Call Options" },
+    { "id": "MdANnmV-Dtc", "title": "Why You Shouldn't Trust Your ML Models (...too much)" },
+    { "id": "au1j4K9BoiM", "title": "The Most Important Integral in Data Science" },
+    { "id": "HpwEMld3uVo", "title": "The Dirichlet Distribution : Data Science Basics" },
+    { "id": "mxpGtL7W5Gg", "title": "How the Heck do Bending Genetics work in Avatar the Last Airbender?" },
+    { "id": "l_ReCLzMkkQ", "title": "I Used Data Science to Buy the Dip" },
+    { "id": "Tcyz0AG5ktA", "title": "The Best Data Visualization of All Time" },
+    { "id": "ozD57MJ7FYg", "title": "The Easy Trick to Understand any Data Science Formula" },
+    { "id": "8TWyNQGW6NI", "title": "Detecting Phrases with Data Science : Natural Language Processing" },
+    { "id": "jFu20v5Rp44", "title": "ChatGPT vs Google Bard for Resume Writing!" },
+    { "id": "kBhQbRq4GeU", "title": "How To Get Stock Price Data with Python : Time Series Talk" }
+  ]
+}
+

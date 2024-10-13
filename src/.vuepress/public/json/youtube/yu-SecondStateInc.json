@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "SecondStateInc",
+    "name": "Second State",
+    "profile": "https://yt3.googleusercontent.com/6RD1kcPUHIuxL_KCYf7Zeouda7MFrezUCw7dVwIesyzb83oHr8u_CCmjWheI0kF4rACd4RptFQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "VCmfEVidvDo", "title": "Demo: Run Llava, the multimodal LLM across Devices and ask it about pictures" },
+    { "id": "cPzQ9pBmRJc", "title": "Create an LLM web service with LlamaEdge on a MacBook, deploy it on a NVIDIA device." },
+    { "id": "7p4mY290oQ8", "title": "WasmEdge Community Meeting #28 Llava Demo, WasmEdge on Civo Talos K8s, GSoC" },
+    { "id": "l1rEOaZ2bns", "title": "Wasm Functions on Civo Cloud by Saiyam" },
+    { "id": "whqf4qR1qmQ", "title": "Google Summer of Code 2024 PROJECTS IDEAS" },
+    { "id": "D0D8ufWtILI", "title": "WasmEdge Community Meeting #29 Llama + Lima + WASI-NN RPC demo, YOLO, Run LLMs with Docker on GPU" },
+    { "id": "uTqnOi0hnPU", "title": "Self host Mixtral-8x7B MoE LLM on Mac+cross devices, 2MB AI inference app fully portable" },
+    { "id": "ryyzJLYzkN0", "title": "Self-host StableLM-2-Zephyr-1.6B. Portable across GPUs CPUs OSes" },
+    { "id": "-bCTkwvMzw8", "title": "Mewz Introduction – Saza & AiNozaki  #wasm #wasi #webassembly" },
+    { "id": "W0lxK2w0qCU", "title": "Easy Setup! Self-host Mixtral-8x7B across devices with a 2M inference app" },
+    { "id": "aMYQ95XRr94", "title": "WasmEdge Community Meeting #26 Run Mixtral on Mac demo; WasmEdge LLM support; Wasm@LangChain" },
+    { "id": "NJ89T5mO25Y", "title": "Run dolphin-2.2-yi-34b on IoT Devices (Also works as a Private OpenAI API Server)" },
+    { "id": "lB2A7S1vexM", "title": "Use WasmEdge to run Llama 2 series of models on your own device" }, 
+    { "id": "Lpq-y5I46l8", "title": "WasmEdge Community Meeting #19" }
+  ]
+}

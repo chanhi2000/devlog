@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "csslick9865",
+    "name": "csslick - 코딩 튜토리얼 & 팁",
+    "profile": "https://yt3.googleusercontent.com/gqNNTsrreRhqEzGJKD2LmOcSZ6Q6YIzmZDZ4x_yZvV0kCnOkIahSfh2xByWFwyFeCA99rjfB=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "LcTakn-YxLo", "title": "Vue 3의 더 나은 상태관리를 위한 Pinia" },
+    { "id": "f9tISs0EpnE", "title": "Animation counter" },
+    { "id": "FRCmMF7rB2s", "title": "Vue 3에서 Ref와 Reactive의 차이점" },
+    { "id": "YvWcUfVoP6s", "title": "Svelte 강좌 소개 2024" },
+    { "id": "I3I9N8Sw-jc", "title": "AI와 코딩하기   cody 익스텐션 사용기" },
+    { "id": "Unkiy_ptB0Q", "title": "서울대생 부모 선택하기 :has" },
+    { "id": "aluK-1mWi7A", "title": "4. vue3: 문서에 데이터 표시하기" },
+    { "id": "6_3DAfjfX-I", "title": "3. Vue3: 프로젝트 생성" },
+    { "id": "NSeVeLLSW4w", "title": "2. Vue 3: 개발환경 설정" },
+    { "id": "fP40BIIC2zo", "title": "1. Vue.js를 배우기 전에 알아둬야 할 것들" },
+    { "id": "Qvwy8zfCIGs", "title": "Vue 3: component 만들기" },
+    { "id": "i_CE5RdozII", "title": "Vue 3: Composition api 소개 및 vite 설치" },
+    { "id": "vnN-7f4Fj9Y", "title": "CSS 다크모드 기능" },
+    { "id": "M85ex5LigSE", "title": "드디어 postman을 visual studio code에서 사용가능!!" },
+    { "id": "n-ImqbvfjJk", "title": "Scroll Animation" }
+  ]
+}

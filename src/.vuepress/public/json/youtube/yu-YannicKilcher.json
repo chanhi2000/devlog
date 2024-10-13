@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "YannicKilcher",
+    "name": "Yannic Kilcher",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYh7iWNBj7UuOE5-WJrKFrIAsjagMOc9piMKl73DzM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V5tY3i1gSQKSYLNtanocpUq7AKWV5nTQS_3Rttel7eOpqOWuK-0zYPyhbXRlJbXR2MCBAnrX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PW4JiJ-WaY4", "title": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping (Searchformer)" },
+    { "id": "7NNxK3CqaDk", "title": "Flow Matching for Generative Modeling (Paper Explained)" },
+    { "id": "Kk8YhCpo1b8", "title": "[ML News] Jamba, CMD-R+, and other new models (yes, I know this is like a week behind 🙃)" },
+    { "id": "r_UBBfTPcF0", "title": "Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention" },
+    { "id": "3a0_hAiFKag", "title": "TransformerFAM: Feedback attention is working memory" },
+    { "id": "52kMBrAI_IM", "title": "ORPO: Monolithic Preference Optimization without Reference Model (Paper Explained)" },
+    { "id": "0OaEv1a5jUM", "title": "xLSTM: Extended Long Short-Term Memory" },
+    { "id": "7UkJPwz_N_0", "title": "V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video (Explained)" },
+    { "id": "q1LrXH5_Oy0", "title": "[ML News] Devin AI Software Engineer | GPT-4.5-Turbo LEAKED | US Gov't Report: Total Extinction" },
+    { "id": "dnTGn1EQqtQ", "title": "[ML News] Grok-1 open-sourced | Nvidia GTC | OpenAI leaks model names | AI Act" },
+    { "id": "hW3OVWfndLw", "title": "LLaMA Pro: Progressive LLaMA with Block Expansion (Paper Explained)" },
+    { "id": "mwO6v4BlgZQ", "title": "Mixtral of Experts (Paper Explained)" },
+    { "id": "ZNK4nfgNQpM", "title": "AlphaGeometry: Solving olympiad geometry without human demonstrations (Paper Explained)" },
+    { "id": "9dSkvxS2EB0", "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Paper Explained)" },
+    { "id": "bXYLyDhcyWY", "title": "Another Hit Piece on Open-Source AI" },
+    { "id": "zut38E-BHH0", "title": "Did Google fake their Gemini Video?" },
+    { "id": "FY5j3P9tCeA", "title": "Text Embeddings Reveal (Almost) As Much As Text" },
+    { "id": "KwpeuqT69fw", "title": "Scalable Extraction of Training Data from (Production) Language Models (Paper Explained)" },
+    { "id": "409tNlaByds", "title": "Efficient Streaming Language Models with Attention Sinks (Paper Explained)" }
+  ]
+}

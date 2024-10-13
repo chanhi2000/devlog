@@ -1,0 +1,45 @@
+[
+  {
+    "repo": "jgthms/bulma",
+    "desc": "Modern CSS framework based on Flexbox",
+    "officialSite": "https://bulma.io",
+    "topics": ["css", "css-framework", "design", "flexbox", "html"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "black7375/Firefox-UI-Fix",
+    "desc": "🦊 I respect proton UI and aim to improve it.",
+    "officialSite": "",
+    "topics": ["firefox", "firefox-css", "firefox-customization", "firefox-theme", "firefox-tweaks", "hacktoberfest", "theme", "unixporn", "user-interface", "userchrome", "userchrome-styles", "userchromecss", "userstyles"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lowlighter/matcha",
+    "desc": "🍵 Drop-in semantic styling library in pure CSS. ",
+    "officialSite": "https://matcha.mizu.sh",
+    "topics": ["classless", "classless-css", "css", "css-framework", "design", "minimalist", "semantic-web", "simple", "theme", "web"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zakirkun/arsip-gorengan-is",
+    "desc": "Arsip gorengan full konteks",
+    "officialSite": "https://zakirkun.github.io/arsip-gorengan-is/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dumindu/E25DX",
+    "desc": "🧑‍💻 Your next documentation theme...",
+    "officialSite": "",
+    "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mr150/mlut",
+    "desc": "Atomic CSS toolkit with Sass and ergonomics for creating styles of any complexity",
+    "officialSite": "https://mr150.github.io/mlut/",
+    "topics": ["atomic-css", "css", "css-framework", "functional-css", "sass", "utility-first"],
+    "avatar": "https://avatars.githubusercontent.com/u/11524575?v=4",
+    "banner": ""
+  }
+]

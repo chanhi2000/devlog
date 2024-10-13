@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "codingwithusman7",
+    "name": "Coding With Usman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOLARcnb0fkNusljzpZqutdwmjfVysW0_6QbMrk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v3vctAmooT2tylzwfU6VHIXXbfWhT4dc-kCrOUGL-aTnrpACZ8hf11XqPl2Obu4h3mM8Mwn91Xo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DTXjLtAg9j8", "title": "API Integration (All HTTP methods) using URLSession - SwiftUI 2.0" },
+    { "id": "jYrj0mDOFsA", "title": "How to Create Music App UI | SwiftUI" },
+    { "id": "_N4lxebmJ2U", "title": "How to create CUSTOM TABBAR (simple to advanced) using swift 5" },
+    { "id": "jW_caTrNTo4", "title": "[Swift 5] How to Use MVVM (Model View ViewModel) - 2020" }
+ ]
+}
+
+

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "aiacademy131",
+    "name": "aiacademy131",
+    "profile": "https://yt3.googleusercontent.com/UukH4nDTWMN1aEpm665iOyqfWaKwC7TLs0cFounin8jLBJpxSH47M2K4Ry2EalqNwII1YLqh4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "jvYpv9VJBOA", "title": "ChatGPT보다 성능이 더 뛰어나다? _  메타의 언어모델, LLaMA 라마 코드분석" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ilta_dream_tree",
+    "name": "일타꿈나무",
+    "profile": "https://yt3.googleusercontent.com/L7FXeQrthH9DuG-8MTPIFhSHZtW2nFcYcXGD9orUW91LGahywcIOYVz372IF_EcEA9W4XxKeoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1IVGwLziD2E", "title": "재무관리원론02(하)" },
+    { "id": "KIoUAfly25Q", "title": "재무관리원론02(상)" },
+    { "id": "2penBgDQnbQ", "title": "재무관리원론03(하)" },
+    { "id": "7E473gz9M74", "title": "재무관리원론03(상)" },
+    { "id": "33nm_mQv6Sc", "title": "금융데이터분석16" },
+    { "id": "cvbfvwueyr8", "title": "금융데이터분석17" },
+    { "id": "9-jJO7VLPmM", "title": "투자론 보강 연습문제(6-2, 6-4)" },
+    { "id": "QehuWAgSJQ8", "title": "금융데이터분석14" }
+  ]
+}

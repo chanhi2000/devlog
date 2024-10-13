@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "mediacccde",
+    "name": "media.ccc.de",
+    "profile": "https://yt3.googleusercontent.com/JzuBbkQMthCf0eQ7wogbw0K76UGT-pw0qsEBA4JrEeeFax65tTQuh_HOnQa8WC-eLNTCnRQ9eA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0qhDcf8OBcc", "title": "37C3 Infrastructure Review" },
+    { "id": "3ytAz-lznFQ", "title": "FSCK 2024 - Opening" },
+    { "id": "6RNDbz_EI_Y", "title": "FSCK 2024 - Neue API und Anwendungen zur Bahninfrastruktur" },
+    { "id": "k7Q79ZTDOY0", "title": "FSCK 2024 - Disk Space - The Final Frontier?" },
+    { "id": "faalZ-NwImA", "title": "FSCK 2024 - RISC-V – The Only Architecture You'll Ever Need" },
+    { "id": "GJhz_Vr89X0", "title": "37C3 -  Numerical Air Quality Modeling Systems" },
+    { "id": "BmRU_HkPwXg", "title": "37C3 -  Rettet uns die KI?" },
+    { "id": "2HstGZPZpZY", "title": "37C3 -  BLUFFS: Bluetooth Forward and Future Secrecy Attacks and Defenses" },
+    { "id": "JoJ3NTeuebg", "title": "37C3 -  Sonic Alchemy" },
+    { "id": "0_TkoO6Uvs4", "title": "37C3 -  Hacking the Climate: Mit Climate Engineering raus aus der Klimakrise? [de]" },
+    { "id": "PqQC75EE6zY", "title": "37C3 -  Unlocking the Road Ahead: Automotive Digital Forensics" },
+    { "id": "evUhcaweCyY", "title": "Pornography feels better without tech-giants!" },
+    { "id": "kiQAxG3ACOQ", "title": "37C3 -  Software Licensing For A Circular Economy" },
+    { "id": "Tws13WSgIn8", "title": "37C3 -  Breathing Life into Legacy: An Open-Source Emulator of Legacy Apple Devices" },
+    { "id": "9V1Vx35lZ5c", "title": "OsmoDevCall - Exploring eUICCs and eSIMS using pySim, lpac and osmo-smdpp" },
+    { "id": "tGSYoUq1I58", "title": "OsmoDevCall - Using pySim-shell on sysmoISIM-SJA5 cards" },
+    { "id": "mOPrcEY7djw", "title": "OsmoDevCall - Themyscira Wireless: Osmocom CNI meets USA PSTN" },
+    { "id": "g5ZiBYR-1MM", "title": "37C3 -  Tor censorship attempts in Russia, Iran, Turkmenistan" },
+    { "id": "fR73gtMRxfY", "title": "retronetcall - A tour of DIVF, our OCTOI central office using yate, dahdi-trunkdev and more" },
+    { "id": "B0ZJxOIinr4", "title": "37C3 -  Self-cannibalizing AI" },
+    { "id": "jvMUjjhnlsE", "title": "37C3 -  Vom Darkroom in die Blackbox" },
+    { "id": "F1DMrYF2Cl4", "title": "37C3 -  Unlocking Hardware Security: Red Team, Blue Team, and Trojan Tales" },
+    { "id": "AgC9OiFrIPk", "title": "37C3 - Back in the Driver's Seat: Recovering Critical Data from Tesla Autopilot Using Voltage Glitch" },
+    { "id": "mMZ-pbfjhLI", "title": "37C3 -  Hacking Neural Networks (deu)" },
+    { "id": "dIxJlxWlrhQ", "title": "37C3 -  Fortbildung Cyber-Astrologie & KI-Karma" },
+    { "id": "avlo7ZzEaAc", "title": "Fooled by the Website Carbon Calculator" },
+    { "id": "_mZddN0Up2o", "title": "`qaul` - Resilient Communication during Blackouts & Internet Shutdowns" },
+    { "id": "HMivI2zm7N0", "title": "Meshenger" },
+    { "id": "0jLEWyM6Za8", "title": "The magic behind \"one-click\" deployments" },
+    { "id": "c4wS9n7yilA", "title": "Read and Manipulate Network Traffic on Android with mitmproxy" },
+    { "id": "EIE-1VH8tTs", "title": "DON’T PANIC" },
+    { "id": "NRXFnVN-xhU", "title": "Energy Consumption of Data Centers" },
+    { "id": "0UIpg19KECw", "title": "The Nix Phone and the end of Android" },
+    { "id": "0X2B6YpJwDc", "title": "retronetcall - Teletex: The brief abandoned step between Telex and Telefax" },
+    { "id": "9dQYIabmiFo", "title": "[r3s]  (de) Practical bruteforce of military grade AES-1024 (Sylvain Pelissier, Boi Sletterink)  deu" }, 
+    { "id": "Ckj1iQQRk9Y", "title": "How To Build A News App Using React Native 4 - Bottom Tabs" }, 
+    { "id": "10JYCFzIJK8", "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform - deutsche Übersetzung" }, 
+    { "id": "wMgJSh1pTsU", "title": "36C3 Wikipaka WG:  Flutter - One native code base for every platform" }, 
+    { "id": "y57y3cpr93A", "title": "retronetcall - Introduction to the X.21 interface" }
+  ]
+}
+
+

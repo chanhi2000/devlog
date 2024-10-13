@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "BryanJenks",
+    "name": "Bryan Jenks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQjXL6ECZ7byvLoZxGNUQTaldqOkiZJm8GdFPAZqw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wa2kRAI6mcU0Wc8VbEqk2QtF9-LkwfswqKWSn0M3PhiFFgI_QVihXHfynd_CgO9yLLGJPuYktA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V-7Aeb6CDBs", "title": "Scrintal Course 4 | Collaboration & Teams" },
+    { "id": "A_B5JU-lcSE", "title": "Scrintal Course 5 | PowerUsage Features" },
+    { "id": "-GITiJC2c8o", "title": "How to Migrate Existing Knowledge Base Content to Document360" },
+    { "id": "lG6f184P9B4", "title": "Scrintal Course 3 | Research Workflow" },
+    { "id": "22CmSY26itk", "title": "Scrintal Course | Objects, Organization, and Scaling" },
+    { "id": "OYJgDZomOyo", "title": "📂️ How I Use The Obsidian Database Folder Plugin 🔌️" },
+    { "id": "8Bhv1T82TIU", "title": "🌟️ Supercharge Your [[Links]] In Obsidian | Comprehensive Guide Part 2 🔗️" },
+    { "id": "JJ_dfm-4kKM", "title": "♾️ Unmasking Autism By Dr. Devon Price | Note Taking Stream 📝️" },
+    { "id": "ZRtVnisJC7Q", "title": "Goblin Tools For The Neurodiverse (Autism / ADHD Edition)" }
+  ]
+}

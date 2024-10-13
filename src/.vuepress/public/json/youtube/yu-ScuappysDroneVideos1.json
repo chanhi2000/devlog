@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ScuappysDroneVideos1",
+    "name": "Scuappy's Videos",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZS70svRENlo8VfviqV91r1fhEGcYc00O0yw6Diu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6ubXAvNlkys5ISMJ9ub4VeQMBegIC98ocPfkw4GMyLYaXVhdy84m_81schSFHOrlpoL4A_-L=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hgE1ssVAVKI", "title": "[Tutorial] How to Install MacOS Big Sur onto a 2012 MacBook Pro" }
+  ]
+}

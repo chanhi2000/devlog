@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "conaticus",
+    "name": "conaticus",
+    "profile": "https://yt3.googleusercontent.com/9cqnIN96tL3Hcy5zHjSgLLK9dn3E8JcQfTsfyz0z_UYxlV_a0YqjA4bwVoSChNhtKja5B_cS1lw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2kgKm3Fnbp3C9uHnj2UE6ie5doAbssS2iIghPjqeLjC8Y7rtYf88AUMmRIPYayKC0pWQfKqgZQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6RKwcKktnGE", "title": "I Made a FAST Search Engine" },
+    { "id": "635_iBcOJhk", "title": "How to Use AI to Become an Effective Programmer" },
+    { "id": "RwgKqA9j3JE", "title": "Is The Grid Connected: C Programming Experiment" },
+    { "id": "Z2JkBIce6ms", "title": "Turning My AWFUL Code Into Professional Code" },
+    { "id": "GtMgHcSfLIk", "title": "Rust vs C++ (old)" },
+    { "id": "WBhTDoZxpCk", "title": "Rust vs C++" },
+    { "id": "14o-4XKiZzA", "title": "When You Give Programmers a HUGE Database" },
+    { "id": "4IXJE8sRM-A", "title": "How I Made HTTP From Scratch" },
+    { "id": "RZ_K58SleV8", "title": "Building a HTTP Server From Scratch (Day 2)" },
+    { "id": "d3gn-SWjnW0", "title": "The Rustiest Video You Will Ever See" },
+    { "id": "uKP990_pjJo", "title": "I Built a FAST Package Manager (in Rust)" },
+    { "id": "8Oli30hHTmk", "title": "I Made My Own Redis (In Rust)" },
+    { "id": "xhroAm5XvU0", "title": "The Algorithm that Changed Video Compression FOREVER" },
+    { "id": "Z60f2g-COJY", "title": "I Made a FAST File Explorer (in Rust)" }
+  ]
+}

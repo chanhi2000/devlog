@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "davidford6890",
+    "name": "David Ford",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTt-4ucUoWRFGG4yFyRivA0FR_ilVTTJhsHzHczvvc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "2gLSQvceHps", "title": "Kotlin JavaScript Tutorial: Lesson 4: Working with the DOM - Part 3" }
+  ]
+}

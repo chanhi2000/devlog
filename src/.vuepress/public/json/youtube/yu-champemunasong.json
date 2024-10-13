@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "champemunasong",
+    "name": "우경고찬폐문하성",
+    "profile": "https://yt3.googleusercontent.com/bv2Pm8GDYDqayDCzV1QLFZRvA-FmWTLwebYqy-Z4J4iqQz0v8vG1T_flNEPffB4UOObbTyKbn-U=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CkRN5o47Ux9DMBOO5ePLVQ0hBqZ98znNNU4a7Wig4BRYBqmZA6kQm_0P-xZx_fw7_x16V-bukg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lZbUGhVtCRs", "title": "마작 점수 계산하기 강좌 (완전 알참)" },
+    { "id": "cZoaSYqM-0I", "title": "아두이노 도움좀 주셈 ㅡ.ㅡ" },
+    { "id": "UYVEln8qNrE", "title": "1062 - C언어 6차시" },
+    { "id": "cIzgTESemfk", "title": "1062 - C언어 7차시" },
+    { "id": "UpyJ-gRT_5Y", "title": "1062 - C언어 8차시" },
+    { "id": "acEkmjiCMxc", "title": "1062 - C언어 10차시" },
+    { "id": "dJe-f4eLFhU", "title": "1062 - C언어 9차시" },
+    { "id": "7FC6mv9VNkY", "title": "1062 - C언어 11차시" },
+    { "id": "y-pfk8Vf_R4", "title": "1062 - C언어 12차시" },
+    { "id": "1DeQuSDQ-Hg", "title": "단어 외우는 프로그램 만드는 생방송" },
+    { "id": "ufQ2g01nj34", "title": "1062 - C언어 13차시" },
+    { "id": "985f0LkmXts", "title": "G1 BOJ 문제풀이 방송 2024. 1. 17" },
+    { "id": "_9i1YLrbeUU", "title": "G1 BOJ 문제풀이 방송 2024. 1. 28" },
+    { "id": "lrV7j12BeeI", "title": "G1 BOJ 문제풀이 방송 2024. 1. 31" },
+    { "id": "pSBtZg4k9No", "title": "1062 - C언어 2차시" },
+    { "id": "o4WgctQWL1I", "title": "1062 - C언어 3차시" },
+    { "id": "n9yIoVnB3sU", "title": "1062 - C언어 5차시" },
+    { "id": "pASu-72HWtg", "title": "Discord.py 2.3.2로 디코 봇 만들기" },
+    { "id": "2iABD4oucJI", "title": "Aicé 상용구 프로그램 사용법" },
+    { "id": "llOI9-vQu5Q", "title": "G1 BOJ 문제풀이 방송 2023. 10. 20" }
+  ],
+  "playlists": [
+    
+  ]
+}

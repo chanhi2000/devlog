@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "dave-hollingworth",
+    "name": "Dave Hollingworth",
+    "profile": "https://yt3.googleusercontent.com/UCpxH3dZQflgycuLwshfCAhJ5pftM3W33t3jfxsF0yrXV0H7xHjPjBi_udW4p7MDb7mzQCHT=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6gdp3fNFKW4K5dpk-t7F77PFEGRwWwWYHa8FNb0a3zGb4HGTzwmfTcKDc29avr5HxMC7vpaUXF0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Yi1NfLkflyU", "title": "Laravel for Beginners  -  Learn Laravel 11 Fundamentals, from Scratch, in 1 Hour" },
+    { "id": "1eH43qVMCOU", "title": "Use Composer to Easily Manage PHP Packages" },
+    { "id": "v5tAdjf0o3E", "title": "REST API Authentication with PHP & MySQL | Slim PHP Micro Framework Registration and Login Tutorial" },
+    { "id": "PHZtujcTRPk", "title": "REST API with PHP and MySQL | Full Slim PHP Micro Framework Tutorial" },
+    { "id": "KZW2jtUhKZA", "title": "Parse JSON in PHP | How to validate and process nested JSON data" },
+    { "id": "6ncbK1aBl1w", "title": "Send an email with an Attachment using PHP | PHP Project with Source Code" },
+    { "id": "obolAwbx388", "title": "Send SMS Messages using PHP" },
+    { "id": "bXTspwWR9uY", "title": "PHP in 60 Seconds: The Basics" }
+  ],
+  "playlists": [
+
+  ]
+}

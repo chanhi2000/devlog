@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Pusher_realtime",
+    "name": "Pusher",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNiyAvOPBL4m4JYz3tTz_SEup9vSAX-Mnqh3CPvQA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/10IUWZFPxLxUj1EocjHVPyUqhGoU7GtbAkyJSRIM1XG-omAv4boyZ0sjjbwgoHPGp6HwxfipHYw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bTNFrqbFdQQ", "title": "SvelteKit Unpacked! Understanding the magic behind data loading - JS Monthly London - May 2023" },
+    { "id": "UpuT8m8A2ic", "title": "An App Written in React Native - Angus Findlay & Daniel Belo Goncalves - RNL May 2023" },
+    { "id": "bTNFrqbFdQQ", "title": "SvelteKit Unpacked! Understanding the magic behind data loading - JS Monthly London - May 2023" },
+    { "id": "_YgnBr96pI8", "title": "Building Social Board Games with the GamePark API and Pusher" },
+    { "id": "xTNDa6OMI_0", "title": "Simulating Network Conditions with JavaScript - Patrick Kunka - CityJS Conf 2020" }, 
+    { "id": "lFzWAsA76DU", "title": "Accessible.JS - Jemima Abu - CityJS Conf 2020" }, 
+    { "id": "9F0Y1nCYLQw", "title": "Taiko: Reliable Browser Automation: An Introduction | Lunchtime Sessions | QA Babble - June 2020" }, 
+    { "id": "ziETMDEJdUI", "title": "Building GraphQL Servers with Prisma - GraphQL London - January 2018" }, 
+    { "id": "378nXIxGAoU", "title": "From DotNet Run to Hello World - .NET Oxford - January 2020" }, 
+    { "id": "l8CXgvKe314", "title": ".Net Core 3.1 with Raspberry Pi - .NET Oxford - January 2020" }, 
+    { "id": "OTQGqzVUCg4", "title": "PWAs & Offline Development - Bristol JS - May 2019" }
+  ]
+}

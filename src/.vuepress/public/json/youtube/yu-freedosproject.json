@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "freedosproject",
+    "name": "FreeDOS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ldg-0rzC85E_Dpa-bfafy0O8IIbeOkdGs390uu9GANBQ=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KkJccZVgo4xDsuboDxeNSmGbl3PHScdSFii81TG3_6VBb3yosjuY8H1O1ln_yG01f3kN_e9czA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V1c1PUxda6c", "title": "Writing your own file viewer" },
+    { "id": "X7r76V_gWQ8", "title": "Building MS-DOS 4.00 on FreeDOS" },
+    { "id": "Or5_4HPci1k", "title": "Using the MS-DOS 4 release to compile programs" },
+    { "id": "yj8R4UIqBrQ", "title": "I made a virtual dot matrix printer" },
+    { "id": "2h96UseZs6Q", "title": "FreeDOS running on real hardware (Pocket386)" }
+  ],
+  "playlists": [
+
+  ]
+}

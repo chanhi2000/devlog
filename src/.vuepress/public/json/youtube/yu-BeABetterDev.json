@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "BeABetterDev",
+    "name": "Be A Better Dev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNF7alsXftkJDYb9T9eP8g_ixVYOhUEACJDFbDuug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_DkMv1f8NdP7BCDRa9j7I9RV_ts0eot7ENEFCsh33fCJTy1tlGdRpaRPoxLK6qvZvZLFxyTKCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bYoSDUkNAaE", "title": "Top 4 AWS Cloud Career Mistakes You NEED to Avoid" },
+    { "id": "vIYSfscsHGQ", "title": "7 Ways to Deploy Containers on AWS" },
+    { "id": "o6vO6Z0SJG8", "title": "Forget AWS VPN, start using Zero-Trust Network Access" },
+    { "id": "f-Dvk2R6NUU", "title": "Real Life AWS Architecture - Rate Limiting, Auth & Caching" },
+    { "id": "i3DK4c_H8iY", "title": "Private S3 Bucket Makes AWS Bill Explode (FIXED)" },
+    { "id": "3FumWkHSusY", "title": "Introduction to Amazon VPC (with Console Tutorial)" },
+    { "id": "LTKnSRikBXs", "title": "Amazon States Language (ASL) Introduction" },
+    { "id": "jJ49-g337s4", "title": "Real Life AWS Project Architecture Overview" },
+    { "id": "zyT4y-rfu7s", "title": "How AWS is Making It Easier To Convert to IaC/CDK" },
+    { "id": "UxIpAuIaV1E", "title": "Top AWS Services For Backend Developers" },
+    { "id": "vQ9BUc-UmXY", "title": "AWS Lambda + Bedrock Tutorial" },
+    { "id": "pgpWyn_6zlA", "title": "AWS API Gateway Introduction" },
+    { "id": "LEcoXWK7Ch8", "title": "AWS Workspaces Setup Tutorial" },
+    { "id": "bY5X2jLLlUk", "title": "The Best Way To Search Through Logs Using AI + CloudWatch Log Insights" },
+    { "id": "MpX3SomwZF0", "title": "Make Complex Queries FASTER with Epsio" },
+    { "id": "nu6s34pPt3M", "title": "AWS AppConfig Step by Step Tutorial" },
+    { "id": "uMssqm_Cf9U", "title": "AWS Caching Solutions Introduction" },
+    { "id": "RlG0xaSlxpc", "title": "How To Resume a Step Function From a Failed State **NEW FEATURE**" },
+    { "id": "QXh2WF1EJvs", "title": "AWS Step Functions Introduction - What is it and Why is it Useful?" },
+    { "id": "LTH9m4HkeYY", "title": "How I Would Learn AWS Today (after 10 years of cloud experience)" },
+    { "id": "BNOYTbRbaFQ", "title": "Setting Up Your First Amazon Opensearch (ElasticSearch) Cluster with Free Tier" },
+    { "id": "FDEpdNdFglI", "title": "Intro to AWS - The Most Important Services To Learn" },
+    { "id": "RBbuERSRU1k", "title": "Real Life AWS Serverless Architecture Example" },
+    { "id": "Zps5mgQMPnw", "title": "How to Trigger an Event on a Timer with EventBridge Scheduler and Python" },
+    { "id": "ZWs6eR_knLc", "title": "New & Useful DynamoDB Console Quality of Life Improvements" }, 
+    { "id": "0Zs5s5F_lFc", "title": "Big Data Processing Using Distributed Maps and AWS Step Functions (S3 + Lambda)" }, 
+    { "id": "T-viaT391aQ", "title": "Top 5 Cost Optimization Tips Every AWS User Should Know" },
+    { "id": "o7s-eigrMAI", "title": "How to Setup AWS ECS Fargate with a Load Balancer | Step by Step" }
+  ]
+}

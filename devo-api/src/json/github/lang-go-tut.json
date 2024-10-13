@@ -1,0 +1,59 @@
+[
+  {
+    "repo": "inancgumus/learngo",
+    "desc": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "marcel-dempers/docker-development-youtube-series",
+    "desc": "A Collection of tools, hands-on walkthroughs with source code.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Furkan-Gulsen/turkce-go-egitimi",
+    "desc": "Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.",
+    "officialSite": "https://docs.furkangulsen.com/golang-dokumani",
+    "topics": ["go", "golang", "go-documentation", "golang-docs", "golang-docs-turkce", "go-turkce-kaynak", "golang-turkce-kaynak"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MatthewJamesBoyle/golang-interview-prep",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pion/example-webrtc-applications",
+    "desc": "Examples of WebRTC applications that are large, or use 3rd party libraries",
+    "officialSite": "https://pion.ly/",
+    "topics": ["go", "golang", "pion"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "officialSite": "https://books.halfrost.com/leetcode",
+    "topics": ["acm-icpc", "algo", "algorithm", "algorithm-competitions", "algorithms", "algorithms-and-data-structures", "dynamic-programming", "facebook", "go", "golang", "interview-questions", "leetcode", "leetcode-go", "leetcode-golang", "leetcode-solutions", "math", "pattern"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "brk0v/sre-page-cache-article",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheAlgorithms/Go",
+    "desc": "Algorithms and Data Structures implemented in Go for beginners, following best practices.",
+    "officialSite": "https://the-algorithms.com/language/go",
+    "topics": ["algorithms", "algorithms-implemented", "community-driven", "data-structures", "datastructures", "hacktoberfest", "interview", "interview-preparation", "preparation", "search", "sorting"],
+    "avatar": "https://avatars.githubusercontent.com/u/20487725?v=4",
+    "banner": ""
+  }
+]

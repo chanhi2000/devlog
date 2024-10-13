@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "rinodeboer",
+    "name": "Rino de Boer",
+    "profile": "https://yt3.googleusercontent.com/I5LLCmDo7w47wzHn3uiTcMzpNqD6MgzW12X6pXajsp6QySmQ4z37sgT6-TQnXkgx8XXEoCp7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TZzT-2RbZYSyuuEoFm-wfhnprd75vVZ1q-BywMDcDdxd9JB9UyYuyJaHPhHwN8WJu_AKKC808kA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "edIq7AZTisM", "title": "I am starting a new Web Design Business - Defining the Focus" },
+    { "id": "rrd91OK9YYI", "title": "From Figma to Elementor: A beginner friendly project" },
+    { "id": "jMrHViugMfQ", "title": "How to manage your own & client websites easily with Hostinger" },
+    { "id": "PPXEjRCZUVE", "title": "Advanced Elementor Container Tutorial: A Full Width Layout" },
+    { "id": "o7HjHMYyLw0", "title": "My thoughts on Elementor’s Image Optimizer Plugin" }
+  ]
+}

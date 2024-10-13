@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jamesquigley1713",
+    "name": "James Quigley",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOrbRRTVdMFH3zpjAsV3zPP1Wyf2wNVnc7aLd3o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Hc4g05Fg5iY", "title": "Favorite CLI Tools - All Written in Rust" }, 
+    { "id": "1xo-0gCVhTU", "title": "Introduction to Microservices, Docker, and Kubernetes" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "worlddev",
+    "name": "저세상개발자",
+    "profile": "https://yt3.googleusercontent.com/KEMbfOO6VmKL8IiT2m4znpwB3Ru3Se2-Q8SqHmDHVWPy7swmLvztF34OgqEInrtZK11TOpzg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6H_FNIDXNtsSV69ZQfX6fdhvdM3Jm3H40wNw4_4dIs8auURijpscGepIQUz5JEMcV1_U2Km2MVI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "S80t9pXsg2I", "title": "웹 개발 언어 PHP 퇴물설...." },
+    { "id": "FMt3gwWPUak", "title": "개발 언어 러스트 호들갑은 실체가 있는가...?" },
+    { "id": "JAvpTtnXdEw", "title": "요즘 전부 플러터로 앱 만드는 이유" },
+    { "id": "PHUStD85ghY", "title": "CSS를 안 배우고 익절하는 흑마법" },
+    { "id": "zaXoXYk1Bxk", "title": "자바의 악몽" },
+    { "id": "IGuDm7AMnw4", "title": "어떤 모바일 앱 개발 방식이 최고인가?" },
+    { "id": "oB8C4FcZDD0", "title": "AI 프리렌 - ChatGPT로 캐릭터 인격 만들기" },
+    { "id": "yDa6YcjTEYQ", "title": "테스트 코드는 왜 작성해야 하는가?" },
+    { "id": "UPm44AsXYCM", "title": "구글의 비밀 개발자 과제에 도전해 구글에 입사하시겠습니까?" },
+    { "id": "2_RDSLdscbE", "title": "배워야 한다고 유난 심한 Go 언어 살펴보기" },
+    { "id": "uxfHDvxkelE", "title": "리액트 네이티브의 장단점은 무엇인가?" },
+    { "id": "Y5XOpgE-O_0", "title": "독학으로 머신러닝 개발자로 입문하기 완벽 정리" }
+  ],
+  "playlists": [
+    
+  ]
+}

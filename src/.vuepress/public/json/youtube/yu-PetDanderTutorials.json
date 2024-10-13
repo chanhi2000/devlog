@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "PetDanderTutorials",
+    "name": "PetDander Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOnHeOOq_FBhflroa4WdUR1ISV_71JwaPWjGszg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/K8eTt-3nZA2yhPm84EbojN8cznl9cx6XVVggeYe_JIirVbPYWs6Zq-SCVBeAGrm8EOyJGdrv=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qfH6Y7p4J7U", "title": "C# Programming: Building Windows Form Contact List (GUI Application)" }, 
+    { "id": "5CJtjW5nXkU", "title": "Visual Basic Introduction:  Wage Calculator" }
+  ]
+}
+

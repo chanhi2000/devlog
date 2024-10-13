@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "Buff_RnBD",
+    "name": "버프",
+    "profile": "https://yt3.googleusercontent.com/buNttch62_yE1J_JCHAnqzdDW0WwRD0kWO5LxlvupKpefUOoY2fC0Y22-FagUce4cChSIi1DXQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Q1zZ8wCA3M4", "title": "목표시장은 이렇게 설정해야 됩니다 (창업 초기 사업기획 시리즈 강의 2/5)" },
+    { "id": "6cKoA-h1TcI", "title": "간단하지만 강력한 사업 기획 방법 (창업 초기 사업기획 시리즈 강의 1/5)" },
+    { "id": "SVLnyip9BEQ", "title": "사업기획에 성공하려면 고객의 요구사항을 무시해야 한다" },
+    { "id": "_IemFfABWH4", "title": "창업! 빠르게 실험하고 일찍 실패하라" },
+    { "id": "sKQq5_grKjQ", "title": "다른 산업에서 아이디어를 훔쳐라" },
+    { "id": "hKK5SudmKgY", "title": "GPT for Sheets and Docs 유료화에 맞서는 구글시트 GPT 함수 무료로 만들기 (feat. 구글 앱스스크립트 + 챗GPT)" },
+    { "id": "B8-mto6xeN4", "title": "에어테이블 & 챗GPT 콜라보 - 글생성,이미지생성,페북 포스팅까지 자동화" },
+    { "id": "Y6Gz82hXsPk", "title": "프로필사진 AI (인물사진 AI) 이보토(evoto) - 밝기 조정, 점/잡티, 턱, 이마, 머리 숱, 다크서클, 몸매 보정까지?" },
+    { "id": "U3VUjSxj0Q0", "title": "챗GPT 문서작성 학습시키기 -  강의계획서 , 사업계획서, 행사계획서, 각종 제출서류" },
+    { "id": "C8ffOh1Hzxg", "title": "에어테이블 데이터베이스 사례 - 직접 가계부 만들기" },
+    { "id": "vGQm7R6X_zY", "title": "나만의 GPTs 만들기: 보고서 작성부터 문서 분석까지" },
+    { "id": "zaXfJnDFnSg", "title": "네이버 뉴스 크롤링 (노코드로 10분 완성) - 네이버 API, 챗GPT, 구글 코랩" },
+    { "id": "dbFafqZQVo8", "title": "에어테이블 데이터베이스 사례 - 미팅 스케쥴러 만들기(base 복제 가능)" },
+    { "id": "pzpxvlIpLTc", "title": "에어테이블 자동화 - 미팅 스케쥴러 이메일 자동화(base 복제 가능)" },
+    { "id": "NeaHUXDfvB4", "title": "에어테이블 자동화 - 페이스북 포스팅 자동화(base 복제 가능)" },
+    { "id": "zaXfJnDFnSg", "title": "네이버 뉴스 크롤링 (노코드로 10분 완성) - 네이버 API, 챗GPT, 구글 코랩" },
+    { "id": "v5bLlzAymAI", "title": "에어테이블 나혼자 자동화 - 글&이미지 생성부터 페이스북 업로드까지" }
+  ]
+}

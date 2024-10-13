@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "genericapps",
+    "name": "Generic Apps",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTXB1UFAyiCqkuF1tRZkT4p0KKwN5ota-xn8o-L=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-7upt6asBqZCv38eo-uak7Uaz-TYyRgIublSzEv3Ul0pQpoqwL8Z20wWIqjwCsHVPgFBsgI9Zg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tYQ8AO58Aj0", "title": "Scoped Storage Android 33 java example | How to save image in Android using MediaStore? Tutorial" }
+  ]
+}

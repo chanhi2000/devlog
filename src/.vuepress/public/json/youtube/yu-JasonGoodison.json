@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "JasonGoodison",
+    "name": "Jason Goodison",
+    "profile": "https://yt3.googleusercontent.com/36ctqV30Up1TofXk7YVZWszgmKCo7srIz9Ofv5IYSseWXFynUlzQ2tgNcIKi_Fwepw2VnXdhFVI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ITXxKJnBrTbLx6P9DbTpvxo8E0qj3-ac5AhFO7jCWgkjKKRueNArOPf8ZGDGlpseIL-BHfOc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nhW9t_Mr7Rc", "title": "How Coding changes in 2024" },
+    { "id": "W_MYx77TkXg", "title": "Girls love Javascript" },
+    { "id": "Ry3Jkwnsj9I", "title": "Do You Have To Return Investor's Money?" },
+    { "id": "Z3KiSWTl7lk", "title": "The Broken Senior-Only Job Market" },
+    { "id": "SXjIYRih13I", "title": "Learn to code with an unfair advantage." },
+    { "id": "4ve7BkACcqI", "title": "The math you NEED for programming" }
+  ]
+}

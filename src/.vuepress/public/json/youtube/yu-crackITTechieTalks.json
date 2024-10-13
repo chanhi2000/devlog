@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "crackITTechieTalks",
+    "name": "crackIT",
+    "profile": "https://yt3.googleusercontent.com/1UsYDfB0gSqEsRr249c4Bq1lpFzx8eOE13ntu5FHllGsmHcv8RTzTqlJtGunEdVROGWeTizsuFQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "2YzyRtTBoXY", "title": "@Value Vs @ConfigurationProperties - Spring Annotations Interview Questions | Code Demo" },
+    { "id": "mFwFDTmtvmY", "title": "@Prefilter vs @Postfilter | Spring Annotations Interview Question" },
+    { "id": "ZHocWNTZXns", "title": "Spring Redis Cache | Distributed Caching with Code Demo" },
+    { "id": "daKjJmZBGgM", "title": "Access Token | Refresh Token | Id Token - What ? Why? When?" },
+    { "id": "E2JQcuGHlVg", "title": "Rest API Design Best Practices | FAQ Interview Question" },
+    { "id": "uUlv2fveXkk", "title": "Spring Batch - Process Millions of records" },
+    { "id": "5Cb601qLrjA", "title": "Resilience in Microservices - Circuit breaker | Code Demo" },
+    { "id": "fS8QY7BiDaQ", "title": "When to use HTTP POST instead of GET to retrieve data?" },
+    { "id": "4CN-s1S9dwU", "title": "How to handle exceptions in Microservices architecture? | Code Demo" },
+    { "id": "isDdylIUaOU", "title": "Design application that handles millions if requests | System Design Interview Question" },
+    { "id": "_qMSV1kFMdk", "title": "Rate Limiter | Microservices | Resilience | Code Demo" },
+    { "id": "Jen7e6mX6nU", "title": "Spring Boot 3.0 + Spring Security 6 | JWT Authentication & Authorization" },
+    { "id": "W6ktf5INsmo", "title": "Spring Boot Repository Testing | @DataJpaTest" },
+    { "id": "gfvi7o_x9Sc", "title": "How to connect multiple databases in one Springboot application?" },
+    { "id": "UM4DZdU0VPQ", "title": "What is JWT? JSON Web Token Explained !!!" },
+    { "id": "uED0m8oQTl0", "title": "Working with FeignClient | @EnableFeignClient | @FeignClient | Microservices Communication" },
+    { "id": "OoxpcIKI-gw", "title": "JWT Interview Questions - Frequently asked !! | With Code | CrackIT" },
+    { "id": "15cwfcsD3eE", "title": "Java Developer Interview | Spring boot | DB | JMS | Spring framework | Java8 | Mock Interview" },
+    { "id": "Txb0YlEVLds", "title": "Hibernate N+1 Problem Solution | FAQ - Hibernate Interview Questions" },
+    { "id": "GbM74ydcZc0", "title": "Common Spring Mistakes you should avoid" },
+    { "id": "tinUVV_pImM", "title": "Asynchronous Programming | @Async | @EnableAsync | Multithreading | Spring framework" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "anthonywritescode",
+    "name": "anthonywritescode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRvVL3lGLmE7zAvN5NXTMQIQ5yez4GkEqHT8dA-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4VLrNUhwQRXPocHZ58l8ha1S-TTTIUHwKK1ZPoeZWkOUZopAaDz0HsS6M7AY5DFp1RHFkbYbkw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cSd5GGrj2VA", "title": "using git bisect to find a bug in nodejs (intermediate) anthony explains #569" },
+    { "id": "2P20wZGsdJQ", "title": "am I vulnerable to black's CVE? (2024-21503) (intermediate) anthony explains #570" },
+    { "id": "ZG38vpkSHlM", "title": "training a custom object detection model from scratch (yolov8) (intermediate) anthony explains #571" },
+    { "id": "BoZDpQnA-Xw", "title": "adding test == others fail??? (intermediate) anthony explains #572" },
+    { "id": "_QXlbwRmqgI", "title": "typing decorators sucks! here's an easier way (intermediate) anthony explains #573" },
+    { "id": "Hgw_RlCaIds", "title": "ONE TERABYTE of RAM saved with a single line of code (advanced) anthony explains #566" },
+    { "id": "bw5AHdZA7e4", "title": "using memray to debug (and fix) a memory leak in krb5! (advanced) anthony explains #567" },
+    { "id": "XzW4-KEB664", "title": "my thoughts on ruff" },
+    { "id": "Wn3bJUzvy5I", "title": "git: inline diffs with `--word-diff`! (intermediate) anthony explains #565" },
+    { "id": "vbDziNApQ3s", "title": "I imported my pokemon collection to sqlite using cv!" },
+    { "id": "nsSj7snqODM", "title": "git: `--first-parent` (intermediate) anthony explains #558" },
+    { "id": "NZGu-9KQVsE", "title": "docker: connecting to localhost outside the container (intermediate) anthony explains #555" },
+    { "id": "OC2gnyfmwL8", "title": "python is removing the GIL! (PEP 703) (advanced) anthony explains #550" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "tino_review",
+    "name": "티노",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSFojMgb788iyhRKC-Xcv-GpBt80A2zQl0dYZyLcoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S2bdGXpHKrlAlUuuJKdQKTOiNSOu7xM1rotSm7iTTU_Lh4b-acyAUIdf0k5-DwcOxZDvK5v4NA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "s276Za6ujwU", "title": "갬성 끝판왕!! 멀티충전기 들고 왔습니다!!" },
+    { "id": "p-nKW66pNAw", "title": "2023년 최고의 테블릿!!! 레노버 리전 Y700 2세대 실사용 장단점 리뷰" }
+  ]
+}

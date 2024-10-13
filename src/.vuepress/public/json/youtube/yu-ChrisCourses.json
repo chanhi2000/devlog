@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ChrisCourses",
+    "name": "Chris Courses",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQVxe1rxUshsdP8PPNM1M6x8N0CP_XF41E5AmZbpw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wv_lySJGT25X6x7RdLWBat7rKV0jXzpM3DmGCxo8gwidLWT3I7BHxP_fjf7r3yykc_nABXyO6Lk=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lvxX2XEDA_k", "title": "Obscure but useful JavaScript - `.scrollIntoView()`" }
+  ]
+}

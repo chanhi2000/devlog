@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "user-pp5hq7vz4j",
+    "name": "락플레이스",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQLn05RLii8er6KqyoNvKTzjizYf9IggLLdqC-f=s176-c-k-c0x00ffffff-no-r",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_Bm6MZHLr-Q", "title": "컨테이너&클라우드 환경을 소화할 수 있는 CI/CD 구축 가이드" },
+    { "id": "9jSvd61NvJ4", "title": "8/31(목) 락플레이스 RHAAP 웨비나" }
+  ]
+}

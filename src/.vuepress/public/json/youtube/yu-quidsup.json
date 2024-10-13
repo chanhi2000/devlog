@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "quidsup",
+    "name": "quidsup",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZbLBCWUefSGPynFYve8QDM2EaahUdltWDQ-qxZiw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/njxHwZfpOKIVGKZ7WECslVvZnIz3KgIfNavD4s7rQKV34GvZiazHE3ut_LWosOk9Sff5ZJDMlg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UvvxmW4BKOo", "title": "How To Minify / Optimize SVG Files By Hand" },
+    { "id": "w-eQXEDutfc", "title": "BPyTop – Fancy System Monitor for Linux Terminal" }
+  ]
+}

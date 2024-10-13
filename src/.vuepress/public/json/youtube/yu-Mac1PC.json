@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Mac1PC",
+    "name": "Tech Services",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lWVYFV8LpdVgo4UhiuMj6PgGEOK_kt4QWVm0kgDNlNxilI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/caNvJyu6hzTHATxzQEaLRFZ5gUSA5VvWsuS29XKjJFR8ZKJmETDvNJ_F_FMBrO9HawRFVG-Qjg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jqKLkJz9gh0", "title": "MacBook Pro WebCam not working after LCD Screen replacement" },
+    { "id": "E0m69d3atdA", "title": "Fixed: Windows 11 stops responding to mouse inputs at initial setup. on new computer." },
+    { "id": "wVTOjHFZIl0", "title": "WiRanger Wireless USB a good idea but unusable, very limited." },
+    { "id": "XS35lcDUXr8", "title": "How to quickly get rid of Apple MacBook or iMac annoying notifications" }
+  ],
+  "playlists": [
+
+  ]
+}

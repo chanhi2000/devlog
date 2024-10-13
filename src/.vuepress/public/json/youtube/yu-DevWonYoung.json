@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "DevWonYoung",
+    "name": "데브원영 DVWY",
+    "profile": "https://yt3.googleusercontent.com/kFmxWPKySyVVHd7AXhGsppgDbHtIEEkveJHHDZKE3eSjQkWxiypAMqCwD0N5-s-4sGbvtoBO0Jk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pk_2CG0sPe6SAtdtmCyVDXxD6hTKycYAFensO3l2zBMs2ym3SAcEsjOFLxSQ2S-WB3M4ASKT=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "42qNvvzh1TY", "title": "개발자가 말하는 소프트웨어🖥️ 특허 출원! 특허에 대한 권리와 기준에 대해 알아봅시다" },
+    { "id": "d_PaalNcLm8", "title": "아파치 카프카에서 정확히 한 번(Exactly-once)처리하는 방법에 대해서 알아봅시다" }, 
+    { "id": "GsFcQVBwmho", "title": "파이썬으로 이벤트 드리븐 아키텍처를 만드는 방법 | Event-driven microservices with Python and Apache Kafka" }
+  ]
+}

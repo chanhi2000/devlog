@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "gbjxc",
+    "name": "Greg Johnston",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNjpbKsz4fpkYqg9d_bJ-Gr5VwL1kPGyToFbNFKOQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GWB3vTWeLd4", "title": "Learning Leptos: Build a fine-grained reactive system in 100 lines of code" }, 
+    { "id": "4KtotxNAwME", "title": "The Truth about Rust/WebAssembly Performance" }
+  ]
+}
+

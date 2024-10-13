@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "umarjamilai",
+    "name": "Umar Jamil",
+    "profile": "https://yt3.googleusercontent.com/EAYVQ6Z0UciYuy9sTpMkyhm4RaCnUyq_gheSUg_DoqQbS-NZmlg7CJy-CQga9U34cmIGySzM8A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hvGa5Mba4c8", "title": "Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math" },
+    { "id": "bCz4OMemCcA", "title": "Attention is all you need (Transformer) - Model explanation (including math), Inference and Training" },
+    { "id": "qGyFrqc34yc", "title": "Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code." }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "HighPerformanceProgramming",
+    "name": "High-Performance Programming",
+    "profile": "https://yt3.googleusercontent.com/QZQYKBlhtws8xLG74nlwdMs5nFudyvBjQ9_RkgXhbOxgZs4AVBuU9-VQXQ2WBFrXTeMetFft=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "olfaBgJrUBI", "title": "Design a Payment System - System Design Interview" }
+  ]
+}

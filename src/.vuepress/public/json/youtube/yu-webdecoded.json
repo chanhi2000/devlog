@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "webdecoded",
+    "name": "webdecoded",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa7gukQX5cToJczaWnzihSJEJcIw3uLmvwRiu6A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Oyd7pND0RYE", "title": "Build a Full-Stack Quiz AI Application - Next.js, Drizzle, TypeScript, Stripe, OpenAI (2024)" },
+    { "id": "UHx6-p_Touc", "title": "Drizzle ORM Tutorial - Queries, Mutations, Joins [Drizzle Crash Course 2024]" },
+    { "id": "2_BZ5yqlSbs", "title": "React Tutorial - Build & Deploy Developer Portfolio Website (Beginner Friendly) 2024" },
+    { "id": "EetWQhsXFjo", "title": "This new Next.JS feature changes how pages are rendered - NextJS 15 in 10 minutes" },
+    { "id": "IkRJtnSYIJA", "title": "React Tutorial - How to Update Navbar Styles on Scroll" },
+    { "id": "EYD1EAvPhWY", "title": "Build a SAAS Landing Page -  React Tutorial with Tailwind" },
+    { "id": "WlR1p8DCdNY", "title": "React Hook Form Tutorial -  w/ Zod Validation, Form State, Controller" },
+    { "id": "92QqWVB6GNg", "title": "Vector Databases and Embeddings w/ Langchain - Build a Summarization Tool" },
+    { "id": "h3s47owx8io", "title": "Cn, twMerge, clsx, cva - Write Clean Tailwind Code with these utility functions" },
+    { "id": "qDRQ2EaWsNM", "title": "Authentication with Next Auth V5 and NextJS 14 [EASY] - API Routes, Server & Client Components" },
+    { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },
+    { "id": "zzWypOl4JkY", "title": "Fullstack AI Form Builder Tutorial with Next JS, TypeScript, Drizzle ORM, React, OpenAI, Stripe" },
+    { "id": "2ss1FcM0st8", "title": "Must-Have VS Code Extensions for React Developers (2024)" },
+    { "id": "-cV51fGc5lg", "title": "STOP using Passwords: How to use Magic Link for Auth in NextJS Instead" },
+    { "id": "SgucQjxPs4s", "title": "Fetch vs Axios: Which one is Better for your Next React Project #reactjs" },
+    { "id": "t7AOq4m-J0k", "title": "I Built Git(in JavaScript)" },
+    { "id": "xkXgqoTyye4", "title": "Deploy Your Next.js App Like a Pro: A Guide to Self-Hosting your Next App" },
+    { "id": "Kb1f5bvF6f4", "title": "NextJs Portfolio Tutorial - Build a Responsive Portfolio Website w/ Advanced Animations (2023)" },
+    { "id": "hYv6BM2fWd8", "title": "React Project Tutorial: Build a Responsive Portfolio Website w/ Advanced Animations" },
+    { "id": "7ZwTf-Z5dco", "title": "NextJs Tutorial - Build a Full-Stack Blog App w/ TypeScript, Tailwind, Neobrutalism-inspired" }
+  ],
+  "playlists": [
+    
+  ]
+}

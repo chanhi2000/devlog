@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TheEarthIsSquare",
+    "name": "The Earth Is Square",
+    "profile": "https://yt3.googleusercontent.com/w6Fj064Wdj8KoEcakptiefQk3zhbjsYY8a2OSFhIrs_M0RyTtWCziZ0a2tjdWhPQp5P7E-oEog=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DYYItti_Z_rkmNlCKvzwLjGux39rT-MKG_c3M1O67h7OPPjMRuoL04i-ME43-8Hsv9iy5y3pfPg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZqgiuPt5QZo", "title": "Vue 3 Tutorial for Beginners - FULL COURSE in 3 Hours" }
+  ]
+}

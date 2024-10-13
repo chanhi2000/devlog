@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "TheCodingPapa",
+    "name": "The Coding Papa 더코딩파파",
+    "profile": "https://yt3.googleusercontent.com/b7xdeW2nZG-Vea_34Vz0FvcXHXDQ5ucjV9z9qoui5Ed3G7aF7AkXJntP3c0xxGiMs-kuBV8ZXg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UZl_Y5ksPFY6C7u4rXUDkKcaYQcxXOkJlYESvkSCzKhBoDit6Iu7B4KI8Ro2gNgmS_mYy-nlnw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "p-Oq9FGiDms", "title": "구글을 퇴사하는 이유 #더코딩파파" },
+    { "id": "nwFO7SaYtdo", "title": "[유료 강의 무료 공개] 제작부터 출시까지 한 번에! 인스타그램 클론 만들어보자" },
+    { "id": "L7kMNvkn5Es", "title": "GPT API 버리고, Gemini 사용하니 챗봇 너무 간단! Generative AI API by Google" },
+    { "id": "lX3vO4voK5k", "title": "프로그래머 진짜 사라질 수도… 우려하던 세계 최초 AI 프로그래머 탄생…  #더코딩파파" },
+    { "id": "3qvQnj92Tik", "title": "[뭐?! 연봉 7억?] AI 콘센트 뽑는 직업이 있다고?! #더코딩파파" },
+    { "id": "9N6HlDCW7qI", "title": "코딩할 때 이 폰트를 사용해보세요: 프로그래머의 선택" },
+    { "id": "i9B7xd48QTY", "title": "Flutter iOS 앱 배포 2023 | 애플 앱 스토어" },
+    { "id": "53bz4RYMO5Y", "title": "Provider는 사용법에 따라 천자만별" },
+    { "id": "vVHEHutcC7E", "title": "코드 나눌 때 widget만 사용해야 되나.." },
+    { "id": "w1fmJOSsNyA", "title": "[ 7시간 | 코딩기초부터 고급까지 ] Flutter 강의 with Provider 그리고 Firebase | Login page | 로그인 페이지" }, 
+    { "id": "o7sB_zfhAys", "title": "💯 Dart언어 고급 강의(2) #Dart박살 #Dart언어 #더코딩파파" }, 
+    { "id": "ikV-Ub9XgO4", "title": "Provider없이 앱을 만들면 힘들지... #상태관리 #flutter #더코딩파파" }, 
+    { "id": "Gy0B0XwUzJA", "title": "[2021] 모바일 앱 기초 by Flutter" }, 
+    { "id": "hL_G8aOQHJs", "title": "역시 모바일앱은 애니메이션이 짱이내! [Rive, Flare, Flutter, Bottombar]" }, 
+    { "id": "nRsxWt3BWzM", "title": "Dart언어 한시간만에 건너뛰기 ⭐⭐⭐⭐⭐" }, 
+    { "id": "3JMjR_ahT44", "title": "Flutter 설치 | Mac OS편 ⭐⭐⭐⭐⭐" }, 
+    { "id": "2iWJRAcEsaQ", "title": "Flutter | 플러터 입문 강좌 - 고급 스킬 포함(Bloc, Stream)" }, 
+    { "id": "CdWKUFqy0W8", "title": "코딩 효율 10배 강의#chatgpt #프로그래머 #코딩" }
+  ]
+}

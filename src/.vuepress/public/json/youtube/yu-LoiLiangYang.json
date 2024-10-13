@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "LoiLiangYang",
+    "name": "Loi Liang Yang",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbokZbl4RUfeji3-wUC37ZHfNiwQKOo_EK1JTs143Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/74liQqmwpA3jcWD4Zk_DoYym-FqveCKmDbkOAmmgayh6BDSaSBgZAlkSFTHwp6bEMxArTidlFg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "09puahSYN1M", "title": "How Hackers login to any websites without password?!" },
+    { "id": "PCXkYY-8cUY", "title": "How Hackers Hack Websites Usernames and Passwords?!" },
+    { "id": "FyM-pZVMxKs", "title": "Remotely Control Any PCs with this FREE software!" },
+    { "id": "IU4OKfWTIQo", "title": "Remotely Control Any PC with an image?!" },
+    { "id": "INJy5tLGkzA", "title": "how hackers hack any website in 8 minutes 6 seconds?!" },
+    { "id": "odC720S63Fw", "title": "Simple Penetration Testing Tutorial for Beginners!" },
+    { "id": "HqMArRoIP5A", "title": "how to Install Kali Linux into Raspberry Pi 5!" },
+    { "id": "mMoJQDWP9qI", "title": "Simple Penetration Testing Tutorial for Beginners!" },
+    { "id": "e8KZTCM2B8Q", "title": "How Hackers Bypass Two-Factor Authentication (2FA)?!" },
+    { "id": "8rcMhYNtDPg", "title": "Remotely Control PCs with Reverse Shells!? Easy hacker tool" },
+    { "id": "GyIEZRFX2Zk", "title": "HOW TO RESET Administrator PASSWORD and Unlock any PCs?!" },
+    { "id": "BV5iXRXFYnE", "title": "Remotely Control Any Phone and PC with this Free tool!" },
+    { "id": "BmksHoxNqCw", "title": "Best Free Windows Remote Access Tool!" },
+    { "id": "LTMucsu35dk", "title": "NMAP Tutorial for Beginners! Network Attacks" },
+    { "id": "bCP8_WYsvP4", "title": "Cross Site Scripting (XSS) tutorial for Beginners" },
+    { "id": "beyiG5uVc40", "title": "remotely control any PC with a shortcut file?!" },
+    { "id": "_uVVVV_nIhE", "title": "pro hacker teaches you how to bypass this!" },
+    { "id": "H6dgqTpAtkk", "title": "pro hacker teaches you how to bypass this!" }, 
+    { "id": "n4UZZsTIlVA", "title": "AWS IAM Roles Anywhere Full Tutorial" }, 
+    { "id": "cx6Xs3F_1Uc", "title": "SQL Injection For Beginners" }, 
+    { "id": "lwlA8pGZBYM", "title": "Invoke Mobile App Activities From ADB - Mobile Application Penetration Testing" }, 
+    { "id": "iBsGSsbDMyw", "title": "Network Intrusion Detection Systems (SNORT)" }, 
+    { "id": "qC91ppRThSs", "title": "QRadar Community Edition Install" }, 
+    { "id": "-GC-Yzt7g90", "title": "Reset Password on Windows 10 Without Logging In (Cybersecurity)" }, 
+    { "id": "q08Ygep5fKw", "title": "Access with Weaponized Windows" }, 
+    { "id": "xQyTQeOpV1s", "title": "Android Remote Access from Web Browser" }, 
+    { "id": "98J5PF9BuoE", "title": "Scan for Network Devices with Bettercap on Kali Linux (Cybersecurity)" }, 
+    { "id": "L5Ad4lWdbSo", "title": "Access Windows 10 With Empire Framework via Powershell" }, 
+    { "id": "R25aiqpeWPU", "title": "Windows Fake Logon Screen!" }, 
+    { "id": "5FYt4bGo8VM", "title": "how to Run Kali Linux in the cloud! (An AWS Tutorial)" }
+  ],
+  "playlists": [
+
+  ]
+}

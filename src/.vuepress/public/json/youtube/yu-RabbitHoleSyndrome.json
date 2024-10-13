@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "RabbitHoleSyndrome",
+    "name": "Rabbit Hole Syndrome",
+    "profile": "https://yt3.googleusercontent.com/CxykNzM4ceTt6zhW4_V-q13ZdKKepCLzJdiu6U8-rZDz6OzPhJQmfqIZCDIxeXdzCiNCNEz0pA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rmi2v6OXvaw2cydfpR2HCXr9-c7nTj3nBfBK28AXAJrZaANBH9bX2QS0Ieg5agMZqblO6oSL=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QdDoFfkVkcw", "title": "$0 Embeddings (OpenAI vs. free & open source)" },
+    { "id": "Yhtjd7yGGGA", "title": "ClippyGPT - How I Built Supabase’s OpenAI Doc Search (Embeddings)" }
+  ]
+}
+

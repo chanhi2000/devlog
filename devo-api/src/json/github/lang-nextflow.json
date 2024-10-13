@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "nf-core/modules",
+    "desc": "Repository to host tool-specific module files for the Nextflow DSL2 community!",
+    "officialSite": "https://nf-co.re/modules",
+    "topics": ["dsl2", "modules", "nextflow", "nf-core", "nf-test", "pipelines", "workflows"]
+  }
+]

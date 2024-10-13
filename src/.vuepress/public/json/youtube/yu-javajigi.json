@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "javajigi",
+    "name": "박재성",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPKVzBc4Od1GX1RY-6iARvfmRxz7nTwT8yZpBOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zMyOFHIbcL7-tKlljY4PgYa8vNrtEGVnFZ4e10wgkn08pC1-MD3rqB0IMm5U3tXsdIA3EVhO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sUdH_DuDr14", "title": "1-1.  Spring Boot 로컬 개발 환경 세팅" }, 
+    { "id": "_uclvwOzgDY", "title": "`docker`를 활용한 서버 실습 환경 구축" }, 
+    { "id": "2cJnTnBkKac", "title": "`docker` 2.  ubuntu  한글 버전 빌드 및 자바 설치" }, 
+    { "id": "E8cdA6ORbSM", "title": "`docker` 4.  Docker에 내가 구현한 소스 코드 배포하기" }, 
+    { "id": "_lM9uotAOmk", "title": "`docker` 3.  `Dockerfile`을 활용해 나만의 Docker 이미지 만들기" }, 
+    { "id": "bwA0fkIKjug", "title": "6-7.  쉘 스크립트를 활용한 배포 자동화" }, 
+    { "id": "OQ9lAkBy7_E", "title": "github의 gradle 프로젝트를 STS(또는 eclipse)로 import하는 방법" }, 
+    { "id": "lpoN8kN4d5k", "title": "`gradle wrapper` 필요성 및 `gradle wrapper` 기반 프로젝트 생성" }, 
+    { "id": "yTNZUWI5HpA", "title": "DAO Test에서 Transaction 기능 활용" }, 
+    { "id": "U_F-eNo3uM0", "title": "`docker` 1. `docker container`를 실행하기 위한 환경 설정" }
+  ]
+}
+

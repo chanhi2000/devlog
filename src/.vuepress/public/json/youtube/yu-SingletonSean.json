@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "SingletonSean",
+    "name": "SingletonSean",
+    "profile": "https://yt3.googleusercontent.com/3DsKpKIEM7ezR6gzKqr3klSt-tkQTXviAHlSsIGq8PdcDOQTyXlDAaPLsukGwL1QFvKN653_2EU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hjXkD_dyYrdi4Dyocs0acb6-kRIRKRvlb1obi_fqQIpZMvBKlSGi8ukrF4DNFr4jsHlusHnP=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H6RZZlgyqMA", "title": "Is Your MAUI Application UI Responsive?" },
+    { "id": "M2eZYsKBzV8", "title": "Contributing To Open-Source For The First Time" },
+    { "id": "yNUgxojMmek", "title": "Publishing - MAUI CI/CD TUTORIAL #1 (Windows)" },
+    { "id": "BSQhRo6pEco", "title": "Certificate Signing - MAUI CI/CD TUTORIAL #2 (Windows)" },
+    { "id": "QKJ1fmvNs3A", "title": "Versioning and Releasing - MAUI CI/CD TUTORIAL #3 (Windows)" },
+    { "id": "IzfkpoXtP3o", "title": "Automatic Updates - MAUI CI/CD TUTORIAL #4 (Windows)" },
+    { "id": "LpsHhCqCElQ", "title": "Automatic Versioning with Changesets - MAUI CI/CD TUTORIAL #5 (Windows)" },
+    { "id": "3DQMQ9Vuk0c", "title": "Setup Authentication in .NET MAUI (feat. Firebase Authentication V4)" },
+    { "id": "DpghF7b2LB0", "title": "Accidentally Building the Greatest .NET MAUI Meta-Framework" },
+    { "id": "QVF-ex18gHo", "title": ".NET MAUI fixes one of the most ANNOYING issues in WPF" },
+    { "id": "5CgSMMVRvQ0", "title": "I Hope You’re Extracting MAUI Components" },
+    { "id": "V0LawqX9gYM", "title": "How to Create Custom Code Snippets in Visual Studio (feat. MAUI Bindable Properties)" },
+    { "id": "LHOigHc6jmg", "title": "I’m So Glad MAUI Has XAML Style Classes" },
+    { "id": "54ZmhbpjBmg", "title": "Build a WPF MVVM Application - START TO FINISH TUTORIAL" }
+  ]
+}

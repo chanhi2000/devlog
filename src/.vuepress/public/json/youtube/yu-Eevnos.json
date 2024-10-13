@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Eevnos",
+    "name": "Eevnos",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNDTSwGhz0tYAzBS5fDE0xILyEEN2csimP7GvPt3g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v3ZDkqZ4YgFwkPclElupFh3tKTvrulWfirGPT_k-mLbyJqensoW8b8A7L_0IxBu2YpKMhNLCJw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zC7NBDOp3Ws", "title": "How to use iMessage on Windows, Android, Linux and Web" },
+    { "id": "9RWTAKu9YuE", "title": "2012 MacBook Pro with Sonoma" },
+    { "id": "7sz0Red_HN4", "title": "How To Install Ventura on a 2012 MacBook Pro" }
+  ]
+}

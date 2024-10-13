@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "jointmathematicsmeetings8429",
+    "name": "Joint Mathematics Meetings",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mWt6wJ2BdWdiNZFHUxHJj551494jcVE0PWFXTu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BTJHSII4aBwN-OVjlliddmuJ3bw0kJne-nfDYnKrVmMwDxjPkxJeqk4wZwrHNoQ4hkPXHyMP=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EEwBiS6v768", "title": "Stephan Ramon Garcia \"Fast Food for Thought: What Can Chicken Nuggets Tell Us about Linear Algebra?\"" },
+    { "id": "T-_Llx_e4gk", "title": "Kimberly Sellers \"Dispersed Methods for Handling Dispersed Count Data\"" },
+    { "id": "qAuLxNZPIQ4", "title": "Yvonne Lai \"(Why) To Build Bridges in Mathematics Education\"" },
+    { "id": "Gm9BGYy-ok8", "title": "Sylvester James Gates, Jr \"What Challenges Does Data Science Present to Mathematics Education?\"" },
+    { "id": "x3oxoTQCVvU", "title": "Trachette Jackson \"Mobilizing Mathematics for the Fight Against Cancer\"" },
+    { "id": "BEkL-dMOCpI", "title": "Suzanne L. Weekes \"Mathematics in (and for) the Real World\"" }
+  ]
+}

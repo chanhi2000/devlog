@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "logandihel",
+    "name": "Logan Dihel",
+    "profile": "https://yt3.googleusercontent.com/n327TE3tGO29r3WTJkVXcx00KYmXpZUKtKeHDQfSynb2_xNDephh5FKapnjz0lMjEkIdxRbPHI0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mIWqtExc5NbnfpsTYce7nXdGN93ZtOa0HZIomSSskUHKaYCTLbT5YAsEZgme3IxYgmZ-33zCcA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HaQwLfKOvKI", "title": "Model + Simulate Spring Mass in Python" }
+  ]
+}

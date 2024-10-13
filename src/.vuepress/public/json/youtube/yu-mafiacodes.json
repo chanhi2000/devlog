@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "mafiacodes",
+    "name": "Mafia Codes",
+    "profile": "https://yt3.googleusercontent.com/k5yDx_vESceAAG9FuA4H1qDzdadUOuWRRDTXi5mPqAS8GjP7bqBlGVvq2OhJcs2zVKT3B7Fy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9q9O7iXCWP3sASZqbBWICiBmSKSBm8_0VA0LziYZ6z_7OGvhVojJnHqySr4OyaL7M4xQ_6pNwg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j-iCF3dgAD8", "title": "Secrets of AWS S3 Bucket Signed URLs: Boost Security and Control Access Like a Pro!" }, 
+    { "id": "AuLg79Th3xE", "title": "You won't BELIEVE what I just did with TanStack's React Tables!" }, 
+    { "id": "4BJMq1yxCOs", "title": "Complete Next-auth tutorial, including global authenticated page component." }, 
+    { "id": "fSD2wa81evA", "title": "Lottie Animations | animations made simple | Android" }
+  ]
+}

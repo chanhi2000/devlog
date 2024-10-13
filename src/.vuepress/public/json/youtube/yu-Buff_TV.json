@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "Buff_TV",
+    "name": "버프TV",
+    "profile": "https://yt3.googleusercontent.com/buNttch62_yE1J_JCHAnqzdDW0WwRD0kWO5LxlvupKpefUOoY2fC0Y22-FagUce4cChSIi1DXQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "cGQjLCK2dT0", "title": "챗GPT를 활용하여 네이버 뉴스 본문 크롤러 만들기" },
+    { "id": "665aN8Tbbss", "title": "문성생성 자동화 (수료증, 견적서, 계약서, 출입증) - feat. 구글 슬라이드 템플릿, 구글 시트 명단" },
+    { "id": "oxozkWnz1ho", "title": "AI로 숏폼 영상(숏츠) 만들기(Vrew 브루, 챗GPT, 달리3, 미드저니)" },
+    { "id": "-Ye4LfJGPVU", "title": "GPT-3.5 vs GPT-4 아주 자세한 비교" },
+    { "id": "ujmYcrYFKZk", "title": "문자, 이메일 발송 자동화 - 에어테이블과 메이크(Make) 연동, Gmail API 연동" },
+    { "id": "tds9fWKhK_g", "title": "Airtable + Make 이메일 자동화 (지메일 보낼 때 파일 첨부하는 방법)" },
+    { "id": "ZBAmhZ8ekLM", "title": "스테이블디퓨전 PC 설치 - 진짜 파일 하나만 받으면 끝납니다." },
+    { "id": "46CnqQXg_wY", "title": "건설산업 현장 안전 진단 GPT" },
+    { "id": "aT60KJ8uL1Y", "title": "스테이블디퓨전 PC 버전 설치(딱 6분 영상 끝) - 더 이상의 자세한 설명은 생략한다." },
+    { "id": "V30Vkf2aFfc", "title": "AI 아바타 만들기 + 강의, 발표 영상 만들기" },
+    { "id": "GA7A1if3qD4", "title": "문자, 이메일 발송 자동화 - 에어테이블과 재피어(Zapier) 연동" },
+    { "id": "vCf0QxyEtKQ", "title": "ChatGPT Team plan 가입했습니다. 특장점 Top3와 요금제 분석" },
+    { "id": "UryKWuFmCJ4", "title": "연구개발(R&D) 분야에서의 GPT & AI 활용 방법 Top 7 (연세대 의대 심포지움 발표 영상)" }
+  ]
+}

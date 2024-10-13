@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "IntelFPGA",
+    "name": "Intel FPGA",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYH-yzIIjuNU2Ij5RQ4XO8EsPvJfBptB5mtul6U3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OZQTv6Ipibga_PEW7MXhj3BG6GiZV0khmxaLaGAW2K968Kf9TCz25qwcG9hIvRtw9Vt4bhBb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XSKkRbZAWRw", "title": "Intel® Simics® Simulator for Intel® FPGAs Command Line Interface" },
+    { "id": "q43qXxlcQnE", "title": "使用英特尔® oneAPI工具套件优化FPGA设计入门" },
+    { "id": "OwKMlX_gHEs", "title": "Nios®V Software Development Flow with Ashling* RiscFree* IDE for Intel® FPGAs" },
+    { "id": "pE-9rIhSjJA", "title": "Intel® Hyperflex™ Architecture overview" },
+    { "id": "Uf-8h-bVFSI", "title": "Introduction to Hyper-Retiming" },
+    { "id": "2Sym26y3v7Y", "title": "Using Fastforward Compile for the Intel® Hyperflex™ Architecture" },
+    { "id": "2hgz1ZbamBI", "title": "Introduction to Hyper-Pipelining" },
+    { "id": "djXRcA_xtws", "title": "Intel® FPGA Power and Thermal Calculator for Intel FPGAs" },
+    { "id": "mM0zJxQ3OzE", "title": "Intel® Hyperflex™ FPGA Architecture Design: Analyzing Critical Chains" },
+    { "id": "TRDs0mDLbcM", "title": "Nios® V/g Processor Custom Instructions" },
+    { "id": "aDUlcxncycM", "title": "Using FPGAs with the Intel® oneAPI Toolkits" },
+    { "id": "9eW09IV414k", "title": "Introduction to Optimizing FPGAs with the Intel® oneAPI Toolkit" },
+    { "id": "p4iOIgrHX30", "title": "Intel® Quartus® Software – Introduction to Scripting - Part 6 of 6" },
+    { "id": "nagN5oLZeNo", "title": "Intel® Quartus® Software – Design Entry - Part 2 of 6" },
+    { "id": "iYcZCx5XmtA", "title": "Intel® Quartus® Software – GUI Introduction - Part 1 of 6" }
+  ]
+}

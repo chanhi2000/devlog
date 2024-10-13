@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "LearnOpenCV",
+    "name": "LearnOpenCV",
+    "profile": "https://yt3.googleusercontent.com/M0L8tIhPOV5sSch22_IEPkh2Ehu9MN1TqS56WU2PMLYl_-H0gLzU6zMZgN0QqNCNk2SZKfvl7t8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u6HYYiz2MyE", "title": "Fine Tuning T5 for Stack Overflow Tag Generation" },
+    { "id": "KsC0dVJgnMs", "title": "Text Summarization using T5: Fine-Tuning and Building Gradio App" },
+    { "id": "rsi2TROixFc", "title": "Detect Home Intruders with OpenCV and Gradio" },
+    { "id": "ygTCAt2a-fE", "title": "Exploring Automatic Driver Assistance Systems (ADAS): Advancements and Impact" },
+    { "id": "vW5H69scGac", "title": "Annotating Images with OpenCV: A Step-by-Step Guide" },
+    { "id": "BA00xTv5-Z4", "title": "Image Thresholding in OpenCV" },
+    { "id": "XsbNUeAZmqI", "title": "Mouse and Trackbar Functions in OpenCV | OpenCV Tutorial" },
+    { "id": "Qz0AJjGGMbM", "title": "Mouse & Trackbar Functions using OpenCV" },
+    { "id": "rAOtQZsrmgE", "title": "YOLOv9: Advancing the YOLO Legacy" },
+    { "id": "onoPBDAB3ps", "title": "Deciphering LLMs: From Transformers to Quantization" },
+    { "id": "qapu53dL8bU", "title": "Image Resizing with OpenCV - Tutorial" },
+    { "id": "OkBfpY0dXCY", "title": "OpenCV Simplified: Read, Display & Write Images | Beginner's Guide" },
+    { "id": "o0KDTwa0cR0", "title": "Image Filtering with Convolution in OpenCV" },
+    { "id": "1xKzlGS0DF4", "title": "Image Translation and Rotation Using OpenCV" },
+    { "id": "sbfbw0Th3bg", "title": "Image Rotation & Translation using OpenCV" },
+    { "id": "kt2ygRlngN8", "title": "Reading and Writing Videos using OpenCV" },
+    { "id": "J1KGGsvxY0w", "title": "Edge Detection Using OpenCV Explained." },
+    { "id": "5ilvmXjtkX8", "title": "Blob Detection in OpenCV & Python: A Comprehensive Guide" },
+    { "id": "FKIn_UIsXy4", "title": "Contour Detection using OpenCV: A Comprehensive Guide" },
+    { "id": "bHR88Ug7K8Q", "title": "Fine-Tuning BERT using Hugging Face Transformers" },
+    { "id": "w4TW5j0Wt1c", "title": "YOLO-NAS Pose: A Leap in Pose Estimation Technology" }, 
+    { "id": "73gPZXxUHO8", "title": "YOLOv8 Model Comparison & Fusion: Global Wheat Data Challenge | KerasCV" },
+    { "id": "vCT5rFrERaI", "title": "Training YOLOv8 with KerasCV on Custom Traffic Light Dataset: Object Detection Mastery" },
+    { "id": "tzyNRR9bJV8", "title": "Convert Video Lectures to Slides with OpenCV: Frame Differencing & Background Estimation Explained" },
+    { "id": "ZxA5qAy2yoI", "title": "Install OpenCV on Windows in 2 minutes (C++)" }
+  ]
+}

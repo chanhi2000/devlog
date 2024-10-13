@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "DavesGarage",
+    "name": "Dave's Garage",
+    "profile": "https://yt3.googleusercontent.com/5L93CQxZo-_EhDIqIG6KdRMkJ2YBYpusQ8gL3awif3JmRLEJJYPM2bP7M-8TGcfnN2GyVlOWC2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KsBgdgUo4NHiy-Bu0S8jB8l8yhOLgutuWberlDXRuDHLzl25MQrdUhBfL0R16vaR99oCBlqmOg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4j0yI41e0j4", "title": "How Creating ZIPFolders for Windows almost got me FIRED from Microsoft!" },
+    { "id": "D82C7JS_2iw", "title": "Docker vs VM:  What's the Difference, and Why You Care!" },
+    { "id": "LrzBKkxGLK4", "title": "Windows SUDO Now Available in 24H2 - Not Windows 12 - New Features!" },
+    { "id": "BR6F0EdyulA", "title": "MS-DOS has been Open-Sourced!  We Build and Run it!" },
+    { "id": "OsK0pkGEHg0", "title": "Building the Ultimate WiFi Driveway Alert System w/ code and parts!" },
+    { "id": "gHsJP5br_ok", "title": "How the amazing technology behind ARGB LEDs works" },
+    { "id": "49PhEUZVjzQ", "title": "DNS Demystified: Everything You Should Know for Faster Internet!" },
+    { "id": "EuSMCWu02hA", "title": "World Record: Tempest High Score!" },
+    { "id": "XT6t2L3SVM8", "title": "I Bought the HEAVIEST Computer on eBay: The PDP-11/34!" },
+    { "id": "ZbhGE5MXAEI", "title": "Add WiFi to ANY Device: The World's WORST Portable Computer!" },
+    { "id": "fr4Q6CF0E_8", "title": "I Worked on the Windows Start Menu!" },
+    { "id": "m6O6CLgWiRM", "title": "1000W CPU:  The Most Powerful Desktop Processor" },
+    { "id": "DwSxddokmAk", "title": "New C++ Tricks for Our Old Truck: Sequential LEDs" },
+    { "id": "ivPptt3Ae5o", "title": "Top 10 Things You Must do to Secure Your Home LAN" },
+    { "id": "U6eb2pfTACc", "title": "Windows War Stories: Why is there a dollar bill on my corkboard?" },
+    { "id": "dTUvlFfThPw", "title": "OPNSense: Protect Your Home LAN With a Transparent Filtering Bridge with Step by Step Instructions" },
+    { "id": "uRlxN0_zVHo", "title": "Understanding the Linux Backdoor:  Implications for Open Source [When Penguins Cry]" },
+    { "id": "N1_I_ZKd2JQ", "title": "Task Manager Author reacts to Task Manager Cartoon!" },
+    { "id": "Djeir8s-YMc", "title": "How VFDs Work and How to Add a VFD Monitor to your PC" },
+    { "id": "8-VZoXn8f9U", "title": "C++ Super Optimization: 1000X Faster" },
+    { "id": "H5hsMh99dAc", "title": "Save Money by Buying a Mac Pro!" },
+    { "id": "9fLwFKGvmAY", "title": "VLANs: How to Protect Your Wifi and LAN" },
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager (E01)" },
+    { "id": "-vJQv4rgHYE", "title": "The Minds Behind Windows: Raymond Chen" },
+    { "id": "Fn96IM9mydI", "title": "Ultimate Guide to Virtualization: Run MacOS, Linux, and Windows all at once on the same machine!" }, 
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager (E01)" },
+    { "id": "1YGD94lSor8", "title": "The Windows Source Code Revealed: Task Manager" },
+    { "id": "IrGjyfBC-u0", "title": "Master Pointers in C:  10X Your C Coding!" }, 
+    { "id": "Ve95Nh690l0", "title": "Inside Task Manager with the Original Author" }, 
+    { "id": "CR7i1UfBtQM", "title": "Does Windows have Back Doors?" }, 
+    { "id": "HrDovsqJT3U", "title": "Behind the Windows Start Menu - Insider Secrets" },
+    { "id": "xi1Lq79mLeE", "title": "The Mind Behind Windows: Dave Cutler" },
+    { "id": "2bVhyB7Av8s", "title": "Coding Graphics in C: SetPixel, LineDraw, Moire and More!" }
+  ],
+  "playlists": [
+
+  ]
+}

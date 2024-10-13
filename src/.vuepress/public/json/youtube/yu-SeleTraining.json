@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "SeleTraining",
+    "name": "Sele Training",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRKlqvMuSUvjLsXpznoBNNWvTA_x_Gy1k6u2Lgs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PT6HYjmQg7iioarQ61tf4wWmRstaCGjNX8cwQBpUhBONjERei29lrt3S6_sjlDw5mdTkY9pgbw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XNcKDhuMNW8", "title": "Mastering Excel in 2024 - New Functions!" },
+    { "id": "W82NEOBnIP4", "title": "Mastering Excel in 2024 - Best Time-Saving Tips" },
+    { "id": "cPD2Wth2wkg", "title": "Top 5 PowerPoint Free Add ins" }
+  ]
+}

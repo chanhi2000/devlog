@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "user-io1lo4zs8n",
+    "name": "유영준",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbTxNUuVE0sM8sZj8pWziNbUnHdKg6N_LsYvJ3qobvS0g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "K6LMNWnduTg", "title": "수업45일차 4차 미션1" }, 
+    { "id": "97BdqJz-VZA", "title": "수업45일차 4차미션2" }, 
+    { "id": "iMHDg3PBPuY", "title": "수업36일차 프로젝트 미션2" },
+    { "id": "qfXReXwf3MA", "title": "수업38일차 프로젝트 2차미션2" },
+    { "id": "h70Mrrehgbg", "title": "수업38일차 프로젝트 2차미션1" },
+    { "id": "K-z_hcQA75o", "title": "수업39일차 프로젝트 2차미션1" },
+    { "id": "DbtJlgvsW2s", "title": "수업 40일차 프로젝트 3차미션2" },
+    { "id": "qhyr9Abtbvs", "title": "수업 40일차 프로젝트 3차미션 1" }
+  ]
+}

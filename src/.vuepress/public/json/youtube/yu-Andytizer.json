@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Andytizer",
+    "name": "Andrew Tsai",
+    "profile": "https://yt3.googleusercontent.com/HspkpeKLxwPhvEkUBcpRwnMb3xdu7RpKKYYzCiu8GXieizajRnTisWRB7_kS4xcQ5Aw50HE0wQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FmzSjYcSteaWI4PurhF2ZOMOv3dabszG95kw78pYUBNFse0n3PrkzKV5kqBb8CZYzFAUZ_W4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uAAZmk-MKyU", "title": "Windows on Mac IMPROVED with Parallels 20!" },
+    { "id": "Az8Fdt8PBx4", "title": "PS2 emulation on Mac gets a BIG update with PCSX2 2.0!" },
+    { "id": "f_fNt2EIOFQ", "title": "Game Porting Toolkit 2 changes EVERYTHING! AVX2, Ray Tracing, Mac gaming WWDC 2024" },
+    { "id": "2KX5SzqrfUI", "title": "8 BIGGEST Game Porting Toolkit 2 Windows games on Mac" },
+    { "id": "vwR5tF_qlzk", "title": "GPTK1 vs GPTK2: How will these 7 Windows games perform on Mac?" },
+    { "id": "78Ejlssdkco", "title": "Apple fixes Mac App Store double storage issue for gamers!" },
+    { "id": "HHB9_1FZkXk", "title": "Minecraft on Mac Install Tutorial 2024: Shaders, mods, Java, Prism Launcher and best FPS" },
+    { "id": "y4SNC5jhQkY", "title": "The ONLY way to play these games on Mac" },
+    { "id": "itJh1idZFNw", "title": "This new Android game emulator for Mac is AMAZING!" },
+    { "id": "MPspDPOaq2o", "title": "VMware Fusion PRO is now FREE! Best Windows 11 ARM on Mac?" },
+    { "id": "ZywcES3UXrs", "title": "This Linux Mac update is GROUNDBREAKING for Mac gaming!" }
+  ]
+}

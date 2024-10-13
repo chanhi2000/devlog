@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "CodingPhase",
+    "name": "CodingPhase",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMIJw_Au8sWHnhQiYmHJMc-fm5dmgwKlKUNSQPzLg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UOGY7t3Zyc5_If_5ne-E__Iky0VcyhDLmtl6TvcXYBWEqVgEf39V9Pd-6pgYbWK8EtNMOcOxdA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wVpXwNtIJL0", "title": "Is this a perfect Full Stack Developer Portfolio (Really)" }, 
+    { "id": "MeheYuRDt_o", "title": "This Web Developer Portfolio Makes Every Other Look Like Sh!T | Software Developer | Review" }
+  ]
+}

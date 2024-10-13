@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "FlutterMapp",
+    "name": "Flutter Mapp",
+    "profile": "https://yt3.googleusercontent.com/ogvsPHmQBlaom0rW6xiH54fVEVjRxwARB9SNnHC7I-YbrTClk8gDdUh9kITJogc2ZkZlFSoscA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3vE7BpEC6SepVOdE9CbJfBdvBdoaR5dzoKYogHx_Ut6bggapKl01Z1Em9mefl-7mCKjubAb6kg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yiINjg-cwto", "title": "Flutter Riverpod - But It's Simple" },
+    { "id": "7Cp1GlmHTGE", "title": "Flutter Riverpod EASY Tutorial" },
+    { "id": "cbA2HY1xV0w", "title": "Simplified Switch Statement" },
+    { "id": "SmJB8cy8emU", "title": "Flutter Clean Architecture - Full Course" },
+    { "id": "kj_tldMmu4w", "title": "Every Flutter Widget Explained!" },
+    { "id": "Zmx0Ou5TNJs", "title": "Nesting \"If Statements\" Is Bad. Do This Instead." }
+  ]
+}

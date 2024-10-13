@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "briandesign",
+    "name": "Brian Design",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMdwi_02mpkCVNKZqZuYONgMe84lv-HcInno4mu=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "LyEc2fGCR90", "title": "How to Make a React Next JS Website - Beginner Tutorial Using Styled Components" }, 
+    { "id": "Z_PPIPIbXAs", "title": "How to Build a Wordpress Website with Elementor Hosting Tutorial 2024" },
+    { "id": "896eEGDcQao", "title": "This AI Could Replace All Software Developer Jobs - Meet Devin AI" },
+    { "id": "L0q1FfqZUxA", "title": "Create a Website Fast with AI using Elementor Hosting - Best Hosting for Wordpress" },
+    { "id": "UuoPBmYLGKI", "title": "How to Build a Website Fast with Elementor Hosting and AI - Wordpress Tutorial 2024" },
+    { "id": "gOQ31Kc8H5E", "title": "Make a React Website with Tailwind CSS Tutorial" }, 
+    { "id": "mN3P_rv8ad4", "title": "React Sidebar with Dropdown Menu Tutorial - Create Sub Navigation" }, 
+    { "id": "Nl54MJDR2p8", "title": "React Website using Styled Components and Smooth Scroll - Beginner Project Fully Responsive" }, 
+    { "id": "KhBj0g9DNzY", "title": "Create React App is Officially DEAD!" }, 
+    { "id": "RlGrI764hD4", "title": "How to Use ChatGPT API - Create Your Own AI Apps Beginner Tutorial" }
+  ]
+}

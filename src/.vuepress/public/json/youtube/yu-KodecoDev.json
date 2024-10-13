@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "KodecoDev",
+    "name": "Kodeco",
+    "profile": "https://yt3.googleusercontent.com/v7Yqq2uJAStFCKvVkwCkd3V6Jr0AJcoeKkJWr0hOhxOac6gd7Vn-Uq-yscoPUOPymJsemtL9Jw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kmAWDPAyp4zc_PHBILKm5C3yiKoRdloAsEgc-6i-HPoKKjAJD0Ni62QUwhSTPlAYbWHlGmDCAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "23Efpe9Pvh0", "title": "Kodeco Webinar: The Power of People-First Leadership in Mobile Development Teams" },
+    { "id": "eHaKRo2X-_k", "title": "Kodeco Podcast, Season 2 Episode 6 Transitioning to Jetpack Compose" },
+    { "id": "bzXEDgPhUj8", "title": "Kodeco's Google IO 2024 Livecast" },
+    { "id": "uvj8ii10QJw", "title": "Build a Real iOS App From Scratch: A Free Workshop for Beginners from Kodeco #free #ios #workshop" },
+    { "id": "9YdsmS7AEDo", "title": "Build a Real iOS App From Scratch: A Workshop for Beginners From Kodeco and David Okun" },
+    { "id": "dR6EfeiIcI0", "title": "Considering an Android Bootcamp?" },
+    { "id": "zJ5TxcopnG4", "title": "Is an iOS Bootcamp Right for You? Get the Inside Scoop" },
+    { "id": "ciQ7Pm97z_g", "title": "Putting AI to Use in Software Development: Kodeco Podcast Episode 3, S2" },
+    { "id": "A-0E6nTXhUg", "title": "Android Fundamentals by Tutorials Trailer: Learn to Program in Android" },
+    { "id": "B0YnIOER8MI", "title": "Incorporate GeoJSON into Your Swift / iOS Map - raywednerlich.com" }, 
+    { "id": "ENUxsCeMz8I", "title": "Saving Data in Android with Jennifer Bailey - raywenderlich.com Season 10 Podcast" }, 
+    { "id": "EKCRGHDtrcA", "title": "Gabriel Peal - MvRx (Mavericks), Android Jetpack Navigation - Ray Wenderlich Podcast - S9, E12" }, 
+    { "id": "WbOTBi03V5g", "title": "Importing an Image with Core Image - Core Image from CIImage to Metal &  Beyond" }, 
+    { "id": "WwBUcof0lKw", "title": "Inspecting Variables with LLDB - Intermediate Debugging in iOS - raywenderlich.com" }, 
+    { "id": "7A8wzBs1VHQ", "title": "Your First Program - Beginning Programming with C# - C# 7 / Visual Studio 2017" }, 
+    { "id": "HZsWALYT-D4", "title": "Installing Visual Studio - Beginning Programming with C# - C# 7 / Visual Studio 2017" }, 
+    { "id": "xY8Ex_IoZTE", "title": "Coordinator Design Pattern in iOS with Swift 4.2, iOS 12, Xcode 10" }, 
+    { "id": "5lWUHoha4dU", "title": "Inspecting Variables - Debugging in iOS - raywenderlich.com" }, 
+    { "id": "J653BZPMHPc", "title": "Building the UI Overview - Beginning Android Development - Your First Kotlin Android App" }, 
+    { "id": "sH5EJWFAw6M", "title": "Outlets  Objects, Data, and Methods - Beginning Programming with iOS 11, Swift 4, and Xcode 9" } 
+  ],
+  "playlists": [
+    
+  ]
+}
+
+

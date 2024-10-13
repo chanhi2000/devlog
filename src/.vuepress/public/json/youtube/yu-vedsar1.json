@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "vedsar1",
+    "name": "Alok Upadhyay",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTJdf-L8Su9pbjO14TIfvHPZufPq_JOZypo3upuEQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3q5SIu6G_yQUCpLCZqK0QgPCOutcrwYj9W89zabl1Smd1QXHZuW3EMey9y3Jtl5a71RUSoLaBCw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AY-n1l3HGvQ", "title": "Creating An iOS App Using MVVM Design Pattern, JSON Parsing Using Codable Protocol And Closure" },
+    { "id": "2ZzWohRZ2LE", "title": "Creating an iOS App using Protocol Delegate Design Pattern." }
+  ]
+}

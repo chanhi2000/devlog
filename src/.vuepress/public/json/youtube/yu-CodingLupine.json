@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "CodingLupine",
+    "name": "코딩루팡 CodingLupine",
+    "profile": "https://yt3.googleusercontent.com/vkvLZS2gLn8JRxVmFkchK46iM45tWnq6fCtkUvcDED37AvTDjmVX6DRkAF9huwMxI2gdc4WkN88=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j7q8nsWymqi6zyuJPINOkX08YeXrMUxbED8YmoXjOpF9ZSLnRUkQ2Nb-MDtM0Pm17ORB8w87=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JTMU0yQliWM", "title": "개발자 취업 돌파구 3가지 포인트 | 어려운 취업 상황 대응 Plan" },
+    { "id": "IsJjuFV84SU", "title": "Next YTMusic 클론 코딩 | 강의 소개 및 공부방법(중요!) ch0-1" },
+    { "id": "kl2KCvAkjg0", "title": "FE 개발자 취준 노하우 전달드려용 (그룹스터디/멘토링 모집)" },
+    { "id": "yUWuNKHvHFM", "title": "Vite + React 프로젝트 GitHub pages에 자동 배포 설정법" },
+    { "id": "efSQffTqw0M", "title": "Tailwind CSS - 15분 후 이제 CSS 파일은 안 만들게 됩니다." },
+    { "id": "goeCAcgGhGE", "title": "아이디어 공유 - 코딩으로 돈버는 프로젝트 | QuantStream, Build In Public | ep 1" },
+    { "id": "IGoM-cPUaog", "title": "2024 최신 모던 웹 FullStack 기술셋 추천! | NextJS14 + SuperBase" },
+    { "id": "JosDGxLPwWc", "title": "평생 서버 비용 아끼는 방법 | 개발자가 도커 필수로 알아야 하는 이유" },
+    { "id": "KNfNopXVYyc", "title": "MSA 환경, 대기업에서 카프카 kafka 쓰는이유 | 스터디 리뷰 kafka ep1" },
+    { "id": "-KMpVO3XZNM", "title": "대규모 트래픽 처리를 위한 스케일 확장성 SW 아키텍처 패턴 | 스터디 리뷰 ep2" },
+    { "id": "orD41TmMwUE", "title": "[스터디 리뷰] SW 아키텍처 패턴 - 공부이유" },
+    { "id": "2ESQqZ_Ec6k", "title": "개발자 취업에서 성공할 프로젝트 유형 2편 - 프론트" },
+    { "id": "yY-TrWKLRnw", "title": "개발자 취업에서 성공할 프로젝트 유형 (포폴 안녕하신가요 ?)" },
+    { "id": "35jSbzRM8NA", "title": "React - 사용자 입력 처리 | 심리상담사 ChatGPT AI 회고록 10편 | #chatgpt  #리액트 #react" },
+    { "id": "049_8QDEWMo", "title": "React - 스타일링 | 심리상담사 ChatGPT AI 회고록 11편 | #chatgpt  #리액트 #react" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "twosun.ai.school",
+    "name": "투썬Ai스쿨",
+    "profile": "https://yt3.googleusercontent.com/LGWN_RWjGMeo1xBN29LoGKZPQCRPbhMjjZVaABTfByPom2oWEFGXKE9uITHh3dERft1kTfRshg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9ABmK1Db-2HwZwMp5Zs5_nwhacTnEQSbhFlR5KrYutkcgaBBE-sKdg092sjSWVZZYn_V81dxEA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EDDBXiUzO7o", "title": "투썬AI스쿨 홍보 영상" },
+    { "id": "3G7XpAUn2hI", "title": "[투썬AI클래스] 성새롬 강사 1강- 생성형AI와 메타버스 시대 시작과 현황" },
+    { "id": "YcRxosY_Qlg", "title": "[투썬AI클래스] 이예은 강사. 1강 SQL과 친해지기" }
+  ]
+}

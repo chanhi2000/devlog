@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "soft-code",
+    "name": "SoftCode",
+    "profile": "https://yt3.googleusercontent.com/HdS5-TqKrMI6K8mw_k88m9INO9SmR466VSUNhNNKgn9_p2026B-9D-SNdVc1lZv1QpODdPXK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hx8dBqiEQez34J4qUQqDJ2bqWe5f82a1yPN_NytCAGFZkywZ_MtRcl-NqT0KeyjrVzTEVO2t=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1IqFKwkZY2s", "title": "Exploring the Exciting Features of ES2023 - JavaScript Updates" }
+  ]
+}

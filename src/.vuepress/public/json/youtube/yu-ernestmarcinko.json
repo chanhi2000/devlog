@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ernestmarcinko",
+    "name": "Ernest Marcinko",
+    "profile": "https://yt3.googleusercontent.com/f58QLpnOOxQve9FERYPmcjGzvknz2qQofq9HNFV-bqXxnppNd1MEeo_YvYk7yTHlKHWpIVJYvXE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/U63ee5mvMejLeTQxEUR24UIdxHBCBqdfsyqOj6FjdBhb0qGIsc-d9fvZfgG--WVGgjczIszEyA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RFIsnWJUlkg", "title": "Tricks With JavaScript" }
+  ]
+}

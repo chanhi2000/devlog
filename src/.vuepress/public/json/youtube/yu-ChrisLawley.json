@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "ChrisLawley",
+    "name": "Christopher Lawley",
+    "profile": "https://yt3.googleusercontent.com/qAZZ06lcjUzkDcw4-NB6KdvSNT0Q_7xNn9CNpLh6RNmS1rYM8S8ZyX8Oxd6ySZvqFhptvErqrx4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/seICoo8iasw4g7hvikvtLgAtdpQsPzSuET3Z6tHW9Gi5jn-bODH7cT6PseCRAlWaGHeOneuHDVM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pFVqtVJgk-U", "title": "5 New and Updated Productivity Shortcuts" },
+    { "id": "k4VG-XktLBY", "title": "2024 iPad Pro Review: My Computer" },
+    { "id": "kGNoChsMBek", "title": "iPad Settings To Change: Making It More Useful" },
+    { "id": "OxIEF1qtglQ", "title": "iPad Tips & Tricks: Files App and Document Management" },
+    { "id": "nsNaKeFjQHs", "title": "Using Vision Pro: The Ultimate Entertainment Device" },
+    { "id": "FKJSTy-_KrE", "title": "What’s on My iPad: Entertainment Apps and Games" },
+    { "id": "apxJVR0Tz9M", "title": "What’s on my iPad: My Creative Apps" },
+    { "id": "sTrZiUHsa8g", "title": "The Ultimate Battery: Anker SOLIX C800 PLUS" },
+    { "id": "94tLcTDDHGI", "title": "Productivity Workflow on Vision Pro" },
+    { "id": "6ZIaYAr4FaA", "title": "iPad Tips & Tricks: Spotlight Secrets" },
+    { "id": "Llk_qQnXHxE", "title": "iPad Minimalist Desk Setup" },
+    { "id": "C161UXostE4", "title": "The Best iPad Utility Apps: What’s on my iPad" },
+    { "id": "91cfcOgyXng", "title": "My MUST have Shortcuts Automations: What’s on my iPad" },
+    { "id": "aFvvxqFEiy4", "title": "Working from Vision Pro: A Killer Productivity Device" },
+    { "id": "9fLepFpnfiI", "title": "My Productivity Apps: What’s on my iPad 2024" },
+    { "id": "mYyoWfvg1SI", "title": "Apple Pencil for Productivity: iPad Tips" },
+    { "id": "CMPzU6ZexpA", "title": "The Ultimate Shortcut that Adapts to You: My Action Button Setup" },
+    { "id": "oth722tzWXw", "title": "iPad Multitasking Explained: Stage Manager Guide!" },
+    { "id": "phNcKFkTG9s", "title": "Amazing Mac Apps Vol. 1" }, 
+    { "id": "XK7cIgCYskE", "title": "Mac Studio M2 Max: First Look at Unlimited Power" },
+    { "id": "CeElzJecWaA", "title": "SiPadOS 16 Walkthrough: The Ultimate Guide to Your iPad" },
+    { "id": "jEyJ8PobFa4", "title": "How I Handle File Management and Backups: My NAS Setup" }
+  ]
+}

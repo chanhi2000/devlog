@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "SagguUK",
+    "name": "Saggu",
+    "profile": "https://yt3.googleusercontent.com/4nAcnBhathO4iM8HaHfBmGqjumX5kMsuqXHSuYimuZlsKSWIv0kc5G2oc5GFxP5DkEGBPT2as5s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FpIU_enAFF6230zHW4x-uOt8vMvg34I9GaJt7hpVqOZnrn-lNOa4jxjdN7Smqy_LTltMYL0Few=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t5OA64eHXH8", "title": "NATS with Apache Camel | Choreography design pattern| Event Driven Service" },
+    { "id": "pen_WUwJnRk", "title": "ToxiProxy Tutorial | Chaos Testing Part-2" },
+    { "id": "iv0fSkeRP18", "title": "Spring Scheduler Tutorial" },
+    { "id": "q_GtnszqRyk", "title": "Camel JBang - Run Camel as Script using JBang" }
+  ]
+}

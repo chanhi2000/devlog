@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "error_by_night_",
+    "name": "Error By Night",
+    "profile": "https://yt3.googleusercontent.com/9sDehH9VBwcQBZY7urYyY2xfTRg9qQPg4r8RR2krPPPvTu8NEI5-88eIjODG5Al1hV3VGMVi0yM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CYbaF--GsoE05AvFUpdqJzGq6yJJWBIjJHxJYjo677ZEjfwwplSVTaUdWfnooRxAgNjX8DEs=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NpPBBKXraP0", "title": "BUILD YOUR OWN PERSONAL VIRTUAL ASSISTANT 🤖 : LIKE JARVIS USING PYTHON | CHATBOT | DHRUV DESHMUKH" },
+    { "id": "o-0ZN-_KfeE", "title": "Live Weather App with City Pics using Python and Django Framework | Web Development | Dhruv Deshmukh" },
+    { "id": "Bu8_77S9w6g", "title": "Personal Portfolio web application built using Django| Python | By Avanish Patidar | Error By Night" },
+    { "id": "AcCo7E6TPIw", "title": "Music Player with Sync Lyric using Python and Django Framwork|Web Development|Avanish Patidar" }
+  ]
+}

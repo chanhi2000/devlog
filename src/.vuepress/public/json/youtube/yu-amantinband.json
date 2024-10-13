@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "amantinband",
+    "name": "Amichai Mantinband",
+    "profile": "https://yt3.googleusercontent.com/iEWRcThJSwgMdCQWnAutNwCrYVb8MB4NJwZ0WfqLasI4cdKx3Mms43EhZikoU33F4PgYX1sKkK0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dN9wkzXzBUa8zHfJTSeXTD7a20gCXBq7pNBp7gTCalEdJY2dXhJn0bnkRI03aHdIAVJnv0M2kA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2hiKyFi1mgI", "title": "Exceptions are evil. This is what I do instead." },
+    { "id": "Ms0dFXx3OMc", "title": "ASP.NET 8 REST API Tutorial - The \"Sweet Spot\" Architecture" },
+    { "id": "0vC4Xt4wqTk", "title": "Stop Calling Your API a \"REST API\"" },
+    { "id": "ZoKRFVBsm7E", "title": "The 3 REST API Maturity Levels" },
+    { "id": "A8t5LSxVJFM", "title": "How To Design Amazing REST APIs" },
+    { "id": "Ounk4W_ttiE", "title": "The Best Way To Send HTTP Requests" },
+    { "id": "RfFTVwQ9oT4", "title": "Controllers From Scratch Using .NET 8" },
+    { "id": "M1jxLQu40qo", "title": "Dependency injection fundamentals in C# - DI vs IoC vs DIP" },
+    { "id": "E98p-sABx2I", "title": "Making LINQ Blazing fast with PLINQ (Parallel LINQ) | .NET & C# Essentials" },
+    { "id": "yjUCKSKCQxg", "title": "Dependency Injection Deep Dive | .NET & C# Essentials" },
+    { "id": "4NfflZilTvk", "title": "Stop returning custom error responses from your API. Do this instead." },
+    { "id": "b9qj3mK5JEM", "title": "Understand ASP.NET Web APIs in 9 Minutes" },
+    { "id": "cVQEKamdLK8", "title": "5 C# Naming Conventions I Wish Everyone Followed" },
+    { "id": "DTmlhHu8tHA", "title": "The ULTIMATE Clean Architecture Project Template for .NET" },
+    { "id": "eUW2CYAT1Nk", "title": "Clean Architecture vs Domain-Driven Design - Understand The Difference" },
+    { "id": "Edj07MdcnLw", "title": "Why Developers Are OBSESSED With Obsidian" },
+    { "id": "7-P6Mxl5elg", "title": "Every Single LINQ Extension Method With Examples | .NET & C# Essentials" },
+    { "id": "jnutb5Z4wyg", "title": "Domain Layer Structure & Skeleton | Clean Architecture & DDD From Scratch Tutorial | Part 13" }
+  ],
+  "playlists": [
+    
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "CodeXDev",
+    "name": "CodeX",
+    "profile": "https://yt3.googleusercontent.com/5xdoPuRDEDe_laQaVA8jFEU_M39iAESRpMuYJxrc7ZN73Xnsr11ZdAr15ZqMSFVZLhHKWyR9kJ4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NSLc9XTqPp4lfPzI37SiX3UiTSy-rXpgenxY5N04765BTuNfXZwRjoMr8_25nIdGjn5Jb3FYzYI=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PQ7GTQ16d7Q", "title": "Flutter quick tips #vscode  #codex" },
+    { "id": "5U-y6hQuboU", "title": "Customize Your Flutter Environment with Dart Define | Step-by-Step Tutorial" },
+    { "id": "qv4ifDozdl8", "title": "Dart Records | Simple use case #flutter #codex" },
+    { "id": "zx2eh3t_98Q", "title": "Serverpod 🚀 Deploying to AWS" }, 
+    { "id": "nNpecoYRV-o", "title": "5 useful extensions for VS Code | Flutter" }, 
+    { "id": "ZnevdXDH25Q", "title": "GetX State Management tutorial with Flutter 😍" },
+    { "id": "vxNQ2YGUt5M", "title": "Create own API with FREE hosting and domain" }
+  ]
+}

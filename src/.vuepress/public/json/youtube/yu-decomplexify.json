@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "decomplexify",
+    "name": "Decomplexify",
+    "profile": "https://yt3.googleusercontent.com/I-X4rOBAvVCair8wiHLqeRiEeivMb5sjhzbUBAzsQS1H5ORRlyQTEiuBWqv7I-dgH935AY2c=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/F_PsytTMhc-Dm2Z7f1vTfplLrQ_d_RKrBr-23LYTRVbBVLcsu9Ieu48LReTaDoXlihwYjhVUY6c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GFQaEYEc8_8", "title": "Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "BarneyCodes",
+    "name": "Barney Codes",
+    "profile": "https://yt3.googleusercontent.com/V2svxn6GfNknkTf7P_TdBEkb2fxjukOvnqFfXDpPSbsHaALY80aENXTAK8bngk8QxCfNrlL_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pJYgKxzFAyoQlV1q_K31JekBaQu7mI7M71Scg7BrS1AqZ1fEeRe97GfKts3K-Y9INE0YIPJa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fZh2p0odPyQ", "title": "Real-time height map shadows | HUGE improvements!" },
+    { "id": "6bnFfE82AJg", "title": "Improved height map shadows using YOUR suggestions!" },
+    { "id": "3mfvZ-mdtZQ", "title": "Introduction to Shaders: Learn the Basics!" }
+  ],
+  "playlists": [
+
+  ]
+}

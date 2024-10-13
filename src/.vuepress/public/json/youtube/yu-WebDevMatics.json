@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "WebDevMatics",
+    "name": "WebDevMatics",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQAPaarkqTnh13pGOvUrjxyP8vLiyvrLsD2460mng=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zh0pne-fXREZC_pEy4SX30Zu52NrBMK3kQkQeJfiQ8O7Mu87tX6PladauFzSHVWOAblid8i7Ddc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i90Ck6d_zc0", "title": "My Development Workflow" },
+    { "id": "uO6IyV1UZw8", "title": "Filament Table : Actions, Custom Column, Modals and Tips" },
+    { "id": "CAprtlJYFdQ", "title": "Everything you need to know about table filters: FilamentPHP" },
+    { "id": "fQh_snvzonY", "title": "Laravel Code Generator" },
+    { "id": "Dqg-DMDEkaE", "title": "Order Management using FilamentPHP" },
+    { "id": "OTWiopML2Qo", "title": "Best way Import CSV to DB using Laravel Excel" },
+    { "id": "c9Wg6Cb_YlU", "title": "UI / UX Design Tutorial – Wireframe, Mockup &  Design in Figma" }, 
+    { "id": "-VwHApYJx5E", "title": "Webdevmatics Laravel Code Generator" }, 
+    { "id": "4YcvY79Psrw", "title": "Vscode Extensions for Laravel and Vuejs development" } 
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "TheNoviceLearner",
+    "name": "The Novice Learner",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY5GQGHcHJXzgq8gXOyu5UP97B2bYXolEF8ZXfV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JGUH8j9BkHTkcaQXWaZJBNDap3Ad6s1ucZBcCwuZ10mTlpE5OgA3BGbE0MU4fqHbKH4vNHP_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xiRoTStZg_g", "title": "Browser Autopwn: Exploitation Tool in Kali Linux | Ethical Hacking | FREE Tutorial #Hacking" },
+    { "id": "4m8LwzKrkGA", "title": "Master Kali Linux Commands | Important Linux Commands For Beginners | Ethical Hacking #Kali_Linux" }
+  ]
+}

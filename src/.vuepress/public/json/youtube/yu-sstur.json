@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "sstur",
+    "name": "Tech Talks with Simon",
+    "profile": "https://yt3.googleusercontent.com/y_RroMEyuz_pjIWmNL3PXrFDx1FihJw_CrO1gffpFc7pN6bxqetmrA3na_sb75TguXa5XDPW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y3xUtIzu1VAA9756Ub4JvNL5FczkdyqODXKnJ_LnjdszF2qWNIjLqJ4UQRLe_c9cIHw4JG61GaU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xQgBJIye5EU", "title": "TypeScript: tsconfig demystified!" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "EduardoRosasOsorno",
+    "name": "Eduardo Rosas",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYXU4iYplTIEHT0jAAAec43hvvmSiPtQY-WJjT0A_U=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/86muUBBpqDWwfQ6cS2wLdKA7E2zBYivqqQjn-UANrvV4EfuWyWTbkRzqx7Gg6lfirxMEOPoGsw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JhWwBOoqXQ8", "title": "How to Build a Freaking Xamarin Forms App" },
+    { "id": "ttNbomU8yBI", "title": "Mobile DevOps with App Center - iOS Continuous Delivery" }
+  ]
+}

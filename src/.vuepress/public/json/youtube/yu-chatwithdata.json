@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "chatwithdata",
+    "name": "Chat with data",
+    "profile": "https://yt3.googleusercontent.com/LV-fSH9aqg7a5qo-99f1iqAiG6wF-QCzpFGueyg3ghlxAev_A9a4xMVlaUpAYMoi_3KTLIjl7eI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/77rgy_K1x5IGkaljPkHRMAHpZg5d1KxqvAp_7euFq0Yh4bvBFRdAOskD4T5g67UWxwFSM2j94g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ix9WIZpArm0", "title": "GPT-4 Tutorial: How to Chat With Multiple PDF Files (~1000 pages of Tesla's 10-K Annual Reports)" }
+  ]
+}

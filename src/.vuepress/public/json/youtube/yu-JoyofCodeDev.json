@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "JoyofCodeDev",
+    "name": "Joy of Code",
+    "profile": "https://yt3.googleusercontent.com/f-nkXHIt4t8B7yFIOdkQBGEyTY0LVrS8DWkAnF6W7KazXPtcD2XHzWPSsOx_vAjVgs3RQu736cY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dkwZggV8NIhHTHMT-VMQ232Q3ndZgS7n12bGHkyac0McpWKPShMBLZvKQNZOrBN31pL6xkGDjbk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "idD9DA9eR_A", "title": "Using The FLIP Animation Technique For Impossible Layout Animations" },
+    { "id": "FNIwqQx7mOo", "title": "The Most Powerful Svelte Feature No One Talks About" },
+    { "id": "RbfIcFZsISg", "title": "Animated Code Blocks Using Shiki Magic Move" },
+    { "id": "mWt7jsgZIWw", "title": "How To Make A Custom Markdoc Renderer" },
+    { "id": "b9N1qLTVhvs", "title": "Responsive CSS Grid Layout In One Line Of Code 🪄" },
+    { "id": "e_-CNRFwNoQ", "title": "Solving Line Indenting Problem For Animated Code Blocks In Animotion" },
+    { "id": "LJL3nLBPrmA", "title": "Learn How To Use The Modern Syntax Highlighter Shiki 式" },
+    { "id": "HnNgkwHZIII", "title": "Crafting Magical Spells Using Svelte's Powerful Reactivity" },
+    { "id": "UFSmNnWPvrM", "title": "Creating Your Own Markdown Preprocessor Is Easier Than You Might Think" },
+    { "id": "1TSLEzNzGQM", "title": "Learn Why JavaScript Frameworks Love Signals By Implementing Them" },
+    { "id": "qyG-xWjNZKU", "title": "I Tried Every Svelte UI Library" },
+    { "id": "TEMKKfQpY94", "title": "Modern CSS Features You Should Know About" },
+    { "id": "llGupgNwmIk", "title": "How To Make A Blazing Fast Search For Your SvelteKit Site" },
+    { "id": "uxiqlwtEQx0", "title": "Tailwind Is A CSS Framework Generator" },
+    { "id": "YNOwO5s4AL8", "title": "How To Not Suck At Design For Developers" },
+    { "id": "oWcTGCCezR0", "title": "Improve Your Coding Workflow Using These Free AI Tools" }
+  ]
+}

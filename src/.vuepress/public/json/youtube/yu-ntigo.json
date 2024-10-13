@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ntigo",
+    "name": "김대협",
+    "profile": "https://yt3.googleusercontent.com/CWmJKzjKCLFiL887E3Zcew8j4nIf2JsEEgxfgDPkJHxDBvqPUTUMYzOwPo7c9swv4SCpWz_4Bw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r_rJOWuWuR2PrRbWbrKqmbsNalL4Tamb7taxrwoX-NgFkN9TUhO4riij2sC8ghUuDXjhQYW5=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "28_-GmUnu8M", "title": "[이펙티브 자바] 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라" }, 
+    { "id": "jFYvY7m2RZs", "title": "[이펙티브 자바] 아이템 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라" }
+  ]
+}
+

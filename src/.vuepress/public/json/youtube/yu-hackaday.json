@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "hackaday",
+    "name": "HACKADAY",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPgNF47qcdEYpUfSb5e5wHBOQgdKjnBq6wxqAbU2A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A0VO3e93mtlzATprdC5l_XR4ya5TCQ7N1n1efabupBiWBvqN51DJKDre2eglrY0yAb64XPLq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "I9JheV6pSNE", "title": "Redesigning the Future Symposium" },
+    { "id": "d4Pgi5XML8E", "title": "HackadayU: Reverse Engineering with Ghidra Class 1" }, 
+    { "id": "vCG5_nxm2G4", "title": "MeganWachs - Keynote RISC-V and FPGAs: Open Source Hardware Hacking" }
+  ]
+}
+

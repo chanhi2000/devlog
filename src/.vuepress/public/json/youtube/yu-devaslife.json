@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "devaslife",
+    "name": "devaslife",
+    "profile": "https://yt3.googleusercontent.com/a5wTd7vJ4FmYgL5LLjWkfBJCU2TLLafB8rSIZ39pYN4Aqul5yh2gUarS8yMCj7JOVplEh4WjKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Qy43Aqx_aC7e9W5b1W0oxXMebVPjrSdBo831x4bsN0xFZHdr5MbMFuBtij80wEp9bLMULtqveg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EJLrssH1ip0", "title": "How to design a beautiful Neovim theme with HSL colors in Lua - NeovimConf 2023" },
+    { "id": "fFHlfbKVi30", "title": "Effective Neovim setup for web development towards 2024" },
+    { "id": "IGK6eceWyU4", "title": "How to create Ghibli-style trees with three.js" }, 
+    { "id": "rjOuCFrs584", "title": "How I take tech notes as a note app author" }, 
+    { "id": "5-aK2_WwrmM", "title": "How to set up PowerShell prompt with Oh My Posh on Windows 11" }, 
+    { "id": "XTGABtNh2EY", "title": "Let's learn the basics of Vim together!" }, 
+    { "id": "UNGi144eVbI", "title": "Boost your skills with ChatGPT: Creating a transcription and translation tool using OpenAI" }, 
+    { "id": "XTGABtNh2EY", "title": "Let's learn the basics of Vim together!" }, 
+    { "id": "ajmK0ZNcM4Q", "title": "Set up Neovim on a new M2 MacBook Air for coding React, TypeScript, Tailwind CSS, etc." }, 
+    { "id": "w-M9UFHLAl0", "title": "How to build a Gmail-like UI with React Native [at a Zen temple Koshoji]" }, 
+    { "id": "FW2X1CXrU1w", "title": "How to set up Neovim 0.5 (LSP, Treesitter, fuzzy finder, etc)" }, 
+    { "id": "GznmPACXBlY", "title": "How I built a software agency website with Next.js + Tailwind CSS (in nature)" }, 
+    { "id": "5-aK2_WwrmM", "title": "How to set up PowerShell prompt with Oh My Posh on Windows 11" }, 
+    { "id": "k2h7usLLBhY", "title": "How to build a smoothly animated ToDo app with React Native, Expo, Reanimated, NativeBase, and Moti" }, 
+    { "id": "bSMZgXzC9AA", "title": "How to build a portfolio website using Next.js, Chakra UI, Framer Motion, and Three.js" }
+  ]
+}

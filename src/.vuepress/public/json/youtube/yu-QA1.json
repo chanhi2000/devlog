@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "QA1",
+    "name": "Software and Testing Training",
+    "profile": "https://yt3.googleusercontent.com/y9paF5d572zwcMNcsRKf3mR3gSCYB6S9ic1R-1o1SYxATzg354vhof6-tQl57S-mLFtwm2uZEOw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WweoM_c4WJgUyEmmxjXVojMtyCNj5ZjgrNfNKSzDwhs84O-h25vCSDLw0gFN8LFxUyK3V7plh3A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dThhPIyRfKo", "title": "Smoke Testing vs Sanity Testing-Smoke vs Sanity Testing-Smoke Testing-Sanity Testing-Manual Testing" },
+    { "id": "QFgW_tlEYN8", "title": "State Transition Testing-What is State Transition Testing-State Transition Testing Technique-State" },
+    { "id": "t-pre6m_yXg", "title": "Test Case Management in Software Engineering-Software Testing-Test Case Management-Test Management" },
+    { "id": "-VvQKEvsPpE", "title": "Test Cases in Manual Testing | Test Cases in Software testing | Test Cases for Login Page | Example" }
+  ]
+}

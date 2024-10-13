@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "LearnWebCode",
+    "name": "LearnWebCode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRl_-jhC4nTfZqiyb8oAz1l0GYOT_mV7JYFH8JN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/odJpoqqmlaM6Wj3AXi2fx18MOAhdFPhFnV_z4zyu9FLi5pvzOOl2t_VLcvg10DUHssyk7X_ZnQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hbJiwm5YL5Q", "title": "WordPress Plugin Development: Gutenberg Blocks, React & More" }
+  ]
+}

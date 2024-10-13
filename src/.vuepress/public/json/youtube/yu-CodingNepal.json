@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "CodingNepal",
+    "name": "CodingNepal",
+    "profile": "https://yt3.googleusercontent.com/VYLLrblIs_umHCFyK_-q5HJLfB-aDc5ax94uUjNaU5IQXZAlMn6bMVPG-AaLR3-k5_HcBMcI6MA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0mo9vviqzkKynkNcGxfDG5JX29gYjQrQPQ-fqjWaP_4GWFWgRX7c6gxo468p24AOrTDb85JBbg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7o1X7mduH1c", "title": "Pick Color From Image in JavaScript | Color Picker #coding" },
+    { "id": "Rol0-FXOsms", "title": "Create Responsive Coffee Website in HTML CSS and JavaScript | Coffee Website in HTML and CSS" },
+    { "id": "SbjpCH0sCqg", "title": "Create A Fiverr Website Clone in HTML CSS and JavaScript | Responsive Website HTML CSS & JavaScript" },
+    { "id": "PsNaoDhzQm0", "title": "Create Responsive Image Slider in HTML CSS and JavaScript | Image Slider HTML CSS & JavaScript" },
+    { "id": "YEloDYy3DTg", "title": "Create Responsive Website with Login & Registration Form | HTML CSS and JavaScript" },
+    { "id": "Bv8FORu-ACA", "title": "Create Working Chatbot in HTML CSS and JavaScript | Chatbot HTML CSS JavaScript" },
+    { "id": "szyMG2gJg6Y", "title": "Switch Background Color in JavaScript" }, 
+    { "id": "Nd1zlIHZoAk", "title": "Button Hover Animation HTML and CSS" }, 
+    { "id": "V0gpONaqVdk", "title": "Focus Input Field with the Keyboard Keys in JavaScript" }, 
+    { "id": "fIrmN3dTKk8", "title": "Make Typing Dots Animation in HTML & CSS" }, 
+    { "id": "Ac9Z6UtHdZ0", "title": "Create A Draggable Bottom Sheet Modal in HTML CSS & JavaScript | Bottom Sheet Modal in JavaScript" }, 
+    { "id": "KADY-DkNrhk", "title": "Check Internet Connection in HTML CSS & JavaScript | Check Offline or Online Status in JavaScript" }, 
+    { "id": "coj-l7IrwGU", "title": "How to Make Chrome Extension in HTML CSS & JavaScript | Color Picker Extension in JavaScript" }, 
+    { "id": "BNOaWqP4X_U", "title": "Draggable Slider Tabs Like YouTube in HTML CSS & JavaScript | Slider Tabs in JavaScript" }, 
+    { "id": "4-s3g_fU7Vg", "title": "Word Scramble Game in HTML CSS & JavaScript | Word Game in JavaScript" }, 
+    { "id": "YTpftUSV1aA", "title": "How to Take Screenshots in Vanilla JavaScript | Capture Screenshot in JavaScript" }, 
+    { "id": "y84tBZo8GFo", "title": "Build A Drawing or Paint App in HTML CSS & JavaScript | Drawing App in JavaScript" }, 
+    { "id": "1-CvPn4AbT4", "title": "Create Custom Music Player in HTML CSS & JavaScript" }, 
+    { "id": "VnvzxGWiK54", "title": "Chat Application using PHP with MySQL & JavaScript" }, 
+    { "id": "Gd7T5_3tjYQ", "title": "Vertical Card Sliding Animation using only HTML & CSS" }, 
+    { "id": "-uzOuGlUfDQ", "title": "Responsive Vertical Timeline Design using only HTML & CSS" }, 
+    { "id": "QxMBHi_ZiT8", "title": "Search Bar with Auto-complete Search Suggestions using HTML CSS & JavaScript" }, 
+    { "id": "V0O4pY2xX10", "title": "Sidebar Menu using HTML & CSS" }, 
+    { "id": "H5bpLzBeLww", "title": "Build A Gradient Color Generator in HTML CSS & JavaScript | Gradient Generator in JavaScript" }, 
+    { "id": "6QE8dXq9SOE", "title": "Create A Draggable Card Slider in HTML CSS & JavaScript | Infinite Image Slider in JavaScript" }, 
+    { "id": "UHAuPmPtwuQ", "title": "Password Validation Check in HTML CSS & JavaScript | Password Strength Check in JavaScript" }, 
+    { "id": "bnANtwr0fTU", "title": "Create Functional Image Gallery in HTML CSS & JavaScript | Pexels Clone HTML CSS & JavaScript" }, 
+    { "id": "KADY-DkNrhk", "title": "Check Internet Connection in HTML CSS & JavaScript | Check Offline or Online Status in JavaScript" }
+ 
+  ]
+}

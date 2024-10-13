@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "teachmeskills",
+    "name": "TeachMeSkills Школа программирования",
+    "profile": "https://yt3.googleusercontent.com/guhisVzud8wFv-66MVb7dGdAxZ8o5JeQsWy9Mru-zFWwUmAqNWofwjHl7FMWeJI0xUmtzEA61w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eZSZbsFTcdvVlzSrWAlMVd464fnJAmO88iZyVqZ7ofo3wR8IeKnT6FjWmvuiDD5XPh_PeJEx=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fG290-1sljc", "title": "C# vs. JAVA: Сделай Правильный Выбор! / Какой ЯП учить в 2023?" }
+  ]
+}

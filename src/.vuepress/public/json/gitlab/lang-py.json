@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "pyspread/pyspread",
+    "desc": "Pyspread is a non-traditional spreadsheet that is based on and written in the programming language Python.",
+    "topics": ["python spreadsheet"],
+    "officialSite": "https://pyspread.gitlab.io/"
+  }
+]

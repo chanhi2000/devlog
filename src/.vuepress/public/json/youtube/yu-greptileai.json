@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "greptileai",
+    "name": "Greptile",
+    "profile": "https://yt3.googleusercontent.com/mzdgsS0w3PDR_hEqp2xvRM0GBeOrTGsUlgk_HD96dBkahODZaf2iKS5TrAf-c26WB_sDPXcMbQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OtPOE8VDRTM3OFeL3E1j-XJDCFYNaFx1svoXnA3Jvv7F4sa-G8TTke4VrWsCQyM6_H1FNfRD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "78BsVHPaZ1I", "title": "Auth with Julianna Lamb - CTO of Stytch" },
+    { "id": "bGPsyWtu78g", "title": "Greptile: Platform Overview" }
+  ],
+  "playlists": [
+
+  ]
+}

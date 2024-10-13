@@ -1,0 +1,66 @@
+{
+  "channel": {
+    "id": "BeJScommunity",
+    "name": "BeJS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSX-JQ7z0ED8eKu6qW1LcHJlrhKjwHLB6HYY35Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1iaL75MFwgvbo1BmztPGuztj1gE6Dpt8_RRu_VDzhx1ljC-3l1Ru4vdK7U57mZ3DG07ZeebE0g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T-TRYLNCRYQ", "title": "Nicolas Beaussart-Hatchuel - Codebase Conquest: How Nx Turbocharged Our React Workflow" },
+    { "id": "UdDoLty4Ho0", "title": "Atila Fassina - Fine Solid Patterns" },
+    { "id": "V0rRu7cevR0", "title": "Aurora Walberg Scharff - Enhancing Forms with React Server Components" },
+    { "id": "Slj900oLNAU", "title": "Aleksandra sikora - Typescript powered backend essentials for Frontend developers" },
+    { "id": "-Bff89trNnE", "title": "Josh W. Comeau - CSS in React Server Components" },
+    { "id": "1Xplez2KRaI", "title": "Kawtar Choubari - Partial Prerendering Hype or Innovation?" },
+    { "id": "5MZbkow5U8o", "title": "Tejas Kumar - I Wrote a Book on React—Things You Should Know" },
+    { "id": "7JRa9S4aEEI", "title": "Anthony Fu - Anthony's Roads to Open Source - The Set Theory" },
+    { "id": "HlpG_uR62V8", "title": "BeJS Podcast #6: A chat with Aleksandra Sikora" },
+    { "id": "Ohebxw8x7mA", "title": "A Chat with Josh Goldberg - BeJS Podcast #7" },
+    { "id": "LGZHiAr2Wdo", "title": "A chat with Debbie O'Brien" },
+    { "id": "5E96qw0AZss", "title": "React Paris Full speaker lineup Announcement!" },
+    { "id": "1mVhuhbVn64", "title": "BeJS Podcast#4: A chat with Daniel Afonso" },
+    { "id": "bGzanfKVFeU", "title": "Goodbye, useEffect - David Khourshid" },
+    { "id": "Dekv3CBy_b0", "title": "Be Qwik don't ship javascript - Antoine Pairet" }
+  ],
+  "playlists": [
+    {
+      "title": "React Paris 24",
+      "videos": [
+        { "id": "EB6dJTx9t54", "title": "Una kravets -  Better, Faster, Stronger Web UI" },
+        { "id": "AjOd90mXwLo", "title": "Yu Ling Cheng - Travel Story: Building a Design System Without a Dedicated Team" },
+        { "id": "5MZbkow5U8o", "title": "Tejas Kumar - I Wrote a Book on React—Things You Should Know" },
+        { "id": "EpXSc31CUUw", "title": "Steven Fabre - React Components as a Service" },
+        { "id": "7xiogNj9_3s", "title": "Nico Martin - From useML To useLLM: On Device AI In The Browser" },
+        { "id": "1Xplez2KRaI", "title": "Kawtar Choubari - Partial Prerendering Hype or Innovation?" },
+        { "id": "-Bff89trNnE", "title": "Josh W. Comeau - CSS in React Server Components" },
+        { "id": "UdDoLty4Ho0", "title": "Atila Fassina - Fine Solid Patterns" },
+        { "id": "7JRa9S4aEEI", "title": "Anthony Fu - Anthony's Roads to Open Source - The Set Theory" },
+        { "id": "Slj900oLNAU", "title": "Aleksandra sikora - Typescript powered backend essentials for Frontend developers" },
+        { "id": "V0rRu7cevR0", "title": "Aurora Walberg Scharff - Enhancing Forms with React Server Components" },
+        { "id": "T-TRYLNCRYQ", "title": "Nicolas Beaussart-Hatchuel - Codebase Conquest: How Nx Turbocharged Our React Workflow" },
+        { "id": "E_0f6GE146k", "title": "Shaundai Person - Lag? What Lag? How Remix Makes Your App Feel Faster than the Internet" },
+        { "id": "NN3b01vFXJ4", "title": "React Paris Aftermovie" }
+      ]
+    }, {
+      "title": "React Brussels 2023",
+      "videos": [
+        { "id": "a1FXE7-UD7k", "title": "The Mystery of React Renders - Aashima Ahuja" },
+        { "id": "Tjg1JtANM6E", "title": "Dissecting Reactivity  Signals Vs vDOM - Atila Fassina" },
+        { "id": "TBxipPwGvHY", "title": "A Nerdy Guide To The Web Trending Concepts - Daniel Afonso" },
+        { "id": "90LTLe1ZhMg", "title": "Figma To React with AI, Are We There Yet? - Federico Terzi" },
+        { "id": "N48RXySvMxw", "title": "Slashing Performance Bottlenecks and Poor User Experience - Henri Helvetica" },
+        { "id": "z6Y_xbGkVGk", "title": "React Inline Visual Editing  Now’s The Time - Matteo Frana" },
+        { "id": "xhC2E9-2rVM", "title": "Generative Design Systems With React - Nat Alison" },
+        { "id": "3bOlbBdBdCU", "title": "Panel Discussion - Documentation   Why , When, How, and React?" },
+        { "id": "Bw5IV76oOmQ", "title": "AI Powered Web Apps  Learn To Utilize OpenAPI And LangChain To Create Your First AI - Shruti Kapoor" },
+        { "id": "_qfbYB6Hdgg", "title": "Let’s Make A Framework - Tejas Kumar" },
+        { "id": "z2q1Hs_Ok24", "title": "TypeScript Patterns For Better React Components - Glenn Reyes" },
+        { "id": "MOxKoBo_zRU", "title": "Are They Really Using It? Monitoring Digital Experience To Determine Feature Effect - Carly Richmond" },
+        { "id": "hruA58m1TKI", "title": "React Component Profiling - Wouter Van Schandevijl" },
+        { "id": "SjOf_prx1bU", "title": "How Fast Refresh Works In Vite - Arnaud Barré" },
+        { "id": "ksBSvLSiCkg", "title": "An Engineering Leadership Roadmap - Ankita Kulkarni" },
+        { "id": "wMPeobGJAkE", "title": "Remix: Embracing Web Standards To Redefine Modern Web Development - Alexandra Spalato" }
+      ]
+    }    
+  ]
+}

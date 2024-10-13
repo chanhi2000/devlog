@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "HRR",
+    "name": "HappyRider Reviews",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSqm87QgloEk6PXCkVrtVv5G5ZupYSN4M18klRk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/47BWQ_1CLm04ngjrye8tQcnrbtdva5xH_14Vx2fwJfrxy6oTSSjRsA007XErzM_IDHQTduQH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "c4-gM5_W4iI", "title": "LAMTTO Wireless Carplay & Android Auto with 4K Dash Cam" },
+    { "id": "H0JNpd328t0", "title": "ATEngeus Portable FAN, Light, and POWER Bank" },
+    { "id": "vT9-SXn9IMY", "title": "ATEngeus Compressed Air Duster" },
+    { "id": "09zZeURiM4Y", "title": "Cosuvow Apple CarPlay & Android Auto - WIRELESS" },
+    { "id": "tpPFa5qw5u8", "title": "FOPO Triple Portable Monitor SETUP (S19)" }
+  ]
+}

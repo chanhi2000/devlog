@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "CMDevChannel",
+    "name": "CMDev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTejjL4jC7WT3EbhfFAC7dB_e66wczQKfxz-5fZ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rbczYyzb74-0_4a0KccBkCQ1F--QOEv9Rr9mx-J6qtD7lQRmMF67gCqwYnBkUWkO5Crf7y8h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "we1DCMZ-Yxk", "title": "การเตรียมเครื่องก่อนเรียนหลักสูตร iOS SwiftUI Application Development" },
+    { "id": "Wa5A5930nac", "title": "แก้ไขปัญหา Submit iOS App - Privacy Manifest Issues" },
+    { "id": "JwK76vYVo2c", "title": "สอน - Google Play Console: Choose Your Preferred Account Verification Deadline (TH Ver.)" },
+    { "id": "_9nYKPB7uZs", "title": "CMLive:  อะไรยังไงคือ Server/Client Component in React Next.JS" },
+    { "id": "jIzwys5LMbQ", "title": "FVM   Flutter Version Management" },
+    { "id": "-6l4tMpEQBg", "title": "สอน Dot NET8 Setup and Migration" },
+    { "id": "SVZB8VTsYFo", "title": "แก้ปัญหา XCode 15 - Error DT TOOLCHAIN DIR" },
+    { "id": "ykwAI_8Pkvw", "title": "การ Scale Docker Compose ด้วย Nginx Reverse Proxy พร้อมทำ Load Balancer" },
+    { "id": "SrT2xk9UIj8", "title": "Auto Format on Save for XCode (So Happy)" }, 
+    { "id": "VVxPAlmSlRI", "title": "สอนติดตั้ง Grafana Dashboard + Prometheus + Node Exporter บน Docker" }, 
+    { "id": "7opQ9d2A88o", "title": "Setup SQL Server on Docker for Apple Silicon M1 M2 (Eng ver.)" },
+    { "id": "RE6h9204L7Q", "title": "Fixed: TIME of Android Emulator NOT UPDATED with the host computer" },
+    { "id": "LvJE5468xtg", "title": "CMDEV Flutter: ติดตั้ง Flutter บนเครื่อง Windows (update 2020)" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Dataquestio",
+    "name": "Dataquest",
+    "profile": "https://yt3.googleusercontent.com/6aWkHlk2knXczBigF25TyeQ6gLPyIHLnig94PRvCeKdr-sevm5-mojQrX0Q9OkmnbdjMWgZHTmw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4FHhZi5XBN54I74VzzHAR_-ilSip1FiM_p4W6SdGFY__h3wIYF2XBKPEj-OhEC7YGC6fP8rqqg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1O_BenficgE", "title": "Predict The Stock Market With Machine Learning And Python" }
+  ],
+  "playlists": [
+    
+  ]
+}

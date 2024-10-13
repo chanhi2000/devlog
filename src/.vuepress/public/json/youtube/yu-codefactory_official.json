@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "codefactory_official",
+    "name": "코드팩토리",
+    "profile": "https://yt3.googleusercontent.com/URCa3E_BdLzRoo8CTh4Wd4ERvuDth4kDcooDJXGWCnuzydZpXgchzTM2r_PVtar-YJxmHlPHqQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pEant9eo9yQIvvb04TKBhkqq0OswUb2-Knc0ojXRJ1hHtFZcNxZkbkYN3tBZ4RopvvJQhNZnPA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KAWg60Sx_vw", "title": "2024 02 19 개발자 상담소" },
+    { "id": "LicdLPX4O4E", "title": "2024 02 26 개발자 상담소" },
+    { "id": "GOzRFHpsvHQ", "title": "2024 03 11 개발자 상담소" },
+    { "id": "GOzRFHpsvHQ", "title": "2024 03 11 개발자 상담소" },
+    { "id": "jxid-owNfHU", "title": "2024 03 18 개발자 상담소" },
+    { "id": "kN9DSxUr9Lg", "title": "2024 01 15 개발자 상담소" },
+    { "id": "XK80xOpEjCI", "title": "2023 12 25 크리스마스 개발자 상담소" },
+    { "id": "8g9FH2fIOo0", "title": "2023 12 11 개발자 상담소" },
+    { "id": "5cBXY5MPGH8", "title": "2023 12 18 개발자 상담소" },
+    { "id": "CedR_QZnUBM", "title": "[2023년 12월 최신] Flutter Windows 환경설정" },
+    { "id": "DDCqlDrWsXU", "title": "[2023년 12월 최신] Flutter MacOS 환경설정" },
+    { "id": "gvVt11Aeais", "title": "2023 11 05 개발자 상담소" },
+    { "id": "3wiwksu9ZZs", "title": "2023 08 13 개발자 상담소" },
+    { "id": "5W72UHb-9iI", "title": "Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~" }, 
+    { "id": "tjHljJRooHU", "title": "React Mobx 안어렵습니다!" }, 
+    { "id": "uStypvlzi8w", "title": "[웹개발] [React] React Hooks 10분만에 배우기 (`useState`, `useEffect`, `customHooks`)" }, 
+    { "id": "b7Uqx7NZpHw", "title": "[웹개발] [React] React 개발자라면 꼭 알아야하는" }, 
+    { "id": "ZOVG7_41kJE", "title": "9시간이면 누구든 Javascript 개발자로 만들어버리는 마법같은 영상 | 타임스탬프 O" }
+  ]
+}
+

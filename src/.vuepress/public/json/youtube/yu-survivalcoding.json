@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "survivalcoding",
+    "name": "오준석의 생존코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaawIh1ObP-_o0eaRbq-IzxF3WBT5l5GCklLYa1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ECzxTTQ-8KKyXjixiygoEXSB-mRZQ_v1YcfmK-sfIndxC4aX7pFhPK4vKvffuvz0v_BTpplc3g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2BxoZs-gQEE", "title": "새싹 6기 Flutter 과정 모집" },
+    { "id": "qOoriac0Bbs", "title": "모두의연구소 오름캠프 Flutter 모바일 앱 과정 1기 안내" }
+  ]
+}

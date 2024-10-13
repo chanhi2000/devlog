@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "vmwarecloudnativeapps816",
+    "name": "VMware Cloud Native Apps",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPJH2KzkWVadf_WKXIS4iXC_AHSvnaZqS3qVMHz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jgv8ASHeQcx5UBPd24lYtpi3TgcdRyOiqWdEegg5SWQCZ5KvfBjb4MbTI__J5fvQ1_hOg6MiuA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hoYvtrlPl4Y", "title": "Velero Community Meeting - March 5, 2024" },
+    { "id": "DZ2R34Jy4wM", "title": "Velero Community Meeting - Nov 30, 2023" },
+    { "id": "kndQ7qH48eI", "title": "Velero Community Meeting - Dec 20, 2023" },
+    { "id": "baxwsSqrMnQ", "title": "Velero Community Meeting - Nov 28, 2023" },
+    { "id": "brOoKhVxedE", "title": "Getting Started Tutorials: ytt Part 2" },
+    { "id": "BAh_bNQoOoo", "title": "Kubernetes Operating System (The Podlets, Ep 20)" }, 
+    { "id": "6pFW6h6AORQ", "title": "TGI Kubernetes 108: Cluster-API Docker" }, 
+    { "id": "4OQ_2hTyNrI", "title": "TGI Kubernetes 087: Octant" }
+  ]
+}

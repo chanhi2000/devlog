@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "willkwan",
+    "name": "Will Kwan",
+    "profile": "https://yt3.googleusercontent.com/DbJ4YGALFLsvBtWdvL6n-epuD1vvV02NScNVp3EFVWaXmp2mOfkS8n3QGbZtwsyIJQCiyDDH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "HmyMFZQDWyU", "title": "Full-Stack Web Dev Crash Course: Coding a SaaS App in JavaScript" }
+  ]
+}

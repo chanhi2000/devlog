@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "glide_ilab",
+    "name": "라이프사이클 재무에 대한 모든 것_글라이드",
+    "profile": "https://yt3.googleusercontent.com/7pAyH7xXzPIpQvhPzbura5DBO-MUndK5M7HEsaUFX0iXLl5ghRdOfZde_jcCpBH-L1DRFulEmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OMG9es3uUGoXyfmKsD0y7muQ3n_Y3PbgIDBNmboTfpRQKyMP3OxOkTnOldmv1No65u4HH6cYRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Oracle SQL",
+      "videos": [
+        { "id": "WgYap-AeYmM", "title": "5일만에 마스터하는 오라클 SQL 실무 Day1_데이터베이스 개념 이해와 프로그램 설치하기" },
+        { "id": "Ei725FKZ6XM", "title": "5일만에 마스터하는 오라클 SQL 실무 Day2_SQL 문법과 함수 1편 without order by" },
+        { "id": "zbhtDku0i14", "title": "5일만에 마스터하는 오라클 SQL 실무 Day3_SQL 문법과 함수 2편 order by" },
+        { "id": "vc_S92sk68k", "title": "5일만에 마스터하는 오라클 SQL 실무 Day4_조인(JOIN)의 다양한 활용" },
+        { "id": "-3jSnqlvBqA", "title": "5일만에 마스터하는 오라클 SQL 실무 Day5_테이블 생성과 데이터 조작하기" }
+      ]
+    }, {
+      "title": "MS-SQL",
+      "videos": [
+        { "id": "GLRh_iGUN94", "title": "10일 만에 완성하는 MS SQL" },
+        { "id": "UjAvuqTVzlE", "title": "10일 만에 마스터하는 MS SQL 실무_1편" },
+        { "id": "SRYtyH-Cnq0", "title": "10일 만에 마스터하는 MS SQL 실무_2편" },
+        { "id": "OV-cPZKn1mU", "title": "10일 만에 마스터하는 MS SQL 실무_3편" },
+        { "id": "Un5VjOGoM90", "title": "10일 만에 마스터하는 MS SQL 실무_4편" },
+        { "id": "eRQt0kq7bZs", "title": "10일 만에 마스터하는 MS SQL 실무_5편" },
+        { "id": "XA6iE1iYkPM", "title": "10일 만에 마스터하는 MS SQL 실무_6편" },
+        { "id": "5QIxrkdtD_M", "title": "10일 만에 마스터하는 MS SQL 실무_7편" },
+        { "id": "SJwE-Izf6uY", "title": "10일 만에 마스터하는 MS SQL 실무_8편" },
+        { "id": "P5US3Tiimi0", "title": "10일 만에 마스터하는 MS SQL 실무_9편" },
+        { "id": "8uVolcSKN1E", "title": "10일 만에 마스터하는 MS SQL 실무_10편" }
+      ]
+    }
+  ]
+}

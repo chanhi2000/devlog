@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "dcode-software",
+    "name": "dcode",
+    "profile": "https://yt3.googleusercontent.com/s5Eex4ZIqBSe2y2k5aidi71WGkfEJORkY-Hn2QDVMJxnkpRB5FdlOiHC9V1yyLuxSaCv5JCVYmM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/87820lQXu6MHYiTwY2dYbk8VWLgcidLabPghdX-7PQkGRK_f88T3JJLKqAxUNY8wOI2V0xJ-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "o3lhgcmf8_s", "title": "3 Of The BEST Icon Packs For Web Developers — Colors, Sizing, Animations & More!" },
+    { "id": "OqtexwJvI3I", "title": "Create Your Own Input Field with JavaScript Web Components" },
+    { "id": "HVPy-gNp5pc", "title": "Build a Mock Data API with Node.js & Express" },
+    { "id": "GMzAYDNsZCE", "title": "If You Use JSON, Try This — Formatter Extension & Knowing Your Content Type" },
+    { "id": "RFGiYHPKWgg", "title": "How to Style Username and Password Input Fields — HTML & CSS Tutorial" },
+    { "id": "db-yKV1_Ey4", "title": "Get Selected Text with JavaScript: Quick & Easy Tutorial" },
+    { "id": "akHMFJ2KPbs", "title": "How to Truncate Text with CSS — Resolving Common Issues" },
+    { "id": "uMtyxRSqxIk", "title": "How to Add Scrolling & Sticky Headers to HTML Tables with CSS" },
+    { "id": "LU_QkpvuyYk", "title": "A Simple Explanation of Recursion" },
+    { "id": "U7Q1T4ENH58", "title": "Using The CSS Object in JavaScript" },
+    { "id": "SeFSZZnjcq4", "title": "How To Create Styled External Links & Icon with HTML & CSS" },
+    { "id": "r2_A3bh94fY", "title": "How to Send Data From iframe To Parent Page — JavaScript postMessage Tutorial" },
+    { "id": "LE9EaIZdjFM", "title": "How to Animate CSS Properties with JavaScript" },
+    { "id": "3jMykB29rOI", "title": "How to Create Your Own Context Menu with Icons Using HTML, CSS & JavaScript" },
+    { "id": "r1BfaetMmP8", "title": "How to Use Slots With JavaScript Web Components" },
+    { "id": "wnEjj2Tld00", "title": "How To Remove Duplicates From an Array in JavaScript" },
+    { "id": "PvIr26Ld9Rk", "title": "What Exactly Are Nodes In The JavaScript DOM?" },
+    { "id": "nYusxRidh2w", "title": "How to Add CSS to Your Web Components — JavaScript Tutorial" },
+    { "id": "20o8oWc9LOE", "title": "5 Chrome Dev Tools Every Web Developer Should Know" },
+    { "id": "ggtL1rxpx8c", "title": "How to Create a Styled Table with Web Components — JavaScript Tutorial" },
+    { "id": "pSsPP1UhQzU", "title": "How to Create Reusable Buttons — HTML, CSS & JavaScript Tutorial" },
+    { "id": "82EGTEqxiNA", "title": "How to Sync Local or Session Storage Across Tabs — JavaScript Tutorial" },
+    { "id": "0v8oMKWP07w", "title": "How to Auto Refresh Parts of Your Website with JavaScript" },
+    { "id": "y4TUJxKW0Cg", "title": "How to Make Selecting Elements Easier — JavaScript Tutorial" },
+    { "id": "7XlCpYa-snU", "title": "How to Build a Search Bar with Web Components — JavaScript Tutorial" },
+    { "id": "bcnpCFIEvHk", "title": "How to Build Icon Buttons with Web Components — JavaScript Tutorial" },
+    { "id": "d14vAVDCxEg", "title": "The Best Way to Include JavaScript Files in Your HTML — Modules & Defer Tutorial" },
+    { "id": "mWWMq11wIW4", "title": "How to Change CSS Styles with JavaScript — Tutorial" },
+    { "id": "mGLdIOvd-8w", "title": "The Best Way to Use Regex? — Named Capture Groups in JavaScript" },
+    { "id": "jYREZLloxGA", "title": "VS Code Hidden Gems: Regex Match Preview + More!" }, 
+    { "id": "HYeKKMFYK8o", "title": "The Ultimate CSS Crash Course for Absolute Beginners" }
+  ]
+}

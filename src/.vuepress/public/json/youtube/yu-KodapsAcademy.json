@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "KodapsAcademy",
+    "name": "Kodaps Academy",
+    "profile": "https://yt3.googleusercontent.com/tXKxCqBx51L-0InM7zS4Gc_tBPG_2qUMXW7nWBmPbrW9KiAXNqY5n5kSvFlhgJC33rFSKYGFuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FCy20Fqw64pw-Ai0fS_nbG38bb9dRJEY6gEc46bfZ8gpaGOO7X0htgee6RhU6Gl6DECWiuPIjE4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RKdyR25-_yE", "title": "FastHTML: Python's Answer to NextJS?" },
+    { "id": "Js3zZyC-bS8", "title": "The 7 AWS Services You NEED to Know as a Web Dev" },
+    { "id": "QiWP-pEXnhk", "title": "AWS' Origin Story & How it Shaped the Cloud" },
+    { "id": "Js3zZyC-bS8", "title": "The 7 AWS Services You NEED to Know as a Web Dev" },
+    { "id": "NpFzOCrpN3A", "title": "Understanding ACID Rules | SQL vs NoSQL (1/3)" },
+    { "id": "9JHrL0UWrWs", "title": "Understanding NoSQL vs SQL (via Redis, MongoDB, DynamoDB)" },
+    { "id": "w78TfcemGdc", "title": "Why Database Normalisation? | NoSQL vs SQL (2/3)" },
+    { "id": "cM3DDnEioMY", "title": "JavaScript Fundamentals: Scopes & Closures" },
+    { "id": "_YRmI-MasEA", "title": "React vs HTMX: Why we chose HTMX?" },
+    { "id": "VNUSttj8QQc", "title": "SolidStart : Breaking NextJS’s Mold" },
+    { "id": "goQiRVEKACE", "title": "9 Essential VS Code Extensions (and The Problems They Solve)" },
+    { "id": "wKAsZImDtak", "title": "Why does Zig pay more?" },
+    { "id": "kgBm0JtvJuo", "title": "JavaScript vs Python: Which one should you learn?" },
+    { "id": "Fceni6cdYOk", "title": "Drizzle vs Prisma: Which ORM is right for YOU?" },
+    { "id": "LjIe4w_-vzk", "title": "Go vs Rust: Which To Learn In 2024?" },
+    { "id": "iJ_B_5W-pDA", "title": "How to Use OpenAI's ChatGPT API in JavaScript" },
+    { "id": "I_rzFahRFeE", "title": "Why learn LUA?" },
+    { "id": "4JuPQBXivaw", "title": "Understanding React 19's Changes" }
+  ],
+  "playlists": [
+
+  ]
+}

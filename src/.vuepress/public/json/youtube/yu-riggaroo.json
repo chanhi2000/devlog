@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "riggaroo",
+    "name": "Rebecca Franks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPyGtDNUfLLra5FZpDCUkqZDarERtPUC_quXoNJUgU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/R_05kmARluSB92KUI4n-7ipC0r26QPClNqNnXX5kvcIzmRVhxSzfRWSJzZFKgP7c-q0kFhO6mdQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tnj2uoTwevg", "title": "Reducing Mobile Data Usage in your Android Apps" }, 
+    { "id": "gk2D7A8MjDo", "title": "Performance Testing Tools in Android - DevConf - Rebecca Franks - 8 March 2016" }, 
+    { "id": "xdntC2qM_ZQ", "title": "Tips for Building Custom Views on Android with Canvas APIs - GDG Johannesburg" }
+  ]
+}

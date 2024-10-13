@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "himelstech",
+    "name": "Himels Tech",
+    "profile": "https://yt3.googleusercontent.com/CPnfd1Y4nuKbyiIgWkN9K1e3cnz1lwNk0rlxeBqsALOvkQDdPclyeLhc7NaTPxyakBeC5LTx=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VdSb_yvVk_1dMSzp5MFY4dpQg8YijpZDKhDpioF388BkztW7SIw7f-VTseXHNMcD_4U76Go5pg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3Q71vWEu4eQ", "title": "10 Minutes with ChatGPT's Advanced Voice Mode" },
+    { "id": "LWnmdmZ4sK8", "title": "Controllers for Vision Pro are Almost Here and I Got Early Access" },
+    { "id": "4QFCIHLeVo0", "title": "ChatGPT Advanced Voice Mode Responds to the YouTube Comments" },
+    { "id": "THLRgJdfxbs", "title": "Stress Testing ChatGPT Advanced Voice - Languages/Accents/Singing" },
+    { "id": "RWFd_6n4YbY", "title": "SODI Vision Pro Head Strap Hands-On Review" },
+    { "id": "pW16t1_P_84", "title": "Pushing ChatGPT Advanced Voice to Its Limits" },
+    { "id": "Yna0NGN9XXM", "title": "Asking ChatGPT Advanced Voice Mode to Speak 16 Languages" },
+    { "id": "BjjBerdN4m4", "title": "Multiplayer Mixed Reality Pool in Vision Pro + Interview with the Developer" },
+    { "id": "Fqya5kTE3iA", "title": "visionOS 2 - iPhone Mirroring and Nighttime Bora Bora" },
+    { "id": "KH2gh9RVzYs", "title": "Updated Personas and FaceTime Effects - visionOS 2 on Vision Pro" },
+    { "id": "PYtC8_S2gqo", "title": "AI Voice Recorder? Putting the Plaud Note to the Test" },
+    { "id": "gY3sT2eCd-8", "title": "Mirror Unlimited Windows on Vision Pro! Testing Universal Desktop App" },
+    { "id": "v75lLxzcycM", "title": "Checking Out 7 New 3D Apps on Vision Pro" },
+    { "id": "VPd3TBQvxcM", "title": "Testing Vision Pro Spatial Personas Beta" },
+    { "id": "VATSvMfg-jw", "title": "Testing the Limits of Spatial Personas Beta on Vision Pro" },
+    { "id": "aljyZp0Hqx4", "title": "Testing Immersed Beta on Vision Pro" },
+    { "id": "15SNzFHJhRE", "title": "Maxing Out the Vision Pro: Tab Limit Test Volume 2 - When Things Break Down" },
+    { "id": "qjJEQwE7nsc", "title": "Testing the Quest 3 vs the Vision Pro - What does 7x the cost get you?" },
+    { "id": "errcSiGGj_k", "title": "Testing out Travel Mode on the Apple Vision Pro" },
+    { "id": "E4-pe4IP4Eo", "title": "Testing the Limits of Hand Occlusion on Vision Pro" },
+    { "id": "amgun49wsds", "title": "Testing the Limits of Mac Display Mirroring on Vision Pro. 5K!?" },
+    { "id": "axwf13a_2lw", "title": "Watching My Form While Working Out With Vision Pro" },
+    { "id": "9770lpKQJE8", "title": "Immersed for Quest 3 vs Display Mirroring on Vision Pro" },
+    { "id": "c9ndnLutffg", "title": "Apple Vision Pro Review - 3 Weeks In" },
+    { "id": "FP8t774U8ek", "title": "Comparing the Best Piano Apps on Quest 3 vs Vision Pro" }
+  ]
+}

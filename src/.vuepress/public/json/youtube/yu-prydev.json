@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "prydev",
+    "name": "Prydev",
+    "profile": "https://yt3.googleusercontent.com/_89MTtaarNSHjULpzffgQTED41eT8gbvitu0G0_7nX5sX9mGMpkiW2d-ihrr7Eft1GGv_tTTQW0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-egIqus8qnBiUYeNwuU_li6-RcUbfsC3LngERDzveS3zM7vJ3jHQcHIS8TxbOrJKJCjTOq0k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AnhOcXUCA8s", "title": "Swapping important Windows 10 and 11 DLL files" },
+    { "id": "uNopTusCM4s", "title": "Installing Windows 8.1 just to destroy it" },
+    { "id": "HbW0dQ5uHQY", "title": "Disable the Lock Screen on Windows 10/11" },
+    { "id": "xpnY6C3AijE", "title": "GuestModeEdit" },
+    { "id": "vw-bQanwWeM", "title": "Power User Tricks in Windows 10" },
+    { "id": "XOlJO4USA7M", "title": "Windows Copilot - What is it + How to get it" },
+    { "id": "8DPw3_VQAmk", "title": "How to make your own context menu item in Windows 10" },
+    { "id": "BthhllDx3SU", "title": "SharpOS beta" },
+    { "id": "ffNZJvXDNFI", "title": "DimethlyMercury" },
+    { "id": "V4W6PXeA2JA", "title": "Is it possible to lock yourself out of your own PC?" },
+    { "id": "svUSpKePodQ", "title": "Swapping Windows Vista and XP ntoskrnls" },
+    { "id": "82evMVVMFDk", "title": "BatOS 16.0" },
+    { "id": "J1jOE5i572c", "title": "How to make your own exe with iexpress" }, 
+    { "id": "sSf7tVulrJk", "title": "Renaming the recycling bin" }, 
+    { "id": "Jeh3Lsl5KX0", "title": "A cool registry hack in Windows 7" },
+    { "id": "WTezm8kV44s", "title": "DuskTool.bat" },
+    { "id": "KD4pLJg34Kk", "title": "Messing with dates in Windows" },
+    { "id": "vEHA15eAARE", "title": "Modifying the BSOD (Blue screen of death) in Windows XP" },
+    { "id": "0q4BsS64mHQ", "title": "Reviewing BatOS 15.0" }
+  ]
+}

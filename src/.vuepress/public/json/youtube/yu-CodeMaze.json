@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "CodeMaze",
+    "name": "Code Maze",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mV1Bw0NsPbY4XStfodO_0d46CDYHxCkjLaQW4dwc4nfw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Uw1reV0IYEZGiL0NfTWs2KcFkJSVnR9vnbS3fdvNi60vC1FwWoSaGOHhO4w_h9Pp2XgVipucRQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "O9D29LV70R0", "title": "Refit - Great API Client To Turn Your REST API Into a Live Interface" },
+    { "id": "Mb4xtjHz9Is", "title": "Uploading Large Files in ASP NET Core Web API - Performance Increase With Streams" },
+    { "id": "IInkRNgQ88o", "title": "Audit Trail Implementation in ASP.NET Core Web API" },
+    { "id": "QDFxi7veYps", "title": "How to Improve Performance of Web APIs Using Redis Cache" },
+    { "id": "mKxeYseLAwA", "title": "Structured Logging With Serilog in ASP.NET Core Web API" },
+    { "id": "tAaUjWWhl1U", "title": "Implementing API Gateway With Ocelot in ASP.NET Core" },
+    { "id": "mf4-Jr_KGQA", "title": "Secure Microservices Using JWT With Ocelot in .NET" },
+    { "id": "j_0ENoBi6W4", "title": "Factory Design Pattern in C# - Create Flexible Code in Your Apps" },
+    { "id": "ZChuXSgvxUg", "title": "Using Multiple Databases in ASP.NET Core With EF Core" },
+    { "id": "j4214dsGeSM", "title": "User Registration With ASP.NET Core Web API and Identity" },
+    { "id": "qPlqUQdf0fE", "title": "ASP.NET Core Web API Authentication With Identity and JSON Web Tokens" },
+    { "id": "IpWIKcytnKA", "title": "Role Based Authorization With Identity and ASP.NET Core Web API" },
+    { "id": "90wc7aXsqv4", "title": "Forgot/Reset Password With Identity and ASP.NET Core Web API" },
+    { "id": "TyR3lVpM2vE", "title": "Improve User Registration With Verify/Confirm Email Flow With ASP.NET Core Identity and Web API" },
+    { "id": "mp9WwEL8Sqs", "title": "Increase the Security of Your Web APIs With User Lockout Functionality" },
+    { "id": "vbxjuVtN_qo", "title": "Better Web API Security With Two Factor Authentication Using Identity" },
+    { "id": "4emhcWEl3iU", "title": "Result Pattern Implementation in ASP NET Core Web API" },
+    { "id": "S3IAVii92xw", "title": "Event Driven Architecture in  .NET" },
+    { "id": "Qm64zinOVpc", "title": "How to Use HttpOnly Cookie to Secure JSON Web Tokens (JWT) in ASP.NET Core Web API" },
+    { "id": "kFfcF3vQGFY", "title": "Use the Correct Return Types in Your ASP.NET Core Web API Applications" },
+    { "id": "9fYw_izKgOs", "title": "How to Resolve Multiple Dependency Injection Implementations of the Same Interface in .NET" },
+    { "id": "FrSbRRuXRs0", "title": "Asynchronous Programming in .NET - How ASYNC and AWAIT Work" },
+    { "id": "bBoy2CeyvvM", "title": "Using Streams With HttpClient in .NET To Improve Performance and Memory Allocations" },
+    { "id": "CvnLlmk-M5I", "title": "Better Way to Write Switch Statements With Multiple Cases With the Same Result" },
+    { "id": "v6mneb01HBM", "title": "Entity Framework Core Code First Migrations In Detail" },
+    { "id": "KSRlVOgVxyI", "title": "Implementing In-Memory Caching in ASP.NET Core Applications" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "jscode-official",
+    "name": "JSCODE 박재성",
+    "profile": "https://yt3.googleusercontent.com/ZZQqvF3gMAkyArJYmqSbUSHPLhJJ4i3H64VasVAfY1FuyIDeP9yzsGfOvg4INXfi9hUz9fDrvA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BCrnhpY7D4mQoPrn0JFEjdCvBBqaNGjw8HVpNADf68kx4Blag3nCoJzK7ew2rmgiBcbzUzbKlBo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lljS860YIWk", "title": "비효율적인 코딩 공부 방법 Top 3" },
+    { "id": "ODjYXmjtCok", "title": "인강 듣다가 중간에 잘 안 되거나 막혔을 때" },
+    { "id": "b4Ro_2cK9V8", "title": "신입이 어떻게 대규모 트래픽 처리 경험을 쌓아요? ㅁ_ㅁ;;" },
+    { "id": "r3OKNNVA098", "title": "회사에서 인정받는 개발자로 성장하는 방법" },
+    { "id": "-MbyMN9dpPw", "title": "무료로 도메인 구매하는 방법" },
+    { "id": "MxUn-xeI5tg", "title": "스타트업 개발자로 시작해서, 네이버 입사부터 퇴사까지" },
+    { "id": "ptK95fB6KRQ", "title": "서버 배포할 때 OS로 윈도우는 왜 안 쓰나요?" }
+  ],
+  "playlists": [
+
+  ]
+}

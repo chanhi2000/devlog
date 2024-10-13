@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "techwiser",
+    "name": "TechWiser",
+    "profile": "https://yt3.googleusercontent.com/l350nysbhW3iDxI5YoelK4c-bhNzoQ0Vpg6Qt1vZ0Cweu3PBiPsF0TBZ5ZQtI8dK1KspCMq7xA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7iqVtOJzpQr2-GwKRNTOFMFhBGzkYEJLO2wy-3iBScr3on0X3H9K8O4F0gpnqfJv_TfM6Dg2-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VBikM01UL8E", "title": "6 Ways Smartphone Companies Fool You!" },
+    { "id": "vUU2cgEjF-s", "title": "The State Of Android Ecosystem in 2024! *Galaxy Book*" },
+    { "id": "hpkPHHEKHDw", "title": "My experience with Airtel Xstream Fiber broadband | With Internet speed test" },
+    { "id": "7Sx9et4MdEM", "title": "Will AI take your Jobs? We Tried." },
+    { "id": "DeK5ymzbx9M", "title": "2 AI Websites You Must Know!" },
+    { "id": "8qV5DkisJCE", "title": "You Need To Know This About Online Shopping!" },
+    { "id": "ML637pFYpt4", "title": "I Tested The Samsung Galaxy Book 2 Pro" }
+  ]
+}

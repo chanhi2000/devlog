@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "asyncswiftkorea8910",
+    "name": "Async Swift Korea",
+    "profile": "https://yt3.googleusercontent.com/CONJqpAPwPQJBMrJtqjzC7sltmkcNokWIKzoXpWRA9y7yTe9pnBQf5UGXJiJ3x8JrPVBCSEjQnU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NmrVEuGmH35X7H_bLG0m5_eFHdSqs5bvqPRoxLgngVrdYI79uc0X0_P5SU75ntFgy0X4CYCZ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oZz0Fsgg6XY", "title": "[SyncSwift 2022] 히그머니나! 알면 알수록 놀라운 HIG의 세계" }, 
+    { "id": "7rvwGLhor-I", "title": "[SyncSwift 2022] Tuist... 한 번 써봤는데요?" }, 
+    { "id": "K7mH_o1PBS0", "title": "[SyncSwift 2022] 나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법" }, 
+    { "id": "3sfrqRaLuWk", "title": "[SyncSwift 2022] 프로토콜과 `some`, `any`에 대한 고찰" }, 
+    { "id": "LYMOKMfMl0w", "title": "[SyncSwift 2022] Widget에서 활용하면 빛이나는 CoreData (feat. Lockscreen)" }, 
+    { "id": "rq8KB21d7jQ", "title": "[SyncSwift 2022] MVI패턴과 어울리는 SwiftUI 화면 이동 라이브러리 만들기" }
+  ]
+}
+
+
+

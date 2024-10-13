@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "programmingwithmosh",
+    "name": "Programming with Mosh",
+    "profile": "https://yt3.googleusercontent.com/ebu9ZksIXw0tUWBZd6rtk-It8VGSk8AdfSI_eGR-fl6WGet9LnVPngNQCmjdLJeGXpuylwYInQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q_ypVrP2RYzpxtxNySrT-0lUHjZt5O50RnmXqcve69fNHKM1dkG0zuLyxdEyTRD1L_RFz_Jkdg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FW49JfEXI3E", "title": "Never Leave VSCode Again!" },
+    { "id": "btpWt1Cas2I", "title": "JavaScript in 2 Minutes" },
+    { "id": "W2KOSaetWBk", "title": "What is Unit Testing and Why You Must Learn It" },
+    { "id": "KkmSR7c9qLc", "title": "What is Automated Testing" },
+    { "id": "p-h1LpM1xm4", "title": "5 Mistakes That Are Killing Your Coding Progress" },
+    { "id": "9d5JkpY_4PU", "title": "Stop Wasting Time on the Wrong Languages" },
+    { "id": "1mD7-WWKvto", "title": "Level Up Your VSCode Game: 5 Must-know Shortcuts" },
+    { "id": "6xrkbN6vz9U", "title": "Become the React Dev Top Companies Want" },
+    { "id": "J-graiyPhpw", "title": "9 Reasons People Hate JavaScript" },
+    { "id": "Tef1e9FiSR0", "title": "From 0 to Front-End Developer in 12 Months: The Complete Roadmap" },
+    { "id": "OeEHJgzqS1k", "title": "From 0 to Back-End Developer in 12 Months: The Complete Roadmap" },
+    { "id": "yye7rSsiV6k", "title": "From 0 to Mobile App Developer in 12 Months: The Complete Roadmap" },
+    { "id": "80FYJ9BEqxs", "title": "Level Up Your Coding Game with Multi-cursor Editing" },
+    { "id": "XyayvDGKSfM", "title": "This Robot Has a ChatGPT Brain! (Amazing or Scary?)" },
+    { "id": "27YP6n6pDh0", "title": "The FASTEST Way to Learn to Code & Get a Job" },
+    { "id": "TeQd4kOh3ow", "title": "Mind-Blowing AI: This Tool Clones Voices Perfectly" },
+    { "id": "zuKbR4Q428o", "title": "JavaScript Unit Testing Tutorial for Beginners" },
+    { "id": "8Xwq35cPwYg", "title": "React Testing for Beginners: Start Here!" },
+    { "id": "B5Kh0kZ-gA8", "title": "The Worst React Code!" },
+    { "id": "J9sfR6HN6BY", "title": "Next.js Projects:  Build a Full-stack App with Next.js, Tailwind, Radix UI, and Prisma" },
+    { "id": "SqcY0GlETPk", "title": "React Tutorial for Beginners" }, 
+    { "id": "_uQrJ0TkZlc", "title": "Python Tutorial - Python Full Course for Beginners" }, 
+    { "id": "0-S5a0eXPoc", "title": "React Native Tutorial for Beginners - Build a React Native App" }, 
+    { "id": "Ke90Tje7VS0", "title": "React JS - React Tutorial for Beginners" }, 
+    { "id": "E7Voso411Vs", "title": "Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh" }
+  ],
+  "playlists": [
+
+  ]
+}

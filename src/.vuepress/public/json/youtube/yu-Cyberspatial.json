@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Cyberspatial",
+    "name": "Cyberspatial",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l1nPPp7luxCXwLr-_7e5Eyxw8inRgFAcHk-_debtD87g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3iKbWmNfWmKzLJMk23MFjM1vG3MNvTjCBkEKFppfQk4lTRrk2nRPegJ2yLOUY6lNLuR35BeMvA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AijEDdtPOik", "title": "How TunnelVision Can Bypass Your VPN and Break the Internet: Vulnerability Explained" },
+    { "id": "Rtfh_o0eDCY", "title": "How to Collect Packet Captures From Your Home Network in 3 Easy Ways" },
+    { "id": "T2DUrNFZJV8", "title": "How to Find Out What Suspicious Connections Your Computer Makes When Going to a Website." }
+  ],
+  "playlists": [
+
+  ]
+}

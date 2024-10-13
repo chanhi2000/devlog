@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "TwoMinutePapers",
+    "name": "Two Minute Papers",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nTrGt0VE36oFazQKHYVsqOednJ3_qtb4Ea46_Xiw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wodT6NfaH6dVCSPuRD30RTsn5R5xDpocC7A1F11g93VOD_VmklgE6VJAZp8-TE0FquZeW0sNZw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5U_Q2Lmnq_c", "title": "DeepMind New AI Plays Games…But Why?" },
+    { "id": "8FFL86K4SfY", "title": "Meta’s Llama3 AI: ChatGPT Intelligence… For Free!" },
+    { "id": "Mz7Qp73lj9o", "title": "DeepMind AlphaFold 3 - This Will Change Everything!" },
+    { "id": "zCNrB4wNJUU", "title": "Google’s New AI Just Made A Movie!" },
+    { "id": "POJ1w8H8OjY", "title": "Enhance! AI Super Resolution Is Here!" },
+    { "id": "BufUW7h9TB8", "title": "DeepMind’s New AI Beats Billion Dollar Systems - For Free!" },
+    { "id": "PddEGvUFZDQ", "title": "Stable Diffusion 3 - Creative AI For Everyone!" },
+    { "id": "GiyGW1tCMOA", "title": "Stable Diffusion 3 - An Amazing AI For Free!" }
+  ]
+}

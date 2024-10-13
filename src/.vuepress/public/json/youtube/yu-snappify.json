@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "snappify",
+    "name": "snappify",
+    "profile": "https://yt3.googleusercontent.com/Ym18X7ZvwDte44gwQOjEhvFb7B93GwoDmhHe7M0jopjh6152p3tQhqg5wWlv4yO4otJkKPrvcw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Bo7cuTAI5J041NSCQLMFk1llkztcVgP085OjlqXqxG4wE9EkkVakU1kNWzPP67cHEPlQtBL8EME=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TjRLdicYXgs", "title": "How to create an outstanding Code Presentation" }
+  ]
+}

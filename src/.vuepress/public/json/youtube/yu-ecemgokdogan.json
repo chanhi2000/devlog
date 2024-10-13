@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "ecemgokdogan",
+    "name": "Ecem Gokdogan",
+    "profile": "https://yt3.googleusercontent.com/xbdMry8HVydrttOYeCEJxtV8jDxjXQzTSiocPdAVJKZX9tSoljWk9-U_kffBWjCff-zqAXDv7Ak=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YgJPAODSxpR2luL_D0T_bypidw8vPyHktdXuabSvOgiVXh7PFUZHRaPcO-wIsPfe6s5SOMdEKg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DLcEog3IMtI", "title": "React Slider with CSS Animation and Autoplay Progress | Swiper JS" },
+    { "id": "z5Hk-sdnVfw", "title": "Responsive Slider with Autoplay and Button Controls | Vanilla Javascript and CSS" },
+    { "id": "fSDIrLhnU5M", "title": "Cube Effect Slider with Controller & Autoplay in React | Swiper JS | #swiper #reactjs" },
+    { "id": "0CYBRCp7YjE", "title": "Creative Effect Slider with CSS Masking |  HTML CSS Swiper JS #swiper" },
+    { "id": "Q2-5Sz_eA3k", "title": "Coverflow Effect Slider with Swiper React Components | Pure CSS and Swiper JS #swiper" },
+    { "id": "XMdANU-cpXg", "title": "Synchronize Two Sliders with Swiper JS and Add Interactive Particles |  HTML CSS #swiper" },
+    { "id": "Umx4S9tGyXs", "title": "Swiper JS Tutorial: Responsive Image Slider with SVG Filter Effect | HTML CSS #swiper" },
+    { "id": "2zBoe2lvV9M", "title": "React Card Slider with Swiper JS and CSS Animation" },
+    { "id": "7_YeVQjT8nQ", "title": "Responsive Slider with Mousewheel & Keyboard Control | HTML CSS Swiper JS #swiper" },
+    { "id": "VFz3TEl7BFw", "title": "Vertical Slider with Clip-Path Animation |  HTML CSS Swiper JS #swiper" },
+    { "id": "-qoAh70-sQI", "title": "How to Make an Animated 404 Page Step-by-Step | HTML CSS | SVG & Particles JS" },
+    { "id": "0HGDYH0hbz4", "title": "Animated Background using only CSS" },
+    { "id": "adYpRZQaO6s", "title": "Responsive Slider with Autoplay | Vanilla Javascript & CSS" },
+    { "id": "IbbsqtB95UA", "title": "Stacked Cards with Autoplay | Vanilla Javascript & CSS" },
+    { "id": "aKoYd_54-3w", "title": "Notification Box with Hover Effect | HTML CSS" },
+    { "id": "QoO1qqXjM3I", "title": "Login Form with Slider | HTML CSS Swiper JS #swiper" },
+    { "id": "YLJ7RIKrzmc", "title": "Coverflow Effect Slider with Animated Background | HTML CSS Swiper JS #swiper" },
+    { "id": "jHrEjPvuTYw", "title": "Card Hover Effect | HTML CSS" },
+    { "id": "yo9aSrQqO0I", "title": "Responsive Slider with Autoplay | HTML CSS Swiper JS #swiper" }
+  ],
+  "playlists": [
+
+  ]
+}

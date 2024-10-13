@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "typecraft_dev",
+    "name": "typecraft",
+    "profile": "https://yt3.googleusercontent.com/_yK69YDY4_PZynzjHtFo8URo1oFC7cjrMADCeaKvuEbLXYHK8EAmAKEvjc2BE0QOffIlRtFufQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/s-78iN0gTGbiZLvCEJnfNPrwoi4jKaJ38-ClV6ngM0RgI3Y44mgDQfUB9HjwzZp--Mva7uWiOQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jaI3Hcw-ZaA", "title": "Making Tmux Better AND Beautiful -- here’s how" },
+    { "id": "V5rxe53AQMQ", "title": "gn: Vim Commands You NEED TO KNOW #4" },
+    { "id": "_YaI2vDbk0o", "title": "My Forever Dev Workflow" },
+    { "id": "xsMIIhAZ4R0", "title": "What is \"New wave Programming\"?" },
+    { "id": "oQB8lYUZtrY", "title": "3 Levels of Vim Refactoring" },
+    { "id": "ZPfQS5FHNYQ", "title": "What the hell is Zellij?" },
+    { "id": "RSlrxE21l_k", "title": "30 Vim commands you NEED TO KNOW (in just 10 minutes)" },
+    { "id": "zOQMwWqdp9w", "title": "Neovim and Git: SOLVED" },
+    { "id": "ZDV4edcaXSY", "title": "The most beautiful terminal setup EVER -- Mac OS / Linux / Windows" },
+    { "id": "c9y7bKk-R7U", "title": "Next Level Neovim: Github Copilot, Session Management, and LSP-Zero !" },
+    { "id": "9Kl26O32-MI", "title": "Will this hurt or help Neovim?" },
+    { "id": "oYzZxi3SSnM", "title": "How to configure Debuggers in Neovim | FREE COURSE // EP 6" },
+    { "id": "TLNdwvIFoCg", "title": "I'm never using Git the same way again" },
+    { "id": "4zyZ3sw_ulc", "title": "A BEAUTIFUL neovim config with Lazy | FREE COURSE // EP 2" },
+    { "id": "SxuwQJ0JHMU", "title": "null-ls is BACK BABY -- linting and formatting | FREE COURSE // EP 4" },
+    { "id": "S-xzYgTLVJE", "title": "LSP in Neovim. Thanks to BILL GATES?! | FREE COURSE // EP 3" },
+    { "id": "iXIwm4mCpuc", "title": "Autocomplete and Snippets in Neovim | FREE COURSE // EP 5" },
+    { "id": "zHTeCSVAFNY", "title": "From 0 to IDE in NEOVIM from scratch | FREE COURSE // EP 1" },
+    { "id": "wNQpDWLs4To", "title": "How to setup your Mac Terminal to be beautiful" },
+    { "id": "bbHtl0Pxzj8", "title": "I tried Neovim Distributions so you don't have to" },
+    { "id": "H70lULWJeig", "title": "Make TMUX Look Amazing in 3 Minutes! - complete tutorial" },
+    { "id": "ceRYL271cao", "title": "Be a tmux KING with Tmuxifier | My FAVORITE tmux tool" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DoctorCode9",
+    "name": "doctor code",
+    "profile": "https://yt3.googleusercontent.com/JPKP2DEKZIGK9tsW2klYUyaN9Lm8OXGdOVKKas9jmLRerzVUqmOC94rI9-bnTp65IVTIBhykkA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o6B7FS_9iHaFkI9_BaDk67-_iQxPZq5NSUAQ-J7_pLiW8rKMOW7tsUApTKIWiB_B3MfeyW38=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ggWNsrU1Xic", "title": "DESIGN A CRYPTO WALLET APP WITH FIGMA : SPEED ART" }, 
+    { "id": "F_t8sWisSCE", "title": "DESIGN A LOGIN PAGE USING FIGMA - SPEED ART" }, 
+    { "id": "GRIkCODKQJ8", "title": "How to make a Windows App using Flutter | Flutter desktop app" }, 
+    { "id": "hXI6GNJHLhA", "title": "How to setup Flutter on Windows 10" }
+  ]
+}

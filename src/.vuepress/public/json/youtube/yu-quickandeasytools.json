@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "quickandeasytools",
+    "name": "Quick and Easy Tools",
+    "profile": "https://yt3.googleusercontent.com/uoGRKTbY-CWvvmP3sQaGo_7dENOBecJ18AJpASWhFimZfi0cJA8uxjy_AihdSrq15tASTu6NTQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZlV3Kv2ajnHnP-qPCmGrUtob6pOe0ezNUhLl17mzrbFR1sRdXXxIkGM0xdkAlQG-QxMRYUzb=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LXS1xevW2HI", "title": "The User Friendly Mageia Linux: A Stable Distro With Value!" },
+    { "id": "FbnzEhB3MGI", "title": "Speed up Linux Mint with the new Fastly CDN repository!" },
+    { "id": "YlfxlfcjqrA", "title": "How To Fix The Following Packages Have Unmet Dependencies!" },
+    { "id": "ln-V8xsQwEo", "title": "Why Kumander Linux? Because It Is Stable | Fast | Beautiful!" },
+    { "id": "36bpXp8x-HE", "title": "How to Fix Double Linux Shown in Uefi Boot Menu?" },
+    { "id": "NLU5sNZY2kI", "title": "How to Remove Firefox Esr and Install the Latest Firefox on Debian 12?" },
+    { "id": "8qrpz4WzFA4", "title": "The New Linux Lite 7! User Friendly and Powerful OS for Old PCs!" },
+    { "id": "XZqEFmThkVo", "title": "How to Install Windows 11 Along With Linux?" },
+    { "id": "L3PM6oxV2BI", "title": "How to Install PopOS Alongside Windows 11?" },
+    { "id": "qw4bctdkXuc", "title": "Brand New Linux Distro: Oreon Linux is Here!" },
+    { "id": "0qIrwi1Wu04", "title": "Opensuse Tumbleweed: Is It Good for New Linux Users? Let’s Find Out!" },
+    { "id": "7nO1rfW8FG4", "title": "How to Install Arch Linux With Gui 2024 & Dual Boot Windows" },
+    { "id": "zm4TIJ-pNnM", "title": "How to Install Ubuntu   Dual Boot Windows 11 #ubuntu #dualboot #windows11 #linuxbeginner #howto" },
+    { "id": "HBFTjZB_h9k", "title": "How To: Dual Boot Tiny11 Alongside Tiny10: Find Out Now!" },
+    { "id": "tBuQ9X1qd7c", "title": "How to Fix Two Windows Boot Managers in Uefi Boot Menu?" },
+    { "id": "wnBN_XOB6Dk", "title": "Dual Boot PikaOS: A New Hope for Gamers? (2024)" },
+    { "id": "jP_joOx0F-s", "title": "How to Fix Missing Install Ubuntu Alongside Windows Boot Manager" },
+    { "id": "N6nw0imYrD0", "title": "How To Fix Unable to Shrink C Drive Error on Windows 10/11" },
+    { "id": "zhqNBcerz9I", "title": "How to Fix the Can’t Refresh Snap Store Error on Ubuntu." }
+  ]
+}

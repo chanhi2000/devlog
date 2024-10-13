@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "CodingWithJohn",
+    "name": "Coding with John",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaT_8uzaoKyQedZBykTnLpn2-Z3SXwktjVsEO7ST=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FJKROXrW1Nroc7F9jKY2AlsIEZm-tJXvfcwZRZp_cjDCOIYzKYU_UwVCo8cWa7h7U5TAx0v6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ANlTASFN1I8", "title": "New Java Version 22 - The 3 Best New Features You'll ACTUALLY Use" },
+    { "id": "qJr1PjTt2S8", "title": "Java is \"Strongly Typed\"? - Here's What That ACTUALLY Means" },
+    { "id": "CjN_rGH8hIY", "title": "How I Memorized ALL IntelliJ Shortcuts Effortlessly" },
+    { "id": "NbYgm0r7u6o", "title": "Array vs. ArrayList in Java Tutorial - What's The Difference?" },
+    { "id": "xsoJsd48lZQ", "title": "Worst Sorting Algorithm Ever - #shorts" }
+  ]
+}

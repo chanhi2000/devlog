@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "Kilo_Loco",
+    "name": "Kilo Loco",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPwBPDQVd7L3WGSY4-shzko2Xb-DZAZRvHpNvgk2Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Rf-k9xOshESs4Uva3MyZusc0_LJTPNhEao7ULM55rCI3xnXm292Fxl1BXh4XujbGzLDjWZf_Wg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sUnzsfbx1ZQ", "title": "Paywall UI - Devlog-000" },
+    { "id": "xkviXRdnjy8", "title": "In-App Purchases - Devlog-001" },
+    { "id": "rZKpDIL8YYA", "title": "SwiftUI Sucks | Devlog-002" },
+    { "id": "HJBrCBJB71Y", "title": "Apple Vision Pro for Business" },
+    { "id": "3MC0TqKbGS8", "title": "Offline Search Engine with SimilaritySearchKit" },
+    { "id": "8buuKon6ZdQ", "title": "Navigation Basics for SwiftUI on macOS" }, 
+    { "id": "71yVIi7BxpI", "title": "Let's Make a Goal Setting App" }, 
+    { "id": "nVQubqKrqoc", "title": "Up and Running with the AWS Swift SDK" }, 
+    { "id": "OgYfQNbl0ts", "title": "Jetpack Compose Navigation and Passing Data | NavHost" }, 
+    { "id": "BMBZBjfnqy8", "title": "Flutter: Create New Post on Social Media App" }, 
+    { "id": "PalhJKv67_g", "title": "Building Clubhouse: Reviewing App Structure w/ Archetapp" }, 
+    { "id": "ye7Ii5WuDgY", "title": "Download Remote Images in SwiftUI: A Robust Approach" }, 
+    { "id": "uZF5DiMshFY", "title": "Build the GitHub Widget from Scratch" }, 
+    { "id": "QTImF5RrkwQ", "title": "Build a Shopping Cart with SwiftUI and Combine" }, 
+    { "id": "BsRkkjjiHWc", "title": "Build 3 Apps in an Hour Challenge | SwiftUI + AWS" }, 
+    { "id": "P-Zow2yVx4o", "title": "Getting Started With Unit Testing | XCTest | Swift" }, 
+    { "id": "gDEGd174K_Q", "title": "Android Crash Course for iOS Developers | Kotlin" }, 
+    { "id": "9cye8VMlbYE", "title": "iOS Course Challenge in One Sitting" }, 
+    { "id": "A5lUjgOaCZw", "title": "Realtime Chat App with AWS DynamoDB | AWS Amplify" }, 
+    { "id": "WTw2b53voTM", "title": "SwiftUI 2.0 Infinite Scroll" }, 
+    { "id": "n1mV6m4xBF8", "title": "AWS Amplify DataStore with SwiftUI 2.0 | Todo App" }, 
+    { "id": "JqdS-oi96Gk", "title": "Create A Blog Website Using Swift and Publish | Swift 5, Xcode 11" }, 
+    { "id": "o6hUFEXkf9w", "title": "Diffable Data Source | Swift 5, Xcode 11" }, 
+    { "id": "iINefSdnT9c", "title": "Building Entire App - Viper, ReactiveCocoa, & FireStore" }, 
+    { "id": "vuygdr0EcGM", "title": "Sign In With Apple [UIKit] | Swift 5, Xcode 11" }, 
+    { "id": "ch_vKP9vlgk", "title": "Using Both UIKit And SwiftUI In Your Project | Swift 5, Xcode 11" }, 
+    { "id": "AWPiup9fE2c", "title": "Intro To SwiftUI: Simple State Management | Swift 5, Xcode 11" }, 
+    { "id": "XYRykbU97yA", "title": "Login To Your Database | Swift 5, Xcode 10" }, 
+    { "id": "E_7ce0hyHm4", "title": "TableView Forms | Cocoa & Coffee" }, 
+    { "id": "1Y1mZUTvWuo", "title": "`UIAlertController`: Alerts and Action Sheets | Swift 4, Xcode 9" }
+  ]
+}

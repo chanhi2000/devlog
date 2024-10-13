@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TimErmilov",
+    "name": "Tim Ermilov",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOyo2oRZex4LyZXz3Hbv-bn4Jx3Ew8DwaYkZdLpGq0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EkT_NxeZqW3wEPL7RisYupMJ9SXP8CgMBCnyaHi41TvCIlI5tL6IilzhT93VJj3LcWkWOeb5=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "txjFB0Z0prU", "title": "Building products with javascript - Part 6 - Docker and Gitlab CI" }
+  ]
+}

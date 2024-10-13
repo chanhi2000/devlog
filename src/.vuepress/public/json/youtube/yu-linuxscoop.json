@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "linuxscoop",
+    "name": "LinuxScoop",
+    "profile": "https://yt3.googleusercontent.com/q9XP-4QBx0Cehl9kppjIEp2pA14gATTjf9GQ_abuobWvkLBAT7MuDqxpbUezoQlddEwhW9T7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EScTFU8qaePamEJ_I6WISKHCpvSArXflvf0KgBqHpKg7jQ9K9VzbgWnFkrjG5EAIhIQPQ5w9Mw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JS_-BdXUMkY", "title": "Additional Setup - Make Your Cinnamon Look Fresh and Elegant with Orchis Theme | Version 2.0" },
+    { "id": "kYyrgofgWGQ", "title": "HOW TO INSTALL UBUNTU 24.04 LTS ON VIRTUALBOX" },
+    { "id": "mF5Z0yxTbAs", "title": "Demo Running Script Auto Customize Cinnamon Desktop with Catppuccin on Linux Mint 21.3 Cinnamon" },
+    { "id": "8WO-gsmbD7M", "title": "Running Script Auto Custom \"Ubuntu 22.04 Customizations Ver. 3.0\" | Ubuntu 22.04" },
+    { "id": "3DEZ5A8qo8g", "title": "Video Tutorial  - Ubuntu 22.04 Customizations - Version 3.0" },
+    { "id": "5L-vEtfflus", "title": "Additional Setup - Make Your Linux Mint Cinnamon Look Warm and Aesthetic with Gruvbox Color Theme" },
+    { "id": "lXIb-1_H-mA", "title": "Ubuntu 22.04 Customization | 01" }
+  ]
+}

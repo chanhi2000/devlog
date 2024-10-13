@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "nxp3754",
+    "name": "클레이 CLAI",
+    "profile": "https://yt3.googleusercontent.com/Lw6nu9e6VOIW5meoB88Axkxox-gXOm-q8acrD19l4SqtLl6FzBXDx0b3PN86OOGebK2WuZUTqA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "dCYEJA8q1vw", "title": "AWS 솔루션 아키텍트 어소시에이트 자격인증 시험 문제 둘러보기 (AWS 올인원 1장 1~5번 정답 및 해설 포함)" },
+    { "id": "QFvsErhBawQ", "title": "강화학습 활용 - 막대 중심잡기 (OpenAI Gym, Cartpole, Reinforcement Learning)" }
+  ]
+}

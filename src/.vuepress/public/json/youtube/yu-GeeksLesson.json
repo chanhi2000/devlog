@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "GeeksLesson",
+    "name": "Geek's Lesson",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYtnNu1cm99aspVj_cmJDjPL6CJRJoIqN7jlRGhVA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GtBsLu2C1a3KJThfXXPxqJJZdyIF-I1VmiJEBXPwX311xqV0wGAtINPBGcLdtg2uKYqLcoLsfjw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2PGnYjbYuUo", "title": "Linux Command Line Full course: Beginners to Experts. Bash Command Line Tutorials" }
+  ]
+}

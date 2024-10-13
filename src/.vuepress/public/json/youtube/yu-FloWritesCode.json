@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "FloWritesCode",
+    "name": "Flo Writes Code",
+    "profile": "https://yt3.googleusercontent.com/ehSCugyPbtxfFvUb-BPUHuHydgC7per3dfLL789DIk5KdDwNK-SBknsEyrFhFj40zfpoTF4jrw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tzHfGYzu6qkZpCd-nn0c58mfvimB7mJoeCyR7Xi4Is8WQqijstRr-dqGEFtbNWtwxuhE1K7P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8ToDo6ZX1nI", "title": "WidgetKit Masterclass 2024" },
+    { "id": "nLo_vVKVNWM", "title": "Stop using GeometryReader in SwiftUI" },
+    { "id": "8hlWCPsUQqk", "title": "Refresh SwiftUI View Programmatically" },
+    { "id": "xBZRT5Z3ab8", "title": "How to update your app on the App Store in 2024" },
+    { "id": "MiMKXBMhsHo", "title": "Snap to Scroll in SwiftUI (iOS 17+)" },
+    { "id": "biQ8neZXW6Q", "title": "The BEST Way to Build an App" }, 
+    { "id": "GNaVZBhbmTI", "title": "Alerts & Lists on visionOS (Lesson 3)" },
+    { "id": "rdDviHtzA28", "title": "Intermittent Fasting Tracker with WidgetKit & SwiftData | Episode 2" },
+    { "id": "6DZNAXj3eaE", "title": "Introduction to TipKit for iOS 17" },
+    { "id": "zK92IwrT-Ls", "title": "@Observable @Bindable: MVVM in iOS 17" },
+    { "id": "zojPt5TVsB8", "title": "Introduction to SwiftData (WWDC23)" },
+    { "id": "hbmSQSBWaGg", "title": "Animate SF Symbols with .symbolEffect in iOS 17" },
+    { "id": "aI9dJ8SMZzY", "title": "SwiftData Relationships & NavigationStack | Build a Full SwiftData App Lesson 1" },
+    { "id": "HnQhH4JVu0I", "title": "Build Interactive Charts in iOS 17" },
+    { "id": "Ojz_N8LWc7E", "title": "Custom Radius per Corner with UnEvenRoundedRectangle" },
+    { "id": "Dpa1Hcukxbc", "title": "Configurable Widgets with AppIntents" },
+    { "id": "ik8J-ZLx9YE", "title": "Build a visionOS App: Project Setup, Simulator & Preview (Lesson 1)" },
+    { "id": "YqPiPT-Lqgk", "title": "Build a Full SwiftData App [Free Course]" },
+    { "id": "qQTTYt9wnFY", "title": "Stop using Spacer() in SwiftUI" }, 
+    { "id": "EjBTkq-wtCE", "title": "Super fast Xcode Downloads (up to 5X FASTER)" }, 
+    { "id": "kWEyKdZ4G38", "title": "Why I don't do MVVM anymore" }, 
+    { "id": "bmTprKIdJ5U", "title": "How to upload your app to the App Store in 2023" }, 
+    { "id": "v1lGPx6m__g", "title": "macOS Menu Bar App using MenuBarExtra in Ventura & SwiftUI (No AppKit!)" }, 
+    { "id": "AUOoalBwxos", "title": "How to support Dynamic Island in iOS 16.1" }, 
+    { "id": "ZVdbRjY2GN4", "title": "Global Hotkeys on macOS in SwiftUI" }, 
+    { "id": "PtQevkS1M2I", "title": "Create Menu Bar Commands with SwiftUI on macOS" }, 
+    { "id": "LG06nQRC1S8", "title": "Support macOS Clipboard (Copy/Paste) in SwiftUI Apps" }
+  ]
+}
+
+

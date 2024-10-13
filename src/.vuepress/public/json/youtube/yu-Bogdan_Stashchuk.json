@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Bogdan_Stashchuk",
+    "name": "Bogdan Stashchuk",
+    "profile": "https://yt3.googleusercontent.com/uvS0swOa3rQtKhar0yWoneYfdmNk-iyxtFwx_twM6mzpJEeJBxKfWSpYZ9zC2CN9OGrpkzdcag=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sK2_GeDcN1PsV0oqvgAqijgF9oatvCSZNUuxVxxmrqM3uZrBW8BiabtwfBAhBXDvX7QatJCh5ck=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wHZY5wGbiz0", "title": "C#: стоит ли идти в бэкенд?" },
+    { "id": "oafo50s7NKw", "title": "Как создаются программы: Контроль версий Git, GitHub и Pull Requests" },
+    { "id": "YsgDGG0BlwM", "title": "LIVE Стрим #16: Мотивация и достижение целей, ответы на вопросы" },
+    { "id": "hNLQ3tCP8jQ", "title": "Kubernetes - Курс по Kubernetes для Начинающих" },
+    { "id": "WpridlBQmdk", "title": "CSS - Курс по CSS для Начинающих" }
+  ]
+}

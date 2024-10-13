@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "JavaHomeCloud",
+    "name": "Java Home Cloud",
+    "profile": "https://yt3.googleusercontent.com/-XJIlEJbg20CCdD6XFTYeIsHpdxCVE6Y1IiZ2-Ccn0Aehy6qyvStMnQ4o74DVwaluVt5ga1-AQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eqH4RHRRaGsPDwOTOFf_C7W1XZCjiK-4aIlzhDn_77qfRLVvBv8nyaH2qr85MgcC9y43tkZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [   
+    { "id": "-Wys0h02Oo0", "title": "How to use user data in AWS EC2 | How to troubleshoot user data script | How to run on each reboot." },
+    { "id": "U8VZKfL-Mds", "title": "How to use terraform import block | Import block new feature in Terraform | Terraform for beginners" },
+    { "id": "hte3cRRADrE", "title": "Must know terraform Interview Question | terraform interview questions | terraform faqs | Video3" },
+    { "id": "wn5CexnjbTg", "title": "DevOps FAQs - Must know shell scripting Interview Question | Bash scripting use-cases" },
+    { "id": "OVDGyzv1vW8", "title": "How to set up minikube cluster | Practicing kubernetes in local | Deploy app on minikube" },
+    { "id": "DgxKbtvUUhM", "title": "Must know DevOps troubleshooting commands | Grep Command with Examples | DevOps Linux Commands" },
+    { "id": "HSO8tbtVjHM", "title": "Git password less access | Access Git using SSH | Git basic tutorial" },
+    { "id": "VDAvJKSSRYw", "title": "How can I retrieve commits from the last three days #git #gitfaq #gitlogcommand #gitforbeginners" },
+    { "id": "h07XKYLmzYs", "title": "AWS Lambda cold and warm start | AWS Lambda Tutorial | Lambda Performance Tuning | AWS Lambda" },
+    { "id": "0qejNJtvDS8", "title": "Very Important 10 Docker Interview Questions for DevOps | Docker FAQs | Docker concepts for  DevOps" },
+    { "id": "XqLPhMMfKO8", "title": "How to check Docker Logs | Docker Logs Command" },
+    { "id": "sX8Y-Lzw-TQ", "title": "How to use Docker Volumes in 10 minutes | Docker Volumes explained | Docker Volumes Demo" },
+    { "id": "Ud1WW9i10Ag", "title": "Level Up Your Boto3 Skills: Mastering Boto3 with Practical Examples" },
+    { "id": "Ta4gPMpfPgg", "title": "Free Seminar | Terraform Best Practices | Writing Terraform Modules | Terraform tutorial | Java Home" }, 
+    { "id": "xsBnF9gbXW4", "title": "Debug Pod in Kubernetes | Debugging Pod | Pod Logs | ImagePullBackoff | DevOps Training" }, 
+    { "id": "C5mazUJ1dsg", "title": "What is dynamic inventory in Ansible | Step by Step - Ansible AWS dynamic inventory Demo | Easy Way" }, 
+    { "id": "RvY5b--wnE0", "title": "Writing reusable Jenkins Pipeline code | Jenkins Shared Library | Advanced Jenkins Pipeline Tutorial" }, 
+    { "id": "LkSHWYpiMtM", "title": "How to validating Jenkinsfile locally | Validating Jenkins Pipeline locally  | Jenkinsfile Tutorial" }, 
+    { "id": "gdbA3vR2eDs", "title": "Deploying docker app using Jenkins pipeline | CI/CD Of Docker | DevOps - Jenkins Pipeline Tutorial" }, 
+    { "id": "pts8zdHel5E", "title": "08 - Jenkins pipeline integration with git & maven | Jenkins Pipeline Tutorial" }, 
+    { "id": "MjJgzsmuz00", "title": "Kubernetes Taints and Tolerations Demo | Kubernetes Demo | Kubernetes for Beginners" }, 
+    { "id": "IWR24Z1yp80", "title": "Git rest & revert deep dive | Git revert vs reset Demo | Git tutorial | Java Home Cloud" } 
+  ]
+}
+

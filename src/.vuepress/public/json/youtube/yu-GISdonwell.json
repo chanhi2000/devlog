@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "GISdonwell",
+    "name": "GISdonwell",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMXxxRSxwVe57Z8DfHxHzggpHwgS3uwNuTMrZmO=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "lYzpDJhOi1Q", "title": "How to create a GIS web application by using ESRI Javascript API and ArcGIS online resources" }
+  ]
+}
+

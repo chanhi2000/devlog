@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "FMWC",
+    "name": "Financial Modeling World Cup",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_klnBSwMIocYx7NXzXeltHT_fCilYKnD9I5EjRFaCd8TA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6rdHbcECNek_tYzLbozhlRK7lOjvKAPhrTFNWR1iLNTeI1N-jY_mQfzMp_bhenI1SK7J5TluT9U=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QwNoFOUiSiE", "title": "Microsoft Excel World Championship 2024 Finals Recap" },
+    { "id": "LExPZegwC08", "title": "Excel Faceoff Battle | Excelerate Summit" },
+    { "id": "DJ-aJ7wdYqo", "title": "Excel Esports Season 2024 Roadmap" },
+    { "id": "UDGdPE_C9u8", "title": "Microsoft Excel World Championship 2023 - Finals" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "kodejun",
+    "name": "KodeJUN",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOaS6kWLnIvM-rtvBvKCwlM0Tdf9d6LmfoRp-VjPqM7PG4CkTCMXMNSWH4zd5ld=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qpbr3wUCHZzP6jjXkSd3oofOHaRUKbHDc8h944rhH7SnbRQSQnC9NsDB4l33ZEd1MriBsQlnDg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Btc_vjZ_3io", "title": "10 Yeas of EzeeLinux | A Farewell and a Look Ahead" },
+    { "id": "bzSnDxqOvz0", "title": "C++ 레퍼런스 변수와 포인터 변수 차이 설명" },
+    { "id": "CqB-1zFZmS4", "title": "음악계의 ChatGPT, \"음알못\"도 AI로 음악프로듀싱, 2분에 1곡씩.. udio.com을 써봤습니다." },
+    { "id": "hGOrVsjWtjA", "title": "그래프 최소신장트리 Minimum spanning tree Prim Kruskal 알고리즘" }, 
+    { "id": "pcKOfAL2_8E", "title": "최단경로 알고리즘 다익스트라 Graph Shortest Path Dijkstra" }
+  ]
+}

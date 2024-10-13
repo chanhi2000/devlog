@@ -1,0 +1,31 @@
+[
+  {
+    "repo": "well-typed/unfolder",
+    "desc": "Repository with code snippets that accompany episodes of The Haskell Unfolder",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xmonad/xmonad",
+    "desc": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager ",
+    "officialSite": "https://xmonad.org",
+    "topics": ["haskell", "x11", "xmonad", "window-manager", "hacktoberfest", "x11-wm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chrisreade/PenroseKiteDart",
+    "desc": "Haskell Diagrams for Penrose Kite and Dart non-periodic tilings",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ambulancja/mariposa",
+    "desc": "A toy programming language with time travel",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "MichiganTypeScript",
+    "name": "Michigan TypeScript",
+    "profile": "https://yt3.googleusercontent.com/r702RYXCHpyRjx3Szth3YIDUs3C4yF_wrUwMFbN83Mbe3HpBRQz754LrIAKO9YUuiR49UuK3JQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NISAoyEzukrwJZDgieb-d6xdAUTlI_AVozlf21VHpW6cTQeYfUpHPzhDxMMu9LIGTk1K6Yk0Ml4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DNTipH0-MoY", "title": "Distributive Conditionals as fast as possible" },
+    { "id": "jtQjov140-8", "title": "the time-traveling debugger from the future, Replay | Mark Erikson | TypeScript Showcase #10" },
+    { "id": "Y84C3yFZJAI", "title": "how Andarist time-travel debugs the TypeScript compiler with Replay" },
+    { "id": "93RA21QfqIo", "title": "`assertUnreachable` techniques with Ryan from the TypeScript team" },
+    { "id": "ljSZU4nptOY", "title": "Glide Data Grid with Jason Smith | TypeScript Showcase #9" },
+    { "id": "seFvyHvvxHU", "title": "what are named imports?" },
+    { "id": "lJDgpxRw5WA", "title": "effection with Charles Lowell - TypeScript Showcase #7" },
+    { "id": "9I4JPZnNv7c", "title": "Redux, RTK-Query, Reselect with Lenz Weber-Tronic and Mark Erikson | TypeScript Showcase #6" },
+    { "id": "dOXpkAmmahw", "title": "StringTs with Guga Guichard | TypeScript Showcase #5" },
+    { "id": "nJlgCdsZWqo", "title": "Conway's Game of Life implemented with TypeScript types | TypeScript Showcase Podcast #4" },
+    { "id": "cGHCdqnT05Q", "title": "Biome with Ema Stoppa | Let's Code Podcast #2" },
+    { "id": "BsM8ELPo3z4", "title": "Flow and TypeScript actually have the same soundness goal (`!!`)" },
+    { "id": "4Eh-F78Y2Pg", "title": "Higher Order Types JSON Parser. Yes. You read that correctly." },
+    { "id": "8pOi1ccd280", "title": "AreTheTypesWrong with Andrew Branch | TypeScript Showcase Podcast #1" }, 
+    { "id": "4_gix4s7BQQ", "title": "JSON Parser - TypeScript Type Challenges #6228 [EXTREME]" }, 
+    { "id": "IVV8OwPR8Ho", "title": "Assert Array Index - TypeScript Type Challenges #925 [EXTREME]" }, 
+    { "id": "aOOKXapH9_Q", "title": "Sum - TypeScript Type Challenges #476 [EXTREME]" }, 
+    { "id": "gmr6sFgJCKc", "title": "Binary to Decimal with Jongsun Suh - TypeScript Type Challenges #6141 [HARD]" }, 
+    { "id": "uaadPCiN6-0", "title": "ClassPublicKeys - TypeScript Type Challenges #2828 [HARD]" }, 
+    { "id": "K0SWmX3KylY", "title": "Split - TypeScript Type Challenges #2822 [HARD]" }
+  ]
+}

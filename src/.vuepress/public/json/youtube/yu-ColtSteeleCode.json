@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ColtSteeleCode",
+    "name": "Colt Steele",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMi1P7MsJMcbRcUMtE5AMo3DRP7MJym1NHK9V_b=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eCdwegckV1cgtX3QdvkAX90TX7HHqx39ArXvGvcQn0UuGYdW5fPhvrCfgqGNvVKI18iQY6CvRQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "32tJEJbxUS8", "title": "The Fetch API In 7 Minutes - Make Requests With JavaScript Easily" },
+    { "id": "9U3IhLAnSxM", "title": "Beginner's Guide to React w/ Hooks (2020) Free Course" }, 
+    { "id": "thXp0_py9X4", "title": "JS Arrow Functions: Everything You Need to Know" }
+  ]
+}
+

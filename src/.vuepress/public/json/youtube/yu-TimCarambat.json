@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "TimCarambat",
+    "name": "Tim Carambat",
+    "profile": "https://yt3.googleusercontent.com/D3Vij92sJeI7DHaz8f2qc60RqK5bjB4QwWCaOb4oSRWtnt0UnEy3HPY9UTpFmJfqxi0UppkMjg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1B50IDUl5D4", "title": "Create fine-tuned models with NO-CODE for Ollama & LMStudio!" },
+    { "id": "4UFrVvy7VlA", "title": "Unlimited AI Agents running locally with Ollama & AnythingLLM" }
+  ],
+  "playlists": [
+    {
+      "title": "Web3",
+      "videos": [
+        { "id": "iEym7VHoly0", "title": "Easy Web3: Login with MetaMask - HTML and JS" },
+        { "id": "3ETvlP7YPv8", "title": "Introducing BlockLink (beta) - Linktree for crypto" },
+        { "id": "1EUgHsy2g70", "title": "Solidity + Deploying Smart Contracts for Beginners! | Web 3" },
+        { "id": "Hbbl3H0Lao0", "title": "Write & Deploy an Ethereum ERC-721 Smart contract - IN 5 MINUTES!" },
+        { "id": "19kZiv9AhNs", "title": "[Web3] Using Web3.js to login with Ethereum + read and modify smart contracts!" },
+        { "id": "YTNn5-AwSUQ", "title": "Decentralizing your NFT project with Rampp + IPFS" },
+        { "id": "UAH4dYaA-uI", "title": "[Web3] Using OpenSea's API to display NFTs with Javascript!" },
+        { "id": "wxqZ_DWFoLM", "title": "[No-Code] Mint an NFT with ANY ERC-20 token using Rampp.xyz" }
+      ]
+    }, {
+      "title": "AnythingLLM",
+      "videos": [
+        { "id": "Hn5lzvo0-Q8", "title": "Launch a Private AI Document Chatbot in 10 minutes! | Open Source" },
+        { "id": "f95rGD9trL0", "title": "[FREE] AnythingLLM v2 | The last document chatbot you will ever need" },
+        { "id": "nj0xdhTFV_8", "title": "AnythingLLM | How to get a Private Uncensored ChatGPT using Mistral-7B, LLama2, & more" },
+        { "id": "4cNrVamsHPc", "title": "Custom AI Chatbot for Websites using any LLM  | No-Code | Open-Source" },
+        { "id": "IJYC6zf86lU", "title": "Unleash the power of Local LLM's with Ollama x AnythingLLM" },
+        { "id": "Zc03IYnnuIA", "title": "GPT-5: Everything You Need to Know So Far" },
+        { "id": "-Rs8-M-xBFI", "title": "Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM" }
+      ]
+    }
+  ]
+}

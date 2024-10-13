@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "SurajinCloud",
+    "name": "Suraj in Cloud",
+    "profile": "https://yt3.googleusercontent.com/BuEDMuJGun2ZfU-NNX4DYaSU0uvlh8-cwo0rF0iCFmN7HcEiAf7eG6atX7pcd2HG4ZUBBTI2qg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X0ShO1WXt43iZRHFJ-aeLUXr6CLaSnUmGemFPBjdk3C_kJSZhaCbo-OmKXKVNx00igwulnuO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P3BTXrIQhKQ", "title": "kubernetes `endpointSlices` Explained !!!" }
+  ],
+  "playlists": [
+    {
+      "title": "EKS Tales",
+      "videos": [
+        { "id": "srZF-ctgimg", "title": "EKS Tales - Episode 1: What is Amazon #EKS and Why should YOU care?" },
+        { "id": "mD9pROu_meU", "title": "EKS Tales  - Episode 2: Amazon #EKS - How it Works !!!" },
+        { "id": "Q-u6EIupFyo", "title": "EKS Tales - Episode3: Creating AWS #EKS Cluster step by step" },
+        { "id": "lfeY8PnxG08", "title": "EKS Tales - Episode 4: Amazon #EKS Control Plane Logging" },
+        { "id": "ynVoh3gKmjo", "title": "EKS Tales - Episode 5: Envelope Encryption of Secrets in AWS #EKS" },
+        { "id": "UvNKk8wLBnQ", "title": "EKS Tales - Episode 6: #IAM based Authentication in #AWS #EKS" },
+        { "id": "QY-QJJd6v3Q", "title": "EKS Tales - Episode 7: Demystifying Kubeconfig in Amazon #EKS" },
+        { "id": "52lpMpHqLD4", "title": "EKS Tales - Episode 8: Managed Nodegroup vs self-managed nodes vs FARGATE ?" },
+        { "id": "8Nd-yZgYklk", "title": "EKS Tales - Episode 9: Setting up SSM Access for #aws #eks Nodes" },
+        { "id": "GGwHJElYt_g", "title": "EKS Tales - Episode 10: EKS Connector - View non-EKS Cluster in EKS" }
+      ]
+    }
+  ]
+}

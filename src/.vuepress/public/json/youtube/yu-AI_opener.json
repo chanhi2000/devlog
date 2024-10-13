@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "AI_opener",
+    "name": "AI opener",
+    "profile": "https://yt3.googleusercontent.com/N8c3OhjPzgAhAtMD0rQ19ornwwZVrnp16TDvU-8X6fnPkvgUyZj4pCoSFhwqLXsbRYKF4rKBkQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/i9FnjbkrMMJq2uc0-1HBUJkmBo-OC5WE-xKW4vqhfWDq3wQpemWTEF60ggHy9_t_9pXckHb8yg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7TuoY2LdfRo", "title": "미드저니 캐릭터 레퍼런스 (Cref) 업데이트" },
+    { "id": "1T5ILfcQu5Y", "title": "Stable Video 3D로 2D 이미지 돌려보자!  (with ComfyUI)" },
+    { "id": "53Q4TJ_UYPk", "title": "스테이블 디퓨전 IPADAPTER PLUS 업데이트 워크플로우" },
+    { "id": "vR8Xzbj1CgI", "title": "AI 그림의 리더 SD3(사용방법), ADOBE + SORA,PIKA,GEN2와의 확장 소식" },
+    { "id": "vVslARjnk_A", "title": "[ComfyUI Session 7] 얼굴 바꾸기 Reactor (왕초보용)" },
+    { "id": "CqQySnI30Fg", "title": "미드저니의 V6 One more thing 너무 편리하다!" },
+    { "id": "CdKsR_0ii9g", "title": "이미지를 맛있게 비디오로 바꾸는 신기술들" },
+    { "id": "Q6BJ2H_8S6k", "title": "튜토리얼 및 버튜버분들이 갈망하는 기능이 한번에!  DemoCreator" },
+    { "id": "ZrZPW-ZDt1I", "title": "토큰과 영상의 제왕 등장인가,  Gemini Pro 1.5와 SORA AI 소식" },
+    { "id": "zoNMwqzTAyY", "title": "Domo AI로  Animation 만들 때스트레스 받지 마세요" },
+    { "id": "53io4FHHN5Y", "title": "이드로우 마인드(EdrawMind) AI로 빠른 아이디어 정리 및 프리젠테이션" },
+    { "id": "_Xp291Piprk", "title": "업데이트된  미드저니 v6 얼마나 실제같이 보일까? (실사와 시네마 이미지 생성하는 프롬프트)" },
+    { "id": "6OF14z2Rsq4", "title": "한 차원 업그레이드 된 업스케일 툴 ( Magnific AI, Photo Portrait Upscaler, Invok AI, Upscayl)" },
+    { "id": "eK6tlkvWMyY", "title": "스테이블 디퓨전 유튜버도 반하는 꿀통 강의 안들을 수 없겠죠?_패스트캠퍼스" },
+    { "id": "2sYMyvdJ3WM", "title": "HitPaw Photo AI : 더 강해져서 돌아왔다! AI 이미지 처리의 혁신적인 활용법과 기능 소개" },
+    { "id": "bv4uQ8vnU0I", "title": "VoxBox, 다양한 음성 변환 고민을 날려줄 AI 종합 툴 등장 (TTS, STT)" },
+    { "id": "aVFW1gkIxY8", "title": "The magic of SDXL Turbo meets IP adapter and becomes more powerful" },
+    { "id": "c7rTj4fLawk", "title": "일상의 웹툰을 간단히 제작해보자! 😜 Comicai" },
+    { "id": "OZ7j1101jhg", "title": "[ComfyUI Session 4] Add Lora (easy, only for real newbies)" },
+    { "id": "VErrdV85vTg", "title": "[ComfyUI Session 5] Make her Face Pretty (Real Beginners Series, Easy)" }
+  ]
+}

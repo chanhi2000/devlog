@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "gdgosijek5328",
+    "name": "GDG Osijek",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSekC7wShwv-RdSjMtLG3kLGP0OzHYr-Yn1Ou_E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Hq0zQPDT-Eb48UblscOGW-Em-faOLUfwV2fslbjJvMb2giyHsJa1qokl4rFpFwAcihp4Jqwm6Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eL3G1Basx1o", "title": "Advanced Jetpack Compose" }
+  ]
+}

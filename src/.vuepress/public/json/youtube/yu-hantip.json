@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "hantip",
+    "name": "짤막한 강좌",
+    "profile": "https://yt3.googleusercontent.com/3TZ0M8DzXHLoNHCRIZmegruM2azMVIDeX6jGW2mq8MW1T7Z_k62H-rTGPXSBZBltEK8qtJxW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kH4VLZakofs71AfW4-LaOJ_Q8kcAnZUejg1958r3wabgHSH4RMTMQ58nIcfkwmY6bmOfPWFwGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lkaoHgIdrXg", "title": "고급 필터 문제 풀이는 이렇게 하면 됩니다 | 컴퓨터활용능력 1급 실기 엑" },
+    { "id": "VsiUHoVLefw", "title": "엑셀 조건부 서식 | 특정 데이터를 강조하려면 이 기능을 사용하면 됩니다" },
+    { "id": "W83RGca8DJc", "title": "열 두 달 매출 파일 파워 쿼리로 피벗 테이블 만들고 구성비, 누계 표시" },
+    { "id": "LZwvIIldRQE", "title": "쉽게 이해되는 엑셀 수식 작성법" },
+    { "id": "Y40dp6pGtOY", "title": "데이터 전처리가 쉬워지는 파워 쿼리 | 파워 쿼리만 잘 써도 업무가 쉬워진다" },
+    { "id": "2sTnTsyyoEg", "title": "엑셀 데이터 표시 형식 총정리 | 데이터 가치를 더욱 효과적으로 전달할 수 있어요!" },
+    { "id": "3kF9t0uUx88", "title": "파워 쿼리(Power Query) 사용 4가지 단계 | 어려울 것이라는 선입견을 한 방에 날려줍니다👍" },
+    { "id": "jwwD7BhtjvU", "title": "한글문서작성] 보고서 목차 이렇게 쉽게 만드는 거였어!!" }
+  ]
+}

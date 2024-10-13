@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "OracleKorea",
+    "name": "Oracle Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaI5QGap6IoXYAF5IWZtIUViAJ0z8EH-gdNXoJDtw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ECzdWc__-wWnLObEXdAHxQoPXwkIUinSIkQh200WqjFl8szo-NX9Wv-uxjAKutUPLlqNTAxd-g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BFjrmj4p3_Y", "title": "[Oracle Code Seoul 2017] Java 9과 Spring 5로 바라보는 Java의 변화와 도전" }
+  ]
+}
+
+

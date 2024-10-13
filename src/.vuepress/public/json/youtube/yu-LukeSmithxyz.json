@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "LukeSmithxyz",
+    "name": "Luke Smith",
+    "profile": "https://yt3.googleusercontent.com/WEh3wNCWfxK7vgqVwTRLck3_76wm-pzsVO84gSeHUelk70-6njLXpP3jHTcEqHSjCrkSTtdL_w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0cVHtPBSkdY_JoLjQtTj0sqH_0TEZ2wLJ5YhWAMVNt8SaN39UCnlLxLT6tEj1VGbA_XDjlGZag=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6YrKG4OGsE8", "title": "I SOLVE ALL ISSUES (and PRs) IN ONE WEEK! (git on my level)" },
+    { "id": "UP2QpHmcgyk", "title": "A Clickable, Scriptable Status bar: dwmblocks" },
+    { "id": "p0KKBmfiVl0", "title": "Never say \"If\" writing a Bash script! (Exit codes logical operators)" }
+  ]
+}

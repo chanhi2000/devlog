@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "Snyksec",
+    "name": "Snyk",
+    "profile": "https://yt3.googleusercontent.com/Odbr1zelPujSnHP6I0BoBe0LV-RSo2-y3HKrgc9jUpX41rZ71ln3xBCx--Zs8mhgxS05zLPWyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bQq-N-VBJbTtYGbVk9mNz56W60McBYdgGyzjuBpjK9MhSrf_9uKKRk1pOGfwN4qqja-WIo1phw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VxIK0xwyLbw", "title": "Top 3 JWT Security Best Practices for Your Apps" },
+    { "id": "QSGrqOgFFgk", "title": "How to choose the Best Node.js Docker Image" },
+    { "id": "_mEzbdw6ziI", "title": "How to Find Vulnerabilities in Containers" },
+    { "id": "SOa2zw0-K4E", "title": "Why you NEED an Open Source Vulnerability Scanner" },
+    { "id": "5xngh29yx9A", "title": "How to Use GitHub Actions Environment Variables and Secrets" },
+    { "id": "sKZOC5HHX1I", "title": "10 Node.js runtime features you SHOULD be using in 2024" },
+    { "id": "4jA1uAIdt8U", "title": "Top 5 VS Code SECURITY Extensions" },
+    { "id": "PrGvhqKgV3Y", "title": "How to Build an NPM Package for ESM and CJS" },
+    { "id": "NiRIliSnweU", "title": "Secure Applications with ASPM" },
+    { "id": "6V-jc1rd0qc", "title": "Live Hack: Exploiting AI-Generated Code" },
+    { "id": "YbK0PTC-QMU", "title": "AI Guardrails for Application Security" },
+    { "id": "VxIK0xwyLbw", "title": "Top 3 JWT Security Best Practices for Your Apps" },
+    { "id": "phCNC1MvdYw", "title": "TASConnect and Snyk" },
+    { "id": "x4jLYH123hY", "title": "Selecting your AppSec Platform Webinar: Why Customers Choose Snyk" },
+    { "id": "mCI_zFMmwPE", "title": "Strategic Application Security Trends in 2023" },
+    { "id": "GcvZJIZNy-s", "title": "How Organizations Balance Security & Software Development" },
+    { "id": "DDXYoLl252c", "title": "Manifest V3 Essentials: Chrome Extension Tips!" },
+    { "id": "MiOLIdhgH1Q", "title": "Beginner DevSecOps: Start Your Cybersecurity Path Now!" },
+    { "id": "uaYuprnpOIQ", "title": "Exploiting dompdf Vulnerability with PHP #cybersecurity #applicationsecurity" }, 
+    { "id": "40fJZduaeh0", "title": "Building a Secure Marketplace with Stripe" },
+    { "id": "aM-faFHrU7s", "title": "Office Hours: Fixing Vulns Live in the IDE Plugin Made Easy" },
+    { "id": "-wE2OV1HvPQ", "title": "SocketSleuth - Burp Suite Extension for websocket testing" },
+    { "id": "uJ_hOA9IQw0", "title": "Understanding NPM Dependency Confusions - What You Need to Know" }
+  ]
+}

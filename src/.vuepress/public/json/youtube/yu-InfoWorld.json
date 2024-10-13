@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "InfoWorld",
+    "name": "InfoWorld",
+    "profile": "https://yt3.googleusercontent.com/qEjCPQHLinpI4qcMQPH5t2p7IjD20Kh-GDdRutdgVjhqbGyNfQN0igGsqaOgkXBrEByIfs1sFA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/m1nFXCS4XKC5GBi4t4jzAcSOH4RtV_iJovFX7knnHB6TnVYSErtLmiUI1sgZxYbtJjlVjyH9rw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-qdrgt1Cdd0", "title": "How to use the watch command" },
+    { "id": "2NABPKbwN4E", "title": "Using plugins to expand Pytest's software testing powers" },
+    { "id": "kAUY4BIQoKM", "title": "The basics of Pillow, Python's image manipulation library" },
+    { "id": "U28MiS9fjzQ", "title": "Intro to FastHTML, the Python framework for frontend and backend web development" },
+    { "id": "ruA-vEQcnLc", "title": "How to use Operators" },
+    { "id": "oQAL3Cf6mJo", "title": "How to use the Pv command" },
+    { "id": "CuI8aRKeOBk", "title": "How to use dbm to stash data quickly in Python" },
+    { "id": "fkcA1fheI98", "title": "How to use shelve to save Python objects to disk" },
+    { "id": "tnn246IqsV0", "title": "How to use the chmod command" },
+    { "id": "gyscrrS4hEA", "title": "How to make HTML GUIs in Python with NiceGUI" },
+    { "id": "efHUq3RGWUc", "title": "How to use the Shuf Command" },
+    { "id": "PgVURXv1DQE", "title": "How to auto-generate Python type hints with Monkeytype" },
+    { "id": "6DS5eT5Xdkc", "title": "The SL command easter egg" },
+    { "id": "_iYmXEPFGrY", "title": "Google Mesop | A framework for web-based Python apps" },
+    { "id": "p9qRDgaKQkI", "title": "How to use the stat command" },
+    { "id": "GqZT9EY4MGQ", "title": "How to compile the Python interpreter from scratch on Microsoft Windows" },
+    { "id": "xPwQPDrzUXU", "title": "How NumPy  2 uses SIMD for faster processing" },
+    { "id": "4Amz3fh3T2U", "title": "Tauri, a Rust-powered Electron alternative" },
+    { "id": "g0riVz5xDM4", "title": "How to see login activity" },
+    { "id": "ehsOLr_QW-E", "title": "Better async in Python with AnyIO" },
+    { "id": "RX0U0hT6kRA", "title": "How to use Ibis, a universal Python dataframe library" },
+    { "id": "LHNpWn4Qdz8", "title": "How to access directories in Linux" },
+    { "id": "Q31qAqD1Nw4", "title": "How to use Cython for parallel operations in Numpy arrays" },
+    { "id": "_nhmF25P7Qs", "title": "How to use the shred command" },
+    { "id": "qag_6CesuPg", "title": "How to use the Apropos Command" },
+    { "id": "xw-8XBuTrIg", "title": "Python 3.13's new JIT and no-GIL modes" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "mlopslearners",
+    "name": "MLOps Learners",
+    "profile": "https://yt3.googleusercontent.com/UQuN-2WyITOg_W-rW7nHVYVlbNcGoqy37NBqbHbLHxrLkpQN02-gd9-lJogJm7cDozD8w9IS1A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sgCMt8Rn7aPeWaAEh7F7_k3zJUkPS1Gq9dv2xmHWVY6qVDgRoHeu6lOrfEcdIvjegL77hJUceg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "X8OOgKFhg4g", "title": "[Book club] Designing Machine Learning Systems: Chapter 8" },
+    { "id": "jci0GnWbD3c", "title": "[Book club] Designing Machine Learning Systems: Chapter 10" },
+    { "id": "vY3QfLCK7ms", "title": "Future of DataFrames and Data Systems with Wes McKinney (creator of pandas and Apache Arrow)" },
+    { "id": "3e9YAdOpihI", "title": "Lessons learned from building cool products (winners of MLOps Discord demos)" },
+    { "id": "hPicVDdMbYM", "title": "[Book club] Designing Machine Learning Systems: Chapter 5" },
+    { "id": "C_140NJfNtE", "title": "[Book club] Designing Machine Learning Systems: Chapter 7" },
+    { "id": "JrgqA3xL8AY", "title": "[Book club] Designing Machine Learning Systems: Chapter 6" },
+    { "id": "v_q2JTIqE20", "title": "GPU optimization workshop (hosted by @ChipHuyen )" },
+    { "id": "spFsPbDw7Lg", "title": "[Book club] Designing Machine Learning Systems: Chapter 1" },
+    { "id": "Pmcw77zJYUk", "title": "State management for LLMs (with Charles Packer and @ChipHuyen )" },
+    { "id": "2ryjXysW6_c", "title": "[Book club] Designing Machine Learning Systems: Chapter 3" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "toollabkr",
+    "name": "툴랩 ToolLab",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSqh_QZRXIg9nqy4q-5F3tsh5iOCmETcu_v5WRx=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "-lCAVBkMFLY", "title": "네이버 플레이스 순위 크롤링 셀레니움" },
+    { "id": "9cwNp96Ld74", "title": "매크로 자동화 프로그램 (워드프레스 자동화 만들기 1)" }
+  ]
+}

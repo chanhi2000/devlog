@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "on--da",
+    "name": "온다 ON-DA",
+    "profile": "https://yt3.googleusercontent.com/sLhqmMHb-WpsUaBas2oC2-KECVNacZl3qBa7izCVnqrnZvORLAwSod1c42m_TpPSVyaLzJVY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5e8VD--RbhCucnzS963YL-DTCALa6KoNOPFwNOcsXSug-L2m7-yhR6RW2v1DqTovA5sFwr1z=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jC21erouK68", "title": "1분 한글 꿀팁 | 한글 문서에서 체크박스 삽입하는 방법 | 네모칸 체크 표시 하는 4가지 방법" },
+    { "id": "YhLXJvvaNPY", "title": "복잡한 인터넷 주소 간단하게 줄이기 | bit.ly 활용 | 초보용 | url줄이기" },
+    { "id": "DWYCx6WqWeU", "title": "구글 미트 사용법 | 구글 미트의 모든 것 03 | 엄청 쉬운 화상회의 | 구글 미트 설정하기" },
+    { "id": "Jx9J4NJLF9E", "title": "한글에서 밑줄, 취소선 넣기 만들기 | 모양 및 색 넣기 | 실습자료 있음 | 1분 한글 | 한글 단축키 | 왕초보" },
+    { "id": "kOqVX8KfbPs", "title": "크롬 활용법 | 실수로 크롬을 닫았을 때 빠르게 복구하는 방법 | 닫은 탭 다시 열기 | 단축키 | 초로미" },
+    { "id": "eG325h2FXvg", "title": "크롬 활용법 | 크롬에서 다른 사이트 1초만에 검색하기 | 네이버, 유튜브, 다음, 구글드라이브, 빙, 네이버 지도, 쿠팡, 지마켓 등등 1초만에 검색 | 검색 사이트 추가하기" },
+    { "id": "su9XzyTnsQQ", "title": "1분 한글 꿀팁 | 여러 문장도 한 번에 한 줄로 만들기 | 자간 줄이기 | 한줄로 입력" },
+    { "id": "X7AN7ksbXx4", "title": "엑셀 한영 자동변환 해제하기 | 엑셀 한글 영어 바뀜 문제 해결 | 한글로 입력했는데 영어가 나와요 | 1분 컴퓨터 활용" },
+    { "id": "uyurSXJKe9s", "title": "캔바의 대량제작 기능을 활용하여 나만의 학습 플래시카드 제작하기 with chatGPT | 암기 영상 만들기" },
+    { "id": "dSEiW0yB1As", "title": "크롬 활용법 | 크롬에서 QR코드 만들기 | 크롬에서 QR코드 접속하기 | 1분 구글" },
+    { "id": "rs1BDo5c2oo", "title": "구글 킵 사용법 | 구글 킵의 모든 것 | 스마트한 메모관리 | Google Keep | 메모" },
+    { "id": "DXZe_Bm45Yc", "title": "한글 문서에 서명 넣기 | 사인 넣기 | 초간단 한글" },
+    { "id": "cVfd-Fnj4Po", "title": "구글 계정 삭제 방법 | 구글 테이크아웃" },
+    { "id": "GSOdKb6wAX0", "title": "재직증명서 발급하는 방법 | 교원(기간제 교원) | 교육감 소속 지방공무원 | 교육공무직원 | 재직증명서 PDF로 저장하기" },
+    { "id": "9O5ep-Fgq8c", "title": "구글 드라이브 사용법 | 구글 드라이브 데스크톱 버전 동기화 해제하기 | 동기화 폴더 추가하기" },
+    { "id": "BZXrqzHwkbI", "title": "구글 시트 활용 독서기록장 만들기 | 읽은 책 관리 | 독서 기록 템플릿 공유 | 독서노트 | 독서기록" }
+  ],
+  "playlists": [
+
+  ]
+}

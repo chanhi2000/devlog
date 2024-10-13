@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "TomBaranowicz",
+    "name": "Tom Baranowicz",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMiNB76KsJq1qpyAHAH7XOFGKgwaK90X-k3GEhTc90=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7ar3PW28MscBWAfOt_2SUpYsOavZ78n9I8X2OxsKM-o7JcCIRdUN9GEOH7T9wrAsxNkmhQ9c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "04Sa3TBOYnw", "title": "React Native CLI vs Expo" }, 
+    { "id": "8_b-6djCRrc", "title": "iOS Tutorial - In App Purchase with Adapty" }, 
+    { "id": "qrwKeS4r0_U", "title": "REACT NATIVE TUTORIAL - Teleprompter in TypeScript" }, 
+    { "id": "Bk90lT6ne3g", "title": "Spotify API in JavaScript Tutorial - Playlist Export" }, 
+    { "id": "jpV1B2N4IxY", "title": "Twitter API in JavaScript - Twitter Monitoring Tutorial" }, 
+    { "id": "3MXYwpifQOM", "title": "Training CoreML Object Detection model from scratch using CreateML" }, 
+    { "id": "1d1YSYzuRzU", "title": "Puppeteer + Node.js = App That Tracks Prices on Amazon" }, 
+    { "id": "8_b-6djCRrc", "title": "iOS Tutorial - In App Purchase with Adapty" }
+  ]
+}

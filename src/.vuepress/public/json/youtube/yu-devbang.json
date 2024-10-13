@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "devbang",
+    "name": "개발자방16",
+    "profile": "https://yt3.googleusercontent.com/OIs9ImO0jgE_Jcyi0Afq2uWtkPBKITBYuLgHeE1xigp_Sy3Wxp4pLqKmsbFkAJtVLGvlaaJvxQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yJGRehw6R29sOCOZCP1lGMa7mKON3sRqd7PDj0wUKR_F9VcdaxJ0Y9g7HFPTKOaVW5cnX5e171U=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0fAYZPX9Y5k", "title": "챗GPT 최적화 프롬프트 엔지니어링 2가지 방법과 6개 전략" },
+    { "id": "uwNcb58Qgh8", "title": "CSS 속성 재설정 이유와 효과 (Reset 코드 예시 포함)" },
+    { "id": "jv0LvbGy83w", "title": "세계 최초 웹사이트 이야기: 네트워크 기술의 시작" },
+    { "id": "RLTKK15IiGw", "title": "IT 개발자 정리해고 트렌드, 살아남는 방법" },
+    { "id": "NRp1X4FX2Lg", "title": "인공지능 프로그래밍 강의 채널 탑3 추천" },
+    { "id": "vDVmDhTlEEo", "title": "1-HOUR study with me for programming with chill music" },
+    { "id": "v5pouKlXJb4", "title": "CSS 디버깅 도구: Border vs Outline vs Background 속성" },
+    { "id": "Cb1m6EacCUk", "title": "자바스크립트 이벤트 위임 vs 온클릭 이벤트 핸들러 활용 차이점 (효율적인 이벤트 적용 방법 설명)" },
+    { "id": "fOZHRzEVObM", "title": "웹개발 도구 꿀팁 1: 빠르게 웹사이트 배경 섹션 디자인 후 SVG, PNG 다운로드" }
+  ]
+}

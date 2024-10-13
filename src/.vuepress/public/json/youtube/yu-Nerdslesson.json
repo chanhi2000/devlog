@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Nerdslesson",
+    "name": "Nerd's Lesson",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbYdXPTyeyqM-F4yzLhj_-UNx_Mhdq6CMR-Whbg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/91Yi-B82iHIrscvz-yG4ZUFrEzQoAjND4MQ2QwBMtXdKA5uQwchpN21P3wRpacZ27-DuYrE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cd3P3yXyx30", "title": "React JS Tutorial - Basic to Advance (2023)" },
+    { "id": "k9ZigsW9il0", "title": "Computer Networking Fundamentals | Networking Tutorial for beginners Full Course" }, 
+    { "id": "UVUd9_k9C6A", "title": "PowerShell For Beginners Full Course | PowerShell Beginner tutorial Full Course" }, 
+    { "id": "iwRneX7GIGI", "title": "Database Engineering Complete Course | DBMS Complete Course" }
+  ]
+}

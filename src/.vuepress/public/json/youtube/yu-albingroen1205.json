@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "albingroen1205",
+    "name": "Albin Groen",
+    "profile": "https://yt3.googleusercontent.com/1ykhU781UJAzdI2EWEMseBoVBFtoUp_Q8rHRe5NfZ-uicRM46F15JOuiRFbCr_-Mv0e4pxUl=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xQk-hUlUYuQrETR6p37dDuPuIydQymTU0lnjKQ3GEFsz6dr0Pwm_T-2Ug0d--Nd8nNVKwl8L=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sWvdsJH9MF8", "title": "`quick.nvim` v2.0 Update (Native LSP is Here!)" },
+    { "id": "OhbgZbORFd4", "title": "`quick.nvim` | A fast, modern and reliable Neovim configuration" }
+  ]
+}
+

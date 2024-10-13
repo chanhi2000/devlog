@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ScreenCastsDev",
+    "name": "ScreenCasts",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN_YBphMoHSQ-dShAOMjllIuYCFTi5_LKYfKTeGFA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cs0gO8kqwiP1p7En9bO5BKBjGPyzR8Qo9c7RjJP5bu8ppEuADD-XKkfe40ybU5pOUnpL9D4389Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Efr7SUrBUQw", "title": "Create dynamic forms with Vue JS" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "keesun.b",
+    "name": "백기선",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOU_Kd2uWCTR9C_mMyJgZJG6b6A4fHogDbvXN-qd2E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2ick6IhDdmvncEv-rt69YzhK_GYSwgvE6dlf2_Xwn2YxsioO3TjjdvHOzsfsMdKVI4WoJWxaow=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jADuleKrl_I", "title": "[인프런Q&A] '클래스 로더' 강의에서 클래스 로딩을 설명할 때 잘못된 것 같아 질문드립니다." }, 
+    { "id": "Q-8FC09OSYg", "title": "자바, 리플렉션" }, 
+    { "id": "tDvTHHRr0gM", "title": "`@DataJpaTest`를 사용할 때 반드시 알아야 하는 특징 중 하나." }, 
+    { "id": "k6IB8Dc3s6Y", "title": "[스프링 시큐리티] 인증 세션 개수 제한하기" }, 
+    { "id": "IFc1mG48j0s", "title": "쿠버네티스 시작하기 1부. `minikube`와 `kubectl` 사용해서 앱 배포하기" }, 
+    { "id": "-mFD1iX5MJo", "title": "Spring Boot 2.3.1, `DomainClassConverter` issue and workaround" }, 
+    { "id": "NZ_lPFvu9oU", "title": "예제로 배우는 스프링 입문 5. Inversion of Control" }, 
+    { "id": "4BBhHpVNzrc", "title": "[예제로 배우는 스프링 입문] 3  프로젝트 살펴보기" }, 
+    { "id": "hsSc5epPXDs", "title": "JPA, `OneToMany` 양방향 관계 `MappedBy` 해설" }, 
+    { "id": "TMFW3F5hJ9o", "title": "[예제로 배우는 스프링 입문] 2. 예제 프로젝트 준비" }
+  ]
+}
+
+
+

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "CoreDumpped",
+    "name": "Core Dumped",
+    "profile": "https://yt3.googleusercontent.com/0zHZdbrifNwMxc35Z9gn4zUJg7LN2A9uU2Xw6YA7uwDxHPBmlIEJmvmmjJPj1cpqfbs2NZjU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "xFMXIgvlgcY", "title": "HOW ARE DYNAMIC SIZE LISTS STORED IN MEMORY?" },
+    { "id": "ioJkA7Mw2-U", "title": "WHY IS THE HEAP SO SLOW?" },
+    { "id": "3X93PnKRNUo", "title": "The video you needed to understand CONCURRENCY" },
+    { "id": "HjneAhCy2N4", "title": "HOW TRANSISTORS RUN CODE?" }
+  ],
+  "playlists": []
+}

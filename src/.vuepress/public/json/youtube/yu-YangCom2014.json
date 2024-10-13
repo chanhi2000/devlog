@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "YangCom2014",
+    "name": "양컴",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mJ0JDDky0dHQSLU3MqD6CfFqjPPxCBxVxiZQcZ0my4lDM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8Fc6QtC0ec1ZlhX5yMqD61hlTYP7mMlUX6CYeDWpcoyHhUPzRylZWGpt1nQ6Y-5JQqul8Txat1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SGsSTg57fgo", "title": "요즘 가성비 컴퓨터" },
+    { "id": "BrgWIWQ23tA", "title": "쿨링성능 끝내주는 고사양 컴퓨터" }
+  ]
+}

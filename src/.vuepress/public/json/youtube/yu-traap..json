@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "traap.",
+    "name": "Traap",
+    "profile": "https://yt3.googleusercontent.com/lN3v2wusHqIXruEydcIztjPV28X8hbwoHmqh9bQ-eMRUJKFGooc2cplpi5XlGTHp3NURUdPV8W4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "CdXH-LaX6Ms", "title": "Review Harpoon2 code changes." },
+    { "id": "4crDKASq9Nc", "title": "Paste or Drag-n-Drop Images to your Neovim documents." },
+    { "id": "mBXi5lklqt8", "title": "LSP-ZERO.NVIM ... Almost ZERO effort." },
+    { "id": "xyJX55Zf99k", "title": "nvims has moved to https://github.com/Traap/nvim" },
+    { "id": "W2DBgkAJRUI", "title": "clipboard-image.nvim : A single solution across Arch / Ubuntu, Windows 10 / 11, and WSL2 +" },
+    { "id": "zfX4u-uPW7Q", "title": "TMUX Productivity - Toggle TMUX sessions to increase your personal productivity." },
+    { "id": "DjMg0TV8wqM", "title": "Navigate between TMUX, Neovim, and Vim in any direction with Ctrl-H, Ctrl-J, Ctrl-k, and Ctrl-l." }, 
+    { "id": "xpBoiTIiepc", "title": "Barebones LazyVim" }
+  ]
+}

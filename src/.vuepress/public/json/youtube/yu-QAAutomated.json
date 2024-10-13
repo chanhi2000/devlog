@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "QAAutomated",
+    "name": "QA-Automated",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTdjGO7eTvfMcxhVU1kahZUCoy1QjeEQW1vcjflKA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p_AUs6Q42CSNMlddGyhXGJ7OEQvo2YKJImQUMZj9LbZj0va-2VhJeW4CL94GceEhjaa09nXYkw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NdN2DXZ47X4", "title": "JMeter Tutorial | Jmeter Utilizing Data sets" }, 
+    { "id": "sDp8JNbITm4", "title": "Write and Run First Android Espresso Test Case" }
+  ]
+}
+

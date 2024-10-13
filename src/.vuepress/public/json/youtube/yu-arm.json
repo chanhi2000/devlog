@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "arm",
+    "name": "Arm®",
+    "profile": "https://yt3.googleusercontent.com/nZ7u4zJvhV0t5615nGJ9pFFm03qkRaijLl7gRtg0-HwJqg54hr_pBzhY479YZqMEQNZdOnR3pCw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4z6uv3kBgUwl7qrWa4QE3OmCqVQdjdiJTUW0FD50ozJtWKFA4lx9gL7TjsUxFD5hUmATxT8V=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "obNUhqfLeIE", "title": "tinyML in Assistive Technology: live with Neuton.AI" },
+    { "id": "qo0kotNj1do", "title": "AI-Enhanced IoT Applications: Tech Talk from System Elite" },
+    { "id": "tWTWUP95TfY", "title": "AWS join us live from their lab to talk the Software-Defined Vehicle | Arm Tech Talk" },
+    { "id": "6bDrNmb_EMI", "title": "Simulating Arm CPUs with Custom Benchmarks on IP Explorer" },
+    { "id": "ddN_hoRI8WA", "title": "How to Optimize Game Performance for Android on Arm" },
+    { "id": "hC_qkzyLd68", "title": "Faster build, healthier code with embedded Continuous Integration" }
+  ]
+}

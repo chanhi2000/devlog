@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "mCoding",
+    "name": "mCoding",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPen1ksc69xIb0FCBmNJDJXcLvoFGcA1uyc84uF=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2wZtqBvnsWAIh-iDKd95bhNKDTJGkFsnQzThi2WluDZu0M3CcSOca8Ilq32znDZfu_fEhCPL=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b0HMimUb4f0", "title": "Docker Tutorial for Beginners" },
+    { "id": "RejIVgfER-4", "title": "Run an AI Large Language Model (LLM) at home on your GPU" },
+    { "id": "7Qu_KXc7xSI", "title": "All 71 built-in Python functions" },
+    { "id": "1p7xa_BHYDs", "title": "Python itertools - The key to mastering iteration" },
+    { "id": "oYrnTQAFH1Q", "title": "ASGI Fundamentals: Asynchronous Web Apps in Python" },
+    { "id": "ai7y--6ElAE", "title": "ASGI Fundamentals 2: Application classes vs. functions" },
+    { "id": "_CzaciNrHRE", "title": "What you need to know about Startup and Shutdown Events in FastAPI and ASGI Applications" },
+    { "id": "HBC7i1AbsyA", "title": "Top 5 IDE Productivity Hacks That Will Save You Time Programming" },
+    { "id": "LBJlGwJ899Y", "title": "The ins and outs of context managers and try-finally in Python" },
+    { "id": "dEZKySL3M9c", "title": "Async for loops in Python" },
+    { "id": "WNmNXc_EZdM", "title": "New Windows Command Escape Vulnerability - Critical CVE ... or is it?" },
+    { "id": "9L77QExPmI0", "title": "Modern Python logging" },
+    { "id": "COa-JHYuW3M", "title": "Python Debugging (PyCharm + VS Code)" },
+    { "id": "2f7YKoOU6_g", "title": "You won't believe it! Import from the Cloud" },
+    { "id": "i_wDa2AS_8w", "title": "31 nooby C++ habits you need to ditch" },
+    { "id": "qZNJTh2NEiU", "title": "Bloom Filters" },
+    { "id": "PXWL_Xzyrp4", "title": "Don't make this big O mistake!" },
+    { "id": "5vpdzRbfTIM", "title": "`type(obj)` vs. `obj.__class__` in Python, and changing an object's class." }, 
+    { "id": "1S2h11XronA", "title": "Why I prefer attrs over dataclasses" }, 
+    { "id": "DhUpxWjOhME", "title": "Automated Testing in Python with pytest, tox, and GitHub Actions" }, 
+    { "id": "g_wlZ9IhbTs", "title": "You should put this in all your Python scripts | `if __name__ == '__main__'`: ..." }, 
+    { "id": "AmjoK55h68Y", "title": "`unique_ptr`: C++'s simplest smart pointer" }
+  ]
+}

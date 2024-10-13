@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-rj1gs3lz2r",
+    "name": "공학은 취미로",
+    "profile": "https://yt3.googleusercontent.com/LNKx-HVtjy7NC_c1vbJkHUedmniXMyJi-Wp4RRR1BSINqTpbmi2EnKtc1kO19DY_ykxVTsnu8nE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rlqym_qHbEjm_O7dL8FSUr9N-qBj6BKxUnYgdSHTroQ7CHZRtLFGX_Y4jcqRntfUp7Ii-argcw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Th929vW3otM", "title": "[Ghidra/Reversing] CrackMe 문제를 풀어 봅시다. (abex' CrackMe 4)" }
+  ]
+}

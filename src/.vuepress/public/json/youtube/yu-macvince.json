@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "macvince",
+    "name": "MacVince",
+    "profile": "",
+    "banner": "https://yt3.googleusercontent.com/ixyZIsOWXnFQ8d9IZoBDogRtixTuXua3XzXis3wNpOtC5rBwC5aSJJF1aiBRDSIQBMX-zjzEjQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "beCMr0fWDuQ", "title": "41 Simple Tasks on Windows vs. MacOS" },
+    { "id": "3jeeFc2Vo1U", "title": "NEW TO MAC? Complete Beginners Guide 2024" },
+    { "id": "3jeeFc2Vo1U", "title": "NEW TO MAC? Mac Tutorial for Beginners 2024" },
+    { "id": "Ikn2A8c_IPs", "title": "Own a Mac & iPhone? 12 Tricks You NEED to Try!" },
+    { "id": "KxrgLtd_XJ4", "title": "How I Turned My Mac into a Productivity Machine" },
+    { "id": "yagdBEJXuII", "title": "How I Set Up a Clean Mac" },
+    { "id": "cg5voH0Hp5s", "title": "How to (Actually) Use Apple Mail on Mac" },
+    { "id": "sD2wv0e86UE", "title": "8 Apps to Customize Your Mac" },
+    { "id": "0rrwPTVjVOA", "title": "50 Mac Tips in 11 Minutes" }
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "opensavvy/groundwork/prepared",
+    "desc": "Magicless testing framework for Kotlin Multiplatform",
+    "topics": ["hacktoberfest", "kotlin-multiplatform"],
+    "officialSite": ""
+  }
+]

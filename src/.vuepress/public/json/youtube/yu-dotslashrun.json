@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dotslashrun",
+    "name": "dotslashrun",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSh_UO8MevQN261TogSUZ04rjonUcdXbPQPbQsI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-jByL7n2ES1Q_aeJ6uI4PPaRAovM6TaR4Gwz2YR5ljpXFQYhtFHOXFbBczzfRNf_g_55uepk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "B8ZJXKG8AOw", "title": "Docker Yolo V4 image | Object detection | Containers | darknet | gpu | webcam | v3" }
+  ]
+}

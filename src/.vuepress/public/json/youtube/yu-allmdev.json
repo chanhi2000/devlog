@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "allmdev",
+    "name": "allmnet의 Python 개발 채널",
+    "profile": "https://yt3.googleusercontent.com/8wykd-NOp0ys9bSyZJgEju8iM91q3ctpVgziqLIdQQ9Iw8DYsuEaR1fo-uorzufN13LtFuS_Uw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sRm7TGzs7lX7vQYYa3bC5AKlWjI3TmTxUZhO38_pIoAhrDuPTFnju4-4RKJzU4vC1yj5cCJ6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OPupoXVjmNY", "title": "Python 기초 - 정규식(regex) 전화번호 패턴 만들어보기" },
+    { "id": "1uI1OzuuUDw", "title": "Python 기초 - 정규 표현식 기본" },
+    { "id": "jKE1BKpm-fQ", "title": "Python 기초 - 홀수, 짝수 연산 + 소수점 처리" },
+    { "id": "-OJhka0HEwA", "title": "랭체인(Langchain), 프로덕션에서는 쓰지말라고?" },
+    { "id": "DUn796wcsCs", "title": "Python 기초 - 함수 타입 지정, Type hint" },
+    { "id": "SKSuV_R_32g", "title": "Python 기초 - 특정 문자열 검색하여 처리하기" },
+    { "id": "DiJ2fab5_7E", "title": "Python 기초 - 문자열을 타임(시간)값으로" },
+    { "id": "bf3luQF90iU", "title": "Python 기초 - 100배 빠른 Vectorization" },
+    { "id": "gdzeE6ys2nM", "title": "Llama2(라마2) 모델 개인 노트북으로 실행하기 요약(CPU기반)" }
+  ]
+}

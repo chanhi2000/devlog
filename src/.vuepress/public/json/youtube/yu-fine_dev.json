@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "fine_dev",
+    "name": "파인데브 FINEDEV",
+    "profile": "https://yt3.googleusercontent.com/AjT5qLlkNLbxcB7LCGZAvRcg92SqjagAqepeWmBH-txOCbYV_NFeR7e2DBfqhksQsOlzACLk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ot6Z-2WceXN5BqEr7bMWRm9X8WgiYlO8vDanNr8kDA7W4QBnSbFHCE8hT0fs7fJ4cvcMTboMyQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7Dokura_iY8", "title": "파이썬 에센셜 3강 - 시퀀스 타입, 문자열 str | 입문자들을 위한 파이썬 기초 강의" },
+    { "id": "lht1odJj_kg", "title": "윈도우 사용자라면 주목! 윈도우 사용자가 꼭 해야 할 세팅" }, 
+    { "id": "9ARUjNF_21g", "title": "칙칙한 윈도우 터미널 이쁘게 꾸며주기 With. Oh My Posh | 설치, 설정, VSCode에 적용까지" },
+    { "id": "1fkCZDh8gT0", "title": "코딩을 편하게 하기 위해 꼭 설치해야 할 Visual Studio Code 플러그인 #코딩 #파이썬 #vscode" },
+    { "id": "NNyM_EqV96Q", "title": "파이썬 에센셜 1강 - 출력, 변수, 데이터 타입 | 입문자들을 위한 파이썬 기초 강의" }
+  ]
+}

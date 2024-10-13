@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "NetworkShield",
+    "name": "Network Shield",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSpjnFQeCGQTtZOUUBOedIeS66LSy6u5YEdUtc3Ew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zJCHHPI08tZzvaj7Uk8WgyWg-l2urFhT21tUdywK8hBDDA8Gs2rdkBaiiNW-WraW9MaUUH7t=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JY_ZrJsq6K4", "title": "Day 1: Introduction to CCNA  | Free CCNA 200-301 Complete Course | Explained in Hindi | 2024 #ccna" },
+    { "id": "gPylcbdeeGo", "title": "Understanding Access Points and Wireless Controllers | Beginner's Guide 2024" },
+    { "id": "yDm2GwilcI0", "title": "Day 4: Understanding  Firewall, Access Point, and Wireless Controller Explained |  #ccna #2024" },
+    { "id": "pw4u4DQdpDw", "title": "Day 14: Amazon Virtual Private Cloud (VPC) | Lab" },
+    { "id": "J5tnGOYh69w", "title": "Lecture 22: LoadBalancer Between two VPC | AWS" }
+  ]
+}

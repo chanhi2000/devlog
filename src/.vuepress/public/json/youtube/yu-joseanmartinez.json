@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "joseanmartinez",
+    "name": "Josean Martinez",
+    "profile": "https://yt3.googleusercontent.com/SHmUeGne1F9p5gdLK_sErZbaRA8KqhSDIyuKOZUSKtavI6onzo4g3StdSOrjFs9t68F4V1ThAcM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sYKSmIMzjshWM6wgrkIsF2oxaIcY0Fa6wmsfbc2GiJWKlsTR5e6nST0ljxwu-_nuHuE52crOsQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZHskJVMH5fM", "title": "Coding a new full stack project - setting up the database | devlog #1" },
+    { "id": "mmqDYw9C30I", "title": "7 Amazing CLI Tools You Need To Try" },
+    { "id": "6pAG3BHurdM", "title": "How I Setup Neovim To Make It AMAZING in 2024: The Ultimate Guide" },
+    { "id": "uOnL4fEnldA", "title": "How To Make Your Boring macOS Terminal Amazing With Alacritty" },
+    { "id": "DTMllOxW8YY", "title": "ASMR - Coding a video courses platform (in nature) | No Talking" },
+    { "id": "GDCOQBUU0Xw", "title": "Coding a video courses platform with sveltekit & postgres (in nature) | Detailed" },
+    { "id": "gMTfkPxcoEk", "title": "My Ultimate Case For The Amazing MX Corne Keyboard | Tented & Regular" },
+    { "id": "vzDTdLaAzXc", "title": "How To Build An RGB Corne Split Keyboard: The Complete Beginner's Guide" },
+    { "id": "AA8fw2MbpYg", "title": "How To Program Your Keyboard With Code Instead Of QMK Configurator" },
+    { "id": "6pAG3BHurdM", "title": "How I Setup Neovim To Make It AMAZING In 2024 | Complete Guide" },
+    { "id": "8W06wMNZmo8", "title": "How To Make An Amazing Custom Menu Bar For Your Mac With Sketchybar" },
+    { "id": "CEMPq_r8UYQ", "title": "A Powerful Way To Make Editing Code In Neovim Even Better" },
+    { "id": "ybUE4D80XSk", "title": "How To Setup Linting/Formatting In Neovim & Replace null-ls" },
+    { "id": "cxNDZHwln1w", "title": "Building My Blog With SvelteKit, Markdown & Tailwind CSS" },
+    { "id": "6mxWayq-s9I", "title": "How To Use `lazy.nvim` For A Simple And Amazing Neovim Config" },
+    { "id": "80mWp6H4zEw", "title": "The Ultimate Beginner’s Guide To Learn And Master Vim" },
+    { "id": "U-omALWIBos", "title": "How I Use Tmux With Neovim For An Awesome Dev Workflow On My Mac" }, 
+    { "id": "vdn_pKJUda8", "title": "How I Setup Neovim On My Mac To Make It Amazing - Complete Guide" }
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "OneMarcFifty",
+    "name": "OneMarcFifty",
+    "profile": "https://yt3.googleusercontent.com/rOZ_Wh3v_9GX0eJDlr9fAyuo8UxeMC4SxjLbQhKgC05FndsW4wXACN4yB9vnEzu29QsdGdNKoQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LIc_q6Mev-PW9EHNcS6kyVs2GvFJ9o6FpOMpdoa_U1Q5re_XvW27aPuTaWV9UC4_CUWhhAymepE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cTufqsBbXOU", "title": "build a home lab server with Virtualbox, Webmin and Portainer" }
+  ]
+}

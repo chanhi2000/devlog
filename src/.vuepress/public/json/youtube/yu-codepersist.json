@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codepersist",
+    "name": "Code Persist",
+    "profile": "https://yt3.googleusercontent.com/1afmAtTQXJgmuibJbEIJBQJSEEq3WnzA-ydWWU7DSaY9VgUKSzoqlv6LzJG2j6-_KpVj_h0xFA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9tBRm2yd7ackgf2dwqIA5X3QH5dQHO7VpyvWWYrR1JA-2rI1A99NdjkcrXP5Nqpfg0o6W8CtUPk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z_ahq2h9Xxg", "title": "How C++ took a turn for the worse" }
+  ]
+}

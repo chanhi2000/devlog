@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "MichaelMJD",
+    "name": "Michael MJD",
+    "profile": "https://yt3.googleusercontent.com/D96W3q_Gg1bvcqBT_631-tMYM2NB0RhjHAtPTTJcN9e4EYE_m9DlF8UM5jmaKO9wT6-38w7p-tM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9vHYFY3OZqUUvwY7gd072qo1SdIY1FLyOEut9qI44MDbYMwiA01JNpqeJ6IZY2AzqebDX0kWNw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xyebvwn88Iw", "title": "PearPC - Emulating Mac OS X on Windows XP!" },
+    { "id": "NQJoJnk0wxA", "title": "Installing Apple's Rhapsody OS on the $5 Windows 98 PC!" },
+    { "id": "fHYLWIJTaws", "title": "Making a Touchscreen Hackintosh... 2009 Style!" },
+    { "id": "aGm4uzmVel0", "title": "Nintendo's Bizarre Web Browsers for Windows" },
+    { "id": "tGJ0V3AqA04", "title": "Installing OS X Jaguar on an iBook G3 but Everything Goes Wrong-ish..." },
+    { "id": "AnqeUY1v7q0", "title": "Using Discord on Vintage Macs!" },
+    { "id": "PnBQyW-jSOU", "title": "Running Mac OS on a Nintendo DS!" },
+    { "id": "QQD3yx-JF2E", "title": "Wubuntu - The Windows Themed Linux Distro You Shouldn't Use" },
+    { "id": "wsSMmdwh89Y", "title": "Supermium - A Modern Web Browser for XP and Vista!" },
+    { "id": "Ysm7z03qyyg", "title": "WarpStream - YouTube for Vintage Computers!" },
+    { "id": "aPDy10Bt-Oo", "title": "Using the GameCube Keyboard on a PC" },
+    { "id": "02e4VbIMYuQ", "title": "WiiNet - The Internet Channel Revived!" }, 
+    { "id": "mdXQ8rcmF48", "title": "Installing Mac OS on the Nintendo Wii!" }, 
+    { "id": "tdhCDyJhjag", "title": "Running EVERY Classic Mac OS Version in your Browser! - Infinite Mac Updates" } 
+  ]
+}

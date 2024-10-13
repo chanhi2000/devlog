@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "AntonPutra",
+    "name": "Anton Putra",
+    "profile": "https://yt3.googleusercontent.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/C_gAF421iSd-dgT0f5QXzT52XNMbqPcwyNYyketDh4zk8AYAH5N3LBynwyv_WVcB1bbYLy6Qpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iE9Qb8dHqWI", "title": "Kubernetes RBAC Explained" },
+    { "id": "hixs2GIGrUw", "title": "How to debug Kubernetes? (Deployments, Services & Ingress)" },
+    { "id": "DJ2sa49iEKo", "title": "How to debug Kubernetes Ingress? (TLS - Cert-Manager - HTTP-01 & DNS-01 Challenges)" },
+    { "id": "aRXg75S5DWA", "title": "Create AWS VPC using Terraform: AWS EKS Kubernetes Tutorial - Part 1" },
+    { "id": "uiuoNToeMFE", "title": "Create AWS EKS Cluster using Terraform: AWS EKS Kubernetes Tutorial - Part 2" },
+    { "id": "6COvT1Zu9o0", "title": "Add IAM User & IAM Role to AWS EKS: AWS EKS Kubernetes Tutorial - Part 3" },
+    { "id": "0EWsKSdmbz0", "title": "Horizontal Pod Autoscaler (HPA) on AWS EKS: AWS EKS Kubernetes Tutorial - Part 4" },
+    { "id": "HbRyRJnBEfw", "title": "Cluster Autoscaler Tutorial (EKS Pod Identities): AWS EKS Kubernetes Tutorial - Part 5" },
+    { "id": "5XpPiORNy1o", "title": "AWS Load Balancer Controller Tutorial (TLS): AWS EKS Kubernetes Tutorial - Part 6" },
+    { "id": "xwiRjimKW9c", "title": "Nginx Ingress Controller Tutorial (Cert-Manager & TLS): AWS EKS Kubernetes Tutorial - Part 7" },
+    { "id": "zcA2fRoWlac", "title": "EKS CSI Driver Tutorial (ReadWriteOnce): AWS EKS Kubernetes Tutorial - Part 8" },
+    { "id": "Yequ94ZzN6U", "title": "EKS EFS CSI Driver Tutorial (ReadWriteMany) & OIDC: AWS EKS Kubernetes Tutorial - Part 9" },
+    { "id": "fBRgw5dyBd4", "title": "Docker Networking Tutorial (Bridge - None - Host - IPvlan - Macvlan - Overlay)" },
+    { "id": "-6Xc2_IOh-0", "title": "What Is a Graph Database? (Animated + Practice)" },
+    { "id": "b_O501x_F68", "title": "What is a Reverse Proxy? (vs. Forward Proxy) | Proxy servers explained" },
+    { "id": "LuTzJZwMLUQ", "title": "What Is a Graph Database?" },
+    { "id": "F4U1KsTnVyQ", "title": "Kubernetes Architecture" },
+    { "id": "IsgRatCefVc", "title": "Apache Kafka Architecture" },
+    { "id": "fJ5w1YGrDdM", "title": "Docker vs Kubernetes vs Containerd" },
+    { "id": "VfcRxtBKI54", "title": "Types of Databases: Relational vs. Columnar vs. Document vs. Graph vs. Vector vs. Key-value & more" },
+    { "id": "fqfieWP1jY4", "title": "Kubernetes Health Checks: Liveness vs. Readiness vs. Startup Probe" },
+    { "id": "4MEgCP7h8UU", "title": "Kubernetes Workload Resources: App vs. Container vs. Pod vs. Deployment vs. StatefulSets & More" },
+    { "id": "1BksUVJ1f5M", "title": "Kubernetes Ingress Explained (2 Types)" },
+    { "id": "ZIN7H00ulQw", "title": "OpenTelemetry Golang Tutorial (Tracing in Grafana & Kubernetes & Tempo)" },
+    { "id": "8HmReos6dlY", "title": "Azure Kubernetes Service (AKS) Tutorial: (Terraform - Nginx Ingress & TLS - OIDC Workload Identity)" },
+    { "id": "mpfqPXfX6mg", "title": "Crossplane Tutorial (vs Terraform): Create AWS VPC - EKS - IRSA - Cluster Autoscaler - CSI Driver #1" },
+    { "id": "m9B7RaSmiQ0", "title": "AWS App Mesh Tutorial (EKS | Ingress | Terraform)" },
+    { "id": "1BksUVJ1f5M", "title": "Kubernetes Ingress Explained (2 Types)" }
+  ]
+}

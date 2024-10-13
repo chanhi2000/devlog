@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "InternetMadeCoder",
+    "name": "Internet Made Coder",
+    "profile": "https://yt3.googleusercontent.com/JCxw636VkW0aNDYa3CkTblvvmhEi1VTYdpMagq7Zj8trOizp2kINd74JpHR4FHckBU_vCIR7hQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t8E-BWxjdo5MI-CYpuip-Ti9tIwt_9BaoJrB1S4nTPjv4A6AetksutVJnLh5DQJ6YNjc5tWE5rU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QjAHcKPUaFM", "title": "5 Amazing Ways to Automate Your Life using Python" },
+    { "id": "4TZ1K8EHT2M", "title": "5 Small Yet IMPRESSIVE Python Projects for Beginners" },
+    { "id": "EZ2Yr2t1RFs", "title": "People Dumber Than You Are Getting RICH with Coding" },
+    { "id": "DwgtHm_Qoc8", "title": "Should You Learn PYTHON or JAVASCRIPT in 2024?" },
+    { "id": "fNtAHsDJCk8", "title": "How to MASTER Web Development And ACTUALLY Get a Job (in 2024 market)" },
+    { "id": "KFiWOCXYSzI", "title": "Coding Just Changed Forever…NVIDIA ChatRTX" },
+    { "id": "vfHSdnrdvvY", "title": "How I Would Make $10,000/Month with Coding (if I was starting over)" },
+    { "id": "glUaMQaZoD4", "title": "The ONLY Resume Project You Need For Employment" }
+  ]
+}

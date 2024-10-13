@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "k8s.1pro",
+    "name": "1pro",
+    "profile": "https://yt3.googleusercontent.com/dukSm99-H3AeAscyejFk_KX4O3UDlkV-r95xsyDlqSgIJeyIMNGl7vcgDQ_tf4Cn6CInxSEpnA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1_EmJV2-mGM1OApZaWF_iGRQF_x7drzwrVpFun0YlHP3QwlvxwWXCWrUZwLhF6ymX4XSGBt3Goc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cEehCAZcZmU", "title": "[인트로영상] ArgoCD는 언제 써야 되는지? 어떤 기능들이 있는지?" },
+    { "id": "Z-MKSvrvW3c", "title": "쿠버네티스 쉽고 빠르게 설치하는 방법" },
+    { "id": "ZcHcLr7eS5Y", "title": "[Intro모음#2] 쿠버네티스 어나더 클래스 #쿠버네티스 무겁게 설치하기#" },
+    { "id": "mxOiA8JB8KY", "title": "[Intro모음#1] 쿠버네티스 어나더 클래스  #컨테이너 한방정리#" },
+    { "id": "ZcHcLr7eS5Y", "title": "[Intro모음#2] 쿠버네티스 어나더 클래스 #쿠버네티스 무겁게 설치하기#" },
+    { "id": "mxOiA8JB8KY", "title": "[Intro모음#1] 쿠버네티스 어나더 클래스  #컨테이너 한방정리#" },
+    { "id": "GKyO_5fh1vA", "title": "[Intro모음#11] 쿠버네티스 어나더 클래스  #Helm과 #Kustomize 비교하며 사용하기" },
+    { "id": "8wA9e3QekBg", "title": "[Intro모음#9] 쿠버네티스 어나더 클래스  #배포를 시작하기 전에 반드시 알아야 할 것들" },
+    { "id": "Eu7RGf29uCw", "title": "[Intro모음#10] 쿠버네티스 어나더 클래스  #젠킨스 파이프라인 (기초부터 Blue/Green 까지)" },
+    { "id": "D9GAjMQya0c", "title": "[Intro모음#8] 쿠버네티스 어나더 클래스  #손쉽게 데브옵스 환경을 구축하는 방법" },
+    { "id": "2zDDpbBUVPo", "title": "[Intro모음#7] 쿠버네티스 어나더 클래스  #데브옵스 한방정리#" },
+    { "id": "W6e4LcEXVnk", "title": "[Intro모음#5] 쿠버네티스 어나더 클래스  #ConfigMap #Secret" },
+    { "id": "MVd1br-cQuM", "title": "[Intro모음#4] 쿠버네티스 어나더 클래스  #Probe" },
+    { "id": "PWP790fCOGo", "title": "[Intro모음#3] 쿠버네티스 어나더 클래스  #쿠버네티스 첫 오브젝트 끼우기#" },
+    { "id": "cAJ76grsERg", "title": "[인프런] 대세는 쿠버네티스 [Helm편] - 배포 개요" },
+    { "id": "qH0j90yom6A", "title": "[쿠버네티스 어나더클래스] 첫 오브젝트 잘 끼우기" },
+    { "id": "FuFt2Y9gaNg", "title": "[쿠버네티스 어나더클래스] 컨테이너 한방정리" },
+    { "id": "UNdCGBnHG6A", "title": "[쿠버네티스 어나더클래스] 데브옵스 한방정리" }
+  ]
+}

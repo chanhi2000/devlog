@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "DevOpsDirective",
+    "name": "DevOps Directive",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP31NKqGp1SpCb2zJ_ezN0scycpSajSVInfPvmy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Dw2MLusvct2HBkkfsAIZjGR0zKLMgJEvZXoiS3b4oD_zJCkJxZpW-bYjieYulFrZXDU5pD1KNA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6TpXObxxFOU", "title": "Deploy Containers on Kubernetes (Docker Beginner to Pro - BONUS VIDEO)" },
+    { "id": "Jk0xrN4crqg", "title": "Should you Self-Host Kubernetes?" },
+    { "id": "RqTEHSBrYFw", "title": "Complete Docker Course - From BEGINNER to PRO! (Learn Containers)" },
+    { "id": "XltFOyGanYE", "title": "Kubernetes 101: Deploying Your First Application!" },
+    { "id": "7xngnjfIlK4", "title": "Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)" }
+  ],
+  "playlists": [
+
+  ]
+}

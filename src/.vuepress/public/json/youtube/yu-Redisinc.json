@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "Redisinc",
+    "name": "Redis",
+    "profile": "https://yt3.googleusercontent.com/O1m-gY3KF0UbfN0oGpqQBXY2alonoo5B5eojgADUKyDhRwqP-sAr8fjl-P7mB--ODKe2dqyV=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xlyQ1sTfK9R_M4ucR2G9zWzhHz6MxJc116Az1ST65ee3nYxCwKBnRLh-uxij2FWD4qkc2PX2FKY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jbJHu3CjHi0", "title": "New look, same Redis" },
+    { "id": "Hx9NfxtlqTg", "title": "Unleashing the Power of Redis at Meesho" },
+    { "id": "xhLXZ0Hqudk", "title": "Redis as a Vector Database Explained" },
+    { "id": "ge4bddJIh0g", "title": "Recommendation Engines with Redis" },
+    { "id": "H5liuVDRP7Q", "title": "Quix + Redis | Python stream processing, fast and easy" },
+    { "id": "7XAnuidf-nQ", "title": "Bytewax + Redis | Real-time streaming for AI" },
+    { "id": "_ct-OwWYacE", "title": "RAG Applied: Search Youtube videos with Redis vector database" },
+    { "id": "sQr16FVWCe4", "title": "What's New in Two with Redis - February Edition" },
+    { "id": "nfpnuDJDd-Y", "title": "Operator Workshop: Exploring Redis as a Vector Database" },
+    { "id": "MTVcScW423w", "title": "Operator Workshop: Redis Persistence Explained" },
+    { "id": "R1IXYnoSd5U", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "NDAzTvjpyS4", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "j3mlSPgzOmU", "title": "What's New In Two with Redis - January Edition" },
+    { "id": "KxuZEApLRPU", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "0QIOxI7dE1Q", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "-lin6vpXYso", "title": "Zee's Redis Enterprise Journey" },
+    { "id": "Bxw5rEPNhLY", "title": "Apna customer story with Redis Enterprise" },
+    { "id": "UBFU6kZ_9EM", "title": "Sharekhan's journey with Redis Enterprise" },
+    { "id": "qYXtMZUgBQw", "title": "What’s New in Two with Redis - November Edition" },
+    { "id": "NDAzTvjpyS4", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "R1IXYnoSd5U", "title": "Live coding with Guy: Finding Bigfoot with JavaScript + Vector Search" },
+    { "id": "CED3muZJaL0", "title": "Monolithic to Microservices: Apna’s Journey with Redis Enterprise" },
+    { "id": "CegTSglMUks", "title": "Introducing Polygon Search in Redis Stack 7.2" },
+    { "id": "KUfufrwpBkM", "title": "Redis Stack Workshop: Redis Stack OM Library for Node.js" }, 
+    { "id": "zeLToGnjIUM", "title": "Modeling Data Concurrency w/ Asynchronous I/O in Zig - RedisConf 2020" }
+  ]
+}

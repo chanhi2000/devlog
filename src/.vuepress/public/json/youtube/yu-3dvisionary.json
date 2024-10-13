@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "3dvisionary",
+    "name": "Visionary 3D",
+    "profile": "https://yt3.googleusercontent.com/V6qiTB3KcKBMX8hnUlijew1uzPphSXuvOXVLnj8wIbW29X_qIDQ0cb5lx070vMKTXH1XdOXCGg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "oAwlk0j5RUM", "title": "WebGPU :: Javascript at the speed of Light" },
+    { "id": "oKbCaj1J6EI", "title": "Three.js Shaders (GLSL) Crash Course For Absolute Beginners" },
+    { "id": "L8O6cLr4GgU", "title": "My Productivity System as a Software Engineer ( Vim, VsCode, Planning, ... )" }
+  ]
+}

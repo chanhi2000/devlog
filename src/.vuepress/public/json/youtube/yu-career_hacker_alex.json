@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "career_hacker_alex",
+    "name": "커리어해커 알렉스",
+    "profile": "https://yt3.googleusercontent.com/B73OTIY6nJKhEWnufFA6J39rS4qEThm9HZ6BbnBaG21SAnvI5H2oIFM0X6TfidEo-mC_0wjsrA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-bJeInRI5BRjX_9i5AF1mDnG0qXWQd22CWekIhuh_Emp0M3_RXHnl6YYilUPV8kE93qRyJlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pGByFXOtAh8", "title": "챗GPT 실력자 되는 법: 프롬프트 엔지니어링 기술 5가지 | 인공지능 성능 146% 높이는 방법" },
+    { "id": "nsbeTtjWoa0", "title": "[풀영상, 소리큼주의!] 챗GPT의 GPTs 기능 완전 정복하기" },
+    { "id": "0KtfbY5m_bU", "title": "GPTs로 단시간에 업무 생산성 두 배! 인공지능 실전 활용 완벽 가이드" },
+    { "id": "v5pf2WhMExI", "title": "[🔴 Live] 커리어해커 알렉스 | 토요일 (3/9) 오후 1시 | 실시간 프롬프트 작성, 웹사이트 만들기, 커리어코칭, 실리콘밸리 & 인공지능 이야기" }
+  ]
+}

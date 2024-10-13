@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "thecodingclub-sp5cx",
+    "name": "더코딩클럽",
+    "profile": "https://yt3.googleusercontent.com/1Vs23ModkumMIRHbyylCHL26UBQ3eqcY_Atk4w6G6kiqBVhVVIvO9E3Kalr1_v3yUJeIA1w5TTA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GVNVHrF8vuo", "title": "깊은 지식 말고 기본 알고리즘 개념만 훑어보기" },
+    { "id": "v2lSu6hLKJ8", "title": "개발자 vscode extension 필수 세팅 항목 정리" },
+    { "id": "ee-Wjhc1Ko8", "title": "밥시간 때마다 유용한 요식업 어플 4개 추천" },
+    { "id": "66gYEqYqgdU", "title": "백엔드 언어 삼대장 Node vs Python vs Java 전격 비교" },
+    { "id": "N_qc52oHA0k", "title": "개발 실력을 성장시키는 github 오픈소스를 활용법" },
+    { "id": "xjuBbqiP0_Q", "title": "2024년 현재까지 생성형 AI툴 168개중 15가지 대장서비스 공유" },
+    { "id": "9WP70mjVT8I", "title": "it 기술 채택 도움되는 사이트 공유 ( npm 등록 기준 )" },
+    { "id": "tX5rmOF14QM", "title": "Toss가 생각하는 React-native 의 미래??" },
+    { "id": "WZ9E93VgZqA", "title": "내가 쓰는 어플이 하이브리드 인지 네이티브 인지 확인하는 빠른 방법" },
+    { "id": "lNvuz_065DM", "title": "링크드리스트 완결" },
+    { "id": "K_gPS5rszG0", "title": "링크드리스트란??" },
+    { "id": "tvZqUfAZknk", "title": "링크드리스트 2부" },
+    { "id": "E_2rlFlPXGg", "title": "연결리스트란 무엇일까요?" },
+    { "id": "02Q7lYV1AZ4", "title": "우선순위큐란 무엇일까요??" },
+    { "id": "a5ELV5E4Tx4", "title": "순환큐 란 무엇일까요?" },
+    { "id": "M7mKHpCcmU8", "title": "큐유형 설명드립니다." },
+    { "id": "z-KMgX04hls", "title": "큐 데이터 구조 설명드립니다." },
+    { "id": "oGGUxjqa4BI", "title": "스택 데이터구조 설명드립니다." },
+    { "id": "Ff12_ivlxZg", "title": "데이터가 이루어진 구조" },
+    { "id": "owP3mR_bqP8", "title": "자료구조 알고리즘을 배우는 근본적인 이유??" },
+    { "id": "XZb7QBoV6kE", "title": "회사가면 꼭 존재하는 개발자 유형 5가지" },
+    { "id": "UDHBueegw4w", "title": "개발자의 최종 종착지 4가지 -1편-" },
+    { "id": "GDlSt5hJj78", "title": "회사생활 질문, 회의, 업무요청, 진솔함에 대한 생각 공유" },
+    { "id": "HOZQe3hrNN4", "title": "알아두면 언젠가 쓸모있는 javascript 주의사항 2가지" },
+    { "id": "ApoRhAR76Eo", "title": "개발자 취업 완전이진트리 전략 -마지막편-" },
+    { "id": "pduyJ3iXAv0", "title": "개발자 취업 완전이진트리 전략 -2편-" }
+  ]
+}

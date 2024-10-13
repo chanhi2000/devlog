@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "fosdemtalks",
+    "name": "FOSDEM",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSjNX-0SWHU00YN_I3zYF9oRApN58I386GM00pi=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Bz1DIYKkK6w", "title":  "Advancing the Future of CI/CD Together How the Continuous Delivery Foundation is working to advance…" }, 
+    { "id": "RruY8X53GOM", "title":  "From Swagger to Kotlin via Gradle Generating your network code has never been so easy" }, 
+    { "id": "hWGypFqKScg", "title":  "Idiomatic Kotlin Microservices A live coding session on how to go pure Kotlin with microservices" }, 
+    { "id": "FdPSHNz7JKA", "title":  "Communication Break Down | Coroutines" }, 
+    { "id": "7gXOAq6kFi4", "title":  "OpenERP: Design applicactions with OpenObject in minutes" }, 
+    { "id": "bx3KuE7UjGA", "title":  "MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System" }
+  ]
+}

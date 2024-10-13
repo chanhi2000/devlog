@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "alexthecodewolf",
+    "name": "The Code Wolf",
+    "profile": "https://yt3.googleusercontent.com/SRY24Eue3Y9NrQCc-Jm1RF2sYZ5HkZE7KYBGjvy8bohM2eXlE9wHBAnfnlXMtpj3zBkcnePOZbo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AkFbWpidry0bFjIop0oa6Ct65P6xWu9o93GamfbYSVSF-I_xUuoUTOnpKez77NLKhqNJ6kkzqw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "177qX6mpyMg", "title": "Setup and code with a local AI model using Ollama and Phi3." },
+    { "id": "WKj8lo-ZbY4", "title": "Host your own AI Model in 10 minutes...for free!" },
+    { "id": "GkH4Ci0eDLU", "title": "The new OpenAI SDK for .NET is here! Explore the changes." },
+    { "id": "HE79vfNmbMc", "title": "Microsoft Build 2024 - .NET Recap in 6 minutes!" },
+    { "id": "4ZTYjUS705k", "title": "Blazor SignalR File Uploads in .NET .8.0 (Part 3 of the File Upload Series)" },
+    { "id": "Ob7zT70laDw", "title": "Blazor Render Modes - Understand Component Feature Compatibility" },
+    { "id": "JhfNHnAahZ8", "title": "Use AI to chat with a NoSQL database! A simple intro." },
+    { "id": "O1QmK_q2Xfw", "title": "Add authenticated user login to any Azure App Service app in 10 minutes!" },
+    { "id": "bCDiMBfU7UE", "title": "Use the Azure Cosmos DB emulator to develop locally" },
+    { "id": "zqNr0wiKaMM", "title": "Use a SQL Server Database container for local .NET development (and other frameworks)" },
+    { "id": "HUNQnchaxMA", "title": "Use a Redis Container for local .NET Development (and other frameworks)" },
+    { "id": "EqfUV_LRQ10", "title": ".NET 9.0 Preview 1 is here!! An introductory tour." },
+    { "id": "hw6oTjw9_Ro", "title": "Use AI to chat with a relational SQL database with natural language!" },
+    { "id": "9g0T0Bd-U4s", "title": "Use Content Filtering to Build Safer OpenAI Apps" },
+    { "id": "9yHjJPRkac0", "title": "Build a Language Flashcard App with Azure AI and Blazor - every step!" },
+    { "id": "bzfVYB2WBXs", "title": "Introducing Microsoft AppCAT - Analyze your apps for Azure migration in one command." },
+    { "id": "keIs_bpgdXs", "title": "Authenticate to Azure OpenAI the right way using Microsoft Entra ID" },
+    { "id": "V6iOFfi8VwY", "title": "Use the Azurite emulator for Azure Storage local development" },
+    { "id": "siM7X-Zsb3M", "title": "Add a .gitignore file to your .NET apps the fast way!" },
+    { "id": "OdpqciXDKjY", "title": "Learn Azure OpenAI - Chat and Code with Your Own Data!" },
+    { "id": "EVqA2jTQt_A", "title": "Blazor File Uploads in .NET 8.0 Part 2: WebAssembly" },
+    { "id": "a5-iQ5IGtT0", "title": "Blazor File Uploads Series Part 1: Server-Side Rendering" },
+    { "id": "WeqwhzpaI6Y", "title": "Quick Tip! The new file comparison feature in Visual Studio 2022" }
+  ],
+  "playlists": [
+
+  ]
+}

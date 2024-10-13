@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "rameshkudikala83",
+    "name": "RKTestingTools",
+    "profile": "https://yt3.googleusercontent.com/6ck2ZagK-OymAA_vuBuMIYKnXcyPFJtSFaA8Q7qkdy1dcu8dPhNm2o_iUSQcdNYdNCyup0Xw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mOrubyq9Lpk", "title": "SpecFlow .NET | ScenarioContext | Selenium WebDriver" },
+    { "id": "ixXJRHi8iWw", "title": "SpecFlow .NET | Tags,Comments & Ordering | Selenium WebDriver CSharp" },
+    { "id": "EK4aUs3AbUU", "title": "SpecFlow .NET | SetUp | Selenium WebDriver CSharp" },
+    { "id": "aPA_x8PGwZ4", "title": "SpecFlow .NET | Gherkin Syntax | Selenium WebDriver CSharp" },
+    { "id": "F1laW18M-1Q", "title": "SpecFlow .NET | Scenario Outline | Selenium WebDriver | CSharp" },
+    { "id": "oVP0-bdw2CI", "title": "SpecFlow .NET | Background | Selenium WebDriver | CSharp" },
+    { "id": "jKdIhrpv6Pc", "title": "#22Analyze the below code" },
+    { "id": "-NTVX9B0x_M", "title": "#21Consider the following code snippet java" },
+    { "id": "wMnZKAfdie8", "title": "Roles of SDET" },
+    { "id": "eV27D1MQDJ4", "title": "Daily activities of Automation Tester" },
+    { "id": "bTOfYqHEUj4", "title": "Roles & Responsibilities of Selenium C# Tester" },
+    { "id": "EDCvduddfrE", "title": "Roles and Responsibilities for Manual Testing" },
+    { "id": "poDJVa7WqWQ", "title": "8+ Years | Test Architect | L1 Discussion | Interview | Selected" },
+    { "id": "JpluUTVyfNo", "title": "Selenium WebDriver - Java | Handling iFrames | 08" },
+    { "id": "Vpbj5u2P7M8", "title": "Selenium WebDriver - Java | Handling Tooltips | 09" },
+    { "id": "y9Ht_sBI_l0", "title": "Selenium WebDriver - Java | Actions | Handling Drag And Drop | 10" },
+    { "id": "3AKnnnR_aUs", "title": "Selenium WebDriver - Java | Actions | Handling Menus & Sub Menus | 11" },
+    { "id": "7XF1bFLHutA", "title": "Selenium WebDriver - Java | Actions | Handling ContextClick & DoubleClick | 12" },
+    { "id": "tjOtP2ZBPws", "title": "Building Websites | Medical Store | ChatGPT" },
+    { "id": "4Ckdyyu2oeQ", "title": "Building Websites | Library Store | ChatGPT" },
+    { "id": "txANaw-EBuE", "title": "Building Websites | Login Page| BlackBox.ai" },
+    { "id": "jf7SsiVK-wU", "title": "Building Websites | ChequeBook Request Page | BlackBox.ai" },
+    { "id": "qql2DM2hZVQ", "title": "Building Websites | Register Page| BlackBox.ai" },
+    { "id": "AQ8nejmgLTg", "title": "Building Websites | Calc | BlackBox.ai" },
+    { "id": "Z1ivi6aWuHw", "title": "How to take XPath so easy - SelectorsHub" },
+    { "id": "dh7I2kBzhb8", "title": "Selenium WebDriver +Java  | Coding | Challenges" },
+    { "id": "OpFxobFFIu0", "title": "Selenium WebDriver - Java | Browser Commands" },
+    { "id": "dHyKxuNRKTc", "title": "Selenium WebDriver - Java |  Maximize Browser and Close" },
+    { "id": "fXcWEImWMqc", "title": "Selenium WebDriver - Java |   Launch Browsers" },
+    { "id": "Tv1k3b_MKHs", "title": "Selenium WebDriver - Java | Navigation Commands | 03" },
+    { "id": "qN3cP_MJ3oE", "title": "Selenium WebDriver - Java | Handling Alerts | 06" },
+    { "id": "zVJqDFwAvaY", "title": "Selenium WebDriver - Java | Setup | 00" },
+    { "id": "rTzcSOgnMfw", "title": "Selenium WebDriver - Java | WebElement Commands | 05" },
+    { "id": "t6ffk2HKpno", "title": "Selenium WebDriver - Java | Handling Dropdowns | 07" },
+    { "id": "odQewY5of0M", "title": "Selenium WebDriver With C#  Workshop -  Part 1" }
+  ],
+  "playlists": [
+
+  ]
+}

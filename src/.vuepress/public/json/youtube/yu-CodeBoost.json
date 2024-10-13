@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodeBoost",
+    "name": "Code Boost",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKamegPH1mGOJF6A6I8lUjy3a2p-oqm4D6IJDp92=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VeDnQyyKIRQ1i0HCKGIzwRi5VUUUMAX-GFM0twQb2UrpvoEcWJMqD9Q2kBvadZ2DYQ3dl3dM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sSWGdj8a5Fs", "title": "How to Build a Stopwatch Timer using React Hooks" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "masterbot",
+    "name": "마스터봇",
+    "profile": "https://yt3.googleusercontent.com/AtRHh9kzIluSdgSljtEhkXR8wMHLIuacAx8HLNaTBLGNNvu9X6mT0L5PSncpQB4OK55OQy-q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A4OlABCULnVQYFl8VR1N7sRGrpPDGBb967IUhddOn8knd6Ng3NZ5UPFpGEDjiJcRViXjxu8sjA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gtMGLP1BHQA", "title": "초보도 가능한 ChatGPT를 활용한 유튜브 쇼츠 만들기 AI 그림 수익화 방법" },
+    { "id": "NcIVE5iHG0Y", "title": "이미지를 동영상으로 만들기 무료 AI 영상 image to video 사용법" },
+    { "id": "Lqj7hGl5rqA", "title": "영상 모자이크제거 프로그램 JavPlayer TG+ bvpp 사용법 꿀팁" },
+    { "id": "E0XnvU-Igkc", "title": "동영상 자막 자동 번역 변환 프로그램 AI로 한번에 하기" },
+    { "id": "xXuC_NBnawg", "title": "가장 쉽게 ChatGPT로 유튜브 쇼츠 만들기 원하는 비슷한 사진 이어 만드는법" },
+    { "id": "Rp_-5i_6X_Q", "title": "Stable Diffusion 모델 models 종류와 구성 위치 이해" },
+    { "id": "--rY8mFvWbQ", "title": "챗GPT 사용법 프롬프트 질문 구조화 글쓰기 방법 chat GPT 배우기" },
+    { "id": "DuUGxJN9KWA", "title": "stable diffusion webui 설치 방법 스테이블 디퓨전 기초 시작편" },
+    { "id": "2bF42khv1M8", "title": "JavPlayerEZ 실시간 모자이크제거 동영상 플레이어 사용법" },
+    { "id": "Oa9WaQAl53Q", "title": "JavPlayer2.01c TG8Xhd TG-Z415 TG+ 통합버전 업데이트 사용법" },
+    { "id": "lN1Dle60u7g", "title": "javplayer 설정 셋팅 최적화 방법" },
+    { "id": "Xwpe0ru262s", "title": "javplayer 추가파일을 통한 딥러닝 설정방법" }
+  ]
+}

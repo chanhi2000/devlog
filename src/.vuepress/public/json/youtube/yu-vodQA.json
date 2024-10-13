@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "vodQA",
+    "name": "vodQA - a forum for software testing enthusiasts",
+    "profile": "https://yt3.googleusercontent.com/wb4nrssUodNgfTMj3dI-KkVHiRlzPS1mjNJ6qRsJF9bymub-1z-k02OJVsozEOwVsLEgO2CbBA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uz86oqF31s8SydDUh_HzW9bjkgf1hocYPn7MbTfvuxADkoOGy58jD3P5QsLXWMaxDydcc4r3ZEg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "U_8UpRhmyFE", "title": "Revolutionizing Test Automation with Redis | Babu Manickam | vodQA Shots Chennai 2023" }, 
+    { "id": "4Jz33yIa2ns", "title": "Evolution of Quality Assurance | Keynote by Andrews Roberta Mary R. | vodQA Shots Chennai 2023" }, 
+    { "id": "gbH-kBkYAiE", "title": "Database Integration tests with Test Container" },
+    { "id": "3pWxlINbj9g", "title": "Testing of AR/VR applications with Arium | vodQA Gurgaon April -2021" },
+    { "id": "vyOAUqXKNDQ", "title": "Appium Workshop Part 1 | vodQA shots 2017" }
+  ]
+}

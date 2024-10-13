@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "HoonJo",
+    "name": "조 훈(Hoon Jo)",
+    "profile": "https://yt3.googleusercontent.com/l-q4YHuiSs8VONH-m8bmeTDmrRFzArkNK9GlqMRD76f1UkkjfOxfaUT2WqTScH-RwLyKnEBQ4A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b2H_qaKfozD2Lj1EGwCDd7KcOdgH--0641pjq3msSKf-hzt3FIhU7CARxiKJpFD9GCT1jvj0og=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eOkyx44Q80s", "title": "X 13 004 1 KCNA 취득하는 법" },
+    { "id": "EeNuezkXF9o", "title": "X 13 005 1 KCSA 취득하는 법" },
+    { "id": "0RQzrrSbk2E", "title": "X 13 000 0 kubestronaut program 소개 그리고 필요할까?" },
+    { "id": "v7EJ4BHNNMk", "title": "2 4 베이그런트Vagrant+VMware Fusion으로 쿠버네티스 환경 구축하기 비상업적, arm64 사용자 v1 30" },
+    { "id": "BBM1MlWUXQg", "title": "X 33 001 프로메테우스 자격증 소개 및 준비법(PCA,Prometheus Certified Associate)" },
+    { "id": "nHgfwONQ_3E", "title": "X 13 002 1 CKAD 취득하는 법 2023년 12월 갱신" },
+    { "id": "VfEVKc1BdrE", "title": "[DEMO] 초보자가 쿠버네티스에서 돌려본 라마 버전2(llama-2-13b) 13B 모델" },
+    { "id": "Op_Os7jVNDg", "title": "Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service)" },
+    { "id": "bU6OEtbdiOI", "title": "[Ansible] 한번의 명령어로 다수의 시스템에 작업하기" }
+  ]
+}

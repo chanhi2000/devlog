@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "TheoriTV",
+    "name": "티오리티비 TheoriTV",
+    "profile": "https://yt3.googleusercontent.com/oHm_5EybqlVvsCYUZkRjQraPnc41EuQw9c0xKSmC9QEN5CvLm-le3Fwu8_UbZ0IMCLO4X0o5Uls=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ivCtnq00AXDKwV7Z2M72Zc7zLI7-bB7peB8OxhNs7zpO_PNKhoFIKMA2zFRi3ZUW3CaKMdb4HA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "r750vOVbS9M", "title": "해커도 쓰는 VSCode Extension 추천해드림! 근데 이제 꿀팁을 곁들인" },
+    { "id": "dvBS7_ORhdk", "title": "현직 해커가 AI로 \"또\" 해킹 시도해봤습니다" },
+    { "id": "M1nh6ECGeag", "title": "더 안전한 Web3 생태계를 만들기 위한 업사이드 아카데미 사전설명회" },
+    { "id": "J3_V0G1mthw", "title": "해커가 후회하는 그 순간들 || 해킹 시작하기 전 알았으면 좋았을 7가지" },
+    { "id": "6W7aKOT-PQ4", "title": "VMware를 해킹한 해커들, 가상머신이 안전하다고? || 원데이 체인과 Pwn2Own" },
+    { "id": "RCOJpFaOrBc", "title": "뉴비 해커 필수 시청! 추천 해킹 대회, 정리해드립니다. 📅 || 추천 해킹 대회 일정 소개" },
+    { "id": "EJFL-rNufsI", "title": "하드웨어 임베디드 해킹은 이렇게 일어납니다. ※ 생각보다 쉬움" },
+    { "id": "oSC9NFsbD54", "title": "현직 해커에게 롤 디도스 사태를 물어봤습니다... 원인은? 해결은? ( feat. 페이커 해킹,  로아 디도스 )" },
+    { "id": "0d8RS7xSXA0", "title": "롤 디도스, 해커에게 더 자세히 물어봤습니다. LCK 디도스, 해결 될까요?" },
+    { "id": "fsBmsiaApzo", "title": "현직 해커들이 쓰는 키보드는? ⌨ || 티오리 해커 키보드 투어" },
+    { "id": "moVR0t8TQnM", "title": "노베이스 해킹 입문 💻 [4] 시스템 해킹 체험하기" },
+    { "id": "XlPqUO_A4VM", "title": "Clop 랜섬웨어 악성코드 분석 (LIVE" },
+    { "id": "SLo8hPHlv6Q", "title": "What's on hackers desk? Hackers Desk Tour!" }        
+  ]
+}

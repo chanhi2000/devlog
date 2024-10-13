@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "maaslalani",
+    "name": "Maas Lalani",
+    "profile": "https://yt3.googleusercontent.com/8NSz-fFUdkZr9OTMA5HIErdmkXf1LlncPZuzmm_Zjjw04hZWhW8JCviaCN2Uif_7djIkjarjWQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aZmbGCE7tNUtM6rWUEar9nM-OhVCChiB-aF2ayQDL2hCuqWZIpBf4Ml7vyxApRbHZ3pz2db2RBw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tGYvUXYN-c0", "title": "Helix: an editor hopping story (NeovimConf 2022 Talk)" }
+  ]
+}

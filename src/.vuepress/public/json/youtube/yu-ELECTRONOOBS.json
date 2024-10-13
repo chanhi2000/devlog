@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ELECTRONOOBS",
+    "name": "Electronoobs",
+    "profile": "https://yt3.googleusercontent.com/-sHywujn-fQp5vPnbaqb62h8lpZV4eqlRyPbciNRmFJR_zrORLxEfR6Co_1s46j73gMUPl8reA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ih_6ak0a9ZBSbDT7StD1pEfxvVElIbcsmjdKDG7qYXu_WrPfHtlQw0S33WjzMexT2rBAUqJGdw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NKsgSN61Yq0", "title": "REAL Debugging Arduino + ESP32 | JTAG Programmer" }
+  ],
+  "playlists": []
+}

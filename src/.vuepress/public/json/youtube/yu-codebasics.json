@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "codebasics",
+    "name": "codebasics",
+    "profile": "https://yt3.googleusercontent.com/DZidE7P_ESU8Y_dZ5_PrTAItOkSuayCfE2tYkKCnjtFYes7nA2sE-UF1fi3tZLjozlg0h1aK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NEUbjHcw-q9tzZJCTsKk2nqao9EmjxeWqhGjUMDTJCVYHFLno5EYE9gmKZqDyv-Cjfi465tmrA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FWe5xqvgzBY", "title": "What They Told You About Prompt Engineering is WRONG!" },
+    { "id": "TbwpOPVxaYk", "title": "AI Course Live Now On Codebasics.io | AI For Everyone" },
+    { "id": "2e5pQqBvGco", "title": "End-to-End NLP Project | Build a Chatbot in Dialogflow | NLP Tutorial | S3 E2" },
+    { "id": "JpMwWdev4fk", "title": "Is Python SLOW?" },
+    { "id": "MhCHrvfAXlc", "title": "AI Engineer Roadmap | How I'd Learn AI in 2024" }
+  ]
+}

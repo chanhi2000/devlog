@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "macaddress",
+    "name": "Mac Address",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k44TPOZxZNdlBdnnEjlvFs8EP832dq1-bX0ZxG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u5LNefuGhw400tFMOtaFY0JFUM-RUChETq3TRCa1v_vRhnXtULjELNgyTEgB2_PGUMnNdxr4qjY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fSTBcDfNAGk", "title": "Comparing PC Parts to Apple’s M3 - Part 1" },
+    { "id": "4Pv9afb1HsY", "title": "Don’t buy this scam iPhone" },
+    { "id": "gv__3ei1qb4", "title": "The screen came off!" }
+  ]
+}

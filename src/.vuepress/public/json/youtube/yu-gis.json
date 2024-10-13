@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "gis",
+    "name": "Основы программирования для географов",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNt0QHJLxe-Ixc7tjTS4iKUenI6jwRiZW-Ew3tyOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X2CehrHZE_4JriF6HWTO6gISPuirJ6IYUXdU1p0IoTmIRiQMF_aG010-wkvRmbyPbJ-KpZFepQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l4ne4LwTDgY", "title": "FlexGIS. OSM AI Widget. Part 3 Population" },
+    { "id": "ANkQIf6if2c", "title": "Geo-Py in Urban Analytics. Reading and exporting OSM data: geoPandas, osmnx." },
+    { "id": "X8gD1OzNVOE", "title": "Geo-Py in Urban Analytics. Intro. Jupyter Notebook in VSCode." },
+    { "id": "8PZqugEHRqM", "title": "FlexGIS. QGIS плагин" },
+    { "id": "5fI1MavKj4g", "title": "Geo-Py in Urban Analytics. CRS, Population Density Map" },
+    { "id": "BqQmzm5285M", "title": "Geo-Py in Urban Analytics. Data Aggregation, Fishnet Grids, H3" },
+    { "id": "lyGVDAd9rM8", "title": "Geo-Py in Urban Analytics. Data Classification For Choropleth Maps" },
+    { "id": "-OAkwxCKuAU", "title": "FlexGIS. Мастер-класс. Обзор платформы v. 2.0" },
+    { "id": "de-FUz-iH08", "title": "FlexGIS. OSM AI Widget. Part 2" },
+    { "id": "RaQhSzTQxK8", "title": "FlexGIS. Сравнение сегодняшней Москвы с ретро-картой. Ссылка на приложение в описании" },
+    { "id": "0JrdLr5IGwY", "title": "08. Python in QGIS3. Python plugin. Part 1." },
+    { "id": "h_WBOJ1F8g8", "title": "07. Python in QGIS3. Custom Python tools." },
+    { "id": "AgTgvf9t2Bk", "title": "06. Python in QGIS3. Custom Python expressions." },
+    { "id": "tU0XVNsl4-A", "title": "04. Python in QGIS3. Run geoprocessing tools." },
+    { "id": "0kjNFtjxyP8", "title": "05. Python in QGIS3. Symbology. Vector layer." },
+    { "id": "SDBx1jWpJ7w", "title": "03. Python in QGIS3. Raster layers. Add, Renderer" },
+    { "id": "DnoozY7kMmY", "title": "09. Python in QGIS3. Python plugin. Part 2." },
+    { "id": "66dhatHnxj4", "title": "FlexGIS. Мастер-класс. Обзор платформы v.1.5" },
+    { "id": "JZdNkq488gQ", "title": "FlexGIS 06. Настройка слоя. Стилизация, Кластеризация" }, 
+    { "id": "hLYySB95_eo", "title": "Exploring Browser APIs - Course Drop Party" }, 
+    { "id": "622FDEae9nc", "title": "02. Python in QGIS3. Read, Add, Delete, Update Features. Vector Layer" }, 
+    { "id": "CZ3zRVqXjTI", "title": "01. Python in QGIS3. Vector layers. Selection. Features" }, 
+    { "id": "26Uq_xQDbHk", "title": "GeoServer. OpenLayers. Apache" }, 
+    { "id": "TWmxzwJ99Fo", "title": "03. React + Leaflet. Component Lifecycle. Geojson" }, 
+    { "id": "-9g_7j97K04", "title": "FlexGIS 02. Конструктор веб-карт" }, 
+    { "id": "22mvlxfpApY", "title": "FlexGIS 03. Создание и публикация веб-гис приложения" }, 
+    { "id": "pE-9x6jWHzw", "title": "FlexGIS 04. Добавление данных на карту. Вектор и растр" }, 
+    { "id": "G_toKwXC3r4", "title": "FlexGIS 05. Настройка слоя. Фильтрация, Подписи, Инфоокно" }
+  ]
+}

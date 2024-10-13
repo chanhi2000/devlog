@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "yourseat",
+    "name": "너의자리",
+    "profile": "https://yt3.googleusercontent.com/uZG_AjS33qQHLeOJGBhvahMQoks-dWqngiSMbRahKcZBrT9T7tlYHTnmbq7weiY5O4LVPXO2=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BzjbyJwBxN2_h07a_d8NiVInqk3AssIBrBIU-uRcGZzI6J4-QbhX_1SU-wU7vrqBesD70mGM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XA0FqFEVlTI", "title": "[이직] 1년차 부터 11년차까지 이직러 연봉" },
+    { "id": "1j1JGMLYuKg", "title": "[투자] 달러 전망/풀매수 하는 이유 (12만 달러)" },
+    { "id": "LNcizFktwTE", "title": "[회사생활] 10년만 개같이 일해보자" },
+    { "id": "g-j2tOgGxHE", "title": "[투자] 환율 최고점 계산, 채권 매수 타이밍 (달러, TLT, TMF)" },
+    { "id": "qPvhJGdhJGE", "title": "[투자] 직장인 수준의 채권 개념" },
+    { "id": "MD34icNoAgg", "title": "[투자] 11년차 의자대리 연말 주식 & 저축 & 연봉" },
+    { "id": "LX0nPcrvXNI", "title": "[회사생활] 난 분명히 일이 많거든? 근데 왜 인정을 못받지" }
+  ]
+}

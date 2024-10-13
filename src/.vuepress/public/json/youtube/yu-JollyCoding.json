@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "JollyCoding",
+    "name": "Jolly Coding",
+    "profile": "https://yt3.googleusercontent.com/aYqfFHet61Es7XTU8jZOPOA1OCkQAUykQJLP7f-WJO6RsrP8uvIL2R691R1wYTV--Y4_d0GP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hWvHA11Erpw", "title": "NEW Drag and Drop Library for ANY framework" },
+    { "id": "A6-56miVA_0", "title": "Supabase and NextJS 14:  Auth and Server Actions" },
+    { "id": "6elqnCCbTk8", "title": "TypeScript FINALLY fixed this..." },
+    { "id": "S50UFd8d40A", "title": "The END of Remix?!? - Huge React Announcement" },
+    { "id": "lTPh6NGLAmk", "title": "Why You Should Use React Aria Components..." },
+    { "id": "f_4k0XYvQjQ", "title": "I Ditched Prettier and ESLint (Here's Why)" },
+    { "id": "yBEHKoaoZpY", "title": "NextJS 'use server' Trap (Accidentally Leaking Data)" },
+    { "id": "RwMw9wHdAuk", "title": "How To Start a React App in 2024" },
+    { "id": "7aq5ppPoj_E", "title": "What's NEW in React 19" },
+    { "id": "qBK8Y1QCQks", "title": "This is the FUTURE for User Experience" },
+    { "id": "Ekc_baEI3XM", "title": "This UI Library is AWESOME" },
+    { "id": "tSI98g3PDyE", "title": "NextJS 14 Markdown Blog: TypeScript, Tailwind, shadcn/ui, MDX, Velite," },
+    { "id": "RuRfcjzEv9w", "title": "STOP using outer margins" },
+    { "id": "t3OxbxA757g", "title": "TailwindCSS V4 Update Makes UI libraries easier" },
+    { "id": "zSlORhjh5DQ", "title": "Turn CSS into React?!?!" },
+    { "id": "aujEjdMO3ME", "title": "NextJS 14 Markdown Blog (Part 2): Adding Topic Tags" },
+    { "id": "ntdzCWLWU-c", "title": "This UI Library Update is AWESOME!" },
+    { "id": "vAVNZpXq5-A", "title": "JavaScript... WTF?!?" },
+    { "id": "EGDD0rlBd8Q", "title": "STOP using Layouts for Authentication!" },
+    { "id": "hxpH3HyaeM4", "title": "I WISH I used this component earlier... Responsive CSS Helper" },
+    { "id": "rVKJGr4VjmA", "title": "Copy & Paste React Hook Libraries" },
+    { "id": "uhEkgWt-pUM", "title": "Code Cleanup Made Easy...  Remove JavaScript Exports, Files & Dependencies" },
+    { "id": "L8EANtBKuyc", "title": "10 Open-Source NextJS Projects to Learn From" },
+    { "id": "20QbmIAiw2c", "title": "These TypeScript Tricks are POWERFUL" },
+    { "id": "mXziH-hQARs", "title": "STOP using useState - URL Search Params" },
+    { "id": "1VKEn4ZVcnk", "title": "Adobe's New Component Library, and Mine..." },
+    { "id": "6bpNnI_UN5g", "title": "What are React Server Components?" },
+    { "id": "GyRXwqeBcBw", "title": "Advent of TypeScript #typescript" },
+    { "id": "E6QO7Yl98O8", "title": "The BEST UI Library Just Got Better!" },
+    { "id": "HlDueLwkts0", "title": "TypeScript React Challenge - Typing Prop Components #typescript #reactjs" }
+  ]
+}

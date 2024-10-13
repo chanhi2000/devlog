@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "dongbinna",
+    "name": "동빈나",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOLqATEmh6l9y9SQoLWH_VDOPqMVXk5vA8qBR1k=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ONfCNFP6RbxcYFumo22pkRmfgmb7hNuXWFyJUN9SkJ_8Z93ZRtWWKblaYUmHUKIBD1T3SENN3xA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cBVTFYVGE2M", "title": "[딥러닝 초보자 필수 시청] 딥러닝 공부 순서 한 번에 총 정리" }, 
+    { "id": "58fuWVu5DVU", "title": "배치 정규화(Batch Normalization) [꼼꼼한 딥러닝 논문 리뷰와 코드 실습]" }, 
+    { "id": "ySJUlEVlXfk", "title": "[꼼꼼한 논문 리뷰] Certified Robustness to Adversarial Examples with Differential Privacy [S&P 2019] " }, 
+    { "id": "PjgukGtZDmM", "title": "도커(Docker) 활용 및 배포 자동화 실전 초급 ③ AWS EC2에 도커(Docker) 설치 및 `Dockerfile`로 웹 서버 구동시키기" }, 
+    { "id": "_yEH9mczm3g", "title": "1강 - Create React App으로 리액트 프로젝트 시작하기 [React와 Node.js를 활용한 고객 관리 시스템 개발 강의]" }
+  ]
+}
+

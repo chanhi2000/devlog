@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "SpaceRexWill",
+    "name": "SpaceRex",
+    "profile": "https://yt3.googleusercontent.com/O-J97Vv3iWVqXs7XRsDiy-_ShwGKfIoO9HmwEmTPx6nTq82IDwV07fcruKY1wJF_6Ny6mDMw2Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IyBYkTlObHSmsVqe1W5m8cD1qAE9-yMCvjqJfoo2mOHaxOdAWiDAurj7H1wc0vEQhOk9t_g7luk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DQUFEs1OzRs", "title": "Settings EVERY Synology NAS should have in 2024 - DSM 7.2" },
+    { "id": "Idh7633rN78", "title": "EVERYTHING you need to know BEFORE buying Rack Mount Synology" },
+    { "id": "kggiGQ0u8-E", "title": "How to setup OpenVPN CloudConnexa with Synology NAS - Remote access / Backup Without Port Forwarding" },
+    { "id": "zddA0O6DtqQ", "title": "DREAM MACHINE PRO MAX OUT NOW - UniFi's FASTEST router" },
+    { "id": "W43G5DSZ-Ik", "title": "Do this FIRST - How to Backup Synology NAS to USB Hard Drive (Hyperbackup)" },
+    { "id": "vNiAhDFdkgo", "title": "We need more POWER - SPACEREX office upgrade part 3" },
+    { "id": "-JIT_ayfsN0", "title": "1.7GB/s - HUGE 25GbE Upgrade" },
+    { "id": "3Uj4QeaNThc", "title": "Is TrueNAS CORE Dead? - TrueNAS SCALE vs CORE" },
+    { "id": "ooQgUDpj-Aw", "title": "Why Synology Says \"This Connection is Not Private\" - (How SSL Encryption Works)" },
+    { "id": "nf7e-wKh_wQ", "title": "New Synology Bee Station Review - did Synology nail it?" },
+    { "id": "AEa0uC_rvJY", "title": "Top Synology Ransomware Features for ANY Business" },
+    { "id": "bPN25FuBy64", "title": "The FUTURE of SPACEREX" },
+    { "id": "QTInhv8esXs", "title": "COMPLETE Guide to Synology Drive - Create your OWN CLOUD" },
+    { "id": "bh61ngQzE_o", "title": "Watch BEFORE Port Forwarding - The Complete Guide to Port Forwarding" },
+    { "id": "X5Iyt9lC5Bw", "title": "8 Things I Wish Synology Would Change in 2024" },
+    { "id": "s3Qg0Yo7KlY", "title": "NEW EMAIL REQUIREMENTS - Watch if you have your own domain (SPF, DKIM, and DMARC)" },
+    { "id": "XkyFiRW-mhA", "title": "BEST Remote Access VPN - OpenVPN vs WireGuard vs L2TP" },
+    { "id": "PikC3XpAPcw", "title": "How to set up Synology for your Business: COMPLETE BEGINNER GUIDE" },
+    { "id": "2wqAeJnpOx4", "title": "Synology Home vs Homes Explained - New users most common mistake" },
+    { "id": "FvkDbrX7k_w", "title": "How to migrate to a NEW Synology NAS (4 ways)" },
+    { "id": "RENjSPXJUdg", "title": "disable this plex setting RIGHT NOW" },
+    { "id": "3PyAkMNlFgs", "title": "How to Fix SLOW SYNOLOGY - Remote Connections" },
+    { "id": "RO7elSlt6xI", "title": "5 AWESOME DOCKER CONTAINERS for Synology NAS and homelabing" },
+    { "id": "9gkSppGRT9w", "title": "Ransomware Protection: The Complete Guide for Synology NAS" },
+    { "id": "yQFuJJqqWbc", "title": "How to Backup MacOS to Synology NAS using Time Machine (easy)" },
+    { "id": "ci5agOkoXuI", "title": "Sync Google Drive / Dropbox to your Synology NAS - Cloud Sync Tutorial" },
+    { "id": "X0qGNgmCIGw", "title": "How to use Docker (Container Manager) to do ANYTHING! on Synology NAS" },
+    { "id": "o2ck1g3_k3o", "title": "The Complete Guide to Remotely Access Synology NAS - All 5 Options Explained"  }, 
+    { "id": "R_EQzBkz4sE", "title": "How to Monitor EVERYTHING in your HomeLab for free - Zabbix Overview" }, 
+    { "id": "euR29S6RHLA", "title": "How I host Virtual Machines in my HomeLab - Open Source Xen Orchestra Overview" }, 
+    { "id": "T1xW97eyXB8", "title": "COMPLETE BEGINNER’S GUIDE for Synology NAS - 2023 DSM 7.2" }, 
+    { "id": "W5kHK3Wq_GE", "title": "New Synology Rack Models Released! - RS2421+ / RS2821RP+" },
+    { "id": "Iwoznebw88o", "title": "Create a VPN Server on RaspberryPi using open VPN! - RaspberryPi Tutorial #05 | 4K TUTORIAL" }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "vdespa",
+    "name": "Valentin Despa",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOf07CpZ6giqmjTnATwDZ4H1679BH7arnK_wwEf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nh7QPdZk9RdSl2fdGBBS_atkXmvgrBXUi8N7b9JpBVXJxl3p_1evC0UGNWq3PR-mTSRmO3iyBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vzrRGd18tAg", "title": "Introduction to Mistral AI for Beginners" },
+    { "id": "9b0Cuw-V2BY", "title": "GitLab's AI Code Assistant to BOOST your productivity" },
+   { "id": "7I6tHw68DMQ", "title": "Build & Use Custom Docker images in your GitLab CI/CD pipeline" }
+  ]
+}
+

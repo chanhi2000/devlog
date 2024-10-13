@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "AI-GPTWorkshop",
+    "name": "AI Workshop",
+    "profile": "https://yt3.googleusercontent.com/kQ5XsZ7Pc3MCpRMXsVgP0jySB6xrmKLkSWalAdpnST9C3BWwmd1cRPU5-r5UHzuo1o3dkaUUQg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/w0ugBfv--g-B8b2VbW_qEqiE4PIgYdR2FAPfORFRqDBa2U14nKDZB-dl7c4WYiWiQZSLsFiVz0U=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pBy0HZ2ohOA", "title": "Step-by-Step: How to self-host n8n on your local machine with npm (NodeJS)" },
+    { "id": "dC2Q_cyzgjg", "title": "Self-Hosting n8n with Docker – Step-by-Step Tutorial (NO CODE!!)" },
+    { "id": "2orxyu8c7Ek", "title": "How to Run Llama 3.1 Locally on your Computer with Ollama and n8n (Step-by-Step Tutorial)" },
+    { "id": "UJ_X_p6anHM", "title": "Tutorial: Connect to any API with this AI Agent (n8n)" },
+    { "id": "XQ7wNqbB1x8", "title": "The ULTIMATE Local AI Setup: LLMs, Qdrant, n8n (NO CODE!!)" },
+    { "id": "NeMqpKYbM1o", "title": "GPT Store killer - Meta's new AI Studio" },
+    { "id": "pCnAxWPw2DI", "title": "AI Agents and the future with Jensen Huang and Mark Zuckerberg" },
+    { "id": "c4cR0bSoN9Y", "title": "New FREE Meta AI Products are AMAZING. Here is a demo...." },
+    { "id": "JNfBXcWh5Ss", "title": "New FREE Meta AI Products are AMAZING" },
+    { "id": "DFr2jlP_fBY", "title": "AI Robots Are Getting TOO SMART - What You Must Know in 2024" },
+    { "id": "niuJ4v2Sqdw", "title": "News Link to Viral Content: Tailoring Articles into Engaging Posts (AUTOMATION)" },
+    { "id": "Q1txIgEuiE4", "title": "I Created An AI That Automates Social Media Posts" },
+    { "id": "ZjBjGRJ16vo", "title": "Chinese text-to-video ViduAI is a HUGE disappointment!!. Here is why..." },
+    { "id": "PEgs57oqu0g", "title": "Step-by-Step Tutorial: Build A.I. Agents with n8n (NO CODE!!)" },
+    { "id": "IM78tVZceEE", "title": "FUTURE OF HUMANITY: A.I. Predicts 400 Years In 4 Minutes (HD)" },
+    { "id": "SrbRp03AcIg", "title": "Tutorial: Build an A.I. Agent with n8n that Works Like Perplexity.ai" },
+    { "id": "nE7XATKx6iQ", "title": "Step-by-Step Tutorial | Build an AI Agent with n8n and Pinecone (NO CODE!!)" },
+    { "id": "XyVSq8d4hxE", "title": "Tutorial: Auto-Label & Color-Code Emails with n8n (NO CODE!!)" },
+    { "id": "_1krInbmMOg", "title": "The Next Decade in AI by Ray Kurzweil and Ilya Sutskeverzweil" },
+    { "id": "HBRm4dfsPmY", "title": "Step-by-Step tutorial on how to make amazing deepfakes with AI tools" },
+    { "id": "9Cto83YVxiE", "title": "Use AI to Create a Custom Resume and Cover Letter for Each Job Application in Seconds - Tutorial" },
+    { "id": "H4p7d7ZRMGo", "title": "Transform Your Job Search: AI-Powered Application Automation" },
+    { "id": "A-19sHsH9lM", "title": "OpenAI Introduces SearchGPT. It's over for Google and Perplexity AI." },
+    { "id": "rW66pZXiprM", "title": "With ChatGPT, anyone can be a coder. Here is how..." },
+    { "id": "T9DCJDXr7w8", "title": "NIVIDIA Introduces Earth 2.0" },
+    { "id": "t8ktGt5NyBE", "title": "AUTOMATE Email Responses Using ChatGPT, Google Sheets and Make.com" },
+    { "id": "4gM90AOS2GI", "title": "DEEPFAKE Tutorial: A Beginners Guide to creating amazing deepfakes using modern day AI tools." },
+    { "id": "Niz9BovQLKA", "title": "OpenAI's NEW!! ChatGPT model: GPT-4o with amazing new features" },
+    { "id": "jqigMUfBbEs", "title": "DeepPool explains what AI deepfakes are and how they work" },
+    { "id": "uPHNx6DGB4A", "title": "Microsoft Announces Massive AI UPDATES!!! - Summarized in 8 min" },
+    { "id": "Gyk4SbUtJJU", "title": "NEW!! ChatGPT Integration with Google Drive and Microsoft OneDrive" },
+    { "id": "GbVU_qZ0pLg", "title": "Usage of AI in the battlefield causing mass civilian casualties" }
+  ],
+  "playlists": [
+
+  ]
+}

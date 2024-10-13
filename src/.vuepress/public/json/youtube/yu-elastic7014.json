@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "elastic7014",
+    "name": "한국 Elastic 사용자 그룹",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQRpTcqw4Tg-6XaeaoNnEAhWOcruZwN29YYXNit=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ypsEZXVYLo4", "title": "Elastic Stack을 이용한 서울시 지하철 대시보드 다시 만들기 #1" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "AndreaBorman",
+    "name": "Andrea Borman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nuc4CHtPAPhNZbiy0Qa3C8Ar8MW8md7lxKgdwYHHVeECM=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iZvDC0NsnZ_ueH7O42W-ZvYylAeR2RJ1CKi1ybo2vVzNmkuNY3cCXj18D96vVwloDw0QCjGpuw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YVI6SCtVu4c", "title": "How To Use FFMPEG On Linux." },
+    { "id": "L8lagrR4rts", "title": "I Try LXQT. (Live CD.)" },
+    { "id": "iazjxIRMop4", "title": "Andrea Tries LXDE. (Live CD.)" },
+    { "id": "YVI6SCtVu4c", "title": "How To Use FFMPEG On Linux." },
+    { "id": "k3Hupa3pe0c", "title": "Different Ways You Can Customise Gnome." },
+    { "id": "cFbRUj23nrE", "title": "Linux Backdoor Attack-Do We Need To Start Using Antivirus Software Now?" },
+    { "id": "Nx80MbKcPbw", "title": "Lets Talk About Screensavers On Linux." },
+    { "id": "y0qrdLSi4zA", "title": "How To Run XScreensaver On The Cinnamon Desktop." },
+    { "id": "ItW6D3XZkRI", "title": "How To Install The Latest Version Of XScreensaver On Linux Mint And Ubuntu." },
+    { "id": "yixseXhg5ZY", "title": "Neofetch Has Been Discontinued. What's The Alternative?" },
+    { "id": "1IConBA4ads", "title": "Brisk Menu An Alternative Start Menu For Mate." },
+    { "id": "B6q9-1OxwcY", "title": "How To Get The Trinity Desktop Icons And Wallpapers On Linux Mint And Debian." },
+    { "id": "PMucFtJi7FM", "title": "How To Install Palemoon Web Browser On Linux. (When You Can't Add The Repositories.)" }
+  ],
+  "playlists": [
+
+  ]
+}

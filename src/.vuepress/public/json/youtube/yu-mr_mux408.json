@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "mr_mux408",
+    "name": "Alex Mux",
+    "profile": "https://yt3.googleusercontent.com/MyorFVYkwhaJTT7G3xnZvIq_NPAxL3AXWjV0cYmF51HIH360zup16EjFi_2B4qT1ASBuqrH21U8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TK6ZFEzhZ9soL-QiEgHMJzwbBkZrHotXcm-w9-_hD0YIMqVKnOQRoeaiSPuD98lzQBLWYi8Law=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9cC9x-ntNQY", "title": "Learn VIM Fast: Full Tutorial" },
+    { "id": "rQPnlvytMYU", "title": "Setup Neovim Fast with Awesome Results" },
+    { "id": "8uiZC0l4Ajw", "title": "Learn GO Fast: Full Tutorial" }
+  ]
+}

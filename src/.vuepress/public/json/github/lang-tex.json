@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "lysxia/gradual-eff-paper",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "paulgp/applied-methods-phd",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "synercys/annotated_latex_equations",
+    "desc": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "sysprog21/lkmpg",
+    "desc": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "officialSite": "https://sysprog21.github.io/lkmpg",
+    "topics": ["c", "linux", "documentation", "books", "kernel", "linux-kernel", "device-driver", "linux-kernel-module", "linux-kernel-driver", "lkm", "lkmpg"]
+  }, {
+    "repo": "hendricius/the-sourdough-framework",
+    "desc": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
+    "officialSite": "https://breadco.de/book",
+    "topics": ["baking", "cooking", "bread", "sourdough"]
+  }, {
+    "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "premAI-io/state-of-open-source-ai",
+    "desc": "Clarity in the current fast-paced mess of Open Source innovation",
+    "officialSite": "https://book.premai.io/state-of-open-source-ai",
+    "topics": ["ai", "book", "hacktoberfest", "jupyter-book", "ml", "mlops", "open-source"]
+  }
+]

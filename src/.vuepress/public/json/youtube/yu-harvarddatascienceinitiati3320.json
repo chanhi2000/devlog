@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "harvarddatascienceinitiati3320",
+    "name": "Harvard Data Science Initiative",
+    "profile": "https://yt3.googleusercontent.com/CUDHXlOZ3Iafj3vs_E7Dk10342F2vJtgm2D53PEyXKzLpxAgHXGtNWG924iXPHla9zndS0UoOA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hlmSPCNVHuA", "title": "The Problem of Terroir in the Anthropocene" },
+    { "id": "KgYGh6PXFMg", "title": "How Can We Best Use Econometrics to Quantify the Impact of Climate Change on the Wine Industry?" },
+    { "id": "fyw-Sp3pnD4", "title": "DBR Lafite’s Viticulture as an Ecosystem: How We Adapt to Climate Change" },
+    { "id": "o-WklIUg4WY", "title": "Judgment of Napa" },
+    { "id": "5hjW5vKP9ZM", "title": "How Penfolds uses data-based decision metrics to help plan and adapt to growing grapes" },
+    { "id": "DjHy9-Lryvc", "title": "The Economics of Introducing Alcoholic Beverages into Grocery Stores" },
+    { "id": "YR5VDfIZF38", "title": "Vineyard Design in the Face of Climate Change" },
+    { "id": "vH2kPf6YV5k", "title": "The Impact of AI Integration on Rural Economic Development in the French Wine Industry" },
+    { "id": "u3z61103HSg", "title": "Underpricing and Perceived Scarcity" },
+    { "id": "IStDz37kK_s", "title": "Wine – A Fascinating Laboratory" },
+    { "id": "9QefsG0JKtM", "title": "How Penfolds uses data-based decision metrics to help plan and adapt to growing grapes" },
+    { "id": "zNaypAsi0k0", "title": "The Economics of Introducing Alcoholic Beverages into Grocery Stores" },
+    { "id": "5md9DPDY838", "title": "Fictions of Man: Automation, Abstraction, and Artificial Intelligence" },
+    { "id": "Dwa1aPqWI9s", "title": "Bridging the Gap: A Comprehensive Approach to Responsible Data Science Education" },
+    { "id": "lZZZvv0GLHo", "title": "Generative AI and Statistical Data Science: Opportunity and Challenges" },
+    { "id": "VDRsw5Gn_f0", "title": "Can ChatGPT Plan Your Retirement?: Generative AI and Financial Advice" },
+    { "id": "Gqd_PtmOS-s", "title": "Future Shock: How did the GenAI Revolution Trigger an International AI Policy and Governance Crisis" },
+    { "id": "DP7IYVZdWNw", "title": "Panel: Democratizing Data: Discovering Data Use and Value for Research and Policy" },
+    { "id": "poiIDPRQDEg", "title": "Climate, Weather, and Collective Reputation: Implications for California’s Wine Prices and Quality" },
+    { "id": "H38D5tjD8VU", "title": "Causal Seminar: Paul Rosenbaum, University of Pennsylvania" },
+    { "id": "k9DnQPrfJQs", "title": "Tutorial | LLMs in 5 Formulas (Standard Format)" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "10xaiclub",
+    "name": "10X AI Club",
+    "profile": "https://yt3.googleusercontent.com/dEY60SY47DbL7Pnuko4sQX4mYK81GbAEQZEUC5M7azy3nAWktXd0mLbGhVN7L7tWvkMUJ0zKQw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0NimYB4xBqMRk7Q8N5v8CTr5DZWe1U4JFAlill4iF91VeL3uIcSslTDmV8BvOIF4qaTf-W1h8A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IB__JQzhMSM", "title": "슬랙 ChatGPT 봇 만들기 | 요약, 질문&답변, 문장 생성, 번역, 검색 등" },
+    { "id": "FouUOftcn70", "title": "Upstage Solar LLM 활용법 | Part 1" },
+    { "id": "SDWaHCtBuTg", "title": "RAG Chatbot using Upstage | Part 2" },
+    { "id": "ciC6gHHkm7w", "title": "나만의 GPTs 앱으로 생산성 10배 늘리기 | Langchain 무료 실습 자료, 구독자 감사 메세지" },
+    { "id": "ObJJIcWnmA0", "title": "LLM이 생성한 답변을 어떻게 신뢰할 수 있을까? | Upstage Part 3" },
+    { "id": "HgVnsDqGTiU", "title": "RAG 에이전트에 실시간 검색 API 연동하기 | Upstage Part 4" },
+    { "id": "DSiyostE7rw", "title": "처음으로 인공지능에게 인지 능력이 생겼습니다 | Anthropic Claude 3 (GPT4와 성능 비교)" },
+    { "id": "ZUt5-TTXLX0", "title": "GPT에서 구글, 네이버, 유튜브 동시에 연동하기 | GPTs Action 활용법" }
+  ],
+  "playlists": [
+
+  ]
+}

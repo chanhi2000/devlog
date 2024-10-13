@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "leighhalliday",
+    "name": "Leigh Halliday",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOj2pSSU9OWVNw40Op6PBGMeK_nq3gtuwIoxmi-vPI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wlVFANZn3SPgiLmgBwg1zT1VnehoBKJ-IxHoB1xbU243HUwTIZ0VQUCy7nGQalrHjIcOY1PGOA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jUHLd2EdbOI", "title": "Show directions on a map in React and Google Maps" },
+    { "id": "cOSw0Vmi3uQ", "title": "Geocoding Addresses in React" }, 
+    { "id": "fOoH9Z5adrg", "title": "Improving SEO with (Dynamic) Sitemaps in Next.js" }, 
+    { "id": "sBiUqozxY4o", "title": "Building a Cache with Upstash Redis in Next.js" }, 
+    { "id": "sVJkE_Z_CDM", "title": "Recursion Crash Course: Learn Recursion in 15 minutes with JavaScript" }, 
+    { "id": "HkWciooQVvA", "title": "Mocking APIs During Development in React" }, 
+    { "id": "Tw_wn6XUfnU", "title": "Don't waste your time! Automate everything! Apollo CLI TypeScript/GraphQL Codegen" }, 
+    { "id": "LN79kEmG0ts", "title": "Public URLs on localhost using ngrok" }, 
+    { "id": "ivpMErpykRo", "title": "Using Prisma with Nexus Schema" }, 
+    { "id": "WZcxJGmLbSo", "title": "Google Maps & Google Places in React" }, 
+    { "id": "iUtiHjBhYL8", "title": "Web Scraping in Node.js using Cheerio, Puppeteer, and Fetch" }, 
+    { "id": "TxEVnaISj1w", "title": "Forms in React with Formik" } 
+  ]
+}

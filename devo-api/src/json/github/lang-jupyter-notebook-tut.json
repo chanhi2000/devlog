@@ -1,0 +1,192 @@
+[
+  {
+    "repo": "microsoft/ML-For-Beginners", 
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "officialSite": "https://microsoft.github.io/ML-For-Beginners",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gkamradt/langchain-tutorials", 
+    "desc": "Overview and tutorial of the LangChain Library",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "curiousily/Getting-Things-Done-with-Pytorch",
+    "desc": "Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with … ",
+    "officialSite": "https://www.mlexpert.io",
+    "topics": ["nlp", "machine-learning", "tutorial", "computer-vision", "deep-learning", "time-series", "sentiment-analysis", "pytorch", "transformer", "lstm", "yolo", "face-recognition", "face-detection"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "graykode/nlp-tutorial",
+    "desc": "Natural Language Processing Tutorial for Deep Learning Researchers", 
+    "officialSite": "https://www.reddit.com/r/MachineLearning/comments/amfinl/project_nlptutoral_repository_who_is_studying",
+    "topics": ["nlp", "natural-language-processing", "tutorial", "tensorflow", "paper", "pytorch", "transformer", "attention", "bert"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "officialSite": "",
+    "topics": ["machine-learning", "model-deployment", "mlops", "model-monitoring", "workflow-orchestration"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "officialSite": "https://microsoft.github.io/AI-For-Beginners",
+    "topics": ["nlp", "machine-learning", "ai", "computer-vision", "deep-learning", "cnn", "artificial-intelligence", "gan", "rnn"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "officialSite": "https://microsoft.github.io/Data-Science-For-Beginners",
+    "topics": ["python", "data-science", "pandas", "data-visualization", "data-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "officialSite": "",
+    "topics": ["python", "machine-learning", "tutorial", "deep-learning", "svm", "linear-regression", "scikit-learn", "linear-algebra", "machine-learning-algorithms", "naive-bayes-classifier", "logistic-regression", "implementation", "support-vector-machines", "100-days-of-code-log", "100daysofcode", "infographics", "siraj-raval", "siraj-raval-challenge"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ktynski/Marketing_Automations_Notebooks_With_GPT",
+    "desc": "A collection of automations and experiments exploring the applications of generative AI in Marketing, SEO, and Public Relations",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DataTalksClub/machine-learning-zoomcamp",
+    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "krishnaik06/The-Grand-Complete-Data-Science-Materials",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fastai/lm-hackers",
+    "desc": "Hackers' Guide to Language Models",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/generative-ai-for-beginners",
+    "desc": "18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "officialSite": "https://microsoft.github.io/generative-ai-for-beginners/",
+    "topics": ["ai", "azure", "chatgpt", "dall-e", "generative-ai", "generativeai", "gpt", "language-model", "llms", "openai", "prompt-engineering", "semantic-search", "transformers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "girafe-ai/ml-course",
+    "desc": "Open Machine Learning course",
+    "officialSite": "",
+    "topics": ["computer-vision", "course", "deep-learning", "machine-learning", "materials", "natural-language-processing", "python", "pytorch", "reinforcement-learning", "seminars"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/eShop",
+    "desc": "A reference .NET application implementing an eCommerce site",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jerryjliu/create_llama_projects",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mlabonne/llm-course",
+    "desc": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "officialSite": "https://mlabonne.github.io/blog/",
+    "topics": ["course", "large-language-models", "llm", "machine-learning", "roadmap"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "amitsangani/Llama-2",
+    "desc": "All the projects related to Llama",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "iusztinpaul/hands-on-llms",
+    "desc": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+    "officialSite": "",
+    "topics": ["3-pipeline-design", "aws", "beam", "bytewax", "cicd", "comet-ml", "docker", "fine-tuning", "generative-ai", "huggingface", "langchain", "llmops", "llms", "mlops", "qdrant", "qlora", "streaming", "transformers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "officialSite": "",
+    "topics": ["data-engineering", "dbt", "docker", "kafka", "prefect", "spark"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dair-ai/ML-YouTube-Courses",
+    "desc": "📺 Discover the latest machine learning / AI courses on YouTube.",
+    "officialSite": "",
+    "topics": ["ai", "data-science", "deep-learning", "machine-learning", "natural-language-processing", "nlp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anthropics/anthropic-cookbook",
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AnswerDotAI/fsdp_qlora",
+    "desc": "Training LLMs with QLoRA + FSDP",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "NielsRogge/Transformers-Tutorials",
+    "desc": "This repository contains demos I made with the Transformers library by HuggingFace.",
+    "officialSite": "",
+    "topics": ["bert", "gpt-2", "layoutlm", "pytorch", "transformers", "vision-transformer"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anthropics/courses",
+    "desc": "Anthropic's educational courses",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "banner": ""
+  }, {
+    "repo": "datawhalechina/leedl-tutorial",
+    "desc": "《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+    "officialSite": "",
+    "topics": ["bert", "chatgpt", "cnn", "deep-learning", "diffusion", "gan", "leedl-tutorial", "machine-learning", "network-compression", "pruning", "reinforcement-learning", "rnn", "self-attention", "transfer-learning", "transformer", "tutorial"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rasbt/LLMs-from-scratch",
+    "desc": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "officialSite": "https://www.manning.com/books/build-a-large-language-model-from-scratch",
+    "topics": ["chatgpt", "gpt", "large-language-models", "llm", "python", "pytorch"],
+    "avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
+    "banner": ""
+  }
+]

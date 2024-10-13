@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "_wy_choi",
+    "name": "코드남(코드 주는 남자)",
+    "profile": "https://yt3.googleusercontent.com/STjLOByl-3I9SYUPWQNKDUmWkgKpdMb5SVsBL9v5KDvUTmtIXpzRJZ2R9kDdYSJsCmIPyZpH=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B77fG6kb0JnlkGPd3dp9RZDR5WVaaiYpw17EkyUbZgQZgaZnFlhz9GrlZaQikvUw-NwfLWazMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9S7m7kNRNzw", "title": "1강_증권사에서 사물함 열쇠 받아오기(API)" },
+    { "id": "hFdpuKbptxw", "title": "2강_투자 자동화 계속 하실거라면, 정말 조심하셔야 합니다(보안 데이터)" },
+    { "id": "0ZTBiwCyMCs", "title": "[파이썬_3시간] GPT가 적는 코드를 이해할 수 있는 코딩 강의_'세상이 바뀌었는데 왜 코딩은 그대로야?'" },
+    { "id": "ENX6VSCad0Y", "title": "1강_세상이 바뀌었는데 왜 코딩은 그대로야? [GPT 파이썬 무료강의]" },
+    { "id": "O1cXpOhpUTc", "title": "2강_당신의 파이썬 공부가 잘못된 이유 [GPT 파이썬 무료강의]" },
+    { "id": "xnbJDOI17Lw", "title": "3강_알고 설치하자/알고 쓰자(1) [GPT 파이썬 무료강의]" },
+    { "id": "ofa2_Odu7fQ", "title": "4강_알고 설치하자/알고 쓰자(2) [GPT 파이썬 무료강의]" },
+    { "id": "7l5qKyncGiY", "title": "5강_파이썬아. 폴더 정리 좀 해줄래? [GPT 파이썬 무료강의]" },
+    { "id": "IQIzXGydMcM", "title": "13강_객체지향? 쓸 만큼만 알면 됩니다(2) [GPT 파이썬 무료강의]" },
+    { "id": "SDcfQDLazfo", "title": "12강_객체지향? 쓸 만큼만 알면 됩니다(1) [GPT 파이썬 무료강의]" },
+    { "id": "gsy5-uOq7lk", "title": "11강_이미 만들어놓은 기능 코드의 뭉텅이 [GPT 파이썬 무료강의]" },
+    { "id": "SF2r72bewaE", "title": "10강_뭔가 넣어놓고.. 뒤에 다시 쓰려면? 변수 [GPT 파이썬 무료강의]" },
+    { "id": "B8H7CtpE_Z8", "title": "9강_파이썬아 이건 엑셀이야. 이건 이미지고.. [GPT 파이썬 무료강의]" },
+    { "id": "pd7tehg9Mzo", "title": "8강_엑셀? 패키지 쓰면 뭐든 할 수 있지  [GPT 파이썬 무료강의]" },
+    { "id": "WFsgGVngdGI", "title": "7강_내가 다 코딩할 필요가 없습니다(남들이 만들어줬으니까요) [GPT 파이썬 무료강의]" },
+    { "id": "DePnTswHcJw", "title": "6강_터미널? print? 그거 왜하는건데? [GPT 파이썬 무료강의]" }
+  ],
+  "playlists": [
+    
+  ]
+}

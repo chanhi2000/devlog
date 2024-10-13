@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "someandcook",
+    "name": "썸앤쿡",
+    "profile": "https://yt3.googleusercontent.com/nOK4r15HWDxk_NG-dX1dWN-t7hS5IyFa_aCom_ifKdqv2ormKS99MfY862xzsoBK8t51qnLY9g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Zf6BuXa5sazDuapkvRya6raxfKvmQ-Z4O_1_6DRKS7CvpnnJKurorNwXdxPEX0L0YPmGvrS2cxM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0VLFqdgUzw4", "title": "한번사면 죽을때까지 쓰는 스텐고르는법" }
+  ]
+}

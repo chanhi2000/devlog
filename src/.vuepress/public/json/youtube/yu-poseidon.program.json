@@ -1,0 +1,125 @@
+{
+  "channel": {
+    "id": "poseidon.program",
+    "name": "poseidon",
+    "profile": "https://yt3.googleusercontent.com/yPEIdkPIqPghLsDecgMqazhJlsKNgCaZycNPoAj8a9DZ747-iIjmrKhVlMYyOt7G1knzrRqYCyw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "스프링 부트",
+      "videos": [
+        { "id": "30MOo281TtY", "title": "spring boot thymeleaf 프로젝트 만들기" },
+        { "id": "Ggs2TDhYF4c", "title": "공공데이터 포털에서 데이터 가져오기" },
+        { "id": "QfsB_rEMrLg", "title": "스프링 부트 프로젝트 만들기 + 부트스트랩 + 멀티보드 만들기" },
+        { "id": "jYQt6_Zo-iw", "title": "spring boot AOP" },
+        { "id": "ygqqOsISLjo", "title": "spring boot +JPA" },
+        { "id": "yrsPZLn3oHo", "title": "spring boot + jsp 프로젝트 만들기" },
+        { "id": "wSEcNwgGU1A", "title": "H2 database 사용해보기" }
+      ]
+    }, {
+      "title": "스프링 레거시",
+      "videos": [
+        { "id": "CLt3qgisYjo", "title": "스프링 레거시 프로젝트 처음부터 만들기(아래 참조)" },
+        { "id": "6TWz_Houo_g", "title": "스프링 legacy 프로젝트(.do) 만들기" },
+        { "id": "BYoGEDa3Joc", "title": "스프링 프로젝트 war 배포해보기" },
+        { "id": "ETeKaVvtoSU", "title": "관리자 페이지 만들기" },
+        { "id": "FQg8KfhHsJc", "title": "java Spring 수업 4차 - 부트스트랩(2024-02-15)" },
+        { "id": "J-bu9omPxro", "title": "스프링 로그인2" },
+        { "id": "JuuIeYJxyJg", "title": "스프링 공지 게시판 만들기" },
+        { "id": "VYFDu2LiHmo", "title": "메일보내기" },
+        { "id": "Wd_4uFOApwY", "title": "스프링 로그인 만들기" },
+        { "id": "YfsfVjbLo7A", "title": "java Spring 수업 2차 - 프로젝트만들기(2024-02-13)" },
+        { "id": "Yt8EOkFCiwo", "title": "DB암호화" },
+        { "id": "ZB_yFkKSX5s", "title": "회원가입하기(JSON AJAX 사용해보기)" },
+        { "id": "ZI6PGTCbY5w", "title": "java Spring 수업 3차   프로젝트만들기(2024-02-14)" },
+        { "id": "_NHDQR0Rs7I", "title": "java Spring 수업 5차 - 부트스트랩(2024-02-16)" },
+        { "id": "_ZarZt9bzyw", "title": "java Spring 수업 1차 - 프로젝트만들기(2024-02-13)" },
+        { "id": "_f1pbpJNhF8", "title": "관리자 : 게시글 관리" },
+        { "id": "aFBxvIv7L2k", "title": "스프링 서머노트 설정하기 / 메일 보내기" },
+        { "id": "rOzoqXG3pto", "title": "파일 업로드 / 갤러리 만들기" },
+        { "id": "s7C0AywnCx4", "title": "쿠키 사용해보기" },
+        { "id": "tLTvZaAh1eE", "title": "Spring project 처음 시작하기" },
+        { "id": "w5WHTLhfQBM", "title": "갤러리 게시판 만들기 / STS3 레거시 프로젝트 생성하기" }
+      ]
+    }, {
+      "title": "JAVA",
+      "videos": [
+        { "id": "We9Pzf88PN8", "title": "[java] 자바 1교시 - openjdk 설치하기" },
+        { "id": "VT8VQCZjwZk", "title": "[java] 자바 2교시 - 표기법" },
+        { "id": "Uyg3vn-xM2A", "title": "[java] 자바 3교시 - 서체변경, 메소드 호출" },
+        { "id": "Lk2CRWGR6us", "title": "[java] 자바 4교시 - 변수" },
+        { "id": "ZU_IgpI7VSY", "title": "[java] 자바 5교시 - 데이터타입" },
+        { "id": "4rh4HuHP1vk", "title": "[java] 자바 6교시 - String, printf()" },
+        { "id": "ITBOQPWC0u4", "title": "[java] 자바8교시-연산자" },
+        { "id": "M5EB80ouedc", "title": "[java] 자바9교시 - if문" },
+        { "id": "b1z5NYfz8Uk", "title": "[java] 자바 10교시 - for문" },
+        { "id": "8dJa1syMLS0", "title": "[java] 자바 11교시 - for" },
+        { "id": "4OsFSZ6cUe8", "title": "[java] 자바 12교시 - while" },
+        { "id": "TSiXssb1nzw", "title": "[java] 자바 13교시 - 정리" },
+        { "id": "3JinjdAw_U4", "title": "[java] 자바 14교시 - Array" },
+        { "id": "hd7PJAJD-2k", "title": "[java] 자바 15교시 - 2차원배열" },
+        { "id": "1SM84zTuTgw", "title": "[java] 자바 16교시 - 배열복사" },
+        { "id": "lFVKJoKriZM", "title": "[java] 자바 17교시 - 객체지향" },
+        { "id": "6LTzItSFlic", "title": "[java] 자바 18교시 - String사용방법" },
+        { "id": "VN_ZeKD8tkg", "title": "[java] 자바 19교시 - 객체지향 프로그래밍" },
+        { "id": "i8VEsQpxDYQ", "title": "[java] 자바 20교시 - 생성자" },
+        { "id": "88RPE8bTnlY", "title": "[java] 자바 21교시-메소드" },
+        { "id": "KFjM2puDJtU", "title": "[java] 자바 22교시 - 메소드, static" },
+        { "id": "XStHBC0eYUI", "title": "[java] 자바 23교시 - 접근 제어자" },
+        { "id": "MOUWSAH1JBQ", "title": "[java] 자바 24교시 - 상속/오버라이드" },
+        { "id": "1TUPOgV3ZQo", "title": "[java] 자바 25교시 - 추상화" },
+        { "id": "lQX3tQ3bT5E", "title": "[java] 자바 26교시 - 인터페이스" },
+        { "id": "7fvsiiyHCb4", "title": "[java] 자바 27교시 - 예외처리" },
+        { "id": "lvNHblbY2oc", "title": "[java] 자바 28교시 - 데이터베이스와통신하기" },
+        { "id": "jCaK6lsyuss", "title": "[java] 자바 29교시 - List" },
+        { "id": "k5WGD6DGktI", "title": "[java] 자바 30교시 - Set, Map" },
+        { "id": "5LZn-D66aFU", "title": "[java] 자바 30교시 - List를 web에서 사용해보기" },
+        { "id": "8fZrXk_i99Y", "title": "[java] 자바 30교시 - Stack, Queue, TreeMap" },
+        { "id": "2P5lONiDBcg", "title": "[java] 자바 31교시 - Stram" },
+        { "id": "L54ecwklYiw", "title": "[java] 자바 32교시 - enum" },
+        { "id": "QkYz13MF4p4", "title": "[java] 자바 33교시 - Record" },
+        { "id": "m8sz2suYEsM", "title": "[java] 자바 34교시 - 추론타입 var" },
+        { "id": "BHwcMVTW7d8", "title": "[java] 자바 35교시 - TextBlock" },
+        { "id": "hOs6sNLRSrw", "title": "[java] 자바 36교시 - 내장 클래스 - 인스턴스 멤버 클래스" },
+        { "id": "u7AtS2xvBqQ", "title": "[java] 자바 36교시 - 내장 클래스 - 정적 멤버 클래스" },
+        { "id": "Tho93c3aNiI", "title": "[java] 자바 36교시 - 내장 클래스 - 지역 클래스" },
+        { "id": "pKIpn_2NTos", "title": "[java] 자바 36교시 - 내장 클래스 - 익명 클래스" },
+        { "id": "f-lLfee6vhc", "title": "[java] 자바 37교시 -  시간과 달력" },
+        { "id": "C2SyPvF3zew", "title": "[java] 자바 38교시 - Thread" },
+        { "id": "7osVLxs0Geo", "title": "[java] 자바 39교시 - GUI" },
+        { "id": "3KqdI8l93-U", "title": "[java] 자바 40교시 - 비만도 프로그램 만들기" },
+        { "id": "8uOUJDC0UkE", "title": "[java] 자바 41교시 - java.net" }
+      ]
+    }, {
+      "title": "vue",
+      "videos": [
+        { "id": "fIrSsADpkUo", "title": "vue 3차 - vue  if문" },
+        { "id": "aDcClB-SQYE", "title": "Vue 2차 - 자바스크립트 문법, vue 프로젝트 톺아보기" },
+        { "id": "fIrSsADpkUo", "title": "vue 3차 - vue  if문" },
+        { "id": "wHGAmTJXvNY", "title": "vue 1차 - node.js설치 및 프로젝트 생성해보기" },
+        { "id": "zKcsecHo_DY", "title": "vue 4차 - for문" },
+        { "id": "q9MTBcZ6xFM", "title": "vue 연습 - 버튼 눌러 값 변경하기" },
+        { "id": "US6V0bUALBM", "title": "vue 연습 - 소리재생" },
+        { "id": "vq4bdyMLeJ8", "title": "vue-router사용해보기" },
+        { "id": "k_mgkA4JSok", "title": "vue 5차 - 글쓰기" },
+        { "id": "KW5T1nnflJI", "title": "vue 4차 - 게시판 데이터 출력하기" },
+        { "id": "US6V0bUALBM", "title": "vue 연습 - 소리재생" },
+        { "id": "aDcClB-SQYE", "title": "Vue 2차 - 자바스크립트 문법, vue 프로젝트 톺아보기" },
+        { "id": "fIrSsADpkUo", "title": "vue 3차 - vue  if문" },
+        { "id": "k_mgkA4JSok", "title": "vue 5차 - 글쓰기" },
+        { "id": "q9MTBcZ6xFM", "title": "vue 연습 - 버튼 눌러 값 변경하기" },
+        { "id": "qIwtUhqZ3NY", "title": "vue 연습 - 컴포넌트 사용" },
+        { "id": "vq4bdyMLeJ8", "title": "vue-router사용해보기" },
+        { "id": "wHGAmTJXvNY", "title": "vue 1차 - node.js설치 및 프로젝트 생성해보기" },
+        { "id": "zKcsecHo_DY", "title": "vue 4차 - for문" },
+        { "id": "cjgXsUTozEU", "title": "vue정리하기1편" },
+        { "id": "sbZBJ1zTyEo", "title": "vue-종합 (페이징 만들기)" },
+        { "id": "FUGIU6644bY", "title": "vue-종합(vuex)" }
+      ]
+    }
+  ]
+}

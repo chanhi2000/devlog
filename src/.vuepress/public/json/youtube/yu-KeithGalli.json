@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "KeithGalli",
+    "name": "Keith Galli",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRhy571DTkSUEtByYrF1GTXZpOpI39XhSavLlQNjw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V27xfJjsKz8SHRwulm1pzYJZVpJbVBTvIg4JdHKyuN9m6jysm2gxZvHT3DxUiik4vihTaFxx5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i7v2m-ebXB4", "title": "Solving 100 Python Pandas Problems! (from easy to very difficult)" },
+    { "id": "oad9tVEsfI0", "title": "Real-World Dataset Cleaning with Python Pandas! (Olympic Athletes Dataset)" },
+    { "id": "DcI_AZqfZVc", "title": "Advanced Web Scraping Tutorial! (w/ Python Beautiful Soup Library)" },
+    { "id": "2uvysYbKdjM", "title": "Complete Python Pandas Data Science Tutorial! (2024 Updated Edition)" },
+    { "id": "QDfLou004iE", "title": "How to make your GitHub more impressive to Employers! (5 simple tips)" },
+    { "id": "YXANJ20--vA", "title": "Ask me anything! (data science, LLMs, landing a job, and more)" },
+    { "id": "moi8WPO3Xhs", "title": "How to create & deploy an API in Python! (with interactive documentation)" },
+    { "id": "eMOA1pPVUc4", "title": "Solving real world data science tasks with Python Pandas!" }
+  ],
+  "playlists": [
+
+  ]
+}

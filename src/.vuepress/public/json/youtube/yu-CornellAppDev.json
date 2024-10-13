@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "CornellAppDev",
+    "name": "Cornell AppDev",
+    "profile": "https://yt3.googleusercontent.com/2nqa91KywQTlJ7PHbXxWZnYTg6ENauhX6rVksVTtRua2Qy0W44xuTA2PIrkHjshXqYF-qteSCuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/R4mZA4YN8n-5bavMWAif7mAoh4sCv_alAwvxWYnXpZgrz7LlJiKyOZ1NulErQM1hhA-ciCBOxRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IdnFEX_8Nwk", "title": "[SP24] Intro to iOS L8: - Persistence and SnapKit" },
+    { "id": "DLcShrPmBPc", "title": "[SP24] Intro to Android: Lecture 5 - Multiple Screens and Navigation" },
+    { "id": "6zJO1kxOO0c", "title": "Intro to Backend Development: Demo 4 - Abstractions" },
+    { "id": "hwgA05rGgY0", "title": "Intro to Backend Development: Lecture 4 - Abstractions" },
+    { "id": "rpWCt3cL41k", "title": "[SP24] Intro to iOS - L11: SwiftUI Part II" },
+    { "id": "X-cIpcMC_Vw", "title": "[SP24] Intro to iOS - L12: UITabViewController" },
+    { "id": "mMrR_vMhifE", "title": "[SP24] Intro to Android: Demo on Networking" },
+    { "id": "OxIqmG-s81U", "title": "[SP24] Intro to iOS - L0: Course Intro and Logistics" },
+    { "id": "cfPcfUE86uE", "title": "[SP24] Intro to iOS - L1: Swift Basics" },
+    { "id": "eam9-btVy1A", "title": "[SP24] Intro to Android: Lecture 1 - Overview" },
+    { "id": "_JB0exdCehk", "title": "[SP24] Intro to iOS - L2: UIKit + AutoLayout" },
+    { "id": "TTJq6bxir7k", "title": "[SP24] Intro to Backend Development - Routes Lecture (Week 1)" },
+    { "id": "S6H5N3h1doM", "title": "[SP24] Intro to Backend Development - Routes Demo (Week 1)" },
+    { "id": "H3qMIp2mSRc", "title": "[SP24] Intro to iOS - L3: MVC + Navigation + Delegation" },
+    { "id": "0VHEIFxUWoI", "title": "[SP24] Intro to iOS - L4: UITableView" },
+    { "id": "g4v8X1jUR8M", "title": "[SP24] Intro to iOS L5: UICollectionView" },
+    { "id": "KPFqftT9zb4", "title": "[SP24] Intro to Backend Development - Databases Demo (Week 2)" },
+    { "id": "b9nrThgBLl8", "title": "[SP24] Intro to Backend Development: Databases Lecture (Week 2)" },
+    { "id": "Y2jAqKuwJBU", "title": "[SP24] Intro to iOS - L6: Networking I" },
+    { "id": "qmwy32XT89U", "title": "[SP24] Intro to iOS - L7: Networking II" },
+    { "id": "sXYKI_Rpjxs", "title": "[SP24] Intro to Backend Development: Relational Databases Demo (Week 3)" },
+    { "id": "c5HUpAS_OI4", "title": "[SP24] Intro to Android: Lecture 3 - Intents" },
+    { "id": "r8JQmfIjZ8M", "title": "[SP24] Intro to Android: Discussion 4 - Jetpack Compose LazyList Demo" },
+    { "id": "w1LdpjDL6kw", "title": "[SP24] Intro to Android: Lecture 4 - RecyclerViews and LazyLists" },
+    { "id": "pceM03b9rrc", "title": "Intro to Backend Development: Lecture 7 - Authentication" },
+    { "id": "em2Cs--Xkik", "title": "Intro to Backend Development: Demo 7 - Authentication" },
+    { "id": "I-Gkkum_GVE", "title": "[FA23] The Beauty of Kotlin - Android Bonus Lecture" },
+    { "id": "3RWk1hah-sg", "title": "Intro to iOS - Widgets (Guest Lecture)" }, 
+    { "id": "JRg2TXP8M5U", "title": "Intro to Backend: Demo 5 - Containerization" }, 
+    { "id": "xSktqceBLTI", "title": "[FA23] Intro to iOS - L11: SwiftUI Part II" },
+    { "id": "DKXLf3zebUA", "title": "Intro to iOS - L3: MVC + Navigation + Delegation" },
+    { "id": "NrbTwbFjh9k", "title": "Intro to Backend Development: Demo 1 - Routes" },
+    { "id": "4dYdWGO56N4", "title": "Intro to Backend Development: Demo 7 - Authentication" }, 
+    { "id": "f6Y3g2UByMo", "title": "Intro to Backend Development: Demo 5 - Containerization" }, 
+    { "id": "GKTLhzCbRPw", "title": "Intro to iOS Development: Lecture 6 - Networking Part I & SnapKit" }, 
+    { "id": "cwQapZbw3cc", "title": "Intro To Android Development Lecture 6: Networking & Data + Persistent Storage" }, 
+    { "id": "aaKh4_YmjEM", "title": "Introduction to Backend Development: Lecture 8 - Images" }, 
+    { "id": "cl7nQd57RIc", "title": "Intro to iOS Development: Demo 3 - Delegation, MVC, Navigation" }
+  ],
+  "playlists": [
+    
+  ]
+}

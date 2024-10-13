@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "MidwareCloud",
+    "name": "Midware Cloud",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMzhtPjih0DgJ9E2zKhpWtTv3Gaaf3I5ZHxYArPJw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gedTiB_-jp-B-QuumZoWFsDm6uTotjoEfBA9YtusqRxdluPOljqaMlcMFYlUBfx5cLQRNOrI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mUDG81DygCw", "title": "SQL Server Table Partitioning By Practical Examples" },
+    { "id": "fqEd-uG9als", "title": "How to Create a Data Access Layer - DAL (C#) application (Part 1) | with examples | Urdu - Hindi #4" },
+    { "id": "rlDrPsWa6tg", "title": "How to Create a Data Access Layer - DAL (C#) application (Part 2) | with examples | Urdu - Hindi #5" },
+    { "id": "VBA4k1mNYDw", "title": "How to creates DevExpress Ribbon Form, Login & Splash Screen in C#.NET" },
+    { "id": "wkDuYXRy5MQ", "title": "How to build Multiple type of .NET Applications in single solution | Urdu - Hindi #2" },
+    { "id": "IC80wRPb2Zw", "title": "Deploy a .NET Windows desktop application using ClickOnce | with examples | Urdu - Hindi #2" },
+    { "id": "Oey42bd8lhI", "title": "SQL Server String Functions Part 1 | with examples | Urdu - Hindi #38" },
+    { "id": "qJsalEvRklw", "title": "Sql: How To Alter A Table (Part 1) | Urdu - Hindi #33"  },
+    { "id": "oGPL4lL-QTE", "title": "SQL `MIN()` and `MAX()` Functions | `MIN()` and `MAX()` Query |SQL Tutorial in Urdu - Hindi" },
+    { "id": "W-QyHvtzXfk", "title": "Lecture # 016. Search Record with TableAdapter (FillBy) in DataGridView" },
+    { "id": "XKx_3auTkn0", "title": "Lecture # 017. MasterDetail working with DataGridView in PurchaseForm" },
+    { "id": "JjgWWh91PUw", "title": "Lecture # B003a. Enter Key as a Tab Key in DataGridView Control" }
+  ]
+}
+

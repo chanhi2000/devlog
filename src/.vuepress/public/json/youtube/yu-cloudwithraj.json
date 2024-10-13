@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "cloudwithraj",
+    "name": "Cloud With Raj",
+    "profile": "https://yt3.googleusercontent.com/hF7pbTgGi6OyYixS4wuaEg6bl1Lzpr6KOetLUu1PbOmJ9s_GdVjpeAurgZAxX_yRHH7ZCCbbrQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/i02YTqPuyqJtA2eFRNatjSNewIY3BLsUdWkesdzNc39w7pMCGry6ttANyOu_spLWDdFedVG2wg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "v_j07j6NGZI", "title": "Containers on AWS - EKS Vs ECS Vs Fargate Vs ElasticBeanstalk Vs Lightsail Vs AppRunner" }
+  ]
+}

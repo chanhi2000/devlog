@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "redhatkorea2558",
+    "name": "Red Hat Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPxRLG4z-QS6pv2C_3mcYlEv8iiLQtGd4zPlmjkcg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uBc3DbYmQ9kV7vGz717DhGcj58BB6CeUFJZXwBYuNkqC1SsgYdW-sCrEUZrH04h3r_KyMYajxw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hDMQtA_wW5s", "title": "[📔Brown Bag 세션 #7] 엔터프라이즈 전반의 자동화 도입 해결사! Red Hat Ansible Automation Platform" }, 
+    { "id": "IMTA0NgI36Q", "title": "[📔Brown Bag 세션 #13]  Red Hat OpenShift GitOps Operator 알아보기" }, 
+    { "id": "VhQR8xNOPCQ", "title": "[📔Brown Bag 세션 #19] K8S API Server를 이용한 Pod Monitoring" }, 
+    { "id": "1B35V_dKQK0", "title": "[📔Brown Bag 세션 #20] OpenShift Pipelines 설치 및 사용 방법" }, 
+    { "id": "HPRJDFAKp_0", "title": "[📔Brown Bag 세션 #21] Realtime Linux란?" }, 
+    { "id": "Ywjs4Fo9nL4", "title": "[📔Brown Bag 세션 #22] Edge란 무엇일까요?" }, 
+    { "id": "aQhjFRKEylc", "title": "[📔Brown Bag 세션 #23] OpenShift DR 시스템 구축을 위한 ODF(OpenShift Data Foundation)" }, 
+    { "id": "yqVW1Y9vtdc", "title": "[📔Brown Bag 세션 #24] KVM 가상화 환경 소개" }, 
+    { "id": "5nMwTWEdIb0", "title": "[📔Brown Bag 세션 #25] Part I - Python과 JSON" }, 
+    { "id": "zxC-iOHCJWc", "title": "[📔Brown Bag 세션 #26] Part II - Python과 RH 모듈" }, 
+    { "id": "Jqh9IO__2mI", "title": "[📔Brown Bag 세션 #27] OpenShift Disconnected Mirroring" }, 
+    { "id": "5x3VDXsBbPg", "title": "[📔Brown Bag 세션 #28] Knative vs. KEDA" }, 
+    { "id": "s_0NQRoG5lE", "title": "[📔Brown Bag 세션 #29] Prometheus란?" }, 
+    { "id": "oUC-fRvC4OY", "title": "[📔Brown Bag 세션 #30] Ansible Automation Platform on OCP" }, 
+    { "id": "D1BlfA1Q9vs", "title": "[📔Brown Bag 세션 #32] MTC란? (Migration Toolkit for Containers)" }, 
+    { "id": "g7BX0rgn4_E", "title": "[📔Brown Bag 세션 #33] Quarkus란 무엇일까요?" }, 
+    { "id": "a_QWGHJvu3I", "title": "레드햇 & 인텔 금융 웨비나- 최적의 클라우드 환경을 제공하는 컨테이너 플랫폼 : Red Hat OpenShift Container " }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Letsboot",
+    "name": "letsboot.com",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTZBbooI5iwT2eOqz94lk86MQZg2a3QeMLOka51=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XpxpgyTQ0e7ypB2xD-kf9AE68IKJbHyPeYZSszrVvdrV-z_5GCJnE--5B0oNmPkQz604ZF0d=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ara2cQ4IQxA", "title": "Translate Angular 4 apps with ngx-translate" }
+  ]
+}

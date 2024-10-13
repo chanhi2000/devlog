@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "CodingAddict",
+    "name": "Coding Addict",
+    "profile": "https://yt3.googleusercontent.com/89aatDy0ndKkFTpEzXymJwKr3C9bMJ7pQFhSNpN7Z0J0Z-ievRjODaZphdQb-01YFGAiu12F=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y9qfGTBPOkz1xpp5w9GYsjEdx8dck_R9y8aDhYGnYTP7c3Xu4yK4zNOUrmMN4YGzorAwZuKnL-o=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4EDuil3uQGw", "title": "Practical Typescript" },
+    { "id": "AqIxec1p7Xg", "title": "Practical Typescript 1 - Setup, Type Annotations, Arrays" },
+    { "id": "YqhbVXbAY68", "title": "Practical Typescript 2 - Objects and Functions" },
+    { "id": "nhYvKw-VY08", "title": "Practical Typescript 3 - Type Alias and Interface" },
+    { "id": "E5X3qDUiZAE", "title": "Practical Typescript 4 - Tuples and Enums" },
+    { "id": "lPoFNPTRgnk", "title": "Practical Typescript 5 - Type Guards" },
+    { "id": "vyqd2aXjGgg", "title": "Practical Typescript 6 - Generics" },
+    { "id": "MiswF8rNCfk", "title": "Practical Typescript 7 - Fetch Data" },
+    { "id": "_sk0Cg-FLMU", "title": "Practical Typescript 8 - Class" },
+    { "id": "-qpUW_PVlIY", "title": "Practical Typescript 9 - Tasks App" },
+    { "id": "JN4B4v9LyUc", "title": "Practical Typescript 10 - React First" },
+    { "id": "dC3ZGqVqp7Q", "title": "Practical Typescript 11 - React Second" },
+    { "id": "s5vzyhuvRQ0", "title": "Practical Typescript 12 - React Third" },
+    { "id": "d_oPnD8A-lI", "title": "Next.js 14" },
+    { "id": "iZhV0bILFb0", "title": "React Tutorial - Fundamentals, Hooks, Context API, React Router, Custom Hooks" }, 
+    { "id": "TNV0_7QRDwY", "title": "Node and Express Tutorial" }, 
+    { "id": "AfAZ33XjIBU", "title": "Serverless Functions" }, 
+    { "id": "asB-dUwpH4Y", "title": "Gatsby - Strapi Portfolio Project" }, 
+    { "id": "c5SIG7Ie0dM", "title": "15 Vanilla Javascript Projects" }
+  ]
+}

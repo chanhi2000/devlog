@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "booktracing",
+    "name": "북트레싱",
+    "profile": "https://yt3.googleusercontent.com/Npr9M5OIaHDuCheT_GjETMHHIzSFmsCp174SCmHb2Nv6DrR3rsmt-qJKIK0v37Vr655kysm2lA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "uzXQGvMmPtQ", "title": "나만의 지도 업그레이드⬆️ 중첩 태그, 와일드 카드" },
+    { "id": "WdYz5kpeR2c", "title": "흩어진 자료 합치기, 옵시디언으로 이사" },
+    { "id": "jU7nwO_ZBCc", "title": "나만 몰랐던 기본 기능- 파일 복구, 레이아웃 설정, 마크다운 입력" },
+    { "id": "TSkgfGciuPw", "title": "어디서나 똑같은 환경 그대로 옵시디언 사용하기" },
+    { "id": "uimJqa0zxHU", "title": "클라우드 없이 🙅‍♂️ 모든 디바이스 연결하기" },
+    { "id": "2ZJgfnc0dtg", "title": "옵시디언 어렵지 않아요" },
+    { "id": "-jHkfKzbqHw", "title": "(CSS, 테마) 이것저것 좋은 것만 꾹꾹 담아봤습니다 😅" },
+    { "id": "2_KcotCJyhU", "title": "네이버, 구글 번역보다 낫다. 옵시디언 원클릭 번역 DeepL" },
+    { "id": "a2s6gV9SSwc", "title": "Whisper(위스퍼)로 음성 메모 파일 텍스트로 변환하기, 생산성 향상" },
+    { "id": "svk2lxXuf5I", "title": "매크로 자동화를 통한 생산성 증가, QuickAdd 플러그인" },
+    { "id": "fl_ExilH9to", "title": "주간, 월간 캘린더로 Tasks 할 일 보기 tasksCalendar" },
+    { "id": "yLwZk86LoCk", "title": "나만의 지도 만들기, 옵시디언 지도 위치 표시 Map View" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "Eigensteve",
+    "name": "Steve Brunton",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZT5S_50c83Oe_502deIjSnu6w1N65SixqGL51cpNQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5MSB6WLem-_rt8-IiE1MBSw1NZnVtlNRZIIsv-6FX8q0486b5-zv3CNqAkRD8gDgvIlQDoiGEg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3SNkQ8jhKXc", "title": "AI/ML+Physics Part 4: Crafting a Loss Function [Physics Informed Machine Learning]" },
+    { "id": "oz6hIcWmAWU", "title": "The Future of Model Based Engineering: Collimator 2.0" },
+    { "id": "T4iJ10TAIMg", "title": "AI/ML+Physics Part 5: Employing an Optimization Algorithm [Physics Informed Machine Learning]" },
+    { "id": "wHg72Tnp1Ek", "title": "Using sparse trajectory data to find Lagrangian Coherent Structures (LCS) in fluid flows" },
+    { "id": "GCz6afDVy5Y", "title": "AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]" },
+    { "id": "_ObvDgPMWkU", "title": "AI/ML+Physics: Preview of Upcoming Modules and Bootcamps [Physics Informed Machine Learning]" },
+    { "id": "7Q8oNNsZGcA", "title": "SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning" },
+    { "id": "JoFW2uSd3Uo", "title": "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering" },
+    { "id": "ARMk955pGbg", "title": "AI/ML+Physics Part 1: Choosing what to model [Physics Informed Machine Learning]" },
+    { "id": "g-S0m2zcKUg", "title": "AI/ML+Physics Part 2: Curating Training Data [Physics Informed Machine Learning]" },
+    { "id": "fiX8c-4K0-Q", "title": "AI/ML+Physics Part 3: Designing an Architecture [Physics Informed Machine Learning]" },
+    { "id": "wvODQqb3D_8", "title": "Supervised & Unsupervised Machine Learning" },
+    { "id": "_56bfCu02ZE", "title": "A Neural Network Primer" },
+    { "id": "MB6XGQWLV04", "title": "Fourier Series: Part 1" }
+  ]
+}

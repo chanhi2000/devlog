@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Glabay",
+    "name": "Glabay",
+    "profile": "https://yt3.googleusercontent.com/lwEP0o8MOI6gJbQJICBESCtEOng_vmS2oJqDjsVJK_ijhdoRpfHBFPY5WtQWSdUraAQxapiG=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/e34gDbs3h4-ypWjUoV2AUNu0gprRwq-E4EXssrT_vSEHOMgf5ltlDUzmRdsGqV2cBW3rB_eICA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VmgLAIO2NU0", "title": "Java Basics - Episode 1" },
+    { "id": "3jn43-iCNb0", "title": "Java Basics; Pt 2" },
+    { "id": "LNn3Qo58G_0", "title": "Building a Dynamic Portfolio Website with Java, Spring Boot, and Thymeleaf!" },
+    { "id": "Ta954qG-QZo", "title": "Pt 9: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "v7AQwJXMLGM", "title": "Pt 10: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "w-6hl0U5d6M", "title": "Pt 11: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "icxRZ_EZ1iM", "title": "Pt 12: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "gF7kLH2AJjM", "title": "Pt 13: Breaking Monoliths: From Monolithic to Microservices!" },
+    { "id": "GNfsV450MNk", "title": "Pt 14: Breaking Monoliths: From Monolithic to Microservices!" }
+  ]
+}

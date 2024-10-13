@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "Hallden_",
+    "name": "Hallden",
+    "profile": "https://yt3.googleusercontent.com/IQqSTHslTxiceq8vbVcvD0FRHMVZ4m_t9r9kQGEGyaWAlaZZh5SzwY5HatvA4nu_NMQAX2tT0A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yElOwea2lho3SwzjFHXNzNC8TomCrbnlf-e6vrXycPcWc_PZCU0JON_q_UmmHOtk4YNafsEEDw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lKDtwd2b_zw", "title": "I'm building an app... after two years of no code" },
+    { "id": "kwCakTDRoqY", "title": "create_database_eps2.json" },
+    { "id": "FuYM8Y5GX3A", "title": "flutter_database_init_eps3.sql" },
+    { "id": "F7Lx5wKsSwY", "title": "Day In The Life Of A Programmer UNEDITED" },
+    { "id": "ICjOJVo0U04", "title": "load_database_eps5.dart" },
+    { "id": "BJwYe0X8WCc", "title": "flutter_load_backend_eps6.sql" },
+    { "id": "uu_fr25slGc", "title": "init_testable_app_eps7.mov" },
+    { "id": "l4hWR12qlvI", "title": "Coding an App Day 8 - Timetracking feature works!" },
+    { "id": "gOMKnRXkv6U", "title": "Coding an app Day 9  My Biggest Weakness" },
+    { "id": "7wB3cTma0xs", "title": "Startup Automation With Python (API's + Webscraping)" }, 
+    { "id": "i52vHm9q_nI", "title": "Building An App From Scratch: Building it with Flutter | #2" }, 
+    { "id": "Nikdbz6gBek", "title": "Building An App From Scratch: Designing the app | #1" }, 
+    { "id": "vnfhv1E1dU4", "title": "One Day Builds: Instagram Automation Using Python" }
+  ]
+}
+

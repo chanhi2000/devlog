@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "iced-rs",
+    "name": "iced-rs",
+    "profile": "https://yt3.googleusercontent.com/IgSL-ZJQe67KRFFkVKowqqe7XG1s3KJN_1-opT9r6478sJN4quCy3LJilInikP-WwB67FP3j6Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gcBJ7cPSALo", "title": "Building a simple text editor with iced, a cross-platform GUI library for Rust" }
+  ]
+}

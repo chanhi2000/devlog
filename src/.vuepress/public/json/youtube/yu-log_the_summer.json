@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "log_the_summer",
+    "name": "써머 log the summer",
+    "profile": "https://yt3.googleusercontent.com/-UOOR_POcwvldmmLwT7jWg5IScuya_F_H2wceXXQboC0bizepQtz8tBIg0wKZX79IDuBisDBTw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "jL1zSkCmYhc", "title": "프론트엔드 개발자 취준생 브이로그 | 험난한 출근길 | 기업 코딩테스트, 과제 | 코테 공부, 프로젝트 정리 | 제주도 여행" },
+    { "id": "-2YYVvTBQ44", "title": "개발자 취준생 브이로그 | 면접, 코테, 과제 | 행궁동 벚꽃구경 | 개발도서 | 소중한 서류합격" },
+    { "id": "VWZT27bxkzU", "title": "개발자 취준생 브이로그 | 갓생 연습생 | 마인드컨트롤 도서, 홈트 | 취업보다 중요한 건 나 자신 | daily vlog" },
+    { "id": "Rr2TZX7ApB0", "title": "개발자 취준생 브이로그 | 체력이 좋아야 갓생을 산다 | 페퍼톤스 덕질 | 코테, 독서, 운동 레쭈고 | Daily Vlog" },
+    { "id": "zN9ISLdH09s", "title": "개발자 취준생 브이로그 | 5시기상 | Next.js 튜토리얼, 프로젝트 | 책 읽고 독서노트 쓰기 | 백수 일상 | Daily Vlog" },
+    { "id": "1Chfrobv-34", "title": "개발자 취준생 브이로그 | 5시기상 실패!? | 취미는 풀스택 개발 | 대전 혼자 놀기 | 카페, 파이브스팟, 집 코딩 | Daily Vlog" },
+    { "id": "Xuey71GD74c", "title": "프론트엔드 개발자 취준생이라면 들어야 하는 인강 4개 #유데미 #리액트" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "citrix",
+    "name": "Citrix",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNvwJrI8i8l1iyROcP_CisChQmtOxrOOGvOyRLh-Zc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4YFdjUSn40Y2F4e1WptG3l4WPP73XRbwdSI48Vg_PaHMb0FK509MqLfym3V37eY4N58d1LlyDg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x9pYA8_vjv0", "title": "The Click-Down - S3 Ep15 - Citrix + App Packaging" },
+    { "id": "ZhA0aYrYCOY", "title": "The Click-Down - S3 Ep16 Citrix VDA for macOS" },
+    { "id": "Dg8_uNT23sM", "title": "Citrix DaaS and Azure Hibernation - Overview and Benefits" },
+    { "id": "aTvdRX49wCE", "title": "Citrix Features Explained: Citrix Multiple Workspace URLs" },
+    { "id": "8G2aQVOkYgw", "title": "Citrix Automated Configuration Tool (ACT) - Migrate from CVAD 1912 LTSR to CVAD 2402 LTSR" },
+    { "id": "BkT2tnerdRE", "title": "Citrix Features Explained - Citrix Global App Configuration Services Plugin Management" },
+    { "id": "DvT8O5V7xUo", "title": "The Click-Down - S3 Ep6: Citrix and Nutanix" },
+    { "id": "w4FPnOakdK0", "title": "Citrix Demo Series: Citrix HDX Plus for Windows 365 Device Posture Check" },
+    { "id": "p9MBSOXI0i8", "title": "Enabling Zero Trust Web and SaaS application Access" },
+    { "id": "ciT9pjOcMqE", "title": "Improving Management and Monitoring" },
+    { "id": "WJ9J-VxMoX4", "title": "Citrix Features Explained Global App Configuration Service" }, 
+    { "id": "iV95BJCJNmY", "title": "Tech Insight - Microsoft Teams Optimization with Citrix" }, 
+    { "id": "vrTMj789rVA", "title": "Creating and installing a new SSL certificate in NetScaler" }, 
+    { "id": "f8hzCvbck6c", "title": "Citrix Features Explained: Citrix Linux VDA" }, 
+    { "id": "uR_2nCcniuc", "title": "Delvering web apps from Azure cloud in an appcentric way with App Delivery and Security Service" }, 
+    { "id": "fLq6eI2x8uM", "title": "Setting up Citrix DaaS - Step 1: Creating a Resource Location and Adding Cloud Connectors" }, 
+    { "id": "sdaXC3l85Rk", "title": "Keep it simple and secure with Citrix DaaS and Citrix Secure Private Access" }, 
+    { "id": "6_DYbEyoFvI", "title": "What's new and next with Citrix Virtual Apps and Desktops" }
+  ]
+}

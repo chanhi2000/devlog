@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "FloWoelki",
+    "name": "Flo Woelki",
+    "profile": "https://yt3.googleusercontent.com/BwODZlNlOspSJut_OBYJMYl3gAXsCUYwJfFdYwfOhZtxDyzLUYjiBQ1mDFz1fzBGNZ1013PB=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LfgdU6MP0QPG1STqJ-9SVCE1DYBlYBBG0jSsME9bK2bGqesOTZ6zNi7vhmt7R4nE9o80iAKB-A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FTsaDmf0f_0", "title": "The Secret to Rust Ownership: Rc vs. Arc" },
+    { "id": "8z8VrlVOIyM", "title": "Why HTMX and Golang? The answer might surprise you..." },
+    { "id": "Z6wxawIPUaw", "title": "Rust error handling made easier with the ?-operator" },
+    { "id": "0TRg1e9NcTg", "title": "How Go 1.22 fixed the Loop Bug that caused you problems" },
+    { "id": "Bja9mFuUSRk", "title": "The lesser-known Symbol in JavaScript and TypeScript" },
+    { "id": "c8H0w4yBL10", "title": "This is your last video about Golang Structs!" },
+    { "id": "tJOf8jl8GaM", "title": "Actix Web Extractors: JSON, Query, Path Param, and Form" },
+    { "id": "Dtj1AawOCjI", "title": "You are providing fallback values in Golang wrong!" },
+    { "id": "VP1R_m482eU", "title": "You have to know this! - defer functions in Golang" },
+    { "id": "SX1gT5A9H-U", "title": "Golang: The Last Interface Explanation You'll Ever Need" },
+    { "id": "hXqwPsXXf8c", "title": "The Spread Operator (or Variadic Functions) in Golang" },
+    { "id": "OwmC0gl26SA", "title": "Why I switched from VSCode to Zed." },
+    { "id": "qcnbt4WqExw", "title": "Level Up Your Golang: 5 Concepts You Need to know" }
+  ],
+  "playlists": [
+
+  ]
+}

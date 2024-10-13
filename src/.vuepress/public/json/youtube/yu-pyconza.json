@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "pyconza",
+    "name": "PyCon South Africa",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mUeNB3EaFs6D6AUvkGaerPgPbUQHuWgSPX8Q-V8vkwkrU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XHLkyC9-DRwz1XiRtL0COtfQu7RTtPmG-L8xYyneOZxXoO8c5iX56XZv1PmTLDP9xn-yz3EcHQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+  ],
+  "playlists": [
+    {
+      "title": "PyConZA 2023",
+      "videos": [
+        { "id": "9bYRhwB-Cqs", "title": "Opening Ceremony" },
+        { "id": "r5xbgd9GUaQ", "title": "Receipt Enhancement using Image Processing" },
+        { "id": "R3BuWKsM0A8", "title": "How to build a data pipeline without data Synthetic data generation and testing with Python" },
+        { "id": "75le4cphado", "title": "From Chaos to Zen: Lessons Learned from Developing User-Friendly APIs" },
+        { "id": "V-HTUVpbuPI", "title": "Dynamically serving REST endpoints for database stored procedures with FastAPI" },
+        { "id": "GUovhZYNO-M", "title": "Don't use VSCode" },
+        { "id": "_YbDKRKNmkg", "title": "Durban Maker Space" },
+        { "id": "4UEY5kW6JvE", "title": "Lightning Talk - Kids invoke innovation" },
+        { "id": "U3X0URfmfIY", "title": "Lightning Talk - Tidying up before yourself" },
+        { "id": "hd4tIpgvz9k", "title": "Lightning Talk - real time monitoring of machine learning models using whylabs" },
+        { "id": "9WB9SSQTlYk", "title": "Lightning Talk - Three Lines of Code at a Time" },
+        { "id": "FjWYXbWNk4s", "title": "Lightning Talk - How to get into tech mentorship" },
+        { "id": "BGPKPZwsEmk", "title": "Lightning Talk - Building Change Detection using Siamese Neural Networks" },
+        { "id": "rEzAipzdKNk", "title": "Lightning Talk - kungfu for data scrubbing!" },
+        { "id": "aWSrJwP_Rpk", "title": "Lightning Talk - SKAO MID Integration and Testing Facility" },
+        { "id": "ZvvUT0Xy7vw", "title": "Closing Ceremony" },
+        { "id": "DadhJsysvL8", "title": "PRQL: A Modern Language for Data Transformation" },
+        { "id": "xtXybMp0rTs", "title": "Packaging for your database schema, schema migration." },
+        { "id": "MQJmbhieCQU", "title": "Django security for novices" },
+        { "id": "byhoVO48PsM", "title": "How do domain-specific chatbots work? An Overview of Retrieval Augmented Generation (RAG)" },
+        { "id": "0VlkdQon6d8", "title": "Effective prompt engineering for Python programmers" },
+        { "id": "TcQ79WXHNWM", "title": "Green coding with Python" },
+        { "id": "CCaTzwAq108", "title": "turtle-bots simulated beginnings" },
+        { "id": "GR9KOTgmAGk", "title": "Unlocking Efficiency Python-Powered DOI Creation Automation" },
+        { "id": "9g8R8fWF38A", "title": "Toolsmithing: convenience through code" },
+        { "id": "_nn07uVJCao", "title": "Leveraging python in Geospatial Applications" },
+        { "id": "x8XrIRbwQjs", "title": "Reaching New Heights in Python Education Success of the 2023 Coding Summer School" },
+        { "id": "1QGtkWc-iwY", "title": "Building Simple yet Effective APIs for the City of Cape Town A Python-Powered Approach" },
+        { "id": "BrXXDyO9Pzw", "title": "Supercharge Your Django Apps: Unveiling Performance Secrets with the Magic of Django Silk!" },
+        { "id": "QDAMnO_W4pw", "title": "Introduction to Data Stream using River" },
+        { "id": "91QckoSSjd0", "title": "Making Jupyter notebooks less awful" }
+      ]
+    }    
+  ]
+}

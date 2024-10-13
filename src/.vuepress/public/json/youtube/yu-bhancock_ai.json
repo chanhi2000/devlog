@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "bhancock_ai",
+    "name": "codewithbrandon",
+    "profile": "https://yt3.googleusercontent.com/1xcCKNbYOKv2P276QtHwvytSSj6TYNSFCGiKLXHaOi1knYkoVWceri0zcoXVQcS4jweg8Kwq8BQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H-Ks8O4X5Fsd9MihZq0OukCg2j8ugxtsUn9eoFFQuBUBZ_DbtUc4v9JR-uuEDtA8Z_vG4Nva=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0ai-L50VCYU", "title": "How To Connect Local LLMs to CrewAI [Ollama, Llama2, Mistral]" },
+    { "id": "OumQe3zotGU", "title": "I Automated My YouTube Channel With CrewAI [Free Source Code Included]" },
+    { "id": "d8juNbo3onk", "title": "Fullstack NextJS & CrewAI Crash Course For Beginners [Source Code Included]" },
+    { "id": "5eYg1OcHm5k", "title": "LangGraph + CrewAI: Crash Course for Beginners [Source Code Included]" }
+  ],
+  "playlists": []
+}

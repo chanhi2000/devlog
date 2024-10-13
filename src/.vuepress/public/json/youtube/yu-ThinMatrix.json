@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ThinMatrix",
+    "name": "ThinMatrix",
+    "profile": "https://yt3.googleusercontent.com/pQWtBLd9I_h7n0c_6VXUS0mnw6_gtjhDwX6mV9aU2UW3SWcbpoTlokvUYNfNuyqULxO5KC6AgKI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/a1oUhDjySzaujtGvt1EqwNGkyELbrKTyNOTloe8eWUxXwgjKhmflNDZlHIFtkV1qUGcK9jLh=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d4wZaqKNV9Q", "title": "Homegrown Devlog: Inventory Redo" },
+    { "id": "ndkHrvJQYYI", "title": "Homegrown Devlog - New UI & Mod Support(ish)" },
+    { "id": "lfYfmqKbPM4", "title": "Overhauling the UI in my Farming Game (still)" },
+    { "id": "F85YVqd0TIM", "title": "Designing the UI for my Farming Game" },
+    { "id": "MEizUamJTyk", "title": "Technical Devlog: Implementing Audio into my Game Engine" },
+    { "id": "TrZyfA02tIY", "title": "Homegrown Devlog - New Compost System!" },
+    { "id": "j_H3QHdov-A", "title": "Programming Particle Effects in my Game Engine" }, 
+    { "id": "148r0UVQBxU", "title": "Programming Cars for my City-Builder Game" }, 
+    { "id": "I1xAHQ-JhDc", "title": "Implementing Buildings into my City-builder Game" }, 
+    { "id": "VS8wlS9hF8E", "title": "OpenGL 3D Game Tutorial 1: The Display" }
+  ]
+}

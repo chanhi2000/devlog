@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AwesomeOpenSource",
+    "name": "Awesome Open Source",
+    "profile": "https://yt3.googleusercontent.com/tn7gY3MUwnpNPME6vthuLti9WIyIKprhXnOqR1m1KKqV0DJtAgQbMeEVefKYynRC0mBgCmwPcA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "RBVcnxTiIL0", "title": "NginX Proxy Manager is a free, open source, GUI for the NginX Reverse Proxy making it easy to use." }
+  ]
+}

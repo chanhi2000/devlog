@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "MicrosoftPowerBI",
+    "name": "Microsoft Power BI",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqODCV_jjMtQoQUvOCKwGBN27Ljos1oKONo8wDuzLA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VVL89bwesTdWh9owl-7JxYaC6VUoxUfdRqCuLVzyN3EmAC-Gqc4EJ6t16GwuZxfrQDVuGuDH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1wmrtV2f-JQ", "title": "Power BI Update - April 2024" },
+    { "id": "B771D6lfG5o", "title": "Learn Together: Use Apache Spark in Microsoft Fabric" },
+    { "id": "teJ74q92Ag8", "title": "Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric" },
+    { "id": "BejPbIMYWko", "title": "Learn Together: Use Apache Spark in Microsoft Fabric" },
+    { "id": "J4HJoy7rR44", "title": "Learn Together: Work with Delta Lake tables in Microsoft Fabric" },
+    { "id": "-8E0JT9KtY0", "title": "Learn Together: Work with Delta Lake tables in Microsoft Fabric" },
+    { "id": "LoESCJpru8w", "title": "Learn Together: Use Data Factory pipelines in Microsoft Fabric" },
+    { "id": "EbxqctUjC0Q", "title": "Learn Together: Ingest Data with Dataflows Gen2 in Microsoft Fabric" },
+    { "id": "-XCnEimTjG4", "title": "Learn Together: Ingest Data with Dataflows Gen2 in Microsoft Fabric" },
+    { "id": "q3FlTRNODs0", "title": "Learn Together: Get started with data warehouses in Microsoft Fabric" },
+    { "id": "-TjIC8zbPkc", "title": "Learn Together: Organize a Fabric lakehouse using medallion architecture design" },
+    { "id": "kaL1-b__0Po", "title": "Learn Together: Administer Microsoft Fabric" },
+    { "id": "i4caH3_WjLs", "title": "Learn Together: Administer Microsoft Fabric" },
+    { "id": "k5EEdq6y_jo", "title": "Power BI Update - May 2024" },
+    { "id": "fbw09nHOm-c", "title": "Power BI Update - June 2024" },
+    { "id": "pnWZOLVI5Ik", "title": "Hack Together Wrap Up - How to submit and get ready for Fabric Community Conference" },
+    { "id": "LhZRNm5Vjjc", "title": "Learn Together:  Get started with end-to-end analytics and lakehouses in Microsoft Fabric" },
+    { "id": "MtXWO-5HmO4", "title": "Building a Custom Object Detection Model on Microsoft Fabric with Snapshot Serengeti Dataset" },
+    { "id": "cDoWXNgd_eg", "title": "Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric" },
+    { "id": "hCF3cwd4pHk", "title": "Learn Together: Work with Delta Lake tables in Microsoft Fabric" },
+    { "id": "bqeiOFhUGrA", "title": "Learn Together: Use Apache Spark in Microsoft Fabric" },
+    { "id": "Q4f7mPdZyLQ", "title": "Learn Together: Work with Delta Lake tables in Microsoft Fabric" },
+    { "id": "kzqZGr-S0z8", "title": "Learn Together: Use Data Factory pipelines in Microsoft Fabric" },
+    { "id": "A1baoKj-gqU", "title": "Learn Together: Ingest Data with Dataflows Gen2 in Microsoft Fabric" },
+    { "id": "EpO0l-CJ1_g", "title": "Learn Together: Ingest Data with Dataflows Gen2 in Microsoft Fabric" },
+    { "id": "-7GrFoaEEEA", "title": "Learn Together: Organize a Fabric lakehouse using medallion architecture design" },
+    { "id": "QRdWPPfq6DY", "title": "Learn Together: Administer Microsoft Fabric" },
+    { "id": "_R6XLa5pC8g", "title": "Learn Together: How to pass Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric" },
+    { "id": "w1E4xD2sW_w", "title": "Fabric AI Hack Together Kickoff: Ready, Set Hack: Do more with AI in Microsoft Fabric" },
+    { "id": "BfNiaaBOcM8", "title": "Building RAG Application on Microsoft Fabric & Azure Open AI" },
+    { "id": "vPffxSR03qw", "title": "Create, Evaluate, and Score a Churn Prediction Model" },
+    { "id": "HE71Qii3xiU", "title": "Numeric calculations in Data Analysis Expressions with Power BI | Community Webinars" }
+  ]
+}

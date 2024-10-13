@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "MollyRocket",
+    "name": "Molly Rocket",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKboX7lhGMwhHm2j37uEoJzmQVrJ_JBHSihOz3OX4A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Cw7Y-73S4BK3gukZLh-5h5ZR6Y6eT0rOULkH6dPpn…n9bN7RxdBhA_ZCHGdY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uZEBkOrfUzM", "title": "The Apple M-Series GoFetch Attack" },
+    { "id": "r9eQth4Q5jg", "title": "Twenty Minutes of Reasons to Use the RemedyBG Debugger" },
+    { "id": "MOqV_5x3qkg", "title": "Handmade Hero Day 611 - Examining the CPU Voxel Sampling" },
+    { "id": "CEkBsyN1j_Q", "title": "Intuiting Latency and Throughput" }
+  ]
+}

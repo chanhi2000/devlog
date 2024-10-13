@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "RustTutorials-jp7bh",
+    "name": "Rust Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaK_OtHHF4Cz5x1Pbiun29kU1usHHm8P4tvTvxHi5e4hbKyAl1GKJl3F23NG2eY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "C7eouftMiCs", "title": "Serving Simplicity: Mastering the Servant Pattern in Rust for Easy and Elegant Code Design" },
+    { "id": "crGGvgV8ejQ", "title": "Simplify Rust Code with Easy Elegance: Unleashing the Power of Fluent Interfaces" },
+    { "id": "HOiGW9Ed69U", "title": "Easy Mastery: A Deep Dive into the Active Object Pattern in Rust’s Seamless Concurrency Model" },
+    { "id": "V6e9FOFi6Cc", "title": "Simplified Precision: Unraveling the Simple Specification Pattern in Rust for Expressive Code Design" },
+    { "id": "crGGvgV8ejQ", "title": "Simplify Rust Code with Easy Elegance: Unleashing the Power of Fluent Interfaces" },
+    { "id": "8zIIdXr_mKI", "title": "Jetbrain's Rustrover: a first look" },
+    { "id": "xHrHDmK4Ess", "title": "Building a Web API in Rust with Actix and Diesel Part 2: The database" },
+    { "id": "YkeUg-gkv2Q", "title": "Building a Web API in Rust with Actix and Diesel Part 1: Setting up" },
+    { "id": "b98SYPYNlDQ", "title": "Building a Web API in Rust with Actix and Diesel Part 3: The Web Server" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "wiseAss",
+    "name": "Ryan Michael Kay",
+    "profile": "https://yt3.googleusercontent.com/iiyOi150sGnap5-ks2K11NPTBbxMiLFbxOPakeT-MGdxtTychntNsv2GFmWCVzacE28ez24GeQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rbX9BKvIVfiRj_Vq456DEcu8K8WnezK0VdCCgKGrxvzXGUClegXR54v_iekifHJcvJT4j2ye=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "A8-HKkgfZS8", "title": "#kotlin #kmm Multiplatform Live Coding w/ Android, #JetpackCompose: Desktop SqlDelight Database" }, 
+    { "id": "KlQwBUBy7h8", "title": "ANDROID EASY HILT Implementation with Retrofit2, Room, ViewModel(MVVM), RecyclerView in Kotlin" }, 
+    { "id": "8cppWH8htFo", "title": "Creating A Programming Language W/ #Kotlin: Recursive Descent Parser W/ TDD Part 4" }, 
+    { "id": "0qW9XSjUJn8", "title": "Let's Build An Android App In Kotlin: Validator, Calculator, Background Thread Coroutine Context" }, 
+    { "id": "3zUPdh_ojwQ", "title": "Let's Build An Android App In Kotlin: Presentation Logic W/ Test Driven Development" }, 
+    { "id": "LCOKWgHdBvE", "title": "Let's Build a Room Database App | Room, ViewModel, LiveData, Dagger 2, MVVM Architecture" }, 
+    { "id": "PEWJV_xvRI4", "title": "Let's Build An Uber Clone on iOS and Android w/ KMM | Reactive Flow UI, Stream SDK Channels" }
+  ]
+}

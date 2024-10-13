@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "sentdex",
+    "name": "sentdex",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRGBOhr78O2loRlE8jQg-23Q7uWRFJg19nkQIwQ1g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AdsQ7Y_LmNBm5e_hTmyOT9bu562Dy2ZWE9M7dAomKAplyJZ1n8F1fFH_puhtnI2xnGcBcdeL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mm9IHqgCbZc", "title": "Getting Back on Grid" },
+    { "id": "ChfEO8l-fas", "title": "Visualizing Neural Network Internals" },
+    { "id": "pCX_3p40Efc", "title": "Building an LLM fine-tuning Dataset" },
+    { "id": "_GQfj3jhXVM", "title": "Open Source AI Inference API w/ Together" },
+    { "id": "kkTNg_UOCNE", "title": "Building an Open Assistant API" }
+  ]
+}

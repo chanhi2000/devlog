@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "developer_jango",
+    "name": "개발자 장고",
+    "profile": "https://yt3.googleusercontent.com/K-Ptlvp__5Px6Eqrk52tQkkfNt8dT6PsUK9AVU4uKhr_3cIRxskxh3JhUQxugEMXckoNQk2lKA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "r1eJjMeFnnw", "title": "grpc 개념" },
+    { "id": "rHxi3ljjWpM", "title": "취업시장이 어려울 때" },
+    { "id": "6cxYYjlNsuY", "title": "grpc 예제" },
+    { "id": "CchV1XuEkSA", "title": "자바 비동기 따라하기, Thread" },
+    { "id": "nhOO0FUC0xU", "title": "자바 비동기 따라하기2, ExecutorService" },
+    { "id": "NyFz-RZe61U", "title": "자바 비동기 따라하기3, Future, CompletableFuture" },
+    { "id": "Z9epPlBkSvg", "title": "자바 비동기 따라하기4, Spring Async" },
+    { "id": "KunrakFN6z4", "title": "Virtual Thread 예제" },
+    { "id": "VHZ2i4cuwb8", "title": "개발자 전공 면접 - 6. 스프링" }
+  ]
+}

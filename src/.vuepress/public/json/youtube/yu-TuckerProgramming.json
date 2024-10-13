@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "TuckerProgramming",
+    "name": "Tucker Programming",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa3CiEIlc94WPkGEXPLyWvMxW1GzMFMlRNOyRzH3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lV-h8tSqrIJmN5gsnJzzUwb1eV3K7sX-Q8kme-DtEF8kLfPRG9wR3wgLlhSXxw5pMz-BX3TB-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SpbTgkTRTPI", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #21 - Graph" },
+    { "id": "U3z4XS6qGyM", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #20 - Trie" },
+    { "id": "7CPFJZZF60E", "title": "Kubernetes 개념 잡기" } 
+  ],
+  "playlists": [
+    {
+      "title": "Tucker의 자료구조와 알고리즘",
+      "videos": [
+        { "id": "7WuKSdhBKm8", "title": "[Tucker의 자료구조 & 알고리즘] Go로 배우는 자료구조와 알고리즘 - 1" },
+        { "id": "hd9_P_wjq_Q", "title": "[Tucker의 자료구조 & 알고리즘 #2] Array vs Linked list" },
+        { "id": "ocnEvXb619I", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #3 - Counting sort" },
+        { "id": "nkZ4xS_O-wc", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #4 - Single Linked List 구현하기" },
+        { "id": "tYtJuZ8SNb0", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #5 Double LinkedList 구현" },
+        { "id": "eWcJGk88kdg", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #6 Linked List 역순, 스택, 큐" },
+        { "id": "FXuV60QM4Xc", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #7 - 버퍼" },
+        { "id": "HmFrfkYsCpk", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #8 - Sort" },
+        { "id": "ecLZaD_102s", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #9 Map" },
+        { "id": "WxELEDxlHBo", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #10 Sorted Map" },
+        { "id": "GDfYRtOBAD0", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #11 Sparse set" },
+        { "id": "KpZKLy8XQdI", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #12 Tree" },
+        { "id": "xUUKPlm2uvE", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #13 Tree를 그려보자" },
+        { "id": "Vg0V17Aaut4", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #14 Binary tree (이진 트리)" },
+        { "id": "KdyxIot3ddk", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #15 Binary Search Tree" },
+        { "id": "kCJs2zDPVTI", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #16 - 균형 트리" },
+        { "id": "dDIRv12sGVU", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #17 - Heap tree" },
+        { "id": "E6YvoVhoLoE", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #18 계산기" },
+        { "id": "05r4Mje2IOU", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #19 Expression Tree" },
+        { "id": "U3z4XS6qGyM", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #20 - Trie" },
+        { "id": "SpbTgkTRTPI", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #21 - Graph" },
+        { "id": "bVwPMIfzcbw", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #22 Minimum Spanning Tree" }
+      ]
+    }
+  ]
+}

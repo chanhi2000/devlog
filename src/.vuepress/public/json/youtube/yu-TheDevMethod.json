@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "TheDevMethod",
+    "name": "The Dev Method",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOmlkasbyndSYTPzFtpaeJgbM0bEXDhQGZrlxt8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "dGjuAFxvXnU", "title": "Rust: Shared-State Concurrency" }, 
+    { "id": "QZKWEEO-Uoo", "title": "Rust: Starting a Workspace" }, 
+    { "id": "9yMRRxR8kIQ", "title": "Rust: RefCell" }, 
+    { "id": "UKPpGaqk3ik", "title": "Rust: Deref Trait" }
+  ]
+}

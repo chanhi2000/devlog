@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ktzsystems",
+    "name": "KTZ Systems",
+    "profile": "https://yt3.googleusercontent.com/6nNmiBVqrCegmJO7yYyvwUnqwNUC_SVg2-FpEbD098WL3G3gbDjaBlwkcnrZX8gZiUnI_Eu6GQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1xBfiwzSXYOikcRseI2BvJ5jQNZ_lhJE24EiFptzTqkof-5vi1pnrfZXi50GR-N_CjQ4ofU6ug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "B2cjMSVRC-c", "title": "My Perfect Media Server isn't so perfect anymore..." },
+    { "id": "6Jr5k2gHgOI", "title": "Hardware Vlog | Friday night building servers with Alex!" },
+    { "id": "S53gyecbsC0", "title": "Let’s build an AMD Ryzen Framework 13 DIY together" },
+    { "id": "GPQ6k2GR17I", "title": "A Fancy Login Banner for your Linux Server" },
+    { "id": "CUh8FDLbj8M", "title": "Secret Management with Ansible Vault and docker-compose" },
+    { "id": "FTWAWDxrbqE", "title": "HL15 from 45Homelab - The Self-Hosters Review" }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "channel": {
+    "id": "crossplatformkorea",
+    "name": "크로스플랫폼 코리아",
+    "profile": "https://yt3.googleusercontent.com/uzuGkHrHi3T-DsRpDIVIDOhbgPP5iDPTg1Vyjzc1KeREmHBPNHU_1TPLkyoQe0ogY2hbeCGJ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8fC19Yc7D3vUxbudLzI04ThOclmEz5wGkJutPI_EYPUr1ZrzCRGB5SEB2ZBiIpBQ9WoQ0WIX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "리액트네이티브",
+      "videos": [
+        { "id": "07ioPW-VKd4", "title": "[리액트네이티브] 초보를 위한 Flex 강의" },
+        { "id": "xX-QMJ6VFno", "title": "윈도우 개발 환경 (feat. 리액트네이티브)" },
+        { "id": "q5tK2cW7Pn8", "title": "[밋업] Expo 변천사와 실용 가이드 1편" },
+        { "id": "UILNBssGjiA", "title": "[밋업] Expo 변천사와 실용 가이드 2편" },
+        { "id": "Z3cjB-Okdt0", "title": "React Native에서 접근성 지원 시작하기" },
+        { "id": "2JFoSiUT7A0", "title": "새로운 React Native IDE 소개" },
+        { "id": "n6CjIk_dLTY", "title": "리액트네이티브 0.74 업데이트" },
+        { "id": "f802npsOQII", "title": "Expo SDK 51 업데이트" },
+        { "id": "q1ocxPzznJ0", "title": "Expo Orbit 소개" },
+        { "id": "ggLFiTwMhZk", "title": "새로운 React Native IDE 소개 #리액트네이티브 #크로스플랫폼 #ide #softwaremansion #vscode #reactnative" },
+        { "id": "r2pXhb3Od60", "title": "[리액트네이티브에 Supabase 사용하기] 1. 프로젝트 연결" },
+        { "id": "8Gzgf3HqGtc", "title": "[리액트네이티브에 Supabase 사용하기] 2. Prisma로 DB 관리" },
+        { "id": "GM41u7iUBxo", "title": "[리액트네이티브에 Supabase 사용하기] 3. 모델 타입 불러오기" },
+        { "id": "2UYrXGUtvEg", "title": "리액트네이티브 0.74 업데이트 쇼츠 #리액트네이티브 #smartphone #크로스플랫폼 #reactnative" },
+        { "id": "eOV5_iJCfE0", "title": "Expo SDK 51 업데이트 쇼츠 #엑스포 #리액트네이티브 ##크로스플랫폼 #expo #reactnative" },
+        { "id": "MJAEpFfxqzI", "title": "[리액트네이티브에 Supabase 사용하기] 4. 구글 로그인" },
+        { "id": "LfRVFBptiXI", "title": "Expo Module 만들기" },
+        { "id": "zrzzdLBWLAU", "title": "리액트네이티브 녹음 및 재생 (feat. Expo)" },
+        { "id": "BG0x-aoSiqE", "title": "[리액트네이티브에 Supabase 사용하기] 5. 스토리지" },
+        { "id": "YwJFlKwvVSc", "title": "리액트네이티브 서버 컴포넌트 (feat. Evan Bacon)" },
+        { "id": "KaK7epKfDlk", "title": "[리액트네이티브] 안전한 파일 업로드" },
+        { "id": "vL2CoH0W0os", "title": "Rive: Lottie의 강력한 대체제, 왜 주목받고 있을까?" },
+        { "id": "S1G9njF1ie4", "title": "Rive 2부: 직접 애니메이션 만들고 구현까지" },
+        { "id": "vL8rcplHoAQ", "title": "[리액트네이티브] 자주 변경되는 UI 관리" },
+        { "id": "Q9KcVMvEyR0", "title": "리액트네이티브 서버 컴포넌트 #리액트네이티브 #reactnative #expo #exporouter" },
+        { "id": "yNnRTvUUVlk", "title": "[리액트네이티브에 Supabase 사용하기] 6. Edge Function" },
+        { "id": "cRcjp4A0by4", "title": "리액트네이티브에서 Prisma를 써요?" },
+        { "id": "DlaMNojAHhc", "title": "인앱 오픈소스 공지사항 (후속편)" },
+        { "id": "rQGq6eZlhH4", "title": "[밋업] React Native New Architecture 라이브러리 제작하기" }
+      ]
+    }, {
+      "title": "개발 환경",
+      "videos": [
+        { "id": "9Ezbq38_tdA", "title": "윈도우 개발 환경 (feat.  리액트네이티브)" },
+        { "id": "GXlIzNcNSlE", "title": "맥OS 개발 환경 (feat. 리액트네이티브)" },
+        { "id": "oExi9gvOOfI", "title": "VSCode 8가지 필수 플러그인 브리핑" },
+        { "id": "5ivLyHDNR04", "title": "VSCode 8가지 필수 플러그인" },
+        { "id": "2JFoSiUT7A0", "title": "새로운 React Native IDE 소개" },
+        { "id": "sZoh0aLXq5g", "title": "GPT 코드 리뷰" },
+        { "id": "ggLFiTwMhZk", "title": "새로운 React Native IDE 소개 #리액트네이티브 #크로스플랫폼 #ide #softwaremansion #vscode #reactnative" },
+        { "id": "e9-z1GqG2_c", "title": "Copilot이 무료?" }
+      ]
+    }
+  ]
+}

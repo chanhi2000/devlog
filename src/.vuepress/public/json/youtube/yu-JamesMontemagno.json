@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "JamesMontemagno",
+    "name": "James Montemagno",
+    "profile": "https://yt3.googleusercontent.com/o8SiFCVFwKBoweWtJZXVgh3GDqsaysUXWn54YqrqtqueItOFfI4tu9xC8SHaRrcDb1xD-1v8hg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A2elMAJ6QzqOTTzNEtETz1o0dLYjDWVmWCg28hv0ToIEzCCWpPZrISoLLl46EbNobSQWtjLae54=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fN3ufsIF7vs", "title": "WHY and HOW to Add .NET Aspire to ANY .NET API and Web App in Minutes" },
+    { "id": "4t_-g4fwEG0", "title": "How .NET Aspire Components Make EVERYTHING Easier! Redis Cache, PostgreSQL, Messaging, & More!" },
+    { "id": "X7guekGZM20", "title": "Beginner's Guide to Dev Containers - The Instant Dev Environment That I LOVE!" },
+    { "id": "DLUieEOMO_Y", "title": ".NET MAUI XAML Productivity Boost in VS Code is HERE!!! Hot Reload & IntelliSense!!!" },
+    { "id": "dALlcj7U-iI", "title": "Use Aspire's OpenTelemetry Dashboard with ANY app, framework, and language for Local Dev Insights" },
+    { "id": "YKraN1ZETpw", "title": "Instant OpenTelemetry Dashboard for JavaScript Developers with Aspire" },
+    { "id": "ilUohNPqnkU", "title": "New Blazor Hybrid + .NET MAUI Templates are Incredible! Mobile, Desktop, Web all together!" },
+    { "id": "1t2zzoW4D98", "title": ".NET MAUI Development in VS Code - Complete Setup Guide (Develop on macOS, Linux, & Windows)!" },
+    { "id": "tSUwr-R1JPQ", "title": "Generate Blazor Websites in Minutes with Visual Studio's NEW Scaffolder for RAD development!" },
+    { "id": "-SiYAYp5AOI", "title": "Reverse Proxy Beginner's Guide with YARP & .NET" },
+    { "id": "vYZ9t-nHOss", "title": "App Center Build to Azure DevOps Pipelines Migration Guide" }
+  ],
+  "playlists": [
+    
+  ]
+}

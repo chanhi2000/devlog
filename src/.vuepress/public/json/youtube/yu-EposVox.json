@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "EposVox",
+    "name": "EposVox",
+    "profile": "https://yt3.googleusercontent.com/KDmTSpmd36yqE9u2xjMMI5dqC0HQuF0wM_CRq_C0FTVCEzRpNKxaXS0q5ZQhjIqsxLPnYBvgLic=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/m7l93Nwl2o4gwInlVs0EeSSTv4h3srdKqLMi29L9rFYpkMt807b-Pk9vtONlvtAuo2DGuGE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lhBwJGhJyDM", "title": "We FINALLY have real competition! ASUS TUF Capture Box 4KPro Review - HDMI 2.1 USB Capture Card" },
+    { "id": "qn5Mmot8OQM", "title": "Webcam Innovation Actually Worth Using - Elgato Facecam Mk.2 Review & Comparison (HDR, 120FPS)" },
+    { "id": "LfA8nYMuduM", "title": "OBS Classic Master Class - Stream to Twitch, Hitbox & Mixer or Record FREE in HD!" },
+    { "id": "q-pcO9jqpZ4", "title": "PERFECT audio in Resolve, every time. Without learning ANY processing." },
+    { "id": "We57dFpG1ts", "title": "TESTING Simultaneous Horizontal/Vertical Streaming - PC HORIZONTAL VER" },
+    { "id": "eYW8hvuAsFw", "title": "NVIDIA FINALLY gives us 120FPS Shadowplay... New \"Nvidia App\" EXPLAINED!" },
+    { "id": "-bVOb-TEn60", "title": "Which format is BEST for YouTube Uploads? YouTube Quality Deep Dive & Strange Results..." },
+    { "id": "zhv3V9ON_1w", "title": "Building the ultimate Triple Boot \"Hac Pro\" Hackintosh is easier than ever!" },
+    { "id": "M7SZ95zmQ9s", "title": "UBUNTU 18.04 LTS - TOP 8 Things to do After Installing Ubuntu Bionic Beaver - First Steps w/ Ubuntu" },
+    { "id": "AHzGYG2XvMI", "title": "How to make Ubuntu look like MacOS Mojave! (Apple meets Linux) Ubuntu Customization Guide" }
+ ]
+}
+

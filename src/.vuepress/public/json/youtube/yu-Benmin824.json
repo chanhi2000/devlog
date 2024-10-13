@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Benmin824",
+    "name": "민병욱-Benmin",
+    "profile": "https://yt3.googleusercontent.com/-7Dy2btT1hEG87v3bxG_X8-mThZWuNhu3_d-17o5p0iAvUOgV10Mvd4Pgjm3vf-odTL4cjmJ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7FwHNEpcD9oiRm3gJp6yWcoW9ELdJZLuCoZkmHKVbUlGqsyXFZGZm3PqmoD4d90J_adaE7ay=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LAbq0ErWumQ", "title": "[리눅스 서버 구축] 18. 웹 메일 클라이언트(Squirrel Mail)설치" },
+    { "id": "zH9o8Wm-xI8", "title": "[리눅스 서버 구축] 19.  PXE 서버 구축 (기본편)" },
+    { "id": "9Ze6vJjyiJM", "title": "[리눅스 서버 구축] 13.  웹 페이지 인증(Basic,Digest)" },
+    { "id": "5nqC5jIVIAE", "title": "[리눅스 서버 구축 ] 14. WAS(java), HTTPs 구축" },
+    { "id": "csoVpxPJuR8", "title": "[리눅스 서버 구축] 15.  DNS 서버 구축 (기본편)" },
+    { "id": "JYu-o7bA6xQ", "title": "[리눅스 서버 구축] 16. DNS 서버 구축 (라운드로빈, Master-Slave, zone 파일 암호화, chroot)" },
+    { "id": "bB2jZxDuETA", "title": "[리눅스 서버 구축] 17.  메일 서버 (sendmail, dovecot) 구축" }
+  ]
+}

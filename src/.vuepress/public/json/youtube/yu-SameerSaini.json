@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "SameerSaini",
+    "name": "Sameer Saini",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTs_QhlvPE2MaN2wqeM3VZw1yKQRSC4xTRLdCMY3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TnVHmUTS3zNwHk6HAvWXUDF7rdnE35vQRBE9BHsU-P69lYkWuXDCrnCWd_HxtLhsaElPfxEz=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6YIRKBsRWVI", "title": "ASP.NET Web API CRUD Operations - .NET8 and Entity Framework Core Tutorial" },
+    { "id": "lfG7Ko0vWDE", "title": "Coding Angular Project - ASMR Programming - No Talking" },
+    { "id": "V-S5JZJUvvU", "title": "ASP.NET Authentication using Identity in 10 Minutes - Authentication and Authorization in .NET8" },
+    { "id": "IBEbj285zTI", "title": "GitHub Copilot Masterclass -Use AI to Write Better Code Faster - New Udemy Course Announcement" },
+    { "id": "v2hhRbwuCrQ", "title": "C# tutorial for beginners - C# and ASP.NET from scratch with C# 12" },
+    { "id": "k0McS8twMDU", "title": "Method Overloading in C# - Achieve Polymorphism using Method Overloading" },
+    { "id": "k31OOvtfdmw", "title": "Inheritance in C# - Object oriented programming in C# - C# Basics" },
+    { "id": "fqR-WbmX8PM", "title": "Angular 17 CRUD with ASP.NET Core Web API using Entity Framework Core - Full Course" },
+    { "id": "_uSw8sh7xKs", "title": "ASP.NET Core MVC CRUD Operations using .NET 8 and Entity Framework Core - MVC For Beginners Tutorial" },
+    { "id": "jhj9ouy7x1g", "title": "ASP.NET MVC Project - Full ASP.NET MVC Course - Build a Blog With ASP.NET MVC and Entity Framework" }
+  ],
+  "playlists": [
+    
+  ]
+}

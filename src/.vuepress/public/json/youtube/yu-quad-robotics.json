@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "quad-robotics",
+    "name": "쿼드(QUAD) 드론 연구소",
+    "profile": "https://yt3.googleusercontent.com/0VbnH1B4Y9c6dY8-oTKqdBI7hn-vC91bDuBZ63rcnbyxDDFfQgp3khJzBtQixF_SXnd2O0wRND0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V3sdHXTtHnPCjJdYHd_s7LC0V4Mn4wFgXvdTIz0ueQ0NbXTC6DwPUKcNIjDassiDD-rIS6MBIH0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nZZ5jfNCNgM", "title": "ROS2 MAVROS 오프보드 제어 예제 (Offboard example)" },
+    { "id": "vwcamDybXYM", "title": "Q250-V3 텔레메트리 설정" },
+    { "id": "pRIlLswOAic", "title": "Q250-V3 컴패니언컴퓨터연결 가이드 - MAVProxy" },
+    { "id": "-l0MLARPujo", "title": "PX4 ROS2 Offboard Examples" },
+    { "id": "1PvBhShpN3M", "title": "PX4-Avoidance Global-Planner Demo - 쿼드(QUAD) 드론연구소" },
+    { "id": "B5r7qL9SdtY", "title": "드론 개발자가 되기 위한 로드맵" }
+  ],
+  "playlists": [
+
+  ]
+}

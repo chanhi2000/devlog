@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "FunOfHeuristic",
+    "name": "Fun Of Heuristic",
+    "profile": "https://yt3.googleusercontent.com/KkM7Fz9iECQW2T84lb6ZqfsJo47MiqynRD3lf_7U6ddqS8_QE_3NX424PN9aE7gx_7cnHH1hlg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GDYq3odwhSmzHSqqySsKnBCrO2fKtgPy45DH2AOcyYl4_oFbqoRuBqRs-lPD39DTplyzqfeahnY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6H-037qNlvA", "title": "Built-in control flow Angular #angular #webdevelopment" },
+    { "id": "IZjhK91Mbgg", "title": "Dependency injection and Provider in NestJs | Backend Framework for Angular Developers" },
+    { "id": "yUxgFGshAf8", "title": "NgRx and Angular Signals" },
+    { "id": "Vjz_1-w3Evg", "title": "Chat GPT: The Truth About Its Impact on Web Developer Jobs" }, 
+    { "id": "UZ3a17cuN1o", "title": "exhaustMap operator in Rxjs | exhaustMap in Angular" }
+  ]
+}

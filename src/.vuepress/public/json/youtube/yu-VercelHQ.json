@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "VercelHQ",
+    "name": "Vercel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNGxs8XAfudsOFr9KhpeQ_JwoIcvSJFLVRQeASp9g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JBnJB_KrdH-NdzFIrrblfPVPuOi5b5pwdvXwiZGAqjFDr05wESPUPlda3TGDxhpgiKkup5xz3A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mZsGPCSg7Vg", "title": "Serverless compute: AWS re:Invent 2022" }
+  ]
+}
+

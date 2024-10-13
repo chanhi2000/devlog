@@ -1,0 +1,808 @@
+[
+  {
+    "repo": "anggrayudi/SimpleStorage",
+    "desc": "💾 Simplify Android Storage Access Framework for file management across API levels",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PRNDcompany/PersistBottomSheetFragment",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Memrise/plaid",
+    "desc": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/flexbox-layout",
+    "desc": "Flexbox for Android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "airbnb/epoxy",
+    "desc": "Epoxy is an Android library for building complex screens in a RecyclerView",
+    "officialSite": "https://goo.gl/eIK82p",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TeamNewPipe/NewPipe",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "officialSite": "https://newpipe.net",
+    "topics": ["4k", "android", "bandcamp", "download-videos", "newpipe", "peertube", "soundcloud", "translation", "video", "watch", "youtube-video"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android. ",
+    "officialSite": "https://tachiyomi.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skylot/jadx",
+    "desc": "Dex to Java decompiler ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebook/shimmer-android",
+    "desc": "An easy, flexible way to add a shimmering effect to any view in an Android app.",
+    "officialSite": "http://facebook.github.io/shimmer-android",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "judemanutd/KaTeXView",
+    "desc": "KaTeX View for android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MasayukiSuda/Mp4Composer-android",
+    "desc": "This library generate an Mp4 movie using Android MediaCodec API and apply filter, scale, trim, transcode, crop, timeScale, mute and rotate Mp4.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "karma9874/AndroRAT",
+    "desc": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "google/perfetto",
+    "desc": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto)",
+    "officialSite": "https://www.perfetto.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "coil-kt/coil",
+    "desc": "Image loading for Android backed by Kotlin Coroutines.",
+    "officialSite": "https://coil-kt.github.io/coil",
+    "topics": ["android", "kotlin", "images", "coroutines", "okhttp", "image-loader", "kotlin-coroutines", "okio", "androidx"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "facebook/fresco",
+    "desc": "An Android library for managing images and the memory they use.",
+    "officialSite": "https://frescolib.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hootsuite/nachos",
+    "desc": "Material Chips for Android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "android/architecture-templates",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tiann/KernelSU",
+    "desc": "A Kernel based root solution for Android",
+    "officialSite": "https://kernelsu.org",
+    "topics": ["android", "kernel", "root", "su", "kernelsu"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lsrom/webview-tester",
+    "desc": "Test your web app in Android web view with visible console logs.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TeamVanced/VancedMicroG",
+    "desc": "MicroG tweaked to work for applications such as Vanced.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "officialSite": "https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "libre-tube/LibreTube",
+    "desc": "An alternative YouTube front end, for Android.",
+    "officialSite": "https://libre-tube.github.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tranleduy2000/ncalc",
+    "desc": "Power calculator for Android. Solve some problem algebra and calculus.",
+    "officialSite": "https://play.google.com/store/apps/details?id=com.duy.calculator.free",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "officialSite": "https://rocket.chat",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kr328/ClashForAndroid",
+    "desc": "A rule-based tunnel for Android.",
+    "officialSite": "https://play.google.com/store/apps/details?id=com.github.kr328.clash",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Automattic/pocket-casts-android",
+    "desc": "Pocket Casts Android 🎧",
+    "officialSite": "https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mastodon/mastodon-android",
+    "desc": "Official Android app for Mastodon",
+    "officialSite": "https://app.joinmastodon.org/android",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skydoves/chatgpt-android",
+    "desc": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "recloudstream/cloudstream",
+    "desc": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lukeaschenbrenner/TxtNet-Browser",
+    "desc": "An app that lets you browse the web over SMS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bufferapp/MultiActionSwipeHelper",
+    "desc": "An Android RecyclerView Swipe Helper for handling multiple actions per direction",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "omtodkar/ShimmerRecyclerView",
+    "desc": "A custom Shimmer RecyclerView which adopt to list / grid transition automatically and also supports multiple view types while shimmering.",
+    "officialSite": "",
+    "topics": ["android", "recyclerview", "shimmer", "shimmerlayout", "shimmer-android", "shimmer-layout", "shimmer-recyclerview", "shimmerrecyclerview"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Marksss/AndroidAutoSwitcher",
+    "desc": "AutoSwitchView, a view animating between two items for Android, supports multiple switching animations or you can customize your own strategy of animations. And its child view can be reused.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nntuyen/mkloader",
+    "desc": "Beautiful and smooth custom loading views",
+    "officialSite": "",
+    "topics": ["android", "custom", "view", "animation", "loader", "custom-view", "loading", "loading-animation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "httptoolkit/httptoolkit-android",
+    "desc": "Automatic Android interception & debugging with HTTP Toolkit, for Android",
+    "officialSite": "https://httptoolkit.com",
+    "topics": ["android", "debugging", "http", "android-development", "android-debug", "android-tools"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "2dust/v2rayNG",
+    "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+    "officialSite": "https://1.2345345.xyz",
+    "topics": ["android", "proxy", "shadowsocks", "socks5", "trojan", "v2fly", "v2ray", "vless", "vmess", "vpn", "xray", "xtls"],
+    "avatar": "https://avatars.githubusercontent.com/u/31833384?v=4",
+    "banner": ""
+  }, {
+    "repo": "agrosner/DBFlow",
+    "desc": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sadellie/unitto",
+    "desc": "Calculator and unit converter for Android written in Jetpack Compose",
+    "officialSite": "https://sadellie.github.io/unitto",
+    "topics": ["android", "kotlin", "calculator", "material-design", "kotlin-android", "jetpack", "product-hunt", "unit-conversion", "unit-converter", "poeditor", "android-app", "kotlin-coroutines", "jetpack-navigation", "jetpack-android", "jetpack-compose", "jetpackcompose", "compose-navigation", "material-you", "material-design-3", "material-you-3"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dessalines/jerboa",
+    "desc": "A native android app for Lemmy",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Droppers/TimeRangePicker",
+    "desc": "A customizable, easy-to-use, and functional circular time range picker library for Android. Use this library to mimic Apple's iOS or Samsung's bedtime picker.",
+    "officialSite": "",
+    "topics": ["android", "kotlin", "java", "slider", "range", "picker", "time-picker", "time-range"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MackHartley/RoundedProgressBar",
+    "desc": "A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use 🎉",
+    "officialSite": "",
+    "topics": ["android", "progress-bar", "android-library", "animated", "rounded-corners"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "QuickBirdEng/SurveyKit",
+    "desc": "Android library to create beautiful surveys (aligned with ResearchKit on iOS)",
+    "officialSite": "",
+    "topics": ["android", "kotlin", "data", "research", "forms", "kotlin-android", "android-library", "poll", "survey", "medical", "clinical-trials", "study-conduct", "ios-researchkit-surveys"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TOrnelas/SegmentedProgressBar",
+    "desc": "An instagram-like segmented progress bar",
+    "officialSite": "",
+    "topics": ["instagram", "progress-bar", "android-library", "viewpager"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ParkSangGwon/TedImagePicker",
+    "desc": "TedImagePicker is simple/beautiful/smart image picker",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cooklang/cooklang-android",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Docile-Alligator/Infinity-For-Reddit",
+    "desc": "A Reddit client for Android",
+    "officialSite": "https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit",
+    "topics": ["android", "java", "reddit", "reddit-client"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "simplex-chat/simplex-chat",
+    "desc": "SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!",
+    "officialSite": "https://simplex.chat",
+    "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MoKee/android_packages_apps_WarpShare",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuliskov/SmartTube",
+    "desc": "SmartTube - an advanced player for set-top boxes and tv running Android OS",
+    "officialSite": "https://www.patreon.com/smarttube",
+    "topics": ["android", "android-tv", "android-tv-box", "java", "kotlin", "retrofit2", "rxjava-android"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "martinmimigames/little-file-explorer",
+    "desc": "Android 1.0+ mini file explorer and manager",
+    "officialSite": "https://martinmimigames.github.io/projects/little-file-explorer/",
+    "topics": ["android", "compatibility", "f-droid", "fdroid", "file", "file-explorer", "file-manager", "gplv3", "java", "martinmimigames", "minimal", "small"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Oleur/mistral-ai-kmp",
+    "desc": "Mistral AI SDK for Kotlin Multiplatform (KMP) with support for Android, iOS, Desktop and Wasm. Sample projects to show the Mistral AI capabilities.",
+    "officialSite": "https://oleur.github.io/mistral-ai-kmp/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PatilShreyas/generative-ai-kmp",
+    "desc": "✨Generative AI SDK for Kotlin Multiplatform (Supports: JVM, Android, iOS, Desktop, Web JS, Wasm)",
+    "officialSite": "",
+    "topics": ["android", "desktop", "gemini", "generative-ai", "ios", "javascript", "js", "kmp", "kotlin", "kotlin-library", "kotlin-multiplatform", "web"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PatilShreyas/ChaKt-KMP",
+    "desc": "✨ChaKt - A multiplatform chat-prompt based app for Android, iOS, Desktop, Web. Powered by Google's Gemini API  (with Generative AI Multiplatform SDK)",
+    "officialSite": "https://patilshreyas.github.io/ChaKt-KMP",
+    "topics": ["ai", "android", "artificial-intelligence", "chat", "desktop", "gemini", "generative-ai", "ios", "jvm", "kotlin", "kotlin-multiplatform", "linux", "macos", "sample", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ibenabdallah/the-movie-db",
+    "desc": "The Movie BD : Android 📱, iOS 📱 and wearOS ⌚ application built with Kotlin Multiplatform, Compose Multiplatform with MVVM, Clean Architecture recommended by Google",
+    "officialSite": "https://ibenabdallah.github.io/",
+    "topics": ["android", "clean-architecture", "coil3", "compose-multiplatform", "courotines", "flow", "ios", "jetpack-compose", "koin", "koin-kotlin", "kotlin-multiplatform", "ktor", "wearos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SergeiMikhailovskii/kmp-app-review",
+    "desc": "KMP implementation of in-app review",
+    "officialSite": "",
+    "topics": ["in-app-review", "kmp-library", "kotlin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "saket/squiggly-slider",
+    "desc": "Squiggly slider, inspired by Android 13's media player notification.",
+    "officialSite": "",
+    "topics": ["compose", "slider", "squiggles", "wave", "wavy"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Wavesonics/SymSpellKt",
+    "desc": "A Kotlin Multiplatform implementation of the SymSpell algorithm.",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-multiplatform", "spellcheck", "spelling", "spelling-correction"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kashif-E/SolarEclipse",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "swapnil-musale/KDeviceInfo",
+    "desc": "Multiplatform Library for accessing DeviceInfo",
+    "officialSite": "",
+    "topics": ["android", "compose-multiplatform-library", "device-info", "ios", "kdeviceinfo", "kmp", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alejandro-rios/Boggle-Multiplatform",
+    "desc": "A simple Boggle game App using Kotlin and Compose Multiplatform for Android, iOS, Desktop and Web",
+    "officialSite": "https://alejandro-rios.github.io/Boggle-Multiplatform",
+    "topics": ["android", "compose-multiplatform", "desktop", "ios", "js", "kotlin", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kevincianfarini/monarch",
+    "desc": "Multiplatform, multi module, type safe feature flagging. ",
+    "officialSite": "https://kevincianfarini.github.io/monarch/docs/0.x/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ismai117/DroidJobsKMP",
+    "desc": "DroidJobsKMP: Your Android job finder built using Kotlin Multiplatform, Compose, Ktor, Koin, Androidx ViewModel, Androidx Navigation, and Material 3",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wizbii/CinematicJourney",
+    "desc": "Track your cinematic journey through interconnected movies",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "decompose", "kotlin", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "arkivanov/Minesweeper",
+    "desc": "Minesweeper game implemented in Kotlin and Compose Multiplatform",
+    "officialSite": "https://arkivanov.github.io/Minesweeper/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mr3y-the-programmer/Podcaster",
+    "desc": "🎧 Podcast listening app. Showcase of using Jetpack Media 3 in a real, offline-first app",
+    "officialSite": "https://play.google.com/store/apps/details?id=com.mr3y.podcaster",
+    "topics": ["jetpack-compose", "kotlin", "material-design-3", "media3-exoplayer", "podcastindex", "sqldelight"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mahozad/wavy-slider",
+    "desc": "Multiplatform wavy slider/progress bar similar to the one in Android 13",
+    "officialSite": "https://mahozad.ir/wavy-slider",
+    "topics": ["android", "compose-multiplatform", "jetpack", "jetpack-compose", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-sample", "material", "material-design", "material-you", "material3", "progress-bar", "sine-wave", "slider", "wavy-slider"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yuliskov/SmartTube",
+    "desc": "SmartTube - an advanced player for set-top boxes and tvs running Android OS",
+    "officialSite": "https://www.patreon.com/smarttube",
+    "topics": ["android", "android-tv", "android-tv-box", "java", "kotlin", "retrofit2", "rxjava-android"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yoxjames/Kastro",
+    "desc": "A Kotlin Multiplatform library for calculating information about the sun and moon",
+    "officialSite": "https://yoxjames.github.io/Kastro/",
+    "topics": ["kotlin", "kotlin-library", "kotlin-multiplatform", "kotlin-multiplatform-library", "moon", "moon-phase", "sun-position", "sunrise", "sunrise-times", "sunset", "sunset-times"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rock3r/sandbox-demo",
+    "desc": "Compose for Desktop falling sand simulator",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "composablehorizons/compose-menu",
+    "desc": "An unstyled Menu (Dropdown) Compose Multiplatform component with keyboard navigation and animation support.",
+    "officialSite": "https://composablehorizons.github.io/compose-menu",
+    "topics": ["android", "compose-desktop", "compose-multiplatform", "compose-web", "ios", "jetpack-compose", "kotlinmultiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "JustinGeorgeJoseph/SparkButtonCompose",
+    "desc": "Spark effect on a button click",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordond/compass",
+    "desc": "🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation",
+    "officialSite": "https://compass.jordond.dev",
+    "topics": ["compose", "compose-multiplatform", "geocoder", "geolocation", "kotlin", "kotlin-multiplatform", "location"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "manuel-martos/LottieViewer",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "johnjohndoe/CampFahrplan",
+    "desc": "An Android app to enjoy event schedules powered by Frab, Pretalx or Wafer. Main repository and issues:",
+    "officialSite": "https://eventfahrplan.eu",
+    "topics": ["android", "android-app", "c3voc", "ccc", "cccamp19", "conferences", "fahrplan", "frab", "pentabarf", "schedule"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZCShou/GoGoGo",
+    "desc": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+    "officialSite": "https://itexp.blog.csdn.net/",
+    "topics": ["android", "fake-gps", "fake-locations", "java", "joystick", "map", "mock-location", "mock-locations", "mockgps", "virtual-location"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "grarcht/Shuttle",
+    "desc": "Shuttle provides a modern, guarded way to pass large Serializable objects with Intents or saving them in Bundle objects to avoid app crashes from TransactionTooLargeExceptions.",
+    "officialSite": "",
+    "topics": ["android", "coroutines", "framework", "gradle", "guardrail", "kotlin", "maven", "modules", "prevent-app-crashes", "sbb", "solution-building-block", "transactiontoolargeexception"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "j-roskopf/ComposeGuard",
+    "desc": "A Gradle plugin for detecting regressions in Jetpack Compose",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "deepmedia/Knee",
+    "desc": "Seamless two-way communication between Kotlin/Native and Kotlin/JVM. Supports suspend functions, classes, interfaces, no-copy buffers and much more.",
+    "officialSite": "https://opensource.deepmedia.io/knee",
+    "topics": ["android", "android-library", "ffi", "ffi-bindings", "java", "jni", "jni-wrapper", "jvm", "kmp", "kotlin", "kotlin-compiler", "kotlin-compiler-plugin", "kotlin-multiplatform", "kotlin-native", "multiplatform", "ndk", "ndk-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Taewan-P/gpt_mobile",
+    "desc": "Your all-in-one Generative AI Assistant - Chat with multiple LLM models at once!",
+    "officialSite": "",
+    "topics": ["android", "anthropic", "chatbots", "chatgpt", "claude", "compose", "gemini", "google", "jetpack", "jetpack-compose", "kotlin", "openai"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "devscast/validable",
+    "desc": "An easy-to-use text field validator for Kotlin & Jetpack compose.",
+    "officialSite": "https://devscast.github.io/validable",
+    "topics": ["android", "jetpack-compose", "kotlin", "kotlin-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sergejsha/knot",
+    "desc": "Unidirectional reactive state container for Android & Kotlin",
+    "officialSite": "",
+    "topics": ["android", "android-architecture", "kotlin", "kotlin-android", "mvi-android", "mvi-architecture", "unidirectional-data-flow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cdsap/ProjectGenerator",
+    "desc": "Generation of modularized Gradle projects in different logic layers",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "programadorthi/kotlin-routing",
+    "desc": "An extensible and multiplatform routing system powered by Ktor",
+    "officialSite": "",
+    "topics": ["android", "compose", "deeplink", "jetbrains", "kmm", "kotlin", "ktor", "multiplatform", "multiplatform-kotlin-library", "navigation", "navigator", "router", "routing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vinceglb/FileKit",
+    "desc": "Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP",
+    "officialSite": "https://vinceglb.github.io/FileKit/",
+    "topics": ["compose", "compose-multiplatform", "kmp", "kotlin", "kotlin-android", "kotlin-ios", "kotlin-js", "kotlin-jvm", "kotlin-macos", "kotlin-multiplatform", "kotlin-wasm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ZacSweers/FieldSpottr",
+    "desc": "A simple app for checking field permit status on nycgovparks",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordond/connectivity",
+    "desc": "🛜 Kotlin Multiplatform library for monitoring network connectivity",
+    "officialSite": "https://connectivity.jordond.dev/",
+    "topics": ["compose-multiplatform", "connectivity-checker", "kotlin", "kotlin-multiplatform", "multiplatform", "multiplatform-kotlin-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "composablehorizons/ComposeTheme",
+    "desc": "🖌️ The API to your Compose Design System",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "design-system", "jetpack-compose", "styling"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Coding-Meet/News-KMP-App",
+    "desc": "News Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux platforms.",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "jetpack", "jetpack-compose", "kmp-app", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-mobile", "kotlin-multiplatform-sample", "multiplatform", "news-kmp", "newsapp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KodeinKoders/CuP",
+    "desc": "Compose ur Pres: A pure Kotlin Compose Multiplatform presentation system for developer presenters.",
+    "officialSite": "https://kodeinkoders.github.io/CuP/",
+    "topics": ["compose-desktop", "compose-multiplatform", "composer-library", "kotlin", "kotlin-library", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "issever22/iCore",
+    "desc": "iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) architecture, iCore offers a collection of base classes, extension functions, and utility classes to help developers create efficient and maintainable code",
+    "officialSite": "https://www.isseverapps.com/",
+    "topics": ["android", "base-classes", "extension-functions", "kotlin", "library", "livedata", "mvvm", "open-source", "retrofit", "utility-classes"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sergio-sastre/ComposablePreviewScanner",
+    "desc": "A library to help auto-generate screenshot tests from Composable Previews with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as Instrumentation-based (i.e. Shot, Dropshots, Android-Testify, etc.)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "guerrerorodrigo/compose-multiplatform-weather-app/",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "eygraber/jsonapi-kotlin",
+    "desc": "A Kotlin Multiplatform kotlinx.serialization library for working with JSON:API",
+    "officialSite": "",
+    "topics": ["json-api", "kotlin", "kotlin-multiplatform", "kotlinx-serialization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jarvislin/HackerNews-KMP",
+    "desc": "This is a Hacker News reader app implemented using Kotlin Multiplatform Compose for Android and iOS.",
+    "officialSite": "",
+    "topics": ["android", "api", "app", "compose", "compose-multiplatform", "hacker-news", "ios", "kmp", "kotlin", "kotlin-multiplatform", "kotlin-multiplatform-compose", "ktor", "multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wgpu4k/wgpu4k",
+    "desc": "webgpu binding for kotlin multi platform",
+    "officialSite": "",
+    "topics": ["kotlin", "library", "multiplatform", "webgpu"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ComposeGears/Valkyrie",
+    "desc": "Android Studio plugin to convert SVG/XML into Compose ImageVector",
+    "officialSite": "",
+    "topics": ["androidstudio-plugin", "compose", "compose-multiplatform", "imagevector"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lepicekmichal/SignalRKore",
+    "desc": "A Kotlin multiplatform coroutine-based SignalR client.",
+    "officialSite": "",
+    "topics": ["android", "client", "coroutines", "ios", "js", "jvm", "kotlin", "multiplatform", "multiplatform-kotlin-library", "signalr", "signalr-client", "signalr-core", "web-socket", "websocket"],
+    "avatar": "https://avatars.githubusercontent.com/u/2405645?v=4",
+    "banner": ""
+  }, {
+    "repo": "composablehorizons/composables-core",
+    "desc": "Unstyled, fully accessible Compose Multiplatform UI components that you can customize to your heart's desire.",
+    "officialSite": "https://composablehorizons.github.io/composables-core/",
+    "topics": ["android", "compose-desktop", "compose-multiplatform", "compose-web", "ios", "jetpack-compose", "kotlinmultiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/112760983?v=4",
+    "banner": ""
+  }, {
+    "repo": "Chaintech-Network/CMP_tooltip",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/143459573?v=4",
+    "banner": ""
+  }, {
+    "repo": "skydoves/Cloudy",
+    "desc": "☁️ Jetpack Compose blur effect library, which falls back onto a CPU-based implementation to support older API levels.",
+    "officialSite": "",
+    "topics": ["android", "blur", "blur-image", "jetpack-compose", "skydoves"],
+    "avatar": "https://avatars.githubusercontent.com/u/24237865?v=4",
+    "banner": ""
+  }, {
+    "repo": "erfansn/NsmaVPN",
+    "desc": "🌎 Access to freedom in the internet world only with one switch!",
+    "officialSite": "",
+    "topics": ["androiddev", "cicd", "compose", "gradle", "networking", "sstp", "vpn", "vpngate"],
+    "avatar": "https://avatars.githubusercontent.com/u/50053121?v=4",
+    "banner": ""
+  }, {
+    "repo": "AndroidPoet/KtorBoost",
+    "desc": "🚀 Simplifying Ktor for Easier Development KMM/Compose Multiplatform ",
+    "officialSite": "https://androidpoet.github.io/KtorBoost/",
+    "topics": ["android-library", "compose", "compose-multiplatform", "kmm", "kmm-library", "ktor", "ktor-client", "networking"],
+    "avatar": "https://avatars.githubusercontent.com/u/13647384?v=4",
+    "banner": ""
+  }, {
+    "repo": "Kotlin/Storytale",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1446536?v=4",
+    "banner": ""
+  }, {
+    "repo": "DroidKaigi/conference-app-2024",
+    "desc": "The Official Conference App for DroidKaigi 2024",
+    "officialSite": "",
+    "topics": ["android", "compose-multiplatform", "kotlin-multiplatform", "swiftui"],
+    "avatar": "https://avatars.githubusercontent.com/u/10727543?v=4",
+    "banner": ""
+  }, {
+    "repo": "idfinance-oss/LogKMPanion",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/177936045?v=4",
+    "banner": ""
+  }, {
+    "repo": "wisemuji/compose-would-you-rather-game",
+    "desc": "📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini",
+    "officialSite": "",
+    "topics": ["android", "compose", "compose-multiplatform", "compose-ui", "gemini", "kotlin", "kotlin-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/32327475?v=4",
+    "banner": ""
+  }, {
+    "repo": "OShane-McKenzie/IdleOS",
+    "desc": "IdleOS is a simulated desktop environment built using Kotlin/WASM and compose multiplatform",
+    "officialSite": "https://oshane-mckenzie.github.io/IdleOS/app/index.html",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/123428296?v=4",
+    "banner": ""
+  }, {
+    "repo": "a-sit-plus/signum",
+    "desc": "Kotlin Multiplatform Crypto/PKI Library and ASN1 Parser + Encoder",
+    "officialSite": "https://a-sit-plus.github.io/signum/",
+    "topics": ["asn1", "attestation", "crypto", "cryptography", "ecdsa", "kmp", "kotlin", "kotlin-multiplatform", "pki", "rsa", "signature"],
+    "avatar": "https://avatars.githubusercontent.com/u/14927738?v=4",
+    "banner": ""
+  }, {
+    "repo": "Kashif-E/CameraK",
+    "desc": "A camera library for Compose Multiplatform",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/61690178?v=4",
+    "banner": ""
+  }, {
+    "repo": "burnoo/kspoon",
+    "desc": "Annotation based HTML to Kotlin class parser with KMP support, kotlinx (de)serializtion format, jspoon successor",
+    "officialSite": "",
+    "topics": ["html", "html-parser", "kotlin-multiplatform", "kotlinx-serialization", "ktor", "retrofit2"],
+    "avatar": "https://avatars.githubusercontent.com/u/17478192?v=4",
+    "banner": ""
+  }, {
+    "repo": "mr3y-the-programmer/PodcastIndex-SDK",
+    "desc": "Unofficial Type-safe Kotlin Multiplatform SDK for PodcastIndex  - GitHub: Unofficial Type-safe Kotlin Multiplatform SDK for PodcastIndex",
+    "officialSite": "https://podcastindex.org/",
+    "topics": ["android", "kotlin", "podcast", "podcast-player", "kotlin-multiplatform", "ktor-client", "openpodcast", "podcastindex"],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/4380f6a0a92758fbec8babe8381eab597cca3f1ff8e0fde5249befb93a26c5a0/mr3y-the-programmer/PodcastIndex-SDK"
+  }, {
+    "repo": "ShreyashKore/inspektor",
+    "desc": "A multiplatform HTTP inspection library for Ktor inspired by Chucker",
+    "officialSite": "",
+    "topics": ["http-inspection", "ktor", "kotlin-multiplatform", "ktor-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/46917404?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/793195317/6411f1a5-e362-49fc-bdbe-ea1b23dbbef3"
+  }, {
+    "repo": "eygraber/vice",
+    "desc": "KMP MVI framework built using Compose for Compose. Contribute to eygraber/vice development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/in/2740?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/0fd519f8e93fabb25d9be8f9071bbffa58753786fda4e3ee281b2f2a4ff65072/eygraber/vice"
+  }, {
+    "repo": "fleeksoft/ksoup",
+    "desc": "Ksoup is a Kotlin Multiplatform library for working with HTML and XML. It's a port of the renowned Java library Jsoup.",
+    "officialSite": "https://fleeksoft.github.io/ksoup/",
+    "topics": ["kotlin", "jsoup", "java-html-parser", "kmp", "kotlin-multiplatform", "ksoup", "kotlin-html-parser"],
+    "avatar": "https://avatars.githubusercontent.com/u/11086988?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/aeebb43f22a4bc5b0219e948cae631757181b7a8423f486a88f455c63e83e68b/fleeksoft/ksoup"
+  }
+]

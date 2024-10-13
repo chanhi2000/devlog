@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codewithdary",
+    "name": "Code With Dary",
+    "profile": "https://yt3.googleusercontent.com/-WCYFhpqKRyPbs9-ernsouHzls8ZX1rxA5g3pt4eVxgF-qHGZcQyjKmuNxxv91imrhwk-KXdohA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PC_c4rYZsAsg3rBMtj1WaBxL0_vk7nrHiN8PR8GfDxMot5pYa3Z1vhTjZPUQMndXx8s3tZ4btg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "voAZWYRYC7I", "title": "How to Easily Add Global Key Bindings in FilamentPHP #filamentphp #shorts" },
+    { "id": "eWIRI9DaoxA", "title": "How to Easily Create Custom Laravel Nova Fields - Advanced Laravel Nova Tutorial" },
+    { "id": "mKOcGi4wE0Q", "title": "How to Make Dependent Select Options Based By Another Select Option in FIlamentPHP" },
+    { "id": "psBeUDtwgnM", "title": "2 Methods on How to Use Controller Middlewares in Laravel #laravel #shorts" },
+    { "id": "64U2crNKVBk", "title": "PestPHP Files & Folder Structure Explained in 60 Seconds #laravel #shorts" },
+    { "id": "PzPo5Ky2mRc", "title": "Laravel Livewire v3 Course for Beginners - Laravel Livewire v3 Crash Course for Beginners" },
+    { "id": "qbfMs4V7Gws", "title": "How to Host a Laravel Livewire Project Using Hostinger VPS Hosting - Laravel Livewire for Beginners" },
+    { "id": "JBtdYy4zuS4", "title": "Mastering Object Graph Structures in Tinkerwell for Laravel Projects #tinkerwell #shorts" },
+    { "id": "BMjZFbG3S8A", "title": "Introduction to Lifecycle Hooks in Livewire - Laravel Livewire Crash Course for Beginners" },
+    { "id": "_tMQWrVWvGg", "title": "Tinkerwell is AWESOME for Laravel Developers… #laravel #shorts" }, 
+    { "id": "e2BlEcO8hos", "title": "Forms, Validation & Loaders in Livewire Components - Laravel Livewire Crash Course for Beginners" }, 
+    { "id": "GEAX-kdVSpg", "title": "Introduction to Actions in Livewire - Laravel Livewire Crash Course for Beginners" }, 
+    { "id": "ozDxmF4Ec4g", "title": "How to Easily Output Flash Messages in Livewire - Laravel Livewire Crash Course for Beginners" }, 
+    { "id": "DPnMRVx7doA", "title": "Introduction to Components in Laravel Livewire - Laravel Livewire Crash Course for Beginners" },
+    { "id": "VaJ1GO7b6Ig", "title": "Master Laravel Controllers with These 5 Best Practices #laravel #shorts" },
+    { "id": "wGu8lgaK_v8", "title": "How to Become a PRO in FilamentPHP v3 in 4 hours - Complete FilamentPHP Tutorial for Beginners" }
+  ]
+}

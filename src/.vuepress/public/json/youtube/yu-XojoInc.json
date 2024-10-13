@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "XojoInc",
+    "name": "Xojo",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNg7GxVR5Exh4rvKZ5HGR8oNHtNdWgAf_sf5YuLOA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jkXeJl5ANKWpnI4kRpRMWE43AD8puSg_Y6gzYVVCBdAlBmWSsefAY21x2xhNXHuji45MLXUJ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NMVOuYNRzc0", "title": "Xojo Pi Developer Panel #PiDay 2024" },
+    { "id": "tXbaAnRHnGU", "title": "Using Xojo to build NetSuite iOS apps" },
+    { "id": "sPOha9-VQRk", "title": "Creating mobile apps in Xojo that integrate Oracle’s NetSuite" },
+    { "id": "T_01qendWaY", "title": "Processing Text Files in Xojo" },
+    { "id": "HRkjIE2XbBo", "title": "A Deeper Look at Xojo Android" },
+    { "id": "7dyRRhtmS8w", "title": "Intro to Xojo Programming - WEBINAR" }, 
+    { "id": "DHGOloxaDV8", "title": "Using Apache Velocity For Generating Xojo Code From An Existing Database | XDC 2019 Session" }, 
+    { "id": "WwVkkOi6JoY", "title": "iOS: Cómo crear thumbnails de páginas de cualquier PDF" }, 
+    { "id": "JaBHU9stXOc", "title": "Easily Create Raspberry Pi Apps for Free with Xojo Pi" }, 
+    { "id": "VLy2uXSam7g", "title": "Avoid Troubleshooting Troubles- Effective Debugging Techniques to Get You Unstuck | XDC 2019 Session" }
+  ]
+}

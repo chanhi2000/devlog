@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "nomadcoders",
+    "name": "노마드 코더 Nomad Coders",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kZGbEvWmB_2CZMcZVcCpjFsiQNVQZEehF8jinP6zlFJ7s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QdltvvjnwoR_pLrwcEB0sG0TAP4aah_ie0mQG44QfzD_DnjYtSW8wf4jFiTGL9Y9Z-RR4Q_pFLQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "z2iodiQW0fg", "title": "Do Yourself A Favor And Learn ffmpeg" },
+    { "id": "_RIn7dSUkEg", "title": "Will Developers Switch? Trying Out Zed, A Blazing Fast VS Code" },
+    { "id": "_HuQNooKRXQ", "title": "Why I Will Stop Paying For ChatGPT Plus" },
+    { "id": "K10yeryaN58", "title": "Will StyleX Replace Tailwind?" },
+    { "id": "aDN8hm4pfPE", "title": "How To Build GPT Apps Without Worrying About OpenAI" },
+    { "id": "tvX9f8FqMFI", "title": "Supabase Is The Firebase Killer" },
+    { "id": "TffkMbgsE2E", "title": "Goodbye Google Chrome. Why I Switched to Arc" },
+    { "id": "-NmwyJ5S-IY", "title": "JavasScript's New Keyword: \"using\"" },
+    { "id": "WRkig3VeRLY", "title": "You Are Using ChatGPT Wrong. Learn Prompt Engineering NOW (With Examples)" },
+    { "id": "FRSUP2sbgTY", "title": "Best CSS Frameworks of 2023!?" }, 
+    { "id": "DjfpcmK62ew", "title": "NPM Hack that every programmer should know" }, 
+    { "id": "XCAwSBdeejU", "title": "Build a Website Powered by Notion" }, 
+    { "id": "kkiLBF_YerM", "title": "The Most Mind Blowing Features Coming to CSS" }, 
+    { "id": "o7FkmtqIYOE", "title": "Building Real-time Serverless App with AWS Amplify" }, 
+    { "id": "5EhsjtBE7I4", "title": "WebRTC & WebSockets Explained in 5min!" }, 
+    { "id": "B26yiuC5zPM", "title": "M1 Max MacBook Pro Developer Setup" }, 
+    { "id": "lkTpOHv1Ros", "title": "5 New Mind-Blowing CSS Features!" }, 
+    { "id": "63bdCwJmRP4", "title": "Making A Crypto Trading Bot" }, 
+    { "id": "u3Ph_M2bySg", "title": "39 FREE Tools For Your Online Business" }, 
+    { "id": "Q2PCO0mKEaU", "title": "Replace Powerpoint with This!" }, 
+    { "id": "QJSLtK2bY_A", "title": "요즘 완전 대세! 크롬 확장앱 만들기. 5분컷." }, 
+    { "id": "eSj25owrmTM", "title": "This API is finally here !" }, 
+    { "id": "ObT87Xu_CO0", "title": "모르면 손해? 엄청난 웹 API가 나타났다!" }
+  ],
+  "playlists": [
+
+  ]
+}

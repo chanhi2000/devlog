@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "auztuts",
+    "name": "AUZ Tutorials",
+    "profile": "https://yt3.googleusercontent.com/uh-MSkm5itVau8_rZ3JjG5KUMEnTkE6uuqFnAsCp73Y286RHs-g5_4x_vAM4oibo0Op37Xk8XQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "adMjzWiG21U", "title": "How to Upload Images into MySQL Database and Display it using PHP" },
+    { "id": "2MpZwFoBPjQ", "title": "Login and Registration Form in PHP and MySQL" },
+    { "id": "Q7oV-b_wcns", "title": "How to Build a  Website with Video Background: HTML, CSS, & JavaScript Tutorial" }
+  ]
+}

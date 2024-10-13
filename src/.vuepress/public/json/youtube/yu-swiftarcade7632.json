@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "swiftarcade7632",
+    "name": "Swift Arcade",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYPXkNGB48eB6iXYaKOEaKuLaEItyJOnsjhEx7yMg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3nbx2eeV_YmluYTE3fMUrmIZcySThSgZFHShgR1mqg_lYdmUdLd_xGBByg71hnrBm2XSSb_H=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kYkdti9mLzo", "title": "Getting started with the Spotify iOS SDK" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ethanniser",
+    "name": "Ethan Niser",
+    "profile": "https://yt3.googleusercontent.com/jbtMtq13WAueEA5rKyuD76wahrSxn2lajnNzmN4c5jUuYjo-Op155Viuwclj4Kd2s2fZop7ctHw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "NZpPMlSAez0", "title": "Build a Multi-Tenant B2B App With BUN and HTMX - FULL COURSE" },
+    { "id": "cpzowDDJj24", "title": "The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance" }
+  ]
+}

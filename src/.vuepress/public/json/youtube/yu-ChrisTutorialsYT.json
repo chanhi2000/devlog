@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ChrisTutorialsYT",
+    "name": "Chris' Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKawo45Du7agV6s3VVkmbROlHNN1gS4Ry5CHzWjj=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2g_6gW55niohtvmc9nCLofqEX0lCQ4IgGyVUtPjqvVZ08-JbeS-lweXXrvQEDHqQtXGrWS5jxA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ezMJN1fo7T0", "title": "Drag and Drop Send Data Between UI Controls - Godot 4 Gdscript Tutorial" },
+    { "id": "cLCbqW-mdEA", "title": "How to Rotate 2D Objects by Player Input ~ Godot 4 Tutorial" },
+    { "id": "W5PfFBSzYWU", "title": "How to Setup Object Placement Gameplay for Isometric Game ~ Grid Builder Plugin for Godot 4 Tutorial" },
+    { "id": "r0xAAntDV_s", "title": "Coding C# vs Gdscript in Godot 4 ~ Example Differences, Advantages & Disadvantages" }
+  ]
+}

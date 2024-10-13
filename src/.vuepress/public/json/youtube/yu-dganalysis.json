@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dganalysis",
+    "name": "dganalysis",
+    "profile": "https://yt3.googleusercontent.com/1gifM-y2IJiCmEQWbMj47o9KJRTFjRmTEsfSatbDDAGqblViVk44KhgU3VVelTT7nMxIZ4nX=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kT5-zz8728stU8bLORmFbE4El3e-F9jOSTII3rLlOOs3uFw9yoM6YBUNOMKbwEREVwpqk8iG=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZVknC7YEMB4", "title": "Next Level KPIs in Power BI" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "kookish2935",
+    "name": "kookish",
+    "profile": "https://yt3.googleusercontent.com/xiwQprr41Ic4jFIzUIHbjjncD4t9ajRwgrYho-p4x5Ui8ap9FfNOTC6xe7VGo9g0Pt-Fdeu-wFU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "IrC8jCbz7uU", "title": "어려운 Jenkins 대신 Github self hosted Runner 로 CICD 쉽게 해보자" },    
+    { "id": "Fpkd6vhwUco", "title": "PYQT +  소켓통신을 이용한 수강신청 연습 프로그램" },
+    { "id": "rLxqS72QOTQ", "title": "Federated Learning 이론만 공부하지 말고, FedScale 시뮬레이션 코드로 실행하면서 이해합시다." },
+    { "id": "-imYJdLJAU4", "title": "스프링부트로 만든 백엔드 서버 처음으로 AWS EC2 에 배포해보기!" }
+  ]
+}

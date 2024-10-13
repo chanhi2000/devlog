@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "codingsaint",
+    "name": "Coding Saint",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPHRfartKHPXxXfWg1JiZnNqWNbaE4BI2Mw5DvocA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pBkymrZPThDbZrS8DcvG8gfMLnbUNH5eLE77hJTZ2G_52uOeLaCy973J67RD3pNopRYTJbtsrA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NPimSyJQonc", "title": "\"Java Superhero Showdown: Unleashing Sealed Classes and Pattern Matching!" },
+    { "id": "wZn9bebjkKQ", "title": "Anatomy of @SpringBootApplication" },
+    { "id": "uliQ37J8jU4", "title": "Spring Azure Apps - First Spring App on Azure and Github Action to deploy" }
+  ]
+}

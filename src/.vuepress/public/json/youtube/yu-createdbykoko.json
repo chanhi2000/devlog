@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "createdbykoko",
+    "name": "Mitch Koko",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY_4y7PIcFbLG_7voxRVYjyVvNvM7CoOSZC_b9Q1g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bIGu0Wgr1iQ0GRTY4-9AhVm1uJttJX67Pm3usC9B7LbgkuBJidiJEoCuL9TRHdVI3xmCBlkGKg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rHIFJo4IbOE", "title": "📱 FULL Food Delivery App w/ Backend • Flutter Tutorial" },
+    { "id": "h1A_ROzDp1U", "title": "❤️📱 Coded this app using #flutter" },
+    { "id": "TclK5gNM_PM", "title": "🎓📱 FULL Flutter Masterclass: Beginner to Pro" },
+    { "id": "Qf0FcW6gffg", "title": "📱 Dot Indicators • Flutter Tutorial" },
+    { "id": "0RWLaJxW7Oc", "title": "🔥📱 Firebase x Flutter Masterclass: Auth / Firestore / Storage / Hosting" },
+    { "id": "bXyXPhL-YbU", "title": "how i use notion to organise my coding projects // Notion AI" },
+    { "id": "b-cXnkIjS28", "title": "while loop 📱 how to code apps #flutter" },
+    { "id": "SjPRyqvvh24", "title": "break / continue statements 📱 how to code apps" },
+    { "id": "VC6XbZWrmzs", "title": "for loops 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "e1DST4xKjZ4", "title": "switch case statement 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "bWDiu4GaQng", "title": "if else 📱 how to code apps • control flow 👨🏽‍💻 #flutter" },
+    { "id": "TjR6lOPjcug", "title": "📱 How to code apps • Logical Operators 👨🏽‍💻 #flutter" },
+    { "id": "O395qj6GzPQ", "title": "📱 How to code apps • Comparison Operators 👨🏽‍💻 #flutter" },
+    { "id": "nvoKUDqLRdw", "title": "📱 How to code apps • Math Operators 👨🏽‍💻 #flutter" },
+    { "id": "zT8II1X3cX4", "title": "📱How to code apps ‧ Math Operators 👨🏽‍💻 #flutter" },
+    { "id": "ULupDyOgcJg", "title": "💳📱 Minimal Expense Tracker • Flutter Tutorial" },
+    { "id": "TLaWibjFArw", "title": "👊🏽📱 Minimal Habit Tracker • Flutter x Isar Tutorial" },
+    { "id": "Zr4j6W7nmpg", "title": "🎧📱 Minimal Music Player • Flutter Tutorial" },
+    { "id": "NuSb0wq9K-I", "title": "✏️📱 Minimal Notes App • Flutter x Isar Tutorial" },
+    { "id": "5xU5WH2kEc0", "title": "💬📱 Minimal Chat App • Flutter x Firebase Tutorial" },
+    { "id": "HatGaO4DXwM", "title": "📱 Top 18 Essential Flutter Widgets" },
+    { "id": "p4nZ7s878i8", "title": "👨🏽‍💻📱 PROGRAMMING BASICS" },
+    { "id": "KshvevD9qI4", "title": "💾📱 Device Storage • ISAR x Flutter Database Tutorial" },
+    { "id": "NYiAEblY0Oo", "title": "How to code a TO DO app in 1 min with Flutter👨🏽‍💻" }, 
+    { "id": "rYdP2LnBGsA", "title": "💰📱 Minimal Ecommerce App • Flutter Tutorial" }, 
+    { "id": "HQ_ytw58tC4", "title": "📱 FULL Flutter Beginner Course • Programming Basics / Widgets / Navigation / User Input / UI" },
+    { "id": "4fucdtPwTWI", "title": "🔒📱 FULL Flutter Auth Course • Login / Logout / Register / Google Sign In" },
+    { "id": "DFJa-jUKXL4", "title": "💜📱tab bar menu • mini code tutorial 👨🏽‍💻 #flutter" }
+  ]
+}

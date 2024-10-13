@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "shanselman",
+    "name": "Scott Hanselman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOBenwEVG2kdvxnjD4CUODJPyQ32-fN9v4EdlK81qs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EencoKi2CsO9ViIl3wVj-xZsdZdupgO-x-fCDNI2dioq0LjJ9U7DPz8f8on-o4lWavKov9etEw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m_9j6MirrRk", "title": "The Challenges of Deploying IoT at Scale with John Kattenhorn" },
+    { "id": "1ZkrokFNjoo", "title": "Github Advanced Security with Jacob DePriest" },
+    { "id": "vV8EwtytfEI", "title": "How to REALLY use Microsoft Word: Styles, Multilevel Lists, and Outline View" },
+    { "id": "Jhgov6bh_pU", "title": "Digital archaeology reading 40 year old C64 Floppy Disks with a Greaseweazle, Fluxengine, and Aaru" },
+    { "id": "mstllNRWBV0", "title": "Open Core Open Source with Mermaid Chart's Knut Sveidqvist" },
+    { "id": "gvEecvqKybc", "title": "Our Retro FPGA future powered by Jose Tejada (JOTEGO)" },
+    { "id": "_AxXtXwdZmY", "title": "How to run a local AI chatbot on Windows in 5 min, no cuts, no edits, with Ollama, LMStudio, OpenAI" },
+    { "id": "j37SF0Ab3oY", "title": "Reinventing the API Gateway with Zuplo's Josh Twist" },
+    { "id": "2bsh3XTFD0k", "title": "Updating my personal website from .NET 6 to .NET 8 LTS in 15 min" },
+    { "id": "E_bkN_KperE", "title": ".NET Developers should be using dotnet-outdated to update their project's references" },
+    { "id": "3zt_PWWdxDA", "title": "Postgres Replication at speed with PeerDB's Sai Srirampur" },
+    { "id": "AFczyq7xSPY", "title": "Designing with Code with Dr. Janne Jul Jensen" },
+    { "id": "T4pAEcpkXbI", "title": "Building an Apple 1 Computer - Part 5" },
+    { "id": "FUDUNchHehw", "title": "Building an Apple 1 Computer - Part 6" },
+    { "id": "UnjMs9Th3GY", "title": "What to expect at Microsoft Build" }, 
+    { "id": "QKBcHuA3VJE", "title": "How do you use the Command line? PowerShell, cmd, bash? - Computer Stuff They Didn't Teach You #13" }, 
+    { "id": "gSMyLMZYjz8", "title": "Basic Text Editing and Hotkeys in VS Code - Computer Stuff They Didn't Teach You #3" }, 
+    { "id": "mLfpyuTl9Ww", "title": "Cygwin in Windows Terminal? Linux on Windows? Shells != Consoles != Terminals, WTF M$FT WINDOZE" }, 
+    { "id": "WBg9mlpzEYU", "title": "Git 101 Basics - Computer Stuff They Didn't Teach You #4" }, 
+    { "id": "deQLPL3IMtA", "title": "LIVE: Upgrading an older .NET SDK to .NET Core and .NET Standard" }, 
+    { "id": "j0PPcUUtHlw", "title": "How to set up a Windows 10 machine for Linux Development w/ WSL! Can we convert a diehard machead?" }, 
+    { "id": "oHhiMf_6exY", "title": "Customize the Windows Terminal with WSL2, Cascadia Code, Powerline, Nerd Fonts, Oh My Posh and more!" }
+  ]
+}
+

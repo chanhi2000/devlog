@@ -1,0 +1,65 @@
+{
+  "name": "chanhi2000.github.io",
+  "description": "My Personal Super Mindmap",
+  "version": "0.13.6",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "repository": "https://github.com/chanhi2000/devlog",
+  "authors": {
+    "name": "Chan Hee Lee",
+    "email": "chanhi2000@gmail.com"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS='--inspect' vuepress-vite dev src",
+    "clean-dev": "cross-env NODE_OPTIONS='--inspect' vuepress-vite dev src --clean-cache",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=16384 vuepress-vite build src",
+    "clean-build": "cross-env NODE_OPTIONS=--max-old-space-size=16384 vuepress-vite build src --clean-cache",
+    "devo-api-build": "npm run --prefix devo-api build",
+    "start-proxy": "npm run --prefix scripts start-proxy",
+    "fetch": "npm run --prefix scripts fetch",
+    "fetchMd": "npm run --prefix scripts fetchMd"
+  },
+  "workspaces": [
+    "devo-api",
+    "scripts"
+  ],
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "rollup-plugin-visualizer": "5.12.0",
+    "vuepress-plugin-markdown-define2": "^1.0.0",
+    "@vuepress/plugin-google-analytics": "2.0.0-rc.37",
+    "@vuepress/plugin-register-components": "2.0.0-rc.37",
+    "axios": "1.5.1",
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "vue": "3.4.33",
+    "vuepress": "2.0.0-rc.14",
+    "vuepress-theme-hope": "2.0.0-rc.52"
+  },
+  "dependencies": {
+    "@vue/repl": "4.1.1",
+    "@vuepress/plugin-prismjs": "2.0.0-rc.39",
+    "chart.js": "4.4.3",
+    "copyfiles": "^2.4.1",
+    "cross-env": "7.0.3",
+    "dashjs": "4.7.4",
+    "echarts": "5.5.1",
+    "flowchart.ts": "3.0.0",
+    "hls.js": "1.4.12",
+    "http-proxy-middleware": "^3.0.0",
+    "kotlin-playground": "1.30.0",
+    "mermaid": "10.9.1",
+    "moment": "^2.29.4",
+    "turndown": "7.2.0",
+    "sandpack-vue3": "3.1.11",
+    "sass-loader": "14.2.1",
+    "vidstack": "1.11.29"
+  },
+  "overrides": {
+    "globby": "13.2.2",
+    "@vuepress/utils": {
+      "globby": "13.2.2"
+    }
+  }
+}

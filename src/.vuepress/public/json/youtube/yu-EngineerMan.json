@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "EngineerMan",
+    "name": "Engineer Man",
+    "profile": "https://yt3.googleusercontent.com/anvOWR21zbp9O-tZ3HTDLUBcYNvnvD2_UlF4mibwsPa1L10TvIZeT99duaxueZfSfmU1dZ8A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kk_puDeSvlSwZgKBA_--sH19nkA73oMsE4G26mAfaXsCShu79HC9tQprA5-vtHKxpUCFcqRD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8RvnnUuoHTA", "title": "Understanding Floating Point Struggles in 7 Minutes or Less" },
+    { "id": "_chP0a4PMTM", "title": "Terminal Snowstorm With Python in 5 Minutes or Less" },
+    { "id": "RhtjGp7oMvE", "title": "Understanding Fork Bombs in 5 Minutes or Less" },
+    { "id": "oenlOvLPYDo", "title": "Looking for Secrets in Disassembled Android APKs (I found one)" },
+    { "id": "bXIHEIUSXvY", "title": "Linux and macOS Command Line Basics" },
+    { "id": "2qKlZQX1Ums", "title": "Supercharged Docker with Docker Compose" },
+    { "id": "QEdHAwHfGPc", "title": "Linux, Unix, macOS Cron Jobs" }
+  ]
+}

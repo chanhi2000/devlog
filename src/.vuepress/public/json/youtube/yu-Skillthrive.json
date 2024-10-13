@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Skillthrive",
+    "name": "Skillthrive",
+    "profile": "https://yt3.googleusercontent.com/Fa_dd8eSjRLkWI40SOn6DIytq6b1BvUBFjatHKHr7ZHSVCNtTi_SW2J23f3tEIy9r3MHCUF9=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NKWTmPO7YmlFd6_O_F4FTfZ8bwMYCkeIEjI6PbEx9LXyrSDjS_HT423Yyf2hiXfOptIsu9oxvA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wrkKaD5n_Gc", "title": "ElysiaJS Speedrun" },
+    { "id": "uzdWgeLHV3k", "title": "Master Flexbox in Minutes: The ULTIMATE Guide!" }, 
+    { "id": "9qpffyA8Vis", "title": "CSS Infinite Scroll Tags: CSS Marquee Animation Tutorial" }, 
+    { "id": "iwoIuyRHy88", "title": "3 Awesome CSS Button Hover Effects Using HTML & CSS" }, 
+    { "id": "g2cbN2IrGY0", "title": "SvelteKit and Tailwind CSS Tutorial: Creating Custom Toast Notifications" } 
+  ],
+  "playlists": [
+
+  ]
+}

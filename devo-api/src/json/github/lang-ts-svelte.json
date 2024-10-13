@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "0x2E/fusion",
+    "desc": "A lightweight, self-hosted friendly RSS aggregator and reader",
+    "officialSite": "",
+    "topics": ["rss", "rss-aggregator", "rss-reader", "self-hosted"]
+  }, {
+    "repo": "jstrieb/poker-chipper",
+    "desc": "Optimally allocate poker chips using constrained, nonlinear optimization",
+    "officialSite": "https://jstrieb.github.io/poker-chipper/",
+    "topics": ["constraint-programming", "constraint-satisfaction-problem", "optimization", "poker", "scip", "svelte", "web-application", "web-assembly"]
+  }, {
+    "repo": "hcengineering/platform",
+    "desc": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+    "officialSite": "https://huly.io",
+    "topics": ["applicant-tracking-system", "chat-application", "crm", "crm-platform", "hrms", "human-resources", "issue-management", "issue-tracker", "jira-alternative", "project-management", "qms", "support", "team-management", "team-platform", "wiki"]
+  }
+]

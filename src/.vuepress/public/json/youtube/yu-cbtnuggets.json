@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "cbtnuggets",
+    "name": "CBT Nuggets",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOo5g8yDnfOBqBOcZNWKwse18PqfVoaGsO8nwgQSg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0VMs_-x-_HrssRiDKMPzVlreFMnKYHZoQnTJ--vmbWu_Oe-imNoWTMtBI-RPtcVL4C3vP16l=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WLDHED9ENWI", "title": "Why Learn Python as a Network Engineer" },
+    { "id": "e-N7IqKIez8", "title": "Microsoft Defender for Endpoint | Configure Settings for Windows device" },
+    { "id": "sIUEfOgXwdE", "title": "Overview and Commands of the Linux File System" },
+    { "id": "I4HVqhfGYzs", "title": "Types of Microsoft SharePoint Sites | The Basics of SharePoint" },
+    { "id": "0raITLFkZOU", "title": "How to Create a Basic Tkinter Window" },
+    { "id": "rBevMF3C-bM", "title": "Understanding Shells and Terminals | RHCSA EX200 #examprep" },
+    { "id": "MbmCyw6UmJA", "title": "Microsoft Azure: How to Create a Basic Virtual Network | AZ-140 exam prep" },
+    { "id": "h5vq9hFROEA", "title": "Ports Explained | Networking" },
+    { "id": "7SJZeuJoAjo", "title": "What is PPPoE? Point-to-Point Protocol and Point-to-Point Protocol over Ethernet Explained" },
+    { "id": "ENLbgVtZ3rA", "title": "Virtual Servers | How to Troubleshoot Load Balancing | F5 Certified BIG-IP Administrator (201 TMOS)" },
+    { "id": "Byl01tE5Egg", "title": "Physical Layer TCP/IP | Ethernet Standards Copper or Fiber" },
+    { "id": "pgrK8y7tIYM", "title": "How to Install PowerShell for Windows, macOS, Linux" },
+    { "id": "rbhF_oaFfRw", "title": "Fortinet Certification Changes: NSE 8" },
+    { "id": "OEoQYfDzZPo", "title": "Managed vs Unmanaged Switch in 5 minutes | Network+" },
+    { "id": "3ki6K96K_Y0", "title": "Is Wayland better than Xorg? | Wayland vs Xorg" },
+    { "id": "vy3e6ekuqqg", "title": "What is LDAP (Lightweight Directory Access Protocol)?" },
+    { "id": "RLmr-_nQvaI", "title": "How to Create an Excel Spreadsheet | Microsoft Office for Mac for Beginners" },
+    { "id": "jTAPzQDimYY", "title": "What is SDN?  #networking #tech #ittraining #cbtnuggets #cisco" },
+    { "id": "JvJwqK7IYHQ", "title": "Latest Training Course Releases | February 2024 | CBT Nuggets" },
+    { "id": "ySU3WlIOwgU", "title": "Introduction to Azure Cosmos DB for Developers" },
+    { "id": "1i3XdhC2ZAs", "title": "Steps for Network Troubleshooting" }, 
+    { "id": "FOzJrtUAzjo", "title": "Cable Management | Intro to Network Cabling and Connectors with Keith Barker" },
+    { "id": "3Rwc3NoV6Mw", "title": "Selecting and Installing a Patch Panel" },
+    { "id": "D-65p1PikQM", "title": "What is the Measure of Central Tendency | Mean Median Mode in Statistics | Statistics Excel" }, 
+    { "id": "is0O5_EI9Mo", "title": "What is Identity and Access Management (IAM) in the Cloud?" }, 
+    { "id": "3LGaZUl7TuA", "title": "Why Storybook React Makes Building UI Components Easy" }, 
+    { "id": "bO7Qh08OCIw", "title": "What is Ansible?" }, 
+    { "id": "aJ10nbRoD8Q", "title": "How to Set Up Basic Auth with Postman" }, 
+    { "id": "l96vOuIH7DU", "title": "How to Secure Kubernetes GUIs" }
+  ]
+}

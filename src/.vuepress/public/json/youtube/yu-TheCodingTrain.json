@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "TheCodingTrain",
+    "name": "The Coding Train",
+    "profile": "https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DKu3blYCDVczjLvvr4sRNetij6DlCpkubLIcahtnxkInjThPUvSQh2mpmh0OY_W-9dVqiVf9pQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vfeUb7w8Hr8", "title": "Let's Build a Nature of Code 404 Page!" },
+    { "id": "MazpwQNdJYQ", "title": "Unfolding the Dragon (Coding Challenge 185)" },
+    { "id": "dJNFPv9Mj-Y", "title": "Collisions Without a Physics Library! (Coding Challenge 184)" },
+    { "id": "p7IGZTjC008", "title": "Coding Challenge 183: Paper Marbling Algorithm" },
+    { "id": "Bxdt6T_1qgc", "title": "Coding Challenge 181: Weighted Voronoi Stippling" },
+    { "id": "6UlGLB_jiCs", "title": "Coding Challenge 182: Apollonian Gasket" },
+    { "id": "-_ivRdVjjzA", "title": "Passenger Showcase and Building a Creative Coding AI Agent?" },
+    { "id": "fryhsPyN02Q", "title": "#genuary15 physics library!" },
+    { "id": "ORe-c1crRcE", "title": "I, Robot" },
+    { "id": "Ggxt06qSAe4", "title": "Coding Challenge 179: Elementary Cellular Automata" },
+    { "id": "1mwguqeEz8c", "title": "Clustering Sentence Embeddings with transformers.js and umap-js" },
+    { "id": "46WOuOrMwTQ", "title": "Workflow: Terminal, Shell, Node.js, VSCode" },
+    { "id": "4JzDttgdILQ", "title": "Creative Coding for Beginners - Full Course!" },
+    { "id": "pI2gvl9sdtE", "title": "How to Make a Processing (Java) Library Part 1" }, 
+    { "id": "nZaZ2dB6pow", "title": "1.5 Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript" }, 
+    { "id": "3ls013DBcww", "title": "2.2 Geolocation Web API - Working with Data and APIs in JavaScript" }
+  ]
+}

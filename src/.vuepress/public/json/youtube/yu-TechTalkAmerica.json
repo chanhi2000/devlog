@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TechTalkAmerica",
+    "name": "Tech Talk America",
+    "profile": "https://yt3.googleusercontent.com/C_3VRJTIwwjNgqIqrImJpESVuiE1448jMyprCs5pWob70fixHRvTswGupLgd7MkHQ2o1Tmj0ow=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/faUHC33V22ik-vJD-bo7vAgCcvflWK6s6uOZ6IXw5VmAl6hJmbQjRdgEoopwrYbeMZLWMQaXeX4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9kf7nyG8JWI", "title": "Easily Find & Remove SIMILAR Photos - [Mac]" },
+    { "id": "9eqLvd1YjqU", "title": "Protect Your iPhone Data from Thieves with THESE 2 Settings!" },
+    { "id": "xPdaVPEfbsg", "title": "Back Up Your Mac: Complete Guide [2023]" },
+    { "id": "rc6QHkfNBVc", "title": "Organize Your Documents FAST!!! - Works on Mac, Windows & iPad" },
+    { "id": "gOfF2GsAIXY", "title": "How to SHRINK Your Photos Library in iCloud" }
+  ]
+}

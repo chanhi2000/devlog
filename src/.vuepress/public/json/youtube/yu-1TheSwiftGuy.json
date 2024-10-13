@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "1TheSwiftGuy",
+    "name": "The Swift Guy",
+    "profile": "https://yt3.googleusercontent.com/6r2SJbJR3I--BmHHQvM1sL6c9VU8zoS6hZE9kRUoK1iCJtpF-l8o3FdNgJqk7WMw8NnsWVSW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/k0Aj-mO3qZKHPNqqwmQXi3IDAbfHtdyWd2uwjOVUlWrdVdqmwRJ142nCp_aCwmH3PwVtyvH5XwM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t0TPxq-QR9c", "title": "SF Symbols: How To Get Icons And Symbols For Your App With SF Symbols In Xcode 15" },
+    { "id": "pioFudfItTA", "title": "How To Use Context Menus In Xcode 15 (SwiftUI)" },
+    { "id": "tst2o0FnBEo", "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 2" },
+    { "id": "U9Z4gCQYCms", "title": "How To Create A Calculator App in Xcode 15 (SwiftUI) - Part 1" },
+    { "id": "Rx5S9jNNFvc", "title": "How To Create A Detail View In Xcode 15 (SwiftUI)" },
+    { "id": "cF640EUNr4I", "title": "How To Use Animations In SwiftUI - Offset, Opacity & Scale" },
+    { "id": "OZrUrz7_AZw", "title": "How To Create A Submission Form In Xcode 15 (SwiftUI)" },
+    { "id": "0n_wHzVIjjQ", "title": "Implementing Tap Gestures In Xcode 15 (SwiftUI)" },
+    { "id": "z4aMVgdIdEM", "title": "Implementing Drag Gestures In Xcode 15 (SwiftUI)" },
+    { "id": "BpJqsjzG-bs", "title": "How To Create And Use A Card View in Xcode 15 (SwiftUI)" },
+    { "id": "jUMUfdKVYmI", "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 1" },
+    { "id": "jLRNgR8nw-k", "title": "How To Create A Tic Tac Toe Game in Xcode 15 (SwiftUI) - Part 2" }
+  ]
+}

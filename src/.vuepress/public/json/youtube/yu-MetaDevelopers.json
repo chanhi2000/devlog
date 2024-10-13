@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "MetaDevelopers",
+    "name": "Meta Developers",
+    "profile": "https://yt3.googleusercontent.com/3DCIGUfA6X8LMHmE3YqPmptgfUCvgaasyfhMNr9t5oMhTVl4KLiVdxaQWRoMYZq2_KB6nHnIDw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3w_Y0MrJjJ8w2oF09oDYJfIWQQNp28Uaz3SEtvVv86wpO1QAYwyi8I35BRBT_Pb81BHs4s2r=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wsJRVtlWFOc", "title": "Meta Haptics Studio: The Basics" },
+    { "id": "zPJEsRzdqhE", "title": "Introduction to WhatsApp Flows for Developers" }
+  ]
+}

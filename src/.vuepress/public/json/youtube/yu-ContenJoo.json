@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "ContenJoo",
+    "name": "콘텐주",
+    "profile": "https://yt3.googleusercontent.com/nQN8terqiRlwGdMFuXEXg7oj7PAU0C0mQ8C68br9vyGalkryfG8pFNFqAetdgy3PrZgGv2xvyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eZfd00EbVGjw_o1VX_d-Xezr4XQ59hBgXMDNV7xzKcf0uhODsarXkEgpvZGxMdph_akakX9E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AtuSavl0Flo", "title": "주이즈로 교실 연결하기: 단축 URL과 바이오 페이지 사용법" },
+    { "id": "p-WGLxBXScY", "title": "챗GPT에게 문서 학습 시켜서 대화하세요. 2024 ver" },
+    { "id": "GxNx1lj2Hxs", "title": "당신의 다음 통화 상대는 AI일지도?! 🤖📞" },
+    { "id": "piD4anxc12g", "title": "패들렛에 추가된 AI기능 소개 웨비나" },
+    { "id": "atawHErW3Ls", "title": "선생님들을 위한 완벽한 챗봇 마켓플레이스" },
+    { "id": "x-yEr_Jd4vs", "title": "새로운 다크호스 AI챗봇이 나타났습니다. 챗GPT,Claude와 함께 대화하세요" },
+    { "id": "o4gh4zJfS8A", "title": "선생님들을 위한 ThingLink 웨비나" },
+    { "id": "qbIKZZ19usA", "title": "챗GPT인공지능시대 영어학원 운영전략 웨비나" },
+    { "id": "cTFgNNueJ6E", "title": "챗GPT가 내 업무를 돕게 만들기" }, 
+    { "id": "h_jhkEtgSoA", "title": "챗GPT플러그인으로 영상만들기" }, 
+    { "id": "qILL93RYW4s", "title": "챗GPT에게 문서 학습 시키세요. PDF 기반 대화" }, 
+    { "id": "4cpY3kLGE7o", "title": "코딩을 못해도 맥북에 생성형 인공지능 넣을 수 있습니다" }, 
+    { "id": "d9Tuo5BcV34", "title": "ChatGPT PDF 그냥 Bing이 다 해줍니다. BingChat 당신은 그저 GOD" }, 
+    { "id": "DZ8DIKa0hzs", "title": "점점 편해집니다. 또 다른 PDF기반 챗GPT 사용 도구" }
+  ]
+}

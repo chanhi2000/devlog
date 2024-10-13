@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "SamsungNewsroom",
+    "name": "삼성전자 뉴스룸 [Samsung Newsroom]",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lASiOXqTBmNH_TTXa6KcbC13KFfvPTjH9VNuarUoy5enI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lER9IOxBUPfh-mgb3rT8lC9gcVxoKflihg9FnqY8XJ22gwZtd2ldqFFj8lfvCmkuI9V72oTV1yQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WojlCS6XBVU", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서⑦ㅣ생산기술연구소" },
+    { "id": "qcjBO1E2lEs", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서⑥ㅣSamsung Research" },
+    { "id": "svbirmmuti4", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서⑤ㅣ한국총괄" },
+    { "id": "KXou0HIeCy4", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서④ㅣ네트워크사업부" },
+    { "id": "WHc_QDsWW1o", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서③ㅣMX사업부" },
+    { "id": "_yqa2DYwBDw", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서②ㅣDA사업부" },
+    { "id": "9ZlA9xRNl5k", "title": "[JD 읽어주는 프로] 현직자가 알려주는 직무기술서①ㅣ영상디스플레이사업부" }
+  ]
+}

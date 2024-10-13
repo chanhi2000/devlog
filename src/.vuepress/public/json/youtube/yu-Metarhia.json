@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Metarhia",
+    "name": "Metarhia",
+    "profile": "https://yt3.googleusercontent.com/oDzyJA-1Bamrv_C-0m_8lfaH9d8yeGjCBgBQQ_EV3KXi-6A8PwUwVdza0i9o_H6oHYvgKgHo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lDUuSPkvu2iDbiSshwiVg5kKGwicv7sIDci9nbxmi3XsPOqYGgxU6MdeXyP8owbkPxbBJelG=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { 
+      "id": "Ebrzqj8cGUY",
+      "title": "🧑‍💻 Применение Chat GPT в оптимизации JavaScript для Node.js" 
+    }
+  ]
+}

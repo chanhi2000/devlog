@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "AnyoneCanCode",
+    "name": "Anyone Can Code",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMdz-W_ZDxEDiBVYkb-zZD0z5v35HCmdQY8IIoSow=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J0Bu-4TMmr4ySmFj0bgYqRqIPQ4OKTvXwAzBbKz1sr63Svy_tPV9ypUCMLXREqfejUrZfQtI_A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_dqnqDknsZU", "title": "ShazamKit and SwiftUI Tutorial - part 3 of 4" }, 
+    { "id": "LxKyuLAxwi8", "title": "Make an iOS widget with SwiftUI - Part 2" }, 
+    { "id": "kPo6bZ8wh8E", "title": "Make an iOS widget with SwiftUI - Part 3" }, 
+    { "id": "151GCQlGsKg", "title": "Make an iOS widget with SwiftUI - Part 1" }, 
+    { "id": "Snl3oxPifWo", "title": "Part 1: Create a multiplayer iOS game: A step by step tutorial" }
+  ]
+}
+

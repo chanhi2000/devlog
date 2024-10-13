@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "yourownkpi",
+    "name": "Your Own KPI",
+    "profile": "https://yt3.googleusercontent.com/mTCOWKLu6-saQddmt_fjV3UVDLFGZE__JRWiEZLiylKM2zMDsm28bEEZbglM2byROmjzYaL1vv8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MFPjK0rfWvXhB_HvRKJSqia1Wz0Xa_VpyYKENCGwlQaDys65DkhkXPArGURiVxQ4jnSc9-UzafU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-VXZh-vDmP0", "title": "Build a Slicer Panel in Power BI Like a PRO" },
+    { "id": "G3GyllXAt14", "title": "Build a Slicer Panel in Power BI Like a PRO - Part 2" },
+    { "id": "Vm3pgnAX90U", "title": "Build a Slicer Panel in Power BI Like a PRO - Part 3" },
+    { "id": "KTjnLHrs38U", "title": "Build a Slicer Panel in Power BI Like a PRO - Part 4" },
+    { "id": "M0NmAdeh7r4", "title": "Beautiful Power BI Dashboard Design with Figma | Timelapse" },
+    { "id": "4hwjtb_P-es", "title": "Power BI Mobile App Design From Scratch (End-to-End Tutorial)" },
+    { "id": "YIqzwUomgt4", "title": "How to Build Navigation in Complex Power BI Reports" },
+    { "id": "ScRA9dkm4WY", "title": "Insane Power BI Dashboard Design with Figma | Timelapse" }
+  ],
+  "playlists": [
+    
+  ]
+}

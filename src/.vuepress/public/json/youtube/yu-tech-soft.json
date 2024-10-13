@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "tech-soft",
+    "name": "Tech Soft",
+    "profile": "https://yt3.googleusercontent.com/9t8Z9yITpJpveAdsvx5uVsXRwk0gsdsncwpgPhfoPQXKXWJUA8YzUnuWtCJyNMeHqOm2PxVRlPI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MzpI_GnSivlorIbsDcDYVlSEw4ilPEFfjfW23VZuEwL90kiwv-wgViBFUNl32dAniEPPI4y0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JELjR3t2ldg", "title": "Apache Kafka® Installation On Windows | Kafka download and complete setup on windows step by step" },
+    { "id": "8ylNkkTl_LM", "title": "Basic Introduction of Microservice tutorials | Microservice tutorials for beginners step by step" },
+    { "id": "QCBfA5cz1mc", "title": "Microservice | Spring Boot | MySQL &JPA | Spring Cloud Eureka + API Gateway + Spring Cloud | PART-1" },
+    { "id": "qqUSH2sLsiA", "title": "Microservice | Spring Boot | MySQL &JPA | Spring Cloud Eureka + API Gateway + Spring Cloud | PART-2" },
+    { "id": "5EDUnkG6drk", "title": "JWT Authentication & Authorization, login & logout with Spring boot  | Spring Security full demo #3" },
+    { "id": "y4g8xSJBBQA", "title": "Microservice | Spring Boot | MySQL &JPA | Spring Cloud Eureka + API Gateway + Spring Cloud | PART-3" },
+    { "id": "d6SBmCLjV1Y", "title": "Microservice Config Server | Spring Boot | Spring Cloud Eureka + API Gateway + Spring Cloud | PART-4" },
+    { "id": "40x2KJioRNw", "title": "Apache Kafka Tutorials for Beginners | What & Why Apache Kafka? Brief introduction" },
+    { "id": "_eEDA0Z0Wos", "title": "Apache Kafka® Components & Architecture | Kafka Terminology |Apache Kafka Tutorials for Beginners" },
+    { "id": "K8nP3gyf7o0", "title": "JWT with Spring boot Authentication & Authorization | Spring Security full demo in Spring Boot 3 #1" },
+    { "id": "PPDluVFDwis", "title": "Spring Boot | Rest API | Spring Data JPA | MYSQL database | Spring Boot Application in 13 minutes" },
+    { "id": "fzTl-Dr99aw", "title": "WebClient | Service to service communication in microservice | How to use webclient in spring boot" },
+    { "id": "W-57K1IMxjw", "title": "WebClient Unit Test | Service to service communication | How to use webclient in spring boot" },
+    { "id": "D-ZcBUrgd5Q", "title": "Oracle 19c database & Oracle SQL Developer Installation | How to install Oracle 19c in windows 10" }
+  ],
+  "playlists": [
+
+  ]
+}

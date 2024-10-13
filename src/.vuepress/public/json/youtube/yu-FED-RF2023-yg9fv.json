@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "FED-RF2023-yg9fv",
+    "name": "탐쌤 FED-RF 2023 과정",
+    "profile": "https://yt3.googleusercontent.com/tU3WqE35e_-xhpkgtJbPyK6k73hTh2MEivLKoxb_IVDWa9OKo1sI1mWeSl5hq_OjijCHxl95nRM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nmjw2VlfieTkzPtb3jGIsaRWAFCmgr2nS5N_k3wKhz1R0YiC0xs9jHSVtuCLZLcsGBcYsMTNEes=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "z4htpamBZuo", "title": "FED-RF-2023 : 118일차 - 1. 오늘의 일정" },
+    { "id": "V4fBlHHnlWg", "title": "FED RF 2023 : 119일차 - 3. DC PJ : 첨부파일기능3 - 완료" },
+    { "id": "YQUrV9LE4Qc", "title": "FED-RF-2023 : 119일차 - 2. Express서버구축 + DC PJ 첨부파일기능2" },
+    { "id": "WjFDa1SdvHk", "title": "FED-RF-2023 : 보충수업 1일차 - 3.뷰JS : 연습1 - 스타일난다" },
+    { "id": "7C9IgVkZW1s", "title": "FED-RF-2023 : 보충수업 1일차 - 1.일정체크" },
+    { "id": "1R09T06O7Gs", "title": "FED-RF-2023 : 보충수업 2일차 - 3.뷰JS : 컴포넌트2 + 쇼핑몰1" },
+    { "id": "A_lKScxQnT0", "title": "FED-RF-2023 : 보충수업 2일차 - 2.뷰JS : 연습2 + 컴포넌트1" },
+    { "id": "v4Fb46jaesc", "title": "FED-RF-2023 : 보충수업 2일차 - 1.일정체크" },
+    { "id": "x64TSJ4wcgM", "title": "FED-RF-2023 : 보충수업 3일차 - 3.뷰JS : 뷰엑스 스토아" },
+    { "id": "j9jrI_ZDgI8", "title": "FED-RF-2023 : 보충수업 3일차 - 2.뷰JS : 쇼핑몰2" },
+    { "id": "lbdVAbdUUFU", "title": "FED-RF-2023 : 보충수업 3일차 - 1.일정체크" },
+    { "id": "_lCcGV3Jwjc", "title": "FED-RF-2023 : 보충수업 4일차 - 3.뷰JS : Node JS 환경 SPA개발" },
+    { "id": "lnWFb56AWw8", "title": "FED-RF-2023 : 보충수업 4일차 - 2.뷰JS : 라우터" }
+  ]
+}

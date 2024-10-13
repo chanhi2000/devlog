@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "oracle-base",
+    "name": "ORACLE-BASE.com",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYZcoW8Wy413FXheynDSjWb8UTNF57IUHNvAG6y_g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6pjX-abw-QKDvKaj6erK7N2dfQwf5aQ40gBRNXsdgYTMTm-rs6bMonfiVPVBKjoH--8ebc8mnQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7Ga97ynYLaQ", "title": "Read-Only Partitions and Subpartitions in Oracle 12.2 Onward" },
+    { "id": "VL1mAMTLtD4", "title": "Scalable Sequences in Oracle Database 18c Onward" },
+    { "id": "tvckEItrLa8", "title": "Docker : Oracle Database Build" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "GavinFreeborn",
+    "name": "Gavin Freeborn",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSeEjIE-AI8XAYrcXXagN9kD9sph2FSl33M7-90fQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NzgCGOsu-CgPfrgpWE21Ax66E4RkZggNagZvRX9Tjcmak_IsXe46mC1BNmCrWaEurF-NDW9z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "g43XNwKY1YA", "title": "Org Tables - From Zero to Hero" },
+    { "id": "aiBt8CieE7U", "title": "Double Your Productivity With Emacs Org-Mode" },
+    { "id": "6oeE52bIFyE", "title": "M-x Compile: A Deep Dive into Compiling Code with Emacs" },
+    { "id": "1y__2IK-aLM", "title": "Learn Emacs Lisp in 30 minutes" },
+    { "id": "jjuSXbv1nW8", "title": "Creating Your First Haskell Project - Haskell's Tooling Is Good Actually" },
+    { "id": "DEeStDz_imQ", "title": "5 Reasons I Love Emacs Orgmode" },
+    { "id": "0-brF21ShRk", "title": "You Should Really Learn Org Mode - It's Easy" }
+  ]
+}

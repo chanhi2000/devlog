@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "LearnEDU",
+    "name": "LearnEDU",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSu1PU4tmqjHCTfjXGXlTsWCcPfpzSaNTHZXkgG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l6WyeJerTJJekKp7TbFr4diwEf0WrE6r1wPaCuw0AAf_0xT5WtCL0UE1dmPutTQqBeBXckMA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6Dubbf2FKPY", "title": "Install Older Versions of Python (How-to)" },
+    { "id": "skJFeP5yp34", "title": "Python with Visual Studio Code 2024" },
+    { "id": "aXVygGTsZLk", "title": "Create Python Virtual Environment" },
+    { "id": "h175h31G_K4", "title": "Create Java Project on Visual Studio Code 2024" },
+    { "id": "DkWU1B-xNic", "title": "Python: Environment Variables" },
+    { "id": "Dr0KZRL4ucI", "title": "Setting Up React Native with Expo 2024" },
+    { "id": "6Qcrj3NxUcI", "title": "Get Premium AI for Free" },
+    { "id": "wFGqOGgK0AE", "title": "React Native Part 11 - Text Input" }
+  ]
+}

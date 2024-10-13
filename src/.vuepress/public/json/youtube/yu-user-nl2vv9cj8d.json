@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-nl2vv9cj8d",
+    "name": "양재동 코드랩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNofB-oj7Bg9aX5UtdfvCy8b8DsHyyKw6e6HcSQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/elB1KL67S1X6qIg7_2OSrJLnqeOh6f9daVlQK-n752sqbJlVVAyXxOx4T8Ia_aurv9XdxoLB=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "e_aPiI6R6Xc", "title": "(코드랩) Kotlin을 이용한 안드로이드 앱의 기초 구조 4주차" }
+  ]
+}

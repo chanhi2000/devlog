@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "KodySimpson",
+    "name": "Kody Simpson",
+    "profile": "https://yt3.googleusercontent.com/u-Cs--o5MJpdiL2NhYURaWRMFFEY1udvS9X_IPlWCoUnldy1tA5ULA9wU4uFvbuWHKqm1y-g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OC2BdlyTZOitU3qW7Q3-4ynBVb0KJdCUcWSIJBqJuPbHvfWMWBIThGfLioVEkT9cPoNc3XIrww=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HSf-GiJr1Bs", "title": "How to Setup CLion for C and C++ Development" }
+  ]
+}

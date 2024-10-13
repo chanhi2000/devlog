@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "OldTechBloke",
+    "name": "OldTechBloke",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTlE6vLxkrIFh5eMd0JBh8uR6NpdN7JXu_8Wfkg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sXf2P99WMyTWKnbWigumK3R2uS1nIF86nK3i9dtPcS1k-jioPr8LmBlvhKT1vcniAGeh9yws=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MDYn7VI9OIA", "title": "Slackware Window Manager Tweaks - Dbus and Polkit" }, 
+    { "id": "Gu1KuIGkQog", "title": "Bashing Out A Simple Battery Status Script In Bash" }, 
+    { "id": "oFfuJBp2M7w", "title": "Rofi - An Application to Make You Faster and More Productive" }
+  ]
+}
+

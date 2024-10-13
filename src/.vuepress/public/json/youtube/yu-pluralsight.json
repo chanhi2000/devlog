@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "pluralsight",
+    "name": "Pluralsight",
+    "profile": "https://yt3.googleusercontent.com/9fzfNc6HfWwDBMQpwnNP1Z3AarXjFJ7DUzmqmfSzKdponPHaPPs0kAnzna5x9CC2hrwyLd-6B_g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WdIWDa38qpK8De9JbKiO_382aFtx9yxKlPflgPlBglEd6W0_KBPvXLS6bHrqlg5S9S1JM8amjA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AD1BOqlQpO0", "title": "How to build a culture of continuous learning" },
+    { "id": "7KNa2UJrKM0", "title": "5 services for modernizing your apps" },
+    { "id": "dQufmLXH_R4", "title": "Tech Skills Day 2024" },
+    { "id": "_G149qdpOJU", "title": "AI This Month: Sora, Gemini, and ChatGPT’s delightful nonsense" },
+    { "id": "a9d6LpZ6sC4", "title": "2024 AWS certifications: From foundational to specialty" },
+    { "id": "mR5PmorRgLo", "title": "Pluralsight Flow: The Engineering Transformation Partner" },
+    { "id": "utbYioUAdlw", "title": "AWS CCP exam | 9 machine learning services to know" },
+    { "id": "lovnPtQOFGk", "title": "How to create & use Lambda layers using AWS" },
+    { "id": "MY-7MzeHaeY", "title": "How to use Amazon Q: The GenAI-powered AWS building assistant" },
+    { "id": "8_bgqJpQCSM", "title": "How to build a serverless application with Application Composer" },
+    { "id": "BMhQA8pz5cM", "title": "9 analytics services to know for the AWS Certified Cloud Practitioner exam" },
+    { "id": "ElX-W3dEwq0", "title": "How to add GenAI capabilities to your app code using Amazon Bedrock" },
+    { "id": "IsjbXajoxes", "title": "Let's build a game in JavaScript!" }, 
+    { "id": "akrQr15iBt4", "title": "Let's Build a Game in JavaScript" }, 
+    { "id": "mw5YuPw6A1c", "title": "Backend development for frontend engineers" }, 
+    { "id": "-g2Dat7z2WQ", "title": "Webinar: Angular patterns & best practices with John Papa" }, 
+    { "id": "mhFPVhNNI3Y", "title": "Let's Build a Game in JavaScript! All Hands on Tech Live" }, 
+    { "id": "5TKeYLW2cq4", "title": "Let's Build a JavaScript Game!" }
+  ],
+  "playlists": [
+
+  ]
+}

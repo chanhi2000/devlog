@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "systemv1968",
+    "name": "System V",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRSzhY_EhEawZBKxvXvaozMM9hczzD1cn7jllrk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "bewBFULIzuI", "title": "스프링 개발환경 구축하기 III - 메이븐(Maven) 멀티 프로젝트 생성하기" },
+    { "id": "ts40vZFcdEU", "title": "스프링 개발환경 구축하기 V - Git 사용하기" },
+    { "id": "Xmpt9eqvaec", "title": "자바 시스템 구축하기 - Ansible 을 통한 보안 설정 VI" },
+    { "id": "f9eQS_aRPPk", "title": "자바 웹 개발환경 구축하기 - STS3 설치 및 설정 I" },
+    { "id": "py1_KCpSjf0", "title": "스프링 개발환경 구축하기 II - STS3 에 톰캣 설정과 WebContent 로 디렉토리 재정의" },
+    { "id": "u4d3V6R2Uq8", "title": "자바 시스템 구축하기 - Ansible 을 통한 보안 설정 V" },
+    { "id": "RrT66pjV5gM", "title": "자바 시스템 구축하기 - Ansible 을 통한 보안 설정 II" },
+    { "id": "oRDvNjmlMzo", "title": "자바 시스템 구축하기 - Ansible 을 통한 보안 설정 III" }, 
+    { "id": "iBMRAU0bGQc", "title": "자바 시스템 구축하기 - 설계" },
+    { "id": "tCm-U0rP86M", "title": "레드햇 9, 네트워크 설정하기" },
+    { "id": "NRnCD93NsSo", "title": "Open vSwitch(OVS) 설치와 설정" },
+    { "id": "2S15QnrihDs", "title": "KVM 가상환경 구축하기 - Ubuntu 22.04 LTS" },
+    { "id": "m0tky1jyP-0", "title": "빌드(Build)를 위한 Jenkins 설치 및 설정하기" },
+    { "id": "oQcMgIVOlWM", "title": "SCM 설정하기" }
+  ],
+  "playlists": [
+    
+  ]
+}

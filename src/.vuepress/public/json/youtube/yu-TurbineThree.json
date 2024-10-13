@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "TurbineThree",
+    "name": "TurbineThree",
+    "profile": "https://yt3.googleusercontent.com/ntCW-F_-4Di696QasbdKKMDdPW-0yIVNG-rxNfi7F1gDByLbG7vu97s0GupT33khtzy9qwCc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-WXZVgv8d4NuqnSLzum-W6CaCGaeX8SERbAJe4dL-qTjUfiC9vaHdQAyYs-fHvko_H1KD_cEYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hxuiRPUJMwU", "title": "Use Firebase with Tkinter (Free Database & Authentication)" },
+    { "id": "0H19QzbBqC4", "title": "Make Modern Python Dashboards With Tkinter & Matplotlib!" },
+    { "id": "HztX_8ygQ7Q", "title": "How To Remember Everything You Learn" },
+    { "id": "Miydkti_QVE", "title": "Make Tkinter Look 10x Better in 5 Minutes (CustomTkinter)" },
+    { "id": "VJe_80iUUuc", "title": "Turn Any Python Project Into A Website In 6 Minutes!" },
+    { "id": "oLxFqpUbaAE", "title": "Use a Drag & Drop Editor to Make Tkinter Python GUI Applications!" }
+  ]
+}

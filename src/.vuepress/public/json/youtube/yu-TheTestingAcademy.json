@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "TheTestingAcademy",
+    "name": "The Testing Academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSxkApNNPQiiRVxbRVvmTcUTCYCOs_tHIcXm81-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cdvEop2liBGjSHRy5cpfkhAVepgTIdf6VprQ0dfP82so2lNzDk4SgK03ByShyYObKR9n5_NeEA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dk2MfPssmMo", "title": "Top 10 FREE Selenium Courses in 2024" },
+    { "id": "yMzIR7GjJfg", "title": "How I Got 50+ Interview Calls From Linkedin" },
+    { "id": "UrvRe2O582s", "title": "2x Your Salary In 2024 With These Must-have Skills" },
+    { "id": "6UGR8gdIMoU", "title": "How Yashwanth Grabbed Super High Paying Automation Job in 2 years" },
+    { "id": "DPb5zkVRTfM", "title": "3 Simple Hacks to Become an Automation Tester" },
+    { "id": "wgPg6AqI6u8", "title": "How To Create Automation Tester Portfolio (To Fetch Job Easily)" },
+    { "id": "g9w_Tqfuz-o", "title": "Complete Manual and Automation Testing Roadmap" },
+    { "id": "J0yB6AIzXVo", "title": "5 Important Selenium Projects That You Must Do" },
+    { "id": "c3Tz5gRorDY", "title": "How to Achieve ANYTHING with Goal Settings 2024(with Template)" },
+    { "id": "cadGRnl4Ti8", "title": "3 Reason Why You Can't Become an Automation Tester" },
+    { "id": "KN87iF3MTuA", "title": "Can You Learn JAVA in 30 Days? | JAVA Complete Roadmap" },
+    { "id": "gmQ7mMPQvH8", "title": "How to Switch from Manual Tester to QA Lead in Just 3 Years | QA Lead Roadmap" },
+    { "id": "iPk4TApJafg", "title": "Playwright Tutorial Java Full Course in One Shot" },
+    { "id": "M6j-AJDPFn0", "title": "Live Mobile Application Testing Part 2" },
+    { "id": "4-AAGjFuRK4", "title": "Jenkins Full Course | Jenkins Tutorial For Beginners | Jenkins in One Shot" },
+    { "id": "t-34xK54_gk", "title": "5 Real Time Live Projects Web Automation Projects for Manual Testers" }
+  ]
+}

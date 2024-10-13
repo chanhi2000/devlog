@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "3blue1brown",
+    "name": "3Blue1Brown",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSApZdSBilmxjGARJbX1WdIFYXFv69aixy9FcJraA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WQlRfcL2_mAtGdUrdXJZCJBDZGqoixP7i51a7WHGb9TUoauykK1nMXbwmsu-FChVBvF8sDzGkw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wjZofJX0v4M", "title": "But what is a GPT?  Visual intro to transformers | Chapter 5, Deep Learning" },
+    { "id": "nXIHYB0Gp70", "title": "Fourier series" }
+  ]
+}

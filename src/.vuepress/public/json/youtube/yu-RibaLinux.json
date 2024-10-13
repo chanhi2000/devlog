@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "RibaLinux",
+    "name": "Riba Linux",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRcKbzSzlvqL8Tj3-zjkQ2B8qvEDGC5dkViRPmamA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1zj4MV0wwz1P2fpEJevYfinGE_aiGn_a-MzzoKf-2kE-WtC0s7pel2qGAxNw8DiQ6svy-BC9jw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d6myK_glwk4", "title": "Regata OS 24 Arctic Fox overview | Ready for those who love to play" },
+    { "id": "VIWFT_fq7cw", "title": "How to install Clear Linux 41300" },
+    { "id": "EN_s08m8aEs", "title": "How to install Fedora 40" },
+    { "id": "YvpOTcqq-nQ", "title": "Parrot 6.0 Home Edition overview | designed for developers and everyday users." },
+    { "id": "nGzZXux22gc", "title": "How to install BunsenLabs Linux Boron" },
+    { "id": "Hsaa8-hAIIU", "title": "SparkyLinux \"Xfce\" 2024.02 | powered by debian" },
+    { "id": "NsDWS12QXyY", "title": "How to install Kali Linux Xfce 2024.1" },
+    { "id": "khAjHZxQrWw", "title": "Kali Linux KDE 2023.4 overview | The most advanced Penetration Testing Distribution." },
+    { "id": "UWw0apBmDEE", "title": "How to install Oracle Linux 9.2." }
+  ]
+}

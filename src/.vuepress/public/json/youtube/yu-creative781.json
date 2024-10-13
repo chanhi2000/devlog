@@ -1,0 +1,57 @@
+{
+  "channel": {
+    "id": "creative781",
+    "name": "작가의 방",
+    "profile": "https://yt3.googleusercontent.com/MIh07LnAnf-FN-1pE5trrzICKFjVe5hM783ZhJbrjOy-dsAlvyF128Zm09FebUDBFq2UsMR7IA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f51otp5zUXN2IKhKQieL8TC5SBk_VrlcCSkOJw7ujv5Pztr5TKID8UQpaJHRBL1s46ChYCFw_Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "옵시디안 플러그인 열전",
+      "videos": [
+        { "id": "q0BRaH04upU", "title": "노션처럼 옵시디안 메모를 데이터베이스로 만들어보자" },
+        { "id": "Gir6qvuNx08", "title": "잊을래야 잊을 수 없게 만들어주는 옵시디안 리마인더" },
+        { "id": "3DvKX5fe9sc", "title": "시간에 이름표를 붙이자! 옵시디안 시간 관리 플러그인 Day Planner" },
+        { "id": "iuDEFvxSMXU", "title": "작지만 강하다! 옵시디안 필수 간단 플러그인 삼총사" },
+        { "id": "m2l67VyC4CY", "title": "메모창에 대시보드를  달자! 옵시디안 프로젝트 시각화 플러그인 칸반보드 Kanban" },
+        { "id": "0cweCQzm_UI", "title": "불편한지도 몰랐지만 나름 필수 기능! 옵시디안 폴더 패쓰 플러그인" },
+        { "id": "4JaRoKofYwo", "title": "옵시디안으로 유튜브 보면서 공부한다! 옵시디안 Media Extended Plug-in" },
+        { "id": "6fTNKqArLlE", "title": "옵시디안 요모조모를 한 방에 업그레이드 해주는 종합선물 세트 플러그인" },
+        { "id": "B8L70fNOmyM", "title": "메모를 바로 워드 파일로! 옵시디안 Pandoc 플러그인 사용법" },
+        { "id": "CDQqewnBxrI", "title": "AI 나의 보조 작가가 되어줄래? 옵시디안 Chat GPT" },
+        { "id": "CI17UN4IzGo", "title": "옵시디안 메모로 메일, 블로그, 워드프로세서에 쉽게 활용하기 Copy as HTML [한글자막}" },
+        { "id": "IZgCl_p78sM", "title": "옵시디안 여러 파일명을 한꺼번에 바꾸기 Bulk Rename" },
+        { "id": "KH_P3GKtS1k", "title": "[2022 최고의 플러그인] 할 일(Task, To do) 관리를 자동화 해주는 플러그인" },
+        { "id": "L2yax2QaWdg", "title": "비주얼한 메모로 업그레이드! 옵시디안 차트(그래프) 그리는 플러그인" },
+        { "id": "X8tRI-qPjb0", "title": "옵시디안 매일 사용하지만 한 번도 소개한 적 없는 쪼꼬미 3종 플러그인" },
+        { "id": "_3xGYkLJxc0", "title": "Auto Note Mover 옵시디안 메모를 자동으로 정리하자!" },
+        { "id": "aKJdI2i3aYU", "title": "복잡한 표도 문제 없다구! 옵시디안 표 그리기 총정리" },
+        { "id": "aMFmBty7Rvc", "title": "옵시디안 모든 메모에서 특정 단어를 찾아 바꾸기" },
+        { "id": "jHfxtpavll0", "title": "PDF로 공부하고 옵시디안으로 정리하고! PDF Highlights 플러그인" },
+        { "id": "mUYLE8M5o0I", "title": "마크다운 때문에 어렵다는 핑계는 그만! 옵시디안 WYSWYG 기능 추가" },
+        { "id": "pz-pHR83H4o", "title": "새해에는 옵시디안으로 좋은 습관 만들자. 강력한 해빗 트래커 [한글 자막]" },
+        { "id": "qgJrf7l8CqU", "title": "옵시디안에 비주얼한 내 서재를 만들자! 도서관리용 간단  플러그인 2종" },
+        { "id": "wn7PxYVIM-0", "title": "옵시디안 메모를 마인드맵으로 정리하자! Enhancing Mindmap 플러그인" },
+        { "id": "30btdLPW8zU", "title": "메모를 데이터베이스로! 옵시디안을 데이터뷰 플러그인 기초" },
+        { "id": "3DvKX5fe9sc", "title": "시간에 이름표를 붙이자! 옵시디안 시간 관리 플러그인 Day Planner" },
+        { "id": "G381zKzMdnQ", "title": "스크리브너 따라쟁이! 옵시디안 메모를 모아 긴 글로 편집하는 플러그인" },
+        { "id": "dMC1JwcgCds", "title": "없었으면 아쉬울 뻔! 옵시디안 태그 관리 필수 툴 Tag Wrangler" },
+        { "id": "m2l67VyC4CY", "title": "메모창에 대시보드를  달자! 옵시디안 프로젝트 시각화 플러그인 칸반보드 Kanban" },
+        { "id": "mOZujbC-pXY", "title": "일기 쓰는 어른이! 옵시디안 일기 쓰고 계획하는 플러그인들" },
+        { "id": "tTTXsY_edDU", "title": "옵시디안으로 영어공부! 옵시디안 to Anki 플러그인" },
+        { "id": "z8ChIkTV4K0", "title": "전용 앱 살 필요 없는데! 옵시디안을 아웃라이너로 완벽 활용" },
+        { "id": "pbxYoN_OGsE", "title": "새롭게 바뀐 일정 관리 최강자 플러그인" },
+        { "id": "1RzcXUP5DwA", "title": "지금까지 이런 체크박스는 없었다. 비주얼한 체크박스" },
+        { "id": "wFgRYXJID4k", "title": "기본만 충실해도 생산성 200% 옵시디안 메모 기본 잔기술 2편" },
+        { "id": "R52htPGHNDk", "title": "기본만 충실해도 생산성 200% 옵시디안 메모 기본 잔기술 1편" },
+        { "id": "eAPGGse5L3g", "title": "짧은 메모를 모아 스크리브너처럼 긴 글로 만드는 Easy Bake 플러그인" },
+        { "id": "V97_0rdH_LQ", "title": "[무료영화] '마녀 배달부 키키' (2014) / 원작 소설을 실사화한 영화" },
+        { "id": "6bbotX_hr70", "title": "드디어 찾았다 끝판왕! 옵시디안으로 유튜브 영상을 제텔카스텐 방식으로 정리하고 공부하자" },
+        { "id": "4I-5xyuyYjI", "title": "옵시디안을 콘텐츠 허브로 확장하는 추천 플러그인" }
+      ]
+    }
+  ]
+}

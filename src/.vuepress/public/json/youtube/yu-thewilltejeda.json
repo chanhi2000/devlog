@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "thewilltejeda",
+    "name": "Will Tejeda",
+    "profile": "https://yt3.googleusercontent.com/sMWpvGYJ5eKxeusA-DqRNd56A5TnWXoO6kQqEnrh01ltyf5S5i_-e7DF-mNr7qg4ngf6qBxkLw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9PtJaEzOYciK-2T2trscBvt8nae8wPaKp1n5jmuuvxqIg0gR5zpgZ_HPefSKX1zAgd_RkKBk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YIvxa1fUcmQ", "title": "Tired of Slow GUIs? Speedy CLI Tools with Python's click Library!" },
+    { "id": "_izXY2Vdjgc", "title": "Save Your F*cks! Python CLI 'F*ck It List' App!" },
+    { "id": "gvTCcqlDv3w", "title": "Let's Talk Ollama" },
+    { "id": "b6PGPyd_ajE", "title": "Let's make a quick HTMX Ollama Web App" },
+    { "id": "syiwwgnhmkQ", "title": "LLM Long Time" },
+    { "id": "nKOvmi6AqzY", "title": "Let's Stay Connected While On The Road With T-Mobile 5G \"Home\" Internet (Featuring Ollama)" },
+    { "id": "VOzgTd1k9eg", "title": "Looking at Zed real quick" },
+    { "id": "GGyFiNIt9Fg", "title": "Let's make Trendy Apple MacOS style Wallpapers with Diffusion Bee (Stable Diffusion XL)" },
+    { "id": "C0WaCiKmozY", "title": "Let's Level Up Continue Code Completion in VS Code: Runpod and Ollama For External GPU Power!" },
+    { "id": "gKQC2BpubUk", "title": "Let's Dive into Code GPT for VS Code: An Open-Source Copilot Alternative!" },
+    { "id": "WkPu7ItzfSI", "title": "Testing Pi 4 #developer #camping #nomad #vanlife #raspberrypi #ollama #llm" },
+    { "id": "6d0qeM-kQrM", "title": "No Backend? No Problem! See How HTMX & Nunjucks are Changing the Game!" },
+    { "id": "5HSz9EVEstI", "title": "HTMX #5: Electron Killer!?!? Lightweight Cross-Platform Desktop Apps With HTMX, Flask And PyWebView" },
+    { "id": "2b0l2qagaF8", "title": "HTMX #2: Rick And Morty Content Library Example With Active Search!" }
+  ]
+}

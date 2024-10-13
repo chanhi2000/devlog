@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "codetowin",
+    "name": "Code To Win",
+    "profile": "https://yt3.googleusercontent.com/xaLDJCsT26JPEonNo8Ef0CIUB_waUyvA6xLjwtZiaBUYRxI4Z0lyFaazqCoNe-_IVSZUGmFMLg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vyWbWikBtVgIyObWdfWzCPVZfxYHEoFeiwRWriqamXXuymoetujzC1hhVCAHjP9BeBcGaGOFlw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "I-C_YmXMpjI", "title": "What is SORA by OPEN AI ? | New Text to Video Creation Generative AI" },
+    { "id": "H4pTHzrZfig", "title": "GIT BLAME | GIT Concept | BLAME YOUR TEAMMATES XD" },
+    { "id": "g3CYGpWiM2A", "title": "Web3Forms - The BEST Contact Form for your website | FREE, No BackEnd and No database" },
+    { "id": "YvIn9Fsbhh0", "title": "Install STM32 CUBE IDE | WIndows - MAC - LINUX" }
+  ]
+}

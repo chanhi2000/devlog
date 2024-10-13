@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "kukjinman",
+    "name": "SW비전공자 국진맨",
+    "profile": "https://yt3.googleusercontent.com/GZdLC5PltJI-XdQgVgyrgQw2qeLFMmT5B8HuqpJZK2C-ZSFNTcjeigj6MVUSGXLouKuO47k6=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u8DZzfQ_1pPrBWp44ZmmaG_2nseeb24uXKwDP1Pn5OvUKP6muaAZlZ6lRrF2mLCOpyK0fjPzIQU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7hyEUHdEa18", "title": "EP. 03-extra - TiStory BlogWriter gpt-4o api사용 및 사용 금액 보기 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "BucNoia8Bjc", "title": "EP. 04-1 - TiStory BlogWriter gpt api 결과 tblogManager로 전달하기 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "u0TDu-_HuVE", "title": "초보자도 쉽게 할 수 있는 Python GPT API 가이드 - 코드 구현, 이용요금 충전, 사용량 확인" },
+    { "id": "vjgWcaXPrvA", "title": "EP. 02-extra - TiStory BlogWriter TechCrunch 사이트 요소 못 찾는 에러 해결 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "d8jBBJNoZnU", "title": "EP. 03-1 - TiStory BlogWriter gptManager 생성 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "0BZex_chVIM", "title": "EP. 03-2 - TiStory BlogWriter 크롤링 결과 gpt manager로 넘겨주기 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "u194XPsxiBs", "title": "EP. 01-4 - TiStory BlogWriter  티스토리 블로그 개설 및 글쓰기 페이지 이동 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "JcU1JKo-Fs8", "title": "EP. 01-5 - TiStory BlogWriter Remove Alert Pop-up & Refactoring : TistoryBlogWriter Python" },
+    { "id": "96bAbiq810Q", "title": "EP. 02-1 - TiStory BlogWriter Access to the TechCrunch Website: TistoryBlogWriter Python" },
+    { "id": "OYyHwQBnCxA", "title": "EP. 08-17 - Todo List X버튼 추가하기 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "nj4pErUTXAc", "title": "EP. 02-2 Access to Headline Post link & WebDriverWait : TistoryBlogWriter Python" },
+    { "id": "sZEruLTQlx8", "title": "EP. 02-3 - crawling headline post title and content: TistoryBlogWriter Python" },
+    { "id": "rIeO4n0sQHQ", "title": "EP. 02-4 - TiStory BlogWriter 제목,본문 list에 저장하기 + EP02 마무리 : TistoryBlogWriter 프로그램 만들기." },
+    { "id": "J16EW1qF6Wo", "title": "EP. 00-2 - TiStory BlogWriter&nbsp;&nbsp;환경설정&nbsp;& 구현 item 정의 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "qSusXHkYGI0", "title": "EP. 04 - Python의 datatype & 자료구조 : 파이썬 Python 기초부터 알아보자!" },
+    { "id": "_EbJIxT7Hns", "title": "EP. 08-16 - Todo List DateBase 구현 하기 - 8 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "apfzScxQfaw", "title": "EP. 05 - Python의 if문 : 파이썬 Python 기초부터 알아보자!" },
+    { "id": "E_vbv8NnVEA", "title": "EP. 01-1 - TiStory BlogWriter  Selenium & Webdriver 구현 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "BtGEQyi4Tgg", "title": "EP. 06 - Python의 while문 : 파이썬 Python 기초부터 알아보자!" },
+    { "id": "L5pSXJ0wTlY", "title": "EP. 01-2 - TiStory BlogWriter  웹크롤링 - 웹요소 가져오기 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "E4uQJQOLviY", "title": "EP. 01-3 - TiStory BlogWriter  웹크롤링 - id, password 넣고 login하기 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "es-8HGUFtL0", "title": "파이썬 자동화프로그램 - TiStory BlogWriter 강의 시작합니다. #티스토리 #자동화프로그램 #파이썬 #파이썬블로그 #코딩초보 #python #비전공자  #초보코딩" },
+    { "id": "F23OB_LZG-c", "title": "EP. 08-12 - Todo List Todo List Database 짜기 - 5 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "wBmgYZQdTz0", "title": "남들 다하는 Commit 나도 해보자. [PyCharm 편]" },
+    { "id": "X11rSdhXHrg", "title": "EP. 08-13 - Todo List Todo List Database 짜기 - 6 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "MPeE-QhxJZM", "title": "EP. 02 - Python의&nbsp;Interpreter : 파이썬 Python 기초부터 알아보자!" },
+    { "id": "Bq4ap1odDBM", "title": "EP. 00-1 - 자동화 프로그램 BlogWriter 소개 : TistoryBlogWriter 프로그램 만들기" },
+    { "id": "0UYxi4GwEBY", "title": "EP. 08-15 - Todo List DateBase 구현 하기 - 7 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "Shy3a0IBpU4", "title": "EP. 08-10 - Todo List Todo List Database 짜기 - 3 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "ey0ZQ3i0DFE", "title": "EP. 08-11 - Todo List Todo List Database 짜기 - 4 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "XL0tKzh8S7g", "title": "PyCharm 설치 안되는 사람 드루와!! : IDE 환경설정" },
+    { "id": "7ncN07juRrs", "title": "EP. 08-8 - Todo List Todo List&nbsp;Database 짜기 - 1 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "ECHNseXHNek", "title": "EP. 08-9 - Todo List Todo List Database 짜기 - 2 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "zTjmcWQ3rlI", "title": "EP. 08-8 - Todo List Todo List Database 짜기 - 3 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "yyzFwzmNHsg", "title": "EP. 08-7 - Todo List FullCalendar 날짜 가져오기 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "e2SaHFiG1NI", "title": "EP. 08-5 - Todo List 스타일링 - 3 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "gCv_Q8IJrfs", "title": "EP. 08-4 - Todo List 스타일링 - 2 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" },
+    { "id": "y3eWdb3UOug", "title": "EP. 08-3 - Todo List 스타일링 - 1 : 비전공자도 쉽게 따라할 수 있는 코딩의 첫걸음 - 웹페이지만들기" }
+  ],
+  "playlists": [
+    
+  ]
+}

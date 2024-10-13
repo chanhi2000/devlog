@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "The-DIY-Guide",
+    "name": "The DIY Guide",
+    "profile": "https://yt3.googleusercontent.com/qF1XpmA9tugFuSsCgp7KS_j13ogVtBKf7qNMQgNRU0bcWv_a1ROyWuahbJ8QB9XyrFudmbUuNA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DAHk8_PI3QwEvCStdUDYhR3LJe17-wCcL_kVFg9ioLEUXTsgA-0CHe-CqSGhvNCIYNHZjDGi=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZZFKZvIGIfw", "title": "How to Install Bathroom Mirror, Easy 5 Mins | The DIY Guide | Ep 86" },
+    { "id": "kayvGYLNAgI", "title": "How To Connect a Hose To a Shower Head | The DIY Guide | Ep 97" },
+    { "id": "ROfc12hBuSM", "title": "How To Add Latch and Lock To Door | Secure Door For Less Than $30 | The DIY Guide | Ep 101" },
+    { "id": "gLzP8T2WkBU", "title": "How to Change Codes on Lockly Smart Electronic Lock | The DIY Guide | Ep 81" }
+  ]
+}

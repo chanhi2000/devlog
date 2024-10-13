@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Technology_Edu",
+    "name": "알쓸기술",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZT_BHyJiVqFYvlXQHuLo191-kbuCzwBR47svx3OA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N7x-IocnpGbtBHClwPolJcKLHRNSKsJZ0Cyiz2WP7GnCNeojU9633IZPOZSoynceCto50lPStB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P-PwYn9FuCY", "title": "갤럭시탭 사용하는 분들은 필수 시청! 5분만 투자해도 공부 효율 200% 향상됩니다. | PC화면 캡쳐해서 태블릿에 붙여넣기" },
+    { "id": "_nGdHsBI2kc", "title": "코딩 1도 모르는 사람이 Chat GPT로 원하는 프로그램 만들기 | 30분 완성, 지각 체크 프로그램" }
+  ]
+}

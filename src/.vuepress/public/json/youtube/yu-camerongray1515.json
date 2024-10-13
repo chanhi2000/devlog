@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "camerongray1515",
+    "name": "Cameron Gray",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb23vdAZ04CbCUtddW3zf3THz7E-HuflLB2HEoncg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7x8rsuHAv15jxBiEqYt-SMoE81WxmMPjXbpdDcxjkTj7Mvqix9tv4AoQmIeWx9C-vdYypyHCMQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MuisJBHeTrg", "title": "The ULTIMATE Label Printer for Network Infrastructure - Brother PT-E550W" },
+    { "id": "xAEQpWyfY-c", "title": "This USB KVM Console is Awesome! - Openterface by TechxArtisan" },
+    { "id": "Di80IaXNOq8", "title": "New UniFi Dream Machine Pro Max - First Look & Performance Tests!" },
+    { "id": "cQSxxbxFflk", "title": "Installing a Super Compact Home Network & UniFi Protect CCTV Setup" },
+    { "id": "RWP_rZlZg_0", "title": "My new Thunderbolt Docking Setup with 10 Gigabit Ethernet!" },
+    { "id": "BE6ZJmede5Q", "title": "Installing a Complete Multiroom HDMI Distribution System - OREI UHD48-EX230-K" },
+    { "id": "FwIjK5cN5lU", "title": "Building My New Proxmox Server! - ASUS RS100-E10-PI2" }
+  ]
+}

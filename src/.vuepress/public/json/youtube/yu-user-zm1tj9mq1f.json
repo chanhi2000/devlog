@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "user-zm1tj9mq1f",
+    "name": "크래프트맨 멘탈리티",
+    "profile": "https://yt3.googleusercontent.com/iEqYvVp3YI_TtzcnIhT1t6xSdyWgGJlmoxe5izhtt27ZQXTOa4kIta5_abqqlVB7GF6Ene6s1w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jijSaorfj-YF-uOdyWzochcJFn6p-6ZvC5joCnh2s3Lmm14B1_nAWFEcxemFuVADpeLedHhcrw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dsoAkoxZ13o", "title": "네트워크 기초 무료 강의 | 새내기 개발자들을 위한 필수 가이드" },
+    { "id": "MmePtqiDsV8", "title": "전기가 정보가 되는 과정 | 개발자 관점으로 보는 네트워크 - 1탄" },
+    { "id": "j8vXaGMJxQI", "title": "퇴근 후 파이썬 장인 되기 (기본편) | 천천히 그러나 뿌리와 깊이가 엄청난 파이썬 강의" }
+  ]
+}

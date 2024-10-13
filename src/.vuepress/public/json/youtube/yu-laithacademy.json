@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "laithacademy",
+    "name": "Laith Academy",
+    "profile": "https://yt3.googleusercontent.com/t_TrBp9Vyn2nhEJh5uz6Z9f8JbxVA_KZvkJSLiJadQRCmFF_wkHmnTL1y8dCqP7VWU4lLLmBmw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oTO81EzJf1FudIXjshmGgjV6XJWLKHc4D7Axx3GhAItgJOpD4nmVlUWvA9OjpPSrZ5IBr3u9gLM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EnY6fSng3Ew", "title": "HTTPS, SSL, TLS & Certificate Authority Explained" },
+    { "id": "BWJ01f-s3S4", "title": "The Modern React 18 Bootcamp" },
+    { "id": "B6hmetsV3yI", "title": "Nuxt 3 - Building a Complete Project" }, 
+    { "id": "7VAI73roXaY", "title": "The NGINX Crash Course" }, 
+    { "id": "KfGr49Z7OaA", "title": "The Docker Crash Course" }, 
+    { "id": "jrKcJxF0lAU", "title": "React with TypeScript Crash Course" }, 
+    { "id": "o6VwbXSjM08", "title": "The Svelte Crash Course" }
+  ]
+}

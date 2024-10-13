@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "kodedge",
+    "name": "kodEdge",
+    "profile": "https://yt3.googleusercontent.com/oWGAl6PbdLXb8MY8inukvooDiMz2NKdVcPBcvQ7rMuwFyy0TxA7wCcwWYHhFGLl-y0dW2BmaSA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8zU5yuENMaX22fyEm2826c4hjuUWVi_rwLYcIN5MbHkKX9yfOmuRO5W90AM7lHPFLLxuNe9wcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "54r_XhU0sLI", "title": "How to Connect to Amazon EC2 Instance from Local Machine | Transfer file from local to EC2 using SCP" },
+    { "id": "uN05DrdZRSY", "title": "1.Terraform Introduction (IaC) | Terraform with AWS Course" },
+    { "id": "hOr38M6pVYw", "title": "2.Create Resource in AWS | Terraform with AWS Course" },
+    { "id": "VLcvkpUFUMo", "title": "4. AWS VPC using Terraform | Terraform with AWS tutorial" },
+    { "id": "wnUOJ3B6piY", "title": "Deploy SpringBoot app using AWS Elastic Beanstalk in AWS | Amazon RDS" },
+    { "id": "aXOB4tR0ONU", "title": "Deploy SpringBoot app with MySQL on Amazon EKS | Elastic Kubernetes Service | Step by step tutorial" },
+    { "id": "bgeOIOctYSY", "title": "Securely connect to Private AWS RDS Database from Local System | SSH Tunnel" },
+    { "id": "xSKRyv08mo8", "title": "Build Serverless Web Application on AWS" },
+    { "id": "WwoxnIy9seQ", "title": "Create AWS VPC with Private and Public Subnet | Application Load Balancer | NAT Gateway" },
+    { "id": "luEUTR4cYl4", "title": "Alerting using Prometheus and Grafana | Alerts on Slack- Part 3" },
+    { "id": "kGNpVMDEWiA", "title": "Monitoring database with Prometheus and Grafana dashboard | Part-4" },
+    { "id": "5c-o6PKlhEQ", "title": "Monitoring Kubernetes and Spring Boot service using Prometheus and Grafana - Part 2" },
+    { "id": "M6ZavWvKlcc", "title": "Deploy Spring Boot App on Kubernetes cluster (minikube) using Helm Chart - Kubernetes tutorial" },
+    { "id": "yet0-x8Ab6c", "title": "Deploy Spring Boot App with MySQL on Kubernetes cluster using Helm Chart : Kubernetes tutorial" },
+    { "id": "6uc3zHywWIw", "title": "Monitoring Microservice using Prometheus and Grafana - Part 1 | Setup Grafana Dashboard" }
+  ]
+}

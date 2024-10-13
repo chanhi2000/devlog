@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "howl_coding",
+    "name": "하울의 코딩 채널",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMsHNFzLft_OAYqSiW9qe7xUXUF4VI6ejMYjrqmDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gTk2TtNDSox9PcUFFdRI6fRXffTEiLcK6SP7OdMvb87O43qFBWR2Me0oqZc2p32rHW738Adm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7QXH8UNo9tU", "title": "EP11 - Mvvm 안드로이드 인스타그램 앱 만들기 - 사진 리스트 읽기" },
+    { "id": "cHqJdrPht6A", "title": "EP09 - Mvvm 안드로이드 인스타그램 앱 만들기 - 사진 업로드하기" },
+    { "id": "8Tc2YKYk5Mk", "title": "[[안드로이드 앱] 영상통화앱 만들기 [1 / 5] - 취직, 과제 포트폴리오가 필요해? 카카오에 있는 화상채팅 만들기" }, 
+    { "id": "Jttv5WAAdgE", "title": "[[안드로이드 앱] EP.03 - 인스타그램 앱 만들기 구글 로그인 (야너두 코딩 과 개발자 할 수 있어)" }, 
+    { "id": "ifKvBpFUZFY", "title": "\"Firebase로 안드로이드 SNS 앱 만들기\"  - 1일차" }
+  ]
+}

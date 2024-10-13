@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "mychew",
+    "name": "개발자_마이쮸",
+    "profile": "https://yt3.googleusercontent.com/CSm1j3wmM6BYpyVgj7oz34ggyJvXEcCWvS8D7XDQlfECCopRHeD_phjEOnSHCIhKK-FIymexyTk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SfWty4UJb5zWK4jK_dIQVu92JLaxzGeMpaKys5j2c9FoQ0-8EypcmL2lrV72tg0zIZtVGrH2lhs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3HFXlIVzeVY", "title": "오랜만에 방송틀고 코딩하기 ^오^, 주말엔 사이드 프로젝트 고고" },
+    { "id": "toNSuIdwqz8", "title": "기획하는 개발자 vs 개발공부하는 기획자 | 개발자들은 정말 개발지식이 있는 기획자를 원하는가? | 어떤 기획자, 개발자가 협업을 잘하는가!?" }
+  ]
+}

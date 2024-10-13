@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "codewithsudarshan",
+    "name": "Sudarshan Shah",
+    "profile": "https://yt3.googleusercontent.com/bKwUfQoWPTHNfE99XHo7czhk11mpiwt-9EDXeBL3eHCDpC7FNGA-H3xjwLmbPPU15W_cGd3u=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/O8GNQeg8gamZpTkRr2ziNCJYjfdh3jco00g1JpQAjd-9zvJBlk8AMtJW-4JnsJ4fxekPJVFH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9hAxistRv9E", "title": "What's Coming Up? Content and Series" },
+    { "id": "XrdWv5M7Ua4", "title": "Project Setup - Spring Boot + MongoDB Series" },
+    { "id": "TrFGNEEdyNE", "title": "Lambda in KOTLIN | Function as Parameter & Argument | Trailing Lambda" },
+    { "id": "-boxo2bfVeM", "title": "Create and Get APIs | Swagger OpenAPI Integration | Spring Boot MongoDB" },
+    { "id": "ltTHveikW4Y", "title": "Finishing CRUD operations | Update/Delete Endpoints | Spring Boot MongoDB" },
+    { "id": "g7tYNtw46xk", "title": "Arrays in KOTLIN | All important methods | Mutable vs Immutable references" },
+    { "id": "86Lk016z05Q", "title": "Aggregation Pipelines with Spring Boot MongoDB" },
+    { "id": "dOUhhYe4wpo", "title": "Complete Spring Boot Project Course 2024" },
+    { "id": "1vHHgVsRaDk", "title": "Forgot/Reset Password | Email verification with OTP | Spring Mail" },
+    { "id": "5FMbhh7q8GQ", "title": "Type system in Kotlin | val & var | 'const' Keyword" },
+    { "id": "rPCz3Yq4uTg", "title": "Conditionals, Loops and User Input in KOTLIN" },
+    { "id": "52UxqY5HGac", "title": "Functions in KOTLIN | Default and Named Parameters | Function reference" },
+    { "id": "nt4Wg5m-FzY", "title": "How to handle Exceptions in Restful API | Displaying proper error messages |  Spring Boot" },
+    { "id": "36NjAxIjhp8", "title": "Stream API in Java | What is Stream? | How Stream works? | Explained with examples" },
+    { "id": "Ak85BnrB8gc", "title": "Exploring StreamAPI with Examples | Second Largest Element | Pattern Matching | Java" }
+  ],
+  "playlists": [
+
+  ]
+}

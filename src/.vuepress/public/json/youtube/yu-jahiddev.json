@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "jahiddev",
+    "name": "Jahid Anowar",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYRHyJPZjsfu55khZkpLTB_Xzraylfz8mbkK__Kxss=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/79QCh2DxiIOMWp3wwA8fCGBdNUHGKDsn4e354F4lZ11qR2CVwkTbayk0W0kkb1-zs6XJIy3vdoI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PYbYf2JCRD8", "title": "PrimeVue - The Complete UI Library for Vue Ecosystem" },
+    { "id": "iZ4KswQtOoQ", "title": "Exploring the Nuxt Ecosystem: Nitro, H3, ofetch..." },
+    { "id": "l2ciF0NcgDA", "title": "Build and Deploy a Full Stack SaaS Trello Clone Using Nuxt JS 3, MongoDB, Tailwindcss, Stripe" },
+    { "id": "PYbYf2JCRD8", "title": "PrimeVue - The Complete UI Library for Vue Ecosystem" },
+    { "id": "1P4ObGatgnU", "title": "Nuxt UI: Form Validation with Zod" }
+  ]
+}

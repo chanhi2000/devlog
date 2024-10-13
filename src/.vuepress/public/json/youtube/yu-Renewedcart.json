@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Renewedcart",
+    "name": "Cat Technologies",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMA_bpt-mj6wDJvcESfvt6Umkvm143tN1zyKh3SicY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vRWKO6xvNz1DQuz5f70HhhoM1QhjaEoDf5jTeQlzMPo-Q9GRpMvqHD1bzHA3IVBMDfld0MFcaEE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6xq6ouw3C6o", "title": "Hybrid Native Is an Cordova / Phonegap App Ready with all Native Device API" }, 
+    { "id": "1u5mA9J5FTg", "title": "Create your first cordova app and publish to google play store" }
+  ]
+}
+

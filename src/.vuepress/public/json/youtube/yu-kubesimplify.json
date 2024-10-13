@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "kubesimplify",
+    "name": "Kubesimplify",
+    "profile": "https://yt3.googleusercontent.com/C0yjKK1QiycRrClxj22F-nOsXCqolSKuUz178S2WysroQ-7VKtcoTsWuRl4OUn8lo-02-nlazQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p453_K2bg707VFD9LM4RoMvsfwArj0Y-ejFKExtQiWHkzDvTGuOkzuov94KsdoGryORZSQYH5w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NTTRExjY9G4", "title": "Kubernetes 1.30  - How to create Kind cluster with Latest Release" },
+    { "id": "piHhlfVHo38", "title": "Automate your tasks using Taskfile" },
+    { "id": "1vHrf7-D3oI", "title": "Hands on Dagger workshop - Solomon Hykes" },
+    { "id": "rEQh8aEGo5o", "title": "Hands on GPTScript" },
+    { "id": "liwZF_0I8Ks", "title": "Perform CRUD Operations On Kubernetes Using Golang | Kubernetes API Guide" },
+    { "id": "wPuoMaD_SnY", "title": "Run Llama 3 locally using Ollama and LlamaEdge" },
+    { "id": "3aXFBtx4oVE", "title": "Wasm aka WebAssembly on Kubernetes using Spinkube and Rancher Desktop" },
+    { "id": "ujHe-4QP9og", "title": "Making the CNCF Landscape Interactive with Meshery" },
+    { "id": "t0iJGEG0IXk", "title": "vLLM on Kubernetes in Production" },
+    { "id": "8lcc6jU9zfI", "title": "How to build 0 CVE docker images? Can there be a better solution?" },
+    { "id": "hnHr0wr5jbY", "title": "Effective Ways To Manage Secrets in GitOps | By Kunal Verma" },
+    { "id": "tBq4-z4kpnA", "title": "Kubernetes reliability in 2024" },
+    { "id": "1vHrf7-D3oI", "title": "Hands on Dagger workshop - Solomon Hykes" },
+    { "id": "tBq4-z4kpnA", "title": "Optimizing Kubernetes Reliability in 2024 with Komodor | Kubesimplify Webinar" },
+    { "id": "eYekV2Do0YU", "title": "The Complete WebAssembly Course - From BEGINNER to ADVANCED!" },
+    { "id": "uAtzPRehBl4", "title": "Glasskube  - New package manager for Kubernetes?" },
+    { "id": "yoMlS-VVbNc", "title": "Kubernetes 1.29 - Mandala" },
+    { "id": "yifrTO7gDPM", "title": "Simplify Add-On Management in K8s with Sveltos | Kubesimplify Webinar" },
+    { "id": "PN3VqbZqmD8", "title": "Kubernetes 101 workshop - complete hands-on" },
+    { "id": "Pys6fyQxDTE", "title": "Kubernetes Certifications | AMA Session w/Saiyam Pathak" }
+  ]
+}

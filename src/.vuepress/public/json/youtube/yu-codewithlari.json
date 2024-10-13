@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "codewithlari",
+    "name": "code with lari",
+    "profile": "https://yt3.googleusercontent.com/jyF0WXBMAKSsH7gvbZc6viC_nL8nDLvJzrrhG2rRNnZ5S9U72tl-z2dCyJX7f9amplV1KeudpA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ROwcuWtwFPFr9yp4gfray_aPyi0ekSTisFYsluqe-2nca9mS2wuKVie3w_ccQKBpXGezxBlR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Sl4sg33-PEk", "title": "remix.js tutorial v2" },
+    { "id": "j8TLlpiww1s", "title": "Beginners Flutter Course. Master provider for state management / Theming / CRUD (Todo App)" },
+    { "id": "oInr6bSl9oU", "title": "Next.js 14. Build and deploy a YouTube clone" },
+    { "id": "HKJ-ghEE0j8", "title": "Fullstack Hotel Management Website: Next.js 13, React, CMS, Sanity.IO, Tailwind Stripe | Deployment" },
+    { "id": "7Az9769yZBI", "title": "Build and deploy a full-stack AI-powered Project Management Platform (Next.js 13, Prisma, MongoDB)" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "unconv",
+    "name": "Unconventional Coding",
+    "profile": "https://yt3.googleusercontent.com/SPdqSXF-uN-T1Eerh8mbUiFdrKWPzSbPfvjD3iEgq_8GSAoxnXOCfwqAppfZcDq1FEKZBHNFwQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Nypn3yolcdBtwhfG0rhp8vU98hL_1xN0QbSl-myEPr-anxFUq1nO8ceLK25Utdzfiu_cXDWj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G7xBF4mcauM", "title": "Automatic AI YouTube Short Captions w/ Whisper and CV2 (Part 5)" },
+    { "id": "_u8pHotS25E", "title": "Python + GPT-4o + Flask = AI Meal Calorie Detector (GPT-4 Vision API)" },
+    { "id": "_g2cH8woUzs", "title": "Deploying a Flask Web App on AWS EC2 (Gunicorn + Apache w/ SSL Certificate)" },
+    { "id": "T8P9Cw1m9Z0", "title": "Use This Python Library to Add Stylized Captions to YT Shorts" },
+    { "id": "RNbIHrdTcdw", "title": "AI-Powered ASCII Art Generator in Python | Images to ASCII Art Converter" },
+    { "id": "kIxYMJUrYW0", "title": "MoviePy is an Awesome Python Library for Automatic Video Editing!" },
+    { "id": "a-y5qqMosjA", "title": "Puzzle Game in C with Raylib" },
+    { "id": "3du93ZqQAW0", "title": "Python is low-class. Switching to TypeScript" },
+    { "id": "DXMUR0fNUak", "title": "Reverse Engineering Gmail's Autocomplete Feature" },
+    { "id": "dh3oVk6Mvbc", "title": "My Tool Will Be Better Than Gmail's Smart Compose | Autocomplete w/ ChatGPT" },
+    { "id": "Sta4Bya44Gk", "title": "Adding NPCs to my C Raylib Game | First Game in C Part 3" },
+    { "id": "42IGSoWNBs4", "title": "Syncing YouTube Short Captions to Voice Automatically with Whisper | Shortrocity Part 4" },
+    { "id": "HXF7lX-qo3A", "title": "AI YouTube Short Generator Part 3: Overlaying Transcript On The Video" },
+    { "id": "VeQR17k7fiU", "title": "GPT-4 Vision API + Puppeteer = Easy Web Scraping" },
+    { "id": "M0kNE6PR7-k", "title": "Creating YouTube Shorts with AI (GPT-4 + ElevenLabs + DALL-E 3)" },
+    { "id": "PMLg6Rr8fcU", "title": "GPT-4 Vision Browsing Part 2: Following links with Puppeteer" }
+  ]
+}

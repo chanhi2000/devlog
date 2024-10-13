@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "coderized",
+    "name": "Coderized",
+    "profile": "https://yt3.googleusercontent.com/ZuYgfiv-zpkU-nx3wXODy2VVu-09Zb673Zuk8T6C7j_zyxPlAu_SdSeXAA4vtNpzEvpiBNOHGQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CBSl3HJ54F9_a9z4RStoVRIq2e3gAMNR7OsOoT_6hu3I3sNF7b5g-cvEuMNCEP7d1TUvlXlhNg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "J0NuOlA2xDc", "title": "Never install locally" },
+    { "id": "q1qKv5TBaOA", "title": "How principled coders outperform the competition" }
+  ]
+}

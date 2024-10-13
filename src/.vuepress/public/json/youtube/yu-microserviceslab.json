@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "microserviceslab",
+    "name": "Microservices Lab",
+    "profile": "https://yt3.googleusercontent.com/DIKqpmIzip39YkGhpb7j-kpWYj5XikR5abSc71SOAb9cnNNT7o2VjGbRhZ0xtEmDLgN6DZ3PRA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qliSr8AxdFtNfClBjmSnmZs1VVo1Um8eBIMMLRt9HyKs-gfQuFg3bp_Uw61p8JO_QMnUD9v2=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1sm3cA06YfQ", "title": "Concurrency in Java: Unraveling the Mysteries of ConcurrentHashMap. #java #coding #datastructures" },
+    { "id": "1R92X0_ZodY", "title": "Java Agents: Explained within 60 seconds. #java #coding #programming #javaprogramming" },
+    { "id": "SDz4ItoVKfo", "title": "GraphQL Spring Boot #11 - Querying nested object." }
+  ]
+}

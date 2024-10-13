@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "SebastianDaschnerIT",
+    "name": "Sebastian Daschner",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMgkY_ifqSBYUiLjjT2tdZ3-uc35Sy0AeJcKD9ihQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZQcq71wilh6QLITxyGFB7fOuKVKi2ELVj6Pz_mHiGbsUn-Yw8eRAV8ie-RzHEpDCoZ47vKRx=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8nduKsOs0vU", "title": "13 Cool IntelliJ Features (You Probably Didn't Know)" },
+    { "id": "-afP8cpBpXU", "title": "A Simple Plain Text Knowledge System" },
+    { "id": "5WmHbSnHVHc", "title": "5 Ways to Debug Quarkus Applications" },
+    { "id": "8CZIv3MJvic", "title": "Tour of My Dotfiles" },
+    { "id": "5BU2gBOe9RU", "title": "Vim Tips I Wish I Knew Earlier" },
+    { "id": "mU74XKmUMbw", "title": "Uploading Files With Quarkus (Update)" },
+    { "id": "Ewpk5kGfbko", "title": "Effective Developer Workflows With Quarkus" },
+    { "id": "kp0kfcgMT_U", "title": "Why I'm Using a Tiling Window Manager" },
+    { "id": "ktGq4ks1f74", "title": "How To Become Better At The Keyboard" },
+    { "id": "HsXGMN1Xups", "title": "Quarkus Panache Active Record vs. Repository Pattern" }, 
+    { "id": "dFZjr3DYdA0", "title": "Helpful Command Line Scripts and Automation in My Setup" }, 
+    { "id": "HcxLzrv_BCY", "title": "How to Use Java Records With Quarkus" }, 
+    { "id": "_6RqQe8sncY", "title": "Using Gmail More Effectively" }, 
+    { "id": "gccGjwTZA7k", "title": "10 Advanced Vim Features (You Probably Didn't Know)" }, 
+    { "id": "uR8D9Dm6AFc", "title": "Neo4j OGM With Quarkus Extension (Update)" }, 
+    { "id": "LCuC88s6m4k", "title": "Creating and using a Telegram Bot with Java" }, 
+    { "id": "c6I3Dw0xDlQ", "title": "How to Build a Simple REST API With Ktor + Android App" }, 
+    { "id": "KgutZKElshI", "title": "5. Karate Framework || Understanding Response Keyword." }, 
+    { "id": "qJA6MaQ90YY", "title": "6. Introduction to CQRS - Event Sourcing, Distributed Systems & CQRS" }, 
+    { "id": "ylohuR0fzz4", "title": "Effective Bash scripting for developers (without sysadmin experience)" }, 
+    { "id": "u1ovHJXkPBY", "title": "Learn GraphCMS and GraphQL by building a Next.js Disney+ Clone" }, 
+    { "id": "xw_PYkZggKI", "title": "Configuring plain Java using MicroProfile Config" } 
+  ]
+}

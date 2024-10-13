@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "wasmio",
+    "name": "WASM I/O",
+    "profile": "https://yt3.googleusercontent.com/KJBCo0TssDFYejSVmO-6ymHOZjgW-9E2u-z5jJsL8GTQMNmaA0WLZnrLZ3lQ79X94oszQ0vemA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M6veTM79UCnod5s3Ibothrsio9pgu3fnD5kOLQ3wvIg_5WDQ4qUDVqn3WLMaWhzVFFeFfJRnYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2_-10mRN30s", "title": "Filling a Registry-Shaped Hole in the Wasm Component Ecosystem by D. Macovei / O. Spencer @ Wasm I/O" },
+    { "id": "y3x4-nQeXxc", "title": "A stream of consciousness on the future of async in the Component Model by Luke Wagner @ Wasm I/O 24" },
+    { "id": "_Gq273qvNMg", "title": "Compiling Python to Native Wasm by Syrus Akbary @ Wasm I/O 2024" },
+    { "id": "zqfF7Ssa2QI", "title": "Deconstructing WebAssembly Components by Ryan Levick @ Wasm I/O 2024" },
+    { "id": "2En8cj6xlv4", "title": "WebAssembly at Google by Thomas Steiner & Thomas Nattestadt @ Wasm I/O 2024" },
+    { "id": "ff9KSGsxmiQ", "title": "Programmable Embedded Vision Sensors by Dan Mihai Dumitriu @ Wasm I/O 2024" },
+    { "id": "ChZpveTipPU", "title": "Extism 1.0, your framework to build with WebAssembly by Steve Manuel @ Wasm I/O 2024" },
+    { "id": "CkV-nWFXvbs", "title": "Paint by Numbers: High Performance Drawing in Wasm by Sean Isom @ Wasm I/O 2024" },
+    { "id": "NFbjQNqWi94", "title": "WebAssembly Component Model: What? How? And why you should not ignore it! by Thorsten Hans @ Wasm IO" },
+    { "id": "8GPOy7x-iKw", "title": "Running JS via Wasm faster with JIT by Dmitry Bezhetskov @ Wasm I/O 2024" },
+    { "id": "fHPYetd3q2g", "title": "Building Durable Microservices with WebAssembly by John A. De Goes @ Wasm I/O 2024" },
+    { "id": "sofGOtwGWu8", "title": "Nobody Knows the Trouble I've Seen: Debugging Wasm for web and server by N. Venditto & R. Squillace" },
+    { "id": "d4MpdItNtfg", "title": "Empowering Go with WebAssembly System Interface (WASI) Unleashed by Rajiv Singh / Achille Roussel" },
+    { "id": "eEjrlctqTF8", "title": "Kotlin/Wasm — Compile Once Run Everywhere by Zalim Bashorov @ Wasm I/O 2024" },
+    { "id": "2Jr9Sx98ls8", "title": "WebAssembly at the Core of the MultiversX Blockchain by Robert Sasu @ Wasm I/O 2024" },
+    { "id": "0oq7kSf7zfI", "title": "Computer Vision at the Edge with WebAssembly by Miguel Ángel Cabrera & Angel De Miguel @ Wasm I/O 24" },
+    { "id": "jrnMhWiV23w", "title": "Chicory: Creating a Language-Native Wasm Runtime by Benjamin Eckel & Andrea Peruffo @ Wasm I/O 2024" },
+    { "id": "Ekwd46xfQ2s", "title": "Accelerating ML Inferencing with WebAssembly & Spin 2.0 by Radu Matei & Saiyam Pathak @ Wasm I/O 24" },
+    { "id": "24NDl27mZu4", "title": "The Smallest Thing That Could Possibly Work: WASM on Microcontrollers With TinyGo by Ron Evans" },
+    { "id": "qx42r29HhcM", "title": "Flutter, Dart, and WASM: Shipping a new model for Web applications by Kevin Moore @ Wasm I/O 2024" },
+    { "id": "iHFgfeqY6KE", "title": "The Wasm-Scape Navigator: Sorting Through the Mosaic of Specs by Edoardo Vacchi @ Wasm I/O 2024" },
+    { "id": "zksRiqXRWtQ", "title": "Wasm can do that!? by Daniel Lopez @ Wasm I/O 2024" },
+    { "id": "92TQQRrjEzg", "title": "Mind the Gap Between the Wasm Future and the Present by Taylor Thomas @ Wasm I/O 2024" },
+    { "id": "sIjUDlMRT0E", "title": "Create cloud native agents and extensions for LLMs by Vivian Hu & Michael Yuan @ Wasm I/O 2024" },
+    { "id": "M2SozFIL4o0", "title": "Understanding Wasm: How We Got Here by Chris Dickinson @ Wasm I/O 2024" },
+    { "id": "00LYdZS0YlI", "title": "Chicory: Creating a Language-Native Wasm Runtime by Benjamin Eckel / Andrea Peruffo @ Wasm I/O 2024" },
+    { "id": "_iAa62qKWj0", "title": "elfconv: AOT compiler that translates Linux/AArch64 ELF binary to WebAssembly by Masashi Yoshimura" },
+    { "id": "Lp0VwROazcU", "title": "Everything about media files in WASM: fonts, images, audios all in rust by Dmitriy Kovalenko" },
+    { "id": "cj8FvNM14T4", "title": "WANIX: A WebAssembly Operating and Development Environment by Jeff Lindsay & Julian Del Signore" },
+    { "id": "GQrnJkxQ4BY", "title": "Building next generation of stream computation engine using Component Model by Sehyo Chang @ Wasm IO" },
+    { "id": "i9WYjoTPrHo", "title": "Design Systems in Wasm: One year on the bumpy road to the component model by P. Dureau / J. Valverde" },
+    { "id": "Jl67bMS1848", "title": "Capabilities all the way down - an OS for WASM by Sid Hussmann @ Wasm I/O 2024" },
+    { "id": "Nkjc9r0WDNo", "title": "Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023" }
+  ]
+}

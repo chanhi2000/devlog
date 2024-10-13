@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Bitovi",
+    "name": "Bitovi",
+    "profile": "https://yt3.googleusercontent.com/AZGzquSUId9D7Ql1b3ttSyC1E7gbr6Xl2f_9EdQ09_8MXnkoQWE4Sl-UWW22Mvi8uau2GFMbYg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7hSBctH7wyRr7GCCNXtIdAg5IYWyJnYGnIcQRRMbid1zQ0Bpi4EQGn02YGnP_MC9V6mk0w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4xD9DQ_V-x4", "title": "Hatchify: The Getting Started Guide" },
+    { "id": "wWd2Vejpuxg", "title": "Deploy Static Site to AWS" },
+    { "id": "yiug2C_BIsc", "title": "Introduction to Web Accessibility" },
+    { "id": "EhBt4jYca3w", "title": "Learn StackStorm" }, 
+    { "id": "X3F7cFnKMQc", "title": "Agile Program Management with Jira" },
+    { "id": "I6LBYDvS2G8", "title": "Bitovi Academy: Learn Docker" },
+    { "id": "rBYxqhNGGmQ", "title": "Program Management with Jira - Create a Initiative issue type" },
+    { "id": "89XFJXfmGQ0", "title": "How To Debug Angular Apps" }, 
+    { "id": "oya5LuHUCXc", "title": "Deploy Docker to AWS EC2 with GitHub Actions" }, 
+    { "id": "_rQC1wPxEUI", "title": "GitHub for Platform Engineering: AWS to Docker" }
+  ]
+}

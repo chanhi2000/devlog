@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "FlyTechVideos",
+    "name": "FlyTech Videos",
+    "profile": "https://yt3.googleusercontent.com/lQVhLtYDo2xUjbqA1y4ysgYlIe5gyJpwDIjCoQ7z3iiT5i5yN_NwDYxmOV7o854MsMpQI03d=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bIVAMp66NFwouYd2uibqQ4CvTGaopcYxjS_jrsnwKVkQmnTrNPKiEiCDKh0Ojc83GXghNNOxlmw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1jQbf59Jq2s", "title": "Clippy 2.0: The ultra-annoying AI-powered assistant" },
+    { "id": "XdPd2eK-A-Q", "title": "Bad Apple but it's inside a Linux BSOD (systemd-bsod)" },
+    { "id": "pI9CmZNS08c", "title": "Bad Apple but it's inside a Linux BSOD (systemd-bsod)" },
+    { "id": "65kBsWlBU48", "title": "Finally, Bluescreen on Linux" }
+  ]
+}

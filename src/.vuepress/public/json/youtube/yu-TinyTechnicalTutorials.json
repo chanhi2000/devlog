@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "TinyTechnicalTutorials",
+    "name": "Tiny Technical Tutorials",
+    "profile": "https://yt3.googleusercontent.com/MqqO35ND2iLDfNNJ2zG_0W7Lx22Hon3426fa6MZEwpv-h8SlckFhOSqa1f6C_GZ3Eq9DgVvfp84=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EcHW5S3sGt3ZXqTr37DzLnAkJ2mfATbmJxsxOAqmwwUTeGSYgkPG9DI6S5naZo7MTfqB54Y1G-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ma1FA2be8Ac", "title": "AWS Project – Building a React App with Amplify, Cognito, and CI/CD with GitHub | AWS Tutorial" },
+    { "id": "PrTwyDK3NjE", "title": "How to Get Unlimited AWS Job Interview/Certification Practice Questions with the Help of ChatGPT" },
+    { "id": "hK0ztmWCBA8", "title": "AWS Project: Architect and Build a Serverless Email Marketing Application | Step by Step Tutorial" },
+    { "id": "1NiVabKE7Fk", "title": "Build Your Own HTTP Server from Scratch | CodeCrafters Challenge" },
+    { "id": "x7YjX2_zGsk", "title": "10 AWS Cloud Projects to Build Your Skills and Resume/CV | AWS Tutorials" },
+    { "id": "vDtXk6QlRpo", "title": "AWS Beginners - 5 Tips You MUST Know | Cloud Computing for Beginners" },
+    { "id": "-t148tYgnJU", "title": "Amazon/AWS EC2 Pricing Simply Explained | On-Demand, Spot, Reserved, Savings Plans" },
+    { "id": "Yxl7e88cTAQ", "title": "Basics of Amazon CloudWatch and CloudWatch Metrics | AWS Tutorials for Beginners" },
+    { "id": "biYVW1TMYAU", "title": "AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial" },
+    { "id": "32D7NJK9QIk", "title": "Amazon Bedrock Tutorial – Model Access, Playgrounds, APIs and Fine-Tuning | AWS Generative AI" },
+    { "id": "zuKu0VFiwas", "title": "AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial" },
+    { "id": "NiCZSdWucZE", "title": "Build a Resume/CV on AWS, Step-by-Step Tutorial | AWS Projects to Help You Get Hired" },
+    { "id": "_KhrGFV_Npw", "title": "How to Set Up AWS IAM Identity Center and AWS Organizations | AWS Tutorial for Beginners" },
+    { "id": "gpquYmcpZpo", "title": "What is AWS IAM Identity Center?  Explained for Beginners (the theory)" },
+    { "id": "2BoVhej0QVI", "title": "Deploy a Web Application Using Elastic Beanstalk (New Version of UI) | AWS Tutorial for Beginners" },
+    { "id": "7m_q1ldzw0U", "title": "AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step" },
+    { "id": "kdlIZkjxZhA", "title": "Command Line with Blinking Cursor Animation Effect in PowerPoint | Green and Black Computer Console" },
+    { "id": "KPnKvvkte6g", "title": "Automatically Start and Stop EC2 Instances with AWS Instance Scheduler" }
+  ]
+}

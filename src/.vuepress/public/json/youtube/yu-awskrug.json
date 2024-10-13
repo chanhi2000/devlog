@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "awskrug",
+    "name": "AWS 한국사용자모임 - AWSKRUG",
+    "profile": "https://yt3.googleusercontent.com/9H2iIm9a8QP1UjAlmoRCVAMDwZu_K4DP_lSuoW5XVAKnJvi8LzZI9Mt7ytb17tHaYU0s1LaaWQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rUtaB2IFofPQGCCUNbti-Fa9IgBqLkyaUfq5fsPY4fh55aNR17xWxyZ_B7JU8wxV_XIP7jwcRg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6FsaWdns1SM", "title": "A Tour of IaC (lv.100)  정주리 (무신사) [2월 28일 AWSKRUG 성수 소모임]" },
+    { "id": "wd9gejiX1fY", "title": "쿠버네티스 GatewayAPI 도입기  최성우 (무신사) [2월 28일 AWSKRUG 성수 소모임]" },
+        { "id": "J8lLmWO8i2E", "title": "어쩌다 AWS 인프라 구축 - 신규 서비스 개발을 위한 설계 고민들 - 안정수, 카카오 :: AWS Community Day 2023" },
+    { "id": "1pbB_y72YoU", "title": "cognito와 next-auth를 통합한 커스텀 로그인 페이지 만들기 - by 최지연님 - AWSKRUG 프론트엔드 소모임 240103" }
+  ]
+}

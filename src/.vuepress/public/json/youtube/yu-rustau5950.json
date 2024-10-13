@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "rustau5950",
+    "name": "RustAU",
+    "profile": "https://yt3.googleusercontent.com/bZOoowFvWUUkJHVHK6VyK55LoFYeI__5RVcsiZ7GLDfld8L_ht6wZmpbjfi5W4blhmlODGv2mg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "BbWRuEVUvls", "title": "Alexander Rafferty - Dynamic schemas with serde" },
+    { "id": "gTcA0-sd4a0", "title": "Leo - Rust your V8" },
+    { "id": "rDl6JzeaZXQ", "title": "pinkforest - Your e-mail is now your database?" },
+    { "id": "WSHt3-gwVxc", "title": "David Lattimore - A Linker in the Wild" },
+    { "id": "s9hFnwCz9Z4", "title": "Conrad Ludgate - A tour of an INSERT" },
+    { "id": "adh42KssYkA", "title": "Conrad Ludgate - A tour of an INSERT" },
+    { "id": "x1BrJ24JmeA", "title": "Sean Cross -  A Tour of Xous" },
+    { "id": "ocacUsyJXpg", "title": "Trent Billington - Bevy ECS - Power tool for data oriented applications" },
+    { "id": "cf6HWZUgEDc", "title": "Leo - Trust the Compiler" },
+    { "id": "JX0aVnpHomk", "title": "Alessandro Decina - Performance profiling with eBPF" },
+    { "id": "TB-QqcRA40w", "title": "Tom Kunc - Playing with Proc Macro Magic" },
+    { "id": "vtyBugrsQkE", "title": "Dave Pollack - Intro to Nushift" },
+    { "id": "1Hf2nBVR93U", "title": "Leo - Rust JIT demo" },
+    { "id": "yZ0XHRfU7Ao", "title": "LLfourn - flutter_rust_bridge" },
+    { "id": "3sk4ih0RULE", "title": "Mike Seddon - Rust GPU Compute" },
+    { "id": "fW16gk7CVQ4", "title": "Perdo Tacla Yamada - Rust Audio/Music Programming" },
+    { "id": "B6p0iMzxpGg", "title": "Pete - Composable messaging with Selium" },
+    { "id": "WDdi9pz6mNs", "title": "Zac Kologlu - Writing a Rust program without single line of code" }, 
+    { "id": "NZ1rpQSLvg8", "title": "Bernard Kolobara - Writing Rust the Erlang way" }  
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "channel": {
+    "id": "shellfolder",
+    "name": "쉘폴더 ShellFolder",
+    "profile": "https://yt3.googleusercontent.com/FvjJkghsyu4lxbyy4NNp18wS9YO-ZLKRhbsqG6HeDLsCL1JLknkIeFE6JegmS25li6lqT4SA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sJKMnLhzv1WrUbP0XLGi3eEEYpMpKiE3N3Cs7l0cyCdvhFKkakxT_SYISKR-4z4yuf3aP7gLwxc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ScUBZuRmdww", "title": "Blog Project 합본 2부" },
+    { "id": "m_UUxevQXS8", "title": "Blog Project 합본 3부" },
+    { "id": "YQ8YkigZU1M", "title": "Blog Project 합본 4부" },
+    { "id": "ghk2Nsgw3q4", "title": "Docker 네트워크" },
+    { "id": "DgAYciyeLTg", "title": "Spring Boot 기본 프로젝트 합본" },
+    { "id": "qcKK-ryo8Go", "title": "Vue + Spring Boot 합본 1부" },
+    { "id": "3_JK81lSErs", "title": "Vue + Spring Boot 합본 2부" },
+    { "id": "01mUcKwuxTM", "title": "Docker Dockerfile" },
+    { "id": "kZRyKSvkLGI", "title": "Docker 알아보기" },
+    { "id": "YxrPk-0vSws", "title": "Docker 설치" },
+    { "id": "Fz_Kcv2rEik", "title": "Docker 이미지" },
+    { "id": "5J5vyyjjO-g", "title": "Docker 컨테이너" },
+    { "id": "PACW_Wmafns", "title": "Vue 화면 설정 [Vue Router]" }
+  ],
+  "playlists": [
+    {
+      "title": "Vue + Spring Boot 프로젝트 만들어 보기",
+      "videos": [
+        { "id": "povDCmh3BfM", "title": "Vue + Spring Boot 프로젝트 만들기" },
+        { "id": "PACW_Wmafns", "title": "Vue 화면 설정 [Vue Router]" },
+        { "id": "veDJeJe5Xck", "title": "Axios 사용하기 [CROS Policy]" },
+        { "id": "_OzpyzFd1d0", "title": "SpringBoot 기능 구현하기 1부" },
+        { "id": "-FSmrUACdpo", "title": "SpringBoot 기능 구현하기 2부" },
+        { "id": "0EA3vWoszyM", "title": "Vue 이벤트 1부 [ListView Event]" },
+        { "id": "im-fzWGZilo", "title": "Vue 이벤트 2부 [Vuex Store]" },
+        { "id": "LvDZMY0rwXk", "title": "Vue 이벤트 3부 [Update & Delete Event]" },
+        { "id": "glk_V6zJI0o", "title": "Vue 이벤트 4부 [User Create Event]" },
+        { "id": "9XCN-ugG0EI", "title": "Vue 이벤트 5부 [Session Storage]" },
+        { "id": "cMmk1Gltwkw", "title": "프로젝트 배포 [Docker Compose Build]" }
+      ]
+    }, {
+      "title": "기능 구현 모음",
+      "videos": [
+        { "id": "wZkN34ap8RE", "title": "SpringBoot 파일업로드 해보기 [File Upload]" },
+        { "id": "GuHbiWoiNLc", "title": "파일업로드 기본 코드 알아보기 [SpringBoot File]" },
+        { "id": "cKVKy4pQVjE", "title": "파일 생성 및 URL만들기 [SpringBoot File]" },
+        { "id": "hpB2Rhjydzo", "title": "DevEditor 알아보기 [EditorJS]" },
+        { "id": "W4h0HArd8rE", "title": "DevEditor 사용해보기 [EditorJS Vue]" },
+        { "id": "lnnCijQuTnQ", "title": "DevBlog Token 소개 [SpringBoot Vue]" },
+        { "id": "i5rp3mvFvLA", "title": "DevJWT 구조 및 흐름 [SpringBoot Vue]" },
+        { "id": "Nn9aXiyOnwk", "title": "DevJWT 생성 및 테스트 [SpringBoot Vue]" },
+        { "id": "W4xQVo82hhE", "title": "DevJWT 검증 및 테스트 [SpringBoot Vue]" },
+        { "id": "fNWFtAFpiuI", "title": "DevJWT RSA 소개 [SpringBoot Vue]" },
+        { "id": "R29cAazcKqA", "title": "DevJWT RSA 적용하기 [SpringBoot Vue]" },
+        { "id": "wAcYFsyddrg", "title": "DevJWT 코드 정리 및 마무리 [SpringBoot Vue]" }
+      ]
+    }, {
+      "title": "Blog Project",
+      "videos": [
+        { "id": "oZcTz9lYOqw", "title": "DevBlog 소개 [SpringBoot Vue]" },
+        { "id": "9X4LIJJ4SlQ", "title": "DevBlog 프로젝트 생성 [SpringBoot Vue]" },
+        { "id": "mpc99M_r_2M", "title": "DevBlog 테이블 정의 소개 [SpringBoot Vue]" },
+        { "id": "oxW46UYkBFs", "title": "DevBlog 화면 정의 소개 [SpringBoot Vue]" },
+        { "id": "Uk7plVujni0", "title": "DevBlog 화면 코드 소개 [SpringBoot Vue]" },
+        { "id": "2fWKPBKV30w", "title": "DevBlog 진행사항 살펴보기 [SpringBoot Vue]" },
+        { "id": "vIPpkJu4acU", "title": "DevBlog Source Tree [SpringBoot Vue]" },
+        { "id": "I9eJuQevfD0", "title": "DevBlog Boot 기능 구현 1부 [SpringBoot Vue]" },
+        { "id": "hiPMGrFPQgU", "title": "DevBlog Controller 단위 테스트 [SpringBoot Vue]" },
+        { "id": "iE30vOGdRPM", "title": "DevBlog Service & DAO 단위 테스트 [SpringBoot Vue]" },
+        { "id": "lnnCijQuTnQ", "title": "DevBlog Token 소개 [SpringBoot Vue]" },
+        { "id": "i5rp3mvFvLA", "title": "DevJWT 구조 및 흐름 [SpringBoot Vue]" },
+        { "id": "Nn9aXiyOnwk", "title": "DevJWT 생성 및 테스트 [SpringBoot Vue]" },
+        { "id": "W4xQVo82hhE", "title": "DevJWT 검증 및 테스트 [SpringBoot Vue]" },
+        { "id": "fNWFtAFpiuI", "title": "DevJWT RSA 소개 [SpringBoot Vue]" },
+        { "id": "R29cAazcKqA", "title": "DevJWT RSA 적용하기 [SpringBoot Vue]" },
+        { "id": "wAcYFsyddrg", "title": "DevJWT 코드 정리 및 마무리 [SpringBoot Vue]" },
+        { "id": "amVh7Sl-ieM", "title": "DevBlog User Token 소개 [SpringBoot VUE]" },
+        { "id": "59cUc0evZDg", "title": "DevBlog Login & Logout [SpringBoot VUE]" },
+        { "id": "Jkbf5co3Ftw", "title": "DevBlog User Info 소개 [SpringBoot VUE]" },
+        { "id": "5Ia1THJ1KSs", "title": "DevBlog User Info 적용 [SpringBoot VUE]" },
+        { "id": "nUHTkGe5Te4", "title": "DevBlog User Edit 적용 [SpringBoot VUE]" },
+        { "id": "g517yoiTuK4", "title": "DevBlog User Delete 적용 [SpringBoot VUE]" },
+        { "id": "VRI7_omgKjk", "title": "DevBlog User Create 적용 [SpringBoot VUE]" },
+        { "id": "j75a919FBg8", "title": "DevBlog User Profile Picture [SpringBoot VUE]" },
+        { "id": "M98ZbhtWi9w", "title": "DevBlog Notice 소개 [SpringBoot VUE]" },
+        { "id": "2Fnt9chOrD4", "title": "DevBlog Notice Create [SpringBoot VUE]" },
+        { "id": "iTVda7ENpSU", "title": "DevBlog Notice Profile Picture  [SpringBoot VUE]" },
+        { "id": "lh1rKLeGpUU", "title": "DecBlog Notice Select Count [SpringBoot VUE]" },
+        { "id": "LOch84wt1Wg", "title": "DevBlog Notice Select [SpringBoot VUE]" },
+        { "id": "FNWPcWysQCA", "title": "DecBlog Notice Update [SpringBoot VUE]" },
+        { "id": "SvHO7PK_f0M", "title": "DevBlog Notice Delete [SpringBoot VUE]" }
+      ]
+    }
+  ]
+}

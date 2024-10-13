@@ -1,0 +1,68 @@
+[
+  {
+    "repo": "type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "officialSite": "https://tsch.js.org",
+    "topics": []
+  }, {
+    "repo": "sungkwangkim/yarn-berry-test",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "rocketseat-education/nlw-12-spacetime-ignite",
+    "desc": "Aplicação de recordação de memórias desenvolvida no NLW 12",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "gothinkster/realworld",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "officialSite": "https://www.realworld.how",
+    "topics": []
+  }, {
+    "repo": "adrianhajdin/project_next13_car_showcase",
+    "desc": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+    "officialSite": "https://jsmastery.pro",
+    "topics": ["nextjs", "nextjs13", "next13", "next13app"]
+  }, {
+    "repo": "labs42io/clean-code-typescript",
+    "desc": "Clean Code concepts adapted for TypeScript",
+    "officialSite": "https://labs42io.github.io/clean-code-typescript",
+    "topics": ["typescript", "solid", "best-practices", "clean-code", "clean-architecture", "principles", "coding-guidelines"]
+  }, {
+    "repo": "gibbok/typescript-book",
+    "desc": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
+    "officialSite": "",
+    "topics": ["typescript", "book", "free", "typescript-book", "typescript-tutorials", "typescript-language", "typescript-learning", "typescript-guidebook", "typescript-guide", "learn-typescript", "learning-type"]
+  }, {
+    "repo": "felipemotarocha/fullstackweek-trips",
+    "desc": "",
+    "officialSite": "https://fullstackweek-trips.vercel.app",
+    "topics": []
+  }, {
+    "repo": "goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (July 2023)",
+    "officialSite": "https://twitter.com/nodepractices",
+    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"]
+  }, {
+    "repo": "wangdoc/typescript-tutorial",
+    "desc": "TypeScript 教程",
+    "officialSite": "https://wangdoc.com/typescript",
+    "topics": ["tutorial", "typescript"]
+  }, {
+    "repo": "AntonioErdeljac/notion-clone-tutorial",
+    "desc": "",
+    "officialSite": "https://note-taking-app-rose.vercel.app",
+    "topics": []
+  }, {
+    "repo": "ton-community/tact-challenge",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "AntonioErdeljac/next-auth-v5-advanced-guide",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }
+]

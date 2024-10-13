@@ -1,0 +1,59 @@
+{
+  "channel": {
+    "id": "ithotgi",
+    "name": "IT핥기",
+    "profile": "https://yt3.googleusercontent.com/zigRZC_bvGN2osQlqAq5YWaG0i4ZEv5gXGHQj_Z4B5UwpQ8c0t4iM4PxfmMB1U6ZvrW92qFC7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DjD03gTagMj0Syd7oBqUBvUxxBDQW7koQfwJY48m1zHb2ozxrb5euai78GG_Bg48oowPA4hM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "JSP!독학!",
+      "videos": [
+        { "id": "Uw4hGjspFQg", "title": "[JSP] JSP개발 환경 구성 하기 Part 1. (톰캣의 역할 이해)" },
+        { "id": "QKk7Lfl2GEQ", "title": "[JSP] JSP개발 환경 구성 하기 Part 2.(8080 포트 충돌?)" },
+        { "id": "bXtQsU78exQ", "title": "[JSP] JSP개발 환경 구성 하기 Part 3. (WAS 개념 및 톰캣 사용)" },
+        { "id": "Rpx8O9HfwYQ", "title": "[JSP] JSP개발 환경 구성 하기 Part 4.(이클립스에서 톰캣 연동)" },
+        { "id": "dOp9XNuiESc", "title": "[JSP] 웹 개발을 위한 개념을 알고 갑시다." },
+        { "id": "r5BD428QqFA", "title": "[JSP] 환경구성 및 첫 번째 프로젝트를 이용하여 동적서비스 개념 잡기" },
+        { "id": "ouPF9tglP3g", "title": "[JSP] 프로젝트(Dynamic Web Project) 구조와 동적서비스 개념 이해하기" },
+        { "id": "03zB7mg8L8c", "title": "[JSP] 기본 문법 및 구문 분석 오류 해결 팁(이클립스에서 코드 에러 없는데 빨간줄 뜨는 경우)" },
+        { "id": "R2nQxGVH80w", "title": "[JSP] JSP 파일이 처리되는 과정(라이프사이클)" },
+        { "id": "QglgNXC5P_c", "title": "[JSP] 라이프사이클 실습" },
+        { "id": "e9V6J4Lu3p8", "title": "[JSP] 기본 객체 몇 가지만 알아봅시다~" },
+        { "id": "aCSryu_emlA", "title": "[JSP] HTTP 요청 메서드(GET과 POST)(자막있음)" },
+        { "id": "2cfx6QunhiA", "title": "[JSP] 포워드(Forward)와 리다이렉트(Redirect) 동작 이해하기" },
+        { "id": "M1zNqwRISwc", "title": "[JSP] 액션 태그 - forward" },
+        { "id": "LSl8o0kKBWc", "title": "[JSP] 쿠키 씹어 먹기 실습" },
+        { "id": "a2tvTi9qgaE", "title": "[JSP] Cookie(쿠키) 이해하기" },
+        { "id": "gN6ifi6FJTk", "title": "[JSP] 세션 잘라 먹기 실습" },
+        { "id": "VrWK1VPW5Qg", "title": "[JSP] Session(세션) 이해하기" },
+        { "id": "Jc9UTY_lcrY", "title": "[JSP] 두 시간동안 JSP와 오라클을 연동하여 기본적인 게시판(CRUD) 만들기" },
+        { "id": "g5KmJAIIEeI", "title": "[JSP] 서블릿 개념 핥기 1탄" },
+        { "id": "CIRZI3JL4GU", "title": "[JSP] 서블릿 개념 핥기 2탄" },
+        { "id": "D6EIkCNEPSQ", "title": "[JSP] 서블릿 개념 핥기 3탄(MVC 패턴)" },
+        { "id": "zmt9iMjhx64", "title": "[JSP] 서블릿 개념 핥기 3탄 코드로 동작확인(MVC 패턴)" },
+        { "id": "rovLN4wadCA", "title": "[JSP] 서블릿 개념 핥기 마지막(Properties활용 MVC패턴)" }
+      ]
+    }, {
+      "title": "리눅스 기초",
+      "videos": [
+        { "id": "jnCRSyj-0jI", "title": "IT를 하는 사람이 리눅스(유닉스)를 만져봐야 되는 이유?(개인적임)" },
+        { "id": "bGZ2lanWAQk", "title": "[리눅스 기초] 1. 리눅스 설치 하기(VMware Player 17 및 CentOS 7)" },
+        { "id": "t8QfkFkaENo", "title": "[리눅스 기초] 2. 로그인, 로그아웃, `pwd`, `ls`, `cd`" },
+        { "id": "iDz8FdUt81I", "title": "[리눅스 기초] 3. 파일을 다루는 기본 명령어(`mkdir`, `cp`, `mv`, `rm`)(타임라인 추가)" },
+        { "id": "xKprnQ6iTTQ", "title": "[리눅스 기초] 4. 파일 내용 확인을 위한 `cat`, `head`, `tail`, `more`, `less`(feat. Redirection)" },
+        { "id": "wOzEAlMKKLk", "title": "[리눅스 기초] 5. 빈 파일 생성 및 시간을 변경하는 `touch` 그리고 환경 변수와 echo" },
+        { "id": "HBWzUPQmEZw", "title": "[리눅스 기초] 6. `stat`으로 파일 속성 확인 및 link 파일 개념(타임라인 참조)" },
+        { "id": "9s3sz0nrFTc", "title": "[리눅스 기초] 7. 파일 검색을 위한 find 명령어 핥아 보기" },
+        { "id": "3YS0S9gNL8I", "title": "[리눅스 기초] 8. find 실습을 위한 예제(따라해보고 응용해보세요)" },
+        { "id": "VbIRnEKADgY", "title": "[리눅스 기초] 9. (|) pipe(파이프)의 개념 알고 가기(feat. `grep` 명령어)" },
+        { "id": "bvJ9yik1s7A", "title": "[리눅스 기초] 10. VI 사용법 알고 가기" },
+        { "id": "Dch0TvYHsVc", "title": "[리눅스 기초] 11. (타임라인 참조)가상환경(VMware)에서 네트워크 설정을 위해 알아야 하는 개념과 리눅스에서 웹 서버 만들기" },
+        { "id": "St1_vo9nueE", "title": "[리눅스 기초] 12. (타임라인 참조)리눅스 활용 시 주요 서비스 개념(`ssh`, `scp`, `http`)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "capcutpc_kr",
+    "name": "캡컷PC 청지사유튜버",
+    "profile": "https://yt3.googleusercontent.com/yfPcbCGNXzPhMIvsmoldJ3-7q0PoGQ64wKagtzPcNC6_MnSFO9wCVH_gnvUsZadWtRtod5Fkcg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o2ctSum58LA20kk9zL9tVUzYphfqLaS8Qn4ymfa50VKf_aV_OtlfA6GMpHBxmyUG_0nzUcZwOA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jQpzcak2Eno", "title": "[캡컷pc]제107강 지난영상 쉽게 불러오기프로젝트 vs 내보내기" },
+    { "id": "jxegQeZUWnk", "title": "캡컷pc제110강 4시간짜리 영상 5초로 만들기플레이 속도조절" },
+    { "id": "0pVkOIsk9wI", "title": "[캡컷pc]제108강 영상 색감조정 LUT 다운받고 적용하는 법" },
+    { "id": "akKprUBQ3aM", "title": "[캡컷pc]제109강 스틸프레임,썸네일 내보내는 2가지 방법" },
+    { "id": "ho5B5s_C9zs", "title": "[캡컷pc]제110강 프리즈Freeze" },
+    { "id": "MiO6-74RqNQ", "title": "[캡컷pc]제112강 혼합모드 익히기(어둡게,선형번,곱하기,글자속 영상넣기)" },
+    { "id": "gqlDnJEwABA", "title": "[캡컷pc]제113강 글씨쓰는 효과영상 만들기" },
+    { "id": "Va8j2ymVwu0", "title": "[캡컷pc]제114강 자막사용 기초 마스터하기" },
+    { "id": "0-ELWnwFris", "title": "[캡컷pc]제89강 영상편집시 화면확대하는 2가지 방법" },
+    { "id": "E64-NXLHZfA", "title": "[캡컷pc]제90강 도형만들기(마스크활용)Mask" },
+    { "id": "5Hq2rp6Gegw", "title": "[캡컷pc]제92강 여행경로 지도영상 만드는 방법 고민해 보기" },
+    { "id": "EpNDROk8qoc", "title": "[캡컷pc]제93-1강 캡컷pc로 영어공부가 가능하다고?" },
+    { "id": "2qImz4E6Igc", "title": "[캡컷pc]제93강 브랜드키트 무료로 1기가 사용하기" },
+    { "id": "lGoG9peotzI", "title": "[캡컷pc]제94강 구글어스 활용 원하는 장소 찾는 영상제작" },
+    { "id": "99yvHnw3dIM", "title": "[캡컷pc]제95강 영상 특정부분 확대해보기 실습(2가지방법)" },
+    { "id": "evtZo5Ah684", "title": "[캡컷pc]제96강 타이핑소리나는 인트로, 로고나타나는 앤딩 영상 만들어보" },
+    { "id": "qOulLhMgiQ8", "title": "[캡컷pc]제97강 캡컷pc에서 썸네일 만드는 4가지 방법" },
+    { "id": "acr9KHw0KuI", "title": "[캡컷pc]제98강 전환효과 한번에 적용하기" },
+    { "id": "AGi7xuGWqeI", "title": "[캡컷pc]제99강 1시간 이상 영상 버벅거린면 캐시, 랜더링, 프록시 저장위치 변경하기" },
+    { "id": "PfExIQJ89vQ", "title": "[캡컷pc]제100강 영상에서 사진 만들어내기" },
+    { "id": "7mzqX_e01rE", "title": "[캡컷pc]제101강 돋보기 기능 사용해 보기(편집효과)" },    
+    { "id": "t2SZYcE5R7Y", "title": "[캡컷pc]제102강 1시간 넘게 내보내기 한 영상 설명 10초이내로 표현하기" },
+    { "id": "bmwUVepOp4o", "title": "[캡컷pc]제104강 싱크된 오디오,비디오 편집 실제(화면 바꿔가며 편집하기)" },
+    { "id": "lfLvtktcqrU", "title": "[캡컷pc]제103강 얼굴 모자이크, 블러 처리하기" },
+    { "id": "K2mdcSiOWxA", "title": "[캡컷pc]제106강 캡컷pc 탬플릿 활용 인트로 만들기+편법 편집" }
+  ]
+}

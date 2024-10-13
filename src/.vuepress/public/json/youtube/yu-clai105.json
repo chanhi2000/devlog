@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "ai101lab",
+    "name": "AI101",
+    "profile": "https://yt3.googleusercontent.com/873Zf1RXHzg2j7xpo7Gz8OEJWLsrc2pLdknyopvEwWnTZ2CnuKMv37AVfJVyO2R4cJaigSVv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "L7dQhhoB4Ew", "title": "AI101 강화학습의 5요소란? #강화학습환경 #강화학습에이전트 #강화학습프로세스" },
+    { "id": "Ith5fMC4kGk", "title": "AI101 강화학습의 3대 함수란? #가치함수 #보상함수" },
+    { "id": "MKUpQ8fUNjo", "title": "미드저니 시작하기 #Midjourney #ai101 #GenAI" },
+    { "id": "8kpQarvo6_A", "title": "미드저니와 디스코드, 환경설정 #Midjourney #Discord #ai101 #GenAI" },
+    { "id": "0lF-vck0neg", "title": "핸즈온1: 디스코드 로그인 및 미드저니 탐색 | AI101 M05 Midjourney" },
+    { "id": "sPpvAE1BfNE", "title": "핸즈온2: 나의 디스코드 서버에 미드저니 앱 추가하기 | AI101 M05 Midjourney" },
+    { "id": "Lflh9lH5MJQ", "title": "핸즈온2: 나의 디스코드 서버에 미드저니 앱 추가하기 | AI101 M05 Midjourney" },
+    { "id": "1yu6EbGoKU4", "title": "핵심정리: 2024 구글 클라우드 넥스트 키노트 (풀 버전, 영문 자막 포함) #GoogleCloudNext #gemini #geminipro #sundar #kurian" },
+    { "id": "VRr35LrQVBU", "title": "핵심정리 3: 2024 구글 클라우드 넥스트 - GenAI 영역 확대를 위한 3x3 요소 #GoogleCloudNext #gemini #AIHypercomputer" },
+    { "id": "UKzmlY_j4h8", "title": "핵심정리 2: 2024 구글 클라우드 넥스트 - 에이전트의 중요성, 골드만삭스 #GoogleCloudNext #gemini #geminipro #agent" },
+    { "id": "w4t1MVwRRhs", "title": "글로벌 반도체 기업 톱10 순위(2024.4월 발표 / 2023 순위) #AI101 #삼성전자 #nvidia #intel #amd" },
+    { "id": "GtkvVonC0w4", "title": "짐 사이먼스, 퀀트로 금융 투자의 난제를 풀고 영면하다. ##르네상스테크놀로지 #퀀트 #quant #jimsimons #renaissance #rip" },
+    { "id": "euPhhNcVGXY", "title": "알파폴드3 - 정확성, 대중성 갖춘 생명공학 도구 #딥마인드 #데미스허사비스 #단백질접힘 #deepmind #proteinfolding #alphafold" },
+    { "id": "L989vQvFtI8", "title": "카스카더에서 내 아바타로 애니메이션 #cascadeur #readyplayer #mocap #MoveAI #glb #fbx #rigging" },
+    { "id": "GAWIj7Z6qm8", "title": "타이어보다 싸진 LLAMA3V #genai #sllm #genai #llama #gemininano #생성형ai" },
+    { "id": "Z-FM8qw4l9k", "title": "2024 무료, 오픈 LLM 베스트 3" },
+    { "id": "bcfhN_lTe1A", "title": "ML, DL, RL, GenAI 개념 정리 인트로: 머신러닝 개요 / 101개의 AI 노트북 시리즈 001 #머신러닝이란 #수학적모델 #지도식학습 #비지도식학습" },
+    { "id": "BW0XxxK-4II", "title": "지도식 및 비지도식 학습 개요: ML, DL, RL, GenAI 개념 정리 인트로 / 101개의 AI 노트북 시리즈 002 #머신러닝이란 #수학적모델 #지도식학습 #비지도식학습" },
+    { "id": "XHkBmWx3W18", "title": "인기있는 머신러닝 모델 / AI101 노트북 시리즈 003 / #머신러닝모델 #코랩노트북" },
+    { "id": "qNivh4wDycE", "title": "의사결정수(Decision Trees) 모델 / AI101 노트북 시리즈 004 / #머신러닝 #지도식학습" },
+    { "id": "Tt3sqeOu0eQ", "title": "분석 데이터세트(아이리스, Iris) 개요 / AI101 노트북 시리즈 006 / #머신러닝 #UCI #분류작업 #classification" },
+    { "id": "vAVNICJvO3o", "title": "서포트벡터(SVM) 모델 / AI101 노트북 시리즈 005 / #머신러닝 #지도식학습 #초평" },
+    { "id": "mlC09cPcUiQ", "title": "코랩(Colab) 노트북 활용: 코드셀 및 텍스트셀 / AI101 노트북 시리즈 008 / #머신러닝 #GoogleColab" },
+    { "id": "s1hVGrxzNxY", "title": "노트북에 분석용 라이브러리 임포트 / AI101 노트북 시리즈 009 / #머신러닝 #matplotlib #pandas #sklearn" },
+    { "id": "6T1koZB9fkc", "title": "Pandas 기능으로 데이터 둘러보기 / AI101 노트북 시리즈 010 / #머신러닝 #head #info #describe" },
+    { "id": "zyb_6qT65kI", "title": "SVC 네 가지 모델 구현 및 시각화 / AI101 노트북 시리즈 011 / #머신러닝 #svm #svc #kernal #linearsvc #rbf #poly" },
+    { "id": "ZWNnoHmhNhE", "title": "코랩(Colab) 노트북 열기 및 사본 생성 / AI101 노트북 시리즈 007 / #머신러닝 #GoogleColab #CopyToDrive" },
+    { "id": "mOIPQH_qaFQ", "title": "AI101 | GenAI 구현 위한 오토인코더(AE, AutoEncoder) 기술이란? P2 GenAI 04" },
+    { "id": "ygGgS1bPRmc", "title": "AI101 | GenAI 구현 위한 전이학습(TRL, Transfer Learning) 기술이란? P2 GenAI 03" },
+    { "id": "4S0_uuJrmzI", "title": "AI101 | GenAI 구현 위한 자연어처리(NLP) 기술이란? P2 GenAI 02" },
+    { "id": "sPEfV45zUoQ", "title": "AI101 | 생성형 인공지능 및 LLM 구현 기술 레이어. P2 GenAI 01" },
+    { "id": "Yc5Qob9CslU", "title": "AI101 | 페이스 스왑, 안면 치환 비디오(FSV) 생성 노트북 - 타겟 영상, 소스 이미지 로딩 #faceswap #genai #colab #deep #roop" },
+    { "id": "B-z2AjrFD3s", "title": "AI101 | 페이스 스왑, 안면 치환 비디오(FSV) 생성 노트북 - 패키지 설치 #faceswap #genai #googlecolab #deep #roop" }
+  ]
+}

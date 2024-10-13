@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "jeFF0Falltrades",
+    "name": "jeFF0Falltrades",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQC3Bd6DbxF4clF6WVYuHLZiv6k8OV3r8DaBUQz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FE4sq52e0x4LGQGKwI4vMmEaKTlozmB_GLgvO1Vy-oK67JICmiZKKFmh4YtQpaWmeswIPU1HkA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yoz44QKe_2o", "title": "Coding The Rat King: A Multi-Family Malware Configuration Parser" },
+    { "id": "cwBoUuy4nGc", "title": "Reverse Engineering/Game Patching Tutorial: Full Res Roller Coaster Tycoon with Ghidra+x64dbg+Python" }
+  ]
+}

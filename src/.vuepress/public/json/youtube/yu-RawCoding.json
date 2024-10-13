@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "RawCoding",
+    "name": "Raw Coding",
+    "profile": "https://yt3.googleusercontent.com/P66uCiMLynjXiIBteS1Sn5_KyXNBY6Vzybo3BHeJCpmXV9t-Vj_n7RzvxyEcnHLUuuE-yk26=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OZ2fN7s5SUidsOvnpMKIAzOsrEqp0CYbU4cYS3cWdf87xk2YwZPRGCQ64SHT2EjbJRNiBT-e=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FPUzlMtMOYs", "title": "Neat trick for Scoped services in ASP.NET Core" },
+    { "id": "L8Jc8kbUAw4", "title": "Working with queues? Build a Message Sink" },
+    { "id": "zQ1_fjL4VtE", "title": "ASP.NET Core Service Discovery" },
+    { "id": "jt1tA0IeH-A", "title": "Publishing a Nuget Package the RIGHT way" },
+    { "id": "gp0zTCZnObs", "title": "Role Store implementation & Pull Request Workflow" },
+    { "id": "WdjrrLOVxnE", "title": "Take control over ASP.NET Core" },
+    { "id": "cWLgbULu4p0", "title": "Building an ASP.NET Core App using Functional Programming" },
+    { "id": "nka_qn6bDWU", "title": "What you should know about Threads in .NET" },
+    { "id": "RSjI5dqwjfo", "title": "Why replace if statements with Objects" },
+    { "id": "JJIpqrkIE1E", "title": "Building an ASP.NET Core Nuget Package" },
+    { "id": "-Dpg9fqXWGM", "title": "ASP.NET Core Integration Testings Setup" },
+    { "id": "v_W4Kb9DPes", "title": ".NET Developer tries Laravel PHP" },
+    { "id": "kUY4Z7YLTMU", "title": "Escape Tutorial Hell - a Demonstration" },
+    { "id": "Wv9Eh1tey1U", "title": "Docker Explained | ASP.NET Core Example" }, 
+    { "id": "il9gl8MH17s", "title": "C# Async/Await/Task Explained (Deep Dive)" } 
+  ]
+}
+

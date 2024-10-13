@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "1mrnewton",
+    "name": "Mr. Newton",
+    "profile": "https://yt3.googleusercontent.com/YnoSCmQ9sFK97ZdguqRRI3v44FrCDKdAocbL9jGIYKh-eh0H88r3uwnSs0lm5xMADYRCxOmk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bRFw0J014Dbf7ulbCga0M-7eMFyXoM4Sho6KcvXLSrTmiVrIOvhHYnCDtVmlxNJbWQt_yeF0Q1o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6Tj8_iKqh_k", "title": "Build a complete mobile | Desktop | Web app with Python - Python Flet(Flutter)  tutorial" }
+  ]
+}

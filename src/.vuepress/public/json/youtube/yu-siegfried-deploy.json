@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "siegfried-deploy",
+    "name": "Siegfried, deploy!",
+    "profile": "https://yt3.googleusercontent.com/8Gh46U1uFcS8xGQlvjsyCHgqmODr1hWi8HjdvTXenJenxGpmYsOSv_hG1n7QQyYSw3hB3i_n=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lfk4VW7cMZTK2qNI-BXrC1hUaqgG4XYJeoD-opEXwWqs7tow_WC7gFk_pfOdFe3woLNa9lxNjg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "akA1OiMk_q8", "title": "The only 3 tools you need for perfect image optimization" },
+    { "id": "kPP_TQFPfU8", "title": "HTMX is awesome and here's why" }
+  ]
+}

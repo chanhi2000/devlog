@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "cybersuperior",
+    "name": "Cyber Superior",
+    "profile": "https://yt3.googleusercontent.com/Lk0h70pi2nby1dMIN6v0ArH2LQrHS4cH3bYmhnX3E4ERlOQccTMGBYwq60A_dizGpGMvIR4O=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rNH64JJHJ_ahWqgcUEIAgSY4yDgZXUukTO3QLA0Z5GZxxdGBK9dzNeqFk0taZanow4m5Bq0_tws=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Material UI",
+      "videos": [
+        { "id": "j5OzZz5zs9Q", "title": "Material UI - Grid, Typography & Card" },
+        { "id": "cwmyTbEudj4", "title": "React Material UI - Side Navigation Bar" },
+        { "id": "WgtjlPG1yvI", "title": "Material UI React Charts" },
+        { "id": "nA9Vp8HtOUs", "title": "Beautiful Way To Select Material UI Colors" }
+      ]
+    }
+  ]
+}

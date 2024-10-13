@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "iOSConfSG",
+    "name": "iOS Conf SG",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZnwRVtf0PRzaGYiLglElF9xPKIPEPvsc3GUOJ3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nFwKu0xMcqZpzbBK_69I3Zoq9QXvHMaHfOssFRlqwSU86n25ghXPVJooIc5Ga-QmN8Mmbx2NRA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9Yiqa8u3DaY", "title": "What Nobody Tells You When Selling Your Business - iOS Conf SG 2024" },
+    { "id": "JRsWi8KC2Sw", "title": "Building iOS Apps without Xcode - iOS Conf SG 2019" }, 
+    { "id": "TGr5aefC92w", "title": "Grand Central Dispatch (GCD), How Yelp uses GCD - iOS Conf SG 2015" }, 
+    { "id": "6p8kveO1m00", "title": "XCMetrics - The All-In-One Solution to Track Xcode Build Metrics - iOS Conf SG 2021" }, 
+    { "id": "0MAc-hjvKqw", "title": "The Hitchhiker’s Guide to SwiftUI - iOS Conf SG 2021" }, 
+    { "id": "zXBEJzAaHY8", "title": "Explain me Metal like I'm 5 - iOS Conf SG 2020" }, 
+    { "id": "fpWOD3JpSrI", "title": "Full stack development with Swift and Vapor - iOS Conf SG 2020" }
+  ]
+}
+

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Byline_techTV",
+    "name": "바이라인네트워크 비즈니스 테크TV",
+    "profile": "https://yt3.googleusercontent.com/Fe9CvLfMSLk7E348nseOw5DkaA6Aq326intocFgqDxJAoF3P41Oku_j5GzLLtpou1b9nFrGojNA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MVBdQdSicVPH4eIprYzdfpbAoGJM4hayAZvSm81D5gvad18W5F2zKf4uSB1ne_RpN0XhyAO9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "93cYVi67ZqM", "title": "Everywhere Security, 소중한 비즈니스 자산 보호하기" },
+    { "id": "lvRa_LMEIsw", "title": "Everywhere Security, 소중한 비즈니스 자산 보호하기" },
+    { "id": "Snii-GYnWMQ", "title": "nio 3rd 01" },
+    { "id": "3DKYdq6tO-8", "title": "이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할ㅣ컨플루언트 김현수 상무" },
+    { "id": "gQVmg6ivWnE", "title": "[웨비나] 스트리밍 ETL, ksqlDB에 대한 모든 것" },
+    { "id": "NlVkrNBYquo", "title": "[보안 웨비나] 컨테이너 보안 및 네트워크 가시성 확장 방안" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DevOpsJourney",
+    "name": "DevOps Journey",
+    "profile": "https://yt3.googleusercontent.com/dQk85R0vZ_EKoE7BgbwMFIcmovijvOsbMD3DQJ26_j1hr5CYMeSSmHez9urr7A1zRcrpcVvoGeI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Tni2nvm2TZ6BiW1wFV-YvZ2aXCJYNLqeqPMOs96iP1pXUexRPY6DpW9AlDhaaqMRQUD_b_th=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KnSBNd3b0qI", "title": "How to design a modern CI/CD Pipeline" },
+    { "id": "6YZvp2GwT0A", "title": "Learn Jenkins! Complete Jenkins Course - Zero to Hero" }
+  ]
+}

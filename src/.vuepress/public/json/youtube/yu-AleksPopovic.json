@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AleksPopovic",
+    "name": "Aleks Popovic",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOehgegj5gTveKa8RVMFXm-eq3ZMc7yl_e34svr=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "lEXc1UTTLzc", "title": "How to build Netflix's Coming Soon page | React Tutorial" },
+    { "id": "6sFTbTAVn5M", "title": "How to build Instagram in React | React Tutorial" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "BuildingAmazingThings",
+    "name": "Building Amazing Things",
+    "profile": "https://yt3.googleusercontent.com/rYwAYcVZqBdb6gon2lNa3IgqBAFiHdiZ2sprYOo2Ku4SKGdESlhAl1UEXgMY8-qf0z0hAFBdLQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pLygR854sk8zMK4d6nSjplrNp4FjNHKxs-dLFdSMCDozrJ2Z-RPV_-6tJaUc_vSqUJ68O-pajw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "P5epIoOJnzU", "title": "Figma UI Design Course: A Beginners Tutorial (UX UI 2024)" },
+    { "id": "wGZzJhjJqZ0", "title": "Figma Web UI Design - Pro Design" },
+    { "id": "PeGfX7W1mJk", "title": "Figma Mobile App Design Tutorial" }
+  ]
+}

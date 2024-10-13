@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "PowerCertAnimatedVideos",
+    "name": "PowerCert Animated Videos",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbtrt0vdlHIAHBPzdRUlVhQeW3AXqUnP-aS8k3_1A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-chWi_rMt6A-w7YzhE25WeGqLDxE5oFylU_m-GPE0usLgUfcEUF5wVegUVZu7bkRyOOA7-QDNg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xTH1ZA_qUvA", "title": "IPsec Explained" },
+    { "id": "C2FrTZxi_NI", "title": "Collision Domain vs Broadcast Domain" },
+    { "id": "Jfq_BYhxvy0", "title": "Windows Command Line Tools" },
+    { "id": "eyNBf1sqdBQ", "title": "Virtual Machines vs Containers" }
+  ]
+}

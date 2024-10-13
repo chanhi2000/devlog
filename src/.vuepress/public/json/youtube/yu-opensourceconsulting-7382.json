@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "opensourceconsulting-7382",
+    "name": "Open Source Consulting - 오픈소스컨설팅",
+    "profile": "https://yt3.googleusercontent.com/vHT0TOK-qN3lEOvMCnJxzGsh7m4uK2tx7PfZR4Eg1X3M2wxc7jo-NXgYcrWGS2077zrfxI4BZw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wE7WmtbClGirC9reZfYCxIol6vI-Po6W3UOFHgneoo-LidpliL7hViaGRBH0sXsehfrctXwKygs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kiGG-kTBr-w", "title": "[현장 스케치] All About Atlassian Cloud- 아틀라시안 클라우드에 대한 모든 것 | Atlassian solution" },
+    { "id": "XoYqzYQvtZU", "title": "01. 혁신을 위한 Enterprise on Cloud | 오픈소스컨설팅 한진규 부사장 | 아틀라시안 클라우드의 모든 것" },
+    { "id": "h2UIKCoou2A", "title": "04. Atlassian 스킬업 - Atlassian Intelligence Demo | 오픈소스컨설팅 은서진 프로 | 아틀라시안 클라우드의 모든 것" },
+    { "id": "nBjlG-BGy1E", "title": "03. What's new at Atlassian Cloud? | 아틀라시안 정광섭 이사 | 아틀라시안 클라우드의 모든 것" },
+    { "id": "rTBkVtsNSRY", "title": "05. [Success Story] Atlassian Cloud 구축 사례 | NDS 박병수 부장 | 아틀라시안 클라우드의 모든 것" },
+    { "id": "riht6FBgdr0", "title": "02. 성공적인 클라우드 마이그레이션 전략 | 오픈소스컨설팅 황정효 프로 | 아틀라시안 클라우드의 모든 것" },
+    { "id": "W5FvujH8q1A", "title": "[App Demo] Flexible User License for Cloud" },
+    { "id": "5cHhvks6Zeo", "title": "[App Demo] Flexible User License for datacenter" },
+    { "id": "CmB0zQWOKsg", "title": "[App Demo] Flexible CSV/XLSX Bulk User Import for Jira Cloud" },
+    { "id": "Yd47esP1OBU", "title": "[App Demo] Space Navigation" },
+    { "id": "aKS8JHVDqBE", "title": "[클라우드네이티브 HCI와 오픈소스 멀티클라우드 쿠버네티스 관리의 만남] intro" },
+    { "id": "-FVmPpjdUzk", "title": "[클라우드네이티브 HCI와 오픈소스 멀티클라우드 쿠버네티스 관리의 만남] session 2" },
+    { "id": "x12UHAs2B08", "title": "[클라우드네이티브 HCI와 오픈소스 멀티클라우드 쿠버네티스 관리의 만남] session 1" },
+    { "id": "reqpArfbYko", "title": "[클라우드네이티브 HCI와 오픈소스 멀티클라우드 쿠버네티스 관리의 만남] Q&A" },
+    { "id": "tp-NIVRCcho", "title": "[Unleash in Seoul] 성공을 이끄는통합 협업 시스템 구축 및 조직 Alignment 사례 - LG CNS 김형진 팀장" },
+    { "id": "4QynKFEfFF4", "title": "[Unleash in Seoul] 협업 툴을 활용한 Agile practice 실행하기(feat. Atlassian, Miro) - 오픈소스컨설팅 김두현 애자일 코치" },
+    { "id": "kvN6uBQa8fQ", "title": "[Unleash in Seoul] 왜 우리 개발팀은 CI/CD 도구로Bitbucket Cloud를 선택했을까? - 오픈소스컨설팅 송홍섭 테크 리더" },
+    { "id": "wmT7FKNBNuU", "title": "[Unleash in Seoul] Atlassian Jira, JSM,Bitbucket을 활용한 ITSM 구축 사례 및 데모 - 오픈소스컨설팅 황정효 프로" },
+    { "id": "vWdOrbWrR4Y", "title": "[Unleash in Seoul] Atlassian tool chain을 이용한 Open DevOps 플랫폼 - Atlassian 정광섭 이사" },
+    { "id": "88ybiqHfaUU", "title": "[Unleash in Seoul] Keynote: Unleashing the right dev culture - Atlassian 류윤상 대표" },
+    { "id": "YAWxYPz_jyg", "title": "[Unleash in Seoul] Keynote:Business Agility를 위한 DX with AX - 오픈소스컨설팅 김대일 고문" },
+    { "id": "wjCxoHMHPXk", "title": "Unleash Agile & DevOps in Seoul 현장 스케치" },
+    { "id": "InOmq2ex5VE", "title": "[고객 사례] LG CNS | 'Flexible User License'를 선택한 이유!" },
+    { "id": "IW1X8jLYeL0", "title": "[Customer Story] LG CNS | Why did we choose 'Flexible User License'?" },
+    { "id": "CUTTg89SYm4", "title": "✅ What is Agile? 2탄, 애자일이란 무엇일까요? - 오픈소스컨설팅 Agile Series (3)" },
+    { "id": "8IgtHlWE53o", "title": "[BDS 2023] VM과 컨테이너를 통합 관리하는 클라우드 네이티브 HCI 구축방안" }, 
+    { "id": "siT_Gn9npQU", "title": "What is Jira seats? How to control your team's Jira Seats?" }, 
+    { "id": "49gvijC_J_U", "title": "[웨비나] Miro 기본 교육: 초보자를 위한 가이드" }, 
+    { "id": "cXum4ZaMXds", "title": "Jira Align의 모든 것 (1) : Jira Align 기본 구성" }, 
+    { "id": "WS6sf4gzoW0", "title": "Life Science 기업에서 K-agile로 일하기" }
+  ]
+}
+

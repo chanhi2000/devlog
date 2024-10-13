@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "LearnProgrammingTogether",
+    "name": "Learn Programming Together",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOyqLb7haWIO3B0OUfEaAfC6VeMRolR5eA5dGEr=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MriEtYFF_YMun2UG7Ku7aRgMXaULE9DO13DRIi5Y_enaHSKCT3B3khgnuYxKtsD0BaCsABU0zg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SAtJ0ERiSw4", "title": "iOS Augmented Reality with ARKit //Павел Плотников" }, 
+    { "id": "xodyM-xXrl4", "title": "ПРОЕКТ Vue.js+Vuetify+Firebase (RU): #1 - Установка и основа приложения" }, 
+    { "id": "KVO3mOuVbTE", "title": "VueJS 3 Composition API (RU) with real example - разбор на примере" }
+  ]
+}
+
+

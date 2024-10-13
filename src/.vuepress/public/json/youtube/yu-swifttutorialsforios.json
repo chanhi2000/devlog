@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "swifttutorialsforios",
+    "name": "Swift Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMU-RGjrgWJwdQ_NUkjJmuzD_7izfiEAWB1Ig5a=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EwNcm4VjxCVLHcEnvD-z-jPjhvWnuKEt-PXLWQk8FIda13hx_O9IL5T-hdVUuj_TXnnT3bEfeh0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SuJ4cEOwqV8", "title": "Swift Tutorial - Count number of line UILabel in iOS SDK using swift" }, 
+    { "id": "Tjg5X30XhMw", "title": "Swift Tutorials: Integrate push notifications to iOS app using Firebase messaging (Step via step)" }, 
+    { "id": "NJpwx9i042E", "title": "Swift Tutorials: How to fix warning deprecated UIWebView API usage in Xcode for iOS app" }, 
+    { "id": "uEJzc81oCk4", "title": "Swift Tutorials: Detect change in internet connection using Network framework" }, 
+    { "id": "3Dk0JNQQkO0", "title": "How to make UIButton circular in swift 4" }, 
+    { "id": "Ps8bmxYdIVI", "title": "How to create drop down menu in ios using swift 4 + Xcode 9.2" }, 
+    { "id": "S6q5d3RvVY8", "title": "Create CheckBox in swift 4 using Xcode 9 0 onwards" }
+  ]
+}

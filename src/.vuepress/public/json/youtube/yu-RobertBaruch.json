@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "RobertBaruch",
+    "name": "Robert Baruch",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR6FPuSiQw9S6zM63jXDsv45cFLyu67ikHX0aoJdx4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c36eJDnreViTEM7zOATK_TRRPUGBqpkvQ0MvaiIwXQuuu5NLC5QBft-p_8GNXhTiCoTuoIcsnw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FMdYuGpPicw", "title": "Reverse engineering a simple CMOS chip" }
+  ]
+}

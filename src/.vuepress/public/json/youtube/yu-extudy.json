@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "extudy",
+    "name": "두목넷 익스터디",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lNIKIfU9ScCQ8jpdPt9KSdwzJMbJYORkgOIEOQ0QasPd8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-hlJ1Rhg_O5aySR8YRkvIBCxFkygJLYQSA8_Mw41RSmPlwPx7Ez7rInliga74Mjcg_HUJGdQjac=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cNQHjNnw7Pw", "title": "2024 개정 컴퓨터활용능력2급 실기 합격 전략과 기본 작업 풀이 (Feat. 정익종)" },
+    { "id": "7SDtWdzKlT8", "title": "사무자동화산업기사 실기 2023년 단기 합격 전략!" }, 
+    { "id": "g7NVCjinm7k", "title": "2020년 2회 정보처리기사실기 기출문제해설 풀강의" }, 
+    { "id": "Cvjdv2YbaL8", "title": "두목넷 정보처리기능사 필기 - 필독 ! 시험에 자주나오는 132문제 !!" }, 
+    { "id": "7SDtWdzKlT8", "title": "사무자동화산업기사 실기 2023년 단기 합격 전략!" }
+  ]
+}

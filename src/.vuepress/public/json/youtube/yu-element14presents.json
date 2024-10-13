@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "element14presents",
+    "name": "element14 presents",
+    "profile": "https://yt3.googleusercontent.com/gx1dfUyZ8SXnrO4QA20x8RBhzHZNfODrySzxnyFmxtqo3XYTNVkBdRbOMw2EMz6x-CqU0fDJ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/urwcjkUXmPZ9RbN58-LluVWYrOafMIzEJV-zy5FomNR0o7ACajiw5G0qSuHjZoLI54-4-kSHxg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_88b-4CrrOo", "title": "Using Nordic's nRF7002, My Dehumidifier Tells Me When It's Full!" },
+    { "id": "5bLpkOdTbc4", "title": "Smart Windows and Blinds with Arduino and Raspberry Pi Pico" },
+    { "id": "pVeknb0dz6A", "title": "DIY Hot Plate for SMD Soldering Using Raspberry Pi Pico" },
+    { "id": "1WrkDMRLRGg", "title": "Smart Subscriber Counter LED Sign with a Spectrum Analyzer" },
+    { "id": "n2eaY51rkJQ", "title": "If and When Do I2C Pull-Up Values Matter?" },
+    { "id": "0L8hSVrNQQo", "title": "Off-Grid Remote Generator Starter" },
+    { "id": "R0Uy4EL4xWs", "title": "How Transistors Work - The Learning Circuit" },
+    { "id": "pj0a91vlcGo", "title": "How to Run Linux on an ESP32" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "VicodeMedia",
+    "name": "Vicode Media",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMiwgU-qfWftSB2wLIErLJ13S-eeFCHMTKmfTYPCg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/muCjT5P3JYEKTzknFVqXtD8wET5tRdfAfsDYCm1soeM8BUde0ULnnCMR0My3UtXxGRlmIcOqmg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C7ol_68_I2Q", "title": "IP Location Catcher for Contact Form 7 WordPress" },
+    { "id": "d1umk0dGdlY", "title": "WordPress and ChatGPT API Integration Programmatically" },
+    { "id": "1GQfgSlSyl8", "title": "SVG Icons Animation with CSS and HTML" }, 
+    { "id": "spKgDyVucXs", "title": "WooCommerce API Drag and Drop Products with React" }, 
+    { "id": "uWPQ-CN7SSI", "title": "Learn Sass In 20 Minutes | Crash Course" }, 
+    { "id": "PMtXhxW6t2k", "title": "Leaflet - Build React.js Map App" }, 
+    { "id": "g5w4Ga1TThI", "title": "Part 1: Docker, MongoDB, NodeJS Stack - CRUD Environment Setup" }, 
+    { "id": "s35x4Rh0l44", "title": "Part 2: Docker, MongoDB, NodeJS Stack - CRUD Operations" }, 
+    { "id": "FTsis3xoFpw", "title": "JavaScript Animated Counter" }, 
+    { "id": "gIPlQOVDz0Q", "title": "How to build a URL Shortener Service" }
+  ]
+}

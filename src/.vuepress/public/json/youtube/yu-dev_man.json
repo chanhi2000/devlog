@@ -1,0 +1,71 @@
+{
+  "channel": {
+    "id": "dev_man",
+    "name": "개발하는남자",
+    "profile": "https://yt3.googleusercontent.com/CRfIeldfkRMlZQDIFjl9JOiO0vfbaoAcozOXhxOWSupfmajfSMBBEcs3_2axkGeaiToUt-Ry=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gYC7S6g9r3ETUp_ElnERHZCWBDBHqTShqHOLcTaWKpkhCHj3y9WCDrdnV73T8CzOR8keMEaQEA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QogXLq7Kc6I", "title": "플러터 프로젝트에서 퀄리티를 높힐 수 있는 초간단 위젯 10종" },
+    { "id": "4fJ-t5BDXQY", "title": "5일만에 만든 플러터 스네이크 게임! 제작 로그" },
+    { "id": "6lCpBoPmDqw", "title": "Flutter로 사용자 경험을 높이는 애니메이션 효과 만들기" },
+    { "id": "eXD99aDW7P8", "title": "플러터로 주식 백테스팅 앱 만들기! 7일 도전기 | Flutter 개발자의 퀀트 투자" }, 
+    { "id": "GBVBLKESogU", "title": "[Flutter hooks] flutter_hooks 이게 뭐야? 뭐가 좋은거야?" },
+    { "id": "wNyuKsiU4rA", "title": "[재미난 위젯 만들기] 쫀득쫀득 재미있는 효과의 indicator 어떻게 만들까?" },
+    { "id": "R5Po2fWr2D4", "title": "선언형 프로그래밍? 이 영상으로 한번에 이해해보자 !! #선언형프로그래밍 #선언형UI" },
+    { "id": "tLBHhm09DGg", "title": "[ 수강생요청- 위젯만들기 ] 플러터 기본 위젯 슬라이더를 사용해보자" },
+    { "id": "buJjAxsg-ow", "title": "[ 수강생요청- 위젯만들기 ] 직접 슬라이더를 만들어보자" },
+    { "id": "WFF8Y2-E_NA", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useMemoized #useCallback" },
+    { "id": "66ACBjV58YQ", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useEffect" },
+    { "id": "8IgXvbO3Mxs", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useState" },
+    { "id": "yWIxz7CYFMc", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useReducer" },
+    { "id": "wQ4bWw8RFWA", "title": "[Flutter Hooks] 간단 예제로 살펴보는 built-in 기능 #useTabController #useAnimationController" },
+    { "id": "jP19mQMtyEw", "title": "Shorebird 사용해보면서 느낀점 리뷰 ... 아직.. XXX." },
+    { "id": "txqDpaERR1s", "title": "[플러터 상태관리] #1화 왜 Bloc? : Bloc 마스터 코스~! 기초부터 응용까지 !!" }, 
+    { "id": "zJBWAGnUgK4", "title": "[플러터] 인스타그램 클론 코딩 #5 - 중첩 라우팅 관리" }, 
+    { "id": "0Ms5_efRseM", "title": "파이어베이스 Functions 이 뭐란 말인가 [응용편] 플러터 로그인후 이미지 업로드  :)" }, 
+    { "id": "YM0dMUHMY24", "title": "파이어베이스 Functions 이 뭐란 말인가~?!" }, 
+    { "id": "MT2zJ0bC7XM", "title": "[ 플러터 / firebase storage + store] 카톡프사를 구현해 보자 ~! / Image Picker & Image Cropper 셋업 및 예제 " }, 
+    { "id": "uug5BWqmLkA", "title": "[ Flutter / 플러터 ] 파이어베이스 SNS 로그인 정복하기 / 애플 로그인 편 [Android] #6" }
+  ],
+  "playlists": [
+    {
+      "title": "당근마켓 클론코딩",
+      "videos": [
+        { "id": "aYeBFDnPbkY", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #1" },
+        { "id": "89myhI2yKK8", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #2" },
+        { "id": "Lo6bv1BoAOo", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #3" },
+        { "id": "o_8t9zgc2sA", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #4" },
+        { "id": "fwzO5QD5Djc", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #5" },
+        { "id": "sDXmGvzzf-E", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #6" },
+        { "id": "KYKPY3vEzbo", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #7" },
+        { "id": "c6rwfZBKjp8", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #8" },
+        { "id": "yzElAA4cb2w", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #9" },
+        { "id": "wlF4KZNiTyU", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #10" },
+        { "id": "2EUoSXbGQjo", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #11" },
+        { "id": "1wQsA5eAVs4", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #12" },
+        { "id": "v70nSUwB7fw", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #13" },
+        { "id": "hyRvfMleIRs", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #14" },
+        { "id": "waHXBxZ0ai8", "title": "[ Flutter / 플러터 ] 당근마켓 홈 화면을 플러터로 만들어보자 #Final" }
+      ]
+    }, {
+      "title": "유튜브 앱 만들기(플러터 + GetX)",
+      "videos": [
+        { "id": "w86CZtyKdcc", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 해보자~! #1" },
+        { "id": "9DHBpOPf30w", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 앱 초기 설정 편 #2" },
+        { "id": "ZPIK1ZT7KvA", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - Bottom Navigation 세팅 편 #3" },
+        { "id": "YP90J9e_IP0", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - Getx BottomSheet #4" },
+        { "id": "jerm-kN9AH0", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - Sliver Appbar 사용 #5" },
+        { "id": "xQwS0ci2TgA", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 리스트 화면 구성 #6" },
+        { "id": "orNhUgAnw7s", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 동영상 상세 화면 구성 #7" },
+        { "id": "8CdVeNMVH-Y", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 유튜브 API 키발급 및 살펴보기  #8" },
+        { "id": "5vWUBACadIY", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - Api 데이터 적용  #9" },
+        { "id": "DiRBIlg0_K0", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 유튜버 thumbnail , 영상 조회수 적용  #10" },
+        { "id": "wU79O53LVvI", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 무한스크롤 infinite Scroll 적용 #11" },
+        { "id": "7FPRruQixPk", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 상세화면 데이터 binding & youtube 영상 처리 #12" },
+        { "id": "tsd6NEZsaKk", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - 검색 페이지 화면 구성 #13" },
+        { "id": "7F0hSgNPODw", "title": "[ 플러터 / Getx 응용 ] 유튜브 앱 클론코딩 - shared_preferences 사용하여 검색 페이지 기능 구현 #Final" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ClarityCoders",
+    "name": "ClarityCoders",
+    "profile": "https://yt3.googleusercontent.com/L40XN5rGT5eBgJAgifR-VnEWnaUGONXAd4mrYcA_RUmzRLpK_rmKrAWAmFniW3XFzTTYL4bbydY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EWnRqXrHnhT5HeJl5YJdIVizqR2lY3hbOGNwOHhRLKTvr2x0zvD2tHsaXnWvGolwL07n3qmqRQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0oqYwZi4igc", "title": "Next.js 14: Themed TypeScript App with Light & Dark Mode | Tutorial" },
+    { "id": "PDzifxuEric", "title": "Game Automation with YOLOv8: Python Bot Tutorial" },
+    { "id": "vXqKniVe6P8", "title": "Dominating an Online Game with Object Detection Using OpenCV - Template Matching." },
+    { "id": "V6w64-_X9QU", "title": "Next.js 13.5 Authentication: Mastering Role-Based Security with AuthJS/NextAuth" },
+    { "id": "31jDeCEIAj4", "title": "Building a Modern Ticketing App with Next.js, Tailwind CSS, and MongoDB" },
+    { "id": "V6w64-_X9QU", "title": "Next.js 13.5 Authentication: Mastering Role-Based Security with AuthJS/NextAuth" }
+  ]
+}

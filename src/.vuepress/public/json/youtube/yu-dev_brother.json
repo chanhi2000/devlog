@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "dev_brother",
+    "name": "개발동생",
+    "profile": "https://yt3.googleusercontent.com/oxq4r0XdpEsxoTa2INfE2S4fkFuCzrMu0MNmaKaSvWdHDukeFTEL0F9eborxLC25z36nqn8X=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wtTRSMWI9a4", "title": "Any background I want can change everything - stable diffusion inpaint feature" },
+    { "id": "gssrI2jDqcg", "title": "이미지 일관성의 비밀: Fooocus로 마스터 하기" },
+    { "id": "PrVd17FnNAg", "title": "엑셀은 끝인가? Excel 말고 챗GPT 배우세요!" },
+    { "id": "K9dzhcyflhc", "title": "제가 AI로 직접 만들어 봤습니다" },
+    { "id": "vLn-R6cgbG8", "title": "Stable Diffusion 이미지 블렌딩 하는 방법 | Fooocus 멀티 프롬프트" },
+    { "id": "5v-UKOgIRMo", "title": "무료로 고컬 광고 이미지 만드는 방법! 이 영상 하나로 300만원 아끼세요" },
+    { "id": "VNfQNw3w0vI", "title": "ChatGPT 플러그인으로 업무 생산성 끌어올리기 | 마인드맵 + 플로우차트" },
+    { "id": "swb605XEJRw", "title": "이제 배우도 대체 될까요? | 오픈AI SORA" },
+    { "id": "H-19h-J4foY", "title": "(2024) 챗GPT 초보자 이 영상 후회 안합니다 | 무려 10가지 팁" }
+  ]
+}

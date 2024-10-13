@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "bmdavis419",
+    "name": "Davis Media",
+    "profile": "https://yt3.googleusercontent.com/khehSk8rMRzJlN7HiiYfFxa4um5NbwEEmqqorowrvaYCgR9u5iWw_pqqnU1Zil8ertSDu2u2CQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/61SiYbQU6oYO_l7zvQOTiS-MYrHEF_5phSRBF94NzMbFQL3Bs8Eby8QViwfig94h_2SC-9VUoWk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AaBBKRKWI-k", "title": "How and Why I Rebuilt my SAAS App" },
+    { "id": "3D_CBoo83rU", "title": "Full Stack AI Tutorial: AI SDK + NextJS + Upstash + OpenAI" },
+    { "id": "d95BM8MuXqw", "title": "I Think Vercel is Wrong About This..." },
+    { "id": "kGn578A7z_o", "title": "Svelte 5 is Bigger Than You Think" },
+    { "id": "lEWghUOta-4", "title": "2024 Supabase + Sveltekit Tutorial (0 to prod)" },
+    { "id": "LJk8_dIwaHo", "title": "React Kinda Peaked in 2022..." },
+    { "id": "TC9inDok1x0", "title": "AI SDK 3.1 First Impressions" },
+    { "id": "1M2n9HXIvUU", "title": "Supabase just shipped a LOT of cool stuff..." },
+    { "id": "Qi1VRxsXYJc", "title": "Mobile App Development is Hard" },
+    { "id": "m_ZHTqMwo4k", "title": "What its like to use NextJS in 2024" },
+    { "id": "vKbrRzBROso", "title": "My Favorite Database is Now a Lot Harder to Recommend..." },
+    { "id": "xahLLwrxW2Y", "title": "SvelteKit + Lucia Auth Explained in 15 Minutes" },
+    { "id": "EJSPVx0btyw", "title": "Looking at how to actually make AI useful in my app..." },
+    { "id": "oHqw9uR2KFU", "title": "Astro DB Surprised Me..." },
+    { "id": "Furwj8_1hqc", "title": "Adding a \"real\" backend to my fullstack JS apps (new template & thoughts)" },
+    { "id": "Njh5cyvi78M", "title": "Demo Hono + Astro App and Talking About What Database I'm Using..." },
+    { "id": "4XctkLE3MuM", "title": "2024 JavaScript Backend Frameworks Are Getting Weird..." },
+    { "id": "rW2YR6kljd8", "title": "Picking a Database is Hard..." },
+    { "id": "PINFQpMevj4", "title": "Wait, is NextJS the Framework of the Future?" },
+    { "id": "isTO0NahEM8", "title": "How I Build More Projects" },
+    { "id": "gO-fF4m_2Xg", "title": "The New NextJS Surprised Me..." },
+    { "id": "1WFodRUX4mM", "title": "Betting on SQLite..." }
+  ],
+  "playlists": [
+
+  ]
+}

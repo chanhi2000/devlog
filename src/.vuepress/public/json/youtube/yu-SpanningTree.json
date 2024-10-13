@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "SpanningTree",
+    "name": "Spanning Tree",
+    "profile": "https://yt3.googleusercontent.com/_XHlAXJYXCSz7sFXGsMxYRSz5QQBh5mo-Sl0lAPXZIFch4n7j6rO4ZsWnrxzbzbrWPds14fdTw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/le_7UdRCYtiAaQLrQJ92-4NtWjxDFSKtLMiNI9xGhKFYQqJNoTru-iETM1oGsKQApfDTeOCA_A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HzLom8rk2zo", "title": "Teaching Computers to Learn, Part 1" },
+    { "id": "_GkNhKqsgVQ", "title": "Mathematical Origins of Machine Learning | Teaching Computers to Learn, Part 2" },
+    { "id": "85oMrKd8afY", "title": "Diffie-Hellman Key Exchange: How to Share a Secret" },
+    { "id": "K1a2Bk8NrYQ", "title": "Understanding B-Trees: The Data Structure Behind Modern Databases" },
+    { "id": "yj6wo5SCObY", "title": "How do computers add numbers so quickly?" }
+  ],
+  "playlists": [
+    
+  ]
+}

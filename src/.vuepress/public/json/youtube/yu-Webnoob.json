@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Webnoob",
+    "name": "Webnoob",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRWWUnN8ksZTIz-OcXw05dQGlwjjHDHDYwEc6wYLA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jzTzEgfFOizsKwYldrHRkYaVA6e-h6PCNqkY_p4s_c5l74h2qtILhaiplJTlLjW4Y-38BTy7SQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UOgn4jbj86c", "title": "Vuex Crash Course In 30 Minutes" }
+  ]
+}

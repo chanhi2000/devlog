@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AIDKR",
+    "name": "한국축산데이터",
+    "profile": "https://yt3.googleusercontent.com/jSnFsDfRytk8PJJ5I6KxSnz2fn53zRyXH3EimCq21H4jjmnaODLzcPY716IBQtbMvljo2f5kRQ8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QxmpXlgwgOYqkQdxxfRJ2JHFuBbt8CHISKfJuIxrFLCk-HnLVYeOHLKa64ovFOmbqh7y2imm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lAaD-6OQSHE", "title": "liftIO 2022 : 웹 개발의 모순과 Elixir가 특효약인 이유 - 한국축산데이터 CTO Max(이재철)" }
+  ]
+}

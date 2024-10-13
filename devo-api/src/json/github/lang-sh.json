@@ -1,0 +1,654 @@
+[  
+  {
+    "repo": "tldr-pages/tldr",
+    "desc": "📚 Collaborative cheatsheets for console commands",
+    "officialSite": "https://tldr.sh",
+    "topics": ["shell", "console", "documentation", "terminal", "command-line", "man-page", "examples", "help", "tldr", "manual", "hacktoberfest", "manpages"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "WSA-Community/WSAGAScript",
+    "desc": "Scripts to install Google Apps into a WSA image. Plus optional root",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ohmyzsh/ohmyzsh",
+    "desc": "🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  ",
+    "officialSite": "https://ohmyz.sh",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "FreedomBen/basic-ocp-demo",
+    "desc": "Sample app that can be easily deployed to OpenShift either as a training exercise or demonstration.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Bugswriter/notflix",
+    "desc": "Notflix is a shell script to search and stream torrent.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ax/apk.sh",
+    "desc": "apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rails/docked",
+    "desc": "Running Rails from Docker for easy start to development",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dreamncn/ParallelsDesktopCrack",
+    "desc": "Crack for Parallels Desktop 18.1.1 53328",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "base-org/node",
+    "desc": "Everything required to run your own Base node",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vcheckzen/KeepAliveE5",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Murderlon/dotfiles",
+    "desc": "⚙️ Automated dotfiles setup for Fish, Neovim, Tmux, Git, Homebrew packages, and macOS settings.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fbelavenuto/arpl",
+    "desc": "Automated Redpill Loader",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "maplecool/easytrojan",
+    "desc": "世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aleskxyz/reality-ezpz",
+    "desc": "Reality EZPZ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Security-Onion-Solutions/securityonion",
+    "desc": "Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",
+    "officialSite": "https://securityonion.net",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Fmstrat/winapps",
+    "desc": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aristocratos/bashtop",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "oracle/docker-images",
+    "desc": "Official source of container configurations, images, and examples for Oracle products and projects",
+    "officialSite": "https://developer.oracle.com/use-cases/#containers",
+    "topics": ["docker", "dockerfile", "dockerfiles", "nosql", "oracle", "oci", "graalvm", "docker-images", "oracle-database", "oracle-linux", "oraclelinux", "oracle-commercial", "oracle-instantclient", "coherence-ce", "oracle-products"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LSPosed/MagiskOnWSALocal",
+    "desc": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+    "officialSite": "",
+    "topics": ["android", "windows", "google-apps", "magisk", "wsa", "windows11"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "89luca89/distrobox",
+    "desc": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox",
+    "officialSite": "https://distrobox.privatedns.org",
+    "topics": ["linux", "bash", "docker", "development", "tools", "debian", "ubuntu", "command-line", "archlinux", "containers", "alpine", "fedora", "centos", "suse", "posix", "opensuse", "posix-sh", "podman", "rockylinux", "almalinux"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "patte/fly-tailscale-exit",
+    "desc": "Run a VPN with global exit nodes with fly.io, tailscale and github!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "eth-p/bat-extras",
+    "desc": "Bash scripts that integrate bat with various command line tools.",
+    "officialSite": "",
+    "topics": ["bat", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gabia/git-hooks-with-husky",
+    "desc": "Git Hook with Husky",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "QiuChenly/MyMacsAppCrack",
+    "desc": "MacBook 自用软件破解（macOS Intel）",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "moraroy/NonSteamLaunchers-On-Steam-Deck",
+    "desc": "Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Currently Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala and the Rockstar Games Launcher. Now with SD Card Support.",
+    "officialSite": "https://github.com/sponsors/moraroy",
+    "topics": ["steam", "deck"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Surnet/docker-wkhtmltopdf",
+    "desc": "wkhtmltopdf for multiple base images",
+    "officialSite": "https://hub.docker.com/u/surnet",
+    "topics": ["python", "docker", "dockerfile", "node", "alpine", "docker-image", "wkhtmltoimage", "wkhtmltopdf", "wkhtmltox"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "officialSite": "",
+    "topics": ["bash", "install", "lts", "node", "node-js", "nodejs", "nvm", "nvmrc", "posix", "posix-compliant", "shell", "version-manager", "zsh"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kdave/btrfsmaintenance",
+    "desc": "Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.",
+    "officialSite": "",
+    "topics": ["administration", "btrfs"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "termux/termux-packages",
+    "desc": "A package build system for Termux.",
+    "officialSite": "https://termux.dev",
+    "topics": ["android", "hacktoberfest", "linux", "linux-distribution", "packages", "termux"],
+    "avatar": "",
+    "banner": ""
+  } , {
+    "repo": "jjcm/nonio",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MustardChef/WSABuilds",
+    "desc": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
+    "officialSite": "",
+    "topics": ["android", "windows", "google-apps", "windows-10", "windows10", "android-emulator", "subsystem", "magisk", "windows-11", "windows-subsystem-for-android", "windows-subsystem-android", "windowssubsystemforandroid", "magiskonwsa", "kernelsu", "magiskonwsalocal", "wsapatch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "binpash/try",
+    "desc": "\"Do, or do not. There is no try.\" We're setting out to change that: `try cmd` and commit---or not.",
+    "officialSite": "",
+    "topics": ["shell", "administration", "tools", "containers", "virtualization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "getlago/lago",
+    "desc": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+    "officialSite": "https://www.getlago.com",
+    "topics": ["analytics", "billing", "clickhouse", "fintech", "invoices", "metering", "open-source", "payments", "pricing", "pricing-data-science", "react", "ruby", "self-hosted", "subscriptions", "usage-based-billing"],
+    "avatar": "https://avatars.githubusercontent.com/u/75492405?v=4",
+    "banner": ""
+  }, {
+    "repo": "markshust/docker-magento",
+    "desc": "Mark Shust's Docker Configuration for Magento",
+    "officialSite": "https://m.academy/courses/setup-magento-2-development-environment-docker",
+    "topics": ["docker", "docker-compose", "magento", "magento-2", "magento2", "hacktoberfest", "docker-magento"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "HariSekhon/DevOps-Bash-tools",
+    "desc": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+    "officialSite": "https://www.linkedin.com/in/HariSekhon",
+    "topics": ["github", "mysql", "git", "linux", "api", "bash", "docker", "kubernetes", "jenkins", "aws", "spotify", "devops", "kafka", "hadoop", "ci", "terraform", "perl", "cloudera", "postgresql", "gcp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ChimeraOS/chimeraos",
+    "desc": "A Steam Big Picture based couch gaming OS",
+    "officialSite": "",
+    "topics": ["linux", "steam", "distribution", "gaming", "os", "bigpicture", "bigpicturemode"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "BEPb/BEPb",
+    "desc": "Config files for my GitHub profile.",
+    "officialSite": "https://github.com/BEPb",
+    "topics": ["config", "github-config"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "efrecon/pgbackup",
+    "desc": "Dockerized local and offline backing up of PostgresQL with rotation and compression.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "declassed-art/armvuan",
+    "desc": "Armbian + Devuan = Armvuan",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "minios-linux/minios-live",
+    "desc": "These scripts build a bootable MiniOS ISO image.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "officialSite": "https://pi-hole.net",
+    "topics": ["ad-blocker", "blocker", "cloud", "dashboard", "dhcp", "dhcp-server", "dns-server", "dnsmasq", "pi-hole", "raspberry-pi", "shell"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "thuml/Time-Series-Library",
+    "desc": "A Library for Advanced Deep Time Series Models.",
+    "officialSite": "",
+    "topics": ["deep-learning", "time-series"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hectorm/docker-qemu-win2000",
+    "desc": "A Docker image for Windows 2000 Advanced Server with SP4.",
+    "officialSite": "https://hub.docker.com/r/hectorm/qemu-win2000",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cisagov/LME",
+    "desc": "Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.",
+    "officialSite": "https://www.cisa.gov/resources-tools/services/logging-made-easy",
+    "topics": ["cybersecurity", "elastic", "elasticsearch", "elk", "elk-stack", "log", "logging", "network-analysis", "security", "security-tools", "zeek"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "streamdal/streamdal",
+    "desc": "Deployment for Streamdal server",
+    "officialSite": "https://www.streamdal.com",
+    "topics": ["astrojs", "data-contracts", "deno", "docker", "event-driven", "go", "javascript", "message-queues", "nodejs", "observability", "python", "reactjs", "rust", "streaming-data", "tail-f"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AsahiLinux/docs",
+    "desc": "Hardware and software docs / wiki",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "openwrt/packages",
+    "desc": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
+    "officialSite": "",
+    "topics": ["hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "netbootxyz/netboot.xyz",
+    "desc": "Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.",
+    "officialSite": "https://netboot.xyz",
+    "topics": ["ansible", "baremetal", "boot", "dhcp", "docker", "hacktoberfest", "install", "installer", "ipxe", "linux", "liveos", "menu", "netboot", "netbootxyz", "operating-systems", "provisioning", "pxe", "pxeboot", "pxelinux", "tftp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "poettering/diskomator",
+    "desc": "🦠 NVMe-TCP at your fingertips 🦠",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LouisShark/chatgpt_system_prompt",
+    "desc": "store all chatgpt's system prompt",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LouisShark/chatgpt_system_prompt",
+    "desc": "store all agent's system prompt",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "prasanthrangan/hyprdots",
+    "desc": "// Aesthetic, dynamic and minimal dots for Arch hyprland",
+    "officialSite": "",
+    "topics": ["arch", "archlinux", "dolphin", "dotfiles", "dots", "hypr", "hyprdots", "hyprland", "installer", "kitty", "linux", "modular", "neofetch", "rice", "rofi", "shell", "swww", "theme-switcher", "waybar", "zsh"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "berwynhoyt/wordstar-keys",
+    "desc": "Implement wordstar cursor control keys in linux using xkb",
+    "officialSite": "",
+    "topics": ["wordstar", "xkb"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "paulredmond/dotfiles",
+    "desc": "My dotfiles",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anasfik/flutter-spy",
+    "desc": "Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.",
+    "officialSite": "",
+    "topics": ["bugbounty", "flutter", "osint", "recon", "reconnaissance", "reverse-engineering", "security-tools"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ublue-os/bazzite",
+    "desc": "Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.",
+    "officialSite": "https://bazzite.gg",
+    "topics": ["desktop", "fedora-kinoite", "fedora-linux", "fedora-silverblue", "gaming", "htpc", "oci-image", "operating-system", "ostree", "steam", "steam-deck", "valve"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ublue-os/bazzite",
+    "desc": "Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.",
+    "officialSite": "https://bazzite.gg",
+    "topics": ["desktop", "fedora-kinoite", "fedora-linux", "fedora-silverblue", "gaming", "htpc", "oci-image", "operating-system", "ostree", "steam", "steam-deck", "valve"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SebastianMuskalla/ModelessVim",
+    "desc": "Configuration files to turn vim into a modeless editor.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "thijsvanloef/palworld-server-docker",
+    "desc": "A Docker Container to easily run a Palworld dedicated server.",
+    "officialSite": "https://hub.docker.com/r/thijsvanloef/palworld-server-docker",
+    "topics": ["dedicated-gameservers", "dedicated-server", "docker", "palworld", "palworld-dedicated-server"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jammsen/docker-palworld-dedicated-server",
+    "desc": "Docker container to easily provision and manage Palworld Forest Dedicated Server",
+    "officialSite": "https://hub.docker.com/r/jammsen/palworld-dedicated-server",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "quickemu-project/quickemu",
+    "desc": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+    "officialSite": "https://www.youtube.com/watch?v=AOTYWEgw0hI",
+    "topics": ["9p", "efi", "hackintosh", "hacktoberfest", "kvm", "linux", "macos", "qemu", "spice", "tpm", "virgl", "virglrenderer", "virtio", "virtualization", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mack-a/v2ray-agent",
+    "desc": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "officialSite": "https://www.v2ray-agent.com",
+    "topics": ["cloudflare", "grpc-cloudflare", "hysteria2", "nginx", "reality", "reality-grpc", "reality-xtls-rprx-vision", "shell", "sing-box", "trojan", "trojan-grpc", "tuic-v5", "v2ray", "vless", "vmess", "websockettlscdn-cloudflare-ip", "xray", "xray-core", "xray-install", "xtls-rprx-vision"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bluesky-social/pds",
+    "desc": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
+    "officialSite": "",
+    "topics": ["atproto", "bluesky", "self-hosted"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MegaManSec/SSH-Snake",
+    "desc": "SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",
+    "officialSite": "https://megamansec.github.io/SSH-Snake/",
+    "topics": ["bash", "cybersecurity", "exploitation", "exploitation-tool", "hacking", "hacking-tools", "pentesting", "post-exploitation", "redteam", "scanner", "security", "security-tools", "shell", "ssh", "ssh-hacking", "vulnerability-scanner", "worm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dockur/windows",
+    "desc": "Windows in a Docker container.",
+    "officialSite": "",
+    "topics": ["docker", "docker-container", "windows", "windows-virtual-machines"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "opendtrace/toolkit",
+    "desc": "The DTrace Toolkit: A set of scripts for use with DTrace on various systems.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "juewuy/ShellCrash",
+    "desc": "Run sing-box/mihomo as client in shell",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kicksecure/security-misc",
+    "desc": "Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc",
+    "officialSite": "https://www.kicksecure.com/wiki/Impressum",
+    "topics": ["kernel-hardening", "kspp", "security"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "catppuccin/tmux",
+    "desc": "💽 Soothing pastel theme for Tmux!",
+    "officialSite": "",
+    "topics": ["catppuccin", "colors", "colorscheme", "hacktoberfest", "pretty", "tmux", "tmux-conf", "tmux-theme"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CISOfy/lynis",
+    "desc": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "officialSite": "https://cisofy.com/lynis/",
+    "topics": ["auditing", "compliance", "devops", "devops-tools", "gdpr", "hardening", "hipaa", "linux", "pci-dss", "security-audit", "security-hardening", "security-scanner", "security-tools", "security-vulnerability", "shell", "system-hardening", "unix", "vulnerability-assessment", "vulnerability-detection", "vulnerability-scanners"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aforensics/HiddenVM",
+    "desc": "HiddenVM — Use any desktop OS without leaving a trace.",
+    "officialSite": "",
+    "topics": ["anti-forensics", "antiforensics", "debian", "deniability", "linux", "opsec", "privacy", "snowden", "tails", "tor", "veracrypt", "virtualbox", "virtualization", "vm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pyenv/pyenv",
+    "desc": "Simple Python version management",
+    "officialSite": "",
+    "topics": ["python", "shell"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "olegos2/mobox",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Atlas-OS/Atlas",
+    "desc": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.",
+    "officialSite": "https://atlasos.net",
+    "topics": ["atlas", "atlasos", "debloat", "fps", "gaming", "latency", "open-source", "opensource", "performance", "privacy", "security", "tweaks", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bitnami/containers",
+    "desc": "Bitnami container images",
+    "officialSite": "https://bitnami.com",
+    "topics": ["bitnami", "containers", "docker", "docker-image", "non-root", "vmware"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "spawnmason/randar-explanation",
+    "desc": "\"Randar\" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to locate other players currently loaded into the world.",
+    "officialSite": "",
+    "topics": ["2b2t", "exploit", "exploitation", "lattice", "lattice-reduction", "lll", "minecraft", "munmap", "papermc", "radar", "randar", "random", "rng", "spawnmason", "spawnmasons"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SeleniumHQ/docker-selenium",
+    "desc": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+    "officialSite": "http://www.selenium.dev/docker-selenium/",
+    "topics": ["docker", "docker-selenium", "kubernetes", "kubernetes-selenium", "selenium", "selenium-grid", "selenium-node", "selenium-server", "webdriver"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "netrisdotme/netris",
+    "desc": "[Experimental] Open-source GeForce NOW alternative with Stadia's social features",
+    "officialSite": "https://netris.me",
+    "topics": ["dxvk", "geforcenow", "linux-gaming", "nvidia", "proton", "stadia", "steamdeck", "vkd3d", "wine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "netrisdotme/netris",
+    "desc": "[Experimental] Open-source GeForce NOW alternative with Stadia's social features",
+    "officialSite": "https://netris.me",
+    "topics": ["dxvk", "geforcenow", "linux-gaming", "nvidia", "proton", "stadia", "steamdeck", "vkd3d", "wine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "amalmurali47/git_rce",
+    "desc": "Exploit PoC for CVE-2024-32002",
+    "officialSite": "https://amalmurali.me/posts/git-rce",
+    "topics": ["cve-2024-32002", "git", "proof-of-concept", "rce"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StasPlov/docker-unlock",
+    "desc": "Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hackerb9/lsix",
+    "desc": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+    "officialSite": "",
+    "topics": ["files", "graphics", "imagemagick", "ls", "montage", "sixel-graphics", "terminal", "terminal-graphics", "thumbnails", "vt340", "xterm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DaoCloud/public-image-mirror",
+    "desc": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。",
+    "officialSite": "",
+    "topics": ["mirror", "speedup"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "basecamp/omakub",
+    "desc": "Opinionated Ubuntu Setup",
+    "officialSite": "https://omakub.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nicoloboschi/local-kubernetes-runner",
+    "desc": "CLI for spins up a K8s cluster locally in 10 seconds.",
+    "officialSite": "",
+    "topics": ["k3s", "k8s", "kubernetes", "kubernetes-cluster", "testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "h4l/json.bash",
+    "desc": "Command-line tool and bash library that creates JSON",
+    "officialSite": "",
+    "topics": ["bash", "command-line", "json", "shell", "shell-script", "terminal", "unix"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "albertobsd/keyhunt",
+    "desc": "privkey hunt for crypto currencies that use secp256k1  elliptic curve",
+    "officialSite": "",
+    "topics": ["bitcoin", "bsgs", "crypto-currencies", "cryptocurrency", "privatekeys", "publickeys", "puzzle", "secp256k1"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wolandark/bash-dungeon",
+    "desc": "An educational dungeon crawler in the shell",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "GaiaNet-AI/gaianet-node",
+    "desc": "Install and run your own AI agent service",
+    "officialSite": "https://www.gaianet.ai/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "victrixsoft/bashbro",
+    "desc": "A Bash-based web file browser. Allowing you to browse, view and transfer files via your web browser.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "veggiedefender/open-and-shut",
+    "desc": "Type in Morse code by repeatedly slamming your laptop shut",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/8890878?v=4",
+    "banner": ""
+  }, {
+    "repo": "aerugo/prelude",
+    "desc": "A very simple tool to build LLM prompts from your code repositories.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/7785081?v=4",
+    "banner": ""
+  }, {
+    "repo": "sdushantha/tmpmail",
+    "desc": "A temporary email right from your terminal written in POSIX sh",
+    "officialSite": "",
+    "topics": ["1secmail", "aur", "bash", "commandline", "disposable-email", "linux", "macos", "posix", "posix-sh", "receive-emails", "temporary-email", "tmpmail"],
+    "avatar": "https://avatars.githubusercontent.com/u/27065646?v=4",
+    "banner": ""
+  }
+]

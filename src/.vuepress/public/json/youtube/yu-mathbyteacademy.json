@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "mathbyteacademy",
+    "name": "MathByte Academy",
+    "profile": "https://yt3.googleusercontent.com/d-0WMhKLug6f3paDV3QfDB9hmjb7SNZqlYllMXCszd39TnWAWAgnJ6ShKoI0YFY50iOJ6XQiSQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TApmzNskaydDlyhXx1t7j7URhFUzIX5MufCihuJIRTVLym_pHqymT6X1O-b4WyQKx4K14N7d=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sFqdgG8tSPk", "title": "The pyyaml Library" },
+    { "id": "Zs177gghnjA", "title": "The benedict Library" },
+    { "id": "qJWz-01r6gk", "title": "The Tenacity Library" },
+    { "id": "5QzAoZpM6uk", "title": "Python's SimpleNamespace and JSON" },
+    { "id": "2ldy3HcW_w8", "title": "Postgres SQL Migrations using YoYo" },
+    { "id": "cD0XBiJMliw", "title": "psycopg Row Factories - ORM-free area!" },
+    { "id": "WKWyYWHQMQs", "title": "Simplify Debug Print Statements using IceCream" },
+    { "id": "Xs4-5SDRxyU", "title": "Easy Progress Bars using tqdm" },
+    { "id": "lNJ31b4FR28", "title": "Turbocharge your CPU Intensive Python Apps using MultiProcessing" },
+    { "id": "lT9gQMI4b9c", "title": "The Arrow Library" },
+    { "id": "Sx2cIbX7DCQ", "title": "The wrapt Library" },
+    { "id": "9lzrlOzzYMg", "title": "Controlling PixInsight with a StreamDeck on a Mac" },
+    { "id": "lNJ31b4FR28", "title": "Turbocharge your CPU Intensive Python Apps using MultiProcessing" },
+    { "id": "QkGeJGAKHfs", "title": "Speed Up your Python Apps with Caching" }, 
+    { "id": "4yUXPZGhIX8", "title": "Pydantic: Migrating from V1 to V2" }
+  ]
+}

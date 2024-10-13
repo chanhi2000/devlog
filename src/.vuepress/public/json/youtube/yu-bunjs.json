@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "bunjs",
+    "name": "Bun",
+    "profile": "https://yt3.googleusercontent.com/ToxIxwGERprDoFON0FxaOlxLNHr88SnM56FlcmoIUFdKoEs276iCr3nykbIso6qNvyDo3OTVIA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CZJbBwrwnpEmd6KlmyMPEpfZAxUg7So4VjIGKB8rqNJr-fFlxEVkR08oJ9Hzq5-461DhWtOGgQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yXTFOeGly9o", "title": "Bun 1.1: Bundows is here" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "javaforengineersYT",
+    "name": "Java for Engineers",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQvknJ4262RrQT2eo7FMWBDlaRD9EDCBqfBYJP_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BZgHKiB0mwaqxn_T5FI3b7C9O-mOBrAp5iFn0HUfi_EI6ooS2ezX7oE1_1yWBoW-I76KuslUQEw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wZkS_ZPX3Vw", "title": "Learn Java with ChatGPT -- Part 6: Wrapper Classes" }, 
+    { "id": "ZBfUsQNPbpU", "title": "Learn Java with ChatGPT -- Part 5: Primitive Types and Literals" }, 
+    { "id": "lLmrDK7WWKg", "title": "Learn Java with ChatGPT -- Part 2: JDK Installation" }, 
+    { "id": "8gvwghbZHZA", "title": "LaTeX for Java Developers -- Part 6: Implementing LaTeX Environments in Java" } 
+  ]
+}
+
+

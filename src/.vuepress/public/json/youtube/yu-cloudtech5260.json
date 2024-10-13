@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "cloudtech5260",
+    "name": "CloudTech",
+    "profile": "https://yt3.googleusercontent.com/byU42qUAKGGIZZoWnGYtx6qbgALU-93KmY_hFg_4-FL5NPrwZ1JyN8pml2Ok-vKUNqjuYp0IeQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ZinwBvadh_M", "title": "Capgemini Interview | Java, Spring Boot, Microservices Question Answers" },
+    { "id": "qfn7Kjlt8Xg", "title": "Infosys 3 Years Java Experience | Java | Spring Boot | Microservices | Selected" },
+    { "id": "ft5yJvTFrfI", "title": "Capgemini Java Developer 3 Years | Selected" },
+    { "id": "sUT2HSfYKL4", "title": "Java Array | Guess the output #javainterview #javacodinginterview" }
+  ]
+}

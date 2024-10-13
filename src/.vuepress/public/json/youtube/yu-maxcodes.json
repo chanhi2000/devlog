@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "maxcodes",
+    "name": "maxcodes",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMxViFPOI-np9OOo9mxCDJRhPUuWPehe2_8DYjkxA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v_6flWxgavuoIgFEx9WWsFKYPExT008YkdBVfNRk9TcoRw6y8TSUTCwD97WYRmB4Ta6St-qu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OSxE86BUoOM", "title": "SwiftUI Picker View - Use Pickers and Form in SwiftUI - Swift 5 & Xcode 11 - 2019" }, 
+    { "id": "7rPA_7Z1G8w", "title": "SwiftUI State Tutorial - Introduction to State in SwiftUI in Xcode 11 (2019)" }, 
+    { "id": "8tZjVRXsuig", "title": "SwiftUI Navigation Tutorial (2019) - NavigationView and NavigationButton - Push View in SwiftUI" }, 
+    { "id": "h-ChkXnrpng", "title": "How To Download Xcode 11 Beta (2019) on Mojave or Catalina & limits - WWDC19 Beta Software & SwiftUI" }
+  ]
+}

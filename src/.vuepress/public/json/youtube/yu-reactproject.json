@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "reactproject",
+    "name": "React & Next js Projects with Sahand",
+    "profile": "https://yt3.googleusercontent.com/a7_55-mJjHHm_zWa7Y-gw-aOL8PpsliSMBmyIrc8kCTgUAy7BgE28SsDfbthtZtls9GhTkP_qQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E7BO7aPNrmW1I-RGU6zNu_7mGfUHa9_W32mq4ofVjiKzbbV1Hp3DGYaeBmrwXHmbpXZyPbUdgjs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RLl6KqnCIkU", "title": "Next.js Authentication Project using MongoDb, Mongoose and Clerk" },
+    { "id": "4myl09dVnxA", "title": "Next.js 14 and Tailwind CSS project | Build a social media app like X (Twitter) with next js 14" },
+    { "id": "1z-E_KOC2L0", "title": "React Tutorial for Beginners 2024 | Learn Reactjs 19 in 15 minutes" },
+    { "id": "MU3PBHFns9k", "title": "Next.js 14 and Tailwind CSS project | Build a social media app similar to instagram with next js 14" },
+    { "id": "69vpmZgDeN8", "title": "Next.js 14 and Tailwind CSS project for beginners | Build a Movie app similar to IMdB" },
+    { "id": "VAaUy_Moivw", "title": "MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt, redux toolkit)" },
+    { "id": "Kkht2mwSL_I", "title": "MERN Full Stack Project: Build a Blog App with Dashboard using MERN (jwt, redux toolkit)" },
+    { "id": "rXvQj-Z0v0s", "title": "Full-Stack MERN Auth project: Build & Deploy (Reactjs, json web token, jwt, redux toolkit, cookie)" },
+    { "id": "h9zlVmoUV5I", "title": "Next js 13 project - Google clone (next.js 13, tailwind css 3, google search api, app router)" },
+    { "id": "VAaUy_Moivw", "title": "MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt, redux toolkit)" }
+  ]
+}

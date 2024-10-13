@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "juliocasal",
+    "name": "Julio Casal",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPdDQyEY2dzmsNYDWyRKXE2YhqT0jPmdxAexQCgug=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/17ZiJfRo_IjJkINHHdnqn3kO9uhm-mFrAm-77IuAbX1wfJcr7K8-mXkHW-x4Lpv-6Nw8dfGBiA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AhAxLiGC7Pc", "title": "ASP.NET Core Full Course For Beginners" },
+    { "id": "RBVIclt4sOo", "title": "Blazor Full Course For Beginners" },
+    { "id": "XtWubiUzz-k", "title": "How To Deploy .NET Aspire Apps To Azure | .NET 8" },
+    { "id": "pk6FJfHhfq8", "title": "The New Way To Build Cloud Native Applications With .NET 8" },
+    { "id": "6JKkF9eQwh4", "title": "The Simple Fix To Run Your Unit Tests Really Fast" },
+    { "id": "HTCb1zXQ6E4", "title": "ASP.NET Core Exception Handling Tutorial | .NET 8" },
+    { "id": "y7JvMVgxbyQ", "title": "How To Reuse Your C# Code Via NuGet & Azure Artifacts" }, 
+    { "id": "MpeMJ0XqgYg", "title": "C# Unit Testing Tutorial For Beginners" },
+    { "id": "RXSPCIrrjHc", "title": "ASP.NET Core Integration Testing Crash Course" },
+    { "id": "qBwk9e8Fkvw", "title": "A New Way To Deal With Time In .NET 8" }, 
+    { "id": "Zu_8CVc_Ozc", "title": "Use The New Way To Build Fast .NET REST APIs With Minimal Code And Configuration" }, 
+    { "id": "qBwk9e8Fkvw", "title": "A New Way To Deal With Time In .NET 8" }, 
+    { "id": "ZFPMNSPzuTY", "title": ".NET 5 REST API Tutorial: 06 Tasks, Async and Await" }
+  ]
+}

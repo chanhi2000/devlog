@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "mattpocockuk",
+    "name": "Matt Pocock",
+    "profile": "https://yt3.googleusercontent.com/RbinzR4AEg_qhUggLwZxYTgAM5o_AcdELqz8eYTb0qLQkWEkWAhlBXRmfg-aTF7hqp3U9izu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/An4uUTBwPeyV3s8sZsHpCxL_TQnq5srpBG4VZ8JK_-_Y_WZZeGdaTFt_lpr7bjjk6Qesymxw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ow6y1snyIC4", "title": "LIVE: Writing my TypeScript Book" },
+    { "id": "PzhxN1u6ziQ", "title": "Everyone's talking about gql.tada" },
+    { "id": "zqz-lEHjJr4", "title": "Most React devs don’t understand generic components" },
+    { "id": "QSIXYMIJkQg", "title": "8 TypeScript Tips To Expand Your Mind (and improve your code)" },
+    { "id": "qT5xlBxGEyQ", "title": "Omit in TypeScript #typescript" },
+    { "id": "r1L35zxZQPE", "title": "Most TS devs don't understand 'satisfies'" },
+    { "id": "eJXVEju3XLM", "title": "The TSConfig Cheat Sheet" },
+    { "id": "6_JNPmjSevo", "title": "The Biggest JavaScript Divide" },
+    { "id": "ZL3z1oBZntk", "title": "TypeScript Performance with Aleksandra Sikora" },
+    { "id": "6F9m-938_1s", "title": "String Literals are GREAT" },
+    { "id": "nHzyoGKo0g4", "title": "LIVE: Build a Content Platform with Next.js App Directory, TypeScript, Tailwind and shadcn/ui" },
+    { "id": "S6rcrkbsDI0", "title": "Learn tRPC in 5 minutes" }
+  ]
+}

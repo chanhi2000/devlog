@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "easy_sheets",
+    "name": "Easy Sheets",
+    "profile": "https://yt3.googleusercontent.com/GlqdV5CvWv4Wg5A_t2GL2ypLmY90psByZP6ob7NNlvZ30uyAOGvwbyN_er47AnwmEvTn7FQP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9ZlDoPlsmYhEhy7ZkkSdKWNllXJAbvt16Kr4cka87wXmUynBzUULdulZ5GzQi_3glw08CobD7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y_TC2xvbyRc", "title": "Automatically Pull Data from Excel into PowerPoint (and 2 More Tips for Charts)" },
+    { "id": "H8Ln7YTAoeg", "title": "NEW Excel Abilities with Python in Excel (New Charts, Machine Learning, Predictive Analytics)" },
+    { "id": "9sJJi5wE8wA", "title": "STOP using Index Match (3D Lookups Done Correctly)" },
+    { "id": "B1SbauOdbNk", "title": "Best 11 Excel Tips You NEED to Know!" },
+    { "id": "LcUDzR1CqN8", "title": "How to bring AI INSIDE Excel! We can use the LABS.GENERATIVEAI function to access ChatGPT! #excel" },
+    { "id": "zrRHISUFNZo", "title": "How to Bring AI INSIDE Excel (New Function)" },
+    { "id": "mgX90uXB2LI", "title": "How to use speech to text on Windows PC!" },
+    { "id": "SXvhqiZHrgI", "title": "5 Things You're Doing WRONG in Excel (2024)" },
+    { "id": "NHz1IM0VPps", "title": "I Automated 99% of my Business using this Tool & AI (FREE)" },
+    { "id": "uYD98qrluoA", "title": "How to use AutoFit to adjust column widths automatically in Excel! #microsoftambassador #excel" },
+    { "id": "jliTI6EilR4", "title": "How to use the brand new checkboxes in Excel! #microsoftambassador" },
+    { "id": "WpfOqstUxoo", "title": "How to Lock Cells, Sheets, & Workbooks with Passwords in Excel" }, 
+    { "id": "QVKjFTe_f_Q", "title": "How to Automate Excel with Custom GPT Actions (In 5 Minutes)" },
+    { "id": "OQ7UmrShyjE", "title": "How to use AutoFormat in Excel to quickly format your data! #excel #microsoftambassador" },
+    { "id": "siFW6NCDwB8", "title": "How to use Quick Analysis in Excel to calculate totals for your tables #excel #microsoftambassador" },
+    { "id": "H-htYKXyDEY", "title": "How to find any feature in the ribbon quickly in Excel! #excel #microsoftambassador" },
+    { "id": "nw43T1k7uI4", "title": "Stop using Merge & Center in Excel! Use Center Across Selection! #excel #microsoftambassador" },
+    { "id": "2cCjwDvSKIE", "title": "How to CHOOSE columns when using the `FILTER` function in Excel! #excel" },
+    { "id": "ZVrgtC23I-s", "title": "Don't Merge & Center in Excel, use Center Across Selection instead! #excel" },
+    { "id": "JB32CWR8-hs", "title": "Instantly create a list of dates in Excel! #excel #exceltutorial" },
+    { "id": "w4dHRAZYpiU", "title": "How to fill data fast in Excel! #excel" },
+    { "id": "pAlWTnXJnOQ", "title": "Get current Date/Time in Excel! #excel #exceltutorial" }, 
+    { "id": "h8XLHbvY3WU", "title": "Fix column widths and row heights fast in Excel! #excel #exceltutor" }, 
+    { "id": "MIlVIanA4V8", "title": "Horizontal scroll shortcut in Excel! #excel #exceltutor" }, 
+    { "id": "4k6sbpl_YjQ", "title": "How to write functions correctly in Excel! #excel #exceltutorial" }, 
+    { "id": "aJCJNxrY41M", "title": "COMBINE multiple TABLES from different files (Power Query) in Excel" }, 
+    { "id": "ywp_cQDP_J0", "title": "Automatically number rows using Sequence and Counta in Excel!" }, 
+    { "id": "vzSqqoVuCis", "title": "How to make QR codes in Excel (working)! #excel" }, 
+    { "id": "wxpseYQSQI0", "title": "How to make sparklines (mini line charts) in Excel! #excel" }
+  ]
+}

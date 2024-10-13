@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "CodeBucks",
+    "name": "CodeBucks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO2j1sWZoLVgPq3GQe0_YZnXMAO6K0DC-K2pLvH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tQXtysdgbOwN8Idc5WmGBAjAaEd8O9tnbz4grlLtufpOqmcSnfYpfthAEk5yKoVJ0lP8nx3O=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T5t46vuW8fo", "title": "Build an Amazing Personal Portfolio Website with Next.js, Three.js & Tailwind CSS" },
+    { "id": "Xg7U2efv1M0", "title": "Create Stunning Animations with Wix Studio: A Step-by-Step Tutorial" },
+    { "id": "1QGLHOaRLwM", "title": "Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥" },
+    { "id": "jcohAIaSy2M", "title": "🔥Build a Stunning Portfolio Website with React JS  gotbletu Framer-motion + Styled-components" },
+    { "id": "Yw7yWHigGKI", "title": "How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟" }
+  ]
+}

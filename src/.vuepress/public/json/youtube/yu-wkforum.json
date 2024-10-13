@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "wkforum",
+    "name": "World Knowledge Forum",
+    "profile": "https://yt3.googleusercontent.com/v_1jAMDbn52cyOMWRAr2x7BtYYJBCBG0Dwf7tTy827s-um5bh1BSARdhrUv0o5KuF4ZctezG7Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YfisYoOhkwSVUtQPsQDMcOIVa4hHwbw3Chdyd_UMnw4UoRHnwwDUoxx0E5nBrfsIH0QktV72=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PZlbx1nABRY", "title": "Does AI assist in hacking? Reasons why ChatGPT, deepfakes, AI singers are dangerous | James Allworth" },
+    { "id": "SoGu7-e6iwU", "title": "GPT3, 4는 별로였다... GPT5야말로 진정한 AI│샘 올트먼(오픈AI CEO)" },
+    { "id": "E4VMOWyS4rc", "title": "AI 시대, 이 안목을 갖춘 인재가 승리자가 된다│아닌디아 고즈 뉴욕대 스턴경영대학원 석좌교수" },
+    { "id": "LSq82BU0Wlk", "title": "AI 시대에 알아야 할 4가지, AI는 우리에게 어떤 영향을 줄까? 아닌디아 고즈 뉴욕대 스턴경영대학원 석좌교수" }
+  ]
+}

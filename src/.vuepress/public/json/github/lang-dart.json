@@ -1,0 +1,164 @@
+[
+  {
+    "repo": "flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "officialSite": "https://flutter.dev",
+    "topics": ["android", "windows", "macos", "dart", "ios", "mobile", "web", "material-design", "cross-platform", "desktop", "web-framework", "app-framework", "flutter", "skia", "linux-desktop", "fuchsia", "mobile-development", "dart-platform", "flutter-package"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "flutter/packages",
+    "desc": "A collection of useful packages maintained by the Flutter team",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vishalxl/nostr_console",
+    "desc": "Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "officialSite": "https://immich.app",
+    "topics": ["nodejs", "photos", "svelte", "photo-gallery", "mobile-app", "self-hosted", "videos", "google-photos", "flutter", "backup-tool", "nestjs", "sveltekit", "google-photos-alternative"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ReVanced/revanced-manager",
+    "desc": "💊 Application to use ReVanced on Android",
+    "officialSite": "https://revanced.app",
+    "topics": ["android", "flutter", "flutter-apps", "manager", "modding", "patching", "revanced"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bdlukaa/fluent_ui",
+    "desc": "Implements Microsoft's Fluent Design System in Flutter.",
+    "officialSite": "https://bdlukaa.github.io/fluent_ui",
+    "topics": ["dart", "uwp", "flutter", "fluent-design", "fluent-ui", "flutter-favorite"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "GopeedLab/gopeed",
+    "desc": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+    "officialSite": "https://gopeed.com",
+    "topics": ["android", "bittorrent", "cross-platform", "debian", "downloader", "flutter", "golang", "http", "https", "ios", "macos", "magnet", "torrent", "ubuntu", "windows"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mylxsw/aidea",
+    "desc": "AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
+    "officialSite": "",
+    "topics": ["ai", "chatbot", "flutter", "gpt", "gpt-4", "stable-diffusion", "wenxinyiyan", "tongyiqianwen"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "shorebirdtech/shorebird",
+    "desc": "Code Push for Flutter and other tools for Flutter businesses.",
+    "officialSite": "https://shorebird.dev",
+    "topics": ["codepush", "deployment", "flutter", "shorebird"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Sangwan5688/BlackHole",
+    "desc": "A Music Player App made with Flutter",
+    "officialSite": "",
+    "topics": ["android-music-player", "flutter", "flutter-app", "flutter-apps", "flutter-music-player", "fluttermusicapp", "hacktoberfest", "music-app", "music-application", "music-player", "music-player-application", "offline-songs"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "localsend/localsend",
+    "desc": "An open-source cross-platform alternative to AirDrop",
+    "officialSite": "https://localsend.org",
+    "topics": ["dart", "file-sharing", "flutter", "flutter-apps"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "flutter/games",
+    "desc": "Home of the Flutter Casual Games Toolkit and other Flutter gaming templates",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KRTirtho/spotube",
+    "desc": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+    "officialSite": "https://spotube.krtirtho.dev/",
+    "topics": ["android", "android-client", "android-music-player", "desktop-client", "fdroid", "flutter", "flutter-desktop", "linux", "macos", "music", "music-player", "spotify", "windows", "youtube"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hiddify/hiddify-next",
+    "desc": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+    "officialSite": "https://hiddify.com",
+    "topics": ["clash", "clashmeta", "ech", "hysteria", "hysteria2", "proxy", "reality", "shadowsocks", "shadowtls", "sing-box", "singbox", "ssh", "tuic", "v2ray", "vless", "vmess", "xray"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "millsteed/macros",
+    "desc": "Experiments with upcoming Dart macros",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "reqable/re-editor",
+    "desc": "Re-Editor is a powerful lightweight text and code editor widget.",
+    "officialSite": "https://pub.dev/packages/re_editor",
+    "topics": ["code-editor", "flutter", "syntax-highlighting", "text-editor"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "felangel/data_class",
+    "desc": "Experimental support for data classes in Dart using macros.",
+    "officialSite": "https://pub.dev/packages/data_class_macro",
+    "topics": ["dart", "data-class", "macros", "struct"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ente-io/ente",
+    "desc": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+    "officialSite": "https://ente.io",
+    "topics": ["2fa", "android", "authy", "e2ee", "encryption", "end-to-end-encryption", "flutter", "golang", "google-photos", "google-photos-alternative", "ios", "opensource", "photos", "privacy", "privacy-tools", "typescript", "zero-knowledge"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hiddify/hiddify-next",
+    "desc": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+    "officialSite": "https://hiddify.com",
+    "topics": ["clash", "clashmeta", "ech", "hysteria", "hysteria2", "proxy", "reality", "shadowsocks", "shadowtls", "sing-box", "singbox", "ssh", "tuic", "v2ray", "vless", "vmess", "wireguard", "xray"],
+    "avatar": "https://avatars.githubusercontent.com/u/126981719?v=4",
+    "banner": ""
+  }, {
+    "repo": "dagmawibabi/ScholArxiv",
+    "desc": "ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/44819176?v=4",
+    "banner": ""
+  }, {
+    "repo": "chen08209/FlClash",
+    "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "officialSite": "",
+    "topics": ["clash", "clash-meta", "flutter", "hysteria", "multi-platform", "proxy", "v2ray", "vless", "vpn"],
+    "avatar": "https://avatars.githubusercontent.com/u/66918471?v=4",
+    "banner": ""
+  }, {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "desc": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+    "officialSite": "https://www.appflowy.io",
+    "topics": ["content-management", "content-services", "editor", "flutter", "flutter-app", "hacktoberfest", "low-code", "no-code", "notion", "notion-alternative", "project-management", "rust", "rust-lang", "rust-language", "team-collaboration", "wiki"],
+    "avatar": "https://avatars.githubusercontent.com/u/86002201?v=4",
+    "banner": ""
+  }, {
+    "repo": "fzyzcjy/dart_interactive",
+    "desc": "REPL (interactive shell) for Dart, supporting 3rd party packages, hot reload, and full grammar",
+    "officialSite": "https://github.com/fzyzcjy/dart_interactive",
+    "topics": ["dart", "flutter", "interactive", "repl", "shell"],
+    "avatar": "https://avatars.githubusercontent.com/u/5236035?v=4",
+    "banner": ""
+  }
+]

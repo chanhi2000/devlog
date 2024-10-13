@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "learncodeacademy",
+    "name": "LearnCode.academy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN0nkI5567YBQWBMCJXdw3OBm5tPckJ03IDTZZ-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/z_g0qD_Js9TzLl24y-M_9bG_cJ5VTei_hEZH48ZpgDU2Jkn3ilTuKppd-rs4yj5tJJYL1CGxFw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wxUxtflalE4", "title": "Scaling Docker #1 - High Availability Docker DevOps with CoreOS, Etcd, Fleet, Flannel & Nginx" }, 
+    { "id": "jDhDvnlbr4Q", "title": "Modular Javascript #5 - PubSub Implementation" }, 
+    { "id": "pOfwp6VlnlM", "title": "Modular Javascript #3 - Revealing Module Pattern Javascript Tutorial" }, 
+    { "id": "m-NYyst_tiY", "title": "Modular Javascript #2 - Converting jQuery to an Object Literal Module" }, 
+    { "id": "HkFlM73G-hk", "title": "Modular Javascript - Javascript Tutorial on the Object Literal Pattern" }, 
+    { "id": "TMKj0BxzVgw", "title": "GRUNT TUTORIAL - Grunt makes your web development better!" }, 
+    { "id": "SBB1YtwODT0", "title": "Web Development in 2020 - A complete roadmap" }, 
+    { "id": "pGYAg7TMmp0", "title": "Docker Tutorial - What is Docker & Docker Containers, Images, etc?" } 
+  ]
+}

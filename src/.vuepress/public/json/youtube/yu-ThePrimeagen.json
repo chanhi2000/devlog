@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "ThePrimeagen",
+    "name": "ThePrimeagen",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNM-OVmXAKB8x_FpqL2RlvR2nGCXNFx9z6HOkJz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YWcAYbFy8YXLHlfP9Un2JQjf-PCSKlwTd7yAOs8BHxF8qmsVAz2kiQ7mJjEkt7y8wonzPdL3Qw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x7v6SNIgJpE", "title": "FULL Introduction To HTMX Using Golang" },
+    { "id": "FrMRyXtiJkc", "title": "How to Vim in 2023: Tips and Tricks" },
+    { "id": "w7i4amO_zaE", "title": "0 to LSP : Neovim RC From Scratch" }, 
+    { "id": "RDd71IUIgpg", "title": "CoPilot Review: My Thoughts After 6 Months" }, 
+    { "id": "FrMRyXtiJkc", "title": "How I use Vim in 2023: Tips and Tricks" }, 
+    { "id": "ip51Y5v3WLk", "title": "How I Made JavaScript BLAZINGLY FAST" }, 
+    { "id": "ZNFdkTIzdXM", "title": "Rust for JS devs : Borrow Checker" }, 
+    { "id": "Sqp5VSqbQOY", "title": "Astro IS SO GOOD" }, 
+    { "id": "KfENDDEpCsI", "title": "Vim As Your Editor - Vertical Movements" }, 
+    { "id": "qZO9A5F6BZs", "title": "Vim As You Editor - Advanced Motions P1" }, 
+    { "id": "bdumjiHabhQ", "title": "My Developer Workflow - How I use i3, tmux, and vim" }, 
+    { "id": "U16RnpV48KQ", "title": "1,606,240% FASTER algorithm" }, 
+    { "id": "7gEbHsHXdn0", "title": "You only Git Merge?!? feat Theo : DevHour #1" }, 
+    { "id": "uxMfvWPUThE", "title": "Best Vim Motion in 20 Seconds" }, 
+    { "id": "461735zrjzY", "title": "React Is This Fast???" }, 
+    { "id": "2uEqYw-N8uE", "title": "Git's Best And Most Unknown Feature" }
+  ]
+}

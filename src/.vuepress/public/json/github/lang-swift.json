@@ -1,0 +1,871 @@
+[
+  {
+    "repo": "CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "officialSite": "https://codeedit.app",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CodeEditApp/CodeEditCLI",
+    "desc": "A command-line-interface to open files/folders in CodeEdit.app",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tuist/tuist",
+    "desc": "🚀 Create, maintain, and interact with Xcode projects at scale",
+    "officialSite": "https://tuist.io",
+    "topics": ["swift", "productivity", "ios", "objective-c", "xcode", "scalability", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/fluentui-apple",
+    "desc": "UIKit and AppKit controls for building native Microsoft experiences",
+    "officialSite": "https://www.microsoft.com/design/fluent",
+    "topics": ["microsoft", "macos", "ios", "uikit", "cocoa", "appkit", "fluentui-apple"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "officialSite": "https://www.pointfree.co/collections/composable-architecture",
+    "topics": ["uikit", "architecture", "composition", "modularity", "unidirectional-data-flow", "testability", "swiftui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PerfectlySoft/Perfect",
+    "desc": "Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)",
+    "officialSite": "https://www.perfect.org",
+    "topics": ["swift", "perfect", "swift-framework", "server-side-swift", "web-application-framework", "swift-perfect-community"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wigl/iSimulator",
+    "desc": "iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.",
+    "officialSite": "",
+    "topics": ["app", "simulator", "xcode", "simctl", "simulator-controls", "xcrun"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gao-sun/eul",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-async-algorithms",
+    "desc": "Async Algorithms for Swift",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Lakr233/Rayon",
+    "desc": "yet another SSH machine manager",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gureum/gureum",
+    "desc": "더 편리한 macOS 한글 입력기",
+    "officialSite": "http://gureum.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zhuowei/WDBFontOverwrite",
+    "desc": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+    "officialSite": "https://notnow.dev/zhuowei",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/VideoFlashingReduction",
+    "desc": "Detection of Flashing Lights in Video Content",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "godly-devotion/MochiDiffusion",
+    "desc": "Run Stable Diffusion on Mac natively",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leetcode-mafia/cheetah",
+    "desc": "Whisper & GPT-based app for passing remote SWE interviews",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "realm/jazzy",
+    "desc": "Soulful docs for Swift & Objective-C",
+    "officialSite": "https://realm.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "waynewbishop/SwiftStructures",
+    "desc": "Examples of commonly used data structures and algorithms in Swift.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordibruin/Swift-Charts-Examples",
+    "desc": "An overview of the different types of charts you can make with Swift Charts",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kuglee/TermiWatch",
+    "desc": "Terminal Watch Face for Apple Watch",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SDWebImage/SDWebImageSwiftUI",
+    "desc": "SwiftUI Image loading and Animation framework powered by SDWebImage",
+    "officialSite": "https://sdwebimage.github.io/SDWebImageSwiftUI",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "amirdew/CollectionViewPagingLayout",
+    "desc": "A simple but highly customizable `UICollectionViewLayout` for UICollectionView -- Simple SwiftUI views that let you make page-view effects.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Juanpe/SkeletonView",
+    "desc": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yonaskolb/XcodeGen",
+    "desc": "A Swift command line tool for generating your Xcode project",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "waylybaye/XcodeCleaner",
+    "desc": "Cleaner for Xcode.app built with react-native-macos",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leandromperez/multiprojects",
+    "desc": "Simple workspace for a modular architecture using Cocoapods to manage external dependencies.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "recherst/kavsoft-swiftui-animations",
+    "desc": "SwiftUI animation tutorials, all of demos are consisted of youtube videos at website of kavsoft.",
+    "officialSite": "https://kavsoft.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Ramotion/swift-ui-animation-components-and-libraries",
+    "desc": "",
+    "officialSite": "https://www.ramotion.com/agency/app-development",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "minsOne/iOSApplicationTemplate",
+    "desc": "Tuist based iOS Application Project Template",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mastodon/mastodon-ios",
+    "desc": "Official iOS app for Mastodon",
+    "officialSite": "https://app.joinmastodon.org/ios",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alexrozanski/LlamaChat",
+    "desc": "Chat with your favourite LLaMA models in a native macOS app",
+    "officialSite": "https://llamachat.app",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "StanfordBDHG/HealthGPT",
+    "desc": "Query your Apple Health data with natural language 💬 🩺",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "valexa/VAFieldTest",
+    "desc": "CoreTelephony based signal tests",
+    "officialSite": "http://blog.vladalexa.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stleamist/BetterSafariView",
+    "desc": "A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.",
+    "officialSite": "",
+    "topics": ["swift", "ios", "safari", "sfsafariviewcontroller", "sfauthenticationsession", "swiftui", "aswebauthenticationsession"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "grishka/NearDrop",
+    "desc": "An unofficial Google Nearby Share app for macOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pikachu987/NotificationView",
+    "desc": "iOS Basic Notification screens 🤚",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "johnsundell/publish",
+    "desc": "A static site generator for Swift developers",
+    "officialSite": "" ,
+    "topics": ["swift", "static-site-generator", "web-development", "publish"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Inncoder/SwiftUI-Animations",
+    "desc": "Code from instagram posts",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mullvad/wireguard-apple",
+    "desc": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Clipy/Clipy",
+    "desc": "Clipboard extension app for macOS.",
+    "officialSite": "https://clipy-app.com",
+    "topics": ["macos", "swift", "clipboard", "xcode", "clipmenu", "clipboard-extension"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "halo/LinkLiar",
+    "desc": "🔗 Link-Layer MAC spoofing GUI for macOS",
+    "officialSite": "http://halo.github.io/LinkLiar",
+    "topics": ["macos", "mac", "gui", "daemon", "wifi", "ethernet", "wlan", "spoof", "mac-address", "thunderbolt"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Snapkit/Snapkit",
+    "desc": "A Swift Autolayout DSL for iOS & OS X",
+    "officialSite": "https://snapkit.github.io/SnapKit",
+    "topics": ["swift", "ui", "xcode", "dsl", "layout", "cocoapods", "constraints", "snapkit", "autolayout", "auto"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "iina/iina",
+    "desc": "The modern video player for macOS.",
+    "officialSite": "https://iina.io",
+    "topics": ["macos", "swift", "video", "video-player", "mpv", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "insidegui/ChromeCastCore",
+    "desc": "An open source implementation of the Google Cast SDK for macOS",
+    "officialSite": "",
+    "topics": ["macos", "ios", "osx", "chromecast"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "HyperARCo/Mirador",
+    "desc": "Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.",
+    "officialSite": "",
+    "topics": ["swift", "ios", "apple", "location", "point-of-interest", "realitykit"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "IsaacMarovitz/Whisky",
+    "desc": "A modern Wine wrapper for macOS built with SwiftUI",
+    "officialSite": "",
+    "topics": ["macos", "wine", "swiftui", "moltenvk", "dxvk"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cooklang/CookCLI",
+    "desc": "macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.",
+    "officialSite": "https://cooklang.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "EthanArbuckle/Apollo-CustomApiCredentials",
+    "desc": "Tweak to use your own reddit API credentials in Apollo",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "officialSite": "http://airbnb.io/lottie",
+    "topics": ["swift", "ios", "animation", "transition-animation", "ios-animation", "ios-transition", "custom-transitions", "keyframes", "bodymovin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-http-types",
+    "desc": "Version-independent HTTP currency types for Swift",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mazzzystar/Queryable",
+    "desc": "Run OpenAI's CLIP model on iPhone to search photos.",
+    "officialSite": "https://queryable.app",
+    "topics": ["clip", "text-embedding", "photosearch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zhuowei/DSReality",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Shaunwei/RealChar",
+    "desc": "🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖",
+    "officialSite": "https://realchar.ai",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "val-lang/val",
+    "desc": "The val compiler",
+    "officialSite": "https://www.val-lang.dev",
+    "topics": ["programming-language"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anyproto/anytype-swift",
+    "desc": "Official Anytype client for iOS",
+    "officialSite": "https://anytype.io",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "milanvarady/Applite",
+    "desc": "User-friendly GUI macOS application for Homebrew Casks",
+    "officialSite": "https://aerolite.dev/applite",
+    "topics": ["macos", "swift", "homebrew", "homebrew-cask", "macos-app", "swiftui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "simplex-chat/simplex-chat",
+    "desc": "SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!",
+    "officialSite": "https://simplex.chat",
+    "topics": ["chat", "security", "haskell", "privacy", "encryption", "protocol", "messaging", "e2ee", "double-ratchet"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Lickability/ObservableConverter",
+    "desc": "A SwiftPM command plugin to convert SwiftUI code to Observable",
+    "officialSite": "https://lickability.com/blog/introducing-observableconverter",
+    "topics": ["swift", "ios", "xcode", "tooling", "xcode-plugin", "ios-swift", "swiftpm", "swift-package", "swiftui", "swift-packages", "command-plugin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "utmapp/UTM",
+    "desc": "Virtual machines for iOS and macOS",
+    "officialSite": "https://getutm.app",
+    "topics": ["macos", "ios", "apple", "vm", "emulation", "jailbreak", "qemu", "virtual-machines", "utm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "officialSite": "",
+    "topics": ["alamofire", "carthage", "certificate-pinning", "cocoapods", "httpurlresponse", "networking", "parameter-encoding", "public-key-pinning", "request", "response", "swift", "swift-package-manager", "urlrequest", "urlsession", "xcode"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-testing",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["software-quality", "swift", "swift-macros", "testing", "unit-testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "markiv/SwiftUI-Shimmer",
+    "desc": "Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress. It works well on light and dark modes, and across iOS, macOS, tvOS, watchOS and visionOS.",
+    "officialSite": "",
+    "topics": ["ios", "macos", "shimmer", "skeleton", "swift", "swiftui", "tvos", "visionos", "watch"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-syntax",
+    "desc": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cormiertyshawn895/Retroactive",
+    "desc": "Run Aperture, iPhoto, and iTunes on macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.",
+    "officialSite": "",
+    "topics": ["aperture", "final-cut-pro-7", "final-cut-studio", "iphoto", "itunes", "iwork-09", "logic-pro-9", "macos-big-sur", "macos-catalina", "macos-high-sierra", "macos-mojave", "xcode11"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "migueldeicaza/SwiftGodot",
+    "desc": "New Godot bindings for Swift",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yaslab/CSV.swift",
+    "desc": "CSV reading and writing library written in Swift.",
+    "officialSite": "",
+    "topics": ["csv", "reading", "swift", "writing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dabing1022/DBMetaballLoading",
+    "desc": "A metaball loading written in Swift.",
+    "officialSite": "",
+    "topics": ["ios", "loading-animations", "swift", "ui-components"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "evermeer/AttributedTextView",
+    "desc": "Easiest way to create an attributed UITextView (with support for multiple links and from html)",
+    "officialSite": "",
+    "topics": ["attributedstring", "links", "paragraph-styling", "styling", "swift", "uitextview"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "imkcat/CatCrypto",
+    "desc": "An easy way for hashing and encryption.",
+    "officialSite": "",
+    "topics": ["argon2", "asymmetric", "crypto", "cryptography", "encryption", "hashing", "ios", "md2", "md4", "md5", "md6", "message-digest", "password-hash", "sha1", "sha2", "sha3", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yonat/MultiSlider",
+    "desc": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
+    "officialSite": "",
+    "topics": ["multiple-thumbs", "multislider", "range-picker", "range-slider", "swift", "thumbs", "uislider"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yaoxp/DemoSwift",
+    "desc": "swift 学习demo",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fatbobman/BlogCodes",
+    "desc": "【肘子的Swift笔记】博文中的代码汇总",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skiptools/skip",
+    "desc": "Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps",
+    "officialSite": "https://skip.tools",
+    "topics": ["kotlin", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Whisky-App/Whisky",
+    "desc": "A modern Wine wrapper for macOS built with SwiftUI",
+    "officialSite": "https://getwhisky.app",
+    "topics": ["game", "game-porting-toolkit", "mac", "macos", "metal", "swiftui", "wine"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "officialSite": "",
+    "topics": ["functional", "ios", "observer", "reactive", "reactivex", "rxswift", "swift", "unidirectional"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kickingvegas/Captee",
+    "desc": "Captee is a macOS app that enables the sharing of links and content to Emacs Org Mode and Markdown-supporting tools.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jasonjmcghee/rem",
+    "desc": "An open source approach to locally record everything you view on your Apple Silicon computer.",
+    "officialSite": "",
+    "topics": ["local", "memory", "search"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jasonjmcghee/rem",
+    "desc": "An open source approach to locally record and enable searching everything you view on your Apple Silicon.",
+    "officialSite": "",
+    "topics": ["local", "macos", "memory", "search", "swift", "swiftui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stephencelis/SQLite.swift",
+    "desc": "A type-safe, Swift-language layer over SQLite3.",
+    "officialSite": "",
+    "topics": ["sqlite", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mrousavy/react-native-vision-camera",
+    "desc": "📸 A powerful, high-performance React Native Camera library.",
+    "officialSite": "https://react-native-vision-camera.com",
+    "topics": ["ai", "android", "barcode", "camera", "hacktoberfest", "instagram", "ios", "javascript", "jsi", "library", "qr-code", "qrcode", "react", "react-native", "react-native-camera", "scanner", "snapchat", "typescript", "vision", "worklet"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "timfraedrich/OutRun",
+    "desc": "OutRun is an open-source, privacy oriented, outdoor fitness tracker.",
+    "officialSite": "https://outrun.tadris.de",
+    "topics": ["fitness", "ios", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sindresorhus/Plash",
+    "desc": "💦 Make any website your Mac desktop wallpaper",
+    "officialSite": "https://sindresorhus.com/plash",
+    "topics": ["active-desktop", "app", "desktop-wallpaper", "dynamic-wallpaper", "macos", "macos-app", "plash", "swift", "swiftui", "wallpaper"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cirruslabs/tart",
+    "desc": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+    "officialSite": "https://tart.run",
+    "topics": ["apple-silicon", "automation", "ci", "macos", "tart", "virtualization", "virtualization-framework"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "saagarjha/Ensemble",
+    "desc": "Cast Mac windows to visionOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AugustDev/enchanted",
+    "desc": "Enchanted is iOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
+    "officialSite": "",
+    "topics": ["ios", "large-language-model", "llama", "llama2", "llm", "mistral", "ollama", "ollama-app", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "argmaxinc/WhisperKit",
+    "desc": "On-device Inference of Whisper Speech Recognition Models for Apple Silicon",
+    "officialSite": "https://takeargmax.com/blog/whisperkit",
+    "topics": ["inference", "ios", "macos", "pretrained-models", "speech-recognition", "swift", "transformers", "visionos", "watchos", "whisper"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "andersrex/notesollama",
+    "desc": "Use Ollama to talk to local LLMs in Apple Notes",
+    "officialSite": "https://smallest.app/notesollama",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "officialSite": "",
+    "topics": ["cache", "filters", "image", "image-processor", "ios", "kingfisher", "macos", "swift", "xcode"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenSwiftUIProject/OpenSwiftUI",
+    "desc": "[WIP] Open source implementation of Apple's SwiftUI.",
+    "officialSite": "https://swiftpackageindex.com/OpenSwiftUIProject/OpenSwiftUI/main/documentation/openswiftui",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ProxymanApp/atlantis",
+    "desc": "Capture HTTP/HTTPS, and Websocket from iOS app without proxy.",
+    "officialSite": "https://proxyman.io/",
+    "topics": ["ios", "urlsession", "https-traffic", "maninthemiddle", "swizzle", "proxyman"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "home-assistant/iOS",
+    "desc": "📱 Home Assistant for Apple platforms",
+    "officialSite": "https://companion.home-assistant.io/",
+    "topics": ["macos", "swift", "home-automation", "ios", "home-assistant", "hacktoberfest", "open-source-app"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "KeyboardKit/KeyboardKit",
+    "desc": "KeyboardKit is a Swift SDK that lets you create fully customizable keyboards with a few lines of code, using SwiftUI.",
+    "officialSite": "https://keyboardkit.com/",
+    "topics": ["emoji", "macos", "swift", "keyboard", "ios", "apple", "tvos", "watchos", "keyboard-extension", "swiftui", "visionos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jellyfin/Swiftfin",
+    "desc": "Native Jellyfin Client for iOS and tvOS",
+    "officialSite": "",
+    "topics": ["swift", "ios", "tvos", "swiftui", "jellyfin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "exyte/Chat",
+    "desc": "A SwiftUI Chat UI framework with fully customizable message cells and a built-in media picker",
+    "officialSite": "",
+    "topics": ["chat", "swift", "swift-library", "ios", "swiftui", "swiftui-components"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "whoeevee/EeveeSpotify",
+    "desc": "A tweak to get Spotify Premium for free, just like Spotilife",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "p0deje/Maccy",
+    "desc": "Lightweight clipboard manager for macOS",
+    "officialSite": "https://maccy.app",
+    "topics": ["clipboard-manager", "maccy", "macos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kkebo/DNSecure",
+    "desc": "DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.",
+    "officialSite": "",
+    "topics": ["dns", "dns-over-https", "dns-over-tls", "doh", "dot", "ios", "ipados", "swift"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-log",
+    "desc": "A Logging API for Swift",
+    "officialSite": "https://apple.github.io/swift-log/",
+    "topics": ["logging", "swift-server"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "opacity-browser/opacity",
+    "desc": "Opacity Browser for macOS",
+    "officialSite": "https://opacity.dev",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "thebrowsercompany/swift-winrt",
+    "desc": "Swift Language Projection for WinRT",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-format",
+    "desc": "Formatting technology for Swift source code",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zenangst/Gray",
+    "desc": " :first_quarter_moon: Tailor your macOS Mojave experience",
+    "officialSite": "https://github.com/zenangst",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lihaoyun6/QuickRecorder",
+    "desc": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
+    "officialSite": "https://lihaoyun6.github.io/quickrecorder/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nikitabobko/AeroSpace",
+    "desc": "AeroSpace is an i3-like tiling window manager for macOS",
+    "officialSite": "https://nikitabobko.github.io/AeroSpace/guide",
+    "topics": ["i3", "i3wm", "mac", "macos", "tiling", "tiling-window-manager", "window-manager"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jordanbaird/Ice",
+    "desc": "Powerful menu bar manager for macOS",
+    "officialSite": "https://icemenubar.app",
+    "topics": ["macos", "macos-app", "menu-bar", "menubar", "status-bar", "statusbar", "swift", "swiftui", "utility"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apple/swift-testing",
+    "desc": "A modern, expressive testing package for Swift",
+    "officialSite": "",
+    "topics": ["software-quality", "swift", "swift-macros", "testing", "unit-testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kabiroberai/node-swift",
+    "desc": "Create Node modules in Swift",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MrKai77/Loop",
+    "desc": "Window management made elegant.",
+    "officialSite": "",
+    "topics": ["hacktoberfest", "macos", "macos-app", "macos-menubar", "menu", "menubar", "productivity", "radial-menu", "swift", "swiftui", "window-management"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "daprice/BlurHashViews",
+    "desc": "Decode BlurHash strings to SwiftUI MeshGradient or Color with various customization options.",
+    "officialSite": "",
+    "topics": ["blurhash", "ios18", "macos15", "meshgradient", "swift-package", "swiftui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "raheelahmad/Swift-D3-Charts",
+    "desc": "Replicating D3 Charts with Swift Charts",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "devin-liu/glanceables",
+    "desc": "Glanceables is a handy macOS desktop app that turns parts of websites into easy-to-view widgets. This app makes it simpler to keep tabs on the important stuff from websites without having to dig around too much. Perfect for quickly checking things like travel times!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "giginet/swift-testing-revolutionary",
+    "desc": "A tool converts test cases written in XCTest to swift-testing",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alexstyl/addcoilmultiplatform",
+    "desc": "Setup Coil Multiplatform with a single dependency on any CMP platform.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1665273?v=4",
+    "banner": ""
+  }, {
+    "repo": "AppHouseKitchen/AlDente-Charge-Limiter",
+    "desc": "macOS menubar tool to set Charge Limits and prolong battery lifespan",
+    "officialSite": "https://apphousekitchen.com/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/92392310?v=4",
+    "banner": ""
+  }, {
+    "repo": "hidden-spectrum/swift-translate",
+    "desc": "Swift Package Plugin for automatically translating your String Catalogs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/140503484?v=4",
+    "banner": ""
+  }, {
+    "repo": "TelegramMessenger/Telegram-iOS",
+    "desc": "Telegram-iOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/22377696?v=4",
+    "banner": ""
+  }, {
+    "repo": "ssut/Matchumbeop",
+    "desc": "한글 맞춤법 검사기 for macOS (match-um-beop 아님)",
+    "officialSite": "http://matchumbeop.ssut.me/",
+    "topics": ["hangul", "macos"],
+    "avatar": "https://avatars.githubusercontent.com/u/2366668?v=4",
+    "banner": ""
+  }, {
+    "repo": "khcrysalis/Feather",
+    "desc": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+    "officialSite": "",
+    "topics": ["ios", "ipa", "ipad", "iphone", "itunes", "maplesign", "sideload", "sign", "signature", "signing"],
+    "avatar": "https://avatars.githubusercontent.com/u/97859147?v=4",
+    "banner": ""
+  }, {
+    "repo": "PicoMLX/PicoAIProxy",
+    "desc": "Reverse proxy for OpenAI and Anthropic written in server-side Swift",
+    "officialSite": "",
+    "topics": ["anthropic", "anthropic-ai", "anthropic-claude", "ios", "macos", "openai", "openai-api", "server-side-swift", "swift"],
+    "avatar": "https://avatars.githubusercontent.com/u/168484881?v=4",
+    "banner": ""
+  }, {
+    "repo": "maxgoedjen/secretive",
+    "desc": "Store SSH keys in the Secure Enclave",
+    "officialSite": "",
+    "topics": ["mac", "secure-enclave", "security", "ssh"],
+    "avatar": "https://avatars.githubusercontent.com/u/342665?v=4",
+    "banner": ""
+  }, {
+    "repo": "hummingbird-project/hummingbird",
+    "desc": "Lightweight, flexible HTTP server framework written in Swift",
+    "officialSite": "",
+    "topics": ["http", "http-server", "server", "server-side-swift", "swift", "swift-nio", "web", "web-server"],
+    "avatar": "https://avatars.githubusercontent.com/u/77961464?v=4",
+    "banner": ""
+  }, {
+    "repo": "pencilresearch/OpenScanner",
+    "desc": "Fast, reliable, and free document scanner app for iPhone",
+    "officialSite": "https://openscanner.app",
+    "topics": ["ios-app", "swift", "swiftui"],
+    "avatar": "https://avatars.githubusercontent.com/u/26827351?v=4",
+    "banner": ""
+  }, {
+    "repo": "franklefebvre/swift-export",
+    "desc": "A command-line tool to make it easier to sign and notarize executable packages on macOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/870658?v=4",
+    "banner": ""
+  }, {
+    "repo": "Stengo/DeskPad",
+    "desc": "A virtual monitor for screen sharing. Contribute to Stengo/DeskPad development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/12018882?s=64&v=4",
+    "banner": "https://opengraph.githubassets.com/5f1a52525d6ebf6b2e592a31c671b2b70d56f98062f01fe92c7c608319cf8a5c/Stengo/DeskPad"
+  }
+]

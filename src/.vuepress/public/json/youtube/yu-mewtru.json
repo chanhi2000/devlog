@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "mewtru",
+    "name": "mewtru",
+    "profile": "https://yt3.googleusercontent.com/Ocv6ys68EYgVtHrL839b5rmXh6urAQ1SKG44S5CNUshoI_obWzcBxup5CfIKdMA_OZ6AHaAfVg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AIw6y_Grayu-JbGfSpzHO3BhErRG4M19iBU6ZNgdk7SPojD3GEyw_BAjnhGibYkIEJHrt7qKFw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jloxPpE8Mk0", "title": "Code your own infinite craft game using Gemini!" },
+    { "id": "wRX_Hvue63E", "title": "chill coding" }
+  ]
+}

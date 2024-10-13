@@ -1,0 +1,61 @@
+{
+  "channel": {
+    "id": "baseyou21",
+    "name": "[50대 컴쟁이] baseyou21",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKag5Y-Cm6Zt0z5LVnV4d83w-ncXV44wRX7id4oTUw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GRwNGIYpPHiKc1Hiwz7NABkQ9wMjcWAWso-N0KIZdEtRdLugsdbaEewni5EDivhqxxgOxpL9uQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Umf7CTS9pLY", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#7(1차도메인연결법)" },
+    { "id": "shPK8IWgU6c", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#5(2차도메인셋팅)" },
+    { "id": "qxVf5qLUBjs", "title": "시놀로지NAS서버 Shorts Tip#3(phpmyadmin 오류해결법)#nas#synology#website#docker#dockercontainer#시놀로지#wordpress" },
+    { "id": "j1I7g3GRIvs", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#5(멀티 인증서셋팅2)" },
+    { "id": "joLrJd6OWLE", "title": "시놀로지NAS 도메인 연결 어떻게 하지??[이거보면 정리됩니다.] 1차도메인,2차도메인,내부IP 도메인 연결, 여러대NAS 각기 다른 도메인 연결까지#3" }, 
+    { "id": "WlgK3OkZPKI", "title": "시놀로지NAS 메일서버 셋팅하기#1(이렇게하면 끝)-개요 및 구성" }
+  ],
+  "playlists": [
+    {
+      "title": "헤놀로지셋팅하기",
+      "videos": [
+        { "id": "qmNjI-Xras8", "title": "시놀로지NAS 도커로 헤스티아CP 설치후 내부 유저계정 사용량(Disk Quota)제한하기#5-완결" },
+        { "id": "jjeO6EuisCg", "title": "시놀로지NAS 도커로 헤스티아CP 설치후 내부 유저계정 사용량(Disk Quota)제한하기#4" },
+        { "id": "gIHJQ9JxUMU", "title": "시놀로지NAS 도커로 헤스티아CP 설치후 내부 유저계정 사용량(Disk Quota)제한하기#3" },
+        { "id": "yyxeGFZsHQw", "title": "시놀로지NAS 도커로 헤스티아CP 설치후 내부 유저계정 사용량(Disk Quota)제한하기#2" },
+        { "id": "TZ2oItIyn_A", "title": "시놀로지NAS 도커로 헤스티아CP 설치후 내부 유저계정 사용량(Disk Quota)제한하기#1" },
+        { "id": "nK9iAtIt9SA", "title": "시놀로지NAS로 무제한 웹호스팅 서버(메일서버)만들기#10[메일서버 완벽셋팅하기-5]-Outlook Express 연동하기 hestiacp 웹메일서버 외부메일연동법" },
+        { "id": "zuquyncLcgc", "title": "시놀로지NAS로 무제한 웹호스팅 서버(메일서버)만들기#9[메일서버 완벽셋팅하기-4]-PTR도메인 등록으로 내 메일을 스팸메일로 인식하는걸 방지하기" },
+        { "id": "Aml8Hlvl6PU", "title": "시놀로지NAS로 무제한 웹호스팅 서버(메일서버)만들기#8[메일서버 완벽셋팅하기-3]-웹메일 roundcube 완벽셋팅" },
+        { "id": "_vFqK2UJIH4", "title": "시놀로지NAS로 무제한 웹호스팅 서버(메일서버)만들기#7[메일서버 완벽셋팅하기-2]" },
+        { "id": "eKWz0oKSGys", "title": "시놀로지NAS로 무제한 웹호스팅 서버(메일서버)만들기#6[메일서버 완벽셋팅하기-1]" },
+        { "id": "ccBl8YnPivM", "title": "phpmyadmin root로 접근이 안되요!!  [DB관리자 계정 생성하기- phpmyadmin root 접근하기]" },
+        { "id": "GlyfprJPgJw", "title": "시놀로지NAS로 무제한 웹호스팅 서버 만들기#5[DB생성 연동 및 php버전 셋팅하기]" },
+        { "id": "WN-WKr2kaQ4", "title": "시놀로지 NAS로 사고쳤다!!! 나스 용량걱정 끝!! (5만원으로 30TB SSD 추가하기)" },
+        { "id": "a14dsZ-uniE", "title": "시놀로지NAS로 무제한 웹호스팅 서버 만들기#4[NAS 컨테이너에 Let's Encrypt 설치하기]" },
+        { "id": "u7UAE-huI7w", "title": "이걸 시놀로지NAS로 한거라고?? [5개 도메인 25개 웹 싸이트 서버 완벽구축/도커 컨테이너 호스팅/나스 활용법]" },
+        { "id": "xJIHqHjLrQE", "title": "시놀로지NAS로 무제한 웹호스팅 서버 만들기#3[NAS 컨테이너에 Hestiacp 설치하기]" },
+        { "id": "PISD1QIuIZw", "title": "시놀로지NAS로 무제한 웹호스팅 서버 만들기#2[NAS용 Hestiacp 컨테이너 생성하기]" },
+        { "id": "nq7_UXmcrV0", "title": "시놀로지NAS로 무제한 웹호스팅 서버 만들기#1" },
+        { "id": "vy58AQaThDA", "title": "ispconfig 설치하기#10-[docker로 1분에 설치-phpmyadmin 오류해결법]" },
+        { "id": "bKUv5xaiIW0", "title": "ispconfig 설치하기#9-[docker로 1분안에 설치하자]" },
+        { "id": "MqZ_NMpcSAI", "title": "ispconfig 설치하기#8-[docker로 1분안에 설치하자]" },
+        { "id": "EPKuy34-B74", "title": "ispconfig 설치하기#7-[docker로 1분안에 설치하자]" },
+        { "id": "1XtPSJd9gBc", "title": "우분투18.04 ispconfig 설치하기#6" },
+        { "id": "KZsw5nfGDnQ", "title": "우분투18.04 ispconfig 설치하기#5" },
+        { "id": "GKVtSfoqvaA", "title": "우분투18.04 ispconfig 설치하기#4" },
+        { "id": "fofVxRXSpsQ", "title": "우분투18.04 ispconfig 설치하기#3" },
+        { "id": "I93bc2n3JcQ", "title": "우분투18.04 ispconfig 설치하기#2" },
+        { "id": "T2Oo4hPKyoM", "title": "우분투18.04 ispconfig 설치하기#1" },
+        { "id": "eW3WKOPuB58", "title": "헤놀로지7.0 기가바이트 메인보드 설치#2[헤놀7.0 설치완성 영상]" },
+        { "id": "GY-B7zx6sVQ", "title": "헤놀로지7.0 기가바이트 메인보드 설치#1[ispconfig/hestiacp설명]" },
+        { "id": "AiAvDUkJDgc", "title": "멤버쉽을 이용해 보세요!! [나스서버 셋팅문제 함께 해결해드립니다.]-영상시청은 기존과동일하게 모두 시청가능합니다.]" },
+        { "id": "KDWQsmUOD3E", "title": "가상머신(V-Box) 헤놀로지에 도메인 연동하는 방법[헤놀설치시 삽질방지법 포함]" },
+        { "id": "gtiA0Hcdfws", "title": "NAS서버 원하는 댓수만큼 공짜로 쓰자!!(가상머쉰헤놀로지설치하기)" },
+        { "id": "HQGV1eDkj3s", "title": "헤놀로지 6.2.2-24922 최신버전 드디어 설치완료#2[3615xs lan카드 안 잡히는 문제 완전 해결법이 들어 있습니다.]" },
+        { "id": "-5yAnJqNWbE", "title": "헤놀로지 6.2.2-24922 최신버전 드디어 설치완료#1[3615xs lan카드 안 잡히는 문제 완전 해결법이 들어 있습니다.]" },
+        { "id": "X0Dip_EBJ-M", "title": "헤놀로지6.2업그레이드하기#2편 (Full 패키지 복원과정 포함)-시놀로지 가상머신 및 도커강의 준비" },
+        { "id": "pSz7fYF-qPg", "title": "헤놀로지6.2업그레이드하기#1편 (Full 패키지 복원과정 포함)-시놀로지 가상머신 및 도커강의 준비" },
+        { "id": "1YVnvtCEHag", "title": "20분만에 중고컴퓨터로 시놀로지NAS 서버 만들기(헤놀로지 부트로더로 설치한방에 끝)" }
+      ]
+    }
+  ]
+}

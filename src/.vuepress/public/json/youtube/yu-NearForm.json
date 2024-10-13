@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "NearForm",
+    "name": "NearForm",
+    "profile": "https://yt3.googleusercontent.com/qZbKnbfhHMz_tIE_IFGflW_OQwgNvxQn-kTcV9chCGRIo5O37Gp1F3r_rY966e-3JORTIQnlng=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-ENWcASqlfyPtRsS7HgMN5V81NyQZaTts4zTi9fyMOUUNqOzp6-n0cF0dkqi3iPHGT5uJX5F=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "29qJhWnk8dA", "title": "Getting involved in the Node.js Project plus Q&A with Rafael Gonzaga" },
+    { "id": "xDsVRSwRssA", "title": "ESModules Unveiled: A Fireside with Gil Tayar on ESM Loaders and Inspiring your First Tech Talk" },
+    { "id": "QyQ46hrVieg", "title": "NottsJS May: Node.js Worker Threads - James Snell" },
+    { "id": "BEPTMiCNxlY", "title": "Michael Dawson | Building native addons for Node.js (and more JavaScript engines) like it's 2023" },
+    { "id": "CYQBIjB5IOQ", "title": "Tobias Nießen | Sandboxing JavaScript runtimes and on-the-fly process isolation" }
+  ]
+}

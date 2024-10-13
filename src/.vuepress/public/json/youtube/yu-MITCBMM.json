@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "MITCBMM",
+    "name": "MITCBMM",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb5PXSKqAENlq3R_sEb4axmG2dsbjORtte2sTnepw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/R7sfXkbHWOXsePUk5qkpNjldpPeYhq6_AqpeX9fPGBx3vVfBBvGajU996_aot8xH7ykz3iFp0g=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yX_Az0VPVoY", "title": "Bayes in the age of intelligent machines" },
+    { "id": "O5SLGAWSXMw", "title": "The Debate Over “Understanding” in AI's Large Language Models" },
+    { "id": "mSX9CCKdBDA", "title": "The Assembly Hypothesis:Emergent Computation and Learning in a rigorous model of the Brain" },
+    { "id": "n9YPVpeyctU", "title": "Navigating Progress in AI and Neuroscience" },
+    { "id": "K3JOQVflvyM", "title": "Dense Associative Memory in Machine Learning" },
+    { "id": "KSqvL-CSKIs", "title": "Mindgames" },
+    { "id": "9vIYDssOQJs", "title": "Building and Training Deep Learning Models in PyTorch" }
+  ]
+}

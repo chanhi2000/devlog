@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "devlearn_creator",
+    "name": "DEV-LEARN 데브런 -AI 게임제작 강의",
+    "profile": "https://yt3.ggpht.com/4CaSWOZCKOR-Kk6vNkRn1szgX8DRnyZ_ofl4jmP8T7nQLGILfc5zYWJrt7_T8jVBa6gwtqdQLeE=s88-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Wj5GEATqdlEbPtRTDisCGgJxlBi1RT1dlswNdcMvHpHKHG85uCNH_AfwXdXl3H_6LjEhb7zdmA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aPs1tzPOHDw", "title": "노코드 AI 초고속 게임만들기 #5 [레벨디자인 방해물 제작]" },
+    { "id": "BQJELLOl0m8", "title": "노코드 AI 초고속 게임만들기 #4 [적 캐릭터 NPC 제작]" }
+  ],
+  "playlists": [
+
+  ]
+}

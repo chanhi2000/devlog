@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "AzurenaPratica",
+    "name": "Azure na Prática",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQy9KNNqdKICaahfLSu3yjpPOLcuBwBIn7Mfwo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yKldi_ZRvysF83SWSth2OjSJLVPpK41M0F9crNaYukAxudYaZnpLvCPv_K42oKp_tsTk1sjxtQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LWrzfhYauR8", "title": "Carreira em Cloud Computing: Por Onde Começar em 2024" },
+    { "id": "2eGM9fR1MPA", "title": "Live #83: Kubernetes descomplicado com Azure Container Apps e Container Jobs" },
+    { "id": "2O_szavcK-k", "title": "Live #80: Pragmatismo da Internet das Coisas em 2024" },
+    { "id": "dp8uqaNCSjs", "title": "Live #81: Balanceamento de carga no Azure - opções, cenários e benefícios..." },
+    { "id": "GcJm8NriV_0", "title": "Live #82: Bancos Relacionais no Azure - Quanto custa e como pagar mais barato?" },
+    { "id": "uXfDTeuEapw", "title": "Live #79: .NET, Azure e Meio Ambiente - ESG, Green Software e muito mais!" },
+    { "id": "Qwy4lNIicfo", "title": "Azure na Prática Gratuito #6 - Kubernetes na Nuvem" }
+  ],
+  "playlists": [
+
+  ]
+}

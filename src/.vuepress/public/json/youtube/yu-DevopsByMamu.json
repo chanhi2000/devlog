@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "DevopsByMamu",
+    "name": "Devopsbymamu",
+    "profile": "https://yt3.googleusercontent.com/OdEXgDfbRE-46qy29zBu2R5N0BKaxl1trtUji5iDwLhcz6t8R286HKK74NFc6YcpGggNITWW9bs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mi_FKfAg8vE9mziVHr6dfx-oPK_9A2t-KEJZIqVXkBaIT6UhhOv8zTpe7BxvYLnIEpeDyqLv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t5yjNDc74fA", "title": "Git and GitHub || Github class-1 in Telugu  What is GitHub?" },
+    { "id": "CesyrztAws8", "title": "Git Merge || What is  merge in git?" },
+    { "id": "Avvq7OaXyjM", "title": "Master Git and GitHub Go from Zero to Hero  || Git Tutorial for Absolute Beginners from Zero to Hero" },
+    { "id": "ol_0uo4GO2U", "title": "How to migrate a Git Repo from GitHub to Azure Repos | Import Git Repo from GitHub into Azure Repos" },
+    { "id": "qWfo_lDJ9qA", "title": "Git Cherry Pick || How to use the \"cherry-pick\" command in Git || Git Cherry Pick Tutorial" },
+    { "id": "CdsPrCRTsX0", "title": "What is a rebase in git?What is Git Rebase and How Do You Use It?Git MERGE vs REBASE" },
+    { "id": "szZ5PtOywV4", "title": "Git Reset and Revert Tutorial || Mastering Git: Reset v Revert" },
+    { "id": "W6qsWtCQCBU", "title": "Git Stash || How to use the Git stash command for saving temporary changes? What is Git Stash" },
+    { "id": "3n6Rs2XgBCI", "title": "Pull Request & Resolved Conflict || How to Resolve Merge Conflicts in Git?" },
+    { "id": "UWsD5nXO2zQ", "title": "Git Amend Tutorial:How To Amend Git Commit Message Rewrite  | Change Git Commit Message After Push" }
+  ]
+}

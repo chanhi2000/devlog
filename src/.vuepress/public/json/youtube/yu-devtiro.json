@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "devtiro",
+    "name": "Devtiro",
+    "profile": "https://yt3.googleusercontent.com/tkv8em4pkZaLiKBNjsXcrzRn0XyYdxvnW-FaEhYBM2EgUE4zkLYvqerqVS-zTQx6KqNVBkGL=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fn3--REULJGT5hgmiYTXVE7EkiqCuKkN7t4noxhXj_dBghov7R4WTnIGtxsBfoLjAxhUaKjg3Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7iJ0NWRaWic", "title": "How to build a REAL Webapp with Kotlin & Spring Boot" },
+    { "id": "HU1aPOeNaiQ", "title": "Start HERE for Database Mapping in Spring Boot: What's an Entity?" },
+    { "id": "nmOYRdOvagU", "title": "How to Connect Spring Boot to MongoDB" },
+    { "id": "qE7ar1XMaYI", "title": "Java OUT, Kotlin In: How to Migrate Your Spring Boot Projects" },
+    { "id": "Nv2DERaMx-4", "title": "The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners" }
+  ],
+  "playlists": [
+
+  ]
+}

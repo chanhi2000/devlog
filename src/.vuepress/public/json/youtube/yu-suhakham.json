@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "suhakham",
+    "name": "더수학함",
+    "profile": "https://yt3.googleusercontent.com/TmLQ0Iz43Ssx3tN7-1x7IIcpnA8OhVa_Ybi1Lfj87PHh9nhRul6hxfqyN8e9Q9wwqfYMpAYc2A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9jw5CJV6cFg", "title": "대수파트 하나 가볍게 풀어봅니다." },
+    { "id": "pksFbw-tJcA", "title": "정답이 2가 아니야? | 다들 이렇게 틀리는 문제 | 산술기하 1등급 1탄" },
+    { "id": "Pn7OU_zuO9Q", "title": "모두 음수일 때  산술기하는 이렇게 | 산술기하 1등급 2탄 | 고난도" },
+    { "id": "qRey5i-myFo", "title": "종치고 나서도 24라 생각하는 문제 | 산술기하 1등급 3탄_올바른 시행착오" },
+    { "id": "OyKYWOHI7AM", "title": "다들 이렇게 틀립니다. 미적분 | 급수편" },
+    { "id": "TitnOhofwjU", "title": "고1수학 고난도 3초 풀이 | 스튜와트정리의 3가지 특수상황" },
+    { "id": "0RcRexWPs_M", "title": "스튜와트정리 논증기하 증명 2가지" },
+    { "id": "Ug0vcGLWTSM", "title": "중2 심화 (영재학교 대비 & 고1내신 필수 개념) | 중선정리(파포스정리) 그리고 스튜와트정리" },
+    { "id": "iS8UhX_7GJg", "title": "고1수학 도방 군방정식 | 1등급에 한 발더 가까이" },
+    { "id": "T9HUUg_YtQk", "title": "데카르트정리" },
+    { "id": "NwBxdP7CzqA", "title": "기말고사 1등급 필수 문제" },
+    { "id": "fIGeQWhLqUA", "title": "2등급 이하 드루와 | 2024.07 모의고사 수학 14번, 2가지 솔루션" },
+    { "id": "ZTYpTF2fpdQ", "title": "더수학함 고급개념 | 시그마공식 조합으로 해석 2탄, 2차식 | 유튜브 최초 신박한 발상의전환" },
+    { "id": "Vxgg-WP8Ilc", "title": "더수학함 고급개념 | 시그마공식, 조합으로 해석 1탄, 1차식 | 유튜브 최초 신박한 발상의전환" },
+    { "id": "Q0sNvBGilmQ", "title": "테일러근사 | 코사인함수를 다항함수로 해석해내다 | 고급개념" },
+    { "id": "TznmjQIgSxo", "title": "주제탐구 발표수업 | 피보나치수열 기하편 1탄 _ 지적호기심 예비중3 김주원학생" },
+    { "id": "2SFsB2KbkNw", "title": "획기적 시간단축 | 대칭성을 이용해서 (해설지에 없는 접근)" },
+    { "id": "7rQWwrKi4sM", "title": "영재과학학교 입학준비 도전!! 1번은 워밍업" },
+    { "id": "4dkZgeq7Gg4", "title": "신기한 루트값 소수점 계산법" }
+  ],
+  "playlists": [
+    
+  ]
+}

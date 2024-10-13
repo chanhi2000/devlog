@@ -1,0 +1,6 @@
+# After webpack, we have more to ignore
+node_modules
+out/
+src/
+tsconfig.json
+webpack.config.json

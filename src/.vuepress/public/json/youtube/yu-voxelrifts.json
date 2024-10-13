@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "voxelrifts",
+    "name": "VoxelRifts",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqONWZi4uvwMGiuIkBLNXjCd4KjRyiWubR9UR1T-rg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "lOhtNrYWr_Q", "title": "Why are if statements in shaders heavily discouraged?" },
+    { "id": "3IAlJSIjvH0", "title": "Arenas, strings and Scuffed Templates in C" }
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "stencia8236",
+    "name": "Stencia",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZT6z-a1eaTcKZHKloUwTr4kD3_5yXCClVRkYVLr=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7vvYNwyBj8Y", "title": "Wiremock, JsonPath and the body of the http request" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "EEVblog",
+    "name": "EEVblog",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lagjGDfXbXlQXhznx3CDRitOBdxvebllQd_YP1ag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yIJ9ad80n49rK-YUcZLe_8bLmR-aGyg5ybDH_XKIc0GDWrC6s1Wzz8lxnq3_hux_5b6NHPZ9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oRvxjxs3cE0", "title": "EEVblog 1609 - Composite Amplifier Tutorial + Practical Demo" },
+    { "id": "Pf1TSnMRh7E", "title": "EEVblog 1612 - Siglent SDS1000X HD 12 bit Oscilloscope Teardown" },
+    { "id": "np8AAbjBnUI", "title": "EEVblog 1616 - Weller Zero Smog Fume Extractor Review" },
+    { "id": "3RK-ObbXI_w", "title": "EEVblog 1618 - The Equation For Energy In A Capacitor" },
+    { "id": "fIEH4-P2nyQ", "title": "EEVblog 1594 - Inside a Quantum Computer! with Andrea Morello" }
+  ]
+}

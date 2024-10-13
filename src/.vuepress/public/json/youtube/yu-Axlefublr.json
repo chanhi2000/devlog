@@ -1,0 +1,88 @@
+{
+  "channel": {
+    "id": "Axlefublr",
+    "name": "Axlefublr (she\\they)",
+    "profile": "https://yt3.googleusercontent.com/Q2VKmJwD9bSuUHppcLw_k0JuGFNwEO3tR9NRZxPgVAeMEfa6WlGcq2VTAH8bLfWVVjUtOJ4mRg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "5GDv-foa148", "title": "qfetter.nvim Is Niche But Powerful — Stream VOD" },
+    { "id": "OXnnmSaGk0w", "title": "The Hidden Power Of Common Commands — Stream VOD" },
+    { "id": "uVySxIqo1Ds", "title": "I'm High-Diffing My Browser — Stream" },
+    { "id": "uVySxIqo1Ds", "title": "I'm High-Diffing My Browser — Stream VOD" },
+    { "id": "xHrUqHzKxJU", "title": "Luasnip is Amazing! — Stream VOD" },
+    { "id": "rbi8Z21GVkI", "title": "Will I Scream At Kitty Today? — Stream VOD" },
+    { "id": "_fbFII2oJOw", "title": "Discovering A Better Git Workflow — Stream VOD" },
+    { "id": "A3EdaHVJwY4", "title": "We made a Neovim Plugin! — Stream VOD" },
+    { "id": "Cl6O0zr7yOc", "title": "Search Through Your Git Repo History! — Stream VOD" },
+    { "id": "wXn6C_ecq5o", "title": "I Spent 5 Hours on This... — Stream VOD" },
+    { "id": "grQ5-PLNE5I", "title": "I'm Still Obsessed About Ranges! (yet another neovim stream) — Stream VOD" },
+    { "id": "8AUilafnLWs", "title": "edister.nvim Solves a Problem You Definitely Had — Stream VOD" },
+    { "id": "46daomwyqDs", "title": "I Did Some Nim Programming?? — Stream VOD" },
+    { "id": "2FER8vl6eks", "title": "I Made a Discord Server! — Stream VOD" },
+    { "id": "0MMm5LjyQMo", "title": "Why I Switched to AstroNvim (as a config lunatic) — Stream VOD" },
+    { "id": "3qt1v9ZVh8k", "title": "Fish — The Power of a Good Shell — Stream VOD" },
+    { "id": "XTS9BRpxY2s", "title": "I Switched to NEOVIM (from Vscode) — Stream VOD" },
+    { "id": "l3BmiztENcc", "title": "Neotree: an actually usable filetree — Stream VOD" },
+    { "id": "DDuZnCnCnVc", "title": "I LOVE my in-memory filesystem! — Stream VOD" },
+    { "id": "sAnnasb77LM", "title": "Global Registers — 36 Clipboards! — Stream VOD" },
+    { "id": "4R8zIL569pM", "title": "Oil.nvim is now my File Manager! — Stream VOD" },
+    { "id": "YFOjeog7gA8", "title": "My Own, Better Harpoon! — Stream VOD" },
+    { "id": "bxHDdlnchB4", "title": "Birthday! woohoooo yahooo yipeee! — Stream VOD" },
+    { "id": "3qt1v9ZVh8k", "title": "Fish — The Power of a Good Shell — Stream VOD" }
+  ],
+  "playlists": [
+    {
+      "title": "Linux",
+      "videos": [
+        { "id": "4fBnoe-8idI", "title": "My silly Emoji Picker — Linux" },
+        { "id": "d2NZgheQx0M", "title": "Draw on Your Screen! — Gromit-mpx — Linux" },
+        { "id": "NO_UxAqr1Zw", "title": "Hover Screenshot, now on — Linux" },
+        { "id": "SSQ89rqXDPU", "title": "I made a Show Tracker in — Rust" },
+        { "id": "hR2ptbEmJ0A", "title": "How I Edit Videos With BLENDER! — Linux" },
+        { "id": "PKNafktDFHc", "title": "QDBusError(\"org.freedesktop.DBus.Error.Disconnected\", \"Not connected to D-Bus server\") - Linux" },
+        { "id": "1HfhZ-evTUg", "title": "My kitty video - Linux" },
+        { "id": "yaXnfq3Zetk", "title": "Top n Epic Rust Tools I Found — Linux" },
+        { "id": "C_vliLlsPjA", "title": "How To Traverse Directories Flawlessly With Fzf — Linux" },
+        { "id": "fp6e-DSeMug", "title": "My Fish Shell Prompt Experience — Linux" },
+        { "id": "8FIc7nXyZUI", "title": "How To Configure Fish Shell Tide Prompt — Linux" },
+        { "id": "RKg-GvnOR_8", "title": "How to Install Fish Shell — Linux" },
+        { "id": "cBvXDExCNRY", "title": "Ffmpeg — Linux" },
+        { "id": "vQx8TE18P9c", "title": "PowerLevel10k — Linux" },
+        { "id": "k1AYMQQgqzM", "title": "Termdown: Terminal Timer! — Linux & AutoHotkey v2" },
+        { "id": "_pW0sDmKczs", "title": "Symlinks — Windows & Linux" },
+        { "id": "6M4qMcMKcWk", "title": "$PATH Environment Variable — Windows & Linux" },
+        { "id": "WAU-egeWff4", "title": "Fzf — Searching Your History — Linux" },
+        { "id": "VW7S21_v1a8", "title": "Fzf — A General Purpose Fuzzy Finder — Linux" },
+        { "id": "3h_kvNDvB_Y", "title": "History, but for a single command! — Linux" },
+        { "id": "gjmhX693scQ", "title": "Fish abbreviations in zsh — Linux" },
+        { "id": "viOPfywjnZg", "title": "Most useful zsh hotkeys and commands — Linux" }
+      ]
+    }, {
+      "title": "Neovim & VsCode",
+      "videos": [
+        { "id": "JJLJ9hm8AZ8", "title": "How should I use vim? — Neovim & VsCode" },
+        { "id": "VBr2DPm30h8", "title": "Using the neovim extension to the fullest — Neovim & VsCode" },
+        { "id": "KQ5WbYcJswk", "title": "Code block text object — Neovim & VsCode" },
+        { "id": "nU4vRFMf4F8", "title": "Text objects — Neovim & VsCode" },
+        { "id": "wj7U-DNALN0", "title": "How to make your own text objects! — Neovim & VsCode" },
+        { "id": "j-MBH-rVI6c", "title": "What does gM do in — Neovim & VsCode" },
+        { "id": "yz3jptm414I", "title": "How to remap ctrl hotkeys in — Neovim & VsCode" },
+        { "id": "vvyJtqPiJwc", "title": "Convert your init.vim to a init.lua! — Neovim & VsCode" },
+        { "id": "pStsi968ChE", "title": "Vertical movement — Neovim & VsCode" },
+        { "id": "_a2WLClyIpg", "title": "Feedkeys in lua — Neovim & VsCode" },
+        { "id": "PH3CRgDa9tQ", "title": "Fixing scrolling in — Neovim & VsCode" },
+        { "id": "I1Z8z3r3Lt8", "title": "Use Vim in any app — AutoHotkey v2 & Neovim" },
+        { "id": "ssF-pm0eFkw", "title": "Ctrl X mode — Neovim & VsCode" },
+        { "id": "9dCHWhwqP3A", "title": "Make db work properly! — Neovim & VsCode" },
+        { "id": "2wapxsfzLho", "title": "How to install Neovim 0.8 on WSL (Ubuntu) — Neovim & VsCode" },
+        { "id": "tTnv7BHngW0", "title": "My Most Useful Neovim Remaps — Neovim & VsCode" },
+        { "id": "m__dtxGg9As", "title": "Better H & L Motions! — Neovim & VsCode" },
+        { "id": "VMOcq2zLxlg", "title": "Fix Vim Search! — Neovim & VsCode" },
+        { "id": "cz01rOOaLmA", "title": "Make your Neovim Registers More Useful! — Neovim & VsCode" },
+        { "id": "KCx4mwhXffk", "title": "I implemented a Killring in — Neovim & VsCode" },
+        { "id": "GP722zVGYAk", "title": "Search Offsets — Neovim & VsCode"  }
+      ]
+    }
+  ]
+}

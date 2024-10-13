@@ -1,0 +1,55 @@
+{
+  "channel": {
+    "id": "HoussemDellai",
+    "name": "Houssem Dellai",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO8Scq89dp5wEZag-ysfkfQVWvVKoIijFPpGd_HPA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gsK0EALjlZGWmWu9Uf-KrVdjUAmK3X9dfVX40UZ0tJ54SzBEh_lVWsSzENyAtmCZDaPOItJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6O8qWzit3EU", "title": "AKS private DNS resolution at scale" },
+    { "id": "4K7MQto-Vtc", "title": "Getting Container Apps logs in Grafana" },
+    { "id": "TOBGA-ztINM", "title": "App Routing, the best AKS feature ?" },
+    { "id": "oRZZZox1D58", "title": "Introduction to AKS Automatic" },
+    { "id": "25VSVE-YQUs", "title": "Introduction to RAG" },
+    { "id": "K-11omMaU1U", "title": "Limitations for private domain names in Container Apps" },
+    { "id": "1_iFSg9Roeg", "title": "Private DNS options for AKS" },
+    { "id": "sGWtz_kkKX8", "title": "Azure Managed Prometheus and Grafana for AKS monitoring" },
+    { "id": "DNd3QTkm5Dw", "title": "Azure AMPLS demystified" },
+    { "id": "h8zCym-OeYg", "title": "Secure AKS with HTTP Proxy" },
+    { "id": "xWzHQIdQ8so", "title": "How Azure Monitor Agent authentication works ?" },
+    { "id": "LuP1X6awyWs", "title": "Secure network access to Container Apps" },
+    { "id": "Fr4Wv0KQaXk", "title": "Introduction to Azure API Management" },
+    { "id": "pANC3uA4OvY", "title": "Custom Azure RBAC role for AKS" },
+    { "id": "wGvahAHcNFc", "title": "Introduction to Azure Firewall" },
+    { "id": "s4Kw6KCo63g", "title": "Choosing better VMs for your AKS cluster" },
+    { "id": "koAul2mlSTQ", "title": "Properly manage egress traffic with NAT Gateway" },
+    { "id": "rzGbxwYfLnI", "title": "Get your own IP in Azure" },
+    { "id": "-1pOiG_DHIo", "title": "Why Azure Internal (private) Load Balancer" },
+    { "id": "ob7sDIiyjE0", "title": "Why Azure Load Balancer" },
+    { "id": "UyvhVK7egZ0", "title": "Hosting DevOps Runners and Build Agents" },
+    { "id": "GTqdkQIdCXY", "title": "KEDA autoscaler for Kubernetes and Container Apps" },
+    { "id": "kV-VLz1KxfE", "title": "AKS Landing Zone - part 2" },
+    { "id": "KH0slS87pIo", "title": "Are your Secrets Secure in Container Apps ?" },
+    { "id": "8CsT1oXcwiA", "title": "AKS Landing Zone - part 1" },
+    { "id": "vV6TeUSlmvc", "title": "How Kubernetes secures access to API Server ?" },
+    { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },
+    { "id": "Ec1aC5O8r6A", "title": "Container Apps using Kubernetes YAML ?" },
+    { "id": "MC98aGrHZTU", "title": "Azure Container Apps Jobs" }, 
+    { "id": "YNy8Sdvxy5Q", "title": "Microsoft Defender for DevOps" }, 
+    { "id": "wvGDH_gp2Tw", "title": "Application Gateway for Containers" }, 
+    { "id": "hoNBlGVD1CY", "title": "AKS CIDR Ranges" }, 
+    { "id": "ptdAcsG2ROI", "title": "Purchase custom Domain Name in Azure using Terraform" },
+    { "id": "MpZNURlESgA", "title": "Introduction to Azure Container Apps" }, 
+    { "id": "pjx6S-DXiN4", "title": "Azure Container Apps on the Lightboard" }, 
+    { "id": "YMN9uhjX3RY", "title": "Kubernetes and AKS versions" },
+    { "id": "PngRsyHyYQE", "title": "AKS with Application Gateway - AGIC" }, 
+    { "id": "bafijVfuzwY", "title": "Monitoring AKS using Prometheus and Grafana on Azure" }, 
+    { "id": "2Y82jW_H-E4", "title": "Deploy Kubernetes Infra with Terraform and Github Actions" }, 
+    { "id": "woZGH0lg1ns", "title": "Azure DevOps CLI" }, 
+    { "id": "kPDy7Nb32e4", "title": "Custom domains using Kubernetes CoreDNS" }  
+  ],
+  "playlists": [
+
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "kooky0ai",
+    "name": "기묘한 자동화",
+    "profile": "https://yt3.googleusercontent.com/R-nm0L0QKGgD1W63lEER9254G-iMkoGw0q4TZt68HEQEfal-ay4RZ9ImAbl-f-Q1SNn3o26CzA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DLJIGUkPC81fLU_hD_Luq3wDrgpf7XADgcvEDKaTx-B_TccGLikG63wfP4-l7x5XYSWDlxTYlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ppIzV7-ULn4", "title": "[팟캐스트] AI 유튜버 기묘한자동화에 대하여 | 하이라이트" },
+    { "id": "CYicYoX0TYA", "title": "엑셀, Google Sheets에서 GPT 함수 사용법 총 정리 | GPT for Sheets | GPT for Excel" },
+    { "id": "SkklYakMqGY", "title": "AI로 돈버는 3가지 방법 | AI 시대 로드맵" },
+    { "id": "-FaHdl35E34", "title": "2024 최고의 무료 AI 툴 TOP 25 2편 [재업]" },
+    { "id": "FdxPKwA3zWw", "title": "GPTs 스토어 : 업무 자동화 GPTs Top 10" },
+    { "id": "ywH7JIK34Tg", "title": "300개 이상의 노코드 AI 툴을 써봤습니다, 이게 최고입니다." },
+    { "id": "cgV-ZmNxYQU", "title": "OpenAI 영상 생성 AI Sora 사용법" },
+    { "id": "DpXg0LDgfEg", "title": "[논문검증] 프롬프트 엔지니어링 26가지 방법 | ChatGPT" }
+  ]
+}

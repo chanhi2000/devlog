@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "dnfvideo",
+    "name": ".NET Interview Preparation videos",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQAxvt-d6-CnpwtSukqxk2ISg5kMR5vsl4vnuU9=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qqKmHu156E-nk-77ifxl6KoYd-r7zxE3iZLTnObP0Ybs_Y3aukFe5UVTJwOX0Cav_nSLvmy5Aw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "z5t90kvagTw", "title":"WPF MVVM Step by Step ( Windows Presentation Foundation)"},
+    { "id": "QFj-hZi8MKk", "title":"SQL Server interview question :- Explain RowNumber,Partition,Rank and DenseRank ?"}
+  ]
+}
+
+
+

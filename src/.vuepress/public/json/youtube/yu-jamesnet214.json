@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "jamesnet214",
+    "name": "jamesnet",
+    "profile": "https://yt3.googleusercontent.com/plwB-Yh1wdUW07wUsk_218WPDVH55_CcKHnc1wIrJU_pV6VejIOU4qSqkSzkV4HglyeWAQogoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "jyv2fP9TUtY", "title": "WPF Tutorial | 🎮Crafting a League of Legends-Styled RiotSlider | In-Depth Analysis of Slider Control" },
+    { "id": "dxuLWlukthg", "title": "Customizing ListBox for a Smooth Animated Navigation Bar in WPF｜C# WPF" },
+    { "id": "rGox76Bm6VY", "title": "Use WPF to create a day and night Toggle Switch Button |GitHub Source Code | NuGet" }, 
+    { "id": "5Pt-IvEogWU", "title": "[S4 EP1]WPF 스터디 13회 라이브 스트리밍 풀영상  _ WPF INSIDE OUT" },
+    { "id": "2PuvhTEcWAQ", "title": "📘 [WPF 실전 가이드] WPF INSIDE OUT 🎥 실습 영상 | WPF 프로그래밍 국내 서적 💻" }
+  ]
+}

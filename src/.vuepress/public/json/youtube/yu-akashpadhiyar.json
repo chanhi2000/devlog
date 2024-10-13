@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "akashpadhiyar",
+    "name": "Akash Padhiyar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRYuX96si8eDU8QJT4pAMLjLso6ly4UCR1fbXgs4WY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lT01TkYLtR7wrXvqrMkEMxcHZWJt6TiJ7xzN0VZlhdQ764n33n8e4G0CzzpUD6A-Dee-HXFZAQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UuWEQGN2Lg0", "title": "How to Send Email using PHPMailer in Localhost using Gmail 2024" },
+    { "id": "BeoSsts1DWk", "title": "Flutter Installation Step by Step Tutorial in Hindi 2024" },
+    { "id": "6uRsW0qhnzM", "title": "Form Validation using Jquery Tutorial in Hindi" },
+    { "id": "D2rNhJsykZQ", "title": "How to Install Xampp Server on Windows 2024" },
+    { "id": "Ge75_sZ4LwQ", "title": "How to Install Postman & Quick Tour" },
+    { "id": "AZdRglIhLtQ", "title": "How to Install Node Js and NPM NPX in Windows 2024" },
+    { "id": "ujN1NEYULr4", "title": "How to Install React JS & First React App Project in Hindi 2024" },
+    { "id": "x7zB_eOVGzw", "title": "How to Install MongoDB on Windows 11 Hindi 2024" },
+    { "id": "w4ynN7IUSNA", "title": "PHP & Mysql CRUD Tutorial in Hindi | PHP Video" },
+    { "id": "EhKt0ucXs-g", "title": "React Website Development - Routing & Html Theme" }
+  ]
+}

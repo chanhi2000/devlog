@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "ippsec",
+    "name": "IppSec",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMK9H8PeVt8jdnkjlBaEstRQS7YtGZCi1GBcMvL=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8MA0Jv5ubvTC9cz4R1D8sc0JRO-5BAztZ-JjMNOSyrIRRIE6wysR5KZXm9M3EavKAVrzVzw-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sdV8s6EtJ9I", "title": "HackTheBox - Crafty" },
+    { "id": "VcxSqLEr3kY", "title": "HackTheBox - Bizness" },
+    { "id": "VcxSqLEr3kY", "title": "HackTheBox - Bizness" },
+    { "id": "jdWOXokQQK0", "title": "HackTheBox - Devvortex" },
+    { "id": "yGy3_EUi75w", "title": "HackTheBox - AppSanity" },
+    { "id": "lT2Tv0m4k7M", "title": "HackTheBox - Manager" },
+    { "id": "p1NsQSGeDv0", "title": "HackTheBox - Analytics" },
+    { "id": "8IkHQ84lmPI", "title": "HackTheBox - Clicker" },
+    { "id": "0AafRQIaWmQ", "title": "HackTheBox - Keeper" },
+    { "id": "jYCOIf9Fcmo", "title": "HackTheBox - Builder" },
+    { "id": "HM8_Pf8zxko", "title": "HackTheBox - Drive" },
+    { "id": "H6QfYGeGdGQ", "title": "HackTheBox - Sau" },
+    { "id": "C78yku9WC0o", "title": "HackTheBox   Zipping" },
+    { "id": "qg6ucvkWOFA", "title": "Beyond Root - Crawling PHP Webapps After File Disclosure" },
+    { "id": "C2_Z9CfdP0Y", "title": "Beyond Root - Crawling PHP Webapps After File Disclosure" },
+    { "id": "WakZS2BhVfs", "title": "Automating a File Disclosure Vulnerability to Crawl Website Source" },
+    { "id": "UqDdR10F54A", "title": "HackTheBox - Bookworm" },
+    { "id": "Qzb1j-L1n7o", "title": "Hiding Spam with uBlock Origins" },
+    { "id": "mF8Q1FhnU70", "title": "Automating Boolean SQL Injection and Evading Filters" },
+    { "id": "2y68gluYTcc", "title": "Rebuilding Parrot and Using Ansible to Script Customizations to My Image" }, 
+    { "id": "VRz_vtPBZzA", "title": "Installing VSCode with Copilot and Snyk via Ansible" }, 
+    { "id": "XDJB0TVKtNk", "title": "Configuring Burpsuite and Firefox via Ansible - Intro to Jinja2 and Ansible" }, 
+    { "id": "KcYBV1L2w_s", "title": "Attacking Password Resets with Host Header Injection" }, 
+    { "id": "lxjAZELJ96Q", "title": "HackTheBox - Sharp" }
+  ]
+}

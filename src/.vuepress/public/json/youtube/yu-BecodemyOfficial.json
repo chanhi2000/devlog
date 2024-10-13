@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "BecodemyOfficial",
+    "name": "Becodemy",
+    "profile": "https://yt3.googleusercontent.com/B_PzcsgCMUdwE-q8HSEmMejj9rtuuhsWrCbuY5HJLJeE84MJ_I_WdRR1HKGBtTSxkiEj7YNzp9c=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mqblSvRkyLchLyoA7mpe5wXS1lYhiiM7S790ZDU4oQcs8Z41zYsmZaNaH-CyKM3xMk6THSNpSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "h4dW5LNtcoE", "title": "Let's Make a Full-stack Website Without a Backend Next 14 | OneEntry CMS | Tailwind css | Typescript" },
+    { "id": "hGB-6VAcM6U", "title": "All Functional LMS mobile App with React Native,Expo,Typescript,Express js" },
+    { "id": "1czXOTEDMis", "title": "Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js || part 2" },
+    { "id": "BrrwtCt7d-Y", "title": "SaaS Email Newsletter platform by using next14, typescript, AWS SES, AstraDb, Stripe" },
+    { "id": "UxirFATvWTo", "title": "Food Delivery Web Application using Microservice Architecture with Nest.js,GraphQL,Next.js || part 1" },
+    { "id": "mzbOqy5DWzE", "title": "AI Prompt Selling Marketplace with next 13.5,Typescript,Next UI,Prisma,Mongodb || Full Stack Next js" },
+    { "id": "kf6yyxMck8Y", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 1" },
+    { "id": "w1fkGHGZs1Q", "title": "All Functional MERN Stack LMS / Learning Management system series with next 13, TypeScript | Part 2" }
+  ]
+}

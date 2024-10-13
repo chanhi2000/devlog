@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "devopsdean7830",
+    "name": "DevOps Dean",
+    "profile": "https://yt3.googleusercontent.com/CLtrM3HBp5n7uz0Ptuxkt0qzSKZX6o9DY5TZD8_NGLHwzbsJIrcIW8yxH8IcGLTCc8sEdBzLJA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/54bbSxEZBPShHhk0CJ8w3jSnw2pOBFzqXxXEEU7yjVFB5ESJA4eATArzgYCaGA58VZFjTyS24zQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wm9AECTm_48", "title": "Openshift Tutorial - Basics & Setup" }
+  ]
+}

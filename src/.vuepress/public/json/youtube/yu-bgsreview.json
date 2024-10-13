@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "bgsreview",
+    "name": "방구석 리뷰룸",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKa7toYQJrVRO15Mp7N0y6k5IRkz18YRgxyRUPj0QQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/56JMcUthF9rkxwN0cjJsCyG7-BNQd3OKL9QIvq3rxVZysatFGqjGpDsYl7vimH09pf8lKtMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cvVLM8wuvx4", "title": "JavaScript Golf 4" },
+    { "id": "zyMJ0s6Vh-o", "title": "Escaping Dependency Hell" },
+    { "id": "AcKM2Nhy-RI", "title": "PHP's Type System Dissected | PHP Sussex" },
+    { "id": "Am5VlqQi3o4", "title": "Measuring Impact on Climate Change" },
+    { "id": "SdCcwWvsOLI", "title": "Real Time Collaboration for COGS with Redux | Async" },
+    { "id": "GlUsJz1jVBk", "title": "AWS Brighton User Group Meetup #6" },
+    { "id": "LJxvuC4MCHY", "title": "Cloud Lightning Talks" },
+    { "id": "O3HsvmGGthk", "title": "난리날만하네요🤯 새로나온 공식 ChatGPT 데스크톱 버전 이렇게 쓰세요" },
+    { "id": "LNGKawqL7uQ", "title": "드디어 나왔다!! 🤩 아이폰 사용자 무료로 받으세요!! 애플의 새로운 멀티 카메라 앱과 아이패드 파이날컷 신기능" },
+    { "id": "2qZOtRnG2jk", "title": "쌩기초부터 AI신기능 업데이트까지 싹! 맥북 돈값하는 영상편집 쉽게 배우기" },
+    { "id": "Od4Tx6Vscls", "title": "아이폰 사진 🔥 윈도우도 맥북처럼 편하게 관리하는 저만의 방법이 있습니다" },
+    { "id": "PO1sNLgVHLA", "title": "이거 대박입니다 🫢 맥북에서 윈도우 게임 쉽게 실행하는 최신 방법" },
+    { "id": "nxkQLhBYR2w", "title": "가슴이 웅장해진다 😳 아이패드를 휴대용 플스5, 엑스박스 게임기로 만드는 방법" },
+    { "id": "DA3_NncbXlg", "title": "아이패드 iPadOS 17.4 신기능 굿 🤩 저는 이렇게 연동해서 사용합니다" },
+    { "id": "z8V8QB5v4u8", "title": "무료로 간단하게 👍🏻 안쓰는 구형 아이폰, 갤럭시, 아이패드 멀티 모니터, 스피커로 쓰는 법" },
+    { "id": "fPb9UcDJKpg", "title": "직장인, 대학생 꼭 보세요!! 전 KBS 아나운서의 스마트 일정, 할일, 발표 꿀팁" },
+    { "id": "9SPGM2Xz6Ck", "title": "한글 무상 업그레이드 이번에 꼭 신청하세요!" },
+    { "id": "trTIwV8Oehs", "title": "무료로 PC처럼! 이거 정말 좋네요 🐳 아이패드 사용자 꼭 설치하세요" },
+    { "id": "q77lbFFgScU", "title": "아이패드 3대를 싹 연동하고 싶다구요? 공유 활용 꿀팁 알려드렸습니다" },
+    { "id": "HDPwkcoBs5U", "title": "아이폰 핵꿀팁 🤯 꼭 해보세요! 한방에 아이폰 사진, 동영상 외장 백업 끝내기" },
+    { "id": "v7hmb1Bfzd4", "title": "Plug into MacBook for fast file copying and remote control! Use Thunderbolt sharing" },
+    { "id": "NHIIRnAQDGI", "title": "최강의 아이폰15 케이스 종류별 추천! 오터박스 정말 좋습니다!!" },
+    { "id": "24hC8kREarU", "title": "와, 이번 신기능 너무 유용한데요? 애플의 새로운 고성능 원격 제어 기능 쓰는 방법" },
+    { "id": "kKzC9M8oKOc", "title": "이 업데이트를 기다렸습니다!! 아이폰 맥북처럼 쓰는 방법" },
+    { "id": "PYj2sM5MKNg", "title": "윈도우, 맥 유저 모두 구입없이 무료로 한글 HWP 사용하는 법" },
+    { "id": "Fbn9AwzSDrs", "title": "천재시네! 아이폰 단축어 고수의 놀라운 활용! 필요한 기능은 직접 만드는 고급 테크닉 전수" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "GiuseppeScaramuzzino",
+    "name": "Giuseppe Scaramuzzino",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMRjpR5-vgoKwmaXaIeYDHhN0JIwFf-XRrhBDwr=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ywMA17njtW3yDf-jcl0vGCve6fCXXE_NwyoKCOgVxpz9b5qV33Lv85D-dT5zpiEVxLPbI9XX=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "R5XsiXhddic", "title": "Building and Pushing Container Images with Quarkus CLI | Tutorial | Java | CloudNative" },
+    { "id": "HacojA4aQaY", "title": "Getting Started with Quarkus CLI: Installation and Setup | Tutorial | Java | CloudNative" },
+    { "id": "F6wNFGd9xS8", "title": "JEP 408: The new Java Simple Web Server introduced in Java 18 | Java Tutorial" }, 
+    { "id": "_ypAmCcIlBE", "title": "I Built the PERFECT Game Server with Pterodactyl and Docker" }, 
+    { "id": "CDG2v6qwuy0", "title": "How to schedule periodic tasks with Quarkus | Quarkus Tutorial | QUARKUS | CloudNative | Java" }, 
+    { "id": "DZy5xVNGz8k", "title": "Dockerize Quarkus application with Apache Maven | Quarkus Tutorial | QUARKUS  | CloudNative | Java" }
+  ]
+}

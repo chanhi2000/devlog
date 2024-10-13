@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "FererAtlus",
+    "name": "Ferer Atlus",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYAvliEvwvxXaAyiLjYPBJM2KPwwt6Yf8ZjxqNi1A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IHXs6nRMMZv-yII4skeZlYgUg4XQ0mnG3F2sRM-5VmiP7ndhu9T0mExNTOwhO7TjricB5HnqEQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rR8uTFK4KiU", "title": "Android Studio (Kotlin) Simple MVVM Retrofit Pagination with Jetpack Compose" },
+    { "id": "yq8bfX3caFw", "title": "Android Studio (Kotlin) Simple MVVM, Room Pagination with Jetpack Compose" },
+    { "id": "sY723A8z6Ew", "title": "Android Studio (Kotlin) Compose Pager VerticalPager and HorizontalPager" },
+    { "id": "VUI2_TfQCWQ", "title": "Android Studio (Kotlin) Simple MVVM, Room with Jetpack Compose" },
+    { "id": "76uqZ0wIJQ8", "title": "Android Studio (Java) Simple MVVM, NFC Reader" },
+    { "id": "kpPU1lGBusw", "title": "Android Studio (Kotlin) Simple MVVM Retrofit with Jetpack Compose" },
+    { "id": "tTHQD9BTSoM", "title": "Android Studio (Kotlin) Customize Navigation Drawer with Jetpack Compose" },
+    { "id": "UgW00WK8kV4", "title": "Visual Studio Code (Flutter - Dart) Customize Get X Navigation Drawer" },
+    { "id": "JJtvF1Gr1xA", "title": "Android Studio (Kotlin) Customize Navigation Drawer with RecyclerView App" },
+    { "id": "6vD8fQ_pkl4", "title": "Android Studio (Java) Customize Navigation Drawer with RecyclerView App" },
+    { "id": "OaSBEZgk_C0", "title": "Android Studio (Java) Insert and Eject SIM Card Detection Using Telephony Manager and Live Data" },
+    { "id": "Ir9EoYJypk0", "title": "Android Studio (Kotlin) Simple Dagger Hilt Data Store MVVM" },
+    { "id": "EMqlwjdNKcw", "title": "Android Studio (Kotlin) Simple Dagger Hilt Room Database MVVM" }
+  ]
+}

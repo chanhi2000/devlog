@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "shortform",
+    "name": "짤컷",
+    "profile": "https://yt3.googleusercontent.com/Fln4d1isN0r_MR9w2kNTfxjFpg7aZK-8zQIaHqqLRomW7ppmhwk2HgBL3vELq1kVUJBe1MLu=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HWIHE720WITZ887z6nP7o7_rxRbvyUkS6mVskTe117lpmaUYd0TgD6cKtYOxNHVskdPkPXwqfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tQPYkbZM6Uc", "title": "절대로 참여하지 마세요!" },
+    { "id": "5J6VT6uzMdI", "title": "소름끼칠 정도로 유용한 다이소꿀템 5가지" },
+    { "id": "y4I8UcW9cK0", "title": "이제부터 아울렛에서 이것을 꼭 물어보세요!" },
+    { "id": "eQg9GmgybuQ", "title": "상위1%만 알고 있는 자동차의 숨겨진 기능들5가지" },
+    { "id": "kaVZy8l6VvA", "title": "이것 하나만 신청해놓으면 인생이 편해집니다!" },
+    { "id": "0qcBwentF54", "title": "다이소에서 이 단어가 보이면 가져오시면 됩니다ㅋㅋㅋ" },
+    { "id": "RHT9VHbBe8U", "title": "주유소에서 이 기능은 꼭 알고 계세요!" },
+    { "id": "iWpN3zS6PAk", "title": "지금 당장 이 버튼으로 도시가스료를 돌려받으세요!" },
+    { "id": "CZ_HIpMm4Dg", "title": "컴퓨터 용량이 부족할 땐 이 3가지로 해결하세요!💻" }, 
+    { "id": "lxBDFJ9Kbkw", "title": "제발 해외여행 가기 전 이건 꼭 설정해놓고 가세요!" },
+    { "id": "Znp3QQlMxrw", "title": "와.. 이렇게 좋은 사이트가 있었다니.. (3가지 추천!)" },
+    { "id": "qBHJ6xTuJ0M", "title": "아이폰의 엄청난 3가지 기능" },
+    { "id": "EsTQFA0jvgY", "title": "교보문고 책들을 무료로 보는 꿀팁!" },
+    { "id": "8uiLtqYfCbk", "title": "당신이 처음보는 미친 아이폰 꿀팁" },
+    { "id": "W2iQDvSAfiQ", "title": "즉시! 자동차가 있다면 이걸 꼭 확인하세요!" },
+    { "id": "9ShsUz0Culs", "title": "제발 큰 일 나기 전에 이 버튼 하나만 누르고 가세요!" },
+    { "id": "e1Dh9MI-ch4", "title": "오늘! 절대로 놓치면 안되는 굉장한 무료서비스!" },
+    { "id": "lg-f01pmitk", "title": "헐.. 무료인데 몰라서 못받는 분이 너무 많습니다!" },
+    { "id": "6rp2SoAu_ZU", "title": "공항 가기 전에 꼭 ‘이것’만 추가하고 가세요!" },
+    { "id": "Fu_c4OAsZyk", "title": "절대로 까먹으면 안되는 우체국 개꿀팁" },
+    { "id": "E2A-JpvRy0M", "title": "대박.. 이렇게만 했더니 비행기표가 엄청 저렴해졌습니다!" },
+    { "id": "XXEEKiCS2zA", "title": "미쳤다.. 꼭 알아야 하는 개꿀사이트 3가지!" },
+    { "id": "Lb14AkO00Is", "title": "종이봉투 개꿀팁" },
+    { "id": "7DwVT6kxywo", "title": "아니 이거 진짜 ㄹㅇ 개꿀템이라니깐요?" },
+    { "id": "pOHFfy-yl3I", "title": "PC방 vs 학교컴퓨터, 수강신청할 때 뭐가 더 빠를까?" }
+  ]
+}

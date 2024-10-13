@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "CodeEurope",
+    "name": "Code Europe",
+    "profile": "https://yt3.googleusercontent.com/4qRKUw6iy6nXSBAPi-Bkjtyu1Fuguyx7AhqUYXyQWPJTrCDIlJJDhiXCk0V-Ax_Yc5g5NZPiwA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zmCDx_VO5vxeA_TTyaxG1MGn8MAlymsMy09SQ4rZ_gEnq3DW2eWI8BnON_L0QyGmu_on1qbGZg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "S5BtPS0Ss-s", "title": "Adam Bien (@bienadam) - \"Dissecting Serverless Java on AWS\" at the Code Europe 2023 Tech Festival" },
+    { "id": "pAIWyK7ZGtw", "title": "Kunal Kushwaha (@CivoCloud) \"Tools to increase Kubernetes developer productivity\" Code Europe 2023" },
+    { "id": "Gl8vucNqtZQ", "title": "Practical tips for JavaScript optimisation - lecture by Jakub Sowiński - Code Europe Spring 2017" }
+  ]
+}

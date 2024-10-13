@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "statisticsplaybook",
+    "name": "슬기로운통계생활",
+    "profile": "https://yt3.googleusercontent.com/JZafJzrgX6hbcZtAZEjJIcxnPuJwdTOB0ANnu-1FEsEnn02FHCQUfLdKHJUgLnzBwfzYhCe6cg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kahlcuVFRHy3CgrXwN97fVscd3HC8rnCOXa-Us7ifu7utBIGVoDmsF-l85fsuVidr7Np-RLXKUA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QsSqsk6nMKY", "title": "tidyverse의 enframe() 함수의 유용성에 대하여" },
+    { "id": "2ksrQZ69jXQ", "title": "[tidyverse 마스터 클래스 특강] 지도 시각화 기초" },
+    { "id": "cc4sOxevctc", "title": "tidyverse 마스터클래스 - purrr 패키지를 통한 함수형 프로그래밍 이해" },
+    { "id": "jg5Z0TeGWbo", "title": "tidyverse 마스터클래스 - tidyverse에서 apply 함수 사용하기" },
+    { "id": "bXervPCCsrQ", "title": "[편집본] tidyverse 마스터클래스 apply() 함수를 tidyverse에서! across(), c_across() 함수 사용법" },
+    { "id": "uDMftGFv3NQ", "title": "tidyverse 마스터 클래스 - tibble에 대하여" },
+    { "id": "Sd-pWcTRtiI", "title": "tidyverse 마스터클래스 - 문자열 처리 연습과 그림에 맞춘 워드클라우드 [편집본]" },
+    { "id": "C-wbPXWVqtg", "title": "tidyverse 마스터 클래스 - 워드 클라우드 만들기" },
+    { "id": "uNmirtbOgqE", "title": "tidyverse 마스터클래스 - stringr 패키지로  문자열다루기!" },
+    { "id": "TCkoTrO8z00", "title": "tidyverse 마스터클래스 - 문자열을 내맘대로! stringr 패키지 친해지기" },
+    { "id": "c3XTq1YZIVk", "title": "tidyverse 마스터 클래스 9-2강 - tidyr 패키지 rectangling 정리, 그리고 ggmap을 활용한 구글맵 시각화 연습!" },
+    { "id": "8gtrUMnPBlQ", "title": "tidyverse 마스터 클래스 9-2강 - tidyr NA 처리 및 retangling 인트로" },
+    { "id": "cZmuk1ttVUs", "title": "✏️📙tidyverse 마스터 클래스 9-1강 - tidyr 패키지 친해지기! pivot_longer and wider 함수" },
+    { "id": "coCiyMsZbPg", "title": "✏️📙gganimate을 사용한 나라별 GDP 움직이는 차트 만들기 - tidyverse 마스터 클래스 8강" },
+    { "id": "dg9Oya6Mjhk", "title": "✏️📙tidyverse 마스터 클래스 7강  - ggplot2의 qplot() 시스템과 extension들" },
+    { "id": "RczUfw8ETn0", "title": "[편집본] ✏️📙tidyverse 마스터 클래스 5강 - 시각화부분 ggplot2 폰트 변경" },
+    { "id": "ZLdrQSB1Qkg", "title": "✏️📙R tidyverse 마스터 클래스 4강 - ggplot2 패키지를 이용한 시각화 입문🎧" },
+    { "id": "IHPVna76A8o", "title": "R tidyverse 마스터 클래스 3강 - dbplyr사용해서 SQL 데이터 베이스 연결하기" },
+    { "id": "MMIyiiF5bnk", "title": "R tidyverse 마스터 클래스 2강 - dplyr 중급동사들" },
+    { "id": "P6SjeKOZv5g", "title": "32회 데이터 분석 전문가 자격증 (ADP) 실기 시험 대비반 설명회" },
+    { "id": "BDKh_X4YGJM", "title": "[고수초대석] 인터랙티브 데이터 시각화 in R & Python 저자 초대석 - 이기준 님" },
+    { "id": "pc7qqnYBWlE", "title": "슬통 홈페이지 새로 만들었습니다. (Feat. 당신이 티스토리 블로그를 그만 둬야하는 이유 )" },
+    { "id": "a0QYRvOIGR8", "title": "일정관리 완벽정리 (옵시디언 + todoist + 구글 캘린더 + 플러그인)" },
+    { "id": "QyXbxURq810", "title": "데이터 분석 전문가 ADP 실기 수업소개 (출제 경향 및 공부 방법)" },
+    { "id": "uzr0AcbuNJQ", "title": "옵시디언 표 만들기 플러그인 - Advanced Tables" }
+  ]
+}

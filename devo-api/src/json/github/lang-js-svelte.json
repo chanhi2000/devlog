@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "open-webui/open-webui",
+    "desc": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+    "officialSite": "https://openwebui.com",
+    "topics": ["ai", "chromadb", "llm", "llm-ui", "llm-webui", "llms", "ollama", "ollama-webui", "open-webui", "rag", "self-hosted", "ui", "webui"]
+  }
+]

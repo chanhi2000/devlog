@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "techieblossom",
+    "name": "TECHIE BLOSSOM",
+    "profile": "https://yt3.googleusercontent.com/o7RAYJlYLqFmyR3Tm_DwdsdPQ-BFA6GWVlJsG74yAwA8SzOmTpY7ozRh5tIvhzPIogJYHrMXyw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6e9dhEPWC4vbg4ydhyOAlCwfc1jHTVMXXD4h5HXI1a0uBztvZY8hM8dj4HAcbAx5WMc5ueP1=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oyi6OvUMYV0", "title": "01 - AboutDialog | #flutter #widgets" }, 
+    { "id": "J_070yCRo2g", "title": "03 - AbsorbPointer | #flutter #widgets" }, 
+    { "id": "x69O3ARHwmQ", "title": "08 - Align | #flutter #widgets" }, 
+    { "id": "eD0aETRZPs0", "title": "How you can create a Donut Chart in Jetpack Compose?" },
+    { "id": "XcylzZF7Uro", "title": "Use this to create Docker Containers automagically." },
+    { "id": "i_mI-2MWsxk", "title": "Learn How you can make adaptive UI for Different Mobile platforms in Flutter" }, 
+    { "id": "-rTZA4QhXew", "title": "Create Soccer Hexagon in Flutter with Animation" }
+  ]
+}
+

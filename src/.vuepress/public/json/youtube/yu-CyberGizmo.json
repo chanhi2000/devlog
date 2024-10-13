@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "CyberGizmo",
+    "name": "DJ Ware",
+    "profile": "https://yt3.googleusercontent.com/gVTKDWbdpX0URz3M5uqieZY1lQNOMZkUBkF4z2Wobppnde77cc9x_Y0yAw_caOPg7X78rgSR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3gSKtGMbSfzcfYzxdFbhlC4jS9dQMI9fMgbu_e3sHfrVOFO-qRM5jjl6KWWiZG8GN7PPeljFiA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "A9CKuBNHMWo", "title": "The Cybersecurity Singularity: Preparing for the Age of AGI" },
+    { "id": "vLQqM6qvNKk", "title": "Microsoft and Linux Foundation Announcement" },
+    { "id": "ml0vjdfcAzs", "title": "Step into Linux without Becoming Marooned" },
+    { "id": "0dTp8LzKNyM", "title": "How does Oreon Lime R2 stack up, when  Compared with Other Linux Distros?" },
+    { "id": "ZrFQJ0zTZjE", "title": "Linux in 2024 - Charting its Own Path to Innovation" },
+    { "id": "eosQZDgbME0", "title": "Comparing 10 Popular Linux Distros: Which One Rules Your Desktop?" },
+    { "id": "MRjB62WNABw", "title": "eGPUs on Linux - Unleashing External Graphics Power" },
+    { "id": "APbCWRDWci0", "title": "Post-Quantum Cryptography: Securing Our Digital Life" },
+    { "id": "5qd3tOZdelg", "title": "Elevate CentOS 7 to AlmaLinux 9" },
+    { "id": "s95hjvFAE5g", "title": "Why Compile a Linux Kernel from Source?" },
+    { "id": "hN_tKgl_BsE", "title": "Forge the Latest: Upgrading Debian Stable to Testing" },
+    { "id": "AOSXtYuloC0", "title": "Effortless Upgrades: Migrating Your Servers with AlmaLinux Elevate" },
+    { "id": "jxt9wUPGzSw", "title": "Cleaning Out Journal Files" },
+    { "id": "FBGbENrLEJA", "title": "BcacheFS - \"The COW filesystem for Linux that won't eat your data\"" },
+    { "id": "85d-HcCZURU", "title": "Three Container Systems for Linux" },
+    { "id": "T3Jscy0tbTA", "title": "FreeBSD 14.0" },
+    { "id": "-j4jEC1RUwc", "title": "Bare Metal vs Virtual Machines 2.0" },
+    { "id": "7iTAxQRlyjo", "title": "iStorage DatAshur PRO+C" }
+  ]
+}

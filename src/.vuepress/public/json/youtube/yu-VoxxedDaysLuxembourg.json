@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "VoxxedDaysLuxembourg",
+    "name": "Voxxed Days Luxembourg",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQpOIW7ILStjg571wuTW-p9if8620pJlsIvmofb=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fUokRg6FXV7nbuionUvjwF7GDKylW9k_FFZhtclMrKjetiaQYCxiZT75P96v2J0rT4CMRUIL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hNFM2pDGwKI", "title": "Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang" }
+  ]
+}

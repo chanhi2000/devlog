@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "JohnWatsonRooney",
+    "name": "John Watson Rooney",
+    "profile": "https://yt3.googleusercontent.com/oIfK6JH1OnUEjowYhw09KORZquJMo75h7-V8U1G-WOtlkKQZ0NKOgvPhHQa7P4QkVPi1nj5R=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BTvE8imhhxp7WxupgI5nuG7xu72L4lHUreS9x2D48yFwGdEeIoZlyzlsbHAOFB-YYjphzF-4kQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qYSWWGz9Z6s", "title": "Automate your job with Python" },
+    { "id": "00yQfxC7PFU", "title": "The Best Tools to Scrape Data in 2024" },
+    { "id": "39jB8nJBrCI", "title": "Why I chose Python & Polars for Data Analysis" },
+    { "id": "q1GDSHhaH0E", "title": "The most important Python script I ever wrote" },
+    { "id": "WtEtHmGehoA", "title": "This will change Web Scraping forever." }
+  ],
+  "playlists": [
+
+  ]
+}

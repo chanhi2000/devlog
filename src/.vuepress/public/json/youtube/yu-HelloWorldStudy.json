@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "HelloWorldStudy",
+    "name": "HelloWorld",
+    "profile": "https://yt3.googleusercontent.com/ADUYjNHQxMNzZCuXFhvPTgc1XhdgRzGmP2eFqJwHyGVsKvhyUBvidbG5CET-cQsm0U4KMZnWBg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "b9HJmUEseL8", "title": "1시간만에 끝내는 spring boot REST API #5 (@GetMapping)" },
+    { "id": "8ZztuMZuqdU", "title": "1시간만에 끝내는 spring boot REST API #6 (@PostMapping)" },
+    { "id": "eKc2ILXYBMo", "title": "1시간만에 끝내는 spring boot REST API #7 (@Service)" },
+    { "id": "ws2FIv1pnfo", "title": "1시간만에 끝내는 spring boot REST API #8 (h2 DB config)" },
+    { "id": "dANb0Q0h5pg", "title": "1시간만에 끝내는 spring boot REST API #9 (mybatis)" },
+    { "id": "DFa-KjNyDRU", "title": "1시간만에 끝내는 spring boot REST API #10 (JPA)" },
+    { "id": "7ZklXpCvu0g", "title": "1시간만에 끝내는 spring boot REST API #11 (service summary)" },
+    { "id": "jWqarTxZK_g", "title": "1시간만에 끝내는 spring boot REST API #12 (summary)" },
+    { "id": "B2Q-P2z4F-Y", "title": "1시간만에 끝내는 spring boot REST API #4 (lombok)" },
+    { "id": "7mcOn5bDWsc", "title": "1시간만에 끝내는 spring boot REST API #3 (swagger)" },
+    { "id": "oXKTHpjhdHQ", "title": "migration springboot 2.x to 3.x ( filter, interceptor, mybatis, jpa, swagger )" }, 
+    { "id": "oMPbYXxD-Lg", "title": "selenium 만 써봤다면 옛날사람~ 새로운 강자 puppeteer #4/4 ( 웹 브라우저 자동화. 퍼피티어 )" }
+  ],
+  "playlists": [
+    {
+      "title": "log4j2 in spring boot",
+      "videos": [
+        { "id": "FAB3W3B2p3E", "title": "log4j2 in spring boot #1 ( intro )" },
+        { "id": "OtwS14eXmAI", "title": "log4j2 in spring boot #2 ( config )" },
+        { "id": "5dCIUMmJJR0", "title": "log4j2 in spring boot #3 ( config2 )" },
+        { "id": "P1_XsD6CkPU", "title": "log4j2 in spring boot #4 ( appenders )" },
+        { "id": "FVocL7K4TLQ", "title": "log4j2 in spring boot #5 ( RollingFile appender)" },
+        { "id": "dT3chTOq00w", "title": "log4j2 in spring boot #6 ( RollingFile appender2)" },
+        { "id": "Tz7pVmbP42M", "title": "log4j2 in spring boot #7 (RandomAccessFile, immediateFlush)" },
+        { "id": "5ivBCiSg3kU", "title": "log4j2 in spring boot #8 ( PatternLayout )" },
+        { "id": "PM6IKlZsCcw", "title": "log4j2 in spring boot #9 ( Filter )" },
+        { "id": "7TJOxvTeQVY", "title": "log4j2 in spring boot #10 (Async Logger 1)" },
+        { "id": "DdYs8tiarqk", "title": "log4j2 in spring boot #11 ( Async Logger 2)" }
+      ]
+    }
+  ]
+}

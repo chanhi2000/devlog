@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "HowTomakeitdone",
+    "name": "HowTo",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbJRUZLXXNavigHhgIDo0Tka3WaAcii4zCB7oIb=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kvo88vVQiSOX8y9otmTj_bKOjaDszNyAOr0tNP9LrMF6_GPtL2gWUzw0QuEnLYPftQ9iXR8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vNIxov1reRc", "title": "How to install LatexDiff on Macbook 2024" },
+    { "id": "5w6Adn_DG0Q", "title": "How to generate bibliography in quarto for non-cited articles" },
+    { "id": "FWmUBMS-1hE", "title": "How to create your first project using Django 5.0" },
+    { "id": "KS6ok7yNEXk", "title": "How to install fontawesome extension in Quarto" },
+    { "id": "2cDAF6Zf808", "title": "How to easy convert PDF file into Kindle format | EPUB | MOBI Format" },
+    { "id": "jWPod5ubeUM", "title": "How to install Jitsi | Complete installation guide for Jitsi + JWT on Ubuntu 18.04 [ 2021 ]" },
+    { "id": "lNxI4aERw5Q", "title": "Remove Activate Windows 10 Watermark Permanently | Message Keeps Coming Back FIXED " },
+    { "id": "pwoob3tVNJs", "title": "OpenCV Tutorials # 4 : How to access and edit pixel values in open cv " }
+  ]
+}

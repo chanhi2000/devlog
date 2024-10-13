@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TaoMStudio",
+    "name": "Tao M Studio",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM_vF_YciJk0R_637VkVlxsm1SDNfz1mPpu3tTpfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RPJflmy5na3FN9HAc7Gjl1IpYzbWGfphdJPASIVKk9NGszrDHXasrfpYxb6nd7k3V2JJezuUSgo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "H6ktBm7bO5Q", "title": "Hackintosh and Windows dual systems setup - What's inside?" }
+  ]
+}

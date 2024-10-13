@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "codedamn",
+    "name": "Mehul - Codedamn",
+    "profile": "https://yt3.googleusercontent.com/oVPW1V84_9gNDwKDnGuyeBgkRd9aY0JJ7l_hkTu_9W0wyxFT1-90dQQbMzHgFxwu_Lkif7jvDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o6ZMzaRN-s0XoHdM8fZMC8mquxlL8MI1LOg8tzwwY67PRB9puPuxGsl2oJGHjHJPPISlSuE5mQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yA0NL1QjfuI", "title": "New JavaScript Runtime by AWS - First Look" },
+    { "id": "jravn1v43Tk", "title": "React.js just got a major upgrade" },
+    { "id": "QvPzkVkIX6A", "title": "VS Code Got A New Competitor - My Review" },
+    { "id": "GgVqr6k6828", "title": "Serverless to Homeless - Case study" },
+    { "id": "SXK6NHp09jE", "title": "React Server Components Security Explained" },
+    { "id": "zk8T4e2CKLc", "title": "Microsoft failed to move LinkedIn to Azure" },
+    { "id": "nyiJ3WHNrB4", "title": "Best Full Stack Web Development Course On YouTube In (30 Minutes)" },
+    { "id": "x1iXA041zM4", "title": "I replaced Node.js with Bun for 100 days" },
+    { "id": "2_OiLkO6ldg", "title": "jQuery is back?" },
+    { "id": "Oe187HGZMCc", "title": "No One Knows Anymore About This Code" },
+    { "id": "5BbjtdPb-KA", "title": "C++ engineer LOST IT on JavaScript" },
+    { "id": "CsL-cYcSEk4", "title": "Do this if you want to master flask" }, 
+    { "id": "bEvCS-Eg7dY", "title": "Bye Bye Leetcode 👋🏻" }, 
+    { "id": "kn43PR0PWew", "title": "React JS - Full Course for Beginners: 2022 Tutorial | Javascript Tutorial For Beginners" }, 
+    { "id": "xy81B0OYyug", "title": "Shopify JUST Launched a NEW React Framework!" }, 
+    { "id": "Hpf2OmYnqhw", "title": "React Typing-Speed Project - Build logical thinking with this free project 🎉" }, 
+    { "id": "qG-PLm3APSs", "title": "Advanced Node.js Crash Course | New Year Gift!" }, 
+    { "id": "g4g2TlTMXXQ", "title": "Vue.js 3 Crash Course 2020 Part 1 | Learn Vue.js" }, 
+    { "id": "ptD4pnt4arw", "title": "#15: Semantic Versioning - Mastering NPM" }, 
+    { "id": "wxT_75SoGxQ", "title": "#3: NPM vs Yarn - Mastering NPM" }, 
+    { "id": "wS_WhKggQEQ", "title": "#9: Introduction to package.json - Mastering NPM" }, 
+    { "id": "qLJwOf2SLew", "title": "#2: Rust Playground and Setup - Rust Tutorials" }, 
+    { "id": "Ttf3CEsEwMQ", "title": "Beginner Vanilla Javascript Project Tutorial" }, 
+    { "id": "E-x8GxtaLfo", "title": "#10: Fade in/Fade out animations - React Native Animations" }, 
+    { "id": "uny0IQyjPnk", "title": "IntelliSense is now on the Web!" }, 
+    { "id": "zPSYFyXp6TU", "title": "Docker Tutorial 22: .dockerignore file" }, 
+    { "id": "0nXcZMt8MAc", "title": "Learn React Native in one video" }, 
+    { "id": "b2kaE0CyFF4", "title": "Lazy Loading Images without JavaScript!" }, 
+    { "id": "Uuaue9odUEo", "title": "Chrome DevTools - Everything you need to know" }, 
+    { "id": "4Rsr0NRHuBY", "title": "Install New Windows Terminal Today! 😁😎" }
+  ]
+}
+
+

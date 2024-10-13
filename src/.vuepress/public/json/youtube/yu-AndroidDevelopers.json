@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "AndroidDevelopers",
+    "name": "Android Developers",
+    "profile": "https://yt3.googleusercontent.com/cFv0K1fb4MjrZcnq0ntEkRU99ADunvfvFZ1APEr6nmJlRsAMwKPYVpiUb2C1UxfUjc14ajM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WYIqSXjDg5uNaH2-kDyNUGexpBhzumbryxqTYzl5SpbKDQRQYJcjGI85tlXQmNtNoyqJXl0-Ng=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "51Hn1nhcits", "title": "Time for Playtime - Android Developers Backstage" },
+    { "id": "Q1NmhIwlyl4", "title": "Google Play PolicyBytes - April 2024 policy updates" },
+    { "id": "BM3cjQGHGrY", "title": "Now in Android: 102 - Google I/O 2024, Women's History Month, Vulkan on Android, and more!" },
+    { "id": "djsqFDCUQrk", "title": "Android Developer Story: SoundCloud supported more screens using 45% less code with Jetpack Compose" },
+    { "id": "cWUcag-8iWI", "title": "Building adaptable experiences with Android Health" },
+    { "id": "2wOfYgIMf-A", "title": "What's new in Android development tools" },
+    { "id": "_yWxUp86TGg", "title": "What's new in Android" },
+    { "id": "xry2mQbWrio", "title": "What's new in Google Play" },
+    { "id": "D1xPZagZdqk", "title": "Make it faster - Android Developers Backstage" },
+    { "id": "JPhQKgOZCog", "title": "Now in Android: 99 - Jetpack Compose, Google AI on Samsung Galaxy, Play recovery tools, and more!" },
+    { "id": "IQijvxZZaPg", "title": "Fan’otations - Android Developers Backstage" },
+    { "id": "pou4o1X1DI4", "title": "#TheAndroidShow: the latest from MWC'24, Gemini Nano, Android 15 and more!" },
+    { "id": "tiNXsmbcKgA", "title": "Now in Android: 100 - Android 15 DP 1, Stable Studio Iguana, Cloud Photo Picker, and more!" },
+    { "id": "hHIMUgTuoXE", "title": "Behind the scenes with Gemini Nano and AICore" },
+    { "id": "kVZ1QNMMub0", "title": "What’s new in Android Studio Iguana" },
+    { "id": "kD-noc33FKw", "title": "Now in Android: 97 - Gemini, AICore, ML Kit, Android Studio Hedgehog, and more!" },
+    { "id": "Z96wfbID_Yc", "title": "Enhancing Jetpack Compose app performance" },
+    { "id": "i8kX5R7Vzb0", "title": "Techniques to improve your Jetpack Compose app performance" },
+    { "id": "HNSKJIQtb4c", "title": "Practical magic with animations in Jetpack Compose" }, 
+    { "id": "Lh-6etOdLdI", "title": "AndroidX, Gradle and Metalava - Android Developers Backstage" },
+    { "id": "1tkVjBxdGrk", "title": "Gestures in Jetpack Compose" },
+    { "id": "kdwofTaEHrs", "title": "Jetpack Compose: Testing" }, 
+    { "id": "FWxeDqM_WIU", "title": "Android Code-Along: Kotlin coroutines" }, 
+    { "id": "6manrgTPzyA", "title": "Android Coroutines: How to manage async tasks in Kotlin" }, 
+    { "id": "QHOo8zTYRzk", "title": "Building apps for work profiles - Enterprise Dev Training" }, 
+    { "id": "Xj45hobMI78", "title": "Reified - Kotlin Vocabulary" }, 
+    { "id": "zbYYoL7vo9Y", "title": "#AskAndroid at Android Dev Summit 2019 - Kotlin & Coroutines on Android" }, 
+    { "id": "XUN6mUQiDpg", "title": "CameraX setup and permissions" }
+  ]
+}

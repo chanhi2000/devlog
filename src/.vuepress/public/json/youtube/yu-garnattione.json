@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "garnattione",
+    "name": "garnatti one",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPNvbqJmfZR_XDCXgK_l0l-IWvmthWBV43nh8w3IQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J1UN38AwAO-G46Y4jWpVkXl5hsjdGjDkeCLX6zv6Fq6R3UOqVM5gJJxOdPfQKPfN6Piiqnhjaw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QaMMWRpwOhE", "title": "How to Embed a YouTube Video without Displaying Title, Logo, Controls, or Progress Bar" },
+    { "id": "bpjSA83RVwI", "title": "How To Integrate Cloudflare Into Your Website (FREE SSL Certificate) | EASY" },
+    { "id": "vtzEOH22urI", "title": "How to embed PDF with Custom Display | EASY" },
+    { "id": "qFewyoKekxY", "title": "How to Create a Customizable Button in WordPress" },
+    { "id": "IkNrrMTrrqQ", "title": "CSS Text Color Change Transition on Hover Effect | EASY" },
+    { "id": "K_azLrhqCQY", "title": "CSS Button Effects: Running Glowing Edges (Border Animation)" },
+    { "id": "W0sVZJHDUlo", "title": "How to Create a Responsive Comparison Table with CSS" },
+    { "id": "njQPkYGVsfo", "title": "How to Enable Credit Card Fields in WooCommerce Checkout Using PayPal" },
+    { "id": "F4bSBTMZUJY", "title": "How to Create Custom Breadcrumbs Function with Yoast" },
+    { "id": "yLilNzdYaYc", "title": "How To Change the Default Add to Cart Button Text or Links in WooCommerce" },
+    { "id": "EoYHPNKQFlU", "title": "Responsive Continuous Logo Carousel Using Slick | EASY" }, 
+    { "id": "7IR0WFDzQeg", "title": "How To Create a Custom Toggle Switch | EASY" }, 
+    { "id": "X8r9BejDn3c", "title": "CSS Tricks |  How to Snap to the Next Section on a Single Scroll (Step by Step)" }, 
+    { "id": "x6pXJ7Ijir0", "title": "HOW TO USE GIMP - Complete Tutorial for Beginners 2020" }, 
+    { "id": "FmuYIafZdZk", "title": "How to Emulate Slow Internet Connection in Google Chrome (Network Throttling)" }, 
+    { "id": "RRQveh0HEmg", "title": "How To Create A Loader/Preloader with CSS (Show Before Images Appears for Slow Network End Users)" }, 
+    { "id": "2kQ3mwfsG3g", "title": "How to add CSS Blur and Opacity(Transparent) into Background Image or Color | Quick Tutorial" }, 
+    { "id": "5-1afQXBSUY", "title": "How to Create a Moving/Animated CSS Linear Gradient Background (Multiple colors)" }
+  ]
+}

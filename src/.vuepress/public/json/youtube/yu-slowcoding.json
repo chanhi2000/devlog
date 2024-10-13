@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "slowcoding",
+    "name": "Slow Coding",
+    "profile": "https://yt3.googleusercontent.com/1bzTBS4QPYfnvUHN-hwWFGs7DnLAL6FzZwnbviILaquUdjAbhKYi0-R03KFbwme8oLdz2wwGcA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SWL7NVNZlZO91RCtH6KFZbMlmh4TkLPHZ-nsbHwkpLxo722z4NOQsbscwDAzaL_sCePI9pe1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cJvLp4UjT6c", "title": "callback, closure, promise, fetch, async await 완전이해하기" },
+    { "id": "u9SOYg4jzik", "title": "node js, express server, 공공데이터포털/api 연결 총정리" }
+  ]
+}

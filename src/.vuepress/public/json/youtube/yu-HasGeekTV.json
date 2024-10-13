@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "HasGeekTV",
+    "name": "Hasgeek TV",
+    "profile": "https://yt3.googleusercontent.com/H4FhqxBqpc9VxYfWJzhANH-f6qOZwN-bSCijKPrT9BZ4Wqn5bq_x32SWac6w3KgiqwrnPCPH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/q9Vx3-YvO8ZzLsHWeuacnsotv9BbzbFunyVBN87yGEfhdSNLhCkEcyl2G4vyEiR7K8iZEad3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4vTWd3QOlpg", "title": "Food for thought: scaling delight at Zomato using GenAI | Yuvraj Gagneja" },
+    { "id": "qCFqnr3Df5g", "title": "[Wrap Up - Track A] Data Engineering and Infrastructure | The Fifth Elephant 2024 Annual Conference" },
+    { "id": "D6cxPz8Qe1I", "title": "[Wrap Up - Track B] GenAI and LLMs in Business | The Fifth Elephant 2024 Annual Conference" },
+    { "id": "xMu_kBtUCPE", "title": "[Demo] Empowering Indian Languages’ Subtitling with LLMs | Indic Subtitler | The Fifth Elephant" },
+    { "id": "e1ElgWpgIl0", "title": "[Demo] Redefining Survey Tools with LLMs | Knowledge Preservation | The Fifth Elephant" },
+    { "id": "U9pc-yCSLPE", "title": "[Demo] Education Accessibility in India with On-Device AI | Hole in your Palm | The Fifth Elephant" },
+    { "id": "GgcHsDJEvs4", "title": "[Demo] Indian Statutes and Laws in Akoma Ntoso Format | Schematise | The Fifth Elephant" },
+    { "id": "aS7Y_aU6w7A", "title": "[Demo] Multimodal Tools for Media Accessibility & Customization | [Decon]struct | The Fifth Elephant" },
+    { "id": "WUv95Mq-WG4", "title": "Data Governance Practices in the Account Aggregator Ecosystem" },
+    { "id": "Mf0HKewmGIM", "title": "Detecting Deepfakes: From Classical Physics to Deep Learning" },
+    { "id": "jKcY8elwidE", "title": "Introduction to Transformer Architecture" },
+    { "id": "ddYUyUuOVLU", "title": "The Fifth Elephant AI Open Source Hackathon - after movie" },
+    { "id": "sibQP8bbS4o", "title": "[Demo] Integrating Nutritional Insights into E-Cart Platforms | EasyEats | The Fifth Elephant" },
+    { "id": "ol84GuvQkzg", "title": "[Demo] Bridging Communication Gap with Sign Language Translation | Synapse.AI | The Fifth Elephant" },
+    { "id": "k61v2NkGdL0", "title": "[Demo] AI-Powered Personalized Learning and Assessment Platform | EduPrepAI | The Fifth Elephant" },
+    { "id": "JBNcIyCJcus", "title": "[Demo] Introduction to SLM: Challenges and Opportunities| Project Seshu | The Fifth Elephant" },
+    { "id": "FcKFcW4GVUc", "title": "[Demo] Domain-Adaptive Pretrained LM with Mixture of Experts | Multilingual MoE | The Fifth Elephant" },
+    { "id": "SikG7cCD6C0", "title": "Exploring connections between project management and queueing theory" },
+    { "id": "l28UrBYLTGQ", "title": "Transforming Financial Inclusion for Farmers using SpaceTech Analytics" },
+    { "id": "icLOibK9kmU", "title": "Navigating Deepfakes: Policy Ecosystem and Political Implications" },
+    { "id": "3UKPYjpy-s8", "title": "AMA on SQL and Schema Design" },
+    { "id": "t2RroJWwOS8", "title": "Measuring engineering productivity: Old pitfalls and new approaches" },
+    { "id": "SgQI9ZO_WQ8", "title": "Ensuring Safety in the Age of AI-Driven Digital Health" },
+    { "id": "nEUwDsnH8k0", "title": "LLMs and licensing | Biju Nair" },
+    { "id": "VJjZbWUIGNM", "title": "The secret ingredient: how good datasets shape state-of-the-art AI models" },
+    { "id": "cheVchzMYCw", "title": "Use Cases and Risks of ML in Capital Markets | Exploring applications of AI/ML in Fintech" },
+    { "id": "rJW6aP6cTyY", "title": "Faster, Better, Cheaper - Together | Reflections on craft and science of managing software projects" },
+    { "id": "8T8HOiJJG8o", "title": "Building highly scalable systems with resilience | Harsh Mittal" },
+    { "id": "0jbMpKJTad0", "title": "Landscape of Large Language Models (LLMs) | Open source AI Hackathon" },
+    { "id": "UN207uRDd-Y", "title": "Raising funds for early stage Robotics startups | Pranav Srinivasan, founder at Accio" },
+    { "id": "0jbMpKJTad0", "title": "Landscape of Large Language Models (LLMs) | Open source AI Hackathon" },
+    { "id": "REUB2A0Fu78", "title": "Tech4Food - How fresh is your food? | Solving Food Safety Problems using Technology 4.0" },
+    { "id": "sPekwHssFGs", "title": "Concurrency in Elixir" }
+  ]
+}

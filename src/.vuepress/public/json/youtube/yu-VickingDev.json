@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "VickingDev",
+    "name": "VickingDev",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZwXZ1u5zGJ9-cHQW5PaQQQE7JrTyDaNnrSje6R=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-jxthnhZ_aLy_R397JMlIltsJQKa40KcY2JbFdgpG7x467fDW28kP7Yd2y7mW3VmhyBUs3_L=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oDstIdTeRyo", "title": "LiveData MutableLivaData MediatorLiveData Kotlin" }
+  ]
+}

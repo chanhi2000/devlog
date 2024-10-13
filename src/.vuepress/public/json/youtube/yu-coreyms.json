@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "coreyms",
+    "name": "Corey Schafer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOcf1DHqXemol8K5QFuIcZU914IcS1JL5mbe79h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-6N5B2iQmpRDyXaWz3b16DMTQ9kQ8aVJ6zlXYGcYfH92ZRK_gc17gbGWB1s36y-q9FdFKCwq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PYuTzLswn_Y", "title": "Python Tutorial: Securely Manage Passwords and API Keys with DotEnv" },
+    { "id": "LQ1tm5lkaLI", "title": "Python Quick Tip: Secure Passwords and Sensitive Info with DotEnv #Shorts #Python #Programming" },
+    { "id": "jNoTEiI2cVU", "title": "Automating My Bill Payments with Python and Selenium" },
+    { "id": "ra5kMCXO-6I", "title": "Automate Your Development Environment Setup with Scripts and Dotfiles" },
+    { "id": "jRAAaDll34Q", "title": "How to Use ChatGPT as a Powerful Tool for Programming" }
+  ],
+  "playlists": [
+    
+  ]
+}

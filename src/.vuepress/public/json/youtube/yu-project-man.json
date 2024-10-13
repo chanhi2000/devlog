@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "project-man",
+    "name": "프로젝트 박스",
+    "profile": "https://yt3.googleusercontent.com/kg2I43P9ZweXYB39J8PURH5102o2X37sxppU_L6Vkl9I5pIxWfK85PUFkYtoY35PsuwSOUfxyaE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "655daAWlYFE", "title": "[추천 알고리즘 코드 실습] Matrix Factorization Techniques for Recommender Systems" },
+    { "id": "fYapi_aT6jc", "title": "MovieLens 100K 데이터셋 로딩과 전처리" },
+    { "id": "x7ETXvPUKB8", "title": "[추천 시스템 논문 읽기] Matrix Factorization Techniques for Recommender Systems" },
+    { "id": "-dWDsCGijok", "title": "[추천 알고리즘 코드 실습] Neural Collaborative Filtering" },
+    { "id": "i3Rxxfii1Rw", "title": "[추천 시스템 논문 읽기] Neural Collaborative Filtering" },
+    { "id": "Vt9Lo-DnLqw", "title": "[추천 시스템 논문 읽기] LightGCN: Simplifying and Powering Graph ConvolutionNetwork for Recommendation" },
+    { "id": "ET1MyTrBs-A", "title": "[추천 알고리즘 코드 실습] LightGCN Simplifying and Powering Graph ConvolutionNetwork for Recommendation" },
+    { "id": "EC55-5YqYZo", "title": "논문 리뷰: Retrieval Augmented Generation for Knowledge Intensive NLP Tasks" },
+    { "id": "DQ3ty_MyEEQ", "title": "논문 리뷰:  Self supervised Graph Disentangled Networks for Review based Recommendation" },
+    { "id": "OZygT4IUNv4", "title": "논문 리뷰: Collaborative-Aware Graph Convolutional Network for Recommender System" },
+    { "id": "8IGgeaLlYW8", "title": "40분만에 끝내는 서버 이론+실습. AWS, Nginx, Node.js, Mysql" }
+  ]
+}

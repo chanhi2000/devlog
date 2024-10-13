@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "user-sg2tt4sk4o",
+    "name": "개발 레시피",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRDY4a-Ry_mdTiYDWINCw3CJdG33jgnlHi4rwar=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fmK3-1tF8pN9iNJiCo0Zu3Qqp6aRv7a7VlfmILhwj-EhId_Des08Go6OxLrOunHqFFG-hWF57Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bltYcZHCRk0", "title": "저는 Vue.js와 Axios를 이렇게 사용합니다. #1. Axios 모듈화" },
+    { "id": "9-W-U05CgZY", "title": "ajax 파일 업로드 방법 한방에 정리해드립니다." }
+  ]
+}
+
+

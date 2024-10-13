@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "how-to-linux.",
+    "name": "How-to-Linux. ",
+    "profile": "https://yt3.googleusercontent.com/BAh0YaNhBqms9T6J8_eHcEE3oB7R_jFCBQzn8sjmLP1udanblgh-4KqmT08mQxgJ8Sq0JgO3vg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RVH4RGuSmWyDMMTHIL_NWE-UHytvEtF1cxX3MLehDLAaHjBQ66TzXFZfb4XmoG_XoTfDqSj7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5aclZ2kXtfA", "title": "How to install No Machine on Pop OS Linux 22.04" },
+    { "id": "Q11YQpQSTXs", "title": "How to install Kubernetes on Pop!_OS Linux 22.04" }
+  ],
+  "playlists": [
+
+  ]
+}

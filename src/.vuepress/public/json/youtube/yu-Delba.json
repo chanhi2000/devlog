@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Delba",
+    "name": "Delba",
+    "profile": "https://yt3.googleusercontent.com/oLZSHusKBD83g1dF6z4gHbluqSdjxxZh0idrcgIxgezUa-XijUGF8vaWBl3cVd00wDR8Igwm=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "5zl1jJGCzVI", "title": "Web dev explained: Bundling (in 60s)" },
+    { "id": "N_sUsq_y10U", "title": "Next.js: Authentication (Best Practices for Server Components, Actions, Middleware)" },
+    { "id": "MTcPrTIBkpA", "title": "Next.js Explained: Partial Prerendering (What? Why? How?)" }
+  ],
+  "playlists": [
+
+  ]
+}

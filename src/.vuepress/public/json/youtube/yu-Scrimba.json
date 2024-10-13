@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "Scrimba",
+    "name": "Scrimba",
+    "profile": "https://yt3.googleusercontent.com/fim3ppqLo62mUlrsTDNvNcCzHKvIzVww1Nq-S71A56IMKeuHLzpCSSyOXaapHFhJNfEf__21=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1-4XurcrfGySCcRZrY8r3Uh_iwlwIssrdMdXyIlimCiAZNObH6voe2jYZzEtwwSmFpnfeaw9KQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "onoUIt2r8Us", "title": "How Not to Be Afraid of Git, with O'Reilly Author Anna Skoulikari" },
+    { "id": "7Joos9f6D2o", "title": "This is How Companies Think About Hiring, with Dominik Piątek" },
+    { "id": "pPBgGsUW6eQ", "title": "Senior Software Engineer at Netflix, Shaundai Person: How to Sell Yourself & Believe in the Product" },
+    { "id": "qzURsn8BPgE", "title": "\"No\" Is Always Guaranteed... So Strive for a \"Yes\", with the Coding Mermaid Monica Fidalgo" },
+    { "id": "tJ3qDipex04", "title": "The Secret to a Meaningful Portfolio: Solve a Real-world Problem, with Scrimba Student Kevin" },
+    { "id": "8GuvVaEWjzk", "title": "What's New in React 19 (and What That Means for You), with Dev Agrawal" },
+    { "id": "HeirclTvIJg", "title": "Slow Down to Speed Up: Teacher-Turned-Developer Chris on Successful Adult Learning" },
+    { "id": "kjLcw0hUtNo", "title": "How to Figure Out What You Want to Do, with Scrimba Student Amy" },
+    { "id": "J57Gt-V2oDY", "title": "The Only Thing Worth Investing in Is Yourself, with Scrimba Student Özge" },
+    { "id": "fZ-OU_7aBv4", "title": "Intro to Figma for Developers - New and Updated!" },
+    { "id": "I6oPSY-0cZw", "title": "Framework for Navigating Today's Job Market, with Career Coach Adam Broda" },
+    { "id": "4zZm9tOoCa0", "title": "Everybody's Doing Their Best... Even Tech Recruiters (and This Is How to Get Their Attention)" },
+    { "id": "nD1V18VBNcw", "title": "The State of React (and Should You Still Learn It in 2024), with Dev Agrawal" },
+    { "id": "L9JCLG6bUjA", "title": "Demystifying AI: What Are Foundation Models (and How to Use Them), with Tom Chant" },
+    { "id": "Y0tc4DTS0e8", "title": "JavaScriptmas PrizeFest" },
+    { "id": "wS9Pq2zss68", "title": "What Is Retrieval-Augmented Generation and How to Make AI Work for You, with Guil Hernandez" },
+    { "id": "5nisJWiG6vs", "title": "LIVE STREAM: Scrimba’s new AI Engineer Path Launch AMA" },
+    { "id": "W7tmIP5NV3c", "title": "Advanced JavaScript Techniques: Closures, Prototypes, Async/Await | Live Q&A with Senior Developer" }
+  ]
+}

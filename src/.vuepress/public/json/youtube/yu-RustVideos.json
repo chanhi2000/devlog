@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "RustVideos",
+    "name": "Rust",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nWWECA7cvYXXqHhuQtmhmxl6TY-SFogHU6a2T5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-g6VXL7m-W-wGUx5OZGZDQUINlaEiJI9ZUJVzP_GDO5-OsuE6YVIXKqq5g_JGAr5djvFBeWU_dM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PK_FKzgPDWg", "title": "Rust Vienna Jan 2024 - Serverless Data Pipelines in Rust by Michele Vigilante" },
+    { "id": "N7GMHcX-WdA", "title": "Project Syn - Simon Gerber - Rust Zürisee March 2024" },
+    { "id": "fTUZj9dazWA", "title": "new trait solver walkthrough - lcnr - 2024.02.26" },
+    { "id": "q5gh-XX1_Ws", "title": "Diplomat - Idiomatic Multi-Language APIs - Robert Bastian - Rust Zürisee March 2024" }
+  ],
+  "playlists": [
+    {
+      "title": "RustConf 2023",
+      "videos": [
+        { "id": "MTnIexTt9Dk", "title": "RustConf 2023 - Extending Rust's Effect System" },
+        { "id": "5wkDXSP3mCc", "title": "RustConf 2023 - Implementing a Blazingly Fast Quantum State Simulator in Rust" },
+        { "id": "qkh8Fs2c4mY", "title": "RustConf 2023 - Fine! I'll just make my own stable ABI!" },
+        { "id": "8FAdY_0DpkM", "title": "RustConf 2023 - Profiling async applications in Rust" },
+        { "id": "zhbkp_Fzqoo", "title": "RustConf 2023 - Beyond Ctrl-C the dark corners of Unix signal handling" },
+        { "id": "eyhmeMq8mTE", "title": "RustConf 2023 - A Rust-based garbage collector for Python" },
+        { "id": "LRBKb6McgqA", "title": "RustConf 2023 - GUI Accessibility Across Platforms and Programming Languages Using Rust" },
+        { "id": "Ba0POpa7wD0", "title": "RustConf 2023 - Rust Foundation: Demystified" },
+        { "id": "hU-lKbAdOUg", "title": "RustConf 2023 - Async building blocks: A streaming Data Drama in Three Acts" },
+        { "id": "NGdc1jIRTg8", "title": "RustConf 2023 - Rewrite it in Objective-C?" },
+        { "id": "KYdlqhb267c", "title": "RustConf 2023 - Integrating Rust and Go: Lessons from Github Code Search" },
+        { "id": "7uSM60jlkBE", "title": "RustConf 2023 - Anything you can do, I can do worse with macro_rules!" },
+        { "id": "zXCr1BH5Y-4", "title": "RustConf 2023 - How Powerful is Const" },
+        { "id": "luBJvcGg9HQ", "title": "RustConf 2023 - Infrastructure for Rust" },
+        { "id": "-I1BfSpoWM0", "title": "RustConf 2023 - Using Rust and Battlesnake to never stop learning" },
+        { "id": "TWTDPilQ8q0", "title": "RustConf 2023 - Rust in the Wild: A Factory Control System from Scratch" },
+        { "id": "pqZFULVdg2g", "title": "RustConf 2023 - Rustacean Community Interfaces: A Tale of Many Hats" },
+        { "id": "rILlcYA_Qvw", "title": "RustConf 2023 - Rusty Genomics: Rust in the Biosciences" },
+        { "id": "x5EbGrgmXKw", "title": "RustConf 2023 - The Art and Science of Teaching Rust" },
+        { "id": "vPOlYFs6Bs0", "title": "RustConf 2023 - The standard library is special. Let's change that." },
+        { "id": "n0VeZRTZFxE", "title": "RustConf 2023 - Too many cooks or not enough kitchens?" },
+        { "id": "lg_27Ds2Ir0", "title": "RustConf 2023 - Rust in the skies over Antarctica" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "renerebe",
+    "name": "Bits inside by René Rebe",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZThd1Ps--Re8sBAi7Chx5fFgnpkqbr9iSYDiNjsKA=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1WPSI-jl9eXk8eHXfsGeSTve-iRdguUQCalGbRpX3wmkl2-hJSmXuJEUNvh-zO2Boj8tcxLQiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "whkiZECPhqA", "title": "The state of the Linux desktop: Are KDE 6 And GNOME 46 any good? [NOT IMPRESSED]" },
+    { "id": "IXBC85SGC0Q", "title": "Watch Linux kernel developer write a USB driver from scratch in just 3h for Apple Xserve front-panel" },
+    { "id": "oR7_jxlJJ4c", "title": "Linux kernel 6.8 is out for this BEST OpenSource kernel. What is NEW & will it built?" },
+    { "id": "d2SxhZlsf8E", "title": "ExactCODE Labs builds Linux TEST Infrastructure that finds Regressions FASTER than Linus can FIX!" },
+    { "id": "uam_8rmPvkI", "title": "Fixing Linux bugs using our MAXED OUT Apple G4 PowerPC Cube! [1.2GHz G4 & 1.5GB RAM] 🫶" },
+    { "id": "OTlSQfinkhM", "title": "LIVE fixing OpenSource bugs as simple as stacking some little Legos bricks!" },
+    { "id": "SVc9O-yyvxk", "title": "I can't believe how GOOD this Linux distribution has become in just four years live on YouTube! ;-)" },
+    { "id": "fi5hvOk1ZjE", "title": "Live Linux Code Work - GCC 14, Installer, Initrd & more!" },
+    { "id": "_JNxsbqLX5c", "title": "Finally Unmatched HiFive RISCV64 Linux Desktop with quiet PWM fan control!" },
+    { "id": "z0IUCiDCd9Y", "title": "TCPdump & Wireshark for finally just working™ PPC netboot for Linux on Apple Power Macs!" },
+    { "id": "eqLObA9p4AM", "title": "Mr. Robot SHOCKS Linux and X.org developers by FIXING & MAINTAINING drivers they want DELETED!" },
+    { "id": "0vVIx-Gvro4", "title": "Are major OpenSource contributors regularly BREAKING CODE just to have a job?" },
+    { "id": "YpZHu0_qDZ0", "title": "I CAN'T BELIEVE I even had to PATCH GCC for ARM64 to build in a SANE way for Aarch64 Linux!" },
+    { "id": "_IvVjSxRcss", "title": "The elephant Firefox in the room: too BIG to FIX? for non mainstream CPU architectures & REGRESSIONS" },
+    { "id": "_IvVjSxRcss", "title": "The elephant Firefox in the room: too BIG to FIX? for non mainstream CPU architectures & REGRESSIONS" },
+    { "id": "g6vYuOarj7U", "title": "BROKEN AGAIN: The Upstream Universe REALLY does not want PowerPC Linux to EXIST! :-/" },
+    { "id": "ZcJcHPd2Bmo", "title": "Becoming a Rust expert fixing Firefox 123 Nightly for RISC: PowerPC, UltraSPARC & MIPS64!" },
+    { "id": "3YfR6fgTnGU", "title": "I CAN'T BELIEVE we WROTE an Operating System like THIS! [AND KEEP FIXING OUR OWN REGRESSIONS] ;-)" },
+    { "id": "PocExS_8SzU", "title": "How can the Unicode REFERENCE code be so BROKEN? DUMBEST BYTE SWAPPING CODE I HAVE EVER SEEN!" },
+    { "id": "7hZqOYL2Ivc", "title": "Aspiring programmer FIXES Unicode Consortium BUG!" },
+    { "id": "0YcSt5148yQ", "title": "Halt & Catch Fire. 64-bit GRUB2 crashes if one specifies a memtest86+ supplied badram address! :-/" },
+    { "id": "BMhsfmxCC0Y", "title": "Watch Linux kernel developer work on RISCV Vector Extension support code!" },
+    { "id": "BMhsfmxCC0Y", "title": "Watch Linux kernel developer work on RISCV Vector Extension support code!" },
+    { "id": "txFuejT6U7g", "title": "Improving our Data AI for even more automated Linux distro package udpates!" },
+    { "id": "oR7_jxlJJ4c", "title": "Linux kernel 6.8 is out for this BEST OpenSource kernel. What is NEW & will it built?" },
+    { "id": "jLCrjGRTZ0I", "title": "LIVE: Developing State-of-the-Art T2 Linux on highest-end Sgi O2, R12K@400MHz  MIPS64 makes me happy" },
+    { "id": "zjCOjxBm-d8", "title": "Imagine you create a Linux Distribution and everyone is USING IT WRONG!" }
+  ]
+}

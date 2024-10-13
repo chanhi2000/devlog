@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "SSWTV",
+    "name": "SSW TV | Videos for developers, by developers",
+    "profile": "https://yt3.googleusercontent.com/e5enJPc8qLh6Nlr4RWBuN0D7Jn44bpm5xppZviC-O76uKaaml3zS7DDCOkFbnA9LgayN5WAtdJc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/njWlG0uuT4jsFXYNs2JRDqGpdKRtxmQlEAFWsFd-mQbRcJ2vcHj7r60R9ItzQuzYQjxKxD-Pug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Gi0d8Qahj-I", "title": "Tech News #37 | First AI \"Software Engineer\" - Devin, xAI open sources Grok-1 and Elon sues OpenAI" },
+    { "id": "W2wuD7DeZQA", "title": "Building Multimodal AI Solutions Beyond Chatbots | Ulysses Maclaren & Arafat Tehsin" },
+    { "id": "96-zvCyAIlc", "title": "From Demo Scene to Cutting-Edge Tech | Jean Thirion & Espen Sande-Larsen" },
+    { "id": "vTdKxGKb2hQ", "title": "Empowering Developers in the Cloud | Matt Wicks & Magnus Martensson" },
+    { "id": "sMWxVPMS4tg", "title": "TDD: How Fluent Assertions came to be | Luke Parker & Dennis Doomen" },
+    { "id": "udn6onn2Z28", "title": ".NET User Group: April UG – Cloud Native Aspirations with .NET Aspire" },
+    { "id": "gJngtFRHicY", "title": "ChatGPT and OpenAI API solutions: 👑 My Favourite Implementations | Adam Cogan | SSW User Groups" },
+    { "id": "t8LSU7XRNzw", "title": "Navigating Coding, Deployments, and Legacy Projects | Matt Wicks & Ben Dechrai" },
+    { "id": "Y_HzdX7nHo0", "title": "Unlocking Domain-Driven Design: Exploring Contextive | Gert Marx & Chris Simon" },
+    { "id": "59G9Cd-rV9w", "title": "Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" },
+    { "id": "-7c6uagBBBM", "title": "Transforming Company Data into Epic Insights✨ | Isabel Sandstroem | SSW EagleEye" },
+    { "id": "nR5JGyYSVTM", "title": "Exploring Radius: A Cloud-Native Platform | William Liebenberg & Will Velida" },
+    { "id": "sMWxVPMS4tg", "title": "TDD: How Fluent Assertions came to be | Luke Parker & Dennis Doomen" },
+    { "id": "X8RlScYi-Dg", "title": "Exploring Azure AI Speech Studio | Ulysses Maclaren & Michelle Sandford" },
+    { "id": "Oeh2IJw7Zig", "title": "Blazor Web Apps - Goodbye JavaScript! I'm in love with C#" }
+  ],
+  "playlists": [
+
+  ]
+}

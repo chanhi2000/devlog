@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "alecaddd",
+    "name": "Alessandro Castellani",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPS3jZwzec8akGAwm3mf0BTgZd7WMJo0DqjuUqLLsc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/noFgdMB0y6NUW3OYN8BZywF1AsDDXTACm_MOP4kRES4Uxw2Xf-2YGeZoJtHZVkFHXh3vGvQA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mZk1mvAFeUk", "title": "Thunderbird Live Coding #26" },
+    { "id": "2EXGj5Qz2oY", "title": "Thunderbird Live Coding #25" },
+    { "id": "ynfS38U3DYU", "title": "Akira UX - Development Vlog #11" }, 
+    { "id": "djOJcJANSWk", "title": "Akira UX - Development Vlog #4" }
+  ]
+}

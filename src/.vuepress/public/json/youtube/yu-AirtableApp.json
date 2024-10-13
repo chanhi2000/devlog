@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "AirtableApp",
+    "name": "Airtable",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m-aXpQG_jJL-Bssjio3th4ZxVvOy7bLy9zyKcS1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rKogbdulP1pA0Zb3Ys0EJvjsIpjcA-Iw9rq3fMOrcOO419eN9Rqz34Pbfy-dy9GSAONASgWl=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZrarbwI-UjU", "title": "Using the Dashboard Layout" },
+    { "id": "9X5BXG0KF_Y", "title": "Airtable app quick start walkthrough" }
+  ]
+}

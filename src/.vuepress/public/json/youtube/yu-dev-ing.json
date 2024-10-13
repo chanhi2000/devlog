@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "dev-ing",
+    "name": "오늘도 개발중",
+    "profile": "https://yt3.googleusercontent.com/daHKRqxB0_trus8IQU70OFx518IaBdTm7_IWazaaPYxr7jtyyUyTvHXtU_8DE-T2Dd7R8SBe=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DOEYfbjZWdsUgySm_cXEtdX0nv3jzZPQD-cC0Zq_BVvpa6yc6aQGQ5MWsEJR9owPai45vfjgGw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OTbfr25EkiQ", "title": "2024년 신입 개발자 취업 현실 | 신입 개발자, 취준생이라면 이 영상 꼭 보세요" },
+    { "id": "nkNKBwXUL84", "title": "ChatGPT 역대급 기능 드디어 출시되었습니다 | AI 코딩" }
+  ]
+}

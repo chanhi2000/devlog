@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "theepistolatory",
+    "name": "Georgios Magklaras",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ6SK7usrQ7Of5QUfrtBWmetIqAHy_Ks8WH9hgCnw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J6eR4378eSAYR8rvVWpj0Ok203A7wMf55rA-E7_6BP9ciPilC8EvG-tlBn9bU3XIQ544D773aw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "81j1WF5xEZc", "title": "Linux Control Groups (`cgroups`) demonstration (George Magklaras)" }
+  ]
+}

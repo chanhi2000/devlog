@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "KeaSigmaDelta",
+    "name": "Kea Sigma Delta",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mtik73mddBDsZ2dwJgKJBhH_pRyaPQjd_2WCN3AwWUjA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/C98p7gkev2-NfdGzYitDAL1IsX4BRYEWAF2r9pKs3VGqgETQ-5_t7HoE82UHwnGBu5ksDXe4Cw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n6lPuep66aM", "title": "Endianness Explained in Less Than 9 Minutes" },
+    { "id": "GJ4O_flGrYw", "title": "CMake vs Make - A Real life Comparison With Actual Code - Part 2" },
+    { "id": "XdJrphd-X4E", "title": "Getting Started With OpenGL ES 3+ Programming Tutorial Book Relaunch" },
+    { "id": "FlTpn_Olqvw", "title": "CMake vs Meson - a real life comparison with actual code" },
+    { "id": "PWYSyD2rVbM", "title": "CMake vs Make - a real life comparison (with actual code)" },
+    { "id": "6rfdjvh4iNc", "title": "How to Integrate OptimizeMentor With WooCommerce" },
+    { "id": "Q8rPWAdQ4CI", "title": "Join Kea Campus as a Founding Member" },
+    { "id": "SDX0oYqdv_g", "title": "CMake, How it Works (At Three Different Levels)" },
+    { "id": "2s75npa5IIY", "title": "How all C/C++ build Systems Work (Except for CMake and Premake)" },
+    { "id": "TX_EPvGej88", "title": "Building a Membership Portal" }
+  ],
+  "playlists": [
+
+  ]
+}

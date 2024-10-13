@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "AnthonyDesignCode",
+    "name": "Code With Ant",
+    "profile": "https://yt3.googleusercontent.com/xaYZhZDAcNpzi1APQ5y3-k3Jw9bZlGCgOs9xGJw9zRoePzyMxu7ma9PeqEmuRKsJv_G7I0JbMw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Xh92ij4Lsva_B3ofkZkiLO62IcwynYegldqagFBugir537sNshEV3fAvrzaH9MZGo3O2yyLn=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x4cGUyX3u-k", "title": "Anthony tells his secret on creating a complex ui in SwiftUI #shorts #swiftdev #swiftui" }, 
+    { "id": "UdW3oYl7rHE", "title": "Discover What's New in MapKit for iOS 17 with SwiftUI and Xcode" },
+    { "id": "g78TXPBHjes", "title": "How I Created a Complex Login App for iPadOS in SwiftUI and Xcode 14 WWDC23" }, 
+    { "id": "g3slgNY4M-k", "title": "What's new in Charts for iOS 17 (WWDC 23)" }, 
+    { "id": "4FUhJIX1lTw", "title": "Mastering Advanced Animations in SwiftUI: Unleashing the Power of WWDC23!" }, 
+    { "id": "2z-c86DO4-I", "title": "SwiftUI Animations Unveiled: What's New at WWDC 23!" }, 
+    { "id": "QO95HZGb4oc", "title": "ChatGPT SwiftUI Tutorial: Creating a Scrolling Text Animation in Xcode 15!" },
+    { "id": "W1SfuC_TiQ8", "title": "How I Created a Complex Message Animation from Scratch in SwiftUI, WWDC23" }, 
+    { "id": "a5PZS75y-zQ", "title": "How I Created a Complex Pinterest-Inspired UI Using SwiftUI and Xcode 14" }, 
+    { "id": "BZPYvWDr4oE", "title": "Full tutorial in bio #shorts #swiftui #coding #xcode #iosdevelopment #appdevelopment #ios16" }, 
+    { "id": "pR7jVHW4PK0", "title": "Timelapse splash screen for a Job finder UI #shorts #swiftui #coding #iosdevelopment" }, 
+    { "id": "v97KP3NB3FA", "title": "Timelapse of a JobUI using SwiftUI! Full tutorial coming soon! #shorts #swiftui #coding" }, 
+    { "id": "96hHbfydong", "title": "UI Design trends in SwiftUI code 🧑🏻‍💻 #shorts ￼#swiftui #coding" }, 
+    { "id": "QrWrLdSJmnY", "title": "How I created a stunning Facebook UI in SwiftUI and Xcode 14" }, 
+    { "id": "DaU4AwgZmHA", "title": "How I Created an Animated Health Dashboard in SwiftUI and Xcode 14" }, 
+    { "id": "1dwR6cU5FTA", "title": "How I Used SwiftUI to Create a Stunning Login Screen for My Mobile App" }
+  ]
+}

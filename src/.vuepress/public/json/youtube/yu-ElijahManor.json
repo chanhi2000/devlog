@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ElijahManor",
+    "name": "Elijah Manor",
+    "profile": "https://yt3.googleusercontent.com/i_1NpmhDXYdqB9FqjzS7dLBSWD2Xy9dWJ6w07dW4yt7hREWLePaS1m6Jsrg8Be5ruqCEoNzJ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A5XU7Y5DTschrEwiRN6KCCrKKrP6rGX-o6YGNjzZ_cG8zQ1KBW8TVwt-EOjWynnd-uo2D6yN=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DYaTzkw3zqQ", "title": "New Native Neovim LSP Inlay Hints (Nightly Build)" },
+    { "id": "R8q154QTSDY", "title": "Warp: The AI-Powered Rust-based Terminal" }, 
+    { "id": "pw0SH7AHIFI", "title": "GitHub Copilot CLI: AI for the Command-Line" }, 
+    { "id": "R8q154QTSDY", "title": "Warp: The AI-Powered Rust-based Terminal" }, 
+    { "id": "a_ZpTPaSn38", "title": "LazyVim: Linting and Formatting" }, 
+    { "id": "3TRouzuWOuQ", "title": "Neovim 0.9 New Features" }
+  ]
+}

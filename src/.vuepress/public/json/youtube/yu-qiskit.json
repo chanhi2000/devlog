@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "qiskit",
+    "name": "Qiskit",
+    "profile": "https://yt3.googleusercontent.com/mBeBCw-OeX3gqZX2r0IwwCctQYSyRUb1bqppQiAQ-6qvlPoTxBO1cBXBw8BIJWYXjHy20jddwA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xdx7Ig4Q4oob2mj6iVk18Qx-YNLhn6p1xOGMy4nQs-JRJkXEBIhonBvrO8j2EooAydlHiqlsDA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },
+    { "id": "CeK9ry8G8HQ", "title": "Lesson 09: Density Matrices | Understanding Quantum Information & Computation" },
+    { "id": "xqoHU286kjQ", "title": "Magic Meets Entanglement: Pseudomagic and Computational Separations | Qiskit Quantum Seminar" },
+    { "id": "GmdeT2W-Ahc", "title": "Presenting: IBM Quantum Learning" },
+    { "id": "dZWz4Gs_BuI", "title": "How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "Uyb70fD_dtY", "title": "The (quantum) signal and the noise | Qiskit Quantum Seminar with Yihui Quek" },
+    { "id": "93-zLTppFZw", "title": "Hello World | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "sVRpKhCfKRI", "title": "Series Introduction | Quantum Computing in Practice | Episode 1" },
+    { "id": "35ykEg3fG4c", "title": "Primitives | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "QDPtcwhpQkE", "title": "Dynamic Circuits | Coding with Qiskit 1.x | Programming on Quantum Computers" },
+    { "id": "Fg6R5Nwd-Cc", "title": "Virtual Channel Purification | Qiskit Quantum Seminar with Zhenyu Cai" },
+    { "id": "XpxU6OVjT5g", "title": "Speeding up state preparation with dynamic quantum circuits with Kevin Smith" },
+    { "id": "ZzRdjoH0xp0", "title": "Quantum Job Hunting: More Things You NEED to Know" },
+    { "id": "THmVL5oge7k", "title": "Near-Term Quantum Algorithms for Optimization with Ashley Montanaro" },
+    { "id": "BEFK1XTiiPc", "title": "Efficient Long-Range Entanglement using Dynamic Circuits with Elisa Bäumer" },
+    { "id": "QjcZaJVpfKU", "title": "On quantum backpropagation and information reuse | Qiskit Quantum Seminar with Amira Abbas" },
+    { "id": "Nrdc1-Xtt84", "title": "Quantum Crosstalk | Episode 01: What's Coming to Quantum in 2024 with Katie Pizzolato" },
+    { "id": "BEFK1XTiiPc", "title": "Efficient Long-Range Entanglement using Dynamic Circuits with Elisa Bäumer" },
+    { "id": "ZQ7BtX6u5gI", "title": "How can I simulate depolarizing errors in Qiskit?" },
+    { "id": "xqoHU286kjQ", "title": "Magic Meets Entanglement: Pseudomagic and Computational Separations | Qiskit Quantum Seminar" },
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
+    { "id": "455pmYaZXKw", "title": "Phase Kickback with Qiskit" },
+    { "id": "ArisYJQwOSY", "title": "Efficient classical shadow tomography with number conservation with Anushya Chandran" },
+    { "id": "hyL7tJzwUBU", "title": "Realization and Characterization of Topological Phases on Quantum Processors" },
+    { "id": "jcC1Ck45Ykw", "title": "Back to the Future on a Quantum Computer: Demystifying Time Loops | Paradoxes Ep. 09" },
+    { "id": "AXXgE5zzIVQ", "title": "Quantum Simulation with Ultracold Atoms in Optical Lattices | Qiskit Quantum Seminar IMMANUEL BLOCH" },
+    { "id": "9MOIBcYf9wk", "title": "How to sample a Bell State using Qiskit" },
+    { "id": "M4EkW4VwhcI", "title": "How to Install Qiskit — Programming on Quantum Computers Season 1 Ep 2" }, 
+    { "id": "a1NZC5rqQD8", "title": "Quantum Pong — Programming on Quantum Computers Season 1 Ep 1" }
+  ]
+}

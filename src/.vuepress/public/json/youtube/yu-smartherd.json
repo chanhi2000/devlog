@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "smartherd",
+    "name": "Smartherd",
+    "profile": "https://yt3.googleusercontent.com/T9Q6dWziDqiwXYWFOjMGklxWOBz-Etaz6rpr5WmojFfnAqk2nqLtlFI7AiiylEyjB3L85aLZlw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2_6qK2_mL9v1Dr4PvXM4-2bEzqf0UQgc2k-YhI1ul0GyyP__BhOlwD6j_DaWjnLq6e6IfdfnpA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CC79Qz6n22c", "title": "Android Kotlin Tutorial: Share Data using Implicit Intent to Facebook, Instagram, WhatsApp #2.5" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "user-kp6ez9ty9p",
+    "name": "최현웅",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbvQACtRTMgs0I5_PM1-lxcAoTRIdkUHmXODA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "aw5cF2J7d2w", "title": "도커 기초 강의" },
+    { "id": "t4sCLuqLk8Q", "title": "QueryDSL 기초 강의" },
+    { "id": "T5Vjs26nl18", "title": "스프링 백엔드 서비스 개발 기초 1" },
+    { "id": "Q3FEp6vXki8", "title": "스프링 백엔드 서비스 개발 기초 2" }
+  ]
+}

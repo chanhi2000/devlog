@@ -1,0 +1,45 @@
+[
+  {
+    "repo": "terraform-aws-modules/terraform-aws-eks",
+    "desc": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+    "officialSite": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws",
+    "topics": ["aws", "aws-eks", "aws-eks-cluster", "eks", "elastic-kubernetes-service", "kubernetes", "terraform", "terraform-module"],
+    "avatar": "https://avatars.githubusercontent.com/u/31414033?v=4",
+    "banner": ""
+  }, {
+    "repo": "ChristianLempa/boilerplates",
+    "desc": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
+    "officialSite": "",
+    "topics": ["docker", "kubernetes", "ansible", "vagrant", "packer", "docker-compose", "terraform", "docker-compose-template", "packer-template", "vagrant-template", "ansible-template", "terraform-template", "kubernetes-template"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ministryofjustice/modernisation-platform",
+    "desc": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
+    "officialSite": "https://user-guide.modernisation-platform.service.justice.gov.uk",
+    "topics": ["aws", "documentation", "civil-service", "architecture-decisions", "modernisation-platform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "iam-veeramalla/terraform-zero-to-hero",
+    "desc": "Master Terraform in 7 days using this Zero to Hero course.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Rapha-Borges/oke-free",
+    "desc": "Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre",
+    "officialSite": "",
+    "topics": ["kubernetes", "mesdokubernetes", "oke", "terraform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tungbq/devops-basics",
+    "desc": "🚀 Practical and document place for DevOps toolchain",
+    "officialSite": "https://tungbq.github.io/devops-basics/",
+    "topics": ["ansible", "aws", "cd", "ci", "ci-cd", "cloud", "devops", "devops-basic", "devops-project", "devops-tool", "devops-tools", "docker", "elk", "helm", "iac", "jenkins", "k8s", "monitoring", "python", "terraform"],
+    "avatar": "https://avatars.githubusercontent.com/u/85242618?v=4",
+    "banner": ""
+  }
+]

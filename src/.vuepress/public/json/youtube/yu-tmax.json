@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "tmax",
+    "name": "티맥스",
+    "profile": "https://yt3.googleusercontent.com/b2UX6nf9GzkmIc9wWd1uRMBmUFjtA38WijumKLRrMWVqlYDJtPjNuBxIAakB3f_ADw2GK3f5CY8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Nwp-T6az3lSVPDZGZSQpddFeGi6iNh_OmnM0yl5pPv3L8mn1cwmONpXqdfbkUz164Gc93dK4Tw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tXGXCvwIWpQ", "title": "[티맥스 T터뷰] EP.01 TmaxEduAI 이성민 실장 인터뷰(feat. 위기의 밸런스 게임)" },
+    { "id": "WaoLxzJXSMc", "title": "[EN/KR] AWS 에 티맥스가 떴다! 🧚🏻‍♀️ l #날세티 EP.4 : AWS Reinvent 2023 타 부스 탐방기" },
+    { "id": "rIWfb-Pcg1g", "title": "2024 티맥스 시무식 - 2023년 돌아보기 (feat. 티맥스 5대 뉴스)" },
+    { "id": "O9As6nMpUqA", "title": "[TmaxCloud Webinar] 디지털 전환을 가속시키는 노코드 로우코드 플랫폼의 진화, 티맥스클라우드 aPaaS (Application PaaS)" }, 
+    { "id": "DLxNwbrtsWQ", "title": "[TmaxTibero] SysMasterDB 8, 강력한 데이터베이스 모니터링 & 성능관리 솔루션" }, 
+    { "id": "RReb_sYj-y8", "title": "[TmaxTibero Webinar] 공공기관 민클 전환 구축 성공 사례 소개" }, 
+    { "id": "4anutGyRD3M", "title": "[TmaxTibero Webinar] 퍼블릭 클라우드에서 Tibero 사용하기" }, 
+    { "id": "2EFNuhq8z6Y", "title": "[Tibero Webinar] 비용&성능 최적화 DBMS, Tibero 최초공개" }
+  ]
+}

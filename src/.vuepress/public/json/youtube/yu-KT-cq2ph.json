@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "KT-cq2ph",
+    "name": "k T",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNh6zt-TNOYDsYMflzCp5xbTEf4eoTLUhQ3NwFf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rlvRhfnAyBzf63u1isCAAmk0liu59KfbHF4bag5tAzGwy2x-eLsaO7tfyPa6GboGQOlZyBcG=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ppe6NQgQFEI", "title": "Generics in Kotlin: Reified Generics in Kotlin" }, 
+    { "id": "UeJ-tdXZxIo", "title": "KT - Image Processing in Kotlin with Amanda Hinchman-Dominguez: Part 2" }
+  ]
+}

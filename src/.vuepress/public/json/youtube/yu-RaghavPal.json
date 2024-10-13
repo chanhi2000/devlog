@@ -1,0 +1,78 @@
+{
+  "channel": {
+    "id": "RaghavPal",
+    "name": "Automation Step by Step",
+    "profile": "https://yt3.googleusercontent.com/YCqssaWqDRxsaxbQU5y1FtX8MYcWHpXEaLH7RBdPvUEJGYOYAmQTDhnkpm9qB1AKeWYDWHRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H8_4Waa8bWh5flJA7Epnpbd7zKo7nbKG9p-dqGOXSjbscK0RmNaxUcB2mOgxK4O8SF9fXAiOcA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-NyO4ed2gn4", "title": "Create unlimited free apis for testing or mocking" },
+    { "id": "pTe2cspINoU", "title": "Appium Beginner Tutorial 1 | Basic Setup on Windows and Mac OS | Raghav Pal" },
+    { "id": "dVTZpsNINM8", "title": "2 | Appium Step by Step | Complete Setup for Android Mobile Testing without using Android Studio" },
+    { "id": "oqaJvdIQ7JQ", "title": "3 | Appium Step by Step | Complete Setup for Android Mobile Testing using Android Studio" },
+    { "id": "KZsslCtU4No", "title": "4 | Appium Step by Step | How to create Android Virtual Device" },
+    { "id": "QfuKGkdgw8o", "title": "5 | Appium Step by Step | Android Real Device Setup for Automation" },
+    { "id": "S3wDYhnxDh0", "title": "6 | Appium Step by Step | How to setup and use Appium Inspector" },
+    { "id": "cY93qWjNkow", "title": "7 | Appium Step by Step | Complete Hands On DEMO and Recording with Appium Inspector" },
+    { "id": "tvjfBbIuXRA", "title": "8 | Appium Step by Step | Complete iOS Testing setup" },
+    { "id": "hrwZ-iND3bs", "title": "Terraform complete course | Step by Step for Beginners" },
+    { "id": "tZKL364H8ho", "title": "Gatling Beginners Tutorial | Correlation | Dynamic Referencing" },
+    { "id": "Ou1OHS_fXi0", "title": "Gatling Step by Step Masterclass | Part 1" },
+    { "id": "Ie2k_BM-_1U", "title": "Gatling Step by Step Masterclass | Part 2" },
+    { "id": "SQnzfJ7nmwU", "title": "Gatling Step by Step Masterclass | Part 3" },
+    { "id": "MHq57q42hFI", "title": "Gatling Step by Step Masterclass | Part 4" },
+    { "id": "mJjPxwielpg", "title": "Gatling Step by Step Masterclass | Part 5" },
+    { "id": "EnsevjAnO44", "title": "Gatling Maven Project Setup Demo | Command Line Runs" },
+    { "id": "NAHISnYuN_4", "title": "Testim Beginner Tutorial 3 | Top Features of Testim with DEMO" },
+    { "id": "-ecG6B_jNW8", "title": "HOW TO SWITCH JAVA VERSION and SET JAVA_HOME PATH ON MAC OS M1 M2" },
+    { "id": "SW5MAG4YFJE", "title": "TestCafe | 4 | VS Code Extensions" },
+    { "id": "LsOZ40VCzP8", "title": "#AskRaghav | 4 Scenario based interview Ques | Performance Testing" },
+    { "id": "cftENRkyk40", "title": "#AskRaghav | 4 Scenario based Selenium Interview Ques" },
+    { "id": "lJ-AAFIhgrE", "title": "TestCafe | 2 | Actions - Part 1 | Step-by-Step for Beginners" },
+    { "id": "QROSlPFFB1Y", "title": "TestCafe | 3 | Actions - Part 2 | Step-by-Step for Beginners" },
+    { "id": "EEjyLfp6DoQ", "title": "Playwright API Testing Demo for Beginners" },
+    { "id": "DdcuYoccBe0", "title": "TestCafe | 1 | Getting Started | Step-by-Step for Beginners" },
+    { "id": "hy2FoW70doI", "title": "Testim Beginner Tutorial 1 | Getting Started" },
+    { "id": "8rXyQqRtnrk", "title": "2 | Jenkins 2023 |  Home Directory | Step-by-Step for Beginners" },
+    { "id": "BRrDGDW-eNQ", "title": "4 | Jenkins 2023 |  Chaining Jobs and creating Pipeline | Step-by-Step for Beginners" },
+    { "id": "cy2257Y7I54", "title": "1 | Jenkins 2023 | Getting Started | Step-by-Step for Beginners" },
+    { "id": "vyiJrTHXE0M", "title": "6 | Ansible Hello World" },
+    { "id": "y8CiSwDnQSU", "title": "2 |  Interacting With Elements | Selenium Python" },
+    { "id": "ylEy4eLdhFs", "title": "GitHub Actions Step by Step DEMO for Beginners" }, 
+    { "id": "6g5iz4tS3no", "title": "WebdriverIO How to implement Page Object Model" }, 
+    { "id": "m_pbiGwDpgM", "title": "Gatling Beginner Tutorial 2 | Maven, Project, Scripts, Execution & Reporting |" }, 
+    { "id": "woMAXn4e8NA", "title": "Jenkins 2021 Masterclass | Step by Step for Beginners | Interview Questions | Raghav Pal |" }, 
+    { "id": "Rp_lFu4LpkU", "title": "JMeter Beginner Tutorial | How to record API Request from Katalon Studio" }, 
+    { "id": "ynV_DX_TNgM", "title": "TestProject Tutorial 16 | API - Introduction & Demo" }, 
+    { "id": "bGqS0f4Utn4", "title": "Jenkins Beginner Tutorial 8 - Jenkins integration with GIT (SCM)" }, 
+    { "id": "BKefIqoUD3w", "title": "Selenium Cucumber Java BDD Framework 6 - Page Object Model | Step by Step" }, 
+    { "id": "KDztFuXqnwo", "title": "Selenium Cucumber Java BDD Framework 3 - First Selenium Test | Mac | Step by Step | Raghav Pal" }, 
+    { "id": "vgHp37LY_PY", "title": "TestProject Tutorial 11 |  How to generate Java Code | How to run Tests from Java project" }, 
+    { "id": "J5l2fepRelk", "title": "Postman Beginners Crash Course - Part 1 | Postman Introduction, GUI, Request creation" }, 
+    { "id": "Nabjqv8KDgc", "title": "Gradle Beginner Tutorial 1 | What are Build Tools | What is Gradle | Step by Step" }, 
+    { "id": "H35w2V2V-Nk", "title": "How To Create and Run Maven Project with Eclipse and CommandLine | Step by Step" }, 
+    { "id": "OWaZXtgq28c", "title": "GitLab Beginner Tutorial 2 | Getting started with Git Commands" }, 
+    { "id": "UgTt8qOsgEU", "title": "How to setup and use Docker on Free AWS Linux | Complete beginners hands-on in 7 Steps" }, 
+    { "id": "ylEy4eLdhFs", "title": "GitHub Actions Step by Step DEMO for Beginners" }, 
+    { "id": "1Fy3jU-XGm4", "title": "Katalon Studio | How to use Smart XPath Plugin" }, 
+    { "id": "Ops94dNqZ-0", "title": "3 | Ansible Hands-On Demo Project | Step by Step for Beginners" }
+  ],
+  "playlists": [
+    {
+      "title": "AccelQ Beginner Tutorials",
+      "videos": [
+        { "id": "aqmTgMdvXg8", "title": "AccelQ Beginner Tutorials 1 | What is AccelQ | Automation with DevOps" },
+        { "id": "on3su--zQ4I", "title": "AccelQ Beginner Tutorials 2 | How to create Context in AccelQ" },
+        { "id": "cV1oj8fC9rk", "title": "AccelQ Beginner Tutorials 3 | How to create Action in AccelQ" },
+        { "id": "e9Zqy8JBMuA", "title": "AccelQ Beginner Tutorials 4 | How to create a Scenario in AccelQ" },
+        { "id": "o4q7tmdDNiw", "title": "AccelQ Beginner Tutorials 5 | Parameterization | Data Driven testing in AccelQ" },
+        { "id": "3m81G7KZoGk", "title": "AccelQ Beginner Tutorials 6 | Real-world examples Parameterization | How to parameterize date field" },
+        { "id": "wTXS5ET0PV0", "title": "AccelQ Beginner Tutorials 7 | Elements Identification in AccelQ" },
+        { "id": "jFoBWtUbrs0", "title": "AccelQ Beginner Tutorial 8 | How to test REST API" },
+        { "id": "nkl5oqvFHMo", "title": "AccelQ Beginner Tutorial 9 | How to create Local REST API for Testing" },
+        { "id": "TnGeFFoz16U", "title": "AccelQ Beginner Tutorial 10 | SOAP API Testing" }
+      ]
+    }
+  ]
+}
+ 

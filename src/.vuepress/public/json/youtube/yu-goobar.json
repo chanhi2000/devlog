@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "goobar",
+    "name": "goobar",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRWpU3h86xwd-Pz92TrSzbEaCoN0c4HD6u3Kj7aEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7tUdgu8nuIoFyEdIAdTUao0fO44lOpLahedFT_CGM81LzmHW6CEpEQmc7kYOp3tIrkhgiFU-zGU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zLylSzGkyAQ", "title": "Define REST Endpoints Using Ktor Part 2 - Build a Fullstack Kotlin Application Live" },
+    { "id": "RNq0z7kald8", "title": "Setup Gradle Version Catalog & Ktor Routing Basics - Build a Fullstack Kotlin Application Livestream" },
+    { "id": "ZhZ8FNIiMoc", "title": "Create Kotlin Ktor Project - Fullstack Kotlin App Tutorial" },
+    { "id": "U3G0h3DqW7E", "title": "Create GitHub Pull Request Template #softwaredevelopment" },
+    { "id": "FAlCgQvRf4g", "title": "Define REST Endpoints Using Ktor - Build a Fullstack Kotlin Application Live" },
+    { "id": "Z4vRGhZInL8", "title": "GitHub Project Setup & GitHub Issue Management - goobar live" },
+    { "id": "9q-CwitFBjQ", "title": "Ktor Project Setup - Build a Fullstack Kotlin Application Livestream" },
+    { "id": "oPQgFxHcjAw", "title": "GitHub Project Management - Create GitHub Project Board & Automations 2024" }
+  ]
+}

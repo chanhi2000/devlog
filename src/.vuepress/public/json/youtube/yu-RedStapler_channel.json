@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "RedStapler_channel",
+    "name": "Red Stapler",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN2LgupMEgVWw8VU2N0_yx_o0OlKm1Ax6iSmNpk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sKHZvXGKRIrcZLJNEL53-J7MSAajspff9xWr_YinHCfG3xa2Y885A7OE-o1dSf1ZC-x44LGyMA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2wucLthrUjw", "title": "7 Trending JavaScript Libraries 2021" }, 
+    { "id": "mAKYW_1f-dw", "title": "Anime.js Tutorial - Part 2: SVG Path, Morphing, Line Drawing" }, 
+    { "id": "Bed1z7f1EI4", "title": "3D Space Warp JavaScript Effect - Three.js Tutorial" }, 
+    { "id": "5f5wwQb22tE", "title": "Nebula Cloud Particles Effect Three.js Tutorial" }, 
+    { "id": "1bkibGIG8i0", "title": "Realistic Rain Effect Three.js Tutorial" }, 
+    { "id": "h2eHgh0tfiw", "title": "Minimalist CSS Image Carousel Tutorial" }
+  ]
+}

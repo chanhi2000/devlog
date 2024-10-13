@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "thegreat-programmers",
+    "name": "개발자의품격",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpPl8lJfWYjMNd59H_vu3akA63kbvC9Qw-fzw_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/g7XDEBfCzNbcbtAdLV0xs1ZZL-tcfD3YOSqxyVFT-DUrQNkaUq2p9Js6FXaek-QFgYIwX3vT_KA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "31RM_tDUJTs", "title": "input 이벤트를 제대로 이해하면 코드 세줄로 숫자만 입력 가능한 필드, 한글만 입력 가능한 필드를 구현할 수 있다" }, 
+    { "id": "b0ImUEsqaAA", "title": "4시간만에 완벽하게 끝내는 Vue.js 입문 | Vue.js 3.x 최신버전" }, 
+    { "id": "lHbe_nmVMPI", "title": "개발자의품격2기 - 구현 1주차(애완견중고물품거래,못난이농산물거래,알바생관리)" }, 
+    { "id": "UmeayBglVwM", "title": "개발자의품격2기-03.팀별 벤치마킹 결과 발표(반려견중고거래마켓,개발자커뮤니티,못난이농산물,알바관리앱)" }, 
+    { "id": "sqH0u8wN4Rs", "title": "한시간만에 끝내는 Vue.js 입문" }, 
+    { "id": "-ykH04t-Dbw", "title": "제품판매웹앱 구현 - 13.제품 상세 Vue 컴포넌트 구현" }, 
+    { "id": "skslYN_VFwU", "title": "Svelte - 04.기본 문법 익히기" }
+  ]
+}

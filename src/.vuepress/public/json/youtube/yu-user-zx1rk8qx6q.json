@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "user-zx1rk8qx6q",
+    "name": "실용주의 프로그래머",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaTT38jYnjamTylNjD0a3LdHGd1EFVP4nV-qXBa=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "rxDOdNAaRMo", "title": "작정하고 장고! Django REST Framework 3강 -  What is REST?" },
+    { "id": "RWEZITw27Ts", "title": "작정하고 장고 1강 - 무엇을 만들 것인지 : Django로 Pinterest 따라하기!" }
+  ]
+}

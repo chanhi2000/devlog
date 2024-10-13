@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "odayprogrammer",
+    "name": "Oday",
+    "profile": "https://yt3.googleusercontent.com/_eMOBVN-VY5AGKXnMco5kXDCSJcdS3I5DGI_6HiW0B3Bf-DdNj-fmdyss4blYRwHIDFciks8eA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QRZZ05iwkJYPQ2U4zptug5DXHYtY1zv-vqYP1fAcEBWjqvIDEuh-SjXgo_o6HWpxb9m0i73YpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-EuzSIgEWDk", "title": "Android programming" },
+    { "id": "TEwrq9EHE4s", "title": "Jetpack Compose LazyColumn scroll to bottom when new items added" },
+    { "id": "cUYOXe0goTI", "title": "Jetpack Compose LazyColumn - Impossibly Unsolvable bug" },
+    { "id": "PKHbDhRlG2E", "title": "Android get user accounts and identify users. Firestore experiments" },
+    { "id": "JO33qoj8o2Y", "title": "Jetpack Compose - Firebase Repository Refactoring - In-app Billing implementation" },
+    { "id": "L1tvXYCBiGw", "title": "Jetpack Compose - Firebase Repository Refactoring - In-app Billing implementation" },
+    { "id": "Pk44g_f8JZs", "title": "Actually coding - Jetpack Compose - More Refactoring - In-app Billing implementation" },
+    { "id": "k0gxfiKnjvs", "title": "Help Me Code - Jetpack Compose - Multi-Module - Google Rate my App" },
+    { "id": "BcGnGne_kr8", "title": "Jetpack Compose Go Pro screen" },
+    { "id": "zZcW0SwdCNQ", "title": "Implementing Google Ads Consent in Android App with Jetpack Compose" },
+    { "id": "zZcW0SwdCNQ", "title": "Implementing Google Ads Consent in Android App with Jetpack Compose" },
+    { "id": "IKdzoQB2OnU", "title": "Jetpack Compose State Management" },
+    { "id": "yRvD-AmT968", "title": "Jetpack Compose State Management" },
+    { "id": "WzwpHAf84ME", "title": "Jetpack Compose Doing the Impossible Android app" },
+    { "id": "wdJfIqaZxxE", "title": "Jetpack Compose Latest Upgrade + Chatting" }
+  ]
+}

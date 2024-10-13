@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "HackerJohn",
+    "name": "Hacker Joe",
+    "profile": "https://yt3.googleusercontent.com/g3Z10o7dAzAhfDLjGxar-qW2F3D8uyOBUo_8nWhoJ5GCeismmyjH66K0jw8bkUP07Cra2n-bO_Y=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/s8G1Y562PRsSYVESb1VA57GJWn6A8nKHDmNzJMVTeG9a82ziYb2Uv_LvEOPi2cdKqRZ0Uex6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JHAMj2vN2oU", "title": "NMAP Full Guide (You will never ask about NMAP again) #hackers #scanning #nmap" },
+    { "id": "a_4MjV_-7Sw", "title": "Mastering Wireshark: The Complete Tutorial!" },
+    { "id": "bUD9ID_l9qg", "title": "Staying Anonymous with ProxyChains in Kali Linux!" },
+    { "id": "xuYZNJCvHgQ", "title": "The Ultimate Metasploit Tutorial!" }
+  ],
+  "playlists": [
+
+  ]
+}

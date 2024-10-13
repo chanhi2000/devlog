@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-rq9wv7zn7c",
+    "name": "테오의 프론트엔드",
+    "profile": "https://yt3.googleusercontent.com/cFUXh01e9IhjTVmLNV5B62nBxe08KHap9ARWRTHO0XDpJyyiBiTyg_mCiINsrj2OytSaFTHefQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "jeBwlRnnNYI", "title": "Svelte강의 연습용으로 찍어본 무편집본" }
+  ]
+}

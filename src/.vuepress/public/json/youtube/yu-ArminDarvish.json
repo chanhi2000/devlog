@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ArminDarvish",
+    "name": "Armin Darvish",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lvKABYhRJRg5d1l7kHXez5QSm2epG1ql9wXuAdHQDXvOiX=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7qHxmjlTy0Y", "title": "My Daily Driver: Fruity silicon but no fruity software, please!" },
+    { "id": "TVWAFnAsviA", "title": "SketchyBar" },
+    { "id": "wNH2E7iT__c", "title": "Emacs consult-omni package: a powerful omni-search and launcher in emacs" },
+    { "id": "7pDfyqBZwvo", "title": "Emacs consult-web package: Get  web search results as well as omni searches inside emacs!" }
+  ],
+  "playlists": [
+
+  ]
+}

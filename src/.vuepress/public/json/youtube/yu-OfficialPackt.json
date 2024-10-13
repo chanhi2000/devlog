@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "OfficialPackt",
+    "name": "Packt",
+    "profile": "https://yt3.googleusercontent.com/WfrfXqKCR29S5zaFHumqNZ6aBUqiBETiUrjQvVx0HHpKY-0JjQumw_JuP-sHu_ig4V1fDltLNw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LXfjyOF3xN2_9knWUbFZ89uuPHhJoG-tKy8m9NPFJ4oyVBCX4YAkJVGormkVCWdm3D6v9G13=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aNRka2ovbyY", "title": "Transformers for Natural Language Processing and Computer Vision" },
+    { "id": "G67sdqr0g-k", "title": "Generative AI with LangChain" },
+    { "id": "0c25Eh6FUdI", "title": "Developing Kaggle Notebooks" },
+    { "id": "03YqejICtU0", "title": "Bayesian Analysis with Python" },
+    { "id": "YrGwn5korC8", "title": "Implementing Multifactor Authentication I Marco Fanti I Practical Overview I Packt" },
+    { "id": "jCdofJDCHkA", "title": "Learn PostgreSQL I Author Meet-Up I Luca Ferrari I Enrico Pirozzi I Packt" },
+    { "id": "odHF6dShjRU", "title": "Industrializing Financial Services with DevOps I Spyridon Maniotis I Book Tour I Packt" },
+    { "id": "rvHYX9BNZXU", "title": "Improving CAD Designs with Autodesk Fusion 360 I Kevin Michael Land I Practical Overview I Packt" },
+    { "id": "LRIOWlhYMiI", "title": "Interpretable Machine Learning" },
+    { "id": "3Eh9-SgJkVo", "title": "Automated UI Testing in Android : Integrating with Cucumber | packtpub.com" }, 
+    { "id": "5L5pTGOzckU", "title": "Introducing Microsoft Team Foundation Server 2017 : Introduction to Team Projects | packtpub.com" }, 
+    { "id": "1Lth8GtlFkI", "title": "Continuous Integration & Delivery- Jenkins X & Kubernetes: Adding Apps to Jenkins X | packtpub.com" }, 
+    { "id": "H7_PJEi7AoQ", "title": "Modern Java Web Applications with Spring Boot 2.x : Exploring REST with Apache CXF | packtpub.com" }, 
+    { "id": "GTfxB441D5c", "title": "Modern Java Web Applications - Spring Boot 2x: Securing App Using Spring Security 5.2 | packtpub.com" }, 
+    { "id": "zwaV5L_qYDc", "title": "Hands-On React Applications with React Hooks : The Course Overview | packtpub.com" }, 
+    { "id": "G4v-wDNjxSg", "title": "Linux 5 Performance Monitoring and Tuning : Find Commands for Files | packtpub.com" }, 
+    { "id": "r6xOzQP2Y7o", "title": "Linux 5 Performance Monitoring and Tuning : Control Process with nice  | packtpub.com" }, 
+    { "id": "intH7cj4YEM", "title": "Develop and Deploy Modern Web Applications with Docker: Link Containers|packtpub.com" }, 
+    { "id": "opXqEr7-0X4", "title": "Develop and Deploy Modern Web Applications with Docker: CI/CD Overview|packtpub.com" }, 
+    { "id": "K4wPpt0QiRo", "title": "Develop and Deploy Modern Web Applications with Docker: Docker Command Line|packtpub.com" }, 
+    { "id": "QgNKBJ4_3Wg", "title": "Develop and Deploy Modern Web Applications with Docker: Steps for Dockerizing Our Appln|packtpub.com" }, 
+    { "id": "p2pnd0z6jYc", "title": "Hands-On Web Development with Bootstrap and Vue:  Designing Form Components | packtpub.com" }, 
+    { "id": "68hRMtWmTVA", "title": "Learning Linux 5 for System Administration:  Exploring the Types of Shells | packtpub.com" }, 
+    { "id": "ewaD19cG7lM", "title": "Learning Linux 5 for System Administration:  Controlling Services with systemctl | packtpub.com" }, 
+    { "id": "M5_RUn_V-Z4", "title": "Full-Stack Web Development with Flask: Creating the Base Template|packtpub.com" }, 
+    { "id": "jTZvG3sRof8", "title": "Learning Metasploit 5.0: Basics of Information Gathering |packtpub.com" }, 
+    { "id": "rPiFb03KSMU", "title": "Learning Metasploit 5.0: msfconsole|packtpub.com" }, 
+    { "id": "yjPEEapzaLo", "title": "Learning Metasploit 5.0: Privilege Escalation Overview|packtpub.com" }, 
+    { "id": "Mza5G7Jekgs", "title": "Hands-On Data Science with Java : Importing Deeplearning4j into Your Environment | packtpub.com" }, 
+    { "id": "yPZypjxe8O4", "title": "Hands-On Data Science with Java : Loading Data from Different Sources  | packtpub.com" }, 
+    { "id": "dfN8fuj5utw", "title": "Hands-On Data Science with Java : The Course Overview | packtpub.com" }, 
+    { "id": "teTtWI8kbDA", "title": "Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" }, 
+    { "id": "CgkHQZlPFLo", "title": "Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" }, 
+    { "id": "dfN8fuj5utw", "title": "Hands-On Data Science with Java : The Course Overview | packtpub.com" }, 
+    { "id": "teTtWI8kbDA", "title": "Hands-On Data Science with Java : Using Unsupervised Learning | packtpub.com" }, 
+    { "id": "CgkHQZlPFLo", "title": "Hands-On Data Science with Java : Efficient Distribution of Data | packtpub.com" } 
+  ]
+}
+
+
+

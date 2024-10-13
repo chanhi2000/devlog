@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "indianappguy",
+    "name": "Sanskar Tiwari",
+    "profile": "https://yt3.googleusercontent.com/ubn1DeACwWec3Hyg5cpa_YWNbZJ1-fxlnCDQ4UzPiwd0yl3vHjAAD13brjXRA7urtjrXYwIblw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/597-aW6RhurZYOtSDEhfxIx0PawPukT0Z_b9fKH5BcBlGxvS7oI6gBTWNn40UiL0i6Hn8nYEJlE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7jDTTmuaTDU", "title": "Talk with Any PDF document using AI for FREE" },
+    { "id": "dQzIKaNzW84", "title": "Deploy React App to Firebase Hosting 2022" },
+    { "id": "2d1fslyxBjQ", "title": "Fully Functional Messenger Clone built with Flutter & Firebase 2021" },
+    { "id": "FTju8w4zEno", "title": "Build Flutter Chat App with Firebase Auth & Firestore Part 1/4 | Flutter Tutorial For Beginners" }
+  ]
+}

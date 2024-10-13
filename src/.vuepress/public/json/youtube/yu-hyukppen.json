@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "hyukppen",
+    "name": "혁펜하임 | AI & 딥러닝 강의",
+    "profile": "https://yt3.googleusercontent.com/_EEozVzmbjjbLsMVP4smLieo0LhwC7kPmCUsEEq9t_3xexiNas9ZEsD8iIMorsnWGkw6ROlw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eeYa83qqN-KeYusIDTFBlLhMlrrzXuxxEyKji_187-skWHafkH_dt8_45zANMNKpg3_OalKtAfE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k4mZS-YWpdk", "title": "[Easy! 딥러닝] 4-2강. K-fold Cross Validation 진짜 쉽게 설명해 드려요" },
+    { "id": "Fc1VeGUaTVY", "title": "현직 웹 백엔드 개발자 2년 차의 현실적인 고민" },
+    { "id": "tbxCzN3yrVU", "title": "[Easy! 딥러닝] 3-1강. Gradient Descent 의 두 가지 치명적 단점" },
+    { "id": "goBkxDdJX8Y", "title": "[Easy! 딥러닝] 3-2강. 확률적 경사 하강법 (SGD: Stochastic Gradient Descent) 주머니 예시로 쉽게 설명해 드려요" },
+    { "id": "3U527WpOquY", "title": "[Easy! 딥러닝] 3-5강. RMSProp | 수식 없이!" },
+    { "id": "yXeUxjZTow0", "title": "이건 진짜 대박이네요.. 20달러가 아깝지 않은 GPT4 미친 활용법!!" }
+  ]
+}

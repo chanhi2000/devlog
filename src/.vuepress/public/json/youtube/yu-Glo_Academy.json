@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "Glo_Academy",
+    "name": "Glo Academy",
+    "profile": "https://yt3.googleusercontent.com/xAgOa68q7xRuIuaipFaiUbWIgszqVQQqzy9gxYtKaFZ3BRfCOp7Sq-mf5Bd8aMhWS5DAslU4N-w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3eoQsBeXcpo0lXNzI55_C8TNKX5O0d9p6YKvLuwpQziFw7h_ABh09FDraWzc_mnFjlYpzj2isQU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-yS9gC2TNJ8", "title": "Курс по WordPress // Урок 27.  Гео карты Яндекс и Google" },
+    { "id": "ErckuQuzabE", "title": "Курс по WordPress // Урок 28.  Перевод темы на другой язык" },
+    { "id": "9B6NLrECTbs", "title": "Интенсив по JS: Сайт сборки ПК на JS — День 1" },
+    { "id": "OeIikA59MKk", "title": "Курс по WordPress // Урок 30.  SEO оптимизация" },
+    { "id": "8rqm-kD8IgM", "title": "Курс по WordPress // Урок 25.  Плагин Contact Form 7 & Flamingo" },
+    { "id": "Z42qLaC7Suc", "title": "Интенсив по фронтенду. День 1: мифы о фронтенде, как попасть на работу. Открытие интенсива" },
+    { "id": "XW_-YNyHbpA", "title": "Как подключить приём платежей в крипте для сайта" },
+    { "id": "l289iu8f0Zw", "title": "Первая трансляция на курсе JavaScript (32)" },
+    { "id": "k4h2OlG1hck", "title": "Интенсив «Сервис доставки еды» на HTML/CSS/JS/Vue — финал" },
+    { "id": "dLdsUJOSYUI", "title": "Интенсив по JS: Wildberries — День 2" },
+    { "id": "Gs7OaXnrp6Q", "title": "Интенсив по JS: Wildberries — День 3" },
+    { "id": "GKRYhCs5dmU", "title": "Интенсив по JS: Wildberries — День 1" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "mahdimirzadeh",
+    "name": "Mahdi Mirzadeh",
+    "profile": "https://yt3.googleusercontent.com/EBKpe1qUHuJrWVjVZnZeMFZKMEOupDStIfVaSAg-8lW_-mzHidQSSwLSxm-zQExyyt83bZPvWQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-xRzCQ9wtWju0Cd7YFcrsQgMwdO97jySh01jx1EUTkZWUEbZL48Qy6BTo7x7vDbYS2nawzg9Iw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sOZ1KjXqdYQ", "title": "Dart Full Stack: Using the Same Code for Flutter and Backend; Part 3" },
+    { "id": "OO_-MbnXQzY", "title": "Flutter Tutorial - Full Course - Project Based" },
+    { "id": "c-ydMfJNfyY", "title": "Dart Programming Tutorial - Full Course - Project Based" }
+  ]
+}

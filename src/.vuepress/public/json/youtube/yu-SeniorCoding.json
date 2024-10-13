@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "SeniorCoding",
+    "name": "@시코 - 시니어코딩",
+    "profile": "https://yt3.googleusercontent.com/OpFndZzuAyxzq3gKcVIUVQIl-V1LrwOKeJY18sCpQIzp6ddQXmWFzSEjvES9CN0bVOhx2-ubOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7HRrj_MXepIwHax8lZiuicJIO4C-mjtFE25YX9kIPJZgHxezebzfFUFelKGyA7wR8LkcWpZd=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Cll_jaL-ZPA", "title": "{TypeScript}  - 유틸리티 타입" },
+    { "id": "ibao9XbGfvE", "title": "{자바스크립트}  - 스코프와 렉시컬 스코프" },
+    { "id": "isqpE-E3Y-8", "title": "{자바스크립트}  - 블록 스코프와 콜백 함수의 이해" },
+    { "id": "dzMHHQl3Bms", "title": "{자바스크립트}  - strict mode의 이해" },
+    { "id": "vlh-PBKWHdk", "title": "{MeetUp}  - Git Day (git 개념 총정리)" },
+    { "id": "xTg3XFNVo7o", "title": "{풀스택실무}  - AWS 프리티어 무료서버 및 DB 사용하기 (EC2 & RDS)" }, 
+    { "id": "44i8yJHxOnQ", "title": "{주말특강}  Javascript 상속에서의 prototype과 static 완벽 이해" }, 
+    { "id": "850rwqd0rmk", "title": "{결석자용:자막}  - 20210814_02 - 실무에서 스터디 요령, 인터넷 원리와 네트웍, 도커와 클라우드 등" }, 
+    { "id": "S594Vg_Z5gw", "title": "{풀스택}  - 과정소개 및 개발자를 시작하는 당신에게" }, 
+    { "id": "v-HqdWpFH_s", "title": "{책소개}  - 공인인증서는 어떻게 인증하는 거지?" }, 
+    { "id": "WRY0J9Dtd4w", "title": "{풀스택} React 이론 10강 - Rendering vs Painting" }, 
+    { "id": "gf2DnqxnwAc", "title": "{풀스택} JavaScript 2강 - VSCode 세팅, 유용한 Extension 설치와 단축키 등" }, 
+    { "id": "gQyRxPjssWg", "title": "[요청강의] Spring Sockets - WebSocket, SockJS, STOMP" }, 
+    { "id": "JVbJXDL4cdc", "title": "{풀스택#29} Git 실무 - 다양한 실무 사례(Git Trouble Shooting)" }, 
+    { "id": "ovKzvvbDjp4", "title": "[보너스강의] Spring Boot 시작하기" }, 
+    { "id": "8oEE0fgXA4M", "title": "{풀스택} MySQL 01강 - SQL 한방에 정리하기 Part 1 - DCL, DDL" }, 
+    { "id": "R35etAo0Deo", "title": "{풀스택#12} 리눅스(Linux) - 실무에서 꼭 필요한 기술 (1/2)" }, 
+    { "id": "B0ExqP8dVjk", "title": "{풀스택#1} 리눅스(Linux) 시작 - Linux, Cloud, Serverless 소개" }
+  ]
+}
+
+

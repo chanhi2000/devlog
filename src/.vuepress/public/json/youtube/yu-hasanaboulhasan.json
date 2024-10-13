@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "hasanaboulhasan",
+    "name": "H-EDUCATE",
+    "profile": "https://yt3.googleusercontent.com/obHhCYq7ftjqitIwBuMdo1eUpIbIYIXkluR7R-mK6T5Sn5jW7y3swIT6CKbo2yVLwd5i6i3e6g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/71F0gOBTyToL4aNd92Htkl4MmL_zSp11g6UoyK3QLpy7Z6JOvYtGYC9JiFI4Ixh_EdF27aSt=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Pl25QeHVjvM", "title": "Create Free AI Tools With WordPress and Gemini in 3 Minutes" },
+    { "id": "hlRf_v3g8JU", "title": "This Free AI System Will Create Unique Content in Seconds!" },
+    { "id": "aKOrHbhPhQE", "title": "Copy This Free AI Chatbot on WordPress in 5 Minutes" },
+    { "id": "9ywA1hgWKG4", "title": "How To Make Money with APIs & AI (Full Guide)" },
+    { "id": "r9PjzmUmk1w", "title": "How To Build SaaS with WordPress and Sell Points!" },
+    { "id": "ma03wkb-PzE", "title": "Digital Marketing with AI Free Course (20+ Practical Examples)" }
+  ]
+}

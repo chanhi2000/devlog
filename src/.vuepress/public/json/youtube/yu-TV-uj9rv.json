@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "TV-uj9rv",
+    "name": "쿠버네티스 TV",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb2INTWZXBL324uCHRv_ATsXtyPP3Z7lrS18WMI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dUUJaVVSHXo72U71-gxXhcNSqHf5jUXJezvapgmssOb2nL6LQFW9UgFEfVQh14fDWoHasJI8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-VvL1C3kzeA", "title": "[OPENMARU] 온나라 시스템 담당 주무관을 위한 OPENMARU APM 교육" },
+    { "id": "mYqKKl8xU4U", "title": "OPENMARU Dashboard(오픈마루 대시보드)로 풀어가는 장애처리 비밀 노하우!" },
+    { "id": "ESwzVKOYGh0", "title": "OPENMARU Dashboard로 직관적인 APM관리를 시작하세요!" },
+    { "id": "qTCoKKCDMOg", "title": "[CentOS To Container] 컨테이너에는 OS가 없다" },
+    { "id": "Wz1-w9DaaWE", "title": "[선공개] 드디어 (가칭) OPENMARU APM 통합 Dashboard 등장!!" },
+    { "id": "vmO7L3FK2I8", "title": "클라우드 네이티브 환경의 APM이 왜 중요한지 아시나요? - 2023년 6차 개방형 클라우드 플랫폼 테크 엣지 발표영상" }
+  ]
+}

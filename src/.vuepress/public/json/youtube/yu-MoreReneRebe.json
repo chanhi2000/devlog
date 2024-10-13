@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "MoreReneRebe",
+    "name": "Code Therapy w/ René Rebe",
+    "profile": "https://yt3.googleusercontent.com/TQWvInIQRiRQE3wsh_1aa2omKPgGaHSy5Rdwt3RmPWFCU5lIzKJnveUUYU99a2NdU7UNGsWDNk0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kTXCF59hk_82e1O_drwEpx1fqIROExollRG7TTOo2kVFRT5tzQR6EkszfAHn3eINM20Hl_L_QnI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y_piM-RcE0M", "title": "HOWTO: Create a new T2/Linux distribution package?" },
+    { "id": "8nKpkTckP7U", "title": "HOWTO: Update a low-code T2/Linux distribution package?" },
+    { "id": "TymtTjinN7o", "title": "Watch Unix guru FIX 4 years old Syscall restart BUG affecting all SPARC GNU Glibc systems!" },
+    { "id": "K3fsULrtooo", "title": "The most Unix-like Linux Distro that Runs (on) Everything™!" },
+    { "id": "Ap38iRjaXzM", "title": "Watch Full Stack Linux developer FIX: Rustc for Musl libc, Meson & Qemu to cross-compile!" },
+    { "id": "BkDion0zOsc", "title": "Valve, AMD & Linux Foundation are SO LAZY, I FINALLY ADDED Steam Deck support to k10temp!" },
+    { "id": "6ghNSnsEL0Q", "title": "I can't believe VIP Linux kernel developer BROKE PS3 support AGAIN and NOBODY PAYS ME FOR THIS SH1T!" },
+    { "id": "W80DJjNGE7c", "title": "Watch Firefox Linux developer debug Twitch & YouTube Livestreaming [AUDIO Codec & SANDBOX] !" },
+    { "id": "op85q548Sls", "title": "Tired of waiting for the year of Linux Desktop? I BUILT my own w/ Windows & Office compatibility!" },
+    { "id": "5-yhc4RqEXc", "title": "What I REALLY think about Microsoft Copilot+PC Recall?" },
+    { "id": "ybcu_IywK9o", "title": "Watch X.org developer bisect X and FIX multiple regressions for MOST drivers to ACTUALLY WORK AGAIN!" },
+    { "id": "QtIbtH1nFRY", "title": "Linux 6.8 is out! Watch kernel developer rebase IA-64, PowerPC64, RISCV-V and x86-64 patches!" },
+    { "id": "VpLxiiEf_ZA", "title": "Building POPULAR Linux From Scratch! What could possibly REGRESS this time?" },
+    { "id": "U8ZTRO6Hizw", "title": "Clever: YouTuber make Linux hobby a business by fixing LLVM Clang LIVE for Ad $$$!" },
+    { "id": "9cN-ra3oJwg", "title": "The LAST Linux Distribution You will EVER need: 30+ CPU architectures even PASSING it's TESTSUITE!" },
+    { "id": "4sn_E2XW7oY", "title": "I CAN'T BELIEVE how GOOD this Linux Distribution RELEASE is DEVELOPING! After work CODE PERFECTION!" },
+    { "id": "Kw8MCN5uJPg", "title": "OpenSSH backdoor'ed via XZ & Systemd on RedHat & Debian systemd: multi-year effort by state actor?" },
+    { "id": "-AG42yobl2c", "title": "INSANE effort to get all vintage & retro computers T2/Linux TESTED & SUPPORTED! ;-)" }
+  ]
+}

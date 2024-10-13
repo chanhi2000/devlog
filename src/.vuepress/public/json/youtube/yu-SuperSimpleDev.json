@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "SuperSimpleDev",
+    "name": "SuperSimpleDev",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOwoeDhHgV6Hi-bzWr8S43mH3TAihwZbXCyruoC=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "u1zojMkXR8k", "title": "JavaScript Full Course - Beginner to Pro - Part 2 Lesson 17" },
+    { "id": "NkyfWnGvnEs", "title": "JavaScript Full Course - Beginner to Pro - Part 2 Lesson 18 (Final Lesson)" },
+    { "id": "EerdGm-ehJQ", "title": "JavaScript Tutorial Full Course - Beginner to Pro (2024)" },
+    { "id": "_IB1va3E5l0", "title": "JavaScript Full Course - Beginner to Pro - Part 2 Lesson 16" },
+    { "id": "Bcz3zVogiI0", "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 2 Lesson 15" },
+    { "id": "TmcEmsyYKXE", "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 2 Lesson 13" }, 
+    { "id": "SBmSRK3feww", "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 1" }
+  ]
+}

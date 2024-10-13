@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "veamcamp",
+    "name": "빔캠프 CSS",
+    "profile": "https://yt3.googleusercontent.com/a3vK_ZCS_QUX19CV2Xx1RY-CgR7DQzpeWk14UFbKdDv0Ryjc_FPf6Uo4-8NPi34deUay87eusQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EFf1o9S90_e82cdrDKX1ImMcpinCXj8ZrkW5ikvnPLBe1osurxuqpdxb89EK0AxWZBAHUFJZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ws9sVdg9gxM", "title": "🔴 라이브 | 반응형 탭 만들기" },
+    { "id": "2p0_p6pxGro", "title": "🔴 라이브 | 글자 간격 맞추기" },
+    { "id": "6A8o6eZOlgM", "title": "🔴 라이브 | 반응형 작업!, 말 없이 코딩 :)" }, 
+    { "id": "eRv30QeI2S4", "title": "🔴 라이브 | 유지보수 고려하기" },
+    { "id": "Lm2S3Jk-sPQ", "title": "🔴 라이브 | 예제 만들며 CSS 기초 알아보기" },
+    { "id": "DWP5JtWvF9Q", "title": "🔴 라이브 | CSS 탐정" },
+    { "id": "mKJx3cLgn8U", "title": "🔴 라이브 | 프로필 페이지 만들기" },
+    { "id": "eQugArH-FSk", "title": "🔴 라이브 | 반응형 웹까지" },
+    { "id": "z79359-EWUk", "title": "🔴 라이브 | 반응형 맥주 소개 페이지 만들기" }, 
+    { "id": "kEVb77rK5OA", "title": "🔴 라이브 | 영화 소개 페이지 만들기 Part 2" }, 
+    { "id": "4XAYeWtzpq8", "title": "🔴 라이브 | 문의 게시판을 만들자. Part 1" }, 
+    { "id": "ehV-pKQKjqE", "title": "🔴 라이브 | IE를 버린다면?" }, 
+    { "id": "rhAKeUSxO0Y", "title": "CSS 소 만들기 | 티티하우스 | 빔캠프" }, 
+    { "id": "PWz1T1gprzk", "title": "CSS 그리드시스템 만들기  | 빔캠프" }, 
+    { "id": "tcX9QuRYPgw", "title": "CSS 간단한 반응형 레이아웃 만들기 | EP6 | 바이트 사이즈 | IE9+ | 빔캠프" }, 
+    { "id": "8SJKAMWpe8Y", "title": "CSS line-height, 1과 1em의 차이에 대하여  | CSS 갈증해소 프로젝트 OACSS | 빔캠프" }, 
+    { "id": "rF0h1SA6zZw", "title": "CSS 팀소개 웹페이지 만들기 | EP5 | 바이트 사이즈 | 빔캠프" }, 
+    { "id": "JeFxk-Rm8Zc", "title": "Creating and Processing Large Composite Objects with Java Sequential and Parallel Streams" }, 
+    { "id": "x_IDiUUUBfk", "title": "CSS 모달 윈도우 만들기 | EP4 | 바이트 사이즈 | 빔캠프" }
+  ]
+}

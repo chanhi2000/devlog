@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "theradlectures",
+    "name": "The Rad Lectures",
+    "profile": "https://yt3.googleusercontent.com/1NdSLVXXhTTZ0wdxmRyLoB_gUVbyk6Z28OJu-04kptecXUpX9nhL6mnYExuuqWNxP7KJyQab1A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Flkl4eTJ2uO0O-Rb5DdSAbjGK_aIwa6RJZxV-5JReXGJ_oaEihqKxAoeJkNXi3NIaoN2wq8C=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ntLYHj1lR-Y", "title": "Stop Using hjkl - 2 NeoVim Plugins to Navigate like a Chad" },
+    { "id": "rgdR27KMxpo", "title": "ZSH customization - level up your shell!" }, 
+    { "id": "rgdR27KMxpo", "title": "Customize your ZSH (auto-suggestions, prompt theme, syntax highlighting and more)" },
+    { "id": "ZjMzBd1Dqz8", "title": "How to setup Neovim from Scratch - Complete Guide (Including TMUX, Lazy and LSP)" },
+    { "id": "_lXFUagLCAc", "title": "TypeScript - Full Course - Beginner Fundamentals to Advanced Concepts" }
+  ]
+}

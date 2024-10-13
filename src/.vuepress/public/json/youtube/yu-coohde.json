@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "coohde",
+    "name": "생활코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMV0LxOrLZPkvojgUnURw6YfwMtPIcHGSeRxXXu=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ScUSzzYyaDsVVjCsBNnZAJS82j78cmL3oGLPS-v-i2kYhBNuHTJs1UIm6lGKk-APU5obTBFBIik=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "36lpDzQzVXs", "title": "JWT" },
+    { "id": "yZ89etxVBKs", "title": "Supabase - 인증과 Serverless App 구현하기" },
+    { "id": "FbLzqoENTsg", "title": "Supabase 입문수업" },
+    { "id": "0b8HHK6Zs-E", "title": "node_modules 대청소" },
+    { "id": "3xZykxAgZL4", "title": "리액트 서버 작업에 지쳤다면 - RTK Query" },
+    { "id": "T4QSK3Un4rU", "title": "Redux의 쉬운 대안 - 페북이 만든 Recoil" },
+    { "id": "vl88Q2CDcTQ", "title": "개발자 도구 - 005 - Performance 탭 - 앱이 느려졌다면" },
+    { "id": "mvHjQ2xJ5n0", "title": "파이썬으로 1분만에 웹앱 만들기 - 데이터 엔지니어에게 특히 유용" },
+    { "id": "jFjIBgjwuTc", "title": "Next.js 13 - 13 cache" },
+    { "id": "dKuLA5BGPTY", "title": "PostgreSQL 입문수업" },
+    { "id": "SLtcQdVHheQ", "title": "Next.js 13 - 14. update & delete버튼구현" },
+    { "id": "kt1YRfbsoHw", "title": "Next.js 13 - 15. 글수정" },
+    { "id": "AgtBj7XVToQ", "title": "Next.js 13 - 16. 글 삭제" },
+    { "id": "IFBMrrBjbfM", "title": "Next.js 13 - 17. 환경변수 & 졸업" },
+    { "id": "jFjIBgjwuTc", "title": "Next.js 13 - 13 cache" },
+    { "id": "c6qHnYa9pUk", "title": "기계들 간의 대화 - GraphQL" }, 
+    { "id": "4QCZxcCBtCI", "title": "WEB1 부록 :  코드의 힘 : 웹사이트 방문자 분석기" }, 
+    { "id": "K-3sBc2pUJ4", "title": "redux toolkit - thunk 를 이용해서 비동기 작업을 처리하는 방법" }, 
+    { "id": "bW_WOrYzVWw", "title": "React 2022년 개정판 - 9. Update" }, 
+    { "id": "H-4D0YBG8Ho", "title": "JS로 만드는 AI : TensorFlow.js - 10.4. 여러개의 변수 : 여러개의 종속변수" }, 
+    { "id": "y_XjBmFbHNQ", "title": "JS로 만드는 AI : TensorFlow.js - 2. 지도학습의 작업순서" }, 
+    { "id": "rPCgsu0bcM4", "title": "Pandas를 자바스크립트에서! Danfo.js" }, 
+    { "id": "s9FHdj6jd_U", "title": "AWS - Elastic Load Balancer (ELB)" }, 
+    { "id": "1AyxqIePusA", "title": "JMeter을 이용해서 웹서버 성능 테스트하기" }, 
+    { "id": "iTyjTM4Gujg", "title": "Tmux - 터미널을 더욱 효율적으로!" }, 
+    { "id": "Zn-cECPEORU", "title": "SQL JOIN - 6. FULL OUTER JOIN" }, 
+    { "id": "WnB1Kn8VbfU", "title": "SQL JOIN - 5. INNER JOIN" }, 
+    { "id": "_W97WH71Cq0", "title": "SQL JOIN - 3. JOIN 실습준비" }, 
+    { "id": "yCbJ1D1Ylik", "title": "SQL JOIN - 2. 테이블 쪼개기" }
+  ]
+}

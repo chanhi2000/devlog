@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "appbrewery",
+    "name": "London App Brewery",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kRcKOU4apMYom4t7jG-mr15F2pKD_eAfStKx_h49pVyg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BPxP1Hc3CcrXdhssnKQ7l631rmklRvk8ld-lZJ5-QFiN5VwgebSspB8g48qbK8L8AYN6qDMo1Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XQ1SxwGK520", "title": "How does the internet work?" },
+    { "id": "zgw1T5xp0-I", "title": "What is HTML?" },
+    { "id": "WRng4DAFRyc", "title": "The HTML Heading Element" },
+    { "id": "MKMg34lsFGc", "title": "The HTML Paragraph Element" },
+    { "id": "MIn8qX2Yr1E", "title": "HTML Void Elements" },
+    { "id": "ZUZf19C5Eeo", "title": "The HTML Movie Project" },
+    { "id": "pck6mdVJ6X0", "title": "The HTML Boilerplate" },
+    { "id": "qAucR9PLWX4", "title": "The HTML List Elements" },
+    { "id": "pUUwUf5AFpo", "title": "Nesting and Indentation" },
+    { "id": "uOT_yOkPQY0", "title": "The HTML Anchor Element" },
+    { "id": "Au1T4FogXR4", "title": "The HTML Image Element" },
+    { "id": "uiw4ZNvI7Tw", "title": "The HTML Birthday Invite Project" }
+  ]
+}

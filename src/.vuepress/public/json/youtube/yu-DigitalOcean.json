@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "DigitalOcean",
+    "name": "DigitalOcean",
+    "profile": "https://yt3.googleusercontent.com/1P7DJeQSLJDpbCQcUIVW9NlvA3eeb3fEAf4cB_rvl8m5m1EQAtFB85Qp9v8nadxZYuG-hBjp_0k=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZyxAt0DrdhL0fD5MPFWOxxsGEgyfKzyeIwo9YcWOlSMele-WaxfXvK66pOhsWmwRiZ1M3Q1WGQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hQXgDBMV-AA", "title": "Introducing Horizontal Scaling for Managed Kafka" },
+    { "id": "Kps7h2f44zw", "title": "Introducing Scrapable Metrics for Managed MySQl, PostgreSQL, Redis, and Kafka" },
+    { "id": "k8pCGYPeqOQ", "title": "Introducing App Platform Autoscaling" },
+    { "id": "myyG-Qlcm5s", "title": "Kubernetes Deployment with Zeet & DigitalOcean: Simplifying Application Hosting and Scaling" },
+    { "id": "ZgNm4gxSwj8", "title": "Using and Understanding Generative AI With DigitalOcean and Tabnine" },
+    { "id": "fcWyrNZVyNs", "title": "Introducing the Reimagined App Platform" },
+    { "id": "2bU1_p3_a9Y", "title": "Deploying a Static Site to App Platform" },
+    { "id": "q1MQQtx2Vw8", "title": "Managed Kubernetes Made Easy" },
+    { "id": "L41pz_VCmgg", "title": "Move to Managed MongoDB: Why you need to migrate ASAP" },
+    { "id": "0KB0PQ8qzks", "title": "What's New In Open Source Developer Tools?" },
+    { "id": "t17hy8Dxp-0", "title": "Introducing Premium General Purpose Droplets" },
+    { "id": "aHzEBvEv13E", "title": "Upgrade to Premium General Purpose Droplets" },
+    { "id": "1171ScSfIrs", "title": "Making a Node + MongoDB App on DigitalOcean" }, 
+    { "id": "WrmndNpWSJw", "title": "Build a Fullstack App With Strapi and Next.js | 1-Hour Tech Talk | DigitalOcean" }
+  ],
+  "playlists": [
+
+  ]
+}

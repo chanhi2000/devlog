@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "jonhoo",
+    "name": "Jon Gjengset",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOs0qgOO4fhDtqr62buTHsFZ5iM841vTJ6I3P7Nyw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5o87hDgbmQ5PqIdAGIW3KAqCiTzoxz0n-NrtqiV_5fOY84osjoOES9rHiMZitKMVQXt3vvV2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YlTyZvpaywQ", "title": "Decrusting the tokio crate (live version)" },
+    { "id": "o2ob8zkeq2s", "title": "Decrusting the tokio crate" },
+    { "id": "VpSXTJXX1YA", "title": "What's New in Rust 1.72-1.78 Rustacean Station marathon" },
+    { "id": "21rtHinFA40", "title": "Decrusting the tracing crate" },
+    { "id": "U8HeVjY9cig", "title": "Implementing git from scratch" },
+    { "id": "U8HeVjY9cig", "title": "Implementing (parts of) git from scratch in Rust [live version]" },
+    { "id": "u0VotuGzD_w", "title": "Implementing (parts of) git from scratch in Rust" },
+    { "id": "jf_ddGnum_4", "title": "Implementing (part of) a BitTorrent client in Rust" },
+    { "id": "r0srf3kfZbs", "title": "Making the (partial) Rust BitTorrent client more reasonable" },
+    { "id": "jSTkEPPiULs", "title": "Implementing BitTorrent (live version; part 2)" },
+    { "id": "fhEHBQog-Cc", "title": "Implementing BitTorrent (live version; part 1)" },
+    { "id": "jf_ddGnum_4", "title": "Implementing (part of) a BitTorrent client in Rust" },
+    { "id": "Wnb_n5YktO8", "title": "Decrusting the axum crate" },
+    { "id": "yOezcP-XaIw", "title": "Crust of Rust: Send, Sync, and their implementors" }, 
+    { "id": "EY7Wi9fV5bk", "title": "The Unsafe Chronicles: Exhibit A: Aliasing Boxes" }, 
+    { "id": "yozQ9C69pNs", "title": "Crust of Rust: Iterators" }, 
+    { "id": "s19G6n0UjsM", "title": "Rust at speed — building a fast concurrent database" }, 
+    { "id": "yQFWmGaFBjk", "title": "Porting Java's ConcurrentHashMap to Rust (part 1)" }
+  ]
+}

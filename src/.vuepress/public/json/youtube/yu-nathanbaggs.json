@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "nathanbaggs",
+    "name": "Nathan Baggs",
+    "profile": "https://yt3.googleusercontent.com/FuUPEOXBk9E-e8QgwQQ9GIcLwAb6b3ql_FHF2Djh0_0rZgzJe_tWqCo-p3b5pBJuk-0_1GVO=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4IIblqNNbiK3rR_8Vy-opu81s0jxFW6HLjVlvqwhJli0DmPk5ALOohHzRV8OqfKBpKbRJgBc-ZY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JNei_d0RzSg", "title": "I Made A Virus - I Instantly Regretted It" },
+    { "id": "ILY7tYdIS2Y", "title": "Hacking This Game To Cheat" },
+    { "id": "SDIdivjHoX4", "title": "How to Automate Resource Management with Custom Auto Release in C++" },
+    { "id": "ojFxJ3KNqIo", "title": "Why Use C++ and Not Python" },
+    { "id": "ojwi1rQr13w", "title": "How To Enumerate Processes On Windows" },
+    { "id": "4gb9jKZKUgk", "title": "Building A Hacking Toolkit From Scratch - Remote Process Memory" }
+  ],
+  "playlists": []
+}

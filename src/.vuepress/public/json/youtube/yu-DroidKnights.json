@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "DroidKnights",
+    "name": "DroidKnights",
+    "profile": "https://yt3.googleusercontent.com/jM-9FimVXL4vuCHp6ADi1vYl-qlUhWm7hs8TEn6fhGDVWJIrIPrXDh5fWVesgyOlnawzGQ_Pkg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H0a1_Oh7frZv7exHCVNcD9ZwToVipSIrQ-kMWzwF4c2pfBWZSosFIt6Yfr7abtxNjG7OP1vyu8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+  ],
+  "playlists": [
+    {
+      "title": "DroidKnights 2023",
+      "videos": [
+        { "id": "YK9t22I3UOQ", "title": "[DroidKnights 2023] 스케치 영상" },
+        { "id": "zQAGIQzOJcg", "title": "[DroidKnights 2023] 차영호 - Gradle Version Catalog 적용하기" },
+        { "id": "LPfpceIQ2Cw", "title": "[DroidKnights 2023] Márton Braun - Git Good with Android Studio" },
+        { "id": "dgjPgUdgO-Y", "title": "[DroidKnights 2023] 박상권 - 헤이딜러의 UX스터디 이야기" },
+        { "id": "3Eo-fVCkjPg", "title": "[DroidKnights 2023] 박주형 - Compose 첫 걸음 II Compose Migration" },
+        { "id": "gVeiIdc0g5Y", "title": "[DroidKnights 2023] 정동진 - 20년된 Naver Cafe 서비스가 Modularization로 진화하기" },
+        { "id": "x0KY6qtuNHg", "title": "[DroidKnights 2023] 김준비 - Coroutine Deep Dive - Android 실전편" },
+        { "id": "iE_2llWUI6A", "title": "[DroidKnights 2023] 안성용 - Dagger Hilt로 의존성 주입부터 멀티모듈화까지" },
+        { "id": "mcq0TMqPBSk", "title": "[DroidKnights 2023] 정정환 - 테스트 잘하는 주니어 개발자 되기" },
+        { "id": "OavSFJfdsxI", "title": "[DroidKnights 2023] Ayushi Gupta - A small leak can sink a great ship" },
+        { "id": "7iag6zpGd98", "title": "[DroidKnights 2023] 윤영직 - Gradle Kotlin 컨벤션 플러그인으로 효율적으로 멀티 모듈 관리하기" },
+        { "id": "q77WgeAUg0c", "title": "[DroidKnights 2023] 노현석 - Re:Android Studio 설정으로 생산성 올리기" },
+        { "id": "3mR8_vT7m1U", "title": "[DroidKnights 2023] 박종혁 - 빈혈(anemic) 도메인 모델과 쓸모없는 유스케이스 그리고 비대한(Bloated) 뷰모델에 대해 생각해보기" },
+        { "id": "0IPoRZgnja4", "title": "[DroidKnights 2023] 류기민 - Jetpack Media3로 좋은 콘텐츠 소비 경험 구현하기" },
+        { "id": "5vHqEhLvcdE", "title": "[DroidKnights 2023] 김용욱 - Compose Multiplatform 101" },
+        { "id": "NTR7800sXhM", "title": "[DroidKnights 2023] 정태훈 - Compose로 위젯을 만든다고?! Glance를 이용한 차량 위젯 개발기" },
+        { "id": "WRHsZHp2wBU", "title": "[DroidKnights 2023] Enrique López Mañas - Designing for foldables in 2023" },
+        { "id": "E4OmRPD332Q", "title": "[DroidKnights 2023] 이상훈 - 기존 앱을 Jetpack Compose로 마이그레이션 하기" },
+        { "id": "4hZNTL8kHPw", "title": "[DroidKnights 2023] 문예지 - APK 말고 AAR을 빌드해보시겠어요? 주니어 개발자의 SDK 개발기" }
+      ]
+    }
+  ]
+}

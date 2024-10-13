@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "SeoulWorkshop",
+    "name": "Seoul Workshop",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNtsJmWSZYtRlNe-AZ_aHCfEMjuXY_oX-4fg_GH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EwxGNKBuqJietKOnVWbLIyoIcZvXNk06PVJjt_DGCyADbpNUsiUqPv-uYAb7S2NPsvlYkoWJ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AIe2CzInGnY", "title": "(w/ KICOX) AVR Study 모임 - 05강 (2021.6)" }, 
+    { "id": "C-7CqT-uWJ0", "title": "해커톤전 STM32CubeMX 기술워크숍 (1일/3일)" }, 
+    { "id": "px8kbycyKAs", "title": "Spot Micro! w/Jetson nano, w/o ROS 04강 시뮬레이션 소개 및 환경 구성  (Jetson Nano에서는 구동 불가, 데스크탑에서 " }, 
+    { "id": "Cd5Q19xtQZc", "title": "하드웨어 기반다지기 AVR STUDY 모임 (7일차)" }, 
+    { "id": "A-oOy4UMM9E", "title": "(온라인) Jetson Nano + OpenCV 과정 (3일/5일)" }, 
+    { "id": "bAlMeVtO8Kc", "title": "하드웨어 기반다지기 AVR STUDY 모임 (5일차)" }, 
+    { "id": "cO546YTgumE", "title": "(온라인) BeagleBone-AI의 Device Driver & Device Tree 과정 (2일/2일)" }, 
+    { "id": "h5DZAnUAEuQ", "title": "하드웨어 기반다지기 AVR STUDY 모임 (3일차)" }, 
+    { "id": "LLCGfUkyzMc", "title": "비글본블루 07강 I2C 사용하기" }, 
+    { "id": "HArpsjpen5Q", "title": "전기 전자 회로 기초과정 3일 /3일" }, 
+    { "id": "KyLrukMsADw", "title": "전기 전자 회로 기초과정 2일 /3일" }, 
+    { "id": "T-d9244HEYI", "title": "메이커들을 위한 이글캐드 기본 워크숍 (2일/3일)" }, 
+    { "id": "Ih-r9PSFNcI", "title": "메이커들을 위한 이글캐드 기본 워크숍 (3일/3일)" }, 
+    { "id": "EJH02hCVF3c", "title": "Embedded 임베디드 C 언어 01강 ~ 15강 | 세타랩 문수정 이사" }, 
+    { "id": "YDooDkutJ4w", "title": "[Xamarin 자마린 ] 34강 Database-II" }, 
+    { "id": "oQ9yhOSsCWE", "title": "[Xamarin 자마린 ] 27강 Data Converter" }, 
+    { "id": "15bU6OVwgxM", "title": "mbedOS 1st ARM MbedOS 개발환경 설치(LPWA, NB-IoT 쉴드(shield), 아두이노/라즈베리파이/MBED, 코드주)" }, 
+    { "id": "TpoKvxQXVZ4", "title": "mbedOS 5th 센서라이브러리 설치 및 예제 설명(LPWA, NB-IoT 쉴드(shield), 아두이노/라즈베리파이/MBED, 코드주)" }, 
+    { "id": "Q8CjAxb_1_s", "title": "freeRTOS 워크숍 Day 2" } 
+  ]
+}

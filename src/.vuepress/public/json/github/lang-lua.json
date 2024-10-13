@@ -1,0 +1,262 @@
+[
+  {
+    "repo": "ThePrimeagen/init.lua",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "officialSite": "https://neovim.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wbthomason/packer.nvim",
+    "desc": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "williamboman/mason.nvim",
+    "desc": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "folke/lazy.nvim",
+    "desc": "💤 A modern plugin manager for Neovim",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AstroNvim/AstroNvim",
+    "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "officialSite": "https://astronvim.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "officialSite": "https://pathofbuilding.community",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bfeber/HLA-NoVR",
+    "desc": "NO VR Script for Half-Life: Alyx",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nvim-tree/nvim-web-devicons",
+    "desc": "lua `fork` of vim-web-devicons for neovim",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lvimuser/lsp-inlayhints.nvim",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["vim", "neovim", "nvim", "lsp", "nvim-plugin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "neovim/nvim-lspconfig",
+    "desc": "Quickstart configs for Nvim LSP",
+    "officialSite": "",
+    "topics": ["plugin", "vim", "neovim", "language-server", "language-server-protocol", "nvim", "lsp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jackMort/ChatGPT.nvim",
+    "desc": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
+    "officialSite": "",
+    "topics": ["neovim", "openai", "nvim-plugin", "chatgpt"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kong/kong",
+    "desc": "🦍 The Cloud-Native API Gateway",
+    "officialSite": "https://konghq.com/install/#kong-community",
+    "topics": ["docker", "nginx", "kubernetes", "iot", "devops", "microservices", "microservice", "serverless", "consul", "api-management", "api-gateway", "luajit", "reverse-proxy", "kong", "apis", "cloud-native", "kubernetes-ingress", "kubernetes-ingress-controller", "servicecontrol"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LazyVim/starter",
+    "desc": "Starter template for LazyVim",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "officialSite": "https://lazyvim.github.io/",
+    "topics": ["neovim", "neovim-conf", "neovim-config", "neovim-configuration", "neovim-plugin", "nvim"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Project-Sloth/ps-housing",
+    "desc": "Advanced housing system for QBCore.",
+    "officialSite": "https://discord.gg/projectsloth",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LunarVim/Neovim-from-scratch",
+    "desc": "📚 A Neovim config designed from scratch to be understandable",
+    "officialSite": "https://www.chrisatmachine.com",
+    "topics": ["neovim", "nvim", "neovim-dotfiles", "nvimrc", "hacktoberfest", "neovim-config", "nvim-plugin", "hacktoberfest2022"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LunarVim/LunarVim",
+    "desc": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+    "officialSite": "https://www.lunarvim.org",
+    "topics": ["vim", "snippets", "vimrc", "lua", "neovim", "ide", "vscode", "nvim", "linters", "formatters", "hacktoberfest", "neovim-configuration", "neovim-lua", "neovim-config", "neovim-setup", "lunarvim"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stevearc/conform.nvim",
+    "desc": "Lightweight yet powerful formatter plugin for Neovim",
+    "officialSite": "",
+    "topics": ["neovim", "nvim", "neovim-plugin", "nvim-plugin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kepano/flexoki",
+    "desc": "An inky color scheme for prose and code.",
+    "officialSite": "https://stephango.com/flexoki",
+    "topics": ["color-scheme"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mfussenegger/nvim-lint",
+    "desc": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
+    "officialSite": "",
+    "topics": ["hacktoberfest", "linter", "neovim", "neovim-plugin", "syntax-checker"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "josean-dev/dev-environment-files",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "craftzdog/dotfiles-public",
+    "desc": "My personal dotfiles",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ThePrimeagen/harpoon",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rose-pine/neovim",
+    "desc": "Soho vibes for Neovim",
+    "officialSite": "",
+    "topics": ["editor", "lua", "neovim", "neovim-theme", "nvim", "rose-pine", "soho-vibes", "theme", "vim", "vim-theme"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "CorsixTH/CorsixTH",
+    "desc": "Open source clone of Theme Hospital",
+    "officialSite": "",
+    "topics": ["game", "opensource", "remake", "strategy-game", "theme-hospital"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gingerbeardman/mandala",
+    "desc": "A little playground for testing pixel logic patterns.",
+    "officialSite": "",
+    "topics": ["logic", "mandala", "mandala-art", "pixels"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ejoy/ant",
+    "desc": "Ant game engine",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xmake-io/xmake",
+    "desc": "🔥 A cross-platform build utility based on Lua",
+    "officialSite": "https://xmake.io",
+    "topics": ["build", "build-tool", "c", "c-plus-plus", "cmake", "cross-toolchains", "linux", "lua", "makefile", "objective-c", "package-manager", "tbox", "visual-studio", "wdk", "xmake"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tjdevries/config.nvim",
+    "desc": "my nvim config",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "folke/tokyonight.nvim",
+    "desc": "🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+    "officialSite": "",
+    "topics": ["alacritty", "alacritty-colorscheme", "alacritty-theme", "fish-shell", "fish-theme", "iterm2", "iterm2-colors", "kitty", "kitty-themes", "neovim", "neovim-colorscheme", "neovim-lua", "neovim-theme", "vim", "vim-colorscheme", "vim-theme"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "folke/ts-comments.nvim",
+    "desc": "Tiny plugin to enhance Neovim's native comments",
+    "officialSite": "",
+    "topics": ["neovim", "neovim-plugin", "nvim", "nvim-plugin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kong/kong",
+    "desc": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+    "officialSite": "https://konghq.com/install/#kong-community",
+    "topics": ["ai", "ai-gateway", "api-gateway", "api-management", "apis", "artificial-intelligence", "cloud-native", "consul", "devops", "docker", "kong", "kubernetes", "kubernetes-ingress", "kubernetes-ingress-controller", "luajit", "microservice", "microservices", "nginx", "reverse-proxy", "serverless"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "apache/apisix",
+    "desc": "The Cloud-Native API Gateway",
+    "officialSite": "https://apisix.apache.org/blog/",
+    "topics": ["api", "api-gateway", "api-management", "apigateway", "apis", "apisix", "cloud-native", "devops", "docker", "iot", "kubernetes", "kubernetes-ingress", "kubernetes-ingress-controller", "loadbalancing", "luajit", "microservices", "nginx", "reverse-proxy", "serverless", "service-mesh"],
+    "avatar": "https://avatars.githubusercontent.com/u/47359?v=4",
+    "banner": ""
+  }, {
+    "repo": "pragtical/pragtical",
+    "desc": "The practical and pragmatic code editor.",
+    "officialSite": "https://pragtical.dev",
+    "topics": ["code", "cross-platform", "editor", "liteweight", "luajit", "sdl"],
+    "avatar": "https://avatars.githubusercontent.com/u/134111137?v=4",
+    "banner": ""
+  }, {
+    "repo": "yetone/avante.nvim",
+    "desc": "Use your Neovim like using Cursor AI IDE!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+    "banner": ""
+  }
+]

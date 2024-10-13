@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "designingi",
+    "name": "디자인하는AI",
+    "profile": "https://yt3.googleusercontent.com/9XZknLKyxcvqfcwzeULf2FzxWL7i35bpILmmPpU9DUZRd6itIGyaSStPQOHyWFm8q4TKu17m=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GUD5-FOkeNyv2x2l2-Vkk6ZXMX01gKdWVCHrSFC9IgnJ--_OCEGBQoov92mhgYypcsJfFwUqBg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fRzWKqk0rcI", "title": "AI로 누구나 쉽게 할리우드 영화 같은 스틸컷 만드는 법" },
+    { "id": "_6k1k7NtZRI", "title": "이제 AI랑 대화하면서 1분 만에 앱/웹 디자인이 가능하네.." },
+    { "id": "d6w5vxWc0Ok", "title": "평범한 이미지를 180도 극적으로 바꿔줄 가이드" },
+    { "id": "QvFoEUiVfiY", "title": "1분 만에 0원으로 극사실적인 AI 포토그래피 만들기" }
+  ]
+}

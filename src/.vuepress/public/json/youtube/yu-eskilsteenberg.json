@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "eskilsteenberg",
+    "name": "Eskil Steenberg",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQsI6BhtzkjfwttzN_ywbMdsFbDYEtNpepWJcZ6SA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/398YwAhGZ7KuDI56qED36VoHU1zovYE5mBkqNj3YwiCKSREhqN-A8x7wZkLLmg-zbqq2IxsYDw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CxKujAuz2Vw", "title": "Modern C development with Visual studio in 2023." },
+    { "id": "443UNeGrFoM", "title": "How I program C" }
+  ]
+}

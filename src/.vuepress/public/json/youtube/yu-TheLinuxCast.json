@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TheLinuxCast",
+    "name": "The Linux Cast",
+    "profile": "https://yt3.googleusercontent.com/l-8799eJHugN98KIj1b5mr1duTjDex-HVlx-nEmkN5ZGHgsyhS6P8fnGKhcbG-2qq7G2L2WDWw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lTt0SkE1widUNhRYEVSxa8dbIcdDYMAJRCP4IPYJto6FeFXpNkb455p21AEhSRLH8jEUVs7qNQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ERWVSci3kO0", "title": "Prettify Your BASH Prompt" }
+  ]
+}

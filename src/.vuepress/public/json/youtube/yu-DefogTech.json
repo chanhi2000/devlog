@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DefogTech",
+    "name": "Defog Tech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNYCawII_3lMQ9_oLlbuUPLvaz5A5TmnpOfB39upQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sN7djfs42-9-1srIXpv4itlYOBkTcQodOHvToyTIFw2t4VHwiE3ORJq6wZylgcuJB1nJZO8C=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sjMe9aecW_A", "title": "ThreadLocal in Java" }, 
+    { "id": "krLrHwRvTHc", "title": "Spring Boot Security Basics" }, 
+    { "id": "M3jNn3HMeWg", "title": "What is Spring Webflux and when to use it?" } 
+  ]
+}
+

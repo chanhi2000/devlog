@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "strager_",
+    "name": "strager",
+    "profile": "https://yt3.googleusercontent.com/ydMiJBgibhMJhqJkbeO1jd7rFuNmOpMkm41HtD1JApKgMPFcsH0GwGB7d2yTr-2tzG-vifEPBQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EVMMoDWN79E", "title": "DO NOT USE BUN (bun install is good dough)" },
+    { "id": "7VHG6Y2QmtM", "title": "Big O myths busted! (Time complexity is complicated)" }, 
+    { "id": "DMQ_HcNSOAI", "title": "Faster than Rust and C++: the PERFECT hash table" } 
+  ]
+}

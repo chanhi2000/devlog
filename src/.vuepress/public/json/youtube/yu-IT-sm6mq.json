@@ -1,0 +1,99 @@
+{
+  "channel": {
+    "id": "IT-sm6mq",
+    "name": "IT 늦공 김부장",
+    "profile": "https://yt3.googleusercontent.com/LAeJQeuJG6CXLHBXtsyS1_cD-hzP0Wp1C3yj9oEmQiIe4nN5Zzj2pSUGPLMLjaNVq1PLvHbbwg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3n0MgDCYA8I", "title": "[RPA _ UiPath] #4-2 한글 영문 변환 (웹 - 엑셀 연동)" },
+    { "id": "NkXDNGhh-l0", "title": "[RPA _ UiPath] #4-1 엑셀 컬럼 추가 (Insert Column)" },
+    { "id": "VElEmfF06zg", "title": "[RPA _ UiPath] #5-2 쇼핑몰 리스트 엑셀에 가져오기" },
+    { "id": "Px0HpfdhfII", "title": "[RPA _ UiPath] #5-1  웹 - 엑셀로 표 가져오기" },
+    { "id": "ibEP7mgyQBA", "title": "(경제적으로) 잘 사는 이야기 (개발이야기 아님), 똑똑한 재테크의 시작" },
+    { "id": "HNJ4dA4VoX8", "title": "(경제적으로) 잘 사는 이야기2 - 연금저축, IRP, ISA 이야" },
+    { "id": "cmDQIW8E8RM", "title": "#1 AI 인공지능 - 주식으로 AI 트렌드 공부해 보기" },
+    { "id": "UWs9wa2cgMw", "title": "#2 AI & 개발자 | AI 를 보면서 걱정도 되고 새로운 기대도 있고 .. 복잡 미묘한 심경 입니다." },
+    { "id": "uwti6BkJMrU", "title": "Q 그리고 A #1 Java, Js, Db, Spring 어디까지 공부해야 하나? 뻔한 답변이지만 진지하게 영상으로.." },
+    { "id": "G_s27ulYg9U", "title": "RPA #1 Prologue Why RPA - RPA 시작해 보고자 합니다." },
+    { "id": "RnVtXuZTvUw", "title": "RPA #2 Install , RPA 툴로 UiPath 를 설치합니다." },
+    { "id": "KoYnQ9HOAYY", "title": "[RPA _ UiPath] #3-1 브라우저사용 : 브라우저 검색 , 결과 값 가져오기" },
+    { "id": "XTMrY_CKwjg", "title": "[RPA _ UiPath] #3-3 이메일송부 (Out look)" },
+    { "id": "K2rwN0HxTGE", "title": "[RPA _ UiPath] #3-2 데이타 파일저장하기(메모장)" },
+    { "id": "y8wm6h_IIo8", "title": "#4 객체지향 - 상속 Inheritance | 상속을 만들어 보자" },
+    { "id": "Q2sxtbgq4Eo", "title": "#3 [객체지향] No 상속 ? 난 그런거 모름..." },
+    { "id": "liKHxyqAUdw", "title": "#2 환경설정 [객체지향] : eclipse 설치 & 기본 Class 생성" },
+    { "id": "52qeroSq2h8", "title": "#1 Intro 객체지향 개념설명 by Animal" },
+    { "id": "zgZJ21B4o_Q", "title": "#5 객체지향 - 캡슐화 Encapsulation |  접근제어자를 통한 구현" },
+    { "id": "kzeBWRn4Ew8", "title": "#7 객체지향 마무리 - Summary | 앞의 영상을 정리해보는 영상입니다. 말만 많으니 오디오만 들어도 괜찮습니다." },
+    { "id": "gxLMV-8wPns", "title": "#6 객체지향 - 다형성 Polymorphism | 클래스의 다형성, 메소드 Override, Overload" },
+    { "id": "FotYpFGY9RA", "title": "#8 자바 Interface 개념 설명 | 자바 추상화의 끝판왕" },
+    { "id": "NQTNt4pTY48", "title": "#9 자바 Interface Coding 으로 이해하기 | 자바 Interface 코딩하면서 알아보기" },
+    { "id": "PH8-V6ah0XQ", "title": "Servlet - Jsp - MVC - Spring 진화과정에 대한 리뷰 | 웹 개발 입문자에게는 꽤 좋은 내용 | 기존 개발자는  가던길을 멈추고 잠시 되돌아보는 시간을~" }
+  ],
+  "playlists": [
+    {
+      "title": "[Spring Boot + Mybatis + Jsp]  간단예제 만들기",
+      "videos": [
+        { "id": "89XVAt5V43c", "title": "[Spring Boot + Mybatis + Jsp] #1.Tool Story - 개발툴에 대한 이야기 입니다. STS , Intellij  | 내장Was, 외장Was 에 대하여" },
+        { "id": "Ib0SI0HkRUk", "title": "[Spring Boot + Mybatis + Jsp] #2.Project 만들기 - 프로젝트를 만들고, 몇 가지 설정을 하면서 그 과정을 배워갑니다." },
+        { "id": "n0rfvWVD4cA", "title": "[Spring Boot + Mybatis + Jsp] #3 Html 틀 작성 | 이번 시간은 앞으로 공부할 내용을 위해 HTML 로 틀을 만드는 작업을 해보았습니다." },
+        { "id": "lpjg7G6wnEg", "title": "[Spring Boot + Mybatis + Jsp] #4 컨트롤러 - 뷰(View) 만들기 | RequestMapping & GetMapping & PostMapping" },
+        { "id": "iAruurM0nv4", "title": "[Spring Boot + Mybatis + Jsp] #5 Header & Footer 헤더 푸터 공통부분 적용하기 | sping.mvc.view.prefix & suffix" },
+        { "id": "BNNBjUn3Zms", "title": "[Spring Boot + Mybatis + Jsp] #6 OracleConnection 환경설정 |  디펜던시, application 설정, DB 구조" },
+        { "id": "w_VsGfjvrv0", "title": "[Spring Boot + Mybatis + Jsp] #7 [Mybatis] Service - Dao - Mapper | Mybatis 프레임웍을 통해 DB(오라클) 연동을 구현." },
+        { "id": "d-UVhC2H2HU", "title": "[Spring Boot + Mybatis + Jsp] #8 Controller 에 객체를 담아서  View 에 전달 | request & model 사용" },
+        { "id": "VJSj_AsnomE", "title": "[Spring Boot + Mybatis + Jsp] #9 [Mybatis] Vo객체사용하기 | 데이타 전달을 위해 Vo 객체를 사용해 봅니다." },
+        { "id": "ipVdu9ueTCE", "title": "[Spring Boot + Mybatis + Jsp] #10 Lombok적용 | 이번 진행중인 프로젝트에 Lombok 을 추가해 보았습니다." },
+        { "id": "fsr6Hjgqdpc", "title": "[Spring Boot + Mybatis + Jsp] #11.  Resultmap & UnderscoreToCamel | 실제 실무에서 자주 사용되는 내용 프로젝트에 적용해봅니다" },
+        { "id": "OQV1nSRmblw", "title": "[Spring Boot + Mybatis + Jsp] #12  YAML파일설정 | application.properties - application.yml 환경설정파일 변환" },
+        { "id": "plGXzt8MmjU", "title": "[Spring Boot + Mybatis + Jsp]  #13 logback-spring , @Slf4j , log.info | 개발에 필요한 로그 환경을 설정해 봅니다." },
+        { "id": "KfFdX92Mmv4", "title": "[Spring Boot + Mybatis + Jsp] #14 CRUD | Mybatis - Select , Insert , Update, Delete 간단한 사용법 구현하기" },
+        { "id": "wsI2Xf3AMW8", "title": "[Spring Boot + Mybatis + Jsp] #15 Mybatis CRUD - 회원정보/가입 | Select , Insert , Update, Delete" },
+        { "id": "uqfY8v-fzQc", "title": "[Spring Boot + Mybatis + Jsp] #20 과정을 마치며" }
+      ]
+    }, {
+      "title": "SpringBoot Web 직접 만들어보기",
+      "videos": [
+        { "id": "xwvT8EspQjU", "title": "#0 Spring boot  오리엔테이션 -  프론트엔드로 웹개발 진행하기 과정을 해보고자 합니다.  | Springboot Web HTML JavaScript | 개발 로드맵" },
+        { "id": "_qTkXNVhmn4", "title": "#1  Spring boot HTML웹 언어의 중심 | HTML 을 작성해보고 웹서버에 대해서도 생각해 봅니다. | Springboot Thymeleaf HTML" },
+        { "id": "bjM3LM-9lJw", "title": "#2 Spring boot DBMS 설치 | DB에 대해 간단히 살펴보고 MariaDB 설치, Table 생성. | Springboot MariaDB" },
+        { "id": "LIDIc443bns", "title": "#3 Spring boot  프로젝트 환경을 만들어 봅니다. by IntelliJ" },
+        { "id": "T38hiEwG6Fw", "title": "#4 Spring boot  MVC 환경 만들기 | MVC  패키지 구조 생성. | Model View Controller" },
+        { "id": "pYxuWtZZ74c", "title": "#5  Spring boot DB연결 Data 처리(Getmapping) | Back-end 에서 빈번한 DB 작업 | Thymeleaf Mybatis SqlMapper" },
+        { "id": "_gqmvkQaAp0", "title": "#6 Spring boot 에서 어떻게 DB에 연결되는지 과정을 살펴봅니다. (아시는 분은 Pass) JDBC Connection" },
+        { "id": "AxskTLjFyoA", "title": "#7 Spring boot Mybatis SqlMapper | DB연결 Data 처리(post) | HTML post 방식, PostMapping" },
+        { "id": "GAiMRuWn8r8", "title": "#8 Spring boot - Mybatis - SqlMapper 등록 수정 삭제 노잼작업 | 재미는 없지만 주로 하는 작업이죠." },
+        { "id": "p2U2y_qCkqU", "title": "#9 Spring boot AJAX 활용 비동기처리 (Front 부분) | 실무에서  중요한 부분으로 웹과 백엔드 모두에 연결되는 개발기술 입니다." },
+        { "id": "yJyzD4jVgvk", "title": "#10 Spring boot AJAX 활용 비동기처리 (BackEnd 부분) | HTML - Ajax:Post , Springboot -JSONObject JSONArray" },
+        { "id": "1UKwBLz0F_8", "title": "#11 웹 화면의 처리 - 자바스크립트의 처리를 한곳에서 처리되도록 html, javascript 를 수정해 줍니다." },
+        { "id": "dF9cOXkskpg", "title": "#12. AJAX 사용의 위험성 경고 (feat 콜백함수) | 동기 비동기의 처리 순서의 중요성 & AJAX 사용 시 꼭 생각해야 하는 것" },
+        { "id": "kjQ3DRbV49E", "title": "#13 이전내용을 기초로 버전2 를 만들기 위한 기초작업을 해봅니다.  패키지 생성 , 타임리프, , Controller Service Dao SqlMapper 추가" },
+        { "id": "QpRl-rojq_Y", "title": "#14 Spring boot YAML 적용 | application.properties - application.yml" },
+        { "id": "EMORCd1pKcI", "title": "#15   Vanilla Js 에서  -  jQuery  적용 | Web Front 만지기" },
+        { "id": "UEkrGjcRj6U", "title": "#16 Spring boot | Map 에서 VO 객체로 변환하기  | Json - Map - Vo - DB 모두 Key : Value 의 형태 |" },
+        { "id": "Iftx8aZMMhE", "title": "#17  웹 화면에서 배열로 넘어온 데이타 처리 (다중처리) | 여러개의 배열값을 받아서 처리. 좀더 실무처럼 ~ | Mybatis Dynamic SqlMapper" },
+        { "id": "rRMsQaHyPPU", "title": "#17  Spring boot 웹 화면에서 배열로 넘어온 데이타 처리 (다중처리) | 어플리케이션 개발 시 DB 처리는 핵심중핵심 | Mybatis Dynamic SqlMapper" },
+        { "id": "E_vL4yP_iZg", "title": "#18. Spring boot DB Transaction (feat 당근마켓) 의 이해  @Transational , auto-commit 이해해보기" }
+      ]
+    }, {
+      "title": "Oracle DBMS | 오라클 (실전)실습",
+      "videos": [
+        { "id": "2zfQhHzOJ-I", "title": "#0. [Oracle] SQL 은 무엇일까요? DBMS 는 어떻게 생겨나게 되었을까요?" },
+        { "id": "2DkIPaUJbZc", "title": "#0.5 [Oracle] | DB 입문하시는 분들을 위한 (feat. 현업에게 엑셀로 DB 설명하기)" },
+        { "id": "V1xq_kwCph0", "title": "#1 Why DBMS & Why Oracle and Oracle 설치, Sql Developer 설치" },
+        { "id": "Kj7HKS7IYo8", "title": "#2 [Oracle] Oracle 실습 Table 구조설명 & Table 생성" },
+        { "id": "H57KyaJOTm0", "title": "#3 Oracle 실습 Table  | 유저계정 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "QooNh8GGPLY", "title": "#4 [Oracle] Oracle 실습 Table | 상품정보 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "Y2ZN40NGVp4", "title": "#5 [Oracle] Oracle 실습 Table | 주문정보 100만개 만들기 (feat. PL/SQL, 시퀀스)" },
+        { "id": "yPDfRcAc0yo", "title": "#6 [Oracle] Oracle 주문정보 테이블 검증 및 Update" },
+        { "id": "1Oi5Ui6VowY", "title": "#7 [Oracle] Oracle 실습 | FOREIGN KEY 생성 & Table | ERD 작성" },
+        { "id": "LmaTOOo8Cx8", "title": "#8 [Oracle] Oracle  커서 For Loop & Between 주의사항(날짜사용)" },
+        { "id": "OIZkdii5i-8", "title": "#9 [Oracle] | Merge Into - select , update, insert 를 한방에.." },
+        { "id": "vHx-4JBu27E", "title": "#10. [Oracle] IN vs EXIST | NOT IN vs NOT EXIST - 어떻게 구별해서 사용해야 하는지 공부해 보았습니다." },
+        { "id": "Cm-I81uwrLk", "title": "#11 [Oracle] Drop, Truncate 테이블 | 트리거로 방지하기." },
+        { "id": "Ec1gareDcEQ", "title": "#12 [Oracle] 오라클 DB 마이그레이션 (이관) 하면서 배운것에 대한 이야기" }
+      ]
+    }    
+  ]
+}

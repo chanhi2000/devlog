@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "superbeyone/JetBrainsActiveCode",
+    "desc": "Jetbrains Active Code",
+    "officialSite": "",
+    "topics": ["active", "code", "jetbrains"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jamonholmgren/qub",
+    "desc": "Qub is a CLI and QB64 web framework for building websites with QBasic. Star this repo!",
+    "officialSite": "https://qub.jamon.dev",
+    "topics": ["cli", "framework", "qb64", "qbasic", "web"],
+    "avatar": "https://avatars.githubusercontent.com/u/1479215?v=4",
+    "banner": ""
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "kishimisu",
+    "name": "kishimisu",
+    "profile": "https://yt3.googleusercontent.com/s5uXR7Ln-CR94iSDQzNNOwKGe6kAjYuJlhTg_REdKAR9Td5lfkBENrR0mKqG86c8TWoJogr6GA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5BvGxGJ4fMyb273vg_TIv5veBb9HHQgQEnBWI-8_JDWZiM1BEDQzms49kPoGKh-I2kXnyez4smQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "f4s1h2YETNY", "title": "An introduction to Shader Art Coding" }
+  ]
+}

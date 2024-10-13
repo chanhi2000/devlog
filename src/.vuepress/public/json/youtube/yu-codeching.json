@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "codeching",
+    "name": "Codeching",
+    "profile": "https://yt3.googleusercontent.com/0Kkb-nIxWWjVPLcQ0V0mZPGibleC21_9vzd2EM_jR6cAFiQpQb7cpkXwho4x1BkSBo7FuIUhCA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "o_eXXdys2AU", "title": "Remote debugging a Node.js application on Kubernetes from VsCode | Step by step" },
+    { "id": "ChGfXljp0YI", "title": "Comparing different rendering methods in React | CSR vs  SSR vs SSG vs ISR | step by step tutorial" },
+    { "id": "-pTel5FojAQ", "title": "Dockerizing a React application with Nodejs Postgres and NginX | dev and prod | step by step" }
+  ]
+}

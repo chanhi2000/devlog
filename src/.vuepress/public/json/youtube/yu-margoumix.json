@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "margoumix",
+    "name": "margoumix",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb2IhtdBy_EWVtwiN5JFNVjUSAs6nx9VaLAxOIp=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UhoJKI_SRUpI_H8zXSDRDACc4zIi5kC39Lh2AQ0SCDKJrv8fmID0d_YZk5TuUAZGlYAbXRjFs6Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7ukacKWunpU", "title": "The Stack" },
+    { "id": "qWNq8948zO4", "title": "introduction" },
+    { "id": "r5ZxHfs4ARI", "title": "1 Les Threads et les Tasks" },
+    { "id": "Gi1DAUWHetU", "title": "2 Les classes BinaryFormatter et SoapFormatter" },
+    { "id": "b8c0-XVua2Y", "title": "3 L'énumération RegexOptions" },
+    { "id": "CrbjSx_5tV0", "title": "Expression Visitor" },
+    { "id": "BXn8K5NkbFI", "title": "Implémenter la sécurité à base de JWT Javascript web token pour e cas d'une application WebAPI Core" },
+    { "id": "goJrtzALvpo", "title": "Implémentation de ASP.NET Core Identity Security à partir de zéro" }
+  ]
+}

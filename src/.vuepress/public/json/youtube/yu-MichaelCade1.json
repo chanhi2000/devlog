@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MichaelCade1",
+    "name": "Michael Cade",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMvhvPMH8i6JYkk7fXvuN5ft-0QL9szkkSd3j4SRIs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vE2-ZWkNaJ3SzqOlipHxtvellsiElmlb3pFKqjUqhKDwPKx30T66XvHV_l_jnXzMEi-3qN2P=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "g5RqYLn5exc", "title": "#90DaysOfDevOps - Overview" }
+  ]
+}

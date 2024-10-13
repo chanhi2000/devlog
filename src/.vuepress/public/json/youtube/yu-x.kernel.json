@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "x.kernel",
+    "name": "xKernel",
+    "profile": "https://yt3.googleusercontent.com/exBK37Z_WoJk1fRBNvTURQaCT8EOuPg8XnrezQlEMZ6y8C4zaT6czB0OZfEQER5yiDjvTucxeQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l9-zaFU1MMGqbkYDksU2d63QyO17XDNHucitIXSZfkkjQWNE3DznTVzq3dvwCX0_x6Dh0lvAucs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EohRpcUX6oE", "title": "Database Integration & User Registration" },
+    { "id": "H-vk-TY3tKk", "title": "Setup SQLc in Golang and Postgres on a Docker Container" },
+    { "id": "iyILNPVaynE", "title": "Building an eCommerce WebApp with Golang - Server, Router, and Endpoints" },
+    { "id": "FG8dyypXJ2k", "title": "User Registration for eCommerce WebApplication in Golang" },
+    { "id": "eRyCUemLj7A", "title": "Service Discovery in Golang" }
+  ]
+}

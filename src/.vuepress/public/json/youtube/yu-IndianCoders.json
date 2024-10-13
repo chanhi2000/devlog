@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "IndianCoders",
+    "name": "Indian Coders",
+    "profile": "https://yt3.googleusercontent.com/5grPn_mHrPh94t2LBUHgA2z1khdkdhGff2HB2Y9W6Am0MCRIhQSwtWoYu4jxfyEWU3PMh7P5RA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ADtTP8h46QPQdT4Zc2IVxBKM6GOrB1lFG-HRAo6qCaOZS_JHf-jpmLIpwOhtOJJXriDLfielFw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BEl9Q660xFA", "title": "Docker With Node.js: Dockerize Node.js Applications In Minutes 🚀" },
+    { "id": "xwjlBGTGDc4", "title": "Node.Js REST API With Express MySQL Docker" },
+    { "id": "Q6Bpoa1rQYo", "title": "🚀 Complete React Course With Projects, Tailwind, Redux, MUI, Deployment  | Part 2" },
+    { "id": "KBtH3PZwLsc", "title": "🚀 Complete React JS Course 2024 | Beginner to Pro" },
+    { "id": "LdomMuzp6jM", "title": "🚀 Complete React Course With Tailwind, Redux, MUI, Deployment (2024)" }
+  ]
+}

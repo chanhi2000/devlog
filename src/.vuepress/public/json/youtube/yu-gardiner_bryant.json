@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "gardiner_bryant",
+    "name": "Gardiner Bryant",
+    "profile": "https://yt3.googleusercontent.com/8eC25sbvvIgxTGai9Y03RmV6XtCBxgmPoxkAiE9-Nf4WTV2JjRhkBMh9UmcR5yAexTWaDOo4Ig=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pvNyKovIvS_wC-CeKUNse7nJMprVm091xGjzJ7t2O64L0Y0pn56WJPbZqA7fuUEGflhTBtiiyw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UTODIqGHCtU", "title": "I turned this Beelink SEi 12 mini PC into a Steam Machine. And it worked." },
+    { "id": "9VBb5R0L56c", "title": "Why does Malware keeps getting on the Snap Store?" },
+    { "id": "Rxm6n-cJhK4", "title": "This Mini PC became the BEST Steam Machine!" },
+    { "id": "nOoSMyjVBmY", "title": "Nintendo WANTS you to emulate" },
+    { "id": "SlZCr5rlE-s", "title": "Redis just betrayed their community." },
+    { "id": "TVaYUMrKyik", "title": "How these 6 new commands help you vibe in the terminal." }
+  ]
+}

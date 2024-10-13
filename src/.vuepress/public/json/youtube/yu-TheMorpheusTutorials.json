@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "TheMorpheusTutorials",
+    "name": "The Morpheus Tutorials",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTKgodYlpSdOM52JpQDoD-ZpV2vcp1gHP-0sgc_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mFPYqHfl6oST1OPNhXYQwRP9TMTABrfvu11NfdT6TfW1d0P7bdbl30977cL6p-WzjD1-f2RHYrg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y5wGWIAPnbc", "title": "Crowdstrike Ausfall: Technische Analyse und Lektionen" },
+    { "id": "gMoltnfCx40", "title": "80% der Softwareentwickler sind unglücklich. Was ändern wir?" },
+    { "id": "Kdb3tw_ncOk", "title": "Coding-Challenge Live vom Formula Student Germany am Hockenheimring" },
+    { "id": "DASghBRcvsI", "title": "Coding-Challenge Live vom Formula Student Austria am Red Bull Ring" },
+    { "id": "E5DGom9eOVg", "title": "Programmiersprache BEND: Code für Grafikkarten OHNE AUFWAND?" },
+    { "id": "mSisRmJ6C_g", "title": "Stable Diffusion 3: ComfyUI Tutorial und Vergleich: Ultra vs Medium" },
+    { "id": "ao_ZyQmX5Hc", "title": "Deepseek Coder v2: Schlägt GPT4-O beim CODEN!" },
+    { "id": "Hz_S7mwHjmc", "title": "Wie gut kann CLAUDE 3 hacken? HackTheBox Sau mit Claude 3" },
+    { "id": "CyFBGPw0l-o", "title": "Benchmark: Wie gut ist GOOGLEs Gemini Ultra WIRKLICH für ITler?" },
+    { "id": "4PoIlrMBBpc", "title": "Claude 3: der PERFEKTE Copilot?" },
+    { "id": "SUYXdI1kC08", "title": "Mistral, LLaMa & Co. - Use free AI giants locally" },
+    { "id": "HWO-i7RCLPQ", "title": "APIs 2023: Diese Schnittstellen-Technologien müsst ihr kennen" },
+    { "id": "FHeSnSFRzSs", "title": "MOJO: Die Python++ Sprache vom Swift-Erschaffer" },
+    { "id": "9i_1T-I8Guo", "title": "Assembler Tutorial #6 - Der Stack" }, 
+    { "id": "UjeHGXbiqLQ", "title": "GPT4All: Open Source AI can already keep up with ChatGPT!" }, 
+    { "id": "OfEgwoEooSk", "title": "Text-To-Speech in Python: Local and free with 4 lines!" }, 
+    { "id": "lfhMJHDC1fo", "title": "Why VPNs are now so FAST" }
+  ]
+}
+

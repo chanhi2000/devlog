@@ -1,0 +1,45 @@
+[
+  {
+    "repo": "SmartToolFactory/Jetpack-Compose-Tutorials",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "parasv49/Android-Internal-Notification",
+    "desc": "Android Internal Notification",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "https://gist.github.com/vilmarbfilho/1f162d09899523198a8ffd424b47ccd1",
+    "desc": "library_buildconfig",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DroidKaigi/conference-app-2023",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "EranBoudjnah/CleanArchitectureForAndroid",
+    "desc": "Clean Architecture for Android - a sample project",
+    "officialSite": "https://amzn.to/3rBSxOb",
+    "topics": ["android", "mvvm", "kotlin-android", "clean-architecture", "android-testing", "multi-module-project", "jetpack-compose", "hilt-android"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "repoFIRST-Tech-Challenge/FtcRobotController",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

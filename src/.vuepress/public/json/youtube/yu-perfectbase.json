@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "perfectbase",
+    "name": "Ravi - Perfect Base",
+    "profile": "https://yt3.googleusercontent.com/63qShdLFBt2wo50xNbOmsL8B7WgQyiRncHPVV__vBGXzkHeIKhfzX0fksipKMQCk9ZdyC7oqRg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mhdTFBh9gkk1i8xlSKIDELib_TvaZhI1slFUHX3OsIF4kTwtD1RzJiOXMjD9pfz-x2vJ9iTZ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Lkh7PNbh-Rc", "title": "Can I Make This Animation Effect With React?" },
+    { "id": "Acq9UEA2akU", "title": "Uploading Files With Next.js Just Got Way Easier" }
+  ]
+}

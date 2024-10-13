@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "makeitworktech",
+    "name": "Make It Work",
+    "profile": "https://yt3.googleusercontent.com/zJEUHDlPr_Ai_fgmfTzukgqHick7HoBsLynEUm9uZekEP7KsVG-QpcTKNWSBMFLxfJkmOZ5XuQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G5Z9P9PzFmoa7_dlGiGXnqhcL0LVjY2gCovdAwfXeClr7rqJPZODT4hPzguC5KLaiLDC4Fpk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FuS5z5s2HoM", "title": "Building a CUSTOM Workbench for DIY Projects!🛠️" },
+    { "id": "cu-Qk4xMh1Q", "title": "My new SMART HOME Network RACK! (Build and Tour)" },
+    { "id": "Nh2yYs0OXvk", "title": "Smart BATHROOM Tour + Automation Ideas!" },
+    { "id": "l0WAzAyRi8c", "title": "Best BASIC Controllers for WLED! (QuinLED, Athom, Smlight, + more)" },
+    { "id": "6p3LCtvp5fw", "title": "MAJOR Network Rack UPGRADES!" }    
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "RJCodeAdvanceEN",
+    "name": "RJ Code Advance EN",
+    "profile": "https://yt3.googleusercontent.com/xCJuzpiuh6V6mFGgeK_IFhydOGdZme5YaBewoyEitr8qqm143T3cZHdG3LXqjsP8AnS6-pRg7g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bmk4DYRNGBCguOkip_tRn9btSLLZx1qNn4WnsoJbedYxhPjaD0paQTsVwKLIK0U8SNRRPVSH=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FGqj4q09NtA", "title": "Create Login in WPF, MVVM Pattern, C# and SQL Server - Step by Step + Display user data" }, 
+    { "id": "WSBy_Ypgk38", "title": "CRUD with MVP pattern, C#, WinForms and SQL Server" }, 
+    { "id": "5AsJJl7Bhvc", "title": "C#/ Modern Flat UI + Font Awesome Icons, Multicolor, Highlight button, WinForm" }
+  ]
+}
+

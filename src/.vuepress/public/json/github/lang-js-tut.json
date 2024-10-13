@@ -1,0 +1,332 @@
+[
+  {
+    "repo": "airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "officialSite": "",
+    "topics": ["javascript", "styleguide", "eslint", "es6", "style-linter", "linting", "style-guide", "es2015", "naming-conventions", "arrow-functions", "es2017", "es2016", "tc39", "es2018"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "officialSite": "",
+    "topics": ["algorithm", "algorithms", "computer-science", "data-structures", "interview", "interview-preparation", "javascript", "javascript-algorithms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leegeunhyeok/paper",
+    "desc": "🎉 SNS 앱 예제로 배우는 프로그레시브 웹 앱 실습코드",
+    "officialSite": "http://www.yes24.com/Product/Goods/91360603",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "techreagan/vue-nodejs-youtube-clone",
+    "desc": "This is the frontend (VueJS) of the Youtube clone called VueTube.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bradtraversy/vanillawebprojects",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Th3Wall/Fakeflix",
+    "desc": "Not the usual clone that you can find on the web.",
+    "officialSite": "https://fakeflix.th3wall.codes",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "officialSite": "https://microsoft.github.io/Web-Dev-For-Beginners",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kentcdodds/react-fundamentals",
+    "desc": "Material for my React Fundamentals Workshop",
+    "officialSite": "https://epicreact.dev/fundamentals",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "judygab/web-dev-projects",
+    "desc": "Projects repo for tutorials for my YouTube Channel",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "john-smilga/react-course-v3",
+    "desc": "The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)",
+    "officialSite": "https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sumn2u/learn-javascript",
+    "desc": "A book that teaches JavaScript",
+    "officialSite": "https://javascript.sumankunwar.com.np",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "officialSite": "",
+    "topics": ["async", "book", "book-series", "closures", "education", "es2015", "es6", "javascript", "learn-to-code", "programming", "prototypes", "training-materials", "training-providers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "officialSite": "",
+    "topics": ["applications", "coding", "ideas", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "phuocng/html-dom",
+    "desc": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
+    "officialSite": "https://htmldom.dev",
+    "topics": ["javascript", "html", "typescript", "dom", "document-object-model", "dom-manipulation", "dom-api"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "phuocng/1loc",
+    "desc": "What's your favorite JavaScript single LOC (line of code)?",
+    "officialSite": "https://1loc.dev",
+    "topics": ["javascript", "tips-and-tricks", "javascript-utils", "one-liner", "eleventy", "js-tips", "one-line-code"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jonasschmedtmann/ultimate-react-course",
+    "desc": "Starter files, final projects, and FAQ for my Ultimate React course",
+    "officialSite": "",
+    "topics": ["udemy", "starter-code", "react-course"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sudheerj/javascript-interview-questions",
+    "desc": "List of 1000 JavaScript Interview Questions",
+    "officialSite": "",
+    "topics": ["react", "javascript", "vuejs", "angular", "vanilla-javascript", "javascript-applications", "javascript-interview-questions", "core-javascript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sohamkamani/javascript-design-patterns-for-humans",
+    "desc": "An ultra-simplified explanation of design patterns implemented in javascript",
+    "officialSite": "",
+    "topics": ["javascript", "design-patterns", "factory-pattern", "bridge-pattern"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "adrianhajdin/project_threejs_ai",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hiteshchoudhary/apihub",
+    "desc": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
+    "officialSite": "https://freeapi.app",
+    "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mertuner/InstagramVision",
+    "desc": "Mocking instagram app on visionOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Asabeneh/30-Days-Of-React",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "officialSite": "",
+    "topics": ["react", "redux", "javascript", "css", "html", "challenge", "website", "programming", "html5", "js", "reactjs", "webdevelopment", "react-router-dom", "30dayofjavascript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ishtms/learn-nodejs-hard-way",
+    "desc": "Master Nodejs and backend development by creating a backend web framework from scratch.",
+    "officialSite": "https://github.com/ishtms/learn-nodejs-hard-way",
+    "topics": ["nodejs", "javascript", "api", "learning", "education", "node", "programming", "server", "backend", "book", "learn-to-code", "coding", "learning-exercise", "learn", "learning-by-doing", "training-materials", "programming-fundamentals", "backend-development"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "adrianhajdin/nike_landing_page",
+    "desc": "Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.",
+    "officialSite": "https://tailwindcsspro.com",
+    "topics": ["nike", "tailwind", "tailwindcss", "nike-website"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "EmNudge/watlings",
+    "desc": "Learn WebAssembly by writing small programs!",
+    "officialSite": "",
+    "topics": ["learning", "guide", "webassembly", "wasm", "exercises", "wat", "wast"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bradtraversy/traversy-js-challenges",
+    "desc": "Challenges & docs from JS Algorithms & Data Structures course",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wesbos/JavaScript30",
+    "desc": "30 Day Vanilla JS Challenge",
+    "officialSite": "https://javascript30.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "officialSite": "",
+    "topics": ["angular", "concepts", "es6", "es6-javascript", "hacktoberfest", "javascript", "javascript-closures", "javascript-engines", "javascript-programming", "nodejs", "primitive-types", "programming", "react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "officialSite": "https://the-algorithms.com/language/javascript",
+    "topics": ["algorithm", "algorithm-challenges", "algorithms", "algorithms-implemented", "cipher", "conversions", "cryptography", "data-structures", "hacktoberfest", "javascript", "mathematics", "search", "sort", "sorting-algorithms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "denysdovhan/wtfjs",
+    "desc": "🤪 A list of funny and tricky JavaScript examples",
+    "officialSite": "http://bit.ly/wtfjavascript",
+    "topics": ["book", "handbook", "javascript", "js", "learning", "notes", "specification", "wtf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ossamamehmood/Hacktoberfest2023",
+    "desc": "Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉",
+    "officialSite": "https://hacktoberfest.com",
+    "topics": ["awesome", "contributions-welcome", "digitalocean", "first-contribution", "first-contributions", "firstcontributions", "firstpullrequest", "freecodecamp", "freetshirt", "gift", "github", "hacktoberfest", "hacktoberfest-accepted", "hacktoberfest2020", "hacktoberfest2023", "newbiefriendly", "opensource", "ossamamehmood", "pull-request", "pull-requests"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ErickWendel/semana-javascript-expert08",
+    "desc": "JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏",
+    "officialSite": "https://bit.ly/semanajsexpert08",
+    "topics": ["demuxer", "javascript", "mp4", "mp4box", "muxer", "video-processing", "video-streaming", "webcodecs", "webm", "webstream", "webworker", "workers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "reverentgeek/vuepress-authentication-tutorial",
+    "desc": "Tutorial on how to add authentication and personalization to a VuePress application",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "isno/theByteBook",
+    "desc": "⭐⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue",
+    "officialSite": "https://www.thebyte.com.cn",
+    "topics": ["cloud-native", "container", "devops", "distributed-systems", "finops", "kubernetes", "networking", "paas", "quic", "service-mesh", "sre"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LayerZero-Labs/solidity-examples",
+    "desc": "example contracts",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "100xdevs-cohort-2/assignments",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Universidade-Livre/rinha-de-algoritmos",
+    "desc": "Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!",
+    "officialSite": "",
+    "topics": ["algorithms", "algorithms-and-data-structures", "approximation-algorithms", "np-complete", "np-hard", "probabilistic-algorithms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "safak/next14-tutorial",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sudheerj/reactjs-interview-questions",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "officialSite": "",
+    "topics": ["interview-preparation", "interview-questions", "javascript", "javascript-applications", "javascript-framework", "javascript-interview-questions", "react", "react-interview-questions", "react-native", "react-router", "react16", "reactjs", "redux"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "leonardomso/33-js-concepts",
+    "desc": "📜 33 JavaScript concepts every developer should know.",
+    "officialSite": "",
+    "topics": ["angular", "concepts", "es6", "es6-javascript", "hacktoberfest", "javascript", "javascript-closures", "javascript-engines", "javascript-programming", "nodejs", "primitive-types", "programming", "react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ericdiviney/react-handbook",
+    "desc": "⚛🤌 Modern approaches to architecture and feature development in React apps.",
+    "officialSite": "https://reacthandbook.dev",
+    "topics": ["react", "react-applications", "react-architecture", "react-best-practices", "react-typescript", "reactjs"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "weinberg/SQLToy",
+    "desc": "Learn SQL by creating a SQL database in JavaScript",
+    "officialSite": "",
+    "topics": ["database", "educational-project", "javascript", "sql"],
+    "avatar": "https://avatars.githubusercontent.com/u/1189473?v=4",
+    "banner": ""
+  }, {
+    "repo": "TheOdinProject/curriculum",
+    "desc": "The open curriculum for learning web development",
+    "officialSite": "https://www.theodinproject.com/",
+    "topics": ["css", "curriculum", "hacktoberfest", "html", "javascript", "lessons", "node", "nodejs", "ruby", "ruby-on-rails", "students"],
+    "avatar": "https://avatars.githubusercontent.com/u/4441966?v=4",
+    "banner": ""
+  }, {
+    "repo": "Chalarangelo/30-seconds-of-code",
+    "desc": "Short code snippets for all your development needs",
+    "officialSite": "https://30secondsofcode.org/",
+    "topics": ["nodejs", "javascript", "css", "git", "html", "education", "snippets", "programming", "es6-javascript", "learn-to-code", "astro", "awesome-list", "snippets-collection", "learning-resources"],
+    "avatar": "https://avatars.githubusercontent.com/u/23285480?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/112507086/ffe35800-cf98-11eb-8950-120fd6e75f80"
+  }
+]

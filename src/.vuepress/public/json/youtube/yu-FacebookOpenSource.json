@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "FacebookOpenSource",
+    "name": "Meta Open Source",
+    "profile": "https://yt3.googleusercontent.com/-4z416P4BvYECLKh1Ldh8wZoPj2rMR0A3YRMBCG8yJUJp4YUy6wrQlBLPjB3eF3zUsd1BCtZeQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-u0gWDiR2lSGFr3zek1MDhOjvh25QmAMRahyyKZMKTpr1Lut8PNASceM9VF5fNk7Gn3u7IZJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yjPuayNJis8", "title": "RocksDB Meetup: 2023 End of Year" },
+    { "id": "jK0Vg8XbIXk", "title": "React Server Components: Architecture Q&A" }
+  ]
+}

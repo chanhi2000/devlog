@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "BusinessAndTech",
+    "name": "Craig Piercy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQOd8UuoG6-oNBIxXuLHAg4N-fZpugaWdzI6E1lrQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vdecyUD_ZwSJpnR8J48l2qNXueY1MAeFhjzHWgK6SjcBdq9-jFzHt2EMoZinyc1MgceQ5208=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lNJlgZ_aEKM", "title": "Installing Java on AWS EC2 instance" }
+  ]
+}

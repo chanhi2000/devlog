@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "EngineersSG",
+    "name": "Engineers.SG",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMtiOUv4FH4KUIB5iEeWhxSydybMawPciJsg5i0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xe8Ejo2eyZq9nVD2oqfEkaxFcsbvzVFVh72aSyF07WXJVQrvE7qTUqG5vwKZlz_T0C8DCWit-C8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G2dRGjgYIZQ", "title": "My first ASIC with Tiny Tapeout: PWM clone of Covox Speech Thing - Hackware v8.3" },
+    { "id": "9mP6XnxhVOY", "title": "Simple techniques to overcome EEPROM-based Planned Obsolescence - Hackware v8.3" },
+    { "id": "0l8tsGzCiRU", "title": "Building a Living Room Clock with ESP32-C6 ULP - Hackware v8.3" },
+    { "id": "7nYwMiM9pfw", "title": "Getting started with Pair-Programming - JuniorDevSG" },
+    { "id": "bS2o3xOIDLs", "title": "Building a portable Vectrex - Hackware v8.2" },
+    { "id": "FHNAd9f_XB4", "title": "XFM2 FPGA based FM synthesizer - Hackware v8.2" },
+    { "id": "micvnrWI3Bc", "title": "Setting up a dual-boot DOS 6 and Win 98 Pentium 3 test bench - Hackware v8.2" },
+    { "id": "mO37Jp9i41M", "title": "Leveraging Generative AI for Enhancing Developer Productivity - JuniorDevSG" },
+    { "id": "VzZtM3ALwOA", "title": "Venkat Subramaniam night! Refactoring from Imperative to Functional Style - Singa Dev" },
+    { "id": "LQMSww0YVzU", "title": "Everything You Never Wanted to Know About Spring Boot 3's new AOT engine - SG Java User Group" },
+    { "id": "wTuHWdfhVz8", "title": "Fun with Sensors and Browser APIs - Talk.CSS #48" }, 
+    { "id": "8opFTK2shAc", "title": "React Knowledgeable" }, 
+    { "id": "d1XzfHKOG1k", "title": "RX Java: Reactive extensions for the JVM - NUS Hackers" }, 
+    { "id": "W7UkLNZva1o", "title": "Efficient data loading in Elixir using the deferrable pattern - build super fast GraphQL resolvers" }, 
+    { "id": "CUis6-LBobA", "title": "Kubernetes Chaos Engineering: Lessons Learned in Networking - Singapore Kubernetes User Group" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "selpain",
+    "name": "셀파컴퓨터회계학원",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTyDLtjZV6FxDjpFwWFhYvuQkv6c0WwQ9S3k4mW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NtfzyPlR9peSx-JBeTegfXHJ3s4zoEhTIju-SyQfayQ0eeje_7hHSzp7bw7a4jKTJ3hlIiVXpw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "J6zWtksT3k0", "title": "[오늘의 셀뉴스] 2024년 KcLep(케이렙) 변경사항 및 개정세법 안내 #전산회계2급 #전산회계1급 #전산세무2급 #전산세무1급" },
+    { "id": "zsNlJci7uOk", "title": "02. 전산세무2급 이론_재무회계 (재무제표 종류와 특징) p.5~p.6" },
+    { "id": "eEcRelXkeK4", "title": "01. 오리엔테이션 (회계의 기초 개념)" },
+    { "id": "nNunVYSRBzU", "title": "06. 전산회계1급 이론_회계입문 (부채.수익.비용 계정과목) p.9~p.12" },
+    { "id": "Ala2LB1QfTU", "title": "05. 전산회계1급 이론_회계입문 (자산 계정과목) p.7~p.8" },
+    { "id": "OlRJQxz7vvo", "title": "04. 전산회계1급 이론_회계입문 (손익계산서의 과목분류) p.6" },
+    { "id": "-EjOSEcdFAw", "title": "03. 전산회계1급 이론_회계입문 (재무상태표의 과목분류) p.5" },
+    { "id": "GgT0VFRySeU", "title": "전산회계2급 기출문제 112회 이론 풀이 (김해성원장님)" },
+    { "id": "di4eEswfIWY", "title": "전산회계2급 기출문제 112회 실무 풀이 (김해성원장님)" },
+    { "id": "6ut3ZHKw71E", "title": "전산세무2급 기출문제 112회 실무 풀이 (김해성원장님)" },
+    { "id": "rG3SDGMuNtU", "title": "전산세무1급 기출문제 112회 실무 풀이 (김해성원장님)" },
+    { "id": "8wgeZ5k7LbA", "title": "전산세무1급 기출문제 111회 실무 풀이 (김해성원장님)" }
+  ]
+}

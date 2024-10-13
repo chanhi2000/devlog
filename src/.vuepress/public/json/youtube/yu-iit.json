@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "iit",
+    "name": "nptelhrd",
+    "profile": "https://yt3.googleusercontent.com/oJCwflCuXXvrH6UjJN32z14mjwMvvIszDDN0pWzr-a0TNaOmkzYcFOI-sY7pEHJXhmh8QRFIDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N5NgqwuzQgMvqOvFB4o11D-mfk0phrhlzRNkpFnK4tVcc4Bbtj3uHSRA03pVwJNH3j3hevlV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EKLxAJcIel0", "title": "NPTEL - LC - Awareness Workshop - GOVT. POST GRADUATE COLLEGE, GUNA - 24th Jan, 2024" },
+    { "id": "vDP-NoIvsIg", "title": "This Course Taught Dinagar To Empathize, Develop Life Skills... | NPTEL Stars at IIT Madras" },
+    { "id": "lf-YJA9NDag", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 6" },
+    { "id": "n-kIrhLSN3U", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 4" },
+    { "id": "nJlbGqdWlik", "title": "Tutorial 7 - Second law of thermodynamics - Part 3" },
+    { "id": "nqpRTY1xi_M", "title": "Tutorial 4- Systems involving ideal gas mixtures - Part 3" },
+    { "id": "p0pVLh53alI", "title": "Tutorial 9 - Thermodynamic cycles - Part 3" },
+    { "id": "v461FMwNoiM", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 2" },
+    { "id": "w-LX5_7kzsw", "title": "Tutorial 7 - Second law of thermodynamics - Part 5" },
+    { "id": "xCw61uLHap0", "title": "Tutorial 7 - Second law of thermodynamics - Part 2" },
+    { "id": "zwBN9Uj7fqU", "title": "Tutorial 9 - Thermodynamic cycles - Part 2" },
+    { "id": "b3KwdTgIIUQ", "title": "Tutorial 4- Systems involving ideal gas mixtures - Part 1" },
+    { "id": "fcYwScb6S4c", "title": "Tutorial 8 - Entropy - Part 2" },
+    { "id": "g1JTD0H2mtw", "title": "Tutorial 8 - Entropy - Part 3" },
+    { "id": "h5uh3O0hh50", "title": "Tutorial 3 - First law analysis of system - Part 3" },
+    { "id": "hFgmGLeIkS0", "title": "Tutorial 3 - First law analysis of system - Part 2" },
+    { "id": "lNsCT3JK1Fw", "title": "Tutorial 8 - Entropy - Part 5" },
+    { "id": "djTdeMSXvAA", "title": "Tutorial 6 - First law for control volumes" },
+    { "id": "eJZNcyCqaVc", "title": "Tutorial 4- Systems involving ideal gas mixtures - Part 2" },
+    { "id": "OOEuZ11u7fs", "title": "Tutorial 7 - Second law of thermodynamics - Part 4" },
+    { "id": "Qsb8JVbKhQI", "title": "Tutorial 8 - Entropy - Part 4" },
+    { "id": "-CRgju51j7c", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 1" },
+    { "id": "2JefXM4XWt8", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 5" },
+    { "id": "M8gCPTl2uSI", "title": "Tutorial 8 - Entropy - Part 1" },
+    { "id": "O8R5ZitfBy0", "title": "Tutorial 3 - First law analysis of system - Part 1" },
+    { "id": "PjjLlnwbK_o", "title": "Tutorial 5 - Systems involving Steam and R134a using table - Part 3" },
+    { "id": "URaXw6sdh5E", "title": "Tutorial 7 - Second law of thermodynamics - Part 1" },
+    { "id": "V5CVC1X5wLg", "title": "Tutorial 9 - Thermodynamic cycles - Part 1" }
+  ]
+}

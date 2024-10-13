@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "academind",
+    "name": "Academind",
+    "profile": "https://yt3.googleusercontent.com/z8m8Nc31z3PdVqbMPzS_MEApQKgXjP6faDEto0lIPXy9S50QSSMtCYHZ5V-opH73q9BAjxpb_g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j6vprjTgjWFBukddRjLZjf4Dz7aVMkNMwhdUTNYoCuYrRePBJZmOK53S7cd47IfwRtBylKs-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RUoZ2XBa_tw", "title": "Does it work & is it a good idea? 🤔" },
+    { "id": "9A6XzkhkuGY", "title": "CSS Animations & Transitions - What You Need To Know in 6 Minutes" },
+    { "id": "1QI_6Ccj0j8", "title": "Time to dive DEEP into the App Router..." },
+    { "id": "JTLDuL0BtUE", "title": "Angular 18 is EXACTLY what we needed" },
+    { "id": "t18Kzj9S8-M", "title": "Understanding Signals" },
+    { "id": "oMzdnVdoWqE", "title": "How React aims to help with cross-platform development" },
+    { "id": "174kDnSUJj4", "title": "10 Visual Studio Code Shortcuts You Should Know in 2024" },
+    { "id": "OiExSkZpKe4", "title": "How To Switch Project Easily in Visual Studio Code #visualstudiocode" },
+    { "id": "1R02JJczFBg", "title": "How To Use It & Why It's Awesome" },
+    { "id": "V1f8MOQiHRw", "title": "You might not need useEffect() ..." },
+    { "id": "ujBBiPtyAd8", "title": "Use JavaScript without writing JavaScript..." },
+    { "id": "oQiEZ8adag0", "title": "React's becoming a bit weird..." },
+    { "id": "oDDcZhKqUxQ", "title": "5 Modern CSS Features You Should Know In 2024" },
+    { "id": "zhqW8IZcOYM", "title": "CSS Container Queries #css" },
+    { "id": "hnmTiXEY4X8", "title": "You might not need useState()!" },
+    { "id": "9Y8Pvdnb1Z4", "title": "CSS text-wrap: balance #css" },
+    { "id": "AfSvZmY7kE4", "title": "This is one of the most popular ways of building websites! #webdevelopment" },
+    { "id": "59VJwevCCQg", "title": "10 Essential Git Commands You Should Understand When Working With GitHub" },
+    { "id": "AKNmoEWErks", "title": "And then Sora blew my mind ... 🤯 #sora #openai #google #gemini #ai" },
+    { "id": "d0daPe9q35w", "title": "Angular's Renaissance" }, 
+    { "id": "i9uAgkKEuNU", "title": "100 Days of Code - Web Development  Bootcamp - Full Course: Day 1 - 8" }, 
+    { "id": "t7DrJqcUviA", "title": "Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!" }, 
+    { "id": "Dorf8i6lCuk", "title": "React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial!" }, 
+    { "id": "BwuLxPH8IDs", "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!" }, 
+    { "id": "x0uinJvhNxI", "title": "Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter & Dart" }, 
+    { "id": "GLSG_Wh_YWc", "title": "Flutter Tutorial for Beginners - Build iOS and Android Apps with Google's Flutter & Dart" }, 
+    { "id": "_03VKmdrxV8", "title": "Ionic + React - Tutorial for Beginners" }, 
+    { "id": "-MlNBTSg_Ww", "title": "React.js Hooks Crash Course" }, 
+    { "id": "nteDXuqBfn0", "title": "Nuxt.js - Introduction by Project" }, 
+    { "id": "V-xK3sbc7xI", "title": "Vue 3 & A First Look at the Composition API" }, 
+    { "id": "F_oOtaxb0L8", "title": "Learn Nest.js from Scratch by building an API" }, 
+    { "id": "nSmMkeNjjPg", "title": "VueJS - CLI 3 Tutorial" }, 
+    { "id": "hOtZhNb4TKg", "title": "JavaScript Security: Hide your Code?" }
+  ]
+}
+

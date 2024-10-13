@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Lesics",
+    "name": "Lesics",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mb4J9_1Rc02r19c9Ja2JUnXn1Cd-jD5SaTFR4VaQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9ugAjKSi2atlMrNFUan7MaegJQ0r-obu8nvLwL8HbWyNUS1EzaIRKppdvN1tFf4oZVWuROFM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KMvCWFCoVN4", "title": "How did WTC 7 Collapse? | The Complete Physics" },
+    { "id": "6vrmKn3cMP8", "title": "The Mind-Blowing Engineering of London's Tower Bridge" },
+    { "id": "XK6RF8CZ9-I", "title": "Kaplan Turbines | Understanding the Giants of Hydroelectricity" }
+  ],
+  "playlists": [
+
+  ]
+}

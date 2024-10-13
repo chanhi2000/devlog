@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "VideosByDefault",
+    "name": "By Default",
+    "profile": "https://yt3.googleusercontent.com/EqvjDMgJAlc7ScZ4Uznvnhv7aBmhWuMOg_H72tEwuFQ8wlQWHxn6yVbtIMHh_lDvQ57u3Yz6JbM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XRpHIa-2XCE", "title": "Simple, Non-Commercial, Open Source Notes" }
+  ]
+}

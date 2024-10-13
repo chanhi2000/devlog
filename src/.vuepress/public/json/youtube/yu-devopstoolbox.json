@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "devopstoolbox",
+    "name": "DevOps Toolbox",
+    "profile": "https://yt3.googleusercontent.com/79i_ubkzO8n2OAQwt3fedDHEWK3MntfKD33WNCCyi41p-OSFmnhEnIvJduoQ5HxbVSDYUE2UOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YRnxfBcy2s6AtfhPokyNAGa8htn7aNfQ8NUzytB84ARhp1Qr-nB8v7yvCK5duZ0-9v4iHMtMmw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uok-bsHq-sQ", "title": "3 Ways to Build Amazing Tmux Plugins" },
+    { "id": "fs3djPAzjs0", "title": "The Greatest Linux Hack Story of All Times" },
+    { "id": "H7RFt0Pxxp8", "title": "Git Rebase: From Beginner to Expert" },
+    { "id": "g9UaW5z-hn8", "title": "Build FASTER Using Git Trees, Neovim and LazyGit" },
+    { "id": "HJtxQPJUcJc", "title": "The HIDDEN Git Trick for Resolving Merge Conflicts" },
+    { "id": "yCgieVu13VQ", "title": "My Neovim & Tmux Terminal Dev Workflow As A Principal Engineer" },
+    { "id": "x__SZUuLOxw", "title": "My Entire Neovim Setup From Scratch After 8 Years" },
+    { "id": "HjfEg1pBpjI", "title": "GitHub's Founder SECRET Git Tricks" },
+    { "id": "m4ST2dq10no", "title": "Is Nix Your New Terminal SUPERPOWER?" },
+    { "id": "WpQ5YiM7rD4", "title": "~/.dotfiles 101: A Zero to Configuration Hero Blueprint" },
+    { "id": "Em0TdAftXAA", "title": "Atuin Has Forever Changed The Way I Use Command History" },
+    { "id": "_TI8qcsiiBU", "title": "Hidden Tmux POWER: The Missing 50%" },
+    { "id": "K-FKqXj8BAQ", "title": "The Holy Grail of Neovim Git Integrations" },
+    { "id": "x78OIw5z4DM", "title": "How Containers Promote Productivity" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "kimylamp",
+    "name": "kimylamp",
+    "profile": "https://yt3.googleusercontent.com/8AuigrFw5MQlVXvGtsySHVJgspVUHQZY_02gZqZ3vWGD6vGeL-fO4rknwn7XMQLikyIWQhOQrg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/I5kSv_qufUCnSGH5ujPw0FvfbSCjBGU3hGojf9PxS4y2p_030xfcUfaDz6hMT4h9CAL_-rmPpy8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d0gS5TXarXc", "title": "Signals. I spent 2 years to understand this part." },
+    { "id": "17r77tWfYYU", "title": "machine code for function calls" }
+  ],
+  "playlists": [
+
+  ]
+}

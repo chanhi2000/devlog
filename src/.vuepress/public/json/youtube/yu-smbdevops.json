@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "smbdevops",
+    "name": "SMB DevOps",
+    "profile": "https://yt3.googleusercontent.com/yxWlFu8Cq945TM_ANBFhp1usMDIRa1VoF8CaytSV7UZBdWTyKz2hNSb6fxe7O0_7CX83DiVrMQ0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/moa14p2JH1W_PTKwwtivnmWjZ74OssaH-iDsLpgZ_m5FZ5aTz68v9f1Lmcqi3DbJjOYMPBISBw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sjN9Wi-prD0", "title": "AWS: How I snapshot large MySQL databases" },
+    { "id": "KYXYl6XisKQ", "title": "Spring Boot for PHP Developers - Get a project up and running quickly" }
+  ]
+}

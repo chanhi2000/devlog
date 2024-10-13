@@ -1,0 +1,57 @@
+{
+  "channel": {
+    "id": "coupangreveal1172",
+    "name": "CoupangReveal",
+    "profile": "https://yt3.googleusercontent.com/UIGnoBt1gYWlY2B5XWxJ6fEmSLmgWhO5SkDfMJhpoRXvvJYRzQvvlri69IQJme-7tMfwNorO=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+   
+  ],
+  "playlists": [
+    {
+      "title": "쿠팡(Coupang) | Reveal2021",
+      "videos": [
+        { "id": "BhdRoOVxPlE", "title": "Reveal2021 - CTO와 함께 하는 Fireside Chat" },
+        { "id": "ZRbOt2i2mjU", "title": "Reveal2021 - Wow the Customer Keynote (한국어)" },
+        { "id": "d2DBHf6Vp60", "title": "Reveal2021 - 초고속 해외 퀵커머스 서비스 런칭" },
+        { "id": "9edTW2kfJBc", "title": "Reveal2021 - 쿠팡 아이템 카테고리 구성을 위한 딥 다이브 프레임워크" },
+        { "id": "Z3NVgF47BIg", "title": "Reveal2021 - 쿠팡의 독자적인 A/B Testing 문화" },
+        { "id": "hQLg2T4M6gc", "title": "Reveal2021 - Zero to One: 모바일 앱 모니터링의 중요성" },
+        { "id": "g4f7p0YcVnc", "title": "Reveal2021 - 이커머스에 최적화된 디자인 시스템, RDS" },
+        { "id": "DUiJmZHzcXQ", "title": "Reveal2021 - Demand Excellence Keynote (한국어)" },
+        { "id": "qzHjK1-07fI", "title": "Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략" },
+        { "id": "A2ONw4J22r8", "title": "Reveal2021 - 쿠팡아이템의 이미지와 텍스트 매칭 정확도 향상: Embedding Technology 활용과 개선 결과" },
+        { "id": "VOAVAazH_mk", "title": "Reveal2021 - 쿠팡의 마케팅 캠페인을 위한 두가지 머신러닝 접근법" },
+        { "id": "fDJ6mEm9bXw", "title": "Reveal2021 - 쿠팡 광고 시스템의 History와 GraphQL 서비스 개발 및 운영 경험" },
+        { "id": "Y6Tfsd9S6GU", "title": "Reveal2021 - 쿠팡이 최고의 고객 경험을 위해 장애에 대처하는 방법" },
+        { "id": "C4SdsL6Xzfk", "title": "Reveal2021 - Fireside Chat with CTO (English)" },
+        { "id": "-feLG6ZetOs", "title": "Reveal2021 - Wow the Customer Keynote (English)" },
+        { "id": "f0H0OgNEKPI", "title": "Reveal2021 - Light Speed: Global Quick Commerce Launch" },
+        { "id": "YWObTYTAlQI", "title": "Reveal2021 - The Category Deep Dive Framework" },
+        { "id": "AJjvZ-zq_ow", "title": "Reveal2021 - Unique Experimentation Culture at Coupang" },
+        { "id": "1p7YjbozLl0", "title": "Reveal2021 - Zero to One: The importance of App monitoring" },
+        { "id": "4ZN5mV5nSEQ", "title": "Reveal2021 - RDS, Design System Optimized for E-commerce" },
+        { "id": "9a_LEQaRJdo", "title": "Reveal2021 - Demand Excellence Keynote (English)" },
+        { "id": "l_Q9G9azOFc", "title": "Reveal2021 - Coupang’s Back-end Strategy to Handle Massive Traffic" },
+        { "id": "lFJg8qRPr48", "title": "Reveal2021 - Item Matching Recall Enhancement by Image and Text Embedding" },
+        { "id": "CXXBhEND1LM", "title": "Reveal2021 - Two Machine Learning Approaches for Coupang’s Marketing Campaigns" },
+        { "id": "8c95F-_BUwI", "title": "Reveal2021 - History of Coupang Ads System & Journey to Develop GraphQL" },
+        { "id": "aIMKg4rF5x4", "title": "Reveal2021 - How Has Coupang Been Handling ​Incidents that Hurt Customer’s ​Order Experience?​" },
+        { "id": "-mIFoB-9NFM", "title": "Reveal 2021 - Fireside Chat with CTO (简体中文)" },
+        { "id": "f7q_vg5nCMg", "title": "Reveal2021 - Wow the Customer Keynote (简体中文)" },
+        { "id": "QNfSTDRVxts", "title": "Reveal2021 - 酷澎速度的动力源：产品设计师与品牌设计师的协同作用" },
+        { "id": "VJHw4bSmAPA", "title": "Reveal2021 - 深入框架研究，提升酷澎商品品类构成" },
+        { "id": "v9jM8D_uQ6A", "title": "Reveal2021 - 酷澎独有的A/B测试文化" },
+        { "id": "LF4s0r3XSBQ", "title": "Reveal2021 - Zero to One: 手机APP监控的重要性" },
+        { "id": "5qVOhw-Y8xo", "title": "Reveal2021 - 电子商务优化系统—RDS" },
+        { "id": "mhZpB8w6Nko", "title": "Reveal2021 - Demand Excellence Keynote (简体中文)" },
+        { "id": "a3w9yU5XyRY", "title": "Reveal2021 - 酷澎处理大规模流量的后端战略" },
+        { "id": "hW7ddaPmf44", "title": "Reveal2021 - 提升酷澎商品图片及文字匹配召回率：嵌入式技术的运用与优化" },
+        { "id": "P74y-agmS8w", "title": "Reveal2021 - 让顾客叹- 两种方式，实现更优质的推荐服务" },
+        { "id": "Dx_3dz2-MvQ", "title": "Reveal2021 - 酷澎广告系统的History与GraphQL开发" },
+        { "id": "yPv5HNjraSc", "title": "Reveal2021 - 提供最佳顾客体验，酷澎的问题解决方案" }
+      ]
+    }
+  ]
+}

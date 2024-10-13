@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "danscourses",
+    "name": "danscourses",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTT4gsvGzW1xaD43zvzy-ZfYvTSpZThX27e6XC4Qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Okl6XcZ4NII9tjZrmamXH_OVZa5AjM1UzVjHC4ASNTunn7I62Pvpz26pgn0XYOtx-zgqgc0siwA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ciM7CVIuL-I", "title": "Beginning VLAN Scenario in Packet Tracer" },
+    { "id": "_o1SGcrDhLM", "title": "6. CCNA Ch3 - Wireshark Packet Analysis for Beginners - Part 2" }
+  ]
+}

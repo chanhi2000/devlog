@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "DesignCodeTeam",
+    "name": "DesignCode",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kjS7vMgDa9LvlB6L5jLY-AX-oIU6it19KBxGVXhIrKxFc=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ICbbL5doxwWIrEyu_4C9t0Yj8x69QXMcvp7AVatDgon8WqceSSUbPKJNAcOp8IBK9EtWO6ZF=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "A7qI3HAEu18", "title": "A Step-by-Step Smart Home Design with Figma and Mobbin" },
+    { "id": "cgovoHOqS3s", "title": "Create 3D UI for iOS and visionOS in Spline - Free Course" },
+    { "id": "RJokEINz76o", "title": "Build an Interactive Site with Wix Studio - Free course" },
+    { "id": "O7AMgLh3-Go", "title": "Design and Prototype a Delivery App for iOS in Figma" },
+    { "id": "7v9lwcTSIqU", "title": "Useful Figma AI Plugins in 2024 that will speed up your design workflow" },
+    { "id": "yIMTIwjxC_M", "title": "Create a Flat UI app design in light mode in Figma - for beginners" },
+    { "id": "OzEHaiNPbL0", "title": "How to create a simple appear animation in Framer #nocode #webdesign #framer #webdevelopment" },
+    { "id": "u6quiPYzFtI", "title": "UI/UX Web Design with Mobbin and Figma" },
+    { "id": "9nIwTjG2fdI", "title": "Master No-Code Web Design with Framer - 4-hour Free Course" },
+    { "id": "b7Q2hQvBU4A", "title": "Free Web Design Course for Beginners" },
+    { "id": "ixSDNrOM3-I", "title": "Create 3D UI Interactions for Websites with Spline - Free course" },
+    { "id": "pZcwsjY81hA", "title": "UI Design Livestream: Team Components, Dos and Donts, Design Tips" },
+    { "id": "AtoweRknIKA", "title": "UI Design Livestream: Design System, Variables, Breakpoints and Framer Deployment" }, 
+    { "id": "8eyJ5RYEquI", "title": "Design an app for visionOS in Figma" },
+    { "id": "aAGJ1MNkn6c", "title": "Design and Prototype an App with Play - Full 3-hour Course" }, 
+    { "id": "5IanQIwhA4E", "title": "Web / Desktop App UI Design in Figma - Full Course" }, 
+    { "id": "ZCJyVyZH5EY", "title": "UI Design a Maps app in Figma - Full course" }, 
+    { "id": "6RjFC3sLJD0", "title": "Build and Animate a Smart Home Thermostat app in SwiftUI" }, 
+    { "id": "ipCJju7Stvg", "title": "Build a Juice Store UI from scratch with SwiftUI" }, 
+    { "id": "I9O1n4s96v4", "title": "Custom Transition Between Screens in SwiftUI - Part 2" }, 
+    { "id": "qW1wQwHmoTI", "title": "Build a FaceID Authentication System in SwiftUI" }, 
+    { "id": "b6q9vKaXtoU", "title": "Build a SwiftUI to-do app from scratch with Realm Crash Course" }, 
+    { "id": "1ipd-v_nVsQ", "title": "Reddit Login UI Using SwiftUI 3.0 + Xcode 13" }, 
+    { "id": "83MrH8PdjPc", "title": "SwiftUI 3.0 Tutorial - Complex UI + Cinema UI + PresentationMode using Xcode 13" }, 
+    { "id": "zerEdPmSMrk", "title": "SwiftUI Livestream: How we built our iOS app" }, 
+    { "id": "YuKpd16XIjo", "title": "SwiftUI Tutorial - How to create a Splash Screen using Xcode 12" }, 
+    { "id": "fjmE4YsdVE8", "title": "SwiftUI 2.0 Tutorial - How to create a Spinner using Xcode 12 Part 1" }, 
+    { "id": "37fx1RtSoZ0", "title": "SwiftUI 2.0 Tutorial - How to create a Splash Screen using Xcode 12" }
+  ]
+}

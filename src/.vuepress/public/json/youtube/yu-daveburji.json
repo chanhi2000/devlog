@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "daveburji",
+    "name": "Dave Burji",
+    "profile": "https://yt3.googleusercontent.com/m9642WLEoGe_SRcQJG6ngIgEamWWIn7DphaZuwuv7URjDoprnoJodxdYjc4xg6qL3U87y7vlKg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wbd526zDCn0V_1lXQmF22AfqLUeTs9bJk8fll6hoKTVunxqb-fKixPGv9owMfy6mXJrk9ojE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4EDiy-jbPaE", "title": "Two Pointers Sub-Patterns & Questions" },
+    { "id": "-z_pFf8YWIo", "title": "Recursion & Backtracking Patterns & Questions" },
+    { "id": "uH_jSRvTM4I", "title": "How MapReduce Works?" },
+    { "id": "Kmn89vExULw", "title": "Dynamo: How Amazon Stays \"Always On\"" },
+    { "id": "W-S0p_amT2A", "title": "The Google File System Explained" },
+    { "id": "LFuAY7xlawE", "title": "How Database Indexes Affect Query Performance" },
+    { "id": "9_3ZGJ46fQ4", "title": "how to stop scrolling & start reading." },
+    { "id": "vJPyxm_wAKM", "title": "9 Leetcode pitfalls stopping you from improving" },
+    { "id": "qjpJ-kfn07o", "title": "5 CS Concepts You'll Be Asked On" },
+    { "id": "UKP-Vca9Q4c", "title": "12-Week Leetcode Prep Guide" },
+    { "id": "teFUtO_aeaE", "title": "Sliding Window Sub-Patterns & Questions" }
+  ]
+}

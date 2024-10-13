@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "codingpiece",
+    "name": "코딩한조각",
+    "profile": "https://yt3.googleusercontent.com/E2CbK9p0oOzRgOIDqX5y3wPI3y2N4u1DqK4OUVmwXZrn99YcjNYZNNxYopQ5Yl9d6LCwI8QWkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wgZAxxfKTtw", "title": "자바한조각 - Stream 장점이 뭘까?" },
+    { "id": "IGkgTq9Vuk4", "title": "자바한조각 (16) - 클래스 안에 클래스를 선언할 수 있을까?" },
+    { "id": "vlo7-MeDYaI", "title": "자바한조각 (18) - 빌더패턴 직접 만들어보기" },
+    { "id": "H90ypql2QlY", "title": "자바한조각 - ArrayList, LinkedList 중 무엇을 사용해야할까?" },
+    { "id": "yHNfO5WsjMY", "title": "자바한조각 (13) - Getter, Setter 는 왜 사용하는 걸까?" },
+    { "id": "6X0MohlHZyI", "title": "자바한조각 (14) - 불변성은 뭐고 final 은 무엇일까?" },
+    { "id": "eNIaA_U12yY", "title": "자바한조각 (15) - static 은 왜 붙일까?" },
+    { "id": "zWo8aXcJzN8", "title": "자바한조각 (12) - 접근제어자도 어려우셨죠?" },
+    { "id": "PeTR9IfK3bc", "title": "깃헙한조각 - 깃헙 코드리뷰 한 판 정리" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "user-st5nc9ie7x",
+    "name": "슬기로운코딩생활",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZCqtq-PsY_84HRhSAUept0JL_gdM1KDPudQLn3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/c95bzgNyr_7iq1u5cVZew8grqqCtV4cIe8Y2nhmuogg6O7vspPbyjCbVNNg3waJlfTtEFrnJ-w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9dXqWP3QfKc", "title": "화면 드로잉/녹화 도구 - IPEVO Annotator" },
+    { "id": "Yr0jbSSALKE", "title": "안드로이드 앱 만들기 - #2 QR코드 스캐너" },
+    { "id": "UQX5j_fpGXU", "title": "안드로이드 스튜디오 - 전국 캠핑장 위치를 구글지도 위에 클러스터링과 히트맵으로 표시하기" }
+  ]
+}

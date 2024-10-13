@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "marketplaceAPM",
+    "name": "Marketplace APM",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnjtKzn0KB4OBJledym2I8XVfO_Ro9-GnSmwwJew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cJPtQw-ltfV10q-3sy-np9dqCcKkIWPf8xF1UuNqvNFtSBxphTJdS5KF7dbL_7LXlFEJ1Rt0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ePlEJVMrsXc", "title": "From MTV to TikTok: How Political Messaging Has Evolved | “Decoding Democracy” | Marketplace Tech" },
+    { "id": "pgmBMUKW4h4", "title": "Breaking Down Tesla’s Layoffs | Byes: Week in Review | Marketplace Tech" },
+    { "id": "Qzz5k9yWU0M", "title": "Economics on Tap | Make Me Smart Livestream" },
+    { "id": "AhAkRn9zZRM", "title": "Biden's TikTok Ban Explained | Bytes: Week in Review | Marketplace Tech" },
+    { "id": "1cxMVk2XlYI", "title": "Deepfakes and the 2024 Election | \"Decoding Democracy\" | Marketplace Tech" },
+    { "id": "P5LMTuHoS6Y", "title": "Can Deepfakes Be Used for Greater Good? | \"Decoding Democracy\" | Marketplace Tech" },
+    { "id": "GAEQIUQmZ_I", "title": "The AI Doctor Will See You Now | Bytes: Week in Review | Marketplace Tech" },
+    { "id": "ZKjLDombsX4", "title": "Netflix Breaks Up With Its Cheapest Ad-Free Subscription | Bytes: Week in Review | Marketplace Tech" },
+    { "id": "rWnAyculs18", "title": "A Robocall Crackdown | Bytes: Week in Review | Marketplace Tech" }
+  ],
+  "playlists": [
+
+  ]
+}

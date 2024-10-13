@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "eddie_the_traveler",
+    "name": "에디의 개발 여행기",
+    "profile": "https://yt3.googleusercontent.com/G9IWmyhDGkhX1XmhQ6i8UeqYg6GGVaTgLahoI1RmhmmtTL9ze0R77Cx--Iu5TYr_qPL7hU4VefA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5Np0PjhbGKL30Zrl5BkNepMAztdZfNAmXkpy2MMajxF-VbASbgkEd41oq8sABbBKC7EwJ3kMBY4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gMzYOE0TV0g", "title": "대기업 개발자는 \"Modal\" 어떻게 관리할까? 🤔" },
+    { "id": "3hcK7N3JcLo", "title": "이 코드가 답답하다면, 보세요 😅" },
+    { "id": "oJ9YwWV4KO0", "title": "와 그랬구나..." },
+    { "id": "96Io-FDSFJ8", "title": "첫 취업... 어떤 회사로 취업해야 할까?" },
+    { "id": "oUMTfwhmHIw", "title": "AI가 나를 대체한다고???" }
+  ]
+}

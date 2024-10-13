@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AAmini",
+    "name": "Alexander Amini",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTH9j8fc5Um_r174n-7r11IbwjTHjWczoGpIj8K=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kJ4X5kgmCg8nmPalyOQ6m4ETELrs4-RhaBzCLlZgG-0fOD3XN0gSAOxGQwt-sFjGgA82ZBQc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "njKP3FqW3Sk", "title": "MIT 6.S191 (2020): Introduction to Deep Learning" }
+  ]
+}

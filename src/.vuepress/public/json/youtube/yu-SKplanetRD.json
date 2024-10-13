@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "SKplanetRD",
+    "name": "SKplanetRD",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMw8WuXUkQrE3xcm4W4c0aCJZ9gsksmB7aAYpgB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EZE-aw2ndjg", "title": "Docker+Kubernetes를 이용한 빌드 서버 가상화 사례 SK플래닛@tech세미나" }
+  ]
+}

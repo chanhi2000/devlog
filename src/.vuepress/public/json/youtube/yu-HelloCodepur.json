@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "HelloCodepur",
+    "name": "Codepur",
+    "profile": "https://yt3.googleusercontent.com/pHX8Ma1wLehHZFTQyBl5Q6l-akiTV9wdM68OtcJqRDMQC7ztLqLk-P_DBOYpr_4zplDfnhaimA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OtXxGu-QcQCrmjLF0N5kPISJvRJbyNSqSm54dQda3W4uTj12m0lpM2aUlSxjd5LZQd9v806LBA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "imtmtcMy_dA", "title": "Unleash the Power of Gemini Pro: Build a Flutter App in Minutes! 😱" },
+    { "id": "P_f_3tV_2DU", "title": "Run Python inside HTML 🤩 | No Javascript" },
+    { "id": "C4iEnj7eJgc", "title": "Learn Django in 20 Mins From Scratch | New 2024 Course" },
+    { "id": "SFNyBVmErnE", "title": "10-Minute AI Boost: Build Your App with Flutterflow!" },
+    { "id": "TWNCd-1y5iI", "title": "Flutter AI - Build Your Dream Trip App! | AI-Powered Adventures" },
+    { "id": "jYoALeP3eH8", "title": "Master Flutter in 8 Hours 2.0 | Full New Course 2023 | Hindi" },
+    { "id": "omn0ikNdV5s", "title": "4 Tips to Increase Performance of IntelliJ & Android Studio | M1 Mac | Intel | Windows | Linux" }, 
+    { "id": "mNGdIBCTY2c", "title": "Music Player App Tutorial 2018 | Android | Kotlin | Android Studio" }, 
+    { "id": "0_YxopMqTCw", "title": "Swift UI 3 Full Crash Course English | Build a Pokemon App" }, 
+    { "id": "GqIXGjXu-xE", "title": "Beautiful Jetpack Compose Cleaning App UI Native Android | Speed Code" }, 
+    { "id": "T3mxUV-wByk", "title": "PK In C.O.D LiveStream Day 2 | Swagat to Karo Hamara" }, 
+    { "id": "h8cywwkAuIg", "title": "Learn Ktor | Creating HTTP APIs | Routing, ContentNegotiation, Serialization" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "BudgetNerd",
+    "name": "Budget Nerd",
+    "profile": "https://yt3.googleusercontent.com/d02M0OV1hZAlZuV00-RN4NOgPlHPF0BnrTN8CJHKKMz71RAJS6mgNZ7l9w5c5L1DxBxoAR9E1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6VYt9GkfodJPZ9rk-x6CFYhKMiCdr0msw0GcRRoPsbw81Wa7-hdF1VS3a21nt3drkGPR40w6CQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bYQnpQv7reI", "title": "Newcomer UGREEN DXP4800 Plus NAS" },
+    { "id": "XUC89rFTrr0", "title": "The new Terramaster D8 Hybrid DAS" },
+    { "id": "i1Kric5tqYk", "title": "Top 5 Free Blazor Resources (plus a couple of extras)" },
+    { "id": "Egqh5Lz7rAo", "title": "NAS 101  |  The Ultimate Guide to Network Attached Storage" },
+    { "id": "chsZZh-dZRw", "title": "How to Add a Network Jack to a Wall" }
+  ]
+}

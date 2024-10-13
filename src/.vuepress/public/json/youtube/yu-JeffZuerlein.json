@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "JeffZuerlein",
+    "name": "Jeff Zuerlein",
+    "profile": "https://yt3.googleusercontent.com/ZxRTSswN-0ctmn4EVLCAagEf1yQ2J3DUmnHOSUhRxXIaZ9pa0YzS8eWVStCkq-ZvAzcQ0ntWnA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XFy3ziNl1dQ", "title": "AuthorizationHub Developer Demo" },
+    { "id": "ofWHsMyPdak", "title": "AuthorizationHub" },
+    { "id": "fd3pzb-1T08", "title": "Deep Dive On Authorization Handlers" },
+    { "id": "_IuDA2BLnKE", "title": "Unit Testing Authorization Handlers And Policies" },
+    { "id": "N25urmmnwVo", "title": "Manage User Rights By Decorating Their Claims Identity" },
+    { "id": "82ahKYdrA5k", "title": "Entity Based Authorization: When Roles Are Not Enough..." }
+  ],
+  "playlists": [
+
+  ]
+}

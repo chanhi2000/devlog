@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "lgcnstube",
+    "name": "LG CNS",
+    "profile": "https://yt3.googleusercontent.com/GkqoXKcUgHBrWkOSCfaqeVeBwKDxQ7HDus6wVUn-CIADoPOC09yuODiZ15_vIdcpQjvuM38vLQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZfuKFD5LxOz7w3O_K1B3R8YIZndbrR1Fs46P_C_2-qsjARoAP2tKuRKhGrme4_izrTkaju7q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "740uKrQ4cUk", "title": "지진이 나도 끄떡없는 데이터센터가 있다? 미래를 지키는 'LG CNS 클라우드 데이터센터' 이야기" },
+    { "id": "oooSJpqcuYs", "title": "유연한 업무환경부터 보안까지! 스마트한 워크 플레이스 클라우드PC를 만나보세요👩🏻‍💻☁️" },
+    { "id": "PyF0YKAQPpI", "title": "[IT생네컷] 한국은행의 금융 IT시스템부터 인프라까지!🏦 금융권 최초 통합 IT아웃소싱을 위해 LG CNS 찐 베테랑들 출동✨" },
+    { "id": "qLbnZistWBI", "title": "[IT생네컷] 한국은행의 금융 IT시스템부터 인프라까지!🏦 금융권 최초 통합 IT아웃소싱을 위해 LG CNS 찐 베테랑들 출동✨" },
+    { "id": "kW6rqujtWq0", "title": "클라우드와 생성형AI! 떼어낼 수 없는 관계인 이유! ☁️ 세계 최대 클라우드 행사 AWS reInvent 에서 알아봄🇺🇸 | LG CNS" },
+    { "id": "2txdYMmeEag", "title": "클라우드는 LG CNS인 이유!☁️ 세계 최대 클라우드 행사 AWS reInvent 에서 알아봄🇺🇸 | LG CNS" },
+    { "id": "NDpxONIOmws", "title": "[DX-File] 생성형AI부터 AICC까지! LG CNS AI사업의 비밀을 파헤쳐라 #DAP #GenerativeAI #AICC #AI코딩" }
+  ]
+}

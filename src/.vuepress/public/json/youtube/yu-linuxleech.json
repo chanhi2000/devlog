@@ -1,0 +1,59 @@
+{
+  "channel": {
+    "id": "linuxleech",
+    "name": "Linux Leech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpphEsYPsIRP_doO-c_72e2cmk4aJVrjtkkw3jTg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_bobhZ3xQPaulTCPBE06Qk_4WSLIpVjEgVQCL9saKCSjlF3eHUN-HkDalPVmv2j8q3aE7__O=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QWUf45ZPAQM", "title": "Top 5 things to do after installing ubuntu 14.04 LTS ( Trusty Tahr )" }
+  ],
+  "playlists": [
+    {
+      "title": "BASH Shell tutorials for beginners",
+      "videos": [
+        { "id": "sqYUYHn-HKg", "title": "BASH Shell commands `pwd` ( commands for linux )" }, 
+        { "id": "rWJrWWOpTkE", "title": "BASH Shell command `ls` ( commands for linux )" }, 
+        { "id": "L8fD7KS9fGA", "title": "BASH Shell commands `cd` ( commands for linux )" }, 
+        { "id": "SDuNvlmTQS8", "title": "BASH Shell commands `cat` ( commands for linux )" }, 
+        { "id": "dXxBJ94D_0g", "title": "BASH Shell commands `redirection` ( commands for linux )" }, 
+        { "id": "1v6bAz3Spg4", "title": "BASH Shell commands `mkdir` ( commands for linux )" }, 
+        { "id": "BRkhwBexCuM", "title": "BASH Shell commands `rm` and `rmdir` ( commands for linux )" }, 
+        { "id": "5YgIflLST4Q", "title": "BASH Shell commands `redirection` ( commands for linux )" }, 
+        { "id": "5YgIflLST4Q", "title": "BASH Shell commands `cp` ( commands for linux )" }, 
+        { "id": "Uox5X8O2Pdk", "title": "BASH Shell commands `mv` ( commands for linux )" }, 
+        { "id": "ZQTt0LEoj3k", "title": "BASH Shell commands `less` ( commands for linux )" }, 
+        { "id": "E-SPhtL-jTM", "title": "BASH Shell commands `file` ( commands for linux )" }, 
+        { "id": "lV3npHBt1xA", "title": "BASH Shell commands dealing with spaces commands for linux" }, 
+        { "id": "FqrYjWN0TZ0", "title": "BASH Shell commands wildcards ( commands for Linux )" }, 
+        { "id": "QrkH-xwh1fI", "title": "BASH Shell commands wildcard character classes ( commands for linux )" }, 
+        { "id": "AB8FaKP-KnA", "title": "BASH Shell commands `head` ( commands for linux )" }, 
+        { "id": "9gSPo-9mLOs", "title": "BASH shell commands pipes (commands for Linux)" }, 
+        { "id": "zxa94LLhLJI", "title": "BASH Shell commands `sort` ( commands for linux )" }, 
+        { "id": "VRrd9ErU13w", "title": "Uniq utility (commands for linux)" }, 
+        { "id": "zat6vY48sro", "title": "Tail utility. Commands for linux" }, 
+        { "id": "VjAbnVpklww", "title": "Share files from your terminal in linux using `woof`" }, 
+        { "id": "SeGGfw3Vo7w", "title": "How to use your trash can from the command line" }, 
+        { "id": "OOhrUcm0Chc", "title": "Linux file permissions explained. symbolic permissions and `chmod` - part 1" }, 
+        { "id": "481qUGt8pe4", "title": "Linux permissions explained - part 2 directory permissions" }, 
+        { "id": "nd2OJEFMdho", "title": "Linux permissions explained part 3 - octal and numerical permissions" }, 
+        { "id": "VOOeXV4HYSA", "title": "Backticks Command Substitution in Linux" }, 
+        { "id": "T6C8sPB3pek", "title": "Nesting Backticks Linux Command Substitution" }, 
+        { "id": "hMGHqDz6fPc", "title": "Linux command substitution and nested substitution" }, 
+        { "id": "J8nGqkUJMxU", "title": "How to use aliases in BASH" }, 
+        { "id": "UBzFWyUF77s", "title": "How to save your BASH aliases" }, 
+        { "id": "YU4pP3cKl7w", "title": "How to Redirect Terminal Output to Another Terminal" }, 
+        { "id": "ljgvo2jM234", "title": "CRON - task scheduling in linux" }, 
+        { "id": "WqDUCfU-e-A", "title": "How to update BIOS using Linux" }, 
+        { "id": "I4xVn6Io5Nw", "title": "How to use GNU SCREEN - the Terminal Multiplexer - linux" }, 
+        { "id": "3S3I9lT6eKE", "title": "How to keep processes running over SSH without being connected - using GNU screen" }, 
+        { "id": "XVH5uyTt78M", "title": "How to Close CRASHED or FROZEN APPS - linux" }, 
+        { "id": "E_wqHbtpiQw", "title": "Use a Mouse with GNU Screen Terminal Multiplexer - Commands for Linux" }, 
+        { "id": "Lm1sYHs3-bo", "title": "How to detach from gnu linux screen" }, 
+        { "id": "kxpf-mJudO4", "title": "How to Empty Trash that Won't Delete - linux" }, 
+        { "id": "oUoGAxWrvng", "title": "How to Take Screenshots Linux - gnome-screenshot" }, 
+        { "id": "bTbDxaGo4tA", "title": "How to Split Screen your Terminal using GNU Screen" }
+      ]
+    }
+  ]
+}

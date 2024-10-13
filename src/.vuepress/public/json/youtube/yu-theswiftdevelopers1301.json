@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "theswiftdevelopers1301",
+    "name": "The Swift Developers",
+    "profile": "https://yt3.googleusercontent.com/s5kMO7onU2Tx6dOnfR6A7Jml3cziOZUOa1a2NZQGSYOk1F0biFsfsJRh91HIzYP2-f4DLGPELQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r-GRTinaAEC34dqNp9NuAWFX78pniY_UMP_bkxoPGn3oOnj7hahrld2h-reYRY1cOA0czogU8g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ARVCfGWZHRI", "title": "SwiftUI c нуля: урок 7 - NavigationView, EnvironmentObject, presentationMode, Переброс данных" }, 
+    { "id": "u2L8xEdVCfM", "title": "SwiftUI c нуля: урок 6 - UIAcitivityView, создаем кастомный UIActivity, UIViewRepresentable" }
+  ]
+}

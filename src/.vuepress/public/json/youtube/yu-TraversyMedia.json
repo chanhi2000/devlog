@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "TraversyMedia",
+    "name": "Traversy Media",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNmm74Oc3eOE8_mXJlNFDEnFnTczyOPI5cByniTfA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FGxGbXEEUNf5GWcraGa-f4PLGdDGIgOf4C6LH0PKH3ug-W8PR0tXkUq8eKPAbz8kCFKhVck7tA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NHHhiqwcfRM", "title": "Deno Crash Course" }, 
+    { "id": "-6OAHsde15E", "title": "Node.js CLI For Cryptocurrency Prices" }, 
+    { "id": "9FQrFah9rnc", "title": "Node.js GeoJSON API & App | Store Locator" }, 
+    { "id": "YK-GurROGIg", "title": "Documenting Your JavaScript | JSDoc Crash Course" }, 
+    { "id": "Xa5EU-qAv-I", "title": "VSCode Keyboard Shortcuts For Productivity" }, 
+    { "id": "wqhNoDE6pb4", "title": "NestJS Crash Course" }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Cordablockchain",
+    "name": "Corda",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM-zfotZIoGkplqPjm6QHPMeE5RL9NxTuEvLVN5=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8v6HAy5LoLOvQFrgWVurC0ixeXFpuml5HxboNeQB-wqH3ZNlcHnMn8Xv0bVYG2PfGX-nHnomWg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tEVlWOXJiwc", "title": "Should you use Kotlin for your APIs?" }, 
+    { "id": "QY-sv-dbuas", "title": "Corda Developer Bootcamp:  Accounts - EMEA" }, 
+    { "id": "cn2lhS8pjRs", "title": "Node explorer: Connect to a Corda node with a few simple clicks" }
+  ]
+}
+

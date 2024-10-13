@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DotNetMastery",
+    "name": "DotNetMastery",
+    "profile": "https://yt3.googleusercontent.com/WTh8wbhzAztdqlBwCEl7tJJGqcL_Gok2he087_VCw-in7Vqnc6Vl5Y-RowJuo55tMq4LigH_=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "AopeJjkcRvU", "title": "Introduction to ASP.NET Core MVC (.NET 8)" }
+  ]
+}

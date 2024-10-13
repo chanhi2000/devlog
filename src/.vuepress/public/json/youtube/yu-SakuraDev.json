@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "SakuraDev",
+    "name": "Sakura Dev",
+    "profile": "https://yt3.googleusercontent.com/b2oQ53GP6Q_Xr7wLUPC9-IS_XV5KwkHA92ylqDQw9aQEO0aTO9dIZjD7NcYPSRSUOg-r8oenWg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pG6pdNyCLOi9BSxhfM2dVmuLLBh0YVPH3eY93ylhocdkSjw8ioXFJv2unE2y996zYM50MhozFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0eu4_lLFkGk", "title": "Full Stack Authentication with Next-Auth and Next.js 13: All You Need to Know" }
+  ],
+  "playlists": [
+
+  ]
+}

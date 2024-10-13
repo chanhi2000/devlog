@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "codingwithmat",
+    "name": "Coding with Mat",
+    "profile": "https://yt3.googleusercontent.com/xjPq5A8fWr-fkbBaEVEPZM95CrYGqnV73DQt8VmytACcW-vv1xQul7nf08Aw3HHuIBLq2mTXnA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JsyqogQZ2MGJnCXUcRGmmfOrwVJu9BRS5BqlUup89BT0ZJZj15msH4jXcqbXFiuAMqfSBYuvnA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lC1ymQYAPrA", "title": "How to Use `Vcpkg` to Manage C++ Dependencies" }
+  ]
+}

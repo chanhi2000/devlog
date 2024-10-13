@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "JacobSorber",
+    "name": "Jacob Sorber",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQuxzK-m2a65tkT2CGKklpJNGDyzesa_LG4reQTfw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GlleVYc5GOLvkMNnTPHGxk4tkU6pvkjjzW6bQoP9JjMTJAdvew_NbmAXVgJzMmtoEKYkejBGEzE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ig3LbecXrSk", "title": "How to sort part of an array in C" },
+    { "id": "F9742wnBWRc", "title": "How do I Set, Clear, and Toggle a Single Bit?" }
+  ]
+}

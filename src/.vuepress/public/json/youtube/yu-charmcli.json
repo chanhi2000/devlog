@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "charmcli",
+    "name": "Charm CLI",
+    "profile": "https://yt3.googleusercontent.com/6HgtPFultZRWGobcJX_CAeggilo1idk-53rEZKaPuDfVkKvwZDQJ891qAkfmZNLnXcSpnQK3=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SYn6AA4VZCICUvbqvLKdZvKp2ZM2e5ZIk8OnMeJwwUS_ixF5PlxUy_Enn6_CBckjBtTpXAQC6QA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IMd05f0Msyg", "title": "You WILL glamourize your CLI" },
+    { "id": "ss-DOiHrEjM", "title": "Custom CLI tables just got easier (ft. Lip Gloss)" },
+    { "id": "yiFhQGJeRJk", "title": "Building Taskwarrior in Golang using Cobra and Charm tools" },
+    { "id": "Wg0Vev_oxmM", "title": "Behind the scenes: how to build popular open source software" }
+  ],
+  "playlists": [
+
+  ]
+}

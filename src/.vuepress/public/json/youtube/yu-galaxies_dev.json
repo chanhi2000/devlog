@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "galaxies_dev",
+    "name": "Simon Grimm",
+    "profile": "https://yt3.googleusercontent.com/-7THQ3F7XczON7lUlwCuc4HZLMXhoRS0Yuo1UqsO4a0u6JaPQCiHkqJJUy8OurLwcroSZYjiOeE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hhUHdOC6gaKQN1hD7_lrXbPWs_sBUx-ytw9dBHLVaMm_Q3TwfbXHtFrpfJ1gJ0ynmibouwWPT3A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iMFUWaIEzOs", "title": "React Native Security: Lock Screen, Face ID & Privacy Overlay" },
+    { "id": "8CZy6DjDXK0", "title": "10 EPIC React Native Animation Libraries" },
+    { "id": "rqbu-nGkOgw", "title": "React Native Multiplayer with Supabase Realtime and Skia" },
+    { "id": "5IJgN0b3Sik", "title": "These React Native Apps are 🔥 | App Review" },
+    { "id": "eOWxKkHakyY", "title": "React Native IDE BETA 🔥" },
+    { "id": "wqS8LqRhNVY", "title": "Expo SDK 51: New Packages, Router, Architecture & Template" },
+    { "id": "8ztx68SUOQo", "title": "Build a ChatGPT Clone with React Native (Expo, SQLite, RevenueCat, Clerk, OpenAI)" },
+    { "id": "mhos9givltA", "title": "10 Takeaways for React Native Devs from the App.js conference" },
+    { "id": "cs-zgHjt5RQ", "title": "Every Way to Build your React Native App with Expo | Expo Go, Prebuild, Xcode, Android Studio & EAS" },
+    { "id": "xvvVGOyRgZg", "title": "Building a Local-First React Native App with PowerSync and Supabase" },
+    { "id": "G5TjXRHoEno", "title": "Build a Kids Drawing App with React Native" },
+    { "id": "cMi6Vwo6C2M", "title": "Role Based Navigation in React Native with Expo Router" },
+    { "id": "2yvjgwTZOUY", "title": "The Best Stack for Universal React Apps" },
+    { "id": "iDZBeIgcixk", "title": "Build a FinTech Clone with React Native (API Routes, Zustand, Tanstack Query, FaceID, Charts, Clerk)" },
+    { "id": "D_14xgyW4Rk", "title": "React Native with HTML?" },
+    { "id": "shaGaiwu4Fg", "title": "React Native just got better" },
+    { "id": "gzehQxHxtfw", "title": "Can this replace NextJS?" },
+    { "id": "COH_XhlMyZ4", "title": "The Time for React Native is NOW" },
+    { "id": "iWzUZiVoiR0", "title": "Airbnb Clone with React Native (Expo Router, Authentication, Reanimated, Clerk)" },
+    { "id": "NHNb--ISlig", "title": "Migrating from React Navigation to Expo Router" },
+    { "id": "VUhaDTKYBJU", "title": "Build a WhatsApp Clone with React Native (Expo Router, Reanimated, Clerk, Gestures, Gifted Chat)" },
+    { "id": "SnhNHjqIbNw", "title": "Local-First is the Future, Here’s Why" },
+    { "id": "Xwk4rcB6qVQ", "title": "THE React Native Tech Stack for 2024 😎" },
+    { "id": "OT5hQbvGRW8", "title": "Better than React Native Stylesheet 💪" },
+    { "id": "LIMyd5FoKyc", "title": "The Worlds Best Apps use React Native" },
+    { "id": "EsKFEiJivOE", "title": "I reviewed your apps... Here's what I found! | React Native Apps" },
+    { "id": "tbrJJkSYQ04", "title": "Building Modern Angular 17 Apps with Ionic and Standalone Components" },
+    { "id": "6taIy38ymr0", "title": "Learn how to use Expo and React Native with @CodingCatDev" },
+    { "id": "MRp9ttALmtY", "title": "React Native Tab Bar Custom Action Trick 😱" },
+    { "id": "q5aHNr4jsHM", "title": "Why I moved to React Native" },
+    { "id": "r9t0mnG1ZJ0", "title": "Use this Expo Router trick for Platform specific code (iOS, Android & web)" },
+    { "id": "r_Smo78tv8Y", "title": "Building Universal React Native Apps (Expo Router, Tamagui, Tanstack Query)" },
+    { "id": "8adaX330FdI", "title": "Build a Live Meeting React Native App with Stream Video Call & Chat Integration" },
+    { "id": "iWzUZiVoiR0", "title": "Airbnb Clone with React Native (Expo Router, Authentication, Reanimated, Clerk)" }, 
+    { "id": "_IyWSsFXLcA", "title": "React Native Maps with Marker & Callout" },
+    { "id": "wsZ_mjXk6Hg", "title": "10 Must-Have React Native Components 😎" },
+    { "id": "oIEykI5oagI", "title": "How to Present a React Native Bottom Sheet" },
+    { "id": "tFnNBhr0WTw", "title": "Build your own AI Shopping App with React Native and Supabase Vector" },
+    { "id": "FXpwVLiKowc", "title": "How to Fix CORS Issues with Native HTTP Calls" },
+    { "id": "FXnnCrfiNGM", "title": "Deliveroo Food Ordering Clone with React Native (Expo Router, Zustand, Reanimated, Google API)" }
+  ],
+  "playlists": [
+    
+  ]
+}

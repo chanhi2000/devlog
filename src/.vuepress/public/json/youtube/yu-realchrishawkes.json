@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "realchrishawkes",
+    "name": "Chris Hawkes",
+    "profile": "https://yt3.googleusercontent.com/oQ06yo6-qMJTe4xZqKouJTgCR7mhlooqKVixOcSTUpAWLu9Lmsm-hke2Y1vYKcOC45RKy2n-UE8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LzmkguCvEaBRZ7PeLvmii-BtATgpRBzvKEbReMCQkR9caxBGGnx5vHjoBYbIiGJMM6SP751L=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "INYeTdiJcU0", "title": "My Thoughts on Devin AI" },
+    { "id": "srgPXfVh6zI", "title": "Overhyped AI" },
+    { "id": "QdyfJmpNvzw", "title": "Why I Left Linode/Akamai After 10 Years" },
+    { "id": "6AOJYnWCzeU", "title": "Programmer Struggles: Tip 1- Tackling the Context Switching Dilemma" },
+    { "id": "AwdeoWH85gk", "title": "Learning Litestar On the Fly" },
+    { "id": "vaKNPXEJQcY", "title": "Why Every Dev Needs NVM! |💪" },
+    { "id": "2Q-FuHqJ0Ao", "title": "Python Django - My First Love ❤️" },
+    { "id": "ppKCMU-kjLE", "title": "Unleash the POWER of Windows WSL! Master Linux Like a PRO" },
+    { "id": "-3hr_oemNzQ", "title": "Must Have Extensions for VS Code in 2024" },
+    { "id": "QjgwaCoeGVM", "title": "This Is the Only Way to Truly Learn CSS" },
+    { "id": "8I_rdnBLlgg", "title": "This Is How To Master CSS" }
+  ]
+}

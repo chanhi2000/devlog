@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "UtahRust",
+    "name": "Utah Rust",
+    "profile": "https://yt3.googleusercontent.com/g445xqh1wAR6a4ce4pzJnL2cRPzEx3pxEUbozupH56gWSAxShrNEkD7jzlF1iC-iKg8TSbCHQfk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7np8KroNnNs", "title": "WASM, Rust, the State of Async/Await - Nov 14th, 2020" }
+  ]
+}

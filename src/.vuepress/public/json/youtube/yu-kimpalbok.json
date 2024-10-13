@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "kimpalbok",
+    "name": "김팔복TV",
+    "profile": "https://yt3.googleusercontent.com/zq0K2LYfUJFWo0yp0RZXXbwibd7vARNEK9pmaRxC1SNucO6TCAgM3-aX9Z6TaI4voUNJgOeb8ZA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3XIcP_mWmbiQaVMS7GUofr56XBL1ayhQbFVmBGvstUUjp1QYxx7jU-qDEdTubVqwLfi8AXAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4aHCxIvGqXs", "title": "[개발일기] 1인 개발자 우수 사례" }
+  ]
+}

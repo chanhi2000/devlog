@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "Intercominc",
+    "name": "Intercom",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ23z8kicNLLsKFNhvfi6s0vGBKmUMa6LW6h7CF0g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X2L--JXZWGVpwPqx8pLU34Few1NJN2Z7yIlLORKZq4-XAf-etg_W-Qny8uvjLVbQQNi2OpFXPw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cnhUspTS4YU", "title": "Built For You: April 2024 - An Intercom Product Broadcast" },
+    { "id": "mopantdbIss", "title": "The Ticket: Moment of truth – Fin AI Copilot in practice" },
+    { "id": "TvXNT85VkJw", "title": "The Ticket: Unpacking the impact of AI on CX with PartnerHero's Mercer Smith" },
+    { "id": "X3iNjM89fRA", "title": "Intercom Off Script - Episode 2: ​​Into the future with AI-first Customer Service" },
+    { "id": "sgJvV4diKNo", "title": "Mapping out the first 90 days with AI-first Customer Service" },
+    { "id": "UW2145l_7pM", "title": "Making the jump from B2C to B2B product management" },
+    { "id": "dOIYgZ2rRrk", "title": "Shep Hyken on getting ahead of the competition with exceptional CX" },
+    { "id": "nAHX07s8eDU", "title": "Unlocking customer service's strategic potential with AI" },
+    { "id": "yZgHB9KFl1Y", "title": "Intercom Off Script - Episode 3: Reinventing customer service with AI" },
+    { "id": "rsbPO1VTW78", "title": "Building the future of AI-first customer service" },
+    { "id": "xTAzvif5fzw", "title": "Built For You: June 2024 - An Intercom Product Broadcast" },
+    { "id": "U-PL0RwwH5A", "title": "How to roll out Fin AI Copilot to your team" },
+    { "id": "97F1WQWSM3U", "title": "Maximizing Team Efficiency with AI: Insights from Intercom's Customer Service leaders" },
+    { "id": "N_aWsL41NLw", "title": "Customer Service Metrics are CHANGING! What Can You Do? - Intercom's CS Trend Report- Trend 5" },
+    { "id": "n7WTkppt6pU", "title": "The Ticket: How AI is transforming customer service tech stacks" },
+    { "id": "lNujY05wFAE", "title": "Fueling the AI machine with the knowledge it needs" },
+    { "id": "bgdilycaU68", "title": "Stacy Sherman on how to design customer experiences that drive loyalty" },
+    { "id": "Gcj7mVY3fJs", "title": "Off Script. A new series of candid conversations with Intercom leadership." },
+    { "id": "qiWV0T0qbeY", "title": "Intercom Off Script - Episode 1: Reflections on the arrival of AI" },
+    { "id": "XTwmPuuQ9CY", "title": "Expectations are higher than EVER -Intercom's Customer Service Trend Report 2024 -Trend 1" },
+    { "id": "Z0b5OVKQeIQ", "title": "Exploring Intercom's Customer Service Trends Report for 2024" },
+    { "id": "rc1WGS8QNeI", "title": "How to design standout products in an AI world" },
+    { "id": "Itmt57HRfe4", "title": "Making magic: Simon T. Bailey on the platinum service principles that create lifelong customers" },
+    { "id": "hg_WlywiXGk", "title": "Understanding the changing economics of customer service in the age of AI" },
+    { "id": "oa61Pn_mWXk", "title": "Synthesia CEO Victor Riparbelli on how generative AI is transforming video" },
+    { "id": "OpXJANfwwIA", "title": "CX leader Camille Acey on the evolving dynamics in customer service" }
+  ]
+}

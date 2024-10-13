@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codeandcreate",
+    "name": "Code And Create",
+    "profile": "https://yt3.googleusercontent.com/LHfT0-gYh_luF4hBvJOfThJjhjfkcG0n5RrQTUqMRgIwPWyNc7rgtTVaIV__AAXAT1g4giWx=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/53BG_CeOne61aFcpjI_3r7Bz7gDKMidi3rb2g1Mp1003Uig_9KnUlW3LAyxq_kDicT707Yju=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "i71Bel0DlKk", "title": "Build a Portfolio Website Using Next JS, Tailwind CSS & Framer Motion | Part 2" },
+    { "id": "a3MoKpYyW1o", "title": "Build a Portfolio Website Using Next JS, Tailwind CSS & Framer Motion | Part 3" },
+    { "id": "ohMHIwMqrNU", "title": "Top 3 CSS Properties You Might Have Missed | Top CSS Tricks | Unlock Hidden CSS Tricks" },
+    { "id": "Yu3xZdbtidg", "title": "React Tutorial: Color Converter App | How to Build React Color Converter App | RGB to HEX Converter" },
+    { "id": "lakga2Uz3uM", "title": "Build a Portfolio Website Using Next JS, Tailwind CSS & Framer Motion - Part 1" },
+    { "id": "Nwm-Sg5dKMk", "title": "Build a Stunning React News App in 20 Seconds! #shorts" },
+    { "id": "Y4C-IDwFuNk", "title": "Top 10 VS Code Extensions You Might Not Know About | Best VS Code Extensions" },
+    { "id": "O6sdQI6Jm9o", "title": "Top 10 VS Code Extensions #shorts #short" },
+    { "id": "p-aWv1GAlC4", "title": "New React 19 Features in 10 Minutes | React 19 Update" },
+    { "id": "-mC7jS0EplM", "title": "React Tutorial: Building a Live Weather App with React JS | OpenWeatherMap API" },
+    { "id": "LmliKXpZg2Q", "title": "How to Build a React Quote Generator App" },
+    { "id": "wDayVPGWipI", "title": "React Tutorial: Creating a Fully Functional Calendar App with React" },
+    { "id": "GZ4Zl6ig0KI", "title": "Top 10 Most Beautiful & Visually Appealing Visual Studio Code Themes 2024 | Best VS Code Themes" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "veritasium",
+    "name": "Veritasium",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZCB8Du5V9Tx6DvgFSwCnUWv8wXya2n97oRc7aF_w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZVhNjUB5W1vNMnBN61pJje8UH8AJf6YKbcOOhIDgL7zluEuXw71GMFlCBZIdUYAAR9ti4fF9=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sE-RUu9ClsU", "title": "Congress is about to make a huge mistake for astronomy #SaveChandra" },
+    { "id": "A5w-dEgIU1M", "title": "The Trillion Dollar Equation" },
+    { "id": "FUHkTs-Ipfg", "title": "The SAT Question Everyone Got Wrong" }
+  ]
+}

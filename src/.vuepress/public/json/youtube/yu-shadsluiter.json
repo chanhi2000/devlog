@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "shadsluiter",
+    "name": "Programming w/ Professor Sluiter",
+    "profile": "https://yt3.googleusercontent.com/Vbequlo1nNjWb6eX0XGNJSceRJC_k-T37TI8ftXTFkodRAZ4kRKBJL5of7wkSk3m8GKzFwitRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IvmMgIkh_UAGlMb53w4MH0v_2GliOJNE73ssoAAnCdqswjuswvo8urwOlVn20oZL0Gz3mHGAwQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "utANrHfAh28", "title": "What are EJBs Enterprise Java Beans?" }
+  ]
+}

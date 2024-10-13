@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "MitchellHudson",
+    "name": "Mitchell Hudson",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOrBkqnYTLpRgkYf5nogA1Uag-uzekfX5FA0H5PWA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "04y5jPykoIY", "title": "02 writing unit test" }, 
+    { "id": "yPOd0rmJuDA", "title": "03 Weather API Lib Promise" }, 
+    { "id": "ZVEPNAo0SAA", "title": "06 Weather API OOP" }, 
+    { "id": "mjApwJxEJTY", "title": "04 Weather API Lib async await" }, 
+    { "id": "e-Rd080XXDQ", "title": "05 Weather API Styles](htt" }, 
+    { "id": "v1zPjcCLmco", "title": "02 Weather API Lib Callbacks" }, 
+    { "id": "MTZyEkLqqTQ", "title": "01 Weather API Lib Intro" }, 
+    { "id": "K6OQhioC5_k", "title": "10 Slide Show nextSlide prevSlide" }
+  ]
+}
+

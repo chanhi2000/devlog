@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "CSCoach",
+    "name": "CS Coach",
+    "profile": "https://yt3.googleusercontent.com/4OCF6JOPhUoQMmJOpEYCj2CAiZqS6h9MFxlzORmNioQCH9aBMinnRvR99bYHtIma-wpNrQrEFw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_QkcLAnzZiRc_GpBJ1HQfM3zTYRWFxxTV4xeSVAV_K919N5fR8RskYOocgJz2-C5wQsWbxfW7LU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tatP_dPnJdo", "title": "Make an AFK bot with just 10 lines of code" },
+    { "id": "BEw5EFqCCEI", "title": "Creating Jarvis powered by OpenAI and Python | ChatGPT" }
+  ]
+}

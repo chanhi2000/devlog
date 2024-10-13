@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "freenomad-kr",
+    "name": "프리노마드",
+    "profile": "https://yt3.googleusercontent.com/FgvLeiYBYVXWMIyH_AIoxrVkBKs1F5gn6q2Bxc79wik61qcvkgPEBcHI6fHq3kUPWHuT6mBsxpQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "P1r6BZBpWRE", "title": "3회 모임 - 장용호강의" },
+    { "id": "RnJAtsqRuj8", "title": "3회 모임 - 프리랜서강의" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "dev_rman",
+    "name": "개발자 RMAN",
+    "profile": "https://yt3.googleusercontent.com/6UfqbizB6bM08zPTqVZ3jB8cpumQZXYT3F5y6P_8vpalt4kYzPEGOjeQBifoxUCCdj3NFPcYZkg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UwUuXebWecsouOY9iKsTzOAVgD5cl2gVmaQF6sIyyqdj2RZ13_VP8cRRFYZB5e97FK5g79TBYw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_xGETajBA98", "title": "한시간 반 동안  테트리스 게임 개발하기 [자바스크립트 클론코딩 강의]" }
+  ]
+}

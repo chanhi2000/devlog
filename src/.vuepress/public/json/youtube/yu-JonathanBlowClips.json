@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "JonathanBlowClips",
+    "name": "Jonathan Blow Clips",
+    "profile": "https://yt3.googleusercontent.com/N2IyarHlsbd6zSeM3KFcEM8VJvMia7ws2MZ7T7vJ8BChsN27GJzOf2lwt_GDu9gM_8MnXBlCdA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mSn3mHYVcHa30vM_HJKFzr9h5l9HWsWpmfGLHQ9DSDoOSylIifJjcSEHDPKtQSaDiKs1xrdERug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oiv4amBUf9Q", "title": "Jonathan Blow on Docker" },
+    { "id": "UAJ8-XjlpOw", "title": "Jonathan Blow on How Games Set Themselves Apart" },
+    { "id": "kRQdtlCOZBI", "title": "Jonathan Blow Explains Geometric Algebra" },
+    { "id": "5vk0bgZ0LZ4", "title": "Jonathan Blow on C++ and JavaScript" },
+    { "id": "HkhHvP8emRM", "title": "Jonathan Blow on Burning Out" },
+    { "id": "YKzlIiml0Ls", "title": "Jonathan Blow on The Problem With Twitter" },
+    { "id": "dHfHCZb5bS4", "title": "Jonathan Blow on Swift's Compile Times" },
+    { "id": "yzw0WAB4Qq8", "title": "Jonathan Blow on JavaScript and Mediocre Programmers" }
+  ]
+}

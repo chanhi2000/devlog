@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "icydockkorea",
+    "name": "ICY DOCK 코리아",
+    "profile": "https://yt3.googleusercontent.com/PPxmz44XfKyxFAiINpeHM5LwgFXACMFBIUfX8WRGz2-RcMpTUv6fplR8zKWOq2-AHAAUDyWF1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HWNDjN79fbi_dnwLe_30gRcTJKbZRCmj1zIX6znS7cqcYy8moZ5hu3zIX_5Fys90p3CBuZfMcUE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L3rIbuAdPAw", "title": "RAID Box | 5.25\" 베이 공간 수용 | 2.5\" SATA HDD/SSD 전용 | 금속제 하드랙 | MB902SPR-B R1 video 2" },
+    { "id": "vG4apAWB-YE", "title": "2베이 2 5” SATA/SAS SSD to 3.5\" 내장형 하드렉 | 2.5\" 드라이브 5.25인치 베이로 변환가이드 | MB992SK-B | MB343SP" },
+    { "id": "kX2D6KEgDtw", "title": "Hot-swap 지원 | 2베이 2 5＂ SAS/SATA HDD/SSD 하드랙 + 광학 드라이브 슬롯｜콤보 스토리지 장치 | MB732SPO" },
+    { "id": "15WlotLCQkI", "title": "하드디스크 복제 | 2x 2 5\" SSD & 3 5\" HDD 데이터 복제 키트 | 5.25인치 도킹 스테이션 | MB095SP-B" },
+    { "id": "DgxpB89FMGs", "title": "Tri-mode 카드 지원 | 8x M.2 NVMe SSD PCIe 4.0 모바일 랙, 8x OCuLink SFF-8612 | ToughArmor MB873MP- B V2" },
+    { "id": "YCgWgUeJfcE", "title": "8베이 2.5\" SAS/SATA HDD/SSD 하드랙 5.25\" 디바이스 베이 수용 | 고밀도 스토리지 | ExpressCage MB038SP-B" }
+  ]
+}

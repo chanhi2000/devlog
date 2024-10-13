@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "javasoul4367",
+    "name": "JavaSoul",
+    "profile": "https://yt3.googleusercontent.com/2JSMY7vAbXhfaIdTaxaEGJPmewcGHZhexA-cZ96qu_4b0PWQm3UJyBmT0LCwNSrk-KQx5IiNyz0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3UN6WJavP5I", "title": "how to handle exception in spring boot" }
+  ]
+}
+

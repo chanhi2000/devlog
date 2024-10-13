@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "sivaprasadtamatam1240",
+    "name": "Sivaprasad Tamatam",
+    "profile": "https://yt3.googleusercontent.com/gh-CIXzWzpobt3auoSUmZKCbcFcC1t2P9jO6-CsB9DfuIe32yieEq-xxwvWBGCn6bRrWKCg8r60=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dLK9Xv_WEs0fOpH-5qNhLvBfeXrYGrRCkgjm15MDvfVawsFDdaZiXI2oyYCsPbYPWuVN6DU-3Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JwRg6aWASio", "title": "10. Container With Most Water" },
+    { "id": "jejmKu-wD2k", "title": "6.Maximum Product Subarray" },
+    { "id": "SEEeRrmaVzA", "title": "8.Search in Rotated Sorted Array" },
+    { "id": "Mma3F75ASvk", "title": "3. Contains Duplicate" },
+    { "id": "CbSgibCCvm8", "title": "Combining SOLID Principles & Building hands on Project using Golang" },
+    { "id": "kznvS5BILz4", "title": "Go DSA   Course Overview" },
+    { "id": "SY-2K8C7ACY", "title": "Arrays Concepts - Hands-on - Access, Modify, Insert, and Delete  Operations using Go or Golang" }
+  ]
+}

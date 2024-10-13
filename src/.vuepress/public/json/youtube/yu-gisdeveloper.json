@@ -1,0 +1,73 @@
+{
+  "channel": {
+    "id": "gisdeveloper",
+    "name": "GIS DEVELOPER",
+    "profile": "https://yt3.googleusercontent.com/yFgyXLIOn3r2K6Xc7ZtH9gDDmiRctN9aq82vaQF7h9ms1BHTARU4pAlWW8LqMxKSyfBoIp_LKUU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EVs-Tc52zuZ1ubvo9u-BAG7fbHbo2EXpJEYF4AEkMXlVKE21mLwjITjlzAz0YdSnJWQ6LV3R=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zuyg_x3wmVs", "title": "실시간 텍스트 파티클 (3D WEB, three.js)" },
+    { "id": "JvyA4w1dgAs", "title": "TypeScript로 즐기는 Three.js : 5. 광원(Lights)" },
+    { "id": "k5wXPO-a2tY", "title": "TypeScript로 즐기는 Three.js : 6. 카메라(Camera)" },
+    { "id": "X8K0iOBwkhQ", "title": "TypeScript로 즐기는 Three.js : 7. 그림자(Shadow)" },
+    { "id": "DvFIBRz4X34", "title": "TypeScript로 즐기는 Three.js : 8. 외부 모델 데이터(External Model Data)" },
+    { "id": "rd5HEykN1AQ", "title": "TypeScript로 즐기는 Three.js : 2. 지오메트리(Geometry)" },
+    { "id": "QDPwVfiYu7g", "title": "TypeScript로 즐기는 Three.js : 3. 트렌스폼(Transfrom)" },
+    { "id": "uKYv1UYZOl4", "title": "프론트엔드 개발 방법의 정석 PART-4" },
+    { "id": "WLdkjdh-sgU", "title": "TypeScript로 즐기는 Three.js : 1. 시작하기" },
+    { "id": "fbzUsNSp1ns", "title": "프론트엔드 개발 방법의 정석 PART-1" },
+    { "id": "r6SjPCeuafo", "title": "프론트엔드 개발 방법의 정석 PART-2" },
+    { "id": "OGRx1zAnjyY", "title": "프론트엔드 개발 방법의 정석 PART-3" },
+    { "id": "_GB-rN_bjO0", "title": "(오프라인교육) 3D 가상환경 멀티플레이어 인터렉티브 웹 개발" }
+  ],
+  "playlists": [
+    {
+      "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발",
+      "videos": [
+        { "id": "Sg6OcVxe64k", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 1. 소개 by GIS DEVELOPER 6 minutes, 16 seconds" },
+        { "id": "CsBXYX022Pk", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 2. 프로젝트 구성 by GIS DEVELOPER 6 minutes, 43 seconds" },
+        { "id": "SM97eEPXZ5U", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 3. R3F의 Canvas by GIS DEVELOPER 10 minutes, 42 seconds" },
+        { "id": "0jnGlLb_z7w", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 4. 변환 (Transformation) by GIS DEVELOPER 17 minutes" },
+        { "id": "_msE-idq9cs", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 5-1. 지오메트리 (Geometry) by GIS DEVELOPER 18 minutes" },
+        { "id": "LuXLqOtANXE", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 5-2. 지오메트리 (Geometry) by GIS DEVELOPER 31 minutes" },
+        { "id": "pDsf-mrjBHo", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 6-1. 재질 (Material) by GIS DEVELOPER 39 minutes" },
+        { "id": "PIyM8G6wp-Y", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 6-2. 재질 (Material) by GIS DEVELOPER 19 minutes" },
+        { "id": "MVaAaO4NpVw", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 6-3. 재질 (Material) by GIS DEVELOPER 26 minutes" },
+        { "id": "Vdykzxvriu0", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 7. 광원 (Light) by GIS DEVELOPER 32 minutes" },
+        { "id": "Un67WABYkpc", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 8. 카메라(Camera) by GIS DEVELOPER 22 minutes" },
+        { "id": "VSx4jGQT5HI", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 9-1. 그림자(Shadow) by GIS DEVELOPER 29 minutes" },
+        { "id": "bLM-fleqfs4", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 9-2. 그림자(Shadow) by GIS DEVELOPER 16 minutes" },
+        { "id": "S7qWQ1li32o", "title": "R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션 by GIS DEVELOPER 13 minutes, 3 seconds" }
+      ]
+    }, {
+      "title": "Java로 보는 GoF의 디자인 패턴 강좌 (종결)",
+      "videos": [
+        { "id": "An7kqZ5D7j8", "title": "GoF의 Design Pattern - 1. 시작하기 by GIS DEVELOPER 4 minutes, 49 seconds" },
+        { "id": "T3sXKtlr0Ow", "title": "GoF의 Design Pattern - 2. Iterator by GIS DEVELOPER 16 minutes" },
+        { "id": "Wao5HiXM_Cg", "title": "GoF의 Design Pattern - 3. Strategy by GIS DEVELOPER 5 minutes, 52 seconds" },
+        { "id": "hPTqWJm51Vs", "title": "GoF의 Design Pattern - 4. Template by GIS DEVELOPER 10 minutes, 12 seconds" },
+        { "id": "7MSzyqhrO-A", "title": "GoF의 Design Pattern - 5. Adapter by GIS DEVELOPER 8 minutes, 17 seconds" },
+        { "id": "IJ96VeNPTyM", "title": "GoF의 Design Pattern - 6. Bridge by GIS DEVELOPER 9 minutes, 52 seconds" },
+        { "id": "kAnoWt7Uato", "title": "GoF의 Design Pattern - 7. Singleton by GIS DEVELOPER 5 minutes, 11 seconds" },
+        { "id": "tYEg5vYJgQ4", "title": "GoF의 Design Pattern - 8. Flyweight by GIS DEVELOPER 8 minutes, 48 seconds" },
+        { "id": "g96bJvVDZPs", "title": "GoF의 Design Pattern - 9. Composite by GIS DEVELOPER 8 minutes, 54 seconds" },
+        { "id": "QOX10ntWj5Y", "title": "GoF의 Design Pattern - 10. Factory Method by GIS DEVELOPER 12 minutes, 13 seconds" },
+        { "id": "4WO95iHQTx8", "title": "GoF의 Design Pattern - 11. Observer by GIS DEVELOPER 10 minutes, 26 seconds" },
+        { "id": "ZvyxRzma1UY", "title": "GoF의 Design Pattern - 12. Mediator by GIS DEVELOPER 13 minutes, 54 seconds" },
+        { "id": "l8SfShTTiNY", "title": "GoF의 Design Pattern - 13. Memento by GIS DEVELOPER 11 minutes, 9 seconds" },
+        { "id": "NoRPG06c48U", "title": "GoF의 Design Pattern - 14. Proxy by GIS DEVELOPER 9 minutes, 8 seconds" },
+        { "id": "UTmY_oB4V8I", "title": "GoF의 Design Pattern - 15. Decorator by GIS DEVELOPER 14 minutes, 43 seconds" },
+        { "id": "FAHEWQD6EVE", "title": "GoF의 Design Pattern - 16. Chain of Responsibility by GIS DEVELOPER 8 minutes, 9 seconds" },
+        { "id": "UPv8u9ndqAs", "title": "GoF의 Design Pattern - 17. Prototype by GIS DEVELOPER 14 minutes, 33 seconds" },
+        { "id": "mQlOqyFE3oI", "title": "GoF의 Design Pattern - 18. Facade by GIS DEVELOPER 11 minutes, 23 seconds" },
+        { "id": "_GCiJAFU2DU", "title": "GoF의 Design Pattern - 19. Builder (1/2) by GIS DEVELOPER 8 minutes, 58 seconds" },
+        { "id": "sg_6GWRBRas", "title": "GoF의 Design Pattern - 19. Builder (2/2) by GIS DEVELOPER 12 minutes, 6 seconds" },
+        { "id": "sYIB1VrN1ik", "title": "GoF의 Design Pattern - 20. Command by GIS DEVELOPER 13 minutes, 24 seconds" },
+        { "id": "pmKHiAIwhag", "title": "GoF의 Design Pattern - 21. Abstract Factory by GIS DEVELOPER 17 minutes" },
+        { "id": "XNwAfxaqWEc", "title": "GoF의 Design Pattern - 22. State by GIS DEVELOPER 19 minutes" },
+        { "id": "RVZz_kLWdFM", "title": "GoF의 Design Pattern - 23. Interpreter by GIS DEVELOPER 23 minutes" },
+        { "id": "QC8Q5MWB-mQ", "title": "GoF의 Design Pattern - 24. Visitor by GIS DEVELOPER 13 minutes, 13 seconds" }
+      ]
+    }
+  ]
+}

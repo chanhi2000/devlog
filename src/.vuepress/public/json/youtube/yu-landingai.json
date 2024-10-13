@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "landingai",
+    "name": "Landing AI",
+    "profile": "https://yt3.googleusercontent.com/B8NhX-GK04c1ZAJvaVXm8xL9J1IQfcUffcGPOvysF6G7mSKENrWc7tOunGg1Mij3CDo6bJ46cw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "FE88OOUBonQ", "title": "Visual Prompting Livestream With Andrew Ng" }
+  ]
+}
+

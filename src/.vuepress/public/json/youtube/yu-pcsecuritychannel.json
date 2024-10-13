@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "pcsecuritychannel",
+    "name": "The PC Security Channel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNq0QEH0t-COhRoDk9d9XeyzBO1ELsYdMHC8ohhNg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pc4ttLv_xEj-rDIIPA0qZhA6dcikjnYqNMTEJhA7-9DGFARiYKAVgwkD0l7xUQHEjY7WYrcUDQ4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UqLI1xKc-L4", "title": "Is Valorant Spyware?" },
+    { "id": "zWoHJ3oGRGY", "title": "Cybersecurity for Beginners: How to use Wireshark" },
+    { "id": "lq9wU_-WBhU", "title": "Fake Antivirus being used to sell real McAfee" },
+    { "id": "7LfpCz3eUsU", "title": "How not to Pirate: Malware in cracks on Github" },
+    { "id": "mHtEcqP6q3A", "title": "ESET Review 2024: Tested in depth vs Malware" },
+    { "id": "c-ftuiRDqO0", "title": "Linux vs Windows: Malware" },
+    { "id": "76Z6dvNyUww", "title": "How to never accidentally run Malware: Must Have Windows Tweaks" },
+    { "id": "snImtCq-WBw", "title": "Windows Defender vs Ransomware 2024" },
+    { "id": "IUy12CGzHNI", "title": "How Hackers Deliver Malware to Hack you using Social Media" },
+    { "id": "nUFgBhBBB-E", "title": "Malware beats Windows Defender: How you get hacked" },
+    { "id": "p_DzLml1jZw", "title": "Kaspersky vs Bitdefender Test vs 2000 Malware" },
+    { "id": "DCdjjBAPgm4", "title": "Malware on Large YouTube Channels!" },
+    { "id": "kKFuNmSNu04", "title": "Malwarebytes vs 2000 Malware" },
+    { "id": "vdZs-geDrM4", "title": "Malware Analysis Tools YOU COULD USE" },
+    { "id": "OYcURUA6Cj8", "title": "How Facebook & Instagram accounts are hacked by Malware" },
+    { "id": "h2Yh5ejR_i4", "title": "Stop Windows Spying with one click Firewall" },
+    { "id": "Id-cL8Bezb8", "title": "Fortnite RAT: How to tell if an Application is Malware" },
+    { "id": "SxStbBwk70s", "title": "Fake Chrome Update Malware" }, 
+    { "id": "ulm0lZIqYp0", "title": "Windows Defender vs Top 100 Malware Sites" },
+    { "id": "3Qs9btR0Rpc", "title": "How to not get hacked: File Visualizer" },
+    { "id": "dykc9YC9Z6U", "title": "How to tell if your PC is Hacked? Process Forensics"}, 
+    { "id": "6K89f4zxMYw", "title": "How to not get hacked: real example" }, 
+    { "id": "VU9L0udNV9M", "title": "Stop Windows Spying" }, 
+    { "id": "nYdS3FIu3rI", "title": "The Malware that hacked Linus Tech Tips" }, 
+    { "id": "YQ6sjOE1sBU", "title": "Best Browser Extensions for Security" }, 
+    { "id": "Wh_DJTaDq6U", "title": "Best Malware Analysis Tools | Learn Malware Analysis" }, 
+    { "id": "UfaRLUZK8No", "title": "Why you shouldn't just use Windows Firewall" }, 
+    { "id": "N4Vex7l8jv4", "title": "Windows Defender Hardening and Test vs Malware" }
+  ]
+}

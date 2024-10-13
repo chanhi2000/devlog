@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "jacking75",
+    "name": "최홍배",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMMSdSziFRiBhSwe_aZQWUdnCQW9meOd9-drwSI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "eEWsMtvst48", "title": "C++23 - std::print" },
+    { "id": "zakVv3vlgsY", "title": "C++ 네트워크 프로그래밍 분석&리팩토링 - GameProject3Re" },
+    { "id": "U7jUTEcYQ-k", "title": "C++ POCO 라이브러리 04. 논블럭킹, 멀티플렉싱(Multiplexing)" },
+    { "id": "fBCVKPasJOw", "title": "C++ POCO 라이브러리 05. TCPServer 프레임워크" },
+    { "id": "g49BA8I9aQ8", "title": "C++ POCO 라이브러리 02. Poco.Net을 이용한 네트워크 프로그래밍 소개" },
+    { "id": "U6VgV_vTa8w", "title": "C++ POCO 라이브러리 03. TCP Echo Server/Client" },
+    { "id": "GFU1HxxVKx0", "title": "C++ POCO 라이브러리 01 - 소개와 사용" },
+    { "id": "uH6EZFGKg7Y", "title": "Gateway Server를 사용하는 이유" },
+    { "id": "Db6yunOHZ2c", "title": "분산 서버에서 DB 서버" },
+    { "id": "09ufiNEWynk", "title": "Redis C# 프로그래밍" },
+    { "id": "UYTmI6qbAPc", "title": "실전 Modern C++ - module 3" },
+    { "id": "yoP3EXEnb0g", "title": "[책 소개] 윈도우즈 API 정복" }, 
+    { "id": "9s5dZ6XzXHc", "title": "단계별 실습을 통해 IOCP 배우기 (8)" }, 
+    { "id": "lMVdPDvElKg", "title": "C# 네트워크 프로그래밍 공부" }, 
+    { "id": "v8tXh1hGdeY", "title": "Windows에서 C++ 오픈소스 Boost 라이브러리 설치와 사용하기" }, 
+    { "id": "1E5ovnFy2m8", "title": "[서버 아키텍처] PiggPARTY에서 실시간 통신 시스템" }, 
+    { "id": "uGjrPjqGR24", "title": "[.NET Conf 2023 x Seoul] Hands-on-Lab: 데이터 직렬화" }  
+  ],
+  "playlists": [
+    
+  ]
+}

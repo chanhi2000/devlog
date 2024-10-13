@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "ICBANQ",
+    "name": "NadoMaker",
+    "profile": "https://yt3.googleusercontent.com/bkCBkD2DU1VPvhulbAmSiCLalMV33HYnTuwL9iAS-f3-iHt7G2A1W2mNQp35fL3TQocZIyPU2g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WDYAqCMXBMVUuv5AOLvQaMdY_RpARhciiMNV7ZRqY8hJLhEAoFyideyLzwnVBic5nro7jCcGw9Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NZXR1eTUJY4", "title": "갤럭시 폴드보다 작고 가벼운 미니PC가 있다? | KHADAS MIND 카다스 마인드" },
+    { "id": "WP1UHWuCvEo", "title": "이름빼고 싹 다 바뀌어 돌아왔다, Orange Pi 5 Plus" },
+    { "id": "2b4MC5x6zvk", "title": "미니PC, 싱글보드 컴퓨터의 새로운 패러다임! 라떼판다 MU 출시 임박!" },
+    { "id": "6bZSawG2dmI", "title": "[4분 요약]  IoT가 뭔데? l 아두이노 ESP32로 쉽게 이해하는 스마트 홈의 원리" },
+    { "id": "VLtvErjTBmg", "title": "쉽게 스마트 쓰레기통 만들기?! (with 아두이노 uno) ㅣ스마트 홈의 기본템 스마트 쓰레기통 iot 기술로 만들어보자!" },
+    { "id": "0MHtJ_n75QI", "title": "[C언어 코딩 기초 강의] 15장 : 전처리기와 라이브러리" },
+    { "id": "pR5yqzWbWEc", "title": "[C언어 코딩 기초 강의] 14장 : 전처리기와 라이브러리" },
+    { "id": "O3fjri0yTJM", "title": "[C언어 코딩 기초 강의] 13장 : 문자열과  string.h" },
+    { "id": "6yE4eYZ6_50", "title": "[C언어 코딩 기초 강의] 12장 : 포인터" }
+  ]
+}

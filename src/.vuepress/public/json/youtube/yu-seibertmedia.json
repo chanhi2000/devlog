@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "seibertmedia",
+    "name": "Seibert Media",
+    "profile": "https://yt3.googleusercontent.com/BwB_TfUvWy2AuqR2T-wrSou2GbZeOslD8QOTJQn6elUUB3Q2vIDp62vNjr70lzKWvw97-_mLIQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t29z7StphOYWOG-V40yIWMYwVacnSJ0Jt8ylHliThYvUrtFT9TteZT6HUqj7JiZpzsZh1PA2nQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qQwpGD_EyV4", "title": "Create your unique LeadershipStory - Women in Tech Night'24" },
+    { "id": "a-cIs1ISdh4", "title": "Lass uns über Atlassian Confluence sprechen! – Erste Schritte, Tipps & Tricks" },
+    { "id": "iGfNgXi0aHY", "title": "Lass uns über Projektmanagement mit Jira sprechen! - Erste Schritte, Tipps & Tricks" },
+    { "id": "mtumvgp_fy0", "title": "Lass uns über Jira Service Management und ITSM sprechen! - Erste Schritte, Tipps & Tricks" },
+    { "id": "3dkaAEf_dCM", "title": "Podcastfolge #10 Die Welt als moderner remote Arbeitsplatz - Interview mit Thomas Rosin" },
+    { "id": "BE1yOg90TrM", "title": "Let’s talk about: Vorurteile, Frauen und Tech - Women in Tech Night`24" },
+    { "id": "cPCcDnxRF1c", "title": "#12 Kundenzentrierte Arbeit durch das Jobs-to-be-Done Framework - Interview mit Eckhart Böhme" },
+    { "id": "oE9KcZoj38U", "title": "The Human Algorithm: Responsible AI Driven by DEI - Women in Tech Night'24" },
+    { "id": "9r3WiTCt0rk", "title": "Agile Coach vs Führungskraft - Wie lerne ich Führung?" },
+    { "id": "GYRrs52v_9o", "title": "Podcastfolge #05 Shared Leadership - Wie die gemeinsame Verantwortung zu besseren Ergebnissen führt" },
+    { "id": "DkojX-bE2QQ", "title": "Einblicke in Jira Align" },
+    { "id": "zwtq0sYbuPU", "title": "The right Tool(s) for Each Job" },
+    { "id": "SUQbnximVm8", "title": "Einblick in Agile Hive Part II" },
+    { "id": "W3IEhhnZmLk", "title": "Einblick in Agile Hive Part I" },
+    { "id": "icdUvA7OUQA", "title": "Agile Hive vs. Jira Align" },
+    { "id": "KA6w6gWZPdQ", "title": "Lean Portfoliomanagement : Workshop - Fishbowl Podiumsdiskussion - T4AT 23" },
+    { "id": "aL11sJBBAEs", "title": "Agile Transformation in der IT der R+V Versicherung - T4AT 23" },
+    { "id": "lS7qifTl8AE", "title": "Podcastfolge #06 Mitarbeiter finden und binden - Interview mit Corinna Haas - Teil 1" },
+    { "id": "_MJxgF5RkAo", "title": "Podcastfolge #06 Mitarbeiter finden und binden - Interview mit Corinna Haas - Teil 2" },
+    { "id": "nndpoRxDy9s", "title": "Kotlin Multiplatform: Von allen Seiten betrachtet  - TechTalk" }
+  ]
+}

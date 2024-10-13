@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "headwayio",
+    "name": "Headway",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRjLHc4dcVimNXn7Df8RtvkBWayPGm7sTtooCCy6g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0kzHjAIa5l04ySlKE4OHFUxHiWeNBqt29ibQYWCsN5oWc0rG-apox65zoTYhGvuv4AOJQKnFM4o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tVamF0bDYzE", "title": "Solving the Mysteries of the UX Audit Process - Beyond UX Design Podcast Interview" },
+    { "id": "3RYXqgJwK0c", "title": "Building a Design System for Beginners - Free Figma Tutorial Lesson 01 - Shipwright Course Preview" },
+    { "id": "gE3M3TVz8mc", "title": "Don't Build an MVP Without These Tools - The Importance of Mindset for Minimum Viable Product" },
+    { "id": "Qsmfh3GJsg4", "title": "Productivity Tools for Startup Founders - Priority Management and Effectiveness" }, 
+    { "id": "Cv4qQfg_w7E", "title": "How to Plan and Build an MVP" },
+    { "id": "eJ6R1knfsoc", "title": "Exploring Advanced TypeScript Concepts - Guards, Utility Functions, and More [Typescript Tutorial]" }
+  ]
+}

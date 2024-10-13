@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DanGalletta",
+    "name": "Dan Galletta",
+    "profile": "https://yt3.googleusercontent.com/utQVG8wiAbW0GiQ4jgxx4guuALZBZd67w0QtNsgFA2iOqnBpBgt51zTDxpbJ1MVbMXeObYpW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jrjY6lsAguU4cNLxXAZ-G-xgUTQnecRelJMPW00ANjPX4pXh7cI_vmdukcsc_q3I8TsdkDcu=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HbExxJVtnic", "title": "Why you should NEVER use pie charts (use this instead)" },
+    { "id": "CY1Y367KEko", "title": "Storytelling in PowerPoint: Learn McKinsey’s 3-Step Framework" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "testingcoder",
+    "name": "Testing Coder",
+    "profile": "https://yt3.googleusercontent.com/QEjER09LwignfXYbt32RSxqB4hwUI0F0zumCy0l4cbeCw1r7YdUopkTwow4De4Dq11vVyz6mjOU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/z1FBZDmGU6J6zr787Qma79FxU1c9R2vNC2BtRbDm2sEm8X4lbbj352O8n3TKvmQ3cQsDqV6b=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YXbu2bu46uE", "title": "How to know if player hits walls? | Pyxel tutorial - 5 | Collision detection" },
+    { "id": "OkWHnNhndLs", "title": "Tracking Your Work is Essential for Feeling Fulfilled" },
+    { "id": "aPqs0D3s_IU", "title": "Pyxel tutorial: Tilemaps | Lesson 4" }, 
+    { "id": "iFtdJBREs6c", "title": "Pyxel tutorial: Using keyboard inputs | Lesson 3" }
+  ]
+}

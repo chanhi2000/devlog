@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "corgi_NLP",
+    "name": "NLP 코기",
+    "profile": "https://yt3.googleusercontent.com/fIw7VbI2Fpn3aRAau-SHnmBSNmujyk6OJVxjO2MS81YlTDU6DtVrOZzAcI0WqMpMhMgwjf2WJDg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GH9v2ZtAhKI", "title": "기나긴 프롬프트, RAG로 해결하자.[Retrieval meets Long Context Large Language Models]|꼬꼬엔" },
+    { "id": "Oug3Pl_m-c0", "title": "얼마나 작은 단위로 검색해야 할까요?[Dense X Retrieval: What Retrieval Granularity Should We Use?]|꼬꼬엔" },
+    { "id": "QqEfUAo0_dg", "title": "RAG에서 Query에 따라서 다른 전략으로 Retrieval 하자[Adaptive-RAG: Learning to Adapt Retrieval-Augmented ...]|꼬꼬엔" },
+    { "id": "NtNHgefzLo0", "title": "LLM은 훌륭한 Document 리랭커다[Large Language Models are Effective Text Rankers with Pairwise Ranking..]|꼬꼬엔" },
+    { "id": "JM6j8HTy97E", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-2[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
+    { "id": "leT_0eGNBFs", "title": "불필요한 내용을 줄이면 RAG가 성능이 올라간다고?!-1[RECOMP: IMPROVING RETRIEVAL-AUGMENTED LMS WITH COMPRESSION ...]|꼬꼬엔" },
+    { "id": "I9HCNVEvnCY", "title": "Q: 이미지 인식을 위해 컨볼루션 신경망(CNN)을 구현하는 방법을 설명하세요. CNN의 주요 레이어는 무엇이며 이미지 처리에 어떻게 기여하나요? |꼬꼬면" },
+    { "id": "ZCzizNSKMaQ", "title": "어떻게 AI 논문을 읽어야 할까요?[How to Read a Paper?]|꼬꼬엔" },
+    { "id": "IiLepUfSBCM", "title": "Q: 트랜스포머 모델의 Self-Attention은 LSTM 기반의 `seq2seq`와 같은 이전 모델에서 사용했던 Attention과 어떻게 다릅니까?|꼬꼬기" },
+    { "id": "B4z5qKtqiTE", "title": "Q: '트랜스포머 모델과 NLP에서 트랜스포머가 갖는 의미에 대해서 설명하세요.'|꼬리에 꼬리를 무는 NLP 기술 면접" },
+    { "id": "3RgyjH6FSxw", "title": "ChatGPT에서 긴 프롬프트를 더 좋게 압축해보자[LongLLMLingua: ACCELERATING AND ENHANCING LLMS IN LONG CONTEXT ...]|꼬꼬엔" },
+    { "id": "LqZoK7vcO7M", "title": "ChatGPT에서 긴 프롬프트를 더 좋게 압축해보자-2[LongLLMLingua: ACCELERATING AND ENHANCING LLMS IN LONG ...]|꼬꼬엔" },
+    { "id": "nxMBmmJpMdo", "title": "Q: TF-IDF가 무엇이며 어떻게 계산합니까?|꼬꼬면" },
+    { "id": "EyKaK6bjWCw", "title": "Q: Word Embeddings과 같은 다른 텍스트 벡터화 기술과 TF-IDF를 비교하고, 어떤 상황에서 어떻게 써야하는지 알려주세요.|꼬꼬면" },
+    { "id": "8Wc_79jiHVU", "title": "Q: GPT 모델은 어떤 한계가 있으며 real-world applications에 어떤 영향을 끼칩니까? |꼬꼬면" },
+    { "id": "jgUZSiM-CeA", "title": "Q: Cross validation과 boot strapping과 같은 기술은 머신러닝 모델에서 오버피팅과 언더피팅을 확인하고 방지하는데 어떻게 도움이 됩니까? |꼬꼬면" },
+    { "id": "BWukYUkzRK0", "title": "GPT의 할루시네이션을 줄이고 최신 지식을 업데이트 시킬 수 있다고?(RAG)-2[Retrieval-Augmented Generation for Knowledge-....]|꼬꼬엔" },
+    { "id": "JRCpq9jcAJA", "title": "GPT의 할루시네이션을 줄이고 최신 지식을 업데이트 시킬 수 있다고?(RAG)[Retrieval-Augmented Generation for Knowledge-....]-1|꼬꼬엔" },
+    { "id": "A512OoJLVLw", "title": "ChatGPT에서 Prompt를 압축해서 API비를 줄이자![LLMLingua: Compressing Prompts for Accelerated Inference ....]|꼬꼬엔" },
+    { "id": "Hvao-W-DEIw", "title": "LLM끼리 앙상블!?[LLM-BLENDER: Ensembling Large Language Models with Pairwise Ranking and Generati...]|꼬꼬엔" },
+    { "id": "XMI02zc1flo", "title": "GPT와 Python의 환상의 콜라보[PAL: Program-aided Language Models] | 꼬꼬엔" }
+  ]
+}

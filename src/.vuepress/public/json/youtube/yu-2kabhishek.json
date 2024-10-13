@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "2kabhishek",
+    "name": "Abhishek Keshri",
+    "profile": "https://yt3.googleusercontent.com/OmS-eRRYHXL57fdfmwZ0r70TkcKOLUFRkDuxvjuCnwI59Kg0GcTytLvLNNsO3U-Sl4GKn51NNA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/L35v_kH-1GiXMWgMK_FbYBHfh2ONM5BPQxA6ph8a345c6amzrf1PfqYyeQl3NjXUjbK8eKSCpYg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "N4IRT7M-RLg", "title": "Note-Taking with Neovim: Keep It Simple, Keep It Fast!" },
+    { "id": "RWZtwsBZitg", "title": "My Neovim Config for 2024 | Neovim as IDE | nvim2K update" },
+    { "id": "EpTzb-pyRTA", "title": "A Better Tmux Experience | Tmux Configuration & Essential Plugins" }
+  ]
+}

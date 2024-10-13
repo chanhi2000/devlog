@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "neondatabase",
+    "name": "Neon",
+    "profile": "https://yt3.googleusercontent.com/PCC9a0H4mCzn4HyQn8IydElbZ7lkeXXVS8oIInO93wWc4p65qNuN-XYWM0Ima9_kG_EXZEdhzQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J4QLOyvXrGS4eAEq9yOBiDDSmv0gHuxbYlpRriXiAg9FzpERWfR9J2fM-QI7RBzUO8Z0JyRq=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JHM43yDdJ_Q", "title": "Postgres on Neon: a new approach to database development" },
+    { "id": "6XezQQJGdjI", "title": "Ship better apps with this CI/CD flow" },
+    { "id": "Uz6ZGTJrlBA", "title": "This Postgres Driver Is Perfect for Serverless Apps" },
+    { "id": "s4vIMI9rXeg", "title": "A Postgres database for Every Preview Deployment" },
+    { "id": "PX881bVAPxM", "title": "The workflow every Prisma Developer must know" },
+    { "id": "ZnxLCOkb_R0", "title": "Restore a 1,000GB+ Postgres database in 1 second (literally)" }
+  ],
+  "playlists": [
+    
+  ]
+}

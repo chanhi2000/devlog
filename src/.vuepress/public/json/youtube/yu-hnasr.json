@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "hnasr",
+    "name": "Hussein Nasser",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP3-n2CI9lWHLXhpe67gONcimO8FN5_Xl3sGSyFCQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VZfZhVWE3F7bvUA9aVm20_gsbkiw9-JLOp5CL_ALIRoDDRrs9vyPalyhZixwQT4Dd4e_MZGFmzo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QAq3HRMmdbo", "title": "They made Kafka 80% faster by switching file systems" },
+    { "id": "93Q1vPe-z00", "title": "They made Python faster with this compiler option" },
+    { "id": "0UjIAcwkT8o", "title": "io uring gets even faster" },
+    { "id": "gEsEl_NZORQ", "title": "New Course Alert - Fundamentals of Operating Systems" },
+    { "id": "g0nKNhP0j0I", "title": "The Cost of Memory Fragmentation" },
+    { "id": "WpMwuo13-7w", "title": "Cloudflare Open sources Pingora (NGINX replacement)" },
+    { "id": "qo1FFNUVB-Q", "title": "Google Patches Linux kernel with 40% TCP performance" },
+    { "id": "OAOQ7U0XAi0", "title": "The effect of Random UUID on database performance" },
+    { "id": "wybjsKtA9hI", "title": "A Deep Dive in How Slow SELECT * is" }, 
+    { "id": "3cpUdppYzJw", "title": "How Fast is MySQL on HTTP/3?" }, 
+    { "id": "ckEIQdGJ1tc", "title": "What happens when your Web Server Private Key is Leaked?" }, 
+    { "id": "73wykKgA6bY", "title": "How does NodeJS HTTP Server Looks Like in Wireshark?" }, 
+    { "id": "R873BlNVUB4", "title": "Apache Kafka Crash Course" }, 
+    { "id": "HVWlMNTNcF4", "title": "Wiresharking Secure Shell (SSH) - Spoiler alert 🚨 : its chatty" }, 
+    { "id": "C6IL8tjwC5E", "title": "Traefik Crash Course (Without docker)" }, 
+    { "id": "NnYQ3vg5X9Q", "title": "Wiresharking HTTP/2 - Decrypting Traffic with Wireshark And peeking at Naked HTTP/2 Traffic" }, 
+    { "id": "hcw-NjOh8r0", "title": "NginX Crash Course" }, 
+    { "id": "UrwtQfSbrOs", "title": "ZeroMQ (ØMQ) Crash Course" }, 
+    { "id": "pI4438IHBYY", "title": "React with Firebase CRUD Operations" }, 
+    { "id": "JwQTBq3oivw", "title": "What is On Demand TLS?" }, 
+    { "id": "V3ZPPPKEipA", "title": "How to Become a Good Backend Engineer (Fundamentals)" }, 
+    { "id": "BRPvjNQsqis", "title": "Spin up an Nginx Docker Container as a Load Balancer" }, 
+    { "id": "9sAg7RooEDc", "title": "Step by Step Basic Microservices System (3 NodeJS + 1 Load Balancer containers) with Docker Compose" }, 
+    { "id": "-cWs6eoyaLg", "title": "Varnish - HTTP Accelerator Crash Course" }, 
+    { "id": "8qU3hZOXlBE", "title": "The evolution from virtual machines to containers" }, 
+    { "id": "Yw4rkaTc0f8", "title": "gRPC Crash Course - Modes, Examples, Pros & Cons and more" }, 
+    { "id": "hVMyRzINrWw", "title": "Google blocks Embedded browsers sign ins to avoid MITM phishing attacks" }, 
+    { "id": "CNipJ0Z5qA0", "title": "Spin up RabbitMQ on Docker" }, 
+    { "id": "vmSMrQ8Ev9w", "title": "Spin up a lightweight Nodejs docker container running your application" }, 
+    { "id": "GTeCtIoV2Tw", "title": "Connection Pooling in PostgresSQL with NodeJS (Performance Numbers)" }, 
+    { "id": "URwmzTeuHdk", "title": "All Postgres Locks Explained | A Deep Dive" }, 
+    { "id": "AveRgUrC7FM", "title": "Postgres System Columns Explained (`ctid`, `xmin`, `xmax`)" } 
+  ]
+}
+

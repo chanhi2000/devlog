@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "hansolacademy",
+    "name": "한솔아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRdtl4E_FeFQDj_8nHFVxnpj6LhPWFKqok6rz_0Ow=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kW5L88GMPzj7UmZhCfeeJeq3Q24eDwVVfP0XvBN6vC3A5a6-C8aEHxFgD6exjbbHks1FhefDwYs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8joUSmjbIWQ", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 전기자기학 4 |  #전기기사필기 #전기산업기사필기" },
+    { "id": "q6K9JTzKNvY", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 전기자기학 3 |  #전기기사필기 #전기산업기사필기" },
+    { "id": "Hg9SCvYOtvc", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 전기자기학 2 |  #전기기사필기 #전기산업기사필기" },
+    { "id": "RjIpHFfZCmU", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 전기자기학 1 |  #전기기사필기 #전기산업기사필기" },
+    { "id": "kKus7orCxRM", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 측량학 3 |  #토목기사필기 #토목산업기사필기" },
+    { "id": "VyUtM1OYWQg", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 측량학 2 |  #토목기사필기 #토목산업기사필기" },
+    { "id": "lI6R2uUyG_0", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 측량학 1 |  #토목기사필기 #토목산업기사필기" },
+    { "id": "aycF23sw7as", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 건축구조 2 |  #건축기사필기 #건축산업기사필기" },
+    { "id": "srixhXcvdCQ", "title": "[OX퀴즈] 듣기만 해도 저절로 외워지는 건축구조 1 |  #건축기사필기 #건축산업기사필기" },
+    { "id": "DytRY4teApw", "title": "[CBT 필기 대비] 기사 산업기사 시험장 꿀팁💡| 준비물 및 유의사항 | 전자기기는 어디까지 허용?🤔" },
+    { "id": "ty-GNeqACgQ", "title": "[전기기사 필기] 핵심정리 파이널 특강 - 전기기기 5" },
+    { "id": "609LvCgFEAo", "title": "[전기기사 필기] 핵심정리 파이널 특강 - 전기기기 3" },
+    { "id": "Ff0ef1POZ2M", "title": "[전기기사 필기] 핵심정리 파이널 특강 - 전기기기 2" },
+    { "id": "_x0c9c4wafA", "title": "[전기기사 필기] 핵심정리 파이널 특강 - 전기기기 1" },
+    { "id": "3egV31uW8b4", "title": "[전기산업기사 필기] 2024년 1회 전기산업기사 필기 CBT 복원해설 | 전기기기" },
+    { "id": "hVBmvsGW4zw", "title": "[건축산업기사 필기] 2024년 1회 건축산업기사 필기 CBT 복원해설 | 건축계획" },
+    { "id": "FsGyclr_r5k", "title": "2024년 전기 CBT 이렇게 바뀐다!🔥합격전략특강🔥 #전기자기학 | 전기기사필기 전기산업기사필기" },
+    { "id": "rMKH-KeiWOw", "title": "2024년 전기 CBT 전망은?🔥합격전략특강🔥 #전력공학 | 전기기사필기 전기산업기사필기" },
+    { "id": "5RDQ-7ESpQc", "title": "2024년 전기 CBT 어떻게 공부해야 하는가?🔥합격전략특강🔥 #전기기기 | 전기기사필기 전기산업기사필기" }
+  ]
+}

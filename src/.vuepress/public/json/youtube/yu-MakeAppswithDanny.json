@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "MakeAppswithDanny",
+    "name": "Make Apps with Danny",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSRr9NDHXZoV55zG-bZ6KTD7Q7TXHCLHUMFnVaI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/649gJZxtkyrPBCn12KBUHdDt6_MHthS_BdbZ5_ibZ0Gopxx5HTnSpKASG9NLlVDjsfQOTglZvg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "opmng7llVJ0", "title": "Quasar Framework: Vue.js Cross Platform App (1/10): Introduction & Getting Started" }
+  ]
+}

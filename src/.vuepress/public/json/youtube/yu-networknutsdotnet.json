@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "networknutsdotnet",
+    "name": "networknutsdotnet",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO_gVJ6o_SdSg3i-17i2o2W0sFEocKeJPgDMr5pmQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pHXDa82R6O1ni_s7gslBsU6qjZtoQJczJckFdRfd_1OgCIV0CcouWMaRi5vBbh8o7JP9Svdj=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "65cTQ2c6IYY", "title": "Ansible in Production: Ansible Navigator | Real Time DevOps" },
+    { "id": "X6WtkaAXQu8", "title": "Multi Stage Dockerfile | Docker Production Build | NodeJS Docker App" },
+    { "id": "Udg3uJt9H2g", "title": "Ansible Role in Real Time | Real World Ansible Project | Wordpress Ansible Deployment" },
+    { "id": "8wurz3hobN0", "title": "Ansible For DevOps | Full Series | Real Time Ansible DevOps | Chapter 1 | Hindi" },
+    { "id": "UFgHy2KIUJU", "title": "Openshift Tutorial | Creating Openshift Users | Openshift 4.14" },
+    { "id": "f5BHXIB7spo", "title": "Openshift Tutorial | Openshift Groups and RBAC | Openshift 4.14" },
+    { "id": "WTCDIMnAq9Q", "title": "Openshift Deployment | Multi Tier Openshift App | Openshift Tutorial" },
+    { "id": "Vo8XmDNCZKE", "title": "Openshift Routes | Openshift Tutorial | Insecure Route | Edge Route | Passthrough Route" },
+    { "id": "ked2LiXKL1Q", "title": "Openshift Custom Roles | Openshift Tutorials | Openshift RBAC" },
+    { "id": "-TaQ7_NHJgc", "title": "Kubernetes Cluster - Join Workers into the Cluster - Kubernetes Training" },
+    { "id": "ojLnASJv41M", "title": "Kubernetes Cluster - Bootstrap cluster - Initialize Kubernetes Control Plane - Kubernetes Training" },
+    { "id": "4Fi94KhsDB8", "title": "Kubernetes Cluster Setup - Installing Packages on Kubernetes Manager - CKA Training - Kubernetes" },
+    { "id": "KC9ePHlnc7U", "title": "Kubernetes Cluster - Checking proxy for apt (package manager) access" },
+    { "id": "IA7HZM1B57I", "title": "Kubernetes Cluster - Checking Network Connectivity" },
+    { "id": "cDeOO-cu_f4", "title": "Configuring Squid for Kubernetes Cluster" },
+    { "id": "DwLr-zmBq1A", "title": "Installing Squid Server for Kubernetes Cluster Access to Internet" },
+    { "id": "ThbhNnxaaOY", "title": "Kubernetes Cluster Setup: Different Approaches - How to setup kubernetes cluster in production" },
+    { "id": "DA6zQBlBs7Q", "title": "Validate Kubernetes YAML-Check kubernetes yaml & solve compliance issues with Polaris" },
+    { "id": "n08Ii86aFMU", "title": "Kubernetes Priority Classes - Best way to guarantee resources to critical applications in production" }, 
+    { "id": "y_dId6drpsw", "title": "Kubernetes Pod Priority Classes - Best way to run critical applications in production" }, 
+    { "id": "ih95hxSeJnE", "title": "Why to use kubectl apply in production - kubectl create vs kubectl apply - CKA Training" },
+    { "id": "PrvS-C-4K3o", "title": "Change Internal IP Address of Kubernetes Worker - Kubernetes Hack" },
+    { "id": "3BjczAl-bd4", "title": "Kubernetes Storage Classes - Using NFS storage class for dynamic allocation of storage to pods." },
+    { "id": "LGiHrI1cRdc", "title": "Monitor Kubernetes Resources - cpu memory usage by pods - kubectl view allocations - kubectl plugin" },
+    { "id": "EdugsI4YhYc", "title": "Linux Server Monitoring with SAR & GNUPLOT | Monitor Linux Server Performance | RH442 Training" },
+    { "id": "il8YglA_shU", "title": "Kubernetes Components - Kubernetes Architecture - How Kubernetes Work" }, 
+    { "id": "AUYcv7dI9Zg", "title": "`BPYTOP` - Alternative to top in Linux - Monitor Linux server resources using `bpytop` utility" }, 
+    { "id": "jEW5X2BAzjI", "title": "K9S Kubernetes Cluster Management Tool - Terminal based UI Tool for Managing Kubernetes - CKA" }, 
+    { "id": "6H__GEvHPmM", "title": "Linux Disk Monitoring with `DUF` - Monitoring Linux Server Disk Usage with `DUF` - RHCSA Training" }, 
+    { "id": "1PWr6az9sM0", "title": "Docker Monitoring using CAdvisor" } 
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "MyCS1",
+    "name": "My CS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRwJBrnBhhX8fcuLftebJPcoIisQFYCZL-xFH3Lag=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WrDcBQGj7MPuF3qMuFdLjSu0fnhY9ogSGYA7bQySxVQK-5hFl8DfKZs6aOWARXnCyoEnLbIoPw4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WVUDw0sxZxk", "title": "Unix Command Line Tutorial" },
+    { "id": "83QCm3LkuEg", "title": "Classical Mechanics Lecture Full Course || Mechanics Physics Course" },
+    { "id": "U_P23SqJaDc", "title": "Cyber Security Full Course for Beginner" },
+    { "id": "hFjiwMQJers", "title": "CompTIA A+  Full Video Course for Beginners" },
+    { "id": "O4pJeXgOJDs", "title": "CompTIA Security+ Full Course" },
+    { "id": "5jIIOkA0NpI", "title": "Linux Tutorial For Beginners || Linux Command Line Tutorial" },
+    { "id": "iaeLv-ilMA0", "title": "Probability statistics tutorial || Probability for data science" },
+    { "id": "U_P23SqJaDc", "title": "Cyber Security Full Course for Beginner" }
+  ]
+}

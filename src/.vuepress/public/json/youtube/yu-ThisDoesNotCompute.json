@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "ThisDoesNotCompute",
+    "name": "This Does Not Compute",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaT2oj3t2XFgPqmsBqCR0V0PzG8F5H6YH58xSrOePQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2cNc6Ir8Q5lFjlhX0SZU6AUJf_MWIagFbV7kcTcTOWDRrm02udrU-MZqliKaHAUFp8DgkqTm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_eCF32sudqg", "title": "Can a simple software change make your vintage Mac even FASTER?" },
+    { "id": "eJdy7ktbvL8", "title": "The world's best trackball was built to break" },
+    { "id": "ZMnsu5pgMtc", "title": "That's a LOT of hard drives! | Synology DS1821+ NAS review" },
+    { "id": "vEm-f2MTjcY", "title": "PowerTower Pro: The Mac Clone That Almost Killed Apple" },
+    { "id": "AUAD-0931RY", "title": "Restoring Apple's most BORING vintage Mac" }
+  ]
+}

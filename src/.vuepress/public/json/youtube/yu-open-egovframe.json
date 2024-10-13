@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "open-egovframe",
+    "name": "표준프레임워크 오픈커뮤니티",
+    "profile": "https://yt3.googleusercontent.com/sRLzqQxWnxw1_1bhiiZ01KbZjGW5YJOzj_fn0zVC5XrFNkoHu0ZIIP9zNKTdKfySfBFsDvZFYQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_GzrZWr6pPnaPoR2VlxDdZxA_CECc373JYGxYZ_COl4JIJqHSuXH95vX2mu7oMjns1uLNTqEEQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Elcd9Zx3qeQ", "title": "[개발자 성장 이야기 2탄]★비전공자 개발자로 시작하여 스타트업 개발총괄이 되기까지의 여정!! (고재도 리더)" },
+    { "id": "sTBIsmYE6_k", "title": "[개발자 성장 이야기 1탄] 프리랜서 개발자에서 스타트업 대표로~ ohmyapp 김경하 대표의 이야기★꿈은 클 수록 더 쉽다! 더 큰 꿈을 꾸어라★" }, 
+    { "id": "eaZrC9ew9f4", "title": "MSA 개념과 ★전자정부 표준프레임워크 4.0 기반의 MSA 템플릿☆에 대해 같이 배워 볼까요?" },
+    { "id": "Sdv_rNTNpZc", "title": "[릴레이세미나2차] ★Git을 활용한 소스 코드 버전 관리의  이해! ★(feat 아주 상세한 데모))" },
+    { "id": "YNp_Rav0Lac", "title": "표준프레임워크 GitHub 컨트리뷰터 되어보기!(★허광남 리더)feat. Chat GPT가 생각하는 표준프레임워크의 사회적 위상은??" },
+    { "id": "WuWIBoxUIL0", "title": "★표준프레임워크 컨트리뷰션★ 개발자평가(1부) 올해에는 어떤 PR & Issue 건이 있었는지 함께 살펴 볼까요!" },
+    { "id": "SvTNNBZZ7jo", "title": "[누구나 알기 쉽게②] - 표준프레임워크★신버전 v4.1★ 신기능 및 개선사항 알기 쉽게 설명 드립니다!" }
+  ]
+}

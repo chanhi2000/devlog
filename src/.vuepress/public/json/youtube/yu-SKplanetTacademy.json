@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "SKplanetTacademy",
+    "name": "SKplanet Tacademy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l56rHjFqf_2Gk26B4nDPvIeQKy1E6dA-LSzxIqIA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8u2llmc7gkgKWO9Sq4lHaGkVCLQAqHOffGwmyV3xB24sRheCt1Y8GQDP4tUq0e_DPRhHaVnT=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wfnKyF63EzQ", "title": "프로젝트발표(1/11). 통신 장비 예지보전 및 기지국 관리를 위한 이상탐지 시스템 | T아카데미" },
+    { "id": "NMeYJ3zRjOQ", "title": "프로젝트발표(1/11). 반도체 FDC Trace data를 통한 WT 불량 예측 모델링 | T아카데미" },
+    { "id": "VZg_qverQJA", "title": "프로젝트발표(1/11). 청년들의 슬기로운 저축생활을 위한 금융상품 추천 서비스 | T아카데미" },
+    { "id": "EI1uJcRWtcI", "title": "프로젝트발표(1/11). LLM과 회귀모형을 이용한 부동산 전문 챗봇 제작 | T아카데미" },
+    { "id": "WEmBPKxp09I", "title": "프로젝트발표(1/11). 가상 시착 생성모델을 위한 Fashion-Image captioning 프로젝트 | T아카데미" },
+    { "id": "0ItEns7y7Yk", "title": "#ASAC #빅데이터분석가 3기 #기업MATCH #실전프로젝트 발표회" },
+    { "id": "_SVS4qn8HuY", "title": "MongoDB 프로그래밍 9강 MongoDB의 샤딩에 대해 알아보기 | T아카데미" }, 
+    { "id": "0i3ttGPBQp4", "title": "[토크ON세미나] 아파치 하둡 입문 2강 - 하둡 설치 | T아카데미" }, 
+    { "id": "OPodJE1jYbg", "title": "[토크ON세미나] 아파치 하둡 입문 1강 - 하둡의 탄생과 생태계의 활용 | T아카데미" }, 
+    { "id": "4GQRysL1Cc8", "title": "[토크ON세미나] 쿠버네티스 살펴보기 3강 - 실습 환경구성 | T아카데미" }, 
+    { "id": "v6TUgqfV3Fo", "title": "[토크ON세미나] 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미" }, 
+    { "id": "oUjpMJNtfYE", "title": "MongoDB 프로그래밍 3강 NOSQL 데이터 모델링 기법 살펴보기 | T아카데미" }, 
+    { "id": "oFdjv1CJRWo", "title": "[토크ON세미나] 디지털신호처리 이해 5강 - 디지털신호처리(DSP) 실습 II - DataLoader | T아카데미" }, 
+    { "id": "3OPZ7_sHtWo", "title": "토크ON 77차. 아파치 카프카 입문 5강 - Kafka 활용 실습" }, 
+    { "id": "36gDdQsITw0", "title": "[토크ON세미나] GCP기반의 데이터 엔지니어링 6강 - Google Kubernetes Engine | T아카데미" }, 
+    { "id": "MCgvlTdZGBw", "title": "[토크ON세미나] 스프링 부트를 이용한 웹 서비스 개발 2강 - 스프링부트 만들기 I | T아카데미" }, 
+    { "id": "62Dh9AWAp58", "title": "[토크ON세미나] 스프링 부트를 이용한 웹 서비스 개발 4강 - 스프링부트 만들기 III | T아카데미" }, 
+    { "id": "egVZusxSeKw", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 2강 - JPA 기초와 매핑  | T아카데미" }, 
+    { "id": "gRqyzi9VGYc", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 8강 - Spring Data JPA와 QueryDSL 이해 | T아카데미" }, 
+    { "id": "0zTtkIYMOIw", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 5강 - 양방향 매핑 | T아카데미" }, 
+    { "id": "PMNSeD25Qko", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 6강 - JPA 내부구조 | T아카데미" }, 
+    { "id": "bEtTpCviSc4", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 4강 - 연관관계 매핑 | T아카데미" }, 
+    { "id": "TYO42hpPLq4", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 3강 - 필드와 컬럼 매핑 | T아카데미" }, 
+    { "id": "wt_BEqxjaj8", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 7강 - JPA 객체지향쿼리 | T아카데미" }, 
+    { "id": "WfrSN9Z7MiA", "title": "[토크ON세미나] JPA 프로그래밍 기본기 다지기 1강 - JPA 소개 | T아카데미" }, 
+    { "id": "26GuwzdB3iI", "title": "[토크ON세미나] 스프링 부트를 이용한 웹 서비스 개발 1강 - 스프링부트 소개 | T아카데미" }
+  ]
+}

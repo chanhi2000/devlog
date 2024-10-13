@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "jsconf_",
+    "name": "JSConf",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMTY7T2frew2wtewx0iwYEKVfQio4mdD3dMnFLKlw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/82w5wSfuGRtydDZJJQGadN6sJFGnwPoQ5ICZLVWudGBO_qRr6gBLkMdtMr3ZedtnEuAvELNF-Ac=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "I4VkZ5H9PE8", "title": "JSConf.ar 2014" },
+    { "id": "jzb_0BRM6yk", "title": "🚀JSConf Colombia 2023: Live Stream Day 1 - Sponsored by Platzi" },
+    { "id": "CjGA5ba5aCc", "title": "🚀JSConf Colombia 2023: Live Stream Day 2 - Sponsored by Platzi" },
+    { "id": "Om33AjwtQ_Y", "title": "Rebuild React Hooks yourself for Node" }
+  ]
+}
+

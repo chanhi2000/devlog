@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "n8n-io",
+    "name": "n8n",
+    "profile": "https://yt3.googleusercontent.com/pL7qlWi_JdOlO45V7SWwE6jfctSrt_KIxX9tVZ1JOFmLI9HdQ_K8g7eGFRDmiiHTA2kK5TjeiA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TIZzO70nAMF_rBylFxjEyDan5A97YX33iobHEXSvUhuT8hzFm0FKzPKrppb60F_AsVLec5-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ridgm0WXV0s", "title": "Todoist and Notion integration: Automated workflow (+ Free Template)" },
+    { "id": "1qNcPKE-0O0", "title": "How to Structure Data with n8n Nodes - Oskar" },
+    { "id": "IJdt_Ds-gmc", "title": "OpenAI and Google Sheets integration: Automated workflows (+ 2 Free Templates)" },
+    { "id": "ax_DwF0bw2g", "title": "Using AI Crew to Automate Fundamental Stock Analysis - Derek Cheung" },
+    { "id": "K9P9phm33m4", "title": "Community Hangout, Friday, April 12: Creating custom integrations for n8n" },
+    { "id": "Lfd23yFKyUo", "title": "Using the HTTP node - smamudhan" },
+    { "id": "ODdRXozldPw", "title": "How to build a Telegram AI bot with n8n – Step-by-step tutorial" },
+    { "id": "bcKY-tI9x4g", "title": "Community Hangout February 1st, 2024: 2023 Review & Community Awards" },
+    { "id": "m6EH-jWIJQI", "title": "Notion-Gmail integration: Automated workflow (+ Free Template)" },
+    { "id": "eZacuxrhCuo", "title": "Community Hangout March 7, 2024: Introduction to AI & Community Demos" }
+  ]
+}

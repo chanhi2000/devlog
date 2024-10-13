@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "adam_la_morre",
+    "name": "Adam La Morre",
+    "profile": "https://yt3.googleusercontent.com/enV1Z6ZvdGmcc8LYmpFGQQ66FX_uP7Fpqodrxk0At84niNh1MpWNikIDk-W9CRIKQ5NtK9EOWtI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "JLdEbb8Hcww", "title": "Build and run Django in Docker in 10 minutes (+ bonus tips)" },
+    { "id": "Ehs9GizBH8I", "title": "Connect Django to a PostgreSQL database hosted on AWS (in 20 minutes)" },
+    { "id": "mbUOtILjGgU", "title": "Complete Django Deployment (with AWS, Docker, EC2, RSD, Route53)" },
+    { "id": "Fzv-rgwcFKk", "title": "NodeJS Realtime Chat: Build a FULL-STACK app in 27 Minutes! (Best UI 🤩)" }
+  ]
+}

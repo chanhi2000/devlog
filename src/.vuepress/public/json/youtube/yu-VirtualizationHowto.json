@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "VirtualizationHowto",
+    "name": "VirtualizationHowto",
+    "profile": "https://yt3.googleusercontent.com/65nLR9v18wtkT4m0-GTDYoaw87IHghpcwqWhhWAMzxnFXEAfeHAFwrFmxbu8D12jENdV62fXDA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J3jQFYAyRWx-G_rHNHIjDPLuCpM-T1kQZkMZDCTdRg4_j0E1SRN9r05CQH1TSNdLkAJgN-kJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bo33EQk9CCM", "title": "Proxmox 10 tweaks you need to know" },
+    { "id": "TC03qsOhLvA", "title": "VMware Host Client Beta // Bringing back the desktop app" },
+    { "id": "8-IQAqIpT5s", "title": "Best Docker Containers in 2024" },
+    { "id": "osa7VYQCLtg", "title": "Trigkey S7 Pro Review runs VMware and Proxmox perfectly // Home Lab Server" },
+    { "id": "0ICUM3Q999Y", "title": "MiniPC vs Servers in the Home Lab in 2024" },
+    { "id": "rQHHqUDkf7M", "title": "VMware Workstation Pro and Fusion Now Free for Personal Use!" },
+    { "id": "3G13mf2Tkzs", "title": "Top 5 Mini PCs for Home Server in early 2024" },
+    { "id": "xJkfI3ohs9Y", "title": "BEST Server Monitoring with TICK stack setup for FREE!" },
+    { "id": "gcLun0wDPoI", "title": "Minisforum NAB6 Lite Mini PC Review // Home Lab Server" },
+    { "id": "ti_2epuntK4", "title": "Best Virtualization Projects in 2024 for the Home Lab" },
+    { "id": "cjlpp0Da_Qk", "title": "Firewalla Gold SE Review: Is it a Good Firewall for home lab?" },
+    { "id": "bTTDBCCKQ2U", "title": "Best Free Hypervisors in 2024" },
+    { "id": "rg_ijDFkpaI", "title": "Nutanix Community Edition Home Lab - Is it good?" },
+    { "id": "stQzK0p59Fc", "title": "Proxmox VLAN Configuration: Linux Bridge Tagging, Management IP, and Virtual Machines" },
+    { "id": "uPt3VKQOMBs", "title": "Connect Kubernetes to your Synology NAS NFS share" },
+    { "id": "bsB2dvpdBYg", "title": "Yacht vs Portainer - Docker Dashboard comparison!" },
+    { "id": "BatCdEsJgEo", "title": "Kubernetes Home Lab Storage with Microk8s Rook and Ceph" },
+    { "id": "wqtEUFDdZXU", "title": "Netshoot Docker container for Docker compose networking host troubleshooting" },
+    { "id": "zxAmqY63eJE", "title": "Best Docker Container Monitoring Tools - Free and open source" }
+  ]
+}
+

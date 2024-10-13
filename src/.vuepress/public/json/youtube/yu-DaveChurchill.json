@@ -1,0 +1,96 @@
+{
+  "channel": {
+    "id": "DaveChurchill",
+    "name": "Dave Churchill",
+    "profile": "https://yt3.googleusercontent.com/bC90D9OdNNiQt4D7msdMDY666isW9SiRUeVcj_swlvKE3g6LyPYF1SqV6AtfcK9gHdODOovEuA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gu35dVdWpR0", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 17 - Markov Decision Process (MDP)" },
+    { "id": "tvdX4WczNzA", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 21 - Intro to Deep Neural Networks" },
+    { "id": "5aZGbmbVcVQ", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 08 - Game Theory (1/2) Matrix Games" },
+    { "id": "Sk4XfhC5Awk", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 09 - Game Theory (2/2) Nash Equilibrium" },
+    { "id": "YBEWToJUB1w", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 14 - Assignment 4" },
+    { "id": "m8joNgFKuxo", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 02 - Agents and Environments" },
+    { "id": "8vGJegrx9Ls", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 03 - Problem Solving and Search" },
+    { "id": "DKG7oM3o9bA", "title": "COMP6980 - Intro to Artificial Intelligence - Lecture 05 - Heuristic Search + A* Search Algorithm" }
+  ],
+  "playlists": [
+    {
+      "title": "COMP 3200 - Intro to Artificial Intelligence (Fall 2022)",
+      "videos": [
+        { "id": "AzUZiUz-Wpc", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 01 - Course Introduction" },
+        { "id": "sVgEMI-cb34", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 02 - Agents & Environments" },
+        { "id": "UIs-Q1H3Www", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 03 - Problem Solving and Search" },
+        { "id": "8SCQaGf_u8I", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 04 - Assignment 1" },
+        { "id": "shRIDOGrnkY", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 05 - Heuristic Search and the A* Algorithm" },
+        { "id": "TEl5XBaRiug", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 06 - Search Optimizations + Assignment 2" },
+        { "id": "qUxpAd3xX20", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 07 - Hash Functions" },
+        { "id": "FQL1P_X-2Wg", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 08 - Game Theory (Part 1/2)" },
+        { "id": "m7A2fgMhbaw", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 09 - Game Theory (Part 2/2) - Nash Equilibrium" },
+        { "id": "I4y5OgJEWmo", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 10 - Minimax + AlphaBeta + A3" },
+        { "id": "8ddk-3VdKZw", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 11 - Evolutionary Computing" },
+        { "id": "AAQFNsF0Z0U", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 12 - Assignment 4" },
+        { "id": "iPm1rcreoO0", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 13 - Intro to Reinforcement Learning" },
+        { "id": "zQ575dNprFg", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 14 - Bandit Algorithms" },
+        { "id": "ZY7i4EIigJg", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 15 - MDP + Dynamic Programming" },
+        { "id": "0XhtXlySzGk", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 16 - Monte Carlo RL Methods" },
+        { "id": "b2VFP_lJdps", "title": "COMP3200 - Intro to Artificial Intelligence - Connect 4 Tournament" },
+        { "id": "K2NXOI4GwBk", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 17 - Temporal Difference Learning + A5" },
+        { "id": "L6wJR1JKHVY", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 18 - Intro to Neural Networks" },
+        { "id": "ImPuIU1GxmE", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 19 - Deep Neural Networks" }
+      ]
+    }, {
+      "title": "COMP 4300 - Fall 2023 - C++ Game Programming",
+      "videos": [
+        { "id": "s99UDGdYIUE", "title": "COMP4300 - Game Programming - Lecture 01 - Course Introduction" },
+        { "id": "rq0oMlWZhdI", "title": "COMP4300 - Game Programming - Lecture 02 - Intro to C++ (1/2)" },
+        { "id": "h9fnFgeX1j8", "title": "COMP4300 - Game Programming - Lecture 03 - Intro to C++ (2/2)" },
+        { "id": "dNry2pOiAn4", "title": "COMP4300 - Game Programming - Lecture 04 - Assignment 1" },
+        { "id": "G4wpDNa5Bm4", "title": "COMP4300 - Game Programming - Lecture 04a - SFML / ImGui Tutorial" },
+        { "id": "4BPxD61lZog", "title": "COMP4300 - Game Programming - Lecture 05 - Intro to ECS" },
+        { "id": "iPJ0EETgIuQ", "title": "COMP4300 - Game Programming - Lecture 06 - EntityManager + Game Math" },
+        { "id": "DLlGY1Po6Bk", "title": "COMP4300 - Game Programming - Lecture 07 - Assignment 2" },
+        { "id": "HYS39tBuF6w", "title": "COMP4300 - Game Programming - Lecture 08 - Collision Detection" },
+        { "id": "H_kOy8Bphjw", "title": "COMP4300 - Game Programming - Lecture 09 - Sprites / Textures / Animations" },
+        { "id": "Jo5DlIrNiaE", "title": "COMP4300 - Game Programming - Lecture 10 - Actions and Replays" },
+        { "id": "2ilA46JFiX0", "title": "COMP4300 - Game Programming - Lecture 11 - Assignment 3" },
+        { "id": "LKWnf_-d2CA", "title": "COMP4300 - Game Programming - Lecture 12 - Course Project Explained" },
+        { "id": "rHI8WP3zdF0", "title": "COMP4300 - Game Programming - Lecture 13 - Ray Casting, Lighting, Vision" },
+        { "id": "Dty6rgCog88", "title": "COMP4300 - Game Programming - Lecture 14 - Game Cameras / Views" },
+        { "id": "OB_l5lJae6c", "title": "COMP4300 - Game Programming - Lecture 15 - Pathfinding and Steering" },
+        { "id": "02ITGTalU5w", "title": "COMP4300 - Game Programming - Lecture 16 - Saving, Tools, Drag and Drop" },
+        { "id": "9ch9Q-NaACs", "title": "COMP4300 - Game Programming - Lecture 17 - Assignment 4" },
+        { "id": "x7shYL7UDDs", "title": "COMP4300 - Game Programming - Lecture 18 - Advanced Game Loops" },
+        { "id": "IF1YHCvMP54", "title": "COMP4300 - Game Programming - Lecture 19 - Caching + ECS Memory Pool" },
+        { "id": "6Pp_v1N_zV0", "title": "COMP4300 - Game Programming - Lecture 20 - C++ Visual Code Profiling" },
+        { "id": "C7J3C0iUzhM", "title": "COMP4300 - Game Programming - Lecture 21 - Intro to Shaders" },
+        { "id": "hPeXrGTZ-8M", "title": "COMP4300 - Game Programming - Lecture 22 - Vertex Arrays and Particle Systems" }
+      ]
+    }, {
+      "title": "COMP 3200 - Fall 2023 - Intro to Artificial Intelligence",
+      "videos": [
+        { "id": "GAyOoLsu8R0", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 01 - Course Intro" },
+        { "id": "Sq9Mf54o47c", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 02 - Agents and Environments" },
+        { "id": "ZXoyWxEvTP8", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 03 - Problem Solving and Search" },
+        { "id": "rG4ViylcCyo", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 04 - Assignment 1" },
+        { "id": "wfB-Vuy7icA", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 05 - Heuristic Search and the A* Algorithm" },
+        { "id": "Fobo6qzimmA", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 06 - Assignment 2" },
+        { "id": "3xZK191Tg70", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 07 - Hash Functions / Tables" },
+        { "id": "h5SgVdac0qs", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 08 - Game Theory (1/2)" },
+        { "id": "9liqF90gRpI", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 09 - Game Theory (2/2)" },
+        { "id": "r8yLE5y4rpc", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 10 - Minimax + AlphaBeta Search" },
+        { "id": "5BYLdlJlExQ", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 11 - Assignment 3" },
+        { "id": "UIHZrhDQd5M", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 12 - Evolutionary Computing" },
+        { "id": "RUgf36gj-h8", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 13 - Assignment 4" },
+        { "id": "wLOEfcqNJkA", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 14 - Intro to Reinforcement Learning" },
+        { "id": "iuoDuNxYvpM", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 15 - Bandit Algorithms" },
+        { "id": "DCso5qEJVic", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 16 - MDP / Dynamic Programming" },
+        { "id": "RyrG9g63dmk", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 17 - RL Monte Carlo Methods" },
+        { "id": "g52Fbv_nuZ8", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 18 - Temporal Difference Learning + A5" },
+        { "id": "oap7-oarlwE", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 19 - Intro to Neural Networks" },
+        { "id": "k57lbaqpi1s", "title": "COMP3200 - Intro to Artificial Intelligence - Lecture 20 - Deep Neural Networks" }
+      ]
+    }
+  ]
+}

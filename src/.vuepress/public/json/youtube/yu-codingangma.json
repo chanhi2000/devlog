@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codingangma",
+    "name": "코딩앙마",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMO-0I93YXmy9QUlNaDglhu6pmKXTCIdnkyuQWd=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Zb_X1SDo7svrZw6NV6W9QLqLFmOaSyM7FpupnQVTlnkPs7UkyP0Wx1x6t0rqWGpLd9e-RGqgMQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ybz1AU9zO24", "title": "HTML input valueAsNumber" },
+    { "id": "pGOjg4hMf3A", "title": "React Testing Library #3 요소를 찾는 쿼리 `getBy~` Queries" }
+  ]
+}

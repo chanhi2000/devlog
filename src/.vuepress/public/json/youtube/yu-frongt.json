@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "frongt",
+    "name": "프롱트",
+    "profile": "https://yt3.googleusercontent.com/PVbwh8OLmp3dTofJ7vmv6zfoRKiFgIvL9SsTYaermGxW3Ga6vONSfC7ymrgpO6gUCd9nKcZp0Sc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iQx_lCTQix7c8Hq7sFlNZB1_ORXT2a4-lN-c_gDxIo1w4kAah7dJUdRpXH8rupFH7fNKyzj4EZk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lvqIrPVnJQc", "title": "웹사이트 프로파일링 (feat. 크롬개발자도구)" },
+    { "id": "s-k7wwLJqtA", "title": "친해지실게요" },
+    { "id": "gGKp_xQya6o", "title": "React Conf 2024 정리 - 여전히 놀라운 리액트 !" },
+    { "id": "zuNc6hCVMwY", "title": "리액트 인기는 계속 이어질까? 과~연?" },
+    { "id": "HFhHmJSBwFQ", "title": "이런 것들을 만들어 보세요~" },
+    { "id": "YVYgeTcM6ew", "title": "프론트엔드 코드를 망치는 9가지 방법" },
+    { "id": "-bJ5rkdtgQs", "title": "요즘 회사들이 원하는 역량은?" },
+    { "id": "BZhFObQ0nc8", "title": "이것은 필수이며 기본입니다." },
+    { "id": "vf8WjR4zJj0", "title": "figma 드리븐코딩?  Next말고 no JS대세? TS 꺾이나..?" },
+    { "id": "9KK4URh_YjI", "title": "이건 알고 리액트랑 넥스트 하는 걸로" },
+    { "id": "eeC6t9ZGmMs", "title": "함수는 (알고보면) 객체였다?" },
+    { "id": "RzbBeRSnvRo", "title": "리액트 잘하기 위한 8가지 방법" },
+    { "id": "U6mbrjkQuGs", "title": "웹 개발자가 꼭 알아야할 보안 이야기" },
+    { "id": "OmrxrHSrS2Y", "title": "이벤트 관리의 기본" },
+    { "id": "ErMvjDMskFA", "title": "웹 개발 디버깅 꿀팁 시리즈 (디버깅 1편. HTML)" }, 
+    { "id": "toUlXhTZZ8w", "title": "`if`만 제거했을뿐인데.. 클린코드라니" }, 
+    { "id": "uvyx4429ztg", "title": "Promise 패턴 (5 분 컷)" }  
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "ResoCoder",
+    "name": "Reso Coder",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPq2liLOtOmdhjeUEg9Ru0jw5J8dsLGlRCrVX9Y=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KFUZ-65Ac4RBwG10jUAR8slwAYHPuvEvjAquQ6lPRRLo4uyWgrCoSJtNeEGmbAtUJQPeDHRmXPo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zp7VKVhirmw", "title": "Riverpod 2.0 – Complete Guide (Flutter Tutorial)" }, 
+    { "id": "y564ETOCog8", "title": "Flutter Bloc & Cubit Tutorial" }, 
+    { "id": "8j7W91ZJuV0", "title": "Flutter MobX Tutorial – Transparent & Reactive State Management?" }, 
+    { "id": "S6jFBiiP0Mc", "title": "Bloc Test Tutorial – Easier Way to Test Blocs in Dart & Flutter" }, 
+    { "id": "T1hzNcaAKiA", "title": "Flutter Sailor Navigation Tutorial – The Simplest Navigator Library?" }, 
+    { "id": "_T4zjIEkGOM", "title": "Introduction to MVVM on Android - Tutorial - Learn Android Architecture Patterns" }, 
+    { "id": "lPkWX8xFthE", "title": "Flutter TDD Clean Architecture Course [2] – Entities & Use Cases" }, 
+    { "id": "jYuK1qzFrJg", "title": "Kotlin Coroutines Tutorial (STABLE VERSION) - async / await, withContext, launch" }, 
+    { "id": "d7UxPYxgBoA", "title": "Android MVVM Kotlin Tutorial - LiveData + ViewModel (Android Architecture Components)" }, 
+    { "id": "-Lha9n8VJf0", "title": "Kotlin - Apply, Let, Run, With, Also - Higher Order Standard Functions" }, 
+    { "id": "0yH1qDxqZMo", "title": "Navigation Component Crash Course - Android Kotlin Tutorial" }, 
+    { "id": "cG26G8WNv-0", "title": "Firebase Firestore Chat App: Creating a Chat Channel (Ep 4) - Kotlin Android Tutorial" }
+  ]
+}
+

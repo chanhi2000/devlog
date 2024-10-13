@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "hacoding",
+    "name": "하코딩",
+    "profile": "https://yt3.googleusercontent.com/vKByiwlV2agEcfYOURSfmCn8dq_PX4K5Km1ObyHe_AJ9k6lxKTslymujYbqFRhkKLj7UEUZN8A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zUVi8thkoeacZHCMjX1lWU49wWttki8WY2KoSeiqEZb2A_opVy15Jiiw_k8EgVgF9e_BvGIR=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "CodeUp 기초100제 (Python)",
+      "videos": [
+        { "id": "7GZozimvDWg", "title": "CodeUp 기초 100제 python 기초 출력" },
+        { "id": "J424yTSAdaM", "title": "CodeUp 기초 100제 python 기초 입출력" },
+        { "id": "WHkyDny2swY", "title": "CodeUp 기초 100제 python 기초 값변환, 출력변환" },
+        { "id": "jdaTcwUg21U", "title": "CodeUp 기초 100제 python 기초 산술연산" },
+        { "id": "GN75WN51HXU", "title": "CodeUp 기초 100제 python 기초 비트시프트 & 비교연산자" },
+        { "id": "ilcgksXIA3s", "title": "CodeUp 기초 100제 python 기초 논리연산" },
+        { "id": "WppVGd2OLp8", "title": "CodeUp 기초 100제 python 기초 비트단위논리연산" },
+        { "id": "0_HVVdG_kLQ", "title": "CodeUp 기초 100제 python 선택실행구조" },
+        { "id": "hRhu0YzQxX0", "title": "CodeUp 기초 100제 python 반복실행구조" },
+        { "id": "vOy-56g5hrc", "title": "CodeUp 기초 100제 python 종합1" },
+        { "id": "TQ98sVj93QA", "title": "CodeUp 기초 100제 python 종합2" },
+        { "id": "lcJJ_6QRqmI", "title": "CodeUp 기초 100제 python 리스트1" },
+        { "id": "OA1VLRYEQtA", "title": "CodeUp 기초 100제 python 리스트2" },
+        { "id": "yku5Pc9o9dg", "title": "CodeUp 기초 100제 python 리스트3" },
+        { "id": "KHJXjBO9RhM", "title": "CodeUp 기초 100제 python 리스트4" }
+      ]
+    }
+  ]
+}

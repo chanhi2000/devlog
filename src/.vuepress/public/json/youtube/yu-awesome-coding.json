@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "awesome-coding",
+    "name": "Awesome",
+    "profile": "https://yt3.googleusercontent.com/vkuccQniLC4wYqYnMjHp7fQLf3aKKPmagPOSoFYr4kLCp2J822-ikXMNMI4afoT67R-nTLzf0Os=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dsJKoz3hgne41o9N9qlVGpD4tZu8VtBYpo3NkPIp0kaaVZzfL3SCVAFXJY_RUkn4srRJ5Krexw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sCHvnJLf1hY", "title": "Astro Just Got Better" },
+    { "id": "PGlGkhk9B_8", "title": "The Web Developer Profile" },
+    { "id": "wlIqV5dLikI", "title": "Rust First Impressions" },
+    { "id": "tDWmfenF2AM", "title": "The Easiest Way to Store Data" },
+    { "id": "GJ8NuKBWn6Y", "title": "Write Once, Run Anywhere" },
+    { "id": "_hb_oRhASuw", "title": "Composition Over Inheritance" },
+    { "id": "nLGmp0BXC-0", "title": "JavaScript Might Get Better" },
+    { "id": "FPiiiE4LXVw", "title": "Now Is The Best Time to Learn Go" },
+    { "id": "qSQtKtmj4M0", "title": "React 19 - This Has To Stop!" },
+    { "id": "v8-yeWXCsi4", "title": "Now is The Best Time to Learn WebAssembly" },
+    { "id": "GCrjzRmn4os", "title": "Now is the Best Time to Learn Tailwind" },
+    { "id": "f5MpjDtnFP4", "title": "Why Is Lua SO Popular?" },
+    { "id": "E7pxGyEcPNI", "title": "Go is Surprisingly Easy" },
+    { "id": "bti-bnGbyak", "title": "The HATE Stack - Simple and Efficient" },
+    { "id": "rmNGG2lP0lg", "title": "The Best Kept Web Dev Secret" },
+    { "id": "qzQ8fKLDUyo", "title": "What I Learned From Building a Framework" },
+    { "id": "ur9pW5hUJkg", "title": "The Solid JS Video" },
+    { "id": "Qi9A6-xoOkA", "title": "The Simplest Tech Stack" },
+    { "id": "MovjVwGa9F4", "title": "Google Replaced Java With THIS!" },
+    { "id": "R0tJdNoq74M", "title": "Auth.js is a Lifesaver" },
+    { "id": "zAOcN0ZENLU", "title": "The Easiest Way to Manage Your Data" },
+    { "id": "I2NzfOOI7xY", "title": "These frameworks broke front-end development" }
+  ]
+}

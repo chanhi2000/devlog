@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NullByteWHT",
+    "name": "Null Byte",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY_ja93YN0XLewpBqtfm3ouJguIkjsvSPXWSw76=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4m4ndrshgDhpVUoF-yHrR2mxRWYMWY1uBh5e8w0qMBpAi3h4VgacYryvV-Ab8KxzVUjmG6GL8A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PPQ8m8xQAs8", "title": "Write Your Own Bash Scripts for Automation [Tutorial" },
+    { "id": "DOTT6m54eRk", "title": "How Hackers Can Crack Your Wi-Fi Passwords Using Pyrit" }
+  ]
+}

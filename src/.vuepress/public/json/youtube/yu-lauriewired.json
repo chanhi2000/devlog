@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "lauriewired",
+    "name": "LaurieWired",
+    "profile": "https://yt3.googleusercontent.com/ZRl3ENHeNOKb-weB6CVuKiUCbLBeTBReE8XCqgF1_hagcrzGL2Wf0bAJgKqjoUlCQL05a3fmJQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WGV9Esz36MxyW0bjMOuA5H0gzDz_BgFeh7njtvkFVhc8d-AQ9OY5SprBBnUKFQd0-xlup-5lYJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2iBqqPmUYfE", "title": "Chaos to Clarity: Deciphering Obfuscated JavaScript Malware" },
+    { "id": "i55ptVQw1Kk", "title": "A Competition for Unreadable Code?" },
+    { "id": "Ozj_xU0rSyY", "title": "The Magic of RISC-V Vector Processing" },
+    { "id": "HlUBE70h2C0", "title": "Mastering Memory: Allocation Techniques in C, C++, and ARM Assembly" },
+    { "id": "6YcAItcLOCg", "title": "Watch Android Spring to Life on RISC-V in 60 Seconds!" },
+    { "id": "_6zAAhkU_Iw", "title": "What ACTUALLY happens during a Stack Overflow?" }
+  ]
+}

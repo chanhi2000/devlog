@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "AssortRockGameAcademy",
+    "name": "어소트락 게임아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ2jnsUF2cCi8UPoWyeRLF7KXNe1Erey7u30Nvy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d1YQ7WcrJ11xQC_BOsHW7PMCZX_GgRi-bmLgCgZaFsdeliNmWQ8NmJi4Tm0Oh_URh103ZjOGQyM=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DUfjvApO1DE", "title": "Window API 2D 게임 포트폴리오 록맨 X 모작 42기 권오준" },
+    { "id": "xSNBZfWCJdo", "title": "Window API 2D 게임 포트폴리오 아이작 모작 42기 박규택" },
+    { "id": "CbO0QKdtKns", "title": "Window API 2D 게임 포트폴리오 BABA IS YOU 모작 42기 오민수" },
+    { "id": "E6ETe7aql0I", "title": "DirectX11 2D 게임 포트폴리오 Have A Nice Death 모작 42기 이재명" },
+    { "id": "32ZQ0BqN9Pg", "title": "Window API 2D 게임 포트폴리오 크레이지 아케이드 모작 43기 김성욱" },
+    { "id": "ZHdVYbDAIx0", "title": "Window API 2D 게임 포트폴리오 RockMan 4X 모작 43기 서영재" },
+    { "id": "A1gVNCwn_rU", "title": "Window API 2D 게임 포트폴리오 캐슬 바니아 악마성 월하의 야상곡 모작 43기 서종원" },
+    { "id": "B7OCcTQAI5o", "title": "Window API 2D 게임 포트폴리오 위자드 오브 레전드 모작 41기 김동현" },
+    { "id": "fG_KFCJ0QT0", "title": "Window API 2D 게임 포트폴리오 뱀파이어 서바이벌 모작 41기  김관현" },
+    { "id": "2prPGBqUSC4", "title": "Window API 2D 게임 포트폴리오 포켓몬스터 리프그린 모작 41기 김강현" },
+    { "id": "Upe5u4C4XXI", "title": "Window API 2D 게임 포트폴리오 포켓몬스터 에메랄드 모작 43기 장건희" },
+    { "id": "xAGk6JxA3Xs", "title": "Window API 2D 게임 포트폴리오 컵헤드 모작 44기 강성복" },
+    { "id": "3F3Anb_Ojjg", "title": "DirectX11 2D 게임 포트폴리오 월드 플리퍼 모작 41기 김범중" },
+    { "id": "5ayalc8_8cM", "title": "DirectX11 2D 게임 포트폴리오 메이플스토리 모작 41기 김형호" },
+    { "id": "hhH5AzZE9Hk", "title": "DirectX11 2D 게임 포트폴리오 환세취호전 모작 41기 이강혁" },
+    { "id": "0nUzpU33U9U", "title": "언리얼엔진 포트폴리오 롱빈터 모작" },
+    { "id": "PFc4g8mxOiI", "title": "C/C++ 강의 Prologue. C++ 공부이유와 공부법" }
+  ]
+}

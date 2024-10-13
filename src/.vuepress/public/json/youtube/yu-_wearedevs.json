@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "_wearedevs",
+    "name": "WeAreDevelopers",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSCPbi5-bbREHUeUMtDzKc_R6_OiMg_aiKFUfZMrA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E_o_jcl9cKUCnJjV58qiAO7kRuExjaKtu2P3OWSbnDxoqQDprCR-3weHhfxqGU-UIupqbH_ql1k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DUtBFsSWfgU", "title": "Tech Recruiting Academy   Hard to Fill Vacancies  From Stalemate to Success" },
+    { "id": "icviWfU3XXM", "title": "WeAreDevelopers LIVE - Cloud Day" },
+    { "id": "DZruBZEh0k8", "title": "Forget Developer Platforms, Think Developer Productivity!" },
+    { "id": "FSsd1bVz-_c", "title": "Three Quick Questions to a Developer with Mahesh" },
+    { "id": "k2YmbwvoS4Q", "title": "Tech Recruiting Academy - Effective Ways for Attracting and Retaining Tech Talent" },
+    { "id": "L1ca_fONfjI", "title": "Tech Recruiting Academy - Harnessing African Talent to Drive European Tech Success" },
+    { "id": "0m0nipeBAqE", "title": "WeAreDevelopers LIVE - Frontend Performance Day" },
+    { "id": "NEqXbnKTbL8", "title": "This Week in Tech: Inside the Dev Digest 123" },
+    { "id": "WYmyZBg2VFI", "title": "WeAreDevelopers LIVE - Python Day" },
+    { "id": "Lr9f64B6Lao", "title": "Coffee With Developers: The Uncertain Future of Web Apps on iOS in the EU" },
+    { "id": "bS2Na2zWvFQ", "title": "Tech Recruiting Academy - The secret sauce to collaborating with hiring managers" },
+    { "id": "bvNonifIKRg", "title": "Coffee with Developers: David Heinemeier Hansson" },
+    { "id": "ZmGnqkTWHYA", "title": "Three Quick Questions to a Developer with Jenny" },
+    { "id": "wNhp3Neq_Ak", "title": "Five VS Code Shortcuts To Improve Your Markdown" },
+    { "id": "-TXt0Yw61wY", "title": "WeAreDevelopers LIVE - WebDev Day" },
+    { "id": "Ew0kHEqyQG4", "title": "WeAreDevelopers LIVE - Java Developer Day" },
+    { "id": "BeMzVjcsJ7o", "title": "Are you done yet? Mastering long running processes in modern architectures" },
+    { "id": "4pI_BLaUIwk", "title": "Three Quick Questions with Sascha" },
+    { "id": "VCOsmbLKp5g", "title": "Tech Recruiting Academy - How to recruit a Python developer" },
+    { "id": "XO1FqCCgvfE", "title": "WeAreDevelopers LIVE - DevOps Day" },
+    { "id": "1KLRDouvVKU", "title": "From teaching to tech to WeAreDevelopers - Daniel Cranney - Coffee with Developers" },
+    { "id": "FU5Orct5_OY", "title": "WeAreDevelopers LIVE - Python Day" },
+    { "id": "ALn5F9h7pg8", "title": "Tech Recruiting Academy - Recruiting in 2024: An Outlook" },
+    { "id": "pTaxXLyJPC0", "title": "Coffee with Developers -  Stian Standahl - making ChatGPT talk Norwegian" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "hackitconsultancy",
+    "name": "HACK IT CONSULTANCY",
+    "profile": "https://yt3.googleusercontent.com/0mJ5wA6qDfqtN9ZYPzQKN4FMkFdHyF2-Zuk3JVM1gEcZj91TU3_gLkqA3XM6ut0s1hN0SDU0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jJdf79cmYAj64iUtvXsGdbWceqAd2OR0uTK60BNApmFgmJevVq156N8hd4BgzBjcVCtju41eXw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yex18NigtOM", "title": "Introduction to Capture The Flag Q and A - Bootcamp Week 3" },
+    { "id": "uzEXy4hEXnA", "title": "Vulnerability Research Q and A - Bootcamp Week 6" },
+    { "id": "6iTO0IvxyIs", "title": "Vulnerability Research - Bootcamp Week 6" },
+    { "id": "6vT_hYyGM9w", "title": "Introduction to Windows Penetration Testing Part 2  - Bootcamp Week 7" },
+    { "id": "uoJVkFxUqRc", "title": "John Musyoki - Introduction to Penetration Testing Tools Q and A" },
+    { "id": "WfRpFEE7i9Q", "title": "John Musyoki - OSINT Q and A" },
+    { "id": "ecmZLxsD5I8", "title": "Governance Risk and Compliance - Bootcamp week 1" },
+    { "id": "onDH039iW1A", "title": "H4K-IT Bootcamp COHORT 2 Presentation Day" },
+    { "id": "aN0mVyo_XY4", "title": "H4K IT Bootcamp Cyber Crash Course - Understanding Cybersecurity" },
+    { "id": "bN0UEF3ZzFI", "title": "H4K IT Bootcamp Cyber Crash Course - Introduction to Ethical Hacking" }
+  ],
+  "playlists": [
+
+  ]
+}

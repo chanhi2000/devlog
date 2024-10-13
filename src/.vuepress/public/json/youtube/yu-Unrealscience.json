@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Unrealscience",
+    "name": "안될과학 Unrealscience",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQfGySdD9MJa0z1AghDZ1sniKKstSJu3nV55xON=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X1OFoD8Kobw3D2jrkxDI5kg8i0eFvgyNPXqHPW2F6xFGCmaXaPtnsdGkSnEu8jE38Of2-PFm7QU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PlnyyHlquUs", "title": "핵융합 에너지 혁명의 주역! 토카막의 원리와 역사! 핵융합의 발전 1부! [한국핵융합에너지연구원 고진석 박사]" },
+    { "id": "ghF6F5faofM", "title": "빛과 전자기파에 숨겨진 비밀! 왜 인간은 가시광선을 보도록 진화했을까? 매우고에너지 4부!(성균관대학교 노창동 교수)" },
+    { "id": "aPXV9-09JPY", "title": "메타물질렌즈 이렇게 발전했다?! 메타렌즈의 진화 [안될과학 랩미팅]" },
+    { "id": "d2k8qUu_zQc", "title": "유기화학의 모든 것! 유기화학이란 무엇인가?! 유기화학개론 1부 [한국화학연구원 최경민 박사]" },
+    { "id": "jamQUCUzb6E", "title": "세상을 바꿔가는 첨단세라믹스! 과연 어디에 사용될까? 첨단세라믹스의 모든 것 1부! (한국재료연구원 마호진 박사)" },
+    { "id": "Ane8rS-VBuw", "title": "전자가 휘는 것을 직접 보여드립니다?!" },
+    { "id": "RAcjzKtQU2U", "title": "플레밍의 왼손 법칙을 한 눈에 확인하는 실험?!" },
+    { "id": "rMJErYfGLCU", "title": "프롬프트 엔지니어링이란? 생성형 AI에게 최적의 답을 얻는 노하우 대방출! [안될과학X삼성SDS 2탄]" },
+    { "id": "E_dEpQq-Crs", "title": "데이터는 어떻게 관리할까? DBMS의 역사와 오픈소스DBMS [안될과학-긴급과학 X 인젠트]" }
+  ]
+}

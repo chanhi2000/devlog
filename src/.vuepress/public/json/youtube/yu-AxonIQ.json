@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "AxonIQ",
+    "name": "AxonIQ",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZpJm-ofyBXH1het2yPGTRRJNr7gVaIYasD5lG_4Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/L0lUiHBwHWcmvBS3l5QFrR50W5csGISIs0-zoYdG8qQR8pyccY0iL9D3TRpubHcdbZ8tkV0K=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lTgBV5m5-sw", "title": "AxonIQ Console - insights into Axon Framework and Axon Server" },
+    { "id": "oYbKVtJT0fA", "title": "Insights into features, performance, and price: Comparing Axon Server and MongoDB" },
+    { "id": "le1jS7VkMD4", "title": "Intro to Event-Driven Microservices using DDD, CQRS & Event sourcing" },
+    { "id": "hMjeD6PYbdg", "title": "Intro to Axon Server" },
+    { "id": "7snrymthi5k", "title": "Podcast Exploring Axon: Season 2 Episode 2 - Axon with Akka, Kafka and more with Vijay Nair" },
+    { "id": "m1Oo7mMF0Tg", "title": "Jan-Hendrik Kuperus - Building Axon-powered Microservices in Scala at the Dutch Police" },
+    { "id": "73KxyTUU4nU", "title": "Joris Kuipers - Day 2 problems in CQRS and event sourcing" },
+    { "id": "d1s47-B3YKo", "title": "Season 7, Episode 3 – Monolith to Microservices with Axon – with Frederic Bouvet" }
+  ]
+}

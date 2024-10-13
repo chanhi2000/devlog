@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "AnsonAlexander",
+    "name": "Anson Alexander",
+    "profile": "https://yt3.googleusercontent.com/bseBZsit8XEeSEtpHpCJKBTYK88qY77mIsuwETXNk77SGIi85Xa9LOFnzZf2DgXeXy8Ledppaw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SCVhwBv9GSXuQ4dXqfSJJL0vaOg3eokSmF452MyvarN88N-McdQXP5dwbmZ_LbcRK7OVZSv1f34=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SsocxfdHlr8", "title": "Quick AI Meeting Summaries (from Audio OR Text) with ChatGPT & Notion for Free" },
+    { "id": "8yqcDL4TmzM", "title": "ChatGPT for Beginners: Master Prompting in 8 Minutes [2024 Edition]" },
+    { "id": "D8xVtI3ZGbY", "title": "Discover AI's Versatility: ChatGPT Guide on Advanced Photo Analysis" },
+    { "id": "cnmKpyHKkQ8", "title": "Unsupported Sonoma: 4 Months Later, Worth It? Upgrade Issues Addressed" },
+    { "id": "fP3vQZugVjQ", "title": "Smart Folders: The macOS Power Feature You're Overlooking" },
+    { "id": "eekbYJTsjCw", "title": "How ChatGPT Taught Me to Edit Voice-Over Audio (soundwave analysis)" },
+    { "id": "Bh0d1egaSI0", "title": "Install Windows 11 on Your Mac: Easy Boot Camp Guide (Intel, 2012+ Models)" },
+    { "id": "djot4lKM5rY", "title": "macOS Sonoma 14.4: Updating My Unsupported MacBook Pro" },
+    { "id": "n_1dsri56MU", "title": "Updating Sonoma on Unsupported Macs After Initial Install + Answered Questions & Clarifications" },
+    { "id": "G0VRVGiaekA", "title": "macOS Sonoma Setup and Customization  (Fast, Aesthetic and Intuitive)" },
+    { "id": "qTaOZrDnMzQ", "title": "Wireshark Tutorial for Beginners | Network Scanning Made Easy (2023)" },
+    { "id": "xkz-HdUXBdI", "title": "Learn Google Sheets | Create a Budget and Chart from Scratch | Full Tutorial (2023)" },
+    { "id": "3Ssvm2x7RSU", "title": "Transfer Google Drive Files to Another Account (2023)" },
+    { "id": "fMcZcNpRUf4", "title": "Best Way to Organize a SINGLE Gmail Inbox | Digital Minimalism" },
+    { "id": "bXBVqWNJeJg", "title": "Best Free Auto Mouse Clicker for Mac (2023)" }, 
+    { "id": "0kcoH7vDW5k", "title": "macOS Infinite Boot Loop Recovery | No Backup | No Data Loss" },
+    { "id": "hi1TVYOpgZU", "title": "Convert PDFs to Google Docs and Back (Images and Formatting Included)" }, 
+    { "id": "WJvIwFPVHA8", "title": "How to Open RAR Files on Mac" }
+  ]
+}

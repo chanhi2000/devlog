@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "tadaspetra",
+    "name": "Tadas Petra",
+    "profile": "https://yt3.googleusercontent.com/X5rlt12C8CTC4t3yW50tU9hFo2qCDMOIRMAOys0dz-Djz6OVY2v0iURzwrv-giEktKmaboFlSw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GQ0zFaWAi6ex9gPuBbU9zWbOSXjzmVWHz3QZWzhmlon8K1YJ-VnRgzQGEwnodZPCStR5pZwyVIA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HOP7I4CB9aI", "title": "Building a Todo App from Scratch" },
+    { "id": "0Zpc695ZoO4", "title": "How Flutter Code becomes an App?" }, 
+    { "id": "dmRH0ilEZxM", "title": "Flutter Full Course - Building Production App" }
+  ]
+}

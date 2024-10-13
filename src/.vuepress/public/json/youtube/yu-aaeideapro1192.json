@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "aaeideapro1192",
+    "name": "AAE IdeaPro",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpuQcrKcouMwIfULbVOxRhbhC-QGRAhvE6ytYkcg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zSYDo6ZdWdS9MK_6wWIYoJ-nYyQCZ62fNvskVk0wUCFuo-t_Cc7EwLDpFC84xs6JtQKFBOY21w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "X1nTFGMUG_g", "title": "Create A Tour & Travel Agency Website UI Design Using Vuejs 3 and Vuetify 3  HTML | CSS | Javascript" },
+    { "id": "cmr5BtMQTzI", "title": "Build a Full Featured Ecommerce Website Design With Vue JS 3 & Vuetify 3 | Store  eCommerce  Theme" },
+    { "id": "S9QFlESksiA", "title": "POS Restaurant Food Ordering Dashboard UI Design" },
+    { "id": "bUP6Qf1Rojk", "title": "Vue 3 - Vuetify 3, POS Restaurant Food Ordering Dashboard UI Design  | HTML - CSS - Javascript - vue" },
+    { "id": "o6ZUMFfAYBo", "title": "Vuejs 3 - Vuetify 3, How to create an Nike Shoes Shop - Ecommerce website ui design using vuejs" },
+    { "id": "Yq9rAafeIw4", "title": "Vue 3 - Vuetify 3 How to create an ecommerce website ui design using vuejs  and carousel" },
+    { "id": "lg219gnOC-g", "title": "Vuejs 3 - Vuetify 3 , Create an Flight Dashbord Website Using Chartjs | vue-chart js | Bar | Pie" },
+    { "id": "9W2h8HXnnrs", "title": "Vuejs 3 - Quasar  UI Design, ZP App - Game & Root Server, Affiliate - VPS Dashboard,JS - HTML - CSS" }, 
+    { "id": "RMr4hUKXl2g", "title": "Vuejs - Vuetify JS, POS Dessert App, Curved Sidebar Menu  - UI Inspiration Design | HTML - CSS - JS" }, 
+    { "id": "9C-20VZMkcg", "title": "Vuejs - Vuetify  UI Design, Sprint Report System - Dashboard - Javascript | HTML - CSS | Vue-ECharts" }, 
+    { "id": "5IvOjf9a1uM", "title": "Vuetify - Vuejs UI Design, Movie Application - API -  Actors  & Pagination  part 5/7" }, 
+    { "id": "VNNu0i4NvxM", "title": "Vuetify - Vuejs UI Design ,Task Management Dashboard Modern ." }, 
+    { "id": "MnysOrSB0Ls", "title": "MEVN Stack (MongoDB, Express js, Vue js, Node js) & vuetify - Intro CRUD part 01" }, 
+    { "id": "Z1V4qBKGKtI", "title": "Dashboard UI Design \"LiveCharts\" \"Guna Framework\"" }
+  ]
+}

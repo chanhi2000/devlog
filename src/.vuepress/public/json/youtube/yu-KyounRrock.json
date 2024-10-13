@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "KyounRrock",
+    "name": "Kyeongrok Kim",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZRoyG9mFh2Ce7AFmay9DY-OEsoRq7HnFR3h-IK9hg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vyGZa3E_cB1RhBCIY_avFbWA57XOW8nfxjcv4_nKAAVUWpXpWwUt_r5fhbBR0ZDziVApPfKaUw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LiWlWK6y1n0", "title": "Java 버블정렬 알고리즘 설명과 구현" },
+    { "id": "XPtu0i3Mjag", "title": "Springboot앱을 Gradle, Docker빌드 해서 AWS EC2에 띄우기" }
+  ],
+  "playlists": [
+    {
+      "title": "엘라스틱서치&키바나(Elasticsearch)",
+      "videos": [
+        { "id": "PSmDJcntOng", "title": "AWS ec2에 elastic search와 키바나 띄우기 01 - ec2 우분투로 띄우고 접속하기" },
+        { "id": "ssBeXyddsRo", "title": "AWS ec2에 elastic search와 키바나 띄우기 02 - docker설치, 엘라스틱서치, 키바나 띄우기" },
+        { "id": "-K1QubLbmE8", "title": "03 elastic search - 인덱스 만들기, 지우기, 모두 지우기" }
+      ]
+    }, {
+      "title": "쿠버네티스_사용해보기",
+      "videos": [
+        { "id": "RZnqSorJEQQ", "title": "쿠버네티스 | 0_오리엔테이션" },
+        { "id": "tm9aYsTYi_Y", "title": "쿠버네티스 | 1_실습환경구성(ubuntu 22.04 + k8s1.23 + calico)" },
+        { "id": "gQysErWUhxk", "title": "쿠버네티스 | 2_파드, 디플로이먼트" },
+        { "id": "oaxG640TpCE", "title": "쿠버네티스 | 3_kubectl 명령어 다루기" },
+        { "id": "Z0xx3Jc30Wk", "title": "쿠버네티스 | 4_ service/clusterIP, nodePort" },
+        { "id": "JU2TiU-rFyg", "title": "쿠버네티스 | 5_ service/loadbalancer on bare metal" },
+        { "id": "Qpyb77nFnkQ", "title": "쿠버네티스 | 6_ ingress/ingress-controller 사용해보기" },
+        { "id": "JCZdgWH8MBk", "title": "k8s | 10_CKA 취득 후기_2023년 7월" },
+        { "id": "9gBGAYZzsig", "title": "쿠버네티스 | 7_ 테스트용 ssl/tls 인증서 생성하기" },
+        { "id": "Wr6nrBRqYYE", "title": "쿠버네티스 | 8_실습환경구성(ubuntu 22.04 | k8s 1.27.7 | containerd | calico 3.26.3 )" },
+        { "id": "ZScoGfHpvxA", "title": "쿠버네티스 | 9_dashboard 배포 및 ingress연결" }
+      ]
+    }, {
+      "title": "[난이도 중상]소규모 웹서비스 환경 구축",
+      "videos": [
+        { "id": "Wel03_0Iyjo", "title": "소규모 웹서비스 환경 구축 해보기_1 | 테스트 환경 구축, KVM 설치, Host서버 Network설정" },
+        { "id": "gGHtcoWIxzw", "title": "소규모 웹서비스 환경 구축 해보기_2 | KVM 가상화 설정, Docker-Compose 사용" },
+        { "id": "pzWh6H9kpws", "title": "소규모 웹서비스 환경 구축 해보기_3 | HAProxy 설치 및 설정" },
+        { "id": "UjHCF0yDpjE", "title": "소규모 웹서비스 환경 구축 해보기_4 | MariaDB 설치 및 외부 접속 설정" },
+        { "id": "FN9nVcDE6ko", "title": "소규모 웹서비스 환경 구축 해보기_5 | 워드프레스 연동" },
+        { "id": "pOEl7YanVek", "title": "소규모 웹서비스 환경 구축 해보기_6 | 외부 공개를 위한 네트워크 설정 설명" }
+      ]
+    }
+  ]
+}

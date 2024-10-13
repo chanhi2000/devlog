@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "bigmtnstudio",
+    "name": "Mark Moeykens",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTm7sV3AOI_EC20vw58dT1maurGN4bDKQWlZ2iY6A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xhucTijs2CMaGrL6gWWBzULLsCCwCL8MT40-xPsTxCV-vUDfJ3x-epsFSyWbKrFc4wPvhwN3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NFyqdxGFkiY", "title": "Are SwiftUI previews impossible with SwiftData? #swiftui #swiftdata  #bigmountainstudio" },
+    { "id": "QfMnd6mOR84", "title": "What is the Nil Coalescing Operator in the Swift language?  #swiftui #bigmountainstudio #swiftcode" },
+    { "id": "A_wOCkbLUoM", "title": "Casual Hangout: Working on SwiftData Mastery Book" },
+    { "id": "Vu1Qa8gMHbQ", "title": "Perfectionism Can Paralyze You" },
+    { "id": "etiEVMSJLjw", "title": "SwiftUI Views Live: 1 - Mastering Layout with Blueprints" }, 
+    { "id": "oAGoFd_GrxE", "title": "Table Row Swipe Hint Animation (iOS, Xcode 10, Swift 4)" }, 
+    { "id": "jxeuC9AVQpk", "title": "App Themes - Part 11 - Itinerary App (iOS, Xcode 9, Swift 4)" }
+  ]
+}
+

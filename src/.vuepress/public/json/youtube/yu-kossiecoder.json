@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "kossiecoder",
+    "name": "코지 코더 Kossie Coder",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMaw3GHpPKS-_gxF82lPnM62yq6UNryErkyQ76N=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AOcbT1QuRufzNrwNWQKoCFQ4nXzPzG3yaej1g4twExbKnMZor-TAUBHYvOtBXcAvL00VHmLhCg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oQpz81PVOzo", "title": "[리액트js (reactjs) 기초 익히기 기본 강좌] 16 영화 폼 validation" }, 
+    { "id": "EJX51eP_fxA", "title": "[리액트js (reactjs) 기초 익히기 기본 강좌] 12 영화 리스트 추가 폼 만들기 1" }, 
+    { "id": "qD6G0ju6vL8", "title": "[뷰 3 [Vue 3] 파이어베이스에 무료 배포하기!" }, 
+    { "id": "5r1lpfkizfQ", "title": "[뷰/익스프레스/몽고db - task manager 만들기] 05 백엔드 Signup - 유저 생성" }, 
+    { "id": "4J4-ufnqBdU", "title": "[뷰/익스프레스/몽고db - task manager 만들기] 01 프로젝트 세팅" }, 
+    { "id": "EvioDUDzKio", "title": "[뷰js 2 (vuejs 2) 기초 익히기 기본 강좌] 18 슬롯 (Slot)" }
+  ]
+}

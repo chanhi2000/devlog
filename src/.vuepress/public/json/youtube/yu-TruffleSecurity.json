@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "TruffleSecurity",
+    "name": "Truffle Security",
+    "profile": "https://yt3.googleusercontent.com/Ix24SoMUxgQcXQ9k340fcRMM0gL82qe1zHqMmAbIdyubW24O25k_Y8rvqyyJ-Mfc5cLxWsyCh4o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8j35IRod9vw", "title": "Passwords in GitHub Comments" }
+  ]
+}

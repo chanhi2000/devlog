@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "notionactually",
+    "name": "노션다움 - 노션을 나만의 비서로!",
+    "profile": "https://yt3.googleusercontent.com/TZP-gGbJn7YvBSFlhqHys39kUE6rceH3oy9rxb_uPHKR9v01-gNAHPpiMnEhGmwF2xMAXFo_bw=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/z0ulqiWJOxJD9SsggMjjs9Zh5Jg8oXxUI9gfMB-9WmN-efXkNPtLmYZMQQlredEtjB64BdFQkw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jw3H5lZLTi0", "title": "[Class101 유료강의 공개] 업무 자동화를 위해서 꼭 넘어야할 관문: 메이크와 APP 연결하기(노션, 구글 독스, 쥐메일, 캘린더, 탈리폼, 슬랙, 솔라피)" },
+    { "id": "qzt0eXkvMaI", "title": "[Class101 유료강의 공개] 노션과 구글 캘린더 동기화 방법(feat. 메이크)" },
+    { "id": "u9CK-givpts", "title": "노션 포뮬러 2.0, 이 영상 하나로 끝낸다!!(feat. 노션에서 vlookup 되는거 실화?)" },
+    { "id": "J1Eve7-zvK8", "title": "노션에서 관계형을 100% 완전 자동으로 설정하는 비밀!!!! 요즘 누가 관계형을 수동으로 맺는데??" },
+    { "id": "8FFjOUY1vkc", "title": "MS Loop vs 노션. 이 영상보고 결정하시면 됩니다. 과연 무엇이 다를까요?(feat.젓가락)" },
+    { "id": "KLiPE_idqnE", "title": "노션과 ChatGPT로 더 편해진 하루 기록 시스템, 타일러 다이어리" }
+  ],
+  "playlists": [
+
+  ]
+}

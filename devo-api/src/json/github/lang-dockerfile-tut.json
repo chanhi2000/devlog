@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "iam-veeramalla/aws-devops-zero-to-hero",
+    "desc": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "goldbergyoni/nodebestpractices",
+    "desc": ":white_check_mark:  The Node.js best practices list (July 2024)",
+    "officialSite": "https://twitter.com/nodepractices/",
+    "topics": ["best-practices", "es6", "eslint", "express", "expressjs", "javascript", "jest", "microservices", "mocha", "node-js", "nodejs", "nodejs-development", "npm", "rest", "style-guide", "styleguide", "testing", "types"],
+    "avatar": "https://avatars.githubusercontent.com/u/8571500?v=4",
+    "banner": ""
+  }
+]

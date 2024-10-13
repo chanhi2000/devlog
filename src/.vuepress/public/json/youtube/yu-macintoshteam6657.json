@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "macintoshteam6657",
+    "name": "Macintosh Team",
+    "profile": "https://yt3.googleusercontent.com/_PCxPgIgagRsHCgqmnCBlisNnU6M_TAL9gohbhBv5qWji7dPUJUQA6r9eQguGRSK5_0IKUffGw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_rwTtcR6aW58yUWX9L6vttGlrE0RYh-BzOHj0Aa_YZoB7siZpjkTZBoEleP6wXkiUlYT41bWNQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RC1KpZsJWnM", "title": "解锁 macOS：允许 App Store 和已识别开发者 (快速指南)" },
+    { "id": "uxNQTzCIDBM", "title": "Install Opecore macOS Sonoma on Unsupported Macs" },
+    { "id": "vnMlTZu2FXI", "title": "How To Fix Error Disk Utility Failed To Repair" },
+    { "id": "lRLmiA3B8Dg", "title": "Install macOS Ventura on Unsupported Macs" },
+    { "id": "bPFyYtWoEgQ", "title": "How to Install the latest macOS Sonoma on Unsupported Macs using a SD Card (Quickand Easy)" },
+    { "id": "flORb0ukeoE", "title": "The App Magnet" },
+    { "id": "pvEYwdZd36g", "title": "MacOS Terminal Commands and Tips for Beginners and Power Users" },
+    { "id": "n2Yy40m0aG8", "title": "Install the latest OpenCore and Run MacOS from a External Drive" },
+    { "id": "PM9KOreZvTw", "title": "How to Erase a Disk Using Terminal on macOS" },
+    { "id": "uDB47AGsQ40", "title": "ow to Change Mac Dock and Mouse Speed Using TerminalH" },
+    { "id": "1FB37n1FEsE", "title": "Solution for Disk Errors When macOS Disk Utility Can't Fix Them" },
+    { "id": "zm7X_JfLD0o", "title": "How to Use TextSniper for Mac: Easy Text Extraction Tutorial" },
+    { "id": "8Or_QFxNDXA", "title": "How to Use the Magnet App for Mac: Easy Window Management" },
+    { "id": "Qy6kNS0xvTo", "title": "Create Custom Dock Icons on Your Mac: A Step-by-Step Guide" },
+    { "id": "EAjTI1poE8c", "title": "Terminal Tricks Every Mac User Should Know" },
+    { "id": "PFTr70sgj2c", "title": "How to Allow and Manage Third-Party Apps" },
+    { "id": "-Es1t8eElnw", "title": "Powerful functions in your Finder Window" },
+    { "id": "2-mOsv78usg", "title": "How to Create a Bootable USB for macOS Sonoma" },
+    { "id": "1dbxDDu4pK0", "title": "OpenCore Setup for Booting macOS Sonoma from an External Drive - NVME" },
+    { "id": "Domj9Fg4tgc", "title": "OpenCore Setup for Booting macOS Sonoma from an External Drive" },
+    { "id": "xaBhxNQ5KP8", "title": "Install opencore 1.5.0. with macOS Sonoma on unsupported mac" },
+    { "id": "ZDxkksPiMEQ", "title": "Install opencore 1.5.0. with macOS Ventura on unsupported mac" },
+    { "id": "exnsdZoxfnc", "title": "Install opencore 1.5.0. with macOS Monterey on unsupported mac" },
+    { "id": "uNickPnNQp8", "title": "Install opencore 1.5.0. with macOS Big Sur on unsupported mac" },
+    { "id": "2VAUk-klAC4", "title": "Install opencore with macOS Big Sur on unsupported mac" },
+    { "id": "dbNKLeuOD0k", "title": "Install opencore with macOS Big Sur on unsupported mac" }
+  ],
+  "playlists": [
+
+  ]
+}

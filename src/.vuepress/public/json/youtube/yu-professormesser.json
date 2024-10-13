@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "professormesser",
+    "name": "Professor Messer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQ5LWgow4zj2Ptbxy3gFWarzkhldBBI49HyMjvYlw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eJOdlFxXZJudjCPC-Jk6olcz2G6JkGN_q244v6_wb_GgfwXmFeey7WIT3TS4QpwL2QtDE73e8tc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uo2Yw720mv4", "title": "Audits and Assessments - CompTIA Security+ SY0-701 - 5.5" },
+    { "id": "wEMzVfwBiWY", "title": "Penetration Tests - CompTIA Security+ SY0-701 - 5.5" },
+    { "id": "IjJf4jLtONQ", "title": "Compliance - CompTIA Security+ SY0-701 - 5.4" },
+    { "id": "13KNjPexnEI", "title": "Third-party Risk Assessment - CompTIA Security+ SY0-701 - 5.3" },
+    { "id": "HSZxjj1YAh8", "title": "Agreement Types - CompTIA Security+ SY0-701 - 5.3" },
+    { "id": "WGXrbAh0LUI", "title": "Privacy - CompTIA Security+ SY0-701 - 5.4" },
+    { "id": "WQRZMMLUkGE", "title": "User Training - CompTIA Security+ SY0-701 - 5.6" },
+    { "id": "W_Npxwk4fbI", "title": "Security Awareness - CompTIA Security+ SY0-701 - 5.6" },
+    { "id": "Ykx7t54y-oo", "title": "Risk Analysis - CompTIA Security+ SY0-701 - 5.2" },
+    { "id": "cLhUMoQS1a8", "title": "Risk Management - CompTIA Security+ SY0-701 - 5.2" },
+    { "id": "myI-v3mj7Kc", "title": "Business Impact Analysis - CompTIA Security+ SY0-701 - 5.2" },
+    { "id": "pmyuWY7Pbag", "title": "Risk Management Strategies - CompTIA Security+ SY0-701 - 5.2" }
+  ]
+}

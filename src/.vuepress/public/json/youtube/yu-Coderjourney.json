@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Coderjourney",
+    "name": "CoderJourney",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMWBslzXuK4nYiwTi3i73KnuJE8M98JuFn_J0f7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7uN4XnaR_qhazYSaks8P2uAPzR4r5WjPD5F0YG82JiGHLvUjkCT7LgVEgpQy494uLqKsxwMmkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NEdDa3Zqu7s", "title": "Learn to use Docker in Development - Part 1" }
+  ]
+}

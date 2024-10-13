@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "sagaratytube",
+    "name": "Dispatch",
+    "profile": "https://yt3.googleusercontent.com/SwYhaEml8toq6FMjEbp2STlkQdiXsuHbRKmGiOADG026uBkwqUcR1bjmNbklueKEeKxEeEWDJQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_FdMz8LpLjk", "title": "50 Linux Commands for Absolute Beginners in 10 minutes!!!" },
+    { "id": "lojAgyGnzc0", "title": "NeoVim with LazyVim: The most feature rich editor for programming." },
+    { "id": "NI4-YIwsstE", "title": "Start Your Data Engineering Journey here!!!" },
+    { "id": "MSVfhXoGatE", "title": "Web Browser crafted Exclusively for Vim Fans." },
+    { "id": "u9_jei6Zg0k", "title": "My Ultimate Tmux, Zsh, and NeoVim Coding Setup! #dotfiles" },
+    { "id": "lWTzqPfy1gE", "title": "Vim Motions for absolute beginners!!!" },
+    { "id": "nQ2nvTD_46A", "title": "Is This Vim Distribution Superior to VS Code?" },
+    { "id": "nBjEzQlJLHE", "title": "Intermediate Vim Motions and Pro Tips!!!" },
+    { "id": "7S1LM1pcXos", "title": "Simple Nginx Load Balancing from Scratch and Round Robin, IP Hash, Random algorithms in action." },
+    { "id": "51DH87ecfF8", "title": "Unleash the Power of These 6 Linux Commands - Say Goodbye to Boring Terminal Screens! 🌈" },
+    { "id": "G955-w-BIQQ", "title": "Effortless Docker Management with LazyDocker: A Terminal UI for Containers, Images and Networks!" },
+    { "id": "Irm2WELYSps", "title": "NeoVim with NVChad | The most beautiful editor for programming." },
+    { "id": "lWTzqPfy1gE", "title": "Vim Motions for absolute beginners!!!" },
+    { "id": "BYkBTdeS114", "title": "Master Microservices: Build a Real-Time RabbitMQ Producer-Consumer System in Node.js & Golang! 🐇🎬" }
+  ]
+}

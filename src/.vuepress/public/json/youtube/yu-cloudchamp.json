@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "cloudchamp",
+    "name": "Cloud Champ",
+    "profile": "https://yt3.googleusercontent.com/V4nPnlqpKqH_IRDMcxJK6grZGBHORPoTPh4NiuidtBTz7bNduN99vBIwt5Cei5r0f4aeyj4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HRBgAcsz-w2EJHATAAHVecgaI874LHD4dLEdzWK3IeViMyoXZdqtt8L_g6mqw_FRa-9-gTwg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1ymi24PeF3M", "title": "Dockerfile creation Tutorial - Dockerfile Instructions Explained with example!" },
+    { "id": "vmCuNJiNzfg", "title": "Kubernetes Architecture in 7 minutes | K8s explained" },
+    { "id": "1xtLuDFyAEs", "title": "How to start with contributing to Opensource ft @AbhishekVeeramalla  | DevOps Podcast" },
+    { "id": "8oNbpS2gcx4", "title": "Terraform Scenario Based Interview Questions and Answers | DevOps Interview" },
+    { "id": "vf7EIaHuwzU", "title": "My DevOps Resume | How to Build DevOps Resume in 2024" },
+    { "id": "rqEcheJgquA", "title": "Docker Explained with Docker Init & Docker Scout! (Hands On Demo)" },
+    { "id": "oqOzM_WBqZc", "title": "DevOps Project - Automate Terraform with GitLab CICD pipeline" },
+    { "id": "ULiPYBLcCiw", "title": "AWS Interview Questions and Answers 2024" },
+    { "id": "q5S14cfOWfE", "title": "Complete Docker course in 30 mins | Docker Tutorial for Beginners 2024" },
+    { "id": "dHXgg9fbP8E", "title": "How I passed the Certified Kubernetes Administrator (CKA) Exam in 2024" },
+    { "id": "AsXNDf5-cTs", "title": "IMPORTANT Deployment Strategies in DevOps! (Example & Code)" },
+    { "id": "x1PXAY4kQ2k", "title": "Trending DevOps Tools and Technologies in 2024" },
+    { "id": "o_7jlMBHFFA", "title": "REAL CKA Exam Questions to Practice and Pass the Certified Kubernetes Administrator Cert!" },
+    { "id": "pTmIoKUeU-A", "title": "Kubernetes Live Project: Deploy Cloud Native Voting Application on EKS" },
+    { "id": "O2AC23B3ksc", "title": "You NEED to learn GOLANG because Every Company is using it!" },
+    { "id": "g8X5AoqCJHc", "title": "DevSecOps Pipeline Project: Deploy Netflix Clone on Kubernetes" },
+    { "id": "bjrlo9LwMJY", "title": "You MUST know this BEFORE learning Kubernetes | Prerequisites for Kubernetes" },
+    { "id": "al9R-yfP4UA", "title": "Kubernetes Explained - What is Kubernetes and How it works?" },
+    { "id": "wS277TdV3f8", "title": "Important Kubernetes kubectl Command with Examples in 20 minutes!" },
+    { "id": "P77GhVfvuKQ", "title": "DevOps ROADMAP 2024: How to learn and Become DevOps Engineer (With Resources)" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "devseop",
+    "name": "개발알려주는 남자, 데브남",
+    "profile": "https://yt3.ggpht.com/pjAw_wCc1Ktj-MAUErVO4Loh36aXJ2Jf4fW7zG4CGXTUYXpBc5cCbH70TkKvZfODvystmEJYDxU=s48-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-rg6nVQlZOzZe6iazVzsBBlWV-ICzpCLrnFI-zcaVBNd3TKXPyD21SbH3xcyxY_I-z9KYjUs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SWRff_1h5Pc", "title": "비전공자가 네카라쿠배에 취업하는 방법" },
+    { "id": "6D8PP8QCB6o", "title": "안녕하세요 데브남을 소개합니다" },
+    { "id": "IF9zJjd1elU", "title": "비전공 신입 개발자가 3주만에 연봉 2천만원 올린 방법" },
+    { "id": "HeS6y5bukg8", "title": "2024년 개발자 채용 시장 | AI시대 과연 개발자는 사라질것인가 | 우울한 전망" },
+    { "id": "DS2RenK3XHo", "title": "억대 연봉 개발자의 코딩 공부법" }
+  ]
+}

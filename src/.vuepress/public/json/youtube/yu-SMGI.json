@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "SMGI",
+    "name": "사물궁이 잡학지식",
+    "profile": "https://yt3.googleusercontent.com/oSlJ_rzbbd1XB1WqdpeDRvnPl-17R-KU00pENQEhEJbxyqz-gPkvJZtnIc7VgaUupXhxDat8RQA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/--YfTZf_3TLeXprD7ViMWUOXK3Qde5Pe42FOW-1WRPDejyL1OP0yfUaSbSSusUvf3uX1uiAmTk0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xhGL44bj4Go", "title": "왜 자동차 유리 테두리에 검은 동그라미 무늬가 있을까?" },
+    { "id": "UFj5j9wRUlM", "title": "한국에만 있다는 전세 제도는 언제 시작된 걸까?" },
+    { "id": "5Lh-YVaaILs", "title": "아파트에서 불났을 때 왜 무조건 대피하면 안 될까?" },
+    { "id": "9wmgEdmZK7A", "title": "몇 일은 왜 며칠이라고 써야 맞는 걸까?" }
+  ]
+}

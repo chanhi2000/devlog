@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "bytepancake3157",
+    "name": "Byte Pancake",
+    "profile": "https://yt3.googleusercontent.com/njX9BLXgplkC-wNVYcvl45SVAJD82GXSUg3f6pEiVYRWC9IdxK5-_CT3sQxkPB-FUeRFx5eEDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PASChkTSjZCq2c4yL3XggAtPQDzgq2jS7ORDc8vdGABqqLE8Ge0Gw6r2Hg8YPaIqTp7xFoRwfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dyR6Wt3Nt-I", "title": "🐳 도커와 VSCode 연결해서 사용하기!  (Get Started with Dev Containers in VS Code!)🚀" },
+    { "id": "kgX2EFzNs5s", "title": "🐳 도커 네트워크 시작 하기 !!! 🚀" },
+    { "id": "ranHajpLKpE", "title": "🐳 도커 컴포즈 (Docker Compose) 사용해보세요!! 🚀" },
+    { "id": "hpY8LkAsOfw", "title": "📦 Docker Alpine 이미지의 장점과 사용법 | 개발자를 위한 필수 지식 🚀" },
+    { "id": "PnpUKpeCAEQ", "title": "🔧 필수 개발 도구: 생산성 향상을 위해 현직 개발자 도구를 소개합니다! 💻" },
+    { "id": "IoaPYHGupHk", "title": "🐳 도커 마스터하기: 효율적인 도커 이미지 만들기의 궁극적인 가이드!? 💻🔨" },
+    { "id": "uVUtU1pTRO0", "title": "🐳 도커 컨테이너 마스터하기: 필수 팁과 노하우! 💻 (Master Docker Containers: Essential Tips & Tricks!)" },
+    { "id": "O7bWoPcTctg", "title": "개발의 미래는 지금입니다! 💻🌐 2024년 소프트웨어 성공을 위한 최고의 팁을 공개합니다!" },
+    { "id": "6gWmx5ig9h8", "title": "GPTs Store Revealed: Breaking News & Boundaries! 🌐🚀 Must-Watch!" },
+    { "id": "alRa-gzV-_k", "title": "CO-STAR Framework ! 🌐 강력한 ChatGPT 프롬프트 작성 팁 🚀" },
+    { "id": "xI56JahgpKU", "title": "ChatGPT Prompt Crafting: Boost Your Engagement | Beginner's Guide (ChatGPT 프롬프트 제작을 위한 초보 가이드)" },
+    { "id": "d4nzUOkvU_0", "title": "ChatGPT로 FAQ 서비스 만든 경험을 공유합니다!" },
+    { "id": "IpK-Lp-Tyr8", "title": "프롬프트 엔지니어링: 기본적인 지식과 팁" }, 
+    { "id": "shPAAtaGHCs", "title": "초보자를 위한 도커 스웜(Docker Swarm): 간편한 컨테이너 관리" },
+    { "id": "vhWUKuBT6pY", "title": "도커 (Docker) 저는 이렇게도 사용해봤습니다." },
+    { "id": "7AgWz8KKskE", "title": "개발자를 위한 9가지 필수 GitHub 저장소| 지금 생산성을 높여 보시는건 어떨까요?" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "typealias",
+    "name": "Dave Leeds",
+    "profile": "https://yt3.googleusercontent.com/vEVpNrvl1jTiQVWxd43-6sm3V5LjXLTrSTbqoYnuEdWvziG_a48IG79Oid6jlAAS0zhWvoQa=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jS6hoxrt17qXgRV8s888Px28fAnZBQMdJlJBUxkq9ndIEAmh7DBeJ8z2oFmKXQH9cu5eDXo7=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pSx6yb1QLdk", "title": "Applying the State Pattern in Kotlin" },
+    { "id": "e7tKQDJsTGs", "title": "Coroutines: Concurrency in Kotlin" },
+    { "id": "-Ak44LFwlwI", "title": "Applying the Strategy Pattern in Kotlin" },
+    { "id": "erWsXSqQ-CM", "title": "Applying the Decorator Pattern in Kotlin" },
+    { "id": "6IPNt8ZsWeU", "title": "Kotlin Code Reuse: Composing like you're Inheriting" },
+    { "id": "S_JKbmN_A8o", "title": "TypeAlias Show #1 - Let's try out kotlinx.rpc • your questions answered • and more!" },
+    { "id": "kIzjzjJGk0Y", "title": "The Essence of Coroutines" },
+    { "id": "mKTNAwTU4zc", "title": "Reified Type Parameters" },
+    { "id": "OFWMtmqocV8", "title": "7 Features in Kotlin's Standard Library that You Might Have Overlooked" },
+    { "id": "gpEde54V-4o", "title": "Three Simple Rules for Subtypes" },
+    { "id": "2WMVyfTB6OY", "title": "Looking Forward to Kotlin 2.0" },
+    { "id": "T9sAlxqYFYc", "title": "Inline Functions: inline, crossinline, and noinline" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Gatsbyjs",
+    "name": "Gatsby",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNY37StcueODrViaaEFpMLGUKRW1Ihg3peeZXHE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qv41hADnmIHCgwmGPHZf7EeoJX2qpIBMpRmhOeVOXPJKjdJuC4olmCBIkxudGC5xSmvWrDbzVg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3jrzv7l9vsI", "title": "Livestream | Gatsby Web Creators - (Re)Intro to JavaScript, Making Art" }, 
+    { "id": "BrBK4yxodXA", "title": "Beyond Static: Building Dynamic Apps with Gatsby [Webinar]" }
+  ]
+}

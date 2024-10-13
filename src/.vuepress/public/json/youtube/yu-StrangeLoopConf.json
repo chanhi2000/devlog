@@ -1,0 +1,63 @@
+{
+  "channel": {
+    "id": "StrangeLoopConf",
+    "name": "Strange Loop Conference",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYxutNFDirxsXOxlGIyZl3-K_AW9-NYQbTDAHCB=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    
+  ],
+  "playlists": [
+    {
+      "title": "Strange Loop 2023",
+      "videos": [
+        { "id": "30YWsGDr8mA", "title": "\"Making Hard Things Easy\" by Julia Evans (Strange Loop 2023)" },
+        { "id": "6Ao8GS488hA", "title": "\"Playing with Engineering\" by AnnMarie Thomas (Strange Loop 2023)" },
+        { "id": "_egQrM13qyM", "title": "\"How to Build a Meaningful Career\" by Taylor Poindexter and Scott Hanselman (Strange Loop 2023)" },
+        { "id": "suv76aL0NrA", "title": "\"A Long Strange Loop\" by Alex Miller (Strange Loop 2023)" },
+        { "id": "M2o4f_2L0No", "title": "\"Comedy Writing With Small Generative Models\" by Jamie Brew (Strange Loop 2023)" },
+        { "id": "XZ3w_jec1v8", "title": "\"The Economics of Programming Languages\" by Evan Czaplicki (Strange Loop 2023)" },
+        { "id": "z9JYOZWLMlo", "title": "\"Playable Quotes for Game Boy Games\" by Joël Franušić and Adam Smith" },
+        { "id": "Mr0a5KyD6BU", "title": "\"New algorithms for collaborative text editing\" by Martin Kleppmann (Strange Loop 2023)" },
+        { "id": "T7MnpMhlEU0", "title": "\"The Attacker Has Expensive Radio Equipment, But Your Android Phone Is Resilient\" by Yomna Nasser" },
+        { "id": "Z5U8JQZXABs", "title": "\"IPVM: Seamless Services for an Open World\" by Brooklyn Zelenka (Strange Loop 2023)" },
+        { "id": "CqZA_KmygKw", "title": "\"Lessons from building GitHub code search\" by Luke Francl (Strange Loop 2023)" },
+        { "id": "prM-0i58XBM", "title": "\"Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation\" by Toby Bell" },
+        { "id": "oOCubxI3wmI", "title": "\"Building Koi Pond: Simulating Millions of Slack Clients\" by Maude Lemaire (Strange Loop 2023)" },
+        { "id": "83le8YeejVU", "title": "\"Turning GraalVM from Research to Product\" by Thomas Wuerthinger (Strange Loop 2023)" },
+        { "id": "DHtRfO3Bp90", "title": "\"Babashka: a meta-circular Clojure interpreter for the command line\" by Michiel Borkent" },
+        { "id": "get19v25bm8", "title": "\"Didn't Chrome Already Have a Root Store?\" by David Adrian (Strange Loop 2023)" },
+        { "id": "TE84-XFUT2w", "title": "\"Building Strong and Sustainable Open Source Projects\" by Lawrence Gray (Strange Loop 2023)" },
+        { "id": "PxX5cYUKzY8", "title": "\"Human Involvement Behind Remote Desktop Protocol Brute-Force Attacks\" by Andréanne Bergeron" },
+        { "id": "FuhEHuPExso", "title": "\"Can a Programming Language Reason About Systems?\" by Marianne Bellotti (Strange Loop 2023)" },
+        { "id": "FgalMMKi8AY", "title": "\"Designing Fully Rationalized Commercial Buildings with Generative Software\" by Jen Carlile" },
+        { "id": "K7c03xKzzzo", "title": "\"Risks and Opportunities of AI in Incident Management\" by Emily Arnott (Strange Loop 2023)" },
+        { "id": "MW6Dxv5npJU", "title": "\"Without Open Data, there is no Ethical Machine Learning\" by Erin Mikail Staples (Strange Loop 2023)" },
+        { "id": "9znqIzymWFE", "title": "\"Astronaut Horse: Stable Diffusion Artist Collaborations\" by Tom Betthauser (Strange Loop 2023)" },
+        { "id": "jNQmc2REwFg", "title": "\"Unmasking the Godfather - Reverse Engineering the Latest Android Banking Trojan\" by Laurie Kirk" },
+        { "id": "vyjHRlQrVSA", "title": "\"Ectype - bringing type safety (and more!) to vanilla JavaScript\" by Holly Wu (Strange Loop 2023)" },
+        { "id": "JqYCt9rTG8g", "title": "\"Why Programming Languages Matter\" by Andrew Black" },
+        { "id": "Mc3tTRkjCvE", "title": "\"Programming Distributed Systems\" by Mae Milano" },
+        { "id": "umSuLpjFUf8", "title": "\"Concatenative programming and stack-based languages\" by Douglas Creager" },
+        { "id": "43ENxjq2Vhc", "title": "\"Inside the Wizard Research Engine\" by Ben L. Titzer" },
+        { "id": "xOInz_gt2Fg", "title": "\"Formal semantics for multi-language programs\" by Amal Ahmed" },
+        { "id": "vBUa6mNdKOE", "title": "\"Experimentation: putting research papers into prod\" by Leemay Nassery" },
+        { "id": "4_6uboxUYR8", "title": "\"War Time Proofs and Futuristic Programs\" by Valeria de Paiva" },
+        { "id": "1cRFfYQYGxE", "title": "\"From Geometry to Algebra and Back Again: 4000 Years of Papers\" by Jack Rusher" },
+        { "id": "T3u7bGgVspM", "title": "\"An approach to computing and sustainability inspired from permaculture\" by Devine Lu Linvega" },
+        { "id": "APNV_0I7nbs", "title": "\"A JVM threading model for the containerized times\" by Luiz Hespanha and Flavio Brasil" },
+        { "id": "Gx2mDuVAClo", "title": "\"Is my Large Language Model a Strange Loop?\" by Zac Hatfield-Dodds (Strange Loop 2023)" },
+        { "id": "Jv2JgzAl5yU", "title": "\"Computational Physics, Beyond the Glass\" by Sam Ritchie (Strange Loop 2023)" },
+        { "id": "MQnVmEw6ISQ", "title": "\"Supporting Data Journalism through Compilers for Visual Inputs\" by Parker Ziegler" },
+        { "id": "ZQc9-seU-5k", "title": "\"Swift as C++ Successor in FoundationDB\" by Konrad Malawski (Strange Loop 2023)" },
+        { "id": "nq5C82Nn7XM", "title": "\"Oatmeal is Cheap: A Fundamental Theorem for Procedural Generators\" by Younès Rabii" },
+        { "id": "V9krYlzSgGk", "title": "\"Using data-driven metrics to anticipate and prevent security incidents\" by Caitlin Buckshaw" },
+        { "id": "NcUJnmBqHTY", "title": "\"Cursorless: A spoken language for editing code\" by Pokey Rule (Strange Loop 2023)" },
+        { "id": "n2yJ3FBtU4Y", "title": "\"Software & The Game of Go\" by David Nolen (Strange Loop 2023)" },
+        { "id": "OCYU0LtqRH0", "title": "\"Birdsong as code\" by Chris Ford (Strange Loop 2023)" },
+        { "id": "WrVDl42vNrA", "title": "\"The Lemniscate\" by Ann Johnson, Charles Comstock" }
+      ]
+    }
+  ]
+}

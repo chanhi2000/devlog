@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "andresvidoza",
+    "name": "Andres Vidoza",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRIDOgsedLsGJWKAMhqhipsTTYRdkjKTcFlC2A0RQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bEYa2PPltENZJm5l66-m02Sey1hpsZOCQX9_dDY5SJWHPYjNuxLN-gGdQVNbb5zQQcMM83YtqQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mfemGt0syqo", "title": "Turn a Windows Machine into a MacBook for Programmers!" },
+    { "id": "Zi53lmgHCm4", "title": "M2 MacBook Air 15” - Unboxing & First Look!" }
+  ]
+}

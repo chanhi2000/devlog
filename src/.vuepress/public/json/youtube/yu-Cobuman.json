@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Cobuman",
+    "name": "cobuman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kVSTjdqShYSkqlNgQMM8sju8c8iG2O45onHGPBcA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hJ4D1fJrrsNIVYMmPo02kqPuOVlbvVmReEPlNy4a95Sk6EKVY4-T9Wej23jwNE9sjBF6FCsooQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yhGgRC1-B7w", "title": "Crash Course for Active Directory, DHCP, DNS, Network Printer, Network Shared Drive for Entry Level" },
+    { "id": "_mnzP5bUl7s", "title": "Network Shared Drive is Old Technology, Cloud Storage Free Training Course" },
+    { "id": "90D1C-9mogg", "title": "ServiceNow Incident Management Free Course for Help Desk Analysts. Get your experience.👨🏻‍💻👨🏽‍💻👩‍💻" },
+    { "id": "ckGUbcDxKyI", "title": "Computer and User Deleted from Active Directory, how to recover from a computer disaster." },
+    { "id": "sndVKp6o_7M", "title": "Crash Course, Active Directory, DHCP & DNS for Entry Level Tech Support" },
+    { "id": "ikldIPTQbC8", "title": "Network Share Drive Configuration, Windows Server File Sharing Training Free Course #helpdesk" },
+    { "id": "ZnKEVVA8l1c", "title": "Logon PowerShell Script and Group Policy Object GPO, Free Windows Server Training Course" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "BoostMyTool",
+    "name": "BoostMyTool",
+    "profile": "https://yt3.googleusercontent.com/xKzHj7vNb7d73vhQU5YWdXiOPyTVgv-3kTIECe2_buQfEFjlAlyRcgT011StkeNoTl0t27sT0Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y7dd6gwWCGHhLAZtBRYETqk0Rn9u24vWkBMtwOJH7l4ayVupWul1tI8ajVmlEUw8uNHYqZc0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Eq4Cwy7j5Zg", "title": "Create Your First Spring Boot Application using Eclipse IDE 2024 | Spring MVC and Thymeleaf" },
+    { "id": "ViFtEx_mEXk", "title": "Google reCAPTCHA V2 in ASP.NET Web Application - How to Add Google reCAPTCHA to Contact Forms" },
+    { "id": "js0emiSVmCY", "title": "CRUD Operations Using ASP.NET + SQL Server + VS Code + .NET8 | Create Read Update Delete | ADO.NET" },
+    { "id": "qi0Nyma8kjs", "title": "Install Angular and Create your First Angular Application using Visual Studio Code | Angular Project" },
+    { "id": "o1BVL-H7pwk", "title": "Secure Spring Boot Web API using JWT and Spring Security - JWT Authentication and Authorization" },
+    { "id": "XBfZxrLcDC8", "title": "CRUD Operations using React and Json Server : Create Read Update and Delete | ReactJS | React Router" },
+    { "id": "epBYdlHe8Rs", "title": "Create RESTful Web API with CRUD Operations using Spring Boot and MySQL | Create Read Update Delete" },
+    { "id": "7zfby5D5hSM", "title": "[FIXED] SyntaxError: Cannot use import statement outside a module" },
+    { "id": "1eTFJ__VQKc", "title": "Web API with CRUD Operations using Node JS, Express and MySQL | RESTful Web API | Postman + XAMPP" },
+    { "id": "T-e554Zt3n4", "title": "Create ASP.NET Core Web Application With SQL Server Database Connection and CRUD Operations" },
+    { "id": "sceitmw57aQ", "title": "Build ASP.NET Core Web Application using Visual Studio Code and .NET 8 | Install C# Extensions" },
+    { "id": "G3tfbB-VGKg", "title": "Create ASP.NET Web Application with Entity Framework and SQL Server using Visual Studio Code 2024" },
+    { "id": "AOV0stL45iE", "title": "[FIXED] Error creating bean with name 'entityManagerFactory' defined in class path resource due to" },
+    { "id": "6zfIxgaVkQI", "title": "CRUD Operations using Spring Boot + Spring MVC + MySQL + Thymeleaf | Create, Read, Update and Delete" },
+    { "id": "KSiq0xZllVc", "title": "Create Your First React Application using Visual Studio Code" },
+    { "id": "7jOI9sh08nA", "title": "Create Your First ASP.NET Web Application using Visual Studio Code | ASP.NET using VSCode and .NET 8" },
+    { "id": "UpP0BNWOaTs", "title": "[FIXED] XAMPP Tomcat error: Tomcat Started/Stopped with errors | Make sure Java JDK or JRE installed" },
+    { "id": "bcnRjnvHv1I", "title": "Create Login Form using Bootstrap, HTML and CSS | Transparent Login Form with Background Image" },
+    { "id": "p4rraRyUHT8", "title": "Create a Weather Application using React JS - Bootstrap and Fetch API | Consume API Data in React JS" },
+    { "id": "y97U9Ikd7TI", "title": "Create TODO List Application using React JS and Bootstrap | Read and Store Data in the LocalStorage" },
+    { "id": "VbWRjZb6i6Y", "title": "Send Emails using Brevo / SendinBlue in ASP.NET Core Web Application and Web API | .NET 7 and C#" },
+    { "id": "4jP3TCWubMo", "title": "How to use Forms in React JS | Controlled and Uncontrolled Forms in React JS | Read and Clear Forms" },
+    { "id": "KdUX6K0FzbM", "title": "How to read appsettings.json in ASP.NET Core (.NET 7) | Read appsettings.json Parameters" },
+    { "id": "W4L33R4mQo0", "title": "How to use Arrays and Objects in JavaScript & ReactJS | Spread Operator & Array-Object Destructuring" }
+  ]
+}

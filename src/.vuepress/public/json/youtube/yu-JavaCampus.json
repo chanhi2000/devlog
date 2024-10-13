@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "JavaCampus",
+    "name": "JavaCampus",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNssJ2WKfhlonQFWlfo1nv0-SOW8GNLmXvsbkTe=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qTGqtz4MjVBxy3SyBgqQRd7RYWCCEvlfkPaWlbIkvjk51lHzldnrJUXVJBUR3MgQQ1xx0Aq3=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a9vpLHxhi7o", "title": "10분 만에 Java와 Spring Boot 개발 환경 구축 및 Hello World 코드 실행하기(2024년 대비)" },
+    { "id": "fqO3M2XiJpA", "title": ".NET 8.0 학습 개발 환경 구축(씨샵 12.0과 ASP.NET Core 8.0 프로젝트 생성 및 실행 데모)" },
+    { "id": "n910XgTO_y0", "title": "CQRS Query와 Command에 대한 이름 짓기 규칙 소개" }, 
+    { "id": "EAGqPn-TUZQ", "title": "C# 11 및 .NET 7 개발 환경 구축 with Visual Studio 2022" }, 
+    { "id": "YcEh2H0_RDE", "title": "goto 문을 사용하여 덧셈 또는 뺄셈 또는 종료하는 프로그램 작성하기" }, 
+    { "id": "x_AqRYJiXI4", "title": "2022년 스프링 부트(Spring Boot) 학습 개발 환경 구축 with Visual Studio Code" }, 
+    { "id": "CbQ6FqFSlzw", "title": "01_01_Rust 프로그래밍 언어 개발 환경 구축 및 Hello World 프로그램 작성 후 실행하기" }
+  ]
+}

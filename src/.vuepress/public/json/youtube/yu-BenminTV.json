@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "BenminTV",
+    "name": "민병욱 Benmin TV",
+    "profile": "https://yt3.googleusercontent.com/bm-M0O0iwW3KqZ9gLx7Zhsl-JiJJQkW5GLvjobbyDX6geqeXQpRxE_SDA8Sep6h3YHP_h6CwujM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/re30wYLAzdg1jBDCoGEwK0s1Txq1HQo-EN43OZiTDPsdsT3Fdj7EHqpXXmSGd8EytlJ5cWBjQxE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_YYq_JbBr5Y", "title": "0. 네트워크개념" },
+    { "id": "ZN8t87kJ4W0", "title": "1. 네트워크 장비 기본 설정" },
+    { "id": "D4wVFF4INt8", "title": "3. 네트워크 장비 기본 기능(IP config, telnet)" },
+    { "id": "Sgx9hU4xY9o", "title": "2. 네트워크 장비 기본 기능(날짜,비번,설정저장)" }
+  ]
+}

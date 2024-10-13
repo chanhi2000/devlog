@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "virtualJUG",
+    "name": "v JUG",
+    "profile": "https://yt3.googleusercontent.com/flAtDt9jd_NP0MH_mKTcwHVsChAoG8UKrtFtIYk2KLXmNVNsXnx45KSbbkp7oxHNTt8khqxifw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wOQBvnsCVBAkuzIVW9tvY2SMb1ntajpBfCck39NIOjZHV5QVFI8nq72RY_Djk5hnoK9I7kR8_g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pJ6dzpKzaKo", "title": "Bootiful Spring Boot 3 with Josh Long" },
+    { "id": "Om66XAMf8tM", "title": "Reactive Java REST APIs, FTW? with Matt Raible" },
+    { "id": "q4fDOSNPSeA", "title": "Java Meets AI: How to Build LLM-Powered Apps with LangChain4j and Lize Raes" },
+    { "id": "pJ6dzpKzaKo", "title": "Bootiful Spring Boot 3 with Josh Long" },
+    { "id": "xQ1XUgsPIhg", "title": "Are Your Tests Slowing You Down? with Trisha Gee" },
+    { "id": "gSQlLAp2dZ8", "title": "Securing the JVM - Neither for fun nor for profit, but do you have a choice?" }, 
+    { "id": "6sooAo4jNSA", "title": "Fully Reactive: Spring, Kotlin, and JavaFX Playing Together" }, 
+    { "id": "UHoLuTVX7mg", "title": "vJUG24: 5/24 Spring Boot and Kotlin, a match made in Heaven by Nicolas Frankel" }, 
+    { "id": "eCos5VTtZoI", "title": "Building 'Bootiful' Applications with Spring Boot by Josh Long" }, 
+    { "id": "BcVdZJqfGxM", "title": "Building the Internet of Things with Java" }
+  ],
+  "playlists": [
+
+  ]
+}

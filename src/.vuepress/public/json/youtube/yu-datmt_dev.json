@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "datmt_dev",
+    "name": "datmt",
+    "profile": "https://yt3.googleusercontent.com/vxsc-Hzt5XACN9geZS5NRUuIEv4_YLCIlO9RYPrnL9ilLXJ7IYsM0-csR9WCPJIP7rBKkbcwHYQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OmYfrWnr4FZG_8DSifmM3XNVeYhTwwK9c8D2dIFFGFBarSBIiyR11FBfCl3w2o5gikD3nQg3hA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KpRtsGg1PjU", "title": "Setup Default JDK & Terminal For VSCodium" },
+    { "id": "jG9YQhqTq1U", "title": "Using Spring CLI To Create New Spring Boot Project" },
+    { "id": "PrAIs7tSgks", "title": "Issue & Validate JWT Tokens Login In Spring Security 6 From Scratch" }
+  ]
+}

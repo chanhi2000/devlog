@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "raaviblog105",
+    "name": "Raaviblog",
+    "profile": "https://yt3.googleusercontent.com/Db2g5XWS-KccNPBsDOBUNRb7ksl-hWKX98QettWzXFjGqmH-7lc5-u1lH9tf4zpQOTvGptvpyzY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "MEUD4SsMqOs", "title": "Run GitLab as container in Docker-desktop on Windows" }
+  ]
+}
+

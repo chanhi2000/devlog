@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Doriandotslash",
+    "name": "DorianDotSlash",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZVIwWJHxLZKMOOcspVV5m-iGNcgFUjNfvRqwBS3g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5dWzKEX_Nm9QL-8ZdTxnvFDuWtmZY4xnAakoTpMs6zjt0joYQMrtU0wHRSCbNGrM9htgbJYswA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GkgPIJp8_30", "title": "What are Flatpaks? | How to install & permissions" },
+    { "id": "BkrGij4LNC0", "title": "Fedora Silverblue could be the future!" }
+  ]
+}

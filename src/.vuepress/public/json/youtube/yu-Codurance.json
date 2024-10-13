@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Codurance",
+    "name": "Codurance",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNl6fzM8whdwV8CJSz6lPhyYeOuKi8fFFyGxvX0vA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VYKbskXFqzL7hFHGXRPSTCujXEN_yBX1xED-Dp3UK56ZehbkPQLGu_kT1518yhGxTcuxygbF=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Rrft6NappKQ", "title": "Fireside Chat #63: Optimising Developer Productivity - by Codurance and CodeScene" },
+    { "id": "bL1QqVtyWPI", "title": "5 signs that your team's productivity level can be improved" },
+    { "id": "8KulYtkUlpE", "title": "Innovating for the benefit of your client as well as your team – Crafting Leadership Episode 4" },
+    { "id": "Vh4i8up4Q6w", "title": "Importance of Partnerships – Crafting Leadership Episode 5" },
+    { "id": "dN040Y1wfDg", "title": "Crafting the Cloud - Aligning Migration and Application Modernisation with AWS" },
+    { "id": "5NHYNFM4XUA", "title": "N-Queens Puzzle (PART 1) - Rust - Codurance Screenkata" }, 
+    { "id": "XHnuMjah6ps", "title": "Outside In TDD part I" }
+  ]
+}

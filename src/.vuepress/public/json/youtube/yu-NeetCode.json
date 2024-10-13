@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "NeetCode",
+    "name": "NeetCode",
+    "profile": "https://yt3.googleusercontent.com/FqiGBOsNpeWbNw20ULboW0jy88JdpqFO9a-YRJ0C2oc4lZ8uoHYJ38PWSkrjdC_zQgNW9pGU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NWLBAlvN6fUIXVYFMpP2vR1b47vYmMvSwssJkt3K1UVajDF_DbIAhrumpBkQFKiTL1KYwvKV=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "28ovh6xnuNk", "title": "losing my Vimginity 😳⌨️" },
+    { "id": "e64g-sJAoK0", "title": "Grinding Leetcode for 24 hours (learning Golang)" },
+    { "id": "i53Gi_K3o7I", "title": "20 System Design Concepts Explained in 10 Minutes" }, 
+    { "id": "0K_eZGS5NsU", "title": "Python for Coding Interviews - Everything you need to Know" }
+  ]
+}

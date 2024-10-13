@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "TechWithNich",
+    "name": "Tech With Nich",
+    "profile": "https://yt3.googleusercontent.com/foTxNGM0k4t8yxwr_vD0fV2qdVovKgAA7FFi26Rikt19VYM1i-MU3ALXMJ4MM2cg4lghlYDJBQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0ymGPyRA1bhWXDgz4ug_NX8ciY3CATHAhAGSgJsUAJVS9AOXqpNTCWrsnL201pvXJFCv-OTExS8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "h_eFsjT67bM", "title": "Why I Replaced Visual Studio Code With THIS - 300% Productivity gain" },
+    { "id": "5bRlGE4WBgU", "title": "It’s The End Of Web Devs, AI Did THIS in 47 Seconds" },
+    { "id": "lxB7-49GoTs", "title": "Make Vim Your IDE in JUST 85 Seconds | Easy Neovim Setup" },
+    { "id": "on_tYgsW5Qk", "title": "Get Perfect Gtmetrix Score & Fast Wordpress Hosting for less than $5" }
+  ]
+}

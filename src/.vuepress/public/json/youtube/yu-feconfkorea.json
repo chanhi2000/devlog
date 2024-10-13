@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "feconfkorea",
+    "name": "FEConf Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZtpTfaReP7vZQlECOs_JR1aJZ-9hGGJFsqn6w4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fnV9yJWYKha-kB_rvOofV4ZZHmmLtoiHiToyXWGeyoEC2rN-pPIU9I4xrRVFOmcwzfKgcrQTCMI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b3vP6wfpqWE", "title": "[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환" }, 
+    { "id": "VHszuWZk0JA", "title": "Redux-thunk에서 Redux-saga로 이사하기 - 김동우" }, 
+    { "id": "6C9zyLioTOU", "title": "[B4] 프런트엔드를 위한 API 프로토콜, REST만이 답은 아니다. (with. gRPC, GraphQL)" }, 
+    { "id": "ycxqVYD2N0w", "title": "[B6] 복잡한 백오피스에서 Form의 상태 다루기" }, 
+    { "id": "o9JnT4sneAQ", "title": "[Track 1-2] 유인동 - ES6+ 비동기 프로그래밍과 실전 에러 핸들링" }, 
+    { "id": "L1dtkLeIz-M", "title": "[A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다." }
+  ]
+}

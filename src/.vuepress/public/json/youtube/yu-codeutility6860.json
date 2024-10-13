@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codeutility6860",
+    "name": "Code Utility",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTPXC5W_jLecxgwT8XoZZgdQpOvqBFst6AOg1rfTw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Uwj0M1o0JSb6y3gPHlmdzZAktVQbsr0j-spnZEtSGugTkQUN2YOtWM31uV-e_fxNgfR-PUygvw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JZWGWoiCZB4", "title": "How to simplify spacing in Android Jetpack compose | Jetpack compose tutorial | Code Utility" },
+    { "id": "_388wpYOrN0", "title": "Android Jetpack Compose Example | Profile Page Design | Code Utility" }
+  ]
+}

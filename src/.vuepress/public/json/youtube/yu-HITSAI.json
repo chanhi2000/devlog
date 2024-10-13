@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "HITSAI",
+    "name": "HITS",
+    "profile": "https://yt3.googleusercontent.com/jghE2MfkpA1R5hSQFQaU92u9pPNzVjpGGaWNw_9EhyMZvh6aepF8L0qi4HhgSZxMQ2YvSJLrLQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tYyjKk4BU846ulFS5ozSQ1ck1shohkEFzmnNdcKyLqcWXJ2blBr4y0mk3Ej2rJ0uj8VklFWB=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "q-qibJJsodo", "title": "미래에는 로봇이 약을 만든다고? | 생성형 AI와 신약개발 | SAAS 플랫폼" },
+    { "id": "brpIjaPZq-8", "title": "Understanding Hyper Lab workflows with the FDA-approved drug Pirtobrutinib in 2023" },
+    { "id": "DjWWxWA9hX8", "title": "[웨비나]AlphaFold 이후, AI 신약 개발 기술은 어디까지 발전했나?" },
+    { "id": "vFkfCvVfF3Y", "title": "3분만에 AI로 신규 분자 구조 50개 만드는 법" }
+  ]
+}

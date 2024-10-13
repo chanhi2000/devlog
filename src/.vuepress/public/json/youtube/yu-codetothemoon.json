@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codetothemoon",
+    "name": "Code to the Moon",
+    "profile": "https://yt3.googleusercontent.com/gs7-bO3i8ufR_PWQk92HWAFKbw7RhlSZyR8nemKNAvPsriTEJPK2C5_7dlajGe6S5FIuRY-0aQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DYYmvnH6HJDOnmEGTEQ2c2bREpeapdj-4HF7L1DWt1G7HOeHgD-gi-P332QirVuCuuQy7KVHwg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UQuo-H1K0oM", "title": "The Dream of Replicating the Human Mind in Software" },
+    { "id": "Zy-eDWVam_Y", "title": "The Star Language that will outshine Rust? Gleam" },
+    { "id": "Pr6T0Phjvgc", "title": "Modern All Rust Stack - Dioxus, Axum, Warp, SurrealDB" },
+    { "id": "tq3-M7QJiWg", "title": "Rust full stack web frameworks have a bright future" },
+    { "id": "ywtYpkDww74", "title": "Enchanted LLM and the bright path for open language models" },
+    { "id": "slV0zdUEYJw", "title": "Larger Scale Software Development (and a Big Trap)" },
+    { "id": "jib1wjgIaa4", "title": "this open source project has a bright future" },
+    { "id": "4f2JH_sK17o", "title": "The Current State of the Mojo Programming Language" },
+    { "id": "uxexM1-iCkg", "title": "The Best Way To Deploy In 2023 (feat. Docker, Rust, and Language Models)" },
+    { "id": "uuPeBKdnBOI", "title": "The Dream Programming Language? Lobster" }, 
+    { "id": "CHRNj5oubwc", "title": "Rust Powered Polymorphism ⚡️ With Traits" }, 
+    { "id": "MddGbXgIt2E", "title": "Build A Rust Frontend (Really FAST Web Apps with Yew)" }, 
+    { "id": "cxoE2FhOIgI", "title": "Why I Prefer Emacs Over VSCode and vim" }
+  ],
+  "playlists": [
+
+  ]
+}

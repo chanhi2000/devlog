@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "one-day",
+    "name": "낮에",
+    "profile": "https://yt3.googleusercontent.com/0TLBGEp5LJDA0GuvozyfnGT0AwnFvU-hJ-YjSC2nIPn3pVCn3PvRYUdRl3gEsB0I_h42VfMf5g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E7q68Ej48Qhqws-J3fxyOj47NQ60geXFduJicEeA92d3ao7YwOXrMgHJEqb1mkuvGV0prFpMCDg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "BvWtvOBybdU", "title": "침수된 I5-10세대 LG그램을 조질려고 샀는데... 장난하냐.. | 해낮달낮" },
+    { "id": "01hgGIk-nXs", "title": "조져놓은 아이패드 7세대 A10 CPU를, 아이폰 7에서 이식하다.. | 해낮달낮" },
+    { "id": "di2yCm5PuXE", "title": "애플 아이패드 7세대 CPU 조지는데 뭐냐 이거... 뭐냐니까?.. | 해낮달낮" },
+    { "id": "-3XE4R_FnjQ", "title": "전원이 안 켜지면 버튼 옆에 칩을 확인.. | 삼성 갤럭시 노트 5 | 해낮달낮" },
+    { "id": "Y8VCUbypjjU", "title": "갤럭시 탭은 잠시 접고, 전원이 안 켜지는 노트북으로 갈아탐.. 다시 수리의 시작 ^^; | 해낮달낮" },
+    { "id": "tR2WGnY8Los", "title": "I7 7세대 아수스 노트북의 고장.. 전원이 안 들어오면 BQ24780S 칩을 확인하세영! | 해낮달낮" },
+    { "id": "kHw_dDE5-q8", "title": "얄팍한 수리 지식으로 들이댔다가 고통의 시간을 보내고 있음.. 삼성 갤럭시 탭 s4 | 해낮달낮" }
+  ]
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "repo": "gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "officialSite": "https://gto76.github.io/python-cheatsheet",
+    "topics": []
+  }, {
+    "repo": "jackfrued/Python-Core-50-Courses",
+    "desc": "Python语言基础50课",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "officialSite": "",
+    "topics": ["30-days-of-python", "flask", "github", "heroku", "matplotlib", "mongodb", "numpy", "pandas", "python", "python3"]
+  }, {
+    "repo": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "vopani/jaxton",
+    "desc": "100 exercises to learn JAX",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Jdsleppy/django-orm-cheatsheet",
+    "desc": "A cheatsheet for the Django ORM",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "mrdbourke/pytorch-deep-learning",
+    "desc": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "officialSite": "https://learnpytorch.io",
+    "topics": []
+  }, {
+    "repo": "mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "officialSite": "",
+    "topics": ["python", "design", "development", "programming", "web", "system", "design-patterns", "interview", "web-application", "webapp", "interview-practice", "interview-questions", "design-system"]
+  }, {
+    "repo": "huggingface/diffusion-models-class",
+    "desc": "Materials for the Hugging Face Diffusion Models Course",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "Azure-Samples/azure-search-openai-demo",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "officialSite": "https://azure.microsoft.com/products/search",
+    "topics": ["azure", "openai", "azurecognitivesearch", "azd-templates", "chatgpt", "azureopenai"]
+  }, {
+    "repo": "TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "officialSite": "https://the-algorithms.com",
+    "topics": []
+  }, {
+    "repo": "acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SkalskiP/courses",
+    "desc": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/7474657?v=4",
+    "banner": ""
+  }, {
+    "repo": "microsoft/DeepSpeedExamples",
+    "desc": "Example models using DeepSpeed",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "danielgross/LlamaAcademy",
+    "desc": "A school for camelids",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "lizrice/ebpf-beginners",
+    "desc": "The beginner's guide to eBPF",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "pamelafox/sqlalchemy-sqlite-playground",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "dabeaz-course/python-mastery",
+    "desc": "Advanced Python Mastery (course by @dabeaz)",
+    "officialSite": "",
+    "topics": ["python"]
+  }, {
+    "repo": "tweag/python-monorepo-example",
+    "desc": "Example of a python monorepo using pip, the poetry backend, and Pants",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "officialSite": "",
+    "topics": ["python", "snippets", "documentation", "wtf", "gotchas", "interview-questions", "python-interview-questions", "pitfalls", "wats"]
+  }, {
+    "repo": "linkedin/school-of-sre",
+    "desc": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.",
+    "officialSite": "https://linkedin.github.io/school-of-sre",
+    "topics": ["mysql", "python", "git", "linux", "security", "networking", "hadoop", "nosql", "sre", "system-design"]
+  }, {
+    "repo": "binary-husky/gpt_academic",
+    "desc": "为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",
+    "officialSite": "https://huggingface.co/spaces/qingxu98/gpt-academic",
+    "topics": ["academic", "chatglm-6b", "chatgpt", "gpt-4", "large-language-models"]
+  }, {
+    "repo": "iam-veeramalla/python-for-devops",
+    "desc": "Learn Python from DevOps Engineer point of you.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "SepehrRasouli/clean-code-python",
+    "desc": ":bathtub: Clean Code concepts adapted for Python",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "officialSite": "",
+    "topics": ["deep-learning", "neural-networks", "pytorch", "pytorch-tutorial"]
+  }, {
+    "repo": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+    "desc": "A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "ethen8181/machine-learning",
+    "desc": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+    "officialSite": "",
+    "topics": ["data-science", "deep-learning", "jupyter-notebook", "machine-learning", "python", "python3"]
+  }, {
+    "repo": "RamiKrispin/vscode-python",
+    "desc": "A Tutorial for Setting Python Development Environment with VScode and Docker",
+    "officialSite": "",
+    "topics": ["docker", "pyhton3", "python", "vscode"]
+  }, {
+    "repo": "golbin/TensorFlow-Tutorials",
+    "desc": "텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다",
+    "officialSite": "",
+    "topics": ["autoencoder", "chatbot", "cnn", "deep-learning", "dqn", "gan", "inception", "mnist", "neural-network", "rnn", "seq2seq", "tensorflow", "tutorial", "word2vec"]
+  }
+]

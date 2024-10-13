@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "SimplifiedCoding",
+    "name": "Simplified Coding",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPpt-aSqDtACGLE6QlfxXFye50nZ93ti-C5LY7A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yRhrt-VayTn-0MSFHZcfgSUYeGEthYenbjXt3rwjbHGzOs4XxNNYcWWhUQfQiRbCP5tvhqMs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5AfIs6xydJ4", "title": "Kotlin Concurrency: coroutineScope vs supervisorScope Explained" },
+    { "id": "yvLMJ4gA3qw", "title": "Mastering Authentication: Saving User Auth Token with DataStore" },
+    { "id": "Nj8ClKMIPmI", "title": "Building AuthRepository and LoginUseCase for Android Authentication" },
+    { "id": "yGZpSr-_xfk", "title": "Android Login API Implementation with KTOR HTTP Client and Kotlin Coroutines" },
+    { "id": "w0wgNpXm-Bc", "title": "Proto DataStore Android: Mastering User Session Handling in Your App!" },
+    { "id": "XHWehRFDJPg", "title": "Retrofit vs Ktor: Decoding the Kotlin Networking Dilemma #Kotlin #Networking #RetrofitVsKtor #Shorts" },
+    { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },
+    { "id": "nWsA3r1nxNY", "title": "Mastering Network Calls in Kotlin: Building a Powerful HttpClient with Builder Pattern" },
+    { "id": "ezhXbgMhiOA", "title": "Advanced Kotlin Networking Techniques: Inline Functions, HttpClient, and Beyond" },
+    { "id": "d2378VL6Q80", "title": "RESTful API Setup Made Easy: Cloning a kTor Project for Android" },
+    { "id": "4dycfw1h3QY", "title": "Crafting a Jetpack Compose Login Screen: Exploring `Columns`, `Rows`, `TextFields`, and `Buttons`" },
+    { "id": "Dbow4wXCAZY", "title": "Setting Up Material3 Theme & Type-Safe Magic in Your Android App" },
+    { "id": "FruZcDVtl38", "title": "Building UI: TopAppBar, Common TextField, and Toast Function Essentials" },
+    { "id": "OfN_Imqu2bE", "title": "Perfect Code Every Time: Setting Up Spotless Plugin for Ultimate Android Project Formatting!" },
+    { "id": "Q2L2eau4URs", "title": "Building UI: App Modularization, Auth Module, Splash Screen, and Jetpack Compose Navigation" },
+    { "id": "vIpH1jfLZDk", "title": "Setting up Android Project: Gradle Version Catalogs, and Pro Tips for Common Config Across Modules" },
+    { "id": "HDK1h7RUjoU", "title": "The Ultimate Android App Creation Journey: Start Coding, Start Building" },
+    { "id": "Mq5PVEmkZlQ", "title": "Assisted Injection in ViewModel using Hilt" }, 
+    { "id": "a7RvjJMAD3w", "title": "kTor Android Client Tutorial - Performing Simple GET Request" }, 
+    { "id": "rWPqjr1ZmQU", "title": "Kotlin Delegating Properties Tutorial with Example" }, 
+    { "id": "78RHCvTQnE0", "title": "Android Test Activity with Espresso" }, 
+    { "id": "wwz2uPvbfLg", "title": "Kotlin Delegation Tutorial with Example" }, 
+    { "id": "q_5xrPYRoAg", "title": "#12 Android Login/Signup with MVVM - User Logout" }, 
+    { "id": "pSDJu9iiNvE", "title": "#5 Android Login/Signup with MVVM - Base Fragment" }, 
+    { "id": "EUgpvEno3vI", "title": "#4 RecyclerView with MVVM - Data Binding" }, 
+    { "id": "3Uhorh2o1dg", "title": "#3 RecyclerView with MVVM - ViewModel and Fragment" }, 
+    { "id": "I485b7LzYkM", "title": "#1 Firebase Database with Kotlin Tutorial - Saving Data" }, 
+    { "id": "CFTCyBNXaCI", "title": "#17 Android MVVM Architecture Tutorial - RecyclerView with Groupie" }, 
+    { "id": "F8lL8TdLYLE", "title": "#12 Android MVVM Architecture Tutorial - User Signup" }, 
+    { "id": "RkRX446RSPk", "title": "#3 Android MVVM Architecture Tutorial - Using Data Binding" }, 
+    { "id": "A2n0It3C6eM", "title": "#6 Android Room Tutorial - Getting Saved Data" }, 
+    { "id": "JfM5klBXi_Q", "title": "#7 Retrofit Android Tutorial - Create Operation" }, 
+    { "id": "UIQ4_1B420g", "title": "#3 ML-Kit's Vision API on Android - Barcode Scanning"  }, 
+    { "id": "ju4AYKMe3Sw", "title": "#2 ML-Kit's Vision API on Android - CameraX"  }, 
+    { "id": "sVfRVVc3NkQ", "title": "#1 ML-Kit's Vision API on Android - Introduction" } 
+  ]
+}
+

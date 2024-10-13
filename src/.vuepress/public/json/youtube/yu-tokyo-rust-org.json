@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "tokyo-rust-org",
+    "name": "Tokyo Rust Meetup",
+    "profile": "https://yt3.googleusercontent.com/eATcPUcnL9hDvt35L2aGwJOWZgIhMwUzDnCqztSZgKWz3-rMUVyYeKgveAH7_7xFN0w8KbycnQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/K1ECqextaH2gFmLm0yWTa1ZXEmoWoJ3lmi-m9o8tRRGn4Y_3jKZ8Ww6vOZa21pVnLjFZo610yo4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dW8ok1_dH_Y", "title": "Building the Isograph Compiler in Rust" },
+    { "id": "yQs75EWddTA", "title": "The Good, the Bad, and the Async" },
+    { "id": "u88ViU3fCJg", "title": "Fun with Labels, Macros, and Unsafe Rust" },
+    { "id": "x7LQevYn7d0", "title": "Building Embedded Systems With Rust" }
+  ]
+}
+

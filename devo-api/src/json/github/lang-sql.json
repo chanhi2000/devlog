@@ -1,0 +1,17 @@
+[
+  {
+    "repo": "supabase/index_advisor",
+    "desc": "PostgreSQL Index Advisor",
+    "officialSite": "https://supabase.com/docs/guides/database/extensions/index_advisor",
+    "topics": ["extension", "indexing", "postgres", "postgresql"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "electric-sql/pglite",
+    "desc": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com",
+    "officialSite": "https://pglite.dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/96433696?v=4",
+    "banner": ""
+  }
+]

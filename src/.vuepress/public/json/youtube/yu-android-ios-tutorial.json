@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "android-ios-tutorial",
+    "name": "Let's Finish this APP - Kotlin and Swift Tutorials",
+    "profile": "https://yt3.googleusercontent.com/5ZMxMjoyLsQYQameBkCJR-BYCFzXn1HX5i9edJAC7tSnyxTy2hM6sXhrThmegR2ThG_xjSZ7zA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DW4kXt_Er4NWlPfyanYbSMhpdlzFUqJ24Na81Kb1V6aNfNAwfmfU-siJjSzY9OaC6PjADXo1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aPjojnJbyiE", "title": "Kotlin Tutorial: How to play youtube video in android app" }
+  ]
+}

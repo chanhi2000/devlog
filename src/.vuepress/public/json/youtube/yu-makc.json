@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "makc",
+    "name": "MAKC",
+    "profile": "https://yt3.googleusercontent.com/i-o7YBRed6Rz4aDzLcF9GViVibcFxFbkFnV0sfQ6Ls_Uax6t1LilInbMwXUtydVoWKkEdM6EyRk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jXu5cIJk-oeKYoLBWOFI9yD-WsKz2bwQVDVZ-4BgGemhIjmIsIDn-DpMY3mFl_ChDupGQtuI0QA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "q9tsjTeeEHA", "title": "Make Vim as Sexy as Audrey Hepburn (Almost)" }, 
+    { "id": "NVOLRXFhczU", "title": "Downloading Torrents on the Command Line (with Transmission-Cli)" }, 
+    { "id": "Kx-SDJwL01o", "title": "Switching to Neovim & Rebuilding my Configuration" } 
+  ]
+}

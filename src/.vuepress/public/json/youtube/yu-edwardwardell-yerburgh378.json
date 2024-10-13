@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "edwardwardell-yerburgh378",
+    "name": "Edward Wardell-Yerburgh",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQZ8Ap9mPNfzAGoV8Sqwms2birEPYxJsE1Xk0QI2Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "vQ4A7EfAHOg", "title": "Writing a Vue unit test with Jest" }
+  ]
+}

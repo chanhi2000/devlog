@@ -1,0 +1,626 @@
+[
+  {
+    "repo": "scottplot/scottplot",
+    "desc": "Interactive Plotting Library for .NET",
+    "officialSite": "https://scottplot.net",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "officialSite": "",
+    "topics": ["windows", "color-picker", "desktop", "keyboard-manager", "powertoys", "fancyzones", "microsoft-powertoys", "powerrename"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "valinet/ExplorerPatcher",
+    "desc": "This project aims to enhance the working environment on Windows",   
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/calculator",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",   
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "coofcookie/Windows11Upgrade",
+    "desc": "Windows 11 Upgrade tool that bypasses Microsoft´s requirements",   
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",    
+    "officialSite": "https://dot.net/maui",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bitwarden/server",
+    "desc": "The core infrastructure backend (API, database, Docker, etc).",    
+    "officialSite": "https://bitwarden.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PRQL/prql",
+    "desc": "PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",
+    "officialSite": "https://prql-lang.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "unoplatform/uno",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "officialSite": "https://platform.uno"       ,
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Const-me/Whisper",
+    "desc": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",    
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/semantic-kernel",
+    "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "officialSite": "https://aka.ms/semantic-kernel",
+    "topics": ["sdk", "ai", "artificial-intelligence", "openai", "llm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "keijiro/AICommand",
+    "desc": "ChatGPT integration with Unity Editor",    
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "files-community/Files",
+    "desc": "Building the best file manager experience for Windows",
+    "officialSite": "https://files.community",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "keijiro/UnityMLStableDiffusion",
+    "desc": "Core ML Stable Diffusion on Unity",    
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DeSinc/SallyBot",
+    "desc": "AI Chatbot coded in Discord.net C#",    
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "optikey/optikey",
+    "desc": "OptiKey - Full computer control and speech with your eyes",    
+    "officialSite": "http://www.optikey.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mivano/azure-cost-cli",
+    "desc": "CLI tool to perform cost analysis on your Azure subscription",    
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MassTransit/MassTransit",
+    "desc": "Distributed Application Framework for .NET",
+    "officialSite": "https://masstransit.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "2dust/v2rayN",
+    "desc": "A GUI client for Windows, support Xray core and v2fly core and others",
+    "officialSite": "https://1.2345345.xyz",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "btcpayserver/btcpayserver",
+    "desc": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "officialSite": "https://btcpayserver.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "felixse/FluentTerminal",
+    "desc": "A Terminal Emulator based on UWP and web technologies.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "shahedc/multiweb",
+    "desc": "Multiple projects for debugging sample.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "officialSite": "https://www.ryujinx.org",
+    "topics": ["emulator", "csharp", "dotnet", "emulation", "switch", "dotnet-core"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jellyfin/jellyfin",
+    "desc": "The Free Software Media System",
+    "officialSite": "https://jellyfin.org",
+    "topics": ["csharp", "dotnet", "hacktoberfest", "jellyfin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jamesnet214/leagueoflegends",
+    "desc": "League of Legends client demo that made using WPF",
+    "officialSite": "",
+    "topics": ["csharp", "dotnet", "wpf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "officialSite": "https://microsoft.com/PowerShell",
+    "topics": ["windows", "macos", "linux", "shell", "command-line", "powershell", "netcore", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {  
+    "repo": "dogu-team/gamium",
+    "desc": "Gamium provides the ability to script the behavior of game users",
+    "officialSite": "https://gamium.dogutech.io",
+    "topics": ["game", "games", "game-development", "test-automation", "game-tester", "game-testing", "game-test-automation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kneesnap/onstream-data-recovery",
+    "desc": "A repository detailing data recovery of OnStream tapes.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/devhome",
+    "desc": "Windows Dev Home Application",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/devhomegithubextension",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Fictiverse/Redream",
+    "desc": "Realtime Diffusion, using Automatic1111 Stable Diffusion API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "git-ecosystem/git-credential-manager",
+    "desc": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "officialSite": "",
+    "topics": ["github", "git", "gitlab", "authentication", "cross-platform", "bitbucket", "aad", "credential", "azure-devops", "azure-repos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Jessecar96/SteamDesktopAuthenticator",
+    "desc": "Desktop implementation of Steam's mobile authenticator app",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for ASP.NET Core",
+    "officialSite": "",
+    "topics": ["template", "angular", "dotnet", "clean-architecture"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet-architecture/eShopOnContainers",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "officialSite": "https://dot.net/architecture",
+    "topics": ["docker", "microservices", "spa", "xamarin", "ddd", "netcore", "ddd-patterns", "windowscontainers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "davidfowl/TodoApi",
+    "desc": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "officialSite": "",
+    "topics": ["jwt", "authentication", "aspnetcore", "rest-api", "cookies", "webassembly", "dotnet-core", "blazor", "opentelemetry"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SebLague/Chess-Challenge",
+    "desc": "https://youtu.be/iScy18pVR58",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Uahh/ToastFish",
+    "desc": "一个利用摸鱼时间背单词的软件。",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "T0biasCZe/AdbFileManager",
+    "desc": "Fast Android <-> Windows file manager using ADB protocol",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AzureAD/microsoft-authentication-library-for-dotnet",
+    "desc": "Microsoft Authentication Library (MSAL) for .NET",
+    "officialSite": "https://aka.ms/aaddev",
+    "topics": ["microsoft", "identity", "xamarin", "dotnet", "uwp", "netcore", "azure-active-directory", "wam", "msal", "maui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "LorisYounger/VPet",
+    "desc": "虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序",
+    "officialSite": "",
+    "topics": ["wpf", "desktop-pet"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stride3d/stride",
+    "desc": "Stride Game Engine (formerly Xenko)",
+    "officialSite": "https://stride3d.net",
+    "topics": ["gamedev", "multi-platform", "csharp", "game-engine", "vulkan", "game-development", "direct3d", "xenko", "stride"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MonoGame/MonoGame",
+    "desc": "One framework for creating powerful cross-platform games.",
+    "officialSite": "http://www.monogame.net",
+    "topics": ["c-sharp", "open-source", "gamedev", "xna", "csharp", "cross-platform", "game-engine", "dotnet", "graphics", "game-development", "game-framework", "monogame", "hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OpenRA/OpenRA",
+    "desc": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "officialSite": "https://www.openra.net",
+    "topics": ["game", "csharp", "cross-platform", "game-engine", "dotnet", "engine", "strategy-game-engine", "openra", "red-alert", "command-and-conquer", "rts", "hacktoberfest", "real-time-strategy", "tiberian-dawn", "dune-2000"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "aras-p/UnityGaussianSplatting",
+    "desc": "Toy Gaussian Splatting visualization in Unity",
+    "officialSite": "",
+    "topics": ["gaussian-splatting", "unity"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "SlejmUr/PayCheck3",
+    "desc": "PayDay 3 Server Emulator Attempt",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.",
+    "officialSite": "https://abp.io",
+    "topics": ["abp", "angular", "architecture", "aspnet", "aspnet-core", "aspnetcore", "blazor", "c-sharp", "csharp", "domain-driven-design", "dotnet-core", "framework", "multi-tenancy", "saas"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Jackett/Jackett",
+    "desc": "API Support for your favorite torrent trackers",
+    "officialSite": "",
+    "topics": ["api", "couchpotato", "duckietv", "hacktoberfest", "indexer", "jackett", "lidarr", "medusa", "mylar3", "nefarious", "newznab", "proxy", "radarr", "rss", "rss-proxy", "sickrage", "sonarr", "torrent", "torznab", "trackers"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "XuanchenLin/NanUI",
+    "desc": "NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.",
+    "officialSite": "https://github.com/Xuanchenlin/NanUI",
+    "topics": ["cef", "cefglue", "chromium", "desktop", "dotnet", "dotnet-core", "formium", "html-window", "nanui", "winforms"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Cysharp/UniTask",
+    "desc": "Provides an efficient allocation free async/await integration for Unity.",
+    "officialSite": "",
+    "topics": ["coroutine", "csharp", "task", "thread", "unity"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "2dust/clashN",
+    "desc": "A clash client for Windows, support clash core and Clash.Meta core",
+    "officialSite": "https://1.2345345.xyz",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/aspire",
+    "desc": ".NET Aspire",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/fluentui-blazor",
+    "desc": "Microsoft Fluent UI Blazor components library. For use with .NET 6.0 or higher Blazor applications",
+    "officialSite": "https://www.fluentui-blazor.net",
+    "topics": ["adaptive-ui", "blazor", "component-architecture", "component-library", "components", "csharp", "csharp-library", "design-systems", "development-tools", "fluent", "fluentui", "front-end-framework", "web-components", "web-standards", "webassembly"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/eShop",
+    "desc": "A reference .NET application implementing an eCommerce site",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "elvirbrk/NoteHighlight2016",
+    "desc": "Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)",
+    "officialSite": "",
+    "topics": ["addin", "code-snippets", "onenote", "onenote-addin", "syntax-highlighting"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kgrzybek/modular-monolith-with-ddd",
+    "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "officialSite": "",
+    "topics": ["architecture", "clean-architecture", "clean-code", "cqrs", "ddd", "ddd-architecture", "ddd-cqrs", "ddd-example", "design-patterns", "design-systems", "domain-driven-design", "dotnet", "dotnetcore", "entity-framework-core", "event-sourcing", "modularity", "monolith", "rest", "rest-api", "software-architecture"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "AvaloniaUI/Avalonia",
+    "desc": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+    "officialSite": "https://avaloniaui.net",
+    "topics": ["android", "app-framework", "avalonia", "avaloniaui", "browser", "c-sharp", "cross-platform", "csharp", "desktop", "dotnet", "gui", "ios", "linux", "macos", "mobile", "mvvm", "wasm", "windows", "xamarin", "xaml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ihm-tswow/Links-Awakening-DX-HD",
+    "desc": "Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "buybackoff/1brc",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "OdysseusYuan/LKY_OfficeTools",
+    "desc": "一键自动化 下载、安装、激活 Office 的利器。",
+    "officialSite": "E-Mail: liukaiyuan@sjtu.edu.cn",
+    "topics": ["access", "email", "excel", "kms", "lync", "microsoft", "msoffice", "office", "office-free", "office365", "onedrive", "onenote", "outlook", "ppt", "project", "publisher", "skype", "teams", "visio", "word"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Tichau/FileConverter",
+    "desc": "File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.",
+    "officialSite": "http://www.file-converter.org",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "FalconForceTeam/SOAPHound",
+    "desc": "SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rajko-horvat/OpenCiv1",
+    "desc": "Open source rewrite of the original Civilization Game designed by Sid Meier and Bruce Shelley in year 1991",
+    "officialSite": "",
+    "topics": ["4x", "4x-strategy-game", "civilization", "civilization-games", "game", "remake", "remake-games", "retro", "retro-game", "retrogaming", "sid-meier-civilization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ExOK/Celeste64",
+    "desc": "A game made by the Celeste developers in a week(ish, closer to 2)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/AdaptiveCards",
+    "desc": "A new way for developers to exchange card content in a common and consistent way.",
+    "officialSite": "https://adaptivecards.io",
+    "topics": ["adaptive", "adaptive-cards", "adaptivecards", "android", "bot-framework", "bots", "cards", "ios", "timeline", "uwp", "windows", "windows-uwp", "wpf", "xamarin", "xaml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "officialSite": "https://osu.ppy.sh",
+    "topics": ["beatmap-parser", "game", "hacktoberfest", "osu", "rhythm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Unity-Technologies/EntityComponentSystemSamples",
+    "desc": "",
+    "officialSite": "",
+    "topics": ["auto-vectorisation", "auto-vectorization", "burst", "component", "containers", "csharp", "documentation", "ecs", "entity", "high", "jobs", "multicore", "multicore-processors", "multicore-programming", "native", "performance", "simd", "system", "tutorials", "unity3d"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "officialSite": "https://asp.net",
+    "topics": ["aspnetcore", "dotnet", "hacktoberfest", "help-wanted"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/garnet",
+    "desc": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+    "officialSite": "https://microsoft.github.io/garnet/",
+    "topics": ["cache", "cache-storage", "cluster", "concurrent", "hash-table", "key-value", "larger-than-memory", "low-latency", "persistent", "remote", "scalable", "store"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "marticliment/UniGetUI",
+    "desc": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+    "officialSite": "https://www.marticliment.com/unigetui/",
+    "topics": ["chocolatey", "cli", "npm", "package", "package-manager", "pip", "scoop", "unigetui", "windows", "windows-10", "windows-11", "winget"],
+    "avatar": "https://avatars.githubusercontent.com/u/53119851?v=4",
+    "banner": ""
+  }, {
+    "repo": "DevToys-app/DevToys",
+    "desc": "A Swiss Army knife for developers.",
+    "officialSite": "https://devtoys.app/",
+    "topics": ["blazor", "cross-platform", "csharp", "desktop", "desktop-app", "desktop-application", "developer-tools", "extensible", "fluent", "fluent-design", "linux", "macos", "mica", "syntax-highlighting", "typescript", "windows", "windows-10", "windows-11", "winui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kjpgit/SmallestCSVParser",
+    "desc": "World's Smallest CSV Parser (C#)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dafny-lang/dafny",
+    "desc": "Dafny is a verification-aware programming language",
+    "officialSite": "https://dafny.org",
+    "topics": ["programming-language", "verification"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xM4ddy/OFGB",
+    "desc": "GUI Tool To Removes Ads From Various Places Around Windows 11",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PackJC/YoutubeToMP3",
+    "desc": "This Windows Forms application in C# allows users to download YouTube videos as MP3 files.",
+    "officialSite": "",
+    "topics": ["mediatoolkit", "mp3-downloader", "youtube", "youtube-downloader", "youtube-mp3", "youtube-mp3-downloader", "youtubeexplode"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "patcher454/DeepLTranslatorPowerToys",
+    "desc": "PowerToys Translation Plugin with DeepLTranslator",
+    "officialSite": "",
+    "topics": ["deepl", "powertoys", "powertoys-run-plugin", "translation", "translator", "translators"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fiddyschmitt/File-Tunnel",
+    "desc": "Tunnel TCP connections through a file",
+    "officialSite": "",
+    "topics": ["firewall", "port-forwarding", "rdp", "tunnel"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fullstackhero/dotnet-starter-kit",
+    "desc": "Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+    "officialSite": "https://fullstackhero.net/dotnet-webapi-boilerplate/",
+    "topics": ["aws", "blazor", "boilerplate", "clean-architechture", "clean-architecture", "codewithmukesh", "docker", "dotnet", "dotnet8", "fullstackhero", "modular-monolith", "multitenancy", "starter-kit", "template", "terraform", "vertical-slice-architecture", "webapi"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/ApplicationInspector",
+    "desc": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "officialSite": "",
+    "topics": ["application-inspector", "detection", "security-scanner", "security-tools", "software-characterization", "static-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Timmoth/AsyncMonolith",
+    "desc": "Facilitates simple asynchronous messaging in dotnet apps.",
+    "officialSite": "",
+    "topics": ["async", "csharp", "dotnet", "efcore", "messaging", "outbox", "scheduler", "transactional"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Stability-AI/StableSwarmUI",
+    "desc": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+    "officialSite": "",
+    "topics": ["ai", "image-generation", "stable-diffusion", "stablediffusion", "ui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "chickensoft-games/GodotEnv",
+    "desc": "Manage Godot versions and addons from the command line on Windows, macOS, and Linux.",
+    "officialSite": "https://www.nuget.org/packages/Chickensoft.GodotEnv/",
+    "topics": ["addon", "addons", "gamedev", "godot", "godot-addon", "godot-engine", "godot-game-engine", "godot3", "utilities", "utility"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "goatcorp/Dalamud",
+    "desc": "FFXIV plugin framework and API",
+    "officialSite": "",
+    "topics": ["ffxiv"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. ",
+    "officialSite": "",
+    "topics": ["azure", "azure-sdk", "c-sharp", "dotnet", "hacktoberfest", "microsoft"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "codr7/sharpl",
+    "desc": "a custom Lisp",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/49050800?v=4",
+    "banner": ""
+  }, {
+    "repo": "LibreHardwareMonitor/LibreHardwareMonitor",
+    "desc": "Libre Hardware Monitor, home of the fork of Open Hardware Monitor",
+    "officialSite": "",
+    "topics": ["free", "hacktoberfest", "hardware", "hardware-monitoring", "libre-hardware-monitor", "monitor", "monitoring", "open-source", "opensource", "system", "system-monitor", "system-monitoring"],
+    "avatar": "https://avatars.githubusercontent.com/u/30905571?v=4",
+    "banner": ""
+  }, {
+    "repo": "ardalis/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
+    "officialSite": "",
+    "topics": ["architecture", "clean-architecture", "csharp", "ddd", "domain-driven-design", "dotnet", "hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/782127?v=4",
+    "banner": ""
+  }, {
+    "repo": "dotnet/csharplang",
+    "desc": "The official repo for the design of the C# programming language",
+    "officialSite": "",
+    "topics": ["csharp", "language-design"],
+    "avatar": "https://avatars.githubusercontent.com/u/9141961?v=4",
+    "banner": ""
+  }, {
+    "repo": "microsoft/kiota",
+    "desc": "OpenAPI based HTTP Client code generator",
+    "officialSite": "https://aka.ms/kiota/docs",
+    "topics": ["api", "csharp", "dotnet", "golang", "hacktoberfest", "http", "java", "kiota", "openapi", "openapi-codegen", "openapi-specification", "openapi3", "php", "python", "ruby", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "banner": ""
+  }
+]

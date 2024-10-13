@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "MinjunKim",
+    "name": "Minjun Kim",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMSvJFrzT_vbZEG5lW9tUTMHrJ9M9ul2NTMNeKG=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0PMS7B9fl5ZsmRbAotxxy1I11BwAop77snDu-bOM_1-xvFbMC-dom_ovmi_5Dczgr-3726lPke4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SgWvcc1-ciM", "title": "Live Coding Season 3. EP 5. 10시간짜리 크롤링 시작! 결국 EC2로 돌리기로 했다." }, 
+    { "id": "bSGThE7vBf8", "title": "Live Coding Season 3. EP 6. 크롤링 했지만 데이터를 못쓴다" }, 
+    { "id": "VwJZN0OdBzI", "title": "velopert 의 코딩 이야기 시즌 2. EP 571 시리즈 - 출간 프런트엔드 작업 (iv)" }, 
+    { "id": "fQEzmKsoQYk", "title": "velopert 의 코딩 이야기 시즌 2. EP 482 마크다운 에디터 툴바 구현 (ii)" }, 
+    { "id": "X4vnAatoqkU", "title": "velopert 의 코딩 이야기 시즌 2. EP 474 에디터 커스터마이징 (`vi`)" }, 
+    { "id": "Gr3LYQ87ryE", "title": "velopert 의 코딩 이야기 시즌 2. EP 455 회원가입 / 로그인 팝업 만들기 (vii)" }, 
+    { "id": "fQEzmKsoQYk", "title": "velopert 의 코딩 이야기 시즌 2. EP 482 마크다운 에디터 툴바 구현 (ii)" }
+  ]
+}
+
+

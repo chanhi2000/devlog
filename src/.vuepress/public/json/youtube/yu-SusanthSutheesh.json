@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "SusanthSutheesh",
+    "name": "Susanth Sutheesh",
+    "profile": "https://yt3.googleusercontent.com/wWrFwYLMUYS0LmsrLJpTgV32_764Bz6A7l0O5JpGFExA8d506RvB_cYnI0QtF-5Bt72kg3K_bQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sjal2RyD3bP7nDFnZm6CrK8pqf9GvihWMy0KpWZ1BQOAcjRvUnJmCfeQf5sNA8O-048VlZhicg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tK717BmWehQ", "title": "Copilot in Word" },
+    { "id": "tK717BmWehQ", "title": "Copilot in Word bootcamp | Mastering Microsoft 365 Copilot Products" },
+    { "id": "l3ynsEsL0XA", "title": "Copilot in Excel bootcamp | Mastering Microsoft 365 Copilot Products" },
+    { "id": "bmWnNv3ATVE", "title": "Copilot in PowerPoint bootcamp | Mastering Microsoft 365 Copilot Products" },
+    { "id": "tosWiezhkTs", "title": "Copilot in Outlook bootcamp | Mastering Microsoft 365 Copilot Products" },
+    { "id": "ThaF6xhxqQQ", "title": "Copilot in Teams bootcamp | Mastering Microsoft 365 Copilot Products" },
+    { "id": "z2EsgHL86lM", "title": "AZ-204 certification exam review questions and answers" },
+    { "id": "OgFT-VhS2XA", "title": "AZ-400 certification exam review questions and answers" },
+    { "id": "kn6sE_7r40E", "title": "DP-900 Certification Exam Review Questions and Answers" },
+    { "id": "JtIP-WGeiA4", "title": "SC-900 Certification Exam Review Questions and Answers" },
+    { "id": "KzTEJ_hen3c", "title": "Azure Fundamentals [AZ-900] Bootcamp (21 Labs & 57 Exercises)" }
+  ]
+}

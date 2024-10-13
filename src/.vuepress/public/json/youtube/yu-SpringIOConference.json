@@ -1,0 +1,72 @@
+{
+  "channel": {
+    "id": "SpringIOConference",
+    "name": "Spring I/O",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqObJFutPjpEmEuz_nIWdXW4wkkvTZ12WuEOvPGe=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/15DBdfbiqj13jw7f4yX1969EIS_ktruqqDH7gEBJVzOJLuOUbDN-ypVNi0XkGtHmmr8NmQa6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rly6U0yT5Kg", "title": "Preparing web applications for Loom by Mark Thomas @ Spring I/O 2023" }, 
+    { "id": "kiGNTPSkLgI", "title": "Analyzing Safe Flights, and Firey Wrecks with JDK Flight Recorder by Billy Korando - Spring I/O 2022" }, 
+    { "id": "5IROOj7sLKg", "title": "Bootiful Kubernetes Operators by Cora Iberkleid and Josh Long @ Spring I/O 2022" }, 
+    { "id": "AADeX1AEmzU", "title": "Managing Dependencies for Spring Projects with Gradle by Jenn Strater and Andy Wilkinson" } 
+  ],
+  "playlists": [
+    {
+      "title": "Spring I/O 2023",
+      "videos": [
+        { "id": "IgmeFeTU1a4", "title": "Spring I/O 2023 - Keynote" },
+        { "id": "6R6S91i_m50", "title": "All your APIs are mine - Secure them now by Andreas Falk @ Spring I/O 2023" },
+        { "id": "mbNzUkNjrnA", "title": "Anatomy of a Spring Boot App with Clean Architecture by Steve Pember @ Spring I/O 2023" },
+        { "id": "xVu3dn95230", "title": "Spring is bootiful but so is your domain by Michael Plöd @ Spring I/O 2023" },
+        { "id": "8umoZWj6UcU", "title": "Going Native:  Fast and Lightweight Spring Boot Applications with GraalVM by Alina Yurenko" },
+        { "id": "Rv67A7eAdMQ", "title": "Managing Spring Boot Application Secrets by Badr NASS LAHSEN @ Spring I/O 2023" },
+        { "id": "_o7NIaOVjNM", "title": "Spring Framework 6.1:  Infrastructure Revisited by Juergen Hoeller @ Spring I/O 2023" },
+        { "id": "eSXnOeIHTSs", "title": "Beyond routing 🚀 Spring Cloud Gateway with style by Abel Salgado & Marta Medio @ Spring I/O 2023" },
+        { "id": "ELz8wNt_Rys", "title": "Enterprise Security with Spring Authorization Server 1.0 by Rob Winch @ Spring I/O" },
+        { "id": "DPAtQU-erM4", "title": "Rapid server side full stack web development with ViewComponents and htmx by Thomas Schuehly" },
+        { "id": "rly6U0yT5Kg", "title": "Preparing web applications for Loom by Mark Thomas @ Spring I/O 2023" },
+        { "id": "NjqgXzCSu7M", "title": "Dynamic OpenAPIs with Spring Cloud Gateway by Iván López @ Spring I/O 2023" },
+        { "id": "8Z-_7Jj7LMQ", "title": "Open Source Panel @ Spring I/O 2023" },
+        { "id": "xoPPTawF_vY", "title": "What's new in Spring Batch 5 by Mahmoud Ben Hassine @ Spring I/O 2023" },
+        { "id": "IIKe2dx9Ag0", "title": "AWS Lambda SnapStart: Dramatically reduce cold starts for your Java functions by Melina & Kevin" },
+        { "id": "4rb5CxjPhgU", "title": "Debugging applications with IntelliJ IDEA by Anton Arhipov @ Spring I/O 2023" },
+        { "id": "7ji6DQ6COx0", "title": "Building Spring Boot based modular libraries for 120 teams  our findings by Jacek & Fabio" },
+        { "id": "IgigmuHHchI", "title": "The Aggregate is dead. Long live the Aggregate! by Sara Pellegrini & Milan Savic @ Spring I/O 2023" },
+        { "id": "-47WD-3wKBs", "title": "Automating away bugs with Error Prone in practice by Rick Ossendrijver @ Spring I/O 2023" },
+        { "id": "39nnVn7rnAo", "title": "Live Hacking Cloud Architectures by Thorsten Jakoby & Mirna Alaisami @ Spring I/O 2023" },
+        { "id": "oFhGtshu4ww", "title": "Mastering GC: tame the beast and make it your best ally by Jean-Philippe Bempel @ Spring I/O 2023" },
+        { "id": "fh3VbrPvAjg", "title": "Observability of Your Application by Marcin Grzejszczak & Tommy Ludwig @ Spring I/O 2023" },
+        { "id": "yLewQlfGzQ4", "title": "Securing the Service to Service Call Chain Patterns and Protocols by Adib Saikali @ Spring I/O 2023" },
+        { "id": "BhiF6e24l5k", "title": "Action Jackson! Effective JSON processing in Spring Boot Applications by Joris Kuipers @ Spring I/O" },
+        { "id": "FvDSL3pSKNQ", "title": "Bootiful Spring Boot 3 by Josh Long @ Spring I/O 2023" },
+        { "id": "LuOZyHUtOc8", "title": "Developer Experience with Spring Boot on Kubernetes by Thomas Vitale @ Spring I/O 2023" },
+        { "id": "HWUy0kTlcj8", "title": "From Spring Native to Spring Boot 3 by Moritz Halbritter & Sébastien Deleuze @ Spring I/O 2023" },
+        { "id": "1Mel8wn1HZs", "title": "Everything new in Spring Security 6 baked with a Spring Boot 3 recipe by Laur Spilca @ Spring I/O" },
+        { "id": "470InxVt5es", "title": "To Java 21 and Beyond! by Billy Korando @ Spring I/O 2023" },
+        { "id": "ROcTpGn5jCg", "title": "Scale your @Controller to zero with AWS Lambda or Azure Function by Oleg Zhurakousky @ Spring I/O" },
+        { "id": "gwYzS5DRDcI", "title": "Develop and test your AWS-powered Spring Boot application locally by Anca Ghenade @ Spring I/O 2023" },
+        { "id": "sKK-GSvXVxg", "title": "Kotlin for Fun for Spring Fans by Shinya Yanagihara @ Spring I/O 2023" },
+        { "id": "pG-NinTx4O4", "title": "Multitenant Mystery  Only Rockers in the Building by Thomas Vitale @ Spring I/O 2023" },
+        { "id": "0lT4vu6Kmxw", "title": "Vector Similarity Search in Spring with Redis Stack by Brian Sam-Bodden @ Spring I/O 2023" },
+        { "id": "8_sh0ZyuaCc", "title": "From k9s to OpenTelemetry:A guide to observability for your Spring apps in K8s by Matthias Haeussler" },
+        { "id": "ZfFwRtktUyg", "title": "Bootiful workload orchestration with Hashicorp Nomad by Martin Ahrer @ Spring I/O 2023" },
+        { "id": "U6xYTIptULI", "title": "Hidden gems and traps that you probably didn't think of using Event Sourcing by David Gomez" },
+        { "id": "UhgmOOjjjyw", "title": "Observing Spring  for GraphQL in Action by Brian Clozel & Rossen Stoyanchev @ Spring I/O 2023" },
+        { "id": "93UK4gwV41c", "title": "REST next level: Crafting domain-driven web APIs by Julien Topçu @ Spring I/O 2023" },
+        { "id": "FFyoS_NuEgM", "title": "Spring Boot in a Polyglot Cloud-Native World with Dapr by Mauricio Salatino @ Spring I/O 2023" },
+        { "id": "867ERHDto70", "title": "Progressive Delivery in the Kubernetes era by Alex Soto @ Spring I/O 2023" },
+        { "id": "hR0bbk2tsF0", "title": "Things I Wish I Knew When I Started Testing Spring Boot Applications by Philip Riecks @ Spring I/O" },
+        { "id": "M2kegCobw34", "title": "Build resilient systems with Spring Cloud Contract and Testcontainers by Olga & Oleg @ Spring I/O 23" },
+        { "id": "ykoUBctblno", "title": "Do you really need Hibernate by Simon Martinelli @ Spring I/O 2023" },
+        { "id": "m64cbvl5Nj0", "title": "Let's Spring Forth and Stream with Apache Pulsar by Mary Grygleski / Christophe Bornet @ Spring I/O" },
+        { "id": "-I7KiV_6f-s", "title": "Architecturally evident Spring applications with jMolecules by Oliver Drotbohm @ Spring I/O 2023" },
+        { "id": "PH4wvi_co1M", "title": "Empower your Spring Applications with Python Features on GraalVM by Johannes Link @ Spring I/O 2023" },
+        { "id": "XgtZxoSzsto", "title": "The Easy Way to Run and Scale Spring Apps on Cloud by Sean Li & Adib Saikali @ Spring I/O 2023" },
+        { "id": "HYNescf7QnI", "title": "Testing with Spring, AOT, GraalVM, and JUnit 5 by Sam Brannen @ Spring I/O 2023" },
+        { "id": "d8w-qkZy_FE", "title": "Why Spring Belongs In Your Data Stream (From Edge to Multi Cloud) by Fabrizio Marini @ Spring I/O 23" }
+      ]
+    }
+  ]
+}
+

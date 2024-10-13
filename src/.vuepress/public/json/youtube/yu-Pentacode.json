@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Pentacode",
+    "name": "Pentacode",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYoeLI42ItwMwoEDM_VUA7qWuuf5N25t2CW8djR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/f3yo2MfvhoIYgICLKz4U46nSeDF8uFuN9Tvw1p-DOYBLpzHFGBfauhYtPDNjlplPearS23zyiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nLuY_D8hlec", "title": "Devin is here, the first AI software engineer" },
+    { "id": "zLg_w-XzEWo", "title": "AI DID WHAT? (Sora, Open AI CTO, Figure) + Bonus AI video" },
+    { "id": "rYaRzibEHR8", "title": "Build vs Buy (software/SAAS) - The Age Old Question" },
+    { "id": "lbQ8Wec3NCU", "title": "Let's learn NextJS 14" },
+    { "id": "JQJDauFcBMQ", "title": "Let's learn Flexbox with Flexbox Froggie!" },
+    { "id": "8huMBHx-TKY", "title": "How To Get FREE HTTPS  in 10 Minutes with Let's Encrypt and Certbot" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "iFixitYourself",
+    "name": "iFixit",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZI38ZCPAEStSMUR3KgavaKjRUV675wrxjtAdeE_A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sqSm13r4-f21X23S_BTz4lIDE4QWpB5bV2JvH2G8R9ROaINpH6gTVlja_Fwd1OHJAXPhFK_SKh0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wt22M5nWJ4Q", "title": "Vision Pro Teardown Part 2 - Is the Apple Vision Pro Really 4K?" },
+    { "id": "u9bjYgDiy-o", "title": "iFixit's Apple Watch Ultra 2 Teardown #ifixitteardown #applewatchultra #applewatchultra2" }
+  ]
+}

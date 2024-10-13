@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "dr.javaher",
+    "name": "Dr. Nina Javaher",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nliTRoNnp5eybRq-K9-P3D_qgwBNq5Im5rpUbdUpZJDC8=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aGS2LVS5y3jVwsD3uWPY2WqIud-iqEyfIl7zUuXdwEqhJ1N-bB6SI7BgY3_zib0GY-nR2HVTsw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "o5HykWkXM04", "title": "Using Loop to Solve Fibonacci Number Sequence in Assembly" },
+    { "id": "nmoa6waNuk0", "title": "Learn about Heap and Priority Queues in Data Structure with Example Interview Question" },
+    { "id": "ea5GmND08_o", "title": "Learn Searching and Sorting Algorithm in Data Structure With Sample Interview Question" },
+    { "id": "GKpWc5F-nco", "title": "How to Use Top Common Generative AI Tools Efficiently" },
+    { "id": "D9YXsGhtYIk", "title": "How to Use ChatGPT to Create Images Efficiently" },
+    { "id": "9a_3YQBLvX0", "title": "ADT Bag in Data Structure and Algorithm with Sample Interview Question" },
+    { "id": "hVD79qXNLsM", "title": "Stack and Queue Data Structure in Java" },
+    { "id": "H_VnKbTUV8E", "title": "Tree in Data Structure and Algorithm" }
+  ]
+}

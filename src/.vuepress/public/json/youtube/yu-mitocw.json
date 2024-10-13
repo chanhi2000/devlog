@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "mitocw",
+    "name": "MIT OpenCourseWare",
+    "profile": "https://yt3.googleusercontent.com/CkEvFMW3FNnnPg7D3Pdr0LRPl2blov1rFHm4IUC4jDBtkzo_tFeB6L3icQJZLWOpsY6OkzMsTtU=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ociEHVsR3p4kX7ujy1Jmu2xKhEiW0hUr7p4OHBu_pNKO_CiMdsY2NMaSH8CBZLgDKhsj7vn7vTY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xAcTmDO6NTI", "title": "Lecture 1: Introduction to CS and Programming Using Python" },
+    { "id": "S35LQ2NqB1Q", "title": "The Kitchen Cloud Chamber with Prof. Anne White" },
+    { "id": "7fYgr1qUdnU", "title": "Introduction to R, Part I: Interface and Data Structures" },
+    { "id": "GFoYtA6TmRA", "title": "Innovation, Past and Future with Prof Christopher Capozzola" },
+    { "id": "YzdxbWqtiYg", "title": "Lecture 01: Introduction to 14.310x Data Analysis for Social Scientists" },
+    { "id": "xL1OwgVHOww", "title": "Navigating Open Licensing: Strategies for Access and Reuse" },
+    { "id": "nTwRjQ4xqUc", "title": "Five Factorizations of a Matrix" },
+    { "id": "wvXDB9dMdEo", "title": "1. Introduction, Financial Terms and Concepts" }
+  ]
+}

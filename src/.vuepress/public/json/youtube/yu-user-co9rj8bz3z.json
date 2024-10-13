@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "user-co9rj8bz3z",
+    "name": "홈페이지마법사",
+    "profile": "https://yt3.googleusercontent.com/MS9ne-CBhyiuIxZqhQD2Sz8OcVp3CHen7H_d5lepLvK5__9v2KlRyZgJ4jra83LsLwRzErrDhQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "WGoBa3NS_7c", "title": "홈페이지 문의율 10배로 높이는 법" },
+    { "id": "W77x9JKGdXY", "title": "홈페이지 제작 시 꼭 알아야 할 무료 툴 3개" },
+    { "id": "BSZnreInXFs", "title": "아임웹 VS 워드프레스 VS 윅스 더 이상 고민하지 마세요(크리에이터링크, 라이브클래스까지 전격비교)" }
+  ]
+}

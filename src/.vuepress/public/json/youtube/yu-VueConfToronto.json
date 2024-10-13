@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "VueConfToronto",
+    "name": "VueConf Toronto",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNhsMTg-9I7zIww0ktF1jEaly6xWmAVYjh_8wC1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IpqjnBd24ZkzxSML3koA2MmHHdNK2bFui69V0p0zCxjuDIdYgtJAYVPewcw0NIsfzUe6Cx2vSQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AHDXeaYV8S0", "title": "5 Patterns for Better Components in Vue.js - Michael Thiessen" },
+    { "id": "D4XRX6iTDds", "title": "Experimenting with Server Components and Actions with Nuxtjs - Erik Hanchett" },
+    { "id": "Hz_zCR28oKE", "title": "Vue and Vite Status Update - Evan You" },
+    { "id": "rZVdjOuSL_M", "title": "Conquering forms in Vue - Justin Schroeder" },
+    { "id": "pgRnJHHZfc8", "title": "The Vue-niverse of SEO: Uncovering the Secret - Alexander Lichter" },
+    { "id": "AON5vsICe9U", "title": "Common Mistakes in Vue js and How to Avoid Them - Daniel Kelly" },
+    { "id": "RNjbAMMweNQ", "title": "Give your Vue apps the power of AI by Chris Noring" }
+  ]
+}
+

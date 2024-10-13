@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "fullstacktalks",
+  "name": "Full Stack Talks",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSyXry2EIPuSUHkOtInNg5gscgSZ8090cn9Wsal=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FFPkf9EuAHgt3KINJtMLjy541tTVZuaIT0vfrzSG5p7AK2aBtfMFnrKjScYDMZnZdSk7Fk_n=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RJRbZdtKmxU", "title": "He's Dead Jim: Finding JS Memory Leaks with Chrome Dev Tools" }
+  ]
+}

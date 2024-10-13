@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "jsWithTola",
+    "name": "Giwa Fauzziyyah",
+    "profile": "https://yt3.googleusercontent.com/jCQfPZWbNeevXsBQ7KFikMK68OHC2Y-nICIG0No9KXEmAqo-QBLP1h7nABhyMpdCkkYr66Ejzw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zLO-mlV2HSE", "title": "Vue 3 Tutorial for Beginners using COMPOSITIONS API" },
+    { "id": "XCVp9MOmevo", "title": "JavaScript Variables and Scopes Explained | Let vs Const vs Var | javascript concept(part 1)" },
+    { "id": "luPAHZ9gS28", "title": "Javascript #includes  method" }
+  ]
+}

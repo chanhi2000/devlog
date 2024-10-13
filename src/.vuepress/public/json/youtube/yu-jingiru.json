@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "jingiru",
+    "name": "진기루T",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbmXuHkH7L9BEH3M_PxvkD5A4iLv5ILCjoUt1sj7u4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "DGBv1J24gSM", "title": "파이썬 자동화 사례 - MS 문자 시스템에 수신번호 다량 삽입하기 | 문제 해결 | 프로그래밍" }
+  ]
+}

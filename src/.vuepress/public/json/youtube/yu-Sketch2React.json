@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Sketch2React",
+    "name": "Sketch2React",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM7ry87AE4GVIgEPnSZA2LswQA1f772kDqrECYdyw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kMqBNuBT1KNSFcsNri3jM4sTqm8b85HfgKsxBpodZPM8PMDwJFDdPtV0chUpdkNcd9QBjcgeEg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vqYPLu7ntWs", "title": "Marcode – One Time Installations for Xcode + Android Studio" }, 
+    { "id": "1qfR9tdLdW4", "title": "Marcode - Publishing your app to Apple's TestFlight" }, 
+    { "id": "Eg7oBsNngQo", "title": "Marcode ProTip! A Deeper Look Into How to Make your Xcode iOS Prototypes POP!" }, 
+    { "id": "BLWYLlyv9Gg", "title": "Sketch2React - Quick Prototyping for React - Part 1" }
+  ]
+}

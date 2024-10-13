@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "NixiePixel",
+    "name": "NixieDoesLinux",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbSGv9APFPo2TkCLt2kzy7e5TsTbp-CszM_dusKeR8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "url(https://yt3.googleusercontent.com/ZDfdQjpBiEavZfHJfOMx848xwuaLOOEqu0jG7GkRXquwDxHdb8iAF14ZWMhzyEnE-kv-gbmIqHI=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)"
+  },
+  "videos": [
+    { "id": "E8eSog_bhsk", "title": "Top 5 Things to Do After Installing Ubuntu" }
+  ]
+}

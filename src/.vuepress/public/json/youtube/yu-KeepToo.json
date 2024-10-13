@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "KeepToo",
+    "name": "KeepToo",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMWTwew6gIZPG4B6W19qb8vuCGbgUZwB1PAZ04EZA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0oumyfnOKtj3orzZIX6lmPBipbLQD6hYUs9WoqhLpDEBgW-M-Zy1nj_db66daXDpqwS8FppYxg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "I32BV7_yAvo", "title": "Jetpack Compose Desktop Quick Login Example" },
+    { "id": "YVXu7tmmQ0M", "title": "2. BitWarden MacOS Design Concept JavaFX GUI using Scene Builder and IntelliJ" }, 
+    { "id": "Etk9QwXBN2Y", "title": "JavaFX Virtual Health UI #2" }, 
+    { "id": "Dtp7v3eky20", "title": "javafx ui - aceinvoice login and sign up ui" }, 
+    { "id": "C0YdOxljm1E", "title": "javafx ui - keyhub ui inspiration" }, 
+    { "id": "AoKoCv6VtR0", "title": "javafx ui sample" }, 
+    { "id": "z1_tvNY1dvg", "title": "Java Swing : School Management System Inspiration" }, 
+    { "id": "3w20lzOHqlw", "title": "School Management System Redone with JavaFX  DEMO" }, 
+    { "id": "6rLyTUzqscQ", "title": "JavaFX Animations using AnimateFX" }, 
+    { "id": "1nEluKUOic8", "title": "Java Netbeans Swing UI Design" }, 
+    { "id": "HqjeeTMjMTU", "title": "JavaFX Login Example - Scene builder and Netbeans" } 
+  ]
+}
+

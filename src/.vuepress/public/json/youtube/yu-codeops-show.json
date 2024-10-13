@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "codeops-show",
+    "name": "CodeOps Show",
+    "profile": "https://yt3.googleusercontent.com/k6GIT6q--j4kk0-NaDcrrPC9cqTfVt5OChhuKMJ2YymxzG0TAmnBNODuRYCIwm0wt7ujqDTD0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2bs1Su-Ylxs-2Q7AQKAH-vrblBT3GQmbIWDuHZITPHpfk_ZmLUsCRn38LIO58zi2N1sULkQ5-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LEGC2BqovA4", "title": "Rails API:  Signing Out with Token Authentication - [008]" },
+    { "id": "NZrj8u61ac8", "title": "Ruby: Hashes - 006" },
+    { "id": "oKEhBOui8bs", "title": "Rails API: Token Authentication Part 2 - [007]" },
+    { "id": "q3gFm5j8HOQ", "title": "Rails: Many to Many Relationships - 009" },
+    { "id": "-scnhzLsaDA", "title": "Ruby: Arrays - 005" }
+  ]
+}

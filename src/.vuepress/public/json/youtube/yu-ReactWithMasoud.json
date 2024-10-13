@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ReactWithMasoud",
+    "name": "React with Masoud",
+    "profile": "https://yt3.googleusercontent.com/vU6pPDTwDunl5e14ObrqA0pLB0STRlH_ikZvukQi56UqA1Eqv2fdQU_gdHiwZFqGgVp_Xk4V9w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "1yS2fl8u830", "title": "Framer Motion" }, 
+    { "id": "-d45WHNU9J4", "title": "How to build Serverless Video Chat App using Firebase and WebRTC in React" }, 
+    { "id": "q-h-AM3p0Tk", "title": "youtube clone html css | Practical ReactJS Tutorial Part 2" }, 
+    { "id": "Jo7AV5etOsA", "title": "How to rapidly update your React Native android project using Code Push without app store upload" }, 
+    { "id": "coRTRjCQ15U", "title": "Build a REACT Admin Dashboard App using Material UI, ChartJS, and DataGrids in 2023" }
+  ]
+}
+

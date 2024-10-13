@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DevoxxForever",
+    "name": "Devoxx",
+    "profile": "https://yt3.googleusercontent.com/GagmBrZqrrRisN2JPyda5qpVXnJK3vWt4x_OrCiNwPXwDgJkNzoy7f_SDkiza5_NmoBLNk0G=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Jhz4k2jTAGO368quDbzgj9oPZHp_hPCeIiIQSlLLQDrpFxlttLBY5ialYLjLST-qcwlZAX-AO3E=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ldSzwF11HBk", "title": "Serverless Machine Learning Model Inference on Kubernetes with KServe by Stavros Kontopoulos" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "codeWithAndrei",
+    "name": "Code with Andrei",
+    "profile": "https://yt3.googleusercontent.com/jEsrsQIihZpMCKSRHRQVcHrLwcNdj59nLt1l8dkpoCe28RI9KgbYR3ZC1Hc6FTB3RbfFDZBLIg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rWXU9WRlk0bwvIUqHzWHtD-_Dy712Y9r0OLu_CWOQE4-oqFOaeD0TXy8g90td_g58r3j7uP3nA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wke9-zU1lOM", "title": "Build a Furniture Store App with Swift UI #9" },
+    { "id": "hbm6_2A_8WU", "title": "How to use `@AppStorage` property wrapper to store the color of the Color Picker View in Swift UI 2" },
+    { "id": "Rb68lPPgyCE", "title": "The Calculator (part 3) - Swift UI" },
+    { "id": "YONPr4oovNU", "title": "Dating App Login Screen - Learn Swift UI" },
+    { "id": "nrpAihUi4tU", "title": "Cryptocurrency Onboarding Screen - Part 8" },
+    { "id": "mW7cRLwpP1M", "title": "Cryptocurrency Onboarding Screen - Part 7" },
+    { "id": "zOgoMauwN6c", "title": "Cryptocurrency Onboarding Screen - Part 5" },
+    { "id": "7VvRdB4waXY", "title": "Cryptocurrency Onboarding Screen - Part 6" },
+    { "id": "tDpX7nfwuXI", "title": "Cryptocurrency Onboarding Screen - Part 4" },
+    { "id": "izFE5xvclDI", "title": "Cryptocurrency Onboarding Screen - Part 3" },
+    { "id": "utlbbucNENA", "title": "Cryptocurrency Onboarding Screen - Part 2" },
+    { "id": "DqTjgHLdduI", "title": "Cryptocurrency Onboarding Screen - Part 1" } 
+  ]
+}

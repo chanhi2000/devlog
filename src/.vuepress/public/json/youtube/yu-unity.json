@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "unity",
+    "name": "Unity",
+    "profile": "https://yt3.googleusercontent.com/4YAaX7CsQ-paadHsNvC6wdv2nE_7VTKpoNJOTwFhHL4rQqLC8WFe6mNxL-z-e6sfHZbHG-ucPA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J7V6doNp_D_0q_Ixmo-oUKWhppUGYnXSqIGd9qjRMXX9WL86-f4d_Z1CyMhtX4VWIQhdlprb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0QesbgoylME", "title": "Can we add Multiplayer to a game in four weeks?? - Net Check Part 1" },
+    { "id": "fVzBLxuHOmM", "title": "20 advanced 2D shader effects - part 2" },
+    { "id": "JwWdCZQ6tns", "title": "Converting to Multiplayer using Unity - Network Object Pools - Net Check Part 3" },
+    { "id": "odDayTHqdew", "title": "Converting to Multiplayer with UNITY - Complete networked gameplay loop - Net Check Part 5" },
+    { "id": "BOwSQGV7rM0", "title": "Top Assets to Enhance your Workflow" },
+    { "id": "DhqCLamOIQk", "title": "Worldbuilding in VR with Unity's XR Interaction Toolkit" },
+    { "id": "KO4z7-9xiN0", "title": "Let’s Dev: Online Multiplayer" },
+    { "id": "wav3YUcqUCA", "title": "20 advanced 2D shader effects - part 1" },
+    { "id": "z3LKvVCUX_w", "title": "Iterate faster with Unity Muse in the Unity Editor" },
+    { "id": "r_LcTspOIe4", "title": "Creator Spotlight: Finding Your Community" },
+    { "id": "ZcXnoKTNsIg", "title": "Let's Dev: XR Interactions & Templates" },
+    { "id": "-eTUSl1WNpk", "title": "Create Games Faster with Unity Cloud" },
+    { "id": "InNZsUWNb8k", "title": "Secondary textures - Lit sprites and 2D VFX tutorial" },
+    { "id": "n2Mpg4t1DUM", "title": "Bringing LEGO Builder's Journey to Apple Vision Pro with Unity" },
+    { "id": "9p-fHK0iQkE", "title": "DOTS Learning Challenge with Unity | Let's Dev" },
+    { "id": "Ypg84Fr20Sw", "title": "Profile Analyzer Walkthrough & Tutorial | Unity" },
+    { "id": "7Rqrk8hMooU", "title": "Shader Graph: Learn with Feature Examples | Tutorial" },
+    { "id": "o9AGkB9nnkc", "title": "Unity 6 and beyond: A roadmap of Unity Engine and services | GDC 2024" },
+    { "id": "Ic_3p90NdxM", "title": "Deep dive into the HDRP water system - Tutorial" },
+    { "id": "U08ScgT3RVM", "title": "Level up your code with game programming design patterns: Object pool | Tutorial" },
+    { "id": "XlDdBUyI8fE", "title": "UI Toolkit sample: QuizU walkthrough | Tutorial" },
+    { "id": "VZQfoTJJuUo", "title": "Improving app performance with the new Memory Profiler | Unite 2023" },
+    { "id": "JYjdRbuE_Es", "title": "Everything you need to know about Unity PolySpatial + visionOS | Unite 2023" },
+    { "id": "HQ0TmO8ZA4o", "title": "Create better Editor and game interfaces faster with UI Toolkit&nbsp; | Unite 2023" },
+    { "id": "I6sEh4vOmRk", "title": "Where’s that DAM asset? Bringing order to your content chaos | Unite 2023" },
+    { "id": "IbLiD5NFRA4", "title": "The road ahead for game development with Unity | Unite 2023" },
+    { "id": "bKGMkkf4X0o", "title": "Tips for creating your own C# code style guide | Tutorial" },
+    { "id": "9uEZdiBn0ss", "title": "Inserting AR directly into a native mobile app | IKEA - Unite Copenhagen 2019" }
+  ]
+}

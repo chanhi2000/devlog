@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "tobyspring",
+    "name": "Toby Lee",
+    "profile": "https://yt3.googleusercontent.com/4S4Nl7-eneoDIhf_NIP2Lh-0HXgvKupxpCo51JB0LGU0w0AOCx9CbuwMKfUWtzGF1aYeJrRM8g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SXfDDi_DRHkvmcySWRh0iEUCySeokWtWVtYG-rKLk7Ga1AHjD_c99xR1TtCX9Xm0On2eHcHy_NM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VIacwaUMbqs", "title": "스프링 가이드 타임어택 (2) -  Scheduling Tasks" }, 
+    { "id": "wlOR5ehWSjE", "title": "스프링 가이드 타임어택 (1) - RESTful Web Service" }, 
+    { "id": "Kb37Q5GCyZs", "title": "Spring 6의 새로운 HTTP Interface와 3 가지 REST Clients 라이브 코딩" }, 
+    { "id": "S4W3cJOuLrU", "title": "RestTemplate은 스프링에서 제거되나요" }, 
+    { "id": "dbByw2V4UyI", "title": "스프링 가이드 타임어택 (4) - Accessing Relational Data using JDBC with Spring" }, 
+    { "id": "SwPrW4KRPzo", "title": "스프링 가이드 타임어택 (3) - Consuming a RESTful Web Service" }
+  ]
+}

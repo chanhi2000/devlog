@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ArtofEngineer",
+    "name": "Art of Engineer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTnPMI2kQnmYTskjNgGs_-l8yeAhX50SLQzCjzy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "lZ7jAgVDO2s", "title": "Machine Learning in Azure | Introduction, set up workspace" },
+    { "id": "ip7b4JBW19k", "title": "Build an App using Angular 17, Python Fast API and MySQL" },
+    { "id": "4a9VxZjnT7E", "title": "Learn Angular 10, Web API & SQL Server by Creating a Web Application from Scratch" }
+  ]
+}

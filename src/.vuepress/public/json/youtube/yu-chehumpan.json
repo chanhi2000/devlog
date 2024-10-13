@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "chehumpan",
+    "name": "체험판",
+    "profile": "https://yt3.googleusercontent.com/ivIiLuJfNbCoxzJpP4jLNQWgZarSl3v40xksrKhISLbvaM-De74KM2_yamqe2iRQq94T_tuAxIM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yFIbT65m6nTqXXUBgpA_YLwDom-xzcekgWpqUen83ehAVBhE2XBkGc0q2aADs13WuHf4NTjm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4JhP0Nhcn3g", "title": "제일 편한 윈도우 11 설치용 USB 만드는 법 [TPM 인증 통과, 인터넷 강제 X, 광고도 제거 됩니다!]" },
+    { "id": "lkfhB8lB-aY", "title": "24년 4월 컴퓨터 사는 법! 얼마지?! - 컴퓨터 월간견적 [체험판의 컴퓨터채널]" },
+    { "id": "WsC1BE1nJnw", "title": "DDR5 메모리에서 CL값이 중요한 이유, 그리고 누드램은 뭘고르지?" },
+    { "id": "6KT5JtTE9tk", "title": "메인보드 전원부 고르는 법! CPU 기준으로 알려드림" },
+    { "id": "6M3Bmen2ick", "title": "유사 청문회?, 티슈가 욕먹는 이유, 13900K는 망한 CPU다, 제 컨텐츠의 기준점 [라이브 컴퓨터 견적과 질문 답변(4)]" },
+    { "id": "kGMdzvJVlyo", "title": "DDR4 구세대 제품 쓰시는 분들. 컴퓨터 업그레이드 하실 거면 꼭 보세요!" },
+    { "id": "Ri-xB3ogIkU", "title": "딥러닝, AI는 왜 무조건 VRAM이 커야 좋을까?" },
+    { "id": "FEa8KWnOvF4", "title": "5/20 체험판의 컴퓨터 조립견적, 문제해결" },
+    { "id": "beKViEl2MNI", "title": "체험판 7주년, 'cd..'이 뭔지 알아?,존버는 답이 아니다,튜닝램 고장 AS,노트북 시장 노답,SSD 이야기,마야용 견적,RGB의 끝판왕은-생방송 견적&질문 요약(8)" },
+    { "id": "6NSSS-4B57w", "title": "썬더볼트 따라올 포트가 있다고? [기가바이트 B650E AORUS ELITE AX X ICE] -협찬제품" },
+    { "id": "aUqhwjwu8Ag", "title": "냉각장인 이름 값 하는 360쿨러를 찾았다 [쿨러마스터 마스터리퀴드 360 ATMOS] (대양케이스 협찬)" },
+    { "id": "g2MJVtanI-0", "title": "드라이버란 무엇일까? 컴퓨터 사면 꼭 해야 하는 이유" },
+    { "id": "McsC828LA3E", "title": "좋은 메인보드 쉽게 고르는 방법" },
+    { "id": "thzhLxV1TW4", "title": "외장 NVMe SSD + 도킹 스테이션 [장우컴퍼니 협찬 JW-I7 Dock]" },
+    { "id": "F_8nkHshy_E", "title": "마우스 추천? 이거 미만 잡ㅇㅇ" },
+    { "id": "I1kfSEZKgHA", "title": "하드디스크가 비싸지면 뭐가 달라지나?" },
+    { "id": "toAIzq-1-rw", "title": "컴퓨터 최적화 프로그램? 필요 없습니다" },
+    { "id": "A9-wKxEzaek", "title": "기가바이트 Z790 AORUS MASTER X [피씨디렉트 협찬]" },
+    { "id": "tuYPE0XoQec", "title": "3/3 컴퓨터 견적, 원격지원(팀뷰어), 문제해결 필요하신분" },
+    { "id": "RZkL7Apnoqc", "title": "[체험판]DeskTop Case_ Cox Waltz 리뷰" }
+  ]
+}

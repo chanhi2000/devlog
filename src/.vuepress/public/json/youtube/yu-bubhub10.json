@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "bubhub10",
+    "name": "bub hub",
+    "profile": "https://yt3.googleusercontent.com/KVC44khtGFGWr2aJSXD1IJkmtIqPFqmgSP3XPqP_iTTEpiD24LnQB5dC9K3JQk3D05fVpfJSkw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_Z7JvNc9rqNw4NJwOMQiiP4zxi4aHa1dciSHeYdbAo5e6UCgBKZIAww3xBBftjScK5HgM9Aw4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "13_bYISYu14", "title": "The FUTURE Of Windows Server? - Windows Server 2025" },
+    { "id": "8tk9cPhYsuw", "title": "An Interesting Windows Bootleg - Windows 11 Acrylic Edition" },
+    { "id": "8sn1Ygl-MkU", "title": "This ISN'T macOS Catalina? - iBuntu Catalinux" },
+    { "id": "k6Wt4mJHH3M", "title": "Windows 11 Done Right? - Rectify11 v3.1 Overview" },
+    { "id": "mDoJqnUHhos", "title": "A NEW Installer Wizard? - Windows 11 Build 26040" },
+    { "id": "zYi9QdwBtUs", "title": "Tweaking Windows... with Playbooks? - ReviOS 11 Playbook" },
+    { "id": "3LN9Y5E102Q", "title": "The SMALLEST Windows XP? - Windows XP Super Small Lite" },
+    { "id": "inneNHuk6xA", "title": "This ISN'T Windows 95? - Starix Project" },
+    { "id": "BZb3b-_Ejnw", "title": "A SMALLER Version of Tiny11? - Tiny11 Core" },
+    { "id": "fJ7UKckPBVg", "title": "The BEGINNING of macOS Clones? - pearOS 3" },
+    { "id": "i_vH_MiAd98", "title": "This ISN'T Windows 11? - Wubuntu Windows 11 Clone" },
+    { "id": "o6OnJeHaR0M", "title": "Tiny11 2311 - Installation and Overview" }
+  ]
+}

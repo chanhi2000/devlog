@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Coodos",
+    "name": "Coodos",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOGEYHzfw9PVzlXkL0_8Sc2jfp7gAbCiEQ7EtQfnw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XZwqXNpp5G_pQuakWMA4LyVSsRYf0w6tZ-9H4bAuueyd7XKjXSfZPydfvSGD7aYSAKjyGI0Tlb8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "53ZO2pKS4i0", "title": "Don't Install Windows 11 Natively | Windows 11 KVM Single GPU Passthrough Tutorial" },
+    { "id": "_JTEsQufSx4", "title": "Don't Dual Boot, Do this instead | MacOS Big Sur and Windows 10 KVM SINGLE GPU OVMF Passthrough" }
+  ]
+}

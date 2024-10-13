@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "codefarm0",
+    "name": "Codefarm",
+    "profile": "https://yt3.googleusercontent.com/w1mQrJS0DUKRGj3U80Zbe5tUelGJauJuai1LTswE2z90t_XDeGzdwkbQzvxggfaHqdt2cmx1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6RX7RpVKk6xJk59iJTAAEds6mbc3rwkocQPVCWwGEZ_StvrFL9cB9mxstgy3q5QzZMBhf2b7Dec=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VebUJyRC4Ig", "title": "Codium AI with IntelliJ IDE || Codiumate #codefarm #aitools" },
+    { "id": "yHvhmm-FeWA", "title": "Security and Privacy around Codium AI || Codiumate #codefarm #aitools #generativeai" },
+    { "id": "sOI5IHoSOa0", "title": "Code Explanation from Codium AI || Codiumate #codefarm #aitools #generativeai" },
+    { "id": "9RpwJK0z_yU", "title": "Code Suggestion from Codium AI || Codiumate #codefarm #aitools #generativeai" },
+    { "id": "CdUtFXVxDZY", "title": "Generating Test Cases With Codium AI || Codiumate #codefarm #aitools #generativeai" },
+    { "id": "_OJ-GJsZ4MI", "title": "Top 10 OWASP Threats #appsecurity #softwaresecurity #codefarm" },
+    { "id": "SmoITzeqj_g", "title": "Generating Test Cases With Codium AI - 2 || Codiumate #codefarm #aitools #generativeai" },
+    { "id": "5Yw_PBd-S5A", "title": "Securing Spring Boot Applications With SSL #ssl #springboot #microservices #codefarm" },
+    { "id": "ID7AGJH8Uj0", "title": "Calling REST Services with WebClient | Microservices Communication #springboot #microservices" },
+    { "id": "ibGsmKAAlLU", "title": "WebClient Exception Handling/ Retry /Timeout / Filter / Logging & Debugging #webclient #springboot" },
+    { "id": "pRoJkJ5YbB4", "title": "Getting Started with System Design | System Design Series | Codefarm" },
+    { "id": "H6ml8R3Yf0I", "title": "Different ways to send messages using KafkaTemplate | Kafka Chapter - 2 | #kafka #springboot" },
+    { "id": "DA_JqtEP1aQ", "title": "Spring Boot Autocomplete Support in .properties/.yaml file in IntelliJ IDE | IntelliJ Tips & Tricks" },
+    { "id": "SjquUOrkrNU", "title": "Spring Boot Server Port Quiz #springboot #serverport #quiztime" },
+    { "id": "eTBqqtGGRx8", "title": "WebClient in Spring Boot #springboot #codefarm #webclient" },
+    { "id": "14jVFPseQKI", "title": "Advanced Kafka Configuration for Specific Usecase || Chapter 1 || Day 10" }, 
+    { "id": "z5MyLwf5nVc", "title": "Writing Java Producer Client for Kafka || Chapter 1 || Day 9" }, 
+    { "id": "v8C_NL0eDhs", "title": "Java Project Setup for Kafka Demo || Chapter 1 || Day 9" }, 
+    { "id": "QFBNKrK5zt4", "title": "Kafka Use Cases || Chapter 1 || Day 1" }, 
+    { "id": "DXmC-M-qY2g", "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" }, 
+    { "id": "GUHOzE3viu8", "title": "#17 Writing Integration Tests for Microservices" }, 
+    { "id": "D9e3ODqqlsE", "title": "9 WireMock - Stateful Behavior Simulation" }, 
+    { "id": "0tU3dhIymck", "title": "10 WireMock - Response Templating" }, 
+    { "id": "DXmC-M-qY2g", "title": "6 WireMock - Selective Proxying || Proxy stub mappings || SpringBoot + WireMock" }
+  ]
+}
+
+

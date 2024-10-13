@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "seconf",
+    "name": "SEcon",
+    "profile": "https://yt3.googleusercontent.com/_B3DdCrjXV-eQ0WMEDtEoVYmWXNDdDqzvPyrNRol8ZyHiP1m0dV9rLRV6a7mft8_j933FweI30A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RmJkTLdkVWVfdKmefYCrv4pKZji_sOhF1MLjcSO2ULQ1ptnH6Uz1KQVhROXnNOVxS9FXszlVEEY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "q4OawUKjYHI", "title": "TDD를 위한 단위 테스트 : Junit을 활용한 코드 테스트(1)" },
+    { "id": "i8aJk6ZVjVw", "title": "CI/CD 개념과 적용" },
+    { "id": "SeuLFRCqOnU", "title": "가상화와 컨테이너 기술의 이해" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "FullQueueDeveloper",
+    "name": "Full Queue Developer",
+    "profile": "https://yt3.googleusercontent.com/HX0MS9dOGD-sg8MQtrnb_OFSDaNZX_k24KSJP_Wp1QqY9BOD4jlUgON_xLi-bWDScbX8QpaKYQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1Jn1Mjk0zt97Go0PJCPUmrC6NrLj4kBlRNpFwSaijuSV-d-OvSQCF6wgeLSFYIA46d8BA2CbMPQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "30wgCgzgslE", "title": "🌱 Living the Creative Act: \"Point of Reference\" S5E7 video" },
+    { "id": "khx0vg1cp_s", "title": "🌱 Living the Creative Act: \"Non-Competition\" S5E8 video" },
+    { "id": "dov3jWu7qck", "title": "Live-coding: Swift, iOS, and Vapor. Building my app into a sustainable business. March 3, 2024" },
+    { "id": "2nc-MQNLWAI", "title": "🌱 Living the Creative Act: \"Essence\" S5E9" },
+    { "id": "--Z8gtA0G2U", "title": "Sometimes the juice just isn't flowing and that's totally okay. It's okay to take a break" },
+    { "id": "KZh8GDJFSzc", "title": "Live-coding and rock'n-roll | Swift, iOS, subways, Vapor, Underway" },
+    { "id": "qCzDnVky-D8", "title": "False start live-coding, trying to work on my subway app." },
+    { "id": "ETdrsj9Ztz8", "title": "🌱 Living the Creative Act: \"Tuning Out\" S5E11" },
+    { "id": "yactcIylm_Y", "title": "Live-coding, Swift, iOS, Xcode, Vapor. I make an indie subway app for NYC" },
+    { "id": "J0luzS-DEQE", "title": "Coding my subway app for NYC, Sunday, Jan 21, 2024" },
+    { "id": "E_aSMGlNJ7I", "title": "Live-coding my subway app, Underway. Server-side Swift Jan 28, 2024" },
+    { "id": "l0gd_EFpqgA", "title": "Exploring AppState, a new open-source framework for SwiftUI Application State" },
+    { "id": "zw0lZOBpq5s", "title": "Live-Coding in Swift & Xcode. Working on my app & having a good time" },
+    { "id": "RSoowfoXFYY", "title": "🌱Living the Creative Act: \"Connected Detachment\"  S5E5" },
+    { "id": "bAg00umTOcI", "title": "Live-coding Swift iOS in Xcode! Working on my Subway app for iPhone." },
+    { "id": "pUH4OJqu2kY", "title": "Live-coding Swift and Vapor in Xcode! Working on my subway app for iPhone. Sunday, February 18, 2024" },
+    { "id": "dFRx0dF35t8", "title": "Building an app business, one year at a time. Halfway through year 8! iOS, Android, and server-side" },
+    { "id": "laomsX7Cu4I", "title": "Live-coding! Building a new feature for my subway app, Underway, using Swift, Vapor, iOS, & Android" },
+    { "id": "qrwOLg9ck0U", "title": "Timberborn for Beginners Episode 2! New start with Folktails on Lakes map 🦫🌲Update 5 Experimental" },
+    { "id": "C8U4OKeDGU4", "title": "Live-coding stream! JavaScript, CSS, AstroJS, But first &quot;Living the Creative Act&quot; live recording" },
+    { "id": "uUuDa6ziscA", "title": "Live-coding stream! Server-side Swift for NYC subway app 2023 Oct 1" },
+    { "id": "KHOx1YSaEHU", "title": "Live-coding stream! Swift command line tool SPX, Living the Creative Act at 2pm!" }
+  ]
+}

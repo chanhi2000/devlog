@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "DanCanCode",
+    "name": "DanCanCode",
+    "profile": "https://yt3.googleusercontent.com/iZW8CO5bUfIZ4nYnEaXmyZFdPE3klL8Zy7caCnbWDSZbNTHT_hme-znO9g-pHSpP4lGfor_HKoA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "SDa3v4Quj7Y", "title": "My Favorite Way To Handle Dev Environments | VS Code Devcontainers" }
+  ]
+}
+

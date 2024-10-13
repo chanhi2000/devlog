@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "NAVERCLOUDPLATFORM",
+    "name": "NAVER Cloud Platform : 네이버 클라우드 플랫폼",
+    "profile": "https://yt3.googleusercontent.com/W-V6JCL7MIvF8AqNapusXZeS3S6WqgbX2dr5ZNvFIyyS9MkkEGMu72Z1_OiHfGElsN94JzKoPg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WdsDrPunDZe7dPrAi-wYzz94Ga0BgyPLpH7z0RFOpp04Y_PEw26m9uj68J7AFyjN1mrIvSQ8pqo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6OUSU8wzvac", "title": "[Brown-Bag 런치세미나] 2024년 보안트렌드 살펴보기" },
+    { "id": "chXflYgIX3U", "title": "[온라인 웨비나] Cloud Security Watcher로 클라우드 보안 형상관리 하는 법" },
+    { "id": "wVb4kGsvSAw", "title": "[온라인 웨비나] 프롬프트 엔지니어링 쉽게 접근해보기" },
+    { "id": "ZAUgpRmOdpU", "title": "[온라인 웨비나] DataFlow를 활용한 데이터분석" },
+    { "id": "DlM8uMqD0e4", "title": "웨비나 : HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio l 생성형 AI" },
+    { "id": "Xs9gdsCjV90", "title": "크리스마스 카드 만들기💌 (클로바 스튜디오로 만든 생성형 AI 서비스) - 포텐데이 해커톤 우수작" },
+    { "id": "3hHVGQcZTVs", "title": "[WORKPLACE] 🐥: 우리 회사 공문서 양식이 어떻게 되나요? 👨‍💼: 워크플레이스에 다 있어~" },
+    { "id": "gYgGBiRKXog", "title": "Business-optimized AI development tools, CLOVA Studio !" },
+    { "id": "_b2BrN3k1Cc", "title": "AI 면접 코칭 서비스 티키타카🎯 (하이퍼클로바X로 만든 생성형 AI 서비스) - 포텐데이 해커톤 우수작" },
+    { "id": "J4BsujJyTBo", "title": "[Solution showcase] 자유롭고 유연한 커스텀 환경으로 차별화된 이커머스 구축" },
+    { "id": "wwjzkK0wH64", "title": "[WORKPLACE] 예산 수립부터 배정까지 ‘예산 업로드’로 한 번에 해결할 수 있다고요? 💡" },
+    { "id": "cP2IWGepwV4", "title": "네이버 클라우드 플랫폼에서 IaC(Infrastructure as Code) 적용하기 - Terraform 활용" },
+    { "id": "e_8ZtT_d0hg", "title": "테라폼 Terraform HCL & 네이버 클라우드 플랫폼에서 IaC 확장 적용하기" },
+    { "id": "BGUvHByfa5c", "title": "네이버클라우드와 함께하는 AI 혁신, 국산 AI 반도체 Farm" },
+    { "id": "EV2nN5ZHNrs", "title": "[Solutions Showcase] Java 유료화와 성능 고민! Azul로 한 방에 해결하세요." },
+    { "id": "WHqev4BHYEI", "title": "[네이버클라우드 금융 컨퍼런스 2023] 생성형 AI 금융권 적용을 위한 제언 (네이버클라우드 한지연 리더)" },
+    { "id": "tlEX91LvLC0", "title": "[네이버클라우드 금융 컨퍼런스 2023] CLOVA Studio를 활용한 금융권 특화 LLM 만들기 (네이버클라우드 허창현 리더)" },
+    { "id": "4NsRF64b_EQ", "title": "[네이버클라우드 금융 컨퍼런스 2023] 금융권 AI 적용을 위한 보안 컴플라이언스 (금융보안원 박진석 디지털전략본부장)" },
+    { "id": "ZrOl-SnRCmY", "title": "[네이버클라우드 금융 컨퍼런스 2023] 생성형 AI가 만드는 금융투자의 새로운 경험 (미래에셋증권 안인성 디지털부문 대표)" },
+    { "id": "LsVjZhWxCjA", "title": "[네이버클라우드 금융 컨퍼런스 2023] 금융 비즈니스 변화를 위한 하이퍼클로바X (네이버클라우드 윤영진 AI사업 리더)" },
+    { "id": "geRDaOiQWlo", "title": "[네이버클라우드 금융 컨퍼런스 2023] 생성형 AI 시대, 금융을 위한 기술 경쟁력 (네이버클라우드 하정우 센터장)" },
+    { "id": "m-EmnMFRgeQ", "title": "쿠버네티스 안 써도 되지 않나요? 조훈 님에게 물어봤습니다. (쿠버네티스 담당자 필수 시청)" },
+    { "id": "NrzKkxkh9Ks", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버랩스 정영호 님" },
+    { "id": "DO_0tCpHiaI", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버랩스 박종진 님" },
+    { "id": "-TqwnSalRcY", "title": "[밍글데이] 9월, 디지털 트윈 완성을 위한 Key, ARC eye 키노트 발표 - 네이버클라우드 최미나 님" },
+    { "id": "ahIY2q4jpow", "title": "[Solutions Showcase] WEBFRONT KS를 통한 웹API 보안, 안정성 높은 클라우드 운영 환경 만들기" },
+    { "id": "fFjnm8_qFIE", "title": "[Brown-Bag 런치세미나] 메타데이터 통합 및 관리를 서버 없이 클라우드 기반으로! Data Catalog 서비스 소개" },
+    { "id": "Y1W9SJXm_T0", "title": "[Solutions Showcase] 개발자와 DevOps를 위한 사용 사례 중심의 NGINX Plus API Gateway" }, 
+    { "id": "j4_rnEHb8FM", "title": "[Brown-bag 런치 세미나] 관리형 서비스로 쉽게 구축하는 빅데이터 플랫폼" }, 
+    { "id": "ZW1OnWbvnjQ", "title": "[Brown-bag 런치 세미나] 클라우드 개념, 1시간으로 끝내기!" }, 
+    { "id": "hvkmbQf5uvE", "title": "[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기" }, 
+    { "id": "nRVEv-ctqJA", "title": "네이버 주가 상승의 원동력은?🤔 네이버 직원들이 직접 말하는 일하는 방식!" }, 
+    { "id": "GfZuHSX9RDM", "title": "[웨비나] 클라우드 보안 A to Z: 클라우드 환경에서 발생하는 위협 탐지/대응 방안" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "codersee",
+    "name": "Codersee- Kotlin on the backend",
+    "profile": "https://yt3.googleusercontent.com/CLCYGcIulvjNKsKOASiFL6PvVAJGX1ETet9IKonK4XzzKpG_irYnsq401ydkhy9nGhctBAGFyQ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QNL6DNkkMsKqB2TykMP3k2xuQnU0sIQv5U1WY4Uw2paP3nk4FUB482cUuJOkSJpNNv-9IXxO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "REST API With Spring WebFlux and Kotlin",
+      "videos": [
+        { "id": "Y3FA2y_eakA", "title": "REST API With Spring WebFlux and Kotlin #1 - Introduction" },
+        { "id": "1vuJFo42zko", "title": "REST API With Spring WebFlux and Kotlin #2 - Create Project" },
+        { "id": "nQvRvBw9Csk", "title": "REST API With Spring WebFlux and Kotlin #3 - Set Up The PostgreSQL Instance" },
+        { "id": "o6jZpa8_ZY0", "title": "REST API With Spring WebFlux and Kotlin #4 - Connect App To The Database" },
+        { "id": "l5i7zkvPi14", "title": "REST API With Spring WebFlux and Kotlin #5 - Create GET Endpoints" },
+        { "id": "bJRN9JFL-Jc", "title": "REST API With Spring WebFlux and Kotlin #6  - Create POST Endpoint" },
+        { "id": "IYs1nGp1CzM", "title": "REST API With Spring WebFlux and Kotlin #7 - Create PUT Endpoint + Validation" },
+        { "id": "LU2XkGZaKpI", "title": "REST API With Spring WebFlux and Kotlin #8 - Create DELETE Endpoint" },
+        { "id": "sfmEAl12KqM", "title": "REST API With Spring WebFlux and Kotlin #9 - Containerize The App" },
+        { "id": "d2mN1t9o3a8", "title": "REST API With Spring WebFlux and Kotlin #10 - Summary" }
+      ]
+    }, {
+      "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens",
+      "videos": [
+        { "id": "PCIkfv6cC0k", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #1- Introduction" },
+        { "id": "cBQc3jbldcY", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #2- Theory" },
+        { "id": "q4JU7plh2hw", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #3- Project Setup" },
+        { "id": "aJhLIk4Dpro", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #4- Expose Articles API" },
+        { "id": "9xmXMKKgndU", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #5- Expose Users API" },
+        { "id": "xRF6YTjj1HY", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #6- Spring Security & JWT libraries" },
+        { "id": "iqkt9ip567A", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #7- JWT Token Service" },
+        { "id": "tiUK2Owyal8", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #8- Custom UserDetailsService" },
+        { "id": "d-PS-Pn4L80", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #9- Update Config" },
+        { "id": "X1dPH23Nwjc", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #10- Update UserRepository" },
+        { "id": "kine78xinCU", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #11- Add custom filter" },
+        { "id": "ZPEy-xq1ON0", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #12- Configure Spring Security" },
+        { "id": "_1npBylaRVs", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #13- JWT access tokens" },
+        { "id": "i0u9aMlPhcU", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #14- JWT refresh tokens" },
+        { "id": "sYuGUQ-Ailk", "title": "REST with Spring Boot 3 (Spring Security 6), Kotlin & JWT tokens #15- Summary" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "JerryBanfield",
+    "name": "Jerry Banfield",
+    "profile": "https://yt3.googleusercontent.com/2O2gUo-AvG7vCGP8aaBXpexwwTjdinAhZXkRxDbDH84vdhVb7B_a8_92igXA_3Ln57zrtaPD=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IogOrKDysHdVOihq_1PWAGbsPIVrAOzwahFHoSvkMeunQ0_GOmR0PcbanxT7SMtA_JfTrAipfw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Fg1QzS5vH2c", "title": "Android File Manager App Creation" }, 
+    { "id": "M2-vpCNa9AM", "title": "Build a Calculator App in Android Studio + Grow Your Earning Power as a Mobile Developer in 2019!" }, 
+    { "id": "9R7YpnrD3ps", "title": "How to Setup and Code Your Android File Manager Permissions in Android 6.0 or Higher" }
+  ]
+}
+

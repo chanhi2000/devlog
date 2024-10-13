@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "44BITSTV",
+    "name": "44BITS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMx0rYCVLFi8shhvP0KDX6czHiCixkNJs6fx5Rs4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3nyxB4hDoEsxIusJ_PO-levqaXEzNhT3jHEh21gs2oA1u5lHsz-W-Lj99dN-MW_EnKA_l0LzXb8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2bGwJWoaEZ0", "title": "203화 xz 라이브러리 백도어 사건 총정리" },
+    { "id": "Xz0A2wxaNx0", "title": "팟캐스트 라이브 - 구글 클라우드 NEXT 행사 참석 후기" },
+    { "id": "2iND_AyaQlM", "title": "206화 Gemini vs. ChatGPT" },
+    { "id": "AU-CK2Ww5BM", "title": "207화 AWS Hero가 되는 법" },
+    { "id": "e3I7AZ2_XgU", "title": "199화 jQuery 4.0?! / 애플 비전프로 구입기" },
+    { "id": "OyOsqh9CzXM", "title": "[240310] 뉴스 AWS 이전 트래픽 비용 무료, 애플 페이 확대 움직임, dockerc 등" },
+    { "id": "K0VyMWXtt5U", "title": "201화 44bits.io 장애?! / 아이단의 온라인 강의 경험담" },
+    { "id": "QMsKenvwncs", "title": "[240313] 뉴스 Deno 패키지 매니저 JSR, 삼프로TV 상장 불발, 페이스북 인증 장애 등" },
+    { "id": "QSBb1-UywJ0", "title": "[240320] 뉴스 Hashicorp 매각설, AWS 데이터센터 신축설 등" },
+    { "id": "QrnEO_wDIxc", "title": "44BITS 팟캐스트 라이브 #197" },
+    { "id": "LbFOisQOT9g", "title": "197 우리 회사도 RSU 줄까? + Cloudflare의 트래픽 보고서" },
+    { "id": "gwWbn1EL7Ps", "title": "OpenAI DevDay 요약" },
+    { "id": "0_ZsDUTqRIs", "title": "193화 Cloudflare 장애와 포스트 모텀 w/ 박미정(레이첼) 님" },
+    { "id": "xJ6ueKUTARM", "title": "Next.js 13 이게 최선인가요? w/ 하조은" },
+    { "id": "WDbP4N92zYE", "title": "RetroTech 만든 썰, 집에서만 현대카드 앱이 먹통?!" },
+    { "id": "NQ4do3t6GhU", "title": "오픈소스 진영을 배신한 테라폼?" },
+    { "id": "dxMAt12qoFE", "title": "Twitter API 제한, 애플페이, GitHub 새기능, 머신러닝" },
+    { "id": "iVU2DCeJCt8", "title": "AI 이야기 w/ 래블업 신정규 CEO" },
+    { "id": "eYZXA3kkENE", "title": "tailscale 활용, CentOS와 오픈소스, Threads 이야기" },
+    { "id": "R9nsp-fgUJk", "title": "ML/AI 특집 w/ 윤" },
+    { "id": "GjC0WCYvCq0", "title": "트위터 장애, ChatGPT등 AI" }, 
+    { "id": "emawWKgDH3E", "title": "44bits 팟캐스트 - Git.io deprecation, Scaling containers on AWS" }, 
+    { "id": "cyvCeItKFjw", "title": "44bits 팟캐스트 145.log : React 18.0, Dagger.io, Grafana Mimir" }, 
+    { "id": "wReN7LG2zJg", "title": "`docker`로 만들어보는 가상 원격 데스크탑 - 이형규" }, 
+    { "id": "mzdFK8re_ig", "title": "k8s 필수 애플리케이션, 테라폼으로 한번에 설치하기 - 서비큐라 개발로그" }, 
+    { "id": "Ia8IfowgU7s", "title": "[초보를 위한 쿠버네티스 안내서] 컨테이너 오케스트레이션이란?" }
+  ]
+}

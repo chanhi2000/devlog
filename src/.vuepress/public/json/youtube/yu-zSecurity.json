@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "zSecurity",
+    "name": "zSecurity",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaT6OpPCRkkFKnw9yrfkfOUh5g5mbLxN2pQImhAo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gMqHtjMQLe3H0tY8SajtN6b2IyDkaeNofqqojsEdSJaiMZsH3SuMJBqEiNB2qXATfVqzfRAZtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-nsALpaFZ8U", "title": "Hackers Are Waiting For You to Open This Image" },
+    { "id": "FTRSJaIAF8Y", "title": "How to Jailbreak ChatGPT (GPT4) & Use it for Hacking" },
+    { "id": "UrNaUL3M-rg", "title": "Learn Cross-Site Request Forgery (CSRF) From Scratch + FREE Training" },
+    { "id": "HbYdWajOCx4", "title": "SQL Injection Beginner Crash Course" },
+    { "id": "hollnezbeus", "title": "Metasploit Payloads GUI - Create Backdoors & Control Hacked Devices Easily" }
+  ]
+}

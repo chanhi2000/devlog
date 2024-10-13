@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "SeniorMarsTries",
+    "name": "SeniorMars",
+    "profile": "https://yt3.googleusercontent.com/qdH5Xt2MGKqNd_QCeR91PaYo_Q4urbK_0NxOvncsXyv4xZGpUi9cfBccWKkCD0OHsypR52M-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KQtyajntIxG8OeMA6UHyN2ObqWZl8hq9lA4bQ1GMmo1-7T4-z3f545Z_ft1syflPqA8KiyGaNfs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "57x4ZzzCr2Y", "title": "Integrating Git and (Neo)Vim: LazyGit + Fugitive + MergeTool for maximum efficiency [Showcase]" },
+    { "id": "DOtM1mrWjUo", "title": "How I take notes as a Math major using Vim + LaTeX" }
+  ]
+}

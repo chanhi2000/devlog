@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "PowerBIPark",
+    "name": "Power BI Park",
+    "profile": "https://yt3.googleusercontent.com/Je44rV0ndnx1nkzuNZrnq-f9TJ3d2DeKv2pwIp0IL4w86EEbxHRwkGr-SE27UnDhy2jSVVsH1gk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/v-Zbx1iGVYosFlxnQSSwb-UNhnsDXHgoT_N0NbMMRcgu29b79amuYxxS2z4t-tY7-uAm662CW1o=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZSrVOyKAC4Y", "title": "Advanced Power BI Project • End-to-End • ChatGPT • Custom Visuals" },
+    { "id": "GXFxiEVAmfI", "title": "PowerQuery Version Control From GitHub (Update Multiple PBIX In The Service!)" },
+    { "id": "Lb2JPC-UwI4", "title": "How To Use Scripts to Edit Measures in Power BI - With Tabular Editor" }
+  ],
+  "playlists": []
+}

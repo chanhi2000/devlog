@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "LinuxTips",
+    "name": "LINUXtips",
+    "profile": "https://yt3.googleusercontent.com/y18UK_vKVewxOunJNIIrvRGxk80aojz5yliXDY6HqbzKnTpvpx2Yn9fM95Pej1SalzYPJMLkUKc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GDOX7-HC6sdCOu2uOTYq7NFSSsiWzLpmD_oqlNE6JNhMY6venavG-5o-No0BCA3SDnmL0TQHRA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z9wXnpx9PHM", "title": "CRIANDO RECURSOS NA AWS UTILIZANDO CROSSPLANE E KUBERNETES - guia completo" },
+    { "id": "N_RrT8RzYpA", "title": "LIVE - CONVERSA PÓS VÍDEO SOBRE O CROSSPLANE" },
+    { "id": "uac5Wg1KMxg", "title": "COMO REDUZIR A CONTA DO KUBERNETES NO CLOUD EM ATÉ 50%! é sério!" },
+    { "id": "pe4Zz4LRl6U", "title": "LIVE: MENTORIA, AULA, REDUÇÃO DE CUSTOS NO CLOUD, KUBECON E SEC EM K8S! tudo isso!" },
+    { "id": "K9q_Nq2UxTQ", "title": "LIVE: COBERTURA KUBECON PARIS 2024" },
+    { "id": "Mm7Wh12cjso", "title": "COMO USAR OS MODELOS DE IA NO KUBERNETES COM O OLLAMA | Descomplicando Ollama - parte2" },
+    { "id": "NMxnf1DJp7g", "title": "O SEU SSH PODE ESTAR COM UM BACKDOOR | VULNERABILIDADE DO XZ - resolva" },
+    { "id": "U2Ucs8Xsf-M", "title": "LIVE: Cobertura DevLive São Paulo - 03/04 - 15:30" },
+    { "id": "mCWUy4Fr18w", "title": "Aula ao Vivo - Resolvendo lista de exercicios e bate papo sobre as provas CKA CKAD CKS!" },
+    { "id": "i8C-k7D07K4", "title": "SEGUNDA LIVE - MÊS DO KUBERNETES" },
+    { "id": "e8xjiu6KWi8", "title": "COMO O KYVERNO PODE DEIXAR O SEU KUBERNETES SEGURO - COMPLETO" },
+    { "id": "1-Lm4znOtaQ", "title": "APRENDA COMO INSTALAR E CONFIGURAR O OH MY ZSH E TENHA SUPER PODERES" },
+    { "id": "KbX2oFECwzE", "title": "SUA HORA DE APRENDER KUBERNETES GRATUITAMENTE! aproveita!" },
+    { "id": "-i0rgPdpc2A", "title": "PRIMEIRA LIVE - MÊS DO KUBERNETES" },
+    { "id": "Og9as25Oztc", "title": "CONSTRUÍNDO E ADMINISTRANDO SEU KUBERNETES COM O CDK8S - SERGIO SOARES" },
+    { "id": "GjndoO8KfOo", "title": "Mutirão Kubernetes - Vamos iniciar a sua jornada no Kubernetes! | Dia-1" },
+    { "id": "zEOeukcJl6E", "title": "TUDO O QUE VOCÊ PRECISA SABER SOBRE KUBERNETES PARA PASSAR NA ENTREVISTA!" }
+  ]
+}
+

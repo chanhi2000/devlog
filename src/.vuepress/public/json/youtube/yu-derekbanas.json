@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "derekbanas",
+    "name": "Derek Banas",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN2S-9s1Vz8W19_zE_cTTE20v6AEdiTwRV_CBTuKQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BKS8Jhw5PZvAZh1_E4Rf2Vld2NcCvck6g3YcjNYMGyMflbusP8ahbDqpoe9GY9kTi5aPQZP57iI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W_gMBarj0QE", "title": "How to Write a Novel" },
+    { "id": "ygL_xcavzQ4","title": "Rust Tutorial Full Course" }, 
+    { "id": "xcONCZR6bMo","title": "Python for Data Science" }, 
+    { "id": "M5ugY7fWydE","title": "C# Full Course : C# Tutorial for Beginners" }, 
+    { "id": "ygL_xcavzQ4","title": "Rust Tutorial Full Course" }, 
+    { "id": "3FkWddODLno","title": "Visual Basic Tutorial 2017" }, 
+    { "id": "GGL6U0k8WYA","title": "Plotly Tutorial 2023" }, 
+    { "id": "8Y0qQEh7dJg","title": "NumPy Tutorial : Numpy Full Course" }, 
+    { "id": "txGRU7OrTZo","title": "Qt Tutorial 2 : C++ Calculator" }, 
+    { "id": "URtsnESYcPk","title": "iOS Development 2021 : Make an App in One Video" }, 
+    { "id": "NihZYkNpslE","title": "PHP Tutorial : PHP Full Course" }, 
+    { "id": "6y0bp-mnYU0","title": "C++ Tutorial : C++ Full Course" }, 
+    { "id": "XqIk2PwP0To","title": "SQL Tutorial : SQL Full Course" }, 
+    { "id": "2DSx_QPTo3U","title": "JavaScript Tutorial 12 Doomsday Algorithm" }, 
+    { "id": "IyDVvGmzTlo","title": "JavaScript Tutorial & Real JavaScript Projects" }, 
+    { "id": "1MCW8pjYL3o","title": "React Setup MacOS" }, 
+    { "id": "rk2zcyzeK3U","title": "Java JPA Maven Hibernate Tutorial" }, 
+    { "id": "F5jIFP56J0E","title": "Microsoft Excel Tutorial for Beginners  | Full Course" }
+  ]
+}
+

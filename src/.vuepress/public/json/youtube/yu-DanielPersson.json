@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "DanielPersson",
+    "name": "Daniel Persson",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOgyJkOYY5cNO_mssmEd9YngBgwL6K7erSwvbQHfoM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/u0hA3qiqE5Vh5sAREZVdSa-jKWCuTwSJfErbRSpE9Tk8NBCoTrwh73DtXIzPujWaWwZ7hOitrqs=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8jCt1QIepTw", "title": "Build Docker Images for Any Platform with Buildx" },
+    { "id": "ZqmbwhDjfdo", "title": "I needed to run one docker container per host - Ansible deploy of Docker workloads" },
+    { "id": "riIcjnVkDXY", "title": "Java 23 - Gathering Modularity" },
+    { "id": "hFLIOUyNMEg", "title": "Say Goodbye to File Size Limits! Uploading Gigabytes with Fetch" },
+    { "id": "3cnDxJ8HqLQ", "title": "Don't get blocked by QOS - RabbitMQ Quality Of Service work-around" },
+    { "id": "7ApRyRSDhVM", "title": "Amazon! Why? Security by Obscurity - AWS4 authentication method." },
+    { "id": "_XTgYvfM2h4", "title": "Automatic Debian install - How to use simple-cdd" },
+    { "id": "52AM5GPUshk", "title": "I ran Linux for a year, this is my review." },
+    { "id": "1uLZU7h7r9I", "title": "Event sourcing anyone? How to install Apache Kafka in production" },
+    { "id": "ZFaHFMQW-fk", "title": "Mobile device management - How to install and use Headwind MDM" },
+    { "id": "eKf3my9qaOU", "title": "I chatted with a PDF document offline - Five simple steps to get up and running with PrivateGPT" },
+    { "id": "zFWKd6CwN7s", "title": "Generate images locally - How to setup and use Fooocus" },
+    { "id": "iDFElTTjN1c", "title": "Using Sonatype Nexus as a proxy cache for docker and debian packages over Ceph RGW." },
+    { "id": "WPS4DZ8gEYQ", "title": "Upgrade all the things... (TopGrade for Windows, Linux and Mac)" },
+    { "id": "VwaR2VkvpzM", "title": "Recording audio in Javascript" },
+    { "id": "06paUZHU0Sg", "title": "Probably the easiest and safest way to run cloud GPU tasks. Machine learning in the cloud." },
+    { "id": "E-0gw_YTQug", "title": "Advent of Code 2023 - Day 17" },
+    { "id": "zw3b40sQ8DU", "title": "Advent of Code 2023 - Day 8" },
+    { "id": "abmnPmBW8dQ", "title": "Java 22 - Streamlined loading" },
+    { "id": "IGj__IRc7J8", "title": "The most complicated Ceph installation yet... (Ceph Rook in Kubernetes)" },
+    { "id": "E9yuisasgVs", "title": "Looking into Dell R420, what can I use this for?" },
+    { "id": "foxEE58FNG0", "title": "Expire objects in an S3 storage (Ceph Rados Gateway)" },
+    { "id": "uC1WPxFzISQ", "title": "The Complete Guide to ETCD Cluster Setup" },
+    { "id": "89oKFfeXRMQ", "title": "Writing a Notes App in Pure HTML: Harnessing the Power of htmx" },
+    { "id": "EDRZbBdPXMY", "title": "Adding deleteWithPrefix and moveWithPrefix on my S3Client" }, 
+    { "id": "_d6OFPeb0hY", "title": "Java 21 - Finalized abbreviation" },
+    { "id": "E1LXQd1M-ck", "title": "Best Way to Install OpenStack? OpenMetal vs Manual installation" }, 
+    { "id": "Kn5rOJdPlEw", "title": "Automatic install of Redhat 9 using Kickstart" }, 
+    { "id": "AjmDUMiyvNQ", "title": "How to use the Log4J library in 2022" }, 
+    { "id": "UeH8z9wnz7o", "title": "Linux by example - util-linux, e2fsprogs, sysklogd, sysvinit, eudev" }, 
+    { "id": "LtlovbPZXU0", "title": "Linux by example - Grep and Bash" }, 
+    { "id": "jooOa8ur07g", "title": "Using fetch to do a file upload" }, 
+    { "id": "3XO0d9Qyc34", "title": "How to use `autotools` (`automake`, `autoconf`, `aclocal`, `autoheader`)" }, 
+    { "id": "bJx_YeAp18E", "title": "How to setup up a local copy of jitsi video conferencing" }, 
+    { "id": "pCD66c2D3L8", "title": "Using JMeter for performance testing" }, 
+    { "id": "wpCu4buJOvE", "title": "Inference with Tensorflow in Java" }, 
+    { "id": "GRMrj-mImAc", "title": "How to use expansion files in Android" }, 
+    { "id": "sESrjvGpEUQ", "title": "Webassembly with java" }, 
+    { "id": "6WU9nipfBGQ", "title": "Getting Started with Sonatype: The Best Way to Manage Your Java Releases" } 
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "ControllersTech",
+    "name": "ControllersTech",
+    "profile": "https://yt3.googleusercontent.com/2-8ADCfAKJ-ViC4rz-yVBEUQnXUXn6cgiH5jSVibvHnLFLhF8Qgwe6Rq3leVhZiKYtV47-yIsg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4Re1tXENYu9IErAab0s8MHGQbPNfsdFUXXaYM9xwvkYAz4pDGbVtGvLUqYiQHGH-AAQWvcUR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u1MbUQcbw0g", "title": "STM32 UART #10 || Lin Protocol PART3 || Master - Slave communication using the Linbus" },
+    { "id": "IsWelvN_We4", "title": "STM32 FSMC || LCD PART 3 || Add LVGL & Create UI in SquareLine Studio" },
+    { "id": "68YwDGQaW-I", "title": "LVGL on STM32 - PART 6 || How to store Assets into External Flash || QSPI" },
+    { "id": "MXxopA0k3Ys", "title": "STM32 UART #5 || Receive Data using IDLE Line || Interrupt || DMA" },
+    { "id": "e6Hep-qIJ3s", "title": "Interface I2C-LCD with STM32 || AIP31068 with Built-in I2C" },
+    { "id": "9RmLBkyb_Gw", "title": "STM32 UART #7 || One-Wire Protocol || Interface DS18B20" },
+    { "id": "KdXSRyPCYuM", "title": "STM32 UART #1 || How to configure Parameters || Send Data" },
+    { "id": "WJIzwxiXmOM", "title": "W25Q FLASH Memory || Part 8 || How to create an External Loader" },
+    { "id": "0uHKUnrzoeA", "title": "AVR #3. How to use UART to send data || UART TX" },
+    { "id": "-iYJkl_ufZY", "title": "AVR #4. How to Receive data via UART || UART RX || Interrupt" },
+    { "id": "5fR-05zsETw", "title": "Getting started with xplained mini" },
+    { "id": "k85KnxD5M7c", "title": "AVR #2. How to use Input Button in Xplained mini || External Interrupt" }
+  ]
+}

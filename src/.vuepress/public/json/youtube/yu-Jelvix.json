@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "Jelvix",
+    "name": "Jelvix | TECH IN 5 MINUTES",
+    "profile": "https://yt3.googleusercontent.com/O34TmOSS48QwVBiejvsONZ1cRhlUXob-NmVcze2z1Glfq9MLzMF9abRjRR_h7Sc20Q_Kpc7aBQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2m8NGC9xQaV3oOJ6YdNYRJbwAT6BVX-fHr_AO4zhOWwy4u1p4tFO9X1AHeceiPBYbuL5Qunr=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vsQ8pTZa4Z4", "title": "CLOUD SECURITY secrets tech giants don't want you to know!" },
+    { "id": "7b2nRak88ak", "title": "TOP Python frameworks❗" },
+    { "id": "KFK7SZ7FxIE", "title": "How to create ELECTRONIC HEALTH RECORD software" },
+    { "id": "7BXOIwgznjs", "title": "Is Laravel still relevant? Unveiling the truth behind Laravel popularity" },
+    { "id": "RU8wi5ecPA4", "title": "The BEST tech stack for Saas??" },
+    { "id": "IYHeiQxwCVc", "title": "Who wins in 2024? MongoDB vs PostgreSQL full comparison!" },
+    { "id": "GCqVFxeXR2A", "title": "The truth about hiring a dedicated development team" },
+    { "id": "UbCHOYaT_10", "title": "Vue vs Svelte | What if they went to court?" },
+    { "id": "sBOar5Xh7k0", "title": "LARAVEL vs YII: PHP framework comparison  #programming #coding #tech" },
+    { "id": "LRjs2fc6r-o", "title": "Node.js vs Golang COMPARISON" },
+    { "id": "JjsT-i-ZEBc", "title": "gRPC vs REST - KEY differences and performance TEST" },
+    { "id": "pSZTV-n8wPo", "title": "Best AI productivity tools we actually use!" },
+    { "id": "GKR0rsr05YY", "title": "WebRTC vs WebSocket! Which one rules the web? | Jelvix" },
+    { "id": "fz93Jn4GeMA", "title": "How to use AGENT GPT step by step | Jelvix" },
+    { "id": "NDu0ffJlek4", "title": ".NET Framework explained in 30 SECONDS! #shorts #programming #coding" },
+    { "id": "nVPEccgwJR0", "title": "Ruby on Rails in 30 SECONDS! #shorts #programming #tech" }
+  ]
+}

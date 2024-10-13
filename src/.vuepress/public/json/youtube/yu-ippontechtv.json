@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ippontechtv",
+    "name": "Ippon Technologies",
+    "profile": "data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN8XA8AAksBZG7LpHYAAAAASUVORK5CYII=",
+    "banner": "https://yt3.googleusercontent.com/71DJJt0SukYzLyJ-PN7-an4C9fj5J_ZNOCHsobMwXC_dgvHXTCY3pjuPIPrpkC1DIp1yyDlq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FPABbR83Q4Q", "title": "UX, Game Design et Accessibilité dans le jeu vidéo" },
+    { "id": "086yY37OlI0", "title": "VMware on OVHcloud qualifié SecNumCloud et Kubernetes : l’innovation souveraine - OVH Summit" }
+  ]
+}

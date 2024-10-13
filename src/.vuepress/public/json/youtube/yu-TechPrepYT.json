@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "TechPrepYT",
+    "name": "TechPrep",
+    "profile": "https://yt3.googleusercontent.com/Og_2ve12TCSkjqkXLZaih7u2go8R7w4J_vS4nR3ZBtxQEn38TMEuJNDvSD0xEvO4TKx5pVSbCQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yjhupW3nwYPXrHTxVXZc-A_Lm9nW9AoeoUP3o_W-tNkzxuPDfCNooliWaVgUeFiRGGlx0f-QuA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vAeIvdxqepU", "title": "3D Book Animation | React | Tailwind" },
+    { "id": "-EhLq8-GlX8", "title": "Compile Time vs Run Time | Simply Explained" },
+    { "id": "mydePCRxTY0", "title": "Conway's Game of Life | Portfolio Project | React + Tailwind" },
+    { "id": "fLpvgCVYjTo", "title": "Pathfinding Visualizer | React + TypeScript + Tailwind | Portfolio Project" },
+    { "id": "anM-cr6RqDI", "title": "Instagram - System Design" },
+    { "id": "1DgJmnJ8D2Y", "title": "Volatile vs Non-Volatile Memory | Simply Explained" },
+    { "id": "y7DOHyBTWps", "title": "Deadlock - Operating Systems | Simply Explained" },
+    { "id": "U48g5izggiE", "title": "Concurrency vs Parallelism | Simply Explained" },
+    { "id": "Bo-5DkXzBLc", "title": "Virtual Machines vs Containers - Simply Explained" },
+    { "id": "1myWEH8IGt4", "title": "Process vs Thread | Simply Explained" }
+  ],
+  "playlists": [
+
+  ]
+}

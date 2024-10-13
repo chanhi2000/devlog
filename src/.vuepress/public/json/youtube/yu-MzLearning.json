@@ -1,0 +1,12 @@
+
+{
+  "channel": {
+    "id": "MzLearning",
+    "name": "Mz Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZ0_OivNwG3zphvE88_q9PkEgo4FJUes3wcjR7u_Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cRtTWTfEBgGPMvzB6NJQ4yNXEznT-qJg68jFZGyBklOq1JMq8C1yvI-i9LPzto_orv6QhAs32g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mZV8ep-GIOs", "title": "OpenCore Legacy Patcher New Sonoma update 1.0.1 |  Network and GPU Issues FIXED for Unsupported  Mac" }
+  ]
+}

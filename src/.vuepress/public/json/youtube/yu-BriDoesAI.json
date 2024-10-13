@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "BriDoesAI",
+    "name": "Bri Does AI",
+    "profile": "https://yt3.googleusercontent.com/Uu_7KVT-mBkjoRwCVOXCJNP6Hu1fHu7FiU3YwVMpXMgRY6XVKp9I36ixpr_DlinEMshlTI10GQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "KqE9zlbQ7no", "title": "This GPT creates INSANE YouTube videos in MINUTES!" },
+    { "id": "fnJztUQhLSQ", "title": "5 AI Language Apps I Wish I Knew About Sooner" },
+    { "id": "VqLhstMtYrQ", "title": "3 Realistic Ways to Money With ChatGPT" },
+    { "id": "kWvj-DauMGc", "title": "How to set and achieve your 2024 goals with ChatGPT" },
+    { "id": "1NpdQqMxz3w", "title": "How to remember literally anything you learn with ChatGPT" },
+    { "id": "ViaRFweuQtM", "title": "8 ChatGPT plugins to help you succeed in learning ANY skill or subject" },
+    { "id": "bbnKz9KH3Yc", "title": "5 Amazing Ways I use Notion Ai to Save HOURS of Time" }, 
+    { "id": "5bVBBLKPRqI", "title": "7 way ChatGPT's web browsing can help you learn better" } 
+  ]
+}

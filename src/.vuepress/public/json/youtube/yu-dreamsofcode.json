@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "dreamsofcode",
+    "name": "Dreams of Code",
+    "profile": "https://yt3.googleusercontent.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Yn70X579PO08-VKiqvXU_ATSSDKfLFV9paBhtvJDguvghUDA6_PGmRzVtxK1_UL8yipARHkh-A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Wap2tkgaT1Q", "title": "Why I'm no longer using Copilot" },
+    { "id": "PPn_rgdx220", "title": "Function Iterators might just change the way we write loops in Go" },
+    { "id": "sNg0bnMF_qY", "title": "Testcontainers have forever changed the way I write tests" },
+    { "id": "lxVzLAHnPOE", "title": "The best (and worst) types for storing money in PostgreSQL" },
+    { "id": "eVuPCG5eIr4", "title": "Why Binary Search is so important..." },
+    { "id": "eRHlFkomZJg", "title": "We can now write scripts using these languages, but is it worth it?" },
+    { "id": "VJ_wVC8r7Gs", "title": "Testing in Go + NixOS" },
+    { "id": "kerKXChDmsE", "title": "Tonic makes gRPC in Rust stupidly simple" },
+    { "id": "ig_HLrssAYE", "title": "Create beautiful code screenshots in Neovim. Without damaging your wrists." },
+    { "id": "bFf-A27Rc9s", "title": "Adding a cache is not as simple as it may seem..." },
+    { "id": "WQ61RL1GpEE", "title": "I've been using Redis wrong this whole time..." },
+    { "id": "H7tbjKFSg58", "title": "The standard library now has all you need for advanced routing in Go." },
+    { "id": "zfNqp85g5JM", "title": "Using docker in unusual ways" },
+    { "id": "kYAe7qDGOJw", "title": "8 ways JavaScript is just... different." },
+    { "id": "Smc-6qfZ2JU", "title": "One of the most common mistakes in Go is about to be fixed" },
+    { "id": "HXdBwGRjv_4", "title": "Go 1.22 is bringing about a new future for the language." },
+    { "id": "HEhhWL1oUTM", "title": "I never thought I'd use Socket.io ever again" },
+    { "id": "sGjAe6y299g", "title": "Never write another loop again" },
+    { "id": "_4TPM6clQjM", "title": "When RESTful architecture isn't enough..." },
+    { "id": "WQ61RL1GpEE", "title": "I've been using Redis wrong this whole time..." },
+    { "id": "CVCBHHFXWNE", "title": "The (almost) perfect Neovim setup for Node.js" },
+    { "id": "ruUlK6zRwS8", "title": "Solving one of PostgreSQL's biggest weaknesses." },
+    { "id": "YON9PliOYFk", "title": "5 Secrets for making PostgreSQL run BLAZING FAST. How to improve database performance." },
+    { "id": "35PRzQEqpvc", "title": "A pigeon raced the internet... and won." },
+    { "id": "v6gnINA1d6k", "title": "Gorilla Toolkit for Golang is revived! But is it too late?" },
+    { "id": "7k0KZsheLP4", "title": "Better than Copilot? This AI plugin for Neovim is Incredible" }, 
+    { "id": "4BnVeOUeZxc", "title": "The perfect Neovim setup for Python" }, 
+    { "id": "1PBXB3RcDLs", "title": "What's really inside your docker containers?" }, 
+    { "id": "FhwsfH2TpFA", "title": "This is perhaps my favorite password manager for the terminal" }, 
+    { "id": "i04sSQjd-qo", "title": "The perfect Neovim setup for Go" }, 
+    { "id": "DzNmUNvnB04", "title": "Tmux has forever changed the way I write code." }, 
+    { "id": "mh_EJhH49Ms", "title": "The perfect Neovim setup for Rust." }, 
+    { "id": "Mtgo-nP_r8Y", "title": "Turn VIM into a full featured IDE with only one command" }, 
+    { "id": "ZbhzLP3vnkg", "title": "Tide is perhaps my favorite Rust web app framework." } 
+  ]
+}
+

@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "nixhero",
+    "name": "nixhero",
+    "profile": "https://yt3.googleusercontent.com/K0y0gYfKPIhxDItYWeZIQByhrZXaRBa_R5mZB0GAH-hFLYTNzphhFZGWopEs7apdR7vQeeJe=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gedsEylVSBwh4CDa5gO5YBUxff8nGzCRXyOUc26SVH_s0_4he9dFKFV9vhvVJpw5nfCSLtWwig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sfYiF8Yanss", "title": "Making Minimalist Git HTTP Server" },
+    { "id": "E3x_NtR2ZLw", "title": "Unix Job Control in 100 seconds" },
+    { "id": "xCX14u9XzE8", "title": "The SSH flag you never used" },
+    { "id": "j4J_MxkY-4s", "title": "SSH Public Key Authentication for Busy People" },
+    { "id": "26jqQoS6SdQ", "title": "Deploy NixOS to ANY VPS with nixos-anywhere" },
+    { "id": "17sI6FHjy1s", "title": "Never clone big repo again" },
+    { "id": "WRb76Je4GSQ", "title": "Discord + GitHub = Notification System" },
+    { "id": "9tVCoQ0nsfk", "title": "Git Branch Protection from Scratch #linux #git #github" },
+    { "id": "wtVZk1X2_CQ", "title": "How I solve my problems with shell scripting (I don't)" },
+    { "id": "SsGMGLKsbpM", "title": "How to Install Custom Shell Script in NixOS" }
+  ],
+  "playlists": [
+
+  ]
+}

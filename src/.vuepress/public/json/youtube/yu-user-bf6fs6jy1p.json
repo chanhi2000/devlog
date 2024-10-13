@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "user-bf6fs6jy1p",
+    "name": "은공지능 공작소",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTkg8jRr9MEU0qljR17COV1I-XLj_6F47nLqMCWAg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rZYbP6x3CEjKXf9CWvNTmhtBIZGAWAzF9Sj2-9qTDED_Ij5LjbcbYzuu5OO6ubDlRoRTc96kCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "57-gzM44m1I", "title": "[tensorflow 2.0] 아나콘다 주피터에서 텐서플로 2.0 베타버전 가상환경 만들기" }
+  ]
+}

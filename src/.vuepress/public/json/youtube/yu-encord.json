@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "encord",
+    "name": "Encord",
+    "profile": "https://yt3.googleusercontent.com/XV9sDM6pu_GUmaGvF8htxJndeSFZZcojKtCa_1afZef4xZ0jiCgVyf_crmdX5IwLjGIyrRhFsFQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ebV5UJw8N0kSBWkCGC25pcDMkoiHkmXL_THx6eclD77iAVJdeuivQ-NTiLE2ireYxIf3sP7aoQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fCd8eucpRrk", "title": "SAM 2 for Video: How to Fine-tune On Your Data" },
+    { "id": "ex609grukD0", "title": "Segment Anything 2 (SAM 2) by Meta AI: Everything You Need to Know" },
+    { "id": "-FsAmSbtz7Y", "title": "Learn How to Fine-tune SAM 2 with Your Own Data" },
+    { "id": "fgyk3k1KIWs", "title": "Drowning in Data? How To Curate Your AI Data At Scale" },
+    { "id": "u3xLXZo2RKM", "title": "Garbage In Garbage Out: Poorly Curated Data is Killing Your Models" },
+    { "id": "mzdRZCLfEZw", "title": "Fine-Tuning Models: How to BenchmarkYour Custom Embeddings" },
+    { "id": "TjjFdb1i7FY", "title": "Vision Language Models: How to leverage Google Gemini in your ML data pipelines" },
+    { "id": "S9f9Jwguwas", "title": "Using GPT-4o to Accelerate Your Model Development" },
+    { "id": "2o3xV_F51gI", "title": "Vision-Language Models:The Future of AI Webinar" },
+    { "id": "-seoJHbtQus", "title": "The Rise of Multimodal AI" },
+    { "id": "qxgIM1XIMjs", "title": "Multi-modal Foundational Models: The End of Data Labeling?" }
+  ]
+}

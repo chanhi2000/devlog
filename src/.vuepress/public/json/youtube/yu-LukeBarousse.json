@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "LukeBarousse",
+    "name": "Luke Barousse",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSqAzo3edvpsG541t06Ywi0ePJzqeBdrfYMuhYz=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TDioEhTN5a0CHzN8ANX4Z3UW5YsJUge_qsRrJpvNweGWNGQGXO0C2At5cFNOF1qScbiUF2Wj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7mz73uXD9DA", "title": "SQL for Data Analytics - Learn SQL in 4 Hours" },
+    { "id": "vUKr5O-94z0", "title": "Should you still learn to code? (ft. Devin)" },
+    { "id": "qdhMfuGi0tA", "title": "Study: GPT-4 outperforms Data Analysts" },
+    { "id": "uhyMqbZI6rM", "title": "ChatGPT for Data Analytics: Full Course" },
+    { "id": "Tfqj7tZdfTM", "title": "Gemini is Here - Is this the End of ChatGPT?" },
+    { "id": "ayw72SHkAKY", "title": "Top Apps I Use as a Data Analyst" },
+    { "id": "F1ILGTXKUQM", "title": "Microsoft Copilot - Excel has forever changed" },
+    { "id": "pGpr_08A7hs", "title": "I Built A Data Project WITHOUT Coding" },
+    { "id": "H0kb2jGXUuU", "title": "Gemini - Google's Competitor to ChatGPT" },
+    { "id": "s6g-Ki0iemI", "title": "ChatGPT for Data Analytics: Beginner Tutorial" },
+    { "id": "cOhGrBwZZqE", "title": "Python In Excel: Microsoft Changed EVERYTHING" }
+  ]
+}

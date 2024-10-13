@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "ChromeDevs",
+    "name": "Chrome for Developers",
+    "profile": "https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "m3klkLTN6fI", "title": "What's new in DevTools: Chrome 121-123" },
+    { "id": "tL-R9KzZA0s", "title": "4 ways to capture screenshots in Chrome DevTools #DevToolsTips" },
+    { "id": "faEgROVt8kI", "title": "How should publishers prepare for the Privacy Sandbox?" },
+    { "id": "Wy0HwUaEnnk", "title": "Deep dive into the Privacy Sandbox APIs for Publishers" },
+    { "id": "vwgihljM2e4", "title": "The Looper Mini Web Machine" },
+    { "id": "cv5uQ_hQVE0", "title": "From asm.js to Wasm with Emscripten creator Alon Zakai" },
+    { "id": "KxjGYcHZ_uI", "title": "Override and mock network responses #DevToolsTips" },
+    { "id": "cmtfM4emG5k", "title": "Optimizing INP: A deep dive" },
+    { "id": "5noL_qFobm0", "title": "Introduction | Unleash the power of Scroll-Driven Animations (1/10)" },
+    { "id": "6qpEOBkDr88", "title": "The Pile Mini Web Machine" },
+    { "id": "BIpz9Hdjm_A", "title": "Debugging speculative navigations for faster page loads #DevToolsTips" },
+    { "id": "t1c5tNPpXjs", "title": "Fun & powerful: Intro to Chrome DevTools #DevToolsTips" },
+    { "id": "ZFM4zpIC74o", "title": "Storage Buckets API #shorts" },
+    { "id": "jrMCjyUY4Ts", "title": "What are Private State Tokens?" },
+    { "id": "ZZtNA1GZ9zQ", "title": "Progressive Web Apps in multi origin sites" },
+    { "id": "rGqr2gc6Vow", "title": "What is Storage Access API?" },
+    { "id": "hCbSRNE4WUI", "title": "Thinking on ways to solve COMPARE components" },
+    { "id": "Ylr7A059sDg", "title": "Privacy Sandbox: Preparing for the end of 3rd-party cookies" },
+    { "id": "HB0ALd1K2Uc", "title": "What is the Protected Audience API?" },
+    { "id": "3wtz3-O8z7Y", "title": "Test your site without third-party cookies" },
+    { "id": "ElxCn_YzQ5w", "title": "Container queries #CSSWrapped" },
+    { "id": "0VZ4n8Ay5r4", "title": "text-wrap: balance & pretty #CSSWrapped2023" },
+    { "id": "EnQP6e7EzUs", "title": "What is the Topics API?" },
+    { "id": "YDnTjp38oaA", "title": "Desaturate a color #GUIsnippets" },
+    { "id": "rlzBrtbvMk4", "title": "Audit your site for third-party cookies" },
+    { "id": "Y2IVv5KnrmI", "title": "Debugging bfcache, make your page load instantly - DevTools Tips" },
+    { "id": "r2E3oVUoGCE", "title": "Chrome Extensions: WebExtensions and working together with Simeon Vincent" },
+    { "id": "1z_ViBjdnSw", "title": "Thinking on ways to solve RELATIVE COLORS" },
+    { "id": "0qL3OiTJbSc", "title": "How do I center a div?" },
+    { "id": "a3-Ga5ciQg8", "title": "Privacy Sandbox: Noise Lab" },
+    { "id": "Zu9CdbnS5ps", "title": "Setting up Workspaces" }, 
+    { "id": "m6T-Mq1BPXg", "title": "Introducing WebGPU: Unlocking modern GPU access for JavaScript" }, 
+    { "id": "CrSmjooOEiE", "title": "Whats New In DevTools: Debugging, testing and CSS (Chrome 110 - 112)" }, 
+    { "id": "eamAHF71ZN4", "title": "Thinking on ways to solve BASIC PHYSICS" }, 
+    { "id": "H89hKw06iWs", "title": "web.dev LIVE 2020: Day One" }, 
+    { "id": "cN9c_JyvL1A", "title": "C++ as a second language (Chrome University 2019)" }, 
+    { "id": "UNJrgsQXvCA", "title": "C++ Memory (Chrome University 2019)" }, 
+    { "id": "eDd6Y6Z50Mg", "title": "Optimise your code: load code at the right time" } 
+  ],
+  "playlists": [
+
+  ]
+}
+

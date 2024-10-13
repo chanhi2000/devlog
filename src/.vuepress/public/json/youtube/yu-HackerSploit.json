@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "HackerSploit",
+    "name": "HackerSploit",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOmxYY1a2txpmPqFTH3yEGE_71G5-DH9gdYrbO8Cw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-9kkugC12L9Bo4h00gYaE5o1Sq_HNRvLC9wL2qQAzCyeOcpzWcY_J6syMENMJDuRprTUDBomHQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6PrC4z4tPB0", "title": "ChatGPT For Cybersecurity" }, 
+    { "id": "U6xMp-MIEfA", "title": "Installing & Configuring Snort" }, 
+    { "id": "M1GpRWWRdC8", "title": "Linux Security - Securing Apache2" }, 
+    { "id": "-y_ObCrHB0g", "title": "Wireshark Display & Capture Filters" }, 
+    { "id": "a9eVf2uleaA", "title": "Decrypting HTTPS Traffic With Wireshark" }, 
+    { "id": "wH2kE527cwQ", "title": "Windows Red Team Credential Access Techniques | Mimikatz & WCE" }, 
+    { "id": "egqSNqNISz0", "title": "Securing The Docker Host" }, 
+    { "id": "MB7nQrlP5Yc", "title": "Apache2 ModSecurity Tutorial | Apache2 WAF" }, 
+    { "id": "KINjI1tlo2w", "title": "Docker Security Essentials | How To Secure Docker Containers" }, 
+    { "id": "-CzvPjZ9hp8", "title": "Linux Security - UFW Complete Guide (Uncomplicated Firewall)" }, 
+    { "id": "a5iQtVBYec4", "title": "TryHackMe - Basic Pentesting Walkthrough" }, 
+    { "id": "WvSEkPU1n0I", "title": "Introduction To Pentesting - Enumeration" }, 
+    { "id": "V0ncN90Nc9Q", "title": "OverTheWire Bandit Walkthrough - Level 7 - 11" }, 
+    { "id": "7kNDYaurgXA", "title": "Linux Essentials For Hackers - #12 - File Compression & Archiving With tar" }, 
+    { "id": "XvyVjAvZ41c", "title": "Linux Essentials For Hackers - #13 - Users And Groups & Permissions With Visudo" }, 
+    { "id": "MZKaUTKIGRg", "title": "Cybertalk - EP2 -  CEH vs CISSP, Cybersecurity Degrees & CTFs vs Penetration Tests" }, 
+    { "id": "u0RppDmw1So", "title": "Post Exploitation With Windows Credentials Editor (WCE) - Dump Windows Password Hashes" }, 
+    { "id": "HIyObPWM6BM", "title": "Imago Forensics - Image Forensics Tutorial" } 
+  ]
+}
+

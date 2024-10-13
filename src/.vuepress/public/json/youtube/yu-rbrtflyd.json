@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "rbrtflyd",
+    "name": "Robert Floyd",
+    "profile": "https://yt3.googleusercontent.com/Gvm0hVzVkjYkxZvAbfeV_l-MVW2F7L5yI35aX9bJikaMv0J9tgHGncaGXysJoDYZH2YbWfbX=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZN9Qk_jJjequVFzs_g8b4u5Tt6UupS33G4LPK4IRLQcGwgItJpMCv36VNRtk7YyYXDxfQtkiRQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vGoPnJ6CCnI", "title": "Building something new (Clinic) / Building In Public Ep 6" },
+    { "id": "8dem9cC7kZ0", "title": "Is simple EHR UX really better for doctors? / Building in Public Ep 8" },
+    { "id": "HsvFqYUuchc", "title": "Making Clinic interactive / Building in Public Ep 9" },
+    { "id": "EHzeiyNS4S8", "title": "Making Clinic interactive (reupload) / Building In Public Ep 9" }
+  ],
+  "playlists": [
+
+  ]
+}

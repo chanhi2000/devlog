@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "codewithryan",
+    "name": "Code With Ryan",
+    "profile": "https://yt3.googleusercontent.com/ImVxN2LFHfGncqDo4a74Ga_q3S-3zQ6CiyOq0u-0kJw25m_gRHUkI1zfN4UFv0TqmP2PA4kR=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Ry5L_8xQQsw", "title": "Will You Become a 10x Software Engineer with the Apple Vision Pro?" },
+    { "id": "ticb6hvtQ00", "title": "How to build a Vision Pro App (As a React Developer)" },
+    { "id": "t_10_g4FHao", "title": "Is It Worth $3500? Exploring Apple's visionOS" },
+    { "id": "ilrLQpWxP1M", "title": "Making an Angry AI Chat Bot with Node.js/OpenAI" },
+    { "id": "N3KhMOk_6HE", "title": "GTA3 Code Review: Weapons, Vehicles, Cops and Gangs" },
+    { "id": "_Im4_3Z1NxQ", "title": "Node.js is a serious thing now… (2023)" }
+  ]
+}
+
+

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "TinaHuang1",
+    "name": "Tina Huang",
+    "profile": "https://yt3.googleusercontent.com/QMaMXCtmRUXUuIWb6sUMLi_ulWNCxPuVnu3I-3IkT1YCJs6XzcxKoOFrzx_WjVW65S46S_pTRQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AIKQ41HHU_c4t6WVZk-oy_lFVKSmEO-fvDDeNuV_STOikAy20vBPpoatk28DWICZPOYelxnc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jo1YO_CXTa4", "title": "Gemini Ultra Expectations vs. Reality" },
+    { "id": "v9zOpJIBci8", "title": "🐙 Lunch & Learn: Intro to Open Source Models" },
+    { "id": "Kbzr7p2cIbk", "title": "🐙 Lunch & Learn: Let’s talk about NVIDIA GTC (It was wild!)" },
+    { "id": "X_P8xsiSB90", "title": "The Most Important (not hype) AI Trends In 2024" },
+    { "id": "xI8Fklnrg1E", "title": "🐙 Lunch & Learn: AI Influencers, Robot Bees, & Other Cool AI Things" },
+    { "id": "vdwz29LyiQg", "title": "🐙 Lunch & Learn: How To Create Content FAST with AI" },
+    { "id": "RuOvjqgkHOk", "title": "🐙 Lunch & Learn: Things to Learn in 2024" },
+    { "id": "R4-usFLsU0M", "title": "Let's Test Gemini Pro (honest comparison with GPT-3.5 & GPT-4)" },
+    { "id": "Dy6aIlsRQqo", "title": "🐙 Lunch & Learn: LLM & Prompting 101" },
+    { "id": "IBgiqiBhYjU", "title": "🐙 Lunch & Learn: Learn To Use Assistants API" },
+    { "id": "VznoKyh6AXs", "title": "How to learn to code FAST using ChatGPT (it's a game changer seriously)" }
+  ]
+}

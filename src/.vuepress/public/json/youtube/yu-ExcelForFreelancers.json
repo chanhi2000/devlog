@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "ExcelForFreelancers",
+    "name": "Excel For Freelancers",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKakDx9dNN2AioQe2xkkhhISmPXX0lgu8uzfxsL2XA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IQF3bKdd02GsGl-tSj4V7cmsG9Al2AXsiR8iL9UoRGZDvDZBmBBLV5zlHzFTWoqjSQltXWhGww=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V11uDrUYUPw", "title": "Learn How To Use Twilio to Send Unlimited SMS & Text Messages From Excel To Anyone [Free Download]" }
+  ]
+}

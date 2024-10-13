@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ProtonPenguin",
+    "name": "ProtonPenguin",
+    "profile": "https://yt3.googleusercontent.com/zmU-YBHeKkjegs1NyL76Dhsm5uGPyxEtv-ElkIp15Fz0jKeKDxwNDhKA9-jrXNkk04ej2pp8O3M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EH3tenVGk60", "title": "Your Private GitHub Repos Aren't as Private as You Think" },
+    { "id": "yJ9Ptg38eXc", "title": "FOSS and User Interfaces: LibreOffice vs. Google Slides" },
+    { "id": "w0VMkE1toYg", "title": "Apt 3.0 looks GREAT" },
+    { "id": "qqFPrLpIWG8", "title": "Debian Maintainer Removes KEY Features of KeepassXC Package" }
+  ],
+  "playlists": [
+
+  ]
+}

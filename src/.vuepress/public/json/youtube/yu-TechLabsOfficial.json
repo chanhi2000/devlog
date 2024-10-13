@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "TechLabsOfficial",
+    "name": "Tech Labs",
+    "profile": "https://yt3.googleusercontent.com/xmVeweYvNzCBmMS39j1DP5s9meM_pTNkRL1l7fV_kPed_rEnZcZ3tsubo3P0MC0mdDbUnRQk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2y8nx1arV_z0bKRjzlhNF_geS6sokDLjPwDZugxfBh8-uL8PeSYau3Phg9to5pbdfB2F_v9OuA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Qa6VZsyVP_o", "title": "Windows 11 Vibrant Edition" },
+    { "id": "7aipqLzjKZs", "title": "Windows 11: The Ultimate Neon Edition" },
+    { "id": "4ljM6gWyCW0", "title": "Frosted Glass Theme for Windows 11" },
+    { "id": "bDgSOFki3y0", "title": "How To Enable Acrylic File Explorer" },
+    { "id": "iEi1ojGBYYo", "title": "How To Boot to BIOS From Windows" },
+    { "id": "JL5dbIBnmYA", "title": "How To Update Dell EMC SSD Firmware" },
+    { "id": "2VJLw-18j_k", "title": "Windows 11 Nexus Edition - The Complete Dark Mode Experience" },
+    { "id": "DbP27EmGF1w", "title": "How To Install Linuxfx RedSand 11 Plasma LTS | Run Windows 11 and Android Apps together" },
+    { "id": "aV6GnAk33nU", "title": "How To Automate Windows Backup, Sync Files, Folders & More With Shadow Maker" }, 
+    { "id": "TE_6lAG1hMk", "title": "How To Enable macOS Quicklook Feature On Windows" }, 
+    { "id": "x6fZcFIT82c", "title": "How To Install macOS Monterey On PC | Hackintosh | Step By Step Guide" }, 
+    { "id": "HJIqOV-u-zc", "title": "How To Enable Brightness Control On External Monitor In macOS" }, 
+    { "id": "yPiVDuLJEuk", "title": "How To Install macOS Big Sur On PC Using Linux | Hackintosh | No Mac Required | Step By Step" }, 
+    { "id": "A1kH74gp2CA", "title": "How To Fix Intel HD Graphics 4000 on macOS Big Sur | Hackintosh | Ivy Bridge" }, 
+    { "id": "6QD4xzpwjtE", "title": "How to Enable Chime Sound on Hackintosh | macOS Big Sur" }, 
+    { "id": "qhbTWcSXtgs", "title": "How to Fix Intel HD Graphics 615, 620, 630, 640 and 650 On macOS Big Sur | Hackintosh | Step By Step" }, 
+    { "id": "Ef4XFmapFcA", "title": "HiPDF for Desktop - The Best Tool for your all PDF needs" }, 
+    { "id": "HMU3nhcbWHw", "title": "How to install macOS Big Sur (Beta) using Restore Method on PC | Hackintosh | Step By Step Guide" }, 
+    { "id": "ECttTS1BnWc", "title": "How To Install New Paint App With Dark Theme On Windows 11" }, 
+    { "id": "Sl1rJPyBxss", "title": "How To Install Dev Home On Windows 11" }
+  ]
+}

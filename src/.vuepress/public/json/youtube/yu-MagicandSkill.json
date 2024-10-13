@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Magicandskill",
+    "name": "Pythonic Magic and Skill",
+    "profile": "https://yt3.googleusercontent.com/1T5wF0VEjWXINsAAhS3xK_CDH1rcMrC3BmYZLkGMGlXzUnuJxgmdNjgP6qzACSjym6g5xRG4nQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n9esNbGm1p9IHLKG3TYa5F2_STudi5rlL74RdCDQbvAQwf3RHSR4z4KrUn4xHeBRbj2jCbWEYjE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eAJadIYC4TM", "title": "A Pro Programmer Move: Hands-on Practice (Closure in Python)" },
+    { "id": "3tVL9veY_nI", "title": "2 Pro Programmer Moves Combined (Closure + Currying in Python)" },
+    { "id": "KINDgCDKP14", "title": "Python's Default Parameter with Mutable Object (Don't use it)" },
+    { "id": "N5NKVCC1v2w", "title": "Begin Django Web Development (Python tutorial)" },
+    { "id": "fiugJ8FfYOk", "title": "Use the OpenAI GPT API to make an AI Chatbot  (Python tutorial)" },
+    { "id": "nftMAclfeMM", "title": "Use the Google Gemini API to make an AI chatbot (Python tutorial)" },
+    { "id": "_at39-6ZXfI", "title": "Object-Oriented Modeling (in Python)" },
+    { "id": "S6UP-4sUtTk", "title": "A Pro Programmer Move (Closure in Python)" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "danieltalkscode",
+    "name": "Daniel Talks Code",
+    "profile": "https://yt3.googleusercontent.com/kpAjtBncEyVaCWRTwxvP0JJ8LlT58NQ6qtJam9-XphCEaW77qdyWHi8ShBHsV8twiIiF-uS3Yo0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2jR4D64iFEth8bCxaFsKHcOYwtjwJz7f1ety8NKLGkQFnOOL2mDpucuWELVz0a8_Rp-DMbouSJ4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n1zTN2AroNI", "title": "Let's build a Workout App - P1" },
+    { "id": "GiSuf9vReJ8", "title": "First Live Stream! Workout App - P1" },
+    { "id": "d8FrwMZs74s", "title": "Overview of Android Automated Testing" },
+    { "id": "O8lBbmAj5Ac", "title": "Android Unit Testing for Beginners - Android Testing Part 2" },
+    { "id": "_bEfTbAxRHA", "title": "Quick start guide to writing Espresso UI tests on Android - Android Testing Part 4" },
+    { "id": "F5sj_PFzzx0", "title": "Retrofit Android Tutorial for Beginners with Kotlin" },
+    { "id": "fkw1-nYSnhE", "title": "Let's build an AudioConverter to learn Coroutines" }
+  ]
+}

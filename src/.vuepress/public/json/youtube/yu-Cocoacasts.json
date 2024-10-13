@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Cocoacasts",
+    "name": "Cocoacasts",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN4rYB2KCRrL67R2r_PFquzV0Y-4OCnaGkwI4Dt=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gJOegkb-qGqR_W8V5pIRxj4s9VCJZgSvDgGwer1zZGLoe_5SFeYgO3MtEg5qizu3uvpzNj0JLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5luBGXXQ-6g", "title": "Debugging Apps with Xcode 15: Managing and Editing Breakpoints" },
+    { "id": "KZSw8fI0iFs", "title": "Debugging Apps with Xcode 15: Symbolic Breakpoints" },
+    { "id": "u2GoZl7iotg", "title": "Debugging Apps with Xcode 15: Stepping through Code With Breakpoints" },
+    { "id": "seDhzKyXr0g", "title": "Debugging Apps with Xcode 15: Exploring Xcode's Debugging Tools" },
+    { "id": "wYldJF-8fWA", "title": "Debugging Apps with Xcode 15: Debugging with Breakpoints" },
+    { "id": "9r6n9J64wyk", "title": "How to Set Up In-App Purchases with RevenueCat" }, 
+    { "id": "t1_MtL9sRro", "title": "Building a Modern Networking Layer in Swift: Creating an API Client" }, 
+    { "id": "DtQ_IhSQT5M", "title": "Understanding Swift Memory Management: What Is Automatic Reference Counting (ARC)" }
+  ]
+}

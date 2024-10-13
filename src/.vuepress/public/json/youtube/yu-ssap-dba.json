@@ -1,0 +1,120 @@
+{
+  "channel": {
+    "id": "ssap-dba",
+    "name": "쌉DBA",
+    "profile": "https://yt3.googleusercontent.com/TqopPxsZhuqAhJ6T_w6klB-TV65DRllDcNzakR81Z92PRfxa0nE0ZNf8TOEHIUX24UcUVfbJuQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-YGdX6fT3R2paQngKFyRe0VX74f24_JQG-MtHXxPVqAKzKyP7554ARzUpnnvL9aIOv9aap3z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZyvhbUrGhS4", "title": "RMAN 을 이용한 Oracle DB 복제 (Clone DB 생성) 실습" },
+    { "id": "L_Gw4jvkJR4", "title": "Datapump expdp, impdp 사용법" },
+    { "id": "oasLJ45UTeY", "title": "RMAN 을 이용한 Oracle DB 복제 실습2 (Active Duplication)" },
+    { "id": "L3MZMrsaejg", "title": "Oracle Restart 설치 실습 (ASMFD 로 asm 스토리지 구성)" },
+    { "id": "-hrPuILUMu8", "title": "ASM 스토리지 구성시 asmlib, udev, ASMFD 간 차이점 및 applyRU 방법" },
+    { "id": "5y31jUxgxu4", "title": "코린이들을 위한 코인가격 쉽게 확인하는 방법" },
+    { "id": "saT0EOzEwG8", "title": "Oracle 23c 신기능 - DDL with if not exists 구문" },
+    { "id": "q5O_l5EaJD0", "title": "Oracle 23c 신기능 - from 절 없는 select 구문, multiple data insert" },
+    { "id": "sXBrE5Mo_gw", "title": "지금은 코인 불장, 비트코인 10억 가는 이유 요약" },
+    { "id": "1WsL2dHlJbM", "title": "Oracle 23c 신기능 -  Ubiquitous Search Index 소개" },
+    { "id": "ctASA9suLV4", "title": "Oracle Hang 장애시 DBA들이 반드시 해야하는 Systemstate Dump" },
+    { "id": "S7eWjty0lXg", "title": "(팁) 버츄얼박스 네트워크이 갑자기 안되는 경우의 팁" },
+    { "id": "mHi1T2OVBUM", "title": "Oracle Patchset, RU, RUR 차이점과 다운로드 받는 방법" },
+    { "id": "0vJ_8eLOzOc", "title": "Oracle Database RU 패치하는 방법 실습" },
+    { "id": "yQLYpB7p3hA", "title": "VirtualBox 에 Oracle Linux 8.7 설치, 외부에서 게스트서버 접속" }
+  ],
+  "playlists": [
+    {
+      "title": "초보 DBA 를 위한 이것저것",
+      "videos": [
+        { "id": "79cfNIPu0e4", "title" :"초보 DBA 들을 위한 Oracle DB서버 메모리, 프로세서 구조 설명" },
+        { "id": "MdGhppGpJLY", "title" :"초보 DBA를 위한 Tablespace 공간확장 및 전반에 대한 이해" },
+        { "id": "peiK8sQ5Mjk", "title" :"초보 DBA를 위한 세그먼트와 오브젝트 설명" },
+        { "id": "revEL6hfxAI", "title" :"초보 DBA를 위한 파싱 Parsing, 실행계획 Execution Plan" },
+        { "id": "XMA7IGODoak", "title" :"초보 DBA를 위한 병렬처리 Parallel Processing 설명" },
+        { "id": "2l-LRUh-mNk", "title" :"초보 DBA를 위한 Undo, Redolog, Archive log 설명" },
+        { "id": "EtapBX6XA34", "title" :"초보 DBA를 위한 Optimizer 와 힌트Hint" },
+        { "id": "Xkkd27own_s", "title" :"SQL Developer 를 활용한 long, clob, blob, securefile 타입 조작" },
+        { "id": "0vNScuW1z_o", "title" :"초보 DBA를 위한 멀티테넌트(Multi tenant) 개념 설명" },
+        { "id": "pIjSR_Dbimk", "title" :"ADG vs CDC vs ETL 차이점, 개념 설명" },
+        { "id": "F-ImeE2VVSA", "title" :"초보 DBA를 위한 시퀀스(Sequence) 설명" },
+        { "id": "B_CWqOXz0wc", "title" :"초보 DBA를 위한 디렉토리(Directory) 개념" },
+        { "id": "qSY0tFyBdjw", "title" :"Direct Path Read,Write vs Conventional Path 비교 설명" },
+        { "id": "KhsIth_WZAU", "title" :"대용량 테이블 작업시 Nologging vs Unrecoverable" },
+        { "id": "f0XRVu5lwLo", "title" :"초보 Oracle 개발자를 위한 SQL 기초 실습 (무료 실습도구 Live SQL 이용)" },
+        { "id": "8e5xLrpkQec", "title" :"초보 DBA를 위한 Block, Extent, PCTFREE, PCTUSED 개념" },
+        { "id": "USc14nfUZHo", "title" :"RAC 주요커맨드 crsctl, srvctl 사용법" },
+        { "id": "WRvcxIdVK7M", "title" :"오라클 자바 JDBC 프로그램 실습 #1 (초간단 심플 버전)" },
+        { "id": "W5_RzlPVy58", "title" :"스키마, 권한, 롤, DB Link 설명" }
+      ]
+    }, {
+      "title": "백업/복구 강좌",
+      "videos": [
+        { "id": "1UhRmoTqSfE", "title": "DB 백업, 복구 유틸리티 RMAN 에 대한 개괄적인 설명" },
+        { "id": "FSCCTQwJZ2Q", "title": "RMAN 불완전 복구 (과거 특정 시점으로의 복구) 실습" },
+        { "id": "-qRp6PpdtQs", "title": "Noarchive 모드 DB 에서 RMAN 백업 및 복구 실습" },
+        { "id": "Qbt3jRPYzXM", "title": "RMAN Tablespace 단위 복구 실습 (헉;; 우째 되는게 하나도 없누^^)" },
+        { "id": "UhgUzFlgZXs", "title": "멀티테넌트 PDB RMAN 백업,복구 실습" }
+      ]
+    }, {
+      "title": "오라클 RAC 강좌",
+      "videos": [
+        { "id": "2JoXfMy_WE0", "title": "1  Oracle RAC 구조 설명, ip체계, crs 로그 등" },
+        { "id": "q0F510JLS_Y", "title": "2  Oracle RAC 인터커넥트, Split Brain 설명" },
+        { "id": "dornIE_FcCA", "title": "3  Oracle RAC ASM 스토리지 asmcmd" },
+        { "id": "qHc08K4jD8U", "title": "4  Oracle RAC 캐시퓨전, gc 이벤트 설명" },
+        { "id": "wqlB72idJWM", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 1 (버츄얼박스에 Oracle Linux 8 설치)" },
+        { "id": "BHa5iMSYvNs", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 2 (ASM 공유스토리지 생성)" },
+        { "id": "Z09XJ_CmwPA", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 3 (Grid Infrastructure 설치)" },
+        { "id": "EXMs4M03aTM", "title": "리눅스 가상머신에 Oracle RAC DB 21c 설치 4 (RAC SW설치 및 DB 생성)" },
+        { "id": "7VjC4x7KEJw", "title": "Oracle RAC 구성 점검 항목 설명" },
+        { "id": "9DvTAtGGwIg", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 1 (버츄얼박스에 Oracle Linux 7 설치)" },
+        { "id": "8W7ZF3WBbfI", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 2 (ASM 공유스토리지 생성)" },
+        { "id": "2T3XxG50pLs", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 3 (Grid Infrastructure 설치)" },
+        { "id": "hXAnwSyb5WM", "title": "리눅스 가상머신에 Oracle RAC DB 19c 설치 4 (RAC DB SW설치 및 DB 생성)" },
+        { "id": "H3xy_1o_WRg", "title": "오라클 클러스터 파일시스템 ACFS 생성 방법" },
+        { "id": "USc14nfUZHo", "title": "RAC 주요커맨드 crsctl, srvctl 사용법" },
+        { "id": "C_e-c2xlzLA", "title": "Oracle RAC 서비스IP 중에 vip의 용도는" },
+        { "id": "nEdHN4UXsyM", "title": "CTF, TAF, TAC 비교 차이점 설명" }
+      ]
+    }, {
+      "title": "프로그래밍, IT",
+      "videos": [
+        { "id": "TN8RN-YK_D0", "title": "오라클 자바 JDBC 프로그램 실습 #2 (UCP 커넥션풀 사용)" },
+        { "id": "WRvcxIdVK7M", "title": "오라클 자바 JDBC 프로그램 실습 #1 (초간단 심플 버전)" },
+        { "id": "L22YWlWOpNY", "title": "넷빈즈 자바팁   JLabel Gif 이미지 겹쳐서 보이는 방법" },
+        { "id": "CWcVk050cK0", "title": "VirtualBox 에 Oracle Linux 7.9 설치, 외부에서 게스트서버 접속" },
+        { "id": "kxiZTZZY0A8", "title": "우분투 Linux Server 에 Oracle Database 19c, 21c 설치하는 방법" },
+        { "id": "yhmPr44y31E", "title": "우분투 Linux Server Gnome 데스크탑 GUI 설치, VB 게스트확장 설치" },
+        { "id": "zI6dHqrNRKs", "title": "VirtualBox 에 Ubuntu Linux Server 22.04 설치, 외부에서 게스트서버 접속" },
+        { "id": "l61EySpySJU", "title": "Oracle Linux 부팅시 초기 커널선택화면 변경방법 grubby" },
+        { "id": "NLZyxE9g8As", "title": "넷빈즈 자바로 MS Access DB 접속하는 간단 샘플 프로그램" },
+        { "id": "z6O1snex7f8", "title": "넷빈즈 자바팁   탭기능Tabbed Pane 사용하는 방법" },
+        { "id": "hFwdWUtBMMI", "title": "넷빈즈 자바팁   윈도우즈JFrame 아이콘 이미지 바꾸기 팁" },
+        { "id": "klPsnlk3Tp0", "title": "넷빈즈 자바 프로그램 만들기   아날로그 시계 간단예제" },
+        { "id": "L8lZ_42UKsE", "title": "파워포인트 시작시 초기화면 없애는 방법" },
+        { "id": "fVRXmNve-cs", "title": "Windows10 에서 ssh, scp, sftp, telnet 이용하기" },
+        { "id": "nAimPR5NJhk", "title": "Java Swing, FX 프로그램, Python, Visual Basic 장단점 비교" },
+        { "id": "8Bn3OWDnuGE", "title": "넷빈즈 자바 프로그램 만들기   Bouncing Ball 간단예제" },
+        { "id": "a8DVAvBWlKk", "title": "넷빈즈 자바 프로그램 만들기   Oracle Tablespace 여유공간 체크" },
+        { "id": "M0y4s1jprFs", "title": "윈도우즈10 공간확보 팁, 쓰레기 파일 삭제" },
+        { "id": "AUTi7GLpGFE", "title": "넷빈즈 자바로 Oracle DB 접속하는 간단 프로그램1" },
+        { "id": "HLlPeFxplmA", "title": "윈도우즈에서 bash, tail, vi, df, find 커맨드 등을 이용할 수 있는 Git bash" },
+        { "id": "LLvNpi5AxeI", "title": "Windows10 사용자계정(로그인계정) 이름 변경하는 방법" },
+        { "id": "2RL_8iY8VG0", "title": "VirtualBox 에 윈도우즈10 설치, 랜섬웨어 방지" }
+      ]
+    }, {
+      "title": "Java Swing (넷빈즈) 프로그램 강좌",
+      "videos": [
+        { "id": "AUTi7GLpGFE", "title": "넷빈즈 자바로 Oracle DB 접속하는 간단 프로그램1" },
+        { "id": "a8DVAvBWlKk", "title": "넷빈즈 자바 프로그램 만들기   Oracle Tablespace 여유공간 체크" },
+        { "id": "8Bn3OWDnuGE", "title": "넷빈즈 자바 프로그램 만들기   Bouncing Ball 간단예제" },
+        { "id": "nAimPR5NJhk", "title": "Java Swing, FX 프로그램, Python, Visual Basic 장단점 비교" },
+        { "id": "klPsnlk3Tp0", "title": "넷빈즈 자바 프로그램 만들기   아날로그 시계 간단예제" },
+        { "id": "hFwdWUtBMMI", "title": "넷빈즈 자바팁   윈도우즈JFrame 아이콘 이미지 바꾸기 팁" },
+        { "id": "z6O1snex7f8", "title": "넷빈즈 자바팁   탭기능Tabbed Pane 사용하는 방법" },
+        { "id": "NLZyxE9g8As", "title": "넷빈즈 자바로 MS Access DB 접속하는 간단 샘플 프로그램" },
+        { "id": "L22YWlWOpNY", "title": "넷빈즈 자바팁   JLabel Gif 이미지 겹쳐서 보이는 방법" }
+      ]
+    }
+  ]
+}

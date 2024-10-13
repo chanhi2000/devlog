@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "csezsw",
+    "name": "ezsw",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbg-X9lDkQfGh9WvMbFnSVLwdExZwBkEfwpCIxX=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hfLltUhJHKYO6Yoe4hHW3AD9vNmOOftNht1N1Wo1a_VDaldrRD08Z0TYyIAbmPXVXq3ggnci=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4B6tDyIz694", "title": "카카오 코딩 테스트 - 파괴되지 않은 건물 (Python 풀이)" },
+    { "id": "HQD39nehBLQ", "title": "카카오 코딩 테스트 - 파괴되지 않은 건물 (Java 풀이)" },
+    { "id": "siFY6UBHNgU", "title": "카카오 코딩 테스트 - 파괴되지 않은 건물 (C++ 풀이)" },
+    { "id": "1RocXJk-CVs", "title": "카카오 코딩 테스트 - 사라지는 발판 (Python 풀이)" },
+    { "id": "ziWZig-rWc8", "title": "카카오 코딩 테스트 - 사라지는 발판 (Java 풀이)" },
+    { "id": "_2qhiHNP2_w", "title": "카카오 코딩 테스트 - 사라지는 발판 (C++ 풀이)" },
+    { "id": "6isK1fnoFKo", "title": "카카오 코딩 테스트 - 개인정보 수집 유효기간 (Python 풀이)" },
+    { "id": "HwUDSfedmrw", "title": "카카오 코딩 테스트 - 개인정보 수집 유효기간 (Java 풀이)" },
+    { "id": "-2rgB_45vkc", "title": "카카오 코딩 테스트 - 개인정보 수집 유효기간 (C++ 풀이)" },
+    { "id": "lzT97-5Cpg8", "title": "카카오 코딩 테스트 - 택배 배달과 수거하기 (Python 풀이)" },
+    { "id": "nfYWtrOGtjo", "title": "카카오 코딩 테스트 - 택배 배달과 수거하기 (Java 풀이)" },
+    { "id": "q0FRjypDJT4", "title": "카카오 코딩 테스트 - 택배 배달과 수거하기 (C++ 풀이)" },
+    { "id": "QleeV_ipB7w", "title": "Java 다익스트라(Dijkstra)" },
+    { "id": "K6ZpR22qF1M", "title": "카카오 코딩 테스트 - 길 찾기 게임 (Python 풀이)" },
+    { "id": "2iMJclnfQfU", "title": "카카오 코딩 테스트 - 합승 택시 요금 (Python 풀이)" },
+    { "id": "HFnyxCQe_2g", "title": "카카오 코딩 테스트 - 문자열 압축 (Java 풀이)" },
+    { "id": "4RPBqw_x4pc", "title": "Python 다익스트라(Dijkstra)" }
+  ]
+}

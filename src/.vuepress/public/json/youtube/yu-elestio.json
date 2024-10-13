@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "elestio",
+    "name": "Elestio",
+    "profile": "https://yt3.googleusercontent.com/GSuc2-PmQRvKWqMw7Vq5chiI1Vw-Y-yY-QCmBUEWC6aah7fUq1fGOUmHf6BxNwyZEX92bS-b7w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HVtaN4b3vw9X-BqabPYpbrM9GB-2nafpwQY2pSxZL8WwLIz8KThwb3FZ6ELjoUyeMOQ6RAe7Pg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "U9yj2fAv-gg", "title": "Documenso: Free Open-source Document Signing Platform" },
+    { "id": "FUuMQbIXULc", "title": "Hi.Events: Best Free Open-source Platform to Sell Tickets Online" },
+    { "id": "s-zJhqQ1Eys", "title": "AnythingLLM: Free Open-source AI Documents Platform" },
+    { "id": "gKBcqdT1B4M", "title": "Chatwoot: Free Open-source Support Center Platform" },
+    { "id": "aDJWiTiejm8", "title": "Zitadel: Free Open-source Identity Infrastructure Platform" },
+    { "id": "SnrShIaVTIw", "title": "FrappeHR: Free Open-source ERP, HR & Payroll Platform" },
+    { "id": "1mJvGAf2Uc4", "title": "ComfyUI: Free Open-source Stable Diffusion GUI" },
+    { "id": "cNxF2EjxfH0", "title": "Moodle: Free Open-source Learning Management System (LMS)" },
+    { "id": "P_cvE42_SJQ", "title": "Tolgee: Free Open-source Collaborative i18n Translation Platform" },
+    { "id": "oxwFatEqTsc", "title": "Snipe-IT: Free Open-source IT Asset Management Platform" },
+    { "id": "hlHZbj87ntw", "title": "StirlingPDF: Free Open-source PDF Tools & API #opensource #pdf  #freesoftware" },
+    { "id": "E3yowWCDC9c", "title": "Mattermost: Free Open-source Alternative to Slack" },
+    { "id": "Y5CRSygtg2o", "title": "Gophish: Free Open-source Phishing Framework" },
+    { "id": "DEXjtqdQcH0", "title": "Penpot: Free Open-source Alternative to Figma & AdobeXD" },
+    { "id": "t1X74BQs6xI", "title": "Wger: Free Open-source Workout Manager" },
+    { "id": "XYk5dYlI7K4", "title": "5 Free Open Source Tools Every Developer Should Know #opensource #developertools" },
+    { "id": "GyIz9BnTexY", "title": "Dify: Free Open-source LLM AI Chatbots Builder Platform" },
+    { "id": "mb7VCnWGspE", "title": "5 Free Open Source Tools Every Entrepreneur Should Know" },
+    { "id": "CbRyq7LChXo", "title": "StirlingPDF: Free Open-source PDF Tools & API" },
+    { "id": "n4OiVp-NWMo", "title": "Twenty: Free Open Source CRM" },
+    { "id": "7nwdkWZdvCM", "title": "MiroTalk: Free Open Source Video Conference Platform" },
+    { "id": "P2p8Vze_1HE", "title": "SigLens: Free Open Source Log Management Platform" },
+    { "id": "U9ireahK2Q0", "title": "OpnForm: Free Open Source No-Code Form Builder" },
+    { "id": "nwEHSp1A_WU", "title": "ToolJet: Free Open-source Low-Code App Builder" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "NathanStocks",
+    "name": "Nathan Stocks",
+    "profile": "https://yt3.googleusercontent.com/kBfvXyhmiHmb9s029idZ9XJyOEkiZzOCVpS_zD0o3a1AJLT1lcRfioosAevqbA0aVJSm9eWEqpk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "A6NJfq5pPaw", "title": "Rust 1.77.0: 70 highlights in 30 minutes" },
+    { "id": "VoPbpn4u93I", "title": "Rust 1.78.0: Last Rust News Video...ever?" },
+    { "id": "gcB86MA9tuY", "title": "Rust 1.76.0: 73 highlights in 24 minutes" }
+  ]
+}

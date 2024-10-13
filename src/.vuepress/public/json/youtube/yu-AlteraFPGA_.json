@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "AlteraFPGA_",
+    "name": "Altera",
+    "profile": "https://yt3.googleusercontent.com/e4PXf_qeRoUrLlVsZJ5669tgS-rbtvIpIrAPc1-VPZ_qczZJnee_8Uiu-w9Y1sJGCbGv3QFrXw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/X3JcX10a_Mv7Rb6FYr9K9qQV1YGrgMY_cdVdiPbJ0qp-LTTgLodMWCy3UrYUDJ-IHik9Rr7h=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yMV7QriE05k", "title": "Nios® II から Nios® V プロセッサーへの移行" },
+    { "id": "ek4gG9f3kd4", "title": "Intel Agilex® 5 FPGA GTS トランシーバーの基本" },
+    { "id": "2jSDd9Ezh8E", "title": "Software Flow for Intel Agilex® 5 SoC FPGA" },
+    { "id": "BrfwvLqxpPk", "title": "Introduction to Intel Agilex® 5 FPGA DSP with AI Tensor Block" },
+    { "id": "irknxT0eFQQ", "title": "Intel Agilex® 5 FPGA GTS Transceiver Basics​" },
+    { "id": "o45wZZJeNrM", "title": "Cyclone® V to Intel Agilex® 5 FPGA Migration" },
+    { "id": "TmyqIS1koYk", "title": "Zynq UltraScale+* AMD* FPGA to Agilex™ 5 Conversion Guide" },
+    { "id": "M586HdaIkDg", "title": "Pre-Compiled Components (PCC) Flow" },
+    { "id": "Q82tKgOu0AU", "title": "Signal Tap: Simulation Aware Debugging" },
+    { "id": "LScCDpKavyw", "title": "AI Tensor ブロックを使用する Intel Agilex 5 FPGA DSPの概要" },
+    { "id": "kceY84fx0N0", "title": "Nios® V Soft Processors for Altera® FPGAs \"Ask an Expert\" April 30, 2024" },
+    { "id": "AbF5B0QujxA", "title": "Altera FPGA with USB 3.2 for High-Speed Data Ingest from 4K Camera" },
+    { "id": "vGxdyk_yHiM", "title": "Intel® Simics® Simulator for Intel® FPGAs Hardware Inspection" },
+    { "id": "Mb34D4f5tc8", "title": "We are Altera. We are for the innovators." },
+    { "id": "Z95genQbfXs", "title": "Using oneAPI with FPGAs" }
+  ]
+}

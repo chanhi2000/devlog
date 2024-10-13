@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "GavinLon",
+    "name": "Gavin Lon",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaDJ4R6sxqj1bQ1uUvEJEnfnDPMJS6w7heJllYq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DFJINhWNmxIoZYzNjwXeDvDLAaFAKRMrPjQmitnweRE2IZbJPL3jJT1_mBTeMI7VqQI4InlYSA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Dzl044xDeSI", "title": "Ten Amazing Blazor Features You Must Know" },
+    { "id": "SNEd1F7tPoQ", "title": "Java is Declining and C# is Gaining - How Do We know??" },
+    { "id": "oTvg8vWCiKk", "title": "How to Become a Highly Employable C# Developer in 2024" },
+    { "id": "VpqMJijIYQ4", "title": "Is C# Better than JavaScript?" },
+    { "id": "rJDlSYbIL4U", "title": "Is Blazor Better than Angular?" },
+    { "id": "jLzDL77R4ik", "title": "Blazor WebAssembly, Web API and .NET 8 - Let’s create an application using Visual Studio Code" },
+    { "id": "VWwZrDA8om0", "title": "Blazor on .NET 8 - Ten Reasons why Blazor on .NET 8 is a Game Changer" },
+    { "id": "rab_1cFQUF4", "title": "C# and Visual Studio Code Beginners Guide" },
+    { "id": "w471kefKdRc", "title": "Visual Studio Code, .NET 8, Blazor and C# Dev Kit - Create a Basic Application - Beginner Friendly" }
+  ]
+}

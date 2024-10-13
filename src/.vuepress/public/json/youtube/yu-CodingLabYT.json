@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "CodingLabYT",
+    "name": "CodingLab",
+    "profile": "https://yt3.googleusercontent.com/uITV5E7auiZMDD_BwhVRJMHXXY6qQc0GqBgVyP5LWYTmeRlUP2Dc945UlIbODvztd96ReOts=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Et1V6E0Cx7-P6yk0mkxMy3xobzXd0pa15aSxGBFpLNTM-Fd6ev5EhUIfY6Iy5NV6wQf7PBNd=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gUxIzo3gj-g", "title": "Responsive Portfolio Website using HTML CSS And JavaScript" }
+  ]
+}

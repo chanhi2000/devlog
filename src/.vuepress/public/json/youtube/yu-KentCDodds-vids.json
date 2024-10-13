@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "KentCDodds-vids",
+    "name": "Kent C. Dodds",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPq3xQMUb5OOsvnoCOkYnSDfE0Bb5l58fwwc4BD4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3eTgCpcxxbtLDyfJfCselmzJczBsPIOXBTiKIhBWEMtd8EMk37PG8q5GDShRkCMKXc3QyN8etw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PLhcJkmrs-E", "title": "User Experience and Web Development with Ryan Florence" },
+    { "id": "liHmU3iII0Q", "title": "The Web and Design Systems with Michael Chan" },
+    { "id": "MSsoDojblfE", "title": "Deep in Databases and Full Stack Dev with Tyler Benfield" },
+    { "id": "unxBQtjUKNA", "title": "Design the React component library" },
+    { "id": "lYNa6Ct4RkY", "title": "James Henry shows Kent how to use nx release" },
+    { "id": "b4TqL_Yar90", "title": "EpicWeb.dev Live stream: Organizing the Workshop App" },
+    { "id": "YfOBfLsjWX0", "title": "Mocking in the full stack metaframework Era" },
+    { "id": "cA04rbqdp1c", "title": "Exploring the Power of CSS Custom Properties with Adam Argyle" },
+    { "id": "qkwD4-jXxfU", "title": "Introducing Season 5 of Chats with Kent" },
+    { "id": "RpjiDnqfKNk", "title": "Reinventing API Design, Testing, and Mocking: An Interview with Artem Zakharchenko" },
+    { "id": "LDWqrAZg6S0", "title": "Journey into Web Development and Remix with Lina Mahrouch" },
+    { "id": "kDsObrQw68A", "title": "KCD Office Hours 2024-02-22" },
+    { "id": "IEnBkmLjJ9c", "title": "AI in Web Development with Scott Hanselman" },
+    { "id": "1SFma1PrxD4", "title": "Harnessing the Power of AI in Web Development with Barry McGee" },
+    { "id": "gQh5IT7vTFo", "title": "SEO Optimization and Hosting" },
+    { "id": "v5PTQc1xAIA", "title": "Building Community and Innovation in Web Development with Kent C. Dodds" },
+    { "id": "_cXxEhkMvEE", "title": "Web Accessibility and the Future of Remote Work with Sandrina Pereira" },
+    { "id": "weqaVbNvC5s", "title": "Generating CSS with Remix Resource Routes" },
+    { "id": "oUhugpBGpIk", "title": "Remix Flat Routes vs Remix v2 Router" },
+    { "id": "FDyPXYFNDLM", "title": "Toasts in Remix" },
+    { "id": "URKySjEq5rk", "title": "KCD Office Hours 2023-12-14" },
+    { "id": "WI-DLmxtvJo", "title": "Migrating EpicWeb.dev's Workshop App to Nx" },
+    { "id": "zSdsng4vJkw", "title": "Upgrading Epic React's Bookshelf App" },
+    { "id": "6EeIuDaIJwc", "title": "EpicWeb.dev Live stream: Prisma Client Extensions with the Epic Stack" },
+    { "id": "eoE3cAmJPnw", "title": "EpicWeb.dev Live stream 🌌 Implement SQLite-based file storage" }, 
+    { "id": "h-9eqKgGruA", "title": "Trying out react-virtual (replacing react-window)" }, 
+    { "id": "pcFUAvoqiaQ", "title": "Livestream: Integration testing a React App" }, 
+    { "id": "u3z0_U4KSWc", "title": "Livestream: Further improvements to the bookshelf app" }, 
+    { "id": "knQR1oHMQFA", "title": "Livestream: Writing tests for a React app" }, 
+    { "id": "_iL_dpTWK4Y", "title": "Livestream: Deploying Netlify Functions with Gatsby Cloud" }, 
+    { "id": "415EfGPuhSo", "title": "React Hooks: Refactor compound components to hooks" }
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AmitNepal",
+    "name": "Amit Nepal",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZzA2-gF8CJRVKdF-r0vUlZiQ0cteJ_DVuMn2bN=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/L4vXO45B9rkPn3eEqE430DfMdV8x8tdrbfLs9w2PtgN9ZJBmxGxbGrTyjyD4NU5LxEJ5wGGjMQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rCr3-YlL5S8", "title": "Basics of Apache Webserver" }
+  ]
+}

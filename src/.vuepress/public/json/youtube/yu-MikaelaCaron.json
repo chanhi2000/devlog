@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "MikaelaCaron",
+    "name": "Mikaela Caron",
+    "profile": "https://yt3.googleusercontent.com/f6fOGd8xQC-HhTZuB8eDmDoHlkMih0kBcYN7kFljVvRGy6vl0f3POhw1hV3d1_7MFwDH7UtTSg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_fwDvvWlmgajkpqJg3-kQACVEO0Vfspbn5L4gbUW0B54x8qsNt1TALPHlyCbNb1lgBhisguXvQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XJIpyq2BctQ", "title": "What's an App Without Data? | iOS Conf SG 2023 | The Database Options for iOS Apps" },
+    { "id": "ZlNoD5JnQnc", "title": "Preparing for the App Store  | Hacktoberfest | Open Source iOS Dev | Live Coding | Mikaela Caron" },
+    { "id": "Dw3OEk35LHo", "title": "Hacktoberfest 2023 Recap | 100+ Pull Requests | Open Source iOS Dev | Live Coding | Mikaela Caron" },
+    { "id": "C9KwBG3kJ74", "title": "Preparing a Repo for Hacktoberfest for Maintainers | Live Coding | Building In Public| Mikaela Caron" },
+    { "id": "XBSiXROUoZk", "title": "Supabase Crash Course for iOS Developers | Swift | CRUD Create Read Update Delete with Postgres" },
+    { "id": "eISHBgmmQRo", "title": "Open Source iOS Development | Hacktoberfest | Live Coding | Building In Public | Mikaela Caron" },
+    { "id": "wNb4z7vMScw", "title": "19 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "qbHQLV9cAHw", "title": "18 Expense Tracker - Send Data From iOS to Vapor | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "YR6ECYOzYCY", "title": "16 Expense Tracker - Vapor API Responses | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "j0SQK5h1uTc", "title": "12 Expense Tracker - Fetch From Vapor API | SwiftUI | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "SW2UbAAMR0c", "title": "11 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "SpQTplyV89w", "title": "10 Expense Tracker - Building the iOS App | SwiftUI | Building in Public Livestream | Mikaela Caron" }, 
+    { "id": "TTT4UvVNQiM", "title": "UIKit for SwiftUI Developers Lesson 1: Hello World" } 
+  ]
+}

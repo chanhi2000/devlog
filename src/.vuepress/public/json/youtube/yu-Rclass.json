@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Rclass",
+    "name": "R class Tech",
+    "profile": "https://yt3.googleusercontent.com/RroSR4MAHQhnG9VYjEvlu_I8OY_R7-IZYSDRKt5U12tAzaiThEz_Lh9p7fxfTW5oXCyB3QcnEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P-SQmV3RtAz2oYph5tTy5zqMcFxpbiXDYmoagj6phYKQ3fumj0d5JgWzNli9Ni-Kuu5Rt6uK0g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7k9UPHZq0cI", "title": "PHP 8.3 - Плюшки, изменения и производительность" },
+    { "id": "_has_Pqzyb8", "title": "Оптимизация обработки данных на PHP" },
+    { "id": "cSghexeHlDI", "title": "Базы данных. NoSQL. Redis" }
+  ]
+}

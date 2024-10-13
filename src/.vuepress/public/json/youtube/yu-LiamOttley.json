@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "LiamOttley",
+    "name": "Liam Ottley",
+    "profile": "https://yt3.googleusercontent.com/sCwVC_WxhY4JAfWZDs-5IJgBECBsj0Yivm4YHC-c5ViXFYjeID70A4rzZC4MjFQU8oRKoIaT5Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rcwGZ-jFXNxr4jWcJGtk-HwyMv3xZ1p63Hgem_aUqbPXhH5dOuAwZ8Yo6nzd2jFvxIOZLR0OZA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aWnNJdiza3k", "title": "Building an AI Sales Bot to Call Leads For Me LIVE" },
+    { "id": "vxDNxUTG9tE", "title": "The Simple Way to Build Custom Actions for GPTs Without Coding (OpenAI Custom GPTs)" },
+    { "id": "W1fA7wj73II", "title": "This NEW AI Agent Creation Platform Will Blow Your Mind! BYE GPTS..." },
+    { "id": "ylF1WLfMzpA", "title": "How to Generate Instagram Leads on Autopilot for Your AI Agency" },
+    { "id": "10_IoRRSjaw", "title": "Best AI Solution to Sell to Ecom Stores in 2024 (Zapier Central Tutorial)" },
+    { "id": "gkKL7Owg7H4", "title": "How to Make an AI Voice Appointment Setter in 10 Minutes" },
+    { "id": "8K1z-5-74w8", "title": "How to Make an AI Customer Support Phone Line in 3 Minutes (w/ Knowledge Base)" },
+    { "id": "HgZyMe3R0h0", "title": "How I Replaced My Assistant With AI" },
+    { "id": "3jxfk6nH5qk", "title": "why you suck at prompt engineering (and how to fix it)" },
+    { "id": "SO0pm3LA2AI", "title": "How AI Agencies Can Win Big w/ Zapier Central in 2024" },
+    { "id": "g2qprt-Cjg8", "title": "this graph explains why you can’t make money with AI" },
+    { "id": "jCoH82LPgdk", "title": "How to Build Chatbots | Complete AI Chatbot Tutorial for Beginners" },
+    { "id": "3-SpV8wpv4w", "title": "6 Ways to Make Money With OpenAI SORA - AI Video Generation is HERE" }
+  ]
+}

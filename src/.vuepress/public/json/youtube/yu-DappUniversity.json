@@ -1,0 +1,84 @@
+{
+  "channel": {
+    "id": "DappUniversity",
+    "name": "Dapp University",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nHqKWf9imHFtpjoc_YYY6fFQk81Vi9Wejd8aoykjAFm0g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Yqtl7lzHRhst7kG1E_9DnNuDAf7ClBzgb2_igxmfwiimXgJP9ZX-xcs4paw-DkZx-yewmgehoMY=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jcgfQEbptdo", "title": "Learn Blockchain & Solidity Development   Full Course 2024" },
+    { "id": "teom6JdJRzU", "title": "Top 5 ways to make $$$ as a blockchain developer" },
+    { "id": "lh3CbL9OSP4", "title": "Missed Celestia? Don't sleep not his crypto project" },
+    { "id": "ltkIyuPeB6Q", "title": "How to make 100x off Memecoins step-by-step" },
+    { "id": "-gQ6QgTmEzc", "title": "New blockchain network will make millionaires (Next Solana)" },
+    { "id": "f8QkYG0RNVs", "title": "Next 100x Memecoin opportunity (Bitcoin Runes)" },
+    { "id": "p9GlSqNc6rg", "title": "Next massive blockchain trend just started" }
+  ],
+  "playlists": [
+    {
+      "title": "Free Blockchain Development Courses",
+      "videos": [
+        { "id": "eoQJ6nFZOcs", "title": "Ultimate Solidity Tutorial: DeFi, Flash Loans, Hacking, NFTs & more!" },
+        { "id": "RQzuQb0dfBM", "title": "Learn Solidity in 20 Minutes!" },
+        { "id": "yk7nVp5HTCk", "title": "Master Ethers.js for Blockchain Step-by-Step [Full Course]" },
+        { "id": "EhPeHeoKF88", "title": "Learn Solidity: The COMPLETE Beginner’s Guide (Latest Version 0.8)" },
+        { "id": "C4blK6X-D_4", "title": "Code a Web 3.0 Real Estate App like Zillow Step-by-Step (Solidity, Ethereum, Hardhat, React)" },
+        { "id": "8v40bYsj4N4", "title": "How To Make Generative NFTs With A.I. Step-by-Step" },
+        { "id": "X1ahXNYkpL8", "title": "Code a Web 3.0 Amazon Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat" },
+        { "id": "_H9Qppf13GI", "title": "Code a Web 3.0 Ticketmaster Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat" },
+        { "id": "GRhO5wdLDMI", "title": "Code a Web 3.0 Discord Clone Step-By-Step with Solidity, Ethers.js, React & Hardhat" },
+        { "id": "myascjqPnFc", "title": "Code an A.I.  NFT Minting App With Stable Diffusion Step-by-Step" },
+        { "id": "kUTdr1dStxA", "title": "Code a Web 3.0 Domain Site like Godaddy Step-by-Step (Solidity, Ethereum, Hardhat, React)" },
+        { "id": "GeGiXMAqaoI", "title": "How to Hack Solidity Smart Contracts with Integer Overflow" },
+        { "id": "TichhHxQ0zs", "title": "Learn Smart Contract Hacking: Ultimate Guide" },
+        { "id": "xWg3It_V1p4", "title": "How to Hack Smart Contracts With Reentrancy" },
+        { "id": "LI4Ns77Upug", "title": "How to Code a D.A.O. (Decentralized Autonomous Organization, DAO)" },
+        { "id": "2bjVWclBD_s", "title": "Code an NFT Marketplace like OpenSea Step-by-Step [ERC-721, Solidity]" },
+        { "id": "N6z1Hm8Aths", "title": "How to Easily Code a Crypto Airdrop Step-by-Step" },
+        { "id": "ZjQzxXhebVc", "title": "Code a Web 3.0 Game in 1 Hour Step-by-Step" },
+        { "id": "Q_cxytZZdnc", "title": "Code a Web 3.0 Music Player like Spotify Step-by-Step" },
+        { "id": "EqmD4BYkffg", "title": "How to Code a Metaverse Step-By-Step [FULL COURSE - ERC-721, Three.js]" },
+        { "id": "99KxEdLMT3g", "title": "How to Code a Metaverse with Three.js" },
+        { "id": "IZNcHkrEfbA", "title": "How to Code a REAL WORLD Crypto Bot ERC 20, Uniswap, Solidity" },
+        { "id": "94kkXt3AoNA", "title": "How to Code an NFT Minting Bot! [ERC-721, OpenSea, Solidity]" },
+        { "id": "YMDWzGHKqFY", "title": "How to Code a PASSIVE INCOME NFT [Solidity, Web 3.0, OpenSea]" },
+        { "id": "Oia7uz-jXJI", "title": "Create a REAL WORLD Blockchain App (Solidity, Ethereum, Web 3.0)" },
+        { "id": "XyoFT4QkoL4", "title": "Learn Ethereum Programming in 1 Hour: Solidity, ERC-20 & Uniswap" },
+        { "id": "xWFba_9QYmc", "title": "Ethereum Programming Tutorial - DeFi, Solidity, Truffle, Web3.js" },
+        { "id": "CgXQC4dbGUE", "title": "Blockchain Tutorial for Beginners | Build a DeFi App (Ethereum, Solidity, Web3.js & Truffle)" },
+        { "id": "sCE-fQJAVQ4", "title": "Start HERE To Master Blockchain Step-By-Step" },
+        { "id": "8rhueOcTu8k", "title": "Code an Instagram Clone with Blockchain - Ethereum, Solidity, Web3.js, React" },
+        { "id": "x-6ruqmNS3o", "title": "Code a Blockchain Game Step-by-Step (Ethereum, Solidity, Web3.js, Truffle)" },
+        { "id": "OLsteD3xkPQ", "title": "Code a Youtube Clone with Blockchain - Ethereum, Solidity, Web3.js, React.js" },
+        { "id": "YzCbaR15Xi4", "title": "Code a Blockchain Game with Chainlink (Ethereum, Web3.js, Solidity)" },
+        { "id": "1KwaUyjLa4Q", "title": "Code a DROPBOX Clone with Blockchain - Ethereum, Solidity, Web3.js, React.js" },
+        { "id": "99pYGpTWcXM", "title": "Learn Blockchain: The COMPLETE beginner’s guide" },
+        { "id": "YJ-D1RMI0T0", "title": "MASTER Solidity for Blockchain Step-By-Step (Full Course)" },
+        { "id": "t3wM5903ty0", "title": "Web3.js Intro · Web3.js · #1 Ethereum Blockchain Developer Crash Course" },
+        { "id": "nvw27RCTaEw", "title": "Blockchain Tutorial For Developers: Step-By-Step Guide (Ethereum, Solidity, Web3.js)" },
+        { "id": "pTZVoqBUjvI", "title": "How to Build Ethereum Dapp With IPFS - Blockchain Programming Tutorial" },
+        { "id": "VH9Q2lf2mNo", "title": "Intro To Blockchain Programming (Etherum, Web3.js & Solidity Smart Contracts) [FULL COURSE]" },
+        { "id": "rzvk2kdjr2I", "title": "Build Your First Blockchain App - Ethereum Todo List 2019" },
+        { "id": "XdKv5uwEk5A", "title": "Code Your Own Cryptocurrency on Ethereum (Full)" },
+        { "id": "3681ZYbDSSk", "title": "How to Build Ethereum Dapp (Decentralized Application Development Tutorial)" },
+        { "id": "2IqsgSyA8BQ", "title": "Build a Real World ICO - #1 Real World ICO on Ethereum" },
+        { "id": "u_lwNJobmAI", "title": "Code a Crypto Whale Tracker Step-by-Step with Ethers.js" }
+      ]
+    }, {
+      "title": "Student Success Stories",
+      "videos": [
+        { "id": "tCcXZWg5nPo", "title": "How to Make $100k/year as a Blockchain Developer" },
+        { "id": "oh27S65AhnE", "title": "How to Become a Web 3.0 Dev in Under 1 Year Step-by-Step" },
+        { "id": "LsAooaGkKjM", "title": "How to Get a Blockchain Developer Job in 2 Months!" },
+        { "id": "4achIpx6Mjw", "title": "How to land a highly paid Web 3.0 Developer job in 9 months!" },
+        { "id": "BJa6M7n-miQ", "title": "How Ben Got Hired With ZERO Coding Background" },
+        { "id": "_D3kEh5PYd4", "title": "Beginner makes $100,000 with blockchain app" },
+        { "id": "fRFC7yPQVag", "title": "Steal This NFT Trading Bot!" },
+        { "id": "KEvZ2FHE-xQ", "title": "How to Master Blockchain with ZERO Coding Experience" },
+        { "id": "1BXpt43OMJ8", "title": "Blockchain developers could make MILLIONS like this…" },
+        { "id": "4B_2Yt0SbzQ", "title": "This Guy Built a $17,000,000 Cryptocurrency Exchange!" },
+        { "id": "BSnF7hBgQ8I", "title": "The FASTEST way to MASTER blockchain" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "thoughtbot",
+    "name": "thoughtbot",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQLUdI6baR2cDcoLO_ehgUtol6_MG9VFI2d3-TvEQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S69HxPn_grNWnKx0kuI9C_I3aJY5l0QwJYMTssqPFF4sc5t2GA4Gg5_ea0WAS6MvpsNbrorT=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VNBwOVuB928", "title": "Product Design Sprints - Incubator style!" },
+    { "id": "PV35fhAZzqs", "title": "That's a wrap! Final Incubator S1 Update with Womanish" },
+    { "id": "30ueATSf-JE", "title": "Meeting thoughtbot's newest Incubator participants!" },
+    { "id": "LVimgB7cV3M", "title": "Team Lead Fireside Chat" },
+    { "id": "3dihrNdKOsE", "title": "Improving Rails Test Suite Performance" },
+    { "id": "PaZS_wIRUDo", "title": "Adventures in customer discovery! Incubator update with Womanish" },
+    { "id": "BxyM6ZwDbzU", "title": "Improving Rails Test Suite Performance (continued)" },
+    { "id": "QJJ-M8-Tuqo", "title": "Pairing on MIT's Teacher Moments" },
+    { "id": "tzZ_gRhefbs", "title": "From Figma to Browser with Eleventy (Part 3)" },
+    { "id": "tNcMhJ0c5QE", "title": "1.1 PDS Kit: Intro to Day 1 of the Sprint" },
+    { "id": "IyZhsDdY0A8", "title": "1.2 PDS Kit: Exercise 1 - Long-term Goal" },
+    { "id": "guKlPqNs2os", "title": "1.3 PDS Kit: Sprint Questions and Identifying Risks" },
+    { "id": "bV70c4v93kw", "title": "1.4 PDS Kit: Creating a Map" },
+    { "id": "7rO64O-3y6E", "title": "1.5 PDS Kit: Ask the Experts" },
+    { "id": "fLZCOeRzXUA", "title": "1.6 PDS Kit: How Might We" },
+    { "id": "Zwd7zBhfp0U", "title": "1.7 PDS Kit: Organising HMWs" },
+    { "id": "ciOzxXH2pvk", "title": "1.8 PDS Kit: Stack Ranking HMWs" },
+    { "id": "GqkROPq6-sQ", "title": "1.9 PDS Kit: Map + Target" },
+    { "id": "NncghQmDwNo", "title": "1.10 PDS Kit: Setting Homework" },
+    { "id": "KwB_kkqi2MY", "title": "3.1 PDS Kit: Intro to Day 3 and Recap exercise" },
+    { "id": "qCUz3-qnOWM", "title": "3.2 PDS Kit: Silent Dot Voting exercise" },
+    { "id": "9A0zpFST8mw", "title": "3.3 PDS Kit: Dot Voting outcome and Discussion exercise" },
+    { "id": "BqsDYUb_4Qk", "title": "3.4 PDS Kit: Silent Red Dot and Super voting exercise" },
+    { "id": "eAzzDEoPcA0", "title": "3.5 PDS Kit: What is a prototype" },
+    { "id": "gT6ANCvwACQ", "title": "3.6 PDS Kit: Storyboarding Exercise" },
+    { "id": "7dJW1McfLvI", "title": "4.1 PDS Kit: Prototyping" },
+    { "id": "YAr2SOnxIho", "title": "5.1 PDS Kit: Testing Introduction" },
+    { "id": "nLawTPtigrI", "title": "5.2 PDS Kit: User Testing Script" },
+    { "id": "vD6-_Q0QXCA", "title": "5.3 PDS Kit: Testing example output" },
+    { "id": "uNyYFbg4rKc", "title": "5.4 PDS Kit: Finished!" },
+    { "id": "0NIUwbfmit8", "title": "2.3.2 PDS Kit: Sketching - Taking Notes" },
+    { "id": "ontbRvtOGaI", "title": "Double Feature: Merging Rails Apps into a Monolith and Migrating from Heroku to AWS" },
+    { "id": "XA2WjJbmmoM", "title": "How to Do 90% of What Plugins Do (With Just Vim)" }
+  ]
+}

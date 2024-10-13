@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "PhilipStarritt",
+    "name": "Philip Starritt",
+    "profile": "https://yt3.googleusercontent.com/oavFm02licueCMXXMeKhoquP2AUjne2bQjdkOYdpFN5Rc0o0luK4xoAI6im0oI5hDelhFmIHDg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IIqzr9wMQQkdOWv1xv6ZFi4wX4Z6oldlXg61lES6jWmAe_Uxgj7pP8xD0YIa3t9townWr3yucg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-ioJQGLWZok", "title": "OpenTelemetry Collector Example - Java Agent with Spring Boot Docker" },
+    { "id": "_859wl7Smm8", "title": "Spring Boot RESTful Web Service Tutorial - Java REST API" }, 
+    { "id": "_T_0VB3AoV4", "title": "Spring Boot GraphQL Tutorial #31 – Spring Security Authorization" }, 
+    { "id": "DyNXkznUYaU", "title": "Consume a RESTful Web Service in Java Spring Boot | REST API Client" }, 
+    { "id": "hFHxOlThFR4", "title": "Spring Boot GraphQL Tutorial #28 - JS GraphQL IntelliJ Plugin" }, 
+    { "id": "rOnoKiH97Nc", "title": "Spring Boot Security Tutorial | REST & Web" } 
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "RaihansCodeShow",
+    "name": "Raihan'sCodeShow",
+    "profile": "https://yt3.googleusercontent.com/aoqej4wt55_ft27tHYUSDB3Rpz6ACv_des4NUbDBRLc_p2wuzDhqUH2LjiouU1Eb5Xbu-EOiew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/s69_6tLWoaT5cV6ZHHSrnJZHWSzBRqDVTXwUCNkkHmp8btmJnSVP4TQ79r0GYDTf8libpoFP4A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4qJRNMVJzfU", "title": "Password Generator in Python | Complete Beginner Tutorial" },
+    { "id": "r5l3dUGKvLY", "title": "Create Your Own Password Manager in Python | Complete Beginner Tutorial" },
+    { "id": "2tL6Ja4BX9I", "title": "Countdown Timer in Python | Complete Beginner Tutorial | 2023" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "soram",
+    "name": "소람 soram",
+    "profile": "https://yt3.googleusercontent.com/r-cjVsbt3Uon1kYe7yMJ_9k9BvHxGIKWM6Kbhv9j_UDR45UjuNG-KAK-LC9tdsiy1ZmlXHGFuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/w2hUHM1ClFwy8DBavUP5_J_9iVGP-M064X-kKxhjXXCpfP6HnZVpwvz-R_vKUSmTc2Hvkv_Avw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DELhKD1zVcw", "title": "매일 하루를 가장 쉽게 기록하는 방법 | 아이폰 자동일기 단축어" },
+    { "id": "Z_bNziElaAc", "title": "1인 가구, 삶의 질을 높여주는 물건들" },
+    { "id": "zHq-WNzrfqM", "title": "study vlog | 내 인생 마지막 시험이길 | Productive Morning" },
+    { "id": "zNfeh0B-sJ4", "title": "2024 Free Digital Planner with Hyperlinks ✨" },
+    { "id": "FqmVZzve_8g", "title": "굿노트 신기능✨ 링크.. 너무 좋은데요? 서식 새로 만들어야겠다😇" },
+    { "id": "Gl7gzuOs8SE", "title": "내 인생을 바꾼 노션 플래너 | MONTHLY PLAN" },
+    { "id": "thTdYzwjSSM", "title": "Capture your everyday moments | iPhone Shortcut MOMENT" }
+  ]
+}

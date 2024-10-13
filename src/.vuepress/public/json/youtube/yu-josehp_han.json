@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "josehp_han",
+    "name": "HAN SANG HOON",
+    "profile": "https://yt3.googleusercontent.com/RKRGnIjapKMO_K5o4k0GcVnC8T7shY5zU9TiNHVWPeIGYMnHEwwVg8utCr-OGfs2FyQuLHMG=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WSLIomBExHqreDwSs8ciRrWIz9GhCA2kyU4rwDJPq-2rcrHgnZw8IRFjPyYtHaya7YsPds3gXXE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kzuxUfQ_wiE", "title": "Live streaming challenge for 12 hours every weekday in 2024(2024. 2. 28)" },
+    { "id": "1VZz75RqDLA", "title": "3년전 패스트캠퍼스 강의 자료 보기 + 이제는 진짜 러다이트 운동 뿐이야 + 신나는 강의 기획서 만들기 + 해리포터와 보약의 방 + 빛나는 망고 사이트 만들기" },
+    { "id": "dA3d0Pzz12Q", "title": "쓸모없는 사이트 만드는 중 + 오픈 소스 둘러보는 중" },
+    { "id": "Hv3afhsrEdk", "title": "12시간 챌린지(2024. 1. 23)" },
+    { "id": "AP0YK1_cnIg", "title": "Live streaming challenge for 12 hours every weekday in 2024(2024. 1. 25)" },
+    { "id": "J6n51Yw8tfY", "title": "12시간 라이브 챌린지 여유 시간 충전하기(2024. 1. 27)" },
+    { "id": "Al8znJOLqMs", "title": "Live streaming challenge for 12 hours every weekday in 2024(2024. 2. 19)" },
+    { "id": "HHKV9XbXUOw", "title": "왜 useCallback, React.memo, useMemo를 사용할까?(리랜더링 줄이기 전략)" },
+    { "id": "HxutXYq3T8U", "title": "[4K] 극초보용 리덕스 사용법" },
+    { "id": "GRM8Iq6N214", "title": "이제는 AI가 UI, 프론트 코드도 만들어줍니다(openV0 뜯어보기)" },
+    { "id": "TzczeyoTidw", "title": "최고의 개발자들의 코드를 보고 트랜드를 읽는 방법[4K]" }
+  ],
+  "playlists": [
+    
+  ]
+}

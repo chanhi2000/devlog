@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "codeboba",
+    "name": "Code Boba",
+    "profile": "https://yt3.googleusercontent.com/y-cOXOLAD2UuunSuPaiTNi-Oa-qH25VjVCrievmzfYISUVok6IN-HVhWsilVIDmmXasNexB-_OI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IPFIFmC4kXld87zIp6SqTOXFknU1-BWmn8ZEWNiJEpWoxXtTvB6w_1PrN1v6BWmf6B0z2NMRrrA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DGS5TrZozUA", "title": "Flutter Remote Notifications: Implement Push Notifications with Firebase Cloud Messaging" },
+    { "id": "uUZ29F24BLI", "title": "FlutterFire Implementation: Integrating Firebase Services in Your Flutter App" },
+    { "id": "J8Kcw_RSd2g", "title": "Embarking on an App Development adventure from scratch!Join me as we turn an idea into reality-Part1" }
+  ]
+}

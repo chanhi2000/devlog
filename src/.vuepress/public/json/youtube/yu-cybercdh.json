@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "cybercdh",
+    "name": "cybercdh",
+    "profile": "https://yt3.googleusercontent.com/CbiK9UYafRWb9E8yGdN6VEO9YbGBKPTfsl07HEv1G1m-GqXtc20jd1ZgWFryUxfKaTmoBv_W71o=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t4RbqqDyZFmxQK40oPIAGXAjd0Msrg9_5Bm4FiZ-zeAhpjWiWINzvbTqQ0XXDEF04k0OiBPA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WRrzX7cGHaY", "title": "Unlocking Excel 4.0 Macro Malware" },
+    { "id": "_XgVwoLkEI8", "title": "HTML Deobfuscation - Analysing HTML Guard Protected Code" }
+  ]
+}

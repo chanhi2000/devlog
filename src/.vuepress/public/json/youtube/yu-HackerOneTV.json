@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "HackerOneTV",
+    "name": "HackerOne",
+    "profile": "https://yt3.googleusercontent.com/odFpzWcN-Hbj1TF-HB_hNgyNYucJ3Fj-nHlWSwyEvsLNb48l-Sd9m_9T594MS19_eevxlR43Gw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NU5PM9oO-FBmF9jFIReet2prlZr44PP458wmGjFG6Xhfqtk6emVvV1gVPU5RYC8TKj3cKtU6=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EwCC0u5Io5Q", "title": "Truth Behind the Hack: Experts Break Down AI Red Teaming in a Live Q&A" },
+    { "id": "Tkk6RXYnDDU", "title": "Truth Behind the Hack: Elite Pentesters Tell All" },
+    { "id": "voYFTRoH4CU", "title": "iOS Hacking - Filesystem Basics" },
+    { "id": "lhRXV9LZ7bY", "title": "Android Hacking Workshop by @B3nacSec" }
+  ],
+  "playlists": [
+    {
+      "title": "Security@2023",
+      "videos": [
+        { "id": "5MUutA8PKLQ", "title": "Security@2023: Insider Tips for a Productive Bug Bounty Program" },
+        { "id": "Sx4xkc5A3WU", "title": "Three Stages of Continuous Vulnerability Discovery" },
+        { "id": "eoXouUA1raQ", "title": "Hacker Panel: What Hackers Can Tell You About AI Security" },
+        { "id": "Np38qZWpt9Q", "title": "How Offensive Security Reduces Threat Exposure" },
+        { "id": "UTZL7gIdJ-s", "title": "An Interview with Hacker Jonathan Bouman" },
+        { "id": "aMLP7oUytR8", "title": "An Interview with Hacker Herman Satkauskas" },
+        { "id": "5OqQYQEZ2ZU", "title": "An Interview with Alex Hagenah, Head of Cyber Controls at SIX Group" }
+      ]
+    }
+  ]
+}

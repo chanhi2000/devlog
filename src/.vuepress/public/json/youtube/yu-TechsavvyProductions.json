@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "TechsavvyProductions",
+    "name": "TechsavvyProductions",
+    "profile": "https://yt3.googleusercontent.com/RLWtzobhss11-gFgkfNOaMj-kYKrJtYsV0ln8svRXRLj4CrxfAu6xRWd4RjIcUAfKQ02spSEsw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5ux3u3WAHCplxuEm1oJo3FojZtkTtc8PnsURi4IQM0h_ir_0HusUknkxp7MIBSWVgaCUihCr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QGA-YS2MrbQ", "title": "Forgotten Tool for IT Troubleshooting: Why You Need to Use Resmon Again" },
+    { "id": "u5NGHKSpHUc", "title": "Quick Troubleshooting with Windows Reliability Monitor & Performance Tools" },
+    { "id": "PdnwV69LQXY", "title": "Understanding PXE: A  Guide for IT Professionals: Preboot Execution Environment" },
+    { "id": "KK20Mz39mJU", "title": "USB-C NVMe enclosure:  Tips and Technology" },
+    { "id": "pazWRQt-IUE", "title": "Mastering UEFI: Your Essential Guide to Hardware-Firmware and Boot-Chain Security" },
+    { "id": "z-hNukdmQvI", "title": "Two Dirty Secrets of Home Wireless Technology" },
+    { "id": "acAvlJy7Aug", "title": "The Silent Treatment: Fixing a Dead Motherboard and Rogue NVMe Heatsink" },
+    { "id": "AVz36B3ruAs", "title": "Windows Cumulative Update Failures: A step-by-step solution" },
+    { "id": "y4aDvFbNLcw", "title": "Mastering GPO Troubleshooting: The Ultimate Guide for IT Admins Using GPOZaurr" },
+    { "id": "rmpWHQIoskg", "title": "Active Directory Group Policy: The technology and components that make it work." },
+    { "id": "pg9ntZsMvPo", "title": "Take Command of Your Taskbar: Windows 11 & 10 Start Menu Power Tips!" },
+    { "id": "Ol3dWnrNu1E", "title": "Nmap.exe Demystified: The Ultimate Network Discovery Tool Part 1" },
+    { "id": "lif29BU8jIg", "title": "Nmap.exe Demystified: The Ultimate Network Discovery Tool Part 2" },
+    { "id": "YH3vjlTcBIk", "title": "Effortless App Deployment: IT Admin's Guide to Winget: Part 2" },
+    { "id": "s-ad0xVuKr4", "title": "OpenSSH for Windows: Install, Configure, Connect, and Troubleshoot" }, 
+    { "id": "HeHiDdO-guc", "title": "Windows Security: For Admins and Technical Support" }
+  ]
+}

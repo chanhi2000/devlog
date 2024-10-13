@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DavesSpace",
+    "name": "Dave's Space",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mtPf4OblmiAvCTseH94zum-Fn9uR0qD4P2E1BP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sgPlfpFDRzd1zuj0WGbvW40W6WxNnAtq-4Fv_5PMqHCtaV1WfFOyC7xcxviY6XuLI3EFm-eNing=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AZnGRKFUU0c", "title": "threading vs multiprocessing in python" }
+  ]
+}

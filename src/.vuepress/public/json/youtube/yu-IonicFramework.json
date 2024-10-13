@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "IonicFramework",
+    "name": "Ionic",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQs6rqe_RY6gt6DW6KG0kKHYOHvf8TqCfxMBr8k2A=s176-c-k-c0x00ffffff-no-rj", 
+    "banner": "https://yt3.googleusercontent.com/fA9r4cjrrwHmwV7H-djjhJ2rrDc0fkwOO02l9tLpCaZ5sEF-u2ysOvqDOlU51Ku4ETiaWw_T=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m_P1Q0vhOHs", "title": "Push Notifications with Ionic4 and Firebase Cloud Messaging" }, 
+    { "id": "cjikyeo9bJc", "title": "Reimagining Cordova: Building Native Progressive Web Apps with Capacitor" }
+  ]
+}

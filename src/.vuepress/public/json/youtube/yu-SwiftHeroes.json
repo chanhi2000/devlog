@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "SwiftHeroes",
+    "name": "Swift Heroes",
+    "profile": "https://yt3.googleusercontent.com/r7WlkgEW8OtjLfYzKXxjI30tqg-CfMVUA0bcJE4fQGOgEC40xIogSuIRWAxnbI5vnpuXZaM-=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xusAmEiGrzIsFzUjz77IMFl_TezNBFlvIvn9S7lnKAEIO-EafSFQ5Jdpshe9eLRZSW8jTJgg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "K0fDW-RXtBg", "title": "From Slow to Flow: Tips for Accelerating Your App Performance - Accenture | Swift Heroes 2023 Talk" },
+    { "id": "vJrLMXxDC-I", "title": "Swift Heroes 2024 - Highlights" },
+    { "id": "PocljzAYFL4", "title": "Building REUSABLE SwiftUI components - Peter Friese | Swift Heroes 2023 Talk" },
+    { "id": "b8Wha3_A9BQ", "title": "The Potential of IMAGE Processing in Swift for Developers - Elina Semenko | Swift Heroes 2023 Talk" },
+    { "id": "zDWWMEy85Sw", "title": "SwiftUI: Love at First Swipe or Swipe Left? - Zamzam Farzamipooya | Swift Heroes 2023 Talk" },
+    { "id": "lMxsc6rQWeU", "title": "SWIFT ABI Essentials: How to Maximize Your App's Efficiency - Jakub Kiermasz| Swift Heroes 2023 Talk" },
+    { "id": "EVHtTkyEUWc", "title": "TARGET VS COCOAPODS: why choose one if you can have BOTH? | Swift Heroes 2023 Talk" },
+    { "id": "vaRAzH6K3m4", "title": "Boost App Reliability: Offline Storage Solutions with AWS Expertise | Swift Heroes 2023 Talk" },
+    { "id": "sqp2E-ouVrQ", "title": "How to bridge the gap between design and development - Firas Safa,Valeria Farina | Swift Heroes 2023" },
+    { "id": "V84nTQb-6DU", "title": "Molecule: a practical approach to ARCHITECTURE DESIGN - Telepass | Swift Heroes 2023 Talk" },
+    { "id": "83WLmyGTTqY", "title": "Swift Secrets: Unlocking the Power of 'Any' and 'Some' - Yuki Aki | Swift Heroes 2023 Talk" },
+    { "id": "gecf1uU32yY", "title": "How SSL Pinning Reinforces iOS App Security - Pietro Messineo | Swift Heroes 2023 Talk" },
+    { "id": "AIR_u0gzET8", "title": "TESTING makes you a BETTER DEVELOPER - Leah Vogel  | Swift Heroes 2023 Talk" },
+    { "id": "ha8uDh4EMMo", "title": "Developing Full Stack Cross-Platform Metrics System with Swift - Pol Piella | Swift Heroes 2023 Talk" },
+    { "id": "eQwFmbpXgfs", "title": "HOW FLUTTER INTEGRATES with apple frameworks and tooling - Leigha Reid | Swift Heroes 2023 Talk" },
+    { "id": "RYfezSzMZ-A", "title": "Elevated Swift - Soroush Khanlou | Swift Heroes 2023 Talk" },
+    { "id": "HqO1YwtyGt4", "title": "Contactless Setup REVOLUTION: How NFC is Changing the Game - Simone Mutti | Swift Heroes 2023 Talk" },
+    { "id": "Pw9K8HipJI0", "title": "\"From Design to Swift: Best Practices in App Development - ROUNDTABLE | Swift Heroes 2023 Talk" },
+    { "id": "BiMksxL-wvU", "title": "Stefano Mondino - A tale of Skeletons and Bones | Swift Heroes 2023" },
+    { "id": "A6HzEzgyZnY", "title": "Sash Zats - Power of Prototyping | Swift Heroes 2023 Talk" },
+    { "id": "_nxN4URkopQ", "title": "Adam Bell - Building delightful applications | Swift Heroes 2023 Talk" },
+    { "id": "iMIGySuubEQ", "title": "Marin Todorov - A 100% SwiftUI App | Swift Heroes 2023 talk" },
+    { "id": "vHbfsZxGgIk", "title": "Swift Heroes Digital 2020 - Getting Started With Combine - Shai Mishali, Gett" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "CloudComputingInsider",
+    "name": "Cloud Computing Insider",
+    "profile": "https://yt3.googleusercontent.com/ZmdmH2unpshL152M9WG8MVY7zF9b8hIquIk3NfrrKaGiJDtoLSuELTL4g0JCTLPKupWJAQPRew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nlriWBvw0XdE_UDM97vQA4jT11KnGSsqJ-v5idAN_fWJR6dhU64Bf-pzDj8sgEf6-uYUgdzH=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OL9zX_MWaZ8", "title": "Is the cloud too expensive?" },
+    { "id": "S-OA742viDo", "title": "AI Architect Training Program (How to Become An AI Architect)" },
+    { "id": "1-ZteiQXTaw", "title": "7 Reasons You May Not Be Able to Move Off a Cloud Service Provider" },
+    { "id": "QmQnyIh0-ig", "title": "4 Things the Cloud Industry Got Wrong, and I Got Right" },
+    { "id": "Wt4L4oUhX04", "title": "3 Dumb Things Enterprises Are Doing with AI in the Cloud" },
+    { "id": "gubnBle8R_g", "title": "How to Get Your First Cloud Computing Job" },
+    { "id": "iytt5tU5jmY", "title": "Cloud Security Facts Revealed?" },
+    { "id": "eLIyRVfUYtY", "title": "5 Cloud Computing Career Hacks that are Next-Level" },
+    { "id": "nXnDUfGEV5s", "title": "Lower Costs and Higher Value of Cloud  by Harnessing IT Observability" },
+    { "id": "FjKBzaOgriA", "title": "How to Master Cloud Computing in Just Three Months" },
+    { "id": "L1fGs0h5JOM", "title": "3 Surefire Ways to Be a better (and better paid) Cloud Architect" },
+    { "id": "KopfoqQdEzE", "title": "Serverless & Microservices Epic Fails!" },
+    { "id": "EkeQv5mWY08", "title": "Three Reasons Why the Cloud Was a Huge Mistake" },
+    { "id": "3cT74vGLTEY", "title": "What If Your Cloud Solution Was a Bicycle?" }
+  ]
+}

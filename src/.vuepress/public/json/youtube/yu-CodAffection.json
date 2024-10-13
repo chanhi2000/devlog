@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "CodAffection",
+    "name": "CodAffection",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOuzH6_iW2cp_e7K7rBuM9fm4hvxUPp13JddT-O4w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Uq6rbpDaaDKZdk0HW4EjE4xvy4Z8rSeIPNhTbyTrUKvQvT-odsXLPdZsfTTftsu9FPjrv8ijrw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OZGdKYzUYvU", "title": "Asp.Net Core Web API CRUD with Angular 16" },
+    { "id": "39rSVOScx9c", "title": "Asp.Net Core Web API CRUD Operations Using EF Core and SQL Server" }, 
+    { "id": "kzl4IKAC8O4", "title": "Angular 14 To Do List App in 30 Minutes" }, 
+    { "id": "m-2_gb_3L7Q", "title": "React Material UI Complete Tutorial" }, 
+    { "id": "pI4438IHBYY", "title": "React with Firebase CRUD Operations" }, 
+    { "id": "QpJvqiHl1Fo", "title": "Asp.Net Core MVC Image Upload and Retrieve" }, 
+    { "id": "8e_nIPFc_7I", "title": "Angular Material Tutorial in One Video" }, 
+    { "id": "r0QYP61bCCM", "title": "MEAN Stack Login and Logout in Angular 6 - Part 2" }, 
+    { "id": "T8qepiTbJi4", "title": "MEAN Stack Jwt Authentication in Node JS API - Part 1" }, 
+    { "id": "CtDE9gTwmyo", "title": "C# Asp.Net-Insert Update Delete and View With Sql Server Database" }, 
+    { "id": "g3GUnBZEPwQ", "title": "How to Install Turbo C/C++ in Windows 7/8/10" }, 
+    { "id": "EyrKUSwi4uI", "title": "How to Create Mvc Login Page in C# Asp.net Mvc" }, 
+    { "id": "NX8-LhgFnUU", "title": "Create Login Window in C# Using Sql Server" }
+  ]
+}
+

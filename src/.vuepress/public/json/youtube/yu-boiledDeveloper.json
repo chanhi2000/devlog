@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "boiledDeveloper",
+    "name": "삶은개발",
+    "profile": "https://yt3.googleusercontent.com/OYGf_D-_YONk7hnm_ygIYD5TuLWrDvmLKFeFyYMPseANh_mKN1TA0Ug1GwEnpZKfr8EZrekqCvc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "DLYa4yqrG_o", "title": "[Ep1] 두고보세요. 이 앱은 하루에 100만명이 쓸껍니다 (진지)" },
+    { "id": "IuoCW5x_OuI", "title": "[Ep2] 개인 앱 이렇게 설계하면 기부니가 조크든요 😎" },
+    { "id": "M7d2UrEnX-M", "title": "[Ep3] 실패해도 개미, 성공하면 부자 아입니까! 💵" },
+    { "id": "42OSlyu76LM", "title": "[Ep5] 데이터로 집중도를 보다니!🤭 완전 럭키비키 앱이잖아 !?🍀" },
+    { "id": "HLLCpzQgy2g", "title": "[Ep6] 개인앱도 데이터를 봐야만 하는 이유📈(w/Amplitude)" },
+    { "id": "thivv58RIZA", "title": "비전공자를 N사 개발자로 만들어준 3가지 마인드셋" },
+    { "id": "xFiNikiJg8o", "title": "개인앱 안하면 손해인 이유 3가지 ✨ | 사이드 프로젝트" },
+    { "id": "SHwxSnMkLkc", "title": "`대 AI 시대`에서 살아남는 유일한 방법" },
+    { "id": "Y_g9_b01KqA", "title": "코드 품질을 200% 개선시켜줄 3가지 액션 아이템 (easy version)" },
+    { "id": "3iG1LfXt9hc", "title": "짱쉬운 스위프트 기초 | 30분만에 뽀개기" },
+    { "id": "ZzyGzzsPpyQ", "title": "스타트업 이직 할 때 꼭 필요한 3가지 기준 (feat. 딜라이트룸)" },
+    { "id": "ZODvz6nHZZU", "title": "iOS 개발자로 Flutter 솔직히 이야기 해보면요.." },
+    { "id": "dLwEGT01S6E", "title": "선언형 UI: 이거 모르면 솔직히 망함 | SwiftUI, Flutter, Jetpackcompose, React Native" },
+    { "id": "vRu11eqYnY0", "title": "쌩초보 iOS 앱 개발자 테크트리 | A-Z" }
+  ]
+}

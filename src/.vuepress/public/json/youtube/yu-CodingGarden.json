@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "CodingGarden",
+    "name": "Coding Garden",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN3X0SWbsCNFHqMU1gGzJmxM4cfaivp90LdCUKgiw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NzV6mYZEMVUqiIieMb1cAqVohsXOpiMByt-M2bbhjJlvbLbBRZ4cQ1PmU-tM9msiTpA1NQtveg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tyzZBrWNfdU", "title": "Hangout | Catch Up | Making a Raycast Extension" },
+    { "id": "khHJ7CiKlH4", "title": "Building an Android App with Flutter | Trying Day Friday" },
+    { "id": "KBmZ5oFQaSs", "title": "LISTD Sprint Week - Day 1 | SvelteKit App Build | Maintenance, Planning and Prioritization" },
+    { "id": "OxL9q64xWuE", "title": "Everything I Learned Trying Laravel / PHP" },
+    { "id": "3dB5dCREdvA", "title": "LISTD Sprint Week - Day 2 | SvelteKit App Build | Pair Programming | MVP Features!!!" },
+    { "id": "fnQdZdxYxrU", "title": "XSS Explained with React and Vanilla JS Examples | Cross Site Scripting | dangerouslySetInnerHTML" },
+    { "id": "9WoPx8vdbcs", "title": "SQL Injection | Learning to Hack with Try Hack Me" },
+    { "id": "Zp5IktQhnnE", "title": "Trying Godot | Doing the 3D Game Tutorial | Try Day Friday" },
+    { "id": "Pvl95geT1Xw", "title": "Trying htmx | Try Day Friday Highlight" },
+    { "id": "O6QTHW05KB8", "title": "Setting up a Monorepo with nx | Maintenance Monday | Refactoring Twitch Emote Parser" },
+    { "id": "o00cHNIki5Y", "title": "Learning to Hack with Hack the Box Starting Point" },
+    { "id": "o00cHNIki5Y", "title": "Learning to Hack with Hack the Box Starting Point" },
+    { "id": "RLy-KJSyK4w", "title": "JavaScript Dev Learns Rust | Building a CLI tool with Rust and clap" },
+    { "id": "240QqnfskC4", "title": "What is XSS? | Web Security Wednesday" },
+    { "id": "NtzpDJhDpfA", "title": "Working on listd | SvelteKit Full Stack App Build | Homepage actions | Video Page Styles | Day 25" },
+    { "id": "utiEuIotBuw", "title": "Working on listd | SvelteKit App Build | Clickable Timestamps | YouTube Embed API | Day 26" },
+    { "id": "mz0mvvOAsN4", "title": "Working on listd | SvelteKit App | Trying to setup test watching | Updating Homepage Styles | Day 24" },
+    { "id": "A0xWRfPqa_c", "title": "Re-visiting listd | SvelteKit Full Stack App Build | Upgrading npm dependencies | Fixing Tests" },
+    { "id": "y5JxfW7QRyU", "title": "⚡️ Trying Supabase.io for the first time | Building a Japanese Pokemon Card Database" }, 
+    { "id": "UjX5ZE359ck", "title": "Build a Full Stack Reddit Clone with - Firebase Firestore 🔥, Vue.js/Vuexfire and Bulma" }, 
+    { "id": "2xIoWm08SBM", "title": "Newby Tuesdays - Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap" }, 
+    { "id": "TNEHNgunHn4", "title": "Newb Quest - Auth Part 5 - Authorization - Node/Express/MongoDB/JWT/Vue.js" }, 
+    { "id": "J7pFiXh-ydA", "title": "Build a Maps App with Leaflet - React/Node.js/Express/MongoDB" }, 
+    { "id": "JNAjjHwPFIw", "title": "Newb Quest - Auth from Scratch - Part 1 - SignUp Backend - Node/Express/Mongo/JWT" }, 
+    { "id": "kaaEJreD1jA", "title": "jQuery Demystified - Build a Simple jQuery clone from scratch" }, 
+    { "id": "tMNOpaQrfAE", "title": "💻✨ - Setting up a Mac for Web Development - 2020 - Homebrew / Terminal / git / Code Editor / Node.js" }, 
+    { "id": "gq5yubc1u18", "title": "Build and deploy a URL Shortener in 3133.7 seconds with Node.js + Express + MongoDB + Heroku" }, 
+    { "id": "gzM7kj6gV5I", "title": "Build a Discord bot 🤖 with Daniel Shiffman of The Coding Train 🚂" }, 
+    { "id": "5pQsl9u_10M", "title": "📍 MERN Stack - Build a Full Stack Travel Log App with Node, Express, MongoDB, React+Hooks and Mapbox" }, 
+    { "id": "onkzhfXJlp0", "title": "🤖| Intro to hardware programming with Arduino and C++ / JavaScript | !commands | !drop" }, 
+    { "id": "lRE03MBZnuY", "title": "Vue.js: State Management, Component Hierarchy, Props and Vuex" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "PaulProgramming",
+    "name": "Paul Programming",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaR_4l1a4v8Hu_U0mYlO5WPxPQ3Agr8EOlgqZeE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DkSd1bI65mOiGOkOO6sHqT7Hl-UQwwWvMYPdtv7Ukrjhyl3hMgDz3WcZIY3zA5R2miEGYEYSR28=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sxHng1iufQE", "title": "What is the Difference Between a Pointer and a Reference C++" },
+    { "id": "_r7i5X0rXJk", "title": "How to Create a Simple Makefile - Introduction to Makefiles" }
+  ]
+}

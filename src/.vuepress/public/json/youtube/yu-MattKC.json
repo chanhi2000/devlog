@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "MattKC",
+    "name": "MattKC",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mnO5Ijt9ChIWI7cWkoC9SdBKmyX0bIt7SeHhrPTB5Y05M=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/F9LslSWEYqTZ3AdQXo5Iowf7vvyxaQH5ZxBth2ThHCTzM0Kmx_rO6uyjiKemoi9vyORlPST-=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CTUMNtKQLl8", "title": "I ported THOUSANDS of apps to Windows 95" },
+    { "id": "S15FVwbHEqo", "title": "Installing macOS on a Microsoft laptop" }, 
+    { "id": "9si1le2EOGU", "title": "Installing Windows ME on an iMac" }
+  ]
+}

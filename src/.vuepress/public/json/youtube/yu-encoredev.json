@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "encoredev",
+    "name": "Encore",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lTH5y92hCKEqLoKLvwk2AXziZtiQDCcwAvgvcq3Td48A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "O1epF-sjq-4", "title": "Encore.ts vs Elysia vs Hono vs Fastify vs Bun vs Express — TypeScript framework shootout" },
+    { "id": "Da_jHj6bLac", "title": "Encore local development dashboard" },
+    { "id": "hA9syK_FtZw", "title": "Encore.ts — 9x faster than Express.js (feature comparison and migration guide)" },
+    { "id": "uX-p5xP8fqA", "title": "How to let ChatGPT call functions in your app (TypeScript / Node.js)" },
+    { "id": "zr3OXQKbaHQ", "title": "Introducing: Encore for TypeScript" },
+    { "id": "J89wE0hkFPE", "title": "AI API Creator — Encore Launch Week Day 5" },
+    { "id": "bVfVcQml094", "title": "Launch Week Day 5: Something AI + Hackathon Prize Ceremony" },
+    { "id": "wiLDz-JUuqY", "title": "Getting started with Encore for TypeScript" },
+    { "id": "vvqTGfoXVsw", "title": "Encore — the Development Platform for TypeScript & Go" }
+  ],
+  "playlists": [
+
+  ]
+}

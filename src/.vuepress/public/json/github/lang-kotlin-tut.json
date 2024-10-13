@@ -1,0 +1,23 @@
+[
+  {
+    "repo": "Kotlin/KEEP",
+    "desc": "Kotlin Evolution and Enhancement Process",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "tarek360/Kotlin-JavaScript-Lottie-Example",
+    "desc": "Example shows calling a JavaScript library from Kotlin as a dynamic type and static type",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "PaperMC/paperweight-examples",
+    "desc": "",
+    "officialSite": "",
+    "topics": []
+  }, {
+    "repo": "kotlin-hands-on/advent-of-code-kotlin-template",
+    "desc": "The Advent of Code template project for Kotlin",
+    "officialSite": "https://blog.jetbrains.com/kotlin/2023/11/advent-of-code-2023-with-kotlin/",
+    "topics": ["advent-of-code", "adventofcode", "aoc-2023-in-kotlin", "kotlin"]
+  }
+]

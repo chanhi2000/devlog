@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "PieterAbbeel",
+    "name": "Pieter Abbeel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQY_e57ux5Vm4ImF_cxlPmnlep0P5m48x-TeMFp2w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8ibaG_DPly8", "title": "L9 Generative Video -- UC Berkeley, Spring 2024 -- Wilson Yan" },
+    { "id": "Hr2FWHBuNXs", "title": "L12b Parallelization -- Instructor: Wilson Yan" },
+    { "id": "A36T-MPihTo", "title": "L12a Multimodal Models  -- Instructor: Wilson Yan" },
+    { "id": "NlIqjtbjjRE", "title": "L4 Latent Variable Models and Variational AutoEncoders -- CS294-158 SP24 Deep Unsupervised Learning" },
+    { "id": "lFAHPJS2HHc", "title": "L5 GANs -- CS294-158 SP24 Deep Unsupervised Learning -- UC Berkeley" },
+    { "id": "DsEDMjdxOv4", "title": "L6 Diffusion Models (SP24)" },
+    { "id": "s6xh6oKq1C0", "title": "L7 Self-Supervised Learning (Spring 2024, UC Berkeley) -- Pieter Abbeel & Philipp Wu" },
+    { "id": "tCgX48cvuw4", "title": "L8 Large Language Models (LLMs) --- Guest Instructor Hao Liu" },
+    { "id": "xWPViQ6LI-Q", "title": "Lecture 1 Introduction -- CS287-FA19 Advanced Robotics at UC Berkeley" }
+  ]
+}

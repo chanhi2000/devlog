@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "bbanghyong",
+    "name": "빵형의 개발도상국",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTI_T3iYjkfuZ5sS0lMe_bozchQiVnN0RMoDbaS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sczdSW4Wg_ScCe9ONXHpl68kFd-lvzVvaR4rrUQHPTPlKFyfBOFP2urRE8qjjUcBKJj_alvw7EI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "378pwb3vRgM", "title": "[무료 책증정 이벤트] 챗GPT로 PDF 요약 웹사이트 만들기 실습!" },
+    { "id": "dG1LMY3jHOA", "title": "I asked the AI master of hair masking to try the iPhone's Portrait mode..!" },
+    { "id": "AQmYY8N8iy8", "title": "Installing LLM on a Laptop for Offline Use - Quick and Easy" },
+    { "id": "cZBpEOpu28o", "title": "[책증정 이벤트] 이미지 처리 바이블 - 한 권만 읽으면 이미지 처리 전문가" },
+    { "id": "a1nLh06NDFs", "title": "앞으로 생성형 AI에 이 기술은 꼭 들어가야 할겁니다. LLM에 안보이는 워터마크 심는 방법" },
+    { "id": "ojSItxrdjMs", "title": "파운데이션 모델 AWS에서 사용해보기 - 생성형AI 무료 세미나 보러오세요~!" },
+    { "id": "grEfga0U9w0", "title": "제가 아는 한 로또 번호 예측은 불가능합니다. (소스코드 포함)" },
+    { "id": "HwTpySTgsdY", "title": "I Made a Watermelon Game Parody - Sputnika Game Clone" },
+    { "id": "55KltrrM5MY", "title": "🤖사진을 보고 웃긴 제목을 지으시오 - GPT-4 Vision API 튜토리얼" },
+    { "id": "PhxG0ltOUr0", "title": "짧은 코드로 오늘 뭐 입을지 추천해주는 챗봇 만들기 - ChatGPT Function Calling, SDXL" },
+    { "id": "g77Ob5_hPKE", "title": "YouTube Video Summarization - ChatGPT API, Map-Reduce" },
+    { "id": "dYvulaXxV2w", "title": "03. Stable Diffusion 웹앱 만들기 (KerasCV) - 빵형의 AI 활용 개발 강의" },
+    { "id": "ftXLn9DE7YY", "title": "여러 문서에서 검색/질문/답변하는 QA 챗봇 만들기 [매우쉬움주의] - LangChain, ChatGPT, Chroma DB" },
+    { "id": "8u2PngR2xpM", "title": "AI 웹앱 만들기 완벽 튜토리얼 - 코드 40줄로 인터넷에 공개하는 방법까지 자세하게!" },
+    { "id": "LGNVFnxDm0Y", "title": "ChatGPT Prompt Engineering" }
+  ]
+}

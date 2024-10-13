@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "UiBrainsTechnologies",
+    "name": "UiBrains Technologies",
+    "profile": "https://yt3.googleusercontent.com/at6IEG3vOEgIOhAlQYkydCDZxW0PakkHoe5RHfpvF-RsiRmhpiYO2ZEDeF2FCPi3fEuIhzaRHQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GDX-3Yc9fpdcRzkXuyAe0r_AQ-RgH_4HJUf_ECv2PSE06zOgpuIjiRxON3niX93WbhzYKCNR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VIQ4tM7VKoo", "title": "React JS Redux Crash Course | with TypeScript | UiBrains | NAVEEN SAGGAM" },
+    { "id": "enosEsVTe8c", "title": "React JS Online Training | E Commerce Application Live Demo | UiBrains Technologies | NAVEEN SAGGAM" }
+  ],
+  "playlists": [
+    
+  ]
+}

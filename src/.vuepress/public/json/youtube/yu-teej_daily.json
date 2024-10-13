@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "teej_daily",
+    "name": "teej_daily",
+    "profile": "https://yt3.googleusercontent.com/j9T3l0k-faQmVqHXseDPFk-HWZm0fdLBXNF0kuhkZKq_bw1fSVvr4fpt7yqOZPzb80qTuTF6=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NEZWxhrkyNaYQYX-W39guGfT34oG_DYwcAi7GrQ1Q_-KCt02obiDyUD2Qd326deKjW9hc9ixETw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ca8AJlF2Bqg", "title": "Writing a C Course for Boot dot Dev Pt 2" },
+    { "id": "Jn7fCEHWrDY", "title": "Making Snake in C" },
+    { "id": "_EE57v19KDo", "title": "How Do You Test C, Anyway?" },
+    { "id": "xPeIBAd8-Nk", "title": "From Notes to Blog Posts with Obsidian" },
+    { "id": "9pEf7DUGsEo", "title": "From Notes to Blog Posts with Obsidian Part 2" },
+    { "id": "V6I5cAmAv50", "title": "From Notes to Blog Posts with Obsidian Part 3" },
+    { "id": "m5hYClxe6wI", "title": "From Notes to Blog Posts with Obsidian Part 4" },
+    { "id": "0_1wPDmAtvE", "title": "Finishing  The OCaml Blog of All Time" },
+    { "id": "sG6SP6KEOYE", "title": "MORE MOJO FEWER PROBLEMS" },
+    { "id": "ZNgW4Pgqe5I", "title": "My Time With Mojo Ends Here" },
+    { "id": "Vsq-CcJtc0Y", "title": "Postgres Progress 2" },
+    { "id": "nq6q5qZFMjs", "title": "Postgres Progress" },
+    { "id": "SaRuzsEalI8", "title": "Learning a lot About Postgres" },
+    { "id": "c93ShXCu0dM", "title": "We Attempt To Try Postgres" },
+    { "id": "z5AKhjCUn7I", "title": "Exploring Tree Sitter for Neovim with OCaml" },
+    { "id": "D_XVTqV0k-4", "title": "Implementing GOTO in OCaml Pt. 2" },
+    { "id": "bx1-C8th2-A", "title": "Implementing `goto` in OCaml" },
+    { "id": "R6ce3C1KzVw", "title": "Setting Up The Environment | OCamLua Pt. 15" },
+    { "id": "RPKTI0HNNCc", "title": "Parser? I Barely Know 'er! | OCamLua Pt. 14" },
+    { "id": "R6Gf41COYuM", "title": "Making Beautiful Photos | Elixir Startup Pt. 5" },
+    { "id": "uOv2RAjMKkU", "title": "Modeling Users I Don't Have | Elixir Pt. 4" },
+    { "id": "6HUXw1U0GTM", "title": "Making My Life Miserable | Elixir Pt. 3" },
+    { "id": "5BOr3Bm_gfs", "title": "The Phoenix Rises From the Ash Framework | Elixir Startup Pt. 2" },
+    { "id": "71SO8NB2ghU", "title": "Writing a QR Code Generator in Go" },
+    { "id": "k_nSQSxuL9w", "title": "Writing a QR Code Generator in Go Pt 2" },
+    { "id": "o-E7TjBhmIs", "title": "Writing a C Course for Boot dot Dev!" }
+  ],
+  "playlists": [
+
+  ]
+}

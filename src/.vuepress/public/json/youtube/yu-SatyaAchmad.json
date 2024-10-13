@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "SatyaAchmad",
+    "name": "Satya Achmad",
+    "profile": "https://yt3.googleusercontent.com/kd6a5dOeNTj_1ml-L95Q_tNofyRvNfty7ITw47kaD0qpUaE6U5nbTkxLISVQ6NP7BsRKb8huIhg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/81StEpQxvsBnDZBRbklkLaiFZkQfgGvIhY54U8PJIwev3xycQ_jD6EilSqW__ZrBYiBDFaRv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "le4ZffNdTYk", "title": "3D Scatter Plot with Matplotlib Python #shorts #python #3d" },
+    { "id": "rntgBmAkCiY", "title": "3D Graph Matplotlib Pythn #shorts #python #3d" },
+    { "id": "1lmpidFQLCo", "title": "3D Scatter Plots with Python Matplotlib #shorts #python #3d" },
+    { "id": "yM_BulUWSBY", "title": "Building Browser Extension | Chrome | Edge" },
+    { "id": "wWaGNBd3gNQ", "title": "3D Wireframe Plotting in Python #shorts #3d #programming" },
+    { "id": "C-x4aLrn8jw", "title": "Run Kali Linux on VirtualBox Without Installation | NEW UPDATE" }, 
+    { "id": "xFxDDKPGq1g", "title": "Modern UI C Sharp Tutorial" },
+    { "id": "OYMKkOzBuS0", "title": "SQL Programming #shorts #sql #data" },
+    { "id": "WlKS7eAGkJU", "title": "MINECRAFT Font in VSCODE" },
+    { "id": "0HEfMJcJ9gM", "title": "DataTable Style in C# Visual Studio 2022" }
+  ]
+}

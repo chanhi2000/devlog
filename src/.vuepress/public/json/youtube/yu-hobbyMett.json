@@ -1,0 +1,103 @@
+{
+  "channel": {
+    "id": "hobbyMett",
+    "name": "코딩하는오후",
+    "profile": "https://yt3.googleusercontent.com/EOy9cI3luq9OU2Nco16QZTf76IeVKdBF0gAWEotgwl7z29hK4NHGe1RF-jYQ7uEBnsIiDOspK40=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/knZWtmFBCHXLGNhlaXU7NgZLLKWLE_8BBn-oATMTR0LuBnayGCAp9-zcuDPO3QT8S15ch54DEN4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ogV4d6q-ykQ", "title": "NextJS 14 : quick start" },
+    { "id": "XzPT6jXzBF0", "title": "spring cloud : config" },
+    { "id": "rQwJMmgx_bg", "title": "React Query : quick start" },
+    { "id": "bSdW8_68jcU", "title": "[오후의 Backlog] 4회 오후생각, 3월의 설문결과, 프론트와 React, Spring, 못다한 이야기" },
+    { "id": "iCwN4csEA8A", "title": "리펙터링 - 메서드 정리" },
+    { "id": "9egl5-3dxhg", "title": "Lighthouse로 성능측정하고 pre-Fetching으로 개선하기" },
+    { "id": "JgOI-PstGDs", "title": "JDK 22 부터는 외부 리소스의 메모리 관리가 잘 될까" },
+    { "id": "zEUsNBSq9C8", "title": "graphql spec편" },
+    { "id": "AeCoJnpfTRI", "title": "[오후의 Backlog] 5회 오후생각, 이달의설문, 이벤트스토밍과UML, 리팩토링과애플리케이션통합, 상품Goods에대하여, 반복공정,키보드리뷰,쉬어가기" },
+    { "id": "rYN9EhT3Mxc", "title": "Java 데이터 다루기 입문(풀코스, 2시간)" },
+    { "id": "WTvJVV91lts", "title": "스프링부트 : 코드 커버리지" },
+    { "id": "q0BpiA6HVGE", "title": "React Redux toolkit : quick start" },
+    { "id": "L5ID-3r-U4w", "title": "Zustand는 작고, 빠르고, 확장가능한 상태관리 솔루션입니다." },
+    { "id": "asDNPNmkPFE", "title": "스프링부트 : localhost에서 https 이용하기" },
+    { "id": "gWqrgygvMsU", "title": "Refactoring 실습" },
+    { "id": "a4h4b4IidwY", "title": "findById는 왜 Optional을 리턴할까" },
+    { "id": "zewUad-RQ_E", "title": "관계형데이터베이스 구현" },
+    { "id": "cIZDQQYKwNY", "title": "Nest.js에서 데코레이터가 동작하는 원리를 알아봅시다." },
+    { "id": "uDmhEgh-OsE", "title": "백엔드 older 개발자의 스타일시트 도전기(응원바랍니다)" },
+    { "id": "cvv5kJUDf0A", "title": "[오후의 Backlog] 1회 백로그의 시작, spring 3 변경점, 인공지능, 개발공정, 못했던 이야기" },
+    { "id": "74ZNIyoyRVQ", "title": "기업환경 애플리케이션을 구축할 때 고려해야 할 아키텍처 구성요소를 알아봅시다." },
+    { "id": "aSq3RLmKVMQ", "title": "소스 리파지토리는 하나로 관리합시다. 여러 개는 귀찮아." },
+    { "id": "R_ZpKrQefVY", "title": "Vuetify 3 utility classes" },
+    { "id": "iUpN3zEzWz0", "title": "NestJS 와 React 결합하기" },
+    { "id": "4rbkef88Z3w", "title": "RestClient를 시용해서 fluent하게 호출해봅시다" },
+    { "id": "ndiN3UXTozo", "title": "자 이제 DDD에게 작별인사를 해야될 때 인것 같습니다." },
+    { "id": "YDUE_V72O_4", "title": "Nest.js 저도 할 줄 알아요" },
+    { "id": "3qGkg0to0F4", "title": "Back Office에서 사용하는 Admin UI의 특성을 살펴봐요" },
+    { "id": "0RyECSrkyOg", "title": "클린아키텍처를 위한 데이터 객체를 record로 표현하였습니다." },
+    { "id": "qmzTj9otImU", "title": "docker compose support를 이용하면 개발할때 DB설정 안해도 됩니다." },
+    { "id": "MX6SPD-x3rI", "title": "댓글 : 이벤트스토밍" },
+    { "id": "HHEMtz1Oj4Y", "title": "가상스레드(virtual thread)는 정말 빠를까" },
+    { "id": "RKxQWQJftAg", "title": "JdbcClient와 record를 결합하면 시너지가 커집니다." },
+    { "id": "gEzACyQyKa4", "title": "Coding과 세컨드브레인의 CODE 그리고 SI개발" },
+    { "id": "36NE97mx7Z0", "title": "The Factory 프로젝트에 jdk 21, springboot 3.2를 적용하였습니다." },
+    { "id": "kfDduuLCVdM", "title": "jdk21과 함께해요. jdk 8 이후의 문법 변경사항을 싹 훑어 보았습니다." },
+    { "id": "Pqe8dfeH7AY", "title": "notion vs obsidian" },
+    { "id": "RfdGs_DqF40", "title": "JPA, 느림에 대하여" }
+  ],
+  "playlists": [
+    {
+      "title": "스프링부트",
+      "videos": [
+        { "id": "ZoM0l19Dfbk", "title": "스프링부트 : 프로젝트 생성과 구조 이해" },
+        { "id": "smfgCOV59gw", "title": "스프링부트 : 웹 애플리케이션 개발" },
+        { "id": "xpXAj1udnkU", "title": "스프링부트 : 데이터베이스 연동" },
+        { "id": "3CY2pk-Ug10", "title": "스프링부트 : 보안" },
+        { "id": "2woFjJ8_5MI", "title": "스프링부트: 배포와 운영" },
+        { "id": "UgaqRs-qTHo", "title": "VO 그거 꼭 변환해야하나" },
+        { "id": "qyfIWbwGkeA", "title": "스프링부트: jwt" },
+        { "id": "pLfUiXbVOh8", "title": "스프링부트 : QueryDSL" },
+        { "id": "Sbr-UVZpRAQ", "title": "스프링부트 : 데이터베이스 초기화" },
+        { "id": "Y9rKRYFs59g", "title": "스프링부트: 데이터전송 표준모델 구축" },
+        { "id": "axWrDDsOEeU", "title": "스프링부트: 멀티 데이터소스 구성" },
+        { "id": "MPXoTJ4-NuA", "title": "스프링부트: JWT - refresh token과 로그아웃" },
+        { "id": "NYfAuvV2ghw", "title": "스프링부트 : 시스템 환경변수 읽기" }
+      ]
+    }, {
+      "title": "풀코스 영상모음",
+      "videos": [
+        { "id": "heIUN4Gj7W0", "title": "스프링부트 3 입문 - 풀코스(4시간16분)" },
+        { "id": "g7PuvrhIfoo", "title": "비전공 문과생을 위한 Java 기초 - 풀코스 (3시간18분)" },
+        { "id": "5trj4WfsrrQ", "title": "VS Code - 단기완성과정 (2시간 51분)" },
+        { "id": "8YY1rAWtokU", "title": "Vue3 입문 - 풀코스 (2시간16분)" },
+        { "id": "RAcFrxJcxP0", "title": "필수 디자인패턴 3종 (feat. TDD) (58분)" },
+        { "id": "bQTK-X4S08A", "title": "TDD 필수과정 - 풀코스 (1시간 28분)" },
+        { "id": "PZIgj7OZQ8E", "title": "클린아키텍처" },
+        { "id": "9Q5IyeGfTaQ", "title": "Java 함수형 프로그래밍 - 풀코스(3시간27분)" },
+        { "id": "NVh6rLU1SZI", "title": "javascript - mdn해설 6종모음 (1시간50분)" },
+        { "id": "clRVWo7NBZ0", "title": "Java 객체지향  - 풀코스 (1시간 7분)" },
+        { "id": "x7i3X-XGErQ", "title": "관계형 데이터베이스 설계" },
+        { "id": "N2amGPCvLoU", "title": "알아두면 쓸모있을 디자인패턴 4종 (1시간 10분)" },
+        { "id": "LBl2r4lXlCs", "title": "자주 사용하는 리눅스 명령어 - 풀코스(1시간 40분)" },
+        { "id": "Su4zxxB6w14", "title": "VSCode DevOps : 도커편 - 풀코스 (53분)" },
+        { "id": "VsyfLpS1fZw", "title": "SQL 기초 - 풀코스(1시간16분)" },
+        { "id": "o-nwvV6apUE", "title": "State of JS 언어편 mdn해설 - 풀코스(2시간 37분)" }
+      ]
+    }, {
+      "title": "시작하는 개발자를 위한 IT 이야기",
+      "videos": [
+        { "id": "LytizC2Tq6A", "title": "SI 프로젝트는 어떻게 진행될까" },
+        { "id": "qWZTaQPrALs", "title": "7 Cores to Learn Programming Languages" },
+        { "id": "qITQuMaDE5g", "title": "백엔드 자바개발자 필수스킬" },
+        { "id": "5trj4WfsrrQ", "title": "VS Code - 단기완성과정 (2시간 51분)" },
+        { "id": "qagORY-ldyA", "title": "Designing software with VSCode" },
+        { "id": "5qvlbl2TA4I", "title": "노션(Notion) 자~~알 사용하고 있습니다." },
+        { "id": "uoK6VC1iQMk", "title": "VS Code에서 Git 사용하기" },
+        { "id": "IZqBILdlGM4", "title": "클래스 다이어그램으로 코드읽기" },
+        { "id": "ldcEa4hNgrE", "title": "파이썬 개발환경 설정" },
+        { "id": "rvJvVF3LuCE", "title": "파이썬 기본 문법" },
+        { "id": "UR-4Nxr2AkU", "title": "[특강] 시작하는 개발자를 위한 IT이야기" }
+      ]
+    }
+  ]
+}

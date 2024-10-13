@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "100xEngineers",
+    "name": "100x Engineers",
+    "profile": "https://yt3.googleusercontent.com/cRgz5gSd-Vky4SGrkVeNM9MRiNnuRav8vVrZ5McexXnAnLOwdQq6SBGWKpFJN_8P2luygDbUkSA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PrJ-4NJkwvfpEgccRdS76O295ZVyU5idL1vzG_Hypz9YILYHCO9PTQu_awRx8AC3pZpMC9X7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5hECAEzmBxc", "title": "Generate 3d objects from any images!" },
+    { "id": "CHW5SExulzI", "title": "Introduction to Generative AI : A Masterclass | 100xEngineers" },
+    { "id": "LmqMJhwqr50", "title": "Amazon Shopping With its AI" },
+    { "id": "S1gjSuHyY_8", "title": "AI Start-up Ideas in e-Commerce - 100xFireside Chat Ep1" },
+    { "id": "qJ8785IwqRA", "title": "Ai tool to help you be more productive" },
+    { "id": "2eZkVGR3orM", "title": "Best Resume builder!" }
+  ]
+}

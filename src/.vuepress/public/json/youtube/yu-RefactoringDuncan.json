@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "RefactoringDuncan",
+    "name": "Refactoring to Kotlin",
+    "profile": "https://yt3.googleusercontent.com/DBUiMYFc5QDuGo7-MFSNpQBk5YxJGEwUpAair9N7FqcJ0QPUcARGts4Xb2sKFJ971Dk_-MM5hg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6eMTOSrMTjdl81iFeJt1FfoIX8D321aXe8JuVIgSxoz4o-bVgodPiwXhKzywNozMeSeMQA7T=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KG-9abhSZFI", "title": "Ultimate Kotlin TDD FizzBuzz" },
+    { "id": "OG6wwCkljaA", "title": "This one’s important - Refactoring to Functional Kotlin" },
+    { "id": "jWFnDcnHeCE", "title": "AI-Generated Property-Based Fizz-BuzzWords - Now with Dark Mode" },
+    { "id": "5DHDOn3LttA", "title": "Supercharge your Kotlin with Java Dynamic Proxies" },
+    { "id": "RdKlBrYAxLU", "title": "The one where Duncan got Covid" },
+    { "id": "ThhXa1x-osM", "title": "Implementing Interfaces with Method Maps" },
+    { "id": "cjJYEOeu5fM", "title": "Science with Servers - Benchmarking http4k and ktor" },
+    { "id": "MP18mcCu8Hg", "title": "Was Betteridge right?" },
+    { "id": "ujxNvC_Q_cA", "title": "Kotlin Power Assert" },
+    { "id": "beSQlDqcPdA", "title": "Benchmarking Ktor and http4k" },
+    { "id": "PdH-1UGAqBk", "title": "Refactoring to the Repository Pattern" },
+    { "id": "lKIZA8PiQ3Y", "title": "We need to talk about Gradle" },
+    { "id": "NH70qwTMbBo", "title": "Ktor vs http4k" },
+    { "id": "aB5wRgsu938", "title": "Generalising all the things - Expert Kotlin Refactoring" },
+    { "id": "CQ-HkC8-VWc", "title": "Ktor and Dependency Injection" },
+    { "id": "cfivesAC_cw", "title": "Kotlin Coroutines and Loom" },
+    { "id": "-Pf0xOsRDVY", "title": "(re)Creating a Ktor DSL" }
+  ],
+  "playlists": [
+
+  ]
+}

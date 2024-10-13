@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "embracethered",
+    "name": "Embrace The Red",
+    "profile": "https://yt3.googleusercontent.com/GHF5brAxJI-2xiFdfJFX9BD_gXAqCRK5gBZxgf00MDiyoeLtnfEfFkYtqAaKpssDy_o6BsgWZw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l2Dwx-5muIM-2BsWf5NRtZtjMxL20PjJj1Sf6OfLa40zUJ4105Yi95v7ZZVcw_0EI1ZN78S9yN0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mHgsnMlafwU", "title": "ChatGPT - Imagine you are a Microsoft SQL Server database server" }
+  ]
+}

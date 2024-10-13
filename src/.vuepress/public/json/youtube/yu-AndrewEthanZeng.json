@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "AndrewEthanZeng",
+    "name": "Andrew Ethan Zeng",
+    "profile": "https://yt3.googleusercontent.com/BrfQlqpsbaw_8nEiaZtBPFNS0NvFUctX2tm3eQ_hiPAGJZcQWfSj-1LSG5wvNJ5lZdfVKkWANn8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Maj07WbQYK-ljRrxzaBmzZKEJhZIh3_pYDuldAYaOUbbwhpP6pTkUJdd4FWa60XqIgQ3s1htIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NXXI9SoAllw", "title": "macOS Sonoma – 12 Settings You NEED to Change on Launch" },
+    { "id": "YPV6BitbPmM", "title": "macOS Ventura – 14 Settings You NEED to Change on Launch" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "chemophilia",
+    "name": "화학하악",
+    "profile": "https://yt3.googleusercontent.com/0KB0hSRIz9gw4HOC_75PFkOQk5vDjcDe8tKekZKTI8KozK3LcnctU1OPL80G8SaplAyAlt8Ueg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4x56ewJTk7PeBCRNBuGwyhZq3ox4iI3udDz8LUiBzzwzLmlQ79JafBaqayb88zjSlcmxQ2_erA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l_yCgHrCF-w", "title": "콜라로 정말 청소할 수 있을까? 콜라의 화학!" },
+    { "id": "DsLtl5pUKo8", "title": "도대체 화씨온도를 왜 쓸까?!" }
+  ]
+}

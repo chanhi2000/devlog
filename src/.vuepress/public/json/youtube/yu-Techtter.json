@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Techtter",
+    "name": "Techtter",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYnB7EgbUi-l8sdyFYqZ4Q7D6N11MP_eTH0h9oXFg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0NJFHJQgBEYI4FVquqIDw7eO4-w-A_VOk4CCWeI84UmebsgdMMa4weZF9TiJhbdMpFm7cMCbtQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jYabQ4kqiSM", "title": "Azure DevOps Complete Guide 📚for CICD #azure #shorts #devops" },
+    { "id": "FwCkMjTaqsU", "title": "DataVault on Azure Synapse Analytics ☁️🚀🌈 #shorts #azure #dataengineering" },
+    { "id": "pKcfG-OUfkY", "title": "Delta Lake Cheat Sheets 👍😎📝for Data Professional #shorts #deltalake" },
+    { "id": "s7kVR6yK78M", "title": "Spring Boot with Kafka Producer & Consumer Example || Techtter " }
+  ]
+}

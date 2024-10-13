@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "icttrainer6889",
+    "name": "ICT Trainer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaSEeDb5haEOII3Lu7k4vkGBRkege1rMvjKhzI6h=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hGcIm7LG1mFnz2WGFgynqrIwJG6wvaXh3EytAipeD82SFf50BtMTTRX77CtRDYF2cGvnP0rUyw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Wv7xIHtutdg", "title": "[Springboot Application] Access denied for user 'root'@'localhost' | 3 possible reasons why!" },
+    { "id": "P1rTVd81Yto", "title": "Operation did not complete successfully because the file contains a virus" },
+    { "id": "HsJrOKkiZTk", "title": "Check which service is running on which port" },
+    { "id": "FCqHhV2Q4yc", "title": "Error MySQL shutdown unexpectedly" },
+    { "id": "u7rC1u0iFeI", "title": "Not recognized as internal or external command operable program or batch file" },
+    { "id": "Y99SDzREXv4", "title": "Network File Access Sharing TV, Printers, Mobile Phones, Laptops, Windows" },
+    { "id": "lzvEBSmYAno", "title": "How to configure port for a Spring Boot application" },
+    { "id": "K2Ku1cKYOuA", "title": "Python is Not Recognized as an Internal or External Command" },
+    { "id": "jU-PLAaBG2Q", "title": "PIP is not recognized as an internal or external command" },
+    { "id": "4QYLBWWQIDQ", "title": "Maven plugins can not be found in IntelliJ" },
+    { "id": "IjOSaEq8pWc", "title": "How to add local jar files to a Maven project" },
+    { "id": "ZyFmYYO9L1s", "title": "[SOLVED] How to fix keyboard Not Working | All windows OS" },
+    { "id": "Zn7URDMhjX8", "title": "How to clean up WinSxS folder in Windows 7, 8, 10, 11" },
+    { "id": "owBvy7h3npg", "title": "You require permission from SYSTEM to make changes to this folder" },
+    { "id": "72yJMA7UL04", "title": "How to fix and speed up | RAM | Memory | Disk  | GPU | Internet" },
+    { "id": "fgIpf0I_Ol8", "title": "The JAVA HOME Environment variable is not defines correctly" },
+    { "id": "mMl2r9XOvcQ", "title": "Unit Testing LeapYear and NonLeaYear check it out!" },
+    { "id": "ed-4yhWduOA", "title": "Unit Testing for Computing E" },
+    { "id": "KcBv2yXlty8", "title": "Gradle: Task 'run' not found in root project" },
+    { "id": "u2zDSWTixgQ", "title": "Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle" },
+    { "id": "lLa7MVwVZA4", "title": "Understand SpringBootApplication Annotation" },
+    { "id": "zcvMeE65v8o", "title": "SpringReact Travel App" },
+    { "id": "vzoecyd6Tx4", "title": "Unit Testing Financial Application Compound value" },
+    { "id": "QnRh_R20K6Q", "title": "Rest Controller Explained" },
+    { "id": "mFurERg3b9Q", "title": "Unit Testing" }
+  ]
+}

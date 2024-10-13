@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "backendbanterfm",
+    "name": "Backend Banter",
+    "profile": "https://yt3.googleusercontent.com/rDbXKsxmY2H5JtCrHtVuqyIJFzo70eIuyummRSQ_k5kXgggCgZmKrlLsNWMLDW3kvBYFYMT2qg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/B0ey-SYJMdWxrd-zqT8RndGxk1usfGPM7JScbKDEayF2GNjd5MqWUsI8nE8wFkOoymd7kQvW=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uHaE3TfsxJA", "title": "Forget SQL, use Typescript feat. Thomas Ballinger | 061" },
+    { "id": "2rP4vHPbelU", "title": "I was fired for using HTMX | 063" },
+    { "id": "00XOiggcQ8Q", "title": "Talking Go with the Go God ft. AnthonyGG | Backend Banter 055" },
+    { "id": "Y8h_HWEPDY8", "title": "Stop Making Private Variables feat. BadCop  | 058" },
+    { "id": "GRgqTK3ZHrM", "title": "The Internet == AWS? feat. James Q Quick | 059" },
+    { "id": "N936XwLmtmo", "title": "Go isn’t secure?!? ft. Low Level Learning | Backend Banter 053" },
+    { "id": "jBnrUcK3C2I", "title": "CS Programs Should NOT Teach Git ft. ThePrimeagen | Backend Banter 054" },
+    { "id": "IGJYdu5vJQo", "title": "Python is Faster than Rust | Backend Banter 050" },
+    { "id": "3C5iuBJJsJE", "title": "Becoming a Netflix-Level Engineer with @trash_dev  | Backend Banter 012" },
+    { "id": "ruW9wtH2AZs", "title": "Managers should know how to code ft. Thorsten Ball | Backend Banter 044" },
+    { "id": "GQnM2C0fhv0", "title": "Whiskey, Web, and Wagners | Backend Banter 045" },
+    { "id": "-Vi0Gy8On4Q", "title": "How I Spent $100,000/mo on CI/CD | Backend Banter 046" },
+    { "id": "YHt00vmaOu4", "title": "Your command line sucks ft. Bashbunni | Backend Banter 048" },
+    { "id": "BhJWRRa14wY", "title": "Is OCaml SaaS Ready? | Backend Banter 049" }
+  ],
+  "playlists": [
+
+  ]
+}

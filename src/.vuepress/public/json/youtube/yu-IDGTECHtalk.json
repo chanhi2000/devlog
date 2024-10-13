@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "IDGTECHtalk",
+    "name": "IDG TECHtalk",
+    "profile": "https://yt3.googleusercontent.com/IS-BIhRrFCxhCihcOiggFgTPCU6NhgUh-z3rYROO5Fp6yEBax9FtEnO3veW4MFERw0qliwhy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KUq6Z9y_ZZUcPTUnCj0cc5U_Z28cw-79cKym8X6Lp3xfN_AUOKqwLpbbZx70n88Q-koxeov9cQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PVSOWxM0TtU", "title": "Tech layoffs continue, while AI prevents them from getting new jobs quickly | Ep. 137" },
+    { "id": "h3n0-p6x1Mo", "title": "More tech layoffs as AI takes hold | Ep. 146" },
+    { "id": "4cuDqq__5wU", "title": "Choosing the right LLM for your AI project | Ep. 124" },
+    { "id": "0xAhDNgct5M", "title": "Will ‘AI overload’ disrupt its adoption by consumers, businesses? | Ep. 128" },
+    { "id": "6hrl_6rPZUs", "title": "LockBit feud with law enforcement feels like a TV drama | Ep. 131" },
+    { "id": "faduhbb-YlQ", "title": "Natural instinct: Criminals do crime things, dinosaurs do dinosaur things| Ep. 132" },
+    { "id": "dcdbKFKH1cE", "title": "Docker Selenium and Mock Server in Automation | vodQA Coimbatore 2017" },
+    { "id": "ZKSAlojaJcY", "title": "How to use `exiftool`: 2-Minute Linux Tips" }
+  ]
+}

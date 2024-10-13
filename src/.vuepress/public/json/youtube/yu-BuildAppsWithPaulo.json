@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "BuildAppsWithPaulo",
+    "name": "Build Apps With Paulo",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNYtCcTCc8QBPy41e09oLQBkwWccSMUHs0pxNqs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": " https://yt3.googleusercontent.com/dTUNu11R-8tBLFa2xq7K6Cw2wPLkLM7FEUXKMOdIyZBWUsDautqtua56YS53Y6dPC9ZURfh7Cg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d5PWxrzO55U", "title": "Android Developer's Portfolio - Build a Drawing App - Part 2" }, 
+    { "id": "JgDXu4diW-o", "title": "Android Tutorial - Learn Android in 2 Hours - Android App Development Tutorial with Android Studio" }, 
+    { "id": "WQEEjD3hwjA", "title": "Java 9 Course - Build a Todo App  With JavaFX - Setup -  Part 1" }, 
+    { "id": "nzshmMlOuwI", "title": "D3 JS - Build Data Driven Visualizations with Javascript [svg animation, data engineering]" } 
+  ]
+}
+
+

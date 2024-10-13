@@ -1,0 +1,45 @@
+[
+  {
+    "repo": "melisgl/mgl",
+    "desc": "Common Lisp machine learning library.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PuellaeMagicae/unix-in-lisp",
+    "desc": "Mount Unix system into Common Lisp image",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "reddit-archive/reddit1.0",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "susam/emacs4cl",
+    "desc": "A 50 line DIY kit to set up vanilla Emacs for Common Lisp programming",
+    "officialSite": "",
+    "topics": ["emacs", "dark-theme", "emacs-lisp", "common-lisp", "sbcl", "minimalist", "paredit", "slime", "emacs-initialization", "rainbow-delimiters"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rabbibotton/clog",
+    "desc": "CLOG - The Common Lisp Omnificent GUI",
+    "officialSite": "",
+    "topics": ["gui", "lisp", "websocket-server", "common-lisp", "webframework", "html-bindings", "html-over-the-wire", "javascript-over-the-wire"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lelanthran/l2h",
+    "desc": "Convert s-expressions input to HTML output.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }
+]

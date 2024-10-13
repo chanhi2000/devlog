@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "selfhosted",
+    "name": "Noted",
+    "profile": "https://yt3.googleusercontent.com/bk4pZTUzyHgiDqXL77OvWML3rfGHjqBm_0j8HrsRmaJu8r61yXSH4-JIUZ2eTlBwWGb4Ay4AEA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fw7OYq28568zHLyAr_uIgdnP7oWugw9VEUoKogbczXdbiWsskmo5J5QFZ_gACsHOp8ERCYNeQXQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gXuLiglJceY", "title": "Docker in Proxmox V7 LXC with Turnkey Core - Lower Resources by 80% Compared to VMs" }, 
+    { "id": "nUjDGxazkOQ", "title": "How to Self Host your own Website Analytics With Umami" }, 
+    { "id": "j-koy09p-jw", "title": "Create Your own Self Hosted 24/7 Radio Station with AzuraCast and Docker" }, 
+    { "id": "79KiCBNbsbg", "title": "Docker in Proxmox LXC with Turnkey Core - Lower Resources by 80% Compared to VMs" }
+  ]
+}

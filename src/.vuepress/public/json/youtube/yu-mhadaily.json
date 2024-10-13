@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "mhadaily",
+    "name": "Majid Hajian",
+    "profile": "https://yt3.googleusercontent.com/w2kqmU39LOsP9E7YRFprwVIMweRWK7ryK7O9fRfnnLUWc1uiQkKSDOYEXLa6UC4yfdBDDI48LcM=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oyxXh_yip44f2RqNc3MbHHImp--fD7_hW1P4PZUv78jYFHrFAMRxaykWKny6vfMZuuC-ZXjVa8s=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "f-NIEKJRmsQ", "title": "Ready fix your Dart code? Pair programming with Dmitry Zhifarsky author of DCM" },
+    { "id": "mVvDdWKQ05c", "title": "Managing Flutter Versions With Leo Farias" },
+    { "id": "jcwOfzy5in0", "title": "From Developer to Entrepreneurship - with Dmitry Zhifarsky" },
+    { "id": "_LotKsXwcKE", "title": "Achieve Mastery with My Flutter Engineering Book" },
+    { "id": "qd-Zm0UOFxw", "title": "Become the top 100 contributors for Flutter with Taha Tesser" },
+    { "id": "InTuwdeTNJ0", "title": "Isar Database - coding with the author Simon Leier" },
+    { "id": "ksDrDmhsqlw", "title": "Landover Game made by Flutter" },
+    { "id": "ebEi1pycHVI", "title": "Creating Content journey @CodeWithAndrea" },
+    { "id": " 7vln5ByYcoI", "title": "Cross Platform File Picker in Flutter - Pair Programming with File_Picker Author" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "RahulRathore41",
+    "name": "Rahul Rathore",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNJvWGFKV-SazFCIVKZPkMyihmHjN7Z-k0bVeyZuA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MUTNDd-SaD6d7miFOwB9JP29ncXbvMaMiLJsK3pgBH0kpvPCECkMWaBCe2C-0K6NozbUZ1QISbE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qZVobRIwbDY", "title": "29. Karate Framework || Delete Request." },
+    { "id": "G_8Sqv-8F0c", "title": "30. Karate Framework || Request Chaining." },
+    { "id": "S45hhf7CAnk", "title": "28. Karate Framework || Patch Request." },
+    { "id": "tjWAmZIgndI", "title": "20. RestSharp || JSON Object Validation." },
+    { "id": "vhQCn48cqGk", "title": "JUnit Framework || JUnit Pioneer || Environment Variables || Part - 2." },
+    { "id": "AbelpwIaa38", "title": "JUnit Framework || JUnit Pioneer || Environment Variables || Part - 1." },
+    { "id": "YZ_q5cD8YNg", "title": "27. Karate Framework || Query Parameter." },
+    { "id": "tWzBwxXdTQo", "title": "26. Karate Framework || Parallel Runner || Running the test in Parallel." },
+    { "id": "xy0ezPkjTZg", "title": "23. Karate Framework || Calling other feature file || feature file as a re-usable unit." },
+    { "id": "wv-tdedQXCs", "title": "22. Karate Framework || Put Request." }, 
+    { "id": "0csCijzM2ag", "title": "JUnit Framework || Hamcrest Framework || Part - 1." }, 
+    { "id": "jmvbhuJXFow", "title": "🔴 Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API" }, 
+    { "id": "QGALiJTfotE", "title": "Part 1 || Selenium WebDriver || Rest Assured || Session & Cookies." }, 
+    { "id": "pNaHKuslQGs", "title": "Katalon Studio || Features || Time Capsule || Self Healing || Browser-based Recording." }, 
+    { "id": "fqCNACFRl1I", "title": "5. Selenium Webdriver || Framework || Maven Archetype." }, 
+    { "id": "_9a7G3pvzcM", "title": "3. Selenium 4 || Taking Screen Shot of Web Element" }, 
+    { "id": "vsfDbYJ8WL4", "title": "7. Cucumber 4 || Custom TestNG Runner || Part - 2." }, 
+    { "id": "bk5ClNki0bQ", "title": "1. MsTest Framework || Part - 1." } 
+  ],
+  "playlists": [
+
+  ]
+}

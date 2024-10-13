@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "BryanLunduke",
+    "name": "Bryan Lunduke",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSV5Y4V4PYwsFu8ucH6xyl5xWlPVPB7ncTeYf1KCQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CunyQtSicuqoqvfvbGkicgcs1ukqZkImkoq2l-RvNa-sd4_cfFj8v1cZ4bBXbiITvI9WgLRaEg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nwY0FXqE8N4", "title": "Computer Desktops haven't improved in a Quarter of a Century (at least)" },
+    { "id": "gMIwT-IBgJQ", "title": "YouTube has banned us from uploading -- see description (\"Programmed in Rust\" is not a feature)" },
+    { "id": "ZZdA6nDuCg0", "title": "If Big Tech had their way The Lunduke Journal would be out of business already" },
+    { "id": "csEe6VNNXlU", "title": "DOS Week Part II Begins!" },
+    { "id": "Z46f-g5Awf8", "title": "Which Operating System has the Most Vulnerabilities?" },
+    { "id": "TsF4uSdodBc", "title": "\"If this one guy got hit by a bus, the world's software would fall apart.\"" },
+    { "id": "lspCFWI91Jk", "title": "Crazy Tech People Who Hate Lunduke - Part I" },
+    { "id": "pD6VSOOzYjU", "title": "Myth: \"HTML was invented by Tim Berners-Lee\"" },
+    { "id": "UQ770FOWgeY", "title": "Red Hat vs Hyprland: Silencing political \"undesirables\"" },
+    { "id": "d8esyovAeU8", "title": "Sometimes the worst gadgets... are the best.  The Humane AI Pin." },
+    { "id": "FN9eph9GguM", "title": "The Internet Archive's Last Stand" },
+    { "id": "pzhGAt3wYTI", "title": "Microsoft Releases DOS 4.0 Source Code... but it Doesn't Compile!" },
+    { "id": "Q9rDl1HhTdo", "title": "Mozilla Miracles: New CEO, Layoffs, & Actual Press Coverage" },
+    { "id": "LhOvYgpA6Qs", "title": "The Open Source Leftist Strategy: Silence and Bully" },
+    { "id": "xTmNRKn1ocQ", "title": "No. Linux does not have 4% marketshare. Hate to break it to ya." },
+    { "id": "UmxgrhCeWdo", "title": "The Legend of the Michelangelo Virus of 1992" },
+    { "id": "LTVxkAgqsGA", "title": "Why create a new Desktop Environment that looks like GNOME?" },
+    { "id": "ODcdhJW9rD0", "title": "I criticized System76's Cosmic for recreating GNOME.  I was wrong." },
+    { "id": "_m4ogc3wlus", "title": "Make Linux look like... ANYTHING." },
+    { "id": "hzNy_Si_0cQ", "title": "70% of companies on the Linux Foundation Board are GPL violators." },
+    { "id": "zUqx1OVLv1Q", "title": "No.  The C++ Mascot is not a \"diseased rat named Keith\" drawn by RMS." },
+    { "id": "AYI7XgCtdrc", "title": "The Dirty Secret of Big Tech Advertising (it's all about buying Tech Journalists)" },
+    { "id": "uNGjX1jyh-4", "title": "Copyright, Piracy, and the bleak future of The Internet Archive" },
+    { "id": "8lVFXh1xwb0", "title": "The entire leaked Red Hat \"Allyship Kickoff\" Presentation. Unedited & Uncensored." },
+    { "id": "LyWyHkG7_rE", "title": "IBM / Red Hat whistleblower leaks internal, racist, anti-White presentation" },
+    { "id": "Ggchw1LH9b4", "title": "Lunduke Journal prices going up (to match inflation)" },
+    { "id": "3fh34Nc26YA", "title": "Making Windows Tolerable with Chris Titus" },
+    { "id": "F_jSJn7tdjE", "title": "10 More Pointless (but awesome) Linux Terminal Tricks" }
+  ]
+}

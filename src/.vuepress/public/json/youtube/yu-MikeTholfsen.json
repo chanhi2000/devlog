@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "MikeTholfsen",
+    "name": "Mike Tholfsen",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZLXkFDpLU1qoI9kYV5j73NhpfmiigPfPhMGyGIew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dzAsfMlNPaSapfQBa4uXzisrd3rhR3yjYbbC8PE8dOshRXHcdsm_kV2SNgVMmJbL92vQUS1I9ck=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aIfNFsPimig", "title": "My favorite Office shortcut of all time" },
+    { "id": "QsW_3sl_EsI", "title": "Excel shortcut to insert rows" },
+    { "id": "i8QqNUS4Hww", "title": "9 new features in Microsoft Excel for 2024" },
+    { "id": "t-dQkIfzbtE", "title": "11 new features in Microsoft Teams for Education for Spring 2024" },
+    { "id": "Imn_jw0AFV4", "title": "6 Microsoft Forms new features for 2024" },
+    { "id": "V9b6i0bhsV4", "title": "The New TEXTSPLIT () function in Excel ✂️" },
+    { "id": "hpcEwj1lt2A", "title": "Microsoft Reading Coach // AI powered, personalized reading practice" },
+    { "id": "b_Fdiu3C1mM", "title": "AutoSum trick in Microsoft Excel" },
+    { "id": "1I3qY-_bYcw", "title": "8 new features in Microsoft OneNote for 2024" },
+    { "id": "5ePllhyaq0A", "title": "6 new features in Microsoft Teams for Spring 2024" },
+    { "id": "iZOju4jY65Y", "title": "10 new features in Microsoft Teams for 2024" },
+    { "id": "QfAm6jhcQ1g", "title": "AutoFit tables in Microsoft Word" },
+    { "id": "6B1CiBfxX4s", "title": "Top 5 new features in Microsoft Reflect" },
+    { "id": "a1EmBsGj0ng", "title": "Data Entry Form in Excel 📝" },
+    { "id": "3Zvd4lnZ2sU", "title": "Excel AI with Analyze Data" },
+    { "id": "kya-6ZU5WPo", "title": "AI in Education - the latest updates from Microsoft EDU" },
+    { "id": "rLflpTo6Dqg", "title": "A trick to create bullets in Microsoft Word" },
+    { "id": "QjXnotF5cqk", "title": "Text cleaning tips in Microsoft Excel 🧹" },
+    { "id": "RZpj-scMee8", "title": "8 MORE Microsoft OneNote tips and tricks in 1 minute ⏱ #shorts" },
+    { "id": "UIzN-MCbjQY", "title": "Windows 11 Screen Recorder with the Snipping Tool ✂️" }
+  ]
+}

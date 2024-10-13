@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "thedevenvironment",
+    "name": "The Dev Environment",
+    "profile": "https://yt3.googleusercontent.com/FACY9aSZ6iqQw2TTfhaKdurTlv80Oz-e5jCyY-D0gz8TY-GHuZGsu6M-ExWUFL1dhb8A6vcEpg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_VvnZJ6pYPAFVUUh-4mijoG4z7zad-m0sbuuqSDm86RVY5D55aAg9zFf3YwSI4FJ4IoBtpYJGQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Xb-HxFGayfY", "title": "Getting Started with React Native & Expo in 2024 (Typescript, Unit Tests, Styling, Expo Router, etc)" },
+    { "id": "sJii6Y2nBjU", "title": "React + Typescript Coding Challenge ⚛ [Junior / Intermediate]" },
+    { "id": "1p9sdvKUbUY", "title": "Mastering React Native & Expo: From Scratch! Pt.1 🌟" }
+  ]
+}

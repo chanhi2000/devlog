@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "SCALER",
+    "name": "SCALER",
+    "profile": "https://yt3.googleusercontent.com/Hf8YZvGY0M1lgK7B-QUp9T3LHOxG1C2tJtvj9yADczCheYYfpvuCcurtecvBpLUrbgBH509z=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kKrcqoRNY3vd7JdFFhcBlPeKrdEsLquwLuQglnQYZht1CAX_qAUVSu06E4CDD1PXvunnjSTdCjw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l83OqxORIw0", "title": "Algorithms and Data Structures Full Course | Master Data Structures from Scratch | DSA @SCALER" },
+    { "id": "FV1LHMMBlKs", "title": "Data Science Career Roadmap 2024 | How to Become a Data Scientist? | Python & R |  @SCALER" },
+    { "id": "_OGfvA_Pkts", "title": "Top Hackathons to Look Out for in 2024 | Smart India Hackathon | Hack MIT | ICPC | KAVACH | @SCALER" },
+    { "id": "o8Dt08b5k1Y", "title": "Dynamic Programming Tutorial Part 1 | Memoization & Tabulation | Algorithms | Learn DP  @SCALER" },
+    { "id": "Xd1RsDUfuY8", "title": "Predictive Analytics Tutorial: Part - 1| Machine Learning | Classification Techniques @SCALER" },
+    { "id": "cEAhkz72cPQ", "title": "Sensor Programming Tutorial With Android Projects | Mobile Sensors | Android Tutorial | @SCALER" },
+    { "id": "-hmiZQt1ZCk", "title": "Data Analysis Complete Complete Course | Python | Web-Scrapping | Data Visualization @SCALER" },
+    { "id": "87s9JLGEe70", "title": "AWS Complete Tutorial | Cloud Computing | AWS Fundamentals Course for Beginners | @SCALER" },
+    { "id": "r9xI0zBluCs", "title": "Handling 20 Mn+ Users by Managed Services | Jyotiswarup Raiturkar - CTO, Angel One | SCALER POD 21" },
+    { "id": "xA2ENaDVoKc", "title": "C# Career Roadmap in 2024 | How to become a C# developer ? | Basic of C# Language | @SCALER" },
+    { "id": "xR5L7tSwXko", "title": "Data Engineering Complete Course with Project | Azure Data Factory Tutorial | Hadoop | @SCALER" },
+    { "id": "gMLw7mHi6nU", "title": "How to standout in a DSA Interview ? | Important tips to crack DSA Assessment Rounds | @SCALER" },
+    { "id": "B8i49C8fC3E", "title": "AWS Complete Tutorial 2023 | Learn Amazon Web Services from Scratch | Cloud Computing | @SCALER ​" },
+    { "id": "VP8YrNn8iKU", "title": "Software Engineer Talks About Dangers of AI | Future Proof Your Career | ChatGPT | Gemini @SCALER" },
+    { "id": "hQFIAUQbYT0", "title": "Linked List Tutorial in C++- Module 5 | Circular Linked List in C++ | Data Structures  @SCALER" },
+    { "id": "2ZWSrnLhbjU", "title": "C++ Full Course | Complete C++ Tutorial: Beginners to Advanced | Data Structures & Algorithm@SCALER" },
+    { "id": "Qa6H17XWsJA", "title": "Database Vs Data Warehouse Vs Data Lake Vs Data Lakehouse | Big Data | NoSQL @SCALER" },
+    { "id": "-OfXuOuZFf8", "title": "How to Become a Software Development Engineer in 2024? | Open Source Contribution & Projects @SCALER" },
+    { "id": "Nbnht4fvTDs", "title": "Full Azure Certification Crash Course | Cloud Computing Fundamentals | Azure Core Services @SCALER" },
+    { "id": "0CiUjvhuEwo", "title": "Introduction to Data Engineering- Module 1 | Complete Course to Become a Data Engineer @SCALER" },
+    { "id": "BeP9dW33GeU", "title": "Is Java Still Relevant in 2024? | Top Companies Hiring Java Professionals | Java Developer @SCALER" },
+    { "id": "q7PQWHVAFHs", "title": "Who hacked the Scaler Discord Community? 🐙 | ft. Abhimanyu Saxena, Co-founder, @SCALER" },
+    { "id": "i69Z7402Ais", "title": "Top 6 Careers in Artificial Intelligence | Careers in AI | Prompt Engineer | ML Engineer @SCALER" },
+    { "id": "nw2-YDS6KLQ", "title": "How to Build an AI Android App Using Gemini? | AI App Tutorial | Artificial Intelligence@SCALER" },
+    { "id": "9l76wpGXpG4", "title": "Introduction to Azure Data Factory | Data Engineer Full Course Part 3 | Big Data | ETL  @SCALER" },
+    { "id": "rw6IglloVqU", "title": "From a Mother to Building her Own AI Startup Ft. Antara Sarkar | Behind The Win  @SCALER" },
+    { "id": "APbaAIRzQns", "title": "Complete Linked List Tutorial with Coding Problems | Data Structures and Algorithms | C++ @SCALER" },
+    { "id": "23WFaOBO_Eg", "title": "Sorting Algorithms Tutorial in C++ Part 3 | Quick Sort Algorithm | Data Structures  @SCALER" },
+    { "id": "vHSHeIdHO2M", "title": "Introduction to Azure Data Factory Tutorial | Data Engineering Full Course Part 4 | @SCALER" }
+  ]
+}

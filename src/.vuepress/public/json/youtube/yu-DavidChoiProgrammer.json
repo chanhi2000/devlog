@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "DavidChoiProgrammer",
+    "name": "David Choi",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQk72Q3_GaK2hw3cuSras8IVg-QaoGokyaZk5R4uw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-BB38qyUSwKpS7ejq4Hz70GXPsQALN0xWnf6P0FTcZF2Ut1hle116VzhN52EKrwSexinKYTWZA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Qt4bT1ZmcZk", "title": "5: SyntaxMakers - React Forms" },
+    { "id": "EA59wWy5GBs", "title": "Easy View Transitions in React for SyntaxMakers" },
+    { "id": "nWvSOXvXMOc", "title": "3: Let's Build A Side Project, SyntaxMakers, and Make Money" },
+    { "id": "4BT547qn3IQ", "title": "Learn React Native Components" },
+    { "id": "tJZW3Rkk_Mg", "title": "Learn Rust with my Open Source Rust SurrealDB Project" }, 
+    { "id": "gA7hFdq2h9Q", "title": "Building SmartContracts With Solana and Rust Lang" }, 
+    { "id": "VVd1A3n9Zwo", "title": "#SwiftUI 2.0 Swift 5.3 XCode 12 Instagram Clone I" }
+  ]
+}
+

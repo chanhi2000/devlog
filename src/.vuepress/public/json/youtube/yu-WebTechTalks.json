@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "webtechtalks",
+    "name": "Web Tech Talks",
+    "profile": "https://yt3.googleusercontent.com/IdBCM5eu9DymZfnrxyKP7ilk1kHFiw29hExOw0auJvvhhNxPiYH7_2s7Pm_43OWp6GzejeYH3g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Q5ENaXKVI-8QcNWUsqiOdYzBs80NYr2V_xzDUOeTYJLVGlzERgMCnbBU3KY01f9Xqx8GG3dS=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Dt-1VBK9QKU", "title": "React Hooks in Action (Martin Lechner" }
+  ]
+}

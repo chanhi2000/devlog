@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "HomoDawkins",
+    "name": "IQ95 The Homo Dawkins",
+    "profile": "https://yt3.googleusercontent.com/FJ3Ly6fSSi4wkQdutetNPdlEdq6xfX3BV8BJ-oSDMQz2h7XsPPFbx8eM9mxz4oc9qzwLK9a21Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KlBXEQGrx99lGpfyBnu2eKtSm2TkO0tyh7VpXciE9kWl6Gvdeq2UxdzqYPRZo-AkUvkLvulm=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yc8LV2CGt5M", "title": "044 - 비선형 방정식 풀기, Solving Nonlinear Equations, 수식의 계수 결정 coef" },
+    { "id": "cZ8Bx7NPpcg", "title": "075- Generalized Summation, MPIR/GMP on Windows, Green's Theorem Examples" },
+    { "id": "aqfCj_Pws7w", "title": "077- 적분, Integration" },
+    { "id": "6PcojUlfjg0", "title": "078- 소수와 정수의 소인수분해, Prime Numbers and Integer Factorization" },
+    { "id": "nPxjejav-nA", "title": "079- Rational Numbers, nCr, nPr, factorial!" },
+    { "id": "r5O-RCKtABM", "title": "037- C++와 Python을 직접 비교해 보세요, 함수로 된 행렬, 선형 연립 방정식, cnm::variables, nan already defined" },
+    { "id": "XJJQGA5uu0A", "title": "038-Matrix 28,  부정 선형 연립 방정식, 합성함수 완성, 수식 작성법" },
+    { "id": "UkwRVyMliX4", "title": "041-Matrix 31, 선형 방정식 풀기, solve_eqn, Jacobian, Vector, 수식  대입, C++ Library Extensions" },
+    { "id": "Al1_NoODu7k", "title": "043- C++로 고급 수식 풀기, prms, solve_eqn" },
+    { "id": "Wc5XGBd2638", "title": "034-Matrix 24,  기존 C++ 프로그래밍 방식과 새로운 방식 비교, tuple_replace 활용" },
+    { "id": "0bgQvYMXUcQ", "title": "035- Matrix 25, 원통 좌표계 부피 적분, 합성함수 compose(), variables(), 로피탈 정리, 분수식의 약분" },
+    { "id": "AHdAWMoxjOQ", "title": "036- Matrix 26,  C++ functional programming, 합성함수 compose() 및 variables()  사용법" },
+    { "id": "uWsAmashcg0", "title": "04- C++ allocator, create_container, create_cache_aligned_container, cast_ref, smart_forward" },
+    { "id": "kajwaG-5gFc", "title": "033-Matrix Tuple Replace 알고리듬 3, is_in_sequence, seq_find_index, mark_in_sequence" },
+    { "id": "WCACGteEY2o", "title": "032-Matrix 22, C++ move semantic, tuple_replace 알고리듬 2" },
+    { "id": "z3COboAHtUI", "title": "031-Matrix 21,  tuple_replace 알고리듬 1, functional programming으로 할 수 있는 것" },
+    { "id": "YkAR4hmHQ5s", "title": "030-Matrix 20, 그라디언트 및 라플라스 연산자 구현, Gradient and Laplacian Operators" },
+    { "id": "uJ5ZhOpSedg", "title": "028-Matrix 18, 합성합수와 Jacobian Matrix, C++ Composite Function and Functional Programming" }
+  ]
+}

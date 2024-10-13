@@ -1,0 +1,65 @@
+{
+  "channel": {
+    "id": "TechWorldwithNana",
+    "name": "TechWorld with Nana",
+    "profile": "https://yt3.googleusercontent.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7ugoNeZgrqsBMFE5nk9B2G5O5k2X5m-RWP4MrEEzZ4EX4GOBbHX-k7aEEVLEAQm6U9aLEUTq89M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iInUBOVeBCc", "title": "NGINX Tutorial - What is Nginx" },
+    { "id": "boEB2fMUZnU", "title": "Top 4 AI Tools for Engineers that are ACTUALLY useful" },
+    { "id": "MIWH2CpVyXs", "title": "The ONLY Continuous Integration (CI) Tutorial you need as an Engineer" },
+    { "id": "cA8KrHFm4So", "title": "Amazon Q - Build on AWS like a Pro using Amazon's new AI coding assistant" },
+    { "id": "FtaQSdrl7YA", "title": "JavaScript Tutorial for Beginners [JS Crash Course 2024]" },
+    { "id": "9JGONx_X4ho", "title": "GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?" },
+    { "id": "SXwC9fSwct8", "title": "Ultimate Docker Compose Tutorial" },
+    { "id": "ghzsBm8vOms", "title": "What is Platform Engineering and how it fits into DevOps and Cloud world" },
+    { "id": "N1-mhvUghb0", "title": "Cloud Engineer vs DevOps Engineer - Differences and Overlaps of tasks and responsibilities" }, 
+    { "id": "AYAh6YDXuho", "title": "Containers on AWS Overview: ECS | EKS | Fargate | ECR" }, 
+    { "id": "4BibQ69MD8c", "title": "Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines" }, 
+    { "id": "oBf5lrmquYI", "title": "Kubernetes Security Best Practices you need to know | THE Guide for securing your K8s cluster!" }, 
+    { "id": "B2IS-XS-cc0", "title": "Fluent Bit explained | Fluent Bit vs Fluentd" }, 
+    { "id": "_f8QfKx4rws", "title": "Run mission-critical applications on Kubernetes | DevOps Tool of the  Month (3)" }, 
+    { "id": "QoDqxm7ybLc", "title": "Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator | Part 1" }, 
+    { "id": "5ofsNyHZwWE", "title": "How Fluentd simplifies collecting and consuming logs | Fluentd simply explained" }, 
+    { "id": "R8_veQiYBjI", "title": "GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker" }, 
+    { "id": "kgfg8r6_zPk", "title": "Develop cloud-native software faster with DevSpace | DevOps Tool of the Month (1)" }
+  ],
+  "playlists": [
+    {
+      "title": "Infrastructure as Code (IaC) Tutorials",
+      "videos": [
+        { "id": "1id6ERvfozo", "title": "What is Ansible | Ansible Playbook explained | Ansible Tutorial for Beginners" },
+        { "id": "l5k1ai_GBDE", "title": "Terraform explained in 15 mins | Terraform Tutorial for Beginners" },
+        { "id": "POPP2WTJ8es", "title": "What is Infrastructure as Code? Difference of Infrastructure as Code Tools" },
+        { "id": "m3cKkYXl-8o", "title": "Terraform Tutorial | Terraform Course Overview [2021]" },
+        { "id": "vIjeiDcsR3Q", "title": "Pulumi - IaC in your favorite programming language!" },
+        { "id": "f5EpcWp0THw", "title": "What is GitOps, How GitOps works and Why it's so useful" },
+        { "id": "gxPykhPxRW0", "title": "8 Terraform Best Practices that will improve your TF workflow immediately" }
+      ]
+    }, {
+      "title": "Courses",
+      "videos": [
+        { "id": "3c-iBn73dDE", "title": "Docker Tutorial for Beginners [FULL COURSE in 3 Hours]" },
+        { "id": "X48VuDVv0do", "title": "Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]" },
+        { "id": "t8pPdKYpowI", "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]" },
+        { "id": "s_o8dwzRlu4", "title": "Kubernetes Crash Course for Absolute Beginners [NEW]" },
+        { "id": "yyUHQIec83I", "title": "Golang Tutorial for Beginners | Full Go Course" },
+        { "id": "MeU5_k9ssrs", "title": "ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes" },
+        { "id": "pDrjQWo3CxI", "title": "Become a Kubernetes Administrator in 2023 | CKA Course released!" },
+        { "id": "I5c8Pfg2tys", "title": "Logging in Kubernetes with Elasticsearch, Fluentd and Kibana | Complete Course Overview" },
+        { "id": "m3cKkYXl-8o", "title": "Terraform Tutorial | Terraform Course Overview [2021]" },
+        { "id": "lhFvMsy6VX8", "title": "Ansible for Beginners to Advanced | DevOps Bootcamp" },
+        { "id": "F7WMRXLUQRM", "title": "GitLab CI/CD Full Course released - CI/CD with Docker | K8s | Microservices!" },
+        { "id": "qP8kir2GUgo", "title": "GitLab CI CD Tutorial for Beginners [Crash Course]" },
+        { "id": "Iyfntbj2jWU", "title": "Ultimate Course for IT Beginners - From Zero to Engineer [22 Hours Released]" },
+        { "id": "l-kE11fhfaQ", "title": "ChatGPT Tutorial - Use ChatGPT for DevOps tasks to 10x Your Productivity" },
+        { "id": "pg19Z8LL06w", "title": "Docker Crash Course for Absolute Beginners [NEW]" },
+        { "id": "w-X_EQ2Xva4", "title": "Python Automation with ChatGPT" },
+        { "id": "cdb6ernButc", "title": "Complete DevSecOps Bootcamp - Most Extensive Training OUT NOW 🚀" },
+        { "id": "s3I1kKKfjtQ", "title": "Consul Service Mesh Tutorial for Beginners [Crash Course]" },
+        { "id": "gLJdrXPn0ns", "title": "DevSecOps Tutorial | CI Pipeline with GitHub Actions and Docker Scout" }
+      ]
+    }
+  ]
+}

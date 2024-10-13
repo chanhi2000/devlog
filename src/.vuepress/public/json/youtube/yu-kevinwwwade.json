@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "kevinwwwade",
+    "name": "Kevin Wade",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZWFoADQFcAA9okXBqwnN7BC_6SCELPEynclEoH=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hfylw3tAcPX9ISvKp1cf32Cwn4HRTGUsL0OoGFN0Thd3ad0qv3EkMcXVD7pudDtcXmkwocjJ2r4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "evA-2q6oEIo", "title": "Biome, an ESLint/Prettier replacement?" },
+    { "id": "I-htDVxmFGM", "title": "Auto Restart/Rebuild with Docker Compose Watch" },
+    { "id": "fWX8d1vVSPI", "title": "Repo Dive: Maybe Personal Finance App" },
+    { "id": "Z9mU-l4MdYI", "title": "Next.js Full Stack w/ Server Actions - Full Walkthrough" },
+    { "id": "Xisj0FJSBIs", "title": "Full Stack Build: Node, Postgres, Redis, React, GraphQL/Apollo" }, 
+    { "id": "5FJWQdjzJKQ", "title": "Code a screen in Expo (React Native) - Full Stack Build Series" }, 
+    { "id": "A1Sp5c97TYU", "title": "Yarn to PNPM - How to Switch" }, 
+    { "id": "KrIOY1tcfmQ", "title": "React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" }, 
+    { "id": "MW2o0Xz12c ", "title": "Create GraphQL Schema & Resolver - Full Stack Build Ep2" }, 
+    { "id": "hGYNW8-_c3U", "title": "Deploy to Production - Node, Postgres, Redis, React - with Render" }, 
+    { "id": "Av8ezg-2GWc", "title": "Ultimate Typescript/Node/Docker Setup: Step-by-Step (2022)" }, 
+    { "id": "CUyl3LdBvGU", "title": "React by Example: Build a To Do List with Typescript, Hooks, and Styled Components - Part 1" }, 
+    { "id": "o2yNF9tTogk", "title": "React by Example: Build a Calculator with Typescript" }, 
+    { "id": "KrIOY1tcfmQ", "title": "React Native Charts on Web, iOS, & Android - Full Stack Build Ep6" }
+  ]
+}

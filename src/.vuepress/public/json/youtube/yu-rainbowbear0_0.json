@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "rainbowbear0_0",
+    "name": "무지개곰",
+    "profile": "https://yt3.googleusercontent.com/7qe-U2iedzw3uFPL4xooYdsUd5bvksCArnDdEsaZv7Zq0oZn2R2gxi8HWGnAIoe1UHqu4EkXCA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "VCh9mIfkcWs", "title": "[개발일기] 채팅 구현 사전 공부" },
+    { "id": "N3F2V60Ghtc", "title": "[개발일기] 데드락, 라이브락, 기아상태" },
+    { "id": "XSAlzoOzrrU", "title": "[개발일기] 채팅 기록 저장 방법" },
+    { "id": "_xNDF1Gqgk0", "title": "[개발일기] 프로필 수정 결과, 해시태그 구상 (조언 환영)" },
+    { "id": "S6YWGG7lylY", "title": "[개발일기] controller - service - repository 리팩토링 (조언 환영)" },
+    { "id": "RDzrHPQEO0Y", "title": "[[개발일기] 채팅 구현을 위한 자료조사" },
+    { "id": "oapvCaE1RV4", "title": "[개발일기] gRPC 자료조사" },
+    { "id": "j-blpu0Tue8", "title": "[개발일기] 프로필 수정 페이지 1차 기록 (조언 환영)" },
+    { "id": "DCFF11saSXw", "title": "[개발일기] 프로필 수정 페이지 2차 기록 (조언 환영)" },
+    { "id": "165L53-hjtg", "title": "[개발일기] 프로필 이미지 수정 구상 및 공부 기록 (조언 환영)" },
+    { "id": "w4ehEtymVXE", "title": "[개발일기] 로그인 리팩토링 (조언 환영)" },
+    { "id": "rLFAD0hQ4_0", "title": "[아키텍처] 설계 원칙 SOLID (조언 환영)" },
+    { "id": "EsBMcsRGdYY", "title": "[아키텍처] 프로그래밍 패러다임 (조언 환영)" },
+    { "id": "8AfpPChRkSY", "title": "[개발일기] 아키텍처 설계 공부 결정 (조언 환영)" },
+    { "id": "gBthEuSVTyQ", "title": "[개발일기] 로그인, 로그아웃 요청은 GET? POST? (조언 환영)" },
+    { "id": "vhnsc0smGEI", "title": "[개발일기] 프로필 수정 페이지 구상 (조언 환영)" },
+    { "id": "G3FrgzPIFzo", "title": "[개발일기] DB에 대한 피드백 생각과 조치 (조언 환영)" },
+    { "id": "3L28KJLAqdY", "title": "[개발일기] 관리자 페이지 구현 - 미들웨어, bcrypto (조언 환영)" },
+    { "id": "fQuk6Xw5SxI", "title": "[개발일기] 관리자 페이지 구상 (조언 환영)" },
+    { "id": "QEDo1zJSdEE", "title": "[개발일기] OAuth를 활용한 로그인 공부 (조언 환영)" },
+    { "id": "OHOYZHkE23M", "title": "[개발일기] 프로필 페이지 구상 (조언 환영)" },
+    { "id": "-YJDfv4nuj8", "title": "[개발일기] 프로필 페이지 1차 기록 (조언 환영)" },
+    { "id": "_oqbeRngzps", "title": "[개발일기] 로그인 로그아웃 구현 (조언 환영)" },
+    { "id": "kvipiTlr5Lk", "title": "[개발일기] Backend 코드 리팩토링 (조언 환영)" },
+    { "id": "9GEHLHrt2qA", "title": "[Kubernetes] 애플리케이션 스케일링(길벗 리뷰어)" }
+  ]
+}

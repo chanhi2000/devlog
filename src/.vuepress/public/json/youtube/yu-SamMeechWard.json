@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "SamMeechWard",
+    "name": "Sam Meech-Ward",
+    "profile": "https://yt3.googleusercontent.com/Hh0UJbsr0kqChpQmqcioVc00o15LQHWqnfrXZPTk2aJvtWrLftfNtcbe-HlVrc5G7LoBG42C=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0jdmhVphFVVdu0FB17jiNs1WN2-3Z8zqi5owR0P88GEOliEjMdT881hgLpTq9QnVX5SEWRVg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Vp4glSVPT8o", "title": "Every Developer Needs a Raspberry Pi" },
+    { "id": "OW85ZAaQBSE", "title": "Denormalizing DB for Justin Bieber #database #sql #webdevelopment" },
+    { "id": "B7pyFEK5-BM", "title": "Underated database trick #database #sql #mysql #webdevelopment #programming #coding" },
+    { "id": "Tz84qAH_7bM", "title": "DiagramGPT - Honest Review of Eraser AI" },
+    { "id": "nYZErzbUvZY", "title": "Billion-Dollar Precision! #database #sql #postgresql #webdevelopment  #programming" },
+    { "id": "jXyTIQOfTTk", "title": "The React, Bun & Hono Tutorial 2024 - Drizzle, Kinde, Tanstack, Tailwind, TypeScript, RPC, & more" },
+    { "id": "nQdyiK7-VlQ", "title": "Easily Deploy Full Stack Node.js Apps on AWS EC2 | Step-by-Step Tutorial" },
+    { "id": "uxMADW3CmN4", "title": "I Stopped Using Express.js: Because Bun and Hono 🔥" },
+    { "id": "6hXW-cDLgPQ", "title": "TypeScript Can't But Zod Can #javascript #typescript #webdeveloper #webdevelopment" },
+    { "id": "OLFqsAhJJz8", "title": "Caddy Fully-Managed HTTPS Reverse Proxy #webdevelopment #cybersecurity #cloudcomputing" },
+    { "id": "9kIQdrPYm4Q", "title": "Accidental string concatenation in JavaScript #javascript" },
+    { "id": "mMr5_2kyzQY", "title": "Objects/Primitives #javascript" },
+    { "id": "B7pyFEK5-BM", "title": "Underated database trick #database #sql #mysql #webdevelopment #programming #coding" },
+    { "id": "uxMADW3CmN4", "title": "I Stopped Using Express.js: Because Bun and Hono 🔥" },
+    { "id": "7gafS7fjt3w", "title": "What happens when I remove the else statements #coding #javascript #programming" },
+    { "id": "sjcLxYbw5BQ", "title": "Kinde: The Best Auth Solution Next.js 14" },
+    { "id": "SVDuOs7MHhA", "title": "Don't Try Catch These Next.js Errors" },
+    { "id": "iTi15aHk778", "title": "!! &&  #programming  #webdev  #reactjs  #nextjs #javascript" },
+    { "id": "KORSNqaZWnM", "title": "Javascript is Bananas #javascript #programming" },
+    { "id": "zmoa4zoB5kw", "title": "JSX Does What? #webdeveloper #javascript #reactjs  #webdev" },
+    { "id": "M2DM0HedNcY", "title": "Stream GPT" },
+    { "id": "9FLVgV6sR3A", "title": "Next.js Is Confusing - Is This Server or Client Code?" },
+    { "id": "4ZhtoOFKFP8", "title": "Turso and Drizzle: Fast and Easy Data Persistence for an AI Next.js App" },
+    { "id": "SOE07gzHt1w", "title": "try catch is confusing #programming #javascript" },
+    { "id": "5MR_nMbiEa8", "title": "Use a TypeSafe ORM" },
+    { "id": "zO6CHvTErxE", "title": "Map reduce? #javascript #programming"  },
+    { "id": "-JnEuvPmt-Q", "title": "Effortless Auth in Next.js 14: Use Auth.js & Drizzle ORM for Secure Login" },
+    { "id": "t-lhgq7Nfpc", "title": "Next-Level S3 File Management: The Ultimate Guide to Handling Files in Next.js 14" }
+  ]
+}

@@ -1,0 +1,51 @@
+import { SidebarInfoTemplate } from ".";
+
+export const template: SidebarInfoTemplate = {
+  name: 'onceupon.github.io',
+  faviconPath: 'https://avatars.githubusercontent.com/u/7253159?v=4',
+  linksMap: new Map([
+    [
+    "sh", [
+      "README",
+      'terminal-tricks',
+      'variable',
+      'math',
+      'grep',
+      'sed',
+      'awk',
+      'xargs',
+      'find',
+      'condition-and-loop',
+      'time',
+      'download',
+      'random',
+      'xwindow',
+      'system',
+      'hardware',
+      'networking',
+      'data-wrangling',
+      'others',
+    ]],[
+    "all", [
+      "README",
+      'terminal-tricks',
+      'variable',
+      'math',
+      'grep',
+      'sed',
+      'awk',
+      'xargs',
+      'find',
+      'condition-and-loop',
+      'time',
+      'download',
+      'random',
+      'xwindow',
+      'system',
+      'hardware',
+      'networking',
+      'data-wrangling',
+      'others',
+    ]],
+  ]),
+}

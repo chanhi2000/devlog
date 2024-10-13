@@ -1,0 +1,54 @@
+{
+  "channel": {
+    "id": "ocihands-on1283",
+    "name": "OCI Hands-on",
+    "profile": "https://yt3.googleusercontent.com/bmxpOUKANt2Cx0UCX3FirFU5knM-jyr-h_2Q1bAA01ydOdPHjTETLEjSEi-8YxNSnem1Et7bsQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QGexky0-GLUFRPC46O8zRiLlpOq2bc_Fye6jlDex95aK01jilP9kBzD0PlKoiaDxhsJ3d6JsORs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AlDDYUP1vkw", "title": "[OCI Hands-on] 우분투 블록 볼륨 확장하기" },
+    { "id": "xgAqlE2ok4k", "title": "[OCI Hands-on] 우분투 부트 볼륨 확장하기" },
+    { "id": "4gI6kGfaBu8", "title": "Select AI 쿼리 생성 기능 소개(ADB)" },
+    { "id": "vuJrFTPNK2c", "title": "[OCI Hands-on] 우분투 블록 볼륨 연결" },
+    { "id": "-O0gBeUxdWA", "title": "[OCI Hands-on] 컴퓨트 인스턴스 Shape 변경" },
+    { "id": "DDM2buw24Gc", "title": "[OCI Hands-on] Full Stack DR 서비스로 리전 간 DR 전환하기" },
+    { "id": "28yXP-5ABqc", "title": "[OCI Hands-on] OKE POD Autoscaling" },
+    { "id": "09SHd5yH-wo", "title": "[Feb,2024 Developer Meetup] 세션1-9 : 최종 구동 테스트 진행" },
+    { "id": "CHIBQb8CJYY", "title": "[Feb,2024 Developer Meetup] 세션1-8 멀티서버 데이터 동기화" },
+    { "id": "dQuPF4MLKLU", "title": "[Feb,2024 Developer Meetup] 세션2-2 : 모니터링 프로그램용 추가 VM 배포" },
+    { "id": "CWg8U-q36Zk", "title": "[Feb,2024 Developer Meetup] 세션2-1 : 모니터링 프로그램용 추가 방화벽 개방" },
+    { "id": "xS32e5aS5bw", "title": "[Feb,2024 Developer Meetup] 세션2-4 : Grafana 설치하기" },
+    { "id": "FnQczz4Ytr0", "title": "[Feb,2024 Developer Meetup] 세션2-3 : Prometheus DB 설치하기" },
+    { "id": "sEJ8KwtupF0", "title": "[Feb,2024 Developer Meetup] 세션2-5 : 모니터링 최종" },
+    { "id": "aQsaYh-5OF8", "title": "[Feb,2024 Developer Meetup] #1 VCN 만들기" },
+    { "id": "LJ1n8JwXCjg", "title": "[Feb,2024 Developer Meetup] #2 OCI 방화벽 개방" },
+    { "id": "FzxicurpkFo", "title": "[Feb,2024 Developer Meetup] #3 Redis 배포하기" },
+    { "id": "21PXImZoPP4", "title": "[OCI Hands-on] 클라우드 DB에서 민감데이터 마스킹하기 / DBCS Data Redaction (Dynamic Data Masking)" },
+    { "id": "66UFNeB6Bg8", "title": "[Feb,2024 Developer Meetup] #4 MySQL 배포하기" },
+    { "id": "IYbUQm5eyps", "title": "[Feb,2024 Developer Meetup] #5 Cloud VM접속 심화과정" },
+    { "id": "0klq36PwxU8", "title": "[Feb,2024 Developer Meetup] #5 VM 배포하기" },
+    { "id": "Sx7fZ87twmc", "title": "[Feb,2024 Developer Meetup] #7 마크서버 구성하기" },
+    { "id": "fkCuCePZPhc", "title": "[Feb,2024 Developer Meetup] #6 사전작업 진행" },
+    { "id": "ZK4SlclnJcU", "title": "[OCI Hands-On] GoldenGate for Big Data" }
+  ],
+  "playlists": [
+    {
+      "title": "Storage Service",
+      "videos": [
+        { "id": "9yXqDUUIBkk", "title": "OCI Stroage Gateway + Cloud Sync 를 활용한 NAS 스토리지 백업하기 (오브젝트 스토리지 활용)" },
+        { "id": "5Yx9RY1ak8U", "title": "s3fs + OCI Object Storage를 활용한 리눅스 마운트" },
+        { "id": "2giCG2hR0ek", "title": "[OCI Hands-on] Rclone + OCI Object Storage를 활용한 파일 자동 백업 (윈도우)" },
+        { "id": "qRCMojE5yGU", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 무료프로그램 1탄 RCLONE" },
+        { "id": "VJScoBV7uPs", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 무료프로그램 2탄 S3 Browser , CloudBerry Browser" },
+        { "id": "YAJPqYpq7RM", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 유료프로그램 2탄 CloudBerry Drive" },
+        { "id": "pAdhOzFwFFA", "title": "[OCI Hands-on] OCI-Object Storage Windows OS에 Mount 하기 - 유료프로그램 1탄 RaiDriver" },
+        { "id": "Cz9Gj3TDFO4", "title": "[OCI Hands-on] OCI-Storage Gateway 설치 구성" }
+      ]
+    }, {
+      "title": "Kubernetes (OKE)",
+      "videos": [
+        { "id": "5HXsc63M1ts", "title": "[OCI hands-on] OCI 관리형 Kubernetes (OKE) 환경 생성 방법" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "TechRoundUp",
+    "name": "Tech Round Up",
+    "profile": "https://yt3.googleusercontent.com/oFg0PFtufFRx6aWgWpnV2KY2a9Su9NPSyNk9ARcLxB-uE0uBGsF5jJhSieM-48xU-cB6V8Gg6w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zaQjAvjpme1tkc_19i8QRNpT5ewIw6KFUEtLHH_TO69MhZ3hHO7IFnbxyklFnkL-fRdGMQ0Y1g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9VjdFyj-xZY", "title": "Ultimate $1500 Mini ITX Gaming PC Build feat. Fractal Design Ridge!" },
+    { "id": "VI1xCvjHqs4", "title": "The Ultimate Home NAS is Finally Here! - Ugreen NASync DXP2800 Review" },
+    { "id": "Ua8jdfi3dKU", "title": "Exploring My Minimalist Tiny Desk Setup!" },
+    { "id": "3AvZCyV2Zvg", "title": "DIY Cloud Storage with Ugreen NASync DXP4800 PLUS! (Say Goodbye to Subscription Fees)" },
+    { "id": "u7lgVRlU7DY", "title": "Carlinkit Tbox Max Review - Turn Your Car into your Living Room! (Watch Netflix/YouTube/Disney+)" },
+    { "id": "vQaYRYYz4FM", "title": "Building the Perfect Home NAS! - 16TB, 6W TDP, Ultra Quiet & Compact" },
+    { "id": "QhlCPQCARJY", "title": "So Much Performance in such a Small Laptop - Lenovo Slim Pro 9i" }
+  ]
+}

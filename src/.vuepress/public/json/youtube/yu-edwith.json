@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "edwith",
+    "name": "혜원장 Hyewonjang",
+    "profile": "https://yt3.googleusercontent.com/yZEminbXO-oChsOx92pG6xELuzwL9VNW2Xzgfk0HE7-dnoyNiG2tZ4Ek5QG6E6KiwYZo7iQFxw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "sf-FTOXhqBA", "title": "엑셀 시트 여러개 한번에 만드는 초간단 방법" },
+    { "id": "gNOcCqJrPUs", "title": "그림 여러개 한꺼번에 넣는 방법" },
+    { "id": "h1ojZTMSyIE", "title": "하나씩 채우시나요?" },
+    { "id": "P0Gb86Pw018", "title": "엑셀 인쇄 설정하는 초간단 방법" },
+    { "id": "HnqIJ4lRWYE", "title": "FAT2급 54회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "68kO7zPOpO8", "title": "인쇄할 때 알아두면 좋은 꿀팁" },
+    { "id": "GzrgYD1ffbE", "title": "FAT2급 56회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "FaxWkDXyP6k", "title": "FAT2급 58회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "5UYREsXjNl0", "title": "FAT2급 59회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "6SZRKZXqR80", "title": "FAT2급 63회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "CWMqKw6z0xM", "title": "알아두면 좋은 무료로 PDF 변환하는 2가지 방법" },
+    { "id": "fyn3R5wrNVA", "title": "FAT2급 65회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "u_mwKPiQPYE", "title": "FAT2급 68회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "8PExHQisUKc", "title": "FAT2급 69회 기출문제 이론+실무 한방에 끝내기" },
+    { "id": "TUfT0W_aLmY", "title": "이제 합계 구할땐 이렇게 하세요" },
+    { "id": "NVtNNva9Wvg", "title": "이 기호 하나면 끝납니다" },
+    { "id": "vw_ccocXxRo", "title": "이 기능은 꼭 알아야 합니다!!" },
+    { "id": "Ot75lBb0wPI", "title": "그림 넣을 때 진짜 꿀팁" }
+  ]
+}

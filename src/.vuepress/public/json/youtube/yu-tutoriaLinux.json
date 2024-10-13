@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "tutoriaLinux",
+    "name": "tutoriaLinux",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO2-PBora-AfK4oCZiCRQ-TVvZ8e_46LuRWJAO4DQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bqpHDnNbt9ACez7F6a7X3I1EFBRwY_TID81LULSFhr-IwTxu2fZ7RSs4xzyQ1Vr8pmfjmxVciQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3BzUsZZmYbc", "title": "Linux Project: Poor Man's GitHub" },
+    { "id": "EFJNxQFXV5s", "title": "Modern Linux Tools: Command-Line Help" }, 
+    { "id": "C4a7jxlMTfo", "title": "How to Create a systemd Linux Service" }, 
+    { "id": "bju_FdCo42w", "title": "Linux Sysadmin Basics -- Course Introduction (Updated for 2022)" }, 
+    { "id": "BHhA_ZKjyxo", "title": "Basic `tmux` Tutorial - Windows, Panes, and Sessions over SSH" }, 
+    { "id": "4beEybPzYqQ", "title": "Step-by-Step WordPress Setup on Linux, Nginx, MySQL, and PHP/php-fpm" }, 
+    { "id": "V8EUdia_kOE", "title": "My 5 Favorite Linux Shell Tricks for SPEEEEEED (and efficiency)" }, 
+    { "id": "o9-Y6aKW4sI", "title": "Terraform Basics 4: Automatically Configure Load-Balanced Web Servers" }
+  ]
+}

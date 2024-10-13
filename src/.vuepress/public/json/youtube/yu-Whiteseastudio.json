@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Whiteseastudio",
+    "name": "White Sea Studio",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZTOlfJaD8Hcs_Qi2RJqL-oEbDjAQ_7ZBKTh0zWS=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kTEkTTEttDQmq1HSclqil3yF-xItHPuvkh4fZ5Jrz3m70dDzS402Gsqm0fw0OpnDG5QN9R8E6t8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7MLeYmkspoM", "title": "The easy room correction!" },
+    { "id": "mXgM4UrPp8I", "title": "Supersize Your Low End!" },
+    { "id": "I2FHV3li314", "title": "sonible Smart:EQ 4" }
+  ]
+}

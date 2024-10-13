@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "WorkSmarter",
+    "name": "Work Smart",
+    "profile": "https://yt3.googleusercontent.com/LOKjl8m66FQL4yny0xeoeMaz-HktAaDgQdwSRiAEXYbIsRaJ4_K0zSvWNQAzTPHJf_74oI41=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XiPDc8nxPu-n-K_Am-wVphGHZVSUFytVJ95Mi-lKkUv4lTXlv9aVOZoI-3tFiNqO1cXrECnB=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nPx7s1sWqvs", "title": "How to Host a website for free on google drive" },
+    { "id": "uoJq0B_YNvw", "title": "Remove username on Mac terminal" }
+  ]
+}

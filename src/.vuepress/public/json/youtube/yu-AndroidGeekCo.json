@@ -1,0 +1,71 @@
+{
+  "channel": {
+    "id": "AndroidGeekCo",
+    "name": "Android Geek",
+    "profile": "https://yt3.googleusercontent.com/dJKDxypjIncj7ZMX3cDcSzMlEx_TRtX4Q1B1rCzEcRnQKwjNW-bdx_q4fCMn0-avry0nZn4g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/NOYyB14dYbNyC7j25TIn7H-X9XtGtXlCD4xFQqEVmb5vF7EP0X7L4B0FCMm2g3x0dfciPFHq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-8weBPTqoPY", "title": "#7 How to use Flow with Retrofit - Home screen (Complete Guide)" },
+    { "id": "5nhoX-uHO8A", "title": "Toasts extension Function - Kotlin" }
+  ],
+  "playlists": [
+    {
+      "title": "Zero to Hero in Android development",
+      "videos": [
+        { "id": "JxsJxuNIcMk", "title": "How to set View Binding in kotlin" },
+        { "id": "-VIGq7hBgeM", "title": "How to create a `Recyclerview` in android - kotlin" },
+        { "id": "eS4bsQNqx_c", "title": "How to Use Navigation Component in Android" },
+        { "id": "hoRLOst_BCI", "title": "How to use `tablayout` with `ViewPager` in kotlin" },
+        { "id": "jj5Rd_GCQkY", "title": "How to creat a Bottom Navigation Bar in Kotlin" },
+        { "id": "Our9IRb7nrs", "title": "How to implement a bottom Sheet dialog in android studio Kotlin" },
+        { "id": "v5eFZZxjo6o", "title": "How to creat a Navigation drawer in android studio kotlin" },
+        { "id": "p0nhM5irW7Y", "title": "How to use Shared Preferences in kotlin" },
+        { "id": "zmG2JMu9jmw", "title": "How to creat Notification in android kotlin" },
+        { "id": "z9zYHugV_Fg", "title": "Understanding and Using Services in Kotlin - Beginner" },
+        { "id": "thCrhcSvBEI", "title": "How use Broadcast Receiver in Kotlin" },
+        { "id": "-0mmcehbSfM", "title": "How to Request Permissions in Android Application?" },
+        { "id": "3Mx4gzWI2Rk", "title": "How to use `LinearLayout` in Kotlin" },
+        { "id": "NEcpaqw1u4s", "title": "How to use `RelativeLayout` in Kotlin" },
+        { "id": "dFPcDainkWw", "title": "Mastering `ConstraintLayout`- Part 1" },
+        { "id": "eemb9ke1tIk", "title": "Mastering `ConstraintLayout`- Part 2" },
+        { "id": "1pEyWkTVwBY", "title": "How to use Lottie Animations in Kotlin" },
+        { "id": "jqWj_NEmcHA", "title": "Runtime Permissions with Dexter in Kotlin" },
+        { "id": "BI95pNokksU", "title": "How to Use `DiffUtils` in `RecyclerView`  in Kotlin" },
+        { "id": "GTg-sKVy00s", "title": "View`M`odel in Android Architecture Components" },
+        { "id": "q7-YIPnlN_w", "title": "How to use LiveData to monitor an internet connection" },
+        { "id": "2WQ3Y6Fy38E", "title": "Custom Bottom Navigation Bar Like Pinterest in Kotlin" },
+        { "id": "O_m0VAX4Cr8", "title": "Room Database in Kotlin - Beginner In-Depth Guide&nbsp;(1)" },
+        { "id": "br38zPuBPfI", "title": "Room Database in Kotlin — Beginner In-Depth Guide (2)" },
+        { "id": "es8XRsO34kY", "title": "Room Database in Kotlin — Beginner In-Depth Guide (3) - last Part" },
+        { "id": "sHE5hjxznlI", "title": "How to use WorkManager in android kotlin" },
+        { "id": "1VrqUFlW1yA", "title": "How to use Biometric Authentication in&nbsp;Kotlin" },
+        { "id": "5HDUD8H-Lgo", "title": "Pass data between destinations by Navigation Component" },
+        { "id": "bVHTfmPGY-Y", "title": "Create deep link via Navigation Component in&nbsp;Kotlin" },
+        { "id": "_mPn0jC94ok", "title": "How to use Tap Target View in Kotlin" },
+        { "id": "i-u7sCWQcVQ", "title": "Mastering Coroutines in Kotlin  -  Complete&nbsp;guide" },
+        { "id": "m1I-V7QzaTs", "title": "#1 How to use Hilt in Kotlin ( Complete guide  )" },
+        { "id": "s_RGOOnUiW0", "title": "#2 How to use Hilt with Room Database ( Complete guide  )" },
+        { "id": "TCCZb7eEYKU", "title": "#3 How to use Hilt with Retrofit ( Complete guide )" },
+        { "id": "RQKP7TtiOrU", "title": "How to use DataStore Preferences  in&nbsp;Kotlin" },
+        { "id": "ySPbJ7OCVEE", "title": "How to implement pagination in&nbsp;Kotlin" },
+        { "id": "a-BL4sba1Og", "title": "How to use Nested RecyclerView in Kotlin ( Part 1&nbsp;)" },
+        { "id": "wfSbhLcWDOE", "title": "How to use Expandable RecyclerView in Kotlin ( Part 2  -  Nested RecyclerView )" },
+        { "id": "hi82f11hCXc", "title": "How to Use Postman to Test an&nbsp;API" },
+        { "id": "y6zMtk41iQY", "title": "#1 What is Flow in Kotlin and how to use it in Android Project (Complete Guide )" },
+        { "id": "1BjkrNimA-c", "title": "#2 How to use Flow Operators in Kotlin (Complete Guide )" },
+        { "id": "pYnL3yXYhQY", "title": "#3 How to use Flow with Room Database (Complete Guide)" },
+        { "id": "-lC5pjFUg8Y", "title": "#4 How to use Flow with Room Database (Complete Guide)" },
+        { "id": "r6NDL5xFViI", "title": "10 ways to having a good user experience in the Application" },
+        { "id": "4bCRLXAIaOU", "title": "#5 How to use Flow with Room Database (Complete Guide)" },
+        { "id": "HtJ3whavUus", "title": "#6 How to use Flow with Room Database (Complete Guide)" },
+        { "id": "2WYnarWOmKs", "title": "How to use Easy Permissions in Kotlin (Complete Guide)" },
+        { "id": "_7Dj9-Vte5U", "title": "How to use Extension Functions in&nbsp;Kotlin" },
+        { "id": "4ou5yRJtuKU", "title": "Working with Charts in&nbsp;Kotlin" },
+        { "id": "k3X1aEyY9kg", "title": "#1 How to use Data-Binding in Kotlin(Complete Guide)" },
+        { "id": "-8weBPTqoPY", "title": "#7 How to use Flow with Retrofit - Home screen (Complete Guide)" },
+        { "id": "WpuIo4vjDpE", "title": "#8 How to use Flow with Retrofit - Details screen (Complete Guide)" }
+      ]
+    }
+  ]
+}

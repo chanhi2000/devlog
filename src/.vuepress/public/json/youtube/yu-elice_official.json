@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "elice_official",
+    "name": "Elice 엘리스",
+    "profile": "https://yt3.googleusercontent.com/WIR-3_ZJCcEiynDxi2XHma6wdcPg4-OHdfTeAde7a68OxD3dGhkVkFkU4m0XuDwfZqOMuuDYZQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EEevvzkue1TUHyqHRzfTdA4dWC1CEIbMY7tJ0FYgYfzrcU2NCsh449xfnNYba8gkLlUwUJ5ZJ50=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a5i2cKnUe7Y", "title": "프롬프트를 입력했을 뿐인데 2억이 생겼습니다. | 런웨이 gen-3 alpha | 엘리스" },
+    { "id": "ErskeaFbt24", "title": "알파고가 인간을 이기고 7년, AI는 어떻게 변화 했을까? | 인공지능 시대, 생성AI 전문가가 되기 위한 기초 원리부터 실습까지!" },
+    { "id": "gAJeMy0RzQk", "title": "elice x pluralsight" },
+    { "id": "p8G5HErQdV0", "title": "AWS, MS 클라우드, 넷플릭스의 비밀! 클라우드 컴퓨팅 기본 개념 5분 안에 이해하기 ☁️  (IaaS Paas SaaS) | 엘리스" },
+    { "id": "yPCgYi3qVNg", "title": "🌍스타벅스,트위터,인스타그램도 쓰는 PWA! 개발자 취준생 필수시청 🏁" },
+    { "id": "tDA6wSc9PGc", "title": "🤖 \"AI에 대체될까\" 걱정이라면? 10년차 개발자가 AI를 대하는 마인드셋은 이렇습니다." },
+    { "id": "Luj3WPCzvxQ", "title": "800일동안 알고리즘 코딩테스트 직접 풀어봤습니다. 취준 이렇게 해보세요!" }
+  ],
+  "playlists": [
+
+  ]
+}

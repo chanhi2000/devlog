@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "codingajae",
+    "name": "코딩아재",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZiKjZquommxWFgfgVEgBQTDO3ycKI-tVCJzg0Axg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E0S9_9JSJ0axbss3i8ih4M7aD9bl3R-RUcFD1mRQT3B_tp7DmT_8JWP73lDwMgQ4D82-wFa8Tw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "92YbV5LMC5k", "title": "SIP 프로토콜 - 웹개발입문 심화편 08화" },
+    { "id": "OIFU8rlQAOM", "title": "EEP06 서큘레이터" },
+    { "id": "iOUicQDEAyI", "title": "OAuth & JWT - 웹개발입문 심화편 05화" }
+  ]
+}

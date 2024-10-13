@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "RedwoodJS",
+    "name": "RedwoodJS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lx-YwfnAo8N5zxFTsuYrA_WIZ-N3AWRkdqzf5OoBK0qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DbrryfKCSxZr9t504TNG5YMlv2Kyq3VkBJoWNnKguRuOn16oxh7cwNgPzWD0DzxzKGp5hlBT=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5IZv3khsx0o", "title": "React Server Components now available in RedwoodJS (Complete Walkthrough)" },
+    { "id": "PW0ulmCpWn4", "title": "Getting Started with React Server Components in RedwoodJS" },
+    { "id": "AH2qd3LK9Ts", "title": "April 2024 Town Hall" },
+    { "id": "XpGk6ZKE_SM", "title": "Town Hall February 2024: Announcing Redwood's React Server Components (RSC) Roadmap" }
+  ]
+}

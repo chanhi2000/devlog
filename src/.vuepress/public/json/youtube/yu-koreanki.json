@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "koreanki",
+    "name": "코리안키Koreanki",
+    "profile": "https://yt3.googleusercontent.com/EYBauF7uUkHpoh7VceG8owsd5f6fidG2dVkdPyDGk8XAjBPNcF3hV5iKQNhkhUL3jmAS5py4Xeg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "3Imgb4oSv14", "title": "PDF 학습을 위한 노트 앱 Logseq | Annotation Page" },
+    { "id": "5JaucXVwmmY", "title": "PDF 학습을 위한 노트 앱 Logseq | PDF Reader 버튼들" },
+    { "id": "reRKkDQ_ZLo", "title": "Logseq + PDF 학습의 핵심2 | Area Highlight" },
+    { "id": "t-kcpYGWfyw", "title": "PDF 학습을 위한 노트 앱 Logseq | Outline과 Link 활용" },
+    { "id": "bzU4pTHNhD4", "title": "Logseq + PDF 학습의 핵심1 | 텍스트 하이라이트" },
+    { "id": "LNWPSh2g90E", "title": "PDF 학습을 위한 노트 앱 Logseq | PDF Import하기" },
+    { "id": "p_7Duae_Slg", "title": "PDF로 공부한다면 반드시 배워야하는 Anki 애드온 | SIAC" }
+  ]
+}

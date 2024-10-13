@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "TechWithNikola",
+    "name": "Tech With Nikola",
+    "profile": "https://yt3.googleusercontent.com/uQAA1Y7PIK9QfCsEtqOTncQNxxiAE2PvuEjlQy0LW1uzrJyDIloHFUeMZamdmpFdVilc578ZZso=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1O3oIgiTsZXKl4SJgsj-ni6jULecdBLLIQM_2CtFk9p5bfyTBUDCGkHu3N1T1pVOAsxPkZHF=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6fv7Vsj7X9s", "title": "Can you earn money playing Blackjack? (The software engineer's approach)" },
+    { "id": "rE5h11FwiVw", "title": "Mastering Dynamic Programming - A Real-Life Problem (Part 2)" },
+    { "id": "lAjcH-hCusg", "title": "Coding Quests E1: NEAT algorithm (from scratch)" },
+    { "id": "RxHJdapz2p0", "title": "How GIT works UNDER the HOOD?" }
+  ]
+}

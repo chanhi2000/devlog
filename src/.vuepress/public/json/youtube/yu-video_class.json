@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "video_class",
+    "name": "VIDEOCLASS",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSz_fybt5aD04_UZBNX6J-NqpJIKlJrYTqzX-vO1w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hMPStgE1zcdFi8uxqiktCKy0otoZLdiXw2JBmFkzGoW0AfwoCN7CN27WKrO3p1yhUqbEhAObbwk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qoecK-so_-A", "title": "(긴급)모르고 있으면 반드시 당합니다... 요즘 유튜버 해킹 근황" },
+    { "id": "bKkFCM0sdBY", "title": "10년간 모은 영상제작 기술과 프리셋, 가져가세요!!" },
+    { "id": "7yCVyFV8SZo", "title": "이젠 모르면 뒤쳐집니다... 100배 차이내는 미친 꿀팁" },
+    { "id": "oUYvYesO3iw", "title": "편집하는 사람을 위한 각종 소스 사이트 공유합니다 | 배경음악, 효과음, 템플릿, MOGRT 등" },
+    { "id": "oPy71HF9p9Q", "title": "긴급! 유튜브 성공공식을 바꿀 기능이 생겼습니다...! (유튜버 필수 시청)" },
+    { "id": "JmsRi5Nz6mA", "title": "Windows' essential function that's as good as Mac's (File explorer tab)" }
+  ],
+  "playlists": [
+    
+  ]
+}

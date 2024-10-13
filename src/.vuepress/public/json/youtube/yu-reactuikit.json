@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "reactuikit",
+    "name": "React-Native by Wilhelm (React-UI-Kit)",
+    "profile": "https://yt3.googleusercontent.com/BJMcsmJpg02ewtN3DV6YUkkkUK7WABSgITVGhpIXfTk-ld07E1pHzV9QVvuPMyuoVGabSkEE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/I2bTvifJEhnXNhjBg0AgXnW8ygA3mV0RBteN6UiptNBbMG0omVFdqrTRFVh4tQRi7c9oBCxUD28=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aol3u9oIHxY", "title": "Neumorphism - React Native" },
+    { "id": "gyiwFcrVRCM", "title": "S01E13 - Plant App - React Native" }
+  ]
+}

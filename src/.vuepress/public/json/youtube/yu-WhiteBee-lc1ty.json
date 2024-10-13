@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "WhiteBee-lc1ty",
+    "name": "WhiteBee",
+    "profile": "https://yt3.googleusercontent.com/hc-eINGlhY2OlXXGipKsAKzBOhSxK0nEIq3U1jhFSeyOS-QlBxFaqceX31UcBsxvqcAyXAC1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3s9ZiRE7aAMhpfj6Yt17czuHZ64exEbHi9BXM4TsGZGrDLC4fJCA5Mh0KjIZgLnpzjFvrEHTig=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PIKslYrfIIs", "title": "Minimum edit distance - BottomUp DP (Code)" },
+    { "id": "6SlyTgtGnZg", "title": "Merge Sort (Class Record)" },
+    { "id": "7cL6ymVNiHI", "title": "BFS (theory) - Part 2" },
+    { "id": "O-pKarR8V60", "title": "BFS(Code) - Part 2" },
+    { "id": "49q5X5EpG7I", "title": "BFS(Code) - Part 1" },
+    { "id": "pwwNzHY8Q2s", "title": "function in c (Part 1)" },
+    { "id": "ddX3JyT9lRc", "title": "function in C (Part 2)" },
+    { "id": "icjdvIdDekQ", "title": "Structure in C" },
+    { "id": "Mpw8WzUkhM0", "title": "Structure in C (Example)" },
+    { "id": "pMDhWTWNHTc", "title": "2D Character Array (Example)" },
+    { "id": "kDwFz1GO80U", "title": "Recursion in C (Example 3)" },
+    { "id": "HiSQ-_fRDDg", "title": "Recursion in C (Example 2)" },
+    { "id": "54_YmBv-NFM", "title": "Recursion in C (Example 1)" },
+    { "id": "hoqt260T-6Q", "title": "Condition Check in Main function" },
+    { "id": "bjqs3nO3vzQ", "title": "Dijkstra (Code)" },
+    { "id": "KICoF0VUTY0", "title": "Fractional Knapsack" },
+    { "id": "DGA5mt5cdic", "title": "0/1 Knapsack (Bottom-Up DP)" },
+    { "id": "-24t6SWZj7g", "title": "0/1 Knapsack Tabular Method" },
+    { "id": "-WzbbA6mKKA", "title": "Function in C" },
+    { "id": "uMtWKejJVpc", "title": "Array in C" },
+    { "id": "Gd9WxzUDjyk", "title": "Array manipulation in C" },
+    { "id": "3ure0a1WIXs", "title": "2D Array in C" },
+    { "id": "bMYGKIi89G0", "title": "C programming Lower case to Upper case conversion" },
+    { "id": "aC2klX_2jlQ", "title": "switch-case in C" },
+    { "id": "lLZjAJMD4aI", "title": "goto keyword in C" },
+    { "id": "lIyEQCJeQtE", "title": "Coin Change (Number of ways) - DP" },
+    { "id": "CdLCu_fwGCY", "title": "LCS - Longest Common Subsequence" },
+    { "id": "mHyqkpYWZJg", "title": "Toph - Fair Distribution" },
+    { "id": "xtrVdg0AJn4", "title": "Swap function" },
+    { "id": "KVBMG-PNJdU", "title": "Guideline for \"Personality Type\" Data Collection" }
+  ]
+}

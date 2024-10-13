@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ZigSHOWTIME",
+    "name": "Zig SHOWTIME",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTAq3iZnSBys3GyDhR1Zc-Oc-_vNDT3aNZIxMn8=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fDODmaSe2SU9pDSsrQfoH2BMOYt4OLvYWdhVXC0vHT6rzwdhKoi0nYGMHIKQGIBVxnYnBgjIlA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eA4dQ0KryJM", "title": "[Livecoding] Setting up Bork for YouTube Chat" },
+    { "id": "BeExz_H2Vxo", "title": "[Livecoding] Working on ZIne, my static site generator" },
+    { "id": "5eL_LcxwwHg", "title": "[#36] Zig Roadmap 2024 - Andrew Kelley" },
+    { "id": "xUInj_nEcEg", "title": "Tales from The Ticket Queue - Jim Price - Software You Can Love Vancouver 2023" },
+    { "id": "ZTOOlwoX9A8", "title": "[#35] dt: Duct Tape for Unix Pipes" },
+    { "id": "l_qY2p0OH9A", "title": "[#32] Ghostty: A New Terminal Emulator Written in Zig - Mitchell Hashimoto" }
+  ]
+}

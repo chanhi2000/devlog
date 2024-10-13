@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "betapyteag",
+    "name": "petabyteag",
+    "profile": "https://yt3.googleusercontent.com/yFPvDTIU61tuzpEgFKjZXcyoM4Hsaium1UEbLxdZK3B1bw5Z52RnmiJZB_nQToNwG2pwYf79Vg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ALKTmP0HVNAClrniBBvWPKDfOLb2YmrmY72pxjvR9tszyr8XVWCB651qn6A9-8xybPcQ0JJ74g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "57aLqMW6e7U", "title": "Installing Linux Mint 1.0 on a Terrible Old Laptop" },
+    { "id": "aXGcYkUqzwY", "title": "Toshiba Satellite A65-S126 - Windows XP Factory Software Recovery" },
+    { "id": "2tDenpEtKMk", "title": "HP Pavilion Slimline s7410n Acquisition and Test" },
+    { "id": "kJcOssycrYU", "title": "Dell Latitude E6420 - Ubuntu 10.10 Factory Software Recovery" },
+    { "id": "pGvIs25w_Eo", "title": "Making the HP Compaq dc7600 SFF Even Better" },
+    { "id": "UhyQdUtFrss", "title": "Retro Review: eMachines M6805" }
+  ],
+  "playlists": [
+
+  ]
+}

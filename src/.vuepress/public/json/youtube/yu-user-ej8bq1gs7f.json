@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "user-ej8bq1gs7f",
+    "name": "쉽게 배우는 프로그래밍",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZyagdLT6jY6N95aaRAnP1k_Q7BG24pbmxCBd3a=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lX3eJ7DoCc--8Vt4sA2ng0ogrpYGK5P9A2tjFUaarAwW9lLzfzKLhsXO99fYK3ICp_25OzgnKA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RsEyPMEeElA", "title": "언리얼엔진4 C++ 강좌 13 [쥐를잡자 찍찍찍-06] moveNext로 게임진행하다 내 순서가 되면 잡았다 놓쳤다 선택하기" },
+    { "id": "PFiPzeiz5qc", "title": "언리얼엔진4 C++ 강좌 14 [쥐를잡자 찍찍찍-07] 잡았다 놓쳤다 선택하면 이벤트 발생시키기" },
+    { "id": "3D91Jl7Pl-k", "title": "언리얼엔진4 C++ 강좌 15 [쥐를잡자 찍찍찍-08] 완성하기" },
+    { "id": "3kEmCaLacPg", "title": "언리얼엔진4 C++ 강좌 10 [쥐를잡자 찍찍찍-03] 타이머 사용법" }
+  ],
+  "playlists": [
+    {
+      "title": "언리얼엔진 4 C++",
+      "videos": [
+        { "id": "3kEmCaLacPg", "title": "언리얼엔진4 C++ 강좌 10 [쥐를잡자 찍찍찍-03] 타이머 사용법" },
+        { "id": "Owk1kx8OlTE", "title": "언리얼엔진4 C++ 강좌 9 [쥐를잡자 찍찍찍-02] material 입히는 2가지 방법" },
+        { "id": "Om9_d5IdcN8", "title": "언리얼엔진4 C++ 강좌 8 [쥐를잡자 찍찍찍-01] cube와 sphere를 이용해 플레이어 만들기" },
+        { "id": "c6dreU6IGPo", "title": "언리얼엔진 4 C++강좌 007 [actor-07] 액터에서 이벤트 발생시키기" },
+        { "id": "SswZKW_bTnA", "title": "언리얼엔진 4 C++강좌 006 [actor-06] 에디터에서 설정하면 실시간으로 액터에 반영되도록 하기" },
+        { "id": "pE5d-_oMC0o", "title": "언리얼엔진 4 C++강좌 005 [actor-05] C++ 클래스의 재사용성 - 다른 프로젝트에서도 사용 가능할까?" },
+        { "id": "pJuUn6JpqBc", "title": "언리얼엔진 4 C++강좌 004 [actor-04] 가까이 다가가면 자동으로 불이 켜지는 램프 액터 만들기" },
+        { "id": "Yj2WRfhloQg", "title": "언리얼엔진 4 C++강좌 003 [actor-03] 로그 남기는 방법" },
+        { "id": "-KwaVBBHPI8", "title": "언리얼엔진 4 C++강좌 002 [actor-02] Actor를 움직여보자" },
+        { "id": "jrvnLwWJHe8", "title": "언리얼엔진 4 C++강좌 001 [actor-01] Actor 클래스 생성해 보기" },
+        { "id": "VioZbjHJw9c", "title": "언리얼엔진4 c++ 강의를 시작합니다." },
+        { "id": "Wxa5SS5H2CM", "title": "언리얼엔진 강좌 57 C++로 blueprint용 함수 노드 만들기" }
+      ]
+    }
+  ]
+}

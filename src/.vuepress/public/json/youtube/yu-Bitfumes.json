@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Bitfumes",
+    "name": "Bitfumes",
+    "profile": "https://yt3.googleusercontent.com/XnZIeUhhkHTU1iY_veQpGnWqTwLKWLM7r44sMRmQxZ7Xg3RUdmZYik3oBI5rYCj78TG1MeD5BLY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xE3nYGzj5E-BpxUfrv9K-FNeCytEl_GR9MnfulR_aqewU3rOCnmUkIUI8AB2_ofTy7oVdfPD2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "e-E0UB-YDRk", "title": "Vue 3 Tutorial - Full Course 10 Hours 10 apps" },
+    { "id": "sgn5jRuZb6o", "title": "Vuejs 2.0 in just 60 min | Vuejs 2018 from scratch to pro" }
+  ]
+}

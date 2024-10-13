@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "CyberFlow10",
+    "name": "CyberFlow",
+    "profile": "https://yt3.googleusercontent.com/Pk1Bytz7vnGEb6WZDXn-flmTYHIjA3MiwiCLg2j8h43RgAWER9NxKrMbfjppQlMxhlQgSRNocQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RjTJPEZd6Bp8eQ2zKeE_pv0aQNIfZxX6G5qNsgAug7pETTgt5E1wd0KbwnncLfiTCs8uKZ2m1hI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UjVxt_qXmI4", "title": "Learn Nmap in 7 Minutes!" },
+    { "id": "nCHt8lMvIuo", "title": "How to Hack Passwords Using Hydra!" },
+    { "id": "bRkpYEmygow", "title": "How to Scan ANY Website for Vulnerabilities!" },
+    { "id": "MzowZHg-30I", "title": "How To Test Websites For Unexpected Errors!" },
+    { "id": "OuFA-D_frQU", "title": "Google Dorking: Find Vulnerabilities Using Google" },
+    { "id": "z7LdMQT_Hes", "title": "How To Learn Hacking - a Full Guide  (2024)" },
+    { "id": "c1myxWvry1I", "title": "How To Hack Any Website!" },
+    { "id": "sozZOiXs3oM", "title": "Every Hacker NEEDS This Tool!" },
+    { "id": "rPWvonAyhf8", "title": "How To Land a Job as an Ethical Hacker!" }
+  ]
+}

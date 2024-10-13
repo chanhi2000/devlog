@@ -1,0 +1,8 @@
+[
+  {
+    "repo": "nasa-jpl/open-source-rover",
+    "desc": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+    "officialSite": "https://opensourcerover.jpl.nasa.gov",
+    "topics": ["mars", "mars-rover", "robot", "robotics"]
+  }
+]

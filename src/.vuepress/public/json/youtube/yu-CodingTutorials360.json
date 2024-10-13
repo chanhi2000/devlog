@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "CodingTutorials360",
+    "name": "Dylan Israel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPoRPeOloVt9zZu7wbu5hQ7yvaONv8j72P-gw-l=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WiyjseotKPA72JesfRw1GtO5dn0LTcJBTULiOrC4N3_akJbtSZbsBKZfxES4d5OIkW4DgueDyw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bRMiD25Lys8", "title": "Best Ways To Use Open Source Software For Developers - S1E22" },
+    { "id": "rYVW4tIVII0", "title": "Information Security with HelmetJS with FreeCodeCamp | Dylan Israel" },
+    { "id": "uAUlv39DhQU", "title": "Quality Assurance and Testing with Chai | FreeCodeCamp with Dylan Israel" },
+    { "id": "MkqdLCFG9xM", "title": "🔴 Lets Build a Web App LIVE Episode 12 with Dylan Israel" },
+    { "id": "wCTTHhehJbU", "title": "Learn Docker in 20 Minutes" }
+ ]
+}
+

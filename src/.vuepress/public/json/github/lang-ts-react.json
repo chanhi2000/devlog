@@ -1,0 +1,290 @@
+[
+  {
+    "repo": "xyflow/xyflow",
+    "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+    "officialSite": "https://xyflow.com",
+    "topics": ["flowchart", "graph", "javascript", "node-based-ui", "react", "react-flow", "svelte", "svelte-flow", "typescript", "typescript-library", "workflow"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "colinhacks/zod",
+    "desc": "TypeScript-first schema validation with static type inference",
+    "officialSite": "https://zod.dev",
+    "topics": ["runtime-validation", "schema-validation", "static-types", "type-inference", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "react-dnd/react-dnd",
+    "desc": "Drag and Drop for React",
+    "officialSite": "http://react-dnd.github.io/react-dnd",
+    "topics": ["drag-and-drop", "not-the-game", "react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "refinedev/refine",
+    "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+    "officialSite": "https://refine.dev",
+    "topics": ["admin", "admin-ui", "ant-design", "crud", "developer-tools", "frontend-framework", "good-first-issue", "graphql", "hacktoberfest", "headless", "internal-tools", "javascript", "low-code", "nestjs", "nextjs", "open-source-project", "react", "react-framework", "react-hooks", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tremorlabs/tremor",
+    "desc": "React components to build charts and dashboards",
+    "officialSite": "https://tremor.so",
+    "topics": ["react-components", "reactjs", "tailwindcss", "typescript", "ui-system"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vercel/react-tweet",
+    "desc": "Embed tweets in your React application.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "advanced-cropper/react-advanced-cropper",
+    "desc": "The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers that exactly suited for your website design",
+    "officialSite": "https://advanced-cropper.github.io/react-advanced-cropper/",
+    "topics": ["advanced", "cropper", "flexible", "image", "image-cropper", "image-cropping", "image-manipulation", "library", "react", "react-component", "react-cropper"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mobxjs/mobx",
+    "desc": "Simple, scalable state management.",
+    "officialSite": "http://mobx.js.org",
+    "topics": ["javascript", "mobx", "react", "reactive-programming", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "i18next/react-i18next",
+    "desc": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+    "officialSite": "https://react.i18next.com",
+    "topics": ["i18n", "i18next", "internationalization", "react", "react-native", "ssr", "translation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jsxstyle/jsxstyle",
+    "desc": "Inline style system for JSX",
+    "officialSite": "https://jsx.style/",
+    "topics": ["css", "css-in-js", "inline-styles", "jsxstyle", "react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alangpierce/sucrase",
+    "desc": "Super-fast alternative to Babel for when you can target modern JS runtimes",
+    "officialSite": "https://sucrase.io",
+    "topics": ["compiler", "es-modules", "javascript", "jsx", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "transitive-bullshit/react-static-tweets",
+    "desc": "Extremely fast static renderer for tweets.",
+    "officialSite": "https://react-tweet.vercel.app",
+    "topics": ["nextjs", "react", "ssr", "tweet", "tweets", "twitter"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "preactjs/preact-render-to-string",
+    "desc": ":page_facing_up: Universal rendering for Preact: render JSX and Preact components to HTML.",
+    "officialSite": "http://npm.im/preact-render-to-string",
+    "topics": ["html", "preact", "preact-components", "universal"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "lewhunt/divz",
+    "desc": "A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos: https://lewhunt.github.io/divz/",
+    "officialSite": "https://lewhunt.github.io/divz/",
+    "topics": ["3d", "carousel", "component", "css3", "deck", "experimental", "gallery", "presentations", "react", "scroll", "showcase", "slider", "slides", "slideshow", "swipe", "time-machine", "typescript", "ui-design", "ux-ui", "zoom"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "daangn/stackflow",
+    "desc": "🧱 Mobile-first stack navigator framework with composable plugin system",
+    "officialSite": "https://stackflow.so",
+    "topics": ["framework", "mobile", "navigator", "plugin", "react", "stack", "system", "typescript", "webview"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "expo/react-conf-app",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jovotech/jovo-framework",
+    "desc": "🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more",
+    "officialSite": "https://www.jovo.tech",
+    "topics": ["alexa", "amazon-alexa", "chatbots", "conversational-ai", "facebook-messenger", "google-assistant", "jovo-framework", "voice", "voice-applications", "voice-assistant"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alan2207/bulletproof-react",
+    "desc": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mdx-editor/editor",
+    "desc": "A rich text editor React component for markdown",
+    "officialSite": "https://mdxeditor.dev",
+    "topics": ["editor", "lexical", "markdown", "markdown-editor", "mdx", "react", "reactjs", "rich-text-editor"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gregberge/twc",
+    "desc": "Create reusable React + Tailwind CSS components in one line ✨",
+    "officialSite": "https://react-twc.vercel.app",
+    "topics": ["react", "styled-components", "tailwindcss"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "schedule-x/schedule-x",
+    "desc": "Material design event calendar and date picker",
+    "officialSite": "https://schedule-x.dev",
+    "topics": ["calendar", "date-picker", "javascript", "react", "vue"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "prabhuignoto/react-chrono",
+    "desc": "🕑 Modern Timeline Component for React",
+    "officialSite": "https://react-chrono.prabhumurthy.com",
+    "topics": ["horizontal-timeline", "javascript-timeline", "react", "react-timeline", "reactjs", "slideshow", "timeline", "timeline-component", "typescript", "vertical-timeline", "vertical-timeline-react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "officialSite": "https://react-hook-form.com",
+    "topics": ["dx", "form-builder", "forms", "react-hooks", "react-native", "reactjs", "typescript", "ux", "validation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "holtzy/react-graph-gallery",
+    "desc": "A set of graph examples showing how to make react and d3.js work together",
+    "officialSite": "https://www.react-graph-gallery.com",
+    "topics": ["d3js", "data", "dataviz", "react"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "toss/suspensive",
+    "desc": "Packages to use React Suspense & ErrorBoundary easily (one of Tanstack Query community resources)",
+    "officialSite": "https://suspensive.org",
+    "topics": ["async", "errorboundary", "react", "react-query", "ssr", "suspense", "suspensive"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "stevenpetryk/mafs",
+    "desc": "React components for interactive math",
+    "officialSite": "https://mafs.dev",
+    "topics": ["math", "react", "visualization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "taqui-786/Portfolio",
+    "desc": "A Simple Portfolio made with Nextjs and Shadcn UI",
+    "officialSite": "https://mdtaquiimam.vercel.app/",
+    "topics": ["nextjs13", "reactjs", "shadcn-ui", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "taqui-786/itZmyLink",
+    "desc": "The Project is Live at",
+    "officialSite": "https://itzmylink.vercel.app/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "taqui-786/mixcnui",
+    "desc": "Collection of Nextjs Components",
+    "officialSite": "https://mixcn-ui.vercel.app",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "taqui-786/crousal-maker",
+    "desc": "Crousel maker make with Nextjs 13 👇",
+    "officialSite": "https://crousal-maker.vercel.app/",
+    "topics": ["html2canvas", "javascript", "nextjs", "nextjs-template", "nextjs14", "pdf-js", "shadcn-ui", "tailwindcss", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "infi-pc/locatorjs",
+    "desc": "",
+    "officialSite": "https://www.locatorjs.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ironman5366/ai-murder-mystery-hackathon",
+    "desc": "The game is afoot",
+    "officialSite": "https://ai-murder-mystery.onrender.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tremorlabs/tremor-raw",
+    "desc": "Copy & Paste React components to build modern web applications. ",
+    "officialSite": "https://raw.tremor.so",
+    "topics": ["components", "dashboard", "radix-ui", "react", "tailwindcss", "typescript", "ui"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "reaviz/reablocks",
+    "desc": "🧩 Component Library for React based on Tailwind. Maintained by @goodcodeus.",
+    "officialSite": "https://reablocks.dev",
+    "topics": ["calendar", "command-palette", "context-menu", "dialog", "drawer", "javascript", "menu", "react", "reactjs", "select", "tailwind", "tree", "typescript"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "danmindru/page-ui",
+    "desc": "📃 Landing page UI components for React & Next.js, built on top of TailwindCSS",
+    "officialSite": "https://pageui.dev",
+    "topics": ["components", "landing-page", "next", "nextjs", "nextjs14", "react", "reactjs", "shadcn", "shadcn-ui", "shadcnui", "tailwindcss", "typescript", "ui", "ui-components", "ui-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "saasfly/saasfly",
+    "desc": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
+    "officialSite": "https://show.saasfly.io",
+    "topics": ["bun", "enterprise-boilerplate", "i18n", "kysely", "landingpage", "monorepo", "nextauth", "nextjs", "nextjs15", "postgresql", "prisma", "react19", "saas-boilerplate", "serverless", "shadcn", "stripe", "tailwindcss", "turborepo", "vercel"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "uiwjs/react-codemirror",
+    "desc": "CodeMirror 6 component for React. @codemirror https://uiwjs.github.io/react-codemirror/",
+    "officialSite": "https://uiwjs.github.io/react-codemirror/",
+    "topics": ["codemirror", "codemirror-themes", "codemirror6", "editor", "hook", "ide", "react", "react-codemirror", "react-codemirror2", "themes", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/33082374?v=4",
+    "banner": ""
+  }, {
+    "repo": "epicweb-dev/build-react-hooks",
+    "desc": "Understand how React hooks work by building them from scratch",
+    "officialSite": "https://build-react-hooks.epicweb.dev/",
+    "topics": ["epicweb-dev", "react", "workshop"],
+    "avatar": "https://avatars.githubusercontent.com/u/112979997?v=4",
+    "banner": ""
+  }, {
+    "repo": "falsy/domain-driven-react-architecture",
+    "desc": "Domain-driven React architecture configuration with a sample project",
+    "officialSite": "",
+    "topics": ["clean-architecture", "ddd", "documents", "oop", "reactjs", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/18395085?v=4",
+    "banner": ""
+  }, {
+    "repo": "gronxb/react-native-icons-builder",
+    "desc": "Generate React Native icons CLI from React Icons",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/41789633?v=4",
+    "banner": ""
+  }, {
+    "repo": "Hacker0x01/react-datepicker",
+    "desc": "A simple and reusable datepicker component for React",
+    "officialSite": "https://reactdatepicker.com/",
+    "topics": ["date-fns", "datepicker-component", "hacktoberfest", "javascript", "moment", "picker", "react"],
+    "avatar": "https://avatars.githubusercontent.com/u/3014877?v=4",
+    "banner": ""
+  }
+]

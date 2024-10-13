@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "KWDC23",
+    "name": "KWDC",
+    "profile": "https://yt3.googleusercontent.com/2f2NEg5xgOImiIghrY23tsmCTpf3IUp4ruIX98Sfv8AQMddJalktZTWK9qgDOPEKmWopzP982g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "QdrNzWjfwhQ", "title": "제조업에서 SwiftUI + TCA로 앱 개발하기 - KWDC23" }
+  ]
+}

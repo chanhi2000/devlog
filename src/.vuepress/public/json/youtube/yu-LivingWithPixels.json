@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "LivingWithPixels",
+    "name": "Rino - LivingWithPixels",
+    "profile": "https://yt3.googleusercontent.com/I5LLCmDo7w47wzHn3uiTcMzpNqD6MgzW12X6pXajsp6QySmQ4z37sgT6-TQnXkgx8XXEoCp7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WUiSIsFxCBj7ukvGgjr4NgUILjWea_SyHDVeq6mvqMwiQMpSceZ7e87CYarcD0BuNpqsONsV4A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QYD8wp3qb54", "title": "7 Wordpress Plugins I install on all websites (2024)" },
+    { "id": "9eNMBKfZegI", "title": "Why I will keep using Elementor in 2024. No need to switch." },
+    { "id": "QYD8wp3qb54", "title": "7 Wordpress Plugins I install on all websites (2024)" },
+    { "id": "2A2QYSkc5ZU", "title": "Elementor AI Review: Containers, Text, Images & CSS. Any good?" },
+    { "id": "r6fCYSeJ-9w", "title": "Speed up your Elementor with this new feature in 3.18" },
+    { "id": "RcCS_7SW0co", "title": "Introducing My Elementor Pro Course: Become a Pro in a week" },
+    { "id": "l2_HISb_waU", "title": "Elementor’s New UI 2024: How to use it to work fast" },
+    { "id": "QfNDJzT6zfw", "title": "Let Relume A.I. Design your Website in seconds" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "core-computinglab",
+    "name": "Core Computing",
+    "profile": "https://yt3.googleusercontent.com/fN6qNKVBduWCbDjnBKz8Cfz88QEix9ZCGaAqocX9b__8s5GNrSJvX1pshz5mUSY8wVsnjWeIk7w=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MOQOJmsmQr6F3LSF641v-mhoZfQe7OCGhUjYhPLCTjy74k-ZqltiKOEbidaz8FTgfWQAQB8aAw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XdlKU7U5_6A", "title": "Unveiling My Ultimate Home Lab Setup" },
+    { "id": "gKMFR6Gj5Hs", "title": "Barracuda web filter 310 converted to use Supermicro X10SLH-N6-ST03 10GBE on a budget" },
+    { "id": "duYf0-kFLbU", "title": "Unveiling My Ultimate Home Lab 2024 Setup (Audio fixed reupload)" }
+  ],
+  "playlists": [
+
+  ]
+}

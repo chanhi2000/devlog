@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "EricParker",
+    "name": "Eric Parker",
+    "profile": "https://yt3.googleusercontent.com/TDQDaGc78T6drdVaDVmIs5e3M18UuMsAEzGSeuLFn2XAOoblyXriwykSIlYuQnaFw_91EV0T1Pw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/brcs8LHewDjxSQCEtdPGCY7ak5e7F-NDnhXronIl4swz-csrESbEqZTdB_NFxww0lx3jlwFBjA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VI0pikAHj2M", "title": "The best way to run MacOS on a PC (OSX-KVM Hackintosh)" }
+  ]
+}

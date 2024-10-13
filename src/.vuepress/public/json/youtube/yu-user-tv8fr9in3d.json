@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "user-tv8fr9in3d",
+    "name": "도그풋",
+    "profile": "https://yt3.googleusercontent.com/EDz8oI2yO3EL1v7YkXxTHLEDLepBHxkL1DMzwo-n1d4XcIotFS8Ij6VV7MvdTEjDUPrMVfDW=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VR-8pV6RoUGZs1t9jpD9wMtHu_g6IHlwa5s1r7QzaDYAMD_zVs8jNNYeTiLoDiq7wyVvIE8IJqk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wAt7PMqVFL4", "title": "IDX - 웹에서 ios, android시뮬까지 가능한!" },
+    { "id": "-sPCQTpGrWI", "title": "[Flutter] 슈파베이스(Supabase) 채팅앱 만들기" }
+  ]
+}

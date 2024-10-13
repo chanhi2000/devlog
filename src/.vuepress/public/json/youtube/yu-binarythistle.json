@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "binarythistle",
+    "name": "Les Jackson",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZUDc_Cw9nGlfRU1IgBYETDyx-Mfhq1QGJt1iSrgA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yhtZmboInV1C9-at-GQMZIdmuJdQUpMnTsgf6BDz3kvtelPWrN6Fkh6wXkPn8gMh98CF6Ctn37s=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DgVjEo3OGBI", "title": ".NET Microservices – Full Course" }, 
+    { "id": "es8A7aw6Y5E", "title": "Publisher Subscriber Pattern - Build your own .NET Message Broker" }, 
+    { "id": "5YB49OEmbbE", "title": ".NET 6 Minimal API Full Build" }, 
+    { "id": "agIJTnpfFGA", "title": "Blazor API Client using REST & GraphQL APIs - Full Course" }, 
+    { "id": "HuN94qNwQmM", "title": "GraphQL API with .NET 5 and Hot Chocolate" }, 
+    { "id": "UsoH5cqE1OA", "title": "Build an API Gateway with Envoy and use with .NET Core APIs" }, 
+    { "id": "lcaDDxJv260", "title": "Run ASP.NET Core 3.1 Apps in Docker with HTTPS." }, 
+    { "id": "ycVgXe6v1VQ", "title": "Asp.Net Core WebSockets Vs SignalR. Which should you use? (Full Course)" }, 
+    { "id": "f0lMGPB10bM", "title": "Deploy a .NET Core API with Docker (Step-by-Step)" }, 
+    { "id": "96KHOaIe19w", "title": "Custom HTTPS Dev Environment using .NET Core, Kestrel & certificates" }, 
+    { "id": "3PyUjOmuFic", "title": "Secure a .NET Core API with Bearer Authentication" }, 
+    { "id": "11f5KzVNQ90", "title": "Step by Step Tutorial - C# REST Client" }, 
+    { "id": "Ff0DoAmpv6w", "title": "Azure DevOps: Provision API Infrastructure using Terraform - Full Course" }, 
+    { "id": "fmvcAzHpsk8", "title": ".NET Core 3.1 MVC REST API - Full Course" } 
+  ]
+}

@@ -1,0 +1,1 @@
+- [Ghidra — A powerful Reverse Engineering Tool](https://infosecwriteups.com/ghidra-a-powerful-reverse-engineering-tool-f8ea52a2bfd3)

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "foxlearn",
+    "name": "Fox Learn",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTrjEe9Ci1cCiQ3-LJEy1TsD0wgEOTTHAw1FEI-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HukyWR_bJaF-M5Cr-07ZI0HD6EYFWE1Kx43iPp8Nm0f0cYhFQEzb_rHoCD4_q6QEX5JUtiRb4Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C4e28-o-OOw", "title": "C# Tutorial - Connect to SQL Database | FoxLearn" }, 
+    { "id": "1Brmku0KVas", "title": "C# Tutorial - How to create line chart | FoxLearn" }, 
+    { "id": "SvZCFtaJcsk", "title": "How to Create Setup exe in Visual Studio 2019 using ClickOnce | FoxLearn" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "letsgetrusty",
+    "name": "Let's Get Rusty",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZT30iRzToI7a1hHe4p0uz-i6J5tUf9qpuSG_10i=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/S9acvDV0KaB1HLJMU4xkp2TAybeD7LJorOggTYlKbo9vAzIwZRzLX2yXg9oft8w4jKfA0ibA_Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NDIU1GSBrVI", "title": "The magic of Rust's type system" },
+    { "id": "IGxs5v26Teg", "title": "Rust keeps making JavaScript faster" },
+    { "id": "fknamfNtKk0", "title": "Why do developers hate Rust?" },
+    { "id": "P1cJJMLMEKk", "title": "Solving Rust’s biggest problem" },
+    { "id": "UzoWLSZ-scQ", "title": "Rust's most wanted feature just arrived!" },
+    { "id": "EYCBm0xAWow", "title": "5 things I wish I knew before learning Rust" },
+    { "id": "ZSN_NaHSfhE", "title": "AWS now officially supports Rust!" },
+    { "id": "usJDUSrcwqI", "title": "The Rust Survival Guide" }, 
+    { "id": "t6eaP2AjdyA", "title": "Rust YouTubers Tier List" },
+    { "id": "XYkiwsplDTg", "title": "Writing a CLI App in Rust! - Part 1" },
+    { "id": "PbR4ECFIckg", "title": "8 deadly mistakes beginner Rust developers make" },
+    { "id": "CpvzeyzgQdw", "title": "All Rust string types explained" },
+    { "id": "784JWR4oxOI", "title": "All Rust features explained" }, 
+    { "id": "BDkeiYiaU90", "title": "Rust enables Arch Linux on Apple Silicon" }, 
+    { "id": "0O_VAEgJEcA", "title": "A new operating system written in Rust" }, 
+    { "id": "FW4oUXHly8c", "title": "MUST know Rust database libraries" }, 
+    { "id": "mNTkTV81tHU", "title": "Another JS tool re-written in Rust…" }
+  ]
+}

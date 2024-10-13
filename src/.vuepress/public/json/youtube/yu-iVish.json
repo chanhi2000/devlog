@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "iVish",
+    "name": "iVish",
+    "profile": "https://yt3.googleusercontent.com/whPsTTdkkPys2ioYn4PT7qEi01DaDh6fPZP2ru3LPwH_0PuMES9Y-IDxxyH7GeydckcyC8dbEw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J63TbV61to8wWLtrxkaRnZJaLtmipQl5p3nuX9PzhFOjJbNe8QbjvvQLzlJ-LfzpgEvzNmoQlg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T_tjlYIPinw", "title": "Build with ChatGPT | Trending Video Listings with Vue.js | Styled & Interactive | Day 10" },
+    { "id": "ETVPVXAGWw0", "title": "Automating Deployment: CI/CD with GitHub Actions to GoDaddy | Day 11" },
+    { "id": "UisMtIyzPLE", "title": "Building with ChatGPT | Creating NavBar, Footer & Hero Section in Laravel & VueJS | Day 2" },
+    { "id": "vN4pdCXccx0", "title": "Effective ChatGPT prompts leads to better results, here’s how #chatgpt #generativeai #ai #reels" },
+    { "id": "RxBmq649Ey4", "title": "ChatGPT Debugging Deep Dive | Vue.js & Laravel Fine-Tuning | Day 3" },
+    { "id": "T804TsjSpNc", "title": "Struggles with ChatGPT | Responsive Design using Laravel & VueJS | Day 4" },
+    { "id": "gVKjSP2oUnY", "title": "Boosting Productivity using ChatGPT | Responsive Design in Laravel & Vue.js | Day 5" },
+    { "id": "RQcWs7BGecg", "title": "Building with ChatGPT | Deploying a Laravel & Vue.js Website on GoDaddy using File Manager | Day 6" },
+    { "id": "Zy2FC9IOeNo", "title": "Build with ChatGPT | Laravel Backend & YouTube API | Discuss on Vue vs. React | Day 7" },
+    { "id": "czOlhsyfITA", "title": "Build with ChatGPT | Optimizing YouTube API for Vue.js with Laravel & ChatGPT | Day 8" },
+    { "id": "ja_RLsQEMg8", "title": "Build with ChatGPT | Integrating Trending YouTube Vidoes in Vue.js with ChatGPT | Day 9" },
+    { "id": "YIVt74aBxnM", "title": "#37 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Send & Receive Messages using WebSocket" }, 
+    { "id": "apNnHSAZIlg", "title": "#33 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Custom Title View on Navigation bar" }, 
+    { "id": "0HaXHzu3LRY", "title": "#1 WhatsApp Chat Clone BEST OF VIPER iOS Swift" }, 
+    { "id": "wnvGB9x401w", "title": "#22 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Logout and Clear JWT Tokens" }, 
+    { "id": "uBKr7VpNPZI", "title": "#24 WhatsApp Chat Clone | BEST OF VIPER iOS Swift | Alamofire Token Refresh Interceptor" }, 
+    { "id": "G4XTDvSM-A8", "title": "#3 Alamofire RxSwift HTTP REST Api Integration - RxSwift MVVM Coordinator iOS App" }, 
+    { "id": "dbwKV6FJV0w", "title": "#Intro City Airport Search - RxSwift MVVM Coordinator iOS App" }, 
+    { "id": "sZbBxtTDxL0", "title": "Practical RxSwift for Beginners - How to pass UIKit Signals To Presenter using Driver [Part 5]" }, 
+    { "id": "zPOQozOTaZU", "title": "Practical RxSwift for Beginners - Output Signals Back to ViewController from Presenter [Part 7]" }, 
+    { "id": "VlonRg1NlJ8", "title": "Build a Firebase iOS Swift Todo App - Teaser" }, 
+    { "id": "FqIykDMhOMA", "title": "Login Flow using VIPER iOS Swift - Sign Up Http Service using Alamofire [Episode 3]" }, 
+    { "id": "DV-AqWKkACQ", "title": "Login Flow using VIPER iOS Swift - Login and SignUp Routing [Episode 2]" }
+  ]
+}

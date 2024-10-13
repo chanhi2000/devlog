@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "TheYoctoProject",
+    "name": "Yocto Project",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYkTpWrUyYdm11uUsIOJTaFK6iXJTlTpYSqwJPf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zCMHy2PjsaM", "title": "YPS 2023.11 - 2023/11/29 - Luca Ceresoli - Keep your layer simple, and here's how" },
+    { "id": "papaU-vwIh8", "title": "YPS 2023.11 - 2023/11/30 - Sandeep Gundlupet Raju - Configuring and Building meta-ros for KR260" },
+    { "id": "NmPta5w6P70", "title": "Live Coding with Yocto Project #11: Getting started with C/C++ development." },
+    { "id": "jPbcQEffzJo", "title": "Live Coding with Yocto Project #10: building and customizing containers" }
+  ]
+}

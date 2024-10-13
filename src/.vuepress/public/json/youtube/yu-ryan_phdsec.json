@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ryan_phdsec",
+    "name": "PhD Security",
+    "profile": "https://yt3.googleusercontent.com/1TEM6wyKF82rwwcPYTQIHD_OeVxH02kYWBpzqc7J3OerSrQZmgMTrtYRVi35arnfh9a3GYDv=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5WO1jHENDpLetSABNMuLEe5gTzQtoBLIpT3_5utPwKGH90WU5JaFpQcbSsDCuZQL7izW4g5Rsqc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OLkh_TjFJIk", "title": "How to Create JARVIS V2 Smartest Youtube AI | Can Write its own Code" },
+    { "id": "oOAbbb1BrA4", "title": "Why Your Code & Payloads Don't Work" },
+    { "id": "T0arKU8Pab4", "title": "Create a Custom Hacking Directory Buster" },
+    { "id": "hdCzIihevkI", "title": "Hacking in 2024: Setting and Achieving Your Goals" },
+    { "id": "TTw-EY7F1rM", "title": "Bug Bounty Course 2024 Updated" },
+    { "id": "0mqhChvM0PE", "title": "Hacking Study Habits" },
+    { "id": "LQkkrAw4p-U", "title": "Open Redirect and How to Find It | Hacking Bug Bounty" },
+    { "id": "yJtLRiBUdVY", "title": "AI Can Do ALL Your homework & Create Study Guides for Your Tests" },
+    { "id": "0fC1JsN8AsM", "title": "Python for Hackers Course | Scripting Bug Bounty & Ethical Hacking" },
+    { "id": "XWuP5Yf5ILI", "title": "Python for Hackers FULL Course | Bug Bounty & Ethical Hacking" }
+  ]
+}

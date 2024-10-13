@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "ExcelCampus",
+    "name": "Excel Campus - Jon",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lPQgLoqYVaGROMgRs-xLHN5e7fuxlVDtigTeBK-A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JgXnxpduAQiFA1viWGOMLP4ByClKWayvxLrAFaynGmIkQEacr5Aryic6RYAEEZtZ_uy1XRlE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VWdFHm8fJ4M", "title": "Import Logo in Excel: Add Your Logo to Excel Workbook" },
+    { "id": "wRyGNAmbNSg", "title": "Intro to Macros and VBA Part 1 - How to Write Your First Macro" },
+    { "id": "F9WgF1K_K2g", "title": "Pivot Tables Explained in 3 Minutes" },
+    { "id": "pxBsFl3jr2U", "title": "Dynamic Search Box in Excel: How To Search in Excel" },
+    { "id": "mLzHd1XSTbk", "title": "Excel for Beginners Tutorial - Everything You Need to Know" },
+    { "id": "B7yv8fOzL68", "title": "Easy Data Cleaning with NEW Regex Functions in Excel" },
+    { "id": "oMNiuyawR2M", "title": "KPI Scorecard Chart in Excel - Fully Customizable" },
+    { "id": "9nCnwrEST-c", "title": "I've Stopped Recommending This Excel Feature" },
+    { "id": "qHeXLbM_cf0", "title": "17 Amazing Excel Features Hiding In Plain Sight" },
+    { "id": "FQLwFfqRghE", "title": "Text to Columns in Microsoft Excel" },
+    { "id": "uS3orUIk-RU", "title": "7 Essential Habits of VLOOKUP Pros" },
+    { "id": "aFGSMzL5DHo", "title": "Excel Flash Fill" },
+    { "id": "PxwTV2Aiar4", "title": "5 Excel Secrets You'll Be Embarrassed You Didn't Know" },
+    { "id": "jGE5Ea2FH-8", "title": "How do you apply cell borders in Excel" },
+    { "id": "J-lDQr3Ccr0", "title": "3 Must Know Excel Date Formulas - Excel Is My Love Language 💖" },
+    { "id": "hq4hJPRaIak", "title": "Unpivot Summary Reports with Power Query" },
+    { "id": "AFrzpEfdWlA", "title": "5 Problems with PIVOTBY vs Pivot Tables in Excel" }
+  ]
+}

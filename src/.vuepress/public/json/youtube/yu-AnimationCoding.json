@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "AnimationCoding",
+    "name": "Animation Coding",
+    "profile": "https://yt3.googleusercontent.com/M38VRJRXMhR4AYjyF3XWjMatYwnOLA6JGt3i4zbwVKyNNfroCUT7_KP9ytKUq3ILIemehYKw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GM9O-RX8k-Vfie-9YHA1fWHrQ7YcHn14_OywwqJN73MhcqK7BFpWHDkzGbYf1WqYecFRL8DSeEU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zEKMsvL2F08", "title": "Complete Personal Portfolio Website Design using html css & javascript | Personal Portfolio Website" },
+    { "id": "z4aTZlqOifQ", "title": "Profile Card UI Design Using HTML CSS & Javascript | Profile Card UI Design - Neumorphism CSS" },
+    { "id": "0JDcRv8zdEA", "title": "Product Card Design Using HTML CSS | Neumorphism CSS | Neumorphism Effect | Neumorphisc | e-commerc" },
+    { "id": "ahMsMGk71YQ", "title": "Responsive Login Form With Neumorphism Effect Using HTML CSS |Neumorphism Effect Login Form" }
+  ]
+}

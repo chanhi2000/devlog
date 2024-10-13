@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "Nemean",
+    "name": "Nemean",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaTuJm3ns5ogleo_cdkL9a0vw-mf-IqYBfGF0gb0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/a01TmWCME3Hex3Q_NxpwmroqrOc6OHHsfZxoInnTPHTRyoZg-X1-WOaIOqfx-eIrlDjJcVAMOw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KufsL2VgELo", "title": "Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups" }
+  ]
+}

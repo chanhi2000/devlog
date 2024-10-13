@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "codewithbubb",
+    "name": "Code With Bubb",
+    "profile": "https://yt3.googleusercontent.com/JpZrkBFx1ZCqxt3uUwg5M1Phf-1M9AoaBEZQIQj1M8jNhm8Uf5P-sPknFFzFjjJWQq3cdnM-=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4jVP0BefjQ5u9snPy4HjwRR9wzp9SBSvI2R5kCQqRntbvPC1ld2pqKmK1pLVZWtK1A1Sox28=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EwpT466EyP4", "title": "What is an ORM and what does it do?" },
+    { "id": "BCPTRCvASk0", "title": "Learn TypeORM in 10 Minutes" },
+    { "id": "LpDcOhhBX_A", "title": "Let's build an app with Angular, Express and TypeORM!" },
+    { "id": "v6I8MiFnvZg", "title": "Reactive Form Validation In Angular" },
+    { "id": "RysuMHXEpDk", "title": "This is a game changer for new developers using Windows #codenewbie" },
+    { "id": "bQNumLcku4U", "title": "12 Command Line Mistakes New Developers Make (and how to fix them)" },
+    { "id": "kL7LhSVT_YQ", "title": "Should you use RawJS in your next project?" },
+    { "id": "qOhLOxhYi7s", "title": "How To Create A New Angular Project" },
+    { "id": "hC6Ke5xQIC4", "title": "How to use Angular Templating" },
+    { "id": "lKWIh0GEdYI", "title": "How to use ngIf and ngFor in Angular" },
+    { "id": "976ki0SLEr8", "title": "2-Way Data Binding in Angular" },
+    { "id": "G98Qu5KGlGk", "title": "Quick example of using Angular Forms" },
+    { "id": "32sRHEUrfY4", "title": "How to use Pipes in Angular" },
+    { "id": "oUfyC1SSLnU", "title": "My complete beginner’s guide to using JavaScript with the DOM" },
+    { "id": "eJXSLCFLJJE", "title": "How to fix the JSON parse error" },
+    { "id": "1sOpZYJmsFU", "title": "How to create a JavaScript random number generator" },
+    { "id": "A8yfwdET-2E", "title": "Make a BETTER Random Quote app with JavaScript" }, 
+    { "id": "kJPkCGtv3vY", "title": "This is the PRO way to code a JavaScript Modal" }, 
+    { "id": "T66FCDdA1wo", "title": "Build a Microblog app [Learn React, Tailwind, Express, MongoDb, Joi Validation]" }, 
+    { "id": "0XbO9C3-vqM", "title": "How To Deploy A React App To GitHub Pages" }, 
+    { "id": "DAlvbZzrppQ", "title": "How To Build a Simple Appointment Booking App (Mongo, Express, Angular, Material)" },
+    { "id": "vfSHSH-uSy8", "title": "Say Goodbye to Hours of Searching for APIs" },
+    { "id": "JG7B4W9HeOw", "title": "How to make a JavaScript Snow animation in minutes" },
+    { "id": "gODCs4CiUto", "title": "This Is Why The Nullish Coalescing Operator Is Important" },
+    { "id": "oUfyC1SSLnU", "title": "My complete beginner’s guide to using JavaScript with the DOM" },
+    { "id": "eJXSLCFLJJE", "title": "How to fix the JSON parse error" },
+    { "id": "1sOpZYJmsFU", "title": "How to create a JavaScript random number generator" },
+    { "id": "A8yfwdET-2E", "title": "Make a BETTER Random Quote app with JavaScript" }, 
+    { "id": "kJPkCGtv3vY", "title": "This is the PRO way to code a JavaScript Modal" }, 
+    { "id": "T66FCDdA1wo", "title": "Build a Microblog app [Learn React, Tailwind, Express, MongoDb, Joi Validation]" }, 
+    { "id": "0XbO9C3-vqM", "title": "How To Deploy A React App To GitHub Pages" }, 
+    { "id": "DAlvbZzrppQ", "title": "How To Build a Simple Appointment Booking App (Mongo, Express, Angular, Material)" }
+  ]
+}

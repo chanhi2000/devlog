@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "RamonFerreira",
+    "name": "Ramon Ferreira",
+    "profile": "https://yt3.googleusercontent.com/Z2erg8j1NJ5fx6QHaVdWWDTUgEhp8KHiaD_99VIB_zuk-7-YhlfCtIKfxI9W3t6isZiEQkC1iw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/invdt6ddkXAVXL-ergKxnHMzHFoKJ7BpooRShzc28OQh8PAqGd1TI3GTtGkZRtK0IhXYz47BpA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-3Bpy-PxrUk", "title": "OpenCore - Quais os Prós e Contras?" },
+    { "id": "-8dS30x8xKw", "title": "Apple aceita PEÇAS USADAS para reparar iPhone" },
+    { "id": "Z-mcPvWTpcU", "title": "Recurso secreto no iPhone - Sons de Fundo" },
+    { "id": "JsNSmhX6tyk", "title": "Como previnir problemas no macOS com OpenCore Legacy Patcher" },
+    { "id": "YBSRf17cf2M", "title": "iOS 17.5 RC - Quais as novidades?" },
+    { "id": "68eRRehfi7g", "title": "5 Erros cometidos por quem usa OpenCore Legacy Patcher" },
+    { "id": "AYYnovOs-fc", "title": "iOS 17.5.1 corrigindo GRAVE BUG!" },
+    { "id": "u_7cQ8hHitM", "title": "Como atualizar o macOS que usa OpenCore Legacy Patcher" },
+    { "id": "Gmc_oYVXAjc", "title": "OpenCore Legacy Patcher 1.5.0 - COM NOVIDADE!" },
+    { "id": "WTab_PLjvWU", "title": "Linha na tela do Notebook, MacBook como consertar ou remover" },
+    { "id": "GslLKtqjiN0", "title": "O Beta do iOS 17.4 está TRAVANDO O IPHONE!" },
+    { "id": "ToLh7hW8Gbw", "title": "macOS também vai ser renovado!" },
+    { "id": "RV9S0_AQUJI", "title": "A MELHOR pasta térmica para MacBook!" },
+    { "id": "aQETN8KaRIM", "title": "iOS 17.4 Saiu! 🚨 ATUALIZOU A SAÚDE DA BATERIA!" },
+    { "id": "hL9coN4CRts", "title": "🚨Saiu OpenCore 1.4.0 Legacy Patcher - macOS Sonoma 14.4" },
+    { "id": "diF95YU4WeI", "title": "🚨OCLP 1.4.2 com mais correções para Monterey, Ventura e Sonoma!" },
+    { "id": "cJMgJ9m15aM", "title": "OpenCore | Ocorreu um erro ao preparar a instalação - Como resolver" },
+    { "id": "u4gQGHAyg7g", "title": "Como resolver o bug de internet do iPhone" },
+    { "id": "Qr6ndSSf6FE", "title": "Como deixar o Mac mais rápido" },
+    { "id": "lLdRxoef94w", "title": "Como transferir fotos e videos do iPhone para PC Windows" },
+    { "id": "NVA_k4Fi_9g", "title": "🚨OpenCore 1.4.3 - Importante para Macs sem API METAL!" },
+    { "id": "p5Z6WFm7b_k", "title": "Como Fazer o Backup COMPLETO do iPhone e WhatsApp" },
+    { "id": "ICi8xcEYgpY", "title": "Rastreador veicular pelo iPhone - SEM MENSALIDADE - Smart Car Locator" },
+    { "id": "PT-cNWY66Us", "title": "OpenCore DANIFICA A PLACA do Mac?" },
+    { "id": "iLmH7jtxdn8", "title": "🔴 OpenCore faz o Mac esquentar?!?!?!" },
+    { "id": "apKtWIvo1sU", "title": "Nova ameaça de SEGURANÇA no iPhone! Trojan GoldPickaxe" },
+    { "id": "GslLKtqjiN0", "title": "O Beta do iOS 17.4 está TRAVANDO O IPHONE!" },
+    { "id": "HXhoxHBFgeU", "title": "iOS 18 - Quais novidades esperar na atualização do iPhone?" },
+    { "id": "3h6fB94o5Xc", "title": "Como instalar MacOS Big Sur em macs não suportados - iMac 2009" }
+  ]
+}

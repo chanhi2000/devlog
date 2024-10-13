@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "cloudminion8815",
+    "name": "cloudminion",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKY-a2eI0IpTsC4U0fB09Qhccg8pWp6oQGFpLkxE=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "qFhzu7LolUU", "title": "How to setup your web application in local `minikube` Kubernetes cluster" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "Domotro",
+    "name": "Domotro from Combo Class",
+    "profile": "https://yt3.googleusercontent.com/Fsz1xqBrtwp-LzmbmtqJ26XnCJ877CqxABdm8hb-gBDQ1sR5z9E0My0_FDE22IhCtqew_4L7kOg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mY5itBIVLfhLM2f0wmSoroaPHoYy1wSVaqEBT6S7bKeinRA9w7pqCj61zr0JQfeBgYXPP6KUiw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ttRVEnM3GDM", "title": "Return of the Crazy Homemade Graph Shapes (Livestream)" },
+    { "id": "xbwCuOTfclg", "title": "Testing Cool Graphs on 3D Desmos For the First Time (Livestream)" },
+    { "id": "VsTIcRSW8A4", "title": "Debunking Incorrect \"Proofs\" Published by a Math Professor (Livestream)" }
+  ]
+}

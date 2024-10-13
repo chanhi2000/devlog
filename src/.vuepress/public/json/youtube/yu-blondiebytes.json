@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "blondiebytes",
+    "name": "blondiebytes",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZR7zfacYhQIr6cdY3uHtKB0sje3gYZqNJHVVf37o9g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6564vfQ9STDPn07LQB105gN5B1045jyRtYGNFa7mjv6Lld4-z2KgeW-A5SS-6NBVAYiKuVUxhXc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ijaye9b16g4", "title": "How to Build an Automated Commit Message Maker with Generative AI" },
+    { "id": "NDOh2qEmSe8", "title": "How to Build a Basic App with TypeScript / Node.js + Deploy it to the Cloud (AWS Lambda) in 15 min" }
+  ]
+}

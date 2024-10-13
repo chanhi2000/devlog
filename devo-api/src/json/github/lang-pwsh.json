@@ -1,0 +1,115 @@
+[
+  {
+    "repo": "MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure", 
+    "officialSite": "https://docs.microsoft.com/azure",
+    "topics": [],
+    "avatar": "",
+    "banner": ""  
+  }, {
+    "repo": "Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates", 
+    "officialSite": "https://aka.ms/azqst" ,
+    "topics": [],
+    "avatar": "",
+    "banner": ""  
+  }, {
+    "repo": "H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "officialSite": "" ,
+    "topics": [],
+    "avatar": "",
+    "banner": ""  
+  }, {
+    "repo": "DarkCoderSc/PowerRemoteDesktop",
+    "desc": "Remote Desktop entirely coded in PowerShell.",
+    "officialSite": "" ,
+    "topics": [],
+    "avatar": "",
+    "banner": ""  
+  }, {
+    "repo": "ChrisTitusTech/winutil",
+    "desc": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates", 
+    "officialSite": "" ,
+    "topics": [],
+    "avatar": "",
+    "banner": ""  
+  }, {
+    "repo": "microsoftgraph/microsoft-graph-docs",
+    "desc": "Documentation for the Microsoft Graph REST API",
+    "officialSite": "os",
+    "topics": ["microsoft-graph-documentation", "devxdocs"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fleschutz/PowerShell",
+    "desc": "Mega collection of 500+ useful cross-platform PowerShell scripts.",
+    "officialSite": "",
+    "topics": ["automation", "remote-control", "collection", "cross-platform", "command-line", "powershell", "scripts", "tasks", "ps1", "powershell-scripts"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Orange-Cyberdefense/GOAD",
+    "desc": "game of active directory",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dotnet/core",
+    "desc": ".NET news, announcements, release notes, and more!",
+    "officialSite": "https://dot.net",
+    "topics": ["dotnet", "dotnet-core"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cloudevents/sdk-powershell",
+    "desc": "PowerShell 7.0 SDK for CloudEvents",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/sudo",
+    "desc": "It's sudo, for Windows",
+    "officialSite": "",
+    "topics": ["sudo", "windows", "windows-11"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ScoopInstaller/Main",
+    "desc": "📦 The default bucket for Scoop.",
+    "officialSite": "https://scoop.sh",
+    "topics": ["scoop", "scoop-apps", "scoop-bucket"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ntdevlabs/tiny11builder",
+    "desc": "Scripts to build a trimmed-down Windows 11 image.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Raphire/Win11Debloat",
+    "desc": "A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",
+    "officialSite": "",
+    "topics": ["appxpackages", "bloatware", "bloatware-removal", "cleanup", "debloat", "debloater", "declutter", "interactive", "optimize", "powershell", "powershell-script", "ps1", "registry-tweaks", "tweaks", "windows", "windows-10", "windows-11", "windows-11-debloat", "windows10", "windows11"],
+    "avatar": "https://avatars.githubusercontent.com/u/9938813?v=4",
+    "banner": ""
+  }, {
+    "repo": "microsoft/winget-pkgs",
+    "desc": "The Microsoft community Windows Package Manager manifest repository",
+    "officialSite": "",
+    "topics": ["hacktoberfest"],
+    "avatar": "",
+    "banner": ""
+  }
+]

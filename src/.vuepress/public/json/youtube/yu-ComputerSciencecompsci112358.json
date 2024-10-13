@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "ComputerSciencecompsci112358",
+    "name": "Computer Science",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbNj9dIc8-YtDVhXUbGn4RNskGkQ7zLHCsMlBxk=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oGVptrgr5-ZgQVoD4Na4QmJTWee2lWjSSF_gt6ncarsLGguJoY2305Za5PDEqFyVRmI5za93=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QIUxPv5PJOY", "title": "Stock Price Prediction Using Python & Machine Learning" },
+    { "id": "eNDADqa9858", "title": "Build A Stock Market Web Application  Using Python" },
+    { "id": "O-O1WclwXck", "title": "Python For Finance" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "core_dump",
+    "name": "Core Dump",
+    "profile": "https://yt3.googleusercontent.com/9vYfaASrcsOrLx_hBGIwUHMnsMukOEpazH4UFMWEonKj5KuYWK25KkOVvE6yPLYOwk0FroRy=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mor2WDG3NIriXL0kSIRDLd3EclqgjPz8sxm0XpmHJdXQQnhjOs0MIHEADOuzMX4brQmlDujvxQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "viJ92zBa5yc", "title": "Why discord switched from Go to Rust?" }
+  ]
+}

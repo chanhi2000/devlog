@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "ProgramWithGio",
+    "name": "Program With Gio",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRxrtmxz-jWa0PSMGMieumJZP0NxbM32YYsp0Jq=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ho4ZCEOb1PsK-WxkJgkl9Y3PmOfIDZ3qwvVfmWxiox14-DixN64RWFqBhKf3iH0L5rCxNo9EOMM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fKjcsG9GNuI", "title": "You're Not Just a Coder: Tips to Progress in Your Developer Career" },
+    { "id": "D1Ab-iP8Ra0", "title": "Set Up Email Verification For New Users - Build Expense Tracker App With PHP 8" }
+  ]
+}

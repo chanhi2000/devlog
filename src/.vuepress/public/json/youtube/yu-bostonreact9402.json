@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "bostonreact9402",
+    "name": "Boston React",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaT9TKCcmWm-0TJqjggr9JYrX5bXvM2Y17xuwQQg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "lgurVvQsOTY", "title": "Painless Testing for React Applications with Cypress" }
+  ]
+}

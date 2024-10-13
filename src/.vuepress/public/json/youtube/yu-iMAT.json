@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "iMAT",
+    "name": "iMAT",
+    "profile": "https://yt3.googleusercontent.com/aDrwq1nrFFjIau6GNzk0GTRmSpxRfWamEYdVohzNYptUWLxn45sxADTUhhQ0BlxJl_6uZsvOew=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Xg8OXcb3IfDtJC5vur_KJuVNTbljOmTwpNeqY4WsoaYPyCJkLmF21lgYprWVFDDDwZqJCyXqpQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Gamqq62BMKY", "title": "JS Hello Watch 3+ vs Hello Watch 3+ | Quick Comparison | Which one has a better Ui? 🔥" },
+    { "id": "nHXKXpZP-mI", "title": "JS Hello Watch 3+ Quick Review - AMOLED, New Ui, ChatGPT & More!" },
+    { "id": "zBs8PDSoNDU", "title": "Checkn1x - Jailbreak iOS 12/13/14 using Windows PC/Laptop!" }
+  ]
+}

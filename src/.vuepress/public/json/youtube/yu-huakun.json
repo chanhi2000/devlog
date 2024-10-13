@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "huakun",
+    "name": "Huakun",
+    "profile": "https://yt3.googleusercontent.com/CD-IcYnyj_1v0yee4KGaAIj9pTcWMZYubOCH0OX_3ecg13iDiD8o5Eg9Zgs2WSxFBX_SorcllA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wxVpncsqjEE", "title": "Tauri Tutorial 6: Tauri Plugin (how to and best practices)" },
+    { "id": "BVCdaVzWM1w", "title": "Tauri Tutorial 2: Project Setup" }, 
+    { "id": "zsaWFf2LEv4", "title": "Tauri Tutorial 3: Window and Title Bar Customization" }, 
+    { "id": "W8eIApyZe28", "title": "Tauri Tutorial 4: Commands" },
+    { "id": "pwAl1E7knXA", "title": "Tauri Tutorial: 1. Introduction and Comparison with Electron" },
+    { "id": "zJPlyjfV4C0", "title": "Deploy Web App with Docker, Nginx and SSL (HTTPS)" }
+  ]
+}

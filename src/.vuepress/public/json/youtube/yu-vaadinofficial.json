@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "vaadinofficial",
+    "name": "vaadinofficial",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqP0WYdvk4jlpyGTe2SP_-SdFToOJ-6_TuXkQzaidg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cUc68B9FqXJnFL9T-o74Xuexs5AvGs1PiJxVn9cVyoRFNsAmAzl79aPI5pAcBaXjvobnmn6hew=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6eWqWG8u4ls", "title": "How to turn a Figma design into a web app using Vaadin Flow" },
+    { "id": "2zIlw_ni5sw", "title": "Manage spreadsheets in your web app with 2 Vaadin web components #shorts #coding #programming" },
+    { "id": "cfm5wtgpf0k", "title": "Build an AI-powered web app in 16 lines of Java! 🤯" },
+    { "id": "_k7AmdJSVFg", "title": "Announcing Vaadin Copilot" },
+    { "id": "ZrXphwkhSRA", "title": "Hilla: The Full-stack Web App Solution for Java Developers" },
+    { "id": "WhUqfLA2Htw", "title": "What if Java developers could build web apps without touching JavaScript? 🤔" },
+    { "id": "fUxSZavRCjs", "title": "Thinking in React Signals" },
+    { "id": "PwR-oxV8l4U", "title": "Extend your pure Java experience to the persistence layer with EclipseStore" },
+    { "id": "sH4QEr1jnuk", "title": "Testing your Hilla app with Vitest" },
+    { "id": "DHcLj9KHi0c", "title": "An easier way to build CRUD views in Hilla" },
+    { "id": "Ukuy_Qpq4LA", "title": "React basics explained for Java developers" },
+    { "id": "YKUMUETqVcQ", "title": "1-line React data grid with paging, sorting, filtering - Hilla AutoGrid" }, 
+    { "id": "yPv7U3Pg8jE", "title": "Live coding a full-stack Spring Boot and React project from scratch 🤓" },
+    { "id": "z24gpqmOZ-w", "title": "Vaadin Grid renderers: customize cells and show a details row (Fusion)" }, 
+    { "id": "G_aJONwi0qo", "title": "VS Code setup for TypeScript and Java: plugins and settings" }, 
+    { "id": "36yUqc0tMrU", "title": "Introduction to Unit Testing with JUnit" }, 
+    { "id": "1YvdDrmAnzY", "title": "How to switch between light and dark theme in Vaadin apps" }, 
+    { "id": "B27q1L_NWLA", "title": "Webinar: Kotlin and Web App development" }
+  ],
+  "playlists": [
+    {
+      "title": "Vaadin Create 2023",
+      "videos": [
+        { "id": "NjpkdUNwLuQ", "title": "Welcome to Vaadin Create 2023: keynote and product vision" },
+        { "id": "gJq3j3LwkJ4", "title": "Latest product news from Vaadin" },
+        { "id": "FmqwOnJguNY", "title": "Nailing the designer to developer handoff" },
+        { "id": "J3wbPLrxpvE", "title": "AI powered business applications" },
+        { "id": "KXl7_K7qGIY", "title": "The when and how of application modernization" },
+        { "id": "nKHiplfVx8s", "title": "Optimizing Performance of Vaadin Apps: Removing Bottlenecks for a Seamless User Experience" },
+        { "id": "miMhNzusbOo", "title": "How to Theme and Style your Vaadin Application" },
+        { "id": "JrjHHR0-bOc", "title": "Testing Vaadin Applications Made Easy" },
+        { "id": "LnfzMKLzCSg", "title": "Speeding up React + Java Development with Hilla" },
+        { "id": "1dEXBMveRLk", "title": "Multi-Player Business Apps: How and Why to Create a Collaborative UI" },
+        { "id": "J-3n7xs98Kc", "title": "How to Build an AI Expertise System with Spring Boot and langchain4j" }
+      ]
+    }    
+  ]
+}

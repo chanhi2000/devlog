@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "AppleProgramming",
+    "name": "AppleProgramming",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPq36HVsej0bthoOVXRUg-9tveEfcFMtj5sg8cr=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "videos": [
+    { "id": "3iuHMd0-8BI", "title": "Cocoa Programming L90 - Custom Search Suggestions Window" }, 
+    { "id": "gbpCPphf4xw", "title": "Apple Debugging L9 - Instruments Time Profiler" }
+  ]
+}

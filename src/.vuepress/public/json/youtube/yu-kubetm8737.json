@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "kubetm8737",
+    "name": "kubetm",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRVZ-gAGWhsKUurT20KzffU5nC8m0ZxVuolexxd=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hhpFMLONc-M", "title": "쿠버네티스 1.22 버전 설치 영상 - Vagrant, Virtualbox" },
+    { "id": "qo70fI75tPY", "title": "[쿠버네티스멍] 멍 때리는데 공부되는 놀라운 방법 (object 그려보며 이해하기 - 제작 50배속)" },
+    { "id": "8_YnupZqEIE", "title": "[인프런] 쿠버네티스 초급편 강의 - 소개" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "KxCoding",
+    "name": "KxCoding",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPbSno_pXrbQHpFcDkpyNvkxg35p293m6jtcnmP=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G4FcQmqd_tgEh987fJ1HOu8YhiQ4w6SZfFoT8h7gXFAIMroPz-e8N3jqmySgz3v4jiOhXZdxrw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m2tCksRNcmA", "title": "Swift 모델링 기초 - Swift 숫자 포멧팅 [3/5] (Xcode 15 버전 최신 강의)" },
+    { "id": "t3_eHKPlR7s", "title": "Swift 모델링 기초와 다양한 속성 문법들 [1/5] (Xcode 15 버전 최신 강의)" },
+    { "id": "xqjG8QLpMTM", "title": "Swift 모델링 기초 - 문자열을 원하는 형태로 포멧팅하기 [2/5] (Xcode 15버전 최신 강의)" },
+    { "id": "wdDdmz-LLKI", "title": "[Swift] 누구나 쉽게 따라할 수 있는 iOS 시계 앱 클론 코딩 (Xcode 15 버전)" },
+    { "id": "tUWXJ9gcLyE", "title": "Swift 모델링 기초 - 더 나은 모델로 개선하기  [5/5] (Xcode 15 버전 최신 강의)" },
+    { "id": "cDRH2aFH79A", "title": "Swift 모델링 기초 - Formatter와 열거형 활용 [4/5] (Xcode 15 버전 최신 강의)" },
+    { "id": "O7fZ2ZvEKoA", "title": "누구나 따라할 수 있는 SwiftUI로 메모 앱 만들기 (Xcode 13 버전)" }, 
+    { "id": "5JOBdLE51Ak", "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #4 (Xcode 13)" }, 
+    { "id": "UEhgN3QC0Fw", "title": "RxSwift 6, MVVM으로 메모 앱 만들기 #5 (Xcode 13)" }
+  ]
+}
+

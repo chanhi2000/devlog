@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "teksyndicate",
+    "name": "Tek Syndicate",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kKZokPcI3Ssk5mTTTmwV-rnrKYuoGPliO1L-xRwgfH2wM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rlM13d_giNpSEj9ta9PlfenxyNiiCnB9ZDvsjHRxM4DAMWjo5mgscB9mbc0ozgrCko9P40a3_3E=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "iucq4Ec8ifM", "title": "I Can't Use Windows Without ExplorerPatcher (Windows 10 & 11 Tutorial)" },
+    { "id": "KtYFxIgUegs", "title": "What to Do First on Windows 10 & 11 | Debloat, Offline Account, Programs, & Linux Subsystems" },
+    { "id": "V--Jp-Q_S6U", "title": "Trigkey S7: The Fastest Ryzen 7 7840HS Mini PC? Is this the One?" },
+    { "id": "VOtOEEGxbu4", "title": "How To Use an OFFLINE Account With Windows 11: WORKS on 24H2" },
+    { "id": "BAX07QDbgeI", "title": "Intel i9 13900H, 32GB, & 2 2.5 GbE Nics - Chatreey IT12 Mini PC" },
+    { "id": "c6YDQobJbLc", "title": "Why I Can't Use Linux - My Top 3 Reasons" },
+    { "id": "QBWrDnRqP7E", "title": "Move from Shared Hosting to VPS EASILY | Hostinger Cyberpanel & Cloudpanel Tutorial" },
+    { "id": "bt-IUQL4YCE", "title": "The Fastest Mini PC Yet? Reatan Alloy 9 Gaming PC - Ryzen 9 7940HS, 32GB 2.5 Gbe, LOADED!" },
+    { "id": "oTmKOMicopA", "title": "RetroBar: Retro Taskbar Replacement Tutorial (Windows 7-11)" },
+    { "id": "Zcr95HBFgWg", "title": "Disable Windows 11 Telemetry, Internet Search, Data Collection, Cortana, etc." }
+  ],
+  "playlists": [
+
+  ]
+}

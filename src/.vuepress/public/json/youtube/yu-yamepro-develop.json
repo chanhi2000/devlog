@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "yamepro-develop",
+    "name": "야매플머 작업실",
+    "profile": "https://yt3.googleusercontent.com/bMomQZO87T-nDw2F9T990vjkDcxxu0WdjFcbbkVMMxSk-Owa8WO4xiPf81u-PgOYTTEAkALVwg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SBC3vZZZjtrbCceg4IMEv_GBAgw0NlS1VRb8N_s50g27IdG51z1sIMQ3m4h1SIarWmHDO2xe=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FUF-LMwZO68", "title": "Forge버전 AnimateDiff 작동 안하네요.." },
+    { "id": "cEJcD0zbXeU", "title": "스테이블 디퓨전 image-to-image 어떻게 쓸까?" },
+    { "id": "-_vvGtWaBE8", "title": "스테이블 디퓨전 모델파일 심볼릭 링크로 사용 하기" },
+    { "id": "DXzyps1C6p4", "title": "ComfyUI 워크플로우 작성 어렵지 않아요! SDXL 워크플로우 만들어 보기" },
+    { "id": "0xhvyTwdoFs", "title": "더 빠른 이미지 생성! 스테이블 디퓨전 포지!" },
+    { "id": "P84x8__7Bsw", "title": "도커 컴포즈 YAML 파일 기본 포맷 [docker compose yaml]" },
+    { "id": "xWvi2-cAM3M", "title": "VSCode로 간단하게 ASP.NET 프로젝트 설정하기 (with docker compose)" },
+    { "id": "FeLXWnt_qRI", "title": "간단한 ProxyServer 설명과 docker 컨테이너 만들어 보기" },
+    { "id": "qjF3uJa4LL4", "title": "OpenAI, 동영상 생성모델 Sora 공개! 텍스트와 이미지를 넘어 이제 동영상이다!" },
+    { "id": "gqugm0U5Ss4", "title": "Dockerfile - 4 Mulit-Stage Dockerfile" },
+    { "id": "uFlYdvKfnZQ", "title": "이미지를 더 이쁘게 만들어 주는 확장 AfterDetailer [StableDiffusionWebUI]" },
+    { "id": "xZmeBxZGUTk", "title": "Docker Compose 학습 전 개요" },
+    { "id": "ztf5DsPBM5I", "title": "이미지 비율 도우미와 인터페이스 테마 확장 [스테이블 디퓨전 웹 유아이]" },
+    { "id": "7kOy9XV0sD0", "title": "Dockerfile - 3 VOLUME, USER, EXPOSE 명령어" },
+    { "id": "fr-HgLoyTus", "title": "스테이블 디퓨전 ComfyUI 설치 방법" },
+    { "id": "DnsuKizzy8Q", "title": "Dockerfile - 2, CMD와 ENTRYPOINT 명령" },
+    { "id": "tj8gHNVQiKc", "title": "stable-duffison-webui prompt 자동완성 플러그인! tag autocomplete" }
+  ],
+  "playlists": [
+    
+  ]
+}

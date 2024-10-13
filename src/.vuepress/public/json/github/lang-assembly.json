@@ -1,0 +1,108 @@
+[
+  {
+    "repo": "vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "officialSite": "https://vx-underground.org",
+    "topics": ["malware", "malware-detection", "malware-development", "malware-research"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skiselev/8088_bios",
+    "desc": "BIOS for Intel 8088 based computers",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sudleyplace/386MAX",
+    "desc": "386MAX Memory Manager for DOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "IanSeyler/wozmon_x86-64",
+    "desc": "A rewrite of Wozmon in x86-64 for the BareMetal kernel.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bluewaysw/pcgeos",
+    "desc": "#FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wkjagt/apple2_pendulum_clock",
+    "desc": "Apple 2 full screen clock driven by the pendulum of my wall clock",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "toruzz/WebsiteHowtoCode",
+    "desc": "How to colorize Game Boy games - Example code",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  },{
+    "repo": "nanochess/bootLogo",
+    "desc": "Logo language in 508 bytes (x86 boot sector)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "meribold/btry",
+    "desc": "Monoplatform battery info program written in unportable x86 assembly",
+    "officialSite": "",
+    "topics": ["assembly", "bloatfree", "bloatless", "linux", "x86", "x86-64"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "eshazen/retro-25",
+    "desc": "Retro-tech HP-25 calculator clone using Z80",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/MS-DOS",
+    "desc": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+    "officialSite": "https://en.wikipedia.org/wiki/MS-DOS",
+    "topics": ["ms-dos"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ilmenit/sizecoding",
+    "desc": "repo of my sizecoding entries",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "neuviemeporte/f15se2-re",
+    "desc": "Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "BLAKE3-team/BLAKE3",
+    "desc": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "virtualagc/virtualagc",
+    "desc": "Virtual Apollo Guidance Computer (AGC) software",
+    "officialSite": "http://www.ibiblio.org/apollo",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/21241440?v=4",
+    "banner": ""
+  }
+]

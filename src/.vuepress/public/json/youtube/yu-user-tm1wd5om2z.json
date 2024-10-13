@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "user-tm1wd5om2z",
+    "name": "딥씨코더",
+    "profile": "https://yt3.googleusercontent.com/ngGGjDPLkT5OflYzv6yUHLCQ_cRLV84Fmb4uX--nDY0pc9sfdDjJWR623Zz88PhfnG_C_uMKcw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/e-hoT6gaHFuhvfTe1Lqs7GPs3322eH5zKk0R24firM4uvAL2pRVcABjBpL4puj3ybyZlZS4u=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V4pmnlQ0Vok", "title": "🚀 개발자 2년 만에 연봉 3배될 수 있었던 이유?💰" },
+    { "id": "C4b-2dlWkPw", "title": "🌐🚀 프론트엔드 개발의 시작! 필수 지식 Part 2." },
+    { "id": "Nd7c7iAomkU", "title": "🔥 프론트엔드 개발의 종말? Vercel V0. 🧨" },
+    { "id": "vGn3CaKtvGA", "title": "👨‍💻 프론트엔드 개발자 : 이력서 작성의 모든 것! 💼✨" },
+    { "id": "qeO4g0w__Zk", "title": "🔥프론트엔드 필수 지식! SSR vs CSR 렌더링 🔍" },
+    { "id": "QjbY8RU0lHc", "title": "내가 원하는 회사에 PM으로 취직하는 법! 채용 담당자를 반하게 한 PM 포트폴리오?!" },
+    { "id": "51swaRFw7U8", "title": "2024 프론트엔드 개발의 미래 🌞: 최신 트렌드와 전망!" },
+    { "id": "rV2D554zLyc", "title": "🚀프론트엔드 리액트(React) 18 최신 업데이트: 완벽 가이드! 🔥" },
+    { "id": "EoJBSxfFY1w", "title": "🚀 신입 개발자 필독! 첫 직장 선택의 모든 것 🌟" },
+    { "id": "4SGOku3B7nE", "title": "🔥 프론트엔드 개발자가 되기 위한 필수 가이드: 협업 규칙 완전 정복!" },
+    { "id": "zEQPoVy_5XY", "title": "👀 코딩 테스트 공부, 이렇게만 하면 달라집니다! 🌟" },
+    { "id": "a05cv7dz8pI", "title": "🚀프론트엔드 리액트(React) 18 최신 업데이트: 완벽 가이드! 🔥" },
+    { "id": "snly37m8m9A", "title": "🌐🚀 프론트엔드 개발의 시작! 필수 지식 Part 1." }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "toshvelaga",
+    "name": "Tosh Velaga",
+    "profile": "https://yt3.googleusercontent.com/TlgMSpf0tKBHSmyYExiiaRwihz-3_hqs_39Qlba9aTxgpeTL7jt8mCuQ8_sZdFJJOUqmBehFYA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nu1ABLXrLiwTKRad1-3gjWx8dLHEaTsL7eGoiNzQr5I16QYcCYAGor1y9aXzEdSlv80I7z-20g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t7Fol7fI-ig", "title": "DBRX is the best open source model" },
+    { "id": "cb8G_2mMCqQ", "title": "The problem with the GPT Store..." },
+    { "id": "yC6kTYcjZdk", "title": "Run Stable Diffusion as an API on AWS SageMaker" },
+    { "id": "_IQj5Pofrt8", "title": "Running Automatic1111 Stable Diffusion Web UI on a GPU for Free" },
+    { "id": "A-Ter5artwA", "title": "Getting Access to Claude on AWS Bedrock" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "juglodz",
+    "name": "Jug Łódź",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPEtfrcXm8wKVkBxorFd4PjwWG3TlLWA8eMfbrEIg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XnuonBQrtlF1UF4S0QG3rWM2n2Chy-krtsniy9pwemUU2NcTTziZqKidIrwuqRD6wivoco7Gdg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OvqPGaj3C58", "title": "The Kodein KOtlin DEpendency INjection library - Salomon Brys" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "aarthificial",
+    "name": "aarthificial",
+    "profile": "https://yt3.googleusercontent.com/H5mTcUdHa5-cjJlQmcpxTGd4tCk5l6vmg2BKg8N9bl8I65nSKCm1oe4QvgeyiKnF59oWTJcp0w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yB0nT-uve0J-asDbwbDy1liUYhIk89rfLqmWg_WfyztPe8_Vu_5MLrdVOUnmTZvofVFK-5od=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4kjEwvrDKlg", "title": "One Year of Motion Canvas" },
+    { "id": "s1ZQnS_tOg0", "title": "Could This Asset Be Code?" },
+    { "id": "H5GETOP7ivs", "title": "Motion Canvas is now Open Source!" }
+  ]
+}

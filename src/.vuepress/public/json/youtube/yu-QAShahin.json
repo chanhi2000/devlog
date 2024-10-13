@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "QAShahin",
+    "name": "QAShahin",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqO1kqFvpxW7TeXUR5AkK3b7_saL-Vo0FGIGHxOBJg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TKQgLHaHQIMWC-jcr2iMqceyLV-TmlBSc84tNJXyklNYKptGCN_tldAU59lMmNHgQNCl198BjQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G-zL_FYnWqU", "title": "REST Assured Beginner Tutorial (POST) [Setup 2020] | QAShahin" }, 
+    { "id": "fX95plnpjGU", "title": "Jenkins Tutorial Cron Schedule Setup (Part 04) | QAShahin" }, 
+    { "id": "EYFwSzsm13U", "title": "Jenkins Tutorial Beginners Cucumber Selenium JUnit Test (Part 03) | QAShahin" }, 
+    { "id": "CRvwKHUVJTQ", "title": "Jenkins Tutorial Beginners Selenium JUnit Test (Part 02) | QAShahin" }, 
+    { "id": "7Il_8_YPWtk", "title": "Jenkins Tutorial Installation Beginner with Maven JUnit Test (Part 01) | QAShahin" }, 
+    { "id": "YlS9saA3A5U", "title": "WebDriverJS Installation and Setup (Part 01) | QAShahin" } 
+  ]
+}
+
+

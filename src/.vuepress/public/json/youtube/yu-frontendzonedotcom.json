@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "frontendzonedotcom",
+    "name": "frontendzone",
+    "profile": "https://yt3.googleusercontent.com/Vl0YCegN8oFU6UyMpkGOCT_0F463psHrJoRnAhL5BfFxWmhCCXDc64v1TOD_-GeMVgHx3MxU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vAYOlcERJs5CaRCoKUYKmCRpvBR0975CWhBS_FXsLA6C_QbS2mIXX6O0-dtdUHTGMYsH-6xrTXw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fmhYYNdqldU", "title": "How to pass props from  child to parent react.js ✅" },
+    { "id": "vLGl-ZEuVAQ", "title": "moving border animation css.  #coding #shorts #css" },
+    { "id": "xuFBmJGDDS0", "title": "How to use next.js rewrite" },
+    { "id": "jKw57mGxbXE", "title": "How to Play Audio using Javascript  ✅" },
+    { "id": "cEuE7AyUngo", "title": ":not() selector in css with multiple selectors" },
+    { "id": "7gNKrcsv_F8", "title": "Background Video in Text with CSS" },
+    { "id": "oEtg-yRTWvo", "title": "how to crop images in css" },
+    { "id": "x-I8Lc5xkQI", "title": "VIDEO Tag in HTML" },
+    { "id": "bLffq-YbBGU", "title": "star rating system in html css & javascript | Part - 1" },
+    { "id": "SSk4HPJ_Hro", "title": "star rating system in html css & javascript  | Part - 2" },
+    { "id": "l3URrQs_b7c", "title": "Remove caret icon from input type number" },
+    { "id": "JpiqsPoK7ac", "title": "Coffee Website with HTML CSS and Javascript in Hindi ✅" },
+    { "id": "bydbH_Hansk", "title": "Complete Coffee website deisgn HTML CSS and Javascript ✅" },
+    { "id": "6HpHD1QyMlY", "title": "Important methods for DOM Manipulation ✅ 🔥" },
+    { "id": "PPfsOzK9eSY", "title": "Object & its use in real projects ✅" },
+    { "id": "SaPzw0R4qTc", "title": "Coffee website HTML CSS JS -  Responsive part" },
+    { "id": "7xVgaBWqgWQ", "title": "How to add popup in HTML & CSS | Coffee website Popup" },
+    { "id": "IHy-v080Zr8", "title": "Frontend developer Assignment Selected || GOT The Offer" },
+    { "id": "UvYFzD-0LrM", "title": "Task Manager Project  for Beginners in JAVASCRIPT ✅" },
+    { "id": "-80yeaXFzvo", "title": "CSS Complete Course for Beginner  -  PART 1" },
+    { "id": "faEmn51bev0", "title": "How to create sticky newsletter for website in HTML & CSS" },
+    { "id": "E7XWX2VItyw", "title": "Google Adsense ads in react and next.js website" },
+    { "id": "zNUJQv5kZVw", "title": "How to create check icon with css only" },
+    { "id": "r-OQDfz7N70", "title": "`querySelector()` vs `querySelectorAll() `in javascript" }
+  ],
+  "playlists": [
+
+  ]
+}

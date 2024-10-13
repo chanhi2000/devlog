@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "xpressengine7822",
+    "name": "XpressEngine",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZSc-SyfG2XhRWQft25E6uME-kWCA3afrliBAvM7=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mECbDs9nPnM", "title": "XECon2015 :: [1-5] 김훈민 - 서버 운영자가 꼭 알아야 할 Docker" }
+  ]
+}

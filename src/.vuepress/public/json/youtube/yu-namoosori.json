@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "namoosori",
+    "name": "나무소리",
+    "profile": "https://yt3.googleusercontent.com/FFOCXiWW-gEogqVHtd1Fuyl2uXgEzFnbjnnmjZxEoDmHT_NwMlFX7JKjzH_Arj5tsvVxHHFEDQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qdrIvI8CuSujK8ULyOZqoOj78P7EC5oJXl_Py9HOPtfbtKLmk5mdIhBoyOPQ5Lu_RUyDrGBWt6c=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GbbiFCr6sPQ", "title": "스프링 부트 강의 - 2-6강 RESTful Web Services 구현(4)" }, 
+    { "id": "ohOnio3T5uo", "title": "리액트 + 몹엑스 기초 강의 - 6-8강 Todo-List 예제 실습(4)" }, 
+    { "id": "WjgJX81rmSA", "title": "리액트 + 몹엑스 기초 강의 - 6-5강 Todo-List 예제 실습(1)" }, 
+    { "id": "myS_Pt4uRVs", "title": "1-1강 영속성의 이해" }, 
+    { "id": "koZtvSPdRXI", "title": "1-2강 객체의 세상과 테이블의 세상" }, 
+    { "id": "QBISxH_KHog", "title": "JPA 2-2강 영속성 컨텍스트의 이해(1)" }, 
+    { "id": "vMdpdui4VkA", "title": "JPA 2-3강 영속성 컨텍스트의 이해(2)" }
+  ]
+}

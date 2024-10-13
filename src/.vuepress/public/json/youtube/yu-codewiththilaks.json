@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "codewiththilaks",
+    "name": "CodeWithThilakS | CWTS",
+    "profile": "https://yt3.googleusercontent.com/T-3Fxh_HmwEK8BeLOjxnumZuSB_1ML2IlC8MMPdkOIBqU1TJbjsMBHauT5uGQxtS-0GrXHopdw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t-HSN-8tS6htUoORAzMWGGYZOrVGEvEcUBMfUiWysfk1LWGdnOmEVrfmk_qR4k8-Btx7COS-KA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UKAbQnCHy4M", "title": "How To Build An Awesome Landing Page in ReactJS & TailwindCSS" } 
+  ]
+}
+

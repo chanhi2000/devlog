@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "nepaltech1385",
+    "name": "NepalTechTube",
+    "profile": "https://yt3.googleusercontent.com/a189uBU-y4lR1y1odYIJLIBsIJbXLTY7RcZpH16EvRa22SbCzVflMvfMHCF6RJ8eRIiwiG_cvt0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "bzJe_fKEvDw", "title": "GitOps CI/CD with #Helm and #argocd : Streamlining #kubernetes  Deployments on #aws #eks" },
+    { "id": "SRHvKBYAwtQ", "title": "Real-Time DevOps Project Using Kubernetes #EKS #AWS Live |  Deploy cloud-native Voting APP AWS EKS" }
+  ]
+}

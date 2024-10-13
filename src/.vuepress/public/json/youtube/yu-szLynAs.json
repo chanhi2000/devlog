@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "szLynAs",
+    "name": "LynAs Sazzad",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMOO9U_zMZoMJkBGsxCGDhu4sOxsZsN2LekshGN-Gg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uZ4rh3Buv7c9RdfIOLuF1CBhWrT8lOmEEbz8klCw6QWpxtvnauQIjDcKifs7jtPj7IrNSg5D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AXYheeyy6gg", "title": "Kubernetes Tutorial for Developers" },
+    { "id": "Ug7rADxR1oE", "title": "Reactive web application with MySQL database and Kotlin" }, 
+    { "id": "BwdkyrnJQsg", "title": "Build JAVA project and create JAR file using Gradle" }, 
+    { "id": "hGb5U_ptJz0", "title": "Stateless web application with spring security & JWT" }, 
+    { "id": "rm2v2U3Voi4", "title": "Android Background Task using Kotlin ANKO" } 
+  ]
+}
+

@@ -1,0 +1,35 @@
+[
+  {
+    "repo": "jgthms/bulma",
+    "desc": "Modern CSS framework based on Flexbox",
+    "officialSite": "https://bulma.io",
+    "topics": ["css", "css-framework", "design", "flexbox", "html"]
+  }, {
+    "repo": "black7375/Firefox-UI-Fix",
+    "desc": "🦊 I respect proton UI and aim to improve it.",
+    "officialSite": "",
+    "topics": ["firefox", "firefox-css", "firefox-customization", "firefox-theme", "firefox-tweaks", "hacktoberfest", "theme", "unixporn", "user-interface", "userchrome", "userchrome-styles", "userchromecss", "userstyles"]
+  }, {
+    "repo": "lowlighter/matcha",
+    "desc": "🍵 Drop-in semantic styling library in pure CSS. ",
+    "officialSite": "https://matcha.mizu.sh",
+    "topics": ["classless", "classless-css", "css", "css-framework", "design", "minimalist", "semantic-web", "simple", "theme", "web"]
+  }, {
+    "repo": "zakirkun/arsip-gorengan-is",
+    "desc": "Arsip gorengan full konteks",
+    "officialSite": "https://zakirkun.github.io/arsip-gorengan-is/",
+    "topics": []
+  }, {
+    "repo": "dumindu/E25DX",
+    "desc": "🧑‍💻 Your next documentation theme...",
+    "officialSite": "",
+    "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"]
+  }, {
+    "repo": "cssnano/cssnano",
+    "desc": "A modular minifier, built on top of the PostCSS ecosystem.",
+    "officialSite": "https://cssnano.github.io/cssnano/",
+    "topics": ["css", "cssnano", "minification", "optimisation", "postcss"],
+    "avatar": "https://avatars.githubusercontent.com/u/40150215?v=4",
+    "banner": ""
+  }
+]

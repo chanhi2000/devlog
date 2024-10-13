@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "AbhishekVeeramalla",
+    "name": "Abhishek.Veeramalla",
+    "profile": "https://yt3.googleusercontent.com/dwzI3o0Lx9J8WmHJmqT4RclChSDjpMdRcBA32xPiZJGIieW203GuRvbKwcDb0AARN0x2m4xgCg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N3H7jGjOb0e2dJ3VuRDxfL7SHgogMQSsvU66oIBdvuLSPF5PYtEeibijo5eBa4nrKoPz0RnE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EeiYpnBHnhY", "title": "DAY-42 | KUBERNETES MONITORING USING PROMETHEUS & GRAFANA |LIVE DEMO |STEPS IN GITHUB | #kubernetes" }, 
+    { "id": "JGQI5pkK82w", "title": "IMPLEMENTING THE ULTIMATE CI/CD PIPELINE  | LIVE DEMO| JENKINS END TO END PROJECT| BEST CICD PROJECT" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "blackpenredpen",
+    "name": "blackpenredpen",
+    "profile": "https://yt3.googleusercontent.com/AfqNfJy_kaReKMIHuB4-20TMgmCx9o8Zbn2_A_wJAul14H82Gy7q63oaC6KiEcootgepScJX8Yc=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y6LopzfI-4LHG8xZxHbBN3xMYC5bcBYC7NW2ynlvOxH5JCbJE7jFUS1uFvnbtqREOQULcoBS5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WsNnmB8NCRo", "title": "You see nonlinear equations, they see linear algebra! (Harvard-MIT math tournament)" },
+    { "id": "3Bar7c9NITE", "title": "Full solution to the 2023 AP calculus AB FRQ" },
+    { "id": "kIOIIzWAH6g", "title": "This is how HKDSE asked a logarithm question (Hong Kong university entrance exam)" },
+    { "id": "NgqgXujZIRY", "title": "Probably the most notorious British GCSE maths problem ever made" },
+    { "id": "T5AlOgtn0X8", "title": "Oxford MAT asks: sin(72 degrees)" },
+    { "id": "GPfl8khHGYg", "title": "We need to use the Lambert W function for this problem!" },
+    { "id": "DhcQqGbaqg4", "title": "My first calculus 3 limit on YouTube" },
+    { "id": "xBpZRWCGw30", "title": "Solving log-power equation x^ln(4)+x^ln(10)=x^ln(25)" },
+    { "id": "BYI-MKzqO74", "title": "I modified a quadratic equation to have 6 solutions" },
+    { "id": "FLz13cXhe8A", "title": "How do I solve this complex quadratic equation using the pq formula? Reddit r/homeworkhelp" },
+    { "id": "5MU5xoL-U3c", "title": "Are you tired of seeing these math debates on the internet?" },
+    { "id": "qqCheIAjCZc", "title": "You need many algebraic tricks! (Stanford Math Tournament)" },
+    { "id": "rxVK5cWLRKQ", "title": "a formula for a^x+bx+c=0" },
+    { "id": "-kJheoMb2ys", "title": "My failed attempts to the integral of sqrt(sin^2(x))" },
+    { "id": "mMFJUZAHhf0", "title": "Calculus teacher vs \"just use L'Hospital's rule\" student" },
+    { "id": "l77LBKRri9I", "title": "combine rational exponents, but use calculus," },
+    { "id": "lWnbPB-ucOI", "title": "solution to the sine triangle" }
+  ]
+}

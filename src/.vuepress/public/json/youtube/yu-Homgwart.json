@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "Homgwart",
+    "name": "홈페이지마법사",
+    "profile": "https://yt3.googleusercontent.com/MS9ne-CBhyiuIxZqhQD2Sz8OcVp3CHen7H_d5lepLvK5__9v2KlRyZgJ4jra83LsLwRzErrDhQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "MQKZHeWoMYE", "title": "여러분의 홈페이지만 돈 못 버는 이유" },
+    { "id": "eyXoEh7KmpE", "title": "[아임웹 홈페이지 제작] 홈페이지 제작 수익 극대화 방법" },
+    { "id": "Iz2N11EPycY", "title": "아임웹 도메인 구매/연결 방법 간단 정리, 타사 도메인 연결 방법" },
+    { "id": "gZvJBdIw5EQ", "title": "11분만에 아임웹 모바일 최적화 마스터하기" }
+  ]
+}

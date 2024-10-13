@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "user-sq7il2ir1e",
+    "name": "5분개발지식",
+    "profile": "https://yt3.googleusercontent.com/P1Kh9fpCzfgDPItNxM7giI_K-FgA08V48CRySkUSztE4BFpA09jOMdXf9pLTWLh0feXC_Exncw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "E2HSpcN-ir4", "title": "협업 필수 `yarn.lock` /  `package-lock.json`" }
+  ]
+}
+

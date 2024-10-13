@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "AndroidAuthority",
+    "name": "Android Authority",
+    "profile": "https://yt3.googleusercontent.com/_Tya4y1GTYtsEzEztJIoeHV8ZQhKZN11GyyUx3VFBNnKa_CfN8csGDhiACHfMB519iCHgDjh8ls=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/41ST6yYyHFs1kcxPxMMbogZoioEPKCowTn4fYv0gLM3BMOnZ8hh1fyjy9R2C5Sc5d4KItjenEA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pwlSb_TX9q4", "title": "Android 15 DP2: The BIGGEST new features!" },
+    { "id": "MwIwnoZPGcI", "title": "10 BEST faces for Galaxy Watch and Pixel Watch!" },
+    { "id": "1-XXJGYl2sc", "title": "Google I/O 2024 Livestream: Join Android Authority live at the show!" },
+    { "id": "nARtK0JQIrw", "title": "Android 15 Beta 2 is HERE + Wear OS 5, Gemini on Google TV, and MORE! | Google I/O 2024" },
+    { "id": "kq1BcTGgFIw", "title": "The Pixel Fold 2 has leaked and it's wild!" },
+    { "id": "Qfmv70FElsk", "title": "Homey Pro is the one smart hub to rule them all...or is it?" },
+    { "id": "omEfAYO7w0c", "title": "These 3 crazy AI models run offline on your Android phone!" },
+    { "id": "ZFakXKEnUSM", "title": "The BEST Razer Blade Laptops yet!" },
+    { "id": "bLJZ8LLuv_g", "title": "Google's BIG plans for the Android ECOSYSTEM!" },
+    { "id": "IMf6M_86XzI", "title": "CES Wrap-up! Join us live as we talk the coolest tech at CES 2024" },
+    { "id": "BoZm1vG5tzE", "title": "RCS on iPhone: A big WIN for Android!" },
+    { "id": "czgMUbNhvgo", "title": "The BEST AI tools for your Android phone!" }, 
+    { "id": "4BD3y0NYNqk", "title": "How to Build a Basic Android Game in Just 7 Minutes (Unity)" }
+  ]
+}

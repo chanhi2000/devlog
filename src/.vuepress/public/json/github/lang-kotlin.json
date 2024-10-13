@@ -1,0 +1,639 @@
+[
+  {
+    "repo": "ktorio/ktor",
+    "desc": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+    "officialSite": "https://ktor.io",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kotlin/dokka",
+    "desc": "Documentation Engine for Kotlin",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaperMC/Paper",
+    "desc": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "officialSite": "https://papermc.io",
+    "topics": ["java", "minecraft", "bukkit", "paper", "minecraft-server", "minecraft-api", "craftbukkit", "spigot-fork", "minecraft-performance", "tacos", "hacktoberfest", "paper-api", "papermc"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "PaperMC/Paperclip",
+    "desc": "Bootstrap utility and launcher for the Paper Minecraft server",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hexagonkt/hexagon",
+    "desc": "Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.",
+    "officialSite": "https://hexagonkt.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "microsoft/thrifty",
+    "desc": "Thrift for Android that saves you methods",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sniffy/influxdb-tools",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ReVanced/revanced-patches",
+    "desc": "🧩 Patches for ReVanced",
+    "officialSite": "https://revanced.app",
+    "topics": ["android", "dalvik", "kotlin", "patches", "revanced", "reverse-engineering"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cashapp/turbine",
+    "desc": "A small testing library for kotlinx.coroutines Flow",
+    "officialSite": "https://cashapp.github.io/turbine/docs/0.x",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "pinterest/ktlint",
+    "desc": "An anti-bikeshedding Kotlin linter with built-in formatter",
+    "officialSite": "https://pinterest.github.io/ktlint",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ThinkingLogic/kotlin-builder-annotation",
+    "desc": "A minimal viable replacement for the Lombok @builder plugin for Kotlin code",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "netflix/dgs-framework",
+    "desc": "GraphQL for Java with Spring Boot made easy.",
+    "officialSite": "https://netflix.github.io/dgs",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, { 
+  
+    "repo": "cuynu/ytvanced",
+    "desc": "YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial (non-profit)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ethereum-lists/chains",
+    "desc": "provides metadata for chains",
+    "officialSite": "https://chainid.network",
+    "topics": ["ethereum", "chains", "evm", "hacktoberfest", "eip155", "chainid"] 
+  }, {
+    "repo": "KakaoCup/Kakao",
+    "desc": "Nice and simple DSL for Espresso in Kotlin",
+    "officialSite": "https://kakaocup.github.io/Kakao",
+    "topics": ["android", "kotlin", "dsl", "android-test", "espresso", "testing-tools", "android-ui", "hacktoberfest", "ui-testing", "testing-framework", "testing-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "minigdx/tiny",
+    "desc": "Tiny is a lightweight 2D game engine that allows developers to easily create games using the Lua programming language.",
+    "officialSite": "https://minigdx.github.io/tiny",
+    "topics": ["kotlin", "game", "gamedev", "lua", "gamejam", "2d", "kotlin-js", "kotlin-jvm"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "JetBrains/ideavim",
+    "desc": "IdeaVim – A Vim engine for JetBrains IDEs",
+    "officialSite": "http://plugins.jetbrains.com/plugin/164",
+    "topics": ["kotlin", "vim", "intellij", "jetbrains", "intellij-plugin", "intellij-platform", "ideavim", "jb-official"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "fuqiuluo/unidbg-fetch-qsign",
+    "desc": "获取QQSign通过Unidbg",
+    "officialSite": "",
+    "topics": ["qqbot", "oicq", "unidbg", "qqprotocol"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anyproto/anytype-kotlin",
+    "desc": "Official Anytype client for Android",
+    "officialSite": "https://anytype.io",
+    "topics": ["privacy", "offline-first", "p2p", "e2ee", "local-first", "anytype"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "DroidKaigi/conference-app-2023",
+    "desc": "The Official Conference App for DroidKaigi 2023",
+    "officialSite": "",
+    "topics": ["android", "kotlin-multiplatform", "swiftui", "jetpack-compose", "compose-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "JetBrains/compose-multiplatform",
+    "desc": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "officialSite": "https://jetbrains.com/lp/compose-multiplatform",
+    "topics": ["javascript", "android", "kotlin", "gui", "reactive", "ui", "swing", "desktop", "declarative-ui", "multiplatform", "compose", "awt"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "GuoXiCheng/SKIP",
+    "desc": "自动跳过APP开屏广告",
+    "officialSite": "https://guoxicheng.github.io/SKIP-Docs/1-introduction",
+    "topics": ["android", "auto", "kotlin", "skip"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "yairm210/Unciv",
+    "desc": "Open-source Android/Desktop remake of Civ V",
+    "officialSite": "",
+    "topics": ["4x", "4x-strategy-game", "android", "civ", "civilization", "civilization-v", "game", "itch", "libgdx", "strategy-game"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "elizarov/CoroutinesWorkshop",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "konigsoftware/konig-kontext",
+    "desc": "A globally shared, request scoped, context for JVM based gRPC microservices",
+    "officialSite": "",
+    "topics": ["grpc", "grpc-java", "grpc-kotlin", "java", "kotlin", "microservices", "protobuf"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "alibaba/p3c",
+    "desc": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "officialSite": "https://github.com/alibaba/p3c/wiki",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gedoor/legado",
+    "desc": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hectorqin/reader",
+    "desc": "阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️",
+    "officialSite": "https://reader.htmake.com",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "MatsuriDayo/NekoBoxForAndroid",
+    "desc": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+    "officialSite": "https://matsuridayo.github.io/",
+    "topics": ["android", "gfw", "proxy", "shadowsocks", "sing-box", "trojan", "vmess", "vpn"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "simondankelmann/Bluetooth-LE-Spam",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "deepseek-ai/DeepSeek-Coder",
+    "desc": "DeepSeek Coder: Let the Code Write Itself",
+    "officialSite": "https://coder.deepseek.com/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ianatha/bababasic",
+    "desc": "QuickBASIC 4.5 revival on Android",
+    "officialSite": "https://play.google.com/store/apps/details?id=io.atha.quickbasic",
+    "topics": ["android", "basic", "programming", "quickbasic", "terminal"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "gkd-kit/gkd",
+    "desc": "基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP",
+    "officialSite": "",
+    "topics": ["accessibility", "android", "compose", "kotlin", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tachiyomiorg/tachiyomi-extensions",
+    "desc": "Source extensions for the Tachiyomi app.",
+    "officialSite": "https://tachiyomi.org/extensions/",
+    "topics": ["android", "kotlin", "manga"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "officialSite": "https://tachiyomi.org/",
+    "topics": ["android", "kotlin", "manga"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ThePBone/tachiyomi-extensions-revived",
+    "desc": "Revival of removed source extensions for the Tachiyomi app.",
+    "officialSite": "",
+    "topics": ["manga", "mangadex", "tachiyomi", "tachiyomi-extensions"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "keiyoushi/extensions",
+    "desc": "Source extensions for the Tachiyomi app.",
+    "officialSite": "https://keiyoushi.github.io/extensions/",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, { 
+    "repo": "keiyoushi/extensions-source",
+    "desc": "Source code of the extensions for the Tachiyomi app.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tachiyomiorg/extensions",
+    "desc": "Source extensions for the Tachiyomi app.",
+    "officialSite": "https://tachiyomi.org/extensions/",
+    "topics": ["android", "kotlin", "manga", "self-hosted"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zhanghai/MaterialFiles",
+    "desc": "Material Design file manager for Android",
+    "officialSite": "https://play.google.com/store/apps/details?id=me.zhanghai.android.files",
+    "topics": ["android", "android-application", "file-manager", "kotlin", "kotlin-android", "material-design"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mihonapp/mihon",
+    "desc": "Free and open source manga reader for Android",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "msasikanth/twine",
+    "desc": "Twine: A multiplatform RSS reader built using Kotlin and Compose",
+    "officialSite": "",
+    "topics": ["compose-multiplatform", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "unit-mesh/auto-dev",
+    "desc": "🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀",
+    "officialSite": "https://ide.unitmesh.cc/",
+    "topics": ["aigc", "genai", "genaistack", "ide", "intellij"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "wirequery/wirequery",
+    "desc": "WireQuery is a full-stack session replay tool. Using WireQuery, you can see how a user experiences an issue through a video-like frontend recording. Combined with an overview of the network calls to the backend (including network calls further upstream and their actual payload), you get a holistic overview of how an issue came into existence.",
+    "officialSite": "http://www.wirequery.io",
+    "topics": ["debugging", "distributed-tracing", "observability", "session-replay", "tracing", "traffic-analysis"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "officialSite": "",
+    "topics": ["brook", "daze", "fanqiang", "goflyway", "lightsocks", "proxy", "psiphon", "shadowsocks", "ssr", "trojan", "v2ray"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mobile-dev-inc/maestro",
+    "desc": "Painless Mobile UI Automation",
+    "officialSite": "https://maestro.mobile.dev/",
+    "topics": ["android", "blackbox-testing", "ios", "ui-automation"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "skydoves/pokedex-compose",
+    "desc": "🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.",
+    "officialSite": "",
+    "topics": ["android", "coroutines", "hilt", "jetpack-android", "jetpack-compose", "kotlin", "motion", "mvvm", "mvvm-architecture", "pokedex", "pokemon", "skydoves"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "rjaros/kilua",
+    "desc": "Composable web framework for Kotlin/Wasm and Kotlin/JS",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "deusaquilus/Terpal",
+    "desc": "Typed String Interpolation for Kotlin",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dzmpr/trckr",
+    "desc": "Kotlin Symbol Processor to simplify analytics tracking.",
+    "officialSite": "https://dzmpr.github.io/trckr/",
+    "topics": ["android", "kotlin", "analytics", "ksp"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "theolm/rinku",
+    "desc": "Deep Link Handling for Kotlin Multiplatform",
+    "officialSite": "",
+    "topics": ["android", "ios", "deeplink", "deeplinks", "kmp", "kotlin-multiplatform", "kmm", "kmm-library", "deeplink-navigation", "compose-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "terrakok/kmp-hierarchy",
+    "desc": "Gradle Plugin to investigate KMP project's hierarchy",
+    "officialSite": "",
+    "topics": ["gradle-plugin", "hmpp", "kmp", "kotlin", "multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "serpro69/kotlin-faker",
+    "desc": "Port of a popular ruby faker gem written in kotlin. Generate realistically looking fake data such as names, addresses, banking details, and many more, that can be used for testing and data anonymization purposes.",
+    "officialSite": "https://serpro69.github.io/kotlin-faker/",
+    "topics": ["android", "android-development", "android-testing", "anonymisation", "anonymization", "anonymizer", "data", "faker", "faker-gem", "faker-generator", "faker-library", "faker-libs", "java", "jvm", "kotlin", "kotlin-faker", "kotlin-library", "test-automation", "testing", "testing-tools"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "JustinGeorgeJoseph/ClippedCircleShape",
+    "desc": "Clipped circle shape in jetpack compose",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "vinceglb/AutoLaunch",
+    "desc": "Launch your Kotlin / KMP app automatically on system startup ✨",
+    "officialSite": "",
+    "topics": ["kmp", "kotlin", "kotlin-desktop", "kotlin-jvm", "kotlin-multiplatform"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Hinge/project-accessors",
+    "desc": "A Gradle plugin that can generate type safe project accessors for included builds.",
+    "officialSite": "https://plugins.gradle.org/plugin/co.hinge.gradle.project-accessors",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {  
+    "repo": "Bizyback/rhyme",
+    "desc": "A simple kotlin multiplatform poetry app. ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "welniak/YAIoGoL",
+    "desc": "Yet Another Implementation of Game of Life",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "littlerobots/version-catalog-update-plugin",
+    "desc": "Gradle plugin for updating a project version catalog",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "saket/file-size",
+    "desc": "Unit for representing and converting between file sizes, inspired by kotlin.time.Duration",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "autonomousapps/dependency-analysis-gradle-plugin",
+    "desc": "Gradle plugin for JVM projects written in Java, Kotlin, Groovy, or Scala; and Android projects written in Java or Kotlin. Provides advice for managing dependencies and other applied plugins",
+    "officialSite": "",
+    "topics": ["android", "gradle-plugin", "groovy", "java", "jvm", "kotlin", "scala"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "nesk/akkurate",
+    "desc": "The expressive validation library for Kotlin",
+    "officialSite": "https://akkurate.dev",
+    "topics": ["constraints", "dsl", "kotlin", "kotlin-library", "multiplatform", "validation", "validation-library"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "mscheong01/krotoDC",
+    "desc": "Protobuf Kotlin Dataclass, Converter & Custom Kotlin Coroutine gRPC Generator",
+    "officialSite": "",
+    "topics": ["grpc-java", "grpc-kotlin", "kotlin", "kotlinpoet", "protobuf", "protobuf-java"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "zsmb13/KotlinLogo-ScreenSaver",
+    "desc": "A macOS screensaver featuring Kotlin logos",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "seljabali/java-time-fun",
+    "desc": "java.time Kotlin extension functions library.",
+    "officialSite": "https://seljabali.github.io/java-time-fun",
+    "topics": ["calendar", "date", "date-formatting", "date-library", "date-time", "java", "javatime", "joda-time", "kotlin", "kotlin-extensions"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "bazelbuild/rules_kotlin",
+    "desc": "Bazel rules for Kotlin",
+    "officialSite": "",
+    "topics": ["bazel", "bazel-rules", "kotlin"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jillesvangurp/json-dsl",
+    "desc": "Create Kotlin DSLs for any JSON/YAML. JsonDsl is a library that helps you build Kotlin DSLs for JSON and YAML dialects. The DSLs are easy to extend with custom fields by users via a MutableMap. This allows your DSL users to work around any features you don't have in your DSL.",
+    "officialSite": "",
+    "topics": ["domain-specific-language", "json", "kotlin-multiplatform", "library", "yaml"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "dave08/kacheable",
+    "desc": "Kacheable is a small library that can cache results of computations to various backends.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "voize-gmbh/pytorch-lite-multiplatform",
+    "desc": "A Kotlin multi-platform wrapper around the PyTorch Lite libraries on Android and iOS.",
+    "officialSite": "",
+    "topics": ["kotlin", "kotlin-multiplatform-mobile", "pytorch", "pytorch-lite", "pytorch-mobile"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kotest/kotest",
+    "desc": "Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing",
+    "officialSite": "https://kotest.io",
+    "topics": ["assertions", "hacktoberfest", "kotlin", "matchers", "property-testing", "test", "testing", "testing-tools"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "ansman/sonatype-publish-fix",
+    "desc": "A Gradle Plugin that prevents parallel publishing to maven repositories.",
+    "officialSite": "",
+    "topics": ["gradle", "gradle-plugin", "maven", "sonatype"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "Kotlin/kotlinx-rpc",
+    "desc": "Add asynchronous RPC services to your multiplatform applications.",
+    "officialSite": "https://kotlin.github.io/kotlinx-rpc/",
+    "topics": ["asynchronous", "coroutines", "kotlin", "rpc"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "anuragsoni/fiber",
+    "desc": "Asynchronous HTTP toolkit for Kotlin + JVM",
+    "officialSite": "",
+    "topics": ["http", "kotlin", "kotlin-coroutines", "netty"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cdsap/ArtifactTransformReport",
+    "desc": "Retrieve and display statistics of artifact transforms executed in a Gradle project using DV API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "cdsap/CompareScans",
+    "desc": "Compare two build scans using Develocity API",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "JosueMolinaMorales/mutant-kraken",
+    "desc": "A mutation testing tool for kotlin",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "salesforce-misc/ReVoman",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sergejsha/logger",
+    "desc": "Minimalistic Logger for Kotlin Multiplatform.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "soupslurpr/Transcribro",
+    "desc": "Private and on-device speech recognition keyboard and service for Android.",
+    "officialSite": "",
+    "topics": ["android", "jetpack-compose", "keyboard", "kotlin", "kotlin-android", "material-3", "material-design-3", "material-you", "speech-recognition", "speech-to-text"],
+    "avatar": "https://avatars.githubusercontent.com/u/92235850?v=4",
+    "banner": ""
+  }, {
+    "repo": "StochasticTinkr/kotlin4vulkan",
+    "desc": "A Kotlin binding for Vulkan on top of LWJGL 3. ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/12673966?v=4",
+    "banner": ""
+  }, {
+    "repo": "recloudstream/cloudstream",
+    "desc": "Android app for streaming and downloading media.",
+    "officialSite": "",
+    "topics": ["android", "home-theater", "media-center", "multimedia", "video-streaming"],
+    "avatar": "https://avatars.githubusercontent.com/u/110591699?v=4",
+    "banner": ""
+  }, {
+    "repo": "kikermo/ble-server",
+    "desc": "BLE server-side library for the BLUEZ stack",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/5659713?v=4",
+    "banner": ""
+  }, {
+    "repo": "fork-handles/forkhandles",
+    "desc": "Foundational libraries for Kotlin",
+    "officialSite": "https://forkhandles.dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/67378500?v=4",
+    "banner": ""
+  }, {
+    "repo": "drawers/abecedary",
+    "desc": "A set of lint rules for ordering Kotlin enums, sealed classes, and more",
+    "officialSite": "",
+    "topics": ["android", "android-lint", "android-lint-rule", "android-lints", "kotlin"],
+    "avatar": "https://avatars.githubusercontent.com/u/11054916?v=4",
+    "banner": ""
+  }, {
+    "repo": "eTipio/client-sdk-kotlin-template",
+    "desc": "A project template for creating Kotlin Client SDK for HTTP based APIs ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/78708048?v=4",
+    "banner": ""
+  }, {
+    "repo": "JavierSegoviaCordoba/kopy",
+    "desc": "Nested copies made easy in Kotlin",
+    "officialSite": "https://kopy.javiersc.com",
+    "topics": ["codegen", "compiler", "copies", "copy", "deep", "deep-copies", "deep-copy", "gradle", "k2", "kotlin", "plugin", "runtime"],
+    "avatar": "https://avatars.githubusercontent.com/u/7463564?v=4",
+    "banner": ""
+  }, {
+    "repo": "j-roskopf/KotlinWarningBaselineGenerator",
+    "desc": "A Gradle plugin to generate baselines for Kotlin warnings",
+    "officialSite": "",
+    "topics": ["baselines", "generators", "kotlin", "warning"],
+    "avatar": "https://avatars.githubusercontent.com/u/7951665?v=4",
+    "banner": ""
+  }, {
+    "repo": "amzn/kotlin-inject-anvil",
+    "desc": "Extensions for the kotlin-inject dependency injection framework",
+    "officialSite": "",
+    "topics": ["dependency-injection", "kotlin", "kotlin-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/8594673?v=4",
+    "banner": ""
+  }, {
+    "repo": "kevincianfarini/cardiologist",
+    "desc": "Build job schedules with kotlinx-datetime and kotlinx-coroutines",
+    "officialSite": "https://kevincianfarini.github.io/cardiologist/docs/0.x/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/13242326?v=4",
+    "banner": ""
+  }, {
+    "repo": "ArjunJadeja/Something",
+    "desc": "what you should avoid in kotlin",
+    "officialSite": "",
+    "topics": ["best-practices", "exception-handling", "exceptions", "kotlin", "mistakes", "null-safety", "type-safety"],
+    "avatar": "https://avatars.githubusercontent.com/u/81246797?v=4",
+    "banner": ""
+  }, {
+    "repo": "EdwarDDay/kotlin-server-scripts",
+    "desc": "Run kotlin scripts as web request response",
+    "officialSite": "",
+    "topics": ["fcgi", "kotlin", "script", "server"],
+    "avatar": "https://avatars.githubusercontent.com/u/4127904?v=4",
+    "banner": ""
+  }
+]

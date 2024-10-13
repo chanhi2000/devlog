@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "claydesk",
+    "name": "ClayDesk E-Learning",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM476JZijl7Y7WHLOzEZh8SFdjm4LvKG5o-5mwmRw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5dQVlxRd4hIKRUKDrLn79K1YVs8m-uQunEIeZEvWF8tuQw9PrtmOIkw2K7KLo6juiNJtFTuMSA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M-qNebxjsMk", "title": "How to Become AWS Certified Solutions Architect for Beginners" },
+    { "id": "gadb5EHZFok", "title": "Which skills are required to become AWS Certified DevOps Engineer?" },
+    { "id": "bfEhMR6Ci1w", "title": "What to Choose - Solutions Architect OR Cloud Engineer" },
+    { "id": "ZzlYgeWikb8", "title": "How to Generate and Review the AWS Account Credential Report for Beginners - AWS Credentials" },
+    { "id": "sEX9lpuZ4-o", "title": "AWS Cloud Support - Why Should You Become an AWS Support Engineer" },
+    { "id": "Op706zgfUsc", "title": "How to get AWS Secret Access Key for Beginners" },
+    { "id": "oPTqKaPExdw", "title": "How To Create Infrastructure in AWS | AWS VPC Networking Components" },
+    { "id": "YUziq-q4QJY", "title": "Amazon VPC Security in AWS Virtual Private Cloud | AWS VPC tutorial" },
+    { "id": "xLHv2GJhVAg", "title": "What Is AWS Identity and Access Management (IAM)" },
+    { "id": "DZwh67m4RB8", "title": "Introduction to Amazon RDS for Complete Beginners" },
+    { "id": "Xl40yelD4PU", "title": "AWS Certified Data Engineer Complete Course | AWS Certified Data Engineer" },
+    { "id": "bfC2dYnE_o0", "title": "How to Create AWS VPC | Amazon Virtual Private Cloud Tutorial" },
+    { "id": "odSkoPnxO5s", "title": "AWS Data Lake Tutorial | Data Lake Architecture in AWS" },
+    { "id": "wS33uH6r2R4", "title": "All About S3 Bucket | Amazon S3 Bucket Tutorial | AWS S3 Bucket Tutorial" },
+    { "id": "P-hEXiHWDRA", "title": "Amazon DynamoDB Vs Amazon RDS | Which is Better?" },
+    { "id": "EWO2pi0IhTI", "title": "How Does Amazon Q Work? | Amazon Q Explained" },
+    { "id": "8WMO-1b-ht8", "title": "Ansible Tower for Beginners | Ansible Tower Automation" },
+    { "id": "wc0TvZePWV4", "title": "DevOps Process Flow #shorts" },
+    { "id": "Y_aBb634GUw", "title": "How To Become an AWS Cloud Engineer | Complete AWS Cloud Roadmap" },
+    { "id": "h5Jj9Pt4pNM", "title": "How To Use AWS Audit Manager Tutorial for Beginners" },
+    { "id": "cKytRgl7cco", "title": "AWS Load balancing within and between regions #Shorts" },
+    { "id": "qZlaUW43fuY", "title": "Excel VBA Programming - The Complete Guide" },
+    { "id": "njy0dy15BWQ", "title": "AWS IAM Tutorial for Beginners Step by Step - AWS Tutorial" },
+    { "id": "cKytRgl7cco", "title": "AWS Load balancing within and between regions #Shorts" }, 
+    { "id": "vQTCaFv8E0M", "title": "Why ChatGPT is the next big thing in DevOps Pipeline?" }, 
+    { "id": "ZopKM2umkew", "title": "CI CD Full Course In One Hour" }, 
+    { "id": "4_ORDXKLMWs", "title": "Selenium Testing Full Course" }, 
+    { "id": "SpfO55NPhx8", "title": "AWS Certified Cloud Practitioner 2022 FULL COURSE for Beginners (2019 Course Updated)" }, 
+    { "id": "9kSQQfOG9IE", "title": "AWS Cloud Security Best Practices - How to Configure AWS Security" }, 
+    { "id": "gVMA8ilZKvE", "title": "Azure DevOps Introduction for Beginners - Azure DevOps" }, 
+    { "id": "BpCDeiUgaj8", "title": "How to Manage AWS Data Security Risk in Cloud Computing" }, 
+    { "id": "6ycSuoqsevA", "title": "Certified KUBERNETES Application Developer Full Course for Beginners" }
+  ]
+}

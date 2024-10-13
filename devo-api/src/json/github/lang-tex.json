@@ -1,0 +1,59 @@
+[
+  {
+    "repo": "lysxia/gradual-eff-paper",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "paulgp/applied-methods-phd",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "synercys/annotated_latex_equations",
+    "desc": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "sysprog21/lkmpg",
+    "desc": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "officialSite": "https://sysprog21.github.io/lkmpg",
+    "topics": ["c", "linux", "documentation", "books", "kernel", "linux-kernel", "device-driver", "linux-kernel-module", "linux-kernel-driver", "lkm", "lkmpg"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "hendricius/the-sourdough-framework",
+    "desc": "Open source book dedicated to helping you to make the best possible sourdough bread at home.",
+    "officialSite": "https://breadco.de/book",
+    "topics": ["baking", "cooking", "bread", "sourdough"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "premAI-io/state-of-open-source-ai",
+    "desc": ":closed_book: Clarity in the current fast-paced mess of Open Source innovation",
+    "officialSite": "https://book.premai.io/state-of-open-source-ai",
+    "topics": ["open-source", "ai", "book", "ml", "hacktoberfest", "mlops", "jupyter-book"],
+    "avatar": "https://avatars.githubusercontent.com/u/10780059?s=64&v=4",
+    "banner": "https://repository-images.githubusercontent.com/676951620/b58233ae-8fa7-4949-8234-fd60dd09d2af"
+  }, {
+    "repo": "dcetin/Simple-CV",
+    "desc": "A minimalistic CV template with BibLaTeX support. Contribute to dcetin/Simple-CV development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["resume-template", "resume", "latex", "biblatex", "cv", "cv-template"],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/e02ad2f77fb39c0eb7a160b78f01d2f7f5381e64f84ffe3d279e106296120d97/dcetin/Simple-CV"
+  }
+]

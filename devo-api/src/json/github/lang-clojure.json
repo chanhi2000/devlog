@@ -1,0 +1,80 @@
+[
+  {
+    "repo": "zachallaun/secd",
+    "desc": "A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",
+    "officialSite": "https://logseq.com",
+    "topics": ["git", "markdown", "clojure", "graph", "clojurescript", "knowledge-graph", "org-mode", "note-taking", "knowledge-base", "pkm", "local-first"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "tonsky/FiraCode",
+    "desc": "Free monospaced font with programming ligatures",
+    "officialSite": "",
+    "topics": ["font", "ligatures", "programming-ligatures"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "phronmophobic/treemap-clj",
+    "desc": "An alternative to pprint for generically visualizing heterogeneous, hierarchical data",
+    "officialSite": "",
+    "topics": ["clojure", "data-visualization", "treemap", "membrane"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "metabase/metabase",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:",
+    "officialSite": "https://metabase.com",
+    "topics": ["analytics", "bi", "business-intelligence", "businessintelligence", "clojure", "dashboard", "data", "data-analysis", "data-visualization", "database", "metabase", "mysql", "postgres", "postgresql", "reporting", "slack", "sql-editor", "visualization"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "imteekay/programming-language-research",
+    "desc": "Programming Language Research, Applied PLT & Compilers",
+    "officialSite": "https://iamtk.co/tags/programming-language-design",
+    "topics": ["compiler", "compiler-design", "plt", "programming-language-theory", "programming-languages-design"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jepsen-io/maelstrom",
+    "desc": "A workbench for writing toy implementations of distributed systems.",
+    "officialSite": "",
+    "topics": ["distributed-systems", "jepsen", "testing"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "jonase/learndatalogtoday",
+    "desc": "Interactive Datalog Tutorial",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "xtdb/xtdb",
+    "desc": "The bitemporal database for regulated data. Developed by @juxt",
+    "officialSite": "https://xtdb.com",
+    "topics": ["bitemporal", "database", "datalog", "document-database", "immutable-store", "sql", "temporal", "xtdb"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "babashka/babashka",
+    "desc": "Native, fast starting Clojure interpreter for scripting",
+    "officialSite": "https://babashka.org",
+    "topics": ["babashka", "bash", "clojure", "graalvm", "scripting", "shell-scripting"],
+    "avatar": "",
+    "banner": ""
+  }, {
+    "repo": "instantdb/instant",
+    "desc": "The realtime client-side database",
+    "officialSite": "https://instantdb.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/110921262?v=4",
+    "banner": ""
+  }
+]

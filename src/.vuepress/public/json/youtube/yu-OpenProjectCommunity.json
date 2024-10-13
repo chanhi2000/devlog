@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "OpenProjectCommunity",
+    "name": "OpenProject | Open Source Project Management",
+    "profile": "https://yt3.googleusercontent.com/VoYJLGbtuMPwvZ1qL1q2vVOLGhqwD-RRbIsl3u4by9ybRDbuKVpXV_OglxOocXFl827kJQQp-w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sOzwgLe7-I271sfYL1X8xty8yrvw3qXMnlY7yfRJK4GyhN5p9w21xXHm55lLuWMilS5f9wJQpg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wDvQsIZrCBs", "title": "How to deploy OpenProject on your Kubernetes cluster using the Helm charts." },
+    { "id": "nPEFYicyHpI", "title": "OpenProject Nextcloud integration - complete admin and user guide" },
+    { "id": "kNntvZbzZ7Y", "title": "OpenProject Release 13.2: OneDrive/SharePoint integration with manual project folders" },
+    { "id": "A7OtAEDQkE8", "title": "openDesk - Der Souveräne Arbeitsplatz" },
+    { "id": "ppG8rMU4OUo", "title": "OpenProject Release 13.3: Custom project lists" },
+    { "id": "07oXvhwKoX8", "title": "OpenProject Nextcloud Integration Set up" }
+  ],
+  "playlists": [
+
+  ]
+}

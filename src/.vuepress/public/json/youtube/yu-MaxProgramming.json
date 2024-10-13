@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "MaxProgramming",
+    "name": "Max Programming",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaQGxgDD7IUhrUg5fIloGTukDl8zmM5pD5RUfy7gyA=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-olrBp6mxhDIzaMzl5jqlcGxGJkhu_ru7uOYaQEjWaEoctbfQkWmzpI7udRCx6FohCAv0ojTeQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FYBC3TjRULo", "title": "Build A Responsive Sidebar using Next.js 14, React, shadcn/ui, and Tailwind CSS" },
+    { "id": "MEHeY0i_CUc", "title": "You probably don't know these 5 TypeScript utility types" },
+    { "id": "68Wq-UzhJvo", "title": "BigInt in JavaScript 🔢  #typescript #coding #javascript" },
+    { "id": "2B9l-IMk0KQ", "title": "Learn Search Params in Next.js 14 by building a project! React | Tailwind | shadcn/ui" },
+    { "id": "-vD8DAEEEWE", "title": "Build A Twitter Sidebar using Next.js 14, React, shadcn/ui, and Tailwind CSS" },
+    { "id": "TZGjXXHis5o", "title": "Exploring SvelteKit [LIVE Stream]" },
+    { "id": "fgrlH9pbVU0", "title": "Converting a Figma design to Next.js with Tailwind CSS [LIVE Stream]"}
+  ]
+}

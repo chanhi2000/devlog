@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ExternCode",
+    "name": "Extern Code",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNHf6IC9Yr2FmTBclAVEDXOjcdgGB05glQOxxvSqg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/O7-vwpNjYrHUPuroQQJJTLoVmTFy3MhuKu888AkolkOheRpzBxRCaRURTlAvm8gtv0roz2JxTw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nhr4ykqnwLw", "title": "Deploying Express APP" }, 
+    { "id": "NMxyW-UoO0c", "title": "Page Transformation - CSS Tutorial series for Beginners" }, 
+    { "id": "Pfa7ISvjjd0", "title": "Transition - CSS Tutorial series for Beginners" }, 
+    { "id": "3W66mqdp8PM", "title": "HTML5 & CSS3 Tutorials - Form Validation & HTML5 Enhancements" } 
+  ]
+}

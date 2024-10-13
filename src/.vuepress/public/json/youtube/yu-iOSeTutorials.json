@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "iOSeTutorials",
+    "name": "iOS eTutorials",
+    "profile": "https://yt3.googleusercontent.com/5nO4D31YImPpeVmpE_G-1TVsFCm9LoG2LaCZu9DafpbdFMLz-A4dlbBhc3ADnMPmrMwcPTKekXo=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DM7QdL0pm9Y3Lc-YRLsEvSenpvKP2C2PiuABZPuYqu5nljNxXoQwo_s--jHMt3cqCMLKcv3XaQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rcpTIYpOUks", "title": "Mobile Apps -Configuration driven development" }
+  ]
+}
+

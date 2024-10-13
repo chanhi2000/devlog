@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "tutorialsEU",
+    "name": "tutorialsEU",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqNZ7zlzDRAHq9ckwn8ODOT1_NuVby7nhZ6cRvf1=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0_niFavz4DhmkPH4iAd8zCfCCqoKH4eytZHxE3X020hGECSWYBZM6rPit8ymXqAw0mg91OnDCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xuFdrXqpPB0", "title": "ASP.NET 8 MVC Tutorial for Beginners - C# web development made easy" },
+    { "id": "SdfNFYnCxP4", "title": "Do THIS to land a developer job - How to switch careers and get hired as a programmer" },
+    { "id": "rgdSj2R6UYc", "title": "FULL ASP.Net Web API in 9 Minutes?! - Only with EF Core Sidekick #coding #csharp #learn" },
+    { "id": "1b1ZDpWsJ7E", "title": "This does Unit Testing in REALTIME?! - C# Visual Studio Extension #csharp #visualstudio" },
+    { "id": "5qwszjGw4hM", "title": "Learn React 18 in One Hour: React Tutorial for Beginners" },
+    { "id": "N9RCWhZgMuU", "title": "This SPEED is getting RIDICULOUS! - SQL Queries with Entity Framework Core BulkExtensions" },
+    { "id": "WkQwW-r2a1Q", "title": "One step to DOUBLE the Speed for your Queries? - Its Bulk Insertion in Entity Framework Core" },
+    { "id": "UnSYbu1oOfE", "title": "What you DID NOT know about Network Protocols - FTP, FTPS, and SFTP" },
+    { "id": "i0DX8U5ttqQ", "title": "Linux Terminal for Beginners - The Complete Starter Guide" },
+    { "id": "6BsyG9HII84", "title": "Is LEARNING WPF still WORTH it in 2023?" },
+    { "id": "6gMDGbf9XZ4", "title": "Make an Excel Editor with C#! - Create, Write, and Read Excel files with C# and .NET" },
+    { "id": "1hwHQJJvwWY", "title": "Make your APPS FASTER with Asynchronous programming in C# - TASK PARALLEL LIBRARY" }, 
+    { "id": "GHNrje08gQM", "title": "Namespace and Assembly in C# - Where is the difference?" }, 
+    { "id": "j46wiCuornQ", "title": "These .NET TOOLS give you an unfair advantage" },
+    { "id": "h1hwz_Y52po", "title": "Full Stack Developer Course - Using ASP.NET & Azure & C# & Android Jetpack Compose + Treblle" }, 
+    { "id": "UsoWVoXDJsE", "title": "Android Jetpack Compose Course - 2h for Free App Developer Course" }, 
+    { "id": "-TWz30owX_I", "title": "Free Android Jetpack Course - 7+ hours Tutorial" }, 
+    { "id": "CzGNaiSoh7E", "title": "Android SQLite Database Tutorial 📱 Complete 1-HOUR SQLite Android Tutorial | Kotlin & Android Studio" }, 
+    { "id": "ieWtCaWkzYQ", "title": "How to publish your Android App on Play Store 2020 | Publish app on Play Store | Android Tutorials" }
+  ]
+}

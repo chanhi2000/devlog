@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "jeffrey_codes",
+    "name": "Jeffrey Codes Javascript",
+    "profile": "https://yt3.googleusercontent.com/Y7Ep38Ze47tv-eNDCpf53mV71hi-LDSmb7aXRooO4J04Sv31FGiPiUp2tmBPfdMpLUgRXcui=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ltBYp0Ddi3c", "title": "Cursor - an AI-powered VSCode fork" },
+    { "id": "tW6aGHpQrrQ", "title": "Creating Chrome Extensions, now 90% less annoying" },
+    { "id": "gjrVCY3oPds", "title": "Intro to React - Build a Kanban Board" },
+    { "id": "_2O2N0taalM", "title": "Generating Sitemap XML for Static and Dynamic Nuxt Routes - Nuxt Sitemap, Part 1" }, 
+    { "id": "M033S_-uHkQ", "title": "Building a Reusable Pagination Component in VueJS" }, 
+    { "id": "gGosCQzPCVg", "title": "Using MirageJS to mock a backend API in Vue" }, 
+    { "id": "zzUpO8tXoaw", "title": "Nuxt Auth - Authentication and Authorization in NuxtJS" }, 
+    { "id": "9w0J1l7juK8", "title": "Making our VueJS app look nicer (Building a VueJS App Part 26)" }, 
+    { "id": "lv-KHdoeSoI", "title": "Building Complex Data Tables with Vuetify's v-data-table and VueJS" }, 
+    { "id": "THT5FefYZCo", "title": "Markdown and Syntax Highlighting in VueJS, compatible with Nuxt and SSR" }, 
+    { "id": "NS0io3Z75GI", "title": "Introduction to NuxtJS - Nested and dynamic pages, layouts, asyncData + axios, meta tags, and VueX" }, 
+    { "id": "sKrBNGw94eQ", "title": "Vuetify: Make a VueJS app look good, even if you're bad at design (Building a VueJS app Part 3)" }, 
+    { "id": "vaCrzaeC-RE", "title": "Building a VueJS app - Part 1 - Getting Started" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "allen_ios",
+    "name": "iOS개발자 앨런",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKb31kTqw22GXkPIyT_kHzXjrEBQ0_fsgUf3TOXO=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "05HzQXFE720", "title": "Swift 의존성 주입 (Dependency Injection)" }
+  ]
+}

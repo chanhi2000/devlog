@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "pixiebrix",
+    "name": "PixieBrix",
+    "profile": "https://yt3.googleusercontent.com/BYuwaS1j5zY8sz_-52kOS5T10e0LzxqQomcwSMsjWgGtNSdDL20SxY1ahBjV677TuJE2hjUU1A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ycUdmPzJ_Xoxq2iNyruiKxdg9bswk3txdlYpKC082dylUc6qdDwSE-1LOtkPvHhghunL0bReqXQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M1qFXxmFyFs", "title": "Build with Britt! Let's make a translator 🧰" },
+    { "id": "cojMRjNSluk", "title": "Build with Britt: AI Chatbot 🤖" },
+    { "id": "jfpnt8-sLwQ", "title": "Page Editor Panel Tour | Getting starter with PixieBrix" },
+    { "id": "J9W6lJgnwK0", "title": "🔍 Search and Highlight Words on Page!" },
+    { "id": "djcU1i_zhT0", "title": "Accelerating Ticket Responses with Decision Trees and Snippets" },
+    { "id": "PkZSK3_SwP0", "title": "New sidebar changes coming to PixieBrix" },
+    { "id": "DP4qaHOvhJI", "title": "Launch a decision tree with a Zendesk macro" },
+    { "id": "9MpOkH7y-WA", "title": "Create custom decision trees with PixieBrix" },
+    { "id": "KLccVM1NHcQ", "title": "Create your own notices and browser alerts with PixieBrix" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "gisafirst1",
+    "name": "기사퍼스트 권우석",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPIgZVI9PU7mNNxylhCPpfazsV2zzyBgxvs-b6Rzw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/APIVKczyjKKg-CJvKkCTU91FPzEhwpBY4_EFlSmdGw-0-IOsU19RUyb7MHgAsUQbMI0ngnoL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UUaJEcFXRk0", "title": "[정보처리산업기사 필기] 2024년 2회 대비 합격전략 및 원서접수 요령" },
+    { "id": "nzE0EHDd_zc", "title": "[정보처리기사 필기] 2024년 2회 대비 합격전략 및 원서접수 요령" },
+    { "id": "YibeiQnKRbk", "title": "[프로그래밍 언어] 버블 정렬" },
+    { "id": "jALpNOszBxQ", "title": "[프로그래밍 언어] 선택 정렬" },
+    { "id": "-2OWMRlWeGM", "title": "[프로그래밍 언어] 정보처리기사/산업기사 강의 소개" },
+    { "id": "Ux8g5WM_j3g", "title": "[프로그래밍 언어] 퀵 정렬" },
+    { "id": "7iDgz3TarWo", "title": "[프로그래밍 언어] 스택(Stack)" },
+    { "id": "E9G4uFLLano", "title": "[프로그래밍 언어] 소수의 합계" },
+    { "id": "L7-_T6IliK8", "title": "[정보처리기사 실기] 2023년 3회 기출문제 풀이" },
+    { "id": "JqcZxgsLzBI", "title": "[정보처리기능사 필기] 시험 소개 및 2주 합격법" },
+    { "id": "wDvFqruIrmQ", "title": "[정보처리기능사 실기] 2023년 4회 기출문제 풀이" },
+    { "id": "cqi64WZ2_lI", "title": "[기사퍼스트 X 성안당] 정보처리기사 필기 - 3주 합격법" },
+    { "id": "udToVvVmofg", "title": "[정보처리기능사 필기] PC 운영체제. Windows - 바로 가기 키, 클립보드, 휴지통" },
+    { "id": "puLGerjy-MU", "title": "[정보처리산업기사 실기] 2024년 1회 대비 기출 분석 및 합격전략" },
+    { "id": "_PMUc8bPAUo", "title": "정보처리기사 실기-2024년 1회 대비 기출분석 및 합격전략" },
+    { "id": "AunDOTgIVwg", "title": "[정보처리기능사 실기] 2023년 3회 기출문제 풀이" },
+    { "id": "K3o-U5TnWQU", "title": "grant #정보처리기사 #정보처리산업기사" },
+    { "id": "55fSoT0fFik", "title": "union all  #정보처리기사 #정보처리산업기사" },
+    { "id": "CDaPCC6DnUo", "title": "서브쿼리  #정보처리기사 #정보처리산업기사" },
+    { "id": "pgfuzp4wj-k", "title": "grant #정보처리기사 #정보처리산업기사" },
+    { "id": "qTuZ1tiUAAI", "title": "group by, having, count  #정보처리기사 #정보처리산업기사" },
+    { "id": "5qU8ugb43_I", "title": "between #정보처리기사 #정보처리산업기사" },
+    { "id": "fbpQjh5tKH4", "title": "division #정보처리기사 #정보처리산업기사" },
+    { "id": "4N8FzwJmhgE", "title": "데이터베이스 정의 암기법 #정보처리기사 #정보처리산업기사"  },
+    { "id": "Yf5TIQgEQP0", "title": "[정보처리기능사 실기] 2023년 1회 기출문제 풀이" },
+    { "id": "9-tcksS2Ct8", "title": "[정보처리산업기사 실기] 2023년 1회 기출문제 풀이" },
+    { "id": "ZEByTtRLOOg", "title": "[정보처리기능사 실기] 운영체제. UNIX(LINUX)" }, 
+    { "id": "FQ_hzWxxsKk", "title": "[정보처리기능사 실기] 운영체제. DOS" }
+  ]
+}

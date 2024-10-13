@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "ssaurel",
+    "name": "Sylvain Saurel",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZQCmw89FRqlrysMi_rzEnq9J05li_e0Dwzyb7jTWbs=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4p8UmGt3T5tJ-TcCU_k5WYMMdT2dj1hDenKolpFLo3T54jWmyvd02BAgmLXzaVwuDfeJgtsnHEc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0uSfTEq2JMo", "title": "Learn How to Create the Classic Snake Game With the Canvas API and the HTML5/JavaScript Duo" },
+    { "id": "LfrCWu5-I5A", "title": "Creating the Classical Pong Game in Python with a Tkinter UI" },
+    { "id": "bmEzq12pjC4", "title": "Learn How to Create an Interactive Map of India Using HTML5/JavaScript and SVG" },
+    { "id": "Zj4Y6Q2QzNU", "title": "Learn to use WebSockets on Android with OkHttp" }
+  ]
+}

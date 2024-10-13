@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "youngcademe",
+    "name": "영카데미",
+    "profile": "https://yt3.googleusercontent.com/-6fiCiUpF7xTTFX26Ajy_JWzQX0WSqsceLZ0RermqRSNwnR1-rLhkVqBul-uWUrEkJov3mzTYHY=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "YvrJCuz0JJ4", "title": "연봉협상, \"나\"의 가치 재대로 평가하기" },
+    { "id": "oDkJAKRof5c", "title": "개발자 구글링 하는방법 (꿀팁공개)" }
+  ]
+}

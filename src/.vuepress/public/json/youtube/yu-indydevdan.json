@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "indydevdan",
+    "name": "IndyDevDan",
+    "profile": "https://yt3.googleusercontent.com/tRTaWiEPa4eLVJgg3K0gO6orKleaIhxKcQBc4LryL_xczX5leDI5-6NEaD5xKEpwAQ_M7a747g=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qnQOmphk2bhRrXQzU0tV7GZL4gb77jjrrpwiZs4z3KKdP6pCemOjHe9wSuieaeGEy0lzplG-=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W6Z0U11nnhA", "title": "BEST Prompt Format: Markdown, XML, or Raw? CONFIRMED on Llama 3.1 & Promptfoo" },
+    { "id": "PoO7Zjsvx0k", "title": "Coding RELIABLE AI Agents: Legit Structured Outputs Use Cases (Strawberry Agent?)" },
+    { "id": "V9_RzjqCXP8", "title": "Cursor Composer: MULTI-FILE AI Coding for engineers that SHIP" },
+    { "id": "F0eOYrA6ggY", "title": "USEFUL Agentic Workflow: AUTO-Updating Blog with Claude 3.5 Sonnet" },
+    { "id": "1IK69XZZegU", "title": "AI Coding Devlog - Aider ON Sonnet 3.5 - CURATE your ELITE information DIET" },
+    { "id": "iww1O8WngUU", "title": "Fusion Chain: NEED the BEST Prompt Results at ANY COST? Watch this…" },
+    { "id": "0Z2BQPuUY50", "title": "GPT-4o mini Prompt Chain: Legit TRICK for DIRT CHEAP AI with SOTA Accuracy" },
+    { "id": "2vdVJPIMg6M", "title": "From Prompts to Products: Four KEY Pillars to MAX your GenAI OUTPUT" },
+    { "id": "4hSFcjspGOw", "title": "MASTER the Prompt: TOP 5 Elements for Reusable Prompts, AI Agents, Agentic Workflows" },
+    { "id": "UOcYsrnSNok", "title": "When to use Prompt Chains. DITCHING LangChain. ALL HAIL Claude 3.5 Sonnet" },
+    { "id": "sb9wSWeOPI4", "title": "ZERO Cost AI Agents: Are ELMs ready for your prompts? (Llama3, Ollama, Promptfoo, BUN)" },
+    { "id": "Ma0jPYj9hyc", "title": "The Javascript Ecosystem Killer: Using Bun, to Learn Bun (with AIDER)" }
+  ]
+}

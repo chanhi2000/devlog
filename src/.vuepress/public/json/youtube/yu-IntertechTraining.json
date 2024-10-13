@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "IntertechTraining",
+    "name": "Intertech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaROsxD9pW1oMpqv24_2eliREDEzU1sOY67_aehf=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/w3BD0LtLaugzijZ8NhrP-GcXdclfp3qNmY9mfTpesaDWojTQl9Lbwhnc5QcdaQgi4JHKfTp2=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sHIKvulxYh8", "title": "Creating Dynamic LINQ Statements with Expression Trees" }
+  ]
+}

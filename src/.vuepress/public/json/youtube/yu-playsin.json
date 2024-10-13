@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "playsin",
+    "name": "playsin플레이신",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lzBcU2QXRKszgiura3I5o6EG6b5FDdB9peouui1Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H-WHnfbBXVm-Aotlxb0PJpFPyXSMJKMviCa9M3FYAmKIFdVOlQ3UZeRf7HczAslpFz17PpXeHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wJ7pDio-DRE", "title": "M30 PRO C107 Robot vacuum cleaner review" },
+    { "id": "rr_BsjL4nQM", "title": "text-generation-webui" },
+    { "id": "zc10NUX3qoc", "title": "Create a BIOS Windows double-click shortcut" },
+    { "id": "WUlubbDPxuo", "title": "All computer fan speeds can be adjusted with one FanControl program." },
+    { "id": "XGfiuKOfEGc", "title": "Why does my wireless mouse disconnect? USB 3.0 signal interference" }
+  ]
+}

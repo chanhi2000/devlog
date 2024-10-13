@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "SavvyNik",
+    "name": "SavvyNik",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nqahihXkiFFRqJ6hIwkp1bJ4fADXDeHzeEqeMhbmQqyE8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BEDMm8HneJFYK77j0LN_NhvdGTh8-Eg73SC8mAeO_V28_XWxLTd8gDyyy7VIkTeFICqz4t1Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fo82duDZqnQ", "title": "The GNOME Desktop is Disabling X11.. and adding NEW Features." },
+    { "id": "mpP3_ewtrT4", "title": "Today is An Exciting Day - Charlie Reveals A Linux Project" },
+    { "id": "Zx5RtjH4rdk", "title": "Pop!_OS Cosmic Desktop: NEW Community Dev Being Added" },
+    { "id": "7GIZi7nlIe0", "title": "Linus Torvalds: Speaks on Hype and the Future of AI" },
+    { "id": "ErN5GVHVJ3M", "title": "Linus Torvalds: Speaks on XZ Hack in Linux and Trust in Open Source Dev" },
+    { "id": "x0vfRV_UZUo", "title": "Linux is taking over Twitch. Want to join?" },
+    { "id": "ZScsdPFEyzU", "title": "Pop!_OS Cosmic Desktop: NEW Linux Tools Being Added.." },
+    { "id": "Y60UdfglJYI", "title": "Windows Recall got Hacked.. After it Records Everything.." },
+    { "id": "0OYGXwaVhGc", "title": "3 Ways to Use YouTube on Linux" },
+    { "id": "41gA2rI0bL8", "title": "Linux Project Update... We Scared Charlie." },
+    { "id": "gv1oS-JG9Pg", "title": "The Blue Screen of Death is Coming to Linux.." },
+    { "id": "CjG724nsgm0", "title": "This Systemd tool Started Deleting User Files on Linux.." },
+    { "id": "n7aEcfDNULc", "title": "Ubuntu Server 24.04 LTS Install - (Bonus! Web Server Setup)" },
+    { "id": "s7Kf5L2cdSs", "title": "Red Hat is Creating a NEW type of Linux.. But why?!" },
+    { "id": "LbpZrRdcPCI", "title": "Neofetch Discontinued from Linux.. What Now?!" },
+    { "id": "4Adp6WhWUMU", "title": "Stay Anonymous with this FREE Linux Tool" },
+    { "id": "SZQ4xLoOqd4", "title": "Mozilla Firefox is Collecting User Search Data.." },
+    { "id": "qq-7X8zLP7g", "title": "How to Dual Boot Ubuntu 24.04 LTS and Windows 10 / 11" },
+    { "id": "2nEKLdkPjjs", "title": "A BIG WIN for Framework Laptops and the Right to Repair..." },
+    { "id": "-86J2lvHwqg", "title": "Pop!_OS Cosmic Desktop by System76: Alpha Incoming.." }
+  ],
+  "playlists": [
+
+  ]
+}

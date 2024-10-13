@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "EltonStoneman",
+    "name": "Elton Stoneman",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPQEvXSpHJAqW8TmVABvHpopVmyXCMzTMiZQm-zqQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xM_yXnb4StxauXeyq6UcKddpsCDmZnOlXTH1DP3Gh1OwADOLS5RAs1VzFKAvv7D6NdrAvFtX=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k0uwoQqHgDI", "title": "ECS-W1: We Need to Talk About Windows Containers" }, 
+    { "id": "_9SWydfySsQ", "title": "DIAMOL 18: Writing and managing application logs with Docker" }, 
+    { "id": "smLgvYWr9iQ", "title": "Docker 101  & Workshop" }, 
+    { "id": "KC4Ad1DS8xU", "title": "Docker Swarm Mode Walkthrough" }, 
+    { "id": "N7SG2wEyQtM", "title": "Windows Containers and Docker: 101" }
+  ]
+}
+
+
+

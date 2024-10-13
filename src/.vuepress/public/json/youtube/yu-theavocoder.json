@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "theavocoder",
+    "name": "Lydia Hallie",
+    "profile": "https://yt3.googleusercontent.com/Pc18ao-iNH1mYauhv529D8pBigyKIYb5KotORgWDv25qzhf1yhSxYDInmm-o32MqgIVB5bIZ=s72-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "eiC58R16hb8", "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue" },
+    { "id": "zdGfo6I1yrA", "title": "JavaScript Visualized - Execution Contexts" }
+  ],
+  "playlists": [
+
+  ]
+}

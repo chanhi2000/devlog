@@ -1,0 +1,11 @@
+{
+  "channel": {
+    "id": "DevOps4solutions",
+    "name": "DevOps4solutions",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaJWdlJiUVmsHAGeOT7KYUTHrbNF_UwypfKGhlecQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b5XuFQUeokwC9BjEfPxrPkiFP8Bagf-ShL4Yrrtq_rnKXXvHmWs7NtUkLGXP6Hm1OC351v4GIg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hawFHY9DOoA", "title": "Deploy Docker container in ECS using docker compose | AWS Fargate in ECS  using docker compose" }
+  ]
+}

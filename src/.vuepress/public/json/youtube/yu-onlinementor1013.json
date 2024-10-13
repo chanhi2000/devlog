@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "onlinementor1013",
+    "name": "Online Mentor",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKasVUTBpRNQysyVWrPcVbuHKwH4ShYKqfcJh3UK=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n8C5B4zNloAjcOAS5sdSEI2f7qTxbMukUy8XSOIz_xwj0u0vjyodI0IshImfZBSgEmnexYeAHA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "p1mgBDy6flA", "title": "Testimonial section using HTML and CSS" },
+    { "id": "2iCtJUesjAY", "title": "Responsive Pricing Table using HTML, and CSS" },
+    { "id": "3FbVUy1H83s", "title": "Landing Page Modern Design using HTML, and CSS" },
+    { "id": "ZZOlqX_772k", "title": "Personal Portfolio Website Design using HTML, CSS, JAVASCRIPT" }
+  ]
+}

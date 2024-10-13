@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TheBrowserCompany",
+    "name": "The Browser Company",
+    "profile": "https://yt3.googleusercontent.com/qSqmb9GaIyvWgVGFYGOJKIZ3SFHuUxeP9O5-4VkGReaIv4pYNkJiFPjAppvps0hyQ9JfUVBFQ5s=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2S1SaqFgmyEwBXFjsuZ868hp91ZFK55UykL88Xe559nEfpNk4n7Biv0B6WUAwIH8Ap3qlCzTGg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "y3FpsSDIbJ8", "title": "What if Arc browser can't build reliable AI? | Ep 2" },
+    { "id": "3ctHrOz1uY0", "title": "Arc Everywhere | Set up Arc Sync across iOS, Windows, and Mac" },
+    { "id": "OfvkfnAQ3JQ", "title": "Arc on Windows is here. Now what..." },
+    { "id": "pfMoRPVtPLg", "title": "We added your top requests to our new mobile browser, Arc Search" },
+    { "id": "IjsP9DOCYy0", "title": "Be the first to beta test Arc browser on Windows?" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "SpeedTutor",
+    "name": "SpeedTutor",
+    "profile": "https://yt3.googleusercontent.com/UgMR4MIWVR43YrKb0yuFw1D6vYTIZqHS8bm8emNv0Kr6FxTLGrpRjngNhSKdU4hNQugez8fNaQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2ALEvQh8t7Wwq94F3kzsFvf27L6wNcE5bL1Hvu0J_imcgmIHk2NcFWKlZNLBZwYRIZR-PNFv=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LELI1SbekGw", "title": "85+ AWESOME FREE Unity Assets (July 2024 - Asset Store)" },
+    { "id": "Si6yFr_sw7A", "title": "FREE Toon Assets In Unity URP (Shaders, Water & More)" },
+    { "id": "T02AUVCf2R4", "title": "FREE Unity EDITOR Tools To Change Your LIFE (Best Editor Extensions 2024)" },
+    { "id": "MUYOy6hgE1I", "title": "75+ FREE Unity Assets - February 2024 | Unity Asset Store" },
+    { "id": "GIAhE_oyQv0", "title": "DOUBLE-SIDED Materials in Unity (Tutorial -- Built-in/URP/HDRP)" },
+    { "id": "hweptxjNgV0", "title": "Fade UI & Scene Transitions In Unity (Coroutines & Canvas Groups)" },
+    { "id": "Cmx76-Q11tM", "title": "Countdown Timers In Unity 2024 (Coroutines Tutorial)" },
+    { "id": "rYR08Frg624", "title": "FREE Tutorial Scene - Unity 2020" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "kuzemkon",
+    "name": "Yurii Kuzemko",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqOS70zdYsJd3cElAS5o40-z_-uQUgFa-kc3LcZ7Qw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kafkbuwBGdp-esyy_E6C0kcqy7QWpwz_bkAHUfDaQCRPqjNCFCjyW84m7_8jna3Jo38YP1NV7vQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "h4I-wL-7nCA", "title": "Top Mistakes Every Startup Makes When Getting Started" },
+    { "id": "YN6zR-BBptU", "title": "How To Find A Successful Startup Idea" },
+    { "id": "kZPizHnAcJM", "title": "Here's why you shouldn't build an MVP" },
+    { "id": "FWExQHfaVU8", "title": "How to Determine the Essential Features of Your MVP?" },
+    { "id": "gXBA427hUCc", "title": "What Makes Top 1% Startups Stand Out?" },
+    { "id": "NMmDR0MMnHE", "title": "AWS ECS Fargate Tutorial" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "NickWhite",
+    "name": "Nick White",
+    "profile": "https://yt3.googleusercontent.com/MWCIzDNJJrk7mU5kV2V9EnyaKXVPn5en7uyX589c2Bu1iizhHY4h1ih02JZJ1cv8KCM8uY8g4OQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1URYTYTSLnp0nmJuUPlOS0Z9ZZjkiIUYzm8jAQuaPIlAeou6RAlUjQnznqjg2VXptAgSRq3KPx8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YsCHobUSaLw", "title": "Coding Is Changing...Here Is What You NEED To Know" },
+    { "id": "hBctYEroGA0", "title": "The Coding Challenge That Will Change Your Life | Code 30 Developer Challenge" }
+  ]
+}

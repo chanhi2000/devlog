@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Myonlineedudotcom",
+    "name": "MyOnlineEdu.com",
+    "profile": "https://yt3.googleusercontent.com/ytc/AOPolaRvtBO6fz51uKdBCobzIzx1kDXqbe-RVlIbGZxVjw=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eGeJomK8M8qROb75tAn2zb03H-5PcnpT7zobDa57tjffKdkTb9k5tRJQaYD6qIHBNXT3YnD3RQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Fr4pPlZnbFI", "title": "Oracle Database 11g XE (Express Edition) Install guide and connect with SQL Developer" },
+    { "id": "W7BvS942UZA", "title": "How to Install Docker on Ubuntu 18.04 LTS" }
+  ]
+}

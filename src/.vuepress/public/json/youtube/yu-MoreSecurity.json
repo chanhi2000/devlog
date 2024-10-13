@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "MoreSecurity",
+    "name": "삼평동연구소",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYasyxoR-frf9pjpmVdOA2zrQ-1rRUC6f6-c5E=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_506EolTT6pExKddLmB40eZiLomFewduHUd7fMVZyFza7wp8gWadwBY4xcgPzcLXmjaSVu71=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "u6GcdkAR4Mo", "title": "OO을 해야 잘하는 개발자다! #주니어개발자 성장기" },
+    { "id": "PwRnJBkUn2g", "title": "코드리뷰로 이렇게 달라졌습니다! #주니어개발자 성장기" },
+    { "id": "ixPA01TXsLg", "title": "악성코드 분석가는 어떤 일을 할까?" }
+  ]
+}

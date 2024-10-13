@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "techTFQ",
+    "name": "techTFQ",
+    "profile": "https://yt3.googleusercontent.com/68QpkOCRQespfOQ5yZwhCrM6Ab0kipqOU16JwAAhDm9f8I0CfPzMW-qpzdYJmn0TQ-UBd862=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LaZx2u_FL3Iou2koctdHthMp7Xbx8Io7_7qC2ow_hIIgtoITh7uahbjZ7FUFcAxsWvYN90Z5LA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FNYdBLwZ6cE", "title": "Learn how to write SQL Queries(Practice Complex SQL Queries)" },
+    { "id": "F-gETvj-oN0", "title": "Solving SQL Interview Problem - 17 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "Oz8uzN_7MuM", "title": "Solving SQL Interview Problem - 18 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "FJkIf4OmWFI", "title": "Solving SQL Interview Problem - 19 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "kJc1aK00vwg", "title": "Solving SQL Interview Problem - 20 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "cpelgvGwHcA", "title": "Solving SQL Interview Problem - 21 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "-23QiFuwt4k", "title": "Solving SQL Interview Query - 23 | Practice Solving SQL Queries | #30DaySQLQueryChallenge" },
+    { "id": "L0Gj14qUWUY", "title": "REGEX in SQL | Solving SQL Interview Query - 24 | #30DaySQLQueryChallenge" },
+    { "id": "vyTMJhHyEtg", "title": "Data Analyst SQL Problem | Solving SQL Interview Query - 25 | #30DaySQLQueryChallenge" },
+    { "id": "WumXyCh8U4g", "title": "Solving a BASIC SQL Interview Problem - 26 | #30DaySQLQueryChallenge" },
+    { "id": "kLSWP5zJAN8", "title": "Solving a Complex SQL Interview Problem - 27 | #30DaySQLQueryChallenge" },
+    { "id": "cXpIWgBW1mU", "title": "SPLIT & JOIN - SQL Interview Problem - 28 | #30DaySQLQueryChallenge" },
+    { "id": "r2QbEueaFR8", "title": "Student Result Generator SQL Interview Query - 30 | #30DaySQLQueryChallenge" },
+    { "id": "cdTzo1eZZ50", "title": "Solving an INTERMEDIATE SQL Interview Query - 29 | #30DaySQLQueryChallenge" }
+  ],
+  "playlists": []
+}

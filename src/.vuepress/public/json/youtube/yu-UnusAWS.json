@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "UnusAWS",
+    "name": "Unus AWS",
+    "profile": "https://yt3.googleusercontent.com/zcUoz7vSeZaYVuV35SreHW7merA-fwceSaM6PaLQIFpW4ADB3c7oPrrr8qvpz_PvqrQfAEnM-Yo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xI0r1L-nShmWEAgLE5ZDWm0YZXSXhJ1na8Q43k0DwTEWj2CrjKAMwZDgga7S4Ombtj_dzlRD8vo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "14tPzAliGAQ", "title": "AWS DevOps: Use AWS CodeBuild with Jenkins" },
+    { "id": "jvwfVOeL-Js", "title": "Migrate GitHb Repo to CodeCommit - 5 minute guide" },
+    { "id": "0jUAuICrYQo", "title": "CodePipeline Definitions file - Download and Use it to recreate the code pipeline" },
+    { "id": "qpVpQOREcIQ", "title": "NoSQL WorkBench for DynamoDB" },
+    { "id": "SXz02OOqR4E", "title": "Terraform for AWS Infra Management - Beginners HandsOn" },
+    { "id": "00azZJc0Ugw", "title": "AWS Step Functions Hands On" },
+    { "id": "l-CDfztF6cM", "title": "Jenkinsfile: Setup end to end CICD Pipeline" },
+    { "id": "6_W7ge_T7as", "title": "Jenkins CICD project using Jenkins agent server" },
+    { "id": "wFmBqWgm0Ic", "title": "Whats DevOps?   DevOps basics for absolute beginners" },
+    { "id": "CinlrupM1yA", "title": "Deploy WordPress on EC2 using CodeDeploy tool" },
+    { "id": "aa3972r1-cM", "title": "AWS DevOps CICD - CodePipeline triggered by Git tag" },
+    { "id": "RLBi6L7cf9U", "title": "CodePipeline with CodeCommit as Source Repository" },
+    { "id": "dNYGxEhMFHA", "title": "How to setup AWS CLI and configure your credentials on an EC2." },
+    { "id": "Lj996FHJy0w", "title": "S3 DeleteMarker - How it works" },
+    { "id": "c-qn2TroMXo", "title": "AWS Glue Data Catalog Creation for a JSON file - Hands on practice" },
+    { "id": "q9cgA5nl2xg", "title": "Implement CI/CD Pipeline with Jenkins" },
+    { "id": "9lUHp8ypEb0", "title": "Jenkinsfile - CICD Pipeline as code - Basic Handson Exercise" },
+    { "id": "SqiZycUq8qA", "title": "How to prepare for AWS Data Analytics Certification in 3 Weeks" },
+    { "id": "zaJ2r8p3Mko", "title": "How to set up AWS CodePipeline for a simple Continuous Deployment (CD) use case" },
+    { "id": "QnHUtt_f9LM", "title": "AWS CodeBuild and CodeDeploy HandsOn Exercise" },
+    { "id": "le2PSjdRys0", "title": "Kubernetes Basics" },
+    { "id": "Z24OOGcYsgQ", "title": "The Power of AWS CloudFront: How Amazon Prime Video Delivers High-Quality Streaming" },
+    { "id": "wyad99QMKtc", "title": "Kubernetes: How to deploy a Simple Game App into Amazon EKS in 10 minutes" }
+  ]
+}

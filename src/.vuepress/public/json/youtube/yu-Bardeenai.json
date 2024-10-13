@@ -1,0 +1,12 @@
+{
+  "channel": {
+    "id": "Bardeenai",
+    "name": "Bardeen",
+    "profile": "https://yt3.googleusercontent.com/DCDl3y05jGTlLXCJBsuiF9dbEdxQCcDQ03PZNQOel4aIZqimKJKKhgOMNSXzoycOfLfp_jfBSg=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/reAQZfZgm1e5p4mYgahL8kIJ3548csyCWQMJGCzQvYUJZ3DVStRZ8fr3fIKvj1UGzG3s0jdZ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WcjbUlbnLHU", "title": "Bardeen 2.0: Proactive Workflow Automation" },
+    { "id": "QR_KXm36_oQ", "title": "Transfer tasks to Notion from Jira, Asana, GitHub, Trello" }
+  ]
+}

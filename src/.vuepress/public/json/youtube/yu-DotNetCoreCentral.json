@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "DotNetCoreCentral",
+    "name": "DotNet Core Central",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMo3I4osoacjdyZaNo7wnU6989HVCiydnLdk1bm=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YNgJANWbWwoVAP4YE1uxdjcNHYGRDJdtoXEIu6rI0VGCicDQR7KybPo8atw582jXR9-izcf0dQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5Zd2kBlqY8s", "title": "Use CsvHelper for writing and reading CSV files" },
+    { "id": "-ijPI53-mdA", "title": "An introduction to FusionCache [.NET 8]" },
+    { "id": "CRB954Tq6t8", "title": "Generic WebSocket Client for .NET (.NET 8/C# 12)" },
+    { "id": "-ydw_uNQPZI", "title": "Lambda default parameter in C# 12/.NET 8" },
+    { "id": "sjHJfk4bRa0", "title": "NSubstitute Mocking framework for .NET [C#]" },
+    { "id": "5iCUqNS9OdI", "title": "How to benchmark a .NET application using BenchmarkDotNet" }, 
+    { "id": "H_Jd7nss3e8", "title": "Create proper request/response contract for Swagger" }, 
+    { "id": "SzIAGR2oL9Q", "title": "An Introduction to Amazon SNS with AWS Lambda (Using .NET Core and C#)" }, 
+    { "id": "QF1GHqkiiIQ", "title": "Debugging and Dependency Injection for Blazor WebAssembly (.NET 5.0)" }, 
+    { "id": "Cm2psU-zN90", "title": "RabbitMQ Direct Exchange producer/consumer (Part 2, RabbitMQ in .NET Core)" }, 
+    { "id": "vWkPdurauaA", "title": "ASP.NET Core Authentication with JWT  (JSON Web Token)" } 
+  ]
+}

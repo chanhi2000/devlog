@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "envatotuts",
+    "name": "Envato Tuts+",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mQD0nrMb214bZ-KngdaVc38Qf7lwv1Q00_02NwbApJq2A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VRon2pB8h3YZsHXZ3ZcwvjR2DaLROM7muX_tEAtEcTTHaU3_SXQuayZoxJd9zRDeruVv0SBBeQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LL7Yl7XqPsI", "title": "Webflow Animation and Interactions | Motion Design Tutorial" },
+    { "id": "stX0simAgVk", "title": "Affinity Designer for Beginners | FREE COURSE" },
+    { "id": "Nesm2FTWo9s", "title": "Getting Started With Lottie Animation | Lottiefiles" },
+    { "id": "Aa5TDrbnp7w", "title": "Recreate the Baldur’s Gate 3 Logo in Photoshop | Text Effect Tutorial" },
+    { "id": "c0sS2cAvbGs", "title": "How to Create a Blog With Webflow" },
+    { "id": "WofZ3OZpWXA", "title": "Procreate Dreams for Beginners | FREE COURSE" },
+    { "id": "L5p9iX8wKos", "title": "Figma Dev Mode Rocks 🤘 Full Tutorial" },
+    { "id": "Dhzwc7qL9cM", "title": "Animate an Illustration in After Effects | FULL WORKFLOW" },
+    { "id": "sjKdsHnid9k", "title": "How to Draw the Ghostbusters Logo | Illustrator Tutorial" },
+    { "id": "wwQxCc5lFMQ", "title": "Figma Multi-Edit (Awesome New Feature!) | Tutorial" },
+    { "id": "tdH12OyJNtA", "title": "How to Create Your Own Central Perk Logo in Illustrator" },
+    { "id": "gyQyk80_upM", "title": "Node.js Tutorial for Beginners | CRASH COURSE" },
+    { "id": "TrkiAsCJPJo", "title": "What Makes a Great Movie Logo?" },
+    { "id": "2hAtdfX4Ma0", "title": "Adobe vs Affinity | The Ultimate Guide" },
+    { "id": "-afMM8ykemw", "title": "I Recreated the NASA Home Page With WordPress Blocks IN 30 MINS!" },
+    { "id": "Oy3OR9zW9iQ", "title": "Common UI Design Mistakes: Dansky #shorts" },
+    { "id": "zbVrPZeXZc0", "title": "Figma Tutorial | Beginners' Quick Start Guide" },
+    { "id": "FYf2zf77Y7c", "title": "Adobe Hacks You Need to Know | From the Creators' Den" },
+    { "id": "5jmW9XZ5ae4", "title": "ASMR Coding | Build a CSS Landing Page | No Talking" },
+    { "id": "k8_560Nz37A", "title": "9 Cuts Every Video Editor Needs to Know" },
+    { "id": "Vgte7oCgNtU", "title": "How to Customize a Resume Template for Freelancers" },
+    { "id": "vqXLGX0szIQ", "title": "Motion Design for the Web | FREE COURSE" },
+    { "id": "V8yu12uRpBA", "title": "What Fonts Are Trending Now and Font Trends for 2024" },
+    { "id": "iM13ZS5p0AI", "title": "How to Make Your Resume Fit on a Single Page" }, 
+    { "id": "jc_WW22OLJ4", "title": "Create a Better Presentation With AI Tools" },
+    { "id": "GQS7wPujL2k", "title": "Graphic Design Basics | FREE COURSE" },
+    { "id": "3CRCx8zJdDE", "title": "How to Add a Math Equation in Google Slides" },
+    { "id": "ktyWSNjd4so", "title": "Text Animation in After Effects | Motion Design Tutorial" },
+    { "id": "de8OuSa8ujk", "title": "How to Add GIFs to Google Slides" },
+    { "id": "JWhRMyyF7nc", "title": "Learn Angular A-Z: Complete Tutorial for Beginners" },
+    { "id": "Gv6Y0Qj9Hu0", "title": "How to Use ChatGPT Prompts to Write a Resume" },
+    { "id": "O0XHaN1-5eo", "title": "Learn PHP for WordPress | FREE COURSE" }, 
+    { "id": "cvIQXclKUUs", "title": "How to List Professional Skills on Your Resume" }, 
+    { "id": "3kSUYDkSp88", "title": "15 Tips & Tricks All Illustrator Users Should Know" }, 
+    { "id": "WmZErT_G0wQ", "title": "How to Write a PowerPoint Presentation" }, 
+    { "id": "h8SpwivM4po", "title": "Write Code With GitHub Copilot... and Why It's Better Than ChatGPT" }, 
+    { "id": "EwUj2w38awA", "title": "Customize & Insert a PowerPoint Calendar" }, 
+    { "id": "Xk12JtYG8rw", "title": "Creating a Dark Mode Switcher With CSS and JavaScript" }, 
+    { "id": "uvU_Bv3XDGc", "title": "How to Build a Reading Progress Bar With CSS and JavaScript" }, 
+    { "id": "7H22tXPmIWI", "title": "How to Create an Instagram Story Template in After Effects" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "fitcevents",
+    "name": "fitcevents",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_knQZGpvYa17nSBJVQ4-wvWCMdVmstsT8VMraNiUQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-lOxICzeRNg5hACuRM_UdutYJndEv0r9dWbb6xC84Ey2vT4D7fnwi608OEhYZ5-6PxdII26bPGE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Gk8LfR8ErVE", "title": "Navigating The Future Of Creativity In The Age Of AI" },
+    { "id": "7-h-lKOK5b8", "title": "AI And Coding: Hyper Or Reality? with Wes Bos" },
+    { "id": "QI8SXUfMbGI", "title": "The Composable Web: Crafting Future-Proof Digital Experiences with Bermon Painter" },
+    { "id": "K7KHwGuBYaQ", "title": "The Ethics Of Generative AI: A Humanist’s Guide" }
+  ]
+}

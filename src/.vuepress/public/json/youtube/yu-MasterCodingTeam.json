@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "MasterCodingTeam",
+    "name": "Master Coding",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMYt2pTgYHDlk8wVgDHBJn_mDHnJ0zCRxS_TcWldQ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SmDt0lnsptnVrAPhH5I7m2Au9maCIDmkt6_N1INi8qYolDtqCdl-7iHlHkY6TTrl72IXSvMTTdI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bCxTRJJRXpk", "title": "Linear Layout App - Learn Android from Zero #20" },
+    { "id": "kQLNIvbdJOI", "title": "Relative Layout App - Learn Android from Zero #21 #androidstudio" },
+    { "id": "w-3oRehgMrw", "title": "Constraint Layout App - Learn Android from Zero #22 #androidstudio" },
+    { "id": "tK0wC9hHVr0", "title": "Activity Life Cycle in Android - Learn Android from Zero #24 #androidstudio" },
+    { "id": "AhMNX77Zh6o", "title": "Intents in Android - Learn Android from Zero #25 #androidstudio" },
+    { "id": "mPHaRtBq9tw", "title": "Explicit Intents in Android - Learn Android from Zero #26 #androidstudio" },
+    { "id": "pnDiZZC3114", "title": "Implicit Intents in Android - Learn Android from Zero #27 #androidstudio" },
+    { "id": "K77mJ3kx1bw", "title": "The Manifest in Android - Learn Android from Zero #28 #androidstudio" },
+    { "id": "E1LS3qRwCcY", "title": "Gradle in Android - Learn Android from Zero #29 #androidstudio" },
+    { "id": "E1LS3qRwCcY", "title": "Gradle in Android - Learn Android from Zero #29 #androidstudio" },
+    { "id": "chyp_Dv-8Wg", "title": "Building Unit Converter App - Learn Android from Zero #16" },
+    { "id": "4uX8uDcV9mQ", "title": "What are Layouts? - Learn Android from Zero #17" },
+    { "id": "wKaJlRoaqKk", "title": "Types of Layouts - Learn Android from Zero #18" },
+    { "id": "07UyI69gNx8", "title": "Android Linear Layout - Learn Android from Zero #19" },
+    { "id": "C9RgqZa6ULU", "title": "EditText in Android - Learn Android from Zero #11" },
+    { "id": "-itcqN4hkbA", "title": "Buttons in Android - Learn Android from Zero #12" },
+    { "id": "rGH4HB-gF9A", "title": "ImageView in Android - Learn Android from Zero #13" },
+    { "id": "kUAWYDMPNco", "title": "Building The Greeting App - Learn Android From Zero #14" },
+    { "id": "mkNgNm40afo", "title": "The Counter App - Learn Android From Zero #15" },
+    { "id": "BOiVcvJZ2vs", "title": "Android Studio Project Structure - Learn Android from Zero #7" },
+    { "id": "GxcBv12lxp8", "title": "View & View Group in Android - Learn Android from Zero #8" },
+    { "id": "dsfiD8exvkg", "title": "Views Attributes - Learn Android from Zero #9" },
+    { "id": "e0ybX48Awew", "title": "TextView in Android - Learn Android from Zero #10" },
+    { "id": "3Y3kClydwJk", "title": "Creating Hello World App in Android Studio - Learn Android from Zero #3" },
+    { "id": "D3Mg4fugixQ", "title": "Android Emulators [Android Virtual Devices] - Learn Android from Zero #2" },
+    { "id": "kwXKot5nKrw", "title": "Android Studio User Interface - Learn Android from Zero #4" },
+    { "id": "iks6w5iVfdo", "title": "Android Studio Code Editor - Learn Android from Zero #5" },
+    { "id": "KYS_Ob019pI", "title": "Android Studio Layout Editor - Learn Android from Zero #6" },
+    { "id": "dLvtub8UjHQ", "title": "Learn Basic Java for Android Development - Learn Java from Scratch" },
+    { "id": "tdljxEk1H2s", "title": "Android Studio Layout Editor - Learn Android #7" },
+    { "id": "_mGR04bi03A", "title": "Creating Emulators in Android - Learn Android with Java #2" },
+    { "id": "KncS-2bg1JM", "title": "🚀 Mastering Jetpack Compose Course - Building Dynamic User Interfaces" },
+    { "id": "bbc4RAOiP1A", "title": "Creating The Welcome App in Android - Mastering Android #11" }, 
+    { "id": "SZAElsz1_zM", "title": "The Secrets behind Adapters in Android - Mastering Android Course #40" }, 
+    { "id": "m_33xFtbta4", "title": "Creating PDF Reader App - Mastering Android Course #39" }, 
+    { "id": "WK6u4QYTKJM", "title": "Custom Progress Bar in Android Studio - Mastering Android Course #35" }
+  ],
+  "playlists": [
+
+  ]
+}

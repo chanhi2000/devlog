@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "tech_craft",
+    "name": "Tech Craft",
+    "profile": "https://yt3.googleusercontent.com/_RyTDDvXaOJ9Pw7w4IWhrK_RQMHXcsddTNbsWQX3erfTCx2m0nDi_YfCxlRdR1-Wod1trrhHLg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D_Xn6rbAwdSVCkGSXx1As2aVEkXcRcZoPpvHqyRu1aMeGoOMNnT22sP44uP1TzO40nyahdVPWA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yKjpUCCyHu8", "title": "My FAVORITE Font for Coding & Terminal Use" }
+  ],
+  "playlists": [
+    {
+      "title": "Linux",
+      "videos": [
+        { "id": "szehPBOwqlI", "title": "6 AWESOME Command Line Tools For MAC And LINUX" },
+        { "id": "fJOkuaihAek", "title": "My FAVORITE File Manager - Complete Midnight Commander Tutorial" },
+        { "id": "3UPaI4Hp66Y", "title": "Raspberry Pi iPad Pro Setup Simplified" },
+        { "id": "8LcTA5m6_ts", "title": "Inside my iPad SSH Setup" },
+        { "id": "B-1wGwvUwm8", "title": "Inside my iPad Pro SSH Setup - TMUX" },
+        { "id": "yu--0E0uXZE", "title": "Kali Linux on iPad with Raspberry Pi 4" },
+        { "id": "jKv3mlsM7Qo", "title": "Khadas VIM4 - Powerful Mobile Setup with iPad Pro" },
+        { "id": "gbVNQHSpKeI", "title": "6 AWESOME CLI Tools for Mac & Linux Performance Testing (2022)" },
+        { "id": "PSx-BkMOPF4", "title": "Syncthing Made EASY" },
+        { "id": "e_EfmKdP2ng", "title": "Pi-hole Made EASY - A Complete Tutorial" },
+        { "id": "yKjpUCCyHu8", "title": "My FAVORITE Font for Coding & Terminal Use" }
+      ]
+    }
+  ]
+}

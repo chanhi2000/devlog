@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "explosoratory",
+    "name": "설명하는개발자",
+    "profile": "https://yt3.googleusercontent.com/m-syp7pmF7-9W_BsV6kfjTuSaC5ZcQXOUKJ6LGSLWUMa0g74-DkIxSewXMr1Hz0ZqESxCjUM3A=s176-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Gus0qZk7I8k", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (4강 -파이어베이스 연결)" },
+    { "id": "1WmnDEhli8c", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (3강 -사용자정보읽기)" },
+    { "id": "tePvG3pZ8Ls", "title": "[ FLUTTER  10분 ]  20분만에 채팅앱 완성 (+구글로그인)" },
+    { "id": "_NdQfppUD1Q", "title": "[ FLUTTER  10분 ]  20분만에 채팅앱 설명 (+구글로그인)" },
+    { "id": "B2mvQpLT6Hs", "title": "[ FLUTTER  10분 ]  20분만에 할일앱 완성" },
+    { "id": "FgMdF5Zr_r8", "title": "[ FLUTTER  10분 ]  20분만에 할일앱 완성 (화질 업데이트)" },
+    { "id": "0xYY4ou15PE", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (1강 - IOS)" },
+    { "id": "MeJoG53LE5o", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (2강 - 안드로이드)" },
+    { "id": "mPgqLvUVino", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기" },
+    { "id": "zS3qdBvt1l4", "title": "[ FLUTTER  10분 ] 구글 애드몹 광고 넣기 2" },
+    { "id": "BQ7iXKLqgHQ", "title": "[ FLUTTER  10분 ] 카카오 Login 연동하기 (ios , 안드로이드 테스트)" },
+    { "id": "HZnuhshghuA", "title": "[ FLUTTER  10분 ] 카카오 Login 파이어베이스 연동하기 (openID사용)" },
+    { "id": "Q7s0ZPtpUrk", "title": "[ FLUTTER  5분 ]플러터 아이콘 설정" },
+    { "id": "2r7f5u5gOtA", "title": "[ FLUTTER  설명 ] 안드로이드 구글 플레이 콘솔 분석" },
+    { "id": "gu8dvIFC0aQ", "title": "[ FLUTTER  10분 ] 앱출시하기 안드로이드 (3/3)" }
+  ],
+  "playlists": [
+    {
+      "title": "플러터 실전 앱 만들기",
+      "videos": [
+        { "id": "N1AsFWwu8YI", "title": "[ FLUTTER  10분 ] 앱출시하기 (1/3)" },
+        { "id": "NENjzLYu62Q", "title": "[ FLUTTER  10분 ] 플러터 페이스북 로그인 2" },
+        { "id": "lAftYoDcAQA", "title": "[ FLUTTER  10분 ] 플러터 페이스북 로그인 1" },
+        { "id": "LkhXmMxrj6s", "title": "[ FLUTTER  10분 ] 플러터 설치하기" },
+        { "id": "DuRWtNw4tNg", "title": "[ FLUTTER  10분 ] 파이어베이스 익명로그인 & 로그아웃" },
+        { "id": "XMtEKB7EcNo", "title": "[ FLUTTER  10분 ] Apple Login 연동하기 (ios , 안드로이드 테스트)" },
+        { "id": "DT28RjuJCRc", "title": "[ FLUTTER  10분 ] Google Login 연동하기 (ios , 안드로이드 테스트)" },
+        { "id": "VOK5aJYzLf0", "title": "[ FLUTTER  10분 ] Flutter Firebase 파이어베이스 (실시간데이터) 사용하기" },
+        { "id": "OyuHGf3JEgw", "title": "[ FLUTTER  10분 ] Flutter Firebase 파이어베이스 (실시간데이터) 추가하기" },
+        { "id": "JWVC0YENR-0", "title": "[ FLUTTER  10분 ] Flutter Grid View 그리드 추가하기" },
+        { "id": "fMaEzm8PRHA", "title": "[ FLUTTER  10분 ] Flutter Google Api 추가하기" },
+        { "id": "rhPEiuNFiwo", "title": "[ FLUTTER  10분 ] Flutter Bottom 내비게이션 사용하기" },
+        { "id": "ZX6bU46Zk5c", "title": "[ FLUTTER  10분 ] Flutter 이미지 슬라이더 사용하기" },
+        { "id": "lI_mtKv_TMs", "title": "[ FLUTTER  10분 ] 앱출시하기 IOS (2/3)" },
+        { "id": "gu8dvIFC0aQ", "title": "[ FLUTTER  10분 ] 앱출시하기 안드로이드 (3/3)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ThatProject",
+    "name": "That Project",
+    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqPBe0rvO56krr9tKqTwK5321jC8_oHcJKnvUhhh=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rVw7-4D0OIAW9TiatMzRGuSKN9sEAaMsoXLJjJBSgEJoF5x98BC_pq35DtL89fdcfoff8Va_5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "X3x3krDiStI", "title": "Raspberry Pi 5 + AI camera + 3.5”Display = AI Camera All-in-One System #ArduCam #PiNSIGHT #DepthAI" },
+    { "id": "ogXSDtYLQ7M", "title": "[Ep. 04] Creating Interactive UI/UX Screens with LVGL 9 on ESP32: Implementing On-Screen Keyboard" },
+    { "id": "YCTbiHk1MHM", "title": "[Ep. 05] Custom fonts are essential in GUI! #Font #LVGL #GUI" },
+    { "id": "NlU4DTx7_1k", "title": "LVGL 9 Examples, [Ep. 02] We can understand better and faster through LVGL Examples #LVGL #UI" },
+    { "id": "PdpRFgsxTwg", "title": "LVGL 9, [Ep. 03] Creating Stunning UI on ESP32 with LVGL: A Step-by-Step Guide #LVGL #UI #ESP32" },
+    { "id": "lJsi2XrTV8w", "title": "e-Paper Calendar to manage family scheduling #ESP32 #EPDiy #ED097TC2" },
+    { "id": "33Vnp6Jhn88", "title": "[Dev Environment Setup] ESP-IDF & Visual Studio Code for ESP32 Programming on MAC" }, 
+    { "id": "IuvEtq73gyE", "title": "[Arduino Library] OpenAI's API for ChatGPT" } 
+  ]
+}
+
+

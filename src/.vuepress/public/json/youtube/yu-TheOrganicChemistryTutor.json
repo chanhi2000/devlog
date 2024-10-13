@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "TheOrganicChemistryTutor",
+    "name": "The Organic Chemistry Tutor",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKZPk56qMdJrXKAnarx2GwJyfqgA47ewsM-Q6E13Rg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XI8FwfqFIK9FnWNlU1Z43X97SbpjMZwlAFcqGuj1kUoceXiP7CeyJutrQhZUusKIMlQYn18ZDcs=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tzBIyIKLtWE", "title": "Logarithms - Formulas" },
+    { "id": "cj8tCDRpUg8", "title": "Linear Equations - The Intercept Form - Algebra" },
+    { "id": "kBSj35rik8w", "title": "How To Find The Sum and Product of the Roots of a Quadratic Equation - Algebra" },
+    { "id": "rPVvvDNn_Uw", "title": "How To Convert Between Exponential Form and Radical Form - Algebra" },
+    { "id": "BpS6mO4V2wc", "title": "Factoring Algebraic Expressions With Rational Exponents - Algebra" },
+    { "id": "tX-Y0BRaXK4", "title": "How To Divide Numbers In Your Head - Math For Beginners" },
+    { "id": "2qYL_m7UeJc", "title": "How To Solve Composite Radical Equations With Internal Square Roots - Algebra" },
+    { "id": "wgygbIljbwI", "title": "How To Find The Area of Composite Figures With Triangles - Math" },
+    { "id": "ejEUnxyaFcU", "title": "How To Find The Area of Composite Figures With SemiCircles - Prealgebra" },
+    { "id": "Sck2_kJ9cCQ", "title": "Growth Factor, Decay Factor, Growth Rate, and Rate of Decay - Precalculus" },
+    { "id": "5wIiOFnXSYs", "title": "How To Calculate The Correlation Coefficient Using The Covariance Formula - College Statistics" },
+    { "id": "uX8KkBI3RuM", "title": "Inertia of a Hollow Cylinder Formula Derivation - College Physics and Calculus" },
+    { "id": "yfykYXdAUNY", "title": "Voltage Multipliers - Half Wave Voltage Doubler Circuit" },
+    { "id": "e2QxsIyPjVI", "title": "Potential Energy and Conservative Forces - Gradient Vectors | Physics | Calculus" }
+  ]
+}

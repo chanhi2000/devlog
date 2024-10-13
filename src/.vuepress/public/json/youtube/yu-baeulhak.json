@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "baeulhak",
+    "name": "배울학",
+    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKYAQONEqzNZcPYj9JnaTB5Iw6Yeop2gn-GTmOno=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1fr20nUuwu-Rcy4ErpGomz2JpjgDJKcNkZW-w7ouhkhjl9QvVbjji6PFwkRKtEZv_Jg_3RyeZ9o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GxVfBO8PWMY", "title": "[전기기사 합격수기★] 전기기사 인강ㅣ자투리 시간을 최대한 확보하여 하루 3시간씩 꾸준히 공부했습니다.- 권*욱님 인터뷰" },
+    { "id": "99kbSs98xQE", "title": "[소방설비기사 전기 합격수기★] 이해가 덜 가더라도 일단 강의를 3회독하면 저절로 알게됩니다. - 이*섭님 인터뷰" },
+    { "id": "BazuuFWUTD4", "title": "[소방설비기사 전기] 2022년 4회 실기 기출 풀이 2 - 김상현 기술사" },
+    { "id": "1zxMpFJZZQk", "title": "[빅데이터분석기사 추천강의] 실기 빅데이터 분석 실무 06강 - 이경숙 교수님" },
+    { "id": "16MQWuD0mPo", "title": "[빅데이터분석기사 추천강의] 실기 빅데이터 분석 실무 01강 - 최예신 교수님" },
+    { "id": "cM1Rh5SeldY", "title": "[빅데이터분석기사 추천강의] 필기 4과목 빅데이터 결과해석 01강 - 이경숙 교수님" },
+    { "id": "pS0keS4SjXs", "title": "[전기기사]  rps와 rpm의 차이! #shorts" },
+    { "id": "zm6D1vv-WAY", "title": "[전기기사] 왼전오발?(플레밍의 왼손 법칙) #shorts" },
+    { "id": "7CMPF2x5_pw", "title": "[빅데이터분석기사 추천강의] 필기 3과목 빅데이터 모델링 01강 - 최예신 교수님" },
+    { "id": "qz5MBF0Vv8k", "title": "[신재생에너지발전설비기사 추천강의] 태양광발전 기획 01강│황민욱 교수님]" },
+    { "id": "qS6CJpuI6cU", "title": "[에너지관리기사 합격수기★] 기출문제를 출제빈도 별로 정리해서 출퇴근 시간동안 반복했어요! - 이*서님 인터뷰" },
+    { "id": "_JNLokIcrXQ", "title": "[전기기사] 알아두면 쓸모있는 전기기사 기초 10. 변압기의 효율" }
+  ]
+}

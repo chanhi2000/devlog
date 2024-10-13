@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "oliverjumpertzme",
+    "name": "Oliver Jumpertz",
+    "profile": "https://yt3.googleusercontent.com/GRkm9NoTY2jqaospQgSiczD9jJtvurg6qGm_GpO38MtXAtk85LqkxU1VcBg_mNobR-xoPQKS3Q=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3SgYFBvQCAxrTgJo7s7SuMQVayLROpGdRy-iulQNQeTO8aMtyAYB6R5CSHU3CwQ9bGUCKhDWC9E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "tWa19Td87gw", "title": "You MUST KNOW These Traits in Rust" },
+    { "id": "9KkTd4eDUMY", "title": "How to create your OWN Link Shortener in Rust (beginner-friendly project)" },
+    { "id": "FCZXH8PfHgM", "title": "Is this IDE the next big thing for Rust?!" },
+    { "id": "gvT3H86HSCc", "title": "Rust's Enums In 180 Seconds" },
+    { "id": "988N79pAj3M", "title": "Rust's Option In 180 Seconds" }
+  ]
+}

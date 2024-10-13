@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "babakcode",
+    "name": "Babak Code",
+    "profile": "https://yt3.googleusercontent.com/46ECGjXjzQflNQVu_vKqv7uP4_3fFy6P_Dfs3IXtPMWLQK09fnVwW4KUB43R_nBhqLzLKlS90w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bQPmO0mwWKaMA0rwdY_Dm2wn5jxiTdzIf7AgHA0_S68SOz2wsbmyT5QSRQG578LC-oALdmEEfWU=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ReQAlE6QBxw", "title": "Load more List in #flutter" },
+    { "id": "MvAkK6YmPl0", "title": "Prototype item in Flutter ListView" },
+    { "id": "-W45PQ__SAk", "title": "Flutter 3d UI" }
+  ]
+}

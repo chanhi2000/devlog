@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "DARPAtv",
+    "name": "DARPAtv",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIf8zZROuPnaJ79lcgORW8M7-FiMu3_rDF-Lm43Vbh6VCg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/olKSvZPD4p9B9e-9LcbPxhiERLn5umtWMQBZrVyuPEVANO3WJ_UDgRhm1t27WhUsIKUfsTWGlQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8zniAjqWI2A", "title": "Real or Not: Defending Authenticity in a Digital World - SXSW Panel" },
+    { "id": "F48sYcF_2Bk", "title": "SubTv - Urban Circuit Round 1 Day 1 - DARPA Subterranean Challenge" },
+    { "id": "jGpSP6FBucc", "title": "AIxCC Scoring Algorithm Explainer" },
+    { "id": "vyIMdo8m_aM", "title": "AI Cyber Challenge Streaming Event – December 13, 2023" }
+  ]
+}

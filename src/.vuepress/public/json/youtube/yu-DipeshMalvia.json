@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "DipeshMalvia",
+    "name": "Dipesh Malvia",
+    "profile": "https://yt3.googleusercontent.com/glNuTxS94XQuI38oZ-jgdHifl1Q7-2pR0hV5HD6AsPBtngoKKmDkNOON86NrNthTUwBbLkGw3w=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8gkCcFYrQ-KvvRsXMBb3-GUZ_7o19mqMpnAIvHGzrQ91C6Uyya5E3jHkTwLeoAyUPhVUJNEbLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3oNpnPWBs_s", "title": "5 Reasons to use Tailwind CSS | Tailwind CSS Core Concepts" },
+    { "id": "5RVeJ4oTrVA", "title": "How to Implement Singleton Design Pattern in Node.js | Node.js Design Patterns Explained" },
+    { "id": "DJ5iIo4AWDg", "title": "Learn MERN Stack with Project in 2 Hours | MERN Stack Crash Course for Beginners" },
+    { "id": "6gmdFPlkuhQ", "title": "Scheduling Tasks in Node.js | Cron Jobs in Real Projects" },
+    { "id": "OKIaDk8sIbM", "title": "Learn React, TypeScript & Firebase with project | React Firebase Crash Course in 4 Hours" },
+    { "id": "H6GBwdGiOLM", "title": "How To Build UI Component Library in React | Learn Shadcn/ui in 20 Minutes" },
+    { "id": "UiROuE91IYY", "title": "Build a Full Stack Social Media App | React, Firebase, Uploadcare, Tailwind CSS & Shadcn/UI | Ep.1" },
+    { "id": "FYQ3u-N3b90", "title": "Build a Full Stack Social Media App | React, Firebase, Uploadcare, Tailwind CSS & Shadcn/UI | Ep.2" },
+    { "id": "rQa2MtrFOTY", "title": "Build & Deploy React, TypeScript & Firebase Full Stack Social Media App | Ep. 3" },
+    { "id": "-fj1loJfSdA", "title": "Learn Vite For Next React TypeScript Project in 2024 | Vite Crash Course in 15 minutes" },
+    { "id": "0ysWx_XPdG0", "title": "SquareX : The future of web browsing | Browser Security and Privacy Extension" },
+    { "id": "sKq-aSrnZog", "title": "Building a URL Shortener MERN Stack App with Node.js, TypeScript, MongoDB & React  Ep.1" },
+    { "id": "GOp0gH3zE9s", "title": "Building a URL Shortener MERN Stack App with React TypeScript & Tailwind CSS Ep.2" },
+    { "id": "B0-IamekWy4", "title": "How to Build a Generic React Skeleton Loading Component with CSS Animation" },
+    { "id": "ARyp9xIESs0", "title": "React and Material UI Login Form Using Mightymeld Prefabs | React Future Dev Tool Tutorial" },
+    { "id": "uGnh1NnlEbQ", "title": "Learn React, Typescript & Material UI With One Project | Build a Movie App in 90 Minutes" },
+    { "id": "Xq4YmngRxxg", "title": "React Component Unit Testing For Beginners | How To Test React Data Fetching, Snapshot Testing ?" }, 
+    { "id": "gDUzaANQ01A", "title": "How to speed up your React Development skills ? Learn How To Build React Apps Quickly ?" },
+    { "id": "FKqtiO-0fZU", "title": "Build Node.js Serverless E-commerce App Rest API Project | Shopping API With JWT, MongoDB & Stripe" },
+    { "id": "nH47lsxvY9c", "title": "How to Build Node.js Apps with Docker | Dockerize Node.js and Express Apps" },
+    { "id": "6CYCD7kE8Qs", "title": "How to Improve Performance of React Apps with Code Splitting" }, 
+    { "id": "yz2PwipRqzw", "title": "Learn JavaScript Nullish Coalescing Operator & Assignment in 10 Minutes | JavaScript Interview" }, 
+    { "id": "eDcxcTSQJaA", "title": "Build React CRUD Admin panel with Ant Design | Refine Tutorial | React Admin Crash Course" }, 
+    { "id": "B8_cPhCM7HY", "title": "Async Programming | Callbacks | Promises | Async Await | Node.js Tutorial for Beginners #4" }, 
+    { "id": "6CYCD7kE8Qs", "title": "How to Improve Performance of React Apps with Code Splitting" }
+  ],
+  "playlists": [
+
+  ]
+}

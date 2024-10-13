@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "Firebase",
+    "name": "Firebase",
+    "profile": "https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BuoKbZ7HnyPzXPXcSiE89onEb2T77rZeaqAk0ZzKPLmf622TMqtxKX-Q9t3v9Bz9y6hrZ5y3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_KvbjXGemvU", "title": "New Release Monitoring dashboard in #Firebase" },
+    { "id": "WbaCQ5ZnHwI", "title": "Firebase After Hours #2: Go get Gemini" },
+    { "id": "kD5NsBbG3kk", "title": "April 2024: Firestore new from Cloud Next, Flutter on Windows, and Gemini in Firebase" },
+    { "id": "qMZ_q-iHqsU", "title": "Multi-field range and inequality conditions on Firestore" },
+    { "id": "7OdVatEI85o", "title": "Firebase has SQL: Introducing Data Connect" },
+    { "id": "b5c8BbV8sIw", "title": "Confidently launch gen AI features with Firebase Remote Config" },
+    { "id": "2MvV-YX1eKw", "title": "What's new in Firebase for building gen AI features" },
+    { "id": "vYk6Uh2WGto", "title": "May 2024: Firebase has SQL, and 6 other top takeaways from Google I/O" },
+    { "id": "moZssMRVoWI", "title": "Getting started with anonymous authentication and account linking on Android" },
+    { "id": "N-CS73eHld0", "title": "Vue.js and #Firebase crash course" },
+    { "id": "HIi-DuLKff8", "title": "New #Firebase Extensions with Gemini" },
+    { "id": "-QHpBX3u8pM", "title": "Go for Cloud Functions and #Firebase" },
+    { "id": "7IkUgCLr5oA", "title": "Learn JavaScript Promises (Pt.1) with HTTP Triggers in Cloud Functions - Firecasts" }, 
+    { "id": "pkgvFNPdiEs", "title": "The Local Firebase Emulator UI in 15 minutes" }, 
+    { "id": "3aoxOtMM2rc", "title": "To Realtime or Not?  | Get to know Cloud Firestore #10" }
+  ]
+}
+
+

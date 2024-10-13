@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "LeiosLabs",
+    "name": "Leios Labs",
+    "profile": "https://yt3.googleusercontent.com/d8zFgyIqgRhfUy5gVtyushH_JNNlOG3HkLxuVLwuOX2o162JLC_6hYxeGVeEKqJujOM5tK39HL0=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1so_kCMMInM0tPpauS6BEWbBlRmNUHAfO_WNbKd0y2S9Md6KKdwxL1H8qKndbX5JUF1qctVj3Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1Q5Hpwu3tpo", "title": "Introduction to kernel (GPU) programming in Julia with an NBody simulation" },
+    { "id": "GHBkPHWTT-8", "title": "JuliaGPU work" },
+    { "id": "BI_9c9ilkZs", "title": "Vulkan + Julia" },
+    { "id": "SuYW5nzKiV0", "title": "The best GPGPU ecosystem (imo)" }
+  ],
+  "playlists": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "kantancoding",
+    "name": "Kantan Coding",
+    "profile": "https://yt3.googleusercontent.com/khfzScwOZGhJGrjSRxEYWXA2VCl8bL6xT03HNomYz8fRFbbjlK97iaUqdGNPdMz8aCssAriLaw=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/cJXnSe-UKIvq1qJ3ugRKrhKMJ38B2b4JQGDIOmVKBVHEjU7B-FfVaM3JZZI9tWZ0QCd_QTJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+    {
+      "title": "Go Concurrency",
+      "videos": [
+        { "id": "qyM8Pi1KiiM", "title": "Master Go Programming With These Concurrency Patterns (in 40 minutes)" },
+        { "id": "wELNUHb3kuA", "title": "Master Go Programming With These Concurrency Patterns | Part 2 (in 40 minutes)" },
+        { "id": "Bk1c30avsuU", "title": "Improve Go Concurrency Performance With This Pattern" },
+        { "id": "bnbEULxcX3o", "title": "learn the Go concurrency pattern that blew my mind" },
+        { "id": "8omcakb31xQ", "title": "golang context package explained: the package that changed concurrency forever" }
+      ]
+    }, {
+      "title": "Go Programming - Advanced Concepts",
+      "videos": [
+        { "id": "jHd0FczIjAE", "title": "Closures | In 210 Seconds" },
+        { "id": "yb4-RPBqVcs", "title": "Go Programming - Generics in 2.8 Minutes!" },
+        { "id": "v-ttLYKqaO8", "title": "Learn golang pointers in 179.001 seconds" },
+        { "id": "IbXSEGB8LRs", "title": "Master Golang with Interfaces" },
+        { "id": "CRY4_-p5FgM", "title": "Master Golang with Abstraction" },
+        { "id": "kgCYq3EGoyE", "title": "Master Golang with Composition" },
+        { "id": "cPhS10BkChw", "title": "Master Golang with Polymorphism" }
+      ]
+    }, {
+      "title": "DevOps Full Course Using Go",
+      "videos": [
+        { "id": "xmZK-kUj9l0", "title": "DevOps & CI/CD Explained in 10 Minutes" },
+        { "id": "F8hcVSFPYEU", "title": "DevOps Using Go: Install Go & Configure VS Code" },
+        { "id": "4emDGrqUNKA", "title": "DevOps Using Go: The most bare bones Go API" },
+        { "id": "xJNk6zKrv1k", "title": "DevOps Using Go: Git & Version Control Basics" },
+        { "id": "gokhI6A-yQw", "title": "DevOps Using Go: Adding Tests" },
+        { "id": "paQ1N_TIOUE", "title": "DevOps Using Go: What is Jenkins?" },
+        { "id": "_lqN-mhibLs", "title": "DevOps Using Go: Infrastructure as Code & AWS Resources" },
+        { "id": "fVhkTgB85FQ", "title": "DevOps Using Go: ssh & Jenkins on AWS" },
+        { "id": "NozqsUhHP2M", "title": "DevOps Using Go: Continuous Integration (CI)" },
+        { "id": "ZUGlfVNFFMc", "title": "DevOps Using Go: GitHub & Jenkins Pipeline Integration" }
+      ]
+    }
+  ]
+}

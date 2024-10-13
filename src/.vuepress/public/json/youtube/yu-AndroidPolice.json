@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "AndroidPolice",
+    "name": "Android Police",
+    "profile": "https://yt3.googleusercontent.com/Ty3tfC49caZwi7FDpJndVUpmPZz7JoAoxyhKHX6XKxVCPrzf7I_m6CqJ-DZEvoVfqkN4dP1S-w=s72-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5wYlBZzxJYsSG6XA4qrFu-O2CVa2P4zFilTGhM3dYh_6evsZ-EZQVm1_IuJA4zZrYEltpc-_0g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3BO9lPt6X00", "title": "How to cancel YouTube Premium #shorts #viral #premium" },
+    { "id": "3IxcXK3ddFQ", "title": "How to use Android's reading mode #viral #shorts #tutorial" },
+    { "id": "7mSrW8Zm2Ig", "title": "How to check your phone's battery health #shorts #viral #tutorial" }
+  ]
+}

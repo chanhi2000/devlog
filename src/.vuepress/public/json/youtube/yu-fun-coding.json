@@ -1,0 +1,13 @@
+{
+  "channel": {
+    "id": "fun-coding",
+    "name": "잔재미코딩",
+    "profile": "https://yt3.googleusercontent.com/_kCX90Fwovf_ZavEukgf74RBlSgDHV-thJmHrW9DdaO0i_0Hmgen6a31eiMca3fh3SVUykfJ=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZY22AZzYjRgvshBvRBv3Nb2LzdWir6mGZs8ojcsV8C61TAyIJNztj3ZDHeDvtJpGp41_mGMqqAY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vsoAyh4D-zw", "title": "데이터 분석가, 데이터 과학자 커리어와 최신 데이터 전과정 공부순서 완벽 가이드, 혼자서도 데이터 분석, 데이터 과학, 나만의 AI 개발도 가능한 최신 데이터 분석/과학 로드맵" },
+    { "id": "r_kmB2wlqGI", "title": "코딩실력만큼 중요한 CS 지식 한번에 정리하기 (시스템콜)" },
+    { "id": "mTouChThxzA", "title": "1인 창업도 가능한 가장 빠른 최신 풀스택 공부순서 (혼자서도 웹과 앱을 개발하는 IT 공부 순서)" }
+  ]
+}

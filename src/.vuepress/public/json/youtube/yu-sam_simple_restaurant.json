@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "sam_simple_restaurant",
+    "name": "삼플식당(Sam Simple Restaurant)",
+    "profile": "https://yt3.googleusercontent.com/JyLaBmiYzB1-9aZTjOW-v8BEjnO5kogYKztvFvvaSKhuxEqluEFHFbfgrERGEVNDXVbUVwARJg=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/h-yN-r3mPwHjw1dVFJ1eh3Dp8F7L98exM-eoBeH_agyogio9ITua7HDBIlktVv1UuVGTjLoF=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZgRJTv98Jr8", "title": "와... 초간단! 소세지 야채볶음 만들기! 전자레인지 5분 레시피!" },
+    { "id": "5UQXd-d8Y3U", "title": "Wow... why is this delicious? “One-pan rose pasta” Super simple recipe" },
+    { "id": "bHNylqQyYBE", "title": "Soft tofu stew is not difficult! A soft tofu stew recipe that will last a lifetime!" },
+    { "id": "rSapB30Ggic", "title": "Try making this at home! One pan perilla leaf tuna pasta!" },
+    { "id": "rqKA8lzBHc8", "title": "One pan pasta aglio e olio! Don't need raw garlic! Very simple recipe!" },
+    { "id": "jL4CfRfnm1c", "title": "Olive tomato pasta made easily in one pan! Super simple recipe!" }
+  ]
+}

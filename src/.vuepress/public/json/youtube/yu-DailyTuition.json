@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "DailyTuition",
+    "name": "Daily Tuition",
+    "profile": "https://yt3.googleusercontent.com/hkRZlmV18W3wm8DlqOZaQHe-g-h8ugcsIdeSk6ZpCOyhOXf1ReGTseiNi8ek92Waosv4r32G=s176-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RmUvteNOFhP2b3cdc4KC-UuERHnFYHW41InxA8Wq7HPaRn7tG8DPlQwfLNtox37q0fS8bW1d=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JVOglb0m7qs", "title": "Transform 1D Text to 3D with GSAP Animation" },
+    { "id": "L4tUG7Jk6g0", "title": "GSAP Complete Crash Course - Trending Web Animation" },
+    { "id": "SKBW_oLcvWg", "title": "Trending Web Animation Website Using GSAP with HTML/CSS/JavaScript" },
+    { "id": "xG7JL2ONwG8", "title": "How to Setup StyleX with Next 14" },
+    { "id": "prW9zpwwv94", "title": "React Teleprompter App - Speed and FontSize Visibility Features" },
+    { "id": "81yedTDl4HM", "title": "How to learn AI in 2024? Beginner Friendly Roadmap" },
+    { "id": "lXsjWLq78hY", "title": "This Will Change CSS Forever" },
+    { "id": "e2rLmXKgYlE", "title": "How I Setup Visual Studio Code For My Project" },
+    { "id": "4lm7nngiXHE", "title": "Get ChatGPT Paid for Free #shorts" }, 
+    { "id": "BfrJxGQEPSc", "title": "Complete MERN App (OTP Verification, JWT Token, Authentication, Reset Password)" }, 
+    { "id": "p_046Qe19p0", "title": "How to Make Leaderboard in React App - For Beginners" }, 
+    { "id": "UEJHSPM-Qiw", "title": "PayPal Checkout Integration Tutorial For Beginners - [2020]" }, 
+    { "id": "XBTA-ofG8gc", "title": "PHP Complete Registration & Login System Using MySQLi - Complete Guide" }, 
+    { "id": "dgKSqz3it50", "title": "Complete Portfolio Website with Bootstrap - HTML/CSS" }, 
+    { "id": "t-I0y6cWKJQ", "title": "JavaScript this Keyword - Why Should We Use it?" }, 
+    { "id": "Dl2gLiMQJkw", "title": "Image Thumbnail Previewer Using HTML/CSS" }, 
+    { "id": "CrSC1ZA9j0M", "title": "Complete Responsive Blooger Website Using HTML/CSS" }, 
+    { "id": "cHAcSQyvBqQ", "title": "Bootstrap Grid System The Complete Guide - In Action" }
+  ],
+  "playlists": [
+
+  ]
+}
+
