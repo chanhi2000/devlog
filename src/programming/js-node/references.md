@@ -46,9 +46,25 @@ tag:
 
 ---
 
+## Express - Node.js web application framework
+
+- [Introducing Express v5: A New Era for Node.js Framework](https://expressjs.com/2024/10/15/v5-release.html)
+
+<!-- END: expressjs.com -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-firefox"/>Mozilla Hacks - the Web developer blog
 
 - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
+
+---
+
+## `</>` htmx - high power tools for html
+
+- [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
+
+<!-- END: htmx.org -->
 
 ---
 
@@ -543,6 +559,9 @@ tag:
   - [TanStack Query의 FocusManager는 무엇일까? (feat.refetchOnWindowFocus)](https://mugglim.tistory.com/m/42)
   - [상태 관리와 zustand (zustand 동작 원리를 이해하기)](https://mugglim.tistory.com/m/43)
   <!-- END: mugglim -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [기타 > Node.js와 Kotlin 코루틴의 비동기 처리 방식과 차이점](https://jinn-blog.tistory.com/m/210)
+  <!-- END: jinn-blog -->
 <!-- END: tistory.com -->
 
 ---
@@ -1098,6 +1117,9 @@ tag:
 
 - [Introducing ESLint Compatibility Utilities](https://eslint.org/blog/2024/05/eslint-compatibility-utilities/)
 - [Introducing the ESLint Configuration Migrator](https://eslint.org/blog/2024/05/eslint-configuration-migrator/)
+- [ESLint now officially supports linting of JSON and Markdown](https://eslint.org/blog/2024/10/eslint-json-markdown-support/)
+
+<!-- END: eslint.org -->
 
 ---
 
@@ -1408,6 +1430,14 @@ tag:
 - [GPT 배치용 JSONL 파일을 클로드 AI 배치용 형식으로 변환하는 자바스크립트 함수](https://occamsrazr.net/tt/410)
 
 <!-- END: occamsrazr.net -->
+
+---
+
+## Life & Dev
+
+- [Colyseus: Achieving a True Graceful Shutdown and Managing Room Data](https://seokjun.kim/colyseus-how-to-actually-pull-off-a-graceful-shutdown-and-get-control-over-your-rooms/)
+
+<!-- END: seokjun.kim -->
 
 ---
 

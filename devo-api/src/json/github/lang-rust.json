@@ -1408,9 +1408,9 @@
     "repo": "martinvonz/jj",
     "desc": "A Git-compatible VCS that is both simple and powerful",
     "officialSite": "https://martinvonz.github.io/jj/",
-    "topics": ["cli", "git", "mercurial", "vcs"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["git", "cli", "mercurial", "vcs"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0d0e543d1154bf0924fae969f4b74ea5ab774365c8b5d18253772af84e54db5a/martinvonz/jj"
   }, {
     "repo": "kneasle/sapling",
     "desc": "A highly experimental vi-inspired editor where you edit code, not text.",
@@ -1859,11 +1859,11 @@
     "banner": ""
   }, {
     "repo": "EricLBuehler/mistral.rs",
-    "desc": "Blazingly fast LLM inference.",
+    "desc": "Blazingly fast LLM inference. Contribute to EricLBuehler/mistral.rs development by creating an account on GitHub.",
     "officialSite": "",
-    "topics": ["llm", "rust"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["rust", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/99a194c3a1ca58a7a69ab1a5cc52b49968e179fec26e2b41e54f9e43d8763a5e/EricLBuehler/mistral.rs"
   }, {
     "repo": "jasonjmcghee/xrem",
     "desc": "(Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.",

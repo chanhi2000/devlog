@@ -156,6 +156,12 @@ head:
   - [Kafka MirrorMaker 2](https://maeng-dev.tistory.com/m/164)
   - [카프카 상세 개념](https://maeng-dev.tistory.com/m/167)
   <!-- END: maeng-dev -->
+- [`limm-jk` / Limm_jk.log](https://limm-jk.tistory.com/m/)
+  - [Kafka 메세지를 안정적으로 다루는 방법 (Transaction Outbox Pattern)](https://limm-jk.tistory.com/m/83)
+  <!-- END: limm-jk -->
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [Kafka에서 동시에 같은 메시지 처리 시 발생한 PK 중복 오류(feat. merge로 인한 장애대응)](https://dreamcoding.tistory.com/m/130)
+  <!-- END: dreamcoding -->
 <!-- END: tistory.com -->
 
 ---

@@ -804,5 +804,19 @@
     "topics": ["kotlin", "jsoup", "java-html-parser", "kmp", "kotlin-multiplatform", "ksoup", "kotlin-html-parser"],
     "avatar": "https://avatars.githubusercontent.com/u/11086988?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/aeebb43f22a4bc5b0219e948cae631757181b7a8423f486a88f455c63e83e68b/fleeksoft/ksoup"
+  }, {
+    "repo": "android-password-store/Android-Password-Store",
+    "desc": "Android application compatible with ZX2C4's Pass command line application",
+    "officialSite": "https://passwordstore.app",
+    "topics": ["android", "password-generator", "password-manager", "openpgp", "password-store", "hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/22808785/ebdf57ff-1bbf-4ac6-ac6f-cf96c6ee0c70"
+  }, {
+    "repo": "DrKLO/Telegram",
+    "desc": "Telegram for Android source. Contribute to DrKLO/Telegram development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["telegram"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/95aa3dda0f7d24ad810b3377413d09e9d0f0ba08b238b67ba7079295149dd14e/DrKLO/Telegram"
   }
 ]

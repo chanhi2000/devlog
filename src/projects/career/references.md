@@ -43,6 +43,7 @@ tag:
 
 - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
+- [Ask HN: Solopreneurs, how did you come up with your idea?](https://news.ycombinator.com/item?id=41837607)
 
 <!-- END: news.ycombinator.com -->
 
@@ -156,6 +157,7 @@ tag:
 - [`@bestswlkh0310` / 직군](https://velog.io/@bestswlkh0310/%EC%A7%81%EA%B5%B0%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%83%9D%EA%B8%B0%EB%8A%94-%EC%95%94%EB%AC%B5%EC%A0%81-%EA%B6%8C%EB%A0%A5)
 - [`@bestswlkh0310` / 수상 경력이 중요한가요?](https://velog.io/@bestswlkh0310/%EC%88%98%EC%83%81-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80%EC%9A%94)
 - [`@bestswlkh0310` / 일 할 때 말의 scope](https://velog.io/@bestswlkh0310/%EC%9D%BC-%ED%95%A0-%EB%95%8C-%EB%A7%90%EC%9D%98-scope)
+- [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -185,6 +187,7 @@ tag:
 - [`giljae` / 린스타트업](https://giljae.medium.com/%EB%A6%B0%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-ffb9e7134731?source=rss-bb87e9e8047d------2)
 - [`giljae` / 비기술 관리자의 함정](https://giljae.medium.com/%EB%B9%84%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%9D%98-%ED%95%A8%EC%A0%95-6ae75543cafe?source=rss-bb87e9e8047d------2)
 - [`giljae` / 풀스택 개발자, 현실적으로 가능한가?](https://giljae.medium.com/%ED%92%80%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-4e62c8a3fc2c?source=rss-bb87e9e8047d------2)
+- [`jaeyeong951` / 저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
 
 <!-- END: medium.com -->
 
@@ -349,6 +352,11 @@ tag:
 - [`@2weV` / 기술은 사람의 본질을 변화시키지는 못한다.](https://brunch.co.kr/@@2weV/567)
 - [`@2weV` / 내 관점에서 본 커리어의 3단계](https://brunch.co.kr/@@2weV/568)
 - [`@3L0s` / DX 실행: 비즈니스 모델의 디지털화, 개념 - 디지털 혁신-21](https://brunch.co.kr/@@3L0s/132)
+- [`@2weV` / 취업/유학 Coaching을 하며 느끼는 점](https://brunch.co.kr/@@2weV/569)
+- [`@2hV3` / 한 달간 코칭 50회, 경쟁력 있는 포트폴리오란? - 모든 시간을 GPTs에 담았어요](https://brunch.co.kr/@@2hV3/252)
+- [`@2rV` / 마켓플레이스 비즈니스의 Liquidity 이해하기 - Liquidity와 마켓플레이스의 '닭과 달걀' 문제](https://brunch.co.kr/@@2rV/188)
+- [`@8w7` / 필드플레이어로 돌아간, 10년+ 부트캠프 설계자의 회고 - '수료' 가 아닌 '의미있는 성장' 을 이어내는 부스터의 여정](https://brunch.co.kr/@@8w7/243)
+- [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
 
 <!-- END: brunch.co.kr -->
 
@@ -698,6 +706,12 @@ tag:
 - [`helloinyong` / 이뇽의세상](https://helloinyong.tistory.com/m/)
   - [나약한 생각을 버리고, 어떻게하면 멋진 개발자가 될지를 고민하자](https://helloinyong.tistory.com/m/366)
   <!-- END: helloinyong -->
+- [`rnokhs` / 🛵꾸준한 꿈틀꿈틀](https://rnokhs.tistory.com/m/)
+  - [같이 일하고 싶은 엔지니어](https://rnokhs.tistory.com/m/entry/%EA%B0%99%EC%9D%B4-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4)
+  <!-- END: rnokhs -->
+- [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
+  - [글또 10기 시작과 다짐](https://iostream.tistory.com/m/182)
+  <!-- END: iostream -->
 <!-- END: tistory.com -->
 
 ---
@@ -789,6 +803,9 @@ tag:
 - [당신이 뭐 하는지 알고 싶다. 다른 사람 말고.](https://thestartupbible.com/2024/09/focus-on-yourself-not-on-others.html)
 - [내 잠을 설치게 하는 것들](https://thestartupbible.com/2024/09/things-that-keep-me-up-at-night.html)
 - [남의 의견](https://thestartupbible.com/2024/10/ask-others-if-you-want-to-make-the-wrong-decision.html)
+- [링에 오르기. 그리고 버티기.](https://thestartupbible.com/2024/10/haruki-murakami-on-entering-the-wrestling-ring-and-staying-there.html)
+- [브랜드가 되기까지](https://thestartupbible.com/2024/10/on-becoming-a-brand.html)
+- [바퀴벌레의 길](https://thestartupbible.com/2024/10/the-cockroach-way.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -798,6 +815,9 @@ tag:
 
 - [생산성 향상을 위한 실무에서의 비동기 커뮤니케이션](https://donghoon-song.github.io/%EC%83%9D%EC%82%B0%EC%84%B1/%EC%83%9D%EC%82%B0%EC%84%B1-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98/)
 - [AI 프로필을 팔기 시작한 개발자 이야기](https://donghoon-song.github.io/mystory/ai-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-%ED%8C%94%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
+- [마무리가 약한 나의 마무리](https://donghoon-song.github.io/maker-log/마무리가-약한-나의-마무리/)
+
+<!-- END: donghoon-song.github.io -->
 
 ---
 
@@ -836,6 +856,10 @@ tag:
 - [커피한잔 서버 장애 썰](https://jeho.page/essay/2024/05/03/coffee-server.html)
 - [레거시 처리 개발자](https://jeho.page/essay/2024/08/08/defense-fun.html)
 - [다시 취업할 수 있을까](https://jeho.page/essay/2024/09/04/ever-be-get-job-again.html)
+- [아니, 난 그냥 내가 만들고 싶은 걸 만들래](https://jeho.page/essay/2024/10/14/build-what-i-want-to-build/html)
+- [개인 사업자와 법인 사업자](https://jeho.page/essay/2024/10/18/business-registration.html)
+
+<!-- END: jeho.page -->
 
 ---
 
@@ -1028,6 +1052,9 @@ tag:
 ## Outsider's Dev Story
 
 - [[Book] 규칙 없음 - 넷플릭스, 지구상 가장 빠르고 유연한 기업의 비밀](https://blog.outsider.ne.kr/1720)
+- [내가 생각하는 플랫폼 엔지니어링](https://blog.outsider.ne.kr/1736)
+
+<!-- END: blog.outsider.ne.kr -->
 
 ---
 
@@ -1550,6 +1577,46 @@ https://m.blog.naver.com/&logId=
 - [왕초보 개발자가 생각하는 코드 리뷰의 중요성](https://blog.ateals.me/posts/importance-of-code-reviews)
 
 <!-- END: blog.ateals.me -->
+
+---
+
+## pizzathiefz
+
+- [6년차 데이터 어쩌구의 첫 이직 준비 후기와 팁](https://pizzathiefz.github.io/posts/job-search-2024/)
+
+<!-- END: pizzathiefz.github.io -->
+
+---
+
+## Open Sea
+
+- [WordPress 랑 WP Engine 이슈 간단 정리](https://opensea.kr/wordpress-%eb%9e%91-wp-engine-%ec%9d%b4%ec%8a%88-%ea%b0%84%eb%8b%a8-%ec%a0%95%eb%a6%ac/)
+
+<!-- END: opensea.kr -->
+
+---
+
+## Armin Ronacher's Thoughts and Writings
+
+- [The Inevitability of Mixing Open Source and Money](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/)
+
+<!-- END: lucumr.pocoo.org -->
+
+---
+
+## 잘 밤에 쓸데없는 생각하기
+
+- [퇴사 회고](https://ujuc.github.io/2024/10/19/%ED%87%B4%EC%82%AC-%ED%9A%8C%EA%B3%A0/)
+
+<!-- END: ujuc.github.io -->
+
+---
+
+## By minieetea
+
+- [적극적이기만 한 사람](https://minieetea.com/20241021-initiative-activeness/)
+
+<!-- END: minieetea.com -->
 
 ---
 

@@ -126,7 +126,14 @@ head:
 - [`zzang9ha` / 🐔](https://zzang9ha.tistory.com/m/)
   - [업무에 바로 쓰는 SQL 튜닝 1 - SQL 튜닝 이론](https://zzang9ha.tistory.com/m/463)
   - [업무에 바로 쓰는 SQL 튜닝 2 - SQL 튜닝 실습 (1)](https://zzang9ha.tistory.com/m/464)
+  - [DB Function to Java Application 이관 (feat. 프로시저)](https://zzang9ha.tistory.com/m/465)
   <!-- END: zzang9ha -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Database View 가상 테이블](https://jeongchul.tistory.com/m/783)
+  - [Database에서 DDL DML DCL](https://jeongchul.tistory.com/m/784)
+  - [DB에서 데이터 무결성](https://jeongchul.tistory.com/m/785)
+  - [Database에서 ACID](https://jeongchul.tistory.com/m/786)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---

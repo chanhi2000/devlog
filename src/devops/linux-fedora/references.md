@@ -52,6 +52,7 @@ tag:
 - [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
   - [Adacious 리눅스 & 윈도 MP3 플레이어](https://sunyzero.tistory.com/m/297)
   - [리눅스용 멀티미디어 프로그램 - 유튜브 플레이어, 다운로더](http://sunyzero.tistory.com/m/300)
+  - [페도라 리눅스 nvidia 드라이버 설치 (RPM Fusion akmods)](http://sunyzero.tistory.com/m/304)
   <!-- END: sunyzero -->
 - [`naleejang` / Nalee와 함께 떠나는 IT이야기](https://naleejang.tistory.com/m/)
   - [Linux Process Story](https://naleejang.tistory.com/m/276)
@@ -62,10 +63,17 @@ tag:
 - [`1000sj` / SJ Code](https://1000sj.tistory.com/m/)
   - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
   - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
+  - [Linux Device Driver 기초 #3 Linux Device Driver 추가하기](https://1000sj.tistory.com/m/396)
+  - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
   <!-- END: 1000sj -->
 - [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
   - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)
-  <!-- END: yongho1037 --><!-- END: tistory.com -->
+  <!-- END: yongho1037 -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [네트워크 인터페이스](https://jeongchul.tistory.com/m/803)
+  - [L4 vs L7 스위칭 장비](https://jeongchul.tistory.com/m/808)
+  <!-- END: jeongchul -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -126,6 +134,14 @@ tag:
 - [A start job is running for wait for network to be configured](https://skyer9.pe.kr/wordpress/?p=9331)
 
 <!-- END: skyer9.pe.kr -->
+
+---
+
+## 신현석(Hyeonseok Shin)
+
+- [Puppeteer에서 SSH 터널링 프록시 사용하기](https://hyeonseok.com/blog/923)
+
+<!-- END: hyeonseok.com -->
 
 ---
 

@@ -2,13 +2,17 @@
   {
     "repo": "type-challenges/type-challenges",
     "desc": "Collection of TypeScript type challenges with online judge",
-    "officialSite": "https://tsch.js.org",
-    "topics": []
+    "officialSite": "https://tsch.js.org/",
+    "topics": ["typescript", "challenges", "type", "type-system"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/281975310/f692e100-2839-11eb-95f3-fa53305aa760"
   }, {
     "repo": "sungkwangkim/yarn-berry-test",
-    "desc": "",
+    "desc": "Contribute to sungkwangkim/yarn-berry-test development by creating an account on GitHub.",
     "officialSite": "",
-    "topics": []
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/5c09fc9b38c2e898eeab8daaddceafc67b7b2d5365b89e92a6ef8016abd1392d/sungkwangkim/yarn-berry-test"
   }, {
     "repo": "rocketseat-education/nlw-12-spacetime-ignite",
     "desc": "Aplicação de recordação de memórias desenvolvida no NLW 12",
@@ -17,52 +21,65 @@
   }, {
     "repo": "gothinkster/realworld",
     "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
-    "officialSite": "https://www.realworld.how",
-    "topics": []
+    "officialSite": "https://www.realworld.how/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/34d94f68b2735dfca54cb3d01edb18c89702dbe656f071dd060f89a4115b126a/gothinkster/realworld"
   }, {
     "repo": "adrianhajdin/project_next13_car_showcase",
     "desc": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
     "officialSite": "https://jsmastery.pro",
-    "topics": ["nextjs", "nextjs13", "next13", "next13app"]
+    "topics": ["nextjs", "nextjs13", "next13", "next13app"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/4c8eda100c76a1a4b9756e2dadd31dd988280bc24f75d00f42b7878fb4406f06/adrianhajdin/project_next13_car_showcase"
   }, {
     "repo": "labs42io/clean-code-typescript",
-    "desc": "Clean Code concepts adapted for TypeScript",
+    "desc": "Clean Code concepts adapted for TypeScript. Contribute to labs42io/clean-code-typescript development by creating an account on GitHub.",
     "officialSite": "https://labs42io.github.io/clean-code-typescript",
-    "topics": ["typescript", "solid", "best-practices", "clean-code", "clean-architecture", "principles", "coding-guidelines"]
+    "topics": ["typescript", "solid", "best-practices", "clean-code", "clean-architecture", "principles", "coding-guidelines"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1f7081f1c814b46c0ce9004a39a928372a60e27fabf5bcbc1d7bcbcba85ff462/labs42io/clean-code-typescript"
   }, {
     "repo": "gibbok/typescript-book",
     "desc": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
-    "officialSite": "",
-    "topics": ["typescript", "book", "free", "typescript-book", "typescript-tutorials", "typescript-language", "typescript-learning", "typescript-guidebook", "typescript-guide", "learn-typescript", "learning-type"]
+    "officialSite": "https://gibbok.github.io/typescript-book/",
+    "topics": ["javascript", "typescript", "book", "free", "typescript-book", "typescript-tutorials", "typescript-language", "javascript-book", "typescript-learning", "typescript-guidebook", "typescript-guide", "learn-typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/62762201a7647bddd77d5608c00d50b0e4ac4c5a673f3232e95122d57c64752d/gibbok/typescript-book"
   }, {
     "repo": "felipemotarocha/fullstackweek-trips",
     "desc": "",
     "officialSite": "https://fullstackweek-trips.vercel.app",
-    "topics": []
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/92d75f63d9b7d112040ac7a62cae7046201a84f282ae3fa7c75e28823eaf9330/felipemotarocha/fullstackweek-trips"
   }, {
     "repo": "goldbergyoni/nodebestpractices",
-    "desc": "✅ The Node.js best practices list (July 2023)",
-    "officialSite": "https://twitter.com/nodepractices",
-    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"]
+    "desc": ":white_check_mark: The Node.js best practices list (July 2024)",
+    "officialSite": "https://twitter.com/nodepractices/",
+    "topics": ["nodejs", "javascript", "testing", "npm", "styleguide", "express", "microservices", "rest", "mocha", "types", "eslint", "es6", "jest", "style-guide", "best-practices", "expressjs", "node-js", "nodejs-development"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e8515b0a10d79106ef5d4cdcb7e698d545c02d25b528bd411ffc05160af397f3/goldbergyoni/nodebestpractices"
   }, {
     "repo": "wangdoc/typescript-tutorial",
-    "desc": "TypeScript 教程",
+    "desc": "TypeScript 教程. Contribute to wangdoc/typescript-tutorial development by creating an account on GitHub.",
     "officialSite": "https://wangdoc.com/typescript",
-    "topics": ["tutorial", "typescript"]
-  }, {
-    "repo": "AntonioErdeljac/notion-clone-tutorial",
-    "desc": "",
-    "officialSite": "https://note-taking-app-rose.vercel.app",
-    "topics": []
+    "topics": ["tutorial", "typescript"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/78d09693a3b84d87ee06fab65aff85fc807bc705d4003954dcf5afba8a6d87d4/wangdoc/typescript-tutorial"
   }, {
     "repo": "ton-community/tact-challenge",
-    "desc": "",
+    "desc": "Contribute to ton-community/tact-challenge development by creating an account on GitHub.",
     "officialSite": "",
-    "topics": []
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/532ea885bed921244fdf0ff7456bb68245e0bdfa77f5587207b50b6ff21e9345/ton-community/tact-challenge"
   }, {
-    "repo": "AntonioErdeljac/next-auth-v5-advanced-guide",
-    "desc": "",
+    "repo": "solana-developers/program-examples",
+    "desc": "A repository of Solana program examples. Contribute to solana-developers/program-examples development by creating an account on GitHub.",
     "officialSite": "",
-    "topics": []
+    "topics": ["hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/029e17feb29fbb41ccffb38bf964d934360d35edef4efdb3795757c04ab88fc5/solana-developers/program-examples"
   }
 ]

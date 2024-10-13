@@ -144,4 +144,12 @@ head:
 
 ---
 
+## tebica story
+
+- [WordPress, Open Source의 옷을 벗어도 된다](https://earlybird.kr/2833)
+
+<!-- END: earlybird.kr -->
+
+---
+
 <TagLinks />

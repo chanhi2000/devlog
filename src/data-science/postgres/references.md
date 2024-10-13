@@ -252,9 +252,23 @@ head:
 
 ---
 
-## 푸르고
+## tistory
 
-- [[PostgreSQL] 내가 enum을 쓰지 않는 이유](https://puleugo.tistory.com/185)
+- [`puleugo` / 푸르고](https://puleugo.tistory.com/m/)
+  - [[PostgreSQL] 내가 enum을 쓰지 않는 이유](https://puleugo.tistory.com/m/185)
+  <!-- END: puleugo -->
+- [`jojoldu` / 기억보단 기록을](https://jojoldu.tistory.com/m/)
+  - [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/m/784)
+  - [\[PostgreSQL\] 단일 테이블 컬럼을 최대한 활용하기](https://jojoldu.tistory.com/m/788)
+  <!-- END: jojoldu -->
+- [`1000sj` / SJ CODE](https://1000sj.tistory.com/m/)
+  - [Postgresql Architecture #1 Client - Server Architecture](https://1000sj.tistory.com/m/400)
+  <!-- END: 1000sj -->
+- [`hyunki1019` / Louis.Kim 의 제 3막](https://hyunki1019.tistory.com/m/)
+  - [\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
+  - [\[Postgresql-study\] WAL (write ahead log)](https://hyunki1019.tistory.com/m/195)
+  <!-- END: hyunki1019 -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -312,13 +326,6 @@ head:
 
 ---
 
-## 기억보단 기록을
-
-- [\[PostgreSQL\] Nested Loop Join을 HashJoin으로 개선하기](https://jojoldu.tistory.com/m/784)
-- [\[PostgreSQL\] 단일 테이블 컬럼을 최대한 활용하기](https://jojoldu.tistory.com/m/788)
-
----
-
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [EDB, AI 특화 DB 관리 플랫폼 ‘포스트그레스AI’ 출시](https://ciokorea.com/news/338188)
@@ -370,13 +377,6 @@ head:
 ## Logto: The better identity infrastructure for developers
 
 - [Mastering PostgreSQL JSONB type in one article](https://blog.logto.io/mastering-postgresql-jsonb/)
-
----
-
-## Louis.Kim 의 제 3막
-
-- [\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
-- [\[Postgresql-study\] WAL (write ahead log)](https://hyunki1019.tistory.com/m/195)
 
 ---
 

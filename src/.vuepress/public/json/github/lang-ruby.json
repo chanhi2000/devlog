@@ -141,11 +141,11 @@
     "banner": ""
   }, {
     "repo": "maybe-finance/maybe",
-    "desc": "The OS for your personal finances",
+    "desc": "The OS for your personal finances. Contribute to maybe-finance/maybe development by creating an account on GitHub.",
     "officialSite": "https://maybe.co",
-    "topics": ["finance", "hotwire", "personal-finance", "postgresql", "ruby", "ruby-on-rails", "stimulusjs", "turbo"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["ruby", "personal-finance", "finance", "postgresql", "turbo", "ruby-on-rails", "stimulusjs", "hotwire"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/737898780/830b4632-dd82-4492-818f-a9c707b16663"
   }, {
     "repo": "julienbourdeau/debugbar",
     "desc": "",

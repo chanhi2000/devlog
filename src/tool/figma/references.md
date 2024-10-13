@@ -32,6 +32,9 @@ head:
 - [`@yooldesign` / 미니멀한 디자인에 대한 가이드](https://brunch.co.kr/@yooldesign/28)
 - [`@outlines` / 요즘 읽는 디자인 블로그들](https://brunch.co.kr/@outlines/44)
 - [`@meanimize` / 화살표에 대한 단상](https://brunch.co.kr/@meanimize/75)
+- [`@10mY` / 피그마의 인공지능 UI 생성 - First Draft로 돌아온 Figma AI](https://brunch.co.kr/@@10mY/238)
+
+<!-- END: brunch.co.kr -->
 
 ---
 

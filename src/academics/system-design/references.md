@@ -199,6 +199,7 @@ head:
 - [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
 - [`lyft` / Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
 - [`@kristina.kondrashevich` / Why we skipped SRE and switched to Platform Engineering](https://medium.com/@kristina.kondrashevich/why-we-skipped-sre-and-switched-to-platform-engineering-b1f05979c6c6)
+- [`yandex` / Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 
 <!-- END: medium.com -->
 
@@ -228,6 +229,7 @@ head:
 - [`@joshuara7235` / 2024년 인프콘 후기 - #3 경력이 늘수록 CS 이론이 중요해지는 이유](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-3-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EB%8A%98%EC%88%98%EB%A1%9D-CS-%EC%9D%B4%EB%A1%A0%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%B4%EC%A7%80%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 - [`@joshuara7235` / 2024년 인프콘 후기 - #5 객체지향은 여전히 유용한가](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%9C%A0%EC%9A%A9%ED%95%9C%EA%B0%80)
 - [`@hyemin916` / 순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
+- [`@superlipbalm` / (번역) 렌더링 지연을 개선해 LCP 점수 향상하기](https://velog.io/@superlipbalm/lcp-render-delay)
 
 <!-- END: velog.io -->
 
@@ -323,6 +325,11 @@ head:
 - [`@2fEJ` / \[UX#26\] 플레이스홀더 텍스트의 UX 원칙 3가지](https://brunch.co.kr/@@2fEJ/1491)
 - [`@2fEJ` / UX Quiz #1](https://brunch.co.kr/@@2fEJ/1493)
 - [`@2fEJ` / \[UX#27\] 모바일 폼 사용성 원칙 7가지](https://brunch.co.kr/@@2fEJ/1494)
+- [`@2Qq` / 모바일 UI 디자인 기본 요소 - 타이포그래피 2 - 모바일 환경에 최적화된 가독성 가이드](https://brunch.co.kr/@@2Qq/34)
+- [`@2fEJ` / \[UX#28\] 모바일 내비게이션 UX 패턴 원칙](https://brunch.co.kr/@@2fEJ/1495)
+- [`@2fEJ` / \[UX#29\] 미니멀리스트 디자인 UX 4가지 원칙](https://brunch.co.kr/@@2fEJ/1496)
+- [`@2fEJ` / \[UX#30\] 강렬하고 선명한 컬러 UX 원칙](https://brunch.co.kr/@@2fEJ/1497)
+- [`@2fEJ` / \[UX#31\]대비(Contrast)효과 적용 UX 원칙](https://brunch.co.kr/@@2fEJ/1498)
 
 <!-- END: brunch.co.kr -->
 
@@ -369,6 +376,7 @@ head:
   - [토스 SLASH 22 - 토스뱅크의 완전히 새로운 대출 시스템 정리](https://hides.tistory.com/m/1153)
   - [토스 SLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기 정리](http://hides.tistory.com/m/1154)
   - [MSA 환경에서 선착순 쿠폰 발급 설계해보기](http://hides.tistory.com/m/1155)
+  - [티켓 예매 서버 시스템 디자인](https://hides.tistory.com/m/1156)
   <!-- END: hides -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [[내일배움캠프 23일차 TIL] 유스케이스 다이어그램 및 RESTful한 API설계(Param vs Query vs Body)](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-23%EC%9D%BC%EC%B0%A8-TIL-%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EB%B0%8F-RESTful%ED%95%9C-API%EC%84%A4%EA%B3%84Param-vs-Query-vs-Body)
@@ -432,6 +440,7 @@ head:
   <!-- END: jakpentest -->
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [API Gateway란? 역할, MSA 활용, 그리고 장단점](htts://dreamcoding.tistory.com/m/121)
+  - [힙 메모리 관점에서 바라본 `static` 필드 사용의 장단점](https://dreamcoding.tistory.com/m/124)
   <!-- END: dreamcoding -->
 <!-- END: tistory.com -->
 
@@ -883,6 +892,14 @@ head:
 - [Don’t use the maxlength attribute to stop users from exceeding the limit](https://adamsilver.io/blog/dont-use-the-maxlength-attribute-to-stop-users-from-exceeding-the-limit/)
 
 <!-- END: adamsilver.io -->
+
+---
+
+## Log on Me
+
+- [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
+
+<!-- END: logonme.net -->
 
 ---
 

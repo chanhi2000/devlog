@@ -199,6 +199,7 @@ head:
 - [`@juhee067` / Ref 잘못 사용한 내 코드 수정하기](https://velog.io/@juhee067/Ref-forwardRef)
 - [`@juhee067` / `react-helmet-async`으로 SEO 최적화하기](https://velog.io/@juhee067/react-helmet-async%EC%9C%BC%EB%A1%9C-SEO-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0)
 - [`@composite` / HTMX를 React와 비교하려는 이유가 뭐냐](https://velog.io/@composite/HTMX%EB%A5%BC-React%EC%99%80-%EB%B9%84%EA%B5%90%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%90%EB%83%90)
+- [`@devohda` / \[React\] memo, useMemo 의 차이](https://velog.io/@devohda/React-memo-useMemo-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 <!-- END: velog.io -->
 
@@ -414,6 +415,7 @@ head:
 - [`nytimes` / Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 - [`santhoshsundar` / Using the 5S principle in coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 - [`kmong` / React Server Component로 프론트엔드 개발 혁신하기 Part.2](https://blog.kmong.com/react-server-component%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%98%81%EC%8B%A0%ED%95%98%EA%B8%B0-part-2-5cf0bf4416b0?source=rss-62ff0a08953f------2)
+- [`junghan92` / (번역) 리액트 컴파일러 사용법 — 완벽 가이드](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-a6a0e96edc97?source=rss-4f4a02f8f2cf------2)
 
 <!-- END: medium.com -->
 
@@ -1263,6 +1265,7 @@ https://o-yeon.tistory.com/227
 ## 폴시랩
 
 - [React의 지난 16, 17, 18 버전의 업데이트를 간단하게 알아보자](https://falsy.me/%ec%a7%80%eb%82%9c-react%ec%9d%98-%eb%a6%b4%eb%a6%ac%ec%8a%a4-%eb%82%b4%ec%97%ad%ea%b3%bc-%ed%95%a8%ea%bb%98-react%ec%97%90-%eb%8c%80%ed%95%b4-%ec%a1%b0%ea%b8%88-%eb%8d%94-%ec%9e%90%ec%84%b8%ed%9e%88/)
+- [React 19 버전에 추가될 기능들을 알아보자](https://falsy.me/react-19-%eb%b2%84%ec%a0%84%ec%97%90-%ec%b6%94%ea%b0%80%eb%90%a0-%ea%b8%b0%eb%8a%a5%eb%93%a4%ec%9d%84-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
 
 <!-- END: falsy.me -->
 

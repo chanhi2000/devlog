@@ -39,4 +39,12 @@ head:
 
 ---
 
+## Grafana: The open observability platform | Grafana Labs
+
+- [How to use Prometheus to efficiently detect anomalies at scale](https://grafana.com/blog/2024/10/03/how-to-use-prometheus-to-efficiently-detect-anomalies-at-scale/)
+
+<!-- END: grafana.com -->
+
+---
+
 <TagLinks />

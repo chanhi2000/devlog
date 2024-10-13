@@ -657,4 +657,12 @@ head:
 
 ---
 
+## Zuplo API Management
+
+- [Unlocking the Power of JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
+
+<!-- END: zuplo.com -->
+
+---
+
 <TagLinks />

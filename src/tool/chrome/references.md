@@ -111,15 +111,18 @@ tag:
 
 ---
 
-## sunyzero
+## tistory
 
-- [크롬에서 탭 닫은 후 우측 상단에 "닫기" 버튼이 보이는 문제 (버그?)](https://sunyzero.tistory.com/296)
-
----
-
-## 코딩팩토리
-
-- [[Web] 크롬 베타, 개발자 버전(Chrome Beta, Chrome Dev) 설치 & 다운로드 방법](https://coding-factory.tistory.com/1053)
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [ChromeDriver Chrome 버전 115 이상, Chrome for Testing 다운로드 경로](https://aspdotnet.tistory.com/m/3282)
+  <!-- END: aspdotnet -->
+- [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
+  - [크롬에서 탭 닫은 후 우측 상단에 "닫기" 버튼이 보이는 문제 (버그?)](https://sunyzero.tistory.com/m/296)
+  <!-- END: sunyzero -->
+- [`coding-factory` / 코딩팩토리](https://coding-factory.tistory.com/m/)
+  - [[Web] 크롬 베타, 개발자 버전(Chrome Beta, Chrome Dev) 설치 & 다운로드 방법](https://coding-factory.tistory.com/m/1053)
+  <!-- END: coding-factory -->
+<!-- END: tistory.com -->
 
 ---
 

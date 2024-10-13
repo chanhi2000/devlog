@@ -288,6 +288,8 @@ tag:
   - [임베디드 리눅스 디버깅 & 프로파일링](https://1000sj.tistory.com/m/348)
   - [`BuildRoot` 사용법 요약](https://1000sj.tistory.com/m/379)
   - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
+  - [Linux Device Driver 기초 #3 Linux Device Driver 추가하기](https://1000sj.tistory.com/m/396)
+  - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
   <!-- END: 1000sj -->
 - [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
   - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
@@ -298,6 +300,10 @@ tag:
 - [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
   - [알아두면 쓸데있는 Ubuntu 명령어 모음](https://cori.tistory.com/m/358)
   <!-- END: cori -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [네트워크 인터페이스](https://jeongchul.tistory.com/m/803)
+  - [L4 vs L7 스위칭 장비](https://jeongchul.tistory.com/m/808)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---
@@ -431,6 +437,23 @@ tag:
 - [Linux Ubuntu Let's Encrypt를 이용한 무료 SSL 적용](https://jinseong0928.blogspot.com/2024/10/linux-ubuntu-lets-encrypt-ssl.html)
 
 <!-- END: jinseong0928.blogspot.com -->
+
+---
+
+## 신현석(Hyeonseok Shin)
+
+- [Puppeteer에서 SSH 터널링 프록시 사용하기](https://hyeonseok.com/blog/923)
+
+<!-- END: hyeonseok.com -->
+
+---
+
+## TWpower's Tech Blog
+
+- [\[Let’s Encrypt\](EN) Case of subdomain’s certificate was applied to root domain](https://twpower.github.io/358-case-of-subdomain-certificate-was-applied-to-root-domain-in-letsencrypt-en)
+- [\[Let’s Encrypt\] 도메인의 인증서가 서브도메인의 인증서로 적용되었던 사례](https://twpower.github.io/359-case-of-subdomain-certificate-was-applied-to-root-domain-in-letsencrypt)
+
+<!-- END: twpower.github.io -->
 
 ---
 

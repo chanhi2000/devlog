@@ -1070,6 +1070,13 @@ https://www.joinc.co.kr/w/Site
   logo="https://flaviocopes.com/favicon.ico"
   preview="https://flaviocopes.com/images/og.png"/>
 
+<SiteInfo
+  name="코딩에브리바디"
+  desc="코딩에브리바디는 HTML, CSS, JAVASCRIPT, PHP, PYTHON, SQL, C++ 등 모든 사람을 위한 코딩 학습서입니다."
+  url="https://codingeverybody.kr/"
+  logo="https://codingeverybody.kr/wp-content/uploads/cropped-favicon-origin-192x192.png"
+  preview="https://codingeverybody.kr/wp-content/themes/codingeverybody/assets/images/branding/social-share_img.png"/>
+
 https://rogerdudler.github.io/git-guide/index.html
 https://rogerdudler.github.io/git-guide/index.ko.html
 https://ui-patterns.com/patterns

@@ -87,6 +87,9 @@ tag:
 - [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
   - [장치관리자 느낌표 : 알 수 없는 장치, SM 버스 컨트롤러, PCI 장치](https://sunyzero.tistory.com/m/303)
   <!-- END: sunyzero -->
+- [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
+  - [starting docker engine error](https://cori.tistory.com/m/362)
+  <!-- END: cori -->
 <!-- END: tistory.com -->
 
 ---
@@ -309,6 +312,14 @@ tag:
 - [윈도우11에서 화면 캡처(캡처도구)를 이용한 이미지에서 텍스트 가져오기](https://m.blog.naver.com/chandong83/223599944635)
 
 <!-- END: chandong83 (blog.naver.com) -->
+
+---
+
+## 제이의 IT 스토리
+
+- [J-CRM 프로그램 설치 작업, 문자 자동 업로드](https://m.blog.naver.com/oralol/223623684102)
+
+<!-- END: oralol ()blog.naver.com -->
 
 ---
 

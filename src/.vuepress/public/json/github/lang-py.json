@@ -8191,5 +8191,54 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/151c5c1533940d6f63d6b5b88e7975a522fcbe9a944f26b07159693f32853c52/google/mozc-devices"
+  }, {
+    "repo": "hacksider/Deep-Live-Cam",
+    "desc": "real time face swap and one-click video deepfake with only a single image",
+    "officialSite": "",
+    "topics": ["ai", "artificial-intelligence", "faceswap", "webcam", "webcamera", "deepfake", "deep-fake", "ai-face", "video-deepfake", "realtime-deepfake", "deepfake-webcam", "realtime-face-changer", "fake-webcam", "ai-webcam", "ai-deep-fake", "real-time-deepfake"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/22f70e4b331af63b41b96279fe33d37aee80a93d35fb96378f15ab9e5636ae2b/hacksider/Deep-Live-Cam"
+  }, {
+    "repo": "lifeiteng/OmniSenseVoice",
+    "desc": "Omni SenseVoice: High-Speed Speech Recognition with words timestamps 🗣️🎯",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0f2e71fe609e96ba633a00265277760ebe3dad148020c0488fd0db962d3ea78e/lifeiteng/OmniSenseVoice"
+  }, {
+    "repo": "phidatahq/phidata",
+    "desc": "Build AI Agents with memory, knowledge, tools and reasoning",
+    "officialSite": "https://docs.phidata.com",
+    "topics": ["python", "aws", "ai", "developer-tools", "gpt-4", "llm", "llmops"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/b56376fb5e140629305385ac0fb390d4780fbcc36779f38c1d6cd096e253330e/phidatahq/phidata"
+  }, {
+    "repo": "serengil/deepface",
+    "desc": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "officialSite": "https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E&index=1",
+    "topics": ["python", "machine-learning", "deep-learning", "facial-recognition", "face-recognition", "openface", "facenet", "face-analysis", "facial-expression-recognition", "emotion-recognition", "age-prediction", "gender-prediction", "deepid", "vgg-face", "deepface", "arcface", "race-classification"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f122a8b9490a2dc8245f854c5c53f4aa343640cdf2c2cc67c8f6ea0424e8b5d4/serengil/deepface"
+  }, {
+    "repo": "rany2/edge-tts",
+    "desc": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+    "officialSite": "https://pypi.org/project/edge-tts/",
+    "topics": ["text-to-speech", "tts", "speech-synthesis"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d9fc077e4116518d71e6f691101087a47fc75ca2aeed7c542d1f1f6a02a7b182/rany2/edge-tts"
+  }, {
+    "repo": "iterative/datachain",
+    "desc": "AI-data warehouse to enrich, transform and analyze data from cloud storages",
+    "officialSite": "https://docs.datachain.ai",
+    "topics": ["ai", "cv", "embeddings", "data-analytics", "data-wrangling", "multimodal", "mlops", "llm", "llm-eval"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/820144741/f8188bf4-8d51-4fd6-a981-844b206e1aad"
+  }, {
+    "repo": "rany2/edge-tts",
+    "desc": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+    "officialSite": "https://pypi.org/project/edge-tts/",
+    "topics": ["text-to-speech", "tts", "speech-synthesis"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/053002a6dd7cb05ced8dac4b3eda7c75482a9a74eefb588526ce810c8b70152e/rany2/edge-tts"
   }
 ]

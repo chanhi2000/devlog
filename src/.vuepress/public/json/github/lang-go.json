@@ -2680,5 +2680,33 @@
     "topics": ["docker", "devops", "deployment", "continuous-integration", "continuous-delivery", "containers", "continuous-deployment", "ci-cd", "buildkit"],
     "avatar": "https://avatars.githubusercontent.com/u/179503?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/9c2ba8d9c943c889e8448ce2672efa525f080a83dc173cc2302c75cf57a50af8/dagger/dagger"
+  }, {
+    "repo": "teamhanko/hanko",
+    "desc": "Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.",
+    "officialSite": "https://hanko.io",
+    "topics": ["oauth", "jwt", "saml", "authentication", "user-management", "sso", "passwordless", "hacktoberfest", "2fa", "ciam", "webauthn", "fido2", "sign-in-with-apple", "sign-in-with-google", "passkeys"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f62af64fd868cf6ab8727072287c538085d00a58437da98b3e756b759a4d8641/teamhanko/hanko"
+  }, {
+    "repo": "prometheus/OpenMetrics",
+    "desc": "Evolving the Prometheus exposition format into a standard.",
+    "officialSite": "https://openmetrics.io",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2c00db34bec4a2a72605f6b70db6aef35ef2ef241b86600fa0019a06de27c25c/prometheus/OpenMetrics"
+  }, {
+    "repo": "google/kube-startup-cpu-boost",
+    "desc": "Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time",
+    "officialSite": "",
+    "topics": ["kubernetes", "kubernetes-operator", "cpu-boost"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/14259046cf90fb7e17c215609328fcd3e3053e5b326bf101e3be17e398d717a8/google/kube-startup-cpu-boost"
+  }, {
+    "repo": "neilotoole/sq",
+    "desc": "sq data wrangler. Contribute to neilotoole/sq development by creating an account on GitHub.",
+    "officialSite": "https://sq.io",
+    "topics": ["mysql", "go", "markdown", "golang", "tsv", "postgres", "json", "csv", "sql", "database", "xml", "excel", "xlsx", "sqlserver", "jsonl", "jsona", "data-wrangler", "azure-sql-edge"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0ab88a6a67fb751ca9b122e64a6493457e587a39085ec9c62579712b75cba785/neilotoole/sq"
   }
 ]

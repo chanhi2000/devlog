@@ -42,6 +42,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`taesulee93` / 효율적인 HTTP API 버전 관리 방법 — Efficient HTTP API versioning](https://medium.com/@taesulee93/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-http-api-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-efficient-http-api-versioning-f48e11e838fc?source=rss-524631d9bcfb------2)
+
+<!-- END: medium.com -->
+
+---
+
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
@@ -49,6 +57,10 @@ head:
 - [`@euisuk-chung` / \[개념\] 시스템, 미분방정식, 그리고 상태 공간 모델](https://velog.io/@euisuk-chung/%EA%B0%9C-%EC%83%81%ED%83%9C-%EA%B3%B5%EA%B0%84-%EB%AA%A8%EB%8D%B8State-Space-Model)
 - [`@dnr6054` / \[MP\] Parallel Sorting](https://velog.io/@dnr6054/MP-Parallel-Sorting)
 - [`@sweet_sumin` / 컴파일러와 인터프리터](https://velog.io/@sweet_sumin/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%99%80-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
+- [`@jwlee010523` / 그래프(Graph](https://velog.io/@jwlee010523/Graph)
+- [`@jwlee010523` / 그래프의 탐색 - DFS(Depth first search)](https://velog.io/@jwlee010523/DFS)
+- [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
+- [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
 
 <!-- END: velog.io -->
 
@@ -69,6 +81,7 @@ head:
 ## Brunch
 
 - [`@2xm` / 14. 소프트웨어 공학의 특성 - 소프트웨어 개발의 3가지 메타포 중 하나인 공학에 대해서](https://brunch.co.kr/@@2xm/83)
+- [`@2rV` / AB 테스트의 현실: 비용과 실험의 딜레마](https://brunch.co.kr/@@2rV/187)
 
 <!-- END: brunch.co.kr -->
 
@@ -136,6 +149,14 @@ head:
   - [AES 알고리즘](https://jeongchul.tistory.com/m/755)
   - [HTTP/1.1 과 HTTP/2 비교](https://jeongchul.tistory.com/m/756)
   - [HTTP Keep Alive](https://jeongchul.tistory.com/m/758)
+  - [FIFO Queue](https://jeongchul.tistory.com/m/788)
+  - [네트워크 라우팅 테이블](https://jeongchul.tistory.com/m/804)
+  - [다익스트라 알고리즘 Dijkstra's Algorithm](https://jeongchul.tistory.com/m/805)
+  - [벨만 포드 Bellman-Ford](https://jeongchul.tistory.com/m/806)
+  - [Network Address Translation (NAT)](https://jeongchul.tistory.com/m/807)
+  - [L4 vs L7 스위칭 장비](https://jeongchul.tistory.com/m/808)
+  - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
+  - [DNS 서버](https://jeongchul.tistory.com/m/810)
   <!-- END: jeongchul -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [<도둑맞은 집중력> 읽다가 멀티 스레드 공부 하게 된 이야기 : multiThread & concurrency 1](https://6161990src.tistory.com/m/150)
@@ -157,6 +178,7 @@ head:
 - [`@qkrtkdwns3410` / BSON 이 뭐야?](https://velog.io/@qkrtkdwns3410/BSON-%EC%9D%B4-%EB%AD%90%EC%95%BC)
 - [`@euisuk-chung` / \[CV Notes\] Lecture 18 - Videos](https://velog.io/@euisuk-chung/CV-Notes-Lecture-18-Videos)
 - [`@qkrtkdwns3410` / \[웹서버 만들기\] 배경지식. URL 의 구성](https://velog.io/@qkrtkdwns3410/%EC%9B%B9%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D.-URL-%EC%9D%98-%EA%B5%AC%EC%84%B1)
+- [`@jwlee010523` / 그래프(Graph](https://velog.io/@jwlee010523/Graph)
 
 <!-- END: velog.io -->
 
@@ -230,6 +252,7 @@ head:
 ## jacking75
 
 - [IT 엔지니어라면 당연히 알아야 할 보안 지식 퀴즈. 무료 Wi-Fi 편](https://jacking75.github.io/network_20241003/)
+- [SkipList 설명](https://jacking75.github.io/tech_20241019/)
 
 <!-- END: jacking75.github.io -->
 

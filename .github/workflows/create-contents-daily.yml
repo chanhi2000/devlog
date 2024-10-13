@@ -1,0 +1,43 @@
+name: Fetch Daily Content Markdown File
+run-name: ${{ github.actor }} is Running 🚀
+on:
+  schedule:
+    # Runs daily at 6:00 AM,PM UTC (adjust the cron expression as needed)
+    - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20 # Specify your Node.js version
+        cache: npm
+
+    - name: Install dependencies
+      run: |
+        npm ci
+
+    - name: Run fetch.sh
+      run: |-
+        npm run devo-api-build
+        sh fetch.sh
+
+    - name: Upload generated files as an artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: generated files
+        path: |
+          scripts/src/*.md
+          scripts/src/*.json

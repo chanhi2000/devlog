@@ -92,9 +92,20 @@ tag:
 
 ---
 
-## Kani Kim Dev
+## tistory
 
-- [[번역] Django REST Framework(장고 레스트 프레임워크): 장점과 단점 그리고 이의 대체제](https://kimkani.tistory.com/64)
+- [`kimkani` / Kani Kim Dev](https://kimkani.tistory.com/m/)
+  - [[번역] Django REST Framework(장고 레스트 프레임워크): 장점과 단점 그리고 이의 대체제](https://kimkani.tistory.com/64)
+  - [\[Django\] QuerySet, Manager, Active Record 패턴, django-model-utils의 InheritanceManager들 톺아보기 및 성능 개선기](https://kimkani.tistory.com/m/67)
+  <!-- END: kimkani -->
+- [`he-kate1130` / KATE.log](https://he-kate1130.tistory.com/m/)
+  - [[Threepark] 3. 백엔드 구현 - (4) DRF 개발 | DB & MODEL](https://he-kate1130.tistory.com/m/92)
+  - [[Threepark] 3. 백엔드 구현 - (5) DRF 개발 | SERIALIZER](https://he-kate1130.tistory.com/m/93)
+  - [[Threepark] 3. 백엔드 구현 - (6) DRF 개발 | PERMISSION](https://he-kate1130.tistory.com/m/94)
+  - [[Threepark] 3. 백엔드 구현 - (7) DRF 개발 | VIEW](https://he-kate1130.tistory.com/m/95)
+  - [[Threepark] 3. 백엔드 구현 - (8) DRF 개발 | API문서 Swagger](https://he-kate1130.tistory.com/m/97)
+  <!-- END: he-kate1130 -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -113,16 +124,6 @@ tag:
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [파이썬 대표 프레임워크 ‘장고’의 개발 트랜드는?··· 장고 개발자 설문조사 2024 핵심 내용](https://ciokorea.com/news/336466)
-
----
-
-## KATE.log
-
-- [[Threepark] 3. 백엔드 구현 - (4) DRF 개발 | DB & MODEL](https://he-kate1130.tistory.com/92)
-- [[Threepark] 3. 백엔드 구현 - (5) DRF 개발 | SERIALIZER](https://he-kate1130.tistory.com/93)
-- [[Threepark] 3. 백엔드 구현 - (6) DRF 개발 | PERMISSION](https://he-kate1130.tistory.com/94)
-- [[Threepark] 3. 백엔드 구현 - (7) DRF 개발 | VIEW](https://he-kate1130.tistory.com/95)
-- [[Threepark] 3. 백엔드 구현 - (8) DRF 개발 | API문서 Swagger](https://he-kate1130.tistory.com/97)
 
 ---
 

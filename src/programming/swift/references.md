@@ -90,7 +90,8 @@ tag:
 - [`@jacobbartlett` / he 2FA app that tells you when you get `012345`](https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns)
 - [`@fatbobman` / Fatbobman's Swift Weekly #026](https://weekly.fatbobman.com/p/fatbobmans-swift-weekly-026)
 - [`@rudrank` / Exploring Claude: Streaming Messages Using Claude 3 Haiku](https://www.rudrank.com/exploring-claude-streaming-messages-using-claude-3-haiku)
-- [The Meme that gave me Imposter Syndrome](https://jacobbartlett.substack.com/p/the-meme-that-gave-me-imposter-syndrome)
+- [`jacobbartlett` / The Meme that gave me Imposter Syndrome](https://jacobbartlett.substack.com/p/the-meme-that-gave-me-imposter-syndrome)
+- [`jacobstechtavern` / Migrating Combine to AsyncAlgorithms](https://blog.jacobstechtavern.com/p/migrating-combine-to-asyncalgorithms)
 
 ---
 
@@ -186,6 +187,7 @@ tag:
 - [`donggyu9410` / SwiftUI의 View 프로토콜이 구조체인 이유](https://donggyu9410.medium.com/swiftui%EC%9D%98-view-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%B4-%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%9D%B8-%EC%9D%B4%EC%9C%A0-ff4346fc3b6e?source=rss-72a3dab9ff43------2)
 - [`donggyu9410` / Swift 생성자 심화](https://donggyu9410.medium.com/swift-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%8B%AC%ED%99%94-e69c0dc53f35?source=rss-72a3dab9ff43------2)
 - [`dimillian` / Some tips & tricks with the new iOS 18 ScrollView API](https://dimillian.medium.com/some-tips-tricks-with-the-new-ios-18-scrollview-api-95632b41bc8e)
+- [`parable-engineering` / How to easily create ZIP files in Swift without third-party dependencies](https://medium.com/parable-engineering/how-to-easily-create-zip-files-in-swift-without-third-party-dependencies-a1c36a451ea1)
 
 <!-- END: medium.com -->
 
@@ -496,6 +498,9 @@ tag:
 
 - [New Frameworks, New Mindset: Unveiling the Observation and SwiftData Frameworks](https://fatbobman.com/en/posts/new-frameworks-new-mindset/)
 - [What Does spacing = nil Mean in SwiftUI?](https://fatbobman.com/en/posts/spacing-of-swiftui/)
+- [Reinventing Core Data Development with SwiftData Principles](https://fatbobman.com/en/posts/reinventing-core-data-development-with-swiftdata-principles/)
+
+<!-- END: fatbobman.com -->
 
 ---
 
@@ -515,6 +520,7 @@ tag:
 
 - [Enable SwiftUI Button Click-Through for Inactive Windows on macOS](https://christiantietze.de/posts/2024/04/enable-swiftui-button-click-through-inactive-windows)
 - [Use and Then Reduce Open Source Dependencies](https://christiantietze.de/posts/2024/05/use-and-reduce-dependencies/)
+- [Beware UserDefaults: a tale of hard to find bugs, and lost data](https://christianselig.com/2024/10/beware-userdefaults/)
 
 ---
 

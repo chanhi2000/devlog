@@ -357,6 +357,7 @@ head:
   - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
   - [한글 자모 교정기 (Hangul Grapheme Corrector) 프로그램 exe](https://aspdotnet.tistory.com/m/3254)
   - [검색 및 유효성 검사 기능을 갖춘 React, .NET, SQLite 및 Ant 디자인으로 풀 스택 CRUD 앱을 구축](https://aspdotnet.tistory.com/m/3276)
+  - [EPPlus 7 요약 - 상업적 사용 방법](https://aspdotnet.tistory.com/m/3279)
   <!-- END: aspdotnet -->
 - [`hyunjungchoi` / 행뽁🐥](https://hyunjungchoi.tistory.com/m/)
   - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/m/153)
@@ -368,6 +369,9 @@ head:
   - [\[C#\] 구조체의 get/set을 조심하자](https://doublsb.tistory.com/m/171)
   - [How We Die: 우리들이 죽는 방법 회고 (2) - 개발](https://doublsb.tistory.com/m/175)
   <!-- END: doublsb -->
+- [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
+  - [C#\] 'Review Project And Solution Changes' 프로젝트 load 오류](https://singo112ok.tistory.com/m/285)
+  <!-- END: singo112ok -->
 <!-- END: tistory.com -->
 
 ---
@@ -654,6 +658,27 @@ head:
 - [C# in 키워드 정리](http://leafbird.github.io/devnote/2024/10/01/C-in-%ED%82%A4%EC%9B%8C%EB%93%9C-%EC%A0%95%EB%A6%AC/)
 
 <!-- END: leafbird.github.io -->
+
+---
+
+## 상구리의 기술 블로그
+
+- [WebSocket with .NET Core](https://skyer9.pe.kr/wordpress/?p=9489)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
+## Charo
+
+- [헤드퍼스트 디자인패턴 정리 01 - 전략패턴](https://charotiti9.github.io/devlog/Strategy-Pattern.html)
+- [헤드퍼스트 디자인패턴 정리 02 - 옵저버패턴](https://charotiti9.github.io/devlog/Observer-Pattern.html)
+- [헤드퍼스트 디자인패턴 정리 03 - 데코레이터 패턴](https://charotiti9.github.io/devlog/Decorator-Pattern.html)
+- [헤드퍼스트 디자인패턴 정리 04 - 팩토리 패턴](https://charotiti9.github.io/devlog/Factory-Pattern.html)
+- [헤드퍼스트 디자인패턴 정리 05 - 싱글턴 패턴](https://charotiti9.github.io/devlog/Singleton-Pattern.html)
+- [헤드퍼스트 디자인패턴 정리 06 - 커맨드 패턴](https://charotiti9.github.io/devlog/Command-Pattern.html)
+
+<!-- END: charotiti9.github.io -->
 
 ---
 

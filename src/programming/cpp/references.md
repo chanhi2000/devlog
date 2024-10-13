@@ -282,6 +282,14 @@ head:
 - [LxMFC에 조그 다이얼 컨트롤이 추가되었습니다.](https://m.blog.naver.com/tipsware/223614508334)
 - [조그 다이얼 추가 예시 ( Step 2 )](https://m.blog.naver.com/tipsware/223615045585)
 - ['그리드 만들기' 실습 예제를 공부해 보세요 :)](https://m.blog.naver.com/tipsware/223616541245)
+- [WM_COPYDATA로 다른 프로그램과 데이터 주고받기](https://m.blog.naver.com/tipsware/223617376578)
+- [공유 메모리를 사용해서 다른 프로그램과 데이터 주고받기](https://m.blog.naver.com/tipsware/223619091512)
+- [Beep 함수](https://m.blog.naver.com/tipsware/223620431062)
+- [sndPlaySound 함수](https://m.blog.naver.com/tipsware/223623233116)
+- [아날로그 게이지로 값 출력하기 - Step 1](https://m.blog.naver.com/tipsware/223624587311)
+- [\[Q&A\] MFC Button Control과 CMFCButton 객체가 연결되는 시점을 변경하고 싶습니다.](https://m.blog.naver.com/tipsware/223625600418)
+- [공유 메모리를 사용해서 데이터 공유하기](https://m.blog.naver.com/tipsware/223626732133)
+
 <!-- END: tipsware (m.blog.naver.com) -->
 
 ---

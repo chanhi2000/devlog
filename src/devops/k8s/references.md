@@ -124,6 +124,13 @@ head:
   - [Redis Insight Kubernetes 배포](https://jeongchul.tistory.com/m/726)
   - [Harbor Kubernetes Helm 설치](https://jeongchul.tistory.com/m/728)
   - [ArgoCD Kubenetes Helm 구축](https://jeongchul.tistory.com/m/729)
+  <!-- - [Kubernetes Liveness Readiness](https://jeongchul.tistory.com/m/776) -->
+  - [Kubernetes Traffic](https://jeongchul.tistory.com/m/777)
+  - [Kubernetes Ingress Controller](https://jeongchul.tistory.com/m/778)
+  - [Istio VirtualService](https://jeongchul.tistory.com/m/779)
+  - [Kubernetes Session Affinity](https://jeongchul.tistory.com/m/780)
+  - [Kubernetes Dashboard 배포 Istio domain 설정](https://jeongchul.tistory.com/m/782)
+  - [Rabbit MQ Kubernetes Helm 배포](https://jeongchul.tistory.com/m/787)
   <!-- END: jeongchul -->
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
@@ -177,6 +184,7 @@ head:
 - [`fengruohang` / Database in Kubernetes: Is that a good idea?](https://medium.com/@fengruohang/database-in-kubernetes-is-that-a-good-idea-daf5775b5c1f)
 - [`mathieuces` / How to calculate CPU for containers in k8s dynamically ?](https://medium.com/@mathieuces/how-to-calculate-cpu-for-containers-in-k8s-dynamically-47a89e3886eb)
 - [`itnext` / 5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
+- [`disha.20.10` / Introduction to the Gateway API: Revolutionizing Kubernetes Networking](https://medium.com/@disha.20.10/introduction-to-the-gateway-api-revolutionizing-kubernetes-networking-7b0c9a696038)
 
 <!-- END: medium.com -->
 
@@ -286,7 +294,8 @@ head:
 - [`@qkrtkdwns3410` - 마스터 노드와 워커 노드](https://velog.io/@qkrtkdwns3410/%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%85%B8%EB%93%9C%EC%99%80-%EC%9B%8C%EC%BB%A4-%EB%85%B8%EB%93%9C)
 - [`@nari120` / 01_쿠버네티스 개요와 클러스터 설치](https://velog.io/@nari120/24%EB%8B%A8%EA%B3%84-%EC%8B%A4%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%B3%B5%ED%95%98%EB%8A%94-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-01%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B0%9C%EC%9A%94%EC%99%80-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%84%A4%EC%B9%98)
 - [`@nari120` / 02_효율적인 쿠버네티스 클러스터 관리를 위한 kubectl CLI 환경 최적화](https://velog.io/@nari120/02%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-kubectl-CLI-%ED%99%98%EA%B2%BD-%EC%B5%9C%EC%A0%81%ED%99%94)
-
+- [`@nari120` / 03_ `kubectl` 명령어로 익히는 쿠버네티스의 주요 오브젝트](https://velog.io/@nari120/03-kubectl-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
+- [`@nari120` / 04_YAML 파일을 이용한 쿠버네티스 오브젝트 관리](https://velog.io/@nari120/04YAML-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC)
 
 <!-- END: velog.io -->
 
@@ -426,6 +435,7 @@ head:
 - [Multus on Kind cluster](https://ddii.dev/kubernetes/multus-on-kind/)
 - [ExternalDNS](https://ddii.dev/kubernetes/externaldns/)
 - [Kubernetes Headless Service](https://ddii.dev/kubernetes/headless-service/)
+- [Istio Ambient Mode on K3d](https://ddii.dev/kubernetes/istio-ambient)
 
 <!-- END: ddii.dev -->
 
@@ -444,6 +454,14 @@ head:
 - [\[KANS\] 3기 3주 – Calico CNI & Network Mode](https://logonme.net/activities/study/kans_3_3/)
 
 <!-- END: logonme.net -->
+
+---
+
+## jacking75
+
+- [KillerCoda로 Kubernetes 학습하기](https://jacking75.github.io/tech_20241015/)
+
+<!-- END: jacking75.github.io -->
 
 ---
 

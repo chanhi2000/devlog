@@ -188,6 +188,7 @@ tag:
 - [`_thomaskioko` / Enhancing iOS UI Previews: Swift UI Packages & Kotlin Multiplatform Mobile.](https://medium.com/@_thomaskioko/enhancing-ios-development-with-swift-ui-packages-kmm-fa31901fa146)
 - [`hongbeomi-dev` / Compose에서 State Holder를 통해 효율적으로 State 관리하기](https://medium.com/hongbeomi-dev/compose%EC%97%90%EC%84%9C-state-holder%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-state-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-6abd1eca4e25?source=rss-c941a8b6c471------2)
 - [`proandroiddev` / Optimized Image Loading for Compose and Kotlin Multiplatform](https://proandroiddev.com/optimized-image-loading-for-compose-and-kotlin-multiplatform-a45eb2e710c0)
+- [`mikhailovskii.sergei` / Viewing the logs inside the application with LogKMPanion](https://medium.com/@mikhailovskii.sergei/viewing-the-logs-inside-the-application-with-logkmpanion-90ed41f4a8e6)
 
 <!-- END: medium.com -->
 
@@ -231,12 +232,23 @@ tag:
 
 <!-- END: blex.me -->
 
+---
+
 ## Brunch
 
 - [`@2Kn8` / 안드로이드 Room - Android Jetpack](https://brunch.co.kr/@@2Kn8/216)
 - [`@2Kn8` / 안드로이드 Hilt - Android Jetpack](https://brunch.co.kr/@@2Kn8/217)
 
 <!-- END: brunch.co.kr -->
+
+---
+
+## tistory
+
+- [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
+  - [Google Console 개발자 계정 확인 (개인 계정)](https://singo112ok.tistory.com/m/286)
+  <!-- END: singo112ok -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -448,6 +460,10 @@ tag:
 - [상속! 악마의 속삭임, 그 속에 숨겨진 문제점, Kotlin에서는 Delegation을 활용해 보자.](https://thdev.tech/kotlin/2020/12/01/kotlin_effective_13)
 - [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15)
 
+### 2024
+
+- [Android에서 효율적인 모듈 디펜던시 관리하기, build-logic으로 전환하기?](https://thdev.tech/android/2024/10/20/Android-dependency-manage/)
+
 ---
 
 ## Speaker Deck | Easily Share Your Presentations Online
@@ -463,6 +479,7 @@ tag:
 - [Jetpack Compose to Compose Multiplatform: Transition Guide](https://touchlab.co/compose-multiplatform-transition-guide)
 - [Compose Multiplatform + Lottie Animations](https://touchlab.co/compose-multiplatform-lottie)
 - [Compose Multiplatform and the Native App Future](https://touchlab.co/cmp-and-the-future)
+- [Piloting Kotlin Multiplatform is Easy. Scaling is Hard.](https://touchlab.co/kmp-teams-piloting-vs-scaling)
 
 ---
 
@@ -698,6 +715,14 @@ tag:
 - [Understanding Jetpack Compose](https://mohammedakram.com/understanding-jetpack-compose)
 
 <!-- END: mohammedakram.com -->
+
+---
+
+## theapache64
+
+- [Why r8 preferred BMW over Audi?](https://theapache64.github.io/posts/why-r8-preferred-bmw-over-audi/)
+
+<!-- END: theapache64.github.io -->
 
 ---
 

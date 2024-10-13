@@ -147,6 +147,10 @@ head:
 - [`eunbibi` / Sympy](https://velog.io/@eunbibi/Sympy)
 - [`@euisuk-chung` / \[파이썬\] 정규표현식 활용  방법](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 - [`@qlgks1` / python request 그만쓰세요? even 하게 익은 `curl_cffi`](https://velog.io/@qlgks1/python-request-%EA%B7%B8%EB%A7%8C%EC%93%B0%EC%84%B8%EC%9A%94-even-%ED%95%98%EA%B2%8C-%EC%9D%B5%EC%9D%80-curlcffi)
+- [`@parallelkim` / AI는 자기 진화의 꿈을 꾸는가?](https://velog.io/@parallelkim/Magi)
+- [`@yomapi` / \[python\] 비동기처리를 알아보자: iteraotr와 genrator](https://velog.io/@yomapi/python-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-iteraotr%EC%99%80-genrator)
+- [`@yomapi` / \[python\] python 비동기: OS 관점에서 동기/비동기와blocking/non-blocking 이해하기](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-OS-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80blockingnon-blocking-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [`@yomapi` / \[python\] python 비동기: 향상된 generator와 coroutine](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%96%A5%EC%83%81%EB%90%9C-generator%EC%99%80-coroutine)
 
 <!-- END: velog.io -->
 
@@ -831,6 +835,7 @@ head:
   <!-- END: jykim74 -->
 - [`aspdotnet` / 재우니의 블로그](http://aspdotnet.tistory.com/m/)
   - [Python : Playwright 라이브러리, 웹사이트 내용  PDF로 변환](http://aspdotnet.tistory.com/m/3262)
+  - [Python : GitHub Actions와 크롤링 자동화 및 Telegram 알림 전송](https://aspdotnet.tistory.com/m/3284)
   <!-- END: aspdotnet -->
 - [`he-kate1130` / KATE.log](https://he-kate1130.tistory.com/m/)
   - [\[CS study\] 0. 개요](https://he-kate1130.tistory.com/m/113)
@@ -841,7 +846,14 @@ head:
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Python GIL과 Thread](https://jeongchul.tistory.com/m/766)
   - [Python ASGI vs WSGI](https://jeongchul.tistory.com/m/767)
+  - [Python Yield](https://jeongchul.tistory.com/m/781)
+  - [다익스트라 알고리즘 Dijkstra's Algorithm](https://jeongchul.tistory.com/m/805)
+  - [벨만 포드 Bellman-Ford](https://jeongchul.tistory.com/m/806)
+  - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
   <!-- END: jeongchul -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎검색하기](https://pearlluck.tistory.com/m/)
+  - [pgVector 기반 VectorDB 구축 및 효율적인 리소스(메모리,스토리지) 사용](https://pearlluck.tistory.com/m/830)
+  <!-- END: pearlluck -->
 <!-- END: tistory.com -->
 
 ---
@@ -1049,8 +1061,9 @@ head:
 - [Predicting next state and observation in hmmlearn](http://mkseo.pe.kr/blog/?p=5029)
 - [plotly and drawing multiple lines in a single figure](http://mkseo.pe.kr/blog/?p=5043)
 - [Finding all subclasses dynamically in python](http://mkseo.pe.kr/blog/?p=5068)
+- [Recommended config_dict for pydantic.BaseModel](http://mkseo.pe.kr/blog/?p=5074)
 
-<!-- END: http://mkseo.pe.kr -->
+<!-- END: mkseo.pe.kr -->
 
 ---
 
@@ -1074,6 +1087,7 @@ head:
 - [\[백준 31963\] 두 배](https://davincicoding.tistory.com/m/167)
 - [\[백준 4779\] 칸토어 집합](https://davincicoding.tistory.com/m/168)
 - [\[백준 32069\] 가로등](https://davincicoding.tistory.com/m/169)
+- [\[백준 20187\] 종이접기](https://davincicoding.tistory.com/m/170)
 
 <!-- END: davincicoding.tistory.com -->
 
@@ -2389,6 +2403,22 @@ head:
 - [Building internal AI tools with Streamlit](https://propelauth.com/post/internal-ai-tools-with-streamlit)
 
 <!-- END: propelauth.com -->
+
+---
+
+## Michael Kennedy
+
+- [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
+
+<!-- END: mkennedy.codes -->
+
+---
+
+## HedgeDoc - Ideas grow better together
+
+- [Big changes are coming to ArchiveBox!](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
+
+<!-- END: docs.sweeting.me -->
 
 ---
 

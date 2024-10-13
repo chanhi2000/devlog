@@ -168,4 +168,12 @@ tag:
 
 ---
 
+## 김 용묵의 절대공간 - 블로그
+
+- [보는 것과 듣는 것의 차이](http://moogi.new21.org/tc/2353)
+
+<!-- END: moogi.new21.org -->
+
+---
+
 <TagLinks />

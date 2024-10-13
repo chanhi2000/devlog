@@ -148,6 +148,9 @@ head:
 - [STM32G4-IMU-CAN 검증 완료](https://m.blog.naver.com/chandong83/223608133767)
 - [STM32G4-WT-CAN 검증 완료 - 무게 측정 CAN 보드](https://m.blog.naver.com/chandong83/223608928378)
 - [STM32G4-LC 검증 완료 - 네오픽셀, 서보 모터 제어 보드](https://m.blog.naver.com/chandong83/223609035280)
+- [STM32G4-LC 판매 시작 - STM32G4 네오픽셀, 서보 모터 제어 보드](https://m.blog.naver.com/chandong83/223618454066)
+- [STM32G4-LC CAN 통신 데모 영상](https://m.blog.naver.com/chandong83/223619633689)
+- [STM32G4-IMU-CAN 보드 CAN 통신 데모 영상](https://m.blog.naver.com/chandong83/223620064233)
 
 <!-- END: chandong83 (blog.naver.com) -->
 

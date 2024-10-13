@@ -167,7 +167,7 @@ tag:
 - [Light-dark()를 사용한 CSS 색상 스키마에 종속된 색상](https://web.dev/articles/light-dark)
 - [Popover API가 Baseline에 도입](https://web.dev/blog/popover-api)
 - [`@property`: Next-gen CSS variables now with universal browser support](https://web.dev/blog/at-property-baseline)
-
+- [Benchmarking the performance of CSS `@property`](https://web.dev/blog/at-property-performance?hl=en)
 
 ---
 
@@ -764,6 +764,14 @@ tag:
 [Double your specificity with this one weird trick](https://cirrus.twiddles.com/blog/2024/08/21/double-your-specificity-with-this-one-weird-trick/)
 
 <!-- END: https://cirrus.twiddles.com -->
+
+---
+
+## 코딩에브리바디
+
+- [CSS `box-shadow` 속성 – 올바른 이해와 사용 방법](https://codingeverybody.kr/css-box-shadow-%EC%86%8D%EC%84%B1-%EC%98%AC%EB%B0%94%EB%A5%B8-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95/)
+
+<!-- END: codingeverybody.kr -->
 
 ---
 

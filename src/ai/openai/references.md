@@ -112,6 +112,7 @@ head:
 - [`@24SO` / GPT, Brain, and Running](https://brunch.co.kr/@@24SO/46)
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)
 - [`@ZVA` / 생각하는 역량과 오픈AI Strawberry의 역설](https://brunch.co.kr/@@ZVA/734)
+- [`@2hV3` / 한 달간 코칭 50회, 경쟁력 있는 포트폴리오란? - 모든 시간을 GPTs에 담았어요](https://brunch.co.kr/@@2hV3/252)
 
 <!-- END: brunch.co.kr -->
 
@@ -561,6 +562,14 @@ head:
 - [RAG Application for Production (1)](https://swalloow.github.io/rag-application-for-production-1)
 
 <!-- END: swalloow.github.io -->
+
+---
+
+## 최윤섭의 디지털 헬스케어
+
+- [GPT가 초안을 쓴 메시지를 의사가 환자에게 보내는 것이 옳을까?](https://yoonsupchoi.com/2024/10/17/gpt-based-physician-dm/)
+
+<!-- END: yoonsupchoi.com -->
 
 ---
 

@@ -68,6 +68,7 @@ head:
 - [`@euisuk-chung` / \[트리\] 트리 기반 ML 알고리즘](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%A6%AC-%EA%B8%B0%EB%B0%98-ML-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [`@dev_post` / Dev.POST: AI가 써주는 기술 블로그](https://velog.io/@dev_post/Dev.POST-AI%EA%B0%80-%EC%8D%A8%EC%A3%BC%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - [`@bestswlkh0310` / AI 음악으로 영상 만들어서 돈을 번다고?](https://velog.io/@bestswlkh0310/AI-%EC%9D%8C%EC%95%85%EC%9C%BC%EB%A1%9C-%EC%98%81%EC%83%81-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%8F%88%EC%9D%84-%EB%B2%88%EB%8B%A4%EA%B3%A0)
+- [`@euisuk-chung` / \[개념\] GLU와 그 변형들: 역사와 주요 개념 정리](https://velog.io/@euisuk-chung/%EA%B0%9C%EB%85%90-GLU%EC%99%80-%EA%B7%B8-%EB%B3%80%ED%98%95%EB%93%A4-%EC%97%AD%EC%82%AC%EC%99%80-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
 
 <!-- END: velog.io  -->
 
@@ -107,6 +108,7 @@ head:
 - [`@5jl5` / \[책소개\] AI시대의 프로그래머 - AI-Assisted Programming](https://brunch.co.kr/@@5jl5/128)
 - [`@ZVA` / AI 개발자, AI 시대 개발자로서의 일에 대해 묻다](https://brunch.co.kr/@@ZVA/725)
 - [`@5jl5` / 제8회 한국 퀀트투자 컨퍼런스(10월 18일) - 알고리즘에서 AI로: 퀀트투자의 지속적인 진화](https://brunch.co.kr/@@5jl5/130)
+- [`@ZVA` / 노벨상과 AI를 위한 물리학](https://brunch.co.kr/@@ZVA/738)
 
 <!-- END: brunch.co.kr -->
 
@@ -397,7 +399,9 @@ head:
 ## 숲속얘기의 조용한 카페 & XRCLOUD
 
 - [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
+- [AI를 보고 생각해본 인류의 진화해온 방식과 존재](https://m.blog.naver.com/fstory97/223623273117)
 
+<!-- END: fstory97 (blog.naver.com) -->
 ---
 
 ## Customer Experience, Digital Experience & Customer Service News, Webinars, Best Practices & Research
@@ -405,6 +409,15 @@ head:
 - [Why 93% Ignore AI in Marketing](https://cmswire.com/digital-marketing/why-93-ignore-ai-in-marketing/)
 
 <!-- END: cmswire.com -->
+
+---
+
+## Charo
+
+- [행동 복제를 통한 다양한 플레이 스타일 중심의 에이전트 생성](https://charotiti9.github.io/devlog/PCPG-AI-Agent.html)
+- [인공어의 음성합성AI](https://charotiti9.github.io/devlog/Constructed-Language-with-TTS.html)
+
+<!-- END: charotiti9.github.io -->
 
 ---
 

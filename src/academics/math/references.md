@@ -376,6 +376,7 @@ head:
   <!-- END: csj000714 -->
 - [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
   - [RSA 개인키 특성](https://jykim74.tistory.com/m/275)
+  - [수학 빅넘 연산에서 LCM( P-1, Q-1) 값 구하는 법](https://jykim74.tistory.com/m/288)
   <!-- END: jykim74 -->
 - [`darkpgmr` / 다크 프로그래머](https://darkpgmr.tistory.com/m/)
   - [영상 특징점(keypoint) 추출방법](https://darkpgmr.tistory.com/m/131)

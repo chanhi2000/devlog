@@ -471,4 +471,12 @@ tag:
 
 ---
 
+## Novemberde's Blog
+
+- [Golang Project Guide from A to Z: From Feature Development to Enterprise Application Design](https://novemberde.github.io/post/2024/10/15/2024-gophercon-golang-project-guide-a-z/)
+
+<!-- END: novemberde.github.io -->
+
+---
+
 <TagLinks />

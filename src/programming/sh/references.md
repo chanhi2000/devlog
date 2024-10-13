@@ -300,6 +300,9 @@ tag:
 - [`jusths` / just_HS](https://jusths.tistory.com/m/)
   - [터미널에서 Jira 빠르게 열기](https://jusths.tistory.com/m/421)
   <!-- END: jusths -->
+- [`1000sj` / SJ CODE](https://1000sj.tistory.com/m/)
+  - [Linux Device Driver 기초 #5 system daemon과 라이브러리 개발](https://1000sj.tistory.com/m/398)
+  <!-- END: 1000sj -->
 <!-- END: tistory.com -->
 
 ---

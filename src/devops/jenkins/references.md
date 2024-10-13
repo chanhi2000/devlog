@@ -61,6 +61,7 @@ tag:
   <!-- END: roxxy -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [EC2이 Docker 안에 Jenkins Container 올리기 (feat. Webhook CI/CD 구축 & DooD)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%9D%B4-Docker-%EC%95%88%EC%97%90-Jenkins-Container-%EC%98%AC%EB%A6%AC%EA%B8%B0-feat-Webhook-CICD-%EA%B5%AC%EC%B6%95-DooD)
+  - [GitHub tag & Docker Image 자동 배포하기 (feat. Jenkins)](https://moonnight0.tistory.com/m/entry/GitHub-tag-Docker-Image-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Jenkins)
   <!-- END: moonnight0 -->
 - [`moonsiri` / Just try it!](https://moonsiri.tistory.com/m/)
   - [Jenkins에서 여러 Maven, JDK 버전 사용하는 방법](https://moonsiri.tistory.com/m/205)

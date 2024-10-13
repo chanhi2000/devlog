@@ -194,23 +194,98 @@ head:
 
 ---
 
-## 푸르고
+## tistory
 
-- [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/186)
-- [[Typescript] builder 패턴 남용 금지](https://puleugo.tistory.com/188)
-
----
-
-## 작심삼일 개발이야기
-
-- [상수를 지금까지 잘못 사용하고 있었습니다.](https://choisuhyeok.tistory.com/141)
-
----
-
-## IT grow. 
-
-- [ES5 vs ES6 차이](https://dlsdn73.tistory.com/m/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
-- [[ js ] Immutability(변경불가성)](https://dlsdn73.tistory.com/m/entry/Immutability%EB%B3%80%EA%B2%BD%EB%B6%88%EA%B0%80%EC%84%B1)
+- [`puleugo` / 푸르고](https://puleugo.tistory.com/m/)
+  - [[DDD] 값 객체, Value Object](https://puleugo.tistory.com/m/186)
+  - [[Typescript] builder 패턴 남용 금지](https://puleugo.tistory.com/m/188)
+  <!-- END: puleugo -->
+- [`choisuhyeok` / 작심삼일 개발이야기](https://choisuhyeok.tistory.com/m/)
+  - [상수를 지금까지 잘못 사용하고 있었습니다.](https://choisuhyeok.tistory.com/m/141)
+  <!-- END: choisuhyeok -->
+- [`dlsdn73` / IT grow.](https://dlsdn73.tistory.com/m/)
+  - [ES5 vs ES6 차이](https://dlsdn73.tistory.com/m/entry/ES5-vs-ES6-%EC%B0%A8%EC%9D%B4)
+  - [[ js ] Immutability(변경불가성)](https://dlsdn73.tistory.com/m/entry/Immutability%EB%B3%80%EA%B2%BD%EB%B6%88%EA%B0%80%EC%84%B1)
+  <!-- END: dlsdn73 -->
+- [`all-dev-kang` / 편리함을 추구하는 핸디의 지식 블로그](https://all-dev-kang.tistory.com/m/)
+  - [[타입스크립트] enum과 enum의 리버스 맵핑에 대하여](https://all-dev-kang.tistory.com/m/entry/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-enum%EA%B3%BC-enum%EC%9D%98-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EB%A7%B5%ED%95%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+  <!-- END: all-dev-kang -->
+- [`coding-factory` / 코딩팩토리](https://coding-factory.tistory.com/m/)
+  - [\[JavaScript\] 자바스크립트 배열 선언 및 사용법 총정리](https://coding-factory.tistory.com/m/194)
+  - [\[JavaScript\] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/m/1054)
+  - [\[JavaScript\] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/m/1055)
+  - [\[JavaScript\] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/m/1056)
+  - [\[JavaScript\] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/m/1057)
+  - [\[JavaScript\] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
+  - [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
+  - [\[JavaScript\] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
+  - [\[JavaScript\] 자바스크립트 문자열 채우기 (`padStart`, `padEnd`)](https://coding-factory.tistory.com/m/1067)
+  - [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
+  - [\[JavaScript\] 자바스크립트 숫자를 문자열로 형 변환하는 4가지 방법](https://coding-factory.tistory.com/1069)
+  - [\[JavaScript\] 자바스크립트 반올림, 올림, 버림 방법 - 소수점 2자리까지 출력](https://coding-factory.tistory.com/m/1070)
+  - [\[JavaScript\] 자바스크립트 배열에 요소 추가 / 삭제하는 다양한 방법](https://coding-factory.tistory.com/m/1071)
+  - [\[JavaScript\] 자바스크립트 배열(array) 합치는 간단한 방법](https://coding-factory.tistory.com/m/1072)
+  - [\[JavaScript\] 배열 정렬하는 간단한 방법(`sort`) - 문자열, 숫자, 객체 배열 정렬하기](https://coding-factory.tistory.com/m/1075)
+  - [\[JavaScript\] 화살표 함수(Arrow Function) 사용법 & 예제 총정리](https://coding-factory.tistory.com/m/1076)
+  - [\[JavaScript\] 화살표 함수(Arrow Function) 사용시 주의할 점 (어휘적 범위 - Lexical Scope)](https://coding-factory.tistory.com/m/1077)
+  - [\[JavaScript\] ...문법 - 스프레드(spread) 연산자 사용법](https://coding-factory.tistory.com/m/1078)
+  - [\[JavaScript\] 가변 파라미터 ...나머지 매개변수(rest parameter) 사용법](https://coding-factory.tistory.com/m/1079)
+  - [\[JavaScript\] 디폴트 파라미터(default parameter) 사용법(기본 파라메터)](https://coding-factory.tistory.com/m/1080)
+  - [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
+  - [\[JavaScript\] 자바스크립트 쿠키 생성, 삭제, 확인(+CORS 오류 해결법)](https://coding-factory.tistory.com/m/1086)
+  <!-- END: coding-factory -->
+- [`gdtbgl93` / 호기심 많은 오리의 지식 저장소](https://gdtbgl93.tistory.com/m/)
+  - [[javascript] `Selection`과 `Range`를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/m/175)
+  <!-- END: gdtbgl93 -->
+- [`paran21` / 개발일지](https://paran21.tistory.com/m/)
+  - [\[모던 JS 딥다이브\] 7~9장](https://paran21.tistory.com/m/242)
+  <!-- END: paran21 -->
+- [`this1` / 일단은 프로그래머 나부랭이](https://this1.tistory.com/m/)
+  - [웹 페이지에서 영상 또는 음악에 배속 거는 방법](https://this1.tistory.com/m/98)
+  <!-- END: this1 -->
+- [`zinee-world` / zineeworld](https://zinee-world.tistory.com/m/)
+  - [keyup 이벤트와 input 이벤트의 차이](https://zinee-world.tistory.com/m/646)
+  <!-- END: zinee-world -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [\[JS\] Hoisting](https://bbogle2.tistory.com/m/entry/JS-Hoisting)
+  - [간단한 JSON Filter 서비스 배포하기  (1) - 코드 작성](https://bbogle2.tistory.com/m/entry/%EA%B0%84%EB%8B%A8%ED%95%9C-JSON-Filter-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1)
+  <!-- END: bbogle2 -->
+- [`ingeec` / 없으면 없는대로](https://ingeec.tistory.com/m/)
+  - [JavaScript로 메모리에 직접 접근하는 방법에 대하여](https://ingeec.tistory.com/m/129)
+  <!-- END: ingeec -->
+- [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
+  - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/m/79)
+  <!-- END: teveloper -->
+- [`luckyyowu` / 요우의 내맘대로 블로그](https://luckyyowu.tistory.com/m/)
+  - [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/m/406)
+  <!-- END: luckyyowu -->
+- [`hoonzi-text` / hoonzi text](https://hoonzi-text.tistory.com/m/)
+  - [Identifier '변수' has already been declared check](https://hoonzi-text.tistory.com/m/136)
+  <!-- END: hoonzi-text -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [JavaScript를 사용하여 웹브라우저에서 RTSP 영상 재생하기](https://webnautes.tistory.com/m/1934)
+  <!-- END: webnautes -->
+- [`oliviakim` / ONE LIFE 2 LIVE](https://oliviakim.tistory.com/m/)
+  - [\[JavaScript\]　특수 언어가 있는 문자열 배열을 정렬하는 방법, `localeCompare()`](https://oliviakim.tistory.com/m/183)
+  - [\[JavaScript\]　객체의 속성에 접근하는 점 표기법(마침표 표기법)과 대괄호 표기법 (ft. 좋은 코드)](https://oliviakim.tistory.com/m/184)
+  - [\[JavaScript\]　객체 내부에서의 `getter`, `setter`](https://oliviakim.tistory.com/m/185)
+  <!-- END: oliviakim -->
+- [`mobicon` / AI Convergence](https://mobicon.tistory.com/m/)
+  - [\[JavaScript\] Design Pattern](https://mobicon.tistory.com/m/11)
+  <!-- END: mobicon -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [fullCalendar 의 좌측 시분 hour minute 표기 hh:mm 형태로 변경하기](https://aspdotnet.tistory.com/m/3004)
+  - [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
+  - [jqxGrid 와 JSONPlaceholder  - 서버사이드 페이징/필터링](https://aspdotnet.tistory.com/m/3283)
+  <!-- END: aspdotnet -->
+- [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
+  - [JavaScript에서 배열의 원소들을 그룹핑하는 방법들](https://kesakiyo.tistory.com/m/entry/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%84-%EA%B7%B8%EB%A3%B9%ED%95%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4)
+  - [네이밍 컨벤션(Naming Convention)이란? - 변수의 이름을 짓는 규칙](https://kesakiyo.tistory.com/m/entry/%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-Naming-Convention-%EC%9D%B4%EB%9E%80-%EB%B3%80%EC%88%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%A7%93%EB%8A%94-%EA%B7%9C%EC%B9%99)
+  <!-- END: kesakiyo -->
+- [`usage` / 개발의 올바르지 않은 용례](https://usage.tistory.com/m/)
+  - [타입 안정성을 위한 as unknown as Type](https://usage.tistory.com/m/221)
+  <!-- END: usage -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -244,45 +319,6 @@ head:
 
 ---
 
-## 편리함을 추구하는 핸디의 지식 블로그
-
-- [[타입스크립트] enum과 enum의 리버스 맵핑에 대하여](https://all-dev-kang.tistory.com/m/entry/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-enum%EA%B3%BC-enum%EC%9D%98-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EB%A7%B5%ED%95%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
-
----
-
-## 코딩팩토리
-
-- [\[JavaScript\] 자바스크립트 배열 선언 및 사용법 총정리](https://coding-factory.tistory.com/m/194)
-- [\[JavaScript\] 자바스크립트 문자열 길이(`length`) 구하는 방법](https://coding-factory.tistory.com/m/1054)
-- [\[JavaScript\] 자바스크립트 문자열 특정 문자 위치 찾기(`indexOf`, `search`)](https://coding-factory.tistory.com/m/1055)
-- [\[JavaScript\] 자바스크립트 문자열 자르기(`substring`, `substr`, `slice`)](https://coding-factory.tistory.com/m/1056)
-- [\[JavaScript\] 자바스크립트 문자열 쪼개기(`split`) - 구분자로 문자열 자르기](https://coding-factory.tistory.com/m/1057)
-- [\[JavaScript\] 자바스크립트 문자열 공백제거 하는 방법(`trim`, `replace`)](https://coding-factory.tistory.com/m/1062)
-- [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
-- [\[JavaScript\] 자바스크립트 ==과 ===의 차이에 대하여](https://coding-factory.tistory.com/m/1064)
-- [\[JavaScript\] 자바스크립트 문자열 채우기 (`padStart`, `padEnd`)](https://coding-factory.tistory.com/m/1067)
-- [\[JavaScript\] 자바스크립트 문자열을 숫자로 형 변환하는 3가지 방법](https://coding-factory.tistory.com/m/1068)
-- [\[JavaScript\] 자바스크립트 숫자를 문자열로 형 변환하는 4가지 방법](https://coding-factory.tistory.com/1069)
-- [\[JavaScript\] 자바스크립트 반올림, 올림, 버림 방법 - 소수점 2자리까지 출력](https://coding-factory.tistory.com/m/1070)
-- [\[JavaScript\] 자바스크립트 배열에 요소 추가 / 삭제하는 다양한 방법](https://coding-factory.tistory.com/m/1071)
-- [\[JavaScript\] 자바스크립트 배열(array) 합치는 간단한 방법](https://coding-factory.tistory.com/m/1072)
-- [\[JavaScript\] 배열 정렬하는 간단한 방법(`sort`) - 문자열, 숫자, 객체 배열 정렬하기](https://coding-factory.tistory.com/m/1075)
-- [\[JavaScript\] 화살표 함수(Arrow Function) 사용법 & 예제 총정리](https://coding-factory.tistory.com/m/1076)
-- [\[JavaScript\] 화살표 함수(Arrow Function) 사용시 주의할 점 (어휘적 범위 - Lexical Scope)](https://coding-factory.tistory.com/m/1077)
-- [\[JavaScript\] ...문법 - 스프레드(spread) 연산자 사용법](https://coding-factory.tistory.com/m/1078)
-- [\[JavaScript\] 가변 파라미터 ...나머지 매개변수(rest parameter) 사용법](https://coding-factory.tistory.com/m/1079)
-- [\[JavaScript\] 디폴트 파라미터(default parameter) 사용법(기본 파라메터)](https://coding-factory.tistory.com/m/1080)
-- [\[JavaScript\] 자바스크립트 문자열 비교하는 다양한 방법 총정리](https://coding-factory.tistory.com/m/1063)
-- [\[JavaScript\] 자바스크립트 쿠키 생성, 삭제, 확인(+CORS 오류 해결법)](https://coding-factory.tistory.com/m/1086)
-
----
-
-## 호기심 많은 오리의 지식 저장소
-
-- [[javascript] `Selection`과 `Range`를 통해 내맘대로 커서 조작하기 - Selection편](https://gdtbgl93.tistory.com/175)
-
----
-
 ## Marko
 
 - [JavaScript Tips](https://markodenic.com/javascript-tips)
@@ -295,21 +331,9 @@ head:
 
 ---
 
-## 개발일지
-
-- [\[모던 JS 딥다이브\] 7~9장](https://paran21.tistory.com/m/242)
-
----
-
 ## utilitybend
 
 - [Invoking elements by using only HTML: A first look at invokers](https://utilitybend.com/blog/invoking-elements-by-using-only-html-a-first-look-at-invokers/)
-
----
-
-## 일단은 프로그래머 나부랭이
-
-- [웹 페이지에서 영상 또는 음악에 배속 거는 방법](https://this1.tistory.com/98)
 
 ---
 
@@ -412,34 +436,9 @@ head:
 
 ---
 
-## zineeworld
-
-- [keyup 이벤트와 input 이벤트의 차이](https://zinee-world.tistory.com/646)
-
----
-
-## 뽀글뽀글 개발 일지
-
-- [\[JS\] Hoisting](https://bbogle2.tistory.com/m/entry/JS-Hoisting)
-- [간단한 JSON Filter 서비스 배포하기  (1) - 코드 작성](https://bbogle2.tistory.com/m/entry/%EA%B0%84%EB%8B%A8%ED%95%9C-JSON-Filter-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1)
-
----
-
 ## Web Performance Calendar
 
 - [Fastest Way of Passing State to JavaScript, Re-visited](https://calendar.perfplanet.com/2023/fastest-way-passing-state-javascript-revisited/)
-
----
-
-## 없으면 없는대로
-
-- [JavaScript로 메모리에 직접 접근하는 방법에 대하여](https://ingeec.tistory.com/129)
-
----
-
-## Teveloper 개발 & 테니스 이야기
-
-- [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
 
 ---
 
@@ -452,12 +451,6 @@ head:
 ## Hire top developers for freelance or full-time roles - Flexiple
 
 - [Programming a Clock using Javascript](https://flexiple.com/javascript/javascript-clock?)
-
----
-
-## 요우의 내맘대로 블로그
-
-- [조금 더 안전한 랜덤 숫자(의사 난수) 생성할려고 했던 얘기](https://luckyyowu.tistory.com/m/406)
 
 ---
 
@@ -508,12 +501,6 @@ head:
 ## braindump incorporated
 
 - [Building an AI game studio: what we’ve learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
-
----
-
-## hoonzi text
-
-- [Identifier '변수' has already been declared check](https://hoonzi-text.tistory.com/m/136)
 
 ---
 
@@ -602,36 +589,9 @@ head:
 
 ---
 
-## 멈춤보단 천천히라도
-
-- [JavaScript를 사용하여 웹브라우저에서 RTSP 영상 재생하기](https://webnautes.tistory.com/m/1934)
-
----
-
-## ONE LIFE 2 LIVE
-
-- [\[JavaScript\]　특수 언어가 있는 문자열 배열을 정렬하는 방법, `localeCompare()`](https://oliviakim.tistory.com/m/183)
-- [\[JavaScript\]　객체의 속성에 접근하는 점 표기법(마침표 표기법)과 대괄호 표기법 (ft. 좋은 코드)](https://oliviakim.tistory.com/m/184)
-- [\[JavaScript\]　객체 내부에서의 `getter`, `setter`](https://oliviakim.tistory.com/m/185)
-
----
-
 ## Blog - JakeArchibald.com
 
 - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
-
----
-
-## AI Convergence
-
-- [\[JavaScript\] Design Pattern](https://mobicon.tistory.com/m/11)
-
----
-
-## 재우니의 블로그
-
-- [fullCalendar 의 좌측 시분 hour minute 표기 hh:mm 형태로 변경하기](https://aspdotnet.tistory.com/m/3004)
-- [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
 
 ---
 
@@ -653,13 +613,6 @@ head:
 
 ---
 
-## 오늘도 개발로그
-
-- [JavaScript에서 배열의 원소들을 그룹핑하는 방법들](https://kesakiyo.tistory.com/m/entry/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%84-%EA%B7%B8%EB%A3%B9%ED%95%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4)
-- [네이밍 컨벤션(Naming Convention)이란? - 변수의 이름을 짓는 규칙](https://kesakiyo.tistory.com/m/entry/%EB%84%A4%EC%9D%B4%EB%B0%8D-%EC%BB%A8%EB%B2%A4%EC%85%98-Naming-Convention-%EC%9D%B4%EB%9E%80-%EB%B3%80%EC%88%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%A7%93%EB%8A%94-%EA%B7%9C%EC%B9%99)
-
----
-
 ## 신현석(Hyeonseok Shin)
 
 - [`Promise.race`로 실행 시간 제한 걸기](https://hyeonseok.com/blog/920)
@@ -675,5 +628,11 @@ head:
 <!-- END: daddynkidsmakers.blogspot.com -->
 
 ---
+
+## Monitor Page Speed and Core Web Vitals | DebugBear
+
+- [Getting Started With scheduler.yield - A Beginner's Guide](https://debugbear.com/blog/scheduler-yield)
+
+<!-- END: debugbear.com -->
 
 <TagLinks />

@@ -67,6 +67,10 @@ tag:
 - [`@mythos` / \[C\] JSON 라이브러리 개발](https://velog.io/@mythos/C-JSON-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
 - [`@mythos` / \[C\] 로깅 라이브러리 개발](https://velog.io/@mythos/C-%EB%A1%9C%EA%B9%85-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
 - [`@mythos` / \[Linux Kernel\] Sparse 정적 분석 도구](https://velog.io/@mythos/Linux-Kernel-Sparse-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D-%EB%8F%84%EA%B5%AC)
+- [`@jwlee010523` / 그래프(Graph](https://velog.io/@jwlee010523/Graph)
+- [`@jwlee010523` / 그래프의 탐색 - DFS(Depth first search)](https://velog.io/@jwlee010523/DFS)
+- [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
+- [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
 
 <!-- END: velog.io -->
 
@@ -327,6 +331,7 @@ tag:
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
   - [Memory 단편화 Fragmentation 과 병합 Coalescing](https://jeongchul.tistory.com/m/731)
   - [Multiprocess간 IPC 중 메모리 매핑 파일](https://jeongchul.tistory.com/m/745)
+  - [FIFO Queue](https://jeongchul.tistory.com/m/788)
   <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 

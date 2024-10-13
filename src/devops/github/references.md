@@ -43,6 +43,8 @@ tag:
 - [`well-balanced` / Contribution to Open Source Projects](https://well-balanced.medium.com/contribution-to-open-source-projects-a8b5b072f71a?source=rss-5e9122afc2eb------2)
 - [`prnd` / PR 생성될때, 자동으로 이미지 용량 최적화 하기](https://medium.com/prnd/pr-%EC%83%9D%EC%84%B1%EB%90%A0%EB%95%8C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9A%A9%EB%9F%89-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0-918a1470ab5f?source=rss-ecac7eac58cd------2)
 - [`lemonbase` / Github Actions 배포 시간 줄여볼까?](https://blog.lemonbase.team/github-actions-배포-시간-줄여볼까-5725b92e36d9)
+- [`jhk0530` / 깃허브 자격증 합격 후기](https://jhk0530.medium.com/github-copilot-certificate-15374e369724?source=rss-cb820693bed5------2)
+- [`jhk0530` / 2번째 깃허브 자격증 합격 후기](https://jhk0530.medium.com/github-foundations-certificate-76ab7becab19?source=rss-cb820693bed5------2)
 
 <!-- END: medium.com -->
 
@@ -213,12 +215,14 @@ tag:
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [\[내일배움캠프 44일차 TIL\] 아웃소싱 프로젝트 설계](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-44%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84)
   - [\[내일배움캠프 45일차 TIL\] 아웃소싱 프로젝트 환경설정 및 Github 피드백](https://moonnight0.tistory.com/m/entry/%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-45%EC%9D%BC%EC%B0%A8-TIL-%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95-%EB%B0%8F-Github-%ED%94%BC%EB%93%9C%EB%B0%B1)
+  - [GitHub tag & Docker Image 자동 배포하기 (feat. Jenkins)](https://moonnight0.tistory.com/m/entry/GitHub-tag-Docker-Image-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Jenkins)
   <!-- END: moonnight0 -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [깃랩에서 깃허브로](https://ravenkim97.tistory.com/m/462)
   <!-- END: ravenkim97 -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
+  - [Python : GitHub Actions와 크롤링 자동화 및 Telegram 알림 전송](https://aspdotnet.tistory.com/m/3284)
   <!-- END: aspdotnet -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] Issue 및 PR Template 설정과 Label 변경](https://hj0216.tistory.com/m/959)

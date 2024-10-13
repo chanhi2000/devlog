@@ -166,6 +166,13 @@ https://skcareers.com/Recruit/
   logo="https://static.blindhire.co.kr/img/favicon.ico"
   preview="https://static.blindhire.co.kr/img/opengraph.png"/>
 
+<SiteInfo
+  name="TrueUp | The CareerOS for people in tech"
+  desc="TrueUp is a CareerOS for top tech talent. TrueUp's AI scans every open tech job at every top startup and big tech co to give you the inside track on the best ones for you. Millions of exclusive tech data points to help you decide. Remote-native + Data-driven."
+  url="https://trueup.io/"
+  logo="https://trueup.io/favicon/favicon-16x16.png"
+  preview="https://trueup.io/img/social_card/trueup_card.png"/>
+
 ---
 
 <TagLinks />

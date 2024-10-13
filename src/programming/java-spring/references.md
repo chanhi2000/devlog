@@ -130,6 +130,7 @@ head:
 - [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35?source=rss-524631d9bcfb------2)
 - [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7?source=rss-d4008c147c0e------2)
 - [`taesulee93` / SAML 기반 SSO 인증 흐름과  OpenSAML을 활용한 IDP(Identity Provider) 구현](https://medium.com/@taesulee93/saml-%EA%B8%B0%EB%B0%98-sso-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84%EA%B3%BC-opensaml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-idp-identity-provider-%EA%B5%AC%ED%98%84-d0809bfc4048?source=rss-524631d9bcfb------2)
+- [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (1)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-1-003441ecb87b?source=rss-524631d9bcfb------2)
 
 <!-- END: medium.com java -->
 
@@ -166,6 +167,7 @@ head:
 - [`@qkrtkdwns3410` / Spring Data Jpa 배치처리시 주의점](https://velog.io/@qkrtkdwns3410/Spring-Data-Jpa-%EB%B0%B0%EC%B9%98%EC%B2%98%EB%A6%AC%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90)
 - [`@qkrtkdwns3410` / JPA `@DynamicUpdate`](https://velog.io/@qkrtkdwns3410/JPA-DynamicUpdate)
 - [`@qkrtkdwns3410` / JPA 공부 메모](https://velog.io/@qkrtkdwns3410/JPA-%EA%B3%B5%EB%B6%80-%EB%A9%94%EB%AA%A8)
+- [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)
 
 <!-- END: velog.io java -->
 
@@ -289,6 +291,7 @@ head:
   - [\[1년 후 마실가실\] `@Valid`와 `@RestControllerAdvice`](https://hj0216.tistory.com/m/956)
   - [\[1년 후 마실가실\] 로그 설정](https://hj0216.tistory.com/m/958)
   - [\[1년 후 마실가실\] API 문서화 도구 - Spring REST Docs](https://hj0216.tistory.com/m/960)
+  - [\[1년 후 마실가실\] User Error Code HttpStatus](https://hj0216.tistory.com/m/962)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -416,6 +419,8 @@ head:
 - [`moonsiri` / Just try it!](https://moonsiri.tistory.com/m/)
   - [Spring MVC의 PathPattern (`AntPathMatcher`, `PathPatternParser`)](https://moonsiri.tistory.com/m/203)
   - [JJWT 0.11.2 에서 0.12.5 버전 마이그레이션](https://moonsiri.tistory.com/m/206)
+  - [\[SpringSecurity5\] OAuth2.0로 네이버 로그인 구현](https://moonsiri.tistory.com/m/216)
+  - [\[SpringSecurity5\] OAuth2.0로 카카오 로그인 구현](https://moonsiri.tistory.com/m/217)
   <!-- END: moonsiri -->
 - [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter02\] - VO,DTO, DAO, SO](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter02-VODTO-DAO-SO)
@@ -435,6 +440,7 @@ head:
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [스프링에서 DI(Dependency Injection)를 활용한 서비스 계층 설계 및 `@Autowired`와 생성자 주입의 차이점](https://dreamcoding.tistory.com/m/115)
   - [Spring Boot에서 `@Value`로 주입된 값을 Static 변수로 사용하기](https://dreamcoding.tistory.com/m/123)
+  - [Java에서의 CORS 설정하기](https://dreamcoding.tistory.com/m/128)
   <!-- END: dreamcoding -->
 - [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
   - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
@@ -715,6 +721,9 @@ head:
 ### 상구리의 기술 블로그
 
 - [`No AuthenticationProvider found for authentication.UsernamePasswordAuthenticationToken`](https://skyer9.pe.kr/wordpress/?p=9329)
+- [WebSocket with Spring Boot](https://skyer9.pe.kr/wordpress/?p=9487)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 
@@ -746,12 +755,18 @@ head:
 
 - [spring retry 이해 및 예제 정리](https://hyeon9mak.github.io/spring-retry/)
 - [Spring Boot 3 마이그레이션 팁 모음](https://hyeon9mak.github.io/spring-boot-3-migration/)
+- [왜 조회 쿼리에서 데드락이 발생했을까?](https://hyeon9mak.github.io/why-occurs-deadlock-from-select-query/)
+
+<!-- END: hyeon9mak.github.io -->
 
 ### Yun Blog
 
 - [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
 - [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
+- [MySQL Connection Pool 관리 - HikariCP 설정 및 타임아웃 처리](https://cheese10yun.github.io/mysql-connection-pool-timeout/)
+
+<!-- END: cheese10yun.github.io -->
 
 ### tistory
 
@@ -800,14 +815,6 @@ head:
 - [Spring Boot with Kotlin, AWS S3, and S3Template](https://codersee.com/spring-boot-with-kotlin-aws-s3-and-s3template/)
 
 <!-- END: codersee.com -->
-
----
-
-## 현구막 기술 블로그
-
-- [왜 조회 쿼리에서 데드락이 발생했을까?](https://hyeon9mak.github.io/why-occurs-deadlock-from-select-query/)
-
-<!-- END: hyeon9mak.github.io -->
 
 ---
 

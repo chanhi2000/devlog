@@ -7266,11 +7266,11 @@
     "banner": ""
   }, {
     "repo": "livekit/agents",
-    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 ",
+    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 . Contribute to livekit/agents development by creating an account on GitHub.",
     "officialSite": "https://docs.livekit.io/agents",
-    "topics": ["agents", "ai", "multimodal", "real-time", "video", "voice", "voice-assistant"],
-    "avatar": "https://avatars.githubusercontent.com/u/69438833?v=4",
-    "banner": ""
+    "topics": ["real-time", "video", "ai", "voice", "agents", "voice-assistant", "multimodal"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/55fa0b78dfdef20c6d12c84ae706d45d9d87437e6d35c3ea51837b8bacdb647f/livekit/agents"
   }, {
     "repo": "opslane/opslane",
     "desc": "Reducing alert fatigue for on-call engineers",

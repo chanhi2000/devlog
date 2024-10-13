@@ -35,6 +35,7 @@ head:
 - [비율 계산](https://kangmyounghun.blogspot.com/2024/08/blog-post_22.html)
 - [Splunk의 데이터 전처리 자동화 - 2nd](https://kangmyounghun.blogspot.com/2024/09/splunk-2nd.html)
 - [Splunk의 Join - 4th](https://kangmyounghun.blogspot.com/2024/10/splunk-join-4th.html)
+- [시리즈 완결 후기](https://kangmyounghun.blogspot.com/2024/10/blog-post.html)
 
 <!-- END: kangmyounghun.blogspot.com -->
 

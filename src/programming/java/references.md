@@ -161,6 +161,11 @@ tag:
 - [`@dongha1992` / 99클럽 코테 스터디 39일차 - DP](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-39%EC%9D%BC%EC%B0%A8-DP)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 5 - 3. 리스코프 치환 원칙(Liskov Substitution Principle)](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-5-3.-%EB%A6%AC%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B9%98%ED%99%98-%EC%9B%90%EC%B9%99Liskov-Substitution-Principle)
 - [`@qkrtkdwns3410` / \[개발자_객체지향_디자인패턴\] 디자인패턴 - 전략 패턴](https://velog.io/@qkrtkdwns3410/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%84%EB%9E%B5-%ED%8C%A8%ED%84%B4)
+- [`@jwlee010523` / JAVA - 상속(Inheritance)](https://velog.io/@jwlee010523/java-inheritance)
+- [`@jwlee010523` / Java- 자바의 기본구조](https://velog.io/@jwlee010523/java-basic-structure)
+- [`@jwlee010523` / JAVA - 배열](https://velog.io/@jwlee010523/java-array)
+- [`@qkrtkdwns3410` / \[모던 자바 chap 2\] 동작 파라미터화 코드 전달](https://velog.io/@qkrtkdwns3410/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-chap-2-%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC)
+- [`@sweet_sumin` / 작은것에도 관심을 기울이자 - `Float`, `Double`, `BigDecimal` 편](https://velog.io/@sweet_sumin/%EC%9E%91%EC%9D%80%EA%B2%83%EC%97%90%EB%8F%84-%EA%B4%80%EC%8B%AC%EC%9D%84-%EA%B8%B0%EC%9A%B8%EC%9D%B4%EC%9E%90-Float-Double-BigDecimal-%ED%8E%B8)
 
 <!-- END: velog.io java -->
 
@@ -294,6 +299,10 @@ tag:
   - [이펙티브자바 Item20. 추상 클래스보다는 인터페이스를 우선하라](https://dreamcoding.tistory.com/m/113)
   - [이펙티브자바 Item32. 제네릭과 가변인수를 함께 쓸 때는 신중하라.](https://dreamcoding.tistory.com/m/114)
   - [\[FE\] 아토믹 디자인 패턴에서 탈출: 컴포넌트 디자인 패턴, 방법론 찾아보기](https://jacky0831.tistory.com/m/102)
+  - [힙 메모리 관점에서 바라본 `static` 필드 사용의 장단점](https://dreamcoding.tistory.com/m/124)
+  - [Lombok 어노테이션 정리](https://dreamcoding.tistory.com/m/125)
+  - [Java에서 단일 `String`을 `List`으로 변환하는 방법](https://dreamcoding.tistory.com/m/127)
+  - [Java Enum 사용법과 활용 예시](https://dreamcoding.tistory.com/m/129)
   <!-- END: dreamcoding -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
@@ -315,6 +324,8 @@ tag:
 ### Brunch
 
 - [[탄생 비화] JVM 밑바닥까지 파헤치기](https://brunch.co.kr/@wegra/36)
+
+<!-- END: brunch.co.kr java -->
 
 ### Douglas Schmidt
 
@@ -745,6 +756,12 @@ tag:
 
 <!-- END: jinseong0928.blogspot.com -->
 
+### inblog
+
+- [`code-with-me` / \[Java\] 오버라이딩과 오버로딩 그리고 다형성(Polymorphism)](https://inblog.ai/code-with-me/java-오버라이딩과-오버로딩-그리고-다형성polymorphism-31557)
+
+<!-- END: inblog.ai -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -833,6 +850,7 @@ tag:
 - [`googledeveloperseurope` / Structured Concurrency: coroutineScope](https://medium.com/googledeveloperseurope/structrured-concurrency-coroutinescope-adc470d47e4b)
 - [`hinchman-amanda` / Kotlin Coroutine mechanisms part 3: swapping CoroutineContext](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-part-3-swapping-coroutinecontext-983e950ac29a)
 - [`taesulee93` / 꼬리 호출 최적화(Tail Call Optimization, TCO)와 Kotlin `tailrec`](https://medium.com/@taesulee93/%EA%BC%AC%EB%A6%AC-%ED%98%B8%EC%B6%9C-%EC%B5%9C%EC%A0%81%ED%99%94-tail-call-optimization-tco-%EC%99%80-kotlin-tailrec-b5435fb453bc?source=rss-524631d9bcfb------2)
+- [`abhaysingbhosale123` / Kotlin Under the Hood: Exploring Constructors and Init Blocks](https://medium.com/@abhaysingbhosale123/kotlin-under-the-hood-exploring-constructors-and-init-blocks-869fc1f85a8e)
 
 <!-- END: medium.com kotiln -->
 
@@ -883,16 +901,23 @@ tag:
 - [`jinseong-dev` / 진성 블로그](https://jinseong-dev.tistory.com/m/)
   - [계약에 의한 설계(Design by Contract)를 실전에 적용하기](https://jinseong-dev.tistory.com/m/49)
   <!-- END: jinseong-dev -->
+- [`namget` / 남갯의 개발,일상블로그](http://namget.tistory.com/m/)
+  - [\[Flow\] Flow combine 에러시 미동작 관련 내부 동작](https://namget.tistory.com/m/entry/Flow-combine-%EC%97%90%EB%9F%AC%EC%8B%9C-%EB%AF%B8%EB%8F%99%EC%9E%91-%EA%B4%80%EB%A0%A8-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91)
+  <!-- END: namget -->
 <!-- END: tistory.com kotiln -->
 
 ### Leo3418
 
 - [Introducing ebuilds That Build Kotlin Core Libraries from Source](https://leo3418.github.io/2021/07/05/gentoo-build-kt-src.html)
 
-### Devlogs
+### 찰스의 안드로이드
 
-- [Gradle 스크립트 언어를 Groovy DSL에서 Kotlin DSL로 변경 하기](https://www.charlezz.com/?p=45140)
-- [Gradle Kotlin DSL을 무작정 적용해보자! - 개발새발 블로그](https://seansation-blog.tistory.com/7)
+- [Gradle 스크립트 언어를 Groovy DSL에서 Kotlin DSL로 변경 하기](https://charlezz.com/?p=45140)
+- [\[KMP\] 데스크탑(jvm)용 웹뷰 구현하기](https://charlezz.com/?p=46693)
+
+<!-- END: charlezz.com -->
+
+- [Gradle Kotlin DSL을 무작정 적용해보자! - 개발새발 블로그](https://seansation-blog.tistory.com/m/7)
 - [gist : Android Livedata Observe Once Only (Kotlin)](https://gist.github.com/kobeumut/edb3edd9a2ae9abf6984a42bb2de0441)
 
 ### kciter.so
@@ -948,6 +973,7 @@ tag:
 - [\[Kotlin\] 백준 14715 : 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)](https://colabear754.tistory.com/m/215)
 - [\[Kotlin\] 백준 6523 : 요세푸스 한 번 더!](https://colabear754.tistory.com/m/216)
 - [\[Kotlin\] 백준 31882 : 근수](https://colabear754.tistory.com/m/221)
+- [\[Kotlin\] 백준 30704 : 정사각형 연결하기](https://colabear754.tistory.com/m/224)
 
 ### Square Lab
 
@@ -1153,8 +1179,15 @@ tag:
 ### PoisonedYouth TechBlog - PoisonedYouth TechBlog
 
 - [Delegated Properties in Kotlin](https://poisonedyouth.github.io/Kotlin-Delegated-Properties)
+- [Interface Delegation in Kotlin](https://poisonedyouth.github.io/Kotlin-Interface-Delegation)
 
 <!-- END: poisonedyouth.github.io -->
+
+### Brunch
+
+- [`@2Kn8` / 코루틴 취소(Cancellation) - 코틀린 코루틴 (9)](https://brunch.co.kr/@@2Kn8/221)
+
+<!-- END brunch.co.kr kotlin -->
 
 ---
 

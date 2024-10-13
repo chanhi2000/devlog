@@ -333,6 +333,7 @@ head:
 - [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
   - [미드저니에서 원하는 요소 제거하기: `--no` 옵션과 멀티 프롬프트](https://kesakiyo.tistory.com/m/entry/%EB%AF%B8%EB%93%9C%EC%A0%80%EB%8B%88%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9A%94%EC%86%8C-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-no-%EC%98%B5%EC%85%98%EA%B3%BC-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
   - [미드저니에서 `--chaos`(`--c`) 옵션 사용법: 이미지 다양성 조정 팁](https://kesakiyo.tistory.com/m/entry/%EB%AF%B8%EB%93%9C%EC%A0%80%EB%8B%88%EC%97%90%EC%84%9C-chaos-%EC%98%B5%EC%85%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%A4%EC%96%91%EC%84%B1-%EC%A1%B0%EC%A0%95-%ED%8C%81)
+  - [미드저니에서 창의적인 이미지를 생성하는 방법: `--weird`(`--w`) 옵션](https://kesakiyo.tistory.com/m/entry/%EB%AF%B8%EB%93%9C%EC%A0%80%EB%8B%88%EC%97%90%EC%84%9C-%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-weird-%EC%98%B5%EC%85%98)
   <!-- END: kesakiyo -->
 - [`daeson` / 대소니](https://daeson.tistory.com/m/)
   - [Retrieval Augmented Generation (RAG) and Beyond](https://daeson.tistory.com/m/396)
@@ -563,6 +564,22 @@ head:
 - [RAG Is More Than Just Vector Search](https://timescale.com/blog/rag-is-more-than-just-vector-search/)
 
 <!-- END: timescale.com -->
+
+---
+
+## 000namc.blog
+
+- [AlexNet 논문 리뷰](https://000namc.github.io/2024/10/18/alexnet/)
+
+<!-- END: 000namc.github.io -->
+
+---
+
+## Sequoia Capital
+
+- [Generative AI’s Act o1 - 에이전트 추론의 시대 개막](https://sequoiacap.com/article/generative-ais-act-o1/)
+
+<!-- END: sequoiacap.com -->
 
 ---
 

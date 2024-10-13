@@ -295,6 +295,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   <!-- END: cori -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[DevOps\] Docker와 Jenkins를 이용한 CI/CD 구축 (1)](https://findsilverlining.tistory.com/m/116)
+  - [\[Project\] Docker 적용기](https://findsilverlining.tistory.com/m/136)
   <!-- END: findsilverlining -->
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[KANS\] 1주차 - 컨테이너 격리 & 네트워크 및 보안](http://yongho1037.tistory.com/m/841)
@@ -304,6 +305,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   - [Docker를 활용해 AWS EC2에 Spring Boot 배포하기 (feat. Nginx)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-AWS-EC2%EC%97%90-Spring-Boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Nginx)
   - [AWS EC2에 `.env` 파일로 Docker 환경변수 관리하기 (feat. docker-compose)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-feat-docker-compose)
   - [EC2이 Docker 안에 Jenkins Container 올리기 (feat. Webhook CI/CD 구축 & DooD)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%9D%B4-Docker-%EC%95%88%EC%97%90-Jenkins-Container-%EC%98%AC%EB%A6%AC%EA%B8%B0-feat-Webhook-CICD-%EA%B5%AC%EC%B6%95-DooD)
+  - [GitHub tag & Docker Image 자동 배포하기 (feat. Jenkins)](https://moonnight0.tistory.com/m/entry/GitHub-tag-Docker-Image-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-feat-Jenkins)
+  - [Docker를 활용한 React 프로젝트 배포 (feat. Nginx, Jenkins)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-feat-Nginx-Jenkins)
   <!-- END: moonnight0 -->
 - [`takeu` / takeU](https://takeu.tistory.com/m/)
   - [6. 프로젝트 세팅 (husky 커밋 훅, docker)](https://takeu.tistory.com/m/400)
@@ -311,6 +314,10 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [Redis 도입하기 : CI/CD 파이프라인 수정기 (Blue/Green 무중단 배포)](https://shout-to-my-mae.tistory.com/m/445)
   <!-- END: shout-to-my-mae -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [Docker CNI](https://jeongchul.tistory.com/m/801)
+  - [Docker Network](https://jeongchul.tistory.com/m/802)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---
@@ -558,6 +565,14 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [\[GitHub Actions\] 왜 컨테이너에 복사를 못하니?](https://ujuc.github.io/2024/10/03/github-actions-%EC%99%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90-%EB%B3%B5%EC%82%AC%EB%A5%BC-%EB%AA%BB%ED%95%98%EB%8B%88/)
 
 <!-- END: ujuc.github.io -->
+
+---
+
+## Michael Kennedy
+
+- [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
+
+<!-- END: mkennedy.codes -->
 
 ---
 

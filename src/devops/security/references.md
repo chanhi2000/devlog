@@ -300,6 +300,9 @@ tag:
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [O.MG 케이블](https://ravenkim97.tistory.com/m/438)
   <!-- END: ravenkim97 -->
+- [`namget` / 남갯의 개발,일상블로그](https://namget.tistory.com/m/)
+  - [비밀키 교환방식 (디피-헬만 , RSA )](https://namget.tistory.com/m/entry/%EB%B9%84%EB%B0%80%ED%82%A4-%EA%B5%90%ED%99%98%EB%B0%A9%EC%8B%9D-%EB%94%94%ED%94%BC-%ED%97%AC%EB%A7%8C-RSA)
+  <!-- END: namget -->
 <!-- END: tistorty.com -->
 
 ---
@@ -572,6 +575,14 @@ tag:
 - [Register client in Keycloak for OAuth2](https://junhyunny.github.io/security/tool/register-client-in-keycloak-for-oauth2/)
 
 <!-- END: junhyunny.github.io -->
+
+---
+
+## Ricky Mondello
+
+- [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
+
+<!-- END: rmondello.com -->
 
 ---
 

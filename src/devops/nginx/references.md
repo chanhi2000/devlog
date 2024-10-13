@@ -99,6 +99,7 @@ tag:
   <!-- END: coor -->
 - [`moonnight0` / 컴공생의 발자취](https://moonnight0.tistory.com/m/)
   - [AWS EC2에 HTTPS 적용하기 (feat. Nginx, Certbot)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-HTTPS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-Nginx-Certbot)
+  - [Docker를 활용한 React 프로젝트 배포 (feat. Nginx, Jenkins)](https://moonnight0.tistory.com/m/entry/Docker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC-feat-Nginx-Jenkins)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 

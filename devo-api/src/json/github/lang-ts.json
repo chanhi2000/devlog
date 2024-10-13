@@ -476,13 +476,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "formbricks/formbricks",
-    "desc": "Open Source Experience Management Solution",
-    "officialSite": "https://formbricks.com",
-    "topics": ["react", "open-source", "typescript", "forms", "reactjs", "nextjs", "form", "survey", "survey-data", "typeform", "surveys", "survey-analysis", "xm", "survey-form", "tailwindcss", "turborepo", "experience-management"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "mockoon/mockoon",
     "desc": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
     "officialSite": "https://mockoon.com",
@@ -4632,5 +4625,12 @@
     "topics": ["dev-culture", "github-actions", "pr-review", "pr-stats", "pull-request", "statistics", "stats"],
     "avatar": "https://avatars.githubusercontent.com/u/6589568?v=4",
     "banner": ""
+  }, {
+    "repo": "cline/cline",
+    "desc": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+    "officialSite": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/da25052a1c1eb8c53de7a212727414d66a82e71e0b3e18234bbf0086370a62ec/cline/cline"
   }
 ]

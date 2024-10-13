@@ -40,6 +40,7 @@ head:
 - [Amazon Titan Image Generator v2, Amazon Bedrock에 정식 출시](https://aws.amazon.com/ko/blogs/korea/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)
 - [AWS 기술 파트너와 함께 구축한 푸드테크 기업 식신의 Amazon Bedrock 기반 AI 대시보드 구축기](https://aws.amazon.com/ko/blogs/tech/sikshin-built-ai-dashboard-with-aws-technology-partners-based-on-amazon-bedrock/)
 - [Amazon Bedrock으로 Multi Modal 문서에 대해 RAG 적용 하기](https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-multi-modal-document-rag/)
+- [AWS Console-to-Code 정식 출시, AWS 콘솔 작업 코드로 변환하기](https://aws.amazon.com/ko/blogs/korea/convert-aws-console-actions-to-reusable-code-with-aws-console-to-code-now-generally-available/)
 
 ---
 
@@ -282,6 +283,7 @@ head:
   - [AWS EC2에 `.env` 파일로 Docker 환경변수 관리하기 (feat. docker-compose)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-env-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-feat-docker-compose)
   - [AWS EC2에 HTTPS 적용하기 (feat. Nginx, Certbot)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-HTTPS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-Nginx-Certbot)
   - [EC2이 Docker 안에 Jenkins Container 올리기 (feat. Webhook CI/CD 구축 & DooD)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%9D%B4-Docker-%EC%95%88%EC%97%90-Jenkins-Container-%EC%98%AC%EB%A6%AC%EA%B8%B0-feat-Webhook-CICD-%EA%B5%AC%EC%B6%95-DooD)
+  - [AWS S3 보안 설정 및 정책 관리 (feat. IAM)](https://moonnight0.tistory.com/m/entry/AWS-S3-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%A0%95%EC%B1%85-%EA%B4%80%EB%A6%AC-feat-IAM)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 ---
@@ -605,6 +607,14 @@ head:
 - [AWS Gateway API Controller](https://ddii.dev/kubernetes/gatewayapi)
 
 <!-- END: ddii.dev -->
+
+---
+
+## Log on Me
+
+- [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
+
+<!-- END: logonme.net -->
 
 ---
 

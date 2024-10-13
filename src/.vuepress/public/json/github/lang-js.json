@@ -3630,5 +3630,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/95697?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/89275a65d7e908c0a41e49f4197556fabf0a0e5b31dd295e2c85cc06193fcd90/tc39/proposal-structs"
+  }, {
+    "repo": "hiteshchoudhary/apihub",
+    "desc": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. : Your own API Hub to learn and master API interaction. Ideal f...",
+    "officialSite": "https://freeapi.app",
+    "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/ab263d66f2d2ace0dc64409910af367a1224026bc1d9ddf3e59f82bfd61b630b/hiteshchoudhary/apihub"
   }
 ]

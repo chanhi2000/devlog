@@ -1319,6 +1319,13 @@ http://texturer.com/
   logo="https://creator.lottiefiles.com/assets/favicon.7d0aaaa4.ico"
   preview="https://creator.lottiefiles.com/creator.png"/>
 
+<SiteInfo
+  name="글꼴 | 우아한형제들"
+  desc="배달의민족 글꼴 예쁘지 않습니까? 안 예쁘다고요? 뭐 사실 한눈에 예쁜 디자인은 아닙니다만 그래도 쓸 만합니다. 한나 - 주아 - 도현 - 연성 - 기랑 해랑 - 한나 Air - 한나 Pro - 을지로 - 을지로10년후 - 을지로오래오래 - 꾸불림체를 2013년부터 꾸준히 만들어왔어요. 나름 의미도 있고 무엇보다 공짜입니다. 오래 쓰다 보면 분명 예뻐 보일 겁니다."
+  url="https://woowahan.com/fonts"
+  logo="https://woowahan-cdn.woowahan.com/favicon/ko/favicon.ico"
+  preview="https://woowahan-cdn.woowahan.com/static/image/share_kor.jpg"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps
