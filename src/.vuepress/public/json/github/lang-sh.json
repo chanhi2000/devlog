@@ -685,5 +685,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/dc93b37e2cb059e626a7c50772e0bdb870446a0a455a0f4957d756716f896350/hcengineering/huly-selfhost"
+  }, {
+    "repo": "nh2/internal-contstrained-pki",
+    "desc": "Safely shareable TLS root CA for .internal networks using Name Constraints",
+    "officialSite": "",
+    "topics": ["tls", "openssl", "x509", "pki"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/72125fb67c9e32e7655de19d9f3ec91366286eaf21e31bf8c8566acaf2d0bfa7/nh2/internal-contstrained-pki"
   }
 ]

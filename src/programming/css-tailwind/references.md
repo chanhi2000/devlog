@@ -54,6 +54,15 @@ head:
 
 ---
 
+## tistory
+
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [모바일에서 hover 로 인하여 클릭시 색상 바뀌는 이슈](https://ravenkim97.tistory.com/m/502)
+  <!-- END: ravenkim97 -->
+<!-- END: tistory.com -->
+
+---
+
 ## Marvin Hagemeister Frontend Developer
 
 - [Speeding up the JavaScript ecosystem - Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)

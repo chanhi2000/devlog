@@ -850,6 +850,7 @@ head:
   - [다익스트라 알고리즘 Dijkstra's Algorithm](https://jeongchul.tistory.com/m/805)
   - [벨만 포드 Bellman-Ford](https://jeongchul.tistory.com/m/806)
   - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
+  - [분산 시스템에서의 hash](https://jeongchul.tistory.com/m/817)
   <!-- END: jeongchul -->
 - [`pearlluck` / 데엔잘하고싶은데엔🔥💎검색하기](https://pearlluck.tistory.com/m/)
   - [pgVector 기반 VectorDB 구축 및 효율적인 리소스(메모리,스토리지) 사용](https://pearlluck.tistory.com/m/830)

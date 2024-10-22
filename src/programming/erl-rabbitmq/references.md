@@ -31,6 +31,8 @@ head:
 
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Rabbit MQ Kubernetes Helm 배포](https://jeongchul.tistory.com/m/787)
+  - [RabbitMQ 메시지 패턴방식](https://jeongchul.tistory.com/m/814)
+  - [RabbitMQ 클러스터와 Mirrored Queue](https://jeongchul.tistory.com/m/815)
   <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 

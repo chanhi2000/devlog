@@ -134,6 +134,9 @@ head:
   - [5. 파이토치 - 분산 학습의 개념과 하드웨어](http://bcho.tistory.com/m/1439)
   - [6. Pytorch - 대규모 분산학습에서 고려할 사항](http://bcho.tistory.com/m/1441)
   <!-- END: bcho -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/m/2402)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---

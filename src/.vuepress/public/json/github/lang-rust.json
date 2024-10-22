@@ -2613,5 +2613,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/5666b74ae8e7c91c0ab25a1d3215e9427354f95072eaaa1d0013fff609dc7cb3/drasi-project/drasi-platform"
+  }, {
+    "repo": "levkk/rwf",
+    "desc": "Comprehensive framework for building web applications in Rust.",
+    "officialSite": "",
+    "topics": ["rust", "http", "orm", "websockets", "web-framework"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d7b14bbd1b6f2e42865f44041274fcb3a45dd06068b4100a231f673f507f411b/levkk/rwf"
   }
 ]

@@ -189,6 +189,8 @@ tag:
 - [`hongbeomi-dev` / Compose에서 State Holder를 통해 효율적으로 State 관리하기](https://medium.com/hongbeomi-dev/compose%EC%97%90%EC%84%9C-state-holder%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-state-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-6abd1eca4e25?source=rss-c941a8b6c471------2)
 - [`proandroiddev` / Optimized Image Loading for Compose and Kotlin Multiplatform](https://proandroiddev.com/optimized-image-loading-for-compose-and-kotlin-multiplatform-a45eb2e710c0)
 - [`mikhailovskii.sergei` / Viewing the logs inside the application with LogKMPanion](https://medium.com/@mikhailovskii.sergei/viewing-the-logs-inside-the-application-with-logkmpanion-90ed41f4a8e6)
+- [`androiddevelopers` / Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
+- [`androiddevelopers` / Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 
 <!-- END: medium.com -->
 

@@ -170,6 +170,7 @@ head:
 
 - [`@octoping`: 노바](https://until.blog/@octoping) 
   - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
+  - [S3에 파일을 업로드할 때 파일 이름에 확장자를 붙이지 않아 생긴 이슈 (feat. 이미지 최적화)](https://until.blog/@octoping/s3에-파일을-업로드할-때-파일-이름에-확장자를-붙이지-않아-생긴-이슈--feat--이미지-최적화-)
 
 <!-- END: until.blog -->
 
@@ -615,6 +616,14 @@ head:
 - [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
 
 <!-- END: logonme.net -->
+
+---
+
+## chhanz 기술 블로그
+
+- [Flatcar Container Linux on AWS 에서 ignition 및 cloud-init 설정](https://chhanz.github.io/linux/2024/10/22/flatcar-ignition-and-cloud-init/)
+
+<!-- END: chhanz.github.io -->
 
 ---
 

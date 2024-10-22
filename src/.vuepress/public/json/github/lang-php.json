@@ -370,5 +370,12 @@
     "topics": ["php", "ml", "transformers", "huggingface"],
     "avatar": "https://avatars.githubusercontent.com/u/48791154?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/36e374d5b5f64ede3f9ae99bed54b79bb5214c126a722d3befe922622ffe20c6/CodeWithKyrian/transformers-php"
+  }, {
+    "repo": "solcloud/Counter-Strike",
+    "desc": "Multiplayer FPS game - Counter-Strike: Football 🏉. Contribute to solcloud/Counter-Strike development by creating an account on GitHub.",
+    "officialSite": "https://solcloud.itch.io/counter-strike-football",
+    "topics": ["online", "fps", "multiplayer-game"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/edf06d9e276b8494fd578132afdd0f60d1b0f34d51b783c9d896f4d8450fca56/solcloud/Counter-Strike"
   }
 ]

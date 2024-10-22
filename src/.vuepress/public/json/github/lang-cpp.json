@@ -2357,5 +2357,12 @@
     "topics": ["wayland-compositor", "compositor", "wayland", "cpp26"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
+  }, {
+    "repo": "SysSec-KAIST/LTESniffer",
+    "desc": " An Open-source LTE Downlink/Uplink Eavesdropper. Contribute to SysSec-KAIST/LTESniffer development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["sniffer", "wireless", "sdr", "cellular", "lte"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/4ac1b154c3b05c672689b663bb6f3105a50f92e7219f9a6516b7695e9f07bacd/SysSec-KAIST/LTESniffer"
   }
 ]

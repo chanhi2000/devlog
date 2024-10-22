@@ -263,6 +263,7 @@ head:
   <!-- END: jojoldu -->
 - [`1000sj` / SJ CODE](https://1000sj.tistory.com/m/)
   - [Postgresql Architecture #1 Client - Server Architecture](https://1000sj.tistory.com/m/400)
+  - [Postgresql Architecture #1 Client - Server Architecture](https://1000sj.tistory.com/m/400)
   <!-- END: 1000sj -->
 - [`hyunki1019` / Louis.Kim 의 제 3막](https://hyunki1019.tistory.com/m/)
   - [\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)

@@ -223,6 +223,7 @@ tag:
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [GitHub : Branch 위치에서 Main 코드를 merge 하고, 원격지 push 하기](https://aspdotnet.tistory.com/m/3226)
   - [Python : GitHub Actions와 크롤링 자동화 및 Telegram 알림 전송](https://aspdotnet.tistory.com/m/3284)
+  - [GitHub Actions 의 cron 표현식 알아보기](https://aspdotnet.tistory.com/m/3286)
   <!-- END: aspdotnet -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] Issue 및 PR Template 설정과 Label 변경](https://hj0216.tistory.com/m/959)

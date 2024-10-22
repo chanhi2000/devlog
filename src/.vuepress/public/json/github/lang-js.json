@@ -3637,5 +3637,12 @@
     "topics": ["api", "frontend", "backend", "mobile-development", "backend-api"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/ab263d66f2d2ace0dc64409910af367a1224026bc1d9ddf3e59f82bfd61b630b/hiteshchoudhary/apihub"
+  }, {
+    "repo": "alohe/quicky",
+    "desc": "A simple CLI tool to self-host Next.js applications.",
+    "officialSite": "https://quicky.dev",
+    "topics": ["cli", "npm", "automation", "deployment", "server", "nextjs", "npm-package", "self-hosted", "npx"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/869724660/b437114b-eb86-48eb-83ba-5d9befc76813"
   }
 ]

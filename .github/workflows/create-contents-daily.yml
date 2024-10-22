@@ -1,10 +1,9 @@
 name: Fetch Daily Content Markdown File
-run-name: ${{ github.actor }} is Running 🚀
+run-name: ${{ github.actor }} is Fetch Daily Contents 🚀
 on:
   schedule:
     # Runs daily at 6:00 AM,PM UTC (adjust the cron expression as needed)
     - cron: '0 6 * * *'
-    - cron: '0 18 * * *'
 
 permissions:
   contents: write
@@ -33,6 +32,26 @@ jobs:
       run: |-
         npm run devo-api-build
         sh fetch.sh
+    
+    - name: Print awesome-devblog.netlify.app
+      run: |
+        echo "Generated 'awesome-devblog.netlify.app' Markdown content ..."
+        cat scripts/src/awesome-devlog-*.md
+    
+    - name: Print news.hada.io
+      run: |
+        echo "Generated 'news.hada.io' Markdown content ..."
+        cat scripts/src/geek-*.md
+
+    - name: Print jhrogue.blogspot.com
+      run: |
+        echo "Generated 'jhrogue.blogspot.com' Markdown content ..."
+        cat scripts/src/jhrogue-*.md
+
+    - name: Print devo
+      run: |
+        echo "Generated 'devo' JSON content ... "
+        cat scripts/src/devo-*.json
 
     - name: Upload generated files as an artifact
       uses: actions/upload-artifact@v3

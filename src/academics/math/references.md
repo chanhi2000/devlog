@@ -626,4 +626,12 @@ head:
 
 ---
 
+## Great Internet Mersenne Prime Search
+
+- [GIMPS Discovers Largest Known Prime Number: 2136,279,841-1](https://mersenne.org/primes/?press=M136279841)
+
+<!-- END: mersenne.org -->
+
+---
+
 <TagLinks />

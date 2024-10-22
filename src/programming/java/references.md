@@ -235,6 +235,7 @@ tag:
   - [Java가 확장한 객체 지향 (`abstract`, 생성자, `static`, `final`, `this`, `super`)](https://shout-to-my-mae.tistory.com/414)
   - [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
   - [\[4주차\] 프로세스 동기화, 교착 상태](https://shout-to-my-mae.tistory.com/m/441)
+  - [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
   <!-- END: shout-to-my-mae -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
@@ -303,6 +304,8 @@ tag:
   - [Lombok 어노테이션 정리](https://dreamcoding.tistory.com/m/125)
   - [Java에서 단일 `String`을 `List`으로 변환하는 방법](https://dreamcoding.tistory.com/m/127)
   - [Java Enum 사용법과 활용 예시](https://dreamcoding.tistory.com/m/129)
+  - [Java Stream API 사용법](https://dreamcoding.tistory.com/m/131)
+  - [Java 접근 제어자 이해하기](https://dreamcoding.tistory.com/m/132)
   <!-- END: dreamcoding -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
@@ -1186,8 +1189,9 @@ tag:
 ### Brunch
 
 - [`@2Kn8` / 코루틴 취소(Cancellation) - 코틀린 코루틴 (9)](https://brunch.co.kr/@@2Kn8/221)
+- [`@2Kn8` / 코루틴 디스패처 (Dispatcher) - 코틀린 코루틴 (10)](https://brunch.co.kr/@@2Kn8/222)
 
-<!-- END brunch.co.kr kotlin -->
+<!-- END: brunch.co.kr kotlin -->
 
 ---
 

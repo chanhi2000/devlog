@@ -398,6 +398,7 @@ head:
 - [Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 - [NotebookLM’s automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 - [Whisper large-v3-turbo model.](https://simonwillison.net/2024/Oct/1/whisper-large-v3-turbo-model/)
+- [Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 
 <!-- END: simonwillison.net -->
 

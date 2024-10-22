@@ -198,6 +198,8 @@ tag:
 - [`@devlawrence` / How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
 - [`ilonacodes` / The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)
 
+<!-- END: dev.to -->
+
 ---
 
 ## Brunch
@@ -359,6 +361,14 @@ tag:
 - [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
 
 <!-- END: brunch.co.kr -->
+
+---
+
+## 메일리
+
+- [`life.interest` / 실패하지 말지어다](https://maily.so/life.interest/posts/f27fbe97)
+
+<!-- END: maily.so -->
 
 ---
 
@@ -858,6 +868,7 @@ tag:
 - [다시 취업할 수 있을까](https://jeho.page/essay/2024/09/04/ever-be-get-job-again.html)
 - [아니, 난 그냥 내가 만들고 싶은 걸 만들래](https://jeho.page/essay/2024/10/14/build-what-i-want-to-build/html)
 - [개인 사업자와 법인 사업자](https://jeho.page/essay/2024/10/18/business-registration.html)
+- [정부의 창업 지원 (비대면 바우처)](https://jeho.page/essay/2024/10/21/government-sponsored.html)
 
 <!-- END: jeho.page -->
 

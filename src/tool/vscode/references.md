@@ -218,6 +218,7 @@ tag:
 ## 류광의 번역 이야기
 
 - [VS Code 확장 프로그램 개발 팁 첫 번째, 상태 표시줄 다루기](https://occamsrazr.net/tt/409)
+- [VS Code 확장 프로그램 개발 팁 #2 - 풍선 도움말 다루기](https://occamsrazr.net/tt/411)
 
 <!-- END: occamsrazr.net -->
 

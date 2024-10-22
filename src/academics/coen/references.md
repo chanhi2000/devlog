@@ -45,6 +45,7 @@ head:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`taesulee93` / 효율적인 HTTP API 버전 관리 방법 — Efficient HTTP API versioning](https://medium.com/@taesulee93/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-http-api-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-efficient-http-api-versioning-f48e11e838fc?source=rss-524631d9bcfb------2)
+- [`taesulee93` / HTTP 캐시의 종류와 Cache-Control 헤더 지시자의 의미](https://medium.com/@taesulee93/http-%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-cache-control-%ED%97%A4%EB%8D%94-%EC%A7%80%EC%8B%9C%EC%9E%90%EC%9D%98-%EC%9D%98%EB%AF%B8-7c1d9d7eec75?source=rss-524631d9bcfb------2)
 
 <!-- END: medium.com -->
 
@@ -157,6 +158,8 @@ head:
   - [L4 vs L7 스위칭 장비](https://jeongchul.tistory.com/m/808)
   - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
   - [DNS 서버](https://jeongchul.tistory.com/m/810)
+  - [동기(Synchronous)와 비동기식(Asynchronous)의 차이](https://jeongchul.tistory.com/m/816)
+  - [hash 함수](https://jeongchul.tistory.com/m/818)
   <!-- END: jeongchul -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [<도둑맞은 집중력> 읽다가 멀티 스레드 공부 하게 된 이야기 : multiThread & concurrency 1](https://6161990src.tistory.com/m/150)

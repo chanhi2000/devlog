@@ -300,4 +300,12 @@ head:
 
 ---
 
+## Yun Blog
+
+- [MySQL Connection Pool 관리 - HikariCP 설정 및 타임아웃 처리](https://cheese10yun.github.io/mysql-connection-pool-timeout/)
+
+<!-- END: cheese10yun.github.io -->
+
+---
+
 <TagLinks />

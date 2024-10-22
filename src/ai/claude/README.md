@@ -4,8 +4,8 @@ title: Claude
 description: Claude
 icon: iconfont icon-claude
 category: 
-  - Claude
   - AI
+  - Claude
 tag:
   - ai
   - claude
