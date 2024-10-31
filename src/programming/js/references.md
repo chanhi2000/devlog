@@ -277,6 +277,7 @@ head:
   - [fullCalendar 의 좌측 시분 hour minute 표기 hh:mm 형태로 변경하기](https://aspdotnet.tistory.com/m/3004)
   - [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
   - [jqxGrid 와 JSONPlaceholder  - 서버사이드 페이징/필터링](https://aspdotnet.tistory.com/m/3283)
+  - [Javascript : Promise 객체 : 최신 개념과 실전 활용법](https://aspdotnet.tistory.com/m/3287)
   <!-- END: aspdotnet -->
 - [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
   - [JavaScript에서 배열의 원소들을 그룹핑하는 방법들](https://kesakiyo.tistory.com/m/entry/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%84-%EA%B7%B8%EB%A3%B9%ED%95%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4)

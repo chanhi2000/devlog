@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "philomatics",
+    "name": "Philomatics",
+    "profile": "https://yt3.googleusercontent.com/Fi71eG1jUfQrtIgzUaJUPeKLbZcIb0cLmxJ8PssfH5bs0Kn2xDyWerc4u15R9Ph3wax0OrpV=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/V89XB6XZds9TqaUmy5zkZGGmIwDKXLrDJcHchkKq5GlL2q18FxxVRg1zlfdaTlWpZDUe3jBphCo=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Y6ZHV0RH0fQ", "title": "The Value of Source Code" },
+    { "id": "GytsxgB4-HU", "title": "Undo a git commit - git reset/revert - pushed/not pushed" },
+    { "id": "-ZIArlXRSTE", "title": "I tried 3 different git GUI clients (NOT sponsored)" },
+    { "id": "8km76k3dNKI", "title": "Should you squash pull requests on GitHub?" },
+    { "id": "ou6FvHyPegQ", "title": "Go beyond git stash & pop" },
+    { "id": "ntM7utSjeVU", "title": "I was wrong about git stash..." },
+    { "id": "DloR0BOGNU0", "title": "Never fear merge conflicts again - git merge/pull tutorial" },
+    { "id": "069gpzlclkI", "title": "Spend more money on developer tools and hardware" },
+    { "id": "DkWDHzmMvyg", "title": "git rebase - Why, When & How to fix conflicts" },
+    { "id": "42392W7SgnE", "title": "git interactive rebase - Undo, Edit & Squash git commits with a single command" },
+    { "id": "5ghWnXp3aAY", "title": "Filter, Map, Reduce from first principles" },
+    { "id": "xN1-2p06Urc", "title": "Never* use git pull" },
+    { "id": "CAnQ4b0uais", "title": "10 useful git aliases" },
+    { "id": "SQNb-NxZBPQ", "title": "Use past tense in git commit messages" }
+  ],
+  "playlists": [
+
+  ]
+}

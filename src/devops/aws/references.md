@@ -146,6 +146,8 @@ head:
 - [`dradnats1012` / DB 서버 분리하기!](https://velog.io/@dradnats1012/DB-%EC%84%9C%EB%B2%84-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [`@dradnats1012` / 쉽게 설명하는 AWS 기초 강좌 정리](https://velog.io/@dradnats1012/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-AWS-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-%EC%A0%95%EB%A6%AC)
 - [`@dradnats1012` / AWS를 이해하기 위한 기초지식(OSI 7계층, DNS)](https://velog.io/@dradnats1012/AWS%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9DOSI-7%EA%B3%84%EC%B8%B5-DNS)
+- [`@jeong_hun_hui` / \[설문이용\] 부하 테스트로 서비스가 예상 시나리오에서 잘 동작하는지 확인하기](https://velog.io/@jeong_hun_hui/%EC%84%A4%EB%AC%B8%EC%9D%B4%EC%9A%A9-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%98%88%EC%83%81-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%EC%97%90%EC%84%9C-%EC%9E%98-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [`@dradnats1012` / 이미지 최적화 시즌2 - Lambda@Edge](https://velog.io/@dradnats1012/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%9C%EC%A6%8C2-LambdaEdge)
 
 <!-- END: velog.io -->
 
@@ -285,6 +287,7 @@ head:
   - [AWS EC2에 HTTPS 적용하기 (feat. Nginx, Certbot)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%97%90-HTTPS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-feat-Nginx-Certbot)
   - [EC2이 Docker 안에 Jenkins Container 올리기 (feat. Webhook CI/CD 구축 & DooD)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%9D%B4-Docker-%EC%95%88%EC%97%90-Jenkins-Container-%EC%98%AC%EB%A6%AC%EA%B8%B0-feat-Webhook-CICD-%EA%B5%AC%EC%B6%95-DooD)
   - [AWS S3 보안 설정 및 정책 관리 (feat. IAM)](https://moonnight0.tistory.com/m/entry/AWS-S3-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%A0%95%EC%B1%85-%EA%B4%80%EB%A6%AC-feat-IAM)
+  - [AWS 아키텍처 설계 전략 (feat. Auto Scaling, ECS)](https://moonnight0.tistory.com/m/entry/AWS-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-feat-Auto-Scaling-ECS)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 ---
@@ -536,6 +539,7 @@ head:
 - [AWS Resilience Hub - Fault Injection Service](https://jybaek.tistory.com/m/504717)
 - [AWS Node Termination Handler](https://jybaek.tistory.com/m/504718)
 - [AWS Secrets engine 소개와 사용방법](https://jybaek.tistory.com/m/504724)
+- [EKS에 HashiCorp Vault 설치](https://jybaek.tistory.com/m/504727)
 
 ---
 

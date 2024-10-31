@@ -290,6 +290,8 @@ tag:
   - [Linux Inside #1 Booting: Bootloader에서 Kernel까지](https://1000sj.tistory.com/m/385)
   - [Linux Device Driver 기초 #3 Linux Device Driver 추가하기](https://1000sj.tistory.com/m/396)
   - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
+  - [Linux Device Driver 기초 #5 system daemon과 라이브러리 개발](https://1000sj.tistory.com/m/398)
+  - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
   <!-- END: 1000sj -->
 - [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
   - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)

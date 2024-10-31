@@ -289,6 +289,7 @@ head:
 - [아날로그 게이지로 값 출력하기 - Step 1](https://m.blog.naver.com/tipsware/223624587311)
 - [\[Q&A\] MFC Button Control과 CMFCButton 객체가 연결되는 시점을 변경하고 싶습니다.](https://m.blog.naver.com/tipsware/223625600418)
 - [공유 메모리를 사용해서 데이터 공유하기](https://m.blog.naver.com/tipsware/223626732133)
+- [확대/축소 가능한 그림 그리기 작업 구현하기](https://m.blog.naver.com/tipsware/223629469123)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 

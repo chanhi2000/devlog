@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "CodeforDesign",
+    "name": "Code for Design / NJ Channel",
+    "profile": "https://yt3.googleusercontent.com/ki-s5VLFQHSoDXOizqkReB7FI4wH53TeT-dfa-X3aHurijsj5mWRAQTC_3_Mr-UhDUBZGIQaUQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5YD98jv_wLc3BxtM_pcKbxnTzfAGhVLATbPlAqOacUeAyzsi7jrQUaSQLTiyS8i1q9XwFFScKg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KhX7lO17ySE", "title": "#ComputationalDesignWorkshopSnippet 064건축사로서 코딩학습범위  - 코딩공부를 먼저 해보라고 말하는 이유" },
+    { "id": "tRiOCY6ofJ4", "title": "#NJC QnA 142 건축사 질문 - 경쟁력, 지식의 복리, 가능성의 우주를 열자, 채널 시작 이유" },
+    { "id": "hyXnhfhC2Bs", "title": "#컴퓨테이셔널디자인 58 컴퓨테이션은 자동화 매크로를 위한것?" },
+    { "id": "aBqFugZkYI8", "title": "#Grasshopper그리고CSharp​ 구독자 질문 Q15 50대 건축사의 GH C#코딩  문법 질문" },
+    { "id": "TWrEhKjIOGQ", "title": "#Grasshopper그리고CSharp​ 구독자 질문 Q16 50대 건축사의 코딩 Class 문법 질문" },
+    { "id": "XWTBonLhWLg", "title": "#NJC QnA 141 건축사로서 코딩학습범위 - 기성세대가 새로운 기술을 접할 때" },
+    { "id": "2ncoeooqg1A", "title": "Vlog 66 2024 05  To Redlands, ESRI, and Prospect Park" },
+    { "id": "XYFE_xdwD_A", "title": "#NJC QnA 136 디자이너가 AI (데이터)를 바라볼 때" },
+    { "id": "RfFcnXLpsaQ", "title": "#NJC QnA 140 코딩 Coding 공부,  첫 달 무엇을 어떻게 할까? 이렇게 해보자!" }
+  ],
+  "playlists": [
+
+  ]
+}

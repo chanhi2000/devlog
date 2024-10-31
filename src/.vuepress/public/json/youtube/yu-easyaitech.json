@@ -1,11 +1,14 @@
 {
   "channel": {
     "id": "easyaitech",
-    "name": "AI 파트너스",
+    "name": "최첨단 카이 - 유용한 이야기, AI, 미드저니",
     "profile": "https://yt3.googleusercontent.com/BlkhiR-4W0aCxIZaCZ5ne4fDhz2j0KMlDSiM3wUVqGntdLzol5BOzdqXwTHq3jOYWP7hdRuySg=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/kA_HX08PuFjhBW1Oblchtdc4sBOuzDJzNDFyf9ZV_ArxUqbzgbjtAw15wy-jpYtQEXp8YqsD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DF5xRf4d-Ts", "title": "최신 2024 하반기 미드저니 웹사이트 완벽 공략집" },
+    { "id": "JOx1sFToszo", "title": "미드저니 역대급 업데이트! 마우스 클릭 몇번으로?! Midjourney 웹사이드 완벽 가이드" },
+    { "id": "GqVl13lfEuY", "title": "엄청 편리한 스타일 레퍼런스 사이트! 미드저니 스타일 고민 끝입니다!" },
     { "id": "r9EHBbzzD-0", "title": "이해가 확 되는 미드저니  V6 명령어 가이드 & 대박 커스텀 GPT 소개!" },
     { "id": "vcC18di3tzA", "title": "선공개! Midjourney 웹사이트 명령어 기능! 디스코드 탈출, 홀로서기 시작!" },
     { "id": "QSNffdVyX88", "title": "대박 Custom GPT 5개! AI 이미지 생성을 위한 커스텀 GPT 탑 5" }

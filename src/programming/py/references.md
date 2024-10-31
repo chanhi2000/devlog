@@ -150,7 +150,10 @@ head:
 - [`@parallelkim` / AI는 자기 진화의 꿈을 꾸는가?](https://velog.io/@parallelkim/Magi)
 - [`@yomapi` / \[python\] 비동기처리를 알아보자: iteraotr와 genrator](https://velog.io/@yomapi/python-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-iteraotr%EC%99%80-genrator)
 - [`@yomapi` / \[python\] python 비동기: OS 관점에서 동기/비동기와blocking/non-blocking 이해하기](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-OS-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80blockingnon-blocking-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-- [`@yomapi` / \[python\] python 비동기: 향상된 generator와 coroutine](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%96%A5%EC%83%81%EB%90%9C-generator%EC%99%80-coroutine)
+- [`@yomapi` / \[python\] python 비동기: 향상된 `generator`와 `coroutine`](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%96%A5%EC%83%81%EB%90%9C-generator%EC%99%80-coroutine)
+- [`@yomapi` / \[python\] 비동기처리를 알아보자: `iteraotr`와 `genrator`](https://velog.io/@yomapi/python-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-iteraotr%EC%99%80-genrator)
+- [`@yomapi` / \[python\] python 비동기: OS 관점에서 동기/비동기와 blocking/non-blocking 이해하기](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-OS-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0%EC%99%80blockingnon-blocking-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [`@yomapi` / \[python\] python 비동기: 향상된 `generator`와 `coroutine`](https://velog.io/@yomapi/python-python-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%96%A5%EC%83%81%EB%90%9C-generator%EC%99%80-coroutine)
 
 <!-- END: velog.io -->
 
@@ -765,6 +768,7 @@ head:
   - [누구나 다하는 파이썬 원페이지 강좌](https://webnautes.tistory.com/m/2391)
   - [마이크를 사용하여 녹음하는 Python 예제](https://webnautes.tistory.com/m/2399)
   - [서브 디렉토리 별로 포함된 이미지 파일을 딕셔너리에 저장하는 파이썬 코드](https://webnautes.tistory.com/m/2400)
+  - [파이썬 이터레이터(Iterator)와 제너레이터(Generator)](https://webnautes.tistory.com/m/2403)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -850,6 +854,11 @@ head:
   - [다익스트라 알고리즘 Dijkstra's Algorithm](https://jeongchul.tistory.com/m/805)
   - [벨만 포드 Bellman-Ford](https://jeongchul.tistory.com/m/806)
   - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
+  - [분산 시스템에서의 hash](https://jeongchul.tistory.com/m/817)
+  - [Message Queue](https://jeongchul.tistory.com/m/811)
+  - [MQ 과금 청구 모델 with RabbitMQ](https://jeongchul.tistory.com/m/813)
+  - [RabbitMQ 메시지 패턴방식](https://jeongchul.tistory.com/m/814)
+  - [RabbitMQ 클러스터와 Mirrored Queue](https://jeongchul.tistory.com/m/815)
   - [분산 시스템에서의 hash](https://jeongchul.tistory.com/m/817)
   <!-- END: jeongchul -->
 - [`pearlluck` / 데엔잘하고싶은데엔🔥💎검색하기](https://pearlluck.tistory.com/m/)

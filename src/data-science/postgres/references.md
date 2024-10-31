@@ -72,6 +72,7 @@ head:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` / postgresql vs mysql 비교](https://velog.io/@qkrtkdwns3410/postgresql-vs-mysql-%EB%B9%84%EA%B5%90)
+- [`@jeong3320` / postgres backup(`pgbackrest`)](https://velog.io/@jeong3320/postgres-backuppgbackrest)
 
 <!-- END: velog.io -->
 

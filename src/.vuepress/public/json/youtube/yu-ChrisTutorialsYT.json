@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/2g_6gW55niohtvmc9nCLofqEX0lCQ4IgGyVUtPjqvVZ08-JbeS-lweXXrvQEDHqQtXGrWS5jxA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dK1CMFLi7UY", "title": "Await Tutorial - Wait for Popup Result - Godot 4 Gdscript Tutorial" },
+    { "id": "ExJk-ov4aqU", "title": "Character Movement & TileMapLayers Setup ~ 1 Bit Projectile Platformer in Godot [Part 1]" },
+    { "id": "6qI2bFH3qzA", "title": "Player Jumping & Gravity for CharacterBody2D - 1 Bit Projectile Platformer Part 2 - Godot 4 Tutorial" },
+    { "id": "t2JFK0SlksI", "title": "Creating Physics Projectiles - 1 Bit Platformer P3 - Godot 4.3 Tutorial" },
+    { "id": "Av-2HiXVF-c", "title": "Fire Projectiles Aimed at Mouse Cursor - 1 Bit Platformer Part 4 - Godot 4.3 Series" },
+    { "id": "mezwctNM4gk", "title": "Damageable Enemies, Hitboxes, & Hurtboxes - 1 Bit Platformer Part 5 - Godot 4.3 Series" },
+    { "id": "0EjYs65RbJU", "title": "Hitboxes, Hit, Death, QueueFree from Scene ~ 1 Bit Projectile Platformer Part 6 - Godot 4.3 Series" },
+    { "id": "NAN4BbxaapI", "title": "Behavior AI Trees Setup & Character Health - 1 Bit Platformer Part 7 ~ Godot 4.3" },
+    { "id": "oNmgRR5UKI8", "title": "Behavior Tree Death & Remove ~ 1 Bit Platformer Part 8 - Godot 4.3 Series" },
+    { "id": "OFlRuRdubgc", "title": "Hit & Wander AI Actions ~ 1 Bit Platformer Part 9 ~ Godot 4.3" },
+    { "id": "oeoEgK5aPHQ", "title": "Day Night Cycles and Ageable Objects - World Time 1.0 Full Release Guide" },
     { "id": "ezMJN1fo7T0", "title": "Drag and Drop Send Data Between UI Controls - Godot 4 Gdscript Tutorial" },
     { "id": "cLCbqW-mdEA", "title": "How to Rotate 2D Objects by Player Input ~ Godot 4 Tutorial" },
     { "id": "W5PfFBSzYWU", "title": "How to Setup Object Placement Gameplay for Isometric Game ~ Grid Builder Plugin for Godot 4 Tutorial" },

@@ -62,6 +62,7 @@ head:
 - [`@jwlee010523` / 그래프의 탐색 - DFS(Depth first search)](https://velog.io/@jwlee010523/DFS)
 - [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
 - [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
+- [`@jwlee010523` / LPT: Longest Processing Time first](https://velog.io/@jwlee010523/LPT)
 
 <!-- END: velog.io -->
 
@@ -158,6 +159,9 @@ head:
   - [L4 vs L7 스위칭 장비](https://jeongchul.tistory.com/m/808)
   - [Load balancing 로드 밸런싱](https://jeongchul.tistory.com/m/809)
   - [DNS 서버](https://jeongchul.tistory.com/m/810)
+  - [동기(Synchronous)와 비동기식(Asynchronous)의 차이](https://jeongchul.tistory.com/m/816)
+  - [hash 함수](https://jeongchul.tistory.com/m/818)
+  - [AMQP 프로토콜](https://jeongchul.tistory.com/m/812)
   - [동기(Synchronous)와 비동기식(Asynchronous)의 차이](https://jeongchul.tistory.com/m/816)
   - [hash 함수](https://jeongchul.tistory.com/m/818)
   <!-- END: jeongchul -->

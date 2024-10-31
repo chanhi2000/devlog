@@ -348,6 +348,9 @@ head:
 - [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
   - [\[FE\] React Context API와 LocalStorage로 간단 상태관리 모듈 만들기](https://jacky0831.tistory.com/m/103)
   <!-- END: jacky0831 -->
+- [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
+  - [Docusaurus 기술문서로 개발 이력서 작성하기](https://teveloper.tistory.com/m/89)
+  <!-- END: teveloper -->
 <!-- END: tistory.com -->
 
 ---
@@ -752,6 +755,7 @@ head:
 
 - [(번역) 리액트의 use 훅과 사용 예제](https://ykss.netlify.app/translation/use_hook_in_react_and_its_use_cases/)
 - [(번역) SOLID 원칙으로 리액트 훅 작성하기](https://ykss.netlify.app/translation/write_solid_react_hooks/)
+- [(번역) 리액트 컴포넌트의 유형 돌아보기](https://ykss.netlify.app/translation/types_of_react_components/)
 
 <!-- END: ykss.netlify.app -->
 

@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "swiftandtips",
+    "name": "Swift and Tips",
+    "profile": "https://yt3.googleusercontent.com/KuKQ-L03ZFk46CxwlcFbF-5Umu65POmbkLAtdEuD84-NPwDAdN9Qqbs2ua5W7yGo8RlvL-EcCm0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PyIK3HJK845Juo36DxOaK5jiIqA5-sVkh-8-OJ6Ggck7NOdjXQLR2SnkHxaYykbX4HaquwqoPQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7hzGQLcil48", "title": "Is TCA a Good architecture?: Insights from a Principal Engineer" },
+    { "id": "JATaCHOL4z8", "title": "Testing 101: What Are UI Tests & How to Write Them in Swift/iOS" },
+    { "id": "LG5MQen364w", "title": "Principal Engineer shares tips to Master System Design and Architecture" },
+    { "id": "pZdkKDpNgc4", "title": "Google Engineer Teaches Us How to Set Up Firebase in Your iOS Project" },
+    { "id": "zgJECl6XMHw", "title": "Is MVVM a good pattern for SwiftUI? 🤔 | @azamsharp Shares His Thoughts" },
+    { "id": "ZjWlCcBIHQY", "title": "Ep. #12 | Firebase, AI Gemini & Google’s Developer Advocate Role with Peter Friese" },
+    { "id": "wcj64LX_2w0", "title": "Principal Engineer shares How AI Will Revolutionize Developer Work" },
+    { "id": "Sp0CK39ehsQ", "title": "Testing 101: What Are Integration Tests & How to Write Them in Swift" },
+    { "id": "yYGoovF4WLY", "title": "Why 'Fail Faster' Doesn't Work for Medical Apps | Insights from a Principal Engineer" },
+    { "id": "TtKFhJReN5A", "title": "Mastering Swift Testing: #require Macro to Catch Unexpected Nil Values" },
+    { "id": "kffbJty6QSw", "title": "Mastering Swift Testing: Conditional Tests with .enabled() and .disabled() Traits" },
+    { "id": "M_xjME7L5zA", "title": "Principal Developer Reveals His Experience Coding on the Apple II" },
+    { "id": "a9mF6eNcprI", "title": "Mastering Swift Testing: Migrating XCTest setUp/tearDown to init/deinit (with a caveat ⚠️)" },
+    { "id": "3J8_08pkKC0", "title": "Mastering Swift Testing: Transition from XCTFail to Issue.record" },
+    { "id": "jQcmW4YgCuE", "title": "Mastering Swift Testing: Testing Closures with Expectation" },
+    { "id": "4dzVzV4l0nY", "title": "How does a bootcamp instructor (@azamsharp ) manage his personal life? ⌛️" },
+    { "id": "fgTMriQiO2U", "title": "How this Principal Engineer Learned to Use His First Computer in the 70s" },
+    { "id": "_fKa0oLV3Zk", "title": "Testing 101: What is a Unit Test & How to Create One in Swift" },
+    { "id": "cYabvs5vThs", "title": "Mastering Swift Testing: Run Serialized Tests with One Line of Code!" },
+    { "id": "EIvvfH3Pc8U", "title": "Mastering Swift Testing: Eliminate Duplicate Tests with Parameterized Testing" },
+    { "id": "rJRVmgx_3DQ", "title": "Best Platform to Create Dev Courses? Experienced Instructor @azamsharp shares His Insights" },
+    { "id": "BrVslR2f-VU", "title": "Mastering Swift Testing: Managing Test Failures with withKnownIssue" },
+    { "id": "_9yR6e8VdCU", "title": "Mastering Swift Testing: Fail Tests That Exceed Time Limits" },
+    { "id": "RRwJ5dyFylA", "title": "Ep. #10 | Mohammad Azam: MVVM in SwiftUI and Insights into Crafting Coding Courses" },
+    { "id": "pMlN9sBiYkc", "title": "First Look at Xcode 16's Code Completion #wwdc24" },
+    { "id": "zXjM1cFUwW4", "title": "Mastering Swift Testing: Installation & Refactoring from XCTest to @Test Macro" },
+    { "id": "0NI5nzCWufM", "title": "Mastering Swift Testing: Creating Subgroups of Tests with @Suite" },
+    { "id": "7LOBNeAmm44", "title": "Mastering Swift Testing: Organize and Filter Tests with @Tag" },
+    { "id": "8k0_j6qa7_M", "title": "Mastering Swift Testing: Effortless Parallel Testing & Simpler Data Setup" },
+    { "id": "NGpM9-t9tgs", "title": "Swift Macros 101: Your Step-by-Step Guide To Crafting Your First Macro!" },
+    { "id": "JtPoqgNJohQ", "title": "Detecting Sensitive Content in your own iOS app" },
+    { "id": "eSbXJ4GfwS4", "title": "Avoid THIS when using enum pattern matching in Swift" }
+  ],
+  "playlists": [
+
+  ]
+}

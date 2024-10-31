@@ -55,6 +55,9 @@ tag:
 - [`takeu` / takeU](https://takeu.tistory.com/m/)
   - [1. 우분투 설치](https://takeu.tistory.com/m/394)
   <!-- END: takeu -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [우분투의 크롬 웹브라우저에서 구글 문서 사용시 한글 오타 해결 방법](https://webnautes.tistory.com/m/2401)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---

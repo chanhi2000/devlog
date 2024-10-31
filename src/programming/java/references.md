@@ -166,6 +166,9 @@ tag:
 - [`@jwlee010523` / JAVA - 배열](https://velog.io/@jwlee010523/java-array)
 - [`@qkrtkdwns3410` / \[모던 자바 chap 2\] 동작 파라미터화 코드 전달](https://velog.io/@qkrtkdwns3410/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-chap-2-%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC)
 - [`@sweet_sumin` / 작은것에도 관심을 기울이자 - `Float`, `Double`, `BigDecimal` 편](https://velog.io/@sweet_sumin/%EC%9E%91%EC%9D%80%EA%B2%83%EC%97%90%EB%8F%84-%EA%B4%80%EC%8B%AC%EC%9D%84-%EA%B8%B0%EC%9A%B8%EC%9D%B4%EC%9E%90-Float-Double-BigDecimal-%ED%8E%B8)
+- [`@qkrtkdwns3410` / \[모던 자바 chap 2\] 동작 파라미터화 코드 전달](https://velog.io/@qkrtkdwns3410/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-chap-2-%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC)
+- [`@jwlee010523` / JAVA - 배열](https://velog.io/@jwlee010523/java-array)
+- [`@jwlee010523` / JAVA - 패키지(Package)](https://velog.io/@jwlee010523/java-package)
 
 <!-- END: velog.io java -->
 
@@ -690,6 +693,8 @@ tag:
 ### Minty Box
 
 - [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
+- [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
+- [\[우아한테크코스\] 프리코스 1주차](https://findsilverlining.tistory.com/m/137)
 
 ### Clean Coder Blog
 

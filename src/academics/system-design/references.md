@@ -332,6 +332,7 @@ head:
 - [`@2fEJ` / \[UX#31\]대비(Contrast)효과 적용 UX 원칙](https://brunch.co.kr/@@2fEJ/1498)
 - [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
 - [`@2fEJ` / 사용자 행동 관찰을 통한 디자인 개선 - 월요일](https://brunch.co.kr/@@2fEJ/1501)
+- [`@2fEJ` / 사용자 행동 관찰을 통한 디자인 개선 - 월요일](https://brunch.co.kr/@@2fEJ/1501)
 
 <!-- END: brunch.co.kr -->
 

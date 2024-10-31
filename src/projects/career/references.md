@@ -158,6 +158,7 @@ tag:
 - [`@bestswlkh0310` / 수상 경력이 중요한가요?](https://velog.io/@bestswlkh0310/%EC%88%98%EC%83%81-%EA%B2%BD%EB%A0%A5%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80%EC%9A%94)
 - [`@bestswlkh0310` / 일 할 때 말의 scope](https://velog.io/@bestswlkh0310/%EC%9D%BC-%ED%95%A0-%EB%95%8C-%EB%A7%90%EC%9D%98-scope)
 - [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
+- [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -359,6 +360,8 @@ tag:
 - [`@2rV` / 마켓플레이스 비즈니스의 Liquidity 이해하기 - Liquidity와 마켓플레이스의 '닭과 달걀' 문제](https://brunch.co.kr/@@2rV/188)
 - [`@8w7` / 필드플레이어로 돌아간, 10년+ 부트캠프 설계자의 회고 - '수료' 가 아닌 '의미있는 성장' 을 이어내는 부스터의 여정](https://brunch.co.kr/@@8w7/243)
 - [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
+- [`@2weV` / 도전하는 인생을 사는 분들의 특징](https://brunch.co.kr/@@2weV/571)
+- [`@8w7` / 필드플레이어로 돌아간, 10년+ 부트캠프 설계자의 회고 - '수료' 가 아닌 '의미있는 성장' 을 이어내는 부스터의 여정](https://brunch.co.kr/@@8w7/243)
 
 <!-- END: brunch.co.kr -->
 

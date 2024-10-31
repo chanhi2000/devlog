@@ -470,4 +470,12 @@ head:
 
 ---
 
+## jacking75
+
+- [Git for Windows에서 여러 인증 정보를 다룰 때 Tips](https://jacking75.github.io/tech_20241022/)
+
+<!-- END: jacking75.github.io -->
+
+---
+
 <TagLinks />

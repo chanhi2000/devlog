@@ -36,5 +36,6 @@ head:
 <MyYouTubeItems jsonName="yu-Bedimcode" /><!-- Bedimcode -->
 <MyYouTubeItems jsonName="yu-jimmykimu" /><!-- DEvS -->
 <MyYouTubeItems jsonName="yu-frontendzonedotcom" /><!-- frontendzone -->
+<MyYouTubeItems jsonName="yu-ku-plrg" /><!-- KU-PLRG -->
 
 <TagLinks />

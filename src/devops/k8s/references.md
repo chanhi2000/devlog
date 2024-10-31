@@ -135,6 +135,7 @@ head:
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
   - [Vault 컨셉과 기능 소개](https://jybaek.tistory.com/m/504723)
+  - [Error: could not download chart: no cached repo found](https://jybaek.tistory.com/m/504726)
   <!-- END: jybaek -->
 - [`yongho1037` / 개발 노트](http://yongho1037.tistory.com/m/)
   - [\[Kubernetes\] Overlay 파일시스템으로 이미지 중복 제거](http://yongho1037.tistory.com/m/840)
@@ -452,6 +453,7 @@ head:
 ## Log on Me
 
 - [\[KANS\] 3기 3주 – Calico CNI & Network Mode](https://logonme.net/activities/study/kans_3_3/)
+- [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
 
 <!-- END: logonme.net -->
 

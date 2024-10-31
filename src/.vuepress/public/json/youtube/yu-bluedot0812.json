@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "bluedot0812",
+    "name": "BLUEDOT",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lLitT2iOgHv3mR0VZWsh0bCHEVGmtHM70mSAu1zqE-LQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hEbFH5d8NkQJYgjdHMnp7S2COPj469g1hep2A3EhBoB3Xlah62RS6nD6h49LsuIoqlq_wKrUCQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "W9p-D7YuKXQ", "title": "동영상 '얼굴 개선'에 특화된 AI 모델" },
+    { "id": "CwbywVkXJm0", "title": "온디바이스 AI란?" },
+    { "id": "S1T9TjVdZmQ", "title": "문과생도 개발자가 될 수 있을까요?" },
+    { "id": "PO-ewSZ-JD0", "title": "JPEG보다 2배 좋은 코덱, AVIF" },
+    { "id": "XmRAPc5gkD0", "title": "압축 기술과 인터-인트라 프레임" }
+  ],
+  "playlists": [
+
+  ]
+}

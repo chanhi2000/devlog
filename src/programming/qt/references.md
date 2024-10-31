@@ -63,6 +63,9 @@ head:
   - [PyQt5로 구현한 버튼으로 스크롤 가능한 리스트뷰(QListWidget) 예제](https://webnautes.tistory.com/m/2396)
   - [QLabel에서 정수 출력시 자리수 유지하는 PyQt5 예제 코드](https://webnautes.tistory.com/m/2397)
   <!-- END: webnautes -->
+- [`1d1cblog` / 1D1C](https://1d1cblog.tistory.com/m/)
+  - [\[Qt\] 다른 쓰레드에서 QTimer 처리하기](https://1d1cblog.tistory.com/m/523)
+  <!-- END: 1d1cblog -->
 <!-- END: tistory.com -->
 
 ---

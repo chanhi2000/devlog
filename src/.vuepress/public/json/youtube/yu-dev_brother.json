@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "VS335TimytQ", "title": "챗GPT 성능 최대로 끌어올리는 프롬프트 엔지니어링 기술 5가지" },
+    { "id": "_bW3wbZAyo0", "title": "ChatGPT와 Claude 중 아직 선택 못하셨다면 필수 시청!" },
+    { "id": "W2FAOJA533Q", "title": "OpenAI에서 발표하지 않은 내용이 있네요 | 이게 더 대박인데..." },
     { "id": "wtTRSMWI9a4", "title": "Any background I want can change everything - stable diffusion inpaint feature" },
     { "id": "gssrI2jDqcg", "title": "이미지 일관성의 비밀: Fooocus로 마스터 하기" },
     { "id": "PrVd17FnNAg", "title": "엑셀은 끝인가? Excel 말고 챗GPT 배우세요!" },

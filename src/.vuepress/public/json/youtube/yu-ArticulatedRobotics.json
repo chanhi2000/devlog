@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "fH4gkIFZ6W8", "title": "How to upgrade your ROS project to the New Gazebo" },
+    { "id": "fS0_rbQ6KKA", "title": "No more broken comms! (ROS 2 + rmw_zenoh)" },
+    { "id": "8GrdqAizcfU", "title": "Understanding the Rotation Matrix" },
     { "id": "JIGO3b-aoz8", "title": "When your webcam isn't working" },
     { "id": "NGPn9nvLPmg", "title": "Coordinate Transformations - How robots move through space" }
   ]

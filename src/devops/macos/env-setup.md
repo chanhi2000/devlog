@@ -70,7 +70,7 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat cocoapods exiftool ffmpeg fizz flac git \
   hyperfine mas fastfetch nushell fnm openssl pixman \
-  python rust scrcpy starship tmux tokei watchman \
+  python poetry rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
 
 # Install cask(s)
@@ -313,6 +313,7 @@ ZSH_THEME="agnoster"
 plugins=(
   git
   autojump
+  poetry
   zsh-autosuggestions
   zsh-syntax-highlighting
 )

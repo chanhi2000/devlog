@@ -250,6 +250,9 @@ tag:
 - [`singo112ok` / 운동하는 개발자](https://singo112ok.tistory.com/m/)
   - [Google Console 개발자 계정 확인 (개인 계정)](https://singo112ok.tistory.com/m/286)
   <!-- END: singo112ok -->
+- [`namget` / 남갯의 개발,일상블로그](http://namget.tistory.com/m/)
+  - [Compose 동작원리](http://namget.tistory.com/m/entry/Compose-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
+  <!-- END: namget -->
 <!-- END: tistory.com -->
 
 ---
@@ -466,6 +469,8 @@ tag:
 
 - [Android에서 효율적인 모듈 디펜던시 관리하기, build-logic으로 전환하기?](https://thdev.tech/android/2024/10/20/Android-dependency-manage/)
 
+<!-- END: thdev.tech -->
+
 ---
 
 ## Speaker Deck | Easily Share Your Presentations Online
@@ -494,6 +499,9 @@ tag:
 ## 찰스의 안드로이드
 
 - [멀티 모듈 프로젝트에서 BuildConfig를 단일로 관리하기](https://charlezz.com/?p=46662)
+- [\[KMP\] 데스크탑(jvm)용 웹뷰 구현하기](https://charlezz.com/?p=46693)
+
+<!-- END: charlezz.com -->
 
 ---
 

@@ -96,7 +96,7 @@ tag:
 
 - [`kimkani` / Kani Kim Dev](https://kimkani.tistory.com/m/)
   - [[번역] Django REST Framework(장고 레스트 프레임워크): 장점과 단점 그리고 이의 대체제](https://kimkani.tistory.com/64)
-  - [\[Django\] QuerySet, Manager, Active Record 패턴, django-model-utils의 InheritanceManager들 톺아보기 및 성능 개선기](https://kimkani.tistory.com/m/67)
+  - [\[Django\] QuerySet, Manager, Active Record 패턴, django-model-utils의 `InheritanceManager`들 톺아보기 및 성능 개선기](https://kimkani.tistory.com/m/67)
   <!-- END: kimkani -->
 - [`he-kate1130` / KATE.log](https://he-kate1130.tistory.com/m/)
   - [[Threepark] 3. 백엔드 구현 - (4) DRF 개발 | DB & MODEL](https://he-kate1130.tistory.com/m/92)

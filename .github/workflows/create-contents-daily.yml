@@ -36,7 +36,7 @@ jobs:
     - name: Print awesome-devblog.netlify.app
       run: |
         echo "Generated 'awesome-devblog.netlify.app' Markdown content ..."
-        cat scripts/src/awesome-devlog-*.md
+        cat scripts/src/awesome-devblog-*.md
     
     - name: Print news.hada.io
       run: |

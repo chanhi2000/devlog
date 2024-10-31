@@ -71,6 +71,7 @@ tag:
 - [`@jwlee010523` / 그래프의 탐색 - DFS(Depth first search)](https://velog.io/@jwlee010523/DFS)
 - [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
 - [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
+- [`@jwlee010523` / LPT: Longest Processing Time first](https://velog.io/@jwlee010523/LPT)
 
 <!-- END: velog.io -->
 

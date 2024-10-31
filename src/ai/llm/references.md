@@ -571,6 +571,7 @@ head:
 ## 000namc.blog
 
 - [AlexNet 논문 리뷰](https://000namc.github.io/2024/10/18/alexnet/)
+- [VGG 논문 리뷰](https://000namc.github.io/2024/10/21/vgg/)
 
 <!-- END: 000namc.github.io -->
 

@@ -168,6 +168,7 @@ head:
 - [`@qkrtkdwns3410` / JPA `@DynamicUpdate`](https://velog.io/@qkrtkdwns3410/JPA-DynamicUpdate)
 - [`@qkrtkdwns3410` / JPA 공부 메모](https://velog.io/@qkrtkdwns3410/JPA-%EA%B3%B5%EB%B6%80-%EB%A9%94%EB%AA%A8)
 - [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)
+- [`@qkrtkdwns3410` / Spring boot 3.x Qdsl group by 사용시 에러](https://velog.io/@qkrtkdwns3410/Spring-boot-3.x-Qdsl-group-by-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC)
 
 <!-- END: velog.io java -->
 
@@ -744,6 +745,7 @@ head:
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@joshuara7235` / MSA를 찍먹해보자.  - feat. Saga Pattern](https://velog.io/@joshuara7235/MSA%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Saga-Pattern)
+- [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)
 
 <!-- END: velog.io kotlin -->
 

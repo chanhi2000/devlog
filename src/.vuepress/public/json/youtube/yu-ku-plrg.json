@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "ku-plrg",
+    "name": "KU-PLRG",
+    "profile": "https://yt3.googleusercontent.com/pdb64DNhSJNBtxSFc6CIJQF64Ngfho6BeRAH4DXZWFV1T0YRRum3ubfTNweP7ccKexq0lPmnvA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "JGxc-KIUnQY", "title": "CACM - JavaScript Language Design and Implementation in Tandem" },
+    { "id": "Ep7B7qppctE", "title": "프로그래밍 언어 연구실 소개" }
+  ],
+  "playlists": [
+
+  ]
+}

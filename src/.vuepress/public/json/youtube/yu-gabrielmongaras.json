@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "gabrielmongaras",
+    "name": "Gabriel Mongaras",
+    "profile": "https://yt3.googleusercontent.com/0eJDCDTInItuw-rxowf1RtqwmsT6i146mw_mbMzaO6Y1nyonSInOK0Ms2LlPcB_FibZyTjNJEg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "wKcngKG0B-s", "title": "Addition is All You Need for Energy-efficient Language Models" },
+    { "id": "2tS_bXPoriI", "title": "Round and Round We Go! What makes Rotary Positional Encodings useful?" },
+    { "id": "YssE-7D029Y", "title": "Deterministic Image Editing with DDPM Inversion, DDIM Inversion, Null Inversion and Prompt-to-Prompt" },
+    { "id": "utsnn06TBlM", "title": "WARP: On the Benefits of Weight Averaged Rewarded Policies" },
+    { "id": "I9Ghw2Z7Gqk", "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States" },
+    { "id": "ParHL03RL5g", "title": "Attending to Topological Spaces: The Cellular Transformer" },
+    { "id": "-BelefxpVc8", "title": "NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models" },
+    { "id": "qcMsvU-wYZA", "title": "CoPE - Contextual Position Encoding: Learning to Count What's Important" },
+    { "id": "5mQLaa5XdgM", "title": "CoDeF: Content Deformation Fields for Temporally Consistent Video Processing" },
+    { "id": "CkCijaXqAOM", "title": "KAN: Kolmogorov-Arnold Networks" },
+    { "id": "4ND8lU2aN_k", "title": "xLSTM: Extended Long Short-Term Memory" }
+  ],
+  "playlists": [
+
+  ]
+}
