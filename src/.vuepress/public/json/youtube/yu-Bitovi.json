@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/7hSBctH7wyRr7GCCNXtIdAg5IYWyJnYGnIcQRRMbid1zQ0Bpi4EQGn02YGnP_MC9V6mk0w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DBxn7xKRdoQ", "title": "AI at Scale with Temporal: Bitovi Webinar" },
+    { "id": "ntDwXNrU-T0", "title": "August 2024 ChicagoJS Meetup" },
+    { "id": "tGQVURHkT6w", "title": "Building and Maintaining Actionable Multi-team Plans: DevWeek 2024 Talk by Justin Meyer" },
+    { "id": "15RCr_P4Btw", "title": "Deploy Storybook to GitHub Pages" },
+    { "id": "zjRoT6IIFE4", "title": "June 2024 ChicagoJS Meetup" },
+    { "id": "ZrLaDwGwyRU", "title": "April 2024 ChicagoJS Meetup" },
     { "id": "4xD9DQ_V-x4", "title": "Hatchify: The Getting Started Guide" },
     { "id": "wWd2Vejpuxg", "title": "Deploy Static Site to AWS" },
     { "id": "yiug2C_BIsc", "title": "Introduction to Web Accessibility" },

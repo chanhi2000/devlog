@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/xs-51-adCgcbVLv0o4XczZ40vY353m2Fc8MDf0loQCtbSXLxo-z4CvpbTFfI5chQ7yUeYEXg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4PTgv33I4cU", "title": "Learn Structs, Enums & Pattern Matching In Rust | Data Modelling | Pattern Matching | Part 3" },
+    { "id": "hHBcBMdpPLU", "title": "Mastering Concurrency and Multithreading in Java: In-Depth Guide with Practical Examples | Latest" },
+    { "id": "gbvso8K_2qA", "title": "Learn Rust With Me - Beginner's Guide | Tutorial | Latest | In Simple Way | Part 1" },
+    { "id": "amE4aJOymwQ", "title": "OAuth2.0 Implementing a JWK Store in Spring Boot Authorization Server with Database | Postresql" },
+    { "id": "wlmOHUwu5BA", "title": "Understanding Ownership & Borrowing Concept In Rust | Learn Rust With Me | Latest | Part 2" },
     { "id": "H1SmCoirFCo", "title": "OAuth 2.0 Refresh & Access Token Setup with PKCE Flow | Spring Boot Security Tutorial" },
     { "id": "GsIO3R_mF0M", "title": "OAuth 2.0 Role Based Authorization Using Spring Boot | Spring boot Security Tutorial | Part - 3" },
     { "id": "OYvm0ZalLrM", "title": "Learn How to Setup React Context API With useReducer | State Management | Best Practice | Hindi" }

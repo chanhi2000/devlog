@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "bufferhead_",
+    "name": "Bufferhead",
+    "profile": "https://yt3.googleusercontent.com/JGg4NA8LPX3yIP04i0OR4pE1P2EqaP1z0Ib60z48TcHLkVlDuNi-ZJZloL4m_akAYftpWi14Dz4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nCYwYcuB0CKYLBUNf0KFVpx9mvXss3oQIm0DCF6ZfTXFK7Ae13Vwzg3kG7V52bDG6TAAX9HSHdI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-8zATnl9-bY", "title": "Let's fix Open Source Funding" },
+    { "id": "n_Fc7BHM-yE", "title": "Host a Free Uptime Monitor on Github" },
+    { "id": "k6y0EUlhTYk", "title": "The Rise and Fall of Pavel Durov" },
+    { "id": "JNQXZJEddUY", "title": "I redesigned FFmpeg - Open Source Redesigns #1" },
+    { "id": "cYP0k_shdWc", "title": "Host your Database for Free on Github Pages" },
+    { "id": "aqrPOPq1kP0", "title": "I made Infinite Craft Open Source" }
+  ],
+  "playlists": [
+
+  ]
+}

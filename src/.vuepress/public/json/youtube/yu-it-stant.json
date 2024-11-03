@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "RRqd1sFYSS8", "title": "개인프로젝트 | Web Site 개발 및 서비스 공개" },
+    { "id": "mWF1avc9EzY", "title": "쿠버네티스 | 16_CI/CD 예시 | gitea-runner, harbor, argoCD 적용" },
+    { "id": "15I4tPNMMJ0", "title": "쿠버네티스 | 17_GPU(RTX 3060) 연동하기" },
+    { "id": "Y9KsEV-8cHw", "title": "쿠버네티스 | 18_KubeFlow 설치하기" },
+    { "id": "1HB3MhLXrr4", "title": "개인프로젝트 | Simple CI/CD on Kubernetes" },
+    { "id": "2w_O1_U21WY", "title": "개인프로젝트 | Simple CI/CD 재구성 on Kubernetes" },
+    { "id": "uTK_TpJNyF8", "title": "oss quick start | MinIO 오브젝트 스토리지" },
     { "id": "UX5s10vkMA8", "title": "우분투 22.04 | 2. 파일 시스템 계층 표준 ( 폴더 구조 )" },
     { "id": "wiB60gnQFwQ", "title": "쿠버네티스 | 11_OpenLens 설치 및 기본 설정" },
     { "id": "HD8YOJPcVYo", "title": "쿠버네티스 | 12_Core-dns와 Pod Container 통신" },

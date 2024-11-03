@@ -126,6 +126,7 @@ head:
 - [`@5jl5` / \[책소개\] 금융 AI의 이해  - 신용 평가, 사기 탐지, 퀀트투자, 생성형 AI를 활용한 실전 금융 AI](https://brunch.co.kr/@@5jl5/127)
 - [`@ZVA` / 자바의 아버지 제임스 고슬링, 생성AI를 생각한다](https://brunch.co.kr/@@ZVA/722)
 - [`@ZVA` / 생성AI와 읽기의 종말 시대, 가르친다는 것에 대하여](https://brunch.co.kr/@@ZVA/737)
+- [`@5jl5` / RAG기반 LLM서비스 전망](https://brunch.co.kr/@@5jl5/132)
 
 <!-- END: brunch.co.kr -->
 
@@ -338,6 +339,9 @@ head:
 - [`daeson` / 대소니](https://daeson.tistory.com/m/)
   - [Retrieval Augmented Generation (RAG) and Beyond](https://daeson.tistory.com/m/396)
   <!-- END: daeson -->
+- [`hl1itj` / 쉽게 살 수 있을까 ?](https://hl1itj.tistory.com/m/)
+  - [생성형 AI 시대의 취업 준비](https://hl1itj.tistory.com/m/268)
+  <!-- END: hl1itj -->
 <!-- END: tistory.com -->
 
 ---
@@ -572,6 +576,8 @@ head:
 
 - [AlexNet 논문 리뷰](https://000namc.github.io/2024/10/18/alexnet/)
 - [VGG 논문 리뷰](https://000namc.github.io/2024/10/21/vgg/)
+- [ResNet 논문 리뷰](https://000namc.github.io/2024/10/23/resnet/)
+- [NLP 분야 논문리뷰 및 구현](https://000namc.github.io/2024/10/25/nlp-models/)
 
 <!-- END: 000namc.github.io -->
 
@@ -582,6 +588,15 @@ head:
 - [Generative AI’s Act o1 - 에이전트 추론의 시대 개막](https://sequoiacap.com/article/generative-ais-act-o1/)
 
 <!-- END: sequoiacap.com -->
+
+---
+
+## 000namc.xyz
+
+- [NLP 분야 논문리뷰 및 구현](https://blog.000namc.xyz/2024/10/29/nlp-models/)
+- [(Transformer) Attention Is All You Need 리뷰](https://blog.000namc.xyz/2024/10/31/transformer/)
+
+<!-- END: blog.000namc.xyz -->
 
 ---
 

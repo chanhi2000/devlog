@@ -98,7 +98,7 @@ head:
 <MyYouTubeItems jsonName="yu-sam_simple_restaurant" /><!-- 삼플식당(Sam Simple Restaurant) -->
 <MyYouTubeItems jsonName="yu-life_peace87" /><!-- 라이프피스 -->
 <MyYouTubeItems jsonName="yu-jamo_JonPark" /><!-- 자영업의 모든것 -->
-<MyYouTubeItems jsonName="yu-ohdesk" /><!-- 오늘의 데스크 -->
+<MyYouTubeItems jsonName="yu-OHDESK" /><!-- 오늘의 데스크 -->
 <MyYouTubeItems jsonName="yu-excessorizeme" /><!-- EXCESSORIZE ME. -->
 <MyYouTubeItems jsonName="yu-pickplus_official" /><!-- 픽플러스 -->
 <MyYouTubeItems jsonName="yu-Welfaremarble" /><!-- 복지마블TV [Welfare Marble] -->
@@ -140,5 +140,7 @@ head:
 <MyYouTubeItems jsonName="yu-review_songmini" /><!-- END: 리뷰한다 송미니 -->
 <MyYouTubeItems jsonName="yu-DiyBuy" /><!-- 다이바이TV -->
 <MyYouTubeItems jsonName="yu-coolmoonchoi" /><!-- 나의시선 -->
+<MyYouTubeItems jsonName="yu-koreatveconomy" /><!-- 경제 인사이트 -->
+<MyYouTubeItems jsonName="yu-user-kr5wq8ys8t" /><!-- 알리추천소 -->
 
 <TagLinks />

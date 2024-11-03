@@ -97,5 +97,9 @@ head:
 <MyYouTubeItems jsonName="yu-makeitworktech" /><!-- Make It Work -->
 <MyYouTubeItems jsonName="yu-cynonexus" /><!-- CynoNexus -->
 <MyYouTubeItems jsonName="yu-petabyteag" /><!-- petabyteag -->
+<MyYouTubeItems jsonName="yu-optimumtech" /><!-- optimum -->
+<MyYouTubeItems jsonName="yu-AMIRBENDABI" /><!-- AMIR BENDABI -->
+<MyYouTubeItems jsonName="yu-PhilsLab" /><!-- Phil’s Lab -->
+<MyYouTubeItems jsonName="yu-TailosiveTech" /><!-- Tailosive Tech -->
 
 <TagLinks />

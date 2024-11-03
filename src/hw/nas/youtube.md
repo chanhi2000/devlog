@@ -32,5 +32,6 @@ head:
 <MyYouTubeItems jsonName="yu-NicoKnowsTech" /><!-- Nico Knows Tech -->
 <MyYouTubeItems jsonName="yu-2GuysTek" /><!-- 2GuysTek -->
 <MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
+<MyYouTubeItems jsonName="yu-ColorScale" /><!-- ColorScale -->
 
 <TagLinks />

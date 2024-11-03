@@ -138,9 +138,47 @@ head:
 
 ---
 
-## 궁금증 연구소
+## tistory
 
-- [chatGPT 활용팁](https://zorba10004.tistory.com/m/391)
+- [`lsjsj92` / 꿈 많은 사람의 이야기](https://lsjsj92.tistory.com/m/)
+  - [vLLM을 OpenAI API server(OpenAI-Compatible Server)로 활용하는 방법 및 예제(example)](https://lsjsj92.tistory.com/m/673)
+  <!-- END: lsjsj92 -->
+- [`zorba10004` / 궁금증 연구소](https://zorba10004.tistory.com/m/)
+  - [chatGPT 활용팁](https://zorba10004.tistory.com/m/391)
+  <!-- END: zorba10004 -->
+- [`puleugo` / 푸르고](https://puleugo.tistory.com/m/)
+  - [머신러닝과 딥러닝의 차이](https://puleugo.tistory.com/m/189)
+  <!-- END: puleugo -->
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
+  - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
+  - [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
+  - [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+  - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
+  - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(1)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC1)
+  - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
+  - [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(3)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC3)
+  <!-- END: vurias0203 -->
+- [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
+  - [\[ChatGPT\] KMIP 에 사용 되는 TTLV 포맷](https://jykim74.tistory.com/m/280)
+  <!-- END: jykim74 -->
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [\[생각 정리\] ChatGPT 유료 사용 (ChatGPT Plus 구독)이 필요한 8가지 이유 + 저렴하게 이용하는 방법(feat. OTT 공유 플렛폼: GoingBus)](https://csj000714.tistory.com/m/1149)
+  <!-- END: csj000714 -->
+- [`jusths` / just_HS](https://jusths.tistory.com/m/)
+  - [오만과 편견 with ChatGPT](https://jusths.tistory.com/m/419)
+  <!-- END: jusths -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
+  - [ChatGpt 의 유료결제 영수증 및 청구서 다운로드](https://aspdotnet.tistory.com/m/3275)
+  <!-- END: aspdotnet -->
+- [`greypencil` / 일상생활 앱 개발 연구소](http://greypencil.tistory.com/m/)
+  - [기업은 AI 을 어떻게 써야 할까?](http://greypencil.tistory.com/m/226)
+  <!-- END: greypencil -->
+- [`potwings` / 블로그 이름 뭐하지??](https://potwings.tistory.com/m/)
+  - [AI의 두 번의 겨울 - XOR 문제, 기울기 소실 문제](https://potwings.tistory.com/m/70)
+  <!-- END: potwings -->
+<!-- END: tistory.com -->
 
 ---
 
@@ -400,25 +438,6 @@ head:
 
 ---
 
-## 푸르고
-
-- [머신러닝과 딥러닝의 차이](https://puleugo.tistory.com/189)
-
----
-
-## Miles UX/UI Insight
-
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (1)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-1)
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (2)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-2)
-- [AI로 AI 사이드프로젝트 만들기 - FeelRing 제작기 (3)](https://vurias0203.tistory.com/m/entry/AI%EB%A1%9C-AI-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-FeelRing-%EC%A0%9C%EC%9E%91%EA%B8%B0-3)
-- [GPT4o로 외국어 버전 앱 만들기 1탄 - 광고에 대한 이해](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EC%99%B8%EA%B5%AD%EC%96%B4-%EB%B2%84%EC%A0%84-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1%ED%83%84-%EA%B4%91%EA%B3%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
-- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
-- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(1)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC1)
-- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(2)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC2)
-- [GPT4o로 다국어 앱 만들기 2탄 - 다국어 번역과 문서관리(3)](https://vurias0203.tistory.com/m/entry/GPT4o%EB%A1%9C-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EB%B2%88%EC%97%AD%EA%B3%BC-%EB%AC%B8%EC%84%9C%EA%B4%80%EB%A6%AC3)
-
----
-
 ## BleepingComputer | Cybersecurity, Technology News and Support
 
 - [It's surprisingly difficult for AI to create just a plain white image](https://www.bleepingcomputer.com/news/technology/its-surprisingly-difficult-for-ai-to-create-just-a-plain-white-image/)
@@ -463,18 +482,6 @@ head:
 
 ---
 
-## Warehouse of PKI
-
-- [\[ChatGPT\] KMIP 에 사용 되는 TTLV 포맷](https://jykim74.tistory.com/m/280)
-
----
-
-## 드프 DrawingProcess
-
-- [\[생각 정리\] ChatGPT 유료 사용 (ChatGPT Plus 구독)이 필요한 8가지 이유 + 저렴하게 이용하는 방법(feat. OTT 공유 플렛폼: GoingBus)](https://csj000714.tistory.com/m/1149)
-
----
-
 ## 사진찍는 웹 개발자의 블로그
 
 - [ChatGPT랑 비슷한 File Input 컴포넌트 구현하고 react-hook-form에 연동하기(파일 누적 관리하기)](https://donghoon-song.github.io/react.js/chatgpt랑-비슷한-file-input-컴포넌트-구현하고-react-hook-form에-연동하기(파일-누적-관리하기)/)
@@ -504,24 +511,11 @@ head:
 
 ---
 
-## just_HS
-
-- [오만과 편견 with ChatGPT](https://jusths.tistory.com/m/419)
-
----
-
 ## 비즈니스, 테크놀로지, 리더십 - CIO Korea
 
 - [“JSON 형식으로 AI 결과물 출력”··· 오픈AI, 개발자 공략한 GPT-4o 새 버전 출시](https://ciokorea.com/news/347071)
 
 <!-- END: ciokorea.com -->
-
----
-
-## 재우니의 블로그
-
-- [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](http://aspdotnet.tistory.com/m/3245)
-- [ChatGpt 의 유료결제 영수증 및 청구서 다운로드](https://aspdotnet.tistory.com/m/3275)
 
 ---
 

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/vE2-ZWkNaJ3SzqOlipHxtvellsiElmlb3pFKqjUqhKDwPKx30T66XvHV_l_jnXzMEi-3qN2P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dnDTbDaA960", "title": "Virtualisation was just the start" },
+    { "id": "xL3E9eQrpoU", "title": "MongoDB + Pac-Man with Veeam Backup & Replication protection" },
+    { "id": "LGECvNhRtcg", "title": "90DaysOfDevOps - Test Stream" },
+    { "id": "TIJE4uqk0Zw", "title": "Pac-Man High Scores - Immutable Backup & Recovery (No Voice Over) Demo" },
+    { "id": "1zU5Xns7c34", "title": "Bringing AI to #90DaysOfDevOps 2024 Community Edition" },
+    { "id": "JxTIGHqY5_E", "title": "Veeam Data Platform Upgrade from 12 to 12.1" },
+    { "id": "7VesJOofBP8", "title": "The VMware Cost Conundrum" },
+    { "id": "pTmeUKD8sMo", "title": "Protect your Postgres EDB database with Kasten" },
+    { "id": "j9DOWkw9-pc", "title": "Learning Kubernetes, Pods & Deployments with Doom" },
+    { "id": "3srVdN9fF0Q", "title": "Azure Spring 2024 - Data On Microsoft Azure" },
+    { "id": "iE5DNLd4yV4", "title": "HomeLabbing - Talos Linux + Rook Ceph + Veeam Kasten for Kubernetes" },
     { "id": "L8hqM3Y5pTo", "title": "Day 59 - Continuous Delivery pipelines for cloud infrastructure" },
     { "id": "Bhr-lxHvWB0", "title": "Day 60 - Migrating a monolith to Cloud-Native and the stumbling blocks that you don’t know about" },
     { "id": "3069RWgZt6c", "title": "Day 61 - Demystifying Modernisation: True Potential of Cloud Technology" },

@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/Ye6nCtlcTbKTvlvUwJqCzUbcezEWE4gc4aPzdZkWbEyOQrHlmTAeg-edr-p1-gFZHNu4Z_Z9SQI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QYaGhSo5Uaw", "title": "STM32 + LVGL Firmware Tutorial - Phil's Lab #147" },
+    { "id": "UrnRPwrctRE", "title": "Rise & Fall Times (Basics & Measurement) - Phil's Lab #145" },
+    { "id": "RWujOLXBFrc", "title": "STM32 + LCD Display (FMC) Firmware Tutorial - Phil's Lab #146" },
+    { "id": "hOamoJ15hmA", "title": "QFN PCB Design Tips & Tricks - Phil's Lab #144" },
+    { "id": "ysORoOeIzHY", "title": "How To Write A Driver (Audio CODEC & I2C) - Phil's Lab #142" },
+    { "id": "JlAdsK5Z1WI", "title": "Gigabit Ethernet Hardware Design - Phil's Lab #143" },
+    { "id": "wd6I_wrGK_k", "title": "Delay-Based Audio FX Software Implementation (DSP with STM32) - Phil's Lab #140" },
+    { "id": "lDskXTR6psY", "title": "STM32 Real-Time FIR Filter Implementation (CMSIS DSP) - Phil's Lab #141" },
+    { "id": "M6_an34wQJk", "title": "2-Layer PCB Design Tips - Phil's Lab #137" },
     { "id": "zOByx3Izf5U", "title": "PID Controller Implementation in Software - Phil's Lab #6" },
     { "id": "1EXXqWweTkI", "title": "How To Read A Datasheet - Phil's Lab #123" }
   ]

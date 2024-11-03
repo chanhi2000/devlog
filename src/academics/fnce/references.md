@@ -56,8 +56,10 @@ head:
 - [트래블러스 매도, 삼성전자 매수](https://m.blog.naver.com/jhc9639/223579690102)
 - [비트코인 대상승의 시대와 아모레퍼시픽 매도 #컨펌](https://m.blog.naver.com/jhc9639/223583749962)
 - [비트코인 -10퍼센트 하락. 하지만 청산 당하지 않았습니다#컨펌](https://m.blog.naver.com/jhc9639/223604467151)
+- [바이비트에서 업비트로 송금하기](https://m.blog.naver.com/jhc9639/223635129936)
+
+<!-- END: jhc9639 -->
 
 ---
-
 
 <TagLinks />

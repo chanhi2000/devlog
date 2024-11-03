@@ -162,5 +162,8 @@ tag:
 <MyYouTubeItems jsonName="yu-AivarsMeijers" /><!-- Aivars Meijers -->
 <MyYouTubeItems jsonName="yu-XCA" /><!-- Xcoding with Alfian -->
 <MyYouTubeItems jsonName="yu-swiftandtips" /><!-- Swift and Tips -->
+<MyYouTubeItems jsonName="yu-Developingperspective" /><!-- DevelopingPerspective -->
+<MyYouTubeItems jsonName="yu-birch_js" /><!-- Jamie Birch -->
+<MyYouTubeItems jsonName="yu-SwiftServerSide" /><!-- Swift Server Side -->
 
 <TagLinks/>

@@ -26,9 +26,14 @@ tag:
 
 ---
 
-## 재우니의 블로그
+## tistory
 
-- [mssql 키보드 쿼리 바로가기 단축키 괜찮은 것](https://aspdotnet.tistory.com/1049)
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [mssql 키보드 쿼리 바로가기 단축키 괜찮은 것](https://aspdotnet.tistory.com/m/1049)
+  - [MSSQL 2016 에서 JSON 데이터 복합 수정(`JSON_MODIFY`) 작업](https://aspdotnet.tistory.com/m/2945)
+  - [MSSQL 2016과 이후 버전에서 JSON 처리 방법](https://aspdotnet.tistory.com/m/3288)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
 
 ---
 

@@ -507,6 +507,14 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Rust – 문법 정리](https://skyer9.pe.kr/wordpress/?p=8054)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
 ## pdf(s)
 
 <PDF url="https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf" />

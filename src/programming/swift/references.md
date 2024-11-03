@@ -470,6 +470,9 @@ tag:
 - [\[Swift 5.9+\] Generic과 Noncopyable을 활용하여 보다 안전한 상태머신을 만들기](https://minsone.github.io/swift-type-safe-state-machine-using-generics-noncopyable)
 - [\[Swift\] Private Extension과 Helper 타입](https://minsOne.github.io/swift-private-extension-and-helper-type)
 - [\[Swift\]\[Tuist\] 파일 경로 간의 상대 경로 계산하기](https://minsOne.github.io/swift-relative-file-path)
+- [\[Tuist 4.x+\] Cache](https://minsOne.github.io/tuist-cache)
+
+<!-- END: minsOne.github.io -->
 
 ---
 
@@ -810,6 +813,7 @@ tag:
 - [Create an animated transition with Matched Geometry Effect in SwiftUI](https://createwithswift.com/create-an-animated-transition-with-matched-geometry-effect-in-swiftui/)
 - [Understanding typography in visionOS](https://createwithswift.com/understanding-typography-in-visionos)
 - [Revolutionizing Surgery and Medical Treatments with visionOS](https://createwithswift.com/revolutionizing-surgery-and-medical-treatments-with-visionos/)
+- [Making charts accessible with Swift Charts](https://createwithswift.com/making-charts-accessible-with-swift-charts)
 
 <!-- END: createwithswift.com -->
 
@@ -1049,6 +1053,22 @@ tag:
 - [Menu is not added to app via applicationDockMenu on macOS](https://falsy.me/menu-is-not-added-to-app-via-applicationdockmenu-on-macos/)
 
 <!-- END: falsy.me -->
+
+---
+
+## MutatingFunc
+
+- [App development on iPad](https://mutatingfunc.github.io/blog/2024-10-12-app-development-on-ipad)
+
+<!-- END: mutatingfunc.github.io -->
+
+---
+
+## FlineDev Blog – Insights on Swift, Xcode, and Apple Development
+
+- [Test your Swift Packages Linux Compatibility on Mac](https://fline.dev/test-your-swift-packages-linux-compatibility-on-mac/)
+
+<!-- END: fline.dev -->
 
 ---
 

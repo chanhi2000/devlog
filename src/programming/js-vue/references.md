@@ -116,6 +116,12 @@ head:
 - [`devtimothy` / 공부하는 블로그](https://devtimothy.tistory.com/m/)
   - [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](https://devtimothy.tistory.com/m/91)
   <!-- END: devtimothy -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [MVC, MVP, MVVM 패턴 비교](https://bbogle2.tistory.com/m/entry/MVC-MVP-MVVM-%ED%8C%A8%ED%84%B4-%EB%B9%84%EA%B5%90)
+  <!-- END: bbogle2 -->
+- [`zinee-world` / zineeworld](https://zinee-world.tistory.com/m/)
+  - [\[Canvas\] Vue로 복권 긁기 기능 구현 (LottoScratch)](https://zinee-world.tistory.com/m/653)
+  <!-- END: zinee-world -->
 <!-- END: tistory.com -->
 
 ---

@@ -18,5 +18,7 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-nginx_official" /><!-- NGINX -->
+<MyYouTubeItems jsonName="yu-hobbyMett" /><!-- 코딩하는오후 -->
+<MyYouTubeItems jsonName="yu-AwesomeOpenSource" /><!-- Awesome Open Source -->
 
 <TagLinks />

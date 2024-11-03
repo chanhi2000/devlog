@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "OptimisticWeb",
+    "name": "Optimistic Web",
+    "profile": "https://yt3.googleusercontent.com/HR1kZiwwZz_JPrCqzfzDIqpvfKLOwYHsXGR9gqoezywJ1uVJTs-GRx5lR-_xs_KgMwHZWd5k=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9nHN9VL5pH97QVhtQd8VHd6_PZpHDkM3CCFI4_gZ4AS_w6GTWUDkxyH3Neu0nvEiSPJP-tdF=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MD5OcDWvreo", "title": "Stop struggling with CSS GRID ALIGNMENTS" },
+    { "id": "8x8lxX5IGHY", "title": "Master CSS container queries and boost your web design skills!" },
+    { "id": "xR23ktLwvrg", "title": "CSS Grid - Create a FULL-HEIGHT RESPONSIVE Layout in Minutes" },
+    { "id": "QlZkfmofzHU", "title": "You Won’t Believe How Easy It Is to Create a CSS DASHBOARD Layout!" },
+    { "id": "HOUMF5qMAbA", "title": "CSS Grid - Unlock the Secrets of AUTO-FILL vs AUTO-FIT" },
+    { "id": "9mVHCnie4Lo", "title": "The ultimate guide to fixing broken images – No more bad layouts" },
+    { "id": "Zwj60_wxjOc", "title": "Create Eye-Catching CSS Circular Animation in 6 minutes" },
+    { "id": "Xb1KZ1E-Uac", "title": "This Epic CSS Circular Animation is Easier Than You Think!" },
+    { "id": "6xzulGrFGO8", "title": "Kickstart Your Responsive Web Design Journey with CSS Media Queries" },
+    { "id": "1CYx7Y_qYKA", "title": "CSS Container Queries Are Changing Responsive Web Layouts Forever!" },
+    { "id": "E5V4qME3FYQ", "title": "CSS Icon Hover Effect Like You’ve Never Seen" },
+    { "id": "03H1dW-kczM", "title": "Create Stunning CSS 3D Hover Effect LIKE A PRO!" },
+    { "id": "4gkdSPEHf8Q", "title": "Transform Your Tabs with This Simple CSS Trick" },
+    { "id": "U-EekdWG4Ro", "title": "Master the art of CSS box decorations with this insane property" },
+    { "id": "Bp3sEXCYnSM", "title": "Everything you need to know about CSS shape-outside ✨" },
+    { "id": "fIR3isyFV8s", "title": "How To Create An Expandable Sidebar | Step-By-Step Tutorial" },
+    { "id": "Bm0vjEsaPw0", "title": "Full-Width Section Inside a Fixed-Width Container | CSS Tips" },
+    { "id": "N_IrzRpJ0s4", "title": "Creating unique shapes & animations using CSS clip-path" },
+    { "id": "pCyW8M8mWek", "title": "CSS Pie Charts Made Simple - Step-by-Step Guide" },
+    { "id": "3r2dDBW2Nn0", "title": "Smooth scrolling with one line of CSS | CSS Tips" },
+    { "id": "znmdx4UZTAg", "title": "Creating Sticky Sidebars in CSS | Tips and Troubleshooting" },
+    { "id": "DYI_VE_ToaA", "title": "Everything you need to know about the currentColor keyword in CSS" },
+    { "id": "Pb2rVacnN4U", "title": "Perfecting Nested Rounded Corners in CSS | Tips and Tricks" },
+    { "id": "RsLdh9M-l08", "title": "CSS Scroll-Padding | An Easy Fix for Fixed Header Overlap" },
+    { "id": "XGKj4HtIcGo", "title": "Supercharge Your Styling with CSS Custom Properties" },
+    { "id": "6T4WS395Nyg", "title": "Creative Content Box Layout with CSS Hover Effect" },
+    { "id": "87C9RnH-mY0", "title": "Take Your CSS to the Next Level with :has() Pseudo-Class Selector" },
+    { "id": "iFkWL0PUZCM", "title": "Create an Audio Wave CSS Loader with Keyframe Animations" },
+    { "id": "YiomHXoBjuo", "title": "CSS Animations for Profile Cards - Social Links Reveal Effect" },
+    { "id": "ub7ciOOcqC0", "title": "Mastering Knockout Text Effects in CSS | Step-by-Step Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

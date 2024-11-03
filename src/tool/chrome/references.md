@@ -122,6 +122,9 @@ tag:
 - [`coding-factory` / 코딩팩토리](https://coding-factory.tistory.com/m/)
   - [[Web] 크롬 베타, 개발자 버전(Chrome Beta, Chrome Dev) 설치 & 다운로드 방법](https://coding-factory.tistory.com/m/1053)
   <!-- END: coding-factory -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [imageye 크롬 확장 프로그램을 사용하여 이미지 수집(다운로드)하는 방법](https://webnautes.tistory.com/m/2404)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---

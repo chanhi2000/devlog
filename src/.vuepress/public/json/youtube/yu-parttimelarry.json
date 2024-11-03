@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/r9SFpQyGhZ8VerA8lg84SmDy-ZJ6lqEIa332KStqftSCGknqOCqI17MAK0tQeoC1Sg3R6jMpuJc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NbfrAnn_7BQ", "title": "Interactive Brokers Web API [Part 3] - Web App Tutorial" },
+    { "id": "CRsH9TKveLo", "title": "Interactive Brokers Web API [Part 1] - Docker Tutorial" },
+    { "id": "r9w8lmhQuSk", "title": "Interactive Brokers Web API [Part 2] - Python Tutorial" },
+    { "id": "jqp7WO3pCFA", "title": "OpenAI API Structured Outputs For Finance" },
+    { "id": "6ny-ZEdQMCc", "title": "Analyze Prediction Market Data with Polymarket API (Python Tutorial)" },
+    { "id": "E2mgWN4ReqQ", "title": "Prediction Markets with the Kalshi API (Python Tutorial)" },
+    { "id": "ZEtsLuXdC-g", "title": "Interactive Brokers TWS API + TradingView Charts Python Tutorial (Updated)" },
+    { "id": "H7E3RYQvRsM", "title": "Stock Chart Analysis with GPT4o Omni (Python Tutorial)" },
     { "id": "AKQWiqMM4Nk", "title": "6. OpenAI ChatGPT and DALL-E2 - Python Frontend App Development" }
   ]
 }

@@ -151,6 +151,9 @@ head:
 - [STM32G4-LC 판매 시작 - STM32G4 네오픽셀, 서보 모터 제어 보드](https://m.blog.naver.com/chandong83/223618454066)
 - [STM32G4-LC CAN 통신 데모 영상](https://m.blog.naver.com/chandong83/223619633689)
 - [STM32G4-IMU-CAN 보드 CAN 통신 데모 영상](https://m.blog.naver.com/chandong83/223620064233)
+- [\[월간 HG Labs\] 10월 세미나용 보드 STM32F4-Seminar 보드 도착](https://m.blog.naver.com/chandong83/223630135628)
+- [HG_H7S_SOM V1 도착](https://m.blog.naver.com/chandong83/223638120480)
+- [ESP32-C3-CAN 웹서버와 CAN통신으로 LED 제어 데모 영상](https://m.blog.naver.com/chandong83/223641393000)
 
 <!-- END: chandong83 (blog.naver.com) -->
 

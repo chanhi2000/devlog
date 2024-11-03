@@ -37,6 +37,9 @@ head:
   - [RabbitMQ 메시지 패턴방식](https://jeongchul.tistory.com/m/814)
   - [RabbitMQ 클러스터와 Mirrored Queue](https://jeongchul.tistory.com/m/815)
   <!-- END: jeongchul -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [Redis&RabbitMQ를 활용한 선착순 이벤트 개발 도전기](https://coor.tistory.com/m/67)
+  <!-- END: coor -->
 <!-- END: tistory.com -->
 
 <TagLinks />

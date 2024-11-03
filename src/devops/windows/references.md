@@ -90,6 +90,9 @@ tag:
 - [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
   - [starting docker engine error](https://cori.tistory.com/m/362)
   <!-- END: cori -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [wsl 리눅스 용량 줄이기](https://ravenkim97.tistory.com/m/506)
+  <!-- END: ravenkim97 -->
 <!-- END: tistory.com -->
 
 ---

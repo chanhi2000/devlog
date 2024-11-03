@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/TK6ZFEzhZ9soL-QiEgHMJzwbBkZrHotXcm-w9-_hD0YIMqVKnOQRoeaiSPuD98lzQBLWYi8Law=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ALbAYpNC6s8", "title": "How Golang Middleware Works + Some Middleware You're Gonna Want in Your API" },
+    { "id": "a2T-a0JwNwA", "title": "Python Dataclasses: From Basic to Advanced Features" },
+    { "id": "BkzgYfygDy8", "title": "Golang Context Package: It's More Than You Think!" },
+    { "id": "9bRMLKBbFMQ", "title": "Building a GO API - No External Packages!" },
+    { "id": "IqY15Py2N9g", "title": "Test Like a Pro in Go!" },
+    { "id": "OmLdoEMcr_Y", "title": "Golang Project: Building a Secure Login Portal" },
+    { "id": "OeCgAj35n7o", "title": "Building A Physics Simulation: Particle Collision" },
+    { "id": "3gjSkgVOQFA", "title": "Write Better GO Code: Composition" },
+    { "id": "V_OGeYj6p00", "title": "Go Project: Let's Make a PONG Game in Golang!" },
+    { "id": "5xr8E6NQSxg", "title": "Learn Python Fast: Full Tutorial" },
     { "id": "9cC9x-ntNQY", "title": "Learn VIM Fast: Full Tutorial" },
     { "id": "rQPnlvytMYU", "title": "Setup Neovim Fast with Awesome Results" },
     { "id": "8uiZC0l4Ajw", "title": "Learn GO Fast: Full Tutorial" }

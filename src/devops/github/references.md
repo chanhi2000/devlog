@@ -45,6 +45,7 @@ tag:
 - [`lemonbase` / Github Actions 배포 시간 줄여볼까?](https://blog.lemonbase.team/github-actions-배포-시간-줄여볼까-5725b92e36d9)
 - [`jhk0530` / 깃허브 자격증 합격 후기](https://jhk0530.medium.com/github-copilot-certificate-15374e369724?source=rss-cb820693bed5------2)
 - [`jhk0530` / 2번째 깃허브 자격증 합격 후기](https://jhk0530.medium.com/github-foundations-certificate-76ab7becab19?source=rss-cb820693bed5------2)
+- [`snapp-mobile` / Uploading SARIF Reports to GitHub](https://medium.com/snapp-mobile/uploading-sarif-reports-to-github-91a8001e6794)
 
 <!-- END: medium.com -->
 

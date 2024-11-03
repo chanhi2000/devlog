@@ -6,6 +6,22 @@
     "banner": ""
   },
   "videos": [
+    { "id": "cg28Ztt4-os", "title": "Coolify - deploy services locally, or on remote servers!" },
+    { "id": "KCYc7P78l2g", "title": "OpenRPort - Remote Management Tool with Secure Tunneling!" },
+    { "id": "QWvVVheYCes", "title": "Technitium Install: Fast, Secure, Authoritative DNS Server for You and Your Clients' Networks" },
+    { "id": "ro7hbqLyv9M", "title": "Netbird Update - How to add the new \"Relays\" feature to your netbird install." },
+    { "id": "iUTr-SbkBtU", "title": "Affine Setup & Config: Streamline Your Workflow" },
+    { "id": "hbGNTzU24hI", "title": "Get my - Open  Source, Self Hosted list application to help you get your stuff done." },
+    { "id": "WVMwChhNvtA", "title": "RocketChat - Powerful, Chat and Communications platform. Rivals Slack, Teams, and more!" },
+    { "id": "q-PoKzTlJY8", "title": "LibreOffice - Like Microsoft Office but truly so much better!" },
+    { "id": "AFSxjJ4nyDI", "title": "Docuseal - An Open Source, Self Hosted docusign alternative with incredible power!" },
+    { "id": "PAMuJFTcgqE", "title": "Unstoppable Power in Tiny Packaging - The Geekom AE7" },
+    { "id": "mi9HPGap0R0", "title": "Ansible - Powerful Open Source system management and task automation tooling!" },
+    { "id": "piVIj8UPLFI", "title": "Unleash Zabbix Power: Server and mass agent install! Part 6" },
+    { "id": "MLoZpVvSht8", "title": "Aiffro K100 All SSD NAS. Low Power, High Performance!" },
+    { "id": "SYqYaYhExNE", "title": "Neofetch Alternatives: Discover Your New Favorite Tool!" },
+    { "id": "o8N-njA57iQ", "title": "Why pay for Adobe? You don't need it!" },
+    { "id": "AjIoNgyOCe0", "title": "Zammad - Open Source Helpdesk and Ticketing software for your MSP, IT or other business needs!" },
     { "id": "RBVcnxTiIL0", "title": "NginX Proxy Manager is a free, open source, GUI for the NginX Reverse Proxy making it easy to use." }
   ]
 }

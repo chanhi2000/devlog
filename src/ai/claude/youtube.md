@@ -34,5 +34,6 @@ head:
 <MyYouTubeItems jsonName="yu-potato_ai" /><!-- 감자나라ai -->
 <MyYouTubeItems jsonName="yu-AIJasonZ" /><!-- AI Jason -->
 <MyYouTubeItems jsonName="yu-TheMorpheusTutorials" /><!-- The Morpheus Tutorials -->
+<MyYouTubeItems jsonName="yu-elder_plinius" /><!-- Pliny the Prompter -->
 
 <TagLinks />

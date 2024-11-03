@@ -723,6 +723,7 @@ head:
   - [\[FastAPI\] FastAPI에서 MVC Pattern !](https://jakpentest.tistory.com/m/entry/FastAPI-FastAPI%EC%97%90%EC%84%9C-MVC-Pattern)
   - [마비노기 패킷 송수신 데이터 관찰기](https://jakpentest.tistory.com/m/entry/%EB%A7%88%EB%B9%84%EB%85%B8%EA%B8%B0-%ED%8C%A8%ED%82%B7-%EC%86%A1%EC%88%98%EC%8B%A0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B4%80%EC%B0%B0%EA%B8%B0)
   - [\[Experience\] wkhtmltopdf 사용으로 인해 발생한 SSTI 해결하기](https://jakpentest.tistory.com/m/entry/Experience-wkhtmltopdf-%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%B4-%EB%B0%9C%EC%83%9D%ED%95%9C-SSTI-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+  - [`makefile` 사용 시 환경변수 로딩 주의하기](https://jakpentest.tistory.com/m/entry/makefile-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EB%A1%9C%EB%94%A9-%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0)
   <!-- END: jakpentest -->
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [모델 평가하는 방법(혼동행렬, confusion matrix, 특이도, 민감도, 재현율, 정확도, 정밀도)](https://webnautes.tistory.com/m/2157)
@@ -820,6 +821,7 @@ head:
 - [`sjquant` / solaqualog](https://sjquant.tistory.com/m/)
   - [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/m/97)
   - [Polars 시작하기 (소개 및 설치) - 자주쓰는 명령어로 배우는 Polars #1](https://sjquant.tistory.com/m/104)
+  - [Polars로 데이터 불러오기 및 조작하기 - 자주 쓰는 명령어로 배우는 Polars #2](https://sjquant.tistory.com/m/105)
   <!-- END: sjquant -->
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [DOM](https://bbogle2.tistory.com/m/entry/DOM)
@@ -864,6 +866,12 @@ head:
 - [`pearlluck` / 데엔잘하고싶은데엔🔥💎검색하기](https://pearlluck.tistory.com/m/)
   - [pgVector 기반 VectorDB 구축 및 효율적인 리소스(메모리,스토리지) 사용](https://pearlluck.tistory.com/m/830)
   <!-- END: pearlluck -->
+- [`spookyjelly` / 유령이 나오는 젤리하우스](https://spookyjelly.tistory.com/m/)
+  - [\[99클럽 코테 스터디 1일차\]\[백준 11561\]징검다리 (파이썬 풀이)](https://spookyjelly.tistory.com/m/94)
+  <!-- END: spookyjelly -->
+- [`newstars` / newstars.cloud](https://newstars.tistory.com/m/)
+  - [\[Python\] Secrets 을 별도 관리하기](https://newstars.tistory.com/m/594)
+  <!-- END: newstars -->
 <!-- END: tistory.com -->
 
 ---
@@ -1734,6 +1742,9 @@ head:
 ## 어쩐지 오늘은
 
 - [Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
+- [DuckDB 사용법(DuckDB Python + Jupyter Lab)](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
+
+<!-- END: zzsza.github.io -->
 
 ---
 
@@ -2118,6 +2129,7 @@ head:
 
 - [Failed building wheel for llama-cpp-python](https://cori.tistory.com/m/335)
 - [API Key 유출 방지를 위한 2가지 방법](http://cori.tistory.com/m/341)
+- [다른 경로의 파일 `from` .. `import` 에서 잡아주기](http://cori.tistory.com/m/363)
 
 ---
 

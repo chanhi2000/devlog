@@ -68,7 +68,6 @@ tags:
 <MyYouTubeItems jsonName="yu-TechTalkAmerica" /><!-- Tech Talk America -->
 <MyYouTubeItems jsonName="yu-techwiser" /><!-- TechWiser -->
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
-<MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-thefrankring" /><!-- Frank Ring -->
 

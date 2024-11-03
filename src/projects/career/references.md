@@ -362,6 +362,16 @@ tag:
 - [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
 - [`@2weV` / 도전하는 인생을 사는 분들의 특징](https://brunch.co.kr/@@2weV/571)
 - [`@8w7` / 필드플레이어로 돌아간, 10년+ 부트캠프 설계자의 회고 - '수료' 가 아닌 '의미있는 성장' 을 이어내는 부스터의 여정](https://brunch.co.kr/@@8w7/243)
+- [`@2weV` / 신뢰받는 사람으로 성장하기 위해서는.](https://brunch.co.kr/@@2weV/572)
+- [`@2weV` / 기본을 놓치고 있었다](https://brunch.co.kr/@@2weV/573)
+- [`@lIP` / 흑백요리사에서 배우는  스타트업 리더십](https://brunch.co.kr/@@lIP/216)
+- [`@3L0s` / 10. 플랫폼 생태계 촉진/규제 정책](https://brunch.co.kr/@@3L0s/143)
+- [`@3L0s` / 11. 에필로그: 플랫폼 사고와 시스템 사고](https://brunch.co.kr/@@3L0s/144)
+- [`@3L0s` / 9. 국가혁신시스템과 플랫폼 생태계](https://brunch.co.kr/@@3L0s/142)
+- [`@2weV` / 멘탈이 강한 사람들의 특징](https://brunch.co.kr/@@2weV/574)
+- [`@2weV` / 2025년 커리어 선택법](https://brunch.co.kr/@@2weV/575)
+- [`@2weV` / 보고서 잘 쓰는 법.](https://brunch.co.kr/@@2weV/576)
+- [`@2weV` / 최강야구를 보며 느낀 커리어에서의 '멈춤'의 중요함](https://brunch.co.kr/@@2weV/577)
 
 <!-- END: brunch.co.kr -->
 
@@ -370,6 +380,7 @@ tag:
 ## 메일리
 
 - [`life.interest` / 실패하지 말지어다](https://maily.so/life.interest/posts/f27fbe97)
+- [`life.interest` / 실패하지 말지어다: 실패를 피하라고 말하는 몇 안되는 글](https://maily.so/life.interest/posts/f27fbe97)
 
 <!-- END: maily.so -->
 
@@ -725,6 +736,9 @@ tag:
 - [`iostream` / Make headway towards solving the problem](https://iostream.tistory.com/m/)
   - [글또 10기 시작과 다짐](https://iostream.tistory.com/m/182)
   <!-- END: iostream -->
+- [`kminito` / 코딩으로 자아실현](https://kminito.tistory.com/m/)
+  - [노트필기) FastAPI로 배우는 백엔드 프로그래밍 with 클린 아키텍처 (챕터 2)](https://kminito.tistory.com/m/116)
+  <!-- END: kminito -->
 <!-- END: tistory.com -->
 
 ---
@@ -819,6 +833,8 @@ tag:
 - [링에 오르기. 그리고 버티기.](https://thestartupbible.com/2024/10/haruki-murakami-on-entering-the-wrestling-ring-and-staying-there.html)
 - [브랜드가 되기까지](https://thestartupbible.com/2024/10/on-becoming-a-brand.html)
 - [바퀴벌레의 길](https://thestartupbible.com/2024/10/the-cockroach-way.html)
+- [개 같이 일하기](https://thestartupbible.com/2024/10/work-like-a-dog-if-you-want-to-make-it.html)
+- [이야기꾼 되기](https://thestartupbible.com/2024/10/be-a-good-storyteller.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -872,6 +888,7 @@ tag:
 - [아니, 난 그냥 내가 만들고 싶은 걸 만들래](https://jeho.page/essay/2024/10/14/build-what-i-want-to-build/html)
 - [개인 사업자와 법인 사업자](https://jeho.page/essay/2024/10/18/business-registration.html)
 - [정부의 창업 지원 (비대면 바우처)](https://jeho.page/essay/2024/10/21/government-sponsored.html)
+- [나는 대체 불가능한 직원일까?](https://jeho.page/essay/2024/10/29/irreplaceable.html)
 
 <!-- END: jeho.page -->
 
@@ -967,6 +984,7 @@ tag:
 ## Ykss
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/)
+- [두 번째 이직 회고](https://ykss.netlify.app/essay/review_kurly/)
 
 <!-- END: ykss.netlify.app -->
 
@@ -1631,6 +1649,46 @@ https://m.blog.naver.com/&logId=
 - [적극적이기만 한 사람](https://minieetea.com/20241021-initiative-activeness/)
 
 <!-- END: minieetea.com -->
+
+---
+
+## 재그지그의 개발 블로그
+
+- [개발자 면접 1분 자기소개, 이렇게 준비하자](https://wormwlrm.github.io/2024/10/25/Self-Introduction-for-Developer.html)
+
+<!-- END: wormwlrm.github.io -->
+
+---
+
+## 엘키의 주절 주절
+
+- [때로는 머리보다 손이 먼저](https://elky84.github.io/2024/10/29/type-first/)
+
+<!-- END: elky84.github.io -->
+
+---
+
+## 조성문의 블로그 - 실리콘밸리, 창업, 캘리포니아 생활
+
+- [창업자만이 할 수 있는 것](https://sungmooncho.com/2024/10/28/what-founders-can-do/)
+
+<!-- END: sungmooncho.com -->
+
+---
+
+## jacking75
+
+- [내가 신입사원 때 저지른 실수 10가지와 그 해결 방안](https://jacking75.github.io/tech_20241030/)
+
+<!-- END: jacking75.github.io -->
+
+---
+
+## software engineering, open source projects, startups, product design, strategy, web performance, security, and more
+
+- [Software Engineer Titles Have (Almost) Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
+
+<!-- END:  -->
 
 ---
 

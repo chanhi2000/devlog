@@ -148,7 +148,6 @@ head:
 <MyYouTubeItems jsonName="yu-dannytwlc3666" /><!-- Danny TWLC -->
 <MyYouTubeItems jsonName="yu-bostonreact9402" /><!-- Boston React -->
 <MyYouTubeItems jsonName="yu-mraible" /><!-- Matt Raible -->
-<MyYouTubeItems jsonName="yu-WebDevMatics" /><!-- WebDevMatics -->
 <MyYouTubeItems jsonName="yu-Letsboot" /><!-- letsboot.com -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
 <MyYouTubeItems jsonName="yu-javascriptisrael" /><!-- JavaScript Israel -->

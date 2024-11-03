@@ -120,6 +120,9 @@ tag:
   - [Command Your User Inputs with Jetpack Compose— Text Field Features Hidden in Plain Sight](https://proandroiddev.com/command-your-user-inputs-with-jetpack-compose-text-field-features-hidden-in-plain-sight-47aaacc56aaf)
   - [The best way to load data in ViewModels](https://proandroiddev.com/the-best-way-to-load-data-in-viewmodels-a112ced54e07)
   - [Exploring Lifecycle-Aware Service and `FirebaseMessagingService` on Android](https://proandroiddev.com/exploring-lifecycle-aware-service-and-firebasemessagingservice-on-android-fcc89a2e9528)
+  - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
+  - [Kotlin Tips and Tricks You May Not Know: #1 — Kotlin Logging](https://proandroiddev.com/kotlin-tips-and-tricks-you-may-not-know-1-kotlin-logging-91b7675b6276)
+  - [Using Kotlin Reflection to Automate Compose Navigation](https://proandroiddev.com/4c5b565f660f)
 - [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
   - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82d)
   - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
@@ -191,6 +194,7 @@ tag:
 - [`mikhailovskii.sergei` / Viewing the logs inside the application with LogKMPanion](https://medium.com/@mikhailovskii.sergei/viewing-the-logs-inside-the-application-with-logkmpanion-90ed41f4a8e6)
 - [`androiddevelopers` / Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 - [`androiddevelopers` / Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
+- [`andresand` / How to create Toast message in CMP Compose MultiPlatform | Android and iOS](https://andresand.medium.com/how-to-create-toast-message-in-kmp-compose-multiplatform-android-and-ios-00397d8147bc)
 
 <!-- END: medium.com -->
 
@@ -206,6 +210,7 @@ tag:
 - [`cdsap` / Resource observability case study: jemalloc in Android builds](https://dev.to/cdsap/resource-observability-case-study-jemalloc-in-android-builds-22og)
 - [`bubenheimer` / Effective Map Composables: Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-draggable-markers-3bea)
 - [`bubenheimer` / Effective Map Composables: Collections of Non-Draggable Markers](https://dev.to/bubenheimer/effective-map-composables-collections-of-non-draggable-markers-261i)
+- [`charlietap` / Making my concurrent algorithm 6000% better 🚀](https://dev.to/charlietap/making-my-concurrent-algorithm-6000-better-24oo)
 
 <!-- END: dev.to -->
 
@@ -252,6 +257,7 @@ tag:
   <!-- END: singo112ok -->
 - [`namget` / 남갯의 개발,일상블로그](http://namget.tistory.com/m/)
   - [Compose 동작원리](http://namget.tistory.com/m/entry/Compose-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
+  - [Jetpack Compose Internals - 1장 함수들](https://namget.tistory.com/m/entry/Jetpack-Compose-Internals-1%EC%9E%A5)
   <!-- END: namget -->
 <!-- END: tistory.com -->
 

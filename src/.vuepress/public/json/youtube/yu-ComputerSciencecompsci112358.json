@@ -1,13 +1,28 @@
 {
   "channel": {
     "id": "ComputerSciencecompsci112358",
-    "name": "Computer Science",
-    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKbNj9dIc8-YtDVhXUbGn4RNskGkQ7zLHCsMlBxk=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/oGVptrgr5-ZgQVoD4Na4QmJTWee2lWjSSF_gt6ncarsLGguJoY2305Za5PDEqFyVRmI5za93=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "name": "Computer Science (compsci112358)",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_moKOKTPC1LL7ef-9zNp29xN__5hsJKDgAO0EJWjlET0Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oGVptrgr5-ZgQVoD4Na4QmJTWee2lWjSSF_gt6ncarsLGguJoY2305Za5PDEqFyVRmI5za93=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7AcVb5bdShQ", "title": "Find Undervalued Stocks Using STD Dev and Python" },
+    { "id": "1PTrQfxzaaU", "title": "Forecast Stock Future Price Using AI, Machine Learning, and PyCaret" },            
+    { "id": "lJLiQGOopVE", "title": "Monte-Carlo Simulation for Forecasting Stock Returns with Python" },
+    { "id": "DEok-uVND2w", "title": "Summarize Any Text in Minutes with Python NLP!" },
+    { "id": "jWT3v-xWZKU", "title": "Real Estate vs. Stock Market: Python Reveals the Best Investment!" },
+    { "id": "PxC7nWwGKNQ", "title": "Build a Basic Language Model to Predict the Next Word" },
+    { "id": "PujYNY6y8hY", "title": "Machine Learning (AI) for Trading Stocks" },
+    { "id": "Tl7AMb-8fDw", "title": "Random Trading Strategy vs Buy & Hold Strategy" },
+    { "id": "yO1VWLuWkBc", "title": "Build A Killer Stock Portfolio Results" },
+    { "id": "5de4N7FsiMk", "title": "Stock Market Performance in Presidential Elections" },
+    { "id": "_pC45y1T13w", "title": "Build a Killer Stock Portfolio RESULTS" },
+    { "id": "bqmTiwav5Kw", "title": "Watch Your Money Grow: How $100K Turns Into $1Million with Compounding Magic!" },
     { "id": "QIUxPv5PJOY", "title": "Stock Price Prediction Using Python & Machine Learning" },
     { "id": "eNDADqa9858", "title": "Build A Stock Market Web Application  Using Python" },
     { "id": "O-O1WclwXck", "title": "Python For Finance" }
+  ],
+  "playlists": [
+
   ]
 }

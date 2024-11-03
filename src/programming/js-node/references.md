@@ -558,10 +558,19 @@ tag:
 - [`mugglim` / mugglim](https://mugglim.tistory.com/m/)
   - [TanStack Query의 FocusManager는 무엇일까? (feat.refetchOnWindowFocus)](https://mugglim.tistory.com/m/42)
   - [상태 관리와 zustand (zustand 동작 원리를 이해하기)](https://mugglim.tistory.com/m/43)
+  - [TanStack Query의 `FocusManager`는 무엇일까? (근데 이제 `refetchOnWindowFocus` 옵션을 곁들인)](https://mugglim.tistory.com/m/42)
   <!-- END: mugglim -->
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [기타 > Node.js와 Kotlin 코루틴의 비동기 처리 방식과 차이점](https://jinn-blog.tistory.com/m/210)
   <!-- END: jinn-blog -->
+  - [\[MAC\] Claude APP 만들어서 사용하는 방법](https://newstars.tistory.com/m/593)
+  <!-- END: newstars -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [Node.js 프로젝트의 폴더 구조 가이드: 단수와 복수 네이밍 컨벤션](http://syaku.tistory.com/m/408)
+  - [How to Resolve Vite CJS Build Warning: Uanderstanding Module Systems](http://syaku.tistory.com/m/409)
+  - [Vite CJS 빌드 경고 해결 방법: 모듈 시스템 이해하기](http://syaku.tistory.com/m/410)
+  - [Setting Up Jest for Testing in Node.js](http://syaku.tistory.com/m/417)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---

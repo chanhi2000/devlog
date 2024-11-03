@@ -230,6 +230,7 @@ head:
 - [`@joshuara7235` / 2024년 인프콘 후기 - #5 객체지향은 여전히 유용한가](https://velog.io/@joshuara7235/2024%EB%85%84-%EC%9D%B8%ED%94%84%EC%BD%98-%ED%9B%84%EA%B8%B0-5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EC%9C%A0%EC%9A%A9%ED%95%9C%EA%B0%80)
 - [`@hyemin916` / 순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 - [`@superlipbalm` / (번역) 렌더링 지연을 개선해 LCP 점수 향상하기](https://velog.io/@superlipbalm/lcp-render-delay)
+- [`@9rganizedchaos` / 🏃🏻‍➡️ 프론트엔드 개발자 창업 도전기](https://velog.io/@9rganizedchaos/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0)
 
 <!-- END: velog.io -->
 

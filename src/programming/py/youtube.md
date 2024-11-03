@@ -141,5 +141,11 @@ head:
 <MyYouTubeItems jsonName="yu-yunjadong" /><!-- 윤자동 -->
 <MyYouTubeItems jsonName="yu-hnasr" /><!-- Hussein Nasser -->
 <MyYouTubeItems jsonName="yu-InfoWorld" /><!-- InfoWorld -->
+<MyYouTubeItems jsonName="yu-NeetCodeIO" /><!-- NeetCodeIO -->
+<MyYouTubeItems jsonName="yu-parttimelarry" /><!-- Part Time Larry -->
+<MyYouTubeItems jsonName="yu-davidbombal" /><!-- David Bombal -->
+<MyYouTubeItems jsonName="yu-SatyaAchmad" /><!-- Satya Achmad -->
+<MyYouTubeItems jsonName="yu-BryanLunduke" /><!-- Bryan Lunduke -->
+<MyYouTubeItems jsonName="yu-mr_mux408" /><!-- Alex Mux -->
 
 <TagLinks />

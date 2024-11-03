@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "birch_js",
+    "name": "Jamie Birch",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nN_QCoKXTtZTV6e92oPxl2AhbWzNAM-YGhRZdTf9QEzSg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8S66cl1Iios", "title": "Rewriting CocoaPods from Ruby to TypeScript (2024-06-12)" },
+    { "id": "d7uJinjkTS0", "title": "Rewriting CocoaPods from Ruby to TypeScript" },
+    { "id": "UoV0-ZU-v2U", "title": "Rewriting CocoaPods from Ruby to TypeScript" },
+    { "id": "YIZiu0nGM0g", "title": "Rewriting CocoaPods from Ruby to TypeScript" },
+    { "id": "E8Har8MKRcI", "title": "Rewriting CocoaPods from Ruby to TypeScript (2024-05-22) (silent stream)" },
+    { "id": "CRNkPKrl15o", "title": "Rewriting CocoaPods from Ruby to TypeScript (2024-05-22, part 2)" }
+  ],
+  "playlists": [
+
+  ]
+}

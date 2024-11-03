@@ -34,5 +34,7 @@ tag:
 <MyYouTubeItems jsonName="yu-teksyndicate" /><!-- Tek Syndicate -->
 <MyYouTubeItems jsonName="yu-SavvyNik" /><!-- SavvyNik -->
 <MyYouTubeItems jsonName="yu-user-so3uf3gz3p" /><!-- 리눅스 읽어주는 남자 -->
+<MyYouTubeItems jsonName="yu-MichaelNROH" /><!-- Michael Horn -->
+<MyYouTubeItems jsonName="yu-EverydayLinuxUser" /><!-- Gary Newell -->
 
 <TagLinks />

@@ -176,4 +176,12 @@ tag:
 
 ---
 
+## 윤경구의 Log on Java
+
+- [창의성은 특이성이 아니다](http://logonjava.blogspot.com/2024/10/blog-post.html)
+
+<!-- END: http://logonjava.blogspot.com -->
+
+---
+
 <TagLinks />

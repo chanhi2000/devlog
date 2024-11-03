@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "Amarindaz",
+    "name": "Amarindaz",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nyzoZqFhsiHSRDZEfEVJFhggsQ9Nr2thfA6z8geRtCyJs=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZIZDGgQViDn6fghRMqin2TCUkd44JT7eW52NaiPCeBnQGLajk3k9V0iY1y6XdSF6DaqZYQ4XGA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4Ct7XEJVWjQ", "title": "HTML Tutorial For Beginners | HTML Attributes | Part 5" },
+    { "id": "q3pN_nzliNc", "title": "HTML Paragraph , Line Break, Horizontal Rule | HTML Tutorial for Beginners | Part 6" },
+    { "id": "xvyatB9o-0Q", "title": "HTML Styles | HTML Tutorial For Beginners | Part 7" },
+    { "id": "2M8_vYCvcsk", "title": "HTML Text Formatting | HTML Tutorial For Beginners | Part 8" },
+    { "id": "KHBc8TKUZxo", "title": "Scrape Google Shopping Search Results on Google Sheets" },
+    { "id": "mOSAryRXZ5A", "title": "Free Google Shopping Search Results Scraper On Google Sheets" },
+    { "id": "foktG1LEI60", "title": "Google Search Results Scraper Tool | Get Free Download" },
+    { "id": "Yf1kniiSFkQ", "title": "Scrape Google Search Results Like A Pro on Google Sheets Using Apps Script" },
+    { "id": "eMRs6X-Fclc", "title": "Receive Instant Email Alerts When A Google Form Is Submitted!" },
+    { "id": "qf7EinJ8TRY", "title": "HTML Tutorial For Beginners | Introduction | Part 1" },
+    { "id": "_lLrVBHnON4", "title": "HTML Tutorial For Beginners | Hello World | Part 2" },
+    { "id": "zXOkjaeFUEc", "title": "HTML Tutorial For Beginners| HTML Basic | Part 3" },
+    { "id": "ZcU6SjZ31V0", "title": "HTML Tutorial For Beginners | HTML Elements | Part 4" },
+    { "id": "SKliWYKrB_M", "title": "Gmail Mail Merge App- Gmail and Google Sheets mail merge (Easiest way 2024)" }
+  ],
+  "playlists": [
+
+  ]
+}

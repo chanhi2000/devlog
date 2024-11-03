@@ -445,6 +445,7 @@ tag:
 ## 신현석(Hyeonseok Shin)
 
 - [Puppeteer에서 SSH 터널링 프록시 사용하기](https://hyeonseok.com/blog/923)
+- [Ubuntu 24에 Puppeteer용 Chromium 설치하기](https://hyeonseok.com/blog/924)
 
 <!-- END: hyeonseok.com -->
 

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/VmUM-BEOMXvaZaQV2VvqjqaB2J_A0G5WYnvYjNGalTxiqac6DA5VSMlzB0mOVVpUWilBssFb1w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fsH7wdHA1e8", "title": "Building Realtime Data Warehouses from Scratch | End to End Data Engineering Project" },
+    { "id": "RUfVVOhihEA", "title": "Realtime Stock Market Anomaly Detection using ML Models | An End to End Data Engineering Project" },
+    { "id": "zfK3mJ_bkSc", "title": "Decodable vs AWS Managed Service for Apache Flink (MSF) - End to End Data Engineering Project" },
+    { "id": "Bq_BM_hOVsU", "title": "Query Optimisation for Data Engineers | End to End Walkthrough" },
+    { "id": "7r_oO_uLbSM", "title": "Realtime Algorithmic Trading with Apache Flink | End to End Data Engineering Project" },
+    { "id": "K84MEdiC1tM", "title": "Building Data Lakehouse with Minio and Kafka Kraft -  End to End Data Engineering Project" },
     { "id": "GqAcTrqKcrY", "title": "Realtime Data Streaming |  End To End Data Engineering Project" },
     { "id": "Vv_fvwF41_0", "title": "Smart City End to End Realtime Data Engineering Project | Get Hired as an AWS Data Engineer" },
     { "id": "M6BWTnMH77M", "title": "End to End Realtime Streaming with Unstructured Data | Get Hired as an Experienced Data Engineer" },

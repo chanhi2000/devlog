@@ -131,6 +131,12 @@ head:
   - [Kubernetes Session Affinity](https://jeongchul.tistory.com/m/780)
   - [Kubernetes Dashboard 배포 Istio domain 설정](https://jeongchul.tistory.com/m/782)
   - [Rabbit MQ Kubernetes Helm 배포](https://jeongchul.tistory.com/m/787)
+  - [NVIDIA Triton Inference Server with KubeFlow](https://jeongchul.tistory.com/m/823)
+  - [NVIDIA Triton Inference Server with KNative Serving](https://jeongchul.tistory.com/m/825)
+  - [Kubernetes Calico node 시작 시 `kube-apiserver`의 `svc`로 통신 실패](https://jeongchul.tistory.com/m/827)
+  - [Kubernetes Calico Bird is not ready](https://jeongchul.tistory.com/m/828)
+  - [`rook-ceph` `pvc`할당 이슈](https://jeongchul.tistory.com/m/829)
+  - [Rook Ceph](https://jeongchul.tistory.com/m/830)
   <!-- END: jeongchul -->
 - [`jybaek` / 컴맹 : 진화의 시작](https://jybaek.tistory.com/m/)
   - [`PodDisruptionBudget`로 애플리케이션 보호](https://jybaek.tistory.com/m/504720)
@@ -310,6 +316,7 @@ head:
 - [글또 10기 여는 글](https://logonme.net/activities/etc/geulddo9/)
 - [\[KANS\] 3기 5주 – LoadBalancer(MetalLB), IPVS](https://logonme.net/activities/study/kans_3_5/)
 - [\[KANS\] 3기 6주 – Ingress & Gateway API](https://logonme.net/activities/study/kans_3_6/)
+- [\[KANS\] 3기 8주 – Cilium CNI](https://logonme.net/activities/study/kans_3_8/)
 
 <!-- END: logonme.net -->
 
@@ -437,6 +444,7 @@ head:
 - [ExternalDNS](https://ddii.dev/kubernetes/externaldns/)
 - [Kubernetes Headless Service](https://ddii.dev/kubernetes/headless-service/)
 - [Istio Ambient Mode on K3d](https://ddii.dev/kubernetes/istio-ambient)
+- [Tetragon](https://ddii.dev/kubernetes/tetragon)
 
 <!-- END: ddii.dev -->
 

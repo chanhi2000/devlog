@@ -169,6 +169,8 @@ tag:
 - [`@qkrtkdwns3410` / \[모던 자바 chap 2\] 동작 파라미터화 코드 전달](https://velog.io/@qkrtkdwns3410/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-chap-2-%EB%8F%99%EC%9E%91-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94-%EC%BD%94%EB%93%9C-%EC%A0%84%EB%8B%AC)
 - [`@jwlee010523` / JAVA - 배열](https://velog.io/@jwlee010523/java-array)
 - [`@jwlee010523` / JAVA - 패키지(Package)](https://velog.io/@jwlee010523/java-package)
+- [`@jwlee010523` / JAVA - Wrapper 클래스](https://velog.io/@jwlee010523/java-wrapper)
+- [`@qkrtkdwns3410` / 모던 자바 인 액션 5.1 필터링](https://velog.io/@qkrtkdwns3410/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94-%EC%9D%B8-%EC%95%A1%EC%85%98-5.1-%ED%95%84%ED%84%B0%EB%A7%81)
 
 <!-- END: velog.io java -->
 
@@ -239,6 +241,8 @@ tag:
   - [스프링 삼각형 : IoC(제어의 역전) / DI(의존성 주입)](https://shout-to-my-mae.tistory.com/425)
   - [\[4주차\] 프로세스 동기화, 교착 상태](https://shout-to-my-mae.tistory.com/m/441)
   - [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
+  - [값 객체(VO) : 일반 클래스 vs record](https://shout-to-my-mae.tistory.com/m/447)
+  - [\[우아한테크코스\] 프리코스 2주차 - 자동차 경주 미션 회고](https://shout-to-my-mae.tistory.com/m/448)
   <!-- END: shout-to-my-mae -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
@@ -272,6 +276,7 @@ tag:
 - [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [\[Java\] Generic Type erasure / 제네릭 타입 소거](https://splendidlolli.tistory.com/m/758)
   - [\[Java\] `ObjectMapper`에 `TypeReference`를 사용할 때](https://splendidlolli.tistory.com/m/759)
+  - [\[Redis\] cannot deserialize from Object value (`SerializationException`)](https://splendidlolli.tistory.com/m/782)
   <!-- END: splendidlolli -->
 - [`zzang9ha` / 🐔](https://zzang9ha.tistory.com/m/)
   - [Modern Java: An In-Depth Guide from Java 8 to Java 21](https://zzang9ha.tistory.com/m/462)
@@ -294,6 +299,8 @@ tag:
   <!-- END: jeongchul -->
 - [`hydev` / Note things to remember](https://hydev.tistory.com/m/)
   - [`ThreadPoolTaskExecutor`와 `CompletableFutre`를 사용하여 비동기처리하기](https://hydev.tistory.com/m/41)
+  - [Java8 Lambda tutorial(1)](https://hydev.tistory.com/m/42)
+  - [Java 8 Stream API 사용법](https://hydev.tistory.com/m/43)
   <!-- END: hydev -->
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [이펙티브자바 Item16. public클래스에는 public필드가 아닌 접근자 메서드를 사용하라](https://dreamcoding.tistory.com/m/109)
@@ -309,6 +316,7 @@ tag:
   - [Java Enum 사용법과 활용 예시](https://dreamcoding.tistory.com/m/129)
   - [Java Stream API 사용법](https://dreamcoding.tistory.com/m/131)
   - [Java 접근 제어자 이해하기](https://dreamcoding.tistory.com/m/132)
+  - [Java record: 불변 객체의 간결한 정의와 활용](https://dreamcoding.tistory.com/m/133)
   <!-- END: dreamcoding -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
@@ -872,6 +880,7 @@ tag:
 - [`@dnr6054` / Kotlin Grammar](https://velog.io/@dnr6054/Kotlin-Grammar)
 - [`@sweet_sumin` / Kotiln Collection](https://velog.io/@sweet_sumin/Kotiln-Collection)
 - [`@sweet_sumin` / `public static void main(String\[\] args)`은 왜 `static` 인가?](https://velog.io/@sweet_sumin/public-static-void-mainString-args)
+- [`@thd0427` / suspend 함수는 왜 오버로딩이 안 될까?](https://velog.io/@thd0427/suspend-%ED%95%A8%EC%88%98%EB%8A%94-%EC%99%9C-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C)
 
 <!-- END: velog.io kotlin -->
 
@@ -911,7 +920,19 @@ tag:
   <!-- END: jinseong-dev -->
 - [`namget` / 남갯의 개발,일상블로그](http://namget.tistory.com/m/)
   - [\[Flow\] Flow combine 에러시 미동작 관련 내부 동작](https://namget.tistory.com/m/entry/Flow-combine-%EC%97%90%EB%9F%AC%EC%8B%9C-%EB%AF%B8%EB%8F%99%EC%9E%91-%EA%B4%80%EB%A0%A8-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91)
+  - [\[백준\] 블랙잭 - 브루트포스](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EB%B8%94%EB%9E%99%EC%9E%AD)
+  - [\[백준\] 덩치](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EB%8D%A9%EC%B9%98)
+  - [\[백준\] 좌표압축](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95)
+  - [\[백준\] 가장 긴 증가하는 부분 수열](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
+  - [\[백준\] 패턴](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%ED%8C%A8%ED%84%B4)
+  - [\[백준\] N과 M](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-N%EA%B3%BC-M)
   <!-- END: namget -->
+- [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
+  - [\[BOJ\] 1600 - 말이 되고픈 원숭이](https://dev-ws.tistory.com/m/129)
+  <!-- END: dev-ws -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [In Kotlin, using `@field:NotNull` instead of `@NotNull` is important.](http://syaku.tistory.com/m/419)
+  <!-- END: syaku -->
 <!-- END: tistory.com kotiln -->
 
 ### Leo3418
@@ -1188,6 +1209,7 @@ tag:
 
 - [Delegated Properties in Kotlin](https://poisonedyouth.github.io/Kotlin-Delegated-Properties)
 - [Interface Delegation in Kotlin](https://poisonedyouth.github.io/Kotlin-Interface-Delegation)
+- [How to start with DynamoDB in your Ktor application (Part 3)](https://poisonedyouth.github.io/DynamoDB_Advanced_2nd)
 
 <!-- END: poisonedyouth.github.io -->
 

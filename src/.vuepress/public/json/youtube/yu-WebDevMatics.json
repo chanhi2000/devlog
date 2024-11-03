@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/zh0pne-fXREZC_pEy4SX30Zu52NrBMK3kQkQeJfiQ8O7Mu87tX6PladauFzSHVWOAblid8i7Ddc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "rlfYfsv17q0", "title": "OAuth2 Authentication in Laravel" },
+    { "id": "VeQauzzQ-po", "title": "Build a Dynamic Multi-Step Form with Alpine.js & Laravel Blade" },
+    { "id": "p1QAJFXsz8E", "title": "Laravel API Docs Showdown: Scribe vs. Scramble vs. Swagger" },
+    { "id": "3VcxgCaDjQ8", "title": "Mastering Modern Laravel: Doctor Appointment System Series | API, Vue/Nuxt, FilamentPHP" },
+    { "id": "Zvz0JXY_4uU", "title": "Designing the Database Schema: Doctor Appointment System in Laravel" },
+    { "id": "zfARvHhCdlk", "title": "Complete API Authentication in Laravel with Email Verification, Password Reset" },
+    { "id": "8zwngaqrJVU", "title": "Doctor Appointment System: Finalizing MVP with Profiles, Schedules & Appointment APIs" },
+    { "id": "9cmy3k6oaLc", "title": "Quick Guide: Laravel Event-Driven Notifications (Email & SMS)" },
+    { "id": "ZDW8NBzVdpo", "title": "Filament PHP performance Issue" },
+    { "id": "SAM9IQwWh8Q", "title": "Livewire Long Filename Upload Issue" },
+    { "id": "NzPsKfqeLLM", "title": "Solution to Filament PHP Performance issue" },
+    { "id": "zaV9q0IVqoY", "title": "Add vue single page application in filament" },
     { "id": "i90Ck6d_zc0", "title": "My Development Workflow" },
     { "id": "uO6IyV1UZw8", "title": "Filament Table : Actions, Custom Column, Modals and Tips" },
     { "id": "CAprtlJYFdQ", "title": "Everything you need to know about table filters: FilamentPHP" },

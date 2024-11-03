@@ -56,4 +56,12 @@ head:
 
 ---
 
+## 어쩐지 오늘은
+
+- [DuckDB 사용법(DuckDB Python + Jupyter Lab)](https://zzsza.github.io/data-engineering/2024/10/25/duckdb/)
+
+<!-- END: zzsza.github.io -->
+
+---
+
 <TagLinks />

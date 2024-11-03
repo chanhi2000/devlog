@@ -109,11 +109,15 @@ tag:
 - [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [Redis Stream의 구조적 특징(Message Queue)](https://splendidlolli.tistory.com/m/762)
   - [\[Redis\] StreamListener(onMessage)와 Consumer 객체간 관계](https://splendidlolli.tistory.com/m/775)
+  - [\[Redis\] cannot deserialize from Object value (`SerializationException`)](https://splendidlolli.tistory.com/m/782)
   <!-- END: splendidlolli -->
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
   - [Redis 도입하기 : CI/CD 파이프라인 수정기 (Blue/Green 무중단 배포)](https://shout-to-my-mae.tistory.com/m/445)
   <!-- END: shout-to-my-mae -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [Redis&RabbitMQ를 활용한 선착순 이벤트 개발 도전기](https://coor.tistory.com/m/67)
+  <!-- END: coor -->
 <!-- END: tistory.com -->
 
 ---

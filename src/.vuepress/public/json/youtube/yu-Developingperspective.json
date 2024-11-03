@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Developingperspective",
+    "name": "DevelopingPerspective",
+    "profile": "https://yt3.googleusercontent.com/SZCSJ6gGoKlQtHx2HDz5QAOjcZufmJVUi28P6wlZFttcgQDDTSiCO43S2GXZHZBuEq4QS2Ef=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2CbNe9xqUeudPKMu7cvz_ZQ_pfjKUxkpAARpB0QB6DDsAw-TvYEUKGas24B1hfKBRQEUvlfs=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "k7XntSWmVIA", "title": "Speedrun Design: Heart Rate Zone View in SwiftUI" },
+    { "id": "Jqb-lINegqc", "title": "Speedrun Design: Now Playing Screen in SwiftUI" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "profydev",
+    "name": "Profy dev",
+    "profile": "https://yt3.googleusercontent.com/KocrGjvuH2LCnr2_LiZkmCyeCySWeIokE1j3cX0M3SGgHbkVVvQvfgYhoZcdJPbtlcFig7LxyA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "r2zuEqPFDDY", "title": "Path To A Clean(er) React Architecture (Part 7) - Domain Logic [incl source code]" },
+    { "id": "A2FOOudW5GQ", "title": "Path To A Clean(er) React Architecture (Part 8) - React-Query" },
+    { "id": "WfJcNvTabO4", "title": "Path To A Clean(er) React Architecture (Part 5) - Infrastructure Services & Dependency Injection" },
+    { "id": "eKs6KYX0vCY", "title": "Path To A Clean(er) React Architecture (Part 6) - Business Logic Separation" },
+    { "id": "UaV_bPn1rWI", "title": "Path To A Clean(er) React Architecture - API Layer & Data Transformations" },
+    { "id": "-ojYfV4NSUQ", "title": "Path To A Clean(er) React Architecture - Domain Entities & DTOs" }
+  ],
+  "playlists": [
+
+  ]
+}

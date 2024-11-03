@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "MichaelNROH",
+    "name": "Michael Horn",
+    "profile": "https://yt3.googleusercontent.com/v4O653mzBmk_F9lrxSTKDrEdRqiqcD8RYQztL8d-Mz-YKn3HQNzQkYlKEc_CxU62S-oHtQc_qQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2WWOkv_U9meitvf8ZyB9A_tVGlpEfXYlS5bxRAbsbjPobE1ethkJGwtS7V147XNtOlCOGRhEEw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C018ps13TuQ", "title": "Customizing KDE Plasma 6 | An Introduction For Beginners" },
+    { "id": "x44bda1dz84", "title": "Optimizing LibreOffice To Work Like Microsoft Office ..." },
+    { "id": "BYIDoD8VdAw", "title": "Gaming On Linux - Everything You Need To Know .." },
+    { "id": "hsGeEnjk1Sk", "title": "Why Open Source Alternatives are NOT Enough ..." },
+    { "id": "T163cUTPmhE", "title": "Is NVIDIA Worth It On Linux?" },
+    { "id": "TX0f_vyV06k", "title": "Are Immutable Linux Distros Worth It?" },
+    { "id": "uTc74h4z668", "title": "Gnome Extensions vs KDE Plasma Customization ..." },
+    { "id": "D0vKSIEQmwo", "title": "Gnome 47 - The Best Release Yet?" },
+    { "id": "EimP1TtbDpw", "title": "It's Time To Switch To Linux!" },
+    { "id": "O7ONikAx00I", "title": "Turn Your Old PC Into A Gaming Console!" },
+    { "id": "i8SYvvUdV3Q", "title": "Integrating Your Cloud Services Into Linux ..." },
+    { "id": "0fDQTF7pih4", "title": "Setting Up My Streaming Channel + Trying out Cosmic!!" },
+    { "id": "2SSak5HoowU", "title": "Trying Out The Cosmic Desktop Environment ..." },
+    { "id": "jzpDjMaOgEU", "title": "Why I Switched To Firefox ..." },
+    { "id": "thGZYGKLwyc", "title": "More Advanced Linux Tools ..." },
+    { "id": "FS-ybN6QlsI", "title": "The Truth About CrowdStrike And Endpoint Protection ..." },
+    { "id": "suPR7Qu4-kM", "title": "Microsoft Office Alternatives On Linux ..." },
+    { "id": "7YrBUMnnCNs", "title": "Modding Games On Linux!" },
+    { "id": "mmRKWgiPulg", "title": "An Introduction To Hyprland ..." },
+    { "id": "YCrREpTw-PI", "title": "5 Linux Distros For Beginners" },
+    { "id": "5fX7RwDO3NA", "title": "Is KDE Plasma Too Modular?" },
+    { "id": "K5x0KtruA4c", "title": "The Programs I Use On Linux ..." },
+    { "id": "9PRvD4RV6Bs", "title": "This Did Not Go Well ..." }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -179,5 +179,7 @@ head:
 <MyYouTubeItems jsonName="yu-tonykipkemboi" /><!-- The How-To Guy -->
 <MyYouTubeItems jsonName="yu-AICodeKing" /><!-- AICodeKing -->
 <MyYouTubeItems jsonName="yu-AI-GPTWorkshop" /><!-- AI Workshop -->
+<MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
+<MyYouTubeItems jsonName="yu-elder_plinius" /><!-- Pliny the Prompter -->
 
 <TagLinks />

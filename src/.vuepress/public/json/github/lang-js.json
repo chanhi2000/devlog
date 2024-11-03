@@ -3644,5 +3644,19 @@
     "topics": ["cli", "npm", "automation", "deployment", "server", "nextjs", "npm-package", "self-hosted", "npx"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/869724660/b437114b-eb86-48eb-83ba-5d9befc76813"
+  }, {
+    "repo": "jaysylvester/citizen",
+    "desc": "Node.js MVC web application framework. Includes routing, serving, caching, session management, and other helpful tools.",
+    "officialSite": "",
+    "topics": ["nodejs", "javascript", "node", "mvc", "javascript-framework", "mvc-framework", "web-application", "server-side"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/117f4c8ba84ca5a76d655526bb3d0fd8856561eadafeee0f1fe4939e2194e7de/jaysylvester/citizen"
+  }, {
+    "repo": "alohe/quicky",
+    "desc": "A simple CLI tool to self-host Next.js applications.",
+    "officialSite": "https://quicky.dev",
+    "topics": ["cli", "npm", "automation", "deployment", "server", "nextjs", "npm-package", "self-hosted", "npx"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/869724660/b437114b-eb86-48eb-83ba-5d9befc76813"
   }
 ]

@@ -278,6 +278,7 @@ head:
   - [jquery select 태그의 option 비활성화 disabled 또는 선택막기 ✔](https://aspdotnet.tistory.com/m/2068)
   - [jqxGrid 와 JSONPlaceholder  - 서버사이드 페이징/필터링](https://aspdotnet.tistory.com/m/3283)
   - [Javascript : Promise 객체 : 최신 개념과 실전 활용법](https://aspdotnet.tistory.com/m/3287)
+  - [JS : 오늘, 내일 날씨 및 온도 구현하기 (`openweathermap` 활용)](https://aspdotnet.tistory.com/m/3292)
   <!-- END: aspdotnet -->
 - [`kesakiyo` / 오늘도 개발로그](https://kesakiyo.tistory.com/m/)
   - [JavaScript에서 배열의 원소들을 그룹핑하는 방법들](https://kesakiyo.tistory.com/m/entry/JavaScript%EC%97%90%EC%84%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%84-%EA%B7%B8%EB%A3%B9%ED%95%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%93%A4)
@@ -286,6 +287,12 @@ head:
 - [`usage` / 개발의 올바르지 않은 용례](https://usage.tistory.com/m/)
   - [타입 안정성을 위한 as unknown as Type](https://usage.tistory.com/m/221)
   <!-- END: usage -->
+- [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
+  - [\[why\] JavaScript는 왜 `undefined`를 사용할까?](https://jacky0831.tistory.com/m/106)
+  <!-- END: jacky0831 -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [Basic Usage of URL Pattern API](http://syaku.tistory.com/m/418)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---
@@ -635,5 +642,15 @@ head:
 - [Getting Started With scheduler.yield - A Beginner's Guide](https://debugbear.com/blog/scheduler-yield)
 
 <!-- END: debugbear.com -->
+
+---
+
+## Read the Tea Leaves
+
+- [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+
+<!-- END: nolanlawson.com -->
+
+---
 
 <TagLinks />

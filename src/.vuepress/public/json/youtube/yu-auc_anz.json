@@ -6,6 +6,24 @@
     "banner": "https://yt3.googleusercontent.com/w1-WQIr1voEd0h22OKSTkdnob_TjtLAyrjy0UBE2h_LD88R1Pf0hRPhuRMHxfiyw0H3rfz78BEw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GnVTKwkJ4JA", "title": "[오후의 Backlog 9회] Modular monolith, 운영서버구성, Spring Modulith, Font" },
+    { "id": "7IXEoacZM14", "title": "쉘 스크립팅 bash" },
+    { "id": "gQix00l2Qko", "title": "도메인과 인증서" },
+    { "id": "jSxNsj_cBSs", "title": "HTTP와 RestAPI" },
+    { "id": "_4teryQGSjo", "title": "웹서버 Nginx와 리버스프록시" },
+    { "id": "bmnUjUg_6HE", "title": "I Do Declare..." },
+    { "id": "UpmnaDupEf0", "title": "Managed App Config and You" },
+    { "id": "_sHxHz0nVG8", "title": "Easter Eggs are Cool - Building the Golden Ticket in Threads" },
+    { "id": "L0HAUtswAhA", "title": "A Journey Towards Modularisation" },
+    { "id": "SvTTpkm7prg", "title": "Bringing Distributed Tracing to your iOS apps with OpenTelemetry" },
+    { "id": "O0riKk4My80", "title": "Pitfalls of Account-Driven User Enrollment on iOS" },
+    { "id": "DPGiPhr8UW8", "title": "Bluetooth Low Energy on All the Things" },
+    { "id": "O0LNimYr2qg", "title": "Reining in All the Little Bits of Xcode Cloud" },
+    { "id": "CVtysSpt1Mc", "title": "Swift Playgrounds ﹥= Xcode" },
+    { "id": "ZhEZT9T16ms", "title": "After the First 20 Minutes: Onboarding is Cool, But What About the Next 3 Years?" },
+    { "id": "RumZTji_d4g", "title": "Getting to the Promised Land - macOS Updates" },
+    { "id": "bkKooT0WCPI", "title": "I Made a visionOS App in the Vision Pro, Here’s What I Learned" },
+    { "id": "PyYp0pfxWCw", "title": "Seamless Device Refreshes: Integrating Return to Service in Educational IT" },
     { "id": "vWnst6Il4Lk", "title": "macOS Security for MacAdmins - Marcus Ransom (X World 2023)" }, 
     { "id": "nU4BZ9vtmTc", "title": "Introduction to Promises in Swift (/dev/world/2017)" }
   ]

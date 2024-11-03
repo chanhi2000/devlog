@@ -108,5 +108,7 @@ head:
 <MyYouTubeItems jsonName="yu-codeandcreate" /><!-- Code And Create -->
 <MyYouTubeItems jsonName="yu-codejong" /><!-- 코드종 -->
 <MyYouTubeItems jsonName="yu-coderyan" /><!-- Code Ryan -->
+<MyYouTubeItems jsonName="yu-rtcodes" /><!-- Rajat Talesra -->
+<MyYouTubeItems jsonName="yu-profydev" /><!-- Profy dev -->
 
 <TagLinks />

@@ -24,5 +24,7 @@ tag:
 <MyYouTubeItems jsonName="yu-won2know" /><!-- 원노의 원투노 -->
 <MyYouTubeItems jsonName="yu-webcrunch" /><!-- Webcrunch -->
 <MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
+<MyYouTubeItems jsonName="yu-rtcodes" /><!-- Rajat Talesra -->
+<MyYouTubeItems jsonName="yu-birch_js" /><!-- Jamie Birch -->
 
 <TagLinks />

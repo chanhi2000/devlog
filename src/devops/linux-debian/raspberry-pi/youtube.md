@@ -19,4 +19,6 @@ tag:
 
 ---
 
+<MyYouTubeItems jsonName="yu-ExplainingComputers" /><!-- ExplainingComputers -->
+
 <TagLinks />

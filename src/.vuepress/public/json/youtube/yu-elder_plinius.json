@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "elder_plinius",
+    "name": "Pliny the Prompter",
+    "profile": "https://yt3.googleusercontent.com/NDk7tYp7u1K-8jSnVTGTLfll4Br84tL7m4ywV-fWa7GUu1I3DQ_sxIsHVpJzzW1zv6MfM2OzVQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Wjjrsn8ro5Y", "title": "AI RED TEAMING AGENTS ARE HERE! CLAUDE AUTONOMOUSLY JAILBREAKS PERPLEXITY" },
+    { "id": "aqSW8wszRt4", "title": "GPT-4O JAILBREAK VIA IMAGE UPLOAD" }
+  ],
+  "playlists": [
+
+  ]
+}

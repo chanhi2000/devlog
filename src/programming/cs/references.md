@@ -664,6 +664,7 @@ head:
 ## 상구리의 기술 블로그
 
 - [WebSocket with .NET Core](https://skyer9.pe.kr/wordpress/?p=9489)
+- [C# Prism – `BackgroundService` 생성하기](https://skyer9.pe.kr/wordpress/?p=9524)
 
 <!-- END: skyer9.pe.kr -->
 

@@ -38,6 +38,15 @@ head:
 
 ---
 
+## tistory
+
+- [`newstars` / newstars.cloud](https://newstars.tistory.com/m/)
+  - [\[MAC\] Claude APP 만들어서 사용하는 방법](https://newstars.tistory.com/m/593)
+  <!-- END: newstars -->
+<!-- END: tistory.com -->
+
+---
+
 ## Transformer Circuits Thread
 
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)

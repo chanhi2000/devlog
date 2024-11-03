@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "rtcodes",
+    "name": "Rajat Talesra",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mSCHi-0V0WVOZJcgyI44FOpqGZraGFwuIaa0JlUg0JR9kW=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "To5DTPrjYqQ", "title": "Scope in Rails  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "tLxFEMNHUJA", "title": "API call for add challenge  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "4PuAnT10MjI", "title": "React Quill Rich Text Editor - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "OxqAYDrfJN4", "title": "Date Picker in React - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "gTENHodeKOQ", "title": "Challenge Card UI  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "VhVXh_D4iE4", "title": "RichTextViewer and React Routes  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "OmT_uNtT7vY", "title": "Devise Authentication - Rails & Ruby Gems you should know!" },
+    { "id": "FzUZRdn7Qi4", "title": "Money Open Exchange Rates gem - Rails & Ruby Gems you should know!" },
+    { "id": "iBNpbUeHRic", "title": "Code Review - Color Palette Challenge - Zaka Ali" },
+    { "id": "0OihDsHbKxU", "title": "Using map method in React - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "iceM-QB-HV8", "title": "React Router & Login/Register UI - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "PTqCLHmkhNQ", "title": "React cookies and logout  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "v-gE4xRfoUE", "title": "Connecting frontend and backend  - Rails API + React Fullstack tutorial for beginners" },
+    { "id": "F5CrTmP39VY", "title": "Creating custom button  - Rails API + React Fullstack tutorial for beginners" }
+  ],
+  "playlists": [
+
+  ]
+}

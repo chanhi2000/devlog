@@ -62,6 +62,7 @@ head:
   - [pyQt5에서 레이아웃을 사용하는 이유](https://webnautes.tistory.com/m/2394)
   - [PyQt5로 구현한 버튼으로 스크롤 가능한 리스트뷰(QListWidget) 예제](https://webnautes.tistory.com/m/2396)
   - [QLabel에서 정수 출력시 자리수 유지하는 PyQt5 예제 코드](https://webnautes.tistory.com/m/2397)
+  - [`fcitx5` 사용시 PyQt5에서 한글 입력안되는 문제 해결 방법](https://webnautes.tistory.com/m/2405)
   <!-- END: webnautes -->
 - [`1d1cblog` / 1D1C](https://1d1cblog.tistory.com/m/)
   - [\[Qt\] 다른 쓰레드에서 QTimer 처리하기](https://1d1cblog.tistory.com/m/523)

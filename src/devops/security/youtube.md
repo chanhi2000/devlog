@@ -110,5 +110,7 @@ tag:
 <MyYouTubeItems jsonName="yu-homenetworkguy" /><!-- Home Network Guy -->
 <MyYouTubeItems jsonName="yu-Unplug-IT" /><!-- UnplugIT -->
 <MyYouTubeItems jsonName="yu-hackitconsultancy" /><!-- HACK IT CONSULTANCY -->
+<MyYouTubeItems jsonName="yu-davidbombal" /><!-- David Bombal -->
+<MyYouTubeItems jsonName="yu-cybernews" /><!-- CyberNews -->
 
 <TagLinks />

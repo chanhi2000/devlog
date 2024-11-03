@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/QBK0hsnEXr3Tx-5RgWiJ-jdcv5sAaVX0PDtF8OUeEJgv9ntA0qBaCGqx-9pB3v4dyP6AqGbud_8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MWeQ-U8k69Q", "title": "Sudo Show 70: Pi A La Code" },
+    { "id": "8nxo45zMY0Q", "title": "Sudo Show 71: OpenStack Renaissance" },
+    { "id": "Bs9nwHaTFgU", "title": "Sudo Show 69 - Cold Conferences" },
+    { "id": "n4rptHVV1Jw", "title": "Sudo Show 67: Broad Future of Open Source Hypervisors" },
     { "id": "tWnuC3f_1Mo", "title": "Sudo Show 66: VDI Current and Futures" }
   ]
 }

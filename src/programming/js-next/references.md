@@ -140,6 +140,9 @@ head:
 - [`haranglog` / haranglog](https://haranglog.tistory.com/m/)
   - [누적 지원자 5000명 IT 비영리단체 DND... 이제는 바꿔야할 때 feat. 마이그레이션](https://haranglog.tistory.com/m/41)
   <!-- END: haranglog -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [Next.js와 Nest.js, To-Do 리스트 예제로 보는 차이점과 활용법](https://aspdotnet.tistory.com/m/3291)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
 ---
@@ -249,6 +252,17 @@ head:
 ## IOT 개발 가이드
 
 - [AWS cognito 를 next.js에서 활용하기](https://m.blog.naver.com/nanotoly/223590635000)
+
+<!-- END: nanotoly (blog.naver.com) -->
+
+---
+
+## Never test
+
+- [Next.js dynamic route의 에러 처리](https://lovemewithoutall.github.io/it/nextjs-dynamic-route-error-handling/)
+- [Next.js 14 parallel route 오류 해결법](https://lovemewithoutall.github.io/it/nextjs-parallel-route-error/)
+
+<!-- END: lovemewithoutall.github.io -->
 
 ---
 

@@ -137,6 +137,9 @@ head:
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/m/2402)
   <!-- END: webnautes -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [NVIDIA Triton Inference Server with MLflow](https://jeongchul.tistory.com/m/824)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---

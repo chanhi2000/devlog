@@ -6,10 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/W2xRaq1j49v6a-BsnFpqhQiH6OHMkh897AiNYZDRcvpAXGnLtzAA6Pdm1AlotQcWVKNtkAQBXQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7aC3rRr-bh4", "title": "Boost Your Python Skills with CTK GUI Button" },
+    { "id": "texBsyBcHKw", "title": "Create a Stylish Login Page in Python with CustomTkinter # Step by Step Tutorial" },
+    { "id": "HukMZDkoGTQ", "title": "Create a Modern Registration Form with CustomTkinter  Python GUI Tutorial" },
+    { "id": "UJTc7BwJLxE", "title": "CISCO Packet Tracer For Beginers" },
     { "id": "H4E4lmVrETQ", "title": "Snake Game Part 1 In python" },
     { "id": "2C3GK7dG-Xo", "title": "Snake Game Part 2 In python" },
     { "id": "dwSduYIha4M", "title": "Snake Game Part 3 In python" },
     { "id": "rsN7McRETUU", "title": "Snake Game Last Part In python" }
   ],
-  "playlists": []
+  "playlists": [
+
+  ]
 }

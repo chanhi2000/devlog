@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "PostgresTV",
+    "name": "PostgresTV 💙💛",
+    "profile": "https://yt3.googleusercontent.com/S5WyFHYhFkj_pn9dpeUToS3A7PQu9_Ca6I2Txg0ZToGbMANclIEXW4x9gTHtpP4Z995JQS7g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tojI2LLcgLkmoe8tJjSbL6yjZJcL6x0YgK9n_zLcJQ9senwDSLKi7U5XHK8_Znq-vqB03GjYMu0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pbPIx3Eyhsg", "title": "Postgres 17 | Postgres.FM 116 | #PostgreSQL #Postgres podcast" },
+    { "id": "GAfT2QMtdP4", "title": "Patroni | Postgres.FM 117 | #PostgreSQL #Postgres podcast" },
+    { "id": "ycz6sVVTIh4", "title": "Advanced EXPLAIN | Postgres.FM 118 | #PostgreSQL #Postgres podcast" },
+    { "id": "Cw0WOJr4SKc", "title": "Postgres Gotchas | Postgres.FM 119 | #PostgreSQL #Postgres podcast" },
+    { "id": "Ucz5huiaVrU", "title": "Advanced psql | Postgres.FM 120 | #PostgreSQL #Postgres podcast" },
+    { "id": "Xk-znJgQzQs", "title": "Skip scan | Postgres.FM 113 | #PostgreSQL #Postgres podcast" },
+    { "id": "aQBXEK0BH1Y", "title": "Slow count | Postgres.FM 114 | #PostgreSQL #Postgres podcast" },
+    { "id": "6Ywq3whcJ1s", "title": "Planning time | Postgres.FM 115 | #PostgreSQL #Postgres podcast" },
+    { "id": "pbPIx3Eyhsg", "title": "Postgres 17 | Postgres.FM 116 | #PostgreSQL #Postgres podcast" },
+    { "id": "2F0fSj2Zem8", "title": "Why Postgres? | Postgres.FM 108 | #PostgreSQL #Postgres podcast" },
+    { "id": "0SROLA-aBqY", "title": "Index-Only Scans | Postgres.FM 109 | #PostgreSQL #Postgres podcast" },
+    { "id": "xR-VJjR9DPQ", "title": "Getting started with benchmarking | Postgres.FM 110 | #PostgreSQL #Postgres podcast" },
+    { "id": "59CainMBjtQ", "title": "Get or Create | Postgres.FM 111 | #PostgreSQL #Postgres podcast" },
+    { "id": "Rn_5tTX1tDY", "title": "Postgres Emergency Room | Postgres.FM 112 | #PostgreSQL #Postgres podcast" },
+    { "id": "QJPyyEQFRZc", "title": "Four million TPS | Postgres.FM 104 | #PostgreSQL #Postgres podcast" },
+    { "id": "fIqYOXhMR-o", "title": "Postgres startup ecosystem | Postgres.FM 105 | #PostgreSQL #Postgres podcast" },
+    { "id": "BN5V2fYBDyo", "title": "Out of disk | Postgres.FM 106 | #PostgreSQL #Postgres podcast" },
+    { "id": "N1yhAgM0wKE", "title": "Compression | Postgres.FM 107 | #PostgreSQL #Postgres podcast" },
+    { "id": "dX6xbManLZw", "title": "pgvectorscale | Postgres.FM 101 (LIVE) | #PostgreSQL #Postgres podcast" },
+    { "id": "I3ZX4aGgi1Q", "title": "Should we use foreign keys? | Postgres.FM 102 | #PostgreSQL #Postgres podcast" },
+    { "id": "n1vqizmB__o", "title": "Soft delete | Postgres.FM 103 | #PostgreSQL #Postgres podcast" },
+    { "id": "gYFiYhMgf98", "title": "Custom vs generic plan | Postgres.FM 096 | #PostgreSQL #Postgres podcast" },
+    { "id": "bMb8GjhGiVo", "title": "LIMIT vs  performance | Postgres.FM 095 | #PostgreSQL #Postgres podcast" },
+    { "id": "yvR0IqTRihk", "title": "Minor releases | Postgres.FM 097 | #PostgreSQL #Postgres podcast" },
+    { "id": "2kGn1_aWU7o", "title": "Full text search | Postgres.FM 098 | #PostgreSQL #Postgres podcast" }
+  ],
+  "playlists": [
+
+  ]
+}

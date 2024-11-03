@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/EzlJHpkwJHDxJ7rtwtRs8GhHQvmas-yNV6ro-DyFdUjzd7U4fMP0n8_vU9UYW_wniNS_ZvaVlA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NDwk-DEexT4", "title": "I tested Sequoia on ALL UNSUPPORTED MACs!" },
+    { "id": "uxC_pCm7pzA", "title": "Tips & Tricks to install macOS 15 Sequoia on UNSUPPORTED MACs!" },
+    { "id": "LffeqzhNBQ4", "title": "Most reasonable upgrades for the Mac Pro 2009-2012!" },
+    { "id": "k6EWcZOPLWs", "title": "Performance, Expandability & Power Consumption of the Mac Pro 2012 & 2013: DOES IT STILL MAKE SENSE?" },
+    { "id": "904R8u7jPmQ", "title": "LIVE: macOS 15 Sequoia on UNSUPPORTED MACs..?" },
+    { "id": "8roZeg85LjE", "title": "How to run UNSUPPORTED MACs with macOS 15 Sequoia Beta!" },
+    { "id": "hH0dOiu1YZ4", "title": "OpenCore Legacy Patcher v1.5.0 for UNSUPPORTED MACs.... why?" },
+    { "id": "SZN3a9tFrDU", "title": "macOS 14.5 released - but no new OpenCore Legacy Patcher?" },
     { "id": "KwMCiZ3iQH8", "title": "macOS 14.4 tested on ALL UNSUPPORTED MACs with OpenCore Legacy Patcher 1.4.1!" },
     { "id": "Z4LyRhIZamU", "title": "macOS 14.3 with UNSUPPORTED MACs - KDK needed?" },
     { "id": "QC7yJdhf33k", "title": "How to repair a Fusion Drive (or split it up)..." },

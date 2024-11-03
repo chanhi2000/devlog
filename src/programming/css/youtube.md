@@ -59,5 +59,8 @@ tag:
 <MyYouTubeItems jsonName="yu-Bedimcode" /><!-- Bedimcode -->
 <MyYouTubeItems jsonName="yu-jimmykimu" /><!-- DEvS -->
 <MyYouTubeItems jsonName="yu-frontendzonedotcom" /><!-- frontendzone -->
+<MyYouTubeItems jsonName="yu-OptimisticWeb" /><!-- Optimistic Web -->
+<MyYouTubeItems jsonName="yu-Amarindaz" /><!-- Amarindaz -->
+<MyYouTubeItems jsonName="yu-whatstheteawithmandy" /><!-- css par‧tea -->
 
 <TagLinks />

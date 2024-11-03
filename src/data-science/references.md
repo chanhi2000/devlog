@@ -119,6 +119,7 @@ head:
   <!-- END: weejw -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [10만건 정도에서 중복 확인 시간](https://ravenkim97.tistory.com/m/498)
+  - [관계형 테이블에 pk가 필요할까?](https://ravenkim97.tistory.com/m/503)
   <!-- END: ravenkim97 -->
 - [`dev-wnstjd` / 💻 준성 개발 일지](https://dev-wnstjd.tistory.com/m/)
   - [\[자격증\] \[SQLD\] 2024년 제 54회 SQLD 개발자 시험 후기](https://dev-wnstjd.tistory.com/m/527)
@@ -134,6 +135,12 @@ head:
   - [DB에서 데이터 무결성](https://jeongchul.tistory.com/m/785)
   - [Database에서 ACID](https://jeongchul.tistory.com/m/786)
   <!-- END: jeongchul -->
+- [`thalals` / 힘차게, 열심히 공대생](https://thalals.tistory.com/m/)
+  - [\[DataBase\] 트랜잭션 공부하기](https://thalals.tistory.com/m/489)
+  <!-- END: thalals -->
+- [`tre2man` / 발자취](https://tre2man.tistory.com/m/)
+  - [Slow query 개선 경험기](https://tre2man.tistory.com/m/371)
+  <!-- END: tre2man -->
 <!-- END: tistory.com -->
 
 ---

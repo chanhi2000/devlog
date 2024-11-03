@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "KLLme4-LUiM", "title": "AWS Solutions Architect Certification Exam - Practice Questions Part 2 #awscertification #aws" },
+    { "id": "X9bHX7OyHWU", "title": "AWS Secrets Manager Lab Demo (#aws #rds #mysql #secrets #vpc #awsarchitecture )" },
+    { "id": "xTjKDzWD0ew", "title": "AWS Solutions Architect Certification Exam - Practice Questions Part 1 #awscertification #aws" },
+    { "id": "aVYTRGE5iDk", "title": "How to setup a Linux Virtual Machine on Azure Cloud #azure #ubuntu #virtualmachine #linux" },
+    { "id": "tEz9o1WYsiI", "title": "How to setup a Windows Virtual Machine on Azure Cloud #azure #windows  #virtualmachine #microsoft" },
+    { "id": "QbseFkKSBLU", "title": "AWS CodeCommit Lab demo" },
+    { "id": "PeHRGzlL2mo", "title": "How to monitor custom metrics using AWS CloudWatch" },
     { "id": "VdmyueDr6Gw", "title": "Introduction to Cloud Migration #aws #cloudmigration #virtualmachine #ec2" },
     { "id": "tdck3TReQcM", "title": "How to migrate a VM from Onprem to AWS  - Lab demo #aws #cloudmigration #virtualmachine #ec2" },
     { "id": "O3KtaGcq98A", "title": "How to setup Prometheus on AWS EC2 instance #prometheus #grafana #monitoring #aws #ec2" },

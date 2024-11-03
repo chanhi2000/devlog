@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/3XIcP_mWmbiQaVMS7GUofr56XBL1ayhQbFVmBGvstUUjp1QYxx7jU-qDEdTubVqwLfi8AXAA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pfCbvZuvQCk", "title": "쇼핑몰 통계 데이터 만들기 - 데이터웨어하우스 [개발일기]" },
+    { "id": "_SMgMwQ8qUE", "title": "저렴한 db 서버 만들기/ mysql8 / 월 5,500원 카페24 가상서버호스팅" },
+    { "id": "_VKOgdRNshk", "title": "비슷한 상품 추천 시스템 / Embedding / Vector DB [개발일기]" },
+    { "id": "YGBWEYmGCE8", "title": "[개발일기] iot 공부 인트로" },
+    { "id": "0OYUTF5pWj8", "title": "무중단 배포 - 최대한 가볍고 간단하게 (쉘스크립트 + ECR + Docker + EC2 + Nginx + blue/green + aws)    [개발일기] 경북 예천" },
+    { "id": "1_nQmxeCKWg", "title": "S3 에서 정적 웹사이트 실행시키기 및 도메인 연동 (S3 + CloudeFront + Route53 + CertificateManager(ACM)) 경북 예천" },
+    { "id": "4yXIYUzsjbA", "title": "[개발일기] EC2 우분투 생성 후 기본 설치 및 설정 (새계정생성, timezone, docker 설치, NVM 설치, nginx 설치, git 설치, 기본계정삭제)" },
     { "id": "4aHCxIvGqXs", "title": "[개발일기] 1인 개발자 우수 사례" }
   ]
 }

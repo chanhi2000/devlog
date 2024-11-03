@@ -148,6 +148,9 @@ head:
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [\[MySQL\] 인덱스 생성, 삭제, 변경, 조회 방법](https://dreamcoding.tistory.com/m/120)
   <!-- END: dreamcoding -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [MySQL DB backup 정책](https://jeongchul.tistory.com/m/837)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---
@@ -305,6 +308,14 @@ head:
 - [MySQL Connection Pool 관리 - HikariCP 설정 및 타임아웃 처리](https://cheese10yun.github.io/mysql-connection-pool-timeout/)
 
 <!-- END: cheese10yun.github.io -->
+
+---
+
+## 프리랜서 1등 플랫폼: 이랜서 | 기업의 프로젝트 재의뢰율 98%
+
+- [PostgreSQL의 차별화된 기능과 MySQL과의 차이](https://elancer.co.kr/blog/detail/737)
+
+<!-- END: elancer.co.kr -->
 
 ---
 

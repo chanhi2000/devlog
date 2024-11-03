@@ -292,6 +292,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   - [나의 개발 일지 (1) 서버 세팅](http://cori.tistory.com/m/345)
   - [나의 개발 일지 (2) Docker 설정](http://cori.tistory.com/m/346)
   - [FastAPI를 이용한 추론 모델 배포 (feat.docker)](https://cori.tistory.com/m/357)
+  - [도커를 이용한 PostgreSQL (원격)  <-> PostgreSQL (로컬) 연동](https://cori.tistory.com/m/361)
   <!-- END: cori -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[DevOps\] Docker와 Jenkins를 이용한 CI/CD 구축 (1)](https://findsilverlining.tistory.com/m/116)
@@ -317,7 +318,55 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Docker CNI](https://jeongchul.tistory.com/m/801)
   - [Docker Network](https://jeongchul.tistory.com/m/802)
+  - [NVIDIA Triton Inference server with Grafana](https://jeongchul.tistory.com/m/822)
   <!-- END: jeongchul -->
+- [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
+  - [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/m/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
+  <!-- END: jakpentest -->
+- [`alden-kang` / Alden's Dev Log](https://alden-kang.tistory.com/m/)
+  - [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/m/1)
+  <!-- END: alden-kang -->
+- [`gngsn` / ENFJ.dev](https://gngsn.tistory.com/m/)
+  - [📚 Docker Series](https://gngsn.tistory.com/m/292)
+  - [Docker Volume, 제대로 이해하기](https://gngsn.tistory.com/m/291)
+  - [Docker, 제대로 사용하기 - Commands](https://gngsn.tistory.com/m/268)
+  - [Docker Network, 제대로 이해하기 (2)](https://gngsn.tistory.com/m/140)
+  - [Docker Network, 제대로 이해하기 (1)](https://gngsn.tistory.com/m/137)
+  - [Docker Engine, 제대로 이해하기 (2)](https://gngsn.tistory.com/m/129)
+  - [Docker Engine, 제대로 이해하기 (1)](https://gngsn.tistory.com/m/128)
+  - [Container Networking, 어렵지 않게 이해하기](https://gngsn.tistory.com/m/294)
+  <!-- END: gngsn -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [도커 에서 파일을 관리 하는 방법](https://ravenkim97.tistory.com/m/456)
+  <!-- END: ravenkim97 -->
+- [`cleanupthedesk` / clean up the desk](https://cleanupthedesk.tistory.com/m/)
+  - [\[네이버클라우드\] Ncloud Single Sign-On(SSO) / keycloak 연동 - 1. keycloak 설치](https://cleanupthedesk.tistory.com/m/75)
+  <!-- END: cleanupthedesk -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
+  - [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
+  - [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
+  <!-- END: aspdotnet -->
+- [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
+  - [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
+  - [Jenkins 서버 구축하기 (1)](https://bbogle2.tistory.com/m/entry/Jenkins-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
+  - [Jenkins로 Docker Container 배포하기](https://bbogle2.tistory.com/m/entry/Jenkins%EB%A1%9C-Docker-Container-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+  - [MeiliSearch 설치 및 실행 방법](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
+  - [Docker Ubuntu 개발 환경 구축](https://bbogle2.tistory.com/m/entry/Docker-Ubuntu-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
+  <!-- END: bbogle2 -->
+- [`this1` / 일단은 프로그래머 나부랭이](https://this1.tistory.com/m/)
+  - [docker container backup & restore](https://this1.tistory.com/m/99)
+  <!-- END: this1 -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎](https://pearlluck.tistory.com/m/)
+  - [Triton Inference Server 모델서빙2 - 직접 우리 모델을 서빙해보자!](https://pearlluck.tistory.com/m/822)
+  - [Triton Inference Server 모델서빙3 - 서비스 적용..은 다음에..해보자;;](https://pearlluck.tistory.com/m/831)
+  <!-- END: pearlluck -->
+- [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
+  - [\[Gen AI\] Stable Diffusion WebUI Docker로 환경 설정하기](https://csj000714.tistory.com/m/1178)
+  <!-- END: csj000714 -->
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [\[Docker Compose\] `depense_on`으로 서비스 의존 관계 설정하기](https://devs0n.tistory.com/m/199)
+  <!-- END: devs0n -->
 <!-- END: tistory.com -->
 
 ---
@@ -334,12 +383,6 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## 뭐라도 해야 한다면 기록을 하자
-
-- [ProxySQL을 사용하면 Connection을 줄일 수 있다고 ?](https://jakpentest.tistory.com/m/entry/ProxySQL%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-Connection%EC%9D%84-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EB%8B%A4%EA%B3%A0)
-
----
-
 ## 정우일
 
 - [Spark Kafka 설치 방법(Docker Compose)](https://wooiljeong.github.io/spark/install-spark/)
@@ -352,12 +395,6 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## Alden's Dev Log
-
-- [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
-
----
-
 ## DevOps4Solutions
 
 - [CI/CD using Jenkins and Docker](https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2)
@@ -367,19 +404,6 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 ## Andreas' Blog
 
 - [Hosting Gitea and Drone with Docker](https://blog.anoff.io/2019-03-24-self-hosted-gitea-drone)
-
----
-
-## ENFJ.dev
-
-- [📚 Docker Series](https://gngsn.tistory.com/292)
-  - [Docker Volume, 제대로 이해하기](https://gngsn.tistory.com/291)
-  - [Docker, 제대로 사용하기 - Commands](https://gngsn.tistory.com/268)
-  - [Docker Network, 제대로 이해하기 (2)](https://gngsn.tistory.com/140)
-  - [Docker Network, 제대로 이해하기 (1)](https://gngsn.tistory.com/137)
-  - [Docker Engine, 제대로 이해하기 (2)](https://gngsn.tistory.com/129)
-  - [Docker Engine, 제대로 이해하기 (1)](https://gngsn.tistory.com/128)
-  - [Container Networking, 어렵지 않게 이해하기](https://gngsn.tistory.com/m/294)
 
 ---
 
@@ -422,12 +446,6 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## Life Log
-
-- [도커 에서 파일을 관리 하는 방법](https://ravenkim97.tistory.com/m/456)
-
----
-
 ## This blog is for me a platform to share my knowledge in the area of software development.
 
 - [Docker Best Practices](https://mydeveloperplanet.com/2022/11/30/docker-best-practices/)
@@ -440,23 +458,9 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## clean up the desk
-
-- [\[네이버클라우드\] Ncloud Single Sign-On(SSO) / keycloak 연동 - 1. keycloak 설치](https://cleanupthedesk.tistory.com/m/75)
-
----
-
 ## mrchypark
 
 - [\[번역\]Haproxy와 Docker를 이용한 로드밸런싱](https://mrchypark.github.io/post/%EB%B2%88%EC%97%AD-haproxy%EC%99%80-docker%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1/)
-
----
-
-## 재우니의 블로그
-
-- [Docker : ASP.NET MVC 5 Application 을 Docker 도커로 배포하자](https://aspdotnet.tistory.com/m/2302)
-- [Docker : ASP.NET Core 앱이 작동하지 않는 이유?](https://aspdotnet.tistory.com/m/2921)
-- [Docker : Mayan EDMS 4.4.8 버전 설치해 보기](https://aspdotnet.tistory.com/m/3077)
 
 ---
 
@@ -479,25 +483,9 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## 뽀글뽀글 개발 일지
-
-- [라즈베리 파이에 Docker 설치 및 컨테이너 실행](https://bbogle2.tistory.com/m/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%97%90-Docker-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
-- [Jenkins 서버 구축하기 (1)](https://bbogle2.tistory.com/m/entry/Jenkins-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1)
-- [Jenkins로 Docker Container 배포하기](https://bbogle2.tistory.com/m/entry/Jenkins%EB%A1%9C-Docker-Container-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
-- [MeiliSearch 설치 및 실행 방법](https://bbogle2.tistory.com/m/entry/MeiliSearch-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
-- [Docker Ubuntu 개발 환경 구축](https://bbogle2.tistory.com/m/entry/Docker-Ubuntu-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
-
----
-
 ## Developer security | Snyk
 
 - [Choosing the best Node.js Docker image](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
-
----
-
-## 일단은 프로그래머 나부랭이
-
-- [docker container backup & restore](https://this1.tistory.com/m/99)
 
 ---
 
@@ -506,18 +494,6 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker)
 
 <!-- END: marshallku.com -->
-
----
-
-## 데엔잘하고싶은데엔🔥💎
-
-- [Triton Inference Server 모델서빙2 - 직접 우리 모델을 서빙해보자!](https://pearlluck.tistory.com/m/822)
-
----
-
-## 드프 DrawingProcess
-
-- [\[Gen AI\] Stable Diffusion WebUI Docker로 환경 설정하기](https://csj000714.tistory.com/m/1178)
 
 ---
 

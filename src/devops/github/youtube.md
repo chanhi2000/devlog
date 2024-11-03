@@ -32,5 +32,7 @@ tag:
 <MyYouTubeItems jsonName="yu-kantancoding" /><!-- Kantan Coding -->
 <MyYouTubeItems jsonName="yu-ProtonPenguin" /><!-- ProtonPenguin -->
 <MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
+<MyYouTubeItems jsonName="yu-bufferhead_" /><!-- Bufferhead -->
+<MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->
 
 <TagLinks />

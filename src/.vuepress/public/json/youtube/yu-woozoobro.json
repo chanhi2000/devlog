@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/MdRcoHMNZ93IGMb5o3CGQm29h6A_-f6jEE_HsW8MVnDMTAYYC1oust5eiBqlr1tZw8iGtHzCa0Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZDsnw4K6KKE", "title": "아이폰 사파리 꿀팁" },
     { "id": "wgTGTgiWTuE", "title": "`ObservableObject` 기초, `StateObject`와 `ObservedObject`" },
     { "id": "JYQgBpu0-8w", "title": "`@Binding` 프로퍼티 래퍼 기초" },
     { "id": "4F84CPBNMrk", "title": "뷰에 구멍뚫기" },

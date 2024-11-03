@@ -194,6 +194,7 @@ head:
   - [Spring 없는 Java조차 서버리스에서 못 써먹는걸까?](https://until.blog/@octoping/spring-%EC%97%86%EB%8A%94-java%EB%8F%84-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%97%90%EC%84%9C-%EB%AA%BB-%EC%8D%A8%EB%A8%B9%EB%8A%94-%EC%A0%95%EB%8F%84%EC%9D%B8%EA%B1%B8%EA%B9%8C-)
   - [스프링 표현식 언어 (SpEL) 알아보기](https://until.blog/@octoping/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%96%B8%EC%96%B4--spel--%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
   - [커밋될 때마다 Spring Boot 프로젝트를 ECR에 배포하기](https://until.blog/@octoping/커밋될-때마다-spring-boot-프로젝트를-ecr에-배포하기)
+  - [Jasypt를 이용해서 프로퍼티의 시크릿 유출을 보호하기](https://until.blog/@octoping/jasypt를-이용해서-프로퍼티의-시크릿-유출을-보호하기)
   <!-- END: octoping -->
 - [`itbuddy`: skvudrms54](https://until.blog/@itbuddy)
   - [TestContainers 적용기](https://until.blog/@itbuddy/testcontainers-%EC%A0%81%EC%9A%A9%EA%B8%B0)
@@ -407,6 +408,7 @@ head:
 - [`backend-jaamong` / 개발하는 자몽](https://backend-jaamong.tistory.com/m/)
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
   - [Java/Spring 테스트 - 1](https://backend-jaamong.tistory.com/m/177)
+  - [\[JPA Error\] No EntityManager with actual transaction available for current thread - cannot reliably process 'flush' call](https://backend-jaamong.tistory.com/m/178)
   <!-- END: backend-jaamong -->
 - [`cla9` / 북극 펭귄](https://cla9.tistory.com/m/)
   - [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/m/118)
@@ -446,6 +448,12 @@ head:
 - [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
   - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
   <!-- END: yejipro -->
+- [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
+  - [\[Spring\] Swagger UI 대신 Scalar API Reference를 사용하여 API 문서 사용하기](https://devs0n.tistory.com/m/200)
+  <!-- END: devs0n -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [Spring REST Docs Easy: Efficient API Documentation Tool (`spring-restdocs-easy`)](http://syaku.tistory.com/m/415)
+  <!-- END: syaku -->
 <!-- END: tistory.com java -->
 
 ### 비탐인
@@ -527,6 +535,7 @@ head:
 ### 항동킴 Blog
 
 - [[Springboot] /`MojoExecutionException` 에러 처리](https://jinseong0928.blogspot.com/2024/05/springboot-mojoexecutionexception.html)
+- [MyBatis에서 `java.lang.IndexOutOfBoundsException` 에러 날때 확인 해볼것](https://jinseong0928.blogspot.com/2024/10/mybatis-javalangindexoutofboundsexcepti.html)
 
 ### 💾 Knowledge Repositor
 
@@ -726,6 +735,7 @@ head:
 
 <!-- END: skyer9.pe.kr -->
 
+
 ---
 
 ## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
@@ -784,6 +794,9 @@ head:
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
   <!-- END: shout-to-my-mae -->
+- [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
+  - [\[Spring AOP\] Consumer `onMessage()` 비동기 수신 로깅](https://splendidlolli.tistory.com/m/783)
+  <!-- END: splendidlolli -->
 <!-- END: tistory.com -->
 
 ### suhwan.dev

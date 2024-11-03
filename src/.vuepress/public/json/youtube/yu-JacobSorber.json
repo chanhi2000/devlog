@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/GlleVYc5GOLvkMNnTPHGxk4tkU6pvkjjzW6bQoP9JjMTJAdvew_NbmAXVgJzMmtoEKYkejBGEzE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "judFa1oDqUA", "title": "Can I use connect with UDP sockets?" },
+    { "id": "bA1VMjShQUk", "title": "How to set a socket timeout (setsockopt) in C" },
+    { "id": "5PPfy-nUWIM", "title": "How to Send and Receive UDP packets (in C)" },
+    { "id": "HpAdCgs9HCI", "title": "The two main types of network socket" },
+    { "id": "LlizY8S673c", "title": "Portably print integers in C? It's more complicated than it should be." },
+    { "id": "3iwTk24dZOU", "title": "Using read write locks (example in C)" },
+    { "id": "EEn8wh51wRQ", "title": "A design pattern for cleaner recursive functions." },
     { "id": "ig3LbecXrSk", "title": "How to sort part of an array in C" },
     { "id": "F9742wnBWRc", "title": "How do I Set, Clear, and Toggle a Single Bit?" }
   ]

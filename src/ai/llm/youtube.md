@@ -40,7 +40,6 @@ head:
 <MyYouTubeItems jsonName="yu-kskroyaltech" /><!-- Ksk Royal -->
 <MyYouTubeItems jsonName="yu-uengine5309" /><!-- uEngine -->
 <MyYouTubeItems jsonName="yu-ai101lab" /><!-- AI101 -->
-<MyYouTubeItems jsonName="yu-EugeneKhutoryansky" /><!-- Physics Videos by Eugene Khutoryansky -->
 <MyYouTubeItems jsonName="yu-reps" /><!-- Marco Reps -->
 <MyYouTubeItems jsonName="yu-ringring_creator" /><!-- RingRing -->
 <MyYouTubeItems jsonName="yu-YangCom2014" /><!-- 양컴 -->

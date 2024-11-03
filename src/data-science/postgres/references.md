@@ -270,6 +270,12 @@ head:
   - [\[Postgresql\] 에 대한 소개 - 1st study](https://hyunki1019.tistory.com/m/192)
   - [\[Postgresql-study\] WAL (write ahead log)](https://hyunki1019.tistory.com/m/195)
   <!-- END: hyunki1019 -->
+- [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
+  - [도커를 이용한 PostgreSQL (원격)  <-> PostgreSQL (로컬) 연동](https://cori.tistory.com/m/361)
+  <!-- END: cori -->
+- [`moonsng` / 코딩도서관](https://moonsng.tistory.com/m/)
+  - [Postgresql 사용이유?](https://moonsng.tistory.com/m/99)
+  <!-- END: moonsng -->
 <!-- END: tistory.com -->
 
 ---
@@ -412,12 +418,6 @@ head:
 
 ---
 
-## 코딩도서관
-
-- [Postgresql 사용이유?](https://moonsng.tistory.com/m/99)
-
----
-
 ## drew's dev blog
 
 - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
@@ -433,6 +433,14 @@ head:
 ## Kendrick B Jung's Blog
 
 - [PostgreSQL의 Dead Tuple과 Vacuum](https://sonim1.com/ko/blog/postgresql-deadtuple-and-autovacuum/)
+
+---
+
+## 프리랜서 1등 플랫폼: 이랜서 | 기업의 프로젝트 재의뢰율 98%
+
+- [PostgreSQL의 차별화된 기능과 MySQL과의 차이](https://elancer.co.kr/blog/detail/737)
+
+<!-- END: elancer.co.kr -->
 
 ---
 

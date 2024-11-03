@@ -63,6 +63,8 @@ head:
 - [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
 - [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
 - [`@jwlee010523` / LPT: Longest Processing Time first](https://velog.io/@jwlee010523/LPT)
+- [`@dnr6054` / Lock-Free List](https://velog.io/@dnr6054/Lock-Free-List)
+- [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 1주차 정리](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
 
 <!-- END: velog.io -->
 
@@ -174,6 +176,9 @@ head:
 - [`jinseong-dev` / 진성 블로그](https://jinseong-dev.tistory.com/m/)
   - [계약에 의한 설계(Design by Contract)를 실전에 적용하기](https://jinseong-dev.tistory.com/m/49)
   <!-- END: jinseong-dev -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [$O\left(1\right)$과 $O\left(n\right)$ 시간 복잡도: 알고리즘 효율성의 핵심](http://syaku.tistory.com/m/416)
+  <!-- END: syaku -->
 <!-- END: tistory.com  -->
 
 ---
@@ -270,6 +275,14 @@ head:
 - [(번역) 웹 페이지가 로드되기 전에 더 빠르게 만드는 방법](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
 
 <!-- END: ykss.netlify.app -->
+
+---
+
+## 하이제니스
+
+- [CAN Communication Protocols](https://m.blog.naver.com/chandong83/223639642079)
+
+<!-- END: chandong83 (blog.naver.com) -->
 
 ---
 

@@ -288,6 +288,7 @@ head:
   - [EC2이 Docker 안에 Jenkins Container 올리기 (feat. Webhook CI/CD 구축 & DooD)](https://moonnight0.tistory.com/m/entry/AWS-EC2%EC%9D%B4-Docker-%EC%95%88%EC%97%90-Jenkins-Container-%EC%98%AC%EB%A6%AC%EA%B8%B0-feat-Webhook-CICD-%EA%B5%AC%EC%B6%95-DooD)
   - [AWS S3 보안 설정 및 정책 관리 (feat. IAM)](https://moonnight0.tistory.com/m/entry/AWS-S3-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%A0%95%EC%B1%85-%EA%B4%80%EB%A6%AC-feat-IAM)
   - [AWS 아키텍처 설계 전략 (feat. Auto Scaling, ECS)](https://moonnight0.tistory.com/m/entry/AWS-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-feat-Auto-Scaling-ECS)
+  - [EC2 분리하기 ( Front / Back / PostgreSQL / MongoDB / redis )](https://moonnight0.tistory.com/m/entry/EC2-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0-Front-Back-PostgreSQL-MongoDB-redis)
   <!-- END: moonnight0 -->
 <!-- END: tistory.com -->
 ---

@@ -320,6 +320,9 @@ head:
   - [Git 기본 명령어 사용법: 프로젝트 관리를 위한 완벽 가이드](https://dreamcoding.tistory.com/m/116)
   - [Git merge(머지) 취소 방법](https://dreamcoding.tistory.com/m/122)
   <!-- END: dreamcoding -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400](http://syaku.tistory.com/m/407)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---

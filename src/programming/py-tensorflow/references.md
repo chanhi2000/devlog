@@ -45,6 +45,9 @@ head:
 - [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
   - [\[Tensorflow\] `ReduceLROnPlateau` CallBack 정리](https://sonseungha.tistory.com/m/727)
   <!-- END: sonseungha -->
+- [`jeongchul` /Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [TensorFlow Serving](https://jeongchul.tistory.com/m/826)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---
