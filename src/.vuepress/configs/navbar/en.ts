@@ -395,6 +395,10 @@ export const navbarEn = navbar([
         link: '/devops/ncloud/README.md',
         icon: 'iconfont icon-naver'
       }, {
+        text: 'Vercel',
+        link: '/devops/vercel/README.md',
+        icon: 'iconfont icon-vercel'
+      }, {
       text: 'Ansible',
         icon: 'iconfont icon-ansible',
         link: '/devops/ansible/README.md'

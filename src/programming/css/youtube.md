@@ -62,5 +62,6 @@ tag:
 <MyYouTubeItems jsonName="yu-OptimisticWeb" /><!-- Optimistic Web -->
 <MyYouTubeItems jsonName="yu-Amarindaz" /><!-- Amarindaz -->
 <MyYouTubeItems jsonName="yu-whatstheteawithmandy" /><!-- css par‧tea -->
+<MyYouTubeItems jsonName="yu-ChromeDevs" /><!-- Google Chrome Developers -->
 
 <TagLinks />

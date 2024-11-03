@@ -127,6 +127,7 @@ head:
 - [`@ZVA` / 자바의 아버지 제임스 고슬링, 생성AI를 생각한다](https://brunch.co.kr/@@ZVA/722)
 - [`@ZVA` / 생성AI와 읽기의 종말 시대, 가르친다는 것에 대하여](https://brunch.co.kr/@@ZVA/737)
 - [`@5jl5` / RAG기반 LLM서비스 전망](https://brunch.co.kr/@@5jl5/132)
+- [`@5jl5` / \[책소개\] Transformers & LLMs 그림책 - Super Study Guide: Transformers & LLMs](https://brunch.co.kr/@@5jl5/133)
 
 <!-- END: brunch.co.kr -->
 

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "skeletonlabs",
+    "name": "Skeleton Labs",
+    "profile": "https://yt3.googleusercontent.com/NXhMKWYP9-y3hayfOv9A09b4Xqa419HdgERVaDjmONELVKQBSvgT_o8zOjIdrKOrbHcNeInhSpE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QMoJ4989_3Tw--vh4eXNd5jJCsU4aFdFsXzI6RtP6bcFSNYDu_RODrPLSvUf_fWiXtdjqCuu=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zr_VR9PO59I", "title": "skeleton v3 Beta - Migration Guide" },
+    { "id": "rJdJpWmSItQ", "title": "Skeleton Next - Update 14 - Theme Generator Overhaul" },
+    { "id": "VASkwXWkKQ8", "title": "Skeleton Next - Update 13 - Components, Docs, and Themes" },
+    { "id": "Trr-nn1yZ44", "title": "Floating UI Svelte announcement!" },
+    { "id": "zX-8qQyaLVQ", "title": "Skeleton Next - Update 3 - Documentation Expansions" },
+    { "id": "-ZXqlhFVCl0", "title": "Skeleton Next - Update 7 - New Components and Animations" },
+    { "id": "oEFrp1cwubE", "title": "Skeleton v3 Pre-Release Announcement 🎉" },
+    { "id": "kd4rHFSfJfM", "title": "Floating UI Svelte Pre-Release Announcement" }
+  ],
+  "playlists": [
+
+  ]
+}

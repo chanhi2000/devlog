@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "kosmik_app",
+    "name": "Kosmik",
+    "profile": "https://yt3.googleusercontent.com/JcBYKZzdWrz2qizwOTkdqKgG82m-2zX14zmwrWVtqWI1XpOc67ENmg7fv56Po00XVfVLs9aJ0wY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DdrmoILsdoOHgyXl8zaRZCu7fWJDs4sIhxJKMcFYbntiPXqOUZUPMECt-KheyfNF6GLsIPtj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1BFYxn4NY1k", "title": "📖 An all-in-one PDF reader for students! Read, highlight, learn! #study #productivity #software" },
+    { "id": "njJbH2DmPTM", "title": "Create mind maps with Kosmik" },
+    { "id": "UybZ-tYVvGk", "title": "The best PDF Reader for Students" }
+  ],
+  "playlists": [
+
+  ]
+}

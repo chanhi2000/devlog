@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Tb-1pG-bCpr2TikUKw0t9LmZMKfwzS842uqe9Xo7ni6b2acrxHPQugmWOP15ZuOLh633rFc3S6Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vbhrfgAEaik", "title": "문자열에서 별표 제거하기 | LeetCode 2390 Removing Stars From a String" },
+    { "id": "Rt-KdCpsmdc", "title": "Proxy(프록시)란?? Forward vs Reverse Proxy 차이점은 무엇일까? [시스템 디자인]" },
+    { "id": "CBVX_m593M0", "title": "Load Balancing? 로드 밸런싱이 뭔가요? 쉽게 이해하는 로드 밸런서의 기초 개념과 역할 [시스템 디자인]" },
+    { "id": "PQ0IYm8o9bk", "title": "시스템 디자인 101: 기초 가이드 [시스템 디자인]" },
+    { "id": "rNwlILG0BWU", "title": "브라우저/클라이언트의 개념, 역할 이해하기 [시스템 디자인]" },
     { "id": "XEOxO2VpTOc", "title": "neovim, 내가 무조건 설치하는 4가지 플러그인 소개, 코드 자동완성, 포맷팅 등 [개발자의 에디터]" },
     { "id": "PUDa4wWJbtw", "title": "\"제대로 하는 것\"과 \"빨리 하는 것\" [개발자의 덕목]" },
     { "id": "GAhlOHNn9IM", "title": "재귀함수? 최대한 쉽게 설명해 볼게요" },

@@ -6,6 +6,23 @@
     "banner": "https://yt3.googleusercontent.com/CemHdBYr2ulVuyFwdPemmZ5rPAQrYsHPYW7vjhJVFyxqauJ5KcDpbMXyO1UTa12X_wRw7lCETA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3JhVxL0e-oU", "title": "Node.js Atomics Explained" },
+    { "id": "fXndSzAL1Nc", "title": "A Beginner's Guide to Designing a Relational Database (Databases 101)" },
+    { "id": "mHMAneHNFhM", "title": "The only Integration Testing video you need to watch" },
+    { "id": "o-ym035R1eY", "title": "Domain-Driven Design: The Last Explanation You'll Ever Need" },
+    { "id": "tmGnpU8xOGE", "title": "\"Backends for Frontends\": what is it?" },
+    { "id": "l93N4XaQJok", "title": "I explain \"EventStorming\" with real examples" },
+    { "id": "-OjPhPV6Rjs", "title": "Here's how to Gracefully Shutdown your apps (with Node.js examples)" },
+    { "id": "bckIp4AYwO8", "title": "Rendering Strategies Explained: SSR, ISR, PPR, SSG & CSR" },
+    { "id": "FrFwHv0upfY", "title": "Node.js Performance: optimizing the Event Loop" },
+    { "id": "llTMYi4yyWM", "title": "New JavaScript \"Set Methods\" are here!" },
+    { "id": "1_EVy3tls0k", "title": "Node.js Event Loop Explained" },
+    { "id": "QBSKSihFt-I", "title": "Principles every developer should know (The Twelve-Factor App)" },
+    { "id": "1g_fBCGHLyg", "title": "Promises have just gotten nicer! (withResolvers)" },
+    { "id": "tIuZ6MuDpBs", "title": "I liked ranking these Design Patterns: Singleton, Module, Adapter, Decorator" },
+    { "id": "koky8mDdtAk", "title": "Low-Level JavaScript Performance Best Practices (Crash Course)" },
+    { "id": "smmL7a1Fgo4", "title": "I'm trying to rank Design Patterns (again)" },
+    { "id": "nHx8jzJCUP4", "title": "Figma's migration journey to TypeScript" },
     { "id": "bP4BeUjNkXc", "title": "How does Caching on the Backend work? (System Design Fundamentals)" }
   ]
 }

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/An4uUTBwPeyV3s8sZsHpCxL_TQnq5srpBG4VZ8JK_-_Y_WZZeGdaTFt_lpr7bjjk6Qesymxw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jEeQC6I8nlY", "title": "Yes, we CAN make Object.assign type-safe..." },
+    { "id": "Ozg5UqaD5fg", "title": "Going weirdly deep on console.log" },
+    { "id": "RV01eSRO_Zk", "title": "Node 23 fixes the worst thing about JavaScript" },
+    { "id": "Zsj1UlCsuio", "title": "5 Things They’ll NEVER Add To TypeScript" },
+    { "id": "sciBO_IaxTw", "title": "TypeScript 5.5 is a BANGER" },
+    { "id": "hRyU0bN7qhw", "title": "My \"as few deps as possible\" monorepo setup" },
     { "id": "Ow6y1snyIC4", "title": "LIVE: Writing my TypeScript Book" },
     { "id": "PzhxN1u6ziQ", "title": "Everyone's talking about gql.tada" },
     { "id": "zqz-lEHjJr4", "title": "Most React devs don’t understand generic components" },

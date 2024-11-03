@@ -1478,11 +1478,11 @@
     "banner": ""
   }, {
     "repo": "payloadcms/payload",
-    "desc": "The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.",
+    "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for buildi...",
     "officialSite": "https://payloadcms.com",
-    "topics": ["react", "nodejs", "javascript", "api", "graphql", "open-source", "cms", "express", "typescript", "mongodb", "dashboard", "headless", "content-management", "mit-license", "jamstack", "payload", "content-management-system", "headless-cms", "payloadcms"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["react", "nodejs", "javascript", "graphql", "open-source", "cms", "postgres", "express", "typescript", "mongodb", "nextjs", "headless", "content-management", "mit-license", "jamstack", "payload", "content-management-system", "headless-cms", "payloadcms"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/327089870/01936d93-1fb4-415e-8451-1d84dc56d00d"
   }, {
     "repo": "verdaccio/verdaccio",
     "desc": "📦🔐 A lightweight Node.js private proxy registry",
@@ -2804,13 +2804,6 @@
     "officialSite": "https://portkey.ai/features/ai-gateway",
     "topics": ["ai-gateway", "gateway", "generative-ai", "langchain", "llama-index", "llmops", "llms", "openai", "prompt-engineering", "router"],
     "avatar": "",
-    "banner": ""
-  }, {
-    "repo": "marimo-team/marimo",
-    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. ",
-    "officialSite": "https://marimo.io",
-    "topics": ["artificial-intelligence", "dag", "data-science", "data-visualization", "dataflow", "developer-tools", "machine-learning", "notebooks", "pipeline", "python", "reactive", "web-app"],
-    "avatar": "https://avatars.githubusercontent.com/u/98563464?v=4",
     "banner": ""
   }, {
     "repo": "maybe-finance/maybe",

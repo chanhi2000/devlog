@@ -178,6 +178,7 @@ head:
 - [`@ksh4704` / JavaScript \[ES6\] (1)](https://velog.io/@ksh4704/JavaScript-ES6-1)
 - [`@ksh4704` / JavaScript \[ES6\] (2)](https://velog.io/@ksh4704/JavaScript-ES6-2)
 - [`@sehyunny` / (번역) Ecma 인터내셔널에서 ECMAScript 2024를 승인했습니다: 새로운 기능은 무엇일까요?](https://velog.io/@sehyunny/ecmascript-2024)
+- [`@qkrtkdwns3410` / 제이쿼리의 `data()` 는 내부적으로 캐싱을 수행한다.](https://velog.io/@qkrtkdwns3410/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC%EC%9D%98-data-%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%88%98%ED%96%89%ED%95%9C%EB%8B%A4)
 
 <!-- END: velog.io -->
 

@@ -154,6 +154,7 @@ head:
 - [\[월간 HG Labs\] 10월 세미나용 보드 STM32F4-Seminar 보드 도착](https://m.blog.naver.com/chandong83/223630135628)
 - [HG_H7S_SOM V1 도착](https://m.blog.naver.com/chandong83/223638120480)
 - [ESP32-C3-CAN 웹서버와 CAN통신으로 LED 제어 데모 영상](https://m.blog.naver.com/chandong83/223641393000)
+- [STM32G4-FDCAN 소프트웨어 CAN 데이터 반복 전송 기능 동작 데모](https://m.blog.naver.com/chandong83/223648391709)
 
 <!-- END: chandong83 (blog.naver.com) -->
 

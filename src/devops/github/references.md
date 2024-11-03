@@ -67,6 +67,7 @@ tag:
 - [`@greencloud` / 쌈@뽕하게 Lighthouse 자동화하기](https://velog.io/@greencloud/%EC%8C%88%EB%BD%95%ED%95%98%EA%B2%8C-Lighthouse-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-ijcqk0uv)
 - [`@thd0427` / 깃허브와 지라 워크플로우 자동화](https://velog.io/@thd0427/%EA%B9%83%ED%97%88%EB%B8%8C%EC%99%80-%EC%A7%80%EB%9D%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%9E%90%EB%8F%99%ED%99%94)
 - [`@kwonhl0211` / Claude로 코드리뷰 경험 개선하기](https://velog.io/@kwonhl0211/Claude%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EA%B2%BD%ED%97%98-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+- [`@developerjhp` / 클릭 한번으로 Github PR을 ChatGPT에게 리뷰받기](https://velog.io/@developerjhp/%ED%81%B4%EB%A6%AD-%ED%95%9C%EB%B2%88%EC%9C%BC%EB%A1%9C-Github-PR%EC%9D%84-ChatGPT%EC%97%90%EA%B2%8C-%EB%A6%AC%EB%B7%B0%EB%B0%9B%EA%B8%B0)
 
 <!-- END: velog.io -->
 

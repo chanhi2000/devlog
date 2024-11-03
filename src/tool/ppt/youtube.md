@@ -34,5 +34,6 @@ head:
 <MyYouTubeItems jsonName="yu-LearnitTraining" /><!-- Learnit Training -->
 <MyYouTubeItems jsonName="yu-DanGalletta" /><!-- Dan Galletta -->
 <MyYouTubeItems jsonName="yu-fastpptofficial3508" /><!-- fastppt _net -->
+<MyYouTubeItems jsonName="yu-emmassam" /><!-- 엠마쌤 -->
 
 <TagLinks />

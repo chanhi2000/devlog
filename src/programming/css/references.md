@@ -82,6 +82,7 @@ tag:
 - [`@ksh4704` / HTML 정리(1)](https://velog.io/@ksh4704/HTML-%EC%A0%95%EB%A6%AC1)
 - [`@ksh4704` / 스타벅스 클론 코딩(1)](https://velog.io/@ksh4704/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A91)
 - [`@ksh4704` / 스타벅스 클론코딩(2)](https://velog.io/@ksh4704/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A92)
+- [`@superlipbalm` / (번역) CSS `content-visibility`를 이용해 렌더링 성능 향상 시키기](https://velog.io/@superlipbalm/improving-rendering-performance-with-css-content-visibility)
 
 <!-- END: velog.io -->
 

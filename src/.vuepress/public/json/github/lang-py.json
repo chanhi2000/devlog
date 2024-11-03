@@ -6604,11 +6604,11 @@
     "banner": ""
   }, {
     "repo": "PrefectHQ/prefect",
-    "desc": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+    "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
     "officialSite": "https://prefect.io",
-    "topics": ["automation", "data", "data-engineering", "data-ops", "data-science", "infrastructure", "ml-ops", "observability", "orchestration", "pipeline", "prefect", "python", "workflow", "workflow-engine"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["python", "infrastructure", "workflow", "data-science", "data", "automation", "pipeline", "workflow-engine", "orchestration", "data-engineering", "observability", "prefect", "data-ops", "ml-ops"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f97d57568fd2520f1da57da689b9d4287c2d55daed3b9fac2c619f49aa423928/PrefectHQ/prefect"
   }, {
     "repo": "Jeff-LiangF/streamv2v",
     "desc": "Official Pytorch implementation of StreamV2V.",
@@ -7430,11 +7430,11 @@
     "banner": ""
   }, {
     "repo": "THUDM/CogVideo",
-    "desc": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+    "desc": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
     "officialSite": "",
-    "topics": ["cogvideox", "llm", "sora", "video-generation"],
-    "avatar": "https://avatars.githubusercontent.com/u/48590610?v=4",
-    "banner": ""
+    "topics": ["video-generation", "image-to-video", "sora", "text-to-video", "llm", "cogvideox"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/b6188c549bf77ce35f4cd99330552af86dbc984e112ec9a48cdd7b0c92de6e0e/THUDM/CogVideo"
   }, {
     "repo": "evilsocket/opensnitch",
     "desc": "OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.",
@@ -7747,9 +7747,9 @@
     "repo": "Cinnamon/kotaemon",
     "desc": "An open-source RAG-based tool for chatting with your documents.",
     "officialSite": "https://cinnamon.github.io/kotaemon/",
-    "topics": ["chatbot", "llms", "open-source", "rag"],
-    "avatar": "https://avatars.githubusercontent.com/u/3265185?v=4",
-    "banner": ""
+    "topics": ["open-source", "chatbot", "rag", "llms"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/37dbf2b4d9b3bcea09434596c3211ed92edd0ff0833a15be20462d9df4f2a624/Cinnamon/kotaemon"
   }, {
     "repo": "slashback100/presence_simulation",
     "desc": "Home Assistant Presence Simulation",
@@ -8228,9 +8228,9 @@
     "banner": "https://opengraph.githubassets.com/d9fc077e4116518d71e6f691101087a47fc75ca2aeed7c542d1f1f6a02a7b182/rany2/edge-tts"
   }, {
     "repo": "iterative/datachain",
-    "desc": "AI-data warehouse to enrich, transform and analyze data from cloud storages",
+    "desc": "AI-data warehouse to enrich, transform and analyze unstructured data",
     "officialSite": "https://docs.datachain.ai",
-    "topics": ["ai", "cv", "embeddings", "data-analytics", "data-wrangling", "multimodal", "mlops", "llm", "llm-eval"],
+    "topics": ["machine-learning", "ai", "cv", "embeddings", "data-analytics", "data-wrangling", "multimodal", "mlops", "llm", "llm-eval"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/820144741/f8188bf4-8d51-4fd6-a981-844b206e1aad"
   }, {
@@ -8240,5 +8240,82 @@
     "topics": ["text-to-speech", "tts", "speech-synthesis"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/053002a6dd7cb05ced8dac4b3eda7c75482a9a74eefb588526ce810c8b70152e/rany2/edge-tts"
+  }, {
+    "repo": "dmd/morse",
+    "desc": "Morse code to email. Contribute to dmd/morse development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/579cf04c17881e5186142e8476cfccfed9d52e2dc6832f657f52ba71428f1927/dmd/morse"
+  }, {
+    "repo": "marimo-team/marimo",
+    "desc": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. : A reactive notebook for Python — run reproducible ...",
+    "officialSite": "https://marimo.io",
+    "topics": ["python", "data-science", "machine-learning", "reactive", "pipeline", "web-app", "data-visualization", "artificial-intelligence", "developer-tools", "dataflow", "notebooks", "dag"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0d6acc785e43eeb3a26c7382f38ac592da13351363e910cdb8e85c2fb768c8a7/marimo-team/marimo"
+  }, {
+    "repo": "timescale/pgai",
+    "desc": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
+    "officialSite": "",
+    "topics": ["ai", "postgresql", "rag", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/9f17ee97beb527ceaebbfe8cdf1ef42914078d42ebd370af68c8a9881ea294a3/timescale/pgai"
+  }, {
+    "repo": "infinition/Bjorn",
+    "desc": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potent...",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/809326864/0fe34573-8870-470b-a735-f515248200c0"
+  }, {
+    "repo": "LibraHp/GetQzonehistory",
+    "desc": "获取QQ空间发布的历史说说. Contribute to LibraHp/GetQzonehistory development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/506318cd6cb89c439586e208dc1902ef9c4d2278b9d34379596baf6ef810ee9f/LibraHp/GetQzonehistory"
+  }, {
+    "repo": "konstin/sudoku-in-python-packaging",
+    "desc": "Sudoku solving in python packaging. Contribute to konstin/sudoku-in-python-packaging development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/cbc4657f809351a7cb3a412e2f2ed3f1a78892da32f7ce01fdc0beaa7fc01938/konstin/sudoku-in-python-packaging"
+  }, {
+    "repo": "soimort/you-get",
+    "desc": ":arrow_double_down: Dumb downloader that scrapes the web",
+    "officialSite": "https://you-get.org/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3bdf29fd628c35e26449b46abebd2d04eed1a7d35c5efdbe83b98bff04bedb7b/soimort/you-get"
+  }, {
+    "repo": "ahmetsait/toolgit",
+    "desc": "Git Productivity Toolkit. Contribute to ahmetsait/toolgit development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d85d65fd871f837be1c0b2eb33c5f7c5cd8af5b85cc0c94d99deec80fbf5fa39/ahmetsait/toolgit"
+  }, {
+    "repo": "gregpr07/browser-use",
+    "desc": "Open-Source Web Automation library with any LLM. Contribute to gregpr07/browser-use development by creating an account on GitHub.",
+    "officialSite": "https://discord.gg/uaCtrbbv",
+    "topics": ["python", "agent", "automation", "browser", "web", "openai", "llm", "anthropic"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/be7eaeb2f54fa29dd9b6df6d3579cb5b2951b7fcc7ee869ab29c191932dfd2cb/gregpr07/browser-use"
+  }, {
+    "repo": "Tencent/Tencent-Hunyuan-Large",
+    "desc": "Contribute to Tencent/Tencent-Hunyuan-Large development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0270e93fc11628e5036ef1f87fdc241e8a3b48f95408e285c3341b2d762104f1/Tencent/Tencent-Hunyuan-Large"
+  }, {
+    "repo": "cjdrake/seqlogic",
+    "desc": "Sequential Logic. Contribute to cjdrake/seqlogic development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/efd0b0cefdb0d2597df5a0657c427b95a4af01999d011cd11b19f4871705aa7d/cjdrake/seqlogic"
   }
 ]

@@ -227,6 +227,7 @@ tag:
 - [`@thd0427` / Android Baseline Profile란](https://velog.io/@thd0427/Android-Baseline-Profile%EB%9E%80)
 - [`@thd0427` / 전역으로 사용할 수 있는 스낵바](https://velog.io/@thd0427/%EC%A0%84%EC%97%AD%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%8A%A4%EB%82%B5%EB%B0%94)
 - [`@dnr6054` / \[Android\] 기본 레이아웃들](https://velog.io/@dnr6054/Android-basic-layouts)
+- [`@dnr6054` / \[Android\] Project Structure](https://velo.io/@dnr6054/Android-Project-Structure)
 
 <!-- END: velog.io -->
 

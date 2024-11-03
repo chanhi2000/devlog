@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "sane1090x0",
+    "name": "sane1090x",
+    "profile": "https://yt3.googleusercontent.com/wxkDmWoTp-fINSAOjpupgAtY6Kipoc1whVqxOKXbRayHdFAn9QQ2nIbdS6Ccx9M1SLg9hs961g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dUCjZwsbnjG67YYfVkHgOOjb6jF6Q575Heqttl_7cm458oKimEZhzbo9Doo3LrNLwd8_kNJnZFg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2X7VGmzsL9g", "title": "How to switch from Windows 11 to Arch Linux (including BIOS steps)" },
+    { "id": "lC33ETVzhaA", "title": "How to Customize Spotify and install themes using Spicetify" },
+    { "id": "FVZ-8EtwXBY", "title": "Ricing Hyprland Part 3: GTK Theme" },
+    { "id": "UOniMj7bkh4", "title": "Never knew [Hyprland] had different animations than the default!" },
+    { "id": "qLLgoRaA4Es", "title": "How to rice Hyprland (Part 1)" },
+    { "id": "_xKIVzZAaGM", "title": "How to use pywal to change colors according to wallpaper" },
+    { "id": "EajYMqfdAEo", "title": "Ricing Hyprland Part 2: Brightness, Volume and Modules" }
+  ],
+  "playlists": [
+
+  ]
+}

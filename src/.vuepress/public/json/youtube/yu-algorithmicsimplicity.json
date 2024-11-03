@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "algorithmicsimplicity",
+    "name": "Algorithmic Simplicity",
+    "profile": "https://yt3.googleusercontent.com/oEE_aamU2yoNsgLD7tZk4y-cQjfRlH3Fg4s-YCmdMQOyxT738Y36zK_texS94fFTRxlQIo6f=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "N6Piou4oYx8", "title": "MAMBA from Scratch: Neural Nets Better and Faster than Transformers" },
+    { "id": "zc5NTeJbk-k", "title": "Why Does Diffusion Work Better than Auto-Regression?" },
+    { "id": "kWLed8o5M2Y", "title": "Transformer Neural Networks Derived from Scratch" }
+  ],
+  "playlists": [
+
+  ]
+}

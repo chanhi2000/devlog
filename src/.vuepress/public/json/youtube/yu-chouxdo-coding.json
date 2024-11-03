@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "chouxdo-coding",
+    "name": "슈도코딩",
+    "profile": "https://yt3.googleusercontent.com/iobnDkPxmnV8rkY4k7MewR3b5uvek4o2Wc4GNNLmOnSGOk70Yz5BCTGYDrwKoYKDHjOzbMmymg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "fF0f01OYSsI", "title": "리액트 네이티브 (React Native Authentication Flow) 로그인 플로우 정복!" },
+    { "id": "iOb6Fl-F5XU", "title": "리액트 네이티브 (React Native) 네비게이션 구조 설계" },
+    { "id": "LvP7wwbd2dk", "title": "리액트 네이티브 (React Native) 강의 OT : 배우면 이득!" },
+    { "id": "nOjirlwi10o", "title": "리액트 네이티브 (React Native) 강의 1강 : 개발 환경 세팅 (Expo Go)" },
+    { "id": "3Oa5QJJf5kM", "title": "리액트 네이티브 (React Native) 강의 2강 : 화면 그리기" },
+    { "id": "6XgeL9H8n7M", "title": "리액트 네이티브 (React Native) 강의 3강 : 화면 이동, React Navigation v6" }
+  ],
+  "playlists": [
+
+  ]
+}

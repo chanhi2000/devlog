@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "idoevergreenx",
+    "name": "Ido Evergreen",
+    "profile": "https://yt3.googleusercontent.com/yP7L1duO4gR6zoKuQhsern47X06Estah_KwcTCc5Jbtvyt50DoIP5k0PE4dphFosPvaErwupcA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zCRGXg3dIWg", "title": "5 | Framer Motion React Tutorial: Deep Dive - Animate property" },
+    { "id": "V-5rVUOoxqk", "title": "6 | Framer Motion React Tutorial: Deep dive - Transition property" },
+    { "id": "kWfiIvoHIsI", "title": "Awwwards Page Transition with Framer Motion and Nextjs" },
+    { "id": "UBYNX9dEwlU", "title": "Text Animation with Framer motion" },
+    { "id": "j3ekdZWyJeI", "title": "Build an awwwards navigation with Nextjs and Framer Motion" },
+    { "id": "F1J_DAWCqW0", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (Intro)" },
+    { "id": "M8ZyXt9uoa0", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (Part 1)" },
+    { "id": "trTcVLi8ffI", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (part 2)" },
+    { "id": "0uy5Z3J66lc", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (part 3)" },
+    { "id": "QhrEc3i4VM0", "title": "Build and deploy a Full Stack coolors clone with Nextjs 14, Supabase, Clerk, and Typescript" },
+    { "id": "9qZ5HTIb4l4", "title": "Build colors palette generator app with Nextjs 14, tailwindcss || No talking" },
+    { "id": "QyQZXyMGjAc", "title": "Build a Video Meeting App with Nextjs 14 and ZEGOCLOUD" },
+    { "id": "BKVlp4C9tA0", "title": "Nextjs 14 and Framer Motion - The basics" },
+    { "id": "Swdmh6hbxAE", "title": "Build Palette SVG Animations  || Next.js || Framer Motion || Tailwind CSS" },
+    { "id": "7qTAxmutZzE", "title": "ReactJS discussion  - Gitcoder" },
+    { "id": "gc49cEpf-Uo", "title": "Getting started with frontend architecture - Maxi Ferreira" },
+    { "id": "zlr_FlT4NT0", "title": "Getting started with astro - Ben Holmes" },
+    { "id": "SU4bBxPBaPc", "title": "Next.js Type-Safe URL State Management Using nuqs - François Best" },
+    { "id": "eYTADLHNuzg", "title": "PostCSS, Logux & The Future of CSS - Andrey Sitnik" },
+    { "id": "1nrjFAGWcho", "title": "TanStack Form For Reactjs Form Handling" },
+    { "id": "fgpAkPGZdKg", "title": "nuqs Next.js Type-Safe URL State Management" },
+    { "id": "QhrEc3i4VM0", "title": "Build and deploy a Full Stack coolors clone with Nextjs 14, Supabase, Clerk, and Typescript" },
+    { "id": "3-2rVHBkgUg", "title": "1 |  Framer Motion React Tutorial: Deep Dive - Introduction" },
+    { "id": "BKVlp4C9tA0", "title": "Nextjs 14 and Framer Motion - The basics" },
+    { "id": "QyQZXyMGjAc", "title": "Build a Video Meeting App with Nextjs 14 and ZEGOCLOUD" },
+    { "id": "9qZ5HTIb4l4", "title": "Build colors palette generator app with Nextjs 14, tailwindcss || No talking" },
+    { "id": "0uy5Z3J66lc", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (part 3)" },
+    { "id": "trTcVLi8ffI", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (part 2)" },
+    { "id": "M8ZyXt9uoa0", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (Part 1)" },
+    { "id": "F1J_DAWCqW0", "title": "Build and deploy a Full Stack coolors clone (Nextjs 14, Supabase, Clerk, and Typescript) (Intro)" },
+    { "id": "j3ekdZWyJeI", "title": "Build an awwwards navigation with Nextjs and Framer Motion" },
+    { "id": "UBYNX9dEwlU", "title": "Text Animation with Framer motion" }
+  ],
+  "playlists": [
+
+  ]
+}

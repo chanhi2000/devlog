@@ -2708,5 +2708,40 @@
     "topics": ["mysql", "go", "markdown", "golang", "tsv", "postgres", "json", "csv", "sql", "database", "xml", "excel", "xlsx", "sqlserver", "jsonl", "jsona", "data-wrangler", "azure-sql-edge"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/0ab88a6a67fb751ca9b122e64a6493457e587a39085ec9c62579712b75cba785/neilotoole/sq"
+  }, {
+    "repo": "trufflesecurity/trufflehog",
+    "desc": "Find, verify, and analyze leaked credentials. Contribute to trufflesecurity/trufflehog development by creating an account on GitHub.",
+    "officialSite": "https://trufflesecurity.com",
+    "topics": ["security", "credentials", "secret", "secret-management", "verification", "secrets", "dynamic-analysis", "scanning", "hacktoberfest", "precommit", "security-tools", "devsecops", "trufflehog"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/77726177/4bac5782-b7e4-44fe-bc89-46cc69e9f36a"
+  }, {
+    "repo": "AlexxIT/go2rtc",
+    "desc": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "officialSite": "https://github.com/AlexxIT/Blog",
+    "topics": ["streaming", "h264", "rtsp", "ffmpeg", "mp4", "hls", "rtmp", "webrtc", "mjpeg", "rtsp-server", "media-server", "ngrok", "http-flv", "home-assistant", "homekit", "rtp", "h265", "webcam-streaming", "hassio"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/526081371/c49bde42-af73-45f6-aada-1923c4db8619"
+  }, {
+    "repo": "JohannesKaufmann/html-to-markdown",
+    "desc": "⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.",
+    "officialSite": "https://html-to-markdown.com",
+    "topics": ["go", "html", "markdown", "cli", "golang", "converter", "html-to-markdown"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/133520039/d7e0f645-955d-474e-8709-e7b72560dae9"
+  }, {
+    "repo": "dim0x69/mdx",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/86ebb118649fcda123b97c84267628c7b589fd07a68e5c572db6d3ff18e02fc3/dim0x69/mdx"
+  }, {
+    "repo": "BemiHQ/BemiDB",
+    "desc": "Postgres read replica optimized for analytics. Contribute to BemiHQ/BemiDB development by creating an account on GitHub.",
+    "officialSite": "https://bemidb.com",
+    "topics": ["replication", "analytics", "postgresql", "data-warehouse", "olap", "parquet", "iceberg", "duckdb", "data-movement", "data-lakehouse", "zero-etl"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/93632fa27e2cfdd8ad63ce28e93c3e15ba94e72c3bbd804f5e3777fccd8d58dd/BemiHQ/BemiDB"
   }
 ]

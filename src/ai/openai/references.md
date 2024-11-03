@@ -113,6 +113,8 @@ head:
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)
 - [`@ZVA` / 생각하는 역량과 오픈AI Strawberry의 역설](https://brunch.co.kr/@@ZVA/734)
 - [`@2hV3` / 한 달간 코칭 50회, 경쟁력 있는 포트폴리오란? - 모든 시간을 GPTs에 담았어요](https://brunch.co.kr/@@2hV3/252)
+- [`@ZVA` / 챗GPT와 생산성 향상의 역설](https://brunch.co.kr/@@ZVA/742)
+- [`@R17` / 권력의 속성과 인간의 심리 - ChatGPT o1-preview](https://brunch.co.kr/@@R17/652)
 
 <!-- END: brunch.co.kr -->
 

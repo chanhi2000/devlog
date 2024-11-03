@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "L44q9-ywFdE", "title": "Where Can Python Turtle Be Used? Why Do We Need to Learn Python Turtle?" },
+    { "id": "Ney-kcxQ2y4", "title": "Lesson 7:  User Input to Control the Turtle." },
+    { "id": "3sUQuHITSe8", "title": "Lesson 6: Drawing Nested Squares with Python's Turtle Module" },
     { "id": "5Y8jPbtBOtI", "title": "Christmas Tree, Python Turtle #shorts" }
   ]
 }

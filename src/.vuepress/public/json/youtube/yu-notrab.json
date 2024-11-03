@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "notrab",
+    "name": "Jamie Barton",
+    "profile": "https://yt3.googleusercontent.com/SywUI8QFIlYQVk8gzxhgUyZtlScmGtEJ5iEUOiDCtaMuIZStrAqbB8WWsJx3ofxeWfK8Grd5dg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "-OMUWYtvO34", "title": "Build a Database Per User App with Turso" },
+    { "id": "7zdKfeqxkYQ", "title": "Fetching CMS data using Astro Content Layer" },
+    { "id": "H3iO8sbvUQg", "title": "Publish to NPM with GitHub Actions" },
+    { "id": "xIKy5LXoYAM", "title": "Use AI instead of writing SQL" },
+    { "id": "zBCdjkDOG44", "title": "Save Resend emails to your Turso Database" },
+    { "id": "Q783GL2ydtg", "title": "Icons made easy with Astro Icon" },
+    { "id": "6YR04Xv9B4I", "title": "5 Best Free SQLite GUIs" },
+    { "id": "EHVBqHF34hI", "title": "Database Migrations made easy with Geni" },
+    { "id": "XlIaBYA2GnI", "title": "Configure Tailwind CSS Variables Using Environment Variables" },
+    { "id": "4WcGLeG4hpc", "title": "Deploy Next.js to Fly.io with Docker" },
+    { "id": "LbTsjgLg2Vs", "title": "Give each of your users their own SQLite database" },
+    { "id": "hFlZJzY2HNM", "title": "Build beautiful documentation websites with Mintlify" },
+    { "id": "2ZBHpz5GaXM", "title": "A new type-safe developer experience GraphQL developers" },
+    { "id": "UF3fGEoX4NM", "title": "GraphQL Explorer by Inigo" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -44,5 +44,12 @@
     "desc": "JS library for creating high-performance grid-based applications",
     "officialSite": "https://spread-grid.tomasz-rewak.com/",
     "topics": ["canvas", "dash", "grid", "high-performance", "interactive", "javascript", "plotly", "react", "reactjs", "table"]
+  }, {
+    "repo": "rbbydotdev/someday",
+    "desc": "Free and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite. https://someday-demo.ver...",
+    "officialSite": "",
+    "topics": ["react", "typescript", "scheduling", "google-app-script", "vite", "shadcn-ui"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/00ce5d7b85da79aaf9628fb12c0a892224de8ba4c542cc96f09db8438fe4abbd/rbbydotdev/someday"
   }
 ]

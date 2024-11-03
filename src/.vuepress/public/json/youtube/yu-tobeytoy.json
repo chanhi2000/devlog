@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "tobeytoy",
+    "name": "tobey_toy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kcYSDDM9HhG1TVznIVUWfEA1Jl0w4cb1E3izN9K3cbkgE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HPbfg03Z7r7fTbPg9TwzBOMq_maT3IPphE0H9FmqTfGEMFt89PsnYiJHQjKX6XGhykx7yUyxpA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EH5tIzoM5bw", "title": "20강 디바이드 모델링에서 오브젝트 붙이기 Attaching Objects in Divide Modeling (Eng Sub)" },
+    { "id": "zVa4CdGg1SE", "title": "[Lesson 19] 다이나메쉬와 디바이드 모델링의 차이 Differneces between Dynamesh and Divide Modeling (Eng Sub)" }
+  ],
+  "playlists": [
+
+  ]
+}

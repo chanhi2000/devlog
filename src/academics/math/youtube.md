@@ -69,5 +69,7 @@ head:
 <MyYouTubeItems jsonName="yu-TheMathSorcerer" /><!-- The Math Sorcerer -->
 <MyYouTubeItems jsonName="yu-EpsilonDeltaMain" /><!-- EpsilonDelta -->
 <MyYouTubeItems jsonName="yu-ToposInstitute" /><!-- Topos Institute -->
+<MyYouTubeItems jsonName="yu-algorithmicsimplicity" /><!-- Algorithmic Simplicity -->
+<MyYouTubeItems jsonName="yu-nywoo622" /><!-- 수학사교육의 모든 것 -->
 
 <TagLinks />

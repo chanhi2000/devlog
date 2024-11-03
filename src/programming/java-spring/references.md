@@ -169,6 +169,7 @@ head:
 - [`@qkrtkdwns3410` / JPA 공부 메모](https://velog.io/@qkrtkdwns3410/JPA-%EA%B3%B5%EB%B6%80-%EB%A9%94%EB%AA%A8)
 - [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)
 - [`@qkrtkdwns3410` / Spring boot 3.x Qdsl group by 사용시 에러](https://velog.io/@qkrtkdwns3410/Spring-boot-3.x-Qdsl-group-by-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC)
+- [`@qkrtkdwns3410` / JTE 템플릿 엔진](https://velog.io/@qkrtkdwns3410/JTE-%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%97%94%EC%A7%84)
 
 <!-- END: velog.io java -->
 
@@ -796,6 +797,7 @@ head:
   <!-- END: shout-to-my-mae -->
 - [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
   - [\[Spring AOP\] Consumer `onMessage()` 비동기 수신 로깅](https://splendidlolli.tistory.com/m/783)
+  - [\[Spring\] DTO 매핑시 특정 키만 `null` 값](https://splendidlolli.tistory.com/m/786)
   <!-- END: splendidlolli -->
 <!-- END: tistory.com -->
 

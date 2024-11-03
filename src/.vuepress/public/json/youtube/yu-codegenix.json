@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "codegenix",
+    "name": "Code Genix",
+    "profile": "https://yt3.googleusercontent.com/aJORAs1-L1Q2OCXEC-L66C_bwkBPjwb_MJGvfx1TYQk_Lz_8PgmpnDl8LBqBW0NeTyCOs7ca=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jbffTByg4onyboHjP_QXfrOi9TrGv6zfk2tdNFnL6-a4Cg602uRM2TrG-sazpGS8RUBmGs5_cQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bhTh3fprguQ", "title": "Build a File Manager in React: Multi Uploads, Progress Bars, and Smooth Animations!" },
+    { "id": "HSr7pMSjC1I", "title": "Dynamic Forms in React using Zod & React Hook Form (BEST Strategy!)" },
+    { "id": "Nup-JM3GBxA", "title": "3D Parallax Hover Effect in React" },
+    { "id": "vyU5mJGCJMw", "title": "Drizzle ORM Tutorial - Full Drizzle Course for Beginners" },
+    { "id": "7anLE_RoDwU", "title": "React Hook Form Tutorial (Zod + MUI) - Full Beginner to Advanced Course" },
+    { "id": "qURCyd3ycfw", "title": "SWR React Tutorial - Complete Course for Beginners" },
+    { "id": "3e-higRXoaM", "title": "React Query Tutorial V5 - Full Tanstack Query Tutorial  for Beginners" },
+    { "id": "SVQiDX0CbDs", "title": "Master the React ecosystem in 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

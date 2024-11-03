@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/PBDu56KsubZzrdQAMwzzkxGO3z6fpadiRtVlwBr7E472VKBQzCgPHA_TOBfNPYrVfZUXnx8U=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9aB1o5EcQro", "title": "#7 Carousel in alpinejs and tailwindcss" },
+    { "id": "dlbG6YWQC7k", "title": "#8 checkbox in alphinejs and tailwindccss" },
+    { "id": "rW3xVeMtBa8", "title": "#9 Drag and drop file upload alphinejs and tailwindccss" },
+    { "id": "EZFGMDuVO8M", "title": "make all thing in one command in laravel #coding #autocomplete #laravelvue #project #programming" },
+    { "id": "UA2w9OgnQS0", "title": "#4 Dropdown in alpinejs and tailwindcss" },
+    { "id": "pk66dhaSPSk", "title": "#6 Color Picker in alpinejs and tailwindcss" },
+    { "id": "edkcEh6X8S0", "title": "#5 DatePicker in alpinejs and tailwindcss" },
+    { "id": "nD-4LwVeUcU", "title": "🎥Quick Tip: How to Use SVGs for Free from FontAwesome.com! 💡" },
     { "id": "D3aVtK6cMno", "title": "Complete crowdfunding app in solidity smart contract" },
     { "id": "QVeRUUPIYY8", "title": "#8 Hostel management system in laravel and inertiajs | Room crud" },
     { "id": "7YMmlOJeOjE", "title": "#7 Hostel management system in laravel and inertiajs | Room Category crud" },

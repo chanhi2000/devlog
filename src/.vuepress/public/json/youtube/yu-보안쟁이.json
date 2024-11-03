@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "보안쟁이",
+    "name": "보안쟁이",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_niggDUJw7OGDQlRZ73mpQMJZxTiV1rAHl5Z2hHL_fQN1M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r2HqSMz7LI1m_xT_ERYNw08SHwv33PzajD2diNbR_O-egVRT0lJ3XYt7WSDHHO6rS5z0M1EYCA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JR4J1d45WCI", "title": "Global IT chaos continues, MS Cloud (Azure) failure? No~ Crowdstrike failure!!" },
+    { "id": "VYrZdO0Qxls", "title": "IP를 알아내서 추적해 보기 : IP로 어디까지 알 수 있을까?(사이버수사관 IP 수사 방법)" }
+  ],
+  "playlists": [
+
+  ]
+}

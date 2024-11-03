@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "TiffInTech",
+    "name": "Tiff In Tech",
+    "profile": "https://yt3.googleusercontent.com/MkbhHI1tJM0t0MtedzzDxa8OWhPftvHfmFPN-VwYcvrgXq4iSXYyI4ZLZMOOST6IhhIZsjHUSKk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8Sx8hKTKSfDlebXLoHSqUE4ycAN4aYvu9M7XTnpPlpv69Ty6rGI2w8w92_f64t-0WuVLTA0epg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UmuYiJuw3uM", "title": "How to Install and Use Claude's new AI Agent | Letting AI Control your Computer" },
+    { "id": "0yXYSrTfo4E", "title": "Is this the FUTURE of Software Development?" },
+    { "id": "fSssHBPUlHU", "title": "Want to Build Apps in MINUTES?  Coding with Cursor AI and Python" },
+    { "id": "DY1OeOtOjhg", "title": "How To Learn Technical Things Fast (with the help of AI)" },
+    { "id": "DDzUumF-pok", "title": "Top 10 FREE Ivy League Courses to Upskill in Tech" },
+    { "id": "ZbTEnMHzBLM", "title": "Top 5 skills you NEED to work in tech" },
+    { "id": "JLJtuEDcO1g", "title": "Coding with Cursor AI | Is this the Future of Coding?!" },
+    { "id": "ZVc9I_v2IGo", "title": "Automating My Life With Python: Using Computer Vision to Choose The BEST Glasses For Me" },
+    { "id": "OEFDCbD8jgw", "title": "Snapdragon X Elite in Action: Building with local AI Chatbots on the NEW CoPilot + PC" },
+    { "id": "4Vc_b2XYUj8", "title": "The Most Underrated Tech Skills for 2025 (That Could Skyrocket Your Career)" },
+    { "id": "i-54qMoB74g", "title": "5 Non-Technical Skills That Will Make You Stand Out in Tech Interviews" },
+    { "id": "iB9kZhwyRTE", "title": "How To Become a Successful Freelance Developer & Other Tech" },
+    { "id": "OukxehGS9dQ", "title": "Automating my life with Python: Using Computer Vision to Detect Bad Posture" },
+    { "id": "AsSn-QQwzao", "title": "The Most Critical Tech Skill for 2025 (And What's Becoming Obsolete)" },
+    { "id": "rgmADC412YE", "title": "The BIGGEST Tech News You Missed This Past Week | Is OpenAI in Trouble?" },
+    { "id": "QainWElWQQc", "title": "How I would learn Python if I was to start all over again" },
+    { "id": "tYnb2V8mz6w", "title": "Is It Worth Getting Tech Certifications In 2025?" },
+    { "id": "5HEha9taCcM", "title": "Cybersecurity Trends and Essential Skills for 2025" },
+    { "id": "uW1Enf1diDQ", "title": "Are No-Code/Low-Code Development Platforms the Future?" },
+    { "id": "YXTvl_yNU-4", "title": "What Are The Highest-Paying Roles in AI/ML (and how to get them)" },
+    { "id": "fiTe7t6Hy8E", "title": "Claude 3.5 Sonnet INCREDIBLE Coding Ability | Building Games in Javascript and React" },
+    { "id": "KHbzS1ta-P4", "title": "Automating My Life With Python: Using Computer Vision to Make Me Invisible" },
+    { "id": "9eprsQJhfPY", "title": "Learning Cybersecurity FAST with AI" },
+    { "id": "o9Xj2RyrMPA", "title": "Top 4 Tech Trends for 2024 And Beyond" },
+    { "id": "P7e5-n9FuXU", "title": "Code With Me: Automating My Life With Python | Build a file organizer" },
+    { "id": "fXXduZH7yoA", "title": "Tech Making you Feel Overwhelmed? You are Not Alone" },
+    { "id": "z8ihElIX2bw", "title": "Revealing the Truth About AI and Software Engineering Jobs" },
+    { "id": "k6p28-hyDBE", "title": "Automating My Life with Python | Using Computer Vision to Detect How Often I Drink Coffee" },
+    { "id": "LXsdt6RMNfY", "title": "Automating My Life with Python: The Ultimate Guide | Code With Me" },
+    { "id": "KJ9vJBBiVBk", "title": "The NEW ChatGPT is HERE! ChatGPT-4o Let's Test Its Coding Abilities" },
+    { "id": "xV0B1Y0tem0", "title": "Code With me Using Python to Build an Expense Tracker App" },
+    { "id": "q_iCtI-WWA0", "title": "Why You Can't Stick to Learning New Technical Things" }
+  ],
+  "playlists": [
+
+  ]
+}

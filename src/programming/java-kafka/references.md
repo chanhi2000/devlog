@@ -57,6 +57,7 @@ head:
 - [`@qkrtkdwns3410` - 카프카 멱등성 프로듀서에 대해..](https://velog.io/@qkrtkdwns3410/%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C%EC%97%90-%EB%8C%80%ED%95%B4)
 - [`@joshuara7235` / Kafka 를 찍먹해보자. - feat. Transactional Outbox Pattern](https://velog.io/@joshuara7235/Kafka-%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Transactional-Outbox-Pattern)
 - [`@broccolism` / \[Kafka\] KRaft 모드에서 컨트롤러의 정체 파헤치기](https://velog.io/@broccolism/KRaft-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%9D%98-%EC%A0%95%EC%B2%B4-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
+- [`@broccolism` / 데이터 스트림이 무엇이냐는 질문에 제대로 대답해보기](https://velog.io/@broccolism/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%83%90%EB%8A%94-%EC%A7%88%EB%AC%B8%EC%97%90-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8C%80%EB%8B%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 <!-- END: velog.io -->
 

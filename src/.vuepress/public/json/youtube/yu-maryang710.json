@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "maryang710",
+    "name": "마량 maryang",
+    "profile": "https://yt3.googleusercontent.com/5n2-CA4mExa-k1sRFMEdt0jHJA1ZGz8-mumIf4Urpm26bCVrVsCoczo-wKQLDsVXr7c-D_Zr-_8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/injEpxYH0VbY9HArp-Md6XAl8jd7Vcn4oN4XWWfKmMyYUyyWGBJKFj9JEvflKA6JTfFS6VO7ATg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "REZ0rrgphEs", "title": "사수 없는 주니어 개발자가 성장하는 8가지 방법" },
+    { "id": "U9afsNTi_bY", "title": "서비스 개발이 어려운 이유, 개발팀이 일하는 방식 이해하기 (커리어, 애자일, OKR)" },
+    { "id": "8J-t93CNQQI", "title": "개발자가 성과를 증명하는 방법 | 로깅과 A/B테스트 개념부터 개발까지" },
+    { "id": "dyENPJdtsmQ", "title": "개발자가 업무효율을 높이는 방법 | 슬랙(Slack)봇 개념부터 개발까지" },
+    { "id": "6P1JukUVMuM", "title": "잘나가는 스타트업의 협업툴과 커뮤니케이션 방법" }
+  ],
+  "playlists": [
+
+  ]
+}

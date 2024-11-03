@@ -41,5 +41,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "karthink/gptel",
+    "desc": "A simple LLM client for Emacs. Contribute to karthink/gptel development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["emacs", "org-mode", "llms", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/610038902/2af098f1-9230-4166-ad18-f02cc3ca2a85"
   }
 ]

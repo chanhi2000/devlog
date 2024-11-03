@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "개발하는약사",
+    "name": "개발하는 약사 DevPharmacist",
+    "profile": "https://yt3.googleusercontent.com/9u5UkYN3K93Bp27W2vucUgDIIwuxZocRJVlR5iMfMLeOv_4GGDzLvUfbrOFOy0lhz2pu1S0poSs=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gNSmdUxIZLE", "title": "인공지능이 3분만에 서버를 만드는데, 개발자는 무엇을 해야 할까요?" },
+    { "id": "HUyt-aKplXw", "title": "인공지능 시대 개발자의 전망 영상에 달린, 좋은 댓글 같이 읽기" },
+    { "id": "-agcWxYYNGU", "title": "코딩에 도움이 되었던 공부와 훈련들. 수학, 페르미추론, 매킨지사고방식, 암산연습" },
+    { "id": "dT3VEKewWHI", "title": "홈서버 구축을 적극 추천하는 이유. 학습과 경험은 기본, 월5000원으로 초기서비스 운영까지?" },
+    { "id": "VjmuXXKZjUM", "title": "LLM 서비스 기획-개발시 고려해야 하는 것. 문장 자동완성 기능 일부 시연(코파일럿 유사 기능)" },
+    { "id": "JbzttF0hocY", "title": "함수형 프로그래밍을 하게 된 이유와 함수형 프로그래밍에 대한 생각." },
+    { "id": "ptbi6Z5Q7tw", "title": "함수형 프로그래밍, 모나드, 펑터 먼저 공부하지 마세요. 대신 이렇게 접근해보세요." },
+    { "id": "DeNhlrJaG0c", "title": "코딩, 왜 하시나요? 저는 이래서 합니다." },
+    { "id": "lBpA4LF52EM", "title": "비전공 40대가 독학으로 개발자, CTO가 된 개발 공부법." }
+  ],
+  "playlists": [
+
+  ]
+}

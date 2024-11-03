@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/tzHfGYzu6qkZpCd-nn0c58mfvimB7mJoeCyR7Xi4Is8WQqijstRr-dqGEFtbNWtwxuhE1K7P=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lHovlh-9qwo", "title": "SidebarAdaptable in iPadOS 18" },
+    { "id": "TzEU-p2uUto", "title": "@Previewable in Xcode 16 Previews" },
+    { "id": "YN_heU6fGbY", "title": "Zoom/Hero Navigation Transitions in iOS 18" },
+    { "id": "QaSX-uLo4L4", "title": "Build Widgets for the Control Center (& Lock Screen) for iOS 18" },
+    { "id": "RuuuIS5cEnM", "title": "ControlGroup & ButtonRole in SwiftUI Menu" },
+    { "id": "1CPbCmz0c6w", "title": "Read ScrollPosition & Change Starting Point in iOS 18" },
+    { "id": "6c-cNLfLsco", "title": "Horizontal Layouts on macOS (SwiftUI)" },
     { "id": "8ToDo6ZX1nI", "title": "WidgetKit Masterclass 2024" },
     { "id": "nLo_vVKVNWM", "title": "Stop using GeometryReader in SwiftUI" },
     { "id": "8hlWCPsUQqk", "title": "Refresh SwiftUI View Programmatically" },

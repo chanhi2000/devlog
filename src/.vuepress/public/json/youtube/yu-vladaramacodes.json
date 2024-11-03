@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "vladaramacodes",
+    "name": "Vlad Arama",
+    "profile": "https://yt3.googleusercontent.com/v7YWKSPWi3xyrM35RAFbqOCs3bCOlv9qNQyoc3wFklMpshjluYiZegt8JJx9CUrp1csh-ycv=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xI3UKE-3sW4o99ODhHjQLPgvRKu7co0CKtMX3B_Sm7Um4BRSykAqBcXOYk_XNVtWUraB3egRYQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zA-RgffLDN8", "title": "This Is The Future Of Software Engineering" },
+    { "id": "RDA9ieeY_No", "title": "Best Tech Stacks to Build Startups" },
+    { "id": "J5ADNzRuf-4", "title": "This is WHY You Can't Land a Software Engineering Job" },
+    { "id": "Tc56oUcb4WY", "title": "Why Are Software Engineers Paid So Much ?" },
+    { "id": "84WhZ1OWTNU", "title": "STOP Contributing to Open Source" }
+  ],
+  "playlists": [
+
+  ]
+}

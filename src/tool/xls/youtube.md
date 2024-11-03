@@ -109,5 +109,6 @@ head:
 <MyYouTubeItems jsonName="yu-hantip" /><!-- 짤막한 강좌 -->
 <MyYouTubeItems jsonName="yu-moonbird.thinker" /><!-- 달새는 달만 생각한다 -->
 <MyYouTubeItems jsonName="yu-zzangsaem" /><!-- 짱샘 -->
+<MyYouTubeItems jsonName="yu-ZAcharyIndy" /><!-- ZAchary Indy -->
 
 <TagLinks />

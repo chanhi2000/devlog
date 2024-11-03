@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "devlearnllm",
+    "name": "LLMs for Devs",
+    "profile": "https://yt3.googleusercontent.com/0oGJyhd-mMimTr_cjbf1M5vZbuAKO-lfU_ugyAs7On4qxnzM3z8bM0YtwT9mc3GB8y3Ea1mD2g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "IJNbPbDRYF0", "title": "Onboard new users faster by scraping their websites and use LLM to extract info (Groq / Firecrawl)" },
+    { "id": "vSz5-KeRyHs", "title": "Agentically scrape the web with Firecrawl & LangGraph (LangChain)" },
+    { "id": "d_WwEdxyuGs", "title": "Don't naive RAG do hybrid search instead (Pinecone Weaviate or pgvector + full text search & rerank)" },
+    { "id": "QxHE4af5BQE", "title": "How to scrape the web for LLM in 2024: Jina AI (Reader API), Mendable (firecrawl) and Scrapegraph-ai" },
+    { "id": "RkWor1BZOn0", "title": "5 tiers of long-term memory and personalization for LLM applications (in-person workshop)" },
+    { "id": "0gPh18vRghQ", "title": "Scrape any website with OpenAI Functions & LangChain" },
+    { "id": "oeabcxnK1cs", "title": "AI Companion Clone (Replika) with LangChain and OpenAI Functions as entity extractor" }
+  ],
+  "playlists": [
+
+  ]
+}

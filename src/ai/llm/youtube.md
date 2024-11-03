@@ -70,5 +70,9 @@ head:
 <MyYouTubeItems jsonName="yu-technovangelist" /><!-- Matt Williams -->
 <MyYouTubeItems jsonName="yu-fastandsimpledevelopment" /><!-- Fast and Simple Development -->
 <MyYouTubeItems jsonName="yu-encord" /><!-- Encord -->
+<MyYouTubeItems jsonName="yu-AdamLucek" /><!-- Adam Lucek -->
+<MyYouTubeItems jsonName="yu-noahgsolomon" /><!-- Noah Solomon -->
+<MyYouTubeItems jsonName="yu-개발하는약사" /><!-- 개발하는 약사 DevPharmacist -->
+<MyYouTubeItems jsonName="yu-devlearnllm" /><!-- LLMs for Devs -->
 
 <TagLinks/>

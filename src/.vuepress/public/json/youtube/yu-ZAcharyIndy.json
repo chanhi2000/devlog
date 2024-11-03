@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "ZAcharyIndy",
+    "name": "ZAchary Indy",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k5KdHC2U7E1v-0zk2xfvkek_PbevyzMZ2TrmKnsyOAsw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tKSxtQ1EsR-9Zo8cTuKElY5Hh6kQKuHsv3IEmgW1K4OX-0lv_5XkjaLL6jc5m_uCgWDe1tKH=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UWeq4HCCL98", "title": "FASTEST Way to Load Web Data into Excel Spreadsheets! | Faster than COPY-PASTE | EXCEL PRO" },
+    { "id": "yJV4b_7DZD4", "title": "How to Safely DELETE/REMOVE pagefile.sys | the OFFICIAL WAY" },
+    { "id": "2akLhkBQKYo", "title": "Download Samson Soundeck for USB Mic Enhancements Free Audio Noise Cancellation Echo Erase and More" },
+    { "id": "tH3uu7KWrko", "title": "Update #Python and keep installed packages" },
+    { "id": "0FFa2gxaixk", "title": "How I Create Multipage App with Vite and TailwindCSS" },
+    { "id": "GjwXGZmCQIs", "title": "TS Files can not play with VLC Media Player - FFMPEG case using fastart method" },
+    { "id": "ybFMQGRXrFI", "title": "How I disable Software Protection Service [ANNOYING]" },
+    { "id": "4WaQC9GZfB4", "title": "Setup #TailwindCSS  v4  with Vite" },
+    { "id": "dUlR7ClHbuw", "title": "Hide Sublime Text 4 Title Bar Text #coding #sublimetext" },
+    { "id": "RVsUAo1Mm8M", "title": "NPM show/list  outdated packages and update them" },
+    { "id": "1FWXUVEbfo0", "title": "How I Extract Video and Audio from Camtasia .TREC Files with FFmpeg | LOSSLESS QUALITY" }
+  ],
+  "playlists": [
+
+  ]
+}

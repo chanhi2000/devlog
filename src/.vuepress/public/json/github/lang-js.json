@@ -3658,5 +3658,26 @@
     "topics": ["cli", "npm", "automation", "deployment", "server", "nextjs", "npm-package", "self-hosted", "npx"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/869724660/b437114b-eb86-48eb-83ba-5d9befc76813"
+  }, {
+    "repo": "fabiospampinato/cash",
+    "desc": "An absurdly small jQuery alternative for modern browsers.",
+    "officialSite": "",
+    "topics": ["javascript", "jquery", "typescript", "dom", "cash", "selector", "modern-browsers", "small", "tiny", "jquery-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/24229490/3cf22b80-7f4b-11ea-8437-d50de664b6b1"
+  }, {
+    "repo": "jonfraser/simpletext",
+    "desc": "A simple to use text only blog using CloudFlare Workers and KV",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/6d29489544c69b582eb8b0891492def2754e9ad125d5099448fbe689eaa8f7c1/jonfraser/simpletext"
+  }, {
+    "repo": "eshaz/wasm-audio-decoders",
+    "desc": "Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.",
+    "officialSite": "",
+    "topics": ["javascript", "mp3", "mpeg", "webassembly", "wasm", "emscripten", "ogg-vorbis", "flac", "opus", "hacktoberfest", "webworker", "ogg-flac", "ogg-opus"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f7ab9b9d44b66334dfbc3da449f8dcb122a057193292b8cc96216aced0a0d17b/eshaz/wasm-audio-decoders"
   }
 ]

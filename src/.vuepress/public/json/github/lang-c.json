@@ -1819,5 +1819,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/867986318/a6a5c521-5a39-4269-b05c-2defbc0b5384"
+  }, {
+    "repo": "antirez/load81",
+    "desc": "SDL based Lua programming environment for kids similar to Codea",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1984390a16a72ea86095a5bd572ae29b64b22fa205dab708b7b81c5455cc5252/antirez/load81"
   }
 ]

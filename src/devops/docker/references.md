@@ -102,6 +102,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 - [`dradnats1012` / 도커 실습](https://velog.io/@dradnats1012/%EB%8F%84%EC%BB%A4-%EC%8B%A4%EC%8A%B5)
 - [`@dradnats1012` / 도커 스웜](https://velog.io/@dradnats1012/%EB%8F%84%EC%BB%A4-%EC%8A%A4%EC%9B%9C)
 - [`@dradnats1012` / 도커 스웜 실습](https://velog.io/@dradnats1012/%EB%8F%84%EC%BB%A4-%EC%8A%A4%EC%9B%9C-%EC%8B%A4%EC%8A%B5)
+- [`@composite` / fail2ban 부정행위 적발 시 Docker 접속 막기](https://velog.io/@composite/fail2ban-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EC%A0%81%EB%B0%9C-%EC%8B%9C-Docker-%EC%A0%91%EC%86%8D-%EB%A7%89%EA%B8%B0)
 
 <!-- END: velog.io -->
 

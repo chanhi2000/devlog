@@ -1,11 +1,22 @@
 {
   "channel": {
     "id": "frontendfyi",
-    "name": "Frontend FYI",
+    "name": "Frontend FYI – by Jeroen",
     "profile": "https://yt3.googleusercontent.com/OQG9lFq0RJyHallz6FNTBci2AcwcggXPTyK3XuUnva5Xhb-HNoREkw8znutLSBJey2b8zzHkKQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/2bRBnSV5BLe-UOCtJHINs09a5gEUed6HwCrUsF57oHSH6tgR0kpJIRthtYnSElMfX3TmhB6EQw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5rDzKKvf1kk", "title": "How I Upgraded My Tutorial Videos with Smooth Animations in OBS" },
+    { "id": "uw5jVO1eNF8", "title": "Making a CSS Only Infinite Text Marquee" },
+    { "id": "h6Bp7DilFTA", "title": "Can we Make A CSS Only Logo Marquee With ZERO Repetition?" },
+    { "id": "ye2p64W1aKI", "title": "Making This Carousel By Animating CSS Grid Layouts And Using the :has() selector" },
+    { "id": "GviAcM2Vzhc", "title": "Finally Understanding The Usefulness Of CSS Subgrid: In Just 10 Minutes" },
+    { "id": "jCqtngrL2pA", "title": "Tailwind is JUST CSS: Enhancing It By Adding Modern CSS Features" },
+    { "id": "AVPR_WuDw8o", "title": "The ONLY And Easy Way To Push That Footer Down With CSS" },
+    { "id": "MbIBiin2nas", "title": "Auto-hiding Sticky Navigation With Framer Motion In 10 Minutes" },
+    { "id": "8soK-4_USDo", "title": "Unfolding Magic: Creating a Foldable Map with Framer Motion" },
+    { "id": "Iygwzh33Q1E", "title": "Cutting Edge CSS: What Took Hours And Lots Of Code Now Takes MINUTES!" },
+    { "id": "1sLwEaX2gdc", "title": "Making a Beautiful Frosted Glass Effect With CSS" },
     { "id": "hxXZG6U9Yjw", "title": "Tailwind CSS V4: A first look –SO Good!" },
     { "id": "TmelPbKsFWo", "title": "How I Rebuilt This Apple TV+ Page With Framer Motion And TailwindCSS" },
     { "id": "B_S70wXI9QE", "title": "Building a landing page for Cal.com with Tailwind and NextJS" }

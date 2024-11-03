@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/ooq4Qc5cR-fg388hsPwbkkMb26NuA2t1y7GsU5XZPyhIlrMNiOO9kNkFU7ltqXE_b4VCgT82tSk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YqLKj7J6_jw", "title": "Framer 시작하기 8화 ⎮ CMS 개념 이해, 모든 field 파해치기" },
+    { "id": "2Xy790Q_69w", "title": "Framer 시작하기 7화 ⎮ Grid, Warp" },
+    { "id": "0m_SYb-3UUM", "title": "Framer 시작하기 6화 ⎮ Slide 컴포넌트, Ticker, Slide show, Carousel" },
     { "id": "fcmMVe6PLZc", "title": "Framer 시작하기 5화 ⎮ Fixed와 Sticky 활용하기, Scroll Section, Scroll transform 이펙트, 가로스크롤, Component 링크" }
   ]
 }

@@ -2673,6 +2673,23 @@ export const sidebarEn = sidebar({
          '/devops/ncloud/references.md',
         ]
     }, {
+      text: 'Vercel',
+      collapsible: true,
+      icon: 'iconfont icon-vercel',
+      children: [
+         '/devops/vercel/README.md',
+         '/devops/vercel/references.md',
+         '/devops/vercel/youtube.md',
+         {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/vercel/articles/README.md',
+          ]
+        }
+        ]
+    }, {
       text: 'Ansible',
       collapsible: true,
       icon: 'iconfont icon-ansible',
@@ -3610,7 +3627,15 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-api',
       children: [
         '/explore/api/README.md',
+        '/explore/api/references.md',
         {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/explore/api/articles/README.md',
+          ]
+        }, {
           text: 'Kakao',
           collapsible: true,
           icon: 'iconfont icon-kakao',

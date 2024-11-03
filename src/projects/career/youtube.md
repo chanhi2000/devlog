@@ -42,5 +42,8 @@ tag:
 <MyYouTubeItems jsonName="yu-MickeyPedia" /><!-- 미키피디아 -->
 <MyYouTubeItems jsonName="yu-tryexponent" /><!-- Exponent -->
 <MyYouTubeItems jsonName="yu-withmarko" /><!-- Marko -->
+<MyYouTubeItems jsonName="yu-maryang710" /><!-- 마량 maryang -->
+<MyYouTubeItems jsonName="yu-incutv" /><!-- 개발자 인큐티비 -->
+<MyYouTubeItems jsonName="yu-노말이" /><!-- 노말이 -->
 
 <TagLinks />

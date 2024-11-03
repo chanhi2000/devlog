@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "bit-buddy",
+    "name": "BitBuddy",
+    "profile": "https://yt3.googleusercontent.com/SKnMajElmfQhtWw9ktgPJVfRWKJKO8M5r0LtKs6b0DNh-NXTWAz0PiemcL5CSQa-3aq1O2mjLA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j_u2OJ4oo3OsvvfJ40gR_lF8d0Z71R4r9EgIes_ouu83XdK34DjY8f05DLFzmQs56l63Y_qe6g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "aA2PvesSbe4", "title": "HTML picture element #shorts #short #html #education #coding #viral" },
+    { "id": "GHLETeVh3ps", "title": "What, When, Where, How WebView? | BitBuddy" },
+    { "id": "M2HhpVW4Rds", "title": "What, When, Where, Backend For A Frontend (BFF) Architecture Pattern | BitBuddy" },
+    { "id": "CUWQGt5rz28", "title": "20+ Handy JavaScript Functions to Simplify Your Code | JavaScript Tutorial | BitBuddy" },
+    { "id": "-tSJ9aCh-bc", "title": "5 React Concept Explained | BitBuddy" },
+    { "id": "sV71S2Hkk0Q", "title": "JavaScript Proposal: Signals API | BitBuddy" },
+    { "id": "4vOHG-iwfwU", "title": "What is Array.toSorted() in JavaScript | BitBuddy" },
+    { "id": "7fTMx6QaFpY", "title": "Understanding Array.fromAsync() in JavaScript | BitBuddy" },
+    { "id": "BmBZstH6kLs", "title": "JavaScript callback function for beginners | BitBuddy" },
+    { "id": "jHjnIL-ae6Q", "title": "Unlocking Web Rendering Strategies: A Guide to Understanding Site Performance | BitBuddy" },
+    { "id": "z3c2zm9Lfrg", "title": "JavaScript Bundle Optimization Secrets: Boost Your Website's Speed | BitBuddy" },
+    { "id": "6CnPqel-Esg", "title": "All You Need to Know About JavaScript Promises methods and Polyfill | BitBuddy" },
+    { "id": "x6lFfRpywxQ", "title": "Did you know this JavaScript trick? | BitBuddy" }
+  ],
+  "playlists": [
+
+  ]
+}

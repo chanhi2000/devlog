@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "cJIlqFXM2_4", "title": "Configure neovim plugins with lazy.nvim with correct dependencies." },
     { "id": "CdXH-LaX6Ms", "title": "Review Harpoon2 code changes." },
     { "id": "4crDKASq9Nc", "title": "Paste or Drag-n-Drop Images to your Neovim documents." },
     { "id": "mBXi5lklqt8", "title": "LSP-ZERO.NVIM ... Almost ZERO effort." },

@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "AdamLucek",
+    "name": "Adam Lucek",
+    "profile": "https://yt3.googleusercontent.com/vdTfW7fgKBi1qNXB0u15nOcXQlwC_3U_bARNcjZd-BiZJoAC9cjFgGPH_hPrqVQ2oBKLoJVmQlc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6HdkJXgPI-bOuWQVGeYLAScvdb122Oevd-bhcOhM7vAhXtywreD4_cyjEP70VVgy2MNHSuA0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zNA01OEVFUI", "title": "Make An AI Agent with OpenAI’s Advanced Voice Mode" },
+    { "id": "eCoObzaHYC4", "title": "Unleash a SWARM of AI Agents: Reliable Multi-Agent Orchestration" },
+    { "id": "qTY4Rr-x5q0", "title": "Master Reinforcement Learning With These 3 Projects" },
+    { "id": "Drw6tnvtA5I", "title": "Create AI Images of YOU with FLUX (Training and Generating Tutorial)" },
+    { "id": "hztWQcoUbt0", "title": "Does Fine Tuning Embedding Models Improve RAG?" },
+    { "id": "ZIXHwzermOw", "title": "How I Made A Deep Learning Robot" },
+    { "id": "L1lWxeW4o6c", "title": "Is Synthetic Data The Future of AI? (And How To Make Your Own)" },
+    { "id": "q5REn6OAPRg", "title": "Model Distillation: Same LLM Power but 3240x Smaller" },
+    { "id": "QFPFGWiLJbI", "title": "Language Model Merging - Techniques, Tools, and Implementations" },
+    { "id": "NMfArmQ27m4", "title": "Wait... What REALLY Is A Vector Database?" },
+    { "id": "Y7lvvhmASqw", "title": "E-Commerce Will Never Be the Same With AI" },
+    { "id": "v89kB4OScOA", "title": "Make YOUR OWN Images With Stable Diffusion - Finetuning Walkthrough" },
+    { "id": "nJtPzkq3Ve0", "title": "Building a Thinking Machine: My Gemma 2 9B Reflection Agent" },
+    { "id": "qCAvqsBbN2Y", "title": "True Multimodal RAG - Audio/Image/Video/Text" },
+    { "id": "i_NRmG2qUQA", "title": "LangGraph Cloud: Build & Deploy an AI Agent" },
+    { "id": "gMeTK6zzaO4", "title": "LLM Function Calling - AI Tools Deep Dive" },
+    { "id": "aUktGVEz5aY", "title": "LLM Agents Team Up: The Future of Automated Collaboration" },
+    { "id": "GfjUJ1TnI-o", "title": "Build Your Own Finance LLM for FREE with SEC Data" },
+    { "id": "4iR_odrRT8c", "title": "How AI Creates Images/Videos/Audio - Diffusion Models Explained" },
+    { "id": "-6D9U5CDKgE", "title": "LLMs & AI Benchmarks! - GenAI Eval Deep Dive" }
+  ],
+  "playlists": [
+
+  ]
+}

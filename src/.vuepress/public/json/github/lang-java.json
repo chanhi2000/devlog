@@ -1110,5 +1110,26 @@
     "topics": ["blog", "cms", "blog-engine", "halo", "content-management-system", "halocms"],
     "avatar": "https://avatars.githubusercontent.com/u/55039406?s=64&v=4",
     "banner": "https://repository-images.githubusercontent.com/126178683/adbb35f3-5a34-48a3-8183-1c1da0b3a3ac"
+  }, {
+    "repo": "CodePhiliaX/Chat2DB",
+    "desc": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "officialSite": "http://chat2db.ai",
+    "topics": ["mysql", "redis", "bi", "database", "ai", "hive", "clickhouse", "postgresql", "oracle", "redis-client", "dbeaver", "db2", "gpt", "sqlserver", "navicat", "clickhouse-client", "datagrip", "text2sql", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a662a809360ab7cd1d36e8f801e77071b7b98fca0d360cb3b1972d55cb511da0/CodePhiliaX/Chat2DB"
+  }, {
+    "repo": "kestra-io/kestra",
+    "desc": ":zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+    "officialSite": "https://kestra.io",
+    "topics": ["java", "workflow", "devops", "automation", "pipeline", "orchestration", "infrastructure-as-code", "high-availability", "hacktoberfest", "low-code", "pipeline-as-code", "lowcode", "data-orchestration"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/204164353/3f02eda2-04a4-47da-a0a5-76617a8617b3"
+  }, {
+    "repo": "dromara/Sa-Token",
+    "desc": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+    "officialSite": "https://sa-token.cc",
+    "topics": ["java", "authorization", "sso", "token", "springcloud", "aouth2"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/237940592/6d2b958a-b8f5-41d1-ba19-d7b099014ba9"
   }
 ]

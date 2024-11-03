@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "TheHEADPHONEShow",
+    "name": "The Headphone Show",
+    "profile": "https://yt3.googleusercontent.com/zJjUPHwMZlK3xlusve4mYKJaZTKUzo0zE1_ygc1e_hlFmdUdBrWdwEUarfosE6_pN8tAUkZr=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zAjVKytwHokoQCn9ZR91xH4MAN_xJypK-y5KErphhCjkInArT9NaxTy0QkhJS-P-lvTcUm8D2g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nMCEBsJTY1c", "title": "The Noise Floor with Mad_Economist, listener, and a SURPRISE GUEST!" },
+    { "id": "kfI0w4UEm7k", "title": "Doing Good Research is HARD — The Noise Floor w/ Resolve, Mad_Economist, GoldenSound, and listener" },
+    { "id": "--LEDxMs4yk", "title": "What does an amplifier actually do?" },
+    { "id": "uZBQrlDMwJ0", "title": "Making the MOST powerful iPod" },
+    { "id": "HOvubnenXyo", "title": "What is a DAC and why do you need one?" },
+    { "id": "_N3ImvdE5NQ", "title": "Behind the scenes at HEDD Audio! - What makes an AMT headphone different?" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ELZ7rYyKA4w", "title": "입문자, 초보자가 알아야 할 ChatGPT 사용 방법 Top 3 - 프롬프트 잘 쓰는 법, PDF 파일 대화, 유튜브 추출" },
+    { "id": "bddTsZ20Klg", "title": "GPT 활용 사례 - 영어 시험 문제 출제하기, 대량 생성 자동화" },
+    { "id": "_9Jknl6cd74", "title": "GPT-4o 기능, 성능, 속도, 사용량, 요금제 상세분석" },
+    { "id": "fIpITi96rv4", "title": "클로드 아티팩트 업데이트 - 말 한마디로 웹앱 만들기" },
+    { "id": "0T8I54Kd2TI", "title": "MS 365 코파일럿 활용 (with 엑셀, 파워포인트, 워드, 아웃룩, Chat)" },
     { "id": "cGQjLCK2dT0", "title": "챗GPT를 활용하여 네이버 뉴스 본문 크롤러 만들기" },
     { "id": "665aN8Tbbss", "title": "문성생성 자동화 (수료증, 견적서, 계약서, 출입증) - feat. 구글 슬라이드 템플릿, 구글 시트 명단" },
     { "id": "oxozkWnz1ho", "title": "AI로 숏폼 영상(숏츠) 만들기(Vrew 브루, 챗GPT, 달리3, 미드저니)" },

@@ -30,5 +30,6 @@ head:
 <MyYouTubeItems jsonName="yu-vladcampos" /><!-- vladcampos -->
 <MyYouTubeItems jsonName="yu-creative781" /><!-- 작가의 방 -->
 <MyYouTubeItems jsonName="yu-thebetter-today" /><!-- 더 배러 (The Better) -->
+<MyYouTubeItems jsonName="yu-VisualPKM" /><!-- Zsolt's Visual Personal Knowledge Management -->
 
 <TagLinks />

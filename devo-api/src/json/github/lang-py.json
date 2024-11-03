@@ -6580,11 +6580,11 @@
     "banner": ""
   }, {
     "repo": "PrefectHQ/prefect",
-    "desc": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+    "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
     "officialSite": "https://prefect.io",
-    "topics": ["automation", "data", "data-engineering", "data-ops", "data-science", "infrastructure", "ml-ops", "observability", "orchestration", "pipeline", "prefect", "python", "workflow", "workflow-engine"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["python", "infrastructure", "workflow", "data-science", "data", "automation", "pipeline", "workflow-engine", "orchestration", "data-engineering", "observability", "prefect", "data-ops", "ml-ops"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f97d57568fd2520f1da57da689b9d4287c2d55daed3b9fac2c619f49aa423928/PrefectHQ/prefect"
   }, {
     "repo": "Jeff-LiangF/streamv2v",
     "desc": "Official Pytorch implementation of StreamV2V.",
@@ -7516,5 +7516,12 @@
     "topics": ["ai-pipelines", "analytics", "approximate-statistics", "calculate-statistics", "constraints", "data-constraints", "data-pipeline", "data-quality", "data-science", "dataops", "dataset", "logging", "machine-learning", "ml-pipelines", "mlops", "model-performance", "python", "statistical-properties"],
     "avatar": "https://avatars.githubusercontent.com/u/56651354?v=4",
     "banner": ""
+  }, {
+    "repo": "infinition/Bjorn",
+    "desc": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potent...",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/809326864/0fe34573-8870-470b-a735-f515248200c0"
   }
 ]

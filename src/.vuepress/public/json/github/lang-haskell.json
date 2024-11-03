@@ -27,5 +27,12 @@
     "topics": [],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "Gandalf-/coreutils",
+    "desc": "Unix core utilities implemented in Haskell. Contribute to Gandalf-/coreutils development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["unix", "haskell", "coreutils"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f5a942571cfbf790b1ff38f1a9e4cc404cab87bacb1aabb7c159131eab4ea51f/Gandalf-/coreutils"
   }
 ]

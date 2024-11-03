@@ -159,6 +159,8 @@ tag:
 - [`@bestswlkh0310` / 일 할 때 말의 scope](https://velog.io/@bestswlkh0310/%EC%9D%BC-%ED%95%A0-%EB%95%8C-%EB%A7%90%EC%9D%98-scope)
 - [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
 - [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
+- [`@9rganizedchaos` / 🏃🏻‍➡️ 프론트엔드 개발자 창업 도전기](https://velog.io/@9rganizedchaos/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0)
+- [`@parallelkim` / 2주간 퇴근 후 혼자 개발해 사용자 400명 모으기](https://velog.io/@parallelkim/%ED%95%9C%EC%9E%90%EC%8B%AB%EC%96%B4)
 
 <!-- END: velog.io -->
 
@@ -372,6 +374,8 @@ tag:
 - [`@2weV` / 2025년 커리어 선택법](https://brunch.co.kr/@@2weV/575)
 - [`@2weV` / 보고서 잘 쓰는 법.](https://brunch.co.kr/@@2weV/576)
 - [`@2weV` / 최강야구를 보며 느낀 커리어에서의 '멈춤'의 중요함](https://brunch.co.kr/@@2weV/577)
+- [`@3L0s` / DX 실행: 비즈니스 모델의 디지털화 사례 - 디지털 혁신-22](https://brunch.co.kr/@@3L0s/147)
+- [`@2weV` / 성장의 key: 진심-몰입-최선의 alignment](https://brunch.co.kr/@@2weV/578)
 
 <!-- END: brunch.co.kr -->
 

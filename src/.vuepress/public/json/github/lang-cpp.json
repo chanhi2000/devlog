@@ -2364,5 +2364,12 @@
     "topics": ["sniffer", "wireless", "sdr", "cellular", "lte"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/4ac1b154c3b05c672689b663bb6f3105a50f92e7219f9a6516b7695e9f07bacd/SysSec-KAIST/LTESniffer"
+  }, {
+    "repo": "turingbirds/ping-clock",
+    "desc": "Contribute to turingbirds/ping-clock development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/dafae75e57be472d270f449b3c2b3620e0ce968f71160d9c524dd2557d9dd070/turingbirds/ping-clock"
   }
 ]

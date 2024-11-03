@@ -218,5 +218,6 @@ head:
 <MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
 <MyYouTubeItems jsonName="yu-InputOutputCampus" /><!-- Input Output Campus -->
 <MyYouTubeItems jsonName="yu-encoredev" /><!-- Encore -->
+<MyYouTubeItems jsonName="yu-SoftwareDeveloperDiaries" /><!-- Software Developer Diaries -->
 
 <TagLinks />

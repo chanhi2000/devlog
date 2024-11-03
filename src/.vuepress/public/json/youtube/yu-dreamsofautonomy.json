@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Z8BL8mdzWHI", "title": "Nix is my favorite package manager to use on macOS" },
+    { "id": "9YQ4FXV8O1c", "title": "I found the most \"a-peeling\" Linux customization of all time." },
+    { "id": "2yplBzPCghA", "title": "This homelab setup is my favorite one yet." },
+    { "id": "9U8LCjuQzdc", "title": "We may have killed p10k, so I found the perfect replacement." },
+    { "id": "ud7YxC33Z3w", "title": "This Zsh config is perhaps my favorite one yet." },
     { "id": "aghxkpyRVDY", "title": "zoxide has forever improved the way I navigate in the terminal." },
     { "id": "W30wzKVwCHo", "title": "We finally have a simple solution for backing up files on Linux" }
   ]

@@ -2620,5 +2620,40 @@
     "topics": ["rust", "http", "orm", "websockets", "web-framework"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/d7b14bbd1b6f2e42865f44041274fcb3a45dd06068b4100a231f673f507f411b/levkk/rwf"
+  }, {
+    "repo": "jtroo/kanata",
+    "desc": "Improve keyboard comfort and usability with advanced customization",
+    "officialSite": "",
+    "topics": ["windows", "macos", "linux", "rust", "keyboard", "cross-platform", "keyboard-layout", "mouse", "mouse-emulation", "interception-driver"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/44d2759cb252b0566f06bdba79fc36d3fdfe7d63d6cad776ebf001c09a9255c9/jtroo/kanata"
+  }, {
+    "repo": "drogus/jaws",
+    "desc": "JavaScript to WASM compiler. Contribute to drogus/jaws development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["javascript", "webassembly", "wasm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e40ab84c3b61064eb7c5b699c831bfb4f117de45d034fbf4664f6b9d0f1fa2ac/drogus/jaws"
+  }, {
+    "repo": "fortress-build/whirlwind",
+    "desc": "🌀 Ridiculously fast, fully asynchronous, sharded hashmap for Rust.",
+    "officialSite": "https://crates.io/crates/whirlwind",
+    "topics": ["rust", "async", "concurrency", "tokio", "hashmap", "async-rust", "concurrent-hashmap"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1816e331136fa172e7aabe66aefca83cd2611998803d28e320f8c8a93db38533/fortress-build/whirlwind"
+  }, {
+    "repo": "darwindarak/rallyup",
+    "desc": "rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.",
+    "officialSite": "",
+    "topics": ["automation", "command-line", "command-line-tool", "wake-on-lan", "homelab", "homelab-automation"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3a7803daa7b821b5531be43a5e819d5555476516d9df3fac223fe57df110b971/darwindarak/rallyup"
+  }, {
+    "repo": "dandavison/delta",
+    "desc": "A syntax-highlighting pager for git, diff, grep, and blame output",
+    "officialSite": "https://dandavison.github.io/delta/",
+    "topics": ["git", "rust", "diff", "delta", "pager", "syntax-highlighter", "color-themes", "git-delta"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/390c60cf53ede2d9b9d72f198085ea389fb5d58218e1cdb75e15bab4ec847a48/dandavison/delta"
   }
 ]

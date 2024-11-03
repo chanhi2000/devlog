@@ -29,5 +29,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-PedroTechnologies" /><!-- PedroTech -->
 <MyYouTubeItems jsonName="yu-mduniv" /><!-- 마플개발대학 -->
+<MyYouTubeItems jsonName="yu-SoftwareDeveloperDiaries" /><!-- Software Developer Diaries -->
 
 <TagLinks />

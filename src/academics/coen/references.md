@@ -65,6 +65,8 @@ head:
 - [`@jwlee010523` / LPT: Longest Processing Time first](https://velog.io/@jwlee010523/LPT)
 - [`@dnr6054` / Lock-Free List](https://velog.io/@dnr6054/Lock-Free-List)
 - [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 1주차 정리](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
+- [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 2주차 정리](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
+- [`@qkrtkdwns3410` / API Rate Limiting이 필요한 이유와 이를 구현 하는 방법은 무엇인가요?](https://velog.io/@qkrtkdwns3410/API-Rate-Limiting%EC%9D%B4-%ED%95%8P4%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9D%B4%EB%A5%BC-%EA%B5%AC%ED%98%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 
 <!-- END: velog.io -->
 

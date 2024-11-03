@@ -231,6 +231,7 @@ head:
 - [`@hyemin916` / 순간 판매량을 200%로 늘린, 재고 관리 개발기](https://velog.io/@hyemin916/%EC%88%9C%EA%B0%84-%ED%8C%90%EB%A7%A4%EB%9F%89%EC%9D%84-200-%EB%A1%9C-%EB%8A%98%EB%A6%B0-%EC%9E%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 - [`@superlipbalm` / (번역) 렌더링 지연을 개선해 LCP 점수 향상하기](https://velog.io/@superlipbalm/lcp-render-delay)
 - [`@9rganizedchaos` / 🏃🏻‍➡️ 프론트엔드 개발자 창업 도전기](https://velog.io/@9rganizedchaos/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0)
+- [`@parallelkim` / 2주간 퇴근 후 혼자 개발해 사용자 400명 모으기](https://velog.io/@parallelkim/%ED%95%9C%EC%9E%90%EC%8B%AB%EC%96%B4)
 
 <!-- END: velog.io -->
 

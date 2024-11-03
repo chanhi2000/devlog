@@ -33,5 +33,6 @@ head:
 <MyYouTubeItems jsonName="yu-2GuysTek" /><!-- 2GuysTek -->
 <MyYouTubeItems jsonName="yu-BudgetNerd" /><!-- Budget Nerd -->
 <MyYouTubeItems jsonName="yu-ColorScale" /><!-- ColorScale -->
+<MyYouTubeItems jsonName="yu-라이브렉스" /><!-- 라이브렉스 LiveREX -->
 
 <TagLinks />

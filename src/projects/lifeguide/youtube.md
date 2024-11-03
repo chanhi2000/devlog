@@ -142,5 +142,8 @@ head:
 <MyYouTubeItems jsonName="yu-coolmoonchoi" /><!-- 나의시선 -->
 <MyYouTubeItems jsonName="yu-koreatveconomy" /><!-- 경제 인사이트 -->
 <MyYouTubeItems jsonName="yu-user-kr5wq8ys8t" /><!-- 알리추천소 -->
+<MyYouTubeItems jsonName="yu-tongtongtech" /><!-- 통통테크 by 연합뉴스 -->
+<MyYouTubeItems jsonName="yu-솦" /><!-- 소프 -->
+<MyYouTubeItems jsonName="yu-DKFEMFWLRRN" /><!-- 알뜰직구 -->
 
 <TagLinks />

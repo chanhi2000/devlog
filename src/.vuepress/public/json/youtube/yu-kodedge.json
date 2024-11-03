@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/8zU5yuENMaX22fyEm2826c4hjuUWVi_rwLYcIN5MbHkKX9yfOmuRO5W90AM7lHPFLLxuNe9wcQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ketK1L1KLKo", "title": "Serverless Function: Spring Cloud Function on AWS Lambda" },
+    { "id": "RGGLBEDUuMc", "title": "Setup Amazon MSK (Kafka) as an event source for Lambda | Step by step tutorial" },
+    { "id": "Afp2tDUXyWM", "title": "7. Secure API Gateway using Cognito User Pool | Terraform with AWS Tutorial" },
+    { "id": "gpXmaDwfQ50", "title": "6. AWS API Gateway with Lambda function using Terraform" },
     { "id": "54r_XhU0sLI", "title": "How to Connect to Amazon EC2 Instance from Local Machine | Transfer file from local to EC2 using SCP" },
     { "id": "uN05DrdZRSY", "title": "1.Terraform Introduction (IaC) | Terraform with AWS Course" },
     { "id": "hOr38M6pVYw", "title": "2.Create Resource in AWS | Terraform with AWS Course" },
