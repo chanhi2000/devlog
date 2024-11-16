@@ -62,6 +62,7 @@ head:
 - [망막에 상이 맺히는 안구 모형](https://javalab.org/eye_model/)
 - [물의 상태 2](https://javalab.org/status_of_water_2/)
 - [네프론에서 물질의 이동](https://javalab.org/nephron/)
+- [자석과 전자석](https://javalab.org/magnet_and_electromagnet/)
 
 <!-- END: javalab.org -->
 

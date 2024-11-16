@@ -124,7 +124,6 @@ head:
 <MyYouTubeItems jsonName="yu-SLJD30" /><!-- 살림중독 -->
 <MyYouTubeItems jsonName="yu-scare_crow_" /><!-- 허수아비 -->
 <MyYouTubeItems jsonName="yu-natgeocam" /><!-- 내셔널지오그래픽 액션캠 -->
-<MyYouTubeItems jsonName="yu-jscode-official" /><!-- JSCODE 박재성 -->
 <MyYouTubeItems jsonName="yu-onemealaday767" /><!-- 하루한끼 one meal a day -->
 <MyYouTubeItems jsonName="yu-The-DIY-Guide" /><!-- The DIY Guide -->
 <MyYouTubeItems jsonName="yu-space_diary" /><!-- 공간일기 -->
@@ -145,5 +144,10 @@ head:
 <MyYouTubeItems jsonName="yu-tongtongtech" /><!-- 통통테크 by 연합뉴스 -->
 <MyYouTubeItems jsonName="yu-솦" /><!-- 소프 -->
 <MyYouTubeItems jsonName="yu-DKFEMFWLRRN" /><!-- 알뜰직구 -->
+<MyYouTubeItems jsonName="yu-drivingdalin" /><!-- a master of driving -->
+<MyYouTubeItems jsonName="yu-gizmo_ch" /><!-- 기즈모 gizmo -->
+<MyYouTubeItems jsonName="yu-chefclubtvshorts" /><!-- Chefclub Shorts -->
+<MyYouTubeItems jsonName="yu-승호의요리이야기" /><!-- 쿡톡 (빛 & 소금) -->
+<MyYouTubeItems jsonName="yu-channelId" /><!-- table diary 식탁일기 -->
 
 <TagLinks />

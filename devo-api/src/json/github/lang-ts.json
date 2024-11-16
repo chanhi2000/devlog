@@ -3639,13 +3639,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
-    "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "immich-app/immich",
     "desc": "High performance self-hosted photo and video management solution.",
     "officialSite": "https://immich.app",

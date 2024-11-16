@@ -47,5 +47,8 @@ head:
 <MyYouTubeItems jsonName="yu-Unplug-IT" /><!-- UnplugIT -->
 <MyYouTubeItems jsonName="yu-vrsen" /><!-- VRSEN -->
 <MyYouTubeItems jsonName="yu-elice_official" /><!-- Elice 엘리스 -->
+<MyYouTubeItems jsonName="yu-magikkai" /><!-- jimbocash -->
+<MyYouTubeItems jsonName="yu-marearts." /><!-- MareArts -->
+<MyYouTubeItems jsonName="yu-joinc-edu" /><!-- 조인씨 JOINC -->
 
 <TagLinks />

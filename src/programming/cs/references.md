@@ -358,6 +358,7 @@ head:
   - [한글 자모 교정기 (Hangul Grapheme Corrector) 프로그램 exe](https://aspdotnet.tistory.com/m/3254)
   - [검색 및 유효성 검사 기능을 갖춘 React, .NET, SQLite 및 Ant 디자인으로 풀 스택 CRUD 앱을 구축](https://aspdotnet.tistory.com/m/3276)
   - [EPPlus 7 요약 - 상업적 사용 방법](https://aspdotnet.tistory.com/m/3279)
+  - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](https://aspdotnet.tistory.com/m/3245)
   <!-- END: aspdotnet -->
 - [`hyunjungchoi` / 행뽁🐥](https://hyunjungchoi.tistory.com/m/)
   - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/m/153)
@@ -665,6 +666,7 @@ head:
 
 - [WebSocket with .NET Core](https://skyer9.pe.kr/wordpress/?p=9489)
 - [C# Prism – `BackgroundService` 생성하기](https://skyer9.pe.kr/wordpress/?p=9524)
+- [Request has finished and HttpContext disposed. Object name: ‘HttpContext’.](https://skyer9.pe.kr/wordpress/?p=9545)
 
 <!-- END: skyer9.pe.kr -->
 
@@ -680,6 +682,14 @@ head:
 - [헤드퍼스트 디자인패턴 정리 06 - 커맨드 패턴](https://charotiti9.github.io/devlog/Command-Pattern.html)
 
 <!-- END: charotiti9.github.io -->
+
+---
+
+## ArgosCo .net Development Blog – Code. Optimize. Innovate
+
+- [Building a Full-Stack Application with Next.js and .NET API Backend](https://argosco.io/building-a-full-stack-application-with-next-js-and-net-api-backend/)
+
+<!-- END: argosco.io -->
 
 ---
 

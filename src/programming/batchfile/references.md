@@ -56,6 +56,10 @@ tag:
 
 - [MS Windows – `robocopy`](https://skyer9.pe.kr/wordpress/?p=9012)
 - [MS Windows – `SCHTASKS` 스케줄 관리 툴](https://skyer9.pe.kr/wordpress/?p=9434)
+- [Batch script – 중첩된 `for` 루프에서 변수 사용](https://skyer9.pe.kr/wordpress/?p=9538)
+- [Windows Batch Script : `substring`](https://skyer9.pe.kr/wordpress/?p=9543)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

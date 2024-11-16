@@ -90,6 +90,9 @@ tag:
 - [`@2rV` / 저보다 경력이 많은 시니어 PM 채용을 부탁해야할까요?](https://brunch.co.kr/@@2rV/178)
 - [`@2rV` / 프로덕트 매니저(PM) 직무 전환 함께하기](https://brunch.co.kr/@@2rV/182)
 - [`@2rV` / PM 이력서 작성 팁 - 이력서 작성의 20초 규칙](https://brunch.co.kr/@@2rV/184)
+- [`@2rV` / PMF 달성 기준을 알려주세요](https://brunch.co.kr/@@2rV/191)
+- [`@2rV` / 계획은 쓸모없지만, 플래닝은 매우 중요하다 - Plans are useless, but planning is...](https://brunch.co.kr/@@2rV/192)
+- [`@2rV` / 실리콘밸리 PM이 가장 많이 추천하는 책은? - 지속적인 제품 발견의 습관 - Teresa Torres](https://brunch.co.kr/@@2rV/193)
 
 <!-- END: brunch.co.kr -->
 
@@ -103,7 +106,18 @@ tag:
 
 ## 테오
 
-- [PM은 무얼 하는 사람?](https://.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+- [PM은 무얼 하는 사람?](https://dataportal.kr/PM%EC%9D%80-%EB%AC%B4%EC%96%BC-%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C/)
+
+<!-- END: dataportal.kr -->
+
+---
+
+## tistory
+
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [PM 직무의 현주소: 한국에서의 PM 역할과 당면 과제](https://vurias0203.tistory.com/m/entry/PM-%EC%A7%81%EB%AC%B4%EC%9D%98-%ED%98%84%EC%A3%BC%EC%86%8C-%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C%EC%9D%98-PM-%EC%97%AD%ED%95%A0%EA%B3%BC-%EB%8B%B9%EB%A9%B4-%EA%B3%BC%EC%A0%9C)
+  <!-- END: vurias0203 -->
+<!-- END: tistory.com -->
 
 ---
 

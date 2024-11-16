@@ -44,9 +44,14 @@ head:
 
 ---
 
-## Miles UX/UI Insight
+## tistory
 
-- [내가 보려고 모은 Figma 3D 플러그인 정리](https://vurias0203.tistory.com/m/entry/%EB%82%B4%EA%B0%80-%EB%B3%B4%EB%A0%A4%EA%B3%A0-%EB%AA%A8%EC%9D%80-Figma-3D-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC)
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [내가 보려고 모은 Figma 3D 플러그인 정리](https://vurias0203.tistory.com/m/entry/%EB%82%B4%EA%B0%80-%EB%B3%B4%EB%A0%A4%EA%B3%A0-%EB%AA%A8%EC%9D%80-Figma-3D-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC)
+  - [2024년 주목받는 필수 Figma 플러그인 5가지 총정리](https://vurias0203.tistory.com/m/entry/2024%EB%85%84-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EB%8A%94-%ED%95%84%EC%88%98-Figma-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-5%EA%B0%80%EC%A7%80-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+  <!-- END: vurias0203 -->
+<!-- END: tistory.com -->
 
+---
 
 <TagLinks />

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/i4u01k8j6-ryTgOanIzU_v2XhO4i2j8DuOtnn8ewX3_XrqjvtvR20nZ3JDdUwYROo3fULHquEQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_TJ8qrte7vM", "title": "From HomeLab to E-Waste: Giving Old Tech a New Purpose at Free Geek" },
+    { "id": "KxPl8SHREcE", "title": "You should be using Proxmox Backup Server" },
+    { "id": "PRIUnOJNaWw", "title": "Introducing the UniFi NAS Pro, the NAS from Ubiquiti - UNAS-PRO" },
+    { "id": "eJUFFYI0DOY", "title": "How one company is \"De-Microsoft-ifying\" and pushing Linux on the desktop" },
+    { "id": "VLSWyTmM2ro", "title": "Building a Low-Power, Fully Loaded Plex Server" },
+    { "id": "XvNVYcC1HIA", "title": "The Best HomeLab Service Dashboard Yet!" },
+    { "id": "GrLpdfhTwLg", "title": "Self-Hosted AI That's Actually Useful" },
+    { "id": "kGZa-81IDGY", "title": "Mini Rack, HomeLab Stack" },
+    { "id": "kcpu4z5eSEU", "title": "Proxmox Automation with Proxmox Helper Scripts!" },
+    { "id": "o_iG4Wunh98", "title": "Meet ChangeDetection - A Self-Hosted Website Change Detector!" },
+    { "id": "Hu6WemKa__k", "title": "I tried Unraid for the FIRST time in 2024" },
     { "id": "zbkqRPIUYAo", "title": "I Colocated My HomeLab in a Data Center" },
     { "id": "cqFEP4sCkU8", "title": "YOU Review MY HomeLab and Colocation Architecture!" },
     { "id": "atfLTiW5yvM", "title": "Advanced Kubernetes Networking with Multus (It's easier than you think)" },

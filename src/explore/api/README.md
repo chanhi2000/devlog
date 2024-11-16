@@ -451,6 +451,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://localfile.io/favicon.svg"
   preview="https://localfile.io/ogp.png"/>
 
+<SiteInfo
+  name="Open Graph Preview"
+  desc="Preview your site's Open Graph cards across popular social media and messaging apps"
+  url="https://opengraph.ing/preview/"
+  logo="https://opengraph.ing/images/icon-v1.png"
+  preview="https://opengraph.ing/images/og-v1.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1325,6 +1332,13 @@ http://texturer.com/
   url="https://woowahan.com/fonts"
   logo="https://woowahan-cdn.woowahan.com/favicon/ko/favicon.ico"
   preview="https://woowahan-cdn.woowahan.com/static/image/share_kor.jpg"/>
+
+<SiteInfo
+  name="uifonts.app"
+  desc="Test and preview fonts in real-time for all your design needs. Choose the perfect typeface with ease"
+  url="https://uifonts.app/"
+  logo="https://uifonts.app/favicon.ico"
+  preview="https://uifonts.app/og-image.png"/>
 
 <!-- END: Design & Image -->
 

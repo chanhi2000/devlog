@@ -818,5 +818,40 @@
     "topics": ["telegram"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/95aa3dda0f7d24ad810b3377413d09e9d0f0ba08b238b67ba7079295149dd14e/DrKLO/Telegram"
+  }, {
+    "repo": "YahiaAngelo/Film-Simulator",
+    "desc": "Film Simulator KMM App. Contribute to YahiaAngelo/Film-Simulator development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["mvvm", "kotlin-multiplatform", "kmm", "film-simulation"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/6d0168ed1bf82ef30a8a3df48dd7a997fdc154ad8e192238776141541e8a0f4f/YahiaAngelo/Film-Simulator"
+  }, {
+    "repo": "ismai117/KScan",
+    "desc": "Compose Multiplatform Barcode Scanning. Contribute to ismai117/KScan development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/ab5facbc6e8d9e6c3d23de447335609773502bec1ecc810cd952e4ca3dc72892/ismai117/KScan"
+  }, {
+    "repo": "fleeksoft/charset",
+    "desc": "Kotlin Multiplatform Charset Library for Encoding and Decoding Character Sets",
+    "officialSite": "",
+    "topics": ["kotlin", "charset", "kotlin-multiplatform-library"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0c61dc7a3ac81c521a1158a6cac852172ada53c109f497b0a192ca23d01ffac0/fleeksoft/charset"
+  }, {
+    "repo": "fleeksoft/fleeksoft-io",
+    "desc": "A lightweight Kotlin Multiplatform port of JDK IO classes (Reader, InputStream, BufferedReader, etc.), with support for character encoding via Charset.",
+    "officialSite": "",
+    "topics": ["kotlin", "jdk", "kotlin-multiplatform", "kotlin-io"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/799589ae50ece486c1480312a308e4d9f7d8c3e84c5087784b855f589302567e/fleeksoft/fleeksoft-io"
+  }, {
+    "repo": "Taewan-P/gpt_mobile",
+    "desc": "Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 &amp; Compose. - Tae...",
+    "officialSite": "",
+    "topics": ["android", "kotlin", "google", "jetpack", "gemini", "openai", "chatbots", "compose", "hacktoberfest", "claude", "jetpack-compose", "chatgpt", "anthropic", "ollama", "ollama-app", "ollama-api"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/9220706bb8a4ab70f15574cac7e8eecb1c78452083c3a40edaad4e3ae6f7c5fc/Taewan-P/gpt_mobile"
   }
 ]

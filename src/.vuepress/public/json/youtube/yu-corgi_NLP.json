@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Pn6c9ikbIQg", "title": "학습 없이 리랭커만을 이용해서 RAG 성능과 효율을 늘리는 방법 (DSLR: Document Refinement with Sentence-Level... ) | NLP 코기" },
+    { "id": "Sv9bhDYoGcg", "title": "LLM의 인퍼런스 속도를 2배 이상 높여주는 Speculative Decoding(Accelerating Large Language Model Decoding with..)|꼬꼬엔" },
+    { "id": "v_szmACUas8", "title": "Instruction-finetuned한 Embedding[One Embedder, Any Task: Instruction-Finetuned Text Embeddings]|꼬꼬엔" },
+    { "id": "O0Wbn6r2fSo", "title": "RAG말고 Gen-read[Generate rather than Retrieve: Large Language Models are Strong Context ...]|꼬꼬엔" },
     { "id": "GH9v2ZtAhKI", "title": "기나긴 프롬프트, RAG로 해결하자.[Retrieval meets Long Context Large Language Models]|꼬꼬엔" },
     { "id": "Oug3Pl_m-c0", "title": "얼마나 작은 단위로 검색해야 할까요?[Dense X Retrieval: What Retrieval Granularity Should We Use?]|꼬꼬엔" },
     { "id": "QqEfUAo0_dg", "title": "RAG에서 Query에 따라서 다른 전략으로 Retrieval 하자[Adaptive-RAG: Learning to Adapt Retrieval-Augmented ...]|꼬꼬엔" },

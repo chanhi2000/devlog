@@ -73,6 +73,12 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   python poetry rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
 
+# KVM 활성화
+# 
+# 활성화: brew services start libvirt
+# 실행: virt-manager -c "qemu:///session" --no-fork
+brew install qemu libvirt virt-manager; 
+
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \ 
   dbeaver-community rancher eul flameshot flipper font-jetbrains-mono \
@@ -194,6 +200,7 @@ Install the following(s)
 # 1429033973: RunCat
 # 1635954549: ScanTexter - AI translation 
 # 6443419421: DayMoney - Budget, Diary
+# 6737156289: Testpiler - Convert XCTests to Testing.fwk
 mas install 497799835 \
     1604176982 \
     885120167 \
@@ -202,6 +209,7 @@ mas install 497799835 \
     1612199418 \
     1429033973 \
     1635954549 \
+    6737156289 \
     # 6443419421
 ```
 
@@ -358,12 +366,18 @@ export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
 # $1: m3u8 file to download from
 # $2: output file name
 alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    nsions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
-
+alias startKVM='brew services start libvirt'
+alias stopKVM='brew services stop libvirt'
 # launch starship.sh
 eval "$(starship init zsh)"
 
 # launch fastfetch
 fastfetch
+
+### RANCHER DESKTOP
+export PATH="$PATH:/Users/chlee/.rd/bin"
+### pipx
+export PATH="$PATH:/Users/chlee/.local/bin"
 ```
 
 #### C3-ii. `~/.config/starship.toml`

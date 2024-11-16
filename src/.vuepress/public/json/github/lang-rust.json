@@ -532,13 +532,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "openobserve/openobserve",
-    "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).",
-    "topics": ["elasticsearch", "kibana", "monitoring", "analytics", "metrics", "logs", "prometheus", "log-management", "observability", "traces", "log-analytics", "jaeger", "log-search", "opentelemetry"], 
-    "officialSite": "https://openobserve.ai",
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "reddark-remix/reddark-remix",
     "desc": "",
     "topics": [],
@@ -2419,11 +2412,11 @@
     "banner": ""
   }, {
     "repo": "openobserve/openobserve",
-    "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+    "desc": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). - openo...",
     "officialSite": "https://openobserve.ai",
-    "topics": ["analytics", "apm", "datadog", "elasticsearch", "jaeger", "kibana", "log-analytics", "log-management", "log-search", "logs", "metrics", "monitoring", "observability", "openobserve", "opentelemetry", "prometheus", "rust", "rust-lang", "traces"],
-    "avatar": "https://avatars.githubusercontent.com/u/95867656?v=4",
-    "banner": ""
+    "topics": ["elasticsearch", "kibana", "monitoring", "analytics", "splunk", "metrics", "grafana", "logs", "prometheus", "datadog", "apm", "rust-lang", "log-management", "observability", "traces", "log-analytics", "jaeger", "log-search", "opentelemetry", "openobserve"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/6a3ddabd0a669155793d8aa69acc09a99c9c49dba3e9f48ab6f6d2bf3341f20e/openobserve/openobserve"
   }, {
     "repo": "seekbytes/IPA",
     "desc": "GUI analyzer for deep-diving into PDF files. Detect malicious payloads, understand object relationships, and extract key information for threat analysis.",
@@ -2655,5 +2648,26 @@
     "topics": ["git", "rust", "diff", "delta", "pager", "syntax-highlighter", "color-themes", "git-delta"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/390c60cf53ede2d9b9d72f198085ea389fb5d58218e1cdb75e15bab4ec847a48/dandavison/delta"
+  }, {
+    "repo": "katanemo/arch",
+    "desc": "Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with your APIs - outside business logic. Built ...",
+    "officialSite": "https://archgw.com",
+    "topics": ["proxy", "routing", "gateway", "prompt", "proxy-server", "openai", "envoy", "envoyproxy", "llms", "generative-ai", "llmops", "llm-inference", "ai-gateway", "llm-gateway", "llm-routing"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/064e50c19ddda37d79266c5d0efe17c72e9db28693b090d6e81c9b25f919dfe7/katanemo/arch"
+  }, {
+    "repo": "MilesCranmer/rip2",
+    "desc": " A safe and ergonomic alternative to rm. Contribute to MilesCranmer/rip2 development by creating an account on GitHub.",
+    "officialSite": "/nivekuil/rip",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0e5624561973360b6cf1a55647d12d1a706e45e84ddee8194d2669c8b90e7076/MilesCranmer/rip2"
+  }, {
+    "repo": "glzr-io/glazewm",
+    "desc": "GlazeWM is a tiling window manager for Windows inspired by i3wm.",
+    "officialSite": "",
+    "topics": ["windows", "rust", "window-manager", "tiling-window-manager", "i3wm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/7dfb9ea6d32a04eb5ada8558744ccc1407000d71511aca3b35f21792ee16d9c5/glzr-io/glazewm"
   }
 ]

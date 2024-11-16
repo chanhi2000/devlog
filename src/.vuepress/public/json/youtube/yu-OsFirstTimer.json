@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "OsFirstTimer",
+    "name": "OSFirstTimer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ka8FFptseZFLHYTGoGLgDF86gZ-XRXyWGOq_atlKSr_A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9NKCNY8lp6WFW4_1bsWVQU47gZ_mpQOdsLTYS517jypC6P8wmAYTAJ47KoDaFSfBocIWYUSdqw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pdonjB1Pfqg", "title": "Mum Reacts To PodcastFirstTimer - Episode #1 of 8" },
+    { "id": "aaZIQZF3Osw", "title": "Mum Tries Out Ubuntu 24.10 (2024)" },
+    { "id": "xdo0UvcmdlA", "title": "Mum Tries Out EndeavourOS Neo (2024)" },
+    { "id": "_J__QNX4xbg", "title": "Mum Tries The Turing Test On HumanOrNot.so in 2024 + Reverse Turing Test With Meta AI Voice (2024)" },
+    { "id": "OmilSpOhyKA", "title": "Pranking Mum with an AI Generated Audio Podcast About Herself - NotebookLM (2024)" },
+    { "id": "4sUsZlN_qZM", "title": "Mum Tries Out DWMBlurGlass 2.2.0 (2024) & RetroBar 1.16 (2024)" },
+    { "id": "jdop10ZGqKU", "title": "Mum Tries Out ChatGPT-4o Advanced Voice Mode (2024)" },
+    { "id": "HbCkNXkTiRM", "title": "Mum Tries Out Desktop Pets From The 90's On Windows 2000" },
+    { "id": "n5-MuU1jTGs", "title": "Mum Uses WebSim.ai (2024) To Generate Websites" },
+    { "id": "71_Xb4Yw4YU", "title": "Mum Uses Claude 3.5 Sonnet (2024) to Code Games In HTML5 & Javascript" },
+    { "id": "QjH-bSnhs84", "title": "Mum Explores AI - Local LLM's, AI Voice, Early Video Generation & More!" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -2743,5 +2743,33 @@
     "topics": ["replication", "analytics", "postgresql", "data-warehouse", "olap", "parquet", "iceberg", "duckdb", "data-movement", "data-lakehouse", "zero-etl"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/93632fa27e2cfdd8ad63ce28e93c3e15ba94e72c3bbd804f5e3777fccd8d58dd/BemiHQ/BemiDB"
+  }, {
+    "repo": "GreenmaskIO/greenmask",
+    "desc": "PostgreSQL database anonymization and synthetic data generation tool",
+    "officialSite": "https://greenmask.io",
+    "topics": ["golang", "security", "obfuscation", "restore", "postgresql", "s3", "staging", "obfuscator", "dump", "transform", "deterministic", "security-tools", "anonymization", "masking", "synthetic-data"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/29977b94b9f62d37bec747085fcd8e1baff6b03448438ba5c73e18b3ab5cd6a4/GreenmaskIO/greenmask"
+  }, {
+    "repo": "substratusai/kubeai",
+    "desc": "AI Inference Operator for Kubernetes. Contribute to substratusai/kubeai development by creating an account on GitHub.",
+    "officialSite": "https://www.kubeai.org",
+    "topics": ["kubernetes", "ai", "k8s", "whisper", "autoscaler", "openai-api", "llm", "vllm", "faster-whisper", "ollama", "vllm-operator", "ollama-operator", "inference-operator"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/874f6970685576e619325c142abb539ff826a6c9bf509092cce115dcc0fdacbd/substratusai/kubeai"
+  }, {
+    "repo": "claceio/clace",
+    "desc": "Webapp management for internal tools, app server for containerized apps",
+    "officialSite": "https://clace.io",
+    "topics": ["docker", "golang", "internal-tools", "containers", "application-server", "self-hosted", "webapp", "appserver", "devops-tools", "internal-applications", "starlark", "low-code-platform", "htmx"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/627567877/13474bae-14e4-4ffe-9e11-c23a606a0fcf"
+  }, {
+    "repo": "naver/lobster",
+    "desc": "🦞 Distributed kubernetes container logging system. Contribute to naver/lobster development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["kubernetes", "distributed-systems", "container-log", "global-query"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8fc75ad92e694d1626859219688c15982ab95be548f05e91fab0c095ee2708ab/naver/lobster"
   }
 ]

@@ -71,5 +71,7 @@ head:
 <MyYouTubeItems jsonName="yu-ToposInstitute" /><!-- Topos Institute -->
 <MyYouTubeItems jsonName="yu-algorithmicsimplicity" /><!-- Algorithmic Simplicity -->
 <MyYouTubeItems jsonName="yu-nywoo622" /><!-- 수학사교육의 모든 것 -->
+<MyYouTubeItems jsonName="yu-khanacademy" /><!-- Khan Academy -->
+<MyYouTubeItems jsonName="yu-DMTPARK" /><!-- DMT PARK -->
 
 <TagLinks />

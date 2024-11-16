@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "table_diary",
+    "name": "table diary 식탁일기",
+    "profile": "https://yt3.googleusercontent.com/wYiGYEtqgIrSHXhfXyIfLgBXSyCnwyG4cm69eiMz1gdlrpBt4vaEPUUQSZOwP2dhqRhEFiNmYA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sL4I63dkWAOjbFPS_WCMFCBJmTpi4tTX0-mnyUS0uIADzTGFIYqbRcpXATeIiaTgxMtfR3WhEw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wxqupEVbOHs", "title": "The secret to making your food twice as delicious" },
+    { "id": "j5NGTm_Ds0E", "title": "Turn RICE Into Fluffy BREAD (Flour-less Blender Rice Bread)" },
+    { "id": "uQfbwEghXAo", "title": "Tips for making the crispiest chicken thighs" },
+    { "id": "sOxCDyQSXc0", "title": "Ice Cream Without A Machine" }
+  ],
+  "playlists": [
+
+  ]
+}

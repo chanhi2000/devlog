@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/_BQBWx85pOo80M8OgIpQVWqwR9na1xzw6CU3bO19ZkERSUBKufhcBgSTHXJQUqVTLlanixqi4Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "iiMU--PHq2A", "title": "Use Source Control" },
     { "id": "dRPa6mrYBrU", "title": "[Timelapse] The Diamond Kata In TypeScript + Wallaby.js (Programming, JavaScript)" }
   ]
 }

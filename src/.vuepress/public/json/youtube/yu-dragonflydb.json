@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "dragonflydb",
+    "name": "DragonflyDB",
+    "profile": "https://yt3.googleusercontent.com/SVJn5J5CG1BeaEdxrXKnClH0iwpqGjkPSSTDB24qXcfDZyway0abPNsBz-NHbSE5jrJlOom2qlw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "YNsS_ZddXKk", "title": "Unlocking Dragonfly SSD Tiered Storage" },
+    { "id": "gIawHz8cq7Y", "title": "What's New with the HSETEX Command in Dragonfly v1.21" },
+    { "id": "oeIDvX0pbbM", "title": "What’s new in the JSON family?" },
+    { "id": "XIOOss6K7wQ", "title": "Dragonfly Multi-Tenancy Sneak Peak!" },
+    { "id": "adXShXSAoqk", "title": "Dragonfly Server Configuration Improvements for Redis/Valkey Compatibility" },
+    { "id": "JcOzKls2-xg", "title": "What is Dragonfly SSD Tiered Storage?" },
+    { "id": "M2RA21B8RLo", "title": "Exploring A Top Redis Alternative Dragonfly" },
+    { "id": "NIeDXPK5YZ4", "title": "Exploring A Top Redis Alternative Dragonfly" },
+    { "id": "V-uNSaEOHGI", "title": "What value does Dragonfly bring ?" },
+    { "id": "8tGFgbmLuxs", "title": "What’s the Differences between Dragonfly and Redis?" },
+    { "id": "uhOEmwcNrIA", "title": "What are the Architectural  differences between Redis and Dragonfly" },
+    { "id": "DrXsujnyKAs", "title": "Why did we decide to adopt the redis API ?" },
+    { "id": "zKsn71PtRLw", "title": "How did we decide on the Dragonfly Architecture ?" },
+    { "id": "vQ4oooFERAg", "title": "DragonflyDB Nominated for Best In-Memory Solution | How to Vote" },
+    { "id": "jQPYtq_Lh8I", "title": "What is Dragonfly？" },
+    { "id": "rcWz8bt_NcM", "title": "Redis vs Amazon DynamoDB (in 100 Seconds)" },
+    { "id": "se87C-h2ybI", "title": "Redis Sorted Sets (in 60 Seconds)" },
+    { "id": "a9Cr05331wY", "title": "Why Fabiano Chose Dragonfly Over Redis | Key Benefits" },
+    { "id": "pDt1i4pbmSk", "title": "Dragonfly's (BSL) License vs Redis' (New SSPL) License" }
+  ],
+  "playlists": [
+
+  ]
+}

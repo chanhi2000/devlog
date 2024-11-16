@@ -61,4 +61,20 @@ tag:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Visual Studio 불필요한 `using` 제거 및 정렬](https://skyer9.pe.kr/wordpress/?p=9533)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
+## jacking75
+
+- [GitHub Copilot - Visual Studio의 빠른 정보에서 Copilot을 사용하여 C++ 심볼 이해하기](https://jacking75.github.io/tech-ai_20241102/)
+
+<!-- END: jacking75.github.io -->
+
+---
+
 <TagLinks />

@@ -167,4 +167,12 @@ head:
 
 ---
 
+## WarpStream - An Apache Kafka Compatible Data Streaming Platform
+
+- [Kafka Replication Without the (Offset) Gaps](https://warpstream.com/blog/kafka-replication-without-the-offset-gaps)
+
+<!-- END: warpstream.com -->
+
+---
+
 <TagLinks />

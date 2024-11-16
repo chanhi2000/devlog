@@ -72,6 +72,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-dev"/>dev.to
+
+- [`lsahn` / The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
+
+<!-- END: dev.to -->
+
+---
+
 ## üntil
 
 - [`white`: 비루한 대학생](https://until.blog/@white)
@@ -180,6 +188,9 @@ head:
   <!-- END: jinseong-dev -->
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [$O\left(1\right)$과 $O\left(n\right)$ 시간 복잡도: 알고리즘 효율성의 핵심](http://syaku.tistory.com/m/416)
+  - [Basic Usage of URL Pattern API](https://syaku.tistory.com/m/418)
+  - [HTTP/2 통신에 대한 정리](https://syaku.tistory.com/m/423)
+  - [Apache NiFi](https://syaku.tistory.com/m/425)
   <!-- END: syaku -->
 <!-- END: tistory.com  -->
 

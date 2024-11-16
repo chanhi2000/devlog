@@ -27,6 +27,9 @@ tag:
 ## 기계인간 John Grib
 
 - [Clojure vector](https://johngrib.github.io/wiki/clojure/study/vector/)
+- [Destructuring](https://johngrib.github.io/wiki/programming/destructuring/)
+
+<!-- END: johngrib.github.io -->
 
 ---
 

@@ -55,5 +55,6 @@ tag:
 <MyYouTubeItems jsonName="yu-programgarden" /><!-- 프로그램 동산 - IT 지식 공유 -->
 <MyYouTubeItems jsonName="yu-ambitiouslabs" /><!-- Ambitious Alim -->
 <MyYouTubeItems jsonName="yu-AivarsMeijers" /><!-- Aivars Meijers -->
+<MyYouTubeItems jsonName="yu-yukicoding6552" /><!-- Yuki Coding -->
 
 <TagLinks />

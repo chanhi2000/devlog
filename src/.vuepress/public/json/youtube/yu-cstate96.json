@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iWnmlpdfkGI", "title": "generative1_4" },
+    { "id": "b9B6v-dcdIY", "title": "Raug: Rusty Audio Graphs (Devlog #1)" },
+    { "id": "N97qX_EqbB4", "title": "Quake 3 BSP Loading, and a new and improved asset pipeline! (Weaver Devlog #7)" },
+    { "id": "AzAvTVXUdgc", "title": "Yes, my custom OS runs DOOM! (Rust Operating System) (k4dos devlog #5)" },
+    { "id": "sjEurGpg_MQ", "title": "Oops! I rewrote the whole game engine again. (Weaver Devlog #6)" },
+    { "id": "zMI0wagC5nM", "title": "I'm writing another Operating System in Rust! (Oppy Devlog 1)" },
     { "id": "aGVHIMnkj-4", "title": "GPU rendering and a Bevy-style ECS for my game engine (Weaver Devlog #3)" },
     { "id": "hhf2IIGj1q8", "title": "How I created the renderer for my Rust game engine! (Weaver devlog #4)" },
     { "id": "q0xWnGR-BzI", "title": "I'm creating a game engine from scratch in Rust. (Weaver Devlog #1)" },

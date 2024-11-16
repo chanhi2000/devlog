@@ -6,6 +6,30 @@
     "banner": "https://yt3.googleusercontent.com/IMbWnorQuaPVSyH4FVVpCSYO019UXCp5fkjvAnQUB0vStEnb5uMXgbjLbFfdTRn3d7h_QwI9hw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xcxGIc-C_rk", "title": "React Tutorial #22 | React Life Cycle | Mounting, Updating, Unmounting | Beginner to Advance Series" },
+    { "id": "828hpyK_S58", "title": "React Tutorial #23 | React Hooks | useEffect | Beginner to Advance Series" },
+    { "id": "SIaVC6GftCg", "title": "React Tutorial #24 | Fetch Data From API | useEffect | fetch | Beginner to Advance Series" },
+    { "id": "63J0gc7BI0g", "title": "React Tutorial #25 | Tours Project | useEffect | Read More, Show Less | Beginner to Advance Series" },
+    { "id": "JuIwQEfcW6Y", "title": "React Tutorial #3 | What is Component | Function Vs Class Component | Beginner to Advance Series" },
+    { "id": "_6wfU6_8DOw", "title": "React Tutorial #4 | What is JSX | React Fragment | Beginner to Advance Series" },
+    { "id": "XvRb-lsmev4", "title": "React Tutorial #5 | React Button Click Event | Function Example | Beginner to Advance Series" },
+    { "id": "VPZ17g3e2Yc", "title": "React Tutorial #6 | State With Functional Component | useState Hook | Beginner to Advance Series" },
+    { "id": "5by2GbVRX7M", "title": "React Tutorial #8 | Inc Dec using useState | function & Class Component | Beginner to Advance Series" },
+    { "id": "0rwVBQ3QWQk", "title": "React Tutorial #7 | State With Class Component | state & setState | Beginner to Advance Series" },
+    { "id": "jsmuidzoYi4", "title": "React Tutorial #9 | Digital Clock using state | function & Class Compo | Beginner to Advance Series" },
+    { "id": "EsZJiFMG_Js", "title": "React Tutorial #10 | Props in React | Props with Function Compo | Beginner to Advance Series" },
+    { "id": "-cchb6Wzwjs", "title": "React Tutorial #11 | Props in React | Props with Class Component | Beginner to Advance Series" },
+    { "id": "y24B2GA9BcI", "title": "React Tutorial #12 | InputField Or TextField  | Input onChange Event | Beginner to Advance Series" },
+    { "id": "d7zy3Is8WvY", "title": "React Tutorial #14 | Hide and Show | button onClick Event | Beginner to Advance Serie" },
+    { "id": "WFBYlyEqBBk", "title": "React Tutorial #15 | Basic Form | Checkbox Radiobutton Dropdown | Beginner to Advance Series" },
+    { "id": "QZcaGPlfqWo", "title": "React Tutorial #16 | Conditional Rendering | Using If-Else and Ternary | Beginner to Advance Series" },
+    { "id": "IhQoibIvEYk", "title": "React Tutorial #17 | Basic Form Validation | Login Validation | Beginner to Advance Series" },
+    { "id": "Qj5fVuzRMtg", "title": "React Tutorial #18 | Pass function as Props | Props Function | Beginner to Advance Series" },
+    { "id": "iHu-i5aFU_A", "title": "React Tutorial #19 | Movie Listing using Props, Components | Mini Project | Beginner to Adv Series" },
+    { "id": "vOSd7zY2Oc0", "title": "React Tutorial #20 | ToDo using Props, Components | Mini Project | Beginner to Advance Series" },
+    { "id": "UUvmQe90vVk", "title": "React Tutorial #21 | Keep-Note using Props, Components | Mini Project | Beginner to Advance Series" },
+    { "id": "Xb6Los0TN0I", "title": "React Tutorial #1 | Introduction | Zero to Hero | Beginner to Advance Series" },
+    { "id": "w8q4G03pp5U", "title": "React Tutorial #2 | Installation & Setup | React First Program | Beginner to Advance Series" },
     { "id": "9CkpMm-n5iA", "title": "Android Healthcare Project | Android beginner Project | Tutorial | Android | Project | 2022-23" }
   ]
 }

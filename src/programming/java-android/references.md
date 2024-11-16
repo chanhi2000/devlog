@@ -94,7 +94,7 @@ tag:
 
 - [`bladecoder`/ Kotlin JSON Benchmark on Android (2022): Moshi vs Kotlin Serialization](https://bladecoder.medium.com/kotlin-json-benchmark-on-android-2022-moshi-vs-kotlin-serialization-18436c0596c3)
 - [`tanaytandon` / Unit testing a fragment with View Model in Android](https://medium.com/@tanaytandon/unit-testing-a-fragment-with-view-model-in-android-172fcd7807aa)
-- [`proandroiddev`: droidcon](https://proandroiddev.com/)
+- [(`proandroiddev`) droidcon](https://proandroiddev.com/)
   - [Effectively using Android Lint in existing projects](https://proandroiddev.com/effectively-using-android-lint-in-existing-projects-eacff100a919)
   - [Jetpack Compose Migration: Best Practices and Strategies](https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe)
   - [RecyclerView Guide — Pagination, View Types, Shimmer, Error Loading and more…](https://proandroiddev.com/everything-you-need-to-know-about-recyclerview-577bf9248298)
@@ -123,6 +123,7 @@ tag:
   - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
   - [Kotlin Tips and Tricks You May Not Know: #1 — Kotlin Logging](https://proandroiddev.com/kotlin-tips-and-tricks-you-may-not-know-1-kotlin-logging-91b7675b6276)
   - [Using Kotlin Reflection to Automate Compose Navigation](https://proandroiddev.com/4c5b565f660f)
+  - [Top 10 Coroutine Mistakes We All Have Made as Android Developers](https://proandroiddev.com/top-10-coroutine-mistakes-we-all-have-made-as-android-developers-187d5e14d212)
 - [(`androiddevelopers`) Android Developers: The official Android Developers publication on Medium](https://medium.com/androiddevelopers)
   - [What’s new in Jetpack Benchmark 1.2.0](https://medium.com/androiddevelopers/whats-new-in-jetpack-benchmark-1-2-0-82d)
   - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
@@ -135,6 +136,8 @@ tag:
   - [Mastering Date and Time Management in iOS with Kotlinx DateTime: A Step-by-Step Guide](https://proandroiddev.com/mastering-date-and-time-management-in-ios-with-kotlinx-datetime-a-step-by-step-guide-ba1fe3bc32fe)
   - [Android Process Lifecycle + Coroutines == ❤](https://proandroiddev.com/android-process-lifecycle-coroutines-7a8128470dd4)
   - [Using Native iOS Navigation from Compose Multiplatform](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070)
+  - [KMPNotifier Update: Web, Desktop, and New Features for Kotlin Multiplatform Notifications](https://proandroiddev.com/kmpnotifier-update-web-desktop-and-new-features-for-kotlin-multiplatform-notifications-529b489f5d9c)
+  - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
   <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
@@ -195,6 +198,9 @@ tag:
 - [`androiddevelopers` / Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 - [`androiddevelopers` / Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [`andresand` / How to create Toast message in CMP Compose MultiPlatform | Android and iOS](https://andresand.medium.com/how-to-create-toast-message-in-kmp-compose-multiplatform-android-and-ios-00397d8147bc)
+- [`sunghyunroh` / 안드로이드개발 팁. `implementation` 배포한 라이브러리 or 배포할 라이브러리](https://medium.com/@sunghyunroh/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EA%B0%9C%EB%B0%9C-%ED%8C%81-implementation-%EB%B0%B0%ED%8F%AC%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-or-%EB%B0%B0%ED%8F%AC%ED%95%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-9ab839d377a1)
+- [`sunghyunroh` / 내 앱이 왜 켜졌을까?꺼졌을까? — ApplicationStartInfo와 ApplicationExitInfo](https://medium.com/@sunghyunroh/%EB%82%B4-%EC%95%B1%EC%9D%B4-%EC%99%9C-%EC%BC%9C%EC%A1%8C%EC%9D%84%EA%B9%8C-%EA%BA%BC%EC%A1%8C%EC%9D%84%EA%B9%8C-applicationstartinfo%EC%99%80-applicationexitinfo-2744f033d423)
+- [Jetpack Compose UI 조합(Composition)하기 심화](https://medium.com/@wisemuji/jetpack-compose-ui-%EC%A1%B0%ED%95%A9-composition-%ED%95%98%EA%B8%B0-%EC%8B%AC%ED%99%94-33910e8f09df?source=rss-874b5ef30828------2)
 
 <!-- END: medium.com -->
 
@@ -440,6 +446,9 @@ tag:
 - [Using Jetpack Room in Kotlin Multiplatform shared code](https://johnoreilly.dev/posts/jetpack_room_kmp/)
 - [Exploring New Worlds of UI sharing possibilities in PeopleInSpace using Compose Multiplatform](https://johnoreilly.dev/posts/exploring-compose_multiplatform_sharing_ios/)
 - [Using kotlin-inject in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/kotlin-inject-kmp/)
+- [Using Vertex AI in a Compose/Kotlin Multiplatform project](https://johnoreilly.dev/posts/vertex-ai-kmp/)
+
+<!-- END: johnoreilly.dev -->
 
 ---
 
@@ -475,6 +484,8 @@ tag:
 ### 2024
 
 - [Android에서 효율적인 모듈 디펜던시 관리하기, build-logic으로 전환하기?](https://thdev.tech/android/2024/10/20/Android-dependency-manage/)
+- [안드로이드 Theme와 `GetStream` Theme를 알아보고 `CompositionLocalProvider`의 역할을 알아본다.(GetStream 후원글)](https://thdev.tech/compose/2024/11/03/GetStream-Theme/)
+- [데이터 흐름(Data flow)을 이해해 보는 데 있어 필요한 것은? 짝퉁 개발자처럼 논하기](https://thdev.tech/dataflow/2024/11/09/Data-flow/)
 
 <!-- END: thdev.tech -->
 
@@ -740,6 +751,38 @@ tag:
 - [Why r8 preferred BMW over Audi?](https://theapache64.github.io/posts/why-r8-preferred-bmw-over-audi/)
 
 <!-- END: theapache64.github.io -->
+
+---
+
+## 신현석(Hyeonseok Shin)
+
+- [Android 폰에 웹서버 설치하기](https://hyeonseok.com/blog/925)
+
+<!-- END: hyeonseok.com -->
+
+---
+
+## Marcello Galhardo
+
+- [Extension Shadowing for Actual Declarations in KMP](https://marcellogalhardo.dev/posts/extension-shadowing-for-actual-declarations-in-kmp/)
+
+<!-- END: marcellogalhardo.dev -->
+
+---
+
+## @akobor
+
+- [Programmatic versioning in a KMP mobile app](https://akobor.me/posts/programmatic-versioning-in-a-kmp-mobile-app)
+
+<!-- END: akobor.me -->
+
+---
+
+## Cash App Code Blog
+
+- [Kotlin Multiplatform parameterized tests with Burst](https://code.cash.app/burst)
+
+<!-- END: code.cash.app -->
 
 ---
 

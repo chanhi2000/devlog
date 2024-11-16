@@ -293,6 +293,9 @@ tag:
   - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
   - [Linux Device Driver 기초 #5 system daemon과 라이브러리 개발](https://1000sj.tistory.com/m/398)
   - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
+  - [`strongswan` 구조 분석](https://1000sj.tistory.com/m/406)
+  - [XFRM (ipsec protocol framework)](https://1000sj.tistory.com/m/410)
+  - [Linux Device Driver 기초 #8 PCI 드라이버](https://1000sj.tistory.com/m/422)
   <!-- END: 1000sj -->
 - [`myinfrabox` / MyInfraBox](https://myinfrabox.tistory.com/m/)
   - [\[Linux\] Port Forwarding - 포트 포워딩](https://myinfrabox.tistory.com/m/281)
@@ -413,6 +416,8 @@ tag:
 - [Ubuntu – 주기적인 서비스 재시작](https://skyer9.pe.kr/wordpress/?p=9242)
 - [A start job is running for wait for network to be configured](https://skyer9.pe.kr/wordpress/?p=9331)
 - [Failed to fetch …… Hash Sum mismatch](https://skyer9.pe.kr/wordpress/?p=9364)
+- [Linux – 파일 비우기 make file empty](https://skyer9.pe.kr/wordpress/?p=9552)
+- [E: Package ‘python3-pip’ has no installation candidate](https://skyer9.pe.kr/wordpress/?p=9564)
 
 <!-- END: skyer9.pe.kr -->
 

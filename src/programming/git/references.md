@@ -66,6 +66,9 @@ head:
 - [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/)
 - [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 - [Git Worktrees and GitButler](https://blog.gitbutler.com/git-worktrees/)
+- [Fearless Rebasing](https://blog.gitbutler.com/fearless-rebasing/)
+
+<!-- END: blog.gitbutler.com -->
 
 ---
 

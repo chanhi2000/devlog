@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "bycloudAI",
+    "name": "bycloud",
+    "profile": "https://yt3.googleusercontent.com/dFUSZtKPu6JO5I9YCJxUlORiS_Fi3xP0gYnWFGYrPiVR2HBlb-VA-Sem3oVhzzembGRjrjbi_44=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/96RYWne5juCA79LrnzrLkeMmWIe5Io4Yq5bW-f4skchhELo8J3S-isqrsewALckc-wpPgXJUng=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wkDE2hyf5jU", "title": "So... What Is The Right Way To Train AGI?" },
+    { "id": "6Xy0tCidPl0", "title": "Transformers With Noise Cancelling Seems Promising [Differential Transformer]" },
+    { "id": "h24Tr_cnpo8", "title": "I Listened To AI Podcast For 10 Days So You Don’t Have To" },
+    { "id": "5k1zkYCuF-8", "title": "The Unreasonable Effectiveness of Prompt \"Engineering\"" },
+    { "id": "pi7LF-OpO6k", "title": "What Is Test-Time Compute and Why It's Kinda Mid" },
+    { "id": "3qLFjfGWmNg", "title": "How AI Researchers Turned Chatbot Into Video Generator" },
+    { "id": "MKDdpKZTs8A", "title": "Llama 3.2 Deep Dive - Tiny LM & NEW VLM Unleashed By Meta" },
+    { "id": "O-VDYl5lrIE", "title": "Infinite Research Glitch? The AI Scientist Explained" },
+    { "id": "Xtr_Ll_A9ms", "title": "The LK-99 of AI: The Reflection-70B Controversy Full Rundown" },
+    { "id": "w2iumrJ90Qk", "title": "This Is GPT-5?! OpenAI o1 Full Breakdown" },
+    { "id": "0Xn8xGV_w9w", "title": "How AI Simulates DOOM Is Actually Absurd" },
+    { "id": "vyJy-0zBSQ0", "title": "Model Distillation - How ChatGPT Gets Cheaper Over Time" },
+    { "id": "jOmTwRx-W08", "title": "The next Attention is All You Need? Test Time Training Explained" },
+    { "id": "F70KlwO4wP0", "title": "1 Million Tiny Experts in an AI? Fine-Grained MoE Explained" },
+    { "id": "Nvb_4Jj5kBo", "title": "Why \"Grokking\" AI Would Be A Key To AGI" },
+    { "id": "uNjoZ5423tE", "title": "This Free Image AI Is Gonna Break the Internet" },
+    { "id": "5Y3a61o0jFQ", "title": "How RAG Turns AI Chatbots Into Something Practical" },
+    { "id": "68_BKkymYs4", "title": "How You Can Make The Best AI Chatbot In The World [ft. Llama-3.1]" },
+    { "id": "QqrGt5GrGfw", "title": "I Am The Golden Gate Bridge & Why That's Important." },
+    { "id": "A1EWqjKJkK8", "title": "The Painful Launch of Stable Diffusion 3" },
+    { "id": "xLnQtLpPH-Y", "title": "Was \"Machine Learning 2.0\" All Hype? The Kolmogorov-Arnold Network Explained" }
+  ],
+  "playlists": [
+
+  ]
+}

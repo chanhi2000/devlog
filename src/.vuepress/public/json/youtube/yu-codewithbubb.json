@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/4jVP0BefjQ5u9snPy4HjwRR9wzp9SBSvI2R5kCQqRntbvPC1ld2pqKmK1pLVZWtK1A1Sox28=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "n-xq2ar2kZ8", "title": "3 Coding Secrets I Wish I Knew Earlier" },
     { "id": "EwpT466EyP4", "title": "What is an ORM and what does it do?" },
     { "id": "BCPTRCvASk0", "title": "Learn TypeORM in 10 Minutes" },
     { "id": "LpDcOhhBX_A", "title": "Let's build an app with Angular, Express and TypeORM!" },

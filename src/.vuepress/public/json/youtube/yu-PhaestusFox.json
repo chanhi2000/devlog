@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "PhaestusFox",
+    "name": "PhaestusFox",
+    "profile": "https://yt3.googleusercontent.com/lk_jxSWmyjJemQ_7512f3jxfUTZa6OMYAqEn4hJnQTmH6lOK7VPbQzNYeLjkZDChbYZzaXii=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/62P-evk2t5nYjwBqYj8npJOxLp6WloI5wfQgwMtG_nCqK3kD7_UL3t0TUqlbAg3ubXb1EpKh=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bycVgnhs-BA", "title": "Font  ligatures an easy visiule upgrade" },
+    { "id": "R5H1IC8A-OI", "title": "Bevy Basics: Texture Atlas" },
+    { "id": "kJ0tKevgafc", "title": "Tying to crate runescape style movement in Bevy" },
+    { "id": "DBjxdAa1il4", "title": "What is an Entity in Bevy? | Easy ECS Explanation for Beginners" },
+    { "id": "a3PQ8b2FI-w", "title": "Making A Hunger Games Simulator" },
+    { "id": "RDUzzlW1VZY", "title": "Making An FPS Game Using Bevy" },
+    { "id": "wZcAbkVnbRc", "title": "Making An FPS Game Using Bevy" },
+    { "id": "TDM3w9m23uw", "title": "Making A Platformer Using Bevy" },
+    { "id": "al0dOLFQCmY", "title": "Making A Platformer Using Bevy" },
+    { "id": "8luklVqsQAQ", "title": "I Made A Game and you can play it: Here is how" },
+    { "id": "PepJgzbqvy8", "title": "Playing the bevy jam 5 submitions" },
+    { "id": "JPc73GbPa1c", "title": "I Did A Speedrun Of Bevy And I Sucked" },
+    { "id": "rPO5e55L5cU", "title": "Bevy Update 0.14 So much new stuff" },
+    { "id": "cfWneHSph4E", "title": "Zero To Pong With Bevy" },
+    { "id": "gRvW6I5WpW0", "title": "Advancing Pong Part A: With Physics Using Bevy Rapier" },
+    { "id": "7RPnzGKukBM", "title": "Advancing Pong: We Need to Keep Score" },
+    { "id": "GyYRD_H40Ws", "title": "Exploring Quill For Using In Pong And Bevy Jam" },
+    { "id": "PjkWQpQ7mKQ", "title": "Day 1 of the Bevy Jam 5: Adding Voxel Maps To Hextradimensional" },
+    { "id": "q21QSn3AIRU", "title": "Day 1 of the Bevy Jam 5: Adding Voxel Maps To Hextradimensional" },
+    { "id": "rrvPj0AJPwU", "title": "Making \"Adventures of Pixel\" A game desinged by ChatGPT" }
+  ],
+  "playlists": [
+
+  ]
+}

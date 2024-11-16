@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "jangpm",
+    "name": "일잘러 장피엠",
+    "profile": "https://yt3.googleusercontent.com/NNvsQc68zWpc-6-hd07ks7pcRvOdQg22Ui4IqxUkSUYNG1mn4f0Iq7bz1v0xKXzb8VBatln_Mac=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6tsVbOKQ4UU36TI7scGbPncIQToldXCWTgLDnjosW4b5X_-LK5oxxKYKyYgan-YqDEKTaGva5A=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z3XrTlMaDWY", "title": "직장인을 위한 ChatGPT 실무 활용 오픈 특강 - 라이브 웨비나 녹화본" },
+    { "id": "WJ2npZPMHi8", "title": "전문 디자이너가 AI와 노코드로 만든 웹사이트 구경 좀 하고 가세요~" },
+    { "id": "uMuj_v5y9HY", "title": "GPTs로 업무 자동화, 이 영상으로 완전 정복! (왜 굳이 GPTs를 써야 하는지 궁금했던 분들 꼭 보세요.)" },
+    { "id": "ZCwHUe7ZoPs", "title": "찐 데이터 분석가가 알려주는 챗GPT 데이터 분석 (코딩, 통계 몰라도 딥러닝까지 가능!)" },
+    { "id": "BbcXbrxXUuM", "title": "노션과 챗GPT로 이렇게까지 자동화할 수 있다는거 아셨나요? (Make 노코드 업무 자동화 사례) @notionactually" },
+    { "id": "FKwK3uw9GiU", "title": "노션, 챗GPT, 메이크를 활용한 자동화에 대한 후속 대담" },
+    { "id": "3Piz51aGobk", "title": "저의 강력한 경쟁자가 등장했습니다. AI 자동화 유튜버의 AI 실무 활용법 @kooky0ai | 요즘 시대 일잘러 ep.07" },
+    { "id": "Ou9X4yu0KG8", "title": "챗GPT 데이터 분석, 이 영상으로 끝내세요! (다양한 분석 사례와 활용 팁)" }
+  ],
+  "playlists": [
+
+  ]
+}

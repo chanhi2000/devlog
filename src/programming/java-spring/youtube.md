@@ -92,5 +92,7 @@ head:
 <MyYouTubeItems jsonName="yu-virtualJUG" /><!-- v JUG -->
 <MyYouTubeItems jsonName="yu-devCJH" /><!-- devCJH -->
 <MyYouTubeItems jsonName="yu-SagguUK" /><!-- Saggu -->
+<MyYouTubeItems jsonName="yu-yukicoding6552" /><!-- Yuki Coding -->
+<MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
 
 <TagLinks />

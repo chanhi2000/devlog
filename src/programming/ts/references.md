@@ -184,6 +184,7 @@ head:
 - [`@ksh4704` / TypeScript 공부(9)](https://velog.io/@ksh4704/TypeScript-%EA%B3%B5%EB%B6%809)
 - [`@pandati0710` / 구글의 구조화된 데이터로 검색순위 높이기](https://velog.io/@pandati0710/%EA%B5%AC%EA%B8%80%EC%9D%98-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EA%B2%80%EC%83%89%EC%88%9C%EC%9C%84-%EB%86%92%EC%9D%B4%EA%B8%B0)
 - [`@haryan248` / 나만 몰랐던 세 번째 인자](https://velog.io/@haryan248/%EB%82%98%EB%A7%8C-%EB%AA%B0%EB%9E%90%EB%8D%98-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EC%9D%B8%EC%9E%90)
+- [`@760kry` / 인덱스 시그니처와 맵드 타입, 제네릭](https://velog.io/@760kry/%EC%9D%B8%EB%8D%B1%EC%8A%A4-%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%EC%99%80-%EB%A7%B5%EB%93%9C-%ED%83%80%EC%9E%85-%EC%A0%9C%EB%84%A4%EB%A6%AD)
 
 <!-- END: velog.io -->
 
@@ -665,6 +666,14 @@ head:
 - [Unlocking the Power of JSON Patch](https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch)
 
 <!-- END: zuplo.com -->
+
+---
+
+## 영찬 블로그
+
+- [Make Typescript Typescriptly](https://blog.0chan.dev/2024-10-21-Make-Typescript-Typescriptly/)
+
+<!-- END: blog.0chan.dev -->
 
 ---
 

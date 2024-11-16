@@ -161,6 +161,9 @@ tag:
 - [`@broccolism` / "40년차 프로그래머" 번역 - (1) 스프린트도 마라톤도 아닌, 일기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-1-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
 - [`@9rganizedchaos` / 🏃🏻‍➡️ 프론트엔드 개발자 창업 도전기](https://velog.io/@9rganizedchaos/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [`@parallelkim` / 2주간 퇴근 후 혼자 개발해 사용자 400명 모으기](https://velog.io/@parallelkim/%ED%95%9C%EC%9E%90%EC%8B%AB%EC%96%B4)
+- [`@haryan248` / 2025년까지 51일 남은 지금](https://velog.io/@haryan248/2025%EB%85%84%EA%B9%8C%EC%A7%80-51%EC%9D%BC-%EB%82%A8%EC%9D%80-%EC%A7%80%EA%B8%88)
+- [`@invidam` / 데이터 엔지니어 신입, 어떻게 성장할까?](https://velog.io/@invidam/data-engineering-beginner)
+- [`@juhee067` / 디자이너에서 개발자로, 그리고 기획자로](https://velog.io/@juhee067/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A1%9C)
 
 <!-- END: velog.io -->
 
@@ -191,6 +194,7 @@ tag:
 - [`giljae` / 비기술 관리자의 함정](https://giljae.medium.com/%EB%B9%84%EA%B8%B0%EC%88%A0-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%9D%98-%ED%95%A8%EC%A0%95-6ae75543cafe?source=rss-bb87e9e8047d------2)
 - [`giljae` / 풀스택 개발자, 현실적으로 가능한가?](https://giljae.medium.com/%ED%92%80%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-4e62c8a3fc2c?source=rss-bb87e9e8047d------2)
 - [`jaeyeong951` / 저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
+- [`lionha` / 신한캐피탈, 이유없이 창업자에게 15%의 연이자로 투자금 반환 소송을 걸다. - 1편](https://medium.com/@lionha/%EC%8B%A0%ED%95%9C%EC%BA%90%ED%94%BC%ED%83%88-%EC%9D%B4%EC%9C%A0%EC%97%86%EC%9D%B4-%EC%B0%BD%EC%97%85%EC%9E%90%EC%97%90%EA%B2%8C-%ED%88%AC%EC%9E%90%EA%B8%88-%EB%B0%98%ED%99%98-%EC%86%8C%EC%86%A1%EC%9D%84-%EA%B1%B8%EB%8B%A4-1%ED%8E%B8-78d1d356bf3e)
 
 <!-- END: medium.com -->
 
@@ -376,6 +380,14 @@ tag:
 - [`@2weV` / 최강야구를 보며 느낀 커리어에서의 '멈춤'의 중요함](https://brunch.co.kr/@@2weV/577)
 - [`@3L0s` / DX 실행: 비즈니스 모델의 디지털화 사례 - 디지털 혁신-22](https://brunch.co.kr/@@3L0s/147)
 - [`@2weV` / 성장의 key: 진심-몰입-최선의 alignment](https://brunch.co.kr/@@2weV/578)
+- [`@ZVA` / 서구 복지 국가 위기의 본질과 이민자들은 관련이 없다](https://brunch.co.kr/@@ZVA/743)
+- [`@ZVA` / 스포티파이가 음악으로 넷플릭스 만큼 돈 못버는 이유](https://brunch.co.kr/@@ZVA/745)
+- [`@gpO` / 태국 방콕의 스타트업 환경을 체험했다. - 태국의 스타트업 환경은?](https://brunch.co.kr/@@gpO/111)
+- [`@24SO` / 정말 어려운 비폭력 대화](https://brunch.co.kr/@@24SO/48)
+- [`@2weV` / 통제/관리 시대의 끝](https://brunch.co.kr/@@2weV/579)
+- [`@2weV` / 좋은 질문의 힘](https://brunch.co.kr/@@2weV/581)
+- [`@2weV` / 한국 스타트업의 미국 진출 관련 드리는 조언](https://brunch.co.kr/@@2weV/582)
+- [`@2weV` / 실리콘밸리의 독특한 uniformity](https://brunch.co.kr/@@2weV/583)
 
 <!-- END: brunch.co.kr -->
 
@@ -414,6 +426,7 @@ tag:
 ## Banksalad
 
 - [팀과 함께 성장하는 Engineering Manager의 역할](https://blog.banksalad.com/tech/engineering-manager-role-growth)
+- [테크스펙은 문서가 아니다](https://blog.banksalad.com/tech/techspec-is-not-doc/)
 
 ---
 
@@ -593,8 +606,9 @@ tag:
   - [퇴직연금 쉽게 이해하기 #2](https://aws-hyoh.tistory.com/m/291)
   - [국비지원교육(IT)을 신청하기 전에 생각해보아야 할 것들](https://aws-hyoh.tistory.com/m/295)
   - [매 순간 최선을 다한다는 것은](https://aws-hyoh.tistory.com/m/298)
-- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [퇴직연금은 한 살이라도 어릴 때](https://aws-hyoh.tistory.com/m/303)
   <!-- END: aws-hyoh -->
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
   - [블록체인 프로젝트 기획 경험기 (1) - Experience planning a blockchain project](https://vurias0203.tistory.com/m/entry/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EA%B2%BD%ED%97%98%EA%B8%B0-1-Experience-planning-a-blockchain-project)
   - [이직의 시기: 당신의 커리어 성장을 위한 신호를 알아차리는 법](https://vurias0203.tistory.com/m/entry/%EC%9D%B4%EC%A7%81%EC%9D%98-%EC%8B%9C%EA%B8%B0-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%A0%ED%98%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EC%B0%A8%EB%A6%AC%EB%8A%94-%EB%B2%95)
   <!-- END: vurias0203 -->
@@ -662,6 +676,7 @@ tag:
 - [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
   - [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
   - [\[생각정리\] NAVER가 관심 있는 것들 (1784, 디지털 트윈, 3D Recon, SLAM, ..ALIKE Solution)](https://csj000714.tistory.com/m/1110)
+  - [\[Career\] 연구자 프로필 작성 (drawingprocess.github.io)](https://csj000714.tistory.com/m/1220)
   <!-- END: csj000714 -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [그리고 한 가지 더 (스티브잡스)](https://ravenkim97.tistory.com/m/m/437)
@@ -672,6 +687,7 @@ tag:
   - [핵심역량 진단결과 코칭보고서](https://ravenkim97.tistory.com/m/444)
   - [21년도 보안동아리 활동(네트워크 보안)](https://ravenkim97.tistory.com/m/441)
   - [8월 프런트 (1/4)](https://ravenkim97.tistory.com/m/486)
+  - [24년도 대한민국에서 개발자들이 평균 한 회사에 몇년 있는지 알려줘](https://ravenkim97.tistory.com/m/507)
   <!-- END: ravenkim97 -->
 - [`jeinalog` / Jeina, De'vLog](https://jeinalog.tistory.com/m/)
   - [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기](https://jeinalog.tistory.com/m/30)
@@ -743,6 +759,20 @@ tag:
 - [`kminito` / 코딩으로 자아실현](https://kminito.tistory.com/m/)
   - [노트필기) FastAPI로 배우는 백엔드 프로그래밍 with 클린 아키텍처 (챕터 2)](https://kminito.tistory.com/m/116)
   <!-- END: kminito -->
+- [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
+  - [\[회고록\] 조금 늦은 입사 2년차 돌아보기](https://colabear754.tistory.com/m/226)
+  <!-- END: colabear754 -->
+- [`helicopter55` / 나는 내 좌절에 값어치를 매긴다.](https://helicopter55.tistory.com/m/)
+  - [\[책 정리\] 구글 엔지니어는 이렇게 일한다. | #2장 팀워크 이끌어내기를 읽고](https://helicopter55.tistory.com/m/97)
+  - [\[책 정리\] 구글 엔지니어는 이렇게 일한다. | #1장 소트프웨어 엔지니어링이란? 을 읽고](https://helicopter55.tistory.com/m/93)
+  - [\[책 정리\] 구글 엔지니어는 이렇게 일한다 #3 지식 공유를 읽고](https://helicopter55.tistory.com/m/99)
+  - [구글 엔지니어는 이렇게 일한다 #4장 공정 사회를 위한 엔지니어링을 읽고](https://helicopter55.tistory.com/m/101)
+  - [구글 엔지니어는 이렇게 일한다. | #5장 팀 이끌기를 읽고](https://helicopter55.tistory.com/m/102)
+  <!-- END: helicopter55 -->
+- [`softwareeng` / 소프트웨어공학-Software Engineering](https://softwareeng.tistory.com/m/)
+  - [버퍼는 중요한 것에 두자](https://softwareeng.tistory.com/m/entry/%EB%B2%84%ED%8D%BC%EB%8A%94-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%97%90-%EB%91%90%EC%9E%90)
+  - [애자일에 경로 고치기란 없다. 경로 조정만 있다.](https://softwareeng.tistory.com/m/entry/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EA%B2%BD%EB%A1%9C-%EA%B3%A0%EC%B9%98%EA%B8%B0%EB%9E%80-%EC%97%86%EB%8B%A4-%EA%B2%BD%EB%A1%9C-%EC%A1%B0%EC%A0%95%EB%A7%8C-%EC%9E%88%EB%8B%A4)
+  <!-- END: softwareeng -->
 <!-- END: tistory.com -->
 
 ---
@@ -839,6 +869,8 @@ tag:
 - [바퀴벌레의 길](https://thestartupbible.com/2024/10/the-cockroach-way.html)
 - [개 같이 일하기](https://thestartupbible.com/2024/10/work-like-a-dog-if-you-want-to-make-it.html)
 - [이야기꾼 되기](https://thestartupbible.com/2024/10/be-a-good-storyteller.html)
+- [내 앞의 창업가](https://thestartupbible.com/2024/11/reflecting-myself-in-the-founder-in-the-room.html)
+- [이제 안심해도 됩니다](https://thestartupbible.com/2024/11/in-good-hands.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -893,6 +925,9 @@ tag:
 - [개인 사업자와 법인 사업자](https://jeho.page/essay/2024/10/18/business-registration.html)
 - [정부의 창업 지원 (비대면 바우처)](https://jeho.page/essay/2024/10/21/government-sponsored.html)
 - [나는 대체 불가능한 직원일까?](https://jeho.page/essay/2024/10/29/irreplaceable.html)
+- [개발자의 주인 의식](https://jeho.page/essay/2024/11/04/ownership.html)
+- [회사 선택은 어떤 재테크보다도 중요한 투자](https://jeho.page/essay/2024/11/04/company-stock.html)
+- [유명해지는 것도 쉽지 않다](https://jeho.page/essay/2024/11/08/fame.html)
 
 <!-- END: jeho.page -->
 
@@ -1145,6 +1180,7 @@ tag:
 - [리더십의 안전감 – 위임을 통한 성장](https://chidoo.me/index.php/2024/09/02/empowerment-in-leadership/)
 - [리더십의 안전감 – 안전의 요소: Empathy, Vulnerability, Radical Candor](https://chidoo.me/index.php/2024/09/09/why-radical-candor-in-leaderships/)
 - [리더십의 안전감 – 끼리끼리의 폐해](https://chidoo.me/index.php/2024/09/18/hey-bro-in-leadership/)
+- [리더십의 동기부여 – 왜 일하는가?](https://chidoo.me/index.php/2024/11/04/what-work-means-in-leadership/)
 
 <!-- END: chidoo.me -->
 
@@ -1540,6 +1576,11 @@ https://m.blog.naver.com/&logId=
 ## 사랑나무아빠의 행복한 세상
 
 - [IT 프로그래머로 살아남기 위한 개발자 실무 교육 필요성](https://m.blog.naver.com/hupers/223516480982)
+- [나 인성에 문제 있어? (죄송합니다.의 중요성)](https://m.blog.naver.무com/hupers/223643106356)
+- [중소 제조 기업은 디지털 팩토리가 필요할까?](https://m.blog.naver.com/hupers/223643769290)
+- [스마트팩토리 관련 주제 모음](https://m.blog.naver.com/hupers/223646903864)
+
+<!-- END: hupers (blog.naver.com) -->
 
 ---
 
@@ -1692,7 +1733,31 @@ https://m.blog.naver.com/&logId=
 
 - [Software Engineer Titles Have (Almost) Lost All Their Meaning](https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning)
 
-<!-- END:  -->
+<!-- END: trevorlasn.com -->
+
+---
+
+## Jacob Kim
+
+- [우리사주 투자 실패담과 그 이후](https://jacob.kim/blog/esop)
+
+<!-- END: jacob.kim -->
+
+---
+
+## Welcome to LWN.net \[LWN.net\]
+
+- [The WordPress mess](https://lwn.net/Articles/991906/)
+
+<!-- END: lwn.net -->
+
+---
+
+## 위키 홈 :: akwiki
+
+- [디셉티브 패턴의 역사](https://wiki.g15e.com/pages/History%20of%20deceptive%20patterns)
+
+<!-- END: wiki.g15e.com -->
 
 ---
 

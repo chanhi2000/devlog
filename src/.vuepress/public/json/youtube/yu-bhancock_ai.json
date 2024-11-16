@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/H-Ks8O4X5Fsd9MihZq0OukCg2j8ugxtsUn9eoFFQuBUBZ_DbtUc4v9JR-uuEDtA8Z_vG4Nva=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HXP3u_D_xSY", "title": "CrewAI Flows: AI Feedback Loop" },
+    { "id": "2qU3SPPojDA", "title": "How to Build a NextJS MVP using v0, Claude, and Cursor" },
+    { "id": "cyPZsbO5i5U", "title": "Supabase Postgres Vector DB Crash Course" },
+    { "id": "8PtGcNE01yo", "title": "CrewAI Flows Crash Course" },
+    { "id": "np1cwfDjCF4", "title": "Build a Full Stack AI Marketing Platform SaaS [Premium Course Announcement]" },
+    { "id": "tnESH0aQZ1Q", "title": "Becoming an AI Developer in 2024 -  Ashita Achuthan - AI Creator Spotlight Episode 1" },
+    { "id": "fMa2zQIkQwM", "title": "Claude 3.5 Crash Course for Developers: Code 10x Faster in 2024 [Claude 3.5 artifacts]" },
+    { "id": "7GhWXODugWM", "title": "CrewAI RAG Deep Dive [Basic & Advanced Examples]" },
+    { "id": "yF9kGESAi3M", "title": "LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2]" },
+    { "id": "Z_KB91zbG3c", "title": "GPT4o + CrewAI: Twice as fast? Half the Cost?" },
     { "id": "0ai-L50VCYU", "title": "How To Connect Local LLMs to CrewAI [Ollama, Llama2, Mistral]" },
     { "id": "OumQe3zotGU", "title": "I Automated My YouTube Channel With CrewAI [Free Source Code Included]" },
     { "id": "d8juNbo3onk", "title": "Fullstack NextJS & CrewAI Crash Course For Beginners [Source Code Included]" },

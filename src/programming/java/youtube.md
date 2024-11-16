@@ -217,7 +217,6 @@ head:
 <MyYouTubeItems jsonName="yu-KeepOnCoding" /><!-- Keep On Coding -->
 <MyYouTubeItems jsonName="yu-ajudmeister" /><!-- Andreas Jud -->
 <MyYouTubeItems jsonName="yu-vaadinofficial" /><!-- vaadinofficial  -->
-<MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
 <MyYouTubeItems jsonName="yu-with-neighbors" />    <!-- 이웃팔촌 -->
 <MyYouTubeItems jsonName="yu-CodeSpitz" /><!-- 코드스피츠 -->
 <MyYouTubeItems jsonName="yu-caveofprogramming" /><!-- Cave of Programming -->

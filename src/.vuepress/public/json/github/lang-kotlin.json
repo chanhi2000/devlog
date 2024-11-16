@@ -635,5 +635,12 @@
     "topics": ["fcgi", "kotlin", "script", "server"],
     "avatar": "https://avatars.githubusercontent.com/u/4127904?v=4",
     "banner": ""
+  }, {
+    "repo": "Trendyol/kediatR",
+    "desc": "Mediator implementation in Kotlin with native coroutine support",
+    "officialSite": "https://trendyol.github.io/kediatR/",
+    "topics": ["kotlin", "cqrs", "spring-boot", "coroutines", "mediator", "mediator-pattern", "koin", "cqs", "quarkus", "inprocess-bus"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/207607885/b101151f-a70b-4c41-849c-4fc87a6f584e"
   }
 ]

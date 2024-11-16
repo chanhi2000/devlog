@@ -6,7 +6,32 @@
     "banner": "https://yt3.googleusercontent.com/QlctGSLDMVUhpVmoKmC-dvW4LVW2EbLfjFI1qI22swPs3JRNNq8klwOM9ltmzEUXLVzR_gZml-8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "uafRh77bRsU", "title": "When Tetris Meets Time! - Terminal Tetromino Clock in Rust" },
+    { "id": "D00yHr7naIk", "title": "I Made a Clock That Plays Tetris in Your Terminal 🎮 | Rust Programming" },
+    { "id": "RKu1wHtrctA", "title": "Rapid UI Development: Design a MOD Player with Tauri, Tailwind & Rust" },
+    { "id": "04OVzhbVAmE", "title": "Building a Mod Player with Tauri: The update dilemma!" },
+    { "id": "lO4zGC4uHEQ", "title": "Modern marquee scrolling text | React & CSS Animation for our Retropulse player" },
+    { "id": "eo9iEvmdj28", "title": "Mastering Menu Bar Apps: Using Rust and Tauri for macOS Development!" },
+    { "id": "X6Wz1tjEeqw", "title": "Scripting with Rust: Build a Daily Driver Theme Switcher for Your CLI" },
+    { "id": "n2G_z-4jNik", "title": "Game Rendering in the Terminal: Creating a Breakout Game in Rust | PixelLoop Engine by" },
+    { "id": "CHZYbPpI-OI", "title": "Firework Particle Engine in the Terminal - Thank you for 1000 subscribers" },
+    { "id": "jTNK93Ho9zg", "title": "Revive Retro Tunes - Using tauri and libopenmpt to write a mod player in rust" },
+    { "id": "uKCwEQlRwQ8", "title": "Async Tauri Commands: Building a Robust, Multithreaded RetroPulse Player" },
+    { "id": "g1UyJlmfS-0", "title": "Use C libraries in Rust from scratch | stb_image_write" },
+    { "id": "1uMUKMi1JO4", "title": "Lanczos Image Resizing in Rust from scratch" },
+    { "id": "MMJ1KRzWZwI", "title": "Unicode & ANSI Alchemy: Turn Text into Images in Your Console" },
+    { "id": "ZXflgd_AC5Q", "title": "Pixel Perfection Meets Terminal: Rendering with Unicode and ANSI" },
+    { "id": "5rl3td5lnco", "title": "Let's optimize our Terminal renderer by 10.000%" },
+    { "id": "-t3MZz0a3j8", "title": "How to simulate falling Sand in rust: A pixel game engine adventure" },
+    { "id": "9zHewXJL7X8", "title": "Safely using Unsafe Rust: Optimizing our Color Implementation" },
+    { "id": "INC_mGRV92A", "title": "Shifting Sands 🏖️🎨 Adding Random Color for a Natural Look!" },
+    { "id": "SeTSL0JYVVk", "title": "Matrix Waterfall effect in your Terminal! In Rust!" },
+    { "id": "QLXKBV6YPQE", "title": "Parsing and executing Brainf*ck from Scratch" },
+    { "id": "mEqfZb4FX_c", "title": "Writing a X86 JIT - Initial Experiments" },
+    { "id": "AS89S4DMnb4", "title": "Building a Rust Pixel Drawing Engine: Abstract Update/Render Loop Tutorial" },
+    { "id": "r4tJHI3sMgc", "title": "Abstract the Drawing Code: Future-Proofing out Pixel Loop Engine" },
+    { "id": "DT9gXxkPgyQ", "title": "Dithering explained with Rust CLI: Coding an Error Diffusion Algorithm" },
+    { "id": "sR0ex7YwviU", "title": "Parsing with Rust - Epic Journey" }
   ],
   "playlists": [
     {

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/9DKy95AxTFOd98MqP1P6JzG1JayMWonpB3UkQLu5noWEcyy0hdMJr94auTgNrHY8APrxdSRQKd0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OB1qs56g0VA", "title": "The Singularity - Tutorial 1 - Architecture" },
+    { "id": "C2_nVCUegKw", "title": "Prompt Engineering for Beginners - Tutorial 19 - Building Your Own ChatGPT (part 2)" },
+    { "id": "Reujw-HcTps", "title": "Prompt Engineering for Beginners - Tutorial 18 - Building Your Own ChatGPT" },
     { "id": "_7zmngXU3vE", "title": "Prompt Engineering for Beginners - Tutorial 17 - Anthropic Claude 3" },
     { "id": "QGORdKKzEkY", "title": "LLM Application Development - Tutorial 3 - RAG" },
     { "id": "goW1ssfTQzU", "title": "LLM Application Development - Tutorial 2 - Evaluations" },

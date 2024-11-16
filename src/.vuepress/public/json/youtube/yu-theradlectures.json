@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Flkl4eTJ2uO0O-Rb5DdSAbjGK_aIwa6RJZxV-5JReXGJ_oaEihqKxAoeJkNXi3NIaoN2wq8C=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Qgg5oNDylG8", "title": "Arch Linux Installation Guide (including BTRFS, QTile, ZRAM, disk encryption, timeshift)" },
+    { "id": "lj70KjuFX1g", "title": "Solidity NeoVim Config [LSP, Linting, Formatting]" },
+    { "id": "1Ivfut5qwf4", "title": "Host Your Own Website Free [AWS Free Tier and Cloudflare Free Plan]" },
+    { "id": "mFrOCZZSZ14", "title": "Stuck on Windows? Let NeoVim and Linux ease the pain [Ubuntu 24.04]" },
     { "id": "ntLYHj1lR-Y", "title": "Stop Using hjkl - 2 NeoVim Plugins to Navigate like a Chad" },
     { "id": "rgdR27KMxpo", "title": "ZSH customization - level up your shell!" }, 
     { "id": "rgdR27KMxpo", "title": "Customize your ZSH (auto-suggestions, prompt theme, syntax highlighting and more)" },

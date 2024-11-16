@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "4GeeksAcademy_",
+    "name": "4Geeks Academy",
+    "profile": "https://yt3.googleusercontent.com/gqxFJzgW4t49-phVlq7RZGe-AD9WNROrMI0NgeYWp1uz9sx2k3ZcPUYMgre1OnbOAbFUbSmg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LD8RLhRa11aKrMvFKllyabwBIUPbF11v9XccuMzdKFf7ANoDPQPsKNbHbwC-xG_YF1V2QzqoMQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "V07P0hV9w_0", "title": "💻 HTML Beginner course - 01 Introduction" },
+    { "id": "N7O16UKxXNk", "title": "Transitioning After Bootcamp  Navigating the Tech Landscape with Cafe Cultura" },
+    { "id": "4bZle9rr2gI", "title": "AI revolution in the workplace with Tech Besties" },
+    { "id": "G3cN7NoLNdM", "title": "Job Search Strategies and Interview Preparation Workshop" },
+    { "id": "GLD0gvrxq9A", "title": "How to be the Top 1% and Get Hired" },
+    { "id": "DbFkW4O5KMg", "title": "How To Escape Tutorial Hell" },
+    { "id": "nXNuiaHSjLg", "title": "How to Successfully Land a Job in TECH" },
+    { "id": "qqvJR1tTBbs", "title": "The architecture behind a scalable React.js application" }
+  ],
+  "playlists": [
+
+  ]
+}

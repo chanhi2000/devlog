@@ -1,11 +1,17 @@
 {
   "channel": {
     "id": "dabidstudio-ho7fh",
-    "name": "다비드스튜디오 dabidstudio ",
+    "name": "다비드스튜디오 dabidstudio",
     "profile": "https://yt3.googleusercontent.com/GfiTX7ayk-5aJDqygZcdG5gM2Fh43CegpUt7QiDtuHWQ46T72VhLQ8Q8xEsMqfUG-d0yer0trGk=s160-c-k-c0x00ffffff-no-rj",
     "banner": ""
   },
   "videos": [
+    { "id": "GARAX8VuNXE", "title": "Chat GPT의 표현법 마크다운(Markdown) 알아보기" },
+    { "id": "JopFAgs6Bg4", "title": "ChatGPT와 구글시트로 자동화 뉴스레터 만들기" },
+    { "id": "dJmzv_gmSGo", "title": "PC에서 돌아가는 나만의 무료 ChatGPT" },
+    { "id": "QUUjgw9LEPU", "title": "Ollama를 최신 웹서비스로 업그레이드하기" },
+    { "id": "l-QICKWAG30", "title": "Ollama로 PDF 번역 웹서비스 만들기" },
+    { "id": "q9ZUvurxq3M", "title": "[Chat GPT 코딩] 로그인 있는 사이트 데이터수집" },
     { "id": "1yAILsCyhTU", "title": "[코딩필요없음] Chat GPT로 실시간 비트코인 대시보드 홈페이지 만들기" },
     { "id": "kpgm02v8zUU", "title": "[코딩필요없음] Chat GPT로 경제뉴스 정리하기 -  수집,가공,중요도분석까지" },
     { "id": "XdMsYDkXiX0", "title": "Chat GPT 데이터분석 한글깨짐 해결하기" },

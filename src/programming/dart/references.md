@@ -96,6 +96,7 @@ tag:
   - [한달 동안 AI와 함께 Flutter앱을 개발하면서 느낀 점](https://greypencil.tistory.com/m/221)
   - [Copilot 과 함께 코딩하기 : Flutter 손에 익히기](https://greypencil.tistory.com/m/222)
   - [Flutter로 앱개발 시작하기](http://greypencil.tistory.com/m/228)
+  - [Flutter : 나를 괴롭혔던 SDK Version 불일치](https://greypencil.tistory.com/m/229)
   <!-- END: greypencil -->
 - [`holykisa` / HolyKisa](https://holykisa.tistory.com/m/)
   - [Flutter: Module 'path_provider_foundation' not found](https://holykisa.tistory.com/m/133)
@@ -118,8 +119,16 @@ tag:
 
 - [플러터(Flutter) FFI를 활용한 SerialPort 사용 예제 코드(윈도우, 리눅스)](https://m.blog.naver.com/chandong83/223520195079)
 
+<!-- END: chandong83 (blog.naver.com) -->
+
 ---
 
+## Flock
 
+- [We're forking Flutter. This is why.](https://getflocked.dev/blog/posts/we-are-forking-flutter-this-is-why/)
+
+<!-- END: getflocked.dev -->
+
+---
 
 <TagLinks />

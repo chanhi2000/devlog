@@ -78,5 +78,6 @@ tag:
 <MyYouTubeItems jsonName="yu-THEPHINTAGECOLLECTOR" /><!-- THE PHINTAGE COLLECTOR -->
 <MyYouTubeItems jsonName="yu-ThisWeekinIT" /><!-- This Week in IT -->
 <MyYouTubeItems jsonName="yu-comtechGoodInfo" /><!-- 컴테크 -->
+<MyYouTubeItems jsonName="yu-WindowsCentral" /><!-- Windows Central -->
 
 <TagLinks />

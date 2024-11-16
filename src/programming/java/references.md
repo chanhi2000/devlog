@@ -72,6 +72,9 @@ tag:
 - [`geekculture` / Java TS Video Downloader](https://medium.com/geekculture/java-ts-video-downloader-a0fcf23ab84a)
 - [`ascendcorp` / Why are my Java virtual threads slower than the platform threads?](https://developers.ascendcorp.com/why-are-my-java-virtual-threads-slower-than-the-platform-threads-74612a1587f3)
 - [`@george.719pap` / Opinionated one-liners in Kotlin](https://medium.com/@george.719pap/opinionated-one-liners-in-kotlin-dfc628b4847a)
+- [`monday9pm` / 초보개발자의 고성능 JSON 직렬화를 위한 FastJson2와 Vector API](https://monday9pm.com/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B3%A0%EC%84%B1%EB%8A%A5-json-%EC%A7%81%EB%A0%AC%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-fastjson2%EC%99%80-vector-api-94c06dc777bf?source=rss-65404b148641------2)
+
+<!-- END: medium.com java -->
 
 ### <FontIcon icon="iconfont icon-velog"/>velog
 
@@ -175,6 +178,8 @@ tag:
 - [`@jwlee010523` / JAVA - 다형성(Polymorphism)](https://velog.io/@jwlee010523/java-polymorphism)
 - [`@dradnats1012` / 우아한테크코스 7기 프리코스 3주차 회고](https://velog.io/@dradnats1012/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-7%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
 - [`@dradnats1012` / LeetCode 3Sum 문제 풀기](https://velog.io/@dradnats1012/LeetCode-3Sum-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0)
+- [`@dradnats1012` / LeetCode Longest Repeat Character Replacement 문제 풀기](https://velog.io/@dradnats1012/LeetCode-Longest-Repeat-Character-Replacement-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0)
+- [`@qkrtkdwns3410` / GC의 원리와 Java의 GC 방식에 대해 설명해 주세요. GC 튜닝이 필요한 이유와 튜닝할 때 고려해야 할 요소에 대해서 추가로 말씀해주세요](https://velog.io/@qkrtkdwns3410/GC%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-Java%EC%9D%98-GC-%EB%B0%A9%EC%8B%9D%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94.-GC-%ED%8A%9C%EB%8B%9D%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%ED%8A%9C%EB%8B%9D%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%9A%94%EC%86%8C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%B6%94%EA%B0%80%EB%A1%9C-%EB%A7%90%EC%94%80%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 
 <!-- END: velog.io java -->
 
@@ -321,6 +326,10 @@ tag:
   - [Java Stream API 사용법](https://dreamcoding.tistory.com/m/131)
   - [Java 접근 제어자 이해하기](https://dreamcoding.tistory.com/m/132)
   - [Java record: 불변 객체의 간결한 정의와 활용](https://dreamcoding.tistory.com/m/133)
+  - [자바의 `HashMap` vs `ConcurrentHashMap`: 차이점과 활용법](https://dreamcoding.tistory.com/m/134)
+  - [Java의 Map 컬렉션 정리: `HashMap`, `TreeMap`, `LinkedHashMap` 비교](https://dreamcoding.tistory.com/m/139)
+  - [\[Java\] Reflection를 활용한 런타임 동적 프로그래밍](https://dreamcoding.tistory.com/m/140)
+  - [Java에서 `NullPointerException` 피하기](https://dreamcoding.tistory.com/m/141)
   <!-- END: dreamcoding -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
@@ -731,6 +740,7 @@ tag:
 - [Java 버전별 변경점](https://johngrib.github.io/wiki/java/enhancements/)
 - [`Thread.State`](https://johngrib.github.io/wiki/java/thread/state/)
 - [Java Thread](https://johngrib.github.io/wiki/java/thread/)
+- [Destructuring](https://johngrib.github.io/wiki/programming/destructuring/)
 
 <!-- END: johngrib.github.io -->
 
@@ -871,6 +881,8 @@ tag:
 - [`hinchman-amanda` / Kotlin Coroutine mechanisms part 3: swapping CoroutineContext](https://hinchman-amanda.medium.com/kotlin-coroutine-mechanisms-part-3-swapping-coroutinecontext-983e950ac29a)
 - [`taesulee93` / 꼬리 호출 최적화(Tail Call Optimization, TCO)와 Kotlin `tailrec`](https://medium.com/@taesulee93/%EA%BC%AC%EB%A6%AC-%ED%98%B8%EC%B6%9C-%EC%B5%9C%EC%A0%81%ED%99%94-tail-call-optimization-tco-%EC%99%80-kotlin-tailrec-b5435fb453bc?source=rss-524631d9bcfb------2)
 - [`abhaysingbhosale123` / Kotlin Under the Hood: Exploring Constructors and Init Blocks](https://medium.com/@abhaysingbhosale123/kotlin-under-the-hood-exploring-constructors-and-init-blocks-869fc1f85a8e)
+- [`taesulee93` / MFA를 위한 OTP 동작 원리와 Spring, Kotlin 환경에서의 TOTP 인증 구현](https://medium.com/@taesulee93/mfa%EB%A5%BC-%EC%9C%84%ED%95%9C-otp-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-spring-kotlin-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-totp-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-c7950ed735932)
+- [`elenavanengelen` / Kotlin Tips and Tricks You May Not Know: #3 — Built-in Assertions](https://medium.com/@elenavanengelen/kotlin-tips-and-tricks-you-may-not-know-3-built-in-assertions-d26540ccb2e0)
 
 <!-- END: medium.com kotiln -->
 
@@ -885,6 +897,8 @@ tag:
 - [`@sweet_sumin` / Kotiln Collection](https://velog.io/@sweet_sumin/Kotiln-Collection)
 - [`@sweet_sumin` / `public static void main(String\[\] args)`은 왜 `static` 인가?](https://velog.io/@sweet_sumin/public-static-void-mainString-args)
 - [`@thd0427` / suspend 함수는 왜 오버로딩이 안 될까?](https://velog.io/@thd0427/suspend-%ED%95%A8%EC%88%98%EB%8A%94-%EC%99%9C-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EC%9D%B4-%EC%95%88-%EB%90%A0%EA%B9%8C)
+- [`@thd0427` / `MutableStateFlow` value로 값 업데이트가 위험한 이유](https://velog.io/@thd0427/MutableStateFlow-value%EB%A1%9C-%EA%B0%92-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EA%B0%80-%EC%9C%84%ED%97%98%ED%95%9C-%EC%9D%B4%EC%9C%A0)
+- [`@thd0427` / 응답 모델을 모두 Nullable로 하면 좋은 이유 (feat.Gson 사용 시 null 문제)](https://velog.io/@thd0427/%EC%9D%91%EB%8B%B5-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EB%AA%A8%EB%91%90-Nullable%EB%A1%9C-%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%9D%B4%EC%9C%A0-feat.Gson-%EC%82%AC%EC%9A%A9-%EC%8B%9C-null-%EB%AC%B8%EC%A0%9C)
 
 <!-- END: velog.io kotlin -->
 
@@ -930,6 +944,9 @@ tag:
   - [\[백준\] 가장 긴 증가하는 부분 수열](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EA%B0%80%EC%9E%A5-%EA%B8%B4-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
   - [\[백준\] 패턴](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%ED%8C%A8%ED%84%B4)
   - [\[백준\] N과 M](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-N%EA%B3%BC-M)
+  - [\[백준\] 균형잡힌 세상 , 쇠막대기](http://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C-%EC%84%B8%EC%83%81-%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)
+  - [\[백준\] - 그림 (BFS)](http://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EA%B7%B8%EB%A6%BC-BFS)
+  - [\[백준\] 부분수열의 합](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
   <!-- END: namget -->
 - [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
   - [\[BOJ\] 1600 - 말이 되고픈 원숭이](https://dev-ws.tistory.com/m/129)
@@ -1098,6 +1115,9 @@ tag:
 - [Kotlin 자주 사용하는 패턴 정리](https://cheese10yun.github.io/kotlin-pattern/)
 - [Kotlin 코루틴으로 성능 개선 - Flow를 활용한 다중 요청 처리](https://cheese10yun.github.io/kotlin-flow/)
 - [코루틴을 이용한 성능 개선 Flow를 활용한 다중 요청 처리](https://cheese10yun.github.io/kotlin-flow/)
+- [Kotlin 객체 생성의 안전성과 유효성 강화하기](https://cheese10yun.github.io/kotlin-pattern-2/)
+
+<!-- END: cheese10yun.github.io -->
 
 ### 오늘도 끄적끄적
 
@@ -1221,8 +1241,15 @@ tag:
 
 - [`@2Kn8` / 코루틴 취소(Cancellation) - 코틀린 코루틴 (9)](https://brunch.co.kr/@@2Kn8/221)
 - [`@2Kn8` / 코루틴 디스패처 (Dispatcher) - 코틀린 코루틴 (10)](https://brunch.co.kr/@@2Kn8/222)
+- [`@2Kn8` / 코루틴 예외 처리 (Exception Handling) - 코틀린 코루틴(11)](https://brunch.co.kr/@@2Kn8/223)
 
 <!-- END: brunch.co.kr kotlin -->
+
+### Gradle Cookbook
+
+- [Writing Gradle plugins in Kotlin#](https://cookbook.gradle.org/plugin-development/kotlin-plugins/)
+
+<!-- END: cookbook.gradle.org -->
 
 ---
 

@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "gpters",
+    "name": "GPTers 커뮤니티",
+    "profile": "https://yt3.googleusercontent.com/vrmsTY82JdqNLA4Ad6rG53U5zzzCknr8cqLZmPayXYezRO_fdiJPXt7QTFz0R_KxurWPp6MbXQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_gxS0nQ3n8Wi8q9522cOReI8gPOt042rFSOnO7nF34loCgf4brzkNg-gsbqSmmJXPSrd6Q-YgFo=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OFJ6UnjGi2o", "title": "📖 새롭게 바뀐 지피터스 AI스터디 13기 설명회" },
+    { "id": "H84QTwzLZAk", "title": "2천만 크리에이터 Gary의 원소스 멀티유즈 방법 소개" },
+    { "id": "b47hKI5QfPw", "title": "챗GPT 고급 음성모드로 '시장에 가면' 게임 하기" },
+    { "id": "yWjcMZ5MEL8", "title": "챗GPT로 쇼핑몰 송장 1초 만에 일괄 자동 등록! (엑셀 VBA)\", \"쿠팡/11번가/티몬 송장, 챗GPT+엑셀 VBA로 끝내자!" },
+    { "id": "0IaBs-eeluk", "title": "선생님들을 위한 ChatGPT 활용법 꿀팁: 진로 교육 게임 수업 계획서 뚝딱" },
+    { "id": "lxTYgf5-_oQ", "title": "😱브랜딩이 뭐죠? 먹는건가요? - AI를 활용한 날로먹는 브랜딩" },
+    { "id": "dod8UbOarJ4", "title": "구글 문서 종합예술 : AI로 한큐에 끝내기" },
+    { "id": "DG_dYtawUOw", "title": "💻 컴퓨터의 데이터 학습의 이해를 통한 AI 활용 역량 키우기" },
+    { "id": "duAGg0KVdgE", "title": "법률 AI 챗봇의 정확성과 프롬프트 설정의 중요성: 저작권법 사례 분석" },
+    { "id": "PY4lL4Elyyc", "title": "7000+개의 AI 활용사례를 통해 업무능력을 확장시키고, 모르는 분야도 전문가가 되는 지피터스 AI 캠프입니다." },
+    { "id": "0m058meNQ7Q", "title": "AI를 통해 소설을 학습시켜 다른 캐릭터 시점으로 쓰는게 가능할까? #클로드 #캐릭터시점" },
+    { "id": "KjdzHyeUxgo", "title": "얼굴 보며 음성 대화가 가능한 AI 알바봇 만들어 고객 응대 자동화하기 with D-ID, GPTs" },
+    { "id": "fZbkNe-g-Yo", "title": "영상 제작 시간을 절약하는 꿀팁 대방출 (지피터스 콘텐츠 팀의 AI 활용법)" },
+    { "id": "MehBVreeosA", "title": "프롬프트 마스터 클래스 : AI 프롬프트 엔지니어링의 기본 개념부터 실전 활용법까지" },
+    { "id": "i-T_b26l5HQ", "title": "인스타그램 운영 꿀팁: AI로 컨텐츠 대량 생성부터 대량 업로드까지!" },
+    { "id": "pamnmS7nPSo", "title": "클로드 AI로 내 최애 직캠 만들고 노코드툴로 서비스 만들기 - 노션 활용 꿀팁까지" },
+    { "id": "skShT1USNZo", "title": "AI로 일관성있는 캐릭터 생성해서 동화책 만드는 방법 (플레이그라운드 AI 활용법)" },
+    { "id": "vxivipYRRCM", "title": "AI와 파이썬으로 입지 분석하고 스트림릿으로 현장분석용 지도 만들기" },
+    { "id": "H_ffk9QMibY", "title": "인플루언서 마케팅 PPT 제작: 대본부터 이미지까지 다 ChatGPT로 만들기" },
+    { "id": "FfJTyM5Qm-Q", "title": "실무에서 바로 쓰는 개인정보 보호 기술: 엑셀과 vba로 마스킹과 암호화 자동화하기" },
+    { "id": "4NRHOezPGFo", "title": "챗봇 홈페이지 연동시 채널 위젯 위치 및 크기 조절하는법 / 벨루가(veluga) 챗봇 이용기" },
+    { "id": "2OLGZC6gg04", "title": "요즘 유행인 마인크래프트 교육용 에디션 코딩 교육에 ai로 자동화 적용하기 | 할 때 주의점까지!" },
+    { "id": "9WnenAaFV4o", "title": "자유롭고 싶은 교사를 위한 꿀팁 : 엑셀 VBA로 중간 기말 성적관리 자동화한 코딩 입문러의 사례" },
+    { "id": "VDp7kMarGEY", "title": "seo 필수인 사이트맵, 언제까지 수동으로 옮기실 건가요? 업무시간 줄여주는, 초보도 쉽게 할 수 있는 자동화 사례!" }
+  ],
+  "playlists": [
+
+  ]
+}

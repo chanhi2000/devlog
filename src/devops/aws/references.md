@@ -148,6 +148,8 @@ head:
 - [`@dradnats1012` / AWS를 이해하기 위한 기초지식(OSI 7계층, DNS)](https://velog.io/@dradnats1012/AWS%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9DOSI-7%EA%B3%84%EC%B8%B5-DNS)
 - [`@jeong_hun_hui` / \[설문이용\] 부하 테스트로 서비스가 예상 시나리오에서 잘 동작하는지 확인하기](https://velog.io/@jeong_hun_hui/%EC%84%A4%EB%AC%B8%EC%9D%B4%EC%9A%A9-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%98%88%EC%83%81-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%EC%97%90%EC%84%9C-%EC%9E%98-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
 - [`@dradnats1012` / 이미지 최적화 시즌2 - Lambda@Edge](https://velog.io/@dradnats1012/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%9C%EC%A6%8C2-LambdaEdge)
+- [`@qkrtkdwns3410` / AWS SQS 가시성 시간 초과 문제](https://velog.io/@qkrtkdwns3410/AWS-SQS-%EA%B0%80%EC%8B%9C%EC%84%B1-%EC%8B%9C%EA%B0%84-%EC%B4%88%EA%B3%BC-%EB%AC%B8%EC%A0%9C)
+- [`@qkrtkdwns3410` / AWS SAA 정리](https://velog.io/@qkrtkdwns3410/AWS-SAA-%EC%A0%95%EB%A6%AC)
 
 <!-- END: velog.io -->
 
@@ -289,8 +291,16 @@ head:
   - [AWS S3 보안 설정 및 정책 관리 (feat. IAM)](https://moonnight0.tistory.com/m/entry/AWS-S3-%EB%B3%B4%EC%95%88-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%A0%95%EC%B1%85-%EA%B4%80%EB%A6%AC-feat-IAM)
   - [AWS 아키텍처 설계 전략 (feat. Auto Scaling, ECS)](https://moonnight0.tistory.com/m/entry/AWS-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-feat-Auto-Scaling-ECS)
   - [EC2 분리하기 ( Front / Back / PostgreSQL / MongoDB / redis )](https://moonnight0.tistory.com/m/entry/EC2-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0-Front-Back-PostgreSQL-MongoDB-redis)
+  - [AWS ECS로 컨테이너 관리하기: NLB와 Auto Scaling (feat. DockerHub)](https://moonnight0.tistory.com/m/entry/AWS-ECS%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-NLB%EC%99%80-Auto-Scaling-feat-DockerHub)
   <!-- END: moonnight0 -->
+- [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
+  - [꽃이 진 뒤에야 봄이었음을 알았습니다(AWS vs Azure)](https://aws-hyoh.tistory.com/m/301)
+  <!-- END: aws-hyoh -->
+- [`o-yeon` / CONST oyeonDevlog;](https://o-yeon.tistory.com/m/)
+  - [Presigned url로 s3에 이미지 업로드 하기](https://o-yeon.tistory.com/m/230)
+  <!-- END: o-yeon -->
 <!-- END: tistory.com -->
+
 ---
 
 ## Inflab Tech
@@ -619,6 +629,7 @@ head:
 ## Log on Me
 
 - [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
+- [\[KANS\] 3기 9주 – AWS EKS : VPC CNI](https://logonme.net/activities/study/kans_3_9/)
 
 <!-- END: logonme.net -->
 

@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "untangledco",
+    "name": "Oliver Lowe",
+    "profile": "https://yt3.googleusercontent.com/H6Kzd1e7CXpEVius3iw9kiBgPXqFWKVEz-_wfsMraqR1mYlxd7wRVvNlh3OpMltrY9aL_JBP=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_k2odg-CK6B-I2seki7c9qBkri6IFKXcLKBiVuwAEOCnLGZVbROR5ayY9mJ1_3xtxTb669Birdg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fl7p0SiqGeY", "title": "Low-level streaming in Go: SDP (Day 5) - Parse, don't validate! Testing, bugs" },
+    { "id": "9Q9Vocd8u54", "title": "Low-level streaming in Go: MPEG-TS - Debugging camera streaming" },
+    { "id": "fAYbNrPP5qk", "title": "Low-level streaming in Go: SDP 1" },
+    { "id": "1-NeAzkcjT8", "title": "Low-level streaming in Go: SDP (Day 2) - More advanced parsing" },
+    { "id": "ggpqn_mgEYQ", "title": "Trimming an abandoned Javascript web app" },
+    { "id": "4Hfkbiqg6v8", "title": "Low-level streaming in Go: SDP (Day 3) - Finally finishing decoding?" },
+    { "id": "tY4RskehioA", "title": "Low-level streaming in Go: SDP (Day 4) - Writing the encoder" },
+    { "id": "KxCR1o-nC6E", "title": "Low-level streaming in Go: RTP live audio demo" },
+    { "id": "dxWoynk_ic4", "title": "Low-level streaming protocols in Go: HLS (Day 7) - Self-hosted streams" },
+    { "id": "mi_iowkUlpg", "title": "Low-level streaming protocols in Go: HLS (Day 7) - Scaling up self-hosted streams" },
+    { "id": "qfeYNKVURLA", "title": "Low-level streaming protocols in Go: HLS (Day 10) - CRC32, tidying up" },
+    { "id": "hQNbwLi7JAY", "title": "Low-level streaming protocols in Go: HLS (Day 9) - tests, docs, patches" },
+    { "id": "UNZFI2xkx00", "title": "Low-level streaming protocols in Go: HLS (Day 11) - Finally self-hosted!" },
+    { "id": "onEnbwM6LFk", "title": "Low-level streaming in Go: MPEG-TS (Day 1) - Intro" },
+    { "id": "uhOAt-aao64", "title": "Low-level streaming in Go: MPEG-TS (Day 2) - Adaptation field and PES" },
+    { "id": "sphlVOnITPc", "title": "Low-level streaming in Go: MPEG-TS (Day 3) - Adaptation field and PES again?!" },
+    { "id": "PGrAYtB4YGk", "title": "Low-level streaming in Go: MPEG-TS (Day 4) - Encoding our structures" },
+    { "id": "JNacQIJbsCw", "title": "Low-level streaming in Go: MPEG-TS (Day 5) - Production ready?" },
+    { "id": "fQFxL2_97JY", "title": "Low-level streaming in Go: RTP (Day 1) - Header encoding" },
+    { "id": "bEsEnOm_BDg", "title": "Low-level streaming in Go: RTP (Day 3) - A fake player" },
+    { "id": "7EnJI9Dpq0Q", "title": "Low-level streaming in Go: RTP (Day 4) - JPEG XS video" },
+    { "id": "Hb8BXiUXI50", "title": "Low-level streaming in Go: RTP (Day 5) - JPEG XS video take 2!" },
+    { "id": "uuvpeIwYKKk", "title": "Low-level video streaming protocols in Go: HLS (Day 4) - Fleshing out more" }
+  ],
+  "playlists": [
+
+  ]
+}

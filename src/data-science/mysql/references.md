@@ -298,6 +298,7 @@ head:
 ## 상구리의 기술 블로그
 
 - [MySQL – 데이타 복사](https://skyer9.pe.kr/wordpress/?p=9447)
+- [ERROR 1086 (HY000): File ‘filename’ already exists](https://skyer9.pe.kr/wordpress/?p=9541)
 
 <!-- END: skyer9.pe.kr -->
 

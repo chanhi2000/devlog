@@ -58,7 +58,29 @@ head:
 - [비트코인 -10퍼센트 하락. 하지만 청산 당하지 않았습니다#컨펌](https://m.blog.naver.com/jhc9639/223604467151)
 - [바이비트에서 업비트로 송금하기](https://m.blog.naver.com/jhc9639/223635129936)
 
-<!-- END: jhc9639 -->
+<!-- END: jhc9639 (blog.naver.com) -->
+
+---
+
+## 제이의 IT 스토리
+
+- [코인 주식 CRM TM 전산 - 제이 CRM](https://m.blog.naver.com/oralol/223650357666)
+
+<!-- END: oralol (blog.naver.com) -->
+
+---
+
+## tistory
+
+- [`syaku` / 샤쿠 블로그](https://syaku.tistory.com/m/)
+  - [국채 금리 완벽 이해하기](https://syaku.tistory.com/m/420)
+  - [달러 강세의 주요 원인과 한국 경제에 미치는 영향](https://syaku.tistory.com/m/429)
+  - [2024년 금값 급등의 완벽한 분석: 원인과 전망](https://syaku.tistory.com/m/430)
+  <!-- END: syaku -->
+<!-- END: tistory.com -->
+
+---
+
 
 ---
 

@@ -188,6 +188,9 @@ tag:
 ## 상구리의 기술 블로그
 
 - [2024년 1월 윈도우10 KB5034441 업데이트 에러 (`0x80070643`)](https://skyer9.pe.kr/wordpress/?p=9017)
+- [Windows – 포트 사용중인 프로세스 찾기](https://skyer9.pe.kr/wordpress/?p=9530)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

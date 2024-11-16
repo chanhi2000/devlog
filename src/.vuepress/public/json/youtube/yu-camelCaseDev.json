@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "camelCaseDev",
+    "name": "camelCase",
+    "profile": "https://yt3.googleusercontent.com/5-qKr6sM5U7AIdBn9VsifcCr2or3QExvmu8tbfLNJiv2Ou-SDoZ_iorPgUvb6zBs2y3E88a2=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uuU8zCdcY1Zt1zlh7UdYiOf7gFJ4Pj2U0RKYcr3vtZIYuo_3Hb7EQBzZ5VO-LTazGe-OSfpVFec=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "68khBWxVP3g", "title": "I Added This Button to LinkedIn" },
+    { "id": "dai76rBJThM", "title": "Why Google's IDX Is Not a VS Code Killer" }
+  ],
+  "playlists": [
+
+  ]
+}

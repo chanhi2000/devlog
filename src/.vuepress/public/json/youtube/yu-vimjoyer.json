@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/E4WJoNFvTA0q6X7F2F4XxwnirYmi8E7x6MRT0Qf2z5Uwd1zbkaN3lsfZVcKYR0WbnnhG3BN97w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X_jMqi-0SrM", "title": "Nix(OS) Ecosystem Explained" },
+    { "id": "M_zMoHlbZBY", "title": "Easiest Way To Write Nix | Code Editor Setup" },
+    { "id": "0YBWhSNTgV8", "title": "Best Way To Manage Project Dependencies | Nix Shells" },
+    { "id": "JCeYq72Sko0", "title": "Ultimate Nix Flakes Guide" },
+    { "id": "jHb7Pe7x1ZY", "title": "Customize Nix Packages | Gentoo Experience on NixOS" },
+    { "id": "qRE6kf30u4g", "title": "Scripts In Any Language With Nix Writers | NixOS Builders & Writers" },
+    { "id": "ljHkWgBaQWU", "title": "Ricing Linux Has Never Been Easier | NixOS + Stylix" },
     { "id": "-G8mN6HJSZE", "title": "Build Your Own NixOS Installer ISO" },
     { "id": "vYc6IzKvAJQ", "title": "Modularize NixOS and Home Manager | Great Practices" },
     { "id": "cH9HGs2AxuA", "title": "Top 6 Best NixOS Tips & Tricks" },

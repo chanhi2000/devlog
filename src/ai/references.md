@@ -58,6 +58,7 @@ head:
 - [`@kwon0koang` / AI 무한반복 영상 만들기 (Luma Dream Machine)](https://velog.io/@kwon0koang/AI-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AC%B4%ED%95%9C%EB%B0%98%EB%B3%B5-%EC%98%81%EC%83%81-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`musinsa-tech` / 속성을 활용한 추천 고도화 : Part 2. 무신사가 개인화 추천을 하는 방법](https://medium.com/musinsa-tech/속성을-활용한-추천-고도화-part-2-무신사가-개인화-추천을-하는-방법-71f7aeb1dc5d)
 - [`giljae` / 개발자와 AI의 관계](https://giljae.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80-ai%EC%9D%98-%EA%B4%80%EA%B3%84-9663cef3c52c?source=rss-bb87e9e8047d------2)
+- [`sunyi233` / AI 시대에 웹 개발하기](https://medium.com/@sunyi233/ai-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-042d2bc33f11?source=rss-57ff999ab1fc------2)
 
 <!-- END: medium.com -->
 
@@ -146,6 +147,11 @@ head:
 - [`sbmoon` / Sue Moon's Blog](http://sbmoon.tistory.com/m/)
   - [그 땐 안 됐고 지금은 된다? 2012년 논문은 국가연구실적 인정을 못 받았지만, 2024년 노벨물리학상을 받았다.](http://sbmoon.tistory.com/m/290)
   <!-- END: sbmoon -->
+- [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
+  - [AI 창작물의 저작권 인정 범위와 법적 보호의 현주소](https://vurias0203.tistory.com/m/entry/AI-%EC%B0%BD%EC%9E%91%EB%AC%BC%EC%9D%98-%EC%A0%80%EC%9E%91%EA%B6%8C-%EC%9D%B8%EC%A0%95-%EB%B2%94%EC%9C%84%EC%99%80-%EB%B2%95%EC%A0%81-%EB%B3%B4%ED%98%B8%EC%9D%98-%ED%98%84%EC%A3%BC%EC%86%8C)
+  - [AI 시대의 프로덕트 디자이너를 위한 커리어 성장 전략과 도전 과제](https://vurias0203.tistory.com/m/entry/AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5%EA%B3%BC-%EB%8F%84%EC%A0%84-%EA%B3%BC%EC%A0%9C)
+  - [AI 버츄얼과 하이브리드 버츄얼의 차이점과 산업별 활용 분석](https://vurias0203.tistory.com/m/entry/AI-%EB%B2%84%EC%B8%84%EC%96%BC%EA%B3%BC-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EB%B2%84%EC%B8%84%EC%96%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC-%EC%82%B0%EC%97%85%EB%B3%84-%ED%99%9C%EC%9A%A9-%EB%B6%84%EC%84%9D)
+  <!-- END: vurias0203 -->
 <!-- END: tistory.com -->
   
 ---
@@ -400,8 +406,12 @@ head:
 
 - [AI와 함께 코딩하는 방법, AI에이전트 베리와 함께한 SW개발 경험 공유](https://m.blog.naver.com/fstory97/223587440976)
 - [AI를 보고 생각해본 인류의 진화해온 방식과 존재](https://m.blog.naver.com/fstory97/223623273117)
+- [AI에 의한 컴퓨터 프로그래밍 방식의 발전방향과 인류의 미래](https://m.blog.naver.com/fstory97/223642420336)
+- [인공지능이 하지 못하는것을 찾지 마라. 세상은 변화하고 있다.](https://m.blog.naver.com/fstory97/223653250741)
+- [인공지능은 지능이 확실하며, 의식이 생길지도 모릅니다.](https://m.blog.naver.com/fstory97/223655564906)
 
 <!-- END: fstory97 (blog.naver.com) -->
+
 ---
 
 ## Customer Experience, Digital Experience & Customer Service News, Webinars, Best Practices & Research

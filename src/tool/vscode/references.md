@@ -150,6 +150,9 @@ tag:
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - 디버깅](https://hj0216.tistory.com/m/940)
   <!-- END: hj0216 -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [Visual Studio Code에서 llama 3.2 사용하기](https://syaku.tistory.com/m/422)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---

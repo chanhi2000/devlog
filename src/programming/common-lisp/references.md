@@ -37,6 +37,15 @@ head:
 
 ---
 
+## tistory
+
+- [`black7375` / BlaCk_Log](https://black7375.tistory.com/m/)
+  - [리스프에서 멋진 3가지.](https://black7375.tistory.com/m/98)
+  <!-- END: black7375 -->
+<!-- END: tistory.com -->
+
+---
+
 ## Steve Losh
 
 - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)

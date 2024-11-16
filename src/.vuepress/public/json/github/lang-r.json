@@ -20,5 +20,19 @@
     "topics": ["celltype", "large-language-models", "llm", "rna-seq", "scanpy", "seurat", "single-cell"],
     "avatar": "https://avatars.githubusercontent.com/u/165594185?v=4",
     "banner": ""
+  }, {
+    "repo": "thebioengineer/camcorder",
+    "desc": "Record plots generated during an R session and replay as a gif!",
+    "officialSite": "https://thebioengineer.github.io/camcorder/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/285328936/77429900-8e3b-11eb-9454-c226a3db8898"
+  }, {
+    "repo": "Novartis/rdocx",
+    "desc": "Create and edit reporting documents using R. Contribute to Novartis/rdocx development by creating an account on GitHub.",
+    "officialSite": "https://opensource.nibr.com/rdocx/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/472a98505aff104aee5db2d8063aa5478009f1da45b24c9338884c8bb740dfee/Novartis/rdocx"
   }
 ]

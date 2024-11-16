@@ -39,5 +39,6 @@ head:
 <MyYouTubeItems jsonName="yu-jonowilliams26" /><!-- Jono Williams -->
 <MyYouTubeItems jsonName="yu-Gdconf" /><!-- GDC -->
 <MyYouTubeItems jsonName="yu-mariusespejo" /><!-- Marius Espejo -->
+<MyYouTubeItems jsonName="yu-JohnKOBADesign" /><!-- JohnKOBA Design -->
 
 <TagLinks />

@@ -32,6 +32,8 @@ head:
 ## <FontIcon icon="iconfont icon-nextjs"/>Next.js
 
 - [How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
+- [Our Journey with Caching](https://nextjs.org/blog/our-journey-with-caching)
+- [Turbopack Dev is Now Stable](https://nextjs.org/blog/turbopack-for-development-stable)
 
 ---
 

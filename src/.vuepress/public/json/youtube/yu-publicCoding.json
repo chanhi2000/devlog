@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "publicCoding",
+    "name": "공무원코딩",
+    "profile": "https://yt3.googleusercontent.com/8QEnVmHhQ2QSwjmICrxUBMN9tvcRn8lE6MKS9I2-oxsth3V4EVu7Tu-RSOXy5_a8PeDUPQ3j=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "cAFilCmsLtw", "title": "간호직 공무원 혼자서 700일 동안 만든 프로그램 #감염병대응" },
+    { "id": "Q5xM3j4fy6w", "title": "011 롤로 배우는 고급 암호화 표준(Advanced Encryption Standard, AES)" },
+    { "id": "Gh1E_rtTo3k", "title": "챗GPT와 함께 무작정 따라해보는 공무원 업무자동화 프로그래밍 1~6강" },
+    { "id": "drbbXr3U6bQ", "title": "챗GPT와 함께 무작정 따라해보는 공무원 업무자동화 프로그래밍 7~10강 #변수 #파이썬 #조건문 #자료형" },
+    { "id": "BOtlJDsNoLU", "title": "챗GPT와 함께 무작정 따라해보는 공무원 업무자동화 프로그래밍 11~13강 #콜론 #들여쓰기 #반복문 #함수" },
+    { "id": "pZ3Qu-JROCk", "title": "예제로 따라 해보는 범정부 오피스 (블록탭)" },
+    { "id": "V9tvytxGyZU", "title": "예제로 따라 해보는 범정부오피스 (표탭)" },
+    { "id": "UmrKtH2FyLM", "title": "예제로 따라 해보는 범정부오피스 (표세부탭)" },
+    { "id": "mFDrZqOTg0M", "title": "예제로 따라 해보는 범정부오피스 (문자표탭, 글자탭, 이동탭)" },
+    { "id": "69oLzXcJixE", "title": "예제로 따라 해보는 범정부오피스 (서울교통공사탭)" },
+    { "id": "k5wYQGSEIJ8", "title": "범정부오피스 가이드 Ver1.0" },
+    { "id": "mFLQ7hX2Q4M", "title": "범정부 오피스 가이드 (표탭)" },
+    { "id": "k37RSpGYrY4", "title": "범정부 오피스 가이드(표세부탭)" }
+  ],
+  "playlists": [
+
+  ]
+}

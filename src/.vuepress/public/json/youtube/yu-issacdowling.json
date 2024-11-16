@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "issacdowling",
+    "name": "Issac Dowling",
+    "profile": "https://yt3.googleusercontent.com/6ZRwxbwXvOrgIln5u3Ru42QaVtglyhWxSzEADlelbgmSdvDSwFR_GHT-bGoCTPesuAhUFYhOpg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7KZ5RQ1PnyMicdnbcKhjSOQyIWoWuoIw5sm8An1Y94aX8yK0P_2cjh-UUoBiO5IYSZwz-kygBA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bFSw0R5YyqU", "title": "Use Your Linux PC For Game Streaming (like Parsec)" },
+    { "id": "Cv-zhCgZ3vo", "title": "How (and why) would I dual-boot Android?" },
+    { "id": "SgpfwnxdDMQ", "title": "Turning a Switch into a Steam Deck / Linux Mini PC" },
+    { "id": "DSsCN6HFkWc", "title": "What I've learned about VR on Linux" },
+    { "id": "ereFS_f3iNc", "title": "Programming the voice assistant in Golang again" },
+    { "id": "1lpYrceyS6o", "title": "Linux does what BSDoesn't (and that's alright)" },
+    { "id": "p7s1nxL0HdI", "title": "Programming the voice assistant in Golang" }
+  ],
+  "playlists": [
+
+  ]
+}

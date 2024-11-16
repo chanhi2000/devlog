@@ -282,6 +282,7 @@ head:
 
 - [재택 작업 환경 개선하기](https://rein.kr/posts/2024-05-19-wfh-setups/)
 - [마우스, 마우스, 더 많은 마우스](https://rein.kr/posts/2024-09-28-mouse-mouse-mouse/)
+- [새 트랙볼: Kensington Expert Mouse](https://rein.kr/posts/2024-11-09-kensington-expert-mouse-trackball/)
 
 <!-- END: rein.kr -->
 
@@ -562,6 +563,23 @@ head:
 - [Audio Masking](https://cryptomuseum.com/covert/bugs/masking/)
 
 <!-- END: cryptomuseum.com -->
+
+---
+
+## 그대안의작은호수
+
+- [4 테라 하드디스크가 갑자기 2 테라로!](https://smallake.kr/?p=34092)
+- [IPMI와 KVM-over-LAN](https://smallake.kr/?p=32804)
+
+<!-- END: smallake.kr -->
+
+---
+
+## 사랑나무아빠의 행복한 세상
+
+- [\[정비이력\] 산타페TM 엔진오일 교체 무상수리 배터리액 보충 231021@블루핸즈](https://m.blog.naver.com/hupers/223653376047)
+
+<!-- END: hupers (blog.naver.com) -->
 
 ---
 

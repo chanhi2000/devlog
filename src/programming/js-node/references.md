@@ -532,6 +532,7 @@ tag:
   <!-- END: jacky0831 -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [2개의 map vs 1개의 reduce 속도 비교](https://ravenkim97.tistory.com/m/398)
+  - [passport 사용이유](https://ravenkim97.tistory.com/m/508)
   <!-- END: ravenkim97 -->
 - [`pronist` / hELLO](https://pronist.tistory.com/m/)
   - [hELLO 티스토리 스킨을 소개합니다.](https://pronist.tistory.com/m/5)
@@ -570,6 +571,7 @@ tag:
   - [How to Resolve Vite CJS Build Warning: Uanderstanding Module Systems](http://syaku.tistory.com/m/409)
   - [Vite CJS 빌드 경고 해결 방법: 모듈 시스템 이해하기](http://syaku.tistory.com/m/410)
   - [Setting Up Jest for Testing in Node.js](http://syaku.tistory.com/m/417)
+  - [nodejs - 효율적인 에러 처리: try-catch 사용 전략](https://syaku.tistory.com/m/431)
   <!-- END: syaku -->
 <!-- END: tistory.com -->
 
@@ -1447,6 +1449,22 @@ tag:
 - [Colyseus: Achieving a True Graceful Shutdown and Managing Room Data](https://seokjun.kim/colyseus-how-to-actually-pull-off-a-graceful-shutdown-and-get-control-over-your-rooms/)
 
 <!-- END: seokjun.kim -->
+
+---
+
+## The Cloudflare Blog
+
+- [The story of web framework Hono, from the creator of Hono](https://blog.cloudflare.com/the-story-of-web-framework-hono-from-the-creator-of-hono/)
+
+<!-- END: blog.cloudflare.com -->
+
+---
+
+## Pierre
+
+- [Rewriting Pierre to be zero-latency](https://docs.pierre.co/changelog/local-first)
+
+<!-- END: docs.pierre.co -->
 
 ---
 

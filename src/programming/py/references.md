@@ -199,6 +199,9 @@ head:
 - [`crawlee` / Scrapy Vs. Crawlee](https://dev.to/crawlee/scrapy-vs-crawlee-3omi)
 - [`taipy` / Specialized Python libraries for Unique Taskss](https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm)
 - [`taipy` / 😂11 Fun Python libraries to make your day better☀️](https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc) <!-- TODO: 라이브러리 추출 -->
+- [`lsahn` / A Yocto Cheatsheet](https://dev.to/lsahn/a-yocto-cheatsheet-3jbf)
+
+<!-- END: dev.to -->
 
 ---
 
@@ -770,6 +773,7 @@ head:
   - [마이크를 사용하여 녹음하는 Python 예제](https://webnautes.tistory.com/m/2399)
   - [서브 디렉토리 별로 포함된 이미지 파일을 딕셔너리에 저장하는 파이썬 코드](https://webnautes.tistory.com/m/2400)
   - [파이썬 이터레이터(Iterator)와 제너레이터(Generator)](https://webnautes.tistory.com/m/2403)
+  - [Python - lambda 예제 코드](https://webnautes.tistory.com/m/1486)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -872,6 +876,15 @@ head:
 - [`newstars` / newstars.cloud](https://newstars.tistory.com/m/)
   - [\[Python\] Secrets 을 별도 관리하기](https://newstars.tistory.com/m/594)
   <!-- END: newstars -->
+- [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
+  - [Spacy를 활용한 나만의 한국어 NER 모델 만들기 (1)](https://cori.tistory.com/m/354)
+  <!-- END: cori -->
+- [`helicopter55` / 나는 내 좌절에 값어치를 매긴다.](https://helicopter55.tistory.com/m/)
+  - [\[알고리즘 - 기초\] Python 인접 리스트 구현하기 ( feat. 유향 | 무향 )](https://helicopter55.tistory.com/m/98)
+  <!-- END: helicopter55 -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [TTS(Text-to-Speech) 기술 종합 가이드](http://syaku.tistory.com/m/433)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---
@@ -1106,6 +1119,18 @@ head:
 - [\[백준 4779\] 칸토어 집합](https://davincicoding.tistory.com/m/168)
 - [\[백준 32069\] 가로등](https://davincicoding.tistory.com/m/169)
 - [\[백준 20187\] 종이접기](https://davincicoding.tistory.com/m/170)
+- [\[백준 17616\] 등수 찾기](https://davincicoding.tistory.com/m/171)
+- [\[백준 2624\] 동전 바꿔주기](https://davincicoding.tistory.com/m/172)
+- [\[백준 11057\] 오르막 수](https://davincicoding.tistory.com/m/173)
+- [\[백준 11057\] 오르막 수](https://davincicoding.tistory.com/m/173)
+- [\[백준 3745\] 오름세](https://davincicoding.tistory.com/m/174)
+- [\[백준 2193\] 이친수](https://davincicoding.tistory.com/m/175)
+- [\[백준 2631\] 줄 세우기](https://davincicoding.tistory.com/m/176)
+- [\[백준 31964\] 반품 회수](https://davincicoding.tistory.com/m/177)
+- [\[백준 32068\] 보물 찾기](https://davincicoding.tistory.com/m/178)
+- [\[백준 9655\] 돌 게임](https://davincicoding.tistory.com/m/179)
+- [\[백준 11437\] LCA (재풀이)](https://davincicoding.tistory.com/m/180)
+- [\[백준 25400\] 제자리](https://davincicoding.tistory.com/m/181)
 
 <!-- END: davincicoding.tistory.com -->
 
@@ -2441,6 +2466,22 @@ head:
 - [Big changes are coming to ArchiveBox!](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement)
 
 <!-- END: docs.sweeting.me -->
+
+---
+
+## Juha-Matti Santala - Community Builder. Dreamer. Adventurer. : Juha-Matti Santala
+
+- [Write more pythonic code with context managers](https://hamatti.org/posts/write-more-pythonic-code-with-context-managers/)
+
+<!-- END: hamatti.org -->
+
+---
+
+## Pinggy - Simple Localhost Tunnels
+
+- [Host a FastAPI Application Without a Server](https://pinggy.io/blog/host_a_fastapi_app_without_a_server/)
+
+<!-- END: pinggy.io -->
 
 ---
 

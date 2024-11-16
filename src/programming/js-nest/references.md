@@ -31,6 +31,7 @@ tag:
 
 - [`@legu` / 푸시알림 날리기](https://until.blog/@legu/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC-%EB%82%A0%EB%A6%AC%EA%B8%B0)
 - [`@rolldeep-stepmerrily` / \[NestJS\] Promise.all 과 Worker_threads의 차이](https://until.blog/@rolldeep-stepmerrily/-nestjs--promise-all-%EA%B3%BC-worker-threads%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [`@octoping` / NestJS 서버를 서버리스로 Vercel에 배포하기](https://until.blog/@octoping/nestjs-서버를-서버리스로-vercel에-배포하기)
 
 <!-- END: until.blog -->
 

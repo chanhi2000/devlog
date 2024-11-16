@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ufoWdvQc_Tf9slaU991HGfqvxtijjGje4I1LaAbaBh9fkFixxr5vb5Eq8fsg5UEM2CCqVfou=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "evpt_PwpOP4", "title": "Install Anaconda on NVIDIA Jetson Tutorial - All the Pythons for AI & ML!" },
+    { "id": "epSAtsCOii4", "title": "Install VS Code on Jetson Nano in 2024" },
+    { "id": "m_BoYlY-IX4", "title": "Remote Management for NVIDIA Jetson with Allxon" },
+    { "id": "o0EiM2dah94", "title": "JetPack 6 Orin Nano Upgrade Using SD Card" },
+    { "id": "ExBxUcjIv9g", "title": "Run Python Script on Startup - Ubuntu" },
+    { "id": "utJiGBGFrTk", "title": "Use V-Mount Batteries to Power Your Electronics Projects. Plug and Play for Jetson!" },
     { "id": "C_WrbBmiTf4", "title": "CUDA Programming in Python" },
     { "id": "qCAoPcMiR4k", "title": "The Ultimate Jetson Orin Nano Unboxing and Walkthrough - Perfect for Developers and Makers Alike" },
     { "id": "LSdXakt8nZ8", "title": "Python Upgrade on Jetson Nano - Tutorial" },

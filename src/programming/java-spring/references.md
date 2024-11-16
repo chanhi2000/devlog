@@ -124,13 +124,16 @@ head:
 - [`akintopbas96` / Spring Boot Code Structure: Package by Layer vs Package by Feature](https://medium.com/@akintopbas96/spring-boot-code-structure-package-by-layer-vs-package-by-feature-5331a0c911fe)
 - [`akintopbas96` / Refactoring Java Spring Boot Code: Eliminating If-Else Statements for Cleaner, Extensible Logic](https://medium.com/@akintopbas96/refactoring-java-spring-boot-code-eliminating-if-else-statements-for-cleaner-extensible-logic-f1314cf9724e)
 - [`tpbabparn` / In-house LLM-application by Spring AI + Ollama](https://tpbabparn.medium.com/in-house-llm-application-by-spring-ai-ollama-91c48e2d2d38)
-- [`taesulee93` / Spring Http Interface를 활용한 외부 API 연동 — with WebClient](https://medium.com/@taesulee93/spring-http-interface%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%99%B8%EB%B6%80-api-%EC%97%B0%EB%8F%99-with-webclient-ab3691db5c27?source=rss-524631d9bcfb------2)
-- [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25?source=rss-524631d9bcfb------2)
-- [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240?source=rss-524631d9bcfb------2)
-- [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35?source=rss-524631d9bcfb------2)
+- [`taesulee93` / Spring Http Interface를 활용한 외부 API 연동 — with WebClient](https://medium.com/@taesulee93/spring-http-interface%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%99%B8%EB%B6%80-api-%EC%97%B0%EB%8F%99-with-webclient-ab3691db5c27)
+- [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25)
+- [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240)
+- [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35)
 - [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7?source=rss-d4008c147c0e------2)
-- [`taesulee93` / SAML 기반 SSO 인증 흐름과  OpenSAML을 활용한 IDP(Identity Provider) 구현](https://medium.com/@taesulee93/saml-%EA%B8%B0%EB%B0%98-sso-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84%EA%B3%BC-opensaml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-idp-identity-provider-%EA%B5%AC%ED%98%84-d0809bfc4048?source=rss-524631d9bcfb------2)
-- [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (1)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-1-003441ecb87b?source=rss-524631d9bcfb------2)
+- [`taesulee93` / SAML 기반 SSO 인증 흐름과  OpenSAML을 활용한 IDP(Identity Provider) 구현](https://medium.com/@taesulee93/saml-%EA%B8%B0%EB%B0%98-sso-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84%EA%B3%BC-opensaml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-idp-identity-provider-%EA%B5%AC%ED%98%84-d0809bfc4048)
+- [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (1)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-1-003441ecb87b)
+- [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (2)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-2-70b48d50adbd)
+- [`taesulee93` / ISP 법칙에 따른 도메인 리파지토리 구현 전략 — JpaRepository는 도메인 리파지토리가 아니다](https://medium.com/@taesulee93/isp-%EB%B2%95%EC%B9%99%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EA%B5%AC%ED%98%84-%EC%A0%84%EB%9E%B5-jparepository%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-cb3564fda976)
+- [`taesulee93` / Spring Data JPA에서 EntityManager의 주입 방법과 주의점 (`Autowired`, `PersistenceContext`, `PersistenceUnit`)](https://medium.com/@taesulee93/spring-data-jpa%EC%97%90%EC%84%9C-entitymanager%EC%9D%98-%EC%A3%BC%EC%9E%85-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%A3%BC%EC%9D%98%EC%A0%90-autowired%EB%8F%84-%EC%9D%B4%EC%A0%A0-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4-f85925b7ff9a2)
 
 <!-- END: medium.com java -->
 
@@ -170,6 +173,7 @@ head:
 - [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)
 - [`@qkrtkdwns3410` / Spring boot 3.x Qdsl group by 사용시 에러](https://velog.io/@qkrtkdwns3410/Spring-boot-3.x-Qdsl-group-by-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC)
 - [`@qkrtkdwns3410` / JTE 템플릿 엔진](https://velog.io/@qkrtkdwns3410/JTE-%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%97%94%EC%A7%84)
+- [`@thd0427` / 안전한 API 호출 방법에 대한 개선(Feat. 보일러플레이트 코드)](https://velog.io/@thd0427/%EC%95%88%EC%A0%84%ED%95%9C-API-%ED%98%B8%EC%B6%9C-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%9C%EC%84%A0Feat.-%EB%B3%B4%EC%9D%BC%EB%9F%AC%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C)
 
 <!-- END: velog.io java -->
 
@@ -233,6 +237,7 @@ head:
   <!-- END: rutgo-letsgo -->
 - [`octoping` / Octoping](https://octoping.tistory.com/m/)
   - [[번역] Spring Topical Guides - Spring Boot Docker](https://octoping.tistory.com/m/58)
+  - [`HashMap`으로 Repository 모킹 간편하게 하기](https://until.blog/@octoping/hashmap으로-repository-모킹-간편하게-하기)
   <!-- END: octoping -->
 - [`yeonyeon` / 연로그](https://yeonyeon.tistory.com/m/)
   - [[Spring] `ReactiveCrudRepository`를 이용한 삭제 시 주의점](https://yeonyeon.tistory.com/m/329)
@@ -269,6 +274,8 @@ head:
   - [\[Spring Boot\] JPA 값 타입](https://findsilverlining.tistory.com/m/130)
   - [\[Spring Boot\] Jacoco - 코드 커버리지](https://findsilverlining.tistory.com/m/132)
   - [\[Spring Boot\] 예외 처리 방법](https://findsilverlining.tistory.com/m/134)
+  - [\[우아한테크코스\] 프리코스 2주차](https://findsilverlining.tistory.com/m/138)
+  - [\[우아한테크코스\] 프리코스 3주차](https://findsilverlining.tistory.com/m/139)
 <!-- END: findsilverlining -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[마실가실\] 1년 후 마실가실 - 환경 설정(로컬 DB 연결 및 JPA 설정)](https://hj0216.tistory.com/m/930)
@@ -410,6 +417,7 @@ head:
   - [\[JPA\] 임베디드 타입(`@Embeddable`, `@Embedded`)에 관하여](https://backend-jaamong.tistory.com/m/175)
   - [Java/Spring 테스트 - 1](https://backend-jaamong.tistory.com/m/177)
   - [\[JPA Error\] No EntityManager with actual transaction available for current thread - cannot reliably process 'flush' call](https://backend-jaamong.tistory.com/m/178)
+  - [Java/Spring 테스트 - 2](https://backend-jaamong.tistory.com/m/179)
   <!-- END: backend-jaamong -->
 - [`cla9` / 북극 펭귄](https://cla9.tistory.com/m/)
   - [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/m/118)
@@ -425,6 +433,8 @@ head:
   - [JJWT 0.11.2 에서 0.12.5 버전 마이그레이션](https://moonsiri.tistory.com/m/206)
   - [\[SpringSecurity5\] OAuth2.0로 네이버 로그인 구현](https://moonsiri.tistory.com/m/216)
   - [\[SpringSecurity5\] OAuth2.0로 카카오 로그인 구현](https://moonsiri.tistory.com/m/217)
+  - [\[SpringBoot\] Spring Profile과 환경별 resource 설정](https://moonsiri.tistory.com/m/218)
+  - [\[SpringBoot\] logback xml을 java configuration으로 변환하기](https://moonsiri.tistory.com/m/219)
   <!-- END: moonsiri -->
 - [`jakpentest` / 뭐라도 해야 한다면 기록을..](https://jakpentest.tistory.com/m/)
   - [\[자바/스프링 개발자를 위한 실용주의 프로그래밍\]\[chapter02\] - VO,DTO, DAO, SO](https://jakpentest.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dchapter02-VODTO-DAO-SO)
@@ -440,11 +450,14 @@ head:
   <!-- END: colabear754 -->
 - [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
   - [OAuth 소셜 로그인 안전하게 구현하기 (`redirect_uri`, redis, token)](https://shout-to-my-mae.tistory.com/m/444)
+  - [\[우아한테크코스\] 프리코스 3주차 - 로또 미션 회고](https://shout-to-my-mae.tistory.com/m/449)
+  - [\[우아한테크코스\] 프리코스 중간 회고](https://shout-to-my-mae.tistory.com/m/450)
   <!-- END: shout-to-my-mae -->
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [스프링에서 DI(Dependency Injection)를 활용한 서비스 계층 설계 및 `@Autowired`와 생성자 주입의 차이점](https://dreamcoding.tistory.com/m/115)
   - [Spring Boot에서 `@Value`로 주입된 값을 Static 변수로 사용하기](https://dreamcoding.tistory.com/m/123)
   - [Java에서의 CORS 설정하기](https://dreamcoding.tistory.com/m/128)
+  - [스프링에서 Bean 등록 및 관리: 어노테이션을 통한 의존성 주입](https://dreamcoding.tistory.com/m/136)
   <!-- END: dreamcoding -->
 - [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
   - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
@@ -832,6 +845,18 @@ head:
 - [Spring Boot with Kotlin, AWS S3, and S3Template](https://codersee.com/spring-boot-with-kotlin-aws-s3-and-s3template/)
 
 <!-- END: codersee.com -->
+
+### Code 'n' Roll - Rocking the computer
+
+- [Kotest + Spring + Testcontainers](https://blog.code-n-roll.dev/kotest-spring-testcontainers)
+
+<!-- END: blog.code-n-roll.dev -->
+
+### Romain Guy
+
+- [A Micro-optimization You Will Never Need](https://romainguy.dev/posts/2024/a-micro-optimization-you-will-never-need/)
+
+<!-- END: romainguy.dev -->
 
 ---
 

@@ -200,6 +200,8 @@ head:
 - [`lyft` / Protocol Buffer Design: Principles and Practices for Collaborative Development](https://eng.lyft.com/protocol-buffer-design-principles-and-practices-for-collaborative-development-8f5aa7e6ed85)
 - [`@kristina.kondrashevich` / Why we skipped SRE and switched to Platform Engineering](https://medium.com/@kristina.kondrashevich/why-we-skipped-sre-and-switched-to-platform-engineering-b1f05979c6c6)
 - [`yandex` / Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+- [`jhk0530` / 국건영 데이터를 활용한 헬스케어 데이터 분석 가이드](https://jhk0530.medium.com/knhanes-healthcare-af51ac310291)
+- [`dev-channel` / A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 <!-- END: medium.com -->
 
@@ -359,6 +361,7 @@ head:
 - [`wasteman.codes` / Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 - [`codingconfessions` / How simultaneous multithreading works under the hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 - [`frest` / Distributed == Relational](https://frest.substack.com/p/distributed-relational)
+- [`bluesky` / Building Bluesky: a Distributed Social Network (Real-World Engineering Challenges)](https://newsletter.pragmaticengineer.com/p/bluesky)
 
 <!-- END: substack.com -->
 
@@ -393,6 +396,8 @@ head:
   <!-- END: moonnight0 -->
 - [`vurias0203` / Miles UX/UI Insight](https://vurias0203.tistory.com/m/)
   - [새로운 디자인 컴포넌트 도입 절차](https://vurias0203.tistory.com/m/entry/%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8F%84%EC%9E%85-%EC%A0%88%EC%B0%A8)
+  - [Apple Vision Pro가 선보이는 혁신적인 공간 컴퓨팅 UX 디자인](https://vurias0203.tistory.com/m/entry/Apple-Vision-Pro%EA%B0%80-%EC%84%A0%EB%B3%B4%EC%9D%B4%EB%8A%94-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EA%B3%B5%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%8C%85-UX-%EB%94%94%EC%9E%90%EC%9D%B8)
+  - [Web3 시대의 UX/UI 디자인 트렌드와 핵심 원칙](https://vurias0203.tistory.com/m/entry/Web3-%EC%8B%9C%EB%8C%80%EC%9D%98-UXUI-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8A%B8%EB%A0%8C%EB%93%9C%EC%99%80-%ED%95%B5%EC%8B%AC-%EC%9B%90%EC%B9%99)
   <!-- END: vurias0203 -->
 - [`germweapon` / 세균무기, 지구별에 기록을 남기다!](https://germweapon.tistory.com/m/)
   - [\[화면(상세) 기획\] 이렇게 기획하면 안 돼요! #회원가입](https://germweapon.tistory.com/m/384)
@@ -905,6 +910,38 @@ head:
 - [\[KANS\] 3기 7주 – Service Mesh : Istio- Mode(Sidecar, Ambient)](https://logonme.net/activities/study/kans_3_7/)
 
 <!-- END: logonme.net -->
+
+---
+
+## 엘키의 주절 주절
+
+- [거창하지 않아도 괜찮을 수 있는 설계](https://elky84.github.io/2024/11/03/design/)
+
+<!-- END: elky84.github.io -->
+
+---
+
+## 보름의 달빛 ✨
+
+- [졸업 과제 네트워크 • 통신 분과 동상 수상 🏆](https://shkisme.vercel.app/graduation-assignment-retrospect)
+
+<!-- END: shkisme.vercel.app -->
+
+---
+
+## India | Latest News & Stories | Uber Blog
+
+- [Genie: Uber’s Gen AI On-Call Copilot](https://uber.com/en-IN/blog/genie-ubers-gen-ai-on-call-copilot/)
+
+<!-- END: uber.com -->
+
+---
+
+## Beyond the Canvas · Sketch Blog · Sketch
+
+- [Oh no, I need to design a tinted iOS 18 app icon](https://sketch.com/blog/tinted-app-icons)
+
+<!-- END: sketch.com -->
 
 ---
 

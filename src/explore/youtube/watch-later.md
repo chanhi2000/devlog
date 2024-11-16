@@ -70,6 +70,7 @@ tags:
 <MyYouTubeItems jsonName="yu-techdojang" /><!-- 테크도장 -->
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-thefrankring" /><!-- Frank Ring -->
+<MyYouTubeItems jsonName="yu-sunprobricks" /><!-- SunPro Bricks -->
 
 <TagLinks />
 

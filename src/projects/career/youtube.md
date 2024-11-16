@@ -45,5 +45,6 @@ tag:
 <MyYouTubeItems jsonName="yu-maryang710" /><!-- 마량 maryang -->
 <MyYouTubeItems jsonName="yu-incutv" /><!-- 개발자 인큐티비 -->
 <MyYouTubeItems jsonName="yu-노말이" /><!-- 노말이 -->
+<MyYouTubeItems jsonName="yu-itnote" /><!-- 이임복의 일상IT -->
 
 <TagLinks />

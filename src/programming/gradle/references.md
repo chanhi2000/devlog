@@ -43,6 +43,9 @@ head:
 - [`sunghyunroh` / 줄줄이 딸려오는 라이브러리만들기 Part1. Bom](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part1-bom-1945cbab452d?source=rss-f83fa8fc4b46------2)
 - [`sunghyunroh` / 줄줄이 딸려오는 라이브러리만들기 Part2. pom과 nexus](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part2-pom%EA%B3%BC-nexus-10e640c34a75?source=rss-f83fa8fc4b46------2)
 - [`sunghyunroh` / MavenCental에 라이브러리를 올리기-SonaType을 처음에 사용하는 방법](https://medium.com/@sunghyunroh/mavencental%EC%97%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%98%AC%EB%A6%AC%EA%B8%B0-sonatype%EC%9D%84-%EC%B2%98%EC%9D%8C%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-f9503bfe1ae7?source=rss-f83fa8fc4b46------2)
+- [`sunghyunroh` / 줄줄이 딸려오는 라이브러리만들기 Part3. gradle과 plugin](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part3-gradle%EA%B3%BC-plugin-b8ac579f0348?source=rss-f83fa8fc4b46------2)
+
+<!-- END: medium -->
 
 ---
 
@@ -59,6 +62,8 @@ head:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@sc_shin` - Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
+
+<!-- END: velog.io -->
 
 ---
 

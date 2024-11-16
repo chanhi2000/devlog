@@ -367,6 +367,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   <!-- END: csj000714 -->
 - [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
   - [\[Docker Compose\] `depense_on`으로 서비스 의존 관계 설정하기](https://devs0n.tistory.com/m/199)
+  - [Docker 로컬 Redis cluster 개발 환경 구성](https://devs0n.tistory.com/m/202)
   <!-- END: devs0n -->
 <!-- END: tistory.com -->
 
@@ -493,6 +494,8 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 ## Marshall K
 
 - [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker)
+- [Git Garden 제작기 및 소개](https://marshallku.com/dev/gitgarden-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EB%B0%8F-%EC%86%8C%EA%B0%9C)
+- [컨테이너 환경에서 `wrk`로 벤치마크 테스트하기](https://marshallku.com/dev/benchmark-with-wrk-in-container)
 
 <!-- END: marshallku.com -->
 

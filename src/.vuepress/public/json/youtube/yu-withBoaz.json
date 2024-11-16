@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "withBoaz",
+    "name": "가장 쉬운 웹개발 with Boaz",
+    "profile": "https://yt3.googleusercontent.com/AA4w52mEOHV4lIzCK-1n8O2O7576Hu4oPi1dDtr8sclVhteBj06mIID9F-Qfd91qYDvOy-3VXw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GEUPq_vV6N3JJ29htMeo79h5zniG-LxnRPDpOxcQw5pth4dB4bgmU8TVZnrbDcjKN-VXJad9=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FMoxoYpSDRY", "title": "Nextjs 의 template 특징과 활용 예시?!" },
+    { "id": "p7EbQy_-2TU", "title": "Product Engineer Community(구독 서비스) 회원가입 + 페이지 목록 정리" },
+    { "id": "5UX23AOqVvM", "title": "Link 컴포넌트 사용하면 자동으로 prefetching 을 한다?!(무엇을 prefetch 할까?!)" },
+    { "id": "ai5gd3T3jdU", "title": "사용자에게 정보를 연결해주는 방법?!" },
+    { "id": "FCNqoFQQ8wg", "title": "[P.E.C] 사용자에게 꼭 필요한 정보를 쓰기 쉽게 연결해주는 방법?!" },
+    { "id": "v69zRgDCjjs", "title": "ErrorBoundary 는 만능이 아니다?! 그럼 언제 ErrorBoundary 를 써야할까?" },
+    { "id": "vSIb2sPdu9U", "title": "[P.E.C 졸업생 인터뷰] 카프카 모니터링 툴 스타트업의 프론트엔드 팀장이 성장하는 방법?!" },
+    { "id": "i6uhjtTY7l4", "title": "Product Engineer Community(구독 서비스) 서비스 개요 설명" },
+    { "id": "60CBSH349eA", "title": "Product Engineer Community(구독 서비스) 비디오 컴포넌트 + 유튜브 영상 연결" },
+    { "id": "a_YbkC6e_jI", "title": "Product Engineer Community(구독 서비스) 도메인 연결" },
+    { "id": "9bqUxqJXPKs", "title": "Nextjs 의 layout 컴포넌트에서 접근할 수 없는 값이 있다?!" },
+    { "id": "j_2i3BAXdt0", "title": "[P.E.C] 공통 컴포넌트는 어떤 기준으로 묶어야 할까? 또 어떤 수준에서 묶어야 할까?" },
+    { "id": "6p0OiOu8t7s", "title": "Nextjs 앱 라우팅 기능을 직접 코드로 구현하며 동작 원리를 깊이 이해해보자(with 생성 AI)" },
+    { "id": "rh5QP5GtYws", "title": "Nextjs 앱 라우터 기본 개념과 개발할 때 주의점?!(pathname 자동 생성 스크립트까지)" },
+    { "id": "I5Pb7jWnbhU", "title": "완성도 높은 이력서를 쓰는데 도움이 되는 구체적인 팁들" },
+    { "id": "pFe_K8JOQyw", "title": "왜 회사를 다니는가?(이직하기 전에 먼저 고민해야 할 것들)" },
+    { "id": "XdiMjKSCOfc", "title": "NextJS 는 서버 컴포넌트를 어떻게 렌더링할까?" },
+    { "id": "9wiLf2t0Goc", "title": "Nextjs 페이지 컴포넌트(page.tsx)에서 'use client'를 선언하면 어떻게 렌더링할까?" },
+    { "id": "EwY6hbAxdV8", "title": "Nextjs 가 등장한 기술적인 배경(프론트엔드 개발 역사와 함께 살펴보기)" },
+    { "id": "S5Rl3EtBaA0", "title": "NextJS 라우팅 방식이 구현된 배경과 다른 방식들과의 차이점?!" },
+    { "id": "rEGBmIZi5zk", "title": "더 나은 이력서를 위한 구체적이고 실천적인 조언들(실제 이력서 피드백 기반)" }
+  ],
+  "playlists": [
+
+  ]
+}

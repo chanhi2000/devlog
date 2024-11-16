@@ -97,21 +97,24 @@ tag:
 
 ---
 
-## DooTheG
+## tistory
 
-- [[ORACLE] Insert문 export 후 insert 하기](https://dbcp.tistory.com/327)
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [오라클에서 두 쿼리의 결과 비교하기](https://dreamcoding.tistory.com/m/138)
+  <!-- END: dreamcoding -->
+- [`dbcp` / DooTheG](https://dbcp.tistory.com/m/)
+  - [[ORACLE] Insert문 export 후 insert 하기](https://dbcp.tistory.com/m/327)
+  <!-- END: dbcp -->
+- [`shout-to-my-mae` / star collector](https://shout-to-my-mae.tistory.com/m/)
+  - [[데이터베이스] 인덱스 + 심화 (커버링 인덱스, 실행 계획, 인덱스 스캔)](https://shout-to-my-mae.tistory.com/m/410)
+  <!-- END: shout-to-my-mae -->
+<!-- END: tistory.com -->
 
 ---
 
 ## Vlad Mihalcea
 
 - [SQL Operation Order](https://vladmihalcea.com/sql-operation-order)
-
----
-
-## star collector
-
-- [[데이터베이스] 인덱스 + 심화 (커버링 인덱스, 실행 계획, 인덱스 스캔)](https://shout-to-my-mae.tistory.com/410)
 
 ---
 

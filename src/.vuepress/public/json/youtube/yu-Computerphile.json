@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Computerphile",
+    "name": "Computerphile",
+    "profile": "https://yt3.googleusercontent.com/tZI1Hqcjxhp39yZ8ZlWZgaDc1r5XxBE4f2wENq13R74tElv-Ra1cCTQ2CAcjRxk4db3Y2vBYIQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RPby8B4Xr-MviAmhkaRj8Z-UHMuOMduWhlKfN5qE_djvcZhO5eBSu2KV5XT26olhJNx0-ictLA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nOCPpT-Sn0A", "title": "Recursive Ray Tracing - Computerphile" },
+    { "id": "40xanXXsw24", "title": "Malleable Encryption - Computerphile" },
+    { "id": "Me0GF5zMfAk", "title": "Modern CPUs Assign Registers To Speed Up Your Code - Computerphile" },
+    { "id": "Isen8IHtrvE", "title": "The \"Goodbye\" Problem - Computerphile" },
+    { "id": "of4UDMvi2Kw", "title": "A Helping Hand for LLMs (Retrieval Augmented Generation) - Computerphile" },
+    { "id": "rlaNMJeA1EA", "title": "Crowdstruck (Windows Outage) - Computerphile" },
+    { "id": "jNC9LPc3BI0", "title": "How CPUs do Out Of Order Operations - Computerphile" }
+  ],
+  "playlists": [
+
+  ]
+}

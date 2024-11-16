@@ -37,6 +37,9 @@ head:
 
 - [`chrisjune-13837` / \[ML\] Transformer Encoder 뽀개기](https://chrisjune-13837.medium.com/ml-transformer-encoder-%EB%BD%80%EA%B0%9C%EA%B8%B0-4d10fb9b3bce?source=rss-e74406582b08------2)
 - [`chrisjune-13837` / \[ML\] Attention 매커니즘 뽀개기](https://chrisjune-13837.medium.com/ml-attention-%EB%A7%A4%EC%BB%A4%EB%8B%88%EC%A6%98-%EB%BD%80%EA%B0%9C%EA%B8%B0-277dcdbb3934?source=rss-e74406582b08------2)
+- [`chrisjune-13837` / \[ML\] ScaNN을 활용한 TensorFlow 모델 서빙과 인퍼런스 속도 개선](https://chrisjune-13837.medium.com/ml-scann%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-tensorflow-%EB%AA%A8%EB%AA%A8%EB%8D%B8-inference-%EC%86%8D%EB%8F%84-%EB%86%92%EC%9D%B4%EA%B8%B0-4253adced9d1)
+
+<!-- END: medium.com -->
 
 ---
 

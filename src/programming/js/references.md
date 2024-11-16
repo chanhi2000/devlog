@@ -179,6 +179,7 @@ head:
 - [`@ksh4704` / JavaScript \[ES6\] (2)](https://velog.io/@ksh4704/JavaScript-ES6-2)
 - [`@sehyunny` / (번역) Ecma 인터내셔널에서 ECMAScript 2024를 승인했습니다: 새로운 기능은 무엇일까요?](https://velog.io/@sehyunny/ecmascript-2024)
 - [`@qkrtkdwns3410` / 제이쿼리의 `data()` 는 내부적으로 캐싱을 수행한다.](https://velog.io/@qkrtkdwns3410/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC%EC%9D%98-data-%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%88%98%ED%96%89%ED%95%9C%EB%8B%A4)
+- [`@sehyunny` / (번역) 자바스크립트를 두 개의 언어로 분리해야 할까요? 구글이 주도하는 새로운 제안에 대해 의견이 분분합니다.](https://velog.io/@sehyunny/split-js-into-two-languages)
 
 <!-- END: velog.io -->
 
@@ -293,6 +294,7 @@ head:
   <!-- END: jacky0831 -->
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [Basic Usage of URL Pattern API](http://syaku.tistory.com/m/418)
+  - [JavaScript - Java의 enum을 대체하는 자바스크립트의 `Object.freeze()` 완벽 가이드](https://syaku.tistory.com/m/432)
   <!-- END: syaku -->
 <!-- END: tistory.com -->
 
@@ -651,6 +653,38 @@ head:
 - [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 
 <!-- END: nolanlawson.com -->
+
+---
+
+## 기계인간 John Grib
+
+- [Destructuring](https://johngrib.github.io/wiki/programming/destructuring/)
+
+<!-- END: johngrib.github.io -->
+
+---
+
+## 재그지그의 개발 블로그
+
+- [JavaScript fetch 메서드는 왜 2번 await 해야만 할까?](https://wormwlrm.github.io/2024/11/08/Why-does-JavaScript-fetch-make-me-wait-twice.html)
+
+<!-- END: wormwlrm.github.io -->
+
+---
+
+## Jeremy Morrell
+
+- [OpenTelemetry Tracing in 200 lines of code](https://jeremymorrell.dev/blog/minimal-js-tracing/)
+
+<!-- END: jeremymorrell.dev -->
+
+---
+
+## Jonathan Creamer
+
+- [How we shrunk our Javascript monorepo git size by 94%](https://jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
+
+<!-- END: jonathancreamer.com -->
 
 ---
 

@@ -54,7 +54,11 @@ tag:
 - [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
   - [몽고DB 인덱스 확인하는 방법](https://dreamcoding.tistory.com/m/117)
   - [MongoDB 여러 컬렉션 한번에 샤드 적용](https://dreamcoding.tistory.com/m/118)
+  - [MongoDB 쿼리 사용법 가이드 (by MongoTemplate)](https://dreamcoding.tistory.com/m/135)
   <!-- END: dreamcoding -->
+- [`takeu` / takeU](https://takeu.tistory.com/m/)
+  - [7. mongoDB 설치](https://takeu.tistory.com/m/401)
+  <!-- END: takeu -->
 <!-- END: tistory.com -->
 
 ---

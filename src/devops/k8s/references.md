@@ -303,6 +303,7 @@ head:
 - [`@nari120` / 02_효율적인 쿠버네티스 클러스터 관리를 위한 kubectl CLI 환경 최적화](https://velog.io/@nari120/02%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-kubectl-CLI-%ED%99%98%EA%B2%BD-%EC%B5%9C%EC%A0%81%ED%99%94)
 - [`@nari120` / 03_ `kubectl` 명령어로 익히는 쿠버네티스의 주요 오브젝트](https://velog.io/@nari120/03-kubectl-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
 - [`@nari120` / 04_YAML 파일을 이용한 쿠버네티스 오브젝트 관리](https://velog.io/@nari120/04YAML-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC)
+- [`@dnr6054` / \[MP\] Build Your Own Cluster](https://velog.io/@dnr6054/MP-Build-Your-Own-Cluster)
 
 <!-- END: velog.io -->
 
@@ -472,6 +473,22 @@ head:
 - [KillerCoda로 Kubernetes 학습하기](https://jacking75.github.io/tech_20241015/)
 
 <!-- END: jacking75.github.io -->
+
+---
+
+## 000namc.xyz
+
+- [로컬 서버에 k8s cluster 구축하기](https://blog.000namc.xyz/2024/11/09/k8s/)
+
+<!-- END: blog.000namc.xyz -->
+
+---
+
+## Istio
+
+- [Scaling in the Clouds: Istio Ambient vs. Cilium](https://istio.io/latest/blog/2024/ambient-vs-cilium/)
+
+<!-- END: istio.io -->
 
 ---
 

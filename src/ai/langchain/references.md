@@ -64,6 +64,12 @@ head:
   - [\[LCC-9\] LangChain Runnable 이해](http://mobicon.tistory.com/m/624)
   - [\[LCC-10\] LangChain RunnableParallel, @chain 이해](http://mobicon.tistory.com/m/625)
   <!-- END: mobicon -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [랭체인(LangChain) 맛 보기(기초)](https://aspdotnet.tistory.com/m/3310)
+  <!-- END: aspdotnet -->
+- [`lsjsj92` / 꿈 많은 사람의 이야기](https://lsjsj92.tistory.com/m/)
+  - [vLLM OpenAI API 서버와 랭체인(LangChain) 연동하여 RAG 구축하기](https://lsjsj92.tistory.com/m/674)
+  <!-- END: lsjsj92 -->
 <!-- END: tistory.com -->
 
 ---
@@ -79,6 +85,12 @@ head:
 - [LangGraph 기반 데이터 분석 멀티 에이전트 만들기](https://daddynkidsmakers.blogspot.com/2024/10/langgraph.html)
 
 <!-- END: daddynkidsmakers.blogspot.com -->
+
+---
+
+## jacking75
+
+<!-- END: jacking75.github.io -->
 
 ---
 

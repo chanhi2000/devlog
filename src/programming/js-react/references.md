@@ -200,6 +200,8 @@ head:
 - [`@juhee067` / `react-helmet-async`으로 SEO 최적화하기](https://velog.io/@juhee067/react-helmet-async%EC%9C%BC%EB%A1%9C-SEO-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0)
 - [`@composite` / HTMX를 React와 비교하려는 이유가 뭐냐](https://velog.io/@composite/HTMX%EB%A5%BC-React%EC%99%80-%EB%B9%84%EA%B5%90%ED%95%98%EB%A0%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%90%EB%83%90)
 - [`@devohda` / \[React\] memo, useMemo 의 차이](https://velog.io/@devohda/React-memo-useMemo-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [`@haryan248` / SOLID 원칙을 React 컴포넌트에 입혀보기](https://velog.io/@haryan248/SOLID-principle-react)
+- [`@devohda` / React 스터디 - React 학습하기 (2)](https://velog.io/@devohda/React-%EC%8A%A4%ED%84%B0%EB%94%94-React-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-2)
 
 <!-- END: velog.io -->
 
@@ -351,6 +353,12 @@ head:
 - [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
   - [Docusaurus 기술문서로 개발 이력서 작성하기](https://teveloper.tistory.com/m/89)
   <!-- END: teveloper -->
+- [`syaku` / 샤쿠 블로그](https://syaku.tistory.com/m/)
+  - [React에서 람다 함수를 선호하는 4가지 이유 (화살표 함수 활용법)](https://syaku.tistory.com/m/411)
+  - [Reactjs - 이미지 첨부 컴포넌트](https://syaku.tistory.com/m/426)
+  - [Reactjs - 드래그 앤 드롭 리스트 구현하기](https://syaku.tistory.com/m/427)
+  - [Reactjs - `useEffect` 와 의존성 배열 완벽 가이드](https://syaku.tistory.com/m/428)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---
@@ -1272,6 +1280,22 @@ https://o-yeon.tistory.com/227
 - [React 19 버전에 추가될 기능들을 알아보자](https://falsy.me/react-19-%eb%b2%84%ec%a0%84%ec%97%90-%ec%b6%94%ea%b0%80%eb%90%a0-%ea%b8%b0%eb%8a%a5%eb%93%a4%ec%9d%84-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
 
 <!-- END: falsy.me -->
+
+---
+
+## saengmotmi's blog
+
+- [2024-11-01 React Router v7, Static Prerendering?](https://saengmotmi.netlify.app/react/rrv7-static-prerendering/)
+
+<!-- END: saengmotmi.netlify.app -->
+
+---
+
+## Robin Malfait
+
+- [Conditional React hooks pattern](https://robinmalfait.com/blog/conditional-react-hooks-pattern)
+
+<!-- END: robinmalfait.com -->
 
 ---
 

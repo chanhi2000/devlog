@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "FFgvV0sA3kU", "title": "Metaprogramming and JIT Compilers - A Brief Overview" },
+    { "id": "jMIj893JJBg", "title": "I made a language for the Nintendo DS" },
     { "id": "lOhtNrYWr_Q", "title": "Why are if statements in shaders heavily discouraged?" },
     { "id": "3IAlJSIjvH0", "title": "Arenas, strings and Scuffed Templates in C" }
   ]

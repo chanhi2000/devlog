@@ -3679,5 +3679,12 @@
     "topics": ["javascript", "mp3", "mpeg", "webassembly", "wasm", "emscripten", "ogg-vorbis", "flac", "opus", "hacktoberfest", "webworker", "ogg-flac", "ogg-opus"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/f7ab9b9d44b66334dfbc3da449f8dcb122a057193292b8cc96216aced0a0d17b/eshaz/wasm-audio-decoders"
+  }, {
+    "repo": "muze-nl/jaqt",
+    "desc": "GraphQL-style Array.select() and Array.where() for javascript",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d114d848a9b90b4ddeeab4a68f43d704b2befb6ba8a3b447554a48cd9fa20e0e/muze-nl/jaqt"
   }
 ]

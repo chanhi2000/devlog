@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "tCoEWty7mOw", "title": "Can a Human brain connect to computer? | Impact of Brain Machine Interface (BMI) | Author Analysis" },
+    { "id": "32qnf3L6GpI", "title": "How To View Crashes in iOS App from App Store and XCode | Crash logs via AppStore | TestFlight" },
+    { "id": "M2uyGb3XThA", "title": "macOS :- Build first  macOS App on SwiftUI  in just 3 minutes, Xcode 13- #macOS #swiftuideveloper" },
+    { "id": "Xe8Fr_zYLRU", "title": "Create Global UIAlertController in Swift from AppDelegate | Solve Alert already/presenting/UI issues" },
+    { "id": "Z7xeZs3zsH0", "title": "WebXR:- Build first webXR App with sample code | WebXR Tools: Create Immersive AR/VR/XR Experiences" },
+    { "id": "Efw5dX7dgdU", "title": "Convert your code to any other programming languages |How to convert one code to different languages" },
     { "id": "98m-vASmU3s", "title": "UIViewAnimation : Move View right to left & left to right - iOS Swift 5" },
     { "id": "1RvBGZ2zQvE", "title": "Build an AI Chatbot with your Custom Data in 5 minutes | Custom ChatBot with knowledgeBase|No Coding" },
     { "id": "n0h8tKVVvOc", "title": "Safeguarding Sensitive Data in iOS Apps with Keychain Manager | Persisting Sensitive Data in Swift" },

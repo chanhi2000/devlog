@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "flashbots",
+    "name": "Flashbots",
+    "profile": "https://yt3.googleusercontent.com/7gtn1q01zFsSXQEdHtisF533J7POC6Q-zsaYzfCYvQ3fS9z9R_hdv2bhwaSUL7GiXyk-PpRcHQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "efSJocCBuu4", "title": "Flashwares VIII: Dstack meets on-chain PCCS and ZK SNARK proofs of attestations" },
+    { "id": "5slxiwZBcJ4", "title": "Flashwares VIII: Dstack meets on-chain PCCS and ZK SNARK proofs of attestations" },
+    { "id": "hw2tEBoS2lg", "title": "Flashwares VII:  Shixuan Zhao - Reusable Enclaves" },
+    { "id": "zcY-k1gbzFQ", "title": "Making Onchain Liquidity Great Again - Markus Schmitt | Liquidity.salon" },
+    { "id": "--imxDV7zPw", "title": "Panel: MEV & LVR | Liquidity.salon" },
+    { "id": "sSS_Rw0d6lk", "title": "Intel TDX Demos - Moe Mahhouk | TEE.Salon" },
+    { "id": "xHslR-eh1eY", "title": "TEE Block Building - Shea Ketsdever | TEE.Salon" },
+    { "id": "3Tv6k02zvBc", "title": "Quartz: A privacy Preserving TEE Sidecar for CosmWASM - Ethan Buchman | TEE.salon" },
+    { "id": "69H7UOftjfs", "title": "Panel: Information Flow Control | Liquidity.salon" },
+    { "id": "AJPDtdNtSl8", "title": "A complete Web3-based DCAP attestation framework - Zheng Leong | TEE.salon" },
+    { "id": "rqLbODcYYYo", "title": "TEE in Decentralized Al - Hang Yin | TEE.Salon" },
+    { "id": "jHNpWEdBQ_Q", "title": "Web Proofs: Add internet data to onchain apps - Tracy Livengood | TEE.Salon" },
+    { "id": "ZtaEPkwIqBE", "title": "Designing Open Processors for the Next Generation of Cryptography - Michael Gao | TEE.Salon" },
+    { "id": "6IhXes6aaug", "title": "What applications do TEEs enable? - Xinyuan Sun & Ryan MacArthur | TEE.Salon" },
+    { "id": "pjG7K8a4zDM", "title": "Dark pools in traditional finance - Tesa Ho & Christoph Schlegel" },
+    { "id": "PhsJnEnsLN4", "title": "MEV-SBC '24 Livestream" },
+    { "id": "Rx_qpkPQmy8", "title": "Using TEEs Without Trusting Them - Fan Zhang | MEV-SBC ’24" },
+    { "id": "I5sBmoeSc2Q", "title": "Off-Chain Coordination via Liquefaction  - James Austgen | MEV-SBC ’24" },
+    { "id": "KIRehgtvWH4", "title": "MEV BooTEE: A TEE Approach to Partial Block Building - Oana Barbu | MEV-SBC ’24" },
+    { "id": "SBOGdofF4u8", "title": "The Incentives of Short Term Censorship Resistance. Quintus Kilbourn, Max Resnick & Phil Daian" },
+    { "id": "M8FTWuFQi6M", "title": "Who Wins Ethereum Block Building Auctions and Why? - Danning Sui and Burak Öz | MEV-SBC ’24" },
+    { "id": "e0wEQ1L5tDE", "title": "Cross Rollup MEV Non Atomic Arbitrage Across Layer 2 Blockchains - Krzysztof Gogol | MEV-SBC ’24" },
+    { "id": "yI3oWy6Cihg", "title": "Sailfish Towards Improving the Latency of DAG based BFT - Kartik Nayak | MEV-SBC ’24" },
+    { "id": "jhzf1Jj_vwI", "title": "Centralization in Attester Proposer Separation - Mallesh Pai | MEV-SBC ’24" },
+    { "id": "ToVi-zsiE4M", "title": "More Slides on Proposer Builder Separation - Mike Neuder | MEV-SBC ’24" },
+    { "id": "sgekbNX0J-I", "title": "Programmable Privacy for MEV - Jonathan Passerat Palmbach | MEV-SBC ’24" },
+    { "id": "WrSFDOoMSv8", "title": "Privacy in DeFi Modularity, Grading, and Optimization - Tarun Chitra | MEV-SBC ’24" },
+    { "id": "P2_3FIqWPD8", "title": "Oblivious RAM From Theory to Large Scale Adoption - Elaine Shi | MEV-SBC ’24" },
+    { "id": "RhwP2MQMJPw", "title": "Flashwares IV: Harry Bairstow - it's Lit" },
+    { "id": "xGW0TZOsdTo", "title": "SUAPP Development: More Tools" },
+    { "id": "ciFGrEnhr6E", "title": "rbuilder + yocto TDX remote hackathon" },
+    { "id": "6jY0DoK9a7E", "title": "Flashwares iv: TEEception" },
+    { "id": "sZNkcuflZyk", "title": "SUAPP Development: Setting Up a SUAPP" }
+  ],
+  "playlists": [
+
+  ]
+}

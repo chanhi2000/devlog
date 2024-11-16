@@ -135,6 +135,7 @@ tag:
 ## 상구리의 기술 블로그
 
 - [A start job is running for wait for network to be configured](https://skyer9.pe.kr/wordpress/?p=9331)
+- [Linux – 파일 비우기 make file empty](https://skyer9.pe.kr/wordpress/?p=9552)
 
 <!-- END: skyer9.pe.kr -->
 

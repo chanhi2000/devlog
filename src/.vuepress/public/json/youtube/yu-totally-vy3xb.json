@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "4SK0q_neKS4", "title": "플러터(Flutter) 앱 개발 - 핵심 강좌 47강 (Debounce 적용하여 API 중복 호출 방지하기)" },
+    { "id": "NhW7JprHZ7w", "title": "플러터(Flutter) 앱 개발 - 핵심 강좌 46강 (Throttle 적용하여 API 중복 호출 방지하기)" },
     { "id": "H3hIooTTY2Q", "title": "플러터(Flutter) 쇼핑몰 앱 개발 15강(최종) - 로직 구성7 (Firestore에 주문 데이터 삽입하기)" },
     { "id": "zfxhtStNH04", "title": "플러터(Flutter) 앱 개발 - 핵심 강좌 45강 (위젯을 이미지로 변환 및 저장하기)" },
     { "id": "1FZfEbKHiy8", "title": "플러터(Flutter) 쇼핑몰 앱 개발 13강 - 로직 구성5 (Firestore의 제품 데이터를 장바구니, 결제시작 페이지에 가져오기)" },

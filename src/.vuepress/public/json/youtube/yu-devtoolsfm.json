@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "devtoolsfm",
+    "name": "devtools-fm",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k3yUmGX4HUMqqjtPUBUtevOGr6JNnU-PRxISzSUwQqtg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RDSDkAx9ntvwjG4YvYN4OIGF1zgUV77emN8QjMKiZD24xFiBhRW_3lU8nCI_fgUwA3Ribv9qKg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Aqfgw9XUIRA", "title": "Evan You - Vue, Vite, VoidZero and the Future of JavaScript Tooling" },
+    { "id": "Eqp7m8UAG5c", "title": "Ivan Buzarin - Daytona" },
+    { "id": "0R4nA046N30", "title": "Episode 120   FreeNate Wienert - Tamagui, One Stack, Zero, and Universal Apps" },
+    { "id": "NeQGRrbMpJE", "title": "Nathan Manceaux-Panot - Retcon - Rewriting Git History made Simple" },
+    { "id": "jqjw5K6GxRQ", "title": "Does your git client have good UX for rewriting history?" },
+    { "id": "3TcYJafhIeo", "title": "Kris Rasmussen - Figma" },
+    { "id": "tu6_cMJwqxw", "title": "Erez Zukerman - ZSA, ErgoDox, and the Future of Keyboards" },
+    { "id": "vd6pm8R3f9k", "title": "Travis Arnold - Omnidoc, Restyle, JSXUI" },
+    { "id": "BZSGVCz4ALw", "title": "Predrag Gruevski - Trustfall, Cargo Semver Checks, and the Future of Query-Based Tools" },
+    { "id": "evZltUWslgw", "title": "David Mytton - Console.dev, ArcJet - Enhancing Application Security" },
+    { "id": "P1LsxSf3F8k", "title": "Guido Rosso - Rive, The Graphics Format of the Future" },
+    { "id": "kzdq7GvXzAo", "title": "Nathan Walker, Eduardo Speroni - NativeScript. Use Native API right in JS" },
+    { "id": "m9Oo_hI4EjI", "title": "Nicholas C. Zakas - The Creator of ESLint" },
+    { "id": "s--2X0kwe4Y", "title": "Richard Feldman - Zed, Roc Lang - Elm but for everywhere" },
+    { "id": "mX5oEf_wy7k", "title": "Brandon Roberts - Angular, Front-End Frameworks, and OpenSauced" },
+    { "id": "iNV53u-rzqo", "title": "Jordan Harband - Npm Ecosystem, HeroDevs" },
+    { "id": "EY9zs3z6jCE", "title": "James Arthur - ElectricSQL, A local first sync engine" },
+    { "id": "d4Z4ccwfVhM", "title": "Robby Russell - oh my zsh, Planet Argon" },
+    { "id": "UVED44sb7zg", "title": "Solomon Hykes - Docker, Dagger, and the Future of DevOps" },
+    { "id": "iSgrCnk82Jw", "title": "Dan Farrelly, Tony Holdstock-Brown - Inngest, Easy Asynchronous Workflows" },
+    { "id": "34TvzOdkw0I", "title": "Naman Goel - StyleX" },
+    { "id": "4ShQquWa7Iw", "title": "Lu Wilson - TodePond, TLDraw, and the Future of Software Interaction" },
+    { "id": "KIrLxaM_ipk", "title": "José Valim - Elixir, Erlang, Phoenix, Livebook" }
+  ],
+  "playlists": [
+
+  ]
+}

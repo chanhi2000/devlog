@@ -93,5 +93,7 @@ head:
 <MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
+<MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->
+<MyYouTubeItems jsonName="yu-jscode-official" /><!-- JSCODE 박재성 -->
 
 <TagLinks />

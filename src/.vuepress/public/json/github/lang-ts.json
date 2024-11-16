@@ -3639,13 +3639,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
-    "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "immich-app/immich",
     "desc": "High performance self-hosted photo and video management solution.",
     "officialSite": "https://immich.app",
@@ -3906,11 +3899,11 @@
     "banner": ""
   }, {
     "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
     "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["markdown", "crawler", "data", "scraper", "ai", "html-to-markdown", "web-crawler", "scraping", "webscraping", "rag", "llm", "ai-scraping"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8addc7a81721f5d18b9ba57d53e2845a898b58b1ac3e0939cc08303c61d32880/mendableai/firecrawl"
   }, {
     "repo": "scalar/scalar",
     "desc": "Beautiful API references from OpenAPI/Swagger files ✨",
@@ -4961,5 +4954,40 @@
     "topics": ["project", "educational", "blockly", "llm"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/8b36b239d9fea520fdfab38328e43ae343a25fa484b220b171e5f7f1c0c83b40/TutoriaLLM/TutoriaLLM"
+  }, {
+    "repo": "visprex/visprex",
+    "desc": "Visualise your CSV files in seconds without sending your data anywhere",
+    "officialSite": "https://www.visprex.com",
+    "topics": ["statistics", "data-visualization", "econometrics"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/4741c814ffb29b0b7757282354a6193a79e9d786b3335d611e44d6ea7a3eebc6/visprex/visprex"
+  }, {
+    "repo": "unjs/jiti",
+    "desc": "Runtime TypeScript and ESM support for Node.js. Contribute to unjs/jiti development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/636f691bb99cc19a26cf57fc03120d56bcf0d72a082de28a342b3b1d1a4d959c/unjs/jiti"
+  }, {
+    "repo": "jaredwray/cacheable",
+    "desc": "a robust, scalable, and maintained set of caching packages",
+    "officialSite": "https://cacheable.org",
+    "topics": ["nodejs", "redis", "caching", "http", "wrapper", "cache", "caching-library", "rfc-72"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/9267870/da6b57ed-ea1f-4829-adf4-6fd5c03a7433"
+  }, {
+    "repo": "CSS-Next/logo.css",
+    "desc": "Contribute to CSS-Next/logo.css development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/860094786/bc7773fc-f6c3-49d7-b10e-230b82994e01"
+  }, {
+    "repo": "better-auth/better-auth",
+    "desc": "The most comprehensive authentication library for TypeScript",
+    "officialSite": "https://better-auth.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/803014189/1fffa32b-9794-4ec0-93e9-3e07401a3f03"
   }
 ]

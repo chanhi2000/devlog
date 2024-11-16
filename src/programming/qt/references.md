@@ -63,13 +63,23 @@ head:
   - [PyQt5로 구현한 버튼으로 스크롤 가능한 리스트뷰(QListWidget) 예제](https://webnautes.tistory.com/m/2396)
   - [QLabel에서 정수 출력시 자리수 유지하는 PyQt5 예제 코드](https://webnautes.tistory.com/m/2397)
   - [`fcitx5` 사용시 PyQt5에서 한글 입력안되는 문제 해결 방법](https://webnautes.tistory.com/m/2405)
+  - [호버와 클릭 효과 있는 PyQt5 QPushButton 예제](https://webnautes.tistory.com/m/2406)
   <!-- END: webnautes -->
 - [`1d1cblog` / 1D1C](https://1d1cblog.tistory.com/m/)
   - [\[Qt\] 다른 쓰레드에서 QTimer 처리하기](https://1d1cblog.tistory.com/m/523)
+  - [\[Qt\] QTreeWiget Data Json 형태로 Save/Load 하는 방법](https://1d1cblog.tistory.com/m/524)
+  - [\[Qt\] QtConcurrent mappedReduced 사용하기](https://1d1cblog.tistory.com/m/525)
   <!-- END: 1d1cblog -->
 <!-- END: tistory.com -->
 
 ---
 
+## 상구리의 기술 블로그
+
+- [Qt Creator – Install on Windows](https://skyer9.pe.kr/wordpress/?p=9547)
+
+<!-- END: skyer9.pe.kr -->
+
+---
 
 <TagLinks />

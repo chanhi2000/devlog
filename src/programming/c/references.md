@@ -327,6 +327,12 @@ tag:
   - [GCC Compiler Manual](https://1000sj.tistory.com/m/390)
   - [pwnable bof](https://1000sj.tistory.com/m/392)
   - [BPF 를 통한 Linux Performance 분석 #1 BPF Program 구성요소](https://1000sj.tistory.com/m/394)
+  - [Netlink Sockets  # How to use](https://1000sj.tistory.com/m/407)
+  - [strongswan #2 패킷 송수신 처리 흐름](https://1000sj.tistory.com/m/408)
+  - [strongswan #3 stroke socket](https://1000sj.tistory.com/m/409)
+  - [strongswan #4 plugin loading](https://1000sj.tistory.com/m/411)
+  - [strongswan #5 IKE SA INIT, IKE_AUTH, CHILD_SA 설정](https://1000sj.tistory.com/m/412)
+  - [\[C/CPU-affinity\] 프로세스 CPU Affinity 설정](https://1000sj.tistory.com/m/415)
   <!-- END: 1000sj -->
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)
@@ -562,6 +568,14 @@ tag:
 - [djb2 해시 알고리즘 해설 및 구현](https://jacking75.github.io/tech_20241008/)
 
 <!-- END: jacking75.github.io -->
+
+---
+
+## 상구리의 기술 블로그
+
+- [C – `free()`](https://skyer9.pe.kr/wordpress/?p=9554)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

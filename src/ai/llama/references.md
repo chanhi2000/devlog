@@ -65,6 +65,9 @@ head:
 - [`webnautes` / 멈춤보단 천천히라도  ](https://webnautes.tistory.com/m/)
   - [Llama 3.2 3B finetuning 해보기](https://webnautes.tistory.com/m/2398)
   <!-- END: webnautes -->
+- [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
+  - [Visual Studio Code에서 llama 3.2 사용하기](https://syaku.tistory.com/m/422)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ## LMSYS Org

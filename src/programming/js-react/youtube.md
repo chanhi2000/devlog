@@ -54,7 +54,7 @@ head:
 <MyYouTubeItems jsonName="yu-cosdensolutions" /><!-- Cosden Solutions -->
 <MyYouTubeItems jsonName="yu-tharo382" /><!-- Tharo -->
 <MyYouTubeItems jsonName="yu-JollyCoding" /><!-- Jolly Coding -->
-<MyYouTubeItems jsonName="yu-sangammukherjee3009" /><!-- Sangam Mukherjee -->
+<MyYouTubeItems jsonName="yu-sangammukherjee" /><!-- Sangam Mukherjee -->
 <MyYouTubeItems jsonName="yu-mr.jeffastor9617" /><!-- Mr. Jeff Astor -->
 <MyYouTubeItems jsonName="yu-LearnEDU" /><!-- LearnEDU -->
 <MyYouTubeItems jsonName="yu-webdecoded" /><!-- webdecoded -->
@@ -112,5 +112,7 @@ head:
 <MyYouTubeItems jsonName="yu-profydev" /><!-- Profy dev -->
 <MyYouTubeItems jsonName="yu-codegenix" /><!-- Code Genix -->
 <MyYouTubeItems jsonName="yu-chouxdo-coding" /><!-- 슈도코딩 -->
+<MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
+<MyYouTubeItems jsonName="yu-nileshtechnology" /><!-- Nilesh Technology -->
 
 <TagLinks />

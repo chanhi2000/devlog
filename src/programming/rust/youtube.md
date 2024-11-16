@@ -73,5 +73,7 @@ tag:
 <MyYouTubeItems jsonName="yu-DeveloperVoices" /><!-- Developer Voices -->
 <MyYouTubeItems jsonName="yu-ZeroToMastery" /><!-- Zero To Mastery -->
 <MyYouTubeItems jsonName="yu-InfoWorld" /><!-- InfoWorld -->
+<MyYouTubeItems jsonName="yu-cstate96" /><!-- C-STATE -->
+<MyYouTubeItems jsonName="yu-PhaestusFox" /><!-- PhaestusFox -->
 
 <TagLinks />

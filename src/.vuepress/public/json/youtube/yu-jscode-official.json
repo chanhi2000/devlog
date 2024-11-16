@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/BCrnhpY7D4mQoPrn0JFEjdCvBBqaNGjw8HVpNADf68kx4Blag3nCoJzK7ew2rmgiBcbzUzbKlBo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bFjWsw1VsbE", "title": "비전공자도 이해할 수 있는 DB 설계 강의를 만들어봤습니다!" },
+    { "id": "4jxw3UnmKwQ", "title": "비전공자도 이해할 수 있는 MySQL 성능 최적화 강의를 만들어봤습니다!" },
+    { "id": "IgVg6GhzFk8", "title": "비전공자도 이해할 수 있는 Redis 강의를 만들어봤습니다!" },
+    { "id": "LU8x1UEcPFA", "title": "비전공자도 이해할 수 있는 AWS 강의를 만들어봤습니다!" },
+    { "id": "Ys8H5aTGkdk", "title": "이거 설정 안 하면 EC2에 파일 저장 못 함" },
+    { "id": "WGpZ8EAE8bM", "title": "AWS EC2가 뭐할 때 쓰는 거에요?" },
+    { "id": "OPmSQCfzl1Q", "title": "비전공자도 이해할 수 있는 Docker 강의를 만들어봤습니다!" },
+    { "id": "CvHcI7A1JM8", "title": "비전공자도 이해할 수 있는 CI/CD 강의를 만들어봤습니다!" },
+    { "id": "oG8R3sotLb4", "title": "2분만에 이해하는 AWS 보안그룹" },
     { "id": "lljS860YIWk", "title": "비효율적인 코딩 공부 방법 Top 3" },
     { "id": "ODjYXmjtCok", "title": "인강 듣다가 중간에 잘 안 되거나 막혔을 때" },
     { "id": "b4Ro_2cK9V8", "title": "신입이 어떻게 대규모 트래픽 처리 경험을 쌓아요? ㅁ_ㅁ;;" },

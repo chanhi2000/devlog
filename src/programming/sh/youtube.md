@@ -72,5 +72,6 @@ tag:
 <MyYouTubeItems jsonName="yu-AlsGeekLab" /><!-- Al's Geek Lab -->
 <MyYouTubeItems jsonName="yu-KeepOnCoding" /><!-- Keep On Coding -->
 <MyYouTubeItems jsonName="yu-dreamsofautonomy" /><!-- Dreams of Autonomy -->
+<MyYouTubeItems jsonName="yu-Mercerenies" /><!-- Mercerenies -->
 
 <TagLinks />

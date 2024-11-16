@@ -6,6 +6,16 @@
     "banner": ""
   },
   "videos": [
+    { "id": "RwS6DZQBJ7A", "title": "Use an Open source LLM and Gaia to create a Rust coding assistant on Cursor" },
+    { "id": "TFgrdIA-4B8", "title": "AI coding for aelf smart contracts using Zed and Gaia" },
+    { "id": "B4lv5fOdXEY", "title": "WasmEdge Community Meeting #35  FLUX.1 on MacBook, and ChatTTS Demo (Oct 2024)" },
+    { "id": "C429gra3tIE", "title": "WasmEdge Community Meeting #34  Piper Demo, v0.1.4.1 Preview, and Cursor+Local LLMs" },
+    { "id": "Z2D_kxwJHPQ", "title": "Write a Webpage with Yi-Coder + Cursor in 5 Minutes with 0 coding knowledge" },
+    { "id": "icbFAAOZYcE", "title": "A small LLM to help you write Rust code in Zed" },
+    { "id": "Hf9zfjflP_0", "title": "Build a Rust app from scratch using local AI and Cursor" },
+    { "id": "Er1xCIsfCDM", "title": "WasmEdge Community Meeting #32 Gemma-2-9B + Groqbook to generate a book; WasmEdge Q3 Roadmap" },
+    { "id": "XkZOiD3napU", "title": "WasmEdge Community Meeting #31 LLVM JIT support, Wasm GC Proposal with Kotlin, Run LLM on Windows OS" },
+    { "id": "PP5OVZgP9jQ", "title": "Local LLM with LlamaEdge: Phi-3 reads Nvidia quarterly financial reports" },
     { "id": "VCmfEVidvDo", "title": "Demo: Run Llava, the multimodal LLM across Devices and ask it about pictures" },
     { "id": "cPzQ9pBmRJc", "title": "Create an LLM web service with LlamaEdge on a MacBook, deploy it on a NVIDIA device." },
     { "id": "7p4mY290oQ8", "title": "WasmEdge Community Meeting #28 Llava Demo, WasmEdge on Civo Talos K8s, GSoC" },

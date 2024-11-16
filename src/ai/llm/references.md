@@ -343,6 +343,13 @@ head:
 - [`hl1itj` / 쉽게 살 수 있을까 ?](https://hl1itj.tistory.com/m/)
   - [생성형 AI 시대의 취업 준비](https://hl1itj.tistory.com/m/268)
   <!-- END: hl1itj -->
+- [`syaku` / 샤쿠 블로그](https://syaku.tistory.com/m/)
+  - [2024년 최신 AI 코딩 도구 완벽 가이드: GitHub Copilot부터 Cursor AI까지 8가지 비교 분석](https://syaku.tistory.com/m/412)
+  - [2024 Comprehensive Guide to AI Coding Tools: Comparing 8 Tools from GitHub Copilot to Cursor AI](https://syaku.tistory.com/m/413)
+  <!-- END: syaku -->
+- [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
+  - [llm 활용 사례](https://ravenkim97.tistory.com/m/511)
+  <!-- END: ravenkim97 -->
 <!-- END: tistory.com -->
 
 ---
@@ -598,6 +605,32 @@ head:
 - [(Transformer) Attention Is All You Need 리뷰](https://blog.000namc.xyz/2024/10/31/transformer/)
 
 <!-- END: blog.000namc.xyz -->
+
+---
+
+## TensorMSA
+
+- [Recent RAG research survey](https://hugrypiggykim.com/2024/11/02/recent-rag-research-survey/)
+- [MAMBA](https://hugrypiggykim.com/2024/11/02/mamba/)
+- [LLM SUMMARY](https://hugrypiggykim.com/2024/11/02/llm-summary/)
+
+<!-- END: hugrypiggykim.com -->
+
+---
+
+## Jason Kang
+
+- [What Is Direct Parameter Optimization(DPO)?](https://jasonkang14.github.io/llm/what-is-direct-parameter-optimization)
+
+<!-- END: jasonkang14.github.io -->
+
+---
+
+## Pega Devlog
+
+- [생성AI 활용 학회 발표 준비](https://jehyunlee.github.io/2024/11/07/General-67_afore2024/)
+
+<!-- END: jehyunlee.github.io -->
 
 ---
 

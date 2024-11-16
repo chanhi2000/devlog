@@ -777,4 +777,12 @@ tag:
 
 ---
 
+## Josh W. Comeau
+
+- [A Friendly Introduction to Container Queries](https://joshwcomeau.com/css/container-queries-introduction/)
+
+<!-- END: joshwcomeau.com -->
+
+---
+
 <TagLinks />

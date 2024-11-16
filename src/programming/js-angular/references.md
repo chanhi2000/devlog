@@ -55,6 +55,17 @@ head:
 
 ---
 
+## tistory
+
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [1일차: Angular 16과 프레임워크의 기본 개념 이해하기](https://aspdotnet.tistory.com/m/3295)
+  - [2일차: Angular 16 CLI를 사용해 첫 프로젝트 생성하고 구조 이해하기](https://aspdotnet.tistory.com/m/3296)
+  - [3일차: Angular 16 컴포넌트란 무엇인가?](https://aspdotnet.tistory.com/m/3297)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
+
+---
+
 ## 캡틴판교 블로그
 
 - [Angular 2 대신에 Vue.js를 선택한 이유 (그리고 React를 선택하지 않은 이유)](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)

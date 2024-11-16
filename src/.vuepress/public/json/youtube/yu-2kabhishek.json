@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/L35v_kH-1GiXMWgMK_FbYBHfh2ONM5BPQxA6ph8a345c6amzrf1PfqYyeQl3NjXUjbK8eKSCpYg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "56LAmHdxNTs", "title": "Useful Shell Functions for Developers" },
+    { "id": "Sebh2aFfFPg", "title": "Introducing Octohub.nvim + VimConf24 Updates" },
+    { "id": "mzfoKlSVNhU", "title": "Keyboard Shortcuts for EVERY tool" },
+    { "id": "Zuw3xZIDAKo", "title": "ZSH Deep Dive | My zsh config after 6 years | @2kabhishek" },
     { "id": "N4IRT7M-RLg", "title": "Note-Taking with Neovim: Keep It Simple, Keep It Fast!" },
     { "id": "RWZtwsBZitg", "title": "My Neovim Config for 2024 | Neovim as IDE | nvim2K update" },
     { "id": "EpTzb-pyRTA", "title": "A Better Tmux Experience | Tmux Configuration & Essential Plugins" }

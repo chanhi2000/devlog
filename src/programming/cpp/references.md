@@ -351,6 +351,9 @@ head:
 - [C++ - C++23 `std::print` 소개](https://jacking75.github.io/Cpp_20240413/)
 - [Visual Studio에서 C++로 코파일럿 채팅을 사용하기 위한 빠른 팁](https://jacking75.github.io/tech-ai_0507/)
 - [Visual C++ - 리팩터링 도구](https://jacking75.github.io/VS_20240712/)
+- [GitHub Copilot - Visual Studio의 빠른 정보에서 Copilot을 사용하여 C++ 심볼 이해하기](https://jacking75.github.io/tech-ai_20241102/)
+
+<!-- END: jacking75.github.io -->
 
 ---
 

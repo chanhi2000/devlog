@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/I-RKTuMLadlj_CRPTQlLcOGyjGj2aXNnwmMlEfgeAq1QGY4Q-4_yw1AA6m8uupDnPP6hfpfCVA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pxaKN1IPkrI", "title": "쉽고 재미있는 AI(S1) - 02 : 강의 소개" },
+    { "id": "wfIBZ-TJoVo", "title": "쉽고 재미있는 AI(S1) - 01 : 강의 소개" },
+    { "id": "QnyHjAbJi-g", "title": "쉽고 재미있는 AI(S1) - 05 : ImageNet 대회" },
+    { "id": "B_VyCN10pyA", "title": "쉽고 재미있는 AI(S1) - 04 : 인공지능은 어떻게 발전하였나?" },
+    { "id": "H4J8itL2Ge4", "title": "쉽고 재미있는 AI(S1) - 03 : 인공지능이란 뭘까?" },
+    { "id": "14QaBepu-6k", "title": "쉽고 재미있는 AI(S1) - 07 : Neural Network는 핀볼게임?" },
+    { "id": "MwRuNAKtigw", "title": "쉽고 재미있는 AI(S1) - 06 : Neural Network란?" },
+    { "id": "cO49uhhGr_4", "title": "쉽고 재미있는 AI(S1) - 08 : 뉴럴네트워크 오차값 구하기" },
+    { "id": "qkXi_ZGjFDE", "title": "image tagging workflow for ComfyUI" },
     { "id": "M6vw3pL47Jk", "title": "python widget implementation for unreal engine" }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "BabylonJSEngine",
+    "name": "Babylon js",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m0T9HZeLIwSNvNWZDFoRZpN8bDrcQNwGpVx2MfWkfHmw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vdTLfz-lGd9ZCkpiCFmEeJWLm8ThyQaeX2Z_nADyCWWLH-hI-_AHr7SA00e022xCxc8Ju2CBiA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "T6btQdmTxcM", "title": "Beginner Series - AR Portal Pt5: Bringing it all Together" },
+    { "id": "j-PHiM626Jg", "title": "Beginner Series - AR Portal Pt6: Final Demo in WebXR!" },
+    { "id": "wmZxBMHWQAs", "title": "Beginner Series - AR Portal Pt1: WebXR Introduction" },
+    { "id": "Z-onNS_d0e4", "title": "Beginner Series - AR Portal Pt2: Object Placement with WebXR" },
+    { "id": "uhPPQyrovwE", "title": "Episode 13: Reimagining Graphic Design with Pixcap" },
+    { "id": "V8c5rDJvqv8", "title": "Episode 12: Customizing Products with Spectrum" }
+  ],
+  "playlists": [
+
+  ]
+}

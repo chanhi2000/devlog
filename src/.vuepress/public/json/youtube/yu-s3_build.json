@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "s3_build",
+    "name": "S3",
+    "profile": "https://yt3.googleusercontent.com/XT60uXollawppZ8nLeZ1Kzzm6QX9LZrQpnskB07X8wcP0SrwIvQoDNUCLhW95rpTMlG_M8Y0uQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_6WKRCbFMca7a6c8gVLl4qaB7xgOVT8QqtQmjJnt4jOnhdh51iF17Qngu5RDK-Q0T9smM4BktA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "2ccPTpDq05A", "title": "They Built This Robot For Your Home | 1X Technologies" },
+    { "id": "aMsNpRDdcAE", "title": "Reimagining The Future of Water Transport & Shipping | Interview with Valo Team" },
+    { "id": "fhHfVv1WXR8", "title": "Anjan Katta: Creating a new display technology & computer" },
+    { "id": "LTgS7tOOzsE", "title": "The future of Nuclear = Small, Mobile, Microreactors | Radiant" }
+  ],
+  "playlists": [
+
+  ]
+}

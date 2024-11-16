@@ -182,5 +182,11 @@ head:
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
 <MyYouTubeItems jsonName="yu-elder_plinius" /><!-- Pliny the Prompter -->
 <MyYouTubeItems jsonName="yu-TiffInTech" /><!-- Tiff In Tech -->
+<MyYouTubeItems jsonName="yu-JohnKOBADesign" /><!-- JohnKOBA Design -->
+<MyYouTubeItems jsonName="yu-DrKnowitallKnows" /><!-- Dr. Know-it-all Knows it all -->
+<MyYouTubeItems jsonName="yu-gpters" /><!-- GPTers 커뮤니티 -->
+<MyYouTubeItems jsonName="yu-eduttime" /><!-- EDUTTIME(K-EDU) -->
+<MyYouTubeItems jsonName="yu-itnote" /><!-- 이임복의 일상IT -->
+<MyYouTubeItems jsonName="yu-codewithbro95" /><!-- CodewithBro -->
 
 <TagLinks />

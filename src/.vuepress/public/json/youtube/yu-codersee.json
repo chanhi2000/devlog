@@ -6,7 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/QNL6DNkkMsKqB2TykMP3k2xuQnU0sIQv5U1WY4Uw2paP3nk4FUB482cUuJOkSJpNNv-9IXxO=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "uTV9w1JehHM", "title": "Spring Boot AWS S3 Bucket Storage [FULL INTEGRATION]" },
+    { "id": "2YHVgbJGzqU", "title": "Sending SPRING BOOT Metrics to DATADOG" },
+    { "id": "KOvykFIEoYc", "title": "Database migrations with Flyway, Spring Boot and Kotlin and Postgres" }
   ],
   "playlists": [
     {

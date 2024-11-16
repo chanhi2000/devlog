@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "Joshtriedupstash",
+    "name": "Josh tried upstash",
+    "profile": "https://yt3.googleusercontent.com/_i0jOajOP6d8iirEQmotHHMNK5BbNrVRxscp4tkB2g1hDCA5fXUiOO5bVCpSdfqGN4OfuDAwww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VcWbk0pXjzrf2sU_RY2vKFreEtS8hqIX2ZAXp7LVsdBoECV53YtYbAUW8NIY90Si5uVY3oDlmw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ka8GoIUhM3g", "title": "Build a Modern AI Chatbot in Next.js 14 (2024)" },
+    { "id": "YbgpEmjNUv0", "title": "Build a SaaS API in 60 Minutes (2024)" },
+    { "id": "Hfpr39kiODM", "title": "Building a Modern, Error-Resistant API from 0 to Production (2024)" },
+    { "id": "nLzaCmgxPwM", "title": "Build a Production-Grade API with HonoJS, Cloudflare, Upstash (2024)" },
+    { "id": "sdYcxzTjdbo", "title": "Protect Your API With Rate Limiting | Full Guide (2024)" },
+    { "id": "2Y3A4deNs9A", "title": "Build a High-Performance API with Next.js, Hono, Redis (2024)" },
+    { "id": "_017xTgnqGw", "title": "Build a Full-Stack Filtering System with Next.js 14, Tailwind, Upstash (2024)" },
+    { "id": "_cqFkK3WLvg", "title": "Build a Full-Stack Search Engine with Next.js 14, Postgres, Upstash (2024)" },
+    { "id": "zWRBobemogk", "title": "Build a Beautiful, Scalable Real-Time Voting App with Next.js 14, Upstash (2024)" }
+  ],
+  "playlists": [
+
+  ]
+}

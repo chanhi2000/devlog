@@ -322,6 +322,9 @@ tag:
 
 - [How to customize the macOS About Panel in SwiftUI](https://danielsaidi.com/blog/2023/11/28/how-to-customize-the-macos-about-panel-in-swiftui)
 - [Enabling drag reordering in SwiftUI lazy grids and stacks](https://danielsaidi.com/blog/2023/08/30/enabling-drag-reordering-in-swiftui-lazy-grids-and-stacks)
+- [Xcode stops fetching Swift packages](https://danielsaidi.com/blog/2024/11/04/xcode-stops-fetching-swift-packages)
+
+<!-- END: danielsaidi.com -->
 
 ---
 
@@ -351,6 +354,9 @@ tag:
 - [SwiftUI Sensory Feedback](https://useyourloaf.com/blog/swiftui-sensory-feedback)
 - [SwiftUI Tasks Blocking the MainActor](https://useyourloaf.com/blog/swiftui-tasks-blocking-the-mainactor/)
 - [Fetching `OSLog` Messages in Swift](https://useyourloaf.com/blog/fetching-oslog-messages-in-swift)
+- [SwiftUI Self-Sizing Flow Layouts](https://useyourloaf.com/blog/swiftui-self-sizing-flow-layouts/)
+
+<!-- END: useyourloaf.com -->
 
 ---
 
@@ -575,6 +581,9 @@ tag:
 - [Migrating to the Observation framework in SwiftUI](https://tanaschita.com/20230807-migrating-to-observation/)
 - [How to use TipKit to create tool tips in SwiftUI](https://tanaschita.com/20240304-tipkit-feature-hints/)
 - [How to avoid using `AnyView` in SwiftUI](https://tanaschita.com/swiftui-how-to-avoid-using-anyview/)
+- [Understanding actors in Swift](https://tanaschita.com/swift-actors-basics/)
+
+<!-- END: tanaschita.com -->
 
 ---
 
@@ -814,6 +823,7 @@ tag:
 - [Understanding typography in visionOS](https://createwithswift.com/understanding-typography-in-visionos)
 - [Revolutionizing Surgery and Medical Treatments with visionOS](https://createwithswift.com/revolutionizing-surgery-and-medical-treatments-with-visionos/)
 - [Making charts accessible with Swift Charts](https://createwithswift.com/making-charts-accessible-with-swift-charts)
+- [Exploring Apple Intelligence: Writing Tools](https://www.createwithswift.com/exploring-apple-intelligence-writing-tools/)
 
 <!-- END: createwithswift.com -->
 
@@ -1019,6 +1029,7 @@ tag:
 ## Alejandro M. P.
 
 - [Swift Package Manager Dependency Owners](https://alejandromp.com/development/blog/swift-package-manager-dependency-owners/)
+- [`AnchoredRelativeFormatStyle`: The Hidden Replacement for Date `RelativeFormatStyle`](https://alejandromp.com/development/blog/anchored-relative-format-style-the-hidden-replacement-for-date-relative-format-style)
 
 <!-- END: alejandromp.com -->
 
@@ -1071,6 +1082,27 @@ tag:
 <!-- END: fline.dev -->
 
 ---
+
+## Canopas - Best Web and Mobile App Development Company
+
+- [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide](https://canopas.com/integrating-live-activity-and-dynamic-island-in-i-os-a-complete-guide)
+
+<!-- END: canopas.com -->
+
+---
+
+## Allen Pike, pixel crafter
+
+- [Testing the Untestable](https://allenpike.com/2024/testing-automated-evals)
+
+<!-- END: allenpike.com -->
+
+---
+
+##
+
+App Performance and Instruments Virtuoso
+
 
 ## Project(s)
 

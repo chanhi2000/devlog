@@ -634,4 +634,12 @@ head:
 
 ---
 
+## 000namc.xyz
+
+- [Offline A/B testing for Recommender Systems 수식 정리](https://blog.000namc.xyz/2024/11/03/offline-abtest/)
+
+<!-- END: blog.000namc.xyz -->
+
+---
+
 <TagLinks />

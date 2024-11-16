@@ -3,27 +3,37 @@
     "repo": "jgthms/bulma",
     "desc": "Modern CSS framework based on Flexbox",
     "officialSite": "https://bulma.io",
-    "topics": ["css", "css-framework", "design", "flexbox", "html"]
+    "topics": ["css", "css-framework", "design", "flexbox", "html"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "black7375/Firefox-UI-Fix",
     "desc": "🦊 I respect proton UI and aim to improve it.",
     "officialSite": "",
-    "topics": ["firefox", "firefox-css", "firefox-customization", "firefox-theme", "firefox-tweaks", "hacktoberfest", "theme", "unixporn", "user-interface", "userchrome", "userchrome-styles", "userchromecss", "userstyles"]
+    "topics": ["firefox", "firefox-css", "firefox-customization", "firefox-theme", "firefox-tweaks", "hacktoberfest", "theme", "unixporn", "user-interface", "userchrome", "userchrome-styles", "userchromecss", "userstyles"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "lowlighter/matcha",
     "desc": "🍵 Drop-in semantic styling library in pure CSS. ",
     "officialSite": "https://matcha.mizu.sh",
-    "topics": ["classless", "classless-css", "css", "css-framework", "design", "minimalist", "semantic-web", "simple", "theme", "web"]
+    "topics": ["classless", "classless-css", "css", "css-framework", "design", "minimalist", "semantic-web", "simple", "theme", "web"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "zakirkun/arsip-gorengan-is",
     "desc": "Arsip gorengan full konteks",
     "officialSite": "https://zakirkun.github.io/arsip-gorengan-is/",
-    "topics": []
+    "topics": [],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "dumindu/E25DX",
     "desc": "🧑‍💻 Your next documentation theme...",
     "officialSite": "",
-    "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"]
+    "topics": ["documentation", "gohugo", "gohugo-theme", "hugo", "hugo-theme"],
+    "avatar": "",
+    "banner": ""
   }, {
     "repo": "cssnano/cssnano",
     "desc": "A modular minifier, built on top of the PostCSS ecosystem.",
@@ -31,5 +41,12 @@
     "topics": ["css", "cssnano", "minification", "optimisation", "postcss"],
     "avatar": "https://avatars.githubusercontent.com/u/40150215?v=4",
     "banner": ""
+  }, {
+    "repo": "themeselection/flyonui",
+    "desc": "🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.",
+    "officialSite": "https://flyonui.com/",
+    "topics": ["javascript", "css", "html", "components", "semantic", "typescript", "webpack", "postcss", "hugo", "uikit", "component-library", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "tailwind-css-template", "tailwind-plugin", "tailwindcss-components-library"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/854999911/e28d56fe-0098-4a8e-8510-5e896abefef2"
   }
 ]
