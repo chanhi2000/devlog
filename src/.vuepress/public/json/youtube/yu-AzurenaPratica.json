@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/yKldi_ZRvysF83SWSth2OjSJLVPpK41M0F9crNaYukAxudYaZnpLvCPv_K42oKp_tsTk1sjxtQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ij-0PlR9VHs", "title": "Live #95: Arquitetura de Observabilidade em .NET - Lições do Varejo com OpenTelemetry" },
+    { "id": "opq31XYnFaI", "title": "Live #92: Governança e Boas Práticas em APIs REST com o Azure API Management" },
+    { "id": "5jGkjS9rKrE", "title": "Live #94: Back-Ends + Serviços do Azure - melhores opções, boas práticas..." },
+    { "id": "ZMcQeKo-dMg", "title": "Live #93: Como o GitHub Copilot te ajuda a escrever Pipelines de CI e CD" },
+    { "id": "fYcjg3rHK3k", "title": "Live #91: Boas práticas de Segurança e Governança em APIs REST" },
+    { "id": "T3YZJ27MrIA", "title": "Live #89: OpenAI + .NET - utilizando assistentes em suas aplicações" },
+    { "id": "RsuVYWDjyAA", "title": "Live #90: Azure OpenAI + Azure DevOps - usando IA para revisar pull requests - 2 edição" },
+    { "id": "_RqSrBx08yY", "title": "Live #85: Azure + Desenvolvimento de Aplicações - tirando o máximo proveito de serviços gerenciados" },
+    { "id": "PBlYZ5HVzfg", "title": "Live #86: Azure + Grafana - monitoramento na nuvem com eficiência e flexibilidade" },
+    { "id": "7hZq5OJkM20", "title": "Live #87: Microsserviços na Arquitetura IOT com Azure IOT Edge" },
     { "id": "LWrzfhYauR8", "title": "Carreira em Cloud Computing: Por Onde Começar em 2024" },
     { "id": "2eGM9fR1MPA", "title": "Live #83: Kubernetes descomplicado com Azure Container Apps e Container Jobs" },
     { "id": "2O_szavcK-k", "title": "Live #80: Pragmatismo da Internet das Coisas em 2024" },

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "LunarTech_ai",
+    "name": "LunarTech",
+    "profile": "https://yt3.googleusercontent.com/VMzOk5ulMoreubUyPYKvRhnjKaoKb_DZQMuL55UXgVT413MnWmKIVNc4XRLTtuYgTEpOynp-vQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YpMhw_CwufcsszN1NpiJbwlcI3uJ9H0LyCRZuSNt6bmh74GgD91QecRElOlw4zMn28TwbCV2=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "slhT7VZ8FFo", "title": "AI Foundations Course – Python, Machine Learning, Deep Learning, Data Science" },
+    { "id": "xxCsuCx3FfM", "title": "Introducing Phoenix by LUNARTECH: Supercharge Your Productivity with AI" },
+    { "id": "B_jQzHu6Edo", "title": "Python for Data Science and Data Analytics Full Hands On Learning with Projects Full Course" },
+    { "id": "fdgtmxQQf4g", "title": "Master Machine Learning Essentials: Learn Key Algorithms & Build Real-World Applications" },
+    { "id": "r4qBpjbkh3w", "title": "Linear Algebra for Generative AI - Scalar Multiplication & Dot Product | EP3" },
+    { "id": "TbF8uncjfs0", "title": "Crack the Tech Startup Code: Cash Flow & Subscription Models Unveiled" },
+    { "id": "n9jZmymHX6o", "title": "Linear Algebra Crash Course - Mathematics for Machine Learning and Generative AI [Full 7h]" },
+    { "id": "TJSfLo49iTM", "title": "Data Science in UX Design 2024: A/B Testing Case Study with Python [Full Project]" },
+    { "id": "QzAXW7kQ0I8", "title": "Master A/B Testing Essentials: The Ultimate Python-Powered Crash Course!" },
+    { "id": "tbvNGN5dBuE", "title": "Data Science Portfolio Project for 2024: Machine Learning Case Study" },
+    { "id": "k8_OEVdWGiU", "title": "Generative AI Interview Prep 2024: LLMs, Transformers [Crash Course for AI/ML Engineers]" },
+    { "id": "XSKDrT2xScA", "title": "Python for Data Science and Data Analytics Full Hands On Learning with Projects Full Course" },
+    { "id": "S-Q2AaH_5QI", "title": "The Billionaire's Private Equity Playbook - The Club of Influence  | E1" },
+    { "id": "W8u4vCfryRQ", "title": "Linear Algebra for Generative AI: Mastering Vector Spaces and Trigonometry | EP1" },
+    { "id": "ggteLEEvbwI", "title": "Linear Algebra for Generative AI - Master Special Vectors and Operations | EP2" }
+  ],
+  "playlists": [
+
+  ]
+}

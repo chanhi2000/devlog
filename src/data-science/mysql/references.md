@@ -151,6 +151,9 @@ head:
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [MySQL DB backup 정책](https://jeongchul.tistory.com/m/837)
   <!-- END: jeongchul -->
+- [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
+  - [\[Prisma 99% 에러 잡기\] P3018 : A migration failed to apply. |](https://helicopter55.tistory.com/m/105)
+  <!-- END: helicopter55 -->
 <!-- END: tistory.com -->
 
 ---

@@ -46,6 +46,7 @@ head:
 - [`@ZVA` / 코인이 아니라 소프트웨어 기술 관점에서 토큰을 말하다](https://brunch.co.kr/@@ZVA/740)
 - [`@5jl5` / \[심포지엄\] ESG의무공시와 금융투자업계의 대응방안 - 금융투자업계의 ESG대응 및 지속가능한 성장방안 모색을 위한 심포지엄](https://brunch.co.kr/@@5jl5/131)
 - [`@ZVA` / 코인이 아니라 소프트웨어 기술 관점에서 토큰을 말하다](https://brunch.co.kr/@@ZVA/740)
+- [`@ZVA` / 미국 우선주의와 비트코인 그리고 달러 패권의 미래](https://brunch.co.kr/@@ZVA/747)
 
 <!-- END: brunch.co.kr -->
 

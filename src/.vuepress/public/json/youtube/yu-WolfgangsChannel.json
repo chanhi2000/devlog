@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/BIjaXAtLtLVVURRAZ6CLHrPsSXq85im4_AduvydCI6LQU3PmDqBkQB89niHVZ9gUvFhpUntfsz0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HJgmK8b-U1k", "title": "Reacting to your CURSED Homelab Setups" },
+    { "id": "rvM2BthjEI4", "title": "Building My Endgame Keyboard from Scratch" },
+    { "id": "OpmMe0md0tA", "title": "Host Your Own AI Code Assistant with Docker, Ollama and Continue!" },
+    { "id": "37eh6D-XDvQ", "title": "Do You Actually Need a Home Server? Setting up a Cloud Media Server!" },
+    { "id": "W_l82GF00UY", "title": "Building a 26TB Offsite Backup Server! ft. Tailscale" },
     { "id": "qlcVx-k-02E", "title": "Quick and Easy Local SSL Certificates for Your Homelab!" },
     { "id": "xhGYobuG508", "title": "Running Windows in a Docker Container!" },
     { "id": "qlcVx-k-02E", "title": "Quick and Easy Local SSL Certificates for Your Homelab!" },

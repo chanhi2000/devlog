@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/IeGdP7SXJBVuNPGdtitxQt_OqlUo5pqcD7QjcSIVOagVa1MApycprcIiWG2608rzjp-J2EcoZ5Y=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FvKSb-fa4dk", "title": "Python Basics For HACKERS!" },
+    { "id": "GBgqvZ4LCcA", "title": "Introduction to Digital Forensics! (& data recovery)" },
+    { "id": "UZNHRYeJafE", "title": "20 Browser Extensions for HACKERS & OSINT!" },
+    { "id": "SSo60T2LxUg", "title": "Introduction to WEBSITE HACKING!" },
     { "id": "HORzekIiZZ0", "title": "SOCIAL MEDIA OSINT (private accounts)" },
     { "id": "kAZLbTAYr2E", "title": "HOW TO HIDE YOURSELF FROM OSINT!?" },
     { "id": "3cUpqfM2xm8", "title": "WHY YOU SHOULD STUDY MALWARE?" }

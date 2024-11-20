@@ -414,4 +414,12 @@ head:
 
 ---
 
+## dev diary, TIL
+
+- [#TIL ImageMagick 프로그램을 사용해 이미지 크기 일괄 변경](https://ohyecloudy.com/ddiary/2024/11/16/imagemagick-mogrify-resize/)
+
+<!-- END: ohyecloudy.com -->
+
+---
+
 <TagLinks />

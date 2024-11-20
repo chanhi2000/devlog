@@ -152,6 +152,9 @@ head:
   - [AI 시대의 프로덕트 디자이너를 위한 커리어 성장 전략과 도전 과제](https://vurias0203.tistory.com/m/entry/AI-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%84%B1%EC%9E%A5-%EC%A0%84%EB%9E%B5%EA%B3%BC-%EB%8F%84%EC%A0%84-%EA%B3%BC%EC%A0%9C)
   - [AI 버츄얼과 하이브리드 버츄얼의 차이점과 산업별 활용 분석](https://vurias0203.tistory.com/m/entry/AI-%EB%B2%84%EC%B8%84%EC%96%BC%EA%B3%BC-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EB%B2%84%EC%B8%84%EC%96%BC%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EA%B3%BC-%EC%82%B0%EC%97%85%EB%B3%84-%ED%99%9C%EC%9A%A9-%EB%B6%84%EC%84%9D)
   <!-- END: vurias0203 -->
+- [`greypencil` / 앱 개발 연구소](https://greypencil.tistory.com/m/)
+  - [AI가 잘 하는 것, 사람이 못하는 것](https://greypencil.tistory.com/m/230)
+  <!-- END: greypencil -->
 <!-- END: tistory.com -->
   
 ---

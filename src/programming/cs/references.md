@@ -359,6 +359,9 @@ head:
   - [검색 및 유효성 검사 기능을 갖춘 React, .NET, SQLite 및 Ant 디자인으로 풀 스택 CRUD 앱을 구축](https://aspdotnet.tistory.com/m/3276)
   - [EPPlus 7 요약 - 상업적 사용 방법](https://aspdotnet.tistory.com/m/3279)
   - [Azure OpenAI 의 Prompty 를 활용하여 .NET 앱에 AI를 쉽게 만들어봐요.](https://aspdotnet.tistory.com/m/3245)
+  - [ASP Classic에서 파라미터화된 쿼리 사용법: 보안성과 효율성 개선](https://aspdotnet.tistory.com/m/3320)
+  - [C# : 날짜 용도별 DateTimeLibrary 의 메소드 샘플 코드](https://aspdotnet.tistory.com/m/3321)
+  - [ASP.NET Core 8 다양한 의존성 주입(Dependency Injection) 활용도](https://aspdotnet.tistory.com/m/3332)
   <!-- END: aspdotnet -->
 - [`hyunjungchoi` / 행뽁🐥](https://hyunjungchoi.tistory.com/m/)
   - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/m/153)

@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/NzV6mYZEMVUqiIieMb1cAqVohsXOpiMByt-M2bbhjJlvbLbBRZ4cQ1PmU-tM9msiTpA1NQtveg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tTWdCMkqdPM", "title": "CODE CHAT | Catching up / answering code questions" },
+    { "id": "3EIqEH_p0XE", "title": "eslint v9 speedrun setup | world record attempt" },
+    { "id": "L33PYRYxizE", "title": "DEV NEWS | io domains | next.js middlewares | lucia auth deprecated and more!" },
+    { "id": "4sTrgQ9hfkU", "title": "Lucia Auth is Being Deprecated" },
+    { "id": "JSNicgwu7hY", "title": "Building with Deno v2 | YouTube Subtitle Search Tool | Part 1" },
+    { "id": "kdKA8e6mXZc", "title": "Building with Deno v2 | YouTube Subtitle Search Tool | Part 2" },
+    { "id": "jW-XBQ-ScUM", "title": "CHILL STREAM | Hangout / Catch Up | Working on Chat Overlay" },
+    { "id": "YFwLFLkqKkE", "title": "CODE Q&A & Dev Talk | How to use AI Effectively | Express v5 Released!" },
+    { "id": "kY1EHa0dCss", "title": "Express v5 Is HERE" },
+    { "id": "LG5DPeDvq5M", "title": "Trying SolidStart v1.0.0" },
     { "id": "tyzZBrWNfdU", "title": "Hangout | Catch Up | Making a Raycast Extension" },
     { "id": "khHJ7CiKlH4", "title": "Building an Android App with Flutter | Trying Day Friday" },
     { "id": "KBmZ5oFQaSs", "title": "LISTD Sprint Week - Day 1 | SvelteKit App Build | Maintenance, Planning and Prioritization" },

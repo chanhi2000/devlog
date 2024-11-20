@@ -458,6 +458,14 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://opengraph.ing/images/icon-v1.png"
   preview="https://opengraph.ing/images/og-v1.png"/>
 
+<SiteInfo
+  name="WebCurate - Discover the Best Websites Online (Updated Daily)"
+  desc="Find the best websites online with WebCurate, home to 2,300+ top, new websites and tools you never knew existed. Daily updated & hand-curated for the community."
+  url="https://webcurate.co/"
+  logo="https://webcurate.co/assets/images/favicon/favicon-16x16.png?v.6"
+  preview="https://webcurate.co/assets/images/og/main-og-img.png?15"/>
+
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1339,6 +1347,13 @@ http://texturer.com/
   url="https://uifonts.app/"
   logo="https://uifonts.app/favicon.ico"
   preview="https://uifonts.app/og-image.png"/>
+
+<SiteInfo
+  name="퀵썸네일 ┃ 쉽고 빠르게 썸네일 만들기"
+  desc="블로그부터 유튜브, 인스타까지! 내 콘텐츠를 빛내 줄 썸네일을 단 10초만에 만들 수 있는 썸네일 메이커입니다. 해상도와 배경 선택, 제목 입력 단 4가지 단계만으로 썸네일을 완성해보세요."
+  url="https://quickthumbnails.vercel.app/ko/"
+  logo="https://quickthumbnails.vercel.app/favicon-96x96.png"
+  preview="/opengraph.png"/>
 
 <!-- END: Design & Image -->
 

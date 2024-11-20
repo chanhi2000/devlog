@@ -78,6 +78,9 @@ tag:
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[DevOps\] Docker와 Jenkins를 이용한 CI/CD 구축 (1)](https://findsilverlining.tistory.com/m/116)
   <!-- END: findsilverlining -->
+- [`dreamcoding` / 개발은 재밌어야 한다](https://dreamcoding.tistory.com/m/)
+  - [Jenkins에서 주기적 빌드 설정하기: 크론식으로 알아보는 스케줄링](https://dreamcoding.tistory.com/m/144)
+  <!-- END: dreamcoding -->
 <!-- END: tistory.com -->
 
 ---

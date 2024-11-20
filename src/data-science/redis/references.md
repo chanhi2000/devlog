@@ -88,6 +88,7 @@ tag:
 - [`devs0n` / Be an Overachiever](https://devs0n.tistory.com/m/)
   - [Redis를 활용한 다양한 시스템 설계](https://devs0n.tistory.com/m/92)
   - [Docker 로컬 Redis cluster 개발 환경 구성](https://devs0n.tistory.com/m/202)
+  - [대기열 시스템](https://devs0n.tistory.com/m/201)
   <!-- END: devs0n -->
 - [`hides` / Hide](https://hides.tistory.com/m/)
   - [레디스 클러스터 모드 MGET 동작 방식(feat. Lettuce)](https://hides.tistory.com/m/1150)

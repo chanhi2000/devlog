@@ -27,6 +27,12 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-github"/>Github
+
+- [`nattybear` / 하스켈/cabal](https://gist.github.com/nattybear/a52527d75f977bfbcd7531a58281b9ce)
+
+---
+
 ## planet haskell
 
 - [planet haskell](https://planet.haskell.org)

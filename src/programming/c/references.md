@@ -333,6 +333,12 @@ tag:
   - [strongswan #4 plugin loading](https://1000sj.tistory.com/m/411)
   - [strongswan #5 IKE SA INIT, IKE_AUTH, CHILD_SA 설정](https://1000sj.tistory.com/m/412)
   - [\[C/CPU-affinity\] 프로세스 CPU Affinity 설정](https://1000sj.tistory.com/m/415)
+  - [커널 네트워크 프로토콜 스택 #1 네트워크 디바이스 초기화](https://1000sj.tistory.com/m/425)
+  - [커널 네트워크 프로토콜 스택 #2 데이터 링크 계층](https://1000sj.tistory.com/m/426)
+  - [커널 네트워크 스택 #2 데이터 링크 계층](https://1000sj.tistory.com/m/428)
+  - [NAPI](https://1000sj.tistory.com/m/429)
+  - [Google authenticator를 사용한 2FA 인증 #1 이론](https://1000sj.tistory.com/m/435)
+  - [Base64](https://1000sj.tistory.com/m/439)
   <!-- END: 1000sj -->
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [Snowflake ID란 C, C++, Java, Golang](https://jeongchul.tistory.com/m/730)

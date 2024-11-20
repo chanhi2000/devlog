@@ -479,6 +479,7 @@ head:
 ## 000namc.xyz
 
 - [로컬 서버에 k8s cluster 구축하기](https://blog.000namc.xyz/2024/11/09/k8s/)
+- [로컬 서버에 k8s cluster 환경 구성하기 part 2 (rancher, ceph storage)](https://blog.000namc.xyz/2024/11/14/k8s-part2/)
 
 <!-- END: blog.000namc.xyz -->
 
@@ -491,5 +492,6 @@ head:
 <!-- END: istio.io -->
 
 ---
+
 
 <TagLinks />

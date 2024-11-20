@@ -188,5 +188,6 @@ head:
 <MyYouTubeItems jsonName="yu-eduttime" /><!-- EDUTTIME(K-EDU) -->
 <MyYouTubeItems jsonName="yu-itnote" /><!-- 이임복의 일상IT -->
 <MyYouTubeItems jsonName="yu-codewithbro95" /><!-- CodewithBro -->
+<MyYouTubeItems jsonName="yu-mamapop" /><!-- 엄마, 내가 알려줄게 -->
 
 <TagLinks />

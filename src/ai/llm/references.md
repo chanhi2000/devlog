@@ -350,6 +350,25 @@ head:
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [llm 활용 사례](https://ravenkim97.tistory.com/m/511)
   <!-- END: ravenkim97 -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [ML Interview - Transfer Learning](https://jeongchul.tistory.com/m/839)
+  - [ML Interview - Anomaly Detection](https://jeongchul.tistory.com/m/840)
+  - [ML Interview - Z Score](https://jeongchul.tistory.com/m/841)
+  - [ML Interview - IQR](https://jeongchul.tistory.com/m/842)
+  - [ML Interview - 하이퍼파라미터 튜닝 기법](https://jeongchul.tistory.com/m/843)
+  - [ML Interview - Bayesian Optimization](https://jeongchul.tistory.com/m/844)
+  - [ML Interview - Evolutionary Algorithms](https://jeongchul.tistory.com/m/845)
+  - [ML Interview - Normalization](https://jeongchul.tistory.com/m/846)
+  - [ML Interview - 추천 시스템의 고수준 설계](https://jeongchul.tistory.com/m/847)
+  - [ML Interview - 모델 추론 실시간 서빙 시스템](https://jeongchul.tistory.com/m/848)
+  - [ML Interview - Cross Validation](https://jeongchul.tistory.com/m/849)
+  - [ML Interview - 딥러닝의 장점과 단점](https://jeongchul.tistory.com/m/850)
+  - [ML Interview - Curse of Dimensionality 차원의 저주](https://jeongchul.tistory.com/m/851)
+  - [ML Interview - Parallelism with NVLink](https://jeongchul.tistory.com/m/852)
+  <!-- END: jeongchul -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [2024년 최신 AI 개발 도구 비교: Replit, Bolt.new, Cursor AI](https://aspdotnet.tistory.com/m/3330)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
 ---

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/hG7w_INAP2BoGEC8NkqTwBV_djOCBDvUmdHWRyjLGphfCef9Juiat7gOydPwUUDCWCsCT4lYZA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3R63m4sTpKo", "title": "AI SAAS Realtime Video Sharing + Desktop App: AWS, Cloudfront, Nextjs, Electron, Express, Socket.io" },
+    { "id": "pyFbM7_Ixno", "title": "SAAS LMS With Custom Domains & Affiliates - Nextjs15, Uploadcare, Clerk, Cloudways, Supabase" },
+    { "id": "9pCsyBlpmrc", "title": "SAAS AI Chatbot - Email Marketing, Nextjs15, Clerk, Neon, Uploadcare, Cloudways, Bun, Stripe, Pusher" },
+    { "id": "sEqLMrfv7HI", "title": "Ai Powered Full Stack Web Application Builder" },
     { "id": "XkOXNlHJP6M", "title": "SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun" },
     { "id": "6omuUOZcWL0", "title": "SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL" },
     { "id": "A3l6YYkXzzg", "title": "SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets" }

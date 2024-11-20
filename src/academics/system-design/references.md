@@ -336,7 +336,10 @@ head:
 - [`@2fEJ` / \[UX#31\]대비(Contrast)효과 적용 UX 원칙](https://brunch.co.kr/@@2fEJ/1498)
 - [`@QhM` / 유전체 기술의 진보와 디자이너 베이비 - 미래 전망과 현실적 적용 방안에 대한 고찰](https://brunch.co.kr/@@QhM/48)
 - [`@2fEJ` / 사용자 행동 관찰을 통한 디자인 개선 - 월요일](https://brunch.co.kr/@@2fEJ/1501)
-- [`@2fEJ` / 사용자 행동 관찰을 통한 디자인 개선 - 월요일](https://brunch.co.kr/@@2fEJ/1501)
+- [`@2hV3` / 정량 데이터 없이 성공적인 UX 포트폴리오 만들기 - 주변 설문에서 SNS 리뷰까지, 정성 데이터를 활용한 포트폴리오 작성법](https://brunch.co.kr/@@2hV3/255)
+- [`@2fEJ` / 게이미피케이션: 사용자 몰입을 유도하는 전략적 설계 - UX Book 리뷰 #1](https://brunch.co.kr/@@2fEJ/1509)
+- [`@2fEJ` / 고객 중심 사고로 돌파구를 찾아야 한다 - UX Book 리뷰 #2](https://brunch.co.kr/@@2fEJ/1510)
+- [`@2fEJ` / UX 디자인, 선택의 순간에서 설득의 기술로 - UX Book 리뷰 #3](https://brunch.co.kr/@@2fEJ/1511)
 
 <!-- END: brunch.co.kr -->
 

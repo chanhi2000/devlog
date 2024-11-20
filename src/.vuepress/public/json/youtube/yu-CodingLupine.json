@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/j7q8nsWymqi6zyuJPINOkX08YeXrMUxbED8YmoXjOpF9ZSLnRUkQ2Nb-MDtM0Pm17ORB8w87=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JXYgoWfMq-g", "title": "Supabase, Next 풀 스택 시작하기 | 강의 소개 ep01" },
+    { "id": "Lz3iL8GA5gs", "title": "Supabase, Next 풀 스택 시작하기 | Supabase란? ep02" },
+    { "id": "SDC-TLM74Bw", "title": "Supabase, Next 풀 스택 시작하기 | Supabase는 든든한 백엔드 지원군 ep03" },
     { "id": "JTMU0yQliWM", "title": "개발자 취업 돌파구 3가지 포인트 | 어려운 취업 상황 대응 Plan" },
     { "id": "IsJjuFV84SU", "title": "Next YTMusic 클론 코딩 | 강의 소개 및 공부방법(중요!) ch0-1" },
     { "id": "kl2KCvAkjg0", "title": "FE 개발자 취준 노하우 전달드려용 (그룹스터디/멘토링 모집)" },

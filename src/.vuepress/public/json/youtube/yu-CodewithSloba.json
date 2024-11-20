@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/0-Gu0orVOhzkCfyOZMUYjIUp6RU7m87d_YnWtHKgnLqCtW2eLCcZMGj6URI4q5LiRxTXHqeZLw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LOeG9hT6Ujg", "title": "Build a Job Tracking App with Next.js #9 Theme" },
+    { "id": "u4i4e7ASsb4", "title": "Build a Job Tracking App with Next.js #1 Project setup" },
+    { "id": "9RAuxx9zzf0", "title": "Build a Job Tracking App with Next.js #2 Landing Page" },
+    { "id": "upg1CGgOreM", "title": "Build a Job Tracking App with Next.js #3 Pages" },
+    { "id": "ot4THLb5VuY", "title": "Build a Job Tracking App with Next.js #4 Authentication" },
+    { "id": "3c7YXnH0lso", "title": "Build a Job Tracking App with Next.js #5 Nav Links" },
+    { "id": "0t-J32ESdhs", "title": "Build a Job Tracking App with Next.js #6 Layout" },
+    { "id": "izircRZwbUU", "title": "Build a Job Tracking App with Next.js #7 Sidebar" },
+    { "id": "yivxe-J8uDc", "title": "Build a Job Tracking App with Next.js #8 Navbar" },
     { "id": "kky8Fcq6QjI", "title": "Next.js 14 Course Tutorial #5 - Layout" },
     { "id": "yMAnn8No7_I", "title": "Building counter - Next.js 14 Course Tutorial #8" },
     { "id": "Xpa1A5cRtCg", "title": "Fetching Data - Next.js 14 Course Tutorial #9" },

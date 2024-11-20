@@ -59,6 +59,9 @@ head:
 - [`takeu` / takeU](https://takeu.tistory.com/m/)
   - [0. 미니 PC 구매](https://takeu.tistory.com/m/393)
   <!-- END: takeu -->
+- [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
+  - [NVIDIA DGX](https://jeongchul.tistory.com/m/853)
+  <!-- END: jeongchul -->
 <!-- END: tistory.com -->
 
 ---

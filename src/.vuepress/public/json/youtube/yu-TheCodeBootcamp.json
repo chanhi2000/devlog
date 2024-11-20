@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "gjxY0aVdoCY", "title": "How to Rewire Your Brain to Learn React" },
     { "id": "wIyHSOugGGw", "title": "Every React Concept Explained in 12 Minutes" },
     { "id": "p_q8gy_jmP8", "title": "Full Stack Online Store with React, Next 13, TailwindCSS, & Stripe" },
     { "id": "7ORL21ZVSI0", "title": "Full Stack SaaS App with Next 13, React, Supabase, Stripe, TailwindCSS" },

@@ -724,6 +724,7 @@ tag:
 ## 사진찍는 웹 개발자의 블로그
 
 - [컨텐츠에 따라 높이가 자동으로 조절되는 `textarea` 구현하기](https://donghoon-song.github.io/javascript/%EC%BB%A8%ED%85%90%EC%B8%A0%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%86%92%EC%9D%B4%EA%B0%80-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%A1%B0%EC%A0%88%EB%90%98%EB%8A%94-textarea-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+- [`textarea`를 감싸는 div에 여백이 생겨버리는 이유](https://donghoon-song.github.io/css/textarea를-감싸는-div에-여백이-생겨버리는-이유/)
 
 ---
 
@@ -784,5 +785,7 @@ tag:
 <!-- END: joshwcomeau.com -->
 
 ---
+
+
 
 <TagLinks />

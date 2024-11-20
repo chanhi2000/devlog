@@ -41,6 +41,9 @@ head:
 - [`yejipro` / Yeji's Tech Notes](https://yejipro.tistory.com/m/)
   - [OAuth 원리와 이해 (feat. 카카오 로그인)](https://yejipro.tistory.com/m/entry/OAuth-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%9D%B4%ED%95%B4-feat-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8)
   <!-- END: yejipro -->
+- [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
+  - [\[네이버 부스트캠프\] OAuth 2.0 정리하기: 현대 웹 인증의 표준](https://jacky0831.tistory.com/m/112)
+  <!-- END: jacky0831 -->
 <!-- END: tistory.com -->
 
 ---

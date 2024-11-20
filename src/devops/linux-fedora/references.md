@@ -37,6 +37,7 @@ tag:
 - [`@mythos` / \[Linux\] 특정 버전의 커널 제거하기 (소스 설치 포함)](https://velog.io/@mythos/Fedora-%ED%8A%B9%EC%A0%95-%EB%B2%84%EC%A0%84%EC%9D%98-%EC%BB%A4%EB%84%90-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-%EC%86%8C%EC%8A%A4-%EC%84%A4%EC%B9%98-%ED%8F%AC%ED%95%A8)
 - [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack 5# NIC 구매 및 설치](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-5-NIC-%EA%B5%AC%EB%A7%A4-%EB%B0%8F-%EC%84%A4%EC%B9%98)
 - [`@euisuk-chung` / \[Linux\] 리눅스 파일 시스템 마운트 가이드](https://velog.io/@euisuk-chung/Linux-%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%88%EC%9A%B4%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [`@mythos` / \[Linux\] 커널 패닉 시 이전 커널로 리부팅](https://velog.io/@mythos/Linux-%EC%BB%A4%EB%84%90-%ED%8C%A8%EB%8B%89-%EC%8B%9C-%EC%9D%B4%EC%A0%84-%EC%BB%A4%EB%84%90%EB%A1%9C-%EB%A6%AC%EB%B6%80%ED%8C%85)
 
 <!-- END: velog.io -->
 
@@ -68,6 +69,7 @@ tag:
   - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
   - [Linux Device Driver 기초 #5 system daemon과 라이브러리 개발](https://1000sj.tistory.com/m/398)
   - [Linux Inside #2 Booting: 커널 구성의 첫단계](https://1000sj.tistory.com/m/399)
+  - [네트워크 디바이스 드라이버별 벤더 NIC](https://1000sj.tistory.com/m/427)
   <!-- END: 1000sj -->
 - [`yongho1037` / 개발 노트](https://yongho1037.tistory.com/m/)
   - [\[KANS\] 3주차 - Calico CNI & Mode 정리](https://yongho1037.tistory.com/m/843)

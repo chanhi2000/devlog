@@ -292,6 +292,7 @@ tag:
 - [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [`@sunyi233` / Netlify cli로 deploy하기](https://medium.com/@sunyi233/netlify-cli%EB%A1%9C-deploy%ED%95%98%EA%B8%B0-2ba73e892285?source=rss-57ff999ab1fc------2)
 - [`towardsdatascience` / Use R to build Clinical Flowchart with shinyCyJS](https://towardsdatascience.com/clinical-flowchart-shinycyjs-e-2f5489154794?source=rss-cb820693bed5------2)
+- [`taesulee93` / Playwright를 사용한 테스트 자동화 — 주요 기능과 기본 설정법](https://medium.com/@taesulee93/playwright%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%EB%B2%95-c9f23d0004cd)
 
 <!-- END: medium.com -->
 
@@ -529,6 +530,8 @@ tag:
   - [\[네이버 부스트캠프\] node.js를 한번 파보자](https://jacky0831.tistory.com/m/95)
   - [\[네이버 부스트캠프\] 단일 레포지토리에서 스크립트 관리 하기](https://jacky0831.tistory.com/m/99)
   - [\[네이버 부스트캠프\] 프론트엔드 프레임워크 비교하기(feat. typescript)](https://jacky0831.tistory.com/m/100)
+  - [\[네이버 부스트캠프\]  퍼널 패턴으로 실시간 퀴즈 애플리케이션 상태 관리하기](https://jacky0831.tistory.com/m/113)
+  - [\[why\] 테스트 코드는 왜 작성해야 할까요? 특히 프론트엔드에서는요?](https://jacky0831.tistory.com/m/114)
   <!-- END: jacky0831 -->
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [2개의 map vs 1개의 reduce 속도 비교](https://ravenkim97.tistory.com/m/398)
@@ -563,6 +566,8 @@ tag:
   <!-- END: mugglim -->
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [기타 > Node.js와 Kotlin 코루틴의 비동기 처리 방식과 차이점](https://jinn-blog.tistory.com/m/210)
+  - [01. 리액티브 프로그래밍 (개론)](https://jinn-blog.tistory.com/m/211)
+  - [리액티브 프로그래밍 - 부록1. (`map` vs `flatMap`)](https://jinn-blog.tistory.com/m/212)
   <!-- END: jinn-blog -->
   - [\[MAC\] Claude APP 만들어서 사용하는 방법](https://newstars.tistory.com/m/593)
   <!-- END: newstars -->

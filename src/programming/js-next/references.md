@@ -144,6 +144,7 @@ head:
   <!-- END: haranglog -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [Next.js와 Nest.js, To-Do 리스트 예제로 보는 차이점과 활용법](https://aspdotnet.tistory.com/m/3291)
+  - [Next.js +  Tailwind CSS  프로젝트 설정 가이드](https://aspdotnet.tistory.com/m/3331)
   <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
@@ -267,5 +268,11 @@ head:
 <!-- END: lovemewithoutall.github.io -->
 
 ---
+
+## Ykss
+
+- [Next.js의 환경 변수와 런타임 환경 변수 활용](https://ykss.netlify.app/devlog/next14_environment_variables/)
+
+<!-- END: ykss.netlify.app -->
 
 <TagLinks />

@@ -184,4 +184,12 @@ head:
 
 ---
 
+## 큰돌의 터전
+
+- [동시에 2명의 사람이 같은 자리에 예약을 하려고 한다면? | 개발자 면접](https://m.blog.naver.com/jhc9639/223660020983)
+
+<!-- END: jhc9639 (blog.naver.com) -->
+
+---
+
 <TagLinks />

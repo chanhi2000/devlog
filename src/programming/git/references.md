@@ -484,4 +484,11 @@ head:
 
 ---
 
+- [중간 커밋 수정하기 - `git rebase -i`](https://zerocho.com/category/Git/post/67356085f3923a320c7145f9)
+- [여러 커밋 합치기 - `git squash`](https://zerocho.com/category/Git/post/6735635ff3923a320c714a92)
+
+<!-- END: zerocho.com -->
+
+---
+
 <TagLinks />

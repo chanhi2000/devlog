@@ -349,6 +349,7 @@ head:
   <!-- END: mygumi -->
 - [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
   - [\[FE\] React Context API와 LocalStorage로 간단 상태관리 모듈 만들기](https://jacky0831.tistory.com/m/103)
+  - [\[네이버 부스트캠프\] 퍼널 적용하기](https://jacky0831.tistory.com/m/111)
   <!-- END: jacky0831 -->
 - [`teveloper` / Teveloper 개발 & 테니스 이야기](https://teveloper.tistory.com/m/)
   - [Docusaurus 기술문서로 개발 이력서 작성하기](https://teveloper.tistory.com/m/89)
@@ -359,6 +360,10 @@ head:
   - [Reactjs - 드래그 앤 드롭 리스트 구현하기](https://syaku.tistory.com/m/427)
   - [Reactjs - `useEffect` 와 의존성 배열 완벽 가이드](https://syaku.tistory.com/m/428)
   <!-- END: syaku -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [React.js와 Node.js를 활용한 TODO List 개발: CORS 문제와 해결 방안](https://aspdotnet.tistory.com/m/3326)
+  - [React 프로젝트 : Node.js 와 Vite 기반 구축 및 팀원 설치 가이드](https://aspdotnet.tistory.com/m/3329)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
 ---

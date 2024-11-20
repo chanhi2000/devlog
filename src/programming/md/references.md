@@ -46,9 +46,17 @@ head:
 
 ---
 
-## 게으른맽랩 lazy matlab
+## tistory
 
-- [구글 드라이브에 저장된 이미지를 웹페이지에 embed 하기](https://lazymatlab.tistory.com/m/246)
+- [`lazymatlab` / 게으른맽랩 lazy matlab](https://lazymatlab.tistory.com/m/)
+  - [구글 드라이브에 저장된 이미지를 웹페이지에 embed 하기](https://lazymatlab.tistory.com/m/246)
+  <!-- END: lazymatlab -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [1부. Marp로 프레젠테이션 만들기 - 마크다운으로 시작하는 간편한 발표 제작](https://aspdotnet.tistory.com/m/3314)
+  - [2부. Marp (Markdown Presentation Ecosystem) 슬라이드별로 다양한 내장 테마를 최대한 활용](https://aspdotnet.tistory.com/m/3313)
+  - [3부. Marp 프레젠테이션, theme, 이미지, Mermaid  활용해 보기](https://aspdotnet.tistory.com/m/3315)
+  <!-- END: aspdotnet -->
+<!-- END: tistory.com -->
 
 ---
 

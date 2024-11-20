@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/yElOwea2lho3SwzjFHXNzNC8TomCrbnlf-e6vrXycPcWc_PZCU0JON_q_UmmHOtk4YNafsEEDw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "k4hgi_o0HYc", "title": "How ChatGPT Learned To Speak" },
+    { "id": "rdefb5kUtKQ", "title": "I Built A VS Code Extension For Python" },
+    { "id": "dKQ6KYUJiZQ", "title": "Code With Me - Timetracking app #1" },
+    { "id": "Jj2tzLo4HZ4", "title": "Code With Me - Timetracking app #2" },
+    { "id": "hdheuiwmyOw", "title": "Code With Me - Timetracking app #3" },
+    { "id": "7nlOse7N4Ao", "title": "Code With Me - Timetracking app #8" },
     { "id": "lKDtwd2b_zw", "title": "I'm building an app... after two years of no code" },
     { "id": "kwCakTDRoqY", "title": "create_database_eps2.json" },
     { "id": "FuYM8Y5GX3A", "title": "flutter_database_init_eps3.sql" },
@@ -21,4 +27,3 @@
     { "id": "vnfhv1E1dU4", "title": "One Day Builds: Instagram Automation Using Python" }
   ]
 }
-

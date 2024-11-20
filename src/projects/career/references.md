@@ -164,6 +164,7 @@ tag:
 - [`@haryan248` / 2025년까지 51일 남은 지금](https://velog.io/@haryan248/2025%EB%85%84%EA%B9%8C%EC%A7%80-51%EC%9D%BC-%EB%82%A8%EC%9D%80-%EC%A7%80%EA%B8%88)
 - [`@invidam` / 데이터 엔지니어 신입, 어떻게 성장할까?](https://velog.io/@invidam/data-engineering-beginner)
 - [`@juhee067` / 디자이너에서 개발자로, 그리고 기획자로](https://velog.io/@juhee067/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A1%9C)
+- [`@bestswlkh0310` / Silicon Valley makes person attractive](https://velog.io/@bestswlkh0310/Silicon-Valley-makes-person-attractive)
 
 <!-- END: velog.io -->
 
@@ -388,6 +389,14 @@ tag:
 - [`@2weV` / 좋은 질문의 힘](https://brunch.co.kr/@@2weV/581)
 - [`@2weV` / 한국 스타트업의 미국 진출 관련 드리는 조언](https://brunch.co.kr/@@2weV/582)
 - [`@2weV` / 실리콘밸리의 독특한 uniformity](https://brunch.co.kr/@@2weV/583)
+- [`@2weV` / 미국에서 일하는 한국분들 보며 느낀 공통점](https://brunch.co.kr/@@2weV/585)
+- [`@2weV` / 최근 미국/한국에서 느껴지는 HR 트렌드 변화](https://brunch.co.kr/@@2weV/586)
+- [`@2weV` / 가장 효과적이었던 사내 교육](https://brunch.co.kr/@@2weV/589)
+- [`@2weV` / 창업의 여정 (지식-실행-impact-성장)](https://brunch.co.kr/@@2weV/590)
+- [`@2rV` / 실리콘밸리 투자자와 커피챗을 통해 얻은 인사이트 - 스타트업 성장을 위한 디커플링과 PLG 전략](https://brunch.co.kr/@@2rV/194)
+- [`@2weV` / 플랜트 건설, 그리고 앱 건설](https://brunch.co.kr/@@2weV/587)
+- [`@3L0s` / DX 기반: 공급역량의 디지털화 - 디지털 혁신-23](https://brunch.co.kr/@@3L0s/148)
+- [`@2weV` / 영어 인터뷰에서 후회를 남기지 않는 방법.](https://brunch.co.kr/@@2weV/588)
 
 <!-- END: brunch.co.kr -->
 
@@ -740,6 +749,7 @@ tag:
   <!-- END: pronist -->
 - [`xtring-dev` / xtring.dev](https://xtring-dev.tistory.com/m/)
   - [\[삶의 지도\] 5년차 FE 과거부터 현재까지](https://xtring-dev.tistory.com/m/entry/%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84-5%EB%85%84%EC%B0%A8-FE-%EA%B3%BC%EA%B1%B0%EB%B6%80%ED%84%B0-%ED%98%84%EC%9E%AC%EA%B9%8C%EC%A7%80)
+  - [프론트엔드팀 스터디에서 '리눅스 커널'이 주제로 선정된 이야기](https://xtring-dev.tistory.com/m/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%ED%8C%80-%EC%8A%A4%ED%84%B0%EB%94%94%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%9D%B4-%EC%84%A0%EC%A0%95%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
   <!-- END: xtring-dev -->
 - [`flymogi` / flymogi](https://flymogi.tistory.com/m/)
   - [삶의 지도](https://flymogi.tistory.com/m/88)
@@ -768,11 +778,22 @@ tag:
   - [\[책 정리\] 구글 엔지니어는 이렇게 일한다 #3 지식 공유를 읽고](https://helicopter55.tistory.com/m/99)
   - [구글 엔지니어는 이렇게 일한다 #4장 공정 사회를 위한 엔지니어링을 읽고](https://helicopter55.tistory.com/m/101)
   - [구글 엔지니어는 이렇게 일한다. | #5장 팀 이끌기를 읽고](https://helicopter55.tistory.com/m/102)
+  - [구글 엔지니어는 이렇게 일한다 #6장 성장하는 조직 이끌기를 읽고](https://helicopter55.tistory.com/m/103)
+  - [구글 엔지니어는 이렇게 일한다 #8장 스타일 가이드와 규칙을 읽고](https://helicopter55.tistory.com/m/104)
   <!-- END: helicopter55 -->
 - [`softwareeng` / 소프트웨어공학-Software Engineering](https://softwareeng.tistory.com/m/)
   - [버퍼는 중요한 것에 두자](https://softwareeng.tistory.com/m/entry/%EB%B2%84%ED%8D%BC%EB%8A%94-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%97%90-%EB%91%90%EC%9E%90)
   - [애자일에 경로 고치기란 없다. 경로 조정만 있다.](https://softwareeng.tistory.com/m/entry/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EA%B2%BD%EB%A1%9C-%EA%B3%A0%EC%B9%98%EA%B8%B0%EB%9E%80-%EC%97%86%EB%8B%A4-%EA%B2%BD%EB%A1%9C-%EC%A1%B0%EC%A0%95%EB%A7%8C-%EC%9E%88%EB%8B%A4)
   <!-- END: softwareeng -->
+- [`ysedeveloper` / 생계형 개발자 연서은](https://ysedeveloper.tistory.com/m/)
+  - [개발자 광풍에 관한 생각](https://ysedeveloper.tistory.com/m/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B4%91%ED%92%8D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%83%9D%EA%B0%81)
+  - [열정과 냉정 사이](https://ysedeveloper.tistory.com/m/entry/%EC%97%B4%EC%A0%95%EA%B3%BC-%EB%83%89%EC%A0%95-%EC%82%AC%EC%9D%B4)
+  - [첫번째 프리랜서 인터뷰](https://ysedeveloper.tistory.com/m/entry/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+  - [프로젝트 종료를 앞두고 드는 생각](https://ysedeveloper.tistory.com/m/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A2%85%EB%A3%8C%EB%A5%BC-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%93%9C%EB%8A%94-%EC%83%9D%EA%B0%81)
+  <!-- END: ysedeveloper -->
+- [`limm-jk` / Limm_jk.log](https://limm-jk.tistory.com/m/)
+  - [Fair Source License / 지속 가능성을 위한 License 이야기](https://limm-jk.tistory.com/m/86)
+  <!-- END: limm-jk -->
 <!-- END: tistory.com -->
 
 ---
@@ -871,6 +892,9 @@ tag:
 - [이야기꾼 되기](https://thestartupbible.com/2024/10/be-a-good-storyteller.html)
 - [내 앞의 창업가](https://thestartupbible.com/2024/11/reflecting-myself-in-the-founder-in-the-room.html)
 - [이제 안심해도 됩니다](https://thestartupbible.com/2024/11/in-good-hands.html)
+- [전문지식과 경험](https://thestartupbible.com/2024/11/domain-expertise-and-experience.html)
+- [월급쟁이 VC](https://thestartupbible.com/2024/11/the-shameful-and-the-shameless-vcs.html)
+- [한국 제품](https://thestartupbible.com/2024/11/rise-of-the-korean-products-and-brands.html)
 
 <!-- END: thestartupbible.com -->
 

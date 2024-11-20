@@ -67,6 +67,10 @@ head:
 - [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 1주차 정리](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
 - [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 2주차 정리](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%EC%A0%95%EB%A6%AC)
 - [`@qkrtkdwns3410` / API Rate Limiting이 필요한 이유와 이를 구현 하는 방법은 무엇인가요?](https://velog.io/@qkrtkdwns3410/API-Rate-Limiting%EC%9D%B4-%ED%95%8P4%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%9D%B4%EB%A5%BC-%EA%B5%AC%ED%98%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [`@ehddk0133` / \[CS 개념\] IoC 와 DI](https://velog.io/@ehddk0133/CS-IoC-%EC%99%80-DI)
+- [`@jwlee010523` / 허프만 코딩(Huffman Coding)](https://velog.io/@jwlee010523/huffman-coding)
+- [`@ehddk0133` / \[CS 개념\] SOP와 CORS](https://velog.io/@ehddk0133/CS-%EA%B0%9C%EB%85%90-SOP%EC%99%80-CORS)
+- [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 (3)](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-3)
 
 <!-- END: velog.io -->
 
@@ -192,6 +196,12 @@ head:
   - [HTTP/2 통신에 대한 정리](https://syaku.tistory.com/m/423)
   - [Apache NiFi](https://syaku.tistory.com/m/425)
   <!-- END: syaku -->
+- [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
+  - [\[Secui Bluemax\]방화벽 Session TCP Flag 설명](https://aws-hyoh.tistory.com/m/306)
+  <!-- END: aws-hyoh -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [CORS(Cross-Origin Resource Sharing) '동일 출처 정책' 이란 무엇인가요?](https://aspdotnet.tistory.com/m/3327)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com  -->
 
 ---
@@ -253,6 +263,7 @@ head:
 ## 보름의 달빛 ✨
 
 - [시간 복잡도와 공간 복잡도](https://shkisme.vercel.app/Time-Space-Complexity)
+- [HTTP 관련 기본 지식들](https://shkisme.vercel.app/http-basic)
 
 <!-- END: shkisme.vercel.app -->
 

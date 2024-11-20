@@ -557,6 +557,8 @@ head:
 ## 큰돌의 터전
 
 - [AWS S3를 통해 이미지를 올리는 방법 및 권한설정](https://m.blog.naver.com/jhc9639/223522562723)
+- [AWS EC2 용량 최적화](https://m.blog.naver.com/jhc9639/223660713175)
+- [AWS documentDB는 mongoDB의 facet을 지원하지 않습니다.](https://m.blog.naver.com/jhc9639/223667524834)
 
 ---
 
@@ -640,6 +642,14 @@ head:
 - [Flatcar Container Linux on AWS 에서 ignition 및 cloud-init 설정](https://chhanz.github.io/linux/2024/10/22/flatcar-ignition-and-cloud-init/)
 
 <!-- END: chhanz.github.io -->
+
+---
+
+## Novemberde's Blog
+
+- [AWS EBS, FSx, EFS: Storage Comparison (2024)](https://novemberde.github.io/post/2024/11/15/aws-ebs-2024/)
+
+<!-- END: novemberde.github.io -->
 
 ---
 

@@ -128,12 +128,14 @@ head:
 - [Spring Scheduler 설정과 ShedLock을 이용한 간편한 분산락 사용](https://medium.com/@taesulee93/spring-scheduler-%EC%84%A4%EC%A0%95%EA%B3%BC-shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B6%84%EC%82%B0%EB%9D%BD-%EC%82%AC%EC%9A%A9-74ffcafd0c25)
 - [`taesulee93` / Spring for RabbitMQ in Action — Declarables을 활용한 Exchange, Queue, Binding, DLQ 간편 설정](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-declarables%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-exchange-queue-binding-dlq-%EA%B0%84%ED%8E%B8-%EC%84%A4%EC%A0%95-a248744d6240)
 - [`@taesulee93` / Spring for RabbitMQ in Action — RabbitHandler를 이용하여 Multi-method Listener 설정하기](https://medium.com/@taesulee93/spring-for-rabbitmq-in-action-rabbithandler%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-multi-method-listener-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-1576bca43e35)
-- [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7?source=rss-d4008c147c0e------2)
+- [`musinsa-tech` / 리팩토링을 위한 통합 테스트](https://medium.com/musinsa-tech/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-cd23498918a7)
 - [`taesulee93` / SAML 기반 SSO 인증 흐름과  OpenSAML을 활용한 IDP(Identity Provider) 구현](https://medium.com/@taesulee93/saml-%EA%B8%B0%EB%B0%98-sso-%EC%9D%B8%EC%A6%9D-%ED%9D%90%EB%A6%84%EA%B3%BC-opensaml%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-idp-identity-provider-%EA%B5%AC%ED%98%84-d0809bfc4048)
 - [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (1)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-1-003441ecb87b)
 - [`taesulee93` / 안전한 비밀번호 저장을 위한 해시 함수와 Spring Security의 `DelegatingPasswordEncoder` (2)](https://medium.com/@taesulee93/%EC%95%88%EC%A0%84%ED%95%9C-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%B4%EC%8B%9C-%ED%95%A8%EC%88%98%EC%99%80-spring-security%EC%9D%98-delegatingpasswordencoder-2-70b48d50adbd)
 - [`taesulee93` / ISP 법칙에 따른 도메인 리파지토리 구현 전략 — JpaRepository는 도메인 리파지토리가 아니다](https://medium.com/@taesulee93/isp-%EB%B2%95%EC%B9%99%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC-%EA%B5%AC%ED%98%84-%EC%A0%84%EB%9E%B5-jparepository%EB%8A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%A6%AC%ED%8C%8C%EC%A7%80%ED%86%A0%EB%A6%AC%EA%B0%80-%EC%95%84%EB%8B%88%EB%8B%A4-cb3564fda976)
 - [`taesulee93` / Spring Data JPA에서 EntityManager의 주입 방법과 주의점 (`Autowired`, `PersistenceContext`, `PersistenceUnit`)](https://medium.com/@taesulee93/spring-data-jpa%EC%97%90%EC%84%9C-entitymanager%EC%9D%98-%EC%A3%BC%EC%9E%85-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%A3%BC%EC%9D%98%EC%A0%90-autowired%EB%8F%84-%EC%9D%B4%EC%A0%A0-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4-f85925b7ff9a2)
+- [`taesulee93` / MFA를 위한 OTP 동작 원리와 Spring, Kotlin 환경에서의 TOTP 인증 구현](https://medium.com/@taesulee93/mfa%EB%A5%BC-%EC%9C%84%ED%95%9C-otp-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-spring-kotlin-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-totp-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-c7950ed73593)
+- [`taesulee93` / Spring Data JPA에서 EntityManager의 주입 방법과 주의점 (Autowired, PersistenceContext, PersistenceUnit)](https://medium.com/@taesulee93/spring-data-jpa%EC%97%90%EC%84%9C-entitymanager%EC%9D%98-%EC%A3%BC%EC%9E%85-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%A3%BC%EC%9D%98%EC%A0%90-autowired%EB%8F%84-%EC%9D%B4%EC%A0%A0-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4-f85925b7ff9a)
 
 <!-- END: medium.com java -->
 
@@ -302,6 +304,9 @@ head:
   - [\[1년 후 마실가실\] 로그 설정](https://hj0216.tistory.com/m/958)
   - [\[1년 후 마실가실\] API 문서화 도구 - Spring REST Docs](https://hj0216.tistory.com/m/960)
   - [\[1년 후 마실가실\] User Error Code HttpStatus](https://hj0216.tistory.com/m/962)
+  - [\[1년 후 마실가실\] CharacterEncodingFilter](https://hj0216.tistory.com/m/965)
+  - [\[해결 방법\] 'this.bCryptPasswordEncoder' is null](https://hj0216.tistory.com/m/966)
+  - [\[1년 후 마실가실\] @GeneratedValue(strategy = GenerationType.IDENTITY)](https://hj0216.tistory.com/m/967)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -458,6 +463,8 @@ head:
   - [Spring Boot에서 `@Value`로 주입된 값을 Static 변수로 사용하기](https://dreamcoding.tistory.com/m/123)
   - [Java에서의 CORS 설정하기](https://dreamcoding.tistory.com/m/128)
   - [스프링에서 Bean 등록 및 관리: 어노테이션을 통한 의존성 주입](https://dreamcoding.tistory.com/m/136)
+  - [Spring에서 동일한 타입의 Bean 충돌 문제 해결하기](https://dreamcoding.tistory.com/m/142)
+  - [Spring Retry로 안전한 Feign 호출 처리하기](https://dreamcoding.tistory.com/m/143)
   <!-- END: dreamcoding -->
 - [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
   - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
@@ -468,6 +475,12 @@ head:
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [Spring REST Docs Easy: Efficient API Documentation Tool (`spring-restdocs-easy`)](http://syaku.tistory.com/m/415)
   <!-- END: syaku -->
+- [`pro-dev` / 개발 인생](https://pro-dev.tistory.com/m/)
+  - [MyBatis에서 엔티티를 분리해보자](https://pro-dev.tistory.com/m/174)
+  <!-- END: pro-dev -->
+- [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
+  - [02. Spring WebFlux 기본 개념](https://jinn-blog.tistory.com/m/213)
+    <!-- END: jinn-blog -->
 <!-- END: tistory.com java -->
 
 ### 비탐인
@@ -674,6 +687,7 @@ head:
 ### 얇고 넓은 개발 블로그
 
 - [Transactional의 Self Injection이 올바른가](https://sundries-in-myidea.tistory.com/m/167)
+- [에러에 상태에 따라서 로깅 레벨을 조절해보자](https://sundries-in-myidea.tistory.com/m/170)
 
 ### Maciej Walkowiak | Java & Spring Boot | Freelance Software Consultant
 
@@ -749,6 +763,11 @@ head:
 
 <!-- END: skyer9.pe.kr -->
 
+### 보름의 달빛 ✨
+
+- [JPA 엔티티 매핑 전략](https://shkisme.vercel.app/jpa-entity-mapping)
+
+<!-- END: shkisme.vercel.app -->
 
 ---
 

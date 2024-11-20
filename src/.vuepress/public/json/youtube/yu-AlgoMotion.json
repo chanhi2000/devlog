@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "AlgoMotion",
+    "name": "AlgoMotion",
+    "profile": "https://yt3.googleusercontent.com/_SxZT_9GUHCJ0cj9vuhOpsyafE3KvatnY_VzANPsF13oSFxraQbWelRx2jAJlLWK7MnPOtOWgw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J-XuVFUu4EuNQwA57yK7_lkdM3OwwbpxN32VAVgvzZW1k4e3sBptd1L3a6WDjTpp-u2nY_XQDkc=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b21ZQ5lub5A", "title": "Genetic Algorithm Solves the Traveling Salesman Problem" },
+    { "id": "bq4KlrshvSI", "title": "Bogosort Music Machine (ChomboSort) 🎵 | Change the Chords by Typing Commands in Chat" },
+    { "id": "hQ4tgzC8zbw", "title": "Sounds of the Collatz Conjecture, Part 2: Generating Raw Frequencies" }
+  ],
+  "playlists": [
+
+  ]
+}

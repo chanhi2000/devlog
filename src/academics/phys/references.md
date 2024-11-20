@@ -63,6 +63,7 @@ head:
 - [물의 상태 2](https://javalab.org/status_of_water_2/)
 - [네프론에서 물질의 이동](https://javalab.org/nephron/)
 - [자석과 전자석](https://javalab.org/magnet_and_electromagnet/)
+- [기체 분자 운동 장치](https://javalab.org/kinetic_theory_model/)
 
 <!-- END: javalab.org -->
 

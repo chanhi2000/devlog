@@ -149,5 +149,6 @@ head:
 <MyYouTubeItems jsonName="yu-chefclubtvshorts" /><!-- Chefclub Shorts -->
 <MyYouTubeItems jsonName="yu-승호의요리이야기" /><!-- 쿡톡 (빛 & 소금) -->
 <MyYouTubeItems jsonName="yu-channelId" /><!-- table diary 식탁일기 -->
+<MyYouTubeItems jsonName="yu-subuhae" /><!-- 수산물을부탁해TV 수부해 -->
 
 <TagLinks />

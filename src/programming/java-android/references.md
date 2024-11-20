@@ -330,6 +330,7 @@ tag:
 - [Blog: \[메모\] AndroidX Compose BOM stable/beta/alpha 버전](http://pluu.github.io/blog/android/2024/09/19/compose-bom/)
 - [Blog: Coil 요청 가로채기](http://pluu.github.io/blog/android/2024/09/22/coil-intercept/)
 - [Blog: \[메모\] Google Play의 사진 및 동영상 권한 정책](http://pluu.github.io/blog/android/2024/10/06/permission/)
+- [Blog: Compose에서 Context는 어떻게 얻을 수 있나요?](http://pluu.github.io/blog/android/2024/11/10/Compose/)
 
 <!-- END: pluu.github.io -->
 

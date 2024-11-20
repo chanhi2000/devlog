@@ -16,4 +16,12 @@ tags:
 
 ---
 
+## Easy to analyze if you are really curious about data
+
+- [VirtualBox 네트워크](https://kangmyounghun.blogspot.com/2024/11/virtualbox.html)
+
+<!-- END: kangmyounghun.blogspot.com -->
+
+---
+
 <TagLinks />

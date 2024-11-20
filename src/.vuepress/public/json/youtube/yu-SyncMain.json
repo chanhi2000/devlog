@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "SyncMain",
+    "name": "SyncMain",
+    "profile": "https://yt3.googleusercontent.com/pzw6sfsEHWLXkhglfhR8AqVXJGWFr2huuq8A4MHRfUlnLqh7LWaNl-Fnh4UtGAeceC2j8geztQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M4p8F29LxNutiDViOTn7Otj-QI4oOIggjbbXETxKEEhVdQHOKwaBO9OIDAXpthrHL3gamQWMDw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uWNW7tMD004", "title": "C# Game Development | Setting up MonoGame on Windows" }
+  ],
+  "playlists": [
+
+  ]
+}

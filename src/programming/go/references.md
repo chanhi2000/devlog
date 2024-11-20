@@ -375,6 +375,9 @@ tag:
   - [\[golang 1% 이해하기\] viper | dotenv 환경 변수값을 읽는 기능 도입 하기 #2 mapstructure 를 사용해 Env 구조체 할당하기](https://helicopter55.tistory.com/m/95)
   - [\[golang 1% 이해하기\] godotenv | dotenv 환경 변수값 활용하기](https://helicopter55.tistory.com/m/96)
   <!-- END: helicopter55 -->
+- [`rnokhs` / 🛵꾸준한 꿈틀꿈틀](https://rnokhs.tistory.com/m/)
+  - [우리 서버에 OOMKilled 장애가 발생했어요 - 회고편](https://rnokhs.tistory.com/m/entry/%EC%9A%B0%EB%A6%AC-%EC%84%9C%EB%B2%84%EC%97%90-OOMKilled-%EC%9E%A5%EC%95%A0%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%96%88%EC%96%B4%EC%9A%94-%ED%9A%8C%EA%B3%A0%ED%8E%B8)
+  <!-- END: rnokhs -->
 <!-- END: tistory.com -->
 
 ---

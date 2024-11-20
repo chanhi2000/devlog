@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "themesisinc.4045",
+    "name": "Themesis Inc.",
+    "profile": "https://yt3.googleusercontent.com/E17dQ4I-WgRdSY83Ny02HQsmEjf5YFFZgSRroX-Udtygj2MbIiPigIOdtB3JBqj6XrQ5KDb3=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FoYIWS54QCJrkdOZ_fK9ZzZLBqbpk403GNnw-NJ5P8MH0OLv3rl1lDW4D6Py-lo28gw_nZ0ML_Y=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_SJw-pJx390", "title": "Making the Connection: Statistical Mechanics and Generative AI" },
+    { "id": "uvKm59Vqchc", "title": "AGI: Comparing Renormalising Generative Models (RGMs) with Action Perception Divergence (APD)" },
+    { "id": "7-r7PvukgZw", "title": "AGI: Three Foundation Methods - RGM, JEPA, and CORTECONs(R)" },
+    { "id": "O8BGmmhExZk", "title": "AGI: Free Energy Principle and Ontologies" },
+    { "id": "5Ewi7GZPcDA", "title": "Free Energy and Equilibrium in AI and Generative AI" },
+    { "id": "Y5fLkMHEXqo", "title": "Big AGI Breakthrough! From Active Inference to Renormalising Generative Models" },
+    { "id": "u6KXhFzqqp4", "title": "AGI: Comparing JEPA (Joint Embedding Predictive Architecture) with Action Perception Divergence" },
+    { "id": "436l0cmnEi0", "title": "AGI: Action Perception Divergence (APD) - Notation Review" },
+    { "id": "ae_-qumFxrs", "title": "AGI: APD (Action Perception Divergence) - Eqn. 3 Derivation" },
+    { "id": "QmpG4AYScK0", "title": "Five Key Papers (and Two Viewpoints) for AGI" }
+  ],
+  "playlists": [
+
+  ]
+}

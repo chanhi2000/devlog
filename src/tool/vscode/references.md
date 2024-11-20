@@ -146,6 +146,9 @@ tag:
   - [Visual Studio Code를 사용한 C/C++ 개발환경 만들기-(Windows/Ubuntu)](https://webnautes.tistory.com/m/1854)
   - [Visual Studio Code에서 외부 터미널에서 파이썬 코드 실행하기](https://webnautes.tistory.com/m/2373)
   - [Visual Studio Code와 Miniconda를 사용한 Python 개발 환경 만들기( Windows, Ubuntu, WSL2)](https://webnautes.tistory.com/m/1842)
+  - [1부. Marp로 프레젠테이션 만들기 - 마크다운으로 시작하는 간편한 발표 제작](https://aspdotnet.tistory.com/m/3314)
+  - [2부. Marp (Markdown Presentation Ecosystem) 슬라이드별로 다양한 내장 테마를 최대한 활용](https://aspdotnet.tistory.com/m/3313)
+  - [3부. Marp 프레젠테이션, theme, 이미지, Mermaid  활용해 보기](https://aspdotnet.tistory.com/m/3315)
   <!-- END: webnautes -->
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[1년 후 마실가실\] 쉬어가는 마실가실 - 디버깅](https://hj0216.tistory.com/m/940)

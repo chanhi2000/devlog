@@ -373,6 +373,10 @@ head:
   <!-- END: kesakiyo -->
 - [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
   - [[Paper] Academic 논문 쓰기 가이드라인](https://csj000714.tistory.com/m/1113)
+  - [\[논문리뷰\] Wild-GS: NeRFwithRealWorld + 3D GS + Depth Regularization - Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections (Arxiv 2024)](https://csj000714.tistory.com/m/1224)
+  - [\[논문 리뷰\] NeRF in the Wild(NeRF-W): NeRFwithRealWorld + Embedding - Neural Radiance Fields for Unconstrained Photo Collections (CVPR 2021 Oral)](https://csj000714.tistory.com/m/1225)
+  - [\[논문 리뷰\] IE-NeRF: NeRFwithRealWorld + Ha-NeRF + Inpainting - Inpainting Enhanced Neural Radiance Fields in the Wild (Arxiv 2024)](https://csj000714.tistory.com/m/1230)
+  - [\[논문 리뷰\] HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting (CVPR 2024)](https://csj000714.tistory.com/m/1232)
   <!-- END: csj000714 -->
 - [`jykim74` / Warehouse of PKI](https://jykim74.tistory.com/m/)
   - [RSA 개인키 특성](https://jykim74.tistory.com/m/275)
@@ -418,6 +422,7 @@ head:
 
 - [Conformal Prediction으로 모델의 불확실성 계산하기](https://pizzathiefz.github.io/posts/introduction-to-conformal-prediction/)
 - [시계열 이상 탐지할 때 데이터 분포가 바뀐다면](https://pizzathiefz.github.io/posts/when-model-meets-new-normals/)
+- [라벨이 불균형하면 오버샘플링을 하라던데](https://pizzathiefz.github.io/posts/is-augmentation-effective-in-improving-prediction-in-imbalanced-datasets/)
 
 ---
 

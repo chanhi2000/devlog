@@ -180,6 +180,7 @@ head:
 - [`@sehyunny` / (번역) Ecma 인터내셔널에서 ECMAScript 2024를 승인했습니다: 새로운 기능은 무엇일까요?](https://velog.io/@sehyunny/ecmascript-2024)
 - [`@qkrtkdwns3410` / 제이쿼리의 `data()` 는 내부적으로 캐싱을 수행한다.](https://velog.io/@qkrtkdwns3410/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC%EC%9D%98-data-%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%88%98%ED%96%89%ED%95%9C%EB%8B%A4)
 - [`@sehyunny` / (번역) 자바스크립트를 두 개의 언어로 분리해야 할까요? 구글이 주도하는 새로운 제안에 대해 의견이 분분합니다.](https://velog.io/@sehyunny/split-js-into-two-languages)
+- [`@surim014` / V8 자바스크립트 엔진](https://velog.io/@surim014/the-v8-javascript-engine)
 
 <!-- END: velog.io -->
 

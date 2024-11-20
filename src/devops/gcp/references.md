@@ -59,6 +59,9 @@ head:
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [Google Analytics API 세팅](https://bbogle2.tistory.com/m/entry/Google-Analytics-API-%EC%84%B8%ED%8C%85)
   <!-- END: bbogle2 -->
+- [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
+  - [사용자 이미지 업로드(JavaScript) -> Google Cloud Vision API 로 이미지 분석](https://aspdotnet.tistory.com/m/3322)
+  <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 
 ---

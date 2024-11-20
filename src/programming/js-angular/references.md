@@ -61,6 +61,17 @@ head:
   - [1일차: Angular 16과 프레임워크의 기본 개념 이해하기](https://aspdotnet.tistory.com/m/3295)
   - [2일차: Angular 16 CLI를 사용해 첫 프로젝트 생성하고 구조 이해하기](https://aspdotnet.tistory.com/m/3296)
   - [3일차: Angular 16 컴포넌트란 무엇인가?](https://aspdotnet.tistory.com/m/3297)
+  - [4일차: Angular 16 데이터 바인딩의 기초 - 화면에 데이터 표시하기](https://aspdotnet.tistory.com/m/3298)
+  - [5일차:  Angular 16 이벤트 바인딩 - 사용자 인터랙션 처리하기](https://aspdotnet.tistory.com/m/3316)
+  - [6일차: Angular 16  지시자 (Directives) 이해하기](https://aspdotnet.tistory.com/m/3300)
+  - [7일차: Angular 16 서비스와 의존성 주입 (DI) 기초](https://aspdotnet.tistory.com/m/3318)
+  - [8일차: Angular 16 Angular의 라우팅과 네비게이션](https://aspdotnet.tistory.com/m/3319)
+  - [9일차: Angular 16 템플릿 기반 폼으로 사용자 입력 받기](https://aspdotnet.tistory.com/m/3303)
+  - [9일차: Angular 16 템플릿 기반 폼으로 사용자 입력 받기](https://aspdotnet.tistory.com/m/3324)
+  - [10일차: Angular 16 반응형 폼과 폼 유효성 검사 기초](https://aspdotnet.tistory.com/m/3304)
+  - [11일차: Angular 16 에서 HTTP 요청하기](https://aspdotnet.tistory.com/m/3305)
+  - [11일차: Angular 16 에서 HTTP 요청하기](https://aspdotnet.tistory.com/m/3325)
+  - [12일차: Angular 16 Observable과 RxJS 기초](https://aspdotnet.tistory.com/m/3306)
   <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 

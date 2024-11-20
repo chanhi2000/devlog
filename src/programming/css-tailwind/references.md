@@ -32,7 +32,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-tailwindcss"/>
+## <FontIcon icon="iconfont icon-tailwindcss"/>Tailwind CSS
 
 - [Tailwind Connect 2023: Recap of our first in-person event](https://tailwindcss.com/blog/2023-07-18-tailwind-connect-2023-recap)
 - [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
@@ -47,10 +47,20 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@composite` / Monorepo 및 Workspace 프로젝트에서 tailwindcss 팁](https://velog.io/@composite/Monorepo-%EB%B0%8F-Workspace-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-tailwindcss-%ED%8C%81)
+
+<!-- END: velog.io -->
+
+---
+
 ## üntil
 
 - [`@woongsnote` / Astro에서 "맨 위로" 버튼 추가로 사용자 경험 향상하기](https://until.blog/@woongsnote/astro%EC%97%90%EC%84%9C--%EB%A7%A8-%EC%9C%84%EB%A1%9C--%EB%B2%84%ED%8A%BC-%EC%B6%94%EA%B0%80%EB%A1%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0)
 - [`@yoosioff` / tawilnd shadcn](https://until.blog/@yoosioff/tawilnd-shadcn)
+
+<!-- END: until.blog -->
 
 ---
 
@@ -66,6 +76,8 @@ head:
 ## Marvin Hagemeister Frontend Developer
 
 - [Speeding up the JavaScript ecosystem - Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
+
+<!-- END: marvinh.dev -->
 
 ---
 

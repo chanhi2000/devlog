@@ -774,6 +774,8 @@ head:
   - [서브 디렉토리 별로 포함된 이미지 파일을 딕셔너리에 저장하는 파이썬 코드](https://webnautes.tistory.com/m/2400)
   - [파이썬 이터레이터(Iterator)와 제너레이터(Generator)](https://webnautes.tistory.com/m/2403)
   - [Python - lambda 예제 코드](https://webnautes.tistory.com/m/1486)
+  - [TTS 라이브러리 MeloTTS로 한국어 음성 합성해보기](https://webnautes.tistory.com/m/2356)
+  - [Python 디버깅시 print 대신 IceCream의 ic 사용하세요](https://webnautes.tistory.com/m/2408)
   <!-- END: webnautes -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [[백준] 11656번: 접미사 배열 - python](https://findsilverlining.tistory.com/m/15)
@@ -826,6 +828,7 @@ head:
   - [`poetry`와 github actions를 활용한 파이썬 라이브러리 배포 자동화](https://sjquant.tistory.com/m/97)
   - [Polars 시작하기 (소개 및 설치) - 자주쓰는 명령어로 배우는 Polars #1](https://sjquant.tistory.com/m/104)
   - [Polars로 데이터 불러오기 및 조작하기 - 자주 쓰는 명령어로 배우는 Polars #2](https://sjquant.tistory.com/m/105)
+  - [Polars로 데이터 필터링 및 정렬하기 - 자주 쓰는 명령어로 배우는 Polars #3](https://sjquant.tistory.com/m/106)
   <!-- END: sjquant -->
 - [`bbogle2` / 뽀글뽀글 개발 일지](https://bbogle2.tistory.com/m/)
   - [DOM](https://bbogle2.tistory.com/m/entry/DOM)
@@ -1131,6 +1134,11 @@ head:
 - [\[백준 9655\] 돌 게임](https://davincicoding.tistory.com/m/179)
 - [\[백준 11437\] LCA (재풀이)](https://davincicoding.tistory.com/m/180)
 - [\[백준 25400\] 제자리](https://davincicoding.tistory.com/m/181)
+- [\[백준 2812\] 크게 만들기](https://davincicoding.tistory.com/m/182)
+- [\[백준 2447\] 별 찍기 - 10](https://davincicoding.tistory.com/m/183)
+- [\[백준 20186\] 수 고르기](https://davincicoding.tistory.com/m/184)
+- [\[백준 17623\] 괄호](https://davincicoding.tistory.com/m/185)
+- [\[백준 21760\] 야구 시즌](https://davincicoding.tistory.com/m/186)
 
 <!-- END: davincicoding.tistory.com -->
 
