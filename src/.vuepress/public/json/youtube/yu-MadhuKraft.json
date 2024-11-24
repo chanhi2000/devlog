@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/8ip7KH_WBCkXLu93D0rUTSRsnTLq_dTzwrekuzwDe45luOwa56-wjgrNYYzWBOjNyKVBiTol_Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "channelId": "MadhuKraft", "channelName": "Madhu", "id": "94czqeE4jss", "title": "Self Hosted ChatGPT Alternative (Ollama + Docker)" },
+    { "channelId": "MadhuKraft", "channelName": "Madhu", "id": "KMD72_Wfp3E", "title": "Self Hosted CCTV System w/ AI Object Detection (Frigate+Docker)" },
+    { "channelId": "MadhuKraft", "channelName": "Madhu", "id": "9O6HUTGchG0", "title": "Self Hosted iCloud/Google Photos Alternative! (Immich + Docker)" },
+    { "id": "SNKjJvAXwJo", "title": "How to install Docker on any Operating System" },
+    { "id": "C7vpbxR1Ids", "title": "Host a Minecraft Server Easily on Linux w & w/o Port Forwarding" },
+    { "id": "Wqd7PYfXmh4", "title": "Access Home Servers with a Dynamic DNS (DuckDNS + Docker)" },
     { "id": "ZpZtxfmCfMg", "title": "Host a Website From Your Computer Using Docker & Nginx in 5 Minutes" }
   ]
 }

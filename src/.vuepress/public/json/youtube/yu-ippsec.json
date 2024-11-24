@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/8MA0Jv5ubvTC9cz4R1D8sc0JRO-5BAztZ-JjMNOSyrIRRIE6wysR5KZXm9M3EavKAVrzVzw-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FQGu9jarCWY", "title": "Using PAM EXEC to Log Passwords on Linux" },
     { "id": "sdV8s6EtJ9I", "title": "HackTheBox - Crafty" },
     { "id": "VcxSqLEr3kY", "title": "HackTheBox - Bizness" },
     { "id": "VcxSqLEr3kY", "title": "HackTheBox - Bizness" },

@@ -1,11 +1,18 @@
 {
   "channel": {
     "id": "_wy_choi",
-    "name": "코드남(코드 주는 남자)",
+    "name": "최원영",
     "profile": "https://yt3.googleusercontent.com/STjLOByl-3I9SYUPWQNKDUmWkgKpdMb5SVsBL9v5KDvUTmtIXpzRJZ2R9kDdYSJsCmIPyZpH=s160-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/B77fG6kb0JnlkGPd3dp9RZDR5WVaaiYpw17EkyUbZgQZgaZnFlhz9GrlZaQikvUw-NwfLWazMA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NNUfCbPLnRU", "title": "[엑셀의 한계] 엑셀로 폴더 만들기? GPT, 파이썬과 1초만에 만들기!" },
+    { "id": "koXyFIC_LRE", "title": "엑셀 vs 파이썬_#1 기본 기능 비교해보기" },
+    { "id": "PP2rl5WF7gU", "title": "자산배분 계산기 - 강환국 포트폴리오(feat. 거인의 포트폴리오)" },
+    { "id": "T3dm61Kxl6c", "title": "[코드무료배포] 투자 데이터 자동 수집_매수,매도? 코드로 찾을 수 있습니다." },
+    { "id": "A4aZRPCWvkA", "title": "[7/4(목)] 파이썬 라이브 강의" },
+    { "id": "FzmaWU5d6BI", "title": "[GPT 파이썬 - 심화1] 파이썬은 좀 알겠는데, 이제 뭘 해야 하죠?" },
+    { "id": "2vCizI8Ppzw", "title": "파이썬 돌리면 1시간 30분 걸립니다..." },
     { "id": "9S7m7kNRNzw", "title": "1강_증권사에서 사물함 열쇠 받아오기(API)" },
     { "id": "hFdpuKbptxw", "title": "2강_투자 자동화 계속 하실거라면, 정말 조심하셔야 합니다(보안 데이터)" },
     { "id": "0ZTBiwCyMCs", "title": "[파이썬_3시간] GPT가 적는 코드를 이해할 수 있는 코딩 강의_'세상이 바뀌었는데 왜 코딩은 그대로야?'" },

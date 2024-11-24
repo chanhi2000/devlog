@@ -30,5 +30,6 @@ head:
 <MyYouTubeItems jsonName="yu-Unrealscience" /><!-- 안될과학 Unrealscience -->
 <MyYouTubeItems jsonName="yu-quantumsensechannel" /><!-- Quantum Sense -->
 <MyYouTubeItems jsonName="yu-EugeneKhutoryansky" /><!-- Physics Videos by Eugene Khutoryansky -->
+<MyYouTubeItems jsonName="yu-SerranoAcademy" /><!-- Serrano.Academy -->
 
 <TagLinks />

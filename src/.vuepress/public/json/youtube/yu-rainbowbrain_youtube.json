@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "rainbowbrain_youtube",
+    "name": "레인보우브레인",
+    "profile": "https://yt3.googleusercontent.com/NQV6U5tTXsv8HPOalpm2parB2LPK7XageS-EiKkw2KaT-qE2cVTuQGyl43MJaXGF1ZwIdthZJxE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ws8XdWobraN0u9JliIQt57AMxJIN_MaLUfx52_GnhOLzoyFEHx5NBarpVEjT-O_HOolnHTSlawU=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Z33dAFNVQ3k", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | 기업의 적극적인 LLM 대비​ EP7." },
+    { "id": "Z33dAFNVQ3k", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | 기업의 적극적인 LLM 대비​ EP7." },
+    { "id": "nOvN430Lmkw", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | LLM과 결합한 클라우드의 약진 EP6." },
+    { "id": "VBCtIt_-I-8", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | 에이전트와 멀티 모달로 강화되는 RAG EP4." },
+    { "id": "SJMhouVmRJ0", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | 빅데이터를 넘어선 데이터 중심의 프로세스 정립 EP5." },
+    { "id": "kCmxJtpwl0E", "title": "✨2024 Automation Anywhere 생성형AI 웨비나 | 생성형 AI 랜드스케이프 확장 EP2." },
+    { "id": "yuPun7u2obw", "title": "✨2024 Automation Anywhere 생성형AI 웨비나 | 생성형AI 도입을 위한 기업 나침반 EP1." },
+    { "id": "1v31R2A57rw", "title": "✨2024 Automation Anywhere 생성형 AI 웨비나 | 엣지향 LLM의 등장 EP3." }
+  ],
+  "playlists": [
+
+  ]
+}

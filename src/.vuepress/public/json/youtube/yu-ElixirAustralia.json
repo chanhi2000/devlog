@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "ElixirAustralia",
+    "name": "Elixir Australia",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nM2C1MCclM4xfHrKUhsTfObIyRAbY95WRynfFhsvFkaA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8p3gT_4urskRcq49AKxfHa8AadM88Pk6hQhNYoA7--BCogtq61jf5Cv8gFk3EbiwXiBgIIp56Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zf4kyBcOdNE", "title": "Self Aware Applications with Ash - Josh Price" },
+    { "id": "li1MRJPmhOI", "title": "Elixir's new Set Theoretic Type System - Robert Ellen" },
+    { "id": "p55crhsJp08", "title": "BulmaComponents: a new CoreComponents library for Phoenix - David Parry" },
+    { "id": "Es08MRtSkoE", "title": "A Practical Guide to Machine Learning in Elixir - Chris Grainger" },
+    { "id": "9d1y1x8Ezpw", "title": "Working with OpenAI APIs in Elixir - Josh Price" },
+    { "id": "Du9Xw8Rf0Io", "title": "Type Check - Nicholas Hammond" }
+  ],
+  "playlists": [
+
+  ]
+}

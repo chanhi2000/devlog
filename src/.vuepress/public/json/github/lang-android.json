@@ -853,5 +853,40 @@
     "topics": ["android", "kotlin", "google", "jetpack", "gemini", "openai", "chatbots", "compose", "hacktoberfest", "claude", "jetpack-compose", "chatgpt", "anthropic", "ollama", "ollama-app", "ollama-api"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/9220706bb8a4ab70f15574cac7e8eecb1c78452083c3a40edaad4e3ae6f7c5fc/Taewan-P/gpt_mobile"
+  }, {
+    "repo": "eygraber/compose-material3-navigation",
+    "desc": "A library which provides Compose Material3 support for Jetpack Navigation Compose. This features composable bottom sheet destinations.",
+    "officialSite": "",
+    "topics": ["bottom-sheet", "compose", "bottomsheet", "androidx-navigation", "material3"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/98f0bca57d9c7b06c014ffb484e35a512e2ea682d004e22cc44dc5f7b598540a/eygraber/compose-material3-navigation"
+  }, {
+    "repo": "a-sit-plus/vck",
+    "desc": "Kotlin Multiplatform library implementing W3C VC Data Model and ISO 18013-5 mDL",
+    "officialSite": "https://a-sit-plus.github.io/vck/",
+    "topics": ["ssi", "wallet", "mdl", "koltin", "kotlin-multiplatform", "verifiable-credentials", "sd-jwt", "openid4vp", "openid4vci", "openid4vc", "iso-18013-5", "eudi-wallet"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/602578639/f7f9b493-5343-4702-b9e3-c5873d62e78f"
+  }, {
+    "repo": "ComposeGears/Valkyrie",
+    "desc": "SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without compilation, CLI tool",
+    "officialSite": "",
+    "topics": ["svg", "cli", "converter", "xml", "intellij-plugin", "compose", "previewer", "androidstudio-plugin", "compose-multiplatform", "imagevector"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/778162113/fefe9f16-37fb-4d18-b560-8c31862c2b80"
+  }, {
+    "repo": "Tweener/alarmee",
+    "desc": "A Kotlin/Compose Multiplatform library for effortless alarm and local notification scheduling on both Android and iOS.",
+    "officialSite": "/Tweener/kmplate-lib",
+    "topics": ["notifications", "android", "alarm", "ios", "mobile", "scheduler", "compose", "kotlin-multiplatform", "compose-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/883711432/f275a1f5-a8d8-4daf-95e3-41ea2179acec"
+  }, {
+    "repo": "msasikanth/twine",
+    "desc": "Twine: A multiplatform RSS reader built using Kotlin and Compose",
+    "officialSite": "/JetBrains/compose-multiplatform-template",
+    "topics": ["kotlin-multiplatform", "compose-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/632826313/d9d51481-594f-4b44-8745-b1c8f960275e"
   }
 ]

@@ -874,5 +874,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/66e503583bddc63f77120a144873ff5ab877ccf656da75f4d1b5367f7f872a3d/huggingface/chat-macOS"
+  }, {
+    "repo": "mikelikesdesign/SwiftUI-experiments",
+    "desc": "Examples with SwiftUI that showcase various interactions, animations and more",
+    "officialSite": "",
+    "topics": ["swiftui", "swiftui-example", "swiftui-demo"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2d803856bf69dddf4f87e21a4d75282001e602c8ce9c323424fbd66f54b83b53/mikelikesdesign/SwiftUI-experiments"
+  }, {
+    "repo": "marioaguzman/NSDockTilePlugIn-Example",
+    "desc": "Learn how to use NSDockTilePlugIn with this sample project and host app called Sherlock. Please note that NSDockTilePlugIn is not allowed on the Mac App Store so this is only for Mac apps shipping ...",
+    "officialSite": "https://developer.apple.com/documentation/appkit/nsdocktileplugin",
+    "topics": ["macos", "cocoa", "appkit"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/25bad45a3c761302ed7bac5ec10d5be99d009b4708be85d73f43d3337fa468f8/marioaguzman/NSDockTilePlugIn-Example"
+  }, {
+    "repo": "finnvoor/SwiftUIFX",
+    "desc": "A Final Cut Pro plugin to render SwiftUI views on your video",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/882102431/2891cb11-f92b-4d97-8566-ab2c0f616667"
   }
 ]

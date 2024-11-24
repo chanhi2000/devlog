@@ -75,5 +75,6 @@ head:
 <MyYouTubeItems jsonName="yu-개발하는약사" /><!-- 개발하는 약사 DevPharmacist -->
 <MyYouTubeItems jsonName="yu-devlearnllm" /><!-- LLMs for Devs -->
 <MyYouTubeItems jsonName="yu-Computerphile" /><!-- Computerphile -->
+<MyYouTubeItems jsonName="yu-rainbowbrain_youtube" /><!-- 레인보우브레인 -->
 
 <TagLinks/>

@@ -46,5 +46,7 @@ tag:
 <MyYouTubeItems jsonName="yu-incutv" /><!-- 개발자 인큐티비 -->
 <MyYouTubeItems jsonName="yu-노말이" /><!-- 노말이 -->
 <MyYouTubeItems jsonName="yu-itnote" /><!-- 이임복의 일상IT -->
+<MyYouTubeItems jsonName="yu-mantechsolution" /><!-- 맨텍솔루션 -->
+<MyYouTubeItems jsonName="yu-ycombinator" /><!-- Y Combinator -->
 
 <TagLinks />

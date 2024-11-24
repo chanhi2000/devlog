@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "IsaacHarrisHolt",
+    "name": "Isaac Harris-Holt",
+    "profile": "https://yt3.googleusercontent.com/HfkVH9AD63d7zXOffCmC8o5K9lfuM_WwsJPX7qYhA6VwW3wQ-OturhCWjJbHfMgNnYb_vso-24U=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6ejeEFNSEPjRnPfJkfhG-CEhDtQmQXFIZq5MCqtUdSrP2XABnh5x-2mVOWliL1DpxdHPcJG_dA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "92b5-yPZfxQ", "title": "You don't need loops" },
+    { "id": "bzvYJHRrin0", "title": "Simple Realtime in Gleam with Lustre Server Components" },
+    { "id": "wFje2kP4FWg", "title": "Polar for Impatient Devs" },
+    { "id": "q9j5V8CDPQY", "title": "Slash Lustre Load Times with Server Side Rendering" },
+    { "id": "SheuSu3Slzw", "title": "How to Deploy Gleam Apps Anywhere" },
+    { "id": "uvQL-xJWGwI", "title": "Gleam is not Rust" },
+    { "id": "mreYmQc306c", "title": "Everything you need to know about FFI in Gleam" },
+    { "id": "tHJJ8CZ0_ak", "title": "Pevensie Password Hashing | Laravel for Gleam" },
+    { "id": "T3pcb3o415c", "title": "Errors as Values are the Future" },
+    { "id": "8rCgnKHUUVA", "title": "The Ultimate Guide to Gleam Concurrency" },
+    { "id": "D88S_RdagP8", "title": "Your backend is too complicated" }
+  ],
+  "playlists": [
+
+  ]
+}

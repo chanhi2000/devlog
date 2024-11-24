@@ -2,6 +2,20 @@ import { navbar } from "vuepress-theme-hope";
 
 export const navbarEn = navbar([
   {
+    text: '', // About
+    icon: 'fas fa-house',
+    children: [
+      {
+        text: 'Portfolio',
+        icon: 'fas fa-pen-nib',
+        link: '/about/README.md',
+      }, {
+        text: '지노시스템(주)',
+        icon: '/images/about/ginno/logo.jpeg',
+        link: '/about/ginno/README.md',
+      }
+    ]
+  }, {
     text: '', // Projects
     icon: 'fas fa-industry',
     children: [
@@ -9,10 +23,6 @@ export const navbarEn = navbar([
         text: 'My Roadmap',
         icon: 'fas fa-flag-checkered',
         link: '/projects/roadmap/README.md'
-      }, {
-        text: 'Portfolio',
-        icon: 'fa-brands fa-fort-awesome',
-        link: '/projects/portfolio/README.md',
       }, {
         text: 'Lifeguide',
         icon: 'fas fa-compass',

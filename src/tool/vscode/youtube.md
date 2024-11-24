@@ -31,5 +31,6 @@ tag:
 <MyYouTubeItems jsonName="yu-CodeBeauty" /><!-- CodeBeauty -->
 <MyYouTubeItems jsonName="yu-codeandcreate" /><!-- Code And Create -->
 <MyYouTubeItems jsonName="yu-thecodingclub-sp5cx" /><!-- 더코딩클럽 -->
+<MyYouTubeItems jsonName="yu-후츠릿" /><!-- 후츠릿 - 감성을 코딩하는 개발자 -->
 
 <TagLinks />

@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "OpenSauced",
+    "name": "The Secret Sauce",
+    "profile": "https://yt3.googleusercontent.com/tPGMbBcxqIEImjjmFfzFjZWDQbwojPP4Q7vP7s4y-QPfoe_P62teDrHyQLtjFjSAU4c4dz9a=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wS1W86H7epCSFRhtbxklgRLeWtJgxTRoOv-AjQc3ORWOMGJLFMCFb6Zchhtzk5axfd2ukYx1uA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yINL-uIvhn0", "title": "Pizza CLI Demo" },
+    { "id": "sX9XGfNgkCk", "title": "Login to OpenSauced with the Pizza CLI" },
+    { "id": "WCideO-A5WM", "title": "Get Insights about Open Source Projects from Your Terminal" },
+    { "id": "zyLEqRd55lY", "title": "Get Insights into Your Open Source Contributors" },
+    { "id": "OzvRvk87ZJg", "title": "How to Install the Pizza CLI" },
+    { "id": "WiQ6dW2j6v8", "title": "How to Create a Config File with the Pizza-CLI" },
+    { "id": "GKH8EfxgILA", "title": "How to Create a CODEOWNERS file with the Pizza-CLI" },
+    { "id": "vdwHJuR4FwU", "title": "Developer Influencer | Cassidy Williams" },
+    { "id": "pCxHmyd1Yns", "title": "Introducing OpenSSF integration for OpenSauced" },
+    { "id": "4vZTJPtIm2o", "title": "Introducing the OSCR: Celebrating Open Source Stars" },
+    { "id": "l319qDFm9r8", "title": "Find Top Open Source Talent With Our Unique Rating System: OSCR" },
+    { "id": "5TRc3e0u8Pk", "title": "Product Market Fit With Short Links | dub.co | Steven Tey" },
+    { "id": "UaGpeiE3-uM", "title": "How OpenSauced Builds Huge Scale AI Systems" },
+    { "id": "20z99mfIb0E", "title": "Building AI Agents with GitHub Data - OpenAI function calling loops (Clip)" },
+    { "id": "_dQEpVIlcNM", "title": "GitHub Insights But Better" },
+    { "id": "hky_WSHaoBg", "title": "Gaining Traction in Open Source" },
+    { "id": "MQbkN99eBD8", "title": "The secret behind Kubernetes | Kelsey Hightower" },
+    { "id": "4_uYqae42uc", "title": "Why is Vite Everywhere? | Evan You" },
+    { "id": "1dRCOcvCZFk", "title": "Why Does Angular Need A Meta Framework?" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "cococry",
+    "name": "Cococry",
+    "profile": "https://yt3.googleusercontent.com/yfK92OcOamUKYgw8KHW4JsTbgKweFA4yWheQ3a6RPTYojKPYefxRwuLJx_DEQVDgoxW4bxIVFU8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OkahFn9WU-jEGdJ_MFdK9fmfadEOUwWxatH-buLD2NVKzIy0nMBi-cfGFPfud7v3JtpJEvPUqA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0ryGP6cWDqk", "title": "Writing a Software Renderer from scratch in C - Part 1" },
+    { "id": "NIibwfuEKss", "title": "Writing a Software renderer from scratch in C - Part 2" },
+    { "id": "li9f7fyiX6M", "title": "Writing an Animation System for my UI Framework in C" },
+    { "id": "jUqTQCsmTsw", "title": "Writing a Software Renderer in C from Scratch | Part 3" },
+    { "id": "sZa6rfqUjJI", "title": "Making a GUI Text Editor from Scratch in C" },
+    { "id": "NeZNM3u6ZdY", "title": "The perfect Neovim IDE Setup in 2024" },
+    { "id": "hCoHy7tnTbs", "title": "Making a Game in a random Programming Language" },
+    { "id": "z2jFWBE13xg", "title": "Making a Game in a random Programming Language" },
+    { "id": "YO3N9HIzqY4", "title": "Making a Game in a Language i know nothing about" },
+    { "id": "22Upv2T0M6U", "title": "Making a retained mode UI framework in C" },
+    { "id": "xf2W1wZozbk", "title": "Make a GUI Task Management  App in pure C (no bloat required)" },
+    { "id": "5hUL1mH64Is", "title": "The beauty of unixporn | ragnarwm" },
+    { "id": "2oJTEpc9qmc", "title": "Make a GUI Calculator in C like a real Chad" },
+    { "id": "uiArfZL0FFg", "title": "Install & Configure RagnarWM the best way" },
+    { "id": "Vt8RRPR3eRs", "title": "How I made an own Window Manager in C (I'm 15)" }
+  ],
+  "playlists": [
+
+  ]
+}

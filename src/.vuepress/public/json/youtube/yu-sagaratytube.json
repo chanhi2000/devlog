@@ -6,6 +6,17 @@
     "banner": ""
   },
   "videos": [
+    { "id": "GPqV6rLfKR4", "title": "Nushell: A new type of shell!" },
+    { "id": "O_Dm7J5j_jk", "title": "The Easiest Way to Deploy a Kubernetes Cluster | Step-by-Step Guide for Beginners" },
+    { "id": "ihUJNb4GpAQ", "title": "Terraform scratch course in 7 minutes!" },
+    { "id": "tDfs67SYwII", "title": "This extension turns your PostgresSQL to Mammoth." },
+    { "id": "TaTqdQ92svk", "title": "From Zero to Hero: The Only Jenkins Tutorial You'll Ever Need!" },
+    { "id": "X3KBfnrSbKw", "title": "JWT Tokens in Minutes: Boost Your App's Security Instantly!" },
+    { "id": "DCeh1USebns", "title": "Remotion: Create Videos Programmatically!" },
+    { "id": "c773YRyBprw", "title": "Unknown Bash shell Tips and Tricks you Must know!" },
+    { "id": "M-ulCUSbQZs", "title": "From Zero to Kubernetes Hero: In 20 Minutes." },
+    { "id": "HZT2sFWcVuI", "title": "SonarQube: Ultimate Quality Gate for your CI/CD Pipeline." },
+    { "id": "xAtv2USvEbg", "title": "Big Data: Apache Spark Demo In Five Minutes ⏰" },
     { "id": "_FdMz8LpLjk", "title": "50 Linux Commands for Absolute Beginners in 10 minutes!!!" },
     { "id": "lojAgyGnzc0", "title": "NeoVim with LazyVim: The most feature rich editor for programming." },
     { "id": "NI4-YIwsstE", "title": "Start Your Data Engineering Journey here!!!" },

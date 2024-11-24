@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "TheoThrowaways",
+    "name": "Theo Throwaways",
+    "profile": "https://yt3.googleusercontent.com/JU-jBwWav0FYTqGO2A1bgIx2IAbnT-bD5fBZxm-fseqYzSFuDNOx8ar-03F3di2CLjDoy6fnJw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XSb4Lul0qlc", "title": "I tried to explain the whole Wordpress drama" },
+    { "id": "inJuVsjBtek", "title": "Ranting about venture capital and startups (with a special guest)" },
+    { "id": "ahVVh41p6GI", "title": "I have 4 PCs and I hate all of them" },
+    { "id": "BY6qiHv0anc", "title": "I Was Wrong About Laravel?" },
+    { "id": "1IEoYH1XphQ", "title": "Why You Should Launch More Than Once (Theo Rants About YC Advice)" },
+    { "id": "YtPU7j7ZqPg", "title": "The Games That Inspired Me To Code" }
+  ],
+  "playlists": [
+
+  ]
+}

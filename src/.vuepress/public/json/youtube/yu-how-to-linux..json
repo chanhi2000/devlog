@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/RVH4RGuSmWyDMMTHIL_NWE-UHytvEtF1cxX3MLehDLAaHjBQ66TzXFZfb4XmoG_XoTfDqSj7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ltepqJcQrRU", "title": "How to install PIP on Rocky Linux." },
+    { "id": "LCligJ4l9y0", "title": "How to install Zen Browser on Pop Linux 22." },
+    { "id": "Tat9utA9SFw", "title": "How to install COSMIC DE on OpenSUSE Tumbleweed." },
+    { "id": "eEbIjfgUsxA", "title": "How to add Chaotic-AUR to Endeavour Linux." },
+    { "id": "pyG_ofKk1ho", "title": "How to install COSMIC Desktop on Endeavour Linux." },
+    { "id": "-kXXVu_7z-w", "title": "How to install No Machine on Fedora Linux 40." },
+    { "id": "4IkvxTyCk6Y", "title": "How to install COSMIC DE on Fedora 40." },
+    { "id": "DcG_GT6HVac", "title": "How to install Shotcut on Pop! OS Linux 22.04" },
+    { "id": "zxOWiDIIYr4", "title": "How to install Bottles on Pop! OS Linux 22.04" },
+    { "id": "AkTyruyj-HM", "title": "How to install Kaspersky Virus Removal Tool on Pop OS Linux 22.04" },
+    { "id": "zAmtOW6t1bk", "title": "How to install Mixxx on Pop OS Linux 22.04" },
+    { "id": "XHgZP7IUaTY", "title": "How to install Darktable on Pop! OS  Linux 22.04" },
     { "id": "5aclZ2kXtfA", "title": "How to install No Machine on Pop OS Linux 22.04" },
     { "id": "Q11YQpQSTXs", "title": "How to install Kubernetes on Pop!_OS Linux 22.04" }
   ],

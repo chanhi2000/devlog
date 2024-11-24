@@ -150,5 +150,8 @@ head:
 <MyYouTubeItems jsonName="yu-승호의요리이야기" /><!-- 쿡톡 (빛 & 소금) -->
 <MyYouTubeItems jsonName="yu-channelId" /><!-- table diary 식탁일기 -->
 <MyYouTubeItems jsonName="yu-subuhae" /><!-- 수산물을부탁해TV 수부해 -->
+<MyYouTubeItems jsonName="yu-joescott" /><!-- Joe Scott -->
+<MyYouTubeItems jsonName="yu-woose4175" /><!-- 우쓰의 홈레코딩 [WOOSE] -->
+<MyYouTubeItems jsonName="yu-gang_diet" /><!-- 강식단 -->
 
 <TagLinks />

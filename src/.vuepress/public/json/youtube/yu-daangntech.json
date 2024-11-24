@@ -6,7 +6,37 @@
     "banner": "https://yt3.googleusercontent.com/rHZolXqESmuPZ9fnKXBAvr5NQo_UWTxc28qqawnoCyc7aXoxmar9F4WkJHWGwSUM_Vl_1OwXcQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "34nhOoRYMmc", "title": "아이콘, 브랜딩 에셋까지 디자인시스템으로 | 2024 당근 테크 밋업" },
+    { "id": "8s_EH2y17to", "title": "MongoDB On Kubernetes | 2024 당근 테크 밋업" },
+    { "id": "1ci_oSDbO1w", "title": "궁극의 CI 환경을 만들기 위한 여정 | 2024 당근 테크 밋업" },
+    { "id": "4UD4EB00AME", "title": "아니, 여기도 웹뷰였어요? | 2024 당근 테크 밋업" },
+    { "id": "4XpZpplWJBw", "title": "온콜, 알림만 보다가 죽겠어요 | 2024 당근 테크 밋업" },
+    { "id": "4tZbWyeujK8", "title": "프레임워크부터 플랫폼까지: 당근 웹뷰 플랫폼 | 2024 당근 테크 밋업" },
+    { "id": "523tajUabV0", "title": "비용이 왜 튀었는지 저도 몰라요 | 2024 당근 테크 밋업" },
+    { "id": "Cs09fzdJo5Y", "title": "추천 서빙 시스템 아키텍처: 높은 생산성을 위한 아키텍쳐 및 ML Flywheel | 2024 당근 테크 밋업" },
+    { "id": "Hh9zcth4UcI", "title": "멈춰버린 세계: 네트워크 통신 불가를 해결하기 위한 여정(feat. Istio) | 2024 당근 테크 밋업" },
+    { "id": "I_i3jbQn_tg", "title": "지표 통합과 탐색: KarrotMetrics와 Explorer로 가치 있는 의사결정하기 | 2024 당근 테크 밋업" },
+    { "id": "R7ecb7xKDj0", "title": "수십억 개 연결이 존재하는 당근 그래프에서 GNN 학습하기 | 2024 당근 테크 밋업" },
+    { "id": "RoPDpbcmf6k", "title": "지역 기반으로 중고거래 검색을 샤딩하라 | 2024 당근 테크 밋업" },
+    { "id": "UGjRhqZygHg", "title": "ㅎㅖ어져서 팝니ㄷr ☆: LLM과 임베딩 유사도로 빠르게 패턴을 바꾸는 업자 잡아내기 | 2024 당근 테크 밋업" },
+    { "id": "Y26O0rvyV1Q", "title": "우리 동네 어디까지 좁아지는 거예요? 자연경계로 좁혀보는 우리 동네 | 2024 당근 테크 밋업" },
+    { "id": "_F6k0tg8ODo", "title": "당근 채팅 시스템은 어떻게 만들까? | 2024 당근 테크 밋업" },
+    { "id": "_REBGLiINzY", "title": "당근의 회원 시스템을 마이크로서비스로 분리하기 | 2024 당근 테크 밋업" },
+    { "id": "a26zrAqAAzo", "title": "웹/웹뷰 코드 합치면 개발 2배 빨라지는 거 아니었어요? | 2024 당근 테크 밋업" },
+    { "id": "abdIqj9dxww", "title": "당근페이 데이터플랫폼 구축기 | 2024 당근 테크 밋업" },
+    { "id": "bWfWFAMbJQ4", "title": "중고거래 시멘틱서치 도입기: 꽁꽁 얼어붙은 키워드 위로 벡터가 걸어다닙니다 | 2024 당근 테크 밋업" },
+    { "id": "e4iWEeJ5MvQ", "title": "프론트엔드에게 배포플랫폼이란 - nothing or everything | 2024 당근 테크 밋업" },
+    { "id": "g9FL8hKoNqE", "title": "내 타입스크립트 코드가 이렇게 느릴 리 없어! | 2024 당근 테크 밋업" },
+    { "id": "ok_unWmdBuA", "title": "잃어버린 시간, 인프라 자동화로 되찾다 | 2024 당근 테크 밋업" },
+    { "id": "pD807v7AJeg", "title": "GraphQL Schema 기반으로 협업하고 생산성 높이기 | 2024 당근 테크 밋업" },
+    { "id": "qRXbPTHJW38", "title": "당근알바 초기 엔지니어링 전략: 빠르게, 빠르게, 더 빠르게 | 2024 당근 테크 밋업" },
+    { "id": "qYo0R2nv1PQ", "title": "당근 추천 알고리즘 - 홈피드 후보모델 파헤치기 | 2024 당근 테크 밋업" },
+    { "id": "wQIjeVyVU5s", "title": "빠르게 변하는 운영 도메인에서 살아남는 코드 만들기 | 2024 당근 테크 밋업" },
+    { "id": "zheA2qdyCnM", "title": "Kafka 뉴비의 마이그레이션, 산 넘고 물 건너 | 2024 당근 테크 밋업" },
+    { "id": "TAxFt3w5p-M", "title": "우리는 Customer Service에 ML을 잘못 적용하고 있었다! | 당근 ML 밋업 1회" },
+    { "id": "TcG3JjPIXVc", "title": "당근 홈피드의 진화와 역사 | 당근 ML 밋업 1회" },
+    { "id": "NzxlIGPbICY", "title": "LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회" },
+    { "id": "gTXBr2r1104", "title": "당근 ML인프라 A to Z : 현재와 미래 | 당근 ML 밋업 1회" }
   ],
   "playlists": [
     {

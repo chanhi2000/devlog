@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "AlfieMarsh",
+    "name": "AI Alfie",
+    "profile": "https://yt3.googleusercontent.com/Z2KD1W49Klw7qy7soOF5LGQV15JEmcI0NrtCbE6rlgelbs5M-TMjld4mdXnQFXp0jM5iXM9Cibk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/H8nCHk-u5bvuI0XI6T9ufaM0Rqerg_LOBT-tfvsFzDzYxp4vPiDm0ZVOmmLtuO7CrEbv1vfRmK0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "channelId": "AlfieMarsh", "channelName": "AI Alfie ", "id": "C55a9rQIW50", "title": "GPT 4o demo - What Everyone's Missing" },
+    { "channelId": "AlfieMarsh", "channelName": "AI Alfie ", "id": "ddpEiLHHgrM", "title": "Building AI Agents Without Code (2024)" },
+    { "channelId": "AlfieMarsh", "channelName": "AI Alfie ", "id": "RYk-s34hTtM", "title": "Claude vs ChatGPT vs Gemini: Which AI Rules 2024?" }
+  ],
+  "playlists": [
+
+  ]
+}

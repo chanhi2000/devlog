@@ -48,5 +48,6 @@ head:
 <MyYouTubeItems jsonName="yu-learningspoons" /><!-- 러닝스푼즈 - 성장이 필요한 순간 -->
 <MyYouTubeItems jsonName="yu-notionactually" /><!-- 노션다움 - 노션을 나만의 비서로! -->
 <MyYouTubeItems jsonName="yu-creative_cove" /><!-- Creative Cove -->
+<MyYouTubeItems jsonName="yu-life_debugger" /><!-- 친절한 개발자, 제임스 -->
 
 <TagLinks />

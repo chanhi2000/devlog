@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/tQXtysdgbOwN8Idc5WmGBAjAaEd8O9tnbz4grlLtufpOqmcSnfYpfthAEk5yKoVJ0lP8nx3O=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DZDwnTWig9c", "title": "Cursor AI Crash Course: boost Your Productivity with AI-Powered Coding" },
+    { "id": "4p_VWn1AEvg", "title": "React Context API Tutorial with examples | Advanced React" },
+    { "id": "pgnfQvkPyNQ", "title": "Build an AI powered twitter Bio Generator Using Next.js and Groq | Shadcn | Llama 3" },
     { "id": "T5t46vuW8fo", "title": "Build an Amazing Personal Portfolio Website with Next.js, Three.js & Tailwind CSS" },
     { "id": "Xg7U2efv1M0", "title": "Create Stunning Animations with Wix Studio: A Step-by-Step Tutorial" },
     { "id": "1QGLHOaRLwM", "title": "Next.js 13 Blog Tutorial: Build SEO Optimized Blog with Next.js, Contentlayer, and Tailwind CSS 🔥" },

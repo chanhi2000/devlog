@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/dLK9Xv_WEs0fOpH-5qNhLvBfeXrYGrRCkgjm15MDvfVawsFDdaZiXI2oyYCsPbYPWuVN6DU-3Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "9-iGg08evrE", "title": "21. Longest Palindromic Substring" },
+    { "id": "rrDYP7NBakU", "title": "19. Group Anagrams" },
+    { "id": "vt7RYmyc6qE", "title": "20. Valid Parentheses" },
+    { "id": "PiTmYYmpG0w", "title": "Fundamental concepts about strings in Go." },
+    { "id": "8BJmd5vhgiE", "title": "15. Longest Substring Without Repeating Characters" },
+    { "id": "M-lvCYePnTA", "title": "16. Longest Repeating Character Replacement" },
+    { "id": "yKQawP1H1m8", "title": "17. Minimum Window Substring" },
+    { "id": "RMvr4eB2SbU", "title": "18. Valid Anagram" },
+    { "id": "c618ao2xDIU", "title": "11 . Set Matrix Zeroes" },
+    { "id": "-qy4JBmt1bI", "title": "13. Rotate Image" },
+    { "id": "nsgnfx6UPyY", "title": "14. Word Search" },
     { "id": "JwRg6aWASio", "title": "10. Container With Most Water" },
     { "id": "jejmKu-wD2k", "title": "6.Maximum Product Subarray" },
     { "id": "SEEeRrmaVzA", "title": "8.Search in Rotated Sorted Array" },

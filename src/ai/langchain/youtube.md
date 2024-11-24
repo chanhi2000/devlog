@@ -35,5 +35,6 @@ head:
 <MyYouTubeItems jsonName="yu-deployingai" /><!-- Deploying AI -->
 <MyYouTubeItems jsonName="yu-samwitteveenai" /><!-- Sam Witteveen -->
 <MyYouTubeItems jsonName="yu-devlearnllm" /><!-- LLMs for Devs -->
+<MyYouTubeItems jsonName="yu-jj362choi" /><!-- 옥탑방개발자 -->
 
 <TagLinks />

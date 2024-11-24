@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "rlhugh",
+    "name": "RL Hugh",
+    "profile": "https://yt3.googleusercontent.com/tt3UY-fFj69NuK0S2TKlM0woS-d_H8_19o4VyTmt6asPETUKqSyUTZhMyloDazqUurWhshaA_A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "x6mcua0HOJs", "title": "Real-time Eulerian fluid simulation on a Macbook Air, using GPU shaders" }
+  ],
+  "playlists": [
+
+  ]
+}

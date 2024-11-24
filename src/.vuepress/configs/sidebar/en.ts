@@ -2,6 +2,34 @@ import { sidebar } from 'vuepress-theme-hope'
 import { articleSidebars as asb } from './articles'
 
 export const sidebarEn = sidebar({
+  '/about/': [
+    {
+      text: 'Portfolio',
+      icon: 'fas fa-pen-nib',
+      children: [
+        '/about/README.md',
+        {
+          text: '지노시스템(주)',
+          collapsible: true,
+          icon: '/images/about/ginno/logo.jpeg',
+          children: [
+            '/about/ginno/README.md',
+            '/about/ginno/spms.md',
+            '/about/ginno/safecity.md',
+            '/about/ginno/ndms.md',
+          ]
+        }, 
+        {
+          text: '풀이러닝(주)',
+          collapsible: true,
+          icon: '/images/about/poole/poolemath-ico.png',
+          children: [
+            '/about/poole/README.md',
+          ]
+        }
+      ]
+    }
+  ],
   '/programming/': [
     {
       text: '/Programming',
@@ -3598,7 +3626,7 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-plane',
       children: [
         '/projects/travel/README.md',
-        '/projects/travel/asia.md',
+        // '/projects/travel/asia.md',
         '/projects/travel/references.md',
       ]
     }, {

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/r_lmUOu3afstlrXYwPvm5RYIwkRc1w7KPpRUw8jw4_KnIlVRSKBCVksUES13UcqRZvKyQ05_=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Zr0Cqqbmmuc", "title": "local PR review, git worktrees, find breaking changes (go)" },
+    { "id": "Uf4wiY5bchk", "title": "update: doom emacs && dotfile management" },
     { "id": "MHa3AZw8I_U", "title": "programming and being a good person" },
     { "id": "8wgokv5uzm4", "title": "vibin + workin (pomodoro)" },
     { "id": "RPona9LJYv4", "title": "learning elm, so I don't need to use javascript" },

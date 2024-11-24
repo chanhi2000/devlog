@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "Pybites",
+    "name": "Pybites",
+    "profile": "https://yt3.googleusercontent.com/kK3g1qrFAX_JX3uMgGipCAlGVc1Qv3AVZhxCJs0RbPBVhcE4VhFsrECfEDlPnRe-OMG6asI4bw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qocDb-Y3T6IYd9mx5YOhZsuUdzDQZTyKNWL95IOKdJCHwQ5_xywPM-rDCt8Ye9zznRe0xz2n_g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lrUh30gDU-0", "title": "#177 - From Dancing to Python: Sara Moad's Inspiring Tech Transition" },
+    { "id": "byynvdS_7ac", "title": "Pybites Podcast #175 - Charlie Marsh on Ruff, uv and designing fast + ergonomic Python tooling" },
+    { "id": "j2R-LcquDLs", "title": "Sherry's Journey in PDI" },
+    { "id": "QgBdp93vWTo", "title": "Pybites Podcast #176 - Leveraging Rust: Dan Dresser’s Journey to Speed Up His Trading App" },
+    { "id": "0K-jGHzVjaE", "title": "Pybites Podcast #172 - From Punch Cards to Git: The Legendary Journey of Jeff Haemer" },
+    { "id": "pyet06uYsJk", "title": "Pixi : The Ultimate Tool for Cross Platform Developers" },
+    { "id": "QZelaYFx46s", "title": "Pybites Podcast #174 - Mastering Productivity: How Tanner Martin Takes Control of His Time" },
+    { "id": "SDLwYNwoi68", "title": "Pybites Podcast #170 - Advancing Python Packaging: A Deep Dive with the Pixi Team" },
+    { "id": "gRRNpGYHPWQ", "title": "Pybites Podcast #171 - Hypermodern Python with Claudio Jolowicz" },
+    { "id": "DtVNAiNAZvQ", "title": "Balancing Open Source and Full Time Work : Insights from Pixie Developers" },
+    { "id": "9ZVTl0ZiZ48", "title": "[Newbie Bites] #29. Default Arguments" },
+    { "id": "iLj2AjqlIm0", "title": "[Newbie Bites] #30. Special Chars" },
+    { "id": "vAr2Ficf-n0", "title": "[Newbie Bites] #31. Word Count" },
+    { "id": "_5gH-wDnRNg", "title": "[Newbie Bites] #32. Dict Retrieval - part 2" },
+    { "id": "ZsznUUIUjaw", "title": "[Newbie Bites] #34. Random Module" },
+    { "id": "g0jprmzbkNY", "title": "[Newbie Bites] #36. Working With Dates - part 2" },
+    { "id": "QgnAqsvv4Tg", "title": "[Newbie Bites] #37. Make a Class" },
+    { "id": "FF0QxYrOdgY", "title": "[Newbie Bites] #38. Class With Str" },
+    { "id": "UzUXfZtNYaM", "title": "[Newbie Bites] #39. Make a Dataclass" },
+    { "id": "0hkwYIk9EB0", "title": "Pybites Podcast #167 - Code Reading Club" },
+    { "id": "aguGvwKjMNc", "title": "[Newbie Bites] #40. Scope" },
+    { "id": "nTmK--NWArM", "title": "Episode 168 - Machine Learning and Purely Python Coding with Joao Pedro Chaib" },
+    { "id": "5186zRTFjEc", "title": "[Newbie Bites] #48. String Module" },
+    { "id": "uLB_aNJc9_s", "title": "[Newbie Bites] #50. Read The Docs" },
+    { "id": "dPH23LVL1RE", "title": "[Newbie Bites] #49. Formatting Intro" },
+    { "id": "P47JUMSQagU", "title": "Pybites Podcast #169 - Bridging Python and Rust: An Interview with PyO3 Maintainer David Hewitt" },
+    { "id": "9KTbHu51HeM", "title": "[Newbie Bites] #26. Reading Errors" },
+    { "id": "EZhiaQmAIEY", "title": "[Newbie Bites] #27. Failing Tests" },
+    { "id": "G9-jkGCNwDU", "title": "Pybites Podcast #166 - Don't Fear Asking for Help as a Developer" },
+    { "id": "b6x-Z8WrR68", "title": "[Newbie Bites] #28. Type Hints" },
+    { "id": "AIljfSpdefQ", "title": "Pybites Podcast 163 - Andrew Farr: Fascinating Python Data Projects and Improving 1% Every Day" },
+    { "id": "SmWM8cSQb9g", "title": "Pybites Podcast 164 - Mastering Python Development: Overcoming Common Pitfalls and Building Success" },
+    { "id": "9RvOItiOQZU", "title": "Pybites Podcast 165 - Kelly Schuster-Paredes: Integrating Python + AI in Education and Other Areas" }
+  ],
+  "playlists": [
+
+  ]
+}

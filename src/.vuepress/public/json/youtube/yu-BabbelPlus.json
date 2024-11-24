@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "BabbelPlus",
+    "name": "Babbel",
+    "profile": "https://yt3.googleusercontent.com/zabNoKgMT4pbFyyZyWidUvLPPWEeYjiENIKRRyZYW07H0nZIB5jf-R1kLdi1lQvVexl8Ludt_w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XQVn-Admg4cw_3oLTLsbsArbws1FkffRLXAFq-D74_oSA-FO0LKFmqZ6dqWd3JPQB-7MZNCfveo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0CnSNFI9S0Q", "title": "How Many Languages Are There?" },
+    { "id": "WD8IbNBokUk", "title": "What Are Contronyms?" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/PESRtR6wxlVFTaktX6Nf6sADbzDUFmLDjn6iNXh4dXYVy3nnjhnztmZCQovrGQlN8LbKnQHk=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xvsi2-ozejw", "title": "Java interview with an Uber Engineer - Find K Closest Elements" },
+    { "id": "g43wfBtqWHE", "title": "System Design Interviews: How to know exactly what your interviewer is asking" },
     { "id": "8Vajn_YGetI", "title": "Minimum Cost To Construct String: Python Interview with a Google Engineer" },
     { "id": "myK6RpS5LIg", "title": "Feeling burnt out? Here's how to avoid this as a software engineer" },
     { "id": "rPagIe-l5VM", "title": "Random Pick with Weight: Python Interview with a FAANG Engineer" },

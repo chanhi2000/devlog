@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "SerranoAcademy",
+    "name": "Serrano.Academy",
+    "profile": "https://yt3.googleusercontent.com/PasE3GEnJm0ftXHuVd9oAYMfgKjazZntqnMs9_UfdJvkareYBhtltNWp9k8Q3x9mOPynIHsvZ9Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OL5vxf_G6UeFRK5hhEVRxNX7W-Xp6vFqG_y48fopAtOBibgTrg4QdcKGRyL_-VS8uY-oTLniTA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nD7yFIdSY5c", "title": "Live with Jay Alammar, Josh Starmer, and Luis Serrano" },
+    { "id": "IHu3QehUmrQ", "title": "How do Transformer Models keep track of the order of words? Positional Encoding" },
+    { "id": "AtYN8QP-U6w", "title": "What is AdaBoost? Friendly explanation with code!" },
+    { "id": "0bCfCGTkL9w", "title": "The Fast Fourier Transform" },
+    { "id": "T8XZxR5H04E", "title": "The Discrete Fourier Transform" },
+    { "id": "bk9VGJNzQM0", "title": "When is a sequence periodic? The Discrete Fourier Transform will tell us" },
+    { "id": "g1AqUhP00Do", "title": "State Space Models (SSMs) and Mamba" },
+    { "id": "_sdNwY0KKUA", "title": "Why do we divide by n-1 to estimate the variance? A visual tour through Bessel correction" },
+    { "id": "sjgZxuCm_8Q", "title": "KL Divergence - How to tell how different two distributions are" },
+    { "id": "k2pD3k1485A", "title": "Direct Preference Optimization (DPO) - How to fine-tune LLMs directly without reinforcement learning" }
+  ],
+  "playlists": [
+
+  ]
+}

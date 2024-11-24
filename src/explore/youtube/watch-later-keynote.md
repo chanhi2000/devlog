@@ -35,7 +35,6 @@ tag:
 <MyYouTubeItems jsonName="yu-AndroidDevelopers" /><!-- Android Developers -->
 <MyYouTubeItems jsonName="yu-DroidconParis" /><!-- Android Makers -->
 <MyYouTubeItems jsonName="yu-SpringIOConference" /><!-- Spring I/O -->
-<MyYouTubeItems jsonName="yu-SpringSourceDev" /><!-- SpringDeveloper -->
 <MyYouTubeItems jsonName="yu-virtualJUG" /><!-- v JUG -->
 <MyYouTubeItems jsonName="yu-IBMTechnology" /><!-- IBM Technology -->
 <MyYouTubeItems jsonName="yu-DockerInc" /><!-- Docker -->
@@ -112,5 +111,6 @@ tag:
 <MyYouTubeItems jsonName="yu-theBankofKoreakr" /><!-- 한국은행 -->
 <MyYouTubeItems jsonName="yu-sktechsummit" /><!-- SK TECH SUMMIT -->
 <MyYouTubeItems jsonName="yu-Gdconf" /><!-- GDC -->
+<MyYouTubeItems jsonName="yu-ElixirAustralia" /><!-- Elixir Australia -->
 
 <TagLinks />

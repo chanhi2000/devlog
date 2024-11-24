@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/NISAoyEzukrwJZDgieb-d6xdAUTlI_AVozlf21VHpW6cTQeYfUpHPzhDxMMu9LIGTk1K6Yk0Ml4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HROUpdky9SM", "title": "no one writes JavaScript anyway.. ReScript: the ReasonML successor" },
+    { "id": "LTuzl2r2HjA", "title": "Inferred Type Predicates - TypeScript 5.5's top new feature" },
     { "id": "DNTipH0-MoY", "title": "Distributive Conditionals as fast as possible" },
     { "id": "jtQjov140-8", "title": "the time-traveling debugger from the future, Replay | Mark Erikson | TypeScript Showcase #10" },
     { "id": "Y84C3yFZJAI", "title": "how Andarist time-travel debugs the TypeScript compiler with Replay" },

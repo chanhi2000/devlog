@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "NOwvqGi_Qtg", "title": "Yocto Project Developer Day 2024 - Live Stream" },
+    { "id": "mzZcov3I9xI", "title": "Mini Summit EOSS-NA 2024 - Yocto Project Development with Toaster: Simplifying the Learning Curve" },
+    { "id": "opbuNw-Jl1c", "title": "Mini Summit EOSS-NA 2024 - Yocto Project Development with VS Code: Boosting your productivity" },
+    { "id": "rwkAVxFTVw8", "title": "Mini Summit EOSS-NA 2024 - There and Back Again: Our Journey to Scarthgap and Beyond to 2028" },
     { "id": "zCMHy2PjsaM", "title": "YPS 2023.11 - 2023/11/29 - Luca Ceresoli - Keep your layer simple, and here's how" },
     { "id": "papaU-vwIh8", "title": "YPS 2023.11 - 2023/11/30 - Sandeep Gundlupet Raju - Configuring and Building meta-ros for KR260" },
     { "id": "NmPta5w6P70", "title": "Live Coding with Yocto Project #11: Getting started with C/C++ development." },

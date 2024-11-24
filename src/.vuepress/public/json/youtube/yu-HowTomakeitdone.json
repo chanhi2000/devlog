@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/kvo88vVQiSOX8y9otmTj_bKOjaDszNyAOr0tNP9LrMF6_GPtL2gWUzw0QuEnLYPftQ9iXR8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-944tkIHCaw", "title": "How to resolve mysql.service is masked error in Ubuntu | Failed to start mysql |" },
+    { "id": "FsSTYv9IUh8", "title": "Update Mysql from 5.7 to 8.0 on Ubuntu" },
+    { "id": "0FSu4KRsUs4", "title": "How to solve 'Did you install mysqlclient?' error in Django 5" },
+    { "id": "UsqC8YS7OEE", "title": "How to show YEAR column in Zotero" },
+    { "id": "BBjvR07MqPk", "title": "How to Successfully Deploy Your Dash Application on Cloud FREE" },
+    { "id": "awkvqNO55sE", "title": "How to run large language models (LLAMA2, MISTRAL, PHI) on Mac quickly" },
+    { "id": "hhAbKMtSeSc", "title": "How to plot feature-wise missing values in Python" },
+    { "id": "A1URxsWyLcU", "title": "How to create a customized chatGPT like model using Ollama" },
     { "id": "vNIxov1reRc", "title": "How to install LatexDiff on Macbook 2024" },
     { "id": "5w6Adn_DG0Q", "title": "How to generate bibliography in quarto for non-cited articles" },
     { "id": "FWmUBMS-1hE", "title": "How to create your first project using Django 5.0" },

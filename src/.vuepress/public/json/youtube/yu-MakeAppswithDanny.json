@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/649gJZxtkyrPBCn12KBUHdDt6_MHthS_BdbZ5_ibZ0Gopxx5HTnSpKASG9NLlVDjsfQOTglZvg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eT5oP7bDLxg", "title": "Quasar 2 & Firebase Cloud Firestore Tutorial (with Vue 3 & Pinia)" },
+    { "id": "zPeA1q00A54", "title": "Learn Pinia Setup Stores in 30 MINUTES! (Vue JS 3)" },
+    { "id": "PjCqsf87Z1Y", "title": "Create an App for Android, iOS, Mac & Windows in 30 MINUTES! (Vue 3 & Quasar 2)" },
+    { "id": "-HNmkKhrevE", "title": "Pinia: Option Store vs Setup Store - Which is best?" },
+    { "id": "BmcA9SB9mSY", "title": "Vue 3 & Quasar Tutorial - Create a Money App in 2 Hours!" },
+    { "id": "qWR6lVqGixM", "title": "New Course (& Discount Code) - Quasar V2: Cross Platform Apps with Vue 3 & Pinia" },
     { "id": "opmng7llVJ0", "title": "Quasar Framework: Vue.js Cross Platform App (1/10): Introduction & Getting Started" }
   ]
 }

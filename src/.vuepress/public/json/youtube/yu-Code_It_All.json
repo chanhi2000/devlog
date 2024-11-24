@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Code_It_All",
+    "name": "Code It All",
+    "profile": "https://yt3.googleusercontent.com/_o6JQbQK7Cau9PvaTv-RXSyquZxUjdTDMffEC1bWLPJzBSXTV0ZZ5EPGGZ-z4mK6PwIHfDCnoA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/D6o8IXn53UC12zkW7mI_euq27cjlTHOHTprDbuX8Fn0tVoIt-tYNydx1mIYZ5uSBtVMkeWIhsA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UYO7YiDeKvY", "title": "Making A Game In Godot Without Coding!" },
+    { "id": "cCJJYERvKnQ", "title": "Making A Game In Defold For The First Time ( With Lua )" },
+    { "id": "eHo8kH3VV2c", "title": "I Tried Godot VisualScript In 2024 ( And Found An Alternative )" },
+    { "id": "zs_heJ6jzaE", "title": "Making The Identical Game On The Oldest VS Latest Versions Of Godot" },
+    { "id": "CAzdub_WO00", "title": "Godot Resources Explained" },
+    { "id": "rPHmO833O_8", "title": "I Tried Making A Game In Godot With C#." }
+  ],
+  "playlists": [
+
+  ]
+}

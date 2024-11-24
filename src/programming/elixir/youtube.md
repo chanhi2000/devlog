@@ -23,5 +23,7 @@ tag:
 <MyYouTubeItems jsonName="yu-teej_dv" /><!-- TJ DeVries -->
 <MyYouTubeItems jsonName="yu-teej_daily" /><!-- teej_daily -->
 <MyYouTubeItems jsonName="yu-nickytonline" /><!-- Nick Taylor -->
+<MyYouTubeItems jsonName="yu-ElixirAustralia" /><!-- Elixir Australia -->
+<MyYouTubeItems jsonName="yu-DanielBergholz" /><!-- Daniel Bergholz -->
 
 <TagLinks />

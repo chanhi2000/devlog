@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "ycrash3227",
+    "name": "yCrash",
+    "profile": "https://yt3.googleusercontent.com/lMHy4aP3_gv-OIRFcu-9pH3nDqd02m1vizuA4028n63GbSiPZor4uM9zEH8tPVO5l3iYKdhcWk8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jT7A7lVNd97jERC3TaVjKLAEXkLfelfHOxsmYwaGh8OHKX_sr3vB94TfJRg9sm0A7Ernkyi0DZ0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_Mj1Hx5xjzc", "title": "‘How to Troubleshoot 9 Types of OutOfMemoryError’ Webinar  | Q&A" },
+    { "id": "qDn08P-MIqQ", "title": "How to analyse heap dumps Fast | Heaphero Cloud" },
+    { "id": "Wfl6mKjna5w", "title": "How to analyse heap dumps Fast | Heaphero Enterprise Edition" },
+    { "id": "udFJm7u0Pv0", "title": "‘GC Tuning: Fortune 500 Case Studies on Cutting Costs and Boosting Performance’ Webinar" },
+    { "id": "nS_MWfca6WE", "title": "Troubleshooting JVM Outages – 3 Fortune 500 case studies | Part 1" },
+    { "id": "48vyv0f0JwM", "title": "Troubleshooting JVM Outages – 3 Fortune 500 case studies | Part 2" },
+    { "id": "r5D7dotNtyg", "title": "Troubleshooting JVM Outages – 3 Fortune 500 case studies | Part 3" },
+    { "id": "-Ds3_L4kSdk", "title": "Troubleshooting JVM Outages – 3 Fortune 500 case studies | Q&A" },
+    { "id": "pNQB-R3q_i0", "title": "Top 10 features Comparison between HeapHero Public, and Enterprise Edition" },
+    { "id": "0Cn3gx--f-o", "title": "‘How to Troubleshoot 9 Types of OutOfMemoryError’ Webinar" },
+    { "id": "CAlif1ngMRA", "title": "Top 10 Features Comparison between GCeasy Public, Premium and Enterprise Edition" },
+    { "id": "pI_OzI7yDFA", "title": "Top 10 Features Comparison between FastThread Public, Premium and Enterprise Edition" },
+    { "id": "Ixs2RBd_7AM", "title": "How to Solve java.lang.OutOfMemoryError: Kill Process or Sacrifice Child | Causes & Solutions" },
+    { "id": "cYJuplpzWL4", "title": "Troubleshoot java.lang.OutOfMemoryError: reason stack_trace_with_native_method | Causes & Solutions" },
+    { "id": "MBhaUyDDqpU", "title": "Troubleshooting java.lang.OutOfMemoryError: Metaspace | Causes & Solutions" },
+    { "id": "J4p_qDSUOLk", "title": "Troubleshooting java.lang.OutOfMemoryError: Metaspace | Causes & Solutions" },
+    { "id": "GShn27Fgs2s", "title": "How to solve OutOfMemoryError: Unable to create new native threads | Causes and Solutions" },
+    { "id": "83ritwp9fwA", "title": "How to Solve OutOfMemoryError: Direct buffer memory | Causes and Solutions" },
+    { "id": "pVtvcCbU7GU", "title": "Different Types of OutOfMemoryError" },
+    { "id": "UMlTCRRb1XA", "title": "Free Module 1: Java Performance Masterclass | Instructor - Ram Lakshmanan" },
+    { "id": "L-_GpaWVgYs", "title": "\"java.lang.outofmemoryerror:Java Heap Space\" Causes and Solutions" },
+    { "id": "MBcfKQvEIxQ", "title": "Troubleshooting java.lang.OutOfMemoryError: GC Overhead Limit Exceeded | Causes and Solutions!" }
+  ],
+  "playlists": [
+
+  ]
+}

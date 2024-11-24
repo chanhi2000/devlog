@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/JIwiWULN2m2MduT10ZJiekU7Lj8ZWsOuQCXinBf5FmyRJRIFNzjkm6x3jnRma4D9PkWtqclo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vhcntygYBsI", "title": "Exploring the Tailwind CSS v4.0 Beta with Sam Selikoff" },
+    { "id": "y4i_CXXWLoQ", "title": "Live upgrading some projects to the new Tailwind CSS v4 alpha" },
+    { "id": "0EAEbDq9xS8", "title": "Building a landing page with Tailwind CSS" },
+    { "id": "ymCML1d32Ck", "title": "Building a testimonial carousel with Tailwind CSS" },
+    { "id": "UPmToW0kqVw", "title": "Building a bento grid with Tailwind CSS" },
+    { "id": "t1NINqzg1DM", "title": "Building a pricing section with Tailwind CSS" },
     { "id": "oLK_cJ114QY", "title": "Rebuilding Allbirds.com with Tailwind CSS (Part 2)" }, 
     { "id": "eSDRc6kyqBA", "title": "Building a Slide-Over Panel with Tailwind CSS" }, 
     { "id": "7lf6dwipRYg", "title": "Working on Tailwind UI" }, 

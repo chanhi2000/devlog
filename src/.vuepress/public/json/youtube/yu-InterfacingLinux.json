@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "InterfacingLinux",
+    "name": "Interfacing Linux",
+    "profile": "https://yt3.googleusercontent.com/f2sYRVLabws_MCbkmoGV29n-XNiKCTld3bGXY3C_kt89DZ0PsV59wdtNJh4IteiPnSCelCHDUw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/nmjteSFg5YeV9wH5fMXDjnw8ykpPgznpLtcUygSXnToY2EvOC8BwW3ZqYem6WBkNWP1GvR6eTg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AHD7IThhcs0", "title": "Quad-Core Mayhem And Mildness: Radxa X4" },
+    { "id": "LkwN3AhSQ9s", "title": "Trackberry: 2.8 Watt TrackMania Server" },
+    { "id": "_vZm7yGYQbA", "title": "FireWire + FFADO With PipeWire" },
+    { "id": "KMGdQqq1i0U", "title": "No Capture Card Needed: NDI 6 on Linux with OBS" },
+    { "id": "nWwfjGFdcEc", "title": "Broadcast Hardware On Linux - AudioScience ASI5211" },
+    { "id": "CQnPOsMakq4", "title": "Linux On The HP EliteDesk 705 G4 Mini" }
+  ],
+  "playlists": [
+
+  ]
+}

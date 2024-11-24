@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "0_1C-sRsLQg", "title": "중학교도형정리" },
+    { "id": "5d_nxHxDlHE", "title": "Langchain Tutorial #1 간단한 LLM 애플리케이션" },
+    { "id": "zSlbEEG_9uo", "title": "스프링부트 빈이 아닌 항목을 취합해서 처리하는 샘플" },
+    { "id": "0PRmLRSi374", "title": "Langchain Tutorial #2 챗봇만들기" },
+    { "id": "21i_BK8fEKA", "title": "Langchain Tutorial #3 Vectorstore and Retriever" },
+    { "id": "dGk83z2RkO4", "title": "Langchain Tutorial #4 Agent 만들기" },
     { "id": "vUcd_fpIN7c", "title": "1. React 라이브러리 개발을 위한 - Babel  이해하기" }, 
     { "id": "KL2SpTY9pl4", "title": "1) 리액트 네이티브 네비게이션 V5 - Tabs and Stacks" }, 
     { "id": "87208XkWG-s", "title": "13. Episode6 - 스프링 부트 / 구글 페이스북 네이버 카카오 로그인 유닛테스트" }

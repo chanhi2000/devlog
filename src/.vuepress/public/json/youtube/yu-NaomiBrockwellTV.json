@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "NaomiBrockwellTV",
+    "name": "Naomi Brockwell TV",
+    "profile": "https://yt3.googleusercontent.com/2grzLewJ8A5xjZIJDTS5sqTx5YPHWvVPQln0aIuvdnimruGVRQfgnHGI_DmQuC_3Q1Y4KLYU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hzMBq1bRi7a4Bo2yKqj625logQXgLk5yezP0vbcOfaM42oTcFC2I_R8nrrABSKMDr5Ajcg8OV0w=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vUQLkHK7eNI", "title": "They hide secret code in your apps" },
+    { "id": "CVeZfM0pVyU", "title": "How To Host AI Locally: Ollama and Open WebUI" },
+    { "id": "T32XfRSaC0w", "title": "Why I Use Disappearing Messages" },
+    { "id": "rriStH1eTH0", "title": "How To Use AI PRIVATELY" },
+    { "id": "07-IsfTMujo", "title": "The Spyware Governments Use to Silence Dissent" },
+    { "id": "sb6u-TpV-JA", "title": "The Internet Has Changed. Privacy Was Left Behind." },
+    { "id": "aXhXkXcMXyM", "title": "Surveillance: The New Normal" },
+    { "id": "4sfIBRTcRpU", "title": "You Have No Medical Privacy" },
+    { "id": "s9Ux8DFgMSM", "title": "Ditch SMS! How to convince your friends" },
+    { "id": "xILGdtI9NPo", "title": "Secure Your Files with Encrypted Containers!" },
+    { "id": "YB01HHFitFA", "title": "Stop Your Apps Secretly Talking To Each Other!" }
+  ],
+  "playlists": [
+
+  ]
+}

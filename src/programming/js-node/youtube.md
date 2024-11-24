@@ -175,7 +175,6 @@ head:
 <MyYouTubeItems jsonName="yu-codonelearn" /><!-- Codone -->
 <MyYouTubeItems jsonName="yu-perfectbase" /><!-- Ravi - Perfect Base -->
 <MyYouTubeItems jsonName="yu-NerdCademyDev" /><!-- NerdCademy -->
-<MyYouTubeItems jsonName="yu-ColorCodeio" /><!-- ColorCode -->
 <MyYouTubeItems jsonName="yu-blogcreator6109" /><!-- 블로그 크리에이터 -->
 <MyYouTubeItems jsonName="yu-jahiddev" /><!-- Jahid Anowar -->
 <MyYouTubeItems jsonName="yu-Pentacode" /><!-- Pentacode -->

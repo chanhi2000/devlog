@@ -37,6 +37,9 @@ tag:
 
 - [〜StreamUI: Make videos with SwiftUI](https://forums.swift.org/t/streamui-make-videos-with-swiftui)
 - [Example of a Cross-Platform macOS/Windows Application Developed Using Swift 6](https://forums.swift.org/t/example-of-a-cross-platform-macos-windows-application-developed-using-swift-6/74591)
+[\[Prospective Vision\] Improving the approachability of data-race safety](https://forums.swift.org/t/prospective-vision-improving-the-approachability-of-data-race-safety/76183)
+
+<!-- END: forums.swift.org -->
 
 ---
 
@@ -246,6 +249,9 @@ tag:
 - [Scenes types in a SwiftUI Mac app](https://nilcoalescing.com/blog/ScenesTypesInASwiftUIMacApp/)
 - [Count the number of objects that pass a test in Swift using `count(where:)`](https://nilcoalescing.com/blog/CountTheNumberOfObjectsThatPassATestInSwift/)
 - [Recursive enums in Swift](https://nilcoalescing.com/blog/RecursiveEnumsInSwift/)
+- [Animate UIKit views with SwiftUI animations in iOS 18](https://nilcoalescing.com/blog/AnimateUIKitViewsWithSwiftUIAnimations/)
+
+<!-- END: nilcoalescing.com -->
 
 ---
 
@@ -399,7 +405,10 @@ tag:
 - [Mastering Preview macro in Swift](https://swiftwithmajid.com/2023/10/17/mastering-preview-macro-in-swift/)
 - [Trigger value pattern in SwiftUI](https://swiftwithmajid.com/2024/04/02/trigger-value-pattern-in-swiftui/)
 - [Mastering ScrollView in SwiftUI. Scroll Offset](https://swiftwithmajid.com/2024/06/17/mastering-scrollview-in-swiftui-scroll-offset/)
-[Typed throws in Swift](https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift/)
+- [Typed throws in Swift](https://swiftwithmajid.com/2024/08/20/typed-throws-in-swift/)
+- [Introducing Swift Testing. Basics.](https://swiftwithmajid.com/2024/10/22/introducing-swift-testing-basics)
+
+<!-- END: swiftwithmajid.com -->
 
 ---
 
@@ -1086,6 +1095,7 @@ tag:
 ## Canopas - Best Web and Mobile App Development Company
 
 - [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide](https://canopas.com/integrating-live-activity-and-dynamic-island-in-i-os-a-complete-guide)
+- [Integrating Live Activity and Dynamic Island in iOS: A Complete Guide - Part 1](https://canopas.com/integrating-live-activity-and-dynamic-island-in-i-os-a-complete-guide?utm_campaign=iOS+Dev+Weekly)
 
 <!-- END: canopas.com -->
 
@@ -1099,10 +1109,11 @@ tag:
 
 ---
 
-##
+## Sahand Nayebaziz
 
-App Performance and Instruments Virtuoso
+- [Syntax Highlighting SwiftUI Code with Swift Syntax](https://sahandnayebaziz.org/blog/syntax-highlighting-swiftui-with-swift-syntax)
 
+---
 
 ## Project(s)
 

@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "LlamaIndex",
+    "name": "LlamaIndex",
+    "profile": "https://yt3.googleusercontent.com/Hos-MUkPb3FwQwLVUMJUmRVbxIjtMUON8qfkkkbVOHlNa8MR4OsBfptmes0YoweNynvp3c0kXw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A1RamrcKOvPVFDTTiZPBcuMzcXVOa9CfYee7vQhuQIOPE-WxJ8YJ94ViYk6FUIp_FcjZWjtWssI=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6qZUUPoJghw", "title": "Generating a Multimodal Report with Claude 3.5 Sonnet, OpenAI, Structured Outputs" },
+    { "id": "aqtX-sGbevw", "title": "Multi-agent Workflow to Generate a Structured Financial Report (Text/Tables) with GPT-4o" },
+    { "id": "HBUHQbbzYaE", "title": "LLM-Native Resume Matching Solution with LlamaParse and LlamaCloud" },
+    { "id": "jxhvIoMqAxQ", "title": "Multi-Modal RAG with ColPali as Reranker" },
+    { "id": "F3wzKiJcX1E", "title": "From RAG to Knowledge Assistants" },
+    { "id": "z3smcBXytsY", "title": "Advanced RAG: Auto-Retrieval (with LlamaCloud)" },
+    { "id": "3manp6wnmL8", "title": "Advanced RAG: Corrective RAG (with LlamaCloud)" },
+    { "id": "uFWHweuTCGE", "title": "Advanced RAG: Dynamic Chunk/Document Retrieval (with LlamaCloud)" },
+    { "id": "FA7oLqzz8gQ", "title": "Advanced RAG: Combining RAG with Text-to-SQL" },
+    { "id": "8MbhRGbKZx8", "title": "Research Paper Report Generating Agent" },
+    { "id": "3jnViQZKYHE", "title": "Introduction to Report Generation" },
+    { "id": "hf3_fuVdrpA", "title": "Workflows: event streaming and human in the loop" },
+    { "id": "5-VJrj3FEMk", "title": "LlamaIndex Webinar: NUDGE Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval" },
+    { "id": "wuuO04j4jPc", "title": "Building a multi-agent concierge system from scratch" },
+    { "id": "nzcBvba7mzI", "title": "LlamaIndex Webinar: ColPali - Efficient Document Retrieval with Vision Language Models" },
+    { "id": "R2sy6kI-uBk", "title": "Building agentic LLM application Workflows with LlamaIndex" },
+    { "id": "f3f_ctJyoWY", "title": "Building an agentic workflow to break up and answer complex questions" },
+    { "id": "n90qZRlS1ek", "title": "LlamaIndex Webinar: Using RAG with LlamaIndex for Large-Scale Generative Coding" },
+    { "id": "DqiIDMxuoKA", "title": "Building an multi-agent concierge system using LlamaIndex Workflows" },
+    { "id": "P4xHWojIB-M", "title": "Building a RAG System with In-line Citations Using Workflows" },
+    { "id": "Skm70sGaME4", "title": "Build JSONAlyzeQueryEngine using Workflows" },
+    { "id": "06kJ390a-O8", "title": "Building a multi-strategy RAG workflow with reflection in LlamaIndex" },
+    { "id": "rzg_TTsOaCo", "title": "Building RouterQueryEngine using workflows" },
+    { "id": "1IOfXIwlsjs", "title": "Building MultiStepQueryEngine using Workflows" },
+    { "id": "4g166tdMPdw", "title": "Extractors and Retrievers in Property Graphs" },
+    { "id": "qyuZvNuEOQA", "title": "Building Property Graph with Neo4j and LlamaIndex" },
+    { "id": "lF6q8oz3yek", "title": "Building PropertyGraphs with pre-defined schema using Ollama" },
+    { "id": "WiPSLoCTLMg", "title": "Building Property Graphs with Custom Retrievers in LlamaIndex" },
+    { "id": "76sq5EgN5Eo", "title": "Introduction To Property Graphs" },
+    { "id": "R3cER1Aae14", "title": "Building Property Graphs With LlamaIndex" },
+    { "id": "3hc98dtMfFc", "title": "Introduction to LlamaCloud" },
+    { "id": "lqRTCxsKBwc", "title": "Building and deploying multi-agent RAG systems in 2024 with LlamaIndex" },
+    { "id": "44h94AJgQoM", "title": "LlamaIndex Sessions: Evaluating RAG with LlamaIndex (McDermott)" },
+    { "id": "V_-WNJgTvgg", "title": "LlamaIndex Webinar: Improving RAG with Advanced Parsing + Metadata Extraction" },
+    { "id": "5Ahdg1DkPMc", "title": "A quick walk-through of LlamaParse: simplified document parsing for generative AI applications" },
+    { "id": "o0DPxvgML5c", "title": "LlamaIndex Webinar: Open-Source Longterm Memory for Autonomous Agents" },
+    { "id": "MXPYbjjyHXc", "title": "RAG in 2024: Advancing to Agents" },
+    { "id": "9AqdqJdCNCw", "title": "LlamaIndex Webinar: The Future of Web Agents with MultiOn 🤖" },
+    { "id": "LDh5MdR-CPQ", "title": "LlamaIndex Webinar: Advanced RAG with Knowledge Graphs (with Tomaz from Neo4j)" }
+  ],
+  "playlists": [
+
+  ]
+}

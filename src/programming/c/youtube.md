@@ -76,5 +76,7 @@ tag:
 <MyYouTubeItems jsonName="yu-KeaSigmaDelta" /><!-- Kea Sigma Delta -->
 <MyYouTubeItems jsonName="yu-teej_dv" /><!-- TJ DeVries -->
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
+<MyYouTubeItems jsonName="yu-AlexTheRealDev" /><!-- Alex The Dev -->
+<MyYouTubeItems jsonName="yu-cococry" /><!-- Cococry -->
 
 <TagLinks />

@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "codingchef",
+    "name": "코딩셰프",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nvBekbosaZHKMLwuZFCHFlRRgMsPzeWQitQIVqfR77esI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TOcjAYHRCi2Qz3yMlJORnZlWuAXYko8sXY2XYApUEUtgdWLhBLoV6LzuiXOdBprZPRh4-yFp_g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x1WH-KFtNCk", "title": "[2024 / Flutter] 웹앱으로 영화소개 사이트 만들기 part3: TMDB api 연동하기" },
+    { "id": "-0GeCgT5h-U", "title": "[2024 / Flutter 순한맛] 플러터 입문 패키지 재생목록 설명" },
+    { "id": "svAz16yTmUg", "title": "[2024 / Flutter] 웹앱으로 영화소개 사이트 만들기 part1(feat. 호주)" },
+    { "id": "jgkrj5_ouvc", "title": "[2024 / Flutter] 웹앱으로 영화소개 사이트 만들기 part2: 스켈리톤 로딩 구현" },
+    { "id": "OO8rT1kC8bY", "title": "[2024 / Flutter] Flutter 계산기 앱 만들기(앱 이미지 트레이닝 북 제공 예정)" },
+    { "id": "nb2D5-CWHrI", "title": "계산기 앱 이미지 트레이닝 북 배포 공지(동영상 설명 필독)" },
+    { "id": "8jePiG0xsJ4", "title": "[2024 / Flutter 도장깨기] TODO(투두) 앱 만들기 완결편!!" },
+    { "id": "jkSYD97wzWA", "title": "플러터 앱 이미지 트레이닝 북 배포 공지" },
+    { "id": "qTNA_Ungn1E", "title": "[2024 / Flutter 조금 매운 맛] ChatGPT4o와 플러터(flutter) 앱" },
+    { "id": "SN7iDO4OkdY", "title": "구글 플러터(Flutter)와 함께하는 이벤트!!" },
+    { "id": "uLHik9iLvcE", "title": "플러터(flutter) 도장 깨기 미션(feat. ChatGPT)" },
+    { "id": "AoRBYGUQT1I", "title": "[2024 / Flutter 도장깨기]  TODO(투두) 앱 만들기 1(조금 매운맛)" },
+    { "id": "5TUGUklTtr4", "title": "코딩셰프의 플러터 맛집 사용 안내서" }
+  ],
+  "playlists": [
+
+  ]
+}

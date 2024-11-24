@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/3SgYFBvQCAxrTgJo7s7SuMQVayLROpGdRy-iulQNQeTO8aMtyAYB6R5CSHU3CwQ9bGUCKhDWC9E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ntXibdnAfW8", "title": "This is my favorite feature in Rust" },
+    { "id": "k10xtq02nqY", "title": "You're probably misusing unwrap in Rust...let's fix that" },
+    { "id": "oooxrcwUTY4", "title": "The US Government wants to try to replace all C with Rust" },
+    { "id": "rXgSOfr6rbQ", "title": "Rust's Operator Overloading actually makes sense" },
+    { "id": "MRXi19zQgSo", "title": "Why it DOES NOT matter HOW you code in Rust" },
     { "id": "tWa19Td87gw", "title": "You MUST KNOW These Traits in Rust" },
     { "id": "9KkTd4eDUMY", "title": "How to create your OWN Link Shortener in Rust (beginner-friendly project)" },
     { "id": "FCZXH8PfHgM", "title": "Is this IDE the next big thing for Rust?!" },

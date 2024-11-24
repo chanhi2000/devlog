@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Moduscreate",
+    "name": "Modus Create, LLC",
+    "profile": "https://yt3.googleusercontent.com/pD3YuLLRw0M4sYZEv8TEwkzoTOMyW7oeEL8YBen9-viRItjDGvlJH7I1RZW256zLWT7_zMG9=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tYJMN83D4tA_ABrAL4nWw1CKzlsZZwxW9Q0pdDiiaqSepFuLCp_jZAymFKeAkGezmBWzGUN4GA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "snJvXa_BFSc", "title": "How Modus Create Helped Zelis Transform HR onboarding with Atlassian" },
+    { "id": "AvNi3XfVGY0", "title": "Zeus Logics - Building a SaaS Platform with Haskell" },
+    { "id": "hXbM-WFEVeE", "title": "Future-ready: Powering innovation with Atlassian Cloud ☁️" }
+  ],
+  "playlists": [
+
+  ]
+}

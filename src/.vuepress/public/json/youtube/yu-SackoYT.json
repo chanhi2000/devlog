@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "SackoYT",
+    "name": "Sacko",
+    "profile": "https://yt3.googleusercontent.com/fk4Vm-CEfY-Tv6UvtCveF-r0op5OyJkTE9N4DcDkKFLOloZ5STiQgfEugwo9sKzzN7QFc_M3=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tx45pXL2GfbTJosWAtq1LZ2MXcLks3QReAnIJsBWnT99PqPuQWlpQFxIC5X9yHv9SLkBgVKEpQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XnFU2zyRo1M", "title": "My Thoughts on Writing" },
+    { "id": "APLgrfS-2DM", "title": "My Experience With Taking Breaks From Gaming" },
+    { "id": "29rkbawEAks", "title": "Signalis is Fantastic..But" },
+    { "id": "Ta0BvKgeQbc", "title": "Slipstream: Outrun Meets Indie Gaming" },
+    { "id": "CCNdw1hwB2w", "title": "Art of Rally: An Indie Racing Masterpiece" },
+    { "id": "Dqg3DLRMc_0", "title": "How to Make Bite-Sized Games Replayable" },
+    { "id": "BrI6VCljfzI", "title": "Upcoming Games Actually Like Counter Strike and Valorant" }
+  ],
+  "playlists": [
+
+  ]
+}

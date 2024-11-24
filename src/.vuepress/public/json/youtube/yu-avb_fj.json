@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "avb_fj",
+    "name": "Neural Breakdown with AVB",
+    "profile": "https://yt3.googleusercontent.com/4fyVKSJI_Ca7jX344gUV0ugwLm2uMad4WBGAj6o7STnSHHmUviUJy1i2whl0p09tKkiUZppSwFc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vu6BfB4QNbTJtRQVP5PviRLhj5TPFtz-nS07NFhaQWI3YsSU3Yxh6jlVG5bi6J1lCk1O27Ga=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l4KitGnDXxo", "title": "Vision Transformers - The simplest way to explain and code it." },
+    { "id": "s3OUzmUDdg8", "title": "From Attention to Generative Language Models - One line of code at a time!" },
+    { "id": "QLUKXvHgOrI", "title": "Llama 3.2 Vision - How to make a Multimodal project | Step by Step tutorial" },
+    { "id": "bZcKYiwtw1I", "title": "Finetune LLMs to teach them ANYTHING with Huggingface and Pytorch | Step-by-step tutorial" },
+    { "id": "OHh_SByRYmQ", "title": "The RAG Visual Breakdown - The Ultimate guide to building powerful LLM pipelines!" },
+    { "id": "KRTEOkYftUY", "title": "So you think you know Text to Video Diffusion models?" },
+    { "id": "6pyYc8Upl-0", "title": "Complete TextGrad Tutorial - Textual Gradient Descent to optimize prompts, text, math, code!" },
+    { "id": "wMGb97EZkVU", "title": "How does Segment Anything 2 (SAM 2) work? Paper and Network Architecture Explained!" },
+    { "id": "_ROckQHGHsU", "title": "Master LLM Prompt Programming with DSPy - Complete tutorial in 8 amazing examples!" },
+    { "id": "Sah0dnu8Hxo", "title": "Apple Intelligence Foundation Language Models - A deep dive into Apple's secret AI sauce!" },
+    { "id": "sz30TDttIBA", "title": "How Neural Nets estimate depth from 2D images? Monocular Depth Estimation Explained!" },
+    { "id": "7zpz_AlFW2w", "title": "Kolmogorov Arnold Networks (KAN) Paper Explained - An exciting new paradigm for Deep Learning?" },
+    { "id": "w8YQcEd77_o", "title": "Text-To-Image Diffusion Models explained step-by-step in 15 concepts!" },
+    { "id": "N_PocrMHWbw", "title": "The History of Computer Vision and Convolutional Neural Nets explained!" }
+  ],
+  "playlists": [
+
+  ]
+}

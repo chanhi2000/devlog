@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "bo-sar",
+    "name": "Bo Sar",
+    "profile": "https://yt3.googleusercontent.com/Q7351WlEaHSx3JJ-3Tde_Y5H10eBVIOARNIZHj560y_KsrvgtRWqe3NLz2ckX26QA0y46gcFsw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QXq7jHK1ikGtZn672dA2_Dml6JU3-FiJDXoj7p_LrlmpNkTndYfwf8XdsvY-Qu7PPkB_EzuFyA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jQu-mSGckPk", "title": "Add Advanced Voice Mode to Your Website (No Code)" },
+    { "id": "c-KkfR6X6aY", "title": "How to Integrate a Custom GPT into Instagram (Step-by-Step Guide)" },
+    { "id": "DvIeL0yLq7o", "title": "How to Build an AI Voice Agent for Cold Calling (Relevance AI Tutorial)" },
+    { "id": "NV8SozrkZD4", "title": "AI System to Automatically Create and Publish Social Media Content" },
+    { "id": "KRxlz5tQ8xY", "title": "How to Integrate an AI Chatbot with a CRM System" },
+    { "id": "rZi9wtOge68", "title": "The Easiest Way to Integrate a Custom GPT into WhatsApp (No Code)" },
+    { "id": "b-DP0xPBwmI", "title": "How to Build an AI Agent Using OpenAI Realtime API (Step-by-step Guide)" },
+    { "id": "3kcpxdG7Yvs", "title": "AI Voice Agents: Full Guide from Beginner to Pro" },
+    { "id": "SWP3k-24jT4", "title": "How to Build AI Chatbots: Full Guide from Beginner to Pro (Latest Update)" },
+    { "id": "WIEf7i8TAvA", "title": "Launching an AI Automation Agency Part 2 (Didn't Expect This)" },
+    { "id": "sWbqPKkI44g", "title": "How to Integrate GPT-4o Assistant Into Your Website (updated)" },
+    { "id": "qg5OiEWsIKE", "title": "How to Build an AI Chatbot Using Spreadsheets as a Knowledge Base" },
+    { "id": "Y2WcpimFP2w", "title": "How to Create GPT-4o Assistant With Vision Capabilities (Tutorial)" }
+  ],
+  "playlists": [
+
+  ]
+}

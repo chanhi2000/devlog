@@ -138,6 +138,7 @@ tag:
   - [Using Native iOS Navigation from Compose Multiplatform](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070)
   - [KMPNotifier Update: Web, Desktop, and New Features for Kotlin Multiplatform Notifications](https://proandroiddev.com/kmpnotifier-update-web-desktop-and-new-features-for-kotlin-multiplatform-notifications-529b489f5d9c)
   - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
+  - [Widgets With Glance: Beyond String States](https://proandroiddev.com/widgets-with-glance-beyond-string-states-2dcc4db2f76c)
   <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)

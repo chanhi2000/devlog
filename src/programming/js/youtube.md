@@ -38,5 +38,6 @@ head:
 <MyYouTubeItems jsonName="yu-frontendzonedotcom" /><!-- frontendzone -->
 <MyYouTubeItems jsonName="yu-ku-plrg" /><!-- KU-PLRG -->
 <MyYouTubeItems jsonName="yu-bit-buddy" /><!-- BitBuddy -->
+<MyYouTubeItems jsonName="yu-ColorCodeio" /><!-- ColorCode -->
 
 <TagLinks />

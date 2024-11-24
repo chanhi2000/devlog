@@ -1,11 +1,42 @@
 {
   "channel": {
+    "id": "WelchLabsVideo",
+    "name": "Welch Labs",
+    "profile": "https://yt3.googleusercontent.com/Hqn6st1mzGYcnBI3rjNYqylkolPp-iWG6mErZYpoOaZ0F6Uqbr-Sm-5VfAi_GkuUivN1ND-CQaY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yX6F1X9kmxq0AndRXMDUSwF4X-DGV9YOG0uyw_rzARQrRL1ID0e2R5A2brVLeg4F_w1W0oPIaQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+
+  ],
+  "playlists": [
+
+  ]
+}{
+  "channel": {
     "id": "ycombinator",
     "name": "Y Combinator",
     "profile": "https://yt3.googleusercontent.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/cVsaSWEGbBdrwtXnoixvau-WlIh-WhVh-_MAx52WeXRmfivkOS3x8pr0pWvsvZiR5a76V3wP=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eBVi_sLaYsc", "title": "Why Vertical LLM Agents Are The New $1 Billion SaaS Opportunities" },
+    { "id": "jbIQfoldLag", "title": "Now Anyone Can Code: How AI Agents Can Build Your Whole App" },
+    { "id": "wH3TKpALlw4", "title": "Starting A Company? The Key Terms You Should Know | Startup School" },
+    { "id": "Lv9bKyQgoHo", "title": "Why OpenAI's o1 Is A Huge Deal | YC Decoded" },
+    { "id": "ASABxNenD_U", "title": "Vertical AI Agents Could Be 10X Bigger Than SaaS" },
+    { "id": "xXCBz_8hM9w", "title": "How To Build The Future: Sam Altman" },
+    { "id": "LHUnje0NLG0", "title": "The Times When Paranoia Fueled Technological Advancement" },
+    { "id": "7Kh_fpxP1yY", "title": "How To Convert Customers With Cold Emails" },
+    { "id": "VyIOoqjm8HA", "title": "Reinventing AI Image Generation" },
+    { "id": "FlonCU9txXI", "title": "What Founder Mode Really Means" },
+    { "id": "ClWQCm2h9iI", "title": "The Problem With Startup \"Experts\"" },
+    { "id": "LSUviaN1eso", "title": "Gmail Creator Paul Buchheit On AGI, Open Source Models, Freedom" },
+    { "id": "_-5xJQ4U8g0", "title": "Are We In An AI Hype Cycle?" },
+    { "id": "VNxBZ7ka5J0", "title": "How to Improve Cohort Retention | Startup School" },
+    { "id": "0fKYVl12VTA", "title": "Enterprise Sales | Startup School" },
+    { "id": "4hjiRmgmHiU", "title": "How To Price For B2B | Startup School" },
+    { "id": "IjPDIjge81o", "title": "Startup Experts Discuss Doing Things That Don't Scale" },
+    { "id": "iMo5-4h_XwE", "title": "What Is ZIRP And How Did It Poison Startups?" },
     { "id": "fmI_OciHV_8", "title": "Building AI Models Faster And Cheaper Than You Think" },
     { "id": "0TNTlMZFTWw", "title": "Why This Is The Perfect Time To Start A Startup" },
     { "id": "KxjPgGLVJSg", "title": "How New Technology Creates New Businesses" },

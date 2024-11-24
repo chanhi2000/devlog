@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/4aR6MPWJoVieWXDgUDOaCeNE7QrhUkqRMYO0GSZki797j1JM1JADIIwCQCrYevl53_cNoTh_ag=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OfpPhaYhU8k", "title": "[인포그랩] GitLab 배포 승인으로 안전하게 배포하기 #파이프라인 #승인후배포 #배포승인" },
+    { "id": "NALJ-IlBCA4", "title": "[인포그랩] 코드에 시크릿 키 코드에 포함되지 않게 보호하기! GitLab Secret Push Protection #깃랩 #GitLab #DevOps" },
+    { "id": "bDu-uIOetyo", "title": "[인포그랩] CI/CD 파이프라인 고급 관리하기 #devops #파이프라인 #CICD" },
+    { "id": "8VKKLhKZU3A", "title": "[인포그랩] GitLab CI/CD 파이프라인 데모로 해보기 - 기본편 #basic #gitlab #파이프라인 #infograb #devops #devsecops" },
+    { "id": "0cL0-HhFeN0", "title": "[인포그랩] GitLab 사용자 관리하기! IP주소와 메일 도메인으로 접근 통제하기 #깃랩 #GitLab #DevOps" },
     { "id": "u31ZpYkVGD4", "title": "#인포그랩  GitLab 16.10 릴리즈 한글 영상 - CI/CD 카탈로그 시맨틱 버저닝" },
     { "id": "E1uqEwWX1CU", "title": "#인포그랩 - #DORA 지표를 활용하여 #GitLab #DevOps 성숙도 높이기" },
     { "id": "Vl_t-ZSlU0g", "title": "[인포그랩] GitLab Push Rules 기능 데모로 알아보기 #pushrules #gitpush #gitlab" },

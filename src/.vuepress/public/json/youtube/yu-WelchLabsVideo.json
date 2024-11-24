@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "WelchLabsVideo",
+    "name": "Welch Labs",
+    "profile": "https://yt3.googleusercontent.com/Hqn6st1mzGYcnBI3rjNYqylkolPp-iWG6mErZYpoOaZ0F6Uqbr-Sm-5VfAi_GkuUivN1ND-CQaY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yX6F1X9kmxq0AndRXMDUSwF4X-DGV9YOG0uyw_rzARQrRL1ID0e2R5A2brVLeg4F_w1W0oPIaQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MprJN5teQxc", "title": "Kepler’s Unbelievable Path to a New Astronomy" },
+    { "id": "uVKMY-WTrVo", "title": "What is the i really doing in Schrödinger's equation?" },
+    { "id": "hBkmyJ3TE0g", "title": "The impossible equation at the heart of Kepler’s laws" },
+    { "id": "W06g7gIfwRE", "title": "Oppenheimer's Gamble - The Plutonium Crisis" },
+    { "id": "OjIwCOevUew", "title": "The Most Useful Curve in Mathematics [Logarithms]" },
+    { "id": "0fgbMTC30F8", "title": "How Rare is the April 2024 Eclipse?" },
+    { "id": "Phscjl0u6TI", "title": "How the Bizarre Path of Mars Reshaped Astronomy [Kepler's Laws Part 1]" },
+    { "id": "MprJN5teQxc", "title": "How the Bizarre Path of Mars Reshaped Astronomy [Kepler's Laws Part 2]" },
+    { "id": "UZDiGooFs54", "title": "The moment we stopped understanding AI [AlexNet]" },
+    { "id": "f8CXG7dS-D0", "title": "The most beautiful equation in math, explained visually [Euler’s Formula]" },
+    { "id": "5eqRuVp65eY", "title": "AI can't cross this line and we don't know why." },
+    { "id": "hBkmyJ3TE0g", "title": "Kepler’s Impossible Equation" },
+    { "id": "-auPuUxNWSc", "title": "How Kepler handled his impossible equation." },
+    { "id": "UZDiGooFs54", "title": "The moment we stopped understanding AI [AlexNet]" }
+  ],
+  "playlists": [
+
+  ]
+}

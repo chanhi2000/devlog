@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "RPACommunity",
+    "name": "RPACommunityチャンネル",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nf9C_VwP9ZEvKqEORQBV3y-7oVkyoAiN1sQqwn1CpVaxQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/92jp5GFYggFM31BXp6kg5aBwHW7zXS7hXnQw-RxzLTmbqh3mGmjSTQgJThVdLBHOyBpFaWJsOw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GO0OcMdtTHI", "title": "【LIVE】最新レポート報告会｜WinActor 10th Anniversary Day 2024 東京" },
+    { "id": "GO0OcMdtTHI", "title": "【LIVE】最新レポート報告会｜WinActor 10th Anniversary Day 2024 東京" },
+    { "id": "eaJkp9g0cMY", "title": "【完全解説】Gemini for Google Workspaceを使いこなす！初心者でもわかる導入ガイド" },
+    { "id": "8fUYUTDPCr0", "title": "AppSheetで広がる！Google Workspaceと一緒にできること✨" },
+    { "id": "BWjvnVpt9Ao", "title": "【AppSheet】もう悩まない！帳票作成で困ることはこの動画で解決します！" },
+    { "id": "EYSVw1kTgnQ", "title": "業務効率化のヒントが満載！ Google Workspace、Microsoftなど、身近なツールで始める業務改善！【2024年10月】" },
+    { "id": "LxcrToRE0wY", "title": "知って得するGoogleドライブ活用術📂共有＆管理の裏ワザ" },
+    { "id": "07nTOMRtAyM", "title": "生成AIの必要性と最新トピックを解説！Gemini for Google Workspaceで広がるAI活用の可能性！" },
+    { "id": "V-AE7hcdOXE", "title": "Google Workspace で業務効率が爆上がり！意外と知らない便利なTipsも紹介！" },
+    { "id": "QH3zaI-j6oE", "title": "AppSheetで手相占いアプリを作ってみた【話題のAI Gemini搭載】" },
+    { "id": "aQ0RHMv-e0g", "title": "【初心者向け】AppSheetで自分だけのタスク管理アプリを作ってみよう！" },
+    { "id": "mZ-tdi1nUac", "title": "【2024年9月】Power Automate for desktopの最新情報！" },
+    { "id": "Ia9FusoDVNs", "title": "Power Automate for desktopでPDFを自在に操る！【完全解説】" },
+    { "id": "0ADj93Ek-cE", "title": "RPACommunity発信！WinActor Ver7.5.0の新機能を紹介！" },
+    { "id": "V86o55ZOqTE", "title": "【9月最新】IT企業が得意のITネタを披露！IT企業ライトニングトーク！" },
+    { "id": "gYY_r76d5Wo", "title": "AppSheet desktop modeが遂にGA！ノーコードアプリ開発の効率もアップ✨" },
+    { "id": "PaPThizG-So", "title": "IT企業が得意のITネタを披露！IT企業ライトニングトーク！" },
+    { "id": "qflr7bg_P5M", "title": "参加型のイベントで使える！GoogleスライドでQAを取り上げる方法" },
+    { "id": "rHQG91n67Lw", "title": "Google サービスのスペシャリストがマクロの観点から生成AIの現在と未来を捉える" },
+    { "id": "LUVyI7yO9rE", "title": "Gemini for Google Workspaceって何ができる？プロが解説！" },
+    { "id": "9Dp0CYMJbpA", "title": "【LIVE】RPACommunity名称検討会～RPAの歴史とこれから～" },
+    { "id": "SLKu4mqIpYA", "title": "テックネタ大集合！ライトニングトーク！Power Automate、WinActor、Google Workspace など" },
+    { "id": "7MxqwIDNJSI", "title": "Google Workspaceで問い合わせ業務を改善！システム構築方法を大公開！" },
+    { "id": "6Ob42VjrfAU", "title": "AppSheetでディズニーの待ち時間を計測するアプリを作ってみた！" },
+    { "id": "hP7Rx1dC_LY", "title": "Power Automate for desktopのアップデート情報を学ぼう【2023下期】" },
+    { "id": "UAUGzr-oiXc", "title": "APIを使わずにPower Automate for desktop と kintone を連携する方法！" },
+    { "id": "rzwHhv1V2aM", "title": "【WinActor】技術サポートでよく見るパターンと便利な活用方法" },
+    { "id": "-saWsYWS7X4", "title": "【WinActor × kintone】APIを叩いて自動登録する方法を紹介！" }
+  ],
+  "playlists": [
+
+  ]
+}

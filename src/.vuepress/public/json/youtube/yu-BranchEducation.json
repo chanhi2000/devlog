@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "BranchEducation",
+    "name": "Branch Education",
+    "profile": "https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3X1e1GvgvvMHIwUhi8wv6y4q6Xpl4juQ3Y2ValbQ-dFj_u3-XMvI3JW6ZWexv4qWwb_c7Bc14g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "h9Z4oGN89MU", "title": "How do Graphics Cards Work?  Exploring GPU Architecture" },
+    { "id": "iOlehM5kNSk", "title": "What Makes Computer Generated Images Look Real? Exploring Ray Tracing and CGI" },
+    { "id": "dX9CGRZwD-w", "title": "How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps" }
+  ],
+  "playlists": [
+
+  ]
+}

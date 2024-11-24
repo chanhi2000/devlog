@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "EUPThatsMe",
+    "name": "EUP That's Me!",
+    "profile": "https://yt3.googleusercontent.com/sDme7JrRlfK7k8GKVpIkyvoLEVopbsc9myy_xk4em7A761b1zGSCXYqkaUgFYacYQE-wWEu_Fw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Wo5u2Jm2iclQkc2rfK9HYk1U9QoHp9A99lVwLy4bxhBbGw5fvfE6NiP6XVsCVjdbOZvejvoadQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eooNF_kCtJQ", "title": "Broken Locket? - 3D Printing to the Rescue!" },
+    { "id": "M0EWM4Y_hAc", "title": "Relaxing Electronics Assembly Time Lapse [no talking]" },
+    { "id": "zj6PMjSHYxk", "title": "The Arduino I2C Multi-Device Emulator [more I2C for the money]" },
+    { "id": "2PNu2NnK7iA", "title": "Rapidifing 3D Printed Prototypes [Minimal Test Prints for Maximum Impact]" },
+    { "id": "Dzo41t758ro", "title": "Arduino Breakout Box Final Assembly [Part 1]" },
+    { "id": "0IgBmH_Fwt8", "title": "Becoming the Name Mangler!" },
+    { "id": "aEdmibHocdE", "title": "Porting Command Line Programs [Windows to Linux]" },
+    { "id": "7eMZGklZGrg", "title": "Colorize Your Code: Gedit Styles and Language-specs [Demystified]" },
+    { "id": "UuaQyGuSr_M", "title": "God's Favorite Programming Language: GAT-C [a virtual processor]" },
+    { "id": "6sqbX7MaXTo", "title": "Optimize your C Code: Switch to the Function Pointer Fast Lane" }
+  ],
+  "playlists": [
+
+  ]
+}

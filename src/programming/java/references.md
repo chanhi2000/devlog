@@ -1081,10 +1081,13 @@ tag:
 
 ### ROMAIN GUY
 
-- [Speeding up `isBlank()`](https://www.romainguy.dev/posts/2024/speeding-up-isblank/)
-- [Micro-optimizations in Kotlin — 1](https://www.romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
-- [Readability of Optimized Kotlin Code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
-- [Down a Rabbit Hole](https://www.romainguy.dev/posts/2024/down-a-rabbit-hole/)
+- [Speeding up `isBlank()`](https://romainguy.dev/posts/2024/speeding-up-isblank/)
+- [Micro-optimizations in Kotlin — 1](https://romainguy.dev/posts/2024/micro-optimizations-in-kotlin-1/)
+- [Readability of Optimized Kotlin Code](https://romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
+- [Down a Rabbit Hole](https://romainguy.dev/posts/2024/down-a-rabbit-hole/)
+- [A Micro-optimization You Will Never Need](https://romainguy.dev/posts/2024/a-micro-optimization-you-will-never-need/)
+
+<!-- END: romainguy.dev -->
 
 ### Kt.academy
 

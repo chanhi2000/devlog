@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ICbbL5doxwWIrEyu_4C9t0Yj8x69QXMcvp7AVatDgon8WqceSSUbPKJNAcOp8IBK9EtWO6ZF=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hSSxuO6GdcE", "title": "Build a SwiftUI App with Claude AI" },
+    { "id": "_lsnGyF2WZg", "title": "Create an Animated Mesh Gradient in SwiftUI" },
+    { "id": "9Ze0Lfx-8qY", "title": "Design a Car mobile app for iOS 18 in Figma" },
+    { "id": "_Lqa5o4gKJI", "title": "Build a React Site from Figma to Codux - 2-hour course" },
+    { "id": "XXr3qdznxOA", "title": "Master Responsive Layouts in Figma" },
+    { "id": "3qAAfKcJK08", "title": "Prototype and Code iOS apps in Figma" },
     { "id": "A7qI3HAEu18", "title": "A Step-by-Step Smart Home Design with Figma and Mobbin" },
     { "id": "cgovoHOqS3s", "title": "Create 3D UI for iOS and visionOS in Spline - Free Course" },
     { "id": "RJokEINz76o", "title": "Build an Interactive Site with Wix Studio - Free course" },

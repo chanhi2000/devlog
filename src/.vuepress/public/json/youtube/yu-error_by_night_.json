@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/CYbaF--GsoE05AvFUpdqJzGq6yJJWBIjJHxJYjo677ZEjfwwplSVTaUdWfnooRxAgNjX8DEs=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BKMuqz-guec", "title": "Jarvis-AI Part 2: Building a Stunning GUI with Kivy + LLM Integration (Gemini Model)" },
+    { "id": "1GbJQ7fHgqo", "title": "Build & Deploy an AI-Powered Calculator App | IPad Math Notes Clone" },
+    { "id": "hWhWdf2gsfQ", "title": "Learn Django: Build 5 Websites in 5 Hours | Beginner to Advanced Tutorial" },
+    { "id": "FUQ3dmoo2bI", "title": "Modern News Aggregator 📰 With MERN Stack | Step-by-Step Guide | Avanish Patidar | Error by Night 📺" },
     { "id": "NpPBBKXraP0", "title": "BUILD YOUR OWN PERSONAL VIRTUAL ASSISTANT 🤖 : LIKE JARVIS USING PYTHON | CHATBOT | DHRUV DESHMUKH" },
     { "id": "o-0ZN-_KfeE", "title": "Live Weather App with City Pics using Python and Django Framework | Web Development | Dhruv Deshmukh" },
     { "id": "Bu8_77S9w6g", "title": "Personal Portfolio web application built using Django| Python | By Avanish Patidar | Error By Night" },

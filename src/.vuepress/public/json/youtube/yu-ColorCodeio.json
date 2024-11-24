@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/CMxP1jzSihXkslLcCTLbKa1E8gtirnvHHaUAPAX8lCpC7JKfDVQpY2bjj2Fe0RboNhoJMLgD=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   }, 
   "videos": [
+    { "id": "okkHnAo8GmE", "title": "JavaScript Event Loop -- Visualized!" },
+    { "id": "7kvCRXpMbcE", "title": "Part 1 of 7 Benefits of First Class Functions #coding #javascript #programming #webdevelopment #code" },
     { "id": "nGDPm86Btlw", "title": "7 Benefits of First-Class Functions - JavaScript Tutorial" },
     { "id": "BceIT1Lke-E", "title": "JavaScript Pure Functions - Tutorial for beginners" },
     { "id": "lE_79wkP-1U", "title": "What is Factory Function in JavaScript? - JS Tutorial" },

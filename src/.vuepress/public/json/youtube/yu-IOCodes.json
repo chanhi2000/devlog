@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/4UnBUCUkgTBu1SFl39fo2BdMHRQ4S95tvXSrHNVcTDEQLYcgZ0eKg7B0GPLOnfS6ch8aev3VUw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "JplXRig1XLI", "title": "Master Spring Boot Documentation with OpenAPI and Swagger" },
+    { "id": "pZ3OxvAVzhI", "title": "Build a Banking Dashboard With Reactjs, Tailwindcss & Tabnine" },
+    { "id": "hSzCjqZs_uE", "title": "Build A Complete Fullstack banking app with Spring Boot, AI and Reactjs" },
+    { "id": "1NBe49G220U", "title": "OAuth2 opaque token implementation" },
+    { "id": "iy3DGjxMYrQ", "title": "Implementation of OAuth2 clients registration." },
+    { "id": "6SED8hVOK2g", "title": "Token Revocation In Spring OAuth2 Authorization Server" },
+    { "id": "rF_vWRy6CeA", "title": "Deploying a Spring Boot Application to AWS: Latest Step-by-Step Guide." },
+    { "id": "YEtFvdZVxrg", "title": "CI-CD Deployment of a Springboot application In AWS." },
+    { "id": "LM_Bnhf26Ew", "title": "Build a complete OAuth2 Authorization Server with Springboot" },
+    { "id": "QVXxgjKuSFg", "title": "PKCE Protection In Spring Security Oauth2 authorization server" },
+    { "id": "jZIkV5Z05VM", "title": "A Complete Tutorial on how to Build a Spring Boot Book API Project With Spring Data Rest 2" },
+    { "id": "mUq9MGe5vZA", "title": "Complete Spring Security & JWT tutorial [2024]" },
+    { "id": "KW5EwW1iPJE", "title": "Spring security & Jwt tutorial update" },
+    { "id": "TkoKdO5Knhk", "title": "The Ultimate Guide to Firebase Storage Integration in Spring Boot" },
     { "id": "d-iLjxICiVw", "title": "A Complete Tutorial on how to Build a Spring Boot Book API Project With Spring Data Rest" }
   ]
 }

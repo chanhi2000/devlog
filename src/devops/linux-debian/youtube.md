@@ -148,5 +148,6 @@ tag:
 <MyYouTubeItems jsonName="yu-MichaelNROH" /><!-- Michael Horn -->
 <MyYouTubeItems jsonName="yu-EverydayLinuxUser" /><!-- Gary Newell -->
 <MyYouTubeItems jsonName="yu-theradlectures" /><!-- The Rad Lectures -->
+<MyYouTubeItems jsonName="yu-InterfacingLinux" /><!-- Interfacing Linux -->
 
 <TagLinks />

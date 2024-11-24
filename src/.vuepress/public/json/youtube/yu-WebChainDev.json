@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/mlv5yTL3ExPRhyC2JnE9hiAPkrq6lbCj5ylmJhC19UZlzVjA7HmeHv1yeAt7jDbNrd3MpKUBwng=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "K_STbmH-620", "title": "Build a Stunning Animated Website with React, Next.js, Tailwind CSS & GSAP" },
+    { "id": "2GstdyDuXIk", "title": "Create Amazing Animated Cards with border animations || React.js, Tailwind CSS" },
     { "id": "QMMOsPI01MQ", "title": "Running AI Models Locally | And why it's better" },
     { "id": "0siQoaXMmzk", "title": "Build and Deploy animated Portfolio Website with Next.js and Framer Motion" },
     { "id": "cXegJZVLSXo", "title": "Create Next 14 Animated Product Section with Card Flip | Typescript & Tailwind CSS" },
