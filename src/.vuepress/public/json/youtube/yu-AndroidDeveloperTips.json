@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "AndroidDeveloperTips",
+    "name": "Android Developer Tips",
+    "profile": "https://yt3.googleusercontent.com/HcCF12W-UKPWvH1kDcdPOvldYfVkpkmRvG_pzpHbmtgoLyDwvSmYp6TJFBmH-Ew7J5GQ8uV_HA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BTyRxlinY2PcKTykAPLZRoSsw0MBjgS1r7cO99F08IUXUWXjN-I5Adem5Wj5Uef_C0Em68eSGg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "s7BLtB1p8gc", "title": "Sauce Labs - Website and mobile testing at every stage of development — droidcon Berlin 2024" },
+    { "id": "SEBRBnh61nI", "title": "fun code(): A magazine for Kotlin developers" },
+    { "id": "T99cHrYTVus", "title": "Screenshotbot  - An improved screenshot testing workflow — droidcon Berlin 2024" },
+    { "id": "2jgVvAvF7b4", "title": "CARIAD  - Building the leading tech stack for the automotive industry — droidcon Berlin 2024" },
+    { "id": "a17fJ2ApSI8", "title": "ditto  - Sync apps with or without the internet — droidcon Berlin 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

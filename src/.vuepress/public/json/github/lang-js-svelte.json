@@ -1,8 +1,18 @@
 [
   {
     "repo": "open-webui/open-webui",
-    "desc": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "officialSite": "https://openwebui.com",
-    "topics": ["ai", "chromadb", "llm", "llm-ui", "llm-webui", "llms", "ollama", "ollama-webui", "open-webui", "rag", "self-hosted", "ui", "webui"]
+    "topics": ["ui", "ai", "self-hosted", "openai", "webui", "rag", "llm", "llms", "ollama", "llm-ui", "ollama-webui", "llm-webui", "open-webui"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a375d8f14fee51039a00a20f1aefe31a4ec97703e365f533562736a6ffa5d451/open-webui/open-webui"
+  }, {
+    "repo": "leaningtech/webvm",
+    "desc": "Virtual Machine for the Web. Contribute to leaningtech/webvm development by creating an account on GitHub.",
+    "officialSite": "https://webvm.io",
+    "topics": ["vm", "cpp", "repl", "webassembly", "wasm", "lwip", "xterm-js", "cheerp", "webvm", "tailscale", "cheerpx"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785"
   }
+  
 ]

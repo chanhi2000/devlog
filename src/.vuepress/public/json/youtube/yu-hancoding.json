@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/tACZG_fRqUzl1hor8vp6IW26BZPjC14kWNpodrq_uxRhc4M5DC_r8jTxVxaGakqh8aQ1ZNkI=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NHYnFJ-Rej4", "title": "HTML의 기본 구조와 java script의 선언 위치 feat.defer" }
+  ],
+  "playlists": [
     {
       "title": "스프링 부트 게시판 무작정 따라하기",
       "videos": [

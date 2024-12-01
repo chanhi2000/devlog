@@ -234,6 +234,8 @@ head:
 - [`@superlipbalm` / (번역) 렌더링 지연을 개선해 LCP 점수 향상하기](https://velog.io/@superlipbalm/lcp-render-delay)
 - [`@9rganizedchaos` / 🏃🏻‍➡️ 프론트엔드 개발자 창업 도전기](https://velog.io/@9rganizedchaos/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B0%BD%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0)
 - [`@parallelkim` / 2주간 퇴근 후 혼자 개발해 사용자 400명 모으기](https://velog.io/@parallelkim/%ED%95%9C%EC%9E%90%EC%8B%AB%EC%96%B4)
+- [`@sweet_sumin` / 논문 - Scaling Memcached at Facebook: A look at the complexities of Caching](https://velog.io/@sweet_sumin/%EB%85%BC%EB%AC%B8-Scaling-Memcached-at-Facebook-A-look-at-the-complexities-of-Caching)
+- [`@superlipbalm` / (번역) 페이지 로드 속도 향상을 위한 중요 요청 체이닝 방지](https://velog.io/@superlipbalm/avoid-chaining-critical-requests)
 
 <!-- END: velog.io -->
 
@@ -340,6 +342,8 @@ head:
 - [`@2fEJ` / 게이미피케이션: 사용자 몰입을 유도하는 전략적 설계 - UX Book 리뷰 #1](https://brunch.co.kr/@@2fEJ/1509)
 - [`@2fEJ` / 고객 중심 사고로 돌파구를 찾아야 한다 - UX Book 리뷰 #2](https://brunch.co.kr/@@2fEJ/1510)
 - [`@2fEJ` / UX 디자인, 선택의 순간에서 설득의 기술로 - UX Book 리뷰 #3](https://brunch.co.kr/@@2fEJ/1511)
+- [`@2hV3` / UX/UI 디자인 포트폴리오에서의 결과해석은? - 7가지 결과해석용 데이터 패턴에 대하여](https://brunch.co.kr/@@2hV3/256)
+- [`@2hV3` / 프롤로그: 새로운 시대의 디자이너란? - 새로운 시대를 맞는 디자이너의 마음가짐](https://brunch.co.kr/@@2hV3/258)
 
 <!-- END: brunch.co.kr -->
 
@@ -455,6 +459,11 @@ head:
   - [API Gateway란? 역할, MSA 활용, 그리고 장단점](htts://dreamcoding.tistory.com/m/121)
   - [힙 메모리 관점에서 바라본 `static` 필드 사용의 장단점](https://dreamcoding.tistory.com/m/124)
   <!-- END: dreamcoding -->
+- [`zinee-world` / zineeworld](https://zinee-world.tistory.com/m/)
+  - [\[디자인시스템\] 우아한형제의 '우아한공방' #우아콘](https://zinee-world.tistory.com/m/655)
+  - [핀크 (2023.08 ~ ing)](httpss://zinee-world.tistory.com/m/658)
+  - [\[2023\] 핀크 디자인 시스템 구축기 (작성중)](httpss://zinee-world.tistory.com/m/659)
+  <!-- END: zinee-world -->
 <!-- END: tistory.com -->
 
 ---

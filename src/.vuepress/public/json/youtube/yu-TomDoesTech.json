@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/P-awJyTRhvagO7ehYEoFFazDGsmxeiw1DoVkgDKVP5itd3PMv85aDpjaTA86y86rrDTZNiHg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Xk8yaN9_PZA", "title": "Publish NPM Packages & Automate with GitHub Actions" },
+    { "id": "WATbI8BPMIo", "title": "TypeScript Finally Fixed Array.filter" },
+    { "id": "c_SW96DvQ18", "title": "Why I'm Using This One Library for Server Actions in Next.js" },
+    { "id": "ZzkCFFXHZrY", "title": "Spot This For A Quick Node.js Performance Boost" },
+    { "id": "Ip9cBjA_B-g", "title": "The Easiest Way to Test Your Applications With a Real Database" },
+    { "id": "A37tBAPpgY0", "title": "How I Built a Marketplace with Stripe Connect" },
+    { "id": "Dhwk_4HcnAc", "title": "How I Would Build a Software System for Scale" },
     { "id": "_XnkMnDtsGs", "title": "Add a Rate Limiter to your Next.js Application in 5 Lines of Code" },
     { "id": "NHvCbd_FUHA", "title": "Pub/Sub with Redis" },
     { "id": "k00jVJeZxrs", "title": "Introducing The GoTTH Stack - Go, Tailwind CSS, Templ & HTMX" },

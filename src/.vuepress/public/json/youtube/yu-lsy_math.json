@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/wgYA2p1C3hggVQXoJGbUeE26ndy9jZ0cLJUBiETWUQqM1LHVNDtEPygi2sVcWJsj7jDH08ca=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cVUp0Bnve4s", "title": "[강연] 타원곡선암호 (ECC, Elliptic Curve Cryptography)" },
+    { "id": "Z32BaiWcc5E", "title": "(이상엽Math 작사,편곡)  √-1 = i   // 가사는 고정댓글에 있어요." },
+    { "id": "XIkOziLBA1Q", "title": "삼각함수 송 Metal ver." },
+    { "id": "AhKguH8El4M", "title": "[지식in] 허수의 크기" },
     { "id": "2jjnebhxFN4", "title": "[강연] 왜 (-1)^2 2 =  -1 일까?" }
   ]
 }

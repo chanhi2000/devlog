@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/gkG83nvk3sZ9yltMVrGvIfw2H-9j8OmZ5ORvJ5tjFGOYwRBI8LMHtMYqOqMm6viUhtF93tKx6Nc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "gE-PhXnvp30", "title": "newsraft - Terminal RSS Feed Reader - Linux TUI" },
+    { "id": "D9fzO7MYS2M", "title": "Sunshine and Moonlight for Game Streaming or Remote Desktop" },
+    { "id": "LaOtYrnPNrA", "title": "mech-dump - Dump all URLs of a Webpage - Linux CLI" },
+    { "id": "IpHdH1mCUVc", "title": "amulecmd - Command Line aMule eD2k and Kademlia P2P Client - Linux CLI" },
+    { "id": "qwpK4rqAZwA", "title": "notekami - Simple Cheatsheet, Snippets, Note Taking Manager - Linux TUI CLI" },
+    { "id": "Uu4lQQGk464", "title": "KOReader - E-ink Document Viewer - Linux Android Eink" },
     { "id": "cik2zaDaIdo", "title": "dotool - Simulate Keyboard and Mouse Input Anywhere (X11, Wayland, TTYs) - Linux CLI" },
     { "id": "eANLqIhOgWw", "title": "reverbeats - Play Relaxing Ambient Sounds - Linux TUI" },
     { "id": "YGsq4ogwmBk", "title": "zinger - level up your Meme via FZF - Linux TUI" },

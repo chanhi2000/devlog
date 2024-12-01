@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "필로소피",
+    "name": "필로소피 AI 교육",
+    "profile": "https://yt3.googleusercontent.com/lHYn5WnS_Znx9Gcs8IIrXryXS1uqBN8CkfEdyDjsCg16XHc5xq-56wtSrpYRZBe-r4hkckdg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/djksQ-jJmLuaGutCZdfxp4Bki1XjHrEiWyWGq7hsPOSA0i83kLihoRY15T3-grj48toLew9p=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "A2QSFtCxe2I", "title": "Qwen 2.5 coder (나만의 코딩 전문가)" },
+    { "id": "qLBvwnPGpdA", "title": "Llama 3.2 Vision 11B (멀티모달 기능 : 나만의 총무팀)" },
+    { "id": "ukLIGHE7ZzM", "title": "작은거인, Llama 3.2 1B (Edge AI, 크기 : 581 MB)" },
+    { "id": "ey9PzhVSxMQ", "title": "Llama 3.2 11b Vison 써보기 (나만의 인테리어 전문가)" },
+    { "id": "QjRbFzvrL_I", "title": "GPT 고급 음성 모드 (나만의 AI 직원 만들기)" },
+    { "id": "CFUJu6vFjvo", "title": "Cursor AI 쉬운 활용법 (+Gemini API, Streamlit) : 나만의 논문 리뷰팀" },
+    { "id": "Ed6zJ3ejssg", "title": "Llama 3.2 Fine Tuning (+RAG) : 나만의 고객 응대팀" },
+    { "id": "_nsUzEwV0uo", "title": "'구조화된 프롬프트'로 양질의 답변 얻기 (필로소피의 AI 고민 상담소 #1)" },
+    { "id": "BX7CyKJQSZg", "title": "업무 문서 AI로 각색하기 (네이버 뉴스 API 연동, 필로소피의 AI 고민 상담소 #2)" },
+    { "id": "wsGy72A5tDQ", "title": "나만의 AI 광고홍보팀 만들기 #1 (이미지 생성 AI/ 미드저니, Flux, Ideogram2.0, Imagen3)" },
+    { "id": "DlVx-VrHXVs", "title": "Flux에 내 이미지 학습시키기 (feat. 독도지킴이 안용복 장군님/ 나만의 광고홍보팀 #2)" },
+    { "id": "01VEYuyuA4I", "title": "맞춤형 Gemini, Gems 솔직 후기!" },
+    { "id": "ZtQNOWweldY", "title": "(추론하는 AI) OpenAI GPT o1-preview, mini 사용 후기 (클로드 3.5 sonnet 성능 비교)" },
+    { "id": "kg2b9WimRBQ", "title": "GPT o1은 프롬프트 엔지니어링이 안 필요한가요?" },
+    { "id": "zQ9l_1Z-0BI", "title": "RAG 첫걸음 with Llama 3.1" },
+    { "id": "muegRx2IoLY", "title": "법률 전문가를 위한 Llama 라마 3.1 활용법" },
+    { "id": "-uDy6zlU9sc", "title": "Llama 라마 3.1 405B 온라인에서 무료로 써보기 (나만의 글로벌 정치 분석팀)" },
+    { "id": "6Ba83Q0LrBc", "title": "내 데이터 분석하기 with Llama 라마 3.1" },
+    { "id": "18fvcPbRX5w", "title": "Llama 3.1 Fine Tuning + 저장 후 실행까지!" },
+    { "id": "cx-ftYTYm3g", "title": "클로드 Prompt Caching (RAG의 대체재가 될 것인가 : API 비용 감소, 속도 증가)" },
+    { "id": "nReaDQbW0bg", "title": "클로드 prompt caching with PDF" },
+    { "id": "QaOIcJDDDjo", "title": "Lama 3.1 Fine Tuning with my dataset (내 데이터셋으로 라마 파인튜닝 하는 방법)" },
+    { "id": "WJEYjY7JByc", "title": "나만의 컨텐츠팀 만들기 (유튜브, 블로그, 인스타그램)" },
+    { "id": "2V57NhHOpSs", "title": "(2부) AI 시대의 교육자, 부모님들을 위한 인터뷰 5 (이희완 헥사플러스 대표님)" },
+    { "id": "buh0ZEwwsSY", "title": "GPTs로 나만의 데이터 분석팀 만들기 #2 (유튜브, 네이버, 구글 API 연동 완료)" },
+    { "id": "YWcvndcCLhQ", "title": "나만의 코딩 선생님 만들기 (클로드 3.5 Sonnet)" },
+    { "id": "G0_o8HsMyog", "title": "나만의 심리 상담사 만들기 (클로드 3.5 Sonnet, Hugging Face Assistants)" },
+    { "id": "sEu-UVuuWtM", "title": "GPTs로 나만의 일정 매니저 만들기 #3 (Zapier API 연동 완료)" },
+    { "id": "BkG2O9JrsDQ", "title": "클로드 API 활용법 (나만의 코딩 선생님)" },
+    { "id": "5Vf-sAvyJLI", "title": "OpenAI Assistants API 활용법 (나만의 교육팀 만들기)" }
+  ],
+  "playlists": [
+
+  ]
+}

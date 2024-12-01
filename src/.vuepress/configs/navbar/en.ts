@@ -148,8 +148,11 @@ export const navbarEn = navbar([
           '/programming/js-angular/README.md',
           '/programming/js-nest/README.md',
           '/programming/js-next/README.md',
+          '/programming/js-jest/README.md',
+          '/programming/js-puppeteer/README.md',
           '/programming/js-storybook/README.md',
           '/programming/js-gatsby/README.md',
+          '/programming/js-n8n/README.md',
           '/programming/js-supabase/README.md',
           '/programming/js-mermaid/README.md',
         ]

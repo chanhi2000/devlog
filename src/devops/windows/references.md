@@ -86,6 +86,7 @@ tag:
   <!-- END: webnautes -->
 - [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
   - [장치관리자 느낌표 : 알 수 없는 장치, SM 버스 컨트롤러, PCI 장치](https://sunyzero.tistory.com/m/303)
+  - [AMD 내장 그래픽 튜닝 (7840HS) - 아드레날린 메모리 옵티마이저](https://sunyzero.tistory.com/m/305)
   <!-- END: sunyzero -->
 - [`cori` / 코딩하는 오리](https://cori.tistory.com/m/)
   - [starting docker engine error](https://cori.tistory.com/m/362)

@@ -3686,5 +3686,33 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/d114d848a9b90b4ddeeab4a68f43d704b2befb6ba8a3b447554a48cd9fa20e0e/muze-nl/jaqt"
+  }, {
+    "repo": "Pana/nrm",
+    "desc": "NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao",
+    "officialSite": "",
+    "topics": ["npm", "nrm", "registries", "registry-manager"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0bb1b7e4a1d0a0ca00148c9fd76c742298f9db21c0c2e73c51ab2c2d8481e349/Pana/nrm"
+  }, {
+    "repo": "kaiban-ai/KaibanJS",
+    "desc": "KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.",
+    "officialSite": "https://www.kaibanjs.com/",
+    "topics": ["javascript", "state-management", "ai", "kanban", "agents", "multi-agent-systems", "llms", "langchain-js", "agentic", "agentic-framework", "agenticjs"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1513f4a5849811c3ab341177d766a217d01f8b131dda810693b09d20f900cfb2/kaiban-ai/KaibanJS"
+  }, {
+    "repo": "akopdev/obsidian-textgrams",
+    "desc": "Create and store ASCII graphics in your Obsidian. Contribute to akopdev/obsidian-textgrams development by creating an account on GitHub.",
+    "officialSite": "/obsidianmd/obsidian-sample-plugin",
+    "topics": ["ascii", "ascii-art", "asciidoc", "obsidian"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1d3e6a23feb88cb47375f1607c6fe7c233c7b47673e1d75732765603746f7474/akopdev/obsidian-textgrams"
+  }, {
+    "repo": "xzitlou/jsontr.ee",
+    "desc": "Effortlessly visualize JSON structures as dynamic tree diagrams",
+    "officialSite": "https://jsontr.ee",
+    "topics": ["javascript", "json", "json-schema", "json-parser", "jsontree", "jsonlint", "jsonlint-tree", "jsontree-library", "json-vi", "json-visu"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/894105996/df17f930-36f7-4446-aeaa-c2cabe4181c9"
   }
 ]

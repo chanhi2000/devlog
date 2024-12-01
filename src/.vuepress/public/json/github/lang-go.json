@@ -2771,5 +2771,61 @@
     "topics": ["kubernetes", "distributed-systems", "container-log", "global-query"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/8fc75ad92e694d1626859219688c15982ab95be548f05e91fab0c095ee2708ab/naver/lobster"
+  }, {
+    "repo": "google/go-safeweb",
+    "desc": "Secure-by-default HTTP servers in Go. Contribute to google/go-safeweb development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["golang", "http", "security", "http-server", "security-hardening"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f541ded1011efa5c5e8aaac200b697e17b0c8e7174b54eb523c70503122434fb/google/go-safeweb"
+  }, {
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "officialSite": "https://victoriametrics.com/",
+    "topics": ["kubernetes", "database", "monitoring", "influxdb", "cluster", "grafana", "scalability", "graphite", "prometheus", "opentsdb", "k8s", "tsdb", "observability", "promql", "thanos"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/150954997/0f9b6486-aa17-4e01-8aba-602b667ed6ba"
+  }, {
+    "repo": "charmbracelet/sequin",
+    "desc": "Human-readable ANSI sequences 🪩. Contribute to charmbracelet/sequin development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/880055789/9756f2c7-960b-4dd3-bf89-de54c1a13387"
+  }, {
+    "repo": "ssoready/hyrumtoken",
+    "desc": "A Golang package to encrypt your pagination tokens",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c8d81496c50352887ac4a8c6e095f8283b4f3888cfc2fcc3010dc65f864c59fa/ssoready/hyrumtoken"
+  }, {
+    "repo": "doxx/darkflare",
+    "desc": "DarkFlare Firewall Piercing (TCP over CDN). Contribute to doxx/darkflare development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["golang", "security", "proxy-server", "censorship-circumvention", "tunneling", "tunnel-server", "tunnel-client", "security-tools", "vpns", "firewall-piercing", "tcpocdn"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/935cb8a95e68944bcb28c2324968fab953f859d8098528f095403946f8d96cc0/doxx/darkflare"
+  }, {
+    "repo": "destel/rill",
+    "desc": "Go toolkit for clean, composable, channel-based concurrency",
+    "officialSite": "",
+    "topics": ["go", "golang", "streaming", "pipeline", "functional-programming", "concurrency", "channels", "generics", "goroutines"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/954f51409d7f2eb1af187750954a8f6bcc84bb5c72c2c43c541161a0d9e5b7b8/destel/rill"
+  }, {
+    "repo": "janderland/fql",
+    "desc": "Foundation DB Query Language. Contribute to janderland/fql development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/cc3abeab533dacab73bff1811e812c4ce3a53a94f416fa73d7eefba73375ae92/janderland/fql"
+  }, {
+    "repo": "vinceanalytics/vince",
+    "desc": "Self Hosted Alternative To Google Analytics. Contribute to vinceanalytics/vince development by creating an account on GitHub.",
+    "officialSite": "https://www.vinceanalytics.com/",
+    "topics": ["web-analytics", "self-hosted", "cloud-native", "vince"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/cc33d1b7160d0fc4195af7fbb23841ce0bf30957bc52f513a0616a95fa9e2fbd/vinceanalytics/vince"
   }
 ]

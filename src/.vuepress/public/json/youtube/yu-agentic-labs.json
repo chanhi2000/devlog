@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "agentic-labs",
+    "name": "Agentic Labs",
+    "profile": "https://yt3.googleusercontent.com/E1jyl9VMKJ3YZNbUuwyKz-Uq6rOHVY4sPboHVU5x0q1GlhZb195yuuTuBH15CstEDyR1Bvjh=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "88gHXPxdUvU", "title": "lsproxy - Precise code navigation via an API" },
+    { "id": "72wuD9cJtjc", "title": "Glide - AI editor for easier, collaborative technical design" }
+  ],
+  "playlists": [
+
+  ]
+}

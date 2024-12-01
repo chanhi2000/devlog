@@ -93,8 +93,9 @@ tag:
 - [`@baealex` - 실용적인 프론트엔드 테스트](https://blex.me/@baealex/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [`@laetipark` - 명품 웹 프로그래밍 정리 노트 : 2. HTML5](https://blex.me/@laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-2-html5)
 - [`@laetipark` - 명품 웹 프로그래밍 정리 노트 : 3. HTML5 문서 구조화와 웹 폼](https://blex.me/@laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-3-html5-%EB%AC%B8%EC%84%9C-%EA%B5%AC%EC%A1%B0%ED%99%94%EC%99%80-%EC%9B%B9-%ED%8F%BC)
-- [`@laetipark` - 명품 웹 프로그래밍 정리 노트 : 4. CSS3로 웹 페이지 꾸미기](https://blex.me/@laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-4-css3%EB%A1%9C-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
-- [`@simp7` - TL;DR CSS - 1](https://blex.me/@simp7/tldr-css-1)
+- [`@laetipark` / 명품 웹 프로그래밍 정리 노트 : 4. CSS3로 웹 페이지 꾸미기](https://blex.me/laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-4-css3%EB%A1%9C-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
+- [`simp7` / TL;DR CSS - 1](https://blex.me/@simp7/tldr-css-1)
+- [`baealex` / Sass @import 및 Legacy API 해결 방법](https://blex.me/@baealex/sass-import-legacy-api-deprecation)
 
 ---
 
@@ -737,6 +738,7 @@ tag:
 ## Ykss
 
 - [(번역) CSS에서의 인라인 조건문?](https://ykss.netlify.app/translation/inline_conditional_in_css/)
+- [(번역) 폰트 성능 최적화를 위한 궁극적인 가이드](https://ykss.netlify.app/translation/the_ultimate_guide_to_font_performance_optimization/)
 
 <!-- END: ykss.netlify.app -->
 

@@ -369,6 +369,10 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   - [\[Docker Compose\] `depense_on`으로 서비스 의존 관계 설정하기](https://devs0n.tistory.com/m/199)
   - [Docker 로컬 Redis cluster 개발 환경 구성](https://devs0n.tistory.com/m/202)
   <!-- END: devs0n -->
+- [`syaku` / 샤쿠 블로그](https://syaku.tistory.com/m/)
+  - [n8n - 워크플로우 자동화 도구](https://syaku.tistory.com/m/435)
+  - [Traefik: 클라우드 네이티브 시대의 현대적인 리버스 프록시](https://syaku.tistory.com/m/437)
+  <!-- END: syaku -->
 <!-- END: tistory.com -->
 
 ---

@@ -2371,5 +2371,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/dafae75e57be472d270f449b3c2b3620e0ce968f71160d9c524dd2557d9dd070/turingbirds/ping-clock"
+  }, {
+    "repo": "epasveer/seer",
+    "desc": "Seer - a gui frontend to gdb. Contribute to epasveer/seer development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["debugger", "debugging", "qt", "cpp", "gdb", "qt5", "debugger-visualizer", "debug", "gdb-mi", "debugger-visualizers", "debugger-gdb", "debugging-tools", "debugging-tool", "gdb-ui", "debuggers", "gnu-debugger", "gdbserver", "gdb-frontend", "qt6"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0d179869dd793e5dbd87650482c58e73723a99d3069a00db0c7146780aaa9134/epasveer/seer"
+  }, {
+    "repo": "jart/json.cpp",
+    "desc": "JSON for Classic C++. Contribute to jart/json.cpp development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/58186fd0125a36a2941b2acab2b053476df0b392578b2cff2823c0e171587e71/jart/json.cpp"
+  }, {
+    "repo": "bab2min/Kiwi",
+    "desc": "Kiwi(지능형 한국어 형태소 분석기). Contribute to bab2min/Kiwi development by creating an account on GitHub.",
+    "officialSite": "https://lab.bab2min.pe.kr/kiwi",
+    "topics": ["nlp", "cpp", "morphology", "korean", "word-segmentation", "morphological-analysis", "korean-text-processing", "korean-tokenizer", "korean-nlp"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/82677855/eb9fa478-175d-47a5-8e07-0e169c030ff5"
   }
 ]

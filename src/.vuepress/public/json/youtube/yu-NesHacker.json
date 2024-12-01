@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/rgkPOEMtT2U8OOTv--1FIPiq0nAVC4i88ccmQCBknjFjVwJZs1ADQ37ziLbhi3amCt7GwCZ9YA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HSUvPVTVRCw", "title": "RNG on the NES" },
     { "id": "luBSm1SbR7g", "title": "Game Boy Development Environment" },
     { "id": "RtY5FV5TrIU", "title": "NES Development Environment" },
     { "id": "ZuKIUjw_tNU", "title": "The Code That Makes Mario Move" }

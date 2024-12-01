@@ -264,6 +264,7 @@ head:
 
 - [Next.js dynamic route의 에러 처리](https://lovemewithoutall.github.io/it/nextjs-dynamic-route-error-handling/)
 - [Next.js 14 parallel route 오류 해결법](https://lovemewithoutall.github.io/it/nextjs-parallel-route-error/)
+- [next.js dynamic import](https://lovemewithoutall.github.io/it/nextjs-no-dynamic-import/)
 
 <!-- END: lovemewithoutall.github.io -->
 
@@ -274,5 +275,7 @@ head:
 - [Next.js의 환경 변수와 런타임 환경 변수 활용](https://ykss.netlify.app/devlog/next14_environment_variables/)
 
 <!-- END: ykss.netlify.app -->
+
+---
 
 <TagLinks />

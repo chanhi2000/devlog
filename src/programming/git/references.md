@@ -486,8 +486,17 @@ head:
 
 - [중간 커밋 수정하기 - `git rebase -i`](https://zerocho.com/category/Git/post/67356085f3923a320c7145f9)
 - [여러 커밋 합치기 - `git squash`](https://zerocho.com/category/Git/post/6735635ff3923a320c714a92)
+- [제일 처음 커밋 앞에 커밋 추가하기](https://zerocho.com/category/Git/post/673cc471d44b1e6d6a984f49)
 
 <!-- END: zerocho.com -->
+
+---
+
+## YoungSeon.Ahn
+
+- [함수형 자바스크립트](https://lovemewithoutall.github.io/it/functional-programming-in-javascript/)
+
+<!-- END: lovemewithoutall.github.io -->
 
 ---
 

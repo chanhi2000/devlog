@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "XEi0GWvf824", "title": "누구나 이해할 수 있는 Vue 3 컴포지션 API – 30분 핵심 정리" },
+    { "id": "vPILJPJ9Hs8", "title": "요즘 핫한 데이터베이스 Supabase" },
+    { "id": "edytOrD62f4", "title": "Vue3 양방향 데이터 전달 이제 이거로 끝" },
+    { "id": "hWbwu5dM7k8", "title": "2024 Svelte 강좌 한방에 몰아보기 - 2시간 정주행" },
     { "id": "LcTakn-YxLo", "title": "Vue 3의 더 나은 상태관리를 위한 Pinia" },
     { "id": "f9tISs0EpnE", "title": "Animation counter" },
     { "id": "FRCmMF7rB2s", "title": "Vue 3에서 Ref와 Reactive의 차이점" },

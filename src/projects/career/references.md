@@ -165,6 +165,7 @@ tag:
 - [`@invidam` / 데이터 엔지니어 신입, 어떻게 성장할까?](https://velog.io/@invidam/data-engineering-beginner)
 - [`@juhee067` / 디자이너에서 개발자로, 그리고 기획자로](https://velog.io/@juhee067/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A1%9C)
 - [`@bestswlkh0310` / Silicon Valley makes person attractive](https://velog.io/@bestswlkh0310/Silicon-Valley-makes-person-attractive)
+- [`@broccolism` / "40년차 프로그래머" 번역 - (2) 결국, 하게 된다](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-2-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -196,6 +197,7 @@ tag:
 - [`giljae` / 풀스택 개발자, 현실적으로 가능한가?](https://giljae.medium.com/%ED%92%80%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80-4e62c8a3fc2c?source=rss-bb87e9e8047d------2)
 - [`jaeyeong951` / 저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
 - [`lionha` / 신한캐피탈, 이유없이 창업자에게 15%의 연이자로 투자금 반환 소송을 걸다. - 1편](https://medium.com/@lionha/%EC%8B%A0%ED%95%9C%EC%BA%90%ED%94%BC%ED%83%88-%EC%9D%B4%EC%9C%A0%EC%97%86%EC%9D%B4-%EC%B0%BD%EC%97%85%EC%9E%90%EC%97%90%EA%B2%8C-%ED%88%AC%EC%9E%90%EA%B8%88-%EB%B0%98%ED%99%98-%EC%86%8C%EC%86%A1%EC%9D%84-%EA%B1%B8%EB%8B%A4-1%ED%8E%B8-78d1d356bf3e)
+- [`dongmin-jang` / \[Log\] 2024 SIA — 3](https://dongmin-jang.medium.com/log-2024-sia-3-9829975f9919?)
 
 <!-- END: medium.com -->
 
@@ -397,6 +399,33 @@ tag:
 - [`@2weV` / 플랜트 건설, 그리고 앱 건설](https://brunch.co.kr/@@2weV/587)
 - [`@3L0s` / DX 기반: 공급역량의 디지털화 - 디지털 혁신-23](https://brunch.co.kr/@@3L0s/148)
 - [`@2weV` / 영어 인터뷰에서 후회를 남기지 않는 방법.](https://brunch.co.kr/@@2weV/588)
+- [`@R17` / 최후의 승자는 오래 사는 사람.](https://brunch.co.kr/@@R17/653)
+- [`@2rV` / 프로덕트 채널 핏이 성장 전략을 좌우한다](https://brunch.co.kr/@@2rV/195)
+- [`@2rV` / 기획은 전략이 아니다 - Roger Martin - 기획의 함정에서 벗어나 이기는 전략으로 향하는 길](https://brunch.co.kr/@@2rV/196)
+- [`@2weV` / Cross-Border Deal 의 어려움](https://brunch.co.kr/@@2weV/592)
+- [`@2hV3` / 헤리티지, 시간을 초월한 브랜드 유산 - 전통과 혁신이 만나는 지점](https://brunch.co.kr/@@2hV3/257)
+- [`@2weV` / 위대함 보다는 담대함](https://brunch.co.kr/@@2weV/593)
+- [`@2weV` / 엔비디아 재직자 분과 대화하며 느낀 점 - 혁신의 필요성](https://brunch.co.kr/@@2weV/594)
+- [`@2weV` / 꾸준한 글쓰기의 비결](https://brunch.co.kr/@@2weV/595)
+- [`@LOc` / 강의안 | 창업유형별 정부지원사업 정보 - 창](https://brunch.co.kr/@@LOc/237)
+- [`@2weV` / SaaS 뿐 아니라, 에듀테크도 B2B가 트렌드이다 - 본문에 Ringle B2B 서비스 소개가 포함되어 있습니다.](https://brunch.co.kr/@@2weV/597)
+- [`@2weV` / 함께 일하기 편한(좋은) 사람들의 특징](https://brunch.co.kr/@@2weV/598)
+- [`@2weV` / 과대 포장(지나친 자기 PR)은 피해야 한다.](https://brunch.co.kr/@@2weV/596)
+- [`@gpO` / 밀리언그라운드에 방문하시는 분들에게 배운 한 가지.](https://brunch.co.kr/@@gpO/108)
+- [`@LOc` / 강의안 | 로컬 기반 아이디어 발견과 고도화 - 창업](https://brunch.co.kr/@@LOc/238)
+- [`@2weV` / 성공으로 기억되는 구직자들 in 실리콘밸리](https://brunch.co.kr/@@2weV/601)
+- [`@2Kn8` / 단언적 표현은 어렵다 - 주관편](https://brunch.co.kr/@@2Kn8/225)
+- [`@LOc` / 강의안 | 로컬 기반 아이디어 발견과 고도화 - 창업](https://brunch.co.kr/@@LOc/238)
+- [`@2weV` / 돌파구가 되어보자 (소규모 조직에서의 실행자의 재미)](https://brunch.co.kr/@@2weV/602)
+- [`@3L0s` / DX 기반: 구성원 역량의 디지털화 - 디지털 혁신-24](https://brunch.co.kr/@@3L0s/149)
+- [`@5sFx` / 04. 당신은 상사를 어떻게 관리하고 있나요? - &rdquo;상사도 관리해야 합니다&ldquo;](https://brunch.co.kr/@@5sFx/122)
+- [`@5sFx` / 05. 실패와 실수에 관대한 조직이 만들어내는 혁신 - &ldquo;실수해도 괜찮아 - 물론 배움과 성장이 있어야 하지만&rdquo;](https://brunch.co.kr/@@5sFx/123)
+- [`@2weV` / 두 번 찾아오는 각기 다른 불공평함](https://brunch.co.kr/@@2weV/605)
+- [`@2weV` / 팀 효율을 높이기 위한 협업 원칙](https://brunch.co.kr/@@2weV/606)
+- [`@2weV` / 2025년, 역량 보다는 언어(영어)](https://brunch.co.kr/@@2weV/607)
+- [`@2xm` / 숙련된 개발자의 역할 - TDD를 배우기 어려운 이유](https://brunch.co.kr/@@2xm/87)
+- [`@2Kn8` / 프로그래밍에 정답은 없다 - 트레이드오프](https://brunch.co.kr/@@2Kn8/228)
+- [`@LOc` / 강의안 | 2025 창업에 필요한 소비트렌드 정보 - 창업](https://brunch.co.kr/@@LOc/239)
 
 <!-- END: brunch.co.kr -->
 
@@ -590,6 +619,9 @@ tag:
   - [책: 그들의 생각을 바꾸는 방법 - 자신만의 현실](https://jusths.tistory.com/m/393)
   - [피드백하는 12가지 방법](https://jusths.tistory.com/m/403)
   - [책: 도메인 주도 설계 핵심](https://jusths.tistory.com/m/409)
+  - [클린 애자일 다시 읽기 - 1장 애자일 소개](https://jusths.tistory.com/m/428)
+  - [클린 애자일 다시 읽기 - 2장 왜 애자일인가](https://jusths.tistory.com/m/429)
+  - [클린 애자일 다시 읽기 - 3장 비즈니스 실천 방법](https://jusths.tistory.com/m/430)
   <!-- END: jusths -->
 - [`jakpentest` / 뭐라도 해야 한다면 기록을 하자](https://jakpentest.tistory.com/m/)
   - [[24년 3월] 하기 싫으면 관둬라](https://jakpentest.tistory.com/m/entry/24%EB%85%84-3%EC%9B%94-%ED%95%98%EA%B8%B0-%EC%8B%AB%EC%9C%BC%EB%A9%B4-%EA%B4%80%EB%91%AC%EB%9D%BC)
@@ -639,6 +671,7 @@ tag:
 - [`hl1itj` / 쉽게 살 수 있을까 ?](https://hl1itj.tistory.com/m/)
   - [자기소개서 이해와 잘 쓰는 법](https://hl1itj.tistory.com/m/261)
   - ['요새 개발자 채용시장'에 관한 동영상의 댓글들](http://hl1itj.tistory.com/m/266)
+  - [자기소개서, 네가 아는 그거 아니다.](https://hl1itj.tistory.com/m/270)
   <!-- END: hl1itj -->
 - [`pjh3749` / JayTech의 기술 블로그](https://pjh3749.tistory.com/m/)
   - [우아한형제들을 퇴사하며](https://pjh3749.tistory.com/m/289)
@@ -681,6 +714,7 @@ tag:
   - [그냥 하기 (명량한 염세주의)](https://puleugo.tistory.com/m/193)
   - [이상적인 개발자의 해커톤을 준비 방법](https://puleugo.tistory.com/m/205)
   - [당신의 블로그, 계왕권을 쓸 수 있다.](https://puleugo.tistory.com/m/206)
+  - [상호 존중하는 PR 만들기](https://puleugo.tistory.com/m/214)
   <!-- END: puleugo -->
 - [`csj000714` / 드프 DrawingProcess](https://csj000714.tistory.com/m/)
   - [\[생각 정리\] 왜 이렇게 열심히 살까? 목표가 있는 건가?](https://csj000714.tistory.com/m/1133)
@@ -1048,6 +1082,7 @@ tag:
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/)
 - [두 번째 이직 회고](https://ykss.netlify.app/essay/review_kurly/)
+- [컨벤션에 대하여 : 여러분의 컨벤션은 안녕하신가요?](https://ykss.netlify.app/essay/about_convention/)
 
 <!-- END: ykss.netlify.app -->
 
@@ -1782,6 +1817,14 @@ https://m.blog.naver.com/&logId=
 - [디셉티브 패턴의 역사](https://wiki.g15e.com/pages/History%20of%20deceptive%20patterns)
 
 <!-- END: wiki.g15e.com -->
+
+---
+
+## hoseung.me
+
+- [토스는 죄가 없다](https://blog.hoseung.me/2024-11-17-toss-is-innocent/)
+
+<!-- END: blog.hoseung.me -->
 
 ---
 

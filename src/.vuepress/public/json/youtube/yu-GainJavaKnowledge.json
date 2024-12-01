@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/fgne5iN8kECw3Gk8-792W-A-HS5klc8hyw19hMlLlbYO_EvG1M0RhZp38_bEVaPjtgqOpiJDd7w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7oE8Oh6V6hk", "title": "Request Body and Parameter Validation in Spring Boot" },
+    { "id": "i5g-VzUBfeQ", "title": "Most Important topic to cover before Java + Spring boot Interview" },
+    { "id": "Fnf-uYhtgvM", "title": "How to replace multiple if-else conditions with map" },
+    { "id": "QBnAIZuovrQ", "title": "Java Tricky interview questions for experienced" },
+    { "id": "d1TO4JnXwP8", "title": "Why is 1 == 1 is true but Value greater than 127 is false." },
+    { "id": "NOl12qgiWHc", "title": "Rule Engine for Spring Boot" },
     { "id": "TkPXJPl5JP4", "title": "How to use CommandLineRunner in Spring Boot Application" },
     { "id": "bLJh3WXSh-M", "title": "Stop using @value annotation in spring boot" },
     { "id": "02p5Lop5gmc", "title": "Pessimistic Lock in Spring Boot" },

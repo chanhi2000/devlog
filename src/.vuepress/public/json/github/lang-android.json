@@ -888,5 +888,26 @@
     "topics": ["kotlin-multiplatform", "compose-multiplatform"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/632826313/d9d51481-594f-4b44-8745-b1c8f960275e"
+  }, {
+    "repo": "grab/app-sizer",
+    "desc": "A tool designed to analyze the download size of Android applications. Provides detailed insights into app binary composition through a Gradle plugin and CLI tool to help developers optimize app siz...",
+    "officialSite": "https://grab.github.io/app-sizer/",
+    "topics": ["android", "grafana", "gradle-plugin", "custom-gradle-plugin", "app-size"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a29cb050986ec40256c12c18b58902f71dd61819c5f4d95475f1240d390ed39a/grab/app-sizer"
+  }, {
+    "repo": "Tweener/passage",
+    "desc": "A Kotlin/Compose Multiplatform library for seamless authentication on Android and iOS.",
+    "officialSite": "/Tweener/kmplate-lib",
+    "topics": ["android", "ios", "firebase", "mobile", "authentication", "auth", "compose", "firebase-auth", "kotlin-multiplatform", "compose-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/896077027/5db285db-ca2c-4069-878a-64ba1376b0c0"
+  }, {
+    "repo": "lemcoder/KonanPlugin",
+    "desc": "Gradle plugin for compiling C source files to static libraries for all targets supported by Kotlin Multiplatform",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/5041da11a37219c192e864ed0d63b5138d34bd1080558da0965d0cdde467a788/lemcoder/KonanPlugin"
   }
 ]

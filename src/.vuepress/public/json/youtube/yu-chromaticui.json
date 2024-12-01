@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "chromaticui",
+    "name": "Chromatic",
+    "profile": "https://yt3.googleusercontent.com/yo1tSFC3iXx0tojVmlViGYrl2fXN4uPbhLRmeft9qkkSaTc19sZzXC3kKag2UKX5ETaXuDGDaA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Kepn74wAzFKYB3hmbiAky8zXF8VPYKi8QU8F06ik81T5OqaEmfP3NxOadmn-GTYjkPiPhpyg3A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HNdDkAlfgdU", "title": "Storybook Paris meetup #3" },
+    { "id": "eUcVttkFAsM", "title": "Storybook 8" }
+
+  ],
+  "playlists": [
+
+  ]
+}

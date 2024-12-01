@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/SYn6AA4VZCICUvbqvLKdZvKp2ZM2e5ZIk8OnMeJwwUS_ixF5PlxUy_Enn6_CBckjBtTpXAQC6QA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Q87jbIEwZKU", "title": "tail -f releases.log" },
+    { "id": "Mt7AakbyhbY", "title": "Create images of code from your terminal (ft. Freeze)" },
+    { "id": "9xCwBdlo85g", "title": "Self-host a git server with Soft Serve + Docker" },
+    { "id": "0YoHqRfKE1k", "title": "Serve terminal apps like websites | custom SSH server (Wish)" },
+    { "id": "Iy2AWRZ7avM", "title": "Why serve apps over SSH (ft. Wish)" },
     { "id": "IMd05f0Msyg", "title": "You WILL glamourize your CLI" },
     { "id": "ss-DOiHrEjM", "title": "Custom CLI tables just got easier (ft. Lip Gloss)" },
     { "id": "yiFhQGJeRJk", "title": "Building Taskwarrior in Golang using Cobra and Charm tools" },

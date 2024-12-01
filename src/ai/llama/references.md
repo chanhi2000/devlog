@@ -113,4 +113,12 @@ head:
 
 ---
 
+## another blog for seen
+
+- [라마(Llama) 3 계열 한국어 모델 블라썸 Bllossom 8B - 한국어 질의응답 파인튜닝 (feat. AWQ 양자화, vLLM 사용법)](https://m.blog.naver.com/se2n/223443729640)
+
+<!-- END: se2n (blog.naver.com) -->
+
+---
+
 <TagLinks />

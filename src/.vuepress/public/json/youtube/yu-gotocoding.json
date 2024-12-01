@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "gotocoding",
+    "name": "빵굽는개발자 빵형",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mhadFKYt5btulaV0OqmfyX2ZICbloJQv2WB5gclB8iMdE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d6rDDMXlB-v9dq-Z4PD8wYuZCTRuYxRMxBOgQIEQIrKsxzOK9gzy1dR68mUNs_Lip3tS7ahomQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cp9LZhjvBFM", "title": "SI 와 자사 서비스에 따른 개발자 이력서 차이" },
+    { "id": "5cvXZrbfO0s", "title": "IT지식 습득하는 방법 알려줘?" },
+    { "id": "msGxvYScJ2A", "title": "이직하는 프로그래머들의 자격증" },
+    { "id": "lgiOE4w4pCs", "title": "오랜만에 DI통과자가 나왔는데... 다음은..." },
+    { "id": "B__4SmtTELM", "title": "진짜 DI와 AOP를 모르는 경력자가 한 둘이 아니였다" },
+    { "id": "rTFNV1-li2Q", "title": "면접 때 볼 때 경력이직자에게 취준생 단골질문을 해보았다" },
+    { "id": "PswYF_GduXY", "title": "빵형처럼 곰같이 일하지 말고 여우처럼 일하세요" }
+  ],
+  "playlists": [
+
+  ]
+}

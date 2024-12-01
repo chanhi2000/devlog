@@ -31,6 +31,16 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-google"/>Google
+
+### <FontIcon icon="fa-brands fa-google-drive"/>Google Drive
+
+- [Ubuntu 24.10 Release & 20 Years Party ASP.NET 배포하기](https://docs.google.com/presentation/d/1QkF9X3tQoj6WPbkq5WOlWHdyh8JQThCd2YmVliFb_N8/edit)
+
+<!-- END: docs.google.com -->
+
+---
+
 ## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 ### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
@@ -362,6 +372,7 @@ head:
   - [ASP Classic에서 파라미터화된 쿼리 사용법: 보안성과 효율성 개선](https://aspdotnet.tistory.com/m/3320)
   - [C# : 날짜 용도별 DateTimeLibrary 의 메소드 샘플 코드](https://aspdotnet.tistory.com/m/3321)
   - [ASP.NET Core 8 다양한 의존성 주입(Dependency Injection) 활용도](https://aspdotnet.tistory.com/m/3332)
+  - [C# 개발자를 위한 생산성과 코드 품질 향상 10가지 실천법](https://aspdotnet.tistory.com/m/3335)
   <!-- END: aspdotnet -->
 - [`hyunjungchoi` / 행뽁🐥](https://hyunjungchoi.tistory.com/m/)
   - [Downloadable and Preloaded Fonts on Android](https://hyunjungchoi.tistory.com/m/153)

@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/dN9wkzXzBUa8zHfJTSeXTD7a20gCXBq7pNBp7gTCalEdJY2dXhJn0bnkRI03aHdIAVJnv0M2kA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5I81Caq6uwQ", "title": "3 Powerful Design Patterns You Should Know" },
+    { "id": "5JJ_RlXohb8", "title": "Swift First Impression (as a .NET Developer)" },
+    { "id": "Us5y1yzMo3Q", "title": "Clean Error Handling In .NET" },
+    { "id": "pgCJYNyayeM", "title": "Migrations Done Right in .NET" },
+    { "id": "0PCFdmb7kxo", "title": "The Best Way To Organize Your Program.cs In ASP.NET" },
+    { "id": "KSBOSL61OYU", "title": "Getting Started with Dapper in .NET" },
+    { "id": "siI1tnkwglg", "title": "Global Error Handling in .NET 8 - My Favorite Approach" },
+    { "id": "DuozyaJQQ1U", "title": "Presentation Logic vs Application Logic vs Domain Logic" },
+    { "id": "yQtgY4VG3kM", "title": "Dockerize Your .NET Application in 5 Minutes!" },
+    { "id": "JiJeZOHx0ow", "title": "Getting started with Docker Compose" },
     { "id": "2hiKyFi1mgI", "title": "Exceptions are evil. This is what I do instead." },
     { "id": "Ms0dFXx3OMc", "title": "ASP.NET 8 REST API Tutorial - The \"Sweet Spot\" Architecture" },
     { "id": "0vC4Xt4wqTk", "title": "Stop Calling Your API a \"REST API\"" },

@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/aWAoSz7-CKrhB-nyw0cVxEkbUQ13f4ead0xAOo98Y5ZsOB--PY2BrxLX9QA9aw8Gq0MvEkTMYcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dCTDbD7TxXw", "title": "소프트웨어 접근성 기술 UI 자동화 강의 소개" },
+    { "id": "DVlV3Zm-lmM", "title": "아나콘다 다운로드 및 설치, jupyter notebook 실행" },
+    { "id": "T-pWRfZiTQI", "title": "파이썬 입문 - 예외 처리" },
+    { "id": "gySWqRi5QUA", "title": "파이썬 입문 - 클래스 상속 (상속, 재정의, 추상클래스)" },
+    { "id": "i5CZVxDBTSU", "title": "파이썬 입문   클래스의 메서드 종류" },
+    { "id": "wZnXVUHXdPE", "title": "파이썬 입문   클래스 개요" },
+    { "id": "joS9CNFA0oc", "title": "[C++] Windows 그룹 내 사용자 목록 - NetLocalGroupGetMembers 함수" },
+    { "id": "Mmz2mIm5930", "title": "[C#] Windows 그룹 내 사용자 목록 - NetLocalGroupMembers함수, DllImport" },
+    { "id": "c2ank2rjKnU", "title": "[C#] Windows 계정 추가 삭제" },
     { "id": "R_4dNGWCxk4", "title": "Part 12. 제어문I (조건문과 선택문) [디딤돌 C언어]" },
     { "id": "KECzHGcyYEc", "title": "Part 13.  제어문II (반복문, 별출력) [디딤돌 C언어]" },
     { "id": "CX2H7xyDdcA", "title": "Part 14.  배열과 포인터 그리고 산술 연산 [디딤돌 C언어]" },

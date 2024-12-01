@@ -139,7 +139,8 @@ tag:
   - [KMPNotifier Update: Web, Desktop, and New Features for Kotlin Multiplatform Notifications](https://proandroiddev.com/kmpnotifier-update-web-desktop-and-new-features-for-kotlin-multiplatform-notifications-529b489f5d9c)
   - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
   - [Widgets With Glance: Beyond String States](https://proandroiddev.com/widgets-with-glance-beyond-string-states-2dcc4db2f76c)
-  <!-- END: proandroiddev -->
+  - [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://proandroiddev.com/a-developers-roadmap-to-mastering-kotlin-multiplatform-e4e03aef765f)
+<!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
 - [`kotlin-academy` / How to build a YouTube player using Kotlin](https://blog.kotlin-academy.com/building-a-youtube-player-using-kotlin-b0e4beef302a)
@@ -201,7 +202,10 @@ tag:
 - [`andresand` / How to create Toast message in CMP Compose MultiPlatform | Android and iOS](https://andresand.medium.com/how-to-create-toast-message-in-kmp-compose-multiplatform-android-and-ios-00397d8147bc)
 - [`sunghyunroh` / 안드로이드개발 팁. `implementation` 배포한 라이브러리 or 배포할 라이브러리](https://medium.com/@sunghyunroh/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EA%B0%9C%EB%B0%9C-%ED%8C%81-implementation-%EB%B0%B0%ED%8F%AC%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-or-%EB%B0%B0%ED%8F%AC%ED%95%A0-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-9ab839d377a1)
 - [`sunghyunroh` / 내 앱이 왜 켜졌을까?꺼졌을까? — ApplicationStartInfo와 ApplicationExitInfo](https://medium.com/@sunghyunroh/%EB%82%B4-%EC%95%B1%EC%9D%B4-%EC%99%9C-%EC%BC%9C%EC%A1%8C%EC%9D%84%EA%B9%8C-%EA%BA%BC%EC%A1%8C%EC%9D%84%EA%B9%8C-applicationstartinfo%EC%99%80-applicationexitinfo-2744f033d423)
-- [Jetpack Compose UI 조합(Composition)하기 심화](https://medium.com/@wisemuji/jetpack-compose-ui-%EC%A1%B0%ED%95%A9-composition-%ED%95%98%EA%B8%B0-%EC%8B%AC%ED%99%94-33910e8f09df?source=rss-874b5ef30828------2)
+- [`wisemuji` / Jetpack Compose UI 조합(Composition)하기 심화](https://medium.com/@wisemuji/jetpack-compose-ui-%EC%A1%B0%ED%95%A9-composition-%ED%95%98%EA%B8%B0-%EC%8B%AC%ED%99%94-33910e8f09df?source=rss-874b5ef30828------2)
+- [`wisemuji` / LazyColumn 작동 방식 이해하기](https://medium.com/@wisemuji/lazycolumn-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-0a5433f31306?)
+- [`raed-o-ghazal` / How to Open System Settings in Compose Multiplatform](https://raed-o-ghazal.medium.com/how-to-open-system-settings-in-compose-multiplatform-9c0545cff3ea)
+- [`andresand` / Voice to Text | Kotlin | Android Jetpack Compose](https://andresand.medium.com/voice-to-text-kotlin-android-jetpack-compose-3e4419dcbac3)
 
 <!-- END: medium.com -->
 
@@ -267,6 +271,9 @@ tag:
   - [Compose 동작원리](http://namget.tistory.com/m/entry/Compose-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
   - [Jetpack Compose Internals - 1장 함수들](https://namget.tistory.com/m/entry/Jetpack-Compose-Internals-1%EC%9E%A5)
   <!-- END: namget -->
+- [`nkstar-ios` / 뚝딱뚝딱 모바일](https://nkstar-ios.tistory.com/m/)
+  - [\[Android\] 다운로드 받은 스토어를 구분해보자](https://nkstar-ios.tistory.com/m/40)
+  <!-- END: nkstar-ios -->
 <!-- END: tistory.com -->
 
 ---
@@ -488,6 +495,7 @@ tag:
 - [Android에서 효율적인 모듈 디펜던시 관리하기, build-logic으로 전환하기?](https://thdev.tech/android/2024/10/20/Android-dependency-manage/)
 - [안드로이드 Theme와 `GetStream` Theme를 알아보고 `CompositionLocalProvider`의 역할을 알아본다.(GetStream 후원글)](https://thdev.tech/compose/2024/11/03/GetStream-Theme/)
 - [데이터 흐름(Data flow)을 이해해 보는 데 있어 필요한 것은? 짝퉁 개발자처럼 논하기](https://thdev.tech/dataflow/2024/11/09/Data-flow/)
+- [Kotlin Coroutines Flow의 Cold/Hot flow(Stream)의 데이터 흐름(Data flow) 이해해 보기](https://thdev.tech/dataflow/2024/11/23/Flow-Data-flow/)
 
 <!-- END: thdev.tech -->
 
@@ -785,6 +793,14 @@ tag:
 - [Kotlin Multiplatform parameterized tests with Burst](https://code.cash.app/burst)
 
 <!-- END: code.cash.app -->
+
+---
+
+## 상구리의 기술 블로그
+
+- [안드로이드 스튜디오 로그캣(Logcat) 사용법](https://skyer9.pe.kr/wordpress/?p=9582)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

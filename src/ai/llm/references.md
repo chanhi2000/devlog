@@ -310,6 +310,16 @@ head:
   - [\[Gen AI\] 생성형 모델 및 서비스 정리](https://csj000714.tistory.com/m/1150)
   - [\[논문리뷰\] LiDAR2Map: LiDAR-based distillation scheme - LiDAR2Map: In Defense of LiDAR-Based Semantic Map Construction Using Online Camera Distillation (CVPR 2023)](https://csj000714.tistory.com/m/1156)
   - [\[Gen AI\] Generative Adversarial Network(GAN) 설명: 기초](https://csj000714.tistory.com/m/1201)
+  - [\[논문 리뷰\] HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting (CVPR 2024)](https://csj000714.tistory.com/m/1232)
+  - [\[논문 리뷰\] HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting (CVPR 2024)](https://csj000714.tistory.com/m/1236)
+  - [\[논문리뷰\] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis (CVPR 2024)](https://csj000714.tistory.com/m/1240)
+  - [\[논문리뷰\] DINO: Emerging Properties in Self-Supervised Vision Transformers (ICCV 2021)](https://csj000714.tistory.com/m/1244)
+  - [\[논문 리뷰\] D-NeRF: Neural Radiance Fields for Dynamic Scenes (CVPR 2021)](https://csj000714.tistory.com/m/1248)
+  - [\[Career\] CES 2025 사전 준비 및 관람](https://csj000714.tistory.com/m/1229)
+  - [\[Project\] 2024 경희대학교 SW페스티벌: 피지컬 컴퓨팅 분야(24.11.27.)](https://csj000714.tistory.com/m/1251)
+  - [\[논문 리뷰\] HyperNeRF : A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields (ACM TG 2021)](https://csj000714.tistory.com/m/1253)
+  - [\[논문 리뷰\] 4D Gaussian Splatting: 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering (CVPR 2024)](https://csj000714.tistory.com/m/1254)
+  - [\[논문 리뷰\] Ha-NeRF: NeRFwithRealWorld + CNN Appearance Embedding - Hallucinated Neural Radiance Fields in the Wild](https://csj000714.tistory.com/m/1258)
   <!-- END: csj000714 -->
 - [`americanopeople` / 복세편살](https://americanopeople.tistory.com/m/)
   - [NotebookLM: AI 시대에 원서 개발 서적 읽기](https://americanopeople.tistory.com/m/462)
@@ -369,6 +379,10 @@ head:
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [2024년 최신 AI 개발 도구 비교: Replit, Bolt.new, Cursor AI](https://aspdotnet.tistory.com/m/3330)
   <!-- END: aspdotnet -->
+- [`shplab` / 박서희연구소](https://shplab.tistory.com/m/)
+  - [\[Model\] Transformer Model(트랜스포머 모델)](https://shplab.tistory.com/m/entry/Model-Transformer-Model%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EB%AA%A8%EB%8D%B8)
+  - [\[Model\] Transformer Model Pipeline(트랜스포머 모델 파이프라인)](https://shplab.tistory.com/m/entry/Model-Transformer-Model-Pipeline%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EB%AA%A8%EB%8D%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
+  <!-- END: shplab -->
 <!-- END: tistory.com -->
 
 ---
@@ -648,6 +662,7 @@ head:
 ## Pega Devlog
 
 - [생성AI 활용 학회 발표 준비](https://jehyunlee.github.io/2024/11/07/General-67_afore2024/)
+- [인공지능을 활용한 슬기로운 연구생활](https://jehyunlee.github.io/2024/11/18/General-69_SNU/)
 
 <!-- END: jehyunlee.github.io -->
 

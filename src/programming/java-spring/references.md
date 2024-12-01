@@ -176,6 +176,9 @@ head:
 - [`@qkrtkdwns3410` / Spring boot 3.x Qdsl group by 사용시 에러](https://velog.io/@qkrtkdwns3410/Spring-boot-3.x-Qdsl-group-by-%EC%82%AC%EC%9A%A9%EC%8B%9C-%EC%97%90%EB%9F%AC)
 - [`@qkrtkdwns3410` / JTE 템플릿 엔진](https://velog.io/@qkrtkdwns3410/JTE-%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%97%94%EC%A7%84)
 - [`@thd0427` / 안전한 API 호출 방법에 대한 개선(Feat. 보일러플레이트 코드)](https://velog.io/@thd0427/%EC%95%88%EC%A0%84%ED%95%9C-API-%ED%98%B8%EC%B6%9C-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%9C%EC%84%A0Feat.-%EB%B3%B4%EC%9D%BC%EB%9F%AC%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C)
+- [`@dradnats1012` / 우아한테크코스 7기 프리코스 4주차 회고](https://velog.io/@dradnats1012/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-7%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
+- [`@qkrtkdwns3410` / JPA `@EqualsAndHashCode` - JPA Buddy](https://velog.io/@qkrtkdwns3410/JPA-EqualsAndHashCode-JPA-Buddy)
+- [`@ehddk0133` / \[CS 개념\]@Transactional 이란?](https://velog.io/@ehddk0133/CS-%EA%B0%9C%EB%85%90Transactional-%EC%9D%B4%EB%9E%80)
 
 <!-- END: velog.io java -->
 
@@ -307,6 +310,9 @@ head:
   - [\[1년 후 마실가실\] CharacterEncodingFilter](https://hj0216.tistory.com/m/965)
   - [\[해결 방법\] 'this.bCryptPasswordEncoder' is null](https://hj0216.tistory.com/m/966)
   - [\[1년 후 마실가실\] @GeneratedValue(strategy = GenerationType.IDENTITY)](https://hj0216.tistory.com/m/967)
+  - [\[1년 후 마실가실\] ExceptionHandlerFilter](https://hj0216.tistory.com/m/968)
+  - [\[해결 방법\] no suitable constructor found for Jackson2JsonRedisSerializer(Class<CAP#1>)](https://hj0216.tistory.com/m/970)
+  - [\[1년 후 마실가실\] Spring Security - UserDetailsService](https://hj0216.tistory.com/m/971)
   <!-- END: hj0216 -->
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Nginx와 헬스체크를 활용한 무중단 배포하기](https://coor.tistory.com/m/64)
@@ -465,6 +471,7 @@ head:
   - [스프링에서 Bean 등록 및 관리: 어노테이션을 통한 의존성 주입](https://dreamcoding.tistory.com/m/136)
   - [Spring에서 동일한 타입의 Bean 충돌 문제 해결하기](https://dreamcoding.tistory.com/m/142)
   - [Spring Retry로 안전한 Feign 호출 처리하기](https://dreamcoding.tistory.com/m/143)
+  - [`@NotNull`, `@NotEmpty`, `@NotBlank`의 차이점과 사용법](https://dreamcoding.tistory.com/m/145)
   <!-- END: dreamcoding -->
 - [`yejipro` / yejipro](https://yejipro.tistory.com/m/)
   - [spring.profiles.active vs spring.config.activate.on-profile?](https://yejipro.tistory.com/m/entry/springprofilesactive-vs-springconfigactivateon-profile)
@@ -481,6 +488,12 @@ head:
 - [`jinn-blog` / 개발자 박진 블로그](https://jinn-blog.tistory.com/m/)
   - [02. Spring WebFlux 기본 개념](https://jinn-blog.tistory.com/m/213)
     <!-- END: jinn-blog -->
+- [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
+  - [Redis 로컬 테스트 하는 두 가지 방법 : testContainers](https://6161990src.tistory.com/m/153)
+  - [Unleash 로컬에서 동작시켜보기 튜토리얼 1](https://6161990src.tistory.com/m/154)
+  - [Unleash 로컬에서 동작시켜보기 튜토리얼 2](https://6161990src.tistory.com/m/155)
+  - [Embedded Redis vs. macOS Sonoma](https://6161990src.tistory.com/m/158)
+  <!-- END: 6161990src -->
 <!-- END: tistory.com java -->
 
 ### 비탐인
@@ -766,6 +779,7 @@ head:
 ### 보름의 달빛 ✨
 
 - [JPA 엔티티 매핑 전략](https://shkisme.vercel.app/jpa-entity-mapping)
+- [JPA 연관관계 매핑](https://shkisme.vercel.app/jpa-relation-mapping)
 
 <!-- END: shkisme.vercel.app -->
 
@@ -810,6 +824,7 @@ head:
 - [Spring 레플리케이션 트랜잭션 처리 방식](https://cheese10yun.github.io/spring-transaction)
 - [Resilience4j를 이용한 서킷 브레이커 기초](https://cheese10yun.github.io/resilience4j-basic)
 - [MySQL Connection Pool 관리 - HikariCP 설정 및 타임아웃 처리](https://cheese10yun.github.io/mysql-connection-pool-timeout/)
+- [Hikari와 비교하며 알아보는 Redis Lettuce 커넥션 풀의 특징](https://cheese10yun.github.io/redis-lettuce-connection/)
 
 <!-- END: cheese10yun.github.io -->
 

@@ -158,6 +158,14 @@ head:
 - [HG_H7S_SOM V1 도착](https://m.blog.naver.com/chandong83/223638120480)
 - [ESP32-C3-CAN 웹서버와 CAN통신으로 LED 제어 데모 영상](https://m.blog.naver.com/chandong83/223641393000)
 - [STM32G4-FDCAN 소프트웨어 CAN 데이터 반복 전송 기능 동작 데모](https://m.blog.naver.com/chandong83/223648391709)
+- [ESP32-CLASSIC-CAN 블루투스 게임 패드 리시버 데모 영상](https://m.blog.naver.com/chandong83/223669937706)
+- [STM32F4-Seminar 데모 영상](https://m.blog.naver.com/chandong83/223665491737)
+- [ESP32-CLASSIC-CAN 샘플 제작](https://m.blog.naver.com/chandong83/223668508267)
+- [ESP32 벡터 로봇 눈 효과 오픈소스](https://m.blog.naver.com/chandong83/223668847179)
+- [ESP32-CLASSIC-CAN V1.1 샘플 도착](https://m.blog.naver.com/chandong83/223673762898)
+- [STM32G4-DMC-CAN 검증 완료 - DC 모터 컨트롤 보드 - 데모 영상 포함](https://m.blog.naver.com/chandong83/223674645742)
+- [STM32G4-WT-CAN 검증 완료 - 무게 측정 보드 - 데모 영상 포함](https://m.blog.naver.com/chandong83/223676355262)
+- [ESP32-S3-WT-OLED V1 설계 - IoT 무게측정 보드](https://m.blog.naver.com/chandong83/223676845477)
 
 <!-- END: chandong83 (blog.naver.com) -->
 
@@ -573,6 +581,7 @@ head:
 
 - [4 테라 하드디스크가 갑자기 2 테라로!](https://smallake.kr/?p=34092)
 - [IPMI와 KVM-over-LAN](https://smallake.kr/?p=32804)
+- [IPMI와 Bios 설정](https://smallake.kr/?p=33569)
 
 <!-- END: smallake.kr -->
 

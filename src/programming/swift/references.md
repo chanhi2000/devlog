@@ -449,6 +449,7 @@ tag:
 - [SwiftData를 사용해보자! 1탄](https://falsy.me/swiftdata%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%b4%eb%b3%b4%ec%9e%90-1%ed%83%84/)
 - [`NSViewRepresentable`을 사용하여 SwiftUI 기반 앱에서 AppKit 사용하기](https://falsy.me/nsviewrepresentable%ec%9d%84-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-swiftui-%ea%b8%b0%eb%b0%98-%ec%95%b1%ec%97%90%ec%84%9c-appkit-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/)
 - [`WKWebView`의 웹 페이지에서 콘텍스트 메뉴의 이미지 다운로드 기능 구현하기(MacOS)](https://falsy.me/image-download-in-context-menu-on-wkwebview-macos/)
+- [\[소소한 개발 일지\] SwiftUI 기반 macOS 애플리케이션의 타이틀바 영역에 커스텀 뷰 추가하기](https://falsy.me/%ec%86%8c%ec%86%8c%ed%95%9c-%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%a7%80-swiftui-%ea%b8%b0%eb%b0%98-macos-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98%ec%9d%98-%ed%83%80%ec%9d%b4%ed%8b%80/)
 
 <!-- END: falsy.me -->
 
@@ -621,18 +622,24 @@ tag:
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
 - [Async await in Swift: The Full Toolkit](https://emergetools.com/blog/posts/swift-async-await-the-full-toolkit)
 - [The Memory Leak: An Xcode Detective Story](https://emergetools.com/blog/posts/the-memory-leak-an-xcode-detective-story)
+- [Enhance Xcode Previews with Unit Test Coverage](https://emergetools.com/blog/posts/unit-test-xcode-previews)
+
+<!-- END: emergetools.com -->
 
 ---
 
 ## massicotte.org
 
-- [Should You Enable Swift's Complete Concurrency Checking?](https://www.massicotte.org/complete-checking)
-- [An Introduction to Isolation in Swift](https://www.massicotte.org/intro-to-isolation)
-- [Swift Isolation Intuition](https://www.massicotte.org/isolation-intuition)
-- [Concurrency in Swift 6: SE-0401](https://www.massicotte.org/concurrency-swift-6-se-401)
-- [SE-0431: `@isolated(any)` Function Types](https://www.massicotte.org/concurrency-swift-6-se-0431)
-- [Non-Sendable types are cool too you know](https://www.massicotte.org/non-sendable)
-[Concurrency Step-by-Step: A Network Request](https://www.massicotte.org/step-by-step-network-request)
+- [Should You Enable Swift's Complete Concurrency Checking?](https://massicotte.org/complete-checking)
+- [An Introduction to Isolation in Swift](https://massicotte.org/intro-to-isolation)
+- [Swift Isolation Intuition](https://massicotte.org/isolation-intuition)
+- [Concurrency in Swift 6: SE-0401](https://massicotte.org/concurrency-swift-6-se-401)
+- [SE-0431: `@isolated(any)` Function Types](https://massicotte.org/concurrency-swift-6-se-0431)
+- [Non-Sendable types are cool too you know](https://massicotte.org/non-sendable)
+- [Concurrency Step-by-Step: A Network Request](https://massicotte.org/step-by-step-network-request)
+- [Concurrency Step-by-Step: Reading from Storage](https://massicotte.org/step-by-step-reading-from-storage)
+
+<!-- END: massicotte.org -->
 
 ---
 
@@ -934,6 +941,7 @@ tag:
 ## elkraneo
 
 - [Diffuse reflection UV computation tool](https://www.elkraneo.com/diffuse-reflection-uv-computation-tool/)
+- [Subdivisions in RealityKit](https://www.elkraneo.com/subdivisions-in-realitykit/)
 
 ---
 

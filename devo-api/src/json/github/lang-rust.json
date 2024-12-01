@@ -462,13 +462,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "sharkdp/hyperfine",
-    "desc": "A command-line benchmarking tool",
-    "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool", "hacktoberfest"],
-    "officialSite": "",
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "sharkdp/fd",
     "desc": "A simple, fast and user-friendly alternative to 'find'",
     "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
@@ -1726,11 +1719,11 @@
     "banner": ""
   }, {
     "repo": "sharkdp/hyperfine",
-    "desc": "A command-line benchmarking tool",
+    "desc": "A command-line benchmarking tool.",
     "officialSite": "",
-    "topics": ["benchmark", "cli", "command-line", "hacktoberfest", "rust", "terminal", "tool"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/117356231/47c8d980-edcb-11e9-8784-d4aca8b657f5"
   }, {
     "repo": "sunng87/pgwire",
     "desc": "PostgreSQL wire protocol implemented as a rust library.",

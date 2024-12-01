@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "user-jyj96",
+    "name": "용개발",
+    "profile": "https://yt3.googleusercontent.com/klPUCbAy1sSLxphwiJoGPLRz7LCx5hSEBdNNoi6xBxGfrpkoT8hemy92kE7B1j4YvKY5tsj0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7uJo4LKpKUE", "title": "Combat System Template - Pull Component" },
+    { "id": "WbV5lPFRS-U", "title": "Combat System Template - Animal Controller" },
+    { "id": "mvQjkyENNRI", "title": "Combat System Template - Camera Settings Tutorial" },
+    { "id": "gbUNFDUjzZ0", "title": "Combat System Template - Particle Damage" },
+    { "id": "zghaXPnIu8U", "title": "Combat System Template - Wizard Combat Test" },
+    { "id": "BKRXVKEghIY", "title": "Combat System Template - Custom Editor" },
+    { "id": "1YsFt9nZE4Y", "title": "Combat System Template - Add Charge Component" },
+    { "id": "c2ssfTxbnTc", "title": "Combat System Template - Pure Template Update" },
+    { "id": "f8oTJhdfweQ", "title": "Combat System Template - Locomotion ( Start / Stop / Arc ) Tutorial" },
+    { "id": "WLcqmgnuYG8", "title": "Combat System Template - Range Weapon Combo Tutorial" },
+    { "id": "Mf4OH1aPpfc", "title": "Combat System Template - AI Update" },
+    { "id": "h97oVoup260", "title": "Combat System Template - Camera Sequence" },
+    { "id": "Xk3R8TRVJBQ", "title": "Combat System Template - Finisher & Camera Sequence" },
+    { "id": "zmFVcduWr9A", "title": "Combat System Template - Pure Template" },
+    { "id": "zTzWhfjdgXw", "title": "Combat System Template - Parrying Tutorial" },
+    { "id": "Fd2z159APtw", "title": "Combat System Template - Finisher Tutorial" },
+    { "id": "bSk807VqIDs", "title": "Combat System Template - AI vs AI" },
+    { "id": "7yffmHyZuzw", "title": "Combat System Template - Patrol Path / Flocking Move" },
+    { "id": "k7mcl2go0AA", "title": "Combat System Template - Weapon Pivot Setting" },
+    { "id": "J4lMsRDDd4E", "title": "Combat System Template - Animator Override Setting" },
+    { "id": "AWWnuKHva3I", "title": "Combat System Template - Combo Data Setting" },
+    { "id": "aZfVh2zc95c", "title": "Combat System Template - Locomotion Data Setting" },
+    { "id": "wbzDI0xrbQU", "title": "Combat System Template - Combo Tutorial" },
+    { "id": "46ctiSTCG4w", "title": "Combat System Template - Dodge Component Tutorial" },
+    { "id": "XftTbBVt1Hs", "title": "Combat System Template - Character Create Tool" },
+    { "id": "AQbQGuuJ-DA", "title": "Combat System Template - Air Combo Tutorial" },
+    { "id": "9mcVEvQMSLM", "title": "Unity - Range Weapon" },
+    { "id": "7zyaVc_4a-Y", "title": "Unity - AI Perception" },
+    { "id": "99v1ZOE3tNk", "title": "Unity - Freeflow Component Update" },
+    { "id": "Rbc0UbtMdtM", "title": "Unity - Debug" },
+    { "id": "CKlfO0tRWwM", "title": "Unity - Hit Trace Component" },
+    { "id": "98kB61H6scQ", "title": "Unity Game - Move Platform" }
+  ],
+  "playlists": [
+
+  ]
+}

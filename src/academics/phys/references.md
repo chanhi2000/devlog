@@ -64,6 +64,8 @@ head:
 - [네프론에서 물질의 이동](https://javalab.org/nephron/)
 - [자석과 전자석](https://javalab.org/magnet_and_electromagnet/)
 - [기체 분자 운동 장치](https://javalab.org/kinetic_theory_model/)
+- [강자성체의 자화](https://javalab.org/magnetization/)
+- [끓는점 (물, 에탄올)](https://javalab.org/boiling_point/)
 
 <!-- END: javalab.org -->
 

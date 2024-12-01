@@ -1826,5 +1826,47 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/1984390a16a72ea86095a5bd572ae29b64b22fa205dab708b7b81c5455cc5252/antirez/load81"
+  }, {
+    "repo": "rudyrucker/chaos",
+    "desc": "James Gleick's Chaos: The Software. Contribute to rudyrucker/chaos development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3e57f89e4e0d39ee2d84d04b576b97ea04077f98ddd26594445ee903543f8064/rudyrucker/chaos"
+  }, {
+    "repo": "captainys/FreeTOWNSOS",
+    "desc": "Contribute to captainys/FreeTOWNSOS development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/6a6e8fd89b78db0468d66d9da91bd5fa819c1a5b0f8289f9c3a3fc870911c836/captainys/FreeTOWNSOS"
+  }, {
+    "repo": "hengyoush/kyanos",
+    "desc": "Visualize the time packets spend in the kernel, watch & analyze in command line. : Visualize the time packets spend in the kernel, watch & analyze in command line.",
+    "officialSite": "https://kyanos.io",
+    "topics": ["tcp", "command-line", "network", "sniffer", "capture", "command-line-tool", "ebpf", "tcpdump", "bpf", "tcpdump-like"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/793985221/caa67829-51bd-4cce-a5cb-722076243dfd"
+  }, {
+    "repo": "oracle/bpftune",
+    "desc": "bpftune uses BPF to auto-tune Linux systems. Contribute to oracle/bpftune development by creating an account on GitHub.",
+    "officialSite": "/oracle/template-repo",
+    "topics": ["linux", "ebpf", "bpf", "auto-tuning"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/202c276daa1fed034d5d0ce6823b9764874eefc0badf4d59628b4f7ddb6902db/oracle/bpftune"
+  }, {
+    "repo": "joexbayer/c-web-modules",
+    "desc": "A modular web framework for C, inspired by kernel modules. Dynamically upload and compile C code at runtime to build REST APIs, WebSocket services, and more. Includes support for JSON (Jansson), SQ...",
+    "officialSite": "",
+    "topics": ["c", "http", "json", "development", "web", "modules", "server", "rest-api", "engine", "websocket", "restful", "webframework"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/ef25aff0a55e601af95c265fa80fcb73cd25378533a7310ecbd69c05782e6680/joexbayer/c-web-modules"
+  }, {
+    "repo": "serpapi/nokolexbor",
+    "desc": "High-performance HTML5 parser for Ruby based on Lexbor, with support for both CSS selectors and XPath.",
+    "officialSite": "",
+    "topics": ["ruby", "css", "parser", "html5", "web-scraping", "xpath", "c-extension", "serpapi"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/571801927/2d1fa557-9635-456b-b58e-cdea96fad645"
   }
 ]

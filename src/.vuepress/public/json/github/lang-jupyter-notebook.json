@@ -1056,5 +1056,12 @@
     "topics": ["text-to-speech", "audit", "speech-synthesis", "audio-synthesis", "music-generation", "voice-conversion", "vocoder", "emilia", "text-to-audio", "fastspeech2", "vits", "audio-generation", "singing-voice-conversion", "vall-e", "audioldm", "naturalspeech2", "maskgct"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/719017363/315b2892-cef2-4a08-b98e-28c817515373"
+  }, {
+    "repo": "facebookresearch/watermark-anything",
+    "desc": "Official implementation of the paper \"Watermark Anything with Localized Messages\"",
+    "officialSite": "",
+    "topics": ["image", "watermarking"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/de4c13a11588bae747d7548fa6bc619b2ffdea8699cfe4cf976e2b527173f4f0/facebookresearch/watermark-anything"
   }
 ]

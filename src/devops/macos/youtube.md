@@ -108,5 +108,6 @@ head:
 <MyYouTubeItems jsonName="yu-notrottenapple" /><!-- Rotten Apple -->
 <MyYouTubeItems jsonName="yu-dreamsofautonomy" /><!-- Dreams of Autonomy -->
 <MyYouTubeItems jsonName="yu-CleanShotApp" /><!-- CleanShot X -->
+<MyYouTubeItems jsonName="yu-perfology" /><!-- Perfology -->
 
 <TagLinks />

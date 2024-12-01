@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/rVw7-4D0OIAW9TiatMzRGuSKN9sEAaMsoXLJjJBSgEJoF5x98BC_pq35DtL89fdcfoff8Va_5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1YzBsQLjFtk", "title": "Slint UI works very well on ESP32-P4 #MadeWithSlint #GUI #ESP32P4" },
+    { "id": "Uqe4jNwf_ZU", "title": "T-Deck/T-Deck Plus & T-Beam+iPhone with Meshtastic: Off-Grid LoRa Communication" },
+    { "id": "1PkiFcAqKfs", "title": "A Raspberry Pi Laptop with an AI Camera? #CrowViewNote #PiNSIGHT" },
+    { "id": "Hi-6Y12Jhgs", "title": "ESP32-S3 USB Camera & Audio WebSocket Test: UVC + UAC Data Streaming Demo (ft. WebSocket)" },
+    { "id": "Egphr3cpnlI", "title": "ESP32-P4 & Arduino Giga R1: Core Performance Benchmark Using CoreMark" },
+    { "id": "q4OnS0grcRg", "title": "Using Lottie Animation with LVGL on ESP32 | Tutorial and Demo #LVGL #Lottie #ESP_IDF" },
+    { "id": "GR9iN4MtMOA", "title": "Building a Virtual Environment for UWB Local Positioning (ft. iPhone LiDAR) #Unity #UWB" },
+    { "id": "FGWUWZf7U5M", "title": "Finally! the Embedded Swift Matter Example works! #Apple #EmbeddedSwift #ESP32C6 #Workaround" },
+    { "id": "NjHMXEOxNRE", "title": "UWB Trilateration with ESP32, DW3000 #LocalPositioning" },
+    { "id": "g9j8FfF2GJ8", "title": "LVGL Tutorial with ESP32, How to update the screen with data obtained from sensors. #FreeRTOS #Task" },
     { "id": "X3x3krDiStI", "title": "Raspberry Pi 5 + AI camera + 3.5”Display = AI Camera All-in-One System #ArduCam #PiNSIGHT #DepthAI" },
     { "id": "ogXSDtYLQ7M", "title": "[Ep. 04] Creating Interactive UI/UX Screens with LVGL 9 on ESP32: Implementing On-Screen Keyboard" },
     { "id": "YCTbiHk1MHM", "title": "[Ep. 05] Custom fonts are essential in GUI! #Font #LVGL #GUI" },

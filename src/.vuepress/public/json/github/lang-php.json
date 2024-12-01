@@ -377,5 +377,12 @@
     "topics": ["online", "fps", "multiplayer-game"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/edf06d9e276b8494fd578132afdd0f60d1b0f34d51b783c9d896f4d8450fca56/solcloud/Counter-Strike"
+  }, {
+    "repo": "matomo-org/device-detector",
+    "desc": "The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.  - matomo...",
+    "officialSite": "http://devicedetector.net",
+    "topics": ["php", "user-agent", "hacktoberfest", "detection-library", "device-detector", "bot-detection", "mobile-detection"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c142179a90213b497c9e5c1fb96d0faee983e37a3947a2f94fc65c5f05f9fa5d/matomo-org/device-detector"
   }
 ]

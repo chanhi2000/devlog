@@ -131,5 +131,7 @@ tag:
 <MyYouTubeItems jsonName="yu-AndroidAuthority" /><!-- Android Authority -->
 <MyYouTubeItems jsonName="yu-NobelTech" /><!-- Nobel Tech -->
 <MyYouTubeItems jsonName="yu-codingambitions" /><!-- Coding Ambitions -->
+<MyYouTubeItems jsonName="yu-AndroidDialogs" /><!-- Android Dialogs -->
+<MyYouTubeItems jsonName="yu-perfology" /><!-- Perfology -->
 
 <TagLinks />

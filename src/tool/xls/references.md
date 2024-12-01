@@ -79,9 +79,14 @@ head:
 
 ---
 
-## 기계인간 John Grib
+## tistory
 
-- [엑셀로 만든 snake 게임](https://webnautes.tistory.com/2276)
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [엑셀로 만든 snake 게임](https://webnautes.tistory.com/m/2276)
+- [`1d1cblog`: 1D1C](https://1d1cblog.tistory.com/m/)
+  - [\[Excel\] 엑셀 파란 새로 점선이 갑자기 나오는 경우](https://1d1cblog.tistory.com/m/526)
+
+<!-- END: tistory.com -->
 
 ---
 

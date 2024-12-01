@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "donnfelkeryt",
+    "name": "Donn Felker",
+    "profile": "https://yt3.googleusercontent.com/TGpVdMr4xzkm6S2mwz_jztvlgUjz7PbIRKTqREctqMGRHI_XH1aWztUkYKg1LyWQ49054nvsjA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vdp2kf_YcZPB55hQSRwwOgLDuE4SPlG43dhNzFxzB_x_3ddQFM8DfPsHxCs8Iv4s_m9nz7TRlw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YIdGPdjTvz0", "title": "Welcome to Ruby Static Pro" },
+    { "id": "SoPLEe8PhZQ", "title": "Get Email Addresses From a Gmail Label" }
+  ],
+  "playlists": [
+
+  ]
+}

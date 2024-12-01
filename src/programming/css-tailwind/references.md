@@ -69,6 +69,9 @@ head:
 - [`ravenkim97` / Life Log](https://ravenkim97.tistory.com/m/)
   - [모바일에서 hover 로 인하여 클릭시 색상 바뀌는 이슈](https://ravenkim97.tistory.com/m/502)
   <!-- END: ravenkim97 -->
+- [`zinee-world` / zineeworld](https://zinee-world.tistory.com/m/)
+  - [나만의 tailwind CSS 만들기 (preset.scss)](https://zinee-world.tistory.com/m/660)
+  <!-- END: zinee-world -->
 <!-- END: tistory.com -->
 
 ---

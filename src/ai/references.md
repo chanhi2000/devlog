@@ -110,6 +110,9 @@ head:
 - [`@ZVA` / AI 개발자, AI 시대 개발자로서의 일에 대해 묻다](https://brunch.co.kr/@@ZVA/725)
 - [`@5jl5` / 제8회 한국 퀀트투자 컨퍼런스(10월 18일) - 알고리즘에서 AI로: 퀀트투자의 지속적인 진화](https://brunch.co.kr/@@5jl5/130)
 - [`@ZVA` / 노벨상과 AI를 위한 물리학](https://brunch.co.kr/@@ZVA/738)
+- [`@2weV` / AI 시대의 인재상 - 'AI'가 중심이 아닌 '사람'이 중심이어야 한다](https://brunch.co.kr/@@2weV/599)
+- [`@2weV` / AI 시대의 HRD (인재 양성)](https://brunch.co.kr/@@2weV/603)
+- [`@2weV` / 때때로 바다를 끓이는 일을 소흘히하지 말자. - AI 시대에 더 귀하게 인정받을 수 있는 인재의 요건](https://brunch.co.kr/@@2weV/604)
 
 <!-- END: brunch.co.kr -->
 
@@ -155,6 +158,9 @@ head:
 - [`greypencil` / 앱 개발 연구소](https://greypencil.tistory.com/m/)
   - [AI가 잘 하는 것, 사람이 못하는 것](https://greypencil.tistory.com/m/230)
   <!-- END: greypencil -->
+- [`pearlluck` / 데엔잘하고싶은데엔🔥💎](https://pearlluck.tistory.com/m/)
+  - [AI를 더 똑똑하게 활용하는 방법 : 카카오와 네이버의 전략](https://pearlluck.tistory.com/m/833)
+  <!-- END: pearlluck -->
 <!-- END: tistory.com -->
   
 ---
@@ -412,6 +418,9 @@ head:
 - [AI에 의한 컴퓨터 프로그래밍 방식의 발전방향과 인류의 미래](https://m.blog.naver.com/fstory97/223642420336)
 - [인공지능이 하지 못하는것을 찾지 마라. 세상은 변화하고 있다.](https://m.blog.naver.com/fstory97/223653250741)
 - [인공지능은 지능이 확실하며, 의식이 생길지도 모릅니다.](https://m.blog.naver.com/fstory97/223655564906)
+- [AI의 목표는 완벽이 아니라 탐험입니다.](https://m.blog.naver.com/fstory97/223664765840)
+- [AI의 자의식: 어디까지 가능한 걸까? ✨](https://m.blog.naver.com/fstory97/223665852246)
+- [Luke와 베리의 AI 콘텐츠 제작기술 단계별 변화 예측](https://m.blog.naver.com/fstory97/223668162589)
 
 <!-- END: fstory97 (blog.naver.com) -->
 

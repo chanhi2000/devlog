@@ -657,5 +657,19 @@
     "topics": ["godot", "godot-engine"],
     "avatar": "https://avatars.githubusercontent.com/u/18603664?v=4",
     "banner": ""
+  }, {
+    "repo": "nimrag-b/emiT-C",
+    "desc": "A time travelling programming language.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2e8015ee9fb17e99aea4969f878a1526117bedbb72a88b193a019296822821b8/nimrag-b/emiT-C"
+  }, {
+    "repo": "BAndysc/AvaloniaVisualBasic6",
+    "desc": "A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia",
+    "officialSite": "https://bandysc.github.io/AvaloniaVisualBasic6/",
+    "topics": ["csharp", "ide", "avalonia", "vb6", "visualbasic", "avaloniaui", "visualbasic6", "avalonia-ui"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/884565845/f9a7f311-3e38-43bf-ad1b-0fc93ebc2f90"
   }
 ]

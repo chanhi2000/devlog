@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/m89HIPGkzZ1VFVjbwj9mH5_F46mcBgJpw7EIWlmv2TfLgumXpkBJz6lS5XD0c1oI5tFGaOksrto=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WrJZdH8JN_w", "title": "Orchestration SAGA - Deadlines. Introduction." },
     { "id": "j6WA9aEwjtk", "title": "Deploy Spring Boot to AWS ECS:  What is AWS ECS Task, Service and Cluster?" },
     { "id": "4ZNkTH0lRjI", "title": "Docker Hub vs Amazon ECR" },
     { "id": "uYo0FuUZSho", "title": "Amazon ECS Load Balancing | Deploy Spring Boot Microservices to AWS ECS Fargate" },

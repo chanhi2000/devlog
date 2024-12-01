@@ -462,13 +462,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "sharkdp/hyperfine",
-    "desc": "A command-line benchmarking tool",
-    "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool", "hacktoberfest"],
-    "officialSite": "",
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "sharkdp/fd",
     "desc": "A simple, fast and user-friendly alternative to 'find'",
     "topics": ["search", "rust", "cli", "terminal", "command-line", "tool", "filesystem", "regex", "hacktoberfest"],
@@ -1719,11 +1712,11 @@
     "banner": ""
   }, {
     "repo": "sharkdp/hyperfine",
-    "desc": "A command-line benchmarking tool",
+    "desc": "A command-line benchmarking tool.",
     "officialSite": "",
-    "topics": ["benchmark", "cli", "command-line", "hacktoberfest", "rust", "terminal", "tool"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["rust", "cli", "benchmark", "terminal", "command-line", "tool"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/117356231/47c8d980-edcb-11e9-8784-d4aca8b657f5"
   }, {
     "repo": "sunng87/pgwire",
     "desc": "PostgreSQL wire protocol implemented as a rust library.",
@@ -2668,6 +2661,48 @@
     "officialSite": "",
     "topics": ["windows", "rust", "window-manager", "tiling-window-manager", "i3wm"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
-    "banner": "https://opengraph.githubassets.com/7dfb9ea6d32a04eb5ada8558744ccc1407000d71511aca3b35f21792ee16d9c5/glzr-io/glazewm"
+    "banner": "https://opengraph.githubassets.com/c15d8f56728de54b1140e29537f1d0f9768505279db7641bf3fa520b16fd9222/glzr-io/glazewm"
+  }, {
+    "repo": "lakehq/sail",
+    "desc": "LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute-intensive (AI) workloads.",
+    "officialSite": "https://lakesail.com",
+    "topics": ["python", "rust", "data", "sql", "big-data", "spark", "arrow", "pyspark", "datafusion"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a698a0013829b7986270c6364b74d5db2ed2cfa05319beece0302da1fabf0cf8/lakehq/sail"
+  }, {
+    "repo": "triyanox/lla",
+    "desc": "blazing fast `ls` replacement with superpowers. Contribute to triyanox/lla development by creating an account on GitHub.",
+    "officialSite": "https://crates.io/crates/lla",
+    "topics": ["rust", "lightweight", "cargo", "crates-io", "ls", "replacement"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a465a25a5f5155a7733f22069793f1616c8087b715749b088c4132bed8f7063e/triyanox/lla"
+  }, {
+    "repo": "liam-ilan/terminal3d",
+    "desc": "View .obj files in the terminal 🦀. Contribute to liam-ilan/terminal3d development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["cli", "terminal", "3d", "t3d", "terminal3d"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/883416664/a934da7b-d313-4162-ae8a-9c4f74d88548"
+  }, {
+    "repo": "thomasschafer/scooter",
+    "desc": "Interactive find and replace in the terminal. Contribute to thomasschafer/scooter development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d41c11cb91ec4658abba0f6c70ecf77fa6a8943c6cdd218619be9658c72ae751/thomasschafer/scooter"
+  }, {
+    "repo": "trynova/nova",
+    "desc": "JS engine lolz. Contribute to trynova/nova development by creating an account on GitHub.",
+    "officialSite": "https://trynova.dev/",
+    "topics": ["javascript", "data-oriented-design", "javascript-engine"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/7f3dcf76f6f4ff7678e4d17938b650e1422ee78d658ee423b4bb436168f4aec8/trynova/nova"
+  }, {
+    "repo": "pgcentralfoundation/pgrx",
+    "desc": "Build Postgres Extensions with Rust! Contribute to pgcentralfoundation/pgrx development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["rust", "postgres", "postgresql", "rustlang", "postgresql-extension"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/228908078/c13b4b8d-9ab9-4a6e-92af-24973df4953a"
   }
 ]

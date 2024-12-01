@@ -6,5 +6,13 @@
     "topics": ["lean", "lean4"],
     "avatar": "https://avatars.githubusercontent.com/u/7233018?v=4",
     "banner": ""
+  }, {
+    "repo": "ufmg-smite/lean-smt",
+    "desc": "Tactics for discharging Lean goals into SMT solvers.",
+    "officialSite": "",
+    "topics": ["smt", "lean4"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/05e8cdf4c34da0856eda8c02ec44c8d356976b63fe1661de12ff9b500c0789a7/ufmg-smite/lean-smt"
   }
+  
 ]

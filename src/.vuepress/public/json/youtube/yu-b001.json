@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/JZEGxCQqTMbi4K4FHUqbBszNsfXiokIGaDfw5EhA6b77lLjRlmlfrU32ez-FdOIgHGbgGvbjhw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bFbJhl9W89Q", "title": "How Swarms Solve Impossible Problems" },
+    { "id": "MZI3aL1igP8", "title": "The Power Of A Coin Toss In Big Data (CVM Algorithm)" },
+    { "id": "j0OUwduDOS0", "title": "How Algorithms Find Shortest Paths (Dijkstra's & Bellman-Ford)" },
     { "id": "fwxjMKBMR7s", "title": "Dijkstra's Hidden Prime Finding Algorithm" },
     { "id": "U88M8YbAzQk", "title": "THIS is Why List Comprehension is SO Efficient!" },
     { "id": "-VuLJVt-FXw", "title": "CLEVER Python One Liner!! #python #programming #coding" },

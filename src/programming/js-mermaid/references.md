@@ -55,4 +55,12 @@ head:
 
 ---
 
+## Yun Blog
+
+- [Mermaid 코드로 그리는 다이어그램](https://cheese10yun.github.io/mermaid/)
+
+<!-- END: cheese10yun.github.io -->
+
+---
+
 <TagLinks />

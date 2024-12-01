@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/OmYfrWnr4FZG_8DSifmM3XNVeYhTwwK9c8D2dIFFGFBarSBIiyR11FBfCl3w2o5gikD3nQg3hA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XdCgQgV873U", "title": "How To Change Spring Boot Logo On Start up" },
+    { "id": "zLPf_-mPmVU", "title": "How to Enable Spring Data MongoDB Auto Index Creation" },
+    { "id": "HWgTBRYzx5s", "title": "How To Expose Your Local Server To The Internet" },
+    { "id": "sPE9NtXoMyU", "title": "Automate Git Commit Messages with AI (Using GROQ API and Git Hooks) For FREE" },
+    { "id": "UkMw7Fz3Dbo", "title": "Spring Boot CORS Configuration Tutorial: Enable API Calls from React Frontend" },
+    { "id": "fEp6gJQN9lo", "title": "Understanding serialVersionUID in Java Serialization: What, Why, and How" },
+    { "id": "oxs9Rin3fag", "title": "Implementing Distributed Lock With Spring And Redis" },
+    { "id": "soznrFTtL2s", "title": "How to enable vim mode for dbeaver" },
+    { "id": "Sgw-IixDrNQ", "title": "Practical Spring MessageSource: Internationalization and Localization In Action" },
+    { "id": "X1XLq7KXzBk", "title": "Serving Static Files in Spring Boot: Controller vs. Resource Handler" },
+    { "id": "AE12PBUwQwc", "title": "Create Free Domain Business Emails In 20 Minutes" },
+    { "id": "w3gC3OchK0I", "title": "The Ultimate CURL Cheat Sheet for Command-Line HTTP Requests" },
     { "id": "KpRtsGg1PjU", "title": "Setup Default JDK & Terminal For VSCodium" },
     { "id": "jG9YQhqTq1U", "title": "Using Spring CLI To Create New Spring Boot Project" },
     { "id": "PrAIs7tSgks", "title": "Issue & Validate JWT Tokens Login In Spring Security 6 From Scratch" }

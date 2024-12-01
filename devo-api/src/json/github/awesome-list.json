@@ -1543,9 +1543,9 @@
     "repo": "DataExpert-io/data-engineer-handbook",
     "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
     "officialSite": "",
-    "topics": ["apachespark", "awesome", "bigdata", "data", "dataengineering", "sql"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["data", "awesome", "sql", "bigdata", "dataengineering", "apachespark"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2ccc8bed5f184c2c93fea361bbb3edb652cc8ce1957c56f998da7a0298776625/DataExpert-io/data-engineer-handbook"
   }, {
     "repo": "sourcegraph/awesome-code-ai",
     "desc": "A list of AI coding tools (assistants, completions, refactoring, etc.)",

@@ -254,6 +254,7 @@ tag:
   - [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
   - [값 객체(VO) : 일반 클래스 vs record](https://shout-to-my-mae.tistory.com/m/447)
   - [\[우아한테크코스\] 프리코스 2주차 - 자동차 경주 미션 회고](https://shout-to-my-mae.tistory.com/m/448)
+  - [\[우아한테크코스\] 프리코스 4주차 - 편의점 미션 회고](https://shout-to-my-mae.tistory.com/m/451)
   <!-- END: shout-to-my-mae -->
 - [`findsilverlining` / 무너지기직전](https://findsilverlining.tistory.com/m/)
   - [\[백준\] 2018번: 수들의 합 5 - java](https://findsilverlining.tistory.com/m/97)
@@ -335,6 +336,7 @@ tag:
   <!-- END: dreamcoding -->
 - [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
+  - [`join()` 이용해보려다가 실패한 사연](https://6161990src.tistory.com/m/152)
   <!-- END: 6161990src -->
 <!-- END: tistory.com java -->
 
@@ -885,6 +887,8 @@ tag:
 - [`abhaysingbhosale123` / Kotlin Under the Hood: Exploring Constructors and Init Blocks](https://medium.com/@abhaysingbhosale123/kotlin-under-the-hood-exploring-constructors-and-init-blocks-869fc1f85a8e)
 - [`taesulee93` / MFA를 위한 OTP 동작 원리와 Spring, Kotlin 환경에서의 TOTP 인증 구현](https://medium.com/@taesulee93/mfa%EB%A5%BC-%EC%9C%84%ED%95%9C-otp-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-spring-kotlin-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-totp-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-c7950ed735932)
 - [`elenavanengelen` / Kotlin Tips and Tricks You May Not Know: #3 — Built-in Assertions](https://medium.com/@elenavanengelen/kotlin-tips-and-tricks-you-may-not-know-3-built-in-assertions-d26540ccb2e0)
+- [`taesulee93` / Improve Code Readability— 1. 가독성 높은 코드를 작성하는법](https://medium.com/@taesulee93/improve-code-readability-1-%EA%B0%80%EB%8F%85%EC%84%B1-%EB%86%92%EC%9D%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%EB%B2%95-d7be59eb94a5?)
+- [`taesulee93` / Improve Code Readability — 2. 네이밍](https://medium.com/@taesulee93/improve-code-readability-2-%EB%84%A4%EC%9D%B4%EB%B0%8D-b335ed9cb1d6)
 
 <!-- END: medium.com kotiln -->
 
@@ -967,6 +971,9 @@ tag:
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [In Kotlin, using `@field:NotNull` instead of `@NotNull` is important.](http://syaku.tistory.com/m/419)
   <!-- END: syaku -->
+- [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
+  - [\[Kotlin\] 백준 22941 : RPG 마스터 오명진](https://colabear754.tistory.com/m/227)
+  <!-- END: colabear754 -->
 <!-- END: tistory.com kotiln -->
 
 ### Leo3418

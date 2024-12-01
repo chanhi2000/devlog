@@ -47,4 +47,13 @@ head:
 
 ---
 
+## tistory
+
+- [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
+  - [Airflow 로컬에서 동작시켜보기 튜토리얼 1](https://6161990src.tistory.com/m/156)
+  <!-- END: 6161990src -->
+<!-- END: tistory.com -->
+
+---
+
 <TagLinks />

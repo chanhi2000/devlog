@@ -359,6 +359,7 @@ head:
   - [Reactjs - 이미지 첨부 컴포넌트](https://syaku.tistory.com/m/426)
   - [Reactjs - 드래그 앤 드롭 리스트 구현하기](https://syaku.tistory.com/m/427)
   - [Reactjs - `useEffect` 와 의존성 배열 완벽 가이드](https://syaku.tistory.com/m/428)
+  - [Select vs Selector: 네이밍 가이드](https://syaku.tistory.com/m/434)
   <!-- END: syaku -->
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [React.js와 Node.js를 활용한 TODO List 개발: CORS 문제와 해결 방안](https://aspdotnet.tistory.com/m/3326)

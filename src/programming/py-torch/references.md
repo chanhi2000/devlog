@@ -136,10 +136,15 @@ head:
   <!-- END: bcho -->
 - [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
   - [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/m/2402)
+  - [괜찮은 파이토치 강좌 - 01. 파이토치 기초](https://webnautes.tistory.com/m/2409)
+  - [괜찮은 파이토치 강좌 - 02. 파이토치 워크플로 살펴보기](https://webnautes.tistory.com/m/2410)
   <!-- END: webnautes -->
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [NVIDIA Triton Inference Server with MLflow](https://jeongchul.tistory.com/m/824)
   <!-- END: jeongchul -->
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [Flax: JAX 기반 딥러닝 프레임워크의 특징과 미래](https://sonseungha.tistory.com/m/730)
+  <!-- END: sonseungha -->
 <!-- END: tistory.com -->
 
 ---

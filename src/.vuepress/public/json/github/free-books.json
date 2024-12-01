@@ -398,5 +398,19 @@
     "topics": ["nodejs", "javascript", "learning", "awesome", "html5", "libraries", "css3", "webapp", "webplatform", "universal-javascript", "isomorphic-javascript"],
     "avatar": "https://avatars.githubusercontent.com/u/43011?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/2ba8700daebb146c5b676103bb14f08e5930d44e0b9e605d0c0483ca540d6acd/dexteryy/spellbook-of-modern-webdev"
+  }, {
+    "repo": "rodneyknaap/atx-286at-v1-mainboard",
+    "desc": "This project features a design for a 80286 ATX mainboard based on the IBM 5170 AT PC",
+    "officialSite": "https://forum.vcfed.org/index.php?threads/project-to-create-an-atx-80286-mainboard-based-on-the-ibm-5170.1243108/",
+    "topics": ["retro", "educational", "ibm", "pc", "recreation", "80286", "students-project", "historic"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f0893e8ba18023c59f68e4edeb18f03827be7af40594aa9d8a6770eefc08a959/rodneyknaap/atx-286at-v1-mainboard"
+  }, {
+    "repo": "varungodbole/prompt-tuning-playbook",
+    "desc": "A playbook for effectively prompting post-trained LLMs",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/16e7e7228ddf64d82568bd074233326c91bb4ed66643445d565a6f930bfa67a9/varungodbole/prompt-tuning-playbook"
   }
 ]

@@ -203,6 +203,14 @@ head:
 
 ---
 
+## Brunch
+
+- [`@ZVA` / 쿠버네티스와 결별했더니 달라진 것들](https://brunch.co.kr/@@ZVA/750)
+
+<!-- END: brunch.co.kr -->
+
+---
+
 ## Speaker Deck | Easily Share Your Presentations Online
 
 - [`premist` / Shakr - Google Container Engine을 이용한 빠르고 안정적인 서비스 개발 및 배포](https://speakerdeck.com/premist/shakr-google-container-engineeul-iyonghan-bbareugo-anjeongjeogin-seobiseu-gaebal-mic-baepo)

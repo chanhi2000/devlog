@@ -4711,11 +4711,11 @@
     "banner": ""
   }, {
     "repo": "bluesky-social/atproto",
-    "desc": "Social networking technology created by Bluesky",
+    "desc": "Social networking technology created by Bluesky. Contribute to bluesky-social/atproto development by creating an account on GitHub.",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/94650532?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/439447708/ab902154-5181-4cb3-8f34-dac22efb5e1f"
   }, {
     "repo": "cloudflare/serverless-registry",
     "desc": "A Docker registry backed by Workers and R2.",
@@ -4921,11 +4921,11 @@
     "banner": "https://repository-images.githubusercontent.com/679784368/8680cb3f-9187-4f0b-ab9a-acd1b5016016"
   }, {
     "repo": "getmaxun/maxun",
-    "desc": "Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]",
+    "desc": "🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]",
     "officialSite": "",
-    "topics": ["api", "scraper", "automation", "browser", "spreadsheet", "web-scraper", "self-hosted", "web-scraping", "browser-automation", "low-code", "no-code", "web-automation", "rpa", "robotic-process-automation", "playwright", "maxun", "website-to-api"],
+    "topics": ["api", "scraper", "automation", "browser", "spreadsheet", "web-scraper", "self-hosted", "web-scraping", "browser-automation", "low-code", "no-code", "web-automation", "rpa", "robotic-process-automation", "playwright", "maxun", "website-to-api", "no-code-web-scraper", "website-to-spreadsheet", "website-to-database"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
-    "banner": "https://opengraph.githubassets.com/120e841cdb884fe51d2d90d554c492438967c31e93bab8cf2d6a033b22052614/getmaxun/maxun"
+    "banner": "https://opengraph.githubassets.com/79c382f79821358921e804750314ed8a69430ddd3ac5988980b7c429deb45f8b/getmaxun/maxun"
   }, {
     "repo": "corbt/agent.exe",
     "desc": "Contribute to corbt/agent.exe development by creating an account on GitHub.",
@@ -4977,7 +4977,7 @@
     "banner": "https://repository-images.githubusercontent.com/9267870/da6b57ed-ea1f-4829-adf4-6fd5c03a7433"
   }, {
     "repo": "CSS-Next/logo.css",
-    "desc": "Contribute to CSS-Next/logo.css development by creating an account on GitHub.",
+    "desc": "",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -4989,5 +4989,47 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/803014189/1fffa32b-9794-4ec0-93e9-3e07401a3f03"
+  }, {
+    "repo": "sjdonado/idonthavespotify",
+    "desc": "Effortlessly convert Spotify links to your preferred streaming service",
+    "officialSite": "https://idonthavespotify.donado.co",
+    "topics": ["spotify", "deezer-api", "stimulus", "bun", "tailwindcss", "vite", "htmx", "elysiajs"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a9e9d083215fc18fb68d364bca9a74713a8f23423c1c090be53258d3a4d1eef6/sjdonado/idonthavespotify"
+  }, {
+    "repo": "DocumindHQ/documind",
+    "desc": "Open-source platform for extracting structured data from documents using AI.",
+    "officialSite": "https://documind.xyz",
+    "topics": ["open-source", "ai", "pdf-extractor", "document-processing", "document-extraction", "llms"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/ea4b2abc2330b89405ba363633d0838baccd635f38af331bcac3ea52ee52875d/DocumindHQ/documind"
+  }, {
+    "repo": "frost-beta/sisi",
+    "desc": "Semantic Image Search CLI tool. Contribute to frost-beta/sisi development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["nodejs", "maching-learning", "mlx"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3b3dbea190dfccbbc94ff1155092230ccebe084d53f6ba6d58be38d0c10053f4/frost-beta/sisi"
+  }, {
+    "repo": "pingcap/autoflow",
+    "desc": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
+    "officialSite": "https://tidb.ai",
+    "topics": ["mysql", "serverless", "chatbot", "knowledge-graph", "cot", "rag", "vector-database", "graphrag"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/752946440/ef288b36-f7e4-42e5-b62c-994d668c5230"
+  }, {
+    "repo": "Billos/Broadcastarr",
+    "desc": "Stream web content through your Jellyfin instance. Contribute to Billos/Broadcastarr development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1e6d74b7f5b65564dc9c9abebc15394d237e12c254457d8cdb4b5e8f7cc10b10/Billos/Broadcastarr"
+  }, {
+    "repo": "tonghohin/screen-sharing",
+    "desc": "Share your screen with one simple room code. No downloads or sign-ups required.",
+    "officialSite": "https://share-your-screen.vercel.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/67057df10a27de38ad1fb614e684f4c2ceade803a6d19b1cb7f2679ead61ba93/tonghohin/screen-sharing"
   }
 ]

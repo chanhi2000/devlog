@@ -309,6 +309,13 @@ head:
 - [namepsace 치환](https://m.blog.naver.com/tipsware/223660989434)
 - [\[Q&A\] HCURSOR 값에 해당하는 마우스 커서 이미지를 화면에 출력하기](https://m.blog.naver.com/tipsware/223655809734)
 - [가변 저항으로 얻은 값을 아날로그 게이지에 출력하기 - Step 4](https://m.blog.naver.com/tipsware/223667450616)
+- [함수 포인터와 상속에 대하여](https://m.blog.naver.com/tipsware/223670820035)
+- [\[Q&A\] 대화 상자의 크기를 마우스로 변경하게 하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223671615661)
+- [\[Q&A\] 문자열을 항목으로 가지는 2차원 배열을 함수의 매개 변수로 넘기려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223672382253)
+- [\[Q&A\] 참조 문법으로 배열의 값을 사용하려면 어떻게 해야 하나요?](https://m.blog.naver.com/tipsware/223674019309)
+- [\[Q&A\] C++에서 2차원 배열의 주소를 함수에서 반환하려고 합니다.](https://m.blog.naver.com/tipsware/223674686470)
+- [\[Q&A\] 대화 상자의 크기가 변경될 때 컨트롤도 함께 이동하고 싶습니다.](https://m.blog.naver.com/tipsware/223676312929)
+- [\[Q&A\] 대화 상자의 테두리 속성에 문제가 있습니다.](https://m.blog.naver.com/tipsware/223677527318)
 
 <!-- END: tipsware (m.blog.naver.com) -->
 

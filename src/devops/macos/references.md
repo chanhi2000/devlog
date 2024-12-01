@@ -422,4 +422,12 @@ head:
 
 ---
 
+## Epilogue
+
+- [터미널에서 관리자 비밀번호 대신 Touch ID 로 로그인하기](https://blog.dizy.dev/tools/2024/11/16/root-password-alternative-touch-id/)
+
+<!-- END: blog.dizy.dev -->
+
+---
+
 <TagLinks />

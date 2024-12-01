@@ -115,6 +115,7 @@ head:
 - [`@2hV3` / 한 달간 코칭 50회, 경쟁력 있는 포트폴리오란? - 모든 시간을 GPTs에 담았어요](https://brunch.co.kr/@@2hV3/252)
 - [`@ZVA` / 챗GPT와 생산성 향상의 역설](https://brunch.co.kr/@@ZVA/742)
 - [`@R17` / 권력의 속성과 인간의 심리 - ChatGPT o1-preview](https://brunch.co.kr/@@R17/652)
+- [`@2rV` / ChatGPT로 PRD 작성하기](https://brunch.co.kr/@@2rV/197)
 
 <!-- END: brunch.co.kr -->
 

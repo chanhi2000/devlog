@@ -72,6 +72,8 @@ head:
 ## Brunch
 
 - [`@sJg` / 데이터에만 집중하는 분석 플랫폼 Fabric - Microsoft Fabric으로 하는 데이터 분석](https://brunch.co.kr/@@sJg/173)
+- [`@sJg` / 중앙선거관리위원회 선거공약정보 분석해보기 1 - 공공데이터 분석](https://brunch.co.kr/@@sJg/176)
+- [`@sJg` / 중앙선거관리위원회 선거공약정보 분석해보기 2 - 공공데이터 분석](https://brunch.co.kr/@@sJg/177)
 
 <!-- END: brunch.co.kr -->
 

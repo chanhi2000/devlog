@@ -106,5 +106,6 @@ head:
 <MyYouTubeItems jsonName="yu-ToPProjectsCompilation" /><!-- ToP Projects Compilation -->
 <MyYouTubeItems jsonName="yu-bjoernalbers" /><!-- Björn Albers -->
 <MyYouTubeItems jsonName="yu-BranchEducation" /><!-- Branch Education -->
+<MyYouTubeItems jsonName="yu-comoconfigurar" /><!-- comoconfigurar -->
 
 <TagLinks />

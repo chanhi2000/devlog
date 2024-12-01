@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "upir_upir",
+    "name": "upir",
+    "profile": "https://yt3.googleusercontent.com/r-t_8VTy0RmOeHjAWf07krjHZfS4l7VFaw94zdk295YIUY4qATj3jIVS_780hCYIVlLDdksrs3w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BHUcaVkmotXzXdLg7gWE4GSN_b2K9wsNem33zpzVK8g-OAezOFMgKA0DDI669dJkVSdy1PTtmiI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Frq_JP1lalE", "title": "Car VFD Gauges with Arduino UNO" },
+    { "id": "iZdNtv_J_cY", "title": "Review Cheap Displays from TEMU" },
+    { "id": "B8baA8nBGnA", "title": "Custom Front Panels for Electronic Projects Using Longer Nano Pro 12W" },
+    { "id": "7DXQgJO2F_g", "title": "Arduino UNO - cheap vs. expensive" },
+    { "id": "L3ufJTFX2v0", "title": "Arduino Dashboard (full tutorial - with Nextion Intelligent Display, OBDII ELM327, Arduino Leonardo)" },
+    { "id": "ugS3rKBZVVc", "title": "Ford RS gauges with Arduino UNO" },
+    { "id": "A00CvNi1rzQ", "title": "Arduino Temperature Gauge" },
+    { "id": "uEkksez7qvE", "title": "Arduino 3D Menu" }
+  ],
+  "playlists": [
+
+  ]
+}

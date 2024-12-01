@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/hjXkD_dyYrdi4Dyocs0acb6-kRIRKRvlb1obi_fqQIpZMvBKlSGi8ukrF4DNFr4jsHlusHnP=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6IX6gIW1guM", "title": "Day 1 of Building a .NET MAUI Application from Start to Finish" },
+    { "id": "77pkDiivEGs", "title": "Day 2 of Building a .NET MAUI Application from Start to Finish" },
+    { "id": "FlYO_VihVtQ", "title": "Day 3 of Building a .NET MAUI Application from Start to Finish" },
+    { "id": "ObNaByFTs-w", "title": "The View Model Lifecycle in .NET MAUI" },
+    { "id": "OnYyPxdAkNQ", "title": "Building a .NET MAUI Application in 7 Days" },
+    { "id": "X1BA2ncLa0c", "title": "Connect Your .NET MAUI Application to a Database" },
+    { "id": "XQ11EuUsRrw", "title": "Building a “Headless” Component in .NET MAUI" },
+    { "id": "N4e61lnQFNo", "title": "Components For Styles (w/ .NET MAUI)" },
+    { "id": "kEAKJBwWw78", "title": "A Better Way to Deal with Complex Bindings in XAML" },
+    { "id": "QzsQFCD5Al8", "title": "Setup Logging in Your .NET MAUI Application (feat. Serilog)" },
+    { "id": "bl4Tu_mJfzs", "title": "The Most Wonderful Type of Tests" },
     { "id": "H6RZZlgyqMA", "title": "Is Your MAUI Application UI Responsive?" },
     { "id": "M2eZYsKBzV8", "title": "Contributing To Open-Source For The First Time" },
     { "id": "yNUgxojMmek", "title": "Publishing - MAUI CI/CD TUTORIAL #1 (Windows)" },

@@ -79,6 +79,8 @@ tag:
 
 - [`nkstar-ios` / 뚝딱뚝딱 모바일](https://nkstar-ios.tistory.com/m/)
   - [\[Flutter\]\[Error\] iOS 17 + Xcode 15에서 발생하는 Build Error](https://nkstar-ios.tistory.com/m/36)
+  - [\[Flutter\] Code Push를 해보라고요? (1) - 지피지기](https://nkstar-ios.tistory.com/m/38)
+  - [\[Flutter\] Code Push를 해보라고요? (2) - 맨땅에 헤딩하는 법](https://nkstar-ios.tistory.com/m/39)
   <!-- END: nkstar-ios -->
 - [`anpigon` / 안피곤 성장블로그](https://anpigon.tistory.com/m/)
   - [(Flutter) Riverpod의 Provider 사용 방법](https://anpigon.tistory.com/m/359)

@@ -30,5 +30,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-greatscottlab" /><!-- GreatScott! -->
+<MyYouTubeItems jsonName="yu-upir_upir" /><!-- upir -->
 
 <TagLinks />

@@ -72,6 +72,7 @@ head:
   - [11일차: Angular 16 에서 HTTP 요청하기](https://aspdotnet.tistory.com/m/3305)
   - [11일차: Angular 16 에서 HTTP 요청하기](https://aspdotnet.tistory.com/m/3325)
   - [12일차: Angular 16 Observable과 RxJS 기초](https://aspdotnet.tistory.com/m/3306)
+  - [12일차: Angular 16 Observable과 RxJS 기초](https://aspdotnet.tistory.com/m/3333)
   <!-- END: aspdotnet -->
 <!-- END: tistory.com -->
 

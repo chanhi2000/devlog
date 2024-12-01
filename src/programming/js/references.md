@@ -296,6 +296,7 @@ head:
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [Basic Usage of URL Pattern API](http://syaku.tistory.com/m/418)
   - [JavaScript - Java의 enum을 대체하는 자바스크립트의 `Object.freeze()` 완벽 가이드](https://syaku.tistory.com/m/432)
+  - [JavaScript Map vs Object: 성능과 사용법](http://syaku.tistory.com/m/440)
   <!-- END: syaku -->
 <!-- END: tistory.com -->
 
@@ -688,5 +689,8 @@ head:
 <!-- END: jonathancreamer.com -->
 
 ---
+
+## YoungSeon.Ahn
+
 
 <TagLinks />

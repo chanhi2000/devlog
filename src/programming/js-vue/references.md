@@ -121,6 +121,7 @@ head:
   <!-- END: bbogle2 -->
 - [`zinee-world` / zineeworld](https://zinee-world.tistory.com/m/)
   - [\[Canvas\] Vue로 복권 긁기 기능 구현 (LottoScratch)](https://zinee-world.tistory.com/m/653)
+  - [Vuex 와 Pinia 비교](https://zinee-world.tistory.com/m/661)
   <!-- END: zinee-world -->
 <!-- END: tistory.com -->
 

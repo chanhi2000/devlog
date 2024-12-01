@@ -166,4 +166,14 @@ head:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [안드로이드 스튜디오 로그캣(Logcat) 사용법](https://skyer9.pe.kr/wordpress/?p=9582)
+- [안드로이드 스튜디오 – SQLite 데이터베이스 보는 방법](https://skyer9.pe.kr/wordpress/?p=9586)
+- [java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you’ve changed schema but forgot to update the version number. You can simply fix this by increasing the version number.](https://skyer9.pe.kr/wordpress/?p=9593)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
 <TagLinks />

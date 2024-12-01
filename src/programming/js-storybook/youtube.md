@@ -31,4 +31,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-chromaticui" /><!-- Chromatic -->
+
 <TagLinks />

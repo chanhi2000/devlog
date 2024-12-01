@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "caltech",
+    "name": "caltech",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nrc78JSxQwK6kpYzDdmqtFf4OJR-n-9PISGopDSTlH-ME=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-h0tdwrVS7NOKb260KPCvo1fHpxTKGfgwekWkMF8GZ9r25G3WDTMtYnL4vkDlA8ZUWLm_gLbgQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C_3sjTcQS8Y", "title": "Matter vs. Gravity: Listening to Colliding Black Holes and Neutron Stars - Katerina Chatziioannou" },
+    { "id": "G_skKRljJHI", "title": "Watson Lecture Promo – Nov. 20, 2024: Katerina Chatziioannou" },
+    { "id": "ZveC3Af0QAA", "title": "Protein Complexes as the Nanomachines of the Human Body - Dr. Rebecca Voorhess" },
+    { "id": "PGD6H-7lrrI", "title": "Walter Burke Institute of Theoretical Physics Celebrates a Decade of Discovery" },
+    { "id": "mHdIh8H5Pao", "title": "Two Engineers and a Whiteboard: Reimagining Clean Energy Systems" },
+    { "id": "BlWtb5pwSpw", "title": "Building New Molecules: Chemistry in the Lab and at the Computer with Melissa Ramirez" },
+    { "id": "z39R69xQqao", "title": "Machine Learning Adaptation in Swimming Motion" },
+    { "id": "YtJjKBz59QM", "title": "Behind the Book: Betsy Mitchell and Ann Worthington - July 31, 2024" },
+    { "id": "MPXj6pBBrD0", "title": "How Autonomous Spacecraft Can Avoid Collisions" },
+    { "id": "yjgAtz1eovk", "title": "Humans vs. Autonomous Systems: Robustness and Intelligence" },
+    { "id": "UjE8QMD6_z4", "title": "Closing the Loop: From Data to Action in Physical Systems" },
+    { "id": "eTSrxCECLUU", "title": "LLM Training" },
+    { "id": "vpskpvaHrWU", "title": "ML with Guarantees for Energy and Sustainability" },
+    { "id": "YKhdLxI-ON4", "title": "Resource Management in AI/ML Systems" },
+    { "id": "_3jPPZK1StE", "title": "Privacy & Security of Learning Algo: A Control Theory Perspective" },
+    { "id": "bBFOhVR9PeE", "title": "Keynote I: Learning and Control in Countable State Spaces" },
+    { "id": "g3v-wJqHpgs", "title": "Startup Panel: Crossing the Gap" },
+    { "id": "gOcBDb4Y0c4", "title": "Market Power & Withholding Behavior of Energy Storage Units" },
+    { "id": "qEETexlvrcQ", "title": "Dollar, Second, and kg CO2" },
+    { "id": "smF1ehrK0R4", "title": "Distributionally Robust Regret Optimal Control" },
+    { "id": "BNCAxXPC4qQ", "title": "Global Networks for Data Intensive Sciences: the Innovations and Key Roles of Steven Low" },
+    { "id": "MYcXagJ77rE", "title": "Keynote II: Analyzing Spatially Distributed EV Charging Dynamics with Optimization and Duality" },
+    { "id": "23A9qGC2XDY", "title": "Load Balancing at Google" },
+    { "id": "49k-S0gbyT4", "title": "Netlab: Our Journey Together and Forward" },
+    { "id": "96vyhKwUA4Y", "title": "Caltech Digital Twin: a Distribution System Model and Testbed" },
+    { "id": "AACLdMbBn5o", "title": "Large-Scale Optimization of Convex-Concave Games in Networks" },
+    { "id": "DL5MHDUe4JM", "title": "A Decade of Sustainable Data Centers" },
+    { "id": "GK6s31gaH1w", "title": "Structure Exploiting Multi-Agent Reinforcement Learning" },
+    { "id": "LgDt_jDOLJA", "title": "How Much Should We Trust ML Agents in Power Systems?" },
+    { "id": "97Fe3voDxnM", "title": "The Universe Never Forgets: Pushing Einstein’s Theory to the Limits – Keefe Mitman – 5/28/24" },
+    { "id": "GUI6hdfgLsg", "title": "Netlab Reunion Athenaeum Reception + Special Keynote:  My Favorite Architect" }
+  ],
+  "playlists": [
+
+  ]
+}

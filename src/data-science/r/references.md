@@ -25,6 +25,7 @@ tag:
 ## <FontIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsdatascience` / Use R to build Clinical Flowchart with shinyCyJS](https://towardsdatascience.com/clinical-flowchart-shinycyjs-e-2f5489154794?source=rss-cb820693bed5------2)
+- [`jhk0530` / Boost your R with RStudio addins](https://jhk0530.medium.com/rstudio-addin-101-ed0e67503b57?)
 
 <!-- END: medium -->
 

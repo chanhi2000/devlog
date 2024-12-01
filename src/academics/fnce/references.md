@@ -47,6 +47,11 @@ head:
 - [`@5jl5` / \[심포지엄\] ESG의무공시와 금융투자업계의 대응방안 - 금융투자업계의 ESG대응 및 지속가능한 성장방안 모색을 위한 심포지엄](https://brunch.co.kr/@@5jl5/131)
 - [`@ZVA` / 코인이 아니라 소프트웨어 기술 관점에서 토큰을 말하다](https://brunch.co.kr/@@ZVA/740)
 - [`@ZVA` / 미국 우선주의와 비트코인 그리고 달러 패권의 미래](https://brunch.co.kr/@@ZVA/747)
+- [`@2weV` / 미국이 상승장인 시대  - 듀오링고, 카카오/LG 전자의 주가를 보며 느낀 점](https://brunch.co.kr/@@2weV/591)
+- [`@ZVA` / 스테이블코인도 은행의 진화 코스를 밟을 가능성이 높다](https://brunch.co.kr/@@ZVA/748)
+- [`@2weV` / 요즘 환율, 그리고 주가 변동을 보며 느끼는 아쉬움](https://brunch.co.kr/@@2weV/600)
+- [`@2weV` / 요즘 환율, 그리고 주가 변동을 보며 느끼는 아쉬움](https://brunch.co.kr/@@2weV/600)
+- [`@ZVA` / 2025년 크립토 테크판에서 주목할 14가지 아이디어](https://brunch.co.kr/@@ZVA/751)
 
 <!-- END: brunch.co.kr -->
 
@@ -78,10 +83,19 @@ head:
   - [달러 강세의 주요 원인과 한국 경제에 미치는 영향](https://syaku.tistory.com/m/429)
   - [2024년 금값 급등의 완벽한 분석: 원인과 전망](https://syaku.tistory.com/m/430)
   <!-- END: syaku -->
+- [`techjisu` / ]
+  - [2024.11.25~2024.11.29 팡교 미래에셋 식단 11월 4주차](https://techjisu.tistory.com/m/187)
+  <!-- END: techjisu -->
 <!-- END: tistory.com -->
 
 ---
 
+## 그대안의작은호수
+
+- [지수선물옵션시장내 개인투자자 손익](https://smallake.kr/?p=33645)
+- [ETF시장의 데이트레이더와 개인투자자](https://smallake.kr/?p=34617)
+
+<!-- END: smallake.kr -->
 
 ---
 

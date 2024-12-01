@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "uncoverage",
+    "name": "uncoverage",
+    "profile": "https://yt3.googleusercontent.com/om0TXIvIi7y3Z3mM_U30pxfcDsC7YEezVVejRJrDk37EXU_J64mqCPaaXcZBkraKkkRBiujqTMQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "FyKwtZT0b2w", "title": "AMA: Ultrawide Mac Virtual Display on Apple Vision Pro" },
+    { "id": "gYADqyRo194", "title": "Vision Pro ultrawide monitor workflow for Obsidian and Ulysses" },
+    { "id": "pg8nAtwgc5s", "title": "Apple Vision Pro Ultrawide is changing my workflow (visionOS 2.2 Beta)" },
+    { "id": "RdXk5eiVwxs", "title": "Apple Vision Pro is a terrible plane computer" },
+    { "id": "Cov-oWGFpeY", "title": "Did Meta Quest just become irrelevant?" },
+    { "id": "u_ZDIYXGtpM", "title": "Apple's secret weapon in the AI race" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "DemystifyingDesign",
+    "name": "Demystifying Design",
+    "profile": "https://yt3.googleusercontent.com/A4BfgHsDL0oquU4625BLmTtxs4n_WSWs1aO6jf3wDhCQUaawLAjdIRdAYJrcoO_5sdNZnJkU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SRsGo-NiQE7O0kohl6cXLlG40uhFfas9CEdfD9Q7am03U445bkdjb-Ex15Bn2D6-Xgn_SIPeWA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "m_d7K28CSXg", "title": "I spent 10 DAYS redesigning Visual Studio Code... | Speed UI Design" },
+    { "id": "nK2vBE1hbyQ", "title": "The 5 BIGGEST UI design mistakes (and how to avoid them)" }
+  ],
+  "playlists": [
+
+  ]
+}

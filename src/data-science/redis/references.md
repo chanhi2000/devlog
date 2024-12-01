@@ -120,6 +120,10 @@ tag:
 - [`coor` / 기록](https://coor.tistory.com/m/)
   - [Redis&RabbitMQ를 활용한 선착순 이벤트 개발 도전기](https://coor.tistory.com/m/67)
   <!-- END: coor -->
+- [`6161990src` / 6161990](https://6161990src.tistory.com/m/)
+  - [Redis 로컬 테스트 하는 두 가지 방법 : testContainers](https://6161990src.tistory.com/m/153)
+  - [Embedded Redis vs. macOS Sonoma](https://6161990src.tistory.com/m/158)
+  <!-- END: 6161990src -->
 <!-- END: tistory.com -->
 
 ---
@@ -139,6 +143,9 @@ tag:
 ## hudi.blog
 
 - [레디스 다중 명령에 대한 원자성 보장 방법](https://hudi.blog/redis-atomicity/)
+- [Redlock 알고리즘 알아보기](https://hudi.blog/redlock-algorithm/)
+
+<!-- END: hudi.blog -->
 
 ---
 
@@ -147,6 +154,14 @@ tag:
 - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 
 <!-- END: wafris.org -->
+
+---
+
+## Yun Blog
+
+- [Hikari와 비교하며 알아보는 Redis Lettuce 커넥션 풀의 특징](https://cheese10yun.github.io/redis-lettuce-connection/)
+
+<!-- END: cheese10yun.github.io -->
 
 ---
 

@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "perfology",
+    "name": "Perfology",
+    "profile": "https://yt3.googleusercontent.com/fsPU7e-5c4c3TqzLXROXntu52xW6JHUat8mAyp1ms-ymHhs5I58n4km1kJR6IU0HPxWo9Vxs1Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jKLU7cW8-tvYdfHp-yEOmELfccYWhj4R7PD29lHITmW9Ub21qqFUVw2fPaETECiccQJBU8yL=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sVUQe15hNPA", "title": "Proxyman Map Local Tutorial: Enhance Performance Testing with Mock APIs" },
+    { "id": "ySUOxJJ_C1M", "title": "Scaling Yahoo’s Kubernetes: On-Prem to Multi-Cloud Migration Success Story" },
+    { "id": "GL43rIefOcM", "title": "How Spotify Migrated Millions of Pods Without Downtime | Zero Downtime Kubernetes Migration" },
+    { "id": "mSxgTSiyF50", "title": "Scaling 50M Connections for IPL : Hotstar’s MQTT PubSub System" },
+    { "id": "3xxK2ZvRs_E", "title": "Automated Mobile App Performance Monitoring: Key Metrics for Android/iOS at MakeMyTrip" },
+    { "id": "A6RpStyRTdU", "title": "Proxyman Setup Guide for macOS & Android" },
+    { "id": "U10YlViGQlM", "title": "Proxyman Setup on Android Emulator with Automated Script" },
+    { "id": "H_4j_M_J1Bc", "title": "Kubernetes at Uber Scale : Scaling Thousands of Services and Millions of Containers Daily" },
+    { "id": "wJ1wZ4dh8sM", "title": "Load Balancing in Istio: Strategies & Demos" },
+    { "id": "p09NTtPKe-U", "title": "Flipkart's Journey: Migrating to K8s on Bare Metal for Performance Gains" },
+    { "id": "2PuBe478PdM", "title": "Mastering Instagram's Backend: Infrastructure & Load Testing Secrets for Performance Engineers" },
+    { "id": "tXlykcxBD5I", "title": "How Flipkart Scales Progressive Web Apps : Real-Time Performance Tracking & Optimization | Perfology" },
+    { "id": "vzNn6o7wqB4", "title": "Chaos Engineering for Service Mesh | Maximize Performance & Load Resilience of Service Mesh" },
+    { "id": "ZckOqVhQ3DU", "title": "How Sofascore Scaled to 20 Million Users : Challenges and Solutions" },
+    { "id": "Er2PwJptygw", "title": "Open Source Tools Jaeger & OpenTelemetry | Monitor Microservices Efficiently" },
+    { "id": "s0hQQW0g4vo", "title": "Part-2 ChatGPT-4.0 Demo: Unleashing the Power of AI Conversations" },
+    { "id": "g1D8Srem3yg", "title": "Zero Downtime Database Upgrades: GitLab’s Journey to Seamless Upgrades" },
+    { "id": "vIt_EWuIBtQ", "title": "Trace Devices | Proxy Settings in Fiddler" },
+    { "id": "BGB5LHlA5OA", "title": "ChatGPT-4.0 Demo: Unleashing the Power of AI Conversations" },
+    { "id": "3UnKMmrSk34", "title": "Scripting in Fiddler: A Comprehensive Guide" },
+    { "id": "9dMPp-E5-vk", "title": "Understanding Garbage Collection, Memory Leaks, Heap and Thread Dumps" }
+  ],
+  "playlists": [
+
+  ]
+}

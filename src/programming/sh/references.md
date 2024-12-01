@@ -562,4 +562,12 @@ tag:
 
 ---
 
+## ohyecloudy's pnotes
+
+- [#TIL ImageMagick로 image quality를 줄이기](https://ohyecloudy.com/ddiary/2024/11/23/imagemagick-reduce-image-quality/)
+
+<!-- END: ohyecloudy.com -->
+
+---
+
 <TagLinks />

@@ -71,6 +71,11 @@ head:
 - [`@jwlee010523` / 허프만 코딩(Huffman Coding)](https://velog.io/@jwlee010523/huffman-coding)
 - [`@ehddk0133` / \[CS 개념\] SOP와 CORS](https://velog.io/@ehddk0133/CS-%EA%B0%9C%EB%85%90-SOP%EC%99%80-CORS)
 - [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 (3)](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-3)
+- [`@euisuk-chung` / \[IT\] 클라우드 컴퓨팅의 서비스 모델: IaaS, PaaS, SaaS와 최신 GPUaaS, IQaaS 비교](https://velog.io/@euisuk-chung/IT-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%AA%A8%EB%8D%B8-IaaS-PaaS-SaaS%EC%99%80-%EC%B5%9C%EC%8B%A0-GPUaaS-IQaaS-%EB%B9%84%EA%B5%90)
+- [`@ehddk0133` / \[CS 개념\] 프로세스 스케줄링 알고리즘](https://velog.io/@ehddk0133/CS-%EA%B0%9C%EB%85%90-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [`@ehddk0133` / \[CS 개념\]@Transactional 이란?](https://velog.io/@ehddk0133/CS-%EA%B0%9C%EB%85%90Transactional-%EC%9D%B4%EB%9E%80)
+- [`@qkrtkdwns3410` / 분산 시스템에서 데이터 일관성(consistency)과 가용성(availability)을 동시에 고려해야 하는 상황에서, 특정 요구사항에 따라 CAP 이론의 트레이드오프를 어떻게 선택했는지 설명해주세요.](https://velog.io/@qkrtkdwns3410/%EB%B6%84%EC%82%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%BC%EA%B4%80%EC%84%B1consistency%EA%B3%BC-%EA%B0%80%EC%9A%A9%EC%84%B1availability%EC%9D%84-%EB%8F%99%EC%8B%9C%EC%97%90-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%97%90-%EB%94%B0%EB%9D%BC-CAP-%EC%9D%B4%EB%A1%A0%EC%9D%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EC%98%A4%ED%94%84%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EC%A7%80-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
+- [`@jaehyun_ground` / 컴퓨터 네트워크 스터디 (4)](https://velog.io/@jaehyun_ground/%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8A%A4%ED%84%B0%EB%94%94-4)
 
 <!-- END: velog.io -->
 
@@ -202,6 +207,15 @@ head:
 - [`aspdotnet` / 재우니의 블로그](https://aspdotnet.tistory.com/m/)
   - [CORS(Cross-Origin Resource Sharing) '동일 출처 정책' 이란 무엇인가요?](https://aspdotnet.tistory.com/m/3327)
   <!-- END: aspdotnet -->
+- [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
+  - [유닉스 표준 IEEE std 1003.1 issue 8 (SUSv5) 개정판 - 2024년 5월 발표](https://sunyzero.tistory.com/m/306)
+  <!-- END: sunyzero -->
+- [`jacky0831` / DEV_JACKY](https://jacky0831.tistory.com/m/)
+  - [\[why\] 테스트 코드는 왜 작성해야 할까요? 특히 프론트엔드에서는요?](https://jacky0831.tistory.com/m/114)
+  <!-- END: jacky0831 -->
+- [`puleugo` / 푸르고 개발 블로그](https://puleugo.tistory.com/m/)
+  - [이미지 로드 속도 향상하기](https://puleugo.tistory.com/m/213)
+  <!-- END: puleugo -->
 <!-- END: tistory.com  -->
 
 ---
@@ -264,6 +278,7 @@ head:
 
 - [시간 복잡도와 공간 복잡도](https://shkisme.vercel.app/Time-Space-Complexity)
 - [HTTP 관련 기본 지식들](https://shkisme.vercel.app/http-basic)
+- [BFS와 DFS](https://shkisme.vercel.app/BFS-DFS)
 
 <!-- END: shkisme.vercel.app -->
 
@@ -307,6 +322,14 @@ head:
 - [CAN Communication Protocols](https://m.blog.naver.com/chandong83/223639642079)
 
 <!-- END: chandong83 (blog.naver.com) -->
+
+---
+
+## 01010011
+
+- [호랑이는 죽어서 가죽을 남기고, 프로그램은 죽어서 덤프를 남긴다.](https://01010011.blog/2024/11/20/%ed%98%b8%eb%9e%91%ec%9d%b4%eb%8a%94-%ec%a3%bd%ec%96%b4%ec%84%9c-%ea%b0%80%ec%a3%bd%ec%9d%84-%eb%82%a8%ea%b8%b0%ea%b3%a0-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%80-%ec%a3%bd%ec%96%b4%ec%84%9c/)
+
+<!-- END: 01010011.blog -->
 
 ---
 

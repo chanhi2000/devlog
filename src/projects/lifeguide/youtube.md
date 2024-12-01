@@ -153,5 +153,6 @@ head:
 <MyYouTubeItems jsonName="yu-joescott" /><!-- Joe Scott -->
 <MyYouTubeItems jsonName="yu-woose4175" /><!-- 우쓰의 홈레코딩 [WOOSE] -->
 <MyYouTubeItems jsonName="yu-gang_diet" /><!-- 강식단 -->
+<MyYouTubeItems jsonName="yu-johnsonkb18" /><!-- 순위남 -->
 
 <TagLinks />

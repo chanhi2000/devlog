@@ -888,6 +888,16 @@ head:
 - [`syaku` / 샤쿠 블로그](http://syaku.tistory.com/m/)
   - [TTS(Text-to-Speech) 기술 종합 가이드](http://syaku.tistory.com/m/433)
   <!-- END: syaku -->
+- [`sonseungha` / Developer's Delight](https://sonseungha.tistory.com/m/)
+  - [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/m/717)
+  - [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/m/718)
+  - [학습률 웜업(Learning Rate WarmUp)에 대한 이해](https://sonseungha.tistory.com/m/720)
+  - [[Poetry] `requirements.txt` 파일로 Poetry에 `import` 하기](https://sonseungha.tistory.com/m/723)
+  - [setdefault vs defaultdict](https://sonseungha.tistory.com/m/732)
+  - [윤성우의 열혈 파이썬 중급편](https://sonseungha.tistory.com/m/733)
+  - [Python 정적 코드 분석 도구: MyPy와 PyType 비교](https://sonseungha.tistory.com/m/734)
+  - [python exception 일반적인 처리 방식과 Contextlib.suppress와의 차이](https://sonseungha.tistory.com/m/735)
+  <!-- END: sonseungha -->
 <!-- END: tistory.com -->
 
 ---
@@ -1144,15 +1154,6 @@ head:
 
 ---
 
-## Developer's Delight
-
-- [[PyTorch] DataLoader 멀티프로세싱하기](https://sonseungha.tistory.com/717)
-- [[Tensorflow/keras] Tensorflow용 DataLoader 만들기](https://sonseungha.tistory.com/718)
-- [학습률 웜업(Learning Rate WarmUp)에 대한 이해](https://sonseungha.tistory.com/720)
-- [[Poetry] `requirements.txt` 파일로 Poetry에 `import` 하기](https://sonseungha.tistory.com/723)
-
----
-
 ## 드프 DrawingProcess
 
 - [[Data] Python 이미지 여백 지우기 (`numpy`, `mask`, ...)](https://csj000714.tistory.com/1094)
@@ -1368,6 +1369,9 @@ head:
 - [Python – 16진수 맥어드레스 2진수로 출력하기](https://skyer9.pe.kr/wordpress/?p=9212)
 - [Python = hex 문자열 디코딩하기](https://skyer9.pe.kr/wordpress/?p=9283)
 - [Python – parameter by reference (참조로 값 전달)](https://skyer9.pe.kr/wordpress/?p=9291)
+- [E: Package ‘python3-pip’ has no installation candidate](https://skyer9.pe.kr/wordpress/?p=9564)
+
+<!-- END: skyer9.pe.kr -->
 
 ---
 

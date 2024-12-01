@@ -151,5 +151,6 @@ head:
 <MyYouTubeItems jsonName="yu-ZAcharyIndy" /><!-- ZAchary Indy -->
 <MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
 <MyYouTubeItems jsonName="yu-Pybites" /><!-- Pybites -->
+<MyYouTubeItems jsonName="yu-asarandi" /><!-- Alexandr Sarandi -->
 
 <TagLinks />

@@ -665,6 +665,40 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Jest',
+      collapsible: true,
+      icon: 'iconfont icon-jest',
+      children: [
+        '/programming/js-jest/README.md',
+        '/programming/js-jest/references.md',
+        '/programming/js-jest/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-jest/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Puppeteer',
+      collapsible: true,
+      icon: 'iconfont icon-puppeteer',
+      children: [
+        '/programming/js-puppeteer/README.md',
+        '/programming/js-puppeteer/references.md',
+        '/programming/js-puppeteer/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-puppeteer/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Storybook.js',
       collapsible: true,
       icon: 'iconfont icon-storybook',
@@ -698,6 +732,23 @@ export const sidebarEn = sidebar({
             '/programming/js-gatsby/articles/README.md',
             asb.freecodecamp("js-gatsby"),
             asb.smashingmagazion("js-gatsby"),
+          ]
+        }
+      ]
+    }, {
+      text: 'n8n',
+      collapsible: true,
+      icon: 'iconfont icon-n8n',
+      children: [
+        '/programming/js-n8n/README.md',
+        '/programming/js-n8n/references.md',
+        '/programming/js-n8n/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-n8n/articles/README.md',
           ]
         }
       ]

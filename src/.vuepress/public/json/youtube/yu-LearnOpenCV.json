@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/gzYqW5hmeAoMcpSeBBOqcWUPa8r0Qe-kaHr17UVUmfEaibEzEZrrJuHk10sHB4IiIIm-G-dgLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XB9jVApC6u4", "title": "Instance Segmentation for Medical Imaging: YOLOv8 vs YOLOv9" },
     { "id": "u6HYYiz2MyE", "title": "Fine Tuning T5 for Stack Overflow Tag Generation" },
     { "id": "KsC0dVJgnMs", "title": "Text Summarization using T5: Fine-Tuning and Building Gradio App" },
     { "id": "rsi2TROixFc", "title": "Detect Home Intruders with OpenCV and Gradio" },

@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "CodingwithAJT",
+    "name": "Coding with AJT",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nuZ4u-YEw9Gm0ea5hRiAwuhE5AKKU17rhBbWTdf7UkBA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8h8QbjCHsuu8vCg2joUI8cPak9bSSxx-NNw8kzhTmqohGWkN_JPgGya2WnU5ZaaEe-nxBRqGfUI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CMTZ7g8PX2Y", "title": "Unity Mario Game Tutorial | Part - 0 | Introduction to the App | Using C#" }
+  ],
+  "playlists": [
+
+  ]
+}

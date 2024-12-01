@@ -6,7 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/cJXnSe-UKIvq1qJ3ugRKrhKMJ38B2b4JQGDIOmVKBVHEjU7B-FfVaM3JZZI9tWZ0QCd_QTJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "75vVcB2UPaQ", "title": "Abstraction Vs Code Readability" },
+    { "id": "d6PG6xdoU4c", "title": "Linus's Laws of Writing Readable Code" },
+    { "id": "Ga1RukOSiAw", "title": "Python's Hidden Features" },
+    { "id": "8sWDThdFFyI", "title": "3 More Laws of Writing Readable Code" },
+    { "id": "IyYSafvSjdE", "title": "Most Useful Constructs Across Programming Languages" },
+    { "id": "k4urMdehJEk", "title": "Never... Duplicate Code" },
+    { "id": "5t2V3dQFnN8", "title": "The 2 Laws of Writing Well Organized Code" },
+    { "id": "qyM8Pi1KiiM", "title": "Master Go Programming With These Concurrency Patterns (in 40 minutes)" },
+    { "id": "wjDY5RbILno", "title": "Big O Notation Series #4: The Secret to Understanding O (log n)!" },
+    { "id": "K3NluEdHkao", "title": "Big O Notation Series #5: O (n log n) explained for beginners" },
+    { "id": "MpFog2kZsHk", "title": "How To Structure Your Go App - Full Course [ Hex Arch + Tests ]" },
+    { "id": "YMPlQCYp7xg", "title": "The 3 Laws of Writing Bug Free Code" },
+    { "id": "E7_gBwejLLw", "title": "3 Coding Techniques To God-Tier Developer" },
+    { "id": "6L3Oi9fFUEQ", "title": "The Different Levels of Writing Code" }
   ],
   "playlists": [
     {

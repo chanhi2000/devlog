@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/KoZi7PprCZK_aa0SS2emknKldVhLnxFFMuqWFrOP9yVJ7--5dPDoR0WEA38NDGl3qyCZV-WH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i8ar61-ykmM", "title": "Power Query - Unstack a Uneven List into a Table 🍔🦖" },
+    { "id": "HtQpvMjkfeE", "title": "Power Query - ID all stocks for season" },
+    { "id": "XV0JrQodY18", "title": "Power Query - Looping through Columns" },
+    { "id": "ahCTKWQvfJI", "title": "Power Query - Create a Dynamic Grouping Index 🦒🩺" },
+    { "id": "KmG88fSpHWs", "title": "Power Query - Identifying Frequent Values" },
+    { "id": "ABX3ukOVPLo", "title": "Power Query - Unstack Double Barrel Header Dataset 🍔" },
+    { "id": "h-NP3xKZYPY", "title": "Power Query - Dynamic Top N or Bottom N 🥶🦒" },
+    { "id": "sze4DglYcpI", "title": "Power Query - Filter Multiple Columns at once🦖😶‍🌫️" },
+    { "id": "iMeuit1IiE4", "title": "Power Query - Unpivot Double Barrel Headers" },
+    { "id": "Dboza9G6ogg", "title": "Power Query - Adding a Conditional Index Column" },
+    { "id": "T0sUfzVsiKA", "title": "Power Query - Join a Table based on a Date Range 😎😶‍🌫️" },
+    { "id": "BUazha3S6Ro", "title": "Power Query - Combine Files with inconsistent column names! 😎🍔" },
     { "id": "HLE_1GuW-BA", "title": "Power Query - Unstack Rows with List.Alternate" },
     { "id": "rN-LJcjXaow", "title": "Power Query - Dynamically Sort Table Columns by user input" },
     { "id": "pkEDTWW3_YU", "title": "Power Query - Add Report Context fields as Columns🩺📖" },

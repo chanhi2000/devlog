@@ -895,5 +895,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/882102431/2891cb11-f92b-4d97-8566-ab2c0f616667"
+  }, {
+    "repo": "frankois944/KTViewModelBuilder",
+    "desc": "A macro for wrapping a Kotlin ViewModel into a SwiftUI ObservableObject",
+    "officialSite": "",
+    "topics": ["ios", "mvvm", "kotlin-multiplatform", "swiftui", "skie"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/ddedcfaa6eb32f005acc69a18b6ed93ea2bd1616b6b942dd7ebc6177b5960d96/frankois944/KTViewModelBuilder"
   }
 ]

@@ -216,5 +216,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/141485728?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/4e822b6e288136f3cb2559c6ae3f7ff84a1e63e053f40d945e2b223ad7f23223/rails/thor"
+  }, {
+    "repo": "captn3m0/jekyll-sqlite",
+    "desc": "A Jekyll plugin to use SQLite databases as a data source.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3ddbd3b9a3ac45a8d7ad0b90c4fd1299f58247ea5bd36546757206aa717a327e/captn3m0/jekyll-sqlite"
   }
 ]
