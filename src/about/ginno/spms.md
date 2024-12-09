@@ -29,9 +29,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: (2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역
-    - property: og:description
       content: 긴급보수 현장지원
+    - property: og:description
+      content: (2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역
     - property: og:url
       content: https://chanhi2000.github.io/about/ginno/spms.html
 isOriginal: true
@@ -48,15 +48,19 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ## 개요
 
+::: info 긴급보수 현장지원 앱 서비스 관리 (Daum 맵 위치정보 기반 멀티플랫폼 프로젝트)
+
 [![(2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역<br/><출처: 서울특별시 pave.eseoul.go.kr>](/images/about/ginno/spms/spms-jumbo.jpg =250x)](https://pave.eseoul.go.kr/)
 
 [![iOS 설치파일 다운르도](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][ios-download]
 
 [![Android 설치파일 다운로드](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][aos-download]
 
-> <ShieldsGroup logos="openjdk,swift,kotlin,oracle,eclipseide,postman,intellijidea,apple,xcode,cocoapods,spring,gradle,apachemaven,android,androidstudio,git,gitea"/>
+사용 스택: <ShieldsGroup logos="openjdk,swift,kotlin,oracle,eclipseide,postman,intellijidea,apple,xcode,cocoapods,spring,gradle,apachemaven,android,androidstudio,git,gitea"/>
 
-긴급보수 현장지원 앱 서비스 관리 (Daum 맵 위치정보 기반 멀티플랫폼 프로젝트)
+:::
+
+
 
 ::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 

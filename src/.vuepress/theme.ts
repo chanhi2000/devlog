@@ -99,39 +99,39 @@ export default hopeTheme({
         dark: "dracula",
       }
     },
-    // markdownHint: {
-    //   alert: true,
-    //   hint: true,
-    // },
-    // markdownImage: {
-    //   lazyload: true,
-    //   size: true,
-    //   figure: true
-    // },
-    // markdownMath: {
-    //   type: 'katex', 
-    //   copy: false,
-    // },
-    // markdownTab: {
-    //   tabs: true,
-    //   codeTabs: true
-    // },
+    markdownHint: {
+      alert: true,
+      hint: true,
+    },
+    markdownImage: {
+      lazyload: true,
+      size: true,
+      figure: true
+    },
+    markdownMath: {
+      type: 'katex', 
+      copy: false,
+    },
+    markdownTab: {
+      tabs: true,
+      codeTabs: true
+    },
     mdEnhance: {
       align: true,
       attrs: true,
       chart: true,
-      codetabs: true,
+      // codetabs: true,
       component: true,
       demo: true,
       echarts: true,
-      figure: true,
+      // figure: true,
       flowchart: true,
       footnote: true,
-      hint: true,
+      // hint: true,
       include: true,
-      imgLazyload: true,
-      imgSize: true,
-      katex: true,
+      // imgLazyload: true,
+      // imgSize: true,
+      // katex: true,
       kotlinPlayground: true,
       mark: true,
       mermaid: true,
@@ -153,7 +153,7 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
+      // tabs: true,
       tasklist: true,
       vPre: true,
       vuePlayground: true,

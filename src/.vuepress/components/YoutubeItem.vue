@@ -15,17 +15,15 @@
     </div>
   </div>
 
-  <VidStack v-bind:src="vId"
+  <zck v-bind:src="vId"
     v-bind:title="vTitle"
     v-if="showEmbed"
   />
 </template>
 
 <script>
-import VidStack from '../../../node_modules/vuepress-plugin-components/lib/client/components/VidStack'
-/*
-import { VidStack } from '../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
-*/
+// import VidStack from '../../../node_modules/vuepress-plugin-components/lib/client/components/VidStack'
+import { VidStack } from '../../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
 export default {
   name: "YoutubeItem",
   components: { VidStack },

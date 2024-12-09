@@ -13,6 +13,10 @@ export const navbarEn = navbar([
         text: '지노시스템(주)',
         icon: '/images/about/ginno/logo.jpeg',
         link: '/about/ginno/README.md',
+      }, {
+        text: '풀이러닝(주)',
+        icon: '/images/about/poole/logo.png',
+        link: '/about/poole/README.md',
       }
     ]
   }, {

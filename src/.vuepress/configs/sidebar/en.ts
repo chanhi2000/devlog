@@ -9,7 +9,24 @@ export const sidebarEn = sidebar({
       children: [
         '/about/README.md',
         {
-          text: '지노시스템(주)',
+          text: '(2022-2024) 아이티정보기술(주)',
+          collapsible: true,
+          icon: '/images/about/ititinfo/logo.ico',
+          children: [
+            '/about/ititinfo/README.md',
+            '/about/ititinfo/onnara-m.md',
+          ]
+        }, {
+          text: '(2021-2022) 풀이러닝(주)',
+          collapsible: true,
+          icon: '/images/about/poole/logo.png',
+          children: [
+            '/about/poole/README.md',
+            '/about/poole/poolemath.md',
+            '/about/poole/smarthb.md',
+          ]
+        }, {
+          text: '(2018-2021) 지노시스템(주)',
           collapsible: true,
           icon: '/images/about/ginno/logo.jpeg',
           children: [
@@ -18,23 +35,15 @@ export const sidebarEn = sidebar({
             '/about/ginno/safecity.md',
             '/about/ginno/ndms.md',
           ]
-        }, 
-        {
-          text: '풀이러닝(주)',
-          collapsible: true,
-          icon: '/images/about/poole/poolemath-ico.png',
-          children: [
-            '/about/poole/README.md',
-          ]
         }
       ]
     }
   ],
   '/programming/': [
     {
-      text: '/Programming',
+      text: 'Programming',
       icon: 'fas fa-keyboard',
-      children: [ '/programming/README.md' ],
+      link: '/programming/README.md',
     },
     //region: api
     {
@@ -1657,7 +1666,7 @@ export const sidebarEn = sidebar({
     {
       text: 'Tool',
       icon: 'fas fa-screwdriver-wrench',
-      children: [ '/tool/README.md' ],
+      link: '/tool/README.md',
     }, {
       text: 'Dracula',
       collapsible: true,
@@ -2211,7 +2220,7 @@ export const sidebarEn = sidebar({
     {
       text: 'DevOps',
       icon: 'fas fa-network-wired',
-      children: [ '/devops/README.md' ],
+      link: '/devops/README.md',
     }, {
       text: 'Github',
       collapsible: true,
@@ -3060,7 +3069,8 @@ export const sidebarEn = sidebar({
       ]
     }, 
     //endregion
-  ], '/data-science/': [
+  ], 
+  '/data-science/': [
     {
       text: 'Data Science',
       icon: 'fas fa-database',
@@ -3389,7 +3399,8 @@ export const sidebarEn = sidebar({
         }
       ]
     }, 
-  ], '/ai/': [
+  ], 
+  '/ai/': [
     {
       text: 'AI',
       icon: 'fas fa-brain',
@@ -3561,7 +3572,8 @@ export const sidebarEn = sidebar({
         }
       ]
     }, 
-  ], '/hw/': [
+  ], 
+  '/hw/': [
     {
       text: 'Hardware',
       collapsible: true,
@@ -3624,12 +3636,12 @@ export const sidebarEn = sidebar({
         }
       ]
     }, 
-  ], '/projects/': [
+  ], 
+  '/projects/': [
     {
       text: 'Project',
-      collapsible: true,
       icon: 'fas fa-industry',
-      children: [ '/projects/README.md' ],
+      link: '/projects/README.md',
     }, {
       text: 'My Roadmap',
       collapsible: true,

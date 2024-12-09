@@ -24,9 +24,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: About > Portfolio(3)
+      content: GIS통합상황관리시스템
     - property: og:description
-      content: Portfolio(3)
+      content: (2020) 행정안전부 GIS 기반 통합상황관리 시스템 (안드로이드) 신규 개발 용역
     - property: og:url
       content: https://chanhi2000.github.io/about/ginno/ndms.html
 isOriginal: true
@@ -43,11 +43,13 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
 
 ## 개요
 
+::: info Daum 맵 기반 GIS 통합상황관리 시스템
+
 [![(2019-2020) 행정안전부 GIS 기반 통합상황관리 시스템 (안드로이드)<br/><출처: 행정안전부 gis.ndms.go.kr>](/images/about/ginno/ndms/ndms-banner.webp =700x)](http://gis.ndms.go.kr/)
 
-> <ShieldsGroup logos="openjdk,intellijidea,gradle,android,androidstudio,git,gitea"/>
+사용 스택: <ShieldsGroup logos="openjdk,intellijidea,gradle,android,androidstudio,git,gitea"/>
 
-Daum 맵 기반 GIS 통합상황관리 시스템
+:::
 
 ::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 개발내용
 

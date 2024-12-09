@@ -40,11 +40,9 @@
 </template>
 
 <script>
-import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
-import { Notice } from '../../../node_modules/@vuepress/plugin-notice/lib/client/components'
-/*
+// import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
+// import { Notice } from '../../../node_modules/@vuepress/plugin-notice/lib/client/components'
 import { FontIcon } from '../../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
-*/
 import * as Prism from 'prismjs'
 
 import 'prismjs/components/prism-json'

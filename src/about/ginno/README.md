@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: 지노시스템(주)
+title: 개요
 description: Portfolio > 지노시스템(주)
-icon: /images/about/ginno/logo.jpeg
+icon: fas fa-sitemap
 category: 
   - About
   - Portfolio
@@ -20,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Portfolio > 지노시스템(주)
+      content: 회사소개
     - property: og:description
-      content: 지노시스템(주)
+      content: Portfolio > 지노시스템(주)
     - property: og:url
       content: https://chanhi2000.github.io/about/ginno/
 isOriginal: true
@@ -58,7 +58,9 @@ cover: /images/about/ginno/banner.png
   </a>
 </p>
 
-## 모바일
+## 참여 프로젝트
+
+### 모바일
 
 ```component VPCard
 {
@@ -66,7 +68,7 @@ cover: /images/about/ginno/banner.png
   "desc": "(2018-2019) 서울시 포장도로 관리 시스템 모바일부분 유지보수 용역",
   "link": "/about/ginno/spms.md",
   "logo": "/images/about/ginno/spms/spms-ico.png",
-  "background": "rgba(r,g,b,0.2)"
+  "background": "rgba(233,105,67,0.2)"
 }
 ```
 
@@ -76,7 +78,7 @@ cover: /images/about/ginno/banner.png
   "desc": "(2019-2020) 서울 스마트재난 시스템 유지보수 용역유지보수 용역",
   "link": "/about/ginno/safecity.md",
   "logo": "/images/about/ginno/safecity/safecity-ico.png",
-  "background": "rgba(r,g,b,0.2)"
+  "background": "rgba(47,104,225,0.2)"
 }
 ```
 
@@ -90,7 +92,7 @@ cover: /images/about/ginno/banner.png
 }
 ```
 
-### 기타 / 웹 프로젝트 (내부행정망)
+### 기타 / 웹 (내부행정망)
 
 - 2019
   - 서울시 포장도로 관리 시스템 유지보수 용역

@@ -39,10 +39,8 @@
   </details>
 </template>
 <script>
-import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
-/*
+// import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
 import { FontIcon } from '../../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
-*/
 import * as Prism from 'prismjs'
 import axios from 'axios'
 import 'prismjs/components/prism-json'

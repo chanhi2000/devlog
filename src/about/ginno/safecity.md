@@ -56,15 +56,17 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ## 개요
 
+::: info 서울안전 앱 서비스 관리 (Naver 맵 위치정보 기반 웹/모바일 하이브리드 플랫폼)
+
 [![(2019-2020) 서울 스마트재난 시스템 유지보수 용역유지보수 용역<br/><출처: 서울특별시 safecity.seoul.go.kr>](/images/about/ginno/safecity/safecity-banner.webp =700x)](https://safecity.seoul.go.kr/)
 
 [![App Store에서 서울안전 iOS 설치](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][ios-download]
   
 [![Google Play에서 서울안전 Android](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][aos-download]
 
-> <ShieldsGroup logos="openjdk,swift,oracle,intellijidea,apple,xcode,spring,apachemaven,gradle,android,androidstudio,git,gitea,nodedotjs,apachecordova,verdaccio,docker,windows,jenkins"/>
+사용 스택: <ShieldsGroup logos="openjdk,swift,oracle,intellijidea,apple,xcode,spring,apachemaven,gradle,android,androidstudio,git,gitea,nodedotjs,apachecordova,verdaccio,docker,windows,jenkins"/>
 
-서울안전 앱 서비스 관리 (Naver 맵 위치정보 기반 웹/모바일 하이브리드 플랫폼)
+:::
 
 ::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
