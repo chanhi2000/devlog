@@ -37,19 +37,6 @@ cover: /images/about/coderman.webp
 
 프로그램이 작성되는 환경부터 배포되는 환경까지 적용하는 개발자 이찬희 입니다.
 
-### 보유 스택
-
-| 항목 | 스택 |
-| :--- | :--- |
-| :rocket: Language / Tools / IDE / Framework | ![shield-xcode][shield-xcode] ![shield-swift][shield-swift] ![shield-cocoapods][shield-cocoapods]<br/>![shield-jetbrains][shield-jetbrains] ![shield-intellijidea][shield-intellijidea] ![shield-androidstudio][shield-androidstudio] ![shield-eclipse][shield-eclipse] ![shield-java][shield-java] ![shield-kotlin][shield-kotlin] ![shield-android][shield-android] ![shield-spring][shield-spring] ![shield-spring-boot][shield-spring-boot] ![shield-spring-security][shield-spring-security] ![shield-swagger][shield-swagger] ![shield-apache-maven][shield-apache-maven] ![shield-apache-ant][shield-apache-ant] ![shield-gradle][shield-gradle] ![shield-apache-tomcat][shield-apache-tomcat] <br/>![shield-vscode][shield-vscode] ![shield-vscodium][shield-vscodium] ![shield-npm][shield-npm] ![shield-yarn][shield-yarn] ![shield-html][shield-html] ![shield-nodejs][shield-nodejs] ![shield-jquery][shield-jquery] ![shield-javascript][shield-javascript] ![shield-typescript][shield-typescript] ![shield-express][shield-express] ![shield-apache-cordova][shield-apache-cordova] ![shield-reactjs][shield-reactjs] ![shield-vue-js][shield-vue-js] ![shield-graphql][shield-graphql] ![shield-css][shield-css]<br/> ![shield-visualstudio][shield-visualstudio] ![shield-csharp][shield-csharp] ![shield-dotnet][shield-dotnet] <br/> ![shield-cpp][shield-cpp] ![shield-c][shield-c] <br/> ![shield-gnu-bash][shield-gnu-bash] ![shield-vim][shield-vim] ![shield-neovim][shield-neovim] ![shield-pwsh][shield-pwsh] |
-| :truck: CI / CD | ![shield-subversion][shield-subversion] ![shield-git][shield-git]<br/> ![shield-github][shield-github] ![shield-github-action][shield-github-action] ![shield-gitlab][shield-gitlab] ![shield-gitea][shield-gitea] <br/> ![shield-jenkins][shield-jenkins] ![shield-verdaccio][shield-verdaccio] <br/> ![shield-markdown][shield-markdown] ![shield-readme][shield-readme] |
-|	:mag_right: Databases | ![shield-mysql][shield-mysql] ![shield-mariadb][shield-mariadb] ![shield-sqlite][shield-sqlite] ![shield-oracle][shield-oracle] ![shield-postgresql][shield-postgresql] |
-| :desktop_computer: OS | ![shield-macos][shield-macos] ![shield-win][shield-win] ![shield-ubuntu][shield-ubuntu] ![shield-centos][shield-centos] ![shield-redhat][shield-redhat] ![shield-alpine-linux][shield-alpine-linux] |
-| :ship: Virtualization | ![shield-virtualbox][shield-virtualbox] ![shield-vmware][shield-vmware] ![shield-docker][shield-docker] ![shield-kubernetes][shield-kubernetes] ![shield-openshift][shield-openshift] |
-| :cloud: Cloud | |
-| :vertical_traffic_light: API Used | ![shield-firebase][shield-firebase] ![shield-kakao][shield-kakao] ![shield-naver][shield-naver] ![shield-notion][shield-notion] |
-| Misc. | ![shield-notion][shield-notion] ![shield-postman][shield-postman] ![shield-synology][shield-synology] ![shield-curl][shield-curl] |
-
 ### 참여 프로젝트
 
 ::: info 아이티정보기술(주) (2022-2024)
@@ -74,7 +61,7 @@ cover: /images/about/coderman.webp
   "desc": "(2021-2022) 앱북: 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동",
   "link": "/about/poole/smarthb.md",
   "logo": "/images/about/poole/smarthb/ico-appbook.png",
-  "background": "rgba(56,123,131,0.2)"
+  "background": "rgba(236,92,36,0.2)"
 }
 ```
 
@@ -115,6 +102,23 @@ cover: /images/about/coderman.webp
 ```
 
 - **사용 스택**: <ShieldsGroup logos="openjdk,swift,kotlin,oracle,eclipseide,postman,intellijidea,apple,xcode,cocoapods,spring,gradle,apachemaven,android,androidstudio,git,gitea,nodedotjs,apachecordova,verdaccio,docker,windows,jenkins"/>
+
+:::
+
+
+
+::: details 보유 스택
+
+| 항목 | 스택 |
+| :--- | :--- |
+| :rocket: Language / Tools / IDE / Framework | ![shield-xcode][shield-xcode] ![shield-swift][shield-swift] ![shield-cocoapods][shield-cocoapods]<br/>![shield-jetbrains][shield-jetbrains] ![shield-intellijidea][shield-intellijidea] ![shield-androidstudio][shield-androidstudio] ![shield-eclipse][shield-eclipse] ![shield-java][shield-java] ![shield-kotlin][shield-kotlin] ![shield-android][shield-android] ![shield-spring][shield-spring] ![shield-spring-boot][shield-spring-boot] ![shield-spring-security][shield-spring-security] ![shield-swagger][shield-swagger] ![shield-apache-maven][shield-apache-maven] ![shield-apache-ant][shield-apache-ant] ![shield-gradle][shield-gradle] ![shield-apache-tomcat][shield-apache-tomcat] <br/>![shield-vscode][shield-vscode] ![shield-vscodium][shield-vscodium] ![shield-npm][shield-npm] ![shield-yarn][shield-yarn] ![shield-html][shield-html] ![shield-nodejs][shield-nodejs] ![shield-jquery][shield-jquery] ![shield-javascript][shield-javascript] ![shield-typescript][shield-typescript] ![shield-express][shield-express] ![shield-apache-cordova][shield-apache-cordova] ![shield-reactjs][shield-reactjs] ![shield-vue-js][shield-vue-js] ![shield-graphql][shield-graphql] ![shield-css][shield-css]<br/> ![shield-visualstudio][shield-visualstudio] ![shield-csharp][shield-csharp] ![shield-dotnet][shield-dotnet] <br/> ![shield-cpp][shield-cpp] ![shield-c][shield-c] <br/> ![shield-gnu-bash][shield-gnu-bash] ![shield-vim][shield-vim] ![shield-neovim][shield-neovim] ![shield-pwsh][shield-pwsh] |
+| :truck: CI / CD | ![shield-subversion][shield-subversion] ![shield-git][shield-git]<br/> ![shield-github][shield-github] ![shield-github-action][shield-github-action] ![shield-gitlab][shield-gitlab] ![shield-gitea][shield-gitea] <br/> ![shield-jenkins][shield-jenkins] ![shield-verdaccio][shield-verdaccio] <br/> ![shield-markdown][shield-markdown] ![shield-readme][shield-readme] |
+|	:mag_right: Databases | ![shield-mysql][shield-mysql] ![shield-mariadb][shield-mariadb] ![shield-sqlite][shield-sqlite] ![shield-oracle][shield-oracle] ![shield-postgresql][shield-postgresql] |
+| :desktop_computer: OS | ![shield-macos][shield-macos] ![shield-win][shield-win] ![shield-ubuntu][shield-ubuntu] ![shield-centos][shield-centos] ![shield-redhat][shield-redhat] ![shield-alpine-linux][shield-alpine-linux] |
+| :ship: Virtualization | ![shield-virtualbox][shield-virtualbox] ![shield-vmware][shield-vmware] ![shield-docker][shield-docker] ![shield-kubernetes][shield-kubernetes] ![shield-openshift][shield-openshift] |
+| :cloud: Cloud | |
+| :vertical_traffic_light: API Used | ![shield-firebase][shield-firebase] ![shield-kakao][shield-kakao] ![shield-naver][shield-naver] ![shield-notion][shield-notion] |
+| Misc. | ![shield-notion][shield-notion] ![shield-postman][shield-postman] ![shield-synology][shield-synology] ![shield-curl][shield-curl] |
 
 :::
 

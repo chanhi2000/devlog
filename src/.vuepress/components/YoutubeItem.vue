@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <zck v-bind:src="vId"
+  <VidStack v-bind:src="vId"
     v-bind:title="vTitle"
     v-if="showEmbed"
   />
@@ -75,9 +75,9 @@ export default {
       this.thumbnailAlt = `thumb-${id}`
       this.link = {
           thumbnail: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
-          backgroundThumb: `width:var(--yt-max-width);height:auto;background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.75)), url(https://i.ytimg.com/vi/${id}/hqdefault.jpg)`,
-          video: `https://www.youtube.com/watch?v=${id}`,
-          channel: `https://www.youtube.com/@${channelId}`
+          backgroundThumb: `background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.75)), url(https://i.ytimg.com/vi/${id}/hqdefault.jpg)`,
+          video: `https://youtu.be/${id}`,
+          channel: `https://youtube.com/@${channelId}`
       }
       this.vWatched = (isWatched) ? `✅` : `❌`
       this.showEmbed = showEmbed
@@ -116,17 +116,14 @@ export default {
 </script>
 
 <style scoped>
-* {--yt-max-width:519px;--yt-max-height:289px}
-.youtube-item {margin:0.5rem 0;;max-width:var(--yt-max-width);max-height:var(--yt-max-height);}
 .youtube-item,.youtube-item-link {display:flex;align-items:center;justify-content:center;}
 .youtube-item-watched {font-size:0.75em;margin-right:1rem}
 .youtube-item-title {
   background-position:center;background-size:cover;background-repeat:no-repeat;
-  width:auto;max-width:var(--yt-max-width);max-height:var(--yt-max-height);padding:4.5rem 0;color:#eaeaea;
+  width:auto;padding:4.5rem 0;color:#eaeaea;
   display:flex;align-items:center;justify-content:center;flex-direction:column;
 }
 .youtube-item-title > p {width:auto;font-size:1.12em;line-height:1.2;text-align:center;padding:0 1rem;}
 .youtube-item-channel {width:auto;min-width:120px;}
 .youtube-item-channel > i {display:flex;align-items:center;justify-content:center;flex-direction:column;font-size:0.45em;}
-.youtube-item-link,.youtube-item-title {margin-left:10px;}
 </style>

@@ -5,11 +5,19 @@ description: Android > References
 icon: fas fa-book-atlas
 category:
   - Java
-  - Android 
+  - Android
   - References
-tag: 
-  - references
+tag:
+  - java
+  - kotlin
+  - kt
+  - kts
   - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
+  - references
 ---
 
 # {{ $frontmatter.title }} 관련

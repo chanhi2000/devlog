@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/3vE7BpEC6SepVOdE9CbJfBdvBdoaR5dzoKYogHx_Ut6bggapKl01Z1Em9mefl-7mCKjubAb6kg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "QG9bw4rWqrg", "title": "How to Install Flutter on a Mac: Step-by-Step Guide" },
+    { "id": "Kz9zySV0U4I", "title": "Download Python In Your Brain ASAP" },
+    { "id": "3bEkaRUVOeU", "title": "Flutter Bloc EASY Tutorial" },
+    { "id": "rmhp2PSuxv0", "title": "Flutter / Django / Python - Full Stack Project" },
+    { "id": "8oIsZEhnqtA", "title": "Flutter Tips to 10x Your Speed" },
+    { "id": "eLpMfevS1hY", "title": "Simple Shimmer Loading - Flutter" },
     { "id": "yiINjg-cwto", "title": "Flutter Riverpod - But It's Simple" },
     { "id": "7Cp1GlmHTGE", "title": "Flutter Riverpod EASY Tutorial" },
     { "id": "cbA2HY1xV0w", "title": "Simplified Switch Statement" },

@@ -7,7 +7,13 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
-## [v0.14.0 2024-12-15][v0.14.0]
+## [v0.14.1 2024-12-16][v0.14.1]
+
+- 내용채워넣기
+
+---
+
+## [v0.14.0 2024-12-10][v0.14.0]
 
 - 내용채워넣기
 
@@ -81,3 +87,4 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 [v0.13.14]: https://github.com/chanhi2000/articles/compare/v0.13.13...v0.13.14
 [v0.13.15]: https://github.com/chanhi2000/articles/compare/v0.13.14...v0.13.15
 [v0.14.0]: https://github.com/chanhi2000/articles/compare/v0.13.15...v0.14.0
+[v0.14.1]: https://github.com/chanhi2000/articles/compare/v0.14.0...v0.14.1

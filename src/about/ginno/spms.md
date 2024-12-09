@@ -50,17 +50,11 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ::: info 긴급보수 현장지원 앱 서비스 관리 (Daum 맵 위치정보 기반 멀티플랫폼 프로젝트)
 
-[![(2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역<br/><출처: 서울특별시 pave.eseoul.go.kr>](/images/about/ginno/spms/spms-jumbo.jpg =250x)](https://pave.eseoul.go.kr/)
-
-[![iOS 설치파일 다운르도](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][ios-download]
-
-[![Android 설치파일 다운로드](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][aos-download]
+[![(2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역<br/><출처: 서울특별시 pave.eseoul.go.kr><br/>[![](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][ios-download] [![](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][aos-download]](/images/about/ginno/spms/spms-jumbo.jpg =250x)](https://pave.eseoul.go.kr/)
 
 사용 스택: <ShieldsGroup logos="openjdk,swift,kotlin,oracle,eclipseide,postman,intellijidea,apple,xcode,cocoapods,spring,gradle,apachemaven,android,androidstudio,git,gitea"/>
 
 :::
-
-
 
 ::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
@@ -94,15 +88,16 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ### <FontIcon icon="fa-brands fa-android"/> Android
 
-![Android:1](/images/about/ginno/spms/after-aos-1.webp =x270)
-![Android:2](/images/about/ginno/spms/after-aos-2.webp =x270)
-![Android:3](/images/about/ginno/spms/after-aos-3.webp =x270)
-![Android:4](/images/about/ginno/spms/after-aos-4.webp =x270)
-
-![Android:5](/images/about/ginno/spms/after-aos-5.webp =x270)
-![Android:6](/images/about/ginno/spms/after-aos-6.webp =x270)
-![Android:7](/images/about/ginno/spms/after-aos-7.webp =x270)
-![Android:8](/images/about/ginno/spms/after-aos-8.webp =x270)
+<ImageGallery paths="
+  /images/about/ginno/spms/after-aos-1.webp
+  /images/about/ginno/spms/after-aos-2.webp
+  /images/about/ginno/spms/after-aos-3.webp
+  /images/about/ginno/spms/after-aos-4.webp
+  /images/about/ginno/spms/after-aos-5.webp
+  /images/about/ginno/spms/after-aos-6.webp
+  /images/about/ginno/spms/after-aos-7.webp
+  /images/about/ginno/spms/after-aos-8.webp
+" isOneRow="true"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -117,15 +112,16 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ### <FontIcon icon="iconfont icon-ios"/> iOS
 
-![iOS:1](/images/about/ginno/spms/after-ios-1.webp =x270)
-![iOS:2](/images/about/ginno/spms/after-ios-2.webp =x270)
-![iOS:3](/images/about/ginno/spms/after-ios-3.webp =x270)
-![iOS:4](/images/about/ginno/spms/after-ios-4.webp =x270)
-
-![iOS:5](/images/about/ginno/spms/after-ios-5.webp =x270)
-![iOS:6](/images/about/ginno/spms/after-ios-6.webp =x270)
-![iOS:7](/images/about/ginno/spms/after-ios-7.webp =x270)
-![iOS:8](/images/about/ginno/spms/after-ios-8.webp =x270)
+<ImageGallery paths="
+  /images/about/ginno/spms/after-ios-1.webp
+  /images/about/ginno/spms/after-ios-2.webp
+  /images/about/ginno/spms/after-ios-3.webp
+  /images/about/ginno/spms/after-ios-4.webp
+  /images/about/ginno/spms/after-ios-5.webp
+  /images/about/ginno/spms/after-ios-6.webp
+  /images/about/ginno/spms/after-ios-7.webp
+  /images/about/ginno/spms/after-ios-8.webp
+" isOneRow="true"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -184,21 +180,18 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ::: details <FontIcon icon="fas fa-images"/> 개선 전 (Before)
 
-![1](/images/about/ginno/spms/before-1.png =x270)
-![2](/images/about/ginno/spms/before-2.png =x270)
-![3](/images/about/ginno/spms/before-3.png =x270)
-![4](/images/about/ginno/spms/before-4.png =x270)
-
-![5](/images/about/ginno/spms/before-5.png =x270)
-![6](/images/about/ginno/spms/before-6.png =x270)
-![7](/images/about/ginno/spms/before-7.png =x270)
-![8](/images/about/ginno/spms/before-8.png =x270)
+<ImageGallery paths="
+  /images/about/ginno/spms/before-1.png
+  /images/about/ginno/spms/before-2.png
+  /images/about/ginno/spms/before-3.png
+  /images/about/ginno/spms/before-4.png
+  /images/about/ginno/spms/before-5.png
+  /images/about/ginno/spms/before-6.png
+  /images/about/ginno/spms/before-7.png
+  /images/about/ginno/spms/before-8.png
+"/>
 
 :::
-
----
-
-<TagLinks />
 
 [ios-download]: https://pavepot.eseoul.go.kr:8443/ios.do
 [aos-download]: http://115.84.164.38:8080/apk/SPMS.apk

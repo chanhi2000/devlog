@@ -35,6 +35,13 @@ export const sidebarEn = sidebar({
             '/about/ginno/safecity.md',
             '/about/ginno/ndms.md',
           ]
+        }, {
+          text: '개인 활동',
+          collapsible: true,
+          icon: 'fas fa-person-hiking',
+          children: [
+            '/about/personal/README.md',
+          ]
         }
       ]
     }
@@ -3647,11 +3654,6 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fas fa-flag-checkered',
       children: [ '/projects/roadmap/README.md' ],
-    }, {
-      text: 'Portfolio',
-      collapsible: true,
-      icon: 'fa-brands fa-fort-awesome',
-      children: [ '/projects/portfolio/README.md', ],
     }, {
       text: 'Lifeguide',
       collapsible: true,

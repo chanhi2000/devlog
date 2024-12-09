@@ -66,16 +66,13 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
 
 ### <FontIcon icon="fa-brands fa-android"/> Android
 
-![Android:1](/images/about/ginno/ndms/ndms-aos-1.webp =x270)
-![Android:2](/images/about/ginno/ndms/ndms-aos-2.webp =x270)
-![Android:3](/images/about/ginno/ndms/ndms-aos-3.webp =x270)
-![Android:4](/images/about/ginno/ndms/ndms-aos-4.webp =x270)
-
-![Android:5](/images/about/ginno/ndms/ndms-aos-5.webp =x270)
-![Android:6](/images/about/ginno/ndms/ndms-aos-6.webp =x270)
-![Android:7](/images/about/ginno/ndms/ndms-aos-7.webp =x270)
-![Android:8](/images/about/ginno/ndms/ndms-aos-8.webp =x270)
-
----
-
-<TagLinks />
+<ImageGallery paths="
+  /images/about/ginno/ndms/ndms-aos-1.webp
+  /images/about/ginno/ndms/ndms-aos-2.webp
+  /images/about/ginno/ndms/ndms-aos-3.webp
+  /images/about/ginno/ndms/ndms-aos-4.webp
+  /images/about/ginno/ndms/ndms-aos-5.webp
+  /images/about/ginno/ndms/ndms-aos-6.webp
+  /images/about/ginno/ndms/ndms-aos-7.webp
+  /images/about/ginno/ndms/ndms-aos-8.webp
+" isOneRow="true"/>

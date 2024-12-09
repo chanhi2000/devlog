@@ -27,18 +27,16 @@ Possible variables are: `$1`, `$2` for tab stops, `$0` for the final cursor posi
 
 Placeholders with the same ids are connected.
 
-::: info <FontIcon icon="fas fa-folder-open"/>저장위치
+### <FontIcon icon="fas fa-folder-open"/>저장위치
 
-- .<FontIcon icon="fa-brands fa-windows"/>Windows: `%APPDATA%\Code\User\snippets`
-- .<FontIcon icon="fa-brands fa-apple"/>Mac: `~/Application Support/Code/User/snippets`
+- <FontIcon icon="fa-brands fa-windows"/>`%APPDATA%\Code\User\snippets`
+- <FontIcon icon="fa-brands fa-apple"/>`~/Application Support/Code/User/snippets`
 
-:::
+::: tabs
 
-## Vuepress Components
+@tab:active <FontIcon icon="iconfont icon-json"/>`markdown.json`
 
-### <FontIcon icon="iconfont icon-json"/>`markdown.json`
-
-```json
+```json :collapsed-lines title="markdown.json"
 {
   "UrlGithubRepo": {
     "prefix": "urlghr",
@@ -189,6 +187,15 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create CodePen Vue Componenet"
   },
+  "VuepressImageGallery": {
+    "prefix": "vig",
+    "body": [
+      "<ImageGallery paths=\"",
+      "  ${1:paths}",
+      "\"/>${0}",
+    ],
+    "description": "Create ImageGallery Vue Component"
+  },
   "MdTdDoArticles": {
     "prefix": "mtda",
     "body": [
@@ -206,9 +213,9 @@ Placeholders with the same ids are connected.
 }
 ```
 
-### <FontIcon icon="iconfont icon-json"/>`json.json`
+@tab <FontIcon icon="iconfont icon-json"/>`json.json`
 
-```json
+```json: collapwd-lines title="json.json"
 {
   "jsonGhItem": {
     "prefix": "ghItem",
@@ -241,6 +248,8 @@ Placeholders with the same ids are connected.
   }
 }
 ```
+
+:::
 
 ---
 

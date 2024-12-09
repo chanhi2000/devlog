@@ -4,9 +4,12 @@ title: Kotlin Snippets
 description: Android > Kotlin Snippets
 icon: iconfont icon-kotlin
 category:
+  - Java
   - Android 
   - Kotlin Snippets
-tag: 
+tag:
+  - java
+  - kotlin
   - kt
   - kts
   - android
@@ -22,9 +25,9 @@ tag:
 
 ---
 
-## String
+## `String`
 
-```kotlin
+```kotlin :collapsed-lines title="StringExt.kt"
 import android.util.Patterns
 
 /**
@@ -42,9 +45,9 @@ fun String.isValidEmail(): Boolean {
 
 ---
 
-## Context
+## `Context`
 
-```kotlin
+```kotlin :collapsed-lines title="ContextExt.kt"
 /**
  * [Context.copyToClipboard]
  * Copy Text to ClipBoard
@@ -90,13 +93,11 @@ fun Context.vibrate(duration:Int = 150) {
 }
 ```
 
-
-
 ---
 
-## View
+## `View`
 
-```kotlin
+```kotlin :collapsed-lines title="ViewExt.kt"
 /**
  * [View.showKeyboard()]
  * Show Keyboard
@@ -123,9 +124,9 @@ fun View.hideKeyboard() {
 
 ## Misc
 
-::: details Declare a Matrix - 2D Array
+### Declare a Matrix - 2D Array
 
-```kotlin
+```kotlin :collapsed-lines title="Declare a Matrix - 2D Array"
 inline fun <reified T> matrix(height: Int, width: Int, initialize: () -> T) =
     Array(height) {
         Array(width) { initialize() }
@@ -147,11 +148,9 @@ board.forEach { row ->
 // 0 0 0 0 0 |
 ```
 
-:::
+### Sort `hashMap` by value
 
-::: details Sort hashmap by value
-
-```kotlin
+```kotlin :collapsed-lines title="Sort hashMap by value"
 val weights: hashMapOf("Foo" to 68, "Bar" to 30, "Baz" to 10)
 
 // Ascending order
@@ -162,8 +161,6 @@ val sortedWeightsAsc
 val sortedWeightsDesc 
     = weights.toList().sortedByDescending { (k,v) -> v }
 ```
-
-:::
 
 ---
 

@@ -4,7 +4,8 @@ title: Youtube
 description: Android > Youtube
 icon: fa-brands fa-youtube
 category:
-  - Android 
+  - Java
+  - Android
   - Youtube
 tag: 
   - "education"

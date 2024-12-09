@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "Cyb3rMaddy",
+    "name": "Cyb3rMaddy",
+    "profile": "https://yt3.googleusercontent.com/Jl6x0mk_4tr_FQEjscBvcvZiIMriL6mBw8U8Tj4KrIPjPDaTXCY3A68OEUrw_oQoQzu32kT4YA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ir-ChAvRaGKDzmuaanmg19zk988qwRNKD0MQl8LfsccVkGG2cg7We_fzZP_7r078IjCzGu2X=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SijS4zHtwio", "title": "HACKERS Can Exploit Teams | convoC2" },
+    { "id": "dhVAFj8vk0Y", "title": "HACKERS Can Get ACCESS to Your Computer?? | RAT" },
+    { "id": "xIrlwCQu3EE", "title": "Exploring Phishing with Atomic Red Team | THM Advent of Cyber Day 4" },
+    { "id": "ipucWZwCSfE", "title": "How HACKERS Send Malware | DNS Spoofing" },
+    { "id": "WX1lNat7rXQ", "title": "How HACKERS Login to ANY Website | THM Cyber Security 101" },
+    { "id": "izkldKQsfT4", "title": "Malware Analysis Toolkits | THM Cyber Security 101" },
+    { "id": "eu5Mi5pxKEA", "title": "Cracking PASSWORD Hashes with Linux Tools | THM Cybersecurity 101" },
+    { "id": "PoM9U-S7lHM", "title": "Put Hidden Messages in Pictures" },
+    { "id": "XuyzvX4ZdKw", "title": "BEST Way to Learn Cybersecurity for Beginners" },
+    { "id": "VTT7s1_mJ7s", "title": "Nmap Basics for HACKERS" },
+    { "id": "ixX8xJCQWoI", "title": "Hacking with a CAPTCHA | Reverse Shell" },
+    { "id": "Ucwy0QpsEPw", "title": "Find Every Exploit EVER" },
+    { "id": "A_a7isDESCg", "title": "Brutally Honest Cybersecurity Q&A While Destroying Crumbl Cookies" },
+    { "id": "8yCKywPuCro", "title": "Hacking Hotel Locks | Vlog" },
+    { "id": "fIpjv168png", "title": "Get Started with Capture the Flags | OverTheWire" },
+    { "id": "-uU2q--QMoI", "title": "When Hackers Are in Your Network..." },
+    { "id": "B3zm96GsEZs", "title": "Hackers Can Get Full Access to Your Computer | Metasploit" },
+    { "id": "PpNWl01ARhE", "title": "The Most Insane Linux Distributions" },
+    { "id": "3JExlyA_iAs", "title": "Linux Commands for Beginners" },
+    { "id": "iiHAJc6AkxQ", "title": "Get Started Hacking | Linux" },
+    { "id": "m9c_S2D2Z_A", "title": "Hackers Can Find Out Everything About You | OSINT" },
+    { "id": "7RV8pjcThSA", "title": "Run Linux on Windows | WSL" },
+    { "id": "hEyA6Rsmotk", "title": "Pass AZ-900 in a Weekend | Azure Fundamentals Certification" },
+    { "id": "reM5M3gx0Yc", "title": "Crowdstrike Broke the Internet | The New Y2K" },
+    { "id": "wpSHcKIqyZQ", "title": "Network+ Essential Study Tips" }
+  ],
+  "playlists": [
+
+  ]
+}

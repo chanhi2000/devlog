@@ -29,7 +29,9 @@
     class="hint-container details">
     <summary>목록 (총 {{ videos.length  }} 개)</summary>
     <div class="container">
-      <YouTubeItem v-for="(v, vi) in videos" :key="vi"
+      <YouTubeItem v-for="(v, vi) in videos" 
+        class="yt-item"
+        :key="vi"
         v-bind:channelName="channel.name"
         v-bind:channelId="channel.id" 
         v-bind:id="v.id"
@@ -108,10 +110,13 @@
   list-style: none;
 }
 .container { 
-  width:100%;height:100%; 
   display:grid;
-  grid-template-columns: var(--yt-max-width);
-  grid-template-rows: var(--yt-max-height);
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  overflow:hidden;
+}
+.container > .yt-item  {
+  max-width: 100%;
 }
 .banner-visible-area.ytd-c4-tabbed-header-renderer {
   height: calc(60vw/6.2 - 1px);

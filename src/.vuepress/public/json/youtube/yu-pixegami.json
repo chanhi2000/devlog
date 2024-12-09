@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/7yFzWdOH5bJOh8eN4X9RU06i8iX9bH221STvFU1IMe5Q_S8-rCJ5heOtVR5AyhDoyqXeKZDd4GM=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lkHkYCkOKcs", "title": "How To Build an AI Agent That Can Use Tools | Python + Claude  3.5 Sonnet" },
+    { "id": "8p0ktpjIrlI", "title": "How Good is Cursor AI? Pros and Cons with Real Examples" },
+    { "id": "ldFONBo2CR0", "title": "Deploy your RAG/AI App to AWS Cloud • Step-by-Step Tutorial" },
+    { "id": "Qv76nwibh-4", "title": "How To Build a Web UI for your AI App (Clean & Functional)" },
+    { "id": "W68VEFHCsLc", "title": "Claude 3.5 API in Python • Explore AWESOME Use Cases!" },
     { "id": "xSDBGfFRCiU", "title": "Using Python and AI to Automate My Video Editing Process" },
     { "id": "SZNRkGqaYTI", "title": "Ollama: Run LLMs Locally On Your Computer (Fast and Easy)" },
     { "id": "2TJxpyO3ei4", "title": "Python RAG Tutorial (with Local LLMs): AI For Your PDFs" },

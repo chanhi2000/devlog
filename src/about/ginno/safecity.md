@@ -58,11 +58,7 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ::: info 서울안전 앱 서비스 관리 (Naver 맵 위치정보 기반 웹/모바일 하이브리드 플랫폼)
 
-[![(2019-2020) 서울 스마트재난 시스템 유지보수 용역유지보수 용역<br/><출처: 서울특별시 safecity.seoul.go.kr>](/images/about/ginno/safecity/safecity-banner.webp =700x)](https://safecity.seoul.go.kr/)
-
-[![App Store에서 서울안전 iOS 설치](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][ios-download]
-  
-[![Google Play에서 서울안전 Android](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][aos-download]
+[![(2019-2020) 서울 스마트재난 시스템 유지보수 용역유지보수 용역<br/><출처: 서울특별시 safecity.seoul.go.kr><br/>[![](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][ios-download] [![](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][aos-download]](/images/about/ginno/safecity/safecity-banner.webp =700x)](https://safecity.seoul.go.kr/)
 
 사용 스택: <ShieldsGroup logos="openjdk,swift,oracle,intellijidea,apple,xcode,spring,apachemaven,gradle,android,androidstudio,git,gitea,nodedotjs,apachecordova,verdaccio,docker,windows,jenkins"/>
 
@@ -92,15 +88,16 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ### <FontIcon icon="iconfont icon-apachecordova"/> Cordova (<FontIcon icon="iconfont icon-ios"/>iOS/<FontIcon icon="fa-brands fa-android"/>Android)
 
-![mobile:1](/images/about/ginno/safecity/safecity-m-1.webp =x270)
-![mobile:2](/images/about/ginno/safecity/safecity-m-2.webp =x270)
-![mobile:3](/images/about/ginno/safecity/safecity-m-3.webp =x270)
-![mobile:4](/images/about/ginno/safecity/safecity-m-4.webp =x270)
-
-![mobile:5](/images/about/ginno/safecity/safecity-m-5.webp =x270)
-![mobile:6](/images/about/ginno/safecity/safecity-m-6.webp =x270)
-![mobile:7](/images/about/ginno/safecity/safecity-m-7.webp =x270)
-![mobile:8](/images/about/ginno/safecity/safecity-m-8.webp =x270)
+<ImageGallery paths="
+  /images/about/ginno/safecity/safecity-m-1.webp
+  /images/about/ginno/safecity/safecity-m-2.webp
+  /images/about/ginno/safecity/safecity-m-3.webp
+  /images/about/ginno/safecity/safecity-m-4.webp
+  /images/about/ginno/safecity/safecity-m-5.webp
+  /images/about/ginno/safecity/safecity-m-6.webp
+  /images/about/ginno/safecity/safecity-m-7.webp
+  /images/about/ginno/safecity/safecity-m-8.webp
+" isOneRow="true"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -117,11 +114,13 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ## 백앤드
 
-![Web:1](/images/about/ginno/safecity/safecity-w-1.webp =x270)
-![Web:2](/images/about/ginno/safecity/safecity-w-2.webp =x270)  
-![Web:3](/images/about/ginno/safecity/safecity-w-3.webp =x270)
-![Web:4](/images/about/ginno/safecity/safecity-w-4.webp =x270)
-![iOS:5](/images/about/ginno/safecity/safecity-w-5.webp =x270)
+<ImageGallery paths="
+  /images/about/ginno/safecity/safecity-w-1.webp
+  /images/about/ginno/safecity/safecity-w-2.webp
+  /images/about/ginno/safecity/safecity-w-3.webp
+  /images/about/ginno/safecity/safecity-w-4.webp
+  /images/about/ginno/safecity/safecity-w-5.webp
+" isOneRow="true"/>
 
 ### <FontIcon icon="iconfont icon-spring"/> Spring (JSP 웹)
 
@@ -157,10 +156,6 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 - **<FontIcon icon="fa-brands fa-jenkins"/>Jenkins**: Git Webhook을 이용하여 서버 자동배포 및 관리
 - **Sonatype Nexus**: maven repository에 공개되지 않은 jar파일 관리
   - 사내 솔루션
-
----
-
-<TagLinks />
 
 [^1]: Docker를 활용하여 사내 node package registry 관리 서버 최초 구성
 

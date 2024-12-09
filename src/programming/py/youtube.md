@@ -105,7 +105,7 @@ head:
 <MyYouTubeItems jsonName="yu-DavesSpace" /><!-- Dave's Space -->
 <MyYouTubeItems jsonName="yu-umarjamilai" /><!-- Umar Jamil -->
 <MyYouTubeItems jsonName="yu-GregHogg" /><!-- Greg Hogg -->
-<MyYouTubeItems jsonName="yu-user-lu1tr6kr5f" /><!-- 나는 황쌤이다 -->
+<MyYouTubeItems jsonName="yu-나는황쌤이다" /><!-- 나는 황쌤이다 -->
 <MyYouTubeItems jsonName="yu-kukjinman" /><!-- SW비전공자 국진맨 -->
 <MyYouTubeItems jsonName="yu-logandihel" /><!-- Logan Dihel -->
 <MyYouTubeItems jsonName="yu-swithgenie" /><!-- 스윗지니 -->

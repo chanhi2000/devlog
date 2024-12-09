@@ -2,8 +2,8 @@
   "channel": {
     "id": "trustinlee",
     "name": "Trustin Lee",
-    "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqM9gwr_NpNs369zbHRyt3zdOqynj_-x_g-va1XYWg=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/GeJQsfYruMQScd0llHWfPQIVk0WhA2BNau_fLzzwRgHQou-3FMRdJFaP7f-YMFqD2rr8oFEV=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kfE0q6TO9vIDBfOOVhiADmC29dEM_djpPihfRNa5D1o2M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IejZ8LPVB96PLK1XEs9Qt4bEQcvD3EmsVrdEGMz6Tj_MARvXbbXV3aPriek-MRqCmNhlai4g=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "PHL9EjkGBwM", "title": "51: GitHub Actions Self-hosted Runner를 위한 auto-scaler를 디자인하자" },

@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "YourAverageTechBro",
+    "name": "Your Average Tech Bro",
+    "profile": "https://yt3.googleusercontent.com/-5pyvUOmvkobQLYDV39VhjNU4Fp4Z178V3_pHuxrokzwinC-CFo1omaY7Ra5-A_N7gLynPS3=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8-YwZGZAS8I", "title": "Why You Shouldn't Quit Your Day Job To Build A Startup" },
+    { "id": "5bd5DKNVk5k", "title": "8 Minute Cursor IDE Beginner Tutorial (2024)" },
+    { "id": "wPIWHXzvy_Y", "title": "Building A Web App VS Building A Mobile App —&nbsp;Which One Is Better?" },
+    { "id": "0aESinbSSbA", "title": "My Cross Platform SaaS Tech Stack (iOS, Android, Web)" },
+    { "id": "jTjnQU5HI_8", "title": "Coding Isn't Enough To Build A SaaS Product Anymore" },
+    { "id": "eUsEc92bJ0I", "title": "I Built + Launched My First Mobile App In 2 Weeks With AI" },
+    { "id": "glEIACnAB70", "title": "My Mac Coding Setup (Full Stack Web Dev + Mobile App Dev)" },
+    { "id": "aChCqlgbUoo", "title": "I spent 3 months building a SaaS no one wants lol" },
+    { "id": "29yPtJBqHNU", "title": "My Favorite Tools + Gear As A Software Engineer (Mid-2024 Edition)" },
+    { "id": "7yovQmZTi-M", "title": "I Built 9 SaaS Apps Over 3 Years — Here's What I Learned From Each One" },
+    { "id": "u3wPImWBz7c", "title": "I Finally Tried The AI-Powered VS Code Killer | Cursor IDE Review" },
+    { "id": "xuWcizPO8uU", "title": "Why Cursor Is The Best AI Code Editor #softwareengineer #coding #developer #ai #programming" },
+    { "id": "7_c1aT7gpEs", "title": "I Built The Ultimate SaaS Marketing Tool — Here's How I Did It" },
+    { "id": "BOl2uToywns", "title": "I Stopped Using Google Analytics For My SaaS — And Why You Should Too" }
+  ],
+  "playlists": [
+
+  ]
+}

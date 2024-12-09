@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/-3tMeweZ3ShV7zeRCgTjzY_3wJt_oFljiLII2oHs_5yVK-ui_-_pe6e21AZMT1eWJDvDK5K52Cw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AtKuCwZ0nUI", "title": "Secure Your ASP.NET Apps with JSON Web Tokens in C# - Step-by-Step Guide!" },
+    { "id": "2CDYjjgVhsI", "title": "Publish .NET Apps as a Single File To Windows, Linux and Mac!" },
+    { "id": "HuAEgGeaqeI", "title": "Use ChatGPT in your C# app!" },
+    { "id": "b1_Qxw71xNg", "title": "Introduction to Reflection - C# .NET Tutorial" },
+    { "id": "OmJcPonUkJY", "title": "Minimal API Mastery: Boost Your ASP.NET Minimal APIs with Data Annotations for Model Validation!" },
+    { "id": "Mof17NZzQY4", "title": "How To Make A .NET Worker Services App (Fast)" },
+    { "id": "9-W42WThr4o", "title": "The Start of My Exciting Self-Hosted Journey" },
     { "id": "TAGoid4u6PY", "title": "Mastering TCPListener in C#: Building Network Applications from Scratch" },
     { "id": "AuKKFVSMxJc", "title": "Easy Guide to Creating Minimal APIs in ASP.NET" },
     { "id": "4ZfFI4zV1Wc", "title": "Easy C# Tutorial - Understand Attributes and Write your Own!" }

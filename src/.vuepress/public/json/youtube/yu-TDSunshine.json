@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "TDSunshine",
+    "name": "TD Sunshine",
+    "profile": "https://yt3.googleusercontent.com/IF1hgYJGUXw_VkxVgrg6AyO2dVWUQRdF_2SrAPAFBlExD3cCIVKCbg52ltacOrdHWIj-1AjKzw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GaDV4fVwNYLEIrLPavjiIOS_nYcd2dItepaoEJi8-goUmCl704o0Xl3k1ufQYdcj96ZXysLuGw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G1WXK1OrcYk", "title": "Prototype with Variables in Figma | Tips for variable prototyping with four kinds of variables" },
+    { "id": "EwxcJ_BjjxI", "title": "Figma new rotating duplication tricks | Figma update! #shorts" },
+    { "id": "eZ2aw5I7-r8", "title": "Reusable E-Commerce store using set variable mode | Figma variables 2024" },
+    { "id": "HUyL7JTObdA", "title": "Design System Typography variables in Figma | Figma 2024" },
+    { "id": "4-tKgDds4YI", "title": "Procreate 101 (2024) | Procreate beginner tutorial" },
+    { "id": "Be8tRsZUC_M", "title": "Figma on Apple Vision Pro | Apple Vision Pro Design Tools Overview 2024 | Figma in VR" },
+    { "id": "dyo3K--3XNw", "title": "Procreate top tips (2024) | Tips and Tricks for Procreate on iPad" },
+    { "id": "uvc0l4uZ07U", "title": "FIGMA SLIDES ! Config 2024 Figma update | New Figma feature Figma slides" },
+    { "id": "r966BWVccJ4", "title": "Figma Autolayout update CONFIG 2024 | Figma updates Auto Layout | Config 2024" },
+    { "id": "ggZP7k5piD4", "title": "Figma AI Full Overview | Config 2024 limited beta release | Figma updates 2024" },
+    { "id": "d0uFJA5OjBo", "title": "Figma RESPONSIVE DESIGN using Variables, Layout grids and Auto Layout | Figma 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

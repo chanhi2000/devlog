@@ -40,7 +40,7 @@ Proguard 룰은 필요한것과 불필요한것을 분리 할수 있습니다. �
 | `-keepclassmembers` | 특정 클래스 멤버 원상태 유지 |
 | `-keepattributes` | 내부 클래스 원상태 유지 적용
 
-### 예제 
+### 예제
 
 ```proguard
 -keep class org.xmlpull.v1.** { *; }

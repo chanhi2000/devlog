@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "<span class=\"yt-core-attributed-string--link-inherit-color\" dir=\"auto\" style=\"font-weight: 500; color: rgb(255, 255, 255);\">FUTOTECH</span>",
+    "name": "FUTO",
+    "profile": "https://yt3.googleusercontent.com/cd2dNr2E5lgESh0DH6KUA8RNMFgSNtyvDvWfHJV6TX8XWa6HcGArkaMfintJvGlXq7zNxugczA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J1_3FXpyDK1bWH2VehEt57-sdTaCSJWguZSkWXy0M4Su5BfhbqZOD5j0uowqrCnWSiaukjcJ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NMUwr_thyZs", "title": "Announcing our November Microgrant Recipients - Busybox, CryptPad, libvips, and ImHex!" },
+    { "id": "bbHAVGukMBw", "title": "Introducing FUTO ID - A New Way To Verify Yourself Online" },
+    { "id": "xPl6MVjllxY", "title": "Our October Microgrant Recipients! Coreboot, Exiftool-Vendored, Mr. Chromebox, and Wireshark" },
+    { "id": "wVlY_knNnUU", "title": "FUTO Keyboard: Help Us Improve Our Swipe Dataset!" },
+    { "id": "KsskOzkai54", "title": "A Look Inside FUTO Keyboard's Swipe Feature" },
+    { "id": "eI5jtlt_q90", "title": "Revisiting Our First Computer - The Apple ii" },
+    { "id": "4xhaAAcKLtI", "title": "Eron Wolf Interviews Andreas Kling About the Ladybird Browser" },
+    { "id": "_RowDLJ17W0", "title": "Ghost Keys and Cypherpunk Reputation Systems w/ Ian Clarke of Freenet" },
+    { "id": "IZEersqSLLE", "title": "Our August Microgrants Recipients! Suckless, Whonix, Imgui, and Nest" },
+    { "id": "2VWq3cX_4Wg", "title": "Allum Bokhari Explains What Harbor is and How it Works" },
+    { "id": "-Yqd1jUkl38", "title": "Charles Wright Presents Circles - An Encrypted Photo Sharing and Social Media App" },
+    { "id": "5PvN07LSeUg", "title": "Harpo Roeder Breaks Down FUTO's Polycentric Protocol" },
+    { "id": "QUH2XGr-B0I", "title": "Harpo Roeder Breaks Down FUTO's Polycentric Protocol" },
+    { "id": "p6k9qcRpW_k", "title": "Announcing our $200k Grant to the Ladybird Browser!" },
+    { "id": "YdwG6SHeZEA", "title": "Introducing Purchase Options for Immich" },
+    { "id": "o4k5W3X5veQ", "title": "Our July Microgrants Recipients! Hyprland, Wine, Exiftool, and Garage" }
+  ],
+  "playlists": [
+
+  ]
+}

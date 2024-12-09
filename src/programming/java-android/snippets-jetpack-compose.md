@@ -2,18 +2,21 @@
 lang: ko-KR
 title: Jetpack Compose Snippets
 description: Android > Jetpack Compose Snippets
-icon: fas fa-compass-drafting
-category: 
-  - Android 
+icon: iconfont icon-jetpack-compose
+category:
+  - Java
+  - Android
   - Jetpack Compose
-tag: 
+tag:
+  - java
+  - kotlin
   - kt
-  - kts
   - android
   - android-studio
   - idea
-  - intellij-idea
   - intellij
+  - intellij-idea
+  - jetpack-compose
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -24,11 +27,16 @@ tag:
 
 ## Selectable Component
 
-[<FontIcon icon="iconfont icon-github"/>andariadarcode/JetpackComposeColorPicker](andariadarcode/JetpackComposeColorPicker)
+::: info Selectable Component
 
-### `MainActivity.kt`
+<SiteInfo
+  name="andariadarcode/JetpackComposeColorPicker"
+  desc="Contribute to andariadarcode/JetpackComposeColorPicker development by creating an account on GitHub."
+  url="https://github.com/andariadarcode/JetpackComposeColorPicker/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://opengraph.githubassets.com/8dd1920c1980d83901d38079fbfd3d871f99365a1f4d0fb422f8a344fd5d2755/andariadarcode/JetpackComposeColorPicker"/>
 
-```kotlin
+```kotlin :collapsed-lines title="MainActivity.kt"
 class MainActivity: ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -84,6 +92,8 @@ fun ColorPicker() {
     }
 }
 ```
+
+:::
 
 ---
 

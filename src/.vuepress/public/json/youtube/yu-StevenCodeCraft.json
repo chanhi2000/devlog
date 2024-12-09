@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "StevenCodeCraft",
+    "name": "StevenCodeCraft",
+    "profile": "https://yt3.googleusercontent.com/Z2vfvVROZSKqRAbecaKLKGPxuHqqYVgtX7nCKfZGlQrzq0rvJjxbzJBn6dwmWvIUKGR8Z6fvyQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mtqVFsnsg9Y_B2I3kjCg4bcDFwNR4OJiMWp9tuTShKcSlKEmugtQp19zlsQoobHVdEx5BLxwnQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_uCbVeN1WkM", "title": "🔴 Build a Meditation App in React Native (Expo Router) | Full Course" }
+  ],
+  "playlists": [
+
+  ]
+}

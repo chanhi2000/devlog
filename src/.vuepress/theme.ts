@@ -88,11 +88,6 @@ export default hopeTheme({
       }*/
      ]
     },
-    /*
-    revealjs: {
-      plugins: ["highlight", "math", "search", "notes", "zoom"],
-    },
-    */
     prismjs: {
       themes: {
         light: "material-light",
@@ -120,18 +115,12 @@ export default hopeTheme({
       align: true,
       attrs: true,
       chart: true,
-      // codetabs: true,
       component: true,
       demo: true,
       echarts: true,
-      // figure: true,
       flowchart: true,
       footnote: true,
-      // hint: true,
       include: true,
-      // imgLazyload: true,
-      // imgSize: true,
-      // katex: true,
       kotlinPlayground: true,
       mark: true,
       mermaid: true,
@@ -174,8 +163,11 @@ export default hopeTheme({
     search: {
       isSearchable: (page) => page.path !== '/',
     },
-    /*
+    photoSwipe: {},
+    
     pwa: {
+    /*
+      showInstall: true,
       favicon: imgLogoPath,
       cacheHTML: true,
       cacheImage: true,
@@ -227,8 +219,9 @@ export default hopeTheme({
           },
         ],
       },
+    */
     },
-    Command failed with EBADF: git --no-pager log --follow '--diff-filter=A' '--format=%at'
+    /*
     searchPro: {
       indexContent: true,
       locales: {

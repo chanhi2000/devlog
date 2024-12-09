@@ -4,11 +4,19 @@ title: Troubleshooting
 description: Android > Troubleshooting
 icon: fas fa-bug-slash
 category:
-  - Android 
+  - Java
+  - Android
   - Troubleshooting
-tag: 
+tag:
   - java
+  - kotlin
+  - kt
+  - kts
   - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
   - troubleshooting
 ---
 

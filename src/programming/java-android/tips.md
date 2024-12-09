@@ -4,11 +4,20 @@ title: Tips
 description: Android > Tips
 icon: fas fa-lightbulb
 category:
-  - Android 
+  - Java
+  - Android
   - Tips
-tag: 
-  - references
+tag:
+  - java
+  - kotlin
+  - kt
+  - kts
   - android
+  - android-studio
+  - idea
+  - intellij-idea
+  - intellij
+  - references
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -19,7 +28,7 @@ tag:
 
 ## Background Service Launch
 
-```kotlin
+```kotlin :collpased-lines title="GodActivity.kt"
 class GodActivity : AppCompatActivity {
 
     override fun onStart() {
@@ -62,7 +71,7 @@ class GodActivity : AppCompatActivity {
 
 ## Foreground Service
 
-```kotlin
+```kotlin :collpased-lines title="MyForeroundService.kt"
 class MyForeroundService: Service() {
 
     override fun onBind(p0: Intent?): IBinder? { return null }
@@ -115,19 +124,15 @@ class MyForeroundService: Service() {
 
 ![preferences-example-result](/images/android/preferences-example-result.jpg)
 
-::: details Preferences 
+::: details Preferences
 
-### `app/build.gradle`
-
-```groovy
+```groovy title="app/build.gradle"
 dependencies {
     implementation 'androidx.preference:preference:1.1.1'
 }
 ```
 
-### <FontIcon icon="fas fa-folder-open"/>`res/xml/`<FontIcon icon="iconfont icon-code"/>`preference.xml`
-
-```xml
+```xml :collapsed-lines title="app/src/main/res/xml/preference.xml"
 <PreferenceScreen
   xmlns:app="https://schemas.android.com/apk/res-auto">
 
@@ -145,9 +150,7 @@ dependencies {
 </PreferenceScreen>
 ```
 
-### `MySettingsFragment.kt`
-
-```kotlin
+```kotlin title="MySettingsFragment.kt"
 class MySettingsFragment : PreferenceFragmentCompat() {
     override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
         setPreferencesFromResource(R.xml.preferences, rootKey)
@@ -155,9 +158,7 @@ class MySettingsFragment : PreferenceFragmentCompat() {
 }
 ```
 
-### `MySettingsActivity.kt`
-
-```kotlin
+```kotlin title="MySettingsActivity.kt"
 class MySettingsActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -179,7 +180,7 @@ class MySettingsActivity: AppCompatActivity() {
 
 ::: details Crossfade Animation
 
-```kotlin
+```kotlin :collapsed-lines title="Crossfade Animation"
 fun crossfade(
     viewToShow: View,
     viewToHide: View
@@ -204,18 +205,13 @@ fun crossfade(
 
 ::: details How to Detect Shake
 
-### `build.gradle`
-
-```groovy
+```groovy title="app/build.gradle"
 dependencies {
     implementation "com.squareup:seismic:1.0.2"
 }
 ```
 
-### `MainActivity.kt`
-
-```kotlin
-
+```kotlin :collapsed-lines title="MainActivity.kt"
 class MainActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState);
@@ -242,7 +238,6 @@ class MainActivity: AppCompatActivity() {
 ```
 
 :::
-
 
 ---
 

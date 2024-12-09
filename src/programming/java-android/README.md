@@ -8,9 +8,6 @@ category:
   - Android
 tag:
   - java
-  - jdk
-  - jdk8
-  - jdk11
   - kotlin
   - kt
   - android

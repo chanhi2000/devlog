@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/kahlcuVFRHy3CgrXwN97fVscd3HC8rnCOXa-Us7ifu7utBIGVoDmsF-l85fsuVidr7Np-RLXKUA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BtMgRp2zJRY", "title": "인생이 그대를 힘들게 할 때. (수다 타임, 근황, 멘탈 관리)" },
+    { "id": "dXK94LwNdIQ", "title": "자동 테이블 생성 패키지 완벽 마스터 - GT 패키지 파헤치기" },
+    { "id": "o0Q1R34wXyA", "title": "데이터 분석가의 DB, Duck DB 실습하기" },
+    { "id": "ts3Q0B_OP94", "title": "데이터 분석가는 모르면 안되는 DB, Duck DB에 대하여 알아보자!" },
+    { "id": "GQ8qlxcxhu0", "title": "데이터 시각화 디자인을 할 때 알아두면 좋은 디자인 컨셉과 피해야 할 디자인 요소들 (파트2)" },
+    { "id": "g4CJgn7Dppw", "title": "파이썬 Pandas vs. Polars 데이터 분석 패키지 비교!" },
+    { "id": "qCReZKH2z9c", "title": "파이썬 Pandas vs. Polars 데이터 분석 패키지 비교! (파트 2)" },
+    { "id": "K-xmRY0Wbbk", "title": "데이터 시각화 디자인을 할 때 알아두면 좋은 디자인 컨셉과 피해야 할 디자인 요소들" },
     { "id": "QsSqsk6nMKY", "title": "tidyverse의 enframe() 함수의 유용성에 대하여" },
     { "id": "2ksrQZ69jXQ", "title": "[tidyverse 마스터 클래스 특강] 지도 시각화 기초" },
     { "id": "cc4sOxevctc", "title": "tidyverse 마스터클래스 - purrr 패키지를 통한 함수형 프로그래밍 이해" },

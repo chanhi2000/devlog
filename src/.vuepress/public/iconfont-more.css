@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_fxycel2logs.woff2?t=1733743842652') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_fxycel2logs.woff?t=1733743842652') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_fxycel2logs.ttf?t=1733743842652') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_fxycel2logs.svg?t=1733743842652#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.woff2?t=1733781781206') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.woff?t=1733781781206') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.ttf?t=1733781781206') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.svg?t=1733781781206#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-github-action:before { content: "\e988"; }
 .icon-expressjs:before { content: "\e987"; }
 .icon-jetpack-compose:before { content: "\e986"; }
 .icon-cypress:before { content: "\e985"; }

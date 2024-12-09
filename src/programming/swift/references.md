@@ -32,6 +32,10 @@ tag:
 - [Plotting a Path to a Package Ecosystem without Data Race Errors](https://www.swift.org/blog/ready-for-swift-6/)
 - [Announcing Swift Homomorphic Encryption](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/)
 - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+- [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://www.swift.org/blog/embedded-swift-examples)
+- [Writing GNOME Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
+- [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate)
+- [Swift Everywhere: Using Interoperability to Build on Windows](https://www.swift.org/blog/swift-everywhere-windows-interop)
 
 ### Forums
 

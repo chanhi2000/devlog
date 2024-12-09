@@ -87,11 +87,14 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ### <FontIcon icon="fa-brands fa-android"/>Android - 메인 문제지
 
-![mobile:1](/images/about/poole/poolemath/poolemath-m-1.webp =x200) ![mobile:2](/images/about/poole/poolemath/poolemath-m-2.webp =x200)
-
-![mobile:3](/images/about/poole/poolemath/poolemath-m-3.webp =x200) ![mobile:4](/images/about/poole/poolemath/poolemath-m-4.webp =x200)
-
-![mobile:5](/images/about/poole/poolemath/poolemath-m-5.webp =x200) ![mobile:6](/images/about/poole/poolemath/poolemath-m-6.webp =x200)
+<ImageGallery paths="
+  /images/about/poole/poolemath/poolemath-m-1.webp
+  /images/about/poole/poolemath/poolemath-m-2.webp
+  /images/about/poole/poolemath/poolemath-m-3.webp
+  /images/about/poole/poolemath/poolemath-m-4.webp
+  /images/about/poole/poolemath/poolemath-m-5.webp
+  /images/about/poole/poolemath/poolemath-m-6.webp
+"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -106,9 +109,12 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ### <FontIcon icon="fa-brands fa-android"/>Android - 수식입력기 (자사직원용)
 
-![mobile:1](/images/about/poole/poolemath/latex-m-1.webp =x125) ![mobile:2](/images/about/poole/poolemath/latex-m-2.webp =x125) ![mobile:3](/images/about/poole/poolemath/latex-m-3.webp =x125)
-
-![mobile:4](/images/about/poole/poolemath/latex-m-4.webp)
+<ImageGallery paths="
+  /images/about/poole/poolemath/latex-m-1.webp
+  /images/about/poole/poolemath/latex-m-2.webp
+  /images/about/poole/poolemath/latex-m-3.webp
+  /images/about/poole/poolemath/latex-m-4.webp
+" isOneRow="true"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -122,8 +128,11 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ### <FontIcon icon="fa-brands fa-android"/>Android - 어드민
 
-![mobile:1](/images/about/poole/poolemath/admin-m-1.webp =x200) ![mobile:2](/images/about/poole/poolemath/admin-m-2.webp =x200)
-![mobile:3](/images/about/poole/poolemath/admin-m-3.webp)
+<ImageGallery paths="
+  /images/about/poole/poolemath/admin-m-1.webp
+  /images/about/poole/poolemath/admin-m-2.webp
+  /images/about/poole/poolemath/admin-m-3.webp
+"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 

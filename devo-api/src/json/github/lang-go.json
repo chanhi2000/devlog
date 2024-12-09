@@ -1134,13 +1134,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "weaviate/weaviate",
-    "desc": "Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",
-    "officialSite": "https://weaviate.io/developers/weaviate",
-    "topics": ["approximate-nearest-neighbor-search", "generative-search", "graphql", "hnsw", "hybrid-search", "image-search", "information-retrieval", "mlops", "nearest-neighbor-search", "neural-search", "recommender-system", "search-engine", "semantic-search", "semantic-search-engine", "similarity-search", "vector-database", "vector-search", "vector-search-engine", "vectors", "weaviate"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "cvilsmeier/sqinn-go",
     "desc": "SQLite with pure Go",
     "officialSite": "",

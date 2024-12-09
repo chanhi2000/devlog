@@ -86,13 +86,13 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-## 앱북런처
+## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook-launcher.png =x24) 앱북런처
 
 ### <FontIcon icon="fa-brands fa-android"/>프론트 Android
 
-![앱 야아콘](/images/about/poole/smarthb/ico-appbook-launcher.png)
-
-![문제집 선택 화면](/images/about/poole/smarthb/appbook-launcher-m-1.webp)
+<ImageGallery paths="
+  /images/about/poole/smarthb/appbook-launcher-m-1.webp
+"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -107,7 +107,10 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ### <FontIcon icon="iconfont icon-expressjs"/>백엔드 Express.js
 
-![backend:1](/images/about/poole/smarthb/appbook-launcher-b-1.webp =x200) ![backend:2](/images/about/poole/smarthb/appbook-launcher-b-2.webp =x200)
+<ImageGallery paths="
+  /images/about/poole/smarthb/appbook-launcher-b-1.webp
+  /images/about/poole/smarthb/appbook-launcher-b-2.webp
+"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
@@ -122,17 +125,17 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ---
 
-## 앱북
+## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook.png =x24) 앱북
 
 ### <FontIcon icon="fa-brands fa-android"/>Android
 
-![앱 야아콘](/images/about/poole/smarthb/ico-appbook.png)
-
-![실제 문제집 풀이화면](/images/about/poole/smarthb/appbook-m-1.webp)
-
-![mobile:2](/images/about/poole/smarthb/appbook-m-2.webp =x200) ![mobile:3](/images/about/poole/smarthb/appbook-m-3.webp =x200)
-
-![mobile:4](/images/about/poole/smarthb/appbook-m-4.webp =x200) ![mobile:5](/images/about/poole/smarthb/appbook-m-5.webp =x200)
+<ImageGallery paths="
+  /images/about/poole/smarthb/appbook-m-1.webp
+  /images/about/poole/smarthb/appbook-m-2.webp
+  /images/about/poole/smarthb/appbook-m-3.webp
+  /images/about/poole/smarthb/appbook-m-4.webp
+  /images/about/poole/smarthb/appbook-m-5.webp
+"/>
 
 ::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 

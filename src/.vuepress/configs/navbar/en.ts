@@ -10,14 +10,22 @@ export const navbarEn = navbar([
         icon: 'fas fa-pen-nib',
         link: '/about/README.md',
       }, {
-        text: '지노시스템(주)',
+        text: '(2022-2024) 아이티정보기술(주)',
+        icon: '/images/about/ititinfo/logo.ico',
+        link: '/about/ititinfo/README.md',
+      }, {
+        text: '(2021-2022) 풀이러닝(주)',
+        icon: '/images/about/poole/logo.png',
+        link: '/about/poole/README.md',
+      }, {
+        text: '(2018-2021) 지노시스템(주)',
         icon: '/images/about/ginno/logo.jpeg',
         link: '/about/ginno/README.md',
       }, {
-        text: '풀이러닝(주)',
-        icon: '/images/about/poole/logo.png',
-        link: '/about/poole/README.md',
-      }
+        text: '개인 활동',
+        icon: 'fas fa-person-hiking',
+        link: '/about/personal/README.md',
+      }  
     ]
   }, {
     text: '', // Projects

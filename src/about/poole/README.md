@@ -65,6 +65,6 @@ cover: /images/about/poole/poolemath/banner.svg
   "desc": "(2021-2022) 앱북: 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동",
   "link": "/about/poole/smarthb.md",
   "logo": "/images/about/poole/smarthb/ico-appbook.png",
-  "background": "rgba(56,123,131,0.2)"
+  "background": "rgba(236,92,36,0.2)"
 }
 ```

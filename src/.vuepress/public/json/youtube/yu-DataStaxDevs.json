@@ -2,8 +2,8 @@
   "channel": {
     "id": "DataStaxDevs",
     "name": "DataStax Developers",
-    "profile": "https://yt3.googleusercontent.com/RFguKDvROjyRQMZu0mFG4RuHS2qtF52CLBTjJVh_X_fk-mdILnNG0p0CTH06wQikjZWYplzh7A=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/i2xlUZE0RlMBHaiScHK6g8tVtdNViARjEjW9GOg5hfO4Z5jpzW8ZR5yV8_gwYrBXAf77F5Uelw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/D70LM8HXHZlgmQpPILLm-2YzdPGKkposDr8mGidd9kK_zxzTOG_EM0XZkWn0CUUVuWj9FSs1=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qexZQUa1P3AY85GEt5iMiBOjyp_BsZU__uuXzQL86AF_9tB-yie6zWKbBumGjaLliAGco0h9Yg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
     { "id": "CINdfKa_FUE", "title": "Meet \"Fashion Buddy,\" a Generative AI App Built with DataStax Astra DB and Vertex AI" },

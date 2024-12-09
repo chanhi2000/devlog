@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/71AwzsBmWpjQR8PPhb8e8I0eF0qEgRAZDZuDkxXzUyGA8mQ-ZubpXQ0le1jquOFbuPe9-XgIkg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VFaIq7PTIyU", "title": "I finally switched from VSCode To Neovim" },
+    { "id": "XcETbtwpbi8", "title": "Build Full Stack Apps With This Remix Visual IDE" },
+    { "id": "2Q4-EgYS0u4", "title": "My Favourite Way To Deploy Any Web App on VPS" },
+    { "id": "8j11n3V-NeM", "title": "My Favourite Way To Use Markdown Files 💖" },
+    { "id": "kZD392mhnk0", "title": "This Terminal Will Give You Superpowers" },
+    { "id": "Hjs3zM7o7NE", "title": "This Might Be My New Favourite Auth Library 🔥" },
+    { "id": "uISspvE6F5o", "title": "Speedrunning of vercel in 9 minutes" },
+    { "id": "vH2lUJw9r0k", "title": "Let's Build An AI Image/Video Editor | Next.js 14 Cloudinary Shadn/CN Zustand Server Actions" },
+    { "id": "cfEhtYEHBRE", "title": "Don't Make These 10 SQL Mistakes" },
+    { "id": "ZZ1lnw8D3Qo", "title": "How To Deploy Any Web Application In 15 Minutes Tutorial | VPS + Coolify Combo" },
+    { "id": "ipIw-Fp3LBs", "title": "Learn SQL Super Fast - Tutorial from absolute scratch" },
+    { "id": "5t1fW3KG920", "title": "SQL Indexes Explained in 20 Minutes" },
     { "id": "gMx1LUAA-xE", "title": "Nextjs 14 Simple  Filtering Tutorial  Server Actions, React Query Drizzle" },
     { "id": "TWeomtH_bik", "title": "Our Friendship Is Over GSAP..." },
     { "id": "w74CNzY4zT0", "title": "A beginners guide to Typescript | Collective Literal Types, Widening and Narrowing Types" },
