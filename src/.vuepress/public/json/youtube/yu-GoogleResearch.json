@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "GoogleResearch",
+    "name": "Google Research",
+    "profile": "https://yt3.googleusercontent.com/m3bsE2CWzLuDodVW-XTQ2dyQovrivRpokVqQurBhl4AKFWjerzWO7wKeBZOPYM3x3txc_9FcjZg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xVmwStxMIE_XtDKG_gmRvCwBZhhElHbQ1rDm__asmZshj8T2MKGTOaQhRn0PRaDaRpjNYWDP_w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pwDX67hlBXg", "title": "Bringing Atmospheric Data Down to Earth | Mapping the Ionosphere with Android Devices" },
+    { "id": "wiv7bsoONY4", "title": "Using AI to track wildfire boundaries | Chile, February 2024" },
+    { "id": "O3NmfLFxq24", "title": "Open Buildings: Using AI to put everyone on the map" },
+    { "id": "V7RXyqFUR98", "title": "Supercharge your Programming in Colab with AI-Powered tools" },
+    { "id": "P1O2mGOFCVQ", "title": "Quantum Resource Estimation: Paving the Way for Fusion Energy and Beyond" },
+    { "id": "KUAWw32FjIo", "title": "How AI is improving climate prediction | Research Bytes: NeuralGCM" }
+  ],
+  "playlists": [
+
+  ]
+}

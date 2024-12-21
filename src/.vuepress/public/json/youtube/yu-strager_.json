@@ -6,6 +6,19 @@
     "banner": ""
   },
   "videos": [
+    { "id": "uD37ZTosqmI", "title": "DRY makes your code 500% better · intermediate Java code review" },
+    { "id": "rIENo7tAMxk", "title": "Does your app have this bug? SQL bug you won't see during development" },
+    { "id": "EVwfcTqlMic", "title": "4 VS Code plugins for JavaScript beginners: install tutorial & comparison" },
+    { "id": "w_LUixO3tpU", "title": "13 easy Rust tips (code review)" },
+    { "id": "NEEBDh4pGzs", "title": "Tips for C++ newbies (compiler code review)" },
+    { "id": "cjX0TCO786I", "title": "3 real-world visitor design pattern examples in Rust, JS, & C++" },
+    { "id": "IxCm86IbLok", "title": "Weirdest keyboard I've used: CharaChorder One review" },
+    { "id": "W8-G_PL6p-0", "title": "How I use C++: a line-by-line code review" },
+    { "id": "2L0sxPx4C18", "title": "How to contribute to open source" },
+    { "id": "9nDoe99DYTA", "title": "My right-handed programming language" },
+    { "id": "DMQ_HcNSOAI", "title": "Faster than Rust and C++: the PERFECT hash table" },
+    { "id": "7VHG6Y2QmtM", "title": "Big O myths busted! (Time complexity is complicated)" },
+    { "id": "pOGB0u7qI2M", "title": "Facebook veteran vs React interview" },
     { "id": "EVMMoDWN79E", "title": "DO NOT USE BUN (bun install is good dough)" },
     { "id": "7VHG6Y2QmtM", "title": "Big O myths busted! (Time complexity is complicated)" }, 
     { "id": "DMQ_HcNSOAI", "title": "Faster than Rust and C++: the PERFECT hash table" } 

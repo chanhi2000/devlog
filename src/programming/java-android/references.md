@@ -148,6 +148,9 @@ tag:
   - [The beauty of Kotlin Type System](https://proandroiddev.com/the-beauty-of-kotlin-type-system-25d0a187b130)
   - [Widgets With Glance: Beyond String States](https://proandroiddev.com/widgets-with-glance-beyond-string-states-2dcc4db2f76c)
   - [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://proandroiddev.com/a-developers-roadmap-to-mastering-kotlin-multiplatform-e4e03aef765f)
+  - [Best Practices for Composition Patterns in Jetpack Compose](https://proandroiddev.com/best-practices-for-composition-patterns-in-jetpack-compose-39676ffcc933)
+  - [Integrate Kotlin-Inject-Anvil To Tv Maniac](https://proandroiddev.com/integrate-kotlin-inject-anvil-to-tv-maniac-e1330c9cb566)
+  - [Automate Android Feature Creation with Gradle](https://proandroiddev.com/automate-android-feature-creation-with-gradle-cfd51373e167)
 <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
@@ -809,6 +812,14 @@ tag:
 - [안드로이드 스튜디오 로그캣(Logcat) 사용법](https://skyer9.pe.kr/wordpress/?p=9582)
 
 <!-- END: skyer9.pe.kr -->
+
+---
+
+## Joe Birch | Speaker, Educator and GDE for Android
+
+- [Google Maps in Jetpack Compose: Polygons](https://joebirch.co/android/google-maps-in-jetpack-compose-polygons/)
+
+<!-- END: joebirch.co -->
 
 ---
 

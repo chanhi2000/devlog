@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "x21w6KnG4B0", "title": "[ FLUTTER  10분 ]  파이어베이스 CLI 명령줄 사용하기" },
+    { "id": "TbRmeFvu5DU", "title": "[ FLUTTER  10분 ]  플러터플로우 인스타그램 튜토리얼 2 (+ 겟엑스)" },
+    { "id": "UiSoELHtrm8", "title": "[ FLUTTER  10분 ]  20분만에 할일앱 완성 2" },
+    { "id": "tZ11P0oCHwM", "title": "[ 꿀팁 ] 피그마를 통한 디자인 팁" },
+    { "id": "8fzZByNj5mo", "title": "[ FLUTTER  10분 ]  플러터플로우 인스타그램 튜토리얼 1" },
     { "id": "Gus0qZk7I8k", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (4강 -파이어베이스 연결)" },
     { "id": "1WmnDEhli8c", "title": "[ FLUTTER  10분 ] 네이버 로그인 연동하기 (3강 -사용자정보읽기)" },
     { "id": "tePvG3pZ8Ls", "title": "[ FLUTTER  10분 ]  20분만에 채팅앱 완성 (+구글로그인)" },

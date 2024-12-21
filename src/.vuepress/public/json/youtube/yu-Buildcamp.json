@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Buildcamp",
+    "name": "Buildcamp",
+    "profile": "https://yt3.googleusercontent.com/fsj7MmugaE_tP04zLslN00AViBgPemcAoXZZVaCzLXf7N29mS5glKPxfTYvkGCGIdOJFC5m3EA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G9w5zbJAypk2BDd5ZVRAK5JK6a7VcPZcZrZrYyie2mqNveXmuBk0ICpy9qBLErRCzdCaifC0g4Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a01LP-zsrJA", "title": "Introducing Bubble: A Beginners Tutorial 2024" },
+    { "id": "OwV1VvFHYKM", "title": "Design awesome tables in Bubble.io | Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

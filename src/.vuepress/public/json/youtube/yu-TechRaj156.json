@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "TechRaj156",
+    "name": "Tech Raj",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l2EJvlQo1vEBuIBJ8hV8eu_f5CJmLWpqUdivy541b5N0s=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FadI3bVmIitiCi7QUu3piL08sKs1IiWtu8xrL_uYuJq5q0jWnBqoI-jooxjohSmX0NJbWQhuTiU=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jHczDUrjnI4", "title": "Earn up to $14,400 by hacking WordPress! Vulnerable WP Plugin affects 600K sites!" },
+    { "id": "KixxCm_fOgQ", "title": "Performing recon with nmap! #hacked #cybersecurity #nmap" },
+    { "id": "RmR6cmyLmiI", "title": "Taking over a website with JWT Tokens!" },
+    { "id": "aBtZ-eIg8Yg", "title": "Build Your Own Private, End to End Encrypted Messaging App!" },
+    { "id": "AovYcRLsIO4", "title": "Hacking a Wordpress website!" },
+    { "id": "3-rqwCQO9OI", "title": "Don’t open this word document 🤯  #hacked" },
+    { "id": "_Ml21ty5MTY", "title": "I used AI to hack this website..." },
+    { "id": "zmK_hg6hIM0", "title": "Watch me hack a Wordpress website.." },
+    { "id": "XBt_tsqHoN4", "title": "Scanning and Exploiting Vulnerabilities with Nessus!" },
+    { "id": "oenFfR6gwfo", "title": "Why you should always use Docker for Security.." }
+  ],
+  "playlists": [
+
+  ]
+}

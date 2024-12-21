@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "AltexSoft",
+    "name": "AltexSoft",
+    "profile": "https://yt3.googleusercontent.com/QDtKpvvIaWwo4afxU8Ul-xPtBHs2YuOkL4QDRziO21Mue0bRl5KJVFRoIQVjg1CcAGBsKFGeQQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mE6Cuf1US15ng1Xg3DKC8tzNyQATUNeMA1Ke2ammXAJ6ljgR853-zvL_NbCkv7UgFotXLStozA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "s2uw4YQCYaU", "title": "Information Architecture: From Chaos to Clarity" },
+    { "id": "tFhHkS2gGII", "title": "How American Airlines Shaped Aviation as We Know It: GDS, OTA, NDC" },
+    { "id": "eLquihaoeq8", "title": "Technology Vision: Converting Business Ideas Into a Digital Solution" },
+    { "id": "xr5bIOu4370", "title": "Agency vs Merchant Model Two Ways to Handle Payments in Travel" },
+    { "id": "bp7Qb8QY1Pw", "title": "How AI Sound and Music Generation Works" },
+    { "id": "oiv8_GsJ3z8", "title": "Avis: The Underdog That Has Always Tried Harder" },
+    { "id": "kSyX96Y6BKU", "title": "TravelPerk: The Story of a Business Travel Unicorn" },
+    { "id": "zASIPr4FwGM", "title": "Data Storage for Analytics and Machine Learning" },
+    { "id": "HoRfTjEIck0", "title": "How Digital Wallets Boost Travel Experience" },
+    { "id": "lk8_qT_vtEQ", "title": "What is Online Booking Tool (OBT) in Corporate Travel" },
+    { "id": "Uno5Ua6M8pI", "title": "Ryanair: Flying High on a Budget" },
+    { "id": "n1Tsuh4-PNY", "title": "Priceline: a Startup That Won Travel" },
+    { "id": "x7grmUdDLUc", "title": "Alternative Revenue Streams: How to Sustain Crises and Pad Your Bottom Line" }
+  ],
+  "playlists": [
+
+  ]
+}

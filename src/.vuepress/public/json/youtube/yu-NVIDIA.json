@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "NVIDIA",
+    "name": "NVIDIA",
+    "profile": "https://yt3.googleusercontent.com/IaWgQsxHvV8wWjfGh-h-udUSyjFIT6p_yv3kS6a-QCDI84_6pJIskHsjFMkqnBmIqbuElhZI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/okIzirBUoRK0bMzX-69KRsWLbolVnWO0TPvUPtceax4supUj7gG7fF2KfW5JkNPVmjmtJIHo=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hulOJaOA7WA", "title": "Vibrant Planet: Revolutionizing Wildfire Prevention with AI" },
+    { "id": "eKzNKxWUeCE", "title": "NVIDIA SC24 Special Address" },
+    { "id": "x8O6ChAWBxs", "title": "Jensen Huang Special Address from NVIDIA AI Summit Japan" },
+    { "id": "fZJLfruV-1w", "title": "Real-Time Fraud Defense, Powered by AI and AWS" },
+    { "id": "GlKBbsVX37c", "title": "NVIDIA CEO Jensen Huang’s Special Address at AI Summit India" },
+    { "id": "N1UOqr7Ga_A", "title": "Build Visual Agents for Video Search and Summarization" },
+    { "id": "5U1BPuUedrY", "title": "Jensen Huang at Lenovo Tech World 2024" },
+    { "id": "isVTulzTdFs", "title": "The Transformative Power of Accelerated Computing and AI" },
+    { "id": "TSC_mVH5abI", "title": "Real-Time Response to Anomalies with Foundation Modeling - DRIVE Labs Ep. 37" },
+    { "id": "spzj4JxLcs8", "title": "Visual AI Agent Powered by NVIDIA NIM" },
+    { "id": "c36H4Sz0kBM", "title": "Instantly Deploy Generative AI With NVIDIA NIM on OCI" },
+    { "id": "KWkMavHcC4M", "title": "Scaling Generative AI with End-to-End Platform Solutions" }
+  ],
+  "playlists": [
+
+  ]
+}

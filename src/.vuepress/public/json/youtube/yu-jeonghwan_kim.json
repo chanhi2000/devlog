@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "QcpIqWrjU1A", "title": "HTTP 강의 소개" },
+    { "id": "betXo1cvCCs", "title": "Tailwind CSS | 헬로월드" },
     { "id": "dD2xZwLat4s", "title": "쿠키 보안 Secure, HttpOnly | HTTP 쿠키 #4" },
     { "id": "XLS4IESpv30", "title": "cookie-parser, js-cookie. 서버와 브라우져에서 사용하는 쿠키 라이브러리 | HTTP 쿠키 #5" },
     { "id": "s7-p_C50CFo", "title": "[리액트2부] 부록. MyReact 컨택스트 개선하기" },

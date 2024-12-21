@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ashishalex10",
+    "name": "Ashish Alex",
+    "profile": "https://yt3.googleusercontent.com/SuhO2EU-oc1875txubMngLSGFPcsF-aX6Qm8ujvNfxBhbDFDLOHr4DQexFiMzOLFTQox9tWG=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZsKFcvz94aCdoVhfAB8c4WFm5BXwStARHJJ-a5c_tBCWx68upqY4Fx5X1pD20mLqleGrIR_K=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "g1kkUjNv1iU", "title": "TESTING VSCODE EXTENSIONS" },
+    { "id": "bBl3EdsYwpQ", "title": "VSCODE EXTENSION WITH NOEVIM: ERROR DIAGNOSTICS" },
+    { "id": "Cs4MBcEUrMk", "title": "Prettier vim w/t one half syntax highlighting" },
+    { "id": "W1EHuRCDggQ", "title": "Easily comment code in VIM w/t tpope/vim-commentary" },
+    { "id": "k9u1kOVD92o", "title": "Faster file navigation in VIM with FZF plugin" },
+    { "id": "NaLOXLj7I58", "title": "Add HTML tags quickly - VIM macros" },
+    { "id": "kHv_E8tcwNg", "title": "Increment numbers and python dictionary dictionary using VIM macros" }
+  ],
+  "playlists": [
+
+  ]
+}

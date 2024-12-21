@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "naver_d2",
+    "name": "NAVER D2",
+    "profile": "https://yt3.googleusercontent.com/38irx_KOKvF7b0GwkTo9kk09Q8LVDoppf5eOQCCapfkRhtPILcUCHQJ0HNNI3I-H80w-5sPQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XV8HA-Rt2nyHgmxNVaqFgE-nZyOccvHaX0JBIBZx5jRYAl1gHToaNYyGbHXXZ6Z7D0YWjiPB2A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cUn5KjNGiuI", "title": "대규모 AI 서비스 운영을 위한 Kubernetes GPU 클러스터 도입기" },
+    { "id": "9CRfywZvs7s", "title": "일잘러 연구소: 소프트 스킬을 키우는 효과적인 방법" },
+    { "id": "Qn5kL3IPdSM", "title": "C++에서 Kotlin, Swift 까지?! Bazel을 활용한 Android / iOS 모노레포 도입기" },
+    { "id": "N6aRgKFjz0E", "title": "[UX개선 장기 로드맵] 수립기 - \"VOC많은 순\"으로만 일하지 않기 위하여" },
+    { "id": "6IjMx3C14ic", "title": "타입시스템 기반 도메인 모델링 - 보이지 않는 오류를 막아라" },
+    { "id": "Ox2ehB8obx8", "title": "신규 프로젝트 Hazelcast 도입기" },
+    { "id": "j5KbFw-jsGA", "title": "13년 된 네이버 캘린더 안드로이드 앱, 멀티 플랫폼 기반 모듈화 적용" },
+    { "id": "R7v4wR89PY4", "title": "경량화 레시피: Teacher 지식 조린 소형 모델, 근데 성능을 곁들인" },
+    { "id": "i1WKpOIfAmI", "title": "HCX-VLM과 함께 홈피드를 더 예쁘게 바꿔보자!" },
+    { "id": "TnO2M_9VIqI", "title": "네이버 검색 클라이언트 로그 수집   Beacon API 전환기 가로형" },
+    { "id": "U6Jyx9fzsCA", "title": "서비스 장애를 예방하는 방법: Chaos Engineering" },
+    { "id": "0ZZ9fC35-Go", "title": "DESIGN SYSTEM FOR Android: From Figma to Jetpack Compose" },
+    { "id": "I5777LqYDP8", "title": "디자인시스템을 개발에서 적용 하는법" },
+    { "id": "Ct-zyRguTws", "title": "Writing Path: MBTI J처럼 체계적으로 글쓰는 AI" },
+    { "id": "1UBgSARBdBc", "title": "Kubernetes에서 DNS 다루는 방법 - 도메인을 찾아서" },
+    { "id": "lSIB2MdpHVQ", "title": "보낼 로그가 1000개가 되는동안 겪었던 고민들" },
+    { "id": "7cwFhX14nkg", "title": "시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기" }
+  ],
+  "playlists": [
+
+  ]
+}

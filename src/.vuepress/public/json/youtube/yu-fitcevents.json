@@ -1,11 +1,18 @@
 {
   "channel": {
     "id": "fitcevents",
-    "name": "fitcevents",
+    "name": "fitc",
     "profile": "https://yt3.googleusercontent.com/ytc/AIdro_knQZGpvYa17nSBJVQ4-wvWCMdVmstsT8VMraNiUQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/-lOxICzeRNg5hACuRM_UdutYJndEv0r9dWbb6xC84Ey2vT4D7fnwi608OEhYZ5-6PxdII26bPGE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "etWNM2Im3II", "title": "Magued Hanna - Tips And Tricks For Beating The (Design) System - Spotlight UX 2023" },
+    { "id": "p2V8Qjw58gE", "title": "Fernanda Gonzalez - Transformative Leadership in UX - Spotlight UX 2023" },
+    { "id": "LzmW4JAE780", "title": "Jessica Janiuk - Angular Momentum: Web Frameworks, SSR, Hydration, And Beyond - Web Unleashed 2023" },
+    { "id": "dKu-a8yuKUo", "title": "Bermon Painter - Behavioural Science + Product Innovation = ❤️ - Spotlight UX June 8, 2023" },
+    { "id": "gMD-KGg0uSc", "title": "Jason Theodor - Prompting Powers: How To Enhance Creativity With AI - Spotlight AI" },
+    { "id": "5P3KnTHHf1I", "title": "Joel Varty - MACH: The Future Of Cutting-Edge Webdev - Web Unleashed 2023" },
+    { "id": "Z71xJX9O9IU", "title": "Imperative vs Declarative: Weathering The Storm with Kyle Simpson" },
     { "id": "Gk8LfR8ErVE", "title": "Navigating The Future Of Creativity In The Age Of AI" },
     { "id": "7-h-lKOK5b8", "title": "AI And Coding: Hyper Or Reality? with Wes Bos" },
     { "id": "QI8SXUfMbGI", "title": "The Composable Web: Crafting Future-Proof Digital Experiences with Bermon Painter" },

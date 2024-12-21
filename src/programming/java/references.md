@@ -1093,6 +1093,7 @@ tag:
 - [Readability of Optimized Kotlin Code](https://romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 - [Down a Rabbit Hole](https://romainguy.dev/posts/2024/down-a-rabbit-hole/)
 - [A Micro-optimization You Will Never Need](https://romainguy.dev/posts/2024/a-micro-optimization-you-will-never-need/)
+- [You Are Going to Need It](https://www.romainguy.dev/posts/2024/you-are-going-to-need-it/)
 
 <!-- END: romainguy.dev -->
 

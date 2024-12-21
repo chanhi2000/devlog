@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "JustJoshTech",
+    "name": "Just Josh",
+    "profile": "https://yt3.googleusercontent.com/WQRoebs_luYnkprOrsPR421MqTqOZZ1-hkD9xRz3Pfj9DkHV24G0MPBMXuMwNF-4HS4yabNNPq0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/niEMo460qq2sWfdGK66svLxb5Ng-D2NxLib2ZGqultqGyCmDKyhK2zaGcjA5fhowgyNZfC5r=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OAFdJArW530", "title": "MacBook Buying Guide: We Bought ALL Of Them!" },
+    { "id": "G2AYgQSdeSQ", "title": "Finally, We Found a $300 Laptop That Doesn’t Suck" },
+    { "id": "5rN6CEO31gM", "title": "MacBook Pro M4: Review & Recommendations" },
+    { "id": "xfCEgAhYS5A", "title": "OmniBook Ultra Flip: A Great Buy, When On Sale" },
+    { "id": "Tow21xoMhL0", "title": "Best Laptops for Data Scientists (including AI & ML)" },
+    { "id": "FEXyBtEvoaY", "title": "The Top 10 Greatest Laptops EVER Made!" },
+    { "id": "STAx2JgHhrM", "title": "Best Laptop for Programming: 2024 Ultimate Guide" },
+    { "id": "ZhlYaozP7Rc", "title": "My Predictions: Best & Worst CoPilot+ Laptops (Snapdragon)" },
+    { "id": "6ipCPIJWpSk", "title": "Best Dual Screen Laptop: Zenbook Duo, Yoga Book 9i, X1 Fold" },
+    { "id": "_QtIyGpC1Og", "title": "Surface Laptop 7 vs MacBook Air M3 - The ULTIMATE Battle" },
+    { "id": "6ssBq4GM_h0", "title": "Best Laptop for Students: 2024 Edition" }
+  ],
+  "playlists": [
+
+  ]
+}

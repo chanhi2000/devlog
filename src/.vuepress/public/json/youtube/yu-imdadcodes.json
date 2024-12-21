@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "imdadcodes",
+    "name": "Imdad Codes",
+    "profile": "https://yt3.googleusercontent.com/7B4KqmQb-tD8FFm-VfbgsmJDWoLS9P_FHHV-LOpSy8ZwJDn18YDFfYECvjLY1NnEZ0FCLVjB=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fzhez5mJ3wHMFq4kfLxWf4A0_2FvPbLX9X7JdBWUi77BGu-pA9wN0cKB2sBgoTTJQ9HIhboNIg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cbbWzfauVEE", "title": "Tutorials are a waste of time (focus on projects instead)" },
+    { "id": "D-aXbxUAwu8", "title": "Junior Developers — STOP USING AI!" },
+    { "id": "9yDIozE37iw", "title": "Developers Should Stop Listening to Advice!" },
+    { "id": "aFZOzmcmfcY", "title": "Analyse Your Songs With The Spotify API | (Easy Python Projects Series)" },
+    { "id": "JQL5x9Qmdio", "title": "Easy AI Python Projects - Generate a Programming Study Plan with Claude 3" },
+    { "id": "cFDby58lkfE", "title": "Easy AI Python Projects - Build a PDF Prompter App with Claude 3 Opus API" },
+    { "id": "bARtbGcJsI0", "title": "Send Images to Claude 3 Opus API - (Easy AI Python Projects)" },
+    { "id": "75n04D-s86Y", "title": "Spotify API Tutorial - Save Song Data (Easy Python Project)" }
+  ],
+  "playlists": [
+
+  ]
+}

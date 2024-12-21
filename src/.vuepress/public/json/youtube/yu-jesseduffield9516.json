@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "M6S-9Y8peDY", "title": "Stacked Branches With Lazygit" },
+    { "id": "_94Ja45AVzU", "title": "Lazygit creator interviews DHH (Rails creator)" },
+    { "id": "qdcamTUcuAQ", "title": "Lazygit creator interviews 'Uncle' Bob Martin" },
     { "id": "_REmkoIyPW0", "title": "NEW Lazygit release! (8 months worth of features)" }
   ],
   "playlists": [

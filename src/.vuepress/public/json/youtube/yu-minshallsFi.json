@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "minshallsFi",
+    "name": "Minshalls Financial",
+    "profile": "https://yt3.googleusercontent.com/w6zqq_Sntn0PTZEF_qRqt8UOWZy0HJFYKcd8PAh3yR1n3yLUIKpbydRCumOe05Cc1nmdyyVSSbI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/g2YKToFieH-hriI8F6ODVGEzuZ8I4U3rHTERuYwrIcG5j8gMhDu1Ayn-gb_D1UFUIUIvCXSXng=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KRfKkJ5TLKw", "title": "Why LP Data Aggregation is So Difficult" },
+    { "id": "Ck2qmLudz9E", "title": "Portfolio Diversification Using Quantum Algorithms with Qiskit" },
+    { "id": "yOkCi3_iXcU", "title": "Using Quantum Algorithms for Portfolio Optimization with Qiskit" },
+    { "id": "6PSlX7Qqd1U", "title": "Goldman Sachs Has an Open Source Python Package Called GS-Quant" }
+  ],
+  "playlists": [
+
+  ]
+}

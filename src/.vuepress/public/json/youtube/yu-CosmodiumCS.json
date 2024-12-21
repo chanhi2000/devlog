@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "CosmodiumCS",
+    "name": "Cosmodium CyberSecurity",
+    "profile": "https://yt3.googleusercontent.com/CXhlcNzoeKk0PQDnMEFfzxEH0b_tJHfuMQcQCJbnMDaqIgXtuo71S4_-we4Mu8C9OJXIvFb9N9Y=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p4_uUqJE7IpwRGIXG2uVzRNoxeZjYN8xprZ8Ng-4yKcIF1-n7pt9V4G7RaeTEgsBgpKwGO5r0w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "eLqQo38wC2Q", "title": "How HACKERS Take Notes!! (Obsidian & More)" },
+    { "id": "6M8LjNrf3vI", "title": "Your Favorite RAT Just Got Better! [MK01-OnlyRAT VPS Install]" },
+    { "id": "_uy22WudKZQ", "title": "Malware Analysis : Process Injector" },
+    { "id": "VNTxv-fwFq4", "title": "Building an Offensive Development Library" },
+    { "id": "aZowfydmhCM", "title": "Look Mom I'm Hacking | 01" },
+    { "id": "eLqQo38wC2Q", "title": "How HACKERS Take Notes!! (Obsidian & More)" }
+  ],
+  "playlists": [
+
+  ]
+}

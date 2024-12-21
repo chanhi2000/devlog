@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/LdFB3XVYpn35h5lSYp4B-zRqL4Fpoz00Bp_Q-1g-HN3exl7ce9km_OYSHV0N-Tj-27Ban_5WQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "s5OegLW5Dlw", "title": "Logger - Unified logging system from Apple" },
+    { "id": "YJ0o7r_6qZI", "title": "SOLID Principles for iOS Developers" },
+    { "id": "4xMUxfJKTVM", "title": "Install SwiftLint via SPM" },
     { "id": "H_SqMa8ldU4", "title": "Contains Element - Coding Challenges in Swift" },
     { "id": "FKnrf94bOns", "title": "How to use Property List?" },
     { "id": "I3krf85eK0M", "title": "Custom Size dynamic type in SwiftUI" },

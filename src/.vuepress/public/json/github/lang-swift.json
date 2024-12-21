@@ -902,5 +902,12 @@
     "topics": ["ios", "mvvm", "kotlin-multiplatform", "swiftui", "skie"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/ddedcfaa6eb32f005acc69a18b6ed93ea2bd1616b6b942dd7ebc6177b5960d96/frankois944/KTViewModelBuilder"
+  }, {
+    "repo": "FuzzyIdeas/Clop",
+    "desc": "Clipboard optimizer for macOS. Contribute to FuzzyIdeas/Clop development by creating an account on GitHub.",
+    "officialSite": "https://lowtechguys.com/clop",
+    "topics": ["macos", "clipboard", "jpegoptim", "gifsicle", "pngquant"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/bd27d4a35a499ba672bcad8ff4d49643617ab4e37b529e53cdc28297eba753d6/FuzzyIdeas/Clop"
   }
 ]

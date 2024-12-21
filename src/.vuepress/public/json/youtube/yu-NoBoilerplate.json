@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Scg4nJh1PoRYi3ssv9SdoapYmo54RsxH2R3iFF2asnfy-dRYPrcpp4EdbYBNpnYlKlaS9heRLg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6Lxk9NMeWHg", "title": "AI is not Designed for You" },
+    { "id": "Kdpfhj3VM04", "title": "Compiler-Driven Development in Rust" },
+    { "id": "qjPAWy_2FL0", "title": "The Human Made Mark" },
+    { "id": "kul0z3OTmVM", "title": "REUPLOAD + RENAME: The \"Brainmade\" Mark" },
     { "id": "CwfKlX3rA6E", "title": "NixOS: Everything Everywhere All At Once" },
     { "id": "voRBS0r4EyI", "title": "const fn: Pure Functions in Rust" },
     { "id": "bq9O99TgFv4", "title": "The Unreasonable Effectiveness of Linux Workstations" },

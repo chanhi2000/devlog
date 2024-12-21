@@ -909,5 +909,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/5041da11a37219c192e864ed0d63b5138d34bd1080558da0965d0cdde467a788/lemcoder/KonanPlugin"
+  }, {
+    "repo": "kikoso/khttpconstants",
+    "desc": "A Kotlin Multiplatform library providing constants for HTTP headers and status codes for seamless cross-platform development.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/17e1f4f62883891b2f9ba754e0c77860bdf4d7d5f8b189084ff3aa75144b7e6a/kikoso/khttpconstants"
+  }, {
+    "repo": "eygraber/compose-country-code-picker",
+    "desc": "A Compose Multiplatform library for selecting country codes in your application.",
+    "officialSite": "/eygraber/cmp-library-template",
+    "topics": ["country-codes", "compose", "country-picker", "kmp", "kotlin-multiplatform", "compose-multiplatform"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2eebeb6c160ef863952c881eff95e33c3b6ce3f1e84046337ca959a1c0f228fd/eygraber/compose-country-code-picker"
+  }, {
+    "repo": "frankois944/KtorKMPFileCaching",
+    "desc": "Ktor client File caching for KMP project. Contribute to frankois944/KtorKMPFileCaching development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["cache", "ktor", "kmp", "ktor-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c9beb308058478a8dfde5d2ce7af7e45af7f8fa55860f7eb3a3896567ed1fe89/frankois944/KtorKMPFileCaching"
   }
 ]

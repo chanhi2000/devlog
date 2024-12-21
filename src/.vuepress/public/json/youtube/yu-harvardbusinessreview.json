@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "harvardbusinessreview",
+    "name": "Harvard Business Review",
+    "profile": "https://yt3.googleusercontent.com/XBav0TA2mQHGeiJrRrUwOTo_WhlK-Knq23vBmoqdja5XyHU2AKSVKTwv0H8Wywgt6Q99SMTvHgA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t_8DtLrAoWmia0sjiR7AGxOr6JB8qced0Ii2NHw-BstXkU1UwSr5L20T0bYM-Wk9IndwxvFBOQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JycpDC_qYLw", "title": "Product Flops and Collapsed Corporations: Business Lessons from the Failure Museum" },
+    { "id": "psZ_xKWHeTA", "title": "Power: What It Is, How to Get It, and What to Do with It" },
+    { "id": "rVtSVpLbf_o", "title": "How Do I Gain Power at Work?" },
+    { "id": "msPRhVP9FtM", "title": "How I Helped Transform Bangladesh’s Healthcare, One Patient at a Time" },
+    { "id": "pGSxI_2RnTY", "title": "7 Key Tensions Every Leader Must Balance" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "9s7bmIbhAt0", "title": "지하철 옥외 광고판, 데이터 기반의 광고 집행 가능할까? (국민대 소프트웨어학부 캡스톤 출품작)" },
     { "id": "IrC8jCbz7uU", "title": "어려운 Jenkins 대신 Github self hosted Runner 로 CICD 쉽게 해보자" },    
     { "id": "Fpkd6vhwUco", "title": "PYQT +  소켓통신을 이용한 수강신청 연습 프로그램" },
     { "id": "rLxqS72QOTQ", "title": "Federated Learning 이론만 공부하지 말고, FedScale 시뮬레이션 코드로 실행하면서 이해합시다." },

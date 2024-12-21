@@ -33,5 +33,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-tom-delalande" /><!-- Tom Delalande -->
 <MyYouTubeItems jsonName="yu-codersee" /><!-- Codersee- Kotlin on the backend -->
+<MyYouTubeItems jsonName="yu-TechRaj156" /><!-- Tech Raj -->
 
 <TagLinks />

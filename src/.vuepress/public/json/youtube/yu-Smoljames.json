@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "Smoljames",
+    "name": "Smoljames",
+    "profile": "https://yt3.googleusercontent.com/Ck5W1cCbxGCXOXCTGaABVnYq-LAiyqmt45oMOZs6RaA2Jrh0_xfPLgS7OaWDhWk1UYXSheRS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_PFeWRpQblAcuEIsm9MpmOQAGdcPbxCtQf3SzJYzBTezKJQEqv8pir6XkBUZpIVJlF-xHqq8qCk=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "TzhjDhFjr8E", "title": "Python Full Course for Beginners" },
+    { "id": "9BD9eK9VqXA", "title": "Backend Full Course | NodeJS ExpressJS PostgreSQL Prisma & Docker" },
+    { "id": "FrHrmLwJxww", "title": "The Internet Explained for Aliens" },
+    { "id": "iKpkVKubvKk", "title": "React.JS Full Course | Build & Deploy 3 Modern Web Apps and Get Hired!" },
+    { "id": "-ihpNX0EODc", "title": "JavaScript Beginner Course | Get Started with JavaScript in 2 Hours" },
+    { "id": "tsOX5uJpL6g", "title": "A calming and restorative React.JS tutorial" },
+    { "id": "lkjrUW8fI40", "title": "NEXT.js 14 Full Course | Build and Deploy a Full Stack App w. Firebase & TailwindCSS" },
+    { "id": "82PXenL4MGg", "title": "React JS Full Course - Build 4 Projects in 5 Hours | Zero to Hero" },
+    { "id": "Eb3lOiukwAQ", "title": "HTML & CSS Full Course | Web Development for Beginners" },
+    { "id": "K1wNJSzMqqQ", "title": "This RESUME got me 8+ software engineering interviews" }
+  ],
+  "playlists": [
+
+  ]
+}

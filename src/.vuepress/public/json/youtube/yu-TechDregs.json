@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "TechDregs",
+    "name": "Tech Dregs",
+    "profile": "https://yt3.googleusercontent.com/tPN49v5zXQeU1IVvU9WPOzd02qrpZmrBrL86MYgC7lXCSd2vulRBMNBhxurJ76gAcTe5qs91=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9O53eRz_XOv9zrViHyBTmbwht1erox_fZRBHUWxoHeem4NrzbPguz42LwW8rxTfOD59UirMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Zt3lqndejYE", "title": "My First Product..." },
+    { "id": "K_RtWSyY6Cc", "title": "Fusion 360 on Linux" },
+    { "id": "7vRIwk9_lok", "title": "DIYing an Efficient Home Server" },
+    { "id": "TB0QxiwU1Fs", "title": "Prusa CORE One: Is this what we've been waiting for?" },
+    { "id": "E_-2eyEyfwg", "title": "Annie Annealer: Circuit Analysis and Demo" },
+    { "id": "iDbb9MNRt0Q", "title": "DIY Leak Sensor for ESPHome and Home Assistant" },
+    { "id": "gaPn7z0ikSQ", "title": "An Automatic Target Analyzer (and a Manual Version)" },
+    { "id": "VqtpaaBuxJM", "title": "Fedora 41 Upgrade is Easy (sort of)" },
+    { "id": "7ZSRQWC7zNc", "title": "Fedora for Windows Refugees" },
+    { "id": "6YhfyP2Bq2s", "title": "Unrealized Capital Gains Taxes: Some Problems" },
+    { "id": "Ks9LG6C65fc", "title": "The Best Spreadsheets on Linux" },
+    { "id": "dCQF4-KZ0HQ", "title": "Doomer finance will make you broke" },
+    { "id": "draFuDENNzw", "title": "Are pump and dumps legal now? US v. Constantinescu." },
+    { "id": "yFOymsoxdIg", "title": "mmWave Human Presence Sensor: LD2410B" },
+    { "id": "xqPC2E8qN2c", "title": "Better Voice Recognition in Home Assistant" },
+    { "id": "KvoXZahO82U", "title": "The terminal is nothing to be afraid of..." },
+    { "id": "zUK_h_fYm8Q", "title": "A Modern Linux Demo: Video Editing/Gaming/Etc..." },
+    { "id": "Ba10X17-p_g", "title": "Kagi: ad-free privacy-focused search" },
+    { "id": "KL7_DmHcUe0", "title": "The FUTO Keyboard is excellent" }
+  ],
+  "playlists": [
+
+  ]
+}

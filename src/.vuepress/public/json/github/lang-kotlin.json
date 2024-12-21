@@ -615,12 +615,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/8594673?v=4",
     "banner": ""
   }, {
-    "repo": "kevincianfarini/cardiologist",
-    "desc": "Build job schedules with kotlinx-datetime and kotlinx-coroutines",
-    "officialSite": "https://kevincianfarini.github.io/cardiologist/docs/0.x/",
-    "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/13242326?v=4",
-    "banner": ""
+    "repo": "ArjunJadeja/Something",
+    "desc": "what you should avoid and learn from in kotlin. Contribute to ArjunJadeja/Something development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["kotlin", "best-practices", "exceptions", "mistakes", "type-safety", "exception-handling", "null-safety", "jetpack-compose"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/856848031/9631c393-e224-4826-af4c-d649515cd30d"
   }, {
     "repo": "ArjunJadeja/Something",
     "desc": "what you should avoid in kotlin",
@@ -630,11 +630,11 @@
     "banner": ""
   }, {
     "repo": "EdwarDDay/kotlin-server-scripts",
-    "desc": "Run kotlin scripts as web request response",
+    "desc": "Run kotlin scripts as web request response. Contribute to EdwarDDay/kotlin-server-scripts development by creating an account on GitHub.",
     "officialSite": "",
-    "topics": ["fcgi", "kotlin", "script", "server"],
-    "avatar": "https://avatars.githubusercontent.com/u/4127904?v=4",
-    "banner": ""
+    "topics": ["kotlin", "server", "script", "fcgi"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2bea0aa8f6652526aeb3df148ea67ddd38dffd39087de0a576ac577a2cdaec79/EdwarDDay/kotlin-server-scripts"
   }, {
     "repo": "Trendyol/kediatR",
     "desc": "Mediator implementation in Kotlin with native coroutine support",
@@ -642,5 +642,12 @@
     "topics": ["kotlin", "cqrs", "spring-boot", "coroutines", "mediator", "mediator-pattern", "koin", "cqs", "quarkus", "inprocess-bus"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/207607885/b101151f-a70b-4c41-849c-4fc87a6f584e"
+  }, {
+    "repo": "daniel-rusu/pods4k",
+    "desc": "Performance-oriented Data Structures for Kotlin. Contribute to daniel-rusu/pods4k development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["kotlin", "performance", "kotlin-library", "data-structures"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/7a43875cdb99a729578b823cfdad6bdffce879c7c3d7fb5894d83619f45d7237/daniel-rusu/pods4k"
   }
 ]

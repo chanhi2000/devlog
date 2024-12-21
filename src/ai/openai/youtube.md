@@ -71,7 +71,7 @@ head:
 <MyYouTubeItems jsonName="yu-parttimelarry" /><!-- Part Time Larry -->
 <MyYouTubeItems jsonName="yu-unrealtech" /><!-- 안될공학 - IT 테크 신기술 -->
 <MyYouTubeItems jsonName="yu-embracethered" /><!-- Embrace The Red -->
-<MyYouTubeItems jsonName="yu-codeteller" /><!-- 코드깎는노인 -->
+<MyYouTubeItems jsonName="yu-코드깎는노인" /><!-- 코드깎는노인 -->
 <MyYouTubeItems jsonName="yu-hunkims" /><!-- Sung Kim -->
 <MyYouTubeItems jsonName="yu-RabbitHoleSyndrome" /><!-- RabbitHoleSyndrome -->
 <MyYouTubeItems jsonName="yu-ThatProject" /><!-- That Project -->

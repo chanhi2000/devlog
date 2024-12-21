@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/9tBRm2yd7ackgf2dwqIA5X3QH5dQHO7VpyvWWYrR1JA-2rI1A99NdjkcrXP5Nqpfg0o6W8CtUPk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "XwWReqRfnjs", "title": "How to finally Git Good" },
+    { "id": "pQKQJV_wVzE", "title": "Don't be Lazy use Containers" },
+    { "id": "FLPkNH9nCJU", "title": "Is This the Next Python?" },
+    { "id": "yseSCLx27D8", "title": "Data Collection through Web Scraping and Proxies" },
+    { "id": "EYgDP8cYlLo", "title": "Does Python Really Need the GIL" },
+    { "id": "pNWKI6xtveQ", "title": "Rust, Modern Solutions to Modern Problems" },
     { "id": "Z_ahq2h9Xxg", "title": "How C++ took a turn for the worse" }
   ]
 }

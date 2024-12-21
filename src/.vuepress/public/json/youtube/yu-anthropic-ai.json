@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/QQi9PwYtvxCvrWwiA5nz5gBPP_C4wEjsmSX-bXNeTX2hOe2y_d1kmeq0VFlxbJH8xk-z5KGRW7E=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oXt2-5o_x4I", "title": "Asana supercharges work management with Claude" },
+    { "id": "ODaHJzOyVCQ", "title": "Claude | Computer use for automating operations" },
+    { "id": "jqx18KgIzAE", "title": "Claude | Computer use for orchestrating tasks" },
+    { "id": "vH2f7cjXjKI", "title": "Claude | Computer use for coding" },
+    { "id": "vUdNaAAc4FY", "title": "How we built Artifacts with Claude" },
+    { "id": "mp1Q_dTxYws", "title": "Wedia advances digital asset management with Claude" },
+    { "id": "sQar5NNGbw4", "title": "Scaling interpretability" },
+    { "id": "-dWfl7Dhb0o", "title": "Claude 3.5 Sonnet as a writing partner" },
+    { "id": "dhxrHvgXpSM", "title": "Claude 3.5 Sonnet for vision" },
+    { "id": "rHqk0ZGb6qo", "title": "Claude 3.5 Sonnet for sparking creativity" },
+    { "id": "nbG2DO6Xsek", "title": "Shareable Projects in Claude" },
+    { "id": "KIGBsQqZcNA", "title": "Evaluate prompts in the Anthropic Console" },
     { "id": "6wkFb2_cUik", "title": "Tool use with the Claude 3 model family" }
   ],
   "playlists": [

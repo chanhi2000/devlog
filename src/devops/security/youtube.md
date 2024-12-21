@@ -114,5 +114,7 @@ tag:
 <MyYouTubeItems jsonName="yu-cybernews" /><!-- CyberNews -->
 <MyYouTubeItems jsonName="yu-보안쟁이" /><!-- 보안쟁이 -->
 <MyYouTubeItems jsonName="yu-cazz" /><!-- cazz -->
+<MyYouTubeItems jsonName="yu-CosmodiumCS" /><!-- Cosmodium CyberSecurity -->
+<MyYouTubeItems jsonName="yu-TechRaj156" /><!-- Tech Raj -->
 
 <TagLinks />

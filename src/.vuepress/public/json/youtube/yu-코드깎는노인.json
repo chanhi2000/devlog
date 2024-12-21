@@ -1,10 +1,24 @@
 {
   "channel": {
-    "id": "codeteller",
+    "id": "코드깎는노인",
     "name": "코드깎는노인",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqN48qFF8aE-5TeTthfOVj82b3UrQ_q08SY5oEqq=s176-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
+    { "id": "SJ7tkDtTB-c", "title": "인공지능 컴퓨터 만들기 | AIEXEAUTO 설치 및 사용방법" },
+    { "id": "hZrgoY2ALhA", "title": "인공지능 코딩도구 커서 AI의 새 기능, 컴포저 에이전트" },
+    { "id": "GkOZ6fG99RI", "title": "스스로 행동하는 무료 자율 수행 인공지능 AI 툴 | Claude" },
+    { "id": "bXgmD_U87Jk", "title": "AI 인공지능 에이전트 AIEXE AUTO | 챗GPT, 클로드" },
+    { "id": "MCgvv3XeBJE", "title": "Claude, GPT와 AIEXE로 오픈소스 프로젝트 코딩 업그레이드 하기" },
+    { "id": "tjJrU9l7cJM", "title": "CURSOR 인공지능 AI 코딩 편집기 with 챗GPT 클로드" },
+    { "id": "AzJwBafyySA", "title": "생각하는 인공지능 OpenAI o1 | ChatGPT" },
+    { "id": "49EwxAkqBY0", "title": "ChatGPT, 클로드등의 인공지능의 코딩 실력 높이는 방법" },
+    { "id": "rSwXNEMDKxY", "title": "AI 인공지능 코딩 노하우 | ChatGPT, Claude" },
+    { "id": "5HjjbKxRMH0", "title": "코딩 ChatGPT로만 하면 실력 안느나?" },
+    { "id": "Iju0_X9-rp8", "title": "GPT-4o 기반의 신개념 인공지능 에이전트 | AIEXE" },
+    { "id": "mmTN_HbIwdo", "title": "ChatGPT가 코딩 다 해주는데.. 코딩을 배워야 할까?" },
+    { "id": "PbCEXH8Ivr4", "title": "스마트폰에서 인공지능 라마 3.1 사용해보기" },
+    { "id": "ZrxXPFymjjA", "title": "AI로 앱 만들기, 극도로 쉬워졌다 | ChatGPT, Claude" },
     { "id": "XzAuOvY1aXs", "title": "ChatGPT로 워드프레스 자동 글쓰기 툴 만들기" },
     { "id": "-uoHeZcE0n8", "title": "AIEXE 만들고 느낀 점 | ChatGPT" },
     { "id": "EfkC0oGk2kM", "title": "ChatGPT-4 vs Claude 3" },

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "howtomen",
+    "name": "HowToMen",
+    "profile": "https://yt3.googleusercontent.com/IEl3SHZ5iQ4motIS9h4XBqNd2ywYirYtYw9AUqoEK-6_nopwMMcnc15m6CGOJQ1hLVxIdLRI9ow=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/b6BaHqnazocfGRsNzm84hF4eKoE3mv0naIPJI108eOX7zIaIDkzH5N-eCglCtMBFJApy2ltu=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zXPHB2lSeRs", "title": "7 Things that are Wrong with Android" },
+    { "id": "pvvdMtPsGR4", "title": "Top 12 Best Android Apps! - October 2024" },
+    { "id": "YrqpXkp1KNk", "title": "OxygenOS 15 - Every New Feature Explained!" },
+    { "id": "3pOoU5JjfnE", "title": "15 FOSS Apps that are NOT on the Play Store!" },
+    { "id": "iDlM0cYS9Zs", "title": "I installed Android on Rabbit R1 & Made it Useful" }
+  ],
+  "playlists": [
+
+  ]
+}

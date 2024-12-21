@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "ibmresearch",
+    "name": "IBM Research",
+    "profile": "https://yt3.googleusercontent.com/uEgLGOGhlN_3Mq2xSC3Vs4oLbNDHFA3E-tHwxAhYt1i753t-2Kz4bydGEHAzfFwJSe4qrgze=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8IV4bCGI_Tozsmh4v08zNQhOery19_5DOxEJE9xtg3XGSlcq3_vogiUdTPgjhnWvhlfynMMTvw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GBD3WXoZt14", "title": "Fiber optics for AI chips, 2nm news w/Rapidus, & Grid FMs - foundation models for the power grid" },
+    { "id": "RnSDQCe84kA", "title": "How to test a new AI chip" },
+    { "id": "df6j70kpwNk", "title": "IBM Quantum webinar series: Toward quantum utility in financial modeling" },
+    { "id": "uoamWnk7U6E", "title": "A semiconductor hub is coming to upstate NY, AI agents for coding, chip design inspired by the brain" },
+    { "id": "kZlGG4_DLjE", "title": "Granite 3.0 updates from IBM TechXchange !" },
+    { "id": "5KKkMnatMmo", "title": "Updates from Py Torch Conference 2024, training AI models faster, & introducing the new Think Lab!" },
+    { "id": "c3i6olDvQxA", "title": "Context windows for LLMs and the 2024 Quantum Developer Conference is right around the corner!" },
+    { "id": "0n9hR0Y9b38", "title": "The IBM Research Zurich lab: where NIST-selected post-quantum cryptography algorithms were developed" },
+    { "id": "YJ00O4gBs0I", "title": "The next big leap in cryptography: NIST’s post-quantum cryptography standards" },
+    { "id": "HCOj9CSE050", "title": "Understanding the NIST standards and IBM's contributions to post-quantum cryptography" },
+    { "id": "6BuSQ5QtVms", "title": "The future of AI on IBM Z,  New AI features for US Open fans, & explaining how LLM transformers work" },
+    { "id": "flnQQvT68C8", "title": "Using AI models to fight climate change in Kenya" },
+    { "id": "HXs-5X1f9RM", "title": "The Short: Tiny benchmarks for LLMs, upending automation with gen AI and remembering Bob Dennard" },
+    { "id": "p25EM_V4EWs", "title": "AI-Hilbert automates scientific discovery, Introducing AI agents, Answering the call for ethical AI" }
+  ],
+  "playlists": [
+
+  ]
+}
