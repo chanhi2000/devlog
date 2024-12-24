@@ -6,6 +6,26 @@
     "banner": "https://yt3.googleusercontent.com/ECzxTTQ-8KKyXjixiygoEXSB-mRZQ_v1YcfmK-sfIndxC4aX7pFhPK4vKvffuvz0v_BTpplc3g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "YXG_DHtU-Tc", "title": "인프런 신규 강의 - Flutter 고급 - 현업 수준의 아키텍처" },
+    { "id": "fWIUzzoeMjQ", "title": "라멘 먹다가 Kotlin 객체지향 Null Safety 정리" },
+    { "id": "eRxd4YpZNYo", "title": "Deep Link 가이드 [Flutter Android]" },
+    { "id": "lhdLicXqtb4", "title": "UI 작성시 실수하는 것" },
+    { "id": "AvZlb6raUHw", "title": "이 주의 모바일 개발 이슈 10월 4째주 (Webstrom, Rider 무료 버전, Riverpod 변경점)" },
+    { "id": "0uz_MpABttE", "title": "이 주의 모바일 개발 이슈 11월 1째주" },
+    { "id": "gphPfGK5A-Q", "title": "이 주의 모바일 개발 이슈 9월 5째주" },
+    { "id": "gc46Xb_-c2Y", "title": "이 주의 모바일 개발 이슈 10월 1째주" },
+    { "id": "R9ZkzXx5eeg", "title": "이 주의 모바일 개발 이슈 10월 2째주 (Firebase DataConnect, Java23, Ktor 3.0)" },
+    { "id": "odbxO0F0Ybc", "title": "(무료교육) 코틀린 Jetpack Compose 기반의 안드로이드 개발자 과정 모집 중 (10.16 ~ 11. 24)" },
+    { "id": "UduujTeB7I0", "title": "이 주의 모바일 개발 이슈 10월 3째주 (Admob 정책 변경, Kotlin 2.1.0-beta2, Flutter Web과 React 비교)" },
+    { "id": "WDnJo5nMn7Y", "title": "[공지] Flutter 초급 - Http통신, 상태관리편 업데이트" },
+    { "id": "wWZn7X1LJls", "title": "이 주의 모바일 개발 이슈 9월 4째주" },
+    { "id": "D57NkhTlA5g", "title": "[2024 재촬영 업데이트] Flutter 응용 - 공공 API를 활용한 앱 만들기 (MVVM 패턴)" },
+    { "id": "RmG2OmUY1gQ", "title": "2024년 버전 Android 앱 릴리즈 빌드, 내부 테스트 배포, 프로덕션 배포, 업데이트 10분 컷" },
+    { "id": "RegMS_jLW4w", "title": "머티리얼디자인3에서 AppBar 색상이 변경되지 않는 점 공지" },
+    { "id": "wGuzwL5qSTI", "title": "[Flutter] BottomNavigationBar 를 NavigationBar 로 변경 방법" },
+    { "id": "RiNWCyk4lF8", "title": "[Flutter] 1초만에 3.16 이전에 만들어진 프로젝트 build.gradle 마이그레이션 방법" },
+    { "id": "cEBjVl9cqwQ", "title": "[Flutter] Android Studio Freezed 사용 팁" },
+    { "id": "o9p7jIvhzfw", "title": "Live] Flutter 00 - 위젯 작성 규칙" },
     { "id": "2BxoZs-gQEE", "title": "새싹 6기 Flutter 과정 모집" },
     { "id": "qOoriac0Bbs", "title": "모두의연구소 오름캠프 Flutter 모바일 앱 과정 1기 안내" }
   ]

@@ -27,7 +27,7 @@ tag:
   - <FontIcon icon="fa-brands fa-apple"/>`~/Library/Application Support/Code/User`
   - <FontIcon icon="fa-brands fa-windows"/>
 
-```json  title="settings.json"
+```json :collapsed-lines title="settings.json"
 {
     "workbench.colorTheme": "Dracula Soft",
     "workbench.preferredHighContrastColorTheme": "Dracula Theme Soft",
@@ -45,13 +45,19 @@ tag:
     "GitLive.Issue tracker integration": "Disabled",
     
     "[python]": {
-        "editor.formatOnType": true
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
     },
     "[javascript]": {
-        "editor.tabSize": 2
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
     },
     "[json]": {
-        "editor.tabSize": 2
+      "editor.tabSize": 2
     },
     "vetur.format.options.tabSize": 2,
     "vetur.format.options.useTabs": false,

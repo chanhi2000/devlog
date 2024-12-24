@@ -260,6 +260,18 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Adblock for Youtube™",
+  "desc": "Removes ads from Youtube™.",
+  "link": "https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk",
+  "logo": "https://lh3.googleusercontent.com/bMu6IzWn8zG4yCpDcUrrTHA8bh5pVuAW706__3d2e6Lw_XwpqY3qxn_BfqUS3aaCTisvqFQIN1C9ac4Dm6s0Fz-vOg=s120",
+  "background": "rgba(163,56,47,0.2)"
+}
+```
+
+
+
 <SiteInfo
   name="Quick Copy Link"
   desc="간단한 키보드 단축키를 사용하여 현재 페이지의 제목과 링크를 동시에 복사하세요."

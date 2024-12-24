@@ -2989,11 +2989,11 @@
     "banner": ""
   }, {
     "repo": "backstage/backstage",
-    "desc": "Backstage is an open platform for building developer portals",
-    "officialSite": "https://backstage.io",
-    "topics": ["backstage", "cncf", "developer-experience", "developer-portal", "dx", "hacktoberfest", "infrastructure", "microservices", "service-catalog"],
-    "avatar": "",
-    "banner": ""
+    "desc": "Backstage is an open framework for building developer portals",
+    "officialSite": "https://backstage.io/",
+    "topics": ["infrastructure", "microservices", "cncf", "dx", "developer-experience", "developer-portal", "backstage", "self-service-portal"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/236095576/a3c0b800-a57e-11ea-830d-afd237f78115"
   }, {
     "repo": "devidw/tabgod",
     "desc": "execute any javascript from any browser tab on any browser tabs",

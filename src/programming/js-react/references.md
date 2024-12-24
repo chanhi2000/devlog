@@ -202,6 +202,7 @@ head:
 - [`@devohda` / \[React\] memo, useMemo 의 차이](https://velog.io/@devohda/React-memo-useMemo-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [`@haryan248` / SOLID 원칙을 React 컴포넌트에 입혀보기](https://velog.io/@haryan248/SOLID-principle-react)
 - [`@devohda` / React 스터디 - React 학습하기 (2)](https://velog.io/@devohda/React-%EC%8A%A4%ED%84%B0%EB%94%94-React-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-2)
+- [`@composite` / React 19 업그레이드할 필요 없다?](https://velog.io/@composite/React-19-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%A0-%ED%95%84%EC%9A%94-%EC%97%86%EB%8B%A4)
 
 <!-- END: velog.io -->
 
@@ -770,6 +771,7 @@ head:
 - [(번역) 리액트의 use 훅과 사용 예제](https://ykss.netlify.app/translation/use_hook_in_react_and_its_use_cases/)
 - [(번역) SOLID 원칙으로 리액트 훅 작성하기](https://ykss.netlify.app/translation/write_solid_react_hooks/)
 - [(번역) 리액트 컴포넌트의 유형 돌아보기](https://ykss.netlify.app/translation/types_of_react_components/)
+- [(번역) 리액트 네이티브의 새로운 아키텍처가 출시되었습니다](https://ykss.netlify.app/translation/new_architecture_is_here/)
 
 <!-- END: ykss.netlify.app -->
 

@@ -163,6 +163,8 @@ head:
   - [모던자바스크립트 스터디 3장(2)](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%9E%A5-2-103e10334e6b)
   - [모던자바스크립트 스터디 4장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%9E%A5-2b21b48c7ef7)
   - [모던자바스크립트 스터디 5장](https://blog.jeongwoo.in/%EB%AA%A8%EB%8D%98%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%9E%A5-3a8d39485e66)
+  <!-- END: jeongwoo -->
+- [`jiwoochoics` / (번역) JS0/JSSugar 제안에 대한 생각](https://medium.com/@jiwoochoics/%EB%B2%88%EC%97%AD-js0-jssugar-%EC%A0%9C%EC%95%88%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-172d2e5203b5)
 
 <!-- END: medium.com -->
 
@@ -181,6 +183,7 @@ head:
 - [`@qkrtkdwns3410` / 제이쿼리의 `data()` 는 내부적으로 캐싱을 수행한다.](https://velog.io/@qkrtkdwns3410/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC%EC%9D%98-data-%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%BA%90%EC%8B%B1%EC%9D%84-%EC%88%98%ED%96%89%ED%95%9C%EB%8B%A4)
 - [`@sehyunny` / (번역) 자바스크립트를 두 개의 언어로 분리해야 할까요? 구글이 주도하는 새로운 제안에 대해 의견이 분분합니다.](https://velog.io/@sehyunny/split-js-into-two-languages)
 - [`@surim014` / V8 자바스크립트 엔진](https://velog.io/@surim014/the-v8-javascript-engine)
+- [`@sehyunny` / (번역) 자바스크립트의 Scheduler API 활용하기](https://velog.io/@sehyunny/javascript-scheduler-api)
 
 <!-- END: velog.io -->
 

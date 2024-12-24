@@ -930,5 +930,12 @@
     "topics": ["cache", "ktor", "kmp", "ktor-client"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/c9beb308058478a8dfde5d2ce7af7e45af7f8fa55860f7eb3a3896567ed1fe89/frankois944/KtorKMPFileCaching"
+  }, {
+    "repo": "ondrsh/kmcp",
+    "desc": "Compiler-driven MCP framework for Kotlin Multiplatform",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/aa2cb09a9a679eda2988a90f6a99c3c3dead0be9981b89a0b2d7d65c07b131c1/ondrsh/kmcp"
   }
 ]

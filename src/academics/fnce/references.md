@@ -38,6 +38,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`@dnr6054` / 투자를 끌어당기는 IR Deck 작성 가이드](https://velog.io/@dnr6054/ir-guide)
+
+<!-- END: velog.io -->
+
+---
+
 ## Brunch
 
 - [`@5jl5` / \[GPT4o\] 금융공학과 퀀트금융 유래 - Financial Engineering and Quan Finance](https://brunch.co.kr/@@5jl5/129)

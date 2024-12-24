@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "EigenLayer",
+    "name": "EigenLayer",
+    "profile": "https://yt3.googleusercontent.com/Aw5FrponSVj-qQjMBcuW8rRyc7wCjBI_QJCvgBcsYcL0NDQmaJdQIetIjbQuNkGA73hvN4xafg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jPh93_ik_vI9qonMyhjMd_mWoP2aOFPavdABBTUolz2Bp3SfKwrMsarg_MieePwJ_rpahw9zVg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-ANriJeirgk", "title": "Designing, building, and deploying autonomous no-code workflows with K3" },
+    { "id": "NjCzWIujXnw", "title": "Utilizing zkTLS to build new markets for crypto with Opacity Network" },
+    { "id": "ZxYulHZB76g", "title": "Enhancing cross-chain functions with private autonomous transactions with Ava Protocol." },
+    { "id": "zh7Fx4kDBJA", "title": "The EigenLayer Roundup Number 1" },
+    { "id": "lyt0cp4DGW8", "title": "EIGEN The Universal Intersubjective Work Token - Sreeram Kannan   TOKEN2049 Singapore 2024" },
+    { "id": "Jpzpr8-KxKM", "title": "Radically simple wallet UX with Capsule" },
+    { "id": "pv6twTFZhVA", "title": "Infinite Layers featuring Polymer - Ethereum's Interoperability Hub" },
+    { "id": "_kaMws8BYlw", "title": "Infinite Layers: Intelligent Defi featuring Ishaan 0x of Eigen Foundation" },
+    { "id": "88xtAo6kXHg", "title": "Unlocking Human Coordination | Eigen Film Part 1" },
+    { "id": "v3Ytxo6hSDA", "title": "Use Case Study: Gearbox x Lagrange Coprocessor AVS" },
+    { "id": "YRIYgujOLDo", "title": "Apps with Commitments | Sreeram Kannan | MegaZu 2024" },
+    { "id": "JiiZyPzItGY", "title": "Crafting magical and inclusive onchain signup experiences with Dynamic" },
+    { "id": "GEt5bNUyQ30", "title": "Infinite Layers featuring OpenLayer - The First Modular Authentic Data Layer" },
+    { "id": "SqN2NbQo5Lg", "title": "Infinite Layers featuring Layer N - Unrestricted compute, sub-ms latency, & dedicated compute." },
+    { "id": "YSuG2kXjLNA", "title": "SBC'24 - Strong Cryptoeconomic Security for Arbitrary Validation Tasks by Sreeram Kannan" },
+    { "id": "OleOmoWc0v0", "title": "Infinite Layers featuring Hyperlane - Interoperability for Everyone featuring Jon Kol" },
+    { "id": "M7b4oqyhSBE", "title": "Decentralize Your dApp's Secret Offchain Backend with EigenLayer" },
+    { "id": "l60ltJo2lDE", "title": "Infinite Layers featuring EigenDA - Unlocking New Use Cases with High Throughput & Cost Efficient DA" },
+    { "id": "wR0xfVhpF1I", "title": "AVS Protocol R&D Office Hours #2 - Rewards" },
+    { "id": "PXIRUHqw-F4", "title": "Coprocessors: What, Why, How & 30+ Ideas!" }
+  ],
+  "playlists": [
+
+  ]
+}

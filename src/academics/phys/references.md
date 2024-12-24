@@ -66,6 +66,10 @@ head:
 - [기체 분자 운동 장치](https://javalab.org/kinetic_theory_model/)
 - [강자성체의 자화](https://javalab.org/magnetization/)
 - [끓는점 (물, 에탄올)](https://javalab.org/boiling_point/)
+- [LCD 디스플레이 2](https://javalab.org/lcd_display_2/)
+- [마이크로비트 무선 전압계 (모듈 없이 직접 연결, 3.3V max)](https://javalab.org/microbit_mbl_volt/)
+- [소리의 파형과 음색 (마이크 사용)](https://javalab.org/waveform/)
+- [2024.12.21(토) 가상실험을 활용한 디지털 탐구 수업 강의 자료](https://javalab.org/2024-12-21/)
 
 <!-- END: javalab.org -->
 

@@ -87,6 +87,7 @@ tag:
 - [`@root-devvoo` / 쉘 스크립트에서 ’ ’, ” ”, ` ` 및 괄호 기능과 차이점](https://velog.io/@root-devvoo/%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%94%B0%EC%98%B4%ED%91%9C-%EC%8C%8D%EB%94%B0%EC%98%B4%ED%91%9C-%EB%B0%B1%ED%8B%B1-%EB%B0%8F-%EA%B4%84%ED%98%B8-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 - [`@jeong3320` / Let's encrypt ssl](https://velog.io/@jeong3320/Lets-encrypt-ssl)
 - [`@euisuk-chung` / \[꿀팁\] `.bashrc`로 로컬에서 ALIAS를 활용한 여러 쿠다 활용하기](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-.bashrc%EB%A1%9C-%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-ALIAS%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%AC%EB%9F%AC-%EC%BF%A0%EB%8B%A4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`@mythos` / \[Network\] 원격에서 Home Router 설정 페이지에 접속하는 방법](https://velog.io/@mythos/Linux-%EC%9B%90%EA%B2%A9%EC%97%90%EC%84%9C-Home-Router-%EC%84%A4%EC%A0%95-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%A0%91%EC%86%8D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 <!-- END: velog -->
 

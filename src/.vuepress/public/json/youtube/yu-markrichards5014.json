@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "markrichards5014",
+    "name": "Software Architecture Monday",
+    "profile": "https://yt3.googleusercontent.com/AaOQZ7SyZELAzhs1IIBjeIQ4QnciFfAHvjnMJofvb-99g056av0Zcf7gSmfzj0FWXSFduHlT-WA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yN3ELQOnzXKBnyoSFD6kmQUPSTohXj9QNIseOXuUrufZVnn1NRsXro9zxuww-x0bbbo4nayJySk=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8-C2k8uLIRY", "title": "Lesson 199 - Event Driven Architecture: Anemic Events" },
+    { "id": "SWKxDf55Vd4", "title": "Lesson 197 - Communication Patterns" },
+    { "id": "oDTR7hipsx0", "title": "Lesson 198 - Swarm of Gnats Event AntiPattern" },
+    { "id": "VTqp6wk7PmY", "title": "Lesson 195 - Sacrificial Architecture" },
+    { "id": "Cmsyn7HK6YE", "title": "Lesson 196 - Modularity and Architectural Styles" },
+    { "id": "-pQ8JinsYgk", "title": "Lesson192 - Identifying Components: The Workflow Approach" },
+    { "id": "KuV9sBQjero", "title": "Lesson 193 - Identifying Components: The Actor Action Approach" },
+    { "id": "_nkxFIJct1Q", "title": "Lesson194 - Architecture as Code" },
+    { "id": "pwW6H6UJDWg", "title": "Lesson189 - Architectural Quantum Tradeoffs" },
+    { "id": "0QOi3DiFlSg", "title": "Lesson 190 - Logical vs Physical Architecture" },
+    { "id": "Ki9obBrFlrQ", "title": "Lesson 191 - Identifying Components: The Entity Trap" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -429,6 +429,9 @@ head:
   - [Java/Spring 테스트 - 1](https://backend-jaamong.tistory.com/m/177)
   - [\[JPA Error\] No EntityManager with actual transaction available for current thread - cannot reliably process 'flush' call](https://backend-jaamong.tistory.com/m/178)
   - [Java/Spring 테스트 - 2](https://backend-jaamong.tistory.com/m/179)
+  - [\[Java Error\] Caused by: `java.lang.IllegalArgumentException` at PropertyPlaceholderHelper.java:180](https://backend-jaamong.tistory.com/m/180)
+  - [\[Spring Data JPA\] 하이버네이트 Batch Size](https://backend-jaamong.tistory.com/m/182)
+  - [\[Spring\] @Value과 static 변수](https://backend-jaamong.tistory.com/m/183)
   <!-- END: backend-jaamong -->
 - [`cla9` / 북극 펭귄](https://cla9.tistory.com/m/)
   - [Spring Boot Excel 업로드 라이브러리 개발기](https://cla9.tistory.com/m/118)
@@ -843,8 +846,11 @@ head:
   - [Spring WebSocket 예외 처리 - `@MessageExceptionHandler`, `StompSubProtocolErrorHandler`](https://shout-to-my-mae.tistory.com/m/434)
   <!-- END: shout-to-my-mae -->
 - [`splendidlolli` / 자꾸 생각나는 체리쥬빌레](https://splendidlolli.tistory.com/m/)
+  - [MDC를 사용해 멀티쓰레드 로깅하기 (for 쓰레드간 Context 전달)](https://splendidlolli.tistory.com/m/777)
   - [\[Spring AOP\] Consumer `onMessage()` 비동기 수신 로깅](https://splendidlolli.tistory.com/m/783)
   - [\[Spring\] DTO 매핑시 특정 키만 `null` 값](https://splendidlolli.tistory.com/m/786)
+  - [DB 데이터 변경 감지 방법 | 폴링 or 이벤트](https://splendidlolli.tistory.com/m/790)
+  - [\[Springboot\] 스케줄러 동적 등록/삭제/변경](https://splendidlolli.tistory.com/m/791)
   <!-- END: splendidlolli -->
 <!-- END: tistory.com -->
 

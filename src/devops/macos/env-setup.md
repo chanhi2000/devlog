@@ -82,7 +82,7 @@ brew install qemu libvirt virt-manager;
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \ 
   dbeaver-community rancher eul flameshot flipper font-jetbrains-mono \
-  google-chrome grandperspective intellij-idea-ce jordanbaird-ice \
+  google-chrome ghostty grandperspective intellij-idea-ce jordanbaird-ice \
   maccy notion opencore-patcher oversight pennywise raycast \
   resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \

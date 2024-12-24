@@ -27,5 +27,12 @@
     "topics": ["teatime-instance"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/fd906db6df7d3843d6c33ff8e7dee7ed1a7f5c4096caebae2c27b88216dc65d6/bjesus/teatime"
+  }, {
+    "repo": "frappe/crm",
+    "desc": "Fully featured, open source CRM. Contribute to frappe/crm development by creating an account on GitHub.",
+    "officialSite": "https://frappe.io/crm",
+    "topics": ["javascript", "python", "open-source", "sales", "marketing", "web", "vue", "crm", "webapp", "frappe", "customer", "crm-system", "crm-platform", "vuejs3", "frappe-app", "crm-connections"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f6bad943b6fac1379b14e1285003e56784684ea52f3af74e143fb9ee0cbe8319/frappe/crm"
   }
 ]

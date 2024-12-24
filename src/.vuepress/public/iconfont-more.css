@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.woff2?t=1733781781206') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.woff?t=1733781781206') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.ttf?t=1733781781206') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_vxog9iwt7e.svg?t=1733781781206#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.woff2?t=1735790337362') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.woff?t=1735790337362') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.ttf?t=1735790337362') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.svg?t=1735790337362#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-w3c:before { content: "\e989"; }
 .icon-github-action:before { content: "\e988"; }
 .icon-expressjs:before { content: "\e987"; }
 .icon-jetpack-compose:before { content: "\e986"; }

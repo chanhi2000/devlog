@@ -2572,6 +2572,7 @@ export const sidebarEn = sidebar({
         '/devops/docker/basics.md',
         '/devops/docker/docker-compose.md',
         '/devops/docker/favorite-containers.md',
+        '/devops/docker/tips.md',
         '/devops/docker/references.md',
         '/devops/docker/youtube.md',
         {

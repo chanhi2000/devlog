@@ -166,6 +166,16 @@ head:
 - [STM32G4-DMC-CAN 검증 완료 - DC 모터 컨트롤 보드 - 데모 영상 포함](https://m.blog.naver.com/chandong83/223674645742)
 - [STM32G4-WT-CAN 검증 완료 - 무게 측정 보드 - 데모 영상 포함](https://m.blog.naver.com/chandong83/223676355262)
 - [ESP32-S3-WT-OLED V1 설계 - IoT 무게측정 보드](https://m.blog.naver.com/chandong83/223676845477)
+- [STM32G4-WT-CAN 검증 완료 - 무게 측정 보드 - 데모 영상 포함](https://m.blog.naver.com/chandong83/223676355262)
+- [ESP32-S3-WT-OLED V1 설계 - IoT 무게측정 보드](https://m.blog.naver.com/chandong83/223676845477)
+- [STM32G4-DMC_BALANCE V1 샘플 입고](https://m.blog.naver.com/chandong83/223680334214)
+- [ESP32-CLASSIC-CAN 개발보드 출시](https://m.blog.naver.com/chandong83/223687407340)
+- [또 샘플 제작! ESP32-S3-Loadcell-OLED](https://m.blog.naver.com/chandong83/223688879746)
+- [STM32G4-DMC-BALANCE PS2 컨트롤러 데모영상 공유](https://m.blog.naver.com/chandong83/223692752254)
+- [ESP32-CLASSIC-CAN을 이용한 메카넘 휠 자동차 동작 영상 공유](https://m.blog.naver.com/chandong83/223692913510)
+- [ESP32-S3-LOADCELL-OLED OLED 및 원격 확인 데모](https://m.blog.naver.com/chandong83/223695774908)
+- [초소형 4채널 DC 모터 드라이버](https://m.blog.naver.com/chandong83/223698898254)
+- [오랜만에 신상 지름... 오렌지파이 4A](https://m.blog.naver.com/chandong83/223699582500)
 
 <!-- END: chandong83 (blog.naver.com) -->
 

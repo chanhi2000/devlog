@@ -465,7 +465,6 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://webcurate.co/assets/images/favicon/favicon-16x16.png?v.6"
   preview="https://webcurate.co/assets/images/og/main-og-img.png?15"/>
 
-
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1353,7 +1352,14 @@ http://texturer.com/
   desc="블로그부터 유튜브, 인스타까지! 내 콘텐츠를 빛내 줄 썸네일을 단 10초만에 만들 수 있는 썸네일 메이커입니다. 해상도와 배경 선택, 제목 입력 단 4가지 단계만으로 썸네일을 완성해보세요."
   url="https://quickthumbnails.vercel.app/ko/"
   logo="https://quickthumbnails.vercel.app/favicon-96x96.png"
-  preview="/opengraph.png"/>
+  preview="https://quickthumbnails.vercel.app/opengraph.png"/>
+
+<SiteInfo
+  name="eBay Playbook — One system for everyone to love."
+  desc="eBay Evo is our brand and design system, created so we show up consistently all around the world with the flexibility to strengthen local market relevance."
+  url="https://playbook.ebay.com/"
+  logo="https://playbook.ebay.com/icon.svg?ac984621994309c1"
+  preview="https://images.prismic.io/ebayevo/ZzQzz68jQArT0yV9_Overview_Still.png?auto=format,compress&rect=0,56,2991,1570&w=2400&h=1260"/>
 
 <!-- END: Design & Image -->
 

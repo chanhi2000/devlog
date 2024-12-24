@@ -2392,5 +2392,12 @@
     "topics": ["nlp", "cpp", "morphology", "korean", "word-segmentation", "morphological-analysis", "korean-text-processing", "korean-tokenizer", "korean-nlp"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/82677855/eb9fa478-175d-47a5-8e07-0e169c030ff5"
-  }
+  }, {
+    "repo": "MisterTea/EternalTerminal",
+    "desc": "Re-Connectable secure remote shell. Contribute to MisterTea/EternalTerminal development by creating an account on GitHub.",
+    "officialSite": "https://mistertea.github.io/EternalTerminal/",
+    "topics": ["tmux", "ssh", "terminal", "remote-shell", "mosh"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d5e849d703ed2e6f0a066c239d4339f1136875916dfa68882b3813d1ebd7b80e/MisterTea/EternalTerminal"
+  }  
 ]

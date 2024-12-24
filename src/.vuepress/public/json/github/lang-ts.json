@@ -2991,9 +2991,9 @@
     "repo": "backstage/backstage",
     "desc": "Backstage is an open framework for building developer portals",
     "officialSite": "https://backstage.io/",
-    "topics": ["backstage", "cncf", "developer-experience", "developer-portal", "dx", "infrastructure", "microservices", "self-service-portal"],
-    "avatar": "https://avatars.githubusercontent.com/u/72526453?v=4",
-    "banner": ""
+    "topics": ["infrastructure", "microservices", "cncf", "dx", "developer-experience", "developer-portal", "backstage", "self-service-portal"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/236095576/a3c0b800-a57e-11ea-830d-afd237f78115"
   }, {
     "repo": "devidw/tabgod",
     "desc": "execute any javascript from any browser tab on any browser tabs",
@@ -5031,5 +5031,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/67057df10a27de38ad1fb614e684f4c2ceade803a6d19b1cb7f2679ead61ba93/tonghohin/screen-sharing"
+  }, {
+    "repo": "blinko-space/blinko",
+    "desc": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . at noted.lol",
+    "officialSite": "https://blinko-demo.vercel.app/",
+    "topics": ["react", "markdown", "postgres", "notebook", "nextjs", "self-hosted", "openai", "memos"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/37f819aae6af3e0b2ca04f6b9a5eab0aadbaaa6f84ee556694d02e3f0a2989e9/blinko-space/blinko"
   }
 ]

@@ -151,6 +151,7 @@ tag:
   - [Best Practices for Composition Patterns in Jetpack Compose](https://proandroiddev.com/best-practices-for-composition-patterns-in-jetpack-compose-39676ffcc933)
   - [Integrate Kotlin-Inject-Anvil To Tv Maniac](https://proandroiddev.com/integrate-kotlin-inject-anvil-to-tv-maniac-e1330c9cb566)
   - [Automate Android Feature Creation with Gradle](https://proandroiddev.com/automate-android-feature-creation-with-gradle-cfd51373e167)
+  - [Google Sign in — Kotlin / JS](https://proandroiddev.com/google-sign-in-kotlin-js-f87a542e6090)
 <!-- END: proandroiddev -->
 - [`firebase-developers` / How to create a chatbot with Firebase Firestore and PaLM on Android](https://medium.com/firebase-developers/how-to-create-a-chatbot-with-firebase-firestore-and-palm-on-android-e78549814aa)
 - [`veniamin.vynohradov` / Monitoring Internet Connection State in Android](https://medium.com/@veniamin.vynohradov/monitoring-internet-connection-state-in-android-da7ad915b5e5)
@@ -217,6 +218,8 @@ tag:
 - [`wisemuji` / LazyColumn 작동 방식 이해하기](https://medium.com/@wisemuji/lazycolumn-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-0a5433f31306?)
 - [`raed-o-ghazal` / How to Open System Settings in Compose Multiplatform](https://raed-o-ghazal.medium.com/how-to-open-system-settings-in-compose-multiplatform-9c0545cff3ea)
 - [`andresand` / Voice to Text | Kotlin | Android Jetpack Compose](https://andresand.medium.com/voice-to-text-kotlin-android-jetpack-compose-3e4419dcbac3)
+- [`hinchman-amanda` / Reverse-Engineering the Compose Compiler Plugin: Intercepting the Frontend](https://hinchman-amanda.medium.com/reverse-engineering-the-compose-compiler-plugin-intercepting-the-frontend-657162893b11)
+- [`lizarraga.iosu` / 4 useful tips for Compose Kotlin Multiplatform (KMP)](https://medium.com/@lizarraga.iosu/4-useful-tips-for-compose-kotlin-multiplatform-kmp-8809ba1cac51)
 
 <!-- END: medium.com -->
 
@@ -820,6 +823,14 @@ tag:
 - [Google Maps in Jetpack Compose: Polygons](https://joebirch.co/android/google-maps-in-jetpack-compose-polygons/)
 
 <!-- END: joebirch.co -->
+
+---
+
+## Handstand Sam
+
+- [LLM Based Android UI Testing – “Journeys with Gemini”](https://handstandsam.com/2024/12/09/llm-based-android-ui-testing-journeys-with-gemini/)
+
+<!-- END: handstandsam.com -->
 
 ---
 

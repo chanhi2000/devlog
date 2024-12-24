@@ -31,7 +31,17 @@ head:
 
 ## <FontIcon icon="iconfont icon-claude"/>Anthropic
 
-- [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+- [Mapping the Mind of a Large Language Model](https://anthropic.com/research/mapping-mind-language-model)
+
+<!-- END: anthropic.com -->
+
+---
+
+## LangChain Blog
+
+- [Command: A new tool for building multi-agent architectures in LangGraph](https://blog.langchain.dev/command-a-new-tool-for-multi-agent-architectures-in-langgraph)
+
+<!-- END: blog.langchain.dev -->
 
 ---
 

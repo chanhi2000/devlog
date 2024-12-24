@@ -71,10 +71,10 @@
     "banner": ""
   }, {
     "repo": "instantdb/instant",
-    "desc": "The realtime client-side database",
+    "desc": "Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.",
     "officialSite": "https://instantdb.com",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/110921262?v=4",
-    "banner": ""
-  }
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c2d66089cd2937eb4e87d0202d7c33c1c6043ee26e4252baa13f55b66af56a0c/instantdb/instant"
+  }  
 ]

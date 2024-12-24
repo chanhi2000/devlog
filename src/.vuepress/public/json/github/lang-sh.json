@@ -239,11 +239,11 @@
     "banner": ""
   }, {
     "repo": "HariSekhon/DevOps-Bash-tools",
-    "desc": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+    "desc": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3,...",
     "officialSite": "https://www.linkedin.com/in/HariSekhon",
-    "topics": ["github", "mysql", "git", "linux", "api", "bash", "docker", "kubernetes", "jenkins", "aws", "spotify", "devops", "kafka", "hadoop", "ci", "terraform", "perl", "cloudera", "postgresql", "gcp"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["github", "mysql", "git", "linux", "api", "bash", "docker", "kubernetes", "jenkins", "aws", "devops", "kafka", "hadoop", "ci", "terraform", "perl", "cloudera", "postgresql", "gcp", "hacktoberfest"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e1ade23cb864d1037c25194e46b5ce9018e914c0ced00cabe29c2155b73233d1/HariSekhon/DevOps-Bash-tools"
   }, {
     "repo": "ChimeraOS/chimeraos",
     "desc": "A Steam Big Picture based couch gaming OS",

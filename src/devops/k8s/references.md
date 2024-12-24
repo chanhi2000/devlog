@@ -192,6 +192,8 @@ head:
 - [`mathieuces` / How to calculate CPU for containers in k8s dynamically ?](https://medium.com/@mathieuces/how-to-calculate-cpu-for-containers-in-k8s-dynamically-47a89e3886eb)
 - [`itnext` / 5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
 - [`disha.20.10` / Introduction to the Gateway API: Revolutionizing Kubernetes Networking](https://medium.com/@disha.20.10/introduction-to-the-gateway-api-revolutionizing-kubernetes-networking-7b0c9a696038)
+- [`muppedaanvesh` / ⎈ A Hands-On Guide to Kubernetes Endpoints & EndpointSlices 🛠️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-endpoints-endpointslices-%EF%B8%8F-1375dfc9075c)
+- [`stackademic` / How I Wrote My First Kubernetes Operator](https://blog.stackademic.com/how-i-wrote-my-first-kubernetes-operator-5197ed71f7c7)
 
 <!-- END: medium.com -->
 

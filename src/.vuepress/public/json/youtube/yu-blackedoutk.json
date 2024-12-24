@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "blackedoutk",
+    "name": "blackedout01",
+    "profile": "https://yt3.googleusercontent.com/yjYFenQI1woxBXp3Na8WnH8BPpW7hl2pEilRiUNj4FP14gQnmS_1E5WauHkUVIoVSQrvmZ8aJg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4r_EvmPKOvY", "title": "Deriving 3D Rigid Body Physics and implementing it in C/C++ (with intuitions)" },
+    { "id": "GYc99lMdcFE", "title": "Computing the Inertia Tensor of a Triangle Mesh in C/C++ | Devlog Episode 6" },
+    { "id": "T75SucBcfMo", "title": "Creating my first rolling soft body tire (XPBD) | Devlog Episode 4" }
+  ],
+  "playlists": [
+
+  ]
+}

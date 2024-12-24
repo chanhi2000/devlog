@@ -95,6 +95,14 @@ head:
 - [`@euisuk-chung` / OpenAI GPT-4o 다음 버전 떴나!?](https://velog.io/@euisuk-chung/OpenAI-GPT-4o-%EB%8B%A4%EC%9D%8C-%EB%B2%84%EC%A0%84-%EB%96%B4%EB%82%98)
 - [`@skynet` / ChatGPT o1의 환각(hallucination) 현상 유도 방법](https://velog.io/@skynet/ChatGPT-o1%EC%9D%98-%ED%99%98%EA%B0%81hallucination-%ED%98%84%EC%83%81-%EC%9C%A0%EB%8F%84-%EB%B0%A9%EB%B2%95)
 - [`@euisuk-chung` / \[정리\] OpenAI API Document](https://velog.io/@euisuk-chung/%EC%A0%95%EB%A6%AC-OpenAI-API-Document)
+- [`@euisuk-chung` / \[Day 5\] ChatGPT x Apple Intelligence](https://velog.io/@euisuk-chung/Day-5-ChatGPT-x-Apple-Intelligence)
+- [`@euisuk-chung` / \[Day 6\] Santa Mode & Video in Advanced Voice](https://velog.io/@euisuk-chung/Day-6-Santa-Mode-Video-in-Advanced-Voice)
+- [`@euisuk-chung` / \[Day 7\] Introducing Projects](https://velog.io/@euisuk-chung/Day-7-Introducing-Projects)
+- [`@euisuk-chung` / \[Day 8\] Introducing ChatGPT Search](https://velog.io/@euisuk-chung/Day-8-Introducing-ChatGPT-Search)
+- [`@euisuk-chung` / \[Day 9\] OpenAI o1 및 개발자를 위한 새로운 도구](https://velog.io/@euisuk-chung/Day-9-OpenAI-o1-and-dev-tools)
+- [`@euisuk-chung` / \[Day 10\] 1-800-CHAT-GPT: ChatGPT랑 통화랑 문자를 할 수 있다고? 📞💬](https://velog.io/@euisuk-chung/Day-10-1-800-CHAT-GPT-ChatGPT-talk-with-ChatGPT)
+- [`@euisuk-chung` / \[Day 11\] ChatGPT x Desktop Application 💻](https://velog.io/@euisuk-chung/Day-11-ChatGPT-x-Desktop-Application)
+- [`@euisuk-chung` / \[Day 12\] introducing o3 and o3-mini](https://velog.io/@euisuk-chung/Day-12-introducing-o3-o3mini)
 
 <!-- END: velog -->
 

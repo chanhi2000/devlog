@@ -366,6 +366,7 @@ tag:
 - [`@superlipbalm` / (번역) 테스트 경계란 무엇일까요?](https://velog.io/@superlipbalm/what-is-a-test-boundary)
 - [`@leejh3224` / 내부 통신 시 발생하는 네트워크 에러 해결하기 (Node.js)](https://velog.io/@leejh3224/%EB%82%B4%EB%B6%80-%ED%86%B5%EC%8B%A0-%EC%8B%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-Node.js)
 - [`@juhee067` / Sentry에 대해서 알아보자.](https://velog.io/@juhee067/Sentry%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [`@ansrjsdn` / @vitejs/plugin-legacy Base Path 적용](https://velog.io/@ansrjsdn/vitejsplugin-legacy-Base-Path-%EC%A0%81%EC%9A%A9)
 
 <!-- END: velog.io -->
 

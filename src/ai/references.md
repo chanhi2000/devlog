@@ -443,4 +443,12 @@ head:
 
 ---
 
+## Lee Robinson
+
+- [Understanding AI](https://leerob.com/n/ai)
+
+<!-- END: leerob.com -->
+
+---
+
 <TagLinks />

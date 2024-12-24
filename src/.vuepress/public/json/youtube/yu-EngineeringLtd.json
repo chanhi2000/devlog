@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "EngineeringLtd",
+    "name": "Engineering Ltd",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_n7o6KuemnfocAFaVKGOO0G8E2eQbMjcjXSttDxqTRWE1zv-z3-5uaDYxqQtOPRSSj_KA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "nB5b3bIapCg", "title": "Apache Maven 01: Introduction & Why" },
+    { "id": "hpfhNGM9Pd0", "title": "Master Modern Java 02: Installation" },
+    { "id": "PwLM4sJcbyQ", "title": "Master Modern Java 01: Introduction" }
+  ],
+  "playlists": [
+
+  ]
+}

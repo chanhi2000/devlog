@@ -653,4 +653,12 @@ head:
 
 ---
 
+## 네이버 뉴스
+
+- [\[단독\] AWS, ‘클라우드 공유판매’ 금지 예고…MSP 업계 타격 불가피](https://m.news.naver.com/article/138/0002187044)
+
+<!-- END: m.news.naver.com -->
+
+---
+
 <TagLinks />

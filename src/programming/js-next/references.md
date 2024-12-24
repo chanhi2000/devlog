@@ -70,6 +70,7 @@ head:
 - [`@9rganizedchaos` / \[Next.js\] 프로젝트에 다국어 지원하기!](https://velog.io/@9rganizedchaos/Next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0)
 - [`@endmoseung` / NextJS 우아하게 사용하기](https://velog.io/@endmoseung/NextJS-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@composite` / Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
+- [`@ansrjsdn` / Nextjs RunTime 변수 at k8s](https://velog.io/@ansrjsdn/Nextjs-RunTime-%EB%B3%80%EC%88%98-at-k8s)
 
 <!-- END: velog.io -->
 

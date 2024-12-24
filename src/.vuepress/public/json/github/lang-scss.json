@@ -48,5 +48,12 @@
     "topics": ["javascript", "css", "html", "components", "semantic", "typescript", "webpack", "postcss", "hugo", "uikit", "component-library", "design-system", "ui-library", "ui-framework", "tailwind", "tailwindcss", "tailwind-css", "tailwind-css-template", "tailwind-plugin", "tailwindcss-components-library"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/854999911/e28d56fe-0098-4a8e-8510-5e896abefef2"
+  }, {
+    "repo": "markmead/hyperui",
+    "desc": "Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀",
+    "officialSite": "https://hyperui.dev",
+    "topics": ["tailwindcss", "tailwindcss-ui", "tailwindcss-template", "tailwindcss-components", "tailwindcss-components-library"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/427439360/61b5cf8c-253f-4b63-abf4-70bd9f495dd3"
   }
 ]

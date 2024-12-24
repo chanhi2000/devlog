@@ -2080,11 +2080,11 @@
     "banner": ""
   }, {
     "repo": "yorukot/superfile",
-    "desc": "Pretty fancy and modern terminal file manager",
+    "desc": "Pretty fancy and modern terminal file manager. Contribute to yorukot/superfile development by creating an account on GitHub.",
     "officialSite": "https://superfile.netlify.app",
-    "topics": ["bubbletea", "cli", "file-manager", "filemanager", "filesystem", "golang", "linux-app", "terminal-app", "terminal-based", "terminal-file-manager", "tui"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["cli", "golang", "filemanager", "filesystem", "tui", "file-manager", "terminal-based", "linux-app", "terminal-app", "bubbletea", "terminal-file-manager"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/774468912/db3881a5-05bd-4493-93b3-4da939b858ed"
   }, {
     "repo": "nalgeon/redka",
     "desc": "Redis re-implemented with SQLite",

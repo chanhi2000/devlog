@@ -236,6 +236,7 @@ head:
 - [`@parallelkim` / 2주간 퇴근 후 혼자 개발해 사용자 400명 모으기](https://velog.io/@parallelkim/%ED%95%9C%EC%9E%90%EC%8B%AB%EC%96%B4)
 - [`@sweet_sumin` / 논문 - Scaling Memcached at Facebook: A look at the complexities of Caching](https://velog.io/@sweet_sumin/%EB%85%BC%EB%AC%B8-Scaling-Memcached-at-Facebook-A-look-at-the-complexities-of-Caching)
 - [`@superlipbalm` / (번역) 페이지 로드 속도 향상을 위한 중요 요청 체이닝 방지](https://velog.io/@superlipbalm/avoid-chaining-critical-requests)
+- [`@juhee067` / 웹 접근성 검수 서비스 구체화 02](https://velog.io/@juhee067/02.-%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1-%EA%B2%80%EC%88%98-%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 <!-- END: velog.io -->
 

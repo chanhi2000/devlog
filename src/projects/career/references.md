@@ -166,6 +166,8 @@ tag:
 - [`@juhee067` / 디자이너에서 개발자로, 그리고 기획자로](https://velog.io/@juhee067/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A1%9C)
 - [`@bestswlkh0310` / Silicon Valley makes person attractive](https://velog.io/@bestswlkh0310/Silicon-Valley-makes-person-attractive)
 - [`@broccolism` / "40년차 프로그래머" 번역 - (2) 결국, 하게 된다](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-2-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EB%8F%84-%EB%A7%88%EB%9D%BC%ED%86%A4%EB%8F%84-%EC%95%84%EB%8B%8C-%EC%9D%BC%EA%B8%B0)
+- [`@haryan248` / 주석과 문서화, 다같이 잘되기 위한 작은 노력](https://velog.io/@haryan248/%EC%A3%BC%EC%84%9D%EA%B3%BC-%EB%AC%B8%EC%84%9C%ED%99%94%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
+- [`@broccolism` / "40년차 프로그래머" 번역 - (3) 미술가와 음악가로부터 배우기](https://velog.io/@broccolism/40%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EB%B2%88%EC%97%AD-3-%EB%B0%B0%EC%9A%B0%EA%B3%A0-%EB%98%90-%EB%B0%B0%EC%9A%B0%EA%B8%B0)
 
 <!-- END: velog.io -->
 
@@ -641,6 +643,9 @@ tag:
   - [운이 따르는 조직](http://jojoldu.tistory.com/m/798)
   - [좋은 회사와 커뮤니티](https://jojoldu.tistory.com/m/799)
   - [미움 받을 용기](https://jojoldu.tistory.com/m/806)
+  - [사전 질문의 힘 (feat. 10명 중 7명이 불참하는 면접)](https://jojoldu.tistory.com/m/813)
+  - [품앗이 문화](https://jojoldu.tistory.com/m/810)
+  - [그릿 (Grit)](https://jojoldu.tistory.com/m/811)
   <!-- END: jojoldu -->
 - [`aws-hyoh` / 네트워크 엔지니어 환영의 기술블로그](https://aws-hyoh.tistory.com/m/)
   - [엔지니어를 위한, 연금 제도 쉽게 이해하기](https://aws-hyoh.tistory.com/m/287)
@@ -1697,6 +1702,10 @@ https://m.blog.naver.com/&logId=
 ## Eric's DevLog (데브로그)
 
 - [리팩토링 그게 돈이 됩니까?](https://kyungyeon.dev/posts/116)
+- [함께 성장하는 조직 (2024년 회고)](https://kyungyeon.dev/posts/118)
+- [Unit Testing](https://kyungyeon.dev/posts/119)
+
+<!-- END: kyungyeon.dev -->
 
 ---
 
@@ -1825,6 +1834,14 @@ https://m.blog.naver.com/&logId=
 - [토스는 죄가 없다](https://blog.hoseung.me/2024-11-17-toss-is-innocent/)
 
 <!-- END: blog.hoseung.me -->
+
+---
+
+## 어쩐지 오늘은 · Machine Learning Engineer
+
+- [원온원 6년의 기록: 시행착오와 배움들](https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/)
+
+<!-- END: zzsza.github.io -->
 
 ---
 

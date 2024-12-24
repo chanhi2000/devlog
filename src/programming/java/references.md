@@ -181,6 +181,24 @@ tag:
 - [`@dradnats1012` / LeetCode Longest Repeat Character Replacement 문제 풀기](https://velog.io/@dradnats1012/LeetCode-Longest-Repeat-Character-Replacement-%EB%AC%B8%EC%A0%9C-%ED%92%80%EA%B8%B0)
 - [`@qkrtkdwns3410` / GC의 원리와 Java의 GC 방식에 대해 설명해 주세요. GC 튜닝이 필요한 이유와 튜닝할 때 고려해야 할 요소에 대해서 추가로 말씀해주세요](https://velog.io/@qkrtkdwns3410/GC%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-Java%EC%9D%98-GC-%EB%B0%A9%EC%8B%9D%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94.-GC-%ED%8A%9C%EB%8B%9D%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%99%80-%ED%8A%9C%EB%8B%9D%ED%95%A0-%EB%95%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%9A%94%EC%86%8C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%B6%94%EA%B0%80%EB%A1%9C-%EB%A7%90%EC%94%80%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 - [`@qkrtkdwns3410` / 큰 객체(Humongous Object)는 Java 메모리에서 어떻게 할당되나요? Humongous Object에 대해 알고 계신다면 설명해 주세요.](https://velog.io/@qkrtkdwns3410/%ED%81%B0-%EA%B0%9D%EC%B2%B4Humongous-Object%EB%8A%94-Java-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0%EB%8B%B9%EB%90%98%EB%82%98%EC%9A%94-Humongous-Object%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%A0%EB%8B%A4%EB%A9%B4-%EC%84%A4%EB%AA%85%ED%95%B4-%EC%A3%BC%EC%84%B8%EC%9A%94)
+- [`@jwlee010523` / JAVA - 예외처리(Exception Handling)](https://velog.io/@jwlee010523/JAVA-Exception-Handling)
+- [`@jwlee010523` / JAVA - 제네릭(Generics)과 컬렉션(Collection)](https://velog.io/@jwlee010523/JAVA-Generics-Collection)
+- [`@psj0810` / 문자열 반복해서 출력하기](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B0%98%EB%B3%B5%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [`@psj0810` / 대소문자 바꿔서 출력하기](https://velog.io/@psj0810/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90-%EB%B0%94%EA%BF%94%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+- [`@psj0810` / 문자열 돌리기](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0)
+- [`@psj0810` / 문자열 겹쳐쓰기 (StringBuilder)](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0-StringBuilder)
+- [`@psj0810` / 문자열 섞기](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%84%9E%EA%B8%B0)
+- [`@psj0810` / 문자 리스트를 문자열로 변환하기](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0)
+- [`@psj0810` / 컴퓨터구조](https://velog.io/@psj0810/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0)
+- [`@psj0810` / 메모리 기반 프로그램의 동작 방식](https://velog.io/@psj0810/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D)
+- [`@psj0810` / 문자열 곱하기](https://velog.io/@psj0810/%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B3%B1%ED%95%98%EA%B8%B0)
+- [`@psj0810` / 더 크게 합치기](https://velog.io/@psj0810/%EB%8D%94-%ED%81%AC%EA%B2%8C-%ED%95%A9%EC%B9%98%EA%B8%B0)
+- [`@psj0810` / 두 수의 연산값 비교하기(Math.max)](https://velog.io/@psj0810/%EB%91%90-%EC%88%98%EC%9D%98-%EC%97%B0%EC%82%B0%EA%B0%92-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0)
+- [`@psj0810` / n의 배수](https://velog.io/@psj0810/n%EC%9D%98-%EB%B0%B0%EC%88%98)
+- [`@psj0810` / 공배수](https://velog.io/@psj0810/%EA%B3%B5%EB%B0%B0%EC%88%98)
+- [`@psj0810` / 홀짝에 따라 다른 값 반환하기(수학공식 사용)](https://velog.io/@psj0810/%ED%99%80%EC%A7%9D%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8B%A4%EB%A5%B8-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0%EC%88%98%ED%95%99%EA%B3%B5%EC%8B%9D-%EC%82%AC%EC%9A%A9)
+- [`@psj0810` / 조건 문자열](https://velog.io/@psj0810/%EC%A1%B0%EA%B1%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
+- [`@psj0810` / 네트워크](https://velog.io/@psj0810/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
 <!-- END: velog.io java -->
 
@@ -338,7 +356,23 @@ tag:
   - [메인 스레드, 커스텀 스레드, 데몬 스레드 테스트 찍먹일기 : multiThread & concurrency 2](https://6161990src.tistory.com/m/151)
   - [`join()` 이용해보려다가 실패한 사연](https://6161990src.tistory.com/m/152)
   <!-- END: 6161990src -->
-<!-- END: tistory.com java -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
+  - [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
+  - [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
+  - [# 18_Transaction_거래를_시작하지](https://hj0216.tistory.com/m/927)
+  - [\[1년 후 마실가실\] Custom Exception](https://hj0216.tistory.com/m/934)
+  - [\[해결 방법\] Argument(s) are different!](https://hj0216.tistory.com/m/946)
+  - [\[1년 후 마실가실\] Spring Security - UserDetailsService](https://hj0216.tistory.com/m/971)
+  <!-- END: hj0216 -->
+- [`shout-to-my-mae` / Minty Box](https://shout-to-my-mae.tistory.com/m/)
+  - [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
+  - [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
+  - [\[우아한테크코스\] 프리코스 1주차](https://findsilverlining.tistory.com/m/137)
+  - [\[오브젝트\] 객체 지향 설계](https://shout-to-my-mae.tistory.com/m/452)
+  - [\[오브젝트\] 상속과 다형성](https://shout-to-my-mae.tistory.com/m/453)
+  - [인터페이스, 추상 클래스, 합성 사용 시점](https://shout-to-my-mae.tistory.com/m/454)
+  <!-- END: shout-to-my-mae --><!-- END: tistory.com java -->
 
 ### EastGlow
 
@@ -669,14 +703,7 @@ tag:
 
 - [도메인 엔티티와 영속성 엔티티](https://dkswnkk.tistory.com/m/753)
 
-### 이모저모 개발 블로그
 
-- [\# 15_Parameter_파최몇_파라미터_최대_몇개까지_가능](https://hj0216.tistory.com/m/921)
-- [# 16_NULL_널_생각해](https://hj0216.tistory.com/m/922)
-- [# 17_Exception_예외입니다_전_특별하니까요](https://hj0216.tistory.com/m/924)
-- [# 18_Transaction_거래를_시작하지](https://hj0216.tistory.com/m/927)
-- [\[1년 후 마실가실\] Custom Exception](https://hj0216.tistory.com/m/934)
-- [\[해결 방법\] Argument(s) are different!](https://hj0216.tistory.com/m/946)
 
 ### Lifealong
 
@@ -714,12 +741,6 @@ tag:
 ### Java, Spring Boot, Microservices, Cloud and DevOps Tutorials
 
 - [My attempt to understand why people perceive Java as complex](https://www.sivalabs.in/my-attempt-to-understand-why-people-perceive-java-as-complex/)
-
-### Minty Box
-
-- [테스트 작성 부담감 극복하기 - POJO와 통합 테스트 중심의 전략](https://shout-to-my-mae.tistory.com/m/435)
-- [\[우아한테크코스\] 프리코스 1주차 - 문자열 덧셈 계산기 미션 회고](https://shout-to-my-mae.tistory.com/m/446)
-- [\[우아한테크코스\] 프리코스 1주차](https://findsilverlining.tistory.com/m/137)
 
 ### Clean Coder Blog
 
@@ -760,15 +781,7 @@ tag:
 
 - [Java (2)](https://zerohertz.github.io/java-2/)
 - [Java (3)](https://zerohertz.github.io/java-3/)
-
-### 튼튼발자 개발 성장기🏋️
-
-- [Error와 Exception의 차이를 아시나요?](https://maeng-dev.tistory.com/m/169)
-- [문자열을 생성할 때 어떻게 생성하나요?](https://maeng-dev.tistory.com/m/170)
-- [대칭키 암호화 vs 공개키 암호화](https://maeng-dev.tistory.com/m/173)
-- [값을 비교할 것인가 메모리 주소를 비교할 것인가?](https://maeng-dev.tistory.com/m/171)
-- [값 타입](https://maeng-dev.tistory.com/m/174)
-
+  
 ### 당근케잌
 
 - [집나간 zip 파일 찾아요](https://yeon-kr.tistory.com/m/235)
@@ -795,6 +808,26 @@ tag:
 - [`code-with-me` / \[Java\] 오버라이딩과 오버로딩 그리고 다형성(Polymorphism)](https://inblog.ai/code-with-me/java-오버라이딩과-오버로딩-그리고-다형성polymorphism-31557)
 
 <!-- END: inblog.ai -->
+
+### linked2ev 연어 좋아하는 개발자
+
+- [\[Practical-Java\] 6. Concurrency, Parallelism, Distributed](https://linked2ev.github.io/java/2024/12/03/Practical-Java-6.-Concurrency,-Parallelism,-Distributed/)
+- [\[Practical-Java\] 7. Parallel Programming : Concurrent API](https://linked2ev.github.io/java/2024/12/04/Practical-Java-7.-Parallel-Programming-Concurrent-API/)
+- [\[Practical-Java\] 8. Parallel Programming-JAVA 5 : Executor](https://linked2ev.github.io/java/2024/12/04/Practical-Java-8.-Parallel-Programming-JAVA-5-Executor/)
+- [\[Practical-Java\] 9. Parallel Programming-JAVA 7 : Fork, Join](https://linked2ev.github.io/java/2024/12/05/Practical-Java-9.-Parallel-Programming-JAVA-7-Fork,-Join/)
+- [\[Practical-Java\] 11. Parallel Programming-Future : Future Interface, CompletableFuture Class](https://linked2ev.github.io/java/2024/12/06/Practical-Java-11.-Parallel-Programming-Future-Future-Interface,-CompletableFuture-Class/)
+- [\[Practical-Java\] 12. Parallel Programming-JAVA 8 : ParallelStream](https://linked2ev.github.io/java/2024/12/06/Practical-Java-12.-Parallel-Programming-JAVA-8-ParallelStream/)
+- [\[Practical-Java\] 13. Parallel Programming-JAVA 8 : Spliterator](https://linked2ev.github.io/java/2024/12/07/Practical-Java-13.-Parallel-Programming-JAVA-8-Spliterator/)
+- [\[Practical-Java\] 14. File NIO (1)](https://linked2ev.github.io/java/2024/12/08/Practical-Java-14.-File-NIO-(1)/)
+- [\[Practical-Java\] 15. File NIO (2)-ByteBuffer](https://linked2ev.github.io/java/2024/12/09/Practical-Java-15.-File-NIO-(2)-ByteBuffer/)
+- [\[Practical-Java\] 16. File NIO (3)-newBuffered, newStream](https://linked2ev.github.io/java/2024/12/10/Practical-Java-16.-File-NIO-(3)-newBuffered,-newStream/)
+- [\[Practical-Java\] 17. File NIO (4)-newByteChannel](https://linked2ev.github.io/java/2024/12/10/Practical-Java-17.-File-NIO-(4)-newByteChannel/)
+- [\[Practical-Java\] 18. File NIO (5)-FileChannel](https://linked2ev.github.io/java/2024/12/11/Practical-Java-18.-File-NIO-(5)-FileChannel/)
+- [\[Practical-Java\] 19. File NIO (6)-Directory](https://linked2ev.github.io/java/2024/12/13/Practical-Java-19.-File-NIO-(6)-Directory/)
+- [\[Practical-Java\] 20. File NIO (7)-Directory FileTree](https://linked2ev.github.io/java/2024/12/14/Practical-Java-20.-File-NIO-(7)-Directory-FileTree/)
+- [\[Practical-Java\] 21. File NIO (8)-Directory WatchService](https://linked2ev.github.io/java/2024/12/14/Practical-Java-21.-File-NIO-(8)-Directory-WatchService/)
+
+<!-- END: linked2ev.github.io -->
 
 ---
 
@@ -964,7 +997,16 @@ tag:
   - [\[백준\] 카드구매하기](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0)
   - [\[백준\] 1로만들기](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0)
   - [\[백준\] 2xn 타일링](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-2xn-%ED%83%80%EC%9D%BC%EB%A7%81)
-  - [\[백준\] 2xn 타일링2](http://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-2xn-%ED%83%80%EC%9D%BC%EB%A7%812)<!-- END: namget -->
+  - [\[백준\] 2xn 타일링2](http://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-2xn-%ED%83%80%EC%9D%BC%EB%A7%812)
+  - [\[백준\] RGB 거리](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-RGB-%EA%B1%B0%EB%A6%AC)
+  - [\[백준\] 소수 경로](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EC%86%8C%EC%88%98-%EA%B2%BD%EB%A1%9C)
+  - [\[백준\] 적록 색약](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EC%A0%81%EB%A1%9D-%EC%83%89%EC%95%BD)
+  - [\[백준\] 차량번호판](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-%EC%B0%A8%EB%9F%89%EB%B2%88%ED%98%B8%ED%8C%90)
+  - [\[백준\] 14225번 부분수열의 합](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-14225%EB%B2%88-%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98-%ED%95%A9)
+  - [\[백준\] 11651번 좌표정렬하기_2](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-11651%EB%B2%88-%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02)
+  - [\[백준\] 16917 양념 반 후라이드 반](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-16917-%EC%96%91%EB%85%90-%EB%B0%98-%ED%9B%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%B0%98)
+  - [\[백준\] 14502 연구소](https://namget.tistory.com/m/entry/%EB%B0%B1%EC%A4%80-14502-%EC%97%B0%EA%B5%AC%EC%86%8C)
+  <!-- END: namget -->
 - [`dev-ws` / 테오의 학습기록](https://dev-ws.tistory.com/m/)
   - [\[BOJ\] 1600 - 말이 되고픈 원숭이](https://dev-ws.tistory.com/m/129)
   <!-- END: dev-ws -->
@@ -974,6 +1016,19 @@ tag:
 - [`colabear754` / 개발하는 곰돌이](https://colabear754.tistory.com/m/)
   - [\[Kotlin\] 백준 22941 : RPG 마스터 오명진](https://colabear754.tistory.com/m/227)
   <!-- END: colabear754 -->
+- [`maeng-dev` / 튼튼발자 개발 성장기🏋️](https://maeng-dev.tistory.com/m/)
+  - [Error와 Exception의 차이를 아시나요?](https://maeng-dev.tistory.com/m/169)
+  - [문자열을 생성할 때 어떻게 생성하나요?](https://maeng-dev.tistory.com/m/170)
+  - [대칭키 암호화 vs 공개키 암호화](https://maeng-dev.tistory.com/m/173)
+  - [값을 비교할 것인가 메모리 주소를 비교할 것인가?](https://maeng-dev.tistory.com/m/171)
+  - [값 타입](https://maeng-dev.tistory.com/m/174)
+  - [리스트](https://maeng-dev.tistory.com/m/189)
+  - [재귀와 공재귀](https://maeng-dev.tistory.com/m/188)
+  - [\[Java와 비교하는 Kotlin\] 기본 개념 #3](https://maeng-dev.tistory.com/m/186)
+  - [\[Java와 비교하는 Kotlin\] 기본 개념 #2](https://maeng-dev.tistory.com/m/185)
+  - [Java와 비교하는 Kotlin 개요 #1](https://maeng-dev.tistory.com/m/184)
+  - [함수 프로그래밍](https://maeng-dev.tistory.com/m/187)
+  <!-- END: maeng-dev -->
 <!-- END: tistory.com kotiln -->
 
 ### Leo3418
@@ -1093,7 +1148,8 @@ tag:
 - [Readability of Optimized Kotlin Code](https://romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 - [Down a Rabbit Hole](https://romainguy.dev/posts/2024/down-a-rabbit-hole/)
 - [A Micro-optimization You Will Never Need](https://romainguy.dev/posts/2024/a-micro-optimization-you-will-never-need/)
-- [You Are Going to Need It](https://www.romainguy.dev/posts/2024/you-are-going-to-need-it/)
+- [You Are Going to Need It](https://romainguy.dev/posts/2024/you-are-going-to-need-it/)
+- [Naming is Hard](https://romainguy.dev/posts/2024/naming-is-hard/)
 
 <!-- END: romainguy.dev -->
 
@@ -1275,6 +1331,18 @@ tag:
 - [Writing Gradle plugins in Kotlin#](https://cookbook.gradle.org/plugin-development/kotlin-plugins/)
 
 <!-- END: cookbook.gradle.org -->
+
+### Pierre Roy alias Ayfri
+
+- [Mastering `kotlinx.serialization`: Advanced Techniques and Tricks](https://ayfri.com/articles/kotlin-advanced-serialization/)
+
+<!-- END: ayfri.com -->
+
+### Ivan “CLOVIS” Canet
+
+- [What does it mean to be a better Java? (Part 3)](https://ivan.canet.dev/blog/2024/12/16/better-java-3.html)
+
+<!-- END: ivan.canet.dev -->
 
 ---
 

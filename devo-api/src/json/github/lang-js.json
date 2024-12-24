@@ -3191,11 +3191,11 @@
     "banner": ""
   }, {
     "repo": "slidevjs/slidev",
-    "desc": "Presentation Slides for Developers",
+    "desc": "Presentation Slides for Developers. Contribute to slidevjs/slidev development by creating an account on GitHub.",
     "officialSite": "https://sli.dev",
-    "topics": ["markdown", "presentation", "slides", "vite", "vue", "vueuse"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["markdown", "vue", "presentation", "slides", "vite", "vueuse"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/fe72fdfd3def23a671d5c96e300e7aeedecd85c1a594299d4b8e789bd5929dcb/slidevjs/slidev"
   }, {
     "repo": "WebGoat/WebGoat",
     "desc": "WebGoat is a deliberately insecure application",

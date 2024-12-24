@@ -2087,11 +2087,11 @@
     "banner": ""
   }, {
     "repo": "yorukot/superfile",
-    "desc": "Pretty fancy and modern terminal file manager",
+    "desc": "Pretty fancy and modern terminal file manager. Contribute to yorukot/superfile development by creating an account on GitHub.",
     "officialSite": "https://superfile.netlify.app",
-    "topics": ["bubbletea", "cli", "file-manager", "filemanager", "filesystem", "golang", "linux-app", "terminal-app", "terminal-based", "terminal-file-manager", "tui"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["cli", "golang", "filemanager", "filesystem", "tui", "file-manager", "terminal-based", "linux-app", "terminal-app", "bubbletea", "terminal-file-manager"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/774468912/db3881a5-05bd-4493-93b3-4da939b858ed"
   }, {
     "repo": "nalgeon/redka",
     "desc": "Redis re-implemented with SQLite",
@@ -2514,11 +2514,11 @@
     "banner": ""
   }, {
     "repo": "crossplane/crossplane",
-    "desc": "The Cloud Native Control Plane",
+    "desc": "The Cloud Native Control Plane. Contribute to crossplane/crossplane development by creating an account on GitHub.",
     "officialSite": "https://crossplane.io",
-    "topics": ["cloud-computing", "cloud-management", "cloud-native", "cncf", "containers", "control-plane", "infrastructure", "infrastructure-as-code", "kubernetes", "multicloud", "serverless"],
-    "avatar": "https://avatars.githubusercontent.com/u/45158470?v=4",
-    "banner": ""
+    "topics": ["kubernetes", "infrastructure", "serverless", "containers", "cncf", "cloud-management", "cloud-computing", "infrastructure-as-code", "cloud-native", "control-plane", "multicloud"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d80b964983caacaef94c3c563239a611eb832eb260c3bb1987742eb88ecba6fe/crossplane/crossplane"
   }, {
     "repo": "TomWright/dasel",
     "desc": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.",
@@ -2827,5 +2827,12 @@
     "topics": ["web-analytics", "self-hosted", "cloud-native", "vince"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/cc33d1b7160d0fc4195af7fbb23841ce0bf30957bc52f513a0616a95fa9e2fbd/vinceanalytics/vince"
+  }, {
+    "repo": "syntasso/kratix",
+    "desc": "Kratix is an open-source framework for building platforms",
+    "officialSite": "https://kratix.io",
+    "topics": ["kubernetes", "platform", "framework", "product", "promise"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8ba996b7d32dbe4d49f79a092b0c770e16703f50db4d6c25cc2cf53a0dca5dab/syntasso/kratix"
   }
 ]

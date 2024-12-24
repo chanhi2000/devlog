@@ -29,8 +29,6 @@ head:
 
 ---
 
-## Tips
-
 | 명령어 | 설명 |
 | :--- | :--- |
 | `:%y+` | Copy all the lines to clipboard |

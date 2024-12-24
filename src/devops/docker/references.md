@@ -4,10 +4,12 @@ title: References
 description: Docker > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Docker
   - Container
   - References
-tag: 
+tag:
+  - devops
   - docker
   - container
 head:

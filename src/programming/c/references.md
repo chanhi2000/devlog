@@ -72,6 +72,15 @@ tag:
 - [`@jwlee010523` / 그래프의 탐색 - BFS(Breath first search)](https://velog.io/@jwlee010523/graph-bfs)
 - [`@jwlee010523` / 우선순위 큐(priority queue)](https://velog.io/@jwlee010523/priority-queue)
 - [`@jwlee010523` / LPT: Longest Processing Time first](https://velog.io/@jwlee010523/LPT)
+- [`@jwlee010523` / 최소 비용 신장 트리(MST: Minimum Spanning Tree)](https://velog.io/@jwlee010523/MST)
+- [`@jwlee010523` / 최단 경로(Shortest Path)](https://velog.io/@jwlee010523/Shortest-Path-ti3nukf3)
+- [`@jwlee010523` / 위상 정렬(Topological Sorting)](https://velog.io/@jwlee010523/Topological-Sorting)
+- [`@jwlee010523` / 선택 정렬(Selection Sort)](https://velog.io/@jwlee010523/Selection-Sort)
+- [`@jwlee010523` / 삽입 정렬(Insertion Sort)](https://velog.io/@jwlee010523/Insertion-Sort)
+- [`@jwlee010523` / 알고리즘 - 쉘 정렬(Shell Sort)](https://velog.io/@jwlee010523/Shell-Sort)
+- [`@jwlee010523` / 버블 정렬(Bubble Sort)](https://velog.io/@jwlee010523/Bubble-Sort)
+- [`@jwlee010523` / 합병 정렬(Merge Sort)](https://velog.io/@jwlee010523/Merge-Sort)
+- [`@jwlee010523` / 퀵 정렬(Quick Sort)](https://velog.io/@jwlee010523/Quick-Sort)
 
 <!-- END: velog.io -->
 

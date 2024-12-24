@@ -78,5 +78,6 @@ tag:
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
 <MyYouTubeItems jsonName="yu-AlexTheRealDev" /><!-- Alex The Dev -->
 <MyYouTubeItems jsonName="yu-cococry" /><!-- Cococry -->
+<MyYouTubeItems jsonName="yu-cobbcoding" /><!-- Cobb Coding -->
 
 <TagLinks />

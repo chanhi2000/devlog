@@ -107,6 +107,7 @@ head:
 - [`@euisuk-chung` / \[꿀팁\] 프롬프트 엔지니어링 (강의 요약)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B0%95%EC%9D%98-%EC%9A%94%EC%95%BD)
 - [`@euisuk-chung` / \[IT\] LLMOps와 RAG](https://velog.io/@euisuk-chung/IT-LLMOps%EC%99%80-RAG)
 - [`@euisuk-chung` / 2025년 AI 트렌드: LMM, LAM, 온디바이스 AI, AI 에이전트, 임베디드 AI, 그리고 FMOps](https://velog.io/@euisuk-chung/2025%EB%85%84-AI-%ED%8A%B8%EB%A0%8C%EB%93%9C-LMM-LAM-%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-AI-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-AI-%EA%B7%B8%EB%A6%AC%EA%B3%A0-FMOps)
+- [`@euisuk-chung` / \[트렌드\] 트렌스포머 이후의 차세대 아키텍쳐: MoE, SSM, RetNet, V-JEPA](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%8A%B8%EB%A0%8C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%9D%B4%ED%9B%84%EC%9D%98-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-MoE-SSM-RetNet-V-JEPA)
 
 <!-- END: velog.io -->
 

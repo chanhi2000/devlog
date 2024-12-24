@@ -68,6 +68,7 @@ tag:
 - [`@thd0427` / 깃허브와 지라 워크플로우 자동화](https://velog.io/@thd0427/%EA%B9%83%ED%97%88%EB%B8%8C%EC%99%80-%EC%A7%80%EB%9D%BC-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%9E%90%EB%8F%99%ED%99%94)
 - [`@kwonhl0211` / Claude로 코드리뷰 경험 개선하기](https://velog.io/@kwonhl0211/Claude%EB%A1%9C-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0-%EA%B2%BD%ED%97%98-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 - [`@developerjhp` / 클릭 한번으로 Github PR을 ChatGPT에게 리뷰받기](https://velog.io/@developerjhp/%ED%81%B4%EB%A6%AD-%ED%95%9C%EB%B2%88%EC%9C%BC%EB%A1%9C-Github-PR%EC%9D%84-ChatGPT%EC%97%90%EA%B2%8C-%EB%A6%AC%EB%B7%B0%EB%B0%9B%EA%B8%B0)
+- [`@seochan99` / 깃허브 라벨, PR/ISSUE, ReadME을 편하게 자동으로 생성해주는 서비스, AutoRepo](https://velog.io/@seochan99/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%9D%BC%EB%B2%A8-PRISSUE-ReadME%EC%9D%84-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-AutoRepo)
 
 <!-- END: velog.io -->
 
