@@ -671,5 +671,12 @@
     "topics": ["csharp", "ide", "avalonia", "vb6", "visualbasic", "avaloniaui", "visualbasic6", "avalonia-ui"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/884565845/f9a7f311-3e38-43bf-ad1b-0fc93ebc2f90"
+  }, {
+    "repo": "hfiref0x/WinDepends",
+    "desc": "Windows Dependencies. Contribute to hfiref0x/WinDepends development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["windows", "csharp", "dll", "dependency-walker"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/153d154b18b137242bcbad1710fd4394d16c213cebd5e95053eae1c5f997e58c/hfiref0x/WinDepends"
   }
 ]

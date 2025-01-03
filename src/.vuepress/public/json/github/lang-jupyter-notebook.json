@@ -1063,5 +1063,12 @@
     "topics": ["image", "watermarking"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/de4c13a11588bae747d7548fa6bc619b2ffdea8699cfe4cf976e2b527173f4f0/facebookresearch/watermark-anything"
+  }, {
+    "repo": "athina-ai/rag-cookbooks",
+    "desc": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+    "officialSite": "",
+    "topics": ["python", "ai", "tutorials", "cookbooks", "openai", "pinecone", "faiss", "rag", "weaviate", "qdrant", "llm", "llms", "langchain", "chromadb"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/09df1aa719434833f9267d1750d81f994b14cc7c4b3d313655b6fbb18aeb9073/athina-ai/rag-cookbooks"
   }
 ]

@@ -3860,8 +3860,8 @@
     "desc": "I'm sick of complex blogging solutions, so markdown files in a git repo it is",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/058525771648612082c9930d7eb6282029584843464c49f616fb9a35c0d7dccd/francisrstokes/githublog"
   }, {
     "repo": "frost-beta/node-mlx",
     "desc": "Machine learning framework for Node.js.",
@@ -5038,5 +5038,19 @@
     "topics": ["react", "markdown", "postgres", "notebook", "nextjs", "self-hosted", "openai", "memos"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/37f819aae6af3e0b2ca04f6b9a5eab0aadbaaa6f84ee556694d02e3f0a2989e9/blinko-space/blinko"
+  }, {
+    "repo": "steel-dev/steel-browser",
+    "desc": "🔥 Open Source Browser API for AI Agents &amp; Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure. - steel-dev/steel-br...",
+    "officialSite": "https://steel.dev",
+    "topics": ["ai", "browser-automation", "ai-agents", "ai-tools", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/01ec2982687b40247ac5e4756848a04bcddd1a32a40b5b362c52af1753e55a17/steel-dev/steel-browser"
+  }, {
+    "repo": "outerbase/studio",
+    "desc": "A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.",
+    "officialSite": "https://studio.outerbase.com",
+    "topics": ["client", "gui", "sqlite", "rqlite", "cloudflare-d1", "libsql", "sqlite-browser"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/744296994/b358d184-6a66-437c-9a22-3b74d90de6b7"
   }
 ]

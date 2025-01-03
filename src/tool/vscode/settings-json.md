@@ -32,6 +32,10 @@ tag:
     "workbench.colorTheme": "Dracula Soft",
     "workbench.preferredHighContrastColorTheme": "Dracula Theme Soft",
     "workbench.startupEditor": "none", // VSCode Icons    
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreview": false,
+
+    "explorer.compactFolders": false,
 
     "editor.fontFamily": "Jetbrains Mono",
     "files.watcherExclude": {
@@ -44,6 +48,8 @@ tag:
     "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*",
     "GitLive.Issue tracker integration": "Disabled",
     
+    "css.hover.references": false,
+
     "[python]": {
       "editor.defaultFormatter": "ms-python.black-formatter",
       "editor.formatOnSave": true

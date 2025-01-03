@@ -43,7 +43,7 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
 
 ## 개요
 
-::: info Daum 맵 기반 GIS 통합상황관리 시스템
+::: important Daum 맵 기반 GIS 통합상황관리 시스템
 
 [![(2019-2020) 행정안전부 GIS 기반 통합상황관리 시스템 (안드로이드)<br/><출처: 행정안전부 gis.ndms.go.kr>](/images/about/ginno/ndms/ndms-banner.webp =700x)](http://gis.ndms.go.kr/)
 
@@ -64,7 +64,7 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
 
 ## 프론트엔드
 
-### <FontIcon icon="fa-brands fa-android"/> Android
+::: info <FontIcon icon="fa-brands fa-android"/>Android
 
 <ImageGallery paths="
   /images/about/ginno/ndms/ndms-aos-1.webp
@@ -76,3 +76,5 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
   /images/about/ginno/ndms/ndms-aos-7.webp
   /images/about/ginno/ndms/ndms-aos-8.webp
 " isOneRow="true"/>
+
+:::

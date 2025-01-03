@@ -465,6 +465,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://webcurate.co/assets/images/favicon/favicon-16x16.png?v.6"
   preview="https://webcurate.co/assets/images/og/main-og-img.png?15"/>
 
+<SiteInfo
+  name="Awesome Shadcn UI"
+  desc="With 13 Categories and Over 200 Resources, It’s Easy To Access Shadcn’s Most Valuable Resources."
+  url="https://shadcn.batchtool.com"
+  logo="https://shadcn.batchtool.com/favicon.ico"
+  preview="https://shadcn.batchtool.com/og.jpg"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

@@ -56,7 +56,7 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ## 개요
 
-::: info 서울안전 앱 서비스 관리 (Naver 맵 위치정보 기반 웹/모바일 하이브리드 플랫폼)
+::: important 서울안전 앱 서비스 관리 (Naver 맵 위치정보 기반 웹/모바일 하이브리드 플랫폼)
 
 [![(2019-2020) 서울 스마트재난 시스템 유지보수 용역유지보수 용역<br/><출처: 서울특별시 safecity.seoul.go.kr><br/>[![](https://img.shields.io/badge/Available%20on%20App%20Store-000000?logo=apple&logoColor=white&style=flat-square)][ios-download] [![](https://img.shields.io/badge/Available%20on%20Google%20Play-414141?logo=google%20play&logoColor=white&style=flat-square)][aos-download]](/images/about/ginno/safecity/safecity-banner.webp =700x)](https://safecity.seoul.go.kr/)
 
@@ -86,7 +86,7 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ## 프론트엔드
 
-### <FontIcon icon="iconfont icon-apachecordova"/> Cordova (<FontIcon icon="iconfont icon-ios"/>iOS/<FontIcon icon="fa-brands fa-android"/>Android)
+::: info <FontIcon icon="iconfont icon-apachecordova"/> Cordova (<FontIcon icon="iconfont icon-ios"/>iOS/<FontIcon icon="fa-brands fa-android"/>Android)
 
 <ImageGallery paths="
   /images/about/ginno/safecity/safecity-m-1.webp
@@ -98,8 +98,6 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
   /images/about/ginno/safecity/safecity-m-7.webp
   /images/about/ginno/safecity/safecity-m-8.webp
 " isOneRow="true"/>
-
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
 **<FontIcon icon="iconfont icon-apachecordova"/>Cordova Plugin 개발 및 관리**
 
@@ -114,6 +112,8 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 ## 백앤드
 
+::: info <FontIcon icon="iconfont icon-spring"/> Spring (JSP 웹)
+
 <ImageGallery paths="
   /images/about/ginno/safecity/safecity-w-1.webp
   /images/about/ginno/safecity/safecity-w-2.webp
@@ -121,10 +121,6 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
   /images/about/ginno/safecity/safecity-w-4.webp
   /images/about/ginno/safecity/safecity-w-5.webp
 " isOneRow="true"/>
-
-### <FontIcon icon="iconfont icon-spring"/> Spring (JSP 웹)
-
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
 - 기능 안정화를 위한 버그 수정
 - 소스코드 리펙토링 (가독성 부분)
@@ -138,12 +134,14 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 :::
 
-#### 지도 엔진 솔루션 관리
+::: tip 지도 엔진 솔루션 관리
 
 > 지오게이트 (자사 지도엔진 벡엔드 솔루션)
 
 - 공간정보 데이터 갱신
 - 공간 데이터 관리용 SW 설치 및 현행화
+
+:::
 
 ---
 

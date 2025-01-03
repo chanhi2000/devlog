@@ -154,5 +154,7 @@ head:
 <MyYouTubeItems jsonName="yu-woose4175" /><!-- 우쓰의 홈레코딩 [WOOSE] -->
 <MyYouTubeItems jsonName="yu-gang_diet" /><!-- 강식단 -->
 <MyYouTubeItems jsonName="yu-johnsonkb18" /><!-- 순위남 -->
+<MyYouTubeItems jsonName="yu-polarbearjeon" /><!-- 폴라베어 전실장 -->
+<MyYouTubeItems jsonName="yu-drivingori" /><!-- 핸들잡은오리 -->
 
 <TagLinks />

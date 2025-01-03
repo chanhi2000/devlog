@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "ShawhinTalebi",
+    "name": "Shaw Talebi",
+    "profile": "https://yt3.googleusercontent.com/WX4MJL6fe4fZEwx0cfDaf2NpZyhSIifyKrFWCYiIOdKJw4X1aODMxNfezj89GqMZcrOxYVh5IQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DkWyaOV_5Eai-kzhyxH2wJYMYE9BHX4uiDzFPHJzu7zwgZ0LufqcUkHWdwmjfT84kAHtsjE8vg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "R5WXaxmb6m4", "title": "How to Build a Resume Optimizer with AI (Code Walkthrough)" },
+    { "id": "Y7pNmocrmi8", "title": "Multimodal RAG: A Beginner-friendly Guide (with Python Code)" },
+    { "id": "e3p9-hYxwSQ", "title": "How I’d Learn AI in 2025 (If I Knew Nothing)" },
+    { "id": "YOvxh_ma5qE", "title": "Multimodal Embeddings: Introduction & Use Cases (with Python)" },
+    { "id": "Ot2c5MKN_-w", "title": "Multimodal AI: LLMs that can see (and hear)" },
+    { "id": "tMiQIxSX64c", "title": "5 AI Projects You Can Build This Weekend (with Python)" },
+    { "id": "4QHg8Ix8WWQ", "title": "Fine-Tuning BERT for Text Classification (Python Code)" },
+    { "id": "bAe4qwQGxlI", "title": "I Built an AI App in 4 days... here's how." },
+    { "id": "FLkUOkeMd5M", "title": "Compressing Large Language Models (LLMs) | w/ Python Code" },
+    { "id": "pNg2DJ4spXg", "title": "Python QuickStart for People Learning AI [Mini-Course]" },
+    { "id": "3PIqhdRzhxE", "title": "Local LLM Fine-tuning on Mac (M1 16GB)" },
+    { "id": "3JsgtpX_rpU", "title": "3 AI Sales Use Cases (that are not a chatbot)" },
+    { "id": "baxaZI_j71I", "title": "3 Reasons Why Businesses Should NOT Use AI" }
+  ],
+  "playlists": [
+
+  ]
+}

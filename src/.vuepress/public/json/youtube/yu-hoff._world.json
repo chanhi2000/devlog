@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "hoff._world",
+    "name": "hoff._world",
+    "profile": "https://yt3.googleusercontent.com/msmAk-BI_R1DAzWulbbxuLD2qmrgCzS7dXlZipn0upEEf8yEPErTUsyYW0lLi6KRyzoXYQkQIA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ljUqRghLkYfU974g_FMzH188umIWbC-HHNNtP3B4OX2o0u6NKv6bE10Z0gpf19ARnK5HaLWGGm4=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-LxaNQjBn_s", "title": "IR Remote Control with a Raspberry Pi on WiFi!" },
+    { "id": "TWkb8mXjiBA", "title": "Designing a Modchip for Nintendo DS - Part 1" },
+    { "id": "jWN8wCNuyec", "title": "How to Host YOUR OWN GitHub with Gitea!" },
+    { "id": "dP9JEkjbt4o", "title": "How I Ported a Pokémon Minigame to the PC!" },
+    { "id": "ZmIO3mMW098", "title": "Why YOU Should Self-Host" },
+    { "id": "VY8IvvIFTEg", "title": "HoffTV LINUX SETUP TOUR 2024 - KDE Plasma 6, Artix, 4 Monitors" },
+    { "id": "aUBeJyfg9GQ", "title": "Coding a Secure Port Forwarding Tool!" },
+    { "id": "ViupbDDjtIM", "title": "My Event Driven Programming Era" },
+    { "id": "cGbFNyQ_OWk", "title": "THREADS - Program in Parallel!" },
+    { "id": "lAwS-V1Co2E", "title": "HoffTV SERVER TOUR 2024 - Hosts, Daemons, Pi's" },
+    { "id": "9nDYYc_7sKs", "title": "How to Write a Linux Daemon from Start to Finish!" },
+    { "id": "IjjZcnwkrAg", "title": "The BIG 3 Embedded Protocols - I2C, SPI, UART" }
+  ],
+  "playlists": [
+
+  ]
+}

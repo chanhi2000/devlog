@@ -14,7 +14,7 @@ export const sidebarEn = sidebar({
           icon: '/images/about/ititinfo/logo.ico',
           children: [
             '/about/ititinfo/README.md',
-            '/about/ititinfo/onnara-m.md',
+            '/about/ititinfo/onsmob.md',
           ]
         }, {
           text: '(2021-2022) 풀이러닝(주)',

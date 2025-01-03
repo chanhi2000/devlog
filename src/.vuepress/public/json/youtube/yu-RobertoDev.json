@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "RobertoDev",
+    "name": "Roberto Dev",
+    "profile": "https://yt3.googleusercontent.com/iJxfgw4CYRmySsCChJ6emlGISdcncFkPZfR1mkBPRV33oCOog0RYpbZ3VdhB1xnWXEhqHjBW=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/x8wooszuB3acVp94aOZq_Y4-y_pSL4jzbXf5NE-cdyYCQn3tnkPJoaA6tn9ErKTFjAtI1sQsPQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KQxrB9nyYjM", "title": "Generating Story with AI (Storyblok + Ollama and Structured Output)" },
+    { "id": "WWsC0qMtrtU", "title": "Upgrading to RectorPHP v2 and PHPstan v2" },
+    { "id": "69JnMJGpoiw", "title": "Robertito AI - Proof of Concept" }
+  ],
+  "playlists": [
+
+  ]
+}

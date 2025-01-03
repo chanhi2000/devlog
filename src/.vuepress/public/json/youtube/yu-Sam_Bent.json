@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Sam_Bent",
+    "name": "Sam Bent",
+    "profile": "https://yt3.googleusercontent.com/Y13SlAFx0dn5pkLi6wGIFxZ56iC017bH1nTLxYmJIyT4InWzHo2XVbDNuiAGKKXpym3L6OwzOg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FimSk3SUFXnBtYuzy3cYzNlxCjBF5LOLxBpTbpNHhUdMeR46WOG2N4MVFVFOumpCZBsUvG_1Gg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1nOhS5n6vho", "title": "National Public Data Breach Exposes 2.9 Billion Records | Essential Security Tips" },
+    { "id": "vBjg21XvSl4", "title": "Darknet Discussions E05: Community Comments, 'Just-Us' System, VXDB, Legal Cases" },
+    { "id": "VtLs1CpdNEY", "title": "EU Tries to Kill End-To-End Encryption" },
+    { "id": "uPWT5Dl1bSk", "title": "Blockchain Explorer #darkweb #darknet #tor #hidden site" },
+    { "id": "jYDyGlZCdjg", "title": "Darknet Discussions E6 - First Darknet Merger, DrugHub & SuperMarket, CodeIsLaw, Fish Market Rebrand" },
+    { "id": "orhbPAIGt9A", "title": "USDoD and EMOs 'war' on BreachForums - Part 1: Free Breach Data" }
+  ],
+  "playlists": [
+
+  ]
+}

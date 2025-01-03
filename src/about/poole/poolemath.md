@@ -44,11 +44,11 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ## 개요
 
-::: info MyScript SDK 수식필기변환 기반 앱
+::: important MyScript SDK 수식필기변환 기반 앱
 
 [![(2021-2022) 풀이수학: 수학문제집 관리 앱](/images/about/poole/poolemath/poolemath-logo.gif)](https://poolemath.com)
 
-사용 스택: <ShieldsGroup logos="openjdk,intellijidea,gradle,android,androidstudio,git,firebase,jetpackcompose,bitbucket,jira,confluence"/>
+사용 스택: <ShieldsGroup logos="openjdk,kotlin,intellijidea,gradle,android,androidstudio,git,firebase,jetpackcompose,bitbucket,jira,confluence"/>
 
 :::
 
@@ -85,7 +85,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ## 프론트엔드
 
-### <FontIcon icon="fa-brands fa-android"/>Android - 메인 문제지
+::: info <FontIcon icon="fa-brands fa-android"/>Android - 메인 문제지 앱
 
 <ImageGallery paths="
   /images/about/poole/poolemath/poolemath-m-1.webp
@@ -96,8 +96,6 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
   /images/about/poole/poolemath/poolemath-m-6.webp
 "/>
 
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
-
 - 공통 UI 적용 및 개선 (Material UI)
 - <FontIcon icon="fa-brands fa-android"/>Android SDK: 28 → 30
 - <FontIcon icon="iconfont icon-jetpack-compose"/>Jetpack Compose 사용을 위한 대비
@@ -107,7 +105,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 :::
 
-### <FontIcon icon="fa-brands fa-android"/>Android - 수식입력기 (자사직원용)
+::: info <FontIcon icon="fa-brands fa-android"/>Android - 수식입력기 (자사직원용)
 
 <ImageGallery paths="
   /images/about/poole/poolemath/latex-m-1.webp
@@ -116,9 +114,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
   /images/about/poole/poolemath/latex-m-4.webp
 " isOneRow="true"/>
 
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
-
-**<FontIcon icon="fas fa-code-branch"/> v2.1.0**
+> <FontIcon icon="fas fa-code-branch"/> v2.1.0
 
 - 공통 UI 적용 및 개선 (Material UI)
 - [Jadx (<FontIcon icon="iconfont icon-github"/>`skylot/jadx`)](https://github.com/skylot/jadx)를 사용하여 apk decompile 후 소스 복구 (전임자 관리 미흡)
@@ -126,7 +122,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 :::
 
-### <FontIcon icon="fa-brands fa-android"/>Android - 어드민
+::: info <FontIcon icon="fa-brands fa-android"/>Android - 어드민
 
 <ImageGallery paths="
   /images/about/poole/poolemath/admin-m-1.webp
@@ -134,9 +130,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
   /images/about/poole/poolemath/admin-m-3.webp
 "/>
 
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
-
-**<FontIcon icon="fas fa-code-branch"/> v0.0.1**
+> <FontIcon icon="fas fa-code-branch"/> v0.0.1**
 
 - 공통 UI 적용 및 개선 (Material UI)
 - <FontIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)

@@ -2834,5 +2834,12 @@
     "topics": ["kubernetes", "platform", "framework", "product", "promise"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/8ba996b7d32dbe4d49f79a092b0c770e16703f50db4d6c25cc2cf53a0dca5dab/syntasso/kratix"
+  }, {
+    "repo": "glojurelang/glojure",
+    "desc": "Clojure interpreter hosted on Go, with extensible interop support.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/570750090/6e70cd38-3c44-4bdb-a204-0ef41d9cb9da"
   }
 ]

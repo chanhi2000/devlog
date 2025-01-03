@@ -3860,8 +3860,8 @@
     "desc": "I'm sick of complex blogging solutions, so markdown files in a git repo it is",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/058525771648612082c9930d7eb6282029584843464c49f616fb9a35c0d7dccd/francisrstokes/githublog"
   }, {
     "repo": "frost-beta/node-mlx",
     "desc": "Machine learning framework for Node.js.",

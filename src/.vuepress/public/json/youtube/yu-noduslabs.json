@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "noduslabs",
+    "name": "Nodus Labs",
+    "profile": "https://yt3.googleusercontent.com/a-Ax1zBCUDgUn1iSbm_LEguxULHDMKKf58COTUAz2CbkMEZMxUPuEG9e2m_XpAhgNay8su5sxPM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wzGqToeLOh2nyPVkY5ySGmjncOEhOgJ1OvnD4DRz3LDZ6PTde0BtlXAu4A7hHvFzshrgNfQWgw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "18mgJsHYhw0", "title": "This ChatGPT Prompt Engineering App Finds Gaps in Your Conversations!" },
+    { "id": "23Y_tn5mbCo", "title": "How to Make Sense of Your Obsidian Notes with InfraNodus Graph View Plugin" },
+    { "id": "8Y5Xvxwl_II", "title": "Revolutionalize Your Brainstorming using Windsurf AI, Obsidian, and InfraNodus Graph View" },
+    { "id": "Fo3DUFgXU18", "title": "How to Find SEO Keywords for Website" },
+    { "id": "PXIbZJP1Mkw", "title": "Cursor AI and InfraNodus: Write x10 Faster" },
+    { "id": "itsGX3UioLk", "title": "Build a Prototype in Minutes with InfraNodus and Bolt AI Chatbot!" },
+    { "id": "tbzZWoE4GJ8", "title": "Turn Your SaaS Business Idea into Reality with InfraNodus and Windsurf AI" },
+    { "id": "xqFM4jwr-Jw", "title": "Make AI Think With You, Not For You | ChatGPT, Obsidian, and InfraNodus" },
+    { "id": "yNCI3DC3tLg", "title": "Mapping Knowledge with AI: The Future of Learning" },
+    { "id": "YqkSfS-GKNw", "title": "How to Analyze Knowledge Graphs using Network Science | Obsidian and InfraNodus" },
+    { "id": "pTpFsbj1p8w", "title": "How to Summarize Better than ChatGPT: Extract Main Topics from Google Search or PDFs with InfraNodus" },
+    { "id": "_cpUc0HKOH0", "title": "How to Find What People Are Interested In? (in relation to AI)" },
+    { "id": "XkVtGS-v_7k", "title": "How to Read and Interpret a Knowledge Graph | InfraNodus Tutorial: Network Science | AI Automation" },
+    { "id": "tIBepP5DWgw", "title": "How to Reveal Underlying Ideas with InfraNodus and ChatGPT o1 AI Model" },
+    { "id": "kTjZ6EWW3zQ", "title": "Powerful AI Automation Workflows with Make Com, InfraNodus, and ChatGPT o1" },
+    { "id": "MT0OrJMCmaQ", "title": "ChatGPT: Custom GPT Instructions and Finding Blind Spots in Ideas" },
+    { "id": "9WFUF13zItw", "title": "Supercharge Reading with a Knowledge Graph AI Interface" },
+    { "id": "WkD_IDur5_A", "title": "How to Research any Topic with InfraNodus, Obsidian, and ChatGPT" },
+    { "id": "f9GEQIBW-_0", "title": "How to Write an Essay with InfraNodus, Obsidian, ChatGPT, and Quillbot" },
+    { "id": "1-gwnKyuiX0", "title": "The Best AI Browser Extensions for Research: Harpa, InfraNodus, Perplexity and Casper" },
+    { "id": "wCEhiIJsmrg", "title": "Learning about Knowledge Representation using AI and Knowledge Graph | InfraNodus" },
+    { "id": "QEK_liUuXpE", "title": "How to Watch YouTube Using an AI Knowledge Graph Interface" },
+    { "id": "8wHmh9Bjato", "title": "How to Visualize CSV Spreadsheet Data as a Knowledge Graph and Use AI to Understand its Content" },
+    { "id": "2afRASNxXlE", "title": "Generate Midjourney Image Prompts Using Knowledge Graphs and AI with InfraNodus" },
+    { "id": "s_Qn0-cM4Is", "title": "Amazon Kindle Highlights: Generate Ideas with AI and Knowledge Graphs | Readwise Alternative" },
+    { "id": "1iDNQi6ih60", "title": "The New Obsidian Graph View Plugin: InfraNodus AI Knowledge Graph" }
+  ],
+  "playlists": [
+
+  ]
+}

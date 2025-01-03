@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/YWcAYbFy8YXLHlfP9Un2JQjf-PCSKlwTd7yAOs8BHxF8qmsVAz2kiQ7mJjEkt7y8wonzPdL3Qw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "A_XGsAl-LqY", "title": "the worst man in tech" },
+    { "id": "606bA1qXFb8", "title": "I Solved 1000 Leetcode Questions And This Is What I Learned" },
     { "id": "x7v6SNIgJpE", "title": "FULL Introduction To HTMX Using Golang" },
     { "id": "FrMRyXtiJkc", "title": "How to Vim in 2023: Tips and Tricks" },
     { "id": "w7i4amO_zaE", "title": "0 to LSP : Neovim RC From Scratch" }, 

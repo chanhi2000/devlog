@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "typecraft_talks",
+    "name": "typecraft talks",
+    "profile": "https://yt3.googleusercontent.com/4ERFnB0dM62mYGAXzYxrfqbzHUrlJDv_FznBpsuklxxWypkreN-PcwbGnPrgQf0p57ZN2sE3evM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/N-w4Ia7tRJaSjXBxzEFJYK3dZ8l5n0BQ2LtA2ouIWJTFWFqRGqjRNIcEYF38tcibLwN7c9ve3A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Yt9JWX-h5Lo", "title": "The BEST way to learn vim without configuration" },
+    { "id": "hrFWNuHCL8Y", "title": "What the hell is Yazi ??" },
+    { "id": "XIBXrIATJV0", "title": "Bat and Catppuccin are AMAZING together" },
+    { "id": "gTyafjDGBXA", "title": "DOCKER? BARELY EVEN KNOW 'ER" },
+    { "id": "S_Eev8TLbRg", "title": "DOCKER AND FZF" },
+    { "id": "4N6tcdELgms", "title": "Why use tmux on a remote server?" }
+  ],
+  "playlists": [
+
+  ]
+}

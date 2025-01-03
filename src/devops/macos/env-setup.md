@@ -248,6 +248,8 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/fnm:$PATH
 # for Rancher Desktop
 export DOCKER_HOST=unix:///var/run/docker.sock
+# for Ghostty
+export GHOSTTY_CONFIG="$HOME/Library/Application\ Support/com.mitchellh.ghostty/config"
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -368,6 +370,8 @@ export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
 alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    nsions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
 alias startKVM='brew services start libvirt'
 alias stopKVM='brew services stop libvirt'
+alias ghostty-config="vi $GHOSTTY_CONFIG"
+
 # launch starship.sh
 eval "$(starship init zsh)"
 

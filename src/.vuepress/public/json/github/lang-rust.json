@@ -2704,5 +2704,40 @@
     "topics": ["rust", "postgres", "postgresql", "rustlang", "postgresql-extension"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/228908078/c13b4b8d-9ab9-4a6e-92af-24973df4953a"
+  }, {
+    "repo": "privastead/privastead",
+    "desc": "Contribute to privastead/privastead development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/7d97445bce7d969a03a1d67c60f43d98daf644615e231345643af35a7d71d80a/privastead/privastead"
+  }, {
+    "repo": "copper-project/copper-rs",
+    "desc": "Purpose-built, Rust-native software engine for robotics",
+    "officialSite": "https://www.copper-robotics.com",
+    "topics": ["rust", "robotics", "ros"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/886ebe3eadeea6deb7e5663b4677fc906adf03e284524f6f81ae9bf510dc5021/copper-project/copper-rs"
+  }, {
+    "repo": "SeekStorm/SeekStorm",
+    "desc": "SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust",
+    "officialSite": "https://seekstorm.com",
+    "topics": ["search", "rust", "search-engine", "query", "realtime", "saas", "full-text-search", "index", "apache2", "bm25", "enterprise-search", "search-service", "geosearch", "faceting", "okapi-bm25", "search-server", "lexical-search", "sparse-retrieval"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3f05e1161f1fab4dadffdc67e5829e1c26fab423332274b879f9b0f7f11987b7/SeekStorm/SeekStorm"
+  }, {
+    "repo": "JeffrayZhang/terse-cli",
+    "desc": "Contribute to JeffrayZhang/terse-cli development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/566f32e40dd65fb5abbe6c3b55190f1147819e5302cfdb63a57034cc1fe6c786/JeffrayZhang/terse-cli"
+  }, {
+    "repo": "trailbaseio/trailbase",
+    "desc": "A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite &amp; V8. : A blazingly fast, open...",
+    "officialSite": "https://trailbase.io",
+    "topics": ["rust", "database", "authentication", "rest-api"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/695277c4dcfdc1d45759113229d6777f47671391453a5e5b4f82f721636ea4c8/trailbaseio/trailbase"
   }
 ]

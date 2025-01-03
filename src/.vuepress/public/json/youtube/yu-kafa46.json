@@ -6,6 +6,17 @@
     "banner": ""
   },
   "videos": [
+    { "id": "G4SVV7bppyg", "title": "[OpenAI Whisper CS-based File ASR]_03. 프런트 구현 - base.html 및 main.html 코딩" },
+    { "id": "mSwujzcZ__A", "title": "[OpenAI Whisper CS-based File ASR]_02. 프로젝트 구조(폴더) 잡기, , 기본 설정파일 코딩" },
+    { "id": "IM-Ano8Yfdc", "title": "[OpenAI Whisper CS-based File ASR]_05. 음성파일 첨부를 위한 프런트엔드(asr_file.html) 구현" },
+    { "id": "wAw7TcEFpGw", "title": "[OpenAI Whisper CS-based File ASR]_04. 서버 - 일부 views 구현, 서버 구동, base.html 업데이트" },
+    { "id": "PgoHzI1TNlA", "title": "[OpenAI Whisper CS-based File ASR]_06. JavaScript 이용하여 멀티 파일 첨부 구현하고, 업로드 파일 보안 적용하기" },
+    { "id": "Zz5U4xltx_c", "title": "[OpenAI Whisper CS-based File ASR]_08. 음성 파일을 서버로 전송하기 위한 프런트(JavaScript) 및 서버(upload function) 구현" },
+    { "id": "6ZMVdTqzSbA", "title": "[OpenAI Whisper CS-based File ASR]_07. ASR 처리를 위한  클라이언트 - 서버 메시지 교환 로직의 이해" },
+    { "id": "uXG0ht9OdDw", "title": "[OpenAI Whisper CS-based File ASR]_09. 클라이언트는 음성 파일을 서버로 전송, 서버는 전송 받은 파일을 저장하는 기능 구현" },
+    { "id": "stBpJ4OrPcE", "title": "[OpenAI Whisper CS-based File ASR]_11. (코딩 마무리) 서버는 AI 엔진으로 텍스트 변환, 클라이언트는 최종 텍스트를 시현하는 기능 구현" },
+    { "id": "VFiIujieAIc", "title": "[OpenAI Whisper CS-based File ASR]_10. 서버는 음성 파일을 처리하여 클라이언트로 보내고, 클라이언트는 데이터를 받아 페이지를 업데이트 하는 기능 구현" },
+    { "id": "df_dGc5SqPo", "title": "[OpenAI Whisper CS-based File ASR]_12. Adjourning! 미니 프로젝트 마무리 인사" },
     { "id": "Q7SqTAH0pHk", "title": "[전이학습+딥러닝 서비스]_01. orientation" },
     { "id": "pstczQsOVSU", "title": "[전이학습+딥러닝 서비스]_03. 음성파일 변환 ( .pcm 을 .wav 파일로 변환)" },
     { "id": "tqqJbk_JK8k", "title": "[전이학습+딥러닝 서비스]_02. Dataset Acquisition (데이터 확보)" },

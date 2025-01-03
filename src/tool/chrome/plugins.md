@@ -270,7 +270,12 @@ tag:
 }
 ```
 
-
+<SiteInfo
+  name="React code finder"
+  desc="Chrome extension for React Developer"
+  url="https://chromewebstore.google.com/detail/react-code-finder/bbidpgoneibefablhfcnaennjkfbflmk"
+  logo="https://lh3.googleusercontent.com/gpzBVfjstG2QoWdFTWU-h8CF3S832U71ohEgrZ7wmFNEBLe1HtIXxJxmzgnXrFUcUPJbHnvg5NFeQx9tbgvY6fi6EQ=s120"
+  preview="https://lh3.googleusercontent.com/eeK9hk0r6tVsceaDsFb2qPr831qXxs8mrjv6mZLcW0RlwPT-YO__r20mIJ9Ro5-5zY967C_9SuVlGQLq_Z-nj6R1skc=s1280-w1280-h800"/>
 
 <SiteInfo
   name="Quick Copy Link"

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/DacH4SAb7No42OysH89UhSBZNoxW7_AyCNMhxQgiHCGWjjhyaIKVXpAxIJo7YSDoHpH2_XBr5g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xFoM99aAbUk", "title": "Индикатор заполнния в Jetpack Cmpose (адаптивная строка) | Android Studio | Kotlin" },
     { "id": "6-u0UBTJ5is", "title": "Запрашиваем Permissions в Jetpack Compose в Android Studio" },
     { "id": "Zwr8Qedm8_c", "title": "Подключение к удаленному Android устройству с Firebase в Android Studio JellyFish" },
     { "id": "vvG9Avp5NBg", "title": "Content Provider - Основной Компонент Android Приложения | Android Studio Основы | Kotlin | БАЗА" },

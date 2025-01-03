@@ -1,6 +1,6 @@
 ---
 lang: ko-KR
-title: "스마트해법 앱북개발"
+title: "스마트해법 앱북"
 description: "(2021-2022) 앱북: 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동"
 icon: /images/about/poole/smarthb/ico-appbook.png
 category: 
@@ -26,7 +26,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: "스마트해법 앱북개발"
+      content: "스마트해법 앱북"
     - property: og:description
       content: "(2021-2022) 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동"
     - property: og:url
@@ -45,11 +45,11 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ## 개요
 
-::: info MyScript SDK 수식필기변환 기반 PDF 뷰어앱
+::: important MyScript SDK 수식필기변환 기반 PDF 뷰어앱
 
 [![(2021-2022) 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동](/images/about/poole/smarthb/appbook-m-1.webp)](http://editor-v1.poolemath.com)
 
-사용 스택: <ShieldsGroup logos="openjdk,intellijidea,gradle,android,androidstudio,git,firebase,bitbucket,jira,confluence,docker,nodedotjs,mysql,express,amazons3"/>
+사용 스택: <ShieldsGroup logos="openjdk,kotlin,intellijidea,gradle,android,androidstudio,git,firebase,bitbucket,jira,confluence,docker,nodedotjs,mysql,express,amazons3"/>
 
 :::
 
@@ -88,15 +88,13 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook-launcher.png =x24) 앱북런처
 
-### <FontIcon icon="fa-brands fa-android"/>프론트 Android
+::: info <FontIcon icon="fa-brands fa-android"/> Android
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-launcher-m-1.webp
 "/>
 
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
-
-**<FontIcon icon="fas fa-code-branch"/> v16.x**
+> <FontIcon icon="fas fa-code-branch"/> v16.x
 
 - 공통 UI 적용 및 개선 (Material UI)
 - 리펙토링 (UI / API / 파일관리 / DB)
@@ -105,16 +103,14 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-### <FontIcon icon="iconfont icon-expressjs"/>백엔드 Express.js
+::: info <FontIcon icon="iconfont icon-expressjs"/>백엔드 Express.js
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-launcher-b-1.webp
   /images/about/poole/smarthb/appbook-launcher-b-2.webp
 "/>
 
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
-
-**<FontIcon icon="fas fa-code-branch"/> v16.x**
+> <FontIcon icon="fas fa-code-branch"/> v16.x
 
 - <FontIcon icon="fa-brands fa-aws"/>AWS EC2 인스턴스 관리
 - 소스 복구 및 개발 환경 재구성
@@ -127,7 +123,7 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook.png =x24) 앱북
 
-### <FontIcon icon="fa-brands fa-android"/>Android
+::: info <FontIcon icon="fa-brands fa-android"/>Android
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-m-1.webp
@@ -136,8 +132,6 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
   /images/about/poole/smarthb/appbook-m-4.webp
   /images/about/poole/smarthb/appbook-m-5.webp
 "/>
-
-::: details <FontIcon icon="fas fa-circle-info"/> 상세정보
 
 - 공통 UI 적용 및 개선 (Material UI)
 - 리펙토링 (UI / API / 파일관리 / DB)

@@ -1868,5 +1868,12 @@
     "topics": ["ruby", "css", "parser", "html5", "web-scraping", "xpath", "c-extension", "serpapi"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/571801927/2d1fa557-9635-456b-b58e-cdea96fad645"
+  }, {
+    "repo": "keyvank/30cc",
+    "desc": "30 C Compiler. Contribute to keyvank/30cc development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": ["c", "compiler", "educational"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1ee3cbb8e85a0fd92223c9590cb625d2a6e4a355d4e7cb38a6f468460ae6d709/keyvank/30cc"
   }
 ]

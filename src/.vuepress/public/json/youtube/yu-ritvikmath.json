@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/-rCmCQJVASU_pb0AvQszD1DvLCjEOzdH-UtimFKTxaRew6J-Uj3g3SITNjsiNbibvFhy0Oi2_g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dC3_IKaBXTk", "title": "Contrastive Loss : Data Science Basics" },
+    { "id": "PfHtXVWVgsQ", "title": "Triplet Loss : Data Science Basics" },
+    { "id": "O5-A2ensKb0", "title": "Harris vs. Trump : A Data Scientist's Final Prediction (1 Day To Go)" },
+    { "id": "uLcKyZvNS3c", "title": "Harris vs. Trump : A Data Scientist's Prediction (1 Month To Go)" },
+    { "id": "HREbdmOSQ18", "title": "Retrieval Augmented Generation (RAG) Explained in 8 Minutes!" },
+    { "id": "EZ0Il0X3YPY", "title": "You Can't Solve This Integral Without Making It Harder" },
+    { "id": "2XegvMul_mE", "title": "Every Ranking Metric : MRR, MAP, NDCG" },
+    { "id": "wU9CZIFkO6U", "title": "All The Math You Need For Attention In 15 Minutes" },
+    { "id": "emvAoOQU-nA", "title": "Harris vs. Trump : A Data Scientist's Prediction (3 Months To Go)" },
+    { "id": "HA-VHNVbvwQ", "title": "Gaussian Processes : Data Science Concepts" },
+    { "id": "lKIY4dN6RRI", "title": "Interrupted Time Series : Data Science Concepts" },
     { "id": "D1iSS_og7dM", "title": "Call Options : The Intuition and Math You Need" },
     { "id": "-_DTyUXXels", "title": "When Higher Volatility is Better in the Stock Market : Call Options" },
     { "id": "MdANnmV-Dtc", "title": "Why You Shouldn't Trust Your ML Models (...too much)" },

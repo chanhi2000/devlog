@@ -46,11 +46,35 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
   logo="/images/about/ititinfo/logo.ico"
   preview="http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a1f60_water__c1_w1920_h1080.jpg"/>
 
-- 2022-2023년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업
-  - 온나라 문서 모바일 앱 (`v1.0`/`v2.0`)
-  - 온나라 문서 모바일용 중계서버 (`v1.0`/`v2.0`)
-  - 온나라 문서 모바일용 결재서버 (`v1.0`/`v2.0`)
+<p style="display:flex;align-items:center;justify-contents:flex-start">
+  <a href="http://www.urpsys.com/" style="margin-right:10px;">
+    <img alt="URP(주)" src="/images/about/logo-urp-v2.png" height="20px"/>
+  </a>
+  <a href="http://ititinfo.com/" style="margin-right:10px;">
+    <img alt="아이티정보기술(주)" src="/images/about/ititinfo/logo.ico" height="20px"/>
+  </a>
+  <a href="https://www.klid.or.kr/" style="margin-right:10px;">
+    <img alt="한국지역정보개발원" src="/images/about/logo-klid.png" height="40px"/>
+  </a>
+  <a href="https://www.mois.go.kr/frt/a01/frtMain.do">
+    <img alt="행정안전부" src="/images/about/logo-mois.png" height="40px"/>
+  </a>
+</p>
+
+- 2022-2024년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 (모바일서비스팀 PL)
+  - 모바일온나라 앱 (1.0 / 2.0)
+  - 모바일온나라 중계서버 (1.0 / 2.0)
+  - 모바일온나라 결재서버 (1.0 / 2.0)
   - 기타 툴 (API 및 웹서비스 테스팅, SSO로그인 검증, etc.)
-  - 모바일서비스팀 총괄
 
 ## 참여 프로젝트
+
+```component VPCard
+{
+  "title": "모바일 온나라 1.0/2.0 (Android, Spring)",
+  "desc": "(2022-2024) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
+  "link": "/about/ititinfo/onnara-m.md",
+  "logo": "/images/about/ititinfo/onsmob-v2/icon.png",
+  "background": "rgba(102,125,176,0.2)"
+}
+```

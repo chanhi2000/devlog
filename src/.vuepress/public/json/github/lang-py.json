@@ -8422,5 +8422,12 @@
     "topics": ["text-to-speech", "translator", "translation", "podcasts", "tts", "speech-synthesis", "subtitles", "speech-recognition", "webui", "speech-to-text", "transcription", "gradio", "stt", "whisper", "voice-conversion", "voice-cloning", "yt-dlp", "faster-whisper"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/835174033/a5a09559-8c29-4152-a7ac-f30774226d19"
+  }, {
+    "repo": "lmnr-ai/flow",
+    "desc": "A lightweight task engine for building stateful AI agents that prioritizes simplicity and flexibility.",
+    "officialSite": "",
+    "topics": ["workflow", "ai", "ai-agents", "llm", "llm-agent", "aiagent"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/317ba0208450e2bb98599e1d24f7fd612ad3682b3fbff4cd70179b60be0d6d6c/lmnr-ai/flow"
   }
 ]

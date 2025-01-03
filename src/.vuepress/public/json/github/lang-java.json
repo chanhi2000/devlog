@@ -1131,5 +1131,12 @@
     "topics": ["java", "authorization", "sso", "token", "springcloud", "aouth2"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/237940592/6d2b958a-b8f5-41d1-ba19-d7b099014ba9"
+  }, {
+    "repo": "ilevd/cwp",
+    "desc": "Indentation-based syntax for Clojure. Contribute to ilevd/cwp development by creating an account on GitHub.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/866f4e3ed5378e9891be89447f29054784651a4a77180cc11bb8e3031f759c01/ilevd/cwp"
   }
 ]
