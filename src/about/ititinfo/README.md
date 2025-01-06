@@ -74,7 +74,7 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
   "title": "모바일 온나라 1.0/2.0 (Android, Spring)",
   "desc": "(2022-2024) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
   "link": "/about/ititinfo/onnara-m.md",
-  "logo": "/images/about/ititinfo/onsmob-v2/icon.png",
+  "logo": "https://gis.ndms.go.kr/gpkisecureweb/image/install/favicon.ico",
   "background": "rgba(102,125,176,0.2)"
 }
 ```

@@ -41,6 +41,16 @@ cover: /images/about/coderman.webp
 
 ::: info 아이티정보기술(주) (2022-2024)
 
+```component VPCard
+{
+  "title": "모바일 온나라 1.0/2.0 (Android, Spring)",
+  "desc": "(2022-2024) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
+  "link": "/about/ititinfo/onnara-m.md",
+  "logo": "https://gis.ndms.go.kr/gpkisecureweb/image/install/favicon.ico",
+  "background": "rgba(102,125,176,0.2)"
+}
+```
+
 :::
 
 ::: info 풀이러닝(주) (2021-2022)
@@ -57,7 +67,7 @@ cover: /images/about/coderman.webp
 
 ```component VPCard
 {
-  "title": "스마트해법 앱북개발 (Android)",
+  "title": "스마트해법 앱북 (Android)",
   "desc": "(2021-2022) 앱북: 스마트해법 초중등생 PDF기반 수학문제집 뷰어 및 문제풀이기능 연동",
   "link": "/about/poole/smarthb.md",
   "logo": "/images/about/poole/smarthb/ico-appbook.png",
