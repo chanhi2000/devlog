@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/qbfezfBoswZBuoSQb9ni1pUUrKI55FZ4sJt4bXJC0R0Qk7gRk0fjiojwST-33PGPfSKZZkOS8g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "dxCXjY4ck4w", "title": "How To Draw Animation Layout from Photos in Krita" },
+    { "id": "2RJWf_MoEl8", "title": "Zelda: Ocarina of Time Dodongo's Cavern [full playthough] on Mobile Part 1" },
+    { "id": "tFqKbZ8aCL0", "title": "Digital Inking Time lapse - Krita" },
     { "id": "eUjtZMm3M-A", "title": "Anime Art Speed Draw (Tutorial)" },
     { "id": "OoaaZsHR0GE", "title": "llama2.cpp Testing Locally with Python bindings" }
   ]

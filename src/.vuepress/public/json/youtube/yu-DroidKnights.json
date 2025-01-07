@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/H0a1_Oh7frZv7exHCVNcD9ZwToVipSIrQ-kMWzwF4c2pfBWZSosFIt6Yfr7abtxNjG7OP1vyu8g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "slliYu30BSs", "title": "[DroidKnights 2024] 이현우 - TextField 씹고 뜯고 맛보고 즐기고" },
+    { "id": "wlRz2pCbXno", "title": "[DroidKnights 2024] 정동진, 최재웅 - 시니어와 주니어의 협업 다리: 온라인 및 오프라인 페어코딩의 통찰" },
+    { "id": "whLkAVe4zU8", "title": "[DroidKnights 2024] hikaMaeng - 코틀린 제로베이스 DSL" },
+    { "id": "sCbwuflHPhQ", "title": "[DroidKnights 2024] 최우성 - Compose로 Animation 만들기 feat.holographic Card" },
+    { "id": "dqQtrGq4bis", "title": "[DroidKnights 2024] 권대원 - Compose Material3 커스텀 디자인 시스템 구축기" },
+    { "id": "P8yq5uBJs8Q", "title": "[DroidKnights 2024] 모진섭 - 플레이어 SDK 개발자의 Kotlin Multiplatform 도입기" },
+    { "id": "NXPDo7OEFic", "title": "[DroidKnights 2024] 신현성 - Accessibility in android" },
+    { "id": "bDyhdJk3uZM", "title": "[DroidKnights 2024] 엄재웅 - Compose 성능 최적화를 위한 Stability 마스터하기" },
+    { "id": "_MJKDp9PBaA", "title": "[DroidKnights 2024] 김수현 - Compose UI 컴포넌트 설계와 테스트" },
+    { "id": "UBgwehPkauc", "title": "[DroidKnights 2024] 차영호 - 당신의 앱 빌드는 안녕하십니까?" },
+    { "id": "AoC4rmVx5Pk", "title": "[DroidKnights 2024] 문종락 - 혹시 API Mocking좀 해주실래요? - API Mocking 도구로 생산성 올리기" },
+    { "id": "DARIAD2yUFE", "title": "[DroidKnights 2024] 윤혁 - 고객사의 context에 최소 영향으로 채널톡 SDK에 다크모드 적용하기" },
+    { "id": "8Sov1nMbSx8", "title": "[DroidKnights 2024] 배필주 - 앱 성능 영혼까지 끌어올리기" },
+    { "id": "a-wkBubv4eo", "title": "[DroidKnights 2024] 김태성 - Github Actions로 효율적인 배포 환경 만들기" },
   ],
   "playlists": [
     {

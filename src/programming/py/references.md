@@ -2497,6 +2497,14 @@ head:
 
 ---
 
+## Armin Ronacher's Thoughts and Writings
+
+- [Constraints are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
+
+<!-- END: lucumr.pocoo.org -->
+
+---
+
 ## Project(s)
 
 <SiteInfo

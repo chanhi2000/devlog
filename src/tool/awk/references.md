@@ -29,4 +29,12 @@ head:
 
 ---
 
+## 기계인간 John Grib
+
+- [`awk`](https://johngrib.github.io/wiki/language/awk/)
+
+<!-- END: johngrib.github.io -->
+
+---
+
 <TagLinks />

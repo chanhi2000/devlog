@@ -43,6 +43,8 @@
 
 <script>
   import YouTubeItem from './YoutubeItem.vue';
+  // import ytChannel from './js/sqlite/models/ytChannel';
+
   export default {
     name: "MyYouTubeItems",
     components: { YouTubeItem },
@@ -68,7 +70,9 @@
           return;
         }
         
-        const res = await fetch(`/json/youtube/${jsonName}.json`);
+        let res = {}
+        // res = await ytChannel.findByChannelId(jsonName)
+        res = await fetch(`/json/youtube/${jsonName}.json`);
         const ytInfo = await res.json();
         const YOUTUBE_URL = 'https://www.youtube.com';
         const titlePredicate = (v) => {

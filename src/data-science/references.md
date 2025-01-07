@@ -109,6 +109,14 @@ head:
 
 ---
 
+## <FontIcon icon="fa-brands fa-medium"/>Medium
+
+- [`rate-labs` / 언제까지 블룸 필터만 쓸 것인가: Ribbon Filter](https://medium.com/rate-labs/%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80-%EB%B8%94%EB%A3%B8-%ED%95%84%ED%84%B0%EB%A7%8C-%EC%93%B8-%EA%B2%83%EC%9D%B8%EA%B0%80-ribbon-filter-40ca19b42286)
+
+<!-- END: medium.com -->
+
+---
+  
 ## tistory
 
 - [`jusths` / just_HS](https://jusths.tistory.com/m/)
@@ -191,6 +199,14 @@ head:
 - [동시에 2명의 사람이 같은 자리에 예약을 하려고 한다면? | 개발자 면접](https://m.blog.naver.com/jhc9639/223660020983)
 
 <!-- END: jhc9639 (blog.naver.com) -->
+
+---
+
+## Matt Blewitt
+
+- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+
+<!-- END: matt.blwt.io -->
 
 ---
 

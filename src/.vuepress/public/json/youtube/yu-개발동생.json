@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "개발동생",
+    "name": "개발동생",
+    "profile": "https://yt3.googleusercontent.com/ugvxynBrJLsT4wj40Nvef5n7nZAg8LdDn1Bge9razo5rKV5LVzWh1bxIAaRLWcPYe4pnifccog=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "82UUYNEu2iM", "title": "Github Copilot vs Cursor, Windsurf | 제가 대신 비교 해봤습니다" },
+    { "id": "I5fLD57GUaQ", "title": "DeepSeek V3, 중국에서 만든 무료 오픈소스 LLM | 근데 왜 GPT라고 그러니…?" },
+    { "id": "2ko3f9rPAoQ", "title": "현 시점 가장 빠르게 AI로 풀스택 개발하는 방법 | Lovable.dev" },
+    { "id": "CtLzkom7tgw", "title": "Cursor와 Windsurf 성능 10배 향상시키는 AI 규칙 설정 방법 | cursorrules" },
+    { "id": "ATGhIy7EMZw", "title": "커서 AI 좀 긴장해야겠습니다... | Windsurf AI 에디터" },
+    { "id": "L_jHozifvy0", "title": "팀 프로젝트 쉽게 구하는 법! | 팀원 모집, 프로젝트 관리까지 한 번에 해결가능합니다." },
+    { "id": "26qUIBx_Bl0", "title": "Cursor AI를 사용해서 Supabase 데이터베이스 연동 방법" },
+    { "id": "quFefxWQPi4", "title": "코드편집기 커서가 더 강력해졌습니다! | 이번 기능 꼭 활용하세요!" },
+    { "id": "MlyRo9SPzlg", "title": "Bolt.new가 정말 Cursor, V0를 대체할 수 있을까요?" },
+    { "id": "4RCBcV2Ucpo", "title": "Cursor, V0, ChatGPT 조합이면 코딩 시간 절반으로 줄일 수 있습니다." },
+    { "id": "Gt40VneLdX4", "title": "Cursor 모든 기능 완벽 정리 | AI 코드 편집기 이거로 정착하세요" },
+    { "id": "Ouv3w6P36oI", "title": "Replit Agent 사용법 및 첫인상 | 코드 편집기 게임체인저?" },
+    { "id": "TPBPbEeJyF0", "title": "Vercel V0 사용법 완벽 정리 | 프론트엔드 개발 방식이 변하고 있습니다" },
+    { "id": "Lwl7J4JY7Ss", "title": "클로드 3.5 Sonnet 게임 개발 튜토리얼 | AI 코딩" },
+    { "id": "5Nx28ay6pjo", "title": "현존 최강 이미지 생성 AI Flux | 미드저니, 스테이블 디퓨전보다 뛰어남" },
+    { "id": "d3hu0drm0qc", "title": "ChatGPT 가장 빠르게 공부하는 방법 | #유데미" },
+    { "id": "c1fCRP9S1NQ", "title": "Flux 모델 커스텀 가장 쉽고 빠른 방법 | LoRA 학습 방법" },
+    { "id": "4ZQ5LiiFiCw", "title": "ChatGPT 사용한 만큼만 돈내는 방법 | AnythingLLM" },
+    { "id": "ucH_N3jPQ0E", "title": "RAG 누구든지 이해시켜 드릴게요! | AI 필수 지식" },
+    { "id": "4sPWa47oKPQ", "title": "클로드 3.5 Sonnet 프로젝트 기능으로 게임 개발 튜토리얼 | 대박 신기능 추가" }
+  ],
+  "playlists": [
+
+  ]
+}

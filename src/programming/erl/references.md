@@ -29,6 +29,17 @@ head:
 
 - [My Blog Engine is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 
+<!-- END: ferd.ca -->
+
+---
+
+## 기계인간 John Grib
+
+- [Perl 한 줄 사용](https://johngrib.github.io/wiki/cmd/perl-one-liner/)
+
+
+<!-- END: johngrib.github.io -->
+
 ---
 
 <TagLinks />

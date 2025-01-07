@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/Qy43Aqx_aC7e9W5b1W0oxXMebVPjrSdBo831x4bsN0xFZHdr5MbMFuBtij80wEp9bLMULtqveg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Ecq2kcubTnY", "title": "How to create beautiful glowing components on React Native 0.76+" },
+    { "id": "4g26x6FzuBU", "title": "How to build a smoothly animated table of contents (by a bonfire🔥)" },
+    { "id": "hMcE6E8JjXA", "title": "Learn with me: HTMX and HonoJS" },
+    { "id": "fFz034KJbWo", "title": "Hacking the new bridgeless architecture of React Native (as of 0.73) to boost my app performance" },
     { "id": "EJLrssH1ip0", "title": "How to design a beautiful Neovim theme with HSL colors in Lua - NeovimConf 2023" },
     { "id": "fFHlfbKVi30", "title": "Effective Neovim setup for web development towards 2024" },
     { "id": "IGK6eceWyU4", "title": "How to create Ghibli-style trees with three.js" }, 

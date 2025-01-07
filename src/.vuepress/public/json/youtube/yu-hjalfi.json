@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "hjalfi",
+    "name": "Poking Technology",
+    "profile": "https://yt3.googleusercontent.com/DLLJ8kVws7DNekQ7QVOhwPV-KPQcf4o6UBOkrdAZTqt0PSN849_2OMGiAyMHO9yPtc3ddtwEO3s=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/CrR-Zk8IMxVyfvBYFB7I5YDwUoADzZ9zp6hVql4fr_y35FBf9AHebURjq5ScXwjWg2M0nMDU9A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sv58aPvIonw", "title": "Porting Python to a terrible $3 smartwatch" },
+    { "id": "UoIlwze5xp4", "title": "Hacking a BMD Speed Editor keypad into an X11 macropad" }
+  ],
+  "playlists": [
+
+  ]
+}

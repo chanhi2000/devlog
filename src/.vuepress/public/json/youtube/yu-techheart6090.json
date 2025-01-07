@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "techheart6090",
+    "name": "TechHeart",
+    "profile": "https://yt3.googleusercontent.com/qIvB4C5iAGHePuOKf6KzYXiX2ddpwpMRNXbwT6xpxiqO369CRAdmwCPRrEwOQUAFSttBAIcYb5M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8C3KPQhyl6v7-s2ZChkuEucriKw-zARbUpZ1aO7RhG4sn3pbSIh8DPLa3ud8FvrW8u-fwZ27cg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "cUY8kAijL0Y", "title": "\"Hacking\" Wizards Rainbow BBS??" },
+    { "id": "Q0_3gyr1x6I", "title": "Christmas homelabs - what do  you run?!" },
+    { "id": "DbArjUY3v9g", "title": "Framework Laptop Completely Dead? Here's the RTC Battery Fix!" },
+    { "id": "-MLAdcSp1uA", "title": "ServerPartDeals.com warranty process; SCAM or WIN?" },
+    { "id": "mUFhaWEUubI", "title": ".torrent Stack Server w/ PIA VPN & ALL DA SAUCE!" },
+    { "id": "wJ-on-g0aTg", "title": "Why You Should Switch to Immich for Cloud Storage" },
+    { "id": "YCKMmJ4xAvQ", "title": "Burn Windows 10/11 .ISO to USB Stick on MacOS" },
+    { "id": "1vYK8Y41nBA", "title": "Raspberry Pi Proxmox Quorum Server/Node" },
+    { "id": "fJB4Rd9j4bk", "title": "Omakub - A fully customized Linux w/ ONE simple CLI command! Tiling window manager-like w/ Zellig!" },
+    { "id": "v5YWklZ7Am4", "title": "Is ServerPartDeals a SCAM?! [or a great way to buy Recertified HDDs in 2024?]" },
+    { "id": "ZuihpdFCL8o", "title": "PCIe Passthrough on a Proxmox TrueNAS SCALE VM: Building a new 72TB NAS for our community!" }
+  ],
+  "playlists": [
+
+  ]
+}

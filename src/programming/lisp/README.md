@@ -1,8 +1,8 @@
 ---
 lang: ko-KR
-title: Common Lisp
-description: Common Lisp
-icon: iconfont icon-common-lisp
+title: Lisp
+description: Lisp
+icon: iconfont icon-lisp
 category: 
   - Common Lisp
 tag: 
@@ -18,7 +18,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/common-lisp/" />
+<ToCLocal basePath="/programming/lisp/" />
 
 ---
 

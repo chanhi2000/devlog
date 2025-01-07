@@ -76,5 +76,12 @@
     "topics": ["elixir-phoenix", "hls", "livestreaming", "rtmp", "video", "video-sharing"],
     "avatar": "https://avatars.githubusercontent.com/u/72413507?v=4",
     "banner": ""
+  }, {
+    "repo": "poeticoding/yolo_elixir",
+    "desc": "A library for object detection and seamless YOLO model integration in Elixir",
+    "officialSite": "https://hex.pm/packages/yolo",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e1a4bb3927c9c888308a3e09876bee9b53a1b887c7c0f7eb3d5d9eb696345267/poeticoding/yolo_elixir"
   }
 ]

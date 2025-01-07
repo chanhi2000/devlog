@@ -15,7 +15,7 @@ tag:
 {
   "title": "MongoDB",
   "desc": "MongoDB - Databse of Databases",
-  "link": "https://dbdb.io/db/mongodbs",
+  "link": "https://dbdb.io/db/mongodb",
   "logo": "https://dbdb.io/static/core/images/dbdb_io-180x180.png",
   "background": "rgba(38,75,99,0.2)"
 }

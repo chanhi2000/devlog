@@ -220,6 +220,7 @@ tag:
 - [`andresand` / Voice to Text | Kotlin | Android Jetpack Compose](https://andresand.medium.com/voice-to-text-kotlin-android-jetpack-compose-3e4419dcbac3)
 - [`hinchman-amanda` / Reverse-Engineering the Compose Compiler Plugin: Intercepting the Frontend](https://hinchman-amanda.medium.com/reverse-engineering-the-compose-compiler-plugin-intercepting-the-frontend-657162893b11)
 - [`lizarraga.iosu` / 4 useful tips for Compose Kotlin Multiplatform (KMP)](https://medium.com/@lizarraga.iosu/4-useful-tips-for-compose-kotlin-multiplatform-kmp-8809ba1cac51)
+- [`hongbeomi` / 안드로이드 개발자의 2024년 회고](https://hongbeomi.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2024%EB%85%84-%ED%9A%8C%EA%B3%A0-f8e3967c15ed?source=rss-c941a8b6c471------2)
 
 <!-- END: medium.com -->
 

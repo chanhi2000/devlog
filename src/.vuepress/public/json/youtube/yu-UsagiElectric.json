@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "UsagiElectric",
+    "name": "Usagi Electric",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kWMFAwYC31RD7DDFfN_EPnf-eSiyUajXqyPYLqCbE_uNw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/RbCwHseZX49IGsKh8f1vqYOR4iqGOMema7vk_ecgRjhJCOfKJ88mwEJLvjPtdIxJjfNvsAfSTSM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gtiSb0yC5ms", "title": "Eight Data Terminals on the Centurion at Once!" },
+    { "id": "jBaMJcATHHY", "title": "Reviving a Facit 4070 Paper Tape Punch" },
+    { "id": "aEkxFtYOGUg", "title": "VTC P.40 – We Got Squiggles!" },
+    { "id": "7uNl3KO_2zI", "title": "I Thought It Would Be Easy… It Wasn’t" },
+    { "id": "wFoXooShZXc", "title": "Solving the halting problem with my PDP-11/44!" },
+    { "id": "CNMLqabHuY4", "title": "The Most Adorable Data Terminal Ever!" },
+    { "id": "n5nSVbcZ_lI", "title": "I Was Wrong… and It’s Awesome!" },
+    { "id": "2BlCGNhzC6w", "title": "FM is RLL, MFM is RLL, RLL is RLL! Fight me." },
+    { "id": "NvAyjlQikQE", "title": "PDP-11/44 PSU is Slowly Coming Back to Life!" }
+  ],
+  "playlists": [
+
+  ]
+}

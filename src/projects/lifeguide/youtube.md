@@ -156,5 +156,6 @@ head:
 <MyYouTubeItems jsonName="yu-johnsonkb18" /><!-- 순위남 -->
 <MyYouTubeItems jsonName="yu-polarbearjeon" /><!-- 폴라베어 전실장 -->
 <MyYouTubeItems jsonName="yu-drivingori" /><!-- 핸들잡은오리 -->
+<MyYouTubeItems jsonName="yu-nosearch_official" /><!-- 노써치 -->
 
 <TagLinks />

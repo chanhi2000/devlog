@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: Github
     - property: og:url
-      content: https://chanhi2000.github.io/programming/common-lisp/github.html
+      content: https://chanhi2000.github.io/programming/lisp/github.html
 ---
 
 # {{ $frontmatter.title }} 관련

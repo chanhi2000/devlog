@@ -375,6 +375,9 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
   - [n8n - 워크플로우 자동화 도구](https://syaku.tistory.com/m/435)
   - [Traefik: 클라우드 네이티브 시대의 현대적인 리버스 프록시](https://syaku.tistory.com/m/437)
   <!-- END: syaku -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[대기열 시스템\] Windows Docker Desktop 설치](https://hj0216.tistory.com/m/975)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---

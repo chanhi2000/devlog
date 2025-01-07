@@ -56,6 +56,9 @@ head:
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@yongin01` / IntelliJ Kotlin style guide 적용하기](https://velog.io/@yongin01/IntelliJ-Kotlin-style-guide-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [`wisepine` / 나의 GitHub Copilot 활용법 & Tip (for IntelliJ)](https://velog.io/@wisepine/%EB%82%98%EC%9D%98-Github-Copilot-%ED%99%9C%EC%9A%A9%EB%B2%95-Tip-for-IntelliJ)
+
+<!-- END: velog.io -->
 
 ---
 

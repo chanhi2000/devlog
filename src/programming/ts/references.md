@@ -616,6 +616,9 @@ head:
 ## Professional TypeScript Training by Matt Pocock  | Total TypeScript
 
 - [Beginner's TypeScript](https://totaltypescript.com/tutorials/beginners-typescript)
+- [Node.js Now Supports TypeScript By Default](https://www.totaltypescript.com/typescript-is-coming-to-node-23)
+
+<!-- END: totaltypescript.com -->
 
 ---
 

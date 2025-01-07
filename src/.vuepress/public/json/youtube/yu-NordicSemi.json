@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/rhaft_3FLZP44vhjg_29cy5VYaA2HnCq_TCb3HgqTgAR5bVXLtw-etMwDMov24XyOoOhyY4I=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4MdbVd7VXpI", "title": "Exploring the nRF54L Series: Next-level wireless SoCs" },
+    { "id": "ef87Gym_D5c", "title": "Exploring the nRF54L Series: Next-level wireless SoCs" },
+    { "id": "roG7d-VftoM", "title": "Meet the nRF9151 SiP for Cellular IoT" },
+    { "id": "BQBTdynQqYE", "title": "Easy fuel-gauging for any battery-powered Zephyr RTOS application" },
+    { "id": "nFkkktaRL6Y", "title": "nRF54L Series: Enabling next-gen wireless IoT products" },
+    { "id": "kjf5PW39qac", "title": "Developing low-power Wi-Fi 6 products" },
+    { "id": "CY0Vq_Lgs4k", "title": "nRF Connect SDK hands-on, part 1: Rapid prototyping with nRF Connect SDK" },
+    { "id": "HMH6H6Zx9cI", "title": "Getting started with NR+ PHY" },
+    { "id": "89Q4VwlqrJk", "title": "Accelerate your next connected product with Golioth’s end-to-end Reference Designs" },
+    { "id": "JUtqYJ2kxWw", "title": "Adding battery charging and fuel gauging to your nRF52 Series project" },
+    { "id": "1gy2EniTg1g", "title": "Exciting new features in nRF Connect SDK 2.7.0" },
     { "id": "fMaDOH5CEZg", "title": "Sneak peek at nRF9151 - the future of low power cellular IoT" },
     { "id": "DA0s7Dkb_sA", "title": "Connecting the Future: The Power of Cellular IoT in LPWAN Applications" },
     { "id": "nmTRWR9b1AY", "title": "Adding Device Firmware Update (DFU/FOTA) Support in nRF Connect SDK" },

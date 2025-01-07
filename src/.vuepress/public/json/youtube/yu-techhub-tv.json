@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "techhub-tv",
+    "name": "Tech Hub TV",
+    "profile": "https://yt3.googleusercontent.com/mgokFNIjDAcZZltWbxgQgosrV1-wcNr0N_IpjHsNGP1vbLykf862MwKTfeHW4N2ji-Dg0WLsyNk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jyaBD8p1UoKOUjRJbj05mpvdKaxnklcSRRFG1VOCQhSS-XVs7Z_3OdE58MpD4oOh0m3ANDnb=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lM4504tRpGg", "title": "How Much RAM You Really Need ( Beginner Friendly )" },
+    { "id": "gzTZiXKje88", "title": "Windows 11 Pricing Explained - Paid | FREE | Budget" },
+    { "id": "yo6-Tn_nbnU", "title": "Intel Arc Battlemage B580 / B570 - Budget GameChanger GPU" },
+    { "id": "zwmyCJ4zsWo", "title": "Intel ARC B580 Is Here! Great Performance... But At What Cost?" },
+    { "id": "tJrCZPKHySI", "title": "Please Don’t Buy New Graphics Cards" },
+    { "id": "CZNOrCwyXTw", "title": "NEW NVIDIA's $249 AI Computer - Jetson Orin Nano Super" },
+    { "id": "1SIxFRjh8j0", "title": "I Built a NAS: 6 Months Later. EVERYTHING I Learned and the Mistakes" },
+    { "id": "bFXEgw3DjY0", "title": "TOP 2 Free Tools for Homelab Server Monitoring" },
+    { "id": "qioFyDmZM9A", "title": "Highest Cyber Monday Discounts - Best Value Deals" },
+    { "id": "Ni3Te-CqUWo", "title": "Top 5 Network Router Security Settings You Should Enable" },
+    { "id": "lHi4PW6-MTs", "title": "How to use LivePortrait. Learn to ANIMATE Faces in ComfyUI." },
+    { "id": "c2aZPOXheaw", "title": "Stable Diffusion Forge Installation FOR BEGINNERS" },
+    { "id": "hkBMloNTLpw", "title": "What I Learned from My Cloud Storage Research" },
+    { "id": "IfCoPSkkrl0", "title": "What's New in Technology World? Preparing for Next Videos" },
+    { "id": "PsO-IDV7ZlM", "title": "Windows To MAC Transition - Hard or EASY?" },
+    { "id": "UcGVm4gh9Jk", "title": "ComfyUI InsightFace Distribution Was Not Found ERROR FIX" },
+    { "id": "HYS-lSu43tw", "title": "How To Install and Use Reactor FaceSwap Node in ComfyUI" },
+    { "id": "HRefR3r3LP4", "title": "Status Page and Monitoring for Homelab ( SUPER SIMPLE )" },
+    { "id": "m05in3gZuQo", "title": "Intel Warranty Update - Check if You are Eligible" },
+    { "id": "xtt0OPQ9chc", "title": "SSD Overheating Issues - upHere m2 Heatsink" },
+    { "id": "GIgmtBm9un4", "title": "Working in IT in a nutshell" },
+    { "id": "Eg2LtYwYb1o", "title": "How To Use FLUX AI | ComfyUI Local Install" },
+    { "id": "tl4Y6kOvfYY", "title": "What Does AI COMPUTER Even MEAN?" },
+    { "id": "Xn9S4DvNo0M", "title": "FLUX NF4 + UPSCALE | ComfyUI Beginner Tutorial" },
+    { "id": "ySDlYGedXV0", "title": "Alexa AI Voice Assistant New Features Leaked" },
+    { "id": "d6XjvH_7l8c", "title": "This Is a Perfect Time to Learn Linux - Here's Why" },
+    { "id": "AruLOt83Bew", "title": "Install Uncensored Stable Diffusion Locally with ComfyUI" },
+    { "id": "YyrrRbKRT90", "title": "Cloud vs Self Hosted - Benefits and Risks" },
+    { "id": "w-4kOrIAVQA", "title": "Save your house from water flood with Zigbee" },
+    { "id": "-SrU01vguYg", "title": "Windows BSOD Outage by CrowdStrike Falcon Agent" },
+    { "id": "7fgs-JyWpKY", "title": "What I think about Obsidian after Using it For 3 Months" }
+  ],
+  "playlists": [
+
+  ]
+}

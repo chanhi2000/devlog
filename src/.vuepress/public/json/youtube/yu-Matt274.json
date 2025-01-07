@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Matt274",
+    "name": "Matt Helmer",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ndgOvu18hxI9u7UhjDXZeztDcwlPKbNxtmOrJ0l-jjAF8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "2ao-CZS-BtQ", "title": "Unlock Japanese Financial Data with Python: EDINET API Tutorial" },
+    { "id": "5bXuJvgyHDY", "title": "Python×EDINET APIで上場企業の開示情報を自動取得する" },
+    { "id": "Jl0tiK9FSoU", "title": "DSPyへの簡単な入門：LLMの有効性を高めるフレームワーク" }
+  ],
+  "playlists": [
+
+  ]
+}

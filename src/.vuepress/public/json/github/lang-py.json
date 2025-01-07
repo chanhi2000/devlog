@@ -8429,5 +8429,26 @@
     "topics": ["workflow", "ai", "ai-agents", "llm", "llm-agent", "aiagent"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/317ba0208450e2bb98599e1d24f7fd612ad3682b3fbff4cd70179b60be0d6d6c/lmnr-ai/flow"
+  }, {
+    "repo": "github/annotated-logger",
+    "desc": "A decorator to aid in annotating logs for easier reading and searching",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/89bd8117422127237fc929cc91bb185b71f8e4d3dd4d9c4b4a60a8a6ed45516e/github/annotated-logger"
+  }, {
+    "repo": "oils-for-unix/oils",
+    "desc": "Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!",
+    "officialSite": "http://www.oilshell.org/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/341b0af4c224f6fa1229c6c31a3434464ae7d2706eadc8b0ed57b5f00837bc10/oils-for-unix/oils"
+  }, {
+    "repo": "microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "officialSite": "",
+    "topics": ["markdown", "pdf", "openai", "microsoft-office", "autogen", "langchain", "autogen-extension"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/84190feda7342ec7a5eea2da80656e9dd79f769537436bcdb978c0b5b1168aec/microsoft/markitdown"
   }
 ]

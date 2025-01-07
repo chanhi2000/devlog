@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/rJSn6J2YPp3YSIli-rumzIEoKjJMTqTOjYXm4zQCzIRGwaoQWIyCU-3eem5uEiH2bfFPCvHB=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2pXVtG_uLMI", "title": "Oracle PL/SQL Online Training - Starting Aug 12, 2024" },
+    { "id": "n7wI-0JvD8E", "title": "Oracle Enterprise Manager Online Training Starting Jun 24, 2024" },
     { "id": "cuiAGTjUtXg", "title": "Remote DBA Support Services | #dailyDBA 47" },
     { "id": "DzRCxzy7fF8", "title": "Slow Running Query Tips | #dailyDBA 27" }
   ]

@@ -1,11 +1,18 @@
 {
   "channel": {
-    "id": "devjaypark",
+    "id": "채널박재호",
     "name": "박재호",
-    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k2wi5sUfEWbEUuv1gT8Xg_RU6t1ETlA-DtuwXTO1QQY0E=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/cleRTmenHNNgEJzPhqyy1P0evt1AxmctyPUHjywm7ngc-RpIG-WWhcs0MZruiZ9cliAZ0LZL=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k2wi5sUfEWbEUuv1gT8Xg_RU6t1ETlA-DtuwXTO1QQY0E=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WjJXi7iq_bm31gxmwuFi8Py1_2oLZX0XCHDHDvMDSGc9vCB8e92SuENwYPwB8BxpqCvPKzMiwQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "e7DYAWHg470", "title": "[독서광] 모두를 위한 소프트웨어 보안 설계와 구현" },
+    { "id": "zgAlsZCA6wA", "title": "[독서광] 선택 설계자들" },
+    { "id": "MQctH3x2tqc", "title": "[독서광] 갈대 속의 영원" },
+    { "id": "hAA7cNbj35o", "title": "[독서광] LLM을 활용한 실전 AI 애플리케이션 개발" },
+    { "id": "_qx3K-vQxqU", "title": "[독서광] 프리세일즈" },
+    { "id": "nbhgpnbtnjM", "title": "[일상다반사] 애청자 대상 \"최고의 프로덕트는 무엇이 다른가\" 책 증정 이벤트 추첨" },
+    { "id": "P-IlDURDAaA", "title": "[인터뷰] 대격변 AI 시대, 데이터로 사고하고 데이터로 리드하라" },
     { "id": "9T038saCzVE", "title": "[독서광] 데이터로 사고하고 데이터로 리드하라" },
     { "id": "BiVbLB8F8ic", "title": "[독서광] LEAN HR - 당신의 스타트업은 안녕하십니까" },
     { "id": "LC681iD4kzo", "title": "[독서광] 쉽고 빠르게 익히는 실전 LLM" },
@@ -21,5 +28,8 @@
     { "id": "4lQ-sTDlgIo", "title": "[알도개] GraalVM - 자바를 넘어선 새로운 시작의 서막" }, 
     { "id": "5qpMkKBF3-Q", "title": "[즐겁게 배우는 SQL #42] 제약 조건 - AUTOINCREMENT 제약" }, 
     { "id": "5nbqNXemXZ0", "title": "[즐겁게 배우는 SQL #1] 정말 간단한 질의부터 시작하자" }
+  ],
+  "playlists": [
+
   ]
 }

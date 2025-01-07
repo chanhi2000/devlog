@@ -2406,5 +2406,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/4e6ab205958e33ff703a620d0ad6537e94ae0a087307331973f6c81bc6a4c66d/maharmstone/ntfs2btrfs"
+  }, {
+    "repo": "Bananymous/banan-os",
+    "desc": "Mirror of banan-os, my hobby operating system. Contribute to Bananymous/banan-os development by creating an account on GitHub.",
+    "officialSite": "https://git.bananymous.com/Bananymous/banan-os",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c6e2cc3e330a2ad41f0b395f382d3036b58507373e6348dd70688d549f9b3f01/Bananymous/banan-os"
+  }, {
+    "repo": "wesql/wesql",
+    "desc": "WeSQL is an innovative MySQL distribution that adopts a compute-storage separation architecture, with storage backed by S3 (and S3-compatible systems). It can run on any cloud, ensuring no vendor l...",
+    "officialSite": "https://wesql.io/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0b14e1eb025e4a9131495606a4966a17b693b79e347e64819cb16917507be70a/wesql/wesql"
   }
 ]

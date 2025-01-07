@@ -53,5 +53,6 @@ head:
 <MyYouTubeItems jsonName="yu-Ezweb" /><!-- Rock's Easyweb -->
 <MyYouTubeItems jsonName="yu-WebDevMatics" /><!-- WebDevMatics -->
 <MyYouTubeItems jsonName="yu-devtoolsfm" /><!-- devtools-fm -->
+<MyYouTubeItems jsonName="yu-gymcoding" /><!-- 짐코딩 - 웹 개발 입문부터 실무까지 -->
 
 <TagLinks />

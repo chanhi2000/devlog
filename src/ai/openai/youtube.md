@@ -191,5 +191,6 @@ head:
 <MyYouTubeItems jsonName="yu-mamapop" /><!-- 엄마, 내가 알려줄게 -->
 <MyYouTubeItems jsonName="yu-beardfm" /><!-- Stephen Robles -->
 <MyYouTubeItems jsonName="yu-AlfieMarsh" /><!-- AI Alfie -->
+<MyYouTubeItems jsonName="yu-echohive" /><!-- echohive -->
 
 <TagLinks />

@@ -366,6 +366,9 @@ head:
   - [React.js와 Node.js를 활용한 TODO List 개발: CORS 문제와 해결 방안](https://aspdotnet.tistory.com/m/3326)
   - [React 프로젝트 : Node.js 와 Vite 기반 구축 및 팀원 설치 가이드](https://aspdotnet.tistory.com/m/3329)
   <!-- END: aspdotnet -->
+- [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
+  - [\[커피 월드컵\] React에서 사용한 기술 정리](https://hj0216.tistory.com/m/974)
+  <!-- END: hj0216 -->
 <!-- END: tistory.com -->
 
 ---
@@ -1304,6 +1307,14 @@ https://o-yeon.tistory.com/227
 - [Conditional React hooks pattern](https://robinmalfait.com/blog/conditional-react-hooks-pattern)
 
 <!-- END: robinmalfait.com -->
+
+---
+
+## Web Performance Calendar
+
+- [5 tips to effectively optimize INP in React](https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/)
+
+<!-- END: calendar.perfplanet.com -->
 
 ---
 

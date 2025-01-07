@@ -44,6 +44,16 @@ tag:
 
 - [How to read environment variables from Node.js](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
 
+<!-- END: nodejs.org -->
+
+---
+
+## For mission-critical Node.js applications - NodeSource
+
+- [State of Node.js Performance 2024](https://nodesource.com/blog/State-of-Nodejs-Performance-2024)
+
+<!-- END: nodesoource.com -->
+
 ---
 
 ## Express - Node.js web application framework

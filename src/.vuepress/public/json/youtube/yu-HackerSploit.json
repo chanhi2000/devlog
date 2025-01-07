@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/-9kkugC12L9Bo4h00gYaE5o1Sq_HNRvLC9wL2qQAzCyeOcpzWcY_J6syMENMJDuRprTUDBomHQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CwSG5sa0Nao", "title": "Introduction To Advanced Persistent Threats (APTs)" },
+    { "id": "Ra2altDvPYI", "title": "Mastering Persistence: Using an Apache2 Rootkit for Stealth and Defense Evasion" },
+    { "id": "CUMhiSdOSkY", "title": "Introduction To Adversary Emulation" },
+    { "id": "fwXRVeIjs-w", "title": "Pentesting Diaries 0x1 - SQL Injection 101" },
+    { "id": "rHxYZwMz-DY", "title": "Introduction To Red Teaming" },
+    { "id": "hN_r3JW6xsY", "title": "Mapping APT TTPs With MITRE ATT&CK Navigator" },
+    { "id": "LCec9K0aAkM", "title": "Introduction To The MITRE ATT&CK Framework" },
+    { "id": "UafxorrS3mQ", "title": "Red Team Frameworks & Methodologies" },
+    { "id": "usDt-s2sACI", "title": "Planning Red Team Operations | Scope, ROE & Reporting" },
     { "id": "6PrC4z4tPB0", "title": "ChatGPT For Cybersecurity" }, 
     { "id": "U6xMp-MIEfA", "title": "Installing & Configuring Snort" }, 
     { "id": "M1GpRWWRdC8", "title": "Linux Security - Securing Apache2" }, 
@@ -26,4 +35,3 @@
     { "id": "HIyObPWM6BM", "title": "Imago Forensics - Image Forensics Tutorial" } 
   ]
 }
-

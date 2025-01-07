@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/yICc3vYIirxKwjiVTqAPJvaQUuyFDS84kCRrM5qGCWrOvx9MuxmwjAYCZ9eQyAI6sA0Lvo10qg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wGaq8bwQEU0", "title": "함께하는 오픈소스 기여 - 100명의 개발자 분들을 도와 100개 넘는 오픈소스 PR을 만들고 세상을 함께 바꿔가는 이야기 | 판교 퇴근길 밋업 with 인프런" },
+    { "id": "4TxlNyMeTis", "title": "하루 1억 건 이상을 처리하는 견고한 포인트 시스템 구축하기│인프콘2024" },
+    { "id": "zn9-Mjp9jxo", "title": "혹시 당신은 데이터를 모르는 백엔드 개발자 인가요?│인프콘2024" },
+    { "id": "nkVkx_A3exE", "title": "멀티패러다임 프로그래밍 언어의 시대: 객체지향과 함수형을 섞어야할 때!│인프콘2024" },
+    { "id": "sihjE-VVAn4", "title": "스포티파이에서 데이터직군은 도대체 무슨 일을 하나요" },
+    { "id": "ohYufzcLP2s", "title": "[인프런] Supabase 경험 공유회 (feat. Q&A) | 지식공유자 로펀님" },
+    { "id": "CBLPEeayqYo", "title": "스토리북 & 자동화 테스트와 함께 하는 컴포넌트 주도 프론트엔드 개발 | 판교 퇴근길 밋업 with 인프런" },
+    { "id": "yVvyOaYNKa4", "title": "[인프런] 5년차 머신러닝 엔지니어에게 듣는 AI 커리어의 모든 것 | 지식공유자 변정" },
+    { "id": "SdmQQPKnQRg", "title": "MySQL 데이터베이스(DB) 문자열 저장 어떤 타입이 좋을까? │DBMS 데이터 모델링 문자열 CHAR vs VARCHAR" },
+    { "id": "KnapX1h91z0", "title": "Real MySQL 시즌1 콜레이션이란?│실무 중심 MySQL 데이터베이스 강의" },
+    { "id": "2CaAQKi29EA", "title": "[인프런] 토비의 스프링 6 강의 출시회 Live" },
     { "id": "Ai_Y7EoptWI", "title": "LLM 101: 나만의 대화형 채팅데모 만들기│인프런" },
     { "id": "tUVu_hg3QF8", "title": "임베디드 MCU SW 신입 개발자를 위한 필수 기초 지식ㅣ 신입사원에게 들려주는 - MCU SW 직무 기초 개념완성" },
     { "id": "F3gEkZirFMU", "title": "Gitlab을 활용한 빠르고 안전한 배포 파이프라인 (CI/CD) 만들기│결국 gitops를 해야 하는 이유?" },

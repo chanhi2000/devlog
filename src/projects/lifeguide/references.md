@@ -59,6 +59,7 @@ tag:
 - [`@R17` / 푸틴의 사망과 종전 관계 분석 - ChatGPT-4o version.](https://brunch.co.kr/@@R17/651)
 - [`@ZVA` / 신용카드 캐시백 리워드 비용은 실제로 누가 부담하는가](https://brunch.co.kr/@@ZVA/744)
 - [`@2rV` / 건강한 삶 - 가수 임종환 님을 기억하며](https://brunch.co.kr/@@2rV/190)
+- [`@R17` / 인간관계에서 선을 긋는 이유](https://brunch.co.kr/@@R17/655)
 
 <!-- END: brunch.co.kr -->
 

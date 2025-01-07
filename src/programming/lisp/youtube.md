@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/programming/common-lisp/youtube.html
+      content: https://chanhi2000.github.io/programming/lisp/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

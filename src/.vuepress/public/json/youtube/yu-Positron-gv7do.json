@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "Positron-gv7do",
+    "name": "Positron's Emacs Channel",
+    "profile": "https://yt3.googleusercontent.com/5ysd8Wmfqslj15z5qH1FzCONZesJuMbVt8q73yHoaAj0t1sLA5HOGG6ROrG1_FQ08TNNMPrg0Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/g1bPGv2uKkQDwq2wWqvcO1-FJx3NCAsqykF7jqqjuULWDZ2omSc9WqUO8HR3MaGc3SGO243z1A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MQXMA2OQ0uY", "title": "Putting the D in Editor Macros" },
+    { "id": "nEmRr1j8LR0", "title": "01: Getting Emacs & Native Dependencies" },
+    { "id": "1IQtgfNEE5Q", "title": "Demo of New Elisp Package: Master of Ceremonies" },
+    { "id": "u7DW78ng9Cg", "title": "00: Why You Want Programmable Tools" },
+    { "id": "00JEayL5Emk", "title": "Pitch Decks in Emacs: Power Point For Those People" },
+    { "id": "9b1xmM5M-pk", "title": "What Does PrizeForge Have To Do With Blender?" },
+    { "id": "mQEpPNu_pW8", "title": "Symbolic AGI: How the Natural Will Build the Formal" },
+    { "id": "8vkymxjSrK0", "title": "Programmer Power Point:  Dslide 0.5.1 EMACS LISP" }
+  ],
+  "playlists": [
+
+  ]
+}

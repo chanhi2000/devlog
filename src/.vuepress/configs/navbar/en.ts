@@ -261,8 +261,8 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-qt',
       }, {
         text: 'Common Lisp',
-        link: '/programming/common-lisp/README.md',
-        icon: 'iconfont icon-common-lisp',
+        link: '/programming/lisp/README.md',
+        icon: 'iconfont icon-lisp',
       }, {
         text: 'OCaml',
         link: '/programming/ocaml/README.md',

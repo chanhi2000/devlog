@@ -1,10 +1,16 @@
 {
   "channel": {
     "id": "SPARTAIT",
-    "name": "스파르타 IT연구소",
+    "name": "스파르타 연구소",
     "profile": "https://yt3.googleusercontent.com/6iFQvdYoXzKMLT7iDmVQ48GQeIkSI8zeDNgMPjEwyBErQ7L3pFoKMHhDx0cRYZ_PQFga7jCyTA=s120-c-k-c0x00ffffff-no-rj"
   },
   "videos": [
+    { "id": "GH9oK2Hv2YA", "title": "피하고 싶은 후배 개발자 특징 ㄷㄷ “이것만 안 해도 평균 이상 갑니다…” (신입 개발자들이 가장 많이 하는 실수들)" },
+    { "id": "96BsRqEi8bA", "title": "2025년, 프론트엔드 vs 백엔드 어떤게 좋을까? | 개발자 진로고민 하시는 분은 꼭 보세요" },
+    { "id": "2BcfL5u7c1I", "title": "2025년 포트폴리오에 ‘이걸’ 적으면 취업 어렵습니다… | 바로 채용되는 비전공자 신입 개발자 포트폴리오 공개!" },
+    { "id": "VtYXwtqtM-c", "title": "Chat GPT가 10분만에 만든 슈퍼마리오 게임의 퀄리티는 어떨까?" },
+    { "id": "dzKdwuZk9Es", "title": "미래 산업 패러다임은 AI 가 아니기 때문입니다" },
+    { "id": "7hQ-3smQz1E", "title": "GPT store 망한 이유 (제 2의 앱스토어? ㅋㅋㅋ)" },
     { "id": "dKKRwe8DPw8", "title": "평생 써먹는 코딩 공부 순서, 코딩 고수는 보지 마세요!" },
     { "id": "sDLwgb46vx4", "title": "신입 개발자 98%는 한 번씩 만들어봤다는 포트폴리오" },
     { "id": "d4U8vScEkUs", "title": "기본 개발 용어 초간단 정리! 잘 모르는 거 있으면 큰일나요.." },

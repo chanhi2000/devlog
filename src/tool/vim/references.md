@@ -79,11 +79,19 @@ head:
 
 - [vim에서 여러 줄 동시에 수정하기](https://jupiny.com/2024/07/15/vim-edit-multiple-lines-simultaneously/)
 
+<!-- END: jupiny.com -->
+
 ---
 
 ## 기계인간 John Grib
 
 - [Vim 의 CLI 옵션들](https://johngrib.github.io/wiki/vim/cli-options/)
+- [Vimwiki 사용법](https://johngrib.github.io/wiki/vimwiki/)
+- [Vimwiki에서 사용하기 위한 나만의 LSP를 만들자](https://johngrib.github.io/wiki/article/vimwiki-lsp/)
+- [Vim의 gx 확장하기](https://johngrib.github.io/wiki/article/extend-vim-gx/)
+- [Vim의 바깥에서](https://johngrib.github.io/wiki/article/out-of-the-vim/)
+
+<!-- END: johngrib.github.io -->
 
 ---
 

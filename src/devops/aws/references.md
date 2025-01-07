@@ -397,7 +397,8 @@ head:
 
 ## Outsider's Dev Story
 
-- [AWS Transfer 패밀리로 SFTP 구성하기 #1](https://blog.outsider.ne.kr/1500?)
+- [AWS Transfer 패밀리로 SFTP 구성하기 #1](https://blog.outsider.ne.kr/1500)
+- [GitHub Actions에서 AWS 인증에 OIDC(OpenID Connect) 사용하기](https://blog.outsider.ne.kr/1750)
 
 ---
 

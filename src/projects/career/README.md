@@ -22,8 +22,8 @@ tag:
 {
   "title": "위시켓",
   "desc": "IT 프로젝트 고민은 이제 끝. 검증된 11만 프리랜서와 1만 개발회사가 여러분을 기다리고 있습니다. 2시간 내 견적을 받고 최적의 전문가 매칭을 경험해 보세요.",
-  "link": "https://www.wishket.com/project/",
-  "logo": "https://www.wishket.com/static/renewal/img/global/gnb_wishket.svg",
+  "link": "https://wishket.com/project/",
+  "logo": "https://wishket.com/static/renewal/img/global/gnb_wishket.svg",
   "background": "rgba(54,154,194,0.2)"
 }
 ```
@@ -69,16 +69,6 @@ tag:
   "link": "https://junjikjang.com/",
   "logo": "https://junjikjang.com/img/logo-day.png",
   "background": "rgba(244,244,244,0.2)"
-}
-```
-
-```component VPCard
-{
-  "title": "Crescendo",
-  "desc": "소규모 스터디 플랫폼",
-  "link": "https://www.crescendo-study.site/",
-  "logo": "https://www.crescendo-study.site/svg/logo_symbol.svg",
-  "background": "rgb(127,68,170,0.2)"
 }
 ```
 

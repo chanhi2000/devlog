@@ -44,6 +44,9 @@ export default defineUserConfig({
       build: {
         // minify: false,
         // sourcemap: false,
+        rollupOptions: {
+          external: ['sqlite3'], // Prevent bundling sqlite3
+        },
         chunkSizeWarningLimit: 1200,
       }
     }

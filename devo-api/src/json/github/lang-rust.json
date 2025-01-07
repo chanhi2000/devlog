@@ -1866,11 +1866,11 @@
     "banner": ""
   }, {
     "repo": "jdx/mise",
-    "desc": "dev tools, env vars, task runner",
+    "desc": "dev tools, env vars, task runner. Contribute to jdx/mise development by creating an account on GitHub.",
     "officialSite": "https://mise.jdx.dev",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/dd46c7e4f056723296b746ae2080fadc624577a09110a2ce8a598571ef246e1c/jdx/mise"
   }, {
     "repo": "obhq/jailbreak-11",
     "desc": "Experimental PS4 jailbreak for 11.00 and lower",

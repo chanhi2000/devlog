@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.woff2?t=1735790337362') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.woff?t=1735790337362') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.ttf?t=1735790337362') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_w42twg70aob.svg?t=1735790337362#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.woff2?t=1737085246180') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.woff?t=1737085246180') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.ttf?t=1737085246180') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.svg?t=1737085246180#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,8 +14,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-neo4j:before { content: "\e98b"; }
+.icon-hashicorp:before { content: "\e98a"; }
 .icon-w3c:before { content: "\e989"; }
-.icon-github-action:before { content: "\e988"; }
+.icon-github-actions:before { content: "\e988"; }
+.icon-mermaid:before { content: "\e894"; }
 .icon-expressjs:before { content: "\e987"; }
 .icon-jetpack-compose:before { content: "\e986"; }
 .icon-cypress:before { content: "\e985"; }
@@ -28,7 +31,6 @@
 .icon-n8n:before { content: "\e97e"; }
 .icon-sass:before { content: "\e97d"; }
 .icon-clerk:before { content: "\e97c"; }
-.icon-nuxtjs:before { content: "\e97b"; }
 .icon-verdaccio:before { content: "\e97a"; }
 .icon-svn:before { content: "\e979"; }
 .icon-firebase:before { content: "\e978"; }
@@ -122,7 +124,7 @@
 .icon-apachejmeter:before { content: "\e924"; }
 .icon-gatling:before { content: "\e923"; }
 .icon-sketch:before { content: "\e922"; }
-.icon-common-lisp:before { content: "\e921"; }
+.icon-lisp:before { content: "\e921"; }
 .icon-popos:before { content: "\e91d"; }
 .icon-blex:before { content: "\e91c"; }
 .icon-velog:before { content: "\e91b"; }
@@ -186,7 +188,6 @@
 .icon-api:before { content: "\e7e1"; }
 .icon-jupyter:before { content: "\ebde"; }
 .icon-objective-c:before { content: "\e6e5"; }
-.icon-mermaid:before { content: "\e894"; }
 .icon-mysql:before { content: "\ec6d"; }
 .icon-sqlserver:before { content: "\e664"; }
 .icon-kotlin:before { content: "\ebed"; }

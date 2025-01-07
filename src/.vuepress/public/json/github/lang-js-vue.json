@@ -1,25 +1,25 @@
 [
   {
     "repo": "zyronon/douyin",
-    "desc": "Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践. Imitate TikTok ， Vue Best practices on Mobile",
+    "desc": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile",
     "officialSite": "https://dy.ttentau.top/",
-    "topics": ["douyin", "js", "tiktok", "vue", "vue3"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["vue", "js", "douyin", "vue3", "tiktok"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/7d9d2826d89279fa994cd220fa68d515f3387993ec9c7a4b9d5e6365223e4d6b/zyronon/douyin"
   }, {
     "repo": "github-copilot-resources/copilot-metrics-viewer",
     "desc": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
-    "officialSite": "https://ashy-sky-02a7d0403.5.azurestaticapps.net/",
+    "officialSite": "https://copilot-metrics-viewer-gthcc5cmd9ebf2ff.westeurope-01.azurewebsites.net/",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d1ac629c0d74ec4f480614f49bbcdc3f9d4407be36dfb48493bb7fd5c72d630b/github-copilot-resources/copilot-metrics-viewer"
   }, {
     "repo": "kinopio-club/kinopio-client",
-    "desc": "Kinopio is a creative thinking tool",
+    "desc": "Kinopio is a creative thinking tool. Contribute to kinopio-club/kinopio-client development by creating an account on GitHub.",
     "officialSite": "https://kinopio.club",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e945f21e1bde602ec07de9d9bae2f349f202b8598f965d8dd11d5a82f9371375/kinopio-club/kinopio-client"
   }, {
     "repo": "bjesus/teatime",
     "desc": "A fully static distributed library system powered by IPFS, SQLite and GitHub : A fully static distributed library system powered by IPFS, SQLite and GitHub",
@@ -34,5 +34,12 @@
     "topics": ["javascript", "python", "open-source", "sales", "marketing", "web", "vue", "crm", "webapp", "frappe", "customer", "crm-system", "crm-platform", "vuejs3", "frappe-app", "crm-connections"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/f6bad943b6fac1379b14e1285003e56784684ea52f3af74e143fb9ee0cbe8319/frappe/crm"
+  }, {
+    "repo": "frappe/helpdesk",
+    "desc": "Modern, Streamlined, Free and Open Source Customer Service Software",
+    "officialSite": "https://frappe.io/helpdesk",
+    "topics": ["javascript", "python", "typescript", "helpdesk", "foss", "issue-tracker", "ticketing", "frappe", "vue3"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/419635982/3ee5d5d7-ab50-4870-8cbf-883bc9e0c22f"
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "SWErikCodes",
+    "name": "SWErikCodes",
+    "profile": "https://yt3.googleusercontent.com/dAAIowuTVkCKwMVLl4jw40FaOP6xRUVGASYJKF2nMoK7HaEZsBbzs3qIC0yPup7f2H8JF6Q8eQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iWLnk1CQGhI5zYDsZ1tcx32epx-26Gvvmfayq2mvzC_PrRPw-3Ovz0wlBUd63Tu4xaxcz0_HumY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HqQwFIEhmao", "title": "pov: you try coding a $1M app in one day" },
+    { "id": "oPGuD5FSrTw", "title": "This Took Me 1000 Hours To Code" },
+    { "id": "xPImop5WcKo", "title": "this RESUME got me 10+ software engineering interviews" },
+    { "id": "qisQ9U_d5TA", "title": "How To Put A Coding Project Online (For FREE)" },
+    { "id": "UcyCBCljLy0", "title": "BEST Free Coding Resource 🧑‍💻#shorts #shortsfeed" },
+    { "id": "l8R4WSrjRUg", "title": "Day In The Life Of A Software Engineer (Exposing My Startup)" },
+    { "id": "9tviIYnEvSc", "title": "Host Your Coding Projects For FREE #shorts #shortsfeed" },
+    { "id": "PkxWhyC3XLQ", "title": "the reality of coding a $50M startup" },
+    { "id": "y3odhQtu4R8", "title": "Ultimate Java Backend Project: Spring Boot Tutorial" },
+    { "id": "xm3t-MjO0xY", "title": "7 Github Repositories That Will Get You HIRED" },
+    { "id": "KFmPhaZZLFw", "title": "Best FREE Coding Resource 👾#shorts #shortsfeed" },
+    { "id": "uZGuwX3St_c", "title": "Spring Security JWT: User Sign Up + Login with Email Verification in Spring Boot" }
+  ],
+  "playlists": [
+
+  ]
+}

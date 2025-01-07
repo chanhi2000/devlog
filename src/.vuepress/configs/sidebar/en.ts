@@ -1475,18 +1475,18 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Common Lisp',
       collapsible: true,
-      icon: 'iconfont icon-common-lisp',
+      icon: 'iconfont icon-lisp',
       children: [
-        '/programming/common-lisp/README.md',
-        '/programming/common-lisp/references.md',
-        '/programming/common-lisp/github.md',
-        '/programming/common-lisp/youtube.md', 
+        '/programming/lisp/README.md',
+        '/programming/lisp/references.md',
+        '/programming/lisp/github.md',
+        '/programming/lisp/youtube.md', 
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/common-lisp/articles/README.md',
+            '/programming/lisp/articles/README.md',
           ]
         }
       ]

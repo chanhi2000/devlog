@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/xlzvAXmEiqF0evs2-G0rCbHjzMlqpMXDGKa9NlvpafAJfEoIgaASY2RrOXh42xgGRVPEIYN-=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RRDDqdb--tc", "title": "Arch: The intelligent prompt gateway" },
+    { "id": "A2OFz87MhEI", "title": "AutoGen: Framework for Agentic AI" },
+    { "id": "s3gglwSBSSk", "title": "Build an app with Clerk, Strava and v0" },
+    { "id": "Urop-5ZFyTE", "title": "RAFT: Retrieval augmented fine tuning" },
+    { "id": "jUj5F_U6O2I", "title": "Building agents with crewAI" },
+    { "id": "ZodLuXIhHe0", "title": "You won't believe how many potential customers are you losing!!11" },
+    { "id": "11HHeCXEoa0", "title": "mem0: Memory layer for LLMs" },
     { "id": "lU4loK1dmr8", "title": "Building an AI API Gateway" },
     { "id": "TrgVlBjEu_w", "title": "What is SpinKube?" },
     { "id": "X330b0nAmNU", "title": "Building apps and games with Discord's Embedded App SDK" },

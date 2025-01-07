@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "theadameubanks",
+    "name": "Adam Eubanks",
+    "profile": "https://yt3.googleusercontent.com/xa7u9-utM14t56wT0-wEliIirjVcoA_zWX6IkCM3qDEPDvRwYZz2yWXmR7hArE67R128Xt3KhQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/P9YUyeO_j-vFVhUxBAL8vrCR2oF0ZvdPkRMUPZZ5n1MM129yZ8Sd5P7KdthMfK30zuA7ZNOY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gK-9v4lTEfY", "title": "Build Your First Autoencoder in Keras | Easy Guide" },
+    { "id": "lnJjT2LKfJw", "title": "This AI Chrome Extension Will Change How You Browse The Web" }
+  ],
+  "playlists": [
+
+  ]
+}

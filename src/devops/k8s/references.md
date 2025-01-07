@@ -503,5 +503,12 @@ head:
 
 ---
 
+## Povilas Versockas
+
+- [Understanding DNS in Kubernetes](https://povilasv.me/understanding-dns-in-kubernetes/)
+
+<!-- END: povilasv.me -->
+
+---
 
 <TagLinks />

@@ -1545,7 +1545,7 @@
     "officialSite": "",
     "topics": ["data", "awesome", "sql", "bigdata", "dataengineering", "apachespark"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
-    "banner": "https://opengraph.githubassets.com/2ccc8bed5f184c2c93fea361bbb3edb652cc8ce1957c56f998da7a0298776625/DataExpert-io/data-engineer-handbook"
+    "banner": "https://opengraph.githubassets.com/6f58ec2c43fbd58e4bf26294aae0bf566f6177efd6cd1e52586cf94cd8b787f6/DataExpert-io/data-engineer-handbook"
   }, {
     "repo": "sourcegraph/awesome-code-ai",
     "desc": "A list of AI coding tools (assistants, completions, refactoring, etc.)",

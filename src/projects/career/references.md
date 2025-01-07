@@ -200,6 +200,10 @@ tag:
 - [`jaeyeong951` / 저도 이직은 처음이라.](https://jaeyeong951.medium.com/%EC%A0%80%EB%8F%84-%EC%9D%B4%EC%A7%81%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EB%9D%BC-ea2b02266ec6?source=rss-c340bcb9bd23------2)
 - [`lionha` / 신한캐피탈, 이유없이 창업자에게 15%의 연이자로 투자금 반환 소송을 걸다. - 1편](https://medium.com/@lionha/%EC%8B%A0%ED%95%9C%EC%BA%90%ED%94%BC%ED%83%88-%EC%9D%B4%EC%9C%A0%EC%97%86%EC%9D%B4-%EC%B0%BD%EC%97%85%EC%9E%90%EC%97%90%EA%B2%8C-%ED%88%AC%EC%9E%90%EA%B8%88-%EB%B0%98%ED%99%98-%EC%86%8C%EC%86%A1%EC%9D%84-%EA%B1%B8%EB%8B%A4-1%ED%8E%B8-78d1d356bf3e)
 - [`dongmin-jang` / \[Log\] 2024 SIA — 3](https://dongmin-jang.medium.com/log-2024-sia-3-9829975f9919?)
+- [`jhk0530` / B마트 면접 노쇼 당함](https://jhk0530.medium.com/bmart-noshow-ab9393f136a8?source=rss-cb820693bed5------2)
+- [`giljae` / 오류를 재현할 수 없나요?](https://giljae.medium.com/%EC%98%A4%EB%A5%98%EB%A5%BC-%EC%9E%AC%ED%98%84%ED%95%A0-%EC%88%98-%EC%97%86%EB%82%98%EC%9A%94-ae609235601a?source=rss-bb87e9e8047d------2)
+- [`tving-team` / 파일럿 프로젝트에서 티빙의 첫 위젯이 만들어지기까지](https://medium.com/tving-team/%ED%8C%8C%EC%9D%BC%EB%9F%BF-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%ED%8B%B0%EB%B9%99%EC%9D%98-%EC%B2%AB-%EC%9C%84%EC%A0%AF%EC%9D%B4-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%80%EA%B8%B0%EA%B9%8C%EC%A7%80-ea62079667f5?source=rss-dd8a9db00b9c------2)
+- [`jongdae.lim` / Data Engineering Fundamentals](https://medium.com/@jongdae.lim/data-engineering-fundamentals-70af6b2fbcfa?source=rss-ec24e1bbe5d8------2)
 
 <!-- END: medium.com -->
 
@@ -428,6 +432,27 @@ tag:
 - [`@2xm` / 숙련된 개발자의 역할 - TDD를 배우기 어려운 이유](https://brunch.co.kr/@@2xm/87)
 - [`@2Kn8` / 프로그래밍에 정답은 없다 - 트레이드오프](https://brunch.co.kr/@@2Kn8/228)
 - [`@LOc` / 강의안 | 2025 창업에 필요한 소비트렌드 정보 - 창업](https://brunch.co.kr/@@LOc/239)
+- [`@ZVA` / FTX창업자는 어떻게 김프·리플을 활용해 돈 벌었나](https://brunch.co.kr/@@ZVA/757)
+- [`@LOc` / 스타트업 창업 사업계획서 작성법 - 팀구성 - 스타트업](https://brunch.co.kr/@@LOc/247)
+- [`@2MrI` / 느린 걸음](https://brunch.co.kr/@@2MrI/860)
+- [`@2Kn8` / 개발자가 더 큰 성장을 이루는 방법 - feat. 교육자](https://brunch.co.kr/@@2Kn8/229)
+- [`@2weV` / 집중, 집요, 그리고 집념_Part 2](https://brunch.co.kr/@@2weV/623)
+- [`@2weV` / 안에서 시작하자.](https://brunch.co.kr/@@2weV/624)
+- [`@LOc` / 스타트업 공동창업이 어려운 이유 - 스타트업](https://brunch.co.kr/@@LOc/249)
+- [`@LOc` / 2025년을 준비하는 스타트업을 위한 경영전략 - 스타트업](https://brunch.co.kr/@@LOc/240)
+- [`@2weV` / 정답 보다는 질문 & 관점이 더 중요한 시대가 왔다.](https://brunch.co.kr/@@2weV/614)
+- [`@2weV` / 문제 해결 가능한 퍼펙트 스톰. - 해결의 시작점은 지금 내가 속한 조직에서 부터](https://brunch.co.kr/@@2weV/615)
+- [`@2weV` / 커리어 성장을 만들어 나가고 있는 분들의 특징.](https://brunch.co.kr/@@2weV/616)
+- [`@2weV` / 불편한 소통을 잘하는 것이 중요하다.](https://brunch.co.kr/@@2weV/617)
+- [`@LOc` / 강의안 | 2025 창업에 필요한 소비트렌드 정보 - 창업](https://brunch.co.kr/@@LOc/239)
+- [`@2weV` / 두 번 찾아오는 각기 다른 불공평함](https://brunch.co.kr/@@2weV/605)
+- [`@2weV` / 팀 효율을 높이기 위한 협업 원칙](https://brunch.co.kr/@@2weV/606)
+- [`@2weV` / 2025년, 역량 보다는 언어(영어)](htps://brunch.co.kr/@@2weV/607)
+- [`@2Kn8` / 프로그래밍에 정답은 없다 - 트레이드오프](https://brunch.co.kr/@@2Kn8/228)
+- [`@2xm` / 숙련된 개발자의 역할 - TDD를 배우기 어려운 이유](https://brunch.co.kr/@@2xm/87)
+- [`@2weV` / 팀과의 생산적 협업을 위해 실천하면 좋을 6가지 팁](https://brunch.co.kr/@@2weV/613)
+- [`@2YWz` / 초 개인화를 통한 고객 만족  - 현대 비즈니스의 생존 전략: 개요](https://brunch.co.kr/@@2YWz/122)
+- [`@2YWz` / 초 개인화를 통한 고객 만족  - 현대 비즈니스의 생존 전략: 비니지스 모델의 변화](https://brunch.co.kr/@@2YWz/123)
 
 <!-- END: brunch.co.kr -->
 
@@ -833,6 +858,9 @@ tag:
 - [`limm-jk` / Limm_jk.log](https://limm-jk.tistory.com/m/)
   - [Fair Source License / 지속 가능성을 위한 License 이야기](https://limm-jk.tistory.com/m/86)
   <!-- END: limm-jk -->
+- [`coor` / 기록](https://coor.tistory.com/m/)
+  - [소프트 스킬](https://coor.tistory.com/m/68)
+  <!-- END: coor -->
 <!-- END: tistory.com -->
 
 ---

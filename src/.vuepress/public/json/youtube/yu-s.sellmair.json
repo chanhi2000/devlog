@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "s.sellmair",
+    "name": "Sebastian Sellmair",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ktBpzWsWwTVaF_ts3lTKyjoCyFfsxmFhmxKMnTAB2kPTIH=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "whUy3JfOX9w", "title": "Hot Reloading Compose Apps with ClassLoaders (Firework Experiment)" },
+    { "id": "8Z-Vuo3wTd0", "title": "Firework: Introducing Compose Hot Reload" },
+    { "id": "vx95YRlUTts", "title": "Performance in Kotlin" },
+    { "id": "qbBkAJXZkA0", "title": "I am done with ViewModels..." },
+    { "id": "renRJnDtfxc", "title": "Nothing is really cool in Kotlin" },
+    { "id": "2SpeJj7BUs4", "title": "Re-Implementing kotlinx.coroutines" },
+    { "id": "058_TkTnfKc", "title": "Applied Gradle: One Test, Multiple Implementations" },
+    { "id": "o4g6vtosH4w", "title": "Fancy Test 'Todo' in Kotlin & Junit5" },
+    { "id": "YooS0QazlrQ", "title": "I messed up: Repairing a bad 'initial commit' on your new GitHub repository" },
+    { "id": "XCvDPotawTY", "title": "Julian & Seb: What makes Flutter great" },
+    { "id": "IWT1yi371ek", "title": "Julian & Seb: Flutter Method Channels & Kotlin's expect/actual" },
+    { "id": "39b7jR87I_U", "title": "Julian & Seb: From publishing to async/await" },
+    { "id": "fmFezt-2IBo", "title": "Kotlin Multiplatform, In Detail, Step by Step Setup Guide (+Compose)" }
+  ],
+  "playlists": [
+
+  ]
+}

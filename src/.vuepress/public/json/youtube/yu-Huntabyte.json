@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/h5Wmv5I8Q_hnpIOlrK1uB0Ct-lGktG_WmRcfovpV8aPdSMWqLTrIyPiGKurvrKWBgL76BMMc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L1TVj3yx_ns", "title": "Rewriting Bits UI for Svelte 5" },
+    { "id": "geAcAzheu_Y", "title": "Practical Svelte 5 - Shopping Cart" },
+    { "id": "zx9saIqZ-Gg", "title": "DevTools, but for Mobile Browsers" },
+    { "id": "sY1Hqi5TENA", "title": "Svelte Has Been Hiding Something..." },
+    { "id": "e1vlC31Sh34", "title": "Svelte 5's Secret Weapon: Classes + Context" },
     { "id": "GGuGTXa5XYU", "title": "Code & Chill / Maybe Build Something" },
     { "id": "vz8y2Nnz7T4", "title": "Exploring Lucia v3 and Drizzle" },
     { "id": "DmY2k8HSIDg", "title": "Exploring Lucia v3 and Drizzle" },

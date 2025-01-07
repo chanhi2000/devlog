@@ -124,6 +124,7 @@ head:
 - [`@ZVA` / 챗GPT와 생산성 향상의 역설](https://brunch.co.kr/@@ZVA/742)
 - [`@R17` / 권력의 속성과 인간의 심리 - ChatGPT o1-preview](https://brunch.co.kr/@@R17/652)
 - [`@2rV` / ChatGPT로 PRD 작성하기](https://brunch.co.kr/@@2rV/197)
+- [`@LOc` / ChatGPT로 작성된 사업계획서의 탈락 이유 - 스타트업](https://brunch.co.kr/@@LOc/248)
 
 <!-- END: brunch.co.kr -->
 
@@ -575,6 +576,14 @@ head:
 - [GPT가 초안을 쓴 메시지를 의사가 환자에게 보내는 것이 옳을까?](https://yoonsupchoi.com/2024/10/17/gpt-based-physician-dm/)
 
 <!-- END: yoonsupchoi.com -->
+
+---
+
+## OpenAI Status
+
+- [API, ChatGPT & Sora Facing Issues: Incident Report for OpenAI](https://status.openai.com/incidents/ctrsv3lwd797)
+
+<!-- END: status.openai.com -->
 
 ---
 

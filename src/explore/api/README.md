@@ -472,6 +472,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://shadcn.batchtool.com/favicon.ico"
   preview="https://shadcn.batchtool.com/og.jpg"/>
 
+<SiteInfo
+  name="Gitingest"
+  desc="Replace 'hub' with 'ingest' in any Github Url for a prompt-friendly text"
+  url="http://gitingest.com/"
+  logo="http://gitingest.com/static/favicon-64.png"
+  preview="http://gitingest.com/static/og-image.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

@@ -1,7 +1,7 @@
 {
   "name": "chanhi2000.github.io",
   "description": "My Personal Super Mindmap",
-  "version": "0.14.5",
+  "version": "0.14.6",
   "license": "MIT",
   "type": "module",
   "private": true,
@@ -26,15 +26,15 @@
   ],
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.18",
-    "rollup-plugin-visualizer": "5.12.0",
-    "vuepress-plugin-markdown-define2": "^1.0.0",
     "@vuepress/plugin-google-analytics": "2.0.0-rc.54",
     "@vuepress/plugin-register-components": "2.0.0-rc.54",
     "axios": "1.7.7",
     "dotenv": "16.3.1",
     "express": "4.18.2",
+    "rollup-plugin-visualizer": "5.12.0",
     "vue": "3.5.12",
     "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-markdown-define2": "^1.0.0",
     "vuepress-theme-hope": "2.0.0-rc.59"
   },
   "dependencies": {
@@ -51,11 +51,11 @@
     "kotlin-playground": "1.30.0",
     "mermaid": "10.9.1",
     "moment": "^2.29.4",
-    "turndown": "7.2.0",
     "sandpack-vue3": "3.1.11",
     "sass-loader": "16.0.2",
+    "sqlite3": "^5.1.7",
+    "turndown": "7.2.0",
     "vidstack": "1.11.29"
   },
-  "overrides": {
-  }
+  "overrides": {}
 }

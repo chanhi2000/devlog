@@ -6,6 +6,30 @@
     "banner": "https://yt3.googleusercontent.com/jZlcSjAybNwxoX0ao-ywQO-j5XF2QWPNI9tMjLTNB0I2xIwm2dIJaASPWOq2GlDVWc1Z-Ichaw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zSeGG-SCm8s", "title": "FASTER JavaScript In 2025 With Sets" },
+    { "id": "w_dEfCWol4k", "title": "Crush Your JavaScript Bugs With Records and Tuples" },
+    { "id": "zsHYbiPQR98", "title": "Forget AI Chatbots, Bring Your AI To Life With Tools" },
+    { "id": "RW1SlwBx0hk", "title": "React-Native Server Components! Change Your Native UI From Your Server!" },
+    { "id": "49tDJCW9PsI", "title": "What I Learned from State of JS 2024" },
+    { "id": "ZDRGEewXkrs", "title": "“use cache” NextJS’s latest take on data caching" },
+    { "id": "Iun1DE_oHG0", "title": "Tanstack Start vs NextJS - Server Functions Battle" },
+    { "id": "_wnamPRhgkA", "title": "5 Hidden React Server Function TRAPS Beginners Fall Into" },
+    { "id": "FAkFJ7Mp6Jk", "title": "React Advanced Day 1" },
+    { "id": "rCkhCG7n8sA", "title": "What I Discovered When I Compared React and NextJS for Astro 5's Server Islands" },
+    { "id": "_Rb4SpWRHC8", "title": "Using AI Structured Output with NextJS & React" },
+    { "id": "LEFRcCf4ehc", "title": "ShadCN’s Revolutionary New CLI" },
+    { "id": "9F7RLFwg9H8", "title": "Next.js + Inngest: Unlocking Long-Running AI Workflow Automation" },
+    { "id": "NP2ULDZxpd0", "title": "I HACKED ShadCN to Create Insane React Templates and Installers" },
+    { "id": "C54k7nP4OjI", "title": "Vites Fatal Flaw Fixed With Vinxi" },
+    { "id": "M1Rj1xSm3SM", "title": "NextJS Feature Flagging Made Easy" },
+    { "id": "81oUBWJQii4", "title": "Secret React-Native Hack For React Web Devs!" },
+    { "id": "VKdQrnDeCxE", "title": "When \"TypeScript Support\" Isn't Enough TypeScript" },
+    { "id": "QWVr7uDyBXE", "title": "React 19's useOptimistic: EVERYTHING you NEED to know" },
+    { "id": "EspenFj1EaE", "title": "Insane AI Power 🤯, Local AI Apps with React and Gemini!" },
+    { "id": "vPiS4aza-2A", "title": "Coding Reality Show: Behind The Scenes And More" },
+    { "id": "t6MeFVF3V9I", "title": "Warning: React 19's use Hook Can Impact App Performance" },
+    { "id": "121FJ9mov-4", "title": "Payload: The Complete Backend for NextJS" },
+    { "id": "92YgIVSlfAE", "title": "How To Develop 2 AI Apps in 10 Minutes!" },
     { "id": "MiZcNHJT_Ss", "title": "Declarative Routes for NextJS and React-Router: DRY Routing" },
     { "id": "MzKHrWCymAU", "title": "Javascript Array and Object Cloning: Shallow or Deep?" },
     { "id": "HSVcZa5yTKE", "title": "JS Built-in Signals In React and Svelte TODAY!" },
@@ -46,4 +70,3 @@
     { "id": "ypN-Uwshc5M", "title": "React Dev, You Need To Know @container!" }
   ]
 }
-

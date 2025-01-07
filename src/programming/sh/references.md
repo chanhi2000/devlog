@@ -373,6 +373,8 @@ tag:
 - [`seq`](https://johngrib.github.io/wiki/cmd/seq/)
 - [Shell builtin 명령어](https://johngrib.github.io/wiki/cmd/bash/builtin/)
 - [`rev` 명령어](https://johngrib.github.io/wiki/cmd/rev/)
+- [`awk`](https://johngrib.github.io/wiki/language/awk/)
+- [Bash 구문 확장](https://johngrib.github.io/wiki/cmd/bash/expansion/)
 
 <!-- END: johngrib.github.io -->
 

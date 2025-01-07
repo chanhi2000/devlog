@@ -115,5 +115,6 @@ head:
 <MyYouTubeItems jsonName="yu-DilipItAcademy" /><!-- Dilip IT Academy -->
 <MyYouTubeItems jsonName="yu-nileshtechnology" /><!-- Nilesh Technology -->
 <MyYouTubeItems jsonName="yu-StevenCodeCraft" /><!-- StevenCodeCraft -->
+<MyYouTubeItems jsonName="yu-gymcoding" /><!-- 짐코딩 - 웹 개발 입문부터 실무까지 -->
 
 <TagLinks />

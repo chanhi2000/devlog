@@ -280,9 +280,16 @@ tag:
 <SiteInfo
   name="Quick Copy Link"
   desc="간단한 키보드 단축키를 사용하여 현재 페이지의 제목과 링크를 동시에 복사하세요."
-  url="https://chromewebstore.google.com/detail/quick-copy-link/ghofdmbmhcgkhjmgoeclmffmdgaocaaj?hl=ko"
+  url="https://chromewebstore.google.com/detail/quick-copy-link/ghofdmbmhcgkhjmgoeclmffmdgaocaaj"
   logo="https://lh3.googleusercontent.com/szpfiQ5YROIWjVYYxIcqQxtL3C0QDyhuHxe8mh188FNWwQ_i9rVEB0I-xSYOA0A0fhxKaE0wbTjLYyKxbgC5o_zmPQ=s128-rj-sc0x00ffffff"
   preview="https://lh3.googleusercontent.com/IZmPWkp6pO9cPERLfX1425YQhjbYdUfNgUBaRYpna3qrRPwzW8tXEZZ4ni635Qt25cZGT5L9Lk-FWEdyyBy9DNy_ZQ=s1280-w1280-h800"/>
+
+<SiteInfo
+  name="GitIngest - Turn any Git repo to a LLM-friendly prompt"
+  desc="Turn any Git repo to a LLM-friendly prompt"
+  url="https://chromewebstore.google.com/detail/gitingest-turn-any-git-re/adfjahbijlkjfoicpjkhjicpjpjfaood"
+  logo="https://lh3.googleusercontent.com/zY9ZweOKeH75qDYf9mY31fLDMqiBR8AdkwTd28i0soLy9PvEd3P7dGDQqRi91fEEbDHE-FNleqScCPASMrten-J0=s120"
+  preview="https://lh3.googleusercontent.com/dpFHIz2GrRlPMI2g_m13CK0qqj2qYW6EY54ARGxM9vIwMzBMeRBQUu_YxCUaJdwVeu-NycqzT6Dc1MHhMo3YgZFxCw=s1280-w1280-h800"/>
 
 ---
 

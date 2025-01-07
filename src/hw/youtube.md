@@ -107,5 +107,6 @@ head:
 <MyYouTubeItems jsonName="yu-bjoernalbers" /><!-- Björn Albers -->
 <MyYouTubeItems jsonName="yu-BranchEducation" /><!-- Branch Education -->
 <MyYouTubeItems jsonName="yu-comoconfigurar" /><!-- comoconfigurar -->
+<MyYouTubeItems jsonName="yu-gonago" /><!-- 고나고 -->
 
 <TagLinks />

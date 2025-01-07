@@ -34,8 +34,12 @@ export default hopeTheme({
     // roundAvatar: true,
     medias: {
       GitHub: "https://github.com/chanhi2000",
-      Facebook: "https://facebook.com/spamlove",
-      Instagram: "https://instagram.com/chanhi2000",
+      // Facebook: "https://facebook.com/spamlove",
+      // Instagram: "https://instagram.com/chanhi2000",
+      Notion: {
+        icon: 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg',
+        link: 'https://markiiimark.notion.site/MarkiiimarK-Fullstack-DevOps-c231ae6c157d4baba89a3713c92449dd'
+      },
       Linkedin: "https://linkedin.com/in/chanhi2000",
       Gmail: "chanhi2000@gmail.com"
     }
@@ -45,7 +49,7 @@ export default hopeTheme({
   },
   plugins: {
     blog: true,
-    sitemap: false, // 임시적으로 안됨
+    sitemap: true, // 임시적으로 안됨
     // {
     //   excludePaths: ['/404.html']
     // },

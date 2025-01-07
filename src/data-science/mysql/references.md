@@ -323,4 +323,15 @@ head:
 
 ---
 
+## TWpower's Tech Blog
+
+- [\[MySQL\](EN) Database manipulation with the use of TRANSACTION](https://twpower.github.io/368-database-manipulation-with-the-use-of-transaction-en)
+- [\[MySQL\] 데이터베이스 조작 시 TRANSACTION 사용하기](https://twpower.github.io/369-database-manipulation-with-the-use-of-transaction)
+
+
+<!-- END: twpower.github.io -->
+
+----
+
+
 <TagLinks />

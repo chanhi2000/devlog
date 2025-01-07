@@ -6,7 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/vDsj2d8Q8M_PT7i2YMBXlBOmCrZF1BhmQ8aoql_pnN3kPWLC3SYOnvXDGda7TS9uJv2_EBol1A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "n7Tl1qJxTew", "title": "Uninitialized Variables in C++ Software Security and C++ Memory Management - JF Bastien" },
+    { "id": "59lFn3dfdOQ", "title": "Templates Made Easy With C++20 Using Constexpr/Consteval, Fold Expressions, and Concepts - C++Online" },
+    { "id": "2OZvnr79q3c", "title": "What Does It Take to Implement the C++ Standard Library?  Follow-up: Mandates vs Constraints?" },
+    { "id": "vh_TO93neEs", "title": "Lightning Talk: Rust Without ‘Unsafe’ Is as Unsafe as C++ - Pavel Novikov - C++Online 2024" },
+    { "id": "5FbhwOxoJsg", "title": "Lightning Talk: Keeping Up to LLVM IR: An Introduction to LLVM IR - Isaac David Bermudez Lara" },
+    { "id": "QYkU0u9M9Mg", "title": "Lightning Talk: Use SIMD Pairwise Reduction in C++! - Andrew Drakeford - C++Online 2024" },
+    { "id": "vAwYP0Ox96I", "title": "Lightning Talk: Why False Is Less Than True in Boolean Algebra - Ben Deane - C++Online 2024" },
+    { "id": "dLobaazrvYg", "title": "Lightning Talk: How I Became a C++ Mentor the \"Hard\" Way - Paulo Chiliguano - C++Online 2024" },
+    { "id": "eLyyfXMtR9o", "title": "Lightning Talk: Coccinelle for C++ - Julia Lawall - C++Online 2024" },
+    { "id": "W_v0pvr9pT4", "title": "Lightning Talk: Disentangling The Mikado Method When Refactoring C++ Legacy Code - Phil Nash" }
   ],
   "playlists": [
     {

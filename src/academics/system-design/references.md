@@ -161,6 +161,7 @@ head:
 ## Uber Blog
 
 - [Flaky Tests Overhaul at Uber](https://www.uber.com/en-IN/blog/flaky-tests-overhaul/)
+- [Introducing the Prompt Engineering Toolkit](https://www.uber.com/en-KR/blog/introducing-the-prompt-engineering-toolkit/)
 
 ---
 
@@ -202,6 +203,8 @@ head:
 - [`yandex` / Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 - [`jhk0530` / 국건영 데이터를 활용한 헬스케어 데이터 분석 가이드](https://jhk0530.medium.com/knhanes-healthcare-af51ac310291)
 - [`dev-channel` / A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [`jhk0530` / 랜딩페이지 만들기 원데이클래스 연다](https://jhk0530.medium.com/class-landing-c8989f416d34?source=rss-cb820693bed5------2)
+- [`pinterest-engineering` / How Pinterest Leverages Honeycomb to Enhance CI Observability and Improve CI Build Stability](https://medium.com/pinterest-engineering/how-pinterest-leverages-honeycomb-to-enhance-ci-observability-and-improve-ci-build-stability-15eede563d75)
 
 <!-- END: medium.com -->
 
@@ -905,6 +908,7 @@ head:
 - [Instant Purge: invalidating cached content in under 150ms](https://blog.cloudflare.com/instant-purge/)
 - [Introducing Ephemeral IDs: a new tool for fraud detection](https://blog.cloudflare.com/turnstile-ephemeral-ids-for-fraud-detection/)
 - [Introducing Speed Brain: helping web pages load 45% faster](https://blog.cloudflare.com/introducing-speed-brain/)
+- [Open sourcing h3i: a command line tool and library for low-level HTTP/3 testing and debugging](https://blog.cloudflare.com/h3i/)
 
 <!-- END: blog.cloudflare.com -->
 
@@ -955,6 +959,23 @@ head:
 - [Oh no, I need to design a tinted iOS 18 app icon](https://sketch.com/blog/tinted-app-icons)
 
 <!-- END: sketch.com -->
+
+---
+
+## TWpower's Tech Blog
+
+- [\[UML\] 시퀀스 다이어그램(Sequence Diagram)](https://twpower.github.io/367-sequence-diagram)
+- [\[UML\] 유스 케이스 다이어그램(Use Case Diagram)](https://twpower.github.io/365-use-case-diagram)
+
+<!-- END: twpower.github.io -->
+
+---
+
+## Web Performance Calendar
+
+- [Data-Driven SEO and Web Performance](https://calendar.perfplanet.com/2024/data-driven-seo-and-web-performance/)
+
+<!-- END: calendar.perfplanet.com -->
 
 ---
 

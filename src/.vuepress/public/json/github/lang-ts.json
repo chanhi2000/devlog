@@ -1562,11 +1562,11 @@
     "banner": ""
   }, {
     "repo": "kamranahmedse/driver.js",
-    "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
+    "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page",
     "officialSite": "https://driverjs.com",
     "topics": ["spotlight", "popover", "overlay", "tour", "walkthrough", "product-tour", "overlays", "user-onboarding", "feature-introductions", "product-tours"],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8873c2490ce6f7ecc50ac02ca1e79ed5f5c798bce16ca83793b08260b5932e61/kamranahmedse/driver.js"
   }, {
     "repo": "dogu-team/dogu",
     "desc": "Test automation platform for web, mobile, game applications with many test frameworks",
@@ -3780,11 +3780,11 @@
     "banner": ""
   }, {
     "repo": "Dokploy/dokploy",
-    "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "desc": "Open Source Alternative to Vercel, Netlify and Heroku. at dailydev",
     "officialSite": "https://dokploy.com/",
-    "topics": ["backend", "backups", "databases", "deployment", "devops", "docker", "frontend", "mariadb", "mongodb", "mysql", "nextjs", "postgresql", "self-hosted", "vps"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["mysql", "docker", "backups", "devops", "mongodb", "deployment", "frontend", "backend", "nextjs", "postgresql", "vps", "databases", "mariadb", "self-hosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8b869e8a9b430d73ebc0fc9d7df132ba69957171898887da8ddf5e3e01fd0bd8/Dokploy/dokploy"
   }, {
     "repo": "lmstudio-ai/lms",
     "desc": "LM Studio in your terminal",
@@ -4984,7 +4984,7 @@
     "banner": "https://repository-images.githubusercontent.com/860094786/bc7773fc-f6c3-49d7-b10e-230b82994e01"
   }, {
     "repo": "better-auth/better-auth",
-    "desc": "The most comprehensive authentication library for TypeScript",
+    "desc": "The most comprehensive authentication framework for TypeScript",
     "officialSite": "https://better-auth.com",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -5052,5 +5052,12 @@
     "topics": ["client", "gui", "sqlite", "rqlite", "cloudflare-d1", "libsql", "sqlite-browser"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/744296994/b358d184-6a66-437c-9a22-3b74d90de6b7"
+  }, {
+    "repo": "mediar-ai/screenpipe",
+    "desc": "library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard record...",
+    "officialSite": "https://screenpi.pe",
+    "topics": ["machine-learning", "ai", "computer-vision", "ml", "agi", "vision", "agents", "multimodal", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/d807e2013dfb294ace4b260f6265309d3e2ec08d88e3b5ea378fa044597d9522/mediar-ai/screenpipe"
   }
 ]

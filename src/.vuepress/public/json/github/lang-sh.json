@@ -692,5 +692,12 @@
     "topics": ["tls", "openssl", "x509", "pki"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/72125fb67c9e32e7655de19d9f3ec91366286eaf21e31bf8c8566acaf2d0bfa7/nh2/internal-contstrained-pki"
+  }, {
+    "repo": "lexiforest/curl-impersonate",
+    "desc": "An active fork of curl-impersonate with more versions and build targets.",
+    "officialSite": "/lwthiker/curl-impersonate",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/19f2b0ce3b14246c10b4ed8e140efa298981fffaef1f1d853ec1733ec3ccebb7/lexiforest/curl-impersonate"
   }
 ]

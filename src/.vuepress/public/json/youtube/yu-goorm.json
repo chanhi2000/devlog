@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "goorm",
+    "name": "goorm 모두가 개발자가 된다 ",
+    "profile": "https://yt3.googleusercontent.com/GnEcaPtbuMVfA6WWe_jxclz_4yQzVLDqCKLUlENeaIA2HX-eOQX3TxymDpJDQzeIUrwL4tDU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n--7Ze-TNBPsiMdIhr_rqUF9F_nsZ1fiAu44JKuWqx4wnyH6VLkCCnt77q4Qy9K6iLqCroK_Ew=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NCZ2tpa8kiY", "title": "[re:COMMIT] 비즈니스 마인드를 가진 개발자가 되는 방법" },
+    { "id": "hKyenUeQRes", "title": "어떤 개발자로 성장해야 할지 깨달았어요 | 제주에서 193일간의 개발자 도전기" },
+    { "id": "zraTRYkELfI", "title": "우리가 카테부를 선택한 이유 | 예비 개발자 6인의 성장스토리" },
+    { "id": "i8ajMAClM4w", "title": "우리가 카테부를 선택한 이유 | 예비 개발자 6인의 성장스토리" },
+    { "id": "pv9S5U9Utps", "title": "DEEPDIVE | 풀스택 과정, 기술 너머의 성장을 만나다" },
+    { "id": "JFTEgMagink", "title": "DEEPDIVE | 프로덕트 디자이너 과정, 보이지 않는 가치를 설계하다" },
+    { "id": "eHrwjCJzhuo", "title": "[re:COMMIT] 현지 시장을 위한 글로벌 UX 연구 문화와 방법" },
+    { "id": "LUz2u9Bikr8", "title": "[re:COMMIT] 함께 일하고 싶은 개발자 되기" },
+    { "id": "Q9YFHqt3SJM", "title": "2024 국가사이버안보전략 해설🔒&nbsp;|&nbsp;모든길은 사이버 시큐리티를 통합니다." },
+    { "id": "OiObAq33vUA", "title": "구름톤트레이닝ㅣ성장의 벽을 넘는 첫걸음" },
+    { "id": "NLSzp1Y-qLU", "title": "[re:COMMIT] 시야가 넓은 개발자는 무엇이 다를까" },
+    { "id": "SuxTAEqfH3s", "title": "[re:COMMIT] 더 나은 코드를 위한 켄트 벡의 Tidy First?" }
+  ],
+  "playlists": [
+
+  ]
+}

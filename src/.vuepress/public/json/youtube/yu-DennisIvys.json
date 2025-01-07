@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/cdQ0VJj3ApfoQm0PBa7e1yHkfqS7c7YAlaj4Gw0tnplT4HwL3Gu9Bjhjz5Hq9iNc8PoAhQfIYw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Q6R8WEsD5Rk", "title": "HTMX saved template engines" },
+    { "id": "mNxgGdUHNzk", "title": "First impressions - Django template partials" },
+    { "id": "D_SShzOoQ5s", "title": "I tried HTMX, again..." },
+    { "id": "ynmyyzjkFsQ", "title": "Django developers love HTMX" },
+    { "id": "rgegMr8ImKo", "title": "Building with Django + HTMX" },
+    { "id": "n-a0BLhi0rs", "title": "Django 5.0 Just Made Forms Even Better" },
+    { "id": "A2hps9k9Q3w", "title": "Django 5.1 will be more secure by default" },
     { "id": "jCzL-uoBVkQ", "title": "Submit Your Best Django Project" },
     { "id": "hbvnsse4xGI", "title": "Refreshing Tokens With Fetch | Custom Interceptor" },
     { "id": "VnztChBw7Og", "title": "Building a Mobile App with Django & Flutter" },

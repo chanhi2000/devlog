@@ -16,6 +16,14 @@ tag:
 
 ---
 
+## <FontIcon icon="iconfont icon-nginx"/>NGINX Community Blog
+
+- [Dynamic DNS Resolution Open Sourced in NGINX](https://blog.nginx.org/blog/dynamic-dns-resolution-open-sourced-in-nginx)
+
+<!-- END: blog.nginx.org -->
+
+---
+
 ## The New Stack
 
 - [Freenginx: A Fork of NGINX](https://thenewstack.io/freenginx-a-fork-of-nginx/)

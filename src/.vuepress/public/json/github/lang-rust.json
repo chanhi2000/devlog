@@ -1859,11 +1859,11 @@
     "banner": ""
   }, {
     "repo": "jdx/mise",
-    "desc": "dev tools, env vars, task runner",
+    "desc": "dev tools, env vars, task runner. Contribute to jdx/mise development by creating an account on GitHub.",
     "officialSite": "https://mise.jdx.dev",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/dd46c7e4f056723296b746ae2080fadc624577a09110a2ce8a598571ef246e1c/jdx/mise"
   }, {
     "repo": "obhq/jailbreak-11",
     "desc": "Experimental PS4 jailbreak for 11.00 and lower",
@@ -2384,11 +2384,11 @@
     "banner": ""
   }, {
     "repo": "casey/just",
-    "desc": "🤖 Just a command runner",
+    "desc": "🤖 Just a command runner. Contribute to casey/just development by creating an account on GitHub.",
     "officialSite": "https://just.systems",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/1945?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/c1b0b3e4727b9ff012bd368e3b9d1db568d5dee82df279f560a9bd5ec532c89f/casey/just"
   }, {
     "repo": "makeecat/Peng",
     "desc": "A minimal quadrotor pipeline in Rust (Mac, Linux, Windows)",
@@ -2565,13 +2565,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/4285049?v=4",
     "banner": ""
   }, {
-    "repo": "mediar-ai/screenpipe",
-    "desc": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
-    "officialSite": "https://screenpi.pe",
-    "topics": ["ai", "computer-vision", "llm", "machine-learning", "ml", "multimodal", "vision"],
-    "avatar": "https://avatars.githubusercontent.com/u/179202840?v=4",
-    "banner": ""
-  }, {
     "repo": "orhun/theattyr",
     "desc": "A terminal theater for playing VT100 art and animations",
     "officialSite": "http://artscene.textfiles.com/vt100/",
@@ -2668,7 +2661,7 @@
     "officialSite": "https://lakesail.com",
     "topics": ["python", "rust", "data", "sql", "big-data", "spark", "arrow", "pyspark", "datafusion"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
-    "banner": "https://opengraph.githubassets.com/a698a0013829b7986270c6364b74d5db2ed2cfa05319beece0302da1fabf0cf8/lakehq/sail"
+    "banner": "https://opengraph.githubassets.com/436e1c7a3e6604eba3a2868ccf323e68e37199ef63de5589e6b2282579620403/lakehq/sail"
   }, {
     "repo": "triyanox/lla",
     "desc": "blazing fast `ls` replacement with superpowers. Contribute to triyanox/lla development by creating an account on GitHub.",
@@ -2739,5 +2732,26 @@
     "topics": ["rust", "database", "authentication", "rest-api"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/695277c4dcfdc1d45759113229d6777f47671391453a5e5b4f82f721636ea4c8/trailbaseio/trailbase"
+  }, {
+    "repo": "rgwood/systemctl-tui",
+    "desc": "A fast, simple TUI for interacting with systemd services and their logs at dailydev",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e31354b353b5bdaf091dd413e79386d5a0e8daf2e11ae25f0c4edbe208e40e05/rgwood/systemctl-tui"
+  }, {
+    "repo": "samizdatco/skia-canvas",
+    "desc": "A GPU-accelerated 2D graphics environment for Node.js",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/285112082/4d0650b6-a4bc-4308-98b7-3980f0282589"
+  }, {
+    "repo": "jhugman/uniffi-bindgen-react-native",
+    "desc": "Make React-Native Turbo Modules out of Rust. Contribute to jhugman/uniffi-bindgen-react-native development by creating an account on GitHub.",
+    "officialSite": "https://jhugman.github.io/uniffi-bindgen-react-native/",
+    "topics": ["react-native", "rust-lang", "bindgen"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/42b66183e4d3465c401aa910dd9e468e16a5dc599b8c7dc39e6866ff4fd62766/jhugman/uniffi-bindgen-react-native"
   }
 ]

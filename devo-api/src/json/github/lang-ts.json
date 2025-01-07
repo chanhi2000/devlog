@@ -1562,11 +1562,11 @@
     "banner": ""
   }, {
     "repo": "kamranahmedse/driver.js",
-    "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
+    "desc": "A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page",
     "officialSite": "https://driverjs.com",
     "topics": ["spotlight", "popover", "overlay", "tour", "walkthrough", "product-tour", "overlays", "user-onboarding", "feature-introductions", "product-tours"],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8873c2490ce6f7ecc50ac02ca1e79ed5f5c798bce16ca83793b08260b5932e61/kamranahmedse/driver.js"
   }, {
     "repo": "dogu-team/dogu",
     "desc": "Test automation platform for web, mobile, game applications with many test frameworks",
@@ -3780,11 +3780,11 @@
     "banner": ""
   }, {
     "repo": "Dokploy/dokploy",
-    "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
+    "desc": "Open Source Alternative to Vercel, Netlify and Heroku. at dailydev",
     "officialSite": "https://dokploy.com/",
-    "topics": ["backend", "backups", "databases", "deployment", "devops", "docker", "frontend", "mariadb", "mongodb", "mysql", "nextjs", "postgresql", "self-hosted", "vps"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["mysql", "docker", "backups", "devops", "mongodb", "deployment", "frontend", "backend", "nextjs", "postgresql", "vps", "databases", "mariadb", "self-hosted"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/8b869e8a9b430d73ebc0fc9d7df132ba69957171898887da8ddf5e3e01fd0bd8/Dokploy/dokploy"
   }, {
     "repo": "lmstudio-ai/lms",
     "desc": "LM Studio in your terminal",

@@ -49,21 +49,34 @@ tag:
     "GitLive.Issue tracker integration": "Disabled",
     
     "css.hover.references": false,
-
+    
     "[python]": {
       "editor.defaultFormatter": "ms-python.black-formatter",
       "editor.formatOnSave": true
     },
     "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.tabSize": 2,
       "editor.insertSpaces": true,
     },
     "[javascript]": {
       "editor.tabSize": 2,
       "editor.insertSpaces": true,
+      "editor.defaultFormatter": "vscode.typescript-language-features",
+    },
+    "[typescript]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
+      "editor.defaultFormatter": "vscode.typescript-language-features",
     },
     "[json]": {
-      "editor.tabSize": 2
+      "editor.tabSize": 2,
+      "editor.defaultFormatter": "vscode.json-language-features",
     },
     "vetur.format.options.tabSize": 2,
     "vetur.format.options.useTabs": false,

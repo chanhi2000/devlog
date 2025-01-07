@@ -54,7 +54,7 @@ tags:
 <MyYouTubeItems jsonName="yu-ExecuteAutomation" /><!-- Execute Automation -->
 <MyYouTubeItems jsonName="yu-Mukeshotwani" /><!-- Mukesh otwani -->
 <MyYouTubeItems jsonName="yu-SeniorCoding" /><!-- @시코 - 시니어코딩 -->
-<MyYouTubeItems jsonName="yu-devjaypark" /><!-- 박재호 -->
+<MyYouTubeItems jsonName="yu-채널박재호" /><!-- 박재호 -->
 <MyYouTubeItems jsonName="yu-extudy" /><!-- 두목넷 익스터디 -->
 <MyYouTubeItems jsonName="yu-nnit" /><!-- 누나IT -->
 <MyYouTubeItems jsonName="yu-WizcenterSeoul" /><!-- SEOUL G-캠프 -->

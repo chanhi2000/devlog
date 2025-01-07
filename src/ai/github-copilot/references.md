@@ -38,6 +38,14 @@ head:
 
 ---
 
+## <FontIcon icon="iconfont icon-velog"/>velog
+
+- [`wisepine` / 나의 GitHub Copilot 활용법 & Tip (for IntelliJ)](https://velog.io/@wisepine/%EB%82%98%EC%9D%98-Github-Copilot-%ED%99%9C%EC%9A%A9%EB%B2%95-Tip-for-IntelliJ)
+
+<!-- END: velog.io -->
+
+---
+
 ## ar5iv – Articles from arXiv.org as responsive HTML5 web documents
 
 - [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot](https://ar5iv.labs.arxiv.org/html/2302.06590)

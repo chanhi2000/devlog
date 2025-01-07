@@ -30,5 +30,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-ChromeDevs" /><!-- Google Chrome Developers -->
+<MyYouTubeItems jsonName="yu-theadameubanks" /><!-- Adam Eubanks -->
 
 <TagLinks />

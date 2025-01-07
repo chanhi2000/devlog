@@ -113,6 +113,8 @@ head:
 - [`@2weV` / AI 시대의 인재상 - 'AI'가 중심이 아닌 '사람'이 중심이어야 한다](https://brunch.co.kr/@@2weV/599)
 - [`@2weV` / AI 시대의 HRD (인재 양성)](https://brunch.co.kr/@@2weV/603)
 - [`@2weV` / 때때로 바다를 끓이는 일을 소흘히하지 말자. - AI 시대에 더 귀하게 인정받을 수 있는 인재의 요건](https://brunch.co.kr/@@2weV/604)
+- [`@2Kn8` / AI와 글쓰기: 생산성과 사색의 경계](https://brunch.co.kr/@@2Kn8/232)
+- [`@ZVA` / AI 부상과 '사용자당 얼마' SaaS 가격모델의 파괴](https://brunch.co.kr/@@ZVA/754)
 
 <!-- END: brunch.co.kr -->
 

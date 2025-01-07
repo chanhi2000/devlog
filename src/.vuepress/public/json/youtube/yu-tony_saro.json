@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "tony_saro",
+    "name": "Tony Saro",
+    "profile": "https://yt3.googleusercontent.com/kXEC12VyiHNM-94xyzHAjmKH6H6qt_os0OKrhlprJLydwE_CL-K0r0Gq-jqodJ6ufCHxX01BmHo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mT2j2Gov0TgMiFUj3vcG-YZG11QYRvTNwtJTCw5jqQcGIvCznYtjxr5KyDXowQJPjQ7-5K7s=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5Pc18ge9ohI", "title": "Writing My Own Database From Scratch" },
+    { "id": "F9XmmS8rL4c", "title": "The ORDER BY Algorithm Is Harder Than You Think" },
+    { "id": "CWI6sDEdBLM", "title": "The Most Complicated Algorithm I've Ever Written: SQLite B-Tree Balancing" },
+    { "id": "5Pc18ge9ohI", "title": "Writing My Own Database From Scratch" },
+    { "id": "F9XmmS8rL4c", "title": "How do databases execute ORDER BY clauses?" },
+    { "id": "CWI6sDEdBLM", "title": "The Most Complicated Algorithm I've Ever Written: SQLite B-Tree Balancing" }
+  ],
+  "playlists": [
+
+  ]
+}
