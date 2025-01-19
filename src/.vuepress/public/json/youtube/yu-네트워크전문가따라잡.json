@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "네트워크전문가따라잡",
+    "name": "네트워크 전문가 따라잡기",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lts_eWchcgObPY_lxarrR7FC7HwyYkZgVyblKaT-M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "5bOLG9EwpZE", "title": "제 33회 네트워크 전문가 따라잡기 'N.EX.T' - Session 1 : QUIC & HTTP 3 이제는 현실" },
+    { "id": "bG58r9_BTHc", "title": "제 33회 네트워크 전문가 따라잡기 'N.EX.T' - Session 2 : OCI(Oracle Cloud Infrastructure) AI Vision" },
+    { "id": "WoJojXznQV0", "title": "제 32회 네트워크 전문가 따라잡기 'N.EX.T' - Session 4 : AI/ML을 위한 스위치 특수 기술." },
+    { "id": "88p4_p7hCmU", "title": "제 32회 네트워크 전문가 따라잡기 'N.EX.T' - Session 3-2 : 네트워크 엔지니어가 알려주는 쿠버네티스 네트워크" },
+    { "id": "wMUoICkIOj0", "title": "제 32회 네트워크 전문가 따라잡기 'N.EX.T' - Session 3-1 : 네트워크 엔지니어가 알려주는 쿠버네티스 네트워크" },
+    { "id": "euFDiS58L6w", "title": "제 32회 네트워크 전문가 따라잡기 'N.EX.T' - Session 2 : 멀티벤더 네트워크 환경 구성 실습" },
+    { "id": "8jMJsASi9U8", "title": "제 32회 네트워크 전문가 따라잡기 'N.EX.T' - Session 1 : ZTNA와 이를 위한 솔루션 구축 예제   『소포스 코리아 』 - 김용 이사" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "BlenderUstad",
+    "name": "Blender Ustad",
+    "profile": "https://yt3.googleusercontent.com/yP721PMtQb7jhrrKD7P6AmTA9aJXTTLvB_yTDors5TyhB_FeqG3RR06bjGHei6Jasi4x51RV=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ilvhWWusg-GT_pPxhZHHopFvJFgZOJ0N8fUqIK_jgRGpijeWtqX1R95RjfbzyLHlbNnX3Ng00Q=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "R26d9TGmLgk", "title": "3D Character Creation Part 3| Stylized Texturing in Substance painter" },
+    { "id": "C3qtXFc2owA", "title": "3D Character Creation : From Modeling to Rendering | Course Trailer" },
+    { "id": "0KaFScBrcoE", "title": "Blender 3D Character Creation Part 1 Modeling" },
+    { "id": "4SaTXlI-TUM", "title": "Blender 3D Character Creation part 2 | Making stylized Hair in Blender" },
+    { "id": "cPbWo_DrQ0Q", "title": "The Perfect Bevel in Blender #blenderustad" },
+    { "id": "LVtRdMXCrBM", "title": "Low poly Stylized Sword Modeling in Blender and Substance Painter (Full Time-lapse)" },
+    { "id": "4wU8CFs3OTI", "title": "Robot Mech Rebot Hardsurface Modeling in Blender (Full Time-lapse) part 1" }
+  ],
+  "playlists": [
+
+  ]
+}

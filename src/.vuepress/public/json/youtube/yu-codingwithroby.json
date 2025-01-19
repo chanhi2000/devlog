@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "codingwithroby",
+    "name": "Eric Roby",
+    "profile": "https://yt3.googleusercontent.com/wLnFYQpk4SmzA-D7JGrrSkOZTbbNj-tqMS-VlKNGQKpe9xOlIkMEjE7AiDCYH1ek0ErdPVtObG4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AAhbQvHzDAMZWf6kZe1SEqCfI_xObIFlOC9fmnrDad0CSq41NJQhoKgNV_Gz_4TvZZdyXR53aj8=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fHn_NM9K470", "title": "Learn Python Programming in 1 Hour (2025)" },
+    { "id": "YKRqnWLZbpU", "title": "PydanticAI Tutorial: The AI Data Validation Tool That Will Blow Your Mind" },
+    { "id": "YKRqnWLZbpU", "title": "PydanticAI Tutorial: The AI Data Validation Tool That Will Blow Your Mind" },
+    { "id": "yqRZFuaQvJE", "title": "Learn the FASTEST Way to Build a UI Dashboard in Python" },
+    { "id": "0l0ygSCT_q8", "title": "The ONLY Password Hash You Should Be Using (but NEVER heard about)" },
+    { "id": "U3WU3Hq3DQU", "title": "STOP Wasting Your Time Writing Bloated Code" },
+    { "id": "m28TTogdcbk", "title": "Want GREAT App Performance? Don’t Miss This OpenTelemetry Tutorial!" },
+    { "id": "_eQtmNcoJKg", "title": "Python is NOW the MOST Popular Programming Language!" },
+    { "id": "jzEJ6eRwc1c", "title": "SQLAlchemy vs. SQLModel: Which Python ORM is BEST?" },
+    { "id": "x4zpR2TeO9g", "title": "Build a Video Upload & Playback App in Just 15 Minutes with FastAPI" },
+    { "id": "7DSuYAt0OlE", "title": "I Stopped Using Everything Else Once I Found Pydantic" },
+    { "id": "PlZcgIMk3aw", "title": "Supabase Tutorial: Build Full Stack FastAPI Apps 10x Faster (step-by-step)" },
+    { "id": "YGZCsT0mIhk", "title": "This New Python Tool Makes Dependencies 10x FASTER! (uv tutorial)" },
+    { "id": "AmqdgFuqhv8", "title": "Cursor AI Tutorial: How I Turn Ideas Into Code Fast (Start Here)" },
+    { "id": "AxA8YH_UyBo", "title": "FastHTML Tutorial: Build Modern Web Applications with Pure Python" },
+    { "id": "nrm8Lre-x_8", "title": "Stop Wasting Hours - Every Python Dev NEEDS to Master Poetry" },
+    { "id": "itfI5W3pCHE", "title": "FastAPI vs Flask: Which is BEST for you?" },
+    { "id": "xr7vDSFXjW0", "title": "SQLAlchemy Makes Using Python Databases EASY" },
+    { "id": "RU6Fk6bmBk8", "title": "SQLModel: The Python Library You Didn’t Know You Needed" },
+    { "id": "f270BoTicMA", "title": "Dependency Injection Explained Like You’re 5 (with FastAPI Examples)" },
+    { "id": "oL1yc0BuqL0", "title": "Build an Entire App with a Single API: GraphQL Python Tutorial" },
+    { "id": "wqVyN2LAFDY", "title": "Connect Amazon RDS to FastAPI [Complete Cloud Guide]" },
+    { "id": "bGw9An9rI18", "title": "FastAPI vs. Django REST Framework: Which One Should You Choose?" },
+    { "id": "z1W2glBmuk8", "title": "FastAPI vs Django - The Ultimate Showdown! (Detailed Comparison)" },
+    { "id": "g566eI2EmeY", "title": "How to build a NextJS + FastAPI application (step-by-step tutorial)" }
+  ],
+  "playlists": [
+
+  ]
+}

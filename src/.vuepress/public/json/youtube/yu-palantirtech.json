@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "palantirtech",
+    "name": "Palantir",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kL2ChhO6_vR8RPg9Z9FbgMJGsguPZLiSz-BOKVebouwRY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/l0Zypjzh0SYSo5Q7YoL9m9_3gHZz2nsq5n_uaWJFZG_i8k7N7HXDl6U1BTXb5nw86TwgKrU4BQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Nmlx4FxCAq0", "title": "AIP for Santa | Supply Chain Edition" },
+    { "id": "UVLDANg9oLw", "title": "The Defense Reformation" },
+    { "id": "StuGNHgrDn8", "title": "Palantir Technologies | Q3 2024 Earnings Webcast" },
+    { "id": "kntssghhi94", "title": "Palantir + Ferrari: Building Ultimate Performance with Charles Leclerc" },
+    { "id": "Ha0KrXzI4SM", "title": "Palantir | Visual Navigation for Drones" },
+    { "id": "jLYsw3z7IJA", "title": "Foundry for Enterprise | AT&T at AIPCon 5" },
+    { "id": "XzKnUt6NAbw", "title": "Accelerating Decision Making | National Geospatial-Intelligence Agency at AIPCon 5" },
+    { "id": "2CHsZe-1Hzk", "title": "Overcoming Challenges Amidst COVID-19 Supply Chain Disruptions | TrinityRail at AIPCon 5" },
+    { "id": "GFYdOaaqAGw", "title": "Classifying Data with LLMs | Aramark at AIPCon 5" },
+    { "id": "q4bHiM-eePs", "title": "A Forward-deployed Approach to Clinical Workflows | Tampa General at AIPCon 5" },
+    { "id": "pxnhy0V1BEo", "title": "Scaling Value and Transforming Pricing Strategy | Komatsu at AIPCon 5" },
+    { "id": "REpYvTS3QQA", "title": "AI-Powered Intelligence with the Dynamic Risk Library | Crisis24 + Palantir" },
+    { "id": "o4UxSd1K-2U", "title": "Palantir Technologies | Q2 2024 Earnings Webcast" },
+    { "id": "MOxGftk2gHw", "title": "Introducing AIP Pipeline Outage Scheduling | Kinder Morgan + Palantir" },
+    { "id": "k88WbxMEvPY", "title": "Palantir Architecture Speedrun | From Integration to Application" },
+    { "id": "cyaVInqZ5Y0", "title": "Transforming Membership Engagement | AARP at AIPCon 4" },
+    { "id": "CcGk6qhnl9E", "title": "Palantir and Striveworks | AI-Powered Insight for Mission Critical Operations" }
+  ],
+  "playlists": [
+
+  ]
+}

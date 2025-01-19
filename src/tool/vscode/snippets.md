@@ -21,18 +21,33 @@ tag:
 
 ## 💡How to
 
-Each snippet is defined under a snippet name and has a prefix, body and description. 
-The prefix is what is used to trigger the snippet and the body will be expanded and inserted. 
+Each snippet is defined under a snippet name and has a prefix, body and description.
+
+The prefix is what is used to trigger the snippet and the body will be expanded and inserted.
+
 Possible variables are: `$1`, `$2` for tab stops, `$0` for the final cursor position, and `${1:label}`, `${2:another}` for placeholders.
 
 Placeholders with the same ids are connected.
 
 ### <FontIcon icon="fas fa-folder-open"/>저장위치
 
-- <FontIcon icon="fa-brands fa-windows"/>`%APPDATA%\Code\User\snippets`
-- <FontIcon icon="fa-brands fa-apple"/>`~/Application Support/Code/User/snippets`
-
 ::: tabs
+
+@tab:active <FontIcon icon="fa-brands fa-windows"/>
+
+```plaintext title="Location"
+%APPDATA%\Code\User\snippets
+```
+
+@tab <FontIcon icon="iconfont icon-macos"/>
+
+```plaintext title="Location"
+~/Application Support/Code/User/snippets
+```
+
+:::
+
+::: code-tabs#json
 
 @tab:active <FontIcon icon="iconfont icon-json"/>`markdown.json`
 
@@ -202,6 +217,67 @@ Placeholders with the same ids are connected.
       "<!-- TODO: 작성 (/explore/articles/${1:domain}/${2:link}.md) -->${0}"
     ],
     "description": "Create TODO Tag for writing articles"
+  },
+  "MdCodeTabs": {
+    "prefix": "mct",
+    "body": [
+      "::: code-tabs#${1:lang}",
+      "",
+      "@tab:active ${2:target}",
+      "",
+      "```${1:lang}",
+      "```",
+      "",
+      "@tab ${3:targetNext}",
+      "",
+      "```${1:lang}",
+      "```",
+      "",
+      ":::${0}"
+    ],
+    "description": "Create Code Tabs"
+  },
+  "MdSandpackReact": {
+    "prefix": "mspr",
+    "body": [
+      "::: sandpack#${1:lang} ${2:title} [rtl theme=dark]",
+      "",
+      "@file /App.js",
+      "",
+      "```js",
+      "import React from \"react\";",
+      "",
+      "import \"./styles.css\";",
+      "",
+      "function App() {",
+      "  return (",
+      "    <div className=\"App\">",
+      "      <h1>Hello CodeSandbox</h1>",
+      "      <h2>Start editing to see some magic happen!</h2>",
+      "    </div>",
+      "  );",
+      "}",
+      "export default App;",
+      "```",
+      "",
+      "@file /styles.css",
+      "",
+      "```css",
+      "```",
+      "",
+      "@setup",
+      "",
+      "```js",
+      "{",
+      "  dependencies: {",
+      "    \"${3:pname}\": \"${4:pversion}\"",
+      "  }",
+      "}",
+      "```",
+      "",
+      ":::${0}"
+    ],
+    "description": "Create Sandpack Template"
   },
   "TgKbd": {
      "prefix": "tgkbd",

@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "legacycoder",
+    "name": "중년코딩",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kTHaJd1pKY1ppwcaPz9mUQxFdUIXHtmUNT3EwlF-83FA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eu6u46k6TW5d4AYYoCQB5rOpLv8Zicf5hIEmqmEGjyqrQeDnLSHQuKyd-isjsGfOZR1MUuJuRA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "q5vHVMFE_KY", "title": "엑셀 파워쿼리로 동적 페이지 500개 한번에 크롤링하기" },
+    { "id": "z5f6BET2Iw4", "title": "챗GPT 업데이트를 반영한 구글스프레드시트 베스트셀러 개정판이 나왔다고?" },
+    { "id": "uKaJ5FVmhC8", "title": "탈잉x중년코딩! 더이상 구글시트를 엑셀처럼 쓰지 마세요!!" },
+    { "id": "lNUXDNoFfuU", "title": "\"일잘러의 비밀 구글 스프레드시트 제대로 파헤치기\" - 13분 요약! 출판사에 혼나면 어떡하지?!!!" },
+    { "id": "D7fb4jkFRbg", "title": "구글 스프레드시트 앱스 스크립트 편집기의 천지개벽" },
+    { "id": "V0nL1lVv_sE", "title": "구글스프레드시트 이미지 함수로 바코드, QR코드, 크롤링하기" },
+    { "id": "bxpbtyUd8O4", "title": "엑셀 거북이 레이싱이 돌아왔다! 구글 시트로 사다리타기" },
+    { "id": "5u_02547TEU", "title": "하마터면 열심히 엑셀할 뻔 했다! 8. 뭘 좀 아는 사람들의 학습에 대하여" },
+    { "id": "aQLyl06NThI", "title": "하마터면 열심히 엑셀할 뻔 했다! 7. 엑셀보다 편리한 구글 시트 팁 6가지" },
+    { "id": "CgSExM109r0", "title": "하마터면 열심히 엑셀할 뻔 했다! 6. 앱스 스크립트(매크로)로 구글 시트에게 일시키기" },
+    { "id": "AOp95zPLuMY", "title": "하마터면 열심히 엑셀할 뻔 했다! 5. 구글 시트 설문지 어디까지 써봤니?" },
+    { "id": "oytNIFbFD7c", "title": "하마터면 열심히 엑셀할 뻔 했다! 4. 구글 시트의 Import형제들로 크롤링하기!" },
+    { "id": "93m8TRBCgOc", "title": "하마터면 열심히 엑셀할 뻔 했다! 3-3. 구글 시트 배열함수 끝판왕 Query!!" },
+    { "id": "bNY1SnXBsXk", "title": "엑셀 = 야근, 구글시트 = 칼퇴! 3-2. Filter를 함수로 쓴다고?" },
+    { "id": "QNVtcoJZa_k", "title": "엑셀=야근,구글시트=칼퇴_3-1. 제일 중요한 개념: 배열!" },
+    { "id": "9OMS7so9bj0", "title": "엑셀=야근,구글시트=칼퇴_2.Arrayformula:엑셀 수식 10만개를 하나로 줄이는 마법!" },
+    { "id": "4-C-utnRk4Q", "title": "엑셀=야근,구글시트=칼퇴_1.ImportRange로 최신소스 유지하기" },
+    { "id": "fzNJ1JVapEs", "title": "엑셀=야근,구글시트=칼퇴_0.오분만에 증명하는 구글시트의 장점" },
+    { "id": "3HAqi77w9SE", "title": "엑셀=야근,구글시트=칼퇴! 왜 엑셀 말고 구글 시트를 해야 하죠?" }
+  ],
+  "playlists": [
+
+  ]
+}

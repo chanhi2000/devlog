@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "learn_ai",
+    "name": "GPT코더",
+    "profile": "https://yt3.googleusercontent.com/JuANyLcoPRktTC7NcFQVU6QsKKsT1JNEUT1IAIolxd0qTV-C4kToXYo_RTjIWHboGuOpOiU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Z_cCOAxkvGTtixjjOhkEN0rES5uLWiTUnfXjEfsj0XNkdjo2pjuBPGPr21dvWWoLZD9LOalV=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "E_bGELsylHs", "title": "커서AI 디버거 사용=생산성 10x (ft. VS코드 동일)" },
+    { "id": "iv3ac1Xktu0", "title": "GPT, 언어모델, API, Playground 이해하기 (LLM 앱 개발)" },
+    { "id": "jea3eSNyTXM", "title": "#2/2.open ai  GPT api로 블로그 대량생산하기 (초보용)" },
+    { "id": "XRZ-_gJ2wvM", "title": "커서AI 설치&사용법 (feat.클로드, 챗GPT)" },
+    { "id": "LbdwRH8A2Jw", "title": "커서AI로 코딩 없이 앱만들기 (챗GPT는 이제 놓아주세요)" },
+    { "id": "kLhRmjwfGI8", "title": "챗GPT 고인물이 10초만에 업무일지 쓰는 방법 (ft. gpt-4o)" },
+    { "id": "lsFzst2r04E", "title": "챗GPT로 불필요한 정보 필터링하기" },
+    { "id": "TLC_TS7Ul4w", "title": "5. 챗GPT로 쇼핑리스트 레이아웃 정리하기 (gpt-4o)" },
+    { "id": "0bOGPu4nN04", "title": "#gpts 모임비 계산하는 GPT 만들기" },
+    { "id": "t5YYcdWQd3Q", "title": "4. 챗GPT와 외부 서비스 (네이버API) 연결하기 (gpt-4o)" },
+    { "id": "iK3xTa6DUck", "title": "3. 챗GPT(GPT-4o)로 쇼핑리스트에 기능 추가하기" },
+    { "id": "HpcgqZHYX7o", "title": "2. 코딩 안배워도 챗GPT(GPT-4o)가 다 해주니까" },
+    { "id": "otmRWU-YkMQ", "title": "Making YouTube subtitles in 80 languages with ChatGPT, the king of translation performance" },
+    { "id": "nTvxy8cLkqc", "title": "챗GPT로 매출 데이터 분석하기: 실생활 적용 사례!" },
+    { "id": "XDm7R6nT0-s", "title": "챗GPT한테 코딩 시킬때 가장 중요한 것! (+웹크롤러)" }
+  ],
+  "playlists": [
+
+  ]
+}

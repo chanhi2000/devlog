@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "chowooick",
+    "name": "단순코드 - Simple Code",
+    "profile": "https://yt3.googleusercontent.com/IXx2Fm7qxuteuxJcUXtTD2XMdYEYW77nmhpBrc_qTtWLEZxxPA2ESEP9J3VY0tPMdFJqB-XypQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DSE-J0l7tFKY2I3OJUOdL4dfyqCOxKJiAEh8WFGaP_5oRDEp8JJMRseImFlXjJDuAnI-JnEU2w=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qFSXHkA4Y94", "title": "4.  Agent 만들기 | LangChain Tutorial" },
+    { "id": "lSesCfK3TZg", "title": "5. RAG App 만들기 | LangChain Tutorial" },
+    { "id": "bPSx1xhhy8A", "title": "3. 벡터스토어와 리트리버 만들기 | LangChain Tutorial" },
+    { "id": "7bqT3f8EV1E", "title": "2.챗봇 만들기 | LangChain Tutorial" },
+    { "id": "GuivI1YMncI", "title": "1. 간단한 LLM 어플리케이션 만들기 | LangChain Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

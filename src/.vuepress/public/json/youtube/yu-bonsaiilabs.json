@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "bonsaiilabs",
+    "name": "bonsaiilabs",
+    "profile": "https://yt3.googleusercontent.com/qUavkCnLRyEz22NDTvJPNILm4UiIH1nMYqNdkK7PJiU8UVRMBjY6gujHMa1UZ5tLP9qocOIS9A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vJXX8e_iXPSkC0pnY6q65Ripcw__Kr1yIQ_TB-tOlrTtQek4OYTQpaznhHXKddybnNLY6dHNeqo=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b8eTDJHh30g", "title": "Simplified Development with the Power of GitHub Codespaces" },
+    { "id": "D_psIOHEwe0", "title": "[2/12] Getting Started with GitHub Codespaces: Easy Setup & Free Plan Benefits" },
+    { "id": "RjCAK67QkJE", "title": "[3/12] Create Your Development Environment in Browser with Github Codespaces" },
+    { "id": "2P-LycfbDF0", "title": "[4/12] How to Set Up and Use GitHub Codespaces for Your Existing Project" },
+    { "id": "dnDN5G7cUVk", "title": "[5/12] How to Connect VS Code to GitHub Codespaces Locally" },
+    { "id": "gJw_2qzSWK4", "title": "[6/12] How to Find and Check Usage of Your Codespaces on GitHub | Step-by-Step Guide" },
+    { "id": "-tgOYRtcI0Y", "title": "[7/12] How to Rename Your Codespace in GitHub: Step-by-Step Guide" },
+    { "id": "iuWysBqF9N8", "title": "[8/12] How to Set and Manage Your GitHub Codespaces Region" },
+    { "id": "xknEJftiDQ8", "title": "[9/12] How to Change Machine Configuration in GitHub Codespaces" },
+    { "id": "D6xFL03_LNI", "title": "[10/12] Managing GitHub Codespaces Usage and Costs: Tips & Tricks" },
+    { "id": "8CHHoAIQJ3g", "title": "[11/12] Maximizing Efficiency: Quick Changes in GitHub Codespaces" },
+    { "id": "jmRJNLL7QvA", "title": "[12/12] Streamline Your Code Reviews with GitHub Codespaces 🔥 | Step-by-Step Guide" },
+    { "id": "nxHqiN_07Sw", "title": "Learn About Any Github Repo With GitHub Copilot" },
+    { "id": "JTJDfEXsSnk", "title": "Running LLMs Locally Made Easy: A Msty Review" },
+    { "id": "HSTxvQGHkVc", "title": "Whisper WebGPU: ML Speech Recognition in React Apps" },
+    { "id": "i7fUO95LDRY", "title": "Browse Suggestions From Github CoPilot" },
+    { "id": "jxRcQwlus5c", "title": "Write TypeScript Programs with GitHub CoPilot" },
+    { "id": "wg9iDpGOoJg", "title": "Creating a Docker File with GitHub Copilot" },
+    { "id": "ecX3To06aA0", "title": "Understanding Model Parameters: 8B vs 70B Explained" },
+    { "id": "ezOZxHPF_j0", "title": "Exploring AI in Chrome Dev Tools: Error Resolution Guide" }
+  ],
+  "playlists": [
+
+  ]
+}

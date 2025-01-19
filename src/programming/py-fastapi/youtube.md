@@ -28,4 +28,6 @@ head:
 
 ---
 
+<MyYouTubeItems jsonName="yu-codingwithroby" /><!-- Eric Roby -->
+
 <TagLinks />

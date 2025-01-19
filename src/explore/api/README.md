@@ -479,6 +479,20 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="http://gitingest.com/static/favicon-64.png"
   preview="http://gitingest.com/static/og-image.png"/>
 
+<SiteInfo
+  name="GitDiagram - Repository to Diagram in Seconds"
+  desc="Turn any GitHub repository into an interactive diagram for visualization."
+  url="https://gitdiagram.com/"
+  logo="https://gitdiagram.com/favicon.ico"
+  preview="https://gitdiagram.com/og-image.png"/>
+
+<SiteInfo
+  name="lmno.lol"
+  desc="Wholesome blogs minus the yucky bits of the modern web"
+  url="https://lmno.lol/"
+  logo="https://lmno.lol/favicon-64.png"
+  preview="https://lmno.lol/share.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

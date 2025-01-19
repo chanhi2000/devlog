@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "citizendev9c",
+    "name": "시민개발자 구씨",
+    "profile": "https://yt3.googleusercontent.com/KqZHS2mgMcVPolnUojNcT2TJety1g1pQxyFCUZVlQgb40xTCY0GRLV3tMjrGN_U2u5-z3qvBXw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zQnlT95KqdboWnfI1MWFpShKwzXON5a8FZUVl4ddTuwjI8jzPZS2xJNge9555P1VFSwJe7Iy=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uem1UCYukQQ", "title": "챗GPT를 대체할 리서치 도구? 퍼플렉시티의 진짜 강점 (신규 기능 포함)" },
+    { "id": "qs5F5ueI3F8", "title": "모든 SNS 데이터, 코딩 없이 추출! MAKE + APIFY 활용법" },
+    { "id": "h9l-d61GjI8", "title": "무료 Google AI Studio, 유료 챗GPT에도 없는 기능 제공! 과연 답변 퀄리티는?" },
+    { "id": "8zcCK8Bn7Jc", "title": "문서 관리 혁신! PDF 정리부터 관리까지 AI로 완벽 자동화" },
+    { "id": "khAtjwLxcAw", "title": "챗GPT 성능 극대화! 프롬프트 엔지니어링 쉽게 하는 꿀팁!" },
+    { "id": "OcvvLAgUUaM", "title": "MAKE와 챗GPT로 코딩 없이 모든 웹사이트 크롤링하세요!" },
+    { "id": "CsPx9dSIYmM", "title": "챗GPT 프로젝트, 클로드, GPTs와 차이 공개! 어떤 걸 선택할까?" },
+    { "id": "tHxvqW1ka3k", "title": "텍스트 추출 끝판왕! 노코드 필수 수식 REGEX 쉽게 배우기" },
+    { "id": "-hXY55kwDCk", "title": "업무 효율 바로 올라가는 무료 AI툴 7개 추천! (안쓰면 후회합니다)" },
+    { "id": "lB_clpxaGjw", "title": "루커스튜디오 데이터 혼합 모르면 대시보드 못 만듭니다! 데이터 혼합 기능 완벽 가이드 (예시 제공)" },
+    { "id": "NlN2853sC2c", "title": "바로 써먹는 스프레드시트 꿀팁 13개! 업무 효율 200% 오른다" },
+    { "id": "wkE3qWwQyS4", "title": "ChatGPT Search 출시! Perplexity 비교해봤습니다. 이게 더 좋습니다." },
+    { "id": "Cl6wXL_zQSo", "title": "코딩 없이 GPT로 메일 업무 자동화! MAKE 초보자 튜토리얼" },
+    { "id": "KtvGNIAwxsc", "title": "업무에 바로 적용! ChatGPT 고급 음성 모드 활용법 5가지" },
+    { "id": "bRiRYxcQdLw", "title": "앱시트 싱크 최적화로 성능 극대화하기! 초보자도 15분 안에 마스터하세요" },
+    { "id": "fEDRUeRaO04", "title": "유튜브 데이터, 코딩 없이 무료로 자동 수집하기! MAKE + SerpApi 완벽 튜토리얼" },
+    { "id": "9h4gkO3frmY", "title": "노코드툴 앱시트 AI 기능 출시! (앱 제작에 유용할까?)" },
+    { "id": "FgTgKQVjYUQ", "title": "직장인을 위한 스프레드시트 QUERY 완벽 가이드 - 40분만에 마스터하기!" },
+    { "id": "it_TrJDEqD4", "title": "스프레드시트에서 이메일 여러개 한번에 추가하는 업무 꿀팁!" },
+    { "id": "ZrKeM2UKwgA", "title": "앱시트 데이터베이스 vs 스프레드시트 vs RDBMS: 어떤 소스가 제일 좋을까?" },
+    { "id": "xG_kvTx_3DQ", "title": "앱시트 테이블 키 값 설정, 아무 생각 없이 하면 후회합니다" },
+    { "id": "VkXKBvUpLoY", "title": "앱시트 데이터 엑셀, csv로 추출하기, 이 영상 하나면 끝!" },
+    { "id": "2aiFvbRVGok", "title": "구글 스프레드시트 공백 행, 한 방에 제거하는 방법!" },
+    { "id": "VE7O1WvCddw", "title": "2024년 업데이트된 구글 스프레드시트 신기능 총정리 (모르면 정말 손해!)" },
+    { "id": "FgTgKQVjYUQ", "title": "직장인을 위한 스프레드시트 QUERY 완벽 가이드 - 40분만에 마스터하기!" },
+    { "id": "ZrKeM2UKwgA", "title": "앱시트 데이터베이스 vs 스프레드시트 vs RDBMS: 어떤 소스가 제일 좋을까?" },
+    { "id": "2aiFvbRVGok", "title": "구글 스프레드시트 공백 행, 한 방에 제거하는 방법!" },
+    { "id": "iqeKZQ24zxQ", "title": "앱시트에서 월별 매출 합계 구하는 방법" },
+    { "id": "eMnRtalXFE8", "title": "직원 온보딩을 앱으로? 노코드툴 앱시트로 온보딩 앱 만들기" },
+    { "id": "qmCP3RxCUlc", "title": "앱시트로 PDF 파일 생성하는 법!" },
+    { "id": "YIMxhadADf4", "title": "직원 온보딩을 앱으로? 노코드툴 앱시트로 온보딩 앱 뷰 구성하기" },
+    { "id": "wRgckSVfBZE", "title": "노코드툴 앱시트로 직원 온보딩 앱 완성하기 (반복문 만드는 꿀팁 포함!)" },
+    { "id": "pKPAC29Efls", "title": "쉽고 효율적인 주식 매수 시스템 만들기 (바쁜 직장인 필수템!)" },
+    { "id": "iBxVY6u-sJ4", "title": "120개 노코드 AI툴 써보고 실제로 생산성 500% 높인 인생 툴 12가지" },
+    { "id": "q7ltVCV5_MY", "title": "구글 스프레드시트에서 Gemini 업무에 활용해보기 ('돈값'할까?)" },
+    { "id": "UcosBuIWaCo", "title": "스프레드시트 데이터로 무료로 대시보드 만드는 루커스튜디오 완벽 튜토리얼 (초보자용)" },
+    { "id": "JUB_lcZp8fo", "title": "앱시트 초보자라면 꼭 알아야할 데이터 자동 완성하는 3가지 방법" },
+    { "id": "c4Hua-KjG_M", "title": "ChatGPT 박사급 추론 능력 갖춘 OpenAI-o1 신규 모델 출시 (꼭 써보세요!)" },
+    { "id": "P9IuEH6g-hw", "title": "앱시트 캘린더 뷰 완벽 가이드! 구글 캘린더 연동과 색상 설정까지" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "comworld_itdaily",
+    "name": "컴퓨터월드 / IT DAILY",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lwEHPIvaiglCwTkCe5Tk1_I9CjQipO94_50qm6PHjt2A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hwchT07rMaM", "title": "[2024 정보보호 솔루션 콘퍼런스] 제로트러스트, 어떻게 적용할 것인가? - 투이컨설팅 김정욱 이사" },
+    { "id": "mQcxZmlzy4Q", "title": "[2024 정보보호 솔루션 콘퍼런스] 제로트러스트 기반 클라우드 환경의 계정 관리 서비스 SHIELD ID - 소프트캠프 강대원 본부장" },
+    { "id": "MnJF3Qs8AuE", "title": "[2024 정보보호 솔루션 콘퍼런스] 제로트러스트 아키텍처의 핵심 솔루션 - Micro Segmentation - 굿모닝아이텍 권중술 상무" },
+    { "id": "9hzV-fmAcB0", "title": "[2024 정보보호 솔루션 콘퍼런스] SGA 제로트러스트 컨설팅 및 SGA ZTA 구축 방안 - SGA솔루션즈 전략기획팀 박재혁 차장" },
+    { "id": "i_MwnpCW9QQ", "title": "[2024 정보보호 솔루션 콘퍼런스] 제로트러스트 보안 모델과 구현 전략 - 엠엘소프트 이재준 전략기획 팀장/이사" },
+    { "id": "059diH2IlAM", "title": "[2024 정보보호 솔루션 콘퍼런스] 제로트러스트, 이제는 확산이다 - 아주대학교 사이버보안학과 박춘식 교수/(전)한국정보보호학회 회장" },
+    { "id": "zIHUb5XM6-4", "title": "[2024 데이터 컨퍼런스] Chat GPT 1년, 초거대 AI가 불러온 변화와 우리의 대응전략 - 네이버클라우드 하정우 AI이노베이션 센터장" },
+    { "id": "w8soHF_QQLg", "title": "[2024 데이터 컨퍼런스] AI가 가져올 데이터 분석 업무의 미래 - 비아이매트릭스 배영근 대표" },
+    { "id": "w4VWHcO2GyI", "title": "[2024 데이터 컨퍼런스] 사용자 중심의 생성형 AI를 활용하기 위한 데이터 활용 및 관리 전략: Knowledge Base 구축을 중심으로 - AWS 김정원 솔루션즈 아키텍트" },
+    { "id": "vJLYpVtJLKI", "title": "[2024 데이터 컨퍼런스] One Stop Solution Provider (시행착오 없이 비즈니스 효과를 극대화할 수 있는 AI 빅데이터 플랫폼) - 바이텍씨스템 윤광연 상무" },
+    { "id": "gSATBcvEUCA", "title": "[2024 데이터 컨퍼런스] Edge 기반 제조설비 품질예방 솔루션 - 아인스페이스 강현종 솔루션 개발총괄" },
+    { "id": "eiyFiH7Oa9U", "title": "[2024 데이터 컨퍼런스] 기업의 생성형 AI 전략적 활용: 함정과 성공의 조건 - 리비젼컨설팅 전용준 대표" },
+    { "id": "Yk4JQzVM11I", "title": "[2024 데이터 컨퍼런스] 생성형 AI 기술과 데이터 패브릭 전략 - 데이터스트림즈 천승태 이사/연구소장" },
+    { "id": "XM_RN9yZzFk", "title": "[2024 데이터 컨퍼런스] 데이터 아키텍처 변화와 데이터 카탈로그 - 지티원 어호경 전무" },
+    { "id": "Em1ib9EXQpg", "title": "[2024 데이터 컨퍼런스] Real Stories about Striim CDC & Streaming Integration - 데이타벅스 송정욱 이사(기술 총괄)" },
+    { "id": "8cCiMbAFzpM", "title": "[2024 데이터 컨퍼런스] 데이터 기반의 엔터프라이즈 생성형 AI 플랫폼 - 클라우데라 김호중 전무(솔루션 엔지니어링 팀장)" },
+    { "id": "8DwZrwSYK6w", "title": "[2024 데이터 컨퍼런스] Lakehouse를 위한 AI 데이터플랫폼 - 데이타솔루션 김종기 전무" }
+  ],
+  "playlists": [
+
+  ]
+}

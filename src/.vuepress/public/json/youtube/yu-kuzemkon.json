@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/kafkbuwBGdp-esyy_E6C0kcqy7QWpwz_bkAHUfDaQCRPqjNCFCjyW84m7_8jna3Jo38YP1NV7vQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "a6vIsa2MJlk", "title": "What Is AWS VPC? Full Setup Tutorial" },
+    { "id": "PlpiBeq1YR0", "title": "AWS Regions vs. Zones: What’s the Difference and How They Work" },
+    { "id": "NpxhJKsvoYQ", "title": "How to Build Secure and Reliable Networking Between Kubernetes Clusters" },
+    { "id": "62lLDfXuUaE", "title": "Self-Hosted vs. Cloud-Native: The Ultimate Guide to Multi-Cloud Deployment" },
+    { "id": "lXUzMjCZvJY", "title": "How to Setup AWS Certificate Manager for EC2 Instance" },
+    { "id": "3pzSCvwFi_M", "title": "Building a Highly Scalable Authentication Service: Architecture Walkthrough" },
+    { "id": "uoSPlX0Yt8I", "title": "How to Build Scalable, Low-Latency Multi-Region Cloud Infrastructure on GCP" },
+    { "id": "cm_NkYZBIqY", "title": "Entrepreneur Required Skills You Need to Succeed in Business" },
+    { "id": "CdptE6ayGX4", "title": "Market Fit Product Guide: The Ultimate Blueprint for Success" },
+    { "id": "THd3aSQ1tMw", "title": "How to Get Valuable Feedback from Your MVP?" },
+    { "id": "gu3F1vob7pM", "title": "Building an MVP for Startups: How to Avoid Overengineering" },
+    { "id": "4G4OoqCXYts", "title": "Business Model Canvas Lean Startup: Step-by-Step Guide" },
     { "id": "h4I-wL-7nCA", "title": "Top Mistakes Every Startup Makes When Getting Started" },
     { "id": "YN6zR-BBptU", "title": "How To Find A Successful Startup Idea" },
     { "id": "kZPizHnAcJM", "title": "Here's why you shouldn't build an MVP" },

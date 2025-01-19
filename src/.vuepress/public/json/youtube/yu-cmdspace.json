@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "cmdspace",
+    "name": "CMDSPACE",
+    "profile": "https://yt3.googleusercontent.com/1Ol0r5pewOY-wkqPddHUntS6IhLZgjGYsqGBnx6PZu3gMHfQiYl2Kc3GEaP4vfULAyujJcA45A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/k7n_TbEXFZd6GS17wBNgyTRNy8zlGTeJr7p7le9975oT_6wv9jHcJDsaeYZapv5Rtm-K6t0XyCE=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_igEIdt2cVY", "title": "옵시디언에서 RAG를 할 수 있다고? Cursor 보다 쉽고 편한 방법 #SmartComposer" },
+    { "id": "LxvbzoCfdw0", "title": "DeepL 번역기를 완벽하게 사용하는 5가지 방법 #DeepL #번역기" },
+    { "id": "eReqYwZg7yk", "title": "다들 이렇게 ChatGPT 사용하고 계시죠? 스트림덱으로 내 워크플로우 자동화하기 #streamdeck" },
+    { "id": "heqhzKPBVHs", "title": "지식관리 끝판왕 앱으로 ChatGPT를 업그레이드 해보자" },
+    { "id": "U0bBdH1uHgQ", "title": "빠르고 쉽게 살펴보는 연구자를 위한 ChatGPT 기초 세미나(요약)" },
+    { "id": "J1BqZZBfzSk", "title": "번역기는 무조건 이거 써야합니다. 영어와 한국어를 가장 잘 번역하는 번역기 추천!! (파파고, 구글, 카카오, DeepL 4종 비교)" },
+    { "id": "qSQBe0Ux23w", "title": "ChatGPT 처음 사용법 - 어떻게 시작하는거야? 나는 한국말로 좋은 대답을 듣고싶어" },
+    { "id": "migxXjXOvy0", "title": "논문 읽고 정리하는 법(옵시디언으로 논문 리뷰하기)" },
+    { "id": "CkEkCUCZG3I", "title": "[1st PKM Conference] 4. PKM 시작하며 궁금하고 고민되는 것들(사전질문 및 마무리)" },
+    { "id": "PNyDDRnFpKg", "title": "연구자를 위한 AI 마스터 클래스 - 연구 프로세스별 활용법 강의 소개 #패스트캠퍼스" }
+  ],
+  "playlists": [
+
+  ]
+}

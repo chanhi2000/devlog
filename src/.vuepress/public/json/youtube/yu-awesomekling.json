@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/65EvafzfLD9eihr4LXrwnBz2cSK3dlVebPuqZ9RAGJeEGEVZBt3FSBgcJ-jcCVEvWcW4Rf5A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oryoZFvW7is", "title": "Let's fix some bugs in Ladybird's DOM (and improve our WPT score!)" },
+    { "id": "X4S9afzRTXs", "title": "Fixing a WPT timeout in Window.postMessage()" },
+    { "id": "0rTgyCOkn18", "title": "Fixing some HTML canvas tests for WPT" },
+    { "id": "JZiQ7mWs-lg", "title": "I set onreadystatechange but nobody is calling!" },
+    { "id": "6fbNy_X1PcI", "title": "Flow Browser is beating us on WPT, let's work on catching up!" },
+    { "id": "y0GCRzoQuco", "title": "Ancient Japanese style sheets causing crashes" },
+    { "id": "u94YyHu6xa0", "title": "Wrong document URL after parsing some HTML dynamically" },
+    { "id": "ZQWatUSvnaM", "title": "Removing some unwanted rectangles on HEY.com" },
+    { "id": "d_oVysaqG_0", "title": "Can we use JavaScript to go faster than C++ in Ladybird?" },
+    { "id": "cbw0KrMGHvc", "title": "Ladybird browser update (June 2024)" },
     { "id": "ykaue6krDZ8", "title": "Ladybird browser update (March 2024)" },
     { "id": "zXYNUbyQ0pk", "title": "CS 4560 guest lecture: Ladybird browser development" },
     { "id": "P2CyB8iMe5w", "title": "SerenityOS update (May 2024)" },

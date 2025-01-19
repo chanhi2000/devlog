@@ -28,10 +28,10 @@ head:
 
 <MyYouTubeItems jsonName="yu-HoneyHome_Tip" /><!-- 집구석구석꿀팁, 집꿀 Honey Home Tip -->
 <MyYouTubeItems jsonName="yu-spring_butler" /><!-- 봄집사 -->
-<MyYouTubeItems jsonName="yu-salimlog" /><!-- 살림로그_살림을 기록하다. -->
+<MyYouTubeItems jsonName="yu-살림로그" /><!-- 살림로그_살림을 기록하다. -->
 <MyYouTubeItems jsonName="yu-salimtalk" /><!-- 살림톡 -->
 <MyYouTubeItems jsonName="yu-salim_nam" /><!-- 살림남 The Life -->
-<MyYouTubeItems jsonName="yu-9buyrithm" /><!-- 구매리즘 -->
+<MyYouTubeItems jsonName="yu-구매리즘" /><!-- 구매리즘 -->
 <MyYouTubeItems jsonName="yu-1under" /><!-- 1분미만 -->
 <MyYouTubeItems jsonName="yu-3protv" /><!-- 삼프로TV_경제의신과함께 -->
 <MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
@@ -74,7 +74,7 @@ head:
 <MyYouTubeItems jsonName="yu-ssapcook" /><!-- 쌉쿡 -->
 <MyYouTubeItems jsonName="yu-lodongbokeo" /><!-- 로동복어 -->
 <MyYouTubeItems jsonName="yu-ITs_okay_vv" /><!-- IT's okay 잇츠 오케이 -->
-<MyYouTubeItems jsonName="yu-yt_macho" /><!-- MACHO MAN(마초맨) -->
+<MyYouTubeItems jsonName="yu-마초맨" /><!-- MACHO MAN(마초맨) -->
 <MyYouTubeItems jsonName="yu-OMG_electronics" /><!-- 오목교 전자상가 -->
 <MyYouTubeItems jsonName="yu-yourseat" /><!-- 너의자리 -->
 <MyYouTubeItems jsonName="yu-cucd_official" /><!-- 차업차득 -->
@@ -126,7 +126,7 @@ head:
 <MyYouTubeItems jsonName="yu-natgeocam" /><!-- 내셔널지오그래픽 액션캠 -->
 <MyYouTubeItems jsonName="yu-onemealaday767" /><!-- 하루한끼 one meal a day -->
 <MyYouTubeItems jsonName="yu-The-DIY-Guide" /><!-- The DIY Guide -->
-<MyYouTubeItems jsonName="yu-space_diary" /><!-- 공간일기 -->
+<MyYouTubeItems jsonName="yu-공간일기" /><!-- 공간일기 -->
 <MyYouTubeItems jsonName="yu-chy65670075" /><!-- 덴트초이 -->
 <MyYouTubeItems jsonName="yu-sebasi15" /><!-- 세바시 강연 Sebasi Talk -->
 <MyYouTubeItems jsonName="yu-carjinnam" /><!-- 카진남 -->
@@ -157,5 +157,7 @@ head:
 <MyYouTubeItems jsonName="yu-polarbearjeon" /><!-- 폴라베어 전실장 -->
 <MyYouTubeItems jsonName="yu-drivingori" /><!-- 핸들잡은오리 -->
 <MyYouTubeItems jsonName="yu-nosearch_official" /><!-- 노써치 -->
+<MyYouTubeItems jsonName="yu-review_marriedman" /><!-- 리유남-리뷰하는유부남 -->
+<MyYouTubeItems jsonName="yu-GOODNEWSHVAC" /><!-- 에어컨설치굳뉴스 -->
 
 <TagLinks />

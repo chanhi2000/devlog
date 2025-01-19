@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "sparrowcorp",
+    "name": "스패로우 : Sparrow",
+    "profile": "https://yt3.googleusercontent.com/OifDGugjvGxHJy7pAcsBSTGVezizj9byNkYFioy-ifCB7FXlUSk-UyExPRhaoiFK9gkqmg0p9Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PtvAZtUH7suKxP7WBU0TsWf-42u57tMPfa5lTvKJ8dnJmqcv77KDppqSNRk_BYk-QrIsz2qU7g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PeYVsKNCnm0", "title": "SaaS형 애플리케이션 보안 취약점 분석 솔루션, Sparrow Cloud" },
+    { "id": "wADtW3t0dZs", "title": "Sparrow Cloud: Comprehensive & Fast Application Security Testing" },
+    { "id": "hmgnhfpaLN8", "title": "[PUC 2024] 차별화된 애플리케이션 보안 기술 적용 방안" },
+    { "id": "qqvZ9tD5woE", "title": "[PUC 2024] 안전한 소프트웨어 공급망을 위한 스패로우 오퍼링" },
+    { "id": "iGxb1LymHIk", "title": "[PUC 2024] Power User Conference 2024 현장스케치" },
+    { "id": "NOWgKQYPRnw", "title": "The Brand Story: Sparrow: Building a Legacy in Application Security Testing" }
+  ],
+  "playlists": [
+
+  ]
+}

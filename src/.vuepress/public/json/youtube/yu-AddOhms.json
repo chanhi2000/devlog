@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/_9euDwbq2SdzLP4U6PMn9W_eec4Riu8eQtGyXneA08w52u_EWKyIPI4W3zg_Ez1HCKVNADehjw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6ZCZNBD0oug", "title": "State Mode LA PCB Layout (RP2350)" },
+    { "id": "cIrElRTOhco", "title": "PCB Build: DIY vs Turnkey Assembly with the Bald SENSE Feather Wing (and Macrofab)" },
+    { "id": "9N0hC88bRsY", "title": "Bald Engineer (James) on Meet the Maker - Elektor Engineering Inisghts" },
     { "id": "fXpoaqKqsH8", "title": "Re-drawing Macintosh SE (Analog Board!) Schematic in KiCad 8!" },
     { "id": "Ig94JM3rbs4", "title": "Okay NOW we can Finish redrawing TRS-80 MC-10 Schematic in KiCad 8.0.1!" },
     { "id": "rAWEkzcq-tw", "title": "Solder logic analyzer adapter for the CERBERUS 2100 from @thebyteattic" },

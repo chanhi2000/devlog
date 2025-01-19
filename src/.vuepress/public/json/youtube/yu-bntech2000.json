@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "bntech2000",
+    "name": "Bao Nguyen",
+    "profile": "https://yt3.googleusercontent.com/8rxBn_ilvyALPAkfO9Z3DEbfnJgzK4ih4iH1Iyx1cXTOwDAXGbGaEE_-PgnSM5DUglKNPcyNsw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XXaWsarRwqQ", "title": "Essentialism Is The Cheat Code To Success For Programmers" },
+    { "id": "dkLn2kiUxq8", "title": "Why I Focus On Patterns Instead Of Technologies" },
+    { "id": "lnUszefzVRY", "title": "How I Prepared For Behavioral Interviews" },
+    { "id": "KwFZsHo3rVw", "title": "Real Life Applications of Data Structures" },
+    { "id": "PVTfXOPYbXc", "title": "Why I Don't Take Programming Notes" },
+    { "id": "K5A8iiYFoh8", "title": "Best Free Web Development Course For Beginners" },
+    { "id": "ClenNzgP754", "title": "The Hardest Problem They Asked Me In A Coding Interview" },
+    { "id": "KYHeKd5mL-w", "title": "Big-O Notation In 2 Minutes" },
+    { "id": "V41e697ASzI", "title": "Why Every Software Engineer Should Learn JavaScript" },
+    { "id": "jtEJrBTViK0", "title": "RabbitMQ Tutorial In Python For Beginners" },
+    { "id": "zcuzd3umoko", "title": "How I Would Learn Full-Stack Web Development (If I Could Start Over)" },
+    { "id": "lACFwrrjeZU", "title": "A Realistic Morning Routine That Makes Me A Coding Machine" },
+    { "id": "HHF0tSja0Io", "title": "Why Coding Is The Best Skill To Learn?" },
+    { "id": "1M2EoEzwpQY", "title": "Docker Tutorial For Absolute Beginners" },
+    { "id": "PobquYaLkKU", "title": "Machine Learning Projects for Beginners (Datasets Included)" },
+    { "id": "3Rr4N4bESag", "title": "Python for Coding Interviews - Everything you need to Know" },
+    { "id": "Vcv_Zjg29Eo", "title": "Coding Learning MISTAKES that Hold Beginners Back" },
+    { "id": "tkT9pmmO6MM", "title": "My 3 “Clean” Code Principles (Start These Now)." },
+    { "id": "9vKOVeh957s", "title": "How to Debug Like a Pro" },
+    { "id": "mp4cOnfErzk", "title": "Microservices explained - the What, Why and How?" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "elliottchong",
+    "name": "Elliott Chong",
+    "profile": "https://yt3.googleusercontent.com/tBihxyjrplGgivan-5AGRUUTND7pXJvz0t4c9AflUtH68Xk7nvrQk4z8ZSLedpdf_yezYxYfaA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AlY2Pfao2l59-PKWLDhMd6yD16eheLisQ_AHzjJ9RD1MnFbgZjQXppojk51KjajzQl6KjqwR=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OqlI2766LCk", "title": "Build and Deploy Full Stack AI GitHub SaaS | Next JS 15, Google Gemini AI, Assembly AI, Stripe" },
+    { "id": "Qm7-7PnszM4", "title": "Build and Deploy Full Stack AI Email SaaS | Next JS 14, Prisma, OpenAI, Stripe, TypeScript, Tailwind" },
+    { "id": "PVKvXJhprrE", "title": "How To Build a Full Stack MicroSaaS In 39 Minutes | NextJS 14, Stripe, Cursor, Tavily API" },
+    { "id": "t-JJgTRf3Ms", "title": "I Never Want To Build Authentication Any Other Way" }
+  ],
+  "playlists": [
+
+  ]
+}

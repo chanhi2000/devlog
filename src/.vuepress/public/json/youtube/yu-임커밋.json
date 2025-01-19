@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "임커밋",
+    "name": "ImcommIT",
+    "profile": "https://yt3.googleusercontent.com/HZU_TXXfXKBM2DXFH2VrMLvMzvP5-f-OW5YmvkGBasSl9rAfCr5Fzf7UNL714I8JcecCL7JwX5o=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zj8_UbOAKkk", "title": "사용법과 주의할 점" },
+    { "id": "hjTdgOiZVlI", "title": "파이썬으로도 충분" },
+    { "id": "8FceAhTVGeo", "title": "상당히 위협적인 파일" },
+    { "id": "0IjAHl_DV98", "title": "감이 전혀 안옴;;" },
+    { "id": "kvd-mZs-3tM", "title": "ODE solver와 NFE의 의미" },
+    { "id": "EhyrwwjVuWU", "title": "Neural ODE 시각화로 설명" },
+    { "id": "zzZbpiw0Hpk", "title": "배려마저 AI가 인간보다 잘함" },
+    { "id": "acnrMZgesxc", "title": "맨날 까먹는 이유" },
+    { "id": "feeIKrSsksQ", "title": "100년간 아무도 못 푼 문제" },
+    { "id": "PrRBlXUtq7M", "title": "딥러닝 코드에서 요긴" },
+    { "id": "LpXeOt3xmhM", "title": "그냥...이라고 하면 떨어질 것 같은데.." },
+    { "id": "dtGKtCdjVUs", "title": "구글링해도 안 나옴" },
+    { "id": "afQICWJmpu0", "title": "건방진 AI 논문에 반드시 등장하는 키워드" },
+    { "id": "_rzBcGXXzuI", "title": "우쭐대기 좋은 문법" },
+    { "id": "NAPRw45sUZk", "title": "Neural ODE 고혈압 문장" },
+    { "id": "wOLAsDWtw2k", "title": "10초 안에 맞추면 고수" },
+    { "id": "UZu2ls-HUlk", "title": "간격이 안 일정하면 어떡함?" },
+    { "id": "XnfsucgWApE", "title": "속도 개선 말고" },
+    { "id": "EcNsgmbekbA", "title": "진짜 빡치는 문법: lambda" },
+    { "id": "LHai-uNhMx0", "title": "【 VQ-VAE 】5. 학습 코드: detach 서커스" },
+    { "id": "wA5MhRo2ApQ", "title": "【 VQ-VAE 시각화로 설명 】" },
+    { "id": "mypBS6tPPUA", "title": "Vector quantization 쉽게 설명하기.. 쉽지 않네" },
+    { "id": "wEpnw_FDPu8", "title": "「 torch.gather 」 200초 안에 설명" },
+    { "id": "cvpaVxEEc8Y", "title": "VQ encoding은 왜 쓰는걸까" },
+    { "id": "ehosSKUWw2A", "title": "Residual VQ 쉽게 설명하기.. 쉽지 않네" },
+    { "id": "g9Q09OvGnRM", "title": "VQVAE 학습: 왜 수식 서커스질?" },
+    { "id": "S6ZyaanJBHs", "title": "테스트/디버깅 때 꿀기능" },
+    { "id": "ybvJbvllgJk", "title": "diffusion(DDPM) 시각화로 설명" },
+    { "id": "WpOY9EiK_6s", "title": "ChatGPT 똑바로 대답시키는 법(물리)" },
+    { "id": "rlY3FOB_dFA", "title": "이미지도 숫자다" },
+    { "id": "8F25voTR6FE", "title": "computer vision - 이미지 프로세싱의 기초" },
+    { "id": "rW8qlAtlJHs", "title": "오타 아님..? 에러 안남..?" },
+    { "id": "yYjyGPucnvo", "title": "ChatGPT 내 마음대로 대답시키는 법" },
+    { "id": "EZX_bfPe6aY", "title": "괜히 신경쓰이는 함수들" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "mr.devello",
+    "name": "미스터 디벨로 (MR.DEVELLO)",
+    "profile": "https://yt3.googleusercontent.com/LAPMxAN-dvD8swSSl7BvuD_LMZxwywmIU5UH_Qe-4E2bb-BUiQghGdJdF6IDceLdkSzeZ6wdnw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/G4Ug6LzzVo7RkiFRXAvLZWSS-dVtI-qSzF_x-kq4k_XOi5ERWLfqXY7IiDnXmZeC5U1A5M14dw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bLkRTKiShkY", "title": "플랫폼 개발사가 알려주는 진짜 견적 계산법 (이건 꼭 보세요)" },
+    { "id": "JPT2hi1hMuk", "title": "개발 입문자는 무조건 이 순서로! 코딩 공부 핵심 루트 완전정복" },
+    { "id": "sJ8dfcjkM5A", "title": "AI로 개발 끝? 😲 당신이 놓치고 있는 'AI 개발의 맹점' 3가지" },
+    { "id": "KjI8RGLphvE", "title": "수천만 원 들여 만든 앱, 방치하면 무용지물 됩니다. 유지보수 필수 ❗❗" },
+    { "id": "khyMlxRdSNU", "title": "개발 잘한다고 뽑아주지 않습니다 ❗ 미스터 디벨로가 뽑는 ‘진짜 개발자’는 따로 있다 ❗" },
+    { "id": "EMACi4-3S9k", "title": "웹 개발과 앱 개발, 당신의 선택이 연봉 2배를 좌우한다 ❗" },
+    { "id": "CsgNOTWjH9Y", "title": "스카웃 제의 받는 개발자가 되는 가장 빠른 방법" },
+    { "id": "IQ2w3k8s34Q", "title": "현 1타 개발사가 알려주는 실패없이 외주 개발 의뢰하는 방법!" }
+  ],
+  "playlists": [
+
+  ]
+}

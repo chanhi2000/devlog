@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/V5tY3i1gSQKSYLNtanocpUq7AKWV5nTQS_3Rttel7eOpqOWuK-0zYPyhbXRlJbXR2MCBAnrX=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "loaTGpqfctI", "title": "Byte Latent Transformer: Patches Scale Better Than Tokens (Paper Explained)" },
+    { "id": "-r0XPC7TLzY", "title": "Safety Alignment Should be Made More Than Just a Few Tokens Deep (Paper Explained)" },
+    { "id": "gfU5y7qCxF0", "title": "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters (Paper Explained)" },
+    { "id": "AfAmwIP2ntY", "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters (Paper)" },
+    { "id": "jE9jAZC42NE", "title": "Were RNNs All We Needed? (Paper Explained)" },
+    { "id": "Bs6eyNQjGpo", "title": "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models" },
+    { "id": "WwbukAcMM4k", "title": "Privacy Backdoors: Stealing Data with Corrupted Pretrained Models (Paper Explained)" },
+    { "id": "no7EQkOiHQM", "title": "Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools (Paper Explained)" },
+    { "id": "B45FlSQ8ITo", "title": "Scalable MatMul-free Language Modeling (Paper Explained)" },
     { "id": "PW4JiJ-WaY4", "title": "Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping (Searchformer)" },
     { "id": "7NNxK3CqaDk", "title": "Flow Matching for Generative Modeling (Paper Explained)" },
     { "id": "Kk8YhCpo1b8", "title": "[ML News] Jamba, CMD-R+, and other new models (yes, I know this is like a week behind 🙃)" },

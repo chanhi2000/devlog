@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.woff2?t=1737085246180') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.woff?t=1737085246180') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.ttf?t=1737085246180') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_4ztu7yd6e7h.svg?t=1737085246180#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_kggly0nq9ka.woff2?t=1738046672736') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_kggly0nq9ka.woff?t=1738046672736') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_kggly0nq9ka.ttf?t=1738046672736') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_kggly0nq9ka.svg?t=1738046672736#iconfont') format('svg');
 }
 
 .iconfont {
@@ -13,7 +13,22 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.icon-kibana:before { content: "\e99b"; }
+.icon-plotly:before { content: "\e99a"; }
+.icon-xstate:before { content: "\e999"; }
+.icon-redux:before { content: "\e998"; }
+.icon-composer:before { content: "\e997"; }
+.icon-stackblitz:before { content: "\e996"; }
+.icon-bower:before { content: "\e995"; }
+.icon-axios:before { content: "\e994"; }
+.icon-twine:before { content: "\e993"; }
+.icon-matplotlib:before { content: "\e992"; }
+.icon-scipy:before { content: "\e991"; }
+.icon-scikit-learn:before { content: "\e990"; }
+.icon-kivy:before { content: "\e98f"; }
+.icon-poetry:before { content: "\e98e"; }
+.icon-anaconda:before { content: "\e98d"; }
+.icon-pypi:before { content: "\e98c"; }
 .icon-neo4j:before { content: "\e98b"; }
 .icon-hashicorp:before { content: "\e98a"; }
 .icon-w3c:before { content: "\e989"; }
@@ -115,6 +130,7 @@
 .icon-flask:before { content: "\e92d"; }
 .icon-storybook:before { content: "\e92c"; }
 .icon-archlinux:before { content: "\e92b"; }
+.icon-metasploit:before { content: "\e99c"; }
 .icon-nmap:before { content: "\e92a"; }
 .icon-armeria:before { content: "\e929"; }
 .icon-awk:before { content: "\e928"; }

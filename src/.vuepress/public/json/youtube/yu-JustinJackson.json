@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/SgDJIbhMiOG_Ckrqr_30Gv1gAt8Oc6FVTPkY0o225s_Shjx7ebF5cgNqC4u_NJ51gqFGMgb4kqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4p8aYo16Znw", "title": "SwagFan – the easiest way to give away free swag" },
+    { "id": "RLBtrKZZCD8", "title": "Is your business engine broken?" },
+    { "id": "KHIUiCza8zo", "title": "Building a secret Laravel app" },
+    { "id": "DmJU5RGyBSo", "title": "SwagFan demo: send your customers and fans free merch" },
+    { "id": "cyDl6IqbRB0", "title": "Investment loops: a SaaS marketing strategy for converting and activating new customers" },
     { "id": "_9tUh9d5YrA", "title": "A short review of the Recut app: an automatic video editor" },
     { "id": "41kqZYK3wRI", "title": "How to build a landing page with Tailwind CSS, Tailwind UI, Vite.js – tutorial video" }, 
     { "id": "s3yWEtGpp_A", "title": "Tutorial: make a hamburger menu with Vue.js + Tailwind CSS (Adam Wathan teaches a complete noob)" }

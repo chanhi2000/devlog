@@ -192,5 +192,8 @@ head:
 <MyYouTubeItems jsonName="yu-beardfm" /><!-- Stephen Robles -->
 <MyYouTubeItems jsonName="yu-AlfieMarsh" /><!-- AI Alfie -->
 <MyYouTubeItems jsonName="yu-echohive" /><!-- echohive -->
+<MyYouTubeItems jsonName="yu-cmdspace" /><!-- CMDSPACE -->
+<MyYouTubeItems jsonName="yu-learn_ai" /><!-- GPT코더 -->
+<MyYouTubeItems jsonName="yu-citizendev9c" /><!-- 시민개발자 구씨 -->
 
 <TagLinks />

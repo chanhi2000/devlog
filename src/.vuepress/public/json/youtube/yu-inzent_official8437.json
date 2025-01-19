@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "inzent_official8437",
+    "name": "Inzent_Official",
+    "profile": "https://yt3.googleusercontent.com/MfzB19ohJbItclf9r9p2fJZVE8IQXbh6OxPNi7ZKX3xrTIJ34jrY7NDOEbwgVDwwWmB1HNNLOA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EPckfy7c9tEnBs-4kdR6xRiExTnpf_dNzMMNKessiF8jsMB4Cz9lttdeuTFkZBWxqqGm24p--Q=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "17kOs6okbgs", "title": "[인젠트X쉐어드IT 2교시] 기업에서 PostgreSQL을 더 잘 쓰고 싶다면?" },
+    { "id": "QVPy6Duh8uQ", "title": "[공공솔루션마켓 2024] 디지털플랫폼의 시작. 문서중앙화 기반의 통합 지식자산 관리 플랫폼" },
+    { "id": "h4AlnH6r8iU", "title": "[인젠트X쉐어드IT 1교시] PostgreSQL의 인기 비결은?" },
+    { "id": "_MllTrw2ec8", "title": "[IDC DX Summit 2023] 오픈소스 기반 데이터 관리를 통한 디지털 경쟁력 확보 방안" },
+    { "id": "_k1fMXfxgiU", "title": "[INZENT ISS 2023] 오라클 to 오픈소스 DB 전환 시, SQL 변환 및 ​결과&성능 검증 자동화 솔루션 오픈팝(OpenPOP) OTO 소개" },
+    { "id": "wAmjjVktVbY", "title": "[INZENT Solution Day 2023] 클라우드 서비스 융합을 통한 디지털 플랫폼 구축 사례-스마트 연구 협업 플랫폼 구축-" },
+    { "id": "8NxEublZ4s4", "title": "[INZENT Solution Day 2023] 사례로 보는 오픈소스 DBMS 플랫폼" },
+    { "id": "ZLW7kdaD1ME", "title": "[지디넷코리아 영상 인터뷰] 인젠트 ECM 솔루션 Xtorm이 분리보관 패키지를 출시한 이유" },
+    { "id": "dj5Y0sOLXLs", "title": "기업의 콘텐츠 자산화를 이뤄주는 ECM #inzent #shorts #ITLab" }
+  ],
+  "playlists": [
+
+  ]
+}

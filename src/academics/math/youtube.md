@@ -76,5 +76,7 @@ head:
 <MyYouTubeItems jsonName="yu-JoelRosenfeld" /><!-- ThatMathThing -->
 <MyYouTubeItems jsonName="yu-rlhugh" /><!-- RL Hugh -->
 <MyYouTubeItems jsonName="yu-superacademy247" /><!-- Super Academy -->
+<MyYouTubeItems jsonName="yu-OJmath" /><!-- OJ수학교실 -->
+<MyYouTubeItems jsonName="yu-coremath1743" /><!-- COREMATH -->
 
 <TagLinks />

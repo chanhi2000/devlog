@@ -5059,5 +5059,19 @@
     "topics": ["machine-learning", "ai", "computer-vision", "ml", "agi", "vision", "agents", "multimodal", "llm"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/d807e2013dfb294ace4b260f6265309d3e2ec08d88e3b5ea378fa044597d9522/mediar-ai/screenpipe"
+  }, {
+    "repo": "druidui/ui",
+    "desc": "druid/ui. Contribute to druidui/ui development by creating an account on GitHub.",
+    "officialSite": "http://druidui.com/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/87465970796af8636c9bb7795bf658909587c4a3f9708f4e83e6b0b618a543ef/druidui/ui"
+  }, {
+    "repo": "swark-io/swark",
+    "desc": "Create architecture diagrams from code automatically using large language models (LLMs). at dailydev",
+    "officialSite": "https://swark.io",
+    "topics": ["visualization", "architecture", "developer-tools", "vscode-extension", "language-model", "system-design", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/4ac1f41cd59177c11a54bb34720bd2ded04d5875044482f2c41e4edcea7aa81a/swark-io/swark"
   }
 ]

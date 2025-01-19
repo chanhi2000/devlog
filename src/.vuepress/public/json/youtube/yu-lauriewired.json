@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/WGV9Esz36MxyW0bjMOuA5H0gzDz_BgFeh7njtvkFVhc8d-AQ9OY5SprBBnUKFQd0-xlup-5lYJE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "qrk8fj7re-s", "title": "what happens when your CPU has a bug? (GhostWrite)" },
+    { "id": "8GbV3RWVo4A", "title": "Bad Unboxing: Automated Android Unpacking" },
+    { "id": "Fb4UoqXPEtI", "title": "Operation Binder: Secrets of Computer Process Communication" },
     { "id": "2iBqqPmUYfE", "title": "Chaos to Clarity: Deciphering Obfuscated JavaScript Malware" },
     { "id": "i55ptVQw1Kk", "title": "A Competition for Unreadable Code?" },
     { "id": "Ozj_xU0rSyY", "title": "The Magic of RISC-V Vector Processing" },

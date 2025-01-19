@@ -153,5 +153,8 @@ head:
 <MyYouTubeItems jsonName="yu-Pybites" /><!-- Pybites -->
 <MyYouTubeItems jsonName="yu-asarandi" /><!-- Alexandr Sarandi -->
 <MyYouTubeItems jsonName="yu-hjalfi" /><!-- Poking Technology -->
+<MyYouTubeItems jsonName="yu-fast_python" /><!-- fast_python -->
+<MyYouTubeItems jsonName="yu-xenoint" /><!-- 이동준 -->
+<MyYouTubeItems jsonName="yu-codingwithroby" /><!-- Eric Roby -->
 
 <TagLinks />

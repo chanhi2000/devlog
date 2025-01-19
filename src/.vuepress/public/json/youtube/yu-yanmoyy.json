@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "yanmoyy",
+    "name": "얀모 yanmo",
+    "profile": "https://yt3.googleusercontent.com/Xns0VLpdDQBhEuM6iqlNYEivzsbpsIcFhvZuuCUETUQOFkS0o-xaCH_Z9_diz_ooZf8ptpQc8w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "iW6_Y9prw7M", "title": "17.코드 리뷰와 TextPageView 위젯 만들기 | 졸업프로젝트" },
+    { "id": "xEM6WBfc-3k", "title": "12.1류동사의 정중체형 | 일본어 공부" },
+    { "id": "pO6Md82QxRo", "title": "18.이미지 슬라이더 위젯을 만들었어요 🎆🌄🌁🌉🌅 | 졸업프로젝트" },
+    { "id": "KpaABH7pXwM", "title": "19.삽질과 새로운 위젯 | 졸업프로젝트" },
+    { "id": "5PkHm2O24x0", "title": "외힙 가사 번역 해보기 with GPT (후드식 영어 공부)" },
+    { "id": "egUnhGj-Idc", "title": "21.아무것도 얻지 못한 날2 | 졸업프로젝트" },
+    { "id": "nXZxemQ-tCk", "title": "22.감정 word cloud를 만들었어요 | 졸업프로젝트" },
+    { "id": "nfOIHCEAHdQ", "title": "13.2류동사의 정중체형 | 일본어 공부" },
+    { "id": "XhIVYX6awLU", "title": "채팅이 떠다니는 방송 (방송용 도구 만들기)" },
+    { "id": "2Lr6zq13Dek", "title": "신청곡 기능을 구현했지만... (방송용 도구 만들기)" },
+    { "id": "80PvlK7q4Bg", "title": "신청곡(유튜브) 기능 마무리 (방송용 도구 만들기)" },
+    { "id": "i8BaEKsb42s", "title": "14. 3류동사의 보통체형" }
+  ],
+  "playlists": [
+
+  ]
+}

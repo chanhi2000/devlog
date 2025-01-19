@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "tech42_media",
+    "name": "테크42",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mFBOzOYVQ__iXXnJItb8D1Hx7N4tRNwu0XYJ0XJrly67A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/crDvVYlIK8JvZyAsz8yw8eqZkCoFHrFCAdMrQZo_quJiS_CgEwvFl2dAMreG64zgj7KhBvlt1ko=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sJ0fKGjbFu4", "title": "[tech easytalk] 개인정보보호가 가능한 상황 내 LLM활용 학습방법" },
+    { "id": "yMUuY8iUQhw", "title": "[tech easytalk] 신뢰가능한 대형언어모델을 위한 최근 기술 동향과 교육 콘텐츠 활용 방향" },
+    { "id": "K01-R5FdKZg", "title": "[제3회 Agile AI Forum] 멀티모달 지능형 검색 플랫폼을 활용한 Private-LLM 구축 전략_ 티쓰리큐 박병훈 대표" },
+    { "id": "FNeFTKKgz9Q", "title": "[제3회 Agile AI Forum] DBMS 지식을 학습시켜 Local LLM ChatDBA를 만든 과정과 교훈_ 위데이터랩 권건우 대표" },
+    { "id": "3-byEnT_uEE", "title": "[제3회 Agile AI Forum] Data-centric AI: LLM, 핵심은 데이터_ 셀렉트스타 황민영 공동창업자/부대표" },
+    { "id": "5iQDIR-1NnY", "title": "[제3회 Agile AI Forum] 디지털치료제와 AI_ 로완 임도형 CTO" },
+    { "id": "znWFHI5Y-l4", "title": "[제3회 Agile AI Forum] 생성AI와 Treatment algorithm_ 서울대학교병원 이요한 기금조교수" },
+    { "id": "lWaYaFh9spE", "title": "[제2회 Agile AI Forum] AI 음성콘텐츠의 상용화 사례_ 자이냅스 AI사업부문 추헌엽 대표" },
+    { "id": "_b3mT5jIBIs", "title": "[제2회 Agile AI Forum] 네이버,SSG, 롯데, 로레알, 현대차는 왜 마케팅 소재 자동 제작 서비스를도입했는가?_ VCAT 정범진 대표" },
+    { "id": "uPXrIfmWnaE", "title": "[제2회 Agile AI Forum] 프로그래밍의 종말 - 생성형 AI 의 비즈니스 프로세스 자동화_ 유엔진솔루션즈 장진영 대표" },
+    { "id": "SormHH1bdWo", "title": "[제2회 Agile AI Forum] 메타버스와 인공지능_ 브이리스브이알 권종수 대표" },
+    { "id": "cAjJuVc3qNo", "title": "[Agile AI Forum] 생성 AI 시대 의료와 헬스케어의 변화_ 가천대학교 의과대학 신경외과학 교실 이언 명예교수" },
+    { "id": "XX33MmKnK_4", "title": "[Agile AI Forum]생성형 AI 시대 어떻게 준비해야 하는가?_ 팬덤퍼널 김윤경 대표" },
+    { "id": "EjvxfKHsRV8", "title": "[Agile AI Forum] MLOps & LLMOps 산업별 2024 최신 동향 in 실리콘밸리_ VESSL AI 안재만 대표" },
+    { "id": "NGQqlf8VOOE", "title": "[Agile AI Forum] 생성형 AI에 대한 국내외 법적 현황과 연구개발시 고려사항_ 법무법인 디라이트 조원희 대표" },
+    { "id": "NBXG1rk9HTc", "title": "[Agile AI Forum] AI 검색을 통한 복잡한 업무규정집 활용법_ 포티투마루 권혁성 CBO/이사" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/GEz0QrFZzR0EeOATFtSFPcAEjJlCc6Itg0tnPSckQ9Cp_gyebZS3xAUUMNeb5aSjawj4mUBlex8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HKic6x0yA54", "title": "정산지급 시스템 그리고 Next.js 서비스 출시 이야기" },
+    { "id": "XEmVZTwEGJY", "title": "개비스콘 밋업! 못다한 이야기" },
+    { "id": "pBQ2CXw6Ov0", "title": "리액트, 클래스, http 요청, 테스트" },
+    { "id": "FP2el996asM", "title": "개발자를 위한 맥 기본 세팅 방법 (종료), 잡담, 이력서 구경, 수능 화이팅" },
+    { "id": "Uc_GuzeGhZ8", "title": "스포티파이 본사 개발자의 승진과정" },
+    { "id": "LyuLubzaD7A", "title": "에어프레미아 항공사의 개발자는 어떤 사람일까" },
     { "id": "5w6Dcp-M-Wk", "title": "파이썬 시니어 개발자와 채용" },
     { "id": "dEWcpLZTHwE", "title": "라인, 카카오를 뒤로하고 뱅크샐러드로 간 개발자" }
   ]

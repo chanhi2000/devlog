@@ -111,5 +111,6 @@ head:
 <MyYouTubeItems jsonName="yu-zzangsaem" /><!-- 짱샘 -->
 <MyYouTubeItems jsonName="yu-ZAcharyIndy" /><!-- ZAchary Indy -->
 <MyYouTubeItems jsonName="yu-prof.r4q52" /><!-- Prof. Roque Gimenez -->
+<MyYouTubeItems jsonName="yu-legacycoder" /><!-- 중년코딩 -->
 
 <TagLinks />

@@ -52,5 +52,6 @@ head:
 <MyYouTubeItems jsonName="yu-joinc-edu" /><!-- 조인씨 JOINC -->
 <MyYouTubeItems jsonName="yu-WelchLabsVideo" /><!-- Welch Labs -->
 <MyYouTubeItems jsonName="yu-theAIsearch" /><!-- AI Search -->
+<MyYouTubeItems jsonName="yu-itjaeneungnanum" /><!-- INNB & 정보기술재능나눔 -->
 
 <TagLinks />

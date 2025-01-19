@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "Dokploy",
+    "name": "Dokploy",
+    "profile": "https://yt3.googleusercontent.com/ngYFGRcS-7Nq1pHIgVR5uznc4Im7anIDXnYkfH8CzcsU_5q-F_ZTPusyBvC0oU4qzG1PFkQ4fg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "x2s_Y5ON-ms", "title": "Dokploy Cloud - Introduction" },
+    { "id": "3qr_celxISA", "title": "Deploy docker compose on a VPS [Dokploy]" }
+  ],
+  "playlists": [
+
+  ]
+}

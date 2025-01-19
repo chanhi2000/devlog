@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/a1oUhDjySzaujtGvt1EqwNGkyELbrKTyNOTloe8eWUxXwgjKhmflNDZlHIFtkV1qUGcK9jLh=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "h3L9KE-A3j4", "title": "The 12 Days of Devlog Christmas" },
+    { "id": "c18rZoi46kc", "title": "Gamedev In-Depth | How I Implement a New Feature" },
+    { "id": "JkPAz0sMx8w", "title": "Programming the Restaurant Task System for my Game" },
+    { "id": "Ld9qvxoaB6Y", "title": "3 Weeks of Programming the Farmers' Market" },
+    { "id": "GQEqN1kZ8AI", "title": "Designing a New Town for my Farming Game" },
     { "id": "d4wZaqKNV9Q", "title": "Homegrown Devlog: Inventory Redo" },
     { "id": "ndkHrvJQYYI", "title": "Homegrown Devlog - New UI & Mod Support(ish)" },
     { "id": "lfYfmqKbPM4", "title": "Overhauling the UI in my Farming Game (still)" },

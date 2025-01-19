@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "CainOnGames",
+    "name": "Timothy Cain",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_n5rVyLDBihIym3qoz41TxhkmNQ_DnPXJMdoBfqW_JhQ6g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GTQxb8p0BCc", "title": "Working In Another's Game IP" },
+    { "id": "T7ToTnHj-CI", "title": "Design Fallbacks" },
+    { "id": "ptjU6Y0XUCE", "title": "Communication Between Roles" },
+    { "id": "nJdyR0nO17E", "title": "Arcanum Optimization" },
+    { "id": "niZtYIiIxOw", "title": "Toy Update, Part 5" },
+    { "id": "kbHlwUS7d4k", "title": "Note-Taking Best Practices" },
+    { "id": "VYw4ln0jxUY", "title": "Arcanum \"Dat\" Files" },
+    { "id": "ymnxKwxUxRk", "title": "Authority Without Responsibility" },
+    { "id": "zX1Htqt9_iY", "title": "A Non-Game Design Spec" },
+    { "id": "tv74Z8rByAY", "title": "An \"Off The Rails\" TTRPG Campaign" },
+    { "id": "ljnaL7N5qtw", "title": "Code The Rules, Script The Exceptions" },
+    { "id": "aYnnGpLY9M4", "title": "Creativity Under Pressure" },
+    { "id": "H7E-tiFDnrs", "title": "Editing Your Game Story" },
+    { "id": "rrdYdeGqbzU", "title": "Contractor Contracts" },
+    { "id": "-GmXrTBX7p8", "title": "Writing Good NPCs" },
+    { "id": "joN36JIsz8o", "title": "High Level Design Direction" },
+    { "id": "RXVydxNRDAk", "title": "Game Development Tunnel Vision" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "cadgraphics",
+    "name": "캐드앤그래픽스",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lrhUqv5V8ws6WGB6c4o74MfZS5Fp1r0M5nzmHo8kt6jw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fF4bKc_xY8S_VU4I0ATJ71p-7JPiIedCbq3mQip1fUBLJJfdEpf0BvzINiDiHn-YOWxSJe0i=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1UgBMyqr1gI", "title": "[개회사] CAE 컨퍼런스 준비위원회 강남우 위원장 (KAIST 교수)" },
+    { "id": "lsca6AUPg18", "title": "[CAE 컨퍼런스 2024] Low-code AI 플랫폼을 이용한 설계 생성/예측/최적화 방법 및 사례 / 나니아랩스 강남우 대표" },
+    { "id": "oNCZpvPMBgI", "title": "[CAE 컨퍼런스 2024] 최적설계 대중화를 위한 AADO 기술 소개피도텍 최병열 연구위원" },
+    { "id": "dySWOJa2Vlg", "title": "AI/ML과 Digital Reality Platform을 통한 CAE 혁신 전략 / 헥사곤 매뉴팩처링 인텔리전스 전완호 본부장" },
+    { "id": "JhAGoc14EcA", "title": "[CAE 컨퍼런스 2024] HP 3D 프린팅 자동화 솔루션이 주도하는 산업의 디지털 트랜스포메이션 / HP P3D 김태화 매니저" },
+    { "id": "y_7olFbW8Js", "title": "[CAE 컨퍼런스 2024] NVH 해석 분야에서의 고전적 방법론과 디지털 기술 융합 사례 / 현대모비스 정원태 책임연구원" },
+    { "id": "6tlXRPMCPSI", "title": "[CAE 컨퍼런스 2024] 제품개발과 검증의 가속화를 위한 Simcenter AI Solutions / 지멘스 이종학 프로" },
+    { "id": "0pBAAKY9zT4", "title": "[CNG TV] 인공지능시대의 건축기술 - 건축설계자동화, 건설로봇, AI데이터" },
+    { "id": "jY2Cm3_4f-o", "title": "[CNG TV] 자동차 산업에서의 다중소재 접합 및 조립 해석 기술 동향 / 한국이에스아이" },
+    { "id": "OQ687vAcxd0", "title": "[CNG TV] 우주를 향해 쏴라! 우주를 향한 기술 개발과 혁신의 미래 (스페이스맵, 에이블맥스)" },
+    { "id": "YJS4g6hwPyI", "title": "[코리아 그래픽스 2024] 멀티모달이 열어가는 세상과 AI PC / 인텔코리아 이주석 부사장" },
+    { "id": "5TVSRMrwgsw", "title": "[코리아 그래픽스 2024] 제조, 건축 등 엔지니어링 분야의 다양한 3D 프린팅 활용 사례 / 스트라타시스 코리아 최승호 과장" },
+    { "id": "q-89GxEJq0c", "title": "[코리아 그래픽스 2024] 건축설계 업무효율 및 생산성 향상을 위한 디지털 전환 실무 사례 / 디에이그룹엔지니어링종합건축사사무소 AXLab 조태용 본부장" },
+    { "id": "KaaXugP3gGY", "title": "[코리아 그래픽스 2024] 건축 시각화, AI ,BIM, VR 적용으로 건축설계에 날개를 달다 / 아키페이스건축사사무소 정은길 소장" },
+    { "id": "NVKCrRetKtc", "title": "[코리아 그래픽스 2024] Beyond image generation : 모빌리티 디자인과 생성형 AI / KAIST Move Lab 박현준 교수" },
+    { "id": "Yy8dPhPXmXI", "title": "[코리아 그래픽스 2024] AI-driven Design: 프로세스와 사례 중심으로 / 삼성전자 고성찬 프로" },
+    { "id": "i5ncqiWpLUc", "title": "[CNG TV] 건설·제조업의 설계 혁신 : 클라우드 기반 데이터 리비전과 GIS 통합 솔루션" },
+    { "id": "3oVJJrfHUTs", "title": "[CNG TV] 제조 산업의 디지털 혁신을 위한 헥사곤 솔루션 활용 전략" },
+    { "id": "zLYuzcYAuws", "title": "[CNG TV] 새로운 트렌드, 산업 데이터 스페이스와 제조업의 변화(임채성 교수, 박문구 전무)" },
+    { "id": "UqqgZNjHzJM", "title": "[코리아 그래픽스 2024] 개회사 / 코리아 그래픽스 추진위원회 유훈식 추진위원장(한국미디어대학원대학교 교수)" },
+    { "id": "VL_Gtdmt5wY", "title": "[비공개] [코리아 그래픽스 2024] 공간 컴퓨팅 혁명의 가져올 변화: 디지털 공간과 AI의 만남 / 국회미래연구원 이승환 연구위원" },
+    { "id": "_G70be1iMT4", "title": "[코리아 그래픽스 2024] 생성 AI와 제조/건축 디자인의 현재와 미래 / 서울미디어대학원대학교" },
+    { "id": "ZSPE6n-AjEM", "title": "[코리아 그래픽스 2024] Adobe 생성형 AI와 3D 기술이 몰고온 디자인 프로세스의 변화 / 어도비코리아 3D사업부 김태원 총괄상무" },
+    { "id": "5vOAaVYsydA", "title": "[CNG TV] Omniverse를 통한 MEP자동설계 AI 운용사례 (8/29)" },
+    { "id": "k9CuXNtuKKQ", "title": "[CNG TV] 생성AI를 활용한 따스한 콘텐츠 접근과 무모한 도전 (9/9)" },
+    { "id": "NGilW7sgtoI", "title": "[CNG TV] 테클라 + 스케치업: 트림블 제품을 활용한 혁신적인 건설 프로세스 소개 (7.23)" },
+    { "id": "uH7kzqhQWtM", "title": "PLM DX 컨퍼런스 2024 / 기업과 부서에서 3D 데이터 활용을 통한 3D 데이터 공유 및 디지털화 실현 / 아이지피넷 윤정두 차장" },
+    { "id": "_4b5QAywJxQ", "title": "PLM DX 컨퍼런스 2024 / MULTI-CAD 환경에서의 협업방안 / 다쏘시스템코리아 에노비아 브랜드 세일즈 부문 정유선 대표" },
+    { "id": "K3eNFUKIcA4", "title": "PLM DX 컨퍼런스 2024 / 생성형 AI 동향과 제조엔지니어링 적용 방법 / 연세대학교 송경우 교수" },
+    { "id": "gsEkDDI_CRI", "title": "PLM DX 컨퍼런스 2024 / [폐회사] 캐드앤그래픽스 정수진 편집장" },
+    { "id": "4aUU4uWr2nM", "title": "PLM DX 컨퍼런스 2024 / 사례를 통해 알아보는 데이터 플랫폼 구축을 통한 비용 절감 및 비즈니스 성장 실현 방안 / 스노우플레이크 박경호 영업대표" },
+    { "id": "avqL9SOgtFI", "title": "PLM DX 컨퍼런스 2024 / 디지털 트윈을 위한 지능형 경량화/최적화 모델 생성 방안 / 팀솔루션 서경진 상무" },
+    { "id": "-TcAA9DH72c", "title": "[CNG TV] 생성형 AI와 제조/건축 시각화 기술과 트렌드 (8/19)" },
+    { "id": "UZbojDhdVCs", "title": "[CNG TV] 다양한 산업군에서의 HPC on AWS (김정현, 최현지, 김완희)" },
+    { "id": "ffI62Ux4BII", "title": "스케치업을 활용한 통합 공간 디자인 프로세스 - 최주영 대표(스페이스씰)" },
+    { "id": "xhtk3-XzAAI", "title": "[CNG TV] 생성형AI 기술과 제품디자인 이슈 및 발전 방향 - 김용주 대표(카페인웍스)" },
+    { "id": "pABCwlx5ZTk", "title": "[CNG TV] EDA와 MDA 통합 트렌드와 전망 - 김병근 이사(Siemens EDA)" }
+  ],
+  "playlists": [
+
+  ]
+}

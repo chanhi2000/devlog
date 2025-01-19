@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "Ajink21",
+    "name": "Ajink Gupta",
+    "profile": "https://yt3.googleusercontent.com/-GICr3MBtNfyckWBzDOxPErBEeqpyPuYHXW0PpcQTAUgmDvgB0yPqp1JFGMAtdYQtsR1nITC=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/02ix56qTUgvqFA7znk72JbPt4U9dXkxzZcNvwbKFZZUb_BCrvq6P9-uEFHWNJi3BY-wVJGbj=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RCfK90fygIQ", "title": "How to Add Your Website to Google Search Console | Step-by-Step YT Video" },
+    { "id": "HC3Ycm6_PX4", "title": "Level SuperMind Pre-Hackathon - Assignment Video @HiteshCodeLab  Team : YAAN" },
+    { "id": "t3EYDxdAfcw", "title": "SIH 1677 [Selected]" },
+    { "id": "VRx12u7Vx-8", "title": "How to Connect Your Domain to Hosting Platforms like Vercel, CloudPanel, and Others" },
+    { "id": "61dN2UXKd7w", "title": "How to Get an Domain Name for Free ! #free #domain #dev" },
+    { "id": "Sd1poIzV93M", "title": "How to Deploy Flutter Web App to Vercel in 100 Seconds ! #vercel #flutter #web #deploy" },
+    { "id": "Bi5C2uc0TLI", "title": "GitHub Student Developer Pack without college Email ID | BCA , MCA , Btech |  100% working" },
+    { "id": "cdhk6nkWTqs", "title": "Exam eligibility checker with Python | Python Mini Project | #python" },
+    { "id": "MD2uT0o5GKE", "title": "Number guessing game with Python | Python Mini project | English #Python #Numberguessing #coding" },
+    { "id": "l7QAVigPOLU", "title": "Rock paper Scissors Game using Python हिंदी" },
+    { "id": "E99BdQIA3Xg", "title": "set | set operation in python | Hindi - day 08 V-01" },
+    { "id": "oC9RE05htWY", "title": "Day 08 | Sets, List comprehensions, Lambda functions | 30 Days of Python Challenge | हिंदी |" },
+    { "id": "BoWvcXsWk6Q", "title": "Day 09 | try: , except: , else: , finally: Blocks in Python [हिंदी] | Python4AI" },
+    { "id": "vMzVfVHS5YY", "title": "Day 12 | numpy" }
+  ],
+  "playlists": [
+
+  ]
+}

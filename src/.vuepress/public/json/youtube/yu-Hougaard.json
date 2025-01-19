@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "Hougaard",
+    "name": "Erik Hougaard",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nRVyOWZ4Xy_EMeYrq8A837qA5Vn6DUh93TG0bfWoEpOE40=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XxaUuoNLkMCivZNT2TfjEjobH2mUgLw0K2GXurWJV0GSOH1bgjgEcNx8zAnLjn1GkmFu-bBikw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jCG3l4mnLns", "title": "Embed resources into your app file with AL and Business Central" },
+    { "id": "CH8BkgDQyLs", "title": "Introducing the Advanced Financial Reporting App for Business Central" },
+    { "id": "ZTMNm_3rQo0", "title": "Cross Company Reporting in Business Central using the Advanced Financial Reporting App" },
+    { "id": "Dr1Kar-Xi7o", "title": "Automatic Financial Report distribution in Business Central using Advanced Financial Reporting" },
+    { "id": "u5bVknDXnKY", "title": "Use a Financial Report directly in Power BI using the Advanced Financial Reporting App" },
+    { "id": "2TeXxm0XGMg", "title": "Use non-finance values in a Financial Report Business Central" },
+    { "id": "OKE8SObK9Fg", "title": "That time when I wanted to build a better NAV than NA" },
+    { "id": "GBzfySWmL94", "title": "ELI5 How to use FlowFields" },
+    { "id": "VY4-6g59hVw", "title": "Let's make User Management better in Business Central" },
+    { "id": "PjkQGEKzEXM", "title": "Introducing the Advanced Portal Designer for Business Central. A new way to build custom portals" },
+    { "id": "NHDwuuQv2ds", "title": "Installation and Configuration of the Advanced Portal Designer web service" },
+    { "id": "G2n_Dp3Mc0Q", "title": "Spread some Nuget love on your apps!" },
+    { "id": "mqvBgXZhol8", "title": "How to deal with Medusa Records in AL and Business Central" },
+    { "id": "oXnyEFY8c3U", "title": "Modern Text Search in AL and Business Central" },
+    { "id": "q8-gEwLvR5o", "title": "Runtime dependencies in AL and Business Central, what?" },
+    { "id": "psDCz4y6wZk", "title": "I can multitask, also in AL and Business Central" },
+    { "id": "HFWEzq-Fplo", "title": "What's new in AL for Business Central 2024 Wave 2, The Hacker Edition!" },
+    { "id": "o2CtkqqoXOU", "title": "Using Interfaces in the Goldilocks zone in AL and Business Central" },
+    { "id": "4WfDkDn_Sxs", "title": "Dual-App Mode for easier Co-Development with the Simple Object Designer in Business Central" },
+    { "id": "Y6n70-ZSlwY", "title": "Guide for customers to help their partner with troubleshooting Business Central" },
+    { "id": "kt2UbsWSoUQ", "title": "Shortcomings in the platform, here comes Base App in Business Central" },
+    { "id": "Dn_JrR4x0xI", "title": "Does old AL code rot in Business Central?" },
+    { "id": "GrAEs1tNFxw", "title": "Cool trick to run a Report on a Query in AL and Business Central" },
+    { "id": "38cbNBWDmBA", "title": "Generate demo data from a web service in AL and Business Central" },
+    { "id": "iLpJ8TZlB_Y", "title": "See how a consultant uses the Simple Object Designer to build a customer solution w/Business Central" },
+    { "id": "zk3UPwSIk1o", "title": "Cookies in AL coming back to bite you!" },
+    { "id": "0NFwnD323o0", "title": "Just debug, don't deploy weird apps!" },
+    { "id": "jJwghCyPPKo", "title": "You can build Arrays of everything in AL and Business Central" },
+    { "id": "ljW7XckeMw8", "title": "Protect your secret (texts) against prying eyes and debuggers!" },
+    { "id": "EzE886fqILk", "title": "Get your numbers in sequence with NumberSequence in AL and Business Central" },
+    { "id": "eTmVJA6vYvo", "title": "ELI5 Filters in AL are very different from SQL" },
+    { "id": "BcDpvqnq6Gk", "title": "Exciting new folder mapping options with SharePoint Connector and Business Central" }
+  ],
+  "playlists": [
+
+  ]
+}

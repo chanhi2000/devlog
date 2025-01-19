@@ -106,5 +106,6 @@ head:
 <MyYouTubeItems jsonName="yu-Code_It_All" /><!-- Code It All -->
 <MyYouTubeItems jsonName="yu-CodingwithAJT" /><!-- Coding with AJT -->
 <MyYouTubeItems jsonName="yu-prof.r4q52" /><!-- Prof. Roque Gimenez -->
+<MyYouTubeItems jsonName="yu-xenoint" /><!-- 이동준 -->
 
 <TagLinks />

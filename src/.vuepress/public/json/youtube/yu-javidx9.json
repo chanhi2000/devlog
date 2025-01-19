@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7NP8atownYLssLAh266-x9QkEXUpyNEw0x73PE3QdftIahKSozakMYZj3HvLa9yYdWjQWb0H=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AY99hF3kVH8", "title": "Tinkering With Spirographs in C++" },
+    { "id": "afiVogsZDOw", "title": "olc::CodeJam2024 Theme Reveal" },
     { "id": "ONywOoJC4TQ", "title": "Embedding Lua in C++ Part 3: Meh... Just use Sol..." },
     { "id": "unh6aK8WMwM", "title": "DIY Programming Language #1: The Shunting Yard Algorithm" },
     { "id": "2hNdkYInj4g", "title": "Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics" }

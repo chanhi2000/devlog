@@ -8,11 +8,11 @@
     "avatar": ""
   }, {
     "repo": "tillywork/tillywork",
-    "desc": "Opensource work management",
+    "desc": "Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place at dailydev",
     "officialSite": "https://tilly.work",
-    "topics": ["agile-management", "crm", "nestjs", "project-management", "sales-crm", "vue3", "vuetify"],
-    "banner": "",
-    "avatar": ""
+    "topics": ["crm", "project-management", "vuetify", "nestjs", "sales-crm", "vue3", "agile-management"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/66d2eb4d65505c45cc7c8f02dde17f26b53af0b5aa19c7780fe8bc534bf42cc3/tillywork/tillywork"
   }, {
     "repo": "ccbikai/Sink",
     "desc": "A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.",

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "fast_python",
+    "name": "fast_python",
+    "profile": "https://yt3.googleusercontent.com/mI_4e2_-8riTSfAz_arCylt6kGvkUaNR7lnkOQGfa7YZKOBQaQ7zmNmXhdyZlvvODoN0HvYzzQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t8N2I0qBohyVrJzq5QlJmoGAeONYnZLLD81u-JBBC3DGb1d3f_EzMVVVdUj7iYG2rJ_I3B4TeRM=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bprQCLczpyM", "title": "14 Python dictionaries" },
+    { "id": "4VZcixH9qfI", "title": "15 Data types: Summary" },
+    { "id": "wTagRzbMAR4", "title": "Python vs Hamster: Mobile automation with Appium" },
+    { "id": "24FTvk8C6n0", "title": "13 Python Sets" },
+    { "id": "tPmsHNXGTAM", "title": "What's wrong with this python joke" },
+    { "id": "I88a-hI8tzI", "title": "10 Python lists under the hood" },
+    { "id": "KaAkGP9NGnw", "title": "11 Time complexity and lists methods" },
+    { "id": "qWp7XqiJKqk", "title": "What's wrong with this Python joke 2: From a joke to OS slayer" },
+    { "id": "KZTvfSYZztQ", "title": "12 Python tuples" }
+  ],
+  "playlists": [
+
+  ]
+}

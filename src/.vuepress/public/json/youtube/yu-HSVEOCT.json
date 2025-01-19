@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "HSVEOCT",
+    "name": "HSVE",
+    "profile": "https://yt3.googleusercontent.com/6fL6gIHZJFf9lQtzJFmaC5NJZtQL0Bo_4ZpW4-xaL8ZI5ElBxSN5xjvjpVEe-CC9swjQXmYJZA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fZAJQ-K0UsxggUfFpnnYks1SiITd20R8iicTIPNCQK2LRfNShbFwTdcNgCz3luVQjBo9Vr5v=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "884arMtimOM", "title": "macOS Sequoia The New Way Using Proxmox" }
+  ],
+  "playlists": [
+
+  ]
+}

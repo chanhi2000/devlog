@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "ID10T_ERROR_",
+    "name": "ID10T ERROR",
+    "profile": "https://yt3.googleusercontent.com/xVY6LNE5kYM4SgC3uCydE1ojF7zeJPN7cgie4opm2ggb5I2Sep30hlvs8DeaQjPK82N6BVEv5g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tG6Bk56uoowMdVDk_dgJTyW8g4hCwstTfJ57ZxwLXBbM2GvQ0iKzgbu0FhIDYZsNix44-39hfw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8qCd7-OVUVM", "title": "I Turned My Laptop Into A Steam Deck!" },
+    { "id": "2woniA39H4Q", "title": "I Made The Tiniest Home Server!" },
+    { "id": "LnoccxZgiyI", "title": "I Built A Home Server For FREE... You Can Too!" },
+    { "id": "OiLcSkUY7yc", "title": "Ask Me Anything + Free Memberships!" },
+    { "id": "Kmd2u2akyVs", "title": "Building A Custom Linux Image! - LFS EP. 3" },
+    { "id": "zOF1RqaXA9c", "title": "Ranking Browsers, Free Memberships and Answering Questions!" },
+    { "id": "PDcnDM8XmSI", "title": "Debloat Windows 11 With One Command!" }
+  ],
+  "playlists": [
+
+  ]
+}
