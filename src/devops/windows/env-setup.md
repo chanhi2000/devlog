@@ -167,7 +167,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ## D. Scoop.sh
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -190,16 +190,15 @@ Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 scoop bucket add extras
-
-scoop install 7zip cheat hyperfine fastfetch nu`
-  oh-my-posh terminal-icons tokei watchman git
+scoop install 7zip cheat hyperfine fastfetch nu `
+oh-my-posh terminal-icons tokei watchman git lazygit
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
-scoop install 7zip cheat hyperfine fastfetch nu^
-  oh-my-posh terminal-icons tokei watchman git
+scoop install 7zip cheat hyperfine fastfetch nu ^
+oh-my-posh terminal-icons tokei watchman git lazygit
 ```
 
 :::
@@ -226,11 +225,279 @@ scoop install 7zip cheat hyperfine fastfetch nu^
   - Key: `AutoRun`
   - Value: `%USERPROFILE%\alias.cmd`
 
-### E2-i. <FontIcon icon="iconfont icon-json"/>`schema.json`
+### E3. <FontIcon icon="fas fa-gears"/>`alias.cmd`
+
+```batch :collapsed-liens title="%UserProfile%\alias.cmd"
+@echo off
+::
+:: 사용방법
+::
+:: - Win+R 입력 후 regedit실행
+:: - 레지스트리에서 \HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor경로 이동
+:: - 키 생성 (문자열)
+::   - 이름: AutoRun
+::   - 값: alias.cmd를 저장한 절대경로 (이 경로가 PATH_ALAIS_HOME값과 같아야 함)
+::
+:: REG ADD "HKCU\SOFTWARE\Microsoft\Command Processor" /v AutoRun /t REG_SZ /d D:\alias.cmd
+::
+
+:: 사용자 설정 경로 (필수)
+REM SET PATh_ALAIS_HOME=%USERPROFILE%
+SET ALIAS_FNAME=alias.cmd
+SET PATH_ALAIS_HOME=D:\%ALIAS_FNAME%
+SET PATH_ONNARA_ANDROID=D:\development\android\OnnaraMobileAndroid
+
+:: alias 사용법 설명
+ECHO.
+ECHO.
+ECHO ===================================================
+ECHO                ENVIRONMENT VARIABLES
+ECHO ===================================================
+ECHO.
+ECHO. [PATH_ALAIS_HOME]: %PATH_ALAIS_HOME%
+ECHO. [PATH_ONNARA_ANDROID]: %PATH_ONNARA_ANDROID%
+ECHO. [PATH_DEV]: %PATH_DEV%
+ECHO.
+ECHO ===================================================
+ECHO                      Aliases
+ECHO ===================================================
+ECHO.
+ECHO [cdd] - go to development directory
+ECHO [l] - list file(s) in the working directory
+ECHO [ls] - list file(s) in the working directory (simple)
+ECHO [pwd] - print working directory
+ECHO [clear] - clear console screen
+ECHO [open] - open directory in Windows Explorer
+ECHO.
+ECHO [g] - git
+ECHO [gs] - git status
+ECHO [gss] - git status --short
+ECHO [ga] - git add ...
+ECHO [gc] - git commit  ...
+ECHO [gb] - git branch -vv ...
+ECHO [gco] - git checkout ...
+ECHO [gf] - git fetch  ...
+ECHO [glg] - git log  ...
+ECHO [gt] - git tag ...
+ECHO [gp] - git push  ...
+ECHO [gpl] - git pull  ...
+ECHO. 
+ECHO [cddc] - change directory to `%PATH_DEV%\chanhi200` ....
+ECHO [cddi] - change directory to `%PATH_DEV%\ititcloud`...
+ECHO.
+ECHO. 
+ECHO [scrcpyDefault] - run scrcpy with default settings
+ECHO [scrcpyRec] - run scrcpy showing touches
+ECHO [killTestbed] - kill testbed agent using adb
+ECHO. 
+ECHO. 
+ECHO [alias] - alias configure
+ECHO.
+
+
+:: Commands
+@DOSKEY cdd=CD %PATH_DEV% ^&^& EXPLORER .
+@DOSKEY l=DIR /O $*
+@DOSKEY ls=DIR /B $*
+@DOSKEY pwd=ECHO %%cd%%
+@DOSKEY clear=CLS
+@DOSKEY open=EXPLORER $*
+
+:: git
+@DOSKEY g=git $*
+@DOSKEY gs=git status $*
+@DOSKEY gss=git status --short $*
+@DOSKEY ga=git add $*
+@DOSKEY gc=git commit $*
+@DOSKEY gb=git branch -vv $*
+@DOSKEY gco=git checkout $*
+@DOSKEY gf=git fetch $*
+@DOSKEY glg=git log --abbrev-commit --graph --pretty=format:"%%Cred%%h%%Creset %%C(yellow)%%d%%Crest %%s %%Cgreen(%%cr) %%C(bold blue) %%an %%Creset" $*
+@DOSKEY gt=git tag $*
+@DOSKEY gp=git push $*
+@DOSKEY gpl=git pull $*
+
+
+:: 개발환경 구성
+:: @DOSKEY cddc=CD %PATH_DEV%\chanhi2000 && EXPLORER . ^&^& $*
+:: @DOSKEY cddi=CD %PATH_DEV%\ititcloud && EXPLORER . ^&^& $*
+@DOSKEY cddc=CD %PATH_DEV%\chanhi2000 ^&^& EXPLORER .
+@DOSKEY cddi=CD %PATH_DEV%\ititcloud ^&^& EXPLORER .
+:: @DOSKEY cddi=code %PATH_ONNARA_ANDROID%\onnara01\src\main\assets $*
+
+:: ADB 및 안드로이드 관련
+@DOSKEY scrcpyDefault=scrcpy -m 1024 --always-on-top
+@DOSKEY scrcpyRec=scrcpy -m 1024 --always-on-top --show-touches
+@DOSKEY KillTestbed=adb shell am force-stop kr.go.mobile.testbed.iff
+
+
+@DOSKEY alias=notepad %PATH_ALAIS_HOME%
+```
+
+### E4. <FontIcon icon="iconfont icon-powershell"/>`Microsoft.PowerShell_profile.ps1`
+
+> `$profile` 파일 내용
+
+```powershell :collapsed-lines title="%UserProfile%\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+<#
+.SYNOPSIS
+    Chan Powershell Profile
+.DESCRIPTION
+    Aliases 및 중요 파일경로 관리
+.LINK
+    https://github.com/chanhi2000/chan-alias
+.NOTES
+    Author: chanhi2000 | License: CC0
+#>
+
+# 사용자 설정 경로
+$env:PATH_ALAIS_HOME = $profile
+$env:PATH_DEV = "C:\development"
+$env:PATH_RUTIL = "$env:PATH_DEV"
+$env:GIT_LOG_FORMAT_DEFAULT = "%Cred%h%Creset %C(yellow)%d%Crest %s %Cgreen(%cr) %C(bold blue) %an %Creset"
+
+Write-Host @"
+===================================================
+               ENVIRONMENT VARIABLES
+===================================================
+
+[PATH_ALAIS_HOME]: $profile
+[PATH_ONNARA_ANDROID]: $env:PATH_ONNARA_ANDROID
+[GIT_LOG_FORMAT_DEFAULT]: $env:GIT_LOG_FORMAT_DEFAULT
+
+===================================================
+                     Aliases
+=================================================== 
+
+ECHO [open] - open directory in Windows Explorer
+
+[cdd] - go to development directory
+[cdWHA] - change directory to OnnaraMobileAndroid ...
+[codeHWAW1] - open VSCode for `onnara01\src\main\assets`
+[codeHWAW2] - open VSCode for `onnara02\src\main\assets` 
+
+[g] - git
+[gs] - git status
+[gss] - git status --short
+[ga] - git add ...
+[gc] - git commit  ...
+[gb] - git branch -vv ...
+[gf] - git fetch  ...
+[glg] - git log  ...
+[gp] - git push  ...
+[gpl] - git pull  ...
+
+[cddc] - change directory to $env:PATH_DEV\chanhi200 ....
+[cddi] - change directory to $env:PATH_DEV\ititcloud ...
+
+[scrcpyDefault] - run scrcpy with default settings
+[scrcpyRec] - run scrcpy showing touches
+[killTestbed] - kill testbed agent using adb
+ 
+ 
+[alias] - alias configure
+"@
+
+# Dracula readline configuration. Requires version 2.0, if you have 1.2 convert to `Set-PSReadlineOption -TokenType`
+Set-PSReadlineOption -Color @{
+    "Command" = [ConsoleColor]::Green
+    "Parameter" = [ConsoleColor]::Gray
+    "Operator" = [ConsoleColor]::Magenta
+    "Variable" = [ConsoleColor]::White
+    "String" = [ConsoleColor]::Yellow
+    "Number" = [ConsoleColor]::Blue
+    "Type" = [ConsoleColor]::Cyan
+    "Comment" = [ConsoleColor]::DarkCyan
+}
+# Dracula Prompt Configuration
+Import-Module posh-git
+$GitPromptSettings.DefaultPromptPrefix.Text = "$([char]0x2192) " # arrow unicode symbol
+$GitPromptSettings.DefaultPromptPrefix.ForegroundColor = [ConsoleColor]::Green
+$GitPromptSettings.DefaultPromptPath.ForegroundColor =[ConsoleColor]::Cyan
+$GitPromptSettings.DefaultPromptSuffix.Text = "$([char]0x203A) " # chevron unicode symbol
+$GitPromptSettings.DefaultPromptSuffix.ForegroundColor = [ConsoleColor]::Magenta
+# Dracula Git Status Configuration
+$GitPromptSettings.BeforeStatus.ForegroundColor = [ConsoleColor]::Blue
+$GitPromptSettings.BranchColor.ForegroundColor = [ConsoleColor]::Blue
+$GitPromptSettings.AfterStatus.ForegroundColor = [ConsoleColor]::Blue
+
+
+# git
+function checkGit() {
+    $Null = (git --version)
+    if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
+}
+function g() { git }
+function gs() { git status }
+function gss() { git status --short }
+function ga() 
+{ 
+    param([string] $target2Add="*")
+    git add $target2Add
+}
+function gc() 
+{ 
+    param([string] $flags)
+    git commit $flags
+}
+function gb() { git branch -vv }
+function gf() 
+{ 
+    param([string] $targetRepo="origin")
+    git fetch $targetRepo
+}
+function glg() 
+{ 
+    git log --abbrev-commit --graph --pretty=format:$env:GIT_LOG_FORMAT_DEFAULT
+}
+function gp() 
+{ 
+    param(
+        [string] $targetRepo="origin", 
+        [string] $targetBranch="main"
+    )
+    git push $targetRepo $targetBranch
+}
+function gpl() w
+{ 
+     param(
+        [string] $targetRepo="origin", 
+        [string] $targetBranch="main"
+    )
+    git pull $targetRepo $targetBranch
+}
+
+
+# 개발환경 구성
+function cdd() { cd $env:PATH_DEV }
+function cddc() { cd "$env:PATH_DEV\chanhi2000"; explorer . }
+function cddi() { cd "$env:PATH_DEV\ititcloud"; explorer . }
+function codeHWAW1() { code "$env:PATH_ONNARA_ANDROID\onnara01\src\main\assets" }
+function codeHWAW2() { code "$env:PATH_ONNARA_ANDROID\onnara02\src\main\assets" }
+
+
+# ADB 및 안드로이드 관련
+function scrcpyDefault() { scrcpy -m 1024 --always-on-top }
+function scrcpyRec() { scrcpy -m 1024 --always-on-top --show-touches }
+function killTestbed() { adb shell am force-stop kr.go.mobile.testbed.iff }
+
+function alias() { notepad $profile }
+
+# 후처리
+$env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
+oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\agnoster.omp.json" | Invoke-Expression
+fnm env --use-on-cd | Out-String | Invoke-Expression
+fastfetch
+cdd
+```
+
+---
+
+### F. oh-my-posh's <FontIcon icon="iconfont icon-json"/>`schema.json`
 
 > <FontIcon icon="fas fa-folder-open"/>저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
 
-```json
+```json :collapsed-lines title="schema.json"
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "blocks": [
@@ -292,49 +559,6 @@ scoop install 7zip cheat hyperfine fastfetch nu^
   "final_space": true,
   "version": 2
 }
-```
-
-### E2-ii. `Microsoft.PowerShell_profile.ps1`
-
-`$profile` 파일 내용
-
-```powershell
-# Commands
-Set-Alias sublime sublime_text
-function alias()
-{
-    notepad $profile
-}
-
-# ADB 및 안드로이드 관련
-function scrcpyDefault()
-{
-    scrcpy -m 1024 --always-on-top
-}
-function scrcpyRec() 
-{
-    scrcpy -m 1024 --always-on-top --show-touches
-}
-function killTestbed() 
-{
-    adb shell am force-stop kr.go.mobile.testbed.iff
-}
-
-# 개발환경 구성
-function openWspHomeAndroidWeb1()
-{
-    code $env:WspHomeAndroidWeb1
-}
-function openWspHomeAndroidWeb2() 
-{
-    code $env:WspHomeAndroidWeb2
-}
-
-$env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
-$env:PATH += ";$env:UserProfile\scoop\shims"
-oh-my-posh init pwsh --config "$env:UserProfile\.oh-my-posh\schema.json" | Invoke-Expression
-Import-Module Terminal-Icons
-fastfetch
 ```
 
 ---

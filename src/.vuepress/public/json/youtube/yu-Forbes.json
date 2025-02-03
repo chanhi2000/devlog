@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "Forbes",
+    "name": "Forbes",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BeC6duV1acA9iQLy92vcnlFGimQBbOfWtmoIdEbG0-NoO2jfcnfMr1zwsOzVecTPo-wejvPkkmg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XBXFF2yrnJk", "title": "DeepSeek Panic: Tech Stocks Getting Crushed As Nasdaq Paces To Worst Day Of 2025" },
+    { "id": "XO-vCR2sv5M", "title": "DeepSeek Should Be Banned Lawmakers Urge—After AI Chatbot Linked To Banned Chinese Firm" },
+    { "id": "71BGjrEjojw", "title": "OpenAI’s New AI Assistant Is Capable Of Ordering Groceries, Making Reservations" },
+    { "id": "FLd8MbGlV1Y", "title": "This Tap-To-Pay System For EV Charging Stations Means More Access In Poorly Connected Areas" },
+    { "id": "-iuffQhUeFQ", "title": "How Palantir Minted Two More Billionaires In Post-Election Surge" },
+    { "id": "KyPWi1zVBcY", "title": "Forbes Creator Upfronts - Day 1" },
+    { "id": "QSkudwI1pIM", "title": "This 24-Year-Old Raised Millions To Solve Energy Problems Using Fusion Technology" },
+    { "id": "RaVI5tuRZQA", "title": "Hundreds Of Millions In Crypto Being Wagered On Polymarket" },
+    { "id": "o5rIYV4dRXY", "title": "This Humanoid Robot Could Build Your New Mercedes" }
+  ],
+  "playlists": [
+
+  ]
+}

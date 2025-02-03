@@ -32,7 +32,7 @@ head:
 <MyYouTubeItems jsonName="yu-salimtalk" /><!-- 살림톡 -->
 <MyYouTubeItems jsonName="yu-살림남" /><!-- 살림남 The Life -->
 <MyYouTubeItems jsonName="yu-구매리즘" /><!-- 구매리즘 -->
-<MyYouTubeItems jsonName="yu-1under" /><!-- 1분미만 -->
+<MyYouTubeItems jsonName="yu-1분미만" /><!-- 1분미만 -->
 <MyYouTubeItems jsonName="yu-3protv" /><!-- 삼프로TV_경제의신과함께 -->
 <MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
 <MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->

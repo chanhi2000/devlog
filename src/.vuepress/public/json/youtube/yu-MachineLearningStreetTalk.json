@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "MachineLearningStreetTalk",
+    "name": "Machine Learning Street Talk",
+    "profile": "https://yt3.googleusercontent.com/i79OPKqK74BY_5c3SE3yBDfWf7kBd2ACwm4NNhCyO6_0_1djBrN-CNGzZZrTGl_cnnUgq9HgtA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1pguHQ67IywXPODkHPiCCGtjyBNVVzjir8YFnwyC8eNxyIvbRVpqXbvR2eqMrHY5zcREr8pSRw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l3O2J3LMxqI", "title": "Want to Understand Neural Networks? Think Elastic Origami!" },
+    { "id": "mw5WIDGRLnA", "title": "Jeff Clune - Agent AI Needs Darwin" },
+    { "id": "w9WE1aOPjHc", "title": "Chollet -- \"o-models FAR beyond classical DL\"" },
+    { "id": "JTU8Ha4Jyfc", "title": "Pattern Recognition vs True Intelligence - Francois Chollet" },
+    { "id": "RvVCyCmsCjg", "title": "Optimize GPU performance for AI - Prof. Gennady Pekhimenko" },
+    { "id": "vei7uf9wOxI", "title": "Learning at test time in LLMs" },
+    { "id": "BJMi_dAwE8k", "title": "AI in 2024 - efficiency over model size (Nick Jakobi)" },
+    { "id": "C6sSs6NgANo", "title": "Test-Time Adaptation: A New Frontier in AI" },
+    { "id": "URtF_UHYBSo", "title": "The Elegant Math Behind Machine Learning" },
+    { "id": "WlWAhjPfROU", "title": "This is what happens when you let AIs debate" },
+    { "id": "6DrCq8Ry2cw", "title": "Open-Ended AI: The Key to Superhuman Intelligence?" },
+    { "id": "I0PLTzeEbtg", "title": "Bold AI Predictions From Cohere Co-founder" },
+    { "id": "s7_NlkBwdj8", "title": "It's Not About Scale, It's About Abstraction" },
+    { "id": "ZTE-JVd_QkA", "title": "Biologically-inspired AI and Mortal Computation" },
+    { "id": "7bmhjt1cpRs", "title": "The ChatGPT Paradox: Impressive Yet Incomplete" },
+    { "id": "3ZTNps2PraM", "title": "Decompiling Dreams: A New Approach to ARC?" },
+    { "id": "z9j3wB1RRGA", "title": "Solving Chollet's ARC-AGI with GPT4o" },
+    { "id": "B45s_qWYUt8", "title": "How Cohere will improve AI Reasoning this year" },
+    { "id": "breVUnh9i2s", "title": "Could the universe be conscious?" },
+    { "id": "jSAT_RuJ_Cg", "title": "Chollet's ARC Challenge + Current Winners" },
+    { "id": "7hwX6OZyNC0", "title": "\"ChatGPT is better than my therapist\" - (Reddit user)" },
+    { "id": "KMSa5CccEEQ", "title": "Jay Alammar on LLMs, RAG, and AI Engineering" },
+    { "id": "W485bz0_TdI", "title": "Is ChatGPT an N-gram model on steroids?" },
+    { "id": "91SK90SahHc", "title": "The AI Bubble: Will It Burst, and What Comes After?" },
+    { "id": "DP454c1K_vQ", "title": "Neural and Non-Neural AI, Reasoning, Transformers, and LSTMs" },
+    { "id": "nO6sDk6vO0g", "title": "Is o1-preview reasoning?" },
+    { "id": "CMLCpZarQkE", "title": "The scientist who coined retrieval augmented generation" }
+  ],
+  "playlists": [
+
+  ]
+}

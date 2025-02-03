@@ -113,5 +113,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Gdconf" /><!-- GDC -->
 <MyYouTubeItems jsonName="yu-ElixirAustralia" /><!-- Elixir Australia -->
 <MyYouTubeItems jsonName="yu-openuk_uk" /><!-- OpenUK -->
+<MyYouTubeItems jsonName="yu-kakaotech" /><!-- kakao tech -->
 
 <TagLinks />

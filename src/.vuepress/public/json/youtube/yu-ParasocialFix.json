@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ParasocialFix",
+    "name": "Parasocial Fix",
+    "profile": "https://yt3.googleusercontent.com/z7hbpZZbxOBNCKARZ7bUHaKp2LLZzZddRinu3hXrfqpI2eXCa9Eei-6q0vkCgGM2gug-hHalsQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2iDeDWW70DN-IXnWDHkqMPv74m6P1SM845-Al50MEgcmwwhQrYJ5-yrZ91pk3DPncbE3tsG2FjQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xtKZqArvN6o", "title": "demo of library @lift-html/solid" },
+    { "id": "yr0MiysN8AE", "title": "Builder.io: the price of hydration Next.js vs Astro" },
+    { "id": "GvSWaQ6fazQ", "title": "VOD: reacting to levelsio; Cursor AI editor; How to build modern web site" },
+    { "id": "W14brF0Krps", "title": "Reacting to @levelsio podcast with Lex Fridman" },
+    { "id": "FHQ1SepqCTA", "title": "Web Components: near miss or missing out?" }
+  ],
+  "playlists": [
+
+  ]
+}

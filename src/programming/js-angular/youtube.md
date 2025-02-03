@@ -35,5 +35,6 @@ head:
 <MyYouTubeItems jsonName="yu-theigorsedov" /><!-- Igor Sedov -->
 <MyYouTubeItems jsonName="yu-JamiltonQO" /><!-- Jamilton Quintero Osorio -->
 <MyYouTubeItems jsonName="yu-OpenSauced" /><!-- The Secret Sauce -->
+<MyYouTubeItems jsonName="yu-LearningPartnerDigital" /><!-- Learning Partner -->
 
 <TagLinks />

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/TYi0sBEdFz487bCHee_k4eaNG9HJWcXY5zLyweAaf2JD59pnNxnkXFxVTwGC9iNbSzJJGnXDRrY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hsYbyWaJbhU", "title": "👀 useState built into the browser? #javascript #programming #react" },
     { "id": "GPYAC1qGD44", "title": "Astro fixed React server actions" },
     { "id": "_dtyYDwHAIc", "title": "I'm done with Vercel." }
   ],

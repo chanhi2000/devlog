@@ -495,7 +495,7 @@ tag:
 
 - [TIL: qpdf로 pdf 파일에 걸린 암호 해제하기](https://rein.kr/posts/2024-08-18-til-qpdf-decrypt/)
 - [TIL: OpenSSL로 SAN 확인하기](https://rein.kr/posts/2024-09-14-check-san-openssl/)
-- [블로그 새 글 Bluesky로 보내기](https://rein.kr/posts/2024-09-22-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%83%88-%EA%B8%80-bluesky%EB%A1%9C-%EB%B3%B4%EB%82%B4%EA%B8%B0/)
+- [블로그 새 글 Bluesky로 보내기](https://rein.kr/posts/2024-09-22-블로그-%EC%83%88-%EA%B8%80-bluesky%EB%A1%9C-%EB%B3%B4%EB%82%B4%EA%B8%B0/)
 - [TIL: ImageMagick으로 (임시) 텍스트 로고 만들기](https://rein.kr/posts/2024-09-28-text-logo-with-image-magick/)
 
 <!-- END: rein.kr -->

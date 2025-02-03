@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "tomazzaman",
+    "name": "Tomaž Zaman",
+    "profile": "https://yt3.googleusercontent.com/WYkWOsLhXVw0yefkTZ76LnQBj2N5gKkrdQkqHyNmzctwv-ZZS1dYkST-0gOs3pa4dnx-8_ruPQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-rqQYGNYv2T5GFVXiR0x2Kdp0a7KglngQr0i3Umydk9PqiIoMlIkzVH6v4IAZ9OrWLkDgHrdYVw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qSQbpS9waIA", "title": "We're building a high-end router. Here's the update for January 2025." },
+    { "id": "ZeHIQFuN8Eg", "title": "We're building a high-end router. Here's the update for December 2024." },
+    { "id": "Re2mn54SbHw", "title": "My 10 Gb router PCB is better than your 10 Gb router PCB." },
+    { "id": "NpSmz6Ssj8s", "title": "I decided to DOWNSIZE my NAS. Significantly." },
+    { "id": "DpycDhRi9-Y", "title": "We're building a high-end router. Here's the update for October 2024." },
+    { "id": "SS1MKZY8Tus", "title": "The perfect pitch doesn't exi..." },
+    { "id": "D5MYQL4zuDc", "title": "We're building a high-end router. Here's the update for September 2024." },
+    { "id": "_g-OqQOmEAU", "title": "10 Gb/s throughput without using CPU cores? ✅ Check." },
+    { "id": "EnkpLJhLIrM", "title": "We're building a high-end router. Here's the update for June 2024." },
+    { "id": "FYbYBtywBnQ", "title": "How Linux Boots on an Embedded Device - part 1" },
+    { "id": "vJ44sgnsREk", "title": "My most informative video yet! Let's build ourselves a Linux!" }
+  ],
+  "playlists": [
+
+  ]
+}

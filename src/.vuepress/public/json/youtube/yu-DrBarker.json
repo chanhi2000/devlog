@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "DrBarker",
+    "name": "Dr Barker",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mgJqfbGLlw3VqT8qP8PNxPedG8zt8gndE7aIR6bgjAIg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/lrh1C7Xc5u6_hojyZpsgsROKb7CAV9V5d_ddqH2eM859SUFEvL2RUVbOvNv-vPkH_ZSKn3Ys=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "vfaxybGnSn0", "title": "Remainder Theorem Problem" },
+    { "id": "ld2sJQCJo60", "title": "Differential Equations with Repeated Roots: Explained in 3 Ways" },
+    { "id": "cAOJt_ifW7U", "title": "An Irrational Inequality" },
+    { "id": "u25pZdDdi74", "title": "There Are More Solutions Than You Might Think | The \"Pointwise Trap\" for Functional Equations" },
+    { "id": "Cft_dpvkH_4", "title": "Upside Down Equations" },
+    { "id": "ln0RS47SgYI", "title": "When Proof By Induction Fails" },
+    { "id": "njsoz0ihs48", "title": "Beyond ½ a b sin(C)" },
+    { "id": "f_EErXYlI6Q", "title": "Functional Equation Problem: Find f(4)" },
+    { "id": "TbxPXa9P6WQ", "title": "Subsequences of Arithmetic & Geometric Sequences" },
+    { "id": "CGK5wFd8ZJM", "title": "Cubics With ± Roots" },
+    { "id": "7BnH0sDhlg4", "title": "Why Is This Almost An Integer?" },
+    { "id": "pSXQmxSSvZI", "title": "Powers of Non-Diagonalisable Matrices" },
+    { "id": "rPYxtxxVIRo", "title": "A Short Combinatorics Problem" },
+    { "id": "E9MgUsj2nvw", "title": "A Trick for Multiplication by 7" },
+    { "id": "xAPOW7pjvzk", "title": "Intuition Behind The Cayley Hamilton Theorem" },
+    { "id": "akka97y9I5o", "title": "Which is Bigger? Tetration Edition" },
+    { "id": "71_Xr5jH4ZQ", "title": "A Nested Square Root Problem" },
+    { "id": "oFJwmE4qxHU", "title": "Integers as Sums of Fibonacci Numbers" },
+    { "id": "-AM3r2ASjL0", "title": "A Short Functional Equation Problem" },
+    { "id": "aFur5kMeXsM", "title": "A Recurring Decimal Problem" },
+    { "id": "GLxcBTcFiOM", "title": "Convergence of an Interesting Series" },
+    { "id": "PNzS8ng3xFM", "title": "A Tricky Roots of Cubics Problem" },
+    { "id": "k_BHoEjfJiA", "title": "A Satisfying Divisibility Proof" },
+    { "id": "XuMZpKPvKf4", "title": "Finding the Area of a Region" },
+    { "id": "mmlO3nZxg_c", "title": "More Minimising Without Calculus" },
+    { "id": "S1uKa2DkSSg", "title": "Finding the Range of a Function" },
+    { "id": "CNajxVQYC6k", "title": "A Factor Tree Puzzle" },
+    { "id": "B1R9Gh2WfqY", "title": "The Best Diagram for Angle Sum Identities" },
+    { "id": "my5_qVCLfH4", "title": "An Amazing Floor & Square Root Identity" },
+    { "id": "q2daqMR3l24", "title": "What Lies Above Pascal's Triangle?" },
+    { "id": "fEm8MAzd6Lk", "title": "A Fun Exponential Equation" },
+    { "id": "7oKppP9zmg4", "title": "A Functional Equation Problem" },
+    { "id": "rJ7-z0DdJVI", "title": "A Factorial Product Problem" },
+    { "id": "mwIXgXgD5Hw", "title": "A Limit With A Cube Root" },
+    { "id": "oJR0bIa3EJ8", "title": "Gaussian Integral: Infinite Series Approach" },
+    { "id": "sJLPY9Aazns", "title": "A Fibonacci Series Problem" },
+    { "id": "TdhUNhGbfD8", "title": "Can A Function Be Continuous At Only One Point?" }
+  ],
+  "playlists": [
+
+  ]
+}

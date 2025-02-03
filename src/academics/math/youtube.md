@@ -80,5 +80,8 @@ head:
 <MyYouTubeItems jsonName="yu-coremath1743" /><!-- COREMATH -->
 <MyYouTubeItems jsonName="yu-theemptypark" /><!-- the empty park -->
 <MyYouTubeItems jsonName="yu-kh_math" /><!-- 경희 수학 -->
+<MyYouTubeItems jsonName="yu-Ray수학" /><!-- Ray 수학 -->
+<MyYouTubeItems jsonName="yu-DrBarker" /><!-- Dr Barker -->
+<MyYouTubeItems jsonName="yu-Gilbut_Academy" /><!-- 선생님도 매월 시험보는 학원 Since 2005 -->
 
 <TagLinks />

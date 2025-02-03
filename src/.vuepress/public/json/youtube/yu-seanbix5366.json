@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "seanbix5366",
+    "name": "Sean Bix",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lD8Se6hv5YiFqz5DSOKilJRfQH6DdPpF4vGbhyysnza7E=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MRQQuSUTnLe_YVkgI4wGhIeh5AsPagHWkfWy961IIY6IBtDfFxs46t0nGjUvO1a-g2tKQzja=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rc_zVASAajU", "title": "I Wrote Websockets \"From Scratch\"" },
+    { "id": "Nw1mrIshK00", "title": "I Wrote HTTP \"From Scratch\" (It Was Easy)" },
+    { "id": "HnFdYPg9-do", "title": "I Rewrote A Powershell Script In C (It Was Faster To Write)" },
+    { "id": "YGflCBi2h-Y", "title": "WebGL Text Rendering (Tutorial On Instancing)" },
+    { "id": "Nw1mrIshK00", "title": "I Wrote HTTP \"From Scratch\" (It Was Easy)" }
+  ],
+  "playlists": [
+
+  ]
+}

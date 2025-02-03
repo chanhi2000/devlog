@@ -30,5 +30,6 @@ tag:
 <MyYouTubeItems jsonName="yu-PowerShellEngineer" /><!-- PowerShell Engineer -->
 <MyYouTubeItems jsonName="yu-Cobuman" /><!-- cobuman -->
 <MyYouTubeItems jsonName="yu-Cobuman" /><!-- cobuman -->
+<MyYouTubeItems jsonName="yu-seanbix5366" /><!-- Sean Bix -->
 
 <TagLinks />

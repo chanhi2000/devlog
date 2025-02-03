@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "aischool_ai",
+    "name": "AISchool",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l0bp_ENm83AeeOhvmd1ubNVqvz1_R0gxs4S79UsP6p5Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OcG6Tly0hgOn21iBo_bcx_74sq86mwP5m5HyCamiF08iUEBusJj0NRMA6Zs0lMMNFUZVlps2DQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "B3Yk2gDNCD0", "title": "중국에서 공개한 최고성능 오픈소스 LLM 딥시크(DeepSeek) 추론 능력 테스트하기 - AIME 2024 데이터셋" },
+    { "id": "0KT2nGlAPIg", "title": "GPT보다 좋은 고성능 무료 오픈소스 LLM 딥시크(DeepSeek) 코딩 능력 테스트하기  - LiveCodeBench 데이터셋" },
+    { "id": "M46kRnXqhZY", "title": "라마 3.2(Llama 3.2) Vision 모델로 차트 이미지 해석하기 - ChartQA 데이터셋 성능 테스트" },
+    { "id": "RjyTAloGMpE", "title": "LangGraph로 AI 에이전트 만들기 - AI 에이전트를 위한 나만의 도구(Tool) 정의하기" },
+    { "id": "aUy_cD-66rg", "title": "라마 3.3(Llama 3.3) 한국어 추론능력 테스트하기 - MMLU 벤치마크 데이터셋" },
+    { "id": "YVdLc0qBd1I", "title": "LangGraph로 나만의 AI 에이전트 만들기 - LangGraph Quickstart" },
+    { "id": "WmGXSHRNMdo", "title": "Llama 모델과 LangGraph로 AI 에이전트 만들기 - Adaptive RAG 시스템을 이용한 판사Llama 만들기" },
+    { "id": "zNV6CWkkUZs", "title": "최신 ChatGPT o1-preview 모델로 2025 수능 국어 문제 풀어보기 (gpt-4o 모델과 성능 비교하기)" },
+    { "id": "-l1zq2nXPSQ", "title": "라마 3.2(Llama 3.2) Vision 모델로 한국어 멀티모달 LLM 만들기 - 한국어 VQA 데이터셋 성능 테스트" },
+    { "id": "FUthk7B3EuE", "title": "LangGraph로 AI 에이전트 만들기 - 웹검색을 위한 Tavily Tool" },
+    { "id": "DflU2NoakGY", "title": "멀티모달 LLM - PaliGemma 모델을 활용해서 물체 검출(Object Detection) 하기" },
+    { "id": "mmTgOHYnKR0", "title": "라마 3.2(Llama 3.2) 한국어 추론능력 테스트하기 - Hellaswag 벤치마크 데이터셋" },
+    { "id": "CLiS-AnRphI", "title": "AI 에이전트란 - AI 에이전트의 개념 정리" },
+    { "id": "5Huc8eoxaZQ", "title": "RAG 성능 평가하기 - RAG Evaluation을 위한 RAGAS 라이브러리 소개" },
+    { "id": "IzKjSSQ8z40", "title": "랭체인으로 AI 고객센터 챗봇(AICC) 만들기 - OTP 분실안내 챗봇 만들기" },
+    { "id": "vquNqTmg2vU", "title": "라마 3 모델 핵심 개념 정리 - Meta에서 공개한 세계 최고 성능의 오픈소스 LLM Llama 3" },
+    { "id": "kw5vIyqGMxM", "title": "GPT-4o mini - 더욱 저렴하고 더욱 강력해진 최신 GPT 모델" },
+    { "id": "I6zyuYUjitI", "title": "라마 3.1(Llama 3.1) 다국어 성능 테스트하기 - 무료로 ChatGPT보다 뛰어난 성능의 AI 챗봇 만들기" },
+    { "id": "56vw3GmEDk8", "title": "Llama 3.1과 랭체인(LangChain)을 연동해서 RAG 구현하기" },
+    { "id": "iyYh4PQBI9U", "title": "PaliGemma - 이미지를 인식하는 멀티모달 오픈소스 LLM" },
+    { "id": "w1avDw-w-C8", "title": "ChatGPT의 라이벌 - 클로드(Claude) 시스템 프롬프트 분석하기" },
+    { "id": "jQxTHfoqArk", "title": "LangGraph로 멀티 AI 에이전트 만들기 - 멀티 에이전트 협업 기초 예제" },
+    { "id": "7lKm_Hdooko", "title": "OpenAI o1 모델 소개 - 박사급 인력을 뛰어넘는 추론 능력을 갖춘 최초의 AI 모델" },
+    { "id": "98nVdepA42s", "title": "LangGraph로 멀티 AI 에이전트 만들기 - 감독관(Supervisor) 에이전트를 이용한 멀티 에이전트 예제" }
+  ],
+  "playlists": [
+
+  ]
+}

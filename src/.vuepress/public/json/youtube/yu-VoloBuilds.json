@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "VoloBuilds",
+    "name": "Volo",
+    "profile": "https://yt3.googleusercontent.com/y_mHBqMGEfdVd60gHaUamKsawk2WOUmUyvQjSAg8PdBG5ui73xp57Le1O8LNXgHNk8mUdaURuQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/io5t2VrfQAqQF-F-c91HhuOfkso87aSXB-zncO2Ex8Y7fO2lk7drcADvYlIkxKqWWaVtLo-4pw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YyeUSujTvXc", "title": "Lovable + Cursor Composer Agents (Ultimate AI Workflow)" },
+    { "id": "uwA3MMYBfAQ", "title": "AI Coding 101: Ultimate Prompt Guide (37 tips)" },
+    { "id": "bWjvwcVk2P0", "title": "AI Coding 101: Build Your First Website in 17 min" },
+    { "id": "Xd-zFFGBD7A", "title": "AI Coding 101: Software Basics for Beginners | 2025" },
+    { "id": "6VejFu1nEYs", "title": "Lovable Tutorial for Beginners (Best AI App Builder?)" },
+    { "id": "TCQloeJsMPE", "title": "I tried the \"free\" GitHub Copilot so you don't have to" },
+    { "id": "ouT8ItvJla8", "title": "Windsurf AI first impressions (better than Cursor?)" },
+    { "id": "szDo4vbdiLQ", "title": "Introducing the Volo Score (eval for AI coding tools)" },
+    { "id": "Qtr9Dyl7MZ0", "title": "Cursor vs Windsurf - which is the BEST AI Code Editor?" },
+    { "id": "ctn3mvDo22E", "title": "New Cursor Agents - game changer or flop?" },
+    { "id": "PlQPSkIUdIk", "title": "Stop using v0 - do THIS instead (Cursor + shadcn/ui)" },
+    { "id": "5LIfSpr3GDM", "title": "How to build advanced RAG systems with AI-generated SQL" },
+    { "id": "ksJB3x6hiWU", "title": "Are you making any of these?" },
+    { "id": "u6MkMpWoGMI", "title": "I taught my wife how to code with Cursor in 67 minutes" },
+    { "id": "_9OE1KA1Wfs", "title": "Cursor vs Bolt vs Replit vs v0 [Best AI Coding Tool]" },
+    { "id": "dnOhv3uudOw", "title": "What are AI Agents -- and how do they work?" },
+    { "id": "MQWN_g1Gw6s", "title": "The 5 Levels of Understanding AI" },
+    { "id": "x4Pe5LjUHKQ", "title": "Is AI Coding ACTUALLY 10x Faster? [REAL RESULTS]" },
+    { "id": "yk9lXobJ95E", "title": "How I code 259% Faster using AI (Cursor + Sonnet 3.5)" },
+    { "id": "1kPr1vy0-QY", "title": "7 Cursor Hacks to become the FASTEST coder" },
+    { "id": "mxX1TYrhPFo", "title": "How I built a REAL Full Stack App in 5hr using Cursor" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -29,7 +29,7 @@ tags:
   - "@TV-bk8fv"
   - "@3protv"
   - "@NaNyunJae"
-  - "@1under"
+  - "@1분미만"
   - "@techmong"
   - "@gwigom"
   - "@kundol"

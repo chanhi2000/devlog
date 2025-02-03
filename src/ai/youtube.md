@@ -54,4 +54,6 @@ head:
 <MyYouTubeItems jsonName="yu-theAIsearch" /><!-- AI Search -->
 <MyYouTubeItems jsonName="yu-itjaeneungnanum" /><!-- INNB & 정보기술재능나눔 -->
 <MyYouTubeItems jsonName="yu-borismeinardus" /><!-- Boris Meinardus -->
+<MyYouTubeItems jsonName="yu-chester_roh" /><!-- 노정석 -->
+
 <TagLinks />

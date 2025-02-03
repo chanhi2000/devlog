@@ -6,7 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/6WHxmFP44gUvc_bIwLaDb2jQ7fJr0Jkcu0snZoB76m-auJm5-xqucnsxnsQzg_D13ckkXOzzFCA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "wLDOoPO6OtM", "title": "(TDA) Part05-Frequency Visualization" },
+    { "id": "vUEDHSxgj64", "title": "(DB실무) Part4-SQL 기본 및 활용-7.Multi-Row Function" },
+    { "id": "N0DIIIshjpM", "title": "(DB실무) Part4-SQL 기본 및 활용-3.Function" },
+    { "id": "AJfANpKhVAs", "title": "(DB실무) Part4-SQL 기본 및 활용-5 TCL & DCL" },
+    { "id": "9bO7KAZ4JB4", "title": "(DB실무) Part4-SQL 기본 및 활용-4.Join & Set Operation" },
+    { "id": "LeHLIT7f-w0", "title": "(DB실무) Part3-데이터 모델과 성능" },
+    { "id": "MjDlA8KgwV8", "title": "(DB실무) Part0-Course Orientation" }
   ],
   "playlists": [
     {

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "activenode",
+    "name": "activenode",
+    "profile": "https://yt3.googleusercontent.com/RTFVrSfT7rcjDEEzgPGTKdqADcbWSAQwMk-ZVghWqgBXTR292Fof443VU6aovbH9H8qZ9pg2gww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_3iTP9hZKUk", "title": "bolt.new: Can it really create full-fledged apps?" },
+    { "id": "xmIENZp0EQ0", "title": "CSS on crazy-mode 🔥: Automatic Color Shades #css #webdesign #webdevelopment #javascript" },
+    { "id": "gpP9c41IPb0", "title": "JUST MERGED: Custom Headers in supabase-js" },
+    { "id": "dcbyjeLe9Tc", "title": "Supabase SSR 😎 - one package to rule them all - No framework / Next.js / Remix / Astro" }
+  ],
+  "playlists": [
+
+  ]
+}

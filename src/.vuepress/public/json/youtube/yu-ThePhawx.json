@@ -1,11 +1,19 @@
 {
   "channel": {
     "id": "ThePhawx",
-    "name": "The Phawx",
+    "name": "The  (PhawxTV)",
     "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mdlZOcKXP9IePAE2d0SSNWe1GyfYswflumzL_fcQ=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/1ymGQ2DaT36x6xOWwe-dyLNKTewwrbgp8KKUR9qP8aC-FHQ52VokXynzaQUNf7w5LRS8MFoI=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mnAjMSw-4CM", "title": "GPD Pocket 4 - The Best UMPC in 2025?" },
+    { "id": "Y1GHUWMH1kM", "title": "Linus Tech Tips Precision Multi-Bit Screwdriver Set Review" },
+    { "id": "Kw_CPMCm6Vw", "title": "Absolutely INSANE! GPD Duo 64GB 8000MT RAM AND AMD Strix Point HX370" },
+    { "id": "rnQpFhSgCPA", "title": "You Don't NEED To Worry About Burn In on the Steam Deck OLED" },
+    { "id": "UPEt3xJojW0", "title": "Overclock GPU + 70w TDP Guide   BeeLink SER8 AMD8845HS Review" },
+    { "id": "6Y9e7Db3ny0", "title": "I Was Right - AMD Ryzen AI 9 HX 370" },
+    { "id": "uy6XK4DpO_Q", "title": "127 TERABYTE NAS - UGREEN DXP8800 Plus NAS Review" },
+    { "id": "BA2d_KPAd0w", "title": "I Wanted To Love This - AceMagic X Dual Screen Laptop" },
     { "id": "2R12PTbI31g", "title": "Their Best Yet?.. With One Issue - Anbernic RG556 In-Depth Review" },
     { "id": "G8KFjVX3yP8", "title": "Exciting NEW Breed of NAS! Ugreen NAS Review" }
   ]

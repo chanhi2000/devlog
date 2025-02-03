@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/P-SQmV3RtAz2oYph5tTy5zqMcFxpbiXDYmoagj6phYKQ3fumj0d5JgWzNli9Ni-Kuu5Rt6uK0g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5p5Co6wS0OU", "title": "Doctrine: Native Query, Inheritance Mapping, Batch Processing..." },
     { "id": "7k9UPHZq0cI", "title": "PHP 8.3 - Плюшки, изменения и производительность" },
     { "id": "_has_Pqzyb8", "title": "Оптимизация обработки данных на PHP" },
     { "id": "cSghexeHlDI", "title": "Базы данных. NoSQL. Redis" }

@@ -59,7 +59,7 @@ Copy and Paste the following to the Terminal Prompt
 
 Copy and Paste the following to the Terminal Prompt
 
-```sh
+```sh :collapsed-lines
 # Install taps
 brew tap homebrew/cask-versions;
 brew tap homebrew/cask-fonts;
@@ -68,7 +68,7 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
-  cheat clipgrab cocoapods dockdoor exiftool ffmpeg fizz flac git \
+  cheat clipgrab cocoapods exiftool ffmpeg fizz flac git lazygit \
   hyperfine mas fastfetch nushell fnm openssl pixman \
   python poetry rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
@@ -84,9 +84,9 @@ brew install qemu libvirt virt-manager;
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \ 
-  dbeaver-community rancher eul flameshot flipper font-jetbrains-mono \
-  google-chrome ghostty grandperspective intellij-idea-ce jordanbaird-ice \
-  maccy notion opencore-patcher oversight pennywise raycast \
+  dbeaver-community dockdoor rancher eul flameshot flipper font-jetbrains-mono-nerd-font \
+  ghostty grandperspective intellij-idea-ce jordanbaird-ice \
+  maccy notion opencore-patcher oversight pennywise pycharm-ce raycast \
   resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
   vlc wireshark;
@@ -374,6 +374,17 @@ alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    ns
 alias startKVM='brew services start libvirt'
 alias stopKVM='brew services stop libvirt'
 alias ghostty-config="vi $GHOSTTY_CONFIG"
+
+lg() {
+  export LAZYGIT_NEW_DIR_FILE=~/.lazygit/newdir
+
+  lazygit "$@"
+
+  if [ -f $LAZYGIT_NEW_DIR_FILE ]; then
+    cd "$(cat $LAZYGIT_NEW_DIR_FILE)"
+    rm -f $LAZYGIT_NEW_DIR_FILE > /dev/null
+  fi
+}
 
 # launch starship.sh
 eval "$(starship init zsh)"

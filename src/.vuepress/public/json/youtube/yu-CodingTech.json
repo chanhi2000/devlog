@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/TL7jYLx2g5E5EDU79qYIlNd8v3rixDhpHP39TzkAwCvgui4oojemjlmyT0Czwj7T43cfNCKkfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LjFMwEGt0_I", "title": "Immersity AI - Image to Video AI" },
+    { "id": "TlJNRB9jk9I", "title": "Suno AI: Music & Artificial Intelligence" },
+    { "id": "Q9S-td8YJlU", "title": "Creating Headshots using Midjourney" },
     { "id": "tctIYQSN7qc", "title": "The Cost Of JavaScript" }, 
     { "id": "ASdhlvL0obY", "title": "My Journey Across the Spider-Verse: from Hobbyist to Hollywood" }, 
     { "id": "slSZk38ncw8", "title": "What is a WebAssembly Component (and Why?)" }, 

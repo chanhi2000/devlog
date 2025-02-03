@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "SingularityNET",
+    "name": "SingularityNET",
+    "profile": "https://yt3.googleusercontent.com/U-n-QCPickdHyaNfGaDEKk4HOlY11TiwLa0BA7aatQ5A3UUMW_XvAu8H26q1OLXDcuDfuae_Sg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2t5KriVY1ydAgI_QFZvkYbR0lOGOzFrHNZU7roFDq5aeWJl_CXOJzB3w6Vwgr8zPqBESfn4Nsg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "c0zBx4fMw7E", "title": "BGI Nexus - Participatory Framework for Global AGI Constitution" },
+    { "id": "loEq_lekJ3U", "title": "Dr. Mihaela Ulieru | Out of the Matrix" },
+    { "id": "3q0WPqqOKOI", "title": "Inside SingularityNET | December 2024" },
+    { "id": "nqwAp4iMn-8", "title": "Inside SingularityNET | November 2024" },
+    { "id": "X6XXXexLjx8", "title": "Ben Goertzel - A Path to Beneficial Superintelligence" },
+    { "id": "vw2G6ybq2UE", "title": "$1.25M in Grants to Advance Decentralized, Beneficial and Benevolent AGI" },
+    { "id": "xopc99q8j_g", "title": "Inside SingularityNET | October 2024" },
+    { "id": "DjweuhF0Cdw", "title": "Exploring AI, Cognitive Science, and Ethics | Deep Interview with Jay Friedenberg" },
+    { "id": "EJ3f787Igwc", "title": "AGI-23 | NARS Tutorial" },
+    { "id": "Rsd6IKwIINc", "title": "AGI-23 | Machine Intelligence for Open Worlds" },
+    { "id": "ObuggFIW5Mo", "title": "AGI-23 | Welcome - Claes Strannegard" },
+    { "id": "gRg6FqrtVHo", "title": "AGI-23 | The Relevance Of The Turing Test? Ascribing Intention Into Any Experience - Martin Ingvar" },
+    { "id": "aJgok3O-gVs", "title": "AGI-23 | Lightning Session 2 | 7 short talks" },
+    { "id": "iVCPqvodOnM", "title": "AGI-23 | Presentation Session 3 - Topic: Cognition" },
+    { "id": "4s5BS9LrYSI", "title": "Building an AGI Supercomputer" },
+    { "id": "A-9uI-aoQGc", "title": "AGI-23 | On Scaling Laws, Emergent Behaviors, And AI Democratization Efforts Pending Confirmation" },
+    { "id": "k-jcHSWrWgo", "title": "AGI-23 | Presentation Session 4 - Topic: Causality And Meaning" },
+    { "id": "lJ4O2gpMPYg", "title": "The Intersection of AI, AGI, and Human Future | Deep Interview with Sadie Stock" },
+    { "id": "DqadfpXj3rE", "title": "Scaling the MeTTA AGI Language" },
+    { "id": "qMrouj2o2nY", "title": "AGI-24 | Day 1 | Workshops & Tutorials | Room 3 - Part 2" },
+    { "id": "zwdTVHRQDkI", "title": "AGI-24 | Day 1 | Workshops & Tutorials | Room 3" },
+    { "id": "Me187k6RQlQ", "title": "AGI-24 | Day 3 | Keynotes & Paper Presentations" },
+    { "id": "0etSH01cgkw", "title": "AGI-24 | Day 4 | Keynotes & Paper Presentations" },
+    { "id": "kR2az3XCYDc", "title": "BGI-24 | Life after Moloch: Will decentralization save the day?" },
+    { "id": "69c4brbSFbo", "title": "Overcoming the Limitations of Reinforcement Learning: Live AIRIS Demo" },
+    { "id": "8AtkPUYLy8g", "title": "AI Marketplace Onboarding Process Using Publisher Portal" },
+    { "id": "wGzeogKj1PQ", "title": "Inside SingularityNET | September 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

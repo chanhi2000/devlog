@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "chester_roh",
+    "name": "노정석",
+    "profile": "https://yt3.googleusercontent.com/YDO_YtBisgfL10fLbjueCT4GrK5IGst8duRvj_IOUeBN_fe4rIpI2avZcxcPc6bpUAQaJRV_WA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_HSzYzdPMMU", "title": "EP 39. OpenAI o1 모델을 이용해서 리포트생성 극강 프롬프트 돌려보기" },
+    { "id": "oiI8Qeygq04", "title": "[AI 명사강연 카카오 이상호박사]  AI 의 기초를 이루는 수학탐방" },
+    { "id": "JjoGi_sAa5M", "title": "EP 40. DeepSeek 의 진실 파헤치기 + AI 로 돈버는 사업기회 이야기 (고석현 대표)" },
+    { "id": "hR-WYI7zhe0", "title": "EP 41. 박사과정 수준이 됐다고?  OpenAI Deep Research 이렇게 사용해보자" },
+    { "id": "K7cPOaiOJj0", "title": "EP 38. 중국의 DeepSeek-R1,  OpenAI o1 설계도를 공개해줌 :)" },
+    { "id": "89r90h0OL38", "title": "[최승준의 AI프론티어] Altman형 잘 가! OpenAI 도 이젠 끝인가?  (초소형 오픈소스 모델이 GPT-4 를 이기는 이유)" },
+    { "id": "mbihnUMZ73M", "title": "[최승준의 AI프론티어] \"이거 풀면 너님 AGI 쌉인정!\",  백만불 상금걸린 ARC 테스트란 무엇인가 (GPT-4o 는 9점임. 90점 아님)" },
+    { "id": "MZYQkL22b38", "title": "[최승준의 AI 프론티어] 요즘 나오는 거의 모든 AI 의 기본구조, 트랜스포머 둘러보기" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "BrentFarris",
+    "name": "Brent Farris",
+    "profile": "https://yt3.googleusercontent.com/_-Ckg96OaQl64eB_NW5QubDLOiyRy35BzwB17Blt9edbisSejmcVaoSoleux4X080-Bs5c63=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ElVQATv2VGfYYYvMHt3wvdJkgBlLtrGubAiAv3wm4L0ur-NXKGKpwJk-qp4lpmdlk17_bI0TuA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "sj063lKsh6w", "title": "Retro Sketch - Lua Plugins Introduction" },
+    { "id": "svDTwAzSxic", "title": "Making Golang 13x faster with Assembly code" },
+    { "id": "Cy9NwdY5pPY", "title": "How UTF-8 String Length Encoding Works and My Branchless Version" },
+    { "id": "yxK_dwJ3Bbc", "title": "Go and SDL setup for game development (golang)" },
+    { "id": "2rs-LD9s7Js", "title": "Advocating Go for game development (golang)" }
+  ],
+  "playlists": [
+
+  ]
+}

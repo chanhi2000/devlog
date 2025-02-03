@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "DevSense19",
+    "name": "Dev Sense",
+    "profile": "https://yt3.googleusercontent.com/xG6S0J6F48q_LKxC97PI9G9VzHdKKa6BG1twonwZLHZj9PwALzCc_fnsA4qGol-hYM6_MnCvUQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/e8VpQMiBlRKCy4dTBNtdb7Q_upk4biVFhNnsagXJSbTE02qimXUE4C6xYVO38yN8EsVyh6w3Yg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "NW42xY651cQ", "title": "Design ChatGPT like AI Assiatant | ML System Design | #machinelearning" },
+    { "id": "cpoS7K_fpRM", "title": "How to transition to Machine Learning from any field? | Artificial Intelligence ft. @vizuara" },
+    { "id": "Gscelu22FWI", "title": "Design TikTok's Recommendation System | ML System Design | #systemdesign" },
+    { "id": "fnKrReaqQgc", "title": "How does Uber predict Arrival Times (ETA) for trips? | Uber ML System Design | #systemdesign" }
+  ],
+  "playlists": [
+
+  ]
+}

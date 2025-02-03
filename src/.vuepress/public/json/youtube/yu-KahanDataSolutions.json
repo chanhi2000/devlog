@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "KahanDataSolutions",
+    "name": "Kahan Data Solutions",
+    "profile": "https://yt3.googleusercontent.com/4vZuEhvOGTAq4QSKeSLvPNvm2WCkwhanE2ATgABAmrrfenJ0CXY0jLDxJaOm0DCIi_rZOV5VNw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WkzBotJ1bjpGzM-3rM6cb5q9LIZcxxWuWePVjiMUPgXPxixRc5C3PORCYJG951Y7vqRlVRMvcw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8a0P-TOkpIE", "title": "3 Data Modeling Mistakes That Can Derail a Team" },
+    { "id": "GwSq5rNkadg", "title": "How Data Teams Deploy To Prod (with high quality)" },
+    { "id": "TaSIdUX4YXk", "title": "Fix Your Data Pipeline...From The Start" },
+    { "id": "h11JKppo93k", "title": "3 Strategy Killers for Data Teams" },
+    { "id": "NcWBt-B_gSI", "title": "How Would You Model This Data? (Example)" },
+    { "id": "V3sP9Hpfo8s", "title": "The \"Key\" To Building A Reliable Data Model" },
+    { "id": "z_TrtkJKXoA", "title": "The Missing Piece in Many Data Pipelines" },
+    { "id": "PcliwzrAtNQ", "title": "How to Pick Tools for a Data Stack (considerations)" },
+    { "id": "2puVz_1np48", "title": "The Power of Naming in Data Projects (especially dbt)" },
+    { "id": "dlnjCpPJoEY", "title": "Managing the \"End\" of a Data Pipeline" }
+  ],
+  "playlists": [
+
+  ]
+}

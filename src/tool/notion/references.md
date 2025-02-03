@@ -42,7 +42,7 @@ head:
 ## üntil
 
 - [`@woongsnote` / Next.js에서 노션 데이터베이스 사용하기](https://until.blog/@woongsnote/next-js%EC%97%90%EC%84%9C-%EB%85%B8%EC%85%98-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [`@love` / Notion API를 사용한 블로그 개발 이슈 정리](https://until.blog/@love/notion-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%8A%88-%EC%A0%95%EB%A6%AC)
+- [`@love` / Notion API를 사용한 블로그 개발 이슈 정리](https://until.blog/@love/notion-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-블로그-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%8A%88-%EC%A0%95%EB%A6%AC)
 
 <!-- END: until.blog -->
 

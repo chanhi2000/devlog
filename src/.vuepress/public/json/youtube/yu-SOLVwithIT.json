@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "SOLVwithIT",
+    "name": "SOLVIT",
+    "profile": "https://yt3.googleusercontent.com/CdVA5yMFDdqVYufXB7VZiTQHHvMExboBgPFv17ZcDzquqj9JsmD_4lsYyApG-3FfL6A1QvPzdA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GyktJ4_CcvKg0sbhSlOx38kmZIWftaDMQzQkMd0yDTFbWiSsa_CoN5iblVYtRJ7-tqzbBlk1=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mFfoHWkQCXw", "title": "개인과외 선생님이 일론 머스크? 세계적 거장들을 100원에 고용하기" },
+    { "id": "kdt5J2bpchM", "title": "평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅" },
+    { "id": "_PdvWiuJF-M", "title": "여러분은 왜 요약하나요? 나처럼 생각하는 GPT와 유튜브 요약" },
+    { "id": "wNPL2LzMRoU", "title": "24시간 자료조사부터 지긋지긋한 보고서까지 대신 써준다고? AI Agent 만들기" },
+    { "id": "SKFHCdkrqUA", "title": "나한테만 100배 좋은 GPT를 만들고 싶다고? LLM 파인튜닝하기" },
+    { "id": "8mzveVswcDY", "title": "GPT로 GPT를 다스리는 방법이 있다고? AutoGen 멀티 에이전트" },
+    { "id": "kdt5J2bpchM", "title": "평생 공짜인 Make, 재피어? 노코드 자동화 n8n 서버 무료 호스팅" },
+    { "id": "T5va0A7wvHk", "title": "읽을건 많은데 시간이 없다고? AI 웹 스크레이핑으로 1인뉴스 만들기" }
+  ],
+  "playlists": [
+
+  ]
+}

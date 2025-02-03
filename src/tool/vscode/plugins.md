@@ -340,6 +340,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "markdownlint (`DavidAnson.vscode-markdownlint`)",
+  "desc": "Markdown linting and style checking for Visual Studio Code",
+  "link": "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint",
+  "logo": "https://davidanson.gallerycdn.vsassets.io/extensions/davidanson/vscode-markdownlint/0.58.2/1737246377021/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Maven for Java (`vscjava.vscode-maven`)",
   "desc": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.",
   "link": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven",

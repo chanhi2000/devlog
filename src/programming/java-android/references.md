@@ -187,7 +187,7 @@ tag:
 - [`ZahraHeydari` / Kotlin MultiPlatform (KMP)](https://medium.com/@ZahraHeydari/kotlin-multiplatform-kmp-4799fdfb69f1)
 - [`santimattius` / From Hilt to Koin using Koin Annotations](https://medium.com/@santimattius/from-hilt-to-koin-using-koin-annotations-e57452c0adf6)
 - [`anitaa_1990` / Kotlin Flows — Fundamentals](https://medium.com/@anitaa_1990/kotlin-flows-fundamentals-7d9b984f12bb)
-- [`박상권의-삽질블로그` / Android 14에서 추가된 ‘사진/동영상의 일부 접근 권한’ 제대로 대응하는 방법](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/android-14%EC%97%90%EC%84%9C-%EC%B6%94%EA%B0%80%EB%90%9C-%EC%82%AC%EC%A7%84-%EB%8F%99%EC%98%81%EC%83%81%EC%9D%98-%EC%9D%BC%EB%B6%80-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-0557db6c46d9)
+- [`박상권의-삽질블로그` / Android 14에서 추가된 ‘사진/동영상의 일부 접근 권한’ 제대로 대응하는 방법](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88블로그/android-14%EC%97%90%EC%84%9C-%EC%B6%94%EA%B0%80%EB%90%9C-%EC%82%AC%EC%A7%84-%EB%8F%99%EC%98%81%EC%83%81%EC%9D%98-%EC%9D%BC%EB%B6%80-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-0557db6c46d9)
 - [`kerry.bisset` / I DECLARE….DEPENDENCIESSSS!!!](https://medium.com/@kerry.bisset/i-declare-dependenciessss-4dea5b396d11)
 - [`@galou.minisini` / Advanced Kotlin Coroutine Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-coroutine-cheat-sheet-for-android-engineer-15e0d180fc1f)
 - [`insert-koin` / Koin Annotations 1.4 — Better Multimodule & KMP](https://blog.insert-koin.io/koin-annotations-1-4-better-multimodule-kmp-c349ff29f839)

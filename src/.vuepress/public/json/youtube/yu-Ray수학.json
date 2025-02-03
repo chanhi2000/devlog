@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Ray수학",
+    "name": "Ray 수학",
+    "profile": "https://yt3.googleusercontent.com/-htnqkt9fb7Q6fW0Yc6Urk6apQN5bCeOrmBDI9KOSnjY2f-UfkP9b4ixe0YQgzqWXrDwmpi0aw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/aG31N3wtAZ7hD-rIPVH5Nvx9U-7gBuzBGrMbrNz4SRiOVr5-l8hSx-2wvCvuUfIsQJqi9y9vmg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DRJ0HRAi-vo", "title": "미래를 알 수 없는 이유" },
+    { "id": "thMo6JhTfMs", "title": "거듭 제곱의 합을 이븐하게 익혀보자" },
+    { "id": "R53DivsmKHE", "title": "하루만 기다리면 연속이 나와요!" },
+    { "id": "sqPLDev8Jpk", "title": "모양 췍~!" }
+  ],
+  "playlists": [
+
+  ]
+}

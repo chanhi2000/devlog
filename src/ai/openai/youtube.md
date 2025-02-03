@@ -197,5 +197,7 @@ head:
 <MyYouTubeItems jsonName="yu-citizendev9c" /><!-- 시민개발자 구씨 -->
 <MyYouTubeItems jsonName="yu-PromptHackerDanny" /><!-- 프롬프트해커 대니 -->
 <MyYouTubeItems jsonName="yu-TheAnubhavShrimal" /><!-- Anubhav Shrimal -->
+<MyYouTubeItems jsonName="yu-baekjjang-ee" /><!-- 디지털백짱이 -->
+<MyYouTubeItems jsonName="yu-DevSense19" /><!-- Dev Sense -->
 
 <TagLinks />

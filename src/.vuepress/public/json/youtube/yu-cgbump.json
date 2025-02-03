@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "cgbump",
+    "name": "CGBUMP",
+    "profile": "https://yt3.googleusercontent.com/nhCWAopvceRMms09tZLbDUd8sTnSjOxIpBvKOTWFviP9nVcLIvTQVEFrgtBwWTwe5TArUkzlrA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/3iL5nnN_HyOUR_jDaGo9z2NyzAUqQwJKnLu3U1v6b9jOD7OXX6y0yIWlE5UO6uHobqeE8QOl4X8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "fNyIXLkXK58", "title": "[This is all you need to know] Ornatrix's simple way to use it" },
+    { "id": "oCrHKsA8WN0", "title": "What you need to do well with Zbrush (1) - Tool" },
+    { "id": "W8LHZjM-psk", "title": "What you need to do well with Zbrush (3) - Process" },
+    { "id": "TvPaYze_S6E", "title": "[ 이것만 알면 시리즈 ] 나야 Rename #3dsmax #3d #modeling" },
+    { "id": "me65ECBLZlY", "title": "- Zbrush Anatomy - Expression of Eyes (Little Differences Gather, Big Differences) #zbrush #anatomy" },
+    { "id": "82N1eJAQgvo", "title": "👩‍🦱 'Ornatrix' Hair Form Mesh Strip #오나트릭스 #ornatrix #3dmodeling #3dcharacter" },
+    { "id": "X2j60hDDbmk", "title": "🍞 3ds max Normal map Re bake (노멀 텍스쳐 리베이크) #3dcharacter  #3dmodeling #3dsmaxmodeling" },
+    { "id": "X7QPa5XBkus", "title": "🖌️ ZBrush VDM Brush Making #ZBrush #Brush #VDM" }
+  ],
+  "playlists": [
+
+  ]
+}

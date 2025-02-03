@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/EwxGNKBuqJietKOnVWbLIyoIcZvXNk06PVJjt_DGCyADbpNUsiUqPv-uYAb7S2NPsvlYkoWJ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "O2mSa5U-XIM", "title": "♣ Google Cloud ♣ 기반 인공지능 개발자 과정 안내 (w/ Seoul Software Academy(SeSAC, 새싹))" },
     { "id": "AIe2CzInGnY", "title": "(w/ KICOX) AVR Study 모임 - 05강 (2021.6)" }, 
     { "id": "C-7CqT-uWJ0", "title": "해커톤전 STM32CubeMX 기술워크숍 (1일/3일)" }, 
     { "id": "px8kbycyKAs", "title": "Spot Micro! w/Jetson nano, w/o ROS 04강 시뮬레이션 소개 및 환경 구성  (Jetson Nano에서는 구동 불가, 데스크탑에서 " }, 

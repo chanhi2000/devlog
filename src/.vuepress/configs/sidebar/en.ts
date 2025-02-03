@@ -1802,6 +1802,7 @@ export const sidebarEn = sidebar({
         '/tool/vscode/README.md',
         '/tool/vscode/plugins.md',
         '/tool/vscode/settings-json.md',
+        '/tool/vscode/keybindings-json.md',
         '/tool/vscode/tips.md',
         '/tool/vscode/snippets.md',
         '/tool/vscode/references.md',

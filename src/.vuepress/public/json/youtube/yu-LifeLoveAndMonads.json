@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/-pyNj2P8GKdWUcfruH227_SCLBqYT2l56xVfKU99oBcS60I6ZtxSZ_fbq1BIGi9XBt8sB2aAfw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CMXwCUbUva8", "title": "This JavaScript Issue Got 3 Developers Puzzled" },
+    { "id": "e9zYFAc8Cs8", "title": "Super Annoying React Anti-Pattern" },
+    { "id": "M5sjoSEd_F0", "title": "Think NoSQL Has No Schema? Think Again!" },
     { "id": "DAjZvWr-Ehg", "title": "Mental Model of React Rendering I Wish I Had Before" },
     { "id": "2FyqUNU5aPU", "title": "How I Ensure My Code Maintainability with ESlint and Prettier" },
     { "id": "7PQ38sHPKqc", "title": "This GIT Command Saved Me Hours Of Work" },

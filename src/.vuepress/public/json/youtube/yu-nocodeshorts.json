@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "nocodeshorts",
+    "name": "NoCode Shorts",
+    "profile": "https://yt3.googleusercontent.com/ri5w6g4_6-zs-Clpq72Uf9w83nAi79pw3zIk7pwQprTzftirm-xBcyRRdN3J0u9HVqHYcFfvjw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mGm2yy_6Ot7JkGZZrIr9UBTT7eA4j64EkqE84z8k0dREK-ke-KCEBrVDGjklXJ2Z01d-E1StK-U=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "RNBgVOLQfHI", "title": "Eurocontrol's No-Code Marvel: Flight Simulators Built in Bubble" },
+    { "id": "tMosluXr_o0", "title": "Revolutionizing Marketing with Bubble: AB Modi's No-Code Success Story" },
+    { "id": "Mffz9Fp9_XE", "title": "Building a Startup Investment Marketplace without code in Bubble" },
+    { "id": "52dyrm0F6-A", "title": "Networking Ninja: The Ultimate tool for Sales Pros built with no-code!" },
+    { "id": "n9zBbnBmOrU", "title": "Build Your SaaS Fast with Bubble: Interview with Kieran Ball" },
+    { "id": "o-zUYygBOVw", "title": "From Figma to Bubble: How This No-Code Tool Transforms UI Design in Seconds!" },
+    { "id": "69_UUUrNmRs", "title": "The Secret Weapon for ConvertKit Users: KitBoard (built with Bubble)" },
+    { "id": "zIBtABo5aM4", "title": "Carbon accounting meets no-code: This Bubble dev pushes the limits! 🍃" },
+    { "id": "gW9MlhC9Bjg", "title": "I Built an AI Podcast Generator with Bubble: Lee Launches Explains" }
+  ],
+  "playlists": [
+
+  ]
+}

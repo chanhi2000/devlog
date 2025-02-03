@@ -41,7 +41,7 @@ head:
 - [`giljae` / Linux Atomic desktops](https://giljae.medium.com/linux-atomic-desktops-ec7aa2756774?source=rss-bb87e9e8047d------2)
 - [`libreoffice-korean-team` / LibreOffice Asia Conference 2024 Taipei 영상 목록 공유](https://medium.com/libreoffice-korean-team/libreoffice-asia-conference-2024-taipei-%EC%98%81%EC%83%81-%EB%AA%A9%EB%A1%9D-%EA%B3%B5%EC%9C%A0-dfbb31804a85)
 - [`libreoffice-korean-team` / 리브레오피스 팟캐스트, 첫번째 에피소드 공개 — 자유 소프트웨어 마케팅](https://medium.com/libreoffice-korean-team/%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-%EA%B3%B5%EA%B0%9C-%EC%9E%90%EC%9C%A0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EB%A7%88%EC%BC%80%ED%8C%85-fd27bde65665)
-- [`libreoffice-korean-team` / LibreOffice Conference 2024 Luxembourg 행사 관련 영상 및 블로그 링크 공유](https://medium.com/libreoffice-korean-team/libreoffice-conference-2024-luxembourg-%ED%96%89%EC%82%AC-%EA%B4%80%EB%A0%A8-%EC%98%81%EC%83%81-%EB%B0%8F-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%81%ED%81%AC-%EA%B3%B5%EC%9C%A0-72e8e06e7c2c)
+- [`libreoffice-korean-team` / LibreOffice Conference 2024 Luxembourg 행사 관련 영상 및 블로그 링크 공유](https://medium.com/libreoffice-korean-team/libreoffice-conference-2024-luxembourg-%ED%96%89%EC%82%AC-%EA%B4%80%EB%A0%A8-%EC%98%81%EC%83%81-%EB%B0%8F-블로그-%EB%A7%81%ED%81%AC-%EA%B3%B5%EC%9C%A0-72e8e06e7c2c)
 <!-- END: medium -->
 
 ---
