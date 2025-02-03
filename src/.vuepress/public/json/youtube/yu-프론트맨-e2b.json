@@ -1,0 +1,50 @@
+{
+  "channel": {
+    "id": "프론트맨-e2b",
+    "name": "프론트맨",
+    "profile": "https://yt3.googleusercontent.com/Cs35OMrfN02L7vAn27mSzhXQEBj2LLQ90Qhvvu_LPbKx2JzJunzvhrnjIrGR0hHR0lzhLPhztA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7y40wXptC-Y", "title": "GPT에게 유튜브 채널 컨설팅을 맡겨 보았다" },
+    { "id": "O63vRoWR1LU", "title": "실제 개발 회사에서는 브랜치를 어떻게 운영할까?" },
+    { "id": "nEWJ_7nwRjo", "title": "회사 업무는 다소 이기적으로 해야합니다" },
+    { "id": "yRve2DWN7Xg", "title": "2024년, 세계에서 가장 사랑받은 CSS 속성" },
+    { "id": "fAmmAUBr790", "title": "React 개발 속도를 극적으로 높여줄 확장 프로그램" },
+    { "id": "MkeO5oUtSPA", "title": "package-lock 파일 왜 필요한 건지 알고 있어?" },
+    { "id": "TrzHc8HitLU", "title": "네이버 흑역사 시절" },
+    { "id": "BQykNALA2WA", "title": "웹 개발자 면접 단골 질문 1 | CORS와 Preflight의 개념" },
+    { "id": "1c7bES09UMk", "title": "주니어 개발자님들, 이직할 때 후회하기 싫으면 새겨들으셈" },
+    { "id": "DjpG-uz-gMc", "title": "자네들은 클로저를 너무 어렵게 생각하고 있어" },
+    { "id": "pYHgo5mEcYE", "title": "프론트엔드 면접 단골 질문 2 | DOM의 개념" },
+    { "id": "NZAZc9HhaWY", "title": "아직 이렇게 생각하는 개발자라면 봐주세요" },
+    { "id": "KlpPYjCo0Do", "title": "자바스크립트 모듈 로드 문법은 왜 두개로 나눠졌는가" },
+    { "id": "OWaHfpHxgb8", "title": "이 사이트 하나면 웬만한 CSS 애니메이션은 날먹이 가능합니다" },
+    { "id": "cDu9A5dl1J8", "title": "프론트엔드 면접 단골 질문 3 | Promise와 async-await의 개념" },
+    { "id": "4pA4L10oqFo", "title": "프론트엔드 면접 단골 질문 4 | key에 배열 index를 사용하면 안되는 이유" },
+    { "id": "rZrbQv1bMaI", "title": "프론트엔드 면접 단골 질문 5 | 비동기 함수와 Callback 함수, 그리고 Event Loop에 대해 설명하시오" },
+    { "id": "HgEZ07U_OSc", "title": "프론트엔드 면접 단골 질문 6 | Reflow와 Repaint에 대해 설명하시오" },
+    { "id": "tjJd-R1wZh4", "title": "대기업에서도 사용하는 VSCode 확장 프로그램 Best 5" },
+    { "id": "V4j-207Umco", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 0. 강의 소개" },
+    { "id": "RpYnLPkxkMY", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 1. Webpack, Babel 없이 React 앱 개발하기" },
+    { "id": "Gs_MLR6a6e8", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 2. Babel 적용하여 JSX 문법 사용하기" },
+    { "id": "b_BLykZJx_g", "title": "자바스크립트 문제 | console.log의 출력값을 맞히시오" },
+    { "id": "8_jPuDF5fpk", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 3. build process에 babel 적용하기" },
+    { "id": "XWqs1mMPJ30", "title": "프론트엔드 면접 단골 질문 7 | Virtual DOM에 대해 설명하시오" },
+    { "id": "SmNmvYSGKhk", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 4. webpack 적용하기" },
+    { "id": "a0hv5-gaiZU", "title": "쓰레기같은 확장 프로그램" },
+    { "id": "pRfdaPkp4Dk", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 5. 플러그인 적용하기" },
+    { "id": "EgwTYieah5A", "title": "노션 글꼴 바꿔주는 확장 프로그램" },
+    { "id": "9I1dzg20r1g", "title": "프론트엔드 개발자 면접 단골 질문 8 | 자바스크립트 호이스팅" },
+    { "id": "eDcaBeaOrqI", "title": "프론트엔드 개발자 면접 단골 질문 9 | 화살표 함수와 function 키워드의 차이점" },
+    { "id": "GO2KvOjMjZY", "title": "프론트엔드 개발자 면접 단골 질문 10 | 렉시컬 스코프" },
+    { "id": "R23JmhbPnVo", "title": "프론트엔드 개발자 면접 단골 질문 11 | 브라우저 렌더링 과정" },
+    { "id": "ch_tccq_728", "title": "네카라쿠배 기본 역량 | CRA없이 react 앱 구성하기 | 6. 개발 서버 적용하기" },
+    { "id": "m0GBbnfwNOc", "title": "CSS로 5분 만에 만들 수 있는 Ripple 애니메이션" },
+    { "id": "oq0Ru0Ng43w", "title": "CSS로 5분 만에 만들 수 있는 네온 사인 효과" },
+    { "id": "pJe9O8GHHjI", "title": "웹 이미지 용량을 30% 넘게 줄일 수 있는 법" }
+  ],
+  "playlists": [
+
+  ]
+}

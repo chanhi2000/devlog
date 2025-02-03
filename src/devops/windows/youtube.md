@@ -27,6 +27,14 @@ tag:
   - "@BrettInTech"
   - "@techyescity"
   - "@TechLabsOfficial"
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -81,5 +89,6 @@ tag:
 <MyYouTubeItems jsonName="yu-WindowsCentral" /><!-- Windows Central -->
 <MyYouTubeItems jsonName="yu-BytesNBits" /><!-- Bytes N Bits -->
 <MyYouTubeItems jsonName="yu-channelId" /><!-- TechHeart -->
+<MyYouTubeItems jsonName="yu-AlabaMustapha" /><!-- Alaba Mustapha -->
 
 <TagLinks />

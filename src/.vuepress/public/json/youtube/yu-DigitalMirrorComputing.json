@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/nhunyLP7bZrpbt0f4o8aUupEzMpiJ8u2ab0xoMvcn84KRDfCgXQvH8Ezrk2iUfr48zK321ieTQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "kqZNFD0JNBc", "title": "Let's install Proxmox 8.3 in 2025: From Scratch. Spelled out." },
+    { "id": "zB2Mp5cBhAw", "title": "FULL TrueNAS Scale 24 Setup on the LincStation with an All-SSD Configuration (Snapshots & Jellyfin)" },
+    { "id": "GRfubKMzW-o", "title": "5Gb USB-C Ethernet for $19! A Hit or a MASSIVE FAIL?" },
+    { "id": "boJRnsRoqNs", "title": "Budget 10Gb Network UNDER $12 | Peer-to-Peer Tutorial with 2 x Intel X540-T2" },
+    { "id": "ilp3ZHTKPNg", "title": "Building the Simplest AI Neural Network From Scratch with just Math and Python - Origins of AI Ep.1" },
     { "id": "ehiT05lWzxU", "title": "Your New HOMEPAGE Dashboard on a Raspberry Pi 5! Full Setup for Homepage + Docker + Portainer" },
     { "id": "5JoVeYcxgpU", "title": "How I made a Team of AI agents manage my YouTube Channel and do all my work (CrewAI)" },
     { "id": "jK_PZqeQ7BE", "title": "Run Any Hugging Face Model with Ollama in Just Minutes!" },

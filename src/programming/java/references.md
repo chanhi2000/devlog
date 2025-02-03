@@ -388,7 +388,8 @@ tag:
 
 ### Brunch
 
-- [[탄생 비화] JVM 밑바닥까지 파헤치기](https://brunch.co.kr/@wegra/36)
+- [`@wegra` / [탄생 비화] JVM 밑바닥까지 파헤치기](https://brunch.co.kr/@wegra/36)
+- [`@2Kn8` / 코루틴 공유 자원 관리](https://brunch.co.kr/@@2Kn8/227)
 
 <!-- END: brunch.co.kr java -->
 

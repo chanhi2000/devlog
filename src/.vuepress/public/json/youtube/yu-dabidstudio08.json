@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "dabidstudio08",
+    "name": "Dabidstudio",
+    "profile": "https://yt3.googleusercontent.com/rOvje6gp98k7evErhHi2aAfE025QnkspmMqdzFUSUfA3UDed5Sec8GEpRJRY-EuajFHOxIKQjg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "8M0sd9rjkMg", "title": "코딩 몰라도 AI로 MBTI 앱 만들기" },
+    { "id": "ADuMzRBCTdc", "title": "챗 GPT 잘쓰는 원칙과 팁 4가지" },
+    { "id": "x5t8WoQhoE8", "title": "챗GPT와 파이썬으로 워드 보고서 자동화하기" },
+    { "id": "nQTglVqUhAU", "title": "영상 하나로 끝내는 파이썬 스트림릿 Streamlit" },
+    { "id": "YzIGaGfARpI", "title": "파이썬으로 청약 FAQ 챗봇 만들기" },
+    { "id": "e-BiOvlOwKs", "title": "How to Build Python Programs 10x Faster with AI" },
+    { "id": "Osu2M7QmgCQ", "title": "파이썬 가상환경 사용하기 (venv)" },
+    { "id": "m8tIOcMcwno", "title": "랭체인 이해하기" },
+    { "id": "l-QICKWAG30", "title": "Ollama로 PDF 번역 웹서비스 만들기" },
+    { "id": "3GjefcLOwjw", "title": "Chat GPT와 구글시트로 요즘뜨는 영상리스트 자동으로 메일받기" },
+    { "id": "W-OYh5Lsi6Y", "title": "파이썬으로 PDF 텍스트 원하는대로 뽑아내기" },
+    { "id": "Cq8jVZORHZI", "title": "파이썬 설치 가이드 (2024년 기준, 맥북 및 윈도우)" },
+    { "id": "B2wnO3qKDgI", "title": "파이썬 개발 필수도구 VS Code 사용법" },
+    { "id": "CPJimUgdMkk", "title": "파이썬으로 AI 음성 만들기" },
+    { "id": "FG3KF3-_bwE", "title": "파이썬으로 AI목소리 녹취록 만들기" },
+    { "id": "_AISLxqprS4", "title": "코딩은 파이썬으로 배워야 할 이유" },
+    { "id": "2zXAgIpzr7s", "title": "파이썬 Stream 활용하기" },
+    { "id": "pQSrwCwIQU8", "title": "GPTs와 구글시트로 만드는 유튜브 분석 AI 비서 : 채널분석, 내용 요약, 댓글분석, 요즘뜨는 영상까지 한 번에" }
+  ],
+  "playlists": [
+
+  ]
+}

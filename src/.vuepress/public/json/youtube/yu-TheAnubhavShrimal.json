@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "TheAnubhavShrimal",
+    "name": "Anubhav Shrimal",
+    "profile": "https://yt3.googleusercontent.com/qYB5jwYFLKMinVYVhP6SejdflPX-SqSMiEp8f7-p7gP8wA7pTDLYziL7G_zxJ4Kh6S8WF7A8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ofj19fvplcErr-JmuITgfK8beVXyXNIMjSro-auU4-3BcICmZ_sNqycbdSWi6oGDsdT0bqOEFWE=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SsnVjsyxSqw", "title": "AI Agents Just Got a MASSIVE Upgrade: MARCO Explained by NotebookLM" },
+    { "id": "TYU1zfxqs1c", "title": "OpenAI O1 Explained: The AI That Thinks Before It Speaks" },
+    { "id": "iD60Al4V3IU", "title": "LlamaFS - The Ultimate AI File Organizer You've Been Waiting For" },
+    { "id": "nDla7jJBh80", "title": "Meet Moshi: The Free GPT-4o Alternative Shaking Up AI Voice Tech" },
+    { "id": "quPbRK71LRg", "title": "Nvidia's Game-Changer: Inside the 340B Parameter Nemotron-4" },
+    { "id": "sK9tLib-LvI", "title": "How Claude Artifacts Work? What It Can Do For You!" },
+    { "id": "wECu_G0VZ-M", "title": "[AI News] A Massive Week For AI Advancement!" },
+    { "id": "PYEIyEt3ovU", "title": "Anthropic’s Claude System Prompt REVEALED: Key Learnings for Developers!" },
+    { "id": "VovQgOELc_4", "title": "This Tool Creates PERFECT AI Prompts Every Time!" },
+    { "id": "aWRQ24S7X2s", "title": "How Prompt Caching is Changing the AI Game FOREVER – Explained How It Works!!" }
+  ],
+  "playlists": [
+
+  ]
+}

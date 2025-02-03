@@ -3721,5 +3721,12 @@
     "topics": ["infrastructure", "statuspage", "uptime-monitor", "uptime", "infrastructure-monitoring", "server-monitoring", "help-wanted", "mui", "incident", "uptimerobot", "server-monitor", "good-first-issue", "uptime-checker", "good-first-project", "uptime-monitoring", "good-first-contribution", "mui-material", "uptime-status", "server-monitoring-tools"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/793866369/d0a1ab96-c391-42a8-ae35-3fa3943ee8ba"
+  }, {
+    "repo": "pinojs/pino",
+    "desc": "🌲 super fast, all natural json logger. Contribute to pinojs/pino development by creating an account on GitHub.",
+    "officialSite": "http://getpino.io",
+    "topics": ["nodejs", "fast", "json", "logger", "pino"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0b9000c7b1e4106fb3b461ef80836f85c3b6e1cdaa84ed8dfb35164e2281409c/pinojs/pino"
   }
 ]

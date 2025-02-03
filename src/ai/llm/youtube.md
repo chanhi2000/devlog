@@ -78,5 +78,6 @@ head:
 <MyYouTubeItems jsonName="yu-rainbowbrain_youtube" /><!-- 레인보우브레인 -->
 <MyYouTubeItems jsonName="yu-tech42_media" /><!-- 테크42 -->
 <MyYouTubeItems jsonName="yu-aiadjunct" /><!-- AI 겸임교수 이종범 -->
+<MyYouTubeItems jsonName="yu-arp_ai" /><!-- Jay Alammar -->
 
 <TagLinks/>

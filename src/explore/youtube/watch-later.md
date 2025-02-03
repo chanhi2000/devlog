@@ -71,6 +71,7 @@ tags:
 <MyYouTubeItems jsonName="yu-googyosoo" /><!-- 구교수 TV -->
 <MyYouTubeItems jsonName="yu-thefrankring" /><!-- Frank Ring -->
 <MyYouTubeItems jsonName="yu-sunprobricks" /><!-- SunPro Bricks -->
+<MyYouTubeItems jsonName="yu-googlekorea" /><!-- Google Korea -->
 
 <TagLinks />
 

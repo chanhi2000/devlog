@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "theemptypark",
+    "name": "the empty park",
+    "profile": "https://yt3.googleusercontent.com/WlgicPt7lTx_Efpod0mszH1mDtZBWQVekkPLnapss56cXAb8t5CAwTNt0WkiaGl-fnvvxEPLPD8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "7gOEpC5Dq1o", "title": "STUDY WITH ME | 상대성이론 공부 1시간" },
+    { "id": "sVq2crKazJI", "title": "테일러 급수 유도 | ASMR" },
+    { "id": "4F85CDyqfCU", "title": "상대론적 상대속도공식 유도 | ASMR" },
+    { "id": "cunBLkqBlCM", "title": "로렌츠 변환 유도 | ASMR" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -11,6 +11,14 @@ tag:
   - bat 
   - pwsh
   - regedit
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > Tips
+    - property: og:description
+      content: Tips
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

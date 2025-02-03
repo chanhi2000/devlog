@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "synthesia-io",
+    "name": "Synthesia",
+    "profile": "https://yt3.googleusercontent.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BWmhNCygN6k3FBMPp-OFTeJrc6c6oME6irIMVAOP1_WQZkVxH0DsKiDqZftY2nxKV26OfgEp=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LoOj2lazyrs", "title": "Create Engaging Videos from PDFs in 5 minutes with AI" },
+    { "id": "ZoYKhW_g4iM", "title": "Make Avatars Talk with Lip Sync AI (very easy)" },
+    { "id": "UaSwl-wmpnA", "title": "We've Raised $180 Million in Series D Funding 💸" },
+    { "id": "cr_ozDuBGP4", "title": "How to Create AI Avatar Videos (that actually look good)" },
+    { "id": "REyO87-VF88", "title": "What's Happening In Instructional Designer (and AI) in 2024?" },
+    { "id": "ImNRl2FESZU", "title": "Ep. 27 - Where is the actual value for AI in L&D? – Lavinia Mehedintu" },
+    { "id": "yAHXTKKoVzE", "title": "Top Training Expert Reveals Future of Video in 2025" },
+    { "id": "w3EJDMpkX7Q", "title": "Ep. 26 - How to Design Impactful AI Solutions for L&D" },
+    { "id": "FhM2s4jfHgI", "title": "Create Pro-Level AI Screen Recordings in Minutes!" },
+    { "id": "heOXzlM7FgU", "title": "9 New Things: Avatars Chat + Screen Recording" },
+    { "id": "PwBF54wp2B4", "title": "How Spirit Cut Employee Support Queries by 70% ✈️" },
+    { "id": "fbJ8-QvcB28", "title": "How This Company MASSIVELY Scaled Video Engagement" },
+    { "id": "UYvQ1Dj20rU", "title": "☝️ Ummm, Actually... AI Video is Really Easy!" },
+    { "id": "Mdr86miQEoI", "title": "AI Boom in the UK? It's Gonna Happen!" },
+    { "id": "rC_9JELdoQo", "title": "Create an AI Video in 4 Minutes with Synthesia ⚡️" },
+    { "id": "X1FihptYBBA", "title": "Synthesia: The Future of AI Video at Work (CNBC)" },
+    { "id": "Ut2tWTq_HYA", "title": "1 Video with Multiple AI Avatars | Tips and Tricks" },
+    { "id": "nvTTqze_2B8", "title": "Next Generation Personal AI Avatars are LIVE" },
+    { "id": "jdA8-OaaPio", "title": "Personal AI Avatars Launch Event | Synthesia" },
+    { "id": "bakqYycVHHs", "title": "How to Make the Best Personal AI Avatar" },
+    { "id": "oKdR0dtrQy4", "title": "10x Your AI Videos with Ambient Sound" }
+  ],
+  "playlists": [
+
+  ]
+}

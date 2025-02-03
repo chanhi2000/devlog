@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "design-engineer",
+    "name": "Design Engineer",
+    "profile": "https://yt3.googleusercontent.com/v0tyVKT8AKr-V5ufeVNNwHUZ_ZUiOVP9NrnLNj5FdaENqJoHCcd_S-cVLkQCFJ6jUmbbhzSx7Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iCDWAi9ihumcMy0fCKgdV-bWhD-LSz8exKWN00audB07TtMcQHQARGz_gK4rBY8dH29zZfXOiQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KF_cvJWuIFA", "title": "ComfyUI 이렇게 시작하세요" },
+    { "id": "gxdRQLQdTZU", "title": "ComfyUI 로 컨셉 잡고 선글라스 광고" },
+    { "id": "gxdRQLQdTZU", "title": "ComfyUI 로 컨셉 잡고 선글라스 광고" },
+    { "id": "73e9V3VZ_xk", "title": "맥에서 OBS 녹화 끊길때.." },
+    { "id": "d8aVTjndsYk", "title": "프레이머에 채널톡 다는법 (무료플랜도 가능)" },
+    { "id": "qYofi4Z_btU", "title": "RunPod 으로 Flux 신이 되기" },
+    { "id": "o9-ClEBQCJI", "title": "[무료 Live] 👩🏻 내 AI 모델 얼굴만들기" },
+    { "id": "wdvM3urQzRA", "title": "ComfyUI 이제 원클릭으로 설치가능 (ComfyUI Desktop)" },
+    { "id": "qj2xwIxQ3eA", "title": "초보를 위한 AI 프롬프트 5가지 방법" },
+    { "id": "r8HT4Lk8ktc", "title": "더이상 비싼 GPU 사지 마세요 (feat. RunPod)" },
+    { "id": "1Rwhgy-r9c4", "title": "프레이머 랜딩 만들기 Live" },
+    { "id": "TU2GM-U-Iw0", "title": "AI 로 진짜 옷을 입혀주는 앱 등장.." },
+    { "id": "kl9NxOifHN8", "title": "피그마 vs 프레이머" },
+    { "id": "6fvIPODrihc", "title": "AI 에게 컴퓨터를 뺏겨 버렸습니다" },
+    { "id": "NlkiZXryh_c", "title": "Flux LoRA 탐험하기" },
+    { "id": "fxQm0S_Hg0s", "title": "진짜 제품으로 AI 패션 광고 사진 만들기 (DoubleTake 앱 리뷰)" },
+    { "id": "g4ZD0IJ1n9U", "title": "AI 로 팔리는 제품 사진 만들기 (실제 제품 Flux 학습)" },
+    { "id": "qnQItPmcoPU", "title": "Can you build a website without code with Figma?" },
+    { "id": "swUgPWORQQw", "title": "SD3, 미드저니를 뛰어넘는 모델 Flux 공개 (+ ComfyUI 사용법)" },
+    { "id": "GujSYSrZ2zE", "title": "AI 로 화장품 광고 만드는 법 (ComfyUI Workflow 무료제공)" },
+    { "id": "xZCH_VEFTEI", "title": "AI 로 화장품 광고 만들기 (풀영상 오늘 중에 업로드 됩니다) #comfyui #stablediffusion" },
+    { "id": "4EfvI5Sg3wY", "title": "명품... AI로 쇼핑 하고 왔습니다 (CatVTON 리뷰)" },
+    { "id": "upBRxAOsouA", "title": "전격 비교 Imagen3 vs 미드저니 vs Flux" },
+    { "id": "b_t18DBiJ04", "title": "Flux LoRA 직접 학습시켜 봤더니.." },
+    { "id": "ru8IpLK9NyY", "title": "Cursor AI로 코딩하기 (코딩 몰라도 됨..)" },
+    { "id": "Mq3O63wp-eQ", "title": "무료 미드저니 직접 만들어 보았습니다 (Flux 사용)" }
+  ],
+  "playlists": [
+
+  ]
+}

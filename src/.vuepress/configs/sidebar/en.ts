@@ -903,6 +903,24 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'Matplotlib',
+      collapsible: true,
+      icon: 'iconfont icon-matplotlib',
+      children: [
+        '/programming/py-matplotlib/README.md',
+        '/programming/py-matplotlib/references.md',
+        '/programming/py-matplotlib/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-matplotlib/articles/README.md',
+            asb.freecodecamp("py-matplotlib"),
+          ]
+        },
+      ]
+    }, {
       text: 'Pandas',
       collapsible: true,
       icon: 'iconfont icon-pandas',
@@ -2365,6 +2383,7 @@ export const sidebarEn = sidebar({
         '/devops/windows/ie.md',
         '/devops/windows/tips.md',
         '/devops/windows/wsl.md',
+        '/devops/windows/sandbox.md',
         '/devops/windows/youtube.md',
         {
           text: 'Article(s)',

@@ -31,7 +31,7 @@ head:
 <MyYouTubeItems jsonName="yu-WesRoth" /><!-- Wes Roth -->
 <MyYouTubeItems jsonName="yu-SkillLeapAI" /><!-- Skill Leap AI -->
 <MyYouTubeItems jsonName="yu-TheEasyoung" /><!-- Minsuk Heo 허민석 -->
-<MyYouTubeItems jsonName="yu-potato_ai" /><!-- 감자나라ai -->
+<MyYouTubeItems jsonName="yu-감자나라ai" /><!-- 감자나라ai -->
 <MyYouTubeItems jsonName="yu-AIJasonZ" /><!-- AI Jason -->
 <MyYouTubeItems jsonName="yu-TheMorpheusTutorials" /><!-- The Morpheus Tutorials -->
 <MyYouTubeItems jsonName="yu-elder_plinius" /><!-- Pliny the Prompter -->

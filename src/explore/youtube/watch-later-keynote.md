@@ -112,5 +112,6 @@ tag:
 <MyYouTubeItems jsonName="yu-sktechsummit" /><!-- SK TECH SUMMIT -->
 <MyYouTubeItems jsonName="yu-Gdconf" /><!-- GDC -->
 <MyYouTubeItems jsonName="yu-ElixirAustralia" /><!-- Elixir Australia -->
+<MyYouTubeItems jsonName="yu-openuk_uk" /><!-- OpenUK -->
 
 <TagLinks />

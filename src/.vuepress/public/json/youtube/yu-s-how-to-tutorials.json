@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "s-how-to-tutorials",
+    "name": "SWeb Tech",
+    "profile": "https://yt3.googleusercontent.com/J5WzalWHKEU10ewPta_w1ln5rVOcZ8wImGc6bpDtxTzoeuiU_e5dppGzg-R64sgoiqbvU454=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9ar0j-lOing", "title": "6 Repos To Master Nextjs ⭐ | Best NextJS Project Ideas" },
+    { "id": "I2b9dR5B1tc", "title": "5 Killer Websites for Coders 💎" },
+    { "id": "UrZb8hhBdX4", "title": "Is DevOps Dying? The Truth Revealed!" }
+  ],
+  "playlists": [
+
+  ]
+}

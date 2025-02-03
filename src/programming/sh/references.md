@@ -375,6 +375,7 @@ tag:
 - [`rev` 명령어](https://johngrib.github.io/wiki/cmd/rev/)
 - [`awk`](https://johngrib.github.io/wiki/language/awk/)
 - [Bash 구문 확장](https://johngrib.github.io/wiki/cmd/bash/expansion/)
+- [ripgrep, rg](https://johngrib.github.io/wiki/cmd/rg/)
 
 <!-- END: johngrib.github.io -->
 

@@ -43,6 +43,9 @@ head:
 - [`newstars` / newstars.cloud](https://newstars.tistory.com/m/)
   - [\[MAC\] Claude APP 만들어서 사용하는 방법](https://newstars.tistory.com/m/593)
   <!-- END: newstars -->
+- [`webnautes` / 멈춤보단 천천히라도](https://webnautes.tistory.com/m/)
+  - [Claude를 사용한 프로그래밍 후기](https://webnautes.tistory.com/m/2423)
+  <!-- END: webnautes -->
 <!-- END: tistory.com -->
 
 ---

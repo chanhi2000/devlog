@@ -180,6 +180,7 @@ export const navbarEn = navbar([
         children: [
           '/programming/py/README.md',
           '/programming/py-numpy/README.md',
+          '/programming/py-matplotlib/README.md',
           '/programming/py-pandas/README.md',
           '/programming/py-torch/README.md',
           '/programming/py-tensorflow/README.md',

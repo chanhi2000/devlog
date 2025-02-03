@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "AlabaMustapha",
+    "name": "Alaba Mustapha",
+    "profile": "https://yt3.googleusercontent.com/fKiYGGX6XYhQPEWxFNhhO9meZuYeAeAOmXEnagqXUPLVZrBXexFHoto7fT53p2OoNkslW9Sc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/7154_9TGysY06q6WvobLTqA6A6N76AmyueHD_xPuAJFam7TbSasmIoLvCRdmKBlwYls5j06V=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pQlmuRrEmpI", "title": "AI Dispatch Operator" },
+    { "id": "cQwJxFGeb_E", "title": "Twilio Challenge: AI Dispatch Operator" },
+    { "id": "3lBSqiUHOlg", "title": "Automate WordPress Posting with Zapier | Step-by-Step Workflow" },
+    { "id": "pqL24EHPwqw", "title": "45-Minute Guide to Basic Data Engineering with Docker, PostgreSQL, and Python" },
+    { "id": "QSWi4jm79Ew", "title": "Set up Laravel on Windows Server 2012, IIS" }
+  ],
+  "playlists": [
+
+  ]
+}

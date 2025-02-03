@@ -108,5 +108,7 @@ head:
 <MyYouTubeItems jsonName="yu-BranchEducation" /><!-- Branch Education -->
 <MyYouTubeItems jsonName="yu-comoconfigurar" /><!-- comoconfigurar -->
 <MyYouTubeItems jsonName="yu-gonago" /><!-- 고나고 -->
+<MyYouTubeItems jsonName="yu-GROUND_EMBEDDED" /><!-- 그라운드 GROUND -->
+<MyYouTubeItems jsonName="yu-bodnara2009" /><!-- 보드나라 -->
 
 <TagLinks />

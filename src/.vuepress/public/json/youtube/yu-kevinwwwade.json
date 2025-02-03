@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/hfylw3tAcPX9ISvKp1cf32Cwn4HRTGUsL0OoGFN0Thd3ad0qv3EkMcXVD7pudDtcXmkwocjJ2r4=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "4vvHZMObRJQ", "title": "Live: Use AI to build an AI that learns tag" },
+    { "id": "Qa29-h1xLeg", "title": "How I use database seed scripts for local development" },
+    { "id": "egv4ABnmKwc", "title": "Telling Claude 3.5 to write \"all the code\"" },
+    { "id": "QtXXHxE2aek", "title": "Simple, robust monorepo stack in one command - Next.js, Node.js, Docker" },
     { "id": "evA-2q6oEIo", "title": "Biome, an ESLint/Prettier replacement?" },
     { "id": "I-htDVxmFGM", "title": "Auto Restart/Rebuild with Docker Compose Watch" },
     { "id": "fWX8d1vVSPI", "title": "Repo Dive: Maybe Personal Finance App" },

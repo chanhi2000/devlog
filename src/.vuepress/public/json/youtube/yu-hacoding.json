@@ -6,7 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/zUVi8thkoeacZHCMjX1lWU49wWttki8WY2KoSeiqEZb2A_opVy15Jiiw_k8EgVgF9e_BvGIR=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "5tdUIkLB51s", "title": "1인 개발자를 위한 필수 API" },
+    { "id": "Buu-yCONyP0", "title": "1인 어플 현실적인 수익" },
+    { "id": "36i6GPUvlr4", "title": "나만의 계산기 앱 만들어보기 #1(Kotlin) / 처음만나는 안드로이드" },
+    { "id": "HnK5zfn10KA", "title": "2년차 앱 개발자 외주 개발 현실수익" }
   ],
   "playlists": [
     {

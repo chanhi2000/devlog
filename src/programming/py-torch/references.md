@@ -138,6 +138,8 @@ head:
   - [파이토치 튜토리얼 번역(quickstart)](https://webnautes.tistory.com/m/2402)
   - [괜찮은 파이토치 강좌 - 01. 파이토치 기초](https://webnautes.tistory.com/m/2409)
   - [괜찮은 파이토치 강좌 - 02. 파이토치 워크플로 살펴보기](https://webnautes.tistory.com/m/2410)
+  - [괜찮은 파이토치 강좌 - 03. 신경망 분류(Neural Network Classification)](https://webnautes.tistory.com/m/2412)
+  - [Windows에 CUDA 사용할 수 있도록 PyTorch 설치하는 방법](https://webnautes.tistory.com/m/1850)
   <!-- END: webnautes -->
 - [`jeongchul` / Jeongchul Kim](https://jeongchul.tistory.com/m/)
   - [NVIDIA Triton Inference Server with MLflow](https://jeongchul.tistory.com/m/824)

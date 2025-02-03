@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "borismeinardus",
+    "name": "Boris Meinardus",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mJP5gPRQporlNIUGXbqYWy3AClTTSO1hAkqyh8XFWHm6s=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rvfyOMJGBGBVj21K0lWMc0woh716xJNl5Cum4X9YvoEOu6jU7RPnBYz6_Zli_o-A-X5ahRhO=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Sy0Mx4u-RHc", "title": "My 6 Secret Tips for Getting an ML Job in 2025" },
+    { "id": "_xIwjmCH6D4", "title": "How I'd learn ML in 2025 (if I could start over)" },
+    { "id": "8N7onbF-QUI", "title": "My Honest Advice to Beginner ML Students for 2025" },
+    { "id": "wR2WIRv2zZk", "title": "The 7 Most Important Skill Sets For ML Engineers" },
+    { "id": "Kl09iSWvEBk", "title": "6 Years of Studying Machine Learning in 26 Minutes" },
+    { "id": "b7fe72GuFZk", "title": "How To Become an ML Engineer in 2024 - Max Buckley" }
+  ],
+  "playlists": [
+
+  ]
+}

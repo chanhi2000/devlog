@@ -59,6 +59,7 @@ head:
   - [Raspberry Pi 5에 OpenCV 설치하는 방법](https://webnautes.tistory.com/m/1885)
   - [Windows에 Raspberry Pi Pico C 개발 환경 만들기](https://webnautes.tistory.com/m/2092)
   - [Raspberry Pi Pico C 프로그래밍 - 온보드 온도 센서](https://webnautes.tistory.com/m/2363)
+  - [라즈베리파이 5 GPIO LED 제어를 위한 리눅스 디바이스 드라이버 만들어보기](https://webnautes.tistory.com/m/2419)
   <!-- END: webnautes -->
 - [`remnant24c` / 행복한 하루](https://remnant24c.tistory.com/m/)
   - [Raspberry Pi – Linux Device Driver 만들어 보기-1 (module 형태 만들기)](https://remnant24c.tistory.com/m/395)

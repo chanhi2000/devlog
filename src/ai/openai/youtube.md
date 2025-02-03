@@ -91,7 +91,7 @@ head:
 <MyYouTubeItems jsonName="yu-bbanghyong" /><!-- 빵형의 개발도상국 -->
 <MyYouTubeItems jsonName="yu-abantu_AI" /><!-- 아반투 (인공지능 및 안드로이드 강의) -->-
 <MyYouTubeItems jsonName="yu-leftykhim" /><!-- 김왼손의 왼손코딩 -->
-<MyYouTubeItems jsonName="yu-potato_ai" /><!-- 감자나라ai -->
+<MyYouTubeItems jsonName="yu-감자나라ai" /><!-- 감자나라ai -->
 <MyYouTubeItems jsonName="yu-iSocialYou" /><!-- i Social You -->
 <MyYouTubeItems jsonName="yu-AndrejKarpathy" /><!-- Andrej Karpathy -->
 <MyYouTubeItems jsonName="yu-TheBrettWay" /><!-- Brett Malinowski -->
@@ -195,5 +195,7 @@ head:
 <MyYouTubeItems jsonName="yu-cmdspace" /><!-- CMDSPACE -->
 <MyYouTubeItems jsonName="yu-learn_ai" /><!-- GPT코더 -->
 <MyYouTubeItems jsonName="yu-citizendev9c" /><!-- 시민개발자 구씨 -->
+<MyYouTubeItems jsonName="yu-PromptHackerDanny" /><!-- 프롬프트해커 대니 -->
+<MyYouTubeItems jsonName="yu-TheAnubhavShrimal" /><!-- Anubhav Shrimal -->
 
 <TagLinks />

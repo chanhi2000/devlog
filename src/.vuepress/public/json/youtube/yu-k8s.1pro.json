@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/1_EmJV2-mGM1OApZaWF_iGRQF_x7drzwrVpFun0YlHP3QwlvxwWXCWrUZwLhF6ymX4XSGBt3Goc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "VwjN1wCuXEE", "title": "[쿠버네티스 어나더 클래스] 가상화 한방정리 Intro" },
+    { "id": "EMQjBoG_Usg", "title": "[쿠버네티스 어나더 클래스] Sprint3 강의 소개 (난이도 중급 이상)" },
     { "id": "cEehCAZcZmU", "title": "[인트로영상] ArgoCD는 언제 써야 되는지? 어떤 기능들이 있는지?" },
     { "id": "Z-MKSvrvW3c", "title": "쿠버네티스 쉽고 빠르게 설치하는 방법" },
     { "id": "ZcHcLr7eS5Y", "title": "[Intro모음#2] 쿠버네티스 어나더 클래스 #쿠버네티스 무겁게 설치하기#" },

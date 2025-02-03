@@ -129,6 +129,8 @@ head:
 - [`@ZVA` / 생성AI와 읽기의 종말 시대, 가르친다는 것에 대하여](https://brunch.co.kr/@@ZVA/737)
 - [`@5jl5` / RAG기반 LLM서비스 전망](https://brunch.co.kr/@@5jl5/132)
 - [`@5jl5` / \[책소개\] Transformers & LLMs 그림책 - Super Study Guide: Transformers & LLMs](https://brunch.co.kr/@@5jl5/133)
+- [`@ZVA` / 벡터 임베딩 기반 RAG는 왜 실패하는가](https://brunch.co.kr/@@ZVA/752)
+- [`@2rV` / 누구나 참여할 수 있는 프로토타이핑 - AI 코드 제너레이터와 함께하는 새로운 개발 문화](https://brunch.co.kr/@@2rV/198)
 
 <!-- END: brunch.co.kr -->
 

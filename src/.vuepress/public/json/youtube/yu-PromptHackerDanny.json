@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "PromptHackerDanny",
+    "name": "프롬프트해커 대니",
+    "profile": "https://yt3.googleusercontent.com/wglsz0ZEeRcxHchGTbgl0tqAKpc32J7wcvYrSYJQPto2qaEkJIaUDnI4kq2ff6TKfc8t_36i=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0-tiUfflY9g", "title": "챗GPT 사용법 | 상위 1% 전문가의 3단계 업그레이드 활용법  | 큐리어스 어울림 강의" },
+    { "id": "W9vR4gYk36k", "title": "클로드 3.5 소넷 압도적인 코딩 능력 - 3분만에 웹 사이트 만들기" },
+    { "id": "G-0q_JwrD_U", "title": "클로드 3.5 소넷 챗봇 만들기 - 클로드 프로젝트로 3분 만에 맞춤형 블로그 글쓰기 챗봇 만들기" },
+    { "id": "PU5P8PaeiYM", "title": "클로드 3.5 소넷 (Claude 3.5 Sonnet) 과 아티펙트 (Artifects) 사용법 | 3분만에 AI 웹서비스 만들기 | 영어 이야기 생성기" },
+    { "id": "JqEf2YEvYv8", "title": "GPT Actions 과 검색 API 연결하기 | SerpAPI로 구글, 네이버, 유튜브 검색 결과 활용하기" },
+    { "id": "G4KQtfndBFE", "title": "GPT 작업 (Actions) 입문편 - 웹 문서 연결 하기 | 웹 파일럿 (WebPilot) Action 연결 하기" },
+    { "id": "rtC5MG814x4", "title": "맞춤형 GPT 챗봇 (GPTs) 사용법 - 나만의 챗GPT 만들기 | GPT 토크 | 책 출간 기념 웨비나" },
+    { "id": "MExoDuaq7EA", "title": "GPTs 10배 업그레이드 사용법: 챗GPT 활용법 끝판왕 이제는 GPTs 써야 합니다. | AI활용정점 팟캐스트 @평범한사업가  @yuniquekr" },
+    { "id": "lbuahO0K-zc", "title": "GPTs Action 사용법: 외부 API 연결을 통해 차별화된 GPTs 만들기" },
+    { "id": "xR3czFkT3es", "title": "GPTs 만들기 방법:  상위 1% 차별화 된 나만의 AI챗봇 만들기" },
+    { "id": "wKDL0DM62sw", "title": "ChatGPT를 활용한 구글 SEO 글쓰기 방법과 자동화 블로그에 대한 생각 | AI활용정점 팟캐스트 @평범한사업가  @yuniquekr" },
+    { "id": "L3jZQPt4PeY", "title": "GPTs 사용법: 누구나 쉽게 할수 있는 나만의 AI 챗봇 만들기 | AI활용정점 팟캐스트 @평범한사업가  @yuniquekr" },
+    { "id": "O5PpLqrlRwc", "title": "프롬프트 엔지니어링 비법! 챗GPT 전문가 상위 1%의 고급 프롬프트를 만들어주는 RIO 프롬프트 엔지니어, @평범한사업가  @yuniquekr" },
+    { "id": "EaHx4wKm34w", "title": "GPTs 수익화 비법!  GPTs를 나만의 천재 마케터로 활용하기, @평범한사업가,  @yuniquekr" },
+    { "id": "h8vJ6o_j0No", "title": "클로드 아티팩트로  SEO 최적화 블로그 작성하기 #클로드, #클로드 프로젝트, #클로드 3.5 소넷, #클로드 아티펙트, #클로드 블로그" },
+    { "id": "LKn1P9I2-Vo", "title": "GPT4o mini API 유튜브 요약! 3분 만에 Youtube 영상 요약 서비스 만들기 | 코드 작성 by 클로드 소넷 3.5 + 클로드 아티펙트" },
+    { "id": "FrKtIMhJgag", "title": "클로드 코딩 능력 300% 활용법 | 3분만에 복리 계산기 웹앱 만들기 | 클로드 아티펙트 + 공유 + 리믹스" },
+    { "id": "Ui4BGP8UG5g", "title": "챗GPT로 1000% 성장하는 구글 SEO 블로그 작성 비법 공개 | AI 시대 SEO 핵심 전략 3가지 | 구글 SEO 글쓰기 GPTs" }
+  ],
+  "playlists": [
+
+  ]
+}

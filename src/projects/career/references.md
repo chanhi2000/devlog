@@ -453,6 +453,21 @@ tag:
 - [`@2weV` / 팀과의 생산적 협업을 위해 실천하면 좋을 6가지 팁](https://brunch.co.kr/@@2weV/613)
 - [`@2YWz` / 초 개인화를 통한 고객 만족  - 현대 비즈니스의 생존 전략: 개요](https://brunch.co.kr/@@2YWz/122)
 - [`@2YWz` / 초 개인화를 통한 고객 만족  - 현대 비즈니스의 생존 전략: 비니지스 모델의 변화](https://brunch.co.kr/@@2YWz/123)
+- [`@LOc` / 정책자금 중 중소벤처기업진흥공단 자금이 1순위 - 스타트업](https://brunch.co.kr/@@LOc/241)
+- [`@5sFx` / 05. 실패와 실수에 관대한 조직이 만들어내는 혁신 - &ldquo;실수해도 괜찮아 - 물론 배움과 성장이 있어야 하지만&rdquo;](https://brunch.co.kr/@@5sFx/123)
+- [`@sJg` / 중앙선거관리위원회 선거공약정보 분석해보기 2 - 공공데이터 분석](https://brunch.co.kr/@@sJg/177)
+- [`@2weV` / Business Ethics 수업에서의 교훈](https://brunch.co.kr/@@2weV/608)
+- [`@2weV` / HR의 역할이 더 넓고 깊게 재정의 되어야 한다.&nbsp;](https://brunch.co.kr/@@2weV/609)
+- [`@2weV` / 인정받는 팀원들의 공통점 - XXX 이 없다.](https://brunch.co.kr/@@2weV/610)
+- [`@2weV` / 리더십/팀원에게 인정받는 팀장님들의 공통점](https://brunch.co.kr/@@2weV/611)
+- [`@2weV` / 인정받는 리더(대표, CEO)의 공통점](https://brunch.co.kr/@@2weV/612)
+- [`@ZVA` / 월가 트레이닝 회사 인턴 면접 현장을 엿보다](https://brunch.co.kr/@@ZVA/753)
+- [`@3L0s` / DX 기반: 조직운영의 디지털화 - 디지털 혁신-25](https://brunch.co.kr/@@3L0s/150)
+- [`@1q2y` / 광기로 개발한 계엄 인터랙티브 N개 -  도파민 가득했던 1주일 기록](https://brunch.co.kr/@@1q2y/35)
+- [`@LOc` / 2025년을 준비하는 스타트업을 위한 경영전략 - 스타트업](https://brunch.co.kr/@@LOc/240)
+- [`@2weV` / 정답 보다는 질문 & 관점이 더 중요한 시대가 왔다.](https://brunch.co.kr/@@2weV/614)
+- [`@2weV` / 문제 해결 가능한 퍼펙트 스톰. - 해결의 시작점은 지금 내가 속한 조직에서 부터](https://brunch.co.kr/@@2weV/615)
+- [`@2YWz` / 초 개인화를 통한 고객 만족 - 현대 비지니스의 생존 전략: 어떻게 구현할 것인가?](https://brunch.co.kr/@@2YWz/126)
 
 <!-- END: brunch.co.kr -->
 
@@ -962,6 +977,20 @@ tag:
 - [전문지식과 경험](https://thestartupbible.com/2024/11/domain-expertise-and-experience.html)
 - [월급쟁이 VC](https://thestartupbible.com/2024/11/the-shameful-and-the-shameless-vcs.html)
 - [한국 제품](https://thestartupbible.com/2024/11/rise-of-the-korean-products-and-brands.html)
+- [보람, 책임감, 그리고 사명감](https://thestartupbible.com/2025/01/feels-so-good.html)
+- [작은 점](https://thestartupbible.com/2024/11/everyone-is-fighting-their-own-battle-in-their-tiny-world.html)
+- [뚝심](https://thestartupbible.com/2024/11/going-very-long.html)
+- [작은 시장, 작은 전략 vs. 큰 시장, 큰 전략](https://thestartupbible.com/2024/12/big-vision-vs-real-problem.html)
+- [똥 치우는 사람들](https://thestartupbible.com/2024/12/vc-is-a-tough-job.html)
+- [평등한 자본금](https://thestartupbible.com/2024/12/hyundais-founding-story.html)
+- [인공지능과 휴먼의사](https://thestartupbible.com/2024/12/ai-and-the-human-touch.html)
+- [남한테 인정받는 사람](https://thestartupbible.com/2024/12/my-way-and-their-way.html)
+- [나만의 의식](https://thestartupbible.com/2025/01/daily-rituals.html)
+- [하방 보호](https://thestartupbible.com/2025/01/protecting-the-downside-and-playing-the-losing-game.html)
+- [고객에게 미친 사람들](https://thestartupbible.com/2025/01/crazy-about-customers.html)
+- [강렬함](https://thestartupbible.com/2025/01/the-land-of-intensity.html)
+- [희망의 실종](https://thestartupbible.com/2025/01/will-there-be-hope-in-2025.html)
+- [세상의 모든 큰 것은 아주 작은 것에서 시작된다](https://thestartupbible.com/2025/01/big-things-come-from-small-beginnings.html)
 
 <!-- END: thestartupbible.com -->
 
@@ -1197,6 +1226,9 @@ tag:
 ## 기계인간 John Grib
 
 - [(책) 컨설팅의 비밀](https://johngrib.github.io/wiki/book/secret-of-consulting/)
+- [페르소나(persona)](https://johngrib.github.io/wiki/persona/)
+
+<!-- END: johngrib.github.io -->
 
 ---
 

@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "gcarcassi",
+    "name": "Gabriele Carcassi",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_moQezERoixQiHQgpDSmfxEDmP3FAcumQgXcYYcnZIz6vo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dAYU_Xb0bLFZ4l9Qu7XThVnuEM2gkCpDNoGF4w6nDng88pKhZBBWcFP1ys6I0a7Li_3H2GB65Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "nnS-130tcuw", "title": "Why space is three dimensional" },
+    { "id": "krfxf9cDfgM", "title": "Classical entanglement and other quantum analogues" },
+    { "id": "YlF2U6Jt83Q", "title": "The constitutive assumptions of Hamiltonian mechanics" },
+    { "id": "LudGwKxvNJU", "title": "The most fundamental structure in physics" },
+    { "id": "7fRfxiyTKS0", "title": "No dissipative Lagrangians (or Hamiltonians)" },
+    { "id": "OhH7OYon0LE", "title": "Hamiltonian mechanics in 12 equivalent characterizations" },
+    { "id": "p9K7w9Qz1KE", "title": "The line between math and physics" }
+  ],
+  "playlists": [
+
+  ]
+}

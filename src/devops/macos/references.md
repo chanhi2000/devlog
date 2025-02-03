@@ -99,6 +99,7 @@ head:
 - [`webnautes` / 멈춤보단 천천히라도](http://webnautes.tistory.com/m/)
   - [Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법 ( UTM )](http://webnautes.tistory.com/m/2103)
   - [Apple Silicon Macbook에 Miniforge 설치하여 Visual Studio Code와 연동하기](https://webnautes.tistory.com/m/2101)
+  - [VMware Fusion 사용하여 Apple Silicon Macbook에 Ubuntu ARM64 설치하는 방법](https://webnautes.tistory.com/m/2413)
   <!-- END: webnautes -->
 - [`mobicon` / AI Convergence](https://mobicon.tistory.com/m/)
   - [Python Version Manager & Virtual Env 설치, 사용하기](https://mobicon.tistory.com/m/600)
@@ -254,6 +255,7 @@ head:
 - [macOS 전용 명령어들](https://johngrib.github.io/wiki/cmd/macos/)
 - [`screencapture` 명령어](https://johngrib.github.io/wiki/cmd/macos/screencapture/)
 - [macOS man hier](https://johngrib.github.io/wiki/cmd/macos/man-hier/)
+- [ripgrep, rg](https://johngrib.github.io/wiki/cmd/rg/)
 
 <!-- END: johngrib.github.io -->
 

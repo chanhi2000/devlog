@@ -13,6 +13,14 @@ tag:
   - win10
   - msc
   - eventvwr.msc
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > WSL
+    - property: og:description
+      content: WSL
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/wsl.html
 ---
 
 # {{ $frontmatter.title }} 관련

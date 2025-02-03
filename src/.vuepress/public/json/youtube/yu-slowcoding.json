@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/SWL7NVNZlZO91RCtH6KFZbMlmh4TkLPHZ-nsbHwkpLxo722z4NOQsbscwDAzaL_sCePI9pe1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vUaMfWRa0do", "title": "파이썬으로 주식분석하기 (10) - rolling window 백테스팅" },
+    { "id": "8SSBRs__naU", "title": "파이썬으로 주식 분석하기(1) - 가상환경 설정" },
+    { "id": "IXJf7SYy130", "title": "파이썬으로 주식분석하기(2) - yfinance에서 주식데이터 받기" },
+    { "id": "Djoz3nIAe64", "title": "파이썬으로 주식분석하기 (3) - 주식분석의 도구 설명" },
+    { "id": "knBj4ZvZShM", "title": "파이썬으로 주식분석하기 (4) - MACD 만드는 방법" },
+    { "id": "rCGh4n9eNwE", "title": "파이썬으로 주식분석하기(5) - MACD를 function과 module로 만들기" },
+    { "id": "t1I3XZywEFA", "title": "파이썬으로 주식분석하기(6) - MACD를 plot하기" },
+    { "id": "jVXWzram2Yg", "title": "파이썬으로 주식분석하기(7)-CAGR" },
+    { "id": "JPaLReQXZbY", "title": "파이썬으로 주식분석하기(8) - 종가/수익율/누적수익율 차트만들기" },
+    { "id": "R9yMWqUx_VI", "title": "파이썬으로 주식분석하기(9) - 동적포트폴리오전략과  rolling backtesting하는 방법을 설명" },
+    { "id": "5R_mfMqzknY", "title": "관광공사 고캠핑 데이터를 RTK Query와 RTK에서 처리하기 - PART 2" },
+    { "id": "e8oTgiKdhiM", "title": "자동차데이터를 RTK와 RTK Query을 이용하여 처리하기 - PART 3" },
     { "id": "cJvLp4UjT6c", "title": "callback, closure, promise, fetch, async await 완전이해하기" },
     { "id": "u9SOYg4jzik", "title": "node js, express server, 공공데이터포털/api 연결 총정리" }
   ]

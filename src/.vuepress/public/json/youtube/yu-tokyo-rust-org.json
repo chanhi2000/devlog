@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/K1ECqextaH2gFmLm0yWTa1ZXEmoWoJ3lmi-m9o8tRRGn4Y_3jKZ8Ww6vOZa21pVnLjFZo610yo4=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0wn7vUmWQgg", "title": "Making Tangible Things With Rust" },
+    { "id": "-MRCgyiCxWU", "title": "Bug-Free Concurrency in Rust" },
+    { "id": "khicXrTCeMc", "title": "Pearls of Parallelism" },
+    { "id": "2xBVQczO8_Y", "title": "Wrapping C++ (MFEM) in Rust" },
+    { "id": "zib1O7q7OwY", "title": "Let's Nom Nom Some JSON in Rust" },
     { "id": "dW8ok1_dH_Y", "title": "Building the Isograph Compiler in Rust" },
     { "id": "yQs75EWddTA", "title": "The Good, the Bad, and the Async" },
     { "id": "u88ViU3fCJg", "title": "Fun with Labels, Macros, and Unsafe Rust" },

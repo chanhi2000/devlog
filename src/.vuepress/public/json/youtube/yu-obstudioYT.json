@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "obstudioYT",
+    "name": "OB Studios",
+    "profile": "https://yt3.googleusercontent.com/ernkqFGFmExz2cjifEsRRHHVAa5ZmLKDsulhEssS7BEX5r_nafh8xdpTXv-QG4yjSKZ4K82R=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Va0qdAc7KTgG3mwsb9s3Ht1Vsqn8uTsPBm7vooON_FDJvfaHpNvieZdxc6YqHzlelq87svWCqw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YubaGS1xX64", "title": "Exclusive Preview: Compress.pics Chrome Extension – Optimize Images in Seconds!" },
+    { "id": "KhPUf8ba3hg", "title": "Moreblocks V2.0 and V2.5 Launch Preview" },
+    { "id": "nu8Mc0aiKlc", "title": "Moreblocks V2.5.2 - Grid Layouts & Variable Indicator..." },
+    { "id": "IJXSXUSFYMs", "title": "Using Moreblocks Variables with Breakdance" },
+    { "id": "T5mxCPlvix0", "title": "Moreblocks V2.7 - Variable Live Preview Is Here" },
+    { "id": "f-Gj9pmZmHQ", "title": "Build This Modern Hero Section with Breakdance Builder" },
+    { "id": "L7y34YnFTBs", "title": "Build a Spotlight Tiles Effect in Breakdance using Element Hive" },
+    { "id": "AYDVQGDr2zw", "title": "Interactive Video Player in Breakdance Builder" },
+    { "id": "pfuDqFiBRhs", "title": "Steal My Top 5 Hero Text Style" },
+    { "id": "DjliA3xyh84", "title": "Build an AI Site Using Breakdance" },
+    { "id": "EsTKS1y2iR8", "title": "Moreblocks V2 - Preview | Full Walkthrough & Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

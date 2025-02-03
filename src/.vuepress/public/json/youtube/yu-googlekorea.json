@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "googlekorea",
+    "name": "Google Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_me-IAdGML93Lqqhg_L6-9tcmRkWCB1NKXZ9yw24pGgPRM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/xqXEx3wK1E1_MUJfOqNIUMSZ9xsI9oNpVrOufV2Mcl5v89H5ZsEg3_3fbik0LS0IRCHBaHyG5w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EmQ15ATNYtM", "title": "[사이버보안 인식의 달] AI와 사이버 보안" },
+    { "id": "hHpD-ddYRg8", "title": "생성형 AI를 시작할 때 알아야 할 5가지" }
+  ],
+  "playlists": [
+
+  ]
+}

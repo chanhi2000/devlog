@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "algora-io",
+    "name": "Algora TV",
+    "profile": "https://yt3.googleusercontent.com/tlSj-HYzOx3qDghzI4uUgwKr5XMfn8Cv0E688SMfJd2PH-rlgS4O92V61k0b8Hm28uhkj6Mw7NU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-OAQAgZ4xz3PRnwjkFwWC8aXCVEM1d_XtzN2Ce_C2YOVoD18MDQUzQGI_4fn1BHeEMaWvl-y=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qq4rKM9Wsm8", "title": "$15,000 Open source bounty to hire a Rust engineer" },
+    { "id": "xObOGcUdtY0", "title": "$15,000 Open source bounty to hire a Rust engineer" },
+    { "id": "rAq8wIX8JMw", "title": "Hiring a SWE using open source bounties | Trigger.dev (YC W23)" },
+    { "id": "dKiSm8mpIzs", "title": "Nuxt.js OSS maintainer explains Algora.io" },
+    { "id": "FlZO2LGNXvc", "title": "Building my 2nd Unicorn Startup 🦄 Ry Walker CEO of Tembo.io" },
+    { "id": "sj3GrDW5Yj0", "title": "Simplifying Dev Environments with @ivanburazin CEO of Daytona" },
+    { "id": "hnLtSntdbwo", "title": "Open Source Founder Podcast S3E1 | Peter Zaitsev Founder of Percona" },
+    { "id": "DFYr3W9ccXU", "title": "Bootstrapping an #opensource business to $100M" },
+    { "id": "puizSvdYEUk", "title": "Open Source Licenses and Monetization | PearAI, Grafana, Wordpress" },
+    { "id": "iNxjvF1W4nA", "title": "Solo Dev Open Source Millionaire - Zeke Gabrielse CEO of Keygen" },
+    { "id": "0ToIRtpAiZI", "title": "Local-first Postgres Sync Engine - James Arthur CEO of ElectricSQL" },
+    { "id": "SQ6VWzaoKXU", "title": "European Bootstrapped Open Source Founder - Pontus Abrahamsson Midday Cofounder" },
+    { "id": "PCfdFpMZlog", "title": "Midday.ai | Live Demo & chat with Pontus Abrahamsson" },
+    { "id": "_RbpTg9L9GM", "title": "VC-Backed Open Source -  Lucas da Costa CEO of Briefer" },
+    { "id": "QvcqHHZ4wUU", "title": "Enterprise Sales Advice" },
+    { "id": "Xnt9-glBmeU", "title": "💵 Sales advice from a $1B CEO" },
+    { "id": "NckcmwwX5Gs", "title": "Live Demo ✨ Keygen.sh Software Licensing API" },
+    { "id": "1cdH1F6zbIg", "title": "Revenue Funded Open Source Search with Jason Bosco CEO of Typesense" },
+    { "id": "D30eEajE_jI", "title": "Solo developer's path to $1M" },
+    { "id": "uzn4YNvg8pc", "title": "Live OSS Contribution to Remotion.dev ($200 bounty)" },
+    { "id": "fTOEasC-WgY", "title": "Live open source contribution to Maybe.co" },
+    { "id": "VQbwceRzat4", "title": "Livestream open source contribution to ZIO.dev (Scala)" },
+    { "id": "DykEnBv0ifI", "title": "Midday.ai Product Hunt Launch Founder Livestream" },
+    { "id": "RtYQAvYiLec", "title": "Glauber Costa and Nadia Asparouhova - The Save File Podcast | Algora.tv" },
+    { "id": "86KkdrjU3nE", "title": "Speeding up Nuxt.js ⚡ Daniel Roe (maintainer) Livestream" },
+    { "id": "F4VYL_bFgJQ", "title": "Live Elixir Programming | Zach Daniels (Ash framework maintainer)" },
+    { "id": "f6FKYZQ5gWQ", "title": "Livestream Reaction | Posthog Product Analytics" },
+    { "id": "FnkNS48XFXc", "title": "Tigris Fly Supabase - Object Storage & Hosting" },
+    { "id": "-pYwwtZZntQ", "title": "PostgreSQL extensions & stacks | Reacting to Tembo" },
+    { "id": "BevHCn7pVwM", "title": "Livestream Reaction to Nango.dev Unified API (open source)" },
+    { "id": "scfImjaESiM", "title": "Livestream Reaction | Permify.co Open Source Auth" },
+    { "id": "te6k6EfHjnI", "title": "How Engineers Earn with Livestreaming & Open Source" },
+    { "id": "_HuoJP1UNkk", "title": "YouTube Monetization | Software Engineers | Algora TV" },
+    { "id": "LfuL9png94M", "title": "Livestream Monetization for Software Engineers | algora.tv" },
+    { "id": "AyxUGUVLUxE", "title": "Plateforme de primes de programmation open source" }
+  ],
+  "playlists": [
+
+  ]
+}

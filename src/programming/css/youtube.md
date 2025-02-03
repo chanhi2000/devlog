@@ -65,5 +65,6 @@ tag:
 <MyYouTubeItems jsonName="yu-ChromeDevs" /><!-- Google Chrome Developers -->
 <MyYouTubeItems jsonName="yu-onlinewebustaad" /><!-- Online web ustaad -->
 <MyYouTubeItems jsonName="yu-hancoding" /><!-- 한코딩 -->
+<MyYouTubeItems jsonName="yu-프론트맨-e2b" /><!-- 프론트맨 -->
 
 <TagLinks />

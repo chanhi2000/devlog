@@ -13,6 +13,14 @@ tag:
   - win
   - windows
   - browser
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > Internet Explorer
+    - property: og:description
+      content: Internet Explorer
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/ie.html
 ---
 
 # {{ $frontmatter.title }} 관련

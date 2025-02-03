@@ -25,6 +25,14 @@ tag:
   - temurin11
   - docker
   - fastfetch
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > Environment Setup
+    - property: og:description
+      content: Environment Setup
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/env-setup.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -138,8 +146,8 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
-    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray wingetui wiztree rust
+    intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal `
+    twinkle-tray wingetui wiztree rust nerd-fonts-jetbrainsmono`
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
@@ -149,7 +157,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
-    intellijidea revo-uninstaller glogg autoruns microsoft-windows-terminal ^
+    intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal ^
     twinkle-tray wingetui wiztree rust
 ```
 
@@ -181,6 +189,8 @@ Copy and Paste the following to the Powershell Prompt
 @tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
+scoop bucket add extras
+
 scoop install 7zip cheat hyperfine fastfetch nu`
   oh-my-posh terminal-icons tokei watchman git
 ```

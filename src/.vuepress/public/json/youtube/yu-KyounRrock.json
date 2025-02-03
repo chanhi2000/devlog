@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/vyGZa3E_cB1RhBCIY_avFbWA57XOW8nfxjcv4_nKAAVUWpXpWwUt_r5fhbBR0ZDziVApPfKaUw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "meeX8tQ50fs", "title": "Docker이용해 C개발 환경 구축하기 .nvim" },
+    { "id": "8AIgVaScJbg", "title": "포인터는 실전이다 - C 배열로 포인터 이해하기" },
     { "id": "LiWlWK6y1n0", "title": "Java 버블정렬 알고리즘 설명과 구현" },
     { "id": "XPtu0i3Mjag", "title": "Springboot앱을 Gradle, Docker빌드 해서 AWS EC2에 띄우기" }
   ],

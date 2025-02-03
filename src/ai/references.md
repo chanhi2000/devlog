@@ -370,9 +370,12 @@ head:
 
 ---
 
-## THE STARTUP BIBLE
+## The Startup Bible
 
 - [“인공” 지능](https://thestartupbible.com/2024/08/artificial-intelligence.html)
+- [인공지능과 휴먼의사](https://thestartupbible.com/2024/12/ai-and-the-human-touch.html)
+
+<!-- END: thestartupbible.com -->
 
 ---
 

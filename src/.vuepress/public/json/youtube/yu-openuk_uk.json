@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "openuk_uk",
+    "name": "OpenUK",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mT-G_OUOQ4459ZWuuQy1fKh3PZKYcXVKK87UM4AxShiA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qBnR1LUfovoCoCj40PST-feJpRkupC5dAOEE5dpFfhIwvbeW72ETOHLVjV1OfeJMrrz71zq2iQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wliDVF3FpI0", "title": "Research and Reporting Show and Tell: License Shifts, Open Washing and Forking in Open Source" },
+    { "id": "Xi3h9rHe87I", "title": "Research and Reporting Show and Tell: AI Special" },
+    { "id": "hRb8oyX1f88", "title": "Research and Reporting Show and Tell: May" },
+    { "id": "yRp3tchdxEs", "title": "Research and Reporting Show and Tell: March" },
+    { "id": "xwTa0Z7jfFc", "title": "The Open Manifesto Report Launch" },
+    { "id": "tH2hGnH1R1I", "title": "Panel \"What is open source in AI\"" },
+    { "id": "nazDKUJ_Ofc", "title": "Panel \"The AI data Conundrum\"" },
+    { "id": "I1ovkyezanA", "title": "Q&A with Professor Neil Lawrence, University of Cambridge - Hosted by Amanda Brock, OpenUK" },
+    { "id": "x8mN1W-cRUo", "title": "Keynote \"The AI Act and open washing\" Professor Andreas Liesenfeld, Radboud University" },
+    { "id": "p-baFnY9L2c", "title": "Keynote \"The OSPO is Dead - Long live the OSPO\" Amanda Brock, OpenUK" },
+    { "id": "afuLPvhBZYE", "title": "Panel \"Open Source supporting the UK digital skill gap\"" },
+    { "id": "1Ywlrg9q66E", "title": "Q&A with Will Hutton - Hosted by Lesley Smith, OpenUK" },
+    { "id": "cb9Fs_54E0I", "title": "\"An update on the UK’s position in open source\" Dr Jennifer Barth, CRO, OpenUK" },
+    { "id": "GscmTl2fZ2U", "title": "\"Welcome and Introduction to The Open Manifesto\" Amanda Brock, CEO, OpenUK" }
+  ],
+  "playlists": [
+
+  ]
+}

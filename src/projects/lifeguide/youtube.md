@@ -30,13 +30,13 @@ head:
 <MyYouTubeItems jsonName="yu-spring_butler" /><!-- 봄집사 -->
 <MyYouTubeItems jsonName="yu-살림로그" /><!-- 살림로그_살림을 기록하다. -->
 <MyYouTubeItems jsonName="yu-salimtalk" /><!-- 살림톡 -->
-<MyYouTubeItems jsonName="yu-salim_nam" /><!-- 살림남 The Life -->
+<MyYouTubeItems jsonName="yu-살림남" /><!-- 살림남 The Life -->
 <MyYouTubeItems jsonName="yu-구매리즘" /><!-- 구매리즘 -->
 <MyYouTubeItems jsonName="yu-1under" /><!-- 1분미만 -->
 <MyYouTubeItems jsonName="yu-3protv" /><!-- 삼프로TV_경제의신과함께 -->
 <MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
 <MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->
-<MyYouTubeItems jsonName="yu-ayshh" /><!-- 아영이네 행복주택 -->
+<MyYouTubeItems jsonName="yu-아영이네행복주택" /><!-- 아영이네 행복주택 -->
 <MyYouTubeItems jsonName="yu-mediheal_pilates" /><!-- 메디쌤의 필라테스 MEDIHEAL_PILATES -->
 <MyYouTubeItems jsonName="yu-leenageum" /><!-- 이나금TV -->
 <MyYouTubeItems jsonName="yu-2ndlife2" /><!-- 인생2회차 -->
@@ -159,5 +159,7 @@ head:
 <MyYouTubeItems jsonName="yu-nosearch_official" /><!-- 노써치 -->
 <MyYouTubeItems jsonName="yu-review_marriedman" /><!-- 리유남-리뷰하는유부남 -->
 <MyYouTubeItems jsonName="yu-GOODNEWSHVAC" /><!-- 에어컨설치굳뉴스 -->
+<MyYouTubeItems jsonName="yu-어셈블팩토리" /><!-- 어셈블팩토리 -->
+<MyYouTubeItems jsonName="yu-와리가리" /><!-- 와리가리 l WARIGARI -->
 
 <TagLinks />

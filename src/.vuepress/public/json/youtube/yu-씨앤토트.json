@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "씨앤토트",
+    "name": "씨앤토트",
+    "profile": "https://yt3.googleusercontent.com/ofirAQhbLCyPF8q4cvucSqxFdppv5Wpmhf_LycvXvz-zPs91BBFPkgEVLC4I1dOcoGOWcj87Dg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ebGeMW_rEgvOe2kQKbXV79RH3IK2OgvVPiah4Zc9l4HaKeMiRhflIXDZMI1dBVXD1djxrKsZSDQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YPoZzmPFt0c", "title": "AI시대에 가장 최적화된 PC, Surface Copilot+을 소개합니다! #온디바이스AI #Microsoft  #Surface" },
+    { "id": "N6n-tWBXbfY", "title": "[코파일럿 에이전트 쉽게 시작하기] Copilot 소개 및 Agent 생성 실습 #microsoft" },
+    { "id": "f6qox6k-Mng", "title": "Copilot 이제는 활용할 때! 코파일럿 개발과 확장이 가능합니다! #Microsoft #코파일럿" },
+    { "id": "sHNLBTvp4LE", "title": "[개요 및 Demo 1]  생성형 AI를 통한 머신러닝 데모 feat. Microsoft Copilot #Microsoft #Fabric #AI #Bigdata #데이터분석" },
+    { "id": "U5l-d9-WLHg", "title": "[Demo 2] 생성형 AI를 활용하여 BI 리포트 생성 feat. 코드자동생성 #Microsoft #Fabric #AI #Bigdata #데이터분석" },
+    { "id": "VQFi5atn5SI", "title": "[Full ver] 생성형 AI로 데이터를 분석하는 새로운 방식! #Microsoft #Fabric #AI #Bigdata #데이터분석" },
+    { "id": "afWCRZw-YaI", "title": "[변화관리] New Teams 퀵가이드-업무가 쉬워지는 알람 기능 및 업데이트된 채팅 기능 \"오직 씨앤토트 변화관리에서만 만날 수 있어요!\" #Teams #팀즈 #변화관리" },
+    { "id": "afWCRZw-YaI", "title": "[변화관리] New Teams 퀵가이드-업무가 쉬워지는 알람 기능 및 업데이트된 채팅 기능 \"오직 씨앤토트 변화관리에서만 만날 수 있어요!\" #Teams #팀즈 #변화관리" },
+    { "id": "u4l7mw0f_-k", "title": "[변화관리] NewTeams Quick 가이드-업무가 쉬워지는 일정, 온라인 모임 기능 \"오직 씨앤토트 변화관리에서만 만날 수 있어요!\" #Teams #팀즈 #변화관리" },
+    { "id": "u4l7mw0f_-k", "title": "[변화관리] NewTeams Quick 가이드-업무가 쉬워지는 일정, 온라인 모임 기능 \"오직 씨앤토트 변화관리에서만 만날 수 있어요!\" #Teams #팀즈 #변화관리" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "arp_ai",
+    "name": "Jay Alammar",
+    "profile": "https://yt3.googleusercontent.com/ov_mG0JCedt1Z5pHSozfIapzTlYWGmKA3i59SkmB3YT6YYf4LP3KGvLtHxNM9OnkIyMJqrdvsA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6ApeoZMkpobi9E0i9CHT6hcQ3SfprTq06-HvUAPXGRuavWlk6plIsugIy1xhnAeJTLFKW42M-2w=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "bivZWNQHRfE", "title": "SWE-Bench authors reflect on the state of LLM agents at Neurips 2024" },
+    { "id": "-Kwlqd1mXv0", "title": "AlphaXiv - a great place to discuss ML papers" },
+    { "id": "5drn2DO7gNY", "title": "Building LLM Agents with Tool Use" },
+    { "id": "rT6wVLEDC_w", "title": "What makes LLM tokenizers different from each other? GPT4 vs. FlanT5 Vs. Starcoder Vs. BERT and more" },
+    { "id": "uSinkCeUg9U", "title": "ChatGPT has Never Seen a SINGLE Word (Despite Reading Most of The Internet). Meet LLM Tokenizers." },
+    { "id": "oTqG2DbXl2Y", "title": "AI is Eating The World - This is Where YOU Can Use it to Compete (AI Product Moats)" }
+  ],
+  "playlists": [
+
+  ]
+}

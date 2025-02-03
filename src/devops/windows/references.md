@@ -13,6 +13,14 @@ tag:
   - win10
   - msc
   - eventvwr.msc
+head:
+  - - meta:
+    - property: og:title
+      content: Windows > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/windows/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -83,6 +91,7 @@ tag:
   - [Fire Toolbox 사용하여 Amazon Fire HD 10 2023에 구글 플레이 스토어 설치하기](https://webnautes.tistory.com/m/2392)
   - [Windows가 설치된 컴퓨터에 Ubuntu 설치하는 방법](https://webnautes.tistory.com/m/2120)
   - [Windows에 설치된 VirtualBox를 사용하여 Ubuntu 설치하기](https://webnautes.tistory.com/m/2118)
+  - [Windows에 CUDA 사용할 수 있도록 PyTorch 설치하는 방법](https://webnautes.tistory.com/m/1850)
   <!-- END: webnautes -->
 - [`sunyzero` / Linux Programmer](https://sunyzero.tistory.com/m/)
   - [장치관리자 느낌표 : 알 수 없는 장치, SM 버스 컨트롤러, PCI 장치](https://sunyzero.tistory.com/m/303)

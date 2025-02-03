@@ -65,6 +65,8 @@ head:
   - [`fcitx5` 사용시 PyQt5에서 한글 입력안되는 문제 해결 방법](https://webnautes.tistory.com/m/2405)
   - [호버와 클릭 효과 있는 PyQt5 QPushButton 예제](https://webnautes.tistory.com/m/2406)
   - [meloTTS +pyQT5  테스트](https://webnautes.tistory.com/m/2407)
+  - [OpenCV와 XFeat를 사용한 pyQt5 이미지 매칭 프로그램](https://webnautes.tistory.com/m/2416)
+  - [XFeat를 사용한 월리를 찾기 구현](https://webnautes.tistory.com/m/2414)
   <!-- END: webnautes -->
 - [`1d1cblog` / 1D1C](https://1d1cblog.tistory.com/m/)
   - [\[Qt\] 다른 쓰레드에서 QTimer 처리하기](https://1d1cblog.tistory.com/m/523)

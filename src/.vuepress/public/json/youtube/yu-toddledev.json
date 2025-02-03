@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "toddledev",
+    "name": "toddle",
+    "profile": "https://yt3.googleusercontent.com/1ktCHzYVKj-pidhpTkKdZXfqlADFuo7zFuCk8BDizWyFmjqXcI8WfWTzTvwOI_l-wFhmQ5U2=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t0yjxDi6OSyfkBAoTYHVbaq3V-_6nG1Dy6RBm_2lzX7mU2KBycCznCxYRQ-cOGENDL5DTJ2m=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MEbuDKNizxE", "title": "How to build a native Mobile App with toddle and Despia" },
+    { "id": "7NimvsrOtVE", "title": "Why your app is slow—debug with DevTools" },
+    { "id": "QaFWn7Wpn5I", "title": "How to build a bad UI" },
+    { "id": "-EET-LVMJ4g", "title": "reCAPTCHA tic tac toe" },
+    { "id": "pZJiCE3d55M", "title": "Finally! Lightmode in toddle! Sort of..." },
+    { "id": "bXlAc63Ga3c", "title": "Dont deploy to staging!" },
+    { "id": "XlUwRyt0a3I", "title": "Bad UI World Cup Final" },
+    { "id": "KzHmAe1-a_Y", "title": "Introducing Backend Appreciation Month" },
+    { "id": "mBhJpmdeoC8", "title": "Build a job site with live search in Baserow and toddle" },
+    { "id": "OmfwOsxjXo8", "title": "Build a directory with Directus and toddle" },
+    { "id": "W_XnbFzvp48", "title": "Bluesky like tracker" },
+    { "id": "c8wQ-qNWEZA", "title": "Super Secure Password Keyboard — Bad UI World Cup Entry" },
+    { "id": "YOc_11zUAgs", "title": "Build a no-code tool with Xano and toddle" },
+    { "id": "mBhJpmdeoC8", "title": "Redirect rules 101 with Baserow and toddle" },
+    { "id": "OmfwOsxjXo8", "title": "Build a directory with Directus and toddle" },
+    { "id": "jZvV5cYILdA", "title": "Chat streaming with Buildship and toddle" },
+    { "id": "yVVbREdBdt0", "title": "Introducing toddle AI Assistant V.1" },
+    { "id": "HQvfjKCFMCU", "title": "Building a resize feature for toddle in toddle" },
+    { "id": "Mp3xPVrV6v8", "title": "How to optimize your website with Google Lighthouse" },
+    { "id": "YKIsQ64N-2w", "title": "Carousel" },
+    { "id": "l-Ej19ID7lI", "title": "Starter kit" },
+    { "id": "pPbw9-wJ4fM", "title": "Currency converter" },
+    { "id": "syYgRoTkfuM", "title": "Accordion" },
+    { "id": "zatHe2vh2ow", "title": "Your app is a MESS! New Issues Panel shows you why!" },
+    { "id": "HzQWj7T4OZw", "title": "Physics based animation in toddle" },
+    { "id": "sEGgd6rk9r8", "title": "Design-along: A grid of cards" },
+    { "id": "xzVZNZW1xiQ", "title": "Variables: Too many, too furious!" },
+    { "id": "kMjN0fBiBKg", "title": "Design-along: To-do app" },
+    { "id": "bvuQxnoWQP4", "title": "Understanding Responsive Web Design" },
+    { "id": "q1iW88M4c8E", "title": "Building toddle in toddle: Fixing styling issue" },
+    { "id": "YMLrir71lOI", "title": "Creating a shopping cart in toddle" },
+    { "id": "PQjMZ_0ju1g", "title": "Why are programmers talking about \"abstraction\"?" },
+    { "id": "ahN3L-4r_Fo", "title": "Wow Project Walkthrough" },
+    { "id": "Y8f9g_Q4pFY", "title": "MacOS dock animation tutorial" },
+    { "id": "YEZWfMahByY", "title": "How to use @starting-style" }
+  ],
+  "playlists": [
+
+  ]
+}
