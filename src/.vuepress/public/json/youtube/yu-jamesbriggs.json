@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/ildcaPkuxMr8gqPfRuqRS9_iQO81DSvZfDL1nCPK0oqImHMQ7ZSw16TaXVxrx51_6qcl9vZWTQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vjMN8FSGiQI", "title": "What's next for Semantic Router (v1 update)" },
+    { "id": "zBiKWxonD-o", "title": "Gemini 2 Multimodal and Spatial Awareness in Python" },
+    { "id": "G8kwhCf_xCI", "title": "Gemini 2 Agent + Google Search and Citations" },
+    { "id": "JaHfCrVTYF4", "title": "AI Agents as Neuro-Symbolic Systems?" },
+    { "id": "uCVRfRVNRHQ", "title": "Better Chatbots with Semantic Routes" },
+    { "id": "I0c405L7-9A", "title": "RAG with Mistral AI!" },
+    { "id": "usOmwLZNVuM", "title": "LangGraph Deep Dive: Build Better Agents" },
+    { "id": "5a-NuqTaC20", "title": "Local LangGraph Agents with Llama 3.1 + Ollama" },
+    { "id": "KMZBLBAfE1s", "title": "Llama Index Workflows | Building Async AI Agents" },
     { "id": "hpePPqKxNq8", "title": "ChatGPT Plugins: Build Your Own in Python!" }
   ]
 }

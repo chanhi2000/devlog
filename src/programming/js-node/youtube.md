@@ -105,7 +105,7 @@ head:
 <MyYouTubeItems jsonName="yu-sstur" /><!-- Tech Talks with Simon -->
 <MyYouTubeItems jsonName="yu-CodingPhase" /><!-- CodingPhase -->
 <MyYouTubeItems jsonName="yu-Remix-Run" /><!-- Remix -->
-<MyYouTubeItems jsonName="yu-user-yu8so2ck1z" /><!-- 코딩알려주는누나 -->
+<MyYouTubeItems jsonName="yu-코딩알려주는누나" /><!-- 코딩알려주는누나 -->
 <MyYouTubeItems jsonName="yu-Renewedcart" /><!-- Cat Technologies -->
 <MyYouTubeItems jsonName="yu-Hyperplexed" /><!-- Hyperplexed -->
 <MyYouTubeItems jsonName="yu-FunOfHeuristic" /><!-- Fun Of Heuristic -->

@@ -66,7 +66,7 @@ head:
 <MyYouTubeItems jsonName="yu-prydev" /><!-- Prydev -->
 <MyYouTubeItems jsonName="yu-bubhub10" /><!-- bub hub -->
 <MyYouTubeItems jsonName="yu-Adamant_IT" /><!-- Adamant IT -->
-<MyYouTubeItems jsonName="yu-comssabu" /><!-- 컴싸부 -->
+<MyYouTubeItems jsonName="yu-컴싸부" /><!-- 컴싸부 -->
 <MyYouTubeItems jsonName="yu-nirlichtman" /><!-- Nir Lichtman -->
 <MyYouTubeItems jsonName="yu-Tips2Fix" /><!-- Tips 2 Fix -->
 <MyYouTubeItems jsonName="yu-MikeTholfsen" /><!-- Mike Tholfsen -->

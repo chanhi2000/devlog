@@ -52,22 +52,19 @@ head:
 :::
 
 ```json :collapsed-lines title="keybindings-json.json"
+// Place your key bindings in this file to override the defaultsauto[]
 [
+  { "key": "shift+cmd+i", "command": "editor.action.insertSnippet" }, 
+  { "key": " ctrl+alt+i", "command": "editor.action.insertSnippet" }, 
   {
-    "key": "ctrl+alt+i",
-    "command": "-workbench.panel.chat",
-    "when": "workbench.panel.chat.view.copilot.active"
+    "key": "ctrl+alt+cmd+]",
+    "command": "workbench.action.splitEditorRight"
   }, {
-    "key": "ctrl+alt+i",
-    "command": "-workbench.action.chat.open",
-    "when": "chatPanelParticipantRegistered || chatSetupInstalled"
-  }, {
-    "key": "ctrl+alt+i",
-    "command": "editor.action.insertSnippet"
-  }, {
-    "key": "shift+alt+t",
-    "command": "workbench.action.tasks.runTask"
-  }
+    "key": "ctrl+alt+cmd+[",
+    "command": "workbench.action.splitEditorLeft"
+  }, 
+  { "key": "cmd+alt+t", "command": "workbench.action.tasks.runTask" },
+  { "key": "shift+alt+t", "command": "workbench.action.tasks.runTask" },
 ]
 ```
 

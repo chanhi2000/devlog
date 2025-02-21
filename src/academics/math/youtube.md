@@ -83,5 +83,8 @@ head:
 <MyYouTubeItems jsonName="yu-Ray수학" /><!-- Ray 수학 -->
 <MyYouTubeItems jsonName="yu-DrBarker" /><!-- Dr Barker -->
 <MyYouTubeItems jsonName="yu-Gilbut_Academy" /><!-- 선생님도 매월 시험보는 학원 Since 2005 -->
+<MyYouTubeItems jsonName="yu-holdmybipolar" /><!-- hold my bipolar watch this! -->
+<MyYouTubeItems jsonName="yu-OscgrMaths" /><!-- dy d Oscar -->
+<MyYouTubeItems jsonName="yu-cakemath" /><!-- 케익 수학 -->
 
 <TagLinks />

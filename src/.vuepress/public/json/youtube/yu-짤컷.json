@@ -1,11 +1,16 @@
 {
   "channel": {
-    "id": "shortform",
+    "id": "짤컷",
     "name": "짤컷",
     "profile": "https://yt3.googleusercontent.com/Fln4d1isN0r_MR9w2kNTfxjFpg7aZK-8zQIaHqqLRomW7ppmhwk2HgBL3vELq1kVUJBe1MLu=s160-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/HWIHE720WITZ887z6nP7o7_rxRbvyUkS6mVskTe117lpmaUYd0TgD6cKtYOxNHVskdPkPXwqfQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "oDxElw13dDM", "title": "미처 생각지도 못한 놀라운 의류꿀팁 3가지" },
+    { "id": "Y-1VlucVLew", "title": "짜증나는 바탕화면 카톡광고 차단하는 법" },
+    { "id": "R_sERmKjGS8", "title": "바탕화면의 짜증나는 광고알림들 모두 삭제하는 방법" },
+    { "id": "_bTQ5M7T1jw", "title": "이 3가지 방법으로 아이폰이 완전 달라졌습니다!" },
+    { "id": "Q7825N_vpzs", "title": "대한민국 상위1%만 알고 있는 천재적인 꿀팁" },
     { "id": "tQPYkbZM6Uc", "title": "절대로 참여하지 마세요!" },
     { "id": "5J6VT6uzMdI", "title": "소름끼칠 정도로 유용한 다이소꿀템 5가지" },
     { "id": "y4I8UcW9cK0", "title": "이제부터 아울렛에서 이것을 꼭 물어보세요!" },

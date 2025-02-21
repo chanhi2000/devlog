@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "CodingtheFuture-jg1he",
+    "name": "Coding the Future With AI",
+    "profile": "https://yt3.googleusercontent.com/Gv_i83vzHiBdYNM_6NPgg5_jN7vzgyZkJ6ri06rnKQN4HjNGmVgFN9uiNah26PcrTQUm2cPQPA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qD2NXmlEkq1Mr8kgaRor0wwu8wmFNcpwYzJskNSLBW9l9pv9TnTidkWCXQ_j8GtQNqBidtCa=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "t-i2x3APvGQ", "title": "Unlock AI Coding with Workflow-Driven, Tuned Prompt Chains 🔑" },
+    { "id": "7l-PIcJsDGU", "title": "Aider, Cursor, Windsurf: Build Apps with a SINGLE prompt, NO coding!" },
+    { "id": "BtAqHsySdSY", "title": "Aider and Claude 3.5: Develop a Full-stack App Without Writing ANY Code!" },
+    { "id": "0hIisJ3xAdU", "title": "Claude 3.5 and aider: Use AI Assistants to Build AI Apps" },
+    { "id": "DnBVgfe6ZQM", "title": "Step-by-Step Development Environment Setup for AI-Assisted Coding" },
+    { "id": "jaxV4p7aPyE", "title": "AI Coding Assistant Costs Revealed: aider and Claude 3.5 Sonnet" },
+    { "id": "JybsMeYok2k", "title": "AI-Powered Software Development: Beyond Code Generation" },
+    { "id": "VrHXjvikBrY", "title": "Mastering AI for Software Development: Essential Tips & Principles" },
+    { "id": "colxxnNXMSI", "title": "Continue and Claude 3.5: Develop a Mobile App Without Writing ANY Code!" },
+    { "id": "0GU11KcugUQ", "title": "Software Engineers and IT Leaders are Dead Wrong about AI" },
+    { "id": "T1SM0SK3Pbk", "title": "⚡️Code Like Lightning with AI: Learn Fast, Build Faster!⚡️" }
+  ],
+  "playlists": [
+
+  ]
+}

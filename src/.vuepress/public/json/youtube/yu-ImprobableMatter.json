@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "ImprobableMatter",
+    "name": "Improbable Matter",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m0BbXuq5GIoQ90z91IWuCwiamW1wIQziHcWwMjrYQipg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LpF6Fytfmc_tcZmjmKWLEmQIIyLdsI5uQcU8vEQNJORLZpm6B3K9udTzQGywha_BaKbzlGIQ-pU=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "csGLVZqr0SE", "title": "The FluidX3D code with Moritz Lehmann" },
+    { "id": "11GoUgq5Bng", "title": "Why OOP is slow - and a stupid idea to fix it" },
+    { "id": "7TbPHExtGnQ", "title": "Corrections and clarifications for my OOP video" },
+    { "id": "qIvWMRrOmaU", "title": "Brent’s Method of Finding Roots and Inverse Functions: Algorithms for Grad Students (1)" },
+    { "id": "NXnLge6ZHnY", "title": "Studying the Whole Sun with Adam Finley" }
+  ],
+  "playlists": [
+
+  ]
+}

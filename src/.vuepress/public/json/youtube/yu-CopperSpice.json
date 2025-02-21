@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/FNJ8ugvn8mmLywQ-uZSZ2uL7jOu-43i2Z2N71Aei-sEQg-AcDSqulXNRP9rP9l_WdHmHzlbUj84=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1KeRrZOMOZk", "title": "C++20 and Two's Complement" },
+    { "id": "XQUMl3V_rdI", "title": "std::launder" },
+    { "id": "23iz4DTp7rY", "title": "Template Design with Policy Classes" },
     { "id": "cgVJVZePCxo", "title": "Generic vs Meta Programming" },
     { "id": "MfzMR40kPjA", "title": "Docker for Developers" }, 
     { "id": "u9mwgkswtFc", "title": "More about Moving to C++17" }

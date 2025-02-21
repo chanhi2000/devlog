@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/6dcM5_IIKqKirI2-FnzsTXZJWZdSvfnzWbw9xSL93wO1BmCk3UDKjar6p8WQrOJJSvPW74c1-_k=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LgojHgebiNs", "title": "Unreal Engine 5 - Spawning Blueprints With PCG" },
+    { "id": "z9r6-hUD0C8", "title": "Unreal 5 - Vertex Data & Scattering With Construction Script" },
+    { "id": "4EnCsJvcIbA", "title": "Unreal Engine 5.5 - Compute Shaders With PCG Introduction (HLSL)" },
+    { "id": "cBgA3whCjUQ", "title": "Quick Environments In Blender! 🌄  #blender3d #shorts" },
+    { "id": "fxRUZOWyBlU", "title": "🥢Making Sushi 🍣 with Blender 4.1! - Beginner Tutorial" },
+    { "id": "GoVEomHxeNw", "title": "Unreal Engine 5.4 - Animated WPO & Normal Generation With HLSL" },
+    { "id": "FEhwuATcwSs", "title": "Gaea 2 - Realistic Desert Incline Tutorial" },
+    { "id": "BrBYkgGMUSQ", "title": "Unreal 5.4 - Flow & Flood Map Calculation With HLSL" },
+    { "id": "i9Bfg5H_fKM", "title": "Unreal 5.4 - Realistic Interactive Water in 5 Minutes" },
     { "id": "hzUmD3gXXKg", "title": "Unreal Engine 5.4 - Texture Graph (New Feature)" }
   ],
   "playlists": [

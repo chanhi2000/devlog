@@ -37,7 +37,7 @@ head:
 <MyYouTubeItems jsonName="yu-gwigom" /><!-- 귀곰 -->
 <MyYouTubeItems jsonName="yu-studian365" /><!-- 스터디언 -->
 <MyYouTubeItems jsonName="yu-아영이네행복주택" /><!-- 아영이네 행복주택 -->
-<MyYouTubeItems jsonName="yu-mediheal_pilates" /><!-- 메디쌤의 필라테스 MEDIHEAL_PILATES -->
+<MyYouTubeItems jsonName="yu-메디쌤" /><!-- 메디쌤의 필라테스 MEDIHEAL_PILATES -->
 <MyYouTubeItems jsonName="yu-leenageum" /><!-- 이나금TV -->
 <MyYouTubeItems jsonName="yu-2ndlife2" /><!-- 인생2회차 -->
 <MyYouTubeItems jsonName="yu-AliexpressDP" /><!-- 알리직구 -->
@@ -54,7 +54,7 @@ head:
 <MyYouTubeItems jsonName="yu-Runaway_son" /><!-- 집나간아들 Runaway Son -->
 <MyYouTubeItems jsonName="yu-kimseoul638" /><!-- 킴서울 KIM SEOUL -->
 <MyYouTubeItems jsonName="yu-one_stretching" />  <!-- 강하나 스트레칭_stretching -->
-<MyYouTubeItems jsonName="yu-reviewyanolza" /><!-- 리뷰야놀자 -->
+<MyYouTubeItems jsonName="yu-리뷰야놀자" /><!-- 리뷰야놀자 -->
 <MyYouTubeItems jsonName="yu-MrAjae" /><!-- Mr.아재 -->
 <MyYouTubeItems jsonName="yu-KUKITV" /><!-- 쿠키건강TV / KUKI HEALTH TV -->
 <MyYouTubeItems jsonName="yu-dakipost" /><!-- 다키포스트 DAKIPOST -->
@@ -79,7 +79,7 @@ head:
 <MyYouTubeItems jsonName="yu-yourseat" /><!-- 너의자리 -->
 <MyYouTubeItems jsonName="yu-cucd_official" /><!-- 차업차득 -->
 <MyYouTubeItems jsonName="yu-yk_roadking" /><!-- 도로왕 김지훈 변호사 -->
-<MyYouTubeItems jsonName="yu-user-sz5tm2cp7v" /><!-- 경제인회계인 -->
+<MyYouTubeItems jsonName="yu-경제인회계인" /><!-- 경제인회계인 -->
 <MyYouTubeItems jsonName="yu-SMGI" /><!-- 사물궁이 잡학지식 -->
 <MyYouTubeItems jsonName="yu-_johncook8725" /><!-- 아하부장_JOHNCOOK -->
 <MyYouTubeItems jsonName="yu-user-uy7db8fw7x" /><!-- 나음힐링센터 방태환원장 -->
@@ -130,7 +130,7 @@ head:
 <MyYouTubeItems jsonName="yu-chy65670075" /><!-- 덴트초이 -->
 <MyYouTubeItems jsonName="yu-sebasi15" /><!-- 세바시 강연 Sebasi Talk -->
 <MyYouTubeItems jsonName="yu-carjinnam" /><!-- 카진남 -->
-<MyYouTubeItems jsonName="yu-shortform" /><!-- 짤컷 -->
+<MyYouTubeItems jsonName="yu-짤컷" /><!-- 짤컷 -->
 <MyYouTubeItems jsonName="yu-FrugalRepair" /><!-- FrugalRepair -->
 <MyYouTubeItems jsonName="yu-art_for_you" /><!-- 널 위한 문화예술 -->
 <MyYouTubeItems jsonName="yu-sikbo" /><!-- 이재성 박사의 식탁보감 -->
@@ -161,5 +161,6 @@ head:
 <MyYouTubeItems jsonName="yu-GOODNEWSHVAC" /><!-- 에어컨설치굳뉴스 -->
 <MyYouTubeItems jsonName="yu-어셈블팩토리" /><!-- 어셈블팩토리 -->
 <MyYouTubeItems jsonName="yu-와리가리" /><!-- 와리가리 l WARIGARI -->
+<MyYouTubeItems jsonName="yu-윤툴툴" /><!-- 윤툴툴 -->
 
 <TagLinks />

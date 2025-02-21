@@ -32,7 +32,7 @@ tag:
 <MyYouTubeItems jsonName="yu-ycombinator" /><!-- Y Combinator -->
 <MyYouTubeItems jsonName="yu-devbadak" /><!-- 개발바닥 -->
 <MyYouTubeItems jsonName="yu-codingshrimp" /><!-- 코딩새우 -->
-<MyYouTubeItems jsonName="yu-user-yu8so2ck1z" /><!-- 코딩알려주는누나 -->
+<MyYouTubeItems jsonName="yu-코딩알려주는누나" /><!-- 코딩알려주는누나 -->
 <MyYouTubeItems jsonName="yu-learnwithjason" /><!-- Learn With Jason -->
 <MyYouTubeItems jsonName="yu-heuguchon" /><!-- 흑우촌 -->
 <MyYouTubeItems jsonName="yu-codemunchies" /><!-- Code Munchies -->

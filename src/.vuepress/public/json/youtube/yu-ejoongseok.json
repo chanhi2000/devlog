@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ejoongseok",
+    "name": "이중석",
+    "profile": "https://yt3.googleusercontent.com/W1K_8OA-EV8tGqHET79mCp9Veq8fsleKH0ZV24A9QD62gbrY5wOolC-TAe6yCmvfdJqmpstI2g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_fgWE_KmOO0", "title": "레거시 코드에 새로운 기능을 추가했던 사례-1" },
+    { "id": "Tspovheq264", "title": "레디스 분산 락 활용사례 | 중복 요청 제한 / 비동기 리프레쉬 캐시 구현" },
+    { "id": "fbJqfQUrxTk", "title": "[리팩터링] 레거시 코드 변경 전 리팩터링으로 변경하기 쉬운 코드 만들기" },
+    { "id": "tv6TGaz2wx4", "title": "TDD with ApprovalTest: Develop Spring Boot Applications" }
+  ],
+  "playlists": [
+
+  ]
+}

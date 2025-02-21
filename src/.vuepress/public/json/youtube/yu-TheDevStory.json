@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "TheDevStory",
+    "name": "개발같은소리하네",
+    "profile": "https://yt3.googleusercontent.com/SPJV8Y2rTo1jbx3S5KB-g0WEb16Uy-Y2Ir5Ktu9dNNHrQPT15z5ccJ6qynbgkTO2hQWilcrazg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ym7TmeFSBT43iz0fCLyppchKKGoVPnl-Ou6GMgRjT6kQB4bXrDk098hQrE7cf0PDH-yzExSmo98=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yDHBqDo8bVQ", "title": "브라우저 탭의 메모리 사용량 확인하기" },
+    { "id": "kYDTE7FDr3I", "title": "Javascript와 canvas로 중심을 기준으로 분할되는 그래픽 효과 만들기" },
+    { "id": "Z8sH2MB5KQ8", "title": "CQRS 패턴 쉽게 이해하기" },
+    { "id": "myyDgz-F0r0", "title": "'원을 무한히 나눠 붙이면 정말 직사각형이될까?' 해서 JS로 나눠봄" },
+    { "id": "JZHVV6w-8Ec", "title": "내 프로젝트에 Buymeacoffee 붙이기" },
+    { "id": "9k-z3rxKJA0", "title": "React로 간단한 단어 퀴즈 페이지 만들기" },
+    { "id": "3VZnWkVohpc", "title": "쉽게 따라하는 AWS CLI 설치 와 초기 설정" },
+    { "id": "ZkdMJ5mmi7M", "title": "Javascript로 퍼져나가는 입자 그래픽 만들기" },
+    { "id": "rWec1HzNvug", "title": "Next.js로 블로그 만들고 배포하기" },
+    { "id": "kIhOMp29A60", "title": "IntersectionObserver로 HTML 요소 추적하고 스타일 제어하기" },
+    { "id": "cY4o2q8YHsg", "title": "console.log 메시지 스타일링하기!" },
+    { "id": "gOGGCjfQOS0", "title": "존 도어의 OKR  ( OKR과 CFR알아보기 )" },
+    { "id": "CfrKEmT5PV8", "title": "Clickup으로 Sprint 업무 구조 세팅하기" },
+    { "id": "cBjC4449je8", "title": "해외 웹 서버에 요청을 보내면 구체적으로 어떤 일이 일어날까? (IX, traceroute)" }
+  ],
+  "playlists": [
+
+  ]
+}

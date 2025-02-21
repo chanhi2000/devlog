@@ -52,5 +52,6 @@ head:
 <MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->
 <MyYouTubeItems jsonName="yu-issacdowling" /><!-- Issac Dowling -->
 <MyYouTubeItems jsonName="yu-BrentFarris" /><!-- Brent Farris -->
+<MyYouTubeItems jsonName="yu-golangkorea8237" /><!-- Golang Korea -->
 
 <TagLinks/>

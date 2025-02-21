@@ -1,0 +1,40 @@
+{
+  "channel": {
+    "id": "blender3d-",
+    "name": "블렌더3D",
+    "profile": "https://yt3.googleusercontent.com/01wDsBS_W3nK1s8aYNlUbgaGh9xw7Z9Ci25xQHDS3ME1TfAjYqwOTFod2gKFHTku_dTTkX_C=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fuEGkAP0sW5tKvvawBWLdZET84ACA47wln4txUp5UkbOz1QhlaUkBL6Oo6Kq1SU_2MYMHvs-=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "krGGWuvP9ZQ", "title": "#블렌더4.2 팁 7 - 에디트 모드의 고급 선택기능 (나레이션 없음)" },
+    { "id": "JOUTYCUjCqA", "title": "#블렌더4.1 실무예제 기초_사과 만들기 4 - 모델링 완료 [실무형 고급 튜토리얼]" },
+    { "id": "qWENmkDl4e4", "title": "#블렌더4.2 실무예제 기초_바구니 만들기 1 - 모델링 완료 [실무형 고급 튜토리얼]" },
+    { "id": "W5a8IG06UXo", "title": "#블렌더4.2 실무예제 기초_사과 만들기 5 - 데이터 점검하기 [실무형 고급 튜토리얼]" },
+    { "id": "rhkxDDV4lBk", "title": "#블렌더4.2 툴 2 - Bridge Edge Loops" },
+    { "id": "tCF3b76lueI", "title": "#블렌더4.2 툴 1 - Grid Fill" },
+    { "id": "9yqdTCR7N_4", "title": "#블렌더4.2 툴 3 - Bridge Edge Loops (Full)" },
+    { "id": "2M8Cy97oTjw", "title": "#블렌더4.2 실무예제 기초_사과 만들기 6 - UV 펼치기 [실무형 고급 튜토리얼]" },
+    { "id": "mBOddk6OiwM", "title": "#블렌더4.2 실무예제 기초_사과 만들기 7 - 재질작업 3-1 [실무형 고급 튜토리얼]" },
+    { "id": "fBE8AgXngYQ", "title": "#블렌더4.2 실무예제 기초_사과 만들기 8 - 재질작업 3-2 [실무형 고급 튜토리얼]" },
+    { "id": "swqbenOoDm4", "title": "#블렌더4.2 실무예제 기초_사과 만들기 9 - 재질작업 3-3 [실무형 고급 튜토리얼]" },
+    { "id": "3m5kxEuzjTI", "title": "#블렌더4.2 팁 1 - 마우스 버튼 기본기능" },
+    { "id": "u-T-W6yOQ20", "title": "#블렌더4.2 개념잡기 1 - 오브젝트 모드와 에디트 모드" },
+    { "id": "68n26PBk0t4", "title": "#블렌더4.X Modifier 1 - Screw" },
+    { "id": "ZdV9mBE0Fok", "title": "#블렌더4.X Add-on 1 - Install" },
+    { "id": "jAWI2_33vZI", "title": "#블렌더4.2 툴 4 - Color Ramp 노드" },
+    { "id": "cVi-apFjrA8", "title": "#블렌더4.2 팁 2 - HDRI 월드조명과 기본 렌더 세팅" },
+    { "id": "gJhLOIysFVs", "title": "#블렌더4.2 팁 3 - 워크스페이스 구성하기" },
+    { "id": "fX9b6fBM4zw", "title": "#블렌더4.2 개념잡기 2 - 3D Cursor" },
+    { "id": "s3h5CN7WcHI", "title": "#블렌더4.2 개념잡기 3 - 블렌더 데이터 단위" },
+    { "id": "E1lSwbUrcII", "title": "#블렌더4.2 팁 4 - Layer Textures (나레이션 없음)" },
+    { "id": "Rt-uNFBaOHg", "title": "#블렌더4.2 툴 5 - Mix Node (나레이션 없음)" },
+    { "id": "G5PAfoDPZEQ", "title": "#블렌더4.2 실무예제 기초 강좌_사과 만들기 10 - 사과 재질의 다양한 응용 [실무형 고급 튜토리얼]" },
+    { "id": "3YX6AnVoqeo", "title": "#블렌더4.2 팁 5 - X-Ray 버튼" },
+    { "id": "JB7XIITDFdQ", "title": "#블렌더4.2 개념잡기 4 - Scene Statistics 정보 읽는 법" },
+    { "id": "PAKu33pTAA0", "title": "#블렌더4.2 실무예제 기초강좌_사과 만들기 11 - Texture Baking [실무형 고급 튜토리얼]" },
+    { "id": "O67Jb0d82yQ", "title": "#블렌더4.2 팁 6 - #NumPad 키가 없는 경우" }
+  ],
+  "playlists": [
+
+  ]
+}

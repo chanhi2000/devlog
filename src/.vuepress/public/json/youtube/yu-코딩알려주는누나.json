@@ -1,11 +1,16 @@
 {
   "channel": {
-    "id": "user-yu8so2ck1z",
+    "id": "코딩알려주는누나",
     "name": "코딩알려주는누나",
     "profile": "https://yt3.googleusercontent.com/ytc/AGIKgqMZhgxgBSMwGnm95Y7MCKqHxjjt0hwZbzZvJ56h=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/hnvrPXrMnzIWfh5sBVKzU3gZm9F5EdoVtL-V2Er-gYovHcI5EC3kwBx2DK6O3Vilgqzj3o54QQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8o60gzC4tjQ", "title": "프롬프트 엔지니어는 진짜 직업인가?" },
+    { "id": "-EQVeTGlurY", "title": "리액트 스터디모집 첫 라이브 방송입니당 ♥️ | 첫 별풍 후원 리액션 보러가기" },
+    { "id": "7o97MsGDsbU", "title": "맘에드는 API못 찾았을 때 보세요 | NODEJS 속성강의 👊" },
+    { "id": "MMX8ieAoSOs", "title": "NodeJS + 몽고DB 로 빠르게 백엔드 서비스 만드는 템플릿 알려드림 👊" },
+    { "id": "DkpyIKF6cPQ", "title": "AWS에서 알려주신 핫한 소식들고 날라왔습니다." },
     { "id": "KJo_EQtG8Rw", "title": "컴포넌트 커터마이즈 하기 힘들었던 사람 다 들어와 | 스타일 컴포넌트, 테마 , css module 까지 싹 다 정리해줄게" },
     { "id": "H7wtij7kghE", "title": "NodeJS 그룹프로젝트 하고 싶은 사람 모여라! | 풀스택 개발자 준비 모집! | 리액트 스터디 후기" },
     { "id": "Q2Up3PN0-nM", "title": "국비지원에서 안알려주는 자료구조 | 스택, 큐 , 해시테이블, 연결리스트" },

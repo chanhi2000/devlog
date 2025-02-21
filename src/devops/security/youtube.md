@@ -117,5 +117,6 @@ tag:
 <MyYouTubeItems jsonName="yu-CosmodiumCS" /><!-- Cosmodium CyberSecurity -->
 <MyYouTubeItems jsonName="yu-TechRaj156" /><!-- Tech Raj -->
 <MyYouTubeItems jsonName="yu-sparrowcorp" /><!-- 스패로우 : Sparrow -->
+<MyYouTubeItems jsonName="yu-professorblackops-cybersec1168" /><!-- ProfessorBlackOps - CyberSecurity for the people -->
 
 <TagLinks />

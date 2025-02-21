@@ -1,0 +1,78 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "run (vuepress 실행)",
+        "type": "shell",
+        "command": "npm run dev",
+        "isBackground": true,
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared"
+        },
+        "problemMatcher": [{
+          "owner": "custom",
+          "pattern": {
+            "regexp": "."
+          },
+          "background": {
+            "activeOnStart": true,
+            // "beginsPattern": "Starting the development server...",
+            // "endsPattern": "Compiled successfully!"
+          }
+        }]
+      }, {
+        "label": "build (vuepress 빌드)",
+        "type": "shell",
+        "command": "npm run build",
+        "isBackground": true,
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared"
+        },
+        "problemMatcher": [{
+          "owner": "custom",
+          "pattern": {
+            "regexp": "."
+          },
+          "background": {
+            "activeOnStart": true,
+            // "beginsPattern": "Starting the development server...",
+            // "endsPattern": "Compiled successfully!"
+          }
+        }]
+      }, {
+        "label": "stop (vuepress 종료)",
+        "type": "shell",
+        "command": "",
+        "windows": {
+          "command": "taskkill /F /IM node.exe"
+        },
+        "linux": {
+          "command": "pkill -f 'npm'"
+        },
+        "osx": {
+          "command": "pkill -f 'npm'"
+        },
+        "presentation": {
+          "echo": true,
+          "reveal": "silent",
+          "focus": false,
+          "panel": "shared"
+        },
+        "problemMatcher": []
+      }
+    ],
+    "inputs": [
+    {
+      "id": "terminate",
+      "type": "command",
+      "command": "workbench.action.tasks.terminate",
+      "args": "run-itcloud"
+    }
+  ]
+}

@@ -43,9 +43,11 @@ head:
 
 ## A. Homebrew
 
-### A1. Prerequesite(s)
+::: note Prerequesite(s)
 
-- `terminal`
+`terminal`
+
+:::
 
 ### A2. Guide
 
@@ -97,10 +99,12 @@ brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
 
 ## B. Apps from App Store
 
-### B1. Prerequesite(s)
+::: note Prerequesite(s)
 
 - `App Store`
 - `mas`
+
+:::
 
 ### B2. Guide
 
@@ -220,10 +224,12 @@ mas install 497799835 \
 
 ## C. Oh-My-Zsh
 
-### C1. Prerequesite(s)
+::: note Prerequesite(s)
 
 - `terminal`
 - `zsh`
+
+:::
 
 ### C2. Guide
 
@@ -248,7 +254,7 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 
 ```sh :collapsed-lines title=".zshrc"
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/fnm:$PATH
+export PATH=$HOME/bin:$HOME/.rd/bin:$HOME/.local/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:/opt/homebrew/opt/openvpn/sbin:$PATH
 # for Rancher Desktop
 export DOCKER_HOST=unix:///var/run/docker.sock
 # for Ghostty
@@ -334,11 +340,9 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
 # export MANPATH="/usr/local/man:$MANPATH"
-
 # You may need to manually set your language environment
-# export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -356,21 +360,23 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
+alias zshconf="vi ~/.zshrc"
+alias zshset=source ~/.zshrc
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Configure NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && . "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
 [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && . "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
+export NODE_OPTIONS=--openssl-legacy-provider --max_old_space_size=16384
+# 18이상일 경우
 
 # My alias
 #
 # m3u8Get $1 $2 
 # $1: m3u8 file to download from
 # $2: output file name
-alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    nsions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
+alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_extensions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
 alias startKVM='brew services start libvirt'
 alias stopKVM='brew services stop libvirt'
 alias ghostty-config="vi $GHOSTTY_CONFIG"
@@ -385,6 +391,11 @@ lg() {
     rm -f $LAZYGIT_NEW_DIR_FILE > /dev/null
   fi
 }
+# Configure Dev
+export PATH_DEV=$HOME/../Shared/development
+alias cdd='cd $PATH_DEV'
+alias cddi='cd $PATH_DEV/ititcloud'
+alias cddc='cd $PATH_DEV/chanhi2000'
 
 # launch starship.sh
 eval "$(starship init zsh)"

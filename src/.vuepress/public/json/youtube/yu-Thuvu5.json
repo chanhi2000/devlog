@@ -1,11 +1,15 @@
 {
   "channel": {
     "id": "Thuvu5",
-    "name": "Thu Vu data analytics",
+    "name": "Thu Vu",
     "profile": "https://yt3.googleusercontent.com/s3HLl-uzqEaqww2tkWKgjLFfgoe2NUsu4tRLm7g5TOScMK3aqOl1wGhar3yZRa1VH4BK3rzHyg=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/MIB_6NqF866L9SP2gi54OTE6aP6gkE-nfmon02lgm4NYYObxNqACkVbEN2YtmBiRD5nT1w3L=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "fO80iIHkr9M", "title": "I tested DeepSeek vs. OpenAI-o1 for data science tasks: Here’s what I found." },
+    { "id": "rI1FcpKi0Lc", "title": "7 AI Project Ideas For Your Portfolio (Beginner - Advanced)" },
+    { "id": "iuO2D5nz_AE", "title": "I Studied Data Job Trends for 24 Hours to Save Your Career! (ft Datalore)" },
+    { "id": "EFUE4DHiAPM", "title": "Extracting Structured Data From PDFs | Full Python AI project for beginners (ft Docker)" },
     { "id": "nd4oG280ifg", "title": "I wasn't worried about climate change.. until I saw THIS" },
     { "id": "qwQppK3yJvM", "title": "Is It Too Late To Become a Data Analyst?  | CareerFoundry Webinar" },
     { "id": "2Cj2-6TrbP8", "title": "How I found time for everything with a fulltime job" },

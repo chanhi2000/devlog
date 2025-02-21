@@ -18,7 +18,7 @@ tag:
   - xlsx
   - "@easy_sheets"
   - "@oppadu"
-  - "@gongysd"
+  - "@공여사들"
   - "@excelisfun"
   - "@LeilaGharani"
   - "@MyOnlineTrainingHub"
@@ -66,7 +66,7 @@ head:
 
 <MyYouTubeItems jsonName="yu-easy_sheets" /><!-- Easy Sheets -->
 <MyYouTubeItems jsonName="yu-oppadu" /><!-- 오빠두엑셀 | 엑셀 강의 대표채널 -->
-<MyYouTubeItems jsonName="yu-gongysd" /><!-- 공여사들 -->
+<MyYouTubeItems jsonName="yu-공여사들" /><!-- 공여사들 -->
 <MyYouTubeItems jsonName="yu-excelisfun" /><!-- ExcelIsFun -->
 <MyYouTubeItems jsonName="yu-LeilaGharani" /><!-- Leila Gharani -->
 <MyYouTubeItems jsonName="yu-MyOnlineTrainingHub" /><!-- MyOnlineTrainingHub -->

@@ -133,7 +133,7 @@ dist
 .pnp.*
 
 *.proflaw
-awesome-devblog-*-*-*.md
-geek-*-*-*.md
-devo-*-*-*.json
-jhrogue-*.md
+# awesome-devblog-*-*-*.md
+# geek-*-*-*.md
+# devo-*-*-*.json
+# jhrogue-*.md

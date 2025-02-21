@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "codemod3d",
+    "name": "CODEMOD 코드모드",
+    "profile": "https://yt3.googleusercontent.com/1o1rsS-Mid1LMZ7A8Vw-uVkhLpPjGmC9PP2wy_ARgBXShXUBZnLwwIFeOPufyil4ezudWEfJeg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AyOLoc8po-iC-0wPhGVj8leyWzNQwzCI2yreatT2GNZRkuyLXu2qz9aggC16JvtDZFIweJuH=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZHtyylQBJ-w", "title": "[타임랩스] 포켓몬스터 아보 푸른 뱀으로 변신시키기 | 코드모드" },
+    { "id": "5RnBYmGqBco", "title": "[블렌더 기초 강좌] 노드 만으로 비눗방울 만들기! | 코드모드" },
+    { "id": "Neu2B9qZeC8", "title": "[Timelapse] How I made this cake! | Codemod" },
+    { "id": "3Fbe09YkgRE", "title": "[블렌더 기초 강좌] 반짝반짝 빛나는 크리스마스 트리 만들기! | 코드모드" },
+    { "id": "TVuuVGze1aA", "title": "[블렌더 기초 강좌] 4.1 버전 새로운 것들 특히 auto smooth! | 코드모드" },
+    { "id": "GSGGhImpldM", "title": "[Blender 3D Tutorial] Loading Screen Animation | Codemod" },
+    { "id": "-_-H1OWRnLA", "title": "[Blender Beginner Tutorial] Magical Sphere & Magical Book | Codemod" },
+    { "id": "3yDYSm8tG44", "title": "A Furry Monster | How to make character in Blender | Codemod" },
+    { "id": "gWBUhlB04HY", "title": "[인프런] 친절한 블렌더 - Level 1 기초 모델링 강의 OPEN ✨ | 코드모드" },
+    { "id": "t8SoogI319k", "title": "[인프런] 친절한 블렌더 - Level 3 캐릭터 애니메이션 강의 | 코드모드" },
+    { "id": "XGZ-TJmgFt4", "title": "[블렌더 기초 강좌] 캐릭터 리깅 포기하지 말고 이거 한 번만 봐! 머리 아픈 거 정리해줄게! (리깅 메타리그 제너리그 리기파이 IK FK) | 코드모드" },
+    { "id": "I5lAZPVnmSE", "title": "[블렌더 기초 강좌] 4.2 버전 초보자를 위한 애드온 정리 | 코드모드" }
+  ],
+  "playlists": [
+
+  ]
+}

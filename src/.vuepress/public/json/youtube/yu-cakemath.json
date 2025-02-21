@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "cakemath",
+    "name": "케익 수학",
+    "profile": "https://yt3.googleusercontent.com/i7c321a8MOFmnO05Ke3C0wQNI7N8sL9Qhx1733odW1c3G6v1tzwGyf_rlsScTz0O3nli3XnMjaQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IiRyMA3FX_OcUqvoM1qxS5bBcI2cwChXzXY6t3dyh1P60PY8IMMDj_gtj4zMyFvlyXmaQktKAg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "S9iCgDxi6Fg", "title": "심심할 때 풀어보는 수학 문제 - 경우의 수" },
+    { "id": "tNx4_etfAqk", "title": "심심할 때 풀어보는 수학 문제 - 각의 크기" },
+    { "id": "VNcYoc-gIAI", "title": "심심할 때 풀어보는 문제 - 시청자분들의 풀이들" },
+    { "id": "-mjVDCbh164", "title": "심심할 때 풀어보는 수학 문제 - 입체도형" },
+    { "id": "2nqmOfRUJDI", "title": "심심할 때 풀어보는 문제 - 도형의 둘레" },
+    { "id": "k1FhGe22sJM", "title": "심심할 때 풀어보는 문제 - 원의 접선과 삼각형" },
+    { "id": "tQ7VwDZEBVg", "title": "심심할 때 풀어보는 문제 - 원과 별" },
+    { "id": "usQ3n-pBNw8", "title": "심심할 때 풀어보는 문제 - 함수값" },
+    { "id": "Jp1sGHQT2HQ", "title": "심심할 때 풀어보는 문제 - 도형의 넓이" },
+    { "id": "iUv_BGc_-Xs", "title": "심심할 때 풀어보는 수학 문제 - 가우스 함수의 정적분" },
+    { "id": "12bpqOtBSq4", "title": "심심할 때 풀어보는 문제 - 무리방정식" },
+    { "id": "OV4siMg2ogI", "title": "2024년 고3 7월 모의고사 13번 도형 문제" },
+    { "id": "OmiF8J11ZTQ", "title": "심심할 때 풀어보는 수학 문제 - 이과 vs 문과" },
+    { "id": "ScVEw5di1PA", "title": "심심할 때 풀어보는 수학 문제" },
+    { "id": "ahbynzvfUXw", "title": "심심할 때 풀어보는 수학 문제 - 중학도형의 결정체" },
+    { "id": "UPDGgw60kCo", "title": "심심할 때 풀어보는 수학 문제 - 조합" },
+    { "id": "rksKxun8bJw", "title": "심심할 때 풀어보는 수학 문제" },
+    { "id": "d3yqLANuCkw", "title": "심심할 때 풀어보는 문제 - 어떤 방법으로 해볼까? (feat. 3차방정식과 4차방정식 근을 찍는 방법)" },
+    { "id": "am5shWiNHB8", "title": "심심할 때 풀어보는 문제 - 현의 길이" },
+    { "id": "gsLRbWIkmic", "title": "심심할 때 풀어보는 문제 - 식의 값" },
+    { "id": "zWJDh_Lh5YE", "title": "심심할 때 풀어보는 문제 - 각의 이등분선의 길이" },
+    { "id": "gV0uEwqnnwE", "title": "심심할 때 풀어보는 문제 - 원의 반지름" },
+    { "id": "QLEY3s72mRE", "title": "심심할 때 풀어보는 문제 - 각의 크기" },
+    { "id": "2rX9Ji6BR88", "title": "심심할 때 풀어보는 문제 - 도형의 넓이" },
+    { "id": "3h34w08XtnI", "title": "심심할 때 풀어보는 문제 - 부정방정식" },
+    { "id": "yZk60p6-JwU", "title": "심심할 때 풀어보는 문제 - 변의 길이" },
+    { "id": "JGPoU2_JXQ0", "title": "심심할 때 풀어보는 문제" },
+    { "id": "k_YxmIsHKX4", "title": "심심할 때 풀어보는 문제 - 혼합방정식" }
+  ],
+  "playlists": [
+
+  ]
+}

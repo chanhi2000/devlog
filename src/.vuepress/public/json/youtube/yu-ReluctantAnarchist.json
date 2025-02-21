@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "ReluctantAnarchist",
+    "name": "Reluctant Anarchist",
+    "profile": "https://yt3.googleusercontent.com/dihrbuSep2atj7VKUcS_gXWjp-U3zqE7DXk2FLqHeo_O5Vv5crAlVbXhAwv_pxauQ-3wwGG0ir4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1qd-iVSqlHAnVDbuNgQQLPqfqtbIcuFPyNQN9zBrFyrI0jZj25zGZ-BAXlUuv072s6XMuH3Z=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jKG0Qabkl9Y", "title": "How to Git Gud at Linux!" },
+    { "id": "Jlldod6S7-s", "title": "Linux App Centers Are Fundamentally Broken!" },
+    { "id": "w8-cbMuj5bY", "title": "GTA V and Battlefield 1 Are Now Broken on Linux!" }
+  ],
+  "playlists": [
+
+  ]
+}

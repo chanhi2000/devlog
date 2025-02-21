@@ -30,5 +30,6 @@ head:
 <MyYouTubeItems jsonName="yu-머니버디" /><!-- 머니버디 -->
 <MyYouTubeItems jsonName="yu-오늘부터회계사" /><!-- 오늘부터 회계사 -->
 <MyYouTubeItems jsonName="yu-talentinvestment" /><!-- 달란트투자 -->
+<MyYouTubeItems jsonName="yu-TV-lb7cv" /><!-- 창원개미TV -->
 
 <TagLinks />

@@ -34,12 +34,13 @@ head:
 <MyYouTubeItems jsonName="yu-K-nammae" /><!-- 만원요리 최씨남매 -->
 <MyYouTubeItems jsonName="yu-SIMPLEC00KING" /><!-- 자취요리신 simple cooking -->
 <MyYouTubeItems jsonName="yu-user-pm2ui1pu4p" /><!-- 요리는즐거워 -->
-<MyYouTubeItems jsonName="yu-mannarecipe" /><!-- 함께해요 맛나요리 -->
+<MyYouTubeItems jsonName="yu-함께해요_맛나요리" /><!-- 함께해요 맛나요리 -->
 <MyYouTubeItems jsonName="yu-someandcook" /><!-- 썸앤쿡 -->
 <MyYouTubeItems jsonName="yu-cook5162" /><!-- 이 남자의 cook -->
 <MyYouTubeItems jsonName="yu-kime_kitchen" /><!-- 키메키친 Kime_kitchen -->
 <MyYouTubeItems jsonName="yu-SenpaiKai9000" /><!-- Senpai Kai -->
 <MyYouTubeItems jsonName="yu-jangnamcook" /><!-- 첫째아들 -->
 <MyYouTubeItems jsonName="yu-anhdaubep" /><!-- Anh Đầu Bếp -->
+<MyYouTubeItems jsonName="yu-첫째아들" /><!-- 첫째아들 -->
 
 <TagLinks />

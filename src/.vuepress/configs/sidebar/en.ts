@@ -127,6 +127,7 @@ export const sidebarEn = sidebar({
       children: [
         '/programming/git/README.md',
         '/programming/git/basics.md',
+        '/programming/git/env-setup.md',
         '/programming/git/references.md',
         '/programming/git/youtube.md',
         {

@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/ScUSzzYyaDsVVjCsBNnZAJS82j78cmL3oGLPS-v-i2kYhBNuHTJs1UIm6lGKk-APU5obTBFBIik=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "r01C-bhFnkc", "title": "커넥션 풀 - IT 용어 사전 / 데이터베이스 / 고급" },
     { "id": "36lpDzQzVXs", "title": "JWT" },
     { "id": "yZ89etxVBKs", "title": "Supabase - 인증과 Serverless App 구현하기" },
     { "id": "FbLzqoENTsg", "title": "Supabase 입문수업" },

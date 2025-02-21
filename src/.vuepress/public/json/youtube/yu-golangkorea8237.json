@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "golangkorea8237",
+    "name": "Golang Korea",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nnbHAcyT8HctsfeI8DEOgWqPLNp1c2nHeipAYpHGGJGQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "zdMuLvK0pNg", "title": "DAY1_GopherCon Korea 2024" },
+    { "id": "DEZsPOSzNM0", "title": "DAY2_Gophercon Korea 2024" },
+    { "id": "sUbWWplg9Iw", "title": "Profiling and Tracing Tips in Go:OLAP 데이터베이스를 개발하며 얻은 교훈 - 박재완, AB180 | GopherCon Korea 2023" },
+    { "id": "o844Ghyjfnw", "title": "컨텍스트를 이용한 상태 관리 - 권용민, AfreecaTV | GopherCon Korea 2023" },
+    { "id": "l42VTNbWKaI", "title": "AWS Lambda in Go (with Kafka) - 김수빈, 비바리퍼블리카 | GopherCon Korea 2023" },
+    { "id": "iZuKawFBo98", "title": "2일차 오프닝 | GopherCon Korea 2023" },
+    { "id": "gTw7gTJ4r2Y", "title": "Scenario Tester : 인수 테스트 자동화로 자신감, 생산성 높이기 - 김재원, AB180 | GopherCon Korea 2023" },
+    { "id": "YoG7ac5w6Mg", "title": "Go와 K8S로 만드는 Datacenter Autopilot - 현대자동차 | GopherCon Korea 2023" },
+    { "id": "Wzge0hb_MSE", "title": "eBPF 도구를 이용해 Go 애플리케이션 추적하기 - 임찬식, 라인플러스 | GopherCon Korea 2023" },
+    { "id": "U5AQkycrvaU", "title": "Golang으로 서버 모니터링 툴 개발 - 최정민, 와탭랩스 | GopherCon Korea 2023" },
+    { "id": "E3wlHv6GZUM", "title": "I/O Extended Incheon Songdo Keynote" },
+    { "id": "NT1oJBWzuVU", "title": "I/O Extended incheon songdo keyote" },
+    { "id": "ssAAtPO5YF4", "title": "I/O Extended Songdo Keynote" }
+  ],
+  "playlists": [
+
+  ]
+}

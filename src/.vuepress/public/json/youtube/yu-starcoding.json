@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/AZuSUyV7xarFy_h2eWqsg3Ytl_HRKXus9ZTs5l5uAipWZc7Jv-jkn0241rRDAUu0L0hvjJwMmg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ibjT9DklAv8", "title": "프로 HTML러 들은 시맨틱 태그 쓴다 | Semantic Tags" },
+    { "id": "gA705dYeBZE", "title": "현직 웹 개발자가 쓰는 VS Code 익스텐션 모음 | 비쥬얼 스튜디오 코드" },
+    { "id": "YS8sWZ-XoyY", "title": "폰트 크기 px로 하면 접근성 망할지도 | em rem 단위" },
+    { "id": "IVa-FBHMUu4", "title": "리액트 디바운스 - Debounce로 서버 비용 아끼는법 | React Custom Hook" },
+    { "id": "X5Ww0Yhr7lM", "title": "리액트 쓰로틀링 - 함수도 쿨타임이 필요하다 | Throttle | React Custom Hook" },
+    { "id": "oAAtCF-W1d8", "title": "자바스크립트 console 맛있게 쓰는법 | 디버깅 꿀팁 8가지" },
+    { "id": "muQHAhjk1kw", "title": "HTML로 이런것도? | 달달한 HTML 태그 7가지" },
+    { "id": "8wVfTcZBdMM", "title": "자바스크립트는 멀티스레드 일지도? | Web Workers 웹 워커" },
     { "id": "DtF5ElqveFg", "title": "자바스크립트 구조분해할당 완벽정리 | 배열, 객체 | 꿀팁 포함" },
     { "id": "y0vhpilNSKo", "title": "React Hooks에 취한다 - useId 세상에서 제일 쉬운 리액트 훅" },
     { "id": "Svu0E-LbA4o", "title": "React Hooks에 취한다 - useLayoutEffect 누가 안알려주면 절대 모르는 훅" }
