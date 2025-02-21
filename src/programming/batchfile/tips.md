@@ -58,7 +58,7 @@ POWERCFG /hibernate off
 POWERCFG -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
 
-@tab BCDEDIT
+@tab <code>BCDEDIT</code>
 
 ```batch
 :: 프리징 현상 해결
@@ -69,7 +69,7 @@ BCDEDIT /set {default} bootmenupolicy legacy
 BCDEDIT /set {default} bootmenupolicy standard
 ```
 
-@tab REG
+@tab <code>REG</code>
 
 ```batch
 :: 윈도우 시리얼번호 확인
@@ -80,11 +80,20 @@ REG add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Exte
 REG add "HKEY_CURRENT_USER\Control Panel\Desktop" /v "JPEGImportQuality" /t REG_DWORD /d "100" /f
 ```
 
-@tab SFC
+@tab <code>SFC</code>
 
 ```batch
 :: 시스템 파일 검사기 도구
 SFC /scannow
+```
+
+@tab <code>NETSH</code>
+
+```batch
+:: 노출 된 WiFi 목록 출력
+NETSH wlan show profiles
+:: 연결 된 WiFi 상세정보 보기 (비번포함)
+NETSH wlan show profile name="Wi-F name" key=clear
 ```
 
 @tab Others

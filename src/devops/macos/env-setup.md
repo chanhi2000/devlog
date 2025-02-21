@@ -370,7 +370,7 @@ export NODE_OPTIONS=--openssl-legacy-provider # 18이상일 경우
 # m3u8Get $1 $2 
 # $1: m3u8 file to download from
 # $2: output file name
-alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_exte    nsions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
+alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_extensions ALL -i $1 -bsf:a aac_adtstoasc -c copy $2; unset -f f; }; f'
 alias startKVM='brew services start libvirt'
 alias stopKVM='brew services stop libvirt'
 alias ghostty-config="vi $GHOSTTY_CONFIG"
