@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "coding2go",
+    "name": "Coding2GO",
+    "profile": "https://yt3.googleusercontent.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HGPc17FjOi6FfvMQEQf-BxMKA4oMXx0CXc43qqt6AX4cIoYYDxhO6gkiDfJwBZMjQzjBuWwv=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "v0o1kV-qfVI", "title": "Learn GRID-AREA to Build Amazing BENTO GRIDS | CSS Tutorial" },
+    { "id": "2IV08sP9m3U", "title": "5 CSS Tips & Tricks for better Responsive Web Design" },
+    { "id": "gRpRSYhXDGc", "title": "Learn CSS Nesting in 4 Minutes (Pros & Cons)" },
+    { "id": "m7YDWNz65iI", "title": "Build Navbar Menus That Actually Work for Everyone" },
+    { "id": "F_0rS5DDi3M", "title": "How I Code INSANELY FAST in VS Code - Emmet Tutorial" },
+    { "id": "_bOoM0S7zF8", "title": "Avoid THESE 5 JavaScript Beginner MISTAKES" },
+    { "id": "JP2VkfYF5HU", "title": "Why you should start using ARIA Attributes in HTML" },
+    { "id": "ZOK-DU7vT0A", "title": "The most popular Flexbox property explained in 4 Minutes | CSS flex shorthand" },
+    { "id": "qJpA6qiJoWs", "title": "Why I don't use flex-wrap anymore (and what to use instead)" },
+    { "id": "i_8NQuEAOmg", "title": "Learn JavaScript EventListeners in 4 Minutes" },
+    { "id": "okd8uqC8Jxs", "title": "BIG NEWS \"How to Center a Div\" finally answered (new css property)" },
+    { "id": "dIUOWdwwZBw", "title": "Learn CSS ::before and ::after in 4 Minutes" },
+    { "id": "YEmdHbQBCSQ", "title": "Learn CSS Positions in 4 minutes" },
+    { "id": "z2LQYsZhsFw", "title": "Learn CSS Animations in 9 Minutes" },
+    { "id": "PL3Odw-k8W4", "title": "These CSS PRO Tips & Tricks Will Blow Your Mind!" },
+    { "id": "THEKW1gITJI", "title": "Build & Deploy a TODO APP with JavaScript" },
+    { "id": "8eFeIFKAKHw", "title": "Create a RESPONSIVE NAVBAR with sidebar animation (CSS ONLY)" },
+    { "id": "PTVXnOrQoBQ", "title": "How to create a GRADIENT BORDER in CSS Tutorial" },
+    { "id": "bVl5_UdcAy0", "title": "Login & Signup with HTML, CSS, JavaScript (form validation)" },
+    { "id": "-pQZLQakz-c", "title": "Learn CSS :not() and :has() selector in 6 Minutes" },
+    { "id": "ezP4kbOvs_E", "title": "Learn CSS Border Animations in 6 Minutes" },
+    { "id": "_gKEUYarehE", "title": "Create a Dark Mode Switch with HTML, CSS, JavaScript" },
+    { "id": "Iy-h9EM6Ypk", "title": "Learn CSS in 7 Days | Course Announcement" },
+    { "id": "wsTv9y931o8", "title": "Learn CSS Flexbox in 20 Minutes (Course)" },
+    { "id": "3T0gjtXRNC0", "title": "Create Responsive CSS Grid Layouts with GRID WRAPPING" },
+    { "id": "UQKWc2r_41U", "title": "The Perfect Addition to your Website! | Animated Social Media Icons HTML & CSS Tutorial" },
+    { "id": "S9OiWe5iBYo", "title": "How to create RESPONSIVE Layouts with CSS GRID" },
+    { "id": "R7b3OlEyqug", "title": "Build a Responsive Sidebar Menu with Animated Dropdowns | HTML CSS JavaScript Project" },
+    { "id": "K_CxaSPjd1c", "title": "Javascript forEach method explained in 4 Minutes for beginners" },
+    { "id": "do3a2tmlabw", "title": "JavaScript Arrays Crash Course Tutorial for beginners" }
+  ],
+  "playlists": [
+
+  ]
+}

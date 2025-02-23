@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/5o87hDgbmQ5PqIdAGIW3KAqCiTzoxz0n-NrtqiV_5fOY84osjoOES9rHiMZitKMVQXt3vvV2=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "eMuGHXMjJTU", "title": "Q&A January 2025 (live version)" },
+    { "id": "4zoQ0sGRw3M", "title": "Open Source Maintenance" },
+    { "id": "4zoQ0sGRw3M", "title": "Open Source Maintenance, 2024-07-14 (live version)" },
+    { "id": "_r8q0ulTN70", "title": "Open Source Maintenance, 2024-07-14" },
+    { "id": "FdZmJ0DAmn4", "title": "impl Rust: Build your own Interpreter" },
+    { "id": "FdZmJ0DAmn4", "title": "Implementing a Lox interpreter in Rust (live version)" },
+    { "id": "mNOLaw-_Buc", "title": "Implementing a Lox interpreter in Rust" },
+    { "id": "53JgWT9Ugg8", "title": "Decrusting the quickcheck crate (live version)" },
+    { "id": "64t-gPC33cc", "title": "Decrusting the quickcheck crate" },
     { "id": "YlTyZvpaywQ", "title": "Decrusting the tokio crate (live version)" },
     { "id": "o2ob8zkeq2s", "title": "Decrusting the tokio crate" },
     { "id": "VpSXTJXX1YA", "title": "What's New in Rust 1.72-1.78 Rustacean Station marathon" },

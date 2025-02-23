@@ -333,4 +333,13 @@ head:
 
 ---
 
+## Never test
+
+- [폴 크루그먼의 뉴욕 타임즈 마지막 칼럼](https://lovemewithoutall.github.io/life/paul-krugman/)
+- [한국 경제를 만든 빅딜](https://lovemewithoutall.github.io/economy/korean-big-deal/)
+
+<!-- END: lovemewithoutall.github.io -->
+
+---
+
 <TagLinks />

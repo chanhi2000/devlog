@@ -17,6 +17,14 @@ tag:
   - reactnative
   - facebook
   - meta
+head:
+  - - meta:
+    - property: og:title
+      content: React.js
+    - property: og:description
+      content: React.js
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-react/
 ---
 
 # {{ $frontmatter.description }} 관련

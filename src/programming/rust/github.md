@@ -16,7 +16,7 @@ head:
     - property: og:title
       content: Rust > Github
     - property: og:description
-      content: Rust > Github
+      content: Github
     - property: og:url
       content: https://chanhi2000.github.io/programming/rust/github.html
 ---

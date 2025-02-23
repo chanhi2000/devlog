@@ -39,5 +39,6 @@ head:
 <MyYouTubeItems jsonName="yu-IulianPistolDesign" /><!-- Iulian Pistol -->
 <MyYouTubeItems jsonName="yu-jejucodingcamp" /><!-- 제주코딩베이스캠프 -->
 <MyYouTubeItems jsonName="yu-TDSunshine" /><!-- TD Sunshine -->
+<MyYouTubeItems jsonName="yu-Figma" /><!-- Figma -->
 
 <TagLinks />

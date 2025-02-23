@@ -10,6 +10,14 @@ tag:
   - rust
   - rs
   - rust-lang
+head:
+  - - meta:
+    - property: og:title
+      content: Rust > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/rust/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -512,8 +520,17 @@ tag:
 ## 상구리의 기술 블로그
 
 - [Rust – 문법 정리](https://skyer9.pe.kr/wordpress/?p=8054)
+- [Rust 기초 강좌](https://skyer9.pe.kr/wordpress/?p=9772)
 
 <!-- END: skyer9.pe.kr -->
+
+---
+
+## GIS Developer
+
+- [cargo 옵션](http://gisdeveloper.co.kr/?p=15498)
+
+<!-- END: gisdeveloper.co.kr -->
 
 ---
 

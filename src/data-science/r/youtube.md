@@ -20,5 +20,6 @@ tag:
 
 <MyYouTubeItems jsonName="yu-EquitableEquations" /><!-- Equitable Equations -->
 <MyYouTubeItems jsonName="yu-perpear1" /><!-- 코딩형 -->
+<MyYouTubeItems jsonName="yu-useRConference_global" /><!-- useR! Conference -->
 
 <TagLinks />

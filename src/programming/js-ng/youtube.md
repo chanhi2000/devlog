@@ -22,7 +22,7 @@ head:
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-angular/youtube.html
+      content: https://chanhi2000.github.io/programming/js-ng/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -36,5 +36,6 @@ head:
 <MyYouTubeItems jsonName="yu-JamiltonQO" /><!-- Jamilton Quintero Osorio -->
 <MyYouTubeItems jsonName="yu-OpenSauced" /><!-- The Secret Sauce -->
 <MyYouTubeItems jsonName="yu-LearningPartnerDigital" /><!-- Learning Partner -->
+<MyYouTubeItems jsonName="yu-deborah_kurata" /><!-- Deborah Kurata -->
 
 <TagLinks />

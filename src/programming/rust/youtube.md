@@ -7,13 +7,21 @@ category:
   - Rust
   - Youtube
 tag: 
-  - education
-  - youtube
-  - yt
   - programming
   - rust
   - rs
   - rust-lang
+  - education
+  - youtube
+  - yt
+head:
+  - - meta:
+    - property: og:title
+      content: Rust > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/rust/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

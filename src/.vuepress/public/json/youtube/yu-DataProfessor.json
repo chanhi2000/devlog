@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/4JVV8aRfLubhGjWstVFTwgtQxE60oKAGrpz7UvsHFXDegz-6WAK3gI_ys8KgcTNbVTKsebFpUsg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "bUr-Y0969V4", "title": "From DNA to UI: Connecting the Dots between Theory and Application in Bioinformatics" },
+    { "id": "KYfce1X5CXw", "title": "Code Your Own Multilingual AI in Python that speaks 32 languages" },
+    { "id": "RWBSd4Vh-90", "title": "Building a YouTube AI assistant for content creators with Python" },
+    { "id": "PytsxNfR8GI", "title": "Using Google Colab for Data Science and AI" },
+    { "id": "y0XaQn-EnBA", "title": "Data Science Podcast with Sebastian Flores" },
+    { "id": "2PI0N_F0OiU", "title": "Exploring Data Science Salaries Using R and the tidyverse" },
+    { "id": "8zqChJTnmrU", "title": "Data Storytelling in Python" },
+    { "id": "-DTkPKd74tg", "title": "Code your own YouTube AI assistant in Python" },
     { "id": "29ZQ3TDGgRQ", "title": "Build your first machine learning model in Python" }
   ],
   "playlists": []

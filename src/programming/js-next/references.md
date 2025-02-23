@@ -266,6 +266,7 @@ head:
 - [Next.js dynamic route의 에러 처리](https://lovemewithoutall.github.io/it/nextjs-dynamic-route-error-handling/)
 - [Next.js 14 parallel route 오류 해결법](https://lovemewithoutall.github.io/it/nextjs-parallel-route-error/)
 - [next.js dynamic import](https://lovemewithoutall.github.io/it/nextjs-no-dynamic-import/)
+- [next.js 14에서 jest를 추가하기 위한 방법](https://lovemewithoutall.github.io/it/next.js-jest/)
 
 <!-- END: lovemewithoutall.github.io -->
 

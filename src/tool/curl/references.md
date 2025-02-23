@@ -71,4 +71,12 @@ head:
 
 ---
 
+## 상구리의 기술 블로그
+
+- [curl – 사설 인증서 접속하기](https://skyer9.pe.kr/wordpress/?p=9646)
+
+<!-- END: skyer9.pe.kr -->
+
+---
+
 <TagLinks />

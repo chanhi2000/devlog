@@ -104,4 +104,12 @@ head:
 
 ---
 
+## DSChloe
+
+- [LangChain with Streamlit 논문요약 예제](https://dschloe.github.io/python/2025/02/langchain_streamlit/)
+
+<!-- END: dschloe.github.io -->
+
+---
+
 <TagLinks />

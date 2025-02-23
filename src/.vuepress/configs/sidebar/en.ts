@@ -627,15 +627,15 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-angular',
       children: [
-        '/programming/js-angular/README.md',
-        '/programming/js-angular/references.md',
-        '/programming/js-angular/youtube.md',
+        '/programming/js-ng/README.md',
+        '/programming/js-ng/references.md',
+        '/programming/js-ng/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/js-angular/articles/README.md',
+            '/programming/js-ng/articles/README.md',
             asb.freecodecamp("js-angular"),
             asb.codemaze("js-angular"),
           ]

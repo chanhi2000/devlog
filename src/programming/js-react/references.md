@@ -369,6 +369,12 @@ head:
 - [`hj0216` / 이모저모 개발 블로그](https://hj0216.tistory.com/m/)
   - [\[커피 월드컵\] React에서 사용한 기술 정리](https://hj0216.tistory.com/m/974)
   <!-- END: hj0216 -->
+- [`serpiko` / 머리가 나뻐서 삽질 SAP(Study And Programming)](https://serpiko.tistory.com/m/)
+  - [React Hook Form (useState-less 패턴)](https://serpiko.tistory.com/m/903)
+  - [React Hook Form: FormProvider-`useFormContext`](https://serpiko.tistory.com/m/904)
+  - [react using state when you don't need it](https://serpiko.tistory.com/m/905)
+  - [grafana in react](https://serpiko.tistory.com/m/907)
+  <!-- END: serpiko -->
 <!-- END: tistory.com -->
 
 ---
@@ -783,14 +789,6 @@ head:
 ## Never test
 
 - [숫자를 빠르게 변경시키는 커스텀 훅(feat. React)](https://lovemewithoutall.github.io/it/react-rolling-number/)
-
----
-
-## serpiko
-
-- [React Hook Form (useState-less 패턴)](https://serpiko.tistory.com/903)
-- [React Hook Form: FormProvider-`useFormContext`](https://serpiko.tistory.com/904)
-- [react using state when you don't need it](https://serpiko.tistory.com/905)
 
 ---
 
@@ -1315,6 +1313,14 @@ https://o-yeon.tistory.com/227
 - [5 tips to effectively optimize INP in React](https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/)
 
 <!-- END: calendar.perfplanet.com -->
+
+---
+
+## GIS Developer
+
+- [React, 모바일 여부 확인을 위한 Hook](https://gisdeveloper.co.kr/?p=15635)
+
+<!-- END: gisdeveloper.co.kr -->
 
 ---
 

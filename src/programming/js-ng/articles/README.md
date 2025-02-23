@@ -24,7 +24,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-angular/articles/
+      content: https://chanhi2000.github.io/programming/js-ng/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

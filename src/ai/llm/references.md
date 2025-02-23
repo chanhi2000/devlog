@@ -671,4 +671,12 @@ head:
 
 ---
 
+## DSChloe
+
+- [HuggingFace Login on Google Colab](https://dschloe.github.io/settings/2025/googlecolab_huggingface_login/)
+- [Kaggle ML Submission 클래스 만들기](https://dschloe.github.io/settings/2024/12/kaggle_submission_class_sample/)
+- [Nasdaq Data Link를 활용한 데이터 수집](https://dschloe.github.io/settings/2024/12/nasdaq_get_data_sample/)
+
+<!-- END: dschloe.github.io -->
+
 <TagLinks/>

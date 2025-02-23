@@ -43,4 +43,12 @@ head:
 
 ---
 
+## DSChloe
+
+- [OpenAI Whisper 사용 위한 ffmpeg 설치](https://dschloe.github.io/settings/2025/02/ffmpeg_install/)
+
+<!-- END: dschloe.github.io -->
+
+---
+
 <TagLinks />

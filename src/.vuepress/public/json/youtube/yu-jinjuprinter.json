@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "jinjuprinter",
+    "name": "JinjuPrinter",
+    "profile": "https://yt3.googleusercontent.com/3vg1ojg8XZOXWgzaFPn3Vq-dt7gsmtOiai8N1LWUvhVLuQasvPqKIVby55W-srgljg5IJ2FM1w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/SPOuM2yyLNopTjjMjw7Qmq7KitdroBxJFjkn90JzfrLeKcHJM3gqZ_-2UOnDerHd04oB0pkCrw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HRix0XrOY4Q", "title": "GPT-4o 대박 활용 l 놀라움을 안겨준 기능" },
+    { "id": "V8Cq0akwpFo", "title": "FREE data analyzing with GPT-4o" },
+    { "id": "iZtTVIpGzSI", "title": "누구나 쉽게 할 수 있는 복사기 색보정 하는방법 (초딩도 가능)" }
+  ],
+  "playlists": [
+
+  ]
+}

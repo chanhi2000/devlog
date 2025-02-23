@@ -89,9 +89,9 @@ brew install --cask airflow alt-tab appcleaner chatgpt cheatsheet  \
   dbeaver-community dockdoor rancher eul flameshot flipper font-jetbrains-mono-nerd-font \
   ghostty grandperspective intellij-idea-ce jordanbaird-ice \
   maccy notion opencore-patcher oversight pennywise pycharm-ce raycast \
-  resilio-sync sf-symbols shottr spectacle sublime-merge sublime-text \
+  rectangle resilio-sync sf-symbols shottr sublime-merge sublime-text \
   the-unarchiver taskexplorer temurin11 transmission visual-studio-code \
-  vlc wireshark;
+  vlc warp wireshark;
   # aldente
 ```
 

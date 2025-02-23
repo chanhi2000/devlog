@@ -176,6 +176,17 @@ head:
 - [ESP32-S3-LOADCELL-OLED OLED 및 원격 확인 데모](https://m.blog.naver.com/chandong83/223695774908)
 - [초소형 4채널 DC 모터 드라이버](https://m.blog.naver.com/chandong83/223698898254)
 - [오랜만에 신상 지름... 오렌지파이 4A](https://m.blog.naver.com/chandong83/223699582500)
+- [STM32G4-DMC-Balance RC카 제어 데모](https://m.blog.naver.com/chandong83/223727405546)
+- [STM32G4-Auto to USB2Lin 통신 테스트 영상](https://m.blog.naver.com/chandong83/223713060483)
+- [초소형 4채널 DC 모터 드라이버](https://m.blog.naver.com/chandong83/223698898254)
+- [STM32G4-DMC-Balance 분명 나아지고 있는 거지? - 밸런싱 테스트](https://m.blog.naver.com/chandong83/223714020720)
+- [STM32F407 Daul CAN RS485 개발 보드 프로젝트 링크 공유](https://m.blog.naver.com/chandong83/223719961164)
+- [STM32H7 RTC 설정과 TouchGFX 연동 및 Calibration 그리고 테스트 결과](https://m.blog.naver.com/chandong83/223726731326)
+- [캔통신을 활용한 AC 스위칭 데모 영상](https://m.blog.naver.com/chandong83/223726846118)
+- [STM32F407 Ethernet 포팅하기](https://m.blog.naver.com/chandong83/223737406114)
+- [TouchGFX 시뮬레이터 환경에서 파일 시스템 처리 - LittleFS와 PC 파일 시스템의 유연한 전환 구현](https://m.blog.naver.com/chandong83/223739414798)
+- [STM32F407 스터3 - INTERRUPT](https://m.blog.naver.com/chandong83/223753882998)
+- [STM32F407 스터디4 - TIM(타이머 인터럽트)](https://m.blog.naver.com/chandong83/223753890604)
 
 <!-- END: chandong83 (blog.naver.com) -->
 
@@ -208,6 +219,8 @@ head:
 - [Raspberry Pi – Ubuntu network setup without monitor](https://skyer9.pe.kr/wordpress/?p=8858)
 - [블루투스 장치 주소 (Bluetooth Device Address, BD_ADDR)](https://skyer9.pe.kr/wordpress/?p=9155)
 - [SDR# 으로 라디오 듣기](https://skyer9.pe.kr/wordpress/?p=9450)
+- [USB to LoRa – 설정법](https://skyer9.pe.kr/wordpress/?p=9648)
+- [LoRaWAN 송신 및 수신 코드](https://skyer9.pe.kr/wordpress/?p=9653)
 
 ---
 

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/cjpTrPtj_YIjLcPFsI7PAQI31pHCmJReysnm7vltCaCZM75HwDdU1yXTiJq_iaHHYay3RSB0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ICYhgIK_c8o", "title": "Streamlining GitOps with Atlantis and Terraform |  Terraform Pull Request Automation with Atlantis" },
+    { "id": "vKsOotZ_9wo", "title": "Atlantis Demo | Create EKS Cluster and Run as Pod | Configure GitHub Webhooks and Create PR" },
+    { "id": "wPejXqqzpBI", "title": "Using Docker Compose V2 to Deploy Multiple Containers" },
+    { "id": "qEcHlY_1crQ", "title": "Monitoring Docker Daemon with Prometheus and  Grafana" },
     { "id": "wahhJTbUHb8", "title": "Formatted Outputs in Golang" },
     { "id": "1EKBCQXrQ5M", "title": "Docker Scout | Image Analysis | CVES | SBOM | Policy Evaluation | Fixing Compliance Issues" },
     { "id": "0xHappiYvIY", "title": "Setup Kubernetes v1.29 Cluster using Kubeadm and Containerd on AWS" },

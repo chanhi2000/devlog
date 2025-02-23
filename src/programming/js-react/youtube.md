@@ -117,5 +117,7 @@ head:
 <MyYouTubeItems jsonName="yu-StevenCodeCraft" /><!-- StevenCodeCraft -->
 <MyYouTubeItems jsonName="yu-gymcoding" /><!-- 짐코딩 - 웹 개발 입문부터 실무까지 -->
 <MyYouTubeItems jsonName="yu-myunggyunkim" /><!-- 김명균 -->
+<MyYouTubeItems jsonName="yu-Glo_Academy" /><!-- Glo Academy -->
+<MyYouTubeItems jsonName="yu-rasmic" /><!-- Ras Mic -->
 
 <TagLinks />

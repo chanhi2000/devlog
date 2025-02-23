@@ -133,4 +133,12 @@ tag:
 
 ---
 
+## DSChloe
+
+- [Flutter on Cursor AI on M1](https://dschloe.github.io/flutter/2025/01/flutter_usage_on_cursorai/)
+
+<!-- END: dschloe.github.io -->
+
+---
+
 <TagLinks />

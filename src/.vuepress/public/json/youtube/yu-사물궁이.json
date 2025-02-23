@@ -1,11 +1,14 @@
 {
   "channel": {
-    "id": "SMGI",
+    "id": "사물궁이",
     "name": "사물궁이 잡학지식",
     "profile": "https://yt3.googleusercontent.com/oSlJ_rzbbd1XB1WqdpeDRvnPl-17R-KU00pENQEhEJbxyqz-gPkvJZtnIc7VgaUupXhxDat8RQA=s160-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/--YfTZf_3TLeXprD7ViMWUOXK3Qde5Pe42FOW-1WRPDejyL1OP0yfUaSbSSusUvf3uX1uiAmTk0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hKi4ENZw7YA", "title": "경찰차가 범인 추적하다 부순 물건은 누가 보상할까?" },
+    { "id": "tq-xwd302nQ", "title": "변호사는 비밀유지의무를 100% 지킬까?" },
+    { "id": "0776hqdcBac", "title": "가족만 동의하면 멀쩡해도 정신병원에 강제 입원될까?" },
     { "id": "xhGL44bj4Go", "title": "왜 자동차 유리 테두리에 검은 동그라미 무늬가 있을까?" },
     { "id": "UFj5j9wRUlM", "title": "한국에만 있다는 전세 제도는 언제 시작된 걸까?" },
     { "id": "5Lh-YVaaILs", "title": "아파트에서 불났을 때 왜 무조건 대피하면 안 될까?" },

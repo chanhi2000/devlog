@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "useRConference_global",
+    "name": "useR! Conference",
+    "profile": "https://yt3.googleusercontent.com/xljWRK8u8niAQ3orrwGTGriKjE9OiE8HZuwCdr9btaxnn5bWdOoc8kNCjUB7i-otyoDRuNZn=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GDIS6T0U_XA", "title": "Forecast Reconciliation Made Easy: The FoReco Package - Daniele Girolimetto" },
+    { "id": "jnpiSldbTko", "title": "Dynamic Prediction with Numerous Longitudinal Covariates - Mirko Signorelli" },
+    { "id": "oBI8rH8GIHQ", "title": "Tidymodels: Now Also for Time-to-Event Data! - Hannah Frick" },
+    { "id": "HKMhDzLRqM0", "title": "Getting the Most Out of Test-Driven Development for Shiny - Jakub Sobolewski" },
+    { "id": "5Nwr90e2RiM", "title": "What They Forgot to Teach You About Shiny Development in Production - Mohamed El Fodil Ihaddaden" },
+    { "id": "gQBAUbxD01A", "title": "Mastering Plumber Structure: Your API's Solutions. - Adam Forys & Magdalena Krochmal" },
+    { "id": "77gPAh9Jj18", "title": "Using R to Co-Create an Inclusive Data Analysis Approach [..] - Lois Adler-Johnson" },
+    { "id": "V5nL_onjFO0", "title": "The Retirement of R Packages with Many Reverse Dependencies - Edzer Pebesma & Roger Bivand" },
+    { "id": "Qr3-FtqqLOo", "title": "Translate R for Global Reach - Binod Jung Bogati" },
+    { "id": "eupuhF7XeVM", "title": "Fifteen Years of the R Journal - Mark van der Loo" },
+    { "id": "ldko1TPC1aA", "title": "[Keynote] How Your Code Might Get Rusty, And What You Can Do About This - Maëlle Salmon" },
+    { "id": "JWg3jUJvsUg", "title": "[Keynote] Some things you can’t read from a NEWS file - Torsten Hothorn" },
+    { "id": "KOQBfC1WPwM", "title": "[Keynote] Keep R weird - Kelly Bodwin" }
+  ],
+  "playlists": [
+
+  ]
+}

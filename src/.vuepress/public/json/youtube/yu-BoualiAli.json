@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/eXhc6XaYdmPLtX7A8XV4eQ9wyAvy9x_QkhaaieRxvFplh3_VayzkyDLS2nhMRF67jScpBxMcGA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BFtCtRKhLfA", "title": "Build a WhatsApp Clone With Spring Boot, Angular 19, Keycloak & WebSockets" },
+    { "id": "8ohqokWDloA", "title": "Lowest Common Ancestor of a Binary Tree - LeetCode 236 - Java" },
+    { "id": "7sNZV5X1c_A", "title": "FullStack Web Application - Spring | Angular 18 | Redis | AWS (S3 + Cloud Front [CDN]) | Keycloak" },
+    { "id": "3EehPI_BkFk", "title": "Best Time to Buy and Sell Stock - LeetCode 121 - Java" },
+    { "id": "KpIks8gwaKY", "title": "Deep Dive Into The Microservices With Spring boot and Spring Cloud" },
+    { "id": "ZMsN4_EMBy8", "title": "Create Binary Tree from Descriptions - Leetcode 2196 - Java" },
+    { "id": "l504URa3Sws", "title": "Find Valid Matrix Given Row and Column Sums - LeetCode 1605 - Java" },
+    { "id": "FNToA_gUiT4", "title": "Koko Eating Bananas - LeetCode 875 - Java" },
+    { "id": "v5hiboX0l8M", "title": "Trapping Rain Water - LeetCode 42 - Java" },
+    { "id": "Pulk8JrPPoA", "title": "Real time Notification System: WebSocket | Spring Boot | Angular" },
+    { "id": "PylkrtTzWkQ", "title": "Integrate a Cookie Banner into your Website in 3 Steps" },
     { "id": "xqhdRrFzLFY", "title": "JWT | Spring boot & Angular | User Login & Registration with Email validation | Full tutorial" },
     { "id": "WuPa_XoWlJU", "title": "Book Social Network (Full web application | Spring boot | Angular | Docker  | Keycloack)" },
     { "id": "UtEHSngmdHA", "title": "CI/CD Pipeline & Deployment | GitHub Actions | Docker | Spring boot | Angular" },

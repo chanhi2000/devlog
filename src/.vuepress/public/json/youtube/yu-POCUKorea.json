@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "POCUKorea",
+    "name": "POCU 코리아",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nJDvYDkII5pvRYFB6LjiTqZtXS-rVT_iHEKiORA90Q4w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "I1tzKGiRC34", "title": "3200: 정렬 안된 맵 2" },
+    { "id": "LjE_O2cqtUk", "title": "3500: 외판원 문제(TSP)" },
+    { "id": "CK4d8y6kGnA", "title": "3200: 유니크(Unique) 포인터 만들기 (C++11)" },
+    { "id": "yqGa56GdE88", "title": "3200: 가비지 콜렉션 2" },
+    { "id": "j8Xy6iqJVGs", "title": "3200: 이동 대입 연산자" },
+    { "id": "ihUyxFemsA8", "title": "3200: 모듈(Module) 시스템" },
+    { "id": "dgg3N1O4xPs", "title": "2200: 동적 메모리의 소유권 문제" },
+    { "id": "aZBKf6Cxy5c", "title": "3200: 장점과 단점, 베스트 프랙티스 (템플릿 프로그래밍)" },
+    { "id": "e1FQhzmSN_c", "title": "3500: 동적 계획법으로 푸는 배낭 문제 1" },
+    { "id": "1PUlUX0Ptxk", "title": "3200: auto 키워드 - 포인터 및 참조 받기" },
+    { "id": "VV2HguAFsjs", "title": "3500: 그래프의 종류" },
+    { "id": "FckSZKwIVV0", "title": "2300: SIMD 브로드캐스트" },
+    { "id": "p4hqYRL1wt8", "title": "2200: 매크로 함수" },
+    { "id": "eScfh0mjkL4", "title": "3200: `static_assert` 키워드" },
+    { "id": "7Hlq19BCU0c", "title": "3500: 후위 순회 DFS" },
+    { "id": "lPq81Kkvd_c", "title": "2200: 정적 vs 동적 라이브러리" },
+    { "id": "62vsSg41wug", "title": "3200: 고정 폭 정수형" },
+    { "id": "I0-g4dAlS5I", "title": "1500: 왜 C#인가요?" },
+    { "id": "ge6MUz_rQL8", "title": "1500: C#은 어디서 쓰이나요?" },
+    { "id": "0wZXtPOrqHM", "title": "1500: 질문은 어디서, 어떻게 해야하나요?" },
+    { "id": "Udshrxclksw", "title": "2200: main(void) 함수" },
+    { "id": "6iZ2aQ4rrjA", "title": "3200: 한 문자, 한 줄, 한 단어 읽기" },
+    { "id": "OP3cRo4zpgM", "title": "3500: 흔히 볼 수 있는 O 표기법의 성능 비교" },
+    { "id": "rfk_N38JFoc", "title": "2300: 6502의 주소지정 모드" },
+    { "id": "nb7K0IXvC6Y", "title": "3500: 대표적인 정렬 알고리듬" },
+    { "id": "vUmN1pV783E", "title": "2200: 문자열 길이 문제 해결방법 2, C 스타일 문자열" },
+    { "id": "utY8-p2avhw", "title": "3200: 다형성(Polymorphism)" },
+    { "id": "EPsGisyE8W8", "title": "1500: 코드보기: 클래스" },
+    { "id": "AcO0JzNq_m0", "title": "2300: 인터럽트란?" },
+    { "id": "fS0A_GP8FME", "title": "2500: 상속 vs 컴포지션 - 메모리" },
+    { "id": "2wdraGc5U1k", "title": "2500: 인터페이스와 함수 포인터" },
+    { "id": "Wdd6HrvkDbw", "title": "3200: Java 예외 vs C++ 예외" },
+    { "id": "-mrZ2FSA0zY", "title": "3200: 역방향 반복자, 특정 위치에 요소 삽입/삭제" },
+    { "id": "SGpsneEWKsQ", "title": "2200: 동적 메모리" }
+  ],
+  "playlists": [
+
+  ]
+}

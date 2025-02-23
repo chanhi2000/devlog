@@ -1820,6 +1820,11 @@ https://m.blog.naver.com/&logId=
 ## By minieetea
 
 - [적극적이기만 한 사람](https://minieetea.com/20241021-initiative-activeness/)
+- [공부하고 싶은 마음, 일해야 하는 현실](https://minieetea.com/20250102-learner-or-worker/)
+- [회의만 하다 끝나는 하루](https://minieetea.com/how-to-set-meeting-productivity/)
+- [27가지 PM의 고민과 답변](https://minieetea.com/woowacon-2024-pm-mentoring/)
+- [성과를 '더' 높이는 새해 목표 세우기](https://minieetea.com/20250104-self-evaluation/)
+- [실패하지 않는 실험들?](https://minieetea.com/20250106-dont-fail-experiment/)
 
 <!-- END: minieetea.com -->
 

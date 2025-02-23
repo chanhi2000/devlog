@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "deborah_kurata",
+    "name": "Deborah Kurata",
+    "profile": "https://yt3.googleusercontent.com/-P2GraMYL6gQtUyZYKwqPCNdWdO3I90EetKwxU1EZ_6T3zrhAbYpwVaks0MW6tyCJI0o0kpvSV4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/T3Qe-8TW9xoYgsPIhq_Qfi6rPpFXjOUZk-tHfn9yUQryyi3p95_X6j0LTHhk8ZNeN9L9akIlng=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "DefmIyp3Uho", "title": "httpResource(): First Look at Angular's new Resource" },
+    { "id": "xyKT0AMN25A", "title": "Signals in Action: Passing Parameters when issuing an HTTP Request" },
+    { "id": "sY4ofhfQ_pk", "title": "Signals in Action: Stale data? Refresh it!" },
+    { "id": "xtxBMcEMcxU", "title": "SIA: Signals in a Service or a Component?" },
+    { "id": "MpU3UQ2-rww", "title": "SIA: Retrieve Related Data" },
+    { "id": "K01oDsWRCEQ", "title": "Signals in Action: Providing a Service in root vs Component" },
+    { "id": "T7DPGCSmQes", "title": "Signals in Action: Error Handling with rxResource" },
+    { "id": "RJqjixmtBGU", "title": "Walk Through Code with Google AI Studio" },
+    { "id": "cwZh6bL98UY", "title": "Provide an Angular Service on a route!" },
+    { "id": "LHgJP7MwTWY", "title": "Signals in Action: Building an App" },
+    { "id": "5K0Jr2ymQEs", "title": "Signals in Action: Loading Indicator" },
+    { "id": "_KyCmpMlVTc", "title": "First Look at Angular's new resource() and rxResource()" },
+    { "id": "6JtXHT2Np30", "title": "New Naming Conventions: Reviewing the new Angular Style Guide" },
+    { "id": "XWz8pxQWD8c", "title": "When Should We (NOT) Use a Signal effect()?" },
+    { "id": "9QU688IZAKc", "title": "Angular Routing Explained" },
+    { "id": "hFR3gVIY9gM", "title": "First Look at Angular's new linkedSignal()" },
+    { "id": "tIi9304sjEI", "title": "Declare Variables in Templates: Angular's New @let Declaration (v18.1)" },
+    { "id": "ooHPDCLMyXs", "title": "Angular's New @for Block Features" },
+    { "id": "ebVNm8IylrA", "title": "Build Generalized DRY Angular Code with Generics" },
+    { "id": "rHQa4SpekaA", "title": "A Redux-like Pattern for Managing State with Angular signals" },
+    { "id": "Cr4NRfZxaP0", "title": "Use takeUntilDestroyed to Unsubscribe from Angular's Observables" },
+    { "id": "rsLW9znsp4E", "title": "Angular Injection Context Explained" },
+    { "id": "MZ6s5EL7hKk", "title": "Zoneless Angular Applications in V18" },
+    { "id": "r6wZi1mL658", "title": "Access the Angular toSignal's read-only result as a writable signal!" },
+    { "id": "cQpTOURszwg", "title": "Angular's New Output API: Emit notifications from your child components" },
+    { "id": "frXIBKqzTK0", "title": "Angular's New Model Inputs: Two-way Communication with your Child Components" },
+    { "id": "yjCeaiWXC0U", "title": "Angular's New Signal Inputs" },
+    { "id": "Ddisjm4fdvE", "title": "New(ish) DateOnly Type in .NET 6 (C# 10)" },
+    { "id": "fkAFHMhjJsQ", "title": "Automatically Migrate to Angular's New Control Flow Template Syntax" },
+    { "id": "j9VTGRGyE-o", "title": "Angular's New Template Syntax: Control Flow" },
+    { "id": "Nxe88SVnEOU", "title": "JavaScript Array with() Method (new in ES 2023)" },
+    { "id": "LkGCDD0tXQI", "title": "JavaScript Array sort() vs toSorted() (new in ES 2023)" },
+    { "id": "cCUzCk6KE0Q", "title": "Currying for More Generalized Angular Code" },
+    { "id": "TgIRLiTHzc8", "title": "Synchronizing Select Boxes with an Angular Signal Effect" },
+    { "id": "NNVgVR8rOIY", "title": "When to use take() vs takeUntilDestroyed()?" }
+  ],
+  "playlists": [
+
+  ]
+}

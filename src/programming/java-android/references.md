@@ -814,6 +814,12 @@ tag:
 ## 상구리의 기술 블로그
 
 - [안드로이드 스튜디오 로그캣(Logcat) 사용법](https://skyer9.pe.kr/wordpress/?p=9582)
+- [안드로이드 스튜디오 – 자바 선택이 안될 경우](https://skyer9.pe.kr/wordpress/?p=9642)
+- [java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you’ve changed schema but forgot to update the version number. You can simply fix this by increasing the version number.](https://skyer9.pe.kr/wordpress/?p=9593)
+- [안드로이드 자동 마이그래이션](https://skyer9.pe.kr/wordpress/?p=9596)
+- [안드로이드 – 자바앱에서 코틀린 코드 추가하기](https://skyer9.pe.kr/wordpress/?p=9604)
+- [안드로이드 – 자바 페이징 구현](https://skyer9.pe.kr/wordpress/?p=9609)
+- [안드로이드 앱에서 구글 로그인 연동하기](https://skyer9.pe.kr/wordpress/?p=9615)
 
 <!-- END: skyer9.pe.kr -->
 

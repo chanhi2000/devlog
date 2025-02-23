@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "FrameworkComputer",
+    "name": "Framework",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ml5KLs912FgWdvNrogiN2xCwnhLXHd3QPQiyrQC_dfGA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-Bh6n_YHe5sjcqX8uFvncHlHGkPT6rzpv_xTyz4pjDtTMlbyVJV59lKToAbC8bukkKngE5A6kA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-8k7jTF_JCg", "title": "Framework (2nd Gen) Event | 2025 Launch Event" },
+    { "id": "6X0g5M-khKU", "title": "Coming soon: The Framework Laptop 12" },
+    { "id": "QwpTAk_IiyU", "title": "Why You Should Game on Linux (feat. GloriousEggroll of Nobara)" },
+    { "id": "mXRd0KTKmPU", "title": "The NEW Dual M.2 Adapter (for the Framework Laptop 16)" },
+    { "id": "GYJt4ESv85U", "title": "Framework & DeepComputing founders discuss what it takes to change an industry" },
+    { "id": "gZs97pRqpRw", "title": "Turning a Framework Laptop 13 Mainboard into a Home Server | DIY | Tutorial" },
+    { "id": "JJRdUelpO7M", "title": "Live Q&A with Framework Founder & CEO Nirav Patel" },
+    { "id": "g4aUSRi8QX4", "title": "How To: MacOS to Linux using the Framework Laptop 13" },
+    { "id": "qUIAnZ0cvvo", "title": "Framework Went to Open Sauce and Met The Coolest Makers 😎" },
+    { "id": "iMwepyyaj8I", "title": "Developing the RISC-V Framework Laptop Mainboard" },
+    { "id": "dUGtGZO_54M", "title": "How to build a website using Linux on a Framework Laptop" },
+    { "id": "GbOzaYU694U", "title": "WTF is an AI PC?" }
+  ],
+  "playlists": [
+
+  ]
+}

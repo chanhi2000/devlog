@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "learningsoftwareskills",
+    "name": "Learning Software",
+    "profile": "https://yt3.googleusercontent.com/klchatYEqzWLovCf2z89H0QBdJaetlZ2SRCVLaEu3v8eNjsciMGClFkCQLJQOXW_RP3u08oagw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "AKTmvERQu20", "title": "Secure and simple role based authorization in python Flask apps with Keycloak" },
+    { "id": "sqJLvXzLgA8", "title": "A practical guide to run PostgreSQL in docker" },
+    { "id": "3wPkXjzDBfQ", "title": "oracledb python module as cx_Oracle replacement" },
+    { "id": "9dNkPcpO0P0", "title": "Schedule python scripts without task scheduler or cron jobs" },
+    { "id": "jiGk0k6auIw", "title": "Dotnet development setup in Visual studio, VS Code and dotnet CLI" },
+    { "id": "xBVIdTIKXpk", "title": "Interface with SQLite database in python" },
+    { "id": "a5vH4kcBv3k", "title": "Manage packages in dotnet applications (including offline)" },
+    { "id": "aC6KYMsK23A", "title": "Import / export Pandas dataframes to SQLite database" },
+    { "id": "h1pBqoqiZi4", "title": "Implicit usings, file scoped namespaces, top level statements in dotnet" },
+    { "id": "SV9Jd2cauxw", "title": "ClaimsPrincipal, ClaimsIdentity, Claims explained in dotnet security" },
+    { "id": "LKClIh9I1NI", "title": "Compress images in python with pillow module" },
+    { "id": "5hmHT4SPYsk", "title": "Grafana webhooks for custom alerts explained with examples" },
+    { "id": "iZT9eaj3sXs", "title": "Monitor windows process with Grafana infinity datasource" },
+    { "id": "KbozJMgNbfQ", "title": "Introduction to donet with a hello world application" },
+    { "id": "lgZMRTST444", "title": "JSON Grafana plugin to fetch API data along with example" },
+    { "id": "z8-SnKd5v98", "title": "Customize Grafana alert emails" },
+    { "id": "tP_uO92ykUU", "title": "Embed Images in Grafana 10 alert emails" },
+    { "id": "idMolacFVjI", "title": "Customize Keycloak with themes" },
+    { "id": "YCQJtj0YvR8", "title": "Run keycloak behind Apache reverse proxy" },
+    { "id": "ZVsaCUsZLa8", "title": "CSV in Grafana with Infinity datasource" },
+    { "id": "0HTD-8_nZD0", "title": "Create VMs with Hyper-V in Windows" },
+    { "id": "N95yP2Ir9FA", "title": "Grafana Variables explained with examples" },
+    { "id": "qM52lOijBZs", "title": "Overview of Web APIs and API security" }
+  ],
+  "playlists": [
+
+  ]
+}

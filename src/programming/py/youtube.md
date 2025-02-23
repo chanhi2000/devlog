@@ -156,5 +156,5 @@ head:
 <MyYouTubeItems jsonName="yu-fast_python" /><!-- fast_python -->
 <MyYouTubeItems jsonName="yu-xenoint" /><!-- 이동준 -->
 <MyYouTubeItems jsonName="yu-codingwithroby" /><!-- Eric Roby -->
-
+<MyYouTubeItems jsonName="yu-learningsoftwareskills" /><!-- Learning Software -->
 <TagLinks />

@@ -48,5 +48,6 @@ head:
 <MyYouTubeItems jsonName="yu-blackedoutk" /><!-- blackedout01 -->
 <MyYouTubeItems jsonName="yu-tokyospliff" /><!-- tokyospliff -->
 <MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
+<MyYouTubeItems jsonName="yu-POCUKorea" /><!-- POCU 코리아 -->
 
 <TagLinks />

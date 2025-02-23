@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "SurfsharkAcademy",
+    "name": "Surfshark Academy",
+    "profile": "https://yt3.googleusercontent.com/vKM7HcbVkM1iZz0z6t7RpYjg7O0EiHvrVfWCMkJPZWLoRRr4OZHYclsX6MkBuV9saKb9dsSQUA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZhjDbUWYml2hEB8j5a_DV84m5mVnLOPfE0kDCpgyR3NMc1RS-hczicmPdcLB7nEyz9sgq0mVxg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "952CcRLgOTY", "title": "Windows without bloat" },
+    { "id": "8IpKzqUCsXU", "title": "No, PC gaming is not perfect" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -80,7 +80,7 @@ head:
 <MyYouTubeItems jsonName="yu-cucd_official" /><!-- 차업차득 -->
 <MyYouTubeItems jsonName="yu-yk_roadking" /><!-- 도로왕 김지훈 변호사 -->
 <MyYouTubeItems jsonName="yu-경제인회계인" /><!-- 경제인회계인 -->
-<MyYouTubeItems jsonName="yu-SMGI" /><!-- 사물궁이 잡학지식 -->
+<MyYouTubeItems jsonName="yu-사물궁이" /><!-- 사물궁이 잡학지식 -->
 <MyYouTubeItems jsonName="yu-_johncook8725" /><!-- 아하부장_JOHNCOOK -->
 <MyYouTubeItems jsonName="yu-user-uy7db8fw7x" /><!-- 나음힐링센터 방태환원장 -->
 <MyYouTubeItems jsonName="yu-alpinebutcher" /><!-- Alpine Butcher -->
@@ -162,5 +162,6 @@ head:
 <MyYouTubeItems jsonName="yu-어셈블팩토리" /><!-- 어셈블팩토리 -->
 <MyYouTubeItems jsonName="yu-와리가리" /><!-- 와리가리 l WARIGARI -->
 <MyYouTubeItems jsonName="yu-윤툴툴" /><!-- 윤툴툴 -->
+<MyYouTubeItems jsonName="yu-다이바이TV" /><!-- 다이바이TV -->
 
 <TagLinks />

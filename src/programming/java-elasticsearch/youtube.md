@@ -27,6 +27,8 @@ head:
 
 [[toc]]
 
+<MyYouTubeItems jsonName="yu-OfficialElasticCommunity" /><!-- Official Elastic Community -->
+
 ---
 
 <TagLinks />

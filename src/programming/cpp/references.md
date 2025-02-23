@@ -376,6 +376,8 @@ head:
 ## 상구리의 기술 블로그
 
 - [C – error: jump to case label](https://skyer9.pe.kr/wordpress/?p=8963)
+- [C 개발자를 위한 C++ 입문](https://skyer9.pe.kr/wordpress/?p=9664)
+- [Visual C++ – 도스창에서 한글깨짐 해결](https://skyer9.pe.kr/wordpress/?p=9700)
 
 ---
 
@@ -613,6 +615,14 @@ head:
 <!-- END jhc9639 (blog.naver.com) -->
 
 ---
+
+## DSChloe
+
+- [Windows Microsoft C++ Build Tools 설정](https://dschloe.github.io/settings/2024/12/windows_ms_c/)
+
+<!-- END: dschloe.github.io -->
+
+----
 
 ## pdf(s)
 
