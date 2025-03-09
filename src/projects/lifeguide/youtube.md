@@ -163,5 +163,6 @@ head:
 <MyYouTubeItems jsonName="yu-와리가리" /><!-- 와리가리 l WARIGARI -->
 <MyYouTubeItems jsonName="yu-윤툴툴" /><!-- 윤툴툴 -->
 <MyYouTubeItems jsonName="yu-다이바이TV" /><!-- 다이바이TV -->
+<MyYouTubeItems jsonName="yu-리브윤" /><!-- 리브윤 -->
 
 <TagLinks />

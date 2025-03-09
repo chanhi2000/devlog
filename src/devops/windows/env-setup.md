@@ -147,7 +147,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
     dbeaver googlechrome fiddler windirstat 7zip `
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono`
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
@@ -158,7 +158,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
     dbeaver googlechrome fiddler windirstat 7zip ^
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal ^
-    twinkle-tray warp wingetui wiztree rust
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
 ```
 
 :::

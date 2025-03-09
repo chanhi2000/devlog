@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "iFAe7x2Nos8", "title": "Training AI to Play Fortnite (Reinforcement Learning + Computer Vision)" },
     { "id": "HmyMFZQDWyU", "title": "Full-Stack Web Dev Crash Course: Coding a SaaS App in JavaScript" }
   ]
 }

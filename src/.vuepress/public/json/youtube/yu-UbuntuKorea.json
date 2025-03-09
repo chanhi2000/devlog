@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/oBKitBOpMQemzMxyKrLAu_DWU1PYDtlQVN_vKYXCOwnzm2mGOy2dBbz9gfFUQqTEM4dCpTyXfg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nP5b5bRwZnw", "title": "UbuCon Korea 2024 - OpenPGP 키사이닝 파티 공개키 제출 안내" },
+    { "id": "7Xvl9eo3giw", "title": "GopherCon Korea 2024 부스 이벤트 추첨 방송" },
     { "id": "8PwVs4v8fDk", "title": "Bird를 활용하여 나만의 ISP 및 CDN 구축하기 | UbuCon Korea 2023" },
     { "id": "xLTwWqb_lTw", "title": "웹보안 오픈소스, Modsecurity가 저물고 Coraza가 온다 | UbuCon Korea 2023" },
     { "id": "3S9oxBZeEpM", "title": "WSL을 이용해 개발용 NAS 구축하기 | UbuCon Korea 2023" },

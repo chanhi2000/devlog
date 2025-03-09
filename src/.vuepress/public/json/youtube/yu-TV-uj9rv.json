@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/dUUJaVVSHXo72U71-gxXhcNSqHf5jUXJezvapgmssOb2nL6LQFW9UgFEfVQh14fDWoHasJI8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FXCtj1eQjoU", "title": "[OPENMARU APM] MSA환경에서 안정적이고 효율적인 모니터링" },
     { "id": "-VvL1C3kzeA", "title": "[OPENMARU] 온나라 시스템 담당 주무관을 위한 OPENMARU APM 교육" },
     { "id": "mYqKKl8xU4U", "title": "OPENMARU Dashboard(오픈마루 대시보드)로 풀어가는 장애처리 비밀 노하우!" },
     { "id": "ESwzVKOYGh0", "title": "OPENMARU Dashboard로 직관적인 APM관리를 시작하세요!" },

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/WGdqBq0Vm7pxPziyyCTQx3HohL89SMVmWBDVrIVNtSs_8CW6iee6MJ1kPRAThGEMN7l6R2z3=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zm2_xFyFAHI", "title": "Building APIs with Next.js" },
+    { "id": "PfJMy0RxvaE", "title": "Developer Experience (Japan Meetup 2025)" },
+    { "id": "71M2JXIDw4g", "title": "Next.js 15.1: Explained!" },
+    { "id": "XVKP1AKTBV0", "title": "The fastest Postgres database? (DSQL)" },
+    { "id": "KhO4VjaYSXU", "title": "Forms with React 19 and Next.js" },
+    { "id": "34bRv6cQezo", "title": "MDX with Next.js App Router" },
+    { "id": "sIVL4JMqRfc", "title": "Self-Hosting Next.js" },
+    { "id": "-FMwdg2wx4M", "title": "Next.js 15 RC 2: Explained!" },
+    { "id": "MnIyp_zTfNI", "title": "Prevent React server code from running on the client" },
+    { "id": "Fl1x57e5i4k", "title": "Fast ecommerce with optimistic UI and Next.js" },
+    { "id": "2ipasAxK5H8", "title": "Building PWAs with Next.js + learning neovim" },
     { "id": "meycWptW9eo", "title": "Building with React 19 (actions + useOptimistic)" },
     { "id": "P5aXJmAD_vU", "title": "Keep your React components in the same file" },
     { "id": "BWWCPdhg0ks", "title": "Next.js Pages / Layouts (FAQ)" },

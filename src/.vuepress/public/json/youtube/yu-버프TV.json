@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "버프TV",
+    "name": "버프TV (한국GPT협회)",
+    "profile": "https://yt3.googleusercontent.com/8XWa0AN29d9e8StVZGBjFdmSl_bD1FJXGg9qctte3mtcBPMIZC95lo3-983LTprc0MlzyNU9oWY=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "SgN4qYH1fxY", "title": "엑셀 파일 취합 자동화 1초 컷 (엑셀 VBA with GPT)" },
+    { "id": "td-FdRwp8o0", "title": "엑셀 파일 취합 자동화 1초 컷 (GPT 4o 파일 업로드)" },
+    { "id": "bryzb7BkFfE", "title": "GPT 데이터 분석 - 데이터 유형 (dtypes) 이해" },
+    { "id": "S548Bg97aA8", "title": "PDF 데이터를 Excel에 삽입하는 3가지 방법" },
+    { "id": "mnsRuQzNkis", "title": "엑셀 문서자동화 완결판 5가지 방법" },
+    { "id": "MddHY87js9M", "title": "에어테이블로 현장 설비 관리 스케쥴러 만들기" },
+    { "id": "qnPnLshlhp8", "title": "교장, 교감, 장학사, 학교 선생님들을 위한 AI 활용 특강" },
+    { "id": "jX8iV4ZFPJE", "title": "Excel 엑셀에서 대량 데이터를 비교하는 VBA 자동화" },
+    { "id": "HIzjxSgbVVg", "title": "PPT 문서 생성 자동화 - 챗GPT를 활용한 VBA 자동화" },
+    { "id": "nA2o2D4UqyQ", "title": "GPT vs Google 무조건 이 친구가 이깁니다" },
+    { "id": "rdczPN03z_U", "title": "ChatGPT, Gemini, Perplexity - 환각(Hallucination)을 줄이는 방법" },
+    { "id": "oVwmy_2GTZI", "title": "챗GPT & AI 리더십 특강(100분) - 기업에서는 어떻게 활용할 것인가 (for CEO, 경영진, 임원, 팀장, 간부, 리더)" },
+    { "id": "gEmzzc1M_mo", "title": "챗GPT 엑셀 데이터 분석" },
+    { "id": "W3BSNGUSgTU", "title": "챗GPT로 웹앱(Web-App) 개발하기 - 단어장 App" },
+    { "id": "OZUQgMV-NP8", "title": "엑셀 마스터 ChatGPT" }
+  ],
+  "playlists": [
+
+  ]
+}

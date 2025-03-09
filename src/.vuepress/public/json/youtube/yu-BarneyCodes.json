@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/pJYgKxzFAyoQlV1q_K31JekBaQu7mI7M71Scg7BrS1AqZ1fEeRe97GfKts3K-Y9INE0YIPJa=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8zlHjsZlRaw", "title": "Circuit board modifiers for Star Mining Co." },
+    { "id": "qG2ZjJEsdI0", "title": "Abusing the fragment shader (and losing my sanity)" },
+    { "id": "rmw4x0l7frI", "title": "How I got started with Creative Coding!" },
+    { "id": "3lgX3u8Ani4", "title": "Adding DUST STORMS to my space mining game" },
+    { "id": "DkIh41NfRMs", "title": "Adding TREASURE ROOMS to my asteroid mining game" },
+    { "id": "by9cOb9fhJ4", "title": "Learning Godot! (porting the shadows) - Livestream 003" },
+    { "id": "6DmtlsyWJXs", "title": "Working on my Java Game -  Livestream 004" },
+    { "id": "-7uCLQ00azc", "title": "FAILING my community coding challenge  :(" },
+    { "id": "x30nDQyuMNc", "title": "REDEMPTION STREAM (Swarm challenge pt 2)" },
+    { "id": "egeqWTtaBvM", "title": "Should you make a game from scratch?" },
+    { "id": "aYnA1wHtvss", "title": "Special Items - Star Mining Co. Livestream 001" },
+    { "id": "QYCyWqZw-z0", "title": "Ripping the guts out! - Star Mining Co. Livestream 002" },
     { "id": "fZh2p0odPyQ", "title": "Real-time height map shadows | HUGE improvements!" },
     { "id": "6bnFfE82AJg", "title": "Improved height map shadows using YOUR suggestions!" },
     { "id": "3mfvZ-mdtZQ", "title": "Introduction to Shaders: Learn the Basics!" }

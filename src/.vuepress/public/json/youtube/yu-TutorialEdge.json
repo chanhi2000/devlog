@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/TnLN7f0YMUEdeyaFNkZt1Rj5X4K1XQRddlh3y2jl6br_-p7s_VR7qJHOL8rLTZ564v5g1nar=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "b2G1_9dLLH0", "title": "REST API Architectural Overview" },
+    { "id": "mijgXP4_V4c", "title": "Go Tooling Overview" },
+    { "id": "XCDd5TQCGes", "title": "REST API - Project Setup" },
+    { "id": "PJRBCdNgqdA", "title": "Course Overview - Building a Production Ready REST API" },
     { "id": "1C3Ym_JjkMw", "title": "Beginner's Guide to Redis with Go!" },
     { "id": "tgLvIghsJFo", "title": "Building REST APIs in Go 1.22 - New Features" },
     { "id": "UVfXsyHaDGc", "title": "Beginner's Guide to Unit Test Logging in Go" },

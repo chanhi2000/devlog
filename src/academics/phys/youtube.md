@@ -32,5 +32,6 @@ head:
 <MyYouTubeItems jsonName="yu-EugeneKhutoryansky" /><!-- Physics Videos by Eugene Khutoryansky -->
 <MyYouTubeItems jsonName="yu-SerranoAcademy" /><!-- Serrano.Academy -->
 <MyYouTubeItems jsonName="yu-gcarcassi" /><!-- Gabriele Carcassi -->
+<MyYouTubeItems jsonName="yu-석군seokkun" /><!-- 석군 seokkun -->
 
 <TagLinks />
