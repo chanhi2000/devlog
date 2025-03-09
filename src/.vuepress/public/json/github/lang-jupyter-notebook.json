@@ -1002,25 +1002,25 @@
     "banner": ""
   }, {
     "repo": "camenduru/FluxMusic-jupyter",
-    "desc": "",
+    "desc": "Contribute to camenduru/FluxMusic-jupyter development by creating an account on GitHub.",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/54370274?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f9256fb1dd1f3e62eaf3959d593d6ec7f498c45f75b56a438ffaa5b6b4937188/camenduru/FluxMusic-jupyter"
   }, {
     "repo": "NirDiamant/RAG_Techniques",
-    "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+    "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and cont...",
     "officialSite": "",
-    "topics": ["genai", "hacktoberfest", "rag", "tutorials"],
-    "avatar": "https://avatars.githubusercontent.com/u/28316913?v=4",
-    "banner": ""
+    "topics": ["python", "ai", "tutorials", "rag", "llm", "llms", "langchain", "llama-index", "opeani"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/3e552f92472dbbc3a6e1ee3794375620448d66035ea4cc946205e12fadbe569b/NirDiamant/RAG_Techniques"
   }, {
     "repo": "SakanaAI/AI-Scientist",
     "desc": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/140988036?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/b8fa1d58a4aa4328a4bd5b4bbb419738b6eb6bb318a34e5403b1514ad9c3de76/SakanaAI/AI-Scientist"
   }, {
     "repo": "meta-llama/llama-recipes",
     "desc": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
@@ -1040,7 +1040,7 @@
     "desc": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
     "officialSite": "https://madewithml.com",
     "topics": ["python", "data-science", "machine-learning", "natural-language-processing", "deep-learning", "pytorch", "data-engineering", "ray", "data-quality", "distributed-training", "mlops", "distributed-ml", "llms"],
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/156157055/e6a73d2d-36f3-4405-bc2e-2382bcbf3376"
   }, {
     "repo": "openai/CLIP",

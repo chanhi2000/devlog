@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "RaidOwl",
+    "name": "Raid Owl",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ne9fxi9Tropg8iljJL9rR1NZ2CbL2heDL9R_0WWPO64A=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/DR6gJxLRPMP-keElyJmUn0GhrpAuCDU-8JGy1kfqX1HXg6irEH4zDEt8q4WhifZOe-wzTPdP=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "C1Mfe1B7ens", "title": "Take your Plex Server ANYWHERE" },
+    { "id": "WFZwnl3gLSA", "title": "The $500 Home Lab Challenge ft. @HardwareHaven" },
+    { "id": "rwfO7Q_XIRk", "title": "I built another SSD storage server…" },
+    { "id": "U58QW04cR2g", "title": "$500 Home Lab Challenge FINALE" },
+    { "id": "ZG51oy_cuWY", "title": "New 10G/WiFi7 UniFi Gateways - UX7, UDR7, UCG Fiber" },
+    { "id": "VgmDEd_Ny-4", "title": "New Year, New NAS - ASUSTOR Lockerstor4 Gen3" },
+    { "id": "xK0X7j6NhLQ", "title": "Nobody is building this Server..." },
+    { "id": "e2D5ZIb-AfE", "title": "Raspberry Pi 5 Docker Swarm Cluster - Better than I thought..." },
+    { "id": "NUnI-P5GWHw", "title": "Nerd Alert - Ep. 41 - Home lab and AI w/ Tom Lawrence" },
+    { "id": "9h8jf4wgW3o", "title": "They made a Mac for EVERYBODY - M4 Mac Mini" },
+    { "id": "mO_ZT7HauhQ", "title": "Upgrading my OVERKILL Server - 180TB of NVMe" },
+    { "id": "DqE9Kc1xJo4", "title": "BIG TrueNAS Scale Update - Extend VDEVs, Docker support, and more" },
+    { "id": "IkCdZcWyvXE", "title": "The BEST home lab server...for me" },
+    { "id": "czGfTsyJ5FY", "title": "Turn your OLD PC into your NEW HOME SERVER" },
+    { "id": "eu6H3hsv1dA", "title": "I let you spend $500 on AliExpress..." },
+    { "id": "rG8jGJhZaOQ", "title": "UniFi Network Upgrade - ft. Micro Center" },
+    { "id": "_7WlsENdEzo", "title": "Why is everyone 'Home Labbing'???" },
+    { "id": "mAOIxx0aCrE", "title": "Why is NVMe storage like this...?" },
+    { "id": "6XeEeRwFiD8", "title": "How Much Network Speed do you NEED?" },
+    { "id": "23ShIfHdUYA", "title": "Ubiquiti enters the NAS game - UNAS Pro w/ Unifi Drive" },
+    { "id": "eEu_G5MIyy8", "title": "Mini PCs are getting CRAZY - Beelink GTi Ultra w/ Dock" },
+    { "id": "wJUDhQ7s9HM", "title": "The Ultimate Mini Server Rack - Size doesn't matter..." },
+    { "id": "FqMwPRiNyok", "title": "My new favorite Unifi product - Cloud Gateway Max" },
+    { "id": "rnPxf7GbEgA", "title": "Fixing my power problem (and surviving a hurricane) with a BIG BATTERY" },
+    { "id": "RSGkExTeryA", "title": "Minisforum makes cool stuff - AtomMan X7 Ti" },
+    { "id": "_Q3EIKnJY6w", "title": "The Unifi \"Short Stack\" - An entry level to Unifi Network" },
+    { "id": "hEAwyMljJRs", "title": "Is OpenMediaVault good now???" },
+    { "id": "6rvesA1dusc", "title": "Building a BUDGET HOME SERVER 2: Electric Boogaloo" },
+    { "id": "_cCTu2rvOdY", "title": "New Network Gear - TP-Link Omada 10G, Wifi7, PoE" },
+    { "id": "y7IAAWSld2Q", "title": "Saving a MacBook from 2011..." },
+    { "id": "gVcY15KtC5c", "title": "My Home Lab is growing..." },
+    { "id": "FkDQgTD7ZrQ", "title": "This is NOT a home lab server...unless..." },
+    { "id": "SFkXSnmOeC4", "title": "TerraMaster is winning me back...almost" },
+    { "id": "F77y2wU30R0", "title": "Let's try some Home Lab Monitoring - ft. Netdata" },
+    { "id": "98Mo6IKufJM", "title": "They made something good this time - ZimaCube Pro" }
+  ],
+  "playlists": [
+
+  ]
+}

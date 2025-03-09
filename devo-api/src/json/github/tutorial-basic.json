@@ -36,11 +36,11 @@
     "banner": ""
   }, {
     "repo": "dair-ai/Prompt-Engineering-Guide",
-    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering", 
-    "officialSite": "",
-    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "chatgpt"],
-    "avatar": "",
-    "banner": ""
+    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "officialSite": "https://www.promptingguide.ai/",
+    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "generative-ai", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/47529232252a32c369a6d6e97608ec39a0837fd8aa7b09c5546aa9584bb377f5/dair-ai/Prompt-Engineering-Guide"
   }, {
     "repo": "freeCodeCamp/freeCodeCamp",
     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.", 

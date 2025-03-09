@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "stltechmeetups",
+    "name": "St. Louis Tech Meetups",
+    "profile": "https://yt3.googleusercontent.com/JOEtEnGI1M58L1t3jVfZihBcxaACpyleIWVJScTa_jjQk1b_TRYD7pVj1l72nILlXEgAJQJytrg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/IY1qj1xkmuQLBCQo7WrE0ZuVRbzV3VFgWziGnRarwE3I3bGuUYWiSt1cj6XhFXVglU-j5po1kh0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "L1D9zJ-Yn9U", "title": "What is the GOTH stack? Quickly build web apps using Go, Templ, and Htmx #FAST" },
+    { "id": "LMNPj14Ox9E", "title": "Short And Sweet: Sidecar Pattern Review!" },
+    { "id": "wv2jq8rS-mk", "title": "Unleashing The Power Of Distributed Load Testing With Grafana k6!" },
+    { "id": "k_VvenrOHkk", "title": "Using GCP and Docker for Schedule Based Go Scripts - Miriah Peterson" },
+    { "id": "LE1UfpA48zY", "title": "My Go Proverbs - Bartłomiej Klimczak" },
+    { "id": "NrdioCQpU7E", "title": "Hosting Your Sites Using Golang" },
+    { "id": "KY5mEpixnuw", "title": "Developer Psychology - Flow Model Pattern" },
+    { "id": "HM7evzhi66c", "title": "Using Go For Neural Networks And Machine Learning" }
+  ],
+  "playlists": [
+
+  ]
+}

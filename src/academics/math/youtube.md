@@ -86,5 +86,8 @@ head:
 <MyYouTubeItems jsonName="yu-holdmybipolar" /><!-- hold my bipolar watch this! -->
 <MyYouTubeItems jsonName="yu-OscgrMaths" /><!-- dy d Oscar -->
 <MyYouTubeItems jsonName="yu-cakemath" /><!-- 케익 수학 -->
+<MyYouTubeItems jsonName="yu-manmanmath" /><!-- 만만한 수학TV [이상준 경희대 수학과 교수] -->
+<MyYouTubeItems jsonName="yu-eostatistics" /><!-- 통계의 본질 EOStatistics -->
+<MyYouTubeItems jsonName="yu-brightsideofmaths" /><!-- The Bright Side of Mathematics -->
 
 <TagLinks />

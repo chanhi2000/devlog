@@ -2359,56 +2359,56 @@
     "banner": "https://repository-images.githubusercontent.com/470730648/c4c69fe5-dc70-42b8-aae1-3a6d303656c0"
   }, {
     "repo": "SysSec-KAIST/LTESniffer",
-    "desc": " An Open-source LTE Downlink/Uplink Eavesdropper. Contribute to SysSec-KAIST/LTESniffer development by creating an account on GitHub.",
+    "desc": " An Open-source LTE Downlink/Uplink Eavesdropper.",
     "officialSite": "",
     "topics": ["sniffer", "wireless", "sdr", "cellular", "lte"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/4ac1b154c3b05c672689b663bb6f3105a50f92e7219f9a6516b7695e9f07bacd/SysSec-KAIST/LTESniffer"
   }, {
     "repo": "turingbirds/ping-clock",
-    "desc": "Contribute to turingbirds/ping-clock development by creating an account on GitHub.",
+    "desc": "",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/dafae75e57be472d270f449b3c2b3620e0ce968f71160d9c524dd2557d9dd070/turingbirds/ping-clock"
   }, {
     "repo": "epasveer/seer",
-    "desc": "Seer - a gui frontend to gdb. Contribute to epasveer/seer development by creating an account on GitHub.",
+    "desc": "Seer - a gui frontend to gdb.",
     "officialSite": "",
     "topics": ["debugger", "debugging", "qt", "cpp", "gdb", "qt5", "debugger-visualizer", "debug", "gdb-mi", "debugger-visualizers", "debugger-gdb", "debugging-tools", "debugging-tool", "gdb-ui", "debuggers", "gnu-debugger", "gdbserver", "gdb-frontend", "qt6"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/0d179869dd793e5dbd87650482c58e73723a99d3069a00db0c7146780aaa9134/epasveer/seer"
   }, {
     "repo": "jart/json.cpp",
-    "desc": "JSON for Classic C++. Contribute to jart/json.cpp development by creating an account on GitHub.",
+    "desc": "JSON for Classic C++.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/58186fd0125a36a2941b2acab2b053476df0b392578b2cff2823c0e171587e71/jart/json.cpp"
   }, {
     "repo": "bab2min/Kiwi",
-    "desc": "Kiwi(지능형 한국어 형태소 분석기). Contribute to bab2min/Kiwi development by creating an account on GitHub.",
+    "desc": "Kiwi(지능형 한국어 형태소 분석기).",
     "officialSite": "https://lab.bab2min.pe.kr/kiwi",
     "topics": ["nlp", "cpp", "morphology", "korean", "word-segmentation", "morphological-analysis", "korean-text-processing", "korean-tokenizer", "korean-nlp"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/82677855/eb9fa478-175d-47a5-8e07-0e169c030ff5"
   }, {
     "repo": "MisterTea/EternalTerminal",
-    "desc": "Re-Connectable secure remote shell. Contribute to MisterTea/EternalTerminal development by creating an account on GitHub.",
+    "desc": "Re-Connectable secure remote shell.",
     "officialSite": "https://mistertea.github.io/EternalTerminal/",
     "topics": ["tmux", "ssh", "terminal", "remote-shell", "mosh"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/d5e849d703ed2e6f0a066c239d4339f1136875916dfa68882b3813d1ebd7b80e/MisterTea/EternalTerminal"
   }, {
     "repo": "maharmstone/ntfs2btrfs",
-    "desc": "Contribute to maharmstone/ntfs2btrfs development by creating an account on GitHub.",
+    "desc": "",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/4e6ab205958e33ff703a620d0ad6537e94ae0a087307331973f6c81bc6a4c66d/maharmstone/ntfs2btrfs"
   }, {
     "repo": "Bananymous/banan-os",
-    "desc": "Mirror of banan-os, my hobby operating system. Contribute to Bananymous/banan-os development by creating an account on GitHub.",
+    "desc": "Mirror of banan-os, my hobby operating system.",
     "officialSite": "https://git.bananymous.com/Bananymous/banan-os",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2420,5 +2420,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/0b14e1eb025e4a9131495606a4966a17b693b79e347e64819cb16917507be70a/wesql/wesql"
+  }, {
+    "repo": "taichi-dev/taichi",
+    "desc": "Productive, portable, and performant GPU programming in Python.",
+    "officialSite": "https://taichi-lang.org",
+    "topics": ["gpu", "computer-graphics", "taichi", "gpu-programming", "differentiable-programming", "sparse-computation"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/86beba6dcbab7ee7c6f91e174c369edcfc1379a6318092b4d7c1df904dac1af4/taichi-dev/taichi"
   }
 ]

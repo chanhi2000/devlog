@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "RachelfTech",
+    "name": "RachelfTech",
+    "profile": "https://yt3.googleusercontent.com/iLh5VRmmiceV59HMKa2RX_Jr_CTE6UYyMMLecQMy3GDkXcXe2JvQh7wDxxsvWse9dFRLPY-U=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/en40C6ZX3hOQyLbBplJQqB6CQICax9T8i-rt8oulxl1qtaK6fpUvhpf7UYYv_p05xxyf9o2gRw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oMzI9DLgPKc", "title": "I Made Interactive Snow in Godot" },
+    { "id": "RtUSqDuHq98", "title": "I Made a Wave Function Collapse Castle Generator in Godot" },
+    { "id": "4jb4HKMa2KQ", "title": "I Entered My First Game Jam! (Ludum Dare 56 Devlog)" },
+    { "id": "T73lvhhw_rA", "title": "I Made a Procedural Snake Game in Godot" }
+  ],
+  "playlists": [
+
+  ]
+}

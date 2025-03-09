@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "offhome",
+    "name": "퇴근하겠습니다",
+    "profile": "https://yt3.googleusercontent.com/MxmUPsuW-JGPqQi8CSesDjfwC09Z8OTo__WLXtE1FZcULyF57yxszibEkxyMiRsbOWvGALi1TQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "XEOMyKc-cZ4", "title": "엑셀 VLOOKUP은 오늘부터 안녕~🖐 환상적인 구글시트 VLOOKUP 최종 정리! 다중조건, 자동채우기" },
+    { "id": "B1N7h35Dmec", "title": "구글시트 vlookup 다중조건 찾기 (배열, arrayformula  활용)" },
+    { "id": "D5DJ7NFO9aM", "title": "vlookup 무시하면 안돼요! 구글시트, 값 찾기 초급 (vlookup, match)" },
+    { "id": "KR-mewhb3Wc", "title": "숫자/문자를 날짜로 바꾸기 - 구글시트 날짜 뽀개기!" },
+    { "id": "M0cNLdESgLY", "title": "쿼리 결과를 다시 쿼리하기 (계산 결과를 필터링하기, 선택하지 않은 열로 정렬하기 - 구글 시트 쿼리)" },
+    { "id": "F9ETQhI30G8", "title": "구글 시트 쿼리 고급 - Pivot 가로 정렬" },
+    { "id": "NzoIcMxHBeE", "title": "구글 시트 쿼리 중급 - Pivot 합계" },
+    { "id": "UmrO7sizwjE", "title": "구글 시트 쿼리 응용#2 - Pivot과 Pivot 내 합계" }
+  ],
+  "playlists": [
+
+  ]
+}

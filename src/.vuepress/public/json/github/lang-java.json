@@ -1105,7 +1105,7 @@
     "banner": ""
   }, {
     "repo": "halo-dev/halo",
-    "desc": "强大易用的开源建站工具。. Contribute to halo-dev/halo development by creating an account on GitHub.",
+    "desc": "强大易用的开源建站工具。.",
     "officialSite": "https://www.halo.run",
     "topics": ["blog", "cms", "blog-engine", "halo", "content-management-system", "halocms"],
     "avatar": "https://avatars.githubusercontent.com/u/55039406?s=64&v=4",
@@ -1133,7 +1133,7 @@
     "banner": "https://repository-images.githubusercontent.com/237940592/6d2b958a-b8f5-41d1-ba19-d7b099014ba9"
   }, {
     "repo": "ilevd/cwp",
-    "desc": "Indentation-based syntax for Clojure. Contribute to ilevd/cwp development by creating an account on GitHub.",
+    "desc": "Indentation-based syntax for Clojure.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

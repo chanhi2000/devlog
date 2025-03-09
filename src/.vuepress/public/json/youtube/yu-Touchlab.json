@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/j8awIdJ69rMpskQbVFFDol99eQGCMR2we9nO9BKVhJC2B6WBRiX8v8C-1FImWXPQlfd2QW6gWA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UukFp6TbcZ8", "title": "Mix Native iOS Views in Compose Multiplatform With Touchlab's New Library!" },
+    { "id": "1od6fawbVbg", "title": "The Future of Kotlin, Android, and Everything" },
+    { "id": "9O6sdS3SnXo", "title": "Modern Kotlin Multiplatform Adoption for Native Mobile Teams" },
+    { "id": "7OIe8U2VVkA", "title": "Multiplatform Compose + SwiftUI = The Native App Future" },
     { "id": "Z7vXNIrHi_o", "title": "KMP Team Workflows and KMMBridge Quick Start" },
     { "id": "DcO9psUh4LI", "title": "Kotlin Multiplatform Threading & KMP in Production (#TouchlabShare with Careem's Ahmed El-Helw)" }, 
     { "id": "_oujlTE0LiY", "title": "SQLite/SQLDelight ❤ Kotlin Multiplatform" } 

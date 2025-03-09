@@ -41,5 +41,6 @@ head:
 <MyYouTubeItems jsonName="yu-samwitteveenai" /><!-- Sam Witteveen -->
 <MyYouTubeItems jsonName="yu-dabidstudio-ho7fh" /><!-- 다비드스튜디오 dabidstudio  -->
 <MyYouTubeItems jsonName="yu-avb_fj" /><!-- Neural Breakdown with AVB -->
+<MyYouTubeItems jsonName="yu-tilnote" /><!-- tilnote - AI, 테크 -->
 
 <TagLinks />

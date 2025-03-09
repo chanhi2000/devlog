@@ -3903,7 +3903,7 @@
     "officialSite": "https://firecrawl.dev",
     "topics": ["markdown", "crawler", "data", "scraper", "ai", "html-to-markdown", "web-crawler", "scraping", "webscraping", "rag", "llm", "ai-scraping"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
-    "banner": "https://opengraph.githubassets.com/8addc7a81721f5d18b9ba57d53e2845a898b58b1ac3e0939cc08303c61d32880/mendableai/firecrawl"
+    "banner": "https://opengraph.githubassets.com/f5354dc206b47927d3b9b573fd687bbbb5c40832b7568c838703526140ca3385/mendableai/firecrawl"
   }, {
     "repo": "scalar/scalar",
     "desc": "Beautiful API references from OpenAPI/Swagger files ✨",
@@ -4928,7 +4928,7 @@
     "banner": "https://opengraph.githubassets.com/79c382f79821358921e804750314ed8a69430ddd3ac5988980b7c429deb45f8b/getmaxun/maxun"
   }, {
     "repo": "corbt/agent.exe",
-    "desc": "Contribute to corbt/agent.exe development by creating an account on GitHub.",
+    "desc": "",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -4942,7 +4942,7 @@
     "banner": "https://repository-images.githubusercontent.com/838247433/daeeb1ff-573d-4abe-b1c9-3df1ed6f0490"
   }, {
     "repo": "stoix-dev/stoix-cloud-saver",
-    "desc": "Contribute to stoix-dev/stoix-cloud-saver development by creating an account on GitHub.",
+    "desc": "",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -4963,7 +4963,7 @@
     "banner": "https://opengraph.githubassets.com/4741c814ffb29b0b7757282354a6193a79e9d786b3335d611e44d6ea7a3eebc6/visprex/visprex"
   }, {
     "repo": "unjs/jiti",
-    "desc": "Runtime TypeScript and ESM support for Node.js. Contribute to unjs/jiti development by creating an account on GitHub.",
+    "desc": "Runtime TypeScript and ESM support for Node.js.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -5073,5 +5073,12 @@
     "topics": ["visualization", "architecture", "developer-tools", "vscode-extension", "language-model", "system-design", "llm"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/4ac1f41cd59177c11a54bb34720bd2ded04d5875044482f2c41e4edcea7aa81a/swark-io/swark"
+  }, {
+    "repo": "LimeJourney/limeJourney",
+    "desc": "Open Source Customer Engagement Platform (Customer.io Alternative)",
+    "officialSite": "https://www.limejourney.com",
+    "topics": ["kafka", "clickhouse", "nextjs", "saas", "temporal", "tailwindcss"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/11b1e1075cdd98fa68039685598fa6dbfde6c5660627d5e78dc4003b70f0f27a/LimeJourney/limeJourney"
   }
 ]

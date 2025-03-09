@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "semicoding",
+    "name": "반도체 코딩룸",
+    "profile": "https://yt3.googleusercontent.com/_fnU8iywE6M1x61fUBKHYHdXIDcslmNvZzeWX4-xoDuJmuy6BqQaTEbjQ1EAgu-inwBes9l2=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9_m3cX76zZaq4wXg_bNX8cW4k0Kq2RAH18Dp2ahTrJLuMSsV3-mrbKC-gj239CzhuEqdkwLl7g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "asyOCL_OyiQ", "title": "개발자 취업 중 인생 꼬이는 과정. 미리 알면 막을 수 있습니다." },
+    { "id": "j_PsIz9AHGM", "title": "개발자의 기본기는 이래서 중요합니다." },
+    { "id": "xZxj4spabmU", "title": "개발자가 착각을 하면 발생하는 일…" },
+    { "id": "W-XiuvebAk0", "title": "요즘 개발자 취업은 '이 것'을 아셔야 합니다!" }
+  ],
+  "playlists": [
+
+  ]
+}

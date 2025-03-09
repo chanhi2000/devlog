@@ -2087,7 +2087,7 @@
     "banner": ""
   }, {
     "repo": "yorukot/superfile",
-    "desc": "Pretty fancy and modern terminal file manager. Contribute to yorukot/superfile development by creating an account on GitHub.",
+    "desc": "Pretty fancy and modern terminal file manager.",
     "officialSite": "https://superfile.netlify.app",
     "topics": ["cli", "golang", "filemanager", "filesystem", "tui", "file-manager", "terminal-based", "linux-app", "terminal-app", "bubbletea", "terminal-file-manager"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2514,7 +2514,7 @@
     "banner": ""
   }, {
     "repo": "crossplane/crossplane",
-    "desc": "The Cloud Native Control Plane. Contribute to crossplane/crossplane development by creating an account on GitHub.",
+    "desc": "The Cloud Native Control Plane.",
     "officialSite": "https://crossplane.io",
     "topics": ["kubernetes", "infrastructure", "serverless", "containers", "cncf", "cloud-management", "cloud-computing", "infrastructure-as-code", "cloud-native", "control-plane", "multicloud"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2668,14 +2668,14 @@
     "banner": ""
   }, {
     "repo": "mappu/miqt",
-    "desc": "MIT-licensed Qt bindings for Go. Contribute to mappu/miqt development by creating an account on GitHub.",
+    "desc": "MIT-licensed Qt bindings for Go.",
     "officialSite": "",
     "topics": ["go", "golang", "qt", "qt5", "bindings", "cgo", "qtwidgets"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/d16deadf953af0a3f17d5d5560a97de5a0019ac286cb63ad1723ae25ebca3ea4/mappu/miqt"
   }, {
     "repo": "dagger/dagger",
-    "desc": "An engine to run your pipelines in containers. Contribute to dagger/dagger development by creating an account on GitHub.",
+    "desc": "An engine to run your pipelines in containers.",
     "officialSite": "https://dagger.io",
     "topics": ["docker", "devops", "deployment", "continuous-integration", "continuous-delivery", "containers", "continuous-deployment", "ci-cd", "buildkit"],
     "avatar": "https://avatars.githubusercontent.com/u/179503?s=64&v=4",
@@ -2703,14 +2703,14 @@
     "banner": "https://opengraph.githubassets.com/14259046cf90fb7e17c215609328fcd3e3053e5b326bf101e3be17e398d717a8/google/kube-startup-cpu-boost"
   }, {
     "repo": "neilotoole/sq",
-    "desc": "sq data wrangler. Contribute to neilotoole/sq development by creating an account on GitHub.",
+    "desc": "sq data wrangler.",
     "officialSite": "https://sq.io",
     "topics": ["mysql", "go", "markdown", "golang", "tsv", "postgres", "json", "csv", "sql", "database", "xml", "excel", "xlsx", "sqlserver", "jsonl", "jsona", "data-wrangler", "azure-sql-edge"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/0ab88a6a67fb751ca9b122e64a6493457e587a39085ec9c62579712b75cba785/neilotoole/sq"
   }, {
     "repo": "trufflesecurity/trufflehog",
-    "desc": "Find, verify, and analyze leaked credentials. Contribute to trufflesecurity/trufflehog development by creating an account on GitHub.",
+    "desc": "Find, verify, and analyze leaked credentials.",
     "officialSite": "https://trufflesecurity.com",
     "topics": ["security", "credentials", "secret", "secret-management", "verification", "secrets", "dynamic-analysis", "scanning", "hacktoberfest", "precommit", "security-tools", "devsecops", "trufflehog"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2738,7 +2738,7 @@
     "banner": "https://opengraph.githubassets.com/86ebb118649fcda123b97c84267628c7b589fd07a68e5c572db6d3ff18e02fc3/dim0x69/mdx"
   }, {
     "repo": "BemiHQ/BemiDB",
-    "desc": "Postgres read replica optimized for analytics. Contribute to BemiHQ/BemiDB development by creating an account on GitHub.",
+    "desc": "Postgres read replica optimized for analytics.",
     "officialSite": "https://bemidb.com",
     "topics": ["replication", "analytics", "postgresql", "data-warehouse", "olap", "parquet", "iceberg", "duckdb", "data-movement", "data-lakehouse", "zero-etl"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2752,7 +2752,7 @@
     "banner": "https://opengraph.githubassets.com/29977b94b9f62d37bec747085fcd8e1baff6b03448438ba5c73e18b3ab5cd6a4/GreenmaskIO/greenmask"
   }, {
     "repo": "substratusai/kubeai",
-    "desc": "AI Inference Operator for Kubernetes. Contribute to substratusai/kubeai development by creating an account on GitHub.",
+    "desc": "AI Inference Operator for Kubernetes.",
     "officialSite": "https://www.kubeai.org",
     "topics": ["kubernetes", "ai", "k8s", "whisper", "autoscaler", "openai-api", "llm", "vllm", "faster-whisper", "ollama", "vllm-operator", "ollama-operator", "inference-operator"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2766,14 +2766,14 @@
     "banner": "https://repository-images.githubusercontent.com/627567877/13474bae-14e4-4ffe-9e11-c23a606a0fcf"
   }, {
     "repo": "naver/lobster",
-    "desc": "🦞 Distributed kubernetes container logging system. Contribute to naver/lobster development by creating an account on GitHub.",
+    "desc": "🦞 Distributed kubernetes container logging system.",
     "officialSite": "",
     "topics": ["kubernetes", "distributed-systems", "container-log", "global-query"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/8fc75ad92e694d1626859219688c15982ab95be548f05e91fab0c095ee2708ab/naver/lobster"
   }, {
     "repo": "google/go-safeweb",
-    "desc": "Secure-by-default HTTP servers in Go. Contribute to google/go-safeweb development by creating an account on GitHub.",
+    "desc": "Secure-by-default HTTP servers in Go.",
     "officialSite": "",
     "topics": ["golang", "http", "security", "http-server", "security-hardening"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2787,7 +2787,7 @@
     "banner": "https://repository-images.githubusercontent.com/150954997/0f9b6486-aa17-4e01-8aba-602b667ed6ba"
   }, {
     "repo": "charmbracelet/sequin",
-    "desc": "Human-readable ANSI sequences 🪩. Contribute to charmbracelet/sequin development by creating an account on GitHub.",
+    "desc": "Human-readable ANSI sequences 🪩.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2801,7 +2801,7 @@
     "banner": "https://opengraph.githubassets.com/c8d81496c50352887ac4a8c6e095f8283b4f3888cfc2fcc3010dc65f864c59fa/ssoready/hyrumtoken"
   }, {
     "repo": "doxx/darkflare",
-    "desc": "DarkFlare Firewall Piercing (TCP over CDN). Contribute to doxx/darkflare development by creating an account on GitHub.",
+    "desc": "DarkFlare Firewall Piercing (TCP over CDN).",
     "officialSite": "",
     "topics": ["golang", "security", "proxy-server", "censorship-circumvention", "tunneling", "tunnel-server", "tunnel-client", "security-tools", "vpns", "firewall-piercing", "tcpocdn"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -2815,14 +2815,14 @@
     "banner": "https://opengraph.githubassets.com/954f51409d7f2eb1af187750954a8f6bcc84bb5c72c2c43c541161a0d9e5b7b8/destel/rill"
   }, {
     "repo": "janderland/fql",
-    "desc": "Foundation DB Query Language. Contribute to janderland/fql development by creating an account on GitHub.",
+    "desc": "Foundation DB Query Language.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/cc3abeab533dacab73bff1811e812c4ce3a53a94f416fa73d7eefba73375ae92/janderland/fql"
   }, {
     "repo": "vinceanalytics/vince",
-    "desc": "Self Hosted Alternative To Google Analytics. Contribute to vinceanalytics/vince development by creating an account on GitHub.",
+    "desc": "Self Hosted Alternative To Google Analytics.",
     "officialSite": "https://www.vinceanalytics.com/",
     "topics": ["web-analytics", "self-hosted", "cloud-native", "vince"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

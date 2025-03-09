@@ -29,7 +29,7 @@
     "banner": "https://opengraph.githubassets.com/fd906db6df7d3843d6c33ff8e7dee7ed1a7f5c4096caebae2c27b88216dc65d6/bjesus/teatime"
   }, {
     "repo": "frappe/crm",
-    "desc": "Fully featured, open source CRM. Contribute to frappe/crm development by creating an account on GitHub.",
+    "desc": "Fully featured, open source CRM.",
     "officialSite": "https://frappe.io/crm",
     "topics": ["javascript", "python", "open-source", "sales", "marketing", "web", "vue", "crm", "webapp", "frappe", "customer", "crm-system", "crm-platform", "vuejs3", "frappe-app", "crm-connections"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

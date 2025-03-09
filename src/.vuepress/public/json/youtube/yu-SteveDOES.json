@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "SteveDOES",
+    "name": "Steve DOES",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mMSRgdnRrZZZogUAkUNGXwKFucKV7yjOy9vLOkay_tLUQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qKLHMa49H1GJvIZWyJpVK81pxubxkU7JB5sq2kyAYfyU3_gnueLswJcXDU9yeo-iOeeg8fbtp7U=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "G3UqN39vdtQ", "title": "Supercharging My Home Network: Wi-Fi 7 + 10Gb Ethernet Setup" },
+    { "id": "aLjZOlkq1v8", "title": "Portable Power with UPS Backup - EcoFlow River 3 Plus" },
+    { "id": "nTbDPEAsJb8", "title": "3 Portable Power Stations in 2024 Every Outdoor Enthusiast Needs to Know! Anker SOLIX C300 Series" },
+    { "id": "CKeoksoBP6o", "title": "5 Insane EcoFlow Deals You Won't Want to Miss on Black Friday" },
+    { "id": "ymVBygBGKP4", "title": "Portable Power Reinvented! Meet EcoFlow DELTA 3 Plus & River 3" },
+    { "id": "DuLWhRRgO3o", "title": "Pocket Router - From Wi-Fi Woes to Travel Bliss! | GL.iNet Slate AX" },
+    { "id": "qC9oWecDlNQ", "title": "This Pocket Router Will Improve Your Life For Under $60!!!" },
+    { "id": "8kosuxEB7-8", "title": "Can I Get 2.5Gbit Speeds Over OLD Cat5e Ethernet In My Walls?" }
+  ],
+  "playlists": [
+
+  ]
+}

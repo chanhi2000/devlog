@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/77MAEca8Ow9aIJu7koV6akKsU2dWUBhEQSyGVfTqVT4-PCfFXM96gqVC5jEFfabR5uLvY-YO=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yzPQaNhuVGU", "title": "Advanced RAG with LlamaIndex - Metadata Extraction [2025]" },
+    { "id": "M6fdbgOGFHc", "title": "LlamaIndex: How to use LLMs" },
+    { "id": "2Qr0yUGGpCE", "title": "LlamaIndex: How to Get Structured from LLMs" },
+    { "id": "uLrReyH5cu0", "title": "Multimodal RAG: Chat with PDFs (Images & Tables) [latest version]" },
+    { "id": "hKVhRA9kfeM", "title": "Python: Create a ReAct Agent from Scratch" },
+    { "id": "W03paqjbWAg", "title": "New Groq Models: Best for Function-Calling Agents" },
+    { "id": "cCyYGYyCka4", "title": "Introduction to LlamaIndex with Python (2024)" },
     { "id": "LHXujQ19Euo", "title": "Python: Automating a Marketing Team with AI Agents | Planning and Implementing CrewAI" },
     { "id": "vhbfs38XmKk", "title": "Build a Web App (GUI) for your CrewAI Automation (Easy with Python)" },
     { "id": "27sEXFWAbw0", "title": "Early days of RAG and LlamaIndex - Jerry Liu" },

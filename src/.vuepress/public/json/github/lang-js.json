@@ -1534,11 +1534,11 @@
     "banner": ""
   }, {
     "repo": "Mintplex-Labs/anything-llm",
-    "desc": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
-    "officialSite": "https://useanything.com",
-    "topics": ["ai-agents", "chromadb", "crewai", "crewaiui", "desktop-app", "llama3", "llamacpp", "llm", "llm-application", "llm-webui", "lmstudio", "local-llm", "localai", "ollama", "rag", "vector-database", "webui"],
-    "avatar": "",
-    "banner": ""
+    "desc": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.",
+    "officialSite": "https://anythingllm.com",
+    "topics": ["nodejs", "desktop-app", "webui", "ai-agents", "multimodal", "rag", "vector-database", "llm", "localai", "local-llm", "ollama", "llm-webui", "lmstudio", "llm-application", "agent-framework-javascript", "deepseek", "crewai", "llama3", "custom-ai-agents", "deepseek-r1"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/649170660/c5b68040-7062-4d38-bf7f-f6e57c8d2396"
   }, {
     "repo": "SillyTavern/SillyTavern",
     "desc": "LLM Frontend for Power Users.",
@@ -2988,11 +2988,11 @@
     "banner": ""
   }, {
     "repo": "alexpinel/Dot",
-    "desc": "Standalone app for document interaction with local LLM",
+    "desc": "Text-To-Speech, RAG, and LLMs. All local!",
     "officialSite": "https://dotapp.uk/",
-    "topics": ["ai", "app", "desktop-app", "document-chat", "embeddings", "faiss", "gpt", "langchain", "llm", "local", "localai", "mistral", "mistral-7b", "privategpt", "rag", "standalone", "standalone-app"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["local", "standalone", "self-hosted", "embeddings", "tts", "faiss", "rag", "standalone-app", "llm", "langchain", "whisper-cpp", "llamacpp", "privategpt", "document-chat", "phi-3"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/772626462/96e4f11c-e136-4cad-af9e-5707fe0dc217"
   }, {
     "repo": "alyssaxuu/screenity",
     "desc": "The free and privacy-friendly screen recorder with no limits 🎥",

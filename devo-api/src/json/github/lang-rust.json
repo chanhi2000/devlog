@@ -1852,7 +1852,7 @@
     "banner": ""
   }, {
     "repo": "EricLBuehler/mistral.rs",
-    "desc": "Blazingly fast LLM inference. Contribute to EricLBuehler/mistral.rs development by creating an account on GitHub.",
+    "desc": "Blazingly fast LLM inference.",
     "officialSite": "",
     "topics": ["rust", "llm"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
@@ -1866,7 +1866,7 @@
     "banner": ""
   }, {
     "repo": "jdx/mise",
-    "desc": "dev tools, env vars, task runner. Contribute to jdx/mise development by creating an account on GitHub.",
+    "desc": "dev tools, env vars, task runner.",
     "officialSite": "https://mise.jdx.dev",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

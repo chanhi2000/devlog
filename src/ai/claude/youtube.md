@@ -37,5 +37,6 @@ head:
 <MyYouTubeItems jsonName="yu-elder_plinius" /><!-- Pliny the Prompter -->
 <MyYouTubeItems jsonName="yu-TiffInTech" /><!-- Tiff In Tech -->
 <MyYouTubeItems jsonName="yu-OSFirstTimer" /><!-- OSFirstTimer -->
+<MyYouTubeItems jsonName="yu-tilnote" /><!-- tilnote - AI, 테크 -->
 
 <TagLinks />

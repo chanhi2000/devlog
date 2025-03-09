@@ -1,7 +1,7 @@
 [
   {
     "repo": "BobMcDear/trap",
-    "desc": "Autoregressive transformers in APL. Contribute to BobMcDear/trap development by creating an account on GitHub.",
+    "desc": "Autoregressive transformers in APL.",
     "officialSite": "",
     "topics": ["nlp", "deep-learning", "transformer", "gpt", "apl"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

@@ -7213,11 +7213,11 @@
     "banner": ""
   }, {
     "repo": "mem0ai/mem0",
-    "desc": "The Memory layer for your AI apps",
+    "desc": "The Memory layer for AI Agents.",
     "officialSite": "https://mem0.ai",
-    "topics": ["agent", "ai", "aiagent", "application", "chatbots", "chatgpt", "embeddings", "llm", "long-term-memory", "memory", "memory-management", "python", "rag", "state-management", "vector-database"],
-    "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
-    "banner": ""
+    "topics": ["python", "agent", "application", "state-management", "ai", "memory", "embeddings", "chatbots", "memory-management", "long-term-memory", "rag", "vector-database", "llm", "chatgpt", "aiagent"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/28db06fb30ee50b10dec0093bd7ec28f2e573b51abb9aa97e229b2db359700c9/mem0ai/mem0"
   }, {
     "repo": "prowler-cloud/prowler",
     "desc": "Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
@@ -7262,11 +7262,11 @@
     "banner": ""
   }, {
     "repo": "opendatalab/MinerU",
-    "desc": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
-    "officialSite": "https://opendatalab.com/OpenSourceTools",
-    "topics": ["ai4science", "document-analysis", "extract-data", "layout-analysis", "ocr", "parser", "pdf", "pdf-converter", "pdf-extractor-llm", "pdf-extractor-pretrain", "pdf-extractor-rag", "pdf-parser", "python"],
-    "avatar": "https://avatars.githubusercontent.com/u/97503431?v=4",
-    "banner": ""
+    "desc": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+    "officialSite": "https://mineru.net",
+    "topics": ["python", "pdf", "parser", "ocr", "pdf-converter", "extract-data", "document-analysis", "pdf-parser", "layout-analysis", "ai4science", "pdf-extractor-rag", "pdf-extractor-llm", "pdf-extractor-pretrain"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2cdcafed5c592540f9d574e5a7a53808f96a31352b7b3ad30dcea79f13771992/opendatalab/MinerU"
   }, {
     "repo": "devrim/cloudflare-noip",
     "desc": "free alternative to paid dynamic DNS services like NoIP.com",
@@ -7717,18 +7717,11 @@
     "banner": ""
   }, {
     "repo": "PromtEngineer/Verbi",
-    "desc": "A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.",
+    "desc": "A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepg...",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/134474669?v=4",
-    "banner": ""
-  }, {
-    "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
-    "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
-    "avatar": "https://avatars.githubusercontent.com/u/135057108?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/9b355ffdda4b41da1c2b3ad5f4df5746181e07f71b1d22df0c6644a93fd2ee28/PromtEngineer/Verbi"
   }, {
     "repo": "btsmart/splatt3r",
     "desc": "Official repository for Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs",
@@ -7805,13 +7798,6 @@
     "officialSite": "",
     "topics": ["continuous-deployment", "deployments", "developer-tools", "devops", "lambda", "library", "open-source", "package", "programming", "python", "serverless"],
     "avatar": "https://avatars.githubusercontent.com/u/158083724?v=4",
-    "banner": ""
-  }, {
-    "repo": "taichi-dev/taichi",
-    "desc": "Productive, portable, and performant GPU programming in Python.",
-    "officialSite": "https://taichi-lang.org",
-    "topics": ["computer-graphics", "differentiable-programming", "gpu", "gpu-programming", "sparse-computation", "taichi"],
-    "avatar": "https://avatars.githubusercontent.com/u/33354891?v=4",
     "banner": ""
   }, {
     "repo": "j6k4m8/epistolary",
@@ -8063,22 +8049,22 @@
     "desc": "Text-to-Music Generation with Rectified Flow Transformers",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/37614046?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/badb0b570d3ec381fbb3bfe7f0ae3f51309c0063c5141e924e18c182242f32d1/feizc/FluxMusic"
   }, {
     "repo": "gpt-omni/mini-omni",
-    "desc": "open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities. ",
+    "desc": "open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.",
     "officialSite": "https://arxiv.org/abs/2408.16725",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/179588833?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/13db0506702127f7631d3c55df792dfa2b300bc98f0cba99b72af18ee475e513/gpt-omni/mini-omni"
   }, {
     "repo": "tsterbak/promptmage",
     "desc": "simplifies the process of creating and managing LLM workflows.",
     "officialSite": "https://promptmage.io",
-    "topics": ["ai", "llm", "nlp-library", "nlp-machine-learning", "prompt-engineering", "prompt-toolkit"],
-    "avatar": "https://avatars.githubusercontent.com/u/13310865?v=4",
-    "banner": ""
+    "topics": ["ai", "prompt-toolkit", "nlp-library", "nlp-machine-learning", "llm", "prompt-engineering"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/806c7e205f7db386afb5c3627c0c89962eb7939aef649937a2f3a976bce4715c/tsterbak/promptmage"
   }, {
     "repo": "cle-b/httpdbg",
     "desc": "A tool for Python developers to easily debug the HTTP(S) client requests in a Python program.",
@@ -8140,15 +8126,15 @@
     "desc": "A python package for serving LLM on OpenAI-compatible API endpoints with prompt caching using MLX.",
     "officialSite": "",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/40786995?s=64&v=4",
-    "banner": "https://opengraph.githubassets.com/75b4f421edefe1eda3eda79099d5c48792f0a3e6762b3169c3c516ca8008c4c2/nath1295/MLX-Textgen"
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a9ec240a90270663caf10e71a772cf0f991c738bde0c781229ae601b9500d331/nath1295/MLX-Textgen"
   }, {
-    "repo": "DataformerAI/dataformer",
+    "repo": "BhabhaAI/dataformer",
     "desc": "Solving data for LLMs - Create quality synthetic datasets!",
     "officialSite": "https://dataformer.ai",
     "topics": ["nlp", "data", "labeling", "synthetic-data", "synthetic-dataset-generation", "llm"],
-    "avatar": "https://avatars.githubusercontent.com/u/39311993?s=64&v=4",
-    "banner": "https://opengraph.githubassets.com/f1122f05e2f40d385e20b7ef9300f87bb8126e3ed34ed17d9925309d6cbe972b/DataformerAI/dataformer"
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/46709f2720f245ed837c61c89061141d501dac108e1281903960c88c5ff9af6a/BhabhaAI/dataformer"
   }, {
     "repo": "fastapi/typer",
     "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
@@ -8165,11 +8151,11 @@
     "banner": "https://opengraph.githubassets.com/91099e3905bcefaddd0025644bfe64f5245bfdca44b2638c90ab582dd6e9dd98/facebookincubator/ft_utils"
   }, {
     "repo": "speechbrain/speechbrain",
-    "desc": "A PyTorch-based Speech Toolkit. Contribute to speechbrain/speechbrain development by creating an account on GitHub.",
+    "desc": "A PyTorch-based Speech Toolkit.",
     "officialSite": "http://speechbrain.github.io",
     "topics": ["audio", "deep-learning", "transformers", "pytorch", "voice-recognition", "speech-recognition", "speech-to-text", "language-model", "speaker-recognition", "speaker-verification", "speech-processing", "audio-processing", "asr", "speaker-diarization", "speechrecognition", "speech-separation", "speech-enhancement", "spoken-language-understanding", "huggingface", "speech-toolkit"],
-    "avatar": "https://avatars.githubusercontent.com/u/11627174?s=64&v=4",
-    "banner": "https://opengraph.githubassets.com/0fd695b376273c096d491952774c73a0e566a29a4d03e7a964cd2d66f74500cd/speechbrain/speechbrain"
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1f5dea92746d7582961a452a32abb56a7d31684b7cde16a7f87bd3763dd0c6da/speechbrain/speechbrain"
   }, {
     "repo": "THUDM/LongWriter",
     "desc": "LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs",
@@ -8179,7 +8165,7 @@
     "banner": "https://opengraph.githubassets.com/a005f711daae089135f3903bf09a7453ec29fd0117497667ac26e8970e274dc6/THUDM/LongWriter"
   }, {
     "repo": "hpyproject/hpy",
-    "desc": "HPy: a better API for Python. Contribute to hpyproject/hpy development by creating an account on GitHub.",
+    "desc": "HPy: a better API for Python.",
     "officialSite": "https://hpyproject.org",
     "topics": ["hpy"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

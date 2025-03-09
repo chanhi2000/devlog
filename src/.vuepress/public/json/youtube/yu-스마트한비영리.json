@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "스마트한비영리",
+    "name": "스마트한 비영리",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_n9LSddXHFgz9MumtQ4UP0YWV1oYrvj0O9JUw6m5JI=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "BVkNdzLUbyo", "title": "차량운행일지 앱시트 샘플 공유" },
+    { "id": "FOpJ2wZWCWA", "title": "앱시트로 만든 출퇴근 관리 프로그램(샘데일리), 허순강(태화샘솟는집 정신건강 사회복지사) 인터뷰 2/2" },
+    { "id": "aCBAiaFC2dw", "title": "앱시트로 만든 실적관리 프로그램(샘매니저), 허순강(태화샘솟는집 정신건강 사회복지사) 인터뷰 1/2" },
+    { "id": "YUNNOHZHlBs", "title": "무료급식 등록 프로그램 (궁동종합사회복지관)" },
+    { "id": "ZeIEAcFegPM", "title": "비영리단체용 GoogleWorkspace 설치 방법(최신, 2023년 퍼센트 인증 버전)" },
+    { "id": "3M_OyVmBj74", "title": "비영리단체용 GoogleWorkspace 설치 방법(2023년 버전)" },
+    { "id": "lj0AgM6Ow0g", "title": "아름드리꿈터 실적관리 시스템 설명 (발달장애인주간활동센터)" }
+  ],
+  "playlists": [
+
+  ]
+}

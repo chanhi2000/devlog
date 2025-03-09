@@ -36,11 +36,11 @@
     "banner": ""
   }, {
     "repo": "dair-ai/Prompt-Engineering-Guide",
-    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering", 
-    "officialSite": "",
-    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "chatgpt"],
-    "avatar": "",
-    "banner": ""
+    "desc": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "officialSite": "https://www.promptingguide.ai/",
+    "topics": ["deep-learning", "openai", "language-model", "prompt-engineering", "generative-ai", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/47529232252a32c369a6d6e97608ec39a0837fd8aa7b09c5546aa9584bb377f5/dair-ai/Prompt-Engineering-Guide"
   }, {
     "repo": "freeCodeCamp/freeCodeCamp",
     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.", 
@@ -218,7 +218,7 @@
     "banner": ""
   }, {
     "repo": "sjpiper145/MakerSkillTree",
-    "desc": "A repository of Maker Skill Trees and templates to make your own.  ",
+    "desc": "A repository of Maker Skill Trees and templates to make your own.",
     "officialSite": "",
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/7828884?v=4",
@@ -235,7 +235,7 @@
     "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
     "officialSite": "https://deep-learning-drizzle.github.io",
     "topics": ["machine-learning", "natural-language-processing", "deep-neural-networks", "reinforcement-learning", "computer-vision", "deep-learning", "optimization", "probability", "deep-reinforcement-learning", "medical-imaging", "speech-recognition", "artificial-neural-networks", "pattern-recognition", "probabilistic-graphical-models", "bayesian-statistics", "artificial-intelligence-algorithms", "visual-recognition", "geometric-deep-learning", "explainable-ai", "graph-neural-networks"],
-    "avatar": "https://avatars.githubusercontent.com/u/5196297?s=64&v=4",
-    "banner": "https://opengraph.githubassets.com/c69c5e3cd32920614e5fbb30d7f837538b0d4145a34253317c414198cb0d8df4/kmario23/deep-learning-drizzle"
-  }
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/000c30175180bdf86f7a2096ed975f87510880eee1a0f19769f5b6022ccb2515/kmario23/deep-learning-drizzle"
+  }  
 ]

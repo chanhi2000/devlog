@@ -413,6 +413,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-linode',
         link: '/devops/linode/README.md',
       }, {
+        text: 'Fly',
+        icon: 'fa-brands fa-fly',
+        link: '/devops/fly/README.md',
+      }, {
         text: 'OCI',
         icon: 'iconfont icon-oci',
         link: '/devops/oci/README.md',

@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "BookOverflowPod",
+    "name": "Book Overflow",
+    "profile": "https://yt3.googleusercontent.com/a4FRJ2Um_BjVVzIQ_hZOQN7dAu3fMH2mTwtGWDRXV5pHM4Mt4AHuSF_17hoHpbFR7GNam8AT=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bEa1-E6RGe5zk7ypgy9x0_JU1O5SZRY1bQEifkA5cDILb0cOvmod4G1IIhV4biTU8oP__EHgXA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uLtPZO21XmE", "title": "Acing the System Design Interview - System Design Interview by Alex Xu" },
+    { "id": "VKu3Dyyzzjg", "title": "Carson Gross (Creator of HTMX) Reflects on Hypermedia Systems" },
+    { "id": "642ltl9lZbk", "title": "HTMX, Web 1.0 and JavaScript Fatigue - Hypermedia Systems by Gross, Stepinski, & Akşimşek" },
+    { "id": "-b4ycZZH5G8", "title": "Fix Your Software By Fixing Your Teams - Team Topologies by Matthew Skelton & Manuel Pais" },
+    { "id": "XApN4x_1das", "title": "Owning Your Career - The Software Engineer's Guidebook by Gergely Orosz" },
+    { "id": "V_CsjBaZhZY", "title": "Kent Beck Reflects on his book: Tidy First?" },
+    { "id": "kWmd-7Ju6n0", "title": "Our Top Five Books! - Book Overflow 2024" },
+    { "id": "wmzTRQh1fUA", "title": "Guess That Quote! - Book Overflow 2024" },
+    { "id": "oMbrrYKYDvU", "title": "Pramod Sadalage Reflects on Building Evolutionary Architectures" },
+    { "id": "QN-azRUAToc", "title": "Keeping Your Codebase Clean - Tidy First? by Kent Beck" },
+    { "id": "VloimYuCxBs", "title": "Brian Kernighan Reflects on Unix: A History and a Memoir" },
+    { "id": "nwl7MNAPNmE", "title": "Web App Fundamentals - The Twelve-Factor App" },
+    { "id": "0QWuGtcGPG0", "title": "Agile, Good or Bad? - The Agile Manifesto" },
+    { "id": "Zp9-t5-Vqzw", "title": "Accountability Retrospective - Book Overflow 2024" },
+    { "id": "FZSolNPql-4", "title": "Local Development & Maddening Bureaucracy - The Unicorn Project by Gene Kim (Part 1)" },
+    { "id": "CjCJ76oZXTE", "title": "Martin Fowler Reflects on Refactoring: Improving the Design of Existing Code" },
+    { "id": "xcBjCRa0MIw", "title": "You Build It, You Run It - The Unicorn Project by Gene Kim (Part 2)" },
+    { "id": "-RyNBWoeDWo", "title": "Rebecca Parsons Reflects on Building Evolutionary Architectures" },
+    { "id": "ZbH-bDKCdY8", "title": "New Horizons & Executive Politicking - The Unicorn Project by Gene Kim (Part 3)" },
+    { "id": "MmJ8oAw3JrA", "title": "The Legacy of Unix - Unix: A History and a Memoir by Brian Kernighan" },
+    { "id": "YJUTVJQ9eDE", "title": "Neal Ford Reflects on \"Fundamentals of Software Architecture\"" },
+    { "id": "tLC-o8pHclc", "title": "Discussing \"Working Effectively with Legacy Code\" by Michael Feathers (Part 2)" },
+    { "id": "UHIWQvVjv8k", "title": "Discussing \"Web Scalability for Startup Engineers\" by Artur Ejsmont (Part 1)" },
+    { "id": "CXtKUxlHMco", "title": "Michael Feathers Reflects on \"Working Effectively with Legacy Code\"" },
+    { "id": "GQ0F1bTvB38", "title": "Discussing \"Web Scalability for Startup Engineers\" by Artur Ejsmont (Part 2)" },
+    { "id": "wf68VDObVX0", "title": "Robert \"Uncle Bob\" Martin Reflects on \"Clean Coder\"" },
+    { "id": "V0n2ngoU4fg", "title": "Discussing \"Recoding America\" by Jennifer Pahlka" },
+    { "id": "vVulQqDjJX4", "title": "Apple Design Award Winner Devin Davies Shares His Learning Strategies" },
+    { "id": "kJs9pVy94jM", "title": "Host of Syntax Podcast Scott Tolinski Shares His Favorite Books" },
+    { "id": "atwwf0qWpYg", "title": "Discussing \"Building Evolutionary Architectures\" by Ford, Parsons, Kua, and Sadalage (Part 2)" },
+    { "id": "GL0EE_cv9T0", "title": "Carl Brown (Internet of Bugs) Shares His Favorite Books" },
+    { "id": "8B4_hl2dcow", "title": "Discussing \"Looks Good To Me\" by Adrienne Braganza (Part 1)" },
+    { "id": "Aw7_CBczUD4", "title": "Stephen Wolfram Reflects on What Is ChatGPT Doing... And Why Does It Work?" },
+    { "id": "6APf5GBA2co", "title": "Discussing \"Looks Good To Me\" by Adrienne Braganza (Part 2)" },
+    { "id": "9e8k6Kq-658", "title": "Adrienne Braganza Reflects on \"Looks Good To Me\"" },
+    { "id": "cjR-BmYLnpE", "title": "Discussing \"Slow Productivity\" by Cal Newport (1/2)" },
+    { "id": "Uce-sRp2IGw", "title": "Neal Ford Reflects on \"Building Evolutionary Architectures\"" },
+    { "id": "1_v6ye-3l7I", "title": "Work at a Natural Pace & Obsess Over Quality - Slow Productivity by Cal Newport" }
+  ],
+  "playlists": [
+
+  ]
+}

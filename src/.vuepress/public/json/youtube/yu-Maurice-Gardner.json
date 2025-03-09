@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "L0twCGyw71U", "title": "Using Splunk for Vulnerability Reporting Concepts" },
+    { "id": "shaG1zIr-G0", "title": "Utilizing Splunk with System & Network Security Implementation Concepts" },
+    { "id": "4GPeyrEBMZE", "title": "Splunk to Monitor for Port Scanning & Incident Response Management Techniques" },
     { "id": "U5KzmjuH2y4", "title": "Linux Scripting Techniques" },
     { "id": "cEpzLFDtVaE", "title": "Access Control Utilities" }
   ],

@@ -31,5 +31,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-greatscottlab" /><!-- GreatScott! -->
 <MyYouTubeItems jsonName="yu-upir_upir" /><!-- upir -->
+<MyYouTubeItems jsonName="yu-digikey-japan" /><!-- DigiKey日本公式チャンネル -->
 
 <TagLinks />

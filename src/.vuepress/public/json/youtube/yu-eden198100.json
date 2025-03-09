@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "eden198100",
+    "name": "KIMGUN",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lXUseWpshXThx7oGPDvidU8wJbppgLKagQZKVGsE9gBohy=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/TOfzj65JASAfnNaDD_ElEWkQq8qwNUAYgCcJIMtydc9I8I2jQ1Z96r9Lq5TKI7uMxIwIYt8FZA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lF83P2oV7FU", "title": "구글 스프레드시트와 QR코드 업무활용-1" },
+    { "id": "yjz5MFLlmtk", "title": "구글 스프레드시트와 QR코드 업무 활용 (무료급식편)" },
+    { "id": "tprOhuvGkl8", "title": "구글 스프레드시트와 QR코드 업무활용-3 (QR코드 출력 설정, 매크로 설정 및 사용방법, 자료수합 시트 설정방법)" },
+    { "id": "Lutg6nd34rA", "title": "구글 스프레드시트와 QR코드 업무활용-2    (QR코드생성, 매칭데이터 설정)" }
+  ],
+  "playlists": [
+
+  ]
+}

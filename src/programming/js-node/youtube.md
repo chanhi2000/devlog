@@ -219,4 +219,7 @@ head:
 <MyYouTubeItems jsonName="yu-encoredev" /><!-- Encore -->
 <MyYouTubeItems jsonName="yu-SoftwareDeveloperDiaries" /><!-- Software Developer Diaries -->
 <MyYouTubeItems jsonName="yu-activenode" /><!-- activenode -->
+<MyYouTubeItems jsonName="yu-dangreenheck" /><!-- Dan Greenheck -->
+<MyYouTubeItems jsonName="yu-JSWORLDConference" /><!-- JSWORLD Conference -->
+
 <TagLinks />

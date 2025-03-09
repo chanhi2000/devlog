@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "HiroSystems",
+    "name": "Hiro",
+    "profile": "https://yt3.googleusercontent.com/_dbF2Z9flca-WmJ3-JfGruieT3XleqV-u-G8MJyhzNSu8mw7iriTmpxya7lfSwBa42SEp5SuSI4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mUGkQo9-ezIhSZ2Or8_FrrYWyW5TsSfWf8ykIep8aCOUeijbHIyDSTkzT2XxPtzJ1tO93xbwwA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uN_yJHxcBFc", "title": "Build Web3 Apps in Minutes with Hiro Templates" },
+    { "id": "dEJaSyiK63s", "title": "How to Build with sBTC on Stacks" },
+    { "id": "jioU8ARNxFs", "title": "[Tutorial] Build a BuyMeACoffee app with sBTC, Vue.js, & Stacks.js" },
+    { "id": "z9ULVhygKCE", "title": "[Hiro Hacks 2025] Feburary Hack | Cookbook recipes" },
+    { "id": "unJrnnv7Ccs", "title": "Hiro 2024: A Look Back" },
+    { "id": "xwbXNgSvMkk", "title": "A Beginner's Overview of the Megapont Ape NFT Clarity Smart Contract" },
+    { "id": "6Y1wj4FahhM", "title": "Everything You Need To Know About The Developer Roadmap On Stacks" },
+    { "id": "uyqn3ojQkpg", "title": "A Deep Dive Into The sBTC Smart Contracts On Stacks" },
+    { "id": "S--gHI6Eutw", "title": "Setup an API Endpoint to Handle Chainhook Payloads" },
+    { "id": "EVTCB0cJL2I", "title": "Explaining The Devnet Dashboard" },
+    { "id": "jo6c_FvTkjk", "title": "Everything You Need To Know About The Nakamoto Updates To Our Devtools" },
+    { "id": "jjSbIKRb8Z8", "title": "Meeting Rockstar Web3 Builders at the EasyA x Stacks Hackathon" },
+    { "id": "Z9JQU_sOQLQ", "title": "The Complete Beginner's Guide to Full-Stack Stacks Development Post-Nakamoto Edition (2024)" },
+    { "id": "CkXS8x1Bcqc", "title": "Understanding The Smart Contract Behind Stacks' Largest NFT Airdrop" },
+    { "id": "svDcuP12Dag", "title": "The Challenges of Building a Multi-Sig Wallet for the Bitcoin L2 Ecosystem" },
+    { "id": "ef-dxoccsZE", "title": "Simnet vs. Devnet. What Are They? And When to Use Them?" },
+    { "id": "akHzkRXxG8Y", "title": "The Adventures of Learning the Clarity Smart Contract Language" },
+    { "id": "L_eRkzkA_-o", "title": "Testing Your Contracts Ahead of Nakamoto" },
+    { "id": "U4J_JnbTg2o", "title": "ExecutorDAO - Understanding DAO Smart Contracts on Stacks" },
+    { "id": "R29s_GC8AoA", "title": "5 Ways to Interact With Devnet in the Hiro Platform" },
+    { "id": "GcHAIK50eTI", "title": "Explore the New Hiro Docs" },
+    { "id": "JWYqT9fl8QI", "title": "Tokenizing Real World Assets at the Consensus Hackathon" },
+    { "id": "UiHdINx0AAw", "title": "Creating Event Streams for Stacks" },
+    { "id": "FR9O1iEMHTc", "title": "Validate Your Contract Code in the Hiro Platform Pt. 2" },
+    { "id": "2aoAtjge5a0", "title": "Reinventing Crowdfunding on Stacks at the Consensus Hackathon" },
+    { "id": "U0pGKzbZO2w", "title": "How to Use the Runes API" },
+    { "id": "a7c8aBiIkD4", "title": "Smart Contract of the Month [August 2024 - Semi-Fungible-Token]" },
+    { "id": "NcedVE5ogiE", "title": "Using Git with the Hiro Platform for Team Collaboration" },
+    { "id": "2PqDNJub0pQ", "title": "Nakamoto Support Now Live on Simnet and Devnet" },
+    { "id": "isJE3ItH3oU", "title": "Announcing Programmatic API Access to Chainhook and Devnet" },
+    { "id": "wagcE_IXfME", "title": "Understanding Post-Conditions in a Stacks Blockchain Transaction (Part 1)" },
+    { "id": "5ClV2yFbuUU", "title": "Understanding Post-Conditions in a Stacks Blockchain Transaction (Part 2)" },
+    { "id": "QYYBDbOqNag", "title": "Announcing Contract Monitoring in the Hiro Platform" },
+    { "id": "5sh6Gt3ojuw", "title": "[Full Tutorial] Build a simple Bitcoin Runes Dashboard using Next.js, shadcn, and the Hiro Runes API" }
+  ],
+  "playlists": [
+
+  ]
+}

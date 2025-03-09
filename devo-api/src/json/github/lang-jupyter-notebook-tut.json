@@ -64,11 +64,11 @@
     "banner": ""
   }, {
     "repo": "DataTalksClub/machine-learning-zoomcamp",
-    "desc": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "desc": "Learn ML engineering for free in 4 months!",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/809deaf5c10baded3dbbd0520dcd66e36660c3d2817daf6d3dfeeddbeac5b800/DataTalksClub/machine-learning-zoomcamp"
   }, {
     "repo": "krishnaik06/The-Grand-Complete-Data-Science-Materials",
     "desc": "",

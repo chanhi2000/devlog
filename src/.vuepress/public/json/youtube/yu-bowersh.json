@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "bowersh",
+    "name": "bower",
+    "profile": "https://yt3.googleusercontent.com/2ZMi-uvLmKfYHkt-1vEWsPDnne9-XHwFFJ5dkG-dZRf46iER-lK7G3WbwoqJ0nHPYMkPdTOr2Ic=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "d28Dih-BBUw", "title": "git-pr demo" },
+    { "id": "sdbQpD2jV0k", "title": "pgs.sh demo" },
+    { "id": "wZHiuR9RqGw", "title": "tuns.sh demo" }
+  ],
+  "playlists": [
+
+  ]
+}

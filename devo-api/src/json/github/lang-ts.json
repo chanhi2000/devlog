@@ -3899,11 +3899,11 @@
     "banner": ""
   }, {
     "repo": "mendableai/firecrawl",
-    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
     "officialSite": "https://firecrawl.dev",
-    "topics": ["ai", "ai-scraping", "crawler", "data", "html-to-markdown", "llm", "markdown", "rag", "scraper", "scraping", "web-crawler"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["markdown", "crawler", "data", "scraper", "ai", "html-to-markdown", "web-crawler", "scraping", "webscraping", "rag", "llm", "ai-scraping"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/f5354dc206b47927d3b9b573fd687bbbb5c40832b7568c838703526140ca3385/mendableai/firecrawl"
   }, {
     "repo": "scalar/scalar",
     "desc": "Beautiful API references from OpenAPI/Swagger files ✨",

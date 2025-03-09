@@ -7189,11 +7189,11 @@
     "banner": ""
   }, {
     "repo": "mem0ai/mem0",
-    "desc": "The memory layer for Personalized AI",
-    "officialSite": "https://docs.mem0.ai",
-    "topics": ["ai", "application", "chatbots", "chatgpt", "embeddings", "llm", "long-term-memory", "memory", "python", "rag", "vector-database"],
-    "avatar": "https://avatars.githubusercontent.com/u/137054526?v=4",
-    "banner": ""
+    "desc": "The Memory layer for AI Agents.",
+    "officialSite": "https://mem0.ai",
+    "topics": ["python", "agent", "application", "state-management", "ai", "memory", "embeddings", "chatbots", "memory-management", "long-term-memory", "rag", "vector-database", "llm", "chatgpt", "aiagent"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/28db06fb30ee50b10dec0093bd7ec28f2e573b51abb9aa97e229b2db359700c9/mem0ai/mem0"
   }, {
     "repo": "prowler-cloud/prowler",
     "desc": "Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
@@ -7238,11 +7238,11 @@
     "banner": ""
   }, {
     "repo": "opendatalab/MinerU",
-    "desc": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
-    "officialSite": "https://opendatalab.com/OpenSourceTools",
-    "topics": ["ai4science", "document-analysis", "extract-data", "layout-analysis", "ocr", "parser", "pdf", "pdf-converter", "pdf-extractor-llm", "pdf-extractor-pretrain", "pdf-extractor-rag", "pdf-parser", "python"],
-    "avatar": "https://avatars.githubusercontent.com/u/97503431?v=4",
-    "banner": ""
+    "desc": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+    "officialSite": "https://mineru.net",
+    "topics": ["python", "pdf", "parser", "ocr", "pdf-converter", "extract-data", "document-analysis", "pdf-parser", "layout-analysis", "ai4science", "pdf-extractor-rag", "pdf-extractor-llm", "pdf-extractor-pretrain"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/2cdcafed5c592540f9d574e5a7a53808f96a31352b7b3ad30dcea79f13771992/opendatalab/MinerU"
   }, {
     "repo": "devrim/cloudflare-noip",
     "desc": "free alternative to paid dynamic DNS services like NoIP.com",
@@ -7266,7 +7266,7 @@
     "banner": ""
   }, {
     "repo": "livekit/agents",
-    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 . Contribute to livekit/agents development by creating an account on GitHub.",
+    "desc": "Build real-time multimodal AI applications 🤖🎙️📹 .",
     "officialSite": "https://docs.livekit.io/agents",
     "topics": ["real-time", "video", "ai", "voice", "agents", "voice-assistant", "multimodal"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

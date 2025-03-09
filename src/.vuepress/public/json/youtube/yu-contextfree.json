@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/eCjAsCs6LHJLq_1pEJ9OeXcSjyn13PJtC95bAdqCT0vcgcs8HhcpuDSlmEF9r2eSt8nO5b4p=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RI--EAWScuU", "title": "Two Wasm programming languages in one app: Odin + Nim" },
+    { "id": "VA6nzy2oWQs", "title": "Which C++20 features did I use? Wasm audio in web JS & native Rust!" },
+    { "id": "K0lrR6BGXNc", "title": "Godot as editor, not engine? Small Wasm builds, Lua & Nelua code!" },
+    { "id": "aRJ24gFS7vo", "title": "JS to Rust WebAssembly the hard way ... and the easy way" },
+    { "id": "FsF7EfyyomA", "title": "Making a Wasm GPU runtime - Now both browser & native!" },
+    { "id": "BBxuLyWdNLA", "title": "C3 language demo game for both browser & native runtimes! WebGL & WebGPU!" },
     { "id": "c2TOIGcmQ7A", "title": "6 Programming Languages in 1 Godot Game! Trying out GDExtension!" },
     { "id": "RRgFBrhml-c", "title": "Structs and GC vs RC ripple effects" },
     { "id": "5N-h-rJ_XAY", "title": "Making a language: Structs as Named Args (and also some recursion)" },

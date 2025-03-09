@@ -115,4 +115,6 @@ tag:
 <MyYouTubeItems jsonName="yu-openuk_uk" /><!-- OpenUK -->
 <MyYouTubeItems jsonName="yu-kakaotech" /><!-- kakao tech -->
 <MyYouTubeItems jsonName="yu-golangkorea8237" /><!-- Golang Korea -->
+<MyYouTubeItems jsonName="yu-JSWORLDConference" /><!-- JSWORLD Conference -->
+
 <TagLinks />

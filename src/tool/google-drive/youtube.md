@@ -30,6 +30,6 @@ head:
 
 [[toc]]
 
----
+<MyYouTubeItems jsonName="yu-eden198100" /><!-- KIMGUN -->
 
 <TagLinks />

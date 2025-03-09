@@ -199,5 +199,6 @@ head:
 <MyYouTubeItems jsonName="yu-TheAnubhavShrimal" /><!-- Anubhav Shrimal -->
 <MyYouTubeItems jsonName="yu-baekjjang-ee" /><!-- 디지털백짱이 -->
 <MyYouTubeItems jsonName="yu-DevSense19" /><!-- Dev Sense -->
+<MyYouTubeItems jsonName="yu-tilnote" /><!-- tilnote - AI, 테크 -->
 
 <TagLinks />

@@ -111,5 +111,8 @@ head:
 <MyYouTubeItems jsonName="yu-GROUND_EMBEDDED" /><!-- 그라운드 GROUND -->
 <MyYouTubeItems jsonName="yu-bodnara2009" /><!-- 보드나라 -->
 <MyYouTubeItems jsonName="yu-jntechreview" /><!-- JN테크리뷰 -->
+<MyYouTubeItems jsonName="yu-RaidOwl" /><!-- Raid Owl -->
+<MyYouTubeItems jsonName="yu-digikey-japan" /><!-- DigiKey日本公式チャンネル -->
+<MyYouTubeItems jsonName="yu-SteveDOES" /><!-- Steve DOES -->
 
 <TagLinks />

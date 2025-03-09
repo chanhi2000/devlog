@@ -8,7 +8,7 @@
     "banner": "https://opengraph.githubassets.com/a375d8f14fee51039a00a20f1aefe31a4ec97703e365f533562736a6ffa5d451/open-webui/open-webui"
   }, {
     "repo": "leaningtech/webvm",
-    "desc": "Virtual Machine for the Web. Contribute to leaningtech/webvm development by creating an account on GitHub.",
+    "desc": "Virtual Machine for the Web.",
     "officialSite": "https://webvm.io",
     "topics": ["vm", "cpp", "repl", "webassembly", "wasm", "lwip", "xterm-js", "cheerp", "webvm", "tailscale", "cheerpx"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

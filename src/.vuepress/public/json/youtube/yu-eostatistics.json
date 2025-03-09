@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "eostatistics",
+    "name": "통계의 본질 EOStatistics",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m_uVYIw2Cf7cD86rmgkHW2YDE045Tf3gLouriCyb4qgr8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HPY5ZeCaNI1ySa-py_h5H7-CCH1gfBZ0iyadwDZ80ljsbmZ7YXkMBrYwWeQ5GKHDHpjVCKelyw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "kUC2Eu0QNCU", "title": "[확률과 통계 기초] 3-30. 가능성이 변하는 연속확률변수" },
+    { "id": "fLq7Cb2En70", "title": "[확률과 통계 기초] 3-31. 확률은 아니지만 확률 같은 무언가" },
+    { "id": "dVlXSssMMns", "title": "[확률과 통계 기초] 3-29. 누적분포 함수 익숙해지기" },
+    { "id": "UtgUgfeR0ho", "title": "[확률과 통계 기초] 3-28. 연속확률변수의 누적분포함수" },
+    { "id": "JKXcla_x8tc", "title": "[확률과 통계 기초] 3-22. 확률변수의 분산과 표준편차" },
+    { "id": "yMWntwwAd08", "title": "[확률과 통계 기초] 3-24. 자료의 분산 vs 확률변수의 분산" },
+    { "id": "Ooa0-YvVIDA", "title": "[확률과 통계 기초] 3-25. 연속확률변수 복습" },
+    { "id": "i5ur3qJpuFg", "title": "[확률과 통계 기초] 3-26. 연속확률변수에서는 확률이 정의되지 않는 이유" },
+    { "id": "1YWzmIoIVdY", "title": "[확률과 통계 기초] 3-27. 연속확률변수에서 구간의 확률" }
+  ],
+  "playlists": [
+
+  ]
+}

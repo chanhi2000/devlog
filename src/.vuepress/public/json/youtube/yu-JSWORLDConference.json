@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "JSWORLDConference",
+    "name": "JSWORLD Conference",
+    "profile": "https://yt3.googleusercontent.com/5rtVEC4PabgrVqhu3Cx3AQXo4Pr-a1C41fNtnhXj4z0fL7iAJ1ZEX6LY37oEN7OGidWUg-gM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9sGMBscuVUGxjzTK6KzChuIdsUxapo1T7wDW58DQyvUsuqxyfK5zgLVU456yEu8unFYbHuR6SQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "mgspqvNe0xA", "title": "Adam Jahr - Rendering Revealed - DevWorld 2024" },
+    { "id": "S-NpdDsDkOg", "title": "Shai Reznik - JavaScript Streaming - A Qwik glimpse into the future - DevWorld 2024" },
+    { "id": "OSwMq0KgKMA", "title": "Mohamed Ayoub Alouane - FROM ANGULAR TO QWIK: THE FRAMEWORK THAT CHANGES THE PARADIGM -DevWorld 2024" },
+    { "id": "5cX2KsnOoAg", "title": "Bakhtar Sobat - Enhance and improve user experience with BFF - DevWorld 2024" },
+    { "id": "KOE_17crlek", "title": "Ryan Dahl - State of Deno - DevWorld 2024" },
+    { "id": "R6C85hiOp1E", "title": "Minko Gechev - Angular Renaissance - DevWorld 2024" },
+    { "id": "ZVjXtfdKQ3g", "title": "Ryan Carniato - SolidJS - SolidStart - DevWorld 2024" }
+  ],
+  "playlists": [
+
+  ]
+}

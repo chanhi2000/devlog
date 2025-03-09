@@ -949,8 +949,8 @@
     "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "officialSite": "",
     "topics": [],
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/0eee289e3a44114fe968331e11530fdef35afaf50bfe05822ea6bf30d16e8040/josephmisiti/awesome-machine-learning"
   }, {
     "repo": "saisathvik1/OSCP-Cheatsheet",
     "desc": "OSCP Cheatsheet by Sai Sathvik",
@@ -1571,9 +1571,9 @@
     "repo": "owainlewis/awesome-artificial-intelligence",
     "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
     "officialSite": "",
-    "topics": ["ai", "artificial-intelligence", "deep-learning", "intelligent-machines", "intelligent-systems", "machine-intelligence", "machine-learning", "neural-network", "reinforcement-learning", "statistical-learning", "unsupervised-learning"],
-    "avatar": "",
-    "banner": ""
+    "topics": ["machine-learning", "reinforcement-learning", "ai", "deep-learning", "neural-network", "statistical-learning", "artificial-intelligence", "unsupervised-learning", "intelligent-systems", "machine-intelligence", "intelligent-machines"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/e9e92f6d03f06e280efdd9db0e60b5c29e89b9cc064376cab21ee27c429577ab/owainlewis/awesome-artificial-intelligence"
   }, {
     "repo": "ashishps1/awesome-low-level-design",
     "desc": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",

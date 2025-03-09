@@ -50,7 +50,7 @@
     "banner": "https://repository-images.githubusercontent.com/676951620/b58233ae-8fa7-4949-8234-fd60dd09d2af"
   }, {
     "repo": "dcetin/Simple-CV",
-    "desc": "A minimalistic CV template with BibLaTeX support. Contribute to dcetin/Simple-CV development by creating an account on GitHub.",
+    "desc": "A minimalistic CV template with BibLaTeX support.",
     "officialSite": "",
     "topics": ["resume-template", "resume", "latex", "biblatex", "cv", "cv-template"],
     "avatar": "",

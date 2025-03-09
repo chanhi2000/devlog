@@ -2080,7 +2080,7 @@
     "banner": ""
   }, {
     "repo": "yorukot/superfile",
-    "desc": "Pretty fancy and modern terminal file manager. Contribute to yorukot/superfile development by creating an account on GitHub.",
+    "desc": "Pretty fancy and modern terminal file manager.",
     "officialSite": "https://superfile.netlify.app",
     "topics": ["cli", "golang", "filemanager", "filesystem", "tui", "file-manager", "terminal-based", "linux-app", "terminal-app", "bubbletea", "terminal-file-manager"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "manmanmath",
+    "name": "만만한 수학TV [이상준 경희대 수학과 교수]",
+    "profile": "https://yt3.googleusercontent.com/ih-amsLN_YElNhUmMJcdGLGRwINdwmIFHPdA4YSm1Z1lIMfGr49oHacpG3-_cCjZNME8Mpexng=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OMGicV_7LX_RwEcNZyIvP_0r04eQf-wkZLgJOPBX6664Q_Ck8a6h9A4l1teIA-joGhbvpVMl=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "OCjprfgpt9k", "title": "NEW 로젠 이산수학 연습: 2.1절-1 집합의 크기 문제 [Rosen discrete math, 조합및그래프이론]" },
+    { "id": "CFCH976w0WA", "title": "[연습] 로젠 이산수학 연습: 2.1절-2 곱집합 문제 [Rosen discrete math, 조합및그래프이론]" },
+    { "id": "71OqY5BF2-s", "title": "[연습] NEW 확률및통계 연습: 2.1절 표본공간과 사건 문제 [Devore, 확률론, 통계학]" },
+    { "id": "9hT1OPvSaA4", "title": "NEW 이산수학 (경우의 수): 6.5절-2 중복조합" },
+    { "id": "78wTIPO3pp8", "title": "NEW 이산수학 연습 (대학수학기초): 2.1절 연습-2 집합의 기초" },
+    { "id": "mnzUsRzawng", "title": "NEW 이산수학 연습 (대학수학기초): 2.2절 연습 집합의 연산" },
+    { "id": "7Ct6pf9uUXw", "title": "NEW 확률및통계 4.3절-4 정규분포의 표준화, 표준정규분포 (standardization, normal) [확률과통계, 확률통계, 확률론, 경영경제통계학]" },
+    { "id": "HvCpDYIZoGM", "title": "NEW 확률및통계 7.3-3 예측구간 (prediction interval) [확률과통계, 확률통계, 확률론, 경제경영통계학]" },
+    { "id": "04pKrrCWwm0", "title": "[회원] NEW 확률및통계 7.3절-4 허용구간 (tolerance interval) [확률과통계, 확률통계, 확률론, 경제경영통계학]" },
+    { "id": "GYnERtWceOc", "title": "NEW 확률및통계 8.1절-1 통계적 가설 (hypothesis) [확률과통계, 확률통계, 확률론, 경영경제통계학]" },
+    { "id": "K1Aspb_fziI", "title": "NEW 확률및통계 8.1절-2 가설검증 (hypothesis test procedure) [확률과통계, 확률통계, 확률론, 경영경제통계학]" },
+    { "id": "n2E2VrUKuFI", "title": "NEW 확률및통계 8.1절-3 유의확률과 유의수준(p-value, significance level) [확률과통계, 확률통계, 확률론, 경영경제통계학]" },
+    { "id": "Hl8hUpqGidQ", "title": "수학논문을 중학생에게 설명하기 2부: 다이내믹 채색수와 4색정리" },
+    { "id": "cyXKeUtl0Gc", "title": "수학논문을 중학생에게 설명하기 3부: 다이내믹 4색정리란?" },
+    { "id": "0DNHq8D-yDw", "title": "수학논문을 중학생에게 설명하기 4부: 다이내믹 4색정리 증명의 아이디어" },
+    { "id": "qFQOzqNMohw", "title": "수학논문을 중학생에게 설명하기 5부: 다이내믹 4색정리 증명의 핵심 귀류법" },
+    { "id": "NLwA8XkrNIE", "title": "수학논문을 중학생에게 설명하기 6부: 다이내믹 4색정리 증명의 마무리" }
+  ],
+  "playlists": [
+
+  ]
+}

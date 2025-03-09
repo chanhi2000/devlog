@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "flydotio",
+    "name": "Fly․io",
+    "profile": "https://yt3.googleusercontent.com/RiYTbqBPuczveDGrMJ55FIhtw9kCEDSNP4sDfNIzoTmSHU8JCQwxJCTl0K8QcWNP6wIX1HyC_A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Pec4l6akTz7wYpfnty36OCQ7o0W4L2PWUgSTUyd3Rr1N5Qh4S1vzAzhB61xjSiz1Xjz8_4El2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9DEvkYB5_A4", "title": "Using web sockets on Next.js | NO third party solution" },
+    { "id": "uPHLMlqNoEA", "title": "Dockerfiles for absolute beginners" },
+    { "id": "YPCgr_hesYM", "title": "Self-hosting Convex on Fly.io" },
+    { "id": "9VYwzmOjGkU", "title": "Demystifying VPNs for web devs" },
+    { "id": "y0Kxi-DTLjU", "title": "Kubernetes without nodes" },
+    { "id": "yxNpIL2MqEY", "title": "We use containers now. Here's why." },
+    { "id": "LBIID76X7bQ", "title": "How does edge routing work? • feat. Fly infra engineer Peter Cai" },
+    { "id": "6C4G8WPLIKQ", "title": "Is serverless actually better? – w/ Phoenix framework creator Chris McCord" },
+    { "id": "z0HcYwYICBU", "title": "Do you REALLY need Kubernetes?" },
+    { "id": "XP-h304N06I", "title": "Not your grandma's SQLite • feat. LiteFS + Litestream creator Ben Johnson" },
+    { "id": "dy2RJdDEvO0", "title": "We built an orchestrator from scratch. Here's why." },
+    { "id": "T5e4PnjrviA", "title": "Trash talking the cloud w/ Fly.io CEO Kurt Mackey" },
+    { "id": "OjkCwVJy34I", "title": "Auto configuring Node (and Bun!) apps for Tigris" },
+    { "id": "7iypMRKniPU", "title": "How Fly.io uses Docker (without Docker)" },
+    { "id": "riCh9Xeuf0s", "title": "Bounce traffic between Apps and Machines with fly-replay HTTP header" },
+    { "id": "ivP12BHpJt8", "title": "AWS Without Access Keys" },
+    { "id": "VDDwY0R7m7A", "title": "Using AI to Boost Accessibility and SEO - Fly.io blog" },
+    { "id": "zBV4FuuaTLY", "title": "Chesstreaming: Game Ideas (Part 2)" },
+    { "id": "qGucJNu4CD4", "title": "Boost Your App with Self-Hosted LLMs on Fly.io – Step-by-Step Guide" },
+    { "id": "cn2if9oInK0", "title": "Globally-distributed Object Storage (no CDN required) | Tigris Data + Fly.io" },
+    { "id": "dy18QBDjYQU", "title": "How to Scale Your Model | Feat. Xe Iaso & Annie Sexton" },
+    { "id": "T1yVMs7P-Ng", "title": "How to Self-Host an LLM | Fly GPUs + Ollama" },
+    { "id": "_oevcvEgNr4", "title": "Build your Personal Language Assistant with an LLM | Fly.io GPUs + Ollama" },
+    { "id": "vU9xcRCX7-U", "title": "Fly Domains Explained | .fly.dev, .internal, .flycast" },
+    { "id": "XCD6GWJla0I", "title": "Deploying an App using a Self-Hosted LLM | Fly GPUs + Ollama + Remix" },
+    { "id": "eO4jnJmjvA8", "title": "Scaling a social network on a whiteboard by Xe Iaso | DevOpsDays MSP" },
+    { "id": "PLRs4kwsDXA", "title": "Stream Responses from an LLM | Ollama, React, Astro on Fly.io" },
+    { "id": "WVU3sj5aF9U", "title": "Adding your own models to Ollama" },
+    { "id": "T4AB_JtcPtE", "title": "Supercharge your Laravel app with AI" },
+    { "id": "PtH9BPr0mQc", "title": "Compose Apps with flyctl" },
+    { "id": "O4yeBUYp_nM", "title": "Scaling your GPU app in anger" },
+    { "id": "X4xN4I26Kjo", "title": "Deploying an LLM-Powered Django App | Ollama + Fly GPUs" },
+    { "id": "PIW10ZCDmvQ", "title": "Learning AI Deployments" },
+    { "id": "7BcFtzRN0k0", "title": "How Fly.io does routing at the edge | BGP + Anycast" },
+    { "id": "LMlexjV5zLg", "title": "Globally Distributed Postgres on Fly.io | Single leader replication + fly-replay" },
+    { "id": "wVil7wG-1yg", "title": "We don't use containers, and here's why." }
+  ],
+  "playlists": [
+
+  ]
+}

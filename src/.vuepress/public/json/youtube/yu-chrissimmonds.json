@@ -6,6 +6,11 @@
     "banner": ""
   },
   "videos": [
+    { "id": "3UzLowj-3xQ", "title": "2025 AOSP and AAOS January Meetup: Exploring Android Kiosk Variants" },
+    { "id": "YE7G_cwkAR8", "title": "2024 AOSP and AAOS November Meetup: The AOSP community and aosp-devs.org" },
+    { "id": "Q0BYKAb1BHw", "title": "2024 AOSP and AAOS July Meetup: AAOS on Raspberry Pi: an on-going project" },
+    { "id": "Hlixp4lOOQY", "title": "2024 AOSP and AAOS September Meetup: The COVESA SDK" },
+    { "id": "9UuQO6vVkv0", "title": "2024 AOSP and AAOS September Meetup: Notes from Vienna" },
     { "id": "QXuIqwiiRFY", "title": "2024 AOSP and AAOS May Meetup: AOSP Meetup Projects" },
     { "id": "Z-REBePidqA", "title": "2024 AOSP and AAOS May Meetup: introduction and Android build chaos" },
     { "id": "zeH9LC2XHWs", "title": "2024 AOSP and AAOS May Meetup: Automotive AOSP Ecosystem: challenges and opportunities" },

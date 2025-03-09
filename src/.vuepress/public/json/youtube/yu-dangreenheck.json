@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "dangreenheck",
+    "name": "Dan Greenheck",
+    "profile": "https://yt3.googleusercontent.com/_9Ls_RiAxABjpAtu7wzkBFym0nCXSacmangWIjkm2jKKCHbVwYxfXnyC4FGBAEyRcvsBR5ZX=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/afSHyLJ0w6Oz9JpUB-9wO8guRmtRr5HW0ONh6hVwimyGKBgB9_SD8W45Cjzq-hykgB7GrvmD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "jK4uXGY07vA", "title": "Create Realistic Water with Three.js - GLSL Shader Tutorial" },
+    { "id": "iZCyZcQzYoo", "title": "Creating Low-Poly Assets in Blender 🌲 Three.js RPG Tutorial (Part 11)" },
+    { "id": "ygdbUEsAYyQ", "title": "Deploy Your Three.js App to GitHub Pages — Beginner Tutorial" },
+    { "id": "Tl3-_M8j4Gs", "title": "Learn to Build a 3D Lightsaber Configurator with React Three Fiber!" },
+    { "id": "wEJMpcJPPv0", "title": "Build Your Own 3D Lightsaber Configurator! // React Three Fiber Tutorial" },
+    { "id": "Pw7p1zYCJds", "title": "Build a 3D RPG with JavaScript & Three.js // 10. Code Clean Up 🧹" },
+    { "id": "3UWBsfjGL3M", "title": "Let's Build a 3D RPG with Three.js! // 8. Combat (Part 1/2)" },
+    { "id": "_G76WJaCeVQ", "title": "Let's Build a 3D RPG with Three.js! // 9. Combat (Part 2/2)" },
+    { "id": "gekzmSMq1rU", "title": "Learn to Build Minecraft With Three.js!" },
+    { "id": "HxPgbXlq1mo", "title": "Three.js Crash Course for Beginners | Build a 3D Art/Project Gallery!" },
+    { "id": "KsHfbqR4rag", "title": "Create Apple-Style 3D Scroll Animations w/ Next.js 15 + React Fiber + GSAP" },
+    { "id": "HbULOPmgMPY", "title": "Can You Make a 3D RPG with JavaScript? // 6. Actions (Part 1)" },
+    { "id": "Ns_Bhwx3hNQ", "title": "I Made An Open-Source Procedural Tree Generator" },
+    { "id": "uh8jUmqPnQ4", "title": "Let's Build a 3D RPG with Three.js! // 7. Action System (Part 2/2)" },
+    { "id": "8zMbJmuwEUc", "title": "I Suck At Art So I Made An Open Source Procedural Tree Generator" },
+    { "id": "Cf6ocQLU1lU", "title": "Can You Make a 3D RPG with JavaScript? // 1. Planning" },
+    { "id": "DIdHr_ZPeT8", "title": "Can You Make a 3D RPG with JavaScript? // 2. Let's Get Started!" },
+    { "id": "3qfB0e2QA4Q", "title": "Can You Make a 3D RPG with JavaScript? // 3. Creating the World" },
+    { "id": "651VXk4zfDE", "title": "Can You Make a 3D RPG with JavaScript? // 4. Moving Player w/ Point & Click Controls" },
+    { "id": "N0fC3CQ4ZbA", "title": "Can You Make a 3D RPG with JavaScript? // 5. Pathfinding with A* Search" }
+  ],
+  "playlists": [
+
+  ]
+}

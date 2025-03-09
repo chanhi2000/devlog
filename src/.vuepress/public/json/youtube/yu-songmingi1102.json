@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/GbELxPNJsC1F5GUls5trLdMtBpw5lzjwLEgUO53ARZoA5cnyCfb4NB4J_J8D3hFiEXJUEJAe0A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LJr6-tT8jKs", "title": "241117 11시 반까지 알고리즘 코딩" },
+    { "id": "eQDbflerADU", "title": "프로그래머스) 마법의 엘리베이터" },
+    { "id": "69ieC3YYSxA", "title": "프로그래머스) 도넛과 막대 그래프" },
+    { "id": "eTJ_60I_fGo", "title": "프로그래머스) 주사위 고르기" },
+    { "id": "C95sNdjlP-s", "title": "프로그래머스) 혼자 놀기의 달인" },
+    { "id": "1z6Hf_yJgoI", "title": "코딩 스타일에 대해서" },
+    { "id": "OKbnNBtUpuA", "title": "나만의 스케줄러 만들기 (GUI, DB 연동까지)" },
+    { "id": "tqpC0wuWbuY", "title": "프로그래머스) 수레 움직이기" },
+    { "id": "98G5HdOBCXc", "title": "n+1 카드게임" },
+    { "id": "HmEte8VdS2Q", "title": "IT 개발자 썰 - 폐쇄적인 환경과 실력에 대해서" },
+    { "id": "HeJAgc-9Sfc", "title": "폐쇄망 환경에 대해서" },
+    { "id": "5p7LVJq-ZaY", "title": "부트 캠프에 대해서" },
     { "id": "n2-N3o6Zlj4", "title": "알고리즘과 자료구조를 공부해야 하는 이유" },
     { "id": "YmVK5ZFmcew", "title": "Song Job Portfolio" },
     { "id": "QawhwdyLMto", "title": "SongJob 포트폴리오(1)" },

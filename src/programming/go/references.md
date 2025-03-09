@@ -30,7 +30,7 @@ tag:
 ```component VPCard
 {
   "title": "go-practical-tips/tips.md at main · func25/go-practical-tips",
-  "desc": "Go Practical Tips. Contribute to func25/go-practical-tips development by creating an account on GitHub.",
+  "desc": "Go Practical Tips",
   "link": "https://github.com/func25/go-practical-tips/blob/main/tips.md",
   "logo": "https://avatars.githubusercontent.com/u/39565248?v=4",
   "background": "rgba(10,10,10,0.2)"

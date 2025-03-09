@@ -156,5 +156,12 @@
     "desc": "텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다",
     "officialSite": "",
     "topics": ["autoencoder", "chatbot", "cnn", "deep-learning", "dqn", "gan", "inception", "mnist", "neural-network", "rnn", "seq2seq", "tensorflow", "tutorial", "word2vec"]
+  }, , {
+    "repo": "stas00/ml-engineering",
+    "desc": "Machine Learning Engineering Open Book. Contribute to stas00/ml-engineering development by creating an account on GitHub.",
+    "officialSite": "https://stasosphere.com/machine-learning/",
+    "topics": ["training", "machine-learning", "ai", "scalability", "transformers", "slurm", "inference", "pytorch", "machine-learning-engineering", "mlops", "large-language-models", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/461b7d05b2c1b1f575892f342627fa339c2db2de84d87e263e7d9f76c0677332/stas00/ml-engineering"
   }
 ]

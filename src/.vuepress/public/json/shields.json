@@ -63,6 +63,7 @@
   { "logo": "firebase", "name": "Firebase", "colorHex": "FFCA28" },
   { "logo": "flask", "name": "Flask", "colorHex": "000000" },
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },
+  { "logo": "flydotio", "name": "Fly.io", "colorHex": "24175B" },
   { "logo": "gatling", "name": "Gatling", "colorHex": "FF9E2A" },
   { "logo": "git", "name": "Git", "colorHex": "F05032" },
   { "logo": "go", "name": "Go", "colorHex": "00ADD8" },

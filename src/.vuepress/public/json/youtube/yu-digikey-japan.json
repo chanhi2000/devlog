@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "digikey-japan",
+    "name": "DigiKey日本公式チャンネル",
+    "profile": "https://yt3.googleusercontent.com/h4rbDQdHss7-QabbfkViGm6fvpVDDO58z9-Jl93NPQsWgkfK4H5nK5puRoZ8xgEc1taiYAg3lA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y3YG3jtwLKvBGWwk3rRT2U7GNc7gcjSfYHn9sJsdTqse859ProzEkF92oBKifr2RxawMlJ4eCg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gk0o6OAAjfw", "title": "【新シリーズ！ソースコード公開】第6回  表示器に文字を出す 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "zPPWyPe2_lA", "title": "【新シリーズ！ソースコード公開】第7回  モータの回転角度を制御する 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "Lb0W5OLJLmM", "title": "【新シリーズ！ソースコード公開】第8回  フィードバック制御入門 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "BP4lJXyNfbk", "title": "【新シリーズ！ソースコード公開】第1回　LEDを点滅させる 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "RbTNLOw1W0c", "title": "【新シリーズ！ソースコード公開】第2回 LEDの明るさを変化させる 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "VMGwBpOK5RA", "title": "【新シリーズ！ソースコード公開】第5回  センサでアナログ値を測る 高校生から始めるArduinoマイコンプログラミング実験室～Lチカからモータ制御まで、すぐ動く全32個のソースコードを公開～" },
+    { "id": "yBDcR9eLR5E", "title": "【夏休み特別企画】第1回 LEDのプログラミング　夏休みの自由研究ロボット・プログラミング 20選～子どもI/Oパソコン IchigoJamで一緒に作ろう～" },
+    { "id": "3UW7QsmqrZ4", "title": "【夏休み特別企画】第2回 スイッチのプログラミング　夏休みの自由研究ロボット・プログラミング 20選～子どもI/Oパソコン IchigoJamで一緒に作ろう～" },
+    { "id": "dfLEmaAtb1g", "title": "【学生応援キャンペーン応募付き】山登り法!? 太陽光発電のMPPT制御を解説【特典映像付き：視聴者Q&A】" },
+    { "id": "7Z13x-70HfE", "title": "【待望の後編】第5回「マイコンとプログラム開発」〜ゼロから学ぶマイコン基礎講座 第1章 Arduino〜" },
+    { "id": "yZ_3EnNYdqo", "title": "【待望の後編】第6回「プログラム開発の実際」〜ゼロから学ぶマイコン基礎講座 第1章 Arduino〜" }
+  ],
+  "playlists": [
+
+  ]
+}

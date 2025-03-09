@@ -2772,6 +2772,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Fly',
+      collapsible: true,
+      icon: 'fa-brands fa-fly',
+      children: [
+        '/devops/fly/README.md',
+        '/devops/fly/references.md',
+        '/devops/fly/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/fly/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'OCI',
       collapsible: true,
       icon: 'iconfont icon-oci',

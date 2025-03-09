@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "tec-h-tea",
+    "name": "테크티",
+    "profile": "https://yt3.googleusercontent.com/ogDlOY6a6ujlrMNTomhG3DWc4IMHoyvTnqFcVBiGSfWILnlptR34I4K4FIzQv8htTIo_KvetICs=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "QkktSSlzahA", "title": "클로드 CEO, 다리오 아모데이  | AGI는 다가올 미래" },
+    { "id": "1YOzAUCDWyQ", "title": "중국 자율주행 드론의 수준.." },
+    { "id": "F9ru1OJP5ag", "title": "OpenAI 딥리서치를 시연해봅니다." },
+    { "id": "IsmNAARFFcU", "title": "가상 세포로 우리는 쉽게 죽지 않을 수 있습니다." },
+    { "id": "f_8Ccl0DFoE", "title": "[긴급] 오늘 출시된 Operator를 시연해보았습니다." },
+    { "id": "1FlcEAqaX5U", "title": "클라나 CEO, \"AI는 이미 모든 인력을 대체할 수 있다.\"" },
+    { "id": "vqy48TMkPDs", "title": "전 구글 CEO, AI 에이전트는 시간 문제" },
+    { "id": "inbvDEEhHjU", "title": "AI 이제 여기까지 왔네" },
+    { "id": "B-Bs-eXxnvo", "title": "메타 새로운 동영상 제작 AI | Movie GEN" },
+    { "id": "94RIScs4Trw", "title": "Molmo | 비전 특화 오픈소스 모델" },
+    { "id": "pGu9ecTejjE", "title": "Open AI가 챔피언을 이겼습니다." },
+    { "id": "55T5MrzDs2c", "title": "AI 업무 자동화는 이렇게 진행됩니다. (zapier)" },
+    { "id": "AMHu29bHhC4", "title": "그런데 벤치마크 점수는 믿을 수 있을까?" },
+    { "id": "jNZU6UaAZFI", "title": "AI는 개발자를 대체하게 될까? (AWS, 알파코드, OpenAI)" }
+  ],
+  "playlists": [
+
+  ]
+}

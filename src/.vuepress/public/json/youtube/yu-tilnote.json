@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "tilnote",
+    "name": "tilnote - AI, 테크",
+    "profile": "https://yt3.googleusercontent.com/ssP--Q5f2HeK75gQUTgEi9P5-qMBPjTuufY3nLSH9qkImDQKkw_nxgRFZ9-oNwA3rlp7ckVU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ibdGlLZruvYDFzNBG417-rqtjc1kUKDSYf2xZkDC4twbdkej9271C3YdqeQuFAMOypBGH-vP=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GBvq7FhR2rE", "title": "다양한 AI 추론형 모델 사용해 보기" },
+    { "id": "msAfF5D-bEQ", "title": "OpenAI o3 공개 – 인간처럼 추론하는 o3, AGI의 비밀?" },
+    { "id": "fk2GtwEGfZs", "title": "OpenAI o1 정식 버전 런칭과 200달러 ChatGPT Pro 요금제" },
+    { "id": "_UgN4sOzgD4", "title": "드디어 SORA 가 공개 됐습니다! - OpenAI의 동영상 생성 AI 끝판왕" },
+    { "id": "2Ti1LZHN2Mg", "title": "구글 Gemini 2.0의 충격적인 진화: AI가 보고, 듣고, 말하는 시대가 온다." },
+    { "id": "TbZ-cNZ1huA", "title": "크롬 확장프로그램 추천 : 몰입형 번역 - 이중 번역으로 전세계 사이트를 자유롭게 탐색하자!" },
+    { "id": "jkuOw2_QgFw", "title": "이미지 생성 AI 인 Recraft v3 사용법 - 플럭스 프로, 미드저니도 이긴 신규 AI" },
+    { "id": "YuChjY0mmt8", "title": "[AI 인사이트] o1 정식 모델이 온다! 미래 AI의 모습과 활용 전략 ⚡⚡" },
+    { "id": "esg5QjC5SOQ", "title": "AI 노트의 혁명! 틸노트로 지식 관리 끝내는 법 (유튜브 요약 기능 포함)" },
+    { "id": "Ug1w8Lr4Sy8", "title": "클로드 MCP : 모든 앱과 소통하는 AI 혁신! 설치부터 활용까지 완벽 가이드" },
+    { "id": "3CqFrHIXiSU", "title": "SuperMaven - 무료 AI 코딩 도우미 | GitHub Copilot 대안으로 3배 빠른 코드 자동완성" },
+    { "id": "4aMpGlWcdoE", "title": "ChatGPT 캔버스 공개! 글쓰기와 코딩이 이렇게 쉬워진다!" },
+    { "id": "5TmJzq5cZWU", "title": "ChatGPT o1 의 놀라운 사용 사례 4가지" },
+    { "id": "lUiOjRLL2q4", "title": "ChatGPT 고급 음성 모드 사용법 - 초고속 응답과 감정까지!" },
+    { "id": "lHO7JdJNp3I", "title": "간단한 프롬프트를 최고급 프롬프트로 만들어주는 마법의 도구 - OpenAI 메타 프롬프트" },
+    { "id": "9bgwL8FwyXE", "title": "최고의 동영상 생성 AI를 찾아라! (Gen3, Minimax, Kling)" },
+    { "id": "H6pyd9YvmA8", "title": "내 컴퓨터를 조종하는 클로드?! Anthropic computer use 사용법 완벽 가이드!" },
+    { "id": "hFZ9rGzxvUo", "title": "AI로 BGM을 만들어 주는 믹스 오디오 소개 및 사용법" },
+    { "id": "KGOfGayYetY", "title": "클로드 앤트로픽 콘솔 프롬프트 생성기 및 평가 (Evaluate) 사용법" },
+    { "id": "qC_lKAdoUMc", "title": "최신 AI 챗봇 Mistral Large 2 리뷰 및 테스트 -  코딩에서 Llama 405B 를 이기다!" },
+    { "id": "NBwymU19rlM", "title": "Meta에서 객체를 세분화하고 편집할 수 있는 모델을 오픈소스로 공개 - SAM 2" },
+    { "id": "8QAFYY2Ebb8", "title": "ChatGPT 고급 음성 모드 일부 유료 사용자에게 출시 - 특징과 사용 사례 미리보기" },
+    { "id": "tiB9pWVvF-Q", "title": "Flux : AI 이미지 계의 새로운 혜성! 미드저니를 뛰어넘을 수 있을까?" },
+    { "id": "izDv93pDAXE", "title": "구글 imagen 3 한국 런칭. 누구나 무료로 AI를 활용해서 이미지 생성." },
+    { "id": "BAJskReFRoY", "title": "인간의 일은 AI가 대신하게 될 것입니다. - 나를 위해 일해주는 AI 에이전트 만들기 1편" },
+    { "id": "b1zFx9HcjUU", "title": "Flux 사용법 - 슈넬, dev, pro 무료로 사용하기 (이미지 생성 AI)" },
+    { "id": "9OtKz7-95MY", "title": "AI 에이전트, 에이전트 워크플로우 - 나를 위해 일해주는 AI agent 만들기 2편" },
+    { "id": "-y8v8IALQ4A", "title": "웹 크롤링 및 요약 에이전트 - 나를 위해 일해주는 AI agent 만들기 3편" },
+    { "id": "yKOaVinDY18", "title": "공짜로 작동하는 유튜브 요약 에이전트 만들기 - 나를 위해 일해주는 AI agent 만들기 4편" },
+    { "id": "JDQ8H1Y9J_s", "title": "사무직에서 사용할 수 있는 업무 자동화 에이전트 - 나를 위해 일해주는 AI agent 만들기 5편" },
+    { "id": "FQjvUYwxU1c", "title": "개발자 필수 시청! AI 코딩 도구 3종 비교 - 생산성 3배 높이는 비밀 (Amazon Q, Github Copilot, Cursor)" },
+    { "id": "ZEfRjSUCIrc", "title": "OpenAI의 새로운 혁명 : o1 시리즈 공개! (o1 preview, o1 mini)" },
+    { "id": "PkHOMz3lVgY", "title": "GPU에 150만원을 쓰지 않고 16GB VRAM을 사용할 수 있는 방법" }
+  ],
+  "playlists": [
+
+  ]
+}

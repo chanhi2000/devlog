@@ -1,7 +1,7 @@
 [
   {
     "repo": "WebAssembly/memory64",
-    "desc": "Memory with 64-bit indexes. Contribute to WebAssembly/memory64 development by creating an account on GitHub.",
+    "desc": "Memory with 64-bit indexes.",
     "officialSite": "",
     "topics": ["proposal"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
