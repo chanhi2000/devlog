@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
-title: Raspberry Pi
-description: Raspberry Pi
-icon: fa-brands fa-raspberry-pi
+title: ST Microelectronics
+description: ST Microelectronics
+icon: iconfont icon-st-microelectronics
 category:
   - Hardware
-  - Raspberry Pi
-tag: 
+  - ST Microelectronics
+tag:
   - hardware
-  - raspberry-pi
-  - computer
+  - stm
+  - st-microelectronics
 head:
   - - meta:
     - property: og:title
@@ -22,13 +22,13 @@ head:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="debian,raspberrypi"/>
+<ShieldsGroup logos="stmicroelectronics"/>
 
 ---
 
 ## Table of Contents
 
-<ToCLocal basePath="/hw/respberry-pi" />
+<ToCLocal basePath="/hw/stm/" />
 
 ---
 

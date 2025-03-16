@@ -2380,19 +2380,19 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'fa-brands fa-windows',
       children: [
-        '/devops/windows/README.md',
-        '/devops/windows/env-setup.md',
-        '/devops/windows/ie.md',
-        '/devops/windows/tips.md',
-        '/devops/windows/wsl.md',
-        '/devops/windows/sandbox.md',
-        '/devops/windows/youtube.md',
+        '/devops/win/README.md',
+        '/devops/win/env-setup.md',
+        '/devops/win/ie.md',
+        '/devops/win/tips.md',
+        '/devops/win/wsl.md',
+        '/devops/win/sandbox.md',
+        '/devops/win/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/devops/windows/articles/README.md',
+            '/devops/win/articles/README.md',
             asb.freecodecamp("windows"),
             asb.learnk8s("windows"),
             asb.tecmint("windows"),
@@ -3654,6 +3654,23 @@ export const sidebarEn = sidebar({
         '/hw/flipper-zero/README.md',
         '/hw/flipper-zero/references.md',
         '/hw/flipper-zero/youtube.md',
+      ]
+    }, {
+      text: 'ST Microelectronic',
+      collapsible: true,
+      icon: 'iconfont icon-st-microelectronics',
+      children: [
+        '/hw/stm/README.md',
+        '/hw/stm/references.md',
+        '/hw/stm/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/hw/stm/articles/README.md',
+          ]
+        }
       ]
     }, {
       text: 'Arduino',

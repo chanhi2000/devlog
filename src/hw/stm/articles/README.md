@@ -1,16 +1,17 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: NAS > Article(s)
+description: ST Microelectronics > Article(s)
 icon: fas fa-square-share-nodes
 category:
   - Hardware
-  - NAS
+  - ST Microelectronics
   - Article(s)
 tag:
   - blog
   - hardware
-  - nas
+  - stm
+  - st-microelectronics
 head:
   - - meta:
     - property: og:title
@@ -18,7 +19,7 @@ head:
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/devops/nas/articles/
+      content: https://chanhi2000.github.io/devops/stm/articles/
 ---
 
 # {{ $frontmatter.description }} 관련

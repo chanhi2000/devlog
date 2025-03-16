@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: WSL
     - property: og:url
-      content: https://chanhi2000.github.io/devops/windows/wsl.html
+      content: https://chanhi2000.github.io/devops/win/wsl.html
 ---
 
 # {{ $frontmatter.title }} 관련

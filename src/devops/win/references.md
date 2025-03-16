@@ -20,7 +20,7 @@ head:
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/devops/windows/references.html
+      content: https://chanhi2000.github.io/devops/win/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

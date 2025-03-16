@@ -21,7 +21,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/windows/" />
+<ToCLocal basePath="/devops/win/" />
 
 ---
 

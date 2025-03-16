@@ -18,7 +18,7 @@ head:
     - property: og:description
       content: Tips
     - property: og:url
-      content: https://chanhi2000.github.io/devops/windows/tips.html
+      content: https://chanhi2000.github.io/devops/win/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

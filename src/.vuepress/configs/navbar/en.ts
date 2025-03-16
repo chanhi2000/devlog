@@ -333,7 +333,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Windows',
         icon: 'fa-brands fa-windows',
-        link: '/devops/windows/README.md',
+        link: '/devops/win/README.md',
       }, {
         text: 'Linux - Debain',
         children: [
@@ -733,6 +733,10 @@ export const navbarEn = navbar([
         text: 'Flipper Zero',
         icon: 'iconfont icon-flipper-zero',
         link: '/hw/flipper-zero/README.md',
+      }, {
+        text: 'ST Microelectronics',
+        icon: 'iconfont icon-st-microelectronics',
+        link: '/hw/stm/README.md',
       }, {
         text: 'Arduino',
         icon: 'iconfont icon-arduino',

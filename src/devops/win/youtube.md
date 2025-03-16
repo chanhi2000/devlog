@@ -34,7 +34,7 @@ head:
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/devops/windows/youtube.html
+      content: https://chanhi2000.github.io/devops/win/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
