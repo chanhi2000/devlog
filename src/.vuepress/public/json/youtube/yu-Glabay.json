@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/e34gDbs3h4-ypWjUoV2AUNu0gprRwq-E4EXssrT_vSEHOMgf5ltlDUzmRdsGqV2cBW3rB_eICA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PIxEEeTpNyQ", "title": "Java Basics; Pt 3" },
+    { "id": "IGLd7tNLodI", "title": "Building a Dynamic Portfolio Website with Java, Spring Boot, and Thymeleaf! Pt 4" },
     { "id": "VmgLAIO2NU0", "title": "Java Basics - Episode 1" },
     { "id": "3jn43-iCNb0", "title": "Java Basics; Pt 2" },
     { "id": "LNn3Qo58G_0", "title": "Building a Dynamic Portfolio Website with Java, Spring Boot, and Thymeleaf!" },

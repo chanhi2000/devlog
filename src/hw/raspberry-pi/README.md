@@ -10,6 +10,14 @@ tag:
   - hardware
   - raspberry-pi
   - computer
+head:
+  - - meta:
+    - property: og:title
+      content: ST Microelectronics
+    - property: og:description
+      content: ST Microelectronics
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/stm/
 ---
 
 # {{ $frontmatter.description }} 관련

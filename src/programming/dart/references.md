@@ -54,18 +54,23 @@ tag:
 - [`dan_kim` / \[번역\] Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 - [`@cody.yun` / \[Flutter\] Riverpod 2.0: The Ultimate Guide](https://medium.com/@cody.yun/%EB%B2%88%EC%97%AD-flutter-riverpod-2-0-the-ultimate-guide-1-3-11e8a7dea9e6)
 
+<!-- END: medium.com -->
+
 ---
 
 ## <FontIcon icon="iconfont icon-velog"/>velog
 
 - [`@ethanchaee` - Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [`@de-quei` / Flutter Font 적용 안될 때](https://velog.io/@de-quei/Flutter-Font-%EC%A0%81%EC%9A%A9-%EC%95%88%EB%90%A0-%EB%95%8C)
+- [`@dev_leewoooo` / flutter web 배포 (with cloudflare)](https://velog.io/@dev_leewoooo/flutter-web-%EB%B0%B0%ED%8F%AC-with-cloudflare)
+
+<!-- END: velog.io -->
 
 ---
 
 ## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp.org
 
-- [Learn Networking in Flutter By Building a Simple App](https://freecodecamp.org/news/learn-networking-in-flutter)[text](https://theonetechnologies.com/blog/post/building-responsive-ui-in-flutter-tips-and-best-practices)
+- [Learn Networking in Flutter By Building a Simple App](https://freecodecamp.org/news/learn-networking-in-flutter)
 
 ---
 

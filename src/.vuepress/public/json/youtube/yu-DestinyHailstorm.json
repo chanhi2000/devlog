@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "DestinyHailstorm",
+    "name": "Destiny Hailstorm",
+    "profile": "https://yt3.googleusercontent.com/dUFGNzmB2b5GdIG56uckiP_myHsg32f4O-We1bGQChZ6Zfwd4Z4f7_CGNRlL-1VYuBcQxBY01A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/1ngaMnbUTsi35G0nyrlbvn3Y48Q3KsKOcuMbDiv6LMSF3_c9izGND5zPhljwMHi5VJo-CR2ruA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d0FoukFL9fE", "title": "I Added Automation to my Voxel Game!" },
+    { "id": "MtUZDidLIGY", "title": "I Ditched C# For Rust To Save My Voxel Game - Voxel Eras Dev Vlog" },
+    { "id": "6lfwcced1cM", "title": "Web Frameworks (And why you don't need one)" },
+    { "id": "MZdxbf0_fPg", "title": "Rust, Autism, and Correct Code" }
+  ],
+  "playlists": [
+
+  ]
+}

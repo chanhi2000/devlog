@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "thesamuelnam",
+    "name": "Samuel Nam",
+    "profile": "https://yt3.googleusercontent.com/8s6MX-jEgGKC9CIysglFyifnoISuT3VnIARCILxXAZSObAGPmdmCr-UoIdG3r4P19LzBp8GV1g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PCpGx-os_Lcadz6eBGzDeyTzr4nglJc7diyTU5Qw_8AfNWSs1Wcqn8N1cJzWoDLOqr5vmDtttA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "JlTwCE_DD94", "title": "DeX Mode in Cafes with S25 Ultra" },
+    { "id": "gLtpSqxmAcY", "title": "How I use Android with Macbook Pro" },
+    { "id": "iZvTXqScBmc", "title": "5 tech products wife and I love" },
+    { "id": "xyjDmID_OXo", "title": "How I got MacOS to run on an iPad Pro" },
+    { "id": "hS3taa3N0ns", "title": "I tried MACOS on iPad Pro for 7 days via remote desktop" },
+    { "id": "0v_BHnIagpc", "title": "We travelled with AR Glasses.. yay or nay? XREAL Beam Pro review" }
+  ],
+  "playlists": [
+
+  ]
+}

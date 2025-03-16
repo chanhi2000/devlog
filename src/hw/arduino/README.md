@@ -10,6 +10,14 @@ tag:
   - hardware
   - arduino
   - computer
+head:
+  - - meta:
+    - property: og:title
+      content: Arduino
+    - property: og:description
+      content: Arduino
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/arduino/
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "CodeAestheticMalloc",
+    "name": "Malloc",
+    "profile": "https://yt3.googleusercontent.com/D5n5vazCIxrSzFP3mjZPyB-otkY785XUJwyE9qDdrR0kQhCSgQ5Q8Q8faKitImRdlETkZYS-=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ydrt6tWYe4FbJoDIdRbO2PPK2MnFTxrs5FHaxc1jup3oSnx9kyqWig4Cds9qR3BYcaFMrCo=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rziDVOQrktY", "title": "Operations with Variables" },
+    { "id": "z0O42KYcHTw", "title": "Errors, Warnings, and Comments" },
+    { "id": "8WE36xcgF24", "title": "What are Variables?" }
+  ],
+  "playlists": [
+
+  ]
+}

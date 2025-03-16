@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "techunboxing_channel",
+    "name": "테크 언박싱",
+    "profile": "https://yt3.googleusercontent.com/9QyLzrtJDDtJYY9mTFQijn4w1_amE9Auo0A-enDBz45t_ggy43IdHnJZRuhvhwdb6r7AmvKNYA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XAnTnqfxqVaBHKczhXYdaxEImUlMlhSExuEqfYlIFeopJIsnvVlP6weavcKgpeojlj9zqugQxA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HlEXrKXpB60", "title": "최신의 AI 모델들을 배울 수 있는 가장 똑똑한 방법 - 허깅페이스 사용법 익히기 #2  [테크언박싱 13화]" },
+    { "id": "GY54RYGqNKw", "title": "최신의 AI 모델들을 배울 수 있는 가장 똑똑한 방법 - 허깅페이스 사용법 익히기 #3  [테크언박싱 14화]" },
+    { "id": "p7q9Rq0WKn8", "title": "한국어 LLM 성능평가 시즌2를 맞이하다!  한국어 대형언어모델 성능 평가를 위한 리더보드 시즌 2의 내용과 의미 분석 [테크언박싱 15화]" },
+    { "id": "18DokYU6k-A", "title": "AI 이해를 위한 핵심 용어 정리, #MLOps 란 무엇인가! [테크언박싱 16화]" },
+    { "id": "HLMLVjJSmuo", "title": "구글과 AI를 이용해서 테크 뉴스를 검색하는 가장 효과적인 노하우를 알려드립니다.  [테크언박싱 17화]" }
+  ],
+  "playlists": [
+
+  ]
+}

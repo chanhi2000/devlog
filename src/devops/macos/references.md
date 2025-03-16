@@ -256,6 +256,7 @@ head:
 - [`screencapture` 명령어](https://johngrib.github.io/wiki/cmd/macos/screencapture/)
 - [macOS man hier](https://johngrib.github.io/wiki/cmd/macos/man-hier/)
 - [ripgrep, rg](https://johngrib.github.io/wiki/cmd/rg/)
+- [iTerm](https://johngrib.github.io/wiki/mac/iterm/)
 
 <!-- END: johngrib.github.io -->
 

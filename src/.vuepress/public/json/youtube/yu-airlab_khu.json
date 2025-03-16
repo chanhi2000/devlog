@@ -1,0 +1,58 @@
+{
+  "channel": {
+    "id": "airlab_khu",
+    "name": "AIRLab",
+    "profile": "https://yt3.googleusercontent.com/LzkY3RU_8_l1puH1JV12IC7ZbQXRg1_RHkRUUITUCmBB8t972N1YBCxEhMUhENoHuKXBR88fBQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FODfgc8kQLMgd5WLlNj0FFtdfWUgA3C2LPg88ZvA3mLwP3TQLocxVJPAJwfAZxGL6HZSFGWZuTU=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "KKMxF1zmThY", "title": "Reward?언제까지 사람이 줄거야? 💡Eureka: Human-Level Reward Design via Coding Large Language Models (ICLR 2024)" },
+    { "id": "7Ab6QT3Iwdc", "title": "Pointcloud LLM으로 ㅆㄱㄴ PointLLM Empowering Large Language Models to Understand Point Clouds(ECCV 2024)" },
+    { "id": "26Um7tGlH3c", "title": "패착요인을 찾자🤦‍♂️AHA: A VLM for Detecting and Reasoning Over Failures in Robotic Manipulation(ICLR 2025)" },
+    { "id": "4EPJvsFA6yc", "title": "Prompt만 잘 조절해봐. 다 할 수 있다니까? 🔧🔧In-Context Learning Enables Robot Action Prediction in LLMs(ICRA 2025)" },
+    { "id": "CWVq_t_-Ous", "title": "사람대신 GPT Language Model Guided Concept Bottlenecks for Interpretable Image Classification(CVPR 2023)" },
+    { "id": "5UBJD7JmyFE", "title": "나 빗자루로 청소할래 움직여🧹MOKA: Open-World Robotic Manipulation through Mark-based Visual Prompting(RSS 2024)" },
+    { "id": "POeicCNe8F8", "title": "오직 로봇을 움직이기 위한 🤖🤖 LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning(CoRL 2024)" },
+    { "id": "FmWCwqHuZH4", "title": "널 잊어 달라고? 너 누군데? 💔🗑️ Toward Efficient Data-Free Unlearning(AAAI 2025)" },
+    { "id": "ZKGqV-ISEh4", "title": "CLS Token 너 뭐 돼? 🤔🤔 A Closer Look at the CLS Token for Cross-Domain Few-Shot Learning(NeurIPS 2024)" },
+    { "id": "Ecj7EmfasUs", "title": "로봇계의 파운데이션 모델이 되게써! 🤖💪π0: A Vision-Language-Action Flow Model for General Robot Control(arXiv 2024)" },
+    { "id": "O1MKWU76uPc", "title": "VLM... 이 녀석 천재인가?!🧠VLMimic: VLMs are Visual Imitation Learner for Fine-grained Actions(NeurIPS 2024)" },
+    { "id": "Z1k8zyTVbPk", "title": "VLM이 본대로 로봇이 한다고?🤖🤖 Human Demo Video to Robot Action Plan via Vision Language Model(arXiv 2024)" },
+    { "id": "ZO9qJo9cIZQ", "title": "낯설어?익숙하게 해줄게 Test-Time Style Shifting: Handling Arbitrary Styles in Domain Generalization(ICML 2023)" },
+    { "id": "qvHi4jJELOc", "title": "CLIP의 능력, 어디까지 알고 있니?🤓🤓 Investigating Compositional Generalization in CLIP Models (ECCV 2024)" },
+    { "id": "im7k48jsGpo", "title": "뭐든 가져와! 다 바꿔줄테니까!!📸📸 StyleShot : A Snapshot on Any Style" },
+    { "id": "_xSHs4YTdfs", "title": "ViT? CNN? 일단 섞어보자 ViT with Convolutional Multi-scale Feature Interaction for Dense Predictions" },
+    { "id": "L1TsLPvpZCU", "title": "언제까지 MLP에 멈춰있을 수 없잖아??🤔🤔 KAN: Kolmogorov-Arnold Networks(arXiv 2024)" },
+    { "id": "stki3RT2TYE", "title": "바로 정확한 Depth를 알려줘버려~📐 Depth Pro: Sharp Monocular MetricDepth in Less Than a Second" },
+    { "id": "pbacEhEJj9I", "title": "3D라고 못 만들 줄 알아? 와랄ㄹ라라🤓🤓MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers" },
+    { "id": "al5okaKFpVo", "title": "이걸로 뭘 하고 싶은지 알아야 잘 잡지 GraspGPT: Leveraging Semantic Knowledge from  a LLM for Task-Oriented Grasping" },
+    { "id": "wFDYNXC6Hmo", "title": "그냥 지우기만 하는게 아니야!!🗑️ Unified Gradient-Based MU with Remain Geometry Enhancement(NeurIPS 2024)" },
+    { "id": "LsyX8o8iP-E", "title": "자, 절 따라서 빼고 더하세요. 참 쉽죠?🖌️🖌️ Domain Gap Embeddings for Generative Dataset Augmentation (CVPR 2024)" },
+    { "id": "zPJf8n5ilJU", "title": "처음 보는 것도 찾아줄 수 있지?🔍 Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation (CVPR 2024)" },
+    { "id": "u4v0ohC285M", "title": "로봇이 다 조립해준대 Multi-level Reasoning for Robotic Assembly: From Sequence Inference to Contact Selection" },
+    { "id": "N7KMfOP_AiQ", "title": "어느 세월에 그걸 다 하고 있니??⏱️ Accelerating Diffusion Models via Early Stop of the Diffusion Process" },
+    { "id": "J4cKpJnIM1k", "title": "그것이 알고싶다 VQA Robust Visual Question Answering: Datasets,  Methods, and Future Challenges(TPAMI 2024)" },
+    { "id": "-hzcUaIUpzA", "title": "이게 잘 섞으면 되거덩요? 해보세요🪄 DIFFUSEMIX: Label-Preserving Data Augmentation with Diffusion Models(CVPR 2024)" },
+    
+    { "id": "dbEjDN82fw8", "title": "기억을 삭제하랬지, 성능 말고 Towards Efficient Machine Unlearning with Data Augmentation with GLI (CVPRW 2024)" },
+    { "id": "yK94PQcsjGM", "title": "데이터셋 없으면 유튜브라도 털어서 만들면 되. 360° Dataset for Depth Prediction and View Synthesis(arXiv 2024)" },
+    { "id": "IDdoqW8tGrY", "title": "스킬을 알려줄게 따라와 Boosting Offline RL for Autonomous Driving with Hierarchical Latent Skills (ICRA 2024)" },
+    { "id": "NIOA_WiPKZE", "title": "3시간 걸릴 data를 10분만에 모아서 가능👍 MimicPlay: Long-Horizon Imitation Learning by Watching Human Play" },
+    { "id": "R4Cxc2zypKU", "title": "없는 곳 색도 칠해주고 Depth도 만들어주고🖌️RIC: Rotate-Inpaint-Complete for Generalizable Scene Reconstruction" },
+    { "id": "J932O7ef_E0", "title": "작아도 충분해!⚡EcoTTA: Memory-Efficient Continual Test-time Adaptation (CVPR 2023)" },
+    { "id": "EliaxPFMTsA", "title": "환자분, 가만히좀 계세요;; H-ViT: Hierarchical Vision Transformer for Deformable Image Registration (CVPR 2024)" },
+    { "id": "kfhj8XHGkK4", "title": "🌎맨해튼에서 소실점을 찾아라!🔍 Quasi-Globally Optimal and Real-Time Visual Compass in Manhattan World (RA-L 2022)" },
+    { "id": "4ydOpDsztM4", "title": "이번엔 Depth Task 발동🃏🃏 Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data (CVPR 2024)" },
+    { "id": "QP9CpI2WV6k", "title": "디퓨전이 그림만 그리겠니 Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation(CVPR 2024)" },
+    { "id": "fb3mmr3G_Sk", "title": "최선입니까? 확실해요? Can Classic TTA Strategies Be Effectively Applied in Semantic Segmentation?(ACMMM 2024)" },
+    { "id": "5c8fPsZzf-w", "title": "빠르지만 강력한 디퓨전으로 가자⚡Generalizable Visuomotor Policy Learning via Simple 3D Representations(RSS 2024)" },
+    { "id": "VHQcYKYn13o", "title": "이게 꿈인지 생신지... 🌙 DataDream: Few-shot Guided Dataset Generation(ECCV 2024)" },
+    { "id": "M_OxfwQgy6M", "title": "아무튼 빠르고 정확하게 진화.🤖🤖RVT-2 Learning Precise Manipulation from Few Demonstrations(RSS 2024)" },
+    { "id": "5jzhUxfdlV0", "title": "아 지피티야 할 수 있잖아!! PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs" },
+    { "id": "Um9JX2dpyAM", "title": "Target이 업써? 잘 찾아봐 Geometric MI Approach to Target-Free Camera LiDAR Extrinsic Calibration(WACV 2024)" },
+    { "id": "zuOq5f4-7FI", "title": "PAIR360: A Paired Dataset of High-Resolution 360° Panoramic Images and LiDAR Scans" }
+  ],
+  "playlists": [
+
+  ]
+}

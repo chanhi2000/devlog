@@ -1,0 +1,52 @@
+{
+  "channel": {
+    "id": "KarolMoroz",
+    "name": "Make Programming Fun Again",
+    "profile": "https://yt3.googleusercontent.com/kXN3PZ1Cs5oU0C_9CSnhb0cc75y12hZA5huQPggUIVys-ctT_4QqVM-f9wstSJAwA6xDsQmk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "TNAXkPI7JBc", "title": "Implementing 2FA Codes (TOTP) in C" },
+    { "id": "icpCv_OQdaY", "title": "How to Encrypt Secrets in Go Using AES-GCM-256" },
+    { "id": "pdq1y2Kegzc", "title": "Write an Interpreter in Go: Introduction (Crafting Interpreters #0)" },
+    { "id": "OojLfyczRE8", "title": "Write an Interpreter in Go: Scanner Part 1 (Crafting Interpreters #1)" },
+    { "id": "aTh5suCveE0", "title": "Write an Interpreter in Go: Scanning operators, numbers, strings (Crafting Interpreters #2)" },
+    { "id": "i6IyYJ6cH-M", "title": "Write an Interpreter in Go: Identifiers, context-free grammar (Crafting Interpreters #3)" },
+    { "id": "z2Ouj5X4Z7U", "title": "Write an Interpreter in Go: Visitor Design Pattern, Abusing Generics (Crafting Interpreters #4)" },
+    { "id": "1yUIDGkVxzI", "title": "Write an interpreter in Go: Operator Precedence and Associativity (Crafting Interpreters #5)" },
+    { "id": "vTjyHxFoPms", "title": "Vibe-Driven Development in C: ChaCha20 Cipher, Testing With CUnit" },
+    { "id": "WoEoFE3T1uw", "title": "Learn C Like It's 1996: Kernighan and Ritchie #1" },
+    { "id": "rYkW2seZH6o", "title": "Learn C Like It's 1996: Debug It Like It's Hot (Kernighan & Ritchie Challenge #2)" },
+    { "id": "eCgZRIqAE9w", "title": "Learn C Like It's 1996: counting words, graphs (Kernighan & Ritchie Challenge #3)" },
+    { "id": "-YnXSIXHvis", "title": "Learn C Like It's 1996: vertical histogram; function definitions (Kernighan & Ritchie Challenge #4)" },
+    { "id": "CppgfeVIiFE", "title": "Learn C Like It's 1996:  getline, realloc, strcpy (Kernighan & Ritchie Challenge #5)" },
+    { "id": "IhxTszesuUE", "title": "Learn C Like It's 1996:  trim your C-strings (Kernighan & Ritchie Challenge #6)" },
+    { "id": "MSBK-Wr0-Vo", "title": "Learn C Like It's 1996: reversing a string; tab stops (Kernighan and Ritchie Challenge #7)" },
+    { "id": "WXTuTy9RzNQ", "title": "Learn C Like It's 1996: detab, entab, fold, lldb debugging (Kernighan & Ritchie Challenge #8)" },
+    { "id": "_hRixksiino", "title": "Learn C Like It's 1996: line-wrapping using getline, pre-processing C code (Kernighan & Ritchie #9)" },
+    { "id": "fMUnBzIRTZM", "title": "Chapter 1 Boss Battle: stack; variadic args; linting C code (Kernighan & Ritchie Challenge #10)" },
+    { "id": "owgmbVGY5D8", "title": "Learn C Like It's 1996: Data types in C (Kernighan & Ritchie Challenge #11)" },
+    { "id": "f9GcNkHc1s0", "title": "Exploring SQLite with C: How to Download Latest SQLite3; Querying a database with C and SQL" },
+    { "id": "vgRl9w1d4as", "title": "SQLite3 with C: INSERTing data; binding parameters to statements" },
+    { "id": "w7LuLOcKkKQ", "title": "Let's Implement a Dynamic Array in C; Fetching Data from SQLite into Memory" },
+    { "id": "cRIwNgNya5Y", "title": "How to Reverse a UTF-8-Encoded String in Place in C" },
+    { "id": "TPfj1iebmYA", "title": "How to Encode Binaries as Base32 in C" },
+    { "id": "GBiZNDJyCBI", "title": "How to Decode Base32-encoded Data in C" },
+    { "id": "cpYLtupqVr4", "title": "Deploying a Go service to FreeBSD" },
+    { "id": "l9Za_aVqigw", "title": "Live Coding a Web App Using Go, sqlc, and Templ" },
+    { "id": "_tZpmUzukDs", "title": "Secure Web Apps: Password Authentication in Go with Argon2id" },
+    { "id": "AeIksLEHp8E", "title": "Go application setup with PostgreSQL, sqlx, goose migrations" },
+    { "id": "FEoOTJpW23s", "title": "Generate PDFs Using Go and LaTeX in 6 mins (Ancient Technology Series)" },
+    { "id": "SzBuz3lKNF8", "title": "Full Stack Elixir #6: Creating new records" },
+    { "id": "saw_n_YTbR0", "title": "Full Stack Application with Elixir, GraphQL, and React #5: Deleting todo items, disappearing things" },
+    { "id": "Z7r-q8vntvQ", "title": "Full Stack Application with Elixir, GraphQL, and React #4: Toggling and updating" },
+    { "id": "zObab-8qqQE", "title": "Full Stack Application with Elixir, GraphQL, and React #3: Apollo, stealing design from Apple" },
+    { "id": "SONMb_9ribY", "title": "小餅乾的秘密：session和cookies入門" },
+    { "id": "MxGQrmqubsI", "title": "Full Stack Application with Elixir, GraphQL, and React: Set up React and Sass" },
+    { "id": "0vbu6ctOGEg", "title": "Grinding Leetcode on Live Stream to Get Into FAANG [2024-08-09]" },
+    { "id": "KJ4okwIpJ1E", "title": "Watch Paint Dry: Grinding Leetcode to Get Into FAANG [2024-08-10]" }
+  ],
+  "playlists": [
+
+  ]
+}

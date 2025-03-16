@@ -6,6 +6,12 @@
     "banner": ""
   },
   "videos": [
+    { "id": "3saFasHrnEg", "title": "Distinguishing between human and programmatic scrolling" },
+    { "id": "fYqMPvPvVAc", "title": "How to share a React Component with the URL" },
+    { "id": "GIIuG5_kyow", "title": "Building a Reusable Component that Animates on Scroll" },
+    { "id": "vgICBsz5Qtc", "title": "Animate streaming text with a one-line hook" },
+    { "id": "6UU2Ey4KZr8", "title": "How to build a Recursive React Component" },
+    { "id": "9iJK-Vl6PhE", "title": "Avoid premature abstraction with Unstyled Components" },
     { "id": "k9onbcqxDwU", "title": "Building an Elastic Slider with Framer Motion and Radix" },
     { "id": "d0p95C3Kcsg", "title": "Optimistic UI in Remix" },
     { "id": "aj2mulzR9WQ", "title": "Session cookies in Remix" },

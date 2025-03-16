@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "Ionic1k",
+    "name": "Ionic1k",
+    "profile": "https://yt3.googleusercontent.com/UK0gw-QVPVjk3Ea4LR32NyUPEtUEMiAbpI1J_FoXYquoIHSWTDcAYhWx8CkjLB8PUVXQy5kOTA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Fr4wDSoobQT7XtKsmhF6KsM3dzvL9LyIvzqe-2dmfOG6LVXsiH04BDzSGRaZ42Ll6T_VNud8Pw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "be10OfcQu6s", "title": "Hosting A Scary AI Chat Bot In My New Discord Server" },
+    { "id": "_W_Qzwv3gWI", "title": "Why do I Have so Many Computers? | Room Tour and Setup Overhaul!" },
+    { "id": "_fMpABrAB7o", "title": "Upgrading my SGI Indigo 2 With EXTREME Graphics!" },
+    { "id": "vtkQiLkNgOI", "title": "Building the ultimate ThinkPad!" },
+    { "id": "oeP1gwACRA8", "title": "Enjoying 1990's Linux on an $8 PC From 1995!" },
+    { "id": "EJyFunNAuNw", "title": "Running Modern Linux on 90's PCs! | PsychOS 486" }
+  ],
+  "playlists": [
+
+  ]
+}

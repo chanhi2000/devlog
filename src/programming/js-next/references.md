@@ -71,6 +71,7 @@ head:
 - [`@endmoseung` / NextJS 우아하게 사용하기](https://velog.io/@endmoseung/NextJS-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`@composite` / Next.js 15 출시인데 React 19는 RC라고?](https://velog.io/@composite/Next.js-15-%EC%B6%9C%EC%8B%9C%EC%9D%B8%EB%8D%B0-React-19%EB%8A%94-RC%EB%9D%BC%EA%B3%A0)
 - [`@ansrjsdn` / Nextjs RunTime 변수 at k8s](https://velog.io/@ansrjsdn/Nextjs-RunTime-%EB%B3%80%EC%88%98-at-k8s)
+- [`@ansrjsdn` / Nextjs 에서 client side 라이브러리 import 시 에러 해결](https://velog.io/@ansrjsdn/Nextjs-%EC%97%90%EC%84%9C-client-side-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-import-%EC%8B%9C-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 
 <!-- END: velog.io -->
 

@@ -18,7 +18,7 @@ head:
     - property: og:description
       content: Sandbox
     - property: og:url
-      content: https://chanhi2000.github.io/devops/windows/sandbox.html
+      content: https://chanhi2000.github.io/devops/win/sandbox.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -55,12 +55,12 @@ If you wish to learn about what is UEFI in detail and understand why modern comp
 After logging into your PC, open **Notepad** and paste the below content.
 
 ```batch :collapsed-lines title="enable_sandbox.bat"
-@echo off
+@ECHO off
 
-echo Checking for permissions
+ECHO Checking for permissions
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 
-echo Permission check result: %errorlevel%
+ECHO Permission check result: %errorlevel%
 
 :: --> If error flag set, we do not have admin.
 IF '%errorlevel%' NEQ '0' (

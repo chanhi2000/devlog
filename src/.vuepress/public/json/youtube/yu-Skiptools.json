@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "Skiptools",
+    "name": "Skip",
+    "profile": "https://yt3.googleusercontent.com/oRHJkrWqSBGJeh145fIf2KHLenIuO5OygUZFWX6R22cWYChq739f-2wZInCIMHGAVx9ccvWv=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EBp8m8h2fIY", "title": "Bringing a SwiftUI app to Android with Skip" },
+    { "id": "-KZHNos0clY", "title": "Skip: shared iOS and Android libraries in Swift" },
+    { "id": "Jy8t4jDUcRo", "title": "Skip: cross-platform apps in Swift and SwiftUI" },
+    { "id": "rfo3Mci63ts", "title": "Skip: cross-platform apps without compromises" }
+  ],
+  "playlists": [
+
+  ]
+}

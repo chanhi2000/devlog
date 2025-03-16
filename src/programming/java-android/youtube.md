@@ -135,5 +135,6 @@ tag:
 <MyYouTubeItems jsonName="yu-AndroidDialogs" /><!-- Android Dialogs -->
 <MyYouTubeItems jsonName="yu-perfology" /><!-- Perfology -->
 <MyYouTubeItems jsonName="yu-s.sellmair" /><!-- Sebastian Sellmair -->
+<MyYouTubeItems jsonName="yu-Skiptools" /><!-- Skip -->
 
 <TagLinks />

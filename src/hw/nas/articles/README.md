@@ -4,10 +4,12 @@ title: Article(s)
 description: NAS > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - Hardware
   - NAS
   - Article(s)
 tag:
   - blog
+  - hardware
   - nas
 head:
   - - meta:

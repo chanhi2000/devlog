@@ -101,10 +101,12 @@ head:
 - [`@euisuk-chung` / \[Day 8\] Introducing ChatGPT Search](https://velog.io/@euisuk-chung/Day-8-Introducing-ChatGPT-Search)
 - [`@euisuk-chung` / \[Day 9\] OpenAI o1 및 개발자를 위한 새로운 도구](https://velog.io/@euisuk-chung/Day-9-OpenAI-o1-and-dev-tools)
 - [`@euisuk-chung` / \[Day 10\] 1-800-CHAT-GPT: ChatGPT랑 통화랑 문자를 할 수 있다고? 📞💬](https://velog.io/@euisuk-chung/Day-10-1-800-CHAT-GPT-ChatGPT-talk-with-ChatGPT)
-- [`@euisuk-chung` / \[Day 11\] ChatGPT x Desktop Application 💻](https://velog.io/@euisuk-chung/Day-11-ChatGPT-x-Desktop-Application)
+- [`@euisuk-chung` / \[Day 11\] ChatGPT x Desktop Application 💻](https://velog.io/@euisuk-chung/Day-10-ChatGPT-x-Desktop-Application)
 - [`@euisuk-chung` / \[Day 12\] introducing o3 and o3-mini](https://velog.io/@euisuk-chung/Day-12-introducing-o3-o3mini)
+- [`@euisuk-chung` / \[OpenAI\] Introduction to Operator & Agents : Computer-Using Agent](https://velog.io/@euisuk-chung/OpenAI-Introduction-to-Operator-Agents-Computer-Using-Agent)
+- [`@euisuk-chung` / \[꿀팁\] GPT Canvas에서 LaTeX 수식 랜더링 문제 및 해결 방법](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-GPT-Canvas%EC%97%90%EC%84%9C-LaTeX-%EC%88%98%EC%8B%9D-%EB%9E%9C%EB%8D%94%EB%A7%81-%EB%AC%B8%EC%A0%9C-%EB%B0%8F-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 
-<!-- END: velog -->
+<!-- END: velog.io -->
 
 ---
 

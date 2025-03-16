@@ -114,5 +114,6 @@ head:
 <MyYouTubeItems jsonName="yu-RaidOwl" /><!-- Raid Owl -->
 <MyYouTubeItems jsonName="yu-digikey-japan" /><!-- DigiKey日本公式チャンネル -->
 <MyYouTubeItems jsonName="yu-SteveDOES" /><!-- Steve DOES -->
+<MyYouTubeItems jsonName="yu-techunboxing_channel" /><!-- 테크 언박싱 -->
 
 <TagLinks />

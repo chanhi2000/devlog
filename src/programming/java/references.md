@@ -199,6 +199,11 @@ tag:
 - [`@psj0810` / 홀짝에 따라 다른 값 반환하기(수학공식 사용)](https://velog.io/@psj0810/%ED%99%80%EC%A7%9D%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8B%A4%EB%A5%B8-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0%EC%88%98%ED%95%99%EA%B3%B5%EC%8B%9D-%EC%82%AC%EC%9A%A9)
 - [`@psj0810` / 조건 문자열](https://velog.io/@psj0810/%EC%A1%B0%EA%B1%B4-%EB%AC%B8%EC%9E%90%EC%97%B4)
 - [`@psj0810` / 네트워크](https://velog.io/@psj0810/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+- [`@dradnats1012` / 백준 10844 쉬운 계단수](https://velog.io/@dradnats1012/%EB%B0%B1%EC%A4%80-10844-%EC%89%AC%EC%9A%B4-%EA%B3%84%EB%8B%A8%EC%88%98)
+- [`@dradnats1012` / 공부시간 측정 디스코드봇 만들기!](https://velog.io/@dradnats1012/%EA%B3%B5%EB%B6%80%EC%8B%9C%EA%B0%84-%EC%B8%A1%EC%A0%95-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [`@dradnats1012` / 그리디(Greedy) 알고리즘](https://velog.io/@dradnats1012/%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [`@dradnats1012` / BFS(Breadth First Search)](https://velog.io/@dradnats1012/BFSBreadth-First-Search)
+- [`@dradnats1012` / DFS(Depth First Search)](https://velog.io/@dradnats1012/DFSDepth-First-Search)
 
 <!-- END: velog.io java -->
 

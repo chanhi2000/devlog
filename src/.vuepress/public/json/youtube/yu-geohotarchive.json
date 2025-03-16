@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/Nn4hpY1fEJBjee0fWZ76I2sjzA-PAp4Pi9fcdWxN8hVcE3xEZ_Ge122EI9xIYf2P_V6aOqS32Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Pbbi3k5XTcs", "title": "George Hotz | Programming | GPU go brrrr, how to make things fast on AMD GPU tinycorp.myshopify.com" },
+    { "id": "upZf-BWF1i0", "title": "George Hotz | mixture of experts (like deepseek) on tinygrad sovereign AMD stack | AMD YOLO" },
+    { "id": "KXjEQHmWPsQ", "title": "George Hotz | Programming | exploring the radeon 9070XT | AMD | tinycorp.myshopify.com" },
+    { "id": "pKE3LV2Rdyw", "title": "George Hotz | Programming | tinygrad LLVM speed on CPU! | Part 1 | tinycorp.myshopify.com" },
+    { "id": "c1UHi7dncvo", "title": "George Hotz | Programming | tinygrad LLVM speed on CPU Apple M3 edition Part2 tinycorp.myshopify.com" },
+    { "id": "zDwRrhQ9PDc", "title": "George Hotz | Programming | working on the tinygrad backend for PyTorch | tinycorp.myshopify.com" },
+    { "id": "Gm0t-kAsHuY", "title": "George Hotz | Programming | making tinygrad CLOUD=1 fast (even from Hong Kong!) | Good Vibes :)" },
+    { "id": "h0jT60MBsvc", "title": "George Hotz | Programming | toonygrad! a rewrite of the tinygrad middleware (1/n) | Hong Kong" },
+    { "id": "gEIKcccSpg4", "title": "George Hotz | Programming | tinygrad, starting on CLOUD=1 | Part 2" },
+    { "id": "LJbUaciFdV8", "title": "George Hotz | Just Chatting | how to actually win? | tinygrad.org" },
+    { "id": "R8uxmXmtOrk", "title": "George Hotz | Programming | tinygrad updates and fast MCTS search | tinygrad.org/#tinybox" },
     { "id": "6fFUfyT-EyA", "title": "George Hotz | Exploring | finding exploits in AMD's GPU firmware | Giving up on AMD for the tinybox" },
     { "id": "rUsx1b7rQ8Q", "title": "George Hotz | Exploring | sniffing NVIDIA's ioctls | open-gpu-kernel-modules | DEBUG | PTX | CUDA" },
     { "id": "Y-0yZ1AHb0s", "title": "George Hotz | Researching | documenting the AMD 7900XTX so we can understand why it crashes | RDNA 3" },

@@ -164,5 +164,8 @@ head:
 <MyYouTubeItems jsonName="yu-윤툴툴" /><!-- 윤툴툴 -->
 <MyYouTubeItems jsonName="yu-다이바이TV" /><!-- 다이바이TV -->
 <MyYouTubeItems jsonName="yu-리브윤" /><!-- 리브윤 -->
+<MyYouTubeItems jsonName="yu-Direct_Way" /><!-- Direct Way -->
+<MyYouTubeItems jsonName="yu-jipconomy" /><!-- 집코노미 -->
+<MyYouTubeItems jsonName="yu-living_for_rest" /><!-- 리빙포레스트 -->
 
 <TagLinks />

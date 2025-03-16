@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "aifrenz",
+    "name": "AI프렌즈",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kTrRsTWyoTOm_hOBMUdF_RK1aW3i7CCXqt8_jMP2lS9A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/s-is57AYlQtmlNWQMwq2jLYZB_EXOR3nAKjb8LRRQYrsWmceHQ8cWtZ5ni0NC8lNcUTkQ58qKQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Bxe-3cYzA_c", "title": "AI Agents: Beyond LLMs, the Path to AGI (전자통신부설연구소 고우영)" },
+    { "id": "XUcjEK3WvsM", "title": "AI 프렌즈 주간 소식 (~25.3.2) Claude 3.7 GPT 4.5, DeepSeek 오픈소스 발표" },
+    { "id": "hEL5mn-C8Us", "title": "[뒷북방송] DeepSeek 톺아보기 (유용균, 손영성)" },
+    { "id": "9gjpNPIzfts", "title": "계산 과학에서의 기초(Foundation) 모델 (로랜스리버모어랩 최영수 박사)" },
+    { "id": "g1tzaW32-m0", "title": "퍼플렉시티 킬러를 만들고 있어요 (오픈리서치 김일두 대표)" },
+    { "id": "xKr15hzbQfM", "title": "금주의 AI소식(OpenAI Deep Research & 50달러로 o1 만들 수 있다고?)" },
+    { "id": "Bxe-3cYzA_c", "title": "AI Agents: Beyond LLMs, the Path to AGI (전자통신부설연구소 고우영)" },
+    { "id": "sjugngm9wrM", "title": "딥시크 임팩트와 중국 AI 혁신생태계 (한양대 백서인 교수)" },
+    { "id": "OPTf3AnsHTo", "title": "chatgpt + jetson + environmental sensors" },
+    { "id": "0Ewk1Mb2Dy4", "title": "172. Dataset curation for training a Code LLM. Kisub Kim" },
+    { "id": "Ck8pKZptl_A", "title": "173. 신약 개발 가속화를 위한 인공지능의 역할 (안전성평가연구소 김현호)" },
+    { "id": "aMUopbBrAmA", "title": "169. Modular RAG 를 지향하게 된 이유. 테디노트 YouTube / 브레인크루 이경록 크리에이터" },
+    { "id": "wLIzLVH6a7U", "title": "170. In silico 기반 혼합독성 예측기술 (한국화학연구원 서명원)" },
+    { "id": "A0bH3RXBZSw", "title": "AAICON2024 - 딥러닝의 현재와 인공지능의 미래(남세동 보이저엑스 대표)" },
+    { "id": "YllAUoSS3-8", "title": "AAICON2024 - 생성형 AI로 촉발된 오픈소스 이슈(박정숙 ETRI오픈소스센터 센터장)" },
+    { "id": "8yi3ZD2k7t4", "title": "AAICON2024 기조강연1. 생성형 AI 시대, 어떻게 교육하고 배울 것인가? (모두연 김승일)" },
+    { "id": "40meC0Ykvq4", "title": "생성AI 아티스트 초대전 (실용인공지능학회/AAICON 2024)" },
+    { "id": "yHRa-nW321E", "title": "[2023 AI특성화기업 역량강화 지원사업] 240329 PoC 프로젝트 수행 경험 공유 세미나 하이라이트 영상" },
+    { "id": "Zf83lR3sXc8", "title": "AI 전쟁시대 네이버의 초거대 AI전략 그리고 HyperCLOVA X (네이버 클라우드 하정우)" },
+    { "id": "JHg36cTW984", "title": "제16회 INNOPOLIS AI 세미나. AI 모델 활용을 위한 웹 프로그램 개발의 중요성 (한국화학연구원 강영묵 선임연구원)" },
+    { "id": "T7BpCMI7kDY", "title": "긴급 세미나. 1부 GPT4 톺아보기 (전자통신부설연구소 고우영 선임연구원)" },
+    { "id": "3MzVNmf2t7w", "title": "[ 인공지능과 시물레이션 & 디지털트윈 융합 워크숍 ] 디지털트윈의 꿈" },
+    { "id": "fZ4xfgexoik", "title": "165. 중국의 인공지능 응용 사례와 정책 동향. 한양대학교 ERICA 중국학과 백서인" },
+    { "id": "Szn0q5D_GsQ", "title": "168. So Easy ComfyUI (야 너두 할 수 있어 ComfyUi). soy.lab. 최돈현" }
+  ],
+  "playlists": [
+
+  ]
+}

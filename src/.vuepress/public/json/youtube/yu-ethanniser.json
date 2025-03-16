@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "vtotu8p9DWw", "title": "The secret to why React feels so fast" },
+    { "id": "ibxUIL_-LlA", "title": "What is Concurrency? And how can Structured Concurrency make it easier?" },
+    { "id": "1U44SbOa7rE", "title": "The PROBLEM With Error Handling in Typescript (and how to fix it)" },
     { "id": "NZpPMlSAez0", "title": "Build a Multi-Tenant B2B App With BUN and HTMX - FULL COURSE" },
     { "id": "cpzowDDJj24", "title": "The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance" }
   ]

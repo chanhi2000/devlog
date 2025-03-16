@@ -121,7 +121,7 @@ WUSA /uninstall /KB:4535996 /norestart
 {
   "title": "Windows > Environment Setup",
   "desc": "Environment Setup",
-  "link": "/devops/windows/env-setup.md",
+  "link": "/devops/winenv-setup.md",
   "logo": "/images/ico-wind.svg",
   "background": "rgba(10,10,10,0.2)"
 }

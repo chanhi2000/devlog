@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "womogenes",
+    "name": "William Y. Feng",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lTmtTTsNwQ9xiiUSAXgyr9LhaY8M7lYD-KlQLMLQdG0wM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UEDzkwj3Y1Q6uJ9aMDtGmC6V5YQzMVRsdtAmQ6k0YxTrT2ocO5uWgTwMoUGw2pYvC1DWE43P=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LA4RiCDPUlI", "title": "Day 5: Print Queue | Advent of Code 2024" },
+    { "id": "PivtIotcOhw", "title": "Day 6: Guard Gallivant | Advent of Code 2024" },
+    { "id": "3VDHDUQDCTY", "title": "Day 8: Resonant Collinearity | Advent of Code 2024" },
+    { "id": "9I_S8gGcslo", "title": "Day 9: Disk Fragmenter | Advent of Code 2024" },
+    { "id": "MmT5xgXnbcc", "title": "Day 10: Hoof It | Advent of Code 2024" },
+    { "id": "L3_XgH3Xzyw", "title": "Day 12: Garden Groups | Advent of Code 2024" },
+    { "id": "ck5cDK5Us1w", "title": "Day 13: Claw Contraption | Advent of Code 2024" },
+    { "id": "Zyvd-MWo7uE", "title": "Day 14: Restroom Redoubt | Advent of Code 2024" },
+    { "id": "zYvZS68tPsU", "title": "Day 15: Warehouse Woes | Advent of Code 2024" },
+    { "id": "OIl4qqTLAKc", "title": "Day 20: Race Condition | Advent of Code 2024" },
+    { "id": "q5I6ZvJmHEo", "title": "Day 21: Keypad Conundrum  | Advent of Code 2024" },
+    { "id": "fbBQRCacVWo", "title": "Day 23: LAN Party | Advent of Code 2024" },
+    { "id": "0dcws3qyicY", "title": "Day 1/25: Advent of Code 2024 Livestream 🧑‍💻☃️" },
+    { "id": "0dcws3qyicY", "title": "MIT students try to solve Advent of Code 2024 🎄💻" },
+    { "id": "4NICD495QFE", "title": "Day 2: Red-Nosed Reports | Advent of Code 2024" },
+    { "id": "83Svq4UB8f4", "title": "Day 3: Mull It Over | Advent of Code 2024" },
+    { "id": "L8lNcd9yQuY", "title": "Day 4: Ceres Search | Advent of Code 2024" },
+    { "id": "HRly2PP6yB8", "title": "Leetcode Weekly Contest 407" }
+  ],
+  "playlists": [
+
+  ]
+}

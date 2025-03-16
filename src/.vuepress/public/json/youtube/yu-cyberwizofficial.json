@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "cyberwizofficial",
+    "name": "CyberWiz",
+    "profile": "https://yt3.googleusercontent.com/jWQFOIABzVcxxETxsggqlqY2hoKvQTtXG0rFJFbAz_MunsQQdwzCReTCQome5kkJnnn8HL1iLQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vzfm57HvEveHTfK7xfKraY9ZVosxt2Q7QyfTGx0yW55M_Cc_RhdfuYSjOT3bmP9NvI7TSZvU4a4=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HZe5pR1bAGI", "title": "Singleton Design Pattern - Advanced Python" },
+    { "id": "q0Pmv-DAXug", "title": "Builder Design Pattern - Advanced Python" }
+  ],
+  "playlists": [
+
+  ]
+}

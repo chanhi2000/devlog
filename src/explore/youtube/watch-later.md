@@ -75,7 +75,6 @@ tags:
 
 <TagLinks />
 
-[yu-linkedinlearning]: https://www.youtube.com/@linkedinlearning
 [yu-windowandroid]: https://www.youtube.com/@windowandroid
 [yu-rj-code-advance-en]: https://www.youtube.com/@RJCodeAdvanceEN
 [yu-user-fp8lc6ju1n]: https://www.youtube.com/@user-fp8lc6ju1n
@@ -113,7 +112,3 @@ tags:
 [yu-cat-technology]: https://www.youtube.com/@Renewedcart
 [yu-gis-donwell]: https://www.youtube.com/@GISdonwell
 [yu-user-mq5ph1ct8y]: https://www.youtube.com/@user-mq5ph1ct8y
-[yu-priyatalkstech6534]: https://www.youtube.com/@priyatalkstech6534
-[yu-coder-journey]: https://www.youtube.com/@Coderjourney
-[yu-user-ls2vk8ic9v]: https://www.youtube.com/@user-ls2vk8ic9v
-[yu-nathaniel-jordon]: https://www.youtube.com/@NathanielJordon

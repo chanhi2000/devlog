@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/gLQzGdMHrF7BjaVjrxPL2dfNPobKmOXkX6JtD5EvO0_ZycAQ8EHvmz8taxNaUoZ5TBwV1MnHug=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EyngVWnOH50", "title": "jQuery Alternatives: Mastering Vanilla JS for Efficient Web Development" },
+    { "id": "CLjd0_o67OA", "title": "Nuxt 3 + Laravel Sanctum Authentication: Setup Secure SPA & API Auth (Step-by-Step Guide)" },
+    { "id": "bjcM8E5s8p0", "title": "Laravel Reverb + Nuxt 3: Real-Time Messaging | Full Chat App Tutorial" },
+    { "id": "UUk1scVLrCQ", "title": "React Lists & Keys: The Essential Guide to Performance (Tutorial #11)" },
+    { "id": "iKEjXRkuaDk", "title": "🔥 Spec Coder: Top Features Revealed - Boost Your Coding with AI!" },
+    { "id": "PZu135CIMKw", "title": "Ctrl+Alt+Cheat: The Ultimate Cheat Sheet Extension for VSCode You Can't-Miss! 💡" },
+    { "id": "w6m9J64xh80", "title": "React Class Component Lifecycle Methods: A Deep Dive (Tutorial #12)" },
+    { "id": "rvVkVtteefs", "title": "Ctrl+Alt+Cheat: Tailwind Shade Generator, Linux Cheat Sheets & More! 🚀" },
+    { "id": "upalQVzP_Y0", "title": "useEffect() Hook in React.js: Side Effects, Lifecycle and Prevent Memory Leaks (Tutorial #13)" },
     { "id": "dxQQ1sUOQQI", "title": "ES6 Spread Operator: Simplify Array and Object Manipulation in JavaScript" },
     { "id": "bA9vUWEsqyk", "title": "Must-Have React.js VS Code Extensions in 2024 (Boost Your Dev Workflow)" },
     { "id": "M1GS1SaxAiY", "title": "Create React.js App with Vite: Getting Started (Tutorial #1)" },

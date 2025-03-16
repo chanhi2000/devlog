@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "watthedoodle",
+    "name": "wat the doodle!",
+    "profile": "https://yt3.googleusercontent.com/Y7Fw5_TBtssYKy4iMSwicTDPfL34yb_Q0wFu_xsh9Nlj9-IMnmNVgChAWtrykJs9I8XQfOEEyg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BwBXd02E9rQB9apxpYMjSWbzY5IaOTZSE4VHBXoHDkQMzhPV-MnsP58D-ylrTT9uI1LRdyTy2lY=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gTtGy3bQTPk", "title": "Let's rewrite Google File System in Rust! Rust Distributed File System RDFS: Project setup" },
+    { "id": "VC70dlSpgX0", "title": "Rust Distributed File System (RDFS) a Toy Implementation of The Google File System: Worker Node" },
+    { "id": "SgIcHaUEVp0", "title": "Rust Distributed File System (RDFS) a Toy Implementation of The Google File System: Master Node" },
+    { "id": "zIxJNQmeIH8", "title": "Modern Frontend Framework Development for Dinosaurs Revisited!" },
+    { "id": "rJv0tKmt94I", "title": "A Review of the Anti Rust article by a Rust Engineer" },
+    { "id": "O7A0l3lrZ7Q", "title": "A Response to  You don't need a frontend framework" },
+    { "id": "_KeRUWhO3M8", "title": "Let's Create A Toy HTML Builder in Rust" },
+    { "id": "8I7S3SDyW2s", "title": "Build a Todo Web App Using Deno, Hono, and vanilla JavaScript!" },
+    { "id": "0gGiuFc5MtE", "title": "Dynamic languages vs Statically Typed languages" },
+    { "id": "pzyZeZePyzk", "title": "Review: Separating Programming Sheep from Non-Programming Goats" },
+    { "id": "dab_vzVDr_M", "title": "Let's create a simple State Machine in Rust!" },
+    { "id": "LtPROcX8sl8", "title": "Stop Using CSV! Use DSV instead. Let's parse DSV in Rust!" },
+    { "id": "S6ltoUfXbWU", "title": "Reacting to \"Best Programming for web development by Pieter Levels and Lex Fridman\"" },
+    { "id": "gxU9nIHM6mM", "title": "Want to convert a container into a MicroVM? We'll need to compile the Linux kernel first!" },
+    { "id": "q7MTSMOxwJs", "title": "Successfully compiling krunVM an update!" },
+    { "id": "x6k-ndoWn7U", "title": "How does a distributed file system like Google GFS work?" }
+  ],
+  "playlists": [
+
+  ]
+}

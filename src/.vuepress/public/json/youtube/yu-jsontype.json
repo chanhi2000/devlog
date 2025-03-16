@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/7S-dqLIQ6-00GX4v-ae3jXPNRphp-j6aqdQGwrQIhRjD9Y5umONijN1sIYwK6YYI2CpbSZ9N=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "WcfSjDHwI38", "title": "51. deploy" },
+    { "id": "VjfkzleEDSQ", "title": "52. movieapp detail page - example - how to code" },
     { "id": "l5fXSEhiXTo", "title": "38. vue-from-react-migration" },
     { "id": "xif_LpAt5BU", "title": "37. vue-props-ref" },
     { "id": "o7ZXFNrQSbk", "title": "36. vue-start" },

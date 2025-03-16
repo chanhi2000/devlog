@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "bumjini",
+    "name": "Science Vibe",
+    "profile": "https://yt3.googleusercontent.com/K0xf-IVcMjSYYY8AIVeh4klPqgEmXhug3Zz-o78nHl4uky6Qu32E0ca1TPricDqPO2Mx9V6Qug=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fjQaDZtQRKAH-8894K2JY2HTrWXMnuY11vwYAEzHUhFgPHn4uNK38h3TcgG4agRXw5NLcoMg0g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ON6cPK7jmtM", "title": "중국 AI가 미국 AI보다 잘하는 인지과학적 이유 (LLM + Cognitive Science) 논문 리뷰" },
+    { "id": "N1YhPtbuzO4", "title": "AI 인식론 프로젝트 - 1 - 소크라테스" },
+    { "id": "DseJHHRII90", "title": "AI 인식론 프로젝트 - 2 - AI는 세상을 어떻게 인식할까? 철학적 해석 (Feat. 플라톤, 칸트, 민스키)" },
+    { "id": "M9HKSxZ8tPY", "title": "AI 안전 관련 최신 방법: Safety 뚫으면 3000만원 준다는 클로드 모델" },
+    { "id": "BApNfZlQO2E", "title": "인지과학적 AI 접근: 인식 (Recognition)과 회상 (Recall)의 차이 (Tulving-Wiseman Law)" },
+    { "id": "A9N-L08zDWk", "title": "어텐션: 인간의 인지 과정 (추출, 매칭, 추론, 출력)을 담당하는 AI의 복잡한 연산" },
+    { "id": "ALrOqHa4hIM", "title": "오늘 내 세상이 무너졌다 =  AI 에게 굉장히 중요한 논리적 표현" },
+    { "id": "8nC3lN-iIk8", "title": "AI, 인간처럼 깊이 생각한다? 시스템 1과 시스템 2의 진화!" },
+    { "id": "aKyNt7bw2r8", "title": "[NeurIPS-24 읽기 1/N]  좋은 토큰만 골라서 학습하는 Selective Causal Modeling" },
+    { "id": "I04RtCujPVY", "title": "[NeurIPS-24 읽기 2/N]  LoRA 머리가 여러개 달린 HydraLoRA" },
+    { "id": "hwliPyxjwvU", "title": "[NeurIPS-24 읽기 3/N] 랜덤트랜스포머 - 학습하기 전부터 엄청난 능력이 있었다." },
+    { "id": "XJYasxhAO8w", "title": "[NeurIPS-24 읽기 4/N] YOCO = 트랜스포머 + RNN  + Single Cache로 극단적 효율" },
+    { "id": "cizCG2D4eb4", "title": "[NeurIPS-24 읽기 5/N] AI 들로 이루어진 생태계 멸망 가능성 시뮬레이션 (feat: 칸트 - 정언명령)" },
+    { "id": "6j3gYyEoRzg", "title": "(2편) 엄청 어려운 Distributed Alignment Search를 이해하자" },
+    { "id": "53sVzNb127o", "title": "LLM 모델 수술하기 (ICML 2024 논문) (Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing)" },
+    { "id": "UkAWzLH7RDs", "title": "AI 생성물로 다양성은 0으로 수렴한다.  (2024년 7월 Nature 논문)" },
+    { "id": "xXSr3T6zvXk", "title": "GPT 모델은 랜덤한 지식에 접근할 수 없다. (ACL 2024)" },
+    { "id": "qU7Eo0PllCY", "title": "인공지능 연역적 추론의 비밀 (국제 수학 올림피아드 은메달 Alpha Geometry Nature 논문)" },
+    { "id": "8q6NPfKANaM", "title": "인간과 인공지능 뇌 차이는 뭘까 - 뉴런은 동일하다." },
+    { "id": "N7eehKBhouU", "title": "LG EXAONE 모델의 사회적 편향 (삼성과 LG 중 누가 더 좋아?) #ai  #LG #exaone #사회적이슈" },
+    { "id": "efvRdVcYQhw", "title": "인공지능의 언어 학습 가능성은 100%가 아니다." },
+    { "id": "4jNn-HtefLg", "title": "procreate으로 애니메이션 만들기" },
+    { "id": "_5nMtDVw3CA", "title": "AI 생성물의 가독성을 올리는 Prover-Verifier Framework (OpenAI)" },
+    { "id": "hwSSBmw5L88", "title": "Meta의 최신 이미지 텍스트 멀티모달 -Transfusion이 뭐야?!" },
+    { "id": "uiLB2q-znTQ", "title": "인공지능의 인종차별을 막지 못한 이유 (Nature 8월 논문)" },
+    { "id": "x0FRWucGnoE", "title": "의료 인공지능의 현재 수준: Med-Gemini & CancerLLM" },
+    { "id": "31qJbfnykQQ", "title": "Deep Neural Network Memory 구조: Key-Value Memory vs Associative Memory" },
+    { "id": "XmvZXCayLgs", "title": "OpenAI-o1 기술 보고서 읽기 - 이제 CoT 안주신다고요?!" },
+    { "id": "GUdB38cluSA", "title": "인공지능 뉴스를 보는 방법에 대해서" }
+  ],
+  "playlists": [
+
+  ]
+}

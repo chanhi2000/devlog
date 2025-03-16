@@ -460,6 +460,9 @@ head:
 
 - [Cardinality](https://johngrib.github.io/wiki/database/cardinality/)
 - [코페르니쿠스 원리 (Copernican Principle)](https://johngrib.github.io/wiki/jargon/copernican-principle/)
+- [비서 문제(Secretary problem)](https://johngrib.github.io/wiki/problem/secretary/)
+
+<!-- END: johngrib.github.io -->
 
 ---
 

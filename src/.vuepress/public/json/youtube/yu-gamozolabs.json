@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "gamozolabs",
+    "name": "gamozolabs",
+    "profile": "https://yt3.googleusercontent.com/x_HoUVI-ENnI-bNia80uXsnnjOmC9u7ox_iTjE-IcQzvfoSBB9Gn9Ci37PYtXn5RC0r2WGgXRQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/MheFjn2rq2xJkB07Xo0Dyc1OMULUydLwferevBTC0FB1un0vYtE8GRPJO49NV0wTC1kzehCwfQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-ipYRFYzF1s", "title": "Writing an ADC driver in Verilog for an external ADC" },
+    { "id": "awFmNE3KL68", "title": "Getting the FPGA to communicate with the ARM HPS" },
+    { "id": "MjuL6srGn0c", "title": "Making a 3 channel 100ksps oscilloscope with an FPGA :)" },
+    { "id": "TtoOn0Zih7Q", "title": "Scraping and measuring one specific spot on my Monarch 10EE" },
+    { "id": "1MwTSJItnb4", "title": "Benchmarking mmap() scaling on Linux threads" },
+    { "id": "I8HmqtXnvMU", "title": "Trying to reverse engineer Tibia damage formulas from a server" },
+    { "id": "2sMotd5Rl2s", "title": "Fast image searching for monochrome sub-images" },
+    { "id": "44IM7sJeoao", "title": "Attempting to write a B-tree for extremely low-latency core-to-core communications" },
+    { "id": "tJCNR3_WAI0", "title": "Fuzzing to model my lathe bed" },
+    { "id": "IpZASAF7Ucw", "title": "Fuzzing to model my lathe bed" }
+  ],
+  "playlists": [
+
+  ]
+}

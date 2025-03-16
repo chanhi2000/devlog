@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "phpukconference",
+    "name": "PHP UK Conference",
+    "profile": "https://yt3.googleusercontent.com/DqWUOOMQMVJuQtNWq-Q-WImnBQECi2_eYJnwVM2wVAOwg8kstG2vTySNs_dZWXlSnbIqjHY6BQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/vDw7zwIlr4xB-tbLxpoRMG3SZtqaKRBWdGBsa6XhoIfcbMaJPBaYBD59_HAaypOcun8sp3bn7w=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "og8Gr05dz6Y", "title": "20 Years of BDD - Daniel Terhorst-North" },
+    { "id": "OdwQnKdjzXI", "title": "Deploying at scale with a single click - Wim Godden" },
+    { "id": "frkZUZJ4x1I", "title": "Ending Injection Vulnerabilities - Craig Francis" },
+    { "id": "ntm2Uj2jUvQ", "title": "Shrek, Onions and Architecture - Katy Ereira" },
+    { "id": "o6dIlejWNsI", "title": "Beyond Requests: Supercharging API Monitoring with Guzzle Middleware - Liam Hammett" },
+    { "id": "ldVFYHcUJJg", "title": "Composer Guide to Supply Chain Security - Nils Adermann" },
+    { "id": "z6uiPQIPGWQ", "title": "Learn to appreciate legacy (Story about Zed) - Ivo Lukač" },
+    { "id": "ebyRKIk3iRI", "title": "Modernizing PHP one edge case at a time - Gina Banyard" },
+    { "id": "s-_Yz07xf8s", "title": "Sharpen up your CI/CD pipelines with Dagger - Chris Riley" },
+    { "id": "nuxI6MSEMEg", "title": "Give your PHP apps superpowers with FrankenPHP - Kévin Dunglas" },
+    { "id": "_2-paQxpF7E", "title": "OpenAPI for Web Developers - Lorna Mitchell" },
+    { "id": "dilJ3T4TXxA", "title": "Panel Discussion PHP UK 2025" },
+    { "id": "szi9OIef2oU", "title": "Building desktop apps with PHP - Marcel Pociot" },
+    { "id": "3U0DGhzSH2U", "title": "What's New in PHP 8.3 - Derick Rethans" },
+    { "id": "BZuWGil_7kY", "title": "Boosting Frontend Speed: Quick Wins for Backend Developers - Paul Conroy" },
+    { "id": "AFjr3RlDOZQ", "title": "Tuning PHPStan to Maximum Strictness - Ondřej Mirtes" },
+    { "id": "qScVFyOGL_Y", "title": "How much database abstraction do I need? - Alexander M. Turek" },
+    { "id": "gJ7vEACAYmE", "title": "Where No PHP Has Gone Before - David Flanagan" },
+    { "id": "iwhwWtQ2UQI", "title": "Cutting-Edge Continuous Integration with Dagger - Paul Dragoonis" },
+    { "id": "rGowzfmzgdk", "title": "Boosting Web Engagement with Symfony UX - Mathéo Daninos" },
+    { "id": "NRYJAhcsNS0", "title": "Microservices vs The Distributed Monolith - Chris Riley" },
+    { "id": "s-0pWt4gpFk", "title": "How to contribute to PHP - Gina Banyard" },
+    { "id": "j-HzzWfpcvI", "title": "Pairing, Sharing, Caring - One team's journey to Pair Programming - Mark Bradley" },
+    { "id": "uzog0BTLrYY", "title": "The Business of Bisecting - Pauline Vos" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -4,9 +4,19 @@ title: NAS
 description: NAS
 icon: iconfont icon-nas
 category:
+  - Hardware
   - NAS
 tag:
-  - NAS
+  - hardware
+  - nas
+head:
+  - - meta:
+    - property: og:title
+      content: NAS
+    - property: og:description
+      content: NAS
+    - property: og:url
+      content: https://chanhi2000.github.io/hw/nas/
 ---
 
 # {{ $frontmatter.description }} 관련

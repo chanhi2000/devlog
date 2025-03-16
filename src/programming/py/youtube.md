@@ -159,5 +159,6 @@ head:
 <MyYouTubeItems jsonName="yu-learningsoftwareskills" /><!-- Learning Software -->
 <MyYouTubeItems jsonName="yu-codetowin" /><!-- Code To Win -->
 <MyYouTubeItems jsonName="yu-BekBrace" /><!-- Bek Brace -->
+<MyYouTubeItems jsonName="yu-cyberwizofficial" /><!-- CyberWiz -->
 
 <TagLinks />

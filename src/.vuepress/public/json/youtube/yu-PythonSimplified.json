@@ -6,6 +6,20 @@
     "banner": "https://yt3.googleusercontent.com/aLdyFwbXe0DOqJvaKTwNQrha85jmP2cA3lVrKv9rYNpFhuXwrks1Hwyot7E_AELadQfjofUi1w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MkLBNUMc26Y", "title": "Linear Regression Algorithm with Code Examples - ML for Beginners!" },
+    { "id": "w_XEPeaetik", "title": "Real Time Voice Chat App with Tiny AI" },
+    { "id": "yGS1ZqPXYpg", "title": "Safely Run Deepseek in Docker Container - Live Code Along Tutorial" },
+    { "id": "RGR5Xj0Qqfs", "title": "Web Scraping with Playwright + CAPTCHA Bypass For Beginners" },
+    { "id": "DFOA3wuVgWQ", "title": "Live Python Course for Beginners - Variables and Data Types" },
+    { "id": "9Ii34WheBOA", "title": "Create Your Own Python Library and Publish it on PIP - Step by Step Tutorial" },
+    { "id": "hxYIpH94u20", "title": "Create Data Dashboard GUI App with Taipy Scenarios -  Step by Step Python Tutorial" },
+    { "id": "lQMzCet5Hgs", "title": "AI Superpowers Stream with Igor Pogany" },
+    { "id": "8GoBlwgbirE", "title": "Ultimate Guide to Polars - Fastest Python Data Science Library!" },
+    { "id": "gDF_qGzYEYQ", "title": "Create GUI App with Stable Diffusion, Docker, and Flask - Beginner Friendly!" },
+    { "id": "MVBvpueJQzM", "title": "How Do We Know What's Real Anymore? Weekly Friday Stream" },
+    { "id": "bchUiNbwgLE", "title": "What Do You Want To Learn? Tutorial Requests Live Stream" },
+    { "id": "vE80SLk-4PM", "title": "NVIDIA NIM for Beginners - Combine Llama 3.1 in Your Own App" },
+    { "id": "hS6Lz9DEBtc", "title": "Image Classification Pipeline Overview - Final University Project" },
     { "id": "zp6hI1GbnHs", "title": "You Choose the Topic of Today's Stream - Coding, Chatting or Designing? 🤔" },
     { "id": "FxTEOuHF6bA", "title": "Cloud Computing for Beginners - The Ultimate Guide" },
     { "id": "cgxTwQT1ahw", "title": "OOP Exercise with Pygame" },
@@ -19,4 +33,3 @@
     { "id": "NB5LGzmSiCs", "title": "`If __name__ == \"__main__\"` for Python Developers" }
   ]
 }
-

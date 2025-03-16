@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "mike_lyndon",
+    "name": "Mike Lyndon",
+    "profile": "https://yt3.googleusercontent.com/RpxzL9Gy0IVzAyH-PgKE4Rcy2iyQEfYuKWNd6csXpWr6otLlyzWr6g6iQlZhjc3x2z0XqS5WOA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4v42JHuI30Y", "title": "Agentic Node Graph Generator" },
+    { "id": "lg9RRxtPiMA", "title": "How to Create Complex Interactive UI for Web Apps" }
+  ],
+  "playlists": [
+
+  ]
+}

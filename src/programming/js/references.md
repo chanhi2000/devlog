@@ -664,6 +664,7 @@ head:
 ## 기계인간 John Grib
 
 - [Destructuring](https://johngrib.github.io/wiki/programming/destructuring/)
+- [비서 문제(Secretary problem)](https://johngrib.github.io/wiki/problem/secretary/)
 
 <!-- END: johngrib.github.io -->
 
