@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/PVGxYKWGhoshk7qWQKF2e3oKn82T1sjjdUOddo-FaKg9gt2vCrVXBDB35JmjudlpTX_K037i0Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "HZ6mPgLocAo", "title": "Easy shape dividers with CSS + SVG" },
+    { "id": "I52TIZ6HVwA", "title": "I made the best shape divider tool" },
     { "id": "IDyqfTqQXh0", "title": "Custom CSS cursors: Gift or curse?" },
     { "id": "kYZVXFrMC5o", "title": "Turning SVG into CSS is magic" },
     { "id": "t66i7MAIetg", "title": "Sneak peak of my latest project: multi-state icons" }

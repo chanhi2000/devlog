@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "godago",
+    "name": "Goda Go",
+    "profile": "https://yt3.googleusercontent.com/ysZwsDEERn60uoB0OfUdoA2X0LEytNpRgoYISukzN_S3OlLTONoYzJvAgJ_J9XyATjxMHeEC3w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/gp-GrKJiDlzBnbVfwUa83f4aKBbVuxzvlhPQuAZ78U32nlzOJ3qcqZCwsVOO7leIgcGS83mm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "QcFqlxbsb_g", "title": "How China's AI Startup Made AI Make Sense" },
+    { "id": "6rPqwo0cKME", "title": "Connect JarvisJr to Claude & ElevenLabs | APH Kick-Off" },
+    { "id": "SIEzalSdEnc", "title": "🚨BREAKING NEWS The Nr1 AI Community Built JarvisJr" },
+    { "id": "GwSxnbeO4IM", "title": "Talk to Your Calendar! (No-code AI x ElevenLabs x Claude)" },
+    { "id": "PFdEgLjcZ1E", "title": "Make Beginner Workshop & Zero Inbox Set up" },
+    { "id": "rzpG63tPAbI", "title": "Prompt Engineering Conference 2024 - LIVE NOW" },
+    { "id": "rzpG63tPAbI", "title": "Prompt Engineering Conference 2024 - LIVE NOW" },
+    { "id": "yrK2Fn0tQ7w", "title": "The Sad Reality of AI Job Market w/ ML Engineer" },
+    { "id": "jbI_PsIQLFs", "title": "Because calling it WHAT IT IS isn't sexy" },
+    { "id": "jjrsLH4KgKQ", "title": "Forget Prompting They Pay $510,000 for This Now..." },
+    { "id": "0VEaRMu1iTk", "title": "BREAKING: What's Inside GPT-5? New Report" },
+    { "id": "3lfJrCcV23M", "title": "Chat with Your Data (For FREE) on Your Computer" },
+    { "id": "x-gstSQ2Rw8", "title": "The Best Video Recording Tool is Now Powered by AI" }
+  ],
+  "playlists": [
+
+  ]
+}

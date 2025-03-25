@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "andrew-burgess",
+    "name": "Andrew Burgess",
+    "profile": "https://yt3.googleusercontent.com/R5Toa7y-dsohRt306joqbjvSB_rWGN-RNm8sgtIOns98t2BbqL-d00fNPKhzu6qZxCiSRJ295Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BRBJC9X7lAMfRqcHMQaj6GKlLjEaWYs-FJpk7y5zgzFQFjN5RLuCAtSC4ZVgvbEPUZGP97Ma2A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "n-Kca-0aG-w", "title": "This confused me as a TypeScript Beginner" },
+    { "id": "VM_lSeGiVoI", "title": "A small TypeScript refactor that boosts the team's productivity" },
+    { "id": "EUU_FsWDGpA", "title": "Validating String Literals in TypeScript (with Custom Error Messages)" },
+    { "id": "oI631eCAQnQ", "title": "You need to use Git Worktrees" },
+    { "id": "4d1ouTAeTxI", "title": "Implement JS Array methods with Reduce" },
+    { "id": "AON1nirWpcc", "title": "Bulletproof Builder Pattern in TS" },
+    { "id": "J24rb6_5h9o", "title": "Welcome to Async Generators in JavaScript" },
+    { "id": "mkuChhuHO50", "title": "How to NoInfer (new TS 5.4 Feature)" },
+    { "id": "cGZD_0RODh4", "title": "An array of ways ... to create arrays (JS Basics)" },
+    { "id": "vwUIZyOP8_4", "title": "how TypeScript 5.5 makes safer types in fewer keystrokes" },
+    { "id": "bLmHYji0Bxw", "title": "How to use WeakMap and WeakSet in JavaScript" },
+    { "id": "92K4Ph86AKM", "title": "Responding to YOUR feedback about promise concurrency" },
+    { "id": "xD-aSyqpjWY", "title": "Managing Promise Concurrency in JavaScript" },
+    { "id": "ytptTeBr0I8", "title": "Disposable in TypeScript: Explicit Resource Management" },
+    { "id": "jePqedmNwh8", "title": "Advent of TypeScript Play-Through! Days 1 - 13" },
+    { "id": "evU23mMhhyI", "title": "Advent of Code ... in Types Only!" },
+    { "id": "bWF0KrhDuuE", "title": "old TypeScript syntax I just discovered" },
+    { "id": "0-fFaGnIP7g", "title": "Can JS Proxies do \"method missing\"?" },
+    { "id": "i9Bu_Lso2oo", "title": "3 typescript tips from my own code" },
+    { "id": "F1van9nShjA", "title": "git diff: everything you need to know" },
+    { "id": "aFjpGho5xjE", "title": "New TypeScript 5.6 Checks" },
+    { "id": "6D7XOGXbyfs", "title": "Generators vs Iterators: JavaScript Fundamentals" }
+  ],
+  "playlists": [
+
+  ]
+}

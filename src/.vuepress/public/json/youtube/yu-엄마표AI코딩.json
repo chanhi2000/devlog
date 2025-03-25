@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "엄마표AI코딩",
+    "name": "엄마표AI코딩",
+    "profile": "https://yt3.googleusercontent.com/Ty1PoStbYzcYLicEpWU9HPJi7SJatYVU1fQyNoKp7vY8QZO0-FZyzFtrPM-Y9Ur9djkxiSRI5w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/y4B80p5xRTGnEvAwZ9_PUx8WUGb4Z95iIalUY7NVhZ96svRpKD1gSJcmtT25aIUYdQ7ueTcfdw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7NnGkJa_R_4", "title": "[Claude] 클로드 3.7이 그렇게 좋다는데, 그래서 어떻게 쓰면 되냐고요? 🔥클로드 실사용자 활용법🔥" },
+    { "id": "dAO05Fxkbhc", "title": "[Gemini] \"제미나이 딥리서치 + 감마 AI로 보고서 작성 발표까지 단 15분!\" (feat. 퍼플렉시티 비교)" },
+    { "id": "3biJViXooOE", "title": "챗GPT 추천 도서 👉 2만원에 5가지 생성형 AI 입문서에 강의까지 드리는데 이 정도면 혜자 맞죠?!🤔" },
+    { "id": "aMWrCjdITDY", "title": "[ET-Board] 이티보드 코딩 키트 하나로 우리 애들 태양광/풍력 발전까지 가르치기👍 (심지어 찐으로 재밌어...😂)" },
+    { "id": "Q_lA8QNx98E", "title": "(무료수강권 이벤트) 패스트캠퍼스 생성 AI 강의 미리보기 영상 + 베셀 기념 이벤트 공지, 주식대시보드/엑셀 데이터시각화" },
+    { "id": "DhZN4GhIdc0", "title": "[GPT-4o] Github(깃허브)에서 내가 만든 앱 배포하는 법 알아보기(인터넷에 앱 공개하기 - 실습 코드 및 프롬프트 공유)" },
+    { "id": "5_lg5sMaRcc", "title": "[ElevenLabs] 내 목소리, 말투까지 똑같은 AI 목소리를 만들어서 나 대신 일하도록 시켜볼게요! (feat. 일레븐랩스 voice cloning)" }
+  ],
+  "playlists": [
+
+  ]
+}

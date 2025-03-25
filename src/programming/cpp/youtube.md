@@ -49,5 +49,9 @@ head:
 <MyYouTubeItems jsonName="yu-tokyospliff" /><!-- tokyospliff -->
 <MyYouTubeItems jsonName="yu-javidx9" /><!-- javidx9 -->
 <MyYouTubeItems jsonName="yu-POCUKorea" /><!-- POCU 코리아 -->
+<MyYouTubeItems jsonName="yu-Tariq10x" /><!-- Tariq10x -->
+<MyYouTubeItems jsonName="yu-sudolovemebaby" /><!-- sudo love me baby -->
+<MyYouTubeItems jsonName="yu-lowlevelgamedev9330" /><!-- Low Level Game Dev -->
+<MyYouTubeItems jsonName="yu-MikeShah" /><!-- Mike Shah -->
 
 <TagLinks />

@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "lowlevelgamedev9330",
+    "name": "Low Level Game Dev",
+    "profile": "https://yt3.googleusercontent.com/oxuYWv1SQt145hVJGNXiIozIfl37DaTK3ccUcol-vE4cubtslAmeUMMENAJKMXiwpLPbgo4N=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Vmifv6GBmRrfoteW5QMNN_fKvlxpsrfV1MBflzY9MdCbh4D1nkla1Z64WfBe8kOVNKRYmigY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "IBgfeZME2Vw", "title": "CMake FULL practical Guide!" },
+    { "id": "tfNXIWlCzq0", "title": "5 things I wish I knew before starting C++ Game Dev!" },
+    { "id": "k1nkymGdg0c", "title": "How to write code so good that it catches bugs for you!" },
+    { "id": "1SFg2MXCEMs", "title": "Simplest way to make your OpenGL game look way better!" },
+    { "id": "H1l_dSKoT1s", "title": "Want to make games? Set your goals now!" },
+    { "id": "7I3VmSgkZO8", "title": "I made a compute physics engine on the GPU! (OpenGL C++)" },
+    { "id": "hrXAuSIEGC4", "title": "It's easy to make a game engine from scratch!" },
+    { "id": "b4NdKJAUEeA", "title": "Adding Combat to my C++ Minecraft clone!" },
+    { "id": "0f0uH33X6ko", "title": "Making Minecraft but the server is Optimized!" },
+    { "id": "ZOfMA8h4qO8", "title": "I made a physics engine in C++ just to make Angry Birds!" },
+    { "id": "e3MZSEBQagQ", "title": "How to make games in C++ from 0 experience!" },
+    { "id": "Cx5NxeHXqEw", "title": "This keeps you stuck in your Low Level Game Dev Journey!" },
+    { "id": "W_yJwrx5m2Q", "title": "Minecraft's World Gen sucks so I fixed it! (C++ Voxel Engine)" },
+    { "id": "wnMsOLImZPk", "title": "is rand(); really evil? C/C++" },
+    { "id": "LLjkvDzk_Eg", "title": "Adding my own sounds and sprites for my C++ Minecraft Clone 💪" },
+    { "id": "Zp1SXzISgy4", "title": "Draw to your C++ WIN API window! WIN API for Game Developers, day 15." },
+    { "id": "bbx7R8zFccg", "title": "Fix your Gitignore! (PLEASE)" },
+    { "id": "_l7zwTvEHnI", "title": "How to Use Visual Studio Like a PRO!" },
+    { "id": "19V39daesWQ", "title": "I made my own shadertoy in C++" },
+    { "id": "bvpgb27JA28", "title": "Brutally Honest Advice for my younger C++ gamedev self" },
+    { "id": "Nf5PL-2Bgio", "title": "Become a Windows Power User for coders!" },
+    { "id": "RosSRBy0FYY", "title": "It's not hard to make games in C++" },
+    { "id": "db7HZwuUrgo", "title": "Left Elbow Reveal + Q&A!" },
+    { "id": "P9Ni6VbtcFY", "title": "The brute force method of coding! 💪" },
+    { "id": "JtfeCGi0QIU", "title": "Easy Debugging in OpenGL!" },
+    { "id": "Yklml-ha1BQ", "title": "I added the survival mode to my C++ Minecraft Clone!" },
+    { "id": "gHRRTCKtUSc", "title": "Start using Asserts in your C++ code to ×2.3 its quality!" },
+    { "id": "SXQTdMDqi2c", "title": "4 Deadly C++ Pitfalls that you should know about." },
+    { "id": "89xJIvqBrhM", "title": "I added Crafting to my Minecraft Clone!" },
+    { "id": "LJ_irGs5ly8", "title": "Switch IS NOT FASTER than if, (in C++)" },
+    { "id": "MuLZz-mCgHg", "title": "Dear beginners, please, STOP OPTIMIZING!" },
+    { "id": "_rPRVk75Y6Q", "title": "Adding epic shaders to my C++ Minecraft clone!" },
+    { "id": "5Mm_dRQPXus", "title": "Demystifying the C++ Compiler!" },
+    { "id": "rXhnQnBpU8U", "title": "Hot to use the Debugger as a complete beginner" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "플랫포머스터디",
+    "name": "플랫포머스터디",
+    "profile": "https://yt3.googleusercontent.com/vLROrP7KmmfDCf7FHbNmRq84UYnmpMHvSY_4tIFLHao5HARZ1gyedg6djk9qtdr0eQdldpSS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sJsrLLz39dFfHVFUseNq91uKHDNK6Kc9dn7e2EsLhim2lK6h0emqnUoDIy2Wsa2hupTI7b0E=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uKlYze79UvI", "title": "모던 자바 스터디 맛보기 4회 - 직렬화, LocalDate 타입" },
+    { "id": "psA7KvwKGKk", "title": "모던 자바 스터디 맛보기 3회 - OOP & 디자인패턴 & 동시성 이슈" },
+    { "id": "lk48Pa_n1MY", "title": "모던 자바 스터디 맛보기 2회 - SpringBoot REST API 아키텍쳐 내 Stream 활용" },
+    { "id": "Z8ov8Q7lYXQ", "title": "모던 자바 스터디 맛보기 1회 - SpringBoot 환경세팅 && 데이터파싱" },
+    { "id": "twZPFg1MnwE", "title": "SpringBoot 스터디 시작후 - 개발자 메이커 프로젝트 7" },
+    { "id": "Me_QaSmB3uk", "title": "SpringBoot 스터디 - JPA N+1 이슈 해결방법(Dto, fetch join, Batch_size) 3" },
+    { "id": "eGRZ7N6Fh8A", "title": "SpringBoot 스터디 - JPA N+1 이슈 해결방법(Dto, fetch join, Batch_size) 2" },
+    { "id": "QRAwbXGaydU", "title": "SpringBoot 스터디 - JPA N+1 이슈 해결방법(Dto, fetch join, Batch_size) 1" },
+    { "id": "Z804aaiYRVU", "title": "SpringBoot 스터디 시작전 - 개발자 메이커 프로젝트 6" },
+    { "id": "SnPsQG-aLCQ", "title": "SpringBoot 스터디 시작전 - 개발자 메이커 프로젝트 5" },
+    { "id": "Vr0OWzBOM1M", "title": "SpringBoot 스터디 시작전 - 개발자 메이커 프로젝트 4" },
+    { "id": "HeOWo0yw4ks", "title": "SpringBoot 스터디 시작전 - 개발자 메이커 프로젝트 3" }
+  ],
+  "playlists": [
+
+  ]
+}

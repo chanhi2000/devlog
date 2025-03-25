@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "Collab365",
+    "name": "Collab365",
+    "profile": "https://yt3.googleusercontent.com/ChvO4kcYXTmhrriDuQ7P_OprKV4fbyem8KTXYzlqzt2pdNUh1BQjF_4mE5kPpe36JEFVTagn=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/o9mwr3DTUnZhk5AQz8lDlImB8bhKeaWWY_vCBGH3zTKiT3k3CC-Y81yW76Vxfb2JR6EvKRAq=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "w6zjBl4BK88", "title": "Use AI To Add Icons and Other Visuals to a SharePoint list" },
+    { "id": "4tRcTW3Su6k", "title": "How To Export Your Power Automate Flow and Get Advice From AI" },
+    { "id": "KnLnnHoAm9A", "title": "How To Tame your Inbox Using AI (with no third party tools needed)" },
+    { "id": "m3c0jGR5IdA", "title": "How To Create Meetings From Teams Chat Messages" },
+    { "id": "6SxpcZzlw9Y", "title": "How To Create Perfect AI Prompts (That Can Help Transform Your Business)" },
+    { "id": "Z06izUFKrrc", "title": "How To Use Loop For Project Management" },
+    { "id": "dUO7X4G9ZBU", "title": "How to Reformat Data in Power Automate Easily" },
+    { "id": "7zwME41fnAs", "title": "Orchestrate Planner Tasks from Multiple Inboxes" },
+    { "id": "cFd4QkWDKcg", "title": "Save Time Replying To Emails (New Outlook Version)" },
+    { "id": "q6H-BZvmxPc", "title": "How To Fix Power App Formula Errors That Span Multiple Controls & Screens Quickly With One Action" },
+    { "id": "OiEzfjpt69g", "title": "First Look: Time Tracker Solution" },
+    { "id": "BBY3X-tnDB8", "title": "How To Handle Errors and Debug In Power Automate" },
+    { "id": "YEqCD83kBuI", "title": "GAME-CHANGING AI Integration! 🚀 Connect Claude AI to Your Microsoft 365 Email" },
+    { "id": "HgGPS65kfrI", "title": "Get Address Data (and more) into Power Automate Using No Premium Connectors" },
+    { "id": "8AmntjVnbIg", "title": "How To Install The ChatGPT Desktop App And Use Voice Mode" },
+    { "id": "G8W22s4tu0Y", "title": "Speed Up Your Power Automate Flows By Pre-Filtering Data" },
+    { "id": "txykE7WOAUI", "title": "Master Excel Formula Using Copilot or ChatGPT" },
+    { "id": "py9vx4heIV4", "title": "How To Set Up Automated Document Review Reminders" },
+    { "id": "HfZ2F2W7W1s", "title": "How Safe is Power Automate To Use?" },
+    { "id": "DuhtnXkS6xo", "title": "Can AI Be Your Trainee Data Analyst?" },
+    { "id": "bXLXCR16YkI", "title": "How To Set Expiry Dates In Your Word Documents" },
+    { "id": "qy5SBB9w3Eg", "title": "How To Add Multiple Attachments To A Planner Task Direct From An Email" },
+    { "id": "E01K7JwYi8k", "title": "How To Make Planner Tasks From Email With Multiple Attachments" },
+    { "id": "L_Ix1VBKDb4", "title": "UPDATED: Automatically Delete Planner tasks Using Power Automate" },
+    { "id": "Ghk0XQNKSQY", "title": "How to Bring Address Data into your Power App (now Bing Maps is being retired)" },
+    { "id": "TjakKruJkFU", "title": "How To Simplify Connectivity For Your Apps and Flows In The Power Platform" },
+    { "id": "CYOE9yOYdlU", "title": "How To Move Data From WordPress, Store it In SharePoint and Send As Attachments via Email" },
+    { "id": "P975Ni-wbf8", "title": "Power Apps OnStart vs Named Formulas" },
+    { "id": "NIwU4z-FKRo", "title": "How To Generate Planner Tasks From Your Emails Automatically (WITH Attachments!!)" },
+    { "id": "AgrK5T8vfFk", "title": "How To Automatically Create Version History For SharePoint Documents" },
+    { "id": "CpTR-1HP8jY", "title": "How To Set Up Document Approvals In Your Team or Your Business" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "memstechtips",
+    "name": "Memory",
+    "profile": "https://yt3.googleusercontent.com/4IG6tjRzm5e7hML83fMTcMs7mXKHOow-TgLrk-WA4uWisTUS-4lQKOf3-Rl7hudnYR_gB8nYeA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HtZgE6UGxBKkXG8kGSnM4klVncwUCeKA_pkspwUscgZ-Zqu0uQCcdi74bkiwraE0lIFr3af01w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yuHxtQAGBGs", "title": "M$ is Silently Removing the Paid Version of Outlook... (Outlook Classic Missing Fix)" },
+    { "id": "NYVaCr3T1T0", "title": "Vibe Coding is Actually INSANE... (Vibe Coding Tutorial for Beginners)" },
+    { "id": "1o-eO5doJrM", "title": "I Made an App that KEEPS Windows 11 Debloated & Optimized" },
+    { "id": "V8NBsAf-SgU", "title": "5 PowerToys EVERY Windows User Should Know About!" },
+    { "id": "c89RojX624U", "title": "How to do Proper Hardware Diagnostic Tests on PC Hardware (RAM/HDD/SSD/GPU)" },
+    { "id": "0G0FPqHD3Ls", "title": "2 Easy Methods to Install or Reinstall the Microsoft Store on Windows 11 & 10" },
+    { "id": "3uhYrxHh-xw", "title": "Don't Miss Out On THESE Free Custom Mouse Cursors! (Windows/Linux)" },
+    { "id": "o9c64gx7w90", "title": "Introducing UnattendedWinstall v2.0" },
+    { "id": "HwuAyJcRnmo", "title": "Introducing WIMUtil: The Windows Installation Media Utility" },
+    { "id": "LMN17-i10Ng", "title": "I Just Did a Clean Install of Windows 11 on my Main PC Using UnattendedWinstall & WIMUtil!" },
+    { "id": "0fUNJupDzGY", "title": "22 FREE Windows Utilities EVERY User MUST Know About!" },
+    { "id": "4h_YrxgyxSc", "title": "Give Your PC a \"BOOST\" with the Microsoft PC Manager!" },
+    { "id": "nYEDLaGeErQ", "title": "EVERY Windows 11 User Should Know About THIS Free Optimization Utility!" },
+    { "id": "q3aWGBkH9P4", "title": "How to Upgrade to Windows 11 24H2 on Unsupported Hardware without Losing Data!" },
+    { "id": "u2G0xyE_SU0", "title": "This FREE Windows Optimization App is Actually Quite Useful..." },
+    { "id": "HlzohgIZkZc", "title": "THIS Is the BEST FREE File Converter for Windows!" },
+    { "id": "Hd2ZvzwAxio", "title": "EVERY Windows User Should Know About THIS Free Software Manager!" },
+    { "id": "WyLiJl-NQU8", "title": "How to Create YOUR OWN Unattended Windows Installation!" },
+    { "id": "pldFPTnOCGM", "title": "EVERY Windows User Should Know About THIS Free Utility!" },
+    { "id": "pDEZDD_gEbo", "title": "How to Use Unattend.xml Files During Windows Installation (UnattendedWinstall Tutorial)" },
+    { "id": "si5XFHMsaY4", "title": "STOP Using the Default CONTEXT MENU in WINDOWS! Try THIS Instead..." },
+    { "id": "GsQxQb_A_kY", "title": "STOP Worrying About FORCED BitLocker Encryption on Windows 11" },
+    { "id": "JUTdRZNqODY", "title": "DON'T Install WINDOWS Without Watching This FIRST!" },
+    { "id": "MBX3xZhkdYI", "title": "How to Reinstall Windows Without Losing Data! (Tutorial)" },
+    { "id": "hrDyftQKHlk", "title": "How to Use Legacy Taskbars on Windows 11! (RetroBar)" },
+    { "id": "4AGZQJTyCOs", "title": "How to Use Ventoy Plugson with Unattend.xml Files to Install Windows! (UnattendedWinstall Tutorial)" },
+    { "id": "XyrfCWWWTb8", "title": "EVERY Windows 11 User Should Know About THIS Free Customization Utility!" },
+    { "id": "ewaToNFSnj4", "title": "How to Make Windows 11 A LOT More User-Friendly! (StartAllBack)" },
+    { "id": "WS2wmnkEG_Y", "title": "How to get a Transparent Taskbar & Translucent Start Menu in Windows 11!" },
+    { "id": "KAgSZ1ljKKQ", "title": "How to Test Your RAM for Errors! (memtest86 Tutorial)" },
+    { "id": "cbVhSLoktRQ", "title": "How to Test Your Hard Drive or Solid State Drive for Errors!" },
+    { "id": "SSrbZqp4omc", "title": "How to Test Your Graphics Card for Errors! (GPU Stress Test)" },
+    { "id": "MyDuU4z-5zI", "title": "How to Test System Stability! (AIDA64)" },
+    { "id": "uPGdKYOvqdg", "title": "The EASIEST Method to Uninstall Microsoft Edge! (Outside of the EU)" },
+    { "id": "agw2i6QddvE", "title": "How to Download and Install VMware Workstation Pro for FREE!" },
+    { "id": "3_f9qfvUuXQ", "title": "LITERALLY EVERYONE Needs This FREE Browser Extension!" }
+  ],
+  "playlists": [
+
+  ]
+}

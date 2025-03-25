@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/K0_q3Z6zbDODlhZ2wab2PnH-szBepybsASSPUV7boJ6O0iuzZeAKDh0e9uPziXiOyiYrVLLphA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EN6HTJEAKEM", "title": "Identity Challenges for AI Applications" },
+    { "id": "A-AsurcUKbM", "title": "RAG and Access Control: Where Do You Start?" },
+    { "id": "xbX0Kxi9wik", "title": "Secure Identity Integrations: Submit your SCIM App to the Okta Integration Network (OIN)" },
+    { "id": "39TEsgxXhAw", "title": "7 Common Cyber Attacks and How to Prevent Them (Auth Answered)" },
+    { "id": "aU9DWD1RLiM", "title": "Set up your multi-tenant app with Vercel & Auth0" },
+    { "id": "M8vDY-vPDiA", "title": "Answering common questions about Auth0" },
+    { "id": "KAEIvtqDqpI", "title": "New Auth0 Integration for Vercel: Available Now" },
+    { "id": "KPd5o1kpsEU", "title": "Passkeys 101: Implementing passkeys with Auth0" },
+    { "id": "UnY-yYlZqRM", "title": "Okta Powershell Module: An SDK for any language?" },
+    { "id": "sPqWe6MwxTw", "title": "DevDay(24)" },
+    { "id": "AizpTydM_O4", "title": "Auth0 Plans Just Got an Upgrade" },
     { "id": "NAz2Oi2-N7Y", "title": "Understanding the nuances of passkeys  [The Confused Developer]" },
     { "id": "adZ5zJ5nZ1A", "title": "Founder of an AI startup on improving how enterprise orgs work, AI deployment, and identity mgmt" },
     { "id": "BXP6K6oZDRw", "title": "5 reasons to STOP using passwords and start using passkeys [Passkeys 101]" },

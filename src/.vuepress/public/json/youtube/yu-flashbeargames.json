@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "flashbeargames",
+    "name": "후뢰시곰 [Flashbear Games]",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_la9Mnp8ERoqMnTfZnuipZoCxrHk7CWwZ7dggUn4C1zFDE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/A8wtZtNBTmSLbZs_sN8u091BydnzKGFbe75kXMxybPOAc8MtU0brVVCmPuMGOivB7gOOKVckYhQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UABxkFNxc7w", "title": "챗 GPT를 이용해서 게임 만들어 보기 [Creating a game using Chat GPT]" },
+    { "id": "1B9KmhYRAWI", "title": "1인 개발한 게임 결과 확인과 플레이 엔딩 보기 [View Indie Game Dev Result & Play]" },
+    { "id": "k2sjqMbw1Xs", "title": "유니티 모바일 조이스틱 만들어 보기 [Creating a mobile Joystick with Unity]" },
+    { "id": "joEFwCpN5es", "title": "유니티로 무한 스크롤 구현해 보기 [Unity Infinite Scrolling]" },
+    { "id": "iy2ElXEnXaI", "title": "1인 게임 개발 중 독학으로 만들어 본 음악들 [Self-taught music composition during the Game Dev]" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "channel": {
+    "id": "CelestiaNetwork",
+    "name": "Celestia",
+    "profile": "https://yt3.googleusercontent.com/jXScYnDtv_IXGlvHl0cWvHOnr9M--4yCSxPfbW-QJJmXU3OnFWHBFBvO0LyrgpSP8cywJpNL=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ax8lBYj8yzp6bw1x7nCcWrdLE4dmV_jw-9ztGjzKIYTHiNwey_Ye9JVwugWR8nQ7xQf1DLk2fw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "02D-BuoCOxc", "title": "Celestia Core Devs Call 26" },
+    { "id": "02D-BuoCOxc", "title": "Celestia Core Devs Call 26" },
+    { "id": "PDFTdu-SXxs", "title": "Celestia Core Devs Call 27" },
+    { "id": "3bYnlqMphXQ", "title": "Build: Moving Mammoths game on Movement" },
+    { "id": "vDdlmxxhld8", "title": "Build: gMammoth Instant Messaging App" },
+    { "id": "dhIswW8ldhk", "title": "9 tips to succeed in Mammothon" },
+    { "id": "Niu_87qWio8", "title": "Getting the most out of Celestia Data (Buildstream #7)" },
+    { "id": "UVEgVq5zL7c", "title": "Celestia Core Devs Call 24" },
+    { "id": "LJXlhsW_XjI", "title": "Celestia Core Devs Call 23" },
+    { "id": "7AcrENb3_EQ", "title": "Celestia Core Devs Call 25" },
+    { "id": "Ywos3C_W5jY", "title": "Celestia Core Devs Call 22" },
+    { "id": "LJXlhsW_XjI", "title": "Celestia Core Devs Call 23" },
+    { "id": "Niu_87qWio8", "title": "Getting the most out of Celestia Data (Buildstream #7)" },
+    { "id": "B-z01YJeDfw", "title": "Celestia Core Devs Call 21" },
+    { "id": "gXS57DMV3cg", "title": "Derive with Celestia underneath" },
+    { "id": "CxWH7Jezxz4", "title": "ZODA" },
+    { "id": "9Y5rc8OC6yE", "title": "Data Availability Sampling (DAS) Explained in 5 Mins" },
+    { "id": "Mni9LrSzKA0", "title": "Astria with Celestia underneath" },
+    { "id": "JvZSdIkxVvc", "title": "Build a re-prediction market with Rollkit (Buildstream #4)" },
+    { "id": "txmttm6t4YI", "title": "Celestia Core Devs Call 19" },
+    { "id": "vSYjnwSfE-U", "title": "Celestia Core Devs Call 20" },
+    { "id": "KGoLoQNywgU", "title": "Mini Jukebox Rollup (Buildstream #5)" },
+    { "id": "G2l5kzCLn4Q", "title": "Tictactoe Rollup with Shard-SDK (Buildstream #6)" },
+    { "id": "J2Cep6gBN-o", "title": "Celestia Core Devs Call 17" },
+    { "id": "CBs7wFJ6iT8", "title": "Initia with Celestia underneath" },
+    { "id": "dpEIePGEmTU", "title": "Exploring Celestia" },
+    { "id": "1aaPYxRVAtk", "title": "Celestia Core Devs Call 18" },
+    { "id": "dpEIePGEmTU", "title": "Exploring Celestia with Celenium (Buildstream #2)" },
+    { "id": "B3JYlQooUuI", "title": "Next.js apps with Celestia underneath (Buildstream #3)" },
+    { "id": "txmttm6t4YI", "title": "Celestia Core Devs Call 19" },
+    { "id": "B3JYlQooUuI", "title": "Next.js apps with Celestia underneath (Buildstream #3)" },
+    { "id": "JvZSdIkxVvc", "title": "Build a re-prediction market with Rollkit (Buildstream #4)" },
+    { "id": "2yik7ygl6CM", "title": "Chain Abstraction: Chewing Glass to a better blockchain ecosystem - Zaki Manian" },
+    { "id": "Bc-L8EdIudQ", "title": "Eclipse with Celestia underneath" },
+    { "id": "lOLw4uLX644", "title": "OP Stack with Celestia underneath tutorial" },
+    { "id": "K5I5HCmKD7A", "title": "Modular Summit talks summarized" },
+    { "id": "V4rpOSMBjTA", "title": "DeFund with Celestia underneath" },
+    { "id": "zuJ6xoRvz-U", "title": "Celestia Core Devs Call 16" },
+    { "id": "J2Cep6gBN-o", "title": "Celestia Core Devs Call 17" },
+    { "id": "6p9-M87lBxM", "title": "Based rollup from scratch in Rust" }
+  ],
+  "playlists": [
+
+  ]
+}

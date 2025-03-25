@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/hlZMSOnEhNOLla3giE_mO13lg7yiGhT157RP9IB-Gg3OEJaBysk8LtVONVcEmKjeCX8TzHW8Vw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "KQVy0CaB7ds", "title": "Parse, Don't Validate" },
+    { "id": "EILI9EOWaJo", "title": "Validate, Parse, Guard" },
+    { "id": "J4hMAETgK_8", "title": "Automatically Convert to Central Package Management" },
+    { "id": "GOMz0DroWSE", "title": "SOLVED! NetSDK1004 project.assets.json not found" },
+    { "id": "7fHvJT8UyL8", "title": "Update EVERY PACKAGE with dotnet outdated" },
+    { "id": "TpHcEsPIOhw", "title": "Pretty Up Your Windows Terminal" },
+    { "id": "8NxckBwkFBk", "title": "POCO or DTO?" },
+    { "id": "yRLaoq_q1a8", "title": "You Should Blog" },
+    { "id": "Qmvbh_VFMRs", "title": "C# Primary Constructor Tips" },
+    { "id": "Cg4w-MgjkLA", "title": "Interfaces: WHAT - Implementations: HOW" },
     { "id": "jxfAoUHH400", "title": "STOP Debugging and Start Running in Visual Studio" }
   ],
   "playlists": [

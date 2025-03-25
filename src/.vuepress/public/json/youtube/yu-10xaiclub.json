@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/0NimYB4xBqMRk7Q8N5v8CTr5DZWe1U4JFAlill4iF91VeL3uIcSslTDmV8BvOIF4qaTf-W1h8A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3YtEJF4VIkE", "title": "새해는 AI Agent가 점령할 것이다 | ElevenLabs Part 1" },
+    { "id": "HujQhD8J2LQ", "title": "Agents에 대한 모든 기초 설명" },
+    { "id": "ZYXNwJVQXEA", "title": "GPT Workshop 온라인 강의 드디어 출시!!" },
+    { "id": "2iSDGQO6A_w", "title": "공공데이터 포털 GPTs랑 연동하기 | Part 1" },
+    { "id": "8-KzVs4a-s8", "title": "[Fastcampus GALA] 공공데이터 포털 GPTs 연동하기 Part 2" },
+    { "id": "d_WwKww5kjc", "title": "AI Vision RC 카 만들기 | Part 1" },
+    { "id": "9AS0ovRDDOY", "title": "Dennis Hong 교수님의 RoMeLA 랩 로봇들 살펴보기" },
+    { "id": "HD6yhTCWzgQ", "title": "뉴스 주식 분석 GPTs 만들기" },
+    { "id": "EGHS_jvyhUc", "title": "데이터 추출 자동화 | Upstage Part 5" },
+    { "id": "GzUu1Sjr-SE", "title": "네이버 지도 GPTs 연동하기 | Part 1" },
+    { "id": "lQXspbcdAVQ", "title": "네이버 지도 GPTs 연동하기 | Part 2" },
     { "id": "IB__JQzhMSM", "title": "슬랙 ChatGPT 봇 만들기 | 요약, 질문&답변, 문장 생성, 번역, 검색 등" },
     { "id": "FouUOftcn70", "title": "Upstage Solar LLM 활용법 | Part 1" },
     { "id": "SDWaHCtBuTg", "title": "RAG Chatbot using Upstage | Part 2" },

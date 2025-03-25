@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "easyselfhost",
+    "name": "Easy Self Host",
+    "profile": "https://yt3.googleusercontent.com/tUfhwt_F7hvXxjXwd7RUbnh3xr0Dze61Q7gXds48qLieuNqu3lbE6kimfjHwT5DF_z9Qjc1HrQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "PBd6oWUzbi8", "title": "Build Your Self-Hosted Toolbox with 7 Simple but Powerful Tools" },
+    { "id": "b2g4Nx2S7sM", "title": "Hoarder: Self-Hosted AI-Powered Bookmark App" },
+    { "id": "UCsYWXEuvms", "title": "Dockge: Browser-Based Docker Compose Manager for Self-Hosting" },
+    { "id": "ycmn4D_fWrs", "title": "Headscale: The Self-Hosted Alternative to Tailscale" },
+    { "id": "d8FyQKAVJtQ", "title": "Easily Access Your Self-Hosted Apps Remotely Using Tailscale" },
+    { "id": "KPp3bJK81n4", "title": "5 Self-Hosted Notion Alternatives: Run Your Own Knowledge Management and Collaboration Platform" },
+    { "id": "ywQVe9ikcVI", "title": "Authentik: Single Sign-On for Your Self-Hosted Apps (Forward Auth and OAuth2)" }
+  ],
+  "playlists": [
+
+  ]
+}

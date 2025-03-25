@@ -28,5 +28,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-LeiosLabs" /><!-- Leios Labs -->
+<MyYouTubeItems jsonName="yu-Numeryst" /><!-- Numeryst -->
 
 <TagLinks />

@@ -1,0 +1,35 @@
+{
+  "channel": {
+    "id": "ReactConfOfficial",
+    "name": "React Conf",
+    "profile": "https://yt3.googleusercontent.com/uWYRwTF365L_lSs_3372-KSTENlGKJ6_T2enkHjewwy_mL7-AVDgFxm_8kRLdD5mHI6ga2Y1wzQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "sjyY4MTECUU", "title": "RedwoodJS, now with React Server Components! | Amy Dutton" },
+    { "id": "sl-QUd3YiqA", "title": "Cross Platform React | Olga Zinoveva & Naman Goel" },
+    { "id": "uA_PVyZP7AI", "title": "React Compiler Deep Dive | Mofei Zhang & Sathya Gunasekaran" },
+    { "id": "vH5_cYyX-DQ", "title": "Solve 100% of your errors | Ryan Albrecht" },
+    { "id": "ZcwA0xt8FlQ", "title": "Vanilla React | Ryan Florence" },
+    { "id": "cxbVN1F-aag", "title": "Let’s break React’s rules | Charlotte Isambert" },
+    { "id": "djhEgxQf3Kw", "title": "Introducing Universal React Server Components in Expo Router | Evan Bacon" },
+    { "id": "lvhPq5chokM", "title": "Forget About Memo | Lauren Tan" },
+    { "id": "lyEKhv8-3n0", "title": "React Conf Keynote (Day 1)" },
+    { "id": "n_0cz-JwlsU", "title": "Pigment CSS, CSS in the server component age | Olivier Tassinari" },
+    { "id": "ozI4V_29fj4", "title": "React for Two Computers | Dan Abramov" },
+    { "id": "pOo7x8OiAec", "title": "And Now You Understand React Server Components | Kent C. Dodds" },
+    { "id": "rs9X5MjvC4s", "title": "React Rhythm & Blues | Lee Robinson" },
+    { "id": "6sMANTHWtLM", "title": "Real-time server components | Sunil Pai" },
+    { "id": "AJOGzVygGcY", "title": "What's new in React 19 | Lydia Hallie" },
+    { "id": "BaHAqicAJMQ", "title": "Spatial computing with React | Michał Pierzchała" },
+    { "id": "FzjE9fYa1aE", "title": "Q&A with the React Native team" },
+    { "id": "IBBN-s77YSI", "title": "React 19 Deep Dive: Coordinating HTML | Josh Story" },
+    { "id": "R0B2HsSM78s", "title": "React Unpacked: A Roadmap to React 19 | Sam Selikoff" },
+    { "id": "UHjt2A6CS6A", "title": "Demystifying accessibility in React apps | Kateryna Porshnieva" },
+    { "id": "X2eJtxoLlb4", "title": "Extending React Native Beyond Mobile & Desktop Apps | Chris Traganos & Anisha Malde" },
+    { "id": "X9cw4VczYVg", "title": "Enhancing Forms with React Server Components | Aurora Walberg Scharff" }
+  ],
+  "playlists": [
+
+  ]
+}
