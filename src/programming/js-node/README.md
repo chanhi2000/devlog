@@ -9,6 +9,15 @@ tag:
   - js
   - node
   - nodejs
+  - node-js
+head:
+  - - meta:
+    - property: og:title
+      content: Node.js
+    - property: og:description
+      content: Node.js
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-node/
 ---
 
 # {{ $frontmatter.description }} 관련

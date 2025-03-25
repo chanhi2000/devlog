@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "eigenchris",
+    "name": "eigenchris",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k5B_0NfkBrp0EpH4aZYfS7LZ8QWUqpcudMNNms8iIZ7w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/VJgTCmXhhfgl-sCfr_ODBn3Ayf33QhyEQBN8-M8QLn0q16GyVOWYKlYRZ4T8ygfui3T9LA7SXg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uE6q-dxjrlA", "title": "Spinors for Beginners 21: Quantum Field Theory from the ground up" },
+    { "id": "JaMsCNpELZo", "title": "Spinors for Beginners 22: Dirac Equation and Gamma Matrices Deep Dive (+ chirality)" }
+  ],
+  "playlists": [
+
+  ]
+}

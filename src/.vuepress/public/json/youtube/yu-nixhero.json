@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/gedsEylVSBwh4CDa5gO5YBUxff8nGzCRXyOUc26SVH_s0_4he9dFKFV9vhvVJpw5nfCSLtWwig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RoMArT8UCKM", "title": "Nix Flake Introduction for Beginners" },
+    { "id": "zRJDWm1Axq4", "title": "Filebrowser: Open Source Web File Manager (feat. NixOS)" },
+    { "id": "5T52jNXzqIU", "title": "Getting Started with Local LLM on NixOS (CUDA, Ollama, Open WebUI)" },
+    { "id": "cZDiqGWPHKI", "title": "Getting Started with Nix Home Manager" },
+    { "id": "BMn_GWg2Ai0", "title": "Can we use Nix without NixOS?" },
+    { "id": "hLxyENmWZSQ", "title": "How I manage my dotfiles" },
+    { "id": "6xrTwlSmJqg", "title": "Custom NixOS ISO #2 Installing Nix CLI" },
     { "id": "sfYiF8Yanss", "title": "Making Minimalist Git HTTP Server" },
     { "id": "E3x_NtR2ZLw", "title": "Unix Job Control in 100 seconds" },
     { "id": "xCX14u9XzE8", "title": "The SSH flag you never used" },

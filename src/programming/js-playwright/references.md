@@ -4,11 +4,24 @@ title: References
 description: Playwright > References
 icon: fas fa-book-atlas
 category:
+  - Node.js
   - Playwright
+  - Test
   - References
 tag: 
-  - Playwright
+  - node
+  - nodejs
+  - node-js
+  - playwright
   - test
+head:
+  - - meta:
+    - property: og:title
+      content: Playwright > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-playwright/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

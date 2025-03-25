@@ -699,6 +699,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Playwright',
+      collapsible: true,
+      icon: 'iconfont icon-playwright',
+      children: [
+        '/devops/playwright/README.md',
+        '/devops/playwright/references.md',
+        '/devops/playwright/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/playwright/articles/README.md',
+            asb.woowahan("playwright")
+          ]
+        },
+      ],
+    }, {
       text: 'Puppeteer',
       collapsible: true,
       icon: 'iconfont icon-puppeteer',
@@ -2386,6 +2404,7 @@ export const sidebarEn = sidebar({
         '/devops/win/tips.md',
         '/devops/win/wsl.md',
         '/devops/win/sandbox.md',
+        '/devops/win/referencs.md',
         '/devops/win/youtube.md',
         {
           text: 'Article(s)',
@@ -2965,24 +2984,6 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/karate/articles/README.md',
-          ]
-        },
-      ],
-    }, {
-      text: 'Playwright',
-      collapsible: true,
-      icon: 'iconfont icon-playwright',
-      children: [
-        '/devops/playwright/README.md',
-        '/devops/playwright/references.md',
-        '/devops/playwright/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/devops/playwright/articles/README.md',
-            asb.woowahan("playwright")
           ]
         },
       ],

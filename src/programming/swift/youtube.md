@@ -169,4 +169,7 @@ tag:
 <MyYouTubeItems jsonName="yu-SoftwareToolTime" /><!-- Software Tool Time -->
 <MyYouTubeItems jsonName="yu-코딩도우미" /><!-- 코딩도우미 -->
 <MyYouTubeItems jsonName="yu-Skiptools" /><!-- Skip -->
+<MyYouTubeItems jsonName="yu-thornwebdesign" /><!-- Davids Videos -->
+<MyYouTubeItems jsonName="yu-CodeWithWilliamJiamin" /><!-- CodeWithWilliamJiamin -->
+
 <TagLinks/>

@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/-6N5B2iQmpRDyXaWz3b16DMTQ9kQ8aVJ6zlXYGcYfH92ZRK_gc17gbGWB1s36y-q9FdFKCwq=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AD-3nVI3-_U", "title": "How to Deploy a Static Website to GitHub Pages - Free Hosting Tutorial" },
+    { "id": "ECt0TAl41Zk", "title": "Python Tutorial: Generate a Web Portfolio and Resume from One JSON File" },
+    { "id": "4TFQD0ok5Ao", "title": "I Let Python Pick My March Madness Bracket - Bracket Simulation Tutorial" },
+    { "id": "epDKamC-V-8", "title": "Python Tkinter Tutorial (Part 1): Getting Started, Elements, Layouts, and Events" },
+    { "id": "X5yyKZpZ4vU", "title": "Python Tkinter Tutorial (Part 2): Using Classes for Functionality and Organization" },
+    { "id": "yxa-DJuuTBI", "title": "Python Tutorial: Pathlib - The Modern Way to Handle File Paths" },
     { "id": "PYuTzLswn_Y", "title": "Python Tutorial: Securely Manage Passwords and API Keys with DotEnv" },
     { "id": "LQ1tm5lkaLI", "title": "Python Quick Tip: Secure Passwords and Sensitive Info with DotEnv #Shorts #Python #Programming" },
     { "id": "jNoTEiI2cVU", "title": "Automating My Bill Payments with Python and Selenium" },

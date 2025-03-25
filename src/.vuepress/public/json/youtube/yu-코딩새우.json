@@ -1,11 +1,15 @@
 {
   "channel": {
-    "id": "codingshrimp",
+    "id": "코딩새우",
     "name": "코딩새우",
     "profile": "https://yt3.googleusercontent.com/bqSTHJWQ2VfY18uJ_s0Jtj7iAmYeMxm9Llv6DN_hbVBZ1FPkvLHZFbnRFM7IT7KwNDgHR7-C6Q=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/N2AcYZnuD4tvO_5LCtZoCcOJ1V3m1nXLbILTqNn6hYOeqTEjmXPJvfhROduzt3LusH9e5VeEpg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PMOr3tCqDMc", "title": "최대한 챙기면서 퇴사하는 법  이렇게 하면 90%는 성공" },
+    { "id": "cOtamozK9A8", "title": "개발자 취업, 이직시 경력기술서, 이 3가지를 몰라서 서류에서 탈락합니다." },
+    { "id": "UM5gwDJZ4ME", "title": "생산성을 높여주는 인텔리제이 단축키" },
+    { "id": "c5tiOmvno7c", "title": "개발자 사이드 프로젝트, 시간버리고 감정상하는 악몽같은 팀플 시나리오" },
     { "id": "Og7gKqy2s_U", "title": "객관적으로 빌런개발자인지 알아보는 방법" },
     { "id": "SlxDOveF5BQ", "title": "개발 2배 쉽게 성장하는 법" },
     { "id": "3KUFerexCOw", "title": "개발자 성장 슬럼프 제압한 놀라운 방법" },

@@ -4,12 +4,18 @@ title: Article(s)
 description: Playwright > Article(s)
 icon: fas fa-square-share-nodes
 category:
+  - Node.js
   - Playwright
+  - Test
   - Article(s)
 tag:
   - blog
-  - playwright
   - techblog.woowahan.com
+  - node
+  - nodejs
+  - node-js
+  - playwright
+  - test
 head:
   - - meta:
     - property: og:title

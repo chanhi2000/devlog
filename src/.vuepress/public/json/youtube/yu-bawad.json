@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/0NtgPTTqEsh9HDZAyHqn-1oYjw5AV9YGEH11MA1--lq9ksTwPJPpS2JH5PFwdU9LBxQ3AU_aEg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ruHZ8X-R1Fg", "title": "How I Made a Game in React Native" },
+    { "id": "CcrgG5MjGOk", "title": "How to Roll Your Own Auth" },
     { "id": "qGtjwvuK-xs", "title": "My App Has Been Nominated For App of the Year" },
     { "id": "dCCaYEG5KeA", "title": "Technologies I'm Learning in 2023" }, 
     { "id": "f687hBjwFcM", "title": "React Hooks Tutorial" }, 

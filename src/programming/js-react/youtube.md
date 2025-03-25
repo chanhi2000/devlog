@@ -119,5 +119,7 @@ head:
 <MyYouTubeItems jsonName="yu-myunggyunkim" /><!-- 김명균 -->
 <MyYouTubeItems jsonName="yu-Glo_Academy" /><!-- Glo Academy -->
 <MyYouTubeItems jsonName="yu-rasmic" /><!-- Ras Mic -->
+<MyYouTubeItems jsonName="yu-ReactConfOfficial" /><!-- React Conf -->
+<MyYouTubeItems jsonName="yu-DanRNLab" /><!-- Dan's React Native Lab -->
 
 <TagLinks />

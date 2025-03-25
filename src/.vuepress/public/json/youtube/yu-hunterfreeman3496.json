@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "qjZC14g_7lQ", "title": "How I made an Integrated Terminal" },
+    { "id": "AZ1TMOj9tvw", "title": "Command Line Parser | 6" },
+    { "id": "rWE9vMHrsdY", "title": "Command Line Parser | 5" },
+    { "id": "Je_ZynPRZq4", "title": "Command Line Parser | 4" },
+    { "id": "XGEgzoP_diU", "title": "Command Line Parser | 3" },
+    { "id": "iwLIfgfdG1s", "title": "Command Line Parser | 2" },
+    { "id": "MV-5LXpIXSw", "title": "Command Line Parser | 1" },
+    { "id": "3xqcDGrS2mY", "title": "Blazor Optimizations for an IDE" },
+    { "id": "ff730h3B3rM", "title": "Text Editor NuGet Package" },
     { "id": "6_w-x7r0Dxw", "title": "I Pre-Released an IDE" },
     { "id": "v-Wx8H3yOyA", "title": "I'm soon releasing an IDE" },
     { "id": "HnCDTxqXQno", "title": "I'm making an IDE that runs on Linux (no sound)" },

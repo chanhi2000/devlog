@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Sandbox
 description: Windows > Sandbox
-icon: fas fa-book-atlas
+icon: iconfont icon-windows-sandbox
 category:
   - Microsoft
   - Windows
@@ -11,6 +11,8 @@ tag:
   - windows
   - win10
   - win11
+  - sandbox
+  - windows-sandbox
 head:
   - - meta:
     - property: og:title

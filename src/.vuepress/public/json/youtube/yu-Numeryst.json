@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "Numeryst",
+    "name": "Numeryst",
+    "profile": "https://yt3.googleusercontent.com/iT1mKy5j9GHGakbgdhSjxCw4--aM6nNHPX4MJUagNhUQGkcNZJRC3SWiz9WHkDNMj-LRkTBMKg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/rkxC4rSZ8zyskmI4ZLWa7v0x1PjSNAxcnoFe9kmW9zh9usPk5tNzFTkJGw7v0jjq1VsNom1Zceg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_x-MI_vCjKg", "title": "NumPyro for Bayesian Regression (2025) | Practical Coding Walkthrough" },
+    { "id": "XnzZDa_ir1w", "title": "Google Colab Just Added Julia Support | Here's How to Use It" },
+    { "id": "FYNsLvYYSoA", "title": "Graph Neural Networks (JAX)" },
+    { "id": "6JuT60HnBMs", "title": "Julia Symbolics is better than Python Sympy" },
+    { "id": "LrXLFMkUvPI", "title": "DeepSeek: Ollama Julia Anything LLM | Local LLM Setup & Julia Coding Examples" },
+    { "id": "mldLyDKN_FU", "title": "I Used Bayesian Inference to Predict Coin Tosses in Julia" },
+    { "id": "sct27JMTDKw", "title": "Mittag-Leffler Functions: The Hidden Math You Need to Know" },
+    { "id": "g0itYMLwaGA", "title": "How to Plot Bar Chart in Julia?" },
+    { "id": "l0CLGD_lVqk", "title": "Julia Parallel Computing Tutorial" },
+    { "id": "LT0rmqzeYdE", "title": "Get Started with PostgreSQL" },
+    { "id": "Uel-WaFqy94", "title": "How to Plot Heatmap in Julia" },
+    { "id": "YRm2skzQPyg", "title": "ggplot of Julia Language" },
+    { "id": "EJGOE10iHiA", "title": "Automatic Differentiation in Julia: Enzyme.jl Tutorial for Beginners" },
+    { "id": "8KvN9KD-MLE", "title": "PostgreSQL pgAdmin" },
+    { "id": "_4vGYAtva0g", "title": "Tour the pgAdmin Interface" },
+    { "id": "XyVOxkMg-uo", "title": "MASTERING PostgreSQL pgAdmin Toolset LIKE A PRO" },
+    { "id": "y2FsVaNzJ5U", "title": "PostgreSQL pgAdmin Dialog Workflow" },
+    { "id": "gfa38IJk6cI", "title": "Parametric Type in Julia Programming Language" },
+    { "id": "5CPhf-GqWb0", "title": "Installing Fortran on Windows" },
+    { "id": "NItyc7wBPO8", "title": "The Julia Programming Language: Mastering Structs for Beginners" },
+    { "id": "3Pe_fLDV2vk", "title": "How to Install Fortran on Ubuntu" },
+    { "id": "oxwelY66fJk", "title": "Efficient Graph Processing with Julia" },
+    { "id": "82HGKqBWw6w", "title": "Your Last Numerical Integration Video!" },
+    { "id": "6RFGu3XaAe4", "title": "Sympy of the Julia Programming Language?" },
+    { "id": "MZMCFSjg8JA", "title": "Mesh in Julia" },
+    { "id": "547UggxG_M8", "title": "One-Click Setup for Mojo Programming Language in Github Codespaces" },
+    { "id": "XK7b3Ltk_Ng", "title": "Return Types Annotation | Python Tutorial" },
+    { "id": "EKDLMoas-NY", "title": "Animation for Visualizing Plot" },
+    { "id": "IV-gD8VGVr4", "title": "Graham Scan Convex Hull Algorithm Explained with Code" },
+    { "id": "0eADSpAI_VM", "title": "Neural Radiance Fields in 2 Minutes" },
+    { "id": "xgzOdvcJDF4", "title": "Multiple Dispatch in Julia Programming Language" },
+    { "id": "OrD32WICZFA", "title": "Animating Plot in Julia" },
+    { "id": "hjDojPfaP9s", "title": "Beautiful Progress Bar in Julia" },
+    { "id": "pGuzjgKKCp4", "title": "PostgreSQL Installation" },
+    { "id": "Db9bMqSNmQM", "title": "Connect to the Server with pSQL" }
+  ],
+  "playlists": [
+
+  ]
+}

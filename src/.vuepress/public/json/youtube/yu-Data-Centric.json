@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/Kza1K7GSLwkOGuNcnyTUP2pHP_fjUqKky98oeHt2BZ0-FGjBAunAlNIUMphb0Du3N8gmvmWTdQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i1rvSiSpzSo", "title": "Run Any Local LLM Faster Than Ollama—Here's How" },
+    { "id": "4akq4SKZxyk", "title": "Building AI Agents is HARD—Here's How to Make it Easier" },
+    { "id": "RW2PeUQKzrE", "title": "Dynamic AI Agents with LangGraph, Prompt Engineering Enhancements + RAG" },
+    { "id": "jgpoqBZrZps", "title": "AI Agent | Perplexity Alternative Built with LangGraph & Advanced Prompt Engineering (Demo)" },
+    { "id": "VM35FvqDx8I", "title": "How this AI Agent Uses LangGraph & Prompt Engineering to Challenge Perplexity (Deep Dive)" },
+    { "id": "R5_dCmieOiM", "title": "Neo4j Knowledge Graphs for \"Smarter\" AI-Agent Search" },
+    { "id": "UlKxDHqON5s", "title": "AI Agent for Deep Web Search with o1 Preview (Open-Source)" },
     { "id": "5g2CH7i8kTg", "title": "Mistral AI vs Open AI: Who REALLY Has The Best AI?" },
     { "id": "7YeSslwXMIM", "title": "Agency Swarm: Why It’s Better Than CrewAI & AutoGen" },
     { "id": "chLULtXDnQ4", "title": "Build Open Source \"Perplexity\" agent with Llama3 70b & Runpod - Works with Any Hugging Face LLM!" },

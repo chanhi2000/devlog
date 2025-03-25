@@ -1,0 +1,19 @@
+
+{
+  "channel": {
+    "id": "statquest",
+    "name": "StatQuest with Josh Starmer",
+    "profile": "https://yt3.googleusercontent.com/Lzc9YzCKTkcA1My5A5pbsqaEtOoGc0ncWpCJiOQs2-0win3Tjf5XxmDFEYUiVM9jOTuhMjGs=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/EfKBEBfOPHn91leF2LvUsu6gj11JAgPvW1q3oIPD3WZ8AfWXxodh7IjQ28g8BY0WCYnbOpLpKQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GDN649X_acE", "title": "Encoder-Only Transformers (like BERT), Clearly Explained!!!" },
+    { "id": "qJrmQe8TOTw", "title": "Luis Serrano + Josh  Starmer Q&A Livestream!!!" },
+    { "id": "wIGOnM6Cf_E", "title": "Human Stories in AI: Abbas Merchant@Matics Analytics" },
+    { "id": "0QOm7Sn5uwQ", "title": "A few more lessons from my Pop!" },
+    { "id": "DkmfIQRDyXc", "title": "Human Stories in AI: Nana Janashia@TechWorld With Nana" }
+  ],
+  "playlists": [
+
+  ]
+}

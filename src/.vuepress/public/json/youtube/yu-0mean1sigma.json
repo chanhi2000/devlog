@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "0mean1sigma",
+    "name": "0Mean1Sigma",
+    "profile": "https://yt3.googleusercontent.com/FwDBKny6SpJXXwFxEuZ-2JT1zUxj1Ayl1fsGHWlWU4UhORQpj7z3YTzLaS5YB7KWALI6551yJys=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KjvSEU1RBH5v7X_-zdiVXWwQkTjrED_ykoty0Km_jm4E0BHMMQ8vXezwl4aj_4W0FVf4wcNjXg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "5gO2PwGS2kk", "title": "Mini Project: Image Filters using GPU | Parallel Convolution | CUDA C/C++" },
+    { "id": "Yt1A-vaWTck", "title": "NVIDIA Tensor Cores Programming" },
+    { "id": "GetaI7KhbzM", "title": "Mini Project: How to program a GPU? | CUDA C/C++" },
+    { "id": "oQT7IC0x254", "title": "2678x Faster with CUDA C: Simple Matrix Multiplication on a GPU | Episode 1: Introduction to GPGPU" },
+    { "id": "4IL8n8yYNjw", "title": "Wave Simulation from scratch using finite difference method" },
+    { "id": "96KqiPQlP4s", "title": "Transformer Neural Network: Visually Explained" },
+    { "id": "RbENpxoFA4A", "title": "Automatic Differentiation Engine from scratch" },
+    { "id": "lByBRxrbMl4", "title": "Understanding Heat Equation | From Derivation to Solution" },
+    { "id": "WjVKhXWOBfc", "title": "The Problem with Gradient Descent #SoME3" },
+    { "id": "xg4bIeJTVF0", "title": "Visualizing Neural Network Training and Predictions: A Universal Function Approximator" },
+    { "id": "4wgXBr7fnQg", "title": "Automatic Differentiation: Differentiate (almost) any function" },
+    { "id": "aQICO-zCu8U", "title": "Gradient Descent Algorithm: How Machines Learn" },
+    { "id": "dZIk8a1Dquc", "title": "Basic Automatic Differentiation Theory" },
+    { "id": "1Goq8Yc3dfo", "title": "Understanding NVIDIA GPU Hardware as a CUDA C Programmer | Episode 2: GPU Compute Architecture" },
+    { "id": "QmKNE3viwIE", "title": "4.5x Faster with just Two Variable Changes || Episode 3: Memory Coalescing in CUDA C" },
+    { "id": "Q3GgbfGTnVc", "title": "Most Important Technique in Parallel GPU Computing | Episode 4: Tiled Matrix Multiplication" }
+  ],
+  "playlists": [
+
+  ]
+}

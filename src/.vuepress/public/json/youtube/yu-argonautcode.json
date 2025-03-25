@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "argonautcode",
+    "name": "argonaut",
+    "profile": "https://yt3.googleusercontent.com/JnmTBRzgx9h-1RIScupK6rZqqsXMlcbFBPTGNWK7EeYzeuEKvsmknw9QrxVkQ5JmoKCEguR1Rg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "GXh0Vxg7AnQ", "title": "Soft body procedural animation" },
+    { "id": "qlfh_rv6khY", "title": "A simple procedural animation technique" },
+    { "id": "9Zk_hY_CjiE", "title": "Neuroevolution Explained by Example" },
+    { "id": "XP2sFzp2Rig", "title": "What are Genetic Algorithms?" },
+    { "id": "wbPgoZ2d0Nw", "title": "Cellular Automata: Life from Simple Rules" },
+    { "id": "qlfh_rv6khY", "title": "A simple procedural animation technique" }
+  ],
+  "playlists": [
+
+  ]
+}

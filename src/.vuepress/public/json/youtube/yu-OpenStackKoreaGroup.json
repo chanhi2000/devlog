@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/S4O95-olyJAOU4mR5ilyOMIZJP6Lla5y4K4EYzuxUxHXqdSa018XjGE4Nb9p9axaVYdoEm_G=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OxG_OfOH5h8", "title": "멀티 클라우드 환경에 호환 가능한 클라우드 이미지 개발 - 한철희" },
+    { "id": "2YVX7Nuc6FQ", "title": "지리적으로 분산된라즈베리파이 k3s 클러스터구축기 - 지상 최강의 개발자 쥬니니님" },
+    { "id": "NsZtYCwaeOQ", "title": "Effortless Kubernetes Delivery with Zuul CI" },
+    { "id": "QSomIaIiyxY", "title": "Build Internal Developer Platform with KusionStack" },
     { "id": "yqR0TPNWnTw", "title": "Creating a sustainable future / Wai Chung Ngai" },
     { "id": "YcHRo8U7MnE", "title": "신호철의 오픈스택 이야기 파일럿편" },
     { "id": "9iqcmcB7Msw", "title": "국내 유일 ARM서버 기업 : 엑세스랩 주식회사의 유명환 CEO가 알려주는 ARM 서버의 모든 것! | OpenInfra Community Days Korea 2021" },

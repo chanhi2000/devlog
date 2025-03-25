@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/usPcgxJV8dgAn39Jbldbov-C6xVlWrC67nh7sAVh-iG6fnb-eOckWTHB6uRmpSV-DjGmBqwz=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "tCoTXZoyEFQ", "title": "Build a Responsive NFT Website with React: Step-by-Step Guide for Beginners!" },
+    { "id": "TJHh-Fzjh70", "title": "Next.js Full Stack Responsive Social Media App Tutorial with Supabase | React.js Next.js Full Course" },
     { "id": "gpqoZQ8GNK8", "title": "React Responsive Gym Website Tutorial Using ReactJs | React js Projects for Beginners | Deploy" }
   ]
 }

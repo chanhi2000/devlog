@@ -6,6 +6,13 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ZP7ef4eVnac", "title": "The Perfect Dependency - SQLite Case Study" },
+    { "id": "6fGTLrY7sJQ", "title": "Celeste was originally an 8-bit retro game" },
+    { "id": "YntG_mSE0d4", "title": "The game of the year was written in Lua" },
+    { "id": "7VSVfQcaxFY", "title": "How 1 Software Engineer Outperforms 138 - Lichess Case Study" },
+    { "id": "lsyZj6LBvVA", "title": "Spring is the worst framework ever created" },
+    { "id": "Z7egyIzL89Y", "title": "How Garbage Collection Works" },
+    { "id": "K_yK-tEeGDA", "title": "The Best Terminal Shell Ever Created" },
     { "id": "3HxLe9innVw", "title": "My latest weekend project. Mixing the scalability of SQL and with the easy of use of  spreadsheets" },
     { "id": "Cd9aRtwj9xA", "title": "The cloud is over-engineered and overpriced" },
     { "id": "NXXiKl8g6Rw", "title": "JWTs are insecure session tokens" },

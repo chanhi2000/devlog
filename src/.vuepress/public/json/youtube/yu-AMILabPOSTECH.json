@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "AMILabKAIST",
+    "name": "AMI Lab @ KAIST",
+    "profile": "https://yt3.googleusercontent.com/4gst4ynCrvUViwD5XBrO-ZQp5dyjRG94bDtCHVmtNWBTqIO_K04qArrYydv6CQqUsa15Jcyv=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "PkC36vOKY80", "title": "GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs [Han EunGi]" },
+    { "id": "ZwwwVofkHro", "title": "Enhancing End-to-End Autonomous Driving with Latent World Model [Wonjun Jo]" },
+    { "id": "Zg4pbaujoBs", "title": "BAT: Learning to Reason about Spatial Sounds with Large Language Models [Oh Hyun-Bin]" },
+    { "id": "pXsd0GS-L5c", "title": "Restructuring Vector Quantizationwith the Rotation Trick [Lee Hyoseok]" },
+    { "id": "1-MisfQLKDA", "title": "Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Priors (AAAI'2025)" },
+    { "id": "ylcsNrLuqSE", "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Lee Hyoseok]" },
+    { "id": "zghcdL_UALw", "title": "Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models [Baek Seong-Eun]" },
+    { "id": "62r7kJ2hRZc", "title": "MeTTA: Single-View to 3D Textured Mesh Reconstruction with Test-Time Adaptation" },
+    { "id": "6SCMTbW9NZ0", "title": "EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion [Kim Yu-Ji]" },
+    { "id": "PfzU3waG_WE", "title": "RoHM: Robust Human Motion Reconstruction via Diffusion [Han EunGi]" },
+    { "id": "68e6t6Y2zJc", "title": "NeuFace: A Large-Scale 3D Face Mesh Video Dataset via Neural Re-parameterized Optim. (TMLR'2024)" },
+    { "id": "ot1Nekz8yog", "title": "BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models (ECCV'2024)" },
+    { "id": "rirtanavs34", "title": "Learning-based Axial Video Motion Magnification (ECCV'2024)" },
+    { "id": "1VUpOWsnxWQ", "title": "CHOIS: Controllable Human-Object Interaction Synthesis [Han EunGi]" },
+    { "id": "KrAn1QVsrm4", "title": "MMM: Generative Masked Motion Model [Oh Hyun-Bin]" }
+  ],
+  "playlists": [
+
+  ]
+}

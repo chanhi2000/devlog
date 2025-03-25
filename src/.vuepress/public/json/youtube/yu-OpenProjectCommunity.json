@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/sOzwgLe7-I271sfYL1X8xty8yrvw3qXMnlY7yfRJK4GyhN5p9w21xXHm55lLuWMilS5f9wJQpg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ew_EYhkQJfk", "title": "OpenProject Notifications and email reminders" },
+    { "id": "W-1DEFq1nV4", "title": "OpenProject 15.4 is launching on March 19, 2025! 🚀" },
+    { "id": "uzQ92SR1bZ8", "title": "OpenProject | Quick Manual Sorting Guide for Work Package Tables" },
+    { "id": "Ur_YPFMnx8k", "title": "OpenProject Release 15.4: Automatic Scheduling" },
+    { "id": "bE8NDOMJX1g", "title": "OpenProject Release 15.2: Set reminders for work packages" },
+    { "id": "ntTdGVT1Owg", "title": "OpenProject Release 15.3: Recurring Meetings" },
+    { "id": "vG7aKxQoZ9o", "title": "OpenProject Sales and Customer Success team" },
+    { "id": "hehNMTrP84I", "title": "OpenProject Gantt Charts - project plans and timelines" },
     { "id": "wDvQsIZrCBs", "title": "How to deploy OpenProject on your Kubernetes cluster using the Helm charts." },
     { "id": "nPEFYicyHpI", "title": "OpenProject Nextcloud integration - complete admin and user guide" },
     { "id": "kNntvZbzZ7Y", "title": "OpenProject Release 13.2: OneDrive/SharePoint integration with manual project folders" },

@@ -161,6 +161,7 @@ export const navbarEn = navbar([
           '/programming/js-nest/README.md',
           '/programming/js-next/README.md',
           '/programming/js-jest/README.md',
+          '/programming/js-playwright/README.md',
           '/programming/js-puppeteer/README.md',
           '/programming/js-storybook/README.md',
           '/programming/js-gatsby/README.md',

@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "DQ2XqNB-0Qg", "title": "Rust 2024 Project Goals Update & Rust 1.80.1" },
+    { "id": "iwV-T5yHJQw", "title": "Rust 1.80.0: Top 10 Most Interesting Things & Blog Highlights" },
     { "id": "A6NJfq5pPaw", "title": "Rust 1.77.0: 70 highlights in 30 minutes" },
     { "id": "VoPbpn4u93I", "title": "Rust 1.78.0: Last Rust News Video...ever?" },
     { "id": "gcB86MA9tuY", "title": "Rust 1.76.0: 73 highlights in 24 minutes" }

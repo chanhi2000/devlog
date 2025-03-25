@@ -7,10 +7,17 @@ category:
   - Node.js
   - References
 tag: 
-  - js
-  - nodejs
   - node
-  - fly.io
+  - nodejs
+  - node-js
+head:
+  - - meta:
+    - property: og:title
+      content: Node.js > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-node/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

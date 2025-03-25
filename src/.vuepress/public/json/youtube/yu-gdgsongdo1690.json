@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "78as8lbplLk", "title": "I/O Extended 24 Incheon/Songdo KeyNote" },
+    { "id": "5RjjrKrzGTI", "title": "I/O Extended Incheon Songdo Keynote" },
     { "id": "nkAnYUeN3jc", "title": "HelloWolrd 24 Keynote" },
     { "id": "6dds3BG-YDY", "title": "BuildWithAI 송도 Keynote" },
     { "id": "rKLD_CS2qtE", "title": "MLMeetup 23 허훈 : Autonomous Agent in Production" },

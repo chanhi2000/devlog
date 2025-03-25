@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/bqpHDnNbt9ACez7F6a7X3I1EFBRwY_TID81LULSFhr-IwTxu2fZ7RSs4xzyQ1Vr8pmfjmxVciQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cdZLitbCzuo", "title": "Podcast: Staff Engineer Promo, Observability, and Cloud Rants" },
     { "id": "3BzUsZZmYbc", "title": "Linux Project: Poor Man's GitHub" },
     { "id": "EFJNxQFXV5s", "title": "Modern Linux Tools: Command-Line Help" }, 
     { "id": "C4a7jxlMTfo", "title": "How to Create a systemd Linux Service" }, 

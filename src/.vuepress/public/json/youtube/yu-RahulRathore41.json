@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/MUTNDd-SaD6d7miFOwB9JP29ncXbvMaMiLJsK3pgBH0kpvPCECkMWaBCe2C-0K6NozbUZ1QISbE=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "sKWs0_UmNFc", "title": "33. Karate Framework || Report Generation." },
+    { "id": "5thZOl8Cp_c", "title": "🚀 Mastering Chain Test Reporting Framework: A Comprehensive Guide 📊|| Part - 1." },
+    { "id": "_dsK0LKRMKs", "title": "🚀Mastering Chain Test Reporting Framework: A Comprehensive Guide 📊|| Part - 2 || TestNG Integration." },
+    { "id": "OoWfDeC_8AM", "title": "31. Karate Framework || Feature & Scenario Tagging." },
+    { "id": "IJo-Nad87HE", "title": "32. Karate Framework || Parallel Runner || Passing dynamic Values for Tags in Runner." },
+    { "id": "B_wFiRiwLsw", "title": "21. RestSharp - Intercepting requests and responses." },
     { "id": "qZVobRIwbDY", "title": "29. Karate Framework || Delete Request." },
     { "id": "G_8Sqv-8F0c", "title": "30. Karate Framework || Request Chaining." },
     { "id": "S45hhf7CAnk", "title": "28. Karate Framework || Patch Request." },

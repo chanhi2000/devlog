@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "DevBookOfArray",
+    "name": "어레이의 개발문고",
+    "profile": "https://yt3.googleusercontent.com/OBCXYly5J2CL65b9PY0GCroV3D1olfQ2cORknDgzChXp9g_lCgWWmHuOn-1VkxQjAFyBp6ALUQA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OXI-i98o-O7on2nb3JlxSiCZs1SpmWFiZv49IfOBAxMFJ_HKXU4cXz7l0g1tUpp8NWI55tOQ7w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "b2sma989dS0", "title": "[게임뉴스] 선착순 유나이트 서울 할인코드!, 지스타 전시 출품모집, 스팀 잼파이 시작, 글로벌 게임허브센터 입주 모집 등" },
+    { "id": "-F4rLtPtGLU", "title": "유니티 프로파일러 타임라인 분석하는 꿀팁" },
+    { "id": "ZRXWUYjIxFc", "title": "유니티 7" },
+    { "id": "b0aF8wRwoNg", "title": "리플렉션으로 프라이빗 문짝 뜯고 들어가서 값 바꾸기" },
+    { "id": "qk9bWZ02pFU", "title": "유니티 커스텀 인스펙터 간단하게 알아보기" },
+    { "id": "1dB92224qUg", "title": "[라이브 편집] 알고보니 좋은 놈이었다. 파이썬" },
+    { "id": "6FKj9uPWIMk", "title": "[라이브 편집] 모바일도 광고차단 확장기능이 되는 파이어폭스" },
+    { "id": "wC2v24tmqtQ", "title": "게임 개발자를 위한 뉴스 컨텐츠 시작합니다." },
+    { "id": "Tr3Zl07MfVM", "title": "나 빼고 다 쓰고있던 개꿀 원격 프로그램" },
+    { "id": "ESbrVs3V8sw", "title": "아무도 모르는 개쩌는 프로젝트 분석 패키지. Project Auditor" },
+    { "id": "cuu4dJbT6yQ", "title": "옛날옛적 유니티 첫번째 버전 탐험하기" },
+    { "id": "TfBirpzoAv8", "title": "휙. 휘휙. 프리딕션으로 지연없이 움직이기" },
+    { "id": "eReMijYDFfA", "title": "막 이렇게 기존 멀티 패키지들을 막 하나로 합쳐놓은 새로운 패키지" },
+    { "id": "S1D8fj0Cmek", "title": "드디어 무료로 풀린 거대공룡 깃허브 코파일럿" },
+    { "id": "gFU2JlsdV2E", "title": "유니티AI로 분석한 염소가 절벽을 오르는 이유" },
+    { "id": "LcgMlxB69Gc", "title": "드디어 무료로 풀린 게임개발 특화 IDE" },
+    { "id": "U8NYBKgKQTE", "title": "유니티는 못 쓰는 문법" },
+    { "id": "CW43CSuhnfg", "title": "나만몰랐던 튜플 꿀팁" },
+    { "id": "vXERhi7T0-w", "title": "이게 게임개발자한텐 킥이거덩요" },
+    { "id": "3NMQoPNe3ME", "title": "유니티 초보 탈출을 위한 2가지 필수 능력" },
+    { "id": "2fupgczJn9g", "title": "새로운 유니티6의 비동기 Awaitable" },
+    { "id": "9p1i1LUqaME", "title": "인스펙터를 100배 업그레이드 시키는 에셋" },
+    { "id": "ki-1bXi1Mlk", "title": "익숙하지만 헷갈리는 .NET  프레임워크 개념 정리하기" },
+    { "id": "GEvr_QNiAmg", "title": "이 옵션만 잘 알면 피시넷이 쉬워진다" },
+    { "id": "Y8Re8Q33Qpk", "title": "유니워치 클라우드 서버에 올리기" },
+    { "id": "J6cGAvk4ttU", "title": "Null 에러가 생겼으니 문제의 원인을 삭제해서 문제를 해결하자" },
+    { "id": "Uu-WLoEHgUc", "title": "SDK 를 이용해서 유니티 클라우드 코드를 쉽게 사용하기" },
+    { "id": "WsWF72Vm-pc", "title": "클라우드 코드의 두가지 토큰의 권한 차이를 아시나요?" },
+    { "id": "tRa0pPMt2Fo", "title": "유니티6 그 다음 전망은? 유니티의 로드맵 살펴보기" },
+    { "id": "c5n5sSXD3iY", "title": "최신 게임들이 놓치고 있는 것들" },
+    { "id": "ifhcq13fymk", "title": "빌드, 페럴싱크 없이 동시에 4개를 띄울 수 있는 패키지 하나로 멀티 게임 테스트 끝내기" },
+    { "id": "mO1qiCjZK44", "title": "if 문을 대체 어떻게 써야 할까?" },
+    { "id": "IMml-UhMwpM", "title": "UGS로 할 수 있는 일들" },
+    { "id": "mpNxlgWR1tM", "title": "큰거왔다! 유나이트2024 같이보기" },
+    { "id": "73xByw2TJXQ", "title": "유니티 로드맵에서 미래를 봤습니다" }
+  ],
+  "playlists": [
+
+  ]
+}

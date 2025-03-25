@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/urwcjkUXmPZ9RbN58-LluVWYrOafMIzEJV-zy5FomNR0o7ACajiw5G0qSuHjZoLI54-4-kSHxg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lkRoik1rfCg", "title": "Hands-On with PicoScope 7: Pico Technology's Latest Oscilloscope Software - Workbench Wednesdays" },
+    { "id": "AV8fCXBst4o", "title": "DIY Single Board Computer with ESP32 and Raspberry Pi Pico" },
+    { "id": "lIITQ86Ph0g", "title": "LoFi Beats To Solder To" },
     { "id": "_88b-4CrrOo", "title": "Using Nordic's nRF7002, My Dehumidifier Tells Me When It's Full!" },
     { "id": "5bLpkOdTbc4", "title": "Smart Windows and Blinds with Arduino and Raspberry Pi Pico" },
     { "id": "pVeknb0dz6A", "title": "DIY Hot Plate for SMD Soldering Using Raspberry Pi Pico" },
