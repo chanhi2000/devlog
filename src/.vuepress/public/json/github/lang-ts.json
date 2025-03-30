@@ -4269,13 +4269,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "mlc-ai/web-llm",
-    "desc": "High-performance In-browser LLM Inference Engine",
-    "officialSite": "https://webllm.mlc.ai",
-    "topics": ["chatgpt", "deep-learning", "language-model", "llm", "tvm", "webgpu", "webml"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "Effect-TS/effect",
     "desc": "An ecosystem of tools to build robust applications in TypeScript.",
     "officialSite": "https://effect.website",
@@ -4850,13 +4843,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/12100?s=64&v=4",
     "banner": "https://opengraph.githubassets.com/6c3077dc356504977b4a9ede2febab59170c8b77a01171c0818c7ee2bf4cb51b/onejs/one"
   }, {
-    "repo": "xenova/whisper-web",
-    "desc": "ML-powered speech recognition directly in your browser",
-    "officialSite": "https://hf.co/spaces/Xenova/whisper-web",
-    "topics": ["javascript", "transformers", "whisper"],
-    "avatar": "https://avatars.githubusercontent.com/u/26504141?s=64&v=4",
-    "banner": "https://opengraph.githubassets.com/1c4e1fa2b678b28fbd1ae5775e073a67b84d9deb7a1dc34591baed8ba5c4e001/xenova/whisper-web"
-  }, {
     "repo": "keldaanCommunity/pokemonAutoChess",
     "desc": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
     "officialSite": "https://pokemon-auto-chess.com/",
@@ -5080,5 +5066,19 @@
     "topics": ["kafka", "clickhouse", "nextjs", "saas", "temporal", "tailwindcss"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/11b1e1075cdd98fa68039685598fa6dbfde6c5660627d5e78dc4003b70f0f27a/LimeJourney/limeJourney"
+  }, {
+    "repo": "xenova/whisper-web",
+    "desc": "ML-powered speech recognition directly in your browser",
+    "officialSite": "https://hf.co/spaces/Xenova/whisper-web",
+    "topics": ["javascript", "transformers", "whisper"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/1aaf676221efe0f88d133598c72537c93c9e38ea13d382e03490b72d10a1f8c0/xenova/whisper-web"
+  }, {
+    "repo": "mlc-ai/web-llm",
+    "desc": "High-performance In-browser LLM Inference Engine .",
+    "officialSite": "https://webllm.mlc.ai",
+    "topics": ["deep-learning", "language-model", "webgpu", "tvm", "webml", "llm", "chatgpt"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/5d6ad604cdec9f0557d7eb1498d3abd8983202c7d4985a852917805bd5108c67/mlc-ai/web-llm"
   }
 ]

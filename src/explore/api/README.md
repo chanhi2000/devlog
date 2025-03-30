@@ -493,6 +493,16 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://lmno.lol/favicon-64.png"
   preview="https://lmno.lol/share.png"/>
 
+```component VPCard
+{
+  "title": "Terminal Apps",
+  "desc": "A collection of awesome TUI apps from around the web.",
+  "link": "https://terminal-apps.dev/",
+  "logo": "https://terminal-apps.dev/favicon.svg",
+  "background": "rgba(244,114,182,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

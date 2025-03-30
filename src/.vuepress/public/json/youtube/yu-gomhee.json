@@ -1,0 +1,51 @@
+{
+  "channel": {
+    "id": "gomhee",
+    "name": "박곰희TV",
+    "profile": "https://yt3.googleusercontent.com/NF18MyTZ3Q3ADYpdCEd8uMFFpwezSmOqgC6D02-bmf1cBfdBgar7yKuAKn7nlDUXL6ztdZmJwYo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/9V_ShsFeJLjxNeT9iw0FYhDRoQ0BExY_qDKaWHyufEgCxgeb9tuuGUc_bpwJyI4nOptA6gC0SH8=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "oLfGGbqiL-Q", "title": "📱 투자자가 활용하기 좋은 앱ㅣ 투자어플 추천 ㅣ 금융꿀팁" },
+    { "id": "Mbc1TbQqvgc", "title": "☂️ 연금계좌 투자전략 정해드릴게요 ㅣ연금시리즈 19편ㅣ연금계좌 투자전략" },
+    { "id": "qtDnNpPskBc", "title": "☂️ 연금저축 혹시 나만 하고 있는 거 아니겠지?ㅣ연금시리즈 17편ㅣ연금통계" },
+    { "id": "x2_oSwvVH8k", "title": "☂️ 연금저축 600만원 넣은 첫해 연말정산의 결과는?ㅣ연금시리즈 18편ㅣ연말정산결과" },
+    { "id": "9aQ0u1vGog8", "title": "💁🏻‍♂️ 퇴직연금 투자전략인 TDF와 ETF가 만났다! | TIGER TDF2045 ETFㅣ미래에셋자산운용ㅣ🎁푸짐한 댓글이벤트 있어요!'" },
+    { "id": "ksXQPR7rsU4", "title": "🧑🏻‍🏫 39강 - 주식의 종류ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "j8k5UZM3158", "title": "✨ 채권도 혜택 챙기면서 하세요ㅣ이벤트혜택ㅣ한국투자증권" },
+    { "id": "tWNgA70Nyk0", "title": "🗒️ '돈 되는 곳에 투자하는 ETF' 풀버전ㅣ1시간 31분짜리 영상 🎞️" },
+    { "id": "vkYOhgHtoOs", "title": "🧑🏻‍🏫 35강 - 서킷브레이커ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "a_bOT0gxTpY", "title": "💁🏻‍♀️ 절세계좌 3개 나눠서 투자하는 방법 | 월 300만원으로 투자하기ㅣ3편" },
+    { "id": "-88ktXtUGiM", "title": "🧑🏻‍🏫 36강 - 액면분할ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "IxHh2587qNY", "title": "💲 2,000만원으로 월배당 세팅하면 얼마나 받을 수 있을까?ㅣ금융꿀팁" },
+    { "id": "E2DtuDBNgW4", "title": "🧐 절세계좌를 활용한 연금투자 | 지금 당장 연금 투자를 시작하라ㅣ오기찬 작가님ㅣ특별한 만남 | 1편" },
+    { "id": "sx5blWMu0J4", "title": "👨🏻‍🦳👵🏻 연금저축 사용설명서 | 연말정산 세액공제 가능한 연금저축펀드 | ver.2024" },
+    { "id": "I6aV-uhBmnQ", "title": "🧑🏻‍🏫 32강 - 주식의 거래원칙ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "CsrdC4yQzWs", "title": "🖐️ 연금운용 5가지 방법ㅣ일단 계좌 열었는데 뭘 골라야 할지 모르겠다면?ㅣ연금저축" },
+    { "id": "JzXLEijQ1AI", "title": "💪 새해에는 경제공부 할거에요! 순서 정해주세요ㅣ초보 투자자 루틴 따라하기ㅣ투자마인드 | ver.2025" },
+    { "id": "8E6kVcmN-yQ", "title": "🧐 투자 고수가 되기 위한 공부법ㅣ투자자루틴2편ㅣ투자마인드 | ver.2025" },
+    { "id": "yNLB4NHFxoc", "title": "👔 월급200만원, 현실적인 투자계획 짜주세요ㅣASK곰희 | ver.2025" },
+    { "id": "lqTJB2NXSKg", "title": "📱 포트폴리오 관리 기능이 있는 앱을 찾았습니다!! ㅣ 내돈내손 앱리뷰 ㅣFunETF" },
+    { "id": "AiHf9B6WGyE", "title": "🚨 서킷브레이커 걸린 건 어느정도 빠진 걸까?ㅣ긴급점검" },
+    { "id": "pt-VmEQaoSw", "title": "🧑🏻‍🏫 24강 - 거래소에 있는 다양한 시장들ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "fLMsGUwMfBQ", "title": "서킷브레이커? 등골브레이커?" },
+    { "id": "U2vZMWxSIMU", "title": "🧑🏻‍🏫 26강 - 기업이 탄생해서 상장하기까지ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "_Tiww7SK9AM", "title": "💰ETF의 브랜드가 바뀔 정도로 엄청난 보수경쟁ㅣETF" },
+    { "id": "ihy6Q8ftzPw", "title": "📕 초심자를 위한 최고의 지침서 DART전자공시ㅣ💁🏻‍♂️장우진 작가님ㅣ특별한 만남ㅣ1편" },
+    { "id": "AqVrVd7RlIg", "title": "📘 기업분석의 시작은 언제나 DART전자공시ㅣ💁🏻‍♂️장우진 작가님ㅣ특별한 만남ㅣ2편" },
+    { "id": "uGINO10KikM", "title": "☂️ 산업을 잘 골라야 연금을 오래오래~ 섹터 ETF 총정리ㅣ연금시리즈 12편ㅣ섹터정리 두번째" },
+    { "id": "83bitOQD8e0", "title": "👯 연금계좌는 2개 만들어야 된다던데요? ㅣASK곰희" },
+    { "id": "BVAp7DhBA40", "title": "☂️ 연금저축 열어요? IRP 열어요?ㅣ연금시리즈 13편ㅣ연금계좌 선택하기" },
+    { "id": "buUG4bOaZro", "title": "🤖 AI시대 넥스트 투자처는 어디?!ㅣTIGER글로벌AI인프라액티브ETFㅣ미래에셋자산운용ㅣ🎁푸짐한 댓글이벤트 있어요!" },
+    { "id": "WLMYuFdrBuk", "title": "🧑🏻‍🏫 28강 - 복리의 마법 72의 법칙ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "cDKaiQWJPZs", "title": "🌕 추석특집 '구독자의 자산배분 투자 후기'" },
+    { "id": "XV4waJ2qKh4", "title": "🌕 추석특집 '박곰희TV 직원의 수익률은 어떨까?'" },
+    { "id": "SQDSPf2IZ3s", "title": "🧑🏻‍🏫 29강 - 나는 테마투자자? 가치투자자?ㅣ쌩초보반 무료공유ㅣ🏫곰희스쿨" },
+    { "id": "Z5br9TkMASw", "title": "미래 수익을 안겨다 줄 ETF 유망산업 총정리ㅣ김수정 작가님ㅣ특별한 만남ㅣ2편" },
+    { "id": "SAOz2iEU41E", "title": "나의 생애주기에 따른 ETF포트폴리오ㅣ김수정 작가님ㅣ특별한 만남ㅣ3편" },
+    { "id": "8UPRiaQz6cw", "title": "☂️ 연금저축 계좌 어디서 열어요?ㅣ연금시리즈 14편ㅣ연금계좌 개설하기" }
+  ],
+  "playlists": [
+
+  ]
+}

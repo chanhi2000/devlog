@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "anthonyshewww",
+    "name": "Anthony Shew",
+    "profile": "https://yt3.googleusercontent.com/cHI2fZUGvMz9oaWMlqfgRNbcS60cKZjz3J8lM7tdikaWR4b6D9YhaqTBnEG8DNp7wiWN4qLqng=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "gpWDZir8dAA", "title": "Building packages in monorepos (is easy) | From Zero to Turbo - Part 3" },
+    { "id": "TeOSuGRHq7k", "title": "How to structure a JS/TS monorepo (From Zero to Turbo - Part 1)" }
+  ],
+  "playlists": [
+
+  ]
+}

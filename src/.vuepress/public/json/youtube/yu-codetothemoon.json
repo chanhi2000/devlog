@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/DYYmvnH6HJDOnmEGTEQ2c2bREpeapdj-4HF7L1DWt1G7HOeHgD-gi-P332QirVuCuuQy7KVHwg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "RNMwz5n1M80", "title": "The Most Admired Web Framework" },
+    { "id": "KlREzg8g6pQ", "title": "Rockstar Developer Builds New Terminal" },
+    { "id": "HcuDmSb-JBU", "title": "The Most Underrated IDE" },
+    { "id": "hWaaG9sN_Z8", "title": "Rust vs Zig Showdown (HTMX Webapp)" },
+    { "id": "zLTaN5fJUY8", "title": "Productionizing Two Visionary Rust Projects (feat. Terraform, AWS, Docker, GitLab)" },
+    { "id": "DDdtljE9D70", "title": "The Hidden Truth About AI for Software Developers" },
+    { "id": "n9tnTeK5JlM", "title": "Collect Money in a Full-Stack Rust Web App (Leptos + Stripe)" },
+    { "id": "7utPutDORb4", "title": "A Legendary Web Framework is Reborn... In Rust" },
+    { "id": "O6ttVdAIobE", "title": "Software Development Keyboard { display: grid !important; }" },
+    { "id": "QdGiOMInegM", "title": "Rust + Next-Gen SQL Databases = 😍" },
+    { "id": "fIFUnYNuYbc", "title": "Rust LLM Frameworks have a Bright Future" },
     { "id": "UQuo-H1K0oM", "title": "The Dream of Replicating the Human Mind in Software" },
     { "id": "Zy-eDWVam_Y", "title": "The Star Language that will outshine Rust? Gleam" },
     { "id": "Pr6T0Phjvgc", "title": "Modern All Rust Stack - Dioxus, Axum, Warp, SurrealDB" },

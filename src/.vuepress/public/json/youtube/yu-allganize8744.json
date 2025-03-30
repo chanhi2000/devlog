@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "allganize8744",
+    "name": "Allganize",
+    "profile": "https://yt3.googleusercontent.com/g0Cdl_AYEvJVM6R3ZExefF4tgJrDDLXrMqoe1u6BM_HJEFt7ngZ0YJ4PYhnO30CIJKDUDctPRyM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bTjdSyrKrf-aMH0WPlrDh0WmIOHvGLfKsN780KqF0RgTMCyBEglemBk_PAGa88WW26awr4Sc=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "8y816qLfjRM", "title": "LLM 성능 평가 자동화, 2시간⮕10분 단축 노하우" },
+    { "id": "MGGKadogpug", "title": "Qwen으로 한국어 좀 더 잘하는 모델 만들기  | 인스트럭트 한국 1월 밋업" },
+    { "id": "EvpFgpJQqMo", "title": "[AI데모영상] GEN BI | 요즘 AI 근황" },
+    { "id": "2ntCxx-Xb5A", "title": "[AI 데모영상] 정보 공개 청구 유사 사례 및 정보 공개 결정 추천 | 요즘 AI 근황" },
+    { "id": "UYpy0H8YFvs", "title": "[AI 강의] DeepSeek-R1의 등장, 그럼에도 우리가 놓치지 말아야 하는 것 - Part 1" },
+    { "id": "mTwZCZ9pcNw", "title": "[AI 강의] DeepSeek-R1의 등장, 그럼에도 우리가 놓치지 말아야 하는 것 - Part 2" },
+    { "id": "8zDk3ZuEPsA", "title": "[AI 강의] DeepSeek-R1의 등장, 그럼에도 우리가 놓치지 말아야 하는 것 - Part 3" },
+    { "id": "E-F_XX43z5Q", "title": "[AI강의] 임베딩의 이해 part2 | 임베딩이란 무엇인가?" },
+    { "id": "DEDH8oM18-4", "title": "[AI강의] 임베딩의 이해 part3 | 임베딩이란 무엇인가?" },
+    { "id": "GjVfXLwbZCM", "title": "AI란 무엇인가? | 머신러닝과 딥러닝의 차이" },
+    { "id": "9SWQx8x3KAI", "title": "[AI강의] DeepSeek-R1과 주요 LLM 비교 분석 : 추론 모델 R1의 현재 위치는?" },
+    { "id": "nDfgxxCjU_I", "title": "[AI강의] LLM으로 지식노동자의 삶을 혁신한다" },
+    { "id": "WAMlvq32DFk", "title": "[AI 어디까지 써봤니?] 챗GPT로 사주보기" },
+    { "id": "e6LOni3E9QE", "title": "[AI세미나] MergeKit이란 무엇인가" },
+    { "id": "7RU-xWEGXf0", "title": "[AI 강의] LLM 평가 방법" },
+    { "id": "_67MT0ydjCE", "title": "[AI 강의] Reranker의 AI기반 검색 혁신 | 문맥을 이해하고 추론하다" },
+    { "id": "LQJccycOJQ4", "title": "[AI강의] 임베딩의 이해 part1 | 임베딩이란 무엇인가?" },
+    { "id": "BCaI-RKfVxM", "title": "[AI 퀴즈쇼] LLM은 맞는 말만 한다?! 제 1회 AI YES or NO, 과연 승자는?! | 자존심을 건 두 엔지니어의 대결!" },
+    { "id": "06qhjR3qdxo", "title": "[세미나] 알짜 기업이 쓰는 진짜 AI |생산성 혁신을 위한 강력한 동반자 LLM App" },
+    { "id": "aAik48RU6LY", "title": "[ AI강의] 왜 내가 만든 LLM App은 멍청할까?" },
+    { "id": "XuE7DM0Gi_g", "title": "[AI강의] 올거나이즈의 RAG 히스토리" },
+    { "id": "c5RvMF0ZLc0", "title": "올거나이즈의 사내 복지와 구성원의 찐 후기가 궁금하다면?!" },
+    { "id": "zSwINxbnWo8", "title": "[AI 공부] LLM의 기본개념과 의의 | 직장상사를 대신 욕해주는 AI가 있다고?!" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "calmcode-io",
+    "name": "CalmCode",
+    "profile": "https://yt3.googleusercontent.com/86FKVJE4UplCMqMMXsK34djerxXUiqIfoGpduW3Z3jZZbvMIO6buMFbhd15OHzZuAXE23VDYEdg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5qTPU9dR4FLikagCjF3phKfH0RqNgVao12-Aj498_juFGTpizJmD7si6bhrWvUOIgIrbVxKj=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "j9jh46R0ryY", "title": "Building an LLM shortcut for Python" },
+    { "id": "DibJ6YD3i1k", "title": "Why LLMs need spells to work their magic." },
+    { "id": "03fXixHEOEI", "title": "Kyria rev 4 - A mini Elora with a trackpad ... and keycap upgrades." },
+    { "id": "cXkpR9HQeDA", "title": "Celebrating a tiny library with just one decorator in it" },
+    { "id": "cXkpR9HQeDA", "title": "One decorator to turn functions into tasks" },
+    { "id": "VWafIv36mtc", "title": "HTML for Python in 50 lines of code" },
+    { "id": "LzymTOc_D3U", "title": "When OpenAI Struggles with Data Analysis ..." },
+    { "id": "AD_re1aAqJw", "title": "Git-scraping my own newspaper: *very* fun indeed." },
+    { "id": "ANIu4l9_FB8", "title": "Drawing more data and domain specific environments" },
+    { "id": "UIeyhGTwxGA", "title": "Upgrades for the ZSA Voyager" },
+    { "id": "Qzo8PtDzzdA", "title": "How to configure homerow mods, layers, combo keys and macros with VIAL" },
+    { "id": "4En57Zw6gU4", "title": "Exploring FastHTML: making webstuff easier for Python people" },
+    { "id": "F6uv3DyV5rA", "title": "Introducing: Bulk Widgets!" },
+    { "id": "O940bc6adTs", "title": "Moonlander REVIEW - Amazing Macropad, OK keyboard" },
+    { "id": "jXWIxk2brfk", "title": "Some tricks with UV" },
+    { "id": "WTrz9oAOyQM", "title": "NuPhy Air60 HE REVIEW - Incredible switches with software that falls short" },
+    { "id": "n8VXyhx_7IM", "title": "Introducing Wigglystuff - more widgets and reactivity" }
+  ],
+  "playlists": [
+
+  ]
+}

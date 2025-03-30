@@ -938,13 +938,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/120417348?v=4",
     "banner": ""
   }, {
-    "repo": "huggingface/huggingface-llama-recipes",
-    "desc": "",
-    "officialSite": "",
-    "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-    "banner": ""
-  }, {
     "repo": "MahmoudAshraf97/whisper-diarization",
     "desc": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
     "officialSite": "",

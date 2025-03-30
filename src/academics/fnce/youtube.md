@@ -32,5 +32,6 @@ head:
 <MyYouTubeItems jsonName="yu-talentinvestment" /><!-- 달란트투자 -->
 <MyYouTubeItems jsonName="yu-TV-lb7cv" /><!-- 창원개미TV -->
 <MyYouTubeItems jsonName="yu-회생의고수" /><!-- 회생의고수 김민성변호사 -->
+<MyYouTubeItems jsonName="yu-gomhee" /><!-- 박곰희TV -->
 
 <TagLinks />

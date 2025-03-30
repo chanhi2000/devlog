@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/TApmzNskaydDlyhXx1t7j7URhFUzIX5MufCihuJIRTVLym_pHqymT6X1O-b4WyQKx4K14N7d=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BtyA-mN0VIA", "title": "Partially Validated Pydantic Models" },
+    { "id": "-YelOky3ZRE", "title": "Python Logging Demystified: Part 2 - Coding" },
     { "id": "sFqdgG8tSPk", "title": "The pyyaml Library" },
     { "id": "Zs177gghnjA", "title": "The benedict Library" },
     { "id": "qJWz-01r6gk", "title": "The Tenacity Library" },

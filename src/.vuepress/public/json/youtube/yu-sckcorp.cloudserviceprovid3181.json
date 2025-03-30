@@ -1,0 +1,42 @@
+{
+  "channel": {
+    "id": "sckcorp.cloudserviceprovid3181",
+    "name": "에쓰씨케이",
+    "profile": "https://yt3.googleusercontent.com/PXGPQhdvnC8lfpwE50Ce18t9ib9R0cL5O9p7PacRu0iyJnwsIdi1j6U5DlxRzWfL_BBan49Pew=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "hNkIfHCI4z8", "title": "설계는 AutoCAD가, 상담은 Geo-X가 책임집니다" },
+    { "id": "4CHPW5AY2Fg", "title": "산업 기계 제조 실무자를 위한 2D to 3D 전환 마스터 클래스 웨비나" },
+    { "id": "DmT6Y3bdwjc", "title": "전기, 전장 설계 이제 AutoCAD Electrical로 하세요! l AutoCAD 전문화 툴셋" },
+    { "id": "ByZmpcKuHq0", "title": "Adobe Firefly 신기능 - 이미지를 영상으로" },
+    { "id": "S_N2AycSlkY", "title": "Adobe Firefly 신기능 - 비디오/오디오 번역" },
+    { "id": "40tdCudzb_U", "title": "Adobe Firefly 신기능 - 장면에서 이미지로" },
+    { "id": "OZ0sITxyhoY", "title": "Adobe Firefly 신기능 - 텍스트를 비디오로" },
+    { "id": "LAU5eLc57oc", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기 | 1강. 패밀리 작성 기초1" },
+    { "id": "v8tq65rtHHE", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기  |  2강. 패밀리 작성 기초 2" },
+    { "id": "nx_3bVCyyb0", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기 | 3강. 매개변수 수식 기초" },
+    { "id": "mJ1lIqHaVK4", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기 | 4강. 매개변수 수식 심화" },
+    { "id": "F1laigJ6HYU", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기 | 5강.  Lookup Table 활용" },
+    { "id": "MgYPUmXmTMA", "title": "건축 설비 BIM 모델링을 위한 꼼꼼히 다시보는 레빗 MEP 패밀리 만들기" },
+    { "id": "O3Rv-LaUsMA", "title": "꼼꼼히 다시보는 Revit MEP Family 만들기 | 6강. 복합 패밀리 작성" },
+    { "id": "8Vazm0EXc_g", "title": "공조 설계 실무자를 위한 실전 BIM HVAC 모델링 완벽 가이드" },
+    { "id": "ONVogmaH36Y", "title": "실전BIM HVAC 모델링 완벽 가이드 l 6강. 전문가의 Tip & Tech" },
+    { "id": "6tu9CypYDec", "title": "실전 BIM HVAC 모델링 완벽 가이드 l 5강. HVAC Duct 2D 도면 작성" },
+    { "id": "gW_-bpeZPws", "title": "실전 BIM HVAC 모델링 완벽 가이드 l 4강. HVAC Duct 물량산출" },
+    { "id": "3-CS-d1n0jk", "title": "실전 BIM HVAC 모델링 완벽 가이드 l 3강. Workset기반 HVAC 모델링 실무" },
+    { "id": "IeSfcy7IRCc", "title": "실전 BIM HVAC 모델링 완벽 가이드 l 2강. HVAC 구성요소 모델링" },
+    { "id": "8Va08EAzyfk", "title": "실전 BIM HVAC 모델링 완벽 가이드 l 1강. Worksharing을 위한 workset setting" },
+    { "id": "6m9Byxr49-A", "title": "2D 설계와 3D 설계를 한번에! 기계, 전기, 배관 설계를 위한 AutoCAD MEP" },
+    { "id": "jXsOuy-SS3s", "title": "[SCK Adobe 온라인 웨비나] 공공기관 대상 - Adobe Gen AI Firefly로 구동되는 비디오 모델 소개+2025년 신기능 업데이트" },
+    { "id": "_le70vbQMb4", "title": "기계, 전기, 배관 설계 효율 높이는 오토캐드 툴 셋 온라인클래스 무료로 수강하기!" },
+    { "id": "W9IKVRoXKB8", "title": "FY24 Q3 여름방학특집 어도비데이 웨비나" },
+    { "id": "nn6_Ro9elQg", "title": "구조해석 데이터와 BIM 연계성 향상을 위한 무료 Revit Add-in 프로그램 소개" },
+    { "id": "g9YK9RjuEOI", "title": "AutoCAD Electrical 완벽 소개! 자동 배선, PLC 설계, 보고서 생성까지" },
+    { "id": "wazsJmJQ7l4", "title": "가을학기특집  어도비데이 웨비나" },
+    { "id": "5jKvFagDa6g", "title": "AutoCAD Electrical로 전장설계 생산성, 정확성 모두 향상하는 법  |  AutoCAD 사용자 인터뷰" }
+  ],
+  "playlists": [
+
+  ]
+}

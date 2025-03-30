@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/lQcL3NxguDaDsxHmkrefOiwhKWtWiEQpDvB2_aswDoioKgftWYKt2pcsg3q5HIfCDWhICsnGCQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "X1zCAPLvMtw", "title": "Build an Enterprise Nextjs Rental App | AWS, EC2, Cognito, Shadcn, RDS, S3, Node, React" },
+    { "id": "61vSIrg70xM", "title": "Build a Nextjs Learning Management App | AWS, Docker, Lambda, Clerk, DynamoDB, ECR, S3, Shadcn, Node" },
+    { "id": "0hrJGWrCux0", "title": "The Only CSS Course You Need to Master CSS | Learn By Building Apps" },
+    { "id": "ddKQ8sZo_v8", "title": "Build Nextjs Inventory Management Dashboard & Deploy on AWS | Postgres, Node, Tailwind, EC2, RDS, S3" },
+    { "id": "KAV8vo7hGAo", "title": "Build a Nextjs Project Management App & Deploy on AWS | Cognito, EC2, Node, RDS, Postgres, Tailwind" },
     { "id": "K8YELRmUb5o", "title": "Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI" },
     { "id": "0cPCMIuDk2I", "title": "Build a MERN React Admin Dashboard | Redux Toolkit Query, Backend Focus, Deployment, Data Modeling" },
     { "id": "uoJ0Tv-BFcQ", "title": "Build A MERN Finance Dashboard App | Machine Learning, Typescript, React, Node, MUI, Deployment" }, 

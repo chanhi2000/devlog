@@ -2243,13 +2243,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "TabbyML/tabby",
-    "desc": "Self-hosted AI coding assistant",
-    "officialSite": "https://tabby.tabbyml.com/",
-    "topics": ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "ide", "llms"],
-    "avatar": "https://avatars.githubusercontent.com/u/125617854?v=4",
-    "banner": ""
-  }, {
     "repo": "nashaofu/node-screenshots",
     "desc": "Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.",
     "officialSite": "",

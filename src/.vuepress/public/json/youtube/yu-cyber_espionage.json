@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "cyber_espionage ",
+    "name": "Cyber Espionage",
+    "profile": "https://yt3.googleusercontent.com/NdRyYmQvOtlTPmeyRwrfYuoG2J9yMOhX97NTbpOQhWmIJ5NL1gMxKvYvNSCFixESz8fi8o2jK8A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GBw4N2eesRgcdQBoxiEv98erwMRoItsKKRx04uicY16XXeG5hcVIIX1Z9ea02QfYKhPnsm6V2Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CrnafXWFWR8", "title": "How HACKERS use DEEPSEEK locally with Python! 🐋+🐍" },
+    { "id": "FKUu_KYAcfg", "title": "INSANE! DeepSeek + Flipper Zero is OP 🐋+🐬" },
+    { "id": "pEV2tfdxotg", "title": "WORTH IT? 🤑 ShellGPT + DeepSeek 🤖🐬" },
+    { "id": "5qQ4TEA6Jzs", "title": "HOW TO use the PYTHON INTERACTIVE MODE!" },
+    { "id": "34CuAJOcgco", "title": "TIME is RELATIVE! 🕟" },
+    { "id": "Bz_qPdJdu28", "title": "The FUTURE of Cybersecurity (ft. Quantum Computers) - Harvest NOW, Decrypt LATER!" },
+    { "id": "lWSV5bkw1YI", "title": "8 TYPES of HACKERS in CYBER SECURITY!" },
+    { "id": "A_caovHej2s", "title": "I’ve written a book. A Python book. Let me explain." },
+    { "id": "MvgqkDxVSwE", "title": "Your FIRST Python Program #HelloWorld" }
+  ],
+  "playlists": [
+
+  ]
+}

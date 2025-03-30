@@ -6,6 +6,8 @@
     "banner": ""
   },
   "videos": [
+    { "id": "V45DAKqHBkc", "title": "I switched OFF AstroNvim (big drama) — Stream VOD" },
+    { "id": "71C2SWoa67w", "title": "Making Better Telescope find_files & live_grep — Stream VOD" },
     { "id": "5GDv-foa148", "title": "qfetter.nvim Is Niche But Powerful — Stream VOD" },
     { "id": "OXnnmSaGk0w", "title": "The Hidden Power Of Common Commands — Stream VOD" },
     { "id": "uVySxIqo1Ds", "title": "I'm High-Diffing My Browser — Stream" },

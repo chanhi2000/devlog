@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v0.14.16 2025-04-06][v0.14.16]
+
+- 내용채워넣기
+
 ---
 
 ## [v0.14.15 2025-03-30][v0.14.15]
@@ -186,3 +190,4 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 [v0.14.13]: https://github.com/chanhi2000/articles/compare/v0.14.12...v0.14.13
 [v0.14.14]: https://github.com/chanhi2000/articles/compare/v0.14.13...v0.14.14
 [v0.14.15]: https://github.com/chanhi2000/articles/compare/v0.14.14...v0.14.15
+[v0.14.16]: https://github.com/chanhi2000/articles/compare/v0.14.15...v0.14.16

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/lV-h8tSqrIJmN5gsnJzzUwb1eV3K7sX-Q8kme-DtEF8kLfPRG9wR3wgLlhSXxw5pMz-BX3TB-g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2DbCjk0O41g", "title": "Go언어가 온당 - #1 무엇이든 물어보세요." },
+    { "id": "1gGD6wf6B4A", "title": "Go 1.23에 추가된 Range over function" },
+    { "id": "q9OCgaZtHv0", "title": "Tucker의 Go언어 프로그래밍 2판 개정판 출간 안내" },
+    { "id": "bVwPMIfzcbw", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #22 Minimum Spanning Tree" },
     { "id": "SpbTgkTRTPI", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #21 - Graph" },
     { "id": "U3z4XS6qGyM", "title": "Tucker의 Go로 배우는 자료구조와 알고리즘 #20 - Trie" },
     { "id": "7CPFJZZF60E", "title": "Kubernetes 개념 잡기" } 

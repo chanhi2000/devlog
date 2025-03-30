@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/W24nrbMLN3nbCDWSKpdiMM9XS27WOhVwtNPNRduliX1jL33hls7aB8kOMUo-VnkEaJorBg_GSw0=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2jgdkjnKCXs", "title": "Build & Deploy React Admin Dashboard - Role-based Authorization, TypeScript, Nextjs, TailwindCSS" },
+    { "id": "Rck5ZoqpuEU", "title": "Build & Deploy AI Language Translator App - Gemini AI, React, Neon DB, Nextjs, Tailwind" },
+    { "id": "K-hGb9W6wHc", "title": "Build a Portfolio & Blog Website - NextJS Tutorial w/ React, Tailwind, Headless CMS, Deployment" },
+    { "id": "wSHwm29QJzI", "title": "Build a SaaS Application with NextJs, Stripe, Shadcn UI, TypeScript, Database Functions, Drizzle" },
     { "id": "Oyd7pND0RYE", "title": "Build a Full-Stack Quiz AI Application - Next.js, Drizzle, TypeScript, Stripe, OpenAI (2024)" },
     { "id": "UHx6-p_Touc", "title": "Drizzle ORM Tutorial - Queries, Mutations, Joins [Drizzle Crash Course 2024]" },
     { "id": "2_BZ5yqlSbs", "title": "React Tutorial - Build & Deploy Developer Portfolio Website (Beginner Friendly) 2024" },

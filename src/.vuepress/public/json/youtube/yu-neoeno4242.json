@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "neoeno4242",
+    "name": "Kay Lack",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kOXcfNLRLoaG16bNl35u7NYYbKiBYwO3PH6bRtXTr1WFQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "tAw9-nTCuzI", "title": "Fun and games generating DFAs from regular expressions" },
+    { "id": "dlno9p7UNJw", "title": "Attempting a leaderboard-worthy time for Advent of Code" },
+    { "id": "kPqk07Gpj0A", "title": "What is the everyday list, really?" },
+    { "id": "GZPqDvG615k", "title": "In search of the perfect dynamic array growth factor" },
+    { "id": "76acHVJfziw", "title": "Introducing 0DE5" },
+    { "id": "5aZiRjgSGQU", "title": "Just enough C to have fun" },
+    { "id": "13E0il2zxBA", "title": "Making .BMP images from scratch" },
+    { "id": "feqD9k0Inds", "title": "Assembly follow-up: from ARM64 to x86-64" },
+    { "id": "ON9vuzLiGuc", "title": "Fast and Beautiful Assembly" },
+    { "id": "cX5tQJhuNeY", "title": "Crafting executables from raw bytes" }
+  ],
+  "playlists": [
+
+  ]
+}

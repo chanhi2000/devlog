@@ -604,13 +604,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "TabbyML/tabby",
-    "desc": "Self-hosted AI coding assistant",
-    "officialSite": "https://tabby.tabbyml.com/",
-    "topics": ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "ide", "llms"],
-    "avatar": "https://avatars.githubusercontent.com/u/125617854?v=4",
-    "banner": ""
-  }, {
     "repo": "chroma-core/chroma",
     "desc": "the open source embedding database",
     "topics": [],
@@ -754,11 +747,6 @@
     "desc": "",
     "topics": [],
     "officialSite": ""
-  }, {
-    "repo": "mlc-ai/web-llm",
-    "desc": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
-    "topics": ["deep-learning", "language-model", "webgpu", "tvm", "webml", "llm", "chatgpt"],
-    "officialSite": "https://mlc.ai/web-llm"
   }, {
     "repo": "pengzhile/pandora",
     "desc": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
@@ -1239,11 +1227,6 @@
     "desc": "Interactive Data Visualization in the browser, from Python",
     "topics": ["visualization", "javascript", "python", "plots", "jupyter", "visualisation", "data-visualisation", "bokeh", "plotting", "notebooks", "interactive-plots", "numfocus"],
     "officialSite": "https://bokeh.org"
-  }, {
-    "repo": "openai/whisper",
-    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
-    "topics": [],
-    "officialSite": ""
   }, {
     "repo": "huggingface/text-generation-inference",
     "desc": "Large Language Model Text Generation Inference",
@@ -8436,5 +8419,19 @@
     "topics": ["markdown", "pdf", "openai", "microsoft-office", "autogen", "langchain", "autogen-extension"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/84190feda7342ec7a5eea2da80656e9dd79f769537436bcdb978c0b5b1168aec/microsoft/markitdown"
+  }, {
+    "repo": "openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/dcdd7740ae82987ca3d9c5d4d9278e8da54977d5a3f38dcb7b11f0958e71cf6a/openai/whisper"
+  }, {
+    "repo": "ModelTC/lightllm",
+    "desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+    "officialSite": "",
+    "topics": ["nlp", "deep-learning", "llama", "gpt", "model-serving", "llm", "openai-triton"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/a9e3a9d2da8f9f24d680ccd34b64bce7e963a1bfb04f65c028aadbf628f2931d/ModelTC/lightllm"
   }
 ]

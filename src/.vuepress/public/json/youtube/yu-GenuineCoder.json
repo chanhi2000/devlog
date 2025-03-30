@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/gw8HnWntxIdi4H-QL7AVvpJD-z7BL4EJiqEEdcwPanIAqm5U3T6fvy1txA1v4AD2vpBvZ9aqA_k=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wW0nVc2NlhA", "title": "Efficient File Upload and Download with Spring Boot | File Manager REST API" },
+    { "id": "tIaWE9WthSQ", "title": "OAuth2 Social Login with Spring Security | 'Sign in with Google' Spring Boot Tutorial" },
+    { "id": "kLMUS0-PznE", "title": "Send Email Using Spring Boot | With Attachment & HTML Body | Java Mail Sender API | Java GMail" },
+    { "id": "mWXTf27RmWc", "title": "JavaFX with Spring AI Livestream | Building a real LLM-based AI Assistant from Scratch" },
     { "id": "MrSECdSIaOg", "title": "Microservices using Spring Boot 3 | Video streaming app project" },
     { "id": "HYBRBkYtpeo", "title": "JWT Authentication & Authorization with Spring Security | Step-by-step tutorial" },
     { "id": "y3ySZkSgWik", "title": "Java Reactive Programming Full Course | Project Reactor | Spring Boot WebFlux | MongoDB" },

@@ -703,16 +703,16 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-playwright',
       children: [
-        '/devops/playwright/README.md',
-        '/devops/playwright/references.md',
-        '/devops/playwright/youtube.md',
+        '/programming/js-playwright/README.md',
+        '/programming/js-playwright/references.md',
+        '/programming/js-playwright/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/devops/playwright/articles/README.md',
-            asb.woowahan("playwright")
+            '/programming/js-playwright/articles/README.md',
+            asb.woowahan("js-playwright")
           ]
         },
       ],
@@ -2404,7 +2404,7 @@ export const sidebarEn = sidebar({
         '/devops/win/tips.md',
         '/devops/win/wsl.md',
         '/devops/win/sandbox.md',
-        '/devops/win/referencs.md',
+        '/devops/win/references.md',
         '/devops/win/youtube.md',
         {
           text: 'Article(s)',

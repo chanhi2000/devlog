@@ -938,13 +938,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/120417348?v=4",
     "banner": ""
   }, {
-    "repo": "huggingface/huggingface-llama-recipes",
-    "desc": "",
-    "officialSite": "",
-    "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-    "banner": ""
-  }, {
     "repo": "MahmoudAshraf97/whisper-diarization",
     "desc": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
     "officialSite": "",
@@ -1070,5 +1063,12 @@
     "topics": ["python", "ai", "tutorials", "cookbooks", "openai", "pinecone", "faiss", "rag", "weaviate", "qdrant", "llm", "llms", "langchain", "chromadb"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/09df1aa719434833f9267d1750d81f994b14cc7c4b3d313655b6fbb18aeb9073/athina-ai/rag-cookbooks"
+  }, {
+    "repo": "huggingface/huggingface-llama-recipes",
+    "desc": "",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://repository-images.githubusercontent.com/832257345/ebca4b43-ab54-4dd9-b59e-9dfa695108e3"
   }
 ]

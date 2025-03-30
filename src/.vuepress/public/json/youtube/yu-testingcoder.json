@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/z1FBZDmGU6J6zr787Qma79FxU1c9R2vNC2BtRbDm2sEm8X4lbbj352O8n3TKvmQ3cQsDqV6b=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "AgmbzhIowKo", "title": "Developing my first Full game - wonna see my journey?" },
+    { "id": "kjIR0GSjl1c", "title": "Coin-Catching Game with Python and Pyxel – Step-by-step Tutorial!" },
+    { "id": "-W-vdDE46RQ", "title": "How to add music to your game? | Pyxel tutorial - 7 | Music editor" },
     { "id": "YXbu2bu46uE", "title": "How to know if player hits walls? | Pyxel tutorial - 5 | Collision detection" },
     { "id": "OkWHnNhndLs", "title": "Tracking Your Work is Essential for Feeling Fulfilled" },
     { "id": "aPqs0D3s_IU", "title": "Pyxel tutorial: Tilemaps | Lesson 4" }, 

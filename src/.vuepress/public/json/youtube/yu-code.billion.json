@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "code.billion",
+    "name": "코드빌리언 - 자본주의 개발자",
+    "profile": "https://yt3.googleusercontent.com/fsn90pJs2yvxIE_9kULiONljdbzPKkLHXfp1goMlEXvbiH6bka5XrBM-etd4mw_MyBnVl2yh=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BCJ4L34xqSZvR1BQ_aDYCwWyv1eAcBMc941bR9U_av3I8gtZaTBUb0rP9NOxpRze2Ldu4g6emFU=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1na0CMaInUA", "title": "코딩으로 돈 못버는 사람들은 모르는 내용입니다" },
+    { "id": "tazBM3Rq-Zs", "title": "코딩으로 돈벌기" },
+    { "id": "Lgka02eGeKY", "title": "3분마다 35만원 버는 무자본창업 아이템 - 로고 디자인 제작" },
+    { "id": "3BPyPlAszec", "title": "5분마다 40만원 버는 무자본창업 아이템 - 웹 크롤링" },
+    { "id": "nYJ8k3GBmuE", "title": "ChatGPT로 구글 시트 업무 속도 10배 높이는 방법" },
+    { "id": "jnRqq2JEdxI", "title": "AI로 2분만에 랜딩페이지 제작하는 방법 (비개발자도 완전 가능)" },
+    { "id": "LLqRyqtwvpc", "title": "GPT로 1분만에 블로그 글 수십개를 자동 생성부터 발행까지 (비개발자도 가능)" },
+    { "id": "DDgcyU0o4E0", "title": "ChatGPT로 만드는 무자본창업 아이템 - 네이버 크롤링" },
+    { "id": "MPEx4SeoouI", "title": "직장인이 후회하지 않는 방법" },
+    { "id": "BMp_AAsV-QQ", "title": "코딩없이 무료로 미드저니 (AI 이미지 생성 사이트) 만들기" }
+  ],
+  "playlists": [
+
+  ]
+}

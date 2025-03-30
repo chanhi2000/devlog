@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/6gdp3fNFKW4K5dpk-t7F77PFEGRwWwWYHa8FNb0a3zGb4HGTzwmfTcKDc29avr5HxMC7vpaUXF0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "cq5mr8PMFO4", "title": "Registration and Login in Symfony | Symfony PHP Signup and Login" },
+    { "id": "JycBuHA-glg", "title": "Routes, Routers and Routing in PHP" },
+    { "id": "93pCiZT99Ks", "title": "Autoloading Classes in PHP: PSR-4 and Composer" },
+    { "id": "i_jgWZItCGI", "title": "Learn Symfony in 1 Hour" },
+    { "id": "0C1s7E6-1mw", "title": "Handling Files in a REST API with PHP" },
+    { "id": "yi2b9U1kQyc", "title": "Create a Google Login Page in PHP" },
     { "id": "Yi1NfLkflyU", "title": "Laravel for Beginners  -  Learn Laravel 11 Fundamentals, from Scratch, in 1 Hour" },
     { "id": "1eH43qVMCOU", "title": "Use Composer to Easily Manage PHP Packages" },
     { "id": "v5tAdjf0o3E", "title": "REST API Authentication with PHP & MySQL | Slim PHP Micro Framework Registration and Login Tutorial" },

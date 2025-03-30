@@ -48,7 +48,7 @@ head:
 <MyYouTubeItems jsonName="yu-seoulit" /><!-- 서울IT교육센터온라인강좌TV -->
 <MyYouTubeItems jsonName="yu-나는황쌤이다" /><!-- 나는 황쌤이다 -->
 <MyYouTubeItems jsonName="yu-user-jn1ly6wf9q" /><!-- 웹짱이영환쌤 -->
-<MyYouTubeItems jsonName="yu-user-ej5rc3gi3p" /><!-- 이백행 -->
+<MyYouTubeItems jsonName="yu-이백행" /><!-- 이백행 -->
 <MyYouTubeItems jsonName="yu-xxxjjhhh" /><!-- 개발자 유미 -->
 <MyYouTubeItems jsonName="yu-with2511" /><!-- 기술노트with 알렉 -->
 <MyYouTubeItems jsonName="yu-tobyspring" /><!-- Toby Lee -->

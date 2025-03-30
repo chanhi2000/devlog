@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "roadmapsh",
+    "name": "the roadmap",
+    "profile": "https://yt3.googleusercontent.com/lQOIfT-JFOGOUKYcmZMirl17je3BiAwoqvr8HCK_UN9SE0hkWxHXrcsos2POM_K-PEdZq3Fo4g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/fNi02JAbPXVp4fyGxn_Q3i6D0-aOorSYUE9EcqgpP7zXeQibgkv4gGH1JPIBgzouwY5Vd84A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uB6U1iL_ruQ", "title": "Use this AI Tool to Learn Anything" },
+    { "id": "6S1CcF-ngeQ", "title": "Announcing Master SQL - Our First Premium SQL Course" },
+    { "id": "IQK9T05BsOw", "title": "Bootstrapped Pizzas and Course Creation with Bruno Simon" },
+    { "id": "c9ja2F-cZzY", "title": "Functional Programming & The Future of Software Development with Dillon Mulroy" },
+    { "id": "c9ja2F-cZzY", "title": "Functional Programming & The Future of Software Development with Dillon Mulroy" },
+    { "id": "w3nt4k2jZUo", "title": "The Ultimate Frontend Developer Roadmap" },
+    { "id": "iOcNq0epxpg", "title": "My Journey to Full-time Open Source Maintainer with Daniel Roe | My Roadmap #9" },
+    { "id": "T-__ZfAlnT8", "title": "From Middleware Engineer to Renowned UI Expert with Jhey Tompkins | My Roadmap #4" },
+    { "id": "9lS3slfJ0x0", "title": "Don't just learn, build | Announcing Projects on roadmap.sh" },
+    { "id": "EqMojzuKVWw", "title": "How I went from 0 to 370k GitHub Stars with Kamran Ahmed | My Roadmap #5" },
+    { "id": "NVObD4xHH8E", "title": "From Snowboarder to Dev Advocate with Chris Griffing | My Roadmap #6" }
+  ],
+  "playlists": [
+
+  ]
+}

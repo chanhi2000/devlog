@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "mathemaniac",
+    "name": "Mathemaniac",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lJX7SXAwcxlNdAQUZ1gsRSAo51zlfgX2Z-amQ2bKbypg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iK_fp5Vo1Hjh_4GOAW5NOM-n3gSQrLqPAapyiGdLNnBSA-MB3M3BP9IpmUG8Pz4C26elv3xxRw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ohrl3S2wcBU", "title": "But what IS action? Why minimise it?" },
+    { "id": "H6YofGjvZIQ", "title": "Euler's formula is actually an inequality" },
+    { "id": "tAEZlKVa3Ok", "title": "Why is 4-color theorem easier on a torus?" },
+    { "id": "m2Ba6Mlv1LY", "title": "The most important theorem in differential geometry: Gauss-Bonnet theorem" },
+    { "id": "UYiAlYlSwBo", "title": "How mathematicians describe curvature of surfaces" },
+    { "id": "Cvs8iRqG6lg", "title": "How physics solves a math problem (and a 3D graphics problem)" }
+  ],
+  "playlists": [
+
+  ]
+}

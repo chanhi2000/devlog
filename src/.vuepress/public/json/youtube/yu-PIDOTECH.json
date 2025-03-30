@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "PIDOTECH",
+    "name": "PIDOTECH Channel",
+    "profile": "https://yt3.googleusercontent.com/XV6bp8w_kZX2Go6IUq15ZCwj6Vh_oJx42u9tardd9azhzXEP_y6YNqnfACk8dkVQg7NohlTkM9o=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dl3NNh88YxFVHf7Xs_vuQgrBDiL96jqSlWL1iyI3snv5RYXk-9VM1Sb5LgkiISf2qC6Moxn11HA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "F3c1pTufGRE", "title": "[Technical Tips] Ep.25 AIDesigner sim/tab 보고서 민감도, 기여도 소개" },
+    { "id": "diuM8D5wa-w", "title": "[Technical Tips] Ep.23 Optimization 관련 Reference 보고서 소개" },
+    { "id": "nrn6bhJ-6FY", "title": "Ep.22 Screening 관련 Reference 보고서 소개" },
+    { "id": "vJ33tUHltlk", "title": "AIDesigner tab 사용법 01. 메타모델 기반 최적설계 수행하기" },
+    { "id": "L5O2QFsRdI8", "title": "[Technical Tips] Ep.19 PIAnO 2025 신기능 소개" },
+    { "id": "aMJ7cBHSlJw", "title": "[Technical Tips] Ep.17 근사식 관련 주의 사항" }
+  ],
+  "playlists": [
+
+  ]
+}

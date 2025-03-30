@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/yhtZmboInV1C9-at-GQMZIdmuJdQUpMnTsgf6BDz3kvtelPWrN6Fkh6wXkPn8gMh98CF6Ctn37s=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "41N5oni1ffQ", "title": "Get webhooks at localhost" },
     { "id": "DgVjEo3OGBI", "title": ".NET Microservices – Full Course" }, 
     { "id": "es8A7aw6Y5E", "title": "Publisher Subscriber Pattern - Build your own .NET Message Broker" }, 
     { "id": "5YB49OEmbbE", "title": ".NET 6 Minimal API Full Build" }, 

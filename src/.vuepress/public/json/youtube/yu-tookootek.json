@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/WxdPZu-4ivtMi0rFHE1BKARSJk7vKTSEIwJoAcY_9V0b2VhftreLq8PmKMbpRSI-kDkk--OyNw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pZOjCM4bnVQ", "title": "How to Install Anaconda - Python (2024)" },
+    { "id": "Kn5DLGUP9tE", "title": "How to Install Anaconda - Python (2024)" },
     { "id": "hq2i7rd0iow", "title": "[How to Install JDK | Visual Studio Code for Java on Windows 11 (2023) | Set `JAVA_HOME`" }, 
     { "id": "2M0L6w3tMOY", "title": "[JavaFX Tutorial | Search Bar and TableView filter result as you search" }, 
     { "id": "J0IE5LRyzx8", "title": "[JavaFX Tutorial | Login Screen with database connection (2021)" }, 

@@ -3728,5 +3728,12 @@
     "topics": ["nodejs", "fast", "json", "logger", "pino"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/0b9000c7b1e4106fb3b461ef80836f85c3b6e1cdaa84ed8dfb35164e2281409c/pinojs/pino"
+  }, {
+    "repo": "abinthomasonline/repo2txt",
+    "desc": "Web-based tool converts GitHub repository contents into a single formatted text file",
+    "officialSite": "https://repo2txt.simplebasedomain.com/",
+    "topics": ["ai", "devtools", "developer-tools", "llm", "chatgpt", "anthropic"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/891010387e183e35f8e4b2c0b5933bbc3b85be2ff18768df66fab9c6047ed587/abinthomasonline/repo2txt"
   }
 ]

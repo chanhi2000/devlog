@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "PythonicAccountant",
+    "name": "Pythonic Accountant",
+    "profile": "https://yt3.googleusercontent.com/HV4kEv9vD_zEBQr1PWC08X8X-uQj8ZHRTU-FgZUR9NLnPHBNNmJjbYOlcXcIdsu9_yKhYJX6CA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/smjLp1nMV2wG7b6dTTOMJfg2O6UWFyu47y9WmO0ulUS_-pfrPMeYFLKZhObgk3HOeuGXyRo-Cw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dPSl5y82JOY", "title": "[105] OpenAI Deep Research is Awesome!" },
+    { "id": "c_E2Cgmtq4g", "title": "[106] Claude Sonnet 3.7 makes a tax accountant simulator!" },
+    { "id": "4gRgKjk2WF8", "title": "[107] OpenAI LangChain Tutorial part 1 - build your first agent!" },
+    { "id": "ii3zZ9JPewY", "title": "[108] 🤖 AI + Templates = Perfect Meeting Minutes Every Time!" },
+    { "id": "sOHL5XsqcB0", "title": "[109] ChatGPT Operator controls my browser and tests stock purchase and sales!" },
+    { "id": "We7YMJHoEs8", "title": "[97] DeepSeek, OpenAI o3, and Claude try to create an accounting app with JavaScript" },
+    { "id": "N01gJ8Nr6iQ", "title": "[98] Google's Notebook LM: AI for YouTube video summaries!" },
+    { "id": "9wVF6K78-Rs", "title": "[99] Python OpenAI Tutorial - Video 1 - Getting Started!" },
+    { "id": "ce4AqqjmASk", "title": "[100] Claude vs ChatGPT: Battle of the AI Accountants! 🤖💼 | Python PDF Invoice Parser Challenge" },
+    { "id": "RrhLImE0Zf8", "title": "[101] Automate Word Documents with Python | Create Professional Reports in Seconds" },
+    { "id": "y_oh4EjU72Q", "title": "[102] AI Accountants are here! Testing ChatGPT, Claude & Others on Complex Accounting Problems" },
+    { "id": "4RwmrCn_5Rg", "title": "[103] Python OpenAI Tutorial - analyze income statements with Beavis and Butthead" },
+    { "id": "CTS8iAjakPI", "title": "[96] Boost Your Accounting Workflow with ChatGPT Tasks 🚀 | Automate Reminders & Research!" },
+    { "id": "yNNN5bj7mMg", "title": "[85] Claude Projects + Artifacts = cool interactive financial dashboards!" },
+    { "id": "PeUNSSMOjuQ", "title": "[84] Use GenAI as an accounting tutor!" },
+    { "id": "YudPr7_fPO0", "title": "[87] Building a Streamlit Python application - part 2" },
+    { "id": "OE8aG3Jb-HA", "title": "[86] Building a Python Streamlit App - Part 1" },
+    { "id": "BkL6JHBQJNo", "title": "[88] The AI Accounting Games - may the smartest model win!" },
+    { "id": "E-v-TAv5rJM", "title": "[89] Streamlit app part 3 - connecting to OpenAI API" },
+    { "id": "xCB3P2dbOuA", "title": "[90] Can GenAI do Accounting? See how the best models do!" },
+    { "id": "RFsuYX36cgc", "title": "[91] Llama 3.1 does some accounting! Comparing Meta's Llama models against the others!" }
+  ],
+  "playlists": [
+
+  ]
+}

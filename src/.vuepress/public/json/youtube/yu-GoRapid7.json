@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "OfficialRapid7",
+    "name": "Rapid7",
+    "profile": "https://yt3.googleusercontent.com/0TNCX0zj4BmgsPfMCA_Fauve2ihmo9sn-ryqNnrGt-YoHktZL7sPYbjgYw7oTkABajQ7kKu76w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QelCAouxB1JoCufUsn0dkoWcsq88zKyb6Chel-ZybzTfksjV0eydzXshBKuR4KInNcX5K1qs=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6pop39g5EgQ", "title": "Chapter 2-3  セキュリティ運用の現状と課題 ③" },
+    { "id": "dCglCiXcJOs", "title": "Chapter 2-4  セキュリティ運用の現状と課題 ④" },
+    { "id": "6VSuL6lroxI", "title": "How Evri went from manual to automated cybersecurity | Rapid7 Customer Story" },
+    { "id": "rS_D4IkVUhc", "title": "Chapter 3-3  「検出・対応」フェーズの対策①" },
+    { "id": "F6Thws_q2GE", "title": "Chapter 4-3  「予防・防止」フェーズの重要な ASMの考え方" },
+    { "id": "MkHOsK8gHvg", "title": "Chapter 4-4  「予防・防止」フェーズで活躍するInsight VM、CloudSec, AppSec, Thread command" },
+    { "id": "yeDFpSelteg", "title": "Spot Security Control Gaps and Non-Compliant Resources Across Your Attack Surface" },
+    { "id": "tD0Ol87QsLs", "title": "Maintain a Single Source of Truth for your Digital Estate" },
+    { "id": "fiju67-HQ7A", "title": "Understand Potential Blast Radius and Attackers' Cloud Network Spot Avenues" },
+    { "id": "hF1g_ebdDtM", "title": "Identify Accounts Without MFA Enabled Across Your Organization" },
+    { "id": "R9PmsLrDr0M", "title": "Measure Security Data Accuracy and Quality with Rapid7 Exposure Command" },
+    { "id": "LbHH7_QcB5o", "title": "Exposure Command by Rapid7" },
+    { "id": "X6sbrnqKQ6M", "title": "Discover Rapid7 Managed Detection & Response" },
+    { "id": "Bqi-fG21A2c", "title": "Chapter 1-2 Recent Changes in IT Infrastructure and Applications" },
+    { "id": "fIsmA1wx0P4", "title": "Chapter 1-3 Recent Changes in Companies, IT Departments, Seacert's Role" },
+    { "id": "8iMh6OYJW7c", "title": "Chapter 1-4  昨今の政府関連の策定したセキュリティガイドラインを読み解く（国内編）" },
+    { "id": "jvx0hO1uLEE", "title": "Chapter 1-5  昨今の政府関連の策定したセキュリティガイドラインを読み解く（海外編）" },
+    { "id": "j_gVcCXdxO0", "title": "Chapter 2-1 セキュリティ運用の現状と課題①" }
+  ],
+  "playlists": [
+
+  ]
+}

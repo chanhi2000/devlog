@@ -2237,11 +2237,11 @@
     "banner": ""
   }, {
     "repo": "TabbyML/tabby",
-    "desc": "Self-hosted AI coding assistant",
-    "officialSite": "https://tabby.tabbyml.com/",
-    "topics": ["ai", "codegen", "coding-assistant", "coding-language", "developer-experience", "developer-tools", "gen-ai", "ide", "llms"],
-    "avatar": "https://avatars.githubusercontent.com/u/125617854?v=4",
-    "banner": ""
+    "desc": "Self-hosted AI coding assistant.",
+    "officialSite": "https://tabbyml.com",
+    "topics": ["ai", "ide", "developer-tools", "codegen", "developer-experience", "coding-language", "coding-assistant", "llms", "gen-ai"],
+    "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
+    "banner": "https://opengraph.githubassets.com/50f5b32919573c255dfb5ef49af5c4a845c85541cc06947e00ed270d686939bc/TabbyML/tabby"
   }, {
     "repo": "nashaofu/node-screenshots",
     "desc": "Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.",

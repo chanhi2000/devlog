@@ -744,11 +744,6 @@
     "topics": [],
     "officialSite": ""
   }, {
-    "repo": "mlc-ai/web-llm",
-    "desc": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
-    "topics": ["deep-learning", "language-model", "webgpu", "tvm", "webml", "llm", "chatgpt"],
-    "officialSite": "https://mlc.ai/web-llm"
-  }, {
     "repo": "pengzhile/pandora",
     "desc": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
     "topics": ["python", "php", "gpt-4", "chatgpt", "gpt-35-turbo-0301", "chatgpt-plus", "gpt-35-burbo"],
@@ -1221,11 +1216,6 @@
     "desc": "Interactive Data Visualization in the browser, from Python",
     "topics": ["visualization", "javascript", "python", "plots", "jupyter", "visualisation", "data-visualisation", "bokeh", "plotting", "notebooks", "interactive-plots", "numfocus"],
     "officialSite": "https://bokeh.org"
-  }, {
-    "repo": "openai/whisper",
-    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
-    "topics": [],
-    "officialSite": ""
   }, {
     "repo": "huggingface/text-generation-inference",
     "desc": "Large Language Model Text Generation Inference",

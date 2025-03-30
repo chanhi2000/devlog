@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/PC_c4rYZsAsg3rBMtj1WaBxL0_vk7nrHiN8PR8GfDxMot5pYa3Z1vhTjZPUQMndXx8s3tZ4btg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jW3qjVTQl6Y", "title": "How to Use DigitalOcean Spaces in Laravel & FilamentPHP | How to Use Laravel S3 Bucket" },
+    { "id": "f2s60YVkkhA", "title": "What are the Must Known Laravel Model Conventions? | Laravel Models 101: for Beginners #laravel" },
+    { "id": "Lxjfa-ZCIkg", "title": "How to Use Full Text Indexes for beginners | Full Text Indexing in Laravel for Beginners #laravel" },
     { "id": "voAZWYRYC7I", "title": "How to Easily Add Global Key Bindings in FilamentPHP #filamentphp #shorts" },
     { "id": "eWIRI9DaoxA", "title": "How to Easily Create Custom Laravel Nova Fields - Advanced Laravel Nova Tutorial" },
     { "id": "mKOcGi4wE0Q", "title": "How to Make Dependent Select Options Based By Another Select Option in FIlamentPHP" },

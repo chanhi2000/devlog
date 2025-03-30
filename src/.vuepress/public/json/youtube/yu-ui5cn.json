@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/ZVnb02CmioJouc6QHEYXQFY5i6kz1RvcW7RVRMmJQyYbehlCZjw3w_pmkEB_8lMOk3POUu8dSiE=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OCW5BBav6hg", "title": "SAP® BTP Integration Suite - Getting Started with Why | SAP® BTP CI in BTP | SAP® Cloud Integration" },
+    { "id": "hK_oMDFAw88", "title": "Create oData V4 API from SAP®&nbsp;CAPM App | Basic SAP®&nbsp;CAPM App oData V4 Service" },
+    { "id": "1ry1ssbc1DE", "title": "Build and Deploy SAPUI5 App to SAP®&nbsp;BTP Using BAS | Build Work Zone in SAP® BTP" },
+    { "id": "0WHRmJ0Ci-Q", "title": "S/4 HANA®&nbsp;Cloud and S/4 HANA® On-Premise Versions Naming Convention" },
+    { "id": "vtYiwsBZv0g", "title": "3 Runtime Stages of ABAP®&nbsp;Restful Application Framework in Managed Scenario | ABAP® RAP Managed" },
+    { "id": "j5sJb_akuO0", "title": "SAP® BTP Role Management in SAPUI5 App | XS Security JSON | Role Template | SAP® BTP Build Work Zone" },
+    { "id": "xEoG6UYyPF4", "title": "Getting Started with Cloud Foundry | SAP® BTP Cloud Foundry | Personal Cloud Foundry" },
     { "id": "jMtZtewUhDc", "title": "Understanding Viz in UI5: Basics, Overview, Measures and Dimension" }, 
     { "id": "w1nSZVY6weM", "title": "AngularJS App in 59 min From Scratch (2017 - 2018)" }, 
     { "id": "FXI7DmTnuA0", "title": "SAPUI5 Getting Started | SAPUI5 Application Beginner | SAPUI5 App Component | SAPUI5 Tutorial" }

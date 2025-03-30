@@ -191,14 +191,16 @@ Copy and Paste the following to the Powershell Prompt
 ```powershell
 scoop bucket add extras
 scoop install 7zip cheat hyperfine fastfetch nu `
-oh-my-posh terminal-icons tokei watchman git lazygit
+oh-my-posh terminal-icons tokei watchman git lazygit `
+lazydocker
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
 
 ```batch
 scoop install 7zip cheat hyperfine fastfetch nu ^
-oh-my-posh terminal-icons tokei watchman git lazygit
+oh-my-posh terminal-icons tokei watchman git lazygit ^
+lazydocker
 ```
 
 :::
@@ -236,17 +238,26 @@ oh-my-posh terminal-icons tokei watchman git lazygit
 :: - 레지스트리에서 \HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor경로 이동
 :: - 키 생성 (문자열)
 ::   - 이름: AutoRun
-::   - 값: alias.cmd를 저장한 절대경로 (이 경로가 PATH_ALAIS_HOME값과 같아야 함)
+::   - 값: alias.cmd를 저장한 절대경로 (이 경로가 PATH_ALIAS_HOME값과 같아야 함)
 ::
 :: REG ADD "HKCU\SOFTWARE\Microsoft\Command Processor" /v AutoRun /t REG_SZ /d D:\alias.cmd
 ::
 
 :: 사용자 설정 경로 (필수)
-REM SET PATh_ALAIS_HOME=%USERPROFILE%
+SET PATH_ALIAS_HOME=%USERPROFILE%
 SET ALIAS_FNAME=alias.cmd
-SET PATH_ALAIS_HOME=D:\%ALIAS_FNAME%
-SET PATH_ONNARA_ANDROID=D:\development\android\OnnaraMobileAndroid
 
+SET PATH_PUB=C:\Users\Public\Documents
+SET PATH_DEV=C:\development
+SET PATH_DEV_ITITCLOUD=%PATH_DEV%\ititcloud
+SET PATH_DEV_RUTIL_VM=%PATH_DEV_ITITCLOUD%\rutil-vm
+SET DOCKER_TAG_RUTIL_VM=ititcloud/rutil-vm
+SET DOCKER_TAG_RUTIL_VM_API=ititcloud/rutil-vm-api
+SET DOCKER_TAG_RUTIL_VM_WSPROXY=ititcloud/rutil-vm-wsproxy
+SET DOCKER_TAG_RUVIL_VM_API_VERSION=0.2.4
+SET DOCKER_TAG_RUTIL_VM_CURRENT=%DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+SET DOCKER_TAG_RUTIL_VM_API_CURRENT=%DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+SET DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT=%DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
 :: alias 사용법 설명
 ECHO.
 ECHO.
@@ -254,9 +265,11 @@ ECHO ===================================================
 ECHO                ENVIRONMENT VARIABLES
 ECHO ===================================================
 ECHO.
-ECHO. [PATH_ALAIS_HOME]: %PATH_ALAIS_HOME%
-ECHO. [PATH_ONNARA_ANDROID]: %PATH_ONNARA_ANDROID%
+ECHO. [PATH_ALIAS_HOME]: %PATH_ALIAS_HOME%
 ECHO. [PATH_DEV]: %PATH_DEV%
+ECHO. [DOCKER_TAG_RUTIL_VM]: %DOCKER_TAG_RUTIL_VM%
+ECHO. [DOCKER_TAG_RUTIL_VM_API_CURRENT]: %DOCKER_TAG_RUTIL_VM_API_CURRENT%
+ECHO. [DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT]: %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT%
 ECHO.
 ECHO ===================================================
 ECHO                      Aliases
@@ -265,73 +278,106 @@ ECHO.
 ECHO [cdd] - go to development directory
 ECHO [l] - list file(s) in the working directory
 ECHO [ls] - list file(s) in the working directory (simple)
+ECHO [rm] - delete file(s)
 ECHO [pwd] - print working directory
 ECHO [clear] - clear console screen
 ECHO [open] - open directory in Windows Explorer
 ECHO.
-ECHO [g] - git
+ECHO [gv] - git --version
 ECHO [gs] - git status
 ECHO [gss] - git status --short
 ECHO [ga] - git add ...
 ECHO [gc] - git commit  ...
 ECHO [gb] - git branch -vv ...
+ECHO [gbn] - git checkout -b ...
 ECHO [gco] - git checkout ...
+ECHO [gm] - git merge ...
 ECHO [gf] - git fetch  ...
 ECHO [glg] - git log  ...
 ECHO [gt] - git tag ...
 ECHO [gp] - git push  ...
-ECHO [gpl] - git pull  ...
+ECHO [gl] - git pull  ...
 ECHO. 
 ECHO [cddc] - change directory to `%PATH_DEV%\chanhi200` ....
 ECHO [cddi] - change directory to `%PATH_DEV%\ititcloud`...
 ECHO.
-ECHO. 
+ECHO [lg] - lazygit
 ECHO [scrcpyDefault] - run scrcpy with default settings
 ECHO [scrcpyRec] - run scrcpy showing touches
 ECHO [killTestbed] - kill testbed agent using adb
-ECHO. 
-ECHO. 
+ECHO.
+ECHO [dl] - docker logs -f ...
+ECHO [di] - docker images ...
+ECHO [dx] - docker exec -it ...
+ECHO [drmi] - docker rmi ...
+ECHO [buildDk] - build rutil-vm-api
+ECHO [saveDk] - save rutil-vm-api
+ECHO.
 ECHO [alias] - alias configure
 ECHO.
 
 
 :: Commands
-@DOSKEY cdd=CD %PATH_DEV% ^&^& EXPLORER .
+@DOSKEY cdp=CD %PATH_PUB%
+@DOSKEY cdd=CD %PATH_DEV%
 @DOSKEY l=DIR /O $*
 @DOSKEY ls=DIR /B $*
+@DOSKEY rm=DEL /S $*
 @DOSKEY pwd=ECHO %%cd%%
 @DOSKEY clear=CLS
 @DOSKEY open=EXPLORER $*
 
 :: git
-@DOSKEY g=git $*
+@DOSKEY gv=git --version $*
 @DOSKEY gs=git status $*
 @DOSKEY gss=git status --short $*
 @DOSKEY ga=git add $*
 @DOSKEY gc=git commit $*
 @DOSKEY gb=git branch -vv $*
+@DOSKEY gbn=git checkout -b $* 
 @DOSKEY gco=git checkout $*
+@DOSKEY gm=git merge $*
 @DOSKEY gf=git fetch $*
 @DOSKEY glg=git log --abbrev-commit --graph --pretty=format:"%%Cred%%h%%Creset %%C(yellow)%%d%%Crest %%s %%Cgreen(%%cr) %%C(bold blue) %%an %%Creset" $*
 @DOSKEY gt=git tag $*
 @DOSKEY gp=git push $*
-@DOSKEY gpl=git pull $*
+@DOSKEY gl=git pull $*
 
 
 :: 개발환경 구성
 :: @DOSKEY cddc=CD %PATH_DEV%\chanhi2000 && EXPLORER . ^&^& $*
 :: @DOSKEY cddi=CD %PATH_DEV%\ititcloud && EXPLORER . ^&^& $*
-@DOSKEY cddc=CD %PATH_DEV%\chanhi2000 ^&^& EXPLORER .
-@DOSKEY cddi=CD %PATH_DEV%\ititcloud ^&^& EXPLORER .
-:: @DOSKEY cddi=code %PATH_ONNARA_ANDROID%\onnara01\src\main\assets $*
+@DOSKEY cddc=CD %PATH_DEV%\chanhi2000
+@DOSKEY cddi=CD %PATH_DEV_ITITCLOUD%
+@DOSKEY lg=lazygit
+
+@DOSKEY m3u8Get=ffmpeg -protocol_whitelist https,tls,tcp -allowed_extensions
 
 :: ADB 및 안드로이드 관련
 @DOSKEY scrcpyDefault=scrcpy -m 1024 --always-on-top
 @DOSKEY scrcpyRec=scrcpy -m 1024 --always-on-top --show-touches
 @DOSKEY KillTestbed=adb shell am force-stop kr.go.mobile.testbed.iff
 
+:: RutilVM 프로젝트 관련
+@DOSKEY dp=docker ps -a $*
+@DOSKEY dl=docker logs -f $*
+@DOSKEY di=docker images $*
+@DOSKEY dx=docker exec -it $*
+@DOSKEY drmi=docker rmi $*
 
-@DOSKEY alias=notepad %PATH_ALAIS_HOME%
+@DOSKEY drmib=docker rmi %DOCKER_TAG_RUTIL_VM_API_CURRENT% $*
+@DOSKEY buildDkb=docker build -t %DOCKER_TAG_RUTIL_VM_API_CURRENT% %PATH_DEV_RUTIL_VM%\back
+@DOSKEY saveDkb=docker save -o api.tar %DOCKER_TAG_RUTIL_VM_API_CURRENT%
+
+@DOSKEY drmif=docker rmi %DOCKER_TAG_RUTIL_VM_CURRENT% $*
+@DOSKEY buildDkf=docker build -t %DOCKER_TAG_RUTIL_VM_CURRENT% %PATH_DEV_RUTIL_VM%\front
+@DOSKEY saveDkf=docker save -o web.tar %DOCKER_TAG_RUTIL_VM_CURRENT%
+
+@DOSKEY drmiw=docker rmi %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT% $*
+@DOSKEY buildDkw=docker build -t %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT% %PATH_DEV_RUTIL_VM%\wsproxy
+@DOSKEY saveDkw=docker save -o wsproxy.tar %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT%
+
+@DOSKEY alias=subl %PATH_ALIAS_HOME%\%ALIAS_FNAME%
 ```
 
 ### E4. <FontIcon icon="iconfont icon-powershell"/>`Microsoft.PowerShell_profile.ps1`
@@ -352,8 +398,19 @@ ECHO.
 
 # 사용자 설정 경로
 $env:PATH_ALAIS_HOME = $profile
+
+$env:PATH_PUB = "C:\Users\Public\Documents"
 $env:PATH_DEV = "C:\development"
-$env:PATH_RUTIL = "$env:PATH_DEV"
+$env:PATH_DEV_ITITCLOUD = "$env:PATH_DEV/ititcloud"
+$env:PATH_DEV_RUTIL_VM = "$env:PATH_DEV_ITITCLOUD/rutil-vm"
+$env:DOCKER_TAG_RUTIL_VM = "ititcloud/rutil-vm"
+$env:DOCKER_TAG_RUTIL_VM_API = "ititcloud/rutil-vm-api"
+$env:DOCKER_TAG_RUTIL_VM_WSPROXY = "ititcloud/rutil-vm-wsproxy"
+$env:DOCKER_TAG_RUVIL_VM_API_VERSION = "0.2.4"
+$env:DOCKER_TAG_RUTIL_VM_CURRENT = "${env:DOCKER_TAG_RUTIL_VM}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+$env:DOCKER_TAG_RUTIL_VM_API_CURRENT = "${env:DOCKER_TAG_RUTIL_VM_API}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+$env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT = "${env:DOCKER_TAG_RUTIL_VM_WSPROXY}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+
 $env:GIT_LOG_FORMAT_DEFAULT = "%Cred%h%Creset %C(yellow)%d%Crest %s %Cgreen(%cr) %C(bold blue) %an %Creset"
 
 Write-Host @"
@@ -362,39 +419,62 @@ Write-Host @"
 ===================================================
 
 [PATH_ALAIS_HOME]: $profile
-[PATH_ONNARA_ANDROID]: $env:PATH_ONNARA_ANDROID
-[GIT_LOG_FORMAT_DEFAULT]: $env:GIT_LOG_FORMAT_DEFAULT
+[PATH_DEV]: $env:PATH_DEV
+[DOCKER_TAG_RUTIL_VM_API]: $env:DOCKER_TAG_RUTIL_VM_API
+[DOCKER_TAG_RUTIL_VM_API_CURRENT]: $env:DOCKER_TAG_RUTIL_VM_API_CURRENT
+[DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT]: $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT
+
 
 ===================================================
                      Aliases
 =================================================== 
 
-ECHO [open] - open directory in Windows Explorer
-
 [cdd] - go to development directory
-[cdWHA] - change directory to OnnaraMobileAndroid ...
-[codeHWAW1] - open VSCode for `onnara01\src\main\assets`
-[codeHWAW2] - open VSCode for `onnara02\src\main\assets` 
+[open] - open directory in Windows Explorer
 
-[g] - git
+[gv] - git --verion
 [gs] - git status
 [gss] - git status --short
 [ga] - git add ...
 [gc] - git commit  ...
 [gb] - git branch -vv ...
+[gbn] - git checkout -b ...
+[gco] - git checkout ...
+[gm] - git merge ...
 [gf] - git fetch  ...
 [glg] - git log  ...
 [gp] - git push  ...
-[gpl] - git pull  ...
+[gl] - git pull  ...
 
 [cddc] - change directory to $env:PATH_DEV\chanhi200 ....
 [cddi] - change directory to $env:PATH_DEV\ititcloud ...
 
+[lg] - lazygit
+[m3u8Get <SOURCE> <OUTPUT>] - convert m3u8 to media output (*.avi, *.mp4, ...)
+
+[chcl] - choco list
+[chci] - choco install -y <PACKAGE_NAME>
+[chcu] - choco upgrade -y <PACKAGE_NAME>
+
+[scl] - scoop list
+[sci] - scoop install -y <PACKAGE_NAME>
+[scu] - scoop update <PACKAGE_NAME>
+
 [scrcpyDefault] - run scrcpy with default settings
 [scrcpyRec] - run scrcpy showing touches
 [killTestbed] - kill testbed agent using adb
- 
- 
+
+[dp] - docker ps -a ... 
+[dl] - docker logs -f ...
+[di] - docker images ...
+[dx] - docker exec -it <CONTAINER> <EXECUTABLE>
+[drmi] - docker rmi ...
+[dx] - docker exec -it ...
+[buildDkb] - build rutil-vm-api
+[saveDkb] - save rutil-vm-api ...
+[buildDkf] - build rutil-vm
+[saveDkf] - save rutil-vm ...
+
 [alias] - alias configure
 "@
 
@@ -423,11 +503,12 @@ $GitPromptSettings.AfterStatus.ForegroundColor = [ConsoleColor]::Blue
 
 
 # git
-function checkGit() {
+function gv() { git --version }
+function g()
+{
     $Null = (git --version)
     if ($lastExitCode -ne "0") { throw "Can't execute 'git' - make sure Git is installed and available" }
 }
-function g() { git }
 function gs() { git status }
 function gss() { git status --short }
 function ga() 
@@ -441,7 +522,24 @@ function gc()
     git commit $flags
 }
 function gb() { git branch -vv }
-function gf() 
+function gbn() {
+    param(
+        [string] $targetBranch="main"
+    )
+    git checkout -b $targetBranch
+}
+function gco() {
+    param(
+        [string] $targetBranch="main"
+    )
+    git checkout $targetBranch
+}
+function gm() {
+    param([string] $targetBranch="main")
+    git merge $targetBranch
+}
+
+function gf()
 { 
     param([string] $targetRepo="origin")
     git fetch $targetRepo
@@ -458,7 +556,7 @@ function gp()
     )
     git push $targetRepo $targetBranch
 }
-function gpl() w
+function gl() 
 { 
      param(
         [string] $targetRepo="origin", 
@@ -469,26 +567,102 @@ function gpl() w
 
 
 # 개발환경 구성
+function cdp() { cd $env:PATH_PUB }
 function cdd() { cd $env:PATH_DEV }
-function cddc() { cd "$env:PATH_DEV\chanhi2000"; explorer . }
-function cddi() { cd "$env:PATH_DEV\ititcloud"; explorer . }
-function codeHWAW1() { code "$env:PATH_ONNARA_ANDROID\onnara01\src\main\assets" }
-function codeHWAW2() { code "$env:PATH_ONNARA_ANDROID\onnara02\src\main\assets" }
+function open() { 
+    param([string] $location=".")
+    explorer $param
+}
+function cddc() { cd "$env:PATH_DEV\chanhi2000"; }
+function cddi() { cd "$env:PATH_DEV_ITITCLOUD"; }
+function lg() { lazygit }
 
-
+function m3u8Get() {
+    param(
+        [string] $source=".",
+        [string] $output="."
+    )
+    ffmpeg -protocol_whitelist https,tls,tcp -allowed_extensions ALL -i $source -bsf:a aac_adtstoasc -c copy $output
+}
+#
+# choco 관련 aliases
+#
+function chcl() { choco list }
+function chci() { 
+    param(
+        [string] $p=""
+    )
+    choco install -y $p
+}
+function chcu {
+    param(
+        [string] $p=""
+    )
+    choco upgrade -y $p
+}
+#
+# scoop 관련 aliases
+#
+function scl() { scoop list }
+function sci() {
+    param(
+        [string] $p=""
+    )
+    scoop install -y $p
+}
+function scu {
+    param(
+        [string] $p=""
+    )
+    scoop update $p
+}
 # ADB 및 안드로이드 관련
 function scrcpyDefault() { scrcpy -m 1024 --always-on-top }
 function scrcpyRec() { scrcpy -m 1024 --always-on-top --show-touches }
 function killTestbed() { adb shell am force-stop kr.go.mobile.testbed.iff }
 
-function alias() { notepad $profile }
+# RutilVM 프로젝트 관련
+function dp() { docker ps -a }
+function di() { docker images }
+function dl() { 
+    param(
+        [string] $c=""
+    )
+    docker logs -f $c
+}
+function dx() { 
+    param(
+        [string] $c="",
+        [string] $x=""
+    )
+    docker exec -it $c $x
+}
+function drmi() { 
+    param(
+        [string] $image=""
+    )
+    docker rmi $image
+}
+function drmib { docker rmi $env:DOCKER_TAG_RUTIL_VM_API_CURRENT }
+function buildDkb { docker build -t $env:DOCKER_TAG_RUTIL_VM_API_CURRENT $env:PATH_DEV_RUTIL_VM\back }
+function saveDkb { docker save -o api.tar $env:DOCKER_TAG_RUTIL_VM_API_CURRENT }
+
+function drmif { docker rmi $env:DOCKER_TAG_RUTIL_VM_CURRENT }
+function buildDkf { docker build -t $env:DOCKER_TAG_RUTIL_VM_CURRENT $env:PATH_DEV_RUTIL_VM\front }
+function saveDkf { docker save -o web.tar $env:DOCKER_TAG_RUTIL_VM_CURRENT }
+
+function drmiw { docker rmi $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT }
+function buildDkw { docker build -t $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT $env:PATH_DEV_RUTIL_VM\wsproxy }
+function saveDkw { docker save -o wsproxy.tar $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT }
+
+function alias() { subl $profile }
 
 # 후처리
 $env:PATH += ";$env:UserProfile\scoop\apps\oh-my-posh\current\bin"
 oh-my-posh --init --shell pwsh --config "$env:UserProfile\scoop\apps\oh-my-posh\current\themes\agnoster.omp.json" | Invoke-Expression
 fnm env --use-on-cd | Out-String | Invoke-Expression
+Import-Module Terminal-Icons
 fastfetch
-cdd
 ```
 
 ---

@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Ef2XaeL0150ZPelQNUfS1Hnx-EsQBYsR_S1G_F0nAYZq0XcJuz38tCDCUiFKGPk9LPsj0rSJQA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "g8Eejnqm4Tg", "title": "Best Coding Platform for Data Engineers - Solve Real-World Interview Questions" },
+    { "id": "LRqmFX6mOM0", "title": "Next Big Thing for Data Engineers - Open Table Formats 🚀 (Apache Iceberg, Hudi, Delta Tables)" },
+    { "id": "KIqteLTVLy8", "title": "Building Your First Data Engineering Portfolio: A Step by Step Guide (2024)" },
+    { "id": "hf2go3E2m8g", "title": "Fundamentals Of Data Engineering Masterclass" },
+    { "id": "FB4_y25Iifw", "title": "Learn Apache Airflow for Data Engineering with 5 Projects" },
     { "id": "XnPF-MDMUzc", "title": "You're not stupid: How to learn difficult things | Complete Guide" },
     { "id": "JUws0cMnL78", "title": "What Does a Data Engineer Do? Explained Simply" },
     { "id": "Ydts27Qa8H0", "title": "Learn Kafka in 10 Minutes | Most Import Skill for Data Engineering" },

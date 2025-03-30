@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/J4QLOyvXrGS4eAEq9yOBiDDSmv0gHuxbYlpRriXiAg9FzpERWfR9J2fM-QI7RBzUO8Z0JyRq=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "-V203i5QiAI", "title": "CLI for scaffolding full stack JS apps just dropped (Next.js, Prisma, Drizzle, Auth.js and more)" },
+    { "id": "XEQEAIU-J2Q", "title": "Postgres multi-tenant architecture for AI apps (database per user/workspace/org)" },
     { "id": "JHM43yDdJ_Q", "title": "Postgres on Neon: a new approach to database development" },
     { "id": "6XezQQJGdjI", "title": "Ship better apps with this CI/CD flow" },
     { "id": "Uz6ZGTJrlBA", "title": "This Postgres Driver Is Perfect for Serverless Apps" },

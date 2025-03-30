@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/O8GNQeg8gamZpTkRr2ziNCJYjfdh3jco00g1JpQAjd-9zvJBlk8AMtJW-4JnsJ4fxekPJVFH=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "75XOKMl2l04", "title": "Spring Boot & React Project | New Series Launch" },
+    { "id": "pRMM3OpPcpI", "title": "Spring Boot React Project - DB, Docker Compose setup with Environment variables | Entities & DTOs" },
+    { "id": "Lz0lhNeSVyg", "title": "Spring Boot React Project - File Handling | Upload File | Get File" },
+    { "id": "dTfnpfr3OSw", "title": "Spring Boot React Project - Building important logic in Multipart Request" },
+    { "id": "1d5BaN7NILo", "title": "Spring Boot React Project - Update & Delete API" },
+    { "id": "yWAUcVavka4", "title": "Angular Frontend Series - Final Part | CRUD operations | Forgot Password" },
+    { "id": "9QzQpwIUjbY", "title": "TECH STACK For 2025 | Happy New Year Everyone" },
+    { "id": "yfaWQkemseg", "title": "Movie-App Full Stack Project for Beginners 2025" },
+    { "id": "qusSoae-OTs", "title": "Angular Frontend Series - Part 1 | Login & Register | Auth Guard | Signals" },
+    { "id": "qIcizQjdSoA", "title": "Angular Frontend Series - Part 2 | Refresh Token | Interceptors" },
     { "id": "9hAxistRv9E", "title": "What's Coming Up? Content and Series" },
     { "id": "XrdWv5M7Ua4", "title": "Project Setup - Spring Boot + MongoDB Series" },
     { "id": "TrFGNEEdyNE", "title": "Lambda in KOTLIN | Function as Parameter & Argument | Trailing Lambda" },

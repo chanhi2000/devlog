@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/D8fhq001Aiaw3GF7roX6tesMz2f9YegrpzuVxDUirXHrczb3HWt1I7THi5z2TJJs5mZ4g578jJw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "U-_qFvlf7wI", "title": "How to Make Your Mac Terminal Beautiful" },
+    { "id": "Mc19pB784Us", "title": "ViewComponent Crash Course with Ruby on Rails" },
+    { "id": "XkOYBFETbjI", "title": "Easy Magic Links with Ruby on Rails" },
+    { "id": "xEC0A-QZQFc", "title": "Hello Hotwire - Free Course - Full Version" },
+    { "id": "hZ52XjlpcF0", "title": "8 Unwritten Rules of Web Development" },
     { "id": "dZrtm0Z7NR8", "title": "Building Turbo Loading Buttons in Rails: A Step-by-Step Guide" },
     { "id": "_qp8r9uBtqk", "title": "Turbo Frames versus Turbo Streams: What’s the difference?" },
     { "id": "A2-mc_sfw_o", "title": "ES6 JavaScript Countdown Tutorial" },

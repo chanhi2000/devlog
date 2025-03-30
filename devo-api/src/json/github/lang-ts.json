@@ -4269,13 +4269,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "mlc-ai/web-llm",
-    "desc": "High-performance In-browser LLM Inference Engine",
-    "officialSite": "https://webllm.mlc.ai",
-    "topics": ["chatgpt", "deep-learning", "language-model", "llm", "tvm", "webgpu", "webml"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "Effect-TS/effect",
     "desc": "An ecosystem of tools to build robust applications in TypeScript.",
     "officialSite": "https://effect.website",

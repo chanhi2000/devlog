@@ -1,11 +1,24 @@
 {
   "channel": {
     "id": "hongdroid94",
-    "name": "hongdroid홍드로이드",
+    "name": "홍드로이드",
     "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mIHRLivEzd9N-qTDzF6REgx2oFT1ALkkQbnlIr2uZ6eg=s72-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/qGR_1HPkWWErJf5OSbCLictsOKoeUmhBvQ3_wGiwMIP5bIAB241KLAxV9exwBtwelgSuY9cAaxk=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Bv8dkhJ-iOM", "title": "6년차 개발자의 AI 도구 2년 사용 후기 5가지 정리 | ChatGPT, Claude, Cursor, Gemini, AI, 개발자" },
+    { "id": "rgU3y-sYQm0", "title": "개발자의 다양한 직군들을 소개합니다 | 개발자 포지션 총정리" },
+    { "id": "6-j9-xdATuQ", "title": "Cursor AI 에디터로 개발 초기세팅 날먹하는 미친 방법 | 디자인 패턴, 클린 아키텍쳐, 디자인 시스템, 상태관리" },
+    { "id": "He6AxfkP4Hw", "title": "개발자로 이뤄낼 수 있는 수익화 루트 대공개 (개발자 부업의 세계)" },
+    { "id": "w1WFSJ1jiT4", "title": "협업 프로젝트를 100% 성공으로 이끄는 최고의 방법들 | 사이드 프로젝트, 협업, 개발자" },
+    { "id": "UgsUdEHUhBQ", "title": "IT 커뮤니티 미라클 코딩클럽 모임 소개 | 개발자, 디자이너, 기획자, 창업가, 취준생, 대학생" },
+    { "id": "ZBpsTFXL-MY", "title": "조코딩 Gemini 활용 웹앱 서비스 개발 AI 해커톤 !! 8/4 까지 제출 드가자~" },
+    { "id": "2-Db0GvB-f0", "title": "AI의 시대가 도래함에 따라 우리가 가져야 하는 마음 가짐 | ChatGPT / AI / Claude / Cursor AI" },
+    { "id": "CogzWECLhF8", "title": "[Udemy 신규 강의 소개] 홍드로이드의 AI 도구를 활용한 학습부터 웹 & 앱 서비스 개발까지 한번에 | ChatGPT, Claude, Cursor, Flutter" },
+    { "id": "IUhQf1VZXz0", "title": "Code With Me - Cursor + Flutter" },
+    { "id": "bpdXlNZatcA", "title": "모바일 앱 개발자 6년차 회고 | 홍드로이드" },
+    { "id": "vVY7eWqzu08", "title": "홍드로이드(개발자)의 킬링보이스를 라이브로! | 플라워 - 눈물 (Cover)" },
+    { "id": "pzLb11hU-eU", "title": "Code With Me - Cursor + Flutter" },
     { "id": "YtWFgUn1gjg", "title": "어마무시한 개발툴을 소개합니다 (web ide) Project IDX" },
     { "id": "ySYVMezgN70", "title": "제목은 특이점이 온 개발 프로그램으로 하겠습니다 근데 AI를 곁들인.." },
     { "id": "tV91KOVZAmE", "title": "안드로이드 코틀린 문법 #6 if문 (제어문) - 쉽게 앱 만드는 방법 (현직 개발자 설명) , android kotlin syntax tutorial" },

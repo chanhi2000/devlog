@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/Dw2MLusvct2HBkkfsAIZjGR0zKLMgJEvZXoiS3b4oD_zJCkJxZpW-bYjieYulFrZXDU5pD1KNA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "2T86xAtR6Fo", "title": "Complete Kubernetes Course - From BEGINNER to PRO" },
     { "id": "6TpXObxxFOU", "title": "Deploy Containers on Kubernetes (Docker Beginner to Pro - BONUS VIDEO)" },
     { "id": "Jk0xrN4crqg", "title": "Should you Self-Host Kubernetes?" },
     { "id": "RqTEHSBrYFw", "title": "Complete Docker Course - From BEGINNER to PRO! (Learn Containers)" },

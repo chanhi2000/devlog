@@ -4,6 +4,7 @@ title: Environment Setup
 description: macOS > Environment Setup
 icon: fas fa-toolbox
 category:
+  - Apple
   - macOS
   - Environment Setup
 tag: 
@@ -71,7 +72,7 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat clipgrab cocoapods exiftool ffmpeg fizz flac git lazygit \
-  hyperfine mas fastfetch nushell fnm openssl pixman \
+  hyperfine mas fastfetch nushell fnm openssl pixman lazydocker \
   python poetry rust scrcpy starship tmux tokei watchman \
   wget xz zsh mac-cleanup-py;
 brew install koekeishiya/formulae/yabai;
@@ -390,6 +391,9 @@ lg() {
     cd "$(cat $LAZYGIT_NEW_DIR_FILE)"
     rm -f $LAZYGIT_NEW_DIR_FILE > /dev/null
   fi
+}
+ld() {
+  ld "$@"
 }
 # Configure Dev
 export PATH_DEV=$HOME/../Shared/development

@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "NetworkAdminLife",
+    "name": "Network Admin Life",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kvZHJCGPDRALninnMrqAXRYZnJ1B97rfKZd9V50gQmQac=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2xyoZvsGKt1wwGWn80M-FAl72eSSwiwCEiMbBGG2khCCfBNNok5Ph8XXxQbKZ_i6M0PmP7Hx=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "VAbn0mCll1s", "title": "Network Admin Life - MLT to the firewall" },
+    { "id": "UcL58-XDj7Y", "title": "Network Admin Life - Routing problem... Probably." },
+    { "id": "cXRp7EXYgQs", "title": "Network admin live wireless project kickoff" },
+    { "id": "k0lHm9RyFIg", "title": "Network Admin Life - Authorizing an AP on my local controller" },
+    { "id": "VaS7OUXlqRE", "title": "Network Admin Life - XIQ upgrade" },
+    { "id": "s-5R_NPYinY", "title": "Network Admin Life - New Wireless LAN for Streaming" },
+    { "id": "cF7gGY7i7QY", "title": "Network Admin Life - SNMP Update and Wireless Heat Map" },
+    { "id": "Jr_V8w14lb0", "title": "Network Admin Life - New IPSEC Tunnel" },
+    { "id": "wz7URh0yjU8", "title": "Network Admin Life - Adding Another Switch" },
+    { "id": "YTpDxQi4wQI", "title": "Network Admin Life - Bringing a new ISP circuit to our firewall" },
+    { "id": "sb_6rUqh0Gw", "title": "Network Admin Life - Firmware update problem" },
+    { "id": "UeTkm16XbR4", "title": "Network Admin Life - CrowdStrike Root Cause Analysis" },
+    { "id": "gUAcxUC0EAE", "title": "Network Admin Life - Just Another Wednesday" },
+    { "id": "oCo8rc0pgnU", "title": "Network Admin Life - Store Room Clean Up" },
+    { "id": "8ZFi7O7tk0A", "title": "Network Admin Life - Unboxing a new Wireless Access Point" }
+  ],
+  "playlists": [
+
+  ]
+}
