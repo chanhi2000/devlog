@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/1xBfiwzSXYOikcRseI2BvJ5jQNZ_lhJE24EiFptzTqkof-5vi1pnrfZXi50GR-N_CjQ4ofU6ug=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "PuQgkkytnps", "title": "Put two NVME SSDs into one 8x PCIe slot with the RIITOP Dual NVME M.2 PCIe adapter" },
+    { "id": "qUmZtC6ts0M", "title": "Use nix on macOS to declare victory over your configs" },
+    { "id": "5r4X4SIm4f4", "title": "EPYC FAIL - My Epyc homelab server is DEAD" },
+    { "id": "7z13WSotAX4", "title": "When Nothing Goes According to Plan | Threadripper PRO 5955WX server build" },
+    { "id": "pt-dSeCUQI0", "title": "Major Plex news - Plex is now charging for remote streaming?!" },
+    { "id": "yF9kg_o4Ct8", "title": "ASUS WRX80E Sage SE WiFi II & Threadripper Pro 5955WX Review: PCIe Lane Heaven or Proxmox Nightmare?" },
+    { "id": "zC_uKX2JSfc", "title": "Building a colo server for Jupiter Broadcasting" },
+    { "id": "zv2E8JKl3_c", "title": "I have to stop leaving the garage door open by mistake | Home Assistant, ESPHome + Aqara Zigbee" },
+    { "id": "6CZad9Qjfxo", "title": "Racking and stacking an off-site backup server for Jupiter Broadcasting" },
+    { "id": "oZeRlcrVSXM", "title": "A pretty great Homelab firewall in a tiny package - The Lenovo M720q with SFP+ for OPNsense" },
+    { "id": "h_aLCkhsXPo", "title": "NixOS infect + Colmena remote deployments live!" },
+    { "id": "BluDAuSU1T4", "title": "Easy AT&T BGW320 Gateway Bypass with UniFi UDM Pro Max via the WAS-110 SFP ONT on a stick from 8311" },
     { "id": "B2cjMSVRC-c", "title": "My Perfect Media Server isn't so perfect anymore..." },
     { "id": "6Jr5k2gHgOI", "title": "Hardware Vlog | Friday night building servers with Alex!" },
     { "id": "S53gyecbsC0", "title": "Let’s build an AMD Ryzen Framework 13 DIY together" },

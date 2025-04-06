@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "evanzhoudev",
+    "name": "Evan Zhou",
+    "profile": "https://yt3.googleusercontent.com/OIjMXI60BWQ7GkzwKV_wbwKKyVP-qrBX0JqnkvDP5CoRj9RF4nilSd6S9USYq1yxP9tL7bJv8Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4OxNiie3hhQ", "title": "the only productivity app you need" },
+    { "id": "dbf9e7okjm8", "title": "this code runs in both JS and Python." },
+    { "id": "vOVDyRIS09k", "title": "I remade Apple Genmoji in ONE DAY" },
+    { "id": "i4Yba_JVFU8", "title": "i prompt injected apple intelligence" },
+    { "id": "diyM0kg2q7c", "title": "How I beat Google in their own AI game..." },
+    { "id": "v5FBAbnLjUQ", "title": "Learn Lambda Calculus: The language with ONLY FUNCTIONS" },
+    { "id": "6F5_HkG2hK8", "title": "i fixed javascript package management" },
+    { "id": "BwfXJp-RQmY", "title": "Apple Intelligence in 60 seconds" },
+    { "id": "R2zYceZMa7I", "title": "Introducing Graphite: AI that writes with you, not for you | Gemini API Competition" },
+    { "id": "liyxF3_WxMg", "title": "i removed apple's AI watermark" }
+  ],
+  "playlists": [
+
+  ]
+}

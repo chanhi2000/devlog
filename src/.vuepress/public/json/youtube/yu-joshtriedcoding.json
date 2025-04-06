@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/fcCgvRHuv5nq0kcMERI8SkPFSaKk7_OR4e2ipR-33P-yDjojNv0owVlLtxBwnl5SsNWlNlfb=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7hS9b6n7HrM", "title": "The Better Way to Load Images" },
+    { "id": "hX4a-i_Y7Vk", "title": "I Found The Most Underrated Animation Library" },
+    { "id": "wh4kGL1EIGM", "title": "The Problem with React Server Actions" },
+    { "id": "UbYg6NK03aQ", "title": "My Favorite Tech Stack for 2024" },
+    { "id": "JSKb4tyC62M", "title": "I Just Released My Own Tech Stack" },
     { "id": "SmOstmWBneE", "title": "Updates Like These Make Tailwind So Fun" },
     { "id": "-vSnJuLJxCk", "title": "I Made This Open-Source Project" },
     { "id": "OgVeQVXt7xU", "title": "Fetching Data Doesn't Get Better Than This" },

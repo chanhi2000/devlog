@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "A6kPQVejN4o", "title": "Titans: Learning to Memorize at Test Time" },
+    { "id": "XMnxKGVnEUc", "title": "Paper: DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" },
+    { "id": "vAmKB7iPkWw", "title": "Coding a Multimodal (Vision) Language Model from scratch in PyTorch with full explanation" },
     { "id": "hvGa5Mba4c8", "title": "Direct Preference Optimization (DPO) explained: Bradley-Terry model, log probabilities, math" },
     { "id": "bCz4OMemCcA", "title": "Attention is all you need (Transformer) - Model explanation (including math), Inference and Training" },
     { "id": "qGyFrqc34yc", "title": "Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code." }

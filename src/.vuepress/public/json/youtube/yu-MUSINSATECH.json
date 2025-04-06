@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "MUSINSATECH",
+    "name": "MUSINSA TECH",
+    "profile": "https://yt3.googleusercontent.com/B2lZoeL3Ebq_X7nDKTxEhbhqSKBNBR6uREkYRxvuYhcJZs83SmCubr4cuvlHeiYMLteBP3DzeA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/E9tG0seJHLiQgso0XphFxQWE79Fw9cf6kl066H1Agso8kaqBiCxdeXrQRaTUaaqULKiJw4A8Djo=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "a7h_XOvp558", "title": "도메인 정의부터 시작하는 검색 개발" },
+    { "id": "VisNA1tAwwQ", "title": "Event Streaming 도입과 앞으로의 활용" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,19 @@
     "banner": "https://yt3.googleusercontent.com/E0S9_9JSJ0axbss3i8ih4M7aD9bl3R-RUcFD1mRQT3B_tp7DmT_8JWP73lDwMgQ4D82-wFa8Tw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "jHJ-iZjgCn8", "title": "로그분석(1) - 로그확인 및 출력 - 백엔드입문(운영편)05화" },
+    { "id": "AbvQMsU3xJA", "title": "서론 - CLI와 GUI - 백엔드입문(운영편)01화" },
+    { "id": "7bzidOVXnJs", "title": "리눅스(1) - 파일시스템 - 백엔드입문(운영편)02화" },
+    { "id": "YX9ESaERoy4", "title": "리눅스(2) - 프로세스와 네트워크 - 백엔드입문(운영편)03화" },
+    { "id": "_z9zI-j3_IA", "title": "리눅스(3) - 배쉬쉘 빌트인 명령 - 백엔드입문(운영편)04화" },
+    { "id": "wRjezliiJOI", "title": "개발묵상 - 개발자의 본질" },
+    { "id": "CpERNqY0VPM", "title": "백엔드 개발구조 - 백엔드입문 01화" },
+    { "id": "U10ATznyq-Y", "title": "백엔드개발자의 언어학습법(1) - 백엔드입문 02화" },
+    { "id": "6z4XZQOEzIM", "title": "백엔드개발자의 언어학습법(2) - 백엔드입문 03화" },
+    { "id": "i1jrQAjnbKY", "title": "자료구조 - 백엔드입문 04화" },
+    { "id": "HXi_gyKXQxs", "title": "서버의 구성 - 동접처리 - 백엔드입문 05화" },
+    { "id": "4UIMQVK0Fc4", "title": "서버의 구성 - 비즈니스 실행 - 백엔드입문 06화" },
+    { "id": "YCQnA9cRTEo", "title": "개발묵상 - 백엔드" },
     { "id": "92YbV5LMC5k", "title": "SIP 프로토콜 - 웹개발입문 심화편 08화" },
     { "id": "OIFU8rlQAOM", "title": "EEP06 서큘레이터" },
     { "id": "iOUicQDEAyI", "title": "OAuth & JWT - 웹개발입문 심화편 05화" }

@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "hanstech7027",
+    "name": "HANS의 TECH이야기",
+    "profile": "https://yt3.googleusercontent.com/BmrAshcirWIPZD2xOQAjPJkIEFFE6ilgGnd0d0FznBpIeEQyJd6s5YnsbR6ESNvXMfPCaI3FKA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/M5_vDog8ijuBeYKFQRPsNNm_8t_YJ5rs4CfMM9kSbzrPcFu5cbQTSI2o2xN7WdFw3CzRJnSNww=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PllUMHufvzA", "title": "Java 와 Docker(k8s) 잘하면 평생 먹고 산다" },
+    { "id": "T9icisD-R8c", "title": "실전 클라우드 엔지니어 기술 인터뷰 문제 (A*S)" },
+    { "id": "CTbmB-MJO74", "title": "(코딩토크) Two Sum of Blind 75 Leetcode Questions | 코딩테스트 문제도전" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "steadybit",
+    "name": "Steadybit",
+    "profile": "https://yt3.googleusercontent.com/gZWtGTb3LVZaFtPCtK2UvZRQ6shkL5wTd04wVjvd-BN9oeMgzihk2wy54EjH-QgwRWvx5PMXgfo=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WwRAo2qOG4SlCmkw8dBd_AEmFxjrXd4RzKGzrKG4J7JHx41-8ER3qXE0LUtbdNkTqzLBMos9O6Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Xa84pqjNAyA", "title": "Verify Your Prometheus Metrics in your Chaos Engineering Experiment In Steadybit" },
+    { "id": "rUlKBkfV-UM", "title": "Integrating Your k6 Load Test With Chaos Engineering Using Steadybit" },
+    { "id": "5ywpr8yplWs", "title": "Easily Do Chaos Engineering in Your JVM Applications Using Steadybit" },
+    { "id": "c5ni5gcqk7o", "title": "Integrating Your JMeter Load Test With Chaos Engineering Using Steadybit" },
+    { "id": "Tmj7-0hoypw", "title": "Easily Verify HTTP Endpoints in your Chaos Engineering Experiment In Steadybit" },
+    { "id": "9d7jWePTx2M", "title": "Easily Do Chaos Engineering in Your Host-Based Systems Using Steadybit" },
+    { "id": "yh1mruZsxMs", "title": "Integrating Your Gatling Load Test With Chaos Engineering Using Steadybit" },
+    { "id": "l2sg3jg9OpM", "title": "Easily Do Chaos Engineering in Your Containerized System Using Steadybit" },
+    { "id": "1JQEsA2zp3M", "title": "Easily Do Chaos Engineering in Your AWS Systems Using Steadybit" },
+    { "id": "x8jc0gDL5h0", "title": "About Steadybit - What is an extension?" },
+    { "id": "jvzGOzpKKb8", "title": "Using Chaos Experiments as Regression Tests" },
+    { "id": "Gcfj1JHQYrc", "title": "Experiment Explainer: Validating Observability Alerts for Kubernetes Errors" },
+    { "id": "JRYtRhPQxiE", "title": "Experiment Explainer: Injecting Corrupt Outgoing Packages" },
+    { "id": "oYPr8WZcPAw", "title": "Experiment Explainer: Handling High Latency from a Third Party Service" },
+    { "id": "fAaDDf3FaDA", "title": "Experiment Explainer: Running a Blackhole Zone Attack" },
+    { "id": "WHju4Va98Uw", "title": "Getting Started with Open Source Tools for Chaos Engineering" },
+    { "id": "RnUrD9QKObI", "title": "Integrate Chaos Engineering Events Into Your Ecosystem Via EventKit" },
+    { "id": "kI9MJjU2Et8", "title": "Extend Steadybit to Give Advice on Best Practices and Suggest Experiments via AdviceKit" },
+    { "id": "IF8peXWz-T4", "title": "Extend Steadybit to Add Attacks, Checks, or Load Tests via ActionKit" },
+    { "id": "7WxGMJ4eHLQ", "title": "Extend Steadybit to Add More Components as Chaos Engineering Targets via DiscoveryKit" },
+    { "id": "eQLG5V8T20o", "title": "Why System Reliability Depends on Team Culture | Experiments in Chaos" },
+    { "id": "ImdgmAYoC_A", "title": "Accepting the Inevitability of System Failures | Experiments in Chaos" },
+    { "id": "pQKCOyAFNXE", "title": "How AI Agents Make Software Systems Harder to Predict and Test | Experiments in Chaos" },
+    { "id": "cHSUlB2gjzA", "title": "Predicting the Future of Reliability Engineering and Chaos Engineering | Experiments in Chaos" },
+    { "id": "H5VkOpRlstQ", "title": "Where and How to Get Started with Chaos Engineering" },
+    { "id": "mqx01LtzGaA", "title": "Building vs. Buying a Chaos Engineering Solution | Pros and Cons" },
+    { "id": "-WA2hoqPa4s", "title": "Introducing Experiment Templates to easily share knowledge" },
+    { "id": "RaCDWJP6IIY", "title": "How to create an experiment template to foster knowledge-sharing" },
+    { "id": "vZhKMW5131o", "title": "How to easily create an experiment by using an experiment template" },
+    { "id": "dd2jbbW2yyI", "title": "Integrate Grafana and Steadybit via Extension" },
+    { "id": "45iqC6xQejM", "title": "Improve System's Reliability with Steadybit: 3-Minute Overview" },
+    { "id": "sMMAkpTQi98", "title": "Chaos Engineering Support for Kafka Messaging" },
+    { "id": "EGrReJfEq0M", "title": "Why a Safe Chaos Engineering Platform is Key to a Successful Rollout" },
+    { "id": "BAQWdMUG_dY", "title": "Why You Need a Flexible Chaos Engineering Platform" },
+    { "id": "wZV8EvIDz7Q", "title": "Why an Easy-to-Use Chaos Engineering Platform Matters for Your Rollout" }
+  ],
+  "playlists": [
+
+  ]
+}

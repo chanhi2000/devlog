@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/uvYb4DZpeugp5eDjUdXWhx5M5WR2yclaDAYhdfdta1w8c_R-Qi0fCWM_FNG4X57F9_dOheU2QAQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "L0cJxwg9Mk0", "title": "How to Clean C Drive On Windows with No Downloads" },
+    { "id": "6worqMvofNc", "title": "Building a Pokédex - ChatGPT vs. Gemini vs. DeepSeek vs. Claude" },
+    { "id": "42urrmfrkE8", "title": "Building a Pokédex - Qwen 2.5max vs. Grok 2" },
+    { "id": "U79Eu56xARw", "title": "Get-Test - A PowerShell Practice Test Module" },
+    { "id": "Z60ZAudWRMA", "title": "Disable Unsafe Protocols with the Ghost Module" },
+    { "id": "O2NLnhZESVs", "title": "A Custom GPT Trained on My PowerShell Book" },
+    { "id": "00Is3YydHH8", "title": "How to Disable RDP with PowerShell" },
     { "id": "ChRef6Z8UD4", "title": "Fix for Script \"cannot be loaded because running scripts is disabled on this system\"" },
     { "id": "lgginAiOEXo", "title": "21 One Line PowerShell Networking Commands" },
     { "id": "X-dia6iGm9M", "title": "스크립트를 매일 자동으로 실행하는 방법" },

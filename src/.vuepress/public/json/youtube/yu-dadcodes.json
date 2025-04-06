@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "dadcodes",
+    "name": "dadcod",
+    "profile": "https://yt3.googleusercontent.com/dklQ3ohjO979YS61z5acj9NOTqdTfhTkwu7h1Muj8RFVKnioQSkNCvDiOJBF3bDETB_f5odnOQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4ArP3aOpJGY2-hH4xa_Kev3RDg7gfIoXzpIeQ-c2M2_kTrs20HRIBqNjKp0H3m-AI5DIMUsrgg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1JhHoIF7hVs", "title": "Go | 6 Unique Techniques" },
+    { "id": "FGYSd55YlTc", "title": "Frontend Rendering | Episode 1 | History" },
+    { "id": "MVFIpbcPt54", "title": "Unique Go Keywords: What Makes Golang Stand Out" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -16,6 +16,14 @@ tag:
   - android
   - swift
   - javascript
+head:
+  - - meta:
+    - property: og:title
+      content: Github > Tutorial
+    - property: og:description
+      content: Tutorial
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/tutorial.html
 ---
 
 # {{ $frontmatter.title }} 관련

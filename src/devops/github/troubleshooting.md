@@ -14,6 +14,14 @@ tag:
   - credentials
   - git-credentials
   - bash
+head:
+  - - meta:
+    - property: og:title
+      content: Github > Troubleshooting
+    - property: og:description
+      content: Troubleshooting
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/troubleshooting.html
 ---
 
 # {{ $frontmatter.title }} 관련

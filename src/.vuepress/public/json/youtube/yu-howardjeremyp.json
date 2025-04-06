@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "howardjeremyp",
+    "name": "Jeremy Howard",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_maSRoVAUctQahWii3GNr05TDUtG-HcKM-rsHpm_rm33IU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "EtZ4pEzPMcc", "title": "MonsterUI: Beautiful Python Web Apps in Minutes" },
+    { "id": "q86qCrr68JI", "title": "FastHTML first look - Answer.AI dev chat #4" },
+    { "id": "kfEpk6njb4s", "title": "FastHTML advapp.py walkthru -  - Answer.AI dev chat #6" },
+    { "id": "PZN_9-_xqk0", "title": "Tip: Being more productive in Discord" }
+  ],
+  "playlists": [
+
+  ]
+}

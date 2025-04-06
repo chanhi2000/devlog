@@ -11,6 +11,14 @@ tag:
   - github
   - hyperlink
   - resume
+head:
+  - - meta:
+    - property: og:title
+      content: Github > Portfolio
+    - property: og:description
+      content: Portfolio
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/portfolio.html
 ---
 
 # {{ $frontmatter.title }} 관련

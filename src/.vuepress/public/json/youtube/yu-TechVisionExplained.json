@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "TechVisionExplained",
+    "name": "Tech Vision",
+    "profile": "https://yt3.googleusercontent.com/fuwNhqOAR6bLQPsWIhqh7ZmSx2RTuRac_iyiCANr3KFSnWfLVnXoSkNF_VldYgy7Y-g2p-mPvg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/4VQl7svWuMxRkHkUx7x7aq39-gpx3fXDJ83-1QATrYcf1lYF2P3QzwyR3GuwJTGUD8JOGbCqYi0=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GghCAz1Uv6o", "title": "5 Deadly Mistakes Beginner NestJS Developers make" },
+    { "id": "jVd3_Yh8neg", "title": "The Ultimate Recipe for Highly Flexible Software Systems" },
+    { "id": "RgKjKSs_qZs", "title": "The 3 Simplest Ways to Boost Dev Productivity" },
+    { "id": "ICw2xQtFUdc", "title": "The New Fast and Git-Friendly Opensource API client" },
+    { "id": "uDbzDdnpiow", "title": "I Found a Way to Make Code Easier to Maintain" },
+    { "id": "FGTiHBIhNmI", "title": "20 NestJS Commands to Save You HOURS of Work" },
+    { "id": "7vO8ZyvL4lM", "title": "Why So Many Developers Choose NestJS?" },
+    { "id": "jOytv6PQxN0", "title": "How a Large Scale NestJS App Should ACTUALLY Look" },
+    { "id": "I8cs8fJYF_w", "title": "Learn NestJS Microservices in 20 Minutes" },
+    { "id": "9JPbnYUeKuM", "title": "Is Your API ACTUALLY Ready for User Traffic?" },
+    { "id": "DG0uZ0E8DBs", "title": "NestJS API Professional Grade Documentation" },
+    { "id": "hP1MVcFOk60", "title": "This Simple Trick makes Your API more Resilient" },
+    { "id": "KipvY5bjX74", "title": "I Tried 20 API Clients so You Don't Have to!" },
+    { "id": "jnvOMgQJo38", "title": "Complete NestJS Testing Strategy for Building Successful Apps" },
+    { "id": "4Hbh9kVvisI", "title": "World’s Shortest Database Course" },
+    { "id": "XXjfTQ7d-eo", "title": "NestJS MongoDB Connection: Quick Guide with 3 Approaches" },
+    { "id": "gTiPSNmXDb8", "title": "This Free Spotify Tool is Impacting 4 Million Developers" },
+    { "id": "OFD6DEhPxeQ", "title": "6 Proven Strategies for API Integration Success" },
+    { "id": "_BQmldEgsfE", "title": "Is NestJS killing ExpressJS?" }
+  ],
+  "playlists": [
+
+  ]
+}

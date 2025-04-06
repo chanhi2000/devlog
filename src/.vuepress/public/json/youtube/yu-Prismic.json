@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "id": "Prismic",
+    "name": "Prismic",
+    "profile": "https://yt3.googleusercontent.com/0lUa9iipIE2Nc6R7YyRN5LTVqCdHtxcXFePsvYyTt4XdcckfgIx3oWkXq1_csX8BJ63rD-6tww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ovpbs7Rl4HA1a3tfQpCoHwUOFyD5mlOpHoKYTbasrkeFWU_NNIhwzbJBa64YqghZ_rZ8UQNM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "7VJF5M74jtY", "title": "New Table Field & Custom Roles Update | Prismic Chronicle" },
+    { "id": "EmvCh7Jb0Mw", "title": "Learn Nuxt, GSAP, Tailwind, and Prismic to build a dark, mordern, sleek website - Full Course 2025" },
+    { "id": "5Y_5cZTIY3Y", "title": "Find Pages Faster, Smarter Links & Spaces Deep Dive | Prismic Chronicle" },
+    { "id": "LBOhVng5rk8", "title": "Build a 3D Skateboard Website and Customizer App with Next.js 15, GSAP, Three.js and Prismic - 2025" },
+    { "id": "AE91MalYmIw", "title": "2024 Year-in-Review and a Look Ahead - Prismic Chronicle" },
+    { "id": "_SpO5T96AYY", "title": "Svelte 5 Runes - How to talk to the compiler ft Rich Harris" },
+    { "id": "2tFBMommlL4", "title": "Svelte & Content - What's Svelte’s creator take on your website's CMS? ft Rich Harris" },
+    { "id": "fR6DFKq13J0", "title": "React VS Svelte - Which one should you choose in 2024? ft Rich Harris" },
+    { "id": "WyE9x1O578c", "title": "Shipping amazing experiences faster - ft. Guillermo Rauch, Next.js Creator & Vercel Founder" },
+    { "id": "DTszvE8-TFI", "title": "Translate with AI and Next.js 15 / Svelte 5 support! - Prismic Chronicles" },
+    { "id": "JQAbenI2YTA", "title": "Create a Creative Portfolio with SvelteKit, Three.js, GSAP and Prismic! Full Course 2024" },
+    { "id": "v5Ncz5AcXjI", "title": "Build a Animated Website with SvelteKit, GSAP & Prismic - Full Course 2024" },
+    { "id": "ldJspABKPs8", "title": "Kickstart websites in minutes with Nuxt UI and Prismic! Crash Course 2024" },
+    { "id": "ESp7J4KE_cQ", "title": "All you need to know about Prismic's Page Builder - Prismic Chronicle" },
+    { "id": "i-BkN3rTK0Q", "title": "Creating your JavaScript framework? A full playbook with Rich Harris!" },
+    { "id": "gAN-6Ud_TqU", "title": "3 Next.js Full Stack Projects to Build a Stunning Website" },
+    { "id": "a77ar_oAsms", "title": "Copy and Paste your Slices & New Migration Client! - Prismic Chronicles" },
+    { "id": "RpJn9jDZK_k", "title": "New AI Feature? + Search Update - Prismic Chronicle" }
+  ],
+  "playlists": [
+
+  ]
+}

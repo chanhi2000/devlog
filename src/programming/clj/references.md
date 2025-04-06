@@ -1,15 +1,22 @@
 ---
 lang: ko-KR
 title: References
-description: Rust > References
+description: Clojure > References
 icon: fas fa-book-atlas
 category: 
-  - Rust
+  - Clojure
   - References
 tag: 
-  - rust
-  - rs
-  - rust-lang
+  - clj
+  - clojure
+head:
+  - - meta:
+    - property: og:title
+      content: Clojure > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/clj/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

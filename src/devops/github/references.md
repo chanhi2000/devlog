@@ -13,6 +13,14 @@ tag:
   - github
   - github-action
   - study
+head:
+  - - meta:
+    - property: og:title
+      content: Github > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

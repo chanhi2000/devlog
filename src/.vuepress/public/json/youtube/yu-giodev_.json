@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "giodev_",
+    "name": "Giodev",
+    "profile": "https://yt3.googleusercontent.com/IQCOz8UNftqvTRIHcprgCHxU7QXqBtx72LBFwXXmAVfmpC1HVqLQX-v_PYuMJkGSopuzejwU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kxjDmU4gDaiJtf7EMWfSVvkBtr2lNAdLzMo8J3fIuQ0-5F3NH4lIBvD0mbf-3qQOPzVgfbwcnw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "-pL_yMQTsPE", "title": "All CSS Units EXPLAINED" },
+    { "id": "VkWJQe_EsjQ", "title": "The HTML Tags They NEVER Taught You" },
+    { "id": "GXva2PSej88", "title": "You NEED These VS Code Extensions" }
+  ],
+  "playlists": [
+
+  ]
+}

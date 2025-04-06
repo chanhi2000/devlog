@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": "daniel.atitienei",
+    "name": "Daniel Atitienei",
+    "profile": "https://yt3.googleusercontent.com/i-zaKzm-yKpJGm25Mt9qOEnNoTeoK7xREn5VdMWMl9hbYX_70EW8KnQ0_6ldCDF4jYIJ_CNRXlE=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p8OZzXTpEuN9ybMS_22EHDp7AaKe9zaA2fcQPWa3KB3AVvRQwEDDI_zQVufcTYHc0xBSGpmd=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {  "id": "IdxEbfLv65k", "title": "My Tech Stack I've Used To Build Apps 2025" },
+    {  "id": "U3gC2eCnpP8", "title": "Android API Calls for Beginners (Networking) - Ktor & JSON" },
+    {  "id": "42WGGS2EDZQ", "title": "Request And Display User's Current Location - Android Kotlin" },
+    {  "id": "ZgYvexniGDA", "title": "Supabase Auth with Email and Google + Login UI + Credentials Manager  -  Jetpack Compose" },
+    {  "id": "q6AJZosgSzg", "title": "Coding Vlog - How to find app ideas (ep. 1)" },
+    {  "id": "_WSes3tajQk", "title": "Building a Clean Architecture App using MVVM & Jetpack Compose (League Of Legends)" },
+    {  "id": "s0fcvoZOC4s", "title": "Type-Safe Deep Link Navigation using Jetpack Compose" },
+    {  "id": "6FsHLEM8eL8", "title": "Tools I use as a Software Engineer | Day In The Life, Productive Habits & Unboxing New Tech" },
+    {  "id": "iT2gaA7DyZs", "title": "Jetpack Compose To SwiftUI Guide" },
+    {  "id": "aifdePk-HYI", "title": "Observing Network Connection State using Jetpack Compose — Android" },
+    {  "id": "dOngOf-Pexw", "title": "Build Android and iOS apps with Compose Multiplatform&nbsp;(CMP)" },
+    {  "id": "TTgWyzXI0EY", "title": "Image Carousel In Jetpack Compose - material3" },
+    {  "id": "MTs0yf8URps", "title": "Implement Firebase Firestore in your app using Jetpack Compose" },
+    {  "id": "IpJppY2FiNU", "title": "Adaptive List-Detail Layout using Jetpack&nbsp;Compose" },
+    {  "id": "3g5OzpsJotY", "title": "How to Make a Clean Architecture Anime List App using MVVM & Jetpack Compose" },
+    {  "id": "nrxL_pI2B_s", "title": "Overflow Indicator In Jetpack Compose" },
+    {  "id": "5a3vPRdwC8I", "title": "Type-Safe Navigation In Jetpack Compose" },
+    {  "id": "LQbhbItoPBY", "title": "Shared Element Transition In Jetpack Compose" },
+    {  "id": "ZvG6CgaOoGE", "title": "Navigation Mistake In Jetpack Compose" },
+    {  "id": "4C8ShoGBtAU", "title": "Compress Images Using Kotlin  - Jetpack&nbsp;Compose" },
+    {  "id": "yQRmD4rJNk0", "title": "Blur Images In Jetpack Compose - Android 12 and ABOVE" },
+    {  "id": "i1o3kdb6lkA", "title": "The Ultimate Guide: Migrating to Android Version Catalogs" },
+    {  "id": "C8ILDBfTAq4", "title": "Adaptive Navigation Bar Using Jetpack Compose" },
+    {  "id": "2uG9EjrI9lg", "title": "How To Become an Android Developer | Android Developer Roadmap 2024" },
+    {  "id": "OwlTKWGSImU", "title": "Integrate Supabase In Android App with Jetpack Compose - Android Studio" },
+    {  "id": "QhcMvcJU9Fo", "title": "Integrate Appwrite In Your Android App — Jetpack Compose" },
+    {  "id": "eox4EE66nXw", "title": "Jetpack Compose For Beginners — Crash Course 2024" },
+    {  "id": "sLuQbiNa040", "title": "How to Make HTTP Requests With Retrofit - Android" },
+    {  "id": "mKbt8zNr_YU", "title": "Firebase Auth with Email and Google + Login UI  -  Jetpack&nbsp;Compose" },
+    {  "id": "2tfgvB-geoU", "title": "How to Make HTTP Requests With Ktor  -  Android" },
+    {  "id": "rD-oFp63a-U", "title": "Pull To Refresh using material3 - Jetpack Compose" },
+    {  "id": "I7eJ9C9Ucfg", "title": "Build Cross-platform Apps using CMP (Compose Multiplatform)" },
+    {  "id": "Bm5p3_LOUYg", "title": "Preferences DataStore - Best Way Of Storing Small Data In Your App" },
+    {  "id": "9dODKQhGPm0", "title": "Implement Firebase Realtime Database in your app using Jetpack Compose" }
+  ],
+  "playlists": [
+
+  ]
+}

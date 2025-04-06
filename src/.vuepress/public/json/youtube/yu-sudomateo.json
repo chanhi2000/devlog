@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "sudomateo",
+    "name": "Matthew Sanabria",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kduaIv60-rLRUnnLA2Sef3a_a-uJwF8xwwkx3L2doNoVfS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4AjI7WwVTOk", "title": "Book Club - UNIX and Linux System Administration Handbook - Meeting 01" },
+    { "id": "pnpBvuRG7MM", "title": "Book Club - UNIX and Linux System Administration Handbook - Chapter 5, 6, 7" },
+    { "id": "Hi__SsHcjEc", "title": "Working on the Home Lab" },
+    { "id": "C_argjNB2p8", "title": "Book Club - UNIX and Linux System Administration Handbook - Chapters 7, 8, 9" },
+    { "id": "C_argjNB2p8", "title": "Book Club - UNIX and Linux System Administration Handbook - Chapters 7, 8, 9" },
+    { "id": "vXCQvATMu3c", "title": "Keyboard Switches Then Home Lab - DynDNS Service in Rust/Go & Flux CI/CD" },
+    { "id": "X-vF_oGSP8M", "title": "Keyboard Switches Then Home Lab - DynDNS Service in Rust/Go & Flux CI/CD" },
+    { "id": "X45ON7cF370", "title": "Book Club - UNIX and Linux System Administration Handbook - Chapters 9, 10, 13" },
+    { "id": "OrPwLqgpR4M", "title": "Kubernetes & Home Lab - Longhorn Storage / Pi-hole" },
+    { "id": "X45ON7cF370", "title": "Book Club - UNIX and Linux System Administration Handbook - Chapters 9, 10, 13" },
+    { "id": "Eeu54-nBElc", "title": "Go is Full of Errors" },
+    { "id": "cMT9Tqx30FU", "title": "Interfaces in Go - Discovering Behavior" },
+    { "id": "_zKkEp6edYI", "title": "Understanding Go Context - Everything You Need to Know" },
+    { "id": "7gNbVcRU4iA", "title": "Shell Scripting Crash Course" },
+    { "id": "oAtjcbE-pMs", "title": "OAuth2 Crash Course with Go" },
+    { "id": "1viBABEAiGA", "title": "Review: ZSA Moonlander Platform New Revision" },
+    { "id": "wxlag8suXwU", "title": "Linux CLI Crash Course" },
+    { "id": "sWBGEgWMdgI", "title": "Install Fedora 39 on VMware Workstation with Btrfs Subvolumes" },
+    { "id": "wiU4ssdJAfI", "title": "Go Concurrency Concepts - Goroutines, WaitGroups, and Channels" },
+    { "id": "dnvRv7OyItE", "title": "I Just Can't Wait to Be Senior - NJ Code & Coffee" },
+    { "id": "4fJP_b-o9bc", "title": "SadServers Challenges" },
+    { "id": "ObrVK_r_OU4", "title": "More SadServers Challenges!" },
+    { "id": "rJIH9cEsT6c", "title": "Top 20 SadServers!" }
+  ],
+  "playlists": [
+
+  ]
+}

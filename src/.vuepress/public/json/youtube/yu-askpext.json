@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "askpext",
+    "name": "PEXT",
+    "profile": "https://yt3.googleusercontent.com/R4uyIQa7BIKwCZyWJcFijWxT08jKhF12PwksBvuD_HxRUn9w7tQmszuXwmQZKBbqxOjZwPUB=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8qn1Nfz746hA_Y77IFLi5aCbLJ43HSv_QB1FEbVKAfnFNZ3KpEEBUsYm_3hlv7xriDezImPEoA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AmYszgYFDqI", "title": "Docker Networking Explained!" },
+    { "id": "idrFI_OWmHg", "title": "This Open Source alternative to AWS is 10x CHEAPER..." },
+    { "id": "chL0s942em4", "title": "This tool can solve all UI Library chaos..." },
+    { "id": "a4LAMJiSjjE", "title": "Cursor is the Fastest Growing SaaS in History is scary..." },
+    { "id": "KvWFxj9W9kM", "title": "How This Startup Became 40% Faster?" },
+    { "id": "poGolv6g8xQ", "title": "AI in Browser is crazyyy! WTF is WebLLM?" },
+    { "id": "0gR0VRJYobw", "title": "This IDE for React Native is Crazyyy..." },
+    { "id": "9xITlyx7inM", "title": "My Flutter vs React Native experience was crazyyy..." },
+    { "id": "W9vI87CfyX8", "title": "This new Node.js framework is really good?" },
+    { "id": "4Y5ozrMZxmA", "title": "Which programming language for TIME TRAVEL?" },
+    { "id": "M9QKXEpwqiM", "title": "WTF is WebGPU? How to learn ?" },
+    { "id": "jx4kn9ikIwY", "title": "This RUST Framework is 3X faster than REACT..." },
+    { "id": "WZwu2a1xVe8", "title": "This VS Code extension is crazyyy..." },
+    { "id": "IoWQxFqrL0w", "title": "Can we REALLY use Javascript in Kernel?(Let's investigate)" },
+    { "id": "D5O2TsxRePA", "title": "Let's Learn Objects, objects and { } in Typescript!" },
+    { "id": "upXIQkSnIZg", "title": "Grafana in 2 Minutes!" },
+    { "id": "jctSzlwdxz0", "title": "Why OPEN AI ditched NEXT JS for REMIX? Lmao" },
+    { "id": "wbYd0Qdi_DQ", "title": "How Brave is still Beating YouTube Ads?" },
+    { "id": "fE4Dx59iSQc", "title": "PHP Laravel raised 57 Million dollars..." },
+    { "id": "KSJwSJZVh6g", "title": "The Computer Science behind AUTO COMPLETE! How it works?" },
+    { "id": "1_u7S8SYdts", "title": "Arc Browser HACKED! Firebase vulnerability exposed" },
+    { "id": "ZHh62GDJuQ4", "title": "How to Build APPs for META's Quest" },
+    { "id": "pjTghrwM0io", "title": "Arch Linux and Valve team up to make gaming better" },
+    { "id": "K5wbPt-QLs4", "title": "How to RUN Gemma 2 Locally(faster ahh way)" },
+    { "id": "-JJMhmKdiR4", "title": "Why INSTAGRAM shows sad REELS at NIGHT?" },
+    { "id": "-XdT-8YSbY0", "title": "WTF is Kamal 2 now?" },
+    { "id": "TzKeaKAggt8", "title": "WTF is gRPC?" },
+    { "id": "POLom6hN7V8", "title": "How Linux manages it's Large Codebase?" },
+    { "id": "BAbTAmdFcPA", "title": "I made a browser extension to watch YouTube with low attention span!" },
+    { "id": "sjkOBO9Ax84", "title": "This library will let you build crazy CLI apps with Javascript" }
+  ],
+  "playlists": [
+
+  ]
+}

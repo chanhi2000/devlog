@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/IdFqRdTlHu5M1GPRNagUpq9wTLAGwSFa7topzW3H83GmaM-ciIqPFUBOaEu8etEBhTM6RrGsVw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "EW2Cc0r2mbc", "title": "Retries & Exponential Backoff - Deep Dive" },
+    { "id": "cYD3krz5L2g", "title": "Chad level git: advanced concepts (2025)" },
+    { "id": "gzMBlLCjPx8", "title": "StackOverflow survey results analysis & general tech chat" },
+    { "id": "PilNFeR6vEM", "title": "The 9 Behaviours of GREAT Engineering Managers" },
+    { "id": "WmvvKN7fDhU", "title": "E32 - Working in regulated industries, QA to SWE, and public speaking with Donia Chaiehloudj" },
+    { "id": "9lGSvF4QE_Q", "title": "Programming the Pimoroni Badger 2350" },
     { "id": "pXNWAeM9Z4o", "title": "Debugging and troubleshooting complex software failures!" },
     { "id": "fsp0ZTiMjYY", "title": "The programmer's identity crisis" },
     { "id": "Czkk5qcDJ_0", "title": "10 patterns to level up your Bash scripts" },

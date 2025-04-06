@@ -108,5 +108,6 @@ head:
 <MyYouTubeItems jsonName="yu-prof.r4q52" /><!-- Prof. Roque Gimenez -->
 <MyYouTubeItems jsonName="yu-xenoint" /><!-- 이동준 -->
 <MyYouTubeItems jsonName="yu-POCUKorea" /><!-- POCU 코리아 -->
+<MyYouTubeItems jsonName="yu-wpftv" /><!-- Minimalist Developer [ MD TV ] -->
 
 <TagLinks />

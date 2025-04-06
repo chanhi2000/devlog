@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "MartinBaun",
+    "name": "Martin Baun",
+    "profile": "https://yt3.googleusercontent.com/-jC4R6u60JxeZ-OhapZZQbMuAMfxJGe1rypjNttI8HADVia7ubkYciRrpyYqbd4ERX0Fv6Nx-gA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/owz13_ySinbbH90rEaqGB7OgnYhv9-msIcTk4A265uEUBOxEyWbGpujSF1bqaKthWO23aSFI5g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "d9KVWgZIOw4", "title": "Is Python Faster Than Go? (SHOCKING)" },
+    { "id": "JQpc9CroevQ", "title": "SQLite vs PostgreSQL - Which One Should You Really Use?" },
+    { "id": "D80hN3--5Hc", "title": "SQLite in 7 minutes: Viking style (2025)" },
+    { "id": "sfIxG1nmeWg", "title": "This is WHY ChatGPT Won’t Steal Your Job" },
+    { "id": "hAjXEXjK-bc", "title": "Make Great Code: 00 Intro - Simplicity is the Key!" },
+    { "id": "EdBWz_SSFxk", "title": "Make Great Code: 01 Return Early and Often" },
+    { "id": "KMRSPuE-218", "title": "Good monopolies? Do they exist?" },
+    { "id": "-thmcCD2uDU", "title": "Make Great Code: 02 Utility Functions" },
+    { "id": "PsHdtVXnb60", "title": "The SHOCKING Consequences of SEO on the Web Today" },
+    { "id": "IU34jG8x7eg", "title": "Setup and Base App | SaaS Building 05" }
+  ],
+  "playlists": [
+
+  ]
+}

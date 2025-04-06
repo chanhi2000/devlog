@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "kikisbytes",
+    "name": "Kiki's Bytes ",
+    "profile": "https://yt3.googleusercontent.com/Rl1CqMH_jbobte2mT8clUbTbUQHlEdQj_iYAIoq_MPQC96vF8aH0XohkJM9isSpsu429aktblyM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n0tXpD1yi29SJADcXuo6FQL07vrHRHmGa1WG4-ywCbzgq9nMZ7_-G7HMHTwJ4fMxszKWqKTXW2E=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M2hwSHjQk8o", "title": "This company made PostgreSQL 10x easier to manage" },
+    { "id": "CsIdgA9RQbc", "title": "I Learned To Animate With Code For 1 Year...This Is What Happened" },
+    { "id": "qcqlbf27CWg", "title": "How Canva Saved Millions in AWS S3 Costs" },
+    { "id": "61R7Py0szPs", "title": "How Does ReactJs Stay Fast? Virtual DOM in 3 Minutes!" },
+    { "id": "LEanL5rfdAA", "title": "How Docker Container Works Under The Hood" },
+    { "id": "HLJJtxLDkgo", "title": "How DoorDash's AI Handles Millions of Data" },
+    { "id": "k87cBmZ7SPI", "title": "This 10x Engineer built an MVP that scaled to process BILLIONS of events" },
+    { "id": "FxAom29OEKE", "title": "I ACED my Technical Interviews knowing these System Design Basics" },
+    { "id": "HruBoinmPBA", "title": "How Notion Scaled to 100 Million Users Without Their Database Exploding" },
+    { "id": "ahyk7h7qAF4", "title": "How Instagram Reduced Page Load Time by 50%" }
+  ],
+  "playlists": [
+
+  ]
+}

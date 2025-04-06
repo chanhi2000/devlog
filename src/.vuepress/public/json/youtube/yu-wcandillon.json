@@ -7,6 +7,7 @@
     "banner": "https://yt3.googleusercontent.com/Zj62YEusxWMVKdT1k6fjqxH5qdHdwgwlIK9SBJFJ0DrfL6_rsrrE5gW1zydtkiWOpYZ3t5nG6Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "i-DGY98cTjk", "title": "React Native WebGPU" },
     { "id": "eUbj_NxcgKg", "title": "Time to Fly" },
     { "id": "6jxy5wfNpk0", "title": "Liquid Swipe - \"Can it be done in React Native?\"" },
     { "id": "G0LeZ00-c58", "title": "React Native SVG 3D Animations" },

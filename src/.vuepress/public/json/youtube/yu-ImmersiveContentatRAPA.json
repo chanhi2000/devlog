@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "ImmersiveContentatRAPA",
+    "name": "차세대실감콘텐츠[Immersive Content] at RAPA",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mgb2sUMZ9TwnBRlF9Riol1tjQJJSjtjsT5JVFoXoC-Jms=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/d1TOVFtUq44AMVVM9t4J0H4mqJLQhzZaUxdM6S6__gplzJlEWqoIVvYUlnISregRLlqJW9WyrQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1ydqVnswlO4", "title": "[2024] 과학과 문화예술 융합의 도심공원 메타버스 관광 콘텐츠 서비스(대전정보문화산업진흥원, 홍보영상)" },
+    { "id": "CeydqUDxkGs", "title": "[2024] AR글래스 고도화 및 콘텐츠 제작 생태계 구축(시어스랩, 홍보영상)" },
+    { "id": "7IbMutNU7c8", "title": "[Strong Point TEAM] 노년 계층 및 사회적 약자를 위한 플랫폼 서비스" },
+    { "id": "SYaDtLb_tWI", "title": "[잡잡박사(Dr . Job) TEAM] AI Job 시뮬레이션 메타버스 (AI Job Simulation Metaverse)" },
+    { "id": "MyBBvh1bSzs", "title": "[상상진진 TEAM] 인테리어 앱" },
+    { "id": "HJ3ucjt3eWQ", "title": "[디지털 탐험대 독립문 길라잡이 TEAM] 독립문의 역사 알아보기" },
+    { "id": "Y4W062OUXRs", "title": "[TEAM Jarvis TEAM] MY Little JARVIS – 그냥 좀 많이 똑똑한 시스템" },
+    { "id": "efU1svCo51o", "title": "[AITHENTTS TEAM] 도란도란" },
+    { "id": "Ltx_-3ND-Kk", "title": "[Test TEAM] AI로 점검하는 내 실력" },
+    { "id": "izVDcJzAsxY", "title": "[VRDoctor TEAM] Punch4Recovery" }
+  ],
+  "playlists": [
+
+  ]
+}

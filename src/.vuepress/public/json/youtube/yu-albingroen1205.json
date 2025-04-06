@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/xQk-hUlUYuQrETR6p37dDuPuIydQymTU0lnjKQ3GEFsz6dr0Pwm_T-2Ug0d--Nd8nNVKwl8L=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "5KvO2cT3MnA", "title": "TypeScript | Tauri | React | Prismabuilder 2 | Designing the new UI" },
+    { "id": "e3VyXH0lwGM", "title": "TypeScript | Rust | Tauri | React | Figuring out data storage for Prisma Schema Builder 2." },
+    { "id": "P5HtbOoqgas", "title": "TypeScript | Tauri | React | Designing the UI for Prismabuilder 2" },
+    { "id": "sNdIEil63WU", "title": "TypeScript | React | Rust | Working on Prismabuilder 2" },
     { "id": "sWvdsJH9MF8", "title": "`quick.nvim` v2.0 Update (Native LSP is Here!)" },
     { "id": "OhbgZbORFd4", "title": "`quick.nvim` | A fast, modern and reliable Neovim configuration" }
   ]

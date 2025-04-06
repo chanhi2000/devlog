@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "wpftv",
+    "name": "Minimalist Developer [ MD TV ]",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_nB8V0ZUOWfnbQ1ew4gbaOINJyZO8sj54iby1V_kOm4IA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/hma3vc9I-1JYePLdz_6JKNyZnhgHfGCO6Ldz7Qj-V7KpbpXyKAHc7NWtqdbyVKdgzlmlYOvw0qQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZgoCBvtoSpE", "title": "C# WPF  MVVM Control Move X,Y 제어 - Interface 기초강좌 | ItemsControl Canvas Thumb" },
+    { "id": "0-iYdV_7osg", "title": "C#, WPF UserControl기초" },
+    { "id": "oxc08FD1Ll8", "title": "C#, WPF  Features  | 왜 WPF를 배워야 하나요 ? | 4K" },
+    { "id": "VUsyYC_wKVA", "title": "C#, WPF MVVM Model 기능추가  제작과정 |  Source include | 미니멀개발자" },
+    { "id": "2VnUP3wZNQI", "title": "C#, WPF  기능은 늘었는데 소스는 점점 줄어들어 ? | POS Program EP2 |미니멀개발자 | #WPF" },
+    { "id": "hCz9bDHdHxw", "title": "C#, WPF  MVVM Pattern | 계산기 프로그램 | 다 똑같은 계산기소스? NO NO | 미니멀개발자" },
+    { "id": "axko727qxuI", "title": "C#, WPF  MVVM Pattern형태로 Point of Sale 프로그램 만들기 | 미니멀개발자" },
+    { "id": "B4fktTP-t80", "title": "C#, WPF  MVVM이 중요한가요 ? - ㅣListBox To  ItemsControl (Include  Source ) | 미니멀개발자" },
+    { "id": "SMzWvS3bL0Y", "title": "C#, WPF  MVVM - ListBox ( DeleteCommand ) | 프로그래밍 | 미니멀개발자" },
+    { "id": "O8uep0iA82o", "title": "C#, WPF  MVVM 활용방법 - Abstract ListBox ObservableCollection | 미니멀개발자" },
+    { "id": "Pqg-C2RLkyc", "title": "C#, WPF  MVVM이뭐에요 ? - View ViewModel Model  RelayCommand | 미니멀개발자" }
+  ],
+  "playlists": [
+
+  ]
+}

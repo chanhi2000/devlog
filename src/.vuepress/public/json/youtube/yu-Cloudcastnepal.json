@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Cloudcastnepal",
+    "name": "CloudCast Nepal",
+    "profile": "https://yt3.googleusercontent.com/2WBwuAtjhrsY-b8GCuCn0SwELSEDOq1hAiTDf5h-78sOegti5XIWrF4rYotzF8BjAp2TF8nX9M0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ZNj7NZbpwhU", "title": "Chaos engineering explained in 5 mins ! #chaosengineering" },
+    { "id": "fPkwGpfFejM", "title": "The DevOps Handbook : Unlocking the Secrets of High-Performance IT #devops" },
+    { "id": "NLjXFIJonlA", "title": "Why your amazon order never fails : The SRE secrets revealed" },
+    { "id": "oYriov23MeU", "title": "Deploy a MERN stack application on AWS EKS with Helm, Terraform, and MongoDB Cloud" },
+    { "id": "HODDp6RH5rI", "title": "Automated SSL with NGINX Ingress Controller and cert-manager using Let's Encrypt for Kubernetes" }
+  ],
+  "playlists": [
+
+  ]
+}

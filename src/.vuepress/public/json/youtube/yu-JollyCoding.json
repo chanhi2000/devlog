@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "9SYjgkPCRDY", "title": "TypeScripts 5.6 is AWESOME" },
+    { "id": "qM46YUV5re4", "title": "Top 5 NEW Features in TypeScript 5.6" },
+    { "id": "TIvj-MCR34s", "title": "Is this \"Next-Generation TypeScript\"?" },
+    { "id": "MKoZTAcVCJU", "title": "Expo Made React Web-to-Native Migration Easier (Here's How)" },
+    { "id": "e-EH_KZEva0", "title": "ShadCN CLI - Install ANYTHING from Anywhere" },
+    { "id": "8Z5WqiyCsdY", "title": "The NEW shadcn/ui Sidebars Are Awesome" },
+    { "id": "cMm38AJuOnM", "title": "Next.js 15's BEST Features" },
+    { "id": "eOiLW5UA_fU", "title": "NEW Caching System?! (Next.js Conference 2024)" },
     { "id": "hWvHA11Erpw", "title": "NEW Drag and Drop Library for ANY framework" },
     { "id": "A6-56miVA_0", "title": "Supabase and NextJS 14:  Auth and Server Actions" },
     { "id": "6elqnCCbTk8", "title": "TypeScript FINALLY fixed this..." },

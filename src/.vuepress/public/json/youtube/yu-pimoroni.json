@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/jwurhOODEbUFEIvB8GSIfVRA9HBht3L5WnZL_DabhQ9eg6M21cu-f5DJ5mvrEAFW_N5jUCrpWw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "0oI4B1lpeQ8", "title": "Raspberry Pi Pico 2 & RP2350 Launch" },
     { "id": "4lidGHZpKBM", "title": "Introducing PicoVision (programmable audio-visual board for use with HDMI displays)" }
   ]
 }

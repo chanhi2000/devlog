@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "alexright_data_analytics",
+    "name": "Alex Right",
+    "profile": "https://yt3.googleusercontent.com/CUOL8hckv4mDeYjNOi6RPyf1E8NjbAVF3RIiQsMlhOh9o5K_x-e_e2m8ogKxF5Bv6CVPTxgNpv8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/FrCQwbVpJuwPaZtLPQE_2doB8jmzarQTEynnU_Pi1rTuzE0vM1ZSxiFpLS-QRVGck7mFYodu=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "83FiGj1HfOw", "title": "How to become a Data Analyst FAST by skipping boring exercises? — The 2025 AI guide" },
+    { "id": "JR9NX2y7Ow8", "title": "Beginner Data Analytics end-to-end portfolio project | Soft-skill, SQL, Python, Tableau, Power BI" },
+    { "id": "VGMh054-Rog", "title": "What does a Data Analyst do in 2024? — Full Roadmap" }
+  ],
+  "playlists": [
+
+  ]
+}

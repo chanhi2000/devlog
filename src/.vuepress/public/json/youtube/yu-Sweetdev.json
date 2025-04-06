@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/PoLs1Sr-BeeMxOgBnkA16pQNyWNTSIMRHC6cL86JFZf6MgWoI8kA08OXMxwcRt8rwbA0eXTkAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8PwdhtGce_w", "title": "Master Aider: Deepseek-Powered AI Command Line Mastery for Coding Supercharged Workflows" },
+    { "id": "AZk6DeIlXn4", "title": "Build Your Own Devin-Like AI Assistant: Complete Guide to Claude Desktop + MCPs" },
+    { "id": "uqcmvTfgOY8", "title": "Let GPT write the code in your GitHub Repo" },
     { "id": "8QO3sf9WhVw", "title": "From design into HTML and CSS web page | Part 1" }, 
     { "id": "eAsBo6VMaH4", "title": "Vuex | State management example with Axios" }
   ]

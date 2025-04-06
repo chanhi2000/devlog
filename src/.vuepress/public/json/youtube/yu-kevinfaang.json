@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/EfaNn8CLS8wpG-scrj0I9Rs8GJuz4U3ehoqu4EyS9muB6brud5nV5ILkA9dS9OKlv9gyCNoxgVg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OYrYgiktraE", "title": "Slack Tries to Handle More Traffic, Self-Destructs Instead" },
+    { "id": "3GOAUyipnM4", "title": "Google Accidentally Deletes $135 Billion Pension Fund, Chaos Ensues" },
+    { "id": "kUtarOlOT3Y", "title": "How This Missing Shell Option Took Down Cloudflare" },
     { "id": "qzZLvw2AdvM", "title": "How A Steam Bug Deleted Someone’s Entire PC" },
     { "id": "R7VVwfh0Wpo", "title": "How This SQL Command Blew Up a Billion Dollar Company" },
     { "id": "dsHyUgGMht0", "title": "How GitHub's Database Self-Destructed in 43 Seconds" }

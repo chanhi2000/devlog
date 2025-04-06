@@ -1567,16 +1567,16 @@ export const sidebarEn = sidebar({
       collapsible: true,
       icon: 'iconfont icon-clojure',
       children: [
-        '/programming/clojure/README.md',
-        '/programming/clojure/references.md',
-        '/programming/clojure/github.md',
-        '/programming/clojure/youtube.md',
+        '/programming/clj/README.md',
+        '/programming/clj/references.md',
+        '/programming/clj/github.md',
+        '/programming/clj/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/programming/clojure/articles/README.md',
+            '/programming/clj/articles/README.md',
           ]
         },
       ]

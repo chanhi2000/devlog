@@ -95,5 +95,5 @@ head:
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->
 <MyYouTubeItems jsonName="yu-jscode-official" /><!-- JSCODE 박재성 -->
-
+<MyYouTubeItems jsonName="yu-Cloudcastnepal" /><!-- CloudCast Nepal -->
 <TagLinks />

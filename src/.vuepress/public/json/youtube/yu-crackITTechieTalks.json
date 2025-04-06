@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "y30A0TaW164", "title": "Solid Principles - Why & What ??" },
+    { "id": "vq8-ethRXmU", "title": "Map vs FlatMap - Java Streams" },
+    { "id": "VkHIMEqj-Jw", "title": "Garbage Collection in Java with Coding example" },
     { "id": "2YzyRtTBoXY", "title": "@Value Vs @ConfigurationProperties - Spring Annotations Interview Questions | Code Demo" },
     { "id": "mFwFDTmtvmY", "title": "@Prefilter vs @Postfilter | Spring Annotations Interview Question" },
     { "id": "ZHocWNTZXns", "title": "Spring Redis Cache | Distributed Caching with Code Demo" },

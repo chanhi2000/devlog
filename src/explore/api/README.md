@@ -503,6 +503,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
 }
 ```
 
+<SiteInfo
+  name="Dev Tools"
+  desc="A comprehensive list of development tools"
+  url="https://freetool.vercel.app/"
+  logo="https://freetool.vercel.app/fav.png"
+  preview="https://freetool.vercel.app/social.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

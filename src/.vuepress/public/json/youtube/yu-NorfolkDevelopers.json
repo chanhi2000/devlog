@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/3YBnRRlA7NmOOShTdIARNdtoL5CFvsUU9fOtV57lz5Vn_hDdlI7qkNfUtoLRVnzTlt-0aQeiBYk=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LmlkswCYCm8", "title": "How to protect yourself from the biggest Internet threats" },
+    { "id": "ipPloKx_8mI", "title": "Anything that can go wrong, will go wrong" },
+    { "id": "RgDGsZXPK3Y", "title": "Beyond Example Based Testing in dotnet" },
+    { "id": "LizjqBgmZiY", "title": "When you absolutely, positively got to join every table!" },
+    { "id": "rC_xO-_OJEo", "title": "Real Time Anomaly Detection with Machine Learning" },
+    { "id": "jK4FRcmCcsc", "title": "Building the Ultimate Joke Repository" },
+    { "id": "GWddLXVqyXI", "title": "What exactly is a Microservice?" },
+    { "id": "EyesvnWO6-I", "title": "Predict the future with \"old school maths\"" },
+    { "id": "iub6upJ2KiQ", "title": "Game Development: An Industry For Norfolk?" },
     { "id": "6UL-cjjcKSc", "title": "Brewing a Serverless application with AWS Infrastructure as Code" }, 
     { "id": "g_BaCA8z0M8", "title": "React Native, Fork It! (Part 4)" }, 
     { "id": "mltWFhVELmY", "title": "Learn to build fullstack React apps with Blitz.js (Part 3)" }, 

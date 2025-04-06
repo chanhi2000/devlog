@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/m0kYpxVM2J1MNYYuAmTx2AcV3AVhcUpU33BzKVMB8IH0Dqe9V8aw4Qtz_WIWaqgl0gEgmfsHmA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "zFgnVbQ8JUU", "title": "Build a Complete Recipe App in Kotlin Multiplatform Compose | KMP Compose Multiplatform Full Course" },
+    { "id": "QM7BbyXbzR0", "title": "File Picker in Compose Multiplatform | How to Use File Picker In Kotlin Multiplatform Compose" },
+    { "id": "NhzeXg-WpC8", "title": "Type Safe Navigation Jetpack Compose | Compose Multiplatform | KMP  Tutorial Type Safe Navigation" },
+    { "id": "pOdkwUyVK20", "title": "UI Testing in Jetpack Compose | UI Testing in Compose Multiplatform | UI Testing KMP Compose" },
+    { "id": "qukr37JYkwA", "title": "Permission Handling in Compose Multiplatform | Request Permissions in KMP Compose App | KMP Tutorial" },
+    { "id": "8uEYI6lTGps", "title": "Kotlin Full Course | Beginners To Advanced | Kotlin Crash Course 2024 | Learn Kotlin In 6 hours" },
+    { "id": "RIBs24AbNPY", "title": "Build a Real Time Chatting App in Android Using ZEGOCLOUD Chat API" },
     { "id": "7ydEJ48P910", "title": "Using Native iOS UI in Compose Multiplatform | Using UIKit in KMP Compose | KMP Tutorial" },
     { "id": "VdwDawvfH98", "title": "Android Jetpack Compose Multi Language Support | Per App Language Localization in Jetpack Compose" },
     { "id": "wouRs5mcSE0", "title": "Share ViewModel in Compose Multi Platform Using Official Compose ViewModel | KMP ViewModel" },
