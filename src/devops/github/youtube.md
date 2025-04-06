@@ -17,6 +17,14 @@ tag:
   - github-action
   - study
   - "@Github"
+head:
+  - - meta:
+    - property: og:title
+      content: Github > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

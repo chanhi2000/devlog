@@ -1,19 +1,24 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Rust > Youtube
+description: Clojure > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - Rust
+  - Clojure
   - Youtube
 tag: 
+  - clj
+  - clojure
   - education
   - youtube
-  - yt
-  - programming
-  - rust
-  - rs
-  - rust-lang
+head:
+  - - meta:
+    - property: og:title
+      content: Clojure > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/clj/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

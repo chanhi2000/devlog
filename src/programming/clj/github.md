@@ -1,24 +1,24 @@
 ---
 lang: ko-KR
 title: Github
-description: Rust > Github
+description: Clojure > Github
 icon: fa-brands fa-github
 category: 
-  - Rust
+  - Clojure
   - Github
 tag: 
   - git
   - github
-  - rust
-  - rs
+  - clj
+  - clojure
 head: 
   - - meta:
     - property: og:title
-      content: Rust > Github
+      content: Clojure > Github
     - property: og:description
-      content: Rust > Github
+      content: Github
     - property: og:url
-      content: https://chanhi2000.github.io/programming/rust/github.html
+      content: https://chanhi2000.github.io/programming/clj/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -27,13 +27,13 @@ head:
 
 ---
 
-## Rust
+## Clojure
 
-<MyGithubItems jsonName="lang-rust" />
+<MyGithubItems jsonName="lang-clojure" />
 
 ### Tutorial
 
-<MyGithubItems jsonName="lang-rust-tut" />
+<MyGithubItems jsonName="lang-clojure-tut" />
 
 ---
 

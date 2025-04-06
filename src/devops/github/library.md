@@ -19,6 +19,14 @@ tag:
   - csharp 
   - php 
   - bash
+head:
+  - - meta:
+    - property: og:title
+      content: Github > Library
+    - property: og:description
+      content: Library
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/github/library.html
 ---
 
 # {{ $frontmatter.title }} 관련

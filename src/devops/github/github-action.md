@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Github Action
 description: Github > Github Action
-icon: fas fa-code-branch
+icon: iconfont icon-github-actions
 category:
   - Github
   - Github Action
