@@ -68,5 +68,6 @@ tag:
 <MyYouTubeItems jsonName="yu-프론트맨-e2b" /><!-- 프론트맨 -->
 <MyYouTubeItems jsonName="yu-coding2go" /><!-- Coding2GO -->
 <MyYouTubeItems jsonName="yu-Glo_Academy" /><!-- Glo Academy -->
+<MyYouTubeItems jsonName="yu-frontend-tribe" /><!-- Frontend Tribe -->
 
 <TagLinks />

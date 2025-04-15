@@ -1,0 +1,33 @@
+{
+  "channel": {
+    "id": "frontend-tribe",
+    "name": "Frontend Tribe",
+    "profile": "https://yt3.googleusercontent.com/Eb9bebumXQLX7EtLtp2GznGCRWgx9rd_g6aqRVq_d7o9p9RSh1C6iDjoFCHCynfSr2rZpZTh1Co=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "DdyRNgGf27M", "title": "How To HyperLink in HTML (Step-by-Step Guide)" },
+    { "id": "ewKX2EIZJOc", "title": "CSS Transitions and Animations For Beginners" },
+    { "id": "_d4YKvqNHF4", "title": "How to Create a CSS File (no downloads needed!)" },
+    { "id": "dmj-6IhgGqs", "title": "CSS In 60 Seconds" },
+    { "id": "SiEYH5TlRP8", "title": "Amazing Animated Shiny Button in CSS" },
+    { "id": "-47rHRuf3jM", "title": "Stop using CSS Hex Values - Use this instead" },
+    { "id": "MOsWTckRPfk", "title": "Staff Level Frontend SOLVES Frontend Mentor QR Code Component Challenge" },
+    { "id": "27Zmx_3z_sc", "title": "The Ultimate Guide to Flexbox in 12 Demos" },
+    { "id": "4k7IdSLxh6w", "title": "Create a Stunning Dark Theme SaaS Landing Page: Frontend Dev Tutorial" },
+    { "id": "7hi5zwO75yc", "title": "Build a Stunning SaaS Landing Page with React, Next.js, TailwindCSS & Framer Motion | Full Tutorial" },
+    { "id": "Z7I5uSRHMHg", "title": "Create a Stunning AI Landing Page from Scratch (React, Next.js, Tailwind, Framer Motion)" },
+    { "id": "IHL_r2otyw4", "title": "Build a Stunning React Portfolio: Next.js, Tailwind, and CSS Animation | Part 1" },
+    { "id": "72OKuwYxWf8", "title": "Build a Stunning React Portfolio: Next.js, Tailwind, and CSS Animation | Part 2" },
+    { "id": "8PeEKbqE3E0", "title": "Build an Epic Dark-Mode Blockchain SaaS Site with Astro.js, TailwindCSS, & Framer Motion | Part 1" },
+    { "id": "bQpMSpV0fks", "title": "Build and Deploy an Epic Dark-Mode Blockchain Site | Astro.js, TailwindCSS, Framer Motion | Part 2" },
+    { "id": "ELS5AitnFI4", "title": "Build and Deploy an Epic Dark-Mode Blockchain Site | Astro.js, TailwindCSS, Framer Motion | Part 3" },
+    { "id": "ELssXP1sTC8", "title": "Build a Stunning React Portfolio: Next.js, Tailwind, and CSS Animation | Complete Course" },
+    { "id": "zqXyCteRQdg", "title": "Full Course: Build and Deploy a 🤩 Futuristic Next.js AI Saas Landing Page" },
+    { "id": "7ItfH0-4Xyc", "title": "Build a Stunning Single-Page Developer Portfolio with Next.js, TailwindCSS, Framer Motion 🚀 | Part 1" },
+    { "id": "w6z74VlnTSo", "title": "Build a Stunning Single-Page Developer Portfolio with Next.js, TailwindCSS, Framer Motion 🚀 | Part 2" }
+  ],
+  "playlists": [
+
+  ]
+}

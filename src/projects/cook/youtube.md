@@ -43,5 +43,6 @@ head:
 <MyYouTubeItems jsonName="yu-anhdaubep" /><!-- Anh Đầu Bếp -->
 <MyYouTubeItems jsonName="yu-첫째아들" /><!-- 첫째아들 -->
 <MyYouTubeItems jsonName="yu-higaengs" /><!-- 하이갱스 higaengs -->
+<MyYouTubeItems jsonName="yu-밥솥남" /><!-- Rice cooker man -->
 
 <TagLinks />

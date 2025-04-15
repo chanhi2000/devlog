@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/82wasPpOknXCNhUUhDyLW-HGPvPPgnzBlss8878LXtvXGf4GX9c6rmpiOUEKCguO6Am_e_u1=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lpyYxfOMnBc", "title": "Creating a Users Table with Drizzle ORM and Nuxt (NuxtHub)" },
+    { "id": "yGHgjacVaSs", "title": "Building a video admin page with NuxtHub / NuxtUI" },
+    { "id": "xOTcZWi5OqE", "title": "Setting up NuxtHub D1 for video storage (w/ Bunny CDN)" },
+    { "id": "CS2TfZmdgA8", "title": "Building a Zig CLI tool, LLM code context generator pt. 1" },
+    { "id": "6RM-pR8QsgQ", "title": "Finishing the Zig CLI and testing with Grok" },
+    { "id": "oMka-CS72jQ", "title": "NuxtHub is a GAME changer - Getting started tutorial" },
+    { "id": "CxeYdXbJAsc", "title": "NuxtHub database, kv, cache and blob store - taking a look inside" },
+    { "id": "wu4Uapx2fWY", "title": "Using Drizzle ORM with NuxtHub (Cloudflare D1)" },
+    { "id": "qTp3VA-9DYc", "title": "Fixing Broken Drizzle Foreign Key Migrations In SQLite with NuxtHub" },
     { "id": "YVl87Qw_yzk", "title": "Add Push Notifications to an iOS PWA (w / Nuxt & FCM)" },
     { "id": "QNh0hrmlOhY", "title": "Nuxt3 TDD Todo app (part 2) PlanetScale + Prisma + Authentication 🚀" }, 
     { "id": "Ev9YLaLvAJM", "title": "Build a React Bookmark app from scratch (Learn React Hooks)" }, 

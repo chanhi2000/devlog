@@ -60,7 +60,7 @@ head:
 <MyYouTubeItems jsonName="yu-coderyan" /><!-- Code Ryan -->
 <MyYouTubeItems jsonName="yu-frontendzonedotcom" /><!-- frontendzone -->
 <MyYouTubeItems jsonName="yu-DailyTuition" /><!-- Daily Tuition -->
-<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
+<MyYouTubeItems jsonName="yu-HiteshCodeLab" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-sangammukherjee" /><!-- Sangam Mukherjee -->
 <MyYouTubeItems jsonName="yu-brianmmdev" /><!-- Brian Morrison -->
 <MyYouTubeItems jsonName="yu-idoevergreenx" /><!-- Ido Evergreen -->
@@ -69,5 +69,5 @@ head:
 <MyYouTubeItems jsonName="yu-TheDevStory" /><!-- 개발같은소리하네 -->
 <MyYouTubeItems jsonName="yu-rasmic" /><!-- Ras Mic -->
 <MyYouTubeItems jsonName="yu-HiroSystems" /><!-- Hiro -->
-
+<MyYouTubeItems jsonName="yu-bridgertower" /><!-- Bridger Tower -->
 <TagLinks />

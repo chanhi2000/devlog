@@ -62,7 +62,7 @@ head:
 <MyYouTubeItems jsonName="yu-basarat" /><!-- basarat -->
 <MyYouTubeItems jsonName="yu-MichiganTypeScript" /><!-- Michigan TypeScript -->
 <MyYouTubeItems jsonName="yu-CodingGarden" /><!-- Coding Garden -->
-<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
+<MyYouTubeItems jsonName="yu-HiteshCodeLab" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-pnk" /><!-- Paris Nakita Kejser -->
 <MyYouTubeItems jsonName="yu-Tricknology" /><!-- Tricknology -->
 <MyYouTubeItems jsonName="yu-codeSTACKr" /><!-- codeSTACKr -->

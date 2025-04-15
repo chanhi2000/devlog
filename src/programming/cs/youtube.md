@@ -109,5 +109,6 @@ head:
 <MyYouTubeItems jsonName="yu-xenoint" /><!-- 이동준 -->
 <MyYouTubeItems jsonName="yu-POCUKorea" /><!-- POCU 코리아 -->
 <MyYouTubeItems jsonName="yu-wpftv" /><!-- Minimalist Developer [ MD TV ] -->
+<MyYouTubeItems jsonName="yu-lambidu-me" /><!-- lambidu -->
 
 <TagLinks />

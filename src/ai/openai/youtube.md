@@ -118,7 +118,7 @@ head:
 <MyYouTubeItems jsonName="yu-sentdex" /><!-- sentdex -->
 <MyYouTubeItems jsonName="yu-diplwapl" /><!-- 디플와플 -->
 <MyYouTubeItems jsonName="yu-1littlecoder" /><!-- 1littlecoder -->
-<MyYouTubeItems jsonName="yu-corgi_NLP" /><!-- NLP 코기 -->
+<MyYouTubeItems jsonName="yu-NLP코기" /><!-- NLP 코기 -->
 <MyYouTubeItems jsonName="yu-jincoding" /><!-- 찐코딩 Jin Coding -->
 <MyYouTubeItems jsonName="yu-ai-foundations" /><!-- AI Foundations -->
 <MyYouTubeItems jsonName="yu-kimfl" /><!-- 프로그래머 김플 스튜디오 -->

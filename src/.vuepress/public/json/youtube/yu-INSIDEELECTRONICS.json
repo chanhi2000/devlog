@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "INSIDEELECTRONICS",
+    "name": "INSIDE ELECTRONICS!",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k1IaAb9qlR2ro592mzA3A9h9guEjjv0M1wNTBtDo5olg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/UdJnj5yYKkpDli1c_7eAxl6gdyaUIlbfn9M-wE8xaa6tAp9u9ay4tOfpOiVJ8P6YasSlPFut=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CccLd0znQr8", "title": "IE182: Modifying the Analog multimeter for a custom LED indicator." },
+    { "id": "5OF2TJ_acAM", "title": "IE#171: Unboxing GM238 components tester!" },
+    { "id": "9ojB7KGu0s0", "title": "IE180: My first personal DSO! #DSO138" }
+  ],
+  "playlists": [
+
+  ]
+}

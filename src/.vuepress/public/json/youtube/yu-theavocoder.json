@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "6Ixyltr8_R0", "title": "JavaScript Visualized - Closures" },
     { "id": "eiC58R16hb8", "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue" },
     { "id": "zdGfo6I1yrA", "title": "JavaScript Visualized - Execution Contexts" }
   ],

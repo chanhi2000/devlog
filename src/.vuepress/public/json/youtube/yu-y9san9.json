@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "y9san9",
+    "name": "Alex Sokol",
+    "profile": "https://yt3.googleusercontent.com/zdODsbwiuDMGeixBitIEV-_px1RU8BVaagkWMMs5BFIJmpiuc1emJWkBb_f2bo7w2lameKtp=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QNcA_y6yMy3ryepAY-34umwnMCHbmyCHYJ1X3GGgh1PDUZZBYTSdSgf7v_xvBwAxHVTHbDuQWw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Ty02Z7XqaSE", "title": "Writing CLI Game of Life in Jetpack Compose. Kotlin + Neovim" },
+    { "id": "9t97Fd4rUhQ", "title": "Реализация Морского Боя на Kotlin" },
+    { "id": "1v9oqpZeprU", "title": "Android: Почему нельзя использовать Context в ViewModel" },
+    { "id": "Ndw64X9o9J0", "title": "Why Coroutines are Actually No Magic in Kotlin" }
+  ],
+  "playlists": [
+
+  ]
+}

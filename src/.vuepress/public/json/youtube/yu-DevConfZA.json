@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "DevConfZA",
+    "name": "DevConf",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mv7HvmSrVkzHE9_d3ju1nGBgH8yIqEIH-_pZ_cfQYAPA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/qk4E-kZVSDv_qKGhpOOAvcBkj3QImBrediRXHj_EiAkWDpM90fQArQUKebt2l-eq1Vhe8uIXcw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "hK95tED11Ac", "title": "Cassandra Vellema - Tech's Secret Superpower: How to Unleash Neurodiverse Talent" },
+    { "id": "09xi2t0yltU", "title": "Tobias Brandt - PRQL: a powerful, pipelined SQL replacement" },
+    { "id": "lChkcPSHNJI", "title": "Julia Muiruri - Will AI really take my job? - A Call for Complete Developer Mindshift!" },
+    { "id": "D2mWv1jBViI", "title": "Xandor Schiefer - I Can't Believe It's Not Native!" },
+    { "id": "67VoV7Pj-Mg", "title": "Lee Bailey - Developer Driven-Testing: ship better code faster by removing the testing column." },
+    { "id": "FX_2f_MR6ZY", "title": "Cayden de Wit - How modern computers play board games" },
+    { "id": "lna2Z2uDCpY", "title": "Janco Wolmarans - Building on a Crypto Operating System" },
+    { "id": "c_p3gYTwd-w", "title": "Ewald Horn - If it's everywhere, why aren't you using it?" },
+    { "id": "JqNB7xNn2WE", "title": "Richard Sithole - My Journey from Call Centre Agent to Frontend Lead Developer" },
+    { "id": "lj_IvWvxV2E", "title": "John Kamara - PDI Model for Progressive Data Transformation in Organizations" },
+    { "id": "a-EB4d4FsyE", "title": "Daniel Temme - Making observability tangible (with end-to-end test automation)" },
+    { "id": "okVm_UJUo8I", "title": "Monique Springer - Embracing Neurodiversity in the Software Industry" },
+    { "id": "DzuYz1dPdCA", "title": "Omphile Matheolane - Chains Redefined: Blockchain’s Promise for Africa’s Rich Resources" },
+    { "id": "uLc1FlYEgZ4", "title": "Rudi Grobler - From Overheating to Overachieving: A Comedic Tale of Hacking My Car" },
+    { "id": "lq7ozI0HDHs", "title": "Quinn Grace - Data Science For Dummies" },
+    { "id": "7Kap-xMmnvY", "title": "Daniel Teixeira - Turning Doubters Into Believers - Bringing Flash to the Enterprise and Beyond" },
+    { "id": "BikCuh-GXVM", "title": "Reuben Kruger - Death to the Server : The New Serverless Era" },
+    { "id": "D3iP3dqTaGc", "title": "Strauss Bornman - From code to Experience: Build a bridge between UX and Development" },
+    { "id": "UBR-hrp22Rk", "title": "Nico du Plessis - The Good, the Bad, and the Cross-Platform: Insider Stories of Mobile Development" },
+    { "id": "6nxfnSZOiV4", "title": "Tiane Erwee - Module Federation: Your teams don't need to deploy together" },
+    { "id": "FpDVLY19GN4", "title": "William Brander - How building a portable escape room made me a better developer" },
+    { "id": "-LZvgrcTXvs", "title": "Allan Pead - Building Yourself an AI Powered Microscope" },
+    { "id": "QXEzIgiaW1w", "title": "Andy Higgins - All the cool tech behind building a smart parcel locker network in South Africa" },
+    { "id": "Ns-IPz-pxKA", "title": "Jason Petzer - Restoring business trust in technology" },
+    { "id": "kkoNjM-ur_Q", "title": "Pippa Hillebrand - Rewriting a datastore, at millions of transactions per second" }
+  ],
+  "playlists": [
+
+  ]
+}

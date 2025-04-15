@@ -117,5 +117,5 @@ head:
 <MyYouTubeItems jsonName="yu-techunboxing_channel" /><!-- 테크 언박싱 -->
 <MyYouTubeItems jsonName="yu-REDBEAN_Official" /><!-- REDBEAN -->
 <MyYouTubeItems jsonName="yu-DebErney" /><!-- Deb Erney (DebErneydotcom) -->
-
+<MyYouTubeItems jsonName="yu-INSIDEELECTRONICS" /><!-- INSIDE ELECTRONICS! -->
 <TagLinks />

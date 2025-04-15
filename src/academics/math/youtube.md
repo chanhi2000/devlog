@@ -90,5 +90,6 @@ head:
 <MyYouTubeItems jsonName="yu-eostatistics" /><!-- 통계의 본질 EOStatistics -->
 <MyYouTubeItems jsonName="yu-brightsideofmaths" /><!-- The Bright Side of Mathematics -->
 <MyYouTubeItems jsonName="yu-onlocklearning" /><!-- Onlock -->
+<MyYouTubeItems jsonName="yu-MichelleKrummel" /><!-- Michelle Krummel -->
 
 <TagLinks />

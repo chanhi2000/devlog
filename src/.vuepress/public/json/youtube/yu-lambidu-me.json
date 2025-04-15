@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "lambidu-me",
+    "name": "lambidu",
+    "profile": "https://yt3.googleusercontent.com/1igVNbrMwvHqxaRIFg4uFPjH7p-Vl-uPurwWta07TCRf6zmjLxno4oXlmDb6xhBlQv4nSrMftQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "fPrFq-xOBj0", "title": "Learning Blazor on real world project - Day 2" },
+    { "id": "QQTBK4-Hv9o", "title": "Learning Blazor on real world project - Day 1" },
+    { "id": "RR71eYcdpeQ", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 1" },
+    { "id": "yQRWQfMbwcs", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 2" },
+    { "id": "71ncrTvciUM", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 2" },
+    { "id": "CpXR3N74s6Y", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 4" },
+    { "id": "Z8t7I5eyD9U", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 5" },
+    { "id": "YtRm0Zx8ZZw", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 5" },
+    { "id": "5Y-DA8eelIk", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 6" },
+    { "id": "ZvgbgsHBOAU", "title": "Making an browser extension/tool for a car dealer (no more Blazor + MAUI) Day 7" },
+    { "id": "zpwxB_HitqA", "title": "Wrapping up browser extension for a car dealer (TypeScript/Angular) Day 8" },
+    { "id": "L_r_sumadZs", "title": "Wrapping up browser extension for a car dealer (TypeScript/Angular) Day 11" },
+    { "id": "pMfwfbiEzSI", "title": "Wrapping up browser extension for a car dealer (TypeScript/Angular) Day 12" },
+    { "id": "9F5hF5Dk4jw", "title": "Wrapping up browser extension for a car dealer (TypeScript/Angular) Day 12" },
+    { "id": "upxzQj5A9zc", "title": "Wrapping up browser extension for a car dealer (TypeScript/Angular) Day 13" },
+    { "id": "SYxsOyGYZU8", "title": "Geek Tools Project (lovely Blazor) Day 1" },
+    { "id": "RnIyBGASsRc", "title": "Geek Tools Project" },
+    { "id": "3y0FdfH92DU", "title": "Geek Tools Project (Blazor) Day 3" },
+    { "id": "1mndnN28IeQ", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "USqJZSw2B5g", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "s8-F1_l37Ik", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "MVe2wqYwzY4", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "HeJojsoUVSQ", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "qQyEknDnxgc", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "rn087tKiwtw", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "F7o2Pajey1g", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "SvuoPUGG-0w", "title": "DT Extension (refactoring to make Google happy)" },
+    { "id": "GYr4SEdCbNw", "title": "DT Extension  (refactoring using Blazor)" },
+    { "id": "3_NnyafAGL4", "title": "DT Extension  (refactoring using Blazor)" },
+    { "id": "OGSbcvO-TTc", "title": "Making full API for a website, from scratch, using C# ASP.NET" },
+    { "id": "_H-KD6J0dL8", "title": "Making full API for a website, from scratch, using C# ASP.NET" }
+  ],
+  "playlists": [
+
+  ]
+}

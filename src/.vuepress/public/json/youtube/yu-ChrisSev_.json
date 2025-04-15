@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "wEM5NdJ-8HY", "title": "Beginner Tailwind [FULL COURSE]" },
     { "id": "86old-KflMU", "title": "Using Tailwind CSS Flexbox Classes" },
     { "id": "4XlufQ8Mygw", "title": "Recreating the Docker Pricing Page with Tailwind" }
   ]
