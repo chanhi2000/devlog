@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "codingjitsu",
+    "name": "Coding Jitsu",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_k64dGBL8t4-VVBahMuXFwPgRAGKEwTQ9ndmdZXvxYUT5g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ncuiT924aqg", "title": "Run PostgreSQL in Docker with Just One YAML File (Super Fast Setup!)" },
+    { "id": "htgktwXYw6g", "title": "Building Next.js Fullstack Blog with TypeScript, Shadcn/ui, MDX, Prisma and Vercel Postgres." },
+    { "id": "fSeNhzGD1PU", "title": "Next.js Email Widget Refactor: Loading State & Custom Validation with Zod Explained" }
+  ],
+  "playlists": [
+
+  ]
+}

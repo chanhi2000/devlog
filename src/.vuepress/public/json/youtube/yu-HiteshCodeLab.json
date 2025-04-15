@@ -1,11 +1,44 @@
-{ 
+{
   "channel": {
-    "id": "HiteshChoudharydotcom",
+    "id": "HiteshCodeLab",
     "name": "Hitesh Choudhary",
-    "profile": "https://yt3.googleusercontent.com/ytc/APkrFKaPBdYd5XqCfgtA93cq_BVWzve4wpGmBf4EcH0XsA=s176-c-k-c0x00ffffff-no-rj",
-    "banner": "https://yt3.googleusercontent.com/zO8n2TfZoDXozQeKwq7APiVXn4BIZw7Q0-5SCVw4FXY_q2ysjtmVp5WYw1_M3bn9m3WiNarZGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+    "profile": "https://yt3.googleusercontent.com/arHIKjc6JTqF_b4QJKPHhQC_Jr8q0XfI7LEpJ0-VuiI0ZRz9xFNz94TWl4CLOcozLx-iAhV_=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/kemZJqQd_ZA3UUzyk5SaISkeWdY1zwcDTq0y2NQLBQEl6iHNWcJy3K-EMg2gE9W7bGNuIb9ahqI=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "vf410FLQQD0", "title": "Generate youtube video caption within your terminal" },
+    { "id": "LbmVU4WjDNI", "title": "Should I use my Own auth or use Clerk" },
+    { "id": "LNLblG0c6TA", "title": "Learn about devEx with founders of pullpo" },
+    { "id": "4WqAmAZ3atI", "title": "Best terminal experience on Windows with AI | Warp on Windows" },
+    { "id": "ZntaiuLmyBk", "title": "Security for your Backend Application | Arcjet" },
+    { "id": "dbETZr45ki8", "title": "How openai and anthropic publish their SDK and you can too" },
+    { "id": "6cXpjtc36XE", "title": "Build an online store with Imagekit and razorpay" },
+    { "id": "uIm8QREfVqU", "title": "Daisy UI and future feature recommendation" },
+    { "id": "afnHkORO0B4", "title": "Hooks and methods in mongoose with JWT" },
+    { "id": "nOZIR9bS9CQ", "title": "How to handle files in MERN application" },
+    { "id": "zcIMZt915cw", "title": "Registration with Ultimate debugging and refactoring" },
+    { "id": "_emiCBd3O1U", "title": "How to write login controller in MERN backend" },
+    { "id": "zZc25Cgv2WA", "title": "How to generate new refresh token in MERN backend" },
+    { "id": "6CTTc7H4v3M", "title": "How to write middleware in MERN backend" },
+    { "id": "Cw6dwSUz8aM", "title": "Practice CRUD in MERN backend" },
+    { "id": "Zo5WNMUzb20", "title": "How to get complex data with aggregation pipeline in Mongodb" },
+    { "id": "lJHqmiEvuG4", "title": "A postman assignment for you in routes" },
+    { "id": "VT099T4Feb0", "title": "Learn web deployment in just 1 video" },
+    { "id": "RN9G7z_OAWQ", "title": "Learn about AI Impact with Founders of Hashnode" },
+    { "id": "sn4cDCq52h8", "title": "You deserve to know about Astro as JS framework" },
+    { "id": "3iRTmwlupEU", "title": "Top Developer productivity tools in 2024" },
+    { "id": "9yYosuJd4fc", "title": "Building a Data science project in Javascript" },
+    { "id": "S9CGGtwmdeE", "title": "Wordpress Open Source drama" },
+    { "id": "ozbAQXQov0E", "title": "Lets build a SAAS starter template with Clerk and NextJS" },
+    { "id": "beehLg6WhBg", "title": "Event Driven Architecture  | A guide on Clerk Webhooks" },
+    { "id": "8UcaOZyAT3E", "title": "Handle NeonDB PostgreSQL with NextJS" },
+    { "id": "NecUyAyox60", "title": "NextJS 15 just got rolled out for Production 🤔" },
+    { "id": "FQCTzomz6bw", "title": "How to handle Custom Signup flow in Clerk" },
+    { "id": "1u2SOSUPKHY", "title": "Clerk Middleware guide for Role based access" },
+    { "id": "VCSI9mkQYMY", "title": "Crash course on Handling Webhooks | Clerk Webhooks" },
+    { "id": "PWs6gFmjDyo", "title": "A crash course on prisma CRUD and pagination" },
+    { "id": "fjZw0uR2C7Y", "title": "Build auth flow using postman flows" },
+    { "id": "DTJ-HmxBFDo", "title": "Fresh project ideas for 2025 from postman public network" },
     { "id": "fwOpQYHJruE", "title": "Your own Vercel on VPS - Coolify" },
     { "id": "C8nr_yiQXNU", "title": "How to deploy node api with ngnix on VPS" },
     { "id": "cBh6yTH-XY4", "title": "How to install SSL on ngnix on Ubuntu" },
@@ -160,4 +193,3 @@
 
   ]
 }
-

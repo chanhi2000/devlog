@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/mkrNn6SCuPTVNZVlsawEruk6tjGTeiGPzXdeHSW6g7t7qkfRbhcdPP_ZVSMos80ejARgCkOFVw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZILl4d_iyEA", "title": "[NHN Cloud 보안 서비스] 안전한 클라우드 환경을 위한 최적의 선택" },
+    { "id": "oGaeWxXaFiU", "title": "NHN의 기술 노하우가 응집된 모바일 앱 보안 서비스, NHN AppGuard" },
     { "id": "PpgUzVo1tm8", "title": "[7분 클라우드] 웹 서버와 DB 서버를 구축해보자!" },
     { "id": "G6d8Ny2BgDE", "title": "[웨비나] 요즘 잘나가는 스타트업의 비즈니스 커뮤니케이션 SaaS (w/퀸잇, 부드러운돌멩이, 삼쩜삼)" },
     { "id": "XN0kHTl3ZaU", "title": "[7분 클라우드] 1. 사설 네트워크와 공용 네트워크 | 클라우드 서버 생성과 접속" },

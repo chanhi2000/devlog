@@ -50,7 +50,7 @@ head:
 <MyYouTubeItems jsonName="yu-IogaMaster" /><!-- IogaMaster -->
 <MyYouTubeItems jsonName="yu-kingchobo" /><!-- 왕초보 홈페이지만들기 -->
 <MyYouTubeItems jsonName="yu-ComputersAndTechAndAndrew" /><!-- Cat and Andrew -->
-<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
+<MyYouTubeItems jsonName="yu-HiteshCodeLab" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-gitminam" /><!-- 깃미남 - 깃에 미친 남자 -->
 <MyYouTubeItems jsonName="yu-gitbutlerapp" /><!-- GitButler -->
 <MyYouTubeItems jsonName="yu-jesseduffield9516" /><!-- Jesse Duffield -->

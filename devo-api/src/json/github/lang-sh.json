@@ -422,7 +422,7 @@
   }, {
     "repo": "quickemu-project/quickemu",
     "desc": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
-    "officialSite": "https://www.youtube.com/watch?v=AOTYWEgw0hI",
+    "officialSite": "https://youtu.be/AOTYWEgw0hI",
     "topics": ["9p", "efi", "hackintosh", "hacktoberfest", "kvm", "linux", "macos", "qemu", "spice", "tpm", "virgl", "virglrenderer", "virtio", "virtualization", "windows"],
     "avatar": "",
     "banner": ""

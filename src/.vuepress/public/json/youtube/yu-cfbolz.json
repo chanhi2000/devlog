@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "cfbolz",
+    "name": "cfbolz",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mPGpHbroBWBou2oxyJfv50_3i2-xsuk4_kWexoTqw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "drwJBzDM1jI", "title": "Making PyPy's GC and JIT produce a sound" }
+  ],
+  "playlists": [
+
+  ]
+}

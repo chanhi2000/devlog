@@ -1,11 +1,15 @@
 {
   "channel": {
     "id": "leese_",
-    "name": "이세 | 자기계발, 디지털 노마드",
+    "name": "이세 | No.1 노션 포트폴리오 전문가",
     "profile": "https://yt3.googleusercontent.com/vd_mWdsaGC72-3szBGcraN4Zoti0S4ZUkeG632SGAO3YbFf7535u30h0prkfrxH6OF1iXrKr=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/qiZSTWPFG8c38huP1Ny-TkjtCU5FNufn6PU-6btrOzlkMhymGQCTI07OA-7u0g_f68ACCzQLfw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "xB7nEfAzjtI", "title": "크몽1위 전문가의 포트폴리오 작성 꿀팁 3가지 | 노션포트폴리오 템플릿 | 포트폴리오 작성 방법 | 마케터의 포트폴리오 함께 만들어 봐요!" },
+    { "id": "mnUXGAmGGdU", "title": "31살에 해외영업에서 마케터로 이직한 ssul 🗣 | 이직사유, 이직준비 과정, 이직 후 느낀점" },
+    { "id": "qLvt21rZW5E", "title": "콘텐츠 마케터의 현실😢 l 마케터실무 QnA l 물경력 대처법" },
+    { "id": "cMYAFTM87HA", "title": "노션 포트폴리오 CLASS101 강의 예고편" },
     { "id": "xB7nEfAzjtI", "title": "크몽1위 전문가의 포트폴리오 작성 꿀팁 3가지 | 노션포트폴리오 템플릿 | 포트폴리오 작성 방법 | 마케터의 포트폴리오 함께 만들어 봐요!" }
   ]
 }

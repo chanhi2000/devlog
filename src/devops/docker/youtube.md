@@ -131,5 +131,5 @@ head:
 <MyYouTubeItems jsonName="yu-devtoolsfm" /><!-- devtools-fm -->
 <MyYouTubeItems jsonName="yu-TechRaj156" /><!-- Tech Raj -->
 <MyYouTubeItems jsonName="yu-easyselfhost" /><!-- Easy Self Host -->
-
+<MyYouTubeItems jsonName="yu-DevOpsThiago" /><!-- DevOps Thiago -->
 <TagLinks />

@@ -6,6 +6,9 @@
     "banner": "https://yt3.googleusercontent.com/wv_lySJGT25X6x7RdLWBat7rKV0jXzpM3DmGCxo8gwidLWT3I7BHxP_fjf7r3yykc_nABXyO6Lk=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "DOfK-HaeSoY", "title": "Recording my next tutorial" },
+    { "id": "431MtYtTmgs", "title": "Create a Donkey Kong Country-ish Platformer in JavaScript" },
+    { "id": "JTAo08f74GA", "title": "Build a Full Stack Apple Notes Web App with Auth & Nuxt 3" },
     { "id": "lvxX2XEDA_k", "title": "Obscure but useful JavaScript - `.scrollIntoView()`" }
   ]
 }

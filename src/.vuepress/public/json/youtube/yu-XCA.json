@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/jc7cDk5ROrndxlfkhaUqHMQwKGz-bWXVhOqxShC28mU87PsHu2C2YJzHxMF5KTTSL5eyDfYAig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "yrCu6CJgXlQ", "title": "ByteCast #5 - Generic Cache + Expiration Timestamp | NSCache | Swift" },
+    { "id": "vRSDLjs_kiI", "title": "ByteCast #6 - Caching Network Request | Swift Actor & Task | NSCache" },
+    { "id": "9OVMRxGdOk8", "title": "ByteCast #7 - 3 Columns SwiftUI Split View | iOS | macOS | visionOS" },
+    { "id": "jBboXAcPvdA", "title": "ByteCast #8 - Navigation Transition AppStore Hero Animation  | SwiftUI | iOS 18" },
+    { "id": "zMC8naA50Vc", "title": "ByteCast #9 - iOS 18 Translation API App Localization | Realtime & On-Device" },
+    { "id": "T1QfB_9rMa0", "title": "ByteCast X - SwiftUI Table with Dynamic Columns | JSON/CSV Tabular Data Frame" },
+    { "id": "pN-AABF_x9A", "title": "ByteCast #12 - Sendable Class with Thread Safe Mutable Properties | Swift 6 Strict Concurrency" },
+    { "id": "AFptXvoKp1o", "title": "ByteCast #13 - @GlobalActor Thread Safe Class | Swift 6 Strict Concurrency" },
+    { "id": "FUXrhwJt2HQ", "title": "ByteCast #17 - Securing Document Directory Data with Secure Enclave Encryption & HMAC Signing" },
+    { "id": "vYwF6CNhW5Y", "title": "ByteCast #19 - Migrating Combine to Swift AsyncStream | CryptoTracker WebSocket Realtime SwiftUI App" },
+    { "id": "3GCYdchW9II", "title": "ByteCast #20 - Build a WebSocket Client | Ping Scheduler & Network Monitor | Auto Reconnect" },
     { "id": "jfpNfABEnys", "title": "ByteCast #1 - Search with Debounce in SwiftUI | @Observable | Combine" },
     { "id": "IRRZfUyShUs", "title": "ByteCast #2 - Thread Safe GCD Property Wrapper | Swift" },
     { "id": "RQGdXCf4gV0", "title": "ByteCast #3 - SwiftUI Network Status Monitor | NWPathMonitor" },

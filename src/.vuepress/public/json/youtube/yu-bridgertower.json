@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "bridgertower",
+    "name": "Bridger Tower",
+    "profile": "https://yt3.googleusercontent.com/FhCdoMO6-CCKzoVig4b9nvFjrbgn1Ipy4qmWumeNflQYLA45-s1tYga1kD-wnq7rJSZq6TuTJg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dIUBB7vNQh7lt0EmtXML0TSkeQYSK3Qd29zfrJVhizaF-FzsA6_B0_dBadtnrNqYlk2MqBf6=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZoWems8EqL4", "title": "NEXT.js 14 meets Headless Wordpress: The Perfect Combo for SEO and SPEED ⚡︎ Guillermo Approved!" },
+    { "id": "YKkGNZK8En8", "title": "Building a Design System with shadcn/ui and Next.js 🎨 Automatic Styling and Spacing" }
+  ],
+  "playlists": [
+
+  ]
+}

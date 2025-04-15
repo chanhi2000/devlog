@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/JBnJB_KrdH-NdzFIrrblfPVPuOi5b5pwdvXwiZGAqjFDr05wESPUPlda3TGDxhpgiKkup5xz3A=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "itSu3T1zJew", "title": "Fluid compute with Vercel Functions" },
+    { "id": "8a4_AAds0vU", "title": "Introducing Fluid compute: The power of servers, in serverless form" },
+    { "id": "G-ngjNfMnvE", "title": "How Fluid compute works" },
+    { "id": "EiBi-92DIps", "title": "Building AI platforms on Vercel" },
+    { "id": "zA-eCGFBXjM", "title": "Build anything with v0 (3D games, interactive apps)" },
+    { "id": "ZmPGr1WHS_s", "title": "Multi-Step (Agentic) Generation with the AI SDK" },
+    { "id": "zL1f0SJmzt0", "title": "Optimizing LCP: Partial Prerendering deep dive (Wyatt Johnson)" },
+    { "id": "KQvGYBVgsv4", "title": "A fireside chat with Guillermo Rauch and Sahil Lavingia" },
+    { "id": "LxbktYCXKhg", "title": "Vercel has databases now" },
+    { "id": "cyFVtaLy-bA", "title": "Build a fullstack app in 7 minutes with v0 (Figma to code)" },
     { "id": "mZsGPCSg7Vg", "title": "Serverless compute: AWS re:Invent 2022" }
   ]
 }

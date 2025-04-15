@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "visionary_3_d",
+    "name": "Visionary 3D",
+    "profile": "https://yt3.googleusercontent.com/4btj-2jUv7VWY3zI12ElAeMjC_MyNXiR_HyCbRtx0uS2qjdmcIP_zc6cNhZLEn48w9GdqAzpD3M=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "nZNiroB1JYg", "title": "WebGPU :: Creating A Particle System" },
+    { "id": "0q1zKcArTbg", "title": "DevLog :: Creating a 3D Universe with AI" },
+    { "id": "47bgA5TQwmc", "title": "WebGPU :: Compute Shaders Crash Course For Beginners" }
+  ],
+  "playlists": [
+
+  ]
+}

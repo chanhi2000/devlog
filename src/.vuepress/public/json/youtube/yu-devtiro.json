@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/Fn3--REULJGT5hgmiYTXVE7EkiqCuKkN7t4noxhXj_dBghov7R4WTnIGtxsBfoLjAxhUaKjg3Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "Q29SS8FQwtA", "title": "Build an Event Ticket Platform with Spring Boot - Part 1 - Intermediate Project" },
+    { "id": "rki0eVGAVTQ", "title": "Build a Restaurant Review Platform with Spring Boot - Intermediate Project" },
+    { "id": "jM8iFPEJixg", "title": "Learning Spring? Learn this FIRST: Spring Beans Explained" },
+    { "id": "ynL2LtSHG5M", "title": "Unlock AI TODAY: How to use an LLM from Spring Boot" },
+    { "id": "MVnS9QPq__4", "title": "Task Tracking App for Beginners Part 3: Finish building your FIRST Spring Boot App" },
+    { "id": "brnazVsG4cY", "title": "Build a Task Tracker in Spring Boot for Beginners" },
+    { "id": "U44aqR-f3Pg", "title": "Build a Blog Platform with Spring Security for Beginners - Part 1" },
+    { "id": "4zR6bV3Jwx4", "title": "Build a Blog Platform with Spring Security for Beginners - Part 2" },
+    { "id": "T_dHYtgR5eM", "title": "Build a Blog Platform with Spring Security for Beginners - Part 3" },
+    { "id": "Gd6AQsthXNY", "title": "Build a Blog Platform with Spring Security for Beginners - Full Course" },
     { "id": "7iJ0NWRaWic", "title": "How to build a REAL Webapp with Kotlin & Spring Boot" },
     { "id": "HU1aPOeNaiQ", "title": "Start HERE for Database Mapping in Spring Boot: What's an Entity?" },
     { "id": "nmOYRdOvagU", "title": "How to Connect Spring Boot to MongoDB" },

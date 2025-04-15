@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "TheCodingWhale350",
+    "name": "TheCodingWhale",
+    "profile": "https://yt3.googleusercontent.com/l6gCtDU9RRFhKk--tCpBjLc6BJDufVJ-JBaVL8mRMkDURh5wso8H8MN3JM5K7qJYxSXFBvQA1Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "pr5rwONb9yY", "title": "AI Is Easy, Actually" },
+    { "id": "S6IAE5YRxmY", "title": "Rust Beginner Tries Re-Making Git ... With Rust" },
+    { "id": "c5fPha3HKgw", "title": "Deploying is easy, Actually" },
+    { "id": "9RlYHqn44NY", "title": "You Don't Have to Choose Anymore ..." }
+  ],
+  "playlists": [
+
+  ]
+}

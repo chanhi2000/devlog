@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "_jetech",
+    "name": "JeTech",
+    "profile": "https://yt3.googleusercontent.com/PRKU4TuRmYOzES5rJqMRl9RruBQY6X3Kc4wldo4M7MJZOwLdZ7SVabrLYWcZ58I8xjXpLdvDFfw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/YjtwmLy4cU0lDI9N9QSeAm0EC3bzEMSazuzpMD3tCnZDgXjStwo0XXjTRO7XTZ2BkUSsIHUbklA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gnTd2BNLUDw", "title": "이론상 무한동력의 트레이딩 AI학습" },
+    { "id": "UPeHqXSqnoY", "title": "투자에서 멘탈이 중요한이유" },
+    { "id": "5yrPRqaFtpE", "title": "어느 모델이 트레이딩을 잘할까" },
+    { "id": "kEjpoeSaQHI", "title": "트레이딩에 Time Series Representation 활용해보기" },
+    { "id": "Q_sqZyRuCzM", "title": "JeTech Lab에 넣을 AI 시장분석 시각화 차트들" },
+    { "id": "Mm7ecfcq3a0", "title": "3분기 마지막 주 시장 지수 분석" },
+    { "id": "bwqQiwrxlk8", "title": "유명 컨퍼런스 모델로 트레이딩 하기 (PatchTST, ICLR 2023)" },
+    { "id": "dyWPTAiIcsQ", "title": "트레이딩 AI의 데이터 연동과 시각화" },
+    { "id": "LLwaYmCcRpw", "title": "JeTech Lab 프로토타입 공개" },
+    { "id": "78T89AdRzlw", "title": "AI와 함께하는 새로운 시장/투자 분석 패러다임" },
+    { "id": "AbvkYgPYp4k", "title": "Chronos, Timeseries Foundation Model" }
+  ],
+  "playlists": [
+
+  ]
+}

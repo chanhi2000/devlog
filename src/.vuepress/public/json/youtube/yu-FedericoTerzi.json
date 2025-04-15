@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "M_EniM_IfnQ", "title": "Performance Optimization in Rust - How to Profile with Samply" },
     { "id": "Vb0HOgpphPM", "title": "I lost 2 hours on this crazy CSS issue..." }
   ]
 }

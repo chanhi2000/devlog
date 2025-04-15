@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "ginothedev",
+    "name": "Gino",
+    "profile": "https://yt3.googleusercontent.com/HpwRlkxoRdHzNxXL_2A68qpYewYhh6anOWpGY3thfn67YLebTItOUgB1WrxoHaSfIIOErs1xZg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eJawMoN8D2c84ipCULj757_9O2qxxJdXLhn2ZrVdIpVHzsl_XONfa4UlTzUmqh3voQ-nBm_dJw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UMwLMMCxjsg", "title": "How I built an AI SaaS feature - tech walkthrough" },
+    { "id": "2QEZWKwHrp0", "title": "Day in the Life of a Software Engineer Building SaaS" },
+    { "id": "a5DuWzgahx4", "title": "so i messed up a lot building my first SaaS 😅" },
+    { "id": "XPlmPxHzU_E", "title": "The Most Efficient Way To Apply To Software Engineering Jobs" },
+    { "id": "zwf35kXg9ik", "title": "The Best Way To Price Your Saas | 5 Methods Explained" },
+    { "id": "OlPT7_JiBF4", "title": "Building My SaaS Application In Public | Dinnerbee Devlog 2" },
+    { "id": "nM-40yVNY18", "title": "B2B or B2C SaaS - Which Is Better For Beginners?" },
+    { "id": "DGAtAkWE1DU", "title": "My First SaaS Application Failed Miserably..." },
+    { "id": "76bhYmQKYHk", "title": "Building My SaaS App's Most Complicated Feature | Dinnerbee Devlog #3" },
+    { "id": "-D8HRQhB8dM", "title": "How and why I'm running a SaaS Beta" },
+    { "id": "ZjHzzoRmOXg", "title": "Setting Up a New M4 Mac Mini for Software Development (This thing is sweet)" },
+    { "id": "qSMw_b3c2D4", "title": "I ran a beta for my new app...here's what happened" },
+    { "id": "MxAQxygWVss", "title": "5 Unconventional Micro SaaS Ideas You Should Be Building in 2025" },
+    { "id": "gX68IRLVw_w", "title": "How I built my SaaS web app - (tech stack, hosting, payments)" },
+    { "id": "lSRYlXNW17I", "title": "My girlfriend tries my app (I built it for her...)" },
+    { "id": "TuEBNjO5nOo", "title": "Speed running a new feature for my SaaS app" }
+  ],
+  "playlists": [
+
+  ]
+}

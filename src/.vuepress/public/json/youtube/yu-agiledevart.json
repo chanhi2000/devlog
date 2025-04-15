@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "agiledevart",
+    "name": "AgileDevArt",
+    "profile": "https://yt3.googleusercontent.com/qvTUqtnvnosZLhFnYxxyi8VSKIllIf2dUl1GcEODO_vB8U6qv72QyAEUOsY6ZAUXgP3ifNYusQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/amrU7g5NEXsxzNGu4JwHGYmxvenntPNflPtQK9JAKI3SU-vQeVM6jrmjZzqEBiGFkzl2LjAEeB8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SZvwDqSPuTU", "title": "Docker Tips - GUI Windows Apps in Container (2022)" },
+    { "id": "uW90cN08UWo", "title": "Emulate macOS for .NET Apps - No Mac Needed (Darling 2024)" },
+    { "id": "dYE6dzWtu6Y", "title": "Fastest Install of Alpine Linux with GNOME (PostmarketOS 2024)" },
+    { "id": "yRNlcfEutqY", "title": "DOOM Everywhere - Build from Scratch for Any Platform (Guide 2024)" },
+    { "id": "UvixzOtg7Aw", "title": "MacOS DOOM on Linux - Here's How with Darling (Guide 2024)" },
+    { "id": "Os0-I_rMDMc", "title": "Run DOOM on Android & iOS from Source - No Unity! (2024)" },
+    { "id": "ovzH7VKGBI4", "title": "FREE Unity Cloud Builds for iOS & Android on Azure DevOps (2024)" },
+    { "id": "LOFZ0yj9Y2c", "title": "Wayfire Deep Dive: No Other Linux Desktop Does This!" },
+    { "id": "2iBMsyfbC28", "title": "Ditch VNC! Xpra Will Change How You Remote Work" },
+    { "id": "3JgVJJjQZ8Y", "title": "Smallest HTTP Web Server? Think in KB!" }
+  ],
+  "playlists": [
+
+  ]
+}

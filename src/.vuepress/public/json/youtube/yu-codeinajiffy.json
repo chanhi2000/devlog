@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/Y_ComFWYuxP0A2sDcbTI4jRLyJaC0-E_XGGn0mS4ogFU61F0s8UXg8jVvFeP5kpXfVDXDDXAfA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_Hxb1zoY0Qw", "title": "Build an AI/NLP TV Series Analysis System with Hugging Face, Chatbots, Spacy, Gradio, and Python" },
+    { "id": "L23oIHZE14w", "title": "Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction" },
+    { "id": "_Hxb1zoY0Qw", "title": "Build an AI/NLP TV Series Analysis System with Hugging Face, Chatbots, Spacy, Gradio, and Python" },
+    { "id": "KyQKTJhSIak", "title": "Build and Deploy an AI Chatbot Using LLMs, Python, RunPod, Hugging Face, and React Native" },
+    { "id": "8_SfYEw4Gjg", "title": "LLMs for Practical NLP in Python: GPT, OpenAI, Prompt Engineering, HuggingFace" },
     { "id": "L23oIHZE14w", "title": "Build an AI/ML Tennis Analysis system with YOLO, PyTorch, and Key Point Extraction" },
     { "id": "neBZ6huolkg", "title": "Build an AI/ML Football Analysis system with YOLO, OpenCV, and Python" }
   ],

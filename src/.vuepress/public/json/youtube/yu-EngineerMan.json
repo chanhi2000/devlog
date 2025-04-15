@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/kk_puDeSvlSwZgKBA_--sH19nkA73oMsE4G26mAfaXsCShu79HC9tQprA5-vtHKxpUCFcqRD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "3O4PMWwdkF4", "title": "Can ChatGPT Install Arch Linux?" },
+    { "id": "4vv_nxOr4PI", "title": "Engineer Baby" },
     { "id": "8RvnnUuoHTA", "title": "Understanding Floating Point Struggles in 7 Minutes or Less" },
     { "id": "_chP0a4PMTM", "title": "Terminal Snowstorm With Python in 5 Minutes or Less" },
     { "id": "RhtjGp7oMvE", "title": "Understanding Fork Bombs in 5 Minutes or Less" },

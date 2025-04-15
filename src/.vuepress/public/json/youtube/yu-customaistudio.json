@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "customaistudio",
+    "name": "Devin Kearns | CUSTOM AI STUDIO",
+    "profile": "https://yt3.googleusercontent.com/JeM8YVY_2biT7fGV8mEX-k2eetZvTAktr2vqF7rfkF5vuYapy6FatMjS38jUAROZar2mQwJf=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/dTqA1B-jmaFI1HC8zZR0MCVf94n_y-FaIgmBWEbvDEW9Pv8_6KjiMnWCBdMLkugYZzSm7Zom9w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PeYZz0-IrQM", "title": "PART ONE: Sales SuperAgent Tutorial | agentAcademy" },
+    { "id": "CxDjIeINGQk", "title": "Why 'Agentic Operating Systems' are the FUTURE of AI & Business" },
+    { "id": "nC25io4cYlM", "title": "[WEBINAR] Augment Your Executive Team with an AI-Powered Second Brain" },
+    { "id": "PDnk2QD35Zg", "title": "PART THREE: Sales SuperAgent Tutorial | agentAcademy" },
+    { "id": "XcVxZ7973a0", "title": "PART FOUR: Sales SuperAgent Tutorial | agentAcademy" },
+    { "id": "UtGEp_-6ODs", "title": "[WEBINAR #4] How to Pitch Investor on an AI-Driven Business" },
+    { "id": "s4TMFvrwofc", "title": "How we're creating AI Implementation Strategies for our clients" },
+    { "id": "1g0MQamOXoY", "title": "**LIVE BUILD** Watch Me Build an AI Agent for a Client | N8N | AI Agents | Tutorial" },
+    { "id": "ip4VAYzDB3k", "title": "The BEST Blueprint for Integrating AI Agents into Your Business" },
+    { "id": "dq9CtjloFAs", "title": "n8n AI Agent Tutorial | Step by Step Guide to Building Your First AI Agent | Low code" },
+    { "id": "oF-xOgTxmzI", "title": "How To Build Scalable AI Agent Teams | AI Agent Architecture 101" }
+  ],
+  "playlists": [
+
+  ]
+}

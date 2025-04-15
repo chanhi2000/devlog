@@ -1,11 +1,23 @@
 {
   "channel": {
-    "id": "corgi_NLP",
+    "id": "NLP코기",
     "name": "NLP 코기",
     "profile": "https://yt3.googleusercontent.com/fIw7VbI2Fpn3aRAau-SHnmBSNmujyk6OJVxjO2MS81YlTDU6DtVrOZzAcI0WqMpMhMgwjf2WJDg=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/H2oNAmVST79Z0eWeC2eDhPSCdfr7jdnB-5mTbR2ZwWSNR9aE6SAq0dAqt4no6sDDVX3erwJQvII=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "MmtBnAh4cx4", "title": "Modular-RAG (Modular RAG: Transforming RAG Systems intoLEGO-like Reconfigurable Frameworks) | 꼬꼬엔" },
+    { "id": "9YNxb-4DFaQ", "title": "MoE를 넘어 Multi of Agents (Mixture-of-Agents Enhances Large Language Model Capabilities) | 꼬꼬엔" },
+    { "id": "tf6S7gVpzgU", "title": "Query routing으로 Retriever를 골라써요. (Query Routing for Homogeneous Tools: An Instantiation ...) | 꼬꼬엔" },
+    { "id": "Gi_mYlkmozs", "title": "Query Routing으로 LLM을 골라써요. (Routing to the Expert: Efficient Reward-guided Ensemble of ...) | 꼬꼬엔" },
+    { "id": "b2ShlVe1z9c", "title": "LLM이 도구를 쓰게 트레이닝해봐요. (ToolLLM: Facilitating Large Language Models to Master 16000+ ...) | 꼬꼬엔" },
+    { "id": "V3SsrahntPw", "title": "Graph RAG (From Local to Global: A Graph RAG Approach toQuery-Focused Summarization) | NLP 코기" },
+    { "id": "LrZszoQKm8w", "title": "Domain-specific RAG를 위한 LLM 파인튜닝 (RAFT: Adapting Language Model to Domain Specific RAG) | NLP 코기" },
+    { "id": "8b2FVm0zNAw", "title": "RAG는 오타에 취약하다 (Typos that Broke the RAG’s Back: Genetic Attack on RAG Pipeline by ...) | NLP 코기" },
+    { "id": "pPmPK93fu0A", "title": "Speculative RAG (Speculative RAG: Enhancing Retrieval AugmentedGeneration through Drafting) | 꼬꼬엔" },
+    { "id": "S6aD37tj-HI", "title": "반복적 긴 문서 압축과 RAG 성능 향상 (COMPACT: Compressing Retrieved Documents Actively for Question ...) | 꼬꼬엔" },
+    { "id": "tieeDshSP5g", "title": "Text를 넘어서 Video로 RAG (VideoRAG: Retrieval-Augmented Generation over Video Corpus) | 꼬꼬엔" },
+    { "id": "crwpW2Mr9-U", "title": "RAG에서 트리 구조로 재귀적으로 문서 검색! (RAPTOR: Recursive Abstractive Processing for Tree-Organized ...) | 꼬꼬엔" },
     { "id": "Pn6c9ikbIQg", "title": "학습 없이 리랭커만을 이용해서 RAG 성능과 효율을 늘리는 방법 (DSLR: Document Refinement with Sentence-Level... ) | NLP 코기" },
     { "id": "Sv9bhDYoGcg", "title": "LLM의 인퍼런스 속도를 2배 이상 높여주는 Speculative Decoding(Accelerating Large Language Model Decoding with..)|꼬꼬엔" },
     { "id": "v_szmACUas8", "title": "Instruction-finetuned한 Embedding[One Embedder, Any Task: Instruction-Finetuned Text Embeddings]|꼬꼬엔" },

@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "DevOpsThiago",
+    "name": "DevOps Thiago",
+    "profile": "https://yt3.googleusercontent.com/TqgQFHRS6wOX0HTlHePclz3iCIs1j7M8MFftk6r9-DN4Gvs56rId0V09vTmVoazJiyEZTleNZQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/q5w8981vp4detMPEWsfmaAHf5KpehjQnKmiDeF1vj_M-C_1bqyDsHJhBkVsdawBxswhIcWaw5Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "0UOxZE2AtA8", "title": "Docker Commit Revealed: The Ultimate Hack to Keep Your Changes!" },
+    { "id": "tuItBEmaF7Q", "title": "Access DeepSeek Model on Windows PC for FREE in 5 Minutes" },
+    { "id": "zirhp3MjiGg", "title": "Setup DeepSeek on Your Mac Mini M4 for Free" },
+    { "id": "mHR3Ic1dpVU", "title": "The Right Way to Deploy on Kubernetes" },
+    { "id": "woTNDzaQTNc", "title": "How to Run Ubuntu as a Docker Container" },
+    { "id": "uevzpPzaxXE", "title": "Create a Container Image in Docker (step-by-step)" },
+    { "id": "xdr6sL2H4UQ", "title": "How to Run an Ubuntu Server VM with VirtualBox" },
+    { "id": "YNWwoIlCAsE", "title": "Kubernetes Installation (step-by-step)" },
+    { "id": "avqm_bb5in0", "title": "What is a CNAME Record? (what is it? and how to create one)" },
+    { "id": "O-5eBTQeIlY", "title": "How to Containerize Your Application Easily with Docker" },
+    { "id": "qp0AK5SaiyQ", "title": "How to Run Windows in a Docker Container" },
+    { "id": "7hRJi-G2nIU", "title": "Simplified Kubernetes Taints and Tolerations Demo" },
+    { "id": "T7coJxL3-mk", "title": "Docker Commit  - Save Container Changes as a New Image" },
+    { "id": "wzdCqNBPk1w", "title": "Share a Kubernetes Cluster with Namespaces" },
+    { "id": "q9hFJOujTY0", "title": "How to Create A Pod on Kubernetes" },
+    { "id": "nlz0RmKiItA", "title": "Setting Resource Requests and Limits in Kubernetes" },
+    { "id": "Qbs66IwK3EY", "title": "ConfigMap Setting In Kubernetes Step-by-Step" },
+    { "id": "td0uqJxw8PM", "title": "Kubernetes Secrets Setting In Step-by-Step" },
+    { "id": "yKpHBgy1zgA", "title": "Learn Horizontal Pod Autoscaler (HPA) in Kubernetes | Hands-on Guide" },
+    { "id": "YhNH2GpMvBM", "title": "Run WINDOWS 11 on Proxmox Made EASY!" },
+    { "id": "okwk_vrln8w", "title": "Run Ubuntu Desktop INSIDE Proxmox Like a PRO!" },
+    { "id": "50SV_eXtj34", "title": "Create a VM Template with Proxmox Cloud-Init in No Time!" },
+    { "id": "YiZIU49TgN8", "title": "Automate Proxmox Virtual Machines in JUST 10 Minutes with Terraform!" },
+    { "id": "AdWV-qRURp0", "title": "You Won't Believe These Proxmox VMs Hacks with Terraform!" },
+    { "id": "eqUpC__8nrs", "title": "STOP Feeling Stuck in Your IT Career and Launch Your DevOps Journey!" },
+    { "id": "qvV52fE4f3E", "title": "Master Arch Linux in a Virtual Proxmox Environment!" }
+  ],
+  "playlists": [
+
+  ]
+}

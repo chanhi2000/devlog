@@ -6,6 +6,21 @@
     "banner": "https://yt3.googleusercontent.com/VPXz5rF8nEg-e5E2_uRJ2AJ3SZdRkKE43yDrYllS6w_jMz-f9Ppc0Z3c8JTs41IiEPA1IqnGuw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mk1KMNW5p40", "title": "Scrambl - True Encrypted Messaging" },
+    { "id": "tTkgr1ruOb0", "title": "🍔.py" },
+    { "id": "phaWELDW-9M", "title": "How Fast Can I Fill My Inbox?" },
+    { "id": "Te1fW7EJDdg", "title": "Gmail Speedrun - Commentary, Q&A and Mythbusting" },
+    { "id": "aUBx2yd556U", "title": "Advent of Code Day 1" },
+    { "id": "oelL0F8kRZQ", "title": "Advent of Code Day 2" },
+    { "id": "CoRngarCVag", "title": "Advent of Code Day 3" },
+    { "id": "ALePoSgtYZI", "title": "Advent of Code Day 4" },
+    { "id": "0bOxZP3jyWg", "title": "Advent of Code Day 5" },
+    { "id": "TJ0ZCj8yd9M", "title": "Advent of Code Day 6" },
+    { "id": "u_DVNNOPrQY", "title": "Advent of Code Day 7" },
+    { "id": "8TGQDs_4s64", "title": "Advent of Code Day 9" },
+    { "id": "CxLgJzh4INM", "title": "Advent of Code Day 10" },
+    { "id": "T2VNb2cqpHs", "title": "How Old Can a File Be?" },
+    { "id": "X_weppAAQBs", "title": "Composition over Inheritance: A Practical Guide" },
     { "id": "G6FY8jHiDVY", "title": "Kotlin Design Patterns & Best Practices - Part 1: Build a Chess Game" },
     { "id": "HpfFu2nl32s", "title": "Building a Compose Multiplatform App From Scratch - Understanding the Structure" }
   ],

@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/7IP22BjAJ9JwfnWeXjfr9Ep5D087UD0lXDdehEUjcctUvZK7ezBZVl1fGZmNyc1P0qLmODKfcw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "arlTguSBvmM", "title": "Monitor your PlanetScale database with Prometheus, Grafana, and more!" },
+    { "id": "jL-m2p2tlcU", "title": "Introducing Metal - Blazing fast NVMe Drives with Unlimited IOPS" },
+    { "id": "34q2W8hiRVA", "title": "Take a walk through the PlanetScale dashboard" },
+    { "id": "ZD7a1bp8GkY", "title": "Are my indexes being used? Let's find out." },
+    { "id": "yj7nylLeyog", "title": "How we do PoCs with customers (Proof of Concept)" },
+    { "id": "iIh6CyP2Zx8", "title": "What are vector embeddings? PlanetScale vector search open beta." },
+    { "id": "XZ75Ky-E_HM", "title": "Using vector search in MySQL" },
     { "id": "Ufevs9FGYSI", "title": "Case Study: Interview with Brian Anglin (Superwall)" },
     { "id": "O3EK7eqjLrw", "title": "Megabytes to Petabytes: the journey of scaling a database" },
     { "id": "JC4U4DZOUeg", "title": "How HubSpot Achieves MySQL High Availability with Vitess" },

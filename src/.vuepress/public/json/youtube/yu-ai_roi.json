@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "ai_roi",
+    "name": "AI:ROI with Greg Shove",
+    "profile": "https://yt3.googleusercontent.com/HA28nSTWmiavSzVnnm0K-OPxo8bFBlhFKLnUieBymR3cHP5RrsLVyCr0wKyfKADv9ow3FE9y=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/HZDP5Xvez1rrphRqSdLbiWO7jVTaIKZQ4JM3LsLqvUD_oHYtU_l7hX0eqFC5qkgch9W8BHmkQw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "rc7SrKDW6sc", "title": "Is AI Personalization Progress or an Invasion of Privacy?" },
+    { "id": "vRkY9sqja1A", "title": "The Playbook for AI Value Creation" },
+    { "id": "s892QsgFHJc", "title": "Using AI as an Advanced Thought Partner" },
+    { "id": "gblZi1GnuoA", "title": "Scott Galloway's Take on Thriving in the Age of AI" },
+    { "id": "H504MZhkrQk", "title": "Debunking The AI Snake Oil" },
+    { "id": "yVeKmTM2DOQ", "title": "The Inside View of AI from the Boardroom" },
+    { "id": "FFdR4HzH93w", "title": "AI + Human Superpowers with Reid Hoffman" },
+    { "id": "s81cw5OBeZU", "title": "Use ChatGPT To Generate Quarterly Sales Reports" },
+    { "id": "yo6ncLYOfb8", "title": "Use Claude Projects to Turn Your Newsletter Content Into LinkedIn Posts" },
+    { "id": "gUMCtsPYuRk", "title": "Use Claude Projects to Assess the Quality of Your Blog or Newsletter content" },
+    { "id": "ff4xhLmgGtg", "title": "Use ChatGPT to Evaluate Email Campaign Performance and Improve Content Quality" },
+    { "id": "49_Q2OfOYLo", "title": "Use Claude Optimize SEO for Website Content" }
+  ],
+  "playlists": [
+
+  ]
+}

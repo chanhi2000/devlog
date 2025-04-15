@@ -64,7 +64,7 @@ head:
 <MyYouTubeItems jsonName="yu-GouravSharma" /><!-- Gaurav Sharma -->
 <MyYouTubeItems jsonName="yu-ByteMonk" /><!-- ByteMonk -->
 <MyYouTubeItems jsonName="yu-kodedge" /><!-- kodEdge -->
-<MyYouTubeItems jsonName="yu-ttabae-learn4274" /><!-- TTABAE-LEARN -->
+<MyYouTubeItems jsonName="yu-ttabae-learn" /><!-- TTABAE-LEARN -->
 <MyYouTubeItems jsonName="yu-BeABetterDev" /><!-- Be A Better Dev -->
 <MyYouTubeItems jsonName="yu-Bitovi" /><!-- Bitovi -->
 <MyYouTubeItems jsonName="yu-vBrownBag" /><!-- vBrownBag -->
@@ -90,7 +90,7 @@ head:
 <MyYouTubeItems jsonName="yu-toptechskills" /><!-- Percy Grunwald from TopTechSkills -->
 <MyYouTubeItems jsonName="yu-RamNJava" /><!-- Ram N Java -->
 <MyYouTubeItems jsonName="yu-AZisk" /><!-- Alex Ziskind -->
-<MyYouTubeItems jsonName="yu-HiteshChoudharydotcom" /><!-- Hitesh Choudhary -->
+<MyYouTubeItems jsonName="yu-HiteshCodeLab" /><!-- Hitesh Choudhary -->
 <MyYouTubeItems jsonName="yu-mcodeM" /><!-- 메타코드M -->
 <MyYouTubeItems jsonName="yu-kimpalbok" /><!-- 김팔복TV -->
 <MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->

@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "jordannanos",
+    "name": "Jordan Nanos",
+    "profile": "https://yt3.googleusercontent.com/ITr5GzVPlAFJPjoINAudm5pnqK2Ht2LsZMgIz0OEMZf6K6eR8T6FEzGbgoi_v5ZSwZtF5hR04Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_WS4KaCVscWYg8i3dJZ0Tb5PWlTuKk-cZQJKcMSCIoy0oco1eN02jEW7loyLashH5iB4aSZmP2M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "SNJ9ZSHhrcI", "title": "Getting Started With AMD GPUs #1 -- specs, drivers, docker" },
+    { "id": "sNjQFlVWUYg", "title": "Quick Intro to HPE Private Cloud AI - vLLM, NVIDIA NIMs, how to enforce RBAC, consume model endpoint" },
+    { "id": "SGuhp_tuZA4", "title": "NVIDIA GTC 2025: AI’s Toughest TasksLessons from Scaling Enterprise AI from Edge to Exascale" },
+    { "id": "2Lx2T9aPjAU", "title": "Overview of an Example LLM Inference Setup" },
+    { "id": "-qMvSi_BGOc", "title": "Simple Overview of Text to SQL Using Open-WebUI Pipelines" },
+    { "id": "y7frgUWrcT4", "title": "Building Customized Text-To-SQL Pipelines in Open WebUI" },
+    { "id": "IVhL1NNvi9k", "title": "Running Llama-3.1-405B with Ollama and Open-WebUI: Introduction to the DL384 Gen12 Server" },
+    { "id": "miWwe-5SGhQ", "title": "Using Llama-3.1-405B as a Coding Assistant with Continue.Dev, Ollama, and NVIDIA GH200 Superchip" },
+    { "id": "iLVyEgxGbg4", "title": "Demo and Code Review for Text-To-SQL with Open-WebUI" },
+    { "id": "LKw2SHgrbLM", "title": "TWRTW Ep #5 - Who Can Afford to Build Frontier LLM's?" },
+    { "id": "Z-pjEQ_99nQ", "title": "Tech Giants Spend Billions on AI Datacenters" },
+    { "id": "KuVvggPAUks", "title": "Who Can Afford to Build Frontier LLMs? Clip from Things We Read This Week (TWRTW Ep #5)" },
+    { "id": "MfOgAZaJwCA", "title": "Exploring the Long Context Window of Llama-3.1-405B on NVIDIA Grace Hopper GH200 Superchip" },
+    { "id": "sNRqJOEKkCw", "title": "How to Pick a Large Language Model for Private AI -- A Brief Overview" },
+    { "id": "P9_oLJ6HiBs", "title": "TWRTW Ep #11 - Intel CEO out, Beware Foreign LLMs, OpenAI Claims AGI, Make AI Research Great Again" },
+    { "id": "rgfVmR-__y0", "title": "TWRTW Ep #15 - DeepSeek-V3, NVIDIA DIGITS, Jensen vs D-Wave on Quantum, ASI vs AGI, Walking Robots" }
+  ],
+  "playlists": [
+
+  ]
+}

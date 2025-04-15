@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/iQx_lCTQix7c8Hq7sFlNZB1_ORXT2a4-lN-c_gDxIo1w4kAah7dJUdRpXH8rupFH7fNKyzj4EZk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GE4-Fo3y9G8", "title": "리액트 뜨는별 지는별" },
+    { "id": "LUqI9LELkWs", "title": "대규모 데이터 빠르게 처리하기 (프론트에서..?!)" },
+    { "id": "S6GlgPX0Q7k", "title": "10가지 리액트 면접 질문들" },
+    { "id": "6j8YhzFdozk", "title": "자바스크립트 숏코딩 16가지 예시" },
+    { "id": "ILW2spbV32c", "title": "바빠서 트렌드 놓쳤죠? (프론트엔드 & 자바스크립트 정리)" },
+    { "id": "THYI_JdmQqQ", "title": "종결자는 누구?" },
     { "id": "lvqIrPVnJQc", "title": "웹사이트 프로파일링 (feat. 크롬개발자도구)" },
     { "id": "s-k7wwLJqtA", "title": "친해지실게요" },
     { "id": "gGKp_xQya6o", "title": "React Conf 2024 정리 - 여전히 놀라운 리액트 !" },

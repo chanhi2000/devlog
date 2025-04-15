@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "PairingWithDuncan",
+    "name": "Pairing with Duncan",
+    "profile": "https://yt3.googleusercontent.com/ytm8DpvkHF5ydXUvqXQ39n2kLLOdhTy7OdPzcO9B_2jDJ6Sh_eUNPlHyW6gS82TPEPVGz1ImiA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jUB5uTP-T8iLVX-cBMKdrlIgaN4_r5qp1ehilzXKzTz2O6DEtWX5Y410PKRaAHNsDABGYwTPsA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "yMGZvl_2dmk", "title": "Ports and Adaptors - Refactoring to Hexagonal Architecture" },
+    { "id": "zp2EeB57A0M", "title": "Coupling, Cohesion & ClassGraph" },
+    { "id": "wd2n7DcbcxU", "title": "Kotlin without IntelliJ - Cursor AI with Uberto Barbini" },
+    { "id": "gS5D6ig8BQ4", "title": "Gradle Subprojects, Dependencies & Testfixtures" },
+    { "id": "TJZ9w863mS0", "title": "I've been waiting 25 years for this! Strict TDD with Cursor AI and Uberto Barbini" },
+    { "id": "Ti-JGNvRDo4", "title": "First Look at JetBrains Junie Autonomous AI Agent" },
+    { "id": "vN2-VUFP784", "title": "Can JetBrains Junie replace manual refactoring?" },
+    { "id": "FFNvZhi9NwM", "title": "Fighting the Elephant - Gradle Convention Plugins" },
+    { "id": "9BhtoNxgPks", "title": "Typesafe Libraries & Gradle Convention Plugins" },
+    { "id": "dJV6FieaxUA", "title": "Tying Up Gradle Loose Ends" },
+    { "id": "0VKlR495Wno", "title": "Junie vs AI Assistant in a Bug-fix Battle" },
+    { "id": "qx-vuyinokQ", "title": "Decoupling - Refactoring to Modules" },
+    { "id": "MccT-XORptQ", "title": "Pairing with Duncan - the rebrand" },
+    { "id": "ZfMCyG99xgU", "title": "Discovering the Devoxx Genie AI Plugin for IntelliJ" },
+    { "id": "NRAe4d7n6_4", "title": "Devoxx Genie AI Deep Dive with Stephan Janssen" },
+    { "id": "Rs8S4rMTR9s", "title": "Mastering Chat-Oriented Programming with Stephan Janssen" },
+    { "id": "UneybyKM7vY", "title": "The Future of Source Code with Stephan Janssen" },
+    { "id": "jOcxkTqdgAU", "title": "Back to Basics Kotlin Refactoring - Man vs Machine" },
+    { "id": "W_Hd1O3_XUk", "title": "Abolishing Kotlin Context Receivers" },
+    { "id": "6gr0LwshZxs", "title": "Migrating Kotlin Context Receivers" },
+    { "id": "Dpnj5qRWLHY", "title": "Replacing Handlebars - kotlinx.html for HTMX" },
+    { "id": "J8Pi9XvHkxg", "title": "Upgrading Dependencies for No Fun and No Profit" },
+    { "id": "9LnQUhVn9LA", "title": "Testcontainers, Postgres, Kotlin" },
+    { "id": "tvCSZgN1g_w", "title": "Turbocharge Testing with JUnit, Gradle & IntelliJ" },
+    { "id": "npxjzNvuH_c", "title": "Why are my tests so slow? JUnit vs Gradle vs IntelliJ" },
+    { "id": "MxEfQTB1vAQ", "title": "What IntelliJ isn't telling you - the Truth about Test Speed" },
+    { "id": "RtTETikQ_MA", "title": "Test Visualisation with Mermaid" },
+    { "id": "hwBlKt0sdqg", "title": "Just-in-Time Tooling with Mermaid, Kotlin & JUnit" },
+    { "id": "YxVSRXPKoEw", "title": "AI vs Human - Kotlin Refactoring Showdown" },
+    { "id": "_YD5X_4lfGE", "title": "Debugging Initialization with Dependency Inversion" },
+    { "id": "8DE8seJVJyc", "title": "I did a thing in Gradle that didn't go badly wrong" }
+  ],
+  "playlists": [
+
+  ]
+}

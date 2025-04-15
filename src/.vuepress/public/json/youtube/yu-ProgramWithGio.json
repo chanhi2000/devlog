@@ -6,6 +6,27 @@
     "banner": "https://yt3.googleusercontent.com/ho4ZCEOb1PsK-WxkJgkl9Y3PmOfIDZ3qwvVfmWxiox14-DixN64RWFqBhKf3iH0L5rCxNo9EOMM=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "GH-qeijh2Xc", "title": "Say Hello to Vite: A Faster Way to Handle Assets | Learn Laravel The Right Way" },
+    { "id": "ZkDTqAi2_6s", "title": "Getting Started with Databases & Migrations in Laravel | Learn Laravel The Right Way" },
+    { "id": "zS-i4SUAeHY", "title": "Build a Transactions Page Using Raw SQL in Laravel | Learn Laravel The Right Way" },
+    { "id": "w6Mr6Nlf-lE", "title": "What is Laravel & Why You Should Learn It | Learn Laravel The Right Way" },
+    { "id": "gIpenotiUGE", "title": "What You Need to Know Before Learning Laravel | Learn Laravel The Right Way" },
+    { "id": "S_z03NUUiBk", "title": "Setting Up Laravel with Sail | Learn Laravel The Right Way" },
+    { "id": "sUMELDHZvqY", "title": "MVC the Laravel Way | Learn Laravel The Right Way" },
+    { "id": "W0KFGXx1HG8", "title": "Understanding Laravel Architecture | Learn Laravel The Right Way" },
+    { "id": "KzyMmRVRInM", "title": "Understanding Laravel’s Folder Structure | Learn Laravel The Right Way" },
+    { "id": "gw7O8P0J1jE", "title": "Getting Started with Artisan Commands in Laravel | Learn Laravel The Right Way" },
+    { "id": "sZysCyzl9Vk", "title": "Getting Started with Laravel Tinker | Learn Laravel The Right Way" },
+    { "id": "Ts5fLYgEM8E", "title": "Working with Laravel Config Files | Learn Laravel The Right Way" },
+    { "id": "pP4g0xPq0TQ", "title": "The Basics of Routing in Laravel | Learn Laravel The Right Way" },
+    { "id": "DgQEDXBcyZw", "title": "Working with Route Parameters in Laravel | Learn Laravel The Right Way" },
+    { "id": "Aj8egM0HMNM", "title": "Clean Up Your Routes In Laravel | Learn Laravel The Right Way" },
+    { "id": "r4A_3f7KxbQ", "title": "What Are Laravel Service Providers and How Do They Work? | Learn Laravel The Right Way" },
+    { "id": "5LtSVmKx25s", "title": "What Are Laravel Facades and How Do They Work? | Learn Laravel The Right Way" },
+    { "id": "VZqx3QTwQfM", "title": "How to Make the Most of Laravel’s Built-In Helpers | Learn Laravel The Right Way" },
+    { "id": "AoMz0_zRPjg", "title": "Get Sharp with Laravel Blade | Learn Laravel The Right Way" },
+    { "id": "4ULNx-c3jTc", "title": "Building Reusable Laravel Templates with Blade | Learn Laravel The Right Way" },
+    { "id": "_VDiNlT3FOA", "title": "Simplify Your Views with Laravel Blade Components | Learn Laravel The Right Way" },
     { "id": "fKjcsG9GNuI", "title": "You're Not Just a Coder: Tips to Progress in Your Developer Career" },
     { "id": "D1Ab-iP8Ra0", "title": "Set Up Email Verification For New Users - Build Expense Tracker App With PHP 8" }
   ]

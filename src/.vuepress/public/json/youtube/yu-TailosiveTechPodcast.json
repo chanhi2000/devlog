@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "TailosiveTechPodcast",
+    "name": "Tailosive Tech Podcast",
+    "profile": "https://yt3.googleusercontent.com/2cH6J-5LIN_Ck5qdzYhKWSeNh3-0MF4j_7KIq-bBSfW4C6MJas14N2gdFoD5kjN1PHge_ZFgjg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/BlEn5IEv8SRi7YhPUrVcJ7i8JMkzCN1mpYbFSbiVJCllFUuOAKuucTkgZcsA5gAGiHVHD5Aflw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LuGlAWwzGBw", "title": "Ep. 282 - Brown Titanium" },
+    { "id": "zTOxfyig87g", "title": "Ep. 283 - The AirPods Dilemma" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/gYC7S6g9r3ETUp_ElnERHZCWBDBHqTShqHOLcTaWKpkhCHj3y9WCDrdnV73T8CzOR8keMEaQEA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "op8y4kDTv4A", "title": "[핸즈온 플러터] 잘못된 내용 정정 및 당근마켓 클론코딩 최신 플러터 버전 대응 + 소통채널 참여" },
+    { "id": "yHht_KhKxfE", "title": "[ 플러터 환경설정 ] 내 컴퓨터 이름 한글 사용자명으로 인한 Windows 개발 환경 설정 문제 해결법" },
     { "id": "QogXLq7Kc6I", "title": "플러터 프로젝트에서 퀄리티를 높힐 수 있는 초간단 위젯 10종" },
     { "id": "4fJ-t5BDXQY", "title": "5일만에 만든 플러터 스네이크 게임! 제작 로그" },
     { "id": "6lCpBoPmDqw", "title": "Flutter로 사용자 경험을 높이는 애니메이션 효과 만들기" },

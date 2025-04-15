@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "dsysd-dev",
+    "name": "Distributed Systems Programmer",
+    "profile": "https://yt3.googleusercontent.com/7OPSlK8hMP4uW48T665UPFPAxHRa1g-XyzbBHJZNc4T4MkVXuGarSS1RQlTY9XhOoUxWEGeIeA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yXsrcXxYaU1m2SigS6AeE7kL2lsQLbWsTOs3T10ANeGq9RazOrBFem3FzXdrfeczfrY0lAh9tw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "xEgQUw63iKI", "title": "Distributed Systems Programmer Live Stream" },
+    { "id": "umdYLXDLWoQ", "title": "4Sum by a FAANG engineer | Leetcode | Live coding" },
+    { "id": "m9p1_QJ6SvQ", "title": "Dynamo DB | what why | for Senior software engineers" }
+  ],
+  "playlists": [
+
+  ]
+}

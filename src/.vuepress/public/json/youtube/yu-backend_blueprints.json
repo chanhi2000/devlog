@@ -6,6 +6,7 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ztpaKlUb6AE", "title": "Design a concurrent pub/sub in Golang - LLD" },
     { "id": "JSNdFhXgUcg", "title": "Designing tic tac toe in Golang" }
   ]
 }

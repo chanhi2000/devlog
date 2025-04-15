@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "Designveloper",
+    "name": "Designveloper",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kJZ5Oioj6tiRtDE5bLT_LNKiGG_YUI0TiEvY-TUul2W8A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ZkjDretN6L41Tz1NbGm_vVS559cORITVaPhoktd6N_U5djp6BL2RrnU4E3Jj_1KX2r-GOtn1Rw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gpLSTQR3dpQ", "title": "[DSV Podcast] Episode 1 - Buyer Persona" },
+    { "id": "cvk3CesNwbs", "title": "DSV Podcast - Buyer Persona (Episode 1)" },
+    { "id": "pOOcRaE5Qgo", "title": "[DSV Podcast] Episode 2 - Technical Manager Leadership Skills" },
+    { "id": "LmxqNm-85CQ", "title": "DSV Podcast - Technical Manager Leadership Skills (Episode 2)" },
+    { "id": "8ubg5eH-duU", "title": "DSV Podcast - Empowering Startups with End to End DataOps (Episode 4)" }
+  ],
+  "playlists": [
+
+  ]
+}

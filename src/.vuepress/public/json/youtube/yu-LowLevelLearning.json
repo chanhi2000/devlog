@@ -6,6 +6,10 @@
     "banner": ""
   },
   "videos": [
+    { "id": "OTLAnpsAnEI", "title": "this is extremely frustrating..." },
+    { "id": "ihtAijebU-M", "title": "new attack leaks secrets using RAM as a radio" },
+    { "id": "X-Lzq7jAT8I", "title": "This Tool Makes Bug Hunting WAY Too Easy!" },
+    { "id": "F8cT1YCsxgo", "title": "i was right." },
     { "id": "t5cAT2l_G44", "title": "major vulnerability found in windows" },
     { "id": "z_RekEdKcfk", "title": "what's so safe about unsafe rust?" },
     { "id": "rsd-LwCyY4s", "title": "new vulnerability in your motherboard lasts forever" },
