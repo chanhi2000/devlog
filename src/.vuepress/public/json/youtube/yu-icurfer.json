@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "icurfer",
+    "name": "icurfer",
+    "profile": "https://yt3.googleusercontent.com/GCyIQEW8TD56Cu6XJqttvL-jDB2BzaJoykjKh3Us-nL6Q3vcNgaDJfPsqojnlYqDEFE9cgiQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tbHicm12EjpN9m13WRn4RFZ0JFvyeA34OFN4zBmHYneCTKzwI85KN3Nq8pfoShH1-n1j7bZAaA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wr99VHohKDo", "title": "kubernetes | 개인 테스트 환경 만들기(k8s 설치부터 LB연결까지) | 쿠버네티스 설치" },
+    { "id": "Whd8FD_0uw8", "title": "우분투 22.04 | 9_dns 우선순위 알아보기" },
+    { "id": "4cAWRnt2MzI", "title": "oss quick start | deepseek 로컬 설치 + OpenWeb UI연동 + CUDA사용 설정" },
+    { "id": "59MzxD_5ODk", "title": "oss quick start | NEXUS APT 레포지토리 프록시 생성" },
+    { "id": "cn-56HLwhKs", "title": "oss quick start | jupyter-notebook 배포, 파이썬 학습 및 머신러닝 테스트를 위한 도구." },
+    { "id": "QlKZFWH9UfA", "title": "개인프로젝트 | Simple CI/CD on Kubernetes -2 (React)" },
+    { "id": "vEmsaK_3Qmg", "title": "우분투 22.04 | 3_vi 에디터 사용방법(선택)" },
+    { "id": "V0xlQXvEyUM", "title": "우분투 22.04 | 5_nginx 기본 웹서버 실행" },
+    { "id": "ruP8NRnN-ns", "title": "우분투 22.04 | apt 알아보기(선택)" },
+    { "id": "_UduUpWjLNA", "title": "우분투 22.04 | 7_nginx 를 이용해서 파일 공유 서버 만들기" },
+    { "id": "c_vpaz9F4vY", "title": "우분투 22.04 | 8_netplan 고정아이피 설정하기" }
+  ],
+  "playlists": [
+
+  ]
+}

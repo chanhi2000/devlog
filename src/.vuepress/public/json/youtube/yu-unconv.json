@@ -6,6 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/Nypn3yolcdBtwhfG0rhp8vU98hL_1xN0QbSl-myEPr-anxFUq1nO8ceLK25Utdzfiu_cXDWj=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "7x30ctbyaV0", "title": "Making Hill Climb Racing in C with Raylib (as a game dev noob)" },
+    { "id": "5lMn8uV2puI", "title": "Food Court Cash Card System in PHP Part 2: Accepting Payments" },
+    { "id": "GCN-XnT0w9o", "title": "How Do You Stream While Function Calling in ChatGPT API?" },
+    { "id": "-rMq6PVCd0k", "title": "Building a Login System in PHP + MySQL (with Sessions)" },
+    { "id": "OoE8wCj-QXg", "title": "2 Hours of Intense Python Coding with MoviePy and Pillow" },
+    { "id": "uTqizE1BxbU", "title": "How to Publish Your Python Project on PyPI" },
+    { "id": "oi6xW5ho9rU", "title": "How To Web Scrape with Python (even sites that block you!)" },
+    { "id": "4lmrLzTtgL8", "title": "Securing My PHP Project Before I Get Hacked | Switching to UUIDs in ChatWTF" },
+    { "id": "l5FkvTSuas0", "title": "Python Tkinter GPT-4 Vision AI Assistant (that can see your screen!)" },
+    { "id": "0Gxw5HEj784", "title": "Adding Drift Physics to My 2D Racing Game (C + Raylib Racer Part 2)" },
     { "id": "G7xBF4mcauM", "title": "Automatic AI YouTube Short Captions w/ Whisper and CV2 (Part 5)" },
     { "id": "_u8pHotS25E", "title": "Python + GPT-4o + Flask = AI Meal Calorie Detector (GPT-4 Vision API)" },
     { "id": "_g2cH8woUzs", "title": "Deploying a Flask Web App on AWS EC2 (Gunicorn + Apache w/ SSL Certificate)" },

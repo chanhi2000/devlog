@@ -6,6 +6,18 @@
     "banner": "https://yt3.googleusercontent.com/C98p7gkev2-NfdGzYitDAL1IsX4BRYEWAF2r9pKs3VGqgETQ-5_t7HoE82UHwnGBu5ksDXe4Cw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "_PwxS8SgsJs", "title": "Fixing My Frankenstein Website - The Big Overhaul" },
+    { "id": "J_plEE_A81U", "title": "I Tried Everything to Speed Up My Site… Let’s See the Results" },
+    { "id": "gIF994k6ogI", "title": "Turns Out, My Own CMake Book Needed a Debugger" },
+    { "id": "oDrIjdXHbTI", "title": "How to Fix Lulu.com \"Ink Coverage\" Warnings (IN MINUTES) WITHOUT Adobe InDesign" },
+    { "id": "i8DYaeTdnjQ", "title": "The CMake Tutorial Is Almost Done!" },
+    { "id": "AkGt0fsQ17o", "title": "CMake vs Ninja - a real-life comparison with actual code" },
+    { "id": "ebVd5Y7J5FY", "title": "CMake vs Visual Studio Projects - A Real Code Comparison" },
+    { "id": "k9K7aANjMDM", "title": "How Well Do You Know C? C Programming language Quiz - With Explanation" },
+    { "id": "4lE1A0YX0eQ", "title": "The CMake Tutorial is Done" },
+    { "id": "TLTw1rWUVeM", "title": "Why I Switched to Self-Hosted Email Marketing with MailPoet: More Privacy, Less Cost" },
+    { "id": "mPQZvfaZ7PU", "title": "6 Months of Testing C++ Build Systems: Here’s What You Need to Know" },
+    { "id": "Sh7hTquGybE", "title": "Endianness in Computing: What It Is, Why It Matters, and How to Handle It in C/C++" },
     { "id": "n6lPuep66aM", "title": "Endianness Explained in Less Than 9 Minutes" },
     { "id": "GJ4O_flGrYw", "title": "CMake vs Make - A Real life Comparison With Actual Code - Part 2" },
     { "id": "XdJrphd-X4E", "title": "Getting Started With OpenGL ES 3+ Programming Tutorial Book Relaunch" },

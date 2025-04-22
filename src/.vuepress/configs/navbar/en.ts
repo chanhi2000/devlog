@@ -207,6 +207,7 @@ export const navbarEn = navbar([
         children: [
           '/programming/cs/README.md',
           '/programming/cs-blazor/README.md',
+          '/programming/cs-unity/README.md',
         ]
       }, {
         text: 'Go',

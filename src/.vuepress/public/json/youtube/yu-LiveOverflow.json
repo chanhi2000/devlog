@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/ZlTigY7XKNze9S126aGFh2-XSAGbh0VmEz5iKGRgE3iJ8N22XBUDf0wVS7163fSDCq8z6IsRru4=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "wVknDjTgQoo", "title": "Do you know this common Go vulnerability?" },
+    { "id": "fPt6fJDjKKM", "title": "Learn Android Hacking! - University Nevada, Las Vegas (2024)" },
+    { "id": "_ACCK0AUQ8Q", "title": "My theory on how the webp 0day was discovered (BLASTPASS)" },
+    { "id": "SyTy1uZgx8E", "title": "Google's Mobile VRP Behind the Scenes with Kristoffer Blasiak (Hextree Podcast Ep.1)" },
     { "id": "LxUAnZY_08o", "title": "Reinventing Web Security" },
     { "id": "3zShGLEqDn8", "title": "Hacker Tweets Explained" },
     { "id": "iJFnYBJJiuQ", "title": "How do SIM Cards work? - SIMtrace" },

@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "reactrally2196",
+    "name": "ReactRally",
+    "profile": "https://yt3.googleusercontent.com/hNXykbrMkOfcWPMfvHvwgholzT0VpRK2__H6orva7Fd5nJei_mgkKMe-cDspZY-Hrk28uL8-qQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/PioiqPB-Uayr5NQnIjdaSTDErsNaqnNnGyRofJOEYRzF8I4K1er1TTJqK1Jz-I-4g1IP8-Abig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "uMksIqpbVoY", "title": "Unlocking Value with AI Today - Tejas Kumar" },
+    { "id": "-cGQMaAxolQ", "title": "TypeScript, the hard way - Adam Thompson" },
+    { "id": "0PlZwFdToVQ", "title": "React and the Art of Gamification - Courtney Yatteau" },
+    { "id": "4V_Wz_k35C8", "title": "Build your own React Metaframework - Dev Agrawal" },
+    { "id": "B4wr-kDdBAs", "title": "And Now You Understand React Server Components - Kent C  Dodds" },
+    { "id": "H64EAqqvBnU", "title": "Conducting React's Ensemble: Mastering Complex State with Advanced Hooks and Context Techniques" },
+    { "id": "J5rzqDvDiPA", "title": "AI and Our Marriage Kapehe & Chris Sev" },
+    { "id": "RDhalfhqZR4", "title": "The Call-up: Making it to the Data Viz Big Leagues - Rebekah Callari Kaczmarczyk" },
+    { "id": "TbrOopPWzWY", "title": "Creating Custom DevTools for Your React App - Cory House" },
+    { "id": "VJjih8bisig", "title": "Building Your Front-End with Intention: Architecture and Tooling for your next Front-End project!" },
+    { "id": "_4jmDe4CRvg", "title": "Level Up Your React Development: Unveiling the Gems of ECMAScript 2024 (ES15) - Frank Visaggio" },
+    { "id": "bRNzRQsRh5o", "title": "Pixels, Promises, and Panic: Horror Stories of Production Nightmares - Dan Neciu" },
+    { "id": "cKGgzwWZZGg", "title": "Let's Fight: React Framework Showdown 🥊 - Ankita Kulkarni" },
+    { "id": "iwYgDP7obDI", "title": "Harness the Power of Durable, Event-Driven Workflows - Joel Hooks" },
+    { "id": "plT6TG7XA68", "title": "AI for React Developers: Opportunities, Learning, and Innovation - Alexandra Spalato" },
+    { "id": "qTyZMcxcHqg", "title": "Bubbles, Booms and Blobs: Fun with HTML Canvas! - Shruti Kapoor" },
+    { "id": "xTm3XVmqH0Q", "title": "Data Fetching Strategies with React Server Components - Tyler Clark" },
+    { "id": "zt6Ycce7dlg", "title": "A nerdy guide to the web trending concepts - Daniel Afonso" },
+    { "id": "zvSvBMljkZ8", "title": "React 19 for the Rest of Us - Corbin Crutchley" }
+  ],
+  "playlists": [
+
+  ]
+}

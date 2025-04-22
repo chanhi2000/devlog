@@ -6,6 +6,15 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Z8gJ984kFj4", "title": "AI를 이용하여 IOCP 학습하기" },
+    { "id": "gwoWBqSdl00", "title": "C# SqlKata로 데이터베이스 프로그래밍 하기" },
+    { "id": "NjLIWLKZ4kE", "title": "ASP.NET Core Web API 프로젝트 디렉토리" },
+    { "id": "40mVVwUoBkU", "title": "AI를 사용하여 게임 서버 개발 공부하기" },
+    { "id": "Wn-mJvsG5Ug", "title": "[책 소개] 이것이 취업을 위한 컴퓨터 과학이다 with CS 기술 면접" },
+    { "id": "yHusjfJJOho", "title": "[책 소개] 아무도 알려주지 않은 C++ 코딩의 기술" },
+    { "id": "1_wSMQzvX4I", "title": "[책 소개] 추천 도서... 그러나 왜 라는 것을 먼저 알아야 되는" },
+    { "id": "D8oZnx6F47Q", "title": "API 방식의 게임서버에서 미들웨어 기능을 사용하는 이유와 방법 소개" },
+    { "id": "hHVoGCz_J3Q", "title": "선배들에게 배우는 Server Scalability" },
     { "id": "eEWsMtvst48", "title": "C++23 - std::print" },
     { "id": "zakVv3vlgsY", "title": "C++ 네트워크 프로그래밍 분석&리팩토링 - GameProject3Re" },
     { "id": "U7jUTEcYQ-k", "title": "C++ POCO 라이브러리 04. 논블럭킹, 멀티플렉싱(Multiplexing)" },

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/sVpoeWKFjydN3MLK8ccuRfdgD1228hapg2UhYQtStE6TMDz_P72p7U37zTttdCuv2G_74ccTCg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "k8N9slcdHR8", "title": "Build a Q&A and Polls platform with Nextjs, Supabase, Kinde, Prisma | Part 1/2" },
+    { "id": "PhzhjlK0URI", "title": "Build a Q&A and Polls platform with Nextjs, Supabase, Kinde, Prisma | Part 2/2" },
     { "id": "9CElrkFwiBU", "title": "Build a Music Player app with React Native, Expo, Typescript and Zustand" },
     { "id": "t8ane4BDyC8", "title": "Build a Markdown Notes app with Electron, React, Typescript, Tailwind and Jotai" }  ]
 }

@@ -44,5 +44,5 @@ head:
 <MyYouTubeItems jsonName="yu-첫째아들" /><!-- 첫째아들 -->
 <MyYouTubeItems jsonName="yu-higaengs" /><!-- 하이갱스 higaengs -->
 <MyYouTubeItems jsonName="yu-밥솥남" /><!-- Rice cooker man -->
-
+<MyYouTubeItems jsonName="yu-배정길" /><!-- 배정길의 비밀레시피 -->
 <TagLinks />

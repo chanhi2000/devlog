@@ -5,5 +5,12 @@
     "profile": "https://yt3.googleusercontent.com/ytc/AIdro_miRr0mAjsNYLPKMZND6Cqba1zHIye5loayKFCxNg=s176-c-k-c0x00ffffff-no-rj",
     "banner": "https://yt3.googleusercontent.com/zWG1QaQYxqlhCDZjVn1tQOkyPkPx4slCfz_qRJtDwvxQMXhh0fuDCzl5Hul1gxtCdDseO10XyA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
-  "videos": []
+  "videos": [
+    { "id": "_YpaizTLgmc", "title": "[GC Leong Series] The Cool Temperate Western Margin (British Type ) Climate | Anirudh Malik" },
+    { "id": "qacpcDNBmH8", "title": "UPSC Mains 2024 | Essay Paper Detailed Analysis & Answer | By Chandramouli Choudhary" },
+    { "id": "ZGaZVky6om8", "title": "GS Paper 2 First Reactions | UPSC Mains 2024 | Polity & Governance, IR, Social Justice" },
+    { "id": "rN6gtIqyCC8", "title": "UPSC Mains 2024 | GS Paper 2 International Relations Detailed Analysis & Answer | by Siddharth Singh" },
+    { "id": "uFBCYUJVrzU", "title": "Economy MCQs | Previous Year Questions | UPSC Prelims 2025 | By Siddharth Singh" },
+    { "id": "Zo5jERS3pwM", "title": "Financial Inclusion | Most important schemes for UPSC | Indian Economy | By Payal Sharma" }
+  ]
 }

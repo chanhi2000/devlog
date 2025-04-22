@@ -6,6 +6,33 @@
     "banner": "https://yt3.googleusercontent.com/rZSDk3hN00JMDLtvxf7UldBVbz6Azs2wKbH3Db1aZfFHDzg96Kr1YuF_evtSJFDMcsmm1R-_TA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ZrgE5zDkQDY", "title": "Zero config debugging with Deno and OpenTelemetry" },
+    { "id": "u8FnYa31iek", "title": "Ryan Dahl demos tips to debug JavaScript (2025)" },
+    { "id": "uism4DaFSqE", "title": "What is JSR?" },
+    { "id": "tJDvGci8UJE", "title": "Build Instantly Loading Apps with Deno and Qwik" },
+    { "id": "R8Zsuto246Q", "title": "Testing with Deno" },
+    { "id": "ZsDqTQs3_G0", "title": "Run JavaScript Anywhere!" },
+    { "id": "RM1j52eF2og", "title": "Deno v2 2 — feature demos from the team" },
+    { "id": "4ZSBlO3mqq0", "title": "WASM is easier than ever!" },
+    { "id": "kdnA_PWixmY", "title": "New in v2.2 — custom lint rules" },
+    { "id": "ZQqXAvGEOPY", "title": "The easiest way to build typesafe APIs" },
+    { "id": "5wlZDw942J8", "title": "How to `deno compile` a web game to desktop" },
+    { "id": "yLUmmm_JvDk", "title": "Deno's Secret Sauce" },
+    { "id": "d35SlRgVxT8", "title": "Announcing Deno 2" },
+    { "id": "swXWUfufu2w", "title": "Programming should be simple" },
+    { "id": "-4e9DkUrCr4", "title": "All-in-one tooling for JavaScript and TypeScript development" },
+    { "id": "BFfrGrLm2tw", "title": "Your Deno Development Environment" },
+    { "id": "a8DaWZq6TXk", "title": "Runtime Security in Deno" },
+    { "id": "oxVwTT-rZRo", "title": "Browser APIs in Deno" },
+    { "id": "p28ujFMrdA0", "title": "Deno Namespace APIs" },
+    { "id": "7uiL4WYvZVs", "title": "Publishing Modules with JSR" },
+    { "id": "bTmO5Tfgke4", "title": "Configuration with deno.json" },
+    { "id": "cTFBiwYY3vs", "title": "ECMAScript Modules in Deno" },
+    { "id": "puoorw7jUoc", "title": "Deploy a Next.js app to Deno Deploy" },
+    { "id": "9m9w3QyEIKU", "title": "Build a Database App in 3 Minutes" },
+    { "id": "5igPL_8TNw0", "title": "New Deno Command You Must Know" },
+    { "id": "K6bW7WFEvqc", "title": "Deno got even better!" },
+    { "id": "UeSPZENIcxw", "title": "Build a Full Stack App in 3 Minutes" },
     { "id": "LVEGRj3RZSA", "title": "Forced Optimization" }
   ]
 }

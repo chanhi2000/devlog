@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "OMGenomics",
+    "name": "OMGenomics",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lJgD1UMNTMRS3-Q4kgH4Q6xK4M7KmxPpnDGJEl9KCwE5E=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WBqXCNTWwvlF6Kuf_FOpWh6sfbNTfi8mmSk7It5MkG7CbM2KlTi7mGGtC6pg4EjuD5ThsicsUQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pRPabIHSvKs", "title": "First sneak peek of Circa 2.0" },
+    { "id": "Q64tr8elcNc", "title": "3 ways I made money on the side with bioinformatics" },
+    { "id": "Dv-ZObIy9QQ", "title": "How to read a circos plot" },
+    { "id": "NGbZmlGLG5w", "title": "RNA-seq tutorial with DESeq2: Differential gene expression project" },
+    { "id": "-XU5Jxe4LpE", "title": "Should you learn R or Python first?" }
+  ],
+  "playlists": [
+
+  ]
+}

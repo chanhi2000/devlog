@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/flpa3Lv-_CG2znwIizdwNsbMdMq5ARsAgyWfESR1ZJ_7H_UfxdOtcMPonGmdf_eiOZkz07_c=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "M8DuVYnsW5A", "title": "James Ward on Effect Oriented Programming, Writing Code in the Age of AI, Curiosity and Exploration" },
+    { "id": "z6dbDqclE34", "title": "Scala 3 Inlines - Code Generation at Compile Time" },
+    { "id": "8TMvIIoaAPs", "title": "Introduction to Scala 3 Macros - How Macros Work, Quoting, Matching and Reflection" },
+    { "id": "tmpPueoffVM", "title": "Martin Odersky on the Future of Scala, Learning, Teaching and the Quest for the Perfect Language" },
+    { "id": "EPr_OEAOyPo", "title": "Testing Functional Kotlin with the Raise DSL: How to Use JUnit, Kotest, MockK, AssertJ and Mockito" },
+    { "id": "UNSIY-Jo8k8", "title": "Scala & Kotlin Comparison, What Kotlin Can (Graciously) Steal from Scala [KKON 2024 talk]" },
+    { "id": "yQgo2qGcAd0", "title": "How to Write Full-Stack Scala Applications - ZIO" },
+    { "id": "smZayMmPsKw", "title": "Java Structured Concurrency - a Comprehensive Guide" },
+    { "id": "kspYDoJWn4I", "title": "Where Are the Scala Frameworks? Functional Scala 2024 talk" },
     { "id": "gLJOagwtQDw", "title": "Automatic Dependency Injection in Scala - Just the Type System!" },
     { "id": "1uP6FTUn8_E", "title": "A Remote Code Execution System with Apache Pekko & Scala" },
     { "id": "d0BYBs4JSsE", "title": "Kotlin Scope Functions for Expressiveness: let, run, with, apply" },

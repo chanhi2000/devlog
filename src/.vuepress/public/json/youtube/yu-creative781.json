@@ -6,7 +6,16 @@
     "banner": "https://yt3.googleusercontent.com/f51otp5zUXN2IKhKQieL8TC5SBk_VrlcCSkOJw7ujv5Pztr5TKID8UQpaJHRBL1s46ChYCFw_Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
-
+    { "id": "rVF0Oi_R84Q", "title": "PACELC Theorem | Beyond CAP Theorem | System Design Primer" },
+    { "id": "VxcLX3Hx8E4", "title": "Vector Databases Explained | When to use?" },
+    { "id": "LoRAdOUY_XI", "title": "(주의! iOS 전용) 길을 가다 갑자기 떠오른 아이디어를 빠르게 메모하자" },
+    { "id": "69uecYgs3mw", "title": "옵시디안(Obsidian) V1.8 새 기능 살펴보기" },
+    { "id": "WNHT-FcjL0w", "title": "영원히 기억하는 옵시디안과 제텔카스텐으로 독서 기록하기 준비" },
+    { "id": "QPBfImYylzA", "title": "영원히 기억하는 옵시디안과 제텔카스텐 독서법 스마트한 문장 발췌" },
+    { "id": "sFGFCTGxscI", "title": "영원히 기억하는 옵시디안과 제텔카스텐 독서법 실제 예시" },
+    { "id": "CgdmuFaxeoc", "title": "나의 옵시디안 제2의 뇌를 최고의 상태로 관리하자" },
+    { "id": "RJQiGTTkd14", "title": "옵시디안 메모 하나를 바로 공유(메시지, 카톡, 이메일 다 가능)" },
+    { "id": "VKIuI1_58_w", "title": "옵시디안 웹 클리핑 논란 종결 최고의 공식 웹 클리퍼" }
   ],
   "playlists": [
     {

@@ -1238,6 +1238,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Unity',
+      collapsible: true,
+      icon: 'fa-brands fa-unity',
+      children: [
+        '/programming/cs-unity/README.md',
+        '/programming/cs-unity/references.md',
+        '/programming/cs-unity/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/cs-unity/articles/README.md',
+            asb.freecodecamp("cs-unity"),
+          ]
+        }
+      ]
+    }, {
       text: 'Go',
       collapsible: true,
       icon: 'fa-brands fa-golang',

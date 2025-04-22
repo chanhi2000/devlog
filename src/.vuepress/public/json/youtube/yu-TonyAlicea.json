@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/brsV2O1yUbNVFTSstsiswIuJPPwCzluppM12leYd5JE5iE5pX9963UphKUvosNi5c2G_qxRRHg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ecrOTNkptE0", "title": "Why Understanding Matters More For Devs Than Ever" },
+    { "id": "9LKJ2pbrAlE", "title": "Source Maps: The Unsung Hero of Modern Web Development" },
+    { "id": "CpccB48vsb0", "title": "Normal UI - A Usability Technique for Non-Designers" },
+    { "id": "ycTjaIgIh1Y", "title": "Usability Review Live" },
     { "id": "nrAt49OS2Q8", "title": "16.5 Hours Inside React's Source Code" },
     { "id": "pnpPoZGDzrw", "title": "Building Next-Level Dev Teams (Free Webinar and Upcoming Course!)" },
     { "id": "Bv_5Zv5c-Ts", "title": "JavaScript: Understanding the Weird Parts - The First 3.5 Hours" }

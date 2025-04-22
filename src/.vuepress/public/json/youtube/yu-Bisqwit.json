@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/fpo_2iHHQHOfFkGRFfO2e_4Mwf2j2tYme1CfSndpy_u_IlvJe9roChnKzzXxDy6gPKpAaBIt=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "UVfvI6FYtbc", "title": "Installation and usage of SQLite in Windows" },
+    { "id": "C4tHxouarGc", "title": "Creating a spectrum analyzer for realtime audio (C++, SDL2, Fast Fourier Transform)" },
     { "id": "eF9qWbuQLuw", "title": "Parser and Lexer — How to Create a Compiler part 1/5 — Converting text into an Abstract Syntax Tree" }
   ]
 }

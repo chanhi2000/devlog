@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/91DyRDSN0YLvce6-_ZmfM69CO497JL74Av2LUzCy4JmYG_KO5bI_A3JyvMXcMR8jpMMX4UaHag=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "OKyxiQmVQBs", "title": "Giving Back to the Rust Community?" },
+    { "id": "muF2A4HC3MI", "title": "Helix in 2025? MORE TIPS & TRICKS!" },
+    { "id": "DQB-cJPYChg", "title": "How to Build A Full Stack Rust Dashboard App with Leptos, Actix Web & SurrealDB (Full Tutorial)" },
+    { "id": "k71B99dHDDs", "title": "What if we only used A.I to build a Rust backend?" },
     { "id": "W7PvgKTPu3U", "title": "LEARN THIS 1 TRICK TO SPEED UP! #shorts" },
     { "id": "lnPjJBgAoJ8", "title": "How to Build and Deploy Your Rust AWS Lambda Function (Full Tutorial)" },
     { "id": "Rnw-x21kGaA", "title": "How to Build A Rust Backend with Actix Web and SurrealDB (Full Tutorial)" },

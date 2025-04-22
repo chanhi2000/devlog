@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "pghsug",
+    "name": "Pittsburgh Sitecore User Group",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mVEN3IGuLxUu3G3Qk31BgOA0m19Q4Xwf7Y8Gq-MPCK7Wk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "F2hRZQ3o5qY", "title": "XM Cloud Migration Tool: What's New and Improved?" },
+    { "id": "yuiWnQm1Q0c", "title": "Sitecore Troubleshooting 101" },
+    { "id": "pP88ltgFFyk", "title": "8 Content Migration Pitfalls to Avoid and Lessons Learned" },
+    { "id": "f-yu2sZ8aNw", "title": "Building Dynamic RAG Applications with Vertex AI and Sitecore" },
+    { "id": "iw9fJPrOnCU", "title": "Implementation of Mobile Application with Personalization using XM Cloud" }
+  ],
+  "playlists": [
+
+  ]
+}

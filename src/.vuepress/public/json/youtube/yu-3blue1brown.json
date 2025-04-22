@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/WQlRfcL2_mAtGdUrdXJZCJBDZGqoixP7i51a7WHGb9TUoauykK1nMXbwmsu-FChVBvF8sDzGkw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hFMaT9oRbs4", "title": "How to measure the universe | The Cosmic Distance Ladder Part 2" },
+    { "id": "6dTyOl1fmDo", "title": "There's more to those colliding blocks that compute pi" },
+    { "id": "9-Jl0dxWQs8", "title": "How might LLMs store facts | Chapter 7, Deep Learning" },
+    { "id": "EmKQsSDlaa4", "title": "How are holograms possible? | Optics puzzles 5" },
+    { "id": "rbu7Zu5X1zI", "title": "How I animate 3Blue1Brown | A Manim demo with Ben Sparks" },
+    { "id": "IQqtsm-bBRU", "title": "This open problem taught me what topology is" },
     { "id": "wjZofJX0v4M", "title": "But what is a GPT?  Visual intro to transformers | Chapter 5, Deep Learning" },
     { "id": "nXIHYB0Gp70", "title": "Fourier series" }
   ]

@@ -6,6 +6,17 @@
     "banner": "https://yt3.googleusercontent.com/fRtr9jrbl4bAy63upRN3-6_1vQVr7mep2CgF7y5q65iTaZbJ8O_IdM3Vi_-dL0kgdXKA_1TamQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LNjzyn_35Xs", "title": "매너코드 소개" },
+    { "id": "WqIOLE5PgC4", "title": "객체 지향 프로그래밍(OOP)의 이해" },
+    { "id": "VhvzXTecBsA", "title": "본질 기반 해석 - 도메인 주도 설계(DDD)의 재해석" },
+    { "id": "2ZYxxqbzMGs", "title": "개발자는 왜 그런가요" },
+    { "id": "3jsLYJOT8RE", "title": "nest-seed 개발 환경 소개" },
+    { "id": "ygJeVugWhrI", "title": "1. 유스케이스(Use Cases) 다이어그램 작성" },
+    { "id": "_Nj5ol9RMrE", "title": "2. 유스케이스(Use Cases) 명세서 작성" },
+    { "id": "HWJ5lXQnmto", "title": "3. Microservices의 순환 참조 방지 설계:  Core-Application Service Architecture" },
+    { "id": "fRxgVv2P2so", "title": "4. 티켓 구매 - 본질 기반 해석과 REST API 디자인" },
+    { "id": "HR150AUcqdI", "title": "5. TDD(테스트 주도 개발)의 이해" },
+    { "id": "H-CSWm5AoII", "title": "개발 에피소드#1#2" },
     { "id": "E11VEqfgd3Q", "title": "4. Sequence Diagram" },
     { "id": "DjO0QC7ji1s", "title": "5. Design - Recommended Movie List" }
   ]

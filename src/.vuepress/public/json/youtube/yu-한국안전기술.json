@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "한국안전기술",
+    "name": "한국안전기술",
+    "profile": "https://yt3.googleusercontent.com/U1Cb0s61N2KkS0hDQjjE_Tj57U3Is9SxCoSl7W48xw-olLrepjoLMRo-R_1eROsjh6O1NhMGzX8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "k_eUzBa2tGM", "title": "거푸집 시공 중 수평하중 및 경사버팀대 구조계산 방법" },
+    { "id": "TtA0Sp62Euc", "title": "가설울타리 수평하중과 경사버팀대 구조검토대상 및 기준" },
+    { "id": "CBt8CDaRbDw", "title": "바닥판 수평하중에 대항하는 가새" },
+    { "id": "55v8CzUKRWA", "title": "조례 란?  안양시 건축물관리 조례  예시" },
+    { "id": "z465wZw5i5Y", "title": "설계안전성검토(DFS) 작성방법" }
+  ],
+  "playlists": [
+
+  ]
+}

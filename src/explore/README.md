@@ -828,6 +828,13 @@ https://docs.google.com/spreadsheets/d/1ajcwETSpneV2R3IxHVNRTsYZwUlk0heDBsLDPBqV
   logo="https://avatars.githubusercontent.com/u/113102577?s=200&v=4"
   preview="https://repository-images.githubusercontent.com/803476867/4959c7ac-81c3-4e43-abd5-76108b3bcabf"/>
 
+<SiteInfo
+  name="Anime.js | JavaScript Animation Engine"
+  desc="A fast and versatile JavaScript animation library"
+  url="https://animejs.com/"
+  logo="https://animejs.com/assets/images/favicon.png"
+  preview="https://animejs.com/media/site/5e9b48763d-1744100039/anime-js-sharing-image.png"/>
+
 <!-- END: Cool Project -->
 
 @tab Portfolio / Resume

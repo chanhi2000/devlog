@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "dtech_vision",
+    "name": "dTech",
+    "profile": "https://yt3.googleusercontent.com/oE0VT4wlMf1nRL1ckWGC8Io70XA2RjAWf0ywdnJcwRpQhO7ScdqmPpEIBy48cJVebhrYAm78mA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mqHFH9kPpbE", "title": "Getting Started With Farcaster Mini Apps | A workshop by Farcaster, Neynar, dTech | 2025-05-28" },
+    { "id": "330nQH6ULYg", "title": "Coinbase MiniKit - How To Develop Farcaster Mini Apps | A Tutorial" },
+    { "id": "hTe0iA8zLp0", "title": "How to build on Farcaster - Samuel L Huber at ETHDenver" },
+    { "id": "ZqRtGlIvYfA", "title": "Building a sample app to earn money on Base from Farcaster Frames with Morpho." },
+    { "id": "MH0mqwVvzsc", "title": "Why build on Farcaster? Get your first 1000 users and know who they are!" },
+    { "id": "mqHFH9kPpbE", "title": "Getting Started With Farcaster Mini Apps | A workshop by Farcaster, Neynar, dTech | 2025-05-28" },
+    { "id": "EIqUUYnm_-8", "title": "Quick Start Farcaster Composer Actions and Mini Apps How do you actually build one? Code Walkthrough" },
+    { "id": "L0g_jN42QFE", "title": "Why does Open Data matter? and how to build hyperpersonalized E-Commerce on Farcaster! Full Workshop" },
+    { "id": "O2niSA8aRvQ", "title": "Farcaster Snapchain Proposal. The new Farcaster Architecture 2024" },
+    { "id": "jHafOb50au8", "title": "Morpho Deposit Frame ¬ DEFI made easy with Farcaster Frames" },
+    { "id": "UXk2hDfeudg", "title": "How To Make Your First 1000$ Onchain On Farcaster" }
+  ],
+  "playlists": [
+
+  ]
+}
