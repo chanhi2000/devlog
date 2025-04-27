@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/kxQkX6I_DasS_inquh9ADHSIyC9w47d1LoZg8_XgV_jwTYavOGIbzzJEysH3RdE1sK5Q3SZttA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "hXKaYeZVFJQ", "title": "Mastering PodMan & Spring Boot 3 Like an Expert" },
     { "id": "LGV0SE3Udgk", "title": "Create a Temp Monitoring System with XIAO ESP32S3 for under $30 while Posting to Python Rest API" },
     { "id": "X5DmBQSkzHA", "title": "Next Step RAG - Follow Up Questions with Chat History Ollama + LangChain" },
     { "id": "CWLxxRxYRu0", "title": "Make Ollama Speak in 10 minutes" },

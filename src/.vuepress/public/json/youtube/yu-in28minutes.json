@@ -6,6 +6,14 @@
     "banner": "https://yt3.googleusercontent.com/gNSPMZqFuw-m7IjWjAs8OD6vk7nOj-71nEKK-7JdTjsfY3XHRJhrSH3PW9eU8YcoMfz0jEU1Yg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "1EfRxKzU11k", "title": "Java New Features - Java 5, Java 8, Java 17, Java 21, Java 24" },
+    { "id": "oM1vCGYan34", "title": "Core Java Interview Questions and Answers" },
+    { "id": "77BYwNRKI6c", "title": "Java Interview Questions and Answers" },
+    { "id": "dYsIe6wpOd4", "title": "Java Interview Questions and Answers For Experienced" },
+    { "id": "pZbyq9jZPuo", "title": "Java Interview Questions and Answers For Freshers" },
+    { "id": "-nHaUl7koN4", "title": "Java Collections Interview Questions and Answers" },
+    { "id": "1EfRxKzU11k" ,"title": "Java New Features - Java 24, Java 21, Java 17, Java 8, Java 5 & more..." },
+    { "id": "BH5Z9wq5Hlo", "title": "JavaScript Functions Crash Course: From Beginner to Pro" },
     { "id": "Bp5O-Z7rUFU", "title": "Fastest Java Microservices Roadmap - with Spring Boot, Spring Cloud, Docker and Kubernetes" },
     { "id": "Ba8t0iBQvRQ", "title": "Fastest Java Full Stack Roadmap (2024) with Spring Boot, React and AWS" },
     { "id": "ceIDBBlh38U", "title": "Exploring Inheritance in Python" }, 

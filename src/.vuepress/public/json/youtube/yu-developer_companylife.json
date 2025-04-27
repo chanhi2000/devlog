@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "developer_companylife",
+    "name": "개발자 회사생활",
+    "profile": "https://yt3.googleusercontent.com/KG4Ucog0OI7pmg2MP7oMY1f5LvdQdn3c1544aTKyxVTxKODv791twNxtfsCJpvcQoy3ezrw0yJ0=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Bin6WiAmSWKwDLekkiWEXpEg0g3xkYD2wG9MHu7aHR70jYci2D5xdmDIN7FUZQhCPU6Pz0Ez=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PhsxvyorBBw", "title": "SI 개발자 대학 입학부터 취업 첫 프로젝트까지" },
+    { "id": "B1LWJkL0vPI", "title": "요구 사항을 어떻게 받아야 개발자가 편할까" },
+    { "id": "DD1p3E0U62U", "title": "면접 주의, SI 신입 개발자 연봉 협상 사기극 (내가 호구라니?)" },
+    { "id": "ILavMh1hbmE", "title": "개발자의 하루. 생각보다 참혹하다. (누구나 바라는 개발자의 모습, 현실적인 개발자의 모습, 카카오 뱅크 개발자의 모습, 최악의 개발자의 모습)" },
+    { "id": "pwH1Dl_kIW8", "title": "프리랜서가 개발 능력보다 중요한 이 것?" },
+    { "id": "yss8GPTuEqU", "title": "개발자님들아, 다른 팀이 공통 컴포넌트 개발해준다고 하면 좋겠냐" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "nocodecat",
+    "name": "노코드캣 - AI, 자동화 그리고 개발",
+    "profile": "https://yt3.googleusercontent.com/82LL2SaiJJDl5J0pDeSC0CaFpAV-F8eu9i5nyTflQWRLSfAtgFxfPsYS6FnulR2z0YNcWHiJ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "_ir9L7C3bOk", "title": "AI로 메일관리 비서 구현하는게 이렇게 쉽습니다. 코딩한줄 없이 AI를 활용해보세요!" },
+    { "id": "7G9KX2uA8H8", "title": "n8n self-hosting (셀프호스팅) 가장 쉽게 설치하기." },
+    { "id": "n34gMNovWks", "title": "코딩없이 GPTs와 n8n만으로 AI 비서 24시간 부려먹기. 이제 여러분은 직장의 신이 됩니다." },
+    { "id": "Fk5pQ0fQkJ0", "title": "RAG기반 AI 챗봇 직접 만들어쓰기. 무제한 확장은 기본, Supabase 활용은 덤!" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "id": "codu",
+    "name": "Codú",
+    "profile": "https://yt3.googleusercontent.com/JefmIIvAeUTaNPcNNxG4hxucPSrj0JYsLBHyshlps2rtRi7_DvCe8zS7XFlxdRcvu6YphEqzUA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/eqsmlVujNE6ZfhMlwNTKcSfDYXhx1D96Zxfqh5tbbPt42I0-2LfYqNPbfZWOXRObo3JsWFZUOg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9nd_BP5D0wg", "title": "Hacktoberfest Prep & Community Updates: Live Office Hours" },
+    { "id": "tVXi2PbvPAw", "title": "Hacktoberfest Prep: Live Office Hours" },
+    { "id": "QZd1GrSL-tI", "title": "Hacktoberfest Issue Fun" },
+    { "id": "lFvdoPmXfzQ", "title": "Hacktoberfest Final Day Prep" },
+    { "id": "TzFgEDHCBzs", "title": "Hacktoberfest Code Review and Issue Prep" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/moa14p2JH1W_PTKwwtivnmWjZ74OssaH-iDsLpgZ_m5FZ5aTz68v9f1Lmcqi3DbJjOYMPBISBw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "uQ67f6Sk-eA", "title": "INTC-3283 - adding a new column to the starter project" },
+    { "id": "wM0Ql-PHrT4", "title": "INTC3283 - Project 3 -- Adding new HTTP Methods and creating ASCIIDoctor Documentation via MockMVC" },
     { "id": "sjN9Wi-prD0", "title": "AWS: How I snapshot large MySQL databases" },
     { "id": "KYXYl6XisKQ", "title": "Spring Boot for PHP Developers - Get a project up and running quickly" }
   ]

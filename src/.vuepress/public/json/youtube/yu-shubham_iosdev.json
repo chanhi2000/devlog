@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/ezU9IhD36OZH2p2uxwx1l27aRcQ17Yxe_14XcEi6CsfsJEb7MqXxZJ9hjcrUpwQslJuhKJU5=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "6h3udYETzDU", "title": "SwiftUI - Scratch to Reveal animation - Xcode 16" },
+    { "id": "71i_snKateI", "title": "SwiftUI - Auto / Manual Scrolling Infinite Carousel in 4 Minutes - Xcode 16" },
+    { "id": "kXaJ0z5GP_c", "title": "SwiftUI - File / Folder & Architecture Setup for New Projects" },
+    { "id": "_2LdggmAqDA", "title": "SwiftUI - Image Presentation Animation Tutorial" },
+    { "id": "SRsX4Zyf7U8", "title": "SwiftUI - Rotating Characters Loader Tutorial" },
+    { "id": "SUjQ07ItnK4", "title": "Xcode - Tip to Organise your Code & Speed up iOS Development" },
     { "id": "YfKna-2ct08", "title": "Xcode 15 - Essentials to Organise and Maintain Code" }
   ],
   "playlists": [

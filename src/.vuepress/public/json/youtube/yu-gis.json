@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/X2CehrHZE_4JriF6HWTO6gISPuirJ6IYUXdU1p0IoTmIRiQMF_aG010-wkvRmbyPbJ-KpZFepQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "ogFurYpXK7A", "title": "FlexGIS. Dashboards. Обзор виджета" },
+    { "id": "uCOmYnqdSVM", "title": "FlexGIS. Graphics layer" },
     { "id": "l4ne4LwTDgY", "title": "FlexGIS. OSM AI Widget. Part 3 Population" },
     { "id": "ANkQIf6if2c", "title": "Geo-Py in Urban Analytics. Reading and exporting OSM data: geoPandas, osmnx." },
     { "id": "X8gD1OzNVOE", "title": "Geo-Py in Urban Analytics. Intro. Jupyter Notebook in VSCode." },

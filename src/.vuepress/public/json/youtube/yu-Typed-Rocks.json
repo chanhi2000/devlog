@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "Typed-Rocks",
+    "name": "Typed Rocks",
+    "profile": "https://yt3.googleusercontent.com/91oy6Fal8fG97J66rQ2M8mxC5YehcroCeMGVQcmNUpc5MRho__J6pxnt1mFkJ7AoL55SQr6WQQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/bw9fL4xmxJZp_zola16gO8fXKlD49hsYDB0WFibZ_mRtrOX7SPgKtcv7DkmF7FIh6jR3BcFPqA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "4DzXCpRNt14", "title": "How To Run JavaScript & TypeScript in PostgreSQL - A Complete Guide" },
+    { "id": "tE5EHyFgA94", "title": "Let‘s Solve The Most Popular Leetcode Problem only using TypeScript Types - Reverse Linked Lists" },
+    { "id": "aJSv5wwkjJs", "title": "TypeScript Go Now Supports JSX: Still 10x Faster than TSC? Let‘s BENCHMARK!" },
+    { "id": "z7pDvyVhUnE", "title": "No More any! We FINALLY Have Proper Types for JSON.parse & JSON.stringify in TypeScript" },
+    { "id": "s0Lg5HxN4hQ", "title": "Stop Migrating Types to Zod Manually - Let THIS Tool do it automatically!" },
+    { "id": "e2cj1Su6RYY", "title": "My @types/node Proposal Was MERGED - THIS Flaw Is Finally Fixed - Advanced TypeScript" },
+    { "id": "Yz8ySbaeCf8", "title": "Fix All Issues of Primitive Types: Achieve Perfect Type-Safety with Branded Types in TypeScript" },
+    { "id": "TfEJ8s5vVek", "title": "Fix the Fetch Type: Let's Add Auto-Completion and Perfect Type Safety to It in TypeScript" },
+    { "id": "EYolPamF-Ls", "title": "Master Every TSConfig With This Command: Reveal The Complete TypeScript Configuration with Ease" },
+    { "id": "QmW6_lLaxwU", "title": "OpenAPI + Zod: Generate The Ultimate TypeScript API Clients Automatically" },
+    { "id": "uuOjb7WeXMM", "title": "Don‘t Use Readonly in TypeScript! Let‘s Build A Better Advanced One!" },
+    { "id": "4wHgZVSYmpo", "title": "The Craziest TypeScript Types Video You Will Ever See - The Pinnacle of Advanced Type Wizardry!" },
+    { "id": "SiWEETScQu4", "title": "Get INSTANT Inline TypeScript Results in Neovim with This New Plugin" },
+    { "id": "52vHiczZ3Bc", "title": "Let's Fix The Fatal Flaw in TypeScript's Union Types!" },
+    { "id": "yNw4KmegCaw", "title": "This Plugin is ESSENTIAL For TypeScript Development" },
+    { "id": "nVGhZZbM6r4", "title": "Let‘s Build a Game Using Only TypeScript Types" },
+    { "id": "B3LDiHl7pBI", "title": "Let‘s Understand Intrinsic Types in TypeScript by Building Them" },
+    { "id": "6msnydOslFQ", "title": "Let's UNLOCK TypeScript's Most Powerful Internally Used Type Feature" },
+    { "id": "SPUCU5ng7KY", "title": "The AutoComplete Utility Type: Powerful Suggestions Without Restrictions - Advanced TypeScript" },
+    { "id": "RSknW_dGHrU", "title": "Let‘s Fix Two Major Issues in NodeJS’ TypeScript Types" },
+    { "id": "CfUoc3ep9KY", "title": "No More Unreadable Types! A Cleaner, Functional Way to Build TypeScript Types" },
+    { "id": "_-QYbP9rOhg", "title": "This WILL CHANGE How You Work With Strings - Advanced TypeScript Magic!" },
+    { "id": "lUl6gtytG64", "title": "TypeScript 5.8 Beta Sneak Peek 🤫: This New Feature is AWESOME!" }
+  ],
+  "playlists": [
+
+  ]
+}

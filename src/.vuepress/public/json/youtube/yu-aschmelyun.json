@@ -6,6 +6,12 @@
     "banner": "https://yt3.googleusercontent.com/2MyQMZe2BEAcixMF4IZCy9sCq_w9SINKlwS5O5rvCySEstJSKGEpUod7bGx9cD9f62J0W-tm4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "8iZoeir0gVQ", "title": "Can I get a rotary phone working with JavaScript" },
+    { "id": "9qcn461YNw4", "title": "Building a Jupyter clone for PHP + JavaScript" },
+    { "id": "LsSTnveEJ1I", "title": "Go ahead, roll your own auth" },
+    { "id": "dCuefNScYKM", "title": "I built an app using a single index.php file, here's how it went" },
+    { "id": "EsN3Rsgxq1s", "title": "Is Cursor any good?" },
+    { "id": "Jk8q7MNeWeQ", "title": "This retro printer creates my daily newsletter and more… using PHP" },
     { "id": "ZC83mglmk5I", "title": "Serverless PHP is pretty good" },
     { "id": "Fuz-jLIo2g8", "title": "You don't need a frontend framework" },
     { "id": "ksW2z8So3EQ", "title": "Modern monoliths: SPA and API in a single codebase" },

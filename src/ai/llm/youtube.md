@@ -81,6 +81,7 @@ head:
 <MyYouTubeItems jsonName="yu-arp_ai" /><!-- Jay Alammar -->
 <MyYouTubeItems jsonName="yu-AIKoreaCommunity" /><!-- AI 코리아 커뮤니티 -->
 <MyYouTubeItems jsonName="yu-ENDPLAN" /><!-- 엔드플랜 Endplan AI -->
-
+<MyYouTubeItems jsonName="yu-클승우" /><!-- 클승우 -->
+<MyYouTubeItems jsonName="yu-ColeMedin" /><!-- Cole Medin -->
 
 <TagLinks/>

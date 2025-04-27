@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "ThePrimeagenClips",
+    "name": "ThePrimeagenClips",
+    "profile": "https://yt3.googleusercontent.com/Xa8SHe1b52oT96kiFWRSmdVSrLYMS3d1nBZK7zfOL1US1xjDzCzVuQQXXposidoQ72ahXG-OnQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "0EZjxD19JWU", "title": "Stop Saying Rust Is Too Complicated" },
+    { "id": "bk3WjkhcLrQ", "title": "What's Up With Github Lately??" },
+    { "id": "_-NBoMbITuk", "title": "Why I Talk About AI" },
+    { "id": "8XF1qv5qfZM", "title": "Replace Is Number Saves 440GB A WEEK" },
+    { "id": "PFixr9_lo9Y", "title": "Memory Optimization" },
+    { "id": "epHzlz4cde8", "title": "The Craziest LinkedIn Post Ever" },
+    { "id": "uedkpvvpoQE", "title": "LLMs Are Cheating On Benchmarks" },
+    { "id": "V75vUWxqS7U", "title": "The Reality Of AI" }
+  ],
+  "playlists": [
+
+  ]
+}

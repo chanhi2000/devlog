@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/bq58SePe8ZZUWsSweTlnBVih4WtUwMUT5DxybwcfRaaPXxmIZaUTrh39Lgh9b9Z9yEGwPgcK4w=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "FU1vdM4dIhY", "title": "A Few Minute Tips - A Tailscale Domain with Nextcloud AIO" },
+    { "id": "iYKZhNklFbo", "title": "Master Tailscale pt 3 -  Beat Carrier Grade NAT with Tailscale, Swag, and a VPS" },
+    { "id": "DVNs6yNAIag", "title": "UniFi Network Controller Setup & Migration- Perfect for New Installs and Upgrades" },
+    { "id": "1-s8tf_eHEk", "title": "Effortless macOS VM Installation with New Macinabox - Ventura & Sonoma Support" },
+    { "id": "uPde1aulGYY", "title": "Install Home Assistant VM on Unraid in Minutes! - No Hassle, No Fuss!" },
+    { "id": "3M8TD2nq7FU", "title": "2 Minute Tips - Unraid File Manager Tweaks" },
+    { "id": "Y2ALKS6K6XY", "title": "Secure Easy Backups to a Friend’s Server – Learn, Laugh, and Backup with Ed & Stefano" },
+    { "id": "hgcFdUIOf5M", "title": "GluetunVPN Setup & Unraid Container Networking Explained" },
+    { "id": "AnhwoARGNzo", "title": "Build Your Own Ad-Free Search Engine with 4get and Tailscale" },
     { "id": "tCsl9OXQ3q8", "title": "Master Tailscale on Unraid Pt 1: Easy Setup, Subnet Routing & Secure Sharing" },
     { "id": "WDn9Rz-wB2I", "title": "Supercharge The Unraid GUI. Run Commands & Scripts from the GUI with Custom Tabs Super" },
     { "id": "YvJKJa24CuU", "title": "Unraid 7 is Here !" },

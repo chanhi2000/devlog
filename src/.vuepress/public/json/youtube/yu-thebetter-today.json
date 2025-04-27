@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/XIKYCuC4jHOe9FsE4q1PoaIhnVX72QFWsHodRio0P1vmlipgenlncZdhnP7DOKLKTqC0vjY569Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "lBEnTq8PIDE", "title": "노코드 RAG 그리고 요즘 AI (+ 패스트 캠퍼스 강의 소개)" },
+    { "id": "Rb0OwIZBB-I", "title": "게으름뱅이의 마법같은 시간 관리법" },
+    { "id": "3-R1KVDJ5l0", "title": "우리집 고양이도 할 수 있는 옵시디언" },
+    { "id": "nG9NRA1UrqU", "title": "n8n으로 퇴근하자 - 아무튼 네이튼, 박정기님" },
+    { "id": "UU5GJb1FwTk", "title": "옵시디언 기본 사용 설명 + 왜 옵시디언인가?" },
+    { "id": "60zNMCINesg", "title": "옵시디언의 노트를 Cursor AI에 활용하기(RAG 쉽게하는 방법)" },
+    { "id": "n6mKi3JUZL0", "title": "클승우님의 나만의 경험을 반영한 콘텐츠 만드는 방법(feat. 옵시디언, Cursor AI)" },
+    { "id": "lZnDAaBEuO0", "title": "평범한 일상을 콘텐츠로 만드는 법 - 3,000명이 열광하는 인스타툰 작가의 비법!" },
+    { "id": "bmeYiPbOvqg", "title": "올해는 꼭 옵시디언! - 우리집 고양이도 할 수 있는 이지이지 옵시디언" },
     { "id": "ILqsZI0PnyE", "title": "두유노 올라마? Do you know Ollama? 내 컴퓨터에서 대규모 언어모델을 돌리자!| 더배러 톡톡 Talk Talk" },
     { "id": "nffOG2NHWSY", "title": "Flowise로 나만의 LLM 플로우 만들기" },
     { "id": "h1uIZf_NLJI", "title": "쉽고 강력한 개인 지식 관리 도구 Capacities 소개 (옵시디언 어려운 분들 오세요)" },

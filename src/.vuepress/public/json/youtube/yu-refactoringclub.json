@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "refactoringclub",
+    "name": "Refactoring",
+    "profile": "https://yt3.googleusercontent.com/SHyB9JNQl4t7ba6v2BViY0Hr630dv_g_RhN442T0OzvQ_xgZT6VDKbpU9rRrmZurwsa_FXyN=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/J5AdQoNwYOHDvmXNtkMabXzk-sqfNSWkMOG5JrbxtkUTyaF8J6I9VXlqBRr__8iwL9wxQH9z1Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ANvawHql0Wk", "title": "Measuring and Improving Developer Experience 📊 — with Abi Noda" },
+    { "id": "tePtBuDfWUk" ,"title": "Introducing our brand new Community platform! 💬" },
+    { "id": "3vzXDT4ZniQ", "title": "User-experience, local-first apps and dev tools 🔧 — with Adam Wiggins" },
+    { "id": "jGWZUC1WU3Y", "title": "The Future of Creative Organizations ✏️ — with Dan Shipper" },
+    { "id": "gsN2yeW0nGY", "title": "How Do Engineering Teams Use AI? 🤖" },
+    { "id": "H-0PsLmEi4A", "title": "How Perplexity Works 🤖 — with Denis Yarats" },
+    { "id": "IgsKxmNNn3I", "title": "How Vercel Works 🔍 — with Malte Ubl" },
+    { "id": "tpuK4n-dClI", "title": "Code Reviews, AI, and Modern Engineering 🔍 — with Greg Foster" },
+    { "id": "_871cQlHqhI", "title": "The Power of Influence 📣 — with Irina Stanescu" },
+    { "id": "19MvvYsvlgw", "title": "Continuous Coordination — with Henry Poydar" },
+    { "id": "tWduT9ygUQ4", "title": "Merchants of Complexity 🏯 — with DHH" },
+    { "id": "ycDyG1PH6T4", "title": "Founder Mode & The Manager’s Path 👑 — with Camille Fournier" },
+    { "id": "f4KeoO_Ql0k", "title": "Communication Engineering 💬 — with Pramoda Vyasarao" },
+    { "id": "cviqlzofJOA", "title": "Technical Storytelling at Google ✏️ — with Stephanie Wong" },
+    { "id": "mw44fyx-HiY", "title": "Profitable Engineering 🛠️ — with Aviv Ben-Yosef" },
+    { "id": "uBBr_sbNuMo", "title": "How to Organize Personal Work (My System) 🧺" },
+    { "id": "lurbDAEU0KM", "title": "Growing the development forest 🌲 — with Martin Fowler" }
+  ],
+  "playlists": [
+
+  ]
+}

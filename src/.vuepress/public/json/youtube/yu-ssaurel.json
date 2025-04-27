@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/4p8UmGt3T5tJ-TcCU_k5WYMMdT2dj1hDenKolpFLo3T54jWmyvd02BAgmLXzaVwuDfeJgtsnHEc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "pNvy6cvHPZI", "title": "Will Quantum Computing Make Satoshi Nakamoto's Bitcoins Accessible Again?" },
+    { "id": "f6LteFfzm_k", "title": "North Korean hackers are taking advantage of centralization induced by Bitcoin Spot ETFs." },
     { "id": "0uSfTEq2JMo", "title": "Learn How to Create the Classic Snake Game With the Canvas API and the HTML5/JavaScript Duo" },
     { "id": "LfrCWu5-I5A", "title": "Creating the Classical Pong Game in Python with a Tkinter UI" },
     { "id": "bmEzq12pjC4", "title": "Learn How to Create an Interactive Map of India Using HTML5/JavaScript and SVG" },

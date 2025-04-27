@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "EmbarkX",
+    "name": "EmbarkX | Learn Programming",
+    "profile": "https://yt3.googleusercontent.com/KV4d-ut0_DGmca8rF1vWrF5gfA7ph9FQAms9DrmF9bXOrWSksXc7uDMPC_ZMExvNBhwIpyRDOIM=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/WCJfkZ-r6CbbjliEa-VVzT7kKhhb3-3bFgyrDEbLXjYjWxDYFO4iBksBAJRhSDDifhIsTY3BFw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PcwTjDzkK_E", "title": "🚀 Full-Stack Microservices Course | AI-Powered Fitness Project Demo, E-Commerce Microservices Update" },
+    { "id": "U7VW_hRQMpM", "title": "02 Building User & Activity Microservices | Full-Stack AI-Powered Fitness Project Course" },
+    { "id": "oWVyJ2kNEMQ", "title": "03 Eureka & Microservices Communication | Full-Stack AI-Powered Fitness Project Course" },
+    { "id": "t2bakf9cfZU", "title": "04 Building AI Microservice | Full-Stack AI-Powered Fitness Project [Microservices Course]" },
+    { "id": "-Iy5gyAW6rE", "title": "06 Microservices Security with Keycloak + User Sync | Full-Stack AI-Powered Fitness Project Course" },
+    { "id": "q7_ktZuzN5s", "title": "07 Frontend Development with Authentication & PKCE Flow  | Full-Stack AI-Powered Fitness Project" },
+    { "id": "_FdKTSFnWeg", "title": "Master Full Stack AI Driven Microservices: Spring Boot, Spring Cloud, Keycloak, React [10 HOURS]" },
+    { "id": "OIXtqbNJ01I", "title": "Master Spring Boot Configuration Management: Profiles, Cloud Config & Secure Secrets | Microservices" },
+    { "id": "Qd8Twnk4cGY", "title": "Master Inter-Service Communication in Spring Boot | RestTemplate, Feign, WebClient, HTTP Interfaces" },
+    { "id": "NWLwGtkBrkQ", "title": "Apache Kafka Course For Beginners with Spring Boot Project, Spring Cloud Streams | Asynchronous Comm" },
+    { "id": "lYI-M4tSu6I", "title": "Use Deepseek in your Spring Boot Projects with Ollama and Spring AI" },
+    { "id": "cXBIZdQx2Y4", "title": "Spring AI Masterclass with Spring Boot | Build 5 AI Projects for your Resume Portfolio" },
+    { "id": "WzvxGKUVer4", "title": "Application Demo | Java Spring Boot: Professional eCommerce Project Masterclass | (Course on Sale!)" },
+    { "id": "QR12iDp99fs", "title": "Project Demo | Udemy's Spring Security 6 with ReactJS, OAuth2, JWT | Spring Boot (Course on Sale)" },
+    { "id": "YID5cqF6zM8", "title": "#4 Build a Temperature Converter | Basics of JavaScript | JavaScript Full Course Series" },
+    { "id": "Qj7LDd59KPQ", "title": "#5 Functions with Arrow Functions Hands On | Basics of JavaScript | JavaScript Full Course Series" },
+    { "id": "iLnMtNBkdfk", "title": "#6 Template Literals with JavaScript Console | Basics of JavaScript | JavaScript Full Course Series" },
+    { "id": "aSbqRzkQwRA", "title": "#7 Control Structures | Conditional Statements | Basics of JavaScript | JavaScript Mastery" },
+    { "id": "bhJYJk7djiM", "title": "#8 Callbacks, Promises, async/await | Asynchronous JavaScript | JavaScript Mastery" },
+    { "id": "vtAWCqJvAzY", "title": "#9 try catch + Debugging Techniques in Browsers | Error Handling in JavaScript | JavaScript Mastery" },
+    { "id": "9TC4KMDXDCI", "title": "#10 Closures, Spread & Rest Operators, Modules | Advance JavaScript | JavaScript Mastery" },
+    { "id": "m3FVXfr1Nr4", "title": "Complete Spring Boot Java Mastery Roadmap | Go From Zero To Hero With Microservices" },
+    { "id": "pu32rJLoNfo", "title": "#11 Working with JSON, Fetch, and Axios | API Integration in JavaScript | JavaScript Mastery" },
+    { "id": "Q2f76Fd4kAo", "title": "Complete JavaScript Mastery Course in One Video | Build 5 Projects Hands On | Go Full Stack" },
+    { "id": "_fNeWkm8YTg", "title": "Manage Secret Keys & Client IDs in Spring Boot: The Right Way with IDEs" },
+    { "id": "8IsSQi4BX1U", "title": "Debugging Techniques in Modern Browsers | JavaScript Debugging" },
+    { "id": "GBd_I7CGdNk", "title": "#01 Introduction to React | Become Full Stack Backend Developer | React Series" },
+    { "id": "Mrxg9Fp3dSw", "title": "#02 Getting Started with React Fundamentals | Become Full Stack Backend Developer | React Series" },
+    { "id": "v0tuxrk9070", "title": "#03 JSX in 1 Video with Project | Become Full Stack Backend Developer | React Series" },
+    { "id": "SDZk34mh7wM", "title": "6 Spring Boot Full Stack Projects For Beginners & Resume | Line By Line Coding Tutorial" },
+    { "id": "Zk23ruZgs3w", "title": "[FOR 2025] Practical SQL Hands-On Masterclass with MySQL | Day-by-Day Guide" },
+    { "id": "xHql5yeGlnU", "title": "Spring Framework Masterclass: Fundamentals for Beginners (Step-by-Step Guide to Spring Boot)" },
+    { "id": "4BaD0dSD49M", "title": "Use AI For Free in Spring Boot Apps For Portfolio & Resume Projects | Google Gemini with Spring Boot" },
+    { "id": "icm4JQdi9NU", "title": "Build Bitly Clone Full Stack Project | Deploy For FREE | Full Spring Boot Mastery Course in 12 HOURS" },
+    { "id": "hpiO9CKkKfU", "title": "I Built Smart Email Assistant Project Using Spring Boot & Spring AI | Boost Resume and Portfolio" }
+  ],
+  "playlists": [
+
+  ]
+}

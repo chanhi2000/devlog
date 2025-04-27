@@ -6,6 +6,13 @@
     "banner": "https://yt3.googleusercontent.com/7ugoNeZgrqsBMFE5nk9B2G5O5k2X5m-RWP4MrEEzZ4EX4GOBbHX-k7aEEVLEAQm6U9aLEUTq89M=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CLh2ACdXNbc", "title": "13 Linux Commands Every Engineer Should Know (Real-World Example)" },
+    { "id": "QkdkLdMBuL0", "title": "Kafka Tutorial for Beginners | Everything you need to get started" },
+    { "id": "116elYvjJ1M", "title": "Most Detailed DevOps Roadmap | Weekly Breakdown" },
+    { "id": "xo5V9g9joFs", "title": "Proxy vs Reverse Proxy vs Load Balancer | Simply Explained" },
+    { "id": "XCZWyN9ZbEQ", "title": "Full Golang Tutorial - Learn Go by Building a TodoList App" },
+    { "id": "1J2YOV6LcwY", "title": "Complete DevOps Roadmap 2025 - Master these 4 Levels!" },
+    { "id": "klyAhaklGNU", "title": "HashiCorp Vault Tutorial for Beginners - What, Why and How" },
     { "id": "iInUBOVeBCc", "title": "NGINX Tutorial - What is Nginx" },
     { "id": "boEB2fMUZnU", "title": "Top 4 AI Tools for Engineers that are ACTUALLY useful" },
     { "id": "MIWH2CpVyXs", "title": "The ONLY Continuous Integration (CI) Tutorial you need as an Engineer" },

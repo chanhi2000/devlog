@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "gamecanvasacademy",
+    "name": "게임캔버스-게임기획개발아카데미",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_lewiHaNwh7AzUrl2fJKH0c9B47BX944tzB6qsSuLbq_Ww=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mGeQgH7lgucU0F46ctO4THTrbpnGCm4F9nHFxEPGgh829RqaZkxQqewsIqtOjWQ-UaxoafBc5A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "YcmlC-MDLFo", "title": "취업 잘되는 학생들의 공통점" },
+    { "id": "JtfbXFtRDCI", "title": "게임기획자의 커뮤니케이션 방법" },
+    { "id": "-CDa2T-Lkuw", "title": "패트릭의 UX 탐구생활 - 원신은 어떻게 초보자를 학습시키는가?" },
+    { "id": "F9T7D0KRmHA", "title": "대기업 팀장의 취업 전략 특강 - 자기소개서" },
+    { "id": "EzeII6NWJEg", "title": "대기업 팀장의 취업 전략 특강 - 포트폴리오 Part.1" },
+    { "id": "C96bzCpbrN8", "title": "대기업 팀장의 취업 전략 특강 - 포트폴리오 Part.2" },
+    { "id": "jQ4rEWcRn1c", "title": "게임기획자의 포트폴리오 종류!! 그리고 주의 사항들" },
+    { "id": "ljT2uPG6RbE", "title": "MECE 사고방식을 이용한 시스템분석 1부" },
+    { "id": "mkxm8k_MdmY", "title": "MECE 사고방식을 이용한 시스템분석 2부" },
+    { "id": "9GaqeLZf9XY", "title": "언리얼과 문명을 만든 전설들의 알려지지 않은 이야기" },
+    { "id": "peKbWNMpn2Y", "title": "게임 클라이언트 프로그래머 취업과정" },
+    { "id": "4bDsqdSgHQw", "title": "일상과 이야기로 게임을 바꾼 두 거장, 로버타와 윌의 도전" },
+    { "id": "tdIFW2m4Oms", "title": "무료로 강의받고 게임기획자 하실분! (프로젝트: Dream Canvas)" },
+    { "id": "05sOoDTQ9EI", "title": "시스템이 이야기를 만든다. (요코오 타로와 켄 레빈의 디자인철학)" }
+  ],
+  "playlists": [
+
+  ]
+}

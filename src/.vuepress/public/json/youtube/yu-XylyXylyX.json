@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "XylyXylyX",
+    "name": "XylyXylyX",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_ktitzaMOKkORQhYY1WeWPaNaahk6SHIfARx0ZQSbDFvmQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/_83-8PSsQuRcM0jrpSeI8kA1U6jQhita57GXggkqh_muMzuRcHgb-Ey7aQSxBZ4CAOUtVPejXQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "x-2liNM2Tic", "title": "QED Prerequisites: Geometric Algebra - Maxwell's Equations" },
+    { "id": "JAACjrU_GUA", "title": "Relativistic Mechanics   3: LAB Decay" },
+    { "id": "KV9X15JrjRc", "title": "Relativistic Mech 4 Lambda decay" },
+    { "id": "qin6Nywu6vQ", "title": "Relativistic Mechanics 5: Some first principles and velocity addition" },
+    { "id": "5Vw5B518nOk", "title": "Relativistic Mechanics 6: 3-Body Decay Invariants" },
+    { "id": "OiBt9QrH11I", "title": "Relativistic Mechanics 7: 3-body decay - Phase space" },
+    { "id": "cWJS_Dj1NXM", "title": "Relativistic Mechanics 8: Constructing the Dalitz Plot" },
+    { "id": "kkECcXUgsPA", "title": "Relativistic Mechanics 9: Dalitz Plot Examples" },
+    { "id": "9bsaJrENQ28", "title": "Relativistic Mechanics : 10 - Collisions" },
+    { "id": "sRA0vH8gHnE", "title": "Relativistic Mechanics 11: Center of Mass Frame v. Lab Frame" }
+  ],
+  "playlists": [
+
+  ]
+}

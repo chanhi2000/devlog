@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "tamta_asatiani",
+    "name": "Tamta Asatiani",
+    "profile": "https://yt3.googleusercontent.com/3venj2oqtspswPu0AFp2pOCj2MdYTCuxoqcrLneermw6plNpG0ZRHnbMyrYS0T7RPcU7AFJc5g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zirVIpwrLWRuTt0dsYfcZcf-iZJB-wo7Jr6heOEL8OvxO9AB4ADah-snTJnkdfaVPv770lQ3XHQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "B0auKUWVTAQ", "title": "I made a Game Engine for C++" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "클승우",
+    "name": "클승우",
+    "profile": "https://yt3.googleusercontent.com/H8S3c86QOC8RzBG5mdNKH6U2D8zAZrs1gAc11Mn6V_ht_K3yrxez3Bp8Q7PcRqWu_yBui7dmqQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "mm2zJfWS07Y", "title": "PPT 그림 → 챗GPT로 3초 만에 퀄리티 UP! (AI 배경 제거 꿀팁)" },
+    { "id": "kygqSHnEM9I", "title": "기업보다 강한 개인의 세번째 도구 : 웹자동화" },
+    { "id": "39T54qQ6FZI", "title": "기업보다 강한 개인을 위한 두번째 도구 : 유튜브" },
+    { "id": "Z487NNpk7w0", "title": "AI 활용도를 높이기 위한 프레임워크 소개" },
+    { "id": "sYpTL-GgrZk", "title": "AI 시대 중심잡기, ChatGPT 코드 인터프리터 활용" },
+    { "id": "2IWDeIzjS-8", "title": "AI는 가성비다 - 낙서를 그림 or 사진으로 바꿔주는 인공지능" },
+    { "id": "R86vCYWqISY", "title": "커서AI 활용해서 17분만에 꿈타이머에 기능을 추가한 과정" },
+    { "id": "pbwYllmXHjk", "title": "커서AI로 문서 편집하기 (Cursor로 코딩만 할수있는게 아닙니다!)" },
+    { "id": "Mvuibo5uxoU", "title": "복잡한 개념, 설명하기 어려우셨죠? (사례와 기능 소개 - napkin.ai, 냅킨 AI)" },
+    { "id": "I8n-LwhzuWA", "title": "교수님들, 이제 대학원생의 부담을 덜어줄 때가 왔습니다!? (OpenAI의 신모델 o1)" },
+    { "id": "4qI24KAvuKU", "title": "기업보다 강한 개인을 위한 첫번째 도구 : AI (인공지능)" },
+    { "id": "R86vCYWqISY", "title": "원하는 기능을 말하기만해도, 앱을 만들 수 있을까요? (Cursor, 커서AI)" },
+    { "id": "pbwYllmXHjk", "title": "Cursor는 개발자의 도구일 뿐일까요? 아닙니다! (Cursor, 커서AI)" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -115,5 +115,6 @@ head:
 <MyYouTubeItems jsonName="yu-김귀찮이" /><!-- 김귀찮이 -->
 <MyYouTubeItems jsonName="yu-eden198100" /><!-- KIMGUN -->
 <MyYouTubeItems jsonName="yu-offhome" /><!-- 퇴근하겠습니다 -->
+<MyYouTubeItems jsonName="yu-dna7" /><!-- excel dna -->
 
 <TagLinks />

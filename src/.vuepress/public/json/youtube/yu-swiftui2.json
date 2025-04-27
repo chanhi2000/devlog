@@ -6,6 +6,8 @@
     "banner": "https://yt3.googleusercontent.com/b9Czyet3FDFsgYNMsiVLnxvF8wRPUFW-Q2GU8JdZJfjK9xDgR1s6lsSLwDzBIOjZwkyPUGiVMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "NqutE_wAAuI", "title": "How to detect [**] in the texts to make them bold format" },
+    { "id": "qPZ55lI3QzM", "title": "SwiftUI & Xcode 16: How to make a [Memory Game] SwiftUI - Xcode 16 - iOS 18" },
     { "id": "HJheVJG8aNI", "title": "SwiftUI & Firebase: ChatApp allows to send [ Texts, Audios, Images, Videos ] - Firebase - Storage" },
     { "id": "43g607SzRXI", "title": "SwiftUI + SwiftData: How to Save [ Videos + Images] on the SwiftData Database with SwiftUI - Xcode15" },
     { "id": "vOnt00HBfX0", "title": "SwiftUI & SwiftData: Creating a Shopping 🛍️ App with SwiftUI & SwiftData - Xcode15 - iOS 17" },

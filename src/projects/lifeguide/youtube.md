@@ -170,5 +170,6 @@ head:
 <MyYouTubeItems jsonName="yu-SBSmibb" /><!-- 블랙박스브스 -->
 <MyYouTubeItems jsonName="yu-엄마아들구삼이" /><!-- 엄마 도와주는:엄마아들 구삼이 -->
 <MyYouTubeItems jsonName="yu-autoview2009" /><!-- \오토뷰(AutoView) - 자동차 & 타이어 구입 참고서 -->
-
+<MyYouTubeItems jsonName="yu-살림메모" /><!-- 살림메모 -->
+<MyYouTubeItems jsonName="yu-인생2회차" /><!-- 인생2회차 -->
 <TagLinks />

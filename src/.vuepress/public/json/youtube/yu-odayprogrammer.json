@@ -6,6 +6,11 @@
     "banner": "https://yt3.googleusercontent.com/QRZZ05iwkJYPQ2U4zptug5DXHYtY1zv-vqYP1fAcEBWjqvIDEuh-SjXgo_o6HWpxb9m0i73YpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "nvdI89p_Nfc", "title": "Own your story: Boost confidence at job interviews!" },
+    { "id": "6Q_yizIxj6Q", "title": "CodeCrafters Livestreams - Build Your Own HTTP Server" },
+    { "id": "iGqloNsE9_Q", "title": "CodeCrafters Livestreams - Build Your Own HTTP Server (1 of n)" },
+    { "id": "RpumYTAV3Jk", "title": "CodeCrafters LiveStreams - Build Your Own HTTP Server in Kotlin - Ep. (1 of n)" },
+    { "id": "TpSDmHmv9D0", "title": "CodeCrafters Livestreams - Build Your Own Shell" },
     { "id": "-EuzSIgEWDk", "title": "Android programming" },
     { "id": "TEwrq9EHE4s", "title": "Jetpack Compose LazyColumn scroll to bottom when new items added" },
     { "id": "cUYOXe0goTI", "title": "Jetpack Compose LazyColumn - Impossibly Unsolvable bug" },

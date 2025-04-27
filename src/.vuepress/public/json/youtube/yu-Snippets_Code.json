@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "id": "Snippets_Code",
+    "name": "Snippets Code",
+    "profile": "https://yt3.googleusercontent.com/SBn58hXxL_aTDI6NC9NWbLyfws8LCkmn7IwaAj0giVTtHsH0Q9FVCFUKr0kVLb5YQyDDhbNB_tQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/pL5GMgXOaLje2JIrwHz2jOrTkJNVTXLxRp-jSL--830O7BqDr_HLPeKmfNtWEATkEBNSoYqA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Fu4Pl5k-3yQ", "title": "The Ultimate Fake 3D Rotation Effect With No JS Required" },
+    { "id": "OfBjZh1BUDk", "title": "Realistic 3D Toggle Switch Using HTML CSS (UNDER 7 MINS!)" },
+    { "id": "NOdzgVYHmtA", "title": "How to Create Book Style Accordion / Collapsible Div Using HTML CSS" },
+    { "id": "szHOPJDbJbs", "title": "Elevate Your Website with this 3D MENU 🤯 - (JavaScript Tutorial)" },
+    { "id": "F1XjxERmWaw", "title": "The Animated 3D Button Every Developer Should Know (Pure CSS)" },
+    { "id": "yMg1aNxdJDk", "title": "How To Make Your Website To Follow Your Cursor - ( Using JS )" },
+    { "id": "boqvpJrVTzI", "title": "Animated Waves Effect on Button Hover Using HTML CSS" },
+    { "id": "7gpLXO-OLUg", "title": "A Simple Infinite Slider EVERY Developer Should Know" },
+    { "id": "8nHrqIsNT-o", "title": "Overlay Text on Images on HOVER Using CSS" },
+    { "id": "t1qEIrNvsyg", "title": "Generate Videos From Images Using CSS" },
+    { "id": "TpTghubtqPs", "title": "Create Tabs Using HTML CSS Only (Under 3 MINS!)" },
+    { "id": "EgwITEGlZUU", "title": "Create an Ultimate Responsive Hamburger Menu Using JS" },
+    { "id": "euG1_R2o_Bg", "title": "I Built a Reponsive Website In 10 Mins (HTML CSS)" },
+    { "id": "0TnO1GzKWPc", "title": "Animate On Scroll With Just 3 LINES Of CSS (No Libraries Needed)" },
+    { "id": "p_1mLxchnXI", "title": "EASIEST Way to Create a Multi Level Menu | Pure CSS (In 3 MINS)" },
+    { "id": "nE8H15yhkAA", "title": "Innovative Ways Of Using Not() In CSS | Explained with examples" },
+    { "id": "HURAE4hnFrI", "title": "Host Your Website For FREE Using Github Pages" },
+    { "id": "IMsltRQrsg0", "title": "Code CSS Directly Inside the Browser (Not Using Inspect Elements)" },
+    { "id": "q3YwMsiFbq4", "title": "I Made The Simplest Form Possible... Using CSS" },
+    { "id": "xw7LKQa5yNg", "title": "Password Toggle with Torch Light Effect using JS" },
+    { "id": "OBS_Radi12Q", "title": "Transition Display Block to None... is Now Possible!" },
+    { "id": "WlvEgpqQmZ8", "title": "How Can You Really Transition From Height 0 To Auto" },
+    { "id": "UY3TYPLhSsM", "title": "Create a Popup With Just 2 LINES Of Code (No Libraries Needed)" },
+    { "id": "EbzO7fBc_wk", "title": "Create Accordion With Just 3 LINES Of Code (No Libraries Needed)" },
+    { "id": "bwC9YZQj1s0", "title": "6 Ways To Center A Div That Every Developer Must Know" },
+    { "id": "hY3xLjMlFSo", "title": "You Should Stop Writing Hover This Way In 2024" },
+    { "id": "RP_x_F7m1UI", "title": "Replacing A String 2000 Times Per Minute... Creates An Amazing Visual Effect" },
+    { "id": "JUO-qArDeg8", "title": "How To Detect IP Address Using JS" },
+    { "id": "mRuoQuivRe4", "title": "7 Powerful Lines Of CSS That Can Replace 100's Of Lines Code" },
+    { "id": "qM_EJ8Hx_NM", "title": "How To Write CSS The Lazy Way" },
+    { "id": "oPW_CuQfaTA", "title": "All-New CSS Menu You Should Use for Your Website In 2025" },
+    { "id": "4yBxb5RQxPs", "title": "Mind Blowing Stacked Cards Scroll Animation Using CSS / JS" }
+  ],
+  "playlists": [
+
+  ]
+}

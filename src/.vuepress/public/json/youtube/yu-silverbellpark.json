@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "silverbellpark",
+    "name": "은종쌤의 IT 이야기들",
+    "profile": "https://yt3.googleusercontent.com/dg33npZmrGd3oYOllA4pPHfURAy_S68Of6u8CmKD0V7YtP6gC2JTLgnd4zZ520Iet65z6C3kVds=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "xMjQ57i2Wp0", "title": "[은종쌤 책] Do it 자바프로그래밍 입문 개정판 이 나왔습니다. 구독자 분들을 위한 책 나눔 이벤트 있습니다." },
+    { "id": "mz1oNWsMYiQ", "title": "[이민석 교수님 강연] 경북대에서 개발자되기 위해 공부하는 방법에 대해 강연하신 영상입니다." },
+    { "id": "wdTNWhMMLjY", "title": "[그분인터뷰] 코드스쿼드 김정 대표님을 만났습니다.(1편) 업계의 유명 개발자이며 교육자이며 애플에 대한 사랑이 넘치시는 김정 대표님의 이야기를 들어보시죠~" }
+  ],
+  "playlists": [
+
+  ]
+}

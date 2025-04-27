@@ -1,5 +1,5 @@
 name: Fetch Daily Content Markdown File
-run-name: Fetching Daily Contents 🚀 (gf-${{ env.DATE }}.zip)
+run-name: Fetching Daily Contents 🚀
 on:
   schedule:
     # Runs daily at 6:00 AM,PM UTC (adjust the cron expression as needed)
