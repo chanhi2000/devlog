@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "timothyricks",
+    "name": "Timothy Ricks",
+    "profile": "https://yt3.googleusercontent.com/NUdbgcP2oF5Q0pOQLwCkthauJy_XOcXdQF59wgpFuOxDOafqj48CzkRwf0eksSImDmpwTFDY5A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/LwwO0-cGHZ32sYWutIuf8dBlu7EQFbxAYGLmr62h5rcmpMazLwo51FPD_TmDyNVZNQb_lE-ATw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gGsf_gOLPIg", "title": "Alignment Modes & Child Contain in Lumos" },
+    { "id": "rWmQf2KFR4k", "title": "This Changes Everything: GSAP + Container Queries 🤯" },
+    { "id": "uZuIBaD0W9E", "title": "This used to be impossible in Webflow" },
+    { "id": "DLKV1AO63IQ", "title": "Build Better Webflow Layouts — No Writing Code, No Breakpoints" },
+    { "id": "zrEZFOBH3eU", "title": "An App To Replace The Webflow Embed" },
+    { "id": "cYpdey0soyw", "title": "New Webflow App for Fluid Responsive" },
+    { "id": "XLeXxtQ2A8c", "title": "Figma to Webflow 2025 Full Build" },
+    { "id": "8bcmXzCWnV4", "title": "Upgrade Relume Components Instantly with This Tool" },
+    { "id": "OehDIjAV1Xk", "title": "Lumos Crash Course 2025 (Webflow Framework)" },
+    { "id": "Yq8Snsh40fE", "title": "Forget Breakpoints! 5 Better Webflow Techniques" },
+    { "id": "1XEoLuZGnig", "title": "Steal This Hover Interaction for Webflow" },
+    { "id": "7oGsl7eCYFw", "title": "Ungrouping Elements Across Breakpoints in Webflow" },
+    { "id": "jEmmuMD8KsQ", "title": "Infinite Stacked Card Animation in Webflow with GSAP" },
+    { "id": "_C3DXRUoQKw", "title": "The Hidden Problem with Webflow Forms" },
+    { "id": "S0qd40EimcY", "title": "Stop Using PX Padding" },
+    { "id": "Z4w61iLLqEk", "title": "Making Components Dynamic With Creative CSS" },
+    { "id": "5NGEEGNz368", "title": "Lazy Mode: Easy Layouts in Webflow" },
+    { "id": "u0ZGZdNy-eE", "title": "Prevent Overflowing Text in Webflow" },
+    { "id": "HXzpQTYZQVs", "title": "Margin Trim in Webflow" },
+    { "id": "l30iYFTHYFI", "title": "How Fluid Type Fixes Webflow's PX Breakpoints" },
+    { "id": "iuVhCkgTRbI", "title": "Filtering CMS Components in Webflow" },
+    { "id": "LF7CtKVaEIM", "title": "Nested CMS Lists in Webflow" },
+    { "id": "NrUL4r4r98A", "title": "Animating Lumos Color Themes On Scroll" },
+    { "id": "C7MayJJEs_k", "title": "The Death of Flexbox in Webflow" },
+    { "id": "OkU_j-hrj5E", "title": "Building Hamburger Animations in Webflow" },
+    { "id": "wscP9BCPt4M", "title": "Webflow Hack: Unlock Multiple Variants With Nested Components" },
+    { "id": "pfh1NJaEv_w", "title": "Anchor Your Footer Down in Webflow" },
+    { "id": "e1FfFaayhsM", "title": "Crop Annoying Line-Height Space With CSS" },
+    { "id": "qZvvcIq13pU", "title": "Webflow's New Variable Modes" },
+    { "id": "nm65TDo96cQ", "title": "Animate Webflow Color Modes" },
+    { "id": "Wjh3CQNqYK8", "title": "Flexbox Variable Modes in Webflow" }
+  ],
+  "playlists": [
+
+  ]
+}

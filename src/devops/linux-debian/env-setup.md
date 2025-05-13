@@ -25,6 +25,14 @@ tag:
   - temurin11
   - docker
   - neofetch
+head:
+  - - meta:
+    - property: og:title
+      content: Linux - Debain > Environment Setup
+    - property: og:description
+      content: Environment Setup
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-debian/env-setup.html
 ---
 
 # {{ $frontmatter.title }} 관련

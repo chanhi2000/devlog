@@ -6,6 +6,18 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ukk5JDRYQSc", "title": "The Haskell Unfolder Episode 42: logic programming with typedKanren" },
+    { "id": "RPQVsaZ46Dk", "title": "The Haskell Unfolder Episode 44: state-based testing with quickcheck-lockstep" },
+    { "id": "nD93M2qlwMk", "title": "The Haskell Unfolder Episode 43: monomorphism restriction and defaulting" },
+    { "id": "RPQVsaZ46Dk", "title": "State-based testing with quickcheck-lockstep (Haskell Unfolder #44)" },
+    { "id": "NEUbp2CsuNg", "title": "The Haskell Unfolder Episode 39: deriving strategies" },
+    { "id": "0QTt2W7CVnA", "title": "The Haskell Unfolder Episode 40: understanding through a model" },
+    { "id": "db-KjKOBMeA", "title": "The Haskell Unfolder Episode 41: generic monoids" },
+    { "id": "GnlD13FcME4", "title": "The Haskell Unfolder Episode 32: solving tic-tac-toe" },
+    { "id": "iX9ShJG5L0A", "title": "The Haskell Unfolder Episode 33: diagrams" },
+    { "id": "n5ZtsHrYWq0", "title": "The Haskell Unfolder Episode 34: you already understand monads" },
+    { "id": "KkKxHApYSfc", "title": "The Haskell Unfolder Episode 37: solving Advent of Code 2024 day 4" },
+    { "id": "ww4C3jlsesw", "title": "The Haskell Unfolder Episode 38: tasting and testing CUDA (map, fold, scan)" },
     { "id": "KNXi5CrrjKg", "title": "The Haskell Unfolder Episode 30: runST" },
     { "id": "NTW62s3mrXQ", "title": "The Haskell Unfolder Episode 31: nothunks" },
     { "id": "gN6zIfkdlxE", "title": "The Haskell Unfolder Episode 28: type families and overlapping instances" },

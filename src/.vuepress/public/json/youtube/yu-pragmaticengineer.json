@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "pragmaticengineer",
+    "name": "The Pragmatic Engineer",
+    "profile": "https://yt3.googleusercontent.com/qG5_w-Lf6SyIgYXz3vm3ZgpGe-swbizzXsCM5oaOdlTL8AQzV48UMt3Wga-g5sfB7Mj7qH5qow=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/6jZxBwmeLcm7ijdihFzf2l0lVEubXM_6Cu1ZVUM2Yr_M4R1rlD0sXlreKEVOidAHDwmMOk6i=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qBRJxIw7gBg", "title": "Stacked diffs and tooling at Meta with Tomas Reimers" },
+    { "id": "lz451zUlF-k", "title": "The Philosophy of Software Design – with John Ousterhout" },
+    { "id": "o1-BUCdog1c", "title": "Working at Amazon as a software engineer – with Dave Anderson" },
+    { "id": "qDTW3EGnrkw", "title": "Building Reddit’s iOS and Android app" },
+    { "id": "f4AGAeVe2Jw", "title": "How to work better with Product, as an Engineer with Ebi Atawodi" },
+    { "id": "G9WOC8sUts8", "title": "Building Windsurf with Varun Mohan" },
+    { "id": "vBjonut1JMk", "title": "How Kubernetes is Built with Kat Cosgrove" },
+    { "id": "Oiz6Q7txUqk", "title": "Two developers built a game that sold 1M copies. How?" },
+    { "id": "qXJ3S3T3xJY", "title": "Live streaming at world-record scale with Ashutosh Agrawal (ex-Jio / Disney+ Hotstar)" },
+    { "id": "WufjP_WRnPM", "title": "Developer productivity with Nicole Forsgren (the creator of DORA)" },
+    { "id": "sXoJ0qOavhs", "title": "The man behind the Big Tech comics – with Manu Cornet" },
+    { "id": "rVQoh0CIVFs", "title": "Design-first software engineering: Craft – with Balint Orosz" },
+    { "id": "7WbREHtc5sU", "title": "How Linux is built with Greg Kroah-Hartman" },
+    { "id": "XXXa31L9Uos", "title": "Building Figma Slides with Noah Finer and Jonathan Kaufman" },
+    { "id": "vCHJm2itKsI", "title": "The Pragmatic Engineer Podcast: Trailer" },
+    { "id": "uRuLgar5XZw", "title": "AI tools for software engineers, but without the hype – with Simon Willison (Co-Creator of Django)" },
+    { "id": "pMD_jKMePDM", "title": "Efficient scaleups in 2024 vs 2021: Sourcegraph (with CEO & Co-founder Quinn Slack)" },
+    { "id": "6WM_q193Kls", "title": "Twisting the rules of building software: Bending Spoons (the team behind Evernote)" },
+    { "id": "Ga7xKYQ41XU", "title": "How Notion Builds Their iOS and Android Apps" },
+    { "id": "IekJKQ-AvkM", "title": "Shipping projects at Big Tech with Sean Goedecke" },
+    { "id": "d7GsnaQYZ68", "title": "Confessions of a Big Tech recruiter – with Blake Stockman" },
+    { "id": "DQFNYCO1MqM", "title": "“The Coding Machine” at Meta – with Michael Novati" },
+    { "id": "SvEjS4-2WJQ", "title": "Observability: the present and future, with Charity Majors" }
+  ],
+  "playlists": [
+
+  ]
+}

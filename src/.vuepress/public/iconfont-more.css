@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_ghe3p99sij8.woff2?t=1744326186296') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_ghe3p99sij8.woff?t=1744326186296') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_ghe3p99sij8.ttf?t=1744326186296') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_ghe3p99sij8.svg?t=1744326186296#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_ch17damhk94.woff2?t=1747175760661') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_ch17damhk94.woff?t=1747175760661') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_ch17damhk94.ttf?t=1747175760661') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_ch17damhk94.svg?t=1747175760661#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-gentoo:before { content: "\e9aa"; }
 .icon-lynx:before { content: "\e9a9"; }
 .icon-strapi:before { content: "\e9a8"; }
 .icon-groq:before { content: "\e9a7"; }

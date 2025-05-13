@@ -4,15 +4,25 @@ title: References
 description: Linux - Fedora > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Linux
   - Fedora
-  - References 
+  - References
 tag: 
   - linux
   - redhat
   - centos
   - yum
   - package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: Vim > Tips
+    - property: og:description
+      content: Tips
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-fedora/references.html
+---
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -150,5 +160,14 @@ tag:
 <!-- END: hyeonseok.com -->
 
 ---
+
+## GeekNews - 개발/기술/스타트업 뉴스 서비스
+
+- [리눅스에서 RAM과 CPU 사용량 줄이는 방법](https://news.hada.io/topic?id=20867)
+
+<!-- END: news.hada.io -->
+
+---
+
 
 <TagLinks />

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "seibertgroup",
+    "name": "Seibert Group",
+    "profile": "https://yt3.googleusercontent.com/ZoSw_niNNSPDUBDDzCdnm0urP6QrNihdVooSA5xJrI5XExrmATesZ2-q2UxV-ygMGQmcgLZj=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/zNvYF8q9CyrxcwOIQd-vyILLCo0Bdm3XGrOXuZOwle30xUupMP6nYtsHTS07BpMSliZoltpFCQ0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dQLX5lrmTI8", "title": "Keynote: LACASCARA: Mit dem 10X-Mindset von \"Die Höhle der Löwen\" ins Regal - 10X 2025" },
+    { "id": "DQB_xQi6k18", "title": "10X Growth - Scale Up Success Cases - 10X 2025" },
+    { "id": "MuB5AYIhqP0", "title": "Keynote: Gen Z(ukunft) - ehrliche Einblicke in die Generation der Zukunft - 10X 2025" },
+    { "id": "mUmbJ2V9HRE", "title": "Ring frei: Die neuen Champion-Prinzipien für unschlagbaren Erfolg - 10X 2025" },
+    { "id": "NSjv5FBZNQk", "title": "Linchpin Update 5.12 & 6.1 | Q2/25 | Es gibt nie genug Informationen!" },
+    { "id": "hhch18lbulo", "title": "Rovo & Enterprise Search im Fokus: Was steckt hinter Search, Chat und Agents?  🔍🤖💡 | Atlassian" },
+    { "id": "Dv8bC7GixiM", "title": "Epic Sum Up im Detail: 🚀 Die 3 Key Features für besseres Projektmanagement | APTIS GmbH" },
+    { "id": "sFrpvHYarv0", "title": "Authentifizierung leicht gemacht: SAML SSO Single Sign On im Überblick💡🔒 | re:solution" },
+    { "id": "-XxoSztOz60", "title": "10X – Das Innovations-Event für Gründer & Vordenker 🚀" },
+    { "id": "BYvXWIPVe8E", "title": "Umfirmierung: Die Seibert Media GmbH heißt jetzt Seibert Group GmbH" },
+    { "id": "evStPempAfo", "title": "Keynote Speaker Jule Jankowski Teaser Tools4AgileTeams 2024" },
+    { "id": "yEt-olpFNDc", "title": "Schritt-für-Schritt: Ticket sichern und die Eventplattform der T4AT Konferenz entdecken" },
+    { "id": "n749Bm1eE_Y", "title": "Intuitive Automatisierung in Jira mit Power Scripts ⚙️✨ | Appfire" },
+    { "id": "_3I-XDDiQgI", "title": "Jira Workflows auf das nächste Level bringen – JMWE für Jira 🚀 | Appfire" },
+    { "id": "Jw0H3dvqxkk", "title": "Quick Filters für Jira Dashboards: Die Lösung für dynamische Reports! 🔎✨ | codefortynine" },
+    { "id": "8PvHCBFdOrE", "title": "Klonen, migrieren, automatisieren - Deep Clone for Jira 🔄✨ | codefortynine" },
+    { "id": "_SsQWcoK1Js", "title": "Jira optimieren mit Epic Clone 🗂️🔄 | ij-solutions" }
+  ],
+  "playlists": [
+
+  ]
+}

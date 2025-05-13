@@ -2490,6 +2490,7 @@ export const sidebarEn = sidebar({
             '/devops/linux-debian/raspberry-pi/youtube.md',
           ]
         },
+        '/devops/linux-debian/tips.md',
         '/devops/linux-debian/references.md',
         '/devops/linux-debian/youtube.md',
         {
@@ -2533,6 +2534,8 @@ export const sidebarEn = sidebar({
             '/devops/linux-fedora/rocky/youtube.md',
           ]
         }, 
+        '/devops/linux-fedora/systemctl.md',
+        '/devops/linux-fedora/tips.md',
         '/devops/linux-fedora/references.md',
         '/devops/linux-fedora/youtube.md',
         {

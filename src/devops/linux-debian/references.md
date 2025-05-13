@@ -12,6 +12,14 @@ tag:
   - debian
   - pacman
   - package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: Linux - Debain > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-debian/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -477,6 +485,14 @@ tag:
 - [\[Let’s Encrypt\] 도메인의 인증서가 서브도메인의 인증서로 적용되었던 사례](https://twpower.github.io/359-case-of-subdomain-certificate-was-applied-to-root-domain-in-letsencrypt)
 
 <!-- END: twpower.github.io -->
+
+---
+
+## GeekNews - 개발/기술/스타트업 뉴스 서비스
+
+- [리눅스에서 RAM과 CPU 사용량 줄이는 방법](https://news.hada.io/topic?id=20867)
+
+<!-- END: news.hada.io -->
 
 ---
 

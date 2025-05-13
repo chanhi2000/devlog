@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "Hqm2-H9R3RE", "title": "Building a Changelog Generator for the Imminent 0.13 Release of Iced!" },
+    { "id": "Bbj6RF_aewg", "title": "Release Party?! Changelog Review, Last Preparations, and 0.13 Launch! 🚀" },
+    { "id": "By0MWqfSbwg", "title": "Post-Launch Stream! Addressing Feedback, Reviewing Docs, Merging PRs, and Polishing the Release" },
+    { "id": "qgronvBbJ8E", "title": "Polishing the API Reference and Releasing 0.13.1!" },
+    { "id": "H03eqVIkMmk", "title": "Open-Source Work! Tweaking Layout, Writing an Iced FAQ, Updating Icebreaker, and Extending Cargo" },
+    { "id": "3TKFgCZp-7U", "title": "Runtime Renderer Configuration! Switching Between `wgpu` and `tiny-skia`" },
+    { "id": "wrwxC9taL8w", "title": "Learning to Unlearn — The Key to Achieving Mastery in Programming" },
+    { "id": "TxZuevsJwq4", "title": "Varied Open-Source Work – Reviewing PRs and Other Stuff" },
     { "id": "gcBJ7cPSALo", "title": "Building a simple text editor with iced, a cross-platform GUI library for Rust" }
   ]
 }

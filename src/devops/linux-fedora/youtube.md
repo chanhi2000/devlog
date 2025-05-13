@@ -14,6 +14,14 @@ tag:
   - centos
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Linux - Fedora > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-fedora/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

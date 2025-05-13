@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/xhucTijs2CMaGrL6gWWBzULLsCCwCL8MT40-xPsTxCV-vUDfJ3x-epsFSyWbKrFc4wPvhwN3=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "BJcLAUiyfPU", "title": "SwiftData Previews: PreviewModifier in SwiftUI (iOS 18)" },
     { "id": "NFyqdxGFkiY", "title": "Are SwiftUI previews impossible with SwiftData? #swiftui #swiftdata  #bigmountainstudio" },
     { "id": "QfMnd6mOR84", "title": "What is the Nil Coalescing Operator in the Swift language?  #swiftui #bigmountainstudio #swiftcode" },
     { "id": "A_wOCkbLUoM", "title": "Casual Hangout: Working on SwiftData Mastery Book" },

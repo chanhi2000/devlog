@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "InternetOfBugs",
+    "name": "Internet of Bugs",
+    "profile": "https://yt3.googleusercontent.com/pPFVQhfWpPWoBCrOFlqn2a0UBGzRmMhXG2DyjmCfIjosRsF0dA6A3MGqnlcPJqVu-JbuYx87Nw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/oLepIdEFArZFi_S5A1BoZ_0w3agrTM7JKUrDHUHe745x_NJ95tYClT8-XJcJpylDVTUiLonZBQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "CrcpAu_724A", "title": "Advice from  Old Tech Heads and Bossware  - Article RoundUp" },
+    { "id": "5lb3T3R_z2k", "title": "Safe Secrets Storage for Cloud Software Services. Stop with the .env Files!!" },
+    { "id": "pIe_uaveO6A", "title": "AI has problems - and Google/YouTube's AI is awful at speech recognition" },
+    { "id": "B4gDB2ADyc8", "title": "DeepSeek & ChaptGPT o1 & ChatGPT o3-mini coding test experiment results" },
+    { "id": "tjtnA8sm9ZA", "title": "Future of AI: what happens after DeepSeek? (No One knows - but I have a guess)" },
+    { "id": "8MIs2LU0wvM", "title": "Intro to \"Single Admin\" Software-as-a-Service" },
+    { "id": "j2JRBZaMDSg", "title": "12 Factor Apps: Bad for smaller dev teams and people who hate bugs" },
+    { "id": "iMDiYX7P4ds", "title": "Starting a side-project: Why you (and most developers) should, and how AI can help." },
+    { "id": "PH-qIyqwY4U", "title": "ChatGPT O1 Preliminary test comparison with previous model test videos" },
+    { "id": "j0yKLumIbaM", "title": "ChatGPT-O1 Changes Programming as a Profession. I really hated saying that." }
+  ],
+  "playlists": [
+
+  ]
+}

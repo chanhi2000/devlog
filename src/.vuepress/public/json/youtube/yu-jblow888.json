@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/uIvZrgRouTH2U0BGfLuKC7Olz8wfqHH865Vz4D6qfHP9T4JZAz30D8WVOwldmRu_hAlwU-1dfLQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "LPdMNsL5MgI", "title": "Compiler Q&A, September 2024" },
     { "id": "fIPO4G42wYE", "title": "Discussion with Casey Muratori about how easy precedence is..." },
     { "id": "mup0OxwYK1o", "title": "Weekend Project: Color Animation Editor (part 2)" },
     { "id": "HKuDTwtuugk", "title": "Weekend Project: Color Animation Editor (Part 1)" },
