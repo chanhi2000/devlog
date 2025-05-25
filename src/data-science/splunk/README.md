@@ -1,12 +1,22 @@
 ---
 lang: ko-KR
-title: Splunk
-description: Splunk
+title: "Splunk"
+description: "Splunk"
 icon: iconfont icon-apachespark
 category:
+  - Data Science
   - Splunk
 tag:
+  - data-science
   - splunk
+head:
+  - - meta:
+    - property: og:title
+      content: "Splunk"
+    - property: og:description
+      content: "Splunk"
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/splunk/
 ---
 
 # {{ $frontmatter.description }} 관련

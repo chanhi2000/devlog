@@ -4,9 +4,11 @@ title: Youtube
 description: Splunk > Youtube
 icon: fa-brands fa-youtube
 category:
+  - Data Science
   - Splunk
   - Youtube
 tag:
+  - data-science
   - splunk
   - youtube
 head:

@@ -4,9 +4,11 @@ title: References
 description: Splunk > References
 icon: fas fa-book-atlas
 category:
+  - Data Science
   - Splunk
   - References
 tag:
+  - data-science
   - splunk
 head:
   - - meta:

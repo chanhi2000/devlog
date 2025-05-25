@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: References
-description: Vim > References
+title: "References"
+description: "Vim > References"
 icon: fas fa-book-atlas
 category:
   - Linux
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vim > References
+      content: "Vim > References"
     - property: og:description
-      content: References
+      content: "References"
     - property: og:url
       content: https://chanhi2000.github.io/tool/vim/references.html
 ---

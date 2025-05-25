@@ -1,0 +1,36 @@
+{
+  "channel": {
+    "id": "IanWootten",
+    "name": "Ian Wootten",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_m1SN7ibQ6m9gO3rfFQlmQ4Fw22IKgEGdgzUd4CwaLpQ4g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-2WsZCwOWQS2_AMWCdSrg4hS2ZCEVsGZIQQAty3qgattyZX_iirdXkiuG0R5Q7jkbgWrToU1n00=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lbXzgRgm1Rc", "title": "Are Framework's $19 Mystery Boxes Actually any Good?" },
+    { "id": "EqLyFT78Sig", "title": "Aider: This AI Coder Can Create AND Update Git Codebases" },
+    { "id": "Zfxt5wRa6Zg", "title": "How Developers Can Use ChatGPT's New Code Interpreter" },
+    { "id": "6VBhTkfr_d0", "title": "AI Showdown: Can Claude 2 from Anthropic Take On ChatGPT?" },
+    { "id": "tIRx-Sm3xDQ", "title": "Ollama: The Easiest Way to Run Uncensored Llama 2 on a Mac" },
+    { "id": "h-6svh0xGiU", "title": "FaceFusion: Creating Deepfakes is Now Shockingly Simple on a Mac" },
+    { "id": "TWc7w5rvKrU", "title": "Code Llama: First Look at this New Coding Model with Ollama" },
+    { "id": "swNeoKGFkQM", "title": "Ollama on Linux: Easily Install Any LLM on Your Server" },
+    { "id": "Yj_7FuFgPyI", "title": "Amazon Bedrock: Generative AI on AWS without the Headaches" },
+    { "id": "pUp70cit7to", "title": "Easily Create Voiceovers Using OpenAI's New Text to Speech and Vision Models" },
+    { "id": "oUfsQpTg-1E", "title": "Draw My UI: Turn Wireframes into Tailwind/JS with One Click" },
+    { "id": "oSQUk68-koQ", "title": "Google Gemini AI: Cutting Through the Hype" },
+    { "id": "ewXANEIC8pY", "title": "Using Ollama to Run Local LLMs on the Raspberry Pi 5" },
+    { "id": "JFYGZ_t0yVU", "title": "How Fast Will Your New Mac Run LLMs?" },
+    { "id": "fr3ksdNxDXg", "title": "Will Your New Python Package Manager be Written in Rust?" },
+    { "id": "hI4r4RAUQXE", "title": "Choosing Your LLM Provider is a Whole Lot Easier with This" },
+    { "id": "pI8F-vAsZ70", "title": "Using Ollama to Run Local LLMs on the Steam Deck" },
+    { "id": "1gaYHLO54TE", "title": "Instructor: The Best Way to get Typed Data from Ollama" },
+    { "id": "evAb2x34Jqk", "title": "FastHTML: Modern, Reactive Web Apps in Pure Python" },
+    { "id": "k4qh83m1jg0", "title": "uv: A Single Python Tool to Replace pip, pipx, pyenv, poetry and more!" },
+    { "id": "IQI5BZlVI3Y", "title": "ell: A Powerful, Robust Framework for Prompt Engineering" },
+    { "id": "8H95AqE3P7k", "title": "How to Prompt Your LLM Directly from SQL" },
+    { "id": "RxuofiZNhtU", "title": "PostgREST: Dead Simple APIs in Pure Postgres" }
+  ],
+  "playlists": [
+
+  ]
+}

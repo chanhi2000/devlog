@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Tips
-description: Vim > Tips
+title: "Tips"
+description: "Vim > Tips"
 icon: fas fa-lightbulb
 category:
   - Linux
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vim > Tips
+      content: "Vim > Tips"
     - property: og:description
-      content: Tips
+      content: "Tips"
     - property: og:url
       content: https://chanhi2000.github.io/tool/vim/tips.html
 ---

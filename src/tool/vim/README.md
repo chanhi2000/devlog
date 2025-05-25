@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Vim
-description: Vim
+title: "Vim"
+description: "Vim"
 icon: iconfont icon-vim
 category:
   - Linux
@@ -13,6 +13,14 @@ tag:
   - cli
   - vi
   - vim
+head:
+  - - meta:
+    - property: og:title
+      content: "Vim"
+    - property: og:description
+      content: "Vim"
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/vim/
 ---
 
 # {{ $frontmatter.description }} 관련

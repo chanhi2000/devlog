@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Article(s)
-description: Vim > Article(s)
+title: "Article(s)"
+description: "Vim > Article(s)"
 icon: fas fa-square-share-nodes
 category: 
   - Linux
@@ -18,9 +18,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vim > Article(s)
+      content: "Vim > Article(s)"
     - property: og:description
-      content: Article(s)
+      content: "Article(s)"
     - property: og:url
       content: https://chanhi2000.github.io/tools/vim/articles/
 ---

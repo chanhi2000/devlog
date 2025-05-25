@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "McKayJohns",
+    "name": "McKay Johns",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_l50iqZcbVOtcM2Vt4XKp-S9Nd0d121QELxDe6NeUe6tnU=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/r3FwUT4st0rWMKXsDuCkdPoGuDOz4I__tToAfPV1BMRp-EGSUWkBiBMNuix6an8LUWUDbl8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GsfXAzfvJVM", "title": "Build a Simple Expected Goals Model with Machine Learning and Python" },
+    { "id": "oKqP8AQS9Gk", "title": "How to Create a Soccer/Football Pitch in Python w/ mplsoccer" },
+    { "id": "cMVzNQ6nytU", "title": "How to Calculate Expected Threat (xT) in Python" },
+    { "id": "56mA8j33LbQ", "title": "Polar/Pizza Chart Tutorial in R  w/ Dom Samangy" },
+    { "id": "vrVwofFpsV0", "title": "How to Manually Create and Plot Event Data in R w/ Dom Samangy" },
+    { "id": "Cn4Vt5DVWYw", "title": "How to Create a Soccer Shotmap in R w/ Dom Samangy" },
+    { "id": "j-cqGs75zo4", "title": "Beginners Guide to Web Scraping in Python with Requests and BeautifulSoup" },
+    { "id": "nOV-UrRU9N4", "title": "Web Scraping with Selenium in Python" },
+    { "id": "XzhPJN1Te_I", "title": "Statsbomb 360 Data Intro in Python" },
+    { "id": "0A5nQOQIHLM", "title": "Python vs R for Sports Analytics" },
+    { "id": "EnZRTDuYSes", "title": "How to Scrape SofaScore for Football Data" },
+    { "id": "LOG8omqE67g", "title": "6 Sports Analytics Projects from Beginner to Advanced" },
+    { "id": "T_LSR0_Au3k", "title": "You've been waiting for this..." },
+    { "id": "3HVT0lHaIKg", "title": "How to Easily Transform Your Tables in Python" },
+    { "id": "cBVVRQG6eak", "title": "How to Scrape TransferMarkt.com for Football Data in Python" },
+    { "id": "BD63DcLvT1w", "title": "How i would learn sports analytics in 2024 (if i could start over)" },
+    { "id": "JVEsL6sueJk", "title": "What I Wish I Had When I First Started Football Analytics" },
+    { "id": "I0TB9m_hyCo", "title": "The Super Easy Way to Scrape FBREF for Free Soccer Data" },
+    { "id": "gHwRVk4h60Y", "title": "I Built an AI Football Scout (Better than Manchester United?)" },
+    { "id": "lvJqz2EZHY8", "title": "How to Scrape SofaScore for Free Football Data (Updated Method)" },
+    { "id": "1hGKhV-7Hpw", "title": "SQL and Databases for Sports Analytics" },
+    { "id": "v3uI44ZA_WU", "title": "How to Make Graphs Like The Athletic in Python" },
+    { "id": "mXg2DBkhXAM", "title": "How to Learn the Skills for Sports Analytics" },
+    { "id": "M_VknDjN-wo", "title": "Build a Soccer Analytics Web App with Streamlit" },
+    { "id": "ymYuhU05ttw", "title": "Calculate expected points (xPts) in Python" },
+    { "id": "HJJFgZlBOME", "title": "How to Learn Python FAST in 2025" }
+  ],
+  "playlists": [
+
+  ]
+}

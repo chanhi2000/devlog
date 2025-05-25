@@ -3450,6 +3450,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Apache Hive',
+      collapsible: true,
+      icon: 'iconfont icon-apachehive',
+      children: [
+        '/data-science/hive/README.md',
+        '/data-science/hive/references.md',
+        '/data-science/hive/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/data-science/hive/articles/README.md',
+            asb.freecodecamp("hive"),
+          ]
+        }
+      ]
+    }, {
       text: 'Splunk',
       collapsible: true,
       icon: 'iconfont icon-splunk',

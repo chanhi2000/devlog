@@ -1,0 +1,41 @@
+{
+  "channel": {
+    "id": "tomontheinternet",
+    "name": "Tom on the Internet",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_krWeNAGX3MyuHBMOe-dh5haNdvEGBdhrOd-5pwdDcciA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/81AGgI7s6PMnzJvGL9dqABj13CIn40u9uqVeBNQBXVCC1FRIeCeFRHgiuuHAYJcdFAqdW8OtBA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "XGC-_gpqU4g", "title": "10 Reasons I Love Go (as a JavaScript/PHP dev)" },
+    { "id": "Fyf-Wh4ckDk", "title": "I will teach you how to make games in your terminal 👾" },
+    { "id": "zXddbJPSoac", "title": "Snake Eating Mice in my Terminal (That's all this video is.) 🐁 🐍" },
+    { "id": "SPnwT-CxTZY", "title": "Dependency Inversion can make you a better developer" },
+    { "id": "LIddxQHSk1U", "title": "I like bad code" },
+    { "id": "vv55RZFCbnY", "title": "Qalculate! (qalc) is an astounding CLI calculator." },
+    { "id": "E7prlBHKLiU", "title": "Foot is Wayland terminal emulator that does everything right" },
+    { "id": "e_TUDkPFM-Y", "title": "Ksnip is my new favorite image annotation software" },
+    { "id": "MB-MryvHcy0", "title": "A binary clock in the terminal. So pretty. So annoying to use as a clock TBH." },
+    { "id": "V9dOyqtm3vc", "title": "Sarc 2.0 - The CLI that got me a promotion? (It didn't get me a promotion, but  I pretend it did%EOF" },
+    { "id": "3lOxz0wkoN4", "title": "yellbat - Batman memes from the cli" },
+    { "id": "MGhQmIz9-88", "title": "A pretty (but inaccurate) shell one-liner timer." },
+    { "id": "q7zQapRwY7c", "title": "Nix makes trying out new applications so easy" },
+    { "id": "eSQfyAQhbyM", "title": "Hunt down changes with git log" },
+    { "id": "2A2rCQTDvww", "title": "Rock Paper Scissors Battle in the Terminal - RPS Arena" },
+    { "id": "snXNeUb8B74", "title": "Shell Snake - A portable game of snake in the terminal" },
+    { "id": "7hvPWcSm4w4", "title": "An Elephant in Cairo and other fun things in the terminal" },
+    { "id": "ePDddBSPXJs", "title": "Is map faster than a for loop in JavaScript? (no, but sometimes yes)" },
+    { "id": "PpYWr6vFdIs", "title": "Ugly user model" },
+    { "id": "VBdgsxpigEQ", "title": "You can make the matrix effect in your terminal in raw JavaScript. Well, at least I was able to." },
+    { "id": "yZA1JmwQwYE", "title": "My best terminal game yet - Cemetery Escape" },
+    { "id": "hLkaKdnUb6Q", "title": "How I Code in 2024" },
+    { "id": "6V8jdqdygB4", "title": "I ignored this incredible Neovim plugin for years!" },
+    { "id": "H4Id0znCbks", "title": "Moving an image between browser windows" },
+    { "id": "xuniMQwM_xM", "title": "re: your comment on my pull request" },
+    { "id": "Ki64Cnyf_cA", "title": "Why does JavaScript's fetch make me wait TWICE?" },
+    { "id": "nvqqQ5Jsuhk", "title": "A Simple HTTP Server Built on TCP" },
+    { "id": "rq5LyQOuLe0", "title": "YOU can write a game in Node.js in the terminal without dependencies. (intermediate JavaScript)" }
+  ],
+  "playlists": [
+
+  ]
+}

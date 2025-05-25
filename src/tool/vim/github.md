@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
-title: Github
-description: Vim > Github
+title: "Github"
+description: "Vim > Github"
 icon: fa-brands fa-github
 category:
   - Linux
@@ -16,9 +16,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Vim > Github
+      content: "Vim > Github"
     - property: og:description
-      content: Github
+      content: "Github"
     - property: og:url
       content: https://chanhi2000.github.io/tool/vim/github.html
 ---

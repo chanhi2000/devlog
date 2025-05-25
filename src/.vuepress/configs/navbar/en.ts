@@ -571,9 +571,13 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-hadoop',
         link: '/data-science/hadoop/README.md',
       }, {
-        text: 'Spark',
+        text: 'Apache Spark',
         icon: 'iconfont icon-apachespark',
         link: '/data-science/spark/README.md',
+      }, {
+        text: 'Apache Hive',
+        icon: 'iconfont icon-apachehive',
+        link: '/data-science/hive/README.md',
       }, {
         text: 'Splunk',
         icon: 'iconfont icon-splunk',

@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "ZSjo-Gz6H4Q", "title": "AllTrails UI Clone Part One - Scaffolding" },
+    { "id": "gUxPuT1Y2wo", "title": "AllTrails UI Clone Part Two - List Items" },
+    { "id": "stkWnbNDKC8", "title": "AllTrails UI Clone Part Three - Polishes" },
     { "id": "3_m_AZhWmC0", "title": "TOA: Main Activity UI Tests" },
     { "id": "vaf7uIqJZs0", "title": "Building An Esports Widget With Jetpack Glance (Part TWO)" }, 
     { "id": "d5SH9NegeUk", "title": "TOA: Core Data & Task API Modules" }, 

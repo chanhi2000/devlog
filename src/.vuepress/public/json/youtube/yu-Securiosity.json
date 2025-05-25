@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "Securiosity",
+    "name": "Securiosity",
+    "profile": "https://yt3.googleusercontent.com/nluxOMyWaprBiT9FdPu7bX5VssiK_9lJchUZXutYw67xPqqQtD5Gma59nQyx309OJ6LJX6DO=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p8-IVscNl_YbVbS1u0lrj7iQWEnRpzdfpgSlw2qe-AAL3qQdVCuULkYpMRw6OXY1JAkV4CxD1A=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "Uru3rksnLh0", "title": "ChatGPT for Cybersecurity" },
+    { "id": "H-fIGef1xzI", "title": "Never Trust Hotel Safes!!!" },
+    { "id": "4dRsBhN3PUc", "title": "HackRF Portapack H2 Assembly" }
+  ],
+  "playlists": [
+
+  ]
+}

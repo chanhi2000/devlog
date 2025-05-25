@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "PolylogCS",
+    "name": "Polylog",
+    "profile": "https://yt3.googleusercontent.com/Mhx56wGQ-TLPjbqCNg_esVQe3oQcnuNAhWyq_-gJqBL0iX4Ru-yBHGJ3JsQbB5Jg4LDXTsz1WA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "Otvcbw6k4eo", "title": "I can prove I’ve solved this Sudoku without revealing it" },
+    { "id": "_W0yUJlscRA", "title": "The Simplest Sorting Algorithm (You’ve Never Heard Of)" },
+    { "id": "-64UT8yikng", "title": "We designed special dice using math, but there’s a catch" },
+    { "id": "MRc2XgXloY0", "title": "AI cracked this Codeforces problem. Can you?" },
+    { "id": "A60q6dcoCjw", "title": "The hidden beauty of the A* algorithm" },
+    { "id": "Bvj72wN0OVk", "title": "Why arguing generals matter for the Internet" },
+    { "id": "mZck0N_T9Cs", "title": "And this year's Turing Award goes to..." },
+    { "id": "6OPsH8PK7xM", "title": "What P vs NP is actually about" }
+  ],
+  "playlists": [
+
+  ]
+}

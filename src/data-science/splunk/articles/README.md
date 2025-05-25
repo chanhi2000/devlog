@@ -4,10 +4,12 @@ title: Article(s)
 description: Splunk > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - Data Science
   - Splunk
   - Article(s)
 tag: 
   - blog
+  - data-science
   - splunk
 head:
   - - meta:
