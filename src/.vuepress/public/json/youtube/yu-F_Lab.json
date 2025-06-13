@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "F_Lab",
+    "name": "F-Lab : 상위 1% 개발자들의 1:1 멘토링",
+    "profile": "https://yt3.googleusercontent.com/GLqYi7cuqxpuvxVZAwgRXDIr69Mkmgg7TppW6xA3cJp11yYygZ6lyXtI2caFvzYSPZJvlDT6=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/j-BUm4OZellAvwsOgGlpeccb_r1Ksp13jqtfyOMF-WSD1qBLiubEdvt-rRPQARWf5Tn4C_ooZQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_uc_DgEJEeQ", "title": "Non-sequential vs Sequential PK - Page Split (MySQL) - 김혜주 | F-Lab 미니 컨퍼런스" },
+    { "id": "zBQsDdJOzv0", "title": "개발자 해외 취업 가이드 - 박병길 (독일 Zalando) | F-Lab 미니 컨퍼런스" },
+    { "id": "L2v9QhKxsdo", "title": "13년차 물경력 개발자의 스토리 | F-Lab Series" },
+    { "id": "TzPfcyBYCQo", "title": "F-Lab 멘토링 오리엔테이션" },
+    { "id": "oFgiHg-xdBE", "title": "개발자는 서비스 회사를 어떻게 골라야 할까?" },
+    { "id": "hAfmgexY03Y", "title": "IT인프라, 얼마나 알아야할까요? - 우아한형제들 이동규님 | F-Lab 플러그인 세미나" },
+    { "id": "6tQehZItBbo", "title": "당신의 Roadmap은 무엇인가요? - 야놀자, 롯데헬스케어 출신 도영석님 | F-Lab 플러그인 세미나" },
+    { "id": "l53UcOm6_Xg", "title": "[DEV CLUB 사전설명회] 특별한 개발자 커뮤니티에 초대합니다." },
+    { "id": "BrMZOYS_WqI", "title": "클라우드 엔지니어 성장 로드맵 - NHN 소속 이동민님 | F-Lab 플러그인 세미나" },
+    { "id": "gaI6rfqwEDI", "title": "3개 전공을 거친 체대생이 글로벌 스타트업 테크 리더가 되기까지의 여정 - 카카오브레인 출신 허훈님 | F-Lab 플러그인 세미나" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -4,14 +4,16 @@ title: Youtube
 description: Vue.js > Youtube
 icon: fa-brands fa-youtube
 category:
+  - Node.js
   - Vue.js
   - Youtube
 tag: 
-  - js
   - node
   - nodejs
+  - node-js
   - vue
   - vuejs
+  - vue-js
   - youtube
 head:
   - - meta:
@@ -54,5 +56,6 @@ head:
 <MyYouTubeItems jsonName="yu-WebDevMatics" /><!-- WebDevMatics -->
 <MyYouTubeItems jsonName="yu-devtoolsfm" /><!-- devtools-fm -->
 <MyYouTubeItems jsonName="yu-gymcoding" /><!-- 짐코딩 - 웹 개발 입문부터 실무까지 -->
+<MyYouTubeItems jsonName="yu-LearnVue" /><!-- LearnVue -->
 
 <TagLinks />

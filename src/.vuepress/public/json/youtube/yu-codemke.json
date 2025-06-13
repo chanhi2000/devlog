@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "codemke",
+    "name": "Meekuk Engineer ",
+    "profile": "https://yt3.googleusercontent.com/xLnme7vbT-KzhFsqMn7000kT_3Kn2FHXMy2VYs-7hHNeUBPTtQ3-8sTaBx_xUex6JhzlcN9-=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/8MA-369dRmdfzjmmPXu9EYCP1mv6kznFEEYt_GSPGIHoHxMZCegMIuTHVd7ICKG0qh1Ul8273w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M_YER9jM9lY", "title": "Python: EP122 -  미친듯이 빠른 uv에 대해 알아보자" },
+    { "id": "4qvsrR7yLsU", "title": "LangChain: EP25  - LangGraph에 대해 알아보기" },
+    { "id": "3ufG9tOK3UM", "title": "Terraform(테라폼) EP28: 테라폼 10분만에 끝내기" },
+    { "id": "elRQMETgnWI", "title": "Vlog(블로그) - 소프트웨어 엔지니어링은 기본이 제일 중요하다" },
+    { "id": "IQFxPzEMSZY", "title": "Vlog(블로그) - 두뇌형 vs. 경험형 당신은 어떤 엔지니어인가?" },
+    { "id": "C37zxyThJRI", "title": "Vlog(블로그) - 빅테크에서는 LLM을 어떻게 사용할까?" },
+    { "id": "pzyn0xUDm2w", "title": "Vlog(블로그) - 마이크로소프트 해고 사태로 본 개발자의 미래" },
+    { "id": "0EUxCvvQ03A", "title": "Docker:  EP1 - 다커(Docker)란 무엇인가?" },
+    { "id": "cT7L4DOtE0Y", "title": "Python: EP121 -  Python 3.13 업데이트 내용" },
+    { "id": "uw9hfNogtcc", "title": "MLflow: EP1 -  MLOps 그들은 누구인가?" },
+    { "id": "UJc9OmFCCfQ", "title": "MLflow: EP2 -  Machine Learning Model Cycle에 대해 알아보자" },
+    { "id": "cxfKdh3JFUo", "title": "MLflow: EP3 -  MLflow란 무엇인가?" },
+    { "id": "TjrEoW_gYuk", "title": "AWS Network: EP1 - AWS Global Infrastructure 소개" },
+    { "id": "GCOObYVq8o0", "title": "AWS Network: EP3 - IPv4 vs. IPv6에 대해 알아보자" },
+    { "id": "YfWMGd9ZRiY", "title": "AWS Network: EP2 - CIDR(Classless Inter-Domain Routing)에 대해 알아보기" },
+    { "id": "0f3fTTXqTps", "title": "LangChain: EP24  - Model Context Protocol(MCP)에 대해 알아보기" },
+    { "id": "ovhbyLroNIY", "title": "Celery EP77 - Flower API 사용해 보기" },
+    { "id": "YR6DMi-llAQ", "title": "Kubernetes(쿠버네티스):  EP29 - Kube Config에 대해 자세히 알아보자" },
+    { "id": "HwtTRjOFBqk", "title": "Gradle(그래이들):  EP1 - Gradle이란 무엇인가?" },
+    { "id": "nr9BbPOEr34", "title": "Gradle(그래이들):  EP2 - Basic 프로젝트 만들어보기" },
+    { "id": "5pJA4H96Qbc", "title": "Gradle(그래이들):  EP3 - 자바(Java) 프로젝트 만들어보기" },
+    { "id": "suyRkWsjsJM", "title": "AWS EKS:  EP1 - 아마존 EKS 서비스에 대해서 알아보자" },
+    { "id": "QxLYiETRb54", "title": "파이썬으로 배우는 빅데이터 EP 51: 스파크에서 지원되는 파일 포맷들" },
+    { "id": "XhxWGWyzFFo", "title": "파이썬으로 배우는 빅데이터 EP 52: Apache Iceberg에 대한 소개" }
+  ]
+}

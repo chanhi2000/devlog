@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "LearnVue",
+    "name": "LearnVue",
+    "profile": "https://yt3.googleusercontent.com/KzFIlZe26ylfYx9tnnt5RAS89PxpK7HwDvQ22OK06IFfSjMesRLw9nHZNSJLOtDprtqy-s6_xb4=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-vuPJNJbF8iNp5K9xT-ECESPRQmrN3WqlPQjk2IGi7X94lOrpmLaak8DxuhyX3SYnGMiDIg7=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "wvINSME-FMs", "title": "Vue animations just got WAY better" },
+    { "id": "e-_u6swXRWk", "title": "Why You Should Start Using useNuxtData" },
+    { "id": "eXM0TK7FX0I", "title": "The Secret to Reusable Components in Vue" },
+    { "id": "9JRT60ESGiI", "title": "I Didn't Know This Vue Best Practice..." },
+    { "id": "KT0mI4_6TWE", "title": "The Problem with This Vue Feature (and how to fix it)" },
+    { "id": "NAONtybQktw", "title": "I was wrong about defineModel..." },
+    { "id": "X0M4R0Qx6n4", "title": "Why is Nuxt 3.16 Even Faster?" },
+    { "id": "WYaxCN5Gj7k", "title": "What's New in Vue 3.4?" },
+    { "id": "VyEPMQGozPk", "title": "Server Components Keep Getting Better" },
+    { "id": "2ZahQhb98-E", "title": "Vapor Mode is the Future of Vue" },
+    { "id": "uLzYSjuDZEE", "title": "why im NOT hyped for nuxt 4" },
+    { "id": "b1S5os65Urs", "title": "You're Probably Using Nuxt Wrong" },
+    { "id": "Pz-jnSYJnjk", "title": "Vue is getting EVEN FASTER?" },
+    { "id": "jDQtxlRUf54", "title": "I LOVE this new Nuxt Feature" },
+    { "id": "CJ9Ya4g-Nj8", "title": "What's New In Vue 3.5?" },
+    { "id": "U74rtOCuB-k", "title": "Why I Love Vue's Newest Feature" },
+    { "id": "_GrdYoO3h0g", "title": "8 libraries I use on EVERY project" },
+    { "id": "PZIEZZe4EMo", "title": "Customizing Images in Nuxt" },
+    { "id": "_eQxomah-nA", "title": "My New Favorite UI Library" }
+  ],
+  "playlists": [
+
+  ]
+}

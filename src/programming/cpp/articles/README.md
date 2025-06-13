@@ -12,8 +12,10 @@ tag:
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
-  - cpp
   - c++
+  - cpp
+  - cplusplus
+  - c-plus-plus
 head:
   - - meta:
     - property: og:title

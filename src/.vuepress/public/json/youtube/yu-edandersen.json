@@ -1,0 +1,39 @@
+{
+  "channel": {
+    "id": "edandersen",
+    "name": "Ed Andersen",
+    "profile": "https://yt3.googleusercontent.com/b185ZUO9MSl6Be4uRgTOxC4ZccTC1RkMY0NoqxseN1-XdLw4_UfCBe3616RybZWOG3PuCaccXg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/GRMiz4YbKE_5E7qNvTr3ZrW4qrYtyM4ifqn8hLxtl_7apkpa5x35mfML3XI-TQreGL4KgakXpBw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LaAL6gl_Gkc", "title": "Does Microsoft still care about developers?" },
+    { "id": "Vu_Naq3iWUA", "title": "More Brutally Honest Advice for C# and .NET Web Developers - 2025 Roadmap" },
+    { "id": "FzQlz_uzKQk", "title": "C# Extension methods have changed forever" },
+    { "id": "_ceGKgNWFXw", "title": "Top 10 C# Mistakes that will get you in trouble" },
+    { "id": "93pxUFZgS9g", "title": ".NET MAUI team layoffs - is VS Code okay?" },
+    { "id": "6vx8WyoYKJ4", "title": "C# LINQ just got way faster with \"ZLinq\"" },
+    { "id": "0nYY_WIJ6YU", "title": "Microsoft Build 2025 C# and .NET Developer Special - .NET Aspire jumps the shark" },
+    { "id": "QWYFGdEeCkQ", "title": "Why \"dotnet run app.cs\" is so important to .NET's future" },
+    { "id": "975HcGOTix4", "title": "JetBrains goes to war with ReSharper in VS Code" },
+    { "id": "wIx-q8F3GZI", "title": "What 10 years of .NET and C# does to a man" },
+    { "id": "RD421VBgEQk", "title": "Has Microsoft Abandoned C# and .NET?" },
+    { "id": "VL4Z9_z5Dv0", "title": "Custom Email - Apple iCloud+ vs Google Workspace vs Microsoft 365" },
+    { "id": "ohkeYczD1LY", "title": "Brutally honest advice for new .NET Web Developers" },
+    { "id": "SCxoEcIQ4n4", "title": "Which developers will survive Microsoft GitHub Copilot AI?" },
+    { "id": "brbjcJc7p_A", "title": "7 C# Tips and Tricks to impress your .NET Developer friends" },
+    { "id": "FDDpkm9vCAI", "title": "OpenAI Assistant API for File Analysis - Full C# / .NET Code Tutorial" },
+    { "id": "m7wH89jq3mg", "title": "5 Things Azure Does Better Than AWS" },
+    { "id": "l5HiJzDKqho", "title": "Your .NET and C# Questions and Comments Answered" },
+    { "id": "9dOKLRbDem4", "title": "How .NET Aspire will save .NET (and its not about \"the cloud\")" },
+    { "id": "umzMPlaKLQo", "title": "Azure OpenAI Assistants V2 API in C# .NET - RAG with File Search Tool" },
+    { "id": "XUJ95hVjS20", "title": ".NET and C# are in trouble. Here is what I'd do." },
+    { "id": "3mhQMenmZUM", "title": "Full Stack Developers will take over. This is why." },
+    { "id": "NClv3ueBeE0", "title": "Tech Job Hunting Advice Nobody Tells You" },
+    { "id": "_JTXRHetTXw", "title": ".NET 9's missing feature has me really worried." },
+    { "id": "H96Va36xbvo", "title": "Is .NET Open Source actually any better than WordPress Open Source?" },
+    { "id": "OlJSTTof9mo", "title": "Custom Voice AI Agent with .NET Semantic Kernel and OpenAI GPT-4o Realtime Voice!" }
+  ],
+  "playlists": [
+
+  ]
+}

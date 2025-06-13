@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_7s9nxa02g6d.woff2?t=1749368314069') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_7s9nxa02g6d.woff?t=1749368314069') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_7s9nxa02g6d.ttf?t=1749368314069') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_7s9nxa02g6d.svg?t=1749368314069#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.woff2?t=1750559268963') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.woff?t=1750559268963') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.ttf?t=1750559268963') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.svg?t=1750559268963#iconfont') format('svg');
 }
 
 .iconfont {
@@ -22,9 +22,9 @@
 .icon-windows-sandbox:before { content: "\e9a6"; }
 .icon-penpot:before { content: "\e9a5"; }
 .icon-replit:before { content: "\e9a4"; }
-.icon-ico-solidjs:before { content: "\e9a3"; }
-.icon-ico-shadcn:before { content: "\e9a2"; }
-.icon-ico-st-microelectronics:before { content: "\e9a1"; }
+.icon-solidjs:before { content: "\e9a3"; }
+.icon-shadcn:before { content: "\e9a2"; }
+.icon-st-microelectronics:before { content: "\e9a1"; }
 .icon-deepseek:before { content: "\e9a0"; }
 .icon-pug:before { content: "\e99f"; }
 .icon-webdev:before { content: "\e99e"; }

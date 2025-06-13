@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "pandas-data-studio",
+    "name": "판다스 스튜디오",
+    "profile": "https://yt3.googleusercontent.com/w-cJysiAmUvnU_vV8Zq-SJ-RqnZDO31N-SKcOR9P41_MltZENK4DhOd46b_gyTVryyEr-nQFDOc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/AJ7M5o0gSQclGO1Oc6JVUUf5Q8pmsPoNS23HtQRTkXe2lYwrg7Qacu2C0Z3VgNQxo20o_WMt=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "9_EgeTk_DLQ", "title": "【실전 MCP #2】 공식 문서로 배우는 MCP 서버 구축 - 파이썬 SDK 활용 주가 데이터 분석 실전 튜토리얼" },
+    { "id": "qdwMosgAVUU", "title": "클로드(Claude)로 구축하는 로컬 RAG 챗봇: MCP 서버 핵심 기능 3가지 (Prompt, Resource, Tool)" },
+    { "id": "C_VOGWjTyTs", "title": "【오픈소스 로컬 LLM 활용] OpenWebUI와 MCP 통합 가이드 (실습파일 제공)" },
+    { "id": "kP7hyU_idaM", "title": "LangChain 핵심 문법 한번에 정리하기 - LCEL / Runnable의 모든 것 (Ollama Qwen2.5-14b 모델)" },
+    { "id": "a_zIs0KxLbc", "title": "【오픈소스 100% 활용】 RAG 파이프라인 구축 가이드  | LangChain + Milvus + HuggingFace + Ollama + Langfuse" },
+    { "id": "RfXxNgykwbw", "title": "【실전 MCP】 Smithery와 pymcp로 MCP 서버 구축하기 | Cursor/Claude 연동 완벽 가이드" },
+    { "id": "GsZ9w04smVE", "title": "Ollama 활용 로컬 RAG: 올라마 임베딩 모델의 한국어 성능, Semantic Chunking 적용, 구글 Gemma2,  알리 Qwen 2.5 활용 (LangChain)" },
+    { "id": "d1AgUzr2q0E", "title": "오픈소스로 구현하는 한국어 영수증 OCR: Qwen2-VL과 구글 Gemini (Colab 노트북 실습)" }
+  ],
+  "playlists": [
+
+  ]
+}

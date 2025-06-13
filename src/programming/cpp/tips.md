@@ -7,8 +7,10 @@ category:
   - C++
   - Tips
 tag: 
-  - cpp
   - c++
+  - cpp
+  - cplusplus
+  - c-plus-plus
   - process
   - forking
 head: 

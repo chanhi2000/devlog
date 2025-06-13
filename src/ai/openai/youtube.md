@@ -201,5 +201,6 @@ head:
 <MyYouTubeItems jsonName="yu-DevSense19" /><!-- Dev Sense -->
 <MyYouTubeItems jsonName="yu-tilnote" /><!-- tilnote - AI, 테크 -->
 <MyYouTubeItems jsonName="yu-gptLearningHub" /><!-- Dev G -->
+<MyYouTubeItems jsonName="yu-freeneurs_seoul" /><!-- 프리너스 -->
 
 <TagLinks />

@@ -6,6 +6,10 @@
     "banner": "https://yt3.googleusercontent.com/dUBswPnkZAlWKOc-8Jf7eUZsBzrEJ03RzosGMFBORgwoTr74Znq3EgmuSBjZSmZFKDAHOhov=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "riGf9mnsXtk", "title": "Fourier Transform and its Mathematical Foundation" },
+    { "id": "Y3s0fmZE81U", "title": "Hermite Polynomials" },
+    { "id": "AtBmDVCLjZA", "title": "Book Writing - Fourier Transforms!" },
+    { "id": "5eUWPqzAhZU", "title": "The Structure of a new AI architecture (KAN)" },
     { "id": "AtBmDVCLjZA", "title": "Book Writing - Fourier Transforms!" },
     { "id": "5eUWPqzAhZU", "title": "The Structure of a new AI architecture (KAN)" },
     { "id": "vzUkThsQa9E", "title": "Why the world NEEDS Kolmogorov Arnold Networks" }

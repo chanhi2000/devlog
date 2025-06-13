@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/2wZtqBvnsWAIh-iDKd95bhNKDTJGkFsnQzThi2WluDZu0M3CcSOca8Ilq32znDZfu_fEhCPL=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "N56Jrqc7SBk", "title": "Watch out for this (async) generator cleanup pitfall in Python" },
     { "id": "b0HMimUb4f0", "title": "Docker Tutorial for Beginners" },
     { "id": "RejIVgfER-4", "title": "Run an AI Large Language Model (LLM) at home on your GPU" },
     { "id": "7Qu_KXc7xSI", "title": "All 71 built-in Python functions" },

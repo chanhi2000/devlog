@@ -7,8 +7,10 @@ category:
   - C++ 
   - References
 tag: 
-  - cpp
   - c++
+  - cpp
+  - cplusplus
+  - c-plus-plus
 head: 
   - - meta:
     - property: og:title

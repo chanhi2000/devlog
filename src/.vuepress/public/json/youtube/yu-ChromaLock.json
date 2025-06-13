@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "ChromaLock",
+    "name": "ChromaLock",
+    "profile": "https://yt3.googleusercontent.com/5lcEU7H1Ysy4ZYGUvPu9BahdhF5HVqHUpiPN5_T_5vxPhEUW9vwK9mkqNCEZHnCKgfJKc8Hw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/uCq_kwVvLF_B5eJucXT7hfkx7RdwBBpHA91RbPd26FSnLkadQChKrg07IIRa9f42hptyNa1T=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "_miwNAN1qu8", "title": "Non-linear Easings in Kdenlive" },
+    { "id": "yEUfimIh9Z4", "title": "Easings Tool for Kdenlive (Part 2) | Rotation, Keyframe Import, and Repeats" },
+    { "id": "Bicjxl4EcJg", "title": "I Made The Ultimate Cheating Device" },
+    { "id": "yPI6gURLLUs", "title": "I Streamed To A Game Boy" }
+  ],
+  "playlists": [
+
+  ]
+}

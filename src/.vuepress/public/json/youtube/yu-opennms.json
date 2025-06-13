@@ -1,0 +1,14 @@
+{
+  "channel": {
+    "id": "opennms",
+    "name": "OpenNMS",
+    "profile": "https://yt3.googleusercontent.com/lxs6ALYCp5d1veDZSSzVAb1hqlT0823LtLu00CfrY0OGTrbyddypJfBvO1OiQvtTjzHLmCHh4A=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/0b4SlrSj3wZLKvkIiThaMjToy4iTRC7qzrIKkVm3o1_Q0LBjJF3Ga1mY9QajiNlpPrlTMiOEaw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "PgIrWfzll5k", "title": "OpenNMS Meridian: Enterprise network monitoring with flows and SNMP" }
+  ],
+  "playlists": [
+
+  ]
+}

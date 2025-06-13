@@ -4,11 +4,13 @@ title: Youtube
 description: C++ > Youtube
 icon: fa-brands fa-youtube
 category:
-  - C++ 
+  - C++
   - Youtube
 tag: 
-  - cpp
   - c++
+  - cpp
+  - cplusplus
+  - c-plus-plus
   - youtube
 head: 
   - - meta:
@@ -54,4 +56,6 @@ head:
 <MyYouTubeItems jsonName="yu-lowlevelgamedev9330" /><!-- Low Level Game Dev -->
 <MyYouTubeItems jsonName="yu-MikeShah" /><!-- Mike Shah -->
 <MyYouTubeItems jsonName="yu-tamta_asatiani" /><!-- Tamta Asatiani -->
+<MyYouTubeItems jsonName="yu-Cakez77" /><!-- Cakez -->
+
 <TagLinks />

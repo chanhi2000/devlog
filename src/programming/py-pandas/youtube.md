@@ -30,5 +30,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-KeithGalli" /><!-- Keith Galli -->
+<MyYouTubeItems jsonName="yu-pandas-data-studio" /><!-- 판다스 스튜디오 -->
 
 <TagLinks />

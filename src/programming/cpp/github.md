@@ -7,8 +7,10 @@ category:
   - C++
   - Github
 tag: 
-  - cpp
   - c++
+  - cpp
+  - cplusplus
+  - c-plus-plus
   - git
   - github
 head: 

@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "freeneurs_seoul",
+    "name": "프리너스",
+    "profile": "https://yt3.googleusercontent.com/5BW9R3u47M5TvmQOh-JE-caSikoy6yy6w1eNK63u3xGAojti4fiq3GSd6JUqbuGmSlvuLtQEeA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "d7f6i_K86hc", "title": "AI로 SNS에 콘텐츠 자동 발행하는 방법 with Make, GPT" },
+    { "id": "-NqobAsX9as", "title": "20살에 노션 템플릿 팔아서 월 7천 만 원 버는 비법 | 세컨드 브레인" },
+    { "id": "xVx7UbGaoUw", "title": "쳇지피티(chatGPT) o1으로 돈 버는 법이요? 이렇게 쓰세요!" },
+    { "id": "bNTBpEWdYfQ", "title": "ChatGPT가 나오자마자 챗봇 플랫폼을 만들어 월 3,600만 원을 버는 비법" },
+    { "id": "-ZkmsQfsn5c", "title": "Lilys AI의 원조! 유튜브 영상 요약 서비스로 월 5,100만 원 버는 남자" },
+    { "id": "atLVxIcxswQ", "title": "노코드 툴(Bubble.io)로 12시간 만에 만든 앱으로 월 천 버는 인디해커" },
+    { "id": "jdnSs93ylq4", "title": "코딩을 독학으로 배워 만든 서비스를 2억 7천만 원에 매각한 방법" },
+    { "id": "zqQrb6HW2xM", "title": "노션과 구글 시트를 연결시켜 월 천 버는 방법" },
+    { "id": "dDhi_oWVvCM", "title": "자동화 툴? 메이크(Make)와 네이튼(n8n) 전격 비교 해부!" },
+    { "id": "sZi1FMOnjrA", "title": "비싼 자피어 그만 쓰세요, 자피어 대항마를 소개합니다(Pabbly Connect)" },
+    { "id": "cKZJ-4qxI_I", "title": "Curosr 킬러앱! Bolt.new를 직접 사용해봤습니다 | 자동 코딩 AI" },
+    { "id": "2UBwN7rmygw", "title": "스크린샷 캡쳐 서비스를 만들고 월 500만원을 버는 청년(Pika)" },
+    { "id": "yTFORRylbK8", "title": "대구에서 온 대학생이 커서AI로 월 500 버는 방법 | 커서 다마고치 EP1" },
+    { "id": "mD0-infhHBs", "title": "코딩 시작한 지 4일 만에 외주 3건 결제 완료! | 커서 다마고치 EP2" },
+    { "id": "RSBd5H9USBA", "title": "외주로 하루만에 40만 원 버는 방법 | 커서 다마고치 EP3" },
+    { "id": "eX2mcoB6blc", "title": "커서AI로 웹사이트, 공장처럼 찍어냅니다 | 커서 다마고치 EP4" },
+    { "id": "gKJsq1Cp0IE", "title": "커서AI, 프롬프트만으로 웹사이트 만들기! -기본기 및 단축키 총정리-" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "channel": {
+    "id": "코드없는프로그래밍",
+    "name": "코드없는 프로그래밍",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_km8VxkT2m4sKqwoQhoE1hlriFXQKmTJp-NPqzc_zs17Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/00tPLZP2iZDthxi-y_waavxGCupQj9bq845hoY_0Zha1MUqNsSsqbmLqyX6WnCOV8Ukdsb8U=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "6QxSsul4bN0", "title": "vision language model 간단히 알아보기  VLM" },
+    { "id": "nSLo-QuDY5U", "title": "VLM, LLM, deep seek 물체찾기 object detection" },
+    { "id": "8nLc6_CE9XE", "title": "세그포머, 트랜스포머 기반 세그멘테이션" },
+    { "id": "dfcHmxxvq8I", "title": "Masked Auto Encoder 마스크 오토인코더" },
+    { "id": "LaBXvmQ-b1I", "title": "CLIP,  텍스트, 이미지 연결" },
+    { "id": "bTcjgcSU54M", "title": "CLIP, image text 학습 이미지 텍스트 합습" },
+    { "id": "DK3BaT17acE", "title": "DETR" },
+    { "id": "4eJ4hngScLI", "title": "Knowledge Distillation" },
+    { "id": "JNKS02SjMvk", "title": "DINO, DINOv2,  딥러닝 자가 지도 학습" },
+    { "id": "ImWk4FG63XA", "title": "트랜스포머 디코더" },
+    { "id": "SKqrtiI9Xxw", "title": "마스크 셀프 어텐션, 딥러닝" },
+    { "id": "7ekEWpyV1eI", "title": "char level GPT, 글자 레벨 GPT" },
+    { "id": "InHDv6B5RW0", "title": "GPT2 파인튜닝하기, 트랜스포머" },
+    { "id": "lp4IowUtjKo", "title": "비전 트랜스포머 구조" },
+    { "id": "Agtt6rIEbaQ", "title": "비전 트랜스포머 코드로 만들기" },
+    { "id": "4HmwzVM5ouo", "title": "비전 트랜스포머의 이해" }
+  ],
+  "playlists": [
+
+  ]
+}
