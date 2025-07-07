@@ -123,4 +123,6 @@ head:
 <MyYouTubeItems jsonName="yu-DanRNLab" /><!-- Dan's React Native Lab -->
 <MyYouTubeItems jsonName="yu-reactrally2196" /><!-- ReactRally -->
 <MyYouTubeItems jsonName="yu-SoftwareMansion" /><!-- Software Mansion -->
+<MyYouTubeItems jsonName="yu-frontendbasics" /><!-- Frontend Basics -->
+
 <TagLinks />

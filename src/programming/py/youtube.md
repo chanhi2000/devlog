@@ -164,5 +164,7 @@ head:
 <MyYouTubeItems jsonName="yu-gilesmcmullen" /><!-- Python Programmer -->
 <MyYouTubeItems jsonName="yu-cfbolz" /><!-- cfbolz -->
 <MyYouTubeItems jsonName="yu-McKayJohns" /><!-- McKay Johns -->
+<MyYouTubeItems jsonName="yu-IshwarJangid" /><!-- Ultimate Backend & AI -->
+<MyYouTubeItems jsonName="yu-leveragewally" /><!-- 월리의 노코드 실험실 -->
 
 <TagLinks />

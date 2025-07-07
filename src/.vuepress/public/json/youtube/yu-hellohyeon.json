@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "hellohyeon",
+    "name": "hello hyeon",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kHrNNh4L3HJrvRmgn7wlX8Dvnl53lJet4JNlsUOyw5UA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/XoxYYNSNYYlHOJ2J2laoOE3Cg2gZAhBoalJeLHhkbW_-PiRROFIvUM0bf-DEwGa8f8qJLZK8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "LCuJMYakF-I", "title": "🖼️ 사진으로 Anki 플래시카드?! | [Anki 사용법 Ep. 4] 애드온으로 더 스마트하게 암기하기 🧠" },
+    { "id": "Oc3tPxfpd5o", "title": "이게 무료라고?! 아이패드 무료 필기앱 추천: 노트+ ✍🏼 | 부드러운 필기감, 연필, 무료 템플릿, 두페이지 보기" },
+    { "id": "8x5HVkdAIr8", "title": "혼자 쓰기 아까운 아이패드 무료 필기앱: Freenotes ✍🏼" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -70,4 +70,6 @@ head:
 <MyYouTubeItems jsonName="yu-rasmic" /><!-- Ras Mic -->
 <MyYouTubeItems jsonName="yu-HiroSystems" /><!-- Hiro -->
 <MyYouTubeItems jsonName="yu-bridgertower" /><!-- Bridger Tower -->
+<MyYouTubeItems jsonName="yu-frontendbasics" /><!-- Frontend Basics -->
+
 <TagLinks />

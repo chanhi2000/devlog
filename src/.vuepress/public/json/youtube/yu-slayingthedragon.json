@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "slayingthedragon",
+    "name": "Slaying The Dragon",
+    "profile": "https://yt3.googleusercontent.com/AbpSwJHbvF8A5o1Urc2jFs-aI8R9UwI22-iVHHBt3rCMTBPbEEVeOQtZHNFiG5lt9WdOKN6W=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/ejJox_IcQyLyODWIJTRAwQs3PNI_2PMXOaa3Z2SP-cd1-3FS2cYAt5Z5cl_goPH4l5pCyM93zA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zNXMkjp2Sv8", "title": "5 EXCITING New CSS Features That You NEED To Know" },
+    { "id": "phWxA89Dy94", "title": "Learn Flexbox CSS in 8 minutes" },
+    { "id": "EiNiSFIPIQE", "title": "Learn CSS Grid - A 13 Minute Deep Dive" },
+    { "id": "SgmNxE9lWcY", "title": "Learn CSS Animations In 20 Minutes - For Beginners" },
+    { "id": "MxEtxo_AaZ4", "title": "Learn CSS Positioning Quickly With A Real World Example" },
+    { "id": "fzZTvLmmTzM", "title": "A CSS Unit Deep Dive - Learn CSS Units & When To Use Them" },
+    { "id": "dLDn_k8GmaU", "title": "Build Your Portfolio Website - HTML CSS JS - Dark Mode - Lazy Loading" },
+    { "id": "K24lUqcT0Ms", "title": "Master Media Queries And Responsive CSS Web Design Like a Chameleon!" },
+    { "id": "Kxv7GIDK9tg", "title": "Build An Easy Light/Dark Mode Toggle With CSS & JavaScript" },
+    { "id": "8COXmw996VU", "title": "Full CSS Course - Announcement Video" },
+    { "id": "nSst4-WbEZk", "title": "Learn CSS BOX MODEL - With Real World Examples" },
+    { "id": "5wLrz_zUwoU", "title": "Learn CSS Variables In 7 Minutes" },
+    { "id": "Yl8hg2FG20Q", "title": "Learn CSS Subgrid in 14 minutes" },
+    { "id": "Reu0hHbis5w", "title": "You Don't Need JavaScript For This - CSS ONLY Infinite Scroll" },
+    { "id": "CsfHrv73sPc", "title": "100 CSS Selectors Explained in 20 Minutes" }
+  ],
+  "playlists": [
+
+  ]
+}

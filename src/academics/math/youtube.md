@@ -92,4 +92,6 @@ head:
 <MyYouTubeItems jsonName="yu-onlocklearning" /><!-- Onlock -->
 <MyYouTubeItems jsonName="yu-MichelleKrummel" /><!-- Michelle Krummel -->
 <MyYouTubeItems jsonName="yu-XylyXylyX" /><!-- XylyXylyX -->
+<MyYouTubeItems jsonName="yu-chuscience" /><!-- ChuScience -->
+
 <TagLinks />

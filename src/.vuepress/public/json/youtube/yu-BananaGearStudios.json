@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "BananaGearStudios",
+    "name": "Banana Gear Studios",
+    "profile": "https://yt3.googleusercontent.com/SHPI9aEpIrZ87Dn6ZQi9gi1KES9SniCe8LmhDjHmCtxupLe1ysnJulAo5e3pCfAOei_EMD90=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/tPehnPNa9aVr7iJbfUMcZaRFwglQccI6ojdmB-5ONIOS73GdkNpeHc29nemYB_wLNbf8X7ZAXw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "HJQ95AoX5kY", "title": "Building The World's Most Compact LEGO 7-Segment Display" },
+    { "id": "DcWvsuVz-aE", "title": "Would A LEGO Car Drive Faster If Its Wheels Had Wheels?" },
+    { "id": "vgqYwGIWmpc", "title": "Working LEGO 360-Degree Treadmill" },
+    { "id": "qQ3U3ND1_G4", "title": "Can I Build A LEGO Gearbox WITHOUT GEARS?" },
+    { "id": "Eyr1HfQeObc", "title": "Building A LEGO Car Not As Intended" },
+    { "id": "1e7c4WwaH6I", "title": "LEGO Mechanical Speed-Graphing System" },
+    { "id": "ExR-_U76VMA", "title": "Building A Better LEGO CVT (No Slipping!)" },
+    { "id": "Qq5NmFsd82s", "title": "But Does My Automatic LEGO CVT Actually Work?" },
+    { "id": "YJfeIborE-c", "title": "How I Built A LEGO Treadmill That Moves In EVERY Direction" }
+  ],
+  "playlists": [
+
+  ]
+}

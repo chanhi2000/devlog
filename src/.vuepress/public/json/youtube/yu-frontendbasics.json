@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "frontendbasics",
+    "name": "Frontend Basics",
+    "profile": "https://yt3.googleusercontent.com/GNpR_VzId8b7YRvZoZIAHTq4g1QrIdz6fJZCxCqhyr2_PkSns-d1jwcCN77dP_-naMwKkvmcLw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/t2tbR34EaN4M8_lA2nzXv4Zjr9HrwXr12nAxaHxtBhVrqtImJZX_aIeqzCfG964NXK6iku0L=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "pdh69DZLYuY", "title": "Learn React useEffect in 2024 (Plain & Simple)" },
+    { "id": "CPsTjw5U5YU", "title": "Build a React Marquee Component from Scratch" },
+    { "id": "LVziN3yBtKU", "title": "Dockerize Next.js 14+ App in 2024" },
+    { "id": "h3IA_Iax-dk", "title": "Next.js i18n: App Router + next-intl Tutorial" }
+  ],
+  "playlists": [
+
+  ]
+}

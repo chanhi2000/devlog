@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "algo.monster",
+    "name": "AlgoMonster",
+    "profile": "https://yt3.googleusercontent.com/HpARfKdKL_Y5bDv3yPwXV-grSJIbraoS8g3fpeO5GfmLSufnTw4wrntCe8iudLdgXgan21WpDJk=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/islKdF_HQYrjbPYV_ITkt0KXXAOUbJ5fq6y6lhHLBFnsCBcrCya_xeFuIjRRiT9ar-WOuuuOiQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UYMAtdf88lY", "title": "10 Ways to Master ALL Loops" },
+    { "id": "eB7SMsE6qEc", "title": "LeetCode is a JOKE with This ONE WEIRD TRICK" },
+    { "id": "9k31KcQmS_U", "title": "The Last Dynamic Programming Video You'll Need to Watch" },
+    { "id": "s5gWz9Fa1yo", "title": "This Flowchart Solves LeetCode Problems for You! 🤯" },
+    { "id": "cS-198wtfj0", "title": "DFS vs BFS, When to Use Which?" },
+    { "id": "Z7xZQxyOq8w", "title": "The Most Common FAANG Interview Error (Avoid This Trap!)" },
+    { "id": "9Afuhnhi1JQ", "title": "How To Build a Winning Mindset To Land Your DREAM Tech Job" }
+  ],
+  "playlists": [
+
+  ]
+}

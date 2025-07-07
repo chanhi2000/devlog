@@ -251,13 +251,14 @@ SET PATH_PUB=C:\Users\Public\Documents
 SET PATH_DEV=C:\development
 SET PATH_DEV_ITITCLOUD=%PATH_DEV%\ititcloud
 SET PATH_DEV_RUTIL_VM=%PATH_DEV_ITITCLOUD%\rutil-vm
-SET DOCKER_TAG_RUTIL_VM=ititcloud/rutil-vm
-SET DOCKER_TAG_RUTIL_VM_API=ititcloud/rutil-vm-api
-SET DOCKER_TAG_RUTIL_VM_WSPROXY=ititcloud/rutil-vm-wsproxy
-SET DOCKER_TAG_RUVIL_VM_API_VERSION=0.2.4
-SET DOCKER_TAG_RUTIL_VM_CURRENT=%DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
-SET DOCKER_TAG_RUTIL_VM_API_CURRENT=%DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
-SET DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT=%DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+SET DOCKER_REGISTRY_HOME=ititinfo.synology.me:50951/ititcloud
+SET DOCKER_TAG_RUTIL_VM=rutil-vm
+SET DOCKER_TAG_RUTIL_VM_API=rutil-vm-api
+SET DOCKER_TAG_RUTIL_VM_WSPROXY=rutil-vm-wsproxy
+SET DOCKER_TAG_RUVIL_VM_API_VERSION=0.3.8
+SET DOCKER_TAG_RUTIL_VM_CURRENT=%DOCKER_REGISTRY_HOME%/%DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+SET DOCKER_TAG_RUTIL_VM_API_CURRENT=%DOCKER_REGISTRY_HOME%/%DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+SET DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT=%DOCKER_REGISTRY_HOME%/%DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
 :: alias 사용법 설명
 ECHO.
 ECHO.
@@ -367,15 +368,27 @@ ECHO.
 
 @DOSKEY drmib=docker rmi %DOCKER_TAG_RUTIL_VM_API_CURRENT% $*
 @DOSKEY buildDkb=docker build -t %DOCKER_TAG_RUTIL_VM_API_CURRENT% %PATH_DEV_RUTIL_VM%\back
-@DOSKEY saveDkb=docker save -o api.tar %DOCKER_TAG_RUTIL_VM_API_CURRENT%
+@DOSKEY tagDkb=docker tag %DOCKER_TAG_RUTIL_VM_API_CURRENT% %DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION% 
+@DOSKEY toLatestDkb=docker tag %DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION% %DOCKER_TAG_RUTIL_VM_API%:latest
+@DOSKEY saveDkb=docker save -o api.tar %DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+@DOSKEY saveDkbl=docker save -o api-latest.tar %DOCKER_TAG_RUTIL_VM_API%:latest
+@DOSKEY saveLatestDkb=docker save -o api.tar %DOCKER_TAG_RUTIL_VM_API%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
 
 @DOSKEY drmif=docker rmi %DOCKER_TAG_RUTIL_VM_CURRENT% $*
 @DOSKEY buildDkf=docker build -t %DOCKER_TAG_RUTIL_VM_CURRENT% %PATH_DEV_RUTIL_VM%\front
-@DOSKEY saveDkf=docker save -o web.tar %DOCKER_TAG_RUTIL_VM_CURRENT%
+@DOSKEY tagDkf=docker tag %DOCKER_TAG_RUTIL_VM_CURRENT% %DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+@DOSKEY toLatestDkf=docker tag %DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION% %DOCKER_TAG_RUTIL_VM%:latest
+@DOSKEY saveDkf=docker save -o web.tar %DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+@DOSKEY saveDkfl=docker save -o web-latest.tar %DOCKER_TAG_RUTIL_VM%:latest
+@DOSKEY saveLatestDkf=docker save -o web.tar %DOCKER_TAG_RUTIL_VM%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
 
 @DOSKEY drmiw=docker rmi %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT% $*
 @DOSKEY buildDkw=docker build -t %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT% %PATH_DEV_RUTIL_VM%\wsproxy
-@DOSKEY saveDkw=docker save -o wsproxy.tar %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT%
+@DOSKEY tagDkw=docker tag %DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT% %DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+@DOSKEY toLatestDkw=docker tag %DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION% %DOCKER_TAG_RUTIL_VM_WSPROXY%:latest
+@DOSKEY saveDkw=docker save -o wsproxy.tar %DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
+@DOSKEY saveDkwl=docker save -o wsproxy-latest.tar %DOCKER_TAG_RUTIL_VM_WSPROXY%:latest
+@DOSKEY saveLatestDkw=docker save -o wsproxy.tar %DOCKER_TAG_RUTIL_VM_WSPROXY%:%DOCKER_TAG_RUVIL_VM_API_VERSION%
 
 @DOSKEY alias=subl %PATH_ALIAS_HOME%\%ALIAS_FNAME%
 ```
@@ -403,13 +416,14 @@ $env:PATH_PUB = "C:\Users\Public\Documents"
 $env:PATH_DEV = "C:\development"
 $env:PATH_DEV_ITITCLOUD = "$env:PATH_DEV/ititcloud"
 $env:PATH_DEV_RUTIL_VM = "$env:PATH_DEV_ITITCLOUD/rutil-vm"
-$env:DOCKER_TAG_RUTIL_VM = "ititcloud/rutil-vm"
-$env:DOCKER_TAG_RUTIL_VM_API = "ititcloud/rutil-vm-api"
-$env:DOCKER_TAG_RUTIL_VM_WSPROXY = "ititcloud/rutil-vm-wsproxy"
-$env:DOCKER_TAG_RUVIL_VM_API_VERSION = "0.2.4"
-$env:DOCKER_TAG_RUTIL_VM_CURRENT = "${env:DOCKER_TAG_RUTIL_VM}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
-$env:DOCKER_TAG_RUTIL_VM_API_CURRENT = "${env:DOCKER_TAG_RUTIL_VM_API}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
-$env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT = "${env:DOCKER_TAG_RUTIL_VM_WSPROXY}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+$env:DOCKER_REGISTRY_HOME = "ititinfo.synology.me:50951/ititcloud"
+$env:DOCKER_TAG_RUTIL_VM = "rutil-vm"
+$env:DOCKER_TAG_RUTIL_VM_API = "rutil-vm-api"
+$env:DOCKER_TAG_RUTIL_VM_WSPROXY = "rutil-vm-wsproxy"
+$env:DOCKER_TAG_RUVIL_VM_API_VERSION = "0.3.8"
+$env:DOCKER_TAG_RUTIL_VM_CURRENT = "${env:DOCKER_REGISTRY_HOME}/${env:DOCKER_TAG_RUTIL_VM}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+$env:DOCKER_TAG_RUTIL_VM_API_CURRENT = "${env:DOCKER_REGISTRY_HOME}/${env:DOCKER_TAG_RUTIL_VM_API}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
+$env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT = "${env:DOCKER_REGISTRY_HOME}/${env:DOCKER_TAG_RUTIL_VM_WSPROXY}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION}"
 
 $env:GIT_LOG_FORMAT_DEFAULT = "%Cred%h%Creset %C(yellow)%d%Crest %s %Cgreen(%cr) %C(bold blue) %an %Creset"
 
@@ -644,16 +658,28 @@ function drmi() {
     docker rmi $image
 }
 function drmib { docker rmi $env:DOCKER_TAG_RUTIL_VM_API_CURRENT }
-function buildDkb { docker build -t $env:DOCKER_TAG_RUTIL_VM_API_CURRENT $env:PATH_DEV_RUTIL_VM\back }
+function buildDkb { 
+    docker build -t $env:DOCKER_TAG_RUTIL_VM_API_CURRENT $env:PATH_DEV_RUTIL_VM\back;
+    docker tag $env:DOCKER_TAG_RUTIL_VM_API_CURRENT ${env:DOCKER_TAG_RUTIL_VM_API}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION};
+}
 function saveDkb { docker save -o api.tar $env:DOCKER_TAG_RUTIL_VM_API_CURRENT }
+function saveLatestDkb { docker save -o api.tar $env:DOCKER_TAG_RUTIL_VM_API_CURRENT }
 
 function drmif { docker rmi $env:DOCKER_TAG_RUTIL_VM_CURRENT }
-function buildDkf { docker build -t $env:DOCKER_TAG_RUTIL_VM_CURRENT $env:PATH_DEV_RUTIL_VM\front }
+function buildDkf { 
+    docker build -t $env:DOCKER_TAG_RUTIL_VM_CURRENT $env:PATH_DEV_RUTIL_VM\front;
+    docker tag $env:DOCKER_TAG_RUTIL_VM_CURRENT ${env:DOCKER_TAG_RUTIL_VM}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION};
+}
 function saveDkf { docker save -o web.tar $env:DOCKER_TAG_RUTIL_VM_CURRENT }
+function saveLatestDkf { docker save -o api.tar $env:DOCKER_TAG_RUTIL_VM_CURRENT }
 
 function drmiw { docker rmi $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT }
-function buildDkw { docker build -t $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT $env:PATH_DEV_RUTIL_VM\wsproxy }
+function buildDkw {
+    docker build -t $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT $env:PATH_DEV_RUTIL_VM\wsproxy;
+    docker tag $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT ${env:DOCKER_TAG_RUTIL_VM_WSPROXY}:${env:DOCKER_TAG_RUVIL_VM_API_VERSION};
+}
 function saveDkw { docker save -o wsproxy.tar $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT }
+function saveLatestDkw { docker save -o api.tar $env:DOCKER_TAG_RUTIL_VM_WSPROXY_CURRENT }
 
 function alias() { subl $profile }
 
@@ -783,6 +809,13 @@ fastfetch
   url="https://autoclick.kilho.net/"
   logo="https://kilho.net/favicon.png"
   preview="https://autoclick.kilho.net/AutoClick.png"/>
+
+<SiteInfo
+  name="builtbybel/CrapFixer: Cr*ap Fixer"
+  desc="Cr*ap Fixer. Contribute to builtbybel/CrapFixer development by creating an account on GitHub."
+  url="https://github.com/builtbybel/CrapFixer/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://repository-images.githubusercontent.com/972589719/32bd1dd0-758b-46a0-9c96-758a305fe368"/>
 
 <SiteInfo
   name="Cyber Scarecrow"

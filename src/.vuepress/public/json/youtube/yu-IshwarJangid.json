@@ -1,0 +1,34 @@
+{
+  "channel": {
+    "id": "IshwarJangid",
+    "name": "Ultimate Backend & AI",
+    "profile": "https://yt3.googleusercontent.com/gTo-X6sLPmcJJXnsOdTd4b4xNd5IuOyxo2i2Lm4ywv0dtOhA26Toay6DvZ7xXA3XYEVdmHkS=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Gy58eIT3AA99K9c4lLU4HEetFlUpngzIqKm2bNTR8DMPQ276yWSgN7XBcxz_f6E831WldbWp0g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "imA50hOI4JU", "title": "What is an algorithm || Characteristics of the algorithms || Robot tour problem" },
+    { "id": "xbVRHTGor70", "title": "RAM Model of Computation | Algorithm analysis | Time Complexity of Algorithms" },
+    { "id": "d5LYM3C_A98", "title": "Adding SlugField In Django 4 | Unique slug generator | Django Signals" },
+    { "id": "5nBn0asUqP8", "title": "Django Model Form | Django Create-View | Function based View | Django Forms" },
+    { "id": "UKVE7GFkDaE", "title": "Update View in Django | Adding namespaced URL in template | ModelForm in Django" },
+    { "id": "tPkwW-gP5ag", "title": "Template Inheritance in Django | Template Extending in Django | Django Template" },
+    { "id": "8TYZp9Z0vsU", "title": "Class Based Views | ListView in Django | FBV vs CBV | Everything you need to know about ListView" },
+    { "id": "gprGkqKIXjg", "title": "Detail View in Django | Class Based Views | Django Detail View" },
+    { "id": "Sl94H5e7MPw", "title": "Django and Jenkins Integration | CI-CD Pipeline for Django Project | Python with CI/CD Pipeline" },
+    { "id": "2Z9kRgtqAEw", "title": "Django, Docker & Docker Compose | Simplest Explanation | Docker & Database integration with Django" },
+    { "id": "Mk-1N0hnquY", "title": "AWS Cognito | The Authentication Service | Creating User Pool with Cognito | Cognito with Python" },
+    { "id": "R2QrUmCVZRU", "title": "Apache #kafka  | Basics of Stream | #docker  Setup |  Producer Consumer in #python  | #datascience" },
+    { "id": "fHLcAekyvz0", "title": "Python Django Production Deployment | Devops | Terraform | AWS ECS | Jenkins | Architecture" },
+    { "id": "yMJ0qMXSf9o", "title": "Python Production Ready Devops |  | PART - 2 IAM for AWS ECS | Gunicorn Docker & Django" },
+    { "id": "F94AJ5Ou3qg", "title": "Python Django Production Deployment | Devops | Terraform & Bastion Host Setup | PART- 3" },
+    { "id": "twstALZC2Y4", "title": "Python Production Deployment | Devops | VPC & Components Explained | PART- 4" },
+    { "id": "pDLJt_v1Z6E", "title": "Mastering Advanced Python: Only video you need to master concurrency and Async/await" },
+    { "id": "vwixxwwM9wo", "title": "Mastering Advanced Python: Part 2 - In Depth GIL and Implementation of Threads/Processes." },
+    { "id": "5clfvvboR2k", "title": "Advanced Python Mastery: PART - 3 | Stack, Heap & GCC | Only videos for python concurrency expertise" },
+    { "id": "gfszMDViVxQ", "title": "Mastering Advanced Python: PART-4 | AsyncIO in depth | Only video to master concurrency from basic." },
+    { "id": "xCvB18082Ik", "title": "Mastering Advanced Python: PART-5 | Event Loops and Coroutines in Async Python" }
+  ],
+  "playlists": [
+
+  ]
+}

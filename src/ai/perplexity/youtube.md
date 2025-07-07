@@ -27,6 +27,8 @@ head:
 
 [[toc]]
 
+<MyYouTubeItems jsonName="yu-RickMulready" /><!-- Rick Mulready -->
+
 ---
 
 <TagLinks />

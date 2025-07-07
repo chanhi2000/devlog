@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "cycloid-io",
+    "name": "Cycloid Platform Engineering",
+    "profile": "https://yt3.googleusercontent.com/xvEiLa7bfB4nQBUB8Uiu4OszXvRlDk97eHvLKXFzg1h0iNj8p_c_Gxi5JzDE5hLMvNAykKmdAAc=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/JYKsu-yYCkHcHNyIL-wtp-gdID522P2LlX1y02YAsQicj4t_Yp6Lj1j-gT5HSPIH6gA3l-CJBXk=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "3LeSKDwSU2o", "title": "Cycloid Demo Video" },
+    { "id": "G9sRMwrO9Xs", "title": "Cycloid Internal Developer Portal in 9 steps" },
+    { "id": "I0T0VzB0STI", "title": "Discover the Cycloid Component Layer" },
+    { "id": "8x14MfHOEms", "title": "GreenOps & FinOps: Get your cloud consumption under control! || Cycloid at DEVOPS D-DAY" },
+    { "id": "E1CCFNyzpBI", "title": "Create a Stack with Pulumi | Cycloid | Service Catalog" },
+    { "id": "EH0guA1V1vQ", "title": "StackForms by Cycloid" },
+    { "id": "I-EP9LRyQlU", "title": "DevOps Tutorial - Creating a Stack" },
+    { "id": "Ts_YlMqKoi0", "title": "Platform Engineering as a Service - Cycloid for MSPs" }
+  ],
+  "playlists": [
+
+  ]
+}

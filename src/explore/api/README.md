@@ -1406,6 +1406,13 @@ http://texturer.com/
   logo="https://playbook.ebay.com/icon.svg?ac984621994309c1"
   preview="https://images.prismic.io/ebayevo/ZzQzz68jQArT0yV9_Overview_Still.png?auto=format,compress&rect=0,56,2991,1570&w=2400&h=1260"/>
 
+<SiteInfo
+  name="LobeHub - LobeChat: Personal LLM productivity tool, surpassing the ChatGPT / OLLaMA user experience"
+  desc="Popular AI / LLM Model Brand SVG Logo and Icon Collection"
+  url="https://icons.lobehub.com/"
+  logo="https://lobehub.com/favicon.ico"
+  preview="https://repository-images.githubusercontent.com/750129442/59a8d16a-7ba1-4eda-b611-697d35cd04ab"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

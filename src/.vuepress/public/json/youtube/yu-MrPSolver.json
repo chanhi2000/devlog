@@ -1,0 +1,25 @@
+{
+  "channel": {
+    "id": "MrPSolver",
+    "name": "Mr. P Solver",
+    "profile": "https://yt3.googleusercontent.com/FVYUizDAzY_u7ZRKe_TZSqFmJhfmnCmdS8UOE57X3JZYz6p_1Wrf61rbPtUMPSz9jdfScGJlCaw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Ge6iPKRHDinnLqTIrJGw1pQNHEUajM4nYruvCdBNnd-tP5zjMNDgJH1Oj2-peOCMPe82BF5VFQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "GOiTF11umMo", "title": "Integrals 300X Faster in Python (DON'T use SciPy)" },
+    { "id": "wqCOF-IwZLc", "title": "Michel Lefebvre: CERN and the ATLAS Detector | Podcast #1" },
+    { "id": "Ld_cz1JwRHk", "title": "Image Dithering FAST In Python (ft. Numba)" },
+    { "id": "ktRwfBMV4S8", "title": "Python Libraries Be Like..." },
+    { "id": "IUsufIugq6M", "title": "Karl Otto: Developing The Software Of Radiation Therapy" },
+    { "id": "NA8_Yi_q7X4", "title": "Python AI Organ Segmentation Tutorial" },
+    { "id": "OTKs3QUGr9U", "title": "SIMIND Monte Carlo SPECT Simulator: Part 1" },
+    { "id": "8fURUyLEcJY", "title": "SIMIND Monte Carlo SPECT Simulator: Part 2" },
+    { "id": "bpeLMtF4Zio", "title": "SIMIND Monte Carlo SPECT Simulator: Part 3" },
+    { "id": "HNP79CiWTew", "title": "I Made A Python Library..." },
+    { "id": "2XckqFzUiYU", "title": "GPU-Accelerated Ideal Gas Law Simulation" },
+    { "id": "gdMbJ8vTcZw", "title": "Publishing a Scientific Paper Be Like..." }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -43,5 +43,6 @@ head:
 <MyYouTubeItems jsonName="yu-snowcrash-" /><!-- snowcra5h -->
 <MyYouTubeItems jsonName="yu-tobevasoftware" /><!-- Tobeva Software -->
 <MyYouTubeItems jsonName="yu-ChimiChanga1337" /><!-- ChimiChanga -->
+<MyYouTubeItems jsonName="yu-algo.monster" /><!-- AlgoMonster -->
 
 <TagLinks />

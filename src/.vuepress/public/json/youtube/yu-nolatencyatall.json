@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "id": "nolatencyatall",
+    "name": "sidoncloud",
+    "profile": "https://yt3.googleusercontent.com/FAedoswfPaObHMdbA4dvKWWj-4uhb4tIMU61YE2bQ4GyrVILwWA7mFC7oEgSquMPVSfL6LcixQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "ggfkBL3L95I", "title": "Tutorial - Unlock Image Similarity Magic with Python & FAISS Database" },
+    { "id": "Z58h24de9hc", "title": "Vector Databases Explained: Why They're Revolutionizing AI | Use-Cases & Trends Unveiled" },
+    { "id": "UDchzvsqGkY", "title": "Tutorial - Implement RAG with Google's PaLM2 - Transform E-commerce Data into Knowledge" },
+    { "id": "OMAs2MD7GOM", "title": "Demystifying LLM & AI - A Beginner to Intermediate Guide" },
+    { "id": "WNlC6lDrowE", "title": "Product Recommendation App with Streamlit, Gemini Vision Pro, and Vertex AI on Google Cloud" },
+    { "id": "U-Hn42kBBYY", "title": "Master Data Engineering on AWS in 20 Minutes - Beginner's Tutorial" },
+    { "id": "zQGiKKGcUTE", "title": "Python on AWS for Beginners: EC2, SSH, and Jupyter Notebook Setup" },
+    { "id": "fTbfaS99Xio", "title": "Hands on Tutorial-Google Vector Search & Vertex AI: Embeddings and Queries in Python" },
+    { "id": "TaOxDCduyWQ", "title": "End to end tutorials - Build Delta Lake using Glue PySpark, MySQL, S3 & Athena" },
+    { "id": "HGm7oHbB4U8", "title": "Quick Tutorials-Setup & get started with Redshift Serverless" },
+    { "id": "VTL7n19ld5c", "title": "Full tutorials - Similarity search of Spotify songs using GCP Vector Search and Vertex Embeddings" },
+    { "id": "exnmXJDohws", "title": "GitHub Actions: Deploy AWS Lambda Functions from scratch" },
+    { "id": "vrgHRQsROtc", "title": "Query backend systems using Gemini Pro Function Calling | Hands-on deployment with Python SDK" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "JamesLuterek",
+    "name": "James Luterek",
+    "profile": "https://yt3.googleusercontent.com/e4urviyHxJcPDejqIkgA3qqx_QLuJtm4GiJGKXtM5fj35K3IGeQ93Krq85nVADAgAWuI0M_E7g=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/smSaSlHSkyIxuLL-xtw5_-o3n6VVYWTD4b6JqtdGDPBKvIWUw5hI-Q3jj2w0c2o7ny78TvStIA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "M5i9kdGUsLg", "title": "Ecommerce Tech Inspire:  GraphQL – Now You Know" },
+    { "id": "tAeejhAoJIo", "title": "Transitioning to the next phase of web development." },
+    { "id": "98IUhK6IGUA", "title": "Microservices are evil!" },
+    { "id": "mznsLAWVnOI", "title": "Why developers HATE TailwindCSS." },
+    { "id": "StHK4KraPGE", "title": "Postman's Latest Update: CRITICAL Functionality REMOVED?!" },
+    { "id": "d6kkVqNCB9Q", "title": "Postman vs Insomnia vs VSCode REST vs Bruno" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -116,5 +116,8 @@ head:
 <MyYouTubeItems jsonName="yu-eden198100" /><!-- KIMGUN -->
 <MyYouTubeItems jsonName="yu-offhome" /><!-- 퇴근하겠습니다 -->
 <MyYouTubeItems jsonName="yu-dna7" /><!-- excel dna -->
+<MyYouTubeItems jsonName="yu-SuperExcell" /><!-- Super Excel -->
+<MyYouTubeItems jsonName="yu-excelformulas4" /><!-- excel formulas -->
+<MyYouTubeItems jsonName="yu-capacitateahora7441" /><!-- Capacitate ahora -->
 
 <TagLinks />

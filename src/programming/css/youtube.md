@@ -70,4 +70,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Glo_Academy" /><!-- Glo Academy -->
 <MyYouTubeItems jsonName="yu-frontend-tribe" /><!-- Frontend Tribe -->
 <MyYouTubeItems jsonName="yu-Snippets_Code" /><!-- Snippets Code -->
+<MyYouTubeItems jsonName="yu-slayingthedragon" /><!-- Slaying The Dragon -->
+
 <TagLinks />
