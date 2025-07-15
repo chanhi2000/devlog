@@ -5,12 +5,15 @@ description: Llama
 icon: fa-brands fa-meta
 category: 
   - AI
+  - LLM
   - Meta
   - Llama
 tag: 
   - ai
-  - meta
+  - artificial-intelligence
   - llm
+  - large-language-models
+  - meta
   - llama
 ---
 

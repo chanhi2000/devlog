@@ -682,6 +682,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Express.js',
+      collapsible: true,
+      icon: 'iconfont icon-expressjs',
+      children: [
+        '/programming/js-express/README.md',
+        '/programming/js-express/references.md',
+        '/programming/js-express/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-express/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Jest',
       collapsible: true,
       icon: 'iconfont icon-jest',
@@ -814,6 +831,15 @@ export const sidebarEn = sidebar({
         '/programming/js-mermaid/README.md',
         '/programming/js-mermaid/snippets.md',
         '/programming/js-mermaid/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-mermaid/articles/README.md',
+            asb.freecodecamp("js-mermaid"),
+          ]
+        }
       ]
     }, {
       text: 'CSS',
@@ -2812,6 +2838,57 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Vercel',
+      collapsible: true,
+      icon: 'iconfont icon-vercel',
+      children: [
+         '/devops/vercel/README.md',
+         '/devops/vercel/references.md',
+         '/devops/vercel/youtube.md',
+         {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/vercel/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Heroku',
+      collapsible: true,
+      icon: 'iconfont icon-heroku',
+      children: [
+         '/devops/heroku/README.md',
+         '/devops/heroku/references.md',
+         '/devops/heroku/youtube.md',
+         {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/heroku/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Hostinger',
+      collapsible: true,
+      icon: 'iconfont icon-hostinger',
+      children: [
+         '/devops/hostinger/README.md',
+         '/devops/hostinger/references.md',
+         '/devops/hostinger/youtube.md',
+         {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/hostinger/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Fly',
       collapsible: true,
       icon: 'fa-brands fa-fly',
@@ -2845,23 +2922,6 @@ export const sidebarEn = sidebar({
          '/devops/ncloud/README.md',
          '/devops/ncloud/geolocation.md',
          '/devops/ncloud/references.md',
-        ]
-    }, {
-      text: 'Vercel',
-      collapsible: true,
-      icon: 'iconfont icon-vercel',
-      children: [
-         '/devops/vercel/README.md',
-         '/devops/vercel/references.md',
-         '/devops/vercel/youtube.md',
-         {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/devops/vercel/articles/README.md',
-          ]
-        }
         ]
     }, {
       text: 'Ansible',
@@ -3542,6 +3602,23 @@ export const sidebarEn = sidebar({
             asb.yozm("llm"),
             asb.kurly("llm"),
             asb.d2("llm"),
+          ]
+        }
+      ]
+    }, {
+      text: 'MCP',
+      collapsible: true,
+      icon: 'iconfont icon-mcp',
+      children: [
+        '/ai/mcp/README.md',
+        '/ai/mcp/references.md',
+        '/ai/mcp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/mcp/articles/README.md',
           ]
         }
       ]

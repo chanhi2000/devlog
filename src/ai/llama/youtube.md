@@ -5,13 +5,16 @@ description: Llama > Youtube
 icon: fa-brands fa-youtube
 category: 
   - AI
+  - LLM
   - Meta
   - Llama
   - Youtube
 tag: 
   - ai
-  - meta
+  - artificial-intelligence
   - llm
+  - large-language-models
+  - meta
   - llama
   - youtube
   - tutorial

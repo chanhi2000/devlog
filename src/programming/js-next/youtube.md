@@ -71,5 +71,6 @@ head:
 <MyYouTubeItems jsonName="yu-HiroSystems" /><!-- Hiro -->
 <MyYouTubeItems jsonName="yu-bridgertower" /><!-- Bridger Tower -->
 <MyYouTubeItems jsonName="yu-frontendbasics" /><!-- Frontend Basics -->
+<MyYouTubeItems jsonName="yu-nikolovlazar" /><!-- Lazar Nikolov -->
 
 <TagLinks />

@@ -13,6 +13,14 @@ tag:
   - nix
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Linux - NixOS > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-nixos/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -22,5 +30,6 @@ tag:
 ---
 
 <MyYouTubeItems jsonName="yu-nixhero" /><!-- nixhero -->
+<MyYouTubeItems jsonName="yu-vaelix-dev" /><!-- vaelixd -->
 
 <TagLinks />

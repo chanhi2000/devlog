@@ -11,6 +11,14 @@ tag:
   - nodejs
   - node-js
   - jest
+head:
+  - - meta:
+    - property: og:title
+      content: Jest
+    - property: og:description
+      content: Jest
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-jest/
 ---
 
 # {{ $frontmatter.description }} 관련

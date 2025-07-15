@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "id": "vaelix-dev",
+    "name": "vaelixd",
+    "profile": "https://yt3.googleusercontent.com/mPWREze3IUFYasvQD3Eo_anWuW9Ak-B7pVKxb_XQJSGorAkQsLcThYn5Y_O3H5XyKYdEGGqHWA=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/sGSfO_bniR9dPrGHbGrgEkgk8POT_k-SLUZTOtM8GqHZsTLlu_dgIONByQvTMix_u-PUqgFMAg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "UDnmr3slSfg", "title": "Working On The Installer | Creating A Linux Distro #8" },
+    { "id": "498fcgzM5A4", "title": "The Basics | How To Rice #1" },
+    { "id": "R3PN2_SOxW0", "title": "How The Mass Media CHANGED Hacking forever" },
+    { "id": "mVZq_4tnmds", "title": "Neovim // The Golden Code Editor" },
+    { "id": "iFALVHmzPCE", "title": "How I Make My Terminal Beautiful" },
+    { "id": "w6twTB22D1s", "title": "Why I Switched To Arch" },
+    { "id": "itNIzgyDlh0", "title": "Step-By-Step Terminal Perfection // Just chatting" },
+    { "id": "MP6fpiBHaJ0", "title": "Finishing Our Perfect Terminal // Just chatting" },
+    { "id": "p8AK-0H3rVE", "title": "Trying NixOS! // 1k Subscriber Special" },
+    { "id": "7RQ-Y6gNBWU", "title": "The NixOS Experience" }
+  ],
+  "playlists": [
+
+  ]
+}

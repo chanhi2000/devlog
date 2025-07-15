@@ -121,5 +121,6 @@ head:
 <MyYouTubeItems jsonName="yu-practicingelectronics5862" /><!-- Practicing Electronics -->
 <MyYouTubeItems jsonName="yu-AllAboutCircuitsVideo" /><!-- All About Circuits -->
 <MyYouTubeItems jsonName="yu-PhoneRepairGuru" /><!-- Phone Repair Guru -->
+<MyYouTubeItems jsonName="yu-kingsener" /><!-- KingSener -->
 
 <TagLinks />

@@ -11,6 +11,14 @@ tag:
   - nodejs
   - node-js
   - gatsby
+head:
+  - - meta:
+    - property: og:title
+      content: Gatsby
+    - property: og:description
+      content: Gatsby
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-gatsby/
 ---
 
 # {{ $frontmatter.description }} 관련

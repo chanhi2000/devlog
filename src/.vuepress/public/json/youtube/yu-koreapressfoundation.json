@@ -1,0 +1,38 @@
+{
+  "channel": {
+    "id": "koreapressfoundation",
+    "name": "KPF한국언론진흥재단",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_kV3ynO-AipFqSh_KnV-EeOVejEAHBVpTs8J2eMMrNsf30=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2a8hJUAXQ8RNDQqo0FC2K38D1558xv522-k6HnFgVybEkNKawcjZ-_JIWEz-RMSF7edEkB_s9g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "AmgqlZfNYTo", "title": "[2025 정부광고 크리에이티브 페스티벌] 내가 만든 광고가, 공익광고로!" },
+    { "id": "n5SXFs9cux8", "title": "빅카인즈 중학교 수업사례｜산업혁명과 디지털 혁명, 뉴스 데이터로 연결하기" },
+    { "id": "rrz7UVRBhyY", "title": "빅카인즈 초등학교 수업사례｜뉴스 데이터로 인구 구조 쉽게 배우기" },
+    { "id": "ZzF_KJ2XyM4", "title": "빅카인즈 AI 튜토리얼 | 효과적인 뉴스 검색 및 분석 방법" },
+    { "id": "UViv5Fu5tJw", "title": "2024 뉴스빅데이터 해커톤 예선 오리엔테이션" },
+    { "id": "eTOAplnH9H8", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ② 정당의 모든 것" },
+    { "id": "uPu4XzTqzfU", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ③ 정당은 왜, 다투는가" },
+    { "id": "hWMCRKwbyps", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ④ 국회 입법과정 이해하기" },
+    { "id": "0IZ8tRdKDOs", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑤ 입법 관련 궁금증" },
+    { "id": "Br_3kNaZyuU", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑥ 의중을 읽는 사람들, 국회 출입기자가 들려주는 취재 노하우(1)" },
+    { "id": "o1R65B8EyU8", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑦ 의중을 읽는 사람들, 국회 출입기자가 들려주는 취재 노하우(2)" },
+    { "id": "f2ltbEs29as", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑧ 아무튼, 출근해 보겠습니다! (feat. 전지적 기자 시점)" },
+    { "id": "RkX3sTO9IV8", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑨ 국회의 시계는 쉬지 않아! 양당 출입기자들의 핫한 국회 취재 이야기" },
+    { "id": "dRLCtBbu-QA", "title": "[言:believable!] 출입처, 이것만은 알고가자(입법부) ⑩ 국회의 시계는 쉬지 않아! 양당 출입기자들의 핫한 정당 취재 이야기" },
+    { "id": "fASiBwyGQlc", "title": "[言:believable] 자살보도 실천법 ① 우리나라 자살보도의 실태 및 권고기준의 필요성" },
+    { "id": "K-1x5aiDp_E", "title": "[言:believable] 자살보도 실천법 ② 자살보도 권고기준 3.0과 이후 방향성에 관하여" },
+    { "id": "yyYpQLdMN64", "title": "[言:believable] 자살보도 실천법 ③ 자살보도, 무엇을 어떻게 쓸 것인가? (1)" },
+    { "id": "TlKY32l-zv0", "title": "[言:believable] 자살보도 실천법 ④ 자살보도, 무엇을 어떻게 쓸 것인가? (2)" },
+    { "id": "OPteVjiZzqI", "title": "[言:believable!] 재난보도 실천법 ① 재난보도, 제대로 하기 위해 알아야 할 것들" },
+    { "id": "qJ_r7N6MxUs", "title": "[言:believable!] 재난보도 실천법 ② 국내 재난보도 사례 및 동향 (1)" },
+    { "id": "zVnS12hF7_Q", "title": "[言:believable!] 재난보도 실천법 ③ 국내 재난보도 사례 및 동향 (2)" },
+    { "id": "LKYUL2HA4iE", "title": "[言:believable!] 재난보도 실천법 ④ 해외 재난보도 사례 및 동향" },
+    { "id": "WXZ_x-8OZU8", "title": "[言:believable!] 재난보도 실천법 ⑤ 베테랑 기자들이 들려주는 재난보도 취재 A to Z" },
+    { "id": "MvjIBl9TINE", "title": "[팩트세이프] 믿어도 될까? 정보의 진실게임" },
+    { "id": "j1mBBy4RzFk", "title": "[DAY2 - 한국어] 2024 KPF 저널리즘 컨퍼런스ㅣAX × Journalism: 저널리즘, AI를 품다" }
+  ],
+  "playlists": [
+
+  ]
+}

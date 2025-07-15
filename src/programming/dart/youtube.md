@@ -9,6 +9,15 @@ category:
 tag: 
   - dart
   - flutter
+
+head:
+  - - meta:
+    - property: og:title
+      content: Dart > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/dart/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -57,5 +66,6 @@ tag:
 <MyYouTubeItems jsonName="yu-AivarsMeijers" /><!-- Aivars Meijers -->
 <MyYouTubeItems jsonName="yu-yukicoding6552" /><!-- Yuki Coding -->
 <MyYouTubeItems jsonName="yu-codingchef" /><!-- 코딩셰프 -->
+<MyYouTubeItems jsonName="yu-jamesnocode" /><!-- James NoCode -->
 
 <TagLinks />

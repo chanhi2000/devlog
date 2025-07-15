@@ -22,7 +22,7 @@ head:
     - property: og:description
       content: Snippets
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-mermaid/examples.html
+      content: https://chanhi2000.github.io/programming/js-mermaid/snippets.html
 ---
 
 # {{ $frontmatter.title }} 관련
