@@ -160,6 +160,7 @@ export const navbarEn = navbar([
           '/programming/js-ng/README.md',
           '/programming/js-nest/README.md',
           '/programming/js-next/README.md',
+          '/programming/js-express/README.md',
           '/programming/js-jest/README.md',
           '/programming/js-playwright/README.md',
           '/programming/js-puppeteer/README.md',
@@ -415,6 +416,18 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-linode',
         link: '/devops/linode/README.md',
       }, {
+        text: 'Vercel',
+        link: '/devops/vercel/README.md',
+        icon: 'iconfont icon-vercel'
+      }, {
+        text: 'Heroku',
+        link: '/devops/heroku/README.md',
+        icon: 'iconfont icon-heroku'
+      }, {
+        text: 'Hostinger',
+        link: '/devops/hostinger/README.md',
+        icon: 'iconfont icon-hostinger'
+      }, {
         text: 'Fly',
         icon: 'fa-brands fa-fly',
         link: '/devops/fly/README.md',
@@ -426,10 +439,6 @@ export const navbarEn = navbar([
         text: 'NCloud',
         link: '/devops/ncloud/README.md',
         icon: 'iconfont icon-naver'
-      }, {
-        text: 'Vercel',
-        link: '/devops/vercel/README.md',
-        icon: 'iconfont icon-vercel'
       }, {
       text: 'Ansible',
         icon: 'iconfont icon-ansible',
@@ -715,6 +724,7 @@ export const navbarEn = navbar([
         icon: 'fas fa-language',
         children: [
           '/ai/llm/README.md',
+          '/ai/mcp/README.md',
           '/ai/openai/README.md',
           '/ai/llama/README.md',
           '/ai/gemini/README.md',

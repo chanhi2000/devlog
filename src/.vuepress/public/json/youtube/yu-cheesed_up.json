@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "cheesed_up",
+    "name": "Cheesed Up",
+    "profile": "https://yt3.googleusercontent.com/cY8HWQduDGqQ9QBxahwHD0TpUtAmwj4kRJUqevayE27Fdmdfk0Umbt19DYU_mfC_IyReoI5z=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5c4t7HHxwyZyP3WnkC_RlzhVPAZshq6u5V7FUVHL_Y10PTmP36Q9wy8fYBhxLOODKCYwAseVnA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "dgVZXuykoOU", "title": "Time to Give Up Fellas. | AI Will Take Our Jobs!" },
+    { "id": "3yttCE73G8c", "title": "An OS That Lives on the Internet! | Puter" },
+    { "id": "ROUw3Z1KgqU", "title": "Manage Docker Compose Projects with ease!!" },
+    { "id": "qW4UVDId8Mg", "title": "Write a Custom Neovim Dbee Layout Using Lua!" },
+    { "id": "dKav5pXwf2s", "title": "New Iterators in Go 1.23" },
+    { "id": "aeMdrCdRXCU", "title": "Compiler in 191 Lines of C | tinyc" },
+    { "id": "4EGxHpZs9b4", "title": "Improve Your Sway Experience With Scripts | My SwayWM Scripts" },
+    { "id": "XIFMt6rz27A", "title": "System Tray Icon in 176 Lines of C | libayatana-appindicator" },
+    { "id": "Yv8gkuwUM6E", "title": "Game of Life in 54 Lines of Python | Conway's Game of Life" },
+    { "id": "Jq0h69J-rZw", "title": "Real-Time Operating System in 96 Lines of C | RIOS" },
+    { "id": "hfCSRxwsQUM", "title": "Microcontr... WHAT? | What I Wish I Knew When Starting Out With Microcontrollers" },
+    { "id": "i72gZXRRp2M", "title": "Linux Containers in 41 Lines of Go" },
+    { "id": "dJXlVOGO6F4", "title": "Linux Shell in 57 Lines of Rust | bubble-shell" },
+    { "id": "7aRCi0DSRzs", "title": "Save Money With Free and Open Source Software! | FOSS" },
+    { "id": "2KhaLhSZyUw", "title": "Base64 Encoder & Decoder in 37 Lines of Python | The BASED Encoding??!" },
+    { "id": "AaddDVbGSMk", "title": "C++ Is Getting a BORROW CHECKER ??! | Safe C++ Proposal" },
+    { "id": "5WkRutU8Trg", "title": "Mojo the BLOAT!!! | A Glimpse of Mojo" },
+    { "id": "NUxKhQblgFk", "title": "Is Python Fast Now??! | Python 3.13 Released" },
+    { "id": "dRzAAMXm5Wk", "title": "Golang’s Exiciting Future! | 1.24 | json/v2 | Unions | Opaque Protobuf API" }
+  ],
+  "playlists": [
+
+  ]
+}

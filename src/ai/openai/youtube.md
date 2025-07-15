@@ -203,5 +203,6 @@ head:
 <MyYouTubeItems jsonName="yu-gptLearningHub" /><!-- Dev G -->
 <MyYouTubeItems jsonName="yu-freeneurs_seoul" /><!-- 프리너스 -->
 <MyYouTubeItems jsonName="yu-RickMulready" /><!-- Rick Mulready -->
+<MyYouTubeItems jsonName="yu-UnscriptedCoding" /><!-- Unscripted Coding -->
 
 <TagLinks />

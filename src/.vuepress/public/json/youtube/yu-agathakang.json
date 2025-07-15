@@ -1,0 +1,19 @@
+{
+  "channel": {
+    "id": "agathakang",
+    "name": "Agatha",
+    "profile": "https://yt3.googleusercontent.com/ADADKmZuj-Jjqo7D-fYvIKNia5bn0785nAgxolO2hpggVsJ2x3PSNPif_vRXKkHz9t_PUxg8=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/-7FxQTfCDw3PP4_ft2JvIG1QbcFnEaUjq7pxMCoV33jwVr7Ed5bUuytzyx4ZZQrBbqGgEsui=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ixhTOBsSroA", "title": "Project Tips EVERY Data Analyst Must Know In 2024" },
+    { "id": "715sZG91r4E", "title": "EXPOSING how much I made as a remote data analyst" },
+    { "id": "mWrg19Dc_uY", "title": "My honest advice for someone who wants to become a data analyst" },
+    { "id": "LHCFk6n-eSI", "title": "the TRUTH about a data analyst job" },
+    { "id": "ITwW825L4zg", "title": "Do THIS instead of watching endless tutorials - how I’d learn SQL FAST in 2024" },
+    { "id": "y_vKJiw6a5g", "title": "I created 27+ dashboards. This is what I learned" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "channel": {
+    "id": "nikolovlazar",
+    "name": "Lazar Nikolov",
+    "profile": "https://yt3.googleusercontent.com/TyE60GzQ3vhPWM9mS53qC4JrWItXmClfOCYyqVw3v3gGVs_SDQaHlyJs2ZXeMVIsaRs6cXdO-Q=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "YrvTVZEAqMM", "title": "Monitor and Debug Laravel Applications with Sentry" },
+    { "id": "TxtYi5ukoRA", "title": "TanStack Start Trivia App" },
+    { "id": "ctIiE60cwbs", "title": "TanStack Start Trivia App" },
+    { "id": "X7W8YOV1klo", "title": "Next.js-like routing in TanStack Start" },
+    { "id": "iLrUZNLbYZc", "title": "Debugging errors with Sentry!" },
+    { "id": "lVHHpm4kuhc", "title": "Validate ENV Variables in TypeScript with Zod" },
+    { "id": "JRnwt7oT1ZE", "title": "Setup VSCode Like Neovim" },
+    { "id": "L43X2WWYb20", "title": "Fixing the weird gray line in Neovim with Custom Colorcolumn" },
+    { "id": "4akCx-51gN8", "title": "CLEANEST Way to write Next.js Server Actions ✨" },
+    { "id": "2NVYG5VDmwQ", "title": "Easy dependency injection in Next.js" },
+    { "id": "8yuB47LxXBY", "title": "This will make everyone understand Clean Architecture" },
+    { "id": "0vXPEqHCrao", "title": "How to mock an npm package with Vitest/Jest" },
+    { "id": "G7-qUMKSH_Y", "title": "My Neovim Dev Workflow" },
+    { "id": "jJVAla0dWJo", "title": "Implement Clean Architecture in Next.js" },
+    { "id": "Dp4KhGJr-1s", "title": "Atomic Repositories in Clean Architecture and TypeScript" },
+    { "id": "e8w_PJLKHuM", "title": "E1: Building AI-powered Resume App" },
+    { "id": "ZRn6X3qZOgE", "title": "E2: Building AI-powered Resume App" },
+    { "id": "svKahv-k-ZM", "title": "E3: Building AI-powered Resume App" },
+    { "id": "tCpRNOQaAuY", "title": "E4: Building AI-powered Resume App" },
+    { "id": "1zamZZEPdFo", "title": "E5: Building AI-powered Resume App" },
+    { "id": "E9j5eE38YYI", "title": "E6: Building AI-powered Resume App" },
+    { "id": "tXKM0S-AZec", "title": "E7: Building AI-powered Resume App" },
+    { "id": "KUtuIMJLv_E", "title": "E8: Building AI-powered Resume App" },
+    { "id": "Ukx-EgVME94", "title": "E9: Building AI-powered Resume App" },
+    { "id": "hS1OMYpjssc", "title": "E10: Building AI-powered Resume App" },
+    { "id": "p_qMfSlxKUI", "title": "E11: Building AI-powered Resume App" },
+    { "id": "Xafeg4EzthI", "title": "E12: Building AI-powered Resume App" },
+    { "id": "-yFPbMlksBM", "title": "Introducing New Streaming Program \"Breakpoint\"" },
+    { "id": "l5c5ucQvKOA", "title": "Why I Switched to WezTerm: Matching My Kitty Setup Perfectly" },
+    { "id": "cCCQFERVBX0", "title": "Breakpoint - Fundamentals of Software Architecture + CodeCrafters.io Redis" },
+    { "id": "WXIuQQGrUsQ", "title": "Fundamentals of Software Architecture - Chapter 1 Summary | Book Club" },
+    { "id": "3KDNIPYCSo8", "title": "Breakpoint - Fundamentals of Software Architecture + CodeCrafters.io Redis" },
+    { "id": "zMfc58hHwA4", "title": "Chapter 2 - Fundamentals of Software Architecture | Book Club" },
+    { "id": "AJSerCSvG1Y", "title": "TanStack Start Trivia App" },
+    { "id": "xnEl84v3eMI", "title": "Breakpoint - Fundamentals of Software Architecture + CodeCrafters.io Redis" },
+    { "id": "V8DpxPC4lQE", "title": "Chapter 3 - Fundamentals of Software Architecture | Book Club" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -22,7 +22,7 @@ head:
     - property: og:title
       content: React.js > Youtube
     - property: og:description
-      content: React.js > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/js-react/youtube.html
 ---
@@ -124,5 +124,7 @@ head:
 <MyYouTubeItems jsonName="yu-reactrally2196" /><!-- ReactRally -->
 <MyYouTubeItems jsonName="yu-SoftwareMansion" /><!-- Software Mansion -->
 <MyYouTubeItems jsonName="yu-frontendbasics" /><!-- Frontend Basics -->
+<MyYouTubeItems jsonName="yu-alemtuzlak" /><!-- Alem Tuzlak -->
+<MyYouTubeItems jsonName="yu-ThapaTechnical" /><!-- Thapa Technical -->
 
 <TagLinks />

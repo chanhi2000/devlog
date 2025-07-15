@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.woff2?t=1750559268963') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.woff?t=1750559268963') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.ttf?t=1750559268963') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_w94hn5tyj3f.svg?t=1750559268963#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_cm7q7rtkuwv.woff2?t=1752971051695') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_cm7q7rtkuwv.woff?t=1752971051695') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_cm7q7rtkuwv.ttf?t=1752971051695') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_cm7q7rtkuwv.svg?t=1752971051695#iconfont') format('svg');
 }
 
 .iconfont {
@@ -14,6 +14,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-css-tricks:before { content: "\e9b1"; }
+.icon-nuget:before { content: "\e9b0"; }
+.icon-render:before { content: "\e9af"; }
+.icon-hostinger:before { content: "\e9ae"; }
+.icon-heroku:before { content: "\e9ad"; }
+.icon-mcp:before { content: "\e9ac"; }
 .icon-apachehive:before { content: "\e9ab"; }
 .icon-gentoo:before { content: "\e9aa"; }
 .icon-lynx:before { content: "\e9a9"; }

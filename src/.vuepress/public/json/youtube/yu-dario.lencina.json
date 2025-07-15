@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "dario.lencina",
+    "name": "Dario",
+    "profile": "https://yt3.googleusercontent.com/R39cQcGcozKCTLr8fYvPlhAExbU4rz4IVzy3vl1OM_wHr8bWkvDKDZmB5SDldj3v9WcgrFfzPw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/QaWVKkKIlmhF2HZvDJnpjj-r77tmaJP_Ti32urmXxZ6PM4I1QbgONH41cr6cUdCTcTZLrHKdvA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "EDp-MHUdJLM", "title": "This Rust Tool Will Change Cross-Platform Dev Forever" },
+    { "id": "bFnBQx9VZpk", "title": "This Rust Trick Will Cut Down Compile From 30 to 2 Min" },
+    { "id": "XYJN5sjM1K4", "title": "Stop using MutexBool to cancel tasks (Do This Instead)" },
+    { "id": "esOQmlDNOQw", "title": "How I Made My Team LOVE Rust Programming!" },
+    { "id": "5_LpgMu8UPI", "title": "Rust vs Python: The Ultimate Showdown!" },
+    { "id": "fjIv-UdcVQg", "title": "Rust: Pushing Limits with 100 Hz Accelerometer Control" },
+    { "id": "vxBFFA4alY8", "title": "Embedded Rust: Streaming Accelerometer Data Over UDP" },
+    { "id": "0XFq9K7N9o4", "title": "Stop Using Object Oriented Programming In Rust (Do This Instead)" },
+    { "id": "N_haf0XpNSA", "title": "The Brutal Reality of Rust's Dependency Management" },
+    { "id": "wgXEg3Kyl1g", "title": "Learn Rust In One Epic Playlist" },
+    { "id": "42zpRUVppws", "title": "Overcome Fear: Learn Rust Today and Unlock Your Potential" },
+    { "id": "UXoR8MMfeB0", "title": "Programming a Guessing Game In Rust" },
+    { "id": "srijxAW8fVA", "title": "Throwing panic! Exceptions is useful(Here’s Why)" },
+    { "id": "593ATctqmag", "title": "How Rust Solved A 50 Year Old Problem" },
+    { "id": "tesW0S4I0tQ", "title": "How many kernel system calls does Rust make?" },
+    { "id": "x7yDzSXhJMw", "title": "The C vs Rust Debate Has Religious Undertones" },
+    { "id": "7ZsIQj2VMHw", "title": "Why C is Terrible: (But Can't Be Ignored)" }
+  ],
+  "playlists": [
+
+  ]
+}

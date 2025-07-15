@@ -1,0 +1,37 @@
+{
+  "channel": {
+    "id": "alemtuzlak",
+    "name": "Alem Tuzlak",
+    "profile": "https://yt3.googleusercontent.com/xZtrwnE1VmB8NxcFdYrAinVdD3FzWyo5tuDAsNfBbOqN2MYRrfHZH1b7b0hgIJiCnFELIWkNKw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/n5QIODOko5vBzKmo8hHPGshvSoBWCXclxlBeKLPOgjEqShNMRpxRi0cP514UZuWGm1o9ADIswg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "zzyqi_rWx_c", "title": "STOP Overengineering your react-router apps with these libraries!!!" },
+    { "id": "SlW2FFBQjt8", "title": "Make great React Components in 2025 with these tips!" },
+    { "id": "lkzDDLrVmlM", "title": "RSC's in react-router are... actually GOOD!?" },
+    { "id": "zyQjzId0H7s", "title": "Understanding the server/client boundary in react-router" },
+    { "id": "6zwi5O3CST8", "title": "React Router 7.2 Just Added This GAME-CHANGING Feature!" },
+    { "id": "A96Xkc9GiGY", "title": "React Router just made your apps faster, here is how!" },
+    { "id": "H9WmtBchWtQ", "title": "React Router middleware is HERE!" },
+    { "id": "7Yk2YjAJSRQ", "title": "HOW TO handle .env variables in VITE ?!" },
+    { "id": "8i72eWA6BqA", "title": "FUTURE of react-router v7 and Remix.run v3 EXPLAINED." },
+    { "id": "Bj85XSSSdJg", "title": "How to add analytics to Remix.run (ft. posthog)" },
+    { "id": "IU3nlmA_94w", "title": "How to Create the Perfect Hono + Remix  Server in under 10 minutes" },
+    { "id": "M0lRn97-oW8", "title": "How to send emails and implement a newsletter in Remix with Resend" },
+    { "id": "lcnRYJ0hwPk", "title": "Everything YOU need to KNOW about Remix loaders" },
+    { "id": "3dnPBfZfaZc", "title": "EVERYTHING you need to know about client loaders (ft. react-query)" },
+    { "id": "54tdOkl9f04", "title": "EVERYTHING you need to KNOW about Remix.run ACTIONS" },
+    { "id": "jTcuxOnbCWc", "title": "The Remix.run Data Hook Secrets You Need to Know!" },
+    { "id": "ferLCqcLcGU", "title": "How React Router v7 became type-safe!" },
+    { "id": "kGMFGrrUpiU", "title": "How React Router revolutionised SSR forever" },
+    { "id": "ABRpwxLdGho", "title": "How to create and publish a package to NPM in 2024" },
+    { "id": "G2m1BTt5uw0", "title": "Supabase x Remix.run first official BiH meetup!" },
+    { "id": "tXtum_ENY3Q", "title": "Tanstack Query Hack in react-router v7 that WILL blow your mind!" },
+    { "id": "CSaH-rexUdE", "title": "The Vitest setup nobody tells you about!" },
+    { "id": "rB5OkIjPrjY", "title": "How to speed up your react-router apps with react-compiler" },
+    { "id": "EGuYKL8puRI", "title": "The Benefits of React Router V7 Nobody Told You About" }
+  ],
+  "playlists": [
+
+  ]
+}

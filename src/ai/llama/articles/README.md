@@ -5,6 +5,7 @@ description: Llama > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
+  - LLM
   - Meta
   - Llama
   - Article(s)
@@ -13,8 +14,10 @@ tag:
   - freecodecamp.org
   - yozm.wishket.com
   - ai
-  - meta
+  - artificial-intelligence
   - llm
+  - large-language-models
+  - meta
   - llama
 head:
   - - meta:

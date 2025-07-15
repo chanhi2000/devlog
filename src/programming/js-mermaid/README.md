@@ -13,6 +13,14 @@ tag:
   - mermaid
   - mermaidjs
   - mermaid-js
+head:
+  - - meta:
+    - property: og:title
+      content: Mermaid.js
+    - property: og:description
+      content: Mermaid.js
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/js-mermaid/
 ---
 
 # {{ $frontmatter.description }} 관련

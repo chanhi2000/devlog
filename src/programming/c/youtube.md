@@ -81,5 +81,7 @@ tag:
 <MyYouTubeItems jsonName="yu-cobbcoding" /><!-- Cobb Coding -->
 <MyYouTubeItems jsonName="yu-dr-Jonas-Birch" /><!-- dr Jonas Birch -->
 <MyYouTubeItems jsonName="yu-0mean1sigma" /><!-- 0Mean1Sigma -->
+<MyYouTubeItems jsonName="yu-dario.lencina" /><!-- Dario -->
+<MyYouTubeItems jsonName="yu-cheesed_up" /><!-- Cheesed Up -->
 
 <TagLinks />
