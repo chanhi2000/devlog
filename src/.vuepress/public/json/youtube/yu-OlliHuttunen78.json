@@ -1,0 +1,27 @@
+{
+  "channel": {
+    "id": "OlliHuttunen78",
+    "name": "Olli Huttunen",
+    "profile": "https://yt3.googleusercontent.com/4rUwWeVN9q71ICxFc-UDwOXFz-oYKEu-HHGTvMcclh1677VjuXawaTov86E__IX3Q-RDDgvMTg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/2-4yaNWQyulaV8VSA6AASAPVPqbZ3xQoDfiegzSIV7Zw7JbtMb12qLMaW3QRv85rL2UwlWgUVQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "FDPxFkOK-CI", "title": "Gaussian Propagation Explained - Dynamic Effect with Postshot" },
+    { "id": "LB1kop59J38", "title": "Make Stunning 3DGS Environments With This Amazing Add-on!" },
+    { "id": "L_vocH8OF7w", "title": "Gaussian Propagate effect" },
+    { "id": "Jix7kZZcDNM", "title": "Turn historic Facebook 360 Cube-map into a 3D Gaussian Splatting models with AE" },
+    { "id": "W_z_Z7ccXFk", "title": "Making Camera animations and rendering videos from Postshot" },
+    { "id": "0gq1qw1EcFg", "title": "Camera Array tool for Blender teaser video" },
+    { "id": "1H1MSpnBg7I", "title": "Introducing Camera Array Tool for Blender" },
+    { "id": "PyBw0cgSvNQ", "title": "What's the point in Camera Array Tool?" },
+    { "id": "jDJe7b6RcLs", "title": "Gaussian Splatting Files Sizes" },
+    { "id": "3MDRuUc0144", "title": "Colmap Exporter tutorial for Camera Array Tool" },
+    { "id": "VEmp94Ai2oM", "title": "Self Host Gaussian Splatting Models and use Playcanvas Viewer" },
+    { "id": "43eN7ypm4rA", "title": "How to use 3D models in Slideshows!" },
+    { "id": "dhAopF0zr5U", "title": "Minimalist Gaussian Splatting: How Few Camera Views Do You Really Need?" },
+    { "id": "gyUALGFWd5Q", "title": "4DGS Teaser - Updated features coming to Camera Array Tool" }
+  ],
+  "playlists": [
+
+  ]
+}

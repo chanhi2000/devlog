@@ -86,5 +86,7 @@ head:
 <MyYouTubeItems jsonName="yu-IanWootten" /><!-- Ian Wootten -->
 <MyYouTubeItems jsonName="yu-QodoAI" /><!-- Qodo -->
 <MyYouTubeItems jsonName="yu-irum_hahn" /><!-- 인공지능 한이룸 -->
+<MyYouTubeItems jsonName="yu-Deepia-ls2fo" /><!-- Deepia -->
+<MyYouTubeItems jsonName="yu-databrickskorea9797" /><!-- Databricks Korea -->
 
 <TagLinks/>

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "cocoatype",
+    "name": "Cocoatype",
+    "profile": "https://yt3.googleusercontent.com/kPy8XDZ07xz4nBH4-PfNgumG85yPmFpyae226jtORey0F3y6SM0hbhfl3tL7XKIqkRxbCnJP=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/Y_HnCQP61XhGioKWn5nrsypnuGjEkEMxW9dKTlxMdvrYYU_36-lRCAlvWCdw28OupwoHfhtA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZhnrVnB5g_I", "title": "Implementing iOS Share Extensions — #Shipaton Day 15 of 38" },
+    { "id": "4DBpEBwCd4c", "title": "Adding Deletion with Context Menus — #Shipaton Day 16 of 38" },
+    { "id": "Y0kspRA9ROM", "title": "Building a Date and Location Editor — #ShipATon Day 22 of 38" },
+    { "id": "0XUP5XDGRtw", "title": "Creating a Useful Onboarding Experience — #ShipATon Day 23 of 38" },
+    { "id": "_ui65qCBbt8", "title": "Bug Smashing — #ShipATon Day 25 of 38" },
+    { "id": "fH1hcqnLNNo", "title": "Finishing the Paywalls — #ShipATon Day 29 of 38" },
+    { "id": "zb_jwhsmHSc", "title": "Preparing for Launch — #ShipATon Day 30 of 38" },
+    { "id": "QAr5hQ8JHMo", "title": "Introducing Barc for iOS" }
+  ],
+  "playlists": [
+
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "HardwareHaven",
+    "name": "Hardware Haven",
+    "profile": "https://yt3.googleusercontent.com/jy4MP-krEoywG-EE8VrSdC3OcU92KZutV8VJeSh0NLK22StRcaV3VNM-Fwf40PMpD3votNDojQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/g9wRsUvp6GLGap-gO46RuqqEddkCgaLUsPzNJijxQSZirakFKwLeO_unWGoHOsDZdxuC5UZGwg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "WFZwnl3gLSA", "title": "The $500 Home Lab Challenge ft. @HardwareHaven" },
+    { "id": "BU7MzU_kHco", "title": "What the heck is a ZBOX? (...and should you get one?)" },
+    { "id": "dXSbURqdPfI", "title": "Keep Your Home Lab Online With a UPS, NUT, ...and wolnut?" },
+    { "id": "Wp84U_gVIBk", "title": "I Found This In a SCRAP Pile... But What the Heck Is It?" },
+    { "id": "CzCoOkFtHFw", "title": "The PERFECT Mini Home Server" },
+    { "id": "ibrOOaYNtJ4", "title": "I got an HL15... but not for the reason you think." },
+    { "id": "Fw7wQijBpo8", "title": "THOUSANDS of These Servers Exist... but not like this one." },
+    { "id": "CIBmVXteOcI", "title": "Building Cheap & Efficient Home Servers with... Laptops?" },
+    { "id": "SHVWVaJAIHs", "title": "This hacked Chromebox is INSANELY impressive." },
+    { "id": "67KtKoW4IM0", "title": "How I Configure TrueNAS (Complete Setup Guide)" },
+    { "id": "i3G_LvowBkI", "title": "I Downloaded a Home Server" },
+    { "id": "OTWiQs4TLjs", "title": "This NAS Is Impressive (and surprisingly funny)" },
+    { "id": "xYN1NcPYWD0", "title": "This Home Server Has Everything… Except What I Needed" },
+    { "id": "PnkZqZ0qAwo", "title": "Building the BEST Home Lab Possible In Just 2 WEEKS" },
+    { "id": "Z06LavaCZv0", "title": "Home Lab Challenge FINALE – Who Wins?" },
+    { "id": "wPWx6GISIhY", "title": "This Saved Me SO Much Time – Ripping Movies Automatically With ARM" },
+    { "id": "QbWIXhUPU7k", "title": "Why Are People STILL Buying This Old Mini PC?" },
+    { "id": "46gGa8BNvn0", "title": "Is this NPU-Powered Mini PC the Future of Home Labs?" },
+    { "id": "QbScWkdcMU8", "title": "The WORST Home Server CPU... is kind of good?" },
+    { "id": "Mcn2iZBKEjc", "title": "I wish EVERY NAS was made like this one" },
+    { "id": "5v_VfU2gsI4", "title": "I turned a cheap NAS into a SLEEPER home server" },
+    { "id": "J0ibj-7mhQs", "title": "The Home Server You Didn't Know You Wanted" },
+    { "id": "ZcmK2T6BDMY", "title": "Is The Framework Laptop ACTUALLY Worth It?" },
+    { "id": "xcL8sceUd6E", "title": "The NUC7 ...7 years later." },
+    { "id": "7KKhgzVjtX8", "title": "The Zima Cube is... GOOD now? [ft. Zima Cube Pro]" },
+    { "id": "RY5VR8T0vuU", "title": "DON'T Underestimate This Cheap MicroServer" },
+    { "id": "wYTHR9ExntE", "title": "What's the BEST Low-Profile GPU for your Home Lab?" },
+    { "id": "DQAciqhO_rA", "title": "This isn't a normal mini PC... and I love it." },
+    { "id": "Ct4yewC7mKA", "title": "The Home Server I've Been Wanting" },
+    { "id": "2HLF-46Das4", "title": "COMPLETELY Overhauling This Old HP Server [Part 1]" },
+    { "id": "eAbyIfv7bEU", "title": "This Custom MicroServer is NUTS  [HP Overhaul Pt.2]" },
+    { "id": "JXNqWlRmYaM", "title": "Not Your Dad's Thin Client" },
+    { "id": "wbRViRwflbI", "title": "My Favorite Home Lab So Far" },
+    { "id": "coKPcj4xNNA", "title": "This Upgraded HP Workstation/Server Is CRAZY Fun" },
+    { "id": "AfRZuZ6G1SM", "title": "Home Servers Might Never Be The Same... HexOS Is Here" }
+  ],
+  "playlists": [
+
+  ]
+}

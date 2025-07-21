@@ -92,5 +92,6 @@ head:
 <MyYouTubeItems jsonName="yu-AlabaMustapha" /><!-- Alaba Mustapha -->
 <MyYouTubeItems jsonName="yu-SiamAlamOfficial" /><!-- Siam Alam -->
 <MyYouTubeItems jsonName="yu-memstechtips" /><!-- Memory -->
+<MyYouTubeItems jsonName="yu-TheLinuxCast" /><!-- The Linux Cast -->
 
 <TagLinks />

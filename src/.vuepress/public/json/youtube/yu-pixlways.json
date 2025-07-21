@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "pixlways",
+    "name": "Pixlways",
+    "profile": "https://yt3.googleusercontent.com/YeykVyXKsrKHiW_KyhNjDrWWLdFLhjnowiqpwPNFcz9Buf1GZ5k95ED2S-NeV2V6TQI3zJp3Kg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/iKt_qfDviiJnCIQbzp5J89r9MD8zWR98a9kxPxK--RtY-CIv3kHEkM8ScOsuNRkaOstM6QNWiw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "1_T5mf6r75c", "title": "Blender + HouseCraft: Fast Building & Scene Creation" },
+    { "id": "Bvz3dPPyHHY", "title": "Blender for Beginners: Modeling a Fire Hydrant" },
+    { "id": "-OMjDWNZ4ck", "title": "3D Modeling Tip - Part 09" }
+  ],
+  "playlists": [
+
+  ]
+}

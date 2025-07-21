@@ -111,5 +111,6 @@ head:
 <MyYouTubeItems jsonName="yu-perfology" /><!-- Perfology -->
 <MyYouTubeItems jsonName="yu-NickBouwhuis" /><!-- Nick Bouwhuis -->
 <MyYouTubeItems jsonName="yu-BrandonButch" /><!-- Brandon Butch -->
+<MyYouTubeItems jsonName="yu-macntips" /><!-- Mac and Tips -->
 
 <TagLinks />

@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "TheConstruct",
+    "name": "The Construct Robotics Institute",
+    "profile": "https://yt3.googleusercontent.com/Oe-eAZyGEfILpU9IeVck_IqV1uv68z96sUSx9Cx3-YFeTtJny4_CUKfEK3C6hfAd4y29Eo5kXQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/mQBxRBxDBRLPAYPnudTef4yCb8F1VO83Hnejyqpx0bujOwiI2k8zcH8cGMOTc5QWbwXwbSmFaQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "MKCtBB5nNYM", "title": "Students Final Project Presentation - Robotics Developer Masterclass" },
+    { "id": "NucnUVf7Gwo", "title": "Using ChatGPT to Program Robots Faster | ROS Developers Open Class #206" },
+    { "id": "CnUoBSC1isU", "title": "Students Final Project Presentation - Robotics Developer Masterclass 2023 Batch" },
+    { "id": "UgJGyqxyJHw", "title": "Create an embodied AI using ROS 2 and DeepSeek" },
+    { "id": "gBZxM7dYD5g", "title": "Why Linux is important in robotics" },
+    { "id": "eV1A_c2i6W8", "title": "How to build a 1-person robotics edu business in 2025" },
+    { "id": "rXEaHWefbbc", "title": "Build a 1-person robotics edu-business: create the video lessons" },
+    { "id": "mZ0Dj0Xlr14", "title": "Students Final Project Presentation - Robotics Developer Masterclass 2023 Batch" },
+    { "id": "yFgNg_iKhVI", "title": "Build a 1-person robotics edu-business 4: set up your online headquarters" },
+    { "id": "CzylsM1qI6w", "title": "Live Q&A | Robotics Developer Masterclass Spring Batch – March 2025" },
+    { "id": "ZGds6NuZLzo", "title": "Install ROS2 Jazzy Jalisco on Ubuntu 24.04 | ROS2 Tutorial" },
+    { "id": "P6Eq1R7FVpI", "title": "Coordinate Transformations in Robotics  | ROS Developers Open Class #204" },
+    { "id": "Se5pvRlTX8s", "title": "ROS2 Jazzy Crash Course 2025" },
+    { "id": "tWmIESVydZk", "title": "Quaternions in Robotics | ROS Developers Open Class #205" },
+    { "id": "TcVHBLdkFWY", "title": "Building Your 1st ROS 2 Robot Ep.4: Wiring Up Electronics For Motor Control" },
+    { "id": "qv27T61N11g", "title": "State Estimation with Kalman Filters in ROS 2 | Thisas Ranhiru Samaraweera | RoboticsDevDay 2024" },
+    { "id": "z2HTDllOKRw", "title": "ROS 2 Jazzy Review | Alberto Ezquerro | Robotics Developers Day 2024" },
+    { "id": "xmK2I0D5sas", "title": "Fix TurtleBot 4 Topics Discovery & Memory Issues Forever | Ultimate Guide" },
+    { "id": "RVMAyyVGAC4", "title": "Isaac Sim on AWS EC2 | Easy Installation - [Isaac Sim with ROS in 10 Mins -1]" },
+    { "id": "COKyFP_VNAs", "title": "How to create Web Dashboards for ROS 2 | ROS Developers Open Class 196" },
+    { "id": "HRxPnfCAmRw", "title": "3D Object Detection & Navigation with Darknet & YOLO | ROS Developers Open Class 197" },
+    { "id": "GmdZqgNO2f4", "title": "Docker for ROS 2 | ROS Developers Open Class 198" },
+    { "id": "SPk6SaFn0vY", "title": "ROS Awards Ceremony 2024 & Closing | Robotics Developers Day 2024" },
+    { "id": "Zwke3Gz3pGc", "title": "AI Foundations for Robotics | ROS Developers Open Class 199" },
+    { "id": "qO7Y1PCkB8g", "title": "Make a Wall Follower Robot with ROS 2 Humble | Beginner’s Guide" },
+    { "id": "wDeVNsD73A4", "title": "The truth about ROS jobs | ROS Developer Podcast #131" },
+    { "id": "gaXQ4oszEnc", "title": "AI Foundations for Robotics | ROS Developers Open Class 199" },
+    { "id": "Vchrj_AgLRo", "title": "How Robots Move | ROS Developers Open Class #202" },
+    { "id": "kWCi1mnxssY", "title": "Students Final Project Presentation - Robotics Developer Masterclass 2023 Batch" },
+    { "id": "XLcQJ6gNN2w", "title": "Why Robotics Startups Fail: Rethink Robotics" },
+    { "id": "Yfw8yvkbipw", "title": "Building Your First ROS 2 Robot Ep.2: 12 Steps of Guidance" },
+    { "id": "5Evig1N3hwY", "title": "Vision Transformers: How They Change Robots' Thinking & Action" },
+    { "id": "MDGaTaCg8HI", "title": "Coordinate Transformations in Robotics  | ROS Developers Open Class #203" },
+    { "id": "CzylsM1qI6w", "title": "Live Q&A | Robotics Developer Masterclass Spring Batch – March 2025" },
+    { "id": "uJuC1zkUsZ8", "title": "Building Your First ROS 2 Robot Ep.3: Adding Motors" }
+  ],
+  "playlists": [
+
+  ]
+}

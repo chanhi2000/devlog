@@ -1,0 +1,48 @@
+{
+  "channel": {
+    "id": "GrandeFiasco",
+    "name": "Fiasco",
+    "profile": "https://yt3.googleusercontent.com/vCIQD4lzkWtwn5A--QogM0Gosi-KEH9XnDkNMiG1TVVAOdzg_8Gu0p8-hUdn8mHOPadAmnb2=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/p-4reuQ2Fh5SDuJQO10qdQz_mG9BWOtSvJY0pUuuMF_XhcNx8h2bIHlj7PfxZVehEBHb6RKZ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "gW7LPyn93NQ", "title": "Monolitos vs Microserviços - Em projetos java" },
+    { "id": "3SxNJs9TRFY", "title": "Aula 3 -  LinkedIn e Oportunidades: O Fiasco Te Mostra o Caminho" },
+    { "id": "dJu-NovB3gU", "title": "Faturando R$100.000 com Apps SIMPLES" },
+    { "id": "7YmLbhiK-PM", "title": "APRENDA DOCKER DO ZERO | O MÍNIMO QUE VOCÊ PRECISA SABER" },
+    { "id": "fFBLCLJJg8k", "title": "Arquitetura limpa em projetos java" },
+    { "id": "5hNX9oVHuYU", "title": "CURSO DE MICROSERVICOS para INICIANTES  | Tutorial de RabbitMQ e Kafka do zero" },
+    { "id": "jxdBwm358ZI", "title": "NOVA TURMA JAVA10X  2025" },
+    { "id": "l2pCeX_I19o", "title": "IF YOU ARE POOR, BECOME A BRICKLAYER, NOT A PROGRAMMER!" },
+    { "id": "8zZwT7-xt4w", "title": "bigO + ALGORITIMOS + LEETCODE" },
+    { "id": "0FBmpzgS7t0", "title": "URGENTE: DeepSeek Foi BANIDO da europa, AGORA É CRIME!" },
+    { "id": "95ehiHLqCh8", "title": "PARA DE CODAR E VEM PRA LIVE" },
+    { "id": "Bg3v3xJv-lc", "title": "Todo programador se sente um impostor" },
+    { "id": "g4y0yADhsJA", "title": "Springboot em 1 hora- Curso para inciantes" },
+    { "id": "n8_qrrc8WN4", "title": "CURSO DE SPRING para INICIANTES | Tutorial de Java Spring no ZERO" },
+    { "id": "Pzo2nY2V0pM", "title": "Springboot + Inteligência artificial em 1 hora" },
+    { "id": "eghWOHuB_Xw", "title": "DEV JUNIOR TEM QUE TRABALHAR PARA O JOGO DO BICHO!" },
+    { "id": "TBh3Fp4MXFM", "title": "Herança em Java - Um tutorial de orientação a objeto com Naruto #12" },
+    { "id": "Q9Z0hZLPAnc", "title": "Generics no Java (Tipos genéricos) - Curso de Java OOP 🚀" },
+    { "id": "_P90QG_Axkw", "title": "Arrays no Java - Estrutura de dados 🍍" },
+    { "id": "E7bzUXwNaN4", "title": "🔥 DOOM: Code review do maior open source da historia 🔥" },
+    { "id": "RIEjaVw2neg", "title": "O golpe mais genial do mundo usando inteligência artificial" },
+    { "id": "QZvOIBlraVA", "title": "Estudante de programação só tinha Python e um sonho" },
+    { "id": "Mdb7m11zFrA", "title": "REAGINDO CURRÍCULO + Especial 200k" },
+    { "id": "wnAQWuTOXsA", "title": "Aprendendo Docker do zero - Introdução a Containers e imagens" },
+    { "id": "ip6QKtillKI", "title": "The guy just leaked the repository of Nintendo games! hahauahuahua" },
+    { "id": "Es7QEayunFc", "title": "Java todo dia- Arquitetura limpa + Java + cerveja" },
+    { "id": "Q1DXHXCHfvI", "title": "Java todo dia- Orientaçao a objeto + Java com Naruto" },
+    { "id": "4ArdJNAKf-w", "title": "🚨LIVE DE JAVA // Arquitetura limpa feat @cursodetecnologia" },
+    { "id": "tJlSo9SdhJg", "title": "🚨LIVE DE JAVA // DOCKER + SPRING" },
+    { "id": "m5vbKyL9SLA", "title": "🚨LIVE DE JAVA - Estruturas de dados e algoritimos" },
+    { "id": "MI_SG7O60UQ", "title": "🚨🚨 IA vai tomar teu emprego em 2025!? 🚨🚨" },
+    { "id": "kXbqPOPt_4g", "title": "🚨🚨 Por que Python é uma linguagem ruim ..." },
+    { "id": "zyLklzlcHPk", "title": "Porque Python é uma Linguagem RUIM…" },
+    { "id": "y0MDl9i467k", "title": "🚨 Detonado de java: Override x Overload" },
+    { "id": "7nx1whMxrw4", "title": "🚨 Detonado de java: Streams [Parte 1]" }
+  ],
+  "playlists": [
+
+  ]
+}

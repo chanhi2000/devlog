@@ -233,5 +233,7 @@ head:
 <MyYouTubeItems jsonName="yu-ycrash3227" /><!-- yCrash -->
 <MyYouTubeItems jsonName="yu-sivaprasadtamatam1240" /><!-- Sivaprasad Tamatam -->
 <MyYouTubeItems jsonName="yu-EngineeringLtd" /><!-- Engineering Ltd -->
+<MyYouTubeItems jsonName="yu-GrandeFiasco" /><!-- Fiasco -->
+<MyYouTubeItems jsonName="yu-TeddySmithDev" /><!-- Teddy Smith -->
 
 <TagLinks />

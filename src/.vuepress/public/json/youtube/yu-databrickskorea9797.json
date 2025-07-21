@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "id": "databrickskorea9797",
+    "name": "Databricks Korea",
+    "profile": "https://yt3.googleusercontent.com/xRA8pnoLM0sN1t6iRdM0mVyvSevcZVM2leptP8LuKTiOS_jpNlW3o-X9lD76-T5uXhqVVbH-=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/yGNdFod2v3TxJhj2YtN8s_xE-PU_nUrrl6lU4syfzDRuySCawGN6Jwkthb9JjIW9Fe_jxENudmg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "l2JP3sqJNYs", "title": "Data Intelligence Day Seoul 2025 - 키노트" },
+    { "id": "fNRmTj3RjNk", "title": "Genie / AI Assistant 효과적으로 사용하기 | Data + AI Professional Workshop Series" },
+    { "id": "cKkk_9C8jSY", "title": "2025년도 Databricks 입문 시리즈 | 온라인 워크샵" },
+    { "id": "shk98jCHelk", "title": "데이터 인텔리전스 플랫폼을 위한 Security Best Practices | Data + AI Professional Workshop Series" },
+    { "id": "xCZEhvHK9y8", "title": "AI의 시작? 데이터가 결정한다! 4월 29일 Databricks Data Intelligence Day 2025 무료 이벤트에서 시작하세요!​" },
+    { "id": "P4lnhfV1-G4", "title": "Megazone Cloud의 \"기업에서 생성형AI 활용을 \"진짜\" 가시화 하기 위한 선결 과제, \"데이터\"\"ㅣ서길주 그룹장 AI & 데이터분석센터, 메가존클라우드" },
+    { "id": "hBfi_qaCsRY", "title": "IMWEB의 \"데이터 민주화를 실현하는 데이터플랫폼 운영하기\"ㅣ이슬아 데이터 애널리스트 / 매니저, IMWEWB" },
+    { "id": "UkPytoJ1-Vw", "title": "여기어때의 '1인 1 AI 과제'가 가능한 여기어때 DNA 센터: 데이터브릭스 활용기 | 곽태호 DNA 센터장, 여기어때" },
+    { "id": "R6kfuuQrB9M", "title": "스캐터랩의 \"스캐터랩만의 Private LLM 만들기 with Databricks\" | 김준성 Business Strategist, 스캐터랩" },
+    { "id": "PFuO2aAcoA0", "title": "KCD의 \"Databricks를 활용한 트랜잭션 파이프라인 구축\"ㅣ박상영 데이터 엔지니어, KCD" },
+    { "id": "QbDpdjSWnmI", "title": "권혁진 스텝 소프트웨어 엔지니어의 \"오픈소스로 시작해서 실리콘밸리까지\"  | 권혁진 Databricks 스텝 소프트웨어 엔지니어" },
+    { "id": "74ol5HTrMp8", "title": "Maven Cloud Service의 \"골프존 DW&BI Migration과 사용자 행동분석을 위한 시스템 구축사례\"ㅣ정재연 Data&AI 팀 리더" },
+    { "id": "fz5o-GbGo08", "title": "LLM과 RAG를 활용하여 Chatbot 구축하기 | Data + AI Professional Workshop Series" },
+    { "id": "PzBmK_3oGr0", "title": "리테일 및 CPG 산업을 위한 데이터 인텔리전스 | 모두를 위한 데이터 인텔리전스 산업 특집 Industry Edition" },
+    { "id": "LH_nInDxLNw", "title": "미디어, 통신 및 게임 산업을 위한 ​​데이터 인텔리전스 | 모두를 위한 데이터 인텔리전스 산업 특집 Industry Edition" },
+    { "id": "o7AVntwWBz4", "title": "인텔리전트 데이터 엔지니어링: AI 과대 광고 그 이상 | Databricks APJ 아시아 태평양 버츄얼 이벤트 다시보기" },
+    { "id": "yYnBZ3ybkX4", "title": "LakeFlow Connector를 활용하여 확장 가능한 수집 파이프라인 구축하기 | Data + AI Professional Workshop Series" },
+    { "id": "l6LfVG8_IeM", "title": "Mosaic AI agent Framework를 활용한 빠른 LLM 모델 개발 | Data + AI Professional Workshop Series" },
+    { "id": "P31SVRDPYgQ", "title": "금융산업을 위한 ​​데이터 인텔리전스 | 모두를 위한 데이터 인텔리전스 산업 특집 Industry Edition" }
+  ],
+  "playlists": [
+
+  ]
+}
