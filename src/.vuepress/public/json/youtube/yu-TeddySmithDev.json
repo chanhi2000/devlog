@@ -1,0 +1,43 @@
+{
+  "channel": {
+    "id": "TeddySmithDev",
+    "name": "Teddy Smith",
+    "profile": "https://yt3.googleusercontent.com/jyBSiQhaICoCkzdIjpMERFhXEvnXM8GoASk1cZsJjSGSKUXsmsxufZIT7anQtbPf-bVUErfKhQ=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/5N9BVmrGg7B_gSHNCoYaAWDPw94Ihzks80x_PzBfxnhDS5Tbv1oD9iEjsveZhiaexk83eGji=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "icPCcj6e0ys", "title": "Same Tree - 100. LeetCode - Java" },
+    { "id": "QcbBmOQwZ28", "title": "Rotate Image - 48. LeetCode - Java" },
+    { "id": "0jrS3YYIT6Q", "title": "Diameter Of Binary Tree - 543. LeetCode - Java" },
+    { "id": "IoSYHQHs_-Q", "title": "Valid Sudoku - 36. LeetCode - Java" },
+    { "id": "D3fbOAjytfU", "title": "Longest Consecutive Sequence - 128. LeetCode - Java" },
+    { "id": "e6ogJM881d8", "title": "Product Of Array Except Self - 238. LeetCode - Java" },
+    { "id": "bI3GrI5w-WE", "title": "Reverse Words In A String - 151. LeetCode - Java" },
+    { "id": "H0nKa9Jflgs", "title": "Permutations - 46. LeetCode - Java" },
+    { "id": "w3iZyl3fHmU", "title": "Spiral Matrix - 54. LeetCode - Java" },
+    { "id": "Jm-GOMu3jQQ", "title": "Reverse String - 344. LeetCode - Java" },
+    { "id": "TnnLkhubXiw", "title": "Remove Element - 27. LeetCode - Java" },
+    { "id": "8GacpbGTUcA", "title": "Max Consecutive Ones - 485. LeetCode - Java" },
+    { "id": "HNUwChtLkHo", "title": "Kth Largest Element In An Array - 215. LeetCode - QuickSelect - Java" },
+    { "id": "sD1CQfZBxV8", "title": "Linked List Cycle - 141. LeetCode - Java" },
+    { "id": "Jjw0TUxiOKs", "title": "Find Pivot Index - 742. LeetCode - Java" },
+    { "id": "lc52U5kUhUU", "title": "Time Based Key-Value Store - 981. LeetCode - Java" },
+    { "id": "R2okeUCXHYY", "title": "Valid Mountain Array - 941. LeetCode" },
+    { "id": "TO_uABoo-5c", "title": "Summary Ranges - 228. LeetCode - Java" },
+    { "id": "5Tq2gbXDbdE", "title": "Binary Tree Right Side View - 199. LeetCode - Java" },
+    { "id": "iSvnjH1AP_8", "title": "ZigZag Conversion - 6. LeetCode - Java" },
+    { "id": "WCmavcsVw4A", "title": "Reverse Integer - 7. LeetCode - Java" },
+    { "id": "CDWb9iYNOv8", "title": "Search a 2D Matrix - 74. LeetCode - Java" },
+    { "id": "SPiEuj20-cQ", "title": "Remove Nth Node From End of List - 19. LeetCode - Java" },
+    { "id": "8QDAenUY_AI", "title": "Invert Binary Tree - 226. LeetCode - Java - Recursive & Iterative" },
+    { "id": "L3cTcIVjYIk", "title": "Daily Temperatures - 739. LeetCode - Java" },
+    { "id": "tG1vJZ8IEWo", "title": "Word Search - 79. LeetCode - Java" },
+    { "id": "BUgKmMVDsTE", "title": "Lowest Common Ancestor of a Binary Search Tree - 235. LeetCode - Java" },
+    { "id": "hseUapkT0SE", "title": "Encode And Decode Strings - 271. LeetCode - Java" },
+    { "id": "mjwAkFSzZdU", "title": "Combination Sum - 39. LeetCode - Java" },
+    { "id": "s9lKnUjO2HA", "title": "Longest Repeating Character Replacement - 424. LeetCode - Java" }
+  ],
+  "playlists": [
+
+  ]
+}

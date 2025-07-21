@@ -171,5 +171,6 @@ tag:
 <MyYouTubeItems jsonName="yu-Skiptools" /><!-- Skip -->
 <MyYouTubeItems jsonName="yu-thornwebdesign" /><!-- Davids Videos -->
 <MyYouTubeItems jsonName="yu-CodeWithWilliamJiamin" /><!-- CodeWithWilliamJiamin -->
+<MyYouTubeItems jsonName="yu-cocoatype" /><!-- Cocoatype -->
 
 <TagLinks/>

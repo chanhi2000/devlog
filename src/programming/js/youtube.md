@@ -40,4 +40,6 @@ head:
 <MyYouTubeItems jsonName="yu-bit-buddy" /><!-- BitBuddy -->
 <MyYouTubeItems jsonName="yu-ColorCodeio" /><!-- ColorCode -->
 <MyYouTubeItems jsonName="yu-deborah_kurata" /><!-- Deborah Kurata -->
+<MyYouTubeItems jsonName="yu-Radu" /><!-- Radu Mariescu-Istodo -->
+
 <TagLinks />

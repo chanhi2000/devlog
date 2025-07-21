@@ -29,5 +29,6 @@ head:
 ---
 
 <MyYouTubeItems jsonName="yu-well-typed" /><!-- Well-Typed -->
+<MyYouTubeItems jsonName="yu-LambdaBar" /><!-- Functional Bar -->
 
 <TagLinks />

@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "id": "LambdaBar",
+    "name": "Functional Bar",
+    "profile": "https://yt3.googleusercontent.com/I39bxDXosxop5-Zpf_C5Y-pXg-cjdNODmQL8oiWet-zybU3KotskGLCjvYlJmbSxw13tGDC7-w=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "4lwoP_Dgxm8", "title": "Overview of Text Editors for use in Programming" },
+    { "id": "CmuhiE_HO58", "title": "Hello World in Haskell: Our first program" },
+    { "id": "8_65Fh9AEQM", "title": "Introduction to Variables in Haskell" },
+    { "id": "q9kV8J2D2aA", "title": "Introduction to Functions in Haskell" },
+    { "id": "5ZxHaqa2PeI", "title": "Introduction to Recursive Functions in Haskell" },
+    { "id": "HXDJfgrxaWs", "title": "Introduction to Lists in Haskell" },
+    { "id": "5Yyl3lXhXDE", "title": "Introduction to the map function for lists in Haskell." },
+    { "id": "wUtOyjCUoko", "title": "Introduction to the fold functions in Haskell" },
+    { "id": "6dHb2zv3LAI", "title": "User Defined Types -- Type Synonyms and Newtype" }
+  ],
+  "playlists": [
+
+  ]
+}

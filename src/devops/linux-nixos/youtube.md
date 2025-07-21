@@ -31,5 +31,6 @@ head:
 
 <MyYouTubeItems jsonName="yu-nixhero" /><!-- nixhero -->
 <MyYouTubeItems jsonName="yu-vaelix-dev" /><!-- vaelixd -->
+<MyYouTubeItems jsonName="yu-dassurma" /><!-- Surma -->
 
 <TagLinks />

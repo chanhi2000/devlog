@@ -1,0 +1,46 @@
+{
+  "channel": {
+    "id": "LinuxOrt",
+    "name": "Linux Ort",
+    "profile": "https://yt3.googleusercontent.com/AsMlczhXEKlHp4Luo1rOQspdK1SUpriMmYW7pTt3U9LbIvGaeYy0Y8bNB3xbebaIttDV4F82Vw=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/veB7jJdO775wPDbN_3nIYjF-SZIeYRtz7EQoRxAkV6EDGBFtJaRecy6dGjYi24yHFcOnQMYA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "y4ri8jS4w2c", "title": "Xfce with a modern Design - Theme suggestion" },
+    { "id": "5dIelDir_Vs", "title": "10 useful Tips to use Thunderbird like a professional" },
+    { "id": "0dxwUbuthDQ", "title": "i3 window manager - set up on Linux Mint | Tutorial" },
+    { "id": "hUw0K5bEcwc", "title": "Manual Partitioning during Linux Installation - Partitioning Guide" },
+    { "id": "xmI-Yhkbu9A", "title": "OpenCloud on a Real Server - Step by Step Tutorial" },
+    { "id": "Ud9FEmNOgLs", "title": "A new Alternative to Nextcloud? OpenCloud presented and local Installation" },
+    { "id": "VDkU91-XQho", "title": "Update problems with Ubuntu - LMDE got OEM support - Mozilla introduces Thunderbird Pro | Linux News" },
+    { "id": "LzcoGR6I1yA", "title": "Copy text from images and documents - simple tools for text recognition" },
+    { "id": "lVvSnYNpGIA", "title": "How to setup OpenCloud | Tutorial for Administrators" },
+    { "id": "AkUUyT2gwig", "title": "AnduinOS presented - great potential in the Linux world!" },
+    { "id": "IGNIljCeQOM", "title": "Open source projects at the end? GTK drops X11 for good! What's going on with Ubuntu?  | Linux News" },
+    { "id": "ULNDkbisThM", "title": "Linux Mint Ubuntu vs Debian: Should we change to LMDE?" },
+    { "id": "Bo0ox4oEFfs", "title": "Ubuntu 25.04, GNOME 48, Fedora soon with AI tool? | Linux News" },
+    { "id": "rE2-DgZ9REs", "title": "Time to switch from Firefox - But which Browser to choose now?" },
+    { "id": "jSH6ZMUhTHA", "title": "Checklist to use your Linux computer safely" },
+    { "id": "oBEzAmVanT4", "title": "Terminal Crashcourse - 10 most used Linux Terminal Commands | Linux Tutorial for beginners" },
+    { "id": "TccpaskjHhs", "title": "Software for an efficient workflow on Linux - that's how I am productive every day" },
+    { "id": "WjgDTO29MVA", "title": "Remote Access to Your Desktop with RDP and Remmina - Linux Mint Tutorial" },
+    { "id": "hwYZgfmrCYE", "title": "Synchronize Folders easily: Install and Set-up Syncthing" },
+    { "id": "mB4H8tRpPgM", "title": "Create letters in Linux (Libre Office Writer, templates)" },
+    { "id": "XDDnC3WRWGk", "title": "How to Use the Windows 11 Theme on Linux Mint - Tutorial for newcomers" },
+    { "id": "xTrfWxCEcLk", "title": "Create Virtual Machines to test Operating Systems - VirtualBox Crashcourse" },
+    { "id": "P0Hfz3fJzw4", "title": "When Timeshift helps (and when it doesn't) - For casual users" },
+    { "id": "8p0CBE-mMYE", "title": "Convenient and secure: Manage passkeys with KeePassXC - Tutorial" },
+    { "id": "CGsa5jjCJqs", "title": "Mount Drives Automatically at System Boot - Linux Tutorial" },
+    { "id": "IznQ84dxKPY", "title": "Useful Tips about LINUX MINT" },
+    { "id": "-CYW3tsf_ms", "title": "Linux Mint 22.1 - All new features presented - We got a new look!" },
+    { "id": "e3uQ2rtKkFA", "title": "How I synchronize my knowledge [Obsidian & Nextcloud Notes]" },
+    { "id": "E0n7MWSSigg", "title": "My top 10 Open Source Apps" },
+    { "id": "mdCgtkVCH6Q", "title": "CentOS Stream 10 Status and Alternatives - What has become of the CentOS Project?" },
+    { "id": "ZpVO0s__-vE", "title": "KDE Desktop: Best Distros and Personal Opinion" },
+    { "id": "1AU2Jxn68jo", "title": "Manage and Install AppImages Easily - Tutorial" },
+    { "id": "dnNm4CIWaaw", "title": "Alternatives to Windows Programs - Free to Use and BETTER?" }
+  ],
+  "playlists": [
+
+  ]
+}

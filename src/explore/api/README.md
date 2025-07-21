@@ -510,6 +510,16 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://freetool.vercel.app/fav.png"
   preview="https://freetool.vercel.app/social.png"/>
 
+```component VPCard
+{
+  "title": "Defuddle Playground",
+  "desc": "",
+  "link": "https://kepano.github.io/defuddle",
+  "logo": "",
+  "background": "rgba(10,10,10,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

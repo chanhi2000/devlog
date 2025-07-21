@@ -1,0 +1,15 @@
+{
+  "channel": {
+    "id": "lunarlinkai",
+    "name": "Lunar Link",
+    "profile": "https://yt3.googleusercontent.com/C_WIjFZnefYPy7mhhnSQonENHiwXY1szwVvI-om3olW4Gg-57eYGlWCtmqZcHHzhdSDwL5-ON2c=s160-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "b7blmypTPJU", "title": "Can OpenAI o1 beat Claude 3.5 Sonnet When Coding A Real World Booking System?" },
+    { "id": "fhKJK1B1-Ck", "title": "Can OpenAI o1 or Claude 3.5 Solve A Leetcode Hard Question?" }
+  ],
+  "playlists": [
+
+  ]
+}

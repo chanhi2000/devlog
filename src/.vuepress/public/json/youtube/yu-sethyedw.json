@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "sethyedw",
+    "name": "Seth Phaeno",
+    "profile": "https://yt3.googleusercontent.com/0d13dZajldG4sd4U-lfkDEAwPBO1zvKMfAIRjY9uQW9P5hF9dQHJZEKPqeionCuqDkfbKNnLtg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/KvJ_721-uPq1JWw0gTjbocP30iBP1po-JeFCqbMsIYVNlT9ncaXgWJK_S0qgGQ1jai4slMBVCQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "qD0ZX32RT5A", "title": "How to use Raycast to BOOST Productivity on Mac (Quick Walkthrough)" },
+    { "id": "-KuHY6vYP0g", "title": "Lets talk about The Arc Browser" },
+    { "id": "YM8wM8PBUIA", "title": "The Zen Browser is Worth Taking a Look At" },
+    { "id": "EhJ1NZjP_W4", "title": "How I Ended Up Using Vim as a Jr. Dev" }
+  ],
+  "playlists": [
+
+  ]
+}

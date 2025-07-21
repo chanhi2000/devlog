@@ -1,0 +1,20 @@
+{
+  "channel": {
+    "id": "Deepia-ls2fo",
+    "name": "Deepia",
+    "profile": "https://yt3.googleusercontent.com/1faLulk5gQAo22JNrz5du3ZmdCE_mhjx6GHq4sSbo0UExnaDP695HEKeTyDWtfEOdjXQXr4LQg=s160-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/wEcX6bRlGJk_QJdMx9F9VnOMPlVPYQRbyjD9xbzLZRpnhbU_dmRtf3SJbuXfggmeu_FDN1sBzg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "lUljxdkolK8", "title": "Score-based Diffusion Models | Generative AI Animated" },
+    { "id": "EhndHhIvWWw", "title": "Diffusion Models: DDPM | Generative AI Animated" },
+    { "id": "o_cAOa5fMhE", "title": "Latent Space Visualisation: PCA, t-SNE, UMAP | Deep Learning Animated" },
+    { "id": "qJeaCHQ1k2w", "title": "Variational Autoencoders | Generative AI Animated" },
+    { "id": "UqJauYELn6c", "title": "Contrastive Learning with SimCLR | Deep Learning Animated" },
+    { "id": "0V96wE7lY4w", "title": "Denoising Autoencoders | Deep Learning Animated" },
+    { "id": "m0OTso2Dc2U", "title": "Unadjusted Langevin Algorithm | Generative AI Animated" }
+  ],
+  "playlists": [
+
+  ]
+}
