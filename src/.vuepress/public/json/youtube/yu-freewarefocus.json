@@ -1,0 +1,17 @@
+{
+  "channel": {
+    "id": "freewarefocus",
+    "name": "Freeware Focus",
+    "profile": "https://yt3.googleusercontent.com/ytc/AIdro_mM3p2Hkq2OCXkR3lzzdJaILTGFm9X7tGiMiJVwD_MDWqsG_80Tw6WF46XksxNlQR1NQQ=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "i0AMdQADFp4", "title": "THE Screenshot Tool, Free, Open Source for Win, Mac & Linux" },
+    { "id": "cLwOL1I7x-s", "title": "How to Backup, Clone & Resize a Hard Drive for Free" },
+    { "id": "pn7HpUvX5a4", "title": "Animated Desktop Wallpapers for WIndows & Linux (Gnome & KDE)" },
+    { "id": "EVCUQwwB9Ng", "title": "Animated Desktop Wallpapers for Windows & Linux (Gnome & KDE)*" }
+  ],
+  "playlists": [
+
+  ]
+}

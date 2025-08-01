@@ -1,0 +1,24 @@
+{
+  "channel": {
+    "id": "LjupcheVasilev",
+    "name": "Ljupche Vasilev",
+    "profile": "https://yt3.googleusercontent.com/gDJd43RAzJ3SxoytUxx7Yz-NkApnl6ItnhCGsXYcvSM45D_tPg8ijDof8ic1s1CdNOMRjTKl1jY=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "SQNovMz7Qrs", "title": "From Idea To Robust Document Database Schema" },
+    { "id": "no25kjJmxvc", "title": "What Happened To Wordpress?" },
+    { "id": "Dz9PQZk4BuE", "title": "New Front-End Framework: One" },
+    { "id": "ITWloS1PQHs", "title": "Why You Should Use Tailwind" },
+    { "id": "TOVm-ITZ_Ig", "title": "Another 3 Advanced Typescript Techniques" },
+    { "id": "SbBEFjRPVMM", "title": "Monitoring For Microservices And Why It Matters" },
+    { "id": "vijpjZvS8sQ", "title": "How Does ATproto And BlueSky Actually Work" },
+    { "id": "WWmJZIJA7Sc", "title": "Using CursorAI as a Senior Software Engineer" },
+    { "id": "xWhVlzbOvEM", "title": "Documenting Event Driven Architecture Well" },
+    { "id": "ASCeC7gKbpU", "title": "Chrome Dev Tools Tips For Web Devs" },
+    { "id": "DO5bX5-LIcQ", "title": "Why Choosing the Correct Data Structure Is Important" }
+  ],
+  "playlists": [
+
+  ]
+}

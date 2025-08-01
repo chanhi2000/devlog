@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "id": "FullStackDev-channel",
+    "name": "FullStackDev",
+    "profile": "https://yt3.googleusercontent.com/ZzwWAKcnZ0ABNPSKdKa_ZQi66e-BW9I03BYSan1Zj0CrvFemamEsmrozDhAR-BJRzpBr82hxkJM=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "9m1SS_fGHi0", "title": "FullStackDev Tutorial Video Series - Automated Testing and Deployment" },
+    { "id": "5R1uMhYBSHw", "title": "FullStackDev Tutorial Video Series - Intro" },
+    { "id": "eJnVSpmBQ5w", "title": "FullStackDev Tutorial Video Series - Project Structure and Configuration" },
+    { "id": "RCsl1uAdtBQ", "title": "FullStackDev Tutorial Video Series - Front End Test Setup and Config" },
+    { "id": "PCM3KasoREo", "title": "FullStackDev Tutorial Video Series - Front End Setup and Configuration" },
+    { "id": "rP6WgZNRSnk", "title": "FullStackDev Tutorial Video Series - Back End Setup and Configuration" },
+    { "id": "oXDuNqt_FGM", "title": "FullStackDev Tutorial Video Series - Back End Test Setup and Config" },
+    { "id": "w4uBaItBlA4", "title": "FullStackDev Tutorial Video Series - Bringing Up the Stack" }
+  ],
+  "playlists": [
+
+  ]
+}

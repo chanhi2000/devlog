@@ -1423,6 +1423,13 @@ http://texturer.com/
   logo="https://lobehub.com/favicon.ico"
   preview="https://repository-images.githubusercontent.com/750129442/59a8d16a-7ba1-4eda-b611-697d35cd04ab"/>
 
+<SiteInfo
+  name="Freesets"
+  desc="Freesets is a vast collection of the best free resources and tools for developers and artists, such as icons, illustrations, photos, videos, blogs, fonts, colors, etc."
+  url="https://freesets.dev/"
+  logo="https://freesets.dev/favicon.svg"
+  preview="https://res.cloudinary.com/cosmocloudinary/image/upload/f_auto,q_auto/v1/freesets/og/home"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

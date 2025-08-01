@@ -1,0 +1,28 @@
+{
+  "channel": {
+    "id": "mipal-snu8300",
+    "name": "MIPAL-SNU",
+    "profile": "https://yt3.googleusercontent.com/976TmYmpCDICbaNcFdQE7g527pSf8LsQWHzhuC_JOkmA3-imXxP5ILS8uZUKqTzS24F8NqVAHw=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/naXsJWr8G6hqTMlfy7brIhud1niLHtUnzc2UG5GMNYFkunj5cMT09ihnwQb0EroM9cp0rnUPXlo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    {  "id": "IPrtYWXWIdI", "title": "RandAR: Decoder-only Autoregressive Visual Generation in Random Orders" },
+    {  "id": "LZ8ox6uyet0", "title": "Diffusion Forcing Next-token Prediction Meets Full-Sequence Diffusion" },
+    {  "id": "uuGQrU2L7kU", "title": "LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization" },
+    {  "id": "fexQmOowpgs", "title": "Visual Perception by Large Language Model’s Weights (NeurIPS2024)" },
+    {  "id": "rQVMSupG4C0", "title": "20250213 Deepseek" },
+    {  "id": "mLaydZAG5Fo", "title": "One Step Diffusion via Shortcut Models" },
+    {  "id": "_1HvdSnUQcw", "title": "Massive Activations in Large Language Models" },
+    {  "id": "Z7A4kKCscdI", "title": "Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration" },
+    {  "id": "6e7xXVy06Fg", "title": "Generative Image Dynamics (CVPR2024 best paper award)" },
+    {  "id": "gMZ5wQQDqvk", "title": "Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video" },
+    {  "id": "2-1_9BeYmzg", "title": "Personalized Residuals for Concept-Driven Text-to-Image Generation" },
+    {  "id": "Qpt6DOZkNh0", "title": "VMamba: Visual State Space Model" },
+    {  "id": "f3YE1oerG-I", "title": "Parameter Symmetry and Noise Equilibrium of Stochastic Gradient Descent" },
+    {  "id": "HoRrlNQ6nHo", "title": "SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models" },
+    {  "id": "oJS5_6-5HwQ", "title": "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" }
+  ],
+  "playlists": [
+
+  ]
+}

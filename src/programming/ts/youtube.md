@@ -34,5 +34,7 @@ head:
 <MyYouTubeItems jsonName="yu-andrew-burgess" />
 <!-- Andrew Burges -->
 <MyYouTubeItems jsonName="yu-askpext" /><!-- PEXT -->
+<MyYouTubeItems jsonName="yu-MixedCodeDotCom" /><!-- MixedCode -->
+<MyYouTubeItems jsonName="yu-코딩알려주는누나" /><!-- 코딩알려주는누나 -->
 
 <TagLinks />

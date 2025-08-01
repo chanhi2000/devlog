@@ -2,13 +2,15 @@
 lang: ko-KR
 title: Scripts for the Desktop
 description: Powershell > Scripts for the Desktop
-font: fas fa-desktop
+icon: fas fa-desktop
 category:
   - Powershell
 tag: 
-  - powershell
   - pwsh
+  - powershell
   - windows
+  - windows10
+  - windows11
   - script
   - useful-script
 ---

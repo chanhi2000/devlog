@@ -6,6 +6,7 @@
     "banner": "https://yt3.googleusercontent.com/uBDQGFpd1bWq5EoR8wStLQWwoOqifRlTbEg0ByzgC8jJZmHSXDFrp9MIKD1apmJVTB4TppFC8OE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "CoxzIyFWiK0", "title": "Learn Terraform in under an hour" },
     { "id": "IYZDIhfAUM0", "title": "Become a shell wizard in ~12 mins" },
     { "id": "4ygaA_y1wvQ", "title": "Become a bash scripting pro - full course" }
   ]

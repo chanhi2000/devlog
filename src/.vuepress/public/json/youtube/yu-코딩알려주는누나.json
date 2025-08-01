@@ -6,6 +6,15 @@
     "banner": "https://yt3.googleusercontent.com/hnvrPXrMnzIWfh5sBVKzU3gZm9F5EdoVtL-V2Er-gYovHcI5EC3kwBx2DK6O3Vilgqzj3o54QQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
   },
   "videos": [
+    { "id": "mV_5vSQ57FM", "title": "비동기 핸들링에 최고! use 훅 | 리액트 19 업데이트 2탄" },
+    { "id": "hYqEdAd995c", "title": "딥시크 개발자 하드캐리  | 딥시크 기술분석 | 미친 최적화" },
+    { "id": "dh1dxT7D8rg", "title": "타입스크립트 전설의 강의 | 코딩에 진심인 사람을 위해 준비한 강의" },
+    { "id": "BMPvdcDjtOI", "title": "아직도  프론트엔드만 하는 개발자 입니까? | NodeJS 로 서비스 만들어 보자!" },
+    { "id": "3Gch9RBD7-g", "title": "블로그 글읽기 귀찮은 분들을 위한 무한스크롤 만드는법" },
+    { "id": "QEph95OWwPM", "title": "라이브러리 없이 무한 스크롤 가장 쉽게 만드는 법 알려드림 | 무한스크롤 만들기 2탄" },
+    { "id": "gn2C_0a-so4", "title": "당신의 사이트가 버벅인다면 꼭 보세요 | 코알누 세미나 2기 발표영상" },
+    { "id": "gdQzGkW5kps", "title": "리액트 19에서 새로나온 훅들 싹다 정리해드림 | useActionState, useOptimistic, useTransition, useFormStauts, use" },
+    { "id": "2YB5_F2dH_A", "title": "자바스크립트 배우고 그룹프로젝트 까지 할 사람 구함!" },
     { "id": "8o60gzC4tjQ", "title": "프롬프트 엔지니어는 진짜 직업인가?" },
     { "id": "-EQVeTGlurY", "title": "리액트 스터디모집 첫 라이브 방송입니당 ♥️ | 첫 별풍 후원 리액션 보러가기" },
     { "id": "7o97MsGDsbU", "title": "맘에드는 API못 찾았을 때 보세요 | NODEJS 속성강의 👊" },
