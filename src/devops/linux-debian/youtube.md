@@ -157,5 +157,6 @@ head:
 <MyYouTubeItems jsonName="yu-EverydayLinuxUser" /><!-- Gary Newell -->
 <MyYouTubeItems jsonName="yu-theradlectures" /><!-- The Rad Lectures -->
 <MyYouTubeItems jsonName="yu-InterfacingLinux" /><!-- Interfacing Linux -->
+<MyYouTubeItems jsonName="yu-freewarefocus" /><!-- Freeware Focus -->
 
 <TagLinks />

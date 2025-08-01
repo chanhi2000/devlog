@@ -1,0 +1,44 @@
+{
+  "channel": {
+    "id": "LowLevel",
+    "name": "Low Level",
+    "profile": "https://yt3.googleusercontent.com/npUuy7Y37eUqanNoISokGb5a5rk1wotnx0Yzs1kfdOzYgnlwYnV82izSKmaoYpObYewKOAacs8o=s120-c-k-c0x00ffffff-no-rj",
+    "banner": ""
+  },
+  "videos": [
+    { "id": "BTjj1ILCwRs", "title": "This Goes Deeper Than Your Operating System…" },
+    { "id": "13jenENwBoE", "title": "this guy writes SAFE code using C?  (billions of deployments)" },
+    { "id": "lAuvVsZrVMA", "title": "the internet of sh** strikes again" },
+    { "id": "8rptE4vVWn4", "title": "This Exploit Allows Me To Hack Any Vibecoder" },
+    { "id": "O7SL5BsgBdQ", "title": "This AI Written Exploit Is A Hacker's Dream (CVSS 10)" },
+    { "id": "pchVp9R4Sdo", "title": "researcher figures out how to duplicate ticketmaster tickets" },
+    { "id": "xy-u1evNmVo", "title": "this is a huge problem for cybersecurity..." },
+    { "id": "hE55JVTCwuI", "title": "How Does This KEEP Happening?" },
+    { "id": "T2nBvNBzrP8", "title": "AI devs are in trouble after this.." },
+    { "id": "jDimK-89rfw", "title": "Cybersecurity has a new problem..." },
+    { "id": "3HfJj5S_tbk", "title": "This Shouldn't Be Possible..." },
+    { "id": "JA4Vii3tyUk", "title": "some of the worst API security i've EVER seen" },
+    { "id": "L-pOcAYYTgs", "title": "they put a backdoor in a ... heart monitor?" },
+    { "id": "2QLtDGqgop8", "title": "how does this keep happening?" },
+    { "id": "ndM369oJ0tk", "title": "did they really find a backdoor in 1 billion devices? (esp32 drama)" },
+    { "id": "JbF_8g1EXj4", "title": "We Need To Talk About The Vercel Next.js Situation..." },
+    { "id": "sEqvlCrbikQ", "title": "this can't be real." },
+    { "id": "lXljErWpcRQ", "title": "how serious is this new Linux exploit (9.9 CVSS?)" },
+    { "id": "BCWUgeHzQxM", "title": "Memory Addresses are Random." },
+    { "id": "QAglUbhcbeI", "title": "this is the scariest technology i've ever seen" },
+    { "id": "lHSwkr623KI", "title": "new exploit targets Firefox and Tor" },
+    { "id": "3VcaD1eQckY", "title": "hilarious call of duty exploit randomly bans players" },
+    { "id": "iC-PMJ8B4Z0", "title": "the reality of landing a tech job in 2025" },
+    { "id": "ZCdZaSu68Kk", "title": "A Huge Ban is Coming" },
+    { "id": "VuBrMQR2ww8", "title": "We Need to Talk About Artificial Intelligence..." },
+    { "id": "yzvHzfp2APc", "title": "what if we just signed all the pointers??" },
+    { "id": "ugaLp6BIkgo", "title": "i tried to warn you." },
+    { "id": "hdi8QCjMTuE", "title": "researchers find 0-day chain affecting 500,000+ access points" },
+    { "id": "hdi8QCjMTuE", "title": "researchers find 0day affecting 500,000+ access points" },
+    { "id": "eKtpdMmLMHY", "title": "the new rsync exploit is sort of hilarious." },
+    { "id": "CsILkwUfqVs", "title": "backdoors like this should be illegal." }
+  ],
+  "playlists": [
+
+  ]
+}

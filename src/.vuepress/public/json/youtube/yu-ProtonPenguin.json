@@ -6,6 +6,14 @@
     "banner": ""
   },
   "videos": [
+    { "id": "yFhuqnZAXLM", "title": "Linus' __nonstring Blunder" },
+    { "id": "akwolpchE4M", "title": "Redis is FOSS Again" },
+    { "id": "YXoDIh9x2mw", "title": "Linux Maintainer Tries to BLOCK Rust from Linux" },
+    { "id": "tcuOUIdD_v8", "title": "Rust For Linux 2: Endgame" },
+    { "id": "oXYCwWZ3UFg", "title": "Real-Time Linux is here" },
+    { "id": "tzWgL_LFsKk", "title": "9.9 CVE in CUPS on Linux/Mac OS" },
+    { "id": "UtHQZkXfhyc", "title": "Is bcacheFS about to be removed from Linux?" },
+    { "id": "BNE8p-YJkSI", "title": "OpenSUSE REMOVES Donation Button from Bottles" },
     { "id": "EH3tenVGk60", "title": "Your Private GitHub Repos Aren't as Private as You Think" },
     { "id": "yJ9Ptg38eXc", "title": "FOSS and User Interfaces: LibreOffice vs. Google Slides" },
     { "id": "w0VMkE1toYg", "title": "Apt 3.0 looks GREAT" },

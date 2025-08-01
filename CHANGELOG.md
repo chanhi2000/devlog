@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+- [v0.14.27 2025-08-03][v0.14.27]: 내용채워넣기
 - [v0.14.26 2025-07-27][v0.14.26]: 내용채워넣기
 - [v0.14.25 2025-07-20][v0.14.25]: 내용채워넣기
 - [v0.14.24 2025-07-13][v0.14.24]: 내용채워넣기
@@ -48,39 +49,40 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 
 - 내용채워넣기
 
-[v0.13.7]: https://github.com/chanhi2000/articles/compare/v0.13.6...v0.13.7
-[v0.13.8]: https://github.com/chanhi2000/articles/compare/v0.13.7...v0.13.8
-[v0.13.9]: https://github.com/chanhi2000/articles/compare/v0.13.8...v0.13.9
-[v0.13.10]: https://github.com/chanhi2000/articles/compare/v0.13.9...v0.13.10
-[v0.13.11]: https://github.com/chanhi2000/articles/compare/v0.13.10...v0.13.11
-[v0.13.12]: https://github.com/chanhi2000/articles/compare/v0.13.11...v0.13.12
-[v0.13.13]: https://github.com/chanhi2000/articles/compare/v0.13.12...v0.13.13
-[v0.13.14]: https://github.com/chanhi2000/articles/compare/v0.13.13...v0.13.14
-[v0.13.15]: https://github.com/chanhi2000/articles/compare/v0.13.14...v0.13.15
-[v0.14.0]: https://github.com/chanhi2000/articles/compare/v0.13.15...v0.14.0
-[v0.14.1]: https://github.com/chanhi2000/articles/compare/v0.14.0...v0.14.1
-[v0.14.2]: https://github.com/chanhi2000/articles/compare/v0.14.1...v0.14.2
-[v0.14.3]: https://github.com/chanhi2000/articles/compare/v0.14.2...v0.14.3
-[v0.14.4]: https://github.com/chanhi2000/articles/compare/v0.14.3...v0.14.4
-[v0.14.5]: https://github.com/chanhi2000/articles/compare/v0.14.4...v0.14.5
-[v0.14.6]: https://github.com/chanhi2000/articles/compare/v0.14.5...v0.14.6
-[v0.14.7]: https://github.com/chanhi2000/articles/compare/v0.14.6...v0.14.7
-[v0.14.8]: https://github.com/chanhi2000/articles/compare/v0.14.7...v0.14.8
-[v0.14.9]: https://github.com/chanhi2000/articles/compare/v0.14.8...v0.14.9
-[v0.14.10]: https://github.com/chanhi2000/articles/compare/v0.14.9...v0.14.10
-[v0.14.11]: https://github.com/chanhi2000/articles/compare/v0.14.10...v0.14.11
-[v0.14.12]: https://github.com/chanhi2000/articles/compare/v0.14.11...v0.14.12
-[v0.14.13]: https://github.com/chanhi2000/articles/compare/v0.14.12...v0.14.13
-[v0.14.14]: https://github.com/chanhi2000/articles/compare/v0.14.13...v0.14.14
-[v0.14.15]: https://github.com/chanhi2000/articles/compare/v0.14.14...v0.14.15
-[v0.14.16]: https://github.com/chanhi2000/articles/compare/v0.14.15...v0.14.16
-[v0.14.17]: https://github.com/chanhi2000/articles/compare/v0.14.16...v0.14.17
-[v0.14.18]: https://github.com/chanhi2000/articles/compare/v0.14.17...v0.14.18
-[v0.14.19]: https://github.com/chanhi2000/articles/compare/v0.14.18...v0.14.19
-[v0.14.20]: https://github.com/chanhi2000/articles/compare/v0.14.19...v0.14.20
-[v0.14.21]: https://github.com/chanhi2000/articles/compare/v0.14.20...v0.14.21
-[v0.14.22]: https://github.com/chanhi2000/articles/compare/v0.14.21...v0.14.22
-[v0.14.23]: https://github.com/chanhi2000/articles/compare/v0.14.22...v0.14.23
-[v0.14.24]: https://github.com/chanhi2000/articles/compare/v0.14.23...v0.14.24
-[v0.14.25]: https://github.com/chanhi2000/articles/compare/v0.14.24...v0.14.25
-[v0.14.26]: https://github.com/chanhi2000/articles/compare/v0.14.25...v0.14.26
+[v0.13.7]: https://github.com/chanhi2000/devlog/compare/v0.13.6...v0.13.7
+[v0.13.8]: https://github.com/chanhi2000/devlog/compare/v0.13.7...v0.13.8
+[v0.13.9]: https://github.com/chanhi2000/devlog/compare/v0.13.8...v0.13.9
+[v0.13.10]: https://github.com/chanhi2000/devlog/compare/v0.13.9...v0.13.10
+[v0.13.11]: https://github.com/chanhi2000/devlog/compare/v0.13.10...v0.13.11
+[v0.13.12]: https://github.com/chanhi2000/devlog/compare/v0.13.11...v0.13.12
+[v0.13.13]: https://github.com/chanhi2000/devlog/compare/v0.13.12...v0.13.13
+[v0.13.14]: https://github.com/chanhi2000/devlog/compare/v0.13.13...v0.13.14
+[v0.13.15]: https://github.com/chanhi2000/devlog/compare/v0.13.14...v0.13.15
+[v0.14.0]: https://github.com/chanhi2000/devlog/compare/v0.13.15...v0.14.0
+[v0.14.1]: https://github.com/chanhi2000/devlog/compare/v0.14.0...v0.14.1
+[v0.14.2]: https://github.com/chanhi2000/devlog/compare/v0.14.1...v0.14.2
+[v0.14.3]: https://github.com/chanhi2000/devlog/compare/v0.14.2...v0.14.3
+[v0.14.4]: https://github.com/chanhi2000/devlog/compare/v0.14.3...v0.14.4
+[v0.14.5]: https://github.com/chanhi2000/devlog/compare/v0.14.4...v0.14.5
+[v0.14.6]: https://github.com/chanhi2000/devlog/compare/v0.14.5...v0.14.6
+[v0.14.7]: https://github.com/chanhi2000/devlog/compare/v0.14.6...v0.14.7
+[v0.14.8]: https://github.com/chanhi2000/devlog/compare/v0.14.7...v0.14.8
+[v0.14.9]: https://github.com/chanhi2000/devlog/compare/v0.14.8...v0.14.9
+[v0.14.10]: https://github.com/chanhi2000/devlog/compare/v0.14.9...v0.14.10
+[v0.14.11]: https://github.com/chanhi2000/devlog/compare/v0.14.10...v0.14.11
+[v0.14.12]: https://github.com/chanhi2000/devlog/compare/v0.14.11...v0.14.12
+[v0.14.13]: https://github.com/chanhi2000/devlog/compare/v0.14.12...v0.14.13
+[v0.14.14]: https://github.com/chanhi2000/devlog/compare/v0.14.13...v0.14.14
+[v0.14.15]: https://github.com/chanhi2000/devlog/compare/v0.14.14...v0.14.15
+[v0.14.16]: https://github.com/chanhi2000/devlog/compare/v0.14.15...v0.14.16
+[v0.14.17]: https://github.com/chanhi2000/devlog/compare/v0.14.16...v0.14.17
+[v0.14.18]: https://github.com/chanhi2000/devlog/compare/v0.14.17...v0.14.18
+[v0.14.19]: https://github.com/chanhi2000/devlog/compare/v0.14.18...v0.14.19
+[v0.14.20]: https://github.com/chanhi2000/devlog/compare/v0.14.19...v0.14.20
+[v0.14.21]: https://github.com/chanhi2000/devlog/compare/v0.14.20...v0.14.21
+[v0.14.22]: https://github.com/chanhi2000/devlog/compare/v0.14.21...v0.14.22
+[v0.14.23]: https://github.com/chanhi2000/devlog/compare/v0.14.22...v0.14.23
+[v0.14.24]: https://github.com/chanhi2000/devlog/compare/v0.14.23...v0.14.24
+[v0.14.25]: https://github.com/chanhi2000/devlog/compare/v0.14.24...v0.14.25
+[v0.14.26]: https://github.com/chanhi2000/devlog/compare/v0.14.25...v0.14.26
+[v0.14.27]: https://github.com/chanhi2000/devlog/compare/v0.14.26...v0.14.27

@@ -218,6 +218,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create TODO Tag for writing articles"
   },
+  "MdBaselineStatus": {
+    "prefix": "mdbls",
+    "body": [
+      "<BaselineStatus featureid=\"${1:featureid}\" />"
+    ],
+    "description": "Create Baseline component for writing articles"
+  },
   "MdCodeTabs": {
     "prefix": "mct",
     "body": [

@@ -105,6 +105,7 @@ export const sidebarEn = sidebar({
         {
           text: 'Scripts',
           collapsible: true,
+          icon: 'iconfont icon-code',
           children: [
             '/programming/pwsh/scripts-manage-computer.md',
             '/programming/pwsh/scripts-for-desktop.md',

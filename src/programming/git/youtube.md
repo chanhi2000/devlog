@@ -62,5 +62,6 @@ head:
 <MyYouTubeItems jsonName="yu-codejong" /><!-- 코드종 -->
 <MyYouTubeItems jsonName="yu-philomatics" /><!-- Philomatics -->
 <MyYouTubeItems jsonName="yu-ReluctantAnarchist" /><!-- Reluctant Anarchist -->
+<MyYouTubeItems jsonName="yu-MixedCodeDotCom" /><!-- MixedCode -->
 
 <TagLinks />

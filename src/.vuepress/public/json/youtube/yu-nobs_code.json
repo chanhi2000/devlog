@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "id": "nobs_code",
+    "name": "NoBS Code",
+    "profile": "https://yt3.googleusercontent.com/lr3_7qbxw8P1l-PraCWNFj3hG1V_jUirQ8hAb19X3V7L3Oham4g2PeXnGY-UXXSCZyg8WQqYcw=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/OC5c4feOR0cLZMKUPCmSU7ciwLlkNr06UVgQEPgEoX26NRsIKdK5ccWAIC41ZujJnOsrO061=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "f3Rs20k-hcI", "title": "Xiaolin Wu's Line Algorithm - Rasterizing Lines with Anti-Aliasing" },
+    { "id": "P27ml4M3V7A", "title": "MIDI Files Explained - Music Transcribed in Binary" },
+    { "id": "DrZovIBmKUc", "title": "Soundfonts - Parsing Instrument Samples for MIDI Files" }
+  ],
+  "playlists": [
+
+  ]
+}
