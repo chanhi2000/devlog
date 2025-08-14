@@ -38,7 +38,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@dnr6054` / 투자를 끌어당기는 IR Deck 작성 가이드](https://velog.io/@dnr6054/ir-guide)
 

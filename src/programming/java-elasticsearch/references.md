@@ -29,7 +29,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`29cm` / Open Distro for Elasticsearch — 로그를 활용한 장애 탐지](https://medium.com/29cm/open-distro-for-elasticsearch-%EB%A1%9C%EA%B7%B8%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%A5%EC%95%A0-%ED%83%90%EC%A7%80-8ff60dc3e5f#)
 - [`yogiyo` / 검색엔진의 Analyzer, 형태소분석기 ≠ 토크나이저](https://techblog.yogiyo.co.kr/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84%EC%9D%98-analyzer-%ED%98%95%ED%83%9C%EC%86%8C%EB%B6%84%EC%84%9D%EA%B8%B0-%ED%86%A0%ED%81%AC%EB%82%98%EC%9D%B4%EC%A0%80-5878af195d14)
@@ -39,7 +39,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog.io
+## <VPIcon icon="iconfont icon-velog"/>velog.io
 
 - [`@qkrtkdwns3410` / Elastic Stack 8. 2일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-2%EC%9D%BC%EC%B0%A8)
 - [`@qkrtkdwns3410` / Elastic Stack 8. 1일차.](https://velog.io/@qkrtkdwns3410/Elastic-Stack-8.-1%EC%9D%BC%EC%B0%A8)

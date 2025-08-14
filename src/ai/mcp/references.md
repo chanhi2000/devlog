@@ -31,7 +31,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-meta"/>AI at Meta
+## <VPIcon icon="fa-brands fa-meta"/>AI at Meta
 
 ### Blog
 

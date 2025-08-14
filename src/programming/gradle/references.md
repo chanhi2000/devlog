@@ -25,19 +25,19 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-gradle"/>Github
+## <VPIcon icon="iconfont icon-gradle"/>Github
 
-- [<FontIcon icon="iconfont icon-gradle"/>`open-suite-webapp/build.gradle`](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
+- [<VPIcon icon="iconfont icon-gradle"/>`open-suite-webapp/build.gradle`](https://github.com/axelor/open-suite-webapp/blob/master/build.gradle)
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Adding gradle task to a subproject in method](https://stackoverflow.com/questions/44943330/adding-gradle-task-to-a-subproject-in-method)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`emartynov` / Android project test fixtures](https://emartynov.medium.com/android-project-test-fixtures-dec50c5d8533)
 - [`sunghyunroh` / 줄줄이 딸려오는 라이브러리만들기 Part1. Bom](https://medium.com/@sunghyunroh/%EC%A4%84%EC%A4%84%EC%9D%B4-%EB%94%B8%EB%A0%A4%EC%98%A4%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A7%8C%EB%93%A4%EA%B8%B0-part1-bom-1945cbab452d?source=rss-f83fa8fc4b46------2)
@@ -49,7 +49,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`marlonlom` / Adapt Kotlin 2.0 in Android applications](https://dev.to/marlonlom/adapt-kotlin-20-in-android-applications-3cmk)
 - [`autonomousapps` / Announcing Dependency Analysis Gradle Plugin 2.0.0!](https://dev.to/autonomousapps/announcing-dependency-analysis-gradle-plugin-200-426c)
@@ -59,7 +59,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@sc_shin` - Gradle 사용 시 인코딩 오류 처리](https://velog.io/@sc_shin/Gradle-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%BD%94%EB%94%A9-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC)
 
@@ -67,7 +67,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@2170004487z` - 빌드와 배포](https://blex.me/@2170004487z/%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC)
 

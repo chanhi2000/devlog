@@ -29,7 +29,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [Github: Open source is fueling the future of nuclear physics](https://github.com/readme/featured/nuclear-fusion-open-source)
 - [Junior to senior: An action plan for engineering career success](https://github.com/readme/guides/engineering-career-success)
@@ -43,7 +43,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`stackademic` / What Every Android Developer Should Have in Their GitHub?](https://blog.stackademic.com/what-every-android-developer-should-have-in-their-github-de8deab051b9)
 - [`mcdonalds-technical-blog`: Reduce, reuse, recycle: McDonald's reusable workflows](https://medium.com/mcdonalds-technical-blog/reduce-recycle-reuse-03a57554ee6a)
@@ -59,7 +59,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`houseman` / Creating a great Python DevX](https://dev.to/houseman/creating-a-great-python-devx-39c6)
 - [`github` / 10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
@@ -69,7 +69,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@pgmjun` / [Github 협업, 이것만은 알자] - Cherry pick](https://velog.io/@pgmjun/Github-%ED%98%91%EC%97%85-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EC%95%8C%EC%9E%90-Cherry-pick)
 - [`@greencloud` / 쌈@뽕하게 Lighthouse 자동화하기](https://velog.io/@greencloud/%EC%8C%88%EB%BD%95%ED%95%98%EA%B2%8C-Lighthouse-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-ijcqk0uv)
@@ -82,7 +82,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - GitHub Action으로 Yew.rs 배포하는 방법](https://blex.me/@baealex/github-action%EC%9C%BC%EB%A1%9C-yew-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 

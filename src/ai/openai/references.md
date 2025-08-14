@@ -30,7 +30,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-openai"/>OpenAI
+## <VPIcon icon="iconfont icon-openai"/>OpenAI
 
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [Improvements to data analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
@@ -70,13 +70,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [The Brain-Inspired Approach to AI – Explained for Developers](https://freecodecamp.org/news/the-brain-inspired-approach-to-ai)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [How to Use the Most Essential ChatGPT Plugins](https://pub.towardsai.net/the-most-essential-chatgpt-plugins-1fbf0f40d6e5)
 - [Fine-tuning GPT-3.5-Turbo for Natural Language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
@@ -90,7 +90,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / OpenAI GPT-4o 다음 버전 떴나!?](https://velog.io/@euisuk-chung/OpenAI-GPT-4o-%EB%8B%A4%EC%9D%8C-%EB%B2%84%EC%A0%84-%EB%96%B4%EB%82%98)
 - [`@skynet` / ChatGPT o1의 환각(hallucination) 현상 유도 방법](https://velog.io/@skynet/ChatGPT-o1%EC%9D%98-%ED%99%98%EA%B0%81hallucination-%ED%98%84%EC%83%81-%EC%9C%A0%EB%8F%84-%EB%B0%A9%EB%B2%95)
@@ -110,7 +110,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@2170004487z` - 왜 ChatGPT로 영어를 배워야 하는가?](https://blex.me/@2170004487z/%EC%99%9C-chatgpt%EB%A1%9C-%EC%98%81%EC%96%B4%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 

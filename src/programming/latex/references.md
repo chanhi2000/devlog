@@ -35,13 +35,13 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` - [꿀팁] 설마 수식/테이블 직접 코드로 작성하시나요?!](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-Mathpix-AI-OCR-Tool)
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - BLEX 2023 1월 개발노트](https://blex.me/@baealex/blex-2023-1%EC%9B%94-%EA%B0%9C%EB%B0%9C%EB%85%B8%ED%8A%B8)
 

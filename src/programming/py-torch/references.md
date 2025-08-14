@@ -36,7 +36,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Colab
 
@@ -68,7 +68,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsdatascience` / Simple Implementation of OpenAI CLIP model: A Tutorial](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2)
 
@@ -76,7 +76,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog.io
+## <VPIcon icon="iconfont icon-velog"/>velog.io
 
 - [`@eunbibi` / 모델 저장을 잊지 마](https://velog.io/@eunbibi/%EB%AA%A8%EB%8D%B8-%EC%A0%80%EC%9E%A5%EC%9D%84-%EC%9E%8A%EC%A7%80-%EB%A7%88)
 

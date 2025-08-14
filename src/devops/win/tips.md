@@ -165,7 +165,7 @@ REG add "HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\IEDevTools" /v "
 
 ## How to Change a Windows 10 User Name
 
-- <kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>r</kbd> 입력 후 실행 창 생성
+- <kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>r</kbd> 입력 후 실행 창 생성
 - 입력란에 `control userpasswords2` 입력
 - _'이 컴퓨터 사용자'_ 목록에서 사용자명 변경 할 사용자 선택 후 `[속성]` 버튼 선택
 

@@ -30,14 +30,14 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-storybook"/>Storybook
+## <VPIcon icon="iconfont icon-storybook"/>Storybook
 
 - [Storybook 8](https://storybook.js.org/blog/storybook-8/)
 - [Build a Next.js app in Storybook with React Server Components and Mock Service Worker](https://storybook.js.org/blog/build-a-nextjs-app-with-rsc-msw-storybook/)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@u-ryu-00` / \[Tool\] React를 위한 Storybook 도입하기 1탄](https://velog.io/@u-ryu-00/Tool-React%EB%A5%BC-%EC%9C%84%ED%95%9C-Storybook-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 

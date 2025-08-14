@@ -622,7 +622,7 @@ tag:
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-shell"/>sh
+@tab:active <VPIcon icon="iconfont icon-shell"/>sh
 
 ```sh
 code --install-extension formulahendry.auto-rename-tag; #Auto Rename Tag
@@ -684,7 +684,7 @@ code --isntall-extension sswg.swift-lang # Swift
 code --isntall-extension yoco.YOCO # YOCO(You Only Copy Once)
 ```
 
-@tab <FontIcon icon="fas fa-gears"/>cmd
+@tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
 code --install-extension formulahendry.auto-rename-tag && REM Auto Rename Tag
@@ -781,7 +781,7 @@ code --isntall-extension yoco.YOCO && REM YOCO(You Only Copy Once)
 
 ### 🔑API Key 관리
 
-사용하고 싶은 API의 키를 발급 받아 <FontIcon icon="iconfont icon-json"/>`settings.json` 파일을 만들어 환경설정 하세요.
+사용하고 싶은 API의 키를 발급 받아 <VPIcon icon="iconfont icon-json"/>`settings.json` 파일을 만들어 환경설정 하세요.
 
 ```json
 "rest-client.certificates": {

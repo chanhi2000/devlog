@@ -30,7 +30,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 이번 SPA 개발은 앵귤러 어떠세요?](https://blex.me/@baealex/create-spa-with-angular)
 - [`@baealex` - Angular :: Directive](https://blex.me/@baealex/2023-10-9-til-angular-directive)
@@ -41,7 +41,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -49,7 +49,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`angular` / Introducing Angular v17](https://blog.angular.dev/introducing-angular-v17-4d7033312e4b)
 

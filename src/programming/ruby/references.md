@@ -30,7 +30,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`danielbergholz` / From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
 

@@ -29,17 +29,17 @@ Possible variables are: `$1`, `$2` for tab stops, `$0` for the final cursor posi
 
 Placeholders with the same ids are connected.
 
-### <FontIcon icon="fas fa-folder-open"/>저장위치
+### <VPIcon icon="fas fa-folder-open"/>저장위치
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-windows"/>
+@tab:active <VPIcon icon="fa-brands fa-windows"/>
 
 ```plaintext title="Location"
 %APPDATA%\Code\User\snippets
 ```
 
-@tab <FontIcon icon="iconfont icon-macos"/>
+@tab <VPIcon icon="iconfont icon-macos"/>
 
 ```plaintext title="Location"
 ~/Application Support/Code/User/snippets
@@ -49,7 +49,7 @@ Placeholders with the same ids are connected.
 
 ::: code-tabs#json
 
-@tab:active <FontIcon icon="iconfont icon-json"/>`markdown.json`
+@tab:active <VPIcon icon="iconfont icon-json"/>`markdown.json`
 
 ```json :collapsed-lines title="markdown.json"
 {
@@ -145,21 +145,21 @@ Placeholders with the same ids are connected.
   "VuepressFontIcon": {
     "prefix": "vfi",
     "body": [
-    "<FontIcon icon=\"iconfont icon-${1:name}\"/>${0}"
+    "<VPIcon icon=\"iconfont icon-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet"
   },
   "VuepressFontIconAwesome": {
     "prefix": "vfia",
     "body": [
-    "<FontIcon icon=\"fas fa-${1:name}\"/>${0}"
+    "<VPIcon icon=\"fas fa-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet (FontAwesome)"
   },
   "VuepressFontIconAwesomeBrand": {
     "prefix": "vfiab",
     "body": [
-    "<FontIcon icon=\"fa-brands fa-${1:name}\"/>${0}"
+    "<VPIcon icon=\"fa-brands fa-${1:name}\"/>${0}"
     ],
     "description": "Create FontIcon Vue Componenet (FontAwesome Brand)"
   },
@@ -202,6 +202,13 @@ Placeholders with the same ids are connected.
     ],
     "description": "Create CodePen Vue Componenet"
   },
+  "VuepressBaselineStatus": {
+    "prefix": "vbls",
+    "body": [
+      "<BaselineStatus featureid=\"${1:featureid}\" />"
+    ],
+    "description": "Create Baseline Vue component for writing articles"
+  },
   "VuepressImageGallery": {
     "prefix": "vig",
     "body": [
@@ -217,13 +224,6 @@ Placeholders with the same ids are connected.
       "<!-- TODO: 작성 (/explore/articles/${1:domain}/${2:link}.md) -->${0}"
     ],
     "description": "Create TODO Tag for writing articles"
-  },
-  "MdBaselineStatus": {
-    "prefix": "mdbls",
-    "body": [
-      "<BaselineStatus featureid=\"${1:featureid}\" />"
-    ],
-    "description": "Create Baseline component for writing articles"
   },
   "MdCodeTabs": {
     "prefix": "mct",
@@ -296,7 +296,7 @@ Placeholders with the same ids are connected.
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-json"/>`json.json`
+@tab <VPIcon icon="iconfont icon-json"/>`json.json`
 
 ```json: collapwd-lines title="json.json"
 {

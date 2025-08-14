@@ -41,11 +41,11 @@ prev: /programming/gradle/snippets/README.md
 
 executable jar를 생성
 
-> .<FontIcon icon="fas fa-folder-open"/>`./<모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./<모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>build.gradle
+@tab:active <VPIcon icon="iconfont icon-gradle"/>build.gradle
 
 ```groovy
 task fatJar(type: Jar) {
@@ -66,7 +66,7 @@ task fatJar(type: Jar) {
 tasks.compileJava.dependsOn clean
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 // TODO: 작성
@@ -74,7 +74,7 @@ tasks.compileJava.dependsOn clean
 
 :::
 
-.<FontIcon icon="iconfont icon-shell"/>실행 시
+.<VPIcon icon="iconfont icon-shell"/>실행 시
 
 ```sh
 gradlew <모듈명>:fatJar

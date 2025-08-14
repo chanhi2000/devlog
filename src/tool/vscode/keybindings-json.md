@@ -33,17 +33,17 @@ head:
 - <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> 입력하여 Prmopt 창 생성
 - `Open Keyboard Shortcuts (JSON)` 입력
 
-### <FontIcon icon="fas fa-folder-open"/>저장위치
+### <VPIcon icon="fas fa-folder-open"/>저장위치
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-windows"/>
+@tab:active <VPIcon icon="fa-brands fa-windows"/>
 
 ```plaintext title="Location"
 %APPDATA%\Code\User
 ```
 
-@tab <FontIcon icon="iconfont icon-macos"/>
+@tab <VPIcon icon="iconfont icon-macos"/>
 
 ```plaintext title="Location"
 ~/Application Support/Code/User

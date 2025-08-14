@@ -118,7 +118,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -160,7 +160,7 @@ head:
 
 > kodeco.com
 
-### <FontIcon icon="fa-brands fa-java"/>Java
+### <VPIcon icon="fa-brands fa-java"/>Java
 
 ```component VPCard
 {
@@ -192,7 +192,7 @@ head:
 }
 ```
 
-### <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+### <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```component VPCard
 {
@@ -396,7 +396,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

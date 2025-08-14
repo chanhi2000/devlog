@@ -19,7 +19,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
+## <VPIcon icon="fa-brands fa-gitlab"/>Gitlab
 
 - [Tutorial: Set up the Google Cloud integration](https://docs.gitlab.com/ee/tutorials/set_up_gitlab_google_integration/)
 - [Job succeed, but uploading artifacts fails with 500 error](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/26869)
@@ -64,13 +64,13 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Job ends with error "WARNING: Uploading artifacts as "archive" to coordinator... failed"](https://stackoverflow.com/questions/65324410/job-ends-with-error-warning-uploading-artifacts-as-archive-to-coordinator)
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [BytemarkHosting/configs-gitlab-docker](https://github.com/BytemarkHosting/configs-gitlab-docker/blob/master/docker-compose.yml)
 

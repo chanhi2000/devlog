@@ -23,9 +23,9 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Cool features in Visual Studio 2022](https://devblogs.microsoft.com/visualstudio/cool-features-in-visual-studio-2022/)
 - [Five shortcuts to boost your productivity](https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/)

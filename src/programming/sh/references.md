@@ -22,20 +22,20 @@ tag:
 
 ## Cheatsheet(s)
 
-- [<FontIcon icon="iconfont icon-link"/> 🔥 Hacking Tools Cheat Sheet](https://www.instagram.com/p/CD_LMLaAuQk/?igshid=MDJmNzVkMjY%3D)
+- [<VPIcon icon="iconfont icon-link"/> 🔥 Hacking Tools Cheat Sheet](https://www.instagram.com/p/CD_LMLaAuQk/?igshid=MDJmNzVkMjY%3D)
   - [1/2](https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/117658156_953523845111690_3076053556485653950_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=GIOezCcbfVEAX_YaisY&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfBLagPMcYBLCCAX5iKZyI2vJbNrMLar5tzGg4YgFUKekQ&oe=64630969&_nc_sid=4f375e)
   - [2/2](https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/117743289_138407511276914_7202789972834531372_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=puO86HcR9OkAX_JGclB&edm=AP_V10EBAAAA&ccb=7-5&oh=00_AfDP-Uu08TiYzuVs2q_bl-Ock5u0JPphz0an9n4SgSPpTg&oe=6463090B&_nc_sid=4f375e)
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How are zlib, gzip and zip related? What do they have in common and how are they different?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 - [Is there an equivalent to `ssh-copy-id` for Windows?](https://serverfault.com/questions/224810/is-there-an-equivalent-to-ssh-copy-id-for-windows)
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+## <VPIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### Unix
 
@@ -63,7 +63,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`vinodhakumara2681997` - CheatSheet: Linux Commands for DevOps](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)
 - [`netflixtechblog` / Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
@@ -73,7 +73,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`tasinishmam` - Awesome Command-Line tools to boost your productivity](https://dev.to/tasinishmam/awesome-command-line-tools-to-boost-your-productivity-22n8)
 
@@ -81,7 +81,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@kameals` / `ls`보다는 `exa`를 사용하자! 모던 리눅스 명령어 소개[번역]](https://velog.io/@kameals/modern-linux-command)
 - [`@root-devvoo` / 쉘 스크립트에서 ’ ’, ” ”, ` ` 및 괄호 기능과 차이점](https://velog.io/@root-devvoo/%EC%89%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%94%B0%EC%98%B4%ED%91%9C-%EC%8C%8D%EB%94%B0%EC%98%B4%ED%91%9C-%EB%B0%B1%ED%8B%B1-%EB%B0%8F-%EA%B4%84%ED%98%B8-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
@@ -107,7 +107,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - `crontab`](https://blex.me/@mildsalmon/crontab)
 

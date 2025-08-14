@@ -17,14 +17,14 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`elemental-elixir` / Processing very large text files in Elixir](https://medium.com/elemental-elixir/processing-very-large-text-files-in-elixir-b631792eed59)
 - [`elemental-elixir` / Data Analysis with Elixir](https://medium.com/elemental-elixir/data-analysis-with-elixir-3e130a5d429e)
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`danielbergholz` / From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
 
@@ -82,7 +82,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-supabase"/>Supabse
+## <VPIcon icon="iconfont icon-supabase"/>Supabse
 
 - [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
 

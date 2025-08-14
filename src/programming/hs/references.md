@@ -27,7 +27,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [`nattybear` / 하스켈/cabal](https://gist.github.com/nattybear/a52527d75f977bfbcd7531a58281b9ce)
 - [`nattybear` / cabal/cabal build all](https://gist.github.com/nattybear/8b01a12a4c74ca63b312d6bdb6c8acd8)

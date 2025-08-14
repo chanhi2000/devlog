@@ -29,26 +29,26 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-c"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+- [<VPIcon icon="iconfont icon-c"/>`munificent/generate.c`](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 
 ---
 
-## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developer
+## <VPIcon icon="fa-brands fa-redhat"/>Red Hat Developer
 
 - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler#)
 - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [C pointers guide in 2023](https://levelup.gitconnected.com/c-pointers-guide-in-2023-82d5ef8afb98)
 - [Behavior Trees for ROS2 — Part 1: Unlocking Advanced Robotic Decision-Making and Control](https://medium.com/@nullbyte.in/behavior-trees-for-ros2-part-1-unlocking-advanced-robotic-decision-making-and-control-7856582fb812)
@@ -56,13 +56,13 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - 개념적으로 접근하는 자료구조 - 스택(Stack)](https://blex.me/@DevMinGeonPark/%EA%B0%9C%EB%85%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%83%9Dstack)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@mythos` / \[C\] JSON 라이브러리 개발](https://velog.io/@mythos/C-JSON-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
 - [`@mythos` / \[C\] 로깅 라이브러리 개발](https://velog.io/@mythos/C-%EB%A1%9C%EA%B9%85-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EA%B0%9C%EB%B0%9C)
@@ -86,9 +86,9 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n)
 - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)

@@ -43,11 +43,11 @@ prev: /programming/gradle/snippets/README.md
 
 최종 war를 Maven 저장소로 배포
 
-> .<FontIcon icon="fas fa-folder-open"/>`./<war으로 묶어 줄 모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./<war으로 묶어 줄 모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>Groovy
+@tab:active <VPIcon icon="iconfont icon-gradle"/>Groovy
 
 ```groovy
 plugins {
@@ -99,7 +99,7 @@ publishing {
 publish.dependsOn war
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 // TODO: 작성
@@ -107,7 +107,7 @@ publish.dependsOn war
 
 :::
 
-> .<FontIcon icon="fas fa-folder-open"/>`./`<FontIcon icon="fas fa-file-lines"/>`gradle.properties`
+> .<VPIcon icon="fas fa-folder-open"/>`./`<VPIcon icon="fas fa-file-lines"/>`gradle.properties`
 
 ```properties
 # nexus
@@ -117,7 +117,7 @@ nexusUsername=admin
 nexusPassword=admin123
 ```
 
-.<FontIcon icon="iconfont icon-shell"/>실행 시
+.<VPIcon icon="iconfont icon-shell"/>실행 시
 
 ```sh
 gradlew <모듈명>:publish

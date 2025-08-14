@@ -29,11 +29,11 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Microsoft technical breakdown of CrowdStrike incident](https://microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools)
 
-### <FontIcon icon="fa-brands fa-windows"/>Windows Developer
+### <VPIcon icon="fa-brands fa-windows"/>Windows Developer
 
 - [Unlock a new era of innovation with Windows Copilot Runtime and Copilot+ PCs](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/)
 
@@ -47,7 +47,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+## <VPIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### Retrocomputing
 

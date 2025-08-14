@@ -43,14 +43,14 @@ head:
 
 ---
 
-- [<FontIcon icon="fas fa-square-pen"/>임의의 모듈명 지정](/programming/gradle/snippets/rename-subproject.md)
-- [<FontIcon icon="fas fa-cubes"/>Multi-module Project 관리](/programming/gradle/snippets/manage-multi-module-project.md)
-- [<FontIcon icon="fa-brands fa-java"/>Java 환경 구성](/programming/gradle/snippets/configure-java.md)
-- [<FontIcon icon="fas fa-screwdriver-wrench"/>fatJar 생성](/programming/gradle/snippets/create-fatjar.md)
-- [<FontIcon icon="fas fa-screwdriver-wrench"/>war 생성](/programming/gradle/snippets/create-war.md)
-- [<FontIcon icon="fas fa-link"/>browser로 URL 열기](/programming/gradle/snippets/open-url-in-browser.md)
-- [<FontIcon icon="fas fa-folder-open"/>파일경로 탐색](/programming/gradle/snippets/explore-directory.md)
-- [<FontIcon icon="fas fa-upload"/>아티팩트를 저장소로 배포](/programming/gradle/snippets/publish-to-repository.md)
+- [<VPIcon icon="fas fa-square-pen"/>임의의 모듈명 지정](/programming/gradle/snippets/rename-subproject.md)
+- [<VPIcon icon="fas fa-cubes"/>Multi-module Project 관리](/programming/gradle/snippets/manage-multi-module-project.md)
+- [<VPIcon icon="fa-brands fa-java"/>Java 환경 구성](/programming/gradle/snippets/configure-java.md)
+- [<VPIcon icon="fas fa-screwdriver-wrench"/>fatJar 생성](/programming/gradle/snippets/create-fatjar.md)
+- [<VPIcon icon="fas fa-screwdriver-wrench"/>war 생성](/programming/gradle/snippets/create-war.md)
+- [<VPIcon icon="fas fa-link"/>browser로 URL 열기](/programming/gradle/snippets/open-url-in-browser.md)
+- [<VPIcon icon="fas fa-folder-open"/>파일경로 탐색](/programming/gradle/snippets/explore-directory.md)
+- [<VPIcon icon="fas fa-upload"/>아티팩트를 저장소로 배포](/programming/gradle/snippets/publish-to-repository.md)
 
 ---
 

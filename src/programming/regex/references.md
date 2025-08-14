@@ -29,7 +29,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial](https://freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/)
 - [URL RegEx Pattern – How to Write a Regular Expression for a URL](https://freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url)
@@ -37,13 +37,13 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`gewenyu99` / Regex, the good bits.](https://dev.to/gewenyu99/regex-the-good-bits-4l2o)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[파이썬\] 정규표현식 활용  방법](https://velog.io/@euisuk-chung/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 

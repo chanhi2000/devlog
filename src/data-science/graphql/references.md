@@ -25,7 +25,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -39,13 +39,13 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 웹 앱 API 개발을 위한 GraphQL 1~4장 정리](https://blex.me/@baealex/graphql-for-web-api-development)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`fourwingsy` / GraphQL을 오해하다](https://fourwingsy.medium.com/graphql%EC%9D%84-%EC%98%A4%ED%95%B4%ED%95%98%EB%8B%A4-3216f404134)
 - [`@khwsc1` / 프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)

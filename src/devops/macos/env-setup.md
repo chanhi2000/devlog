@@ -74,7 +74,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat clipgrab cocoapods exiftool ffmpeg fizz flac git lazygit \
   hyperfine mas fastfetch nushell fnm openssl pixman lazydocker \
   python poetry rust scrcpy starship tmux tokei watchman \
-  wget xz zsh mac-cleanup-py;
+  wget xz zsh zoxide mac-cleanup-py;
 brew install koekeishiya/formulae/yabai;
 brew install koekeishiya/formulae/skhd;
 
@@ -124,7 +124,6 @@ Install the following(s)
   url="https://apps.apple.com/us/app/one-thing/id1604176982"
   logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/e0/43/dfe043d3-ff4d-6edf-9912-f7859dc1db65/AppIcon-0-0-85-220-0-4-0-2x.png/492x0w.webp"
   preview="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f5/47/c8/f547c84e-4ea9-d757-a63f-0feae9e9f2fe/fec70b04-3937-4bea-91ef-ff6fabd0238c_screenshot1.png/1286x0w.webp"/>
-
 
 <SiteInfo
   name="Particulars on the Mac App Store"

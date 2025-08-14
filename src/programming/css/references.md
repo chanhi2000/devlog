@@ -49,7 +49,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+## <VPIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### UX
 
@@ -76,7 +76,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@superlipbalm` / (번역) Shadow DOM을 스타일링 하는 8가지 방법](https://velog.io/@superlipbalm/8-ways-to-style-the-shadow-dom)
 - [`@ksh4704` / HTML 정리(1)](https://velog.io/@ksh4704/HTML-%EC%A0%95%EB%A6%AC1)
@@ -88,7 +88,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 실용적인 프론트엔드 테스트](https://blex.me/@baealex/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [`@laetipark` - 명품 웹 프로그래밍 정리 노트 : 2. HTML5](https://blex.me/@laetipark/%EB%AA%85%ED%92%88-%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8-2-html5)
@@ -116,9 +116,9 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developer
+### <VPIcon icon="fa-brands fa-chrome"/>Chrome for Developer
 
 - [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
 - [CSS Wrapped: 2023!](https://developer.chrome.com/blog/css-wrapped-2023?hl=en)
@@ -136,7 +136,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [웹 폰트 사용과 최적화의 최근 동향](https://d2.naver.com/helloworld/4969726) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/4969726.md) -->
 
@@ -197,7 +197,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [30 Practical Tips for Effective User Interface Design](https://uxplanet.org/30-practical-tips-for-effective-user-interface-design-59e1e46ac370)
 - [`uxdesign` / Why UI designers should understand Flexbox and CSS Grid](https://uxdesign.cc/why-ui-designers-should-understand-flexbox-and-css-grid-e236a9dec37a)
@@ -206,7 +206,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Oruga - UI components library without CSS framework dependency](https://dev.to/jtommy/oruga-ui-components-library-without-css-framework-dependency-4m3m)
 - [The Best Way To Dark Mode Your Website In My Opinion.](https://dev.to/zxcodes/the-best-way-to-dark-mode-your-website-1g7f)
@@ -220,7 +220,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@tjdud0123` / css 변수 이용 다크 모드 토글](https://velog.io/@tjdud0123/css-%EB%B3%80%EC%88%98-%EC%9D%B4%EC%9A%A9-%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%ED%86%A0%EA%B8%80)
 - [`@danjr` / HTML 기본 태그 - (4)](https://velog.io/@danjr/HTML-%EA%B8%B0%EB%B3%B8-%ED%83%9C%EA%B7%B8-4)
@@ -234,7 +234,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 ---
 

@@ -47,7 +47,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-meta"/>Engineering at Meta
+## <VPIcon icon="fa-brands fa-meta"/>Engineering at Meta
 
 - [The evolution of Facebook’s iOS app architecture](https://engineering.fb.com/2023/02/06/ios/facebook-ios-app-architecture/)
 
@@ -59,7 +59,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -67,7 +67,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`fwsgonzo` / An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 - [`abdulgh` / Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
@@ -77,7 +77,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@jooss287` / 코드의 수행시간 체크하기](https://velog.io/@jooss287/%EC%BD%94%EB%93%9C%EC%9D%98-%EC%88%98%ED%96%89%EC%8B%9C%EA%B0%84-%EC%B2%B4%ED%81%AC%ED%95%98%EA%B8%B0)
 - [`@1106laura` / 백준 30678 별 안에 별 안에 별 찍기 (C++)](https://velog.io/@1106laura/%EB%B0%B1%EC%A4%80-30678-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%95%88%EC%97%90-%EB%B3%84-%EC%B0%8D%EA%B8%B0-C)
@@ -106,7 +106,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@wolfsil` - c++ 요약](https://blex.me/@wolfsil/c-%EC%96%B8%EC%96%B4-%EC%9A%94%EC%95%BD)
 

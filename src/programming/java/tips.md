@@ -24,7 +24,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### Slf4j loggers in 3 ways
 

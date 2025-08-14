@@ -24,7 +24,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### Date
 

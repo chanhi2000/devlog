@@ -43,7 +43,7 @@ prev: /programming/gradle/snippets/README.md
 
 ## 모바일 온나라
 
-### <FontIcon icon="iconfont icon-gradle"/>`settings.gradle`
+### <VPIcon icon="iconfont icon-gradle"/>`settings.gradle`
 
 ::: tabs
 
@@ -53,7 +53,7 @@ prev: /programming/gradle/snippets/README.md
 include ":onnara01", ":onnara02", "onnara-ui-common"
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>settings.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>settings.gradle.kts
 
 ```kotlin
 include(":onnara01")
@@ -63,7 +63,7 @@ include(":onnara-ui-common")
 
 :::
 
-### <FontIcon icon="iconfont icon-gradle"/>`dependencies.gradle`
+### <VPIcon icon="iconfont icon-gradle"/>`dependencies.gradle`
 
 ::: tabs
 
@@ -185,7 +185,7 @@ ext {
 }
 ```
 
-@tab <FontIcon icon="fas fa-folder-open"/>buildSrc/<FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="fas fa-folder-open"/>buildSrc/<VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 plugins {
@@ -199,7 +199,7 @@ repositories {
 
 :::
 
-### <FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+### <VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
@@ -240,7 +240,7 @@ task clean(type: Delete) {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 
@@ -248,7 +248,7 @@ task clean(type: Delete) {
 
 :::
 
-### <FontIcon icon="fas fa-folder-open"/>`onnara-ui-common`/<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+### <VPIcon icon="fas fa-folder-open"/>`onnara-ui-common`/<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
@@ -288,7 +288,7 @@ dependencies {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 
@@ -296,7 +296,7 @@ dependencies {
 
 :::
 
-### <FontIcon icon="fas fa-folder-open"/>`onnara01/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+### <VPIcon icon="fas fa-folder-open"/>`onnara01/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
@@ -305,14 +305,14 @@ dependencies {
 ```groovy
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```groovy
 ```
 
 :::
 
-### <FontIcon icon="fas fa-folder-open"/>`onnara02/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+### <VPIcon icon="fas fa-folder-open"/>`onnara02/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
@@ -322,7 +322,7 @@ dependencies {
 
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```groovy
 ```

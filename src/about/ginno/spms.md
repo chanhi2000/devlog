@@ -56,29 +56,29 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 :::
 
-::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
-**<FontIcon icon="iconfont icon-api"/>API 지원종료로 인한 API 호출 기능 최신화**
+**<VPIcon icon="iconfont icon-api"/>API 지원종료로 인한 API 호출 기능 최신화**
 
-- **<FontIcon icon="fas fa-paper-plane"/>푸시메시지**:
-  - <FontIcon icon="iconfont icon-gcp"/>GCM  → <FontIcon icon="iconfont icon-firebase"/>FCM (<FontIcon icon="iconfont icon-ios"/>iOS,<FontIcon icon="fa-brands fa-android"/>Android,<FontIcon icon="iconfont icon-spring"/>Spring)
-- **<FontIcon icon="fas fa-map-pin"/>공간정보**:
-  - Daum REST API → <FontIcon icon="iconfont icon-kakao"/>Kakao REST API (<FontIcon icon="iconfont icon-ios"/>iOS,<FontIcon icon="fa-brands fa-android"/>Android)
-- **<FontIcon icon="fas fa-map-location-dot"/>지도**:
+- **<VPIcon icon="fas fa-paper-plane"/>푸시메시지**:
+  - <VPIcon icon="iconfont icon-gcp"/>GCM  → <VPIcon icon="iconfont icon-firebase"/>FCM (<VPIcon icon="iconfont icon-ios"/>iOS,<VPIcon icon="fa-brands fa-android"/>Android,<VPIcon icon="iconfont icon-spring"/>Spring)
+- **<VPIcon icon="fas fa-map-pin"/>공간정보**:
+  - Daum REST API → <VPIcon icon="iconfont icon-kakao"/>Kakao REST API (<VPIcon icon="iconfont icon-ios"/>iOS,<VPIcon icon="fa-brands fa-android"/>Android)
+- **<VPIcon icon="fas fa-map-location-dot"/>지도**:
   - Daum Map Framework
 
-**<FontIcon icon="iconfont icon-gradle"/>Multiplatform 프로젝트 최초 도입**
+**<VPIcon icon="iconfont icon-gradle"/>Multiplatform 프로젝트 최초 도입**
 
 - 개발소스 병합 & 공통기능 모듈 공유
 - **구성**:
-  - <FontIcon icon="fa-brands fa-android"/>Android/<FontIcon icon="iconfont icon-ios"/>iOS
-  - <FontIcon icon="fa-brands fa-java"/>TornadoFx
-  - <FontIcon icon="iconfont icon-spring"/>Spring API서버
-  - <FontIcon icon="fa-brands fa-java"/>배치실행파일, etc.
+  - <VPIcon icon="fa-brands fa-android"/>Android/<VPIcon icon="iconfont icon-ios"/>iOS
+  - <VPIcon icon="fa-brands fa-java"/>TornadoFx
+  - <VPIcon icon="iconfont icon-spring"/>Spring API서버
+  - <VPIcon icon="fa-brands fa-java"/>배치실행파일, etc.
 
-**<FontIcon icon="fas fa-network-wired"/>사내 형상관리 시스템 구축 및 변경**
+**<VPIcon icon="fas fa-network-wired"/>사내 형상관리 시스템 구축 및 변경**
 
-- <FontIcon icon="iconfont icon-svn"/>SVN → <FontIcon icon="fa-brands fa-git-alt"/>Git
+- <VPIcon icon="iconfont icon-svn"/>SVN → <VPIcon icon="fa-brands fa-git-alt"/>Git
 
 :::
 
@@ -86,7 +86,7 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ## 프론트앤드
 
-::: info <FontIcon icon="fa-brands fa-android"/> Android
+::: info <VPIcon icon="fa-brands fa-android"/> Android
 
 <ImageGallery paths="
   /images/about/ginno/spms/after-aos-1.webp
@@ -99,16 +99,16 @@ cover: /images/about/ginno/spms/spms-bg.jpg
   /images/about/ginno/spms/after-aos-8.webp
 " isOneRow="true"/>
 
-- 프로젝트 언어 최신화 (<FontIcon icon="fa-brands fa-java"/>Java → <FontIcon icon="iconfont icon-kotlin"/>Kotlin)
+- 프로젝트 언어 최신화 (<VPIcon icon="fa-brands fa-java"/>Java → <VPIcon icon="iconfont icon-kotlin"/>Kotlin)
 - SDK 최신화 및 소스코드 리펙토링
-  - <FontIcon icon="iconfont icon-api"/>API 호출 프로세스 일괄변경 (Apache HTTP Connection → Retrofit)
-  - **IDE**: <FontIcon icon="iconfont icon-eclipse"/>Eclipse → <FontIcon icon="iconfont icon-intellijidea"/>Intellij-Idea
-  - **Build**: <FontIcon icon="iconfont icon-maven"/>Maven → <FontIcon icon="iconfont icon-gradle"/>Gradle
+  - <VPIcon icon="iconfont icon-api"/>API 호출 프로세스 일괄변경 (Apache HTTP Connection → Retrofit)
+  - **IDE**: <VPIcon icon="iconfont icon-eclipse"/>Eclipse → <VPIcon icon="iconfont icon-intellijidea"/>Intellij-Idea
+  - **Build**: <VPIcon icon="iconfont icon-maven"/>Maven → <VPIcon icon="iconfont icon-gradle"/>Gradle
 - APK 배포 프로세스 구성
 
 :::
 
-::: info <FontIcon icon="iconfont icon-ios"/> iOS
+::: info <VPIcon icon="iconfont icon-ios"/> iOS
 
 <ImageGallery paths="
   /images/about/ginno/spms/after-ios-1.webp
@@ -121,21 +121,21 @@ cover: /images/about/ginno/spms/spms-bg.jpg
   /images/about/ginno/spms/after-ios-8.webp
 " isOneRow="true"/>
 
-**<FontIcon icon="fas fa-code-branch"/> v1.07 ~ 2.01**
+**<VPIcon icon="fas fa-code-branch"/> v1.07 ~ 2.01**
 
-- <FontIcon icon="fa-brands fa-swift"/>Swift 최신화 (3 → 4)
+- <VPIcon icon="fa-brands fa-swift"/>Swift 최신화 (3 → 4)
 - SDK 최신화 및 소스코드 리펙토링
-  - 의존라이브러리 관리 시작: <FontIcon icon="iconfont icon-cocoapods"/>CocoaPod 최초도입
-  - <FontIcon icon="fas fa-wrench"/>~변경~ SideMenu: 메뉴 구성용 라이브러리 (전: *SWRevealViewController*)
-  - <FontIcon icon="fas fa-puzzle-piece"/>~추가~ KingFisher:  이미지 사진 캐싱 및 비동기식 다운로드
-  - <FontIcon icon="fas fa-wrench"/>~변경~ Firebase: GCM 지원종료로 인해 Firebase Messaging 신규구성
+  - 의존라이브러리 관리 시작: <VPIcon icon="iconfont icon-cocoapods"/>CocoaPod 최초도입
+  - <VPIcon icon="fas fa-wrench"/>~변경~ SideMenu: 메뉴 구성용 라이브러리 (전: *SWRevealViewController*)
+  - <VPIcon icon="fas fa-puzzle-piece"/>~추가~ KingFisher:  이미지 사진 캐싱 및 비동기식 다운로드
+  - <VPIcon icon="fas fa-wrench"/>~변경~ Firebase: GCM 지원종료로 인해 Firebase Messaging 신규구성
 - UI & Library 현행화
 - 정적 리소스 최소화
   - 텍스트 이미지 버튼 → 텍스트 버튼으로 변경
   - 반복적으로 표현되는 View의 재활용
 - 신고위치 POI 위 말풍선 뷰 UI개선
 - Daum Map Framework 업데이트
-- 사내 <FontIcon icon="fa-brands fa-apple"/>Apple Developer Program (Enterprise) 관리
+- 사내 <VPIcon icon="fa-brands fa-apple"/>Apple Developer Program (Enterprise) 관리
 - IPA 배포 프로세스 구성
 
 **Code Refactoring**
@@ -146,7 +146,7 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 :::
 
-::: info <FontIcon icon="fa-brands fa-java"/> JavaFX
+::: info <VPIcon icon="fa-brands fa-java"/> JavaFX
 
 TornadoFX 기반 JavaFX 클라이언트 프로그램
 
@@ -161,7 +161,7 @@ TornadoFX 기반 JavaFX 클라이언트 프로그램
 
 ## 백앤드
 
-::: info <FontIcon icon="iconfont icon-spring"/> Spring
+::: info <VPIcon icon="iconfont icon-spring"/> Spring
 
 > 오라클 DB 기반 스프링 레거시 서버
 
@@ -174,7 +174,7 @@ TornadoFX 기반 JavaFX 클라이언트 프로그램
 
 ## 참조
 
-::: note <FontIcon icon="fas fa-images"/> 개선 전 (Before)
+::: note <VPIcon icon="fas fa-images"/> 개선 전 (Before)
 
 <ImageGallery paths="
   /images/about/ginno/spms/before-1.png

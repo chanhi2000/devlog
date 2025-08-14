@@ -42,9 +42,9 @@ Copy and Paste the following to the Terminal Prompt
 git clone https://github.com/dracula/terminal-app.git
 ```
 
-- <FontIcon icon="iconfont icon-select"/>`[Terminal]` > `[Settings]` Tab
-- Click <FontIcon icon="fas fa-gear"/> icon
-- Click <FontIcon icon="iconfont icon-select"/>`[Import...]`
+- <VPIcon icon="iconfont icon-select"/>`[Terminal]` > `[Settings]` Tab
+- Click <VPIcon icon="fas fa-gear"/> icon
+- Click <VPIcon icon="iconfont icon-select"/>`[Import...]`
 - Select the `Dracula.terminal` file
 - Click Default
 
@@ -79,11 +79,11 @@ ln -s $DRACULA_THEME/dracula.zsh-theme $OH_MY_ZSH/themes/dracula.zsh-theme
 
 ### Installation
 
-To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow documentation [<FontIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/windows).
+To install [Oh My Posh](https://ohmyposh.dev) on MacOS/Windows/Linux follow documentation [<VPIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/windows).
 
 ### Activating Theme
 
-For instructions on activating this theme in `powershell`, `cmd`, `xsh`, `bash`, `fish` and `nu` please refer to the documentation [<FontIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/customize).
+For instructions on activating this theme in `powershell`, `cmd`, `xsh`, `bash`, `fish` and `nu` please refer to the documentation [<VPIcon icon="fas fa-globe"/>here](https://ohmyposh.dev/docs/installation/customize).
 
 ### Fonts
 
@@ -92,7 +92,7 @@ Nerd Fonts are required for the Dracula theme. To display all icons, the use of 
 ---
 
 
-## <FontIcon icon="iconfont icon-vscode"/>Visual Studio Code
+## <VPIcon icon="iconfont icon-vscode"/>Visual Studio Code
 
 <SiteInfo
   name="Visual Studio Code"
@@ -109,7 +109,7 @@ Nerd Fonts are required for the Dracula theme. To display all icons, the use of 
 
 ---
 
-## <FontIcon icon="iconfont icon-subl"/>Sublime Text
+## <VPIcon icon="iconfont icon-subl"/>Sublime Text
 
 <SiteInfo
   name="Sublime Text"
@@ -122,7 +122,7 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
 
 ---
 
-## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+## <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 <SiteInfo
   name="Jetbrains"
@@ -132,11 +132,11 @@ If you are using `Package Control`, you can easily install Dracula Theme via the
   preview="https://draculatheme.com/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdracula%2Fjetbrains%2Fmaster%2Fscreenshot.png&w=1920&q=100"/>
 
 
-![Go to `Plugin Marketplace`, and search `Dracula`, click <FontIcon icon="iconfont icon-select"/>`[Install]`.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png)
+![Go to `Plugin Marketplace`, and search `Dracula`, click <VPIcon icon="iconfont icon-select"/>`[Install]`.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-plugin-install.png)
 
-![Go to `Preferences` > `Appearance & Behavior` > `Appearance`, select <FontIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png)
+![Go to `Preferences` > `Appearance & Behavior` > `Appearance`, select <VPIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-appearance.png)
 
-![Go to <FontIcon icon="iconfont icon-select"/>`[Preferences]` > `[Editor]` > `[Color Scheme]`, select <FontIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png)
+![Go to <VPIcon icon="iconfont icon-select"/>`[Preferences]` > `[Editor]` > `[Color Scheme]`, select <VPIcon icon="iconfont icon-select"/>`[Dracula]` from the dropdown menu.](https://raw.githubusercontent.com/dracula/jetbrains/master/docs/screenshots/dracula-setup-scheme.png)
 
 
 ---
@@ -185,7 +185,7 @@ git clone https://github.com/dracula/windows-terminal dracula-win-terminal
 
 Start Windows Terminal and click on the down arrow symbol `˅` from menu bar. This will open a drop down menu from which select Settings option. Alternatively use <kbd>Ctrl</kbd>+<kbd>,</kbd> to open Settings directly.
 
-In the <FontIcon icon="iconfont icon-json"/>`settings.json` settings file for Windows Terminal, find the schemes section and paste the content of <FontIcon icon="iconfont icon-json"/>`dracula.json`.
+In the <VPIcon icon="iconfont icon-json"/>`settings.json` settings file for Windows Terminal, find the schemes section and paste the content of <VPIcon icon="iconfont icon-json"/>`dracula.json`.
 
 ```json
 "schemes": [
@@ -227,7 +227,7 @@ Once the color scheme has been defined, it's time to enable it. Find the profile
 
 :::
 
-> .<FontIcon icon="iconfont icon-json"/>`settings.json` 파일경로: <FontIcon icon="fas fa-folder-open"/>`%APPDATA%\Local\Packages\Microsoft.WindowsTerminal_????????\LocalState`
+> .<VPIcon icon="iconfont icon-json"/>`settings.json` 파일경로: <VPIcon icon="fas fa-folder-open"/>`%APPDATA%\Local\Packages\Microsoft.WindowsTerminal_????????\LocalState`
 
 ---
 
@@ -286,7 +286,7 @@ Once installed, it will replace the default theme for Dracula!
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 ::: info StackOverflow
 

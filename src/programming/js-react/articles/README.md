@@ -149,7 +149,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 
@@ -915,7 +915,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+## <VPIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
 
 > tech.kakao.com
 

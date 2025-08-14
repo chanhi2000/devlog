@@ -47,7 +47,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-node"/>Node.js
+## <VPIcon icon="fa-brands fa-node"/>Node.js
 
 - [How to read environment variables from Node.js](https://nodejs.org/en/learn/command-line/how-to-read-environment-variables-from-nodejs)
 
@@ -71,7 +71,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-firefox"/>Mozilla Hacks - the Web developer blog
+## <VPIcon icon="fa-brands fa-firefox"/>Mozilla Hacks - the Web developer blog
 
 - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 
@@ -112,7 +112,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 ```component VPCard
 {
@@ -124,8 +124,8 @@ head:
 }
 ```
 
-- [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/javascript_engines_and_runtimes.md`](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
-- [<FontIcon icon="fa-brands fa-markdown"/>`guest271314/compiling_standalone.md`](https://gist.github.com/guest271314/9b1adad3db3deba64e118f844a77bad6)
+- [<VPIcon icon="fa-brands fa-markdown"/>`guest271314/javascript_engines_and_runtimes.md`](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
+- [<VPIcon icon="fa-brands fa-markdown"/>`guest271314/compiling_standalone.md`](https://gist.github.com/guest271314/9b1adad3db3deba64e118f844a77bad6)
 
 ---
 
@@ -135,15 +135,15 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+### <VPIcon icon="fa-brands fa-chrome"/>Chrome for Developers
 
 - [Supercharge compression efficiency with shared dictionaries](https://developer.chrome.com/blog/shared-dictionary-compression?hl=en)
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/5644368.md) -->
 - [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/2351859.md) -->
@@ -174,7 +174,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -238,7 +238,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-notion"/>Notion
+## <VPIcon icon="iconfont icon-notion"/>Notion
 
 - [Fluid Simulation 流体シミュレーション](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 
@@ -262,7 +262,7 @@ head:
 - [main](https://alligator.io)
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`constell99` / 우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 - [Say bye bye to bad javascript practices](https://blog.gogrow.dev/say-bye-bye-to-bad-javascript-practices-5971688ba80a)
@@ -315,7 +315,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`javinpaul` / My Favorite Free Courses to Learn JavaScript in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
 - [`ramigs` / Building a Jamstack app with Nuxt, Vue and FaunaDB](https://dev.to/ramigs/building-a-jamstack-app-with-nuxt-vue-and-faunadb-kg)
@@ -337,7 +337,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunjin` / [Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
@@ -389,7 +389,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` / [JavaScript] badland의 상태 관리](https://blex.me/@baealex/javascript-badland%EC%9D%98-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
 - [`@laetipark` / Node.js 교과서 : 1. 노드 시작하기](https://blex.me/@laetipark/nodejs-%EA%B5%90%EA%B3%BC%EC%84%9C-1-%EB%85%B8%EB%93%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -481,7 +481,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [about React](https://freecodecamp.org/news/tag/react)
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://freecodecamp.org/news/what-is-hoisting-in-javascript-3)
@@ -516,9 +516,9 @@ head:
   
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
@@ -1154,7 +1154,7 @@ head:
 
 ## 영찬 블로그
 
-- [Building A Clone Of <FontIcon icon="fa-brands fa-reddit"/>`r/place`](https://blog.0chan.dev/2024-04-28-Building-A-Clone-Of-RPlace/)
+- [Building A Clone Of <VPIcon icon="fa-brands fa-reddit"/>`r/place`](https://blog.0chan.dev/2024-04-28-Building-A-Clone-Of-RPlace/)
 
 ---
 

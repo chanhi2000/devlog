@@ -41,7 +41,7 @@ head:
   logo="https://raw.githubusercontent.com/ramitsurana/awesome-kubernetes/master/docs/images/logo.png"
   preview="https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png"/>
 
-## <FontIcon icon="iconfont icon-k8s"/>Kubernetes
+## <VPIcon icon="iconfont icon-k8s"/>Kubernetes
 
 - [Diagram Guide](https://kubernetes.io/docs/contribute/style/diagram-guide)
 - [Improve your documentation with Mermaid.js diagrams](https://www.kubernetes.dev/blog/2021/12/01/improve-your-documentation-with-mermaid.js-diagrams/)
@@ -49,7 +49,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -70,7 +70,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
 
@@ -174,7 +174,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [Kubernetes commands that every developer must know ☸](https://medium.com/@InzamamAhmad/kubernetes-commands-that-every-developer-must-know-192d2bc40608)
 - [How to deploy your Golang project on Kubernetes](https://medium.com/@kasthedeveloper/how-to-deploy-your-golang-project-on-kubernetes-d22d2b4c70c7)
@@ -199,7 +199,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@Su-per` - [Kubernetes] kubectl 기본 명령어 정리](https://blex.me/@Su-per/kubernetes-kubectl-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 
@@ -300,7 +300,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@synoti21` - 쿠버네티스 입문의 모든 것](https://velog.io/@synoti21/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 - [`@hanblueblue` - [쿠버네티스] 2. 워크로드 - 파드(1)](https://velog.io/@hanblueblue/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-2.-%EC%9B%8C%ED%81%AC%EB%A1%9C%EB%93%9C-%ED%8C%8C%EB%93%9C)

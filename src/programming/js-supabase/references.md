@@ -28,7 +28,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-supabase"/>Supabse
+## <VPIcon icon="iconfont icon-supabase"/>Supabse
 
 - [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
 

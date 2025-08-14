@@ -5080,5 +5080,12 @@
     "topics": ["deep-learning", "language-model", "webgpu", "tvm", "webml", "llm", "chatgpt"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/5d6ad604cdec9f0557d7eb1498d3abd8983202c7d4985a852917805bd5108c67/mlc-ai/web-llm"
+  }, {
+    "repo": "keplergl/kepler.gl",
+    "desc": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+    "officialSite": "http://kepler.gl",
+    "topics": ["visualization", "geospatial", "data-visualization", "kepler", "mapbox"],
+    "avatar": "https://avatars.githubusercontent.com/u/197739070?v=4",
+    "banner": "https://opengraph.githubassets.com/25d41743f7241e260c463732a06b2206b8009bb5f87af4f664d7a64659f219de/keplergl/kepler.gl"
   }
 ]

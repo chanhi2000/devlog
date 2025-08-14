@@ -688,6 +688,7 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-expressjs',
       children: [
         '/programming/js-express/README.md',
+        '/programming/js-express/snippets.md',
         '/programming/js-express/references.md',
         '/programming/js-express/youtube.md',
         {
@@ -696,6 +697,24 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-express/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Three.js',
+      collapsible: true,
+      icon: 'iconfont icon-threejs',
+      children: [
+        '/programming/js-three/README.md',
+        '/programming/js-three/snippets.md',
+        '/programming/js-three/references.md',
+        '/programming/js-three/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-three/articles/README.md',
           ]
         }
       ]
@@ -1091,6 +1110,24 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'Streamlit',
+      collapsible: true,
+      icon: 'iconfont icon-streamlit',
+      children: [
+        '/programming/py-streamlit/README.md',
+        '/programming/py-streamlit/tips.md',
+        '/programming/py-streamlit/references.md',
+        '/programming/py-streamlit/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-streamlit/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Jupyter',
       collapsible: true,
       icon: 'iconfont icon-jupyter',
@@ -1400,6 +1437,25 @@ export const sidebarEn = sidebar({
             '/programming/php-laravel/articles/README.md',
             asb.freecodecamp("php"),
             asb.learnk8s("php"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Symfony',
+      collapsible: true,
+      icon: 'iconfont icon-symfony',
+      children: [
+        '/programming/php-symfony/README.md',
+        '/programming/php-symfony/references.md',
+        '/programming/php-symfony/github.md',
+        '/programming/php-symfony/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/php-symfony/articles/README.md',
+            asb.freecodecamp("php-symfony"),
           ]
         }
       ]
@@ -3017,6 +3073,24 @@ export const sidebarEn = sidebar({
         '/devops/jenkins/youtube.md',
       ]
     }, {
+      text: 'TeamCity',
+      collapsible: true,
+      icon: 'iconfont icon-teamcity',
+      children: [
+        '/devops/jetbrains-teamcity/README.md',
+        '/devops/jetbrains-teamcity/snippets.md',
+        '/devops/jetbrains-teamcity/references.md',
+        '/devops/jetbrains-teamcity/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/jetbrains-teamcity/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Travis CI',
       collapsible: true,
       icon: 'iconfont icon-travis-ci',
@@ -3025,6 +3099,24 @@ export const sidebarEn = sidebar({
         '/devops/travis-ci/snippets.md',
         '/devops/travis-ci/references.md',
         '/devops/travis-ci/youtube.md',
+      ]
+    }, {
+      text: 'Circle CI',
+      collapsible: true,
+      icon: 'iconfont icon-circle-ci',
+      children: [
+        '/devops/circle-ci/README.md',
+        '/devops/circle-ci/snippets.md',
+        '/devops/circle-ci/references.md',
+        '/devops/circle-ci/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/circle-ci/articles/README.md',
+          ]
+        },
       ]
     }, {
       text: 'Appium',

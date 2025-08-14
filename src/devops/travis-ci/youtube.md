@@ -4,18 +4,20 @@ title: Youtube
 description: Travis CI > Youtube
 icon: fa-brands fa-youtube
 category:
-  - CI
+  - DevOps
+  - CI/CD
   - Travis CI 
   - Youtube
 tag: 
   - youtube
   - tutorial
-  - travis
-  - travisci
-  - travis-ci
+  - devops
   - cicd
   - ci
   - cd
+  - travis
+  - travisci
+  - travis-ci
 head:
   - - meta:
     - property: og:title

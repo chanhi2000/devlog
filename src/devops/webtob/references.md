@@ -26,7 +26,7 @@ tags:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [helloaltjs.log](https://velog.io/@helloaltjs/Window-JEUS%EC%99%80-Webtob-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 

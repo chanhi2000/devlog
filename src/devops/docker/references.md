@@ -34,17 +34,17 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How can I change the location of docker images when using Docker Desktop on WSL2 with Windows 10 Home?](https://stackoverflow.com/questions/62441307/how-can-i-change-the-location-of-docker-images-when-using-docker-desktop-on-wsl2)
 - [entrypoint file not found](https://stackoverflow.com/questions/44460825/entrypoint-file-not-found)
 - [How to run shell script on host from docker container?](https://stackoverflow.com/questions/32163955/how-to-run-shell-script-on-host-from-docker-container)
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [`adtac/Dockerfile`](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 
-::: warning <FontIcon icon="iconfont icon-github"/> Rancher Desktop
+::: warning <VPIcon icon="iconfont icon-github"/> Rancher Desktop
 
 > [`rancher-sandbox/rancher-desktop`](https://github.com/rancher-sandbox/rancher-desktop/issues/7169)
 
@@ -58,7 +58,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [AWS Best practice for Amazon Elastic Kubernetes Service (EKS)](https://medium.com/avmconsulting-blog/aws-best-practice-for-amazon-elastic-kubernetes-service-eks-7ae468869724)
 - [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b)
@@ -76,7 +76,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Full Docker Course \[FREE\] 🎉 🐳](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [`tungbq`: Introducing DevOps Toolkit](https://dev.to/tungbq/introducing-devops-toolkit-32fa)
@@ -88,7 +88,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` - [도커] 볼륨과 마운트](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4-%EB%B3%BC%EB%A5%A8%EA%B3%BC-%EB%A7%88%EC%9A%B4%ED%8A%B8)
 - [`@qkrtkdwns3410` - [도커&쿠버] 도커 컨테이너에서 호스트 파일 복사 등](https://velog.io/@qkrtkdwns3410/%EB%8F%84%EC%BB%A4%EC%BF%A0%EB%B2%84-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C-%ED%98%B8%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC-%EB%B3%B5%EC%82%AC-%EB%93%B1)
@@ -110,7 +110,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` / Heroku에서 Docker 배포](https://blex.me/@baealex/heroku%EB%A1%9C-docker-%EB%B0%B0%ED%8F%AC-1)
 - [`@baealex` / Docker Registry 만들기](https://blex.me/@baealex/docker-registry-%EA%B0%9C%EC%9D%B8%EC%9A%A9-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
@@ -134,7 +134,7 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/3661677.md) -->
 

@@ -40,7 +40,7 @@ tag:
 
 ::: tabs
 
-@tab <FontIcon icon="fa-brands fa-linux"/>Linux
+@tab <VPIcon icon="fa-brands fa-linux"/>Linux
 
 ```sh
 docker run -d -it \
@@ -51,7 +51,7 @@ docker run -d -it \
   gitlab/gitlab-runner:alpine3.14-bleeding
 ```
 
-@tab <FontIcon icon="fa-brands fa-windows"/>Windows
+@tab <VPIcon icon="fa-brands fa-windows"/>Windows
 
 ```batch
 docker run -d -it ^

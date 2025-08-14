@@ -22,15 +22,15 @@ tag:
 
 ---
 
-## <FontIcon icon="fas fa-folder-open"/>등록위치
+## <VPIcon icon="fas fa-folder-open"/>등록위치
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-windows"/>
+@tab:active <VPIcon icon="fa-brands fa-windows"/>
 
 `%APPDATA%\Sublime Text\Packages\User`
 
-@tab <FontIcon icon="iconfont icon-macos"/>macOS
+@tab <VPIcon icon="iconfont icon-macos"/>macOS
 
 :::
 

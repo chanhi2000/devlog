@@ -29,13 +29,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`oscarleo` / How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` / lightgbm error](https://velog.io/@eunbibi/lightgbm-error)
 

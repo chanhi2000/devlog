@@ -8,11 +8,10 @@ category:
   - Flask
   - References
 tag: 
-  - blog
-  - programming
-  - python
   - py
+  - python
   - flask
+  - py-flask
 head:
   - - meta:
     - property: og:title
@@ -29,13 +28,13 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-supabase"/>Supabase
+## <VPIcon icon="iconfont icon-supabase"/>Supabase
 
 - [GitHub OAuth in your Python Flask app](https://supabase.com/blog/oauth2-login-python-flask-apps)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`towardsaws` / Host Llama3 with Python Flask on AWS EC2](https://towardsaws.com/host-llama3-with-python-flask-on-aws-ec2-b95828f4de50)
 

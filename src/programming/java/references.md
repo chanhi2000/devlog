@@ -16,14 +16,14 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-java"/>Java
+## <VPIcon icon="fa-brands fa-java"/>Java
 
-### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+### <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [print directory tree](https://stackoverflow.com/questions/10655085/print-directory-tree)
 - [What is this date format? 2011-08-12T20:17:46.384Z](https://stackoverflow.com/questions/8405087/what-is-this-date-format-2011-08-12t201746-384z)
 
-### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+### <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 - [Easy Hacks: How to Handle Exceptions in Java](https://blog.jetbrains.com/idea/2024/04/easy-hacks-how-to-handle-exceptions-in-java/)
 
@@ -64,7 +64,7 @@ tag:
 - [HowToDoInJava - Log4j2 Properties File Example](https://howtodoinjava.com/log4j2/log4j2-properties-example)
 - [HowToDoInJava - Log4j2 RollingFileAppender Example](https://howtodoinjava.com/log4j2/log4j2-rollingfileappender-example/)
 
-### <FontIcon icon="fa-brands fa-medium"/>Medium
+### <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`YDB — Open Source` / How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
 - [`박상권의-삽질블로그` / 알아두면 쓸모있는 신비한 안드로이드 지식 9가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88블로그/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
@@ -76,7 +76,7 @@ tag:
 
 <!-- END: medium.com java -->
 
-### <FontIcon icon="iconfont icon-velog"/>velog
+### <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` / [자바] 9461. 파도반 수열](https://velog.io/@qkrtkdwns3410/%EC%9E%90%EB%B0%94-9461.-%ED%8C%8C%EB%8F%84%EB%B0%98-%EC%88%98%EC%97%B4)
 - [`@qkrtkdwns3410` / FACTORY METHOD 패턴](https://velog.io/@qkrtkdwns3410/FACTORY-METHOD-%ED%8C%A8%ED%84%B4)
@@ -207,7 +207,7 @@ tag:
 
 <!-- END: velog.io java -->
 
-### <FontIcon icon="iconfont icon-blex"/>BLEX
+### <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@happyhw0589` - [백준 자바] 01-01 Hello World](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80%EC%BD%94%EB%94%A91-1-1-2-println)
 - [`@happyhw0589` - [백준 자바] 01-02 We love kriii](https://blex.me/@happyhw0589/%EB%B0%B1%EC%A4%80-01-02-we-love-kriii)
@@ -221,7 +221,7 @@ tag:
 - [`@msa4080` - PART2. 자바 언어 기본(1)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B8)
 - [`@msa4080` - PART2. 자바 언어 기본(2)](https://blex.me/@msa4080/part2-%EC%9E%90%EB%B0%94-%EC%96%B8%EC%96%B4-%EA%B8%B0%EB%B3%B82)
 
-### <FontIcon icon="fa-brands fa-dev"/>dev.to
+### <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`mjsf1234` / 🔥 Mastering Java Concurrency: Dive into Part 1! 🚀](https://dev.to/mjsf1234/mastering-java-concurrency-dive-into-part-1-291h)
 - [`antofik` / Roadmap - Senior Java Developer 2024](https://dev.to/antofik/senior-java-developer-2024-2cof)
@@ -736,7 +736,7 @@ tag:
 
 - [gRPC basic concepts](https://dev-ws.tistory.com/m/123)
 
-### <FontIcon icon="iconfont icon-naver"/>NAVER D2
+### <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [딥러닝과 OpenCV를 활용해 사진 속 글자 검출하기](https://d2.naver.com/helloworld/8344782)
 
@@ -837,16 +837,16 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### Roadmap
 
-- [<FontIcon icon="iconfont icon-link"/> Android Table of Elements](https://www.androidelements.com)
-- [<FontIcon icon="iconfont icon-link"/> Kotlin Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
+- [<VPIcon icon="iconfont icon-link"/> Android Table of Elements](https://www.androidelements.com)
+- [<VPIcon icon="iconfont icon-link"/> Kotlin Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf)
 
 <PDF url="https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf"/>
 
-### <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+### <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 - [Introducing Kotlin Notebook](https://blog.jetbrains.com/kotlin/2023/07/introducing-kotlin-notebook/)
 - [Kandy: the new Kotlin plotting library by JetBrains](https://blog.jetbrains.com/kotlin/2023/12/kandy-the-new-kotlin-plotting-library-by-jetbrains)
@@ -854,7 +854,7 @@ tag:
 - [Enhanced Column Selection DSL in Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/07/enhanced-column-selection-dsl-in-kotlin-dataframe/)
 - [Track and Analyze GitHub Star Growth With Kandy and Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/08/track-and-analyze-github-star-growth-with-kandy-and-kotlin-dataframe/)
 
-### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+### <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Test expected exceptions in Kotlin](https://stackoverflow.com/questions/30331806/test-expected-exceptions-in-kotlin/34556914)
 - [How to get String UUID in JPA and store as VARCHAR in Postgresql database?](https://stackoverflow.com/questions/76346452/how-to-get-string-uuid-in-jpa-and-store-as-varchar-in-postgresql-database)
@@ -863,7 +863,7 @@ tag:
 
 - [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/7349.md) -->
 
-### <FontIcon icon="iconfont icon-kakao"/>Kakao
+### <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 #### 카카오페이 기술 블로그
 
@@ -884,7 +884,7 @@ tag:
 
 - [EveDrop 개발기1](https://holykisa.tistory.com/128)
 
-### <FontIcon icon="fa-brands fa-medium"/>Medium
+### <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`pragmatic-programmers` / Designing a Functional Library](https://medium.com/pragmatic-programmers/designing-a-functional-library-4d6b94a4449a)
 - [`@khush.panchal123` - `PriorityDispatcher` — Priority based Dispatcher in Kotlin Coroutines](https://medium.com/@khush.panchal123/prioritydispatcher-dispatcher-based-on-priority-queue-035cebd6f96a)
@@ -931,7 +931,7 @@ tag:
 
 <!-- END: medium.com kotiln -->
 
-### <FontIcon icon="iconfont icon-velog"/>velog
+### <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@dudgns0507` - [Kotlin] KDoc으로 코틀린 코드 문서화하기 (feat. Dokka)](https://velog.io/@dudgns0507/Kotlin-KDoc%EC%9C%BC%EB%A1%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0-feat.-Dokka)
 - [`@sweet_sumin`: 리플랙션 활용하기](https://velog.io/@sweet_sumin/%EB%A6%AC%ED%94%8C%EB%9E%99%EC%85%98-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -948,7 +948,7 @@ tag:
 
 <!-- END: velog.io kotlin -->
 
-### <FontIcon icon="fa-brands fa-dev"/>dev.to
+### <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`lucasfugisawa` / Kotlin Design Patterns: Simplifying the Builder Pattern](https://dev.to/lucasfugisawa/kotlin-design-patterns-simplifying-the-builder-pattern-3e7g)
 - [`mrkandreev` / How to create Unit tests for code design?](https://dev.to/mrkandreev/how-to-create-unit-tests-for-code-design-5g9i)

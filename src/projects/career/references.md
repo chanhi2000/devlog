@@ -25,7 +25,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Goolge
+## <VPIcon icon="fa-brands fa-google"/>Goolge
 
 ### Google Site Reliability Engineering
 
@@ -33,13 +33,13 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 
 ---
 
-## <FontIcon icon="fa-brands fa-y-combinator"/>Y Combinator
+## <VPIcon icon="fa-brands fa-y-combinator"/>Y Combinator
 
 - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 - [Ask HN: Is it possible to make FAANG salaries without working there?](https://news.ycombinator.com/item?id=41042123)
@@ -49,7 +49,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -65,7 +65,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/3435170.md) -->
 
@@ -80,7 +80,7 @@ tag:
 ## Opinion
 
 - [blog.shiren.dev/2020-11-23](https://blog.shiren.dev/2020-11-23): 누구나 원하는 개발자되기
-- [<FontIcon icon="iconfont icon-github"/>`ksundong/backend-interview-question`](https://github.com/ksundong/backend-interview-question): 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
+- [<VPIcon icon="iconfont icon-github"/>`ksundong/backend-interview-question`](https://github.com/ksundong/backend-interview-question): 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 
 ---
 
@@ -96,7 +96,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - 정보처리기사를 준비해보자.](https://blex.me/@mildsalmon/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%EB%A5%BC-%EC%A4%80%EB%B9%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [`@mildsalmon` - 자격증 취득기](https://blex.me/@mildsalmon/%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D%EA%B8%B0)
@@ -118,7 +118,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@tmmoond8` - Noticon 프로젝트 리뷰](https://velog.io/@tmmoond8/Noticon-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A6%AC%EB%B7%B0)
 - [`@endmoseung` - 꾸준함과 당연하다는것](https://velog.io/@endmoseung/%EA%BE%B8%EC%A4%80%ED%95%A8%EA%B3%BC-%EB%8B%B9%EC%97%B0%ED%95%98%EB%8B%A4%EB%8A%94%EA%B2%83)
@@ -173,7 +173,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`jungil.han` / 사이드 프로젝트, 10년 간의 기록 #1](https://medium.com/@jungil.han/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%ED%8C%8C%ED%8A%B8-1-63bc25f8dcfc)
 - [`delightroom` - 1년 만에 성공한 온보딩 실험 작업기](https://medium.com/delightroom/1%EB%85%84-%EB%A7%8C%EC%97%90-%EC%84%B1%EA%B3%B5%ED%95%9C-%EC%98%A8%EB%B3%B4%EB%94%A9-%EC%8B%A4%ED%97%98-%EC%9E%91%EC%97%85%EA%B8%B0-5b96330a3bb3)
@@ -209,7 +209,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`@devlawrence` / How to build a Good Portfolio Website - My Approach.](https://dev.to/devlawrence/how-to-build-a-good-portfolio-website-my-approach-14dj)
 - [`ilonacodes` / The Importance of Financial Independence For Software Developers](https://dev.to/ilonacodes/the-importance-of-financial-independence-for-software-developers-98m)

@@ -27,9 +27,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-microsoftazure"/>Azure
+### <VPIcon icon="iconfont icon-microsoftazure"/>Azure
 
 - [How to optimize performance when using pgvector on Azure Cosmos DB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/howto-optimize-performance-pgvector)
 

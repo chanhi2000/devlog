@@ -10,6 +10,7 @@ category:
 tag:
   - blog
   - py
+  - python
   - fastapi
   - py-fastapi
 head:

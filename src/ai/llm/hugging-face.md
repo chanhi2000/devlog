@@ -28,7 +28,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-huggingface"/>Hugging Face
+## <VPIcon icon="iconfont icon-huggingface"/>Hugging Face
 
 - [`stepfun-ai/GOT-OCR2_0`: General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
 

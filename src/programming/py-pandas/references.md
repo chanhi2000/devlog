@@ -30,7 +30,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+## <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 ### PyCharm
 
@@ -38,19 +38,19 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`betterprogramming` / Pandas Illustrated: The Definitive Visual Guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`oscarleo` / How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[Pandas\] 실무에서 쓰려고 정리해둔 Code Snippet](https://velog.io/@euisuk-chung/Pandas-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EC%93%B0%EB%A0%A4%EA%B3%A0-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%91%94-Code-Snippet)
 

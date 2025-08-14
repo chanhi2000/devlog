@@ -50,15 +50,15 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+### <VPIcon icon="fa-brands fa-chrome"/>Chrome for Developers
 
 - [개발자를 위한 새로운 SameSite=None; 보안 쿠키 설정에 대비하기](https://developers-kr.googleblog.com/2020/01/developers-get-ready-for-new.html)
 - [Inside look at modern web browser (part 1)](https://developer.chrome.com/blog/inside-browser-part1)
 - [Chrome's Headless mode gets an upgrade: introducing --headless=new](https://developer.chrome.com/docs/chromium/new-headless?hl=en)
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chromium blog
+### <VPIcon icon="fa-brands fa-chrome"/>Chromium blog
 
 - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 - [Introducing Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
@@ -79,7 +79,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`cglikpo` - Chrome Extensions That Make My Work a Bit Easier](https://dev.to/cglikpo/chrome-extensions-that-make-my-work-a-bit-easier-4jop)
 

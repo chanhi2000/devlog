@@ -31,7 +31,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`taesulee93` / Diagram as Code with Mermaid](https://medium.com/@taesulee93/diagram-as-code-with-mermaid-bfa0da0ace80)
 

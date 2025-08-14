@@ -47,7 +47,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / (설명추가) Perplexity와 BLEU 스코어에 대한 상세 정리](https://velog.io/@euisuk-chung/%EC%84%A4%EB%AA%85%EC%B6%94%EA%B0%80-Perplexity%EC%99%80-BLEU-%EC%8A%A4%EC%BD%94%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%81%EC%84%B8-%EC%A0%95%EB%A6%AC)
 

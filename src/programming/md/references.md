@@ -25,14 +25,14 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [apple/swift-testing](https://raw.githubusercontent.com/apple/swift-testing/main/README.md)
 - [`ihoneymon/how-to-write-by-markdown.md`](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`sunnat_qayumov_2db67b1ba1` / Windows Commands.](https://dev.to/sunnat_qayumov_2db67b1ba1/windows-commands-2m2i)
 

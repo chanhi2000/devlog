@@ -39,11 +39,11 @@ prev: /programming/gradle/snippets/README.md
 
 특정 모듈명을 사용하기 위한 작업
 
-> .<FontIcon icon="fas fa-folder-open"/>`./`<FontIcon icon="iconfont icon-gradle"/>`settings.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./`<VPIcon icon="iconfont icon-gradle"/>`settings.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>build.gradle
+@tab:active <VPIcon icon="iconfont icon-gradle"/>build.gradle
 
 ```groovy
 rootProject.name = "onnaramobile"
@@ -54,7 +54,7 @@ include ":ws-BmsSifSchViewService"
 project(":ws-BmsSifSchViewService").name = "BmsSifSchViewService" 
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 // TODO: 작성

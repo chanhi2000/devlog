@@ -10,6 +10,7 @@ category:
 tag: 
   - php
   - laravel
+  - php-laravel
   - education
   - youtube
   - programming

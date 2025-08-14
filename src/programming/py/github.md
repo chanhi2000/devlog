@@ -9,8 +9,8 @@ category:
 tag: 
   - git
   - github
-  - python
   - py
+  - python
 head:
   - - meta:
     - property: og:title

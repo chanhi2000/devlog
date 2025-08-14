@@ -76,7 +76,7 @@
         </div>
         <div class="meta-sub">
           <a @click="doCopyGithubJson(item.repoFullName)">
-            <FontIcon 
+            <VPIcon 
               icon="iconfont icon-json"
             />
           </a>

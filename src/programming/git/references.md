@@ -29,11 +29,11 @@ head:
 
 <PDF url="https://wizardzines.com/git-cheat-sheet.pdf" />
 
-![[<FontIcon icon="fas fa-globe"/>Git Cheatsheet](https://wall-skills.com/2013/git-cheat-sheet/)](https://wall-skills.com/wp-content/uploads/2013/12/git-Cheat-Sheet_Wall-Skills1.png)
+![[<VPIcon icon="fas fa-globe"/>Git Cheatsheet](https://wall-skills.com/2013/git-cheat-sheet/)](https://wall-skills.com/wp-content/uploads/2013/12/git-Cheat-Sheet_Wall-Skills1.png)
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [`eashish93` / git-cheatsheet.md`](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
 - [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
@@ -72,13 +72,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [How to Write Commit Messages that Project Maintainers Will Appreciate](https://freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` - Git tutorial](https://velog.io/@eunbibi/Git-tutorial)
 - [`@eunbibi` - Tag](https://velog.io/@eunbibi/Tag)
@@ -92,7 +92,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`@phukon` - How I write Commits like a pro](https://dev.to/phukon/how-i-write-commits-like-a-pro-340l)
 - [`samuelfaure` - How atomic Git commits dramatically increased my productivity - and will increase yours too](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
@@ -136,7 +136,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [Writing Better Commits](https://itnext.io/writing-better-commits-6a1691c12772)
 - [`@patrickporto` / 4 branching workflows for Git](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)

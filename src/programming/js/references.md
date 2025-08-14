@@ -25,9 +25,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+### <VPIcon icon="fa-brands fa-chrome"/>Chrome for Developers
 
 - [Chrome's Headless mode gets an upgrade: introducing --headless=new](https://developer.chrome.com/docs/chromium/new-headless?hl=en)
 
@@ -39,7 +39,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-firefox"/>Mozilla
+## <VPIcon icon="fa-brands fa-firefox"/>Mozilla
 
 - [Developer essentials: JavaScript `console` methods](https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/)
 - [New JavaScript Set methods](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
@@ -66,9 +66,9 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
-### <FontIcon icon="iconfont icon-kakao"/>카카오엔터테인먼트 FE
+### <VPIcon icon="iconfont icon-kakao"/>카카오엔터테인먼트 FE
 
 - [타입스크립트 꿀팁](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/fe-developers.kakaoent.com/211012-typescript-tip.md) -->
 
@@ -93,7 +93,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`yanhaijing` / Mastering JavaScript: Multiple Ways to Generate a Two-Dimensional Array](https://dev.to/yanhaijing/mastering-javascript-multiple-ways-to-generate-a-two-dimensional-array-cpg)
 - [`documatic` / 5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
@@ -103,7 +103,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 자바스크립트의 복사](https://blex.me/@baealex/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%B3%B5%EC%82%AC)
 - [`@laetipark` - 브롤스타즈 API 전적 사이트 : 개요 및 개발 환경](https://blex.me/@laetipark/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88-api-%EC%A0%84%EC%A0%81-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EC%9A%94-%EB%B0%8F-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
@@ -143,7 +143,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`remvst` / Path to Glory — post mortem (JS13K 2023)](https://remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621)
 - [`nmc-techblog` / Introducing: The Async Cookie Store API](https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f)
@@ -170,7 +170,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@wooder2050` / JS스럽게 좋은 코드 쓰기 꿀팁](https://velog.io/@wooder2050/JS%EC%8A%A4%EB%9F%BD%EA%B2%8C-%EC%A2%8B%EC%9D%80-%EC%BD%94%EB%93%9C-%EC%93%B0%EA%B8%B0-%EA%BF%80%ED%8C%81)
 - [`@dongha1992` / \[프로그래머스\] 다단계 칫솔 판매](https://velog.io/@dongha1992/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A4%EB%8B%A8%EA%B3%84-%EC%B9%AB%EC%86%94-%ED%8C%90%EB%A7%A4)

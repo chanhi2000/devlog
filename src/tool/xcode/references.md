@@ -39,7 +39,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`soumyamahunt` - Support Swift macros with CocoaPods](https://soumyamahunt.medium.com/support-swift-macros-with-cocoapods-3911f9317042)
 - [`okanghoon` - Xcode 프로젝트 관리를 위한 Tuist 알아보기](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)

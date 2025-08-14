@@ -7,9 +7,18 @@ category:
   - Python
   - Flask
 tag:
-  - python
   - py
+  - python
+  - flask
   - py-flask
+head:
+  - - meta:
+    - property: og:title
+      content: Flask
+    - property: og:description
+      content: Flask
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/py-flask/
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -5,7 +5,7 @@
   >
     <div class="container container-h-align-center">
       <div class="container container-v-align-center">
-        <FontIcon icon="iconfont icon-play"/>
+        <VPIcon icon="iconfont icon-play"/>
         <div class="container-h-align-center box box-input">
           <input
             v-model="text"
@@ -35,12 +35,12 @@
         </div>
       </div>
     </div>
-    <summary><FontIcon icon="iconfont icon-play"/> YouTubeInfo</summary>
+    <summary><VPIcon icon="iconfont icon-play"/> YouTubeInfo</summary>
   </details>
 </template>
 <script>
-// import FontIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
-import { FontIcon } from '../../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
+// import VPIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/VPIcon'
+import { VPIcon } from '../../../node_modules/@vuepress/plugin-icon/lib/client'
 import * as Prism from 'prismjs'
 import axios from 'axios'
 import 'prismjs/components/prism-json'
@@ -48,7 +48,7 @@ import 'prismjs/plugins/line-numbers/prism-line-numbers'
 import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 export default {
   name: "YouTubeInfoGenBox",
-  components: { FontIcon },
+  components: { VPIcon },
   data() {
     return {
       text: '',

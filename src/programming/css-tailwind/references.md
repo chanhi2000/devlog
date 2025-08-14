@@ -32,14 +32,14 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-tailwindcss"/>Tailwind CSS
+## <VPIcon icon="iconfont icon-tailwindcss"/>Tailwind CSS
 
 - [Tailwind Connect 2023: Recap of our first in-person event](https://tailwindcss.com/blog/2023-07-18-tailwind-connect-2023-recap)
 - [Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오엔터테인먼트 FE
 
@@ -47,7 +47,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@composite` / Monorepo 및 Workspace 프로젝트에서 tailwindcss 팁](https://velog.io/@composite/Monorepo-%EB%B0%8F-Workspace-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-tailwindcss-%ED%8C%81)
 

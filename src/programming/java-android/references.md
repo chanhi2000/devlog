@@ -26,9 +26,9 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-android"/>Android Developers
+### <VPIcon icon="fa-brands fa-android"/>Android Developers
 
 - [Migrate from SQLite to Room](https://developer.android.com/training/data-storage/room/sqlite-room-migration?hl=en)
 [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
@@ -41,13 +41,13 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-github"/>`microsoft/WSA`: Windows Subsystem for Android™ and the Amazon Appstore will no longer be available in the Microsoft Store after March 5, 2025. #536](https://github.com/microsoft/WSA/discussions/536)
+- [<VPIcon icon="iconfont icon-github"/>`microsoft/WSA`: Windows Subsystem for Android™ and the Amazon Appstore will no longer be available in the Microsoft Store after March 5, 2025. #536](https://github.com/microsoft/WSA/discussions/536)
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+## <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [How do I get an apk file from an Android device?](https://stackoverflow.com/questions/4032960/how-do-i-get-an-apk-file-from-an-android-device)
 - [Bottom app bar problem with placing icons](https://stackoverflow.com/questions/54767397/bottom-app-bar-problem-with-placing-icons)
@@ -98,7 +98,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`bladecoder`/ Kotlin JSON Benchmark on Android (2022): Moshi vs Kotlin Serialization](https://bladecoder.medium.com/kotlin-json-benchmark-on-android-2022-moshi-vs-kotlin-serialization-18436c0596c3)
 - [`tanaytandon` / Unit testing a fragment with View Model in Android](https://medium.com/@tanaytandon/unit-testing-a-fragment-with-view-model-in-android-172fcd7807aa)
@@ -226,7 +226,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`dbriane208` / The Fundamentals of Android Development.](https://dev.to/dbriane208/the-fundamentals-of-android-development-1ffi)
 - [`ardakazanci` / Creating Dynamic Menus with Jetpack Compose](https://dev.to/ardakazanci/creating-dynamic-menus-with-jetpack-compose-68a?)
@@ -242,7 +242,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@kkaemi` / [android] Notification 등록시 Head Up Notification 뜨지 않는 현상](https://velog.io/@kkaemi/android-Notification-%EB%93%B1%EB%A1%9D%EC%8B%9C-Head-Up-Notification-%EB%9C%A8%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%98%84%EC%83%81)
 - [`@jinny_0422` / [Android] 불러온 Image Crop하기](https://velog.io/@jinny_0422/Android%EB%B6%88%EB%9F%AC%EC%98%A8ImageCrop%ED%95%98%EA%B8%B0)
@@ -259,7 +259,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` / 안드로이드 폰을 개발 서버로 만들기](https://blex.me/@baealex/development-environment-within-android)
 - [`@baealex` / termux 'process completed signal 9 press enter' 해결](https://blex.me/@baealex/how-to-fix-termux-process-completed-signal-9)
@@ -678,7 +678,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-meta"/>Engineering at Meta
+## <VPIcon icon="fa-brands fa-meta"/>Engineering at Meta
 
 - [From zero to 10 million lines of Kotlin](https://engineering.fb.com/2022/10/24/android/android-java-kotlin-migration/)
 

@@ -22,7 +22,7 @@ tag:
 
 ## `ssh-keygen`
 
-### <FontIcon icon="fas fa-file-lines"/>`id_rsa` 파일 생성
+### <VPIcon icon="fas fa-file-lines"/>`id_rsa` 파일 생성
 
 ::: tabs
 

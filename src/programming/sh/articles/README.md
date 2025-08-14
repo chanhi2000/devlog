@@ -105,7 +105,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -379,7 +379,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.co
 

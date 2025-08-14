@@ -124,19 +124,19 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/2838729.md) -->
 
 ---
 
-## <FontIcon icon="iconfont icon-notion"/>Notion
+## <VPIcon icon="iconfont icon-notion"/>Notion
 
 - [React Native 2020](https://www.notion.so/React-Native-2020-444084ec7aa44a509df33f8a3ae2edb3)
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [about React](https://dev.to/t/react)
 - [`nilanth` / Multi-threaded React App using useWorker](https://dev.to/nilanth/multi-threaded-react-app-using-useworker-gf8)
@@ -171,7 +171,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`novu` / Building a chat app with Socket.io and React Native 🤯](https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b)
 - [[Javascript Toy Project] Notes App 노트앱 만들기 토이프로젝트](https://velog.io/@eunjin/Javascript-%EB%85%B8%ED%8A%B8%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
@@ -277,7 +277,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [about React](https://freecodecamp.org/news/tag/react)
 - [What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes](https://freecodecamp.org/news/what-is-hoisting-in-javascript-3)
@@ -295,15 +295,15 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Introducing Deopt Explorer](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer)
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -394,7 +394,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`ljs0705` / 카카오페이지 웹 React 포팅 후기](https://ljs0705.medium.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
 - [`@rivoltafilippo` / Mastering Frontend Interviews: A Deep Dive into React Virtualized Lists](https://medium.com/@rivoltafilippo/mastering-frontend-interviews-a-deep-dive-into-react-virtualized-lists-10600536d540)
@@ -449,7 +449,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` / React - Server Component](https://blex.me/@baealex/react-server-component)
 - [`@devkonis` / [REACT] 애니메이션 활용시 비동기 데이터 문제점](https://blex.me/@devkonis/react-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%ED%99%9C%EC%9A%A9%EC%8B%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%A0%9C%EC%A0%90)

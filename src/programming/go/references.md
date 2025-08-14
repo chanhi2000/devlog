@@ -17,7 +17,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-golang"/>Go
+## <VPIcon icon="fa-brands fa-golang"/>Go
 
 - [WASI support in Go](https://go.dev/blog/wasi)
 - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
@@ -25,7 +25,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 ```component VPCard
 {
@@ -47,7 +47,7 @@ tag:
 }
 ```
 
-## <FontIcon icon="iconfont icon-kakao"/>Kakao
+## <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 ### 카카오테크, 미래의 문턱을 낮추는 기술
 
@@ -63,7 +63,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@kandy1002` / [Go Fiber Contribution] 백엔드 스토리지 드라이버 추가하기](https://velog.io/@kandy1002/Go-Fiber-Contribution-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 - [`@simp7` / Golang에서의 발행-구독 모델](https://velog.io/@simp7/pub-sub-pattern-from-golang)
@@ -73,7 +73,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [How Go fixed everything that was wrong with programming](https://medium.com/@jankammerath/how-go-fixed-everything-that-was-wrong-with-programming-1b599a1055a8)
 - [Stop Using DTOs in Go, It's Not Java](https://dsysd-dev.medium.com/stop-using-dtos-in-go-its-not-java-96ef4794481a)
@@ -91,7 +91,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Learn How to Setup a CI/CD Pipeline from Scratch](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
 

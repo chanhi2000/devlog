@@ -26,7 +26,7 @@ tag:
 
 ::: tabs
 
-@tab <FontIcon icon="fas fa-skull"/>증상
+@tab <VPIcon icon="fas fa-skull"/>증상
 
 ```sh
 ssh root@192.168.0.80 -p 22
@@ -46,7 +46,7 @@ ssh root@192.168.0.80 -p 22
 # Host key verification failed.
 ```
 
-@tab <FontIcon icon="fas fa-stethoscope"/>해결
+@tab <VPIcon icon="fas fa-stethoscope"/>해결
 
 - 커맨드 불량
 
@@ -58,10 +58,10 @@ ssh root@192.168.0.80 -p 22
 
 - Secret 재등록 필요
 
-- .<FontIcon icon="fas fa-folder-open"/>`<홈>/.ssh/`<FontIcon icon="fas fa-file-lines"/>`known_hosts` 경로 /파일 존재확인
-  - (<FontIcon icon="fa-brands fa-windows"/> 윈도우 경우) `%UserProfile%\.ssh\`<FontIcon icon="fas fa-file-lines"/>`known_hosts`
+- .<VPIcon icon="fas fa-folder-open"/>`<홈>/.ssh/`<VPIcon icon="fas fa-file-lines"/>`known_hosts` 경로 /파일 존재확인
+  - (<VPIcon icon="fa-brands fa-windows"/> 윈도우 경우) `%UserProfile%\.ssh\`<VPIcon icon="fas fa-file-lines"/>`known_hosts`
 
-> <FontIcon icon="fas fa-file-lines"/>`known_hosts`
+> <VPIcon icon="fas fa-file-lines"/>`known_hosts`
 
 ```{3}
 # 192.168.0.53 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHUE6W2QfyScJlHNodcrGQ+iwDNgTSJ5jy/7UJs8G+81JpXIvinLP33ZhJbKUHBTG7HjIq4EJwu+3jV9fJsuN7k=

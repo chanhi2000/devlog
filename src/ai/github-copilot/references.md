@@ -28,7 +28,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [GitHub Copilot Chat beta now available for every organization](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization)
 - [GitHub Copilot Workspace: Welcome to the Copilot-native developer environment](https://github.blog/2024-04-29-github-copilot-workspace/)
@@ -38,7 +38,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`wisepine` / 나의 GitHub Copilot 활용법 & Tip (for IntelliJ)](https://velog.io/@wisepine/%EB%82%98%EC%9D%98-Github-Copilot-%ED%99%9C%EC%9A%A9%EB%B2%95-Tip-for-IntelliJ)
 

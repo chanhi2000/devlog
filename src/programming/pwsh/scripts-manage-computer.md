@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`add-firewall-rules.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`add-firewall-rules.ps1`
 
 ```component VPCard
 {
@@ -136,7 +136,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-cpu.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-cpu.ps1`
 
 ```component VPCard
 {
@@ -251,7 +251,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-dns.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-dns.ps1`
 
 ```component VPCard
 {
@@ -331,7 +331,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-drive-space.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-drive-space.ps1`
 
 ```component VPCard
 {
@@ -428,7 +428,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-file-system.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-file-system.ps1`
 
 ```component VPCard
 {
@@ -509,7 +509,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-health.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-health.ps1`
 
 ```component VPCard
 {
@@ -573,7 +573,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-ping.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-ping.ps1`
 
 ```component VPCard
 {
@@ -668,7 +668,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-swap-space.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-swap-space.ps1`
 
 ```component VPCard
 {
@@ -783,7 +783,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`check-windows-system-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`check-windows-system-files.ps1`
 
 ```component VPCard
 {
@@ -849,7 +849,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`enable-crash-dumps.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`enable-crash-dumps.ps1`
 
 ```component VPCard
 {
@@ -1185,7 +1185,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`hibernate.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`hibernate.ps1`
 
 ```component VPCard
 {
@@ -1250,7 +1250,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-github-cli.ps1`	
+## <VPIcon icon="iconfont icon-powershell"/>`install-github-cli.ps1`	
 
 ```component VPCard
 {
@@ -1314,7 +1314,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-chrome-browser.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-chrome-browser.ps1`
 
 ```component VPCard
 {
@@ -1382,7 +1382,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-knot-resolver.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-knot-resolver.ps1`
 
 ```component VPCard
 {
@@ -1461,7 +1461,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-ssh-client.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-ssh-client.ps1`
 
 ```component VPCard
 {
@@ -1532,7 +1532,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-ssh-server.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-ssh-server.ps1`
 
 ```component VPCard
 {
@@ -1617,7 +1617,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-signal-cli.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-signal-cli.ps1`
 
 ```component VPCard
 {
@@ -1629,7 +1629,7 @@ try {
 }
 ```
 
-This PowerShell script installs `signal-cli` from [<FontIcon icon="iconfont icon-github"/>AsamK/signal-cli](https://github.com/AsamK/signal-cli).
+This PowerShell script installs `signal-cli` from [<VPIcon icon="iconfont icon-github"/>AsamK/signal-cli](https://github.com/AsamK/signal-cli).
 
 See the Web page for the correct version number.
 
@@ -1715,7 +1715,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-updates.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-updates.ps1`
 
 ```component VPCard
 {
@@ -1796,7 +1796,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`install-wsl.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`install-wsl.ps1`
 
 ```component VPCard
 {
@@ -1877,7 +1877,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-apps.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-apps.ps1`
 
 ```component VPCard
 {
@@ -1941,7 +1941,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-cli-tools.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-cli-tools.ps1`
 
 ```component VPCard
 {
@@ -2288,7 +2288,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-dns-servers.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-dns-servers.ps1`
 
 ```component VPCard
 {
@@ -2373,7 +2373,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-drives.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-drives.ps1`
 
 ```component VPCard
 {
@@ -2439,7 +2439,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-network-shares.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-network-shares.ps1`
 
 ```component VPCard
 {
@@ -2507,7 +2507,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-installed-software.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-installed-software.ps1`
 
 ```component VPCard
 {
@@ -2578,7 +2578,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-printers.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-printers.ps1`
 
 ```component VPCard
 {
@@ -2645,7 +2645,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-print-jobs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-print-jobs.ps1`
 
 ```component VPCard
 {
@@ -2738,7 +2738,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-processes.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-processes.ps1`
 
 ```component VPCard
 {
@@ -2809,7 +2809,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-services.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-services.ps1`
 
 ```component VPCard
 {
@@ -2880,7 +2880,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-system-info.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-system-info.ps1`
 
 ```component VPCard
 {
@@ -3031,7 +3031,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-tasks.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-tasks.ps1`
 
 ```component VPCard
 {
@@ -3099,7 +3099,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-timezone.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-timezone.ps1`
 
 ```component VPCard
 {
@@ -3169,7 +3169,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-timezones.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-timezones.ps1`
 
 ```component VPCard
 {
@@ -3242,7 +3242,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`list-user-groups.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`list-user-groups.ps1`
 
 ```component VPCard
 {
@@ -3313,7 +3313,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`poweroff.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`poweroff.ps1`
 
 ```component VPCard
 {
@@ -3381,7 +3381,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`query-smart-data.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`query-smart-data.ps1`
 
 ```component VPCard
 {
@@ -3498,7 +3498,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`reboot.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`reboot.ps1`
 
 ```component VPCard
 {
@@ -3566,7 +3566,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`remove-print-jobs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`remove-print-jobs.ps1`
 
 ```component VPCard
 {
@@ -3641,7 +3641,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`restart-network-adapters.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`restart-network-adapters.ps1`
 
 ```component VPCard
 {
@@ -3711,7 +3711,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`upgrade-ubuntu.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`upgrade-ubuntu.ps1`
 
 ```component VPCard
 {
@@ -3807,7 +3807,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`wakeup.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`wakeup.ps1`
 
 ```component VPCard
 {

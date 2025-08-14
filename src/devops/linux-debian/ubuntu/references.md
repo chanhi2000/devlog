@@ -22,7 +22,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-swift"/>Swift
+## <VPIcon icon="fa-brands fa-swift"/>Swift
 
 - [Getting Started with the Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 

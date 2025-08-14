@@ -28,7 +28,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 - [Microsoft technical breakdown of CrowdStrike incident](https://microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools)
 
@@ -48,11 +48,11 @@ tag:
 
 ## Cheatsheet(s)
 
-- [<FontIcon icon="iconfont icon-github"/>`bluecapesecurity/PWF`](https://github.com/bluecapesecurity/PWF)
+- [<VPIcon icon="iconfont icon-github"/>`bluecapesecurity/PWF`](https://github.com/bluecapesecurity/PWF)
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Google Security Blog
 
@@ -64,13 +64,13 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 - [13 Types of Cyber Attacks You Should Know in 2023](https://freecodecamp.org/news/types-of-cyber-attacks-to-know)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`infosecwriteups` / Binex — TryHackMe Room Simple Writeup | Karthikeyan Nagaraj](https://infosecwriteups.com/binex-970-points-tryhackme-room-simple-writeup-karthikeyan-nagaraj-33a5e71a31bd)
 - [`nocturno` / TryHackMe.com: WebOSINT — WriteUp](https://blog.nocturno.dev/tryhackme-com-webosint-writeup-174e8806bf1a)
@@ -82,7 +82,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@ilotoki0804` / KT 60만명 해킹의 심각성: 사상 최악의 사이버 범죄로부터 당신은 지금도 안전하지 않다](https://velog.io/@ilotoki0804/kt)
 

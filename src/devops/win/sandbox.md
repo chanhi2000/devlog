@@ -104,13 +104,13 @@ pause
 
 ![Now, click on "File" in the top menu and choose "Save as".](https://beebom.com/wp-content/uploads/2022/09/218.jpg?quality=75&strip=all)
 
-![After that, select "All files(.)" from the "Save as type" drop-down menu and give a name to the file. Then, add the <FontIcon icon="fas fa-gears"/>`.bat` extension at the end to save it as a batch file. Make sure there is no `.txt` or other file extension at the end. Finally, click on "Save".](https://beebom.com/wp-content/uploads/2022/09/219.jpg?quality=75&strip=all)
+![After that, select "All files(.)" from the "Save as type" drop-down menu and give a name to the file. Then, add the <VPIcon icon="fas fa-gears"/>`.bat` extension at the end to save it as a batch file. Make sure there is no `.txt` or other file extension at the end. Finally, click on "Save".](https://beebom.com/wp-content/uploads/2022/09/219.jpg?quality=75&strip=all)
 
 ![Now, right-click on the saved batch file and choose "Run as administrator".](https://beebom.com/wp-content/uploads/2022/09/220.jpg?quality=75&strip=all)
 
 ![A Command Prompt window will open up, and Windows Sandbox will start getting installed on your Windows 11 Home PC. After the installation, press <kbd>y</kbd> and hit <kbd>Enter</kbd>. This will restart your Windows 11 computer.](https://beebom.com/wp-content/uploads/2022/09/221.jpg?quality=75&strip=all)
 
-![Once you have logged in, use the Windows 11 keyboard shortcut <kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd> keys to open the Run prompt. Here, you need to type <FontIcon icon="fas fa-gears"/>`optionalfeatures.exe` and hit <kbd>Enter</kbd>.](https://beebom.com/wp-content/uploads/2021/12/12.jpg?quality=75&strip=all)
+![Once you have logged in, use the Windows 11 keyboard shortcut <kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd> keys to open the Run prompt. Here, you need to type <VPIcon icon="fas fa-gears"/>`optionalfeatures.exe` and hit <kbd>Enter</kbd>.](https://beebom.com/wp-content/uploads/2021/12/12.jpg?quality=75&strip=all)
 
 ![A "Windows Features" window will now open up. Here, scroll down and **enable Windows Sandbox**, Virtual Machine Platform, and Windows Hypervisor Platform. Finally, hit the OK button. It will start installing the necessary packages and after a while, will ask you to restart the computer.](https://beebom.com/wp-content/uploads/2022/09/222.jpg?quality=75&strip=all)
 
@@ -138,7 +138,7 @@ Hyper-V는 Windows에서 가상화 기능을 사용하기 위해 Microsoft에서
 
 ### Hyper-V 설치 스크립트 생성
 
-![먼저 컴퓨터에서 새 메모장 파일을 엽니다. 키보드 단축키 <kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd> 키를 누르고 실행 대화 상자에서 `notepad` 입력 후 <kbd>Enter</kbd> 키를 눌러 메모장을 실행합니다.](https://geekorea.com/wp-content/uploads/2024/01/02.enable_hyper-v_win11_home.png)
+![먼저 컴퓨터에서 새 메모장 파일을 엽니다. 키보드 단축키 <kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd> 키를 누르고 실행 대화 상자에서 `notepad` 입력 후 <kbd>Enter</kbd> 키를 눌러 메모장을 실행합니다.](https://geekorea.com/wp-content/uploads/2024/01/02.enable_hyper-v_win11_home.png)
 
 
 이제 메모장에 다음 스크립트를 복사하여 붙여넣습니다.

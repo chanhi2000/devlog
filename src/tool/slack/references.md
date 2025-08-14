@@ -35,7 +35,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@identity16` / 💸 무료로 Sentry 알림을 슬랙으로 받아보자](https://velog.io/@identity16/Sentry-%EB%AC%B4%EB%A3%8C-%ED%94%8C%EB%9E%9C%EC%97%90%EC%84%9C-%EC%8A%AC%EB%9E%99-%EC%95%8C%EB%A6%BC%EC%9D%84-%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90)
 

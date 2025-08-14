@@ -23,7 +23,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`robertjune` / PO는 어떤 역량을 강화해야 할까?](https://robertjune.medium.com/po%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%97%AD%EB%9F%89%EC%9D%84-%EA%B0%95%ED%99%94%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-0b0e751380b5?source=rss-e8d4ff6dbfd8------2)
 

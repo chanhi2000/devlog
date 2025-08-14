@@ -41,11 +41,11 @@ prev: /programming/gradle/snippets/README.md
 
 웹브라우저로 페이지를 열기 위한 task
 
-> ./<FontIcon icon="fas fa-folder-open"/>`./<모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> ./<VPIcon icon="fas fa-folder-open"/>`./<모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>Groovy
+@tab:active <VPIcon icon="iconfont icon-gradle"/>Groovy
 
 ```groovy
 task openBrowser {
@@ -59,7 +59,7 @@ task openBrowser {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 import java.awt.Desktop

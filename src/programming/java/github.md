@@ -31,7 +31,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-java"/>Java
+## <VPIcon icon="fa-brands fa-java"/>Java
 
 <MyGithubItems jsonName="lang-java" />
 
@@ -41,7 +41,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 <MyGithubItems jsonName="lang-kotiln" />
 

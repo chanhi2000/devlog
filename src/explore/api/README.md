@@ -14,7 +14,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fas fa-bookmark"/>Bookmarks
+## <VPIcon icon="fas fa-bookmark"/>Bookmarks
 
 <VPBanner
   title="Simple Icons"
@@ -519,6 +519,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   "background": "rgba(10,10,10,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Index - ReadmeAI"
+  desc="ReadmeAI: Your AI-powered documentation assistant. Designed for simplicity, customization, and developer productivity."
+  url="https://docs.readme-ai.com"
+  logo="https://eli64s.github.io/readme-ai/assets/images/favicon.png"
+  preview="https://docs.readme-ai.com/assets/images/social/index.png"/>
 
 <!-- END: Programming Tools - General -->
 
@@ -1429,6 +1436,33 @@ http://texturer.com/
   url="https://freesets.dev/"
   logo="https://freesets.dev/favicon.svg"
   preview="https://res.cloudinary.com/cosmocloudinary/image/upload/f_auto,q_auto/v1/freesets/og/home"/>
+
+<SiteInfo
+  name="Favicon Generator for perfect icons on all browsers"
+  desc="The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages."
+  url="https://realfavicongenerator.net"
+  logo="https://realfavicongenerator.net/icon1.png?2756e3165bd3c99b"
+  preview="https://realfavicongenerator.net/assets/images/social/open-graph?title=Favicon%20Generator%20for%20perfect%20icons%20on%20all%20browsers"/>
+
+```component VPCard
+{
+  "title": "SvgPathEditor",
+  "desc": "Online editor to create and manipulate SVG paths",
+  "link": "https://yqnn.github.io/svg-path-editor",
+  "logo": "https://yqnn.github.io/svg-path-editor/favicon.ico",
+  "background": "rgba(33,150,243,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Boxy SVG 편집기",
+  "desc": "Create and edit Scalable Vector Graphics (SVG) files online",
+  "link": "https://boxy-svg.com/app/",
+  "logo": "https://boxy-svg.com/icons/favicon.svg",
+  "background": "rgba(244,245,255,0.2)"
+}
+```
 
 <!-- END: Design & Image -->
 

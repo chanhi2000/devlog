@@ -16,9 +16,9 @@ export default hopeTheme({
   repoDisplay: true,
   lastUpdated: true,
   footer: 'MIT Licensed | Copyright © 2022-present <a href="https://github.com/chanhi2000">Chan Hee Lee</a>',
-  hostname: "https://chanhi2000.github.io/",
-  iconAssets: "fontawesome-with-brands",
   displayFooter: true,
+  hostname: "https://chanhi2000.github.io/",
+  // iconAssets: "fontawesome-with-brands",
   docsDir: 'src',
   navbar: navbarEn,
   sidebar: sidebarEn,
@@ -31,11 +31,8 @@ export default hopeTheme({
     intro: 'https://chanhi2000.github.io',
     description: "프로그램이 작성되는 환경부터 배포되는 환경까지 적용하는 개발자 이찬희 입니다.",
     avatar: 'https://avatars.githubusercontent.com/u/6296241?v=4',
-    // roundAvatar: true,
     medias: {
       GitHub: "https://github.com/chanhi2000",
-      // Facebook: "https://facebook.com/spamlove",
-      // Instagram: "https://instagram.com/chanhi2000",
       Notion: {
         icon: 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg',
         link: 'https://markiiimark.notion.site/MarkiiimarK-Fullstack-DevOps-c231ae6c157d4baba89a3713c92449dd'
@@ -47,26 +44,84 @@ export default hopeTheme({
   metaLocales: {
     editLink: "Edit this page on GitHub",
   },
+  markdown: {
+    footnote: true,
+    tasklist: true,
+    component: true,
+    vPre: true,
+    include: true,
+    align: true,
+    attrs: true,
+    mark: true,
+    spoiler: true,
+    sup: true,
+    sub: true,
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    chartjs: true,
+    echarts: true,
+    flowchart: true,
+    mermaid: true,
+    plantuml: true,
+    demo: true,
+    vuePlayground: true,
+    kotlinPlayground: true,
+    sandpack: true,
+    alert: true,
+    hint: true,
+    math: {
+      type: 'katex', 
+      copy: false,
+    },
+    tabs: true,
+    codeTabs: true,
+    highlighter: {
+      type: "prismjs",
+      theme: "dracula",
+      notationDiff: true,
+      notationFocus: true,
+      notationHighlight: true,
+      notationErrorLevel: true,
+      // collapsedLines: 12,
+      // twoslash: {
+      //   twoslashOptions: {
+      //     compilerOptions: {
+      //       moduleResolution: /* bundler */ 100,
+      //     },
+      //   },
+      // }
+    },
+    figure: true,
+  },
   plugins: {
-    blog: true,
+    // blog: true,
     sitemap: true, // 임시적으로 안됨
     // {
     //   excludePaths: ['/404.html']
     // },
+    icon: {
+      assets: [
+        "fontawesome", 
+        "fontawesome-with-brands",
+        "/iconfont.css", 
+        "/iconfont-more.css"
+      ],
+    },
     components: {
       components: [
-        "VidStack", "FontIcon", "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
+        "VidStack"/* , "FontIcon" */, "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
       ],
-      componentOptions: {
-        fontIcon: {
-          assets: [
-            "fontawesome", 
-            "fontawesome-with-brands",
-            "/iconfont.css", 
-            "/iconfont-more.css"
-          ],
-        }
-      },
       rootComponents: {
       }
     },
@@ -92,65 +147,6 @@ export default hopeTheme({
       }*/
      ]
     },
-    prismjs: {
-      themes: {
-        light: "material-light",
-        dark: "dracula",
-      }
-    },
-    markdownHint: {
-      alert: true,
-      hint: true,
-    },
-    markdownImage: {
-      lazyload: true,
-      size: true,
-      figure: true
-    },
-    markdownMath: {
-      type: 'katex', 
-      copy: false,
-    },
-    markdownTab: {
-      tabs: true,
-      codeTabs: true
-    },
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      chart: true,
-      component: true,
-      demo: true,
-      echarts: true,
-      flowchart: true,
-      footnote: true,
-      include: true,
-      kotlinPlayground: true,
-      mark: true,
-      mermaid: true,
-      plantuml: true,
-      sandpack: true,
-      spoiler: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      // tabs: true,
-      tasklist: true,
-      vPre: true,
-      vuePlayground: true,
-    },
     copyCode: {
       locales: {
         "/": {
@@ -158,6 +154,9 @@ export default hopeTheme({
           copy: "Copy Codes from code block",
         }
       }
+    },
+    photoSwipe: {
+      download: false,
     },
     nprogress: true,
     git: {
@@ -167,8 +166,6 @@ export default hopeTheme({
     search: {
       isSearchable: (page) => page.path !== '/',
     },
-    photoSwipe: {},
-    
     pwa: {
     /*
       showInstall: true,

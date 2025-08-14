@@ -45,7 +45,7 @@ head:
 
 ### A1. `regedit` 설정
 
-> 윈도우 작업표시줄 검색창이나 <kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 <kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -74,21 +74,21 @@ REG add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Paramete
 
 ### A2. `gedit.msc` 설정
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `gpedit.msc`를 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `gpedit.msc`를 실행합니다.
 
-- .<FontIcon icon="iconfont icon-select"/>`[컴퓨터 구성]` -> `[관리 템플릿]` -> `[윈도 구성요소]` -> `[데이터 수집 및 preview 빌드]` -> `[원격 분석 허용 클릭]` -> `[사용 안함]` 설정
+- .<VPIcon icon="iconfont icon-select"/>`[컴퓨터 구성]` -> `[관리 템플릿]` -> `[윈도 구성요소]` -> `[데이터 수집 및 preview 빌드]` -> `[원격 분석 허용 클릭]` -> `[사용 안함]` 설정
 
 ### A3. `services.msc` 설정
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `services.msc`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `services.msc`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
-- .<FontIcon icon="iconfont icon-select"/>`[Connected User Experiences and Telemetry]` 시작유형 사용안함
+- .<VPIcon icon="iconfont icon-select"/>`[Connected User Experiences and Telemetry]` 시작유형 사용안함
 
 ---
 
 ## B. Winget
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -102,14 +102,14 @@ Copy and Paste the following to the Powershell Prompt
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
+@tab:active <VPIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
 winget install -e --id TableClothProject.TableCloth;
 get-appxpackage *feedback* | remove-appxpackage;
 ```
 
-@tab <FontIcon icon="fas fa-gears"/>cmd
+@tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
 winget install -e --id TableClothProject.TableCloth
@@ -121,7 +121,7 @@ winget install -e --id TableClothProject.TableCloth
 
 ## C. Chocolatey
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -139,26 +139,26 @@ Copy and Paste the following to the Powershell Prompt
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
+@tab:active <VPIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
-    dbeaver googlechrome fiddler windirstat 7zip `
+    dbeaver googlechrome glazewm fiddler windirstat 7zip `
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
 
-@tab <FontIcon icon="fas fa-gears"/>cmd
+@tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
-    dbeaver googlechrome fiddler windirstat 7zip ^
+    dbeaver googlechrome glazewm fiddler windirstat 7zip ^
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal ^
-    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
 
 :::
@@ -167,7 +167,7 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ## D. Scoop.sh
 
-> 윈도우 작업표시줄 검색창이나 실행 (<kbd><FontIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd> 눌러 실행합니다.
+> 윈도우 작업표시줄 검색창이나 실행 (<kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>) 열어서 `powershell`를 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Enter</kbd> 눌러 실행합니다.
 
 ::: warning Prerequesite(s)
 
@@ -186,20 +186,20 @@ Copy and Paste the following to the Powershell Prompt
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-powershell"/>powershell
+@tab:active <VPIcon icon="iconfont icon-powershell"/>powershell
 
 ```powershell
 scoop bucket add extras
 scoop install 7zip cheat hyperfine fastfetch nu `
-oh-my-posh terminal-icons tokei watchman git lazygit `
+oh-my-posh terminal-icons tokei watchman git lazygit zoxide`
 lazydocker
 ```
 
-@tab <FontIcon icon="fas fa-gears"/>cmd
+@tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
 scoop install 7zip cheat hyperfine fastfetch nu ^
-oh-my-posh terminal-icons tokei watchman git lazygit ^
+oh-my-posh terminal-icons tokei watchman git lazygit zoxide^
 lazydocker
 ```
 
@@ -215,19 +215,19 @@ lazydocker
 
 ::: tip NOTE
 
-[<FontIcon icon="iconfont icon-github"/>`chanhi2000/chan-alias`](https://github.com/chanhi2000/chan-alias) 참조
+[<VPIcon icon="iconfont icon-github"/>`chanhi2000/chan-alias`](https://github.com/chanhi2000/chan-alias) 참조
 
 :::
 
 ### E2. Guide
 
-- <kbd><FontIcon icon="fa-brands fa-windows"/></kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
+- <kbd><VPIcon icon="fa-brands fa-windows"/></kbd> + <kbd>r</kbd> 누른 후 `regedit` 실행
 - `HKEY_CURRENT_USER\Software\Microsoft\Command Processor` 경로로 이동
 - 창에 마우스 우클릭 후, 메뉴에서 `새로만들기` > `문자열 값` 선택 후 아래 값 입력
   - Key: `AutoRun`
   - Value: `%USERPROFILE%\alias.cmd`
 
-### E3. <FontIcon icon="fas fa-gears"/>`alias.cmd`
+### E3. <VPIcon icon="fas fa-gears"/>`alias.cmd`
 
 ```batch :collapsed-liens title="%UserProfile%\alias.cmd"
 @echo off
@@ -393,7 +393,7 @@ ECHO.
 @DOSKEY alias=subl %PATH_ALIAS_HOME%\%ALIAS_FNAME%
 ```
 
-### E4. <FontIcon icon="iconfont icon-powershell"/>`Microsoft.PowerShell_profile.ps1`
+### E4. <VPIcon icon="iconfont icon-powershell"/>`Microsoft.PowerShell_profile.ps1`
 
 > `$profile` 파일 내용
 
@@ -693,9 +693,9 @@ fastfetch
 
 ---
 
-### F. oh-my-posh's <FontIcon icon="iconfont icon-json"/>`schema.json`
+### F. oh-my-posh's <VPIcon icon="iconfont icon-json"/>`schema.json`
 
-> <FontIcon icon="fas fa-folder-open"/>저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
+> <VPIcon icon="fas fa-folder-open"/>저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
 
 ```json :collapsed-lines title="schema.json"
 {

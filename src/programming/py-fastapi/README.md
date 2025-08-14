@@ -8,8 +8,17 @@ category:
   - FastAPI
 tag:
   - py
+  - python
   - fastapi
   - py-fastapi
+head:
+  - - meta:
+    - property: og:title
+      content: Flask
+    - property: og:description
+      content: Flask
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/py-fastapi/
 ---
 
 # {{ $frontmatter.description }} 관련

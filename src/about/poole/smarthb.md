@@ -53,21 +53,21 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
 **협헙 환경**
 
-- <FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <FontIcon icon="fa-brands fa-jira"/>Jira / <FontIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
-  - <FontIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
-  - <FontIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 `bitbucket-pipeline.yml` 스크립트 구성
-  - <FontIcon icon="fa-brands fa-confluence"/>프로젝트 관련 문서 관리
+- <VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <VPIcon icon="fa-brands fa-jira"/>Jira / <VPIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
+  - <VPIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
+  - <VPIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 `bitbucket-pipeline.yml` 스크립트 구성
+  - <VPIcon icon="fa-brands fa-confluence"/>프로젝트 관련 문서 관리
 
 **SDK 및 라이브러리 최신화**
 
-- 프로젝트 언어 최신화 (<FontIcon icon="fa-brands fa-java"/>Java → <FontIcon icon="iconfont icon-kotlin"/>Kotlin)
+- 프로젝트 언어 최신화 (<VPIcon icon="fa-brands fa-java"/>Java → <VPIcon icon="iconfont icon-kotlin"/>Kotlin)
 - API 관리 개선 → Retrofit/OkHttp
-- <FontIcon icon="iconfont icon-gradle"/>Gradle 6.x → <FontIcon icon="iconfont icon-kotlin"/>GradleKts 7.1
-- <FontIcon icon="fa-brands fa-java"/>Java SDK 1.8 → 11
+- <VPIcon icon="iconfont icon-gradle"/>Gradle 6.x → <VPIcon icon="iconfont icon-kotlin"/>GradleKts 7.1
+- <VPIcon icon="fa-brands fa-java"/>Java SDK 1.8 → 11
 
 **Multiplatform 프로젝트 변환**
 
@@ -78,23 +78,23 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 **소스코드 관리**
 
 - UI 개선 (Material UI)
-- <FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <FontIcon icon="fa-brands fa-jira"/>Jira / <FontIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
+- <VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <VPIcon icon="fa-brands fa-jira"/>Jira / <VPIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
 
 **APK 배포**
 
-- 자동배포 구성 (<FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline, <FontIcon icon="iconfont icon-firebase"/>Firebase App Distribution)
+- 자동배포 구성 (<VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline, <VPIcon icon="iconfont icon-firebase"/>Firebase App Distribution)
 
 :::
 
 ## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook-launcher.png =x24) 앱북런처
 
-::: info <FontIcon icon="fa-brands fa-android"/> Android
+::: info <VPIcon icon="fa-brands fa-android"/> Android
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-launcher-m-1.webp
 "/>
 
-> <FontIcon icon="fas fa-code-branch"/> v16.x
+> <VPIcon icon="fas fa-code-branch"/> v16.x
 
 - 공통 UI 적용 및 개선 (Material UI)
 - 리펙토링 (UI / API / 파일관리 / DB)
@@ -103,19 +103,19 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-::: info <FontIcon icon="iconfont icon-expressjs"/>백엔드 Express.js
+::: info <VPIcon icon="iconfont icon-expressjs"/>백엔드 Express.js
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-launcher-b-1.webp
   /images/about/poole/smarthb/appbook-launcher-b-2.webp
 "/>
 
-> <FontIcon icon="fas fa-code-branch"/> v16.x
+> <VPIcon icon="fas fa-code-branch"/> v16.x
 
-- <FontIcon icon="fa-brands fa-aws"/>AWS EC2 인스턴스 관리
+- <VPIcon icon="fa-brands fa-aws"/>AWS EC2 인스턴스 관리
 - 소스 복구 및 개발 환경 재구성
-- <FontIcon icon="fa-brands fa-docker"/>Docker 환경 구성 및 배포 관리
-- 자동배포 구성 (<FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline)
+- <VPIcon icon="fa-brands fa-docker"/>Docker 환경 구성 및 배포 관리
+- 자동배포 구성 (<VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline)
 
 :::
 
@@ -123,7 +123,7 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ## ![앱 야아콘](/images/about/poole/smarthb/ico-appbook.png =x24) 앱북
 
-::: info <FontIcon icon="fa-brands fa-android"/>Android
+::: info <VPIcon icon="fa-brands fa-android"/>Android
 
 <ImageGallery paths="
   /images/about/poole/smarthb/appbook-m-1.webp

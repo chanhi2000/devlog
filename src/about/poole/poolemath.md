@@ -52,21 +52,21 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 :::
 
-::: details <FontIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
 **협헙 환경**
 
-- <FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <FontIcon icon="fa-brands fa-jira"/>Jira / <FontIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
-  - <FontIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
-  - <FontIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 `bitbucket-pipeline.yml` 스크립트 구성
-  - <FontIcon icon="fa-brands fa-confluence"/>프로젝트 관련 문서 관리
+- <VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <VPIcon icon="fa-brands fa-jira"/>Jira / <VPIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
+  - <VPIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
+  - <VPIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 `bitbucket-pipeline.yml` 스크립트 구성
+  - <VPIcon icon="fa-brands fa-confluence"/>프로젝트 관련 문서 관리
 
 **SDK 및 라이브러리 최신화**
 
-- 프로젝트 언어 최신화 (<FontIcon icon="fa-brands fa-java"/>Java → <FontIcon icon="iconfont icon-kotlin"/>Kotlin)
+- 프로젝트 언어 최신화 (<VPIcon icon="fa-brands fa-java"/>Java → <VPIcon icon="iconfont icon-kotlin"/>Kotlin)
 - API 관리 개선 → Retrofit/OkHttp
-- <FontIcon icon="iconfont icon-gradle"/>Gradle 6.x → <FontIcon icon="iconfont icon-kotlin"/>GradleKts 7.1
-- <FontIcon icon="fa-brands fa-java"/>Java SDK 1.8 → 11
+- <VPIcon icon="iconfont icon-gradle"/>Gradle 6.x → <VPIcon icon="iconfont icon-kotlin"/>GradleKts 7.1
+- <VPIcon icon="fa-brands fa-java"/>Java SDK 1.8 → 11
 
 **Multiplatform 프로젝트 변환**
 
@@ -77,7 +77,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 **APK 배포**
 
-- 자동배포 구성 (<FontIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline, <FontIcon icon="iconfont icon-firebase"/>Firebase App Distribution)
+- 자동배포 구성 (<VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket Pipeline, <VPIcon icon="iconfont icon-firebase"/>Firebase App Distribution)
 
 :::
 
@@ -85,7 +85,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ## 프론트엔드
 
-::: info <FontIcon icon="fa-brands fa-android"/>Android - 메인 문제지 앱
+::: info <VPIcon icon="fa-brands fa-android"/>Android - 메인 문제지 앱
 
 <ImageGallery paths="
   /images/about/poole/poolemath/poolemath-m-1.webp
@@ -97,15 +97,15 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 "/>
 
 - 공통 UI 적용 및 개선 (Material UI)
-- <FontIcon icon="fa-brands fa-android"/>Android SDK: 28 → 30
-- <FontIcon icon="iconfont icon-jetpack-compose"/>Jetpack Compose 사용을 위한 대비
-- <FontIcon icon="iconfont icon-firebase"/>Firebase 신규구성 (Message, Crashlytics, App Distribution)
-- MyScript 연동 (필기 인식) → <FontIcon icon="iconfont icon-tex"/>LaTeX 수식변환 관련 처리
-- <FontIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
+- <VPIcon icon="fa-brands fa-android"/>Android SDK: 28 → 30
+- <VPIcon icon="iconfont icon-jetpack-compose"/>Jetpack Compose 사용을 위한 대비
+- <VPIcon icon="iconfont icon-firebase"/>Firebase 신규구성 (Message, Crashlytics, App Distribution)
+- MyScript 연동 (필기 인식) → <VPIcon icon="iconfont icon-tex"/>LaTeX 수식변환 관련 처리
+- <VPIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
 
 :::
 
-::: info <FontIcon icon="fa-brands fa-android"/>Android - 수식입력기 (자사직원용)
+::: info <VPIcon icon="fa-brands fa-android"/>Android - 수식입력기 (자사직원용)
 
 <ImageGallery paths="
   /images/about/poole/poolemath/latex-m-1.webp
@@ -114,15 +114,15 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
   /images/about/poole/poolemath/latex-m-4.webp
 " isOneRow="true"/>
 
-> <FontIcon icon="fas fa-code-branch"/> v2.1.0
+> <VPIcon icon="fas fa-code-branch"/> v2.1.0
 
 - 공통 UI 적용 및 개선 (Material UI)
-- [Jadx (<FontIcon icon="iconfont icon-github"/>`skylot/jadx`)](https://github.com/skylot/jadx)를 사용하여 apk decompile 후 소스 복구 (전임자 관리 미흡)
-- <FontIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
+- [Jadx (<VPIcon icon="iconfont icon-github"/>`skylot/jadx`)](https://github.com/skylot/jadx)를 사용하여 apk decompile 후 소스 복구 (전임자 관리 미흡)
+- <VPIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
 
 :::
 
-::: info <FontIcon icon="fa-brands fa-android"/>Android - 어드민
+::: info <VPIcon icon="fa-brands fa-android"/>Android - 어드민
 
 <ImageGallery paths="
   /images/about/poole/poolemath/admin-m-1.webp
@@ -130,9 +130,9 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
   /images/about/poole/poolemath/admin-m-3.webp
 "/>
 
-> <FontIcon icon="fas fa-code-branch"/> v0.0.1**
+> <VPIcon icon="fas fa-code-branch"/> v0.0.1**
 
 - 공통 UI 적용 및 개선 (Material UI)
-- <FontIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
+- <VPIcon icon="iconfont icon-tex"/>KaTeX기반 수식 출력용 커스텀 웹뷰 적용 (결과물의 폰트, 정렬, etc.)
 
 :::

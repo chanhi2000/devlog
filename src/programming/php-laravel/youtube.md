@@ -1,21 +1,23 @@
 ---
 lang: ko-KR
 title: Youtube
-description: PHP > Youtube
+description: Laravel > Youtube
 icon: fa-brands fa-youtube
 category:
   - PHP
+  - Laravel
   - Youtube
 tag:
-  - php
-  - laravel
   - education
   - youtube
   - programming
+  - php
+  - laravel
+  - php-laravel
 head:
   - - meta:
     - property: og:title
-      content: PHP > Youtube
+      content: Laravel > Youtube
     - property: og:description
       content: Youtube
     - property: og:url

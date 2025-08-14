@@ -4,16 +4,20 @@ title: Snippets
 description: Travis CI > Snippets
 icon: fas fa-eye-dropper
 category:
-  - CI
-  - Travis CI 
+  - DevOps
+  - CI/CD
+  - Travis CI
   - Snippets
 tag: 
-  - travis
-  - travisci
-  - travis-ci
   - cicd
   - ci
   - cd
+  - travis
+  - travisci
+  - travis-ci
+  - travis
+  - travisci
+  - travis-ci
 head:
   - - meta:
     - property: og:title

@@ -11,8 +11,8 @@ tag:
   - blog
   - freecodecamp.org
   - yozm.wishket.com
-  - python
   - py
+  - python
   - flask
   - py-flask
 head:
@@ -48,7 +48,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp
 
 > freecodecamp.org
 

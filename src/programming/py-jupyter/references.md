@@ -34,7 +34,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`jupyter` / Accelerating JupyterLab](https://blog.jupyter.org/accelerating-jupyterlab-68942bb8d602)
 - [`jupyter` / `anywidget`: Jupyter Widgets Made Easy](https://blog.jupyter.org/anywidget-jupyter-widgets-made-easy-164eb2eae102)

@@ -41,11 +41,11 @@ prev: /programming/gradle/snippets/README.md
 
 최종 war로 묶어줄 때 타 module에서 compile된 class파일들을 package경로 밑으로 풀어줘서 빌드 되도록 구성
 
-> ./<FontIcon icon="fas fa-folder-open"/>`./<war으로 묶어 줄 모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> ./<VPIcon icon="fas fa-folder-open"/>`./<war으로 묶어 줄 모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>Groovy
+@tab:active <VPIcon icon="iconfont icon-gradle"/>Groovy
 
 ```groovy
 plugins {
@@ -77,7 +77,7 @@ war {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kts
 plugins {
@@ -111,7 +111,7 @@ tasks.war {
 
 :::
 
-.<FontIcon icon="iconfont icon-shell"/>실행 시
+.<VPIcon icon="iconfont icon-shell"/>실행 시
 
 ```sh
 gradlew <war으로 묶어 줄 모듈>:war

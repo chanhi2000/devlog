@@ -27,7 +27,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`libreoffice-korean-team` / LibreOffice Build on Raspberry Pi 5 — 라즈베리파이5에 리브레오피스 빌드해보기](https://medium.com/libreoffice-korean-team/libreoffice-build-on-raspberry-pi-5-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B45%EC%97%90-%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B9%8C%EB%93%9C%ED%95%B4%EB%B3%B4%EA%B8%B0-cd554629d2db)
 - [`libreoffice-korean-team` / Check Korean rendering issues in LibreOffice built on Raspberry Pi 5 — 라즈베리파이5에서 빌드한 리브레오피스에서 한국어 렌더링 이슈 확인해보기](https://medium.com/libreoffice-korean-team/check-korean-rendering-issues-in-libreoffice-built-on-raspberry-pi-%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B45%EC%97%90%EC%84%9C-%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4%EC%97%90%EC%84%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B8%80%EA%BC%B4%EC%9D%B4%EC%8A%88%ED%99%95%EC%9D%B8-d00b68fa46ca)

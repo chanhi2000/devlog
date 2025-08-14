@@ -39,11 +39,11 @@ prev: /programming/gradle/snippets/README.md
 
 목적이 동일한 submodule을 구성한 프로젝트 관리
 
-> .<FontIcon icon="fas fa-folder-open"/>`./`<FontIcon icon="iconfont icon-gradle"/>`settings.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./`<VPIcon icon="iconfont icon-gradle"/>`settings.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>settings.gradle
+@tab:active <VPIcon icon="iconfont icon-gradle"/>settings.gradle
 
 ```groovy
 rootProject.name = "multi-module-project"
@@ -57,7 +57,7 @@ include ":project-e"
 // 더 추가 가능
 ```
 
-@tab:active <FontIcon icon="iconfont icon-kotlin"/>settings.gradle.kts
+@tab:active <VPIcon icon="iconfont icon-kotlin"/>settings.gradle.kts
 
 ```kotlin
 // TODO: 작성
@@ -65,11 +65,11 @@ include ":project-e"
 
 :::
 
-> .<FontIcon icon="fas fa-folder-open"/>`./`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>build.gradle
+@tab:active <VPIcon icon="iconfont icon-gradle"/>build.gradle
 
 ```groovy
 subprojects {
@@ -124,7 +124,7 @@ subprojects {
 }
 ```
 
-@tab:active <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab:active <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 // TODO: 작성

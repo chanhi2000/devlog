@@ -34,7 +34,7 @@ tag:
 
 ::: details Animated Curve Line
 
-### <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`
+### <VPIcon icon="fa-brands fa-swift"/>`ViewController.swift`
 
 ```swift
 import UIKit
@@ -130,7 +130,7 @@ class ViewController: UIViewController {
 | Xcode Template | Single View Application |
 | User Interface | SwiftUI |
 
-#### <FontIcon icon="fa-brands fa-swift"/>`ContentView.swift`
+#### <VPIcon icon="fa-brands fa-swift"/>`ContentView.swift`
 
 ```swift
 import SwiftUI
@@ -345,7 +345,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 }
 ```
 
-#### <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`
+#### <VPIcon icon="fa-brands fa-swift"/>`ViewController.swift`
 
 ```swift
 import UIKit
@@ -430,7 +430,7 @@ Enable `Privacy - Microphone Usage Description`
 
 ![note-analyzer-audiokit-02](/images/swift/note-analyzer-audiokit-02.jpg)
 
-#### <FontIcon icon="fa-brands fa-swift"/>`ViewController.swift`
+#### <VPIcon icon="fa-brands fa-swift"/>`ViewController.swift`
 
 ```swift
 import UIKit

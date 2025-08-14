@@ -9,6 +9,7 @@ category:
   - Youtube
 tag:
   - py
+  - python
   - fastapi
   - py-fastapi
   - youtube

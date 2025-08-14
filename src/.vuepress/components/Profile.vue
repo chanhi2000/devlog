@@ -9,15 +9,15 @@
           <a
             class="profile__github"
             v-on:click="navigate('https://github.com/chanhi2000')"
-          ><FontIcon icon="iconfont icon-github"/></a>
+          ><VPIcon icon="iconfont icon-github"/></a>
           <a 
             class="profile-notion"
             v-on:click="navigate('https://markiiimark.notion.site/MarkiiimarK-Fullstack-DevOps-c231ae6c157d4baba89a3713c92449dd')"
-          ><FontIcon icon="iconfont icon-notion"/></a>
+          ><VPIcon icon="iconfont icon-notion"/></a>
           <a 
             class="profile-mail"
             v-on:click="doCopy"
-          ><FontIcon icon="fas fa-envelope"/></a>
+          ><VPIcon icon="fas fa-envelope"/></a>
           <div class="mail-box" v-if="!!upHere" @click="doCopy">
             chanhi2000@gmail.com
           </div>

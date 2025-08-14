@@ -130,7 +130,7 @@ export default function App() {
 }
 ```
 
-- ContextAPI를 이용하여 <FontIcon icon="fa-brands fa-js"/>`Sub.js`에서 사용한 값을 <FontIcon icon="fa-brands fa-js"/>`App.js` 에서도 감지가 가능하다
+- ContextAPI를 이용하여 <VPIcon icon="fa-brands fa-js"/>`Sub.js`에서 사용한 값을 <VPIcon icon="fa-brands fa-js"/>`App.js` 에서도 감지가 가능하다
 
 ::: sandpack#react React Hook Form: FormProvider-useFormContext [rtl theme=dark]
 

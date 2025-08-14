@@ -161,7 +161,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 > freecodecamp.org
 
@@ -367,7 +367,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+## <VPIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
 
 > tech.kakao.com
 
@@ -385,7 +385,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>카카오페이 기술 블로그
+## <VPIcon icon="iconfont icon-kakao"/>카카오페이 기술 블로그
 
 > tech.kakaopay.com
 
@@ -419,7 +419,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 

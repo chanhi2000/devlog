@@ -114,7 +114,7 @@ head:
 <MyYouTubeItems jsonName="yu-micoding" /><!-- 몰입코딩 아카이브 -->
 <MyYouTubeItems jsonName="yu-javascriptmastery" /><!-- JavaScript Mastery -->
 <MyYouTubeItems jsonName="yu-ByteGrad" /><!-- ByteGrad -->
-<MyYouTubeItems jsonName="yu-user-jc7ek9jk3l" /><!-- 차태진 -->
+<MyYouTubeItems jsonName="yu-차태진" /><!-- 차태진 -->
 <MyYouTubeItems jsonName="yu-user-mg8kt9go7z" /><!-- 모던애자일팀 -->
 <MyYouTubeItems jsonName="yu-ByteMonk" /><!-- ByteMonk -->
 <MyYouTubeItems jsonName="yu-cloudchamp" /><!-- Cloud Champ -->

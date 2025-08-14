@@ -19,7 +19,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+## <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 ### PyCharm
 
@@ -27,7 +27,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`awstip` / Django Model Relations(Tracking the models)](https://awstip.com/django-model-relations-tracking-the-models-c03a65e8d76e)
 - [`lemonbase` / 배포 시점에 급상승하는 API Latency 해결하기 — Django + Gunicorn 사례](https://blog.lemonbase.team/%EB%B0%B0%ED%8F%AC-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B8%89%EC%83%81%EC%8A%B9%ED%95%98%EB%8A%94-api-latency-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-django-gunicorn-%EC%82%AC%EB%A1%80-7f7a1da7b0aa)
@@ -38,13 +38,13 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`ivanyu2021` / A simple approach for background task in Django](https://dev.to/ivanyu2021/a-simple-approach-for-background-task-in-django-2mpa)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@qlgks1` / Django - sqlite 는 Json이 text 래요!, sqlite lookup (contains) 오버라이딩 하기](https://velog.io/@qlgks1/Django-sqlite-lookup-contain-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%ED%95%98%EA%B8%B0)
 - [`@qlgks1` / Django, DRF - 페이지네이션은 다 성능이 달라요! (ps. DBMS pagination)](https://velog.io/@qlgks1/Django-DRF-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98%EC%9D%80-%EB%8B%A4-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%9A%94)
@@ -55,7 +55,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - [Bug] Django migrate ->ModuleNotFoundError 에러 대처방법](https://blex.me/@mildsalmon/django-migrate-modulenotfounderror-%EC%97%90%EB%9F%AC-%EB%8C%80%EC%B2%98%EB%B0%A9%EB%B2%95)
 - [`@baealex` - Django migrate 잘 사용하기](https://blex.me/@baealex/django-migrate-%EC%9E%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)

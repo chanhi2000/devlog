@@ -161,6 +161,7 @@ export const navbarEn = navbar([
           '/programming/js-nest/README.md',
           '/programming/js-next/README.md',
           '/programming/js-express/README.md',
+          '/programming/js-three/README.md',
           '/programming/js-jest/README.md',
           '/programming/js-playwright/README.md',
           '/programming/js-puppeteer/README.md',
@@ -190,6 +191,7 @@ export const navbarEn = navbar([
           '/programming/py-django/README.md',
           '/programming/py-flask/README.md',
           '/programming/py-fastapi/README.md',
+          '/programming/py-streamlit/README.md',
           '/programming/py-jupyter/README.md',
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',
@@ -226,6 +228,7 @@ export const navbarEn = navbar([
         children: [
           '/programming/php/README.md',
           '/programming/php-laravel/README.md',         
+          '/programming/php-symfony/README.md',         
         ]        
       }, {
         text: 'Ruby',
@@ -458,9 +461,17 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-jenkins',
         link: '/devops/jenkins/README.md',
       }, {
+        text: 'TeamCity',
+        icon: 'iconfont icon-teamcity',
+        link: '/devops/jetbrains-teamcity/README.md'
+      }, {
         text: 'Travis CI',
         icon: 'iconfont icon-travis-ci',
         link: '/devops/travis-ci/README.md',
+      }, {
+        text: 'Circle CI',
+        icon: 'iconfont icon-circle-ci',
+        link: '/devops/circle-ci/README.md'
       }, {
         text: 'Appium',
         icon: 'iconfont icon-appium',

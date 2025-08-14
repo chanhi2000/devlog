@@ -8,9 +8,10 @@ category:
   - Flask
   - Youtube
 tag: 
-  - python
   - py
+  - python
   - flask
+  - py-flask
   - youtube
 head:
   - - meta:

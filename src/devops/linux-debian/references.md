@@ -43,7 +43,7 @@ head:
 
 ## Google
 
-### <FontIcon icon="fa-brands fa-google-drive"/>Google Drive
+### <VPIcon icon="fa-brands fa-google-drive"/>Google Drive
 
 - [Ubuntu 24.10 Release & 20 Years Party ASP.NET 배포하기](https://docs.google.com/presentation/d/1QkF9X3tQoj6WPbkq5WOlWHdyh8JQThCd2YmVliFb_N8/edit)
 
@@ -91,7 +91,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`mrs-t` - Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 - [`mhatta` - GNU/Hurd strikes back](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
@@ -102,13 +102,13 @@ head:
 - [`libreoffice-korean-team` / LibreOffice Conference 2024 Luxembourg 행사 관련 영상 및 블로그 링크 공유](https://medium.com/libreoffice-korean-team/libreoffice-conference-2024-luxembourg-%ED%96%89%EC%82%AC-%EA%B4%80%EB%A0%A8-%EC%98%81%EC%83%81-%EB%B0%8F-블로그-%EB%A7%81%ED%81%AC-%EA%B3%B5%EC%9C%A0-72e8e06e7c2c)
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@baealex` - 우분투 방화벽 설정 (`ufw`)](https://blex.me/@baealex/ubuntu-ufw)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / [Linux] 딥러닝 환경 구축 : CUDA, CuDNN](https://velog.io/@euisuk-chung/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95-CUDA-CuDNN%EC%95%84-%EB%82%98-%EC%A2%80-%EA%B7%B8%EB%A7%8C-%EA%B4%B4%EB%A1%AD%ED%98%80%EB%9D%BC-%E3%85%A0)
 - [`@mythos` / \[Linux\] 마인크래프트 서버 열기](https://velog.io/@mythos/Linux-%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%97%B4%EA%B8%B0)

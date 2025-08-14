@@ -18,7 +18,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-autostart.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-autostart.ps1`
 
 ```component VPCard
 {
@@ -87,7 +87,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-desktop.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-desktop.ps1`
 
 ```component VPCard
 {
@@ -160,7 +160,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-docs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-docs.ps1`
 
 ```component VPCard
 {
@@ -233,7 +233,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-downloads.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-downloads.ps1`
 
 ```component VPCard
 {
@@ -306,7 +306,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-dropbox.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-dropbox.ps1`
 
 ```component VPCard
 {
@@ -375,7 +375,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-home.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-home.ps1`
 
 ```component VPCard
 {
@@ -444,7 +444,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-music.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-music.ps1`
 
 ```component VPCard
 {
@@ -517,7 +517,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-onedrive.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-onedrive.ps1`
 
 ```component VPCard
 {
@@ -586,7 +586,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-pics.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-pics.ps1`
 
 ```component VPCard
 {
@@ -657,7 +657,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-recycle-bin.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-recycle-bin.ps1`
 
 ```component VPCard
 {
@@ -731,7 +731,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-repos.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-repos.ps1`
 
 ```component VPCard
 {
@@ -820,7 +820,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-root.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-root.ps1`
 
 ```component VPCard
 {
@@ -832,7 +832,7 @@ try {
 }
 ```
 
-This PowerShell script changes the current working directory to the root directory (<FontIcon icon="fas fa-folder-open"/>`C:\` on Windows).
+This PowerShell script changes the current working directory to the root directory (<VPIcon icon="fas fa-folder-open"/>`C:\` on Windows).
 
 ::: tabs
 
@@ -886,7 +886,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-scripts.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-scripts.ps1`
 
 ```component VPCard
 {
@@ -953,7 +953,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-ssh.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-ssh.ps1`
 
 ```component VPCard
 {
@@ -1020,7 +1020,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-up.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-up.ps1`
 
 ```component VPCard
 {
@@ -1087,7 +1087,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-up2.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-up2.ps1`
 
 ```component VPCard
 {
@@ -1154,7 +1154,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-up3.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-up3.ps1`
 
 ```component VPCard
 {
@@ -1221,7 +1221,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-up4.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-up4.ps1`
 
 ```component VPCard
 {
@@ -1288,7 +1288,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `cd-videos.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `cd-videos.ps1`
 
 ```component VPCard
 {
@@ -1359,7 +1359,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `check-symlinks.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `check-symlinks.ps1`
 
 ```component VPCard
 {
@@ -1469,7 +1469,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `check-xml-file.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `check-xml-file.ps1`
 
 ```component VPCard
 {
@@ -1567,7 +1567,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `clear-recycle-bin.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `clear-recycle-bin.ps1`
 
 ```component VPCard
 {
@@ -1635,7 +1635,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `copy-photos-sorted.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `copy-photos-sorted.ps1`
 
 ```component VPCard
 {
@@ -1764,7 +1764,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `decrypt-file.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `decrypt-file.ps1`
 
 ```component VPCard
 {
@@ -1971,7 +1971,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `download-dir.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `download-dir.ps1`
 
 ```component VPCard
 {
@@ -2058,7 +2058,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `download-file.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `download-file.ps1`
 
 ```component VPCard
 {
@@ -2145,7 +2145,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `edit.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `edit.ps1`
 
 ```component VPCard
 {
@@ -2227,7 +2227,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `encrypt-file.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `encrypt-file.ps1`
 
 ```component VPCard
 {
@@ -2419,7 +2419,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `get-md5.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `get-md5.ps1`
 
 ```component VPCard
 {
@@ -2501,7 +2501,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `get-sha1.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `get-sha1.ps1`
 
 ```component VPCard
 {
@@ -2583,7 +2583,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `get-sha256.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `get-sha256.ps1`
 
 ```component VPCard
 {
@@ -2665,7 +2665,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `inspect-exe.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `inspect-exe.ps1`
 
 ```component VPCard
 {
@@ -2744,7 +2744,7 @@ try {
 
 ---
 
-## ❌<FontIcon icon="iconfont powershell-file"/> `list-dir-tree.ps1`
+## ❌<VPIcon icon="iconfont powershell-file"/> `list-dir-tree.ps1`
 
 ```component VPCard
 {
@@ -2758,7 +2758,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-empty-dirs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-empty-dirs.ps1`
 
 ```component VPCard
 {
@@ -2844,7 +2844,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-empty-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-empty-files.ps1`
 
 ```component VPCard
 {
@@ -2928,7 +2928,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-files.ps1`
 
 ```component VPCard
 {
@@ -3005,7 +3005,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-folder.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-folder.ps1`
 
 ```component VPCard
 {
@@ -3105,7 +3105,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-hidden-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-hidden-files.ps1`
 
 ```component VPCard
 {
@@ -3188,7 +3188,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-recycle-bin.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-recycle-bin.ps1`
 
 ```component VPCard
 {
@@ -3251,7 +3251,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-unused-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-unused-files.ps1`
 
 ```component VPCard
 {
@@ -3342,7 +3342,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `list-workdir.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `list-workdir.ps1`
 
 ```component VPCard
 {
@@ -3407,7 +3407,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `make-install.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `make-install.ps1`
 
 ```component VPCard
 {
@@ -3480,7 +3480,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `new-shortcut.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `new-shortcut.ps1`
 
 ```component VPCard
 {
@@ -3589,7 +3589,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `new-symlink.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `new-symlink.ps1`
 
 ```component VPCard
 {
@@ -3680,7 +3680,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `new-zipfile.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `new-zipfile.ps1`
 
 ```component VPCard
 {
@@ -3762,7 +3762,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `publish-to-ipfs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `publish-to-ipfs.ps1`
 
 ```component VPCard
 {
@@ -3890,7 +3890,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `remove-empty-dirs.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `remove-empty-dirs.ps1`
 
 ```component VPCard
 {
@@ -3990,7 +3990,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `replace-in-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `replace-in-files.ps1`
 
 ```component VPCard
 {
@@ -4105,7 +4105,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `search-filename.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `search-filename.ps1`
 
 ```component VPCard
 {
@@ -4210,7 +4210,7 @@ exit 0 # success
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `search-files.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `search-files.ps1`
 
 ```component VPCard
 {
@@ -4311,7 +4311,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/> `upload-file.ps1`
+## <VPIcon icon="iconfont icon-powershell"/> `upload-file.ps1`
 
 ```component VPCard
 {

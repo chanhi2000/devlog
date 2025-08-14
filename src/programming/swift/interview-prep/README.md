@@ -42,7 +42,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-notion"/>Notion
+## <VPIcon icon="iconfont icon-notion"/>Notion
 
 - [Swift 면접질문](https://chambray-budget-6df.notion.site/Level-f0273f1886ec49618dc9e424f971810f)
 - [iOS Interview V3](https://www.notion.so/min-ee/iOS-Interview-V3-439f74b8db24480b8d6017d111e99ad4)

@@ -26,7 +26,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Colab
 
@@ -61,7 +61,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-x-twitter"/>X
+## <VPIcon icon="fa-brands fa-x-twitter"/>X
 
 - [`ariG23498` / A simple hack to calculating how much VRAM you would need to run a model.](https://x.com/ariG23498/status/1840967205699367116)
 - [`mervenoyann` / NVIDIA just dropped a gigantic multimodal model called NVLM 72B 🦖](https://x.com/mervenoyann/status/1841098941900767323)
@@ -81,7 +81,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`llamaindex` /  Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 - [`berom0227` / Running Ollama in Smart Connections](https://berom0227.medium.com/running-ollama-in-smart-connections-db2242aee3ba)
@@ -96,7 +96,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@geoffyoon-dev` - 데이터는 못 보내지만 Cloud LLM은 쓰고싶어](https://velog.io/@geoffyoon-dev/cloud-LLM-in-data-security-policy)
 - [`@devstone` - NLP 메트릭 톺아보기](https://velog.io/@devstone/NLP-%EB%A9%94%ED%8A%B8%EB%A6%AD-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0)
@@ -163,8 +163,8 @@ head:
 ### Colab
 
 - [MANATEE(lm) : Market Analysis based on language model architectures](https://colab.research.google.com/drive/1Nq28vk9_l0R-53T18HYfRbeGFJoZ_U8E)
-- [<FontIcon icon="fa-brands fa-python"/>`llm-pricing-cost-quality.ipynb`](https://colab.research.google.com/gist/virattt/7b67c685ca6b256d4fa6108bfae53d7a/exploring-llm-pricing-cost.ipynb)
-- [<FontIcon icon="fa-brands fa-python"/>`cudf_pandas_stocks_demo.ipynb`](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
+- [<VPIcon icon="fa-brands fa-python"/>`llm-pricing-cost-quality.ipynb`](https://colab.research.google.com/gist/virattt/7b67c685ca6b256d4fa6108bfae53d7a/exploring-llm-pricing-cost.ipynb)
+- [<VPIcon icon="fa-brands fa-python"/>`cudf_pandas_stocks_demo.ipynb`](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/cudf_pandas_stocks_demo.ipynb)
 
 ---
 
@@ -214,7 +214,7 @@ head:
 ## Justine
 
 - [Bash One-Liners for LLMs](https://justine.lol/oneliners)
-  - [<FontIcon icon="iconfont icon-shell"/>`jart/rename-pictures.sh`](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
+  - [<VPIcon icon="iconfont icon-shell"/>`jart/rename-pictures.sh`](https://gist.github.com/jart/bd2f603aefe6ac8004e6b709223881c0)
 
 ---
 

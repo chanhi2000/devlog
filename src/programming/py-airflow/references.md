@@ -31,7 +31,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - [Airflow] Airflow를 경험하며 생긴 의문들](https://blex.me/@mildsalmon/airflow-airflow%EB%A5%BC-%EA%B2%BD%ED%97%98%ED%95%98%EB%A9%B0-%EC%83%9D%EA%B8%B4-%EC%9D%98%EB%AC%B8%EB%93%A4)
 - [`@mildsalmon` - MySQLToS3Operator](https://blex.me/@mildsalmon/mysqltos3operator)

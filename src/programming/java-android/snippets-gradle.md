@@ -28,11 +28,11 @@ tag:
 
 ## A. `assembleRelease` Task를 위한 `signingConfigs` 최소구성
 
-- **목적**: Signing처리 된 Android APK 생성 (<FontIcon icon="fas fa-file-lines"/>`keystore.properties` 파일 구성 필요)
-- **적업대상 `gradle` 파일**: <FontIcon icon="fas fa-folder-open"/>`./<최종 Android모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+- **목적**: Signing처리 된 Android APK 생성 (<VPIcon icon="fas fa-file-lines"/>`keystore.properties` 파일 구성 필요)
+- **적업대상 `gradle` 파일**: <VPIcon icon="fas fa-folder-open"/>`./<최종 Android모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 - **기타 준비파일**
-  - <FontIcon icon="fas fa-key"/>`./keystore.properties`: Keystore 관련 정보 파일
-  - <FontIcon icon="fas fa-key"/>`./<파일명>.keystore`: Keystore파일
+  - <VPIcon icon="fas fa-key"/>`./keystore.properties`: Keystore 관련 정보 파일
+  - <VPIcon icon="fas fa-key"/>`./<파일명>.keystore`: Keystore파일
 
 ```properties title="keystore.properties"
 # ...[생략]...
@@ -44,7 +44,7 @@ SIGNED_KEY_PASSWORD=<Key 비번>
 
 ::: code-tabs#kotlin
 
-@tab <FontIcon icon="iconfont icon-gradle"/><code>build.gradle</code>
+@tab <VPIcon icon="iconfont icon-gradle"/><code>build.gradle</code>
 
 ```groovy title="build.gradle"
 buildscript {
@@ -59,7 +59,7 @@ buildscript {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/><code>build.gradle.kts</code>
+@tab <VPIcon icon="iconfont icon-kotlin"/><code>build.gradle.kts</code>
 
 ```groovy title="build.gradle.kts"
 buildscript {
@@ -78,7 +78,7 @@ buildscript {
 
 ::: code-tabs#kotlin
 
-@tab <FontIcon icon="iconfont icon-gradle"/><code>build.gradle</code>
+@tab <VPIcon icon="iconfont icon-gradle"/><code>build.gradle</code>
 
 ```groovy :collapsed-lines title="app/build.gradle"
 plugins {
@@ -106,7 +106,7 @@ android {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/><code>build.gradle.kts</code>
+@tab <VPIcon icon="iconfont icon-kotlin"/><code>build.gradle.kts</code>
 
 ```kotlin :collapsed-lines title="app/build.gradle.kts"
 plugins {
@@ -149,8 +149,8 @@ gradlew :<최종 Android모듈>:assembleRelease --stacktrace
 
 ## B. `*.apk` 최종 아티팩트 명 지정
 
-- **목적**: Signing처리 된 Android APK 생성 (<FontIcon icon="fas fa-file-lines"/>`keystore.properties` 파일 구성 필요)
-- **적업대상 `gradle` 파일**: <FontIcon icon="fas fa-folder-open"/>`./<최종 Android모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+- **목적**: Signing처리 된 Android APK 생성 (<VPIcon icon="fas fa-file-lines"/>`keystore.properties` 파일 구성 필요)
+- **적업대상 `gradle` 파일**: <VPIcon icon="fas fa-folder-open"/>`./<최종 Android모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ```groovy title="app/build.gradle"
 android {

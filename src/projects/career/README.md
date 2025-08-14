@@ -16,7 +16,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fas fa-bookmark"/>Bookmarks
+## <VPIcon icon="fas fa-bookmark"/>Bookmarks
 
 ```component VPCard
 {

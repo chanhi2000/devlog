@@ -9,6 +9,7 @@ category:
   - Tips
 tag:
   - py
+  - python
   - fastapi
   - py-fastapi
 head:

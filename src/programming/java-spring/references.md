@@ -30,17 +30,17 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-java"/>Java
+## <VPIcon icon="fa-brands fa-java"/>Java
 
-### <FontIcon icon="iconfont icon-github"/>Github
+### <VPIcon icon="iconfont icon-github"/>Github
 
 - [Spring Boot 3.2 Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.2-Release-Notes)
 
-### <FontIcon icon="iconfont icon-spring"/>Spring
+### <VPIcon icon="iconfont icon-spring"/>Spring
 
 - [Runtime efficiency with Spring (today and tomorrow)](https://spring.io/blog/2023/10/16/runtime-efficiency-with-spring)
 
-### <FontIcon icon="fa-brands fa-aws"/>Amazon Web Services
+### <VPIcon icon="fa-brands fa-aws"/>Amazon Web Services
 
 - [SpringBoot 에서 AWS Secrets manager를 이용하여 안전하게 데이터베이스를 이용하는 방법](https://repost.aws/en/articles/ARrbXsydIkSAqKLrWhos7GnQ/spring-boot-%EC%97%90%EC%84%9C-aws-secrets-manager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
@@ -78,7 +78,7 @@ head:
 
 ---
 
-### <FontIcon icon="iconfont icon-kakao"/>Kakao
+### <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 #### 카카오페이 기술 블로그
 
@@ -86,7 +86,7 @@ head:
 
 ---
 
-### <FontIcon icon="iconfont icon-naver"/>NAVER D2
+### <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 - [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/6080222.md) -->
 - [streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현](https://d2.naver.com/helloworld/9423440) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/d2.naver.com/9423440.md) -->
@@ -104,12 +104,12 @@ head:
 
 - [Json Web Token: How to Secure a Spring Boot REST API](https://dzone.com/articles/json-web-token-how-to-secure-spring-boot-rest-api)
 
-### <FontIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
+### <VPIcon icon="fa-brands fa-stack-overflow"/>Stackoverflow
 
 - [Can JPA be persuaded to convert between eg UUIDs and Strings?](https://stackoverflow.com/questions/8446378/can-jpa-be-persuaded-to-convert-between-eg-uuids-and-strings)
 - [Spring JPA repoistory findBy IN List - allow null](https://stackoverflow.com/questions/28898132/spring-jpa-repoistory-findby-in-list-allow-null)
 
-### <FontIcon icon="fa-brands fa-medium"/>Medium
+### <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`finda-tech` / 금융서비스 MSA 전환기 - DB 분리(1편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-db-%EB%B6%80-1%ED%8E%B8-63d09e7ebe0e)
 - [`finda-tech` / 금융서비스 MSA 전환기- 서버 간 비동기 메시지 기반 통신 처리(3편)](https://medium.com/finda-tech/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%84%ED%99%98%EA%B8%B0-%EC%84%9C%EB%B2%84-%EA%B0%84-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B8%B0%EB%B0%98-%ED%86%B5%EC%8B%A0-%EC%B2%98%EB%A6%AC-3%ED%8E%B8-c0785860a3d5)
@@ -139,11 +139,11 @@ head:
 
 <!-- END: medium.com java -->
 
-### <FontIcon icon="fa-brands fa-dev"/>dev.to
+### <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`m1guelsb` / Authentication and authorization with Spring-Boot](https://dev.to/m1guelsb/authentication-and-authorization-with-spring-boot-4m2n?)
 
-### <FontIcon icon="iconfont icon-velog"/>velog
+### <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@u-nij`: Spring Boot + React.js 개발환경 연동하기](https://velog.io/@u-nij/Spring-Boot-React.js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85)
 - [`@Ramos.log`: Spring Boot에서의 Test 어노테이션](https://velog.io/@songs4805/Spring-Boot%EC%97%90%EC%84%9C%EC%9D%98-Test-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
@@ -788,7 +788,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### 우아한형제들 기술블로그
 
@@ -796,13 +796,13 @@ head:
 - [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기)](https://techblog.woowahan.com/2698/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/2698.md) -->
 - [배민광고리스팅 개발기(feat. 코프링과 DSL 그리고 코루틴)](https://techblog.woowahan.com/7349/) <!-- https://chanhi2000.github.io/bookshelf/techblog.woowahan.com/7349.md -->
 
-### <FontIcon icon="iconfont icon-kakao"/>Kakao
+### <VPIcon icon="iconfont icon-kakao"/>Kakao
 
 #### 카카오페이 기술 블로그
 
 - [WebFlux와 코루틴으로 BFF(Backend For Frontend) 구현하기](https://tech.kakaopay.com/post/bff_webflux_coroutine/) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/tech.kakaopay.com/bff-webflux-coroutine.md) -->
 
-### <FontIcon icon="iconfont icon-velog"/>velog
+### <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@joshuara7235` / MSA를 찍먹해보자.  - feat. Saga Pattern](https://velog.io/@joshuara7235/MSA%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Saga-Pattern)
 - [`@bestswlkh0310` / 혼자서 2일만에 사이드 프로젝트 배포까지 - ‘졸업이당’](https://velog.io/@bestswlkh0310/%ED%98%BC%EC%9E%90%EC%84%9C-2%EC%9D%BC%EB%A7%8C%EC%97%90-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80-%EC%A1%B8%EC%97%85%EC%9D%B4%EB%8B%B9)

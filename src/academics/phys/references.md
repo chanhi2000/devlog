@@ -29,10 +29,10 @@ head:
 
 ---
 
-![The Periodic Table of the Elements, in Pictures and Words (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png) 
+![The Periodic Table of the Elements, in Pictures and Words (from [<VPIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Pics_w2000.png) 
 <!-- TODO: 로컬에 저장 -->
 
-![The Periodic Table of the Elements, in Words, (from [<FontIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png) 
+![The Periodic Table of the Elements, in Words, (from [<VPIcon icon="fas fa-globe"/>https://elements.wlonk.com/](https://elements.wlonk.com/))](https://elements.wlonk.com/Elements_Words_w2000.png) 
 <!-- TODO: 로컬에 저장 -->
 
 ---

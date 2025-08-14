@@ -31,7 +31,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`mythos` / \[OSSCA\] Linux Kernel Networking Stack #0 발대식 및 환경 설정](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-0-%EB%B0%9C%EB%8C%80%EC%8B%9D-%EB%B0%8F-%EC%A4%80%EB%B9%84%EC%82%AC%ED%95%AD)
 - [`@mythos` / \[OSSCA\] Linux Kernel Networking Stack #2 리눅스 커널에 커밋하기](https://velog.io/@mythos/OSSCA-Linux-Kernel-Networking-Stack-2-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90%EC%97%90-%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0)

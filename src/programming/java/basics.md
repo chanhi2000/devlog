@@ -34,7 +34,7 @@ tag:
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-java"/>Java
+@tab:active <VPIcon icon="fa-brands fa-java"/>Java
 
 ```java
 public final class FooBar {
@@ -49,7 +49,7 @@ public final class FooBar {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 class FooBar {
@@ -71,7 +71,7 @@ class FooBar {
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-java"/>Java
+@tab:active <VPIcon icon="fa-brands fa-java"/>Java
 
 > Lombok을 사용하여 코드를 간결하게 작성
 
@@ -106,7 +106,7 @@ public enum FooBar {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ```kotlin
 enum class FooBar(
@@ -136,7 +136,7 @@ enum class FooBar(
 
 ::: tabs
 
-@tab:active <FontIcon icon="fa-brands fa-java"/>Java
+@tab:active <VPIcon icon="fa-brands fa-java"/>Java
 
 > for Javadoc
 
@@ -167,7 +167,7 @@ public class FooGaze {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+@tab <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 > for KDoc
 
@@ -201,7 +201,7 @@ class FooGaze {
 
 ---
 
-## <FontIcon icon="iconfont icon-kotlin"/>Kotlin
+## <VPIcon icon="iconfont icon-kotlin"/>Kotlin
 
 ### 자주쓰는 Builder Pattern
 
@@ -306,11 +306,11 @@ fun <T> sellWeapon(weapon: T): String where T : Weapon, T : Usable {
 
 ---
 
-## <FontIcon icon="fa-brands fa-java"/>Java 관련
+## <VPIcon icon="fa-brands fa-java"/>Java 관련
 
 ### Properties 파일객체 구성
 
-> 파일: <FontIcon icon="fas fa-folder-open"/>`src/main/resources/props/`<FontIcon icon="fas fa-file-lines"/>`globals.properties`
+> 파일: <VPIcon icon="fas fa-folder-open"/>`src/main/resources/props/`<VPIcon icon="fas fa-file-lines"/>`globals.properties`
 
 ```java
 package com.example.markiiimark;

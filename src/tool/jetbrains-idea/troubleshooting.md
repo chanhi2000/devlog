@@ -37,7 +37,7 @@ head:
 
 ## feat. Bind Exception Address already in use
 
-- .<FontIcon icon="fas fa-gears"/>cmd 실행
+- .<VPIcon icon="fas fa-gears"/>cmd 실행
 
 ```batch
 netsh int ipv4 set dynamicport tcp start=49152 num=16383

@@ -19,18 +19,18 @@ tag:
 
 ---
 
-- [<FontIcon icon="fas fa-spinner"/>Loader (with dots)](/programming/css/snippets/loader-with-dots.md)
-- [<FontIcon icon="fas fa-spinner"/>Loading Spinner](/programming/css/snippets/loading-spinner.md)
-- [<FontIcon icon="fas fa-sun"/>A Solar System Orbit](/programming/css/snippets/a-solar-system-orbit.md)
-- [<FontIcon icon="iconfont icon-select"/>Isometric Button](/programming/css/snippets/isometric-button.md)
-- [<FontIcon icon="fas fa-comment-dots"/>Was this helpful?](/programming/css/snippets/was-this-helpful.md)
-- [<FontIcon icon="fas fa-clock"/>Digital Clock](/programming/css/snippets/digital-clock.md)
-- [<FontIcon icon="fas fa-key"/>OTP Input Field](/programming/css/snippets/otp-input-field.md)
-- [<FontIcon icon="fas fa-palette"/>Image Color Picker](/programming/css/snippets/image-color-picker.md)
-- [<FontIcon icon="iconfont icon-view"/>Draggable Element](/programming/css/snippets/draggable-element.md)
-- [<FontIcon icon="iconfont icon-view"/>ACME Classic Monster Movie Showcase](/programming/css/snippets/acme-classic-monster-movie-showcase.md)
-- [<FontIcon icon="iconfont icon-view"/>Hero with interactive snowflakes](/programming/css/snippets/hero-with-interactive-snowflake.md)
-- [<FontIcon icon="fas fa-clipboard-check"/>Validating data on inputs with the pattern attribute](/programming/css/snippets/validating-data-on-inputs-with-the-pattern-attribute.md)
+- [<VPIcon icon="fas fa-spinner"/>Loader (with dots)](/programming/css/snippets/loader-with-dots.md)
+- [<VPIcon icon="fas fa-spinner"/>Loading Spinner](/programming/css/snippets/loading-spinner.md)
+- [<VPIcon icon="fas fa-sun"/>A Solar System Orbit](/programming/css/snippets/a-solar-system-orbit.md)
+- [<VPIcon icon="iconfont icon-select"/>Isometric Button](/programming/css/snippets/isometric-button.md)
+- [<VPIcon icon="fas fa-comment-dots"/>Was this helpful?](/programming/css/snippets/was-this-helpful.md)
+- [<VPIcon icon="fas fa-clock"/>Digital Clock](/programming/css/snippets/digital-clock.md)
+- [<VPIcon icon="fas fa-key"/>OTP Input Field](/programming/css/snippets/otp-input-field.md)
+- [<VPIcon icon="fas fa-palette"/>Image Color Picker](/programming/css/snippets/image-color-picker.md)
+- [<VPIcon icon="iconfont icon-view"/>Draggable Element](/programming/css/snippets/draggable-element.md)
+- [<VPIcon icon="iconfont icon-view"/>ACME Classic Monster Movie Showcase](/programming/css/snippets/acme-classic-monster-movie-showcase.md)
+- [<VPIcon icon="iconfont icon-view"/>Hero with interactive snowflakes](/programming/css/snippets/hero-with-interactive-snowflake.md)
+- [<VPIcon icon="fas fa-clipboard-check"/>Validating data on inputs with the pattern attribute](/programming/css/snippets/validating-data-on-inputs-with-the-pattern-attribute.md)
 
 - https://freefrontend.com/css-hero-effects/
 - https://freefrontend.com/css-hover-effects/

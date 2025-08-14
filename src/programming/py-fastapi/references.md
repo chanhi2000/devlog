@@ -9,6 +9,7 @@ category:
   - References
 tag:
   - py
+  - python
   - fastapi
   - py-fastapi
 head:

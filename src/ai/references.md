@@ -25,7 +25,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Machine Learning
 
@@ -49,7 +49,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`jwyeom63` / \[번역\]정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
 - [`towardsdatascience` / The Math Behind the Adam Optimizer](https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/towardsdatascience.com/the-math-behind-adam-optimizer.md) -->
@@ -64,7 +64,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[트리\] 트리 기반 ML 알고리즘](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A6%AC-%ED%8A%B8%EB%A6%AC-%EA%B8%B0%EB%B0%98-ML-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [`@dev_post` / Dev.POST: AI가 써주는 기술 블로그](https://velog.io/@dev_post/Dev.POST-AI%EA%B0%80-%EC%8D%A8%EC%A3%BC%EB%8A%94-%EA%B8%B0%EC%88%A0-블로그)

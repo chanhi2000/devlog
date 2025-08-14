@@ -9,8 +9,8 @@ category:
 tag: 
   - blog
   - programming
-  - python
   - py
+  - python
 head:
   - - meta:
     - property: og:title
@@ -27,7 +27,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-x-twitter"/>X
+## <VPIcon icon="fa-brands fa-x-twitter"/>X
 
 - [`Python_Dv` / Unpacking function arguments in Python](https://x.com/Python_Dv/status/1822771225787011194)
 
@@ -39,13 +39,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
 ### Windows Blogs
 
 - [Sandboxing Python with Win32 App Isolation](https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/)
 
-### <FontIcon icon="fa-brands fa-python"/>Python
+### <VPIcon icon="fa-brands fa-python"/>Python
 
 - [Package Management in the Python extension for Visual Studio Code](https://devblogs.microsoft.com/python/python-package-management-proposal/)
 - [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
@@ -56,7 +56,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 ```component VPCard
 {
@@ -80,19 +80,19 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-openai"/>OpenAI
+## <VPIcon icon="iconfont icon-openai"/>OpenAI
 
 - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 
 ---
 
-## <FontIcon icon="fa-brands fa-gitlab"/>Gitlab
+## <VPIcon icon="fa-brands fa-gitlab"/>Gitlab
 
 - [`cpaperma/nondet`: Non deterministic python](https://gitlab.inria.fr/cpaperma/nondet)
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 ```component VPCard
 {
@@ -128,7 +128,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@kho5420` / 🥦 Market Kurly / 1차 프로젝트](https://velog.io/@kho5420/Market-Kurly-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - [`@phyyou` / 패키지를 막 가져다 쓰는 것의 해로움 :: lol.ps](https://velog.io/@phyyou/%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EB%A7%89-%EA%B0%80%EC%A0%B8%EB%8B%A4-%EC%93%B0%EB%8A%94-%EA%B2%83%EC%9D%98-%EB%B3%B4%EC%95%88%EB%AC%B8%EC%A0%9C%EC%A0%90-lol.ps)
@@ -160,7 +160,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`geekculture` / Building a Highly Scalable Data Streaming Pipeline in Python](https://medium.com/geekculture/building-a-highly-scalable-data-streaming-pipeline-in-python-1f3d317a142a)
 - [`betterprogramming` / All the Ways To Introspect Python Objects at Runtime](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6)
@@ -192,7 +192,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`anurag629` / "The Power of Bit Manipulation: How to Solve Problems Efficiently"](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [`scofieldidehen` / Advanced Python Tips for Development](https://dev.to/scofieldidehen/advanced-python-tips-for-development-olo)
@@ -233,7 +233,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`towardsdatascience` / 12 Beginner Concepts About Type Hints To Improve Your Python Code](https://towardsdatascience.com/12-beginner-concepts-about-type-hints-to-improve-your-python-code-90f1ba0ac49)
 - [`@mildsalmon` - [이.취.코] [프로그래머스] Chap 12. 구현 - Q12. 기둥과 보 설치](https://blex.me/@mildsalmon/%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-chap-12-%EA%B5%AC%ED%98%84-q12-%EA%B8%B0%EB%91%A5%EA%B3%BC-%EB%B3%B4-%EC%84%A4%EC%B9%98)
@@ -635,7 +635,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Google Open Source
 

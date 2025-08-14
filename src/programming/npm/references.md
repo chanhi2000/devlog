@@ -75,7 +75,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [\[번역\] JSR은 또 다른 패키지 관리자가 아닙니다](https://velog.io/@surim014/jsr-is-not-another-package-manager)
 - [`surim014` / \[번역\] NPM 패키지 크기 대폭 축소하기](https://velog.io/@surim014/extremely-reducing-the-size-of-npm-packages)
@@ -114,7 +114,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@sehyunny` / (번역) 5가지 노드 버전 관리자 비교 - 어떤 것이 적합할까요?](https://velog.io/@sehyunny/5-node-manager-compared)
 

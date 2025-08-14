@@ -35,7 +35,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`garimoo` / MySQL 스터디-1](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-1-c082f31eb53)
 - [`garimoo` / MySQL 스터디-2](https://garimoo.medium.com/mysql-%EC%8A%A4%ED%84%B0%EB%94%94-2-b17af798d909)
@@ -45,13 +45,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [MySQL Beginner's Guide](https://dev.to/aaravpatel1985/mysql-beginners-guide-4mb3)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@eunbibi` - Database](https://velog.io/@eunbibi/Database)
 - [`@eunbibi` - `concat`, `alias`, `distinct`, `limit`](https://velog.io/@eunbibi/concat-alias-distinct-limit)
@@ -76,7 +76,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - Occupations](https://blex.me/@mildsalmon/occupations)
 - [`@mildsalmon` - Top Competitors](https://blex.me/@mildsalmon/top-competitors)

@@ -17,7 +17,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-swift"/>Swift
+## <VPIcon icon="fa-brands fa-swift"/>Swift
 
 - [Install Swift](https://swift.org/install/)
 - [Swift Summer of Code 2023 Summary](https://swift.org/blog/summer-of-code-2023-summary/)
@@ -47,7 +47,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-apple"/>Official Docs
+## <VPIcon icon="fa-brands fa-apple"/>Official Docs
 
 - [WebObjectsOverview](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
 - [Hello Developer: January 2024](https://developer.apple.com/news/?id=8fppguuh)
@@ -55,7 +55,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [A New Direction for Testing in Swift](https://github.com/swiftlang/swift-evolution/blob/main/visions/swift-testing.md)
 
@@ -102,7 +102,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@jwlee010523`: 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/Swift-%EA%B8%B0%EB%B3%B8-%EC%97%B0%EC%82%B0%EC%9E%90Basic-Operators)
 - [`@jwlee010523` / Swift 기본 연산자(Basic Operators)](https://velog.io/@jwlee010523/swift-basic-operators)
@@ -173,7 +173,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`dimillian` / Adding AI-generated image description to Ice Cubes](https://dimillian.medium.com/adding-ai-generated-image-description-to-ice-cubes-c4e7990a5915)
 - [Ask Apple 2022 Q&A Related on Core Data (Part 1)](https://itnext.io/ask-apple-2022-q-a-related-on-core-data-part-1-59b9a9040322)
@@ -201,7 +201,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [Swift: Evolution and backward compatibility. Exploring `@available` and `#available` attributes.](https://dev.to/bsorrentino/swift-evolution-and-backward-compatibility-exploring-available-and-available-attributes-51il)
 

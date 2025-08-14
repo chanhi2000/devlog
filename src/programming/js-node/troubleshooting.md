@@ -49,7 +49,7 @@ tag:
     └── package.json
 ```
 
-::: warning <FontIcon icon="fas fa-folder-open"/>`vuepress-plugin-mermaid-next\lib\node\`<FontIcon icon="fa-brands fa-js"/>`index.js` 파일
+::: warning <VPIcon icon="fas fa-folder-open"/>`vuepress-plugin-mermaid-next\lib\node\`<VPIcon icon="fa-brands fa-js"/>`index.js` 파일
 
 ```ts
 import markdownMermaid from './markdown-it-mermaidx.js';

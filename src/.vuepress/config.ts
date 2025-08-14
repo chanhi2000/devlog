@@ -5,7 +5,7 @@ import { visualizer } from "rollup-plugin-visualizer"
 
 /* plugins V2 */
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
+// import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 
 /* plugins 3rd-party */
 import MdDefinePlugin from 'vuepress-plugin-markdown-define2';
@@ -58,12 +58,15 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
     }),
-    googleAnalyticsPlugin({
+    MdDefinePlugin(CONSTS),
+    /* googleAnalyticsPlugin({
       id: 'G-XFRP81YMEP',
       debug: true
-    }),
-    MdDefinePlugin(CONSTS),
+    }), */
   ],
+  // Enable it with pwa
+  shouldPrefetch: false,
+  shouldPreload: false,
   extendsPage: (page) => {
   
   },

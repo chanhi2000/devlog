@@ -30,7 +30,7 @@ head:
 
 ---
 
-## 예제: <FontIcon icon="fas fa-file-lines"/>`log4j2.properties` 
+## 예제: <VPIcon icon="fas fa-file-lines"/>`log4j2.properties` 
 
 ::: details 예제
 

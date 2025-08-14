@@ -26,7 +26,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-youtube"/>YouTube
+## <VPIcon icon="fa-brands fa-youtube"/>YouTube
 
 > Paste the entire script to the Chrome DevTool (<kbd>F12</kbd>) Console
 
@@ -34,7 +34,7 @@ head:
 
 @tab fetchWL
 
-1. move to [<FontIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
+1. move to [<VPIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
 2. Paste the following code to the console
 
 ```js
@@ -55,7 +55,7 @@ copy(JSON.stringify(videos))
 
 @tab deleteWL
 
-1. move to [<FontIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
+1. move to [<VPIcon icon="fa-brands fa-youtube"/>`/playlist?list=WL`](https://youtube.com/playlist?list=WL)
 2. Paste the code to the console
 
 ```js

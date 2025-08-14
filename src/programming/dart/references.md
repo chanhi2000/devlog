@@ -43,7 +43,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`infosecwriteups` / Flutter Hackers: Uncovering the Dev's Myopia (Part 1)](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-1-6c316be56b13)
 - [`flutter-community` / How to Test Native Features in Flutter Apps with Patrol and Codemagic](https://medium.com/flutter-community/how-to-test-native-features-in-flutter-apps-with-patrol-and-codemagic-98639cb37fba)
@@ -58,7 +58,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@ethanchaee` - Flutter 설치 for Android Studio (Mac)](https://velog.io/@ethanchaee/Flutter-Flutter-%EC%84%A4%EC%B9%98-for-Android-Studio-Mac)
 - [`@de-quei` / Flutter Font 적용 안될 때](https://velog.io/@de-quei/Flutter-Font-%EC%A0%81%EC%9A%A9-%EC%95%88%EB%90%A0-%EB%95%8C)
@@ -68,7 +68,7 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp.org
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freecodeCamp.org
 
 - [Learn Networking in Flutter By Building a Simple App](https://freecodecamp.org/news/learn-networking-in-flutter)
 

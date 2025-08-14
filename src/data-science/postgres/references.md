@@ -26,7 +26,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
+## <VPIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp
 
 ```component VPCard
 {
@@ -40,21 +40,21 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
 - [cpursley/postgresql_is_enough.md](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-microsoftazure"/>Azure
+### <VPIcon icon="iconfont icon-microsoftazure"/>Azure
 
 - [How to optimize performance when using pgvector on Azure Cosmos DB for PostgreSQL](https://learn.microsoft.com/en-us/azure/cosmos-db/postgresql/howto-optimize-performance-pgvector)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [How we switched to Java 21 virtual threads and got a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
 - [`@fengruohang` - Postgres is eating the database world](https://medium.com/@fengruohang/postgres-is-eating-the-database-world-157c204dcfc4)
@@ -63,13 +63,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`yugabyte` / Comparing SQL engines by CPU instructions for simple DML](https://dev.to/yugabyte/comparing-sql-engines-by-cpu-instructions-for-dml-48a)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@qkrtkdwns3410` / postgresql vs mysql 비교](https://velog.io/@qkrtkdwns3410/postgresql-vs-mysql-%EB%B9%84%EA%B5%90)
 - [`@jeong3320` / postgres backup(`pgbackrest`)](https://velog.io/@jeong3320/postgres-backuppgbackrest)
@@ -84,7 +84,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-supabase"/>Supabse
+## <VPIcon icon="iconfont icon-supabase"/>Supabse
 
 - [Elixir clustering using Postgres](https://supabase.com/blog/elixir-clustering-using-postgres)
 - [What's new in pgvector v0.7.0](https://supabase.com/blog/pgvector-0-7-0)

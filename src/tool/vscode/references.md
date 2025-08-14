@@ -32,29 +32,29 @@ tag:
 }
 ```
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="fa-brands fa-python"/>Python
+### <VPIcon icon="fa-brands fa-python"/>Python
 
 - [Package Management in the Python extension for Visual Studio Code](https://devblogs.microsoft.com/python/python-package-management-proposal/)
 - [Python Linting in Visual Studio Code – Hinting and Linting Video Series](https://devblogs.microsoft.com/python/python-linting-video/)
 
 ---
 
-## <FontIcon icon="iconfont icon-github"/>Github
+## <VPIcon icon="iconfont icon-github"/>Github
 
-- [<FontIcon icon="iconfont icon-github"/>`hyperupcall/settings.jsonc`: VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.)](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)
+- [<VPIcon icon="iconfont icon-github"/>`hyperupcall/settings.jsonc`: VSCode config to disable popular extensions' annoyances (telemetry, notifications, welcome pages, etc.)](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`spaceofmiah` / Spring MVC on VSCode - Maven Project](https://dev.to/spaceofmiah/spring-mvc-on-vscode-maven-project-50g8#needful-vscode-extension)
 - [`morrone_carlo` / The Best VS Code Extensions For Remote Working](https://dev.to/morrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@euisuk-chung` / \[파이썬\] VS-Code keymap 오류 해결하기 (shift+enter, ctrl+a 등)](https://velog.io/@euisuk-chung/%EA%BF%80%ED%8C%81-vs-code-keymapping-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-shiftenter-ctrlenter-%EB%93%B1)
 
@@ -108,9 +108,9 @@ tag:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Java on Visual Studio Code – May 2023](https://devblogs.microsoft.com/java/java-on-visual-studio-code-may-2023/)
 

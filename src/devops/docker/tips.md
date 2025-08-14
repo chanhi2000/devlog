@@ -30,7 +30,7 @@ head:
 
 ## Rancher Desktop
 
-::: warning <FontIcon icon="iconfont icon-github"/> Rancher Desktop
+::: warning <VPIcon icon="iconfont icon-github"/> Rancher Desktop
 
 > [`rancher-sandbox/rancher-desktop`](https://github.com/rancher-sandbox/rancher-desktop/issues/7169)
 

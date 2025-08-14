@@ -31,9 +31,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-google-drive"/>Google Drive
+### <VPIcon icon="fa-brands fa-google-drive"/>Google Drive
 
 - [Ubuntu 24.10 Release & 20 Years Party ASP.NET 배포하기](https://docs.google.com/presentation/d/1QkF9X3tQoj6WPbkq5WOlWHdyh8JQThCd2YmVliFb_N8/edit)
 
@@ -41,9 +41,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-microsoft"/>Microsoft
+## <VPIcon icon="fa-brands fa-microsoft"/>Microsoft
 
-### <FontIcon icon="iconfont icon-dotnet"/>.NET Blog
+### <VPIcon icon="iconfont icon-dotnet"/>.NET Blog
 
 - [Learn about the latest .NET Productivity features](https://devblogs.microsoft.com/dotnet/learn-about-the-latest-net-productivity-features/)
 - [Orchard Core Release Candidate 2 now available](https://devblogs.microsoft.com/aspnet/orchard-core-release-candidate-2-now-available/)
@@ -81,7 +81,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`gitconnected` / Crash Course in .NET Tools](https://levelup.gitconnected.com/crash-course-in-net-tools-b2d84fd5074e)
 - [`prosetech` / Introducing C#12’s Future Features](https://yc.prosetech.com/introducing-c-12s-future-features-dba08439c92e)
@@ -95,7 +95,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`this-is-learning` / Getting started with integration testing for your Minimal API](https://dev.to/this-is-learning/getting-started-with-integration-testing-for-your-minimal-api-3j0l)
 - [`kasuken` / Getting started with BenchmarkDotNet](https://dev.to/kasuken/getting-started-with-benchmarkdotnet-13f0)
@@ -117,7 +117,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Xamarin Form에서 SNS 인증하기](https://blex.me/@DevMinGeonPark/xamarin-form%EC%97%90%EC%84%9C-sns-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
 
@@ -182,7 +182,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-redhat"/>Red Hat Developers
+## <VPIcon icon="fa-brands fa-redhat"/>Red Hat Developers
 
 - [Some more C# 12](https://developers.redhat.com/articles/2024/04/30/some-more-c-12)
 

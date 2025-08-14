@@ -40,11 +40,11 @@ prev: /programming/gradle/snippets/README.md
 
 Java로 컴파일 시 구성해야 할 항목 정의
 
-> .<FontIcon icon="fas fa-folder-open"/>`./<모듈>/`<FontIcon icon="iconfont icon-gradle"/>`build.gradle`
+> .<VPIcon icon="fas fa-folder-open"/>`./<모듈>/`<VPIcon icon="iconfont icon-gradle"/>`build.gradle`
 
 ::: tabs
 
-@tab:active <FontIcon icon="iconfont icon-gradle"/>build.gradle
+@tab:active <VPIcon icon="iconfont icon-gradle"/>build.gradle
 
 ```groovy
 compileJava {
@@ -60,7 +60,7 @@ tasks.withType(JavaCompile) {
 }
 ```
 
-@tab <FontIcon icon="iconfont icon-kotlin"/>build.gradle.kts
+@tab <VPIcon icon="iconfont icon-kotlin"/>build.gradle.kts
 
 ```kotlin
 // TODO: 작성

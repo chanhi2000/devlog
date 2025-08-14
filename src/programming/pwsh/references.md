@@ -26,7 +26,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@root-devvoo` / oh-my-posh 오류 해결방법](https://velog.io/@root-devvoo/oh-my-posh-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95)
 

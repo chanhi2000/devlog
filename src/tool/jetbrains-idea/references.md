@@ -34,7 +34,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-jetbrains"/>Jetbrains
+## <VPIcon icon="iconfont icon-jetbrains"/>Jetbrains
 
 - [The WireMock Plugin for IntelliJ IDEA Is Here!](https://blog.jetbrains.com/idea/2024/04/the-wiremock-plugin-for-intellij-idea-is-here/)
 - [Java Frameworks You Must Know in 2024](https://blog.jetbrains.com/idea/2024/04/java-frameworks-you-must-know-in-2024/)
@@ -47,13 +47,13 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@DevMinGeonPark` - Jetbrains IDE 학생 라이센스 받기](https://blex.me/@DevMinGeonPark/jetbrains-ide-%ED%95%99%EC%83%9D-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EB%B0%9B%EA%B8%B0)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@yongin01` / IntelliJ Kotlin style guide 적용하기](https://velog.io/@yongin01/IntelliJ-Kotlin-style-guide-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [`wisepine` / 나의 GitHub Copilot 활용법 & Tip (for IntelliJ)](https://velog.io/@wisepine/%EB%82%98%EC%9D%98-Github-Copilot-%ED%99%9C%EC%9A%A9%EB%B2%95-Tip-for-IntelliJ)

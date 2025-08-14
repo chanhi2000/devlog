@@ -50,7 +50,7 @@ head:
   - [🌐Official Site](https://coding-horror.github.io/basic-computer-games)
 - [cheatsnake/backend-cheats][cheatsnake/backend-cheats]: 🔰 Шпаргалка по бэкенду с картинками и не только / Backend cheatsheet with pictures and more
 - [jassics/security-study-plan][jassics/security-study-plan]: Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
-- [<FontIcon icon="iconfont icon-github"/>`pkivolowitz/asm_book`](https://github.com/pkivolowitz/asm_book): A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
+- [<VPIcon icon="iconfont icon-github"/>`pkivolowitz/asm_book`](https://github.com/pkivolowitz/asm_book): A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
 - [norvig/paip-lisp][norvig/paip-lisp]: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
   - [🌐Official Site](https://norvig.github.io/paip-lisp)
 - [l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling][l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling]: Unsupported GPUs in Dell C4130 get throttled, here's how to prevent this from happening.

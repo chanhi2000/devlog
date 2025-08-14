@@ -40,7 +40,7 @@ head:
 
 __Microsoft Edge를 실행시키지 않고__ ie를 부르는 방법
 
-- `ie.vbs`라는 Visual Basic Script 파일을 만들고 난 후 <FontIcon icon="fas fa-folder-open"/>`C:\Windows`에 저장해 준다
+- `ie.vbs`라는 Visual Basic Script 파일을 만들고 난 후 <VPIcon icon="fas fa-folder-open"/>`C:\Windows`에 저장해 준다
 
 ```vbscript
 CreateObject("InternetExplorer.Application").Visible=True

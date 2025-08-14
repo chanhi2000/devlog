@@ -20,7 +20,7 @@ tag:
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-csv2txt.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-csv2txt.ps1`
 
 ```component VPCard
 {
@@ -101,7 +101,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-mysql2csv.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-mysql2csv.ps1`
 
 ```component VPCard
 {
@@ -229,7 +229,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-ps2bat.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-ps2bat.ps1`
 
 ```component VPCard
 {
@@ -327,7 +327,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-ps2md.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-ps2md.ps1`
 
 ```component VPCard
 {
@@ -521,7 +521,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-sql2csv.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-sql2csv.ps1`
 
 ```component VPCard
 {
@@ -650,7 +650,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`convert-txt2wav.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`convert-txt2wav.ps1`
 
 ```component VPCard
 {
@@ -743,7 +743,7 @@ try {
 
 ---
 
-## <FontIcon icon="iconfont icon-powershell"/>`export-to-manuals.ps1`
+## <VPIcon icon="iconfont icon-powershell"/>`export-to-manuals.ps1`
 
 ```component VPCard
 {

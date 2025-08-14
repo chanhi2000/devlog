@@ -63,13 +63,13 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 - B. 2023년 Career Developing
   - github profile 변경
 - C. 노트정리
-  - <FontIcon icon="fa-brands fa-linux"/>`/crashcourse/devops/linux-journey`
-  - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli-mastering-curl-interactive-text-guide`
-  - <FontIcon icon="fa-brands fa-gitlab"/>`https://chanhi2000.github.io/bookshelf/freecodecamp.org/devops-with-gitlab-ci-course`
-  - <FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/text-processing-w-gnu-awk`
-  - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swift`
-  - <FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swiftui`
-  - <FontIcon icon="iconfont icon-powershell"/>`/programming/lang-pwsh/scripts-*`
+  - <VPIcon icon="fa-brands fa-linux"/>`/crashcourse/devops/linux-journey`
+  - <VPIcon icon="iconfont icon-shell"/>`/crashcourse/cli-mastering-curl-interactive-text-guide`
+  - <VPIcon icon="fa-brands fa-gitlab"/>`https://chanhi2000.github.io/bookshelf/freecodecamp.org/devops-with-gitlab-ci-course`
+  - <VPIcon icon="iconfont icon-shell"/>`/crashcourse/cli/text-processing-w-gnu-awk`
+  - <VPIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swift`
+  - <VPIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/100-days-of-swiftui`
+  - <VPIcon icon="iconfont icon-powershell"/>`/programming/lang-pwsh/scripts-*`
 
 :::
 
@@ -86,29 +86,29 @@ P.A.R.A 구조로 프로젝트 트리 변경       :        desZ2, 2023-09-30, 1
 
 ### C. 노트정리
 
-- [ ] [<FontIcon icon="iconfont icon-shell"/>`/crashcourse/cli/bash-dev`](https://chanhi2000.github.io/crashcourse/cli/bash-dev/)
-- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/swiftui-by-example`](https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example/)
-- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/shuokai-objc`](https://chanhi2000.github.io/crashcourse/swift/shuokai-objc/)
-- [ ] [<FontIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/apple-develop-in-swift`](https://chanhi2000.github.io/crashcourse/swift/apple-develop-in-swift/)
-- [ ] [<FontIcon icon="iconfont icon-spring"/>`/crashcourse/java/spring-boot-whiteship`](https://chanhi2000.github.io/crashcourse/java/spring-boot-whiteship/)
-- [ ] [<FontIcon icon="iconfont icon-kotlin"/>`/crashcourse/java/devkuma-kotest`](https://chanhi2000.github.io/crashcourse/java/devkuma-kotest/)
-- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/finance-w-python`](https://chanhi2000.github.io/crashcourse/python/finance-w-python/)
-- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/rpa-excel`](https://chanhi2000.github.io/crashcourse/python/rpa-excel/)
-- [ ] [<FontIcon icon="fa-brands fa-python"/>`/crashcourse/python/langchain-kr`](https://chanhi2000.github.io/crashcourse/python/langchain-kr/)
-- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/freecodecamp-rust-by-practice`](https://chanhi2000.github.io/crashcourse/rust/freecodecamp-rust-by-practice/)
-- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/wasm-by-example`](https://chanhi2000.github.io/crashcourse/rust/wasm-by-example/)
-- [ ] [<FontIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/eventhelix-rust-to-assembly`](https://chanhi2000.github.io/crashcourse/rust/eventhelix-rust-to-assembly/)
-- [ ] [<FontIcon icon="fa-brands fa-php"/>`/crashcourse/php/three-min-summary`](https://chanhi2000.github.io/crashcourse/php/three-min-summary/)
-- [ ] [<FontIcon icon="iconfont icon-cpp"/>`/crashcourse/cpp/algorithms-for-competitive-programming`](https://chanhi2000.github.io/crashcourse/cpp/algorithms-for-competitive-programming/)
-- [ ] [<FontIcon icon="iconfont icon-ruby"/>`/crashcourse/ruby/rubyonjets-learning-content`](https://chanhi2000.github.io/crashcourse/ruby/rubyonjets-learning-content/)
-- [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/megaparsec`](https://chanhi2000.github.io/crashcourse/haskell/megaparsec/)
-- [ ] [<FontIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/template-haskell`](https://chanhi2000.github.io/crashcourse/haskell/template-haskell/)
-- [ ] [<FontIcon icon="fa-brands fa-docker"/>`/crashcourse/docker/pearlluck`](https://chanhi2000.github.io/crashcourse/docker/pearlluck/)
-- [ ] [<FontIcon icon="iconfont icon-k8s"/>`/crashcourse/kubernetes/always-up-to-date-kubernetes`](https://chanhi2000.github.io/crashcourse/kubernetes/always-up-to-date-kubernetes/)
-- [ ] [<FontIcon icon="fa-brands fa-aws"/>`/crashcourse/devops/art-of-aws`](https://chanhi2000.github.io/crashcourse/devops/art-of-aws/)
-- [ ] [<FontIcon icon="fas fa-shield-halved"/>`/crashcourse/devops/digital-forensics-lab`](https://chanhi2000.github.io/crashcourse/devops/digital-forensics-lab/)
-- [ ] [<FontIcon icon="fa-brands fa-css3-alt"/>`/crashcourse/misc/colt-steele-mastering-css-grid`](https://chanhi2000.github.io/crashcourse/misc/colt-steele-mastering-css-grid/)
-- [ ] [<FontIcon icon="fas fa-brain"/>`/crashcourse/misc/llm-generative-ai-for-beginners`](https://chanhi2000.github.io/crashcourse/misc/llm-generative-ai-for-beginners/)
+- [ ] [<VPIcon icon="iconfont icon-shell"/>`/crashcourse/cli/bash-dev`](https://chanhi2000.github.io/crashcourse/cli/bash-dev/)
+- [ ] [<VPIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/swiftui-by-example`](https://chanhi2000.github.io/crashcourse/swift/swiftui-by-example/)
+- [ ] [<VPIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/shuokai-objc`](https://chanhi2000.github.io/crashcourse/swift/shuokai-objc/)
+- [ ] [<VPIcon icon="fa-brands fa-swift"/>`/crashcourse/swift/apple-develop-in-swift`](https://chanhi2000.github.io/crashcourse/swift/apple-develop-in-swift/)
+- [ ] [<VPIcon icon="iconfont icon-spring"/>`/crashcourse/java/spring-boot-whiteship`](https://chanhi2000.github.io/crashcourse/java/spring-boot-whiteship/)
+- [ ] [<VPIcon icon="iconfont icon-kotlin"/>`/crashcourse/java/devkuma-kotest`](https://chanhi2000.github.io/crashcourse/java/devkuma-kotest/)
+- [ ] [<VPIcon icon="fa-brands fa-python"/>`/crashcourse/python/finance-w-python`](https://chanhi2000.github.io/crashcourse/python/finance-w-python/)
+- [ ] [<VPIcon icon="fa-brands fa-python"/>`/crashcourse/python/rpa-excel`](https://chanhi2000.github.io/crashcourse/python/rpa-excel/)
+- [ ] [<VPIcon icon="fa-brands fa-python"/>`/crashcourse/python/langchain-kr`](https://chanhi2000.github.io/crashcourse/python/langchain-kr/)
+- [ ] [<VPIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/freecodecamp-rust-by-practice`](https://chanhi2000.github.io/crashcourse/rust/freecodecamp-rust-by-practice/)
+- [ ] [<VPIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/wasm-by-example`](https://chanhi2000.github.io/crashcourse/rust/wasm-by-example/)
+- [ ] [<VPIcon icon="fa-brands fa-rust"/>`/crashcourse/rust/eventhelix-rust-to-assembly`](https://chanhi2000.github.io/crashcourse/rust/eventhelix-rust-to-assembly/)
+- [ ] [<VPIcon icon="fa-brands fa-php"/>`/crashcourse/php/three-min-summary`](https://chanhi2000.github.io/crashcourse/php/three-min-summary/)
+- [ ] [<VPIcon icon="iconfont icon-cpp"/>`/crashcourse/cpp/algorithms-for-competitive-programming`](https://chanhi2000.github.io/crashcourse/cpp/algorithms-for-competitive-programming/)
+- [ ] [<VPIcon icon="iconfont icon-ruby"/>`/crashcourse/ruby/rubyonjets-learning-content`](https://chanhi2000.github.io/crashcourse/ruby/rubyonjets-learning-content/)
+- [ ] [<VPIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/megaparsec`](https://chanhi2000.github.io/crashcourse/haskell/megaparsec/)
+- [ ] [<VPIcon icon="iconfont icon-haskell"/>`/crashcourse/haskell/template-haskell`](https://chanhi2000.github.io/crashcourse/haskell/template-haskell/)
+- [ ] [<VPIcon icon="fa-brands fa-docker"/>`/crashcourse/docker/pearlluck`](https://chanhi2000.github.io/crashcourse/docker/pearlluck/)
+- [ ] [<VPIcon icon="iconfont icon-k8s"/>`/crashcourse/kubernetes/always-up-to-date-kubernetes`](https://chanhi2000.github.io/crashcourse/kubernetes/always-up-to-date-kubernetes/)
+- [ ] [<VPIcon icon="fa-brands fa-aws"/>`/crashcourse/devops/art-of-aws`](https://chanhi2000.github.io/crashcourse/devops/art-of-aws/)
+- [ ] [<VPIcon icon="fas fa-shield-halved"/>`/crashcourse/devops/digital-forensics-lab`](https://chanhi2000.github.io/crashcourse/devops/digital-forensics-lab/)
+- [ ] [<VPIcon icon="fa-brands fa-css3-alt"/>`/crashcourse/misc/colt-steele-mastering-css-grid`](https://chanhi2000.github.io/crashcourse/misc/colt-steele-mastering-css-grid/)
+- [ ] [<VPIcon icon="fas fa-brain"/>`/crashcourse/misc/llm-generative-ai-for-beginners`](https://chanhi2000.github.io/crashcourse/misc/llm-generative-ai-for-beginners/)
 
 #### C5. Notion 관련 API 도입 방법 확인
 

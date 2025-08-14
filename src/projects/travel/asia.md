@@ -36,11 +36,11 @@ tag:
 
 ::: tabs
 
-@tab <FontIcon icon="fas fa-won-sign"/> 비용
+@tab <VPIcon icon="fas fa-won-sign"/> 비용
 
 10만
 
-@tab <FontIcon icon="fas fa-pen-to-square"/> 작성사항
+@tab <VPIcon icon="fas fa-pen-to-square"/> 작성사항
 
 중국비자신청서 (간략)
 
@@ -51,8 +51,8 @@ tag:
 | 성명 | 이찬희 |
 | 주민등록번호 | 891230-1xxxxxx |
 | 여권발급지역 | 경기도 고양시 |
-| 이메일 | <FontIcon icon="fas fa-envelope"/>`chanhi2000@gmail.com` |
-| 핸드폰번호 | <FontIcon icon="fas fa-mobile"/>`010-2812-3915` |
+| 이메일 | <VPIcon icon="fas fa-envelope"/>`chanhi2000@gmail.com` |
+| 핸드폰번호 | <VPIcon icon="fas fa-mobile"/>`010-2812-3915` |
 | 집주소 | 경기도 고양시 일산서구 |
 | 출생지 | 대한민국 |
 | 혼인여부 | 미혼 |
@@ -62,22 +62,22 @@ tag:
 | 자녀(이름/생년월일) | N/A |
 | 아버지(이름/생년월일) | 이을구(1963/02/08) |
 | 어머니(이름/생년월일) | 이현경(1962/12/09) |
-| 비상연락처(이름/관계/전화번호/메일주소) | 이을구/부/<FontIcon icon="fas fa-mobile"/>`010-8932-3915`/<FontIcon icon="fas fa-envelope"/>`rheeeg@gmail.com` |
+| 비상연락처(이름/관계/전화번호/메일주소) | 이을구/부/<VPIcon icon="fas fa-mobile"/>`010-8932-3915`/<VPIcon icon="fas fa-envelope"/>`rheeeg@gmail.com` |
 | 출국예정일 | 2024/5/15 |
 | 중국체류지주소 | 항저우 |
 | 최근1년이내방문국가 | N/A |
 | 군복무기간 | 육군(2012.10-2013.06) 의병재대 |
 
-@tab <FontIcon icon="fas fa-paperclip"/> 첨부
+@tab <VPIcon icon="fas fa-paperclip"/> 첨부
 
 여권원본, 증명사진 1장
 
-@tab <FontIcon icon="fas fa-location-dot"/> 서류 배송 주소
+@tab <VPIcon icon="fas fa-location-dot"/> 서류 배송 주소
 
-- <FontIcon icon="fas fa-location-dot"/>(04555) 서울특별시 중구 수표로22.아세아빌딩 301호 홍원국제여행사 
-- 사영아팀장 (<FontIcon icon="fas fa-mobile"/>`010-7387-1619`)
+- <VPIcon icon="fas fa-location-dot"/>(04555) 서울특별시 중구 수표로22.아세아빌딩 301호 홍원국제여행사 
+- 사영아팀장 (<VPIcon icon="fas fa-mobile"/>`010-7387-1619`)
 
-@tab <FontIcon icon="fas fa-triangle-exclamation"/> 주의사항
+@tab <VPIcon icon="fas fa-triangle-exclamation"/> 주의사항
 
 - 서류 보내시는 봉투에 **꼭 신청인 연락처 기재**하시어 등기 보내주세요
 - 여권커버는 벗기고 보내주세요! 접수 과정 중 분실 우려가 있습니다

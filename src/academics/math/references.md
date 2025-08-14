@@ -51,7 +51,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-x-twitter"/>X
+## <VPIcon icon="fa-brands fa-x-twitter"/>X
 
 - [`abakcus` / The coolest visual representation of a Fourier transform. 😲 [https://bit.ly/3uCu4a9]](https://x.com/abakcus/status/1841663858248700263)
 - [`akshay_pachaar` / Eigenvalues & Eigenvectors clearly explained:](https://x.com/akshay_pachaar/status/1840730819637477736)
@@ -60,7 +60,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Google Research
 
@@ -74,7 +74,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@ksh4704` - 코드스테이츠-부트캠프 \[자료구조/알고리즘\]\(2\)](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%982)
 - [`@ksh4704` - 코드스테이츠-부트캠프 [소프트웨어 개발 방법론]](https://velog.io/@ksh4704/%EC%BD%94%EB%93%9C%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%B8%A0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95%EB%A1%A0)
@@ -90,7 +90,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-blex"/>BLEX
+## <VPIcon icon="iconfont icon-blex"/>BLEX
 
 - [`@mildsalmon` - 피보나치 수열](https://blex.me/@mildsalmon/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4)
 
@@ -130,7 +130,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-stack-exchange"/>StackExchange
+## <VPIcon icon="fa-brands fa-stack-exchange"/>StackExchange
 
 ### Physics
 

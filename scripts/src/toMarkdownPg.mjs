@@ -35,7 +35,7 @@ async function fetchFreeCodeCampNewsArticle(articlePath) {
       const frontmatter = createFrontMatter(meta)
       const endMatter = createEndMatter(meta)
       mdContent = `${frontmatter}${mdContent.replace(/https:\/\/www.youtube.com\/watch\?v=/g, 'https://youtu.be/')
-        .replace(/\[freeCodeCamp.org\]/g, '[<FontIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp.org]')
+        .replace(/\[freeCodeCamp.org\]/g, '[<VPIcon icon="fa-brands fa-free-code-camp"/>freeCodeCamp.org]')
         .replace(/\(https:\/\/www\./g, '(https://')
         .replace(/\*   /g, '- ')}${endMatter}`
       return mdContent

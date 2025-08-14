@@ -10,8 +10,8 @@ tag:
   - education
   - youtube
   - programming
-  - python
   - py
+  - python
 head:
   - - meta:
     - property: og:title

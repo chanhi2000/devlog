@@ -29,7 +29,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-nextjs"/>Next.js
+## <VPIcon icon="iconfont icon-nextjs"/>Next.js
 
 - [How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
 - [Our Journey with Caching](https://nextjs.org/blog/our-journey-with-caching)
@@ -43,7 +43,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`adminjs` / Building a blog with Next.js, AdminJS, and React: a simple step-by-step guide](https://medium.com/adminjs/building-a-blog-with-next-js-adminjs-and-react-a-simple-step-by-step-guide-8838f4e594a6)
 - [`kmong` / Next.js App Router.. 이제는 앱라적 사고가 필요하다. Deep dive 시작부터 파헤치기 Part.1](https://blog.kmong.com/next-js-app-router-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EC%95%B1%EB%9D%BC%EC%A0%81-%EC%82%AC%EA%B3%A0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4-deep-dive-%EC%8B%9C%EC%9E%91%EB%B6%80%ED%84%B0-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-part-1-6399cea5f11d?source=rss-62ff0a08953f------2)
@@ -53,14 +53,14 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`codebeast` / Can Next.js Handle 5000 Pages?](https://dev.to/codebeast/can-nextjs-handle-5000-pages-1ejn)
 - [`danielbergholz` / From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@composite` / Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
 - [`@winterlood` / 한 입 크기로 잘라먹는 Next.js(15+) 사전등록 이벤트 안내](https://velog.io/@winterlood/%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-Next.js15)

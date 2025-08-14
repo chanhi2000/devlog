@@ -34,7 +34,7 @@ head:
 
 <PDF url="https://explore.tidelift.com/2024-survey" />
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
 ### Developers
 
@@ -42,7 +42,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [`taesulee93` / 효율적인 HTTP API 버전 관리 방법 — Efficient HTTP API versioning](https://medium.com/@taesulee93/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-http-api-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-efficient-http-api-versioning-f48e11e838fc?source=rss-524631d9bcfb------2)
 - [`taesulee93` / HTTP 캐시의 종류와 Cache-Control 헤더 지시자의 의미](https://medium.com/@taesulee93/http-%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-cache-control-%ED%97%A4%EB%8D%94-%EC%A7%80%EC%8B%9C%EC%9E%90%EC%9D%98-%EC%9D%98%EB%AF%B8-7c1d9d7eec75?source=rss-524631d9bcfb------2)
@@ -51,7 +51,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@endmoseung` / [길벗 개발자 리뷰어] 읽고 나면 진짜 쉬워지는 자료 구조](https://velog.io/@endmoseung/%EA%B8%B8%EB%B2%97-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A6%AC%EB%B7%B0%EC%96%B4-%EC%9D%BD%EA%B3%A0-%EB%82%98%EB%A9%B4-%EC%A7%84%EC%A7%9C-%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0)
 - [`@broccolism` / 🗳️ 합의 알고리즘 Raft 논문 읽기 - 1. 누가누가 리더가 되나](https://velog.io/@broccolism/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Raft-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-1.-%EB%88%84%EA%B0%80%EB%88%84%EA%B0%80-%EB%A6%AC%EB%8D%94%EA%B0%80-%EB%90%98%EB%82%98)
@@ -81,7 +81,7 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-dev"/>dev.to
+## <VPIcon icon="fa-brands fa-dev"/>dev.to
 
 - [`lsahn` / The Power of Memory Map](https://dev.to/lsahn/the-power-of-memory-map-8f6)
 
@@ -220,7 +220,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-velog"/>velog
+## <VPIcon icon="iconfont icon-velog"/>velog
 
 - [`@dongha1992` / 99클럽 코테 스터디 25일차 - 그래프](https://velog.io/@dongha1992/99%ED%81%B4%EB%9F%BD-%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-25%EC%9D%BC%EC%B0%A8-%EA%B7%B8%EB%9E%98%ED%94%84)
 - [`@broccolism` / 📚 합의 알고리즘 Raft  논문 읽기 - 0. 그게 무엇?](https://velog.io/@broccolism/%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Raft-%EB%85%BC%EB%AC%B8-%EC%9D%BD%EA%B8%B0-0.-%EA%B7%B8%EA%B2%8C-%EB%AC%B4%EC%97%87)

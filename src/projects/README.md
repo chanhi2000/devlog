@@ -30,9 +30,9 @@ tag:
 
 ## Table of Contents
 
-- [<FontIcon icon="fas fa-flag-checkered"/>My Roadmap](roadmap/README.md)
-- [<FontIcon icon="fa-brands fa-fort-awesome"/>Portfolio](portfolio/README.md)
-- [<FontIcon icon="fas fa-compass"/>Lifeguide](lifeguide/README.md)
+- [<VPIcon icon="fas fa-flag-checkered"/>My Roadmap](roadmap/README.md)
+- [<VPIcon icon="fa-brands fa-fort-awesome"/>Portfolio](portfolio/README.md)
+- [<VPIcon icon="fas fa-compass"/>Lifeguide](lifeguide/README.md)
 
 
 ---

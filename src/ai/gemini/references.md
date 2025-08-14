@@ -31,9 +31,9 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-google"/>Google
+## <VPIcon icon="fa-brands fa-google"/>Google
 
-### <FontIcon icon="fa-brands fa-chrome"/>Chrome for Developers
+### <VPIcon icon="fa-brands fa-chrome"/>Chrome for Developers
 
 - [Gemini로 오류 및 경고 이해하기](https://developer.chrome.com/docs/devtools/console/understand-messages)
 

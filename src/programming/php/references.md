@@ -26,13 +26,13 @@ head:
 
 ---
 
-## <FontIcon icon="fa-brands fa-wordpress"/>WordPress.com
+## <VPIcon icon="fa-brands fa-wordpress"/>WordPress.com
 
 - [Meet Studio: Your New Favorite Way to Develop WordPress Locally](https://wordpress.com/blog/2024/04/24/studio/)
 
 ---
 
-## <FontIcon icon="fa-brands fa-medium"/>Medium
+## <VPIcon icon="fa-brands fa-medium"/>Medium
 
 - [$this vs parent vs self vs static](https://medium.com/@erlandmuchasaj/this-vs-parent-vs-self-vs-static-2e1e89a42dca)
 - [PHPMD: A PHP Code Smells Detector](https://mprtmma.medium.com/phpmd-a-php-code-smells-detector-d9c014d212a6)

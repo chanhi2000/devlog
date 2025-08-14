@@ -75,7 +75,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-naver"/>NAVER D2
+## <VPIcon icon="iconfont icon-naver"/>NAVER D2
 
 > d2.naver.com
 
@@ -103,7 +103,7 @@ head:
 
 ---
 
-## <FontIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
+## <VPIcon icon="iconfont icon-kakao"/>카카오테크, 미래의 문턱을 낮추는 기술
 
 > tech.kakao.com
 

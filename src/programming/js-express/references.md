@@ -1,25 +1,28 @@
 ---
 lang: ko-KR
 title: References
-description: Jest > References
+description: Express.js > References
 icon: fas fa-book-atlas
 category:
   - Node.js
-  - Jest
+  - Express.js
   - References
 tag: 
   - node
   - nodejs
   - node-js
+  - express
+  - expressjs
+  - express-js
   - jest
 head:
   - - meta:
     - property: og:title
-      content: Jest > References
+      content: Express.js > References
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-jest/references.html
+      content: https://chanhi2000.github.io/programming/js-express/references.html
 ---
 
 # {{ $frontmatter.title }} 관련
