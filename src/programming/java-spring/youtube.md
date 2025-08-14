@@ -80,7 +80,7 @@ head:
 <MyYouTubeItems jsonName="yu-MikesTechCorner" /><!-- Mike Møller Nielsen -->
 <MyYouTubeItems jsonName="yu-user-ht2jq8bg9b" /><!-- 이숭무 샘 -->
 <MyYouTubeItems jsonName="yu-systemv1968" /><!-- System V -->
-<MyYouTubeItems jsonName="yu-user-jc7ek9jk3l" /><!-- 차태진 -->
+<MyYouTubeItems jsonName="yu-차태진" /><!-- 차태진 -->
 <MyYouTubeItems jsonName="yu-BoostMyTool" /><!-- BoostMyTool -->
 <MyYouTubeItems jsonName="yu-code_name_sagang" /><!-- 사강코딩 -->
 <MyYouTubeItems jsonName="yu-SeleniumExpress" /><!-- Selenium Express -->

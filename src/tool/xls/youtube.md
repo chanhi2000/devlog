@@ -119,5 +119,6 @@ head:
 <MyYouTubeItems jsonName="yu-SuperExcell" /><!-- Super Excel -->
 <MyYouTubeItems jsonName="yu-excelformulas4" /><!-- excel formulas -->
 <MyYouTubeItems jsonName="yu-capacitateahora7441" /><!-- Capacitate ahora -->
+<MyYouTubeItems jsonName="yu-enriquexls" /><!-- ENRIQUE XLS -->
 
 <TagLinks />

@@ -74,7 +74,7 @@ brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
   cheat clipgrab cocoapods exiftool ffmpeg fizz flac git lazygit \
   hyperfine mas fastfetch nushell fnm openssl pixman lazydocker \
   python poetry rust scrcpy starship tmux tokei watchman \
-  wget xz zsh mac-cleanup-py;
+  wget xz zsh zoxide mac-cleanup-py;
 brew install koekeishiya/formulae/yabai;
 brew install koekeishiya/formulae/skhd;
 

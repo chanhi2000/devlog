@@ -6,6 +6,9 @@
     "banner": ""
   },
   "videos": [
+    { "id": "hzheJLbfnio", "title": "2024 한림대학교 컴퓨터구조: 4주차 대면수업 녹화영상" },
+    { "id": "agQnqkarhpc", "title": "2024 한림대학교 컴퓨터구조: 4주차-산술Shift 명령어 세부 설명" },
+    { "id": "uSw8_Ojix5E", "title": "EasyTensor - 2024/2 Capstone Project: C/CUDA based Deep Learning Accelerating Platform." },
     { "id": "HwPktJ9ZlrU", "title": "[2023 한림대학교 컴퓨터구조] 13주차 실습 제어회로 설계 01" },
     { "id": "fdA9cTbP0nU", "title": "14주차   입출력 장치를 제어하는 설계" }
   ]

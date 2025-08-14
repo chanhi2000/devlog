@@ -678,5 +678,12 @@
     "topics": ["windows", "csharp", "dll", "dependency-walker"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/153d154b18b137242bcbad1710fd4394d16c213cebd5e95053eae1c5f997e58c/hfiref0x/WinDepends"
+  }, {
+    "repo": "PixiEditor/PixiEditor",
+    "desc": "PixiEditor is a Universal Editor for all your 2D needs",
+    "officialSite": "https://pixieditor.net",
+    "topics": ["editor", "csharp", "procedural-generation", "sprites", "pixel-art", "graphics", "dotnetcore", "game-development", "tabs", "procedural-drawing", "dotnet-core", "pixi", "vector-graphics", "painting", "avaloniaui", "linux-desktop", "2d", "graphics-editor", "raster-graphics"],
+    "avatar": "https://avatars.githubusercontent.com/u/197739070?v=4",
+    "banner": "https://repository-images.githubusercontent.com/152307081/66c3bc0b-ba35-4ae8-beb6-d50d054262a9"
   }
 ]

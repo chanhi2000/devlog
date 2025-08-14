@@ -144,10 +144,10 @@ Copy and Paste the following to the Powershell Prompt
 ```powershell
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
-    dbeaver googlechrome fiddler windirstat 7zip `
+    dbeaver googlechrome glazewm fiddler windirstat 7zip `
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal `
-    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
 
 @tab <FontIcon icon="fas fa-gears"/>cmd
@@ -155,10 +155,10 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 ```batch
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
-    dbeaver googlechrome fiddler windirstat 7zip ^
+    dbeaver googlechrome glazewm fiddler windirstat 7zip ^
     procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal ^
-    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd
+    twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
 
 :::
@@ -191,7 +191,7 @@ Copy and Paste the following to the Powershell Prompt
 ```powershell
 scoop bucket add extras
 scoop install 7zip cheat hyperfine fastfetch nu `
-oh-my-posh terminal-icons tokei watchman git lazygit `
+oh-my-posh terminal-icons tokei watchman git lazygit zoxide`
 lazydocker
 ```
 
@@ -199,7 +199,7 @@ lazydocker
 
 ```batch
 scoop install 7zip cheat hyperfine fastfetch nu ^
-oh-my-posh terminal-icons tokei watchman git lazygit ^
+oh-my-posh terminal-icons tokei watchman git lazygit zoxide^
 lazydocker
 ```
 

@@ -4611,5 +4611,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/da25052a1c1eb8c53de7a212727414d66a82e71e0b3e18234bbf0086370a62ec/cline/cline"
+  }, {
+    "repo": "keplergl/kepler.gl",
+    "desc": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+    "officialSite": "http://kepler.gl",
+    "topics": ["visualization", "geospatial", "data-visualization", "kepler", "mapbox"],
+    "avatar": "https://avatars.githubusercontent.com/u/197739070?v=4",
+    "banner": "https://opengraph.githubassets.com/25d41743f7241e260c463732a06b2206b8009bb5f87af4f664d7a64659f219de/keplergl/kepler.gl"
   }
 ]
