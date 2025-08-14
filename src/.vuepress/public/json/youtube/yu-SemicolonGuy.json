@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "id": "SemicolonGuy",
+    "name": "Semicolon Guy",
+    "profile": "https://yt3.googleusercontent.com/cyAPylRntGZykS2yzuDtOG0Ku-L_YULEbiir6SOIH3cT9irro4CcF9-RgGwtzVNHQlEbqUP_=s120-c-k-c0x00ffffff-no-rj",
+    "banner": "https://yt3.googleusercontent.com/jv7nJz_F6QmCCgHFUATSucAK_Wi3yUKVrEr8qAQgqFukWczDW_Qam5L57SYA9W5Jr8kpILIZFg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+  },
+  "videos": [
+    { "id": "ZWWV6-PvPAQ", "title": "STOP Asking These Questions as a Software Engineer (from xAmazon)" },
+    { "id": "H3Yvlz-0GYc", "title": "Coding Interview Mistakes You NEED To Avoid" },
+    { "id": "zLdIyxXd0_s", "title": "How LLM like ChatGPT Works (in SIMPLE words)" },
+    { "id": "1nihV6-DgMY", "title": "Remote Jobs: The Hidden Costs You Can't Afford to Ignore" },
+    { "id": "BrD1YYfhaVc", "title": "FIVE software engineering skills YOU CAN'T MISS in 2025" },
+    { "id": "CTu6w59bdD0", "title": "Coding Isn’t Dead (STOP Getting Distracted)" },
+    { "id": "NehBDL4pot0", "title": "IS Tech Job Security a MYTH in 2025?" },
+    { "id": "l6K1Myq1WV0", "title": "3 Qualities of TOP Frontend Engineers You Can't Afford to Ignore" },
+    { "id": "1zSOCfT3rUU", "title": "What Professional Frontend Engineers ACTUALLY Do?" },
+    { "id": "s8hvpRmfou4", "title": "Masterclass: Frontend Development with AI" },
+    { "id": "RsSvacf7Eso", "title": "How to Create a GREAT Frontend YouTube Comment System Design" },
+    { "id": "Rt392Oc2THs", "title": "FRESHER doesn't know ENGLISH but know CODING | Can he crack interview?" },
+    { "id": "zeUfY110SNE", "title": "Mechanical student cracked ReactJS interview 🤯 | Ep. 18" },
+    { "id": "4d00x5H2hkc", "title": "20 Days into ReactJS but still cracked interview | ReactJS mock interview" },
+    { "id": "QxfoRSTSeU0", "title": "The ABSOLUTE BEST Way to become a WEB DEVELOPER in 2025" },
+    { "id": "AuQAyBAfYE0", "title": "I Created My OWN PROGRAMMING Language in 2024 and Here's What Happened" },
+    { "id": "U-Rl3MheLvI", "title": "Frontend ReactJS fresher mock interview | Ep.21" }
+  ],
+  "playlists": [
+
+  ]
+}
