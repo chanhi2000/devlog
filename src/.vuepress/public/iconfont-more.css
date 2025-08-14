@@ -14,8 +14,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-containerd:before { content: "\e9b3"; }
-.icon-css-tricks:before { content: "\e9b2"; }
+.icon-digitalocean:before { content: "\e9b3"; }
+.icon-containerd:before { content: "\e9b2"; }
+.icon-css-tricks:before { content: "\e9b1"; }
 .icon-nuget:before { content: "\e9b0"; }
 .icon-render:before { content: "\e9af"; }
 .icon-hostinger:before { content: "\e9ae"; }
