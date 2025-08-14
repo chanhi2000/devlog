@@ -1430,6 +1430,13 @@ http://texturer.com/
   logo="https://freesets.dev/favicon.svg"
   preview="https://res.cloudinary.com/cosmocloudinary/image/upload/f_auto,q_auto/v1/freesets/og/home"/>
 
+<SiteInfo
+  name="Favicon Generator for perfect icons on all browsers"
+  desc="The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages."
+  url="https://realfavicongenerator.net"
+  logo="https://realfavicongenerator.net/icon1.png?2756e3165bd3c99b"
+  preview="https://realfavicongenerator.net/assets/images/social/open-graph?title=Favicon%20Generator%20for%20perfect%20icons%20on%20all%20browsers"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps
