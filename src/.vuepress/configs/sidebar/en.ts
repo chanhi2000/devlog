@@ -1443,7 +1443,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Symfony',
       collapsible: true,
-      icon: 'iconfont icon-symfony',
+      icon: 'fa-brands fa-symfony',
       children: [
         '/programming/php-symfony/README.md',
         '/programming/php-symfony/references.md',
