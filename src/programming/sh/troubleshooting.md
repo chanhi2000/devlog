@@ -6,12 +6,19 @@ icon: fas fa-bug-slash
 category:
   - Shell
   - Troubleshooting
-tag: 
-  - bash
-  - linux
-  - macos
+tag:
+  - sh
+  - shell
   - terminal
   - sed
+head:
+  - - meta:
+    - property: og:title
+      content: Shell > Tips
+    - property: og:description
+      content: Tips
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/sh/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

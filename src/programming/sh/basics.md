@@ -6,14 +6,21 @@ icon: fas fa-egg
 category:
   - Shell
   - Basics
-tag: 
-  - bash
-  - linux
-  - macos
+tag:
+  - sh
+  - shell
   - terminal
   - alias
   - tail
   - multiline
+head:
+  - - meta:
+    - property: og:title
+      content: Shell > Basics
+    - property: og:description
+      content: Basics
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/sh/basics.html
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -4,13 +4,28 @@ title: Youtube
 description: Kali Linux > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - Linux
   - Debian
   - Kali Linux
   - Youtube 
 tag: 
+  - devops
+  - linux
+  - debian
+  - kali
+  - kalilinux
+  - kali-linux
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Kali Linux > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-debian/kali/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

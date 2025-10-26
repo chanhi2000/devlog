@@ -9,9 +9,8 @@ category:
 tag:
   - "youtube"
   - "tutorial"
-  - "bash"
-  - "linux"
-  - "macos"
+  - "sh"
+  - "shell"
   - "terminal"
   - "sed"
   - "sh"
@@ -31,6 +30,14 @@ tag:
   - "@LukeSmithxyz"
   - "@K0P"
   - "@EngineerMan"
+head:
+  - - meta:
+    - property: og:title
+      content: Shell > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/sh/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

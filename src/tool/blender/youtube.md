@@ -1,29 +1,27 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Alpine > Youtube
+description: Blender > Youtube
 icon: fa-brands fa-youtube
-category:
-  - DevOps
-  - Linux
-  - Debian
-  - Alpine
-  - Youtube 
+category: 
+  - Video Editing
+  - Blender
+  - Youtube
 tag: 
-  - devops
-  - linux
-  - debian
-  - alpine
+  - blender
+  - vid
+  - video
+  - video-editing
   - youtube
   - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Alpine > Youtube
+      content: Blender > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/youtube.html
+      content: https://chanhi2000.github.io/tool/blender/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

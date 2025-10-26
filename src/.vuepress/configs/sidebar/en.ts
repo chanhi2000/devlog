@@ -84,6 +84,26 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'GNU Make',
+      collapsible: true,
+      icon: 'iconfont icon-gnu',
+      children: [
+        '/programming/sh-make/README.md',
+        '/programming/sh-make/basics.md',
+        '/programming/sh-make/tips.md',
+        '/programming/sh-make/references.md',
+        '/programming/sh-make/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/sh-make/articles/README.md',
+            asb.freecodecamp("sh-make"),
+          ]
+        }
+      ]
+    }, {
       text: 'Batchfile',
       collapsible: true,
       icon: 'fas fa-gears',
@@ -2114,6 +2134,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Postman',
+      collapsible: true,
+      icon: 'iconfont icon-postman',
+      children: [
+        '/tool/postman/README.md',
+        '/tool/postman/references.md',
+        '/tool/postman/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/postman/articles/README.md',
+            asb.freecodecamp('postman'),
+          ]
+        }
+      ]
+    }, {
       text: 'Notion',
       collapsible: true,
       icon: 'iconfont icon-notion',
@@ -2187,7 +2225,7 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
-      text: 'DaVinci',
+      text: 'DaVinci Resolve',
       collapsible: true,
       icon: 'iconfont icon-davinci',
       children: [
@@ -2201,6 +2239,24 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/davinci/articles/README.md',
             asb.freecodecamp("davinci"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Blender',
+      collapsible: true,
+      icon: 'iconfont icon-blender',
+      children: [
+        '/tool/blender/README.md',
+        '/tool/blender/references.md',
+        '/tool/blender/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/blender/articles/README.md',
+            asb.freecodecamp("blender"),
           ]
         }
       ]
@@ -2351,20 +2407,20 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
-      text: 'Postman',
+      text: 'asciinema',
       collapsible: true,
-      icon: 'iconfont icon-postman',
+      icon: 'iconfont icon-asciinema',
       children: [
-        '/tool/postman/README.md',
-        '/tool/postman/references.md',
-        '/tool/postman/youtube.md',
+        '/tool/asciinema/README.md',
+        '/tool/asciinema/references.md',
+        '/tool/asciinema/youtube.md',
         {
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
           children: [
-            '/tool/postman/articles/README.md',
-            asb.freecodecamp('postman'),
+            '/tool/asciinema/articles/README.md',
+            asb.tecmint("asciinema"),
           ]
         }
       ]
@@ -2617,6 +2673,15 @@ export const sidebarEn = sidebar({
             '/devops/linux-debian/alpine/youtube.md',
           ]
         }, {
+          text: 'Gentoo',
+          collapsible: true,
+          icon: 'iconfont icon-gentoo',
+          children: [
+            '/devops/linux-debian/gentoo/README.md',
+            '/devops/linux-debian/gentoo/references.md',
+            '/devops/linux-debian/gentoo/youtube.md',
+          ]
+        }, {
           text: 'Raspberry Pi',
           collapsible: true,
           icon: 'fa-brands fa-raspberry-pi',
@@ -2660,14 +2725,23 @@ export const sidebarEn = sidebar({
             '/devops/linux-fedora/centos/references.md',
             '/devops/linux-fedora/centos/youtube.md',
           ]
-        },  {
-          text: 'CentOS',
+        }, {
+          text: 'Rocky Linux',
           collapsible: true,
           icon: 'iconfont icon-rockylinux',
           children: [
             '/devops/linux-fedora/rocky/README.md',
             '/devops/linux-fedora/rocky/references.md',
             '/devops/linux-fedora/rocky/youtube.md',
+          ]
+        }, {
+          text: 'AlmaLinux',
+          collapsible: true,
+          icon: 'iconfont icon-almalinux',
+          children: [
+            '/devops/linux-fedora/almalinux/README.md',
+            '/devops/linux-fedora/almalinux/references.md',
+            '/devops/linux-fedora/almalinux/youtube.md',
           ]
         }, 
         '/devops/linux-fedora/systemctl.md',

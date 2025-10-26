@@ -1,21 +1,24 @@
 ---
 lang: ko-KR
-title: Shell
-description: Shell
-icon: iconfont icon-shell
+title: asciinema
+description: asciinema
+icon: iconfont icon-asciinema
 category:
+  - Tool
   - Shell
+  - asciinema
 tag:
   - sh
   - shell
+  - asciinema
 head:
   - - meta:
     - property: og:title
-      content: Shell
+      content: asciinema
     - property: og:description
-      content: Shell
+      content: asciinema
     - property: og:url
-      content: https://chanhi2000.github.io/programming/sh/
+      content: https://chanhi2000.github.io/tool/asciinema/
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -26,7 +29,7 @@ head:
 
 ## Table of Contents
 
-<ToCLocal basePath="/programming/sh/" />
+<ToCLocal basePath="/tool/asciinema/" />
 
 ---
 

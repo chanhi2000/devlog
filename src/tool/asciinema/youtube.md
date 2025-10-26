@@ -1,29 +1,26 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Alpine > Youtube
+description: asciinema > Youtube
 icon: fa-brands fa-youtube
 category:
-  - DevOps
-  - Linux
-  - Debian
-  - Alpine
-  - Youtube 
-tag: 
-  - devops
-  - linux
-  - debian
-  - alpine
+  - Tool
+  - Shell
+  - asciinema
+  - Youtube
+tag:
+  - sh
+  - shell
+  - asciinema
   - youtube
-  - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Alpine > Youtube
+      content: asciinema > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/youtube.html
+      content: https://chanhi2000.github.io/tool/asciinema/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

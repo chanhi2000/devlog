@@ -1,29 +1,28 @@
 ---
 lang: ko-KR
 title: References
-description: Alpine > References
+description: AlmaLinux > References
 icon: fas fa-book-atlas
 category:
   - DevOps
   - Linux
-  - Debian
-  - Alpine
-  - References 
-tag: 
+  - Fedora
+  - AlmaLinux
+  - References
+tag:
   - devops
   - linux
-  - debian
-  - alpine
-  - pacman
-  - package-manager
+  - fedora
+  - almalinux
+  - alma-linux
 head:
   - - meta:
     - property: og:title
-      content: Alpine > References
+      content: AlmaLinux > References
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/references.html
+      content: https://chanhi2000.github.io/devops/linux-fedora/almalinux/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

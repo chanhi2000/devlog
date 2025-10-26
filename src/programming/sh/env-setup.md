@@ -1,15 +1,15 @@
 ---
 lang: ko-KR
 title: Environment Setup
-description: Linux - Debain > Environment Setup
+description: Shell > Environment Setup
 icon: fas fa-toolbox
 category:
-  - Linux 
-  - Debain
+  - Shell
   - Environment Setup
 tag: 
   - sh
-  - bash
+  - shell
+  - terminal
   - zsh
   - oh-my-zsh
   - ohmyzsh
@@ -25,6 +25,14 @@ tag:
   - temurin11
   - docker
   - neofetch
+head:
+  - - meta:
+    - property: og:title
+      content: Shell > Environment Setup
+    - property: og:description
+      content: Environment Setup
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/sh/env-setup.html
 ---
 
 # {{ $frontmatter.title }} 관련

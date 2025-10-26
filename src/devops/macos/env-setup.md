@@ -380,6 +380,16 @@ alias m3u8Get='f(){ ffmpeg -protocol_whitelist https,tls,tcp -allowed_extensions
 alias startKVM='brew services start libvirt'
 alias stopKVM='brew services stop libvirt'
 alias ghostty-config="vi $GHOSTTY_CONFIG"
+alias egrep='egrep - - color=auto'
+alias fgrep=' fgrep - -color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias brewup="brew update && brew upgrade"
+alias ..="cd .."
+alias ...="cd ../.."
 
 lg() {
   export LAZYGIT_NEW_DIR_FILE=~/.lazygit/newdir

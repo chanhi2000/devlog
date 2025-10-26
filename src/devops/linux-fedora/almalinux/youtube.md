@@ -1,29 +1,30 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Alpine > Youtube
+description: AlmaLinux > Youtube
 icon: fa-brands fa-youtube
 category:
   - DevOps
   - Linux
-  - Debian
-  - Alpine
+  - Fedora
+  - AlmaLinux
   - Youtube 
-tag: 
+tag:
   - devops
   - linux
-  - debian
-  - alpine
+  - fedora
+  - almalinux
+  - alma-linux
   - youtube
   - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Alpine > Youtube
+      content: "AlmaLinux > Youtube"
     - property: og:description
-      content: Youtube
+      content: "Youtube"
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/youtube.html
+      content: https://chanhi2000.github.io/devops/linux-fedora/almalinux/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

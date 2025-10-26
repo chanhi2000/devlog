@@ -1,5 +1,6 @@
 [
   { "logo": "airtable", "name": "Airtable", "colorHex": "18BFFF" },
+  { "logo": "alamlinux", "name": "AlmaLinux", "colorHex": "000000" },
   { "logo": "angular", "name": "Angular", "colorHex": "0F0F11" },
   { "logo": "amazon", "name": "Amazon", "colorHex": "FF9900" },
   { "logo": "amazonaws", "name": "AWS", "colorHex": "FF9900" },
@@ -67,6 +68,7 @@
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },
   { "logo": "flydotio", "name": "Fly.io", "colorHex": "24175B" },
   { "logo": "gatling", "name": "Gatling", "colorHex": "FF9E2A" },
+  { "logo": "gentoo", "name": "Gentoo", "colorHex": "54487A" },
   { "logo": "git", "name": "Git", "colorHex": "F05032" },
   { "logo": "go", "name": "Go", "colorHex": "00ADD8" },
   { "logo": "gradio", "name": "Gradio", "colorHex": "F97316" },

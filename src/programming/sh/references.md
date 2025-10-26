@@ -6,12 +6,19 @@ icon: fas fa-book-atlas
 category: 
   - Shell
   - References
-tag: 
-  - bash
-  - linux
-  - macos
+tag:
+  - sh
+  - shell
   - terminal
   - alias
+head:
+  - - meta:
+    - property: og:title
+      content: Shell > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/sh/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

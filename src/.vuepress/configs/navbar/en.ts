@@ -114,8 +114,10 @@ export const navbarEn = navbar([
         icon: 'fas fa-keyboard',
       }, {
         text: 'Shell',
-        icon: 'iconfont icon-shell',
-        link: '/programming/sh/README.md',
+        children: [
+          '/programming/sh/README.md',
+          '/programming/sh-make/README.md',
+        ]
       }, {
         text: 'Batchfile (Windows)',
         link: '/programming/batchfile/README.md',
@@ -350,6 +352,7 @@ export const navbarEn = navbar([
           '/devops/linux-debian/kali/README.md',
           '/devops/linux-debian/parrot/README.md',
           '/devops/linux-debian/alpine/README.md',
+          '/devops/linux-debian/gentoo/README.md',
           '/devops/linux-debian/truenas/README.md',
           '/devops/linux-debian/raspberry-pi/README.md',
         ]
@@ -359,6 +362,7 @@ export const navbarEn = navbar([
           '/devops/linux-fedora/README.md',
           '/devops/linux-fedora/centos/README.md',
           '/devops/linux-fedora/rocky/README.md',
+          '/devops/linux-fedora/almalinux/README.md',
         ]
       }, {
         text: 'Linux - NixOS',
@@ -655,6 +659,7 @@ export const navbarEn = navbar([
           '/tool/chrome/README.md',
           '/tool/firefox/README.md',
           '/tool/safari/README.md',
+          '/tool/postman/README.md',
         ]
       }, {
         text: 'Productivity',
@@ -674,6 +679,7 @@ export const navbarEn = navbar([
           '/tool/figma/README.md',
           '/tool/sketch/README.md',
           '/tool/davinci/README.md',
+          '/tool/blender/README.md',
         ]
       }, { 
         text: 'crontab',
@@ -715,9 +721,9 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-nmap',
         link: '/tool/nmap/README.md',
       }, {
-        text: 'Postman',
-        icon: 'iconfont icon-postman',
-        link: '/tool/postman/README.md',
+        text: 'asciinema',
+        icon: 'iconfont icon-asciinema',
+        link: '/tool/asciinema/README.md',
       }, {
         text: 'Wireshark',
         icon: 'iconfont icon-wireshark',

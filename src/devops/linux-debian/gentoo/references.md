@@ -1,29 +1,29 @@
 ---
 lang: ko-KR
 title: References
-description: Alpine > References
+description: Gentoo > References
 icon: fas fa-book-atlas
 category:
   - DevOps
   - Linux
   - Debian
-  - Alpine
+  - Gentoo
   - References 
 tag: 
   - devops
   - linux
   - debian
-  - alpine
+  - gentoo
   - pacman
   - package-manager
 head:
   - - meta:
     - property: og:title
-      content: Alpine > References
+      content: Gentoo > References
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/references.html
+      content: https://chanhi2000.github.io/devops/linux-debian/Gentoo/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

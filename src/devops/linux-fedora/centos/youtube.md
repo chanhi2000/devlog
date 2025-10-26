@@ -4,11 +4,13 @@ title: Youtube
 description: CentOS > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - Linux
   - Fedora
   - CentOS
   - Youtube 
 tag:
+  - devops
   - linux
   - fedora
   - centos

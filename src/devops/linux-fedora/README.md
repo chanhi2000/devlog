@@ -13,6 +13,8 @@ tag:
   - fedora
   - redhat
   - centos
+  - almalinux
+  - alma-linux
 head:
   - - meta:
     - property: og:title
@@ -25,7 +27,7 @@ head:
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="centos"/>
+<ShieldsGroup logos="fedora,centos,redhat,almalinux,rockylinux"/>
 
 ---
 

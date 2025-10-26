@@ -4,11 +4,13 @@ title: Youtube
 description: Rocky Linux > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - Linux
   - Fedora
   - Rocky Linux
   - Youtube 
 tag:
+  - devops
   - linux
   - fedora
   - rocky
@@ -18,9 +20,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: "Rocky Linux > Youtube"
+      content: Rocky Linux > Youtube
     - property: og:description
-      content: "Youtube"
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/devops/linux-fedora/rocky/youtube.html
 ---

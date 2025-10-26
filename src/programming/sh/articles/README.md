@@ -17,7 +17,8 @@ tag:
   - engineering.linecorp.com
   - smashingmagazine.com
   - sh
-  - bash
+  - shell
+  - terminal
 head:
   - - meta:
     - property: og:title

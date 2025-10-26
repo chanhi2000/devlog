@@ -4,15 +4,28 @@ title: References
 description: Kali Linux > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Linux
   - Debian
   - Kali Linux
   - References 
 tag: 
+  - devops
   - linux
   - debian
+  - kali
+  - kalilinux
+  - kali-linux
   - pacman
   - package-manager
+head:
+  - - meta:
+    - property: og:title
+      content: Kali Linux > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-debian/kali/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

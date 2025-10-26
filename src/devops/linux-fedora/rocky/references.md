@@ -4,10 +4,13 @@ title: References
 description: Rocky Linux > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Linux
   - Fedora
   - Rocky Linux
+  - References
 tag:
+  - devops
   - linux
   - fedora
   - rocky
@@ -16,9 +19,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: "Article(s) > Youtube"
+      content: Rocky Linux > References
     - property: og:description
-      content: "Youtube"
+      content: References
     - property: og:url
       content: https://chanhi2000.github.io/devops/linux-fedora/rocky/youtube.html
 ---

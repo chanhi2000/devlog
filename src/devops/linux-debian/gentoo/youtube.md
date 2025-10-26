@@ -1,29 +1,29 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Alpine > Youtube
+description: Gentoo > Youtube
 icon: fa-brands fa-youtube
 category:
   - DevOps
   - Linux
   - Debian
-  - Alpine
+  - Gentoo
   - Youtube 
 tag: 
   - devops
   - linux
   - debian
-  - alpine
+  - gentoo
   - youtube
   - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Alpine > Youtube
+      content: Gentoo > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/alpine/youtube.html
+      content: https://chanhi2000.github.io/devops/linux-debian/gentoo/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

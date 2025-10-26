@@ -4,21 +4,24 @@ title: References
 description: CentOS > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Linux
   - Fedora
   - CentOS
+  - References
 tag:
+  - devops
   - linux
   - fedora
-  - centos
-  - cent-os
+  - almalinux
+  - alma-linux
   - package-manager
 head:
   - - meta:
     - property: og:title
-      content: "Article(s) > References"
+      content: CentOS > References
     - property: og:description
-      content: "References"
+      content: References
     - property: og:url
       content: https://chanhi2000.github.io/devops/linux-fedora/centos/references.html
 ---
