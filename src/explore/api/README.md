@@ -527,6 +527,13 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://eli64s.github.io/readme-ai/assets/images/favicon.png"
   preview="https://docs.readme-ai.com/assets/images/social/index.png"/>
 
+<SiteInfo
+  name="VERT.sh — Free, fast, and awesome file converter"
+  desc="With VERT you can quickly convert any image, video and audio file. No ads, no tracking, open source, and all processing (other than video) is done on your device."
+  url="https://vert.sh/"
+  logo="https://vert.sh/favicon.png"
+  preview="https://vert.sh/_app/immutable/assets/VERT_Feature.D5UIwpMt.webp"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1463,6 +1470,23 @@ http://texturer.com/
   "background": "rgba(244,245,255,0.2)"
 }
 ```
+
+```component VPCard
+{
+  "title": "SVG Converter",
+  "desc": "Upload an image, select colors using color picker, and convert it to SVG format",
+  "link": "https://svgconverter.online/",
+  "logo": "https://svgconverter.online/favicon.ico",
+  "background": "rgba(244,245,255,0.2)"
+}
+```
+
+<SiteInfo
+  name="Harmonizer"
+  desc="Color palette generator for UI"
+  url="https://harmonizer.evilmartians.com/"
+  logo="https://harmonizer.evilmartians.com/favicon.svg"
+  preview="https://harmonizer.evilmartians.com/social-image.png"/>
 
 <!-- END: Design & Image -->
 

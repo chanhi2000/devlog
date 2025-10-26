@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Laravel
 description: Laravel
-icon: fa-brands fa-symfony
+icon: fa-brands fa-laravel
 category: 
   - PHP
   - Laravel

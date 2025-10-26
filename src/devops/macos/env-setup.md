@@ -231,7 +231,7 @@ mas install 497799835 \
 
 :::
 
-### C2. Guide
+### C1. Guide
 
 Copy and Paste the following to the Terminal Prompt
 
@@ -248,7 +248,7 @@ curl -sS https://starship.rs/install.sh | sh;
 mkdir -p ~/.config && touch ~/.config/starship.toml;
 ```
 
-### C3. Configure
+### C2. Configure
 
 #### ZSH
 

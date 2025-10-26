@@ -3,6 +3,7 @@ lang: ko-KR
 title: Docker Compose
 description: Docker > Docker Compose
 category:
+  - DevOps
   - Docker
   - Container
   - Docker Compose

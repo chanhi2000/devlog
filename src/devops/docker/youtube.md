@@ -4,6 +4,7 @@ title: Youtube
 description: Docker > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - Docker
   - Container
   - Youtube

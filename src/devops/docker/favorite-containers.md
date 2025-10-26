@@ -4,20 +4,23 @@ title: Favorite Container(s)
 description: Docker > Favorite Container(s)
 icon: fas fa-bookmark
 category:
+  - DevOps
   - Docker 
   - Container
   - Favorite Container(s)
 tag: 
+  - devops
+  - docker
+  - docker-container
+  - docker-desktop
+  - docker-compose
   - sh
   - bash
   - cli
   - docker
-  - docker-desktop
   - yml
   - yaml
-  - docker-container
   - vm
-  - docker-compose
 head:
   - - meta:
     - property: og:title

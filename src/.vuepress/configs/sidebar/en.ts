@@ -683,6 +683,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Shadcn',
+      collapsible: true,
+      icon: 'iconfont icon-shadcn',
+      children: [
+        '/programming/js-shadcn/README.md',
+        '/programming/js-shadcn/snippets.md',
+        '/programming/js-shadcn/references.md',
+        '/programming/js-shadcn/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-shadcn/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Express.js',
       collapsible: true,
       icon: 'iconfont icon-expressjs',
@@ -1203,6 +1221,23 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'Gradio',
+      collapsible: true,
+      icon: 'iconfont icon-gradio',
+      children: [
+        '/programming/py-gradio/README.md',
+        '/programming/py-gradio/references.md',
+        '/programming/py-gradio/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-gradio/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Objective-C',
       collapsible: true,
       icon: 'iconfont icon-objective-c',
@@ -1443,7 +1478,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Symfony',
       collapsible: true,
-      icon: 'iconfont icon-symfony',
+      icon: 'fa-brands fa-symfony',
       children: [
         '/programming/php-symfony/README.md',
         '/programming/php-symfony/references.md',
@@ -2316,6 +2351,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Postman',
+      collapsible: true,
+      icon: 'iconfont icon-postman',
+      children: [
+        '/tool/postman/README.md',
+        '/tool/postman/references.md',
+        '/tool/postman/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/postman/articles/README.md',
+            asb.freecodecamp('postman'),
+          ]
+        }
+      ]
+    }, {
       text: 'Wireshark',
       collapsible: true,
       icon: 'iconfont icon-wireshark',
@@ -2323,15 +2376,15 @@ export const sidebarEn = sidebar({
         '/tool/wireshark/README.md',
         '/tool/wireshark/references.md',
         '/tool/wireshark/youtube.md',
-      ]
-    }, {
-      text: 'Tableau',
-      collapsible: true,
-      icon: 'iconfont icon-tableau',
-      children: [
-        '/tool/tableau/README.md',
-        '/tool/tableau/references.md',
-        '/tool/tableau/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/nmap/articles/README.md',
+            asb.freecodecamp('nmap'),
+          ]
+        }
       ]
     }, {
       text: 'Airtable',
@@ -2390,7 +2443,7 @@ export const sidebarEn = sidebar({
             asb.freecodecamp('github'),
             asb.codemaze('github'),
             asb.milanJovanovic('github'),
-            asb.packgemainTech("docker"),
+            asb.packgemainTech("github"),
             asb.yozm("github"),
             asb.linecorp("github"),
           ]
@@ -2734,6 +2787,25 @@ export const sidebarEn = sidebar({
             asb.packgemainTech("docker"),
             asb.yozm("docker"),
             asb.towardsdatascience("docker"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Testcontainer',
+      collapsible: true,
+      icon: 'iconfont icon-testcontainer',
+      children: [
+        '/devops/testcontainer/README.md',
+        '/devops/testcontainer/basics.md',
+        '/devops/testcontainer/tips.md',
+        '/devops/testcontainer/references.md',
+        '/devops/testcontainer/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/testcontainer/articles/README.md',
           ]
         }
       ]

@@ -4,9 +4,13 @@ title: Basics
 description: Docker > Basics
 icon: fas fa-egg
 category:
+  - DevOps
   - Docker
   - Basics
 tag: 
+  - devops
+  - docker
+  - container
   - sh
   - bash
   - cli

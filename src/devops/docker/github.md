@@ -4,12 +4,15 @@ title: Github
 description: Docker > Github
 icon: fa-brands fa-github
 category:
+  - DevOps
   - Docker
   - Container
   - Github
 tag: 
+  - devops
   - docker
   - container
+  - github
 head:
   - - meta:
     - property: og:title

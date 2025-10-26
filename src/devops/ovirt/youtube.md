@@ -4,11 +4,15 @@ title: Youtube
 description: oVirt > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
   - oVirt
   - Youtube
 tag:
   - "youtube"
   - "tutorial"
+  - devops
+  - ovirt
+  - fedora
   - "bash"
   - "sh"
   - "ovirt"

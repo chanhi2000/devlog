@@ -160,6 +160,7 @@ export const navbarEn = navbar([
           '/programming/js-ng/README.md',
           '/programming/js-nest/README.md',
           '/programming/js-next/README.md',
+          '/programming/js-shadcn/README.md',
           '/programming/js-express/README.md',
           '/programming/js-three/README.md',
           '/programming/js-jest/README.md',
@@ -196,6 +197,7 @@ export const navbarEn = navbar([
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',
           '/programming/py-airflow/README.md',
+          '/programming/py-gradio/README.md',
         ]
       }, {
         text: 'Rust',
@@ -387,6 +389,10 @@ export const navbarEn = navbar([
         icon: 'fa-brands fa-docker',
         link: '/devops/docker/README.md',
       }, {
+        text: 'Testcontainer',
+        icon: 'iconfont icon-testcontainer',
+        link: '/devops/testcontainer/README.md',
+      }, {
         text: 'Podman',
         icon: 'iconfont icon-podman',
         link: '/devops/podman/README.md',
@@ -443,7 +449,7 @@ export const navbarEn = navbar([
         link: '/devops/ncloud/README.md',
         icon: 'iconfont icon-naver'
       }, {
-      text: 'Ansible',
+        text: 'Ansible',
         icon: 'iconfont icon-ansible',
         link: '/devops/ansible/README.md'
       }, {
@@ -602,6 +608,10 @@ export const navbarEn = navbar([
         text: 'Splunk',
         icon: 'iconfont icon-splunk',
         link: '/data-science/splunk/README.md',
+      }, {
+        text: 'Databricks',
+        icon: 'iconfont icon-databricks',
+        link: '/data-science/databricks/README.md',
       }, 
     ]
   }, {
@@ -704,6 +714,10 @@ export const navbarEn = navbar([
         text: 'nmap',
         icon: 'iconfont icon-nmap',
         link: '/tool/nmap/README.md',
+      }, {
+        text: 'Postman',
+        icon: 'iconfont icon-postman',
+        link: '/tool/postman/README.md',
       }, {
         text: 'Wireshark',
         icon: 'iconfont icon-wireshark',

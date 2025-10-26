@@ -4,9 +4,13 @@ title: CLI
 description: oVirt > CLI
 icon: fas fa-terminal
 category:
+  - DevOps
   - oVirt
   - CLI
 tag: 
+  - devops
+  - ovirt
+  - fedora
   - bash
   - sh
   - ovirt
@@ -39,7 +43,6 @@ head:
 hosted-engine [--help] <command> [<command-args>]
 ```
 
-
 ### DESCRIPTION
 
 The hosted-engine command deploys a virtual machine that you can install oVirt Open Virtualization Manager on to. The Manager installation on your hosted-engine virtual machine can manage the host it is running on. The hosted-engine command can also be used to start, stop and access the hosted-engine virtual machine.
@@ -67,14 +70,13 @@ The hosted-engine command deploys a virtual machine that you can install oVirt O
 | `--upgrade-appliance` | Upgrade the engine appliance.
 | `--rollback-upgrade` | Rollback using a backup saved in a previous upgrade attempt. |
 
-
 ### EXAMPLES
 
 ::: tabs
 
 @tab:active Basic Usages
 
-```sh
+```sh :collapsed-lines
 hosted-engine --vm-status
 # !! Cluster is in GLOBAL MAINTENANCE mode !!
 # 
@@ -146,70 +148,6 @@ dmidecode -t processor
 
 :::
 
----
-
-## `firewall-cmd`
-
-### NAME
-
-`firewall-cmd` - firewalld command line client
-
-### SYNOPSIS
-
-```sh
-firewall-cmd [OPTIONS...]
-```
-
-### DESCRIPTION
-
-`firewall-cmd` is the command line client of the firewalld daemon. It provides interface to manage runtime and permanent
-configuration.
-
-The runtime configuration in firewalld is separated from the permanent configuration. This means that things can get changed in
-the runtime or permanent configuration.
-
-### OPTIONS
-
-For sequence options, this are the options that can be specified multiple times, the exit code is 0 if there is at least one item
-that succeded. The `ALREADY_ENABLED` (11), `NOT_ENABLED` (12) and also `ZONE_ALREADY_SET` (16) errors are treated as succeeded. If there
-are issues while parsing the items, then these are treated as warnings and will not change the result as long as there is a
-succeeded one. Without any succeeded item, the exit code will depend on the error codes. If there is exactly one error code, then
-this is used. If there are more than one then `UNKNOWN_ERROR` (254) will be used.
-
-The following options are supported:
-
-| flag | description |
-| :--: | :--- |
-| `-h`, `--help` | Prints a short help text and exits. |
-| `-V`, `--version` | Print the version string of firewalld. This option is not combinable with other options. | 
-| `-q`, `--quiet` | Do not print status messages. |
-| `--state` | Check whether the firewalld daemon is active (i.e. running). Returns an exit code 0 if it is active,<br/>`RUNNING_BUT_FAILED` if failure occurred on startup, `NOT_RUNNING` otherwise.<br/>See the section called “EXIT CODES”. This will also print the state to `STDOUT`. |
-| `--reload` | Reload firewall rules and keep state information. Current permanent configuration will become new runtime configuration,<br/>_i.e._ all runtime only changes done until reload are lost with reload if they have not been also in permanent configuration. <br/> __Note__: Runtime changes applied via the direct interface are not affected and will therefore stay in place until `firewalld` daemon is restarted completely. |
-| `--complete-reload` | Reload firewall completely, even netfilter kernel modules. This will most likely terminate active connections, because state information is lost. This option should only be used in case of severe firewall problems. For example if there are state information problems that no connection can be established with correct firewall rules.<br/> __Note__: Runtime changes applied via the direct interface are not affected and will therefore stay in place until firewalld
-daemon is restarted completely.
-| `--runtime-to-permanent` | Save active runtime configuration and overwrite permanent configuration with it. The way this is supposed to work is that when configuring firewalld you do runtime changes only and once you're happy with the configuration and you tested that it works the way you want, you save the configuration to disk. |
-| `--check-config` | Run checks on the permanent configuration. This includes XML validity and semantics. |
-| `--get-log-denied` | Print the log denied setting. |
-| `--set-log-denied=value` | Add logging rules right before reject and drop rules in the INPUT, FORWARD and OUTPUT chains for the default rules and also final reject and drop rules in zones for the configured link-layer packet type. The possible values are: all, unicast, broadcast, multicast and off. The default setting is off, which disables the logging.<br/> This is a runtime and permanent change and will also reload the firewall to be able to add the logging rules.
-| `--get-automatic-helpers` | Print the automatic helpers setting. |
-| `--set-automatic-helpers=value` |
-           For the secure use of iptables and connection tracking helpers it is recommended to turn AutomaticHelpers off. But this might
-           have side effects on other services using the netfilter helpers as the sysctl setting in
-           /proc/sys/net/netfilter/nf_conntrack_helper will be changed. With the system setting, the default value set in the kernel or
-           with sysctl will be used. Possible values are: yes, no and system. The default value is system.
-
-           This is a runtime and permanent change and will also reload the firewall to be able to make the helpers usable.
-
-   Permanent Options
-       --permanent
-           The permanent option --permanent can be used to set options permanently. These changes are not effective immediately, only
-           after service restart/reload or system reboot. Without the --permanent option, a change will only be part of the runtime
-           configuration.
-
-           If you want to make a change in runtime and permanent configuration, use the same call with and without the --permanent
-           option.
-
-           The --permanent option can be optionally added to all options further down where it is supported.		   
 ---
 
 ## 기타

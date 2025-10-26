@@ -91,7 +91,7 @@ cover: /images/about/ititinfo/onsmob-ref1.jpg
 
 ---
 
-## ![앱 야아콘](/images/about/ititinfo/onsmob-v2/icon.png =x24) 모바일온나라 2.0
+## ![앱 아이콘](/images/about/ititinfo/onsmob-v2/icon.png =x24) 모바일온나라 2.0
 
 ::: info <VPIcon icon="fa-brands fa-android"/>/<VPIcon icon="iconfont icon-spring"/>
 
@@ -131,7 +131,7 @@ cover: /images/about/ititinfo/onsmob-ref1.jpg
 
 :::
 
-## ![앱 야아콘](/images/about/ititinfo/onsmob-v1/icon.png =x24) 모바일온나라 1.0
+## ![앱 아이콘](/images/about/ititinfo/onsmob-v1/icon.png =x24) 모바일온나라 1.0
 
 ::: info <VPIcon icon="fa-brands fa-android"/>/<VPIcon icon="iconfont icon-spring"/>
 

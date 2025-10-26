@@ -1,12 +1,16 @@
 ---
 lang: ko-KR
 title: References
-description: 👽oVirt > References
+description: oVirt > References
 icon: fas fa-book-atlas
 category:
-  - 👽oVirt
+  - DevOps
+  - oVirt
   - References
 tag: 
+  - devops
+  - ovirt
+  - fedora
   - bash
   - sh
   - ovirt

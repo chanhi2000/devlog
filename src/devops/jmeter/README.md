@@ -12,6 +12,14 @@ tag:
   - test
   - load-test
   - jmeter
+head:
+  - - meta:
+    - property: og:title
+      content: JMeter > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/jmeter/
 ---
 
 # {{ $frontmatter.description }} 관련

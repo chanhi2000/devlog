@@ -198,7 +198,7 @@ Placeholders with the same ids are connected.
       "  slug-hash=\"${3:slughash}\"",
       "  title=\"${4:title}\"",
       "  :default-tab=\"['css','result']\"",
-      "  :theme=\"\\$isDarkmode ? 'dark': 'light'\"/>${0}",
+      "  :theme=\"\\$isDarkMode ? 'dark': 'light'\"/>${0}",
     ],
     "description": "Create CodePen Vue Componenet"
   },
