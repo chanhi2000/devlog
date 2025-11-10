@@ -5,11 +5,14 @@ description: Perplexity > Youtube
 icon: fa-brands fa-youtube
 category: 
   - AI
+  - LLM
   - Perplexity
   - Youtube
-tag: 
+tag:
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
   - perplexity
   - youtube
   - tutorial

@@ -5,11 +5,14 @@ description: Perplexity > References
 icon: fas fa-book-atlas
 category: 
   - AI
+  - LLM
   - Perplexity
   - References
 tag: 
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
   - perplexity
 head:
   - - meta:

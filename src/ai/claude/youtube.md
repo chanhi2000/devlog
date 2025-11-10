@@ -4,11 +4,16 @@ title: Youtube
 description: Claude > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - Claude
   - AI
+  - LLM
+  - Anthropic
+  - Claude
   - Youtube
 tag: 
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - claude
   - youtube
   - tutorial

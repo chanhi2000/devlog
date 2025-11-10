@@ -14,7 +14,9 @@ tag:
   - helloworld.kurly.com
   - d2.naver.com
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
 head:
   - - meta:
     - property: og:title

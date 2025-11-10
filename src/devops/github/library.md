@@ -5,20 +5,17 @@ description: Github > Library
 icon: fas fa-book-bookmark
 category:
   - DevOps
-  - Git
   - Github
   - Library
 tag: 
   - devops
-  - git 
-  - github 
-  - multiplatform 
-  - javascript 
-  - nodejs 
-  - go 
-  - csharp 
-  - php 
-  - bash
+  - github
+  - multiplatform
+  - javascript
+  - nodejs
+  - go
+  - csharp
+  - php
 head:
   - - meta:
     - property: og:title

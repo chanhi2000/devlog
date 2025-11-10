@@ -4,11 +4,21 @@ title: MySQL
 description: MySQL
 icon: iconfont icon-mysql
 category:
-  - SQL
+  - Data Science
   - MySQL
 tag:
+  - data-science
+  - db
   - mysql
   - mysql5
+head:
+  - - meta:
+    - property: og:title
+      content: MySQL
+    - property: og:description
+      content: MySQL
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/mysql/
 ---
 
 # {{ $frontmatter.description }} 관련

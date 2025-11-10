@@ -8,6 +8,7 @@ category:
   - Youtube
 tag: 
   - ai
+  - artificial-intelligence
   - machine-learning
   - diffusion-model
 head:

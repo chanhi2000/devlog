@@ -4,16 +4,17 @@ title: References
 description: OpenAI > References
 icon: fas fa-book-atlas
 category: 
-  - OpenAI
-  - ChatGPT
   - AI
+  - LLM
+  - OpenAI
   - References
 tag:
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - openai
   - chatgpt
-  - chat
-  - llm
 head:
   - - meta:
     - property: og:title

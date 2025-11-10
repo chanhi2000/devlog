@@ -3,18 +3,20 @@ lang: ko-KR
 title: Youtube
 description: Github Copilot > Youtube
 icon: fa-brands fa-youtube
-category:
+category: 
   - AI
+  - LLM
   - Github
   - Github Copilot
   - Youtube
 tag: 
+  - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - youtube
   - tutorial
   - education
-  - ai
-  - github
-  - github-copilot
 head:
   - - meta:
     - property: og:title

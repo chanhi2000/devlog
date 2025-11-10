@@ -14,9 +14,9 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Flask
+      content: Streamlit
     - property: og:description
-      content: Flask
+      content: Streamlit
     - property: og:url
       content: https://chanhi2000.github.io/programming/py-streamlit/
 ---

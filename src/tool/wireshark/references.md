@@ -11,6 +11,14 @@ tag:
   - wireshark
   - network
   - security
+head:
+  - - meta:
+    - property: og:title
+      content: Wireshark > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/wireshark/refernces.html
 ---
 
 # {{ $frontmatter.title }} 관련

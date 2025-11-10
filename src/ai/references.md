@@ -8,6 +8,7 @@ category:
   - References
 tag: 
   - ai
+  - artificial-intelligence
   - diffusion-model
 head:
   - - meta:

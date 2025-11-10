@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Youtube
-description: FastAPI > Youtube
+description: Streamlit > Youtube
 icon: fa-brands fa-youtube
 category:
   - Python
@@ -16,7 +16,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: FastAPI > Youtube
+      content: Streamlit > Youtube
     - property: og:description
       content: Youtubes
     - property: og:url

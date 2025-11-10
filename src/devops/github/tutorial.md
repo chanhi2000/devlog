@@ -4,11 +4,13 @@ title: Tutorial
 description: Github > Tutorial
 icon: fas fa-graduation-cap
 category: 
-  - Github 
+  - DevOps
+  - Github
   - Tutorial
 tag: 
-  - tutorial
+  - devops
   - github
+  - tutorial
   - open-source
   - opensource
   - java

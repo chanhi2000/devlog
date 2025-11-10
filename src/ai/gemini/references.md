@@ -5,13 +5,15 @@ description: Google Gemini > References
 icon: fas fa-book-atlas
 category: 
   - AI
+  - LLM
   - Google
-  - Gemini
+  - Google Gemini
   - References
 tag: 
   - ai
+  - artificial-intelligence
   - llm
-  - llama
+  - large-language-models
   - google
   - google-gemini
   - bard

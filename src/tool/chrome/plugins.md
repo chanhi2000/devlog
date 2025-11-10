@@ -24,6 +24,13 @@ tag:
 ## Extension(s)
 
 <SiteInfo
+  name="Install AdNauseam on Chromium browsers"
+  desc="AdNauseam: Fight back against advertising surveillance - dhowe/AdNauseam"
+  url="https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-browsers/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://opengraph.githubassets.com/530836a0b0d228efab370c784d6069723d5549ac854f8440151eb2d4ee9617c6/dhowe/AdNauseam"/>
+
+<SiteInfo
   name="Disconnect"
   desc="Make the web faster, more private, and more secure."
   url="https://chromewebstore.google.com/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo"
@@ -269,6 +276,13 @@ tag:
   "background": "rgba(163,56,47,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Toggle JavaScript"
+  desc="Enable or disable JavaScript without the hassle."
+  url="https://chromewebstore.google.com/detail/toggle-javascript/cidlcjdalomndpeagkjpnefhljffbnlo"
+  logo="https://lh3.googleusercontent.com/Uaf4D3Wmo9IhxpE-Whq6yVX-QDDSBBs3TzTmAe8rvrDTNyQoTZ35gIHH3EcKv1CtR1sT2QwrMwR6ky_THixRaHT8qw=s60"
+  preview="https://lh3.googleusercontent.com/9NL6R5ICu8J-zZgDFkyAFE7UZ9oIQjSUg5vGfd2LSmo2IC_TzNGk8m6lDKc35YosEej0l2eyH3zv9PPrHrMEwU3bxSE=s1280-w1280-h800"/>
 
 <SiteInfo
   name="React code finder"

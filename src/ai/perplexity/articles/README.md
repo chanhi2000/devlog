@@ -5,12 +5,15 @@ description: Perplexity > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
+  - LLM
   - Perplexity
   - Article(s)
 tag: 
   - blog
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
   - perplexity
 head:
   - - meta:

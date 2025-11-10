@@ -56,35 +56,35 @@ Placeholders with the same ids are connected.
   "UrlGithubRepo": {
     "prefix": "urlghr",
     "body": [
-    "https://github.com/${1:repo}",
+    "https://github.com/${1:repo}${0}",
     ],
     "description": "Create URL form for Github Repoistory"
   },
   "VuepressMarkdownVidStack": {
     "prefix": "vpvs",
     "body": [
-    "<VidStack src=\"${1:url}\" />",
+    "<VidStack src=\"${1:url}\" />${0}",
     ],
     "description": "Create VidStack Vue Component"
   },
   "VuepressMarkdownYoutube": {
     "prefix": "vpy",
     "body": [
-    "<VidStack src=\"youtube/${1:id}\" />",
+    "<VidStack src=\"youtube/${1:id}\" />${0}",
     ],
     "description": "Create VidStack Youtube Vue Component"
   },
   "VuepressMarkdownYoutubeItem": {
     "prefix": "vpyi",
     "body": [
-    "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
+    "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />${0}",
     ],
     "description": "Create YoutubeItem Vue Component"
   },
   "VuepressMarkdownGithubTags": {
     "prefix": "vpgt",
     "body": [
-    "<GithubTags tagItems=\"${1:tagItems}\" />",
+    "<GithubTags tagItems=\"${1:tagItems}\" />${0}",
     ],
     "description": "Create 'GithubTags' Vue Component"
   },
@@ -101,7 +101,7 @@ Placeholders with the same ids are connected.
      "",
        "<!-- ${1:title} -->",
      "",
-     "---"
+     "---${0}"
      ],
      "description": "Create YoutubeGroup Vue Component"
   },
@@ -198,7 +198,7 @@ Placeholders with the same ids are connected.
       "  slug-hash=\"${3:slughash}\"",
       "  title=\"${4:title}\"",
       "  :default-tab=\"['css','result']\"",
-      "  :theme=\"\\$isDarkMode ? 'dark': 'light'\"/>${0}",
+      "  :theme=\"\\$isDarkmode ? 'dark': 'light'\"/>${0}",
     ],
     "description": "Create CodePen Vue Componenet"
   },

@@ -5,12 +5,14 @@ description: Jira > Article(s)
 icon: fas fa-square-share-nodes
 category:
   - DevOps
+  - Atlassian
   - Jira
   - Article(s)
 tag: 
   - blog
   - yozm.wishket.com
   - devops
+  - atlassian
   - jira
 head:
   - - meta:

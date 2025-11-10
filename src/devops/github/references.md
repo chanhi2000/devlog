@@ -4,14 +4,16 @@ title: References
 description: Github > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Github
   - References
 tag: 
+  - devops
+  - github
+  - github-action
   - sh
   - bash
   - cli
-  - github
-  - github-action
   - study
 head:
   - - meta:

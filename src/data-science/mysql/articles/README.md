@@ -3,8 +3,8 @@ lang: ko-KR
 title: Article(s)
 description: MySQL > Article(s)
 icon: fas fa-square-share-nodes
-category: 
-  - SQL
+category:
+  - Data Science
   - MySQL
   - Article(s)
 tag: 
@@ -12,8 +12,10 @@ tag:
   - code-maze.com
   - engineering.linecorp.com
   - yozm.wishket.com
-  - sql
+  - data-science
+  - db
   - mysql
+  - mysql5
 head:
   - - meta:
     - property: og:title

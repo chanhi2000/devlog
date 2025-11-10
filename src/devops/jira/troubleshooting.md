@@ -5,10 +5,12 @@ description: Jira > Troubleshooting
 icon: fas fa-bug-slash
 category:
   - DevOps
+  - Atlassian
   - Jira
   - Troubleshooting
 tag:
   - devops
+  - atlassian
   - jira
   - troubleshooting
 head:

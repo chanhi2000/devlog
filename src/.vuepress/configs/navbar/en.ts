@@ -195,6 +195,7 @@ export const navbarEn = navbar([
           '/programming/py-flask/README.md',
           '/programming/py-fastapi/README.md',
           '/programming/py-streamlit/README.md',
+          '/programming/py-anaconda/README.md',
           '/programming/py-jupyter/README.md',
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',
@@ -331,6 +332,7 @@ export const navbarEn = navbar([
         children: [
           '/devops/jira/README.md',
           '/devops/confluence/README.md',
+          '/devops/bamboo/README.md',
         ],
       }, {
         text: 'macOS',
@@ -587,7 +589,7 @@ export const navbarEn = navbar([
       }, {
         text: 'Cockroach',
         icon: 'iconfont icon-cockroach-db',
-        link: 'devops/django/README.md',
+        link: '/data-science/cockroach/README.md',
       }, {
         text: 'R',
         icon: 'iconfont icon-r',
@@ -682,52 +684,22 @@ export const navbarEn = navbar([
           '/tool/blender/README.md',
         ]
       }, { 
-        text: 'crontab',
-        icon: 'iconfont icon-crontab',
-        link: '/tool/crontab/README.md',
-      }, { 
-        text: 'rsync',
-        icon: 'iconfont icon-rsync',
-        link: '/tool/rsync/README.md',
-      }, { 
-        text: 'ffmpeg',
-        icon: 'iconfont icon-ffmpeg',
-        link: '/tool/ffmpeg/README.md',
-      }, { 
-        text: 'tmux',
-        icon: 'iconfont icon-tmux',
-        link: '/tool/tmux/README.md',
-      }, {
-        text: 'vim',
-        icon: 'iconfont icon-vim',
+        text: 'CLI',
         children: [
+          '/tool/awk/README.md',
+          '/tool/crontab/README.md',
+          '/tool/rsync/README.md',
+          '/tool/ffmpeg/README.md',
+          '/tool/tmux/README.md',
           '/tool/vim/README.md',
           '/tool/nvim/README.md',
-        ]
-      }, {
-        text: 'awk',
-        icon: 'iconfont icon-awk',
-        link: '/tool/awk/README.md',
-      }, {
-        text: 'wget',
-        icon: 'iconfont icon-wget',
-        link: '/tool/wget/README.md',
-      }, {
-        text: 'curl',
-        icon: 'iconfont icon-curl',
-        link: '/tool/curl/README.md',
-      }, {
-        text: 'nmap',
-        icon: 'iconfont icon-nmap',
-        link: '/tool/nmap/README.md',
-      }, {
-        text: 'asciinema',
-        icon: 'iconfont icon-asciinema',
-        link: '/tool/asciinema/README.md',
-      }, {
-        text: 'Wireshark',
-        icon: 'iconfont icon-wireshark',
-        link: '/tool/wireshark/README.md',
+          '/tool/curl/README.md',
+          '/tool/wget/README.md',
+          '/tool/nmap/README.md',
+          '/tool/wireshark/README.md',
+          '/tool/warp/README.md',
+          '/tool/asciinema/README.md',
+        ],
       }, {
         text: 'Tableau',
         icon: 'iconfont icon-tableau',
@@ -761,6 +733,8 @@ export const navbarEn = navbar([
           '/ai/gemini/README.md',
           '/ai/claude/README.md',
           '/ai/langchain/README.md',
+          '/ai/perplexity/README.md',
+          '/ai/v0/README.md',
         ]
       }, 
     ]

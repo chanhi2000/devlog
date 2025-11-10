@@ -12,6 +12,7 @@ tag:
   - smashingmagazine.com
   - yozm.wishket.com
   - ai
+  - artificial-intelligence
   - diffusion-model
   - generative-ai
   - machine-learning

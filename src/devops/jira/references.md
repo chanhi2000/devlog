@@ -5,10 +5,12 @@ description: Jira > References
 icon: fas fa-book-atlas
 category:
   - DevOps
+  - Atlassian
   - Jira
   - References
 tag:
   - devops
+  - atlassian
   - jira
 head:
   - - meta:

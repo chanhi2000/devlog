@@ -4,17 +4,20 @@ title: Youtube
 description: OpenAI > Youtube
 icon: fa-brands fa-youtube
 category: 
+  - AI
+  - LLM
   - OpenAI
   - ChatGPT
-  - AI
   - Youtube
 tag: 
-  - "youtube"
-  - "tutorial"
+  - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - "openai"
   - "chatgpt"
-  - "chat"
-  - "llm"
+  - "youtube"
+  - "tutorial"
   - "@aiacademy131"
   - "@nomadbird23"
   - "@Aitrepreneur"

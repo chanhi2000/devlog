@@ -4,13 +4,15 @@ title: Youtube
 description: MySQL > Youtube
 icon: fa-brands fa-youtube
 category:
-  - SQL
+  - Data Science
   - MySQL
   - Youtube
-tag: 
-  - sql
+tag:
+  - data-science
   - db
   - mysql
+  - mysql5
+  - sql
   - shell
   - youtube
 head:

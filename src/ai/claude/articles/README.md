@@ -6,15 +6,18 @@ icon: fas fa-square-share-nodes
 category:
   - AI
   - LLM
+  - Anthropic
   - Claude
   - Article(s)
 tag: 
   - blog
   - freecodecamp.org
   - ai
+  - artificial-intelligence
   - llm
-  - claude
+  - large-language-models
   - anthropic
+  - claude
 head:
   - - meta:
     - property: og:title

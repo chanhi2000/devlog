@@ -4,11 +4,14 @@ title: Hugging Face
 description: LLM > Hugging Face
 icon: iconfont icon-huggingface
 category: 
+  - AI
   - LLM
   - Hugging Face
 tag: 
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
   - llama
   - huggingface
   - hugging-face

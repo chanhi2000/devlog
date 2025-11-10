@@ -4,11 +4,13 @@ title: Portfolio
 description: Github > Portfolio
 icon: fas fa-address-card
 category:
-  - Github 
+  - DevOps
+  - Github
   - Portfolio
 tag: 
-  - portfolio
+  - devops
   - github
+  - portfolio
   - hyperlink
   - resume
 head:
@@ -23,6 +25,7 @@ head:
 
 # {{ $frontmatter.title }} 관련
 
+[[toc]]
 
 ---
 

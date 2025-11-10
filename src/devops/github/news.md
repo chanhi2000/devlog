@@ -3,10 +3,12 @@ lang: ko-KR
 title: News
 description: Github > News
 icon: fas fa-rss
-category: 
-  - Github 
+category:
+  - DevOps
+  - Github
   - News
 tag: 
+  - devops
   - github
   - news
   - hiring

@@ -5,6 +5,7 @@ description: OpenAI > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
+  - LLM
   - OpenAI
   - ChatGPT
   - Article(s)
@@ -15,6 +16,9 @@ tag:
   - yozm.wishket.com
   - techblog.woowahan.com
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - openai
   - chatgpt
 head:

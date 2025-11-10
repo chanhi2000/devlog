@@ -5,7 +5,6 @@ description: Github > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - DevOps
-  - Git
   - Github
   - Article(s)
 tag: 
@@ -17,7 +16,6 @@ tag:
   - yozm.wishket.com
   - engineering.linecorp.com
   - devops
-  - git
   - github
   - github-action
 head:

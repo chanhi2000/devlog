@@ -5,11 +5,15 @@ description: Github Copilot > References
 icon: fas fa-book-atlas
 category: 
   - AI
+  - LLM
   - Github
   - Github Copilot
   - References
 tag: 
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - github
   - github-copilot
 head:

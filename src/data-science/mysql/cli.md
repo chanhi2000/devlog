@@ -4,13 +4,15 @@ title: CLI
 description: MySQL > CLI
 icon: fas fa-terminal
 category:
-  - SQL
+  - Data Science
   - MySQL
   - CLI
-tag: 
-  - sh
+tag:
+  - data-science
+  - db
   - mysql
   - mysql5
+  - sh
   - cli
   - basics
 head:

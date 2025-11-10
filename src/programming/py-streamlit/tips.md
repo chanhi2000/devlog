@@ -1,7 +1,7 @@
 ---
 lang: ko-KR
 title: Tips
-description: FastAPI > Tips
+description: Streamlit > Tips
 icon: fas fa-lightbulb
 category:
   - Python

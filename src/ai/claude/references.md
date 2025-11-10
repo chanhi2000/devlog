@@ -4,11 +4,16 @@ title: References
 description: Claude > References
 icon: fas fa-book-atlas
 category: 
-  - Claude
   - AI
+  - LLM
+  - Anthropic
+  - Claude
   - References
 tag: 
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - claude
 head:
   - - meta:

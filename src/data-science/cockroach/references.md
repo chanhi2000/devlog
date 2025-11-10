@@ -4,14 +4,23 @@ title: References
 description: Cockroach > References
 icon: fas fa-book-atlas
 category:
+  - Data Science
   - CockroachDB
   - References
-tag: 
-  - sql
+tag:
+  - data-science
   - db
   - cockroach
   - cockroachdb
-  - duckdb
+  - cockroach-db
+head:
+  - - meta:
+    - property: og:title
+      content: Cockroach > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/data-science/cockroach/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

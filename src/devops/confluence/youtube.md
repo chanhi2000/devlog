@@ -5,12 +5,15 @@ description: Confluence > Youtube
 icon: fa-brands fa-youtube
 category:
   - DevOps
+  - Atlassian
   - Confluence
   - Youtube
 tag: 
-  - youtube
   - devops
-  - concluence
+  - atlassian
+  - confluence
+  - youtube
+  - education
 head:
   - - meta:
     - property: og:title

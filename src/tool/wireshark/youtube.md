@@ -14,6 +14,14 @@ tag:
   - security
   - youtube
   - tutorial
+head:
+  - - meta:
+    - property: og:title
+      content: Wireshark > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/wireshark/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

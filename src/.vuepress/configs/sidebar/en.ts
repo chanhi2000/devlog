@@ -1166,6 +1166,24 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'Anaconda',
+      collapsible: true,
+      icon: 'iconfont icon-streamlit',
+      children: [
+        '/programming/py-anaconda/README.md',
+        '/programming/py-anaconda/tips.md',
+        '/programming/py-anaconda/references.md',
+        '/programming/py-anaconda/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-anaconda/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Jupyter',
       collapsible: true,
       icon: 'iconfont icon-jupyter',
@@ -2363,15 +2381,6 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
-      text: 'wget',
-      collapsible: true,
-      icon: 'iconfont icon-wget',
-      children: [
-        '/tool/wget/README.md',
-        '/tool/wget/references.md',
-        '/tool/wget/youtube.md',
-      ]
-    }, {
       text: 'curl',
       collapsible: true,
       icon: 'iconfont icon-curl',
@@ -2387,6 +2396,15 @@ export const sidebarEn = sidebar({
             '/tool/curl/articles/README.md',
           ]
         }
+      ]
+    }, {
+      text: 'wget',
+      collapsible: true,
+      icon: 'iconfont icon-wget',
+      children: [
+        '/tool/wget/README.md',
+        '/tool/wget/references.md',
+        '/tool/wget/youtube.md',
       ]
     }, {
       text: 'nmap',
@@ -2407,24 +2425,6 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
-      text: 'asciinema',
-      collapsible: true,
-      icon: 'iconfont icon-asciinema',
-      children: [
-        '/tool/asciinema/README.md',
-        '/tool/asciinema/references.md',
-        '/tool/asciinema/youtube.md',
-        {
-          text: 'Article(s)',
-          collapsible: true,
-          icon: 'fas fa-square-share-nodes',
-          children: [
-            '/tool/asciinema/articles/README.md',
-            asb.tecmint("asciinema"),
-          ]
-        }
-      ]
-    }, {
       text: 'Wireshark',
       collapsible: true,
       icon: 'iconfont icon-wireshark',
@@ -2439,6 +2439,42 @@ export const sidebarEn = sidebar({
           children: [
             '/tool/nmap/articles/README.md',
             asb.freecodecamp('nmap'),
+          ]
+        }
+      ]
+    }, {
+      text: 'Warp',
+      collapsible: true,
+      icon: 'iconfont icon-wireshark',
+      children: [
+        '/tool/warp/README.md',
+        '/tool/warp/references.md',
+        '/tool/warp/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/warp/articles/README.md',
+            asb.freecodecamp('warp'),
+          ]
+        }
+      ]
+    }, {
+      text: 'asciinema',
+      collapsible: true,
+      icon: 'iconfont icon-asciinema',
+      children: [
+        '/tool/asciinema/README.md',
+        '/tool/asciinema/references.md',
+        '/tool/asciinema/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/tool/asciinema/articles/README.md',
+            asb.tecmint("asciinema"),
           ]
         }
       ]
@@ -2486,6 +2522,7 @@ export const sidebarEn = sidebar({
         '/devops/github/news.md',
         '/devops/github/tutorial.md',
         '/devops/github/portfolio.md',
+        '/devops/github/coderabbit.md',
         '/devops/github/github-action.md',
         '/devops/github/troubleshooting.md',
         '/devops/github/references.md',
@@ -3867,6 +3904,7 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-openai',
       children: [
         '/ai/openai/README.md',
+        '/ai/openai/codex.md',
         '/ai/openai/references.md',
         '/ai/openai/youtube.md',
         {
@@ -3970,6 +4008,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/perplexity/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'v0',
+      collapsible: true,
+      icon: 'iconfont icon-langchain',
+      children: [
+        '/ai/v0/README.md',
+        '/ai/v0/references.md',
+        '/ai/v0/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/v0/articles/README.md',
           ]
         }
       ]

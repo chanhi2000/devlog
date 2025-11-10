@@ -4,16 +4,20 @@ title: Troubleshooting
 description: Github > Troubleshooting
 icon: fas fa-bug-slash
 category:
+  - DevOps
   - Github
   - Troubleshooting
 tag: 
+  - devops
+  - github
   - troubleshooting
+  - sh
+  - shell
   - git
   - git-cli
+  - git-credentials
   - http
   - credentials
-  - git-credentials
-  - bash
 head:
   - - meta:
     - property: og:title

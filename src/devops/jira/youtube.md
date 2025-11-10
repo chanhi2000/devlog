@@ -5,12 +5,15 @@ description: Jira > Youtube
 icon: fa-brands fa-youtube
 category:
   - DevOps
+  - Atlassian
   - Jira
   - Youtube
 tag: 
-  - youtube
   - devops
+  - atlassian
   - jira
+  - youtube
+  - education
 head:
   - - meta:
     - property: og:title

@@ -4,14 +4,16 @@ title: Youtube
 description: LLM > Youtube
 icon: fa-brands fa-youtube
 category: 
-  - LLM
   - AI
+  - LLM
   - Youtube
 tag: 
+  - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - youtube
   - tutorial
-  - ai
-  - llm
   - "@matthew_berman"
   - "@streamlitofficial"
   - "@inhumanitystudios"

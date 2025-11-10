@@ -12,6 +12,14 @@ tag:
   - shell
   - cli
   - rsync
+head:
+  - - meta:
+    - property: og:title
+      content: rsync
+    - property: og:description
+      content: rsync
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/rsync/
 ---
 
 # {{ $frontmatter.description }} 관련

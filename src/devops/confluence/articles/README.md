@@ -5,12 +5,14 @@ description: Confluence > Article(s)
 icon: fas fa-square-share-nodes
 category:
   - DevOps
+  - Atlassian
   - Confluence
   - Article(s)
 tag: 
   - blog
   - yozm.wishket.com
   - devops
+  - atlassian
   - confluence
 head:
   - - meta:

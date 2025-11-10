@@ -5,8 +5,9 @@ description: Google Gemini > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
+  - LLM
   - Google
-  - Gemini
+  - Google Gemini
   - Article(s)
 tag: 
   - blog
@@ -14,8 +15,9 @@ tag:
   - yozm.wishket.com
   - helloworld.kurly.com
   - ai
+  - artificial-intelligence
   - llm
-  - llama
+  - large-language-models
   - google
   - google-gemini
   - bard

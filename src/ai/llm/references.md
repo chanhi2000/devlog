@@ -4,11 +4,14 @@ title: References
 description: LLM > References
 icon: fas fa-book-atlas
 category: 
+  - AI
   - LLM
   - References
 tag: 
   - ai
+  - artificial-intelligence
   - llm
+  - large-language-models
   - llama
 head:
   - - meta:

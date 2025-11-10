@@ -4,13 +4,15 @@ title: References
 description: MySQL > References
 icon: fas fa-book-atlas
 category:
-  - SQL
+  - Data Science
   - MySQL
   - References
-tag: 
-  - sql
+tag:
+  - data-science
   - db
   - mysql
+  - mysql5
+  - sql
   - shell
   - stricky
 head:

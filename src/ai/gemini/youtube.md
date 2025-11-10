@@ -5,13 +5,15 @@ description: Google Gemini > Youtube
 icon: fa-brands fa-youtube
 category: 
   - AI
+  - LLM
   - Google
-  - Gemini
+  - Google Gemini
   - Youtube
 tag: 
   - ai
+  - artificial-intelligence
   - llm
-  - llama
+  - large-language-models
   - google
   - google-gemini
   - bard

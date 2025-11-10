@@ -2,7 +2,7 @@
 lang: ko-KR
 title: Wireshark
 description: Wireshark
-icon: iconfont icon-wireshark
+icon: iconfont icon-Wireshark
 category:
   - Wireshark
   - Network
@@ -11,6 +11,15 @@ tag:
   - wireshark
   - network
   - security
+head:
+  - - meta:
+    - property: og:title
+      content: Wireshark
+    - property: og:description
+      content: Wireshark
+    - property: og:url
+      content: https://chanhi2000.github.io/tool/wiresharks/
+---
 ---
 
 # {{ $frontmatter.description }} 관련
@@ -21,7 +30,7 @@ tag:
 
 ## Table of Contents
 
-<ToCLocal basePath="/devops/wireshark/" />
+<ToCLocal basePath="/tool/wireshark/" />
 
 ---
 

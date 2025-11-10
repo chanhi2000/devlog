@@ -5,10 +5,12 @@ description: Confluence > Troubleshooting
 icon: fas fa-bug-slash
 category:
   - DevOps
+  - Atlassian
   - Confluence
   - Troubleshooting
 tag:
   - devops
+  - atlassian
   - confluence
   - troubleshooting
 head:

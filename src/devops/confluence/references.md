@@ -5,11 +5,13 @@ description: Confluence > References
 icon: fas fa-book-atlas
 category:
   - DevOps
+  - Atlassian
   - Confluence
   - References
 tag:
   - devops
-  - jira
+  - atlassian
+  - confluence
 head:
   - - meta:
     - property: og:title

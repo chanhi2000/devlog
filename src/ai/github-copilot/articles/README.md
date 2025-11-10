@@ -5,12 +5,16 @@ description: Github Copilot > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
+  - LLM
   - Github
   - Github Copilot
   - Article(s)
 tag: 
   - blog
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - github
   - github-copilot
 head:

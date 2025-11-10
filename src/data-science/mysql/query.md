@@ -4,13 +4,15 @@ title: Query
 description: MySQL > Query
 icon: fas fa-magnifying-glass
 category:
-  - SQL
+  - Data Science
   - MySQL
   - Query
 tag:
-  - sql
+  - data-science
+  - db
   - mysql
   - mysql5
+  - sql
   - ddl
   - dml
   - sql-privilege

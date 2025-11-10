@@ -5,10 +5,23 @@ description: Claude
 icon: iconfont icon-claude
 category: 
   - AI
+  - LLM
+  - Anthropic
   - Claude
 tag:
   - ai
+  - artificial-intelligence
+  - llm
+  - large-language-models
   - claude
+head:
+  - - meta:
+    - property: og:title
+      content: Claude
+    - property: og:description
+      content: Claude
+    - property: og:url
+      content: https://chanhi2000.github.io/ai/claude/
 ---
 
 # {{ $frontmatter.description }} 관련

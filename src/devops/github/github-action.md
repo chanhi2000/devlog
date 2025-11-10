@@ -4,9 +4,11 @@ title: Github Action
 description: Github > Github Action
 icon: iconfont icon-github-actions
 category:
+  - DevOps
   - Github
   - Github Action
 tag: 
+  - devops
   - github
   - github-action
   - cicd
