@@ -24,6 +24,13 @@ tag:
 ## Extension(s)
 
 <SiteInfo
+  name="Install AdNauseam on Chromium browsers"
+  desc="AdNauseam: Fight back against advertising surveillance - dhowe/AdNauseam"
+  url="https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-browsers/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://opengraph.githubassets.com/530836a0b0d228efab370c784d6069723d5549ac854f8440151eb2d4ee9617c6/dhowe/AdNauseam"/>
+
+<SiteInfo
   name="Disconnect"
   desc="Make the web faster, more private, and more secure."
   url="https://chromewebstore.google.com/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo"
