@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_2bakk49m82o.woff2?t=1765697604236') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_2bakk49m82o.woff?t=1765697604236') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_2bakk49m82o.ttf?t=1765697604236') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_2bakk49m82o.svg?t=1765697604236#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.woff2?t=1769331360024') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.woff?t=1769331360024') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.ttf?t=1769331360024') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.svg?t=1769331360024#iconfont') format('svg');
 }
 
 .iconfont {
@@ -13,7 +13,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.icon-swagger:before { content: "\e975"; }
+.icon-lit:before { content: "\e9d4"; }
+.icon-cri-o:before { content: "\e9d3"; }
+.icon-trpc:before { content: "\e9d2"; }
+.icon-hono:before { content: "\e9d1"; }
+.icon-twilio:before { content: "\e9d0"; }
+.icon-prismjs:before { content: "\e9cf"; }
+.icon-yeoman:before { content: "\e9ce"; }
+.icon-grunt:before { content: "\e9cd"; }
+.icon-oddbird:before { content: "\e9cc"; }
+.icon-oauth:before { content: "\e9cb"; }
 .icon-langbase:before { content: "\e9ca"; }
 .icon-arxiv:before { content: "\e9c9"; }
 .icon-ico-v0:before { content: "\e9c8"; }
@@ -23,9 +33,12 @@
 .icon-asciinema:before { content: "\e9c4"; }
 .icon-gnome:before { content: "\e9c3"; }
 .icon-gnu:before { content: "\e9c2"; }
+.icon-gentoo:before { content: "\e9aa"; }
 .icon-databricks:before { content: "\e9c1"; }
 .icon-uv:before { content: "\e9c0"; }
+.icon-vitejs:before { content: "\e970"; }
 .icon-testcontainer:before { content: "\e9bf"; }
+.icon-ovirt:before { content: "\e9f1"; }
 .icon-streamlit:before { content: "\e9be"; }
 .icon-gradio:before { content: "\e9bd"; }
 .icon-codefresh:before { content: "\e9bc"; }
@@ -46,7 +59,6 @@
 .icon-heroku:before { content: "\e9ad"; }
 .icon-mcp:before { content: "\e9ac"; }
 .icon-apachehive:before { content: "\e9ab"; }
-.icon-gentoo:before { content: "\e9aa"; }
 .icon-lynx:before { content: "\e9a9"; }
 .icon-strapi:before { content: "\e9a8"; }
 .icon-groq:before { content: "\e9a7"; }
@@ -98,12 +110,10 @@
 .icon-firebase:before { content: "\e978"; }
 .icon-cocoapods:before { content: "\e977"; }
 .icon-eclipse:before { content: "\e976"; }
-.icon-swagger:before { content: "\e975"; }
 .icon-postman:before { content: "\e974"; }
 .icon-openapi:before { content: "\e973"; }
 .icon-google-apps-script:before { content: "\e972"; }
 .icon-vercel:before { content: "\e971"; }
-.icon-vitejs:before { content: "\e970"; }
 .icon-astro:before { content: "\e96f"; }
 .icon-toml:before { content: "\e96e"; }
 .icon-nvidia:before { content: "\e96d"; }
@@ -114,7 +124,7 @@
 .icon-parrotsecurity:before { content: "\e968"; }
 .icon-linuxmint:before { content: "\e967"; }
 .icon-nuxt:before { content: "\e966"; }
-.icon-icon-polars:before { content: "\e965"; }
+.icon-polars:before { content: "\e965"; }
 .icon-awesome-list:before { content: "\e964"; }
 .icon-ocaml:before { content: "\e963"; }
 .icon-fastapi:before { content: "\e962"; }
@@ -233,7 +243,6 @@
 .icon-xcode:before { content: "\ed18"; }
 .icon-svelte:before { content: "\e6bb"; }
 .icon-redis:before { content: "\ec7c"; }
-.icon-ovirt:before { content: "\e9f1"; }
 .icon-qemu:before { content: "\e91e"; }
 .icon-proxmox:before { content: "\e60f"; }
 .icon-synology:before { content: "\e778"; }

@@ -1488,6 +1488,13 @@ http://texturer.com/
   logo="https://harmonizer.evilmartians.com/favicon.svg"
   preview="https://harmonizer.evilmartians.com/social-image.png"/>
 
+<SiteInfo
+  name="All SVG Icons - Free and Open Source SVG Vector Icons"
+  desc="Browse and download 250,000+ free SVG icons for your projects that are free to use and customizable. Copy Raw SVG code or download as PNG, SVG, JSX or Base64 formats. Alternative of Flaticon, Iconmonstr, SVG Repo."
+  url="https://allsvgicons.com"
+  logo="https://allsvgicons.com/favicon.svg"
+  preview="https://allsvgicons.com/og.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

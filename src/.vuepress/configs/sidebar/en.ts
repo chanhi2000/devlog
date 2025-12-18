@@ -531,6 +531,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'tRPC',
+      collapsible: true,
+      icon: 'iconfont icon-trpc',
+      children: [
+        '/programming/ts-trpc/README.md',
+        '/programming/ts-trpc/references.md',
+        '/programming/ts-trpc/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/ts-trpc/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Node.js',
       collapsible: true,
       icon: 'fa-brands fa-node',
@@ -757,6 +774,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Lit',
+      collapsible: true,
+      icon: 'iconfont icon-lit',
+      children: [
+        '/programming/js-lit/README.md',
+        '/programming/js-lit/references.md',
+        '/programming/js-lit/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-lit/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'Jest',
       collapsible: true,
       icon: 'iconfont icon-jest',
@@ -846,6 +880,23 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Hono',
+      collapsible: true,
+      icon: 'iconfont icon-gatsby',
+      children: [
+        '/programming/js-hono/README.md',
+        '/programming/js-hono/references.md',
+        '/programming/js-hono/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-hono/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'n8n',
       collapsible: true,
       icon: 'iconfont icon-n8n',
@@ -896,6 +947,23 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/js-mermaid/articles/README.md',
             asb.freecodecamp("js-mermaid"),
+          ]
+        }
+      ]
+    }, {
+      text: 'Prism.js',
+      collapsible: true,
+      icon: 'iconfont icon-prismjs',
+      children: [
+        '/programming/js-prism/README.md',
+        '/programming/js-prism/snippets.md',
+        '/programming/js-prism/references.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-prism/articles/README.md',
           ]
         }
       ]
