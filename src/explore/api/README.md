@@ -1495,6 +1495,13 @@ http://texturer.com/
   logo="https://allsvgicons.com/favicon.svg"
   preview="https://allsvgicons.com/og.png"/>
 
+<SiteInfo
+  name="Skill Icons"
+  desc="Showcase the languages, frameworks, and tools you use on your GitHub or resumé with ease!"
+  url="https://skillicons.dev"
+  logo="https://skillicons.dev/favicon.png"
+  preview="https://skillicons.dev/banner.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

@@ -36,6 +36,13 @@ tag:
   preview="https://cdn.rallit.com/image/meta-image.png"/>
 
 <SiteInfo
+  name="직행 - 당신의 취업을 향해 직행"
+  desc="대한민국의 모든 채용공고를 한곳에서 모아보고, 나에게 맞는 공고를 더 빠르게 찾으세요."
+  url="https://zighang.com/"
+  logo="https://zighang.com/favicon.ico"
+  preview="https://d39ibv3g0fag6h.cloudfront.net/og/og-home.png"/>
+
+<SiteInfo
   name="OKKY Jobs - 국내 최대 개발자 전문 채용 플랫폼"
   desc="OKKY Jobs는 국내 최대의 개발자 전문 채용 플랫폼입니다."
   url="https://jobs.okky.kr/fulltime"

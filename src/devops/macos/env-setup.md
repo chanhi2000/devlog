@@ -71,10 +71,10 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
-  cheat clipgrab cocoapods exiftool ffmpeg fizz flac git lazygit \
-  hyperfine mas fastfetch nushell fnm openssl pixman lazydocker \
+  cheat clipgrab cocoapods exiftool fastfetch ffmpeg fizz flac git lazygit \
+  hyperfine mas mise nushell fnm openssl pixman lazydocker \
   python poetry rust scrcpy starship tmux tokei watchman \
-  wget xz zsh zoxide mac-cleanup-py;
+  wget uv xz zsh zoxide mac-cleanup-py;
 brew install koekeishiya/formulae/yabai;
 brew install koekeishiya/formulae/skhd;
 
@@ -91,7 +91,7 @@ brew install --cask airflow alt-tab appcleaner battery chatgpt clipgrab cheatshe
   ghostty grandperspective intellij-idea-ce jordanbaird-ice \
   maccy notion opencore-patcher oversight pennywise pycharm-ce raycast \
   rectangle resilio-sync sf-symbols shottr sublime-merge sublime-text \
-  the-unarchiver taskexplorer usr-sse2-rdm temurin11 transmission visual-studio-code \
+  the-unarchiver taskexplorer usr-sse2-rdm transmission visual-studio-code \
   vlc warp webstorm wireshark;
   # aldente
 ```
@@ -387,7 +387,7 @@ alias l='ls -CF'
 alias la='ls -A'
 alias ll='ls -alF'
 alias ls='ls --color=auto'
-alias brewup="brew update && brew upgrade"
+alias brewup="brew update && brew upgrade && brew upgrade --cask $(brew list --cask)"
 alias ..="cd .."
 alias ...="cd ../.."
 

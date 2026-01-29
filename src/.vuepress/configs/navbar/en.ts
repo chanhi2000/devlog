@@ -10,7 +10,7 @@ export const navbarEn = navbar([
         icon: 'fas fa-pen-nib',
         link: '/about/README.md',
       }, {
-        text: '(2022-2024) 아이티정보기술(주)',
+        text: '(2022-) 아이티정보기술(주)',
         icon: '/images/about/ititinfo/logo.ico',
         link: '/about/ititinfo/README.md',
       }, {
@@ -199,6 +199,7 @@ export const navbarEn = navbar([
           '/programming/py-flask/README.md',
           '/programming/py-fastapi/README.md',
           '/programming/py-streamlit/README.md',
+          '/programming/py-spark/README.md',
           '/programming/py-anaconda/README.md',
           '/programming/py-jupyter/README.md',
           '/programming/py-celery/README.md',
@@ -738,6 +739,7 @@ export const navbarEn = navbar([
           '/ai/claude/README.md',
           '/ai/langchain/README.md',
           '/ai/perplexity/README.md',
+          '/ai/openclaw/README.md',
           '/ai/v0/README.md',
         ]
       }, 

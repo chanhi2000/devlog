@@ -1234,6 +1234,23 @@ export const sidebarEn = sidebar({
         },
       ]
     }, {
+      text: 'PySpark',
+      collapsible: true,
+      icon: 'iconfont icon-pyspark',
+      children: [
+        '/programming/py-spark/README.md',
+        '/programming/py-spark/references.md',
+        '/programming/py-spark/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-spark/articles/README.md',
+          ]
+        },
+      ]
+    }, {
       text: 'Anaconda',
       collapsible: true,
       icon: 'iconfont icon-streamlit',
@@ -4076,6 +4093,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/perplexity/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'OpenClaw',
+      collapsible: true,
+      icon: 'iconfont icon-openclaw',
+      children: [
+        '/ai/openclaw/README.md',
+        '/ai/openclaw/references.md',
+        '/ai/openclaw/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/openclaw/articles/README.md',
           ]
         }
       ]

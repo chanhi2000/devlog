@@ -190,7 +190,7 @@ Copy and Paste the following to the Powershell Prompt
 
 ```powershell
 scoop bucket add extras
-scoop install 7zip cheat hyperfine fastfetch nu `
+scoop install 7zip cheat hyperfine fastfetch mise nu `
 oh-my-posh terminal-icons tokei watchman git lazygit zoxide`
 lazydocker
 ```
@@ -198,7 +198,7 @@ lazydocker
 @tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
-scoop install 7zip cheat hyperfine fastfetch nu ^
+scoop install 7zip cheat hyperfine fastfetch mise nu ^
 oh-my-posh terminal-icons tokei watchman git lazygit zoxide^
 lazydocker
 ```

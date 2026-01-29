@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4499603 */
-  src: url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.woff2?t=1769331360024') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.woff?t=1769331360024') format('woff'),
-       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.ttf?t=1769331360024') format('truetype'),
-       url('//at.alicdn.com/t/c/font_4499603_jmkbej3k97o.svg?t=1769331360024#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/c/font_4499603_hfed1c8tn9e.woff2?t=1770545056283') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4499603_hfed1c8tn9e.woff?t=1770545056283') format('woff'),
+       url('//at.alicdn.com/t/c/font_4499603_hfed1c8tn9e.ttf?t=1770545056283') format('truetype'),
+       url('//at.alicdn.com/t/c/font_4499603_hfed1c8tn9e.svg?t=1770545056283#iconfont') format('svg');
 }
 
 .iconfont {
@@ -13,6 +13,14 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.icon-pyspark:before { content: "\e9d9"; }
+.icon-arxiv:before { content: "\e9c9"; }
+.icon-webpack:before { content: "\e9d8"; }
+.icon-dbeaver:before { content: "\e621"; }
+.icon-phpmyadmin:before { content: "\e9d7"; }
+.icon-buymeacoffee:before { content: "\e9d6"; }
+.icon-mastodon:before { content: "\e9d5"; }
 .icon-swagger:before { content: "\e975"; }
 .icon-lit:before { content: "\e9d4"; }
 .icon-cri-o:before { content: "\e9d3"; }
@@ -25,7 +33,6 @@
 .icon-oddbird:before { content: "\e9cc"; }
 .icon-oauth:before { content: "\e9cb"; }
 .icon-langbase:before { content: "\e9ca"; }
-.icon-arxiv:before { content: "\e9c9"; }
 .icon-ico-v0:before { content: "\e9c8"; }
 .icon-coderabbit:before { content: "\e9c7"; }
 .icon-warp:before { content: "\e9c6"; }
@@ -292,5 +299,4 @@
 .icon-elixir:before { content: "\e75a"; }
 .icon-vampire-dracula:before { content: "\e6fa"; }
 .icon-intellijidea:before { content: "\ebd1"; }
-.icon-dbeaver:before { content: "\e621"; }
 .icon-jetbrains:before { content: "\ebdb"; }
