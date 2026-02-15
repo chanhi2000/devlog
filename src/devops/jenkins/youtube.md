@@ -4,15 +4,19 @@ title: Youtube
 description: Jenkins > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
+  - CI/CD
   - Jenkins
   - Youtube
-tag: 
-  - "youtube"
-  - "tutorial"
-  - "win"
-  - "Windows"
-  - "win10"
-  - "msc"
+tag:
+  - devops
+  - ci
+  - cd
+  - cicd
+  - ci-cd
+  - jenkins
+  - youtube
+  - tutorial
   - "eventvwr.msc"
   - "@ContinuousDelivery"
   - "@Thetips4you"
@@ -21,6 +25,14 @@ tag:
   - "@JavaHomeCloud"
   - "@gorandev"
   - "@DevOpsJourney"
+head:
+  - - meta:
+    - property: og:title
+      content: Jenkins > Youtube
+    - property: og:description
+      content: Youtube
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/jenkins/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

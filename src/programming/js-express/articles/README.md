@@ -19,7 +19,7 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Jest > Article(s)
+      content: Express.js > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url

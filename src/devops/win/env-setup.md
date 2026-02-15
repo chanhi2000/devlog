@@ -145,7 +145,7 @@ Copy and Paste the following to the Powershell Prompt
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir `
     sharex speccy sublimemerge sublimetext4 vlc vscode flameshot `
     dbeaver googlechrome glazewm fiddler windirstat 7zip `
-    procexp scrcpy fnm rancher-desktop temurin11 temurin11 `
+    procexp scrcpy fnm rancher-desktop temurin11 `
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal `
     twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
@@ -154,9 +154,9 @@ choco install -y everything everythingtoolbar exiftool notion openssl powertoys 
 
 ```batch
 choco install -y everything everythingtoolbar exiftool notion openssl powertoys qdir ^
-    sharex speccy sublimemerge sublimetext4 vlc vscode flameshot^
+    sharex speccy sublimemerge sublimetext4 vlc vscode flameshot ^
     dbeaver googlechrome glazewm fiddler windirstat 7zip ^
-    procexp scrcpy fnm rancher-desktop temurin11 temurin11 ^
+    procexp scrcpy fnm rancher-desktop temurin11 ^
     intellijidea-community revo-uninstaller glogg autoruns microsoft-windows-terminal ^
     twinkle-tray warp wingetui wiztree rust nerd-fonts-jetbrainsmono wpd zebar
 ```
@@ -811,18 +811,32 @@ fastfetch
   preview="https://autoclick.kilho.net/AutoClick.png"/>
 
 <SiteInfo
+  name="Raphire/Win11Debloat"
+  desc="A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11D..."
+  url="https://github.com/Raphire/Win11Debloat/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://repository-images.githubusercontent.com/307843105/73d2a8af-40d3-4fce-b9a3-3cfd1a24112a"/>
+
+<SiteInfo
   name="builtbybel/CrapFixer: Cr*ap Fixer"
-  desc="Cr*ap Fixer. Contribute to builtbybel/CrapFixer development by creating an account on GitHub."
+  desc="Cr*ap Fixer."
   url="https://github.com/builtbybel/CrapFixer/"
   logo="https://github.githubassets.com/favicons/favicon-dark.svg"
   preview="https://repository-images.githubusercontent.com/972589719/32bd1dd0-758b-46a0-9c96-758a305fe368"/>
 
 <SiteInfo
+  name="builtbybel/Winslop"
+  desc="De-slop Windows."
+  url="https://github.com/builtbybel/Winslop/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://repository-images.githubusercontent.com/1130260802/694d53a9-a0b2-4248-ba90-759d64b86257"/>
+
+<SiteInfo
   name="Cyber Scarecrow"
   desc="An app for scaring away malware"
-  url="https://www.cyberscarecrow.com/"
-  logo="https://www.cyberscarecrow.com/favicon.ico"
-  preview="https://www.cyberscarecrow.com/_next/image?url=%2Fscarecrow_128.ico&w=96&q=75"/>
+  url="https://cyberscarecrow.com/"
+  logo="https://cyberscarecrow.com/favicon.ico"
+  preview="https://cyberscarecrow.com/_next/image?url=%2Fscarecrow_128.ico&w=96&q=75"/>
 
 ---
 

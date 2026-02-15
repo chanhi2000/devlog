@@ -33,6 +33,7 @@
   { "logo": "azurefunctions", "name": "Azure%20Functions", "colorHex": "0062AD" },
   { "logo": "azurepipelines", "name": "Azure%20Pipelines", "colorHex": "2560E0" },
   { "logo": "bamboo", "name": "Bamboo", "colorHex": "0052CC" },
+  { "logo": "bentoml", "name": "Bentoml", "colorHex": "000000" },
   { "logo": "blazor", "name": "Blazor", "colorHex": "512BD4" },
   { "logo": "bun", "name": "Bun", "colorHex": "000000" },
   { "logo": "bitbucket", "name": "Bitbucket", "colorHex": "0052CC" },
@@ -100,6 +101,7 @@
   { "logo": "hono", "name": "Hono", "colorHex": "E36002" },
   { "logo": "html5", "name": "HTML", "colorHex": "E34F26" },
   { "logo": "intellijidea", "name": "Intellij%20Idea", "colorHex": "000000" },
+  { "logo": "istio", "name": "Istio", "colorHex": "466BB0" },
   { "logo": "jetbrains", "name": "Jetbrains", "colorHex": "000000" },
   { "logo": "jetpackcompose", "name": "Jetpack%20Compose", "colorHex": "4285F4" },
   { "logo": "jest", "name": "Jest", "colorHex": "C21325" },
@@ -155,6 +157,7 @@
   { "logo": "powerbi", "name": "Power%20BI", "colorHex": "F2C811" },
   { "logo": "powershell", "name": "Powershell", "colorHex": "5391FE" },
   { "logo": "pnpm", "name": "pnpm", "colorHex": "F69220" },
+  { "logo": "prefect", "name": "Prefect ", "colorHex": "070E10" },
   { "logo": "prometheus", "name": "Prometheus ", "colorHex": "E6522C" },
   { "logo": "puppeteer", "name": "Puppeteer ", "colorHex": "40B5A4" },
   { "logo": "python", "name": "Python", "colorHex": "3776AB" },
@@ -176,6 +179,7 @@
   { "logo": "ruby", "name": "Ruby", "colorHex": "CC342D" },
   { "logo": "rust", "name": "Rust", "colorHex": "000000" },
   { "logo": "scala", "name": "Scala", "colorHex": "DC322F" },
+  { "logo": "scalar", "name": "Scalar", "colorHex": "1A1A1A" },
   { "logo": "selenium", "name": "Selenium", "colorHex": "43B02A" },
   { "logo": "shadcnui", "name": "shadcn/ui", "colorHex": "000000" },
   { "logo": "sketch", "name": "Skatch", "colorHex": "F7B500" },
@@ -225,4 +229,5 @@
   { "logo": "yarn", "name": "Yarn", "colorHex": "2C8EBB" },
   { "logo": "youtube", "name": "YouTube", "colorHex": "FF0000" },
   { "logo": "zig", "name": "Zig", "colorHex": "F7A41D" }
+  { "logo": "zod", "name": "Zod", "colorHex": "408AFF" }
 ]

@@ -4,9 +4,13 @@ title: Environment Setup
 description: iOS > Environment Setup
 icon: fas fa-toolbox
 category:
+  - DevOps
+  - Apple
   - iOS
   - Environment Setup
 tag: 
+  - devops
+  - apple
   - ios
   - env
   - env-setup

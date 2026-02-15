@@ -4,13 +4,25 @@ title: References
 description: Jenkins > References
 icon: fas fa-book-atlas
 category:
-  - Jenkins 
+  - DevOps
+  - CI/CD
+  - Jenkins
   - References
-tag: 
-  - jenkins
-  - cicd
+tag:
+  - devops
   - ci
   - cd
+  - cicd
+  - ci-cd
+  - jenkins
+head:
+  - - meta:
+    - property: og:title
+      content: Jenkins > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/jenkins/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

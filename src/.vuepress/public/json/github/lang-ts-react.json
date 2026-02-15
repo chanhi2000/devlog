@@ -300,5 +300,19 @@
     "topics": ["react", "javascript", "typescript", "ai", "nextjs", "sandbox", "claude", "e2b", "llm", "code-interpreter", "anthropic", "claude-ai", "ai-code-generation"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/7cf2b72756532d22e7022de4c3843982629cd9be18794ce7aad9731d9d83aa96/e2b-dev/fragments"
+  }, {
+    "repo": "imskyleen/animate-ui",
+    "desc": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects....",
+    "officialSite": "https://animate-ui.com",
+    "topics": ["react", "components", "typescript", "nextjs", "motion", "radix", "tailwindcss", "framer-motion", "shadcn-ui"],
+    "avatar": "https://avatars.githubusercontent.com/u/76941569?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/f10619b69261d4b65685d25edb58fad8c463c0058b411d5ffef04ff13e8abf13/imskyleen/animate-ui"
+  }, {
+    "repo": "DavidHDev/react-bits",
+    "desc": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+    "officialSite": "https://reactbits.dev",
+    "topics": ["react", "javascript", "components", "web", "reactjs", "css-animations", "react-components", "animations", "component-library", "ui-components", "3d", "ui-library", "tailwind", "tailwindcss", "components-react", "components-library"],
+    "avatar": "https://avatars.githubusercontent.com/u/48634587?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/838695230/5663c374-06d5-43c8-983d-60e80b413f5f"
   }
 ]

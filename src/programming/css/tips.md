@@ -344,4 +344,14 @@ p:empty {}          /* elements that have no children selector */
 
 ---
 
+## 스크롤바 색 변경
+
+```css
+html {
+  scrollbar-color: hotpink beige;
+}
+```
+
+---
+
 <TagLinks />

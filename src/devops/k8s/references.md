@@ -6,11 +6,11 @@ icon: fas fa-book-atlas
 category:
   - DevOps
   - Kubernetes
-  - VM
   - References
-tag: 
-  - kubernetes
+tag:
+  - devops
   - k8s
+  - kubernetes
 head:
   - - meta:
     - property: og:title

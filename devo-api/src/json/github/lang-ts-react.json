@@ -265,5 +265,12 @@
     "topics": ["epicweb-dev", "react", "workshop"],
     "avatar": "https://avatars.githubusercontent.com/u/112979997?v=4",
     "banner": ""
+  }, {
+    "repo": "millionco/react-doctor",
+    "desc": "Let coding agents diagnose and fix your React code",
+    "officialSite": "https://react.doctor",
+    "topics": ["react", "doctor", "skill", "code-review", "agents"],
+    "avatar": "https://avatars.githubusercontent.com/u/85101781?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/0030187ffdb3a22cabbc56e24cd6d4ef076045561120ae67cfaa00b202216525/millionco/react-doctor"
   }
 ]

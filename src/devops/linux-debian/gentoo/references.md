@@ -23,7 +23,7 @@ head:
     - property: og:description
       content: References
     - property: og:url
-      content: https://chanhi2000.github.io/devops/linux-debian/Gentoo/references.html
+      content: https://chanhi2000.github.io/devops/linux-debian/gentoo/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

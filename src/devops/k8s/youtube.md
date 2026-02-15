@@ -6,13 +6,13 @@ icon: fa-brands fa-youtube
 category:
   - DevOps
   - Kubernetes
-  - VM
   - Youtube
-tag: 
+tag:
+  - devops
+  - k8s
+  - kubernetes
   - youtube
   - tutorial
-  - kubernetes
-  - k8s
   - "@DevOpsToolkit"
   - "@TechWorldwithNana"
   - "@HoussemDellai"

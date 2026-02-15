@@ -8433,5 +8433,12 @@
     "topics": ["nlp", "deep-learning", "llama", "gpt", "model-serving", "llm", "openai-triton"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/a9e3a9d2da8f9f24d680ccd34b64bce7e963a1bfb04f65c028aadbf628f2931d/ModelTC/lightllm"
+  }, {
+    "repo": "tae0y/real-estate-mcp",
+    "desc": "Ask Claude about Korean apartment prices — powered by MOLIT's open API",
+    "officialSite": "",
+    "topics": ["real-estate", "mcp", "openapi", "korea", "claude"],
+    "avatar": "https://avatars.githubusercontent.com/u/20028607?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/be9c46cadea2acdebc6c89cdf239c4f1d64a120ca2fadadf9f23f24bfd2bbcf3/tae0y/real-estate-mcp"
   }
 ]

@@ -167,6 +167,8 @@ export const navbarEn = navbar([
           '/programming/js-express/README.md',
           '/programming/js-three/README.md',
           '/programming/js-lit/README.md',
+          '/programming/js-scalar/README.md',
+          '/programming/js-zod/README.md',
           '/programming/js-jest/README.md',
           '/programming/js-playwright/README.md',
           '/programming/js-puppeteer/README.md',
@@ -206,6 +208,9 @@ export const navbarEn = navbar([
           '/programming/py-locust/README.md',
           '/programming/py-airflow/README.md',
           '/programming/py-gradio/README.md',
+          '/programming/py-prefect/README.md',
+          '/programming/py-dagster/README.md',
+          '/programming/py-bentoml/README.md',
         ]
       }, {
         text: 'Rust',
@@ -409,8 +414,10 @@ export const navbarEn = navbar([
         link: '/devops/podman/README.md',
       }, {
         text: 'Kubernetes',
-        icon: 'iconfont icon-k8s',
-        link: '/devops/k8s/README.md',
+        children: [
+          '/devops/k8s/README.md',
+          '/devops/k8s-istio/README.md',
+        ]
       }, {
         text: 'Openshift',
         icon: 'fa-brands fa-redhat',

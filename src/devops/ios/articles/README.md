@@ -3,10 +3,14 @@ lang: ko-KR
 title: Article(s)
 description: iOS > Article(s)
 icon: fas fa-square-share-nodes
-category: 
+category:
+  - DevOps
+  - Apple
   - iOS
   - Article(s)
 tag: 
+  - devops
+  - apple
   - blog
   - ios
 head:

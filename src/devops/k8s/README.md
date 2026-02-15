@@ -7,8 +7,17 @@ category:
   - DevOps
   - Kubernetes
 tag:
-  - kubernetes
+  - devops
   - k8s
+  - kubernetes
+head:
+  - - meta:
+    - property: og:title
+      content: Kubernetes
+    - property: og:description
+      content: Kubernetes
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/k8s/
 ---
 
 # {{ $frontmatter.title }} 관련

@@ -19,11 +19,11 @@ tag:
 head:
   - - meta:
     - property: og:title
-      content: Jest > Article(s)
+      content: Three.js > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/programming/js-express/articles/
+      content: https://chanhi2000.github.io/programming/js-three/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

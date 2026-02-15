@@ -4,9 +4,12 @@ title: Tips
 description: iOS > Tips
 icon: fas fa-lightbulb
 category:
-  - iOS
+  - DevOps
+  - Apple
   - Tips
 tag: 
+  - devops
+  - apple
   - ios
   - tips
 head:

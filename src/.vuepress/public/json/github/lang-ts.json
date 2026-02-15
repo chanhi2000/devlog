@@ -5087,5 +5087,19 @@
     "topics": ["visualization", "geospatial", "data-visualization", "kepler", "mapbox"],
     "avatar": "https://avatars.githubusercontent.com/u/197739070?v=4",
     "banner": "https://opengraph.githubassets.com/25d41743f7241e260c463732a06b2206b8009bb5f87af4f664d7a64659f219de/keplergl/kepler.gl"
+  }, {
+    "repo": "supreme-gg-gg/instagram-cli",
+    "desc": "Instagram's terminal UI app - The ultimate weapon against brainrot",
+    "officialSite": "https://www.npmjs.com/package/@i7m/instagram-cli",
+    "topics": ["react", "python", "cli", "productivity", "instagram", "command-line-app", "typescript", "messenger", "curses", "instagram-api", "command-line-tool", "terminal-based", "ink", "terminal-app", "terminal-graphics", "typer", "curses-ui", "terminal-ui", "brainrot"],
+    "avatar": "https://avatars.githubusercontent.com/u/145060541?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/b1b587e40c419df731663c01e4ddb60e2aaed3f117313931f74c01c50714c13a/supreme-gg-gg/instagram-cli"
+  }, {
+    "repo": "dembrandt/dembrandt",
+    "desc": "Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.",
+    "officialSite": "http://dembrandt.com/",
+    "topics": ["cli", "productivity", "design", "design-systems", "automation", "ui", "frontend", "reverse-engineering", "web-scraping", "developer-tools", "component-library", "design-tokens", "figma", "design-system", "web-automation", "playwright"],
+    "avatar": "https://avatars.githubusercontent.com/u/247836031?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/58db186ee3aad5e6ae2e2bfcb922ec237e89aa2153de783432e803dc8bb7f3cb/dembrandt/dembrandt"
   }
 ]

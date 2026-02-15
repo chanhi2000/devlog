@@ -71,13 +71,13 @@ brew tap mac-cleanup/mac-cleanup-py; # mac-cleanup-py
 
 # Install formula
 brew install autojump amazon-ecs-cli awscli bat bat-extras bun bison \
-  cheat clipgrab cocoapods exiftool fastfetch ffmpeg fizz flac git lazygit \
-  hyperfine mas mise nushell fnm openssl pixman lazydocker \
-  python poetry rust scrcpy starship tmux tokei watchman \
-  wget uv xz zsh zoxide mac-cleanup-py;
+cheat clipgrab cocoapods exiftool fastfetch ffmpeg fizz flac git lazygit \
+hyperfine mas mise mole nushell fnm openssl pixman lazydocker \
+python poetry rust scrcpy starship tmux tokei watchman \
+wget uv xz zsh zoxide mac-cleanup-py;
+
 brew install koekeishiya/formulae/yabai;
 brew install koekeishiya/formulae/skhd;
-
 
 # KVM 활성화
 # 
@@ -87,13 +87,13 @@ brew install qemu libvirt virt-manager;
 
 # Install cask(s)
 brew install --cask airflow alt-tab appcleaner battery chatgpt clipgrab cheatsheet  \ 
-  dbeaver-community dockdoor rancher eul flameshot flipper font-jetbrains-mono-nerd-font \
-  ghostty grandperspective intellij-idea-ce jordanbaird-ice \
-  maccy notion opencore-patcher oversight pennywise pycharm-ce raycast \
-  rectangle resilio-sync sf-symbols shottr sublime-merge sublime-text \
-  the-unarchiver taskexplorer usr-sse2-rdm transmission visual-studio-code \
-  vlc warp webstorm wireshark;
-  # aldente
+dbeaver-community dockdoor rancher flameshot flipper font-jetbrains-mono-nerd-font \
+ghostty grandperspective intellij-idea-ce jordanbaird-ice \
+maccy notion opencore-patcher oversight pennywise pearcleaner pika pycharm-ce raycast \
+rectangle resilio-sync sf-symbols shottr stats sublime-merge sublime-text \
+the-unarchiver taskexplorer usr-sse2-rdm transmission visual-studio-code \
+vlc warp webstorm wireshark;
+# aldente
 ```
 
 ---
@@ -209,15 +209,15 @@ Install the following(s)
 # 6443419421: DayMoney - Budget, Diary
 # 6737156289: Testpiler - Convert XCTests to Testing.fwk
 mas install 497799835 \
-    1604176982 \
-    885120167 \
-    1452453066 \
-    # 595191960 \
-    1612199418 \
-    1429033973 \
-    1635954549 \
-    6737156289 \
-    # 6443419421
+1604176982 \
+885120167 \
+1452453066 \
+# 595191960 \
+1612199418 \
+1429033973 \
+1635954549 \
+6737156289 \
+# 6443419421
 ```
 
 ---
@@ -415,6 +415,7 @@ eval "$(starship init zsh)"
 
 # launch fastfetch
 fastfetch
+brew update && brew upgrade && brew upgrade --cask $(brew list --cask)
 
 ### RANCHER DESKTOP
 export PATH="$PATH:/Users/chlee/.rd/bin"
@@ -574,6 +575,7 @@ defaults write com.apple.dock expose-animation-duration -float 0.1;
 
 ## Disable the delay when you hide the Dock
 defaults write com.apple.Dock autohide-delay -float 0;
+defaults write com.apple.Dock autohide-time-modifier -float 0;
 
 ### Mail ###
 ## Disable the animation when you sending and replying an e-mail

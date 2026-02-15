@@ -6,7 +6,6 @@ icon: fas fa-square-share-nodes
 category: 
   - DevOps
   - Kubernetes
-  - VM
   - Article(s)
 tag: 
   - blog
@@ -20,8 +19,9 @@ tag:
   - engineering.linecorp.com
   - dev.gmarket.com
   - helloworld.kurly.com
-  - kubernetes
+  - devops
   - k8s
+  - kubernetes
 head:
   - - meta:
     - property: og:title

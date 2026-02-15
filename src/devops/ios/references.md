@@ -4,9 +4,13 @@ title: References
 description: iOS > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
+  - Apple
   - iOS
   - References
 tag: 
+  - devops
+  - apple
   - ios
   - settings
 head:

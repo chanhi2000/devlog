@@ -64,24 +64,28 @@ net user <사용자ID> <변경 비밀번호>
 
 ---
 
-## 윈도우 이미지를 복구
+## `DISM`
 
 ```batch
-dism /online /cleanup-image /restorehealth
-dism /online /cleanup-image /startcomponentcleanup
+:: 윈도우 이미지를 복구
+DISM /Online /Cleanup-Image /RestoreHealth
+DISM /Online /cleanup-Image /startcomponentcleanup
 ```
 
 ---
 
-## auto-tuning network 기능 해제
+## `NETSH`
 
 ```batch
-netsh interface tcp set global autotuninglevel=disabled
-netsh interface tcp set global autotuninglevel=normal 
+:: Resets network settings to fix connectivity problems
+NETSH winsock reset
+
+:: auto-tuning network 기능 해제
+NETSH interface tcp set global autotuninglevel=disabled
+NETSH interface tcp set global autotuninglevel=normal 
 ```
 
-::: info auto-tuning level flag(s) 
-
+::: info auto-tuning level flag(s)
 
 | flag | description |
 | :---: | :--- | 
@@ -97,20 +101,13 @@ netsh interface tcp set global autotuninglevel=normal
 
 ## `powercfg.cpl`
 
-
 ::: info 전원옵션 > 최대성능 활성화
 
 어드민 권한으로 Command Prompt 실행
 
 ```batch
-powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+POWERCFG -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 --
-
-```
-
-아래와 같은 결과 출력
-
-```
 
 ```
 
@@ -137,8 +134,8 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ## Kill Process
 
 ```batch
-taskkill /f /im Battle.net.exe
-taskkill /f /PID 1234
+TASKKILL /f /im Battle.net.exe
+TASKKILL /f /PID 1234
 ```
 
 ---
@@ -194,6 +191,51 @@ RENAME <구 이름> <바꿀 이름> && REM 폴더명 변경
 
 - `regedit` 실행 후 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\<찾은 SID값>` 경로이동
 - `ProfileImagePath` 값을 바꾼 이름으로 지정
+
+---
+
+## `SFC`
+
+```batch
+:: Scans and repairs computed or missing Windows system files.
+SFC /scannnow
+```
+
+---
+
+## `CHKDSK`
+
+```batch
+:: Checks the disk for errors and fixes file system issue
+CHKDSK /f C:
+```
+
+---
+
+## `IPCONFIG`
+
+```batch
+:: Clears DNS cache to fix internet and website loading issues
+IPCONFIG /flushdns
+```
+
+---
+
+## `BOOTREC`
+
+```batch
+:: Fixes boot sector issues when Windows fails to load
+BOOTREC /fixboot
+```
+
+---
+
+## `RD`
+
+```batch
+:: 신속하게 파일+폴더 삭제
+RD /s /q <FOLDER_NAME>
+```
 
 ---
 

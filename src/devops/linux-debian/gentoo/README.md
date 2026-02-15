@@ -13,6 +13,14 @@ tag:
   - linux
   - debian
   - gentoo
+head:
+  - - meta:
+    - property: og:title
+      content: Gentoo
+    - property: og:description
+      content: Gentoo
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/linux-debian/gentoo/
 ---
 
 # {{ $frontmatter.description }} 관련

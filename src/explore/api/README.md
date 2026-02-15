@@ -534,6 +534,16 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://vert.sh/favicon.png"
   preview="https://vert.sh/_app/immutable/assets/VERT_Feature.D5UIwpMt.webp"/>
 
+```component VPCard
+{
+  "title": "Home - Goblin Tools",
+  "desc": "A collection of small, simple tools, for when things feel too big or complicated",
+  "link": "https://goblin.tools/?l=en-US/",
+  "logo": "https://goblin.tools/assets/favicon-16x16.png?v=yBr4TsokmoWVS5YnO7TUSZS1z7Il2K00M5eALOs_zEo",
+  "background": "rgba(13,110,253,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -1501,6 +1511,40 @@ http://texturer.com/
   url="https://skillicons.dev"
   logo="https://skillicons.dev/favicon.png"
   preview="https://skillicons.dev/banner.png"/>
+
+```component VPCard
+{
+  "title": "FossFLOW - Isometric Diagramming Tool",
+  "desc": "Create beautiful isometric diagrams with FossFLOW - A powerful open-source diagramming tool for creating stunning isometric illustrations",
+  "link": "https://stan-smith.github.io/FossFLOW",
+  "logo": "https://stan-smith.github.io/FossFLOW/favicon.ico",
+  "background": "rgba(0,123,255,0.2)"
+}
+```
+
+<SiteInfo
+  name="CSS Grid Generator"
+  desc="CSS Grid Generator - a user-friendly tool designed for web developers to effortlessly create customizable CSS grids for seamless web development."
+  url="https://cssgridgenerator.io/"
+  logo="https://cssgridgenerator.io/favicon.ico"
+  preview="https://cssgridgenerator.io/thumbnail.png"/>
+
+<SiteInfo
+  name="Griddy Icons"
+  desc="Griddy Icons is free open-source icon family with unique utilitarian vibe"
+  url="https://griddyicons.com"
+  logo="https://griddyicons.com/icon.png?icon.9ec1f865.png"
+  preview="https://griddyicons.com/opengraph-image.png?opengraph-image.f9c28cac.png"/>
+
+```component VPCard
+{
+  "title": "Animagraffs - Animated infographics about everything.",
+  "desc": "Animated infographics about everything.",
+  "link": "https://animagraffs.com/how-a-fire-engine-works//",
+  "logo": "https://animagraffs.com/wp-content/themes/animagraffs-theme-v2/img/icons/favicon.ico",
+  "background": "rgba(255,8,50,0.2)"
+}
+```
 
 <!-- END: Design & Image -->
 
@@ -2475,6 +2519,15 @@ https://mdis.kostat.go.kr/index.do
   url="https://abhay.fun/soundwave"
   logo="https://abhay.fun/favicon.ico"
   preview="https://abhay.fun/ogImage/SoundWave.png"/>
+
+<SiteInfo
+  name="Magical Music Theory Tools to Learn Music Online for Free | muted.io"
+  desc="A collection of interactive online music theory tools and piano references for notes, keys, chords and scales. A fun way to learn and retain music concepts."
+  url="https://muted.io//"
+  logo="/images/favicon/favicon2.svg"
+  preview="https://muted.io/images/mutedio-cover.jpg"/>
+
+<!-- END: Misc -->
 
 :::
 

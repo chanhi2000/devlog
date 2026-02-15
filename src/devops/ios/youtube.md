@@ -4,12 +4,16 @@ title: Youtube
 description: iOS > Youtube
 icon: fa-brands fa-youtube
 category:
+  - DevOps
+  - Apple
   - iOS
   - Youtube
 tag: 
+  - devops
+  - apple
+  - ios
   - youtube
   - tutorial
-  - ios
 head:
   - - meta:
     - property: og:title

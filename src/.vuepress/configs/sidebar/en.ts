@@ -643,7 +643,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Svelte.js',
       collapsible: true,
-      icon: 'iconfont icon-svelte',
+      icon: 'fa-brands fa-svelte',
       children: [
         '/programming/js-svelte/README.md',
         '/programming/js-svelte/references.md',
@@ -787,6 +787,42 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/js-lit/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Scalar',
+      collapsible: true,
+      icon: 'iconfont icon-scalar',
+      children: [
+        '/programming/js-scalar/README.md',
+        '/programming/js-scalar/snippets.md',
+        '/programming/js-scalar/references.md',
+        '/programming/js-scalar/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-scalar/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Zod',
+      collapsible: true,
+      icon: 'iconfont icon-zod',
+      children: [
+        '/programming/js-zod/README.md',
+        '/programming/js-zod/snippets.md',
+        '/programming/js-zod/references.md',
+        '/programming/js-zod/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/js-zod/articles/README.md',
           ]
         }
       ]
@@ -1357,6 +1393,74 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/programming/py-gradio/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Prefect',
+      collapsible: true,
+      icon: 'iconfont icon-prefects',
+      children: [
+        '/programming/py-prefect/README.md',
+        '/programming/py-prefect/references.md',
+        '/programming/py-prefect/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-prefect/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Dagster',
+      collapsible: true,
+      icon: 'iconfont icon-dagster',
+      children: [
+        '/programming/py-dagster/README.md',
+        '/programming/py-dagster/references.md',
+        '/programming/py-dagster/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-dagster/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Bentoml',
+      collapsible: true,
+      icon: 'iconfont icon-bentoml',
+      children: [
+        '/programming/py-bentoml/README.md',
+        '/programming/py-bentoml/references.md',
+        '/programming/py-bentoml/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-bentoml/articles/README.md',
+          ]
+        },
+      ]
+    }, {
+      text: 'Pincone',
+      collapsible: true,
+      icon: 'iconfont icon-pineonce',
+      children: [
+        '/programming/py-pinecone/README.md',
+        '/programming/py-pinecone/references.md',
+        '/programming/py-pinecone/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-pinecone/articles/README.md',
           ]
         },
       ]
@@ -3048,6 +3152,24 @@ export const sidebarEn = sidebar({
             asb.linecorp("k8s"),
             asb.gmarket("k8s"),
             asb.kurly("k8s"),
+          ]
+        }
+      ]
+    },  {
+      text: 'Istio',
+      collapsible: true,
+      icon: 'iconfont icon-k8s',
+      children: [
+        '/devops/k8s-istio/README.md',
+        '/devops/k8s-istio/references.md',
+        '/devops/k8s-istio/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/k8s-istio/articles/README.md',
+            asb.freecodecamp("k8s-istio"),
           ]
         }
       ]

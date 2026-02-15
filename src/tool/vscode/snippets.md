@@ -56,35 +56,35 @@ Placeholders with the same ids are connected.
   "UrlGithubRepo": {
     "prefix": "urlghr",
     "body": [
-    "https://github.com/${1:repo}${0}",
+    "https://github.com/${1:repo}",
     ],
     "description": "Create URL form for Github Repoistory"
   },
   "VuepressMarkdownVidStack": {
     "prefix": "vpvs",
     "body": [
-    "<VidStack src=\"${1:url}\" />${0}",
+    "<VidStack src=\"${1:url}\" />",
     ],
     "description": "Create VidStack Vue Component"
   },
   "VuepressMarkdownYoutube": {
     "prefix": "vpy",
     "body": [
-    "<VidStack src=\"youtube/${1:id}\" />${0}",
+    "<VidStack src=\"youtube/${1:id}\" />",
     ],
     "description": "Create VidStack Youtube Vue Component"
   },
   "VuepressMarkdownYoutubeItem": {
     "prefix": "vpyi",
     "body": [
-    "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />${0}",
+    "<YoutubeItem channelName=\"${1:channelName}\" channelId=\"${2:channelId}\" id=\"${3:id}\" title=\"${4:title}\" />",
     ],
     "description": "Create YoutubeItem Vue Component"
   },
   "VuepressMarkdownGithubTags": {
     "prefix": "vpgt",
     "body": [
-    "<GithubTags tagItems=\"${1:tagItems}\" />${0}",
+    "<GithubTags tagItems=\"${1:tagItems}\" />",
     ],
     "description": "Create 'GithubTags' Vue Component"
   },
@@ -101,7 +101,7 @@ Placeholders with the same ids are connected.
      "",
        "<!-- ${1:title} -->",
      "",
-     "---${0}"
+     "---"
      ],
      "description": "Create YoutubeGroup Vue Component"
   },
@@ -198,7 +198,7 @@ Placeholders with the same ids are connected.
       "  slug-hash=\"${3:slughash}\"",
       "  title=\"${4:title}\"",
       "  :default-tab=\"['css','result']\"",
-      "  :theme=\"\\$isDarkmode ? 'dark': 'light'\"/>${0}",
+      "  :theme=\"\\$isDarkMode ? 'dark': 'light'\"/>${0}",
     ],
     "description": "Create CodePen Vue Componenet"
   },
@@ -294,6 +294,50 @@ Placeholders with the same ids are connected.
       ":::${0}"
     ],
     "description": "Create Code Tabs for Various Linux Installation"
+  },
+  "MdNormalDemoNoJs": {
+    "prefix": "mndnj",
+    "body": [
+      "::: normal-demo",
+      "",
+      "```html",
+      "${1:html}",
+      "```",
+      "",
+      "```css",
+      "${2:css}",
+      "```",
+      "",
+      "```json",
+      "```",
+      "",
+      ":::${0}"
+    ],
+    "description": "Create Normal Demo without JS"
+  },
+  "MdNormalDemo": {
+    "prefix": "mnd",
+    "body": [
+      "::: normal-demo",
+      "",
+      "```html",
+      "${1:html}",
+      "```",
+      "",
+      "```css",
+      "${2:css}",
+      "```",
+      "",
+      "```js",
+      "${3:js}",
+      "```",
+      "",
+      "```json",
+      "```",
+      "",
+      ":::${0}"
+    ],
+    "description": "Create Normal Demo"
   },
   "MdSandpackReact": {
     "prefix": "mspr",
