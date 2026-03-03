@@ -68,6 +68,7 @@
   { "logo": "fastapi", "name": "FastAPI", "colorHex": "009688" },
   { "logo": "firebase", "name": "Firebase", "colorHex": "FFCA28" },
   { "logo": "flask", "name": "Flask", "colorHex": "000000" },
+  { "logo": "forgejo", "name": "Forgejo", "colorHex": "FB923C" },
   { "logo": "flutter", "name": "Flutter", "colorHex": "02569B" },
   { "logo": "flydotio", "name": "Fly.io", "colorHex": "24175B" },
   { "logo": "gatling", "name": "Gatling", "colorHex": "FF9E2A" },
@@ -141,6 +142,7 @@
   { "logo": "notion", "name": "Notion", "colorHex": "000000" }, 
   { "logo": "npm", "name": "npm", "colorHex": "CB3837" }, 
   { "logo": "numpy", "name": "NumPy", "colorHex": "013243" }, 
+  { "logo": "nvidia", "name": "NVIDIA", "colorHex": "76B900" }, 
   { "logo": "obsedian", "name": "Obsedian", "colorHex": "7C3AED" },
   { "logo": "ocaml", "name": "OCaml", "colorHex": "EC6813" },
   { "logo": "openai", "name": "OpenAI", "colorHex": "412991" },
@@ -228,6 +230,6 @@
   { "logo": "xcode", "name": "XCode", "colorHex": "147EFB" },
   { "logo": "yarn", "name": "Yarn", "colorHex": "2C8EBB" },
   { "logo": "youtube", "name": "YouTube", "colorHex": "FF0000" },
-  { "logo": "zig", "name": "Zig", "colorHex": "F7A41D" }
+  { "logo": "zig", "name": "Zig", "colorHex": "F7A41D" },
   { "logo": "zod", "name": "Zod", "colorHex": "408AFF" }
 ]

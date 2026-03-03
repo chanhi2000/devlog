@@ -1779,6 +1779,26 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'CUDA',
+      collapsible: true,
+      icon: 'iconfont icon-cpp',
+      children: [
+        '/programming/cpp-cuda/README.md',
+        '/programming/cpp-cuda/tips.md',
+        '/programming/cpp-cuda/references.md',
+        '/programming/cpp-cuda/github.md',
+        '/programming/cpp-cuda/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/cpp-cuda/articles/README.md',
+            asb.freecodecamp("cpp-cuda"), 
+          ]
+        }
+      ]
+    }, {
       text: 'Elixir',
       collapsible: true,
       icon: 'iconfont icon-elixir',
@@ -2788,6 +2808,48 @@ export const sidebarEn = sidebar({
           children: [
             '/devops/confluence/articles/README.md',
             asb.yozm("confluence"),            
+          ]
+        }
+      ]
+    }, {
+      text: 'Gitea',
+      collapsible: true,
+      icon: 'iconfont icon-gitea',
+      children: [
+        '/devops/gitea/README.md',
+        '/devops/gitea/docker.md',
+        '/devops/gitea/docker-compose.md',
+        '/devops/gitea/troubleshooting.md',
+        '/devops/gitea/references.md',
+        '/devops/gitea/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/gitea/articles/README.md',
+            asb.freecodecamp("gitlab"),            
+          ]
+        }
+      ]
+    }, {
+      text: 'Forgejo',
+      collapsible: true,
+      icon: 'iconfont icon-forgejo',
+      children: [
+        '/devops/forgejo/README.md',
+        '/devops/forgejo/docker.md',
+        '/devops/forgejo/docker-compose.md',
+        '/devops/forgejo/troubleshooting.md',
+        '/devops/forgejo/references.md',
+        '/devops/forgejo/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/forgejo/articles/README.md',
+            asb.freecodecamp("gitlab"),            
           ]
         }
       ]

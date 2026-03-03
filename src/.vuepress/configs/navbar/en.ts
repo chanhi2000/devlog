@@ -255,8 +255,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-c',
       }, {
         text: 'C++',
-        link: '/programming/cpp/README.md',
-        icon: 'iconfont icon-cpp',
+        children: [
+          '/programming/cpp/README.md',
+          '/programming/cpp-cuda/README.md',
+        ]
       }, {
         text: 'Elixir',
         link: '/programming/elixir/README.md',
@@ -344,6 +346,14 @@ export const navbarEn = navbar([
           '/devops/confluence/README.md',
           '/devops/bamboo/README.md',
         ],
+      }, {
+        text: 'Gitea',
+        icon: 'iconfont icon-gitea',
+        link: '/devops/gitea/README.md',
+      }, {
+        text: 'Forgejo',
+        icon: 'iconfont icon-forgejo',
+        link: '/devops/forgejo/README.md',
       }, {
         text: 'macOS',
         icon: 'iconfont icon-macos',
