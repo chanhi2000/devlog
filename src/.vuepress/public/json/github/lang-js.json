@@ -3735,5 +3735,12 @@
     "topics": ["ai", "devtools", "developer-tools", "llm", "chatgpt", "anthropic"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/891010387e183e35f8e4b2c0b5933bbc3b85be2ff18768df66fab9c6047ed587/abinthomasonline/repo2txt"
+  }, {
+    "repo": "pbakaus/impeccable",
+    "desc": "The design language that makes your AI harness better at design.",
+    "officialSite": "https://impeccable.style",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/43004?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/9f66caea97a8583e0c53f32cbdeed64d6c2287ba03c79ab8d719f68e930cea5a/pbakaus/impeccable"
   }
 ]

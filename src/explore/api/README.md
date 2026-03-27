@@ -544,6 +544,36 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
 }
 ```
 
+```component VPCard
+{
+  "title": "Claude Code Cheat Sheet — Complete Reference",
+  "desc": "All Claude Code shortcuts, commands, flags, MCP config, memory files & env vars on one page. Auto-updated daily.",
+  "link": "https://cc.storyfox.cz/",
+  "logo": "https://cc.storyfox.cz/favicon.ico",
+  "background": "rgba(31,41,55,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Ziptable — Share Small Datasets as a Link",
+  "desc": "Share small datasets as a link — no server, no storage, no account. · How it works",
+  "link": "https://ziptbl.com/",
+  "logo": "https://ziptbl.com/favicon.ico",
+  "background": "rgba(167,139,250,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "delphitools",
+  "desc": "A collection of small, low stakes and low effort tools. No logins, no registration, no data collection.",
+  "link": "https://delphi.tools/",
+  "logo": "https://delphi.tools/delphi-lowlod.png",
+  "background": "rgba(1,102,48,0.2)"
+}
+```
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -2526,6 +2556,13 @@ https://mdis.kostat.go.kr/index.do
   url="https://muted.io//"
   logo="/images/favicon/favicon2.svg"
   preview="https://muted.io/images/mutedio-cover.jpg"/>
+
+<SiteInfo
+  name="트럼프 가라사대 · 발언·기사 모음 | Trump Saith"
+  desc="트럼프 가라사대 - 트럼프 발언·기사 모음을 한곳에서. 이란 전쟁 등 국제 이슈 관련 발언·기사 | Trump Saith — curated Donald Trump statements, quotes, and news in one place, including major issues such as the Iran conflict."
+  url="https://trump-saith.com/"
+  logo="https://trump-saith.com/favicon.ico?favicon.0b3bf435.ico"
+  preview="https://trump-saith.com/opengraph-image?242d2f0f43172581"/>
 
 <!-- END: Misc -->
 

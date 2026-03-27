@@ -370,6 +370,16 @@ tag:
 
 ```component VPCard
 {
+  "title": "NPM Visual Manager (`LuisClementDev.npm-visual-manager`)",
+  "desc": "Visual package manager for NPM dependencies with update checking, security audit, and bulk operations",
+  "link": "https://marketplace.visualstudio.com/items?itemName=LuisClementDev.npm-visual-manager",
+  "logo": "https://luisclementdev.gallerycdn.vsassets.io/extensions/luisclementdev/npm-visual-manager/1.5.0/1774892944916/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(203,56,55,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "Path Intellisense (`christian-kohler.path-intellisense`)",
   "desc": "Visual Studio Code plugin that autocompletes filenames",
   "link": "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense",

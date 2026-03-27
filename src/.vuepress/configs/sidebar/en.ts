@@ -2654,7 +2654,7 @@ export const sidebarEn = sidebar({
     }, {
       text: 'Warp',
       collapsible: true,
-      icon: 'iconfont icon-wireshark',
+      icon: 'iconfont icon-warp',
       children: [
         '/tool/warp/README.md',
         '/tool/warp/references.md',
@@ -3057,6 +3057,24 @@ export const sidebarEn = sidebar({
         '/devops/linux-nixos/env-setup.md',
         '/devops/linux-nixos/references.md',
         '/devops/linux-nixos/youtube.md',
+      ]
+    }, {
+      text: 'ChromeOS',
+      collapsible: true,
+      icon: 'fa-brands fa-chrome',
+      children: [
+        '/devops/chromeos/README.md',
+        '/devops/chromeos/references.md',
+        '/devops/chromeos/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/chromeos/articles/README.md',
+            asb.freecodecamp("chromeos"),
+          ]
+        }
       ]
     }, {
       text: 'Proxmox',

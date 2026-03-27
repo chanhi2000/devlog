@@ -2,7 +2,7 @@
 lang: ko-KR
 title: "Apache Hive"
 description: "Apache Hive"
-icon: iconfont icon-apachespark
+icon: iconfont icon-apachehive
 category:
   - Data Science
   - Apache

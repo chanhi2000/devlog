@@ -4,14 +4,24 @@ title: References
 description: Security > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - Security
   - References
 tag: 
-  - devsecops
+  - devops
+  - sec
   - security
   - os
   - windows
   - youtube
+head:
+  - - meta:
+    - property: og:title
+      content: Security > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/security/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

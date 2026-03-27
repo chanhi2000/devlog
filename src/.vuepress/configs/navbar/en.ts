@@ -391,6 +391,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-nixos',
         link: '/devops/linux-nixos/README.md',
       }, {
+        text: 'ChromeOS',
+        icon: 'fa-brands fa-chrome',
+        link: '/devops/chromeos/README.md',
+      }, {
         text: 'Proxmox',
         icon: 'iconfont icon-proxmox',
         link: '/devops/proxmox/README.md',

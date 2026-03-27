@@ -5101,5 +5101,68 @@
     "topics": ["cli", "productivity", "design", "design-systems", "automation", "ui", "frontend", "reverse-engineering", "web-scraping", "developer-tools", "component-library", "design-tokens", "figma", "design-system", "web-automation", "playwright"],
     "avatar": "https://avatars.githubusercontent.com/u/247836031?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/58db186ee3aad5e6ae2e2bfcb922ec237e89aa2153de783432e803dc8bb7f3cb/dembrandt/dembrandt"
+  }, {
+    "repo": "garrytan/gstack",
+    "desc": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/19957?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/17816e946048dc129e583443e52f06ad97825ed65aae9a08829dfdfe3d78c043/garrytan/gstack"
+  }, {
+    "repo": "Openpanel-dev/openpanel",
+    "desc": "OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.",
+    "officialSite": "https://openpanel.dev",
+    "topics": ["open-source", "alternative", "privacy", "analytics", "webanalytics", "productanalytics"],
+    "avatar": "https://avatars.githubusercontent.com/u/161692650?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/317ce24fea01917293f54391aa5bede61ad3f7c22c9d093227f76060344497f6/Openpanel-dev/openpanel"
+  }, {
+    "repo": "bergside/typeui",
+    "desc": "Design system skills for agentic tools.",
+    "officialSite": "https://typeui.sh",
+    "topics": ["cli", "design", "ui", "terminal", "ai", "skills", "design-tools", "design-system", "ai-tools", "agent-skills"],
+    "avatar": "https://avatars.githubusercontent.com/u/109292896?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1171412548/4c40b91e-ad14-4b4e-ad1e-8185cd75c0da"
+  }, {
+    "repo": "understudy-ai/understudy",
+    "desc": "An understudy watches. Then performs.",
+    "officialSite": "https://understudy-ai.github.io/understudy/",
+    "topics": ["ai", "personal", "assistant", "agents", "own-your-data", "gui-agents"],
+    "avatar": "https://avatars.githubusercontent.com/u/266618793?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/6a636319368ba02e4df39de0a20cc3923652ada4b7371ee88884edb4f312b032/understudy-ai/understudy"
+  }, {
+    "repo": "Kuneosu/make-slide",
+    "desc": "Universal AI skill for generating standalone HTML slide decks",
+    "officialSite": "https://make-slide.vercel.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/66168725?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/a6a1d0705ea7152e072af8ddc0e42f03ee3505341274738733f1c8a9a3906546/Kuneosu/make-slide"
+  }, {
+    "repo": "chrisryugj/korean-law-mcp",
+    "desc": "64 tools for Korean law — statutes, precedents, ordinances, interpretations | MCP Server · CLI · npm",
+    "officialSite": "https://www.npmjs.com/package/korean-law-mcp",
+    "topics": ["api", "cli", "law", "legal", "typescript", "mcp", "korea", "claude", "precedent", "legal-tech", "model-context-protocol", "korean-law"],
+    "avatar": "https://avatars.githubusercontent.com/u/212630997?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/fa563650f7d7362aa4bc5bdc885b3ce45774bdeae07f7abc43b98c9bae2e1b83/chrisryugj/korean-law-mcp"
+  }, {
+    "repo": "chenglou/pretext",
+    "desc": "chenglou/pretext ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1909539?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/aef9a85427ff56ee0c7efabbc8ffec36d190bc7d4acf29c756d341438e596d1c/chenglou/pretext"
+  }, {
+    "repo": "thesysdev/openui",
+    "desc": "The Open Standard for Generative UI.",
+    "officialSite": "https://www.openui.com",
+    "topics": ["javascript", "agent", "ai", "help-wanted", "looking-for-contributors", "agents", "llm", "generative-ui"],
+    "avatar": "https://avatars.githubusercontent.com/u/155424887?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/897268988/21cdb909-ce01-468d-85bd-bfc455e47ebc"
+  }, {
+    "repo": "bulwarkmail/webmail",
+    "desc": "Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source. - ...",
+    "officialSite": "https://bulwarkmail.org",
+    "topics": ["mail", "typescript", "calendar", "email", "contacts", "nextjs", "self-hosted", "webmail", "jmap", "email-client"],
+    "avatar": "https://avatars.githubusercontent.com/u/266882946?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/83c17ac13cb30c6db240f6c045453a0f38c0c716e3bd7f1a88fb38a8909ca827/bulwarkmail/webmail"
   }
 ]

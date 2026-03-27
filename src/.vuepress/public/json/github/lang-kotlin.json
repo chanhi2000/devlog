@@ -649,5 +649,12 @@
     "topics": ["kotlin", "performance", "kotlin-library", "data-structures"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/7a43875cdb99a729578b823cfdad6bdffce879c7c3d7fb5894d83619f45d7237/daniel-rusu/pods4k"
+  }, {
+    "repo": "danpung2/StreamSheet",
+    "desc": "Memory-efficient Streaming Excel Export SDK for Large-Scale Data",
+    "officialSite": "https://central.sonatype.com/search?q=streamsheet",
+    "topics": ["streaming", "excel", "poi", "memory-efficient", "apache-poi", "excel-export", "large-scale-data"],
+    "avatar": "https://avatars.githubusercontent.com/u/75434746?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/5b270c8ff1c8fda8e99debeec17c1a6fed2cbebf3ae200175a1d4bd9a51bde2a/danpung2/StreamSheet"
   }
 ]

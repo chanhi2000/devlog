@@ -2841,5 +2841,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/570750090/6e70cd38-3c44-4bdb-a204-0ef41d9cb9da"
+  }, {
+    "repo": "JungHoonGhae/tossinvest-cli",
+    "desc": "Unofficial CLI for Toss Securities web workflows.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/42439321?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/f2882cf13bc84465c237dd87aa7438b2fc3da02aefd8e9d2311dde64a616aa7a/JungHoonGhae/tossinvest-cli"
+  }, {
+    "repo": "amir20/dozzle",
+    "desc": "Realtime log viewer for containers.  Supports Docker, Swarm and K8s. ",
+    "officialSite": "https://dozzle.dev/",
+    "topics": ["docker", "golang", "vuejs", "real-time", "log", "docker-container", "logging", "logging-server", "swarm", "k8s", "sever-events"],
+    "avatar": "https://avatars.githubusercontent.com/u/260667?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/155297903/cbdcd180-2571-11ea-9a3f-073207ffc1c5"
+  }, {
+    "repo": "keploy/keploy",
+    "desc": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+    "officialSite": "https://keploy.io",
+    "topics": ["testing", "mock", "test-automation", "testing-tools", "code-quality", "api-testing", "test-generation", "testing-library", "testing-tool", "test-automation-framework", "mock-framework", "mock-data-generator", "agentic-ai", "ai-testing-tool"],
+    "avatar": "https://avatars.githubusercontent.com/u/92252339?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/449649393/3df356de-a8d9-43a5-925b-a75a795af9e3"
   }
 ]

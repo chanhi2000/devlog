@@ -83,5 +83,12 @@
     "topics": ["graph", "graph-algorithms", "hypergraph", "zig", "zig-library", "ziglang"],
     "avatar": "https://avatars.githubusercontent.com/u/465519?v=4",
     "banner": ""
+  }, {
+    "repo": "colus001/pls",
+    "desc": "CLI tool that turns natural language into shell commands via LLM",
+    "officialSite": "",
+    "topics": ["cli", "natural-language-processing", "terminal", "llm"],
+    "avatar": "https://avatars.githubusercontent.com/u/2831540?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/e838cc774d48d0e97a2c21967fbf9242d1c69de0cbf360b06748ae2fd7bb995b/colus001/pls"
   }
 ]

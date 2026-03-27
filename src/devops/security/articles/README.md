@@ -14,6 +14,8 @@ tag:
   - yozm.wishket.com
   - meetup.nhncloud.com
   - d2.naver.com
+  - devops
+  - sec
   - security
   - mobile
   - xz

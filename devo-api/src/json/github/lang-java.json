@@ -1096,5 +1096,12 @@
     "topics": ["htmx", "spring-boot", "thymeleaf"],
     "avatar": "https://avatars.githubusercontent.com/u/1115823?v=4",
     "banner": ""
+  }, {
+    "repo": "hectorvent/floci",
+    "desc": "Light, fluffy, and always free - AWS Local Emulator ",
+    "officialSite": "http://hectorvent.dev/floci/",
+    "topics": ["aws", "localstack", "aws-emulation"],
+    "avatar": "https://avatars.githubusercontent.com/u/2405682?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1160497244/575740e3-dd0e-487b-993f-315bb7850275"
   }
 ]

@@ -10,8 +10,9 @@ tag:
   - python
   - py
   - apache
-  - apacheairflow
   - airflow
+  - apacheairflow
+  - apache-airflow
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -2231,5 +2231,12 @@
     "topics": ["high-performance", "logging", "logging-library", "low-latency", "printf"],
     "avatar": "https://avatars.githubusercontent.com/u/11201987?v=4",
     "banner": ""
+  }, {
+    "repo": "redpanda-data/redpanda",
+    "desc": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+    "officialSite": "https://redpanda.com",
+    "topics": ["go", "kubernetes", "streaming", "microservices", "kafka", "cpp", "seastar", "storage-engine", "containers", "realtime", "stream-processing", "event-driven", "redpanda"],
+    "avatar": "https://avatars.githubusercontent.com/u/49406389?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/309512982/5f774c00-279b-11eb-815d-c8ee10fbb94f"
   }
 ]

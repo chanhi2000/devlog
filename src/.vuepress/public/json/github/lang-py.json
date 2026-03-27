@@ -8440,5 +8440,19 @@
     "topics": ["real-estate", "mcp", "openapi", "korea", "claude"],
     "avatar": "https://avatars.githubusercontent.com/u/20028607?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/be9c46cadea2acdebc6c89cdf239c4f1d64a120ca2fadadf9f23f24bfd2bbcf3/tae0y/real-estate-mcp"
+  }, {
+    "repo": "shaircast/vvrite",
+    "desc": "On-device AI transcription macOS app that transcribes your voice and pastes the text",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/4280546?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/05aebdf243cca9fba16e270e83e3a3cde5e082ee47597afa0dbf1b2262555607/shaircast/vvrite"
+  } ,{
+    "repo": "yeseoLee/Macro-Pulse",
+    "desc": "데일리 매크로 리포트 텔레그램 봇 (히트맵, 지수, 환율, 원자재, 채권 등).",
+    "officialSite": "https://yeseolee.github.io/Macro-Pulse/",
+    "topics": ["cron-jobs", "finances", "telegrambot", "github-actions"],
+    "avatar": "https://avatars.githubusercontent.com/u/49704047?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/d07f136d34006c6a5ecd5a18fb69a66f7b00540f1d621321c91ab61586359f26/yeseoLee/Macro-Pulse"
   }
 ]

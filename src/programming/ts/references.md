@@ -88,6 +88,14 @@ head:
 
 ---
 
+## <VPIcon icon="fa-brands fa-cloudflare"/>The Cloudflare Blog
+
+- [Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/)
+
+<!-- END: blog.cloudflare.com -->
+
+---
+
 ## NHN Cloud Meetup - NHN 기술 블로그
 
 - [100,000개의 아이템도 거뜬한 셀렉트박스 만들기 (1/2)](https://meetup.nhncloud.com/posts/160) <!-- TODO: 작성 (https://chanhi2000.github.io/bookshelf/meetup.nhncloud.com/160.md) -->
@@ -677,6 +685,8 @@ head:
 - [Make Typescript Typescriptly](https://blog.0chan.dev/2024-10-21-Make-Typescript-Typescriptly/)
 
 <!-- END: blog.0chan.dev -->
+
+
 
 ---
 
