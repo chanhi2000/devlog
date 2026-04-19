@@ -5164,5 +5164,33 @@
     "topics": ["mail", "typescript", "calendar", "email", "contacts", "nextjs", "self-hosted", "webmail", "jmap", "email-client"],
     "avatar": "https://avatars.githubusercontent.com/u/266882946?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/83c17ac13cb30c6db240f6c045453a0f38c0c716e3bd7f1a88fb38a8909ca827/bulwarkmail/webmail"
+  }, {
+    "repo": "greatsk55/perpetual-engine",
+    "desc": "AI Agent Startup Framework — Just invest tokens, AI builds the business.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/8309106?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/b9fa651125f210a18d95c92e10f2050e80b629ceb5ac2a4b86e0ca047e5be91b/greatsk55/perpetual-engine"
+  }, {
+    "repo": "kessler/gemma-gem",
+    "desc": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
+    "officialSite": "",
+    "topics": ["chrome-extension", "ai", "llm", "gemma4", "gemma4-2b", "gemma4-agent-skills"],
+    "avatar": "https://avatars.githubusercontent.com/u/147367?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/d70d14a8898c89758b150af69afd06f85f95cafe6255e872f6a4171491fcd8df/kessler/gemma-gem"
+  }, {
+    "repo": "on1659/memradar",
+    "desc": "당신의 AI 대화가 들려주는 이야기 — Fun retrospective viewer for AI coding assistant conversations",
+    "officialSite": "https://memradar.vercel.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/16188662?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/1f5df63d7fe8b2483a359c86e22d0dcfbf9ae55a001900af600c3867021a42ca/on1659/memradar"
+  }, {
+    "repo": "yourselfhosted/slash",
+    "desc": "An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management. - yourselfhos...",
+    "officialSite": "",
+    "topics": ["react", "go", "sqlite", "bookmarks", "self-hosted", "slash", "link-sharing"],
+    "avatar": "https://avatars.githubusercontent.com/u/140182318?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/0d2e6ff7ebd9428b0e135681bec97f0fa3201ad02f50a20ee7160607b6753dbc/yourselfhosted/slash"
   }
 ]

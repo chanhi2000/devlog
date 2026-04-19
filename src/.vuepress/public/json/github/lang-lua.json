@@ -258,5 +258,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
     "banner": ""
-  }
+  }, {
+    "repo": "koreader/koreader",
+    "desc": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "officialSite": "http://koreader.rocks/",
+    "topics": ["pdf", "ebook", "luajit", "epub", "reader", "kindle", "djvu", "ebook-reader", "reflow", "opds", "kobo", "fb2", "ubuntu-touch", "pocketbook", "eink", "ereader", "pdf-reflow", "cbz", "djvu-reflow", "remarkable-tablet"],
+    "avatar": "https://avatars.githubusercontent.com/u/3957564?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/38bb85a61dbff582b7cdaee551c1953508b8635e18341d3d137e1b33e3c9f1c3/koreader/koreader"
+  } 
 ]

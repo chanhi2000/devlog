@@ -223,5 +223,12 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/3ddbd3b9a3ac45a8d7ad0b90c4fd1299f58247ea5bd36546757206aa717a327e/captn3m0/jekyll-sqlite"
+  }, {
+    "repo": "fallow-rs/fallow",
+    "desc": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path ...",
+    "officialSite": "https://docs.fallow.tools",
+    "topics": ["javascript", "rust", "cli", "typescript", "linter", "static-analysis", "runtime-intelligence", "developer-tools", "code-quality", "code-duplication", "knip", "jscpd", "dead-code", "unused-code", "unused-exports", "unused-dependencies", "oxc", "codebase-intelligence", "duplicate-code", "copy-paste-detection"],
+    "avatar": "https://avatars.githubusercontent.com/u/269229952?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/7b800ecb7707068d3ddd9b985cde203e54d12d6e4a1b18cb9ce038fc6e305feb/fallow-rs/fallow"
   }
 ]

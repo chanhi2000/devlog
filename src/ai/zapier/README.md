@@ -1,37 +1,37 @@
 ---
 lang: ko-KR
-title: OpenClaw
-description: OpenClaw
-icon: iconfont icon-openclaw
-category: 
+title: Zapier
+description: Zapier
+icon: iconfont icon-zapier
+category:
   - AI
   - LLM
-  - OpenClaw
+  - Zapier
 tag:
   - ai
   - artificial-intelligence
   - llm
   - large-language-models
-  - openclaw
+  - zapier
 head:
   - - meta:
     - property: og:title
-      content: OpenClaw
+      content: Zapier
     - property: og:description
-      content: OpenClaw
+      content: Zapier
     - property: og:url
-      content: https://chanhi2000.github.io/ai/openclaw/
+      content: https://chanhi2000.github.io/ai/zapier/
 ---
 
 # {{ $frontmatter.description }} 관련
 
-<ShieldsGroup logos="openclaw"/>
+<ShieldsGroup logos="zapier"/>
 
 ---
 
 ## Table of Contents
 
-<ToCLocal basePath="/ai/openclaw/" />
+<ToCLocal basePath="/ai/zapier/" />
 
 ---
 

@@ -131,6 +131,15 @@ POWERCFG -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 ---
 
+## `PERFMON`
+
+```batch
+:: 성능보고서 출력
+PERFMON /report
+```
+
+---
+
 ## Kill Process
 
 ```batch

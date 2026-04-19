@@ -2427,5 +2427,12 @@
     "topics": ["gpu", "computer-graphics", "taichi", "gpu-programming", "differentiable-programming", "sparse-computation"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/86beba6dcbab7ee7c6f91e174c369edcfc1379a6318092b4d7c1df904dac1af4/taichi-dev/taichi"
+  }, {
+    "repo": "google-ai-edge/LiteRT-LM",
+    "desc": "google-ai-edge/LiteRT-LM",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/150697620?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/aede66feeb02269a3ab070019a76f5c0340f428d58ebf39efc503f89a28a6228/google-ai-edge/LiteRT-LM"
   }
 ]

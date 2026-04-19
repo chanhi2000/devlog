@@ -4,16 +4,17 @@ title: Youtube
 description: AWS > Youtube
 icon: fa-brands fa-youtube
 category:
-  - AWS
-  - Amazon
   - DevOps
+  - Amazon
+  - AWS
   - Youtube
 tag: 
   - "youtube"
   - "tutorial"
-  - "aws"
-  - "amazon"
-  - "amazon-web-service"
+  - devops
+  - amazon
+  - aws
+  - amazon-web-services
   - "@CloudLearning"
   - "@GoCloudArchitects"
   - "@VercelHQ"

@@ -208,6 +208,7 @@ Install the following(s)
 # 1635954549: ScanTexter - AI translation 
 # 6443419421: DayMoney - Budget, Diary
 # 6737156289: Testpiler - Convert XCTests to Testing.fwk
+# 6759246284: choclift: Worflow Sweetener
 mas install 497799835 \
 1604176982 \
 885120167 \
@@ -217,6 +218,7 @@ mas install 497799835 \
 1429033973 \
 1635954549 \
 6737156289 \
+6759246284
 # 6443419421
 ```
 
@@ -620,6 +622,17 @@ killall dock;
 defaults write com.apple.screencapture location ~/../Shared/Screenshots;
 killall SystemUIServer;
 ```
+
+---
+
+## 기타 툴
+
+<SiteInfo
+  name="HOP is Open HWP"
+  desc="HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱"
+  url="https://golbin.github.io/hop/"
+  logo="https://golbin.github.io/assets/logo/favicon.ico"
+  preview="https://golbin.github.io/assets/screenshots/hop-editor.webp"/>
 
 ---
 

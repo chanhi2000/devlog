@@ -148,6 +148,7 @@
   { "logo": "openai", "name": "OpenAI", "colorHex": "412991" },
   { "logo": "openjdk", "name": "Java", "colorHex": "007396" },
   { "logo": "oracle", "name": "Oracle%20SQL", "colorHex": "F80000" },
+  { "logo": "packer", "name": "Packer", "colorHex": "02A8EF" },
   { "logo": "parrotsecurity", "name": "Parrot%20Security", "colorHex": "15E0ED" },
   { "logo": "perplexity", "name": "Perplexity", "colorHex": "1FB8CD" },
   { "logo": "playwright", "name": "Playwright", "colorHex": "2EAD33" },

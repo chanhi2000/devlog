@@ -2862,5 +2862,12 @@
     "topics": ["testing", "mock", "test-automation", "testing-tools", "code-quality", "api-testing", "test-generation", "testing-library", "testing-tool", "test-automation-framework", "mock-framework", "mock-data-generator", "agentic-ai", "ai-testing-tool"],
     "avatar": "https://avatars.githubusercontent.com/u/92252339?s=48&v=4",
     "banner": "https://repository-images.githubusercontent.com/449649393/3df356de-a8d9-43a5-925b-a75a795af9e3"
+  }, {
+    "repo": "electrikmilk/cherri",
+    "desc": "Siri Shortcuts Programming Language 🍒.",
+    "officialSite": "https://cherrilang.org",
+    "topics": ["go", "macos", "programming-language", "golang", "ios", "apple", "compiler", "domain-specific-language", "siri-shortcuts", "ios-shortcuts", "apple-shortcuts", "cherri-lang", "cherri"],
+    "avatar": "https://avatars.githubusercontent.com/u/4368524?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/554016681/945834d8-b32a-4e77-a675-307823b8a508"
   }
 ]

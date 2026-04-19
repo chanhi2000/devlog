@@ -477,6 +477,7 @@ tag:
 
 - [`life.interest` / 실패하지 말지어다](https://maily.so/life.interest/posts/f27fbe97)
 - [`life.interest` / 실패하지 말지어다: 실패를 피하라고 말하는 몇 안되는 글](https://maily.so/life.interest/posts/f27fbe97)
+- [`makersnote` / [10호] AI와 함께 일하는 환경에서 내 옆의 동료에게 말 거는 법](https://maily.so/makersnote/posts/e9o0yk45r8w)
 
 <!-- END: maily.so -->
 

@@ -2753,5 +2753,12 @@
     "topics": ["react-native", "rust-lang", "bindgen"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/42b66183e4d3465c401aa910dd9e468e16a5dc599b8c7dc39e6866ff4fd62766/jhugman/uniffi-bindgen-react-native"
+  }, {
+    "repo": "7ritn/VaulTLS",
+    "desc": "Selfhostable web app to make managing mTLS certificates a breeze",
+    "officialSite": "",
+    "topics": ["rust", "vue", "oidc", "mtls"],
+    "avatar": "https://avatars.githubusercontent.com/u/43871711?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/920477562/7edc27b7-5d6a-4636-a4e4-793848559265"
   }
 ]

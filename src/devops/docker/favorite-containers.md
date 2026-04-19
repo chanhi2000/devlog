@@ -39,7 +39,12 @@ head:
 
 ## @DockerHub
 
-[🐋Docker Hub](https://hub.docker.com)
+<SiteInfo
+  name="Docker Hub Container Image Library | App Containerization"
+  desc="Welcome to the world's largest container registry built for developers and open source contributors to find, use, and share their container images. Build, push and pull."
+  url="https://hub.docker.com/"
+  logo="https://hub.docker.com/favicon.ico"
+  preview="https://dockerstatic.com/hub-ui/kzxxphbs.png"/>
 
 | image | description |
 | :--- | :--- |
@@ -67,7 +72,8 @@ head:
 | [🌐](https://hub.docker.com/r/b3log/siyuan) `b3log/siyuan` | 思源笔记 Docker 镜像。SiYuan Docker Image. |
 | [🌐](https://hub.docker.com/r/linuxserver/bookstack) `linuxserver/bookstack` | - |
 | [🌐](https://hub.docker.com/r/linuxserver/mariadb) `linuxserver/mariadb` | A Mariadb container, brought to you by LinuxServer.io. |
-| [🌐](https://hub.docker.com/r/surnet/alpine-wkhtmltopdf)  `surnet/alpine-wkhtmltopdf` |
+| [🌐](https://hub.docker.com/r/surnet/alpine-wkhtmltopdf) `surnet/alpine-wkhtmltopdf` |
+| [🌐](https://hub.docker.com/r/yourselfhosted/slash) `yourselfhosted/slash` | An open source, self-hosted bookmarks and link sharing platform. |
 
 ---
 

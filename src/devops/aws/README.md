@@ -9,8 +9,17 @@ category:
   - AWS
 tag:
   - devops
+  - amazon
   - aws
   - amazon-web-services
+head:
+  - - meta:
+    - property: og:title
+      content: AWS
+    - property: og:description
+      content: AWS
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/aws/
 ---
 
 # {{ $frontmatter.description }} 관련

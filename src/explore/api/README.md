@@ -574,6 +574,30 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
 }
 ```
 
+<SiteInfo
+  name="ToolFK Online Tools - all in one tool "
+  desc="Online Tools offers hundreds and hundreds of utilities for editing images, animations,text,text-to-speech and more online tools .Try for free!"
+  url="https://toolfk.com/"
+  logo="https://toolfk.com/tools/images/icon-16.png"
+  preview="https://toolfk.com/tools/images/logo_4.png"/>
+
+```component VPCard
+{
+  "title": "kirinonakar의 작업실",
+  "desc": "kirinonakar의 작업실",
+  "link": "https://kirinonakar.github.io/",
+  "logo": "https://kirinonakar.github.io/git_profile.ico",
+  "background": "rgba(88.166,255,0.2)"
+}
+```
+
+<SiteInfo
+  name="Laws of Software Engineering"
+  desc="A collection of principles and patterns that shape software systems, teams, and decisions."
+  url="https://lawsofsoftwareengineering.com/"
+  logo="https://lawsofsoftwareengineering.com/favicon.ico"
+  preview="https://lawsofsoftwareengineering.com/og-image.png"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image
@@ -2276,6 +2300,16 @@ https://mdis.kostat.go.kr/index.do
 }
 ```
 
+```component VPCard
+{
+  "title": "AI Readable Gazette KR",
+  "desc": "대한민국 관보 128,403건 OCR 보정 파생 코퍼스.",
+  "link": "https://hosungseo.github.io/ai-readable-gazette-kr//",
+  "logo": "https://hosungseo.github.io",
+  "background": "rgba(20,21,26,0.2)"
+}
+```
+
 <!-- END:  Govt.  -->
 
 @tab Misc.
@@ -2563,6 +2597,16 @@ https://mdis.kostat.go.kr/index.do
   url="https://trump-saith.com/"
   logo="https://trump-saith.com/favicon.ico?favicon.0b3bf435.ico"
   preview="https://trump-saith.com/opengraph-image?242d2f0f43172581"/>
+
+```component VPCard
+{
+  "title": "KOReader",
+  "desc": "KOReader is a document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux.",
+  "link": "https://koreader.rocks/",
+  "logo": "https://koreader.rocks/koreader.png",
+  "background": "rgba(171,255,249,0.2)"
+}
+```
 
 <!-- END: Misc -->
 

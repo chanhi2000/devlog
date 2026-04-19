@@ -51,5 +51,12 @@
     "topics": ["react", "typescript", "scheduling", "google-app-script", "vite", "shadcn-ui"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/00ce5d7b85da79aaf9628fb12c0a892224de8ba4c542cc96f09db8438fe4abbd/rbbydotdev/someday"
+  }, {
+    "repo": "WatermelonCorp/watermellon-registry",
+    "desc": "WatermelonCorp/watermellon-registry ",
+    "officialSite": "https://ui.watermelon.sh",
+    "topics": ["ui-design", "ui", "dashboard", "shadcn-ui", "shadcn"],
+    "avatar": "https://avatars.githubusercontent.com/u/250435562?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/0db488194493b4d28660931c4b5153ed3d54b8e708f86424db3181561f98b541/WatermelonCorp/watermellon-registry"
   }
 ]

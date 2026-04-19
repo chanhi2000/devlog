@@ -8454,5 +8454,26 @@
     "topics": ["cron-jobs", "finances", "telegrambot", "github-actions"],
     "avatar": "https://avatars.githubusercontent.com/u/49704047?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/d07f136d34006c6a5ecd5a18fb69a66f7b00540f1d621321c91ab61586359f26/yeseoLee/Macro-Pulse"
+  }, {
+    "repo": "kyegomez/OpenMythos",
+    "desc": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "officialSite": "https://discord.gg/EamjgSaEQf",
+    "topics": ["ai", "ml", "attention", "claude", "sonnet", "gpt-5", "claude-ai", "looped-transformers", "claude-code", "gpt-7"],
+    "avatar": "https://avatars.githubusercontent.com/u/98760976?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/31a0c9a19017139b78449d7e2952e9f6378eab2637c2e5548230e58a8271da8d/kyegomez/OpenMythos"
+  }, {
+    "repo": "hosungseo/ai-readable-gazette-kr",
+    "desc": "대한민국 관보 12.8만건을 마크다운으로 제공.",
+    "officialSite": "https://hosungseo.github.io/ai-readable-gazette-kr/",
+    "topics": ["open-government", "civic-tech", "public-data", "gazette", "ocr-correction", "ai-readable", "korean-government", "public-transparency", "korean-corpus", "markdown-corpus"],
+    "avatar": "https://avatars.githubusercontent.com/u/264366383?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/042d8f09b4828cff1a8b0d81049d7bd9e7539994c549f9471419a05a91840108/hosungseo/ai-readable-gazette-kr"
+  }, {
+    "repo": "paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "officialSite": "http://docs.paperless-ngx.com/",
+    "topics": ["pdf", "machine-learning", "django", "angular", "ocr", "archiving", "dms", "document-management", "optical-character-recognition", "hacktoberfest", "document-management-system"],
+    "avatar": "https://avatars.githubusercontent.com/u/99562962?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/84686f2b2e598f869ea666043fcee6782b2fc59da2e145b9f01413650e354d53/paperless-ngx/paperless-ngx"
   }
 ]

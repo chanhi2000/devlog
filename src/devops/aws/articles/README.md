@@ -17,6 +17,7 @@ tag:
   - fe-developers.kakaoent.com
   - tech.inflab.com
   - devops
+  - amazon
   - aws
   - amazon-web-services
   - aws-cdk

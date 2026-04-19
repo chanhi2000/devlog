@@ -4,14 +4,15 @@ title: References
 description: AWS > References
 icon: fas fa-book-atlas
 category:
-  - AWS
-  - Amazon
   - DevOps
+  - Amazon
+  - AWS
   - References
 tag: 
-  - aws
+  - devops
   - amazon
-  - amazon-web-service
+  - aws
+  - amazon-web-services
 head:
   - - meta:
     - property: og:title

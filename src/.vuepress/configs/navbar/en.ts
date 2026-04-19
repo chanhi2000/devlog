@@ -453,6 +453,10 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-gcp',
         link: '/devops/gcp/README.md',
       }, {
+        text: 'DigitalOcean',
+        icon: 'fa-brands fa-digital-ocean',
+        link: '/devops/digialocean/README.md',
+      }, {
         text: 'Linode',
         icon: 'fa-brands fa-linode',
         link: '/devops/linode/README.md',
@@ -484,6 +488,10 @@ export const navbarEn = navbar([
         text: 'Ansible',
         icon: 'iconfont icon-ansible',
         link: '/devops/ansible/README.md'
+      }, {
+        text: 'Packer',
+        icon: 'iconfont icon-packer',
+        link: '/devops/packer/README.md'
       }, {
         text: 'Security',
         children: [
@@ -761,6 +769,7 @@ export const navbarEn = navbar([
           '/ai/langchain/README.md',
           '/ai/perplexity/README.md',
           '/ai/openclaw/README.md',
+          '/ai/zapier/README.md',
           '/ai/v0/README.md',
         ]
       }, 

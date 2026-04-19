@@ -838,6 +838,13 @@ fastfetch
   logo="https://cyberscarecrow.com/favicon.ico"
   preview="https://cyberscarecrow.com/_next/image?url=%2Fscarecrow_128.ico&w=96&q=75"/>
 
+<SiteInfo
+  name="HOP is Open HWP"
+  desc="HWP/HWPX 문서를 보고 편집할 수 있는 오픈소스 데스크톱 앱"
+  url="https://golbin.github.io/hop/"
+  logo="https://golbin.github.io/assets/logo/favicon.ico"
+  preview="https://golbin.github.io/assets/screenshots/hop-editor.webp"/>
+
 ---
 
 <TagLinks />

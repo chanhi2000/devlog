@@ -6,5 +6,12 @@
     "topics": ["youtube", "video", "watch", "youtube-video", "libre", "agplv3", "hacktoberfest", "invidious"],
     "avatar": "",
     "banner": ""
+  }, {
+    "repo": "sdogruyol/cryload",
+    "desc": "Cross-platform HTTP load testing CLI: a modern ab/wrk alternative with machine-readable reports for CI/CD",
+    "officialSite": "",
+    "topics": ["cli", "http", "benchmark", "crystal", "command-line", "load-testing"],
+    "avatar": "https://avatars.githubusercontent.com/u/990485?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/e1bd12cb2ba15a14091c96fafd12c70c675fc98abc81e7bfcf4706b08a25ae01/sdogruyol/cryload"
   }
 ]

@@ -3347,6 +3347,24 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'DigitalOcean',
+      collapsible: true,
+      icon: 'fa-brands fa-digital-ocean',
+      children: [
+        '/devops/digitalocean/README.md',
+        '/devops/digitalocean/references.md',
+        '/devops/digitalocean/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/digitalocean/articles/README.md',
+            asb.learnk8s("digitalocean"),
+          ]
+        }
+      ]
+    }, {
       text: 'Linode',
       collapsible: true,
       icon: 'fa-brands fa-linode',
@@ -3464,6 +3482,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/ansible/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Packer',
+      collapsible: true,
+      icon: 'iconfont icon-packer',
+      children: [
+        '/devops/packer/README.md',
+        '/devops/packer/references.md',
+        '/devops/packer/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/packer/articles/README.md',
           ]
         }
       ]
@@ -4316,9 +4351,26 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Zapier',
+      collapsible: true,
+      icon: 'iconfont icon-zapier',
+      children: [
+        '/ai/zapier/README.md',
+        '/ai/zapier/references.md',
+        '/ai/zapier/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/zapier/articles/README.md',
+          ]
+        }
+      ]
+    }, {
       text: 'v0',
       collapsible: true,
-      icon: 'iconfont icon-langchain',
+      icon: 'iconfont icon-v0',
       children: [
         '/ai/v0/README.md',
         '/ai/v0/references.md',

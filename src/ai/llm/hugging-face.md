@@ -34,6 +34,7 @@ head:
 ## <VPIcon icon="iconfont icon-huggingface"/>Hugging Face
 
 - [`stepfun-ai/GOT-OCR2_0`: General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
+- [`Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2`: SuperGemma4-26B-Uncensored-Fast v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2)
 
 ### Collections
 

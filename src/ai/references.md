@@ -458,4 +458,10 @@ head:
 
 ---
 
+## Evans Library
+
+- [AI 코딩 시대, 더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
+
+<!-- END: evan-moon.github.io -->
+
 <TagLinks />

@@ -308,6 +308,9 @@ tag:
 ## Novemberde's Blog
 
 - [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/post/2021/04/05/Golang-HACKING/)
+- [Golang Project Guide from A to Z: From Feature Development to Enterprise Application Design](https://novemberde.github.io/post/2024/10/15/2024-gophercon-golang-project-guide-a-z/)
+
+<!-- END: novemberde.github.io -->
 
 ---
 
@@ -485,11 +488,11 @@ tag:
 
 ---
 
-## Novemberde's Blog
+## DB Pro - Modern Database Management
 
-- [Golang Project Guide from A to Z: From Feature Development to Enterprise Application Design](https://novemberde.github.io/post/2024/10/15/2024-gophercon-golang-project-guide-a-z/)
+- [Do You Even Need a Database?](https://www.dbpro.app/blog/do-you-even-need-a-database)
 
-<!-- END: novemberde.github.io -->
+<!-- END: dbpro.app -->
 
 ---
 

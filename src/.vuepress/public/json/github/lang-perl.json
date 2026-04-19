@@ -1,8 +1,17 @@
 [
   {
     "repo": "x0rz/EQGRP",
-    "desc": "Decrypted content of eqgrp-auction-file.tar.xz",
+    "desc": "Decrypted content of eqgrp-auction-file.tar.xz.",
     "officialSite": "",
-    "topics": ["hacking", "exploits", "tao", "nsa", "shadowbrokers", "equationgroup"]
+    "topics": ["hacking", "exploits", "tao", "nsa", "shadowbrokers", "equationgroup"],
+    "avatar": "https://avatars.githubusercontent.com/u/7819248?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/1056ce785c8d53d3094ec317e96981f3e7f07825b2071c64b344db1ef11041b1/x0rz/EQGRP"
+  }, {
+    "repo": "roshanburnwal/Th3inspector",
+    "desc": "All in one tool for Information Gathering.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/40301674?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/469deac718d05a89db12ca182de8ad18b484b50b0853cc5f8ac93ee2443a20e9/roshanburnwal/Th3inspector"
   }
 ]

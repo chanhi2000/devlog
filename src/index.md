@@ -1,7 +1,7 @@
 ---
 home: true
 portfolio: true
-title: Home | chanhi2000
+title: ⌘chanhi2000
 icon: home
 name: Chan Hee Lee
 avatar: https://avatars.githubusercontent.com/u/6296241?v=4

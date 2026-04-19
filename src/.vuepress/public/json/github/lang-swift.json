@@ -909,5 +909,12 @@
     "topics": ["macos", "clipboard", "jpegoptim", "gifsicle", "pngquant"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/bd27d4a35a499ba672bcad8ff4d49643617ab4e37b529e53cdc28297eba753d6/FuzzyIdeas/Clop"
+  }, {
+    "repo": "steipete/RepoBar",
+    "desc": "Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.",
+    "officialSite": "https://repobar.app",
+    "topics": ["github", "macos", "statistics"],
+    "avatar": "https://avatars.githubusercontent.com/u/58493?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/b47a313f3965d6fb27ad0816fc6360a856c94978a8361ef250bb17e9324c32ae/steipete/RepoBar"
   }
 ]
