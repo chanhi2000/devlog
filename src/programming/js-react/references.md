@@ -1327,4 +1327,18 @@ https://o-yeon.tistory.com/227
 
 ---
 
+## Libraries
+
+```component VPCard
+{
+  "title": "Cascader-ShadCN",
+  "desc": "A cascading dropdown menu component for selecting hierarchical data like locations, categories, or organizational structures.",
+  "link": "https://cascader-shadcn.surge.sh/",
+  "logo": "https://cascader-shadcn.surge.sh/favicon.svg",
+  "background": "rgba(0,0,0,0.2)"
+}
+```
+
+---
+
 <TagLinks />

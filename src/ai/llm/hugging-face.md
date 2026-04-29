@@ -35,10 +35,16 @@ head:
 
 - [`stepfun-ai/GOT-OCR2_0`: General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
 - [`Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2`: SuperGemma4-26B-Uncensored-Fast v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2)
+- [`XiaomiMiMo/MiMo-V2.5` ](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)
+- [`akamotaco/ppaso-tts-v1`: Ppaso-TTS — Korean lightweight TTS (RK3576 NPU friendly)](https://huggingface.co/akamotaco/ppaso-tts-v1)
 
 ### Collections
 
 - [Llama 3.2 3B & 1B GGUF Quants](https://huggingface.co/collections/hugging-quants/llama-32-3b-and-1b-gguf-quants-66f43204a559009763c009a5)
+
+### Datasets
+
+- [`nvidia/Nemotron-Personas-Korea`](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea)
 
 <!-- END: huggingface.co/colletions -->
 

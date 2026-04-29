@@ -95,4 +95,12 @@ head:
 
 ---
 
+## ESCHER - the font – Geir's Everything
+
+- [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html?ref=dailydev)
+
+<!-- END: isene.org -->
+
+---
+
 <TagLinks />

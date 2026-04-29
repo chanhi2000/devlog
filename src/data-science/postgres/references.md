@@ -4,12 +4,15 @@ title: References
 description: PostgreSQL > References
 icon: fas fa-book-atlas
 category:
-  - PostgreSQL 
+  - Data Science
+  - PostgreSQL
   - References
 tag: 
-  - sql
+  - data-science
   - db
+  - sql
   - postgres
+  - postgresql
 head:
   - - meta:
     - property: og:title
@@ -441,6 +444,14 @@ head:
 - [PostgreSQL의 차별화된 기능과 MySQL과의 차이](https://elancer.co.kr/blog/detail/737)
 
 <!-- END: elancer.co.kr -->
+
+---
+
+## The Coder Cafe | Teiva Harsanyi
+
+- [How Linux 7.0 Broke PostgreSQL](https://read.thecoder.cafe/p/linux-broke-postgresql)
+
+<!-- END: read.thecoder.cafe -->
 
 ---
 

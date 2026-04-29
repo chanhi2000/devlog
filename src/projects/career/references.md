@@ -1138,6 +1138,9 @@ tag:
 ## A Smart Bear
 
 - [The roadmap to Product/Market Fit (PMF)… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
+- [How to hire people who are better than you](https://longform.asmartbear.com/hire-better-than-you/)
+
+<!-- END: longform.asmartbear.com  -->
 
 ---
 
@@ -1908,6 +1911,14 @@ https://m.blog.naver.com/&logId=
 - [원온원 6년의 기록: 시행착오와 배움들](https://zzsza.github.io/diary/2024/11/24/one-on-ones-lessons-learned/)
 
 <!-- END: zzsza.github.io -->
+
+---
+
+## The Pragmatic Engineer | Gergely Orosz | Substack
+
+- [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews)
+
+<!-- END: newsletter.pragmaticengineer.com -->
 
 ---
 

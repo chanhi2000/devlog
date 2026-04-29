@@ -4,6 +4,7 @@ title: Article(s)
 description: PostgreSQL > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - Data Science
   - PostgreSQL
   - Article(s)
 tag: 
@@ -11,8 +12,9 @@ tag:
   - freecodecamp.org
   - code-maze.com
   - event-driven.io
-  - sql
+  - data-science
   - db
+  - sql
   - postgres
   - postgresql
 head:

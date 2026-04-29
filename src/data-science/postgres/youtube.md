@@ -4,12 +4,16 @@ title: Youtube
 description: PostgreSQL > Youtube
 icon: fa-brands fa-youtube
 category:
-  - PostgreSQL 
+  - Data Science
+  - PostgreSQL
   - Youtube
 tag: 
   - sql
+  - data-science
   - db
+  - sql
   - postgres
+  - postgresql
 head:
   - - meta:
     - property: og:title

@@ -8475,5 +8475,33 @@
     "topics": ["pdf", "machine-learning", "django", "angular", "ocr", "archiving", "dms", "document-management", "optical-character-recognition", "hacktoberfest", "document-management-system"],
     "avatar": "https://avatars.githubusercontent.com/u/99562962?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/84686f2b2e598f869ea666043fcee6782b2fc59da2e145b9f01413650e354d53/paperless-ngx/paperless-ngx"
+  }, {
+    "repo": "violit-dev/violit",
+    "desc": "Pure Python Web Framework. Streamlit simplicity, no reruns.",
+    "officialSite": "https://violit.cloud",
+    "topics": ["python", "website", "data-science", "machine-learning", "gui", "framework", "reactive", "ui", "ai", "deep-learning", "frontend", "mvp", "data-visualization", "webapp", "developer-tools", "fullstack", "python-web-development", "fastapi", "data-application", "streamlit-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/255702851?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/8a0f6b9d16d432c6b79a3e9c0b8e7ed27bfd80f5fd7ecc2ad04b10ba539c9735/violit-dev/violit"
+  }, {
+    "repo": "NikolayS/pgque",
+    "desc": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1345402?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/214cf5ef5c40e1b423c55a9f46b7635071ff91e8b8d6ffce874820db16f18cc8/NikolayS/pgque"
+  }, {
+    "repo": "microsoft/VibeVoice",
+    "desc": "Open-Source Frontier Voice AI.",
+    "officialSite": "https://microsoft.github.io/VibeVoice/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/9407f751c6d7dbda295ec65aa4d844b9d3f8c84d9baa9e05d7521e01d59dc9fa/microsoft/VibeVoice"
+  }, {
+    "repo": "Fincept-Corporation/FinceptTerminal",
+    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-makin...",
+    "officialSite": "https://fincept.in",
+    "topics": ["python", "finance", "machine-learning", "qt", "opensource", "trading", "cpp", "fintech", "stock-market", "quantitative-finance", "investment", "algorithmic-trading", "financial-markets", "ai-agents", "bloomberg-terminal", "good-first-issue", "investment-research"],
+    "avatar": "https://avatars.githubusercontent.com/u/178755995?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/a08434260939f75197f36dd402c5a8633261a0d5c051985e8d1e8ecb264ad937/Fincept-Corporation/FinceptTerminal"
   }
 ]

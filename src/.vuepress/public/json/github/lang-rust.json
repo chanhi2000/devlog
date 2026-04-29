@@ -2760,5 +2760,12 @@
     "topics": ["rust", "vue", "oidc", "mtls"],
     "avatar": "https://avatars.githubusercontent.com/u/43871711?s=48&v=4",
     "banner": "https://repository-images.githubusercontent.com/920477562/7edc27b7-5d6a-4636-a4e4-793848559265"
+  }, {
+    "repo": "h4ckf0r0day/obscura",
+    "desc": "The headless browser for AI agents and web scraping",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/271927676?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/b48b918045c478026ac54a4a99cd2058e9b45777d92f19cdc2c50ec1cd626106/h4ckf0r0day/obscura"
   }
 ]

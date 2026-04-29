@@ -4,11 +4,13 @@ title: Query
 description: PostgreSQL > Query
 icon: fas fa-magnifying-glass
 category:
+  - Data Science
   - PostgreSQL 
   - Query
 tag: 
-  - sql
+  - data-science
   - db
+  - sql
   - postgres
   - postgresql
   - ddl

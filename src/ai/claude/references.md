@@ -66,6 +66,15 @@ head:
 
 ---
 
+## Substack
+
+- [`legallayer` / Legal Layer  | Sena Evren](https://legallayer.substack.com/)
+  - [Who Owns the Code Claude Wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
+  <!-- END: legallayer.substack.com -->
+<!-- END: substack.com -->
+
+---
+
 ## Transformer Circuits Thread
 
 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
@@ -96,7 +105,6 @@ head:
 
 ---
 
-
 ## Simon Willison's TILs
 
 - [Claude’s API now supports CORS requests, enabling client-side applications](https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/)
@@ -118,6 +126,14 @@ head:
 - [한국화 안되는 고전게임 AI 로 한글화 하기](https://seokjun.kim/korean-patch-with-ai/)
 
 <!-- END: seokjun.kim -->
+
+---
+
+## Addy Osmani
+
+[Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)
+
+<!-- END: addyosmani.com -->
 
 ---
 

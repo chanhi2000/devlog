@@ -683,4 +683,14 @@ head:
 
 <!-- END: dschloe.github.io -->
 
+---
+
+## Lars Faye [developer, entrepreneur, teacher]
+
+- [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+
+<!-- END: larsfaye.com -->
+
+---
+
 <TagLinks/>

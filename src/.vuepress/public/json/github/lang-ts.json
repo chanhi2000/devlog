@@ -5192,5 +5192,47 @@
     "topics": ["react", "go", "sqlite", "bookmarks", "self-hosted", "slash", "link-sharing"],
     "avatar": "https://avatars.githubusercontent.com/u/140182318?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/0d2e6ff7ebd9428b0e135681bec97f0fa3201ad02f50a20ee7160607b6753dbc/yourselfhosted/slash"
+  }, {
+    "repo": "refactoringhq/tolaria",
+    "desc": "Desktop app to manage markdown knowledge bases.",
+    "officialSite": "https://tolaria.md",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/263141683?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/e47938bff84a05e9b9978a274686ea42f03813061eaa242012e20d8264b10f70/refactoringhq/tolaria"
+  }, {
+    "repo": "openai/realtime-voice-component",
+    "desc": "openai/realtime-voice-component ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/14957082?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/2f0d8a2c20984a3f0e6893ce78f5da9ea30218c9e8d834873669cf771318b5a3/openai/realtime-voice-component"
+  }, {
+    "repo": "heygen-com/hyperframes",
+    "desc": "Write HTML. Render video. Built for agents.",
+    "officialSite": "",
+    "topics": ["html", "framework", "typescript", "video", "ai", "ffmpeg", "animation", "mcp", "rendering", "gsap", "puppeteer"],
+    "avatar": "https://avatars.githubusercontent.com/u/65394575?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/6ff001b73abed48db8b27373e56125b35d8700956b0665d8e4d3afb442ecc724/heygen-com/hyperframes"
+  }, {
+    "repo": "hanityx/threadlens",
+    "desc": "Find, review, back up, and safely clean up local AI sessions across Codex, Claude, Gemini, and Copilot.",
+    "officialSite": "",
+    "topics": ["gemini", "developer-tools", "session-management", "local-search", "codex", "claude", "chat-history", "local-first"],
+    "avatar": "https://avatars.githubusercontent.com/u/37394823?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1158589760/07f4decd-2764-4505-9d0f-9deab46f4527"
+  }, {
+    "repo": "lidge-jun/cli-jaw",
+    "desc": "🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.",
+    "officialSite": "https://lidge-jun.github.io/cli-jaw/",
+    "topics": ["cli", "automation", "typescript", "ai", "telegram-bot", "mcp", "opencode", "assistant", "multi-agent", "gemini", "copilot", "codex", "orchestrator", "claude"],
+    "avatar": "https://avatars.githubusercontent.com/u/243035832?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/11ea16b5750973b636eac1486984620e3f7f30ddc17ecf48b47fa5fc01d7789b/lidge-jun/cli-jaw"
+  }, {
+    "repo": "Lum1104/Understand-Anything",
+    "desc": "Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Cl...",
+    "officialSite": "https://understand-anything.com",
+    "topics": ["memory", "knowledge-graph", "knowledge-base", "codex", "business-knowledge", "claude-code", "claude-skills", "codex-skills", "pi-agent", "gemini-cli-skills", "opencode-skills", "antigravity-skills", "understandcode", "karpathy-llm-wiki"],
+    "avatar": "https://avatars.githubusercontent.com/u/87774050?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/ccd71a0037f79280ea95b725ee237fb1eb42385280c215fba2b8fdf1c5310648/Lum1104/Understand-Anything"
   }
 ]

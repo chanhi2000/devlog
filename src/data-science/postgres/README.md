@@ -4,10 +4,13 @@ title: PostgreSQL
 description: PostgreSQL
 icon: iconfont icon-postgresql
 category:
+  - Data Science
   - PostgreSQL
-tag:
-  - sql
+  - References
+tag: 
+  - data-science
   - db
+  - sql
   - postgres
   - postgresql
 ---

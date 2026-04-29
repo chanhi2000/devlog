@@ -4,12 +4,17 @@ title: CLI
 description: PostgreSQL > CLI
 icon: fas fa-terminal
 category:
+  - Data Science
   - PostgreSQL 
   - CLI
 tag: 
+  - data-science
+  - db
+  - sql
+  - postgres
+  - postgresql
   - cli
   - sh
-  - postgres  
   - ddl
   - dml
   - sql-privilege

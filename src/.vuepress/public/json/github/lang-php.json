@@ -384,5 +384,12 @@
     "topics": ["php", "user-agent", "hacktoberfest", "detection-library", "device-detector", "bot-detection", "mobile-detection"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://opengraph.githubassets.com/c142179a90213b497c9e5c1fb96d0faee983e37a3947a2f94fc65c5f05f9fa5d/matomo-org/device-detector"
+  }, {
+    "repo": "spatie/scotty",
+    "desc": "A beautiful SSH task runner.",
+    "officialSite": "https://spatie.be/docs/scotty",
+    "topics": ["bash", "ssh", "deploy", "tasks", "envoy"],
+    "avatar": "https://avatars.githubusercontent.com/u/7535935?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/d6834f32d9317c61fc951bd69c270a786f02df6d60c6194f777d261813232b86/spatie/scotty"
   }
 ]

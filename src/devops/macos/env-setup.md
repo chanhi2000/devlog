@@ -256,7 +256,7 @@ mkdir -p ~/.config && touch ~/.config/starship.toml;
 
 ```sh :collapsed-lines title=".zshrc"
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:$HOME/.rd/bin:$HOME/.local/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:/opt/homebrew/opt/openvpn/sbin:$PATH
+export PATH=$HOME/bin:$HOME/.rd/bin:$HOME/.local/bin:/usr/local/bin:/opt/homebrew/bin:/opt/hombrew/opt/nvm:/opt/homebrew/opt/openvpn/sbin:$HOME/.local/bin:$PATH
 # for Rancher Desktop
 export DOCKER_HOST=unix:///var/run/docker.sock
 # for Ghostty
@@ -414,6 +414,9 @@ alias cddc='cd $PATH_DEV/chanhi2000'
 
 # launch starship.sh
 eval "$(starship init zsh)"
+
+# launch mise
+eval "$(mise activate zsh)"
 
 # launch fastfetch
 fastfetch
