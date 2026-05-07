@@ -916,5 +916,12 @@
     "topics": ["github", "macos", "statistics"],
     "avatar": "https://avatars.githubusercontent.com/u/58493?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/b47a313f3965d6fb27ad0816fc6360a856c94978a8361ef250bb17e9324c32ae/steipete/RepoBar"
+  }, {
+    "repo": "baserize/full-brightness",
+    "desc": "Full Brightness is a macOS utility for display-heavy setups. It lists connected displays, shows resolution and HiDPI details, identifies which displays can be controlled, and sets supported displays to your chosen Full brightness level on demand or automatically when a new display connects.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/259314038?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/d82157fff9b18eebf0e04138f7c95b7fec03d243229918dbcac065a16765532b/baserize/full-brightness"
   }
 ]

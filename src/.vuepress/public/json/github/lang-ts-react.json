@@ -321,5 +321,12 @@
     "topics": ["react", "javascript", "video"],
     "avatar": "https://avatars.githubusercontent.com/u/85344006?s=48&v=4",
     "banner": "https://repository-images.githubusercontent.com/274495425/970f34be-47bd-4010-9def-bc1bf7fb0669"
+  }, {
+    "repo": "AnmolSaini16/mapcn",
+    "desc": "Beautiful map components. 100% Free, Zero config, one command setup.",
+    "officialSite": "https://mapcn.dev",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/72123368?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/f8fce754e8a1876a3d67aae207c196327a7e5b8b7403da05feb33b2406fb14c3/AnmolSaini16/mapcn"
   }
 ]

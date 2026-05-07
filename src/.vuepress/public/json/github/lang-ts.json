@@ -5234,5 +5234,12 @@
     "topics": ["memory", "knowledge-graph", "knowledge-base", "codex", "business-knowledge", "claude-code", "claude-skills", "codex-skills", "pi-agent", "gemini-cli-skills", "opencode-skills", "antigravity-skills", "understandcode", "karpathy-llm-wiki"],
     "avatar": "https://avatars.githubusercontent.com/u/87774050?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/ccd71a0037f79280ea95b725ee237fb1eb42385280c215fba2b8fdf1c5310648/Lum1104/Understand-Anything"
+  }, {
+    "repo": "kkd927/lotto-purchase-action",
+    "desc": "동행복권 로또 6/45 자동 구매 GitHub Action. 자동/수동 구매와 커스텀 워크플로우를 지원합니다.",
+    "officialSite": "",
+    "topics": ["automation", "typescript", "lotto", "github-actions", "dhlottery"],
+    "avatar": "https://avatars.githubusercontent.com/u/7487230?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/ecc0b40c32180709d7e77836a4479ae4d363db917a9698c72a56129b5b35a0bd/kkd927/lotto-purchase-action"
   }
 ]

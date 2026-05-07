@@ -1600,6 +1600,13 @@ http://texturer.com/
 }
 ```
 
+<SiteInfo
+  name="Zoo: CAD Software for Hardware Design"
+  desc="Zoo creates infrastructure for hardware design. We're laying the foundation for a modern hardware design toolkit, so that you can create new design tools never before possible."
+  url="https://zoo.dev/"
+  logo="https://zoo.dev/favicon-16x16.png"
+  preview="https://zoo.dev/meta-images/zoo-homepage.png"/>
+
 <!-- END: Design & Image -->
 
 @tab DevOps

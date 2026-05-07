@@ -691,9 +691,57 @@ Import-Module Terminal-Icons
 fastfetch
 ```
 
+### F. <VPIcon icon="fas fa-gears"/>`gpedit-enable.cmd`
+
+Windows 10/11 Home에서 *로컬 그룹 정책 편집기* 생성
+
+::: note
+
+Pro 일 경우, 실행 필수 아님
+
+:::
+
+> 윈도우 작업표시줄 검색창이나 <kbd><VPIcon icon="fa-brands fa-windows"/></kbd>+<kbd>R</kbd>(실행) 열어서 `cmd`를 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>enter</kbd> 눌러 실행합니다.
+
+::: warning Prerequesite(s)
+
+First, ensure that you open prompt in **ADMINISTRATIVE** mode
+
+:::
+
+```batch :collapsed-liens title="gpedit-enable.cmd"
+::
+:: 사용방법
+::
+:: 관리자 권한으로 아래 스크립트를 실행
+
+@echo off
+
+pushd "%~dp0" 
+ 
+dir /b %SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientExtensions-Package~3*.mum >List.txt 
+dir /b %SystemRoot%\servicing\Packages\Microsoft-Windows-GroupPolicy-ClientTools-Package~3*.mum >>List.txt 
+ 
+for /f %%i in ('findstr /i . List.txt 2^>nul') do dism /online /norestart /add-package:"%SystemRoot%\servicing\Packages\%%i" 
+PAUSE
+```
+
+#### F1. 로컬 그룹 정책
+
+- 비활성화
+  - `[컴퓨터 구성]` -> `[관리 템플릿]` -> `[시스템]` -> `[OS 정책]`:
+    [ ]`[장치 간 클립보드 동기화 허용]`
+    [ ] `[작업 피드 사용 설정]`
+- 활성화
+  - `[컴퓨터 구성]` -> `[관리 템플릿]` -> `[시스템]` -> `[사용자 프로필]`:
+    [ ] `광고 ID 끄기`
+
+<!-- TODO: `auditpol`, `secpol` 으로 활용 가능한 부분확인 -->
+<!-- TODO: https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/identity/ad-ds/plan/security-best-practices/advanced-audit-policy-configuration.md -->
+
 ---
 
-### F. oh-my-posh's <VPIcon icon="iconfont icon-json"/>`schema.json`
+### G. oh-my-posh's <VPIcon icon="iconfont icon-json"/>`schema.json`
 
 > <VPIcon icon="fas fa-folder-open"/>저장위치: 왠만하면 `%USERPROFILE%\.oh-my-posh` 폴더에 위치해 두도록
 

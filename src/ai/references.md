@@ -283,6 +283,9 @@ head:
 ## Evans Library
 
 - [지금 프로그래밍을 하고 있는 당신은 누구인가](https://evan-moon.github.io/2024/06/23/perspective-on-ai/)
+- [AI 코딩 시대, 더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
+
+<!-- END: evan-moon.github.io -->
 
 ---
 
@@ -458,10 +461,12 @@ head:
 
 ---
 
-## Evans Library
+## Simon Willison's TILs
 
-- [AI 코딩 시대, 더이상 성장하지 않는 개발자들](https://evan-moon.github.io/2026/04/18/developers-who-stopped-growing-in-ai-era/)
+- [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 
-<!-- END: evan-moon.github.io -->
+<!-- END: simonwillison.net -->
+
+---
 
 <TagLinks />

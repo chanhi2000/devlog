@@ -3742,5 +3742,19 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/43004?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/9f66caea97a8583e0c53f32cbdeed64d6c2287ba03c79ab8d719f68e930cea5a/pbakaus/impeccable"
+  }, {
+    "repo": "PDFCraftTool/pdfcraft",
+    "desc": "PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploadin...",
+    "officialSite": "https://pdfcraft.devtoolcafe.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/252608121?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/1a619eba8a910b40e4cf6d3b88fa05e44eb6f12d89c8f701bd5fd0291cf1e608/PDFCraftTool/pdfcraft"
+  }, {
+    "repo": "Anil-matcha/Open-Generative-AI",
+    "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Ve...",
+    "officialSite": "https://dev.muapi.ai/open-generative-ai",
+    "topics": ["javascript", "open-source", "uncensored", "muapi", "image-to-video", "unrestricted", "text-to-video", "creative-tools", "generative-ai", "ai-image-generation", "ai-art-generator", "midjourney-alternative", "ai-video-generation", "wan-video", "kling-ai", "higgsfield-ai", "higgsfield", "flux-1", "sora-alternative", "higgsfield-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/4326215?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/c3408c7d5485309bcc68892e7ff808fa5323c0cc979a1a8cf10d214f270da8da/Anil-matcha/Open-Generative-AI"
   }
 ]

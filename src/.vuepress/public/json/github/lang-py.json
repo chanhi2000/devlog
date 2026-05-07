@@ -8503,5 +8503,19 @@
     "topics": ["python", "finance", "machine-learning", "qt", "opensource", "trading", "cpp", "fintech", "stock-market", "quantitative-finance", "investment", "algorithmic-trading", "financial-markets", "ai-agents", "bloomberg-terminal", "good-first-issue", "investment-research"],
     "avatar": "https://avatars.githubusercontent.com/u/178755995?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/a08434260939f75197f36dd402c5a8633261a0d5c051985e8d1e8ecb264ad937/Fincept-Corporation/FinceptTerminal"
+  }, {
+    "repo": "nowork-studio/toprank",
+    "desc": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+    "officialSite": "https://notfair.co/",
+    "topics": ["mcp", "seo", "geo", "googleads", "claude-code-plugin", "claude-skills", "metaads", "googleadsmcp"],
+    "avatar": "https://avatars.githubusercontent.com/u/151400691?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/2d89e01df4fb3e39c2263b43ce30522c16d6fd4a235d9e7fe9d45192a22d16e8/nowork-studio/toprank"
+  }, {
+    "repo": "PriuS2/HermesKanban",
+    "desc": "PriuS2/HermesKanban ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/29425082?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/97d55dce3894c876f01437dbb9b68a1af8b02b2e24406c2539c691e1af96e878/PriuS2/HermesKanban"
   }
 ]

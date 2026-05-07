@@ -277,6 +277,16 @@ tag:
 }
 ```
 
+```component VPCard
+{
+  "title": "Sputnik",
+  "desc": "Sputnik is an extension to quickly and easily search IPs, Domains, File Hashes, and URLs using free Open Source Intelligence (OSINT) resources.",
+  "link": "https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd",
+  "logo": "https://lh3.googleusercontent.com/CkOYB9zvTcZ1u7VHjKW6UXLLpIvc6lyw2tFPK-tIISWSbq-VyD2Irl94mAWCAxjCYG53oiO9b-4CTNH6YCRVH7VkBAg=s60",
+  "background": "rgba(255,255,255,0.2)"
+}
+```
+
 <SiteInfo
   name="Toggle JavaScript"
   desc="Enable or disable JavaScript without the hassle."
