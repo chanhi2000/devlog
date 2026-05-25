@@ -13,6 +13,12 @@
     "topics": ["vm", "cpp", "repl", "webassembly", "wasm", "lwip", "xterm-js", "cheerp", "webvm", "tailscale", "cheerpx"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/454164378/00ded6d6-99da-4861-a71d-59cfa2fcc785"
+  }, {
+    "repo": "mistweaverco/bananas",
+    "desc": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡. ",
+    "officialSite": "https://getbananas.net",
+    "topics": ["cross-platform", "multi-cursor", "p2p", "pair-programming", "pairing", "peer-to-peer", "screensharing"],
+    "avatar": "https://avatars.githubusercontent.com/u/33216841?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/870760326/5ff53546-331d-44f7-bb4c-09e30c1a492a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T001729Z&X-Amz-Expires=300&X-Amz-Signature=dc16a91954c035d35af5b099ea0612660611074558b3ea54b8147a33720d3fcb&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTk3NTc0OSwibmJmIjoxNzg1OTc1NDQ5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.RFrA5d8h9cmd6ki57A0ISFzj4NOWXNtBfhCy6TLwwEQ"
   }
-  
 ]

@@ -1682,10 +1682,10 @@
   }, {
     "repo": "microsoft/mimalloc",
     "desc": "mimalloc is a compact general purpose allocator with excellent performance.",
-    "officialSite": "",
+    "officialSite": "https://microsoft.github.io/mimalloc",
     "topics": [],
-    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-    "banner": ""
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/e5c8b5e2b886e83bc89a4723b1170b7cc121039ae22a2aeadd50b145e25dcc47/microsoft/mimalloc"
   }, {
     "repo": "bvschaik/julius",
     "desc": "An open source re-implementation of Caesar III",

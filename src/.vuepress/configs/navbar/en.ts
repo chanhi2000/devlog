@@ -138,6 +138,7 @@ export const navbarEn = navbar([
           '/programming/java-spring/README.md',
           '/programming/java-kafka/README.md',
           '/programming/java-quarkus/README.md',
+          '/programming/java-liquidbase/README.md',
           '/programming/java-armeria/README.md',
           '/programming/java-elasticsearch/README.md',
           '/programming/gradle/README.md',
@@ -207,6 +208,7 @@ export const navbarEn = navbar([
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',
           '/programming/py-airflow/README.md',
+          '/programming/py-qiskit/README.md',
           '/programming/py-gradio/README.md',
           '/programming/py-prefect/README.md',
           '/programming/py-dagster/README.md',
@@ -415,27 +417,15 @@ export const navbarEn = navbar([
         icon: 'iconfont icon-ovirt',
         link: '/devops/ovirt/README.md',
       }, {
-        text: 'Docker',
-        icon: 'fa-brands fa-docker',
-        link: '/devops/docker/README.md',
-      }, {
-        text: 'Testcontainer',
-        icon: 'iconfont icon-testcontainer',
-        link: '/devops/testcontainer/README.md',
-      }, {
-        text: 'Podman',
-        icon: 'iconfont icon-podman',
-        link: '/devops/podman/README.md',
-      }, {
-        text: 'Kubernetes',
+        text: 'Container 관리',
         children: [
+          '/devops/docker/README.md',
+          '/devops/testcontainer/README.md',
+          '/devops/podman/README.md',
           '/devops/k8s/README.md',
           '/devops/k8s-istio/README.md',
+          '/devops/openshift/README.md',
         ]
-      }, {
-        text: 'Openshift',
-        icon: 'fa-brands fa-redhat',
-        link: '/devops/openshift/README.md',
       }, {
         text: 'Terraform',
         icon: 'iconfont icon-terraform',
@@ -561,6 +551,10 @@ export const navbarEn = navbar([
         text: 'NGINX',
         icon: 'iconfont icon-nginx',
         link: '/devops/nginx/README.md',
+      }, {
+        text: 'New Relic',
+        icon: 'iconfont icon-newrelic',
+        link: '/devops/newrelic/README.md',
       }, 
       //endregion
     ],

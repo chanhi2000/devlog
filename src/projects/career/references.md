@@ -1922,4 +1922,20 @@ https://m.blog.naver.com/&logId=
 
 ---
 
+## sofiakodar.github.io
+
+- [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
+
+<!-- END: sofiakodar.github.io -->
+
+---
+
+## Anthony Hobday—Product designer
+
+- [Career advice for designers](https://anthonyhobday.com/blog/20260409)
+
+<!-- END: anthonyhobday.com -->
+
+---
+
 <TagLinks />

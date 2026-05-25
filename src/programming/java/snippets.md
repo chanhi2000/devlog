@@ -16,6 +16,14 @@ tag:
   - javadocs
   - kotlin
   - companion-object
+head:
+  - - meta:
+    - property: og:title
+      content: Java > Snippets
+    - property: og:description
+      content: Snippets
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/snippets.html
 ---
 
 # {{ $frontmatter.title }} 관련

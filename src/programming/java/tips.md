@@ -16,6 +16,14 @@ tag:
   - slf4j
   - log4j
   - lombok
+head:
+  - - meta:
+    - property: og:title
+      content: Java > Tips
+    - property: og:description
+      content: Tips
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/tips.html
 ---
 
 # {{ $frontmatter.title }} 관련

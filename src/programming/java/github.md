@@ -18,7 +18,7 @@ head:
     - property: og:title
       content: Java > Github
     - property: og:description
-      content: Java > Github
+      content: Github
     - property: og:type
       content: article  
     - property: og:url

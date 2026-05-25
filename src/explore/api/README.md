@@ -598,6 +598,20 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
   logo="https://lawsofsoftwareengineering.com/favicon.ico"
   preview="https://lawsofsoftwareengineering.com/og-image.png"/>
 
+<SiteInfo
+  name="Welcome"
+  desc="The largest collection of free stuff on the internet!"
+  url="https://fmhy.net/"
+  logo="https://fmhy.net/fmhy.ico"
+  preview="https://fmhy.net/__og_image__/og.webp"/>
+
+<SiteInfo
+  name="brevio — Free, Private Browser Tools"
+  desc="brevio offers 492+ free tools for PDFs, images, text, finance, development, and health — all processing runs locally in your browser. No file upload, no server, no account required. Privacy by design."
+  url="https://brevio.pro/"
+  logo="https://brevio.pro/icon.svg?ca2d4088e5025c37"
+  preview="https://brevio.pro/opengraph-image?c1b36dc0a543a598"/>
+
 <!-- END: Programming Tools - General -->
 
 @tab Design & Image

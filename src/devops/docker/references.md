@@ -563,6 +563,13 @@ sudo ln -s ~$USER/.rd/docker.sock /var/run/docker.sock
 
 <!-- END: mkennedy.codes -->
 
+<SiteInfo
+  name="BentoPDF - Free Online PDF Tools | Privacy-First PDF Toolkit"
+  desc="Free online PDF toolkit with 100+ tools. Merge, split, compress, convert PDFs - 100% browser-based, no signup, unlimited files, privacy-first."
+  url="https://bentopdf.com/"
+  logo="https://bentopdf.com/favicon.ico"
+  preview="https://bentopdf.com/images/og-home.png"/>
+
 ---
 
 <TagLinks />

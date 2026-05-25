@@ -923,5 +923,26 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/259314038?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/d82157fff9b18eebf0e04138f7c95b7fec03d243229918dbcac065a16765532b/baserize/full-brightness"
+  }, {
+    "repo": "drumih/turbo-fieldfare",
+    "desc": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1304159264/d6c0493d-d97a-45fc-b20a-dd40d1b6e090?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260730T231058Z&X-Amz-Expires=300&X-Amz-Signature=4b8fbe77a546ed0c6e7e29513d3e4bf5fd39ae74ed154f3d20a2f55a73e88154&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1MzM1OCwibmJmIjoxNzg1NDUzMDU4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.DFB_eyuhPieaaoGB9omdOHYY92LHR40PNh46L88T404"
+  }, {
+    "repo": "badaverse/linkprism",
+    "desc": "Stop juggling Chrome profiles. Let your links find their way home.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6779412?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/1a88a5411ae8c36bb18f39ab1072c618c0d56020b69ec028dba9ab73ad5b16ca/badaverse/linkprism"
+  }, {
+    "repo": "Augani/dory",
+    "desc": "A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.",
+    "officialSite": "https://augani.github.io/dory",
+    "topics": ["apple-silicon", "containers", "docker", "docker-desktop", "macos", "orbstack", "swift", "swiftui", "virtualization"],
+    "avatar": "https://avatars.githubusercontent.com/u/13237525?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/03d24adff9c3b6cada82d4dba539574c754a2973de5a6bd110a6e2b39eccd3ce/Augani/dory"
   }
 ]

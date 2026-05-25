@@ -42,6 +42,7 @@ head:
 ## <VPIcon icon="iconfont icon-claude"/>Claude
 
 - [Auto mode for Claude Code](https://claude.com/blog/auto-mode)
+- [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)
 
 <!-- END: claude.com -->
 

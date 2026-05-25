@@ -12,6 +12,8 @@ category:
 tag: 
   - java
   - jdk
+  - kt
+  - kotlin
   - spring
   - springboot
   - youtube
@@ -20,7 +22,7 @@ head:
     - property: og:title
       content: Spring > Youtube
     - property: og:description
-      content: Spring > Youtube
+      content: Youtube
     - property: og:url
       content: https://chanhi2000.github.io/programming/java-spring/youtube.html
 ---

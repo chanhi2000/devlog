@@ -496,4 +496,11 @@ tag:
 
 ---
 
+## corrode | Friendly, Professional Rust Consulting
+
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
+
+<!-- END: corrode.dev -->
+
+
 <TagLinks />

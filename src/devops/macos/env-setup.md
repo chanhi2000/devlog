@@ -86,11 +86,11 @@ brew install koekeishiya/formulae/skhd;
 brew install qemu libvirt virt-manager; 
 
 # Install cask(s)
-brew install --cask airflow alt-tab appcleaner battery chatgpt clipgrab cheatsheet  \ 
+brew install --cask airflow alt-tab appcleaner bananas battery chatgpt clipgrab cheatsheet \
 dbeaver-community dockdoor rancher flameshot flipper font-jetbrains-mono-nerd-font \
 ghostty grandperspective intellij-idea-ce jordanbaird-ice \
 maccy notion opencore-patcher oversight pennywise pearcleaner pika puremac \
-pycharm-ce raycast rectangle resilio-sync sf-symbols shottr stats \
+pycharm-ce raycast rectangle resilio-sync sf-symbols shortcat shottr stats \
 sublime-merge sublime-text the-unarchiver taskexplorer usr-sse2-rdm \
 transmission visual-studio-code vlc warp webstorm wireshark;
 # aldente

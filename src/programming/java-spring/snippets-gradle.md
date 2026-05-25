@@ -10,14 +10,25 @@ category:
   - Gradle
   - Snippets
 tag: 
-  - gradle
-  - groovy
+  - java
+  - jdk
+  - kt
+  - kotlin
   - spring
   - springboot
+  - gradle
+  - groovy
   - idea
   - intellij-idea
   - intellij
-  - plugin-android
+head:
+  - - meta:
+    - property: og:title
+      content: Spring > Gradle Snippets
+    - property: og:description
+      content: Gradle Snippets
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java-spring/snippets-gradle.html
 ---
 
 # {{ $frontmatter.title }} 관련

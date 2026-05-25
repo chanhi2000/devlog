@@ -11,6 +11,14 @@ tag:
   - jdk
   - jdk8
   - news
+head:
+  - - meta:
+    - property: og:title
+      content: Java > News
+    - property: og:description
+      content: News
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/news.html
 ---
 
 # {{ $frontmatter.title }} 관련

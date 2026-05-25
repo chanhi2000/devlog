@@ -466,6 +466,9 @@ head:
 ## GIS Developer
 
 - [값이 저장된 메모리 주소 얻기, 특정 메모리 주소에 저장된 값 얻기](http://www.gisdeveloper.co.kr/?p=15049)
+- [cargo 옵션](http://gisdeveloper.co.kr/?p=15498)
+
+<!-- END: gisdeveloper.co.kr -->
 
 ---
 
@@ -526,11 +529,17 @@ head:
 
 ---
 
-## GIS Developer
+## corrode | Friendly, Professional Rust Consulting
 
-- [cargo 옵션](http://gisdeveloper.co.kr/?p=15498)
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 
-<!-- END: gisdeveloper.co.kr -->
+<!-- END: corrode.dev -->
+
+## The Pragmatic Engineer - The Pragmatic Engineer
+
+- [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)
+
+<!-- END: blog.pragmaticengineer.com -->
 
 ---
 

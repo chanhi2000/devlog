@@ -16,6 +16,14 @@ tag:
   - apache-axis
   - apache-axis2
   - wsdl2java
+head:
+  - - meta:
+    - property: og:title
+      content: Java > WebService
+    - property: og:description
+      content: WebService
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/webservice.html
 ---
 
 # {{ $frontmatter.title }} 관련

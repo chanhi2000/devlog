@@ -1742,5 +1742,12 @@
     "topics": ["awesome", "awesome-list", "cybersecurity", "exploitation", "reverse-engineering"],
     "avatar": "https://avatars.githubusercontent.com/u/69542992?v=4",
     "banner": ""
+  }, {
+    "repo": "YennNing/Awesome-Code-as-Agent-Harness-Papers",
+    "desc": "A curated list of papers and resources based on the survey \"Code as Agent Harness\"",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/92135109?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/b2f24686e052034598b537256a136fb41dff7fa613e241d5d8e2a52810c5118e/YennNing/Awesome-Code-as-Agent-Harness-Papers"
   }
 ]

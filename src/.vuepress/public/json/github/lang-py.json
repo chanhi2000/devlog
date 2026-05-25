@@ -8517,5 +8517,47 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/29425082?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/97d55dce3894c876f01437dbb9b68a1af8b02b2e24406c2539c691e1af96e878/PriuS2/HermesKanban"
+  }, {
+    "repo": "promet99/korean_bank_tx_crawler",
+    "desc": "simple crawler for Korean banks with Transactions ",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/54811538?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/4cb66d15de3e0b4c0b830e61c6f5af3804dce01c2d3303722d87e347eb3e4103/promet99/korean_bank_tx_crawler"
+  }, {
+    "repo": "averygan/reclip",
+    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/88895948?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/0ecf628198df040b4469bcedeae68ad9c3e6a1f68007e61dd83ae8a5205e7f99/averygan/reclip"
+  }, {
+    "repo": "openmaya/byeol",
+    "desc": "Your personal AI assistant that lives on a Raspberry Pi 3",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/1409909?v=4&size=40",
+    "banner": "https://opengraph.githubassets.com/399dd6f1b1c60d94ca01e516b385b2cfe4a9db590e12bbd8cbd76f77ca34b4c5/openmaya/byeol"
+  }, {
+    "repo": "karpathy/autoresearch",
+    "desc": "AI agents running research on single-GPU nanochat training automatically",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/241138?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/351d0d7ce75acd04d013fdc134b40300dcea9901bd427cb8d41de36e6e0b8065/karpathy/autoresearch"
+  }, {
+    "repo": "ellite/scrob",
+    "desc": "Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt - ellite/...",
+    "officialSite": "https://scrob.app/",
+    "topics": ["astro", "docker", "emby", "jellyfin", "media", "media-tracker", "plex", "python", "radarr", "social", "sonarr", "tmdb", "tracker", "trakt"],
+    "avatar": "https://avatars.githubusercontent.com/u/3831180?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/8f64a39f191eb6124db4298fc7388fb91c38df58149d19b5e4e28125c1be2adb/ellite/scrob"
+  }, {
+    "repo": "simple-login/app",
+    "desc": "The SimpleLogin back-end and web app.",
+    "officialSite": "https://simplelogin.io/",
+    "topics": ["aliases", "email", "flask", "hacktoberfest", "simplelogin"],
+    "avatar": "https://avatars.githubusercontent.com/u/51910064?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/228877522/8a4c7600-2fcd-11eb-9352-88040768a2a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T001255Z&X-Amz-Expires=300&X-Amz-Signature=67b9cffcdce68bd0934472a7fa5ccd9a4d996fdb7d55544cafc163e876b3dcc0&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTk3NTQ3NSwibmJmIjoxNzg1OTc1MTc1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.7ME6sZwFYxw0YRFQOVF9nLVKtz05kmOqSkYnbnj9EWc"
   }
 ]

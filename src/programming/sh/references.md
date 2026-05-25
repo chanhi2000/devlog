@@ -584,4 +584,12 @@ head:
 
 ---
 
+## iximiuz Labs - A hands-on learning platform for Linux, Docker, Kubernetes, and Networking
+
+- [A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
+
+<!-- END: labs.iximiuz.com -->
+
+---
+
 <TagLinks />

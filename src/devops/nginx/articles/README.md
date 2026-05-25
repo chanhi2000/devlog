@@ -4,12 +4,14 @@ title: Article(s)
 description: NGINX > Article(s)
 icon: fas fa-square-share-nodes
 category: 
+  - DevOps
   - NGINX
   - Article(s)
 tag: 
   - blog
   - tecmint.com
   - code-maze.com
+  - devops
   - nignx
   - webserver
   - web-server

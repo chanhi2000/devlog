@@ -107,12 +107,16 @@ Copy and Paste the following to the Powershell Prompt
 ```powershell
 winget install -e --id TableClothProject.TableCloth;
 get-appxpackage *feedback* | remove-appxpackage;
+winget install -e --id Debba.Tabularis;
+winget install -e --id Microsoft.WindowsApp;
 ```
 
 @tab <VPIcon icon="fas fa-gears"/>cmd
 
 ```batch
-winget install -e --id TableClothProject.TableCloth
+winget install -e --id TableClothProject.TableCloth;
+winget install -e --id Debba.Tabularis;
+winget install -e --id Microsoft.WindowsApp;
 ```
 
 :::
@@ -892,6 +896,49 @@ PAUSE
   url="https://golbin.github.io/hop/"
   logo="https://golbin.github.io/assets/logo/favicon.ico"
   preview="https://golbin.github.io/assets/screenshots/hop-editor.webp"/>
+
+```component VPCard
+{
+  "title": "Download optimizerDuck - optimizerDuck",
+  "desc": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+  "link": "https://optimizerduck.vercel.app/docs/download.html/",
+  "logo": "https://optimizerduck.vercel.app/favicon.ico",
+  "background": "rgba(255,224,138,0.2)"
+}
+```
+
+::: info <VPIcon icon="iconfont icon-github"/><code>memstechtips/Winhance</code>
+
+```powershell
+irm "https://get.winhance.net" | iex
+```
+
+<SiteInfo
+  name="memstechtips/Winhance"
+  desc="Application designed to optimize, customize and enhance your Windows experience."
+  url="https://github.com/memstechtips/Winhance/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://repository-images.githubusercontent.com/916105685/2f929ffe-5433-4d0c-b28c-c1890bc88b5e"/>
+
+:::
+
+::: info <VPIcon icon="iconfont icon-github"/><code>zoicware/RemoveWindowsAI</code>
+
+```powershell
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/zoicware/RemoveWindowsAI/main/RemoveWindowsAi.ps1")))
+```
+
+
+<SiteInfo
+  name="zoicware/RemoveWindowsAI"
+  desc="Force Remove Copilot, Recall and More in Windows 11"
+  url="https://github.com/zoicware/RemoveWindowsAI/"
+  logo="https://github.githubassets.com/favicons/favicon-dark.svg"
+  preview="https://opengraph.githubassets.com/d99580802dc5f7a41ed913934035d13d11e094d19f9cb83c44c8c2b5377a2aa6/zoicware/RemoveWindowsAI"/>
+
+<VidStack src="youtube/j5_eEBWGHFw" />
+
+:::
 
 ---
 

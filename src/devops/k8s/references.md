@@ -511,4 +511,10 @@ head:
 
 ---
 
+## Roman Glushko - Machine Learning and Software Engineer, Life Explorer by Roman Glushko
+
+- [Kubernetes Gateway API](https://romaglushko.com/blog/k8s-gateway-api/)
+
+<!-- END: romaglushko.com -->
+
 <TagLinks />

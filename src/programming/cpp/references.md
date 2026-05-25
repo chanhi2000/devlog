@@ -624,7 +624,15 @@ head:
 
 <!-- END: dschloe.github.io -->
 
-----
+---
+
+## cppreference.com
+
+- [오픈 소스 c++라이브러리 목록](https://ko.cppreference.com/cpp/links/libs)
+
+<!-- END: ko.cppreference.com -->
+
+---
 
 ## pdf(s)
 

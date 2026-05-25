@@ -11,15 +11,16 @@ category:
 tag: 
   - java
   - jdk
+  - kt
+  - kotlin
   - spring
   - springboot
-  - baeldung
 head:
   - - meta:
     - property: og:title
       content: Spring > References
     - property: og:description
-      content: Spring > References
+      content: References
     - property: og:url
       content: https://chanhi2000.github.io/programming/java-spring/references.html
 ---

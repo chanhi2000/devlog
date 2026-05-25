@@ -5241,5 +5241,68 @@
     "topics": ["automation", "typescript", "lotto", "github-actions", "dhlottery"],
     "avatar": "https://avatars.githubusercontent.com/u/7487230?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/ecc0b40c32180709d7e77836a4479ae4d363db917a9698c72a56129b5b35a0bd/kkd927/lotto-purchase-action"
+  }, {
+    "repo": "withastro/flue",
+    "desc": "The sandbox agent framework.",
+    "officialSite": "https://www.flueframework.com",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/44914786?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/1cb010b41b95eb9d584c8f73c8c208e54c556127b9a0e7883e7afb16f5810fee/withastro/flue"
+  }, {
+    "repo": "colbymchenry/codegraph",
+    "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "officialSite": "https://colbymchenry.github.io/codegraph/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/18431132?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/1f8065dff1afb57a34508a679cc763653196cb93add3362576769315a93b7280/colbymchenry/codegraph"
+  }, {
+    "repo": "bigmacfive/appbun",
+    "desc": "Turn any webpage into an inspectable Electrobun desktop app with one command.",
+    "officialSite": "https://www.npmjs.com/package/appbun",
+    "topics": ["desktop-app", "windows", "macos", "linux", "cli", "webview", "dmg", "desktop-wrapper", "bun", "pake", "electron-alternative", "website-to-app", "tauri-alternative", "electrobun"],
+    "avatar": "https://avatars.githubusercontent.com/u/28479028?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/242f6448667a1dfb85fb07e0f024fa817abfb6746ebf6b6b4e040bf0e94bda09/bigmacfive/appbun"
+  }, {
+    "repo": "Octoverse-corp-official/octomo-sample-code",
+    "desc": "Octomo API 문서에 포함될 샘플 코드.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/126749805?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/982f03e45d41ac70019b408d7c420abc26d0ac34cf576844f9b58d8a27a1b917/Octoverse-corp-official/octomo-sample-code"
+  }, {
+    "repo": "tinyfish-io/bigset",
+    "desc": "What if you had all the data in the world?",
+    "officialSite": "",
+    "topics": ["open-source", "tinyfish", "bigset"],
+    "avatar": "https://avatars.githubusercontent.com/u/119996419?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/447463681663d799c92db3bff1b7b63ab92a07b8b0fee94f16f0547f87dda0c6/tinyfish-io/bigset"
+  }, {
+    "repo": "oblien/openship",
+    "desc": "Self-hosted deployment platform.",
+    "officialSite": "https://openship.io/",
+    "topics": ["agents", "ai", "deployments", "self-hosted"],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/faf1d97a0dd842528a86ef07a52e559c2af284eea8d46db215472f6bd900568c/oblien/openship"
+  }, {
+    "repo": "kimws/gemini-oauth",
+    "desc": "Gemini CLI OAuth to local OpenAI-compatible API.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/caed37fabe0de89f9024ddf4185ddb89250ad241a214df0a1cccc1f40365028a/kimws/gemini-oauth"
+  }, {
+    "repo": "callstack/agent-device",
+    "desc": "CLI to control iOS and Android devices for AI agents",
+    "officialSite": "https://agent-device.dev",
+    "topics": ["adb", "agentic-ai", "agents", "ai-agents", "android-emulator", "automation", "e2e-testing", "expo", "flutter", "ios-simulator", "mcp", "mobile", "mobile-testing", "performance-optimization", "react-native", "testing", "xcuitest"],
+    "avatar": "https://avatars.githubusercontent.com/u/42239399?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/7834d088d17e6ae1ef269259906e856ae7356fd30fffd4929a7dc29312d4c7f1/callstack/agent-device"
+  }, {
+    "repo": "lobehub/lobehub",
+    "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+    "officialSite": "https://lobehub.com",
+    "topics": ["agent", "agent-collaboration", "agent-harness", "ai", "cao", "chatgpt", "chief-agent-operator", "claude", "deepseek", "fable", "gemini", "glm", "gpt", "knowledge-base", "loop-engineering", "mcp", "openai", "skills"],
+    "avatar": "https://avatars.githubusercontent.com/u/131470832?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/643445235/1978054a-0d8d-41a7-b1f0-b9ca79278534?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260804T232601Z&X-Amz-Expires=300&X-Amz-Signature=d6682f82ea8b70cda8dffb4fb014cef03445eafe1b60b7847b57646efe6edef8&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg4NjI2MSwibmJmIjoxNzg1ODg1OTYxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.oNdAD2YKckOjRdHT4kAI5RWk4KGxl2juhXO0R18DPRQ"
   }
 ]

@@ -2869,5 +2869,40 @@
     "topics": ["go", "macos", "programming-language", "golang", "ios", "apple", "compiler", "domain-specific-language", "siri-shortcuts", "ios-shortcuts", "apple-shortcuts", "cherri-lang", "cherri"],
     "avatar": "https://avatars.githubusercontent.com/u/4368524?s=48&v=4",
     "banner": "https://repository-images.githubusercontent.com/554016681/945834d8-b32a-4e77-a675-307823b8a508"
+  }, {
+    "repo": "alibaba/open-code-review",
+    "desc": "Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (N...",
+    "officialSite": "https://alibaba.github.io/open-code-review/",
+    "topics": ["agent", "code-review", "harness", "agent-skills", "repository-level-context", "code-review-assistant"],
+    "avatar": "https://avatars.githubusercontent.com/u/1961952?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1241960226/7b06e6c8-235f-4887-b975-2898612b2058"
+  }, {
+    "repo": "alebeck/boring",
+    "desc": "The `boring`  SSH tunnel manager.",
+    "officialSite": "https://alebeck.github.io/boring/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/44317107?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/213c1280f9e145a00eef8866f056b1ce809022076508a17ef14b3d69e5fa5bcd/alebeck/boring"
+  }, {
+    "repo": "perplexityai/bumblebee",
+    "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+    "officialSite": "",
+    "topics": ["golang", "supply-chain-security", "package-inventory"],
+    "avatar": "https://avatars.githubusercontent.com/u/185426709?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/c0c6d3a43839684a1513a53373b67fa50cb69f979ba38fd49ba73d919f2d2c46/perplexityai/bumblebee"
+  }, {
+    "repo": "Paca-AI/paca",
+    "desc": "AI-native, free, open-source alternative to Jira, Trello, ClickUp &amp; Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the sam...",
+    "officialSite": "https://paca-ai.org",
+    "topics": ["open-source", "mcp", "bdd", "self-hosted", "project-management", "scrum", "scrumban", "jira-alternative", "ai-agent", "openhands", "clickup-alternative", "wasm-plugins", "trello-alternative"],
+    "avatar": "https://avatars.githubusercontent.com/u/269367978?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1186842622/fa480671-ddb8-43e6-80e9-59d0d0570dcd"
+  }, {
+    "repo": "gotify/server",
+    "desc": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+    "officialSite": "https://gotify.net",
+    "topics": ["notifications", "react", "javascript", "api", "golang", "cloud", "privacy", "selfhosted", "hosting", "self-hosted", "free-software", "self-hosting", "gotify"],
+    "avatar": "https://avatars.githubusercontent.com/u/36410427?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/9101ef73d836843d5c3bc93a7cfe7cf8baef3b436dccaddf60c3d11ddae5e0cb/gotify/server"
   }
 ]

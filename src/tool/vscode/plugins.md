@@ -470,6 +470,17 @@ tag:
 
 ```component VPCard
 {
+  "title": "SQL Crack - Visual Studio Marketplace (`buvan.sql-crack`)",
+  "desc": "Extension for Visual Studio Code - Visualize SQL queries with interactive flow diagrams",
+  "link": "https://marketplace.visualstudio.com/items?itemName=buvan.sql-crack/",
+  "logo": "https://buvan.gallerycdn.vsassets.io/extensions/buvan/sql-crack/0.8.1/1777269411078/Microsoft.VisualStudio.Services.Icons.Default",
+  "background": "rgba(35,35,35,0.2)"
+}
+```
+
+
+```component VPCard
+{
   "title": "Text Power Tools (`qcz.text-power-tools`)",
   "desc": "All-in-one solution with 240+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.",
   "link": "https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools",

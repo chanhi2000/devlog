@@ -3756,5 +3756,19 @@
     "topics": ["javascript", "open-source", "uncensored", "muapi", "image-to-video", "unrestricted", "text-to-video", "creative-tools", "generative-ai", "ai-image-generation", "ai-art-generator", "midjourney-alternative", "ai-video-generation", "wan-video", "kling-ai", "higgsfield-ai", "higgsfield", "flux-1", "sora-alternative", "higgsfield-alternative"],
     "avatar": "https://avatars.githubusercontent.com/u/4326215?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/c3408c7d5485309bcc68892e7ff808fa5323c0cc979a1a8cf10d214f270da8da/Anil-matcha/Open-Generative-AI"
+  }, {
+    "repo": "DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "officialSite": "https://ponytail.dev",
+    "topics": ["developer-tools", "ai-agents", "claude", "yagni", "llm", "prompt-engineering", "agent-skills", "cursor-rules", "claude-code", "claude-code-plugin"],
+    "avatar": "https://avatars.githubusercontent.com/u/137048761?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1266797999/b20d9cb8-11f0-4db8-965a-7e22ab2b6bb6"
+  }, {
+    "repo": "coffeetron832/Giraffile",
+    "desc": "The giraffe that protects your files 🦒.",
+    "officialSite": "https://giraffile.pages.dev/",
+    "topics": ["file-sharing", "privacy-tools", "transfer-files"],
+    "avatar": "https://avatars.githubusercontent.com/u/209939144?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/1633d35825080c92f9d23b5724a6f6b0a3cdcec40a6f6d49f7cacfc534bd2f37/coffeetron832/Giraffile"
   }
 ]

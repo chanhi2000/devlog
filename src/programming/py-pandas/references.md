@@ -10,8 +10,8 @@ category:
 tag: 
   - blog
   - programming
-  - python
   - py
+  - python
   - pandas
   - py-pandas
 head:
@@ -141,14 +141,24 @@ head:
 
 - [Python Parquet and Arrow: Using PyArrow with Pandas](https://codesolid.com/python-pyarrow-and-parquet/)
 
+<!-- END: codesolid.com -->
+
 ---
 
 ## wrighters.io
 
-[Options to run pandas DataFrame.apply in parallel](https://www.wrighters.io/options-to-run-pandas-dataframe-apply-in-parallel/)
+- [Options to run pandas DataFrame.apply in parallel](https://wrighters.io/options-to-run-pandas-dataframe-apply-in-parallel/)
+
+<!-- END: Home - wrighters.io -->
 
 ---
 
+## OlegWock · Personal blog
 
+- [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers#large-scale-distributed-processing)
+
+<!-- END: sinja.io -->
+
+---
 
 <TagLinks />

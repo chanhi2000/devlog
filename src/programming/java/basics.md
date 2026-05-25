@@ -20,6 +20,14 @@ tag:
   - lombok
   - log4j
   - log4j2
+head:
+  - - meta:
+    - property: og:title
+      content: Java > Basics
+    - property: og:description
+      content: Basics
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/basics.html
 ---
 
 # {{ $frontmatter.title }} 관련

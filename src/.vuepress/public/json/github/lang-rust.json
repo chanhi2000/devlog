@@ -2767,5 +2767,54 @@
     "topics": [],
     "avatar": "https://avatars.githubusercontent.com/u/271927676?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/b48b918045c478026ac54a4a99cd2058e9b45777d92f19cdc2c50ec1cd626106/h4ckf0r0day/obscura"
+  }, {
+    "repo": "harehare/mq",
+    "desc": "A jq-like Markdown query language for command-line processing",
+    "officialSite": "https://mqlang.org",
+    "topics": ["markdown", "rust", "cli", "query", "interpreter", "language-server", "mcp", "repl", "scripting-language", "tui", "jq", "md"],
+    "avatar": "https://avatars.githubusercontent.com/u/533078?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/938149101/8e4acef4-989a-4dd8-87f5-56f7a4427b42"
+  }, {
+    "repo": "PerryTS/perry",
+    "desc": "A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.",
+    "officialSite": "https://www.perryts.com",
+    "topics": ["android", "windows", "macos", "ios", "typescript", "native", "watchos", "llvm", "compile", "smc", "harmonyos"],
+    "avatar": "https://avatars.githubusercontent.com/u/264572526?s=48&v=4",
+    "banner": "https://opengraph.githubassets.com/d00fdf390a65f5c3b78d2e318f48c203b21176df6c0fe013a10ee0e0e971efa0/PerryTS/perry"
+  }, {
+    "repo": "AprilNEA/OpenLogi",
+    "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "officialSite": "https://openlogi.org",
+    "topics": ["rust", "privacy", "hid", "dpi", "logitech", "hidpp", "logitech-mouse", "mx-master", "local-first", "gpui", "logitech-options", "mouse-remapping", "smartshift"],
+    "avatar": "https://avatars.githubusercontent.com/u/37977109?s=48&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1248194723/259c1661-0f83-419d-a02f-42ea4c994743"
+  }, {
+    "repo": "bruits/satteri",
+    "desc": "High-performance Markdown and MDX processing for the JavaScript ecosystem",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/c3a40cac72b027c40cbda89e73b2eed3175ca61ad60d5d4176a1d1f37dfb870d/bruits/satteri"
+  }, {
+    "repo": "tokio-rs/topcoat",
+    "desc": "A batteries-included framework for building web apps",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/bd9aff792db0012e113a14667909ba66d73a137fd791dda03d4f2c928da1bf18/tokio-rs/topcoat"
+  }, {
+    "repo": "jabdori/maxt",
+    "desc": "Multi-Asset eXchange Toolkit.",
+    "officialSite": "",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/35303552?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/0286cbe1e1bd5f631b4e8e80f223c1e513b4b08e66abd5c926cf38dd483eda1d/jabdori/maxt"
+  }, {
+    "repo": "JungHoonGhae/openkakao-cli",
+    "desc": "Unofficial KakaoTalk CLI for macOS — send/read without server login via macOS Accessibility automation (local-send/ax-read); server login is broken on recent builds.",
+    "officialSite": "https://openkakao.vercel.app",
+    "topics": ["automation", "cli", "kakaotalk", "macos", "reverse-engineering", "rust"],
+    "avatar": "",
+    "banner": "https://opengraph.githubassets.com/704bb167d1bfe0de1d7f9c97c311ee95e1d4a94acff58e51dd5b8f2d62b35a8b/JungHoonGhae/openkakao-cli"
   }
 ]

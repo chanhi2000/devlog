@@ -12,6 +12,8 @@ tag:
   - git
   - github
   - java
+  - jdk
+  - kt
   - kotlin
   - spring
   - springboot
@@ -20,7 +22,7 @@ head:
     - property: og:title
       content: Spring > Github
     - property: og:description
-      content: Spring > Github
+      content: Github
     - property: og:url
       content: https://chanhi2000.github.io/programming/java-spring/github.html
 ---

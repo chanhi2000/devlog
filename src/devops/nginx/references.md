@@ -4,10 +4,23 @@ title: References
 description: NGINX > References
 icon: fas fa-book-atlas
 category:
+  - DevOps
   - NGINX
   - References
 tag:
-  - NGINX
+  - devops
+  - nignx
+  - webserver
+  - web-server
+  - reverse-proxy
+head:
+  - - meta:
+    - property: og:title
+      content: NGINX > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/devops/nginx/refernces.html
 ---
 
 # {{ $frontmatter.description }} 관련

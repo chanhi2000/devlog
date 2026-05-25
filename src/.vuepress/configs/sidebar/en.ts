@@ -377,6 +377,25 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'Liquidbase',
+      collapsible: true,
+      icon: 'iconfont icon-liquidbase',
+      children: [
+        '/programming/java-liquidbase/README.md',
+        '/programming/java-liquidbase/references.md',
+        '/programming/java-liquidbase/github.md',
+        '/programming/java-liquidbase/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/java-liquidbase/articles/README.md',
+            asb.freecodecamp("java-liquidbase"),
+          ]
+        }
+      ]
+    }, {
       text: 'Armeria',
       collapsible: true,
       icon: 'iconfont icon-armeria',
@@ -1376,6 +1395,23 @@ export const sidebarEn = sidebar({
           children: [
             '/programming/py-airflow/articles/README.md',
             asb.shopify("py-airflow"),
+          ]
+        },
+      ]
+    }, {
+      text: 'Qiskit',
+      collapsible: true,
+      icon: 'iconfont icon-qiskit',
+      children: [
+        '/programming/py-qiskit/README.md',
+        '/programming/py-qiskit/references.md',
+        '/programming/py-qiskit/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-qiskit/articles/README.md',
           ]
         },
       ]
@@ -3790,6 +3826,24 @@ export const sidebarEn = sidebar({
             '/devops/nginx/articles/README.md',
             asb.tecmint("nginx"),            
             asb.codemaze("nginx"),            
+          ]
+        },
+      ]
+    }, {
+      text: 'New Relic',
+      collapsible: true,
+      icon: 'iconfont icon-newrelic',
+      children: [
+        '/devops/newrelic/README.md',
+        '/devops/newrelic/references.md',
+        '/devops/newrelic/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/newrelic/articles/README.md',
+            asb.freecodecamp("newrelic"),            
           ]
         },
       ]

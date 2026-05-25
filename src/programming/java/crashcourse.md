@@ -16,6 +16,14 @@ tag:
   - kotiln
   - android
   - gradle
+head:
+  - - meta:
+    - property: og:title
+      content: Java > Crashcourse
+    - property: og:description
+      content: Crashcourse
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/crashcourse.html
 ---
 
 # {{ $frontmatter.title }} 관련

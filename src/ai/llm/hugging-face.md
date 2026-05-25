@@ -37,6 +37,8 @@ head:
 - [`Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2`: SuperGemma4-26B-Uncensored-Fast v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2)
 - [`XiaomiMiMo/MiMo-V2.5` ](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)
 - [`akamotaco/ppaso-tts-v1`: Ppaso-TTS — Korean lightweight TTS (RK3576 NPU friendly)](https://huggingface.co/akamotaco/ppaso-tts-v1)
+- [`KRAFTON/A.X-K2-Raon-Speech-21B-A3B`: A.X K2 Raon-Speech](https://huggingface.co/KRAFTON/A.X-K2-Raon-Speech-21B-A3B)
+- [`kakaocorp/kanana-2-1.3b-base` Kanana-2 SLM](https://huggingface.co/kakaocorp/kanana-2-1.3b-base)
 
 ### Collections
 

@@ -52,12 +52,12 @@ head:
 - [[2023/11/06 ~ 11/12] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2023-11-06-11-12-ml-top-ml-papers-of-the-week/2838)
 - [상용 수준의 LLM 애플리케이션을 위한 개발자 가이드(The Developer's Guide to Production-Grade LLM Apps)](https://discuss.pytorch.kr/t/llm-the-developers-guide-to-production-grade-llm-apps/2919)
 - [대규모 언어 모델을 위한 검색-증강 생성(RAG) 기술 현황 - 1/2편](https://discuss.pytorch.kr/t/rag-1-2/3135)
-- [[2024/01/22 ~ 01/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-01-22-01-28-ml-top-ml-papers-of-the-week/3372)
+- [\[2024/01/22 ~ 01/28\] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-01-22-01-28-ml-top-ml-papers-of-the-week/3372)
 - [Road to Sora: OpenAI의 Sora를 이해하기 위한 선행 연구 소개 (feat. Oxen.AI)](https://discuss.pytorch.kr/t/road-to-sora-openai-sora-feat-oxen-ai/3846)
-- [[2024/04/22 ~ 04/28] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
+- [\[2024/04/22 ~ 04/28\] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-04-22-04-28-ml-top-ml-papers-of-the-week/4237)
 - [\[2024/06/03 ~ 06/09\] 이번 주의 주요 ML 논문 (Top ML Papers of the Week)](https://discuss.pytorch.kr/t/2024-06-03-06-09-ml-top-ml-papers-of-the-week/4600)
 - [VLMs are blind: 시각-언어 모델이 실패하는 (인간에게는 쉬운) 시각적 작업들에 대한 연구 (feat. BlindTest)](https://discuss.pytorch.kr/t/vlms-are-blind-feat-blindtest/4813/1)
-
+- [\[2026/06/01 ~ 07\] 이번 주에 살펴볼 만한 AI/ML 논문 모음](https://discuss.pytorch.kr/t/2026-06-01-07-ai-ml/10581)
 <!-- END: discuss.pytorch.kr -->
 
 ---

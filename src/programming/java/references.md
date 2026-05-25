@@ -8,6 +8,14 @@ category:
   - References
 tag: 
   - java
+head:
+  - - meta:
+    - property: og:title
+      content: Java > References
+    - property: og:description
+      content: References
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/java/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

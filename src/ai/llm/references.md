@@ -61,6 +61,8 @@ head:
 <PDF url="https://arxiv.org/pdf/2409.15173" />
 <PDF url="https://arxiv.org/pdf/2409.14924" />
 <PDF url="https://arxiv.org/pdf/2402.10200" />
+<PDF url="https://arxiv.org/pdf/2605.06445" />
+<PDF url="https://arxiv.org/pdf/2606.16140" />
 
 ---
 
@@ -83,6 +85,10 @@ head:
 - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 
 ---
+
+## <VPIcon icon="fa-brands fa-dev"/>Dev.to
+
+- [`johnonlee` / Why We Need Behavioral Benchmarks for LLMs — Not Just More Knowledge Tests](https://dev.to/johnonlee/why-we-need-behavioral-benchmarks-for-llms-not-just-more-knowledge-tests-490f)
 
 ## <VPIcon icon="fa-brands fa-medium"/>Medium
 
@@ -112,7 +118,7 @@ head:
 - [`@euisuk-chung` / 2025년 AI 트렌드: LMM, LAM, 온디바이스 AI, AI 에이전트, 임베디드 AI, 그리고 FMOps](https://velog.io/@euisuk-chung/2025%EB%85%84-AI-%ED%8A%B8%EB%A0%8C%EB%93%9C-LMM-LAM-%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-AI-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-AI-%EA%B7%B8%EB%A6%AC%EA%B3%A0-FMOps)
 - [`@euisuk-chung` / \[트렌드\] 트렌스포머 이후의 차세대 아키텍쳐: MoE, SSM, RetNet, V-JEPA](https://velog.io/@euisuk-chung/%ED%8A%B8%EB%A0%8C%EB%93%9C-%ED%8A%B8%EB%A0%8C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%9D%B4%ED%9B%84%EC%9D%98-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-MoE-SSM-RetNet-V-JEPA)
 - [`@euisuk-chung` / \[NLP\] 5. 자연어 차원 축소(Dimension Reduction) 기법](https://velog.io/@euisuk-chung/NLP-Dimension-Reduction-Methods)
-
+- [`@teo` / 우리, 프로그래머들 — .md로 코딩하는 시대](https://velog.io/@teo/we-programmer)
 <!-- END: velog.io -->
 
 ---
@@ -690,6 +696,14 @@ head:
 - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 
 <!-- END: larsfaye.com -->
+
+---
+
+## sean goedecke
+
+- [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/)
+
+<!-- END: seangoedecke.com -->
 
 ---
 
