@@ -1,26 +1,26 @@
 ---
 lang: ko-KR
 title: Youtube
-description: Jupyter > Youtube
+description: vLLM > Youtube
 icon: fa-brands fa-youtube
 category:
   - Python
-  - Jupyter
+  - vLLM
   - Youtube
-tag: 
+tag:
   - py
   - python
-  - jupyter
+  - vllm
   - youtube
   - tutorial
 head:
   - - meta:
     - property: og:title
-      content: Jupyter > Youtube
+      content: vLLM > Youtube
     - property: og:description
       content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/programming/py-jupyter/youtube.html
+      content: https://chanhi2000.github.io/programming/py-vllm/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련
@@ -28,7 +28,5 @@ head:
 [[toc]]
 
 ---
-
-<MyYouTubeItems jsonName="yu-user-zx1rk8qx6q" /><!-- 실용주의 프로그래머 -->
 
 <TagLinks/>

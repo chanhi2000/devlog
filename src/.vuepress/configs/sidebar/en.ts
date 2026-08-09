@@ -1344,6 +1344,25 @@ export const sidebarEn = sidebar({
         }
       ]
     }, {
+      text: 'vLLM',
+      collapsible: true,
+      icon: 'iconfont icon-vllm',
+      children: [
+        '/programming/py-vllm/README.md',
+        '/programming/py-vllm/github.md',
+        '/programming/py-vllm/references.md',
+        '/programming/py-vllm/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/programming/py-vllm/articles/README.md',
+            asb.freecodecamp("py-vllm"),
+          ]
+        }
+      ]
+    }, {
       text: 'Celery',
       collapsible: true,
       icon: 'iconfont icon-py-celery',
@@ -3274,7 +3293,7 @@ export const sidebarEn = sidebar({
     },  {
       text: 'Istio',
       collapsible: true,
-      icon: 'iconfont icon-k8s',
+      icon: 'iconfont icon-istio',
       children: [
         '/devops/k8s-istio/README.md',
         '/devops/k8s-istio/references.md',
@@ -3483,6 +3502,40 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/devops/fly/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Hugo',
+      collapsible: true,
+      icon: 'iconfont icon-hugo',
+      children: [
+        '/devops/hugo/README.md',
+        '/devops/hugo/references.md',
+        '/devops/hugo/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/hugo/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: '11ty',
+      collapsible: true,
+      icon: 'iconfont icon-eleventy',
+      children: [
+        '/devops/11ty/README.md',
+        '/devops/11ty/references.md',
+        '/devops/11ty/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/11ty/articles/README.md',
           ]
         }
       ]
@@ -4435,6 +4488,23 @@ export const sidebarEn = sidebar({
           icon: 'fas fa-square-share-nodes',
           children: [
             '/ai/v0/articles/README.md',
+          ]
+        }
+      ]
+    }, {
+      text: 'Trae',
+      collapsible: true,
+      icon: 'iconfont icon-trae',
+      children: [
+        '/ai/trae/README.md',
+        '/ai/trae/references.md',
+        '/ai/trae/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/ai/trae/articles/README.md',
           ]
         }
       ]

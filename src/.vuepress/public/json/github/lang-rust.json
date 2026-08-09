@@ -2816,5 +2816,24 @@
     "topics": ["automation", "cli", "kakaotalk", "macos", "reverse-engineering", "rust"],
     "avatar": "",
     "banner": "https://opengraph.githubassets.com/704bb167d1bfe0de1d7f9c97c311ee95e1d4a94acff58e51dd5b8f2d62b35a8b/JungHoonGhae/openkakao-cli"
+  }, {
+    "repo": "MovieHolic-Plex/codex-mic",
+    "desc": "Ctrl+E voice dictation tool using Codex realtime API (ChatGPT OAuth, no API key) — Tauri + Rust + cpal",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/47550825?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/217ded50778b943e6693565436ae38e6fc22fc5f82f2b84179609e0725ffb2ee/MovieHolic-Plex/codex-mic"
+  }, {
+    "repo": "taevel02/Sift",
+    "desc": "10x Faster, Safety-First Local File Organizer & Automation Engine ⚡",
+    "topics": ["cli", "command-line", "file-organizer", "mac", "macos", "organizer", "organizer-tools", "productivity", "rust", "tui"],
+    "avatar": "https://avatars.githubusercontent.com/u/38127960?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/a259424d164d4ba74f4a2dfeecbcfb7ca455369108f15369dddf376abc8409aa/taevel02/Sift"
+  }, {
+    "repo": "xberg-io/xberg",
+    "desc": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 15 language bindings — Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — plus CLI, REST API, and MCP server.",
+    "officialSite": "https://docs.xberg.io",
+    "topics": ["bun", "csharp", "document-intelligence", "elixir", "ffi", "golang", "java", "metadata-extraction", "node", "pdf-extraction", "pdfium", "php", "python", "rag", "ruby", "rust", "table-extraction", "tesseract", "text-extraction", "wasm"],
+    "avatar": "https://avatars.githubusercontent.com/u/241328462?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/925434317/5e1961be-a803-4b90-9269-68fb63f2c4b4"
   }
 ]

@@ -25,6 +25,14 @@ tag:
 
 ---
 
+## <VPIcon icon="fa-brands fa-google"/>Google For Developers
+
+- [Why Go is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+
+<!-- END: developers.googleblog.com -->
+
+---
+
 ## <VPIcon icon="iconfont icon-github"/>Github
 
 ```component VPCard

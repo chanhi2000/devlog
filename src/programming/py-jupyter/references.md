@@ -8,10 +8,9 @@ category:
   - Jupyter
   - References
 tag:
-  - python
   - py
-  - juypter
-  - spark
+  - python
+  - jupyter
 head:
   - - meta:
     - property: og:title

@@ -2904,5 +2904,11 @@
     "topics": ["notifications", "react", "javascript", "api", "golang", "cloud", "privacy", "selfhosted", "hosting", "self-hosted", "free-software", "self-hosting", "gotify"],
     "avatar": "https://avatars.githubusercontent.com/u/36410427?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/9101ef73d836843d5c3bc93a7cfe7cf8baef3b436dccaddf60c3d11ddae5e0cb/gotify/server"
+  }, {
+    "repo": "watzon/goshot",
+    "desc": "🎨 Create beautiful code screenshots with customizable styles ",
+    "topics": ["carbon-alternative", "cli-tool", "code-snippets", "developer-tools", "documentation-tools", "golang", "image-generation", "presentation-tools", "screenshots", "syntax-highlighting"],
+    "avatar": "https://avatars.githubusercontent.com/u/4535422?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/5efa5702080658aeaeb153c8149c3c45fb203f5c1b422517312e1d763efe47a4/watzon/goshot"
   }
 ]

@@ -205,6 +205,7 @@ export const navbarEn = navbar([
           '/programming/py-spark/README.md',
           '/programming/py-anaconda/README.md',
           '/programming/py-jupyter/README.md',
+          '/programming/py-vllm/README.md',
           '/programming/py-celery/README.md',
           '/programming/py-locust/README.md',
           '/programming/py-airflow/README.md',
@@ -466,6 +467,14 @@ export const navbarEn = navbar([
         text: 'Fly',
         icon: 'fa-brands fa-fly',
         link: '/devops/fly/README.md',
+      }, {
+        text: 'Hugo',
+        icon: 'iconfont icon-hugo',
+        link: '/devops/hugo/README.md',
+      }, {
+        text: '11ty',
+        icon: 'iconfont icon-eleventy',
+        link: '/devops/11ty/README.md',
       }, {
         text: 'OCI',
         icon: 'iconfont icon-oci',
@@ -765,6 +774,7 @@ export const navbarEn = navbar([
           '/ai/openclaw/README.md',
           '/ai/zapier/README.md',
           '/ai/v0/README.md',
+          '/ai/trae/README.md',
         ]
       }, 
     ]

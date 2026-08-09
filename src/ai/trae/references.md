@@ -1,30 +1,27 @@
 ---
 lang: ko-KR
-title: Article(s)
-description: v0 > Article(s)
-icon: fas fa-square-share-nodes
+title: References
+description: Trae > References
+icon: fas fa-book-atlas
 category: 
   - AI
   - LLM
-  - Vercel
-  - v0
-  - Article(s)
+  - Trae
+  - References
 tag: 
-  - blog
   - ai
   - artificial-intelligence
   - llm
   - large-language-models
-  - vercel
-  - v0
+  - trae
 head:
   - - meta:
     - property: og:title
-      content: v0 > Article(s)
+      content: Trae > References
     - property: og:description
-      content: Article(s)
+      content: References
     - property: og:url
-      content: https://chanhi2000.github.io/ai/v0/articles/
+      content: https://chanhi2000.github.io/ai/trae/references.html
 ---
 
 # {{ $frontmatter.title }} 관련

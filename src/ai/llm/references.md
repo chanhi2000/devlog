@@ -63,6 +63,27 @@ head:
 <PDF url="https://arxiv.org/pdf/2402.10200" />
 <PDF url="https://arxiv.org/pdf/2605.06445" />
 <PDF url="https://arxiv.org/pdf/2606.16140" />
+<PDF url="https://openreview.net/pdf?id=klU4737opt" />
+
+```component VPCard
+{
+  "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
+  "desc": "Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported review processes in which large language model (LLM) reviewers and AI agent reviewers participate alongside human reviewers. However...",
+  "link": "https://arxiv.org/html/2607.13196v1",
+  "logo": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
+  "background": "rgba(33,152,212,0.2)"
+}
+```
+
+```component VPCard
+{
+  "title": "Human-AI Synergy in Agentic Code Review",
+  "desc": "Code review is a critical software engineering practice where developers review code changes before integration to ensure code quality, detect defects, and improve maintainability. In recent years, AI agents that can understand code context, plan review actions, and interact with development environments have been increasingly integrated into the code review process. However, there is limited empirical evidence to compare...",
+  "link": "https://arxiv.org/html/2603.15911/",
+  "logo": "https://arxiv.org/static/browse/0.3.4/images/icons/favicon-16x16.png",
+  "background": "rgba(33,152,212,0.2)"
+}
+```
 
 ---
 
@@ -100,6 +121,8 @@ head:
 - [`jhk0530` / LG의 오픈소스 AI, 엑사원 3.0 사용후기](https://jhk0530.medium.com/lg-exaone-3-0-0e7221db6356?source=rss-cb820693bed5------2)
 - [`datastrato` / Building A Universal Data Agent in 15 Minutes with LlamaIndex and Apache Gravitino (incubating)](https://medium.com/datastrato/building-a-universal-data-agent-in-15-minutes-with-llamaindex-and-apache-gravitino-incubating-401ea24a3b39)
 - [`sarmadafzalj` / Visualize Vector Embeddings in a RAG System](https://medium.com/@sarmadafzalj/visualize-vector-embeddings-in-a-rag-system-89d0c44a3be4)
+- [`mirakl.tech` / You Can Prompt a Prototype. You Can’t Prompt Taste.](https://mirakl.tech/you-can-prompt-a-prototype-you-cant-prompt-taste-eef2aa77b5a5)
+- [`airbnb-engineering` / Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 
 <!-- END: medium.com -->
 
@@ -704,6 +727,14 @@ head:
 - [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/)
 
 <!-- END: seangoedecke.com -->
+
+---
+
+## Lil'Log
+
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
+
+<!-- END: lilianweng.github.io -->
 
 ---
 

@@ -11,8 +11,8 @@ tag:
   - blog
   - freecodecamp.org
   - meetup.nhncloud.com
-  - python
   - py
+  - python
   - jupyter
 head:
   - - meta:

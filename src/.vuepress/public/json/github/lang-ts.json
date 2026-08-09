@@ -5304,5 +5304,25 @@
     "topics": ["agent", "agent-collaboration", "agent-harness", "ai", "cao", "chatgpt", "chief-agent-operator", "claude", "deepseek", "fable", "gemini", "glm", "gpt", "knowledge-base", "loop-engineering", "mcp", "openai", "skills"],
     "avatar": "https://avatars.githubusercontent.com/u/131470832?s=60&v=4",
     "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/643445235/1978054a-0d8d-41a7-b1f0-b9ca79278534?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260804T232601Z&X-Amz-Expires=300&X-Amz-Signature=d6682f82ea8b70cda8dffb4fb014cef03445eafe1b60b7847b57646efe6edef8&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg4NjI2MSwibmJmIjoxNzg1ODg1OTYxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.oNdAD2YKckOjRdHT4kAI5RWk4KGxl2juhXO0R18DPRQ"
+  }, {
+    "repo": "stablyai/orca",
+    "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "officialSite": "https://onOrca.dev",
+    "topics": ["ade", "agent-ide", "ai-agents", "claude-code", "cli", "codex", "cursor-agent", "devtools", "ghostty", "ide", "mobile-app", "opencode", "orchestration", "parallel-agents", "pi", "terminal", "worktrees", "yc-backed"],
+    "avatar": "https://avatars.githubusercontent.com/u/127256420?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/b4fecd19f1e10118406f729c1279984f058924f0c131ce506253a99678a54207/stablyai/orca"
+  }, {
+    "repo": "devslab-kr/editor-ruler",
+    "desc": "A Word-like horizontal ruler for web rich-text editors: margin/first-line-indent drag handles, a vertical ruler, guides with snapping. Editor-agnostic zero-dependency core + Froala, Tiptap, and CKEditor 5 adapters.",
+    "officialSite": "https://devslab-kr.github.io/editor-ruler/",
+    "topics": ["ckeditor", "ckeditor5", "contenteditable", "editor-plugin", "froala", "indent", "rich-text-editor", "ruler", "tiptap", "typescript", "wysiwyg"],
+    "avatar": "https://avatars.githubusercontent.com/u/161801618?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/ca0cbc3ddef148b20cd34991e46abc6fe05186d3b6df5947e7f25d2df5aa664e/devslab-kr/editor-ruler"
+  }, {
+    "repo": "golbin/hop",
+    "officialSite": "https://golbin.github.io/hop/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/6277035?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/1b65fa8f30f0c4f909b6efaf4942328c67b15619275b8d5c3b20298f11d945cc/golbin/hop"
   }
 ]

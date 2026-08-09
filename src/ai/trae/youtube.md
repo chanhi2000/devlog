@@ -1,30 +1,29 @@
 ---
 lang: ko-KR
-title: Article(s)
-description: v0 > Article(s)
-icon: fas fa-square-share-nodes
+title: Youtube
+description: Trae > Youtube
+icon: fa-brands fa-youtube
 category: 
   - AI
   - LLM
-  - Vercel
-  - v0
-  - Article(s)
-tag: 
-  - blog
+  - Trae
+  - Youtube
+tag:
   - ai
   - artificial-intelligence
   - llm
   - large-language-models
-  - vercel
-  - v0
+  - trae
+  - youtube
+  - tutorial
 head:
   - - meta:
     - property: og:title
-      content: v0 > Article(s)
+      content: Trae > Youtube
     - property: og:description
-      content: Article(s)
+      content: Youtube
     - property: og:url
-      content: https://chanhi2000.github.io/ai/v0/articles/
+      content: https://chanhi2000.github.io/ai/trae/youtube.html
 ---
 
 # {{ $frontmatter.title }} 관련

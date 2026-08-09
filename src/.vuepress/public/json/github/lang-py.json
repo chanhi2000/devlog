@@ -8559,5 +8559,12 @@
     "topics": ["aliases", "email", "flask", "hacktoberfest", "simplelogin"],
     "avatar": "https://avatars.githubusercontent.com/u/51910064?s=60&v=4",
     "banner": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/228877522/8a4c7600-2fcd-11eb-9352-88040768a2a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T001255Z&X-Amz-Expires=300&X-Amz-Signature=67b9cffcdce68bd0934472a7fa5ccd9a4d996fdb7d55544cafc163e876b3dcc0&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTk3NTQ3NSwibmJmIjoxNzg1OTc1MTc1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.7ME6sZwFYxw0YRFQOVF9nLVKtz05kmOqSkYnbnj9EWc"
+  }, {
+    "repo": "unslothai/unsloth",
+    "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "officialSite": "https://unsloth.ai/docs",
+    "topics": ["agent", "chatgpt", "deepseek", "fine-tuning", "gemma", "gemma3", "gpt-oss", "image-generation", "llama", "llm", "llms", "openai", "qwen", "reinforcement-learning", "self-hosted", "stable-diffusion", "text-to-speech", "tts", "ui", "unsloth"],
+    "avatar": "https://avatars.githubusercontent.com/u/150920049?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/5681632247e41b3c3886ed7fc6877f190205acae818cf5785ce833dc97171b6e/unslothai/unsloth"
   }
 ]

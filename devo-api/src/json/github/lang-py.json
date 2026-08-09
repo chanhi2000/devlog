@@ -3706,13 +3706,6 @@
     "avatar": "",
     "banner": ""
   }, {
-    "repo": "unslothai/unsloth",
-    "desc": "5X faster 50% less memory LLM finetuning",
-    "officialSite": "https://unsloth.ai/",
-    "topics": ["ai", "finetuning", "llm"],
-    "avatar": "",
-    "banner": ""
-  }, {
     "repo": "OthersideAI/self-operating-computer",
     "desc": "A framework to enable multimodal models to operate a computer.",
     "officialSite": "",
@@ -5887,13 +5880,6 @@
     "desc": "An experimental GPU shading DSL embedded in Python.",
     "officialSite": "",
     "topics": ["computer-graphics", "dsl", "edsl", "metaprogramming", "python", "shaders", "shading-language"],
-    "avatar": "",
-    "banner": ""
-  }, {
-    "repo": "unslothai/unsloth",
-    "desc": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
-    "officialSite": "https://unsloth.ai",
-    "topics": ["ai", "fine-tuning", "finetuning", "gemma", "llama", "llama2", "llms", "lora", "mistral", "qlora"],
     "avatar": "",
     "banner": ""
   }, {

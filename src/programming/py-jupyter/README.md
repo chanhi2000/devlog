@@ -7,9 +7,17 @@ category:
   - Python
   - Jupyter
 tag:
-  - python
   - py
+  - python
   - jupyter
+head:
+  - - meta:
+    - property: og:title
+      content: Jupyter
+    - property: og:description
+      content: Jupyter
+    - property: og:url
+      content: https://chanhi2000.github.io/programming/py-jupyter/
 ---
 
 # {{ $frontmatter.description }} 관련

@@ -1,41 +1,31 @@
 ---
 lang: ko-KR
 title: Github
-description: Jupyter > Github
+description: vLLM > Github
 icon: fa-brands fa-github
 category:
   - Python
-  - Jupyter
+  - vLLM
   - Github
 tag:
   - py
   - python
-  - jupyter
+  - vllm
   - git
   - github
 head:
   - - meta:
     - property: og:title
-      content: Jupyter > Github
+      content: vLLM > Github
     - property: og:description
       content: Github
     - property: og:url
-      content: https://chanhi2000.github.io/programming/py-jupyter/github.html
+      content: https://chanhi2000.github.io/programming/py-vllm/github.html
 ---
 
 # {{ $frontmatter.title }} 관련
 
 [[toc]]
-
----
-
-## Jupyter Notebook
-
-<MyGithubItems jsonName="lang-jupyter-noteook" />
-
-### Tutorial
-
-<MyGithubItems jsonName="lang-jupyter-noteook-tut" />
 
 ---
 

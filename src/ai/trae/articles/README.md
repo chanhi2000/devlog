@@ -1,13 +1,12 @@
 ---
 lang: ko-KR
 title: Article(s)
-description: v0 > Article(s)
+description: Trae > Article(s)
 icon: fas fa-square-share-nodes
 category: 
   - AI
   - LLM
-  - Vercel
-  - v0
+  - Trae
   - Article(s)
 tag: 
   - blog
@@ -15,16 +14,15 @@ tag:
   - artificial-intelligence
   - llm
   - large-language-models
-  - vercel
-  - v0
+  - trae
 head:
   - - meta:
     - property: og:title
-      content: v0 > Article(s)
+      content: Trae > Article(s)
     - property: og:description
       content: Article(s)
     - property: og:url
-      content: https://chanhi2000.github.io/ai/v0/articles/
+      content: https://chanhi2000.github.io/ai/trae/articles/
 ---
 
 # {{ $frontmatter.title }} 관련

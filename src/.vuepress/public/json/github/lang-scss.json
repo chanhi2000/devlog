@@ -55,5 +55,12 @@
     "topics": ["tailwindcss", "tailwindcss-ui", "tailwindcss-template", "tailwindcss-components", "tailwindcss-components-library"],
     "avatar": "https://avatars.githubusercontent.com/u/6296241?v=4",
     "banner": "https://repository-images.githubusercontent.com/427439360/61b5cf8c-253f-4b63-abf4-70bd9f495dd3"
+  }, {
+    "repo": "Nutlope/hallmark",
+    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "officialSite": "https://www.usehallmark.com/",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/63742054?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/35c97fbd2d6e701778d7488024ab85ad9572dd7bcf9e1299fe9275fd34b53482/Nutlope/hallmark"
   }
 ]
