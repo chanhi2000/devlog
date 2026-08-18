@@ -33,6 +33,7 @@ head:
 
 ## <VPIcon icon="iconfont icon-huggingface"/>Hugging Face
 
+- [`orcarouter/Qwen3.8-27B-Uncensored-MLX`: An abliterated (refusal-removed) MLX build of Qwen's Qwen3.8-27B — 2 / 4 / 6 / 8-bit for Apple Silicon](https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX)
 - [`stepfun-ai/GOT-OCR2_0`: General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
 - [`Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2`: SuperGemma4-26B-Uncensored-Fast v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2)
 - [`XiaomiMiMo/MiMo-V2.5` ](https://huggingface.co/XiaomiMiMo/MiMo-V2.5)

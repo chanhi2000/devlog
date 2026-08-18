@@ -8566,5 +8566,24 @@
     "topics": ["agent", "chatgpt", "deepseek", "fine-tuning", "gemma", "gemma3", "gpt-oss", "image-generation", "llama", "llm", "llms", "openai", "qwen", "reinforcement-learning", "self-hosted", "stable-diffusion", "text-to-speech", "tts", "ui", "unsloth"],
     "avatar": "https://avatars.githubusercontent.com/u/150920049?s=60&v=4",
     "banner": "https://opengraph.githubassets.com/5681632247e41b3c3886ed7fc6877f190205acae818cf5785ce833dc97171b6e/unslothai/unsloth"
+  }, {
+    "repo": "Marker-Inc-Korea/ko-pii",
+    "desc": "한국어 PII 검출 + 가명화 Python 라이브러리",
+    "topics": ["data-protection", "hwp", "korean", "pii", "privacy", "pseudonymization", "python", "rag"],
+    "avatar": "https://avatars.githubusercontent.com/u/74290595?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/4a2ca7d966f840de8d48d3404303e3f8a060a588d8bf1ce5fa724657117af50d/Marker-Inc-Korea/ko-pii"
+  }, {
+    "repo": "SeoNaRu/nulnul-harness",
+    "desc": "A minimal, evidence-gated harness for Codex and Claude Code: reuse what works, add only what is missing, verify before evolving.",
+    "topics": ["agent-harness", "agentic-workflows", "ai-agents", "ai-coding-agents", "claude-code", "claude-code-plugin", "codex", "developer-tools", "open-source"],
+    "avatar": "https://avatars.githubusercontent.com/u/108949232?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/23d6b7f9596ad24b335ec871ceb740970708c2c66f2e7ab26835af7c43557b73/SeoNaRu/nulnul-harness"
+  }, {
+    "repo": "opensandbox-group/OpenSandbox",
+    "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+    "officialSite": "https://open-sandbox.ai",
+    "topics": ["ai", "ai-agent", "ai-infra", "kubernetes", "sandbox"],
+    "avatar": "https://avatars.githubusercontent.com/u/290567599?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1118085970/4e9a8d1f-1394-4210-8c11-d77301b62b39"
   }
 ]

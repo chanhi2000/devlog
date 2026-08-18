@@ -58,5 +58,12 @@
     "topics": ["ui-design", "ui", "dashboard", "shadcn-ui", "shadcn"],
     "avatar": "https://avatars.githubusercontent.com/u/250435562?s=48&v=4",
     "banner": "https://opengraph.githubassets.com/0db488194493b4d28660931c4b5153ed3d54b8e708f86424db3181561f98b541/WatermelonCorp/watermellon-registry"
+  }, {
+    "repo": "kudzujs/kudzu",
+    "desc": "Compile React-shaped TypeScript and TSX into static HTML and route-specific JavaScript — no React runtime, virtual DOM, or hydration.",
+    "officialSite": "https://kudzujs.cloud",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/306944578?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/c19250ca8cb87653447373a4eaa46a70a6149fb9eca0eee84b47be23a096333f/kudzujs/kudzu"
   }
 ]

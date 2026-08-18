@@ -424,6 +424,7 @@ export const navbarEn = navbar([
           '/devops/testcontainer/README.md',
           '/devops/podman/README.md',
           '/devops/k8s/README.md',
+          '/devops/k8s-helm/README.md',
           '/devops/k8s-istio/README.md',
           '/devops/openshift/README.md',
         ]

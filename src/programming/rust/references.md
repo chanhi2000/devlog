@@ -535,11 +535,21 @@ head:
 
 <!-- END: corrode.dev -->
 
+---
+
 ## The Pragmatic Engineer - The Pragmatic Engineer
 
 - [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)
 
 <!-- END: blog.pragmaticengineer.com -->
+
+---
+
+## Sylvain Kerkour
+
+- [Building scalable backend services with Rust and PostgreSQL](https://kerkour.com/rust-scalable-backend-services)
+
+<!-- END: kerkour.com -->
 
 ---
 

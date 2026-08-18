@@ -148,6 +148,7 @@ head:
 
 ## Substack
 
+- [`addyo` / Practical Loop Engineering](https://addyo.substack.com/p/practical-loop-engineering)
 - [`aiencoder` / GraphRAG Analysis, Part 1: How Indexing Elevates Knowledge Graph Performance in RAG](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 - [`weightythoughts` / Consider the Llama](https://weightythoughts.com/p/consider-the-llama)
 
