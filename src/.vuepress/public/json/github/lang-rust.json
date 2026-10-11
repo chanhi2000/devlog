@@ -2835,5 +2835,19 @@
     "topics": ["bun", "csharp", "document-intelligence", "elixir", "ffi", "golang", "java", "metadata-extraction", "node", "pdf-extraction", "pdfium", "php", "python", "rag", "ruby", "rust", "table-extraction", "tesseract", "text-extraction", "wasm"],
     "avatar": "https://avatars.githubusercontent.com/u/241328462?s=60&v=4",
     "banner": "https://repository-images.githubusercontent.com/925434317/5e1961be-a803-4b90-9269-68fb63f2c4b4"
+  }, {
+    "repo": "VisiGrid/VisiGrid",
+    "desc": "A fast, keyboard-first, local-only spreadsheet for people who care about flow.",
+    "officialSite": "https://visigrid.app",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/255476433?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/9641058c190e350c623d8d42851cfd84fa6ba7da73d036a11415c5bb54eaeb06/VisiGrid/VisiGrid"
+  }, {
+    "repo": "RyanCodrai/turbovec",
+    "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "officialSite": "https://pypi.org/project/turbovec/",
+    "topics": ["ann", "avx512", "embedding", "embeddings", "faiss", "nearest-neighbor", "neon", "python", "quant", "quantization", "rag", "rust", "simd", "turboquant", "vector-search"],
+    "avatar": "https://avatars.githubusercontent.com/u/10856497?s=60&v=4",
+    "banner": "https://repository-images.githubusercontent.com/1192555574/000b661c-3519-42a5-9609-d5051c50c2f0"
   }
 ]

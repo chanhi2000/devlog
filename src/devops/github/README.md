@@ -6,11 +6,9 @@ icon: fa-brands fa-github
 category:
   - DevOps
   - Github
-  - Git
 tag:
   - devops
   - github
-  - git
 head:
   - - meta:
     - property: og:title

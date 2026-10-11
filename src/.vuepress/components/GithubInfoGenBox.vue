@@ -42,15 +42,15 @@
 <script>
 // import VPIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/FontIcon'
 // import { Notice } from '../../../node_modules/@vuepress/plugin-notice/lib/client/components'
-import { VPIcon } from '../../../node_modules/@vuepress/plugin-icon/lib/client'
-import * as Prism from 'prismjs'
+// import { VPIcon } from '../../../node_modules/@vuepress/plugin-icon/lib/client'
+// import * as Prism from 'prismjs'
 
-import 'prismjs/components/prism-json'
-import 'prismjs/plugins/line-numbers/prism-line-numbers'
-import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
+// import 'prismjs/components/prism-json'
+// import 'prismjs/plugins/line-numbers/prism-line-numbers'
+// import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 export default {
   name: "GithubInfoGenBox",
-  components: { VPIcon },
+  // components: { VPIcon },
   data() {
     return {
       text: '',
@@ -90,9 +90,9 @@ export default {
     renderResponseToCodeSnippet(json) {
       if (__IS_DEBUG__) console.log(`renderResponseToCodeSnippet ... json: ${json}`)
       const code = json;
-      const html = Prism.highlight(code, Prism.languages['json'], 'json');
-      if (__IS_DEBUG__) console.log(html)
-      this.renderedContent = html
+      // const html = Prism.highlight(code, Prism.languages['json'], 'json');
+      // if (__IS_DEBUG__) console.log(html)
+      // this.renderedContent = html
     }
   },
   mounted() {

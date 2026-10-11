@@ -40,15 +40,15 @@
 </template>
 <script>
 // import VPIcon from '../../../node_modules/vuepress-plugin-components/lib/client/components/VPIcon'
-import { VPIcon } from '../../../node_modules/@vuepress/plugin-icon/lib/client'
-import * as Prism from 'prismjs'
-import axios from 'axios'
-import 'prismjs/components/prism-json'
-import 'prismjs/plugins/line-numbers/prism-line-numbers'
-import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
+// import { VPIcon } from '../../../node_modules/@vuepress/plugin-icon/lib/client'
+// import * as Prism from 'prismjs'
+// import axios from 'axios'
+// import 'prismjs/components/prism-json'
+// import 'prismjs/plugins/line-numbers/prism-line-numbers'
+// import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 export default {
   name: "YouTubeInfoGenBox",
-  components: { VPIcon },
+  // components: { VPIcon },
   data() {
     return {
       text: '',

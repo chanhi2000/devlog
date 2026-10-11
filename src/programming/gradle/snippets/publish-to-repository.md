@@ -109,7 +109,7 @@ publish.dependsOn war
 
 > .<VPIcon icon="fas fa-folder-open"/>`./`<VPIcon icon="fas fa-file-lines"/>`gradle.properties`
 
-```properties
+```properties{4-5} title="gradle.properties"
 # nexus
 #
 # 아래 내용은 배포할 서버마다 다르므로 값 부여 방법만 참고

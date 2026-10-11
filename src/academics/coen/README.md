@@ -11,6 +11,14 @@ tag:
   - coen
   - computerengineering
   - computer-engineering
+head:
+  - - meta:
+    - property: og:title
+      content: Computer Engineering
+    - property: og:description
+      content: Computer Engineering
+    - property: og:url
+      content: https://chanhi2000.github.io/academics/coen/
 ---
 
 # {{ $frontmatter.description }} 관련

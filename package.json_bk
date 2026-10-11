@@ -1,0 +1,70 @@
+{
+  "name": "chanhi2000.github.io",
+  "description": "My Personal Super Mindmap",
+  "version": "0.15.14",
+  "private": true,
+  "license": "MIT",
+  "authors": {
+    "name": "Chan Hee Lee",
+    "email": "chanhi2000@gmail.com"
+  },
+  "type": "module",
+  "repository": "https://github.com/chanhi2000/devlog",
+  "workspaces": [
+    "devo-api",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS='--inspect' vuepress-vite dev src",
+    "clean-dev": "cross-env NODE_OPTIONS='--inspect' vuepress-vite dev src --clean-cache",
+    "build": "cross-env NODE_OPTIONS='--max-old-space-size=16384' vuepress-vite build src",
+    "clean-build": "cross-env NODE_OPTIONS='--max-old-space-size=16384' vuepress-vite build src --clean-cache",
+    "devo-api-build": "pnpm --prefix ./devo-api build",
+    "start-proxy": "pnpm --prefix ./scripts start-proxy",
+    "fetch": "pnpm --prefix ./scripts fetch",
+    "fetchMd": "pnpm --prefix ./scripts fetchMd"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "catalog:vuepress",
+    "@vuepress/plugin-register-components": "catalog:vuepress",
+    "axios": "catalog:",
+    "fs-extra": "catalog:range",
+    "dotenv": "catalog:",
+    "express": "catalog:",
+    "rollup-plugin-visualizer": "5.12.0",
+    "vue": "catalog:",
+    "vue-tsc": "catalog:",
+    "vuepress": "catalog:vuepress",
+    "vuepress-plugin-markdown-define2": "catalog:vuepress",
+    "vuepress-theme-hope": "catalog:vuepress"
+  },
+  "dependencies": {
+    "@vuepress/plugin-photo-swipe": "catalog:vuepress",
+    "@vuepress/plugin-prismjs": "catalog:vuepress",
+    "baseline-status": "catalog:range",
+    "chart.js": "catalog:range",
+    "cross-env": "catalog:range",
+    "copyfiles": "2.4.1",
+    "dashjs": "catalog:range",
+    "echarts": "catalog:range",
+    "flowchart.ts": "catalog:range",
+    "hls.js": "catalog:range",
+    "http-proxy-middleware": "^3.0.0",
+    "kotlin-playground": "catalog:range",
+    "mermaid": "catalog:range",
+    "sass-embedded": "catalog:range",
+    "sass-loader": "catalog:range",
+    "vidstack": "catalog:range",
+    "moment": "^2.29.4",
+    "sandpack-vue3": "3.1.11",
+    "sqlite3": "^5.1.7",
+    "turndown": "7.2.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "overrides": {}
+  
+}

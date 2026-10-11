@@ -23,10 +23,10 @@
 
 <script>
 // import VidStack from '../../../node_modules/vuepress-plugin-components/lib/client/components/VidStack'
-import { VidStack } from '../../../node_modules/vuepress-theme-hope/node_modules/vuepress-plugin-components/lib/client'
+// import { VidStack } from '../../../node_modules/vuepress-theme-hope/lib/client/vuepress-plugin-components/lib/client'
 export default {
   name: "YoutubeItem",
-  components: { VidStack },
+  // components: { VidStack },
   props: {
     id: {
       type: String,

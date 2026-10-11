@@ -2910,5 +2910,12 @@
     "topics": ["carbon-alternative", "cli-tool", "code-snippets", "developer-tools", "documentation-tools", "golang", "image-generation", "presentation-tools", "screenshots", "syntax-highlighting"],
     "avatar": "https://avatars.githubusercontent.com/u/4535422?s=60&v=4",
     "banner": "https://opengraph.githubassets.com/5efa5702080658aeaeb153c8149c3c45fb203f5c1b422517312e1d763efe47a4/watzon/goshot"
+  }, {
+    "repo": "kenn-io/docbank",
+    "desc": "Local-first system of record for documents (PDFs, images, text files, etc.) for you and your agents",
+    "officialSite": "https://docbank.ai",
+    "topics": [],
+    "avatar": "https://avatars.githubusercontent.com/u/259885253?s=60&v=4",
+    "banner": "https://opengraph.githubassets.com/a8fe5c322c12d9010f5030590a30b9a312e18a9c656f4feca64f5f9c02c53b5e/kenn-io/docbank"
   }
 ]

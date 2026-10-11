@@ -24,5 +24,4 @@ copyright: false
   logos="github,gitlab,swift,java,spring,springboot,springsecurity,kotlin,csharp,dotnet,css3,javascript,typescript,jquery,nodedotjs,react,vuedotjs,apachemaven,apachecordova,npm,cocoapods,gradle,subversion,mysql,mariadb,graphql,sqlite,oracle,docker,kubernetes,synology,jenkins,firebase,kakao,gitea,notion,postman,redhatopenshift,naver"/> 
 -->
 
-<!-- <DataTauItems /> -->
 <!-- <ZSyncItems /> -->

@@ -9,15 +9,14 @@ import {
 const imgLogoPath = '/images/ico-wind.svg'
 
 export default hopeTheme({
-  fullscreen: true,
-  logo: imgLogoPath,
+  hostname: "https://chanhi2000.github.io/",
   repo: 'chanhi2000/devlog',
   repoLabel: 'Github',  
+  logo: imgLogoPath,
   repoDisplay: true,
-  lastUpdated: true,
   footer: 'MIT Licensed | Copyright © 2022-present <a href="https://github.com/chanhi2000">Chan Hee Lee</a>',
   displayFooter: true,
-  hostname: "https://chanhi2000.github.io/",
+  darkmode: "enable",
   // iconAssets: "fontawesome-with-brands",
   docsDir: 'src',
   navbar: navbarEn,
@@ -27,6 +26,8 @@ export default hopeTheme({
     }
   },
   breadcrumbIcon: true,
+  lastUpdated: true,
+  fullscreen: true,
   blog: {
     intro: 'https://chanhi2000.github.io',
     description: "프로그램이 작성되는 환경부터 배포되는 환경까지 적용하는 개발자 이찬희 입니다.",
@@ -93,7 +94,7 @@ export default hopeTheme({
       notationFocus: true,
       notationHighlight: true,
       notationErrorLevel: true,
-      // collapsedLines: 12,
+      collapsedLines: 12,
       // twoslash: {
       //   twoslashOptions: {
       //     compilerOptions: {
@@ -106,10 +107,7 @@ export default hopeTheme({
   },
   plugins: {
     // blog: true,
-    sitemap: true, // 임시적으로 안됨
-    // {
-    //   excludePaths: ['/404.html']
-    // },
+    // sitemap: true, // 임시적으로 안됨
     icon: {
       assets: [
         "fontawesome", 
@@ -120,7 +118,7 @@ export default hopeTheme({
     },
     components: {
       components: [
-        "VidStack"/* , "FontIcon" */, "Badge", "Share", "PDF", "SiteInfo", "VPCard", "VPBanner"
+        "CodePen", "Badge", "Share", "PDF", "SiteInfo", "VidStack", "VPCard", "VPBanner"
       ],
       rootComponents: {
       }
@@ -160,14 +158,15 @@ export default hopeTheme({
     },
     nprogress: true,
     git: {
+      contributors: false,
       updatedTime: true,
       createdTime: true,
     },
+    /*
     search: {
       isSearchable: (page) => page.path !== '/',
     },
     pwa: {
-    /*
       showInstall: true,
       favicon: imgLogoPath,
       cacheHTML: true,
@@ -220,9 +219,7 @@ export default hopeTheme({
           },
         ],
       },
-    */
     },
-    /*
     searchPro: {
       indexContent: true,
       locales: {

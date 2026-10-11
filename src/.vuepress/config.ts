@@ -21,18 +21,16 @@ const CONSTS = {
 const imgLogoPath = '/images/ico-wind.svg'
 
 export default defineUserConfig({
-  clientConfigFile: path.resolve(__dirname, './client.ts'),
+  base: '/',
+  title: 'chanhi2000',
+  description: description,
+  head: [['link', { rel: 'icon', href: imgLogoPath }]],
+  lang: "en-US",
   define: {
     __BLOG_VERSION__: version, // reveal.js에서 같은 변수를 사용함으로 이름이 겹치지 않도록 정의
     __YOUTUBE_API_KEY__: process.env.YOUTUBE_API_KEY,
     __IS_DEBUG__: process.env.IS_DEBUG ?? false,
   },
-  lang: "en-US",
-  base: '/',
-  title: 'chanhi2000',
-  description: description,
-  head: [['link', { rel: 'icon', href: imgLogoPath }]],
-  cache: 'src/.vuepress/.cache',
   bundler: viteBundler({
     viteOptions: {
       plugins: [ 
@@ -52,8 +50,6 @@ export default defineUserConfig({
     }
   }),
   theme,
-  markdown: {
-  },
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
@@ -67,6 +63,7 @@ export default defineUserConfig({
   // Enable it with pwa
   shouldPrefetch: false,
   shouldPreload: false,
+  clientConfigFile: path.resolve(__dirname, './client.ts'),
   extendsPage: (page) => {
   
   },

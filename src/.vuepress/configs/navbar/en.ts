@@ -25,7 +25,7 @@ export const navbarEn = navbar([
         text: '개인 활동',
         icon: 'fas fa-person-hiking',
         link: '/about/personal/README.md',
-      }  
+      }
     ]
   }, {
     text: '', // Projects
@@ -102,7 +102,7 @@ export const navbarEn = navbar([
           '/academics/coen/README.md',
           '/academics/COEN020/README.md'
         ]
-      }, 
+      },
     ],
   }, {
     text: '', // programming
@@ -245,9 +245,9 @@ export const navbarEn = navbar([
         text: 'php',
         children: [
           '/programming/php/README.md',
-          '/programming/php-laravel/README.md',         
-          '/programming/php-symfony/README.md',         
-        ]        
+          '/programming/php-laravel/README.md',
+          '/programming/php-symfony/README.md',
+        ]
       }, {
         text: 'Ruby',
         link: '/programming/ruby/README.md',
@@ -324,12 +324,12 @@ export const navbarEn = navbar([
         text: 'Godot Engine',
         link: '/programming/gd/README.md',
         icon: 'iconfont icon-godot',
-      }, 
+      },
     ]
   }, {
     text: '',
     icon: 'fas fa-network-wired',
-    children: [ 
+    children: [
       {
         text: 'DevOps',
         icon: 'fas fa-network-wired',
@@ -424,6 +424,7 @@ export const navbarEn = navbar([
           '/devops/testcontainer/README.md',
           '/devops/podman/README.md',
           '/devops/k8s/README.md',
+          '/devops/k8s-helm/README.md',
           '/devops/k8s-istio/README.md',
           '/devops/openshift/README.md',
         ]
@@ -431,7 +432,7 @@ export const navbarEn = navbar([
         text: 'Terraform',
         icon: 'iconfont icon-terraform',
         link: '/devops/terraform/README.md',
-      },{
+      }, {
         text: 'AWS',
         icon: 'fa-brands fa-aws',
         link: '/devops/aws/README.md',
@@ -564,7 +565,7 @@ export const navbarEn = navbar([
         text: 'New Relic',
         icon: 'iconfont icon-newrelic',
         link: '/devops/newrelic/README.md',
-      }, 
+      },
       //endregion
     ],
   }, {
@@ -607,7 +608,7 @@ export const navbarEn = navbar([
         text: 'Tibero',
         icon: 'fas fa-t',
         link: '/data-science/tibero/README.md',
-      },  {
+      }, {
         text: 'SQLite',
         icon: 'iconfont icon-sqlite',
         link: '/data-science/sqlite/README.md',
@@ -655,12 +656,12 @@ export const navbarEn = navbar([
         text: 'Databricks',
         icon: 'iconfont icon-databricks',
         link: '/data-science/databricks/README.md',
-      }, 
+      },
     ]
   }, {
     text: '',
     icon: 'fas fa-screwdriver-wrench',
-    children: [ 
+    children: [
       {
         text: 'Tool',
         icon: 'fas fa-screwdriver-wrench',
@@ -720,7 +721,7 @@ export const navbarEn = navbar([
           '/tool/davinci/README.md',
           '/tool/blender/README.md',
         ]
-      }, { 
+      }, {
         text: 'CLI',
         children: [
           '/tool/awk/README.md',
@@ -745,7 +746,7 @@ export const navbarEn = navbar([
         text: 'Airtable',
         icon: 'iconfont icon-airtable',
         link: '/tool/airtable/README.md',
-      }, 
+      },
     ]
   }, {
     text: '', // ai
@@ -776,7 +777,7 @@ export const navbarEn = navbar([
           '/ai/v0/README.md',
           '/ai/trae/README.md',
         ]
-      }, 
+      },
     ]
   }, { // hardware
     text: '',
@@ -804,7 +805,7 @@ export const navbarEn = navbar([
         link: '/hw/arduino/README.md',
       }, {
         text: 'NAS',
-        icon: 'iconfont icon-nas',      
+        icon: 'iconfont icon-nas',
         link: '/hw/nas/README.md',
       }
     ]
@@ -812,7 +813,7 @@ export const navbarEn = navbar([
     text: '', // explore
     icon: 'fas fa-globe',
     children: [
-      { 
+      {
         text: 'Explore',
         icon: 'fas fa-globe',
         children: [
@@ -820,7 +821,7 @@ export const navbarEn = navbar([
           '/explore/study.md',
           '/explore/awesome-list.md',
         ]
-      }, {
+      },/*  {
         text: 'API',
         icon: 'iconfont icon-api',
         children: [
@@ -829,7 +830,7 @@ export const navbarEn = navbar([
           '/explore/api/sk/README.md',
           '/explore/api/coupang/README.md',
         ]
-      }, {
+      },*/ {
         text: 'YouTube',
         icon: 'fa-brands fa-youtube',
         link: '/explore/youtube/README.md',
@@ -883,7 +884,7 @@ export const navbarEn = navbar([
         text: 'Kubernetes',
         icon: 'iconfont icon-k8s',
         link: 'https://chanhi2000.github.io/crashcourse/k8s/'
-      },{
+      }, {
         text: 'DevOps',
         icon: 'fas fa-network-wired',
         link: 'https://chanhi2000.github.io/crashcourse/devops/'

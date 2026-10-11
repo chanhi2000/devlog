@@ -187,6 +187,7 @@ export const sidebarEn = sidebar({
             '/programming/gradle/snippets/open-url-in-browser.md',
             '/programming/gradle/snippets/explore-directory.md',
             '/programming/gradle/snippets/kotlin-dsl-android.md',
+            '/programming/gradle/snippets/docker-build-cache-multimodule.md',
           ]
         },
         '/programming/gradle/troubleshooting.md',
@@ -2787,7 +2788,7 @@ export const sidebarEn = sidebar({
         '/devops/github/tutorial.md',
         '/devops/github/portfolio.md',
         '/devops/github/coderabbit.md',
-        '/devops/github/github-action.md',
+        '/devops/github/actions.md',
         '/devops/github/troubleshooting.md',
         '/devops/github/references.md',
         '/devops/github/youtube.md',
@@ -3058,8 +3059,8 @@ export const sidebarEn = sidebar({
       icon: 'fa-brands fa-fedora',
       children: [
         '/devops/linux-fedora/README.md',
-        '/devops/linux-fedora/env-setup.md',
-        {
+        '/devops/linux-fedora/env-setup.md',        
+        /* {
           text: 'CentOS',
           collapsible: true,
           icon: 'fa-brands fa-centos',
@@ -3086,7 +3087,7 @@ export const sidebarEn = sidebar({
             '/devops/linux-fedora/almalinux/references.md',
             '/devops/linux-fedora/almalinux/youtube.md',
           ]
-        }, 
+        }, */
         '/devops/linux-fedora/systemctl.md',
         '/devops/linux-fedora/tips.md',
         '/devops/linux-fedora/references.md',
@@ -3269,9 +3270,18 @@ export const sidebarEn = sidebar({
       icon: 'iconfont icon-k8s',
       children: [
         '/devops/k8s/README.md',
-        '/devops/k8s/references.md',
-        '/devops/k8s/youtube.md',
         {
+          text: 'Environment Setup',
+          collapsible: true,
+          icon: 'fas fa-toolbox',
+          children: [
+            '/devops/k8s/env-setup/README.md',
+            '/devops/k8s/env-setup/linux-fedora.md',
+            '/devops/k8s/env-setup/linux-debian.md',
+          ]
+        }, 
+        '/devops/k8s/references.md',
+        '/devops/k8s/youtube.md',{
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',
@@ -3290,7 +3300,26 @@ export const sidebarEn = sidebar({
           ]
         }
       ]
-    },  {
+    }, {
+      text: 'Helm',
+      collapsible: true,
+      icon: 'iconfont icon-helm',
+      children: [
+        '/devops/k8s-helm/README.md',
+        '/devops/k8s-helm/env-setup.md',
+        '/devops/k8s-helm/references.md',
+        '/devops/k8s-helm/youtube.md',
+        {
+          text: 'Article(s)',
+          collapsible: true,
+          icon: 'fas fa-square-share-nodes',
+          children: [
+            '/devops/k8s-helm/articles/README.md',
+            asb.freecodecamp("k8s-helm"),
+          ]
+        }
+      ]
+    }, {
       text: 'Istio',
       collapsible: true,
       icon: 'iconfont icon-istio',
@@ -4661,7 +4690,7 @@ export const sidebarEn = sidebar({
         '/explore/study.md',
         '/explore/awesome-list.md',
       ],
-    }, {
+    },/*  {
       text: 'API',
       collapsible: true,
       icon: 'iconfont icon-api',
@@ -4704,7 +4733,7 @@ export const sidebarEn = sidebar({
         },
         '/explore/api/list.md',
       ],
-    }, {
+    },  */{
       text: 'Youtube',
       collapsible: true,
       icon: 'fa-brands fa-youtube',
@@ -4914,9 +4943,17 @@ export const sidebarEn = sidebar({
       icon: 'fas fa-computer',
       children: [
         '/academics/coen/README.md',
-        '/academics/coen/references.md',
-        '/academics/coen/youtube.md',
         {
+          text: 'programmers.co.kr',
+          collapsible: true,
+          icon: 'iconfont icon-programmers',
+          children: [
+            '/academics/coen/programmers.co.kr/README.md',
+            '/academics/coen/programmers.co.kr/2026-10-08.md',
+          ]
+        }, 
+        '/academics/coen/references.md',
+        '/academics/coen/youtube.md',{
           text: 'Article(s)',
           collapsible: true,
           icon: 'fas fa-square-share-nodes',

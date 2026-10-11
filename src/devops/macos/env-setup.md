@@ -46,7 +46,7 @@ head:
 
 ::: note Prerequesite(s)
 
-`terminal`
+- `terminal`
 
 :::
 
@@ -89,11 +89,12 @@ brew install qemu libvirt virt-manager;
 brew install --cask airflow alt-tab appcleaner bananas battery chatgpt clipgrab cheatsheet \
 dbeaver-community dockdoor rancher flameshot flipper font-jetbrains-mono-nerd-font \
 ghostty grandperspective intellij-idea-ce jordanbaird-ice \
-maccy notion opencore-patcher oversight pennywise pearcleaner pika puremac \
+maccy notion opencore-patcher oversight pennywise pearcleaner puremac \
 pycharm-ce raycast rectangle resilio-sync sf-symbols shortcat shottr stats \
 sublime-merge sublime-text the-unarchiver taskexplorer usr-sse2-rdm \
-transmission visual-studio-code vlc warp webstorm wireshark;
+transmission visual-studio-code vlc vorssaint warp webstorm wireshark;
 # aldente
+# pika
 ```
 
 ---
