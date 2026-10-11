@@ -86,7 +86,9 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-## ![앱 아이콘](/images/about/poole/smarthb/ico-appbook-launcher.png =x24) 앱북런처
+## 앱북런처
+
+![](/images/about/poole/smarthb/ico-appbook-launcher.png)
 
 ::: info <VPIcon icon="fa-brands fa-android"/> Android
 
@@ -121,7 +123,9 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 ---
 
-## ![앱 아이콘](/images/about/poole/smarthb/ico-appbook.png =x24) 앱북
+## 앱북
+
+![](/images/about/poole/smarthb/ico-appbook.png) 
 
 ::: info <VPIcon icon="fa-brands fa-android"/>Android
 

@@ -50,7 +50,7 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 ::: important 긴급보수 현장지원 앱 서비스 관리 (Daum 맵 위치정보 기반 멀티플랫폼 프로젝트)
 
-[![(2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역<br/><출처: 서울특별시 pave.eseoul.go.kr><br/>[![](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][ios-download] [![](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][aos-download]](/images/about/ginno/spms/spms-jumbo.jpg =250x)](https://pave.eseoul.go.kr/)
+[![(2018-2019) 서울 포장도로 관리 시스템 모바일부분 유지보수 용역<br/><출처: 서울특별시 pave.eseoul.go.kr><br/>[![](https://img.shields.io/badge/For%20iOS-999999?logo=apple&logoColor=white&style=flat-square)][ios-download] [![](https://img.shields.io/badge/For%20Android-3DDC84?logo=android&logoColor=white&style=flat-square)][aos-download]](/images/about/ginno/spms/spms-jumbo.jpg)](https://pave.eseoul.go.kr/)
 
 사용 스택: <ShieldsGroup logos="openjdk,swift,kotlin,oracle,eclipseide,postman,intellijidea,apple,xcode,cocoapods,spring,gradle,apachemaven,android,androidstudio,git,gitea"/>
 
@@ -150,7 +150,7 @@ cover: /images/about/ginno/spms/spms-bg.jpg
 
 TornadoFX 기반 JavaFX 클라이언트 프로그램
 
-![화면](/images/about/ginno/spms/spms-javafx.png =450x)
+![](/images/about/ginno/spms/spms-javafx.png)
 
 - 계정 상태 복구를 위한 사무용 데스크탑 앱 개발
 - 계정 및 전화번호 암호화 & 복호화

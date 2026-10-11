@@ -11,7 +11,7 @@ export const navbarEn = navbar([
         link: '/about/README.md',
       }, {
         text: '(2022-) 아이티정보기술(주)',
-        icon: '/images/about/ititinfo/logo.ico',
+        icon: '/images/about/ititinfo/logo.svg',
         link: '/about/ititinfo/README.md',
       }, {
         text: '(2021-2022) 풀이러닝(주)',

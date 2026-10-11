@@ -39,7 +39,17 @@ cover: /images/about/coderman.webp
 
 ### 참여 프로젝트
 
-::: info 아이티정보기술(주) (2022-2024)
+::: info 아이티정보기술(주) (2022-)
+
+```component VPCard
+{
+  "title": "RutilVM, 오픈소스 기반 가상화 자원 관리 시스템 신규개발",
+  "desc": "(2025-2026) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
+  "link": "/about/ititinfo/rutilvm.md",
+  "logo": "/images/about/ititinfo/logo.svg",
+  "background": "rgba(102,125,176,0.2)"
+}
+```
 
 ```component VPCard
 {

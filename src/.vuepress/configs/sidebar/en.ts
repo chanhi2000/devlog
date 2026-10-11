@@ -9,12 +9,13 @@ export const sidebarEn = sidebar({
       children: [
         '/about/README.md',
         {
-          text: '(2022-2024) 아이티정보기술(주)',
+          text: '(2022-) 아이티정보기술(주)',
           collapsible: true,
-          icon: '/images/about/ititinfo/logo.ico',
+          icon: '/images/about/ititinfo/logo.svg',
           children: [
             '/about/ititinfo/README.md',
             '/about/ititinfo/onsmob.md',
+            '/about/ititinfo/rutilvm.md',
           ]
         }, {
           text: '(2021-2022) 풀이러닝(주)',

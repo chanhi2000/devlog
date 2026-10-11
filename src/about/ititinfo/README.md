@@ -43,7 +43,7 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
   name="아이티정보기술(주)"
   desc="클라우드 가상화 서비스를 바탕으로 언제나 최상의 서비스를 제공하겠습니다. 국산 가상화 Contrabass와 Vmware 기반으로 클라우드 구축, 가상화 백업, 가상화 OS 및 Data 복구 및 U2L등 국내 최고수준의 맞춤형 고객 서비스를 제공하고 있습니다."
   url="http://ititinfo.com"
-  logo="/images/about/ititinfo/logo.ico"
+  logo="/images/about/ititinfo/logo.svg"
   preview="http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a1f60_water__c1_w1920_h1080.jpg"/>
 
 <p style="display:flex;align-items:center;justify-contents:flex-start">
@@ -51,7 +51,7 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
     <img alt="URP(주)" src="/images/about/logo-urp-v2.png" height="20px"/>
   </a>
   <a href="http://ititinfo.com/" style="margin-right:10px;">
-    <img alt="아이티정보기술(주)" src="/images/about/ititinfo/logo.ico" height="20px"/>
+    <img alt="아이티정보기술(주)" src="/images/about/ititinfo/logo.svg" height="20px"/>
   </a>
   <a href="https://www.klid.or.kr/" style="margin-right:10px;">
     <img alt="한국지역정보개발원" src="/images/about/logo-klid.png" height="40px"/>
@@ -61,7 +61,12 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
   </a>
 </p>
 
-- 2022-2024년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 (모바일서비스팀 PL)
+- **2025-2026년 RutilVM, 오픈소스 기반 가상화 자원 관리 시스템 신규개발 (개발본부 PL)**
+  - 시스템 생태계 운영 및 관리를 위한 전 기능 개발 (백엔드, 프론트앤드, CI/CD 파이프라인 및 기타 배포 스크립트 등등)
+  - 전 레거시 코드 리펙토링
+  - Notion을 통해 협업 및 프로젝트 업무 관리 체계 마련
+  - 기타 연계 기능 구현 및 모듈화 관리 (Socket, SMTP)
+- **2022-2024년 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 (모바일서비스팀 PL)**
   - 모바일온나라 앱 (1.0 / 2.0)
   - 모바일온나라 중계서버 (1.0 / 2.0)
   - 모바일온나라 결재서버 (1.0 / 2.0)
@@ -71,9 +76,19 @@ cover: http://ititinfo.com/thum_img/ittech01/banner/db45a70cdb160d2a9f5cb354048a
 
 ```component VPCard
 {
+  "title": "RutilVM, 오픈소스 기반 가상화 자원 관리 시스템 신규개발",
+  "desc": "(2025-2026) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
+  "link": "/about/ititinfo/rutilvm.md",
+  "logo": "/images/about/ititinfo/logo.svg",
+  "background": "rgba(102,125,176,0.2)"
+}
+```
+
+```component VPCard
+{
   "title": "모바일 온나라 1.0/2.0 (Android, Spring)",
   "desc": "(2022-2024) 정부업무관리시스템(온나라 문서) 및 정부전자문서유통지원센터 유지관리 사업 용역",
-  "link": "/about/ititinfo/onnara-m.md",
+  "link": "/about/ititinfo/onsmob.md",
   "logo": "https://gis.ndms.go.kr/gpkisecureweb/image/install/favicon.ico",
   "background": "rgba(102,125,176,0.2)"
 }
