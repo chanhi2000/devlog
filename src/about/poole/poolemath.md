@@ -54,7 +54,7 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 ::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
 
-**협헙 환경**
+**협업 환경**
 
 - <VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <VPIcon icon="fa-brands fa-jira"/>Jira / <VPIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
   - <VPIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
