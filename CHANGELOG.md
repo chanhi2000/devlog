@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com)
 and this project adheres to [Semantic Versioning](http://semver.org).
 
+- [v0.15.17 2026-10-25][v0.15.17]: 내용채워넣기
 - [v0.15.16 2026-10-14][v0.15.16]: about/ititinfo/rutilvm 페이지 내용채워넣기
 - [v0.15.15 2026-10-12][v0.15.15]: about 페이지 정정
 - [v0.15.14 2026-10-11][v0.15.14]: 내용채워넣기
@@ -120,3 +121,4 @@ and this project adheres to [Semantic Versioning](http://semver.org).
 [v0.15.14]: https://github.com/chanhi2000/devlog/compare/v0.15.13...v0.15.14
 [v0.15.15]: https://github.com/chanhi2000/devlog/compare/v0.15.14...v0.15.15
 [v0.15.16]: https://github.com/chanhi2000/devlog/compare/v0.15.15...v0.15.16
+[v0.15.17]: https://github.com/chanhi2000/devlog/compare/v0.15.16...v0.15.17

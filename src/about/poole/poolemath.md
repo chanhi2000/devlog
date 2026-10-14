@@ -52,14 +52,14 @@ cover: /images/about/poole/poolemath/poolemath-logo.gif
 
 :::
 
-::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-circle-info"/> 주요 처리내용
 
 **협업 환경**
 
 - <VPIcon icon="fa-brands fa-bitbucket"/>Bitbucket / <VPIcon icon="fa-brands fa-jira"/>Jira / <VPIcon icon="fa-brands fa-confluence"/>Confluence 를 이용한 협업 및 목표관리
-  - <VPIcon icon="fa-brands fa-jira"/>Smart Commits를 이용한 Project 진행현황 관리
-  - <VPIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 `bitbucket-pipeline.yml` 스크립트 구성
-  - <VPIcon icon="fa-brands fa-confluence"/>프로젝트 관련 문서 관리
+  - <VPIcon icon="fa-brands fa-jira"/> Smart Commits를 이용한 Project 진행현황 관리
+  - <VPIcon icon="fa-brands fa-bitbucket"/> 코드 관리 및 자동 배포 <VPIcon icon="iconfont icon-yaml"/>`bitbucket-pipeline.yml` 스크립트 구성
+  - <VPIcon icon="fa-brands fa-confluence"/> 프로젝트 관련 문서 관리
 
 **SDK 및 라이브러리 최신화**
 

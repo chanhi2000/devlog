@@ -624,7 +624,7 @@ logo="https://camo.githubusercontent.com/d2b2c8edb50ea7bb4a8816e2210c7a319a75941
 
 <!-- END: Programming Tools - General -->
 
-@tab Design & Image
+@tab <VPIcon icon="fas fa-brush"/>Design & Image
 
 <SiteInfo
   name="Frame0 | Sketch your app ideas without stress"
@@ -1631,9 +1631,65 @@ http://texturer.com/
   logo="https://zoo.dev/favicon-16x16.png"
   preview="https://zoo.dev/meta-images/zoo-homepage.png"/>
 
+<SiteInfo
+  name="Lucide Icons"
+  desc="Beautiful & consistent icon toolkit made by the community."
+  url="https://lucide.dev"
+  logo="https://lucide.dev/favicon.ico"
+  preview="https://lucide.dev/og.png"/>
+
+<SiteInfo
+  name="Phosphor Icons"
+  desc="A flexible icon family for interfaces, diagrams, presentations — whatever, really."
+  url="https://phosphoricons.com"
+  logo="https://phosphoricons.com/favicon-32.png"
+  preview="https://phosphoricons.com/phosphor-opengraph.png?v=2.0.2"/>
+
+<SiteInfo
+  name="Browse 60,000+ Icons – 10 Styles, 59 Categories | Hugeicons"
+  desc="Search and download 60,000+ icons for every project. Hugeicons offers 10 unique styles and 59 categories to match any design or development workflow."
+  url="https://hugeicons.com/icons"
+  logo="https://hugeicons.com/favicon.ico"
+  preview="https://hugeicons.com/api/og-dynamic?title=Browse%2060%2C000%2B%20Icons%20%E2%80%93%2010%20Styles%2C%2059%20Categories%20%7C%20Hugeicons&description=Search%20and%20download%2060%2C000%2B%20icons%20for%20every%20project.%20Hugeicons%20offers%2010%20unique%20styles%20and%2059%20categories%20to%20match%20any%20design%20or%20development%20workflow."/>
+
+<SiteInfo
+  name="Iconoir | Free Icons"
+  desc="Iconoir is the biggest open source icon library that provides a massive selection of high-quality icons, available for free download. No premium options or email sign-up required, free for real. Icons available in SVG, Font, React, React Native, Vue, and Flutter libraries, Figma and Framer."
+  url="https://iconoir.com"
+  logo="https://iconoir.com/favicon.png"
+  preview="https://iconoir.com/iconoir-brand.png"/>
+
+<SiteInfo
+  name="Tabler Icons: 6200+ free vector icons for web design"
+  desc="Tabler Icons: 6238 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!"
+  url="https://tabler.io/icons"
+  logo="https://tabler.io/favicon.ico"
+  preview="https://tabler.io/icons/opengraph-image-1v9qf3.png?opengraph-image.20zbtqc-elllk.png"/>
+
+<SiteInfo
+  name="Boxicons - High Quality Web Icons"
+  desc="Access 50,000+ Pro icon variations and 3,500+ free icons. High-quality SVG icons for React, Vue, Figma & more."
+  url="https://boxicons.com/icons?free=true"
+  logo="https://boxicons.com/favicon.ico"
+  preview="https://boxicons.com/opengraph-image.png"/>
+
+<SiteInfo
+  name="2299+ Free and Open Source SVG Icons - Lineicons"
+  desc="Get 2299+ free SVG icons from our open-source collection in SVG, React, HTML, PNG, Vue, Svelte, and Base64 formats. Perfect for designers & developers!"
+  url="https://lineicons.com/free-icons/"
+  logo="https://lineicons.com/favicon.ico?favicon.1mj0kq51sattk.ico"
+  preview="https://cdn.pimjo.com/lineicons-5.jpg"/>
+
+<SiteInfo
+  name="iso-glow"
+  desc="A Claude skill for interactive isometric line drawings with glow lighting, now also in 3D."
+  url="https://isoglow.dev"
+  logo="https://isoglow.dev/favicon.ico"
+  preview="https://iso-glow.vercel.app/img/tower.jpg"/>
+
 <!-- END: Design & Image -->
 
-@tab DevOps
+@tab <VPIcon icon="fas fa-network-wired"/>DevOps
 
 <SiteInfo
   name="fastlane - App automation done right"

@@ -51,7 +51,7 @@ cover: /images/about/ginno/ndms/ndms-banner.webp
 
 :::
 
-::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 개발내용
+::: details <VPIcon icon="fas fa-circle-info"/> 주요 처리내용
 
 - 상황판 현장 정보 공유 및 등록
 - 현장정보 등록 시 카메라/갤러리에 접근하여 이미지

@@ -23,7 +23,7 @@ catalog:
 
 catalogs:
   devlog: 
-    devo-api: 0.15.16
+    devo-api: 0.15.17
     
   range:
     baseline-status: ^1.1.1

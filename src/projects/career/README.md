@@ -170,6 +170,13 @@ https://skcareers.com/Recruit/
   logo="https://trueup.io/favicon/favicon-16x16.png"
   preview="https://trueup.io/img/social_card/trueup_card.png"/>
 
+<SiteInfo
+  name="freehire — the open-source search engine for tech jobs"
+  desc="Search 3M+ tech jobs indexed straight from company career boards — deduplicated and tagged by stack, seniority and location. Free, open source, no walls."
+  url="https://freehire.me"
+  logo="https://freehire.me/favicon.png"
+  preview="https://freehire.me/og.png"/>
+
 ---
 
 <TagLinks />

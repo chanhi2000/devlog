@@ -53,7 +53,7 @@ cover: /images/about/poole/smarthb/appbook-m-1.webp
 
 :::
 
-::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-circle-info"/>주요 처리내용
 
 **협업 환경**
 

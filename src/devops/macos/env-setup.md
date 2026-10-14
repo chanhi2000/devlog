@@ -86,7 +86,8 @@ brew install koekeishiya/formulae/skhd;
 brew install qemu libvirt virt-manager; 
 
 # Install cask(s)
-brew install --cask airflow alt-tab appcleaner bananas battery chatgpt clipgrab cheatsheet \
+brew install --cask alejandrobujan/tap/tendedero \
+airflow alt-tab appcleaner bananas battery chatgpt clipgrab cheatsheet \
 dbeaver-community dockdoor rancher flameshot flipper font-jetbrains-mono-nerd-font \
 ghostty grandperspective intellij-idea-ce jordanbaird-ice \
 maccy notion opencore-patcher oversight pennywise pearcleaner puremac \

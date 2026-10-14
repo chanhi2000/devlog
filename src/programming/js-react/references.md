@@ -1329,6 +1329,9 @@ https://o-yeon.tistory.com/227
 
 ## Libraries
 
+::: tabs
+
+@tab Desgin
 ```component VPCard
 {
   "title": "Cascader-ShadCN",
@@ -1338,6 +1341,13 @@ https://o-yeon.tistory.com/227
   "background": "rgba(0,0,0,0.2)"
 }
 ```
+
+<SiteInfo
+  name="Rare UI — Rare Animated React Components"
+  desc="Rare UI (RareUI) is a free, open-source registry of rare animated React components. Built with Tailwind CSS, Motion and the shadcn CLI — copy, paste, and own the code."
+  url="https://rareui.com/"
+  logo="https://rareui.com/logos/Rareui.svg"
+  preview="https://rareui.com/ogimage.webp"/>
 
 ---
 
