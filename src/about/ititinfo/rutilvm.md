@@ -90,7 +90,7 @@ cover: /images/about/ititinfo/rutilvm/hero-topology.webp
   logo="/images/about/ititinfo/logo.svg"
   preview="/images/about/ititinfo/rutilvm/hero-topology.webp"/>
 
-::: important vdsm/oVirt 오픈소스 기반 가상머신 자원 관리 시스템
+::: important <VPIcon icon="iconfont icon-ovirt"/><VPIcon icon="fa-brands fa-redhat"/> 오픈소스 기반 가상머신 자원 관리 솔루션 개발
 
 [![](/images/about/ititinfo/rutilvm/logo-rutilvm.svg)](http://rutilvm.com)
 
@@ -106,7 +106,7 @@ cover: /images/about/ititinfo/rutilvm/hero-topology.webp
   /images/about/ititinfo/rutilvm/06.png
 "/>
 
-사용 스택: <ShieldsGroup logos="openjdk,kotlin,intellijidea,gradle,spring,springboot,git,github,gitea,docker,kubernetes,nodedotjs,react,tailwindcss,shadcnui,postgresql,redhat,notion,claudecode"/>
+사용 스택: <ShieldsGroup logos="openjdk,kotlin,intellijidea,gradle,spring,springboot,git,github,gitea,docker,kubernetes,nodedotjs,react,tanstack,tailwindcss,shadcnui,postgresql,redhat,notion,claudecode"/>
 
 <SiteInfo
   name="VMware 대안 부상…아이티정보기술 'RutilVM', 기업 가상화 환경 구축"
@@ -136,11 +136,11 @@ cover: /images/about/ititinfo/rutilvm/hero-topology.webp
 - AI 활용 기능 도입 시도
   - 사내 <VPIcon icon="iconfont icon-github-actions"/>Github Actions 트리거를 위한 <VPIcon icon="iconfont icon-k8s"/>Kubernetes 기반 Github Self-hosted Runners (ARC) 구성
   - <VPIcon icon="iconfont icon-claude"/>Claude Code 환경 초기 도입
-- <VPIcon icon="iconfont icon-git"/><VPIcon icon="fas fa-code-branch"/>브랜치 생성 규칙 교육 및 관리
+- <VPIcon icon="iconfont icon-git"/><VPIcon icon="fas fa-code-branch"/>팀원 브랜치 생성 규칙 교육 및 관리
 
 **<VPIcon icon="fas fa-timeline"/> 관련 외부 활동**
 
-- (2026년 2월) TTA GS 인증 완료
+- (2026년 2월) TTA 인증 완료
 - (2026년 6월) 서울시교통공사 납품 및 유지보수 계약 완료
 
 :::

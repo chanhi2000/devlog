@@ -1,6 +1,6 @@
 {
   "name": "devo-api",
-  "version": "0.15.16",
+  "version": "0.15.17",
   "description": "Devo API",
   "main": "./dist/index.js",
   "exports": {
