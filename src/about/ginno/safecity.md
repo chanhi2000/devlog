@@ -64,7 +64,7 @@ cover: /images/about/ginno/safecity/safecity-banner.webp
 
 :::
 
-::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-circle-info"/> 주요 처리내용
 
 **<VPIcon icon="iconfont icon-api"/>API 지원종료로 인한 API 호출 기능 최신화**
 

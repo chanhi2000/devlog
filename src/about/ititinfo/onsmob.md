@@ -63,7 +63,7 @@ cover: /images/about/ititinfo/onsmob-ref1.jpg
 
 :::
 
-::: details <VPIcon icon="fas fa-person-chalkboard"/> 주요 처리내용
+::: details <VPIcon icon="fas fa-circle-info"/> 주요 처리내용
 
 **<VPIcon icon="fas fa-network-wired"/>프로젝트 관리법 개선**
 
